@@ -4484,6 +4484,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言](sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0.md) — 纸醉金迷FM以桃花源反转、妖界基层治理、逍遥丹产业链和资源不平等评析《桃花源没事》，并区分严密伏笔回收与明显线索、冗长铺垫。
 - [581. The Irish Civil War: The Killing of Michael Collins (Part 2)](sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863.md) — The Rest Is History on the Four Courts, the Free State's military consolidation, Michael Collins's death, executions, partition, and de Valera's constitutional return.
+- [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
 
 ## Entities
 - [William of Norwich](entities/WilliamOfNorwich.md) — Murdered child whose unresolved 1144 death was transformed into a contested martyr cult and influential blood-libel template.
@@ -17705,6 +17706,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [《桃花源没事》](entities/TaohuayuanMeishi.md) — 马伯庸以妖怪社区、基层治理、逍遥丹谜案和资源不平等反转桃花源，并把理想共同体重构为持续维护的实践。
 - [Éamon de Valera](entities/EamonDeValera.md) — Anti-treaty republican leader who later entered parliament, governed through the Free State, removed the oath, and recovered the Treaty Ports.
+- [阿紫 / A Zi](entities/Azi.md) — 星宿派环境与主动残忍并存、对萧峰的占有式依恋和对游坦之的利用最终汇入雁门关悲剧的《天龙八部》人物。
+- [萧峰 / Xiao Feng](entities/XiaoFeng.md) — 在阿紫篇中以阿朱的爱人和阿紫的保护者出现，并明确区分亲属责任与浪漫互惠。
+- [游坦之 / You Tanzhi](entities/YouTanzhi.md) — 家破人亡后把阿紫当作新目标，在持续虐待、献眼与殉情中逐步失去独立方向的《天龙八部》人物。
 
 ## Concepts
 - [Environmental Neuroscience](concepts/EnvironmentalNeuroscience.md) — Evidence-tiered field connecting features of physical settings to cognition, emotion, behavior, and health.
@@ -28098,5 +28102,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Commitment Evidence / AI重视证据](concepts/AICommitmentEvidence.md) — 以时间、资本、人才、流程、产品整合和净结果，而非口号，判断组织是否真正重视AI。
 - [Risk-Risk Trade-off / 风险—风险权衡](concepts/RiskRiskTradeoff.md) — Systems condition where reducing one danger raises another by changing access, information, or incentives.
 - [喜恶同因 / Same-Cause Attraction and Aversion](concepts/SameCauseAttractionAversion.md) — Causal ambivalence in which a valued benefit and disliked cost arise from the same trait, boundary, or arrangement.
+- [Possessive Attachment and Self-Erasure / 占有式依恋与自我抹除](concepts/PossessiveAttachmentAndSelfErasure.md) — 区分试图控制不可得对象与为维持靠近而放弃自身判断、身体和生活方向的两种破坏性文学关系模式。
 
 ## Syntheses

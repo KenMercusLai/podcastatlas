@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13155
+wiki_total_pages: 13158
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "YuKaichao"
     title: "游凯超 / Kaichao Yu"
     url: "/wiki/entities/yukaichao/"
+  - key: "YouTanzhi"
+    title: "游坦之 / You Tanzhi"
+    url: "/wiki/entities/youtanzhi/"
   - key: "YouXiaoying"
     title: "游晓颖 / You Xiaoying"
     url: "/wiki/entities/youxiaoying/"

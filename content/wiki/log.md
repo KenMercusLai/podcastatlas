@@ -35181,3 +35181,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女
+
+Added source `067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6`; created [[Azi|阿紫]], [[XiaoFeng|萧峰]], [[YouTanzhi|游坦之]], and [[PossessiveAttachmentAndSelfErasure|占有式依恋与自我抹除]]; and resynthesized [[TianLongBaBu|《天龙八部》]], [[NiKuang|倪匡]], and [[CompassionateCharacterInterpretation|悲悯式角色理解]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: A Zi's abandonment and 星宿派 upbringing make insecurity, flattery, poison, and dominance intelligible without settling the hosts' disagreement over temperament or excusing pleasure in harm; her attempt to possess Xiao Feng contrasts with his care without romantic reciprocity and You Tanzhi's escalating surrender of body and agency. Returning You Tanzhi's eyes and carrying Xiao Feng's body over the cliff add costly sacrifice without establishing healthy or mutual love. Ni Kuang's substitute serialization introduced A Zi's blindness, which Jin Yong retained and reworked, while revised-edition harassment and removed attractions make motive and romantic consistency version-specific. No settled contradiction was adopted. “Pure evil,” personality disorder, Stockholm syndrome, masochism, private motives, exact dialogue, and authorial intention remain source-scoped literary claims rather than diagnoses. Broad [[JinYong|金庸]], show, A Zhu, and Ding Chunqiu pages were kept closed because the focused source, principal characters, novel, author-intervention, and relationship concept capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,407 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

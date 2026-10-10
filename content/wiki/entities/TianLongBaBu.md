@@ -7,13 +7,14 @@ sources:
   - 111-quanfangwei-jiexi-tianlongbabu-zhi-shaoshishan-dazhan-flvm96zdnlgjjm7f4tfpqwmiju-t
   - 091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
-last_updated: 2026-10-10
+  - 067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-《天龙八部》 is a [[JinYong|金庸]] wuxia novel represented in the bounded sources through four complementary scales: the Song conditions that make Jianghu mobility plausible, the Shaoshi Mountain battle as a late narrative convergence point, the four villains as a test of bloodline and moral labels, and [[MurongFu|慕容复]] as a study of restoration, sovereign identity, and failed release.
+《天龙八部》 is a [[JinYong|金庸]] wuxia novel represented in the bounded sources through five complementary scales: the Song conditions that make Jianghu mobility plausible, the Shaoshi Mountain battle as a late narrative convergence point, the four villains as a test of bloodline and moral labels, [[MurongFu|慕容复]] as a study of restoration and failed release, and [[Azi|阿紫]] with [[XiaoFeng|萧峰]] and [[YouTanzhi|游坦之]] as a study of formation, cruelty, nonreciprocity, and destructive attachment.
 
 ## Current Profile
 
@@ -25,15 +26,19 @@ The four-villain discussion adds the first sustained character reading in this e
 
 The [[MurongFu|慕容复]] discussion adds a different failed-restoration arc. Real martial and social advantages cannot supply the territory, army, constituency, alliances, or systemic crisis required to revive Great Yan. As the inherited mission becomes his only viable self, relationships and moral constraints turn into expendable means; the attempt to inherit Dali shows imperial identity displacing even the stated dynastic object. His contrast with Murong Bo and Duan Yanqing also makes release, rather than victory, a decisive late-novel capacity.
 
+The [[Azi|阿紫]] discussion adds a harder boundary case for sympathetic explanation. Childhood in the 星宿派 supplies abandonment, insecurity, poison, flattery, arbitrary hierarchy, and predation, but the hosts disagree over whether those conditions fully explain her pleasure in harming vulnerable life. Her attachment to [[XiaoFeng|萧峰]] seeks strength, safety, and 阿朱's place while repeatedly disregarding his refusal; [[YouTanzhi|游坦之]] then supplies the inverse pattern by surrendering body, judgment, and life direction to someone who does not reciprocate. Returning his eyes and leaping with Xiao Feng's body add sacrifice without converting either relationship into healthy mutual love.
+
+Edition history is part of this character architecture. [[NiKuang|倪匡]] introduced A Zi's blindness during a temporary serialization handoff, and Jin Yong retained the outcome while reworking its consequences. Later revision adds 丁春秋's harassment and removes A Zi's attraction to 王星天 and 慕容复, changing both escape motive and romantic consistency. The evidence therefore cannot be silently merged into one version-independent psychology.
+
 ## Key Characteristics
 
 - Uses a mobile and commercially dense Song setting to make unofficial Jianghu actors socially plausible.
 - Joins social mobility to ethnic, political, familial, and personal identity conflict.
-- Rejects simple bloodline morality while still allowing inheritance and upbringing to shape disposition and opportunity.
-- Builds antagonists through mixed motives, trauma, attachment, rules, and consequences rather than a single moral label.
+- Rejects simple bloodline morality and single-label antagonists while tracing how inheritance, upbringing, trauma, attachment, rules, and choice shape conduct.
 - Concentrates multiple character arcs and antagonisms at the Shaoshi Mountain battle.
 - Supports institutional history, political interpretation, character ethics, and late-novel structural analysis without making those methods interchangeable.
 - Contrasts characters who can release revenge or restoration through changed identity with Murong Fu's collapse when he cannot.
+- Uses A Zi and You Tanzhi to distinguish developmental explanation from acquittal and costly devotion from reciprocity, while making edition change consequential to motive and emotional continuity.
 
 ## Evidence
 
@@ -59,15 +64,21 @@ The [[MurongFu|慕容复]] discussion adds a different failed-restoration arc. R
 - [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] follows the restoration mission into instrumental relationships, the Dali succession plan, killing, organizational collapse, and the paper-crown ending.
 - [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] contrasts Murong Fu's fixation with Murong Bo's renunciation and Duan Yanqing's release through recovered paternity.
 
+### Cruelty, attachment, and version change
+
+- [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] places A Zi's repeated cruelty against the developmental pressures of the 星宿派 while preserving disagreement about disposition and environment.
+- [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] contrasts A Zi's attempt to possess Xiao Feng with You Tanzhi's self-erasing devotion to her and Xiao Feng's care without romantic reciprocity.
+- [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] distinguishes serialization, collected, and revised lines around blindness, harassment, and A Zi's alternative attractions.
+
 ## Qualifications
 
-All four sources are podcast interpretations rather than textual editions or independent historical studies. The broad historical source offers selective examples, while the Shaoshi Mountain source is only a three-minute opening and cannot ground its advertised later analysis. The two complete character discussions remain conversational: succession legitimacy, historical analogy, martial ranking, psychology, love, authorial intention, the moral meaning of release, and claims about inherited disposition are interpretive. Version differences around Ye Erniang's harm to children and uncertainty about Murong Fu's motives prevent one silently harmonized account.
+All five sources are podcast interpretations rather than textual editions or independent historical studies. The broad historical source offers selective examples, while the Shaoshi Mountain source is only a three-minute opening and cannot ground its advertised later analysis. The three complete character discussions remain conversational: succession legitimacy, historical analogy, martial ranking, psychology, love, authorial intention, the moral meaning of release, and claims about inherited disposition are interpretive. Modern labels such as “pure evil,” personality disorder, Stockholm syndrome, or masochism are not clinical diagnoses. Version differences around Ye Erniang's harm to children, A Zi's harassment and attractions, and uncertainty about Murong Fu's motives prevent one silently harmonized account.
 
 ## What Changed
 
-- Added Murong Fu's restoration project as a mismatch between real ability and absent political capacity.
-- Added sovereign identity, instrumental relationships, and failed release as a second antagonist structure beside the four villains.
-- Distinguished the inherited Great Yan mission from the later willingness to pursue any available throne.
+- Added A Zi as a harder test of environment, disposition, explanation, and accountability.
+- Added the A Zi–Xiao Feng–You Tanzhi chain as a contrast among possession, nonreciprocal care, and self-erasure.
+- Made serialization and revision differences part of the current character synthesis.
 
 ## Relationships
 
@@ -82,3 +93,7 @@ All four sources are podcast interpretations rather than textual editions or ind
 - [[YueLaosan|岳老三 / 南海鳄神]] - comic villain whose promise-keeping gains tragic force.
 - [[WuxiaIntertextualCraft]] - craft frame for transforming cultural knowledge into martial action and characterization.
 - [[YueNvJian|《越女剑》]] - earlier point in the fictional chronology used by the bounded Jin Yong discussion.
+- [[Azi|阿紫]] - cruelty and possessive-attachment case whose motives and continuity change across editions.
+- [[XiaoFeng|萧峰]] - bereaved protector who does not convert family care into romantic reciprocity.
+- [[YouTanzhi|游坦之]] - admirer whose escalating sacrifice narrows rather than secures an independent life.
+- [[PossessiveAttachmentAndSelfErasure]] - framework for the novel's linked but distinct failures of control and surrendered agency.

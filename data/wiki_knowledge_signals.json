@@ -22884,6 +22884,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/axio/"
     },
+    "Azi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/azi/"
+    },
     "AziguliAbuduluoheman": {
       "episode_count": 1,
       "show_count": 1,
@@ -51005,9 +51021,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCharacterInterpretation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
@@ -51043,9 +51059,16 @@
           "show": "纸醉金迷FM",
           "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
           "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
+        },
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/compassionatecharacterinterpretation/"
     },
     "CompassionateCuriosity": {
@@ -185276,9 +185299,9 @@
       "url": "/wiki/entities/nikuanwesternhan/"
     },
     "NiKuang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
@@ -185293,6 +185316,13 @@
           "show": "纸醉金迷FM",
           "title": "070 倪匡传奇：姗姗来迟的纪念特辑",
           "url": "/wiki/sources/070-nikuang-chuanqi-shanshan-laichi-de-jinian-teji-llarmcbtgk78n3pbyqym5eiocboh/"
+        },
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
         }
       ],
       "updated": "2026-10-11",
@@ -204756,6 +204786,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/positivestressbreathwork/"
+    },
+    "PossessiveAttachmentAndSelfErasure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/possessiveattachmentandselferasure/"
     },
     "Post911CounterterrorismArchitecture": {
       "episode_count": 1,
@@ -255979,9 +256025,9 @@
       "url": "/wiki/entities/tiankuangxinofficial/"
     },
     "TianLongBaBu": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -256010,9 +256056,16 @@
           "show": "纸醉金迷FM",
           "title": "077 《天龙八部》之慕容复篇：人间失格的复国者",
           "url": "/wiki/sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob/"
+        },
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/tianlongbabu/"
     },
     "TianLuboWesternHan": {
@@ -278347,6 +278400,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/xiaofanzhebing/"
     },
+    "XiaoFeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xiaofeng/"
+    },
     "XiaoGuiCaoSuiInstitutionalContinuity": {
       "episode_count": 1,
       "show_count": 1,
@@ -284792,6 +284861,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/yosanoakiko/"
+    },
+    "YouTanzhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/youtanzhi/"
     },
     "YoumeiyouWenhuaXianxiang": {
       "episode_count": 1,

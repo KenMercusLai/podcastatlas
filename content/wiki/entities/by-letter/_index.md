@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13155
+wiki_total_pages: 13158
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2231,6 +2231,9 @@ wiki_pages:
   - key: "AntAfu"
     title: "阿福 / Ant Afu"
     url: "/wiki/entities/antafu/"
+  - key: "Azi"
+    title: "阿紫 / A Zi"
+    url: "/wiki/entities/azi/"
   - key: "AvignonPapacy"
     title: "阿维尼翁教廷 / Avignon Papacy"
     url: "/wiki/entities/avignonpapacy/"

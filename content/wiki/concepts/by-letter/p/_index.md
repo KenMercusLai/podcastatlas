@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10313
+wiki_total_pages: 10314
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "PositiveStressBreathwork"
     title: "Positive Stress Breathwork"
     url: "/wiki/concepts/positivestressbreathwork/"
+  - key: "PossessiveAttachmentAndSelfErasure"
+    title: "Possessive Attachment and Self-Erasure / 占有式依恋与自我抹除"
+    url: "/wiki/concepts/possessiveattachmentandselferasure/"
   - key: "PostOwnership"
     title: "Post Ownership"
     url: "/wiki/concepts/postownership/"

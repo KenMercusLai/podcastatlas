@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3378
+topic_total_pages: 3380
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2524,6 +2524,9 @@ topic_concepts:
   - key: "PositiveJournalism"
     title: "Positive Journalism"
     url: "/wiki/concepts/positivejournalism/"
+  - key: "PossessiveAttachmentAndSelfErasure"
+    title: "Possessive Attachment and Self-Erasure / 占有式依恋与自我抹除"
+    url: "/wiki/concepts/possessiveattachmentandselferasure/"
   - key: "PostOwnership"
     title: "Post Ownership"
     url: "/wiki/concepts/postownership/"
@@ -8781,6 +8784,9 @@ topic_sources:
   - key: "06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044"
     title: "06.搜神记： 二十四孝这口锅，干宝不背"
     url: "/wiki/sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044/"
+  - key: "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6"
+    title: "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女"
+    url: "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
   - key: "068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0"
     title: "068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言"
     url: "/wiki/sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0/"

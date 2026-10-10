@@ -8,8 +8,9 @@ sources:
   - 091-tianlongbabu-zhi-sida-eren-pian-yinian-chengmo-llxwafa5yi9wlhunm6yl5mqdqftn
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
+  - 067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 ## Definition
@@ -30,6 +31,8 @@ A fourth case, [[DongTianbao|董天宝]], extends the method from literary villa
 
 The [[MurongFu|慕容复]] case requires genuine ability, impossible political conditions, inherited command, personal desire, and repeated defeat to be held together. Calling him simply incompetent misses both his real advantages and the scale mismatch of restoration; calling him only a victim of family duty erases the choices by which he turns people into means. The analysis remains compassionate precisely by following the point at which understandable fixation becomes murder, betrayal, and destruction of his own political base.
 
+The [[Azi|阿紫]] case tests the method where sympathetic recovery is least available. Abandonment, insecurity, 星宿派 socialization, and revised-edition harassment make parts of her formation intelligible, but the episode repeatedly returns to pleasure in cruelty and control. Host disagreement over temperament and environment prevents a single causal verdict. The method therefore does not require discovering hidden goodness: it can preserve developmental context, version differences, final sacrifice, victims, and responsibility without converting any one element into acquittal or redemption.
+
 ## Key Claims
 
 - Understanding a character's inner logic is different from endorsing the character's behavior.
@@ -38,7 +41,7 @@ The [[MurongFu|慕容复]] case requires genuine ability, impossible political c
 - Structural pressure and trauma explain a field of action but do not make every choice inevitable or innocent.
 - Compassion remains evidence-bound: not every antagonist has equal interior depth, and interpreters should not invent it.
 - Compassion fails when it contradicts textual evidence, erases victims, aestheticizes abuse, or converts suffering into automatic redemption.
-- A complex performance can preserve moral conflict even when a screenplay compresses the character's transition.
+- Complex performance or close reading can preserve moral conflict even when a script compresses transition or the evidence yields explanation rather than sympathy, innocence, or redemption.
 
 ## Evidence
 
@@ -72,14 +75,21 @@ The [[MurongFu|慕容复]] case requires genuine ability, impossible political c
 - [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] preserves Murong Fu's martial ability and inherited pressure while showing that his restoration project lacks a plausible political base.
 - [[077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob]] identifies abandoning Wang Yuyan, killing captives and Bao Butong, and sacrificing loyal relationships as chosen thresholds rather than inevitable products of defeat.
 
+### Cruelty, formation, and resistant sympathy
+
+- [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] places A Zi's abandonment, insecurity, sect environment, and revised-edition harassment against repeated pleasure in harming vulnerable beings.
+- [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] preserves disagreement over innate disposition and environmental formation rather than making either a complete explanation.
+- [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] uses the return of You Tanzhi's eyes and final leap to qualify an all-taking profile without treating sacrifice as erased harm or full redemption.
+
 ## Counterevidence & Qualifications
 
-The evidence comprises one actor's method and four multi-host literary or film discussions; it does not establish a universal audience effect or a complete theory of character ethics. Compassionate interpretation can become distortion if it contradicts the work, aestheticizes abuse, displaces victims, turns constraint into determinism, or treats tragic history as redemption. Conversely, accountability becomes flattening when one harmful act or inherited label is made to exhaust a character's personhood. Version differences, disputed motives, screenplay compression, historical analogy, and flat characterization are reasons to narrow a claim rather than fill gaps with sympathy.
+The evidence comprises one actor's method and five multi-host literary or film discussions; it does not establish a universal audience effect or a complete theory of character ethics. Compassionate interpretation can become distortion if it contradicts the work, aestheticizes abuse, displaces victims, turns constraint into determinism, or treats tragic history or sacrifice as redemption. Conversely, accountability becomes flattening when one harmful act or inherited label is made to exhaust a character's personhood. Version differences, disputed motives, screenplay compression, historical analogy, and flat characterization are reasons to narrow a claim rather than fill gaps with sympathy. Modern psychiatric labels applied conversationally to fictional characters should not be adopted as diagnoses.
 
 ## What Changed
 
-- Added Murong Fu as a case where real capability and inherited pressure coexist with strategic failure and chosen harm.
-- Added impossible aims and destruction of one's own support base as evidence that explanation need not become exculpation.
+- Added A Zi as a resistant-sympathy case where understanding formation need not uncover innocence or hidden goodness.
+- Added explicit disagreement over disposition and environment as a reason to preserve plural causal readings.
+- Separated costly final sacrifice from complete redemption.
 
 ## Related Concepts
 
@@ -91,3 +101,5 @@ The evidence comprises one actor's method and four multi-host literary or film d
 - [[JinYongPoliticalReading]] - neighboring method connecting identity and power conflict to tragedy without reducing fiction to one code.
 - [[DongTianbao|董天宝]] - film case separating deprivation and attachment from responsibility for chosen violence.
 - [[MurongFu|慕容复]] - literary case separating inherited mission and structural impossibility from responsibility for instrumental violence.
+- [[Azi|阿紫]] - literary case separating developmental context and final sacrifice from acquittal for cruelty and control.
+- [[PossessiveAttachmentAndSelfErasure]] - relationship case distinguishing felt intensity from reciprocity, consent, and retained agency.
