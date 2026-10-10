@@ -34522,3 +34522,11 @@ Added source `607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938`; cre
 ## [2026-10-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-10] ingest | VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”
+
+Added source `vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c`; created [[PsychologicalServiceConsumerVetting|心理服务消费甄别]]; and resynthesized [[MentalHealthHelpSeekingScamRisk]], [[MentalHealthServiceRegulationGap]], and [[PsychiatricFunctionalDiagnosis]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: consumers should distinguish a sales label from actual need, assess education, sustained training, supervision, experience, accountability, emotional direction, evidence, fees, promises, and referral behavior together, and move persistent functional impairment or serious risk toward qualified care. No settled contradiction was adopted. The two-week depression example, hospital diagnostic-document process, named training routes, provider-selection heuristics, and online-versus-offline hierarchy remain source-scoped; the unnamed guest was not inferred as an entity. Broad [[Atang]] and [[ZheBingShuoLaiHuaChang]] profiles were kept closed because the focused source and concepts capture the bounded addition. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,324 sources across 800 overview paragraphs and nine topics.
+
+## [2026-10-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

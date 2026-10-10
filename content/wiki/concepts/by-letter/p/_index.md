@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10211
+wiki_total_pages: 10212
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2378,6 +2378,9 @@ wiki_pages:
   - key: "PsychologicalRealism"
     title: "Psychological Realism / 心理现实主义"
     url: "/wiki/concepts/psychologicalrealism/"
+  - key: "PsychologicalServiceConsumerVetting"
+    title: "Psychological Service Consumer Vetting / 心理服务消费甄别"
+    url: "/wiki/concepts/psychologicalserviceconsumervetting/"
   - key: "PsychologicalSurrenderTrap"
     title: "Psychological Surrender Trap / 心理迫降陷阱"
     url: "/wiki/concepts/psychologicalsurrendertrap/"

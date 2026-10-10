@@ -4397,6 +4397,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 - [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
+- [VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”](sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c.md) — 这病说来话长 episode on vetting psychological courses and services through need, qualifications, supervision, emotional effects, evidence, promises, and clinical escalation.
 
 ## Entities
 - [George Romney](entities/GeorgeRomney.md) — British portraitist whose repeated images of Emma Hamilton helped circulate her performed identities and celebrity.
@@ -17507,6 +17508,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Konstantina Stankovic](entities/KonstantinaStankovic.md) — Physician-scientist connecting inner-ear biology, subtype-aware diagnosis, hearing preservation, neural prostheses, and brain health.
 
 ## Concepts
+- [Psychological Service Consumer Vetting / 心理服务消费甄别](concepts/PsychologicalServiceConsumerVetting.md) — Layered assessment of psychological courses and services through need, competence, supervision, accountability, emotional effects, promises, and referral capacity.
 - [Embodied Classical Performance](concepts/EmbodiedClassicalPerformance.md) — Live conversion of classical images into sequences of pose, expression, drapery, gesture, and transformation.
 - [Surrender Guarantee Integrity](concepts/SurrenderGuaranteeIntegrity.md) — Principle separating disputed negotiating authority from protections owed after defenders rely on surrender terms.
 - [Diabetes Acute Crisis Recognition / 糖尿病急性危象识别](concepts/DiabetesAcuteCrisisRecognition.md) — Distinguishes diabetic ketoacidosis, hyperosmolar hyperglycemic state, and severe hypoglycemia from ordinary glucose-management problems.

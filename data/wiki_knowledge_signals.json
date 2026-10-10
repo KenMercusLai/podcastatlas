@@ -169905,9 +169905,9 @@
       "url": "/wiki/concepts/mentalhealthcrisisinterventionboundary/"
     },
     "MentalHealthHelpSeekingScamRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
@@ -169915,10 +169915,40 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
           "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        },
+        {
+          "episode_file": "lhNcjc-I257hghEUiIELzDoL4A8C [lhNcjc-I257hghEUiIELzDoL4A8C].md",
+          "key": "vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c",
+          "show": "这病说来话长",
+          "title": "VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”",
+          "url": "/wiki/sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
+    },
+    "MentalHealthServiceRegulationGap": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "lhNcjc-I257hghEUiIELzDoL4A8C [lhNcjc-I257hghEUiIELzDoL4A8C].md",
+          "key": "vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c",
+          "show": "这病说来话长",
+          "title": "VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”",
+          "url": "/wiki/sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/mentalhealthserviceregulationgap/"
     },
     "MentalHealthStructureFunctionMap": {
       "episode_count": 3,
@@ -205900,9 +205930,9 @@
       "url": "/wiki/concepts/psychiatriceverydaylanguage/"
     },
     "PsychiatricFunctionalDiagnosis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -205924,9 +205954,16 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "lhNcjc-I257hghEUiIELzDoL4A8C [lhNcjc-I257hghEUiIELzDoL4A8C].md",
+          "key": "vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c",
+          "show": "这病说来话长",
+          "title": "VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”",
+          "url": "/wiki/sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-10",
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
     },
     "PsychiatricMedicationAsSupport": {
@@ -206213,6 +206250,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/psychologicalpositioning/"
+    },
+    "PsychologicalServiceConsumerVetting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhNcjc-I257hghEUiIELzDoL4A8C [lhNcjc-I257hghEUiIELzDoL4A8C].md",
+          "key": "vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c",
+          "show": "这病说来话长",
+          "title": "VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”",
+          "url": "/wiki/sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/psychologicalserviceconsumervetting/"
     },
     "PsychologicalTimeStagecraft": {
       "episode_count": 1,

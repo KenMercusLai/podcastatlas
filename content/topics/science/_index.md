@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1520
+topic_total_pages: 1521
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4473,6 +4473,9 @@ topic_sources:
   - key: "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1"
     title: "Vol. 174 iPhone Duo买不买？苹果26秋季发布会"
     url: "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+  - key: "vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c"
+    title: "VOL.180疗愈？觉醒？潜意识？世界精神卫生日揭示“伪心理风潮”"
+    url: "/wiki/sources/vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c/"
   - key: "vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c"
     title: "VOL.188《疯狂动物城2》背后藏着的“成年人心理课”"
     url: "/wiki/sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c/"
