@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1](sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz.md) — 纸醉金迷FM以金庸情感排行、跨作品配对、百花错问答、大战与影视改编，讨论关系适配、反事实角色实验、叙事误导、群像汇流和代际观看记忆。
 - [616. Elizabeth I: The Fall of the Axe (Part 1)](sources/616-elizabeth-i-the-fall-of-the-axe-part-1-glt9331634740.md) — The Rest Is History on Elizabeth's birth, Tudor male-heir pressure, Anne Boleyn's rise and execution, Mary's demotion, and Elizabeth's resulting illegitimacy.
 - [How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh](sources/scim2057835571-scim2057835571.md) — Huberman Lab interview on audiovisual spatial remapping, saccade-linked ear signals, room acoustics, sensory-motor thought, and deliberate attention environments.
 - [魔术大师刘谦×罗永浩！你所不知道的刘谦](sources/lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte.md) — 刘谦以职业路径、现场作品、误导与强迫选择、失手恢复和保密伦理说明魔术如何把技术转化为观众亲历的不可能事件。
@@ -17436,6 +17437,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Playdate](entities/Playdate.md) — Panic handheld console whose itemized import charge made consumer tariff repayment traceable by order.
 
 ## Concepts
+- [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — evaluates fictional pairs through recognition, reciprocity, timing, agency, mutual flourishing, and bounded counterfactual substitution.
+- [Ensemble Battle Convergence / 群像大战汇流](concepts/EnsembleBattleConvergence.md) — explains battle climaxes that resolve multiple character arcs, identities, relationships, abilities, and moral choices at once.
 - [Cross-Modal Spatial Remapping](concepts/CrossModalSpatialRemapping.md) — Dynamic reconciliation of auditory location, gaze, visual source evidence, and saccade-linked ear signals.
 - [Sensory-Motor Thought Simulation](concepts/SensoryMotorThoughtSimulation.md) — Qualified hypothesis that thinking partly reuses perceptual and action systems.
 - [Acoustic Environment Perception](concepts/AcousticEnvironmentPerception.md) — How reflections, absorption, delay, and architecture shape spatial hearing and musical intelligibility.

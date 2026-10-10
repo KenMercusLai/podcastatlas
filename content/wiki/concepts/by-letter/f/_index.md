@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10168
+wiki_total_pages: 10170
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "FictionalHistoriography"
     title: "Fictional Historiography"
     url: "/wiki/concepts/fictionalhistoriography/"
+  - key: "FictionalRelationshipCompatibilityReading"
+    title: "Fictional Relationship Compatibility Reading / 虚构关系适配性阅读"
+    url: "/wiki/concepts/fictionalrelationshipcompatibilityreading/"
   - key: "FictionalCharacterTypingBoundary"
     title: "Fictional-Character Typing Boundary / 虚构人物类型化边界"
     url: "/wiki/concepts/fictionalcharactertypingboundary/"

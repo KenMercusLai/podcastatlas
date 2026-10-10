@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10168
+wiki_total_pages: 10170
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "EnlightenmentUniversalismColonialHierarchy"
     title: "Enlightenment Universalism and Colonial Hierarchy"
     url: "/wiki/concepts/enlightenmentuniversalismcolonialhierarchy/"
+  - key: "EnsembleBattleConvergence"
+    title: "Ensemble Battle Convergence / 群像大战汇流"
+    url: "/wiki/concepts/ensemblebattleconvergence/"
   - key: "EnslavedSelfEmancipation"
     title: "Enslaved Self-Emancipation"
     url: "/wiki/concepts/enslavedselfemancipation/"
