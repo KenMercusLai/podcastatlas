@@ -35201,3 +35201,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)
+
+Added source `580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213`; created [[HenryWilson]]; and resynthesized [[IrishTreatyCivilWarSplit]], [[MichaelCollinsIrishRevolutionary]], [[IrishRepublicanBrotherhood]], and [[DavidLloydGeorge]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wilson's killing intensified an already unstable treaty and Four Courts crisis, and Lloyd George's weakly evidenced ultimatum compressed the provisional government's room for delay before Ginger O'Connell's kidnapping supplied a distinct public trigger for bombardment. Ronan McGreevey's case that Collins sanctioned the attack through an IRB chain is retained as a contested, source-attributed historical argument rather than settled fact. No settled contradiction was adopted. Wilson's public hard line is qualified by reported private objections to irregular and sectarian policing without being converted into humanitarian opposition to coercion; responsibility, motives, authorization chain, causal sufficiency, and counterfactual alternatives remain source-scoped. Broad Ireland, United Kingdom, IRA, de Valera, and show pages were kept closed because the focused source, actor, organization, political leader, and treaty-split pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,410 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

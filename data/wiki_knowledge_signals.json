@@ -61426,9 +61426,9 @@
       "url": "/wiki/entities/davidlinden/"
     },
     "DavidLloydGeorge": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9826873277 [GLT9826873277].md",
@@ -61436,9 +61436,16 @@
           "show": "The Rest Is History",
           "title": "36. Our Greatest Prime Minister",
           "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
+        },
+        {
+          "episode_file": "GLT8285525213 [GLT8285525213].md",
+          "key": "580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213",
+          "show": "The Rest Is History",
+          "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
+          "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/davidlloydgeorge/"
     },
     "DavidMancuso": {
@@ -115531,6 +115538,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/henrywilliamson/"
     },
+    "HenryWilson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8285525213 [GLT8285525213].md",
+          "key": "580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213",
+          "show": "The Rest Is History",
+          "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
+          "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/henrywilson/"
+    },
     "HeqinPrincessSuccessionEntrapment": {
       "episode_count": 5,
       "show_count": 1,
@@ -132825,9 +132848,9 @@
       "url": "/wiki/concepts/irishplantation/"
     },
     "IrishRepublicanBrotherhood": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -132842,15 +132865,22 @@
           "show": "The Rest Is History",
           "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
           "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+        },
+        {
+          "episode_file": "GLT8285525213 [GLT8285525213].md",
+          "key": "580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213",
+          "show": "The Rest Is History",
+          "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
+          "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/irishrepublicanbrotherhood/"
     },
     "IrishTreatyCivilWarSplit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -132865,6 +132895,13 @@
           "show": "The Rest Is History",
           "title": "581. The Irish Civil War: The Killing of Michael Collins (Part 2)",
           "url": "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
+        },
+        {
+          "episode_file": "GLT8285525213 [GLT8285525213].md",
+          "key": "580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213",
+          "show": "The Rest Is History",
+          "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
+          "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
         }
       ],
       "updated": "2026-10-11",
@@ -174707,9 +174744,9 @@
       "url": "/wiki/entities/michaelcollins/"
     },
     "MichaelCollinsIrishRevolutionary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -174724,6 +174761,13 @@
           "show": "The Rest Is History",
           "title": "581. The Irish Civil War: The Killing of Michael Collins (Part 2)",
           "url": "/wiki/sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863/"
+        },
+        {
+          "episode_file": "GLT8285525213 [GLT8285525213].md",
+          "key": "580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213",
+          "show": "The Rest Is History",
+          "title": "580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)",
+          "url": "/wiki/sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213/"
         }
       ],
       "updated": "2026-10-11",

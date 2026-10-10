@@ -4487,6 +4487,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言](sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0.md) — 纸醉金迷FM以桃花源反转、妖界基层治理、逍遥丹产业链和资源不平等评析《桃花源没事》，并区分严密伏笔回收与明显线索、冗长铺垫。
 - [581. The Irish Civil War: The Killing of Michael Collins (Part 2)](sources/581-the-irish-civil-war-the-killing-of-michael-collins-part-2-glt3233824863.md) — The Rest Is History on the Four Courts, the Free State's military consolidation, Michael Collins's death, executions, partition, and de Valera's constitutional return.
 - [067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女](sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6.md) — 纸醉金迷FM以阿紫的残忍、星宿派成长环境、萧峰的非互惠保护、游坦之的自我抹除及版本变化讨论解释、责任与畸形依恋。
+- [580. The Irish Civil War: The Assassination of Sir Henry Wilson (Part 1)](sources/580-the-irish-civil-war-the-assassination-of-sir-henry-wilson-part-1-glt8285525213.md) — The Rest Is History on Wilson's assassination, contested responsibility, Britain's ultimatum, and the escalation from treaty split to the Four Courts bombardment.
 
 ## Entities
 - [Alan Aragon](entities/AlanAragon.md) — Nutrition and fitness communicator emphasizing evidence hierarchy, total daily protein, outcome-level comparisons, and sustainable adherence.
@@ -17713,6 +17714,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阿紫 / A Zi](entities/Azi.md) — 星宿派环境与主动残忍并存、对萧峰的占有式依恋和对游坦之的利用最终汇入雁门关悲剧的《天龙八部》人物。
 - [萧峰 / Xiao Feng](entities/XiaoFeng.md) — 在阿紫篇中以阿朱的爱人和阿紫的保护者出现，并明确区分亲属责任与浪漫互惠。
 - [游坦之 / You Tanzhi](entities/YouTanzhi.md) — 家破人亡后把阿紫当作新目标，在持续虐待、献眼与殉情中逐步失去独立方向的《天龙八部》人物。
+- [Henry Wilson](entities/HenryWilson.md) — Irish-born British field marshal and Ulster Unionist MP whose assassination intensified the Four Courts crisis before the Irish Civil War.
 
 ## Concepts
 - [Performer Health as Career Infrastructure / 表演者健康作为职业基础设施](concepts/PerformerHealthAsCareerInfrastructure.md) — Treating repeatable physical maintenance and recovery as conditions of durable live-performance work rather than short pre-show fixes.
