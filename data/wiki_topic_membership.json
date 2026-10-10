@@ -6270,6 +6270,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "589-mary-queen-of-scots-downfall-part-6-glt8999516788": [
     {
       "key": "history",
@@ -92657,6 +92664,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "WilliamMaitlandOfLethington": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WilliamMcChesneyMartin": [

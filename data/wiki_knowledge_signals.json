@@ -114771,6 +114771,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/henrystafforddukeofbuckingham/"
     },
+    "HenryStuartLordDarnley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/henrystuartlorddarnley/"
+    },
     "HenryTheNavigator": {
       "episode_count": 2,
       "show_count": 2,
@@ -134087,6 +134103,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/jamescook/"
     },
+    "JamesDouglasEarlOfMorton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jamesdouglasearlofmorton/"
+    },
     "JamesEarlRay": {
       "episode_count": 1,
       "show_count": 1,
@@ -134104,9 +134136,9 @@
       "url": "/wiki/entities/jamesearlray/"
     },
     "JamesHepburnEarlOfBothwell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8999516788 [GLT8999516788].md",
@@ -134114,6 +134146,13 @@
           "show": "The Rest Is History",
           "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
           "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        },
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
         }
       ],
       "updated": "2026-10-11",
@@ -134278,9 +134317,9 @@
       "url": "/wiki/entities/jamessteinberg/"
     },
     "JamesStewartEarlOfMoray": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8999516788 [GLT8999516788].md",
@@ -134288,6 +134327,13 @@
           "show": "The Rest Is History",
           "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
           "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        },
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
         }
       ],
       "updated": "2026-10-11",
@@ -143702,6 +143748,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/kiptindell/"
+    },
+    "KirkOFieldMurder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/kirkofieldmurder/"
     },
     "KirklandEllis": {
       "episode_count": 1,
@@ -168848,9 +168910,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -168900,6 +168962,13 @@
           "show": "The Rest Is History",
           "title": "589. Mary, Queen of Scots: Downfall (Part 6)",
           "url": "/wiki/sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788/"
+        },
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
         }
       ],
       "updated": "2026-10-11",
@@ -226475,9 +226544,9 @@
       "url": "/wiki/concepts/scalingefficiency/"
     },
     "ScandalPlausibilityLegitimacyDamage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9914208350 [GLT9914208350].md",
@@ -226499,9 +226568,16 @@
           "show": "The Rest Is History",
           "title": "128. Rasputin",
           "url": "/wiki/sources/128-rasputin-glt1290733613/"
+        },
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/scandalplausibilitylegitimacydamage/"
     },
     "ScandinavianChristianKingship": {
@@ -272817,6 +272893,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/williamjoyce/"
+    },
+    "WilliamMaitlandOfLethington": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2383249995 [GLT2383249995].md",
+          "key": "588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995",
+          "show": "The Rest Is History",
+          "title": "588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)",
+          "url": "/wiki/sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/williammaitlandoflethington/"
     },
     "WilliamMcGonagall": {
       "episode_count": 1,

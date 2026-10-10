@@ -35009,3 +35009,11 @@ Added source `scim6521025308-scim6521025308` and created [[CortisolTimingAndBurn
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)
+
+Added source `588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995`; created [[HenryStuartLordDarnley|Henry Stuart / Lord Darnley]], [[JamesDouglasEarlOfMorton|James Douglas / Earl of Morton]], [[WilliamMaitlandOfLethington|William Maitland of Lethington]], and [[KirkOFieldMurder|Kirk o' Field Murder]]; and resynthesized [[MaryQueenOfScots|Mary, Queen of Scots]], [[JamesHepburnEarlOfBothwell|James Hepburn / Earl of Bothwell]], [[JamesStewartEarlOfMoray|James Stewart / Earl of Moray]], and [[ScandalPlausibilityLegitimacyDamage]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Bothwell, Morton, Maitland, and allied nobles likely organized a failed gunpowder assassination followed by Darnley's strangulation; Mary probably lacked advance knowledge, but a council containing suspected conspirators and her continued reliance on Bothwell made innocence politically insufficient. No settled contradiction was adopted. Exact participation, Moray's foreknowledge, Mary's private knowledge, reported words, and the reconstructed murder sequence remain source-scoped. Broad Elizabeth, Cecil, Scotland, and show pages were kept closed because the focused source, principal actors, murder event, and bounded scandal update capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,385 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13127
+wiki_total_pages: 13131
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "WilliamLawrence"
     title: "William Lawrence / 威廉·劳伦斯"
     url: "/wiki/entities/williamlawrence/"
+  - key: "WilliamMaitlandOfLethington"
+    title: "William Maitland of Lethington"
+    url: "/wiki/entities/williammaitlandoflethington/"
   - key: "WilliamMcChesneyMartin"
     title: "William McChesney Martin"
     url: "/wiki/entities/williammcchesneymartin/"

@@ -10,6 +10,7 @@ sources:
   - 39-elizabeth-i-glt7302124935
   - 619-elizabeth-i-the-virgin-queen-part-4-glt7930465337
   - 589-mary-queen-of-scots-downfall-part-6-glt8999516788
+  - 588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -24,7 +25,9 @@ Mary, Queen of Scots is the Scottish sovereign whose fall separates uncertain cr
 
 Mary was dangerous because she combined Tudor blood, Catholic legitimacy, French queenship, Guise connections, and recognition among English and Scottish Catholics. The opening-reign source shows her claim shaping English policy before captivity: Cecil sought to remove French power from Scotland, the 1560 Treaty of Edinburgh required French recognition of Elizabeth, and Elizabeth later proposed [[RobertDudley|Robert Dudley]] as Mary's husband.
 
-The downfall source supplies the missing transition from reigning queen to captive claimant. It argues that Darnley's murder did not make Mary's fall inevitable and does not establish her complicity. Her reliance on [[JamesHepburnEarlOfBothwell|Bothwell]], however, destroyed visible distance from the chief suspect. His armed seizure, likely sexual coercion, and rapid marriage trapped Mary personally and politically; noble revolt, Carberry Hill, threats at Loch Leven, coerced abdication, and Langside defeat then stripped away rule. Choosing England converted failed restoration into permanent dependence on Elizabeth and Cecil.
+The murder source sharpens the transition from reigning queen to captive claimant. It places [[JamesHepburnEarlOfBothwell|Bothwell]], [[JamesDouglasEarlOfMorton|Morton]], [[WilliamMaitlandOfLethington|Maitland]], and allied nobles behind the [[KirkOFieldMurder|Kirk o' Field murder]], while judging that Mary probably lacked advance knowledge: she occupied the powder-filled lodging shortly before the blast, had rejected a dishonorable solution at Craigmillar, and reportedly panicked after the explosion. This does not make her response effective. A council containing likely conspirators could not credibly investigate itself, and Mary's failure to create visible distance from Bothwell turned uncertainty about guilt into a crisis of trust.
+
+The downfall source follows that crisis forward. Bothwell's armed seizure, likely sexual coercion, and rapid marriage trapped Mary personally and politically; noble revolt, Carberry Hill, threats at Loch Leven, coerced abdication, and Langside defeat then stripped away rule. Choosing England converted failed restoration into permanent dependence on Elizabeth and Cecil.
 
 Captivity did not neutralize Mary's assets: marriage schemes, papal support, northern revolt, invasion planning, cipher correspondence, trial, and execution all made her body and claim politically usable. The [[CasketLetters]] and English inquiry also establish an earlier pattern of legal ambiguity: evidence sufficient to block restoration need not be sufficient for conviction or release.
 
@@ -37,7 +40,7 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 - Catholic dynastic alternative to Elizabeth rather than merely a foreign prisoner.
 - Claimant whose 1568 arrival converted Scottish and French politics into English domestic security.
 - Rival whose French marriage and English claim shaped Cecil's Scottish strategy before her English captivity.
-- Deposed ruler whose coercion by Bothwell and probable innocence of Darnley's murder can coexist with catastrophic political judgment.
+- Ruler whose probable ignorance of Darnley's murder can coexist with catastrophic failure to investigate and distance herself from its chief suspect.
 - Captive claimant whose forced abdication, failed restoration, and disputed documentary case created legal-political limbo.
 - Focal point joining aristocratic marriage, rebellion, papal authority, foreign invasion, and intelligence work.
 - Anointed political actor whose status obstructed easy execution and whose responsibility is clearer in Babington evidence than in Darnley's murder or every earlier plot.
@@ -46,6 +49,7 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 
 - Pre-captivity claim: [[619-elizabeth-i-the-virgin-queen-part-4-glt7930465337]] links Mary's French queenship and arms to Cecil's Scottish intervention, the Treaty of Edinburgh, her return to Scotland, and the rejected Dudley match.
 - Scottish downfall: [[589-mary-queen-of-scots-downfall-part-6-glt8999516788]] follows Bothwell's seizure, marriage, Carberry Hill, Loch Leven, coerced abdication, Langside, and flight to England.
+- Murder knowledge boundary: [[588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995]] separates likely noble responsibility and Mary's probable ignorance from her later failure to secure a credible investigation.
 - Guilt and evidence boundary: [[589-mary-queen-of-scots-downfall-part-6-glt8999516788]] distinguishes doubtful responsibility for Darnley's murder and disputed [[CasketLetters]] from Mary's visible failures of political judgment.
 - Claimant and captivity: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] follows Mary's Scottish defeat, arrival, Norfolk marriage scheme, Northern Rising, and Ridolfi exposure.
 - Confessional threat: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] joins Mary's claim to papal excommunication and Protestant atrocity memory.
@@ -55,12 +59,12 @@ The later execution source emphasizes [[ElizabethI|Elizabeth I]]'s responsibilit
 
 ## Qualifications
 
-Mary's threat was more than symbolic, but association does not prove equal involvement in Darnley's murder or every later plot. The downfall source argues for coercion at Dunbar and against a staged abduction, but the precise evidence for rape, pregnancy, private intent, and the casket letters' authenticity remains contested. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase concern about precedent, Catholic reaction, James, or ministerial and parliamentary pressure.
+Mary's threat was more than symbolic, but association does not prove equal involvement in Darnley's murder or every later plot. The murder reconstruction makes her ignorance probable rather than certain; Craigmillar language, Moray's absence, intelligence reports, confessions, witness testimony, and her conduct remain interpretive evidence. The downfall source argues for coercion at Dunbar and against a staged abduction, but the precise evidence for rape, pregnancy, private intent, and the casket letters' authenticity remains contested. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase concern about precedent, Catholic reaction, James, or ministerial and parliamentary pressure.
 
 ## What Changed
 
 - Added the complete transition from reigning queen through Bothwell's coercion, forced abdication, and Langside defeat to English captivity.
-- Separated uncertain guilt for Darnley's murder from the stronger judgment that Mary's post-murder political choices were catastrophic.
+- Strengthened the case that Mary lacked advance knowledge of Darnley's murder while identifying council capture and continued reliance on Bothwell as the immediate legitimacy failure.
 - Added the casket-letter inquiry as an early mechanism for detention without conviction, acquittal, or restoration.
 
 ## Relationships
@@ -70,6 +74,7 @@ Mary's threat was more than symbolic, but association does not prove equal invol
 - [[WilliamCecil|William Cecil / Lord Burleigh]] - minister who repeatedly argued that Mary had to be removed.
 - [[RobertDudley|Robert Dudley / Earl of Leicester]] - Elizabeth's favorite proposed as Mary's husband in a failed dynastic-management strategy.
 - [[JamesHepburnEarlOfBothwell|James Hepburn / Earl of Bothwell]] - suspected murderer whose seizure and marriage made Mary's political collapse irreversible.
+- [[HenryStuartLordDarnley|Henry Stuart / Lord Darnley]] - husband whose threat and murder triggered the crisis that destroyed her credibility.
 - [[JamesStewartEarlOfMoray|James Stewart / Earl of Moray]] - half-brother and regent who defeated Mary's restoration and supplied evidence against her.
 - [[CasketLetters]] - disputed documents used to allege adultery and murder complicity.
 - [[FrancisWalsingham]] - intelligence operator whose controlled correspondence channel made prosecution possible.

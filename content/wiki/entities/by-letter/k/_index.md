@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13127
+wiki_total_pages: 13131
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "KiraHuyu"
     title: "Kira Huyu"
     url: "/wiki/entities/kirahuyu/"
+  - key: "KirkOFieldMurder"
+    title: "Kirk o' Field Murder"
+    url: "/wiki/entities/kirkofieldmurder/"
   - key: "KirkTanner"
     title: "Kirk Tanner"
     url: "/wiki/entities/kirktanner/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [588. Mary, Queen of Scots: The Mystery of the Exploding Mansion (Part 5)](sources/588-mary-queen-of-scots-the-mystery-of-the-exploding-mansion-part-5-glt2383249995.md) — The Rest Is History on Darnley's two-stage murder, the Bothwell-Morton-Maitland conspiracy, Mary's probable ignorance, and the accountability failure that made innocence politically insufficient.
 - [How to Control Your Cortisol & Overcome Burnout](sources/scim6521025308-scim6521025308.md) — Huberman Lab episode on cortisol's circadian timing, HPA-axis feedback, two source-described burnout patterns, routine levers, and medical and supplement boundaries.
 - [VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对](sources/vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi.md) — 这病说来话长 episode on anonymity, displaced aggression, insecurity, recognition needs, empathy limits, diagnostic caution, and proportionate online-conflict de-escalation.
 - [589. Mary, Queen of Scots: Downfall (Part 6)](sources/589-mary-queen-of-scots-downfall-part-6-glt8999516788.md) — The Rest Is History on Bothwell's coercive rise, Mary's deposition and failed restoration, the casket letters, English detention, and the distinction between uncertain murder guilt and failed rule.
@@ -4463,6 +4464,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction](sources/scim9807260634-scim9807260634.md) — Condensed Huberman Lab episode on dopamine peaks and troughs, intermittent reward, effort valuation, anti-stacking, and clinical boundaries.
 
 ## Entities
+- [Kirk o' Field Murder](entities/KirkOFieldMurder.md) — Darnley's failed escape from a gunpowder plot, strangulation outside the lodging, and the compromised investigation that followed.
+- [Henry Stuart / Lord Darnley](entities/HenryStuartLordDarnley.md) — Mary's consort, Rizzio conspirator, dynastic threat, and victim of the Kirk o' Field murder.
+- [James Douglas / Earl of Morton](entities/JamesDouglasEarlOfMorton.md) — Betrayed Rizzio conspirator whose revenge motive and retainers place him in the Darnley murder plot.
+- [William Maitland of Lethington](entities/WilliamMaitlandOfLethington.md) — Scottish secretary whose diplomatic restoration helped join former enemies around Darnley's removal.
 - [Casket Letters](entities/CasketLetters.md) — Disputed documents used to allege Mary, Queen of Scots' adultery and complicity in Darnley's murder.
 - [James Hepburn / Earl of Bothwell](entities/JamesHepburnEarlOfBothwell.md) — Scottish magnate whose suspected murder role, seizure, and marriage accelerated Mary's collapse.
 - [James Stewart / Earl of Moray](entities/JamesStewartEarlOfMoray.md) — Mary's half-brother and Protestant regent who defeated her restoration and supplied evidence against her.
