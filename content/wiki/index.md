@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard](sources/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard-scim4914799004.md) — Huberman Lab interview on active adult learning, synaptic and neuromodulator timing, paired vagus stimulation, stroke rehabilitation, tinnitus retuning, and evidence limits.
 - [591. The Assassination of Abraham Lincoln: Manhunt for the Killer (Part 2)](sources/591-the-assassination-of-abraham-lincoln-manhunt-for-the-killer-part-2-glt7618197031.md) — The Rest Is History on Lincoln's murder and funeral, the multi-target conspiracy, Booth's escape and death, martyrdom, and a bounded Reconstruction counterfactual.
 - [VOL.175这医生真的有病，比患者还离谱｜医师节](sources/vol-175-zhe-yisheng-zhende-you-bing-bi-huanzhe-hai-lipu-yishijie-lgyylbmr0mqnjdua4cks1cirlsc_.md) — 医务工作者从患者侧讨论伤病、检查与住院体验、依从性、ADHD自我理解、减重误区、康复节奏和同理心。
+- [071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨](sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf.md) — 纸醉金迷FM以鹧鸪哨寻找雮尘珠的失败往事连接鬼洞诅咒、搬山与摸金规则、科学化灵异解释及通往云南献王墓的线索。
 - [072 《射雕英雄传》之东邪黄药师篇](sources/072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig.md) — 纸醉金迷FM以三分钟开场并置黄药师的才情、人情、桃花岛诗意与残酷争议，并把完整人物判断保留为未决。
 - [李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路](sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228.md) — 罗永浩对谈李想，从青少年互联网创业、汽车之家和理想汽车创立谈到增程家庭车、组织争论、危机透明、MEGA修正、长期迭代与AI司机评价。
 - [073 《倪匡传奇》第二弹：倪匡奇异往事大公布](sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv.md) — 纸醉金迷FM以倪匡的大兴安岭、治淮与苏北经历连接创作素材、时代生活和怪谈，并区分叙事价值与历史、科学及超自然验证。
@@ -4879,6 +4880,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
 - [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
 - [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以关卡式冒险、民俗谜题、虚构生态、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
+- [《龙岭迷窟》 / Longling Maze](entities/LonglingMazeGhostBlowsOutTheLight.md) — 《鬼吹灯》第二册的诅咒与谱系桥梁，以鹧鸪哨往事和献王墓地图把精绝线索转向云南。
+- [鹧鸪哨 / Zhegu Shao](entities/ZheguShao.md) — 扎格拉玛后裔与搬山道人，以规则约束下的能力、坦荡和付出代价仍未完成的雮尘珠使命进入当前知识。
+- [雮尘珠 / Muchen Pearl](entities/MuchenPearl.md) — 连接扎格拉玛诅咒、鹧鸪哨失败、Shirley杨继承使命与云南路线的虚构任务物。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料与制度研究支撑通俗悬疑叙事，并在固定历史结局中安排人物、动机与行动的作家。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
@@ -18019,6 +18023,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
 - [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 先让细节承担局部功能，再使其以新的因果、规则、人物、环境解释或包袱功能返回。
 - [Adventure-Game Narrative Structure / 冒险游戏式叙事结构](concepts/AdventureGameNarrativeStructure.md) — 以路线、环境线索、谜题、战斗状态与奖励构成连续推进，同时区分结构类比与直接游戏影响。
+- [Rule-Bound Adventure Problem Solving / 规则约束式冒险解题](concepts/RuleBoundAdventureProblemSolving.md) — 以多重规则、有限时间和不完整知识构造冒险难题，并通过既有工具、环境利用与人物选择完成解法。
+- [Scientific-Naturalistic Supernatural Ambiguity / 科学化解释与灵异留白](concepts/ScientificNaturalisticSupernaturalAmbiguity.md) — 用医学、生态或机械化语言使超自然威胁可观察，同时保留无法完全消解的灵异不确定性。
 - [Expectation-Reversal Comedy / 预期反转喜剧](concepts/ExpectationReversalComedy.md) — 建立清晰的叙事、道德或文化预期后，以出乎意料但符合人物逻辑的结果完成喜剧。
 - [Sound-Led Comic Deception / 声音主导的喜剧骗局](concepts/SoundLedComicDeception.md) — 用声音让有限场景代表更大世界，同时让观众看见幻觉背后的表演劳动与穿帮风险。
 - [Adventure as Vocational Identity / 冒险作为职业身份](concepts/AdventureAsVocationalIdentity.md) — 危险或边缘工作把零散经验转化为能力、归属与方向，而退出并不要求否定旅程曾提供的意义。

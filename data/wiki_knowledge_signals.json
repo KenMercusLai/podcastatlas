@@ -102173,9 +102173,9 @@
       "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
     },
     "GhostBlowsOutTheLight": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lgFEDG0Shv4W7uGZBdQfhZDXnrqW [lgFEDG0Shv4W7uGZBdQfhZDXnrqW].md",
@@ -102232,9 +102232,16 @@
           "show": "纸醉金迷FM",
           "title": "081 趣话《鬼吹灯》之云南虫谷P2：比虫子更可怕的是人心",
           "url": "/wiki/sources/081-quhua-gui-chuideng-zhi-yunnan-chonggu-p2-bi-chongzi-geng-kepa-de-shi-renxin-lrb18sqzlosl-ckn5jdq-_pfyxst/"
+        },
+        {
+          "episode_file": "loUsOkJTB96TwCfUZ1troS-vkGcf [loUsOkJTB96TwCfUZ1troS-vkGcf].md",
+          "key": "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf",
+          "show": "纸醉金迷FM",
+          "title": "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨",
+          "url": "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/ghostblowsoutthelight/"
     },
     "GhostDance": {
@@ -159435,6 +159442,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/longitudinalrelationshiptrust/"
     },
+    "LonglingMazeGhostBlowsOutTheLight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loUsOkJTB96TwCfUZ1troS-vkGcf [loUsOkJTB96TwCfUZ1troS-vkGcf].md",
+          "key": "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf",
+          "show": "纸醉金迷FM",
+          "title": "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨",
+          "url": "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/longlingmazeghostblowsoutthelight/"
+    },
     "LongluePrincessWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -179389,6 +179412,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/muxianshengwesternhan/"
+    },
+    "MuchenPearl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loUsOkJTB96TwCfUZ1troS-vkGcf [loUsOkJTB96TwCfUZ1troS-vkGcf].md",
+          "key": "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf",
+          "show": "纸醉金迷FM",
+          "title": "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨",
+          "url": "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/muchenpearl/"
     },
     "MughalArchitecturalSynthesis": {
       "episode_count": 2,
@@ -223365,6 +223404,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/ruijinhospital/"
     },
+    "RuleBoundAdventureProblemSolving": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loUsOkJTB96TwCfUZ1troS-vkGcf [loUsOkJTB96TwCfUZ1troS-vkGcf].md",
+          "key": "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf",
+          "show": "纸醉金迷FM",
+          "title": "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨",
+          "url": "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/ruleboundadventureproblemsolving/"
+    },
     "RuleBoundDetectivePlotInnovation": {
       "episode_count": 1,
       "show_count": 1,
@@ -226756,6 +226811,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/scientificexplorationimperialclaim/"
+    },
+    "ScientificNaturalisticSupernaturalAmbiguity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loUsOkJTB96TwCfUZ1troS-vkGcf [loUsOkJTB96TwCfUZ1troS-vkGcf].md",
+          "key": "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf",
+          "show": "纸醉金迷FM",
+          "title": "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨",
+          "url": "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/scientificnaturalisticsupernaturalambiguity/"
     },
     "ScientificPrecariat": {
       "episode_count": 1,
@@ -289489,6 +289560,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
+    },
+    "ZheguShao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loUsOkJTB96TwCfUZ1troS-vkGcf [loUsOkJTB96TwCfUZ1troS-vkGcf].md",
+          "key": "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf",
+          "show": "纸醉金迷FM",
+          "title": "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨",
+          "url": "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/zhegushao/"
     },
     "ZhejiangUniversityChildrensHospital": {
       "episode_count": 1,

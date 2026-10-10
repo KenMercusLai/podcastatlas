@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10290
+wiki_total_pages: 10292
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "ScientificSkepticism"
     title: "Scientific Skepticism"
     url: "/wiki/concepts/scientificskepticism/"
+  - key: "ScientificNaturalisticSupernaturalAmbiguity"
+    title: "Scientific-Naturalistic Supernatural Ambiguity / 科学化解释与灵异留白"
+    url: "/wiki/concepts/scientificnaturalisticsupernaturalambiguity/"
   - key: "ScientistAsProjectOrganizer"
     title: "Scientist As Project Organizer / 科学家作为项目组织者"
     url: "/wiki/concepts/scientistasprojectorganizer/"

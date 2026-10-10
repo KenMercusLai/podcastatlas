@@ -34969,3 +34969,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨
+
+Added source `071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf`; created [[LonglingMazeGhostBlowsOutTheLight|《龙岭迷窟》]], [[ZheguShao|鹧鸪哨]], [[MuchenPearl|雮尘珠]], [[RuleBoundAdventureProblemSolving|规则约束式冒险解题]], and [[ScientificNaturalisticSupernaturalAmbiguity|科学化解释与灵异留白]]; and resynthesized [[GhostBlowsOutTheLight|《鬼吹灯》]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the eye-shaped curse turns an apparent haunting into an inherited bodily and family mission; 鹧鸪哨's failed search connects rule-bound competence, irreversible loss and intergenerational transmission; and the bone text, jade beast and 陈瞎子's map redirect the artifact quest toward 云南虫谷. No settled contradiction was adopted. The episode itself questions the coherence of 搬山 specialization and one geomantic claim, while ancient scripts, blood-iron loss, curse inheritance, tomb rules, toxic insects, corpse change, 痋术 and historical or folkloric analogies remain fictional, conversational or source-scoped rather than verified knowledge. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], [[HistoricalFantasySourceLayering]], [[AdventureGameNarrativeStructure]], and [[NarrativeSetupAndPayoff]] pages were kept closed because the focused source, entities, concepts and series update capture the bounded addition without reopening large or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,380 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

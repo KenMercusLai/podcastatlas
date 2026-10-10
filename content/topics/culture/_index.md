@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3372
+topic_total_pages: 3373
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8778,6 +8778,9 @@ topic_sources:
   - key: "07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165"
     title: "07.用荣格理论分析《小王子》 永恒少年及其他"
     url: "/wiki/sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165/"
+  - key: "071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf"
+    title: "071 趣话《鬼吹灯》之前尘往事：搬山道人鹧鸪哨"
+    url: "/wiki/sources/071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf/"
   - key: "073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv"
     title: "073 《倪匡传奇》第二弹：倪匡奇异往事大公布"
     url: "/wiki/sources/073-nikuang-chuanqi-di-erdan-nikuang-qiyi-wangshi-da-gongbu-lomvpjz7gvqycnafmlajvyge-lkv/"
