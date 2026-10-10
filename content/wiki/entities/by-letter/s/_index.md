@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13097
+wiki_total_pages: 13102
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "Sinocism"
     title: "Sinocism"
     url: "/wiki/entities/sinocism/"
+  - key: "SirJohnFrench"
+    title: "Sir John French"
+    url: "/wiki/entities/sirjohnfrench/"
   - key: "SirWilliamHamilton"
     title: "Sir William Hamilton"
     url: "/wiki/entities/sirwilliamhamilton/"

@@ -24993,6 +24993,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleoflaketrasimene/"
     },
+    "BattleOfLeCateau1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5758313909 [GLT5758313909].md",
+          "key": "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909",
+          "show": "The Rest Is History",
+          "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
+          "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/battleoflecateau1914/"
+    },
     "BattleOfLesnaya": {
       "episode_count": 1,
       "show_count": 1,
@@ -25109,6 +25125,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/battleofmetaurus/"
+    },
+    "BattleOfMons1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5758313909 [GLT5758313909].md",
+          "key": "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909",
+          "show": "The Rest Is History",
+          "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
+          "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/battleofmons1914/"
     },
     "BattleOfNarva": {
       "episode_count": 1,
@@ -25384,6 +25416,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/battleoftannenberg1914/"
+    },
+    "BattleOfTheFrontiers1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5758313909 [GLT5758313909].md",
+          "key": "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909",
+          "show": "The Rest Is History",
+          "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
+          "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/battleofthefrontiers1914/"
     },
     "BattleOfTheNile": {
       "episode_count": 2,
@@ -31577,6 +31625,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/britishempire/"
+    },
+    "BritishExpeditionaryForce1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5758313909 [GLT5758313909].md",
+          "key": "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909",
+          "show": "The Rest Is History",
+          "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
+          "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/britishexpeditionaryforce1914/"
     },
     "BritishFascism": {
       "episode_count": 4,
@@ -187547,6 +187611,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/oedipustyrannos/"
     },
+    "OffensiveDoctrineFirepowerMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5758313909 [GLT5758313909].md",
+          "key": "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909",
+          "show": "The Rest Is History",
+          "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
+          "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/concepts/offensivedoctrinefirepowermismatch/"
+    },
     "OffensiveHumorSpeechSpace": {
       "episode_count": 3,
       "show_count": 2,
@@ -233489,6 +233569,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/sinnfein/"
+    },
+    "SirJohnFrench": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5758313909 [GLT5758313909].md",
+          "key": "595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909",
+          "show": "The Rest Is History",
+          "title": "595. The First World War: The Battle of the Frontiers (Part 2)",
+          "url": "/wiki/sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909/"
+        }
+      ],
+      "updated": "2026-10-10",
+      "url": "/wiki/entities/sirjohnfrench/"
     },
     "SirWilliamHamilton": {
       "episode_count": 3,

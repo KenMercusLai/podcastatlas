@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [595. The First World War: The Battle of the Frontiers (Part 2)](sources/595-the-first-world-war-the-battle-of-the-frontiers-part-2-glt5758313909.md) — The Rest Is History on France's failed opening offensives, the BEF at Mons and Le Cateau, the Great Retreat, coalition friction, and industrial firepower.
 - [074 只因在人群中多看了她一眼：《射雕英雄传》之主角母亲大对比](sources/074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas.md) — 纸醉金迷FM以包惜弱与李萍比较乱世求生、身份隐瞒、溺爱、身教与母职牺牲，并保留环境、师父和个人选择的共同作用。
 - [596. The First World War: The Miracle on the Marne (Part 3)](sources/596-the-first-world-war-the-miracle-on-the-marne-part-3-glt2229565266.md) — The Rest Is History on the Marne counterattack, German overextension and command failure, the limited taxi operation, and the transition toward trench stalemate.
 - [何广智×罗永浩！何广智：我到长安了](sources/heguangzhi-luoyonghao-heguangzhi-wo-dao-changan-le-lkz6amse3ftpktl8vkozpfxj2kwt.md) — 罗永浩对谈何广智，从夺冠策略、素材储备和现场迭代谈到城乡成长、羞耻经验的喜剧转化、职业路径与专场目标。
@@ -4441,6 +4442,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health-scim6622063277.md) — Condensed Huberman Lab episode on calorie balance, circadian eating-window consistency, physiological fasting state, post-meal movement, and individualized safety boundaries.
 
 ## Entities
+- [Battle of the Frontiers (1914)](entities/BattleOfTheFrontiers1914.md) — Failed French opening campaign whose losses forced retreat and strategic reassessment before the Marne.
+- [British Expeditionary Force (1914)](entities/BritishExpeditionaryForce1914.md) — Small professional British force combining high tactical skill with severe numerical, logistical, and coalition constraints.
+- [Battle of Mons (1914)](entities/BattleOfMons1914.md) — Canal defense where disciplined British fire delayed a larger German force before strategic exposure compelled withdrawal.
+- [Battle of Le Cateau (1914)](entities/BattleOfLeCateau1914.md) — Costly British stand whose local defensive purpose was to restore the possibility of continued retreat.
+- [Sir John French](entities/SirJohnFrench.md) — BEF commander whose shift from threat underestimation to despair endangered opening-campaign coordination.
 - [包惜弱 / Bao Xiruo](entities/BaoXiruo.md) — 《射雕英雄传》中以慈悲、依赖、身份隐瞒与分裂归属构成复杂母职困境的人物。
 - [李萍（金庸小说） / Li Ping (Jin Yong)](entities/LiPingJinYong.md) — 《射雕英雄传》中以求生、劳动、身份教育与家国责任塑造郭靖价值底色的母亲。
 - [First Battle of the Marne](entities/FirstBattleOfMarne.md) — September 1914 Allied counterattack that stopped Germany's advance and redirected the Western Front toward entrenchment.
@@ -17603,6 +17609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claire Lungo](entities/ClaireLungo.md) — Data scientist connecting statistics and ML foundations to model choice, domain-aware prompting, application auditability, and disciplined GenAI evaluation.
 
 ## Concepts
+- [Offensive Doctrine-Firepower Mismatch](concepts/OffensiveDoctrineFirepowerMismatch.md) — Failure produced when attack-centered assumptions do not fit reconnaissance, artillery, machine guns, and prepared defense.
 - [母职求生与牺牲伦理 / Maternal Survival and Sacrifice Ethics](concepts/MaternalSurvivalSacrificeEthics.md) — 将长期求生和照护劳动与后来的自我牺牲共同评价，并拒绝把死亡当作母爱唯一证明。
 - [Taxis of the Marne](concepts/TaxisOfTheMarne.md) — Real but operationally limited emergency transport transformed into a patriotic legend of civilian mobilization.
 - [Shame-to-Comedy Transformation / 羞耻经验的喜剧转化](concepts/ShameToComedyTransformation.md) — Turning concealed class, appearance, taste, and social experience into comedy without fixing an early persona as permanent identity.

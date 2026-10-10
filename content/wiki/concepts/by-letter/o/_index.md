@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10270
+wiki_total_pages: 10271
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "OffPremiseRestaurantCommerce"
     title: "Off-Premise Restaurant Commerce"
     url: "/wiki/concepts/offpremiserestaurantcommerce/"
+  - key: "OffensiveDoctrineFirepowerMismatch"
+    title: "Offensive Doctrine-Firepower Mismatch"
+    url: "/wiki/concepts/offensivedoctrinefirepowermismatch/"
   - key: "OffensiveHumorSpeechSpace"
     title: "Offensive Humor Speech Space / 冒犯性幽默空间"
     url: "/wiki/concepts/offensivehumorspeechspace/"
