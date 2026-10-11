@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Foods & Nutrients Control Our Moods](sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562.md) — Condensed Huberman Lab episode on embodied emotion, vagal and nutrient sensing, food-related neuromodulation, individualized microbiome response, and belief-linked physiology.
 - [047 从《还珠格格》十级问答聊开去](sources/lmjhsewrqbnqsy8d1ilyp_xo885e.md) — 纸醉金迷FM从十级问答转向人物重估，以双女主互补、喜剧解构权威、证据化和解及父皇祛魅重读《还珠格格》。
 - [534. Emperors of Rome: Sex Secrets of the Caesars (Part 1)](sources/534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602.md) — The Rest Is History introduction to Suetonius's scholarship, court access, imperial biography, Augustan performance, Roman sexual status, and gossip as cultural evidence.
 - [The Art of Learning & Living Life | Josh Waitzkin](sources/scim6762906273-scim6762906273.md) — Huberman Lab conversation on cross-domain mastery, pressure-loss analysis, MIQ incubation, transition-zone training, dynamic renewal, and post-conscious performance.

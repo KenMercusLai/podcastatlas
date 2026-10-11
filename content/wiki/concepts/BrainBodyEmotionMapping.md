@@ -12,8 +12,9 @@ sources:
   - the-science-of-emotions-relationships-scim6339543648
   - how-foods-nutrients-control-our-moods-scim8271372367
   - scim8789190900-scim8789190900
+  - essentials-how-foods-nutrients-control-our-moods-scim4673722562
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-11
 ---
 
 # Brain-Body Emotion Mapping
@@ -35,6 +36,8 @@ The fear-and-trauma episode adds an insular calibration example. A discussed mou
 The early emotion-and-relationships episode contributes a descriptive attention layer. Its [[EmotionStateCoordinateModel]] joins arousal and valence to inward-versus-outward attention and uses a brief interoception/exteroception exercise to make state weighting observable. The same source cautions that vagal signaling is not uniformly calming, strengthening the need to distinguish a body pathway from the direction of the resulting state change.
 
 The earlier food-and-mood episode adds an action-and-nutrition application. Attraction and aversion bias movement toward or away from stimuli, while organ signals, nutrient sensing, immune state, satiety, and neuromodulation can alter that action readiness. This supports the embodied model but does not establish that one food, supplement, transmitter, microbiome state, or vagal pathway determines an emotion.
+
+The later Essentials edit condenses that same action-and-nutrition account. It reinforces editorial continuity around attraction, aversion, organ sensing, and food-related state change without adding an independent physiological map or intervention test.
 
 The still-earlier stress episode adds a fit hypothesis: a bodily state may feel different depending on whether it matches external demands, as fatigue can be appropriate at bedtime and aversive when action is required. This is a useful contextual illustration of embodied emotion, not a complete theory of valence or evidence that mismatch alone causes distress.
 
@@ -64,13 +67,15 @@ The still-earlier stress episode adds a fit hypothesis: a bodily state may feel 
 - Vagal-state qualification - [[the-science-of-emotions-relationships-scim6339543648]] says vagal stimulation can increase activation and alertness rather than functioning as a universal calming signal.
 - Action-and-nutrition application - [[how-foods-nutrients-control-our-moods-scim8271372367]] connects attraction, aversion, organ sensing, food approach, satiety, and neuromodulation while keeping specific nutrient and treatment claims bounded.
 - State-context fit - [[scim8789190900-scim8789190900]] proposes that emotional valence partly reflects whether bodily alertness or fatigue fits current external demands.
+- Condensed action-and-nutrition provenance - [[essentials-how-foods-nutrients-control-our-moods-scim4673722562]] repeats the embodied attraction, aversion, organ-sensing, and nutrient-state account without adding independent evidence.
 
 ## Counterevidence & Qualifications
-The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder. The insula result is a mouse manipulation and cannot diagnose, localize, or prescribe treatment for human fear or trauma. State-context fit is descriptive rather than a validated valence equation. Nutrition, supplement, microbiome, and neurotransmitter claims likewise do not supply a one-to-one emotional decoder or individualized mood treatment.
+The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder. The insula result is a mouse manipulation and cannot diagnose, localize, or prescribe treatment for human fear or trauma. State-context fit is descriptive rather than a validated valence equation. The full food-and-mood episode and its Essentials edit are overlapping provenance, not independent confirmation. Nutrition, supplement, microbiome, and neurotransmitter claims likewise do not supply a one-to-one emotional decoder or individualized mood treatment.
 
 ## What Changed
 - Added the early state-context fit hypothesis for why a similar bodily state can feel good or bad in different circumstances.
 - Clarified that fit is a contextual illustration rather than a complete valence model.
+- Added the food-and-mood Essentials edit as overlapping provenance without changing the current embodied-emotion judgment.
 
 ## Related Concepts
 - [[EmotionsAsFunctionalControlStates]] - broader emotion framework that body mapping may refine.

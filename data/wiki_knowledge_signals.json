@@ -11950,9 +11950,9 @@
       "url": "/wiki/entities/aliansari/"
     },
     "AliCrum": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1082295503 [SCIM1082295503].md",
@@ -11981,9 +11981,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
           "url": "/wiki/sources/essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808/"
+        },
+        {
+          "episode_file": "SCIM4673722562 [SCIM4673722562].md",
+          "key": "essentials-how-foods-nutrients-control-our-moods-scim4673722562",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/alicrum/"
     },
     "AliIbnAbiTalib": {
@@ -31007,9 +31014,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -31073,9 +31080,16 @@
           "show": "Huberman Lab",
           "title": "Master Stress: Tools for Managing Stress & Anxiety",
           "url": "/wiki/sources/scim8789190900-scim8789190900/"
+        },
+        {
+          "episode_file": "SCIM4673722562 [SCIM4673722562].md",
+          "key": "essentials-how-foods-nutrients-control-our-moods-scim4673722562",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
     "BrainComputerInterface": {
@@ -132712,9 +132726,9 @@
       "url": "/wiki/concepts/internetpoliticalamplification/"
     },
     "InteroceptiveBrainBodyCommunication": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4317576130 [SCIM4317576130].md",
@@ -132736,6 +132750,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
           "url": "/wiki/sources/scim9382980793-scim9382980793/"
+        },
+        {
+          "episode_file": "SCIM4673722562 [SCIM4673722562].md",
+          "key": "essentials-how-foods-nutrients-control-our-moods-scim4673722562",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562/"
         }
       ],
       "updated": "2026-10-11",
@@ -178926,9 +178947,9 @@
       "url": "/wiki/concepts/mindfulnoticingunderuncertainty/"
     },
     "MindsetPhysiologyEffects": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2208611274 [SCIM2208611274].md",
@@ -178964,6 +178985,13 @@
           "show": "Huberman Lab",
           "title": "Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer",
           "url": "/wiki/sources/scim9748845060-scim9748845060/"
+        },
+        {
+          "episode_file": "SCIM4673722562 [SCIM4673722562].md",
+          "key": "essentials-how-foods-nutrients-control-our-moods-scim4673722562",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562/"
         }
       ],
       "updated": "2026-10-11",

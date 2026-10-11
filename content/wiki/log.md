@@ -35700,3 +35700,11 @@ Added source `lmjhsewrqbnqsy8d1ilyp_xo885e`; created [[HuanzhuGege|《还珠格�
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: How Foods & Nutrients Control Our Moods
+
+Added source `essentials-how-foods-nutrients-control-our-moods-scim4673722562`; and resynthesized [[AliCrum|Alia Crum]], [[BrainBodyEmotionMapping]], [[InteroceptiveBrainBodyCommunication]], and [[MindsetPhysiologyEffects]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: attraction and aversion are embodied action tendencies; heterogeneous vagal and nutrient-sensing pathways can shape food pursuit and felt state; microbiome, supplement, dietary, and psychiatric claims remain person-, compound-, dose-, and evidence-dependent; and the milkshake-labeling example supports a bounded interaction between interpretation and physiology rather than mind overriding material input. No settled contradiction was adopted. This Essentials release condenses the already-ingested 2021 full episode and therefore adds editorial provenance rather than independent confirmation. EPA-versus-fluoxetine, amino-acid, meal-timing, probiotic, fermented-food, sweetener, and clinical mood claims remain source-scoped or clinically bounded. Broad [[AndrewHuberman]], [[HubermanLab]], sugar-craving, microbiome, and depression pages were kept closed because the source and four focused updates capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,470 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 40 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

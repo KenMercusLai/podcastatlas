@@ -505,7 +505,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "SCIM5466682268 [SCIM5466682268].md",
-      "source_note_count": 409,
+      "source_note_count": 410,
       "topic_matched_source_note_count": 198,
       "topics": [
         {
@@ -563,6 +563,13 @@
           "episode_count": 8
         },
         {
+          "key": "AliCrum",
+          "title": "Alia Crum",
+          "url": "/wiki/entities/alicrum/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
           "key": "DavidAnderson",
           "title": "David Anderson",
           "url": "/wiki/entities/davidanderson/",
@@ -582,13 +589,6 @@
           "url": "/wiki/entities/peterattia/",
           "kind": "person",
           "episode_count": 5
-        },
-        {
-          "key": "AliCrum",
-          "title": "Alia Crum",
-          "url": "/wiki/entities/alicrum/",
-          "kind": "person",
-          "episode_count": 4
         }
       ],
       "start_here_episode_files": [
