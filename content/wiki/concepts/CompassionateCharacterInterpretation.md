@@ -10,8 +10,9 @@ sources:
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
   - 067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6
   - ljyhr2aom69hckwuywi4czovrhcu
+  - lqrlbs47ruozcivwkh0ltyydbysn
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-11
+last_updated: 2026-10-12
 ---
 
 ## Definition
@@ -36,6 +37,8 @@ The [[Azi|阿紫]] case tests the method where sympathetic recovery is least ava
 
 The [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] adds a comparative stress test. Blood Knife Ancestor, Eastern Invincible, Mei Chaofeng, Li Mochou, Ouyang Ke, Murong Fu, Jiumozhi, Duan Yanqing, and Kang Min attract interest for very different mixtures of candor, attachment, rules, ambition, injury, and strategy. The comparison confirms that “compelling” is not a synonym for “good” or “redeemed,” and it distinguishes private vice, opposition to a protagonist, open predation, hypocrisy, and retained human attachment instead of treating “villain” as a stable explanatory category.
 
+[[lqrlbs47ruozcivwkh0ltyydbysn]] turns that ranking comparison into a close contrast inside [[LianChengJue|《连城诀》]]. 血刀老祖's open predation, tactical brilliance, and limited protection of an assumed insider can make him more legible than 花铁干's cowardice, slander, and restored righteous mask, but legibility and candor do not make the former less violent. The case also adds environmental amplification: the snow valley does not create 花铁干 from nothing, yet it removes constraints under which already visible fear and calculation had remained socially manageable.
+
 ## Key Claims
 
 - Understanding a character's inner logic is different from endorsing the character's behavior.
@@ -44,7 +47,7 @@ The [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] adds a comparative stress 
 - Structural pressure and trauma explain a field of action but do not make every choice inevitable or innocent.
 - Compassion remains evidence-bound: not every antagonist has equal interior depth, and interpreters should not invent it.
 - Compassion fails when it contradicts textual evidence, erases victims, aestheticizes abuse, or converts suffering into automatic redemption.
-- Complex performance or close reading can preserve moral conflict even when a script compresses transition; fascination and narrative complexity remain separate from sympathy, innocence, moral goodness, or redemption.
+- Complex performance or close reading can preserve moral conflict even when a script compresses transition; fascination, candor, and narrative complexity remain separate from sympathy, innocence, moral goodness, or redemption.
 
 ## Evidence
 
@@ -89,14 +92,20 @@ The [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] adds a comparative stress 
 - [[ljyhr2aom69hckwuywi4czovrhcu]] compares openly violent, hypocritical, tragic, rule-bound, loving, ambitious, and protagonist-opposing figures, showing that “villain” can combine several non-equivalent judgments.
 - [[ljyhr2aom69hckwuywi4czovrhcu]] treats retained attachment or candor as a source of fascination while continuing to name killing, coercion, betrayal, and cruelty as harms.
 
+### Candor, hypocrisy, and environmental amplification
+
+- [[lqrlbs47ruozcivwkh0ltyydbysn]] contrasts 血刀老祖's openly acknowledged violence and limited insider loyalty with 花铁干's righteous reputation, collapse, and later slander.
+- [[lqrlbs47ruozcivwkh0ltyydbysn]] treats the snow valley as amplifying prior fear and calculation rather than supplying either a complete excuse or an inexplicable personality replacement.
+
 ## Counterevidence & Qualifications
 
-The evidence comprises one actor's method and six multi-host literary or film discussions; it does not establish a universal audience effect or a complete theory of character ethics. Compassionate interpretation can become distortion if it contradicts the work, aestheticizes abuse, displaces victims, turns constraint into determinism, or treats tragic history, charm, candor, attachment, or sacrifice as redemption. Conversely, accountability becomes flattening when one harmful act or inherited label is made to exhaust a character's personhood. “Villain” may refer to conduct, faction, protagonist opposition, private ethics, or genre role, so comparisons must state which meaning is intended. Version differences, disputed motives, screenplay compression, historical analogy, and flat characterization are reasons to narrow a claim rather than fill gaps with sympathy. Modern psychiatric labels applied conversationally to fictional characters should not be adopted as diagnoses.
+The evidence comprises one actor's method and seven multi-host literary or film discussions; it does not establish a universal audience effect or a complete theory of character ethics. Compassionate interpretation can become distortion if it contradicts the work, aestheticizes abuse, displaces victims, turns constraint into determinism, or treats tragic history, charm, candor, attachment, tactical brilliance, or sacrifice as redemption. Conversely, accountability becomes flattening when one harmful act or inherited label is made to exhaust a character's personhood. “Villain” may refer to conduct, faction, protagonist opposition, private ethics, public mask, or genre role, so comparisons must state which meaning is intended. Version differences, disputed motives, screenplay compression, historical analogy, and flat characterization are reasons to narrow a claim rather than fill gaps with sympathy. Modern psychiatric labels applied conversationally to fictional characters should not be adopted as diagnoses.
 
 ## What Changed
 
-- Added comparative evidence that “villain” can mean harmful conduct, hypocrisy, factional opposition, or narrative role.
-- Separated fascination and retained attachment from goodness, acquittal, and redemption.
+- Added a close contrast between openly acknowledged predation and reputation-protected hypocrisy.
+- Added environmental amplification without turning pressure into determinism or excuse.
+- Separated tactical brilliance and candor from goodness, acquittal, and redemption.
 
 ## Related Concepts
 
@@ -111,3 +120,5 @@ The evidence comprises one actor's method and six multi-host literary or film di
 - [[Azi|阿紫]] - literary case separating developmental context and final sacrifice from acquittal for cruelty and control.
 - [[PossessiveAttachmentAndSelfErasure]] - relationship case distinguishing felt intensity from reciprocity, consent, and retained agency.
 - [[CriticalJudgmentPersonalPreference]] - clarifies the criteria behind ranking a villain as compelling, hateful, tragic, or morally culpable.
+- [[HumanNaturePlasticity]] - explains how pressure and repetition can amplify tendencies without fixing one inevitable outcome.
+- [[LianChengJue|《连城诀》]] - close literary case contrasting open predation, hypocrisy, pressure, and retained attachment.

@@ -36168,3 +36168,11 @@ Added source `lqan6mpc-cfdaze0ooxdd-iegcjk` and resynthesized [[CriticalJudgment
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》
+
+Added source `lqrlbs47ruozcivwkh0ltyydbysn`; created [[LianChengJue|《连城诀》]]; and resynthesized [[CompassionateCharacterInterpretation|悲悯式角色理解]], [[HumanNaturePlasticity|人性可变性]], [[ThemePlotCoherence]], and [[JinYongReclusionFreedom|金庸式归隐与退出能力]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's dark moral ecology makes fidelity and trust costly without making every person equally evil; open predation, reputation-protected hypocrisy, and environmentally amplified compromise remain distinct; extreme conditions can strengthen prior tendencies without determining one outcome; concentrated suffering can support a powerful theme while exposing engineered obstacles; and 狄云、水笙's snowy-valley refuge protects moral survival without defeating the social order that expelled them. No settled contradiction was adopted. Character motives, the degree of environmental transformation, the 和生 account, creative periodization, authorial intention, and comparisons with 《三体》 and 《金瓶梅》 remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused source, novel, and four bounded concepts capture the durable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,529 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3444
+topic_total_pages: 3445
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8895,6 +8895,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "lqrlbs47ruozcivwkh0ltyydbysn"
+    title: "037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》"
+    url: "/wiki/sources/lqrlbs47ruozcivwkh0ltyydbysn/"
   - key: "040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b"
     title: "040 趣话古龙《楚留香传奇：大沙漠》|雁蝶为双翼，花香满人间"
     url: "/wiki/sources/040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b/"
