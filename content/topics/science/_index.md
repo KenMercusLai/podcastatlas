@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1556
+topic_total_pages: 1557
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4008,6 +4008,9 @@ topic_sources:
   - key: "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622"
     title: "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern"
     url: "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+  - key: "essentials-control-pain-heal-faster-with-your-brain-scim7633492459"
+    title: "Essentials: Control Pain & Heal Faster With Your Brain"
+    url: "/wiki/sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459/"
   - key: "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065"
     title: "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools"
     url: "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"

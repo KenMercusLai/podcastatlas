@@ -5,7 +5,8 @@ tags: [glymphatic-system, sleep, brain, cerebrospinal-fluid, evidence-boundary]
 sources:
   - improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441
   - essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371
-last_updated: 2026-10-10
+  - essentials-control-pain-heal-faster-with-your-brain-scim7633492459
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ The practical hierarchy begins with protecting adequate, regular sleep. Alcohol 
 Side sleeping is described as the best-studied position, and modest head or foot elevation is proposed for drainage or facial-puffiness effects. However, the episode's position evidence is not sufficient to establish a universal human prescription, especially where comfort, pain, pregnancy, reflux, sleep apnea, breathing, or mobility changes the safest posture.
 
 The earlier material preserved in the later Essentials immune-system edit links sleep during early illness with glymphatic clearance and proposes elevating the heels by about 12 degrees. This adds chronological provenance for the position hypothesis, not evidence that elevation improves infection outcomes or a basis for overriding sleep comfort and medical constraints.
+
+The pain-and-recovery Essentials edit supplies a second, overlapping route into the same sleep-first judgment. It links glymphatic activity to traumatic-brain-injury recovery and repeats side sleeping plus a specific zone-two schedule, but its condensed study descriptions do not establish an injury treatment, an optimal exercise dose, or superiority of one sleep position for every person.
 
 The episode also links clearance with amyloid-beta and long-term cognition. That association is biologically important but bounded: a mouse exercise study and mechanistic discussion do not establish that a sleep position, exercise routine, massage, or light exposure prevents or treats Alzheimer's disease.
 
@@ -40,14 +43,16 @@ The episode also links clearance with amyloid-beta and long-term cognition. That
 - Sleep-disruption boundary - [[improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441]] identifies alcohol-related sleep disruption as counterproductive to clearance.
 - Historical qualification - [[improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441]] uses pressure-disrupting experimental methods to explain why replication can depend on preparation conditions.
 - Earlier position hypothesis - [[essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371]] links sleep during early illness with clearance and repeats a roughly 12-degree foot-elevation suggestion without establishing clinical benefit.
+- Pain-and-recovery restatement - [[essentials-control-pain-heal-faster-with-your-brain-scim7633492459]] repeats sleep, lateral positioning, exercise, and brain-injury-recovery claims without supplying independent outcome evidence or an individualized protocol.
 
 ## Counterevidence & Qualifications
-The sources do not supply full human trial methods, effect sizes, replication status, or clinical outcomes for sleep position, elevation, exercise timing, aquaporin circadian activity, amyloid clearance, infection recovery, or cognitive benefit. Animal results, mechanistic plausibility, and observational sleep relationships cannot be combined into a prevention or treatment claim. Side sleeping or elevation can interact with pain, reflux, pregnancy, breathing disorders, pressure injury, and disability; alcohol avoidance and cardiovascular exercise have broader health rationales but are not specific tests or treatments for glymphatic dysfunction. Persistent cognitive change or neurologic symptoms require clinical assessment.
+The sources do not supply full human trial methods, effect sizes, replication status, or clinical outcomes for sleep position, elevation, exercise timing, aquaporin circadian activity, amyloid clearance, infection or brain-injury recovery, or cognitive benefit. Animal results, mechanistic plausibility, and observational sleep relationships cannot be combined into a prevention or treatment claim. Side sleeping or elevation can interact with pain, reflux, pregnancy, breathing disorders, pressure injury, and disability; alcohol avoidance and cardiovascular exercise have broader health rationales but are not specific tests or treatments for glymphatic dysfunction. Persistent cognitive change or neurologic symptoms require clinical assessment.
 
 ## What Changed
 - Established a sleep-first brain-clearance synthesis while separating mechanism from clinical outcome.
 - Added explicit human-position, symptom-specificity, animal-evidence, and neurodegenerative-disease boundaries.
 - Added earlier provenance for foot elevation while preserving the no-clinical-outcome boundary.
+- Added overlapping pain-and-recovery provenance for side sleeping and exercise without changing the sleep-first judgment.
 
 ## Related Concepts
 - [[LymphaticSystemClearance]] - peripheral clearance network that provides the analogy but not identical anatomy.

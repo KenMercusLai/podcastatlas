@@ -105043,9 +105043,9 @@
       "url": "/wiki/concepts/glycemicresponsetoolboundary/"
     },
     "GlymphaticClearance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8178118441 [SCIM8178118441].md",
@@ -105060,9 +105060,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Your Nervous System to Enhance Your Immune System",
           "url": "/wiki/sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371/"
+        },
+        {
+          "episode_file": "SCIM7633492459 [SCIM7633492459].md",
+          "key": "essentials-control-pain-heal-faster-with-your-brain-scim7633492459",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Pain & Heal Faster With Your Brain",
+          "url": "/wiki/sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/glymphaticclearance/"
     },
     "GnaeusJuliusAgricola": {
@@ -197562,9 +197569,9 @@
       "url": "/wiki/concepts/paidservicetounpaidhouseworktransfer/"
     },
     "PainAsDistributedExperience": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1698075556 [SCIM1698075556].md",
@@ -197593,9 +197600,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim4795280888-scim4795280888/"
+        },
+        {
+          "episode_file": "SCIM7633492459 [SCIM7633492459].md",
+          "key": "essentials-control-pain-heal-faster-with-your-brain-scim7633492459",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Pain & Heal Faster With Your Brain",
+          "url": "/wiki/sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/painasdistributedexperience/"
     },
     "PainAwareTrainingContinuity": {
@@ -240173,9 +240187,9 @@
       "url": "/wiki/entities/sishuikingdomwesternhan/"
     },
     "SiteSpecificElectroacupunctureImmunePathway": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4208180690 [SCIM4208180690].md",
@@ -240204,9 +240218,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim4795280888-scim4795280888/"
+        },
+        {
+          "episode_file": "SCIM7633492459 [SCIM7633492459].md",
+          "key": "essentials-control-pain-heal-faster-with-your-brain-scim7633492459",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Pain & Heal Faster With Your Brain",
+          "url": "/wiki/sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/sitespecificelectroacupunctureimmunepathway/"
     },
     "SittingBull": {

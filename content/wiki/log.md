@@ -35796,3 +35796,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Control Pain & Heal Faster With Your Brain
+
+Added source `essentials-control-pain-heal-faster-with-your-brain-scim7633492459`; and resynthesized [[PainAsDistributedExperience]], [[GlymphaticClearance]], and [[SiteSpecificElectroacupunctureImmunePathway]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: tissue injury, nociception, and felt pain can diverge because body maps, visual feedback, expectation, arousal, and emotional context participate in pain; sleep and tolerable movement remain recovery foundations; acute inflammation can aid repair without making all inflammation beneficial; and sleep position, zone-two dosing, heat, anti-inflammatory timing, breathwork, electroacupuncture, PRP, and stem-cell procedures remain evidence- and context-dependent. No settled contradiction was adopted. The Essentials release is a condensed edition of [[control-pain-heal-faster-with-your-brain-scim8085045324|the full 2021 episode]], so repeated apparent-injury, phantom-limb, mirror-box, glymphatic, acupuncture, inflammation, and regenerative-treatment claims add editorial provenance rather than independent confirmation. Broad [[AndrewHuberman]], [[HubermanLab]], [[Neuroplasticity]], [[ConcussionActiveRecovery]], [[SorenessRecoveryBoundary]], and [[PlaceboNoceboExpectationEffects]] pages were kept closed because the focused source and concepts capture the durable addition without reopening larger or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 4,482 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

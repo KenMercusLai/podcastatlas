@@ -4562,6 +4562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)](sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825.md) — The Rest Is History reassessment of Claudius's military-backed accession, disability-shaped reputation, administration, public works, Britain, palace factions, and disputed poisoning.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
+- [Essentials: Control Pain & Heal Faster With Your Brain](sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459.md) — Condensed Huberman Lab episode on distributed pain, body-map plasticity, sleep-first recovery, inflammation timing, electroacupuncture specificity, and regenerative-treatment limits.
 
 ## Entities
 - [《多情剑客无情剑》 / Sentimental Swordsman, Ruthless Sword](entities/SentimentalSwordsmanRuthlessSword.md) — 古龙小说，以被操控的选择、忠义与爱情冲突、内疚和家庭后果构成关系悲剧。
