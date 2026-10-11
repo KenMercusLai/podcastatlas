@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [003 四女同舟，如果你是张无忌你爱谁？｜闲话金庸《倚天屠龙记》](sources/lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8.md) — 纸醉金迷FM以张无忌与赵敏、周芷若、殷离、小昭的不同关系区分敬重、感激、怜惜、欲望、照料与共同生活的适配性。
 - [004 少林寺成了反派？张无忌是个好领导吗？｜闲话金庸《倚天屠龙记》](sources/lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii.md) — 纸醉金迷FM以张无忌的整合型领导、权力基础与政治边界重读《倚天屠龙记》，并由正邪门派、群像、回目和刀剑结构讨论行为判断与叙事层次。
 - [005 串台|《进击的巨人》又双叕完结了？到底烂尾没？](sources/lu-b1gvxqtwzilstumunrbd6lc2y-lu-b1gvxqtwzilstumunrbd6lc2y.md) — 纸醉金迷FM与千梦群岛把《进击的巨人》结局拆分为节奏、规则、人物动机与主题收束，并由地鸣、历史罪责和莱纳的身份撕裂讨论生存伦理与责任。
 - [006 闲话金庸《笑傲江湖》｜令狐冲到底爱谁？](sources/lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2.md) — 纸醉金迷FM以令狐冲、任盈盈、岳灵珊和林平之区分爱情、感恩、依赖、初恋记忆、关系适配与沉没成本，同时保留感情转折和排他性的争议。
@@ -4648,7 +4649,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
-- [张无忌（金庸小说） / Zhang Wuji (Jin Yong)](entities/ZhangWujiJinYong.md) — 以慈悲、原则、组织整合、专业授权和跨阵营合法性见长，却缺少个人权力基础与零和竞争意愿的明教领袖。
+- [张无忌（金庸小说） / Zhang Wuji (Jin Yong)](entities/ZhangWujiJinYong.md) — 以慈悲和整合见长、缺少权力欲，并在敬重、感激、怜惜与强烈爱情之间寻找照料、归属和退隐生活的明教领袖。
+- [赵敏（金庸小说） / Zhao Min (Jin Yong)](entities/ZhaoMinJinYong.md) — 以政治才能、调笑、行动和情绪韧性从敌手转为张无忌最明确的互惠伴侣，并为此放弃原有身份与阵营。
+- [周芷若（金庸小说） / Zhou Zhiruo (Jin Yong)](entities/ZhouZhiruoJinYong.md) — 从受压弟子成长为有能力的峨眉领袖，却以欺骗、伤害和控制损害亲密信任的人物。
+- [殷离（金庸小说） / Yin Li (Jin Yong)](entities/YinLiJinYong.md) — 以童年记忆、共患难和家庭伤害组织爱情，并明确坚持感情排他性的人物。
+- [小昭（金庸小说） / Xiao Zhao (Jin Yong)](entities/XiaoZhaoJinYong.md) — 以聪明、洞察、陪伴和服务表达深情，却也暴露自我降位与关系平等张力的人物。
 - [《进击的巨人》 / Attack on Titan](entities/AttackOnTitan.md) — 以战争、自由、继承性敌意、人物连续性和无解政治选择组织结局争议的漫画与动画系列。
 - [艾伦·耶格尔 / Eren Yeager](entities/ErenYeager.md) — 从早期敌人消灭逻辑走向地鸣，并同时受保护动机与个人毁灭欲驱动的主角。
 - [莱纳·布朗 / Reiner Braun](entities/ReinerBraun.md) — 在国家洗脑、敌我接触、战士与士兵身份撕裂及责任承担之间挣扎的潜入者。
@@ -4678,7 +4683,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [纪晓芙（金庸小说） / Ji Xiaofu (Jin Yong)](entities/JiXiaofuJinYong.md) — 在爱情、峨眉归属、诚实与不伤害之间长期分裂，却在拒绝欺骗和杀害杨逍时明确守住底线的人物。
 - [杨不悔（金庸小说） / Yang Buhui (Jin Yong)](entities/YangBuhuiJinYong.md) — 以长期照料和主动选择爱上殷梨亭，并拒绝把张无忌的救命之恩转化为婚姻债务的人物。
 - [殷梨亭（金庸小说） / Yin Liting (Jin Yong)](entities/YinLitingJinYong.md) — 在重伤照料中与前未婚妻之女建立关系，并承载年龄、相貌替代与代际补偿争议的武当人物。
-- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以整合型领导、正邪判断、隐藏忠诚、跨门派关系、群像、诗性回目与刀剑结构连接人物复杂性和多代江湖史。
+- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以整合型领导、正邪判断、隐藏忠诚和差异化爱情连接人物能动性、群像、诗性回目与多代江湖史。
 - [范遥（金庸小说） / Fan Yao (Jin Yong)](entities/FanYaoJinYong.md) — 长期潜伏却缺少可见报告，又在万安寺救援中发挥决定作用，并以自罚和跨阵营情感构成忠诚歧义的明教人物。
 - [俞莲舟（金庸小说） / Yu Lianzhou (Jin Yong)](entities/YuLianzhouJinYong.md) — 以武功、克制、风险判断与程序分寸获得掌门继承正当性的武当人物。
 - [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、武功设计、反复分离及多种不对等爱情区分吸引、牺牲、互惠与关系可行性。

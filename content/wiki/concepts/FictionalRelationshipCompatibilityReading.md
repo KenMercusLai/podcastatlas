@@ -9,7 +9,8 @@ sources:
   - ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h
   - lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden
   - lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2
-last_updated: 2026-10-11
+  - lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,6 +38,8 @@ The [[XiaoAoJiangHu|《笑傲江湖》]] relationship episode makes transition i
 
 The Yue Lingshan–[[LinPingzhiJinYong|林平之]] branch further separates present attachment from the story a character must preserve about past choice. Teaching, protecting, and being needed can create a valued relational self; later sacrifice may then defend both the partner and the meaning of one's own life. That makes sunk cost and social constraint relevant qualifications without proving that the original feeling was false or that every delayed exit is irrational.
 
+The [[HeavenSwordDragonSaber|《倚天屠龙记》]] episode applies the framework to one protagonist's four attachments. [[ZhangWujiJinYong|张无忌]] can genuinely respect [[ZhouZhiruoJinYong|周芷若]], feel gratitude and pity toward [[YinLiJinYong|殷离]], rely on [[XiaoZhaoJinYong|小昭]]'s care, and experience the strongest playful desire and reciprocal movement with [[ZhaoMinJinYong|赵敏]] without every bond becoming the same kind of love. Shared desired life also matters: political office, institutional duty, service, exclusivity, and retreat create different futures even where affection is real.
+
 ## Key Claims
 
 - Sacrifice, persistence, and constancy under separation are evidence of attachment, not substitutes for compatibility, communication, or shared decision-making.
@@ -45,7 +48,7 @@ The Yue Lingshan–[[LinPingzhiJinYong|林平之]] branch further separates pres
 - A strong pairing expands agency and ease for both characters, while chemistry, admiration, gratitude, or unreturned love may still matter without establishing commitment or invalidating independent identity.
 - Counterfactual pairing is most useful when it isolates a specific trait interaction rather than merely producing novelty.
 - Readerly regret, moral approval, canonical outcome, and compatibility are distinct judgments.
-- Immediate attraction and long-term compatibility can diverge; neither merit, rescue, gratitude, prior deprivation, nor sacrifice creates an entitlement to desire, while gratitude can still become one ingredient in love.
+- Immediate attraction and long-term compatibility can diverge; neither merit, rescue, gratitude, prior deprivation, service, nor sacrifice creates an entitlement to desire, while each can still become one ingredient in attachment.
 
 ## Evidence
 
@@ -93,17 +96,22 @@ The Yue Lingshan–[[LinPingzhiJinYong|林平之]] branch further separates pres
 
 - [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] reads Yue Lingshan's move from protected junior to needed caregiver as part of attraction, then qualifies her later loyalty through incomplete knowledge, social expectation, and sunk-cost defense.
 
+### Different attachments and compatible futures
+
+- [[lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8]] separates Zhang Wuji's respect, gratitude, pity, dependence, desire, and stated love across four relationships rather than forcing one binary of love versus indifference.
+- [[lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8]] contrasts political vocation, withdrawal, exclusivity, service, and shared action as competing visions of life together.
+
 ## Counterevidence & Qualifications
 
-The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and ease should not be treated as proof that a bond is deep, conflict-free, or equal. Beauty, excitement, status, gratitude, or plural attachment should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social or family deprivation and prior investment can intensify attention without mechanically causing attachment, and unreturned love can be meaningful without romanticizing self-endangerment, fatal sacrifice, or lifelong fixation. The propositions that love is ranked rather than exclusive, that gratitude grows into love, or that one scene settles a transition remain episode-scoped rather than universal rules.
+The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and ease should not be treated as proof that a bond is deep, conflict-free, or equal. Beauty, excitement, status, gratitude, service, or plural attachment should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social or family deprivation and prior investment can intensify attention without mechanically causing attachment; developmental explanation must not become diagnosis or acquittal. Unreturned love can be meaningful without romanticizing self-endangerment, fatal sacrifice, career erasure, or lifelong fixation. The propositions that love is ranked rather than exclusive, that gratitude grows into love, or that one scene settles a transition remain episode-scoped rather than universal rules.
 
 ## What Changed
 
-- Added gradual romantic transition when gratitude, dependence, desire, memory, and release change at different rates.
-- Added relational ease and fuller self-expression as compatibility evidence without treating either as conclusive.
-- Distinguished principled action from romantic proof when promise, freedom, and love overlap in one choice.
-- Added relational self-concept and sunk-cost defense as qualifications on attraction and delayed exit.
-- Preserved disagreement over exclusivity, regret, and whether early feeling survives changed partnership.
+- Added multiple simultaneous but nonidentical attachments: respect, gratitude, pity, service, desire, and explicit selection require separate evidence.
+- Added compatible future orientation, including political vocation, retreat, exclusivity, and desired relational role.
+- Qualified ease and caregiving when low conflict depends on self-lowering or unequal service.
+- Preserved developmental background as interpretive context rather than diagnosis, causation, or excuse.
+- Retained disagreement over exclusivity, ranking, gradual transition, and whether sacrifice measures love.
 
 ## Related Concepts
 
@@ -116,3 +124,4 @@ The framework comes from entertainment-oriented roundtables whose judgments open
 - [[RelationalSelfConceptSelection]] - explains why a relationship's version of the self can affect attraction and fit.
 - [[SunkCostEntrapment]] - qualifies continued investment when exit threatens the meaning assigned to past sacrifice.
 - [[XiaoAoJiangHu|《笑傲江湖》]] - supplies gradual transition, gratitude-to-love, ease, first-love memory, and delayed-exit cases.
+- [[HeavenSwordDragonSaber|《倚天屠龙记》]] - supplies four differentiated attachments and competing visions of political, exclusive, service-based, or withdrawn partnership.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13435
+wiki_total_pages: 13439
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "ZhouYuLuoyangEasternHan"
     title: "周纡 / Zhou Yu (Luoyang magistrate, Eastern Han)"
     url: "/wiki/entities/zhouyuluoyangeasternhan/"
+  - key: "ZhouZhiruoJinYong"
+    title: "周芷若（金庸小说） / Zhou Zhiruo (Jin Yong)"
+    url: "/wiki/entities/zhouzhiruojinyong/"
   - key: "ZhouKe"
     title: "周苛 / Zhou Ke"
     url: "/wiki/entities/zhouke/"
@@ -1673,6 +1676,9 @@ wiki_pages:
   - key: "ZhaoKuo"
     title: "赵括 / Zhao Kuo"
     url: "/wiki/entities/zhaokuo/"
+  - key: "ZhaoMinJinYong"
+    title: "赵敏（金庸小说） / Zhao Min (Jin Yong)"
+    url: "/wiki/entities/zhaominjinyong/"
   - key: "ZhaoXinZTE"
     title: "赵新 / Zhao Xin (ZTE)"
     url: "/wiki/entities/zhaoxinzte/"

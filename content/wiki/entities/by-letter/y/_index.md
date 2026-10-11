@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13435
+wiki_total_pages: 13439
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "YinLitingJinYong"
     title: "殷梨亭（金庸小说） / Yin Liting (Jin Yong)"
     url: "/wiki/entities/yinlitingjinyong/"
+  - key: "YinLiJinYong"
+    title: "殷离（金庸小说） / Yin Li (Jin Yong)"
+    url: "/wiki/entities/yinlijinyong/"
   - key: "YinSusuJinYong"
     title: "殷素素（金庸小说） / Yin Susu (Jin Yong)"
     url: "/wiki/entities/yinsusujinyong/"

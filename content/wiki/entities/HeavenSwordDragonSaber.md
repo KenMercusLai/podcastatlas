@@ -6,6 +6,7 @@ sources:
   - lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b
   - lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav
   - lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii
+  - lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The relationship branch tests those same institutions against intimacy. [[ZhangC
 
 The protagonist branch makes [[ZhangWujiJinYong|张无忌]] an integrative leader rather than a failed conqueror. He inherits Mingjiao's operating capacity, retains its specialists, stops revenge, and uses martial and moral authority to reunify the movement and reconcile it with former enemies. His lack of a personal faction and taste for coercive power limits later consolidation, but does not erase the legitimacy and cohesion created during organizational repair.
 
+The central romance adds another form of distributed character comparison. [[ZhaoMinJinYong|赵敏]], [[ZhouZhiruoJinYong|周芷若]], [[YinLiJinYong|殷离]], and [[XiaoZhaoJinYong|小昭]] are not interchangeable claimants: political capacity, public ambition, remembered childhood attachment, practical care, play, jealousy, service, and willingness to withdraw create different bonds with Zhang. The source favors Zhao as the most reciprocal partner while preserving the limits of its developmental psychology and career-versus-love contrast.
+
 The same episode broadens the novel's formal profile. Orthodox and heterodox groups contain both admirable and blameworthy conduct; [[ZhangSanfengJinYong|张三丰]] states the conduct-based standard most clearly. Distinctive secondary characters, chapter titles that operate as a linked poem, selective ellipsis around Ji Xiaofu, and the Heaven Sword and Dragon Saber as plot-bearing objects create a multi-generational Jianghu whose history exceeds one protagonist.
 
 ## Key Characteristics
@@ -33,7 +36,7 @@ The same episode broadens the novel's formal profile. Orthodox and heterodox gro
 - Uses cross-sect conflict and love to replace faction labels with conduct, consent, care, and responsibility.
 - Gives minor characters contrasting logics of work, intimacy, fear, courage, and survival.
 - Connects martial competence to restraint, judgment, and legitimate succession.
-- Supports close inference while leaving important motives and causal links unstated.
+- Uses differentiated romantic bonds to separate attraction, respect, gratitude, pity, service, and shared-life compatibility.
 - Uses chapter titles, ellipsis, title weapons, and multi-generational memory to structure a large ensemble.
 
 ## Evidence
@@ -64,19 +67,26 @@ The same episode broadens the novel's formal profile. Orthodox and heterodox gro
 - [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] contrasts Zhang Wuji's organizational repair, delegation, restraint, and diplomacy with his weak personal power base and limited fit for ruthless consolidation.
 - [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] uses mixed conduct across Wudang, Emei, Shaolin, and Mingjiao to reject sect identity as a sufficient moral verdict.
 
+### Central romance, agency, and compatible futures
+
+- [[lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8]] contrasts Zhao Min and Zhou Zhiruo as similarly capable political actors whose methods, sacrifices, and desired futures diverge.
+- [[lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8]] separates Zhang's bonds with Yin Li and Xiao Zhao through childhood memory, shared hardship, care, service, gratitude, and asymmetric selection.
+
 ### Ensemble and formal architecture
 
 - [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] connects memorable secondary characters, linked poetic chapter titles, narrative ellipsis, title weapons, and inherited memories across generations.
 
 ## Qualifications
 
-This profile comes from three structured podcast summaries, not a direct comparison of the novel's editions or adaptations. Modern vocabulary of handlers, activation, organizational reporting, factional politics, consent, psychology, symbolic leadership, and relational debt is interpretive. Hidden motive, exact chronology, martial hierarchy, the meaning of “forcing,” chapter-title allusion, authorial design, and the strength of succession rivalry remain source-scoped; the hosts themselves retain disagreement and the Wudang Seven Heroes' established solidarity.
+This profile comes from four structured podcast summaries, not a direct comparison of the novel's editions or adaptations. Modern vocabulary of handlers, activation, organizational reporting, factional politics, consent, attachment, psychology, symbolic leadership, and relational debt is interpretive. Hidden motive, exact chronology, martial hierarchy, the meaning of “forcing,” romantic ranking, childhood causation, chapter-title allusion, authorial design, and the strength of succession rivalry remain source-scoped; the hosts themselves retain disagreement, clear preferences, and the Wudang Seven Heroes' established solidarity.
 
 ## What Changed
 
 - Added Zhang Wuji's stage-specific leadership: strong in integration and legitimacy, weak in personal consolidation.
 - Expanded conduct-based moral judgment across Wudang, Emei, Shaolin, and Mingjiao.
 - Added poetic chapter titles, ellipsis, title weapons, and generational memory to the novel's formal profile.
+- Added the four central women as distinct tests of attraction, agency, care, political identity, and compatible futures.
+- Qualified the Zhao Min–Zhou Zhiruo contrast against reducing female choice to love versus career.
 
 ## Relationships
 
@@ -90,3 +100,5 @@ This profile comes from three structured podcast summaries, not a direct compari
 - [[ZhangWujiJinYong|张无忌（金庸小说）]] - protagonist whose integrative leadership and political limits organize the new reading.
 - [[StageContingentIntegrativeLeadership|阶段适配的整合型领导]] - framework for distinguishing organizational repair from power consolidation.
 - [[EnsembleCharacterDifferentiation|群像人物区分]] - craft framework for the novel's secondary cast and distributed narrative weight.
+- [[ZhaoMinJinYong|赵敏（金庸小说）]] and [[ZhouZhiruoJinYong|周芷若（金庸小说）]] - rival political actors whose romantic choices, methods, and desired futures organize the central comparison.
+- [[FictionalRelationshipCompatibilityReading|虚构关系适配性阅读]] - framework separating emotional importance from reciprocity and viable partnership.

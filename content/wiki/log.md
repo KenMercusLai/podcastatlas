@@ -36444,3 +36444,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 003 四女同舟，如果你是张无忌你爱谁？｜闲话金庸《倚天屠龙记》
+
+Added source `lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8`; created [[ZhaoMinJinYong|赵敏]], [[ZhouZhiruoJinYong|周芷若]], [[YinLiJinYong|殷离]], and [[XiaoZhaoJinYong|小昭]]; and resynthesized [[ZhangWujiJinYong|张无忌]], [[HeavenSwordDragonSaber|《倚天屠龙记》]], and [[FictionalRelationshipCompatibilityReading|虚构关系适配性阅读]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the four bonds differ in timing and kind—respect, gratitude, pity, companionship, desire, service, and explicit selection cannot be collapsed into one measure—while compatible futures also depend on political vocation, withdrawal, exclusivity, and relational equality. No settled contradiction was adopted. Family-background explanations, love rankings, career-versus-love contrasts, imagined plural partnership, motives, dialogue, chronology, edition differences, and authorial intent remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,564 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

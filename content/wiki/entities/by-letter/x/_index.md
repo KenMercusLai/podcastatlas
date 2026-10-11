@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13435
+wiki_total_pages: 13439
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "XiaoShiHost"
     title: "小时"
     url: "/wiki/entities/xiaoshihost/"
+  - key: "XiaoZhaoJinYong"
+    title: "小昭（金庸小说） / Xiao Zhao (Jin Yong)"
+    url: "/wiki/entities/xiaozhaojinyong/"
   - key: "XiaozhiAI"
     title: "小智AI / Xiaozhi AI"
     url: "/wiki/entities/xiaozhiai/"
