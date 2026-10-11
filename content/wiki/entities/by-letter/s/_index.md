@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13224
+wiki_total_pages: 13229
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2765,6 +2765,9 @@ wiki_pages:
   - key: "SuiRiver"
     title: "睢水 / Sui River"
     url: "/wiki/entities/suiriver/"
+  - key: "ShiZhongyu"
+    title: "石中玉 / Shi Zhongyu"
+    url: "/wiki/entities/shizhongyu/"
   - key: "ShichengWarringStates"
     title: "石城 / Shicheng"
     url: "/wiki/entities/shichengwarringstates/"
@@ -2789,6 +2792,9 @@ wiki_pages:
   - key: "ShiXianWesternHan"
     title: "石显 / Shi Xian (Western Han)"
     url: "/wiki/entities/shixianwesternhan/"
+  - key: "ShiPotian"
+    title: "石破天 / Shi Potian"
+    url: "/wiki/entities/shipotian/"
   - key: "ShimenBattle"
     title: "石门之战 / Battle of Shimen"
     url: "/wiki/entities/shimenbattle/"

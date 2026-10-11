@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10351
+wiki_total_pages: 10353
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "RomanticScienceCulture"
     title: "Romantic Science Culture / 浪漫主义科学文化"
     url: "/wiki/concepts/romanticscienceculture/"
+  - key: "RomanticStimulationSecurityTradeoff"
+    title: "Romantic Stimulation–Security Tradeoff / 亲密关系中的刺激—安全权衡"
+    url: "/wiki/concepts/romanticstimulationsecuritytradeoff/"
   - key: "RomanticizedWarMoralAmbivalence"
     title: "Romanticized War Moral Ambivalence"
     url: "/wiki/concepts/romanticizedwarmoralambivalence/"

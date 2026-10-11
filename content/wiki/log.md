@@ -34936,7 +34936,7 @@ Added source `vol-176-zhifang-bi-liuliang-geng-nan-tuofen-nvchaoren-yuying-zibao
 
 ## [2026-10-11] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran deterministic and graph-aware lint checks. Semantic checks were unavailable because the configured LiteLLM model lacked a provider prefix; no lint report was saved.
 
 ## [2026-10-11] ingest | 581. The Irish Civil War: The Killing of Michael Collins (Part 2)
 
@@ -35545,6 +35545,13 @@ Added source `054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-lt
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-11] ingest | 053 科幻外衣下的社会寓言｜大话卫斯理之《头发》
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-10-11] ingest | 052 多情女偏爱薄情郎？金庸《侠客行》中的主角爱情
+
+Added source `ls96ywi2jdxmrffx9j5iu5qqct25`; created [[XiakeXingNovel|《侠客行》]], [[ShiPotian|石破天]], [[ShiZhongyu|石中玉]], [[DingDangXiakeXing|丁当]], [[AXiuXiakeXing|阿秀]], [[SociallyImposedIdentity|集体强加身份]], and [[RomanticStimulationSecurityTradeoff|亲密关系中的刺激—安全权衡]]. Core synthesis: 丁当's informed preference for 石中玉 separates attraction and immediate emotional reward from virtue and long-term reliability, while 阿秀's conduct-based recognition connects safety, trauma-qualified vigilance, and identity judgment. The mistaken-identity comedy becomes psychologically threatening when unanimous social testimony gives 石破天 another name, family, guilt, and risk, but his continuing conduct prevents recognition from wholly replacing personhood. No settled contradiction was adopted. Character psychology, edition changes, authorial intention, relationship suitability, chapter wording, and plot-logic criticisms remain contested or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused work, character, and concept pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,451 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-11] lint | Wiki health check
 

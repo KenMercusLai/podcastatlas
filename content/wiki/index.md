@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [052 多情女偏爱薄情郎？金庸《侠客行》中的主角爱情](sources/ls96ywi2jdxmrffx9j5iu5qqct25.md) — 纸醉金迷FM以石破天、石中玉、丁当和阿秀讨论刺激、安全、情绪价值与关系判断，并把身份误认从喜剧推进为集体强加自我的心理威胁。
 - [053 科幻外衣下的社会寓言｜大话卫斯理之《头发》](sources/ljbtvkfckw2lb-nykriz05lq35wz.md) — 纸醉金迷FM重读倪匡《头发》，讨论外星流放、宗教使者、意识转移、永生欲望及创造者审判被创造者的伦理矛盾。
 - [054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情](sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t.md) — 纸醉金迷FM比较1987年《倩女幽魂》与《聂小倩》及其他改编，讨论角色表演、悲剧爱情、鬼魅视觉、音乐、人物逻辑和程小东—徐克创作分工。
 - [055 最后一剑，风情无限：长期被忽视的金庸杰作《越女剑》](sources/055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe.md) — 纸醉金迷FM以阿青的延迟登场、武功虚写、三层感情与“西子捧心”重读《越女剑》，并在自然、政治和历史记忆之间保留多种解释。
@@ -4532,6 +4533,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
 
 ## Entities
+- [《侠客行》 / Ode to Gallantry](entities/XiakeXingNovel.md) — 金庸小说，以爱情识别、身份误认、名实之辨和童话式传奇逻辑共同追问“我是谁”。
+- [石破天 / Shi Potian](entities/ShiPotian.md) — 《侠客行》主角，以真诚、可靠和稳定行为抵抗被集体强加的石中玉身份。
+- [石中玉 / Shi Zhongyu](entities/ShiZhongyu.md) — 以机敏调情制造吸引力、也以伤害和逃避暴露长期风险的《侠客行》人物。
+- [丁当（侠客行） / Ding Dang](entities/DingDangXiakeXing.md) — 明知石中玉不可靠仍偏爱其情绪刺激，并把石破天当作替身的《侠客行》人物。
+- [阿秀（侠客行） / A Xiu](entities/AXiuXiakeXing.md) — 通过行为与安全感识别石破天，同时保留温柔引导与间接控制两种读法的人物。
 - [《倩女幽魂》(1987) / A Chinese Ghost Story](entities/AChineseGhostStory1987.md) — 程小东执导、徐克监制的香港奇幻爱情片，以角色感情与视听创造力覆盖部分叙事粗粝。
 - [张国荣 / Leslie Cheung](entities/LeslieCheung.md) — 以脆弱、笨拙、赤诚与勇敢重塑宁采臣的演员。
 - [王祖贤 / Joey Wong](entities/JoeyWong.md) — 以体态、动作和影像系统塑造聂小倩经典银幕形象的演员。
@@ -17824,6 +17830,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Socially Imposed Identity / 集体强加身份](concepts/SociallyImposedIdentity.md) — 集体证言和被分配的关系、罪责与义务迫使个人接受另一套人生叙事，而持续行为仍可抵抗这种认定。
+- [Romantic Stimulation–Security Tradeoff / 亲密关系中的刺激—安全权衡](concepts/RomanticStimulationSecurityTradeoff.md) — 区分调情、关注与即时情绪回报，同可靠、克制、修复和长期安全之间的关系权衡。
 - [Technologized Salvation / 技术化救赎](concepts/TechnologizedSalvation.md) — 科幻叙事把灵魂、转世、启示、审判和天堂转译为信息、筛选与运输机制，同时暴露操作者的合法性问题。
 - [Tragic Adaptation Reframing / 悲剧性改编重构](concepts/TragicAdaptationReframing.md) — 将团圆或延续结局改为不可逆分离，从而重组爱情伦理与情感强度。
 - [Fantasy Character Logic / 奇幻叙事中的人物逻辑](concepts/FantasyCharacterLogic.md) — 即使物理规则虚构，人物选择仍须符合既有知识、价值、关系和能力。

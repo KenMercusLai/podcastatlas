@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13224
+wiki_total_pages: 13229
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "XuZhe"
     title: "Xu Zhe / 许哲"
     url: "/wiki/entities/xuzhe/"
+  - key: "XiakeXingNovel"
+    title: "《侠客行》 / Ode to Gallantry"
+    url: "/wiki/entities/xiakexingnovel/"
   - key: "XiBaoNovel"
     title: "《喜宝》 / The Story of Xi Bao"
     url: "/wiki/entities/xibaonovel/"
