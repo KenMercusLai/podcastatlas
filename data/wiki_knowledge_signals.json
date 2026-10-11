@@ -6111,6 +6111,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/abrahamlincoln/"
     },
+    "AbsentPresenceCharacterDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/absentpresencecharacterdesign/"
+    },
     "AbsoluteGuaranteeTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -10555,6 +10571,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/ajiao/"
+    },
+    "AjiuBixueJian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/ajiubixuejian/"
     },
     "AkbarKhan": {
       "episode_count": 1,
@@ -29382,6 +29414,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/bitcoinsafehavenbehavior/"
+    },
+    "BixueJian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/bixuejian/"
     },
     "BlackAmericanGIsWartimeBritain": {
       "episode_count": 1,
@@ -74686,6 +74734,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/edithtolkien/"
     },
+    "EditionRevisionExplicitnessTradeoff": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
+          "key": "067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6",
+          "show": "纸醉金迷FM",
+          "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
+          "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        },
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/editionrevisionexplicitnesstradeoff/"
+    },
     "EdmundBarton": {
       "episode_count": 1,
       "show_count": 1,
@@ -91748,9 +91819,9 @@
       "url": "/wiki/concepts/fictionalcharactertypingboundary/"
     },
     "FictionalRelationshipCompatibilityReading": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lv-F-QYMXTylEYgmLjijngtxaLhZ [lv-F-QYMXTylEYgmLjijngtxaLhZ].md",
@@ -91758,9 +91829,16 @@
           "show": "纸醉金迷FM",
           "title": "083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1",
           "url": "/wiki/sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz/"
+        },
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/fictionalrelationshipcompatibilityreading/"
     },
     "Fidelio": {
@@ -115343,6 +115421,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/hehan/"
     },
+    "HeHongyao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/hehongyao/"
+    },
     "HeKui": {
       "episode_count": 3,
       "show_count": 1,
@@ -115443,6 +115537,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/hesongeasternhan/"
+    },
+    "HeTieshou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/hetieshou/"
     },
     "HeTongxue": {
       "episode_count": 1,
@@ -137923,9 +138033,9 @@
       "url": "/wiki/entities/jayclayton/"
     },
     "JealousyAndMateRetention": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4159413839 [SCIM4159413839].md",
@@ -137940,9 +138050,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
           "url": "/wiki/sources/essentials-how-humans-select-keep-romantic-partners-in-the-short-long-term-dr-david-buss-scim3609265030/"
+        },
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/jealousyandmateretention/"
     },
     "JealousyAsPoliticalViolence": {
@@ -208802,9 +208919,9 @@
       "url": "/wiki/concepts/positivestressbreathwork/"
     },
     "PossessiveAttachmentAndSelfErasure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lock0k5O_nK_eoGcwnSPtn6Ab9U6 [lock0k5O_nK_eoGcwnSPtn6Ab9U6].md",
@@ -208812,6 +208929,13 @@
           "show": "纸醉金迷FM",
           "title": "067 《天龙八部》之阿紫篇：金庸笔下唯一真·恶女",
           "url": "/wiki/sources/067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6/"
+        },
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
         }
       ],
       "updated": "2026-10-11",
@@ -227872,9 +227996,9 @@
       "url": "/wiki/concepts/romanticartistmyth/"
     },
     "RomanticInjuryResponsePatterns": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljxfGtvPYoHNXagL2V0yMcJ1ZYpw [ljxfGtvPYoHNXagL2V0yMcJ1ZYpw].md",
@@ -227882,6 +228006,13 @@
           "show": "纸醉金迷FM",
           "title": "059 闲话金庸《天龙八部》：段正淳和他的女友团",
           "url": "/wiki/sources/059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw/"
+        },
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
         }
       ],
       "updated": "2026-10-11",
@@ -278046,6 +278177,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/wenqiyizhoueasternhan/"
     },
+    "WenQingqing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/wenqingqing/"
+    },
     "WenXuEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -278061,6 +278208,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/wenxueasternhan/"
+    },
+    "WenYiBixueJian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/wenyibixuejian/"
     },
     "WenceslasOfBohemia": {
       "episode_count": 1,
@@ -283312,6 +283475,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/xiajispringautumn/"
+    },
+    "XiaXueyi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xiaxueyi/"
     },
     "XiaYanMing": {
       "episode_count": 1,
@@ -291397,6 +291576,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuanchanglatehan/"
+    },
+    "YuanChengzhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
+          "key": "liiidmjxhrngcffnld51y-l7_oan",
+          "show": "纸醉金迷FM",
+          "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
+          "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/yuanchengzhi/"
     },
     "YuanDanFestivalLayering": {
       "episode_count": 2,

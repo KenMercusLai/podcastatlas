@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13290
+wiki_total_pages: 13298
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1358,9 +1358,15 @@ wiki_pages:
   - key: "WoteShoes"
     title: "沃特鞋企 / Wote Shoes"
     url: "/wiki/entities/woteshoes/"
+  - key: "WenYiBixueJian"
+    title: "温仪（《碧血剑》） / Wen Yi"
+    url: "/wiki/entities/wenyibixuejian/"
   - key: "WenXuEasternHan"
     title: "温序 / Wen Xu (Eastern Han)"
     url: "/wiki/entities/wenxueasternhan/"
+  - key: "WenQingqing"
+    title: "温青青 / Wen Qingqing"
+    url: "/wiki/entities/wenqingqing/"
   - key: "WeinanBattleLateHan"
     title: "渭南之战 / Battle of Weinan (Late Han)"
     url: "/wiki/entities/weinanbattlelatehan/"

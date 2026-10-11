@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3430
+topic_total_pages: 3433
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -13,6 +13,9 @@ topic_concepts:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
     url: "/wiki/concepts/abraxaswholegodsymbolism/"
+  - key: "AbsentPresenceCharacterDesign"
+    title: "Absent-Presence Character Design / 缺席的在场者"
+    url: "/wiki/concepts/absentpresencecharacterdesign/"
   - key: "AbsurdRationality"
     title: "Absurd Rationality"
     url: "/wiki/concepts/absurdrationality/"
@@ -1138,6 +1141,9 @@ topic_concepts:
   - key: "EconomicUpswingUrbanDramaMemory"
     title: "Economic-Upswing Urban Drama Memory / 经济上行期都市剧记忆"
     url: "/wiki/concepts/economicupswingurbandramamemory/"
+  - key: "EditionRevisionExplicitnessTradeoff"
+    title: "Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡"
+    url: "/wiki/concepts/editionrevisionexplicitnesstradeoff/"
   - key: "EditorAsCulturalProjectManager"
     title: "Editor As Cultural Project Manager"
     url: "/wiki/concepts/editorasculturalprojectmanager/"
@@ -8868,6 +8874,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "liiidmjxhrngcffnld51y-l7_oan"
+    title: "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写"
+    url: "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
   - key: "045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp"
     title: "045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠"
     url: "/wiki/sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp/"

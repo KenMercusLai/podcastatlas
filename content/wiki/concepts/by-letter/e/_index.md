@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10392
+wiki_total_pages: 10394
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "EdgeCloudAIBoundary"
     title: "Edge-Cloud AI Boundary"
     url: "/wiki/concepts/edgecloudaiboundary/"
+  - key: "EditionRevisionExplicitnessTradeoff"
+    title: "Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡"
+    url: "/wiki/concepts/editionrevisionexplicitnesstradeoff/"
   - key: "EditorAsCulturalProjectManager"
     title: "Editor As Cultural Project Manager"
     url: "/wiki/concepts/editorasculturalprojectmanager/"

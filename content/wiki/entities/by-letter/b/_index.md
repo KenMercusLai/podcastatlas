@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13290
+wiki_total_pages: 13298
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "BlindMountainFilm"
     title: "《盲山》 / Blind Mountain"
     url: "/wiki/entities/blindmountainfilm/"
+  - key: "BixueJian"
+    title: "《碧血剑》 / Sword Stained with Royal Blood"
+    url: "/wiki/entities/bixuejian/"
   - key: "BiaoRenComic"
     title: "《镖人》 / Biao Ren"
     url: "/wiki/entities/biaorencomic/"

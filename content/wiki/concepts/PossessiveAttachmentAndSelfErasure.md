@@ -4,6 +4,7 @@ type: concept
 tags: [literature, relationships, attachment, control, agency]
 sources:
   - 067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6
+  - liiidmjxhrngcffnld51y-l7_oan
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -18,11 +19,14 @@ Possessive attachment and self-erasure names two distinct but mutually destructi
 
 The two failure modes should not be collapsed. A Zi tries to reduce another person's freedom; You Tanzhi reduces his own. Her final sacrifice and his repeated rescue attempts can be costly and emotionally real without creating reciprocity, healthy agency, or an obligation to love them back.
 
+[[HeHongyao|何红药]] shows that the two patterns can also occur sequentially in one life. She first surrenders status, bodily safety, community property, and future possibility to help [[XiaXueyi|夏雪宜]]; after explicit rejection collapses the meaning assigned to those costs, she tries to imprison and torment him into return. Xia's use of romantic ambiguity for material gain establishes exploitation, but it does not turn He Hongyao's later coercion into a justified claim.
+
 ## Key Claims
 
 - Strong feeling, sacrifice, persistence, and suffering do not by themselves establish mutual love.
 - Possessive attachment seeks security by limiting the beloved's ability to refuse, leave, or remain emotionally separate.
 - Self-erasing attachment converts service and bodily cost into a reason to continue after reciprocity and independent purpose have disappeared.
+- Prior sacrifice can become a sunk claim on the beloved, allowing self-erasure to turn into possession when reciprocity is refused.
 - Care for a dependent person can remain ethically serious without becoming romantic consent.
 - Catastrophe, insecurity, admiration, beauty, grief, rivalry, and escalating commitment can help explain destructive attachment without making it inevitable.
 - A final sacrifice may complicate moral judgment while leaving the relationship's coercion or nonreciprocity intact.
@@ -43,15 +47,19 @@ The two failure modes should not be collapsed. A Zi tries to reduce another pers
 
 - [[067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6]] uses A Zi's return of the eyes and leap with Xiao Feng to qualify the claim that she never gives, while preserving the ending's possessive form.
 
+### Self-erasure becoming possession
+
+- [[liiidmjxhrngcffnld51y-l7_oan]] follows He Hongyao from theft, punishment, mutilation, and wandering undertaken around Xia Xueyi to captivity and torment intended to compel his return.
+- [[liiidmjxhrngcffnld51y-l7_oan]] holds Xia responsible for exploitative ambiguity while rejecting the inference that sacrifice purchases reciprocity.
+
 ## Counterevidence & Qualifications
 
-This is a literary framework derived from one podcast reading, not a clinical attachment category. It should not be used to diagnose readers or real people, and it does not imply that all intense, sacrificial, or unreciprocated love is coercive. The hosts disagree over whether A Zi's feeling counts as love, and the serial version makes her response to You Tanzhi more reciprocal. Edition, chronology, consent, power, and actual conduct matter more than labels.
+This is a literary framework derived from podcast readings, not a clinical attachment category. It should not be used to diagnose readers or real people, and it does not imply that all intense, sacrificial, or unreciprocated love is coercive. The hosts disagree over whether A Zi's feeling counts as love, and the serial version makes her response to You Tanzhi more reciprocal. He Hongyao's case also contains genuine exploitation by Xia Xueyi, so preserving her responsibility must not erase his. Edition, chronology, consent, power, and actual conduct matter more than labels.
 
 ## What Changed
 
-- Created a two-sided framework separating control of another from surrender of the self.
-- Added care-without-romance as the boundary represented by Xiao Feng.
-- Preserved sacrifice as morally significant without treating it as a claim on reciprocity.
+- Added He Hongyao's sequential movement from surrendering the self to trying to possess the unavailable beloved.
+- Clarified that exploitative ambiguity and later coercion can both be wrong without canceling one another.
 
 ## Related Concepts
 

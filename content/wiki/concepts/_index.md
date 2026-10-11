@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10392
+wiki_total_pages: 10394
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
     url: "/wiki/concepts/abraxaswholegodsymbolism/"
+  - key: "AbsentPresenceCharacterDesign"
+    title: "Absent-Presence Character Design / 缺席的在场者"
+    url: "/wiki/concepts/absentpresencecharacterdesign/"
   - key: "AbstinenceModerationSelfControl"
     title: "Abstinence Moderation Self-Control"
     url: "/wiki/concepts/abstinencemoderationselfcontrol/"

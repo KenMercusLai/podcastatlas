@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13290
+wiki_total_pages: 13298
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2213,6 +2213,9 @@ wiki_pages:
   - key: "AntGroup"
     title: "蚂蚁集团 / Ant Group"
     url: "/wiki/entities/antgroup/"
+  - key: "AjiuBixueJian"
+    title: "阿九（《碧血剑》） / A Jiu"
+    url: "/wiki/entities/ajiubixuejian/"
   - key: "AJianInsuranceWriter"
     title: "阿健"
     url: "/wiki/entities/ajianinsurancewriter/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写](sources/liiidmjxhrngcffnld51y-l7_oan.md) — 纸醉金迷FM以温青青、袁承志、阿九、夏雪宜、温仪和何红药讨论嫉妒、责任、错位爱情、复仇与版本修订的叙事代价。
 - [How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson](sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629.md) — Huberman Lab conversation on integrating drives under higher aims, responsibility as adventure, prayer as aim formation, concentrated rewards, conscience, and truth.
 - [VOL.146网上买药靠谱吗？家中备药不踩坑！](sources/vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x.md) — 这病说来话长赞助节目讨论慢病续药、线上购药与问诊便利，以及首次用药、检查和线下就医边界。
 - [526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall](sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734.md) — The Rest Is History live episode on Mozart's prodigy career, family management, patronage, freelance autonomy, opera, financial strain, and death mythology.
@@ -4574,6 +4575,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [《碧血剑》 / Sword Stained with Royal Blood](entities/BixueJian.md) — 金庸小说，以错位爱情、责任、复仇中断、死者遗产和版本修订共同组织人物选择。
+- [温青青 / Wen Qingqing](entities/WenQingqing.md) — 勇敢能干却深受身份不安与嫉妒影响，并在真实威胁前表现出克制与自尊的女主角。
+- [袁承志 / Yuan Chengzhi](entities/YuanChengzhi.md) — 保护行动强于情感表达，在温青青的责任之爱与阿九的强烈情愫之间保持被动的男主角。
+- [阿九（《碧血剑》） / A Jiu](entities/AjiuBixueJian.md) — 与袁承志彼此有情却受身份、历史灾变、伤残和被动性阻隔的公主人物。
+- [夏雪宜 / 金蛇郎君 / Xia Xueyi](entities/XiaXueyi.md) — 以复仇、温柔、利用、受害和死后遗产持续支配故事的复杂前代人物。
+- [温仪（《碧血剑》） / Wen Yi](entities/WenYiBixueJian.md) — 在囚禁、家族罪责、尊重与迟来真相之间获得有限释然的夏雪宜恋人。
+- [何红药 / He Hongyao](entities/HeHongyao.md) — 从越界牺牲走向占有、复仇与自毁，并同时暴露夏雪宜利用责任的悲剧人物。
+- [何铁手 / He Tieshou](entities/HeTieshou.md) — 旧版中经历错爱与崩溃后重新生活、修订版则失去部分行动动机的五毒教人物。
 - [Jordan Peterson](entities/JordanPeterson.md) — Psychologist and author whose bounded profile centers drive integration, religious narrative, responsibility, prayer, and truth.
 - [Wolfgang Amadeus Mozart](entities/WolfgangAmadeusMozart.md) — Composer whose path from managed child prodigy and Salzburg service to Viennese freelancing became a key story of genius and autonomy.
 - [Leopold Mozart](entities/LeopoldMozart.md) — Court musician and impresario whose promotion enabled Wolfgang's career while his security strategy constrained adult independence.
@@ -17932,6 +17941,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Absent-Presence Character Design / 缺席的在场者](concepts/AbsentPresenceCharacterDesign.md) — 让死亡或离场人物通过记忆、物件、武功、关系与延迟揭示继续推动当下行动的叙事方法。
+- [Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡](concepts/EditionRevisionExplicitnessTradeoff.md) — 版本修订在增强欲望可见性和局部动机时，可能削弱含蓄、后续选择或行动因果的权衡。
 - [Drive Integration Under a Higher Aim](concepts/DriveIntegrationUnderHigherAim.md) — Coordination of narrow motivational states within a voluntary structure that includes other people and future consequences.
 - [Responsibility as Adventure](concepts/ResponsibilityAsAdventure.md) — Reframing voluntary obligation as purposeful uncertainty, sacrifice, local repair, and socially extended value.
 - [Prayer as Aim Formation](concepts/PrayerAsAimFormation.md) — Psychological account of prayer as orientation toward an ideal, incentive reordering, and surrender of control.

@@ -4,7 +4,8 @@ type: concept
 tags: [literature, character, romance, relationships, counterfactuals]
 sources:
   - 083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz
-last_updated: 2026-10-10
+  - liiidmjxhrngcffnld51y-l7_oan
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The bounded [[ZhiZuiJinMiFM|纸醉金迷FM]] roundtable begins from subjective r
 Cheng Lingsu and Hu Fei show the method's ethical edge. Her practical care and lethal sacrifice make neglect painful, but the discussion also resists making self-erasure automatic proof that the pair should have been canon. Linghu Chong and Yue Lingshan supply a timing case: early affection and readerly regret can remain real without proving that later partners are invalid. Favorite and disliked official pairs further test whether a combination moderates or amplifies each person's worst tendencies.
 
 The “CP大乱配” segment converts those judgments into counterfactual experiments. Moving a character across novels isolates variables such as beauty preference, insecurity around competence, desire for emotional reassurance, strength, and willingness to accept a forceful partner. The result is interpretive rather than predictive: the imagined pair matters when it clarifies why a canonical relationship fails or succeeds.
+
+The [[BixueJian|《碧血剑》]] relationship triangle tests feeling against viable commitment within one novel. [[YuanChengzhi|袁承志]] may experience stronger passion with [[AjiuBixueJian|阿九]] while sustaining a bond with [[WenQingqing|温青青]] through history, protection, promise, sympathy, and repeated return. Jiao Wan'er and Luo Liru raise a disputed practical question: choosing a reliable person who loves you may support a life, but it does not prove that gratitude, safety, or external pressure is equivalent to free romantic preference.
 
 ## Key Claims
 
@@ -46,16 +49,19 @@ The “CP大乱配” segment converts those judgments into counterfactual exper
 - [[083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz]] pairs Guo Jing with Cheng Lingsu to test nonjudgment of appearance and comfort with a more capable partner.
 - [[083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz]] uses Wei Xiaobao–Li Mochou and Yang Xiao–Miejue Shitai to test emotional reassurance, strength, rivalry, and attraction under altered relational conditions.
 
+### Feeling, obligation, and viable action
+
+- [[liiidmjxhrngcffnld51y-l7_oan]] separates Yuan Chengzhi's possible stronger passion for A Jiu from the responsibility, promise, protection, and lived bond connecting him to Wen Qingqing.
+- [[liiidmjxhrngcffnld51y-l7_oan]] preserves host disagreement over whether Jiao Wan'er and Luo Liru represent practical compatibility or surrender of preferred love under pressure.
+
 ## Counterevidence & Qualifications
 
-The framework comes from one entertainment-oriented roundtable whose rankings openly reflect personal attachment, humor, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Compatibility also should not turn into a single optimization score: tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice.
+The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score: tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice.
 
 ## What Changed
 
-- Established reciprocity, timing, agency, and mutual flourishing as separate tests of fictional compatibility.
-- Distinguished sacrifice from proof that a relationship is desirable.
-- Added cross-work partner substitution as a bounded character-analysis method.
-- Separated readerly regret from canonical outcome and moral endorsement.
+- Added a distinction among strongest feeling, sustained obligation, protective action, and viable partnership.
+- Added a boundary against treating selection of a reliable admirer as automatic proof of free preference or compatibility.
 
 ## Related Concepts
 

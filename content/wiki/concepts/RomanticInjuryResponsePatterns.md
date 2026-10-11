@@ -4,6 +4,7 @@ type: concept
 tags: [relationships, heartbreak, agency, harm, literature]
 sources:
   - 059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw
+  - liiidmjxhrngcffnld51y-l7_oan
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -18,15 +19,17 @@ The bounded episode turns six women connected to [[DuanZhengchun|段正淳]] int
 
 The comparison does not rank pain or diagnose the characters. It asks where the consequences go: into rebuilding a life, narrowing one's own world, controlling a child, harming unrelated people, damaging oneself, revising expectations, or bargaining for enforceable recognition. Lingering love can coexist with boundaries; emotional authenticity does not determine whether the response preserves agency or multiplies harm.
 
+The [[BixueJian|《碧血剑》]] cases sharpen the contrast between reorientation and fixation. [[HeTieshou|何铁手]] survives mistaken love, institutional rupture, and an acute suicidal crisis before moving toward another life. [[HeHongyao|何红药]], by contrast, treats extreme prior sacrifice as a reason the bond must acquire the meaning she expected, then redirects rejection into captivity, torment, lifelong pursuit, and death beside the unavailable person. The comparison makes sunk identity investment an important branching pressure without making either response automatic.
+
 ## Key Claims
 
-- Relational injury does not dictate one response; rebuilding, withdrawal, control, harm displacement, expectation revision, self-injury, and bargaining are distinct pathways.
+- Relational injury does not dictate one response; rebuilding, reorientation, withdrawal, control, harm displacement, expectation revision, self-injury, and bargaining are distinct pathways.
 - Continuing to feel attachment is compatible with maintaining behavioral boundaries and another life.
 - Withdrawal can protect against immediate vulnerability while transmitting fear and control to dependents.
 - Externalizing an unrealized romantic script onto unrelated people multiplies victims without repairing the original loss.
 - Self-directed retaliation does not reliably transfer pain to the intended partner and may primarily damage the injured person.
-- Lower expectations can preserve warmth, but the line between acceptance and accommodation to inequity remains open.
-- Asking for formal status can be more concrete than asking someone to abandon an entire identity, without making the bargain loving or safe.
+- Lower expectations or formal-status bargaining can preserve warmth or create concrete security, but either may also accommodate inequity or intensify coercion.
+- When sacrifice becomes identity-defining, rejection can threaten the meaning of an entire past and intensify fixation without creating entitlement to reciprocity.
 
 ## Evidence
 
@@ -45,15 +48,18 @@ The comparison does not rank pain or diagnose the characters. It asks where the 
 - [[059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw]] rejects Dao Baifeng's retaliatory sexual act as self-harm that cannot resolve betrayal.
 - [[059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw]] distinguishes Kang Min's demand for recognized status in Dali from the other women's fantasy of princely renunciation.
 
+### Reorientation and fixation
+
+- [[liiidmjxhrngcffnld51y-l7_oan]] contrasts He Tieshou's movement into a new life after mistaken love and suicidal crisis with He Hongyao's conversion of sacrifice and rejection into coercion, lifelong pursuit, and self-destruction.
+
 ## Counterevidence & Qualifications
 
-The framework derives from one conversational literary interpretation, not a clinical taxonomy or advice for real relationships. Each character is compressed around a dominant response even though motives and actions may be more varied across the novel and its editions. Lower expectations may reflect agency or constrained accommodation; remarriage does not prove emotional closure; and formal status can provide security while also intensifying competition and coercion. Explanation does not excuse violence toward oneself, children, partners, or bystanders.
+The framework derives from conversational literary interpretation, not a clinical taxonomy or advice for real relationships. Each character is compressed around a dominant response even though motives and actions may be more varied across novels and editions. Lower expectations may reflect agency or constrained accommodation; remarriage does not prove emotional closure; rapid reorientation does not make prior pain trivial; and formal status can provide security while also intensifying competition and coercion. Explanation does not excuse violence toward oneself, children, partners, or bystanders.
 
 ## What Changed
 
-- Established a comparative map based on where relational injury redirects behavior and harm.
-- Distinguished lingering feeling from failure of behavioral boundaries.
-- Preserved ambiguity around low expectations and formal status rather than treating either as a universal solution.
+- Added the He Tieshou–He Hongyao contrast between rebuilding after crisis and making prior sacrifice the basis of lifelong fixation.
+- Added sunk identity investment as a pressure that can intensify romantic injury without creating a right to reciprocity.
 
 ## Related Concepts
 

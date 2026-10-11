@@ -35875,3 +35875,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写
+
+Added source `liiidmjxhrngcffnld51y-l7_oan`; created [[BixueJian|《碧血剑》]], [[WenQingqing|温青青]], [[YuanChengzhi|袁承志]], [[AjiuBixueJian|阿九]], [[XiaXueyi|夏雪宜]], [[WenYiBixueJian|温仪]], [[HeHongyao|何红药]], [[HeTieshou|何铁手]], [[AbsentPresenceCharacterDesign|Absent-Presence Character Design]], and [[EditionRevisionExplicitnessTradeoff|Edition Revision Explicitness–Motive Tradeoff]]; and resynthesized [[JealousyAndMateRetention]], [[RomanticInjuryResponsePatterns]], [[PossessiveAttachmentAndSelfErasure]], and [[FictionalRelationshipCompatibilityReading]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: attachment in 《碧血剑》 divides among passion, responsibility, promise, security, pride, and viable action; developmental insecurity explains but does not excuse harmful conduct; Xia Xueyi's posthumous residues organize the living plot; and revision can clarify romance or immediate motive while weakening ambiguity, final-choice coherence, or the causal force behind later action. No settled contradiction was adopted. The Stockholm-syndrome analogy, character psychology, exact dialogue, version details, authorial intention, and several disputed pair judgments remain source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused source, character, novel, and concept pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
