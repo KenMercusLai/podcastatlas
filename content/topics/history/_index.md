@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2739
+topic_total_pages: 2740
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6516,6 +6516,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "521-warlords-of-the-west-killer-queens-part-2-glt5666966864"
+    title: "521. Warlords of the West: Killer Queens (Part 2)"
+    url: "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
   - key: "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009"
     title: "522. Warlords of the West: A Clash of Ice and Fire (Part 3)"
     url: "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"

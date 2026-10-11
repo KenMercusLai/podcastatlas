@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [521. Warlords of the West: Killer Queens (Part 2)](sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864.md) — The Rest Is History on Fredegund and Brunhilde's feud, Merovingian regency, dynastic violence, and Gregory of Tours's unequal framing.
 - [Essentials: Understand and Use Dreams to Learn and Forget](sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014.md) — Condensed Huberman Lab episode on slow-wave and REM sleep, learning, emotional memory, dreams, EMDR, and mechanism boundaries.
 - [522. Warlords of the West: A Clash of Ice and Fire (Part 3)](sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009.md) — The Rest Is History on Tours as a raid, factional intervention, shrine threat, and consequential but not civilization-simple Frankish victory.
 - [How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman](sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530.md) — Huberman Lab father–son conversation on scientific curiosity, independence, field-changing, quantum communication, meditation, ordinary joy, and process-centered achievement.
@@ -4587,6 +4588,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Fredegund](entities/Fredegund.md) — Neustrian queen and regent whose political capacity and violent reputation must be read through hostile-source constraints.
+- [Brunhilde](entities/Brunhilde.md) — Visigothic princess and repeated Merovingian regent whose dynastic authority ended in aristocratic betrayal and execution.
+- [Gregory of Tours](entities/GregoryOfTours.md) — Bishop and indispensable but asymmetrical narrator of the rival Merovingian queens.
 - [Odo of Aquitaine](entities/OdoOfAquitaine.md) — Aquitanian duke whose independent defense, Berber alliance, defeat, and submission shaped the road to Tours.
 - [Abd al-Rahman al-Ghafiqi](entities/AbdAlRahmanAlGhafiqi.md) — Umayyad governor whose plundering Aquitanian campaign ended with his death at Tours.
 - [Bernardo Huberman](entities/BernardoHuberman.md) — Physicist and technology researcher whose career joins cross-disciplinary curiosity, independence, quantum communication, and ordinary-life joy.

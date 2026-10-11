@@ -33144,6 +33144,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/bruceschneier/"
     },
+    "Brunhilde": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5666966864 [GLT5666966864].md",
+          "key": "521-warlords-of-the-west-killer-queens-part-2-glt5666966864",
+          "show": "The Rest Is History",
+          "title": "521. Warlords of the West: Killer Queens (Part 2)",
+          "url": "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/brunhilde/"
+    },
     "BrunoRetailleau": {
       "episode_count": 1,
       "show_count": 1,
@@ -97044,6 +97060,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/fredjordan/"
     },
+    "Fredegund": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5666966864 [GLT5666966864].md",
+          "key": "521-warlords-of-the-west-killer-queens-part-2-glt5666966864",
+          "show": "The Rest Is History",
+          "title": "521. Warlords of the West: Killer Queens (Part 2)",
+          "url": "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/fredegund/"
+    },
     "FrederickAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -108718,6 +108750,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/gregorianreform/"
+    },
+    "GregoryOfTours": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5666966864 [GLT5666966864].md",
+          "key": "521-warlords-of-the-west-killer-queens-part-2-glt5666966864",
+          "show": "The Rest Is History",
+          "title": "521. Warlords of the West: Killer Queens (Part 2)",
+          "url": "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/gregoryoftours/"
     },
     "GregoryVII": {
       "episode_count": 3,
@@ -177585,9 +177633,9 @@
       "url": "/wiki/entities/merlin/"
     },
     "MerovingianDynasty": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5104943454 [GLT5104943454].md",
@@ -177602,6 +177650,13 @@
           "show": "The Rest Is History",
           "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
           "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
+        },
+        {
+          "episode_file": "GLT5666966864 [GLT5666966864].md",
+          "key": "521-warlords-of-the-west-killer-queens-part-2-glt5666966864",
+          "show": "The Rest Is History",
+          "title": "521. Warlords of the West: Killer Queens (Part 2)",
+          "url": "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
         }
       ],
       "updated": "2026-10-11",
@@ -230629,9 +230684,9 @@
       "url": "/wiki/concepts/sacralkingshippoliticalcontrol/"
     },
     "SacralQueenshipAndRegency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -230639,9 +230694,16 @@
           "show": "The Rest Is History",
           "title": "460. The Empress of the Apocalypse",
           "url": "/wiki/sources/460-the-empress-of-the-apocalypse-glt9103397168/"
+        },
+        {
+          "episode_file": "GLT5666966864 [GLT5666966864].md",
+          "key": "521-warlords-of-the-west-killer-queens-part-2-glt5666966864",
+          "show": "The Rest Is History",
+          "title": "521. Warlords of the West: Killer Queens (Part 2)",
+          "url": "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/sacralqueenshipandregency/"
     },
     "SacredHistorySourceCriticism": {
