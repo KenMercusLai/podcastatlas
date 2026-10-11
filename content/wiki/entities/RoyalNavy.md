@@ -10,8 +10,9 @@ sources:
   - 610-nelson-the-battle-of-copenhagen-part-3-glt9153225543
   - 517-nelson-the-hunt-for-napoleon-part-4-glt5321926998
   - 516-nelson-god-of-war-part-3-glt1686018300
+  - 515-nelson-attack-the-french-part-2-glt9020085184
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-12
 ---
 
 # Royal Navy
@@ -21,6 +22,8 @@ last_updated: 2026-10-10
 The Royal Navy is presented as Britain's principal maritime fighting institution and as a long-built system of finance, administration, professional skill, dockyards, logistics, health, firepower, and command culture.
 
 ## Current Profile
+
+The 1793-96 Mediterranean account shows this system before Nelson's celebrated victories. A fleet of hundreds of ships supported Britain's strategy of fighting at sea while subsidizing continental allies, but ship-level effectiveness still depended on recruitment, water, food, citrus, worship, health, morale, close-range gunnery, and prize incentives. Hood's temporary acquisition of Toulon and Corsica created forward bases, yet Napoleon's land victories and Spain's realignment closed ports and forced withdrawal. Sea power could preserve British capacity without independently deciding the continental war.
 
 The Trafalgar background source rejects the idea that British naval dominance was natural or ancient. Competition with the Dutch and French, Cromwellian spending, Restoration administration, officer examinations, Samuel Pepys's bureaucracy, parliamentary finance, public credit, nationwide recruitment, provisioning, sailor health, dockyard mechanization, and incremental gunnery improvement accumulated into reliable fleet readiness. By 1805 the Navy could control approaches, sustain blockade, operate across oceans, and support a close-action doctrine that trusted captains to execute a shared objective. [[HoratioNelson]] embodied this system, but did not create it alone.
 
@@ -38,7 +41,7 @@ The 2025 Trafalgar retelling makes the institutional account concrete at operati
 
 - Professionally trained service that required practical seamanship and officer examination.
 - Fiscal-administrative institution sustained by taxation, borrowing, public credit, and parliamentary support.
-- Logistical and coercive shipboard system in which provisioning, health, maintenance, morale work, intelligence, global deployment, blockade endurance, mutiny, and frequent corporal punishment all affected readiness.
+- Logistical and coercive shipboard system in which recruitment, provisioning, water, citrus, worship, health, maintenance, morale work, prize incentives, intelligence, global deployment, blockade endurance, mutiny, and frequent corporal punishment all affected readiness.
 - Industrial organization whose dockyards and machine-tool processes anticipated wider factory production.
 - Combat system built around practiced gunnery, close action, discipline, aggression, and delegated command, with amphibious performance still dependent on local intelligence and feasible landing conditions.
 - National institution whose language, songs, investment instruments, and heroic memory shaped British identity.
@@ -52,11 +55,13 @@ The 2025 Trafalgar retelling makes the institutional account concrete at operati
 
 ### Finance, logistics, health, and industry
 
+- [[515-nelson-attack-the-french-part-2-glt9020085184]] makes early-war readiness concrete through *Agamemnon*'s stores, recruitment, crew health, religious observance, morale, and the fleet's Mediterranean supply problem.
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] connects naval spending to the Bank of England, public credit, Navy bills, provisioning, anti-scurvy practice, dockyards, steam machinery, block mills, maintenance, and global fleet endurance.
 - [[611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489]] makes endurance concrete through a two-year Toulon blockade, food, water, fruit, health, maintenance, entertainment, and an Atlantic-Caribbean pursuit.
 
 ### Strategy and command culture
 
+- [[515-nelson-attack-the-french-part-2-glt9020085184]] connects Hood's Toulon and Corsica strategy, Hotham's caution, Jervis's disciplinary reforms, close gunnery against *Ca Ira*, allied-port loss, and the 1796 withdrawal.
 - [[516-nelson-god-of-war-part-3-glt1686018300]] contrasts Jervis's disciplined autonomy, divided-fleet plan, and Cape St Vincent victory with the weak intelligence, failed landings, and defeat at Tenerife.
 - [[517-nelson-the-hunt-for-napoleon-part-4-glt5321926998]] connects the Spithead and Nore mutinies, strategic overstretch, storm damage, reinforcement, missing cruisers, captain consultation, intelligence gaps, and the Alexandria near miss.
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] links Channel control, Mediterranean reach, Hood's offensive strategy, Jervis's discipline and delegated captaincy, aggressive incentives, and Nelson's annihilation-seeking command.
@@ -71,12 +76,14 @@ The 2025 Trafalgar retelling makes the institutional account concrete at operati
 
 ## Qualifications
 
+The 1793-96 figures for fleet size, guns, manpower, ships, casualties, stores, and combat performance remain episode-attributed, as do judgments about Hotham's caution and the causal balance between Napoleon's victories, Spanish policy, and Britain's withdrawal.
+
 This profile derives from seven British-centered popular-history episodes, three of which narrate the same Trafalgar system at different scales. Comparative claims about British and Spanish readiness, Cape St Vincent's figures and consequences, Tenerife's planning and command responsibility, French abstraction, British firing speed, fitness, technological leadership, state spending, public health, industrialization, the scale and causes of the 1797 mutinies, intelligence quality, exact blockade duration and punishment totals, Copenhagen losses and withdrawal alternatives, 1940 fleet effectiveness, likely peace terms, and invasion outcomes require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, attacks on neutral powers, imperial commerce, prize incentives, corporal punishment, extreme shipboard violence, or the politics of whose liberty naval power protected. Later action against the slave trade does not erase earlier complicity with empire and slave-derived wealth.
 
 ## What Changed
 
-- Added Cape St Vincent as an early case of disciplined autonomy converting preparation into tactical initiative.
-- Added Tenerife as a limit case where naval confidence could not overcome weak local knowledge and an unworkable landing plan.
+- Backfilled the service's 1793 provisioning, recruitment, health, religious, morale, and prize-economy foundations.
+- Added the 1796 Mediterranean withdrawal as a limit on translating fleet strength into continental outcomes.
 
 ## Relationships
 

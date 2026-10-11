@@ -11,8 +11,9 @@ sources:
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
   - 126-napoleon-in-egypt-glt3691914095
   - 517-nelson-the-hunt-for-napoleon-part-4-glt5321926998
+  - 515-nelson-attack-the-french-part-2-glt9020085184
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-12
 ---
 
 # Napoleon Bonaparte / 拿破仑
@@ -27,6 +28,8 @@ The direct biography now begins with a Corsican-speaking child born amid French 
 
 Part 2 follows that tension into rupture. Defeat in Corsican politics and family exile closed one identity and career path; Jacobin writing, [[RevolutionaryUniversalismIdentity|revolutionary universalism]], and war opened another. At the [[SiegeOfToulon|Siege of Toulon]], strategic concentration, artillery logistics, energy, and courage made him a brigadier general. After surviving Thermidor, [[PaulBarras|Paul Barras]] selected him to suppress the [[VendemiaireUprising|Vendémiaire uprising]], where grapeshot converted military competence into domestic political authority. Marriage to [[JosephineDeBeauharnais|Josephine de Beauharnais]], the Italian command, and the “Bonaparte” spelling complete the episode's interpretive transition from displaced Corsican to French revolutionary commander.
 
+The 1793-96 Mediterranean account supplies the British-facing consequence of Napoleon's early rise. His artillery on the heights helped make Toulon's harbor untenable for the occupying coalition; his later Italian campaign broke Austrian positions, entered Milan, defeated papal forces, closed ports to the [[RoyalNavy]], and helped force Britain out of Corsica and the Mediterranean. The episode's comparison with [[HoratioNelson]] treats both as ambitious commanders seeking decisive victory, but distinguishes Napoleon's capacity to reshape political power from Nelson's institutionally loyal service.
+
 Later cultural sources show the ascent's afterlife. For [[JulienSorel|Julien Sorel]], Napoleon represents a lost route by which talent might defeat birth hierarchy. The dueling source presents him as opposing private duels while ruling within a Europe where martial honor remained prestigious.
 
 The 1798 [[NapoleonEgyptCampaign|Egyptian campaign]] extends the ascent beyond Italy into imperial strategy and knowledge politics. Napoleon concealed the expedition's destination while assembling a force at Toulon, leaving British commanders to weigh targets from Naples and Sicily to Constantinople and Egypt. The successful seizure of Malta and the narrow miss with Nelson's fleet preserved operational surprise long enough to land at Alexandria, defeat the Mamluks, and enter Cairo, but the same separation between army and fleet created the campaign's maritime vulnerability. Napoleon redirected the anti-British struggle toward Egypt, traveled with savants and presses, invoked Alexander and Rome, and presented occupation as liberation from [[MamlukEgypt]]. Muslim-facing proclamations and revolutionary-Islamic pageantry coexisted with private instrumentalism, while the Cairo rebellion and violent repression exposed the coercive core of that claimed universalism. Land victories could not overcome [[HoratioNelson]]'s destruction of the fleet at the [[BattleOfTheNile]], the failure at Acre, disease, or Napoleon's decision to leave. His ability to translate strategic failure into heroic narrative anticipates the mature self-fashioning visible in later campaigns, while the [[RosettaStone|Rosetta Stone]], savants, and [[DescriptionDeLEgypte|Description de l'Egypte]] gave the invasion a scholarly afterlife not reducible to his personal achievement.
@@ -37,7 +40,7 @@ The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic r
 
 - French conquest, family adaptation, schooling abroad, accent, bullying, and reading formed a self-conscious Corsican outsider.
 - Corsican nationalism, French military service, and revolutionary politics overlapped for years before exile made French reinvention decisive.
-- Mathematics, artillery expertise, logistics, strategic concentration, energy, and courage drove his military breakthrough.
+- Mathematics, artillery expertise, logistics, strategic concentration, energy, and courage drove a breakthrough whose Italian phase reshaped regional politics and exposed the limits of British maritime power.
 - Republican radicalism coexisted with contempt for weak authority, crowd disorder, and unorganized violence.
 - Political writing and Jacobin reliability made ambition legible to successive revolutionary patrons.
 - Barras's patronage converted battlefield reputation and domestic repression into command and political power.
@@ -56,6 +59,7 @@ The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic r
 ### Corsican rupture, Toulon, and Vendémiaire
 
 - [[383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929]] connects the Paoli break, Jacobin tract, Toulon artillery strategy, Thermidorian survival, Barras's patronage, grapeshot, and command of the Army of the Interior.
+- [[515-nelson-attack-the-french-part-2-glt9020085184]] provides a British naval perspective on Toulon's recovery and connects the Italian campaign to closed ports, allied collapse, Spain's realignment, and Britain's Mediterranean retreat.
 
 ### Identity, Josephine, and Italy
 
@@ -81,12 +85,14 @@ The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic r
 
 ## Qualifications
 
+The new Mediterranean account is Nelson-centered and compresses the Italian campaign; its battle sequence, port closures, causal weight in Britain's withdrawal, and Nelson-Napoleon character comparison require wider evidence.
+
 The direct biography is conversational and remains incomplete. Childhood aggression, reported dialogue, private motives, and several revolutionary scenes are uncertain, mythologized, or interpretive. His simultaneous Corsican and French commitments caution against reading nationality as a clean conversion. The claim that disorder troubled him more than violence anticipates later conduct but does not prove a fully formed doctrine in 1792. Toulon atrocities, Vendémiaire casualties, Barras's account, and Josephine anecdotes remain source-scoped. The feasibility and intended scope of the Egyptian and 1805 invasion plans, Napoleon's understanding of naval operations, his exact concealment measures, the expedition's force totals and India strategy, Muslim-facing language, atrocity reports, plague narratives, and counterfactual consequences require wider evidence. The Egyptology that followed the campaign depended on many scholars and later institutions; it should not be credited to Napoleon alone or used to redeem occupation. Later literary admiration describes symbolic afterlife, not moral endorsement.
 
 ## What Changed
 
-- Added destination secrecy, Malta, and the Alexandria near miss to the opening of the Egyptian campaign.
-- Clarified that operational surprise enabled the landing but did not solve the expedition's dependence on maritime support.
+- Added the British-facing effects of Napoleon's Toulon artillery and Italian victories.
+- Distinguished his political-military power from Nelson's institutionally bounded ambition without treating the comparison as settled fact.
 
 ## Relationships
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [515. Nelson: Attack the French! (Part 2)](sources/515-nelson-attack-the-french-part-2-glt9020085184.md) — The Rest Is History on Nelson's Mediterranean preparation, Calvi eye injury, first fleet action, Jervis's arrival, Napoleon's Italian victories, and the retreat toward Cape St Vincent.
 - [Essentials: Master Your Sleep & Be More Alert When Awake](sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030.md) — Condensed Huberman Lab episode on adenosine sleep pressure, circadian light timing, conditional naps and NSDR, and behavior-first supplement boundaries.
 - [516. Nelson: God of War (Part 3)](sources/516-nelson-god-of-war-part-3-glt1686018300.md) — The Rest Is History on Cape St Vincent, Jervis's disciplined autonomy, Nelson's first national breakthrough, the failed Tenerife expedition, and the loss of his right arm.
 - [How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross](sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417.md) — Huberman Lab interview on useful inner speech, repetitive chatter, flexible regulation tools, psychological distance, advisory support, WOOP planning, and attention boundaries.
@@ -17597,6 +17598,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Poppaea Sabina](entities/PoppaeaSabina.md) — Nero's wife portrayed through glamour, commercial influence, powerful relationships, and qualified claims of ruthless ambition.
 - [Mary Fisher](entities/MaryFisher.md) — Seventeenth-century Quaker missionary joining religious conviction, persecution, transatlantic travel, and later marriage.
 - [Horatio Nelson](entities/HoratioNelson.md) — British admiral joining preparation, sailor care, charismatic mission, tactical aggression, celebrity, moral contradiction, and heroic memory.
+- [Thomas Masterman Hardy](entities/ThomasMastermanHardy.md) — Royal Navy lieutenant whose shared danger and reciprocal rescue experiences began a lasting command bond with Nelson.
 - [Catherine of Siena](entities/CatherineOfSiena.md) — Medieval mystic whose ascetic sanctity, charity, diplomacy, and papal advocacy converted bodily renunciation into public authority.
 - [小胖丫 / 小胖鸭 (Podcast Guest)](entities/XiaopangyaPodcastGuest.md) — Source-scoped cancer-survivor guest connecting treatment and recovery with work, family communication, social life, and future plans.
 - [Tony Hawk](entities/TonyHawk.md) — Professional skateboarder, entrepreneur, and skatepark advocate whose career joins technical mastery, adaptation, and community.

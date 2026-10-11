@@ -122624,9 +122624,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -122739,6 +122739,13 @@
           "show": "The Rest Is History",
           "title": "516. Nelson: God of War (Part 3)",
           "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        },
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
         }
       ],
       "updated": "2026-10-12",
@@ -143445,9 +143452,9 @@
       "url": "/wiki/entities/johnjacobastorfurtrader/"
     },
     "JohnJervis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1686018300 [GLT1686018300].md",
@@ -143455,6 +143462,13 @@
           "show": "The Rest Is History",
           "title": "516. Nelson: God of War (Part 3)",
           "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        },
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
         }
       ],
       "updated": "2026-10-12",
@@ -187117,9 +187131,9 @@
       "url": "/wiki/entities/nanyue/"
     },
     "NapoleonBonaparte": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "21.红与黑：他死于真诚 [569042001].md",
@@ -187176,9 +187190,16 @@
           "show": "The Rest Is History",
           "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
           "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
+        },
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/napoleonbonaparte/"
     },
     "NapoleonEgyptCampaign": {
@@ -230291,9 +230312,9 @@
       "url": "/wiki/concepts/royalminoritycustodypolitics/"
     },
     "RoyalNavy": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT3542298238 [GLT3542298238].md",
@@ -230343,9 +230364,16 @@
           "show": "The Rest Is History",
           "title": "516. Nelson: God of War (Part 3)",
           "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        },
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/royalnavy/"
     },
     "RoyalOutsiderMarriage": {
@@ -234744,9 +234772,9 @@
       "url": "/wiki/entities/seabeggars/"
     },
     "SeaControlStateCapacity": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -234789,9 +234817,16 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/seacontrolstatecapacity/"
     },
     "SeanMackey": {
@@ -241292,9 +241327,9 @@
       "url": "/wiki/concepts/siegeoftenochtitlan/"
     },
     "SiegeOfToulon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2658259929 [GLT2658259929].md",
@@ -241302,9 +241337,16 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/siegeoftoulon/"
     },
     "SiegeOfVicksburg": {
@@ -261970,6 +262012,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/thomaslaffont/"
+    },
+    "ThomasMastermanHardy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9020085184 [GLT9020085184].md",
+          "key": "515-nelson-attack-the-french-part-2-glt9020085184",
+          "show": "The Rest Is History",
+          "title": "515. Nelson: Attack the French! (Part 2)",
+          "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/thomasmastermanhardy/"
     },
     "ThomasMuntzer": {
       "episode_count": 1,

@@ -36106,3 +36106,11 @@ Added source `essentials-master-your-sleep-be-more-alert-when-awake-scim56687270
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 515. Nelson: Attack the French! (Part 2)
+
+Added source `515-nelson-attack-the-french-part-2-glt9020085184`; created [[ThomasMastermanHardy]]; and resynthesized [[HoratioNelson]], [[NapoleonBonaparte|Napoleon Bonaparte]], [[RoyalNavy]], [[JohnJervis]], [[SiegeOfToulon]], and [[SeaControlStateCapacity]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nelson's later aggression rested on shipboard recruitment, provisioning, water, citrus, worship, health, morale, prize incentives, visible leadership, and close-range gunnery; Jervis added stricter discipline and appetite for action, but Napoleon's Italian victories, closed ports, and Spain's realignment forced Britain out of Corsica and the Mediterranean. No settled contradiction was adopted. Ship and fleet dimensions, manpower and casualty totals, letters, dialogue, injury mechanics, Adelaide Correglia, rescue episodes, campaign causality, and counterfactual pursuit claims remain source-scoped. Emma Hamilton, Sir William Hamilton, Corsica, and lower-value ship or commander profiles were kept closed because existing pages or the focused source note capture the durable additions without reopening larger or thinner inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,521 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
