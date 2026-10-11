@@ -36160,3 +36160,11 @@ Added source `ljyhr2aom69hckwuywi4czovrhcu`; created [[ContextualMartialArtsComp
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 038 周年特辑 | 你心目中的金庸宇宙top3系列
+
+Added source `lqan6mpc-cfdaze0ooxdd-iegcjk` and resynthesized [[CriticalJudgmentPersonalPreference|批评判断与个人偏好的区分]] and [[LifeStageDependentRereading|生命阶段依赖的重读]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: favorite-work and character rankings become useful reception evidence when artistic criteria, childhood immersion, identification, temperament, and later rereading remain explicit; attachment can retain moral or narrative reservations; and rereading can lower esteem as well as deepen appreciation or redirect sympathy. No settled contradiction was adopted. Plot details, motives, comparative rankings, anniversary timing, release cadence, and program plans remain interpretive or source-scoped because the supplied document is a structured summary rather than a verbatim transcript or direct textual study. Broad [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], novel, and individual-character profiles were kept closed because the focused source and two reception concepts capture the durable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,528 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

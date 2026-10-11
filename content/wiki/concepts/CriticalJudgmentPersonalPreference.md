@@ -5,7 +5,8 @@ tags: [criticism, preference, reception, literature, taste]
 sources:
   - 082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd
   - ljyhr2aom69hckwuywi4czovrhcu
-last_updated: 2026-10-10
+  - lqan6mpc-cfdaze0ooxdd-iegcjk
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Preference is therefore not failed criticism, and criticism is not purified pref
 
 The earlier [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] widens the method beyond favorite works. “Most disliked character,” “strongest martial art,” “ideal teacher,” “compelling villain,” and “most tragic life” each require a different criterion set. Disagreement is informative when it reveals whether a speaker prioritizes responsibility, hypocrisy, speed, versatility, care, retained humanity, constrained agency, or sheer suffering. A ranked answer is therefore the start of interpretation, not its conclusion.
 
+The first-anniversary [[lqan6mpc-cfdaze0ooxdd-iegcjk|novel-and-character Top 3 roundtable]] supplies the earlier, more autobiographical version of the same method. The hosts mix artistic maturity, structural scale, characterization, tragic tone, childhood immersion, identification, and present temperament, while their different lists prevent any one criterion from silently becoming universal. Admiration can also remain qualified: a favorite may be limited by drinking, moral compromise, inherited privilege, bodily loss, or an ending that withholds later life.
+
 ## Key Claims
 
 - A work can be judged the strongest by explicit craft criteria without becoming the evaluator's favorite.
@@ -29,6 +32,7 @@ The earlier [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] widens the method 
 - Disagreement becomes analytically useful when participants identify which criteria differ instead of treating one ranking as an error.
 - Rankings are most informative as prompts for situated interpretation, not as measurements with a single correct result.
 - Different ranking questions require different scales; moral blame, combat capability, teaching quality, fascination, and tragic constraint should not be collapsed into one evaluative hierarchy.
+- A ranking can preserve reservations about a favorite, because attachment does not require treating every trait, action, or narrative outcome as exemplary.
 
 ## Evidence
 
@@ -44,15 +48,21 @@ The earlier [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] widens the method 
 
 - [[082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd]] preserves four different sets of choices and reasons instead of resolving them into a consensus winner.
 - [[ljyhr2aom69hckwuywi4czovrhcu]] uses multiple Top 3 categories to expose changing standards across character ethics, martial systems, mentors, villains, and tragedy.
+- [[lqan6mpc-cfdaze0ooxdd-iegcjk]] shows three informed readers converging partly on 《笑傲江湖》 while selecting different first-place novels and characters for reasons that range from craft to formative memory and identification.
+
+### Qualified attachment
+
+- [[lqan6mpc-cfdaze0ooxdd-iegcjk]] pairs admiration with explicit reservations about drinking, survival ethics, disability as an identification limit, inherited power, sacrifice, and the unshown future beyond romantic closure.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in two informal roundtables whose participants share substantial familiarity with Jin Yong. “Critical” criteria are themselves historically and socially situated, while personal reasons may include close formal attention rather than mere nostalgia. A stated criterion can still be inconsistently applied, and ranked categories can smuggle unlike dimensions into one scale. The distinction should prevent false contradiction, not create a rigid binary between objective expertise and subjective feeling or imply that every preference is equally well supported.
+The concept is grounded in three informal roundtables whose participants share substantial familiarity with Jin Yong. “Critical” criteria are themselves historically and socially situated, while personal reasons may include close formal attention rather than mere nostalgia. A stated criterion can still be inconsistently applied, and ranked categories can smuggle unlike dimensions into one scale. The distinction should prevent false contradiction, not create a rigid binary between objective expertise and subjective feeling or imply that every preference is equally well supported.
 
 ## What Changed
 
 - Extended the framework from “best versus favorite” to moral, martial, pedagogical, villain, and tragedy rankings.
 - Clarified that each ranking question needs its own explicit dimensions and cannot borrow a universal scale.
+- Added qualified attachment: readers can name a favorite while retaining moral, practical, or narrative reservations.
 
 ## Related Concepts
 

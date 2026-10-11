@@ -5,7 +5,8 @@ tags: [reading, rereading, literature, reception, life-course]
 sources:
   - 5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w
   - 082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd
-last_updated: 2026-10-10
+  - lqan6mpc-cfdaze0ooxdd-iegcjk
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Rereading here does not mean that older readers automatically understand a class
 
 The [[082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd|Jin Yong favorites roundtable]] broadens the mechanism from reinterpretation of one protagonist to redistribution of attention across an ensemble. A participant says repeated encounters with 《神雕侠侣》 changed her responses to Cheng Ying, Guo Fu, Li Mochou, and other imperfect figures. Later experience does not merely deepen the same favorite; it can alter who receives sympathy, which flaws appear intelligible, and how tragedy or resistance to convention is understood.
 
+The earlier [[lqan6mpc-cfdaze0ooxdd-iegcjk|first-anniversary roundtable]] adds bidirectional change. One host lowers 《鹿鼎记》 after rereading makes its audience-pleasing devices more salient, while another values 程灵素 more strongly on return because her competence, breadth, practical wisdom, and sacrifice stand out. Rereading can therefore deepen attachment, redirect sympathy, or reduce esteem; the mechanism is changed attention, not automatic canonization.
+
 ## Key Claims
 
 - A reader can possess the same plot while lacking the lived categories that make its pressures legible.
@@ -31,6 +34,7 @@ The [[082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcu
 - Language learning can create a second form of rereading by exposing rhythm, music, and connotation obscured in translation.
 - A later reading is situated rather than definitive and should not erase the limitations or insight of the earlier response.
 - Rereading can redistribute sympathy among secondary characters rather than only revise judgment of a protagonist or plot.
+- Rereading is bidirectional: later attention can deepen appreciation, reorder favorites, or expose devices that reduce esteem.
 
 ## Evidence
 
@@ -38,15 +42,17 @@ The [[082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcu
 - **Linguistic access:** [[5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w]] has Lu distinguish his translated first reading from later perception of German rhythm and musicality.
 - **Life-course salience:** [[5-shaonian-weite-you-chulu-ma-dushu-1-shaonian-weite-zhi-fannao-ljz9kgg5exphgfux5e6oyrtpxw1w]] suggests that socialization and fatigue can make readers more able to value the youthfulness they once took for granted.
 - **Changing ensemble sympathy:** [[082-zhi-zui-jin-mi-liangsui-le-ni-xinmu-zhong-de-jinyong-yuzhou-top1-lqzcutro9a37tpj7h-ps5wsmoexd]] records repeated reading of 《神雕侠侣》 changing the salience of Cheng Ying, Guo Fu, Li Mochou, and the novel's imperfect relationships.
+- **Downward and upward reassessment:** [[lqan6mpc-cfdaze0ooxdd-iegcjk]] contrasts a lower later ranking for 《鹿鼎记》 with stronger later appreciation of 程灵素.
 
 ## Counterevidence & Qualifications
 
-Two podcast discussions and a small number of retrospective self-reports cannot establish a universal age effect. Translation, adaptation, edition, education, mood, historical context, and discussion format may matter as much as age. Older readers may also over-project workplace, relationship, or midlife concerns onto a text; the concept names a change in access and attention, not a hierarchy in which later readings are necessarily superior.
+Three podcast discussions and a small number of retrospective self-reports cannot establish a universal age effect. Translation, adaptation, edition, education, mood, historical context, and discussion format may matter as much as age. Older readers may also over-project workplace, relationship, or midlife concerns onto a text; the concept names a change in access and attention, not a hierarchy in which later readings are necessarily superior.
 
 ## What Changed
 
 - Extended the concept from reinterpretation of a protagonist to redistributed sympathy across an ensemble.
 - Added adaptation history and relationship experience as possible influences that should not be collapsed into age alone.
+- Made the direction of change explicit: rereading can lower as well as raise a work or character in personal estimation.
 
 ## Related Concepts
 

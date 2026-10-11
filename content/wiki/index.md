@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [038 周年特辑 | 你心目中的金庸宇宙top3系列](sources/lqan6mpc-cfdaze0ooxdd-iegcjk.md) — 纸醉金迷FM以小说和男女角色榜单区分艺术判断、私人偏爱、童年记忆与重读变化，并保留对所爱作品和人物的明确限定。
 - [039 文无第一，武无第二|漫谈金庸宇宙top3系列](sources/ljyhr2aom69hckwuywi4czovrhcu.md) — 纸醉金迷FM以角色好恶、武功、师父、反派与悲剧排行拆解道德责任、情境化实力、教学质量和受限能动性。
 - [Essentials: How Your Brain Works & Changes](sources/essentials-how-your-brain-works-changes-scim5664740932.md) — Condensed Huberman Lab episode on whole-body nervous-system loops, reflexive and deliberate control, adult neuroplasticity, sleep or deep-rest consolidation, and flexible 90-minute focus cycles.
 - [514. Nelson: Hero of the Seas (Part 1)](sources/514-nelson-hero-of-the-seas-part-1-glt4893527428.md) — The Rest Is History on Nelson's Norfolk upbringing, patronage-assisted naval entry, practical training, early voyages, Caribbean service, marriage, and return to war in 1793.
