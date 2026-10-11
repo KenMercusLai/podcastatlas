@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10415
+wiki_total_pages: 10419
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1397,6 +1397,9 @@ wiki_pages:
   - key: "PortugueseRevolutionaryProcess"
     title: "Portuguese Revolutionary Process"
     url: "/wiki/concepts/portugueserevolutionaryprocess/"
+  - key: "PositionCapacityOverIdealPosture"
+    title: "Position Capacity Over Ideal Posture"
+    url: "/wiki/concepts/positioncapacityoveridealposture/"
   - key: "PositionSizing"
     title: "Position Sizing"
     url: "/wiki/concepts/positionsizing/"

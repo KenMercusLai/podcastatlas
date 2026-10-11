@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13320
+wiki_total_pages: 13321
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "KellyRodriques"
     title: "Kelly Rodriques"
     url: "/wiki/entities/kellyrodriques/"
+  - key: "KellyStarrett"
+    title: "Kelly Starrett"
+    url: "/wiki/entities/kellystarrett/"
   - key: "KelunBiotech"
     title: "Kelun-Biotech / 科伦博泰"
     url: "/wiki/entities/kelunbiotech/"

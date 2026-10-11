@@ -24283,6 +24283,10 @@
     "title": "Daily Mail",
     "url": "/wiki/entities/dailymail/"
   },
+  "DailyMovementExposure": {
+    "title": "Daily Movement Exposure",
+    "url": "/wiki/concepts/dailymovementexposure/"
+  },
   "DairyCategoryPremiumization": {
     "title": "Dairy Category Premiumization / 乳制品品类升级",
     "url": "/wiki/concepts/dairycategorypremiumization/"
@@ -33518,6 +33522,10 @@
   "FitnessAssessmentTestingWeek": {
     "title": "Fitness Assessment Testing Week / 年度体能测试周",
     "url": "/wiki/concepts/fitnessassessmenttestingweek/"
+  },
+  "FitnessCapacityForLife": {
+    "title": "Fitness Capacity for Life",
+    "url": "/wiki/concepts/fitnesscapacityforlife/"
   },
   "FitnessPerformanceAnchors": {
     "title": "Fitness Performance Anchors / 体能短板锚点",
@@ -49470,6 +49478,10 @@
   "KellyRodriques": {
     "title": "Kelly Rodriques",
     "url": "/wiki/entities/kellyrodriques/"
+  },
+  "KellyStarrett": {
+    "title": "Kelly Starrett",
+    "url": "/wiki/entities/kellystarrett/"
   },
   "KelunBiotech": {
     "title": "Kelun-Biotech / 科伦博泰",
@@ -68943,6 +68955,10 @@
     "title": "PosiTouch",
     "url": "/wiki/entities/positouch/"
   },
+  "PositionCapacityOverIdealPosture": {
+    "title": "Position Capacity Over Ideal Posture",
+    "url": "/wiki/concepts/positioncapacityoveridealposture/"
+  },
   "PositionSizing": {
     "title": "Position Sizing",
     "url": "/wiki/concepts/positionsizing/"
@@ -80402,6 +80418,10 @@
   "SoftDiscountRetail": {
     "title": "Soft-Discount Retail / 软折扣零售",
     "url": "/wiki/concepts/softdiscountretail/"
+  },
+  "SoftTissueMobilizationWindow": {
+    "title": "Soft-Tissue Mobilization Window",
+    "url": "/wiki/concepts/softtissuemobilizationwindow/"
   },
   "Softmax": {
     "title": "Softmax",
@@ -102702,6 +102722,10 @@
   "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002": {
     "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
     "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+  },
+  "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544": {
+    "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+    "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
   },
   "how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849": {
     "title": "How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman",

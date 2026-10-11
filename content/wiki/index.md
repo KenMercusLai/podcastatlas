@@ -4589,7 +4589,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Control Pain & Heal Faster With Your Brain](sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459.md) — Condensed Huberman Lab episode on distributed pain, body-map plasticity, sleep-first recovery, inflammation timing, electroacupuncture specificity, and regenerative-treatment limits.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
+- [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
+
 ## Entities
+- [Kelly Starrett](entities/KellyStarrett.md) — Physical therapist and movement educator who frames mobility, position, tissue care, and training as capacities for sport and daily life.
 - [琼瑶 / Qiong Yao](entities/QiongYao.md) — 以古典诗意、因果化言情叙事、女性角色和跨媒介自我改编塑造代际文化记忆的作家、编剧与制作人。
 - [《烟雨濛濛》 / Misty Rain](entities/YanYuMengMeng.md) — 以复仇迁移、父女关系和爱情反噬构成悲剧因果链的琼瑶早期小说。
 - [《情深深雨濛濛》 / Romance in the Rain](entities/QingShenShenYuMengMeng.md) — 通过人物重塑、战时上海背景和更明朗结局重写《烟雨濛濛》的电视作品。
@@ -17978,6 +17981,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Daily Movement Exposure](concepts/DailyMovementExposure.md) — Embeds varied positions, floor transitions, play, and movement patterns into ordinary routines.
+- [Position Capacity Over Ideal Posture](concepts/PositionCapacityOverIdealPosture.md) — Judges posture by task fit, breathing, force transfer, control, and access to varied positions.
+- [Soft-Tissue Mobilization Window](concepts/SoftTissueMobilizationWindow.md) — Treats rolling and compression as temporary symptom or range changes that must transfer to purposeful movement.
+- [Fitness Capacity for Life](concepts/FitnessCapacityForLife.md) — Orients repeatable training toward work, sport, family, play, community, and adventure.
 - [Revenge as Self-Defeating Inheritance / 复仇的自毁性继承](concepts/RevengeAsSelfDefeatingInheritance.md) — 原始伤害经家庭与亲密关系迁移，使报复不断招募第三方并摧毁其所追求修复的悲剧模式。
 - [Listener Community Co-Production / 听众社群共创](concepts/ListenerCommunityCoProduction.md) — Bounded listener participation through topic signals, norms, professional skills, artifacts, rituals, and offline relationships.
 - [Health Content Commercial Safeguards / 健康内容商业合作护栏](concepts/HealthContentCommercialSafeguards.md) — Review, documentation, disclosure, and scope controls preventing sponsorship from borrowing clinical authority.

@@ -36002,3 +36002,11 @@ Added source `042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett
+
+Added source `how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544`; created [[KellyStarrett]], [[DailyMovementExposure]], [[PositionCapacityOverIdealPosture]], [[SoftTissueMobilizationWindow]], and [[FitnessCapacityForLife]]; and resynthesized [[PelvicFloorFunctionMatching]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: mobility is sustained through varied daily exposure and usable positions; tissue work is a bounded window for movement rather than proof of repair; pelvic-floor care must distinguish tension, weakness, and coordination; and training should remain repeatable enough to serve life outside the gym. No settled contradiction was adopted. Cultural fall-risk comparisons, injury-healing mechanisms, concussion, fascia, protein, supplement, heat, cold, breath-hold, and readiness claims remain source-scoped public education rather than individualized physical therapy, medical, pelvic-floor, nutrition, or training advice. Broad [[AndrewHuberman]], [[HubermanLab]], exercise-load, recovery, heat, cold, flexibility, and nutrition pages were kept closed because the focused source, guest, and concept pages capture the durable additions without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,508 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10415
+wiki_total_pages: 10419
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "SoftDiscountRetail"
     title: "Soft-Discount Retail / 软折扣零售"
     url: "/wiki/concepts/softdiscountretail/"
+  - key: "SoftTissueMobilizationWindow"
+    title: "Soft-Tissue Mobilization Window"
+    url: "/wiki/concepts/softtissuemobilizationwindow/"
   - key: "SoftwareAcquisitionOperatingPlatform"
     title: "Software Acquisition Operating Platform"
     url: "/wiki/concepts/softwareacquisitionoperatingplatform/"

@@ -60317,6 +60317,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/dailymail/"
     },
+    "DailyMovementExposure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3685343544 [SCIM3685343544].md",
+          "key": "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+          "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/dailymovementexposure/"
+    },
     "DairyCategoryPremiumization": {
       "episode_count": 1,
       "show_count": 1,
@@ -93400,6 +93416,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/fitnessassessmenttestingweek/"
+    },
+    "FitnessCapacityForLife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3685343544 [SCIM3685343544].md",
+          "key": "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+          "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/fitnesscapacityforlife/"
     },
     "FitnessPerformanceAnchors": {
       "episode_count": 1,
@@ -146588,6 +146620,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/keithrichards/"
+    },
+    "KellyStarrett": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3685343544 [SCIM3685343544].md",
+          "key": "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+          "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/kellystarrett/"
     },
     "KenCato": {
       "episode_count": 1,
@@ -202386,9 +202434,9 @@
       "url": "/wiki/entities/pele/"
     },
     "PelvicFloorFunctionMatching": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6177024080 [SCIM6177024080].md",
@@ -202403,6 +202451,13 @@
           "show": "这病说来话长",
           "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
           "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
+        },
+        {
+          "episode_file": "SCIM3685343544 [SCIM3685343544].md",
+          "key": "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+          "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
         }
       ],
       "updated": "2026-10-11",
@@ -209574,6 +209629,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/poseidon/"
+    },
+    "PositionCapacityOverIdealPosture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3685343544 [SCIM3685343544].md",
+          "key": "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+          "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/positioncapacityoveridealposture/"
     },
     "PositionSizing": {
       "episode_count": 9,
@@ -244554,6 +244625,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/softbudgetfootballclubs/"
+    },
+    "SoftTissueMobilizationWindow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3685343544 [SCIM3685343544].md",
+          "key": "how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett",
+          "url": "/wiki/sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/softtissuemobilizationwindow/"
     },
     "SoftwareAcquisitionOperatingPlatform": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10415
+wiki_total_pages: 10419
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "FitnessAssessmentTestingWeek"
     title: "Fitness Assessment Testing Week / 年度体能测试周"
     url: "/wiki/concepts/fitnessassessmenttestingweek/"
+  - key: "FitnessCapacityForLife"
+    title: "Fitness Capacity for Life"
+    url: "/wiki/concepts/fitnesscapacityforlife/"
   - key: "FitnessPerformanceAnchors"
     title: "Fitness Performance Anchors / 体能短板锚点"
     url: "/wiki/concepts/fitnessperformanceanchors/"
