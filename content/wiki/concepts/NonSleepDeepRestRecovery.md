@@ -18,7 +18,8 @@ sources:
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
   - how-your-brain-works-changes-scim1534957507
   - essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369
-last_updated: 2026-10-11
+  - essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -50,6 +51,8 @@ The first [[how-your-brain-works-changes-scim1534957507]] episode provides the e
 
 The jet-lag Essentials edit condenses the January 2021 account and adds a caregiving example: NSDR may help a person downshift after nighttime waking or while sleep is fragmented by caring for a baby or sick loved one. This broadens the accessible context, not the evidence tier; it does not show that NSDR restores lost sleep or resolves the cause of ongoing disruption.
 
+The Essentials edit of the preceding office-hours episode separately repeats a roughly 20-minute nap or NSDR-like period after an approximately 90-minute learning bout. It adds no independent study and does not resolve whether the reported benefit came from sleep, guided rest, ordinary quiet rest, or task-specific conditions.
+
 ## Key Claims
 - NSDR or yoga nidra is presented as a possible way to downshift stress and restore subjective vigor.
 - The practice can be used during travel or after exercise without requiring specialized equipment.
@@ -77,12 +80,13 @@ The jet-lag Essentials edit condenses the January 2021 account and adds a caregi
 - Earliest sleep-transition account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] groups yoga nidra, meditation, and hypnosis as parasympathetic downshifting practices that may reduce rumination and support sleep without replacing it.
 - First-episode consolidation account - [[how-your-brain-works-changes-scim1534957507]] distinguishes effortful attention during learning from later sleep or deep-rest consolidation and reports a source-scoped 20-minute post-effort result.
 - Condensed fragmented-sleep use - [[essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369]] restates nighttime downshifting and applies it to caregiving-related sleep fragmentation without establishing sleep replacement.
+- Condensed post-learning use - [[essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101]] repeats the roughly 20-minute post-learning nap or NSDR-like option without changing its evidence tier.
 
 ## Counterevidence & Qualifications
 The sources do not establish a universal duration, controlled working-memory, creativity, spatial-memory, or sensory-motor effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, interchangeability among NSDR, yoga nidra, hypnosis, and meditation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. The early 20-minute post-practice result lacks enough detail here to separate NSDR from a shallow nap or ordinary quiet rest. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
 
 ## What Changed
-- Added the Essentials caregiving example as overlapping provenance while preserving the no-sleep-replacement and no-treatment boundaries.
+- No current judgment changed; the latest Essentials edit adds overlapping post-learning provenance while preserving the no-sleep-replacement, task-transfer, and ordinary-rest comparison boundaries.
 
 ## Related Concepts
 - [[ExerciseRecoveryReadiness]] - broader framework for recovery inputs and load adjustment.

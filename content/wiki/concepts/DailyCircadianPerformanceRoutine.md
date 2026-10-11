@@ -13,7 +13,8 @@ sources:
   - essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522
   - essentials-the-science-of-making-breaking-habits-scim6067841582
   - essentials-time-perception-memory-focus-scim9668683035
-last_updated: 2026-10-10
+  - essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -43,6 +44,8 @@ The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim914
 
 The January 2021 office-hours episode adds anticipatory plasticity and self-experiment design. Repeated wake, exercise, sleep, and meal timing can make the body begin preparing for those events, but the episode also recommends tracking wake time, light, meals, exercise, temperature sensations, and rest while changing only one or two variables at a time. Consistency is therefore a way to reveal and train a pattern, not a reason to ignore individual sleep or performance response.
 
+The later Essentials edit preserves that one- or two-variable tracking rule and repeats light, exercise, temperature, meals, and rest as coordinated timing inputs. Because it is a condensed release of the same office-hours material, it adds usability and provenance rather than a second line of evidence.
+
 ## Key Claims
 - Daily performance is presented as a sequencing problem across the full 24-hour cycle, not a collection of independent hacks.
 - Wake time, outdoor light, movement, caffeine, work, exercise, food, late-day light, darkness, and temperature all act as state or timing cues.
@@ -67,12 +70,13 @@ The January 2021 office-hours episode adds anticipatory plasticity and self-expe
 - Condensed workspace provenance - [[essentials-optimizing-workspace-for-productivity-focus-creativity-scim9971680522]] repeats bright early-day, reduced later-day, and minimal nighttime light guidance without changing the task-fit judgment.
 - Condensed habit provenance - [[essentials-the-science-of-making-breaking-habits-scim6067841582]] repeats early high-friction placement, later lower-friction practice, sleep-phase consolidation, and eventual context variation without changing the current judgment.
 - Condensed time-perception provenance - [[essentials-time-perception-memory-focus-scim9668683035]] repeats daily light, activity, sleep, and task-matching cues without changing the individualized sequencing judgment.
+- Condensed office-hours provenance - [[essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101]] repeats anticipatory routine learning and one- or two-variable self-tracking without independently confirming the full episode.
 
 ## Counterevidence & Qualifications
 The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases overlap, as do the full and Essentials workspace, habits, and time-perception releases. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The early episodes' caffeine, sodium, carbohydrate, evening-alertness, anticipatory-plasticity, food-neurotransmitter, and light-plasticity explanations are likewise source-scoped. State matching and consistent cues can help repetition or task selection without proving that one clock window is necessary.
 
 ## What Changed
-- No current judgment changed; the time-perception Essentials edit adds overlapping provenance for circadian entrainment and state-matched task placement.
+- No current judgment changed; the latest Essentials edit adds overlapping provenance for anticipatory routines and limited-variable self-tracking.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - sleep-focused parent toolkit that this routine extends into work, exercise, and meals.

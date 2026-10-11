@@ -5,7 +5,8 @@ tags: [sleep, memory, cueing, neuroscience, learning]
 sources:
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
   - scim1705222315-scim1705222315
-last_updated: 2026-10-04
+  - essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The episode presents cueing as a two-stage procedure. A sound or odor is first a
 Two applications are described. In learning studies, an odor paired with material during wakefulness and reintroduced during sleep reportedly improves later memory relative to an unpaired odor. In nightmare treatment, a pleasant piano chord paired with a rewritten dream ending and replayed during REM reportedly improved the response beyond imagery rehearsal alone.
 
 The earlier office-hours episode adds spatial-memory provenance. It describes odor or tone cues paired with remembering object locations and replayed during sleep, with later retention improving when the cue remains safe and below the awakening threshold. It also proposes tactile cueing as a possibility, but the supplied note does not establish a tactile result.
+
+The later Essentials edit repeats the object-location example without adding a new experiment. It strengthens accessible provenance for the waking-association and below-threshold replay sequence while leaving task transfer, sleep-stage specificity, effect size, and home use unresolved.
 
 The concept is promising because it links controlled waking association with selective sleep processing, but it remains experimental. Safe cue delivery, accurate sleep staging, cue intensity, habituation, awakenings, and whether effects generalize beyond particular tasks or nightmare protocols remain open.
 
@@ -37,13 +40,13 @@ The concept is promising because it links controlled waking association with sel
 - Nightmare application - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] describes a pleasant piano chord paired with imagery rehearsal and replayed during REM.
 - Safety boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] cautions against unsafe odor-delivery practices such as burning incense during sleep.
 - Spatial-learning provenance - [[scim1705222315-scim1705222315]] describes odor or tone association during object-location learning followed by below-threshold replay during sleep and improved later retention.
+- Condensed spatial-learning provenance - [[essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101]] repeats the object-location cueing sequence without independently confirming the full episode's result.
 
 ## Counterevidence & Qualifications
 The source summaries do not establish effect size across tasks, optimal sleep stage, replication, durability, home-device accuracy, a demonstrated tactile result, or whether repeated cueing fragments sleep. The nightmare result appears tied to a specific small study and should not be generalized into a consumer protocol. Fire, allergy, respiratory, volume, and sleep-disruption risks matter for home cue delivery.
 
 ## What Changed
-- Added earlier object-location learning evidence using odor or tone cues.
-- Kept tactile stimulation as a proposed extension rather than an established result.
+- No current judgment changed; the Essentials edit adds overlapping provenance for object-location cueing while preserving the experimental and safety boundaries.
 
 ## Related Concepts
 - [[NightmareImageryRehearsalTherapy]] - therapeutic content that cueing may experimentally reinforce.

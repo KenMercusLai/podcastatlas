@@ -36058,3 +36058,11 @@ Added source `lr4bhqtikeophh4ladhymapyskwv`; created [[XunMengNiKuangNovel|ã€Šå¯
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | Essentials: Using Science to Optimize Sleep, Learning & Metabolism
+
+Added source `essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101` and resynthesized [[TargetedMemoryReactivation]], [[SleepTemperatureToolkit]], [[DailyCircadianPerformanceRoutine]], and [[NonSleepDeepRestRecovery]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: light, movement, meals, temperature, focused work, and rest are timing-dependent inputs; odor or tone cueing during sleep and short post-learning rest remain experimental and task-specific; and self-tracking is most interpretable when only one or two variables change at a time. No settled contradiction was adopted. This Essentials release condenses [[scim1705222315-scim1705222315]], so overlap is editorial continuity rather than independent corroboration, and its red-light, melatonin, dopamine, exercise-window, sleep-cueing, NSDR, nootropic, cold-phase-shifting, food-neurotransmitter, fasting, and metabolism claims remain source-scoped public education. Broad [[AndrewHuberman]], [[HubermanLab]], [[MorningLightCircadianAnchoring]], and [[SleepWakeTimingToolkit]] profiles were kept closed because the focused source and concept pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,515 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

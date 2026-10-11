@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Using Science to Optimize Sleep, Learning & Metabolism](sources/essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101.md) — Condensed Huberman Lab office hours on timing light, movement, meals, temperature, post-learning rest, and self-tracking without treating exact protocols as universal.
 - [041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事](sources/lr4bhqtikeophh4ladhymapyskwv.md) — 纸醉金迷FM以双重梦境、旧案与今生悲剧重读《寻梦》，把“记忆组”视为人格延续的文学设想，同时质疑轮回巧合和结局因果。
 - [518. Nelson: The Battle of the Nile (Part 5)](sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562.md) — The Rest Is History on Nelson's immediate night attack, Foley's landward maneuver, the destruction of L'Orient, French courage, and Napoleon's strategic isolation.
 - [Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel](sources/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858.md) — Huberman Lab interview on money as a tool for autonomy, purpose, relationships, and time rather than a yardstick for identity and status.
