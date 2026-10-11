@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3403
+topic_total_pages: 3406
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -775,6 +775,9 @@ topic_concepts:
   - key: "ComfortLedFootwearDemand"
     title: "Comfort-Led Footwear Demand"
     url: "/wiki/concepts/comfortledfootweardemand/"
+  - key: "ComicPovertyConstraintGap"
+    title: "Comic Poverty-Constraint Gap / 喜剧贫困与约束落差"
+    url: "/wiki/concepts/comicpovertyconstraintgap/"
   - key: "CommercialFilmAudienceLogic"
     title: "Commercial Film Audience Logic / 商业片观众逻辑"
     url: "/wiki/concepts/commercialfilmaudiencelogic/"
@@ -1435,6 +1438,9 @@ topic_concepts:
   - key: "FrenchNewWave"
     title: "French New Wave / 法国新浪潮"
     url: "/wiki/concepts/frenchnewwave/"
+  - key: "FriendshipAsSharedHome"
+    title: "Friendship as Shared Home / 友情作为共同归宿"
+    url: "/wiki/concepts/friendshipassharedhome/"
   - key: "FunctionalAdaptationFidelity"
     title: "Functional Adaptation Fidelity / 功能性改编忠实"
     url: "/wiki/concepts/functionaladaptationfidelity/"
@@ -8817,6 +8823,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h"
+    title: "056 武侠世界的异类｜《欢乐英雄》：谁说英雄一定是寂寞的？"
+    url: "/wiki/sources/056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h/"
   - key: "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae"
     title: "057 亦舒《喜宝》：拜金女？还是独立女性？"
     url: "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"

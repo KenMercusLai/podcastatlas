@@ -4525,9 +4525,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
+- [056 武侠世界的异类｜《欢乐英雄》：谁说英雄一定是寂寞的？](sources/056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h.md) — 纸醉金迷FM把《欢乐英雄》读作四个穷困小人物共同成家的群像武侠，并以秘密、贫穷、直接说理和影视重组检验其友情理想。
 - [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
 
 ## Entities
+- [《欢乐英雄》 / Happy Heroes](entities/HappyHeroesGuLong.md) — 古龙以富贵山庄四人组把孤独大侠改写为共同生活、保有秘密并互相支援的喜剧式武侠群像。
+- [郭大路 / Guo Dalu](entities/GuoDalu.md) — 以慷慨、轻信、从错误中学习和冒险式应变连接赤子之心、战斗与燕七爱情线的主人公。
+- [王动（《欢乐英雄》） / Wang Dong](entities/WangDongHappyHeroes.md) — 以不动、洞察、隐藏往事和集体应敌连接退隐气质与作者哲理表达的富贵山庄主人。
+- [燕七（《欢乐英雄》） / Yan Qi](entities/YanQiHappyHeroes.md) — 以性别伪装、南宫丑之女的身世秘密和郭大路的偏爱连接友情、爱情与危险的主人公。
+- [林太平（《欢乐英雄》） / Lin Taiping](entities/LinTaipingHappyHeroes.md) — 中段存在感较弱、后段由家世谜团和为爱赴死集中收束的富贵山庄成员。
 - [段誉 / Duan Yu](entities/DuanYu.md) — 《天龙八部》中以伦理行动、现实变通、儒释道交汇、情感投射和跨线连接支撑主角地位的段氏王子。
 - [木婉清 / Mu Wanqing](entities/MuWanqing.md) — 以自保性狠辣、真诚、同情心和强烈生命力进入段誉关系线，但爱情强度不等于长期适配。
 - [王语嫣 / Wang Yuyan](entities/WangYuyan.md) — 武学知识丰富而行动与关系自主性受限、又成为段誉玉像投射对象的版本敏感人物。
@@ -17806,6 +17812,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Friendship as Shared Home / 友情作为共同归宿](concepts/FriendshipAsSharedHome.md) — 以共同生活、容纳隐私和共同承担风险，使贫乏空间在血缘与财富之外成为家的关系机制。
+- [Comic Poverty-Constraint Gap / 喜剧贫困与约束落差](concepts/ComicPovertyConstraintGap.md) — 区分反复出现的饥饿与典当，和真正压缩选择、改变关系或造成不可逆代价的物质约束。
 - [Narrative Bridge Protagonist / 叙事桥梁型主角](concepts/NarrativeBridgeProtagonist.md) — 以跨故事区移动、关系牵线、开篇和收束视角解释主角结构中心性的框架。
 - [Present Sincerity and Commitment Gap / 当下真心与长期承诺落差](concepts/PresentSincerityCommitmentGap.md) — 区分当下真实而有感染力的爱意，与由持续选择、代价和生活结构证明的长期承诺。
 - [Romantic Injury Response Patterns / 情伤应对模式](concepts/RomanticInjuryResponsePatterns.md) — 比较情伤如何流向重建、封闭、控制、伤害转移、期待调整、自伤或名分谈判。

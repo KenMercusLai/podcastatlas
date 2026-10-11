@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13210
+wiki_total_pages: 13215
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1616,6 +1616,9 @@ wiki_pages:
   - key: "GuoDaLateHan"
     title: "郭大 / Guo Da (late Han)"
     url: "/wiki/entities/guodalatehan/"
+  - key: "GuoDalu"
+    title: "郭大路 / Guo Dalu"
+    url: "/wiki/entities/guodalu/"
   - key: "GuoWei"
     title: "郭威 / Guo Wei"
     url: "/wiki/entities/guowei/"

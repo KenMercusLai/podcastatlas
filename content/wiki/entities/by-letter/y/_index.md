@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13210
+wiki_total_pages: 13215
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "YanqiKingdomXin"
     title: "焉耆国 / Yanqi Kingdom (Xin period)"
     url: "/wiki/entities/yanqikingdomxin/"
+  - key: "YanQiHappyHeroes"
+    title: "燕七（《欢乐英雄》） / Yan Qi"
+    url: "/wiki/entities/yanqihappyheroes/"
   - key: "YanXiGong"
     title: "燕僖公 / Duke Xi of Yan"
     url: "/wiki/entities/yanxigong/"

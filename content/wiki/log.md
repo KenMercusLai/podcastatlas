@@ -35517,3 +35517,11 @@ Changed-page wikilinks, source inventories, index coverage, identity, knowledge 
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 056 武侠世界的异类｜《欢乐英雄》：谁说英雄一定是寂寞的？
+
+Added source `056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h`; created [[HappyHeroesGuLong|《欢乐英雄》]], [[GuoDalu|郭大路]], [[WangDongHappyHeroes|王动]], [[YanQiHappyHeroes|燕七]], [[LinTaipingHappyHeroes|林太平]], [[FriendshipAsSharedHome]], and [[ComicPovertyConstraintGap]]; and resynthesized [[GuLong|古龙]] and [[ThemePlotCoherence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 富贵山庄 turns four materially poor, secret-bearing drifters into a shared household; “四凶追王动” gives that friendship cost and collective action, while everyday poverty usually supplies comic atmosphere more than binding choice. The hosts' disagreement over Gu Long's direct friendship rhetoric preserves both its formative emotional force and its risk of crowding out feeling already enacted by scenes. No settled contradiction was adopted. Character motives, martial rankings, gender-disguise interpretation, authorial intent, television production history, deleted dual-world material, censorship effects, and causes of reception remain source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and adaptation-framework profiles were kept closed because focused work, character, author, and literary-criticism pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,447 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

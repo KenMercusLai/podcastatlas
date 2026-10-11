@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10345
+wiki_total_pages: 10347
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "FriendLendingBoundary"
     title: "Friend Lending Boundary / 朋友借钱边界"
     url: "/wiki/concepts/friendlendingboundary/"
+  - key: "FriendshipAsSharedHome"
+    title: "Friendship as Shared Home / 友情作为共同归宿"
+    url: "/wiki/concepts/friendshipassharedhome/"
   - key: "FriendshipRecession"
     title: "Friendship Recession"
     url: "/wiki/concepts/friendshiprecession/"

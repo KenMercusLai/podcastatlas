@@ -23,6 +23,10 @@
     "title": "05.她来自马里乌波尔：“如果你看见过我曾见到的。”",
     "url": "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
   },
+  "056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h": {
+    "title": "056 武侠世界的异类｜《欢乐英雄》：谁说英雄一定是寂寞的？",
+    "url": "/wiki/sources/056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h/"
+  },
   "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae": {
     "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
     "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
@@ -21107,6 +21111,10 @@
     "title": "搞笑面具式生存 / Comic Mask Survival",
     "url": "/wiki/concepts/comicmasksurvival/"
   },
+  "ComicPovertyConstraintGap": {
+    "title": "Comic Poverty-Constraint Gap / 喜剧贫困与约束落差",
+    "url": "/wiki/concepts/comicpovertyconstraintgap/"
+  },
   "CommandAndControlInfrastructure": {
     "title": "Command-and-Control Infrastructure",
     "url": "/wiki/concepts/commandandcontrolinfrastructure/"
@@ -34699,6 +34707,10 @@
     "title": "Friends of Friendless Churches",
     "url": "/wiki/entities/friendsoffriendlesschurches/"
   },
+  "FriendshipAsSharedHome": {
+    "title": "Friendship as Shared Home / 友情作为共同归宿",
+    "url": "/wiki/concepts/friendshipassharedhome/"
+  },
   "FriendshipRecession": {
     "title": "Friendship Recession",
     "url": "/wiki/concepts/friendshiprecession/"
@@ -38411,6 +38423,10 @@
     "title": "郭大 / Guo Da (late Han)",
     "url": "/wiki/entities/guodalatehan/"
   },
+  "GuoDalu": {
+    "title": "郭大路 / Guo Dalu",
+    "url": "/wiki/entities/guodalu/"
+  },
   "GuoFurong": {
     "title": "郭芙蓉 / Guo Furong",
     "url": "/wiki/entities/guofurong/"
@@ -39550,6 +39566,10 @@
   "HappyFamilyOrganics": {
     "title": "Happy Family Organics",
     "url": "/wiki/entities/happyfamilyorganics/"
+  },
+  "HappyHeroesGuLong": {
+    "title": "《欢乐英雄》 / Happy Heroes",
+    "url": "/wiki/entities/happyheroesgulong/"
   },
   "HappyMondayClub": {
     "title": "Happy Monday Club",
@@ -52418,6 +52438,10 @@
   "LinJunyang": {
     "title": "Lin Junyang",
     "url": "/wiki/entities/linjunyang/"
+  },
+  "LinTaipingHappyHeroes": {
+    "title": "林太平（《欢乐英雄》） / Lin Taiping",
+    "url": "/wiki/entities/lintaipinghappyheroes/"
   },
   "LinWei": {
     "title": "Lin Wei",
@@ -89803,6 +89827,10 @@
     "title": "王大可",
     "url": "/wiki/entities/wangdake/"
   },
+  "WangDongHappyHeroes": {
+    "title": "王动（《欢乐英雄》） / Wang Dong",
+    "url": "/wiki/entities/wangdonghappyheroes/"
+  },
   "WangFangXinPrincess": {
     "title": "王芳 / Wang Fang (Xin princess)",
     "url": "/wiki/entities/wangfangxinprincess/"
@@ -94510,6 +94538,10 @@
   "YanPuLateHan": {
     "title": "阎圃 / Yan Pu (late Han)",
     "url": "/wiki/entities/yanpulatehan/"
+  },
+  "YanQiHappyHeroes": {
+    "title": "燕七（《欢乐英雄》） / Yan Qi",
+    "url": "/wiki/entities/yanqihappyheroes/"
   },
   "YanRou": {
     "title": "阎柔 / Yan Rou",

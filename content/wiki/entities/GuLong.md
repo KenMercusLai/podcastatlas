@@ -9,19 +9,20 @@ sources:
   - 118-gulong-tianya-mingyue-dao-yiba-dao-yilun-yue-yigerende-jianghu-ltcxpyzkcejdizjsnqigs8ytqjxj
   - 099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz
   - 093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65
+  - 056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-09
+last_updated: 2026-10-11
 ---
 
 # 古龙 / Gu Long
 
 ## Overview
 
-古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], and [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]].
+古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]], and [[HappyHeroesGuLong|《欢乐英雄》]].
 
 ## Current Profile
 
-Across the three sources, Gu Long's distinctiveness lies in recombining wuxia with suspense, deduction, atmosphere, compressed revelation, and psychological allegory. The broad comparison describes figures such as Lu Xiaofeng and Chu Liuxiang as part of a “武侠推理” route. The two story discussions show that route at close range: concealed identities, betrayal, counterfeit objects, manipulated inference, reputation, friendship, and romantic ambiguity make belief about a weapon as important as the weapon itself.
+Across the bounded sources, Gu Long's distinctiveness lies in recombining wuxia with suspense, deduction, atmosphere, compressed revelation, psychological allegory, and domestic ensemble comedy. The broad comparison describes figures such as Lu Xiaofeng and Chu Liuxiang as part of a “武侠推理” route. The close readings show that route at work through concealed identities, betrayal, counterfeit objects, manipulated inference, reputation, friendship, and romantic ambiguity, while 《欢乐英雄》 redirects it toward four poor friends whose shared life challenges the solitary-hero model.
 
 The [[SevenWeaponsGuLong|《七种武器》]] cases sharpen the same qualification from different directions. The hosts accept 《孔雀翎》's confidence allegory while challenging the weapon's loss and 秋凤梧's final choice. In 《长生剑》, they find desire, vanity, and scheming more continuous with the action than the explicit claim that “笑” is the true weapon. A strong reversal or aphoristic ending can therefore reorganize a story without making every causal bridge persuasive.
 
@@ -31,15 +32,17 @@ The [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] discussion adds an ea
 
 The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary case of solving structure rather than overpowering it. An extra sword activates one fighter's two-weapon habit and breaks a coordinated formation from within, while divided tasks release hostages and alter the lineup before the clash. Its poison reversal likewise distinguishes honest testimony from correct belief: 柳无眉's suffering need not make her causal explanation true, and [[ShuiMuYinJi|水母阴姬]]'s denial need not make the suffering unreal. The admired setup contrasts with the final underwater fight, whose skin-breathing and “death kiss” mechanics again let spectacle outrun causal credibility.
 
+[[HappyHeroesGuLong|《欢乐英雄》]] broadens the profile from mystery and solitary damaged heroes to sitcom-like ensemble life. 富贵山庄 becomes a home through [[FriendshipAsSharedHome|collective belonging]], the “四凶追王动” arc joins suspense to injury and mutual support, and [[ComicPovertyConstraintGap|comic poverty]] supplies tone without consistently forcing bottom-line choices. The hosts' split response to Gu Long's friendship rhetoric also clarifies a recurring tension: direct interpretation can give readers formative emotional language while still crowding out feeling already created by scene and action.
+
 ## Key Characteristics
 
 - Diverges from encyclopedic wuxia through suspense, deduction, atmosphere, and mystery structure.
 - Uses hidden identities and delayed revelation to reorganize the reader's understanding of earlier action.
 - Turns martial objects into carriers of psychology and moral argument.
 - Uses confidence, habit, and involuntary response as both sources of agency and routes into deception or system disruption.
-- Uses poetic compression and recurring images to turn loneliness and violence into atmosphere, with a corresponding risk of repetition and over-explanation.
+- Uses poetic compression, aphorism, and direct explanation to make emotion legible, with corresponding risks of repetition and overstatement.
 - Favors thematic reversals whose force can exceed the plausibility or consistency of their plot setup.
-- Builds apparent impossibility by layering different kinds of proof, then lets investigation reinterpret them as coordinated human action.
+- Moves between solitary mystery heroes and ensembles whose ordinary loyalty, secrets, and shared danger redefine heroic life.
 
 ## Evidence
 
@@ -74,15 +77,21 @@ The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary
 - [[093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65]] reads the extra sword as a prepared exploit of individual habit inside a coordinated formation.
 - [[093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65]] separates 柳无眉's sincere poisoning belief from the truth of poisoning and treats the final underwater mechanics as weaker than the earlier setup.
 
+### Ensemble friendship and direct explanation
+
+- [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] reads 富贵山庄 as a shared home produced by four poor friends rather than wealth, kinship, or a lone hero's mastery.
+- [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] preserves disagreement between the formative power of Gu Long's friendship aphorisms and the artistic cost of explaining emotion too fully.
+- [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] distinguishes the costly “四凶追王动” suspense arc from recurring poverty that rarely constrains the friends' deepest choices.
+
 ## Qualifications
 
-The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; five focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, and fictional breathing claims are not physiology.
+The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; six focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, 《欢乐英雄》's martial rankings and adaptation history, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, and fictional breathing claims are not physiology.
 
 ## What Changed
 
-- Added 《画眉鸟》's habit-triggered disruption of a coordinated sword formation.
-- Distinguished sincere testimony from accurate causal belief in the poisoning reversal.
-- Extended the recurring craft qualification from convenient reveals to implausible underwater physiology.
+- Broadened Gu Long's profile from suspense-centered and solitary heroes to ensemble domestic comedy.
+- Added friendship as shared home and qualified the causal weight of comic poverty.
+- Distinguished the formative emotional power of direct aphorism from its risk of over-explaining enacted feeling.
 
 ## Relationships
 
@@ -94,6 +103,7 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]] - novel joining poetic imagery, damaged embodiment, rank, and transferable identity.
 - [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] - novel joining apparent possession, coordinated marriage escape, assassin mystery, and unequal combat.
 - [[PaintingThrushGuLong|《画眉鸟》]] - novel joining hostage leverage, formation disruption, poisoning belief, and tragic attachment.
+- [[HappyHeroesGuLong|《欢乐英雄》]] - ensemble novel joining shared home, secrets, comedy, suspense, and explicit friendship rhetoric.
 - [[ChuLiuxiang|楚留香]] - investigator who combines rational reconstruction, discretion, bluffing, and strategic reframing.
 - [[ShuiMuYinJi|水母阴姬]] - final opponent who joins overwhelming force to attachment and mercy.
 - [[XueYirenGuLong|薛衣人]] - master swordsman whose family burden gives the new source its richest characterization.
@@ -108,3 +118,5 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[NonDefeatAsVictory]] - asymmetric strategy that makes survival and restraint meaningful forms of success.
 - [[HabitTriggeredSystemDisruption]] - strategy that breaks coordination by eliciting an incompatible practiced response.
 - [[SincereFalseBelief]] - epistemic distinction between honest testimony and accurate causal belief.
+- [[FriendshipAsSharedHome]] - relational pattern through which 富贵山庄 becomes valuable without wealth or kinship.
+- [[ComicPovertyConstraintGap]] - distinction between visible deprivation and materially binding choice.

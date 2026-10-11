@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13210
+wiki_total_pages: 13215
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "HopeIsTheThingWithFeathersBook"
     title: "《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers"
     url: "/wiki/entities/hopeisthethingwithfeathersbook/"
+  - key: "HappyHeroesGuLong"
+    title: "《欢乐英雄》 / Happy Heroes"
+    url: "/wiki/entities/happyheroesgulong/"
   - key: "HannahArendtLoveAndEvil"
     title: "《汉娜·阿伦特：爱与恶》 / Hannah Arendt: Love and Evil"
     url: "/wiki/entities/hannaharendtloveandevil/"
