@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3479
+topic_total_pages: 3480
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8928,6 +8928,9 @@ topic_sources:
   - key: "salt-020260914-archive-keats-podcast"
     title: "(From the archive) Jonathon Keats: Envisioning Deep Time"
     url: "/wiki/sources/salt-020260914-archive-keats-podcast/"
+  - key: "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik"
+    title: "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争"
+    url: "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
   - key: "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x"
     title: "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功"
     url: "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"

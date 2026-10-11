@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13426
+wiki_total_pages: 13430
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "DongyueDadi"
     title: "东岳大帝"
     url: "/wiki/entities/dongyuedadi/"
+  - key: "DongfangBubaiJinYong"
+    title: "东方不败（金庸小说） / Dongfang Bubai (Jin Yong)"
+    url: "/wiki/entities/dongfangbubaijinyong/"
   - key: "DongfangShuo"
     title: "东方朔 / Dongfang Shuo"
     url: "/wiki/entities/dongfangshuo/"

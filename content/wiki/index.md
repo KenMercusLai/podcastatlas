@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争](sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik.md) — 纸醉金迷FM以华山剑气之争、五岳并派和日月神教继承拆解理念、联盟与口号如何转化为权力竞争，并把令狐冲的退隐解释为扩张计划暂时失效后的政治空间。
 - [008 无招胜有招｜闲话金庸《笑傲江湖》中的武功](sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x.md) — 纸醉金迷FM以“武如其人”和独孤九剑讨论武功如何编码人物、规则如何内化为创造性自由，并以岳灵珊与林平之检验痴情、复仇、权力欲和责任。
 - [009 如果活在《笑傲江湖》的世界，你会选择成为谁？](sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn.md) — 纸醉金迷FM以向问天、方证、冲虚和令狐冲讨论忠诚、利益与门派均衡，并以仪琳、桃谷六仙和影视版本展开爱情伦理、暴力喜剧及改编接受。
 - [010 一见杨过误终身|闲话金庸《神雕侠侣》里的爱情](sources/lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden.md) — 纸醉金迷FM以陆无双、程英、公孙绿萼和郭芙区分轻松吸引、克制深情、致命牺牲与敌意依恋，并检验爱情中的互惠、排他和社会认同。
@@ -4648,6 +4649,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [岳灵珊（金庸小说） / Yue Lingshan (Jin Yong)](entities/YueLingshanJinYong.md) — 《笑傲江湖》中以忠诚、否认和受限女性出路构成悲剧的角色。
 - [令狐冲（金庸小说） / Linghu Chong (Jin Yong)](entities/LinghuChongJinYong.md) — 拒绝以职位定义自我却因武功、婚姻、感恩与跨门派关系持续具有政治分量的《笑傲江湖》主角。
 - [向问天（金庸小说） / Xiang Wentian (Jin Yong)](entities/XiangWentianJinYong.md) — 将忠诚、利益、谋略、调停、严酷手段与继位后克制结合起来的日月神教人物。
+- [任我行（金庸小说） / Ren Woxing (Jin Yong)](entities/RenWoxingJinYong.md) — 从被囚旧主迅速转为享受仪式服从并主动推进一统江湖的复位教主。
+- [东方不败（金庸小说） / Dongfang Bubai (Jin Yong)](entities/DongfangBubaiJinYong.md) — 在继承不安、夺权、统一口号、选择性宽容、委托治理与亲密依恋之间呈现政治矛盾的日月神教教主。
+- [岳不群（金庸小说） / Yue Buqun (Jin Yong)](entities/YueBuqunJinYong.md) — 以正派声望、门派记忆和秘密武功争夺五岳合并领导权的华山掌门。
+- [左冷禅（金庸小说） / Zuo Lengchan (Jin Yong)](entities/ZuoLengchanJinYong.md) — 以暴力、内应、招揽和情报推动五岳并派，却因关键能力盲点失败的嵩山掌门。
 - [仪琳（金庸小说） / Yilin (Jin Yong)](entities/YilinJinYong.md) — 以照料、不打扰他人幸福和严苛道德自省表达单恋，同时承受沉默代价的恒山人物。
 - [桃谷六仙 / Peach Valley Six Immortals](entities/TaoguSixImmortals.md) — 以循环争辩、协同暴力、真话和无门派野心把喜剧、残酷及政治讽刺结合起来的六人群体。
 - [杨过（金庸小说） / Yang Guo (Jin Yong)](entities/YangGuoJinYong.md) — 在十六年等待、对多位女性的不对等情感、冲动冒险与襄阳公共行动之间完成成长的《神雕侠侣》主角。
@@ -14487,7 +14492,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer and newspaper editor read through cultural craft, political critique, and his mentorship and disputes with Lin Xingzhi.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
 - [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer combining concentrated character entrances, martial-arts mystery, concealed identity, psychological inference, and dramatic reversal with uneven causal closure.
-- [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
+- [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read through faction labels, doctrine capture, forced merger, insecure succession, power addiction, contingent exit, and the collapse of simple正邪 binaries.
 - [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel connecting Song Jianghu plausibility, identity tragedy, bloodline reversal, morally complex villains, and late-plot convergence.
 - [《越女剑》](entities/YueNvJian.md) — Jin Yong novella linking older Yue maiden and white-ape motifs to the mythic horizon of wuxia.
 - [Robert Smith](entities/RobertSmith.md) — Planet Money host framing the Summer School World Tour water-market and inflation-targeting lesson.
@@ -18655,6 +18660,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Story-Earned Moral Instruction / 情节赢得的道德说理](concepts/StoryEarnedMoralInstruction.md) — 明确伦理结论由先前人物选择、冲突、后果和转变支撑，而非依靠说话者权威替代叙事。
 - [De-escalatory Envoy Signaling / 使者示弱式危机降温](concepts/DeescalatoryEnvoySignaling.md) — 以尊重身份、窄化问讯和非惩罚性姿态避免调查对象把使者到来理解为即时攻击，同时区分眼前降温与长期解决。
 - [Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力](concepts/JinYongReclusionFreedom.md) — 把归隐理解为摆脱职位、声望、组织关系与物质依附的可持续退出能力，而非单纯迁居山林。
+- [Jianghu Unification as an Exit Constraint / 江湖一统与退出约束](concepts/JianghuUnificationExitConstraint.md) — 当组织仍追求吸收、规训或消灭独立者时，个人退隐必须等待扩张意愿或能力下降才能稳定。
 - [Materialized Memory Worldbuilding / 记忆实体化世界构建](concepts/MaterializedMemoryWorldbuilding.md) — 把不同时刻的记忆碎片构造成可进入、触碰和改变的实体环境，同时要求说明其持续、改变与退出规则。
 - [Medium-Specific Adaptation Salience / 媒介特定的改编显著性](concepts/MediumSpecificAdaptationSalience.md) — 不同媒介通过文字密度、内心活动、镜头强调、时长和可见动作改变线索显著性及叙事功能。
 - [Functional Adaptation Fidelity / 功能性改编忠实](concepts/FunctionalAdaptationFidelity.md) — 以人物逻辑、可感知动机、叙事效果与主题成长的保留衡量改编，而非要求情节、对白和形式逐项照搬。
@@ -25765,7 +25771,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Legal Interest Individual Reduction](concepts/LegalInterestIndividualReduction.md) — Criminal-law safeguard requiring collective legal interests to be reducible to concrete individual harms.
 - [Wuxia Intertextual Craft](concepts/WuxiaIntertextualCraft.md) — How martial-arts fiction turns classical texts, religion, folklore, and history into techniques, poisons, sects, and character psychology.
 - [Historical Jianghu Space](concepts/HistoricalJianghuSpace.md) — Historical-institutional frame for why Song settings support Jianghu mobility while Ming social control shrinks it.
-- [Jin Yong Political Reading](concepts/JinYongPoliticalReading.md) — Reading Jin Yong's fiction as political critique without reducing every detail to one hidden code.
+- [Jin Yong Political Reading](concepts/JinYongPoliticalReading.md) — Reading Jin Yong's fiction through faction, governance, doctrine, coalition, succession, intelligence, ritual, and exit without reducing every detail to one hidden code.
 - [明教 / 摩尼教在中国](concepts/ManichaeismInChina.md) — Religious-history node for Manichaean traces in China and their fictional transformation into Mingjiao/日月神教.
 - [Water Market Design](concepts/WaterMarketDesign.md) — Policy design problem of allocating scarce water through tradable rights while preserving legitimacy, information access, and ecological limits.
 - [Water Rights Trading](concepts/WaterRightsTrading.md) — Mechanism that lets water claims move toward higher-value uses during scarcity, with farmer-exposure and fairness risks.

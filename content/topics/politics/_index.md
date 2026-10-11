@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3306
+topic_total_pages: 3308
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2293,6 +2293,9 @@ topic_concepts:
   - key: "JiangXiangHeInternalUnity"
     title: "Jiang-Xiang Harmony / 将相和式内部团结"
     url: "/wiki/concepts/jiangxiangheinternalunity/"
+  - key: "JianghuUnificationExitConstraint"
+    title: "Jianghu Unification as an Exit Constraint / 江湖一统与退出约束"
+    url: "/wiki/concepts/jianghuunificationexitconstraint/"
   - key: "JinMerchantGovernance"
     title: "Jin Merchant Governance"
     url: "/wiki/concepts/jinmerchantgovernance/"
@@ -8631,6 +8634,9 @@ topic_sources:
   - key: "404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231"
     title: "#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目"
     url: "/wiki/sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231/"
+  - key: "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik"
+    title: "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争"
+    url: "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
   - key: "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn"
     title: "009 如果活在《笑傲江湖》的世界，你会选择成为谁？"
     url: "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"

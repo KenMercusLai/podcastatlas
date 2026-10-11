@@ -36413,3 +36413,10 @@ Added source `lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | 007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争
+
+Added source `lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik`; created [[RenWoxingJinYong|任我行]], [[DongfangBubaiJinYong|东方不败]], [[YueBuqunJinYong|岳不群]], [[ZuoLengchanJinYong|左冷禅]], and [[JianghuUnificationExitConstraint|江湖一统与退出约束]]; and resynthesized [[XiaoAoJiangHu|《笑傲江湖》]], [[LinghuChongJinYong|令狐冲]], [[JinYongPoliticalReading]], and [[JinYongReclusionFreedom]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: doctrine, alliance, succession, intelligence, ritual obedience, and withdrawal become political mechanisms; Linghu Chong's refusal of hierarchy protects inward independence, while durable exit requires the surrounding decline of expansionist intent or capacity. No settled contradiction was adopted. Zuo Lengchan's preparation, Dongfang Bubai's political failure, Feng Qingyang's absence, hidden alliances, character motives, force balance, exact plot details, and unification counterfactuals remain disputed, speculative, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; generated ledger and manifest artifacts were refreshed. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 10461
+wiki_total_pages: 10462
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "JianghuScamCraft"
     title: "Jianghu Scam Craft"
     url: "/wiki/concepts/jianghuscamcraft/"
+  - key: "JianghuUnificationExitConstraint"
+    title: "Jianghu Unification as an Exit Constraint / 江湖一统与退出约束"
+    url: "/wiki/concepts/jianghuunificationexitconstraint/"
   - key: "JikobukkenIncidentProperty"
     title: "Jikobukken Incident Property"
     url: "/wiki/concepts/jikobukkenincidentproperty/"

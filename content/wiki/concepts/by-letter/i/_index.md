@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10461
+wiki_total_pages: 10462
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"

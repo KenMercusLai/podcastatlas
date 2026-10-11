@@ -6,6 +6,7 @@ sources:
   - 104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo
   - lqrlbs47ruozcivwkh0ltyydbysn
   - ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn
+  - lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-12
 ---
@@ -22,6 +23,8 @@ This framework accommodates different motives without collapsing them. [[LinghuC
 
 [[LianChengJue|《连城诀》]] supplies a forced, relationally sustaining case through [[lqrlbs47ruozcivwkh0ltyydbysn]]. 狄云 and 水笙 do not leave after mastering Jianghu or completing a public vocation; betrayal, rumor, bereavement, and social exclusion make the snowy valley safer than return. Their mutual recognition gives the retreat real positive content, yet the surrounding society's inability to accommodate them limits how freely chosen that life is. Exit can therefore protect moral survival without counting as victory over the order that made exit necessary.
 
+The power-struggle episode adds [[JianghuUnificationExitConstraint|an external political gate]]. Linghu Chong's refusal of kneeling, praise, and office protects him from inward attachment, but Liu Zhengfeng, Qu Yang, and the Four Friends of Jiangnan show that private resolve cannot make an expansionist organization recognize neutrality. The ending becomes viable only when Ren Woxing dies, Five Mountains contenders exhaust one another, and later cult leadership suspends conquest. Exit capacity therefore depends not just on the person leaving but also on whether surrounding powers retain the will and ability to compel alignment.
+
 ## Key Claims
 
 - Reclusion is better judged by released dependencies than by physical remoteness alone.
@@ -29,7 +32,7 @@ This framework accommodates different motives without collapsing them. [[LinghuC
 - Organizations and relationship networks can obstruct exit even after a person formally resigns or announces withdrawal.
 - Inner freedom requires less attachment to rank and evaluation, but durable external exit also needs livelihood, safety, ability, and family arrangements.
 - Retaining selective relationships or influence does not automatically make withdrawal false; the decisive issue is whether the old power system still compels conduct.
-- Political equilibrium can create room for exit without guaranteeing that the exit will survive later crises or calls of loyalty.
+- Political equilibrium, exhaustion, or restrained succession can create room for exit without guaranteeing survival through later crises or renewed expansion.
 - Modern reclusive spirit can be expressed as bounded participation plus a credible capacity to refuse, not only total isolation.
 
 ## Evidence
@@ -59,16 +62,23 @@ This framework accommodates different motives without collapsing them. [[LinghuC
 
 - [[ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn]] argues that Ren Woxing's death and Xiang Wentian's more restrained succession permit Linghu Chong to step back while leaving his cross-faction obligations intact.
 - [[ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn]] distinguishes limited attachment to office from the likelihood of renewed intervention when friends or institutions face danger.
+- [[lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik]] links the ending to simultaneous loss of expansionist capacity or intent across both major factional fields.
+
+### Refused neutrality under unification pressure
+
+- [[lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik]] uses Liu Zhengfeng, Qu Yang, and the Four Friends of Jiangnan to show that declared retreat fails when organizations still claim authority over relationships and former members.
 
 ## Counterevidence & Qualifications
 
-The framework comes from three literary conversations rather than a systematic study of every novel, historical recluse, or philosophical tradition. It should not turn wealth or martial strength into sufficient conditions for freedom, romanticize precarity, or treat all withdrawal as morally superior to public service. The sources leave contested whether continuing influence and relationships are compatible with “true” reclusion, whether Linghu Chong's later obligations would draw him back, and whether 狄云's return is chosen freedom, trauma-shaped avoidance, or social expulsion. This page therefore treats exit as a spectrum of dependencies, permissions, and constraints rather than a binary verdict.
+The framework comes from four literary conversations rather than a systematic study of every novel, historical recluse, organization, or philosophical tradition. It should not turn wealth, martial strength, or factional exhaustion into sufficient conditions for freedom, romanticize precarity, or treat all withdrawal as morally superior to public service. The sources leave contested whether continuing influence and relationships are compatible with “true” reclusion, whether Linghu Chong's later obligations or a new expansionist actor would draw him back, and whether 狄云's return is chosen freedom, trauma-shaped avoidance, or social expulsion. This page therefore treats exit as a spectrum of dependencies, permissions, and constraints rather than a binary verdict.
 
 ## What Changed
 
 - Added contingent exit created by a temporary factional settlement.
 - Distinguished sincere refusal of office from irreversible political disappearance.
 - Added renewed calls of gratitude, friendship, and institutional duty as tests of whether exit remains durable.
+- Added organizational recognition of neutrality as an external condition of exit.
+- Identified simultaneous exhaustion or restraint across rival factions as the opening behind Linghu Chong's ending.
 
 ## Related Concepts
 
@@ -83,3 +93,4 @@ The framework comes from three literary conversations rather than a systematic s
 - [[LianChengJue|《连城诀》]] - forced-refuge case where withdrawal protects trust without reforming Jianghu.
 - [[LinghuChongJinYong|令狐冲（金庸小说）]] - contingent-exit case whose influence and obligations outlast formal leadership.
 - [[StrategicLoyaltyFactionalBalance]] - explains how a political settlement can open space for withdrawal while preserving future claims.
+- [[JianghuUnificationExitConstraint]] - names the external pressure that makes private withdrawal insecure during projects of universal command.

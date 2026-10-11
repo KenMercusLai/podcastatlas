@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13426
+wiki_total_pages: 13430
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "ZuoYizizhi"
     title: "左伊秩訾 / Zuo Yizizhi"
     url: "/wiki/entities/zuoyizizhi/"
+  - key: "ZuoLengchanJinYong"
+    title: "左冷禅（金庸小说） / Zuo Lengchan (Jin Yong)"
+    url: "/wiki/entities/zuolengchanjinyong/"
   - key: "ZuoYuanLateHan"
     title: "左原 / Zuo Yuan (late Han)"
     url: "/wiki/entities/zuoyuanlatehan/"

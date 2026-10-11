@@ -71110,6 +71110,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/dongzhuo/"
     },
+    "DongfangBubaiJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/dongfangbubaijinyong/"
+    },
     "DongfangShuo": {
       "episode_count": 6,
       "show_count": 1,
@@ -142336,6 +142352,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/jianghusurvivalanxiety/"
     },
+    "JianghuUnificationExitConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/jianghuunificationexitconstraint/"
+    },
     "JianghuVirtualKinship": {
       "episode_count": 1,
       "show_count": 1,
@@ -143074,9 +143106,9 @@
       "url": "/wiki/concepts/jinyongconfucianethics/"
     },
     "JinYongPoliticalReading": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -143091,15 +143123,22 @@
           "show": "纸醉金迷FM",
           "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
           "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
+        },
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
         }
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/jinyongpoliticalreading/"
     },
     "JinYongReclusionFreedom": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
@@ -143121,6 +143160,13 @@
           "show": "纸醉金迷FM",
           "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
           "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        },
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
         }
       ],
       "updated": "2026-10-12",
@@ -158339,9 +158385,9 @@
       "url": "/wiki/entities/lingtong/"
     },
     "LinghuChongJinYong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
@@ -158356,6 +158402,13 @@
           "show": "纸醉金迷FM",
           "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
           "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
+        },
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
         }
       ],
       "updated": "2026-10-12",
@@ -225390,6 +225443,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/rentingeasternhan/"
     },
+    "RenWoxingJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/renwoxingjinyong/"
+    },
     "RenXinImagingDoctor": {
       "episode_count": 1,
       "show_count": 1,
@@ -288366,9 +288435,9 @@
       "url": "/wiki/entities/xiaoa/"
     },
     "XiaoAoJiangHu": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -288397,6 +288466,13 @@
           "show": "纸醉金迷FM",
           "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
           "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
+        },
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
         }
       ],
       "updated": "2026-10-12",
@@ -296599,6 +296675,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/yuchengwesternhan/"
+    },
+    "YueBuqunJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yuebuqunjinyong/"
     },
     "YueLaosan": {
       "episode_count": 1,
@@ -305826,6 +305918,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zuoguanlatehan/"
+    },
+    "ZuoLengchanJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lugdkH-qELNouWZMw-23hadg5HIk [lugdkH-qELNouWZMw-23hadg5HIk].md",
+          "key": "lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik",
+          "show": "纸醉金迷FM",
+          "title": "007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争",
+          "url": "/wiki/sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/zuolengchanjinyong/"
     },
     "ZuoShengLateHan": {
       "episode_count": 1,

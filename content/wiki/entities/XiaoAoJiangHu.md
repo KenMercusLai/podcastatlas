@@ -7,6 +7,7 @@ sources:
   - 104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo
   - ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn
   - lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x
+  - lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -27,13 +28,17 @@ The martial-arts reading adds [[MartialArtsCharacterFateEncoding]] and [[RuleInt
 
 Its tragic branch now includes [[LinPingzhiJinYong|林平之]] and [[YueLingshanJinYong|岳灵珊]]. Lin Pingzhi's victimization explains distrust and revenge without excusing their expansion into domination and lethal betrayal. Yue Lingshan's final loyalty remains emotionally sincere while also exposing denial and a narrow field of imagined female exit. 平一指 and 刘正风's unnamed son add parallel costs of single-source self-worth and orthodox coercion.
 
+The power-struggle reading now makes the institutional mechanism more explicit. Huashan's sword–qi dispute turns training doctrine into faction and leadership identity; [[ZuoLengchanJinYong|左冷禅]] uses proxies, attacks, recruitment, and intelligence to force a Five Mountains merger; and [[YueBuqunJinYong|岳不群]] contests who will control that merger rather than rejecting consolidation itself. Inside the Sun Moon Holy Cult, [[RenWoxingJinYong|任我行]] and [[DongfangBubaiJinYong|东方不败]] expose the insecurity of personalized succession, the political uses of ritual praise and unification slogans, and the gap between possessing power and choosing to exercise it continuously.
+
+Together these cases sharpen [[JianghuUnificationExitConstraint]]. Linghu Chong and Ren Yingying do not secure freedom by strength or inward independence alone. Their ending becomes possible because rival projects of universal command are simultaneously interrupted: Ren Woxing dies, the Five Mountains contenders destroy one another's capacity, and later cult leadership does not immediately resume conquest.
+
 ## Key Characteristics
 
 - Destabilizes simple righteous-versus-evil faction labels and morally pure accounts of loyalty.
-- Treats organizational hierarchy, succession, and balance of power as constraints on independent judgment.
-- Presents power seeking as self-binding while distinguishing conquest from mediation and damage limitation.
+- Treats doctrine, alliance language, organizational hierarchy, succession, and intelligence as instruments in contests for command.
+- Presents power seeking as self-binding while distinguishing declared unification, executed conquest, mediation, and damage limitation.
 - Uses Linghu Chong to imagine weak attachment to office without political irrelevance.
-- Uses Liu Zhengfeng to show that formal withdrawal can fail when networks and organizations resist exit.
+- Uses Liu Zhengfeng and the final factional exhaustion to show that formal withdrawal needs an external political opening as well as personal resolve.
 - Makes martial method a vehicle for personality, institutional temperament, learning, and embodied limitation.
 - Uses Lin Pingzhi and Yue Lingshan to hold causal sympathy, responsibility, loyal attachment, denial, and constrained agency together.
 
@@ -43,11 +48,18 @@ Its tragic branch now includes [[LinPingzhiJinYong|林平之]] and [[YueLingshan
 
 - [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] reads the novel through unstable faction labels, ideological violence, leader worship, and the political pressures surrounding late-1960s Hong Kong.
 - [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] connects 日月神教 to transformed historical-religious material rather than treating the sect as an arbitrary villain label.
+- [[lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik]] traces how Huashan doctrine, Five Mountains alliance language, and Sun Moon succession each become mechanisms for sorting camps and pursuing command.
+
+### Merger, succession, and hidden capability
+
+- [[lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik]] contrasts Zuo Lengchan's multi-channel merger campaign with Yue Buqun's rival leadership bid and identifies the hidden 辟邪剑法 as a decisive intelligence gap.
+- [[lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik]] reads the Ren Woxing–Dongfang Bubai transition as insecure personalized succession rather than a settled handoff.
 
 ### Withdrawal and organizational exit
 
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] contrasts Linghu Chong's limited attachment to leadership with Liu Zhengfeng's lethal failure to sever Jianghu relations.
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] preserves disagreement over whether Linghu Chong truly stops intervening or remains an influential balancing figure outside formal office.
+- [[lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik]] argues that withdrawal becomes possible only after both major expansionary fields lose the will or capacity to demand alignment.
 
 ### Mixed loyalty and factional balance
 
@@ -72,21 +84,22 @@ Its tragic branch now includes [[LinPingzhiJinYong|林平之]] and [[YueLingshan
 
 ## Qualifications
 
-All four sources are selective podcast readings rather than exhaustive textual studies. The 1967 context should not be treated as a complete hidden code, and the reclusion discussion moves between literal ending, character psychology, political analogy, and modern organizational language. Motives attributed to Xiang Wentian, Tong Baixiong, Fangzheng, Chongxu, Linghu Chong, Yilin, Lin Pingzhi, and Yue Lingshan remain interpretive. Technique-name symbolism, martial rankings, authorial-design claims, the alleged Shaolin–Sun Moon understanding, parliamentary satire, exact plot memories, adaptation rankings, production claims, and Jin Yong's reported reactions are source-scoped rather than settled.
+All five sources are selective podcast readings rather than exhaustive textual studies. The 1967 context should not be treated as a complete hidden code, and the reclusion discussion moves between literal ending, character psychology, political analogy, and modern organizational language. Motives attributed to leaders and supporting characters remain interpretive. The degree of Zuo Lengchan's preparation, Dongfang Bubai's actual expansionism, Feng Qingyang's absence, secret inter-school coordination, martial symbolism and rankings, authorial-design claims, exact plot memories, adaptation judgments, and counterfactual outcomes are source-scoped rather than settled.
 
 ## What Changed
 
-- Added mixed loyalty, succession management, and factional equilibrium to the novel's political profile.
-- Recast Linghu Chong's ending as a contingent pause rather than proof of complete disappearance.
-- Added Yilin and the Peach Valley Six Immortals as private-ethical and comic-violent counterparts to institutional politics.
-- Added adaptation reception as a distinct evaluative layer without adopting one version as canonically best.
-- Added martial learning and the Lin Pingzhi–Yue Lingshan tragedy as character-level tests of power, freedom, and responsibility.
+- Sharpened the political profile from general factionalism to doctrine capture, forced merger, succession insecurity, and intelligence failure.
+- Recast the ending as freedom enabled by simultaneous interruption of rival unification projects.
+- Distinguished opposition to a merger's leader from opposition to institutional consolidation itself.
+- Distinguished declared unification rhetoric from sustained expansionary action.
+- Preserved character-level ethics, martial learning, and adaptation reception as separate but connected layers.
 
 ## Relationships
 
 - [[JinYong|金庸]] - author whose political and reclusion patterns shape the novel.
 - [[JinYongPoliticalReading]] - interprets faction, identity, and power without reducing the novel to one allegorical key.
 - [[JinYongReclusionFreedom]] - frames withdrawal through role release, network pressure, and sustainable refusal.
+- [[JianghuUnificationExitConstraint]] - explains why personal withdrawal depends on the surrounding decline of expansionist power.
 - [[StrategicLoyaltyFactionalBalance]] - explains how attachment, interest, mediation, and equilibrium coexist inside factional politics.
 - [[LinghuChongJinYong|令狐冲（金庸小说）]] - protagonist whose refusal of office does not erase cross-faction leverage.
 - [[XiangWentianJinYong|向问天（金庸小说）]] - strategist who combines loyalty, calculation, and succession restraint.
@@ -101,3 +114,7 @@ All four sources are selective podcast readings rather than exhaustive textual s
 - [[RuleInternalizationCreativeFreedom]] - frames 独孤九剑 as achieved improvisation grounded in prior forms.
 - [[LinPingzhiJinYong|林平之（金庸小说）]] - victim whose revenge expands into domination and chosen harm.
 - [[YueLingshanJinYong|岳灵珊（金庸小说）]] - loyal wife whose final interpretation joins sincerity, denial, and constrained agency.
+- [[RenWoxingJinYong|任我行（金庸小说）]] - restored ruler whose active expansion makes hierarchy and exit collide.
+- [[DongfangBubaiJinYong|东方不败（金庸小说）]] - successor whose coup, slogan, restraint, and delegation complicate a simple power-addiction model.
+- [[YueBuqunJinYong|岳不群（金庸小说）]] - merger rival who uses orthodoxy and concealed capability in a leadership contest.
+- [[ZuoLengchanJinYong|左冷禅（金庸小说）]] - coercive organizer whose broad preparation fails around one hidden variable.
