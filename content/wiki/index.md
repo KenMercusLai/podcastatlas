@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区](sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk.md) — 谢道宇讲解鼻出血、鼻腔清洁、鼻炎与鼻窦炎分流、洗鼻和鼻喷药物的安全边界。
 - [338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)](sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668.md) — The Rest Is History with Dan Jackson on the Parliament Act, mass Ulster resistance, Conservative support, rival volunteers, army uncertainty, and the unresolved 1914 coercion crisis.
 - [开篇试播｜重温金庸：共赴一场江湖盛会](sources/fme-hfxefs3rvewsrdz0fwcalsap-fme-hfxefs3rvewsrdz0fwcalsap.md) — 纸醉金迷FM以金庸逝世五周年为纪念节点，介绍其金庸、读书与泛文化定位，并邀请跨世代听众重温共同的武侠记忆。
 - [001 纪念·金庸去世五周年|《射雕英雄传》侠之大者 为国为民](sources/lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5.md) — 纸醉金迷FM从传播记忆、关系网络式世界构建及郭靖与杨康的教育和选择差异解释《射雕英雄传》的经典地位。
@@ -18167,6 +18168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Nasal Mucosa Protection and Bleeding Triage / 鼻黏膜保护与鼻出血分流](concepts/NasalMucosaProtectionAndBleedingTriage.md) — Connects low-trauma nasal hygiene and anterior-nosebleed first aid with high-risk bleeding and infection escalation.
 - [Relational Wuxia Worldbuilding / 关系网络式武侠世界构建](concepts/RelationalWuxiaWorldbuilding.md) — 以可记忆的等级、门派、师承、对抗、地点和历史关系构成宏大而可辨认江湖的叙事方法。
 - [Stage-Contingent Integrative Leadership / 阶段适配的整合型领导](concepts/StageContingentIntegrativeLeadership.md) — 区分组织修复、人才留用、和解与合法性建设，同继承斗争、强制整合及政权经营所需能力的领导框架。
 - [Existential Self-Defense Ethics / 生存威胁下的自卫伦理](concepts/ExistentialSelfDefenseEthics.md) — 当共同体生存与外部平民、未来世代及道德边界冲突时，区分动机理解、必要性、比例性、威慑与终极方案的框架。

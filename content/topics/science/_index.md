@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1575
+topic_total_pages: 1576
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1546,6 +1546,9 @@ topic_concepts:
   - key: "NarcolepsyWakeSleepBoundary"
     title: "Narcolepsy Wake-Sleep Boundary"
     url: "/wiki/concepts/narcolepsywakesleepboundary/"
+  - key: "NasalMucosaProtectionAndBleedingTriage"
+    title: "Nasal Mucosa Protection and Bleeding Triage / 鼻黏膜保护与鼻出血分流"
+    url: "/wiki/concepts/nasalmucosaprotectionandbleedingtriage/"
   - key: "NasalTreatmentTechniqueBoundary"
     title: "Nasal Treatment Technique Boundary / 鼻腔治疗操作边界"
     url: "/wiki/concepts/nasaltreatmenttechniqueboundary/"

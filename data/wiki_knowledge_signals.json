@@ -189512,10 +189512,26 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/narses/"
     },
-    "NasalTreatmentTechniqueBoundary": {
+    "NasalMucosaProtectionAndBleedingTriage": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsz_DXnZyvXtLI_Qc0i2GoXN1YYK [lsz_DXnZyvXtLI_Qc0i2GoXN1YYK].md",
+          "key": "vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk",
+          "show": "这病说来话长",
+          "title": "VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区",
+          "url": "/wiki/sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/nasalmucosaprotectionandbleedingtriage/"
+    },
+    "NasalTreatmentTechniqueBoundary": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmkf14V4m6N8P0nTPlLoWCxK8vEK [lmkf14V4m6N8P0nTPlLoWCxK8vEK].md",
@@ -189523,9 +189539,16 @@
           "show": "这病说来话长",
           "title": "VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚",
           "url": "/wiki/sources/vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek/"
+        },
+        {
+          "episode_file": "lsz_DXnZyvXtLI_Qc0i2GoXN1YYK [lsz_DXnZyvXtLI_Qc0i2GoXN1YYK].md",
+          "key": "vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk",
+          "show": "这病说来话长",
+          "title": "VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区",
+          "url": "/wiki/sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/nasaltreatmenttechniqueboundary/"
     },
     "NataliaOlson": {
@@ -228441,9 +228464,9 @@
       "url": "/wiki/entities/rhinelandremilitarization/"
     },
     "RhinitisCauseAndEscalationBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmkf14V4m6N8P0nTPlLoWCxK8vEK [lmkf14V4m6N8P0nTPlLoWCxK8vEK].md",
@@ -228451,9 +228474,16 @@
           "show": "这病说来话长",
           "title": "VOL.191鼻炎为什么总是反复？中医x西医这次一起给你聊清楚",
           "url": "/wiki/sources/vol-191-biyan-weishenme-zongshi-fanfu-zhongyi-xiyi-zheci-yiqi-geini-liaoqingchu-lmkf14v4m6n8p0ntpllowcxk8vek/"
+        },
+        {
+          "episode_file": "lsz_DXnZyvXtLI_Qc0i2GoXN1YYK [lsz_DXnZyvXtLI_Qc0i2GoXN1YYK].md",
+          "key": "vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk",
+          "show": "这病说来话长",
+          "title": "VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区",
+          "url": "/wiki/sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/rhinitiscauseandescalationboundary/"
     },
     "RhodaLintornOrman": {
@@ -289810,9 +289840,9 @@
       "url": "/wiki/entities/xiebilatehan/"
     },
     "XieDaoyu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
@@ -289827,9 +289857,16 @@
           "show": "这病说来话长",
           "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
           "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        },
+        {
+          "episode_file": "lsz_DXnZyvXtLI_Qc0i2GoXN1YYK [lsz_DXnZyvXtLI_Qc0i2GoXN1YYK].md",
+          "key": "vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk",
+          "show": "这病说来话长",
+          "title": "VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区",
+          "url": "/wiki/sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/xiedaoyu/"
     },
     "XieGongEasternHan": {
