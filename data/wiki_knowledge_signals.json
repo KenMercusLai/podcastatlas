@@ -28665,6 +28665,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/biodegradableingestiblebatteries/"
     },
+    "BioequivalenceEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luxP3Bhg-p9VVVUnYftwbz4YpW8T [luxP3Bhg-p9VVVUnYftwbz4YpW8T].md",
+          "key": "vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t",
+          "show": "这病说来话长",
+          "title": "VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？",
+          "url": "/wiki/sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/bioequivalenceevidenceboundary/"
+    },
     "BiologicalAgeMeasurementBoundary": {
       "episode_count": 2,
       "show_count": 1,
@@ -59137,9 +59153,9 @@
       "url": "/wiki/entities/dayiculturelimited/"
     },
     "DabaNiuTeacher": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工 [lnau0sacX1jm1t_2LOCDc5NSZAKH].md",
@@ -59175,6 +59191,13 @@
           "show": "这病说来话长",
           "title": "VOL.172谭博士/大白牛/小龙：国产创新药到底是真趋势还是虚火？ASCO大会一手现场直击",
           "url": "/wiki/sources/vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev/"
+        },
+        {
+          "episode_file": "luxP3Bhg-p9VVVUnYftwbz4YpW8T [luxP3Bhg-p9VVVUnYftwbz4YpW8T].md",
+          "key": "vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t",
+          "show": "这病说来话长",
+          "title": "VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？",
+          "url": "/wiki/sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t/"
         }
       ],
       "updated": "2026-10-11",
@@ -101427,6 +101450,45 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/generativerelationshipsystem/"
+    },
+    "GenericDrugSubstitutionDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luxP3Bhg-p9VVVUnYftwbz4YpW8T [luxP3Bhg-p9VVVUnYftwbz4YpW8T].md",
+          "key": "vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t",
+          "show": "这病说来话长",
+          "title": "VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？",
+          "url": "/wiki/sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/genericdrugsubstitutiondecision/"
+    },
+    "GenericDrugTrustRebuilding": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法 [lp_p5p1cybBLdPHe0QajtegGSiTt].md",
+          "key": "vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt",
+          "show": "起朱楼宴宾客",
+          "title": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法",
+          "url": "/wiki/sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt/"
+        },
+        {
+          "episode_file": "luxP3Bhg-p9VVVUnYftwbz4YpW8T [luxP3Bhg-p9VVVUnYftwbz4YpW8T].md",
+          "key": "vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t",
+          "show": "这病说来话长",
+          "title": "VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？",
+          "url": "/wiki/sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/genericdrugtrustrebuilding/"
     },
     "GenesisMission": {
       "episode_count": 2,

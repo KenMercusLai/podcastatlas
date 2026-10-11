@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10354
+wiki_total_pages: 10356
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "GenerativeRelationshipSystem"
     title: "Generative Relationship System"
     url: "/wiki/concepts/generativerelationshipsystem/"
+  - key: "GenericDrugSubstitutionDecision"
+    title: "Generic Drug Substitution Decision / 仿制药替换决策"
+    url: "/wiki/concepts/genericdrugsubstitutiondecision/"
   - key: "GenericDrugTrustRebuilding"
     title: "Generic Drug Trust Rebuilding / 仿制药再信任"
     url: "/wiki/concepts/genericdrugtrustrebuilding/"

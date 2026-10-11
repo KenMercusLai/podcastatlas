@@ -35572,3 +35572,11 @@ Added source `539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243`
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？
+
+Added source `vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t`; created [[GenericDrugSubstitutionDecision]] and [[BioequivalenceEvidenceBoundary]]; and resynthesized [[GenericDrugTrustRebuilding]] and [[DabaNiuTeacher|大白牛老师]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: generic substitution is neither a blanket identity claim nor a presumption of inferiority; bioequivalence provides meaningful but bounded comparison, while therapeutic margin, dosage form, patient population, consequence, monitoring, and stable treatment control determine caution. No settled contradiction was adopted. The 80%-125% shorthand, disease and product examples, development costs, trial-success rates, patent practices, device longevity, imaging performance, and clinician comparisons remain source-scoped public education rather than individualized medication guidance. Broad [[Atang|阿汤]] and [[ZheBingShuoLaiHuaChang|这病说来话长]] profiles stayed closed because the focused guest and medication pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,454 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -13899,6 +13899,10 @@
     "title": "Biodegradable Ingestible Batteries",
     "url": "/wiki/concepts/biodegradableingestiblebatteries/"
   },
+  "BioequivalenceEvidenceBoundary": {
+    "title": "Bioequivalence Evidence Boundary / 生物等效性证据边界",
+    "url": "/wiki/concepts/bioequivalenceevidenceboundary/"
+  },
   "Bioinformatics": {
     "title": "Bioinformatics",
     "url": "/wiki/concepts/bioinformatics/"
@@ -36234,6 +36238,10 @@
   "GenerativeRelationshipSystem": {
     "title": "Generative Relationship System",
     "url": "/wiki/concepts/generativerelationshipsystem/"
+  },
+  "GenericDrugSubstitutionDecision": {
+    "title": "Generic Drug Substitution Decision / 仿制药替换决策",
+    "url": "/wiki/concepts/genericdrugsubstitutiondecision/"
   },
   "GenericDrugTrustRebuilding": {
     "title": "Generic Drug Trust Rebuilding / 仿制药再信任",
@@ -105330,6 +105338,10 @@
   "vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n": {
     "title": "VOL.15急诊危重病科｜鬼门关隔壁的玄学 车祸患者对我说：“每天看到有人拉我去火葬场”",
     "url": "/wiki/sources/vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n/"
+  },
+  "vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t": {
+    "title": "VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？",
+    "url": "/wiki/sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t/"
   },
   "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru": {
     "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",

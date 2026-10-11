@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10354
+wiki_total_pages: 10356
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "BiodegradableIngestibleBatteries"
     title: "Biodegradable Ingestible Batteries"
     url: "/wiki/concepts/biodegradableingestiblebatteries/"
+  - key: "BioequivalenceEvidenceBoundary"
+    title: "Bioequivalence Evidence Boundary / 生物等效性证据边界"
+    url: "/wiki/concepts/bioequivalenceevidenceboundary/"
   - key: "Bioinformatics"
     title: "Bioinformatics"
     url: "/wiki/concepts/bioinformatics/"

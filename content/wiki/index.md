@@ -4533,6 +4533,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [056 武侠世界的异类｜《欢乐英雄》：谁说英雄一定是寂寞的？](sources/056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h.md) — 纸醉金迷FM把《欢乐英雄》读作四个穷困小人物共同成家的群像武侠，并以秘密、贫穷、直接说理和影视重组检验其友情理想。
 - [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
+- [VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？](sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t.md) — 这病说来话长以生物等效性、治疗指数、剂型、特殊人群、监测与慢病稳定性建立仿制药替换的风险分层框架。
 
 ## Entities
 - [白自在 / Bai Zizai](entities/BaiZizai.md) — 以封闭环境中的自大、婚姻支配及遭遇强者后的认知修正展开的《侠客行》人物。
@@ -12633,7 +12634,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Daiichi Sankyo / 第一三共](entities/DaiichiSankyo.md) — Japanese pharma company cited in vol.120 as evidence that Japan retained globally meaningful drug-industry capacity after pricing and generic-drug reform.
 - [Takeda Pharmaceutical / 武田制药](entities/TakedaPharmaceutical.md) — Japanese pharma company cited in vol.120 as part of the industry outcome of Japan's post-crisis drug-pricing and quality reforms.
 - [知青小酒馆 / Zhiqing Xiaojiuguan](entities/ZhiqingXiaojiuguan.md) — Crossover partner in vol.118, where single aging is treated as life-system planning rather than only retirement finance.
-- [大白牛老师 / Daba Niu Teacher](entities/DabaNiuTeacher.md) — Clinical-development and oncology explainer linking drug-development roles to patient-level treatment tradeoffs and individualized cancer-vaccine limits.
+- [大白牛老师 / Daba Niu Teacher](entities/DabaNiuTeacher.md) — Clinical-development explainer linking drug-development roles, oncology, medication substitution, metabolic health, and sleep to patient-level evidence and risk boundaries.
 - [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
 - [SanSheng Pharma / 三生制药](entities/SanShengPharma.md) — Chinese pharma company used by episode 156 as a headline 2025 innovation-drug BD case through its Pfizer deal.
 - [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
@@ -24212,7 +24213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Community Integrated Care / 社区综合照护](concepts/CommunityIntegratedCare.md) — Japanese shift from hospital-complete care to community-complete medical, long-term care, and life-support coordination.
 - [DPC/DRG Payment Reform](concepts/DPCDRGPaymentReform.md) — Hospital-payment mechanism that shifts incentives from fee-for-service overprovision toward diagnosis-group cost discipline and shorter stays.
 - [Japanese Drug Pricing Reform / 日本药品定价改革](concepts/JapaneseDrugPricingReform.md) — Post-2003 policy branch distinguishing valuable innovation from low-value me-too drugs after destructive low-price procurement.
-- [Generic Drug Trust Rebuilding / 仿制药再信任](concepts/GenericDrugTrustRebuilding.md) — Generic-drug substitution as a quality, professional-trust, and industry-consolidation problem rather than only a price problem.
+- [Generic Drug Trust Rebuilding / 仿制药再信任](concepts/GenericDrugTrustRebuilding.md) — Generic-drug confidence built through quality, comparative evidence, professional explanation, risk-proportionate selection, and follow-up rather than price or blanket reassurance alone.
 - [Pharmacist As Second Doctor / 药剂师第二医生体系](concepts/PharmacistAsSecondDoctor.md) — Expanded pharmacist role in medication records, generic-drug explanation, chronic-care support, and community healthcare.
 - [Healthcare Impossible Triangle / 医疗不可能三角](concepts/HealthcareImpossibleTriangle.md) — Source-scoped tradeoff among medical quality, efficiency, and price used to explain Japan's ordinary-care design.
 - [Brokerage Research Reports](concepts/BrokerageResearchReports.md) — Sell-side report artifacts used by buy-side service businesses, valuable for data and frameworks but weak as public trading instructions.
@@ -28274,5 +28275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Useful Discomfort](concepts/UsefulDiscomfort.md) — Purposeful, proportionate friction that builds capability or perspective while remaining bounded by safety, consent, recovery, and ruin avoidance.
 
 - [Transactional Intimacy Power Asymmetry / 交易型亲密关系的权力不对称](concepts/TransactionalIntimacyPowerAsymmetry.md) — 区分主动协商亲密交换与真正拥有安全、边界、资源和退出权的分析框架。
+- [Generic Drug Substitution Decision / 仿制药替换决策](concepts/GenericDrugSubstitutionDecision.md) — Risk-proportionate substitution framework joining equivalence evidence, therapeutic margin, formulation, patient context, consequences, monitoring, and treatment stability.
+- [Bioequivalence Evidence Boundary / 生物等效性证据边界](concepts/BioequivalenceEvidenceBoundary.md) — Distinguishes defined pharmacokinetic comparability from literal identity across composition, tissue effects, adverse effects, and every patient experience.
 
 ## Syntheses
