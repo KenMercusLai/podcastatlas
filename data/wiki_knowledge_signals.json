@@ -26332,9 +26332,9 @@
       "url": "/wiki/entities/battleofthefrontiers1914/"
     },
     "BattleOfTheNile": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3691914095 [GLT3691914095].md",
@@ -26356,6 +26356,13 @@
           "show": "The Rest Is History",
           "title": "518. Nelson: The Battle of the Nile (Part 5)",
           "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
+        },
+        {
+          "episode_file": "GLT5321926998 [GLT5321926998].md",
+          "key": "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998",
+          "show": "The Rest Is History",
+          "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
+          "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
         }
       ],
       "updated": "2026-10-12",
@@ -89277,9 +89284,9 @@
       "url": "/wiki/entities/fangzhouphotographer/"
     },
     "FannyNelson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8067718474 [GLT8067718474].md",
@@ -89287,6 +89294,13 @@
           "show": "The Rest Is History",
           "title": "609. Nelson: The Gathering Storm (Part 2)",
           "url": "/wiki/sources/609-nelson-the-gathering-storm-part-2-glt8067718474/"
+        },
+        {
+          "episode_file": "GLT5321926998 [GLT5321926998].md",
+          "key": "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998",
+          "show": "The Rest Is History",
+          "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
+          "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
         }
       ],
       "updated": "2026-10-10",
@@ -122529,9 +122543,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -122630,6 +122644,13 @@
           "show": "The Rest Is History",
           "title": "518. Nelson: The Battle of the Nile (Part 5)",
           "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
+        },
+        {
+          "episode_file": "GLT5321926998 [GLT5321926998].md",
+          "key": "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998",
+          "show": "The Rest Is History",
+          "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
+          "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
         }
       ],
       "updated": "2026-10-12",
@@ -186971,9 +186992,9 @@
       "url": "/wiki/entities/nanyue/"
     },
     "NapoleonBonaparte": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "21.红与黑：他死于真诚 [569042001].md",
@@ -187023,15 +187044,22 @@
           "show": "The Rest Is History",
           "title": "126. Napoleon in Egypt",
           "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        },
+        {
+          "episode_file": "GLT5321926998 [GLT5321926998].md",
+          "key": "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998",
+          "show": "The Rest Is History",
+          "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
+          "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/napoleonbonaparte/"
     },
     "NapoleonEgyptCampaign": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3691914095 [GLT3691914095].md",
@@ -187046,6 +187074,13 @@
           "show": "The Rest Is History",
           "title": "518. Nelson: The Battle of the Nile (Part 5)",
           "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
+        },
+        {
+          "episode_file": "GLT5321926998 [GLT5321926998].md",
+          "key": "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998",
+          "show": "The Rest Is History",
+          "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
+          "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
         }
       ],
       "updated": "2026-10-12",
@@ -230110,9 +230145,9 @@
       "url": "/wiki/concepts/royalminoritycustodypolitics/"
     },
     "RoyalNavy": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT3542298238 [GLT3542298238].md",
@@ -230148,6 +230183,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT5321926998 [GLT5321926998].md",
+          "key": "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998",
+          "show": "The Rest Is History",
+          "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
+          "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
         }
       ],
       "updated": "2026-10-10",

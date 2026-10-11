@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Essentials: Using Science to Optimize Sleep, Learning & Metabolism](sources/essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101.md) — Condensed Huberman Lab office hours on timing light, movement, meals, temperature, post-learning rest, and self-tracking without treating exact protocols as universal.
 - [041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事](sources/lr4bhqtikeophh4ladhymapyskwv.md) — 纸醉金迷FM以双重梦境、旧案与今生悲剧重读《寻梦》，把“记忆组”视为人格延续的文学设想，同时质疑轮回巧合和结局因果。
+- [517. Nelson: The Hunt for Napoleon (Part 4)](sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998.md) — The Rest Is History on Nelson's recovery from Tenerife, Britain's strategic crisis, intelligence uncertainty, and the near-missed pursuit of Napoleon to Egypt.
 - [518. Nelson: The Battle of the Nile (Part 5)](sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562.md) — The Rest Is History on Nelson's immediate night attack, Foley's landward maneuver, the destruction of L'Orient, French courage, and Napoleon's strategic isolation.
 - [Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel](sources/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858.md) — Huberman Lab interview on money as a tool for autonomy, purpose, relationships, and time rather than a yardstick for identity and status.
 - [519. The World's First City](sources/519-the-worlds-first-city-glt2603135981.md) — The Rest Is History on Uruk's environmental and institutional rise, administrative writing, urban pleasure, slavery, and coercive power.
@@ -4854,7 +4855,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francesco Caracciolo](entities/FrancescoCaracciolo.md) — Neapolitan naval defector whose rapid shipboard trial and hanging became the sharpest symbol of Nelson's Naples controversy.
 - [Parthenopean Republic](entities/ParthenopeanRepublic.md) — French-backed 1799 republic defeated by popular royalist counterrevolution and a repudiated surrender settlement.
 - [余博 / Yu Bo (Comedian)](entities/YuBoComedian.md) — Stand-up comedian whose ketoacidosis, ICU recovery, glucose monitoring, and chronic-illness adaptation ground the VOL.181 patient account.
-- [Fanny Nelson](entities/FannyNelson.md) — Nelson's abandoned wife, whose public humiliation and constrained marital position qualify his heroic celebrity.
+- [Fanny Nelson](entities/FannyNelson.md) — Nelson's wife and post-Tenerife caregiver, whose later public abandonment and constrained marital position qualify his heroic celebrity.
 - [Lord Keith](entities/LordKeith.md) — Mediterranean commander whose strategic priorities and authority clashed with Nelson's Malta-focused judgment.
 - [Chris Olah](entities/ChrisOlah.md) — Anthropic cofounder represented narrowly through a reported dispute over categorical rejection of possible AI consciousness.
 - [Battle of Copenhagen (1801)](entities/BattleOfCopenhagen1801.md) — British attack on Danish defenses joining shallow-water planning, close action, command conflict, truce, and Baltic political change.
@@ -5740,7 +5741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Allen Dulles](entities/AllenDulles.md) — Early CIA director associated with elite institutional culture and covert-action expansion.
 - [James Angleton](entities/JamesAngleton.md) — CIA counterintelligence chief whose career joins real penetration risk to institutional paranoia.
 - [Napoleon's Egyptian Campaign](entities/NapoleonEgyptCampaign.md) — French invasion joining anti-British strategy, revolutionary empire, scientific inquiry, occupation, and military failure.
-- [Battle of the Nile](entities/BattleOfTheNile.md) — Nelson's 1798 destruction of the French fleet supporting the Egyptian expedition.
+- [Battle of the Nile](entities/BattleOfTheNile.md) — Nelson's 1798 victory after an intelligence-poor pursuit and near miss, destroying the French fleet supporting the Egyptian expedition.
 - [Mamluk Egypt](entities/MamlukEgypt.md) — Nominally Ottoman Egyptian order governed by a Mamluk military elite before the French occupation.
 - [Muhammad Ali of Egypt](entities/MuhammadAliOfEgypt.md) — Albanian-born Ottoman ruler associated with Egyptian modernization, study missions, and antiquities loss.
 - [Description de l'Egypte](entities/DescriptionDeLEgypte.md) — Monumental expeditionary record linking documentation, Egyptology, and imperial classification.

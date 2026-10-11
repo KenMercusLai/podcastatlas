@@ -8,6 +8,7 @@ sources:
   - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
   - 611-nelson-bonaparte-prepares-to-strike-part-4-glt9281187489
   - 610-nelson-the-battle-of-copenhagen-part-3-glt9153225543
+  - 517-nelson-the-hunt-for-napoleon-part-4-glt5321926998
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -22,6 +23,8 @@ The Royal Navy is presented as Britain's principal maritime fighting institution
 
 The Trafalgar background source rejects the idea that British naval dominance was natural or ancient. Competition with the Dutch and French, Cromwellian spending, Restoration administration, officer examinations, Samuel Pepys's bureaucracy, parliamentary finance, public credit, nationwide recruitment, provisioning, sailor health, dockyard mechanization, and incremental gunnery improvement accumulated into reliable fleet readiness. By 1805 the Navy could control approaches, sustain blockade, operate across oceans, and support a close-action doctrine that trusted captains to execute a shared objective. [[HoratioNelson]] embodied this system, but did not create it alone.
 
+The 1797-98 pursuit shows that institutional strength coexisted with acute strain. Spithead and Nore mutinies exposed grievances and political fear inside the fleet, while Britain's diplomatic isolation and simultaneous maritime commitments made detaching ships into the Mediterranean a gamble. Nelson's reinforced squadron could survive storm damage and keep searching, but missing cruisers, weak port access, delayed reports, and uncertainty about French objectives produced a major near miss at Alexandria. Consultation and captain-level initiative improved judgment without eliminating the informational limits of eighteenth-century sea control.
+
 At the 1801 [[BattleOfCopenhagen1801|Battle of Copenhagen]], institutional capacity appeared in a different operational setting. Shallow-draft ship choice, pilots, night reconnaissance, shoal marking, bomb vessels, signals, practiced gunnery, and captain-level roles enabled an attack through constrained waters. Three ships still grounded, [[HydeParker]] and Nelson formed different judgments about withdrawal, and [[EdwardRiou]] died obeying the signal. The battle therefore joins technical preparation and delegated initiative to navigation failure, command ambiguity, and coercive diplomacy against [[Denmark]] and the [[LeagueOfArmedNeutrality]].
 
 The 1940 source shows the long strategic afterlife of that capacity. After France fell and the army escaped through Dunkirk, Britain still possessed the world's largest navy, a merchant fleet, imperial connections, and global supply access. The Navy made German air superiority insufficient for a successful [[OperationSeaLion|cross-Channel invasion]] because improvised landing forces would still have to cross, land, reinforce, and resupply under naval attack. The episode also treats the fleet as a bargaining asset Britain risked losing through a negotiated settlement.
@@ -32,7 +35,7 @@ The 2025 Trafalgar retelling makes the institutional account concrete at operati
 
 - Professionally trained service that required practical seamanship and officer examination.
 - Fiscal-administrative institution sustained by taxation, borrowing, public credit, and parliamentary support.
-- Logistical and coercive shipboard system in which provisioning, health, maintenance, morale work, global deployment, and blockade endurance coexisted with frequent corporal punishment.
+- Logistical and coercive shipboard system in which provisioning, health, maintenance, morale work, intelligence, global deployment, blockade endurance, mutiny, and frequent corporal punishment all affected readiness.
 - Industrial organization whose dockyards and machine-tool processes anticipated wider factory production.
 - Combat system built around practiced gunnery, close action, discipline, aggression, and delegated command.
 - National institution whose language, songs, investment instruments, and heroic memory shaped British identity.
@@ -51,6 +54,7 @@ The 2025 Trafalgar retelling makes the institutional account concrete at operati
 
 ### Strategy and command culture
 
+- [[517-nelson-the-hunt-for-napoleon-part-4-glt5321926998]] connects the Spithead and Nore mutinies, strategic overstretch, storm damage, reinforcement, missing cruisers, captain consultation, intelligence gaps, and the Alexandria near miss.
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] links Channel control, Mediterranean reach, Hood's offensive strategy, Jervis's discipline and delegated captaincy, aggressive incentives, and Nelson's annihilation-seeking command.
 - [[610-nelson-the-battle-of-copenhagen-part-3-glt9153225543]] connects Baltic supply strategy, shallow-water reconnaissance, pilots, signals, close gunnery, conflicting withdrawal judgments, and negotiated coercion.
 - [[613-nelson-glory-at-trafalgar-part-6-glt7193792251]] connects crew preparation, signals, gunnery, shipboard medicine, industrial labor, and delegated action to Trafalgar's battlefield result and commemorative afterlife.
@@ -63,15 +67,12 @@ The 2025 Trafalgar retelling makes the institutional account concrete at operati
 
 ## Qualifications
 
-This profile derives from five British-centered popular-history episodes, three of which narrate the same Trafalgar system at different scales. Comparative claims about French abstraction, British firing speed, fitness, technological leadership, state spending, public health, industrialization, exact blockade duration and punishment totals, Copenhagen losses and withdrawal alternatives, 1940 fleet effectiveness, likely peace terms, and invasion outcomes require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, attacks on neutral powers, imperial commerce, corporal punishment, extreme shipboard violence, or the politics of whose liberty naval power protected. Later action against the slave trade does not erase earlier complicity with empire and slave-derived wealth.
+This profile derives from six British-centered popular-history episodes, three of which narrate the same Trafalgar system at different scales. Comparative claims about French abstraction, British firing speed, fitness, technological leadership, state spending, public health, industrialization, the scale and causes of the 1797 mutinies, intelligence quality, exact blockade duration and punishment totals, Copenhagen losses and withdrawal alternatives, 1940 fleet effectiveness, likely peace terms, and invasion outcomes require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, attacks on neutral powers, imperial commerce, corporal punishment, extreme shipboard violence, or the politics of whose liberty naval power protected. Later action against the slave trade does not erase earlier complicity with empire and slave-derived wealth.
 
 ## What Changed
 
-- Added Copenhagen as a shallow-water case joining reconnaissance, ship characteristics, pilots, signals, gunnery, and diplomacy.
-- Added grounding, conflicting withdrawal judgments, and Riou's death as limits on preparation and delegated initiative.
-- Retained corporal punishment and attacks on neutral powers as qualifications to institutional achievement.
-- Preserved the distinction between air superiority and joint naval-logistical invasion capacity in 1940.
-- Connected Trafalgar's national mobilization, battle performance, mourning, and contested imperial afterlife.
+- Added mutiny and political fear as internal limits on naval readiness during Britain's 1797 crisis.
+- Added the 1798 Mediterranean pursuit as a case where global capacity and delegated command could not overcome missing scouts, weak port access, and uncertain intelligence.
 
 ## Relationships
 

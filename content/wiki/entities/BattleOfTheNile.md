@@ -6,6 +6,7 @@ sources:
   - 126-napoleon-in-egypt-glt3691914095
   - 608-nelson-slaughter-in-naples-part-1-glt8594694484
   - 518-nelson-the-battle-of-the-nile-part-5-glt9518722562
+  - 517-nelson-the-hunt-for-napoleon-part-4-glt5321926998
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-12
 ---
@@ -18,11 +19,11 @@ The Battle of the Nile was the 1798 British naval victory at Aboukir Bay that de
 
 ## Current Profile
 
-The French anchored behind shallows believed to protect one flank, but [[ThomasFoley]] led British ships through the landward gap while [[HoratioNelson]] attacked from seaward. Nelson's decision to engage before nightfall depended on shared command intent, rapid battle preparation, stern-anchor handling, concentrated fire against the French van and center, and captains able to act locally in unfamiliar water. The grounding of *Culloden* and the losses suffered by *Bellerophon* show the maneuver's real risk, while the explosion of *L'Orient* made French defeat visible without explaining it by spectacle alone. Destruction of the fleet stranded the [[NapoleonEgyptCampaign|Egyptian expedition]], ended French maritime freedom in the eastern Mediterranean, and encouraged renewed coalition resistance. The later Naples episode adds the victory's personal and political aftermath: a physically damaged commander arrived as an international celebrity, and praise, perceived under-reward, and court intimacy became inputs to his next decisions.
+The battle followed a search shaped by strategic uncertainty rather than a direct interception. [[HoratioNelson]] left Toulon after the French, inferred Egypt from incomplete reports, reached Alexandria before Napoleon, departed when no fleet was found, and only returned after later confirmation through Sicily and Koroni. The French then anchored behind shallows believed to protect one flank, but [[ThomasFoley]] led British ships through the landward gap while Nelson attacked from seaward. Nelson's decision to engage before nightfall depended on shared command intent, rapid battle preparation, stern-anchor handling, concentrated fire against the French van and center, and captains able to act locally in unfamiliar water. The grounding of *Culloden* and the losses suffered by *Bellerophon* show the maneuver's real risk, while the explosion of *L'Orient* made French defeat visible without explaining it by spectacle alone. Destruction of the fleet stranded the [[NapoleonEgyptCampaign|Egyptian expedition]], ended French maritime freedom in the eastern Mediterranean, and encouraged renewed coalition resistance. The later Naples episode adds the victory's personal and political aftermath: a physically damaged commander arrived as an international celebrity, and praise, perceived under-reward, and court intimacy became inputs to his next decisions.
 
 ## Key Characteristics
 
-- Followed a prolonged British search after the French armada evaded interception.
+- Followed a prolonged, intelligence-poor British search that included storm damage, missing scouts, and a near miss at Alexandria.
 - Converted an assumed geographic protection into an attack route through local initiative.
 - Used double-sided engagement and concentrated fire against an anchored fleet's front and center.
 - Joined shared intent to rehearsed preparation, gunnery, seamanship, and stern anchoring under fading light.
@@ -34,6 +35,7 @@ The French anchored behind shallows believed to protect one flank, but [[ThomasF
 
 ### Approach and tactical opening
 
+- [[517-nelson-the-hunt-for-napoleon-part-4-glt5321926998]] reconstructs uncertain destination estimates, the Malta clue, captain consultation, the premature Alexandria visit, the near miss, resupply and new intelligence, and final discovery at Aboukir Bay.
 - [[126-napoleon-in-egypt-glt3691914095]] describes the search, Aboukir anchorage, shallows, and British flank maneuver.
 - [[518-nelson-the-battle-of-the-nile-part-5-glt9518722562]] reconstructs the fading-light decision, French anchorage, Foley's landward passage, stern-anchor preparation, double-sided concentration, and *Culloden*'s grounding.
 
@@ -48,13 +50,12 @@ The French anchored behind shallows believed to protect one flank, but [[ThomasF
 
 ## Qualifications
 
-Fleet, gun, casualty, capture, and timing totals; the exact protective assumptions of French commanders; individual actions; reported prayers and dialogue; the fire's cause; and claims about the battle's comparative rank are supplied by conversational sources. The detailed retelling is British- and Nelson-centered even while acknowledging French courage. Naval destruction constrained but did not itself terminate French rule in Egypt, and later bad political judgment should not be inferred from the battle alone.
+Fleet, gun, casualty, capture, and timing totals; the Alexandria near-miss interval; the quality of British intelligence; the exact protective assumptions of French commanders; individual actions; reported prayers and dialogue; the fire's cause; and claims about the battle's comparative rank are supplied by conversational sources. The detailed retelling is British- and Nelson-centered even while acknowledging French courage. Naval destruction constrained but did not itself terminate French rule in Egypt, and later bad political judgment should not be inferred from the battle alone.
 
 ## What Changed
 
-- Added the preparation, stern anchoring, landward passage, double-sided concentration, and delegated initiative behind the victory.
-- Added grounding, severe ship-level losses, uncertain ignition aboard *L'Orient*, and French courage as qualifications to heroic compression.
-- Connected fleet destruction more explicitly to Napoleon's isolation and renewed European coalition confidence.
+- Added the intelligence-poor pursuit, premature Alexandria visit, near miss, and corrective return that preceded battle.
+- Clarified that consultation and persistence improved the search without making Nelson infallible.
 
 ## Relationships
 

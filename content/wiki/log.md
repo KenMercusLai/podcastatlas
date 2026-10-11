@@ -36066,3 +36066,11 @@ Added source `essentials-using-science-to-optimize-sleep-learning-metabolism-sci
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 517. Nelson: The Hunt for Napoleon (Part 4)
+
+Added source `517-nelson-the-hunt-for-napoleon-part-4-glt5321926998` and resynthesized [[HoratioNelson]], [[NapoleonBonaparte|Napoleon Bonaparte]], [[FannyNelson]], [[RoyalNavy]], [[BattleOfTheNile]], and [[NapoleonEgyptCampaign]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nelson's recovery joined severe disability, pain, self-doubt, public rehabilitation, and Fanny's care; the 1798 Mediterranean pursuit then showed how consultation, delegated initiative, and persistence operated under storm damage, missing cruisers, weak port access, and uncertain intelligence, producing a major near miss at Alexandria before the French fleet was found at Aboukir Bay. Napoleon's destination secrecy and rapid land victory preserved surprise without solving the expedition's dependence on maritime support. No settled contradiction was adopted. Exact intervals, force totals, reported dialogue and letters, private motives, intelligence quality, financial effects, and the India strategy remain source-scoped. Lower-value captain and location profiles were kept closed because the focused campaign, battle, institutional, and biographical pages capture the durable addition without multiplying thin pages. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,516 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
