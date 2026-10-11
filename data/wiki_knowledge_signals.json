@@ -26917,9 +26917,9 @@
       "url": "/wiki/entities/beckweathers/"
     },
     "BeckyKennedy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7905596498 [SCIM7905596498].md",
@@ -26927,9 +26927,16 @@
           "show": "Huberman Lab",
           "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
           "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        },
+        {
+          "episode_file": "SCIM9070775345 [SCIM9070775345].md",
+          "key": "overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345",
+          "show": "Huberman Lab",
+          "title": "Overcoming Guilt & Building Tenacity in Kids & Adults | Dr. Becky Kennedy",
+          "url": "/wiki/sources/overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/beckykennedy/"
     },
     "BedBasedSleepSensing": {
@@ -78055,6 +78062,22 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/emotionalinteractionmodels/"
     },
+    "EmotionalResponsibilityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9070775345 [SCIM9070775345].md",
+          "key": "overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345",
+          "show": "Huberman Lab",
+          "title": "Overcoming Guilt & Building Tenacity in Kids & Adults | Dr. Becky Kennedy",
+          "url": "/wiki/sources/overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/emotionalresponsibilityboundary/"
+    },
     "EmotionalStabilityAsSocialNorm": {
       "episode_count": 2,
       "show_count": 2,
@@ -97962,9 +97985,9 @@
       "url": "/wiki/concepts/frugalimperialburialrestraint/"
     },
     "FrustrationToleranceLearningSpace": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7905596498 [SCIM7905596498].md",
@@ -97972,9 +97995,16 @@
           "show": "Huberman Lab",
           "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
           "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        },
+        {
+          "episode_file": "SCIM9070775345 [SCIM9070775345].md",
+          "key": "overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345",
+          "show": "Huberman Lab",
+          "title": "Overcoming Guilt & Building Tenacity in Kids & Adults | Dr. Becky Kennedy",
+          "url": "/wiki/sources/overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/frustrationtolerancelearningspace/"
     },
     "FuGan": {
@@ -235255,6 +235285,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
+    },
+    "ShameSafeLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9070775345 [SCIM9070775345].md",
+          "key": "overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345",
+          "show": "Huberman Lab",
+          "title": "Overcoming Guilt & Building Tenacity in Kids & Adults | Dr. Becky Kennedy",
+          "url": "/wiki/sources/overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/shamesafelearning/"
     },
     "ShameToComedyTransformation": {
       "episode_count": 1,

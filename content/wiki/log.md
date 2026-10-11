@@ -35772,3 +35772,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Overcoming Guilt & Building Tenacity in Kids & Adults | Dr. Becky Kennedy
+
+Added source `overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy-scim9070775345`; created [[EmotionalResponsibilityBoundary]] and [[ShameSafeLearning]]; and resynthesized [[BeckyKennedy]] and [[FrustrationToleranceLearningSpace]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: useful guilt follows conduct that conflicts with values, while another person's distress is not automatically one's moral responsibility; shame can freeze disclosure and learning, whereas connection, stories, questions, and generous interpretation can restore reflection without erasing accountability; and confidence grows through manageable frustration, incremental regulation, and contextual judgment about persistence or quitting. No settled contradiction was adopted. Repeated claims across Kennedy's two interviews are elaborating provenance rather than independent confirmation, and neuroscience, technology, and clinical-practice claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[ParentingSturdiness]], [[BoundaryEmpathyParenting]], [[ParentalRepairAfterHarm]], and [[Neuroplasticity]] pages were kept closed because the source, entity update, and focused concepts capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,479 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

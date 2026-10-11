@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10380
+wiki_total_pages: 10382
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "EmotionalInteractionModels"
     title: "Emotional Interaction Models"
     url: "/wiki/concepts/emotionalinteractionmodels/"
+  - key: "EmotionalResponsibilityBoundary"
+    title: "Emotional Responsibility Boundary"
+    url: "/wiki/concepts/emotionalresponsibilityboundary/"
   - key: "EmotionalServicePlatformIncentives"
     title: "Emotional Service Platform Incentives / 情绪服务平台激励"
     url: "/wiki/concepts/emotionalserviceplatformincentives/"
