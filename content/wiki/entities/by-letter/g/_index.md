@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13439
+wiki_total_pages: 13440
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1730,6 +1730,9 @@ wiki_pages:
   - key: "GuoWeiWarringStates"
     title: "郭隗 / Guo Wei (Warring States)"
     url: "/wiki/entities/guoweiwarringstates/"
+  - key: "GuoJingJinYong"
+    title: "郭靖（金庸小说） / Guo Jing (Jin Yong)"
+    url: "/wiki/entities/guojingjinyong/"
   - key: "GuoJinglong"
     title: "郭静龙"
     url: "/wiki/entities/guojinglong/"

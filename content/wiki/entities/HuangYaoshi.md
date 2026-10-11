@@ -4,6 +4,7 @@ type: entity
 tags: [fictional-character, jin-yong, wuxia, moral-complexity]
 sources:
   - 072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig
+  - ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -20,6 +21,8 @@ The supplied opening presents Huang Yaoshi as difficult to reduce to either roma
 
 The hosts begin to balance this criticism with “人情”: enduring grief for his dead wife, a reported plan to die after completing a special boat, and deep attachment to his daughter. Yet the excerpt ends while that family discussion is beginning. The current profile can therefore preserve his conjunction of talent, affection, pride, and cruelty, but cannot reconstruct the episode's complete judgment or treat devotion as moral absolution.
 
+The later relationship discussion adds a sharper inconsistency test. Huang Yaoshi rejects conventional ritual in speech yet polices his daughter's marriage, values status, punishes disciples and dependents brutally, and appears invested in performing an “邪” identity before others. The hosts also read his treatment of Mei Chaofeng as possible concealed desire under teacher–student power asymmetry, but preserve that inference as uncertain: grief, possessiveness, injured authority, and unstable early characterization remain competing explanations.
+
 ## Key Characteristics
 
 - Holds elite martial status while possessing broad artistic, scientific, strategic, and medical learning.
@@ -28,6 +31,7 @@ The hosts begin to balance this criticism with “人情”: enduring grief for 
 - Shows enduring attachment to his dead wife and love for his daughter.
 - Combines emotional depth with vanity, cruelty, and responsibility for the treatment of mutilated servants.
 - Resists a single moral label, although complexity does not erase the people harmed under his authority.
+- Rejects convention rhetorically while reproducing hierarchy, status judgment, and coercive control in practice.
 
 ## Evidence
 
@@ -43,15 +47,19 @@ The hosts begin to balance this criticism with “人情”: enduring grief for 
 
 - [[072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig]] contrasts admirers' attraction to his bearing and island with critics' focus on vanity, desire, cruelty, and the mutilated servants.
 
+### Performed nonconformity and power
+
+- [[ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma]] contrasts Huang Yaoshi's anti-ritual pose with control of marriage, status concern, cruelty toward disciples, and possible concealed feeling for Mei Chaofeng.
+- [[ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma]] uses the teacher–student hierarchy to distinguish admiration or silence from freely expressed consent.
+
 ## Qualifications
 
-This profile rests on an approximately three-minute supplied opening that stops mid-discussion. It does not contain the episode's full textual examples, counterarguments, or final judgment. The skill inventory, motives, spiritual interpretation, suicide plan, family attachments, and servant treatment are mediated through a conversational summary rather than verified against a cited edition. The source supports a morally divided profile, but not the inference that talent or grief compensates for cruelty, nor that one cruel act exhausts the character.
+This profile rests on two conversational summaries, one of which is an approximately three-minute opening that stops mid-discussion. The skill inventory, motives, spiritual interpretation, suicide plan, family attachments, servant treatment, anti-ritual self-presentation, and feelings toward Mei Chaofeng are not verified against a cited edition. The sources support a morally divided profile, but not the inference that talent or grief compensates for cruelty. The romantic reading of Mei Chaofeng is especially uncertain and cannot turn hierarchy, silence, or failure to punish into evidence of consent.
 
 ## What Changed
 
-- Created a bounded character profile joining exceptional talent and poetic authority to affection, vanity, and cruelty.
-- Preserved the mutilated servants as a limit on romanticizing Peach Blossom Island.
-- Marked the three-minute cutoff as preventing a complete judgment of his marriage, fatherhood, or moral arc.
+- Added the conflict between anti-ritual performance and enacted hierarchy, status judgment, and control.
+- Preserved the Mei Chaofeng reading as an uncertain inference bounded by teacher–student power asymmetry and consent.
 
 ## Relationships
 

@@ -36452,3 +36452,11 @@ Added source `lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 002 纪念|《射雕英雄传》（下）江湖儿女亦多情
+
+Added source `ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma`; created [[GuoJingJinYong|郭靖]]; and resynthesized [[LegendOfTheCondorHeroes|《射雕英雄传》]], [[HuangRong|黄蓉]], [[HuangYaoshi|黄药师]], and [[FunctionalAdaptationFidelity|功能性改编忠实]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Guo Jing and Huang Rong's love is emotionally reciprocal but uneven in practical labor and decisive authority; promise, teacher loyalty, civilian protection, consent, and accountability keep love from becoming a sufficient moral rule; the Jiangnan Seven Freaks model costly and non-possessive mentorship; the novel's simple motives and recurring cast support concentrated drama while narrowing psychological and world-scale complexity; coherent adaptation may rewrite events to rebuild cause, whereas literal incident retention fails when its trigger disappears; and Guo Jing's antiwar culmination is influential but possibly under-prepared. No settled contradiction was adopted. Duan Zhixing's love, Huang Yaoshi's feelings toward Mei Chaofeng, relationship motives, exact dialogue, edition changes, version rankings, authorial development, and reader influence remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,565 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -10,6 +10,7 @@ sources:
   - 050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg
   - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
   - lm2iomi68yhdbuqvdir8761d-syq
+  - ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -35,6 +36,8 @@ The [[TsuiHark|徐克]] career retrospective generalizes the test across radical
 The focused critique of [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] tests that boundary within a late-chapter film. The starting point can in principle concentrate “何为英雄,” war, and the use of power, but it also removes the prior formation that gives those questions weight. According to the hosts, a rapid flashback preserves names and incidents without restoring grief, intimacy, hierarchy, or cause; effects-led action and a final appeal to protect ordinary people then state functions the intervening film has not rebuilt. Partial success in 华筝, Mongolian characterization, supporting performance, language, and music does not convert the total adaptation into a coherent transfer.
 
 [[TheEagleShootingHeroes1993|《东成西就》]] supplies the boundary case between adaptation judgment and autonomous achievement. The film uses names, martial-arts fragments, and the young Five Greats' blank history while abandoning most original plot, relationships, and ethical structure. The hosts can therefore call it a classic comedy and still deny that it is a successful Jin Yong adaptation. Excellence on a new comic axis does not retroactively establish source fidelity; it makes the work's independent status clearer.
+
+The earlier [[LegendOfTheCondorHeroes|《射雕英雄传》]] discussion supplies a compact causal test. Once a version removes the storyteller or new information that originally triggered Yang Tiexin's anger, retaining the outburst turns an event match into behavioral arbitrariness. A praised rewrite instead gives Bao Xiruo and Yang Tiexin a new conversation that exposes their value difference while preserving her concealment. Functional fidelity therefore asks not only whether a plot point remains, but what newly visible cause now earns it.
 
 ## Key Claims
 
@@ -87,14 +90,17 @@ The focused critique of [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄
 
 - [[lm2iomi68yhdbuqvdir8761d-syq]] treats 《东成西就》 as a durable ensemble comedy whose use of Jin Yong names and blank-space invention does not preserve the original story's skeleton or spirit.
 
+### Rebuilding local cause
+
+- [[ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma]] contrasts an unexplained retained outburst with a rewritten Bao Xiruo–Yang Tiexin exchange that restores motive, concealment, and conflict through new screen action.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from seven informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, comedy, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production, deletion, censorship, and authorship claims remain source-scoped.
+The concept is derived from eight informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, comedy, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production, deletion, censorship, authorship, version labels, and exact scene recollection remain source-scoped.
 
 ## What Changed
 
-- Added late-chapter entry as a case where thematic concentration increases the burden to reconstruct missing formation and political cause.
-- Added 《东成西就》 as the boundary case where autonomous classic status and adaptation fidelity diverge.
+- Added a local causal test: retaining an incident after deleting its trigger is less faithful than rewriting the scene to rebuild motive and conflict.
 
 ## Related Concepts
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [002 纪念|《射雕英雄传》（下）江湖儿女亦多情](sources/ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma.md) — 纸醉金迷FM以爱情、承诺、师道、人物复杂度与影视因果重读《射雕英雄传》，并保留郭靖反战思想跃升和黄药师心理解释的争议。
 - [003 四女同舟，如果你是张无忌你爱谁？｜闲话金庸《倚天屠龙记》](sources/lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8.md) — 纸醉金迷FM以张无忌与赵敏、周芷若、殷离、小昭的不同关系区分敬重、感激、怜惜、欲望、照料与共同生活的适配性。
 - [004 少林寺成了反派？张无忌是个好领导吗？｜闲话金庸《倚天屠龙记》](sources/lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii.md) — 纸醉金迷FM以张无忌的整合型领导、权力基础与政治边界重读《倚天屠龙记》，并由正邪门派、群像、回目和刀剑结构讨论行为判断与叙事层次。
 - [005 串台|《进击的巨人》又双叕完结了？到底烂尾没？](sources/lu-b1gvxqtwzilstumunrbd6lc2y-lu-b1gvxqtwzilstumunrbd6lc2y.md) — 纸醉金迷FM与千梦群岛把《进击的巨人》结局拆分为节奏、规则、人物动机与主题收束，并由地鸣、历史罪责和莱纳的身份撕裂讨论生存伦理与责任。
@@ -5373,7 +5374,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王熙凤 / Wang Xifeng](entities/WangXifeng.md) — 《红楼梦》中兼具理家才干、人情洞察、善意、控制欲与严重道德责任的复杂人物。
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
 - [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, reception memory, causal scrutiny, disagreement, action criticism, supernatural worldbuilding analysis, and accountability-preserving character sympathy.
-- [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
+- [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其改编语料，以成长、爱情与责任、师道、人物复杂度、媒介因果和反战高潮检验叙事质量。
+- [郭靖（金庸小说） / Guo Jing (Jin Yong)](entities/GuoJingJinYong.md) — 以朴实而非愚钝、守诺、师恩、护民和反战理想组织爱情与公共责任的《射雕英雄传》主角。
 - [《射雕英雄传：侠之大者》 / 2025 Film](entities/LegendOfTheCondorHeroesTheGallants2025.md) — 徐克执导的2025年电影，当前资料聚焦其后半部压缩、人物因果、动作语法与反战主题铺垫。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
