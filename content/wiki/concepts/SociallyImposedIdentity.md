@@ -4,6 +4,7 @@ type: concept
 tags: [identity, recognition, memory, projection, literature]
 sources:
   - ls96ywi2jdxmrffx9j5iu5qqct25
+  - lkwyqt4w5g-uet_vckex3f33nu8n
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ The concept is stronger than ordinary mislabeling because the assigned identity 
 
 [[AXiuXiakeXing|阿秀]] supplies the recognition counterexample. Other characters begin with the identity they want and explain away contrary behavior; she begins with the felt difference between danger and safety. Her judgment may be aided by trauma-related vigilance, but the source keeps both insight and injury in view.
 
+The earlier 侠客岛 discussion broadens imposition beyond the single 石中玉 substitution. “狗杂种,” 石破天, “白痴,” “大粽子,” and 史亿刀 arise from different relationships and uses; each name frames the same person as an insult, replacement, judgment, object, or disciple. The continuity among them lies less in a hidden official label than in persistent conduct. The source therefore reinforces identity as a negotiation among social naming, lived relation, memory, and action while declining to settle the protagonist's uncertainty with the unconfirmed name “石中坚.”
+
 ## Key Claims
 
 - Convergent social testimony can make an assigned biography feel more credible than uncertain personal memory.
@@ -27,6 +30,7 @@ The concept is stronger than ordinary mislabeling because the assigned identity 
 - Desire and fear can bias recognition in opposite directions: hope encourages projection, while vigilance may expose behavioral difference.
 - Physical resemblance and public consensus do not eliminate persistent differences in conduct, ability, and moral disposition.
 - A viable account of personal identity must hold memory, embodiment, character, relationship, and recognition together without reducing all of them to one element.
+- Multiple names can assign different social functions to one person without any one label exhausting who that person is.
 
 ## Evidence
 
@@ -46,14 +50,19 @@ The concept is stronger than ordinary mislabeling because the assigned identity 
 
 - [[ls96ywi2jdxmrffx9j5iu5qqct25]] connects “我是谁” to the 侠客岛 inscriptions, where explanatory systems can obstruct apprehension of what is actually present.
 
+### Names as relational assignments
+
+- [[lkwyqt4w5g-uet_vckex3f33nu8n]] traces successive insulting, substitutive, situational, and disciple names while emphasizing continuity of conduct across them.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from a fictional case and is not a clinical theory of amnesia, dissociation, delusion, coercive control, or legal identity. Real identity disputes require domain-specific evidence, and social recognition can be supportive or necessary rather than merely oppressive. Trauma does not reliably improve perception, and conduct alone may not settle continuity through memory loss, bodily change, or role transition. The episode's conclusion is interpretive: it shows why consensus has force while preserving resistance to consensus as the whole truth.
+The concept is derived from two conversational readings of a fictional case and is not a clinical theory of amnesia, dissociation, delusion, coercive control, or legal identity. Real identity disputes require domain-specific evidence, and social recognition can be supportive or necessary rather than merely oppressive. Trauma does not reliably improve perception, and conduct alone may not settle continuity through memory loss, bodily change, or role transition. The sources show why consensus and naming have force while preserving resistance to either as the whole truth. The novel's refusal to explicitly confirm “石中坚” prevents a neat hidden-name solution from closing the question.
 
 ## What Changed
 
-- Created a concept for identity assigned through convergent recognition and transferred relationships.
-- Added conduct-based resistance and trauma-qualified recognition as limits on social consensus.
+- Extended imposed identity from one substituted biography to a sequence of relationally assigned names and functions.
+- Made persistent conduct, rather than a recovered official name, the strongest continuity across those labels.
+- Preserved the protagonist's unresolved name instead of adopting “石中坚” as textual fact.
 
 ## Related Concepts
 
@@ -63,3 +72,4 @@ The concept is derived from a fictional case and is not a clinical theory of amn
 - [[PersonalMemoryIdentityResolution]] - technical neighbor concerned with matching remembered facts to the correct person and time.
 - [[SelfFeelingTrust]] - related reliance on felt discrepancy when external interpretation dominates.
 - [[XiakeXingNovel|《侠客行》]] - literary case joining mistaken identity to the problem of names and realities.
+- [[InterpretiveSchemaBlindness|解释框架遮蔽]] - parallel process in which an explanatory system hides another layer of what is present.

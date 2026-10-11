@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [048 人生识字忧患始：金庸《侠客行》到底想表达什么？](sources/lkwyqt4w5g-uet_vckex3f33nu8n.md) — 纸醉金迷FM以侠客岛、石破天多重名字和武学图谱讨论信息不透明、责任、赤子之心、身份标签，以及知识框架如何遮蔽视觉与身体层面的答案。
 - [049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？](sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p.md) — 纸醉金迷FM批评《射雕英雄传：侠之大者》的压缩、人物因果、特效化动作与未获铺垫的反战主题，同时保留蒙古段落、华筝、配角和语言设计等局部优点。
 - [536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)](sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026.md) — The Rest Is History reassessment of Caligula's dynastic appeal, populist spectacle, senatorial terror, military power, assassination, and hostile-source reputation.
 - [535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)](sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405.md) — The Rest Is History reassessment of Tiberius's military and administrative competence, Capri withdrawal, dynastic repression, constitutional tension, and unstable hostile-source reputation.
@@ -4548,6 +4549,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [谢烟客 / Xie Yanke](entities/XieYanke.md) — 《侠客行》中重诺却试图操控承诺兑现方式的高手，因石破天不求人而反受玄铁令约束。
 - [Caligula](entities/Caligula.md) — Julio-Claudian emperor whose popular dynastic appeal, political calculation, spectacle, elite humiliation, and Praetorian dependence complicate the mad-monster archetype.
 - [Germanicus](entities/Germanicus.md) — Julio-Claudian commander whose military and popular reputation became transferable legitimacy for Caligula.
 - [Ellen Langer](entities/EllenLanger.md) — Psychologist defining mindfulness as active noticing and studying how choice, context, expectation, and age cues may shape engagement and health-related outcomes.
@@ -4559,8 +4561,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梅芳姑 / Mei Fanggu](entities/MeiFanggu.md) — 以全面才艺、自卑、拒绝创伤和伤害转移检验优秀不等于爱情资格的《侠客行》人物。
 - [石清（侠客行） / Shi Qing](entities/ShiQingXiakeXing.md) — 以坚定伴侣选择、圆融边界和面对儿子恶行的责任方案连接爱情与公义的《侠客行》人物。
 - [闵柔 / Min Rou](entities/MinRou.md) — 以温柔、丧子后的夫妻互助、保护性母爱和走向问责呈现亲情两难的《侠客行》人物。
-- [《侠客行》 / Ode to Gallantry](entities/XiakeXingNovel.md) — 金庸小说，以三代婚恋亲子关系、身份误认、名实之辨和童话式传奇逻辑共同追问性格、责任与“我是谁”。
-- [石破天 / Shi Potian](entities/ShiPotian.md) — 《侠客行》主角，以真诚、可靠和稳定行为抵抗被集体强加的石中玉身份。
+- [《侠客行》 / Ode to Gallantry](entities/XiakeXingNovel.md) — 金庸小说，以侠客岛、三代关系、身份误认和武学图谱共同追问责任、“我是谁”及解释何时遮蔽所见。
+- [石破天 / Shi Potian](entities/ShiPotian.md) — 《侠客行》主角，以社会经验不足却学习迅速、自然行善和跨越标签的稳定行为抵抗外界认定。
 - [石中玉 / Shi Zhongyu](entities/ShiZhongyu.md) — 以机敏调情制造吸引力、以伤害和逃避暴露长期风险，并使父母保护与公共问责相冲突的《侠客行》人物。
 - [丁当（侠客行） / Ding Dang](entities/DingDangXiakeXing.md) — 明知石中玉不可靠仍偏爱其情绪刺激，并把石破天当作替身的《侠客行》人物。
 - [阿秀（侠客行） / A Xiu](entities/AXiuXiakeXing.md) — 通过行为与安全感识别石破天，同时保留温柔引导与间接控制两种读法的人物。
@@ -17863,6 +17865,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Interpretive Schema Blindness / 解释框架遮蔽](concepts/InterpretiveSchemaBlindness.md) — 熟悉的解释系统把注意力固定在错误表征层，使专家看不见同一对象中的其他有效信号。
 - [Principate Constitutional Fiction](concepts/PrincipateConstitutionalFiction.md) — Gap between republican partnership forms and inherited monarchical, dynastic, popular, Praetorian, and legionary power.
 - [Mindful Noticing Under Uncertainty](concepts/MindfulNoticingUnderUncertainty.md) — Ellen Langer's mindfulness framework of actively noticing change, novelty, distinctions, and conditionality in ordinary life.
 - [Roman Imperial Succession](concepts/RomanImperialSuccession.md) — Unstable coalition process joining dynasty, adoption, court control, Senate and popular acceptance, donatives, and armed backing.
@@ -17870,7 +17873,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strength as Skill Practice](concepts/StrengthAsSkillPractice.md) — Strength-training frame prioritizing neural coordination, technique, stable movements, successful submaximal repetitions, and controlled arousal.
 - [Fatigue-Fragmented Training](concepts/FatigueFragmentedTraining.md) — Workload-distribution strategy using small well-rested exposures to preserve technique and output while bounding acute fatigue.
 - [Anti-Glycolytic Conditioning](concepts/AntiGlycolyticConditioning.md) — Specific conditioning frame using brief submaximal efforts and generous recovery to postpone fatigue without treating discomfort as the primary goal.
-- [Socially Imposed Identity / 集体强加身份](concepts/SociallyImposedIdentity.md) — 集体证言和被分配的关系、罪责与义务迫使个人接受另一套人生叙事，而持续行为仍可抵抗这种认定。
+- [Socially Imposed Identity / 集体强加身份](concepts/SociallyImposedIdentity.md) — 集体证言、关系、罪责和连续命名把外部人生叙事强加给个人，而持续行为仍可抵抗任何单一标签。
 - [Romantic Stimulation–Security Tradeoff / 亲密关系中的刺激—安全权衡](concepts/RomanticStimulationSecurityTradeoff.md) — 区分调情、关注与即时情绪回报，同可靠、克制、修复和长期安全之间的关系权衡。
 - [Technologized Salvation / 技术化救赎](concepts/TechnologizedSalvation.md) — 科幻叙事把灵魂、转世、启示、审判和天堂转译为信息、筛选与运输机制，同时暴露操作者的合法性问题。
 - [Tragic Adaptation Reframing / 悲剧性改编重构](concepts/TragicAdaptationReframing.md) — 将团圆或延续结局改为不可逆分离，从而重组爱情伦理与情感强度。

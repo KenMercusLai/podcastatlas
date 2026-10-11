@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13247
+wiki_total_pages: 13248
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "XieHaoQingheLateHan"
     title: "谢浩 / Xie Hao (Qinghe chancellor, late Han)"
     url: "/wiki/entities/xiehaoqinghelatehan/"
+  - key: "XieYanke"
+    title: "谢烟客 / Xie Yanke"
+    url: "/wiki/entities/xieyanke/"
   - key: "XieGongEasternHan"
     title: "谢躬 / Xie Gong (Eastern Han)"
     url: "/wiki/entities/xiegongeasternhan/"

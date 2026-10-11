@@ -5,13 +5,14 @@ tags: [novel, wuxia, jin-yong, identity, romance]
 sources:
   - ls96ywi2jdxmrffx9j5iu5qqct25
   - lovpnvggvmrtfzpn9gvezhrg6xfo
+  - lkwyqt4w5g-uet_vckex3f33nu8n
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-《侠客行》 is a [[JinYong|金庸]] wuxia novel represented here through two [[ZhiZuiJinMiFM|纸醉金迷FM]] discussions of marriage, parenting, romance, mistaken identity, names and realities, and the tension between fairy-tale convention and realistic plot logic.
+《侠客行》 is a [[JinYong|金庸]] wuxia novel represented here through three [[ZhiZuiJinMiFM|纸醉金迷FM]] discussions of moral action, marriage, parenting, romance, mistaken identity, names and realities, interpretation, and the tension between fairy-tale convention and realistic plot logic.
 
 ## Current Profile
 
@@ -23,17 +24,19 @@ That comparison opens into the novel's identity structure. People repeatedly tel
 
 Together the sources connect identity to family ethics. Loss may contribute to parental indulgence, but upbringing does not erase the wrongdoer's agency; love may motivate protection, but it does not automatically defeat public justice. Shi Qing and Min Rou's attempt to combine confession, accompaniment, and restitution is morally serious yet incomplete because parental service cannot simply substitute for the son's own accountability or the victims' specific loss.
 
-The later episode connects mistaken identity to the novel's final “我是谁” and to 侠客岛, where excessive interpretation of the inscriptions can obstruct direct apprehension of martial meaning. Names and explanations have power, but the two lookalikes' opposed conduct prevents surface recognition from becoming complete identity. The hosts consequently read the novel as both a light wuxia fairy tale and an inquiry into what remains when externally assigned labels are stripped away.
+The episode centered on 侠客岛 makes that interpretive structure explicit. The island's fearful reputation grows from opaque information, coercive invitations, violent enforcement, and the unexplained non-return of earlier visitors, even though the hidden purpose is collaborative study rather than execution. The resulting responses—from flight and substitution to accepting danger for others—turn an information puzzle into a spectrum of responsibility.
+
+The same episode connects 石破天's changing names to the inscriptions that learned experts cannot solve. Names and annotations organize attention, yet they can obscure conduct or visual form when treated as the thing itself. [[InterpretiveSchemaBlindness|Interpretive schema blindness]] explains how experts pursuing poetry and commentary miss movements encoded in written strokes, while 石破天's illiteracy and internal power together let him apprehend and enact them. This is not a rejection of knowledge: the closing discussion preserves knowledge as a source of painful awareness, dignity, and possible change.
 
 ## Key Characteristics
 
-- Uses near-identical bodies and opposed conduct to distinguish appearance from character.
-- Turns repeated mistaken identity from comic misunderstanding into a threat to memory, guilt, relationship, and self-definition.
+- Uses near-identical bodies and opposed conduct to turn mistaken identity from comic misunderstanding into a threat to memory, guilt, relationship, and self-definition.
 - Connects romantic choice to conduct, emotional effect, temperament, shared values, and assigned identity rather than comparative trait totals.
 - Uses three generations to examine how marital harm, abandonment, bereavement, and indulgence travel through families without becoming deterministic explanations.
 - Makes parental love and public justice a real conflict while preserving confession, restitution, and the child's own responsibility.
-- Pairs a light, episodic fairy-tale surface with philosophical questions about names, realities, explanation, and selfhood.
-- Relies on legendary conventions whose information control, invitation rules, and request logic may not survive strict realistic scrutiny.
+- Uses 侠客岛 to connect information asymmetry and coercion with fear, rumor, sacrifice, and collective misjudgment.
+- Pairs a light, episodic fairy-tale surface with philosophical questions about names, realities, explanation, knowledge, and selfhood.
+- Makes illiteracy an escape from a shared interpretive frame only when joined to the embodied capacity needed to use what is seen.
 
 ## Evidence
 
@@ -57,20 +60,27 @@ The later episode connects mistaken identity to the novel's final “我是谁�
 ### Names, realities, and interpretation
 
 - [[ls96ywi2jdxmrffx9j5iu5qqct25]] links the final chapter title “我是谁” with the 侠客岛 inscriptions and the difference between explanatory labels and directly apprehended substance.
+- [[lkwyqt4w5g-uet_vckex3f33nu8n]] links 石破天's changing names to the experts' fixation on textual meaning, then distinguishes ignorance from the combination of frame freedom and internal power.
+
+### Spontaneous ethics and responsibility
+
+- [[lkwyqt4w5g-uet_vckex3f33nu8n]] contrasts avoidance, substitution, duty, and voluntary sacrifice around the 赏善罚恶令 while presenting 石破天's aid to others as action preceding explicit moral vocabulary.
 
 ### Fairy-tale logic and plot strain
 
 - [[ls96ywi2jdxmrffx9j5iu5qqct25]] praises the novel's lightness while questioning 侠客岛 secrecy, 赏善罚恶令 selection, and the 玄铁令 request.
+- [[lkwyqt4w5g-uet_vckex3f33nu8n]] preserves disagreement over whether 江湖 fear is mainly self-generated or a foreseeable result of 侠客岛's opacity and violence.
 
 ## Qualifications
 
-This profile comes from two conversational episodes rather than a complete textual study. The hosts' accounts of editions, plot details, character motives, hidden school tensions, developmental psychology, authorial bereavement, and philosophical design remain source-scoped. Family background can explain vulnerability without excusing abuse or predation, and parental indulgence is not a complete cause of a child's wrongdoing. Calling the novel a fairy tale explains its permissive conventions but does not automatically repair every causal inconsistency, while reading mistaken identity as psychological horror is an interpretation rather than the only available genre account.
+This profile comes from three conversational episodes rather than a complete textual study. The hosts' accounts of editions, plot details, character motives, hidden school tensions, developmental psychology, authorial bereavement, and philosophical design remain source-scoped. Family background can explain vulnerability without excusing abuse or predation, and parental indulgence is not a complete cause of a child's wrongdoing. Calling the novel a fairy tale explains its permissive conventions but does not automatically repair every causal inconsistency. Reading mistaken identity as psychological horror or the inscriptions through Chan, Daoist, or anti-commentarial frames gives productive interpretations rather than exclusive authorial meanings. The source does not confirm “石中坚” as the protagonist's canonical name.
 
 ## What Changed
 
-- Extended the profile from younger-generation romance and identity into marriage, family inheritance, and parental ethics.
-- Added compatibility as a judgment about character and shared life rather than comparative accomplishment.
-- Added confession and attempted restitution as qualified responses to the conflict between kinship and public justice.
+- Made 侠客岛's opacity and coercion part of the novel's moral design rather than treating them only as plot strain.
+- Distinguished anti-knowledge romanticism from the narrower risk that expertise fixes attention on the wrong layer.
+- Added spontaneous moral action before explicit侠义 language as a central feature of 石破天.
+- Preserved “石中坚” as unconfirmed rather than resolving the novel's identity question through a popular name.
 
 ## Relationships
 
@@ -85,3 +95,5 @@ This profile comes from two conversational episodes rather than a complete textu
 - [[RomanticStimulationSecurityTradeoff|亲密关系中的刺激—安全权衡]] - relational account of the novel's contrasting pairings.
 - [[ParentalIndulgenceBlindness|溺爱不明]] - qualified account of protective love weakening boundaries after loss.
 - [[JinYongConfucianEthics]] - ethical account of family partiality, confession, restitution, and public obligation.
+- [[InterpretiveSchemaBlindness|解释框架遮蔽]] - account of poetry and commentary hiding the inscriptions' visual and embodied layer.
+- [[XieYanke|谢烟客]] - promise-bound schemer whose 玄铁令 plot tests exchange, desire, and literal commitment.

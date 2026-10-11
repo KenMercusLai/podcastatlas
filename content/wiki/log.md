@@ -35668,3 +35668,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 048 人生识字忧患始：金庸《侠客行》到底想表达什么？
+
+Added source `lkwyqt4w5g-uet_vckex3f33nu8n`; created [[XieYanke|谢烟客]] and [[InterpretiveSchemaBlindness|解释框架遮蔽]]; and resynthesized [[XiakeXingNovel|《侠客行》]], [[ShiPotian|石破天]], and [[SociallyImposedIdentity|集体强加身份]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 侠客岛 combines coercive opacity with a benign hidden research purpose; 石破天's stable conduct persists across socially assigned names; and his solution to the inscriptions depends jointly on illiteracy freeing attention from semantic fixation and sufficient internal power to enact the visual pattern. No settled contradiction was adopted. The hosts' dispute over insight versus luck remains open, “石中坚” is not adopted as a confirmed name, and claims about 性善, Chan or Daoist meaning, authorial intent, and exact plot logic remain source-scoped. Broad [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[InterpretationAndOverinterpretation]], and [[XingShanTheory|性善论]] pages were kept closed because focused novel, character, identity, and interpretive-schema pages capture the durable addition without reopening large unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,466 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

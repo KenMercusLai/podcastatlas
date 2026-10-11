@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10363
+wiki_total_pages: 10364
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "InterpretationAndOverinterpretation"
     title: "Interpretation And Overinterpretation"
     url: "/wiki/concepts/interpretationandoverinterpretation/"
+  - key: "InterpretiveSchemaBlindness"
+    title: "Interpretive Schema Blindness / 解释框架遮蔽"
+    url: "/wiki/concepts/interpretiveschemablindness/"
   - key: "InterrogationTortureConstraint"
     title: "Interrogation Torture Constraint / 审讯刑具约束"
     url: "/wiki/concepts/interrogationtortureconstraint/"
