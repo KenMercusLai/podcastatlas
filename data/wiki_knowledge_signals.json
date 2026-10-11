@@ -83848,9 +83848,9 @@
       "url": "/wiki/concepts/eroticblueprint/"
     },
     "ErrorGatedAdultNeuroplasticity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9872815940 [SCIM9872815940].md",
@@ -83858,9 +83858,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Faster by Using Failures, Movement & Balance",
           "url": "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
+        },
+        {
+          "episode_file": "SCIM3979389196 [SCIM3979389196].md",
+          "key": "essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Faster by Using Failures, Movement & Balance",
+          "url": "/wiki/sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/errorgatedadultneuroplasticity/"
     },
     "EruptionOfVesuvius79": {
@@ -93618,9 +93625,9 @@
       "url": "/wiki/entities/florentinerepublic/"
     },
     "FlowClutchLearningDistinction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -93635,9 +93642,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Faster by Using Failures, Movement & Balance",
           "url": "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
+        },
+        {
+          "episode_file": "SCIM3979389196 [SCIM3979389196].md",
+          "key": "essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Faster by Using Failures, Movement & Balance",
+          "url": "/wiki/sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/flowclutchlearningdistinction/"
     },
     "FlowEnvironmentDesign": {
@@ -270103,9 +270117,9 @@
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -270141,9 +270155,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Faster by Using Failures, Movement & Balance",
           "url": "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
+        },
+        {
+          "episode_file": "SCIM3979389196 [SCIM3979389196].md",
+          "key": "essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Faster by Using Failures, Movement & Balance",
+          "url": "/wiki/sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/vestibularlearningactivation/"
     },
     "VeterinaryMedicalMisinformation": {

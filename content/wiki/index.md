@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Learn Faster by Using Failures, Movement & Balance](sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196.md) — Condensed Huberman Lab episode on correctable errors, focused practice, arousal, sleep-supported consolidation, and safe vestibular novelty.
 - [044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写](sources/liiidmjxhrngcffnld51y-l7_oan.md) — 纸醉金迷FM以温青青、袁承志、阿九、夏雪宜、温仪和何红药讨论嫉妒、责任、错位爱情、复仇与版本修订的叙事代价。
 - [How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson](sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629.md) — Huberman Lab conversation on integrating drives under higher aims, responsibility as adventure, prayer as aim formation, concentrated rewards, conscience, and truth.
 - [VOL.146网上买药靠谱吗？家中备药不踩坑！](sources/vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x.md) — 这病说来话长赞助节目讨论慢病续药、线上购药与问诊便利，以及首次用药、检查和线下就医边界。

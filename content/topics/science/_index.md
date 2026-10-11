@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1562
+topic_total_pages: 1563
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4053,6 +4053,9 @@ topic_sources:
   - key: "essentials-how-to-increase-motivation-drive-scim9927628276"
     title: "Essentials: How to Increase Motivation & Drive"
     url: "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
+  - key: "essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196"
+    title: "Essentials: How to Learn Faster by Using Failures, Movement & Balance"
+    url: "/wiki/sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196/"
   - key: "essentials-how-to-learn-skills-faster-scim2224786015"
     title: "Essentials: How to Learn Skills Faster"
     url: "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"

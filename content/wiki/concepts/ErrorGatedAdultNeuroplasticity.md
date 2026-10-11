@@ -4,8 +4,9 @@ type: concept
 tags: [neuroscience, learning, error, attention, practice]
 sources:
   - how-to-learn-faster-by-using-failures-movement-balance-scim9872815940
+  - essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-11
 ---
 
 # Error-Gated Adult Neuroplasticity
@@ -19,6 +20,8 @@ The model begins with aligned sensory and motor maps. Fluent action usually conf
 Frustration is therefore informative but not sufficient. The learner must remain engaged long enough to attempt another correction and can subjectively reward approximation rather than treating every miss as defeat. The episode maps this loop onto acetylcholine, epinephrine, and dopamine, then places durable rewiring later in sleep. Those chemical assignments and timing claims are plausible teaching mechanisms in this source, not a complete or universally measured account of plasticity.
 
 The practical rule is calibrated friction. Familiar success supplies little new information, but overwhelming, unsafe, or repeatedly demoralizing failure can end useful practice. Short bouts, incremental errors, appropriate arousal, and later recovery therefore matter more than maximizing mistakes or chasing a perfectly smooth state.
+
+The later Essentials release repeats this same model in condensed form. It strengthens the editorial provenance of the framework but does not independently corroborate the prism-adaptation, neuromodulator, timing, high-contingency, or transfer claims.
 
 ## Key Claims
 - Correctable mismatch can signal that an established sensory-motor prediction needs revision.
@@ -35,14 +38,13 @@ The practical rule is calibrated friction. Familiar success supplies little new 
 - Practice design - [[how-to-learn-faster-by-using-failures-movement-balance-scim9872815940]] favors bounded focused bouts and manageable errors over indefinite practice or overwhelming difficulty.
 - State and recovery - [[how-to-learn-faster-by-using-failures-movement-balance-scim9872815940]] pairs arousal regulation during practice with later sleep-supported rewiring.
 - Performance boundary - [[how-to-learn-faster-by-using-failures-movement-balance-scim9872815940]] distinguishes fluent expression of learned capacity from the friction that exposes what still needs to change.
+- Condensed provenance - [[essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196]] repeats the same mismatch, frustration, approximation, arousal, and sleep-supported learning loop.
 
 ## Counterevidence & Qualifications
-The source document does not provide complete citations, methods, populations, or effect sizes for the prism, contingency, neuromodulator, or transfer claims. Its age boundary, extra-trial ranges, seven-to-thirty-minute error window, one-to-three daily bout limit, and 90-minute ultradian framing are practical host guidance rather than universal thresholds. Error is useful only when it is detectable, relevant, safe, and followed by feedback and another viable attempt. Later low-stakes play evidence also qualifies any implication that high threat or shame is necessary for plasticity.
+Neither the full nor condensed source document provides complete citations, methods, populations, or effect sizes for the prism, contingency, neuromodulator, or transfer claims, and the two releases are not independent evidence. Their age boundary, extra-trial ranges, seven-to-thirty-minute error window, one-to-three daily bout limit, and 90-minute ultradian framing are practical host guidance rather than universal thresholds. Error is useful only when it is detectable, relevant, safe, and followed by feedback and another viable attempt. Later low-stakes play evidence also qualifies any implication that high threat or shame is necessary for plasticity.
 
 ## What Changed
-- Created a dedicated concept separating correctable error from failure volume or elapsed practice time.
-- Preserved subjective reward and later sleep as parts of the proposed loop while keeping exact chemistry and timing source-scoped.
-- Qualified high-contingency learning with a safety and low-threat exploration boundary.
+- No current judgment changed; the Essentials edit adds overlapping editorial provenance rather than independent support.
 
 ## Related Concepts
 - [[Neuroplasticity]] - broader capacity for experience-dependent circuit change.

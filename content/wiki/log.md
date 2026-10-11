@@ -35883,3 +35883,11 @@ Added source `liiidmjxhrngcffnld51y-l7_oan`; created [[BixueJian|《碧血剑》
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: How to Learn Faster by Using Failures, Movement & Balance
+
+Added source `essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196` and resynthesized [[ErrorGatedAdultNeuroplasticity]], [[FlowClutchLearningDistinction]], and [[VestibularLearningActivation]] from their complete preserved evidence inventories before appending the new source once. The Essentials release repeats [[how-to-learn-faster-by-using-failures-movement-balance-scim9872815940|the full 2021 episode]] on correctable mismatch, frustration, approximation, bounded practice, arousal, sleep-supported consolidation, and orientation novelty, so it adds editorial provenance rather than independent corroboration. No settled contradiction was adopted. Prism adaptation, superior-colliculus framing, age and timing thresholds, exact neuromodulator sequencing, high-contingency effects, and broad transfer from balance to unrelated learning remain source-scoped, while deliberate instability, activating breathing, caffeine, and persistence through frustration retain safety and clinical boundaries. Broad [[AndrewHuberman]], [[HubermanLab]], [[Neuroplasticity]], and related recovery or state-tool pages were kept closed because the source and focused concepts capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,493 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

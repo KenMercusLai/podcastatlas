@@ -505,14 +505,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-10-08",
       "latest_episode_file": "SCIM5466682268 [SCIM5466682268].md",
-      "source_note_count": 417,
-      "topic_matched_source_note_count": 202,
+      "source_note_count": 418,
+      "topic_matched_source_note_count": 203,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 190
+          "source_note_count": 191
         },
         {
           "key": "culture",

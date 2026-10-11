@@ -5,8 +5,9 @@ tags: [learning, performance, psychology, practice]
 sources:
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
   - how-to-learn-faster-by-using-failures-movement-balance-scim9872815940
+  - essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-11
 ---
 
 # Flow-Clutch Learning Distinction
@@ -20,6 +21,8 @@ Wood and Huberman treat flow as a real but often overextended idea. Flow is desc
 Clutch states fill the gap. In a clutch state, arousal is high enough for performance, but the task still feels like hard physical and cognitive work. For skill growth, the source therefore points less toward chasing flow and more toward tolerating friction, focused effort, and reachable difficulty.
 
 The earlier solo episode supplies a precursor to this distinction without using the later clutch vocabulary. It treats flow primarily as expression of capacities already embedded in the nervous system and uses repeated mismatch, frustration, and correction as the entry point for change. Together, the sources support a learning-performance boundary rather than a claim that flow never accompanies learning.
+
+The Essentials edit repeats that earlier precursor without adding a new comparison or independent evidence. Its value here is provenance: the smooth-performance versus corrective-learning distinction survives the condensation.
 
 ## Key Claims
 - Flow is framed as expression of trained skill, not a universal learning condition.
@@ -36,13 +39,13 @@ The earlier solo episode supplies a precursor to this distinction without using 
 - Practice-normalization role - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] uses the "thirds" training pattern to argue that difficult sessions are not evidence of failure.
 - Virtuosity branch - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] links elite performance to moments where high skill meets uncertainty and extreme demand.
 - Early error-gated account - [[how-to-learn-faster-by-using-failures-movement-balance-scim9872815940]] frames flow as expression of existing capacity and mismatch, frustration, attention, and correction as signals for change.
+- Condensed provenance - [[essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196]] preserves the same performance-versus-learning distinction from the full episode.
 
 ## Counterevidence & Qualifications
-The sources do not reject flow or prove that learning cannot occur during it. They limit its role by separating performance expression from the error-rich practice that often builds durable skill. The clutch-state frame is presented through sports psychology and episode interpretation, while the earlier episode's neuromodulator sequence and practice timing remain source-scoped rather than a complete theory of learning.
+The sources do not reject flow or prove that learning cannot occur during it. They limit its role by separating performance expression from the error-rich practice that often builds durable skill. The clutch-state frame is presented through sports psychology and episode interpretation, while the full and condensed earlier episode are overlapping provenance whose neuromodulator sequence and practice timing remain source-scoped rather than a complete theory of learning.
 
 ## What Changed
-- Added the earlier error-gated account as provenance for separating fluent performance from corrective learning.
-- Qualified the distinction so it does not imply that flow and learning are mutually exclusive.
+- No current judgment changed; the Essentials edit preserves but does not independently corroborate the earlier distinction.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - learning framework that often requires friction and mistakes.

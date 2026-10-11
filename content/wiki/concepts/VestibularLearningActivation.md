@@ -8,7 +8,8 @@ sources:
   - scim4448895120-scim4448895120
   - scim1865244910-scim1865244910
   - how-to-learn-faster-by-using-failures-movement-balance-scim9872815940
-last_updated: 2026-10-04
+  - essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The vestibular system is a multisensory control loop rather than an inner-ear ba
 The hearing-and-balance releases move from coordination to a more tentative learning claim: safely practicing forward acceleration while tilted, as in turning on a bicycle, board, or similar movement, may affect mood and later learning through cerebellar outputs and neuromodulators including serotonin and dopamine. The full-length release adds static drills that alternate near and far visual focus during one-leg standing and a practical motion-sickness distinction between gaze that tracks movement and rigid fixation. The play episode broadens the activity set to dance, soccer, martial arts, jumping, ducking, leaping, turning, and changing speed. It treats these movements as low-stakes exploratory inputs rather than a universal exercise prescription.
 
 The earlier failure-and-balance episode supplies the learning logic behind those examples. Novel orientation in pitch, yaw, roll, instability, or relation to gravity creates a correctable mismatch among vestibular, visual, proprioceptive, and motor signals. Once the movement is familiar, the same activity may remain valuable exercise without presenting the same new control problem.
+
+The Essentials edit repeats this orientation-novelty account without supplying new methods or outcomes. It adds editorial provenance but no independent evidence for the proposed mood or general-learning transfer.
 
 Across the evidence, the anatomy, gaze-stabilization, sensory-conflict, and movement-specific balance claims are stronger than the brief causal account of pleasure, mood, plasticity, or broad learning transfer. Dynamic practice can train the practiced control problem without establishing that vestibular activation generally enhances later learning.
 
@@ -44,14 +47,13 @@ Across the evidence, the anatomy, gaze-stabilization, sensory-conflict, and move
 - Static practice and motion context - [[scim1865244910-scim1865244910]] adds near-to-far visual focus during single-leg standing and describes visual-motion mismatch during phone or book use in a moving vehicle.
 - Play movement range - [[using-play-to-rewire-improve-your-brain-scim9321743392]] contrasts repetitive linear movement with dance, soccer, martial arts, and other activities requiring changing speed, angle, height, balance, and visual orientation.
 - Error-gated novelty - [[how-to-learn-faster-by-using-failures-movement-balance-scim9872815940]] links safe changes in pitch, yaw, roll, instability, and gravity orientation to sensory-motor mismatch and correction.
+- Condensed provenance - [[essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196]] preserves the full episode's orientation-novelty and cross-domain-transfer claims.
 
 ## Counterevidence & Qualifications
-The sources do not provide effect sizes, populations, training doses, or evidence that a particular activity improves general learning. The full and Essentials hearing releases substantially overlap and are not independent confirmation. The play and failure-and-balance episodes' cerebellar, neuromodulator, mood, and plasticity-transfer claims do not establish that novelty alone is beneficial, and the Berson interview explicitly leaves pleasure from movement unresolved. Cycling, skateboarding, surfing, snowboarding, martial arts, field sports, and deliberate instability add fall, collision, environmental, and skill risks. Persistent dizziness, imbalance, hearing change, injury, or vestibular symptoms may require qualified assessment rather than self-experimentation.
+The sources do not provide effect sizes, populations, training doses, or evidence that a particular activity improves general learning. The full and Essentials hearing releases substantially overlap, as do the full and Essentials failure-and-balance releases; neither pair is independent confirmation. The play and failure-and-balance episodes' cerebellar, neuromodulator, mood, and plasticity-transfer claims do not establish that novelty alone is beneficial, and the Berson interview explicitly leaves pleasure from movement unresolved. Cycling, skateboarding, surfing, snowboarding, martial arts, field sports, and deliberate instability add fall, collision, environmental, and skill risks. Persistent dizziness, imbalance, hearing change, injury, or vestibular symptoms may require qualified assessment rather than self-experimentation.
 
 ## What Changed
-- Added safe orientation novelty as the proposed error signal connecting balance practice to learning.
-- Distinguished a new correction problem from familiar exercise that remains healthy but may not create the same plasticity signal.
-- Kept movement-specific balance learning stronger than general mood or cross-domain transfer claims.
+- No current judgment changed; the Essentials edit adds overlapping provenance while movement-specific learning remains better supported than general transfer.
 
 ## Related Concepts
 - [[VisualVestibularStabilization]] - mechanism-centered account of gaze reflexes, calibration, and sensory conflict.
