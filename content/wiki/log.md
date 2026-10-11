@@ -36301,3 +36301,11 @@ Added source `ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 021 我的阿勒泰？漫话金庸《白马啸西风》
+
+Added source `lriy1oybgigotwswtzkfbrdrhtl7`; created [[WhiteHorseNeighsInWesternWind|《白马啸西风》]], [[LiWenxiu|李文秀]], [[Waerlazi|瓦尔拉齐]], and [[CulturalValueNonuniversality|文化价值的非普遍性]]; and resynthesized [[LoveControlIllusion|爱的可控性幻觉]] and [[ConflictDrivenIntergroupHatred]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: reciprocal love cannot be secured by merit, sacrifice, force, or removal of a rival; responses to loss distinguish protection and release from possession and destruction; ethnic injury can widen into collective judgment even though moral character does not follow group identity; and cultural objects prized in one tradition need not be universal treasure. No settled contradiction was adopted. Walrazi's mixed conduct complicates but does not redeem lethal choices, while the 《边城》 comparison, 《我的阿勒泰》 link, character psychology, future possibilities, publication context, and cultural symbolism remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, characters, and concepts capture the durable additions without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,546 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13385
+wiki_total_pages: 13388
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "WildeStrangeStories"
     title: "《王尔德奇异故事集》 / Wilde Strange Stories"
     url: "/wiki/entities/wildestrangestories/"
+  - key: "WhiteHorseNeighsInWesternWind"
+    title: "《白马啸西风》 / White Horse Neighs in the Western Wind"
+    url: "/wiki/entities/whitehorseneighsinwesternwind/"
   - key: "WhereTheCrawdadsSing"
     title: "《蝲蛄吟唱的地方》 / Where the Crawdads Sing"
     url: "/wiki/entities/wherethecrawdadssing/"
@@ -1808,6 +1811,9 @@ wiki_pages:
   - key: "WangGongTaiweiLateHan"
     title: "王龚 / Wang Gong (Taiwei, late Han)"
     url: "/wiki/entities/wanggongtaiweilatehan/"
+  - key: "Waerlazi"
+    title: "瓦尔拉齐 / Walrazi"
+    url: "/wiki/entities/waerlazi/"
   - key: "WhiteHorseTemple"
     title: "白马寺 / White Horse Temple"
     url: "/wiki/entities/whitehorsetemple/"

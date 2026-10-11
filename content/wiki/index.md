@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [021 我的阿勒泰？漫话金庸《白马啸西风》](sources/lriy1oybgigotwswtzkfbrdrhtl7.md) — 纸醉金迷FM以多组爱而不得的选择重读《白马啸西风》，并从李文秀的善意、瓦尔拉齐的复杂性和高昌宝藏讨论族群判断与文化价值。
 - [022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》](sources/ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl.md) — 纸醉金迷FM以公孙大娘的三场赌斗、花满楼的生命善意及针锤决战重读《绣花大盗》，同时质疑女性塑造、罪案动机与推理衔接。
 - [023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图](sources/ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us.md) — 纸醉金迷FM以高手外观与实际能力、俗语与真理、神兵与“仁者无敌”的落差解构武侠套路，并借夫妻刀法讨论关系中的相互配合。
 - [024 奇人 奇遇 奇功：闲话金庸封笔作《鹿鼎记》](sources/llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5.md) — 纸醉金迷FM以韦小宝的市井学习、人性判断、风险下注与资源整合解释他如何把偶遇转成奇功，并由此拆解武侠英雄、体面手段和宫廷神圣性。
@@ -4630,6 +4631,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《白马啸西风》 / White Horse Neighs in the Western Wind](entities/WhiteHorseNeighsInWesternWind.md) — 金庸女性主角边疆小说，以爱而不得、选择中的善恶、族群偏见与高昌宝藏连接感情伦理和文化价值。
+- [李文秀（《白马啸西风》） / Li Wenxiu](entities/LiWenxiu.md) — 在失恋与危险中保护苏普、阿曼和苏鲁克，并以行动而非强力改变族群判断的女主角。
+- [瓦尔拉齐 / Walrazi](entities/Waerlazi.md) — 真诚授艺与片刻关切同谋杀、集体投毒计划和临终杀意并存，却不因此获得救赎的师父反派。
 - [《绣花大盗》 / The Embroidery Bandit](entities/EmbroideredBanditGuLong.md) — 古龙陆小凤小说，以针案悬疑、三场赌斗、信任背叛及轻重倒置的终战连接鲜明场面与因果疑点。
 - [花满楼 / Hua Manlou](entities/HuaManlou.md) — 以自身失明经验帮助江重威重建生存意愿，并通过他人后来的人生结果间接显出善意的陆小凤挚友。
 - [公孙大娘（古龙人物） / Gongsun Daniang (Gu Long character)](entities/GongsunDaniangGuLong.md) — 以武功、智计、易容、剑舞与道德歧义成为陆小凤势均力敌的对手和盟友。
@@ -18085,6 +18089,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Cultural Value Nonuniversality / 文化价值的非普遍性](concepts/CulturalValueNonuniversality.md) — 一种文化珍视的对象不因此自动成为所有人的珍宝，交流须保留解释、改造与拒绝的权利。
 - [Wuxia as Adult Fairy Tale / 武侠作为成人童话](concepts/WuxiaAdultFairyTale.md) — 以友情、信任、享乐、韧性和邪不压正构成理想化情感契约，同时不把浪漫力量当作因果漏洞的豁免。
 - [Idealized Love Deconstruction / 爱情神话拆解](concepts/IdealizedLoveDeconstruction.md) — 不以激情、牺牲、排他性或婚姻结果单独定义爱情，而以欲望、主体性、照料、责任、边界、权力与共同生活综合检验关系。
 - [Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整](concepts/MasteryPurityAndHumanAttachment.md) — 区分巅峰技艺的专注成本、关系牵挂的双重作用，以及技术忠诚能否脱离对人的诚实与道德责任。

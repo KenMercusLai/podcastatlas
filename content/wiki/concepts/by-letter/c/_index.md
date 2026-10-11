@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10449
+wiki_total_pages: 10450
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3098,6 +3098,9 @@ wiki_pages:
   - key: "CulturalRevolutionGovernanceMemory"
     title: "Cultural Revolution Governance Memory"
     url: "/wiki/concepts/culturalrevolutiongovernancememory/"
+  - key: "CulturalValueNonuniversality"
+    title: "Cultural Value Nonuniversality / 文化价值的非普遍性"
+    url: "/wiki/concepts/culturalvaluenonuniversality/"
   - key: "CulturalPreservationColony"
     title: "Cultural-Preservation Colony"
     url: "/wiki/concepts/culturalpreservationcolony/"
