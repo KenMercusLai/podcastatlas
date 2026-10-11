@@ -35994,3 +35994,11 @@ Added source `vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zheng
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》
+
+Added source `042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t`; created [[QiongYao|琼瑶]], [[YanYuMengMeng|《烟雨濛濛》]], [[QingShenShenYuMengMeng|《情深深雨濛濛》]], and [[RevengeAsSelfDefeatingInheritance|复仇的自毁性继承]]; and resynthesized [[AdaptationEndingEthics]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: 《烟雨濛濛》 moves injury and retaliation through family and romantic relationships while its deeper father-daughter line humanizes aging authority without excusing violence; the television adaptation earns a brighter outcome by rebuilding character agency and historical setting rather than merely replacing tragedy; and ending ethics depends on causal and moral function, not an automatic preference for fidelity, death, survival, sorrow, or reunion. No settled contradiction was adopted. Biographical causation, authorial intention, adaptation history, character responsibility, audience response, and end-of-life interpretation remain source-scoped. The broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[AdaptationReceptionMemory|改编接受中的代际记忆]] profiles were kept closed because the focused pages capture the durable additions without reopening their larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

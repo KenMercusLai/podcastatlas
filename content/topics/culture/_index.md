@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3438
+topic_total_pages: 3439
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -47,7 +47,7 @@ topic_concepts:
     title: "Adaptation As Moral Reframing / 改编作为道德重心重置"
     url: "/wiki/concepts/adaptationasmoralreframing/"
   - key: "AdaptationEndingEthics"
-    title: "Adaptation Ending Ethics"
+    title: "Adaptation Ending Ethics / 改编结局伦理"
     url: "/wiki/concepts/adaptationendingethics/"
   - key: "AdaptationOriginalTextConfusion"
     title: "Adaptation Original-Text Confusion"
@@ -8886,6 +8886,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t"
+    title: "042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》"
+    url: "/wiki/sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t/"
   - key: "lo9-_4_9eaepw7s-egiyp1ywgiva"
     title: "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇"
     url: "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"

@@ -7374,6 +7374,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/adaptationasmoralreframing/"
     },
+    "AdaptationEndingEthics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "64.霸王别姬：疯魔与成活 [656094350].md",
+          "key": "64-bawangbieji-fengmo-yu-chenghuo-656094350",
+          "show": "蜜獾吃书",
+          "title": "64.霸王别姬：疯魔与成活",
+          "url": "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"
+        },
+        {
+          "episode_file": "liuFOC8w7fHDkv8gfsj7UuggJY3T [liuFOC8w7fHDkv8gfsj7UuggJY3T].md",
+          "key": "042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t",
+          "show": "纸醉金迷FM",
+          "title": "042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》",
+          "url": "/wiki/sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/adaptationendingethics/"
+    },
     "AdaptationLedProgramming": {
       "episode_count": 2,
       "show_count": 1,
@@ -217712,6 +217735,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/qingmiddynastyaccumulatedmaladies/"
     },
+    "QingShenShenYuMengMeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liuFOC8w7fHDkv8gfsj7UuggJY3T [liuFOC8w7fHDkv8gfsj7UuggJY3T].md",
+          "key": "042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t",
+          "show": "纸醉金迷FM",
+          "title": "042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》",
+          "url": "/wiki/sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/qingshenshenyumengmeng/"
+    },
     "QingheKingdomLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -217787,6 +217826,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/qinshuiprincesseasternhan/"
+    },
+    "QiongYao": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lmjhSeWrqBnQsY8d1iLYP_XO885e [lmjhSeWrqBnQsY8d1iLYP_XO885e].md",
+          "key": "lmjhsewrqbnqsy8d1ilyp_xo885e",
+          "show": "纸醉金迷FM",
+          "title": "047 从《还珠格格》十级问答聊开去",
+          "url": "/wiki/sources/lmjhsewrqbnqsy8d1ilyp_xo885e/"
+        },
+        {
+          "episode_file": "liuFOC8w7fHDkv8gfsj7UuggJY3T [liuFOC8w7fHDkv8gfsj7UuggJY3T].md",
+          "key": "042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t",
+          "show": "纸醉金迷FM",
+          "title": "042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》",
+          "url": "/wiki/sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/qiongyao/"
     },
     "QiongchengTaihouWesternHan": {
       "episode_count": 2,
@@ -224519,6 +224581,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/revelpharma/"
+    },
+    "RevengeAsSelfDefeatingInheritance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liuFOC8w7fHDkv8gfsj7UuggJY3T [liuFOC8w7fHDkv8gfsj7UuggJY3T].md",
+          "key": "042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t",
+          "show": "纸醉金迷FM",
+          "title": "042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》",
+          "url": "/wiki/sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/revengeasselfdefeatinginheritance/"
     },
     "RevengeProportionalityBoundary": {
       "episode_count": 2,
@@ -289178,6 +289256,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/yanyouxingeneral/"
+    },
+    "YanYuMengMeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liuFOC8w7fHDkv8gfsj7UuggJY3T [liuFOC8w7fHDkv8gfsj7UuggJY3T].md",
+          "key": "042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t",
+          "show": "纸醉金迷FM",
+          "title": "042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》",
+          "url": "/wiki/sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/yanyumengmeng/"
     },
     "YanZhuWesternHan": {
       "episode_count": 3,

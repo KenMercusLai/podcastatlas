@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10414
+wiki_total_pages: 10415
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -234,7 +234,7 @@ wiki_pages:
     title: "Adaptation As Moral Reframing / 改编作为道德重心重置"
     url: "/wiki/concepts/adaptationasmoralreframing/"
   - key: "AdaptationEndingEthics"
-    title: "Adaptation Ending Ethics"
+    title: "Adaptation Ending Ethics / 改编结局伦理"
     url: "/wiki/concepts/adaptationendingethics/"
   - key: "AdaptationOriginalTextConfusion"
     title: "Adaptation Original-Text Confusion"

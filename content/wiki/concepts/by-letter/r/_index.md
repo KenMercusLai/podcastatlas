@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10414
+wiki_total_pages: 10415
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "ReuseFirstRocketDesign"
     title: "Reuse-First Rocket Design"
     url: "/wiki/concepts/reusefirstrocketdesign/"
+  - key: "RevengeAsSelfDefeatingInheritance"
+    title: "Revenge as Self-Defeating Inheritance / 复仇的自毁性继承"
+    url: "/wiki/concepts/revengeasselfdefeatinginheritance/"
   - key: "RevengeProportionalityBoundary"
     title: "Revenge Proportionality Boundary / 复仇比例边界"
     url: "/wiki/concepts/revengeproportionalityboundary/"

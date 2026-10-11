@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13317
+wiki_total_pages: 13320
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "YouBaochanShanJi"
     title: "《游褒禅山记》"
     url: "/wiki/entities/youbaochanshanji/"
+  - key: "YanYuMengMeng"
+    title: "《烟雨濛濛》 / Misty Rain"
+    url: "/wiki/entities/yanyumengmeng/"
   - key: "YiMeng"
     title: "《疑孟》 / Yi Meng"
     url: "/wiki/entities/yimeng/"

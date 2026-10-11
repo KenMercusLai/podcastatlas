@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 13317
+wiki_total_pages: 13320
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "QuanqiuShangyin"
     title: "《全球上瘾》"
     url: "/wiki/entities/quanqiushangyin/"
+  - key: "QingShenShenYuMengMeng"
+    title: "《情深深雨濛濛》 / Romance in the Rain"
+    url: "/wiki/entities/qingshenshenyumengmeng/"
   - key: "QinErshiMustDie"
     title: "《秦二世必须死》 / Qin Er Shi Must Die"
     url: "/wiki/entities/qinershimustdie/"
@@ -329,6 +332,9 @@ wiki_pages:
   - key: "QiongQiong"
     title: "琼琼 / Qiongqiong"
     url: "/wiki/entities/qiongqiong/"
+  - key: "QiongYao"
+    title: "琼瑶 / Qiong Yao"
+    url: "/wiki/entities/qiongyao/"
   - key: "QinFengEasternHan"
     title: "秦丰 / Qin Feng (Eastern Han)"
     url: "/wiki/entities/qinfengeasternhan/"

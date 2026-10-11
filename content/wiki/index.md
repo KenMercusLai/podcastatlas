@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》](sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t.md) — 纸醉金迷FM从复仇循环、父女关系、悲喜剧结局与代际记忆重读《烟雨濛濛》及其电视改编，并审慎回望琼瑶的人生与爱情观。
 - [VOL.143这两年这些“不正经”的医生做着正经的科普｜开播2周年特辑](sources/vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c.md) — 这病说来话长两周年复盘其非焦虑医学科普、听众共创、制作劳动、商业审查、公益披露与形式演进。
 - [521. Warlords of the West: Killer Queens (Part 2)](sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864.md) — The Rest Is History on Fredegund and Brunhilde's feud, Merovingian regency, dynastic violence, and Gregory of Tours's unequal framing.
 - [Essentials: Understand and Use Dreams to Learn and Forget](sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014.md) — Condensed Huberman Lab episode on slow-wave and REM sleep, learning, emotional memory, dreams, EMDR, and mechanism boundaries.
@@ -4589,6 +4590,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [琼瑶 / Qiong Yao](entities/QiongYao.md) — 以古典诗意、因果化言情叙事、女性角色和跨媒介自我改编塑造代际文化记忆的作家、编剧与制作人。
+- [《烟雨濛濛》 / Misty Rain](entities/YanYuMengMeng.md) — 以复仇迁移、父女关系和爱情反噬构成悲剧因果链的琼瑶早期小说。
+- [《情深深雨濛濛》 / Romance in the Rain](entities/QingShenShenYuMengMeng.md) — 通过人物重塑、战时上海背景和更明朗结局重写《烟雨濛濛》的电视作品。
 - [Fredegund](entities/Fredegund.md) — Neustrian queen and regent whose political capacity and violent reputation must be read through hostile-source constraints.
 - [Brunhilde](entities/Brunhilde.md) — Visigothic princess and repeated Merovingian regent whose dynastic authority ended in aristocratic betrayal and execution.
 - [Gregory of Tours](entities/GregoryOfTours.md) — Bishop and indispensable but asymmetrical narrator of the rival Merovingian queens.
@@ -17974,6 +17978,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Revenge as Self-Defeating Inheritance / 复仇的自毁性继承](concepts/RevengeAsSelfDefeatingInheritance.md) — 原始伤害经家庭与亲密关系迁移，使报复不断招募第三方并摧毁其所追求修复的悲剧模式。
 - [Listener Community Co-Production / 听众社群共创](concepts/ListenerCommunityCoProduction.md) — Bounded listener participation through topic signals, norms, professional skills, artifacts, rituals, and offline relationships.
 - [Health Content Commercial Safeguards / 健康内容商业合作护栏](concepts/HealthContentCommercialSafeguards.md) — Review, documentation, disclosure, and scope controls preventing sponsorship from borrowing clinical authority.
 - [Battle of Tours](concepts/BattleOfTours.md) — Qualified synthesis of the 732/733 battle's campaign logic, shrine stakes, tactics, dynastic consequences, counterfactuals, and political afterlife.
