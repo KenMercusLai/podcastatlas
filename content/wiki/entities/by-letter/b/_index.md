@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13344
+wiki_total_pages: 13348
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "BookOfRevelation"
     title: "《启示录》 / Book of Revelation"
     url: "/wiki/entities/bookofrevelation/"
+  - key: "BaoHuNiKuangNovel"
+    title: "《宝狐》 / The Fox Fairy (Ni Kuang novel)"
+    url: "/wiki/entities/baohunikuangnovel/"
   - key: "BabettesFeast"
     title: "《巴贝特之宴》 / Babette's Feast"
     url: "/wiki/entities/babettesfeast/"
@@ -1496,6 +1499,9 @@ wiki_pages:
   - key: "BabyTree"
     title: "宝宝树 / BabyTree"
     url: "/wiki/entities/babytree/"
+  - key: "BaoHuCharacter"
+    title: "宝狐 / Bao Hu (Ni Kuang character)"
+    url: "/wiki/entities/baohucharacter/"
   - key: "BingeOralDoctor"
     title: "宾哥 / Binge (oral-health doctor)"
     url: "/wiki/entities/bingeoraldoctor/"

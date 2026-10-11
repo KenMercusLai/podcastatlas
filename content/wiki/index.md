@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [034 趣话倪匡“原振侠系列”之《宝狐》|串台“天津惹惹广播”](sources/lpjxwzf-ic6-rfvd-a5cl3ig3fou-lpjxwzf-ic6-rfvd-a5cl3ig3fou.md) — 纸醉金迷FM串台重读《宝狐》，以狐仙转外星讯号的谜底讨论爱情感化、身份反抗、自主性与科幻祛魅的得失。
 - [035 【国庆加更】趣话金庸魔改影视《东成西就》(feat：天津惹惹广播)](sources/lm2iomi68yhdbuqvdir8761d-syq.md) — 纸醉金迷FM与天津惹惹广播从救场生产、群星即兴与喜剧形式区分《东成西就》的独立成就和金庸改编忠实度。
 - [036 金庸武侠世界里的异类：《连城诀》](sources/lh2xjiu48gisboa7esabpaejxisk.md) — 纸醉金迷FM以戚芳的受限选择、师徒猜疑、宝藏贪毒与丁典对狄云的双重教育，重读《连城诀》的反复仇成长。
 - [037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》](sources/lqrlbs47ruozcivwkh0ltyydbysn.md) — 纸醉金迷FM以爱情、伪君子与真恶人、极端处境、谣言失信和被迫归隐重读《连城诀》，同时保留对情节障碍与极端罪恶设计感的质疑。
@@ -18028,6 +18029,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Terry Sejnowski](entities/TerrySejnowski.md) — Computational neuroscientist connecting brain algorithms, active learning, sleep, and human-centered AI partnership.
 - [Salk Institute](entities/SalkInstitute.md) — Research institution represented through Terry Sejnowski's computational neurobiology work.
 
+- [《宝狐》 / The Fox Fairy (Ni Kuang novel)](entities/BaoHuNiKuangNovel.md) — 倪匡袁振侠小说，以狐仙意象、讯号生命、爱情感化、身份拒绝与自主性疑问组织跨类型谜团。
+- [袁振侠 / Yuan Zhenxia](entities/YuanZhenxia.md) — 倪匡笔下的医生调查者，在《宝狐》中重构冷自泉与宝狐的关系并推断其非人生命形式。
+- [冷自泉 / Leng Ziquan](entities/LengZiquan.md) — 《宝狐》中的权贵青年，以放弃仕途、家族与肉身的选择测试痴情、身份反抗和操控阴影下的自主。
+- [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
+
 ## Concepts
 - [Greed as Moral Poison / 贪欲作为道德之毒](concepts/GreedAsMoralPoison.md) — 财富欲望先扭曲对他人的判断与合作，再由字面的毒物外化其自毁后果，同时区分寓言力量与现实因果。
 - [Moral Learning Through Disillusionment / 祛魅中的道德学习](concepts/MoralLearningThroughDisillusionment.md) — 在认识欺骗、学习策略和自我保护的同时，不把犬儒、残酷或普遍猜疑当作成熟终点。
@@ -28543,5 +28549,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Algorithmic Level of Brain Explanation](concepts/AlgorithmicLevelOfBrainExplanation.md) — Computational bridge between biological neural mechanisms and goal-directed behavior.
 - [Cognitive–Procedural Learning Integration](concepts/CognitiveProceduralLearningIntegration.md) — Learning model joining explicit understanding, active practice, feedback, consolidation, and tool-use judgment.
+
+- [Romantic Autonomy Under Manipulation / 操控阴影下的爱情自主](concepts/RomanticAutonomyUnderManipulation.md) — Distinguishes costly unconventional choice from desire whose independence is uncertain under concealed influence, dependency, or control.
+- [Speculative Demystification Tradeoff / 科幻祛魅权衡](concepts/SpeculativeDemystificationTradeoff.md) — Explains how a speculative mechanism can add causal closure while reducing a supernatural mystery's ambiguity and cultural texture.
 
 ## Syntheses

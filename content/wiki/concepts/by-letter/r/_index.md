@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10434
+wiki_total_pages: 10436
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "RomanticArtistMyth"
     title: "Romantic Artist Myth"
     url: "/wiki/concepts/romanticartistmyth/"
+  - key: "RomanticAutonomyUnderManipulation"
+    title: "Romantic Autonomy Under Manipulation / 操控阴影下的爱情自主"
+    url: "/wiki/concepts/romanticautonomyundermanipulation/"
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"

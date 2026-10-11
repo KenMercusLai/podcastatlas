@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13344
+wiki_total_pages: 13348
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "LengJianguo"
     title: "冷建国 / Leng Jianguo"
     url: "/wiki/entities/lengjianguo/"
+  - key: "LengZiquan"
+    title: "冷自泉 / Leng Ziquan"
+    url: "/wiki/entities/lengziquan/"
   - key: "LiangzhouLateHan"
     title: "凉州 / Liangzhou (late Han)"
     url: "/wiki/entities/liangzhoulatehan/"
