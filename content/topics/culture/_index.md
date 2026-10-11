@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3445
+topic_total_pages: 3448
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1570,6 +1570,9 @@ topic_concepts:
   - key: "GreaterBayAreaCinema"
     title: "Greater Bay Area Cinema / 大湾区电影"
     url: "/wiki/concepts/greaterbayareacinema/"
+  - key: "GreedAsMoralPoison"
+    title: "Greed as Moral Poison / 贪欲作为道德之毒"
+    url: "/wiki/concepts/greedasmoralpoison/"
   - key: "GreekMythology"
     title: "Greek Mythology"
     url: "/wiki/concepts/greekmythology/"
@@ -2161,6 +2164,9 @@ topic_concepts:
   - key: "MonaLisaFameFormation"
     title: "Mona Lisa Fame Formation"
     url: "/wiki/concepts/monalisafameformation/"
+  - key: "MoralLearningThroughDisillusionment"
+    title: "Moral Learning Through Disillusionment / 祛魅中的道德学习"
+    url: "/wiki/concepts/morallearningthroughdisillusionment/"
   - key: "MoralMentorshipTalentCultivation"
     title: "Moral Mentorship as Talent Cultivation / 人师型人才成全"
     url: "/wiki/concepts/moralmentorshiptalentcultivation/"
@@ -8895,6 +8901,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "lh2xjiu48gisboa7esabpaejxisk"
+    title: "036 金庸武侠世界里的异类：《连城诀》"
+    url: "/wiki/sources/lh2xjiu48gisboa7esabpaejxisk/"
   - key: "lqrlbs47ruozcivwkh0ltyydbysn"
     title: "037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》"
     url: "/wiki/sources/lqrlbs47ruozcivwkh0ltyydbysn/"

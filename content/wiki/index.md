@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [036 金庸武侠世界里的异类：《连城诀》](sources/lh2xjiu48gisboa7esabpaejxisk.md) — 纸醉金迷FM以戚芳的受限选择、师徒猜疑、宝藏贪毒与丁典对狄云的双重教育，重读《连城诀》的反复仇成长。
 - [037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》](sources/lqrlbs47ruozcivwkh0ltyydbysn.md) — 纸醉金迷FM以爱情、伪君子与真恶人、极端处境、谣言失信和被迫归隐重读《连城诀》，同时保留对情节障碍与极端罪恶设计感的质疑。
 - [038 周年特辑 | 你心目中的金庸宇宙top3系列](sources/lqan6mpc-cfdaze0ooxdd-iegcjk.md) — 纸醉金迷FM以小说和男女角色榜单区分艺术判断、私人偏爱、童年记忆与重读变化，并保留对所爱作品和人物的明确限定。
 - [039 文无第一，武无第二|漫谈金庸宇宙top3系列](sources/ljyhr2aom69hckwuywi4czovrhcu.md) — 纸醉金迷FM以角色好恶、武功、师父、反派与悲剧排行拆解道德责任、情境化实力、教学质量和受限能动性。
@@ -4614,7 +4615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
-- [《连城诀》 / A Deadly Secret](entities/LianChengJue.md) — 金庸小说，以脆弱信任、极端处境中的人性、伪善与公开作恶的对照，以及狄云和水笙的保护性退隐为核心。
+- [《连城诀》 / A Deadly Secret](entities/LianChengJue.md) — 金庸小说，以受限爱情、投射性猜疑、贪欲之毒、祛魅式成长与保护性退隐呈现黑暗江湖中的道德韧性。
 - [《大沙漠》 / The Great Desert](entities/GreatDesertGuLong.md) — 古龙楚留香小说，以沙漠冒险检验不杀原则、互补友情、直接爱情与反转的因果代价。
 - [胡铁花 / Hu Tiehua](entities/HuTiehua.md) — 以热烈、冲动、提问和明知不敌仍行动为楚留香三人组提供行动与情感温度的伙伴。
 - [姬冰雁 / Ji Bingyan](entities/JiBingyan.md) — 以物资准备、判断、守夜与承担责任表达“冷而不薄”的楚留香伙伴。
@@ -18025,6 +18026,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Salk Institute](entities/SalkInstitute.md) — Research institution represented through Terry Sejnowski's computational neurobiology work.
 
 ## Concepts
+- [Greed as Moral Poison / 贪欲作为道德之毒](concepts/GreedAsMoralPoison.md) — 财富欲望先扭曲对他人的判断与合作，再由字面的毒物外化其自毁后果，同时区分寓言力量与现实因果。
+- [Moral Learning Through Disillusionment / 祛魅中的道德学习](concepts/MoralLearningThroughDisillusionment.md) — 在认识欺骗、学习策略和自我保护的同时，不把犬儒、残酷或普遍猜疑当作成熟终点。
 - [Contextual Martial-Arts Comparison / 情境化武功比较](concepts/ContextualMartialArtsComparison.md) — 通过速度、内力、适配、前提、代价、使用者与对局条件比较虚构武功，而不预设唯一总榜。
 - [Naval Officer Formation](concepts/NavalOfficerFormation.md) — Patronage-shaped process joining technical education, practical examination, mentorship, responsibility, logistics, and hazardous service in the making of naval commanders.
 - [Principled Non-Killing Under Risk / 风险中的不杀原则](concepts/PrincipledNonKillingUnderRisk.md) — 在真实致命压力下保持不杀才构成原则，同时要求正视同伴风险、控制敌人与外部救场的责任。

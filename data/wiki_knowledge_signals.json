@@ -108889,6 +108889,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
+    "GreedAsMoralPoison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh2xjIU48GIsbOA7EsABPAeJXiSK [lh2xjIU48GIsbOA7EsABPAeJXiSK].md",
+          "key": "lh2xjiu48gisboa7esabpaejxisk",
+          "show": "纸醉金迷FM",
+          "title": "036 金庸武侠世界里的异类：《连城诀》",
+          "url": "/wiki/sources/lh2xjiu48gisboa7esabpaejxisk/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/greedasmoralpoison/"
+    },
     "GreedDrivenNarrativeTrap": {
       "episode_count": 2,
       "show_count": 1,
@@ -155418,9 +155434,9 @@
       "url": "/wiki/entities/lizicheng/"
     },
     "LianChengJue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqrLBS47RuozCIVWKh0LtyYDbYsn [lqrLBS47RuozCIVWKh0LtyYDbYsn].md",
@@ -155428,6 +155444,13 @@
           "show": "纸醉金迷FM",
           "title": "037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》",
           "url": "/wiki/sources/lqrlbs47ruozcivwkh0ltyydbysn/"
+        },
+        {
+          "episode_file": "lh2xjIU48GIsbOA7EsABPAeJXiSK [lh2xjIU48GIsbOA7EsABPAeJXiSK].md",
+          "key": "lh2xjiu48gisboa7esabpaejxisk",
+          "show": "纸醉金迷FM",
+          "title": "036 金庸武侠世界里的异类：《连城诀》",
+          "url": "/wiki/sources/lh2xjiu48gisboa7esabpaejxisk/"
         }
       ],
       "updated": "2026-10-12",
@@ -184082,6 +184105,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/moraleducationbeforepunishment/"
+    },
+    "MoralLearningThroughDisillusionment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh2xjIU48GIsbOA7EsABPAeJXiSK [lh2xjIU48GIsbOA7EsABPAeJXiSK].md",
+          "key": "lh2xjiu48gisboa7esabpaejxisk",
+          "show": "纸醉金迷FM",
+          "title": "036 金庸武侠世界里的异类：《连城诀》",
+          "url": "/wiki/sources/lh2xjiu48gisboa7esabpaejxisk/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/morallearningthroughdisillusionment/"
     },
     "MoralMentorshipTalentCultivation": {
       "episode_count": 2,

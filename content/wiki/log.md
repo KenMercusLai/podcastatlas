@@ -36176,3 +36176,11 @@ Added source `lqrlbs47ruozcivwkh0ltyydbysn`; created [[LianChengJue|《连城诀
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 036 金庸武侠世界里的异类：《连城诀》
+
+Added source `lh2xjiu48gisboa7esabpaejxisk`; created [[GreedAsMoralPoison|贪欲作为道德之毒]] and [[MoralLearningThroughDisillusionment|祛魅中的道德学习]]; and resynthesized [[LianChengJue|《连城诀》]] from its complete preserved source inventory before appending the new source once. Core synthesis: 戚芳's choices are shaped by designed evidence, constrained agency, continuing care, and mixed attachment rather than a single moral defect; the betraying disciples project their own conduct into an escalating chain of mistrust; treasure poisons judgment before the literal toxin acts; and 丁典 helps 狄云 learn strategy and recognize evil without making revenge, domination, or cynicism the measure of growth. No settled contradiction was adopted. 戚芳's unshown marriage, 梅念笙's motives, character psychology, creative chronology, literary influence, and the poisoned-treasure crowd behavior remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel and concepts capture the durable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,530 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

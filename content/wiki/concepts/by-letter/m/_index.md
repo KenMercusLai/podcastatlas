@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10432
+wiki_total_pages: 10434
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1457,6 +1457,9 @@ wiki_pages:
   - key: "MoralHazardContagionTradeoff"
     title: "Moral Hazard Contagion Tradeoff"
     url: "/wiki/concepts/moralhazardcontagiontradeoff/"
+  - key: "MoralLearningThroughDisillusionment"
+    title: "Moral Learning Through Disillusionment / 祛魅中的道德学习"
+    url: "/wiki/concepts/morallearningthroughdisillusionment/"
   - key: "MoralMentorshipTalentCultivation"
     title: "Moral Mentorship as Talent Cultivation / 人师型人才成全"
     url: "/wiki/concepts/moralmentorshiptalentcultivation/"
