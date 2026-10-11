@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10382
+wiki_total_pages: 10385
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "GuiltBasedRelationalControl"
     title: "Guilt-Based Relational Control / 内疚式关系控制"
     url: "/wiki/concepts/guiltbasedrelationalcontrol/"
+  - key: "GuiltDistortedEmpathy"
+    title: "Guilt-Distorted Empathy / 内疚扭曲的共情"
+    url: "/wiki/concepts/guiltdistortedempathy/"
   - key: "GuizhouCuisineFlavorTransfer"
     title: "Guizhou Cuisine Flavor Transfer / 贵州酸辣风味迁移"
     url: "/wiki/concepts/guizhoucuisineflavortransfer/"

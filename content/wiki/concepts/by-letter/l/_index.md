@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10382
+wiki_total_pages: 10385
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "LotteryGamblingPlatformFraud"
     title: "Lottery Gambling Platform Fraud"
     url: "/wiki/concepts/lotterygamblingplatformfraud/"
+  - key: "LoveAsConquestLogic"
+    title: "Love as Conquest Logic / 爱情的征服逻辑"
+    url: "/wiki/concepts/loveasconquestlogic/"
   - key: "LoveAsContainingFrame"
     title: "Love As Containing Frame / 爱作为包裹性框架"
     url: "/wiki/concepts/loveascontainingframe/"

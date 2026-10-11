@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠](sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp.md) — 纸醉金迷FM从李寻欢的牺牲与愧疚切入，讨论龙啸云、林诗音、龙小云和林仙儿之间的忠义、控制、家庭创伤与迟到悔悟。
 - [EP 18: Insurance Transformed: An Actuary's take on AI](sources/ep-18-insurance-transformed-an-actuarys-take-on-ai.md) — Data Science With Sam interview with Stephen Maddis on risk pooling, actuarial workflow inversion, personalization limits, micro-duration coverage, and operational AI efficiency.
 - [VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！](sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl.md) — 这病说来话长多学科讨论便秘定义、功能与器质性分类、生活方式优先处理、盆底协调、产品边界和危险信号。
 - [530. Hitler's War on Poland: Countdown to Armageddon (Part 1)](sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342.md) — The Rest Is History episode on Prague's occupation, Poland's refusal of client status, the collapse of appeasement, the Anglo-French guarantee, and the road to Fall Weiss.
@@ -4563,6 +4564,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [《多情剑客无情剑》 / Sentimental Swordsman, Ruthless Sword](entities/SentimentalSwordsmanRuthlessSword.md) — 古龙小说，以被操控的选择、忠义与爱情冲突、内疚和家庭后果构成关系悲剧。
+- [李寻欢 / Li Xunhuan](entities/LiXunhuan.md) — 小李飞刀英雄，武力近乎无敌，却因自我牺牲、愧疚和过度共情反复放弃自我保护。
+- [龙啸云（古龙人物） / Long Xiaoyun (sworn brother)](entities/LongXiaoyunElderGuLong.md) — 李寻欢的结义兄弟，在真心、感激、爱情、屈辱与嫉妒之间逐渐走向背叛。
+- [林诗音 / Lin Shiyin](entities/LinShiyin.md) — 在欺骗下仍保有选择、又以沉默和家庭心软参与悲剧延续的古龙人物。
+- [龙小云（古龙人物） / Long Xiaoyun (son)](entities/LongXiaoyunYoungerGuLong.md) — 在天性、溺爱、包庇和失衡婚姻共同作用下成长的下一代人物。
+- [林仙儿 / Lin Xian'er](entities/LinXianer.md) — 以男性的臣服与毁灭确认自身价值、又恐惧互惠脆弱性的古龙人物。
 - [Stephen Maddis](entities/StephenMaddis.md) — Actuary arguing that AI should invert actuarial time allocation while preserving pooling, judgment, and regulatory trade-offs.
 - [任新 / Ren Xin (Imaging Guest)](entities/RenXinImagingDoctor.md) — Source-scoped imaging guest connecting constipation assessment with external pelvic compression and qualified device claims.
 - [Occupation of Czechoslovakia (1939)](entities/OccupationOfCzechoslovakia1939.md) — Nazi destruction of the remaining Czech state that turned revisionist claims into open imperial occupation and discredited further accommodation.
@@ -17903,6 +17910,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Self-Sacrifice as Relational Control / 以自我牺牲替他人做主](concepts/SelfSacrificeAsRelationalControl.md) — 区分个人愿意承受的代价与借牺牲之名操控他人重大选择的权力。
+- [Guilt-Distorted Empathy / 内疚扭曲的共情](concepts/GuiltDistortedEmpathy.md) — 当因果理解与过度自责结合，使边界和阻止持续伤害变得困难。
+- [Love as Conquest Logic / 爱情的征服逻辑](concepts/LoveAsConquestLogic.md) — 把被爱、服从和摧毁他人当作价值证明，并把自己的爱体验为失控与失败。
 - [Actuarial Workflow Inversion](concepts/ActuarialWorkflowInversion.md) — Work-design goal that shifts actuarial time from data preparation toward interpretation, exploration, and accountable judgment.
 - [Insurance Personalization Limit](concepts/InsurancePersonalizationLimit.md) — Economic, competitive, pooling, fairness, and regulatory boundary on ever finer individual risk pricing.
 - [Micro-Duration Insurance](concepts/MicroDurationInsurance.md) — Short, exposure-specific coverage whose convenience and weak carrier relationship contrast with long-duration insurance trust.

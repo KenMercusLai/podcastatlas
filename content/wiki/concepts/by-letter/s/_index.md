@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10382
+wiki_total_pages: 10385
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "SelfRecognitionHorror"
     title: "Self-Recognition Horror"
     url: "/wiki/concepts/selfrecognitionhorror/"
+  - key: "SelfSacrificeAsRelationalControl"
+    title: "Self-Sacrifice as Relational Control / 以自我牺牲替他人做主"
+    url: "/wiki/concepts/selfsacrificeasrelationalcontrol/"
   - key: "SelfSimilarityInIntimacy"
     title: "Self-Similarity In Intimacy / 亲密关系中的自我相似"
     url: "/wiki/concepts/selfsimilarityinintimacy/"

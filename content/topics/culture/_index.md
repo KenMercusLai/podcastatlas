@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3422
+topic_total_pages: 3427
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1561,6 +1561,9 @@ topic_concepts:
   - key: "GuangxiCuisineLegibility"
     title: "Guangxi Cuisine Legibility / 广西菜可识别化"
     url: "/wiki/concepts/guangxicuisinelegibility/"
+  - key: "GuiltDistortedEmpathy"
+    title: "Guilt-Distorted Empathy / 内疚扭曲的共情"
+    url: "/wiki/concepts/guiltdistortedempathy/"
   - key: "HealthcareMediaAITrust"
     title: "Healthcare Media AI Trust"
     url: "/wiki/concepts/healthcaremediaaitrust/"
@@ -1984,6 +1987,9 @@ topic_concepts:
   - key: "LostWorldFiction"
     title: "Lost-World Fiction"
     url: "/wiki/concepts/lostworldfiction/"
+  - key: "LoveAsConquestLogic"
+    title: "Love as Conquest Logic / 爱情的征服逻辑"
+    url: "/wiki/concepts/loveasconquestlogic/"
   - key: "LoveAsContainingFrame"
     title: "Love As Containing Frame / 爱作为包裹性框架"
     url: "/wiki/concepts/loveascontainingframe/"
@@ -2893,6 +2899,9 @@ topic_concepts:
   - key: "SelfRecognitionHorror"
     title: "Self-Recognition Horror"
     url: "/wiki/concepts/selfrecognitionhorror/"
+  - key: "SelfSacrificeAsRelationalControl"
+    title: "Self-Sacrifice as Relational Control / 以自我牺牲替他人做主"
+    url: "/wiki/concepts/selfsacrificeasrelationalcontrol/"
   - key: "SeminaryPriestMission"
     title: "Seminary Priest Mission"
     url: "/wiki/concepts/seminarypriestmission/"
@@ -6914,6 +6923,9 @@ topic_entities:
   - key: "GaixiaSong"
     title: "《垓下歌》 / Gaixia Song"
     url: "/wiki/entities/gaixiasong/"
+  - key: "SentimentalSwordsmanRuthlessSword"
+    title: "《多情剑客无情剑》 / Sentimental Swordsman, Ruthless Sword"
+    url: "/wiki/entities/sentimentalswordsmanruthlesssword/"
   - key: "TheNightingaleAndTheRose"
     title: "《夜莺与玫瑰》 / The Nightingale and the Rose"
     url: "/wiki/entities/thenightingaleandtherose/"
@@ -8847,6 +8859,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp"
+    title: "045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠"
+    url: "/wiki/sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp/"
   - key: "lkwyqt4w5g-uet_vckex3f33nu8n"
     title: "048 人生识字忧患始：金庸《侠客行》到底想表达什么？"
     url: "/wiki/sources/lkwyqt4w5g-uet_vckex3f33nu8n/"

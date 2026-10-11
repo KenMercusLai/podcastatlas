@@ -19,6 +19,10 @@
     "title": "04.切尔诺贝利的午夜： “我要进监狱了。”",
     "url": "/wiki/sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843/"
   },
+  "045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp": {
+    "title": "045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠",
+    "url": "/wiki/sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp/"
+  },
   "049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p": {
     "title": "049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？",
     "url": "/wiki/sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p/"
@@ -38559,6 +38563,10 @@
     "title": "Guilt-Based Relational Control / 内疚式关系控制",
     "url": "/wiki/concepts/guiltbasedrelationalcontrol/"
   },
+  "GuiltDistortedEmpathy": {
+    "title": "Guilt-Distorted Empathy / 内疚扭曲的共情",
+    "url": "/wiki/concepts/guiltdistortedempathy/"
+  },
   "GuiyangCommanderyLateHan": {
     "title": "桂阳郡 / Guiyang Commandery (late Han)",
     "url": "/wiki/entities/guiyangcommanderylatehan/"
@@ -52143,6 +52151,10 @@
     "title": "李寻 / Li Xun (Western Han)",
     "url": "/wiki/entities/lixunwesternhan/"
   },
+  "LiXunhuan": {
+    "title": "李寻欢 / Li Xunhuan",
+    "url": "/wiki/entities/lixunhuan/"
+  },
   "LiYanhong": {
     "title": "Li Yanhong",
     "url": "/wiki/entities/liyanhong/"
@@ -52687,6 +52699,10 @@
     "title": "Lin Junyang",
     "url": "/wiki/entities/linjunyang/"
   },
+  "LinShiyin": {
+    "title": "林诗音 / Lin Shiyin",
+    "url": "/wiki/entities/linshiyin/"
+  },
   "LinTaipingHappyHeroes": {
     "title": "林太平（《欢乐英雄》） / Lin Taiping",
     "url": "/wiki/entities/lintaipinghappyheroes/"
@@ -52694,6 +52710,10 @@
   "LinWei": {
     "title": "Lin Wei",
     "url": "/wiki/entities/linwei/"
+  },
+  "LinXianer": {
+    "title": "林仙儿 / Lin Xian'er",
+    "url": "/wiki/entities/linxianer/"
   },
   "LinXiangru": {
     "title": "蔺相如 / Lin Xiangru",
@@ -54351,6 +54371,14 @@
     "title": "Long Video Network Effects",
     "url": "/wiki/concepts/longvideonetworkeffects/"
   },
+  "LongXiaoyunElderGuLong": {
+    "title": "龙啸云（古龙人物） / Long Xiaoyun (sworn brother)",
+    "url": "/wiki/entities/longxiaoyuneldergulong/"
+  },
+  "LongXiaoyunYoungerGuLong": {
+    "title": "龙小云（古龙人物） / Long Xiaoyun (son)",
+    "url": "/wiki/entities/longxiaoyunyoungergulong/"
+  },
   "Longbridge": {
     "title": "Longbridge",
     "url": "/wiki/entities/longbridge/"
@@ -54678,6 +54706,10 @@
   "Lovart": {
     "title": "Lovart",
     "url": "/wiki/entities/lovart/"
+  },
+  "LoveAsConquestLogic": {
+    "title": "Love as Conquest Logic / 爱情的征服逻辑",
+    "url": "/wiki/concepts/loveasconquestlogic/"
   },
   "LoveAsContainingFrame": {
     "title": "Love As Containing Frame / 爱作为包裹性框架",
@@ -77367,6 +77399,10 @@
     "title": "Self-Recognition Horror",
     "url": "/wiki/concepts/selfrecognitionhorror/"
   },
+  "SelfSacrificeAsRelationalControl": {
+    "title": "Self-Sacrifice as Relational Control / 以自我牺牲替他人做主",
+    "url": "/wiki/concepts/selfsacrificeasrelationalcontrol/"
+  },
   "SelfSimilarityInIntimacy": {
     "title": "Self-Similarity In Intimacy / 亲密关系中的自我相似",
     "url": "/wiki/concepts/selfsimilarityinintimacy/"
@@ -77498,6 +77534,10 @@
   "SentessaPharmaceuticals": {
     "title": "Sentessa Pharmaceuticals",
     "url": "/wiki/entities/sentessapharmaceuticals/"
+  },
+  "SentimentalSwordsmanRuthlessSword": {
+    "title": "《多情剑客无情剑》 / Sentimental Swordsman, Ruthless Sword",
+    "url": "/wiki/entities/sentimentalswordsmanruthlesssword/"
   },
   "SentinelOne": {
     "title": "SentinelOne",

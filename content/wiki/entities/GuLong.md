@@ -10,6 +10,7 @@ sources:
   - 099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz
   - 093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65
   - 056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h
+  - 045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -18,7 +19,7 @@ last_updated: 2026-10-11
 
 ## Overview
 
-古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]], and [[HappyHeroesGuLong|《欢乐英雄》]].
+古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]], [[HappyHeroesGuLong|《欢乐英雄》]], and [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]].
 
 ## Current Profile
 
@@ -34,6 +35,8 @@ The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary
 
 [[HappyHeroesGuLong|《欢乐英雄》]] broadens the profile from mystery and solitary damaged heroes to sitcom-like ensemble life. 富贵山庄 becomes a home through [[FriendshipAsSharedHome|collective belonging]], the “四凶追王动” arc joins suspense to injury and mutual support, and [[ComicPovertyConstraintGap|comic poverty]] supplies tone without consistently forcing bottom-line choices. The hosts' split response to Gu Long's friendship rhetoric also clarifies a recurring tension: direct interpretation can give readers formative emotional language while still crowding out feeling already created by scene and action.
 
+The tragic relationship system in [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]] broadens this profile. [[LiXunhuan|李寻欢]]'s near-infallible martial power is counterweighted by compassion, guilt, and self-neglect; his attempt to repay [[LongXiaoyunElderGuLong|龙啸云]] by deceiving [[LinShiyin|林诗音]] turns noble sacrifice into control over another person's choice. Long's gratitude and humiliation, Lin's constrained agency and softness, [[LongXiaoyunYoungerGuLong|龙小云]]'s family formation, and [[LinXianer|林仙儿]]'s conquest logic show how authentic feeling can coexist with destructive conduct. The source's strongest critical method is again to preserve complexity without making explanation into acquittal or later sacrifice into retroactive repair.
+
 ## Key Characteristics
 
 - Diverges from encyclopedic wuxia through suspense, deduction, atmosphere, and mystery structure.
@@ -42,7 +45,7 @@ The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary
 - Uses confidence, habit, and involuntary response as both sources of agency and routes into deception or system disruption.
 - Uses poetic compression, aphorism, and direct explanation to make emotion legible, with corresponding risks of repetition and overstatement.
 - Favors thematic reversals whose force can exceed the plausibility or consistency of their plot setup.
-- Moves between solitary mystery heroes and ensembles whose ordinary loyalty, secrets, and shared danger redefine heroic life.
+- Moves among solitary mystery heroes, domestic ensembles, and tragic relationship systems whose loyalty, guilt, possession, secrets, and family consequences redefine heroic life.
 
 ## Evidence
 
@@ -83,15 +86,22 @@ The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary
 - [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] preserves disagreement between the formative power of Gu Long's friendship aphorisms and the artistic cost of explaining emotion too fully.
 - [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] distinguishes the costly “四凶追王动” suspense arc from recurring poverty that rarely constrains the friends' deepest choices.
 
+### Relational tragedy and conflicted motive
+
+- [[045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp]] reads Li Xunhuan's self-sacrifice as both genuinely costly and controlling because it depends on deceiving Lin Shiyin.
+- [[045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp]] holds Long Xiaoyun's love and humiliation together with betrayal, and treats his final rescue attempt as remorse without complete redemption.
+- [[045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp]] contrasts Li Xunhuan's guilt-driven self-denial with Lin Xianer's use of conquest and destruction to defend against relational vulnerability.
+
 ## Qualifications
 
-The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; six focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, 《欢乐英雄》's martial rankings and adaptation history, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, and fictional breathing claims are not physiology.
+The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; seven focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, 《欢乐英雄》's martial rankings and adaptation history, 李寻欢 and 龙啸云's motives, 林仙儿's insecurity, 龙小云's development, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, and fictional breathing claims are not physiology.
 
 ## What Changed
 
-- Broadened Gu Long's profile from suspense-centered and solitary heroes to ensemble domestic comedy.
-- Added friendship as shared home and qualified the causal weight of comic poverty.
-- Distinguished the formative emotional power of direct aphorism from its risk of over-explaining enacted feeling.
+- Added relational tragedy as a second way Gu Long constrains martial power through psychology and choice.
+- Distinguished genuinely costly self-sacrifice from authority over another person's intimate future.
+- Added guilt, humiliation, indulgence, and conquest as interacting mechanisms across one family system.
+- Preserved late remorse and sympathetic explanation without treating either as acquittal.
 
 ## Relationships
 
@@ -104,6 +114,11 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] - novel joining apparent possession, coordinated marriage escape, assassin mystery, and unequal combat.
 - [[PaintingThrushGuLong|《画眉鸟》]] - novel joining hostage leverage, formation disruption, poisoning belief, and tragic attachment.
 - [[HappyHeroesGuLong|《欢乐英雄》]] - ensemble novel joining shared home, secrets, comedy, suspense, and explicit friendship rhetoric.
+- [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]] - tragic novel joining near-infallible martial power to guilt, manipulated choice, resentment, and damaged attachment.
+- [[LiXunhuan|李寻欢]] - hero whose compassion and guilt become both moral strength and self-destructive vulnerability.
+- [[SelfSacrificeAsRelationalControl]] - ethical distinction exposed by the decision to deceive Lin Shiyin in the name of sacrifice.
+- [[GuiltDistortedEmpathy]] - account of causal understanding turning into weak boundaries and continuing harm.
+- [[LoveAsConquestLogic]] - account of Lin Xianer's attempt to secure worth through submission and destruction.
 - [[ChuLiuxiang|楚留香]] - investigator who combines rational reconstruction, discretion, bluffing, and strategic reframing.
 - [[ShuiMuYinJi|水母阴姬]] - final opponent who joins overwhelming force to attachment and mercy.
 - [[XueYirenGuLong|薛衣人]] - master swordsman whose family burden gives the new source its richest characterization.

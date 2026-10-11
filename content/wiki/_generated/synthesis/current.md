@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-10
-as_of_overview_commit: 0b8664be80ebab2757b8fd60f3e2e1806fd25819
+last_updated: 2026-10-11
+as_of_overview_commit: 8d7b0444c6ad56523fbef06932a8d24f690a06b3
 summary: "Across domains, durable value depends on evidence, institutional function, implementation, accountability, context, and explicit limits."
-episode_count: 4337
-source_count: 4337
+episode_count: 4481
+source_count: 4481
 paragraph_count: 801
 topic_count: 9
 ---
@@ -20,7 +20,7 @@ topic_count: 9
 - [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31|The How I Built This anniversary]] adds that [[FounderResilience]] and [[RejectionTolerancePractice]] create business value only when repeated attempts keep producing learning; [[CapitalAfterRepeatableGrowth]] and [[SustainableGrowthPace]] require financing to fit the company founders actually want, while [[DeliberateLuckSurface]], [[FounderHealthDebt]], and [[FounderIdentityDiversification]] keep timing, human cost, and survivor bias inside the market judgment.
 - [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161]] adds that durable podcast form joins [[PodcastProductionWorkflow]] to [[IndependentPodcastSustainability]]: preparation, complementary host roles, live follow-up, reciprocal accountability, listener connection, bounded commerce, and a [[PodcastPlatformPortfolio]] together shape whether an open-topic show can continue and remain discoverable.
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression.
-- [[3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt|Weird History episode 3]] adds [[MonarchicalTitulatureAndAddress]] and [[InstitutionalTitleTranslation]]: sovereign title, address, ruler self-reference, and [[EraNameSystem|chronological naming]] compress claims about authority, succession, ritual, territory, gendered role, and legitimacy, so comparison should follow institutional function rather than a universal rank vocabulary.
+- [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome.
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]].
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
@@ -29,7 +29,7 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value couples compute, power, data, routing, workflow integration, governance, verification, and human judgment; efficiency changes competition without removing infrastructure or control needs.
+AI value couples compute, power, memory, data, routing, workflow integration, governance, verification, and human judgment; efficiency changes competition without removing infrastructure, evidence, or control needs.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
