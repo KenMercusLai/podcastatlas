@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [039 文无第一，武无第二|漫谈金庸宇宙top3系列](sources/ljyhr2aom69hckwuywi4czovrhcu.md) — 纸醉金迷FM以角色好恶、武功、师父、反派与悲剧排行拆解道德责任、情境化实力、教学质量和受限能动性。
 - [Essentials: How Your Brain Works & Changes](sources/essentials-how-your-brain-works-changes-scim5664740932.md) — Condensed Huberman Lab episode on whole-body nervous-system loops, reflexive and deliberate control, adult neuroplasticity, sleep or deep-rest consolidation, and flexible 90-minute focus cycles.
 - [514. Nelson: Hero of the Seas (Part 1)](sources/514-nelson-hero-of-the-seas-part-1-glt4893527428.md) — The Rest Is History on Nelson's Norfolk upbringing, patronage-assisted naval entry, practical training, early voyages, Caribbean service, marriage, and return to war in 1793.
 - [040 趣话古龙《楚留香传奇：大沙漠》|雁蝶为双翼，花香满人间](sources/040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b.md) — 纸醉金迷FM以不杀原则、互补友情、直接真心与石观音的自恋权力重读《大沙漠》，同时质疑反转、救场与环境细节的因果支撑。
@@ -18021,6 +18022,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Salk Institute](entities/SalkInstitute.md) — Research institution represented through Terry Sejnowski's computational neurobiology work.
 
 ## Concepts
+- [Contextual Martial-Arts Comparison / 情境化武功比较](concepts/ContextualMartialArtsComparison.md) — 通过速度、内力、适配、前提、代价、使用者与对局条件比较虚构武功，而不预设唯一总榜。
 - [Naval Officer Formation](concepts/NavalOfficerFormation.md) — Patronage-shaped process joining technical education, practical examination, mentorship, responsibility, logistics, and hazardous service in the making of naval commanders.
 - [Principled Non-Killing Under Risk / 风险中的不杀原则](concepts/PrincipledNonKillingUnderRisk.md) — 在真实致命压力下保持不杀才构成原则，同时要求正视同伴风险、控制敌人与外部救场的责任。
 - [Complementary Friendship Roles / 互补型友情角色](concepts/ComplementaryFriendshipRoles.md) — 朋友以行动、准备、情感与协调等不同方式贡献，而不被要求用同一种性格证明忠诚。

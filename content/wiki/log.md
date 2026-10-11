@@ -36153,3 +36153,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | 039 文无第一，武无第二|漫谈金庸宇宙top3系列
+
+Added source `ljyhr2aom69hckwuywi4czovrhcu`; created [[ContextualMartialArtsComparison|情境化武功比较]]; and resynthesized [[CriticalJudgmentPersonalPreference|批评判断与个人偏好的区分]], [[MultidimensionalMentorQuality|多维良师评价]], and [[CompassionateCharacterInterpretation|悲悯式角色理解]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: rankings are useful when their criteria stay explicit; fictional martial strength depends on speed, power, versatility, prerequisites, matchup, practitioner, and cost; ideal mentorship combines expertise with adaptive care and practice design; and compelling villains can retain love, loyalty, rules, or intelligible pressure without becoming good, acquitted, or redeemed. No settled contradiction was adopted. Yang Xiao and Ji Xiaofu, motives, villain boundaries, combat rankings, cross-novel combinations, and relative suffering remain contested, interpretive, or source-scoped. Broad [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and individual-character profiles were kept closed because the focused source and concepts capture the reusable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,527 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

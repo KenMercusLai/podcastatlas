@@ -4,6 +4,7 @@ type: concept
 tags: [education, mentorship, pedagogy, care, wuxia]
 sources:
   - 076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0
+  - ljyhr2aom69hckwuywi4czovrhcu
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The framework begins by refusing the most common shortcut: being excellent at a 
 
 Care, steadiness, reputation, and networks matter because education is not only information transfer. A mentor can protect a learner, create belonging, lend social credibility, open access to other teachers, or damage learning through jealousy, volatility, factional prejudice, concealment, and exploitation. The six dimensions should therefore remain separate enough to reveal tradeoffs rather than collapse into a single popularity or power score.
 
+The [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] independently converges on this separation through desired teachers rather than a full scorecard. Zhang Sanfeng is valued for warmth, humility, medical effort, and instruction adapted to different disciples; the divine condor is valued for rapid practice design, environmental training, and material support. The contrast reinforces that care and effective learning design can appear in different forms, while joking selections such as Kangxi also reveal that “ideal teacher” may partly encode a learner's wish to avoid hardship or institutional control.
+
 ## Key Claims
 
 - Domain mastery and teaching ability are related but non-equivalent capacities.
@@ -26,6 +29,7 @@ Care, steadiness, reputation, and networks matter because education is not only 
 - Reputation and networks can widen opportunity, but prestige cannot compensate for poor teaching or harm.
 - A mentor may be valuable through long companionship, brief conceptual reframing, or well-designed practice rather than one universal style.
 - Good teachers need not demand exclusive loyalty and can welcome instruction that better serves the learner.
+- A learner's stated ideal mentor may reveal desired care, autonomy, access, or low effort as much as a judgment of pedagogical quality.
 
 ## Evidence
 
@@ -35,15 +39,17 @@ Care, steadiness, reputation, and networks matter because education is not only 
 - Brief conceptual intervention: [[076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0]] treats Feng Qingyang's reframing of living use versus fixed moves as a high-value turning point.
 - Practice design: [[076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0]] uses the divine condor's food, weapon, environment, and repeated practice to show that teaching can occur through training design without verbal explanation.
 - Non-exclusive care: [[076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0]] praises the Jiangnan Seven Freaks for welcoming Ma Yu and Hong Qigong's beneficial instruction of Guo Jing.
+- Convergent teacher choices: [[ljyhr2aom69hckwuywi4czovrhcu]] values Zhang Sanfeng's warmth and differentiated instruction while treating the divine condor's food, environment, and accelerated practice as a distinct mentor model.
+- Preference disclosure: [[ljyhr2aom69hckwuywi4czovrhcu]] includes choices motivated by affection, freedom from sect rules, or avoidance of hard training, showing that desired mentorship and teaching quality overlap without being identical.
 
 ## Counterevidence & Qualifications
 
-The six-part framework comes from an entertainment-oriented literary discussion, not a validated teacher-evaluation instrument. Reputation and network access may reproduce hierarchy as easily as they expand opportunity, and affection can become control when boundaries are weak. Character judgments, martial rankings, teaching speed, and inferred motives remain source-scoped. The framework is most useful as a checklist that prevents expertise, prestige, or warmth from standing in for the whole teaching relationship.
+The six-part framework and follow-up preferences come from entertainment-oriented literary discussions, not a validated teacher-evaluation instrument. Reputation and network access may reproduce hierarchy as easily as they expand opportunity, and affection can become control when boundaries are weak. Desired teachers can reflect fantasy benefits, personal affection, or avoidance of effort rather than educational outcomes. Character judgments, martial rankings, teaching speed, and inferred motives remain source-scoped. The framework is most useful as a checklist that prevents expertise, prestige, warmth, or preference from standing in for the whole teaching relationship.
 
 ## What Changed
 
-- Created the concept from the episode's six-dimensional teacher comparison.
-- Preserved distinct mentor forms instead of forcing every good teacher into one comprehensive model.
+- Added a second roundtable's convergence on adaptive care and practice design through Zhang Sanfeng and the divine condor.
+- Distinguished an ideal-teacher preference from an assessment of teaching quality.
 
 ## Related Concepts
 
