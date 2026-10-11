@@ -4,7 +4,8 @@ type: concept
 tags: [second-world-war, britain, france, strategy, 1939]
 sources:
   - 620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581
-last_updated: 2026-10-10
+  - 532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ Allied caution grew from the First World War's losses, doubts about offensive su
 
 The lull therefore redistributed risk rather than suspending it. Allied leaders gained time but surrendered an early moment of German weakness; Hitler's urgency exposed conflict with his commanders but also pushed planning toward the 1940 campaign.
 
+The Polish evidence clarifies what this western restraint meant at its point of origin. Polish planning expected Britain and France to draw German forces west after the initial invasion. Their declarations of war generated hope in Warsaw, but the limited Saar advance stopped and withdrew while British aircraft dropped propaganda leaflets rather than attacking German military industry. The Phoney War was therefore already an active asymmetry: caution in the west coexisted with Poland's defeat, bombardment, partition, and occupation.
+
 ## Key Claims
 
 - Formal war did not immediately produce a sustained Allied western offensive.
@@ -30,6 +33,7 @@ The lull therefore redistributed risk rather than suspending it. Allied leaders 
 - The brief Saar advance showed that restraint was a choice made under uncertainty, not the absence of any military opportunity.
 - Hitler believed delay strengthened the Allies and deepened Germany's material exposure.
 - Repeated postponement created time for both western planning and internal German opposition without resolving either automatically.
+- Western restraint transferred immediate costs to Poland, whose defense plan depended on substantial Allied action.
 
 ## Evidence
 
@@ -37,14 +41,16 @@ The lull therefore redistributed risk rather than suspending it. Allied leaders 
 - Political strategy: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects British and French caution to blockade, morale, and hopes that German pressure might remove Hitler.
 - German urgency: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects Hitler's demand for speed to Allied rearmament, his health, gambler's confidence, and German economic weakness.
 - Contingent delay: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] shows weather and mud postponing Fall Gelb when command objections did not.
+- Polish consequence: [[532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391]] connects the limited Saar advance and British leaflet raids to unmet Polish expectations of relief and the campaign's collapse.
 
 ## Counterevidence & Qualifications
 
-“Phoney” describes the western operational lull, not an absence of war, occupation, persecution, naval conflict, blockade, or suffering in Poland. The source does not establish that a larger Saar offensive would have defeated Germany, that blockade alone could have ended Nazi rule, or that Allied caution was merely cowardice. Force comparisons, morale, commanders' motives, offensive feasibility, and counterfactual outcomes remain source-scoped.
+“Phoney” describes the western operational lull, not an absence of war, occupation, persecution, naval conflict, blockade, or suffering in Poland. The sources do not establish that a larger Saar offensive would have defeated Germany, that blockade alone could have ended Nazi rule, or that Allied caution was merely cowardice. Britain's and France's influence on delayed Polish mobilization and their failure to provide effective relief belong in the judgment, but do not erase Germany's and the Soviet Union's responsibility for invasion and partition. Force comparisons, morale, commanders' motives, offensive feasibility, and counterfactual outcomes remain source-scoped.
 
 ## What Changed
 
-- Created the concept as a mismatch between Allied attritional patience and Hitler's economic, ideological, and strategic urgency.
+- Added Poland's unmet expectation of western relief as the immediate cost of Allied restraint.
+- Clarified that the western lull coexisted with active invasion, bombardment, partition, and occupation.
 
 ## Related Concepts
 
@@ -53,3 +59,4 @@ The lull therefore redistributed risk rather than suspending it. Allied leaders 
 - [[Blitzkrieg]] - later operational breakthrough that ended the western lull.
 - [[FallOfFrance1940]] - campaign whose speed overturned Allied expectations of a longer war.
 - [[FirstWorldWar]] - trauma shaping Allied caution and fear of another costly offensive.
+- [[InvasionOfPoland1939]] - campaign whose outcome exposed the limits of declarations without effective relief.

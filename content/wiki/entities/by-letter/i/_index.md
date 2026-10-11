@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13261
+wiki_total_pages: 13263
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "Invader"
     title: "Invader"
     url: "/wiki/entities/invader/"
+  - key: "InvasionOfPoland1939"
+    title: "Invasion and Partition of Poland (1939)"
+    url: "/wiki/entities/invasionofpoland1939/"
   - key: "InvestmentCompanyInstitute"
     title: "Investment Company Institute / ICI"
     url: "/wiki/entities/investmentcompanyinstitute/"

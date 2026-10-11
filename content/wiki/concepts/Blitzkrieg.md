@@ -4,7 +4,8 @@ type: concept
 tags: [second-world-war, military-history, armored-warfare, operational-art]
 sources:
   - 621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512
-last_updated: 2026-10-10
+  - 532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ The concept also describes a psychological and command effect. Allied planning e
 
 This success was contingent rather than mechanically inevitable. The German columns were exposed, the Meuse crossing required concentrated support, and the plan worked partly because Allied opportunities and warnings were missed.
 
+The [[InvasionOfPoland1939|Polish campaign]] adds the concept's opening-war demonstration. Multi-directional attack, concentrated mobile columns, overwhelming early air commitment, favorable terrain, and Polish dependence on delayed western relief produced rapid operational collapse. Yet the campaign also establishes a boundary the operational label can obscure: bombing civilians, strafing refugees and medical transport, village burning, and ideological killing were not merely technical components of fast maneuver.
+
 ## Key Claims
 
 - Blitzkrieg's explanatory core is coordinated concentration and response speed, not tank numbers alone.
@@ -30,6 +33,7 @@ This success was contingent rather than mechanically inevitable. The German colu
 - The Channel drive converted local breakthrough into strategic encirclement.
 - Command paralysis and civilian congestion magnified the physical effects of German movement.
 - German exposure in the Ardennes makes the victory contingent rather than technologically predetermined.
+- Poland shows the pattern before France while separating operational speed from the invasion's terror and ideological violence.
 
 ## Evidence
 
@@ -37,14 +41,17 @@ This success was contingent rather than mechanically inevitable. The German colu
 - Operational concentration: [[621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512]] connects the Ardennes thrust, Luftwaffe attack, Meuse crossing, and Channel turn.
 - Allied response failure: [[621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512]] describes missed air attacks, complacent commanders, failed counterattacks, and the absence of a strategic reserve.
 - Contingency: [[621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512]] identifies the German traffic jam and river crossing as vulnerable points that were not effectively exploited.
+- Opening-war demonstration: [[532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391]] connects attack geometry, air dominance, concentrated movement, Polish mobilization limits, and failed western relief to rapid collapse.
 
 ## Counterevidence & Qualifications
 
-The source does not settle whether blitzkrieg was a formal doctrine, a retrospective label, or a pattern emerging from German institutions and campaign conditions. It does not fully compare French and German doctrine, intelligence, logistics, unit quality, morale, or command at every level. Force totals, movement rates, air-attack scale, stimulant use, and counterfactual claims remain source-scoped.
+The sources do not settle whether blitzkrieg was a formal doctrine, a retrospective label, or a pattern emerging from German institutions and campaign conditions. Poland and France differed in geography, force balance, mobilization, alliance expectations, and command problems, so rapid outcomes should not be flattened into one formula. The term must not aestheticize or explain away civilian terror and ideological violence. Force totals, movement rates, air-attack scale, stimulant use, and counterfactual claims remain source-scoped.
 
 ## What Changed
 
-- Created the concept around coordinated operational speed while qualifying the myth of uniform German mechanization and inevitable victory.
+- Extended the concept back to Poland as its first major wartime demonstration.
+- Separated fast operational coordination from the campaign's civilian terror and ideological killing.
+- Added mobilization and failed alliance relief to the conditions shaping Polish collapse.
 
 ## Related Concepts
 
@@ -52,3 +59,4 @@ The source does not settle whether blitzkrieg was a formal doctrine, a retrospec
 - [[NorwegianCampaign1940]] - preceding campaign that joined decisive German action to costly naval and airborne risk.
 - [[DunkirkEvacuation]] - emergency withdrawal produced by the Channel encirclement.
 - [[OperationBarbarossa]] - later campaign where rapid opening coordination did not solve distance, supply, attrition, or political-strategic overreach.
+- [[InvasionOfPoland1939]] - opening campaign combining rapid German advance with Soviet intervention and partition.

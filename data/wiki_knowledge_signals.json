@@ -29619,9 +29619,9 @@
       "url": "/wiki/entities/blindmountainfilm/"
     },
     "Blitzkrieg": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8711886512 [GLT8711886512].md",
@@ -29629,9 +29629,16 @@
           "show": "The Rest Is History",
           "title": "621. The Nazis at War: Blitzkrieg (Part 2)",
           "url": "/wiki/sources/621-the-nazis-at-war-blitzkrieg-part-2-glt8711886512/"
+        },
+        {
+          "episode_file": "GLT6308788391 [GLT6308788391].md",
+          "key": "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391",
+          "show": "The Rest Is History",
+          "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
+          "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/blitzkrieg/"
     },
     "BlockAndDissentHygiene": {
@@ -133467,6 +133474,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/intrusivethoughtmeaning/"
     },
+    "InvasionOfPoland1939": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6308788391 [GLT6308788391].md",
+          "key": "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391",
+          "show": "The Rest Is History",
+          "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
+          "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/invasionofpoland1939/"
+    },
     "InvasiveSpeciesManagement": {
       "episode_count": 4,
       "show_count": 2,
@@ -203683,9 +203706,9 @@
       "url": "/wiki/concepts/phoneinradiopublicmood/"
     },
     "PhoneyWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4381972581 [GLT4381972581].md",
@@ -203693,9 +203716,16 @@
           "show": "The Rest Is History",
           "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
           "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
+        },
+        {
+          "episode_file": "GLT6308788391 [GLT6308788391].md",
+          "key": "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391",
+          "show": "The Rest Is History",
+          "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
+          "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/phoneywar/"
     },
     "PhotoCaptureProvenance": {
@@ -205802,9 +205832,9 @@
       "url": "/wiki/entities/pokerobotics/"
     },
     "Poland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2590789810 [GLT2590789810].md",
@@ -205812,9 +205842,16 @@
           "show": "The Rest Is History",
           "title": "270: Poland: Copernicus, the Dragon and the Salt Mine",
           "url": "/wiki/sources/270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810/"
+        },
+        {
+          "episode_file": "GLT6308788391 [GLT6308788391].md",
+          "key": "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391",
+          "show": "The Rest Is History",
+          "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
+          "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/poland/"
     },
     "PolicyBoundAgenticLendingSupport": {
@@ -238597,6 +238634,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/siegeofvicksburg/"
     },
+    "SiegeOfWarsaw1939": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6308788391 [GLT6308788391].md",
+          "key": "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391",
+          "show": "The Rest Is History",
+          "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
+          "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/siegeofwarsaw1939/"
+    },
     "SigmundFreud": {
       "episode_count": 3,
       "show_count": 3,
@@ -256833,9 +256886,9 @@
       "url": "/wiki/entities/thehobbit/"
     },
     "TheHolocaust": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
@@ -256892,9 +256945,16 @@
           "show": "The Rest Is History",
           "title": "182. Operation Barbarossa",
           "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        },
+        {
+          "episode_file": "GLT6308788391 [GLT6308788391].md",
+          "key": "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391",
+          "show": "The Rest Is History",
+          "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
+          "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/theholocaust/"
     },
     "TheHungerGames": {

@@ -35732,3 +35732,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 532. Hitler's War on Poland: The Fall of Warsaw (Part 3)
+
+Added source `532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391`; created [[InvasionOfPoland1939|Invasion and Partition of Poland (1939)]] and [[SiegeOfWarsaw1939|Siege of Warsaw (1939)]]; and resynthesized [[Poland]], [[Blitzkrieg]], [[PhoneyWar|Phoney War]], and [[TheHolocaust|the Holocaust]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Poland's September 1939 defeat joined rapid German operations, failed western relief, Soviet intervention, partition, and immediate violence against civilians, elites, Jews, and Polish institutions; Warsaw's surrender followed urban defense, encirclement, and coercive bombardment; and the campaign marked a major wartime radicalization without making the later industrialized extermination system already complete. No settled contradiction was adopted. Force, casualty, execution, deportation, and killing-rate totals, remembered dialogue, private motives, and counterfactual Allied options remain episode-attributed or source-scoped. Broad [[AdolfHitler]], [[JosephStalin]], [[NaziGermany]], [[SovietUnion]], [[ReinhardHeydrich]], and [[TheRestIsHistory]] profiles were kept closed because the focused campaign, siege, country, operational, diplomatic, and genocide pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,474 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
