@@ -6,6 +6,7 @@ sources:
   - 099-gulong-bixia-zui-guiyi-de-gushi-quhua-chuliuxiang-chuanqi-zhi-jieshihuanhun-lnaeng6qmwpxek8e2n23k4simisz
   - 093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65
   - 040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b
+  - 031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-12
 ---
@@ -14,9 +15,13 @@ last_updated: 2026-10-12
 
 ## Overview
 
-楚留香 / Chu Liuxiang is [[GuLong|古龙]]'s wuxia investigator and the central problem-solver in [[GreatDesertGuLong|《大沙漠》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], and [[PaintingThrushGuLong|《画眉鸟》]]. The bounded episodes present him less as an overpowering fighter than as a reader of clues, motives, reactions, habits, system composition, and negotiable success conditions, with a non-killing rule that constrains how those solutions may end.
+楚留香 / Chu Liuxiang is [[GuLong|古龙]]'s wuxia investigator across [[BloodSeaFragranceGuLong|《血海飘香》]], [[GreatDesertGuLong|《大沙漠》]], [[PaintingThrushGuLong|《画眉鸟》]], and [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]]. The bounded episodes present him as a reader of clues, motives, reactions, habits, and system composition whose non-killing rule, love of life, discretion, and loyalty also generate unresolved duties to companions and victims.
 
 ## Current Profile
+
+《血海飘香》 supplies the opening ethical and emotional grammar. 楚留香 avoids killing, values friends, enjoys food and company, and urges [[HeiZhenzhuGuLong|黑珍珠]] to smile at a world whose people may be less hateful than they seem. These lines and acts ground his life-affirmation more effectively than narrator praise. His continuing bond with 苏蓉蓉、李红袖和宋甜儿 likewise operates through teamwork, touch, joking, and jealousy without a fixed romantic declaration.
+
+The same opening case exposes a limit to discretionary mercy. After [[WuhuaGuLong|无花]] dies, Chu's grief and respect for a former friend lead him to suppress the truth and protect the body. The hosts preserve two readings: death may end the practical pursuit of punishment, but it does not automatically cancel the claims of victims, relatives, or the Beggars' Gang to know who caused the harm. His compassion is therefore not identical to neutral justice.
 
 楚留香 moves between two cases. He dismantles the apparent possession of 左明珠 by tracing the substituted body, 施茵 and 叶盛兰's escape, shared information, learned technique, and medical collusion. Once the social purpose is clear, he does not expose the lovers mechanically; he treats investigation as compatible with mercy and offers to preserve their route out of family-controlled marriage.
 
@@ -28,15 +33,20 @@ In 《大沙漠》, his moral restraint and friendship ethic become explicit sub
 
 ## Key Characteristics
 
-- Combines investigation with a non-killing rule that remains binding under lethal pressure.
+- Grounds love of life in non-killing, friendship, conviviality, and specific dialogue.
 - Rejects the supernatural explanation without dismissing why its layered evidence initially persuades others.
 - Uses discretion after solving the lovers' deception rather than equating truth with compulsory exposure.
 - Changes the terms of unequal conflict instead of pretending to possess superior raw force.
 - Uses verbal pressure and bluffing as extensions of investigation and combat.
 - Alters team composition, coordinates differentiated friends, and exploits practiced habit to disrupt opponents.
-- Preserves dignity through discretion and restraint, while leaving open who bears the resulting risk.
+- Preserves dignity through discretion and restraint, while leaving open who bears the resulting risk or loses access to truth.
 
 ## Evidence
+
+### Life affirmation and moral conflict
+
+- [[031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps]] grounds his non-killing and love of life in dialogue, conviviality, friendship, and conduct.
+- [[031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps]] preserves disagreement over whether concealing 无花's identity is compassionate finality or a denial of victims' claim to truth.
 
 ### Investigation and discretion
 
@@ -65,23 +75,26 @@ In 《大沙漠》, his moral restraint and friendship ethic become explicit sub
 
 ## Qualifications
 
-This profile is bounded to three novels as discussed by three podcast episodes; it is not a comprehensive account of 楚留香 across the wider series. His motives, exact investigative sequences, martial limits, non-killing choices, friendships, and decisions to conceal or forgive wrongdoing are represented through the supplied summaries. Praise for duel and formation strategies is critical interpretation rather than an independently established ranking of fictional combat ability, and 《画眉鸟》's skin-breathing claim is not credible human physiology.
+This profile is bounded to four novels as discussed by four podcast episodes; it is not a comprehensive account of 楚留香 across the wider series. His motives, exact investigative sequences, martial limits, intimate relationships, non-killing choices, friendships, and decisions to conceal or forgive wrongdoing are represented through the supplied summaries. Praise for duel and formation strategies is critical interpretation rather than an independently established ranking of fictional combat ability, and 《画眉鸟》's skin-breathing claim is not credible human physiology.
 
 ## What Changed
 
-- Added non-killing as a binding principle whose cost can fall partly on companions.
-- Added acceptance of differentiated friendship roles and non-coercive response to reluctance.
-- Qualified verbal mastery by contrasting tactful consolation with direct romantic sincerity.
+- Added the opening novel's behavioral basis for his love of life and stable relational warmth.
+- Added concealment of 无花's identity as a conflict among loyalty, mercy, judgment, and victims' access to truth.
+- Reframed discretion as a virtue that still requires an account of whose interests are excluded.
 
 ## Relationships
 
 - [[GuLong|古龙]] - creator whose martial-arts mystery method the character embodies.
+- [[BloodSeaFragranceGuLong|《血海飘香》]] - opening case supplying his life ethic, friendship pattern, and truth-concealment conflict.
 - [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]] - bounded novel supplying this profile.
 - [[PaintingThrushGuLong|《画眉鸟》]] - bounded novel adding formation disruption and poisoning-belief uncertainty.
 - [[GreatDesertGuLong|《大沙漠》]] - bounded novel adding non-killing pressure, complementary friendship, and romantic contrast.
 - [[HuTiehua|胡铁花]] and [[JiBingyan|姬冰雁]] - old friends whose different action and planning roles he coordinates.
 - [[ZhongyuanYidianhong|中原一点红]] and [[QuWurong|曲无容]] - pair whose direct attachment qualifies his advantage in verbal skill.
 - [[ShiGuanyin|石观音]] - opponent who makes the protective cost of non-killing visible.
+- [[WuhuaGuLong|无花]] - friend and antagonist whose death tests loyalty against public truth.
+- [[HeiZhenzhuGuLong|黑珍珠]] - interlocutor through whom life affirmation and restrained attachment become visible.
 - [[XueYirenGuLong|薛衣人]] - superior swordsman whose duel forces a revised victory condition.
 - [[ShuiMuYinJi|水母阴姬]] - overwhelming opponent whose mercy closes the underwater encounter.
 - [[ApparentSupernaturalMystery]] - mystery form he resolves into coordinated human action.
@@ -91,3 +104,4 @@ This profile is bounded to three novels as discussed by three podcast episodes; 
 - [[SincereFalseBelief]] - distinction needed to interpret 柳无眉 and 水母阴姬's incompatible statements.
 - [[PrincipledNonKillingUnderRisk]] - ethical tension created by retaining restraint under danger.
 - [[ComplementaryFriendshipRoles]] - model of accepting and coordinating differentiated forms of support.
+- [[WuxiaIndirectCharacterization]] - craft frame for conduct, dialogue, reaction, and omission.

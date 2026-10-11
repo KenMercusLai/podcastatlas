@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13353
+wiki_total_pages: 13358
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "Wuliaozhai"
     title: "无聊斋 / Wuliaozhai"
     url: "/wiki/entities/wuliaozhai/"
+  - key: "WuhuaGuLong"
+    title: "无花（古龙人物） / Wuhua (Gu Long character)"
+    url: "/wiki/entities/wuhuagulong/"
   - key: "WuzhuMinyueKing"
     title: "无诸 / Wuzhu (Minyue king)"
     url: "/wiki/entities/wuzhuminyueking/"

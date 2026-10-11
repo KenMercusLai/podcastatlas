@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13353
+wiki_total_pages: 13358
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "NanJiHe"
     title: "南基贺 / Nan Jihe"
     url: "/wiki/entities/nanjihe/"
+  - key: "NangongLingGuLong"
+    title: "南宫灵（古龙人物） / Nangong Ling (Gu Long character)"
+    url: "/wiki/entities/nangonglinggulong/"
   - key: "NangongChangwan"
     title: "南宫长万"
     url: "/wiki/entities/nangongchangwan/"

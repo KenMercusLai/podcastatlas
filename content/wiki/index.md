@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [031 趣话古龙《楚留香传奇：血海飘香》](sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps.md) — 纸醉金迷FM以不杀原则、行动式人物塑造、友情转化和含蓄留白重读《血海飘香》，同时质疑阴谋逻辑、真相隐瞒及男性视角下的女性书写。
 - [032 教师节特辑 | 韦小宝和他的师父们](sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg.md) — 纸醉金迷FM以海大富的生存教育和陈近南的道德父职，讨论具体互惠、抽象忠诚、复明派系内斗与传统侠义英雄的末路。
 - [033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们](sources/lowwo0ixlp--ouxy87p42cult3k4.md) — 纸醉金迷FM以九难的适配教学、韦小宝的无名之师和分层结拜关系，讨论情境学习、亲情、义气与关系网络。
 - [“有了AI，我感觉自己强得可怕！”｜对谈鸭哥](sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb.md) — 鸭哥以医疗理赔、内容运营、健康分析、定制软件和组织协作说明 Context Infrastructure、持久化云端 Agent、人类验收与“零人公司”的边界。
@@ -4620,6 +4621,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《血海飘香》 / Blood Sea Fragrance](entities/BloodSeaFragranceGuLong.md) — 楚留香系列开篇，以强人物塑造和情感表达对照失衡的阴谋逻辑、仓促收尾与性别局限。
+- [无花（古龙人物） / Wuhua (Gu Long character)](entities/WuhuaGuLong.md) — 外表清雅多才、实为幕后主使，却在结尾因不合理决策削弱威胁感的《血海飘香》反派。
+- [南宫灵（古龙人物） / Nangong Ling (Gu Long character)](entities/NangongLingGuLong.md) — 兼具复仇、权力欲、公共形象管理和战略漏洞的丐帮帮主与共谋者。
+- [秋灵素（古龙人物） / Qiu Lingsu (Gu Long character)](entities/QiuLingsuGuLong.md) — 受毁容胁迫与婚姻照顾塑造、但旧日伤害未被苦难洗净的复杂悲剧人物。
+- [黑珍珠（古龙人物） / Black Pearl (Gu Long character)](entities/HeiZhenzhuGuLong.md) — 通过脸红、吃醋、互动与留白暗示性别和情感、避免旁白定论的楚留香人物。
 - [海大富 / Hai Dafu](entities/HaiDafu.md) — 无正式师徒名分却传授实用技巧和皇权生存规则的《鹿鼎记》人物。
 - [陈近南 / Chen Jinnan](entities/ChenJinnan.md) — 兼具理想气节、组织能力、道德父职与愚忠悲剧的天地会总舵主。
 - [天地会 / Tiandihui](entities/Tiandihui.md) — 具有全国性网络却受堂口、复明正统与派系冲突侵蚀的小说抗清组织。

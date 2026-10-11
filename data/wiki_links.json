@@ -15,6 +15,10 @@
     "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
     "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
   },
+  "031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps": {
+    "title": "031 趣话古龙《楚留香传奇：血海飘香》",
+    "url": "/wiki/sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps/"
+  },
   "04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843": {
     "title": "04.切尔诺贝利的午夜： “我要进监狱了。”",
     "url": "/wiki/sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843/"
@@ -14434,6 +14438,10 @@
   "BloodLetterVindication": {
     "title": "Blood-Letter Vindication / 血书自辩昭雪",
     "url": "/wiki/concepts/bloodlettervindication/"
+  },
+  "BloodSeaFragranceGuLong": {
+    "title": "《血海飘香》 / Blood Sea Fragrance",
+    "url": "/wiki/entities/bloodseafragrancegulong/"
   },
   "BloodVengeanceToCivicJustice": {
     "title": "Blood Vengeance to Civic Justice",
@@ -40631,6 +40639,10 @@
     "title": "黑灯 / Hei Deng",
     "url": "/wiki/entities/heideng/"
   },
+  "HeiZhenzhuGuLong": {
+    "title": "黑珍珠（古龙人物） / Black Pearl (Gu Long character)",
+    "url": "/wiki/entities/heizhenzhugulong/"
+  },
   "HeianCourtlyPerformance": {
     "title": "Heian Courtly Performance",
     "url": "/wiki/concepts/heiancourtlyperformance/"
@@ -61827,6 +61839,10 @@
     "title": "南宫长万",
     "url": "/wiki/entities/nangongchangwan/"
   },
+  "NangongLingGuLong": {
+    "title": "南宫灵（古龙人物） / Nangong Ling (Gu Long character)",
+    "url": "/wiki/entities/nangonglinggulong/"
+  },
   "NanhaiCommandery": {
     "title": "南海郡 / Nanhai Commandery",
     "url": "/wiki/entities/nanhaicommandery/"
@@ -72018,6 +72034,10 @@
   "QiuLijuLateHan": {
     "title": "丘力居 / Qiu Liju (late Han)",
     "url": "/wiki/entities/qiulijulatehan/"
+  },
+  "QiuLingsuGuLong": {
+    "title": "秋灵素（古龙人物） / Qiu Lingsu (Gu Long character)",
+    "url": "/wiki/entities/qiulingsugulong/"
   },
   "QiuXiangLateHan": {
     "title": "仇香 / Qiu Xiang (late Han)",
@@ -93858,6 +93878,10 @@
   "WuhuManJiaozhi": {
     "title": "乌浒蛮 / Wuhu Man (Jiaozhi)",
     "url": "/wiki/entities/wuhumanjiaozhi/"
+  },
+  "WuhuaGuLong": {
+    "title": "无花（古龙人物） / Wuhua (Gu Long character)",
+    "url": "/wiki/entities/wuhuagulong/"
   },
   "Wuhuan": {
     "title": "乌桓 / Wuhuan",

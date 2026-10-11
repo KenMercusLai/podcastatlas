@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13353
+wiki_total_pages: 13358
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -2003,6 +2003,9 @@ wiki_pages:
   - key: "HeiDeng"
     title: "黑灯 / Hei Deng"
     url: "/wiki/entities/heideng/"
+  - key: "HeiZhenzhuGuLong"
+    title: "黑珍珠（古龙人物） / Black Pearl (Gu Long character)"
+    url: "/wiki/entities/heizhenzhugulong/"
   - key: "Heimai"
     title: "黑麦 / Heimai"
     url: "/wiki/entities/heimai/"

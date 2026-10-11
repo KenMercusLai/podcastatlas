@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 13353
+wiki_total_pages: 13358
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "QiongYao"
     title: "琼瑶 / Qiong Yao"
     url: "/wiki/entities/qiongyao/"
+  - key: "QiuLingsuGuLong"
+    title: "秋灵素（古龙人物） / Qiu Lingsu (Gu Long character)"
+    url: "/wiki/entities/qiulingsugulong/"
   - key: "QinFengEasternHan"
     title: "秦丰 / Qin Feng (Eastern Han)"
     url: "/wiki/entities/qinfengeasternhan/"

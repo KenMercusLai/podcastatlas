@@ -36224,3 +36224,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | 031 趣话古龙《楚留香传奇：血海飘香》
+
+Added source `031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps`; created [[BloodSeaFragranceGuLong|《血海飘香》]], [[WuhuaGuLong|无花]], [[NangongLingGuLong|南宫灵]], [[QiuLingsuGuLong|秋灵素]], and [[HeiZhenzhuGuLong|黑珍珠]]; and resynthesized [[ChuLiuxiang|楚留香]], [[ZhongyuanYidianhong|中原一点红]], [[PrincipledNonKillingUnderRisk|风险中的不杀原则]], and [[WuxiaIndirectCharacterization|武侠的间接人物塑造]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's strongest characterization comes from action, dialogue, reaction, and omission; 楚留香's non-killing and love of life remain persuasive while concealment of 无花's identity creates a conflict with victims' interest in truth; and memorable antagonists and female figures are constrained by weak conspiracy logic and a beauty-centered male gaze. No settled contradiction was adopted. Publication grouping, adaptation comparisons, character motives, gender and romantic implication, martial ranking, and comparative judgments about the Lu Xiaofeng series remain interpretive or source-scoped. Broad [[GuLong|古龙]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, figures, and concepts capture the durable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,536 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
