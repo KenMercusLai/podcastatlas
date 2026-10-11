@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10451
+wiki_total_pages: 10453
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "EnsembleBattleConvergence"
     title: "Ensemble Battle Convergence / 群像大战汇流"
     url: "/wiki/concepts/ensemblebattleconvergence/"
+  - key: "EnsembleCharacterDifferentiation"
+    title: "Ensemble Character Differentiation / 群像人物区分"
+    url: "/wiki/concepts/ensemblecharacterdifferentiation/"
   - key: "EnslavedSelfEmancipation"
     title: "Enslaved Self-Emancipation"
     url: "/wiki/concepts/enslavedselfemancipation/"

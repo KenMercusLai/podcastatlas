@@ -19654,6 +19654,11 @@
   ],
   "BookAndSword": [
     {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
@@ -104319,6 +104324,13 @@
     }
   ],
   "lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "lupg1kt3vmjtosukkza7scrai2gg-lupg1kt3vmjtosukkza7scrai2gg": [
     {
       "key": "culture",
       "label": "Culture",

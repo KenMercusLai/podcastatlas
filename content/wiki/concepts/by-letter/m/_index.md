@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10451
+wiki_total_pages: 10453
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "MarshmallowTestContext"
     title: "Marshmallow Test Context"
     url: "/wiki/concepts/marshmallowtestcontext/"
+  - key: "MartialArtsCharacterFateEncoding"
+    title: "Martial Arts as Character and Fate Encoding / 武功对人物与命运的编码"
+    url: "/wiki/concepts/martialartscharacterfateencoding/"
   - key: "MartialHeroHistoricalAgencyLimits"
     title: "Martial-Hero Historical Agency Limits / 侠客改变历史的限度"
     url: "/wiki/concepts/martialherohistoricalagencylimits/"

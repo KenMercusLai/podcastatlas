@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13396
+wiki_total_pages: 13397
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "Redbaby"
     title: "红孩子 / Redbaby"
     url: "/wiki/entities/redbaby/"
+  - key: "RedFlowerSociety"
+    title: "红花会 / Red Flower Society"
+    url: "/wiki/entities/redflowersociety/"
   - key: "Rorschach"
     title: "罗夏 / Rorschach"
     url: "/wiki/entities/rorschach/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [018 趣谈金庸处女作《书剑恩仇录》|百花错，开头是错，结尾还是错](sources/lupg1kt3vmjtosukkza7scrai2gg-lupg1kt3vmjtosukkza7scrai2gg.md) — 纸醉金迷FM从历史结局约束、红花会群像和兵器武功设计重读金庸首作，并以百花错拳串联陈家洛的判断、爱情与政治悲剧。
 - [019 闲话金庸《书剑恩仇录》中的爱情书写](sources/ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk.md) — 纸醉金迷FM以女性主动、婚姻日常、组织撮合和陈家洛的自我概念重读《书剑恩仇录》，并区分牺牲、压力与真正互惠的感情。
 - [020 一日讲完百年事：闲话金庸《雪山飞狐》](sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr.md) — 纸醉金迷FM以一日、二十七年与百年三层时间及逐层证言重读《雪山飞狐》，并从胡一刀的间接塑造、继承仇恨与开放结局检验侠义。
 - [021 我的阿勒泰？漫话金庸《白马啸西风》](sources/lriy1oybgigotwswtzkfbrdrhtl7.md) — 纸醉金迷FM以多组爱而不得的选择重读《白马啸西风》，并从李文秀的善意、瓦尔拉齐的复杂性和高昌宝藏讨论族群判断与文化价值。
@@ -4633,8 +4634,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
-- [《书剑恩仇录》 / The Book and the Sword](entities/BookAndSword.md) — 金庸小说，以女性主动、爱情边界、婚姻日常、组织压力及政治责任组织多代关系群像。
-- [陈家洛 / Chen Jialuo](entities/ChenJialuo.md) — 在真实担当、被动任命、领导不安、情感安全与政治代价回避之间摇摆的红花会总舵主。
+- [《书剑恩仇录》 / The Book and the Sword](entities/BookAndSword.md) — 金庸首部武侠小说，以固定历史结局、红花会群像、武功象征、爱情边界与政治责任组织早期江湖实验。
+- [陈家洛 / Chen Jialuo](entities/ChenJialuo.md) — 在真实担当、被动任命、领导不安、情感安全与政治代价回避之间摇摆，并由百花错拳映出连续误判的红花会总舵主。
+- [红花会 / Red Flower Society](entities/RedFlowerSociety.md) — 以共同反清目标、十四当家、集体营救和多样兵器形成能量鲜明却区分不均的早期武侠群像。
 - [霍青桐 / Huo Qingtong](entities/HuoQingtong.md) — 以主动解释、战略能力和平等共担责任构成陈家洛情感与自我概念挑战的女性人物。
 - [香香公主（《书剑恩仇录》） / Princess Fragrance](entities/PrincessFragranceBookAndSword.md) — 以信任、崇拜、依赖和情感安定支持陈家洛保护者自我定位的人物。
 - [骆冰（《书剑恩仇录》） / Luo Bing](entities/LuoBing.md) — 以主动救夫、互信婚姻和对余鱼同的明确拒绝区分义气牺牲与爱情债务的红花会成员。
@@ -18100,6 +18102,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Relational Self-Concept Selection / 亲密关系选择与自我概念](concepts/RelationalSelfConceptSelection.md) — 亲密关系选择部分取决于关系让人体验为平等伙伴、保护者、权威、救援者或不足者中的哪一种自我。
+- [Ensemble Character Differentiation / 群像人物区分](concepts/EnsembleCharacterDifferentiation.md) — 以冲突、独立支线、关系、职责和行动后果区分大型群像，并把外貌、称号和兵器限定为辅助标记。
+- [Martial Arts as Character and Fate Encoding / 武功对人物与命运的编码](concepts/MartialArtsCharacterFateEncoding.md) — 以兵器、招式和战斗习惯外化身份、性格、叙事职能及反复的人生命运模式。
 - [Cultural Value Nonuniversality / 文化价值的非普遍性](concepts/CulturalValueNonuniversality.md) — 一种文化珍视的对象不因此自动成为所有人的珍宝，交流须保留解释、改造与拒绝的权利。
 - [Wuxia as Adult Fairy Tale / 武侠作为成人童话](concepts/WuxiaAdultFairyTale.md) — 以友情、信任、享乐、韧性和邪不压正构成理想化情感契约，同时不把浪漫力量当作因果漏洞的豁免。
 - [Idealized Love Deconstruction / 爱情神话拆解](concepts/IdealizedLoveDeconstruction.md) — 不以激情、牺牲、排他性或婚姻结果单独定义爱情，而以欲望、主体性、照料、责任、边界、权力与共同生活综合检验关系。

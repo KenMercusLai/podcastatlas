@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2747
+topic_total_pages: 2748
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2633,6 +2633,9 @@ topic_entities:
   - key: "ZhongguoRenkoushi"
     title: "《中国人口史》 / Zhongguo Renkoushi"
     url: "/wiki/entities/zhongguorenkoushi/"
+  - key: "BookAndSword"
+    title: "《书剑恩仇录》 / The Book and the Sword"
+    url: "/wiki/entities/bookandsword/"
   - key: "ErNianLuLing"
     title: "《二年律令》 / Er Nian Lu Ling"
     url: "/wiki/entities/ernianluling/"
