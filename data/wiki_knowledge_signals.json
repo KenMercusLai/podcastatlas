@@ -59553,9 +59553,9 @@
       "url": "/wiki/concepts/cutecharacteranxietyresonance/"
     },
     "CuthbertCollingwood": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -59577,6 +59577,13 @@
           "show": "The Rest Is History",
           "title": "613. Nelson: Glory at Trafalgar (Part 6)",
           "url": "/wiki/sources/613-nelson-glory-at-trafalgar-part-6-glt7193792251/"
+        },
+        {
+          "episode_file": "GLT4893527428 [GLT4893527428].md",
+          "key": "514-nelson-hero-of-the-seas-part-1-glt4893527428",
+          "show": "The Rest Is History",
+          "title": "514. Nelson: Hero of the Seas (Part 1)",
+          "url": "/wiki/sources/514-nelson-hero-of-the-seas-part-1-glt4893527428/"
         }
       ],
       "updated": "2026-10-10",
@@ -89450,9 +89457,9 @@
       "url": "/wiki/entities/fangzhouphotographer/"
     },
     "FannyNelson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8067718474 [GLT8067718474].md",
@@ -89467,6 +89474,13 @@
           "show": "The Rest Is History",
           "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
           "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
+        },
+        {
+          "episode_file": "GLT4893527428 [GLT4893527428].md",
+          "key": "514-nelson-hero-of-the-seas-part-1-glt4893527428",
+          "show": "The Rest Is History",
+          "title": "514. Nelson: Hero of the Seas (Part 1)",
+          "url": "/wiki/sources/514-nelson-hero-of-the-seas-part-1-glt4893527428/"
         }
       ],
       "updated": "2026-10-10",
@@ -122732,9 +122746,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -122854,6 +122868,13 @@
           "show": "The Rest Is History",
           "title": "515. Nelson: Attack the French! (Part 2)",
           "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
+        },
+        {
+          "episode_file": "GLT4893527428 [GLT4893527428].md",
+          "key": "514-nelson-hero-of-the-seas-part-1-glt4893527428",
+          "show": "The Rest Is History",
+          "title": "514. Nelson: Hero of the Seas (Part 1)",
+          "url": "/wiki/sources/514-nelson-hero-of-the-seas-part-1-glt4893527428/"
         }
       ],
       "updated": "2026-10-12",
@@ -188478,6 +188499,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/navalbreakthroughtactics/"
     },
+    "NavalOfficerFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4893527428 [GLT4893527428].md",
+          "key": "514-nelson-hero-of-the-seas-part-1-glt4893527428",
+          "show": "The Rest Is History",
+          "title": "514. Nelson: Hero of the Seas (Part 1)",
+          "url": "/wiki/sources/514-nelson-hero-of-the-seas-part-1-glt4893527428/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/navalofficerformation/"
+    },
     "NaveenRao": {
       "episode_count": 1,
       "show_count": 1,
@@ -230491,9 +230528,9 @@
       "url": "/wiki/concepts/royalminoritycustodypolitics/"
     },
     "RoyalNavy": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT3542298238 [GLT3542298238].md",
@@ -230550,6 +230587,13 @@
           "show": "The Rest Is History",
           "title": "515. Nelson: Attack the French! (Part 2)",
           "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
+        },
+        {
+          "episode_file": "GLT4893527428 [GLT4893527428].md",
+          "key": "514-nelson-hero-of-the-seas-part-1-glt4893527428",
+          "show": "The Rest Is History",
+          "title": "514. Nelson: Hero of the Seas (Part 1)",
+          "url": "/wiki/sources/514-nelson-hero-of-the-seas-part-1-glt4893527428/"
         }
       ],
       "updated": "2026-10-12",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [514. Nelson: Hero of the Seas (Part 1)](sources/514-nelson-hero-of-the-seas-part-1-glt4893527428.md) — The Rest Is History on Nelson's Norfolk upbringing, patronage-assisted naval entry, practical training, early voyages, Caribbean service, marriage, and return to war in 1793.
 - [040 趣话古龙《楚留香传奇：大沙漠》|雁蝶为双翼，花香满人间](sources/040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b.md) — 纸醉金迷FM以不杀原则、互补友情、直接真心与石观音的自恋权力重读《大沙漠》，同时质疑反转、救场与环境细节的因果支撑。
 - [VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日](sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm.md) — 这病说来话长 episode on school refusal, bodily distress, emotion-first support, bounded choice, routine, third space, and family-school ecology.
 - [515. Nelson: Attack the French! (Part 2)](sources/515-nelson-attack-the-french-part-2-glt9020085184.md) — The Rest Is History on Nelson's Mediterranean preparation, Calvi eye injury, first fleet action, Jervis's arrival, Napoleon's Italian victories, and the retreat toward Cape St Vincent.
@@ -18019,6 +18020,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Salk Institute](entities/SalkInstitute.md) — Research institution represented through Terry Sejnowski's computational neurobiology work.
 
 ## Concepts
+- [Naval Officer Formation](concepts/NavalOfficerFormation.md) — Patronage-shaped process joining technical education, practical examination, mentorship, responsibility, logistics, and hazardous service in the making of naval commanders.
 - [Principled Non-Killing Under Risk / 风险中的不杀原则](concepts/PrincipledNonKillingUnderRisk.md) — 在真实致命压力下保持不杀才构成原则，同时要求正视同伴风险、控制敌人与外部救场的责任。
 - [Complementary Friendship Roles / 互补型友情角色](concepts/ComplementaryFriendshipRoles.md) — 朋友以行动、准备、情感与协调等不同方式贡献，而不被要求用同一种性格证明忠诚。
 - [Memory-Group Personal Continuity / “记忆组”式人格延续](concepts/MemoryGroupPersonalContinuity.md) — 《寻梦》以可转移的组织化记忆替代传统灵魂来解释人格跨死亡延续的文学模型。

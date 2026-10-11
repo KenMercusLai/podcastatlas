@@ -6,6 +6,7 @@ sources:
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 613-nelson-glory-at-trafalgar-part-6-glt7193792251
+  - 514-nelson-hero-of-the-seas-part-1-glt4893527428
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-10
 ---
@@ -18,12 +19,14 @@ Cuthbert Collingwood is presented as the British admiral who sustained a decepti
 
 ## Current Profile
 
+The early-life source moves the relationship with [[HoratioNelson]] back to Caribbean service, where Collingwood appears as a fellow officer and developing long-term friend during the American war. The bounded evidence does not yet reconstruct Collingwood's own early commands, but it establishes that the trust visible at Trafalgar grew from a naval connection formed decades earlier rather than from the final campaign alone.
+
 Collingwood's role connects operational containment to delegated battle command and difficult aftermath. Before Nelson arrived, he blockaded a far larger fleet with only a small force and concealed his weakness. At Trafalgar, Royal Sovereign's speed put him ahead of supporting ships, exposing him to concentrated fire before he passed Santa Ana's stern and delivered a close-range broadside. After Nelson died he assumed command, but did not carry out Nelson's instruction to anchor before the storm; many prizes were then abandoned or lost. His grief for a friend of more than thirty years and his own death at sea in 1810 widen the profile beyond first contact without erasing that post-battle qualification.
 
 ## Key Characteristics
 
 - Blockade commander who concealed a small force while containing the allied fleet at Cadiz.
-- Trusted subordinate connecting Nelson's campaign design to local execution.
+- Long-term naval companion and trusted subordinate whose relationship with Nelson runs from Caribbean service to delegated execution at Trafalgar.
 - Led the leeward column aboard the fast Royal Sovereign.
 - Accepted isolation and concentrated fire while closing with the allied line.
 - Used stern-raking fire to convert penetration into immediate destructive effect.
@@ -35,6 +38,10 @@ Collingwood's role connects operational containment to delegated battle command 
 ### Cadiz blockade and concealment
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] describes Collingwood maintaining the Cadiz blockade with a small force while trying to hide its weakness.
+
+### Early relationship with Nelson
+
+- [[514-nelson-hero-of-the-seas-part-1-glt4893527428]] introduces Collingwood during Nelson's Caribbean service and presents the connection as the beginning of a lasting friendship and comradeship.
 
 ### Column command and first contact
 
@@ -50,13 +57,12 @@ Collingwood's role connects operational containment to delegated battle command 
 
 ## Qualifications
 
-The sources focus on a narrow period around Cadiz and Trafalgar, and the later episode substantially overlaps the earlier battle narrative. The effectiveness of the blockade bluff, Collingwood's exact views, reported reactions, Royal Sovereign's performance advantage, casualty claims, the operational alternatives during the storm, and his wider career are not independently established here.
+The sources focus mainly on a narrow period around Cadiz and Trafalgar, and the later episode substantially overlaps the earlier battle narrative. The new source only introduces the Caribbean relationship rather than reconstructing Collingwood's early career. The effectiveness of the blockade bluff, Collingwood's exact views, reported reactions, Royal Sovereign's performance advantage, casualty claims, the operational alternatives during the storm, and his wider career are not independently established here.
 
 ## What Changed
 
-- Expanded Collingwood from battle-column executor to campaign commander whose blockade and concealment helped shape the allied decision environment.
-- Connected his pre-battle independence to the delegated initiative required by Nelson's tactical plan.
-- Added succession to command, the unexecuted anchoring instruction, grief for Nelson, and death at sea as post-contact qualifications.
+- Backfilled the Nelson-Collingwood relationship to Caribbean service during the American war.
+- Clarified that the source establishes long continuity without yet supplying a full account of Collingwood's early career.
 
 ## Relationships
 

@@ -36137,3 +36137,11 @@ Added source `how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowsk
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 514. Nelson: Hero of the Seas (Part 1)
+
+Added source `514-nelson-hero-of-the-seas-part-1-glt4893527428`; created [[NavalOfficerFormation]]; and resynthesized [[HoratioNelson]], [[RoyalNavy]], [[FannyNelson]], and [[CuthbertCollingwood]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nelson's family patronage opened a naval career that practical examination, technical study, early responsibility, mentorship, dangerous voyages, illness, and logistical failure then turned into command capability; the same formation joined paternal crew care and close-action ambition to hierarchy, imperial commerce, Caribbean slavery, prize incentives, and wartime opportunity. The early Fanny marriage and Caribbean friendship with Collingwood now precede the later recovery, abandonment, delegated command, and grief already in the wiki. No settled contradiction was adopted. Childhood anecdotes, the polar-bear story, Nelson's patriotic revelation, medical diagnoses, the anti-abolition letter's textual history, mentor causality, private motives, reported dialogue, and force or casualty totals remain source-scoped. Broad [[BritishEmpire]], [[FrenchRevolution]], [[TheRestIsHistory]], Samuel Hood, Maurice Suckling, William Locker, and lower-value early-voyage profiles were kept closed because the focused source, four bounded profiles, and formation concept capture the durable additions without reopening larger or thinner inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,525 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

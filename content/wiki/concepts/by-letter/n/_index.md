@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10430
+wiki_total_pages: 10431
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "NavalBreakthroughTactics"
     title: "Naval Breakthrough Tactics"
     url: "/wiki/concepts/navalbreakthroughtactics/"
+  - key: "NavalOfficerFormation"
+    title: "Naval Officer Formation"
+    url: "/wiki/concepts/navalofficerformation/"
   - key: "NavalShipbuildingThroughput"
     title: "Naval Shipbuilding Throughput"
     url: "/wiki/concepts/navalshipbuildingthroughput/"
