@@ -10,6 +10,7 @@ sources:
   - the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890
   - how-to-increase-motivation-drive-scim9999790924
   - scim6217546049-scim6217546049
+  - essentials-how-to-increase-motivation-drive-scim9927628276
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ Timing and cue acquisition connect the model to food and hydration. Dopamine can
 The earlier motivation episode makes the separation especially concrete: dopamine-depleted rats are described as consuming food placed nearby while failing to move a short distance to obtain it. Within the source's limits, this supports a distinction between experiencing a reward and mobilizing effort to pursue it. It also links wanting to novelty and narrowed attention while preserving the broader qualification that pleasure, motivation, appetite, and action are multisystem phenomena.
 
 The Sapolsky Essentials edit independently does not establish a new dopamine model, but it reinforces the anticipation-and-pursuit interpretation from a hormone-and-status conversation. Its testosterone interaction example places dopamine inside a wider system of energy, alertness, confidence, muscle readiness, social context, and learned behavior rather than treating it as a standalone pleasure chemical.
+
+The motivation Essentials edit condenses the earlier full motivation episode and therefore adds editorial provenance rather than an independent test. It preserves the rat example separating nearby-food enjoyment from effortful pursuit, plus the broader claim that anticipation and craving can mobilize action without guaranteeing satisfaction.
 
 ## Key Claims
 - Learning from outcomes depends on feedback loops that compare expectation with result.
@@ -49,6 +52,7 @@ The Sapolsky Essentials edit independently does not establish a new dopamine mod
 - Delayed nutrient and hydration feedback: [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] describes different dopamine populations responding to nutrients, thirst satiation, and blood rehydration after direct stomach delivery.
 - Early motivation-versus-pleasure case: [[how-to-increase-motivation-drive-scim9999790924]] uses a dopamine-depletion rat example to separate consuming an available reward from working to obtain it.
 - Hormone-and-status context: [[scim6217546049-scim6217546049]] describes dopamine as more closely tied to reward anticipation and goal-directed motivation than pleasure and connects it to testosterone-linked energy and pursuit.
+- Condensed motivation provenance: [[essentials-how-to-increase-motivation-drive-scim9927628276]] restates the wanting-versus-liking distinction and rat effort example without adding independent confirmation.
 
 ## Counterevidence & Qualifications
 The page records source-grounded explanatory frames and should not overstate dopamine as the only basis of desire, addiction, suffering, motivation, attention, eating, or hydration behavior. The Masud Husain episode explicitly warns that dopamine levels are not the only factor determining motivation. The Knight source and the rat examples rely on animal experiments and do not establish identical human circuitry, a practical eating protocol, or a complete theory of human motivation. The Huberman sources overlap substantially, and the Sapolsky Essentials edit condenses an earlier full interview rather than independently replicating it. Tool, hormone, addiction, and metabolic claims remain bounded by safety and clinical context.
@@ -56,6 +60,7 @@ The page records source-grounded explanatory frames and should not overstate dop
 ## What Changed
 - Added a hormone-and-status context for the anticipation, energy, and motivated-pursuit interpretation.
 - Preserved the multisystem judgment and marked the Essentials evidence as overlapping public-science provenance.
+- Added the motivation Essentials edit as overlapping provenance without changing the current judgment.
 
 ## Related Concepts
 - [[EvolutionaryMisrecognition]] - broader layered account in which wanting is one adaptive cost.

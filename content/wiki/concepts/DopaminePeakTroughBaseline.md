@@ -9,6 +9,7 @@ sources:
   - how-to-increase-motivation-drive-scim9999790924
   - scim9807260634-scim9807260634
   - essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387
+  - essentials-how-to-increase-motivation-drive-scim9927628276
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ knowledge_schema: synthesis-v1
 Dopamine peak-trough baseline is the episode's model for motivation as a changing relationship among tonic baseline dopamine, phasic peaks above that baseline, and subsequent troughs below baseline that influence future pursuit and effort.
 
 ## Current Synthesis
-Across the current sources, [[AndrewHuberman]] treats dopamine as dynamic rather than simply good or bad. The March 2021 motivation episode supplies the earliest current pleasure-craving-crash account; [[scim6449668176-scim6449668176]] later makes the baseline-versus-peak formulation explicit and argues that satisfaction and later motivation depend on a peak's size relative to baseline and recent reward history. Its condensed edit, [[scim9807260634-scim9807260634]], restates that model without providing independent confirmation. The procrastination episode adds reward prediction, effort, and anti-stacking detail, while the nicotine episode supplies a dependence case in which rapid delivery strengthens reinforcement and the missing expected effect contributes to craving and withdrawal. [[AnnaLembke]]'s condensed addiction interview adds a clinical restatement of tonic baseline, compensatory troughs, and deficit-state craving, again as overlapping provenance. The practical synthesis is to protect ordinary motivation capacity, avoid repeatedly using high-intensity stimulation to escape troughs, and treat substance withdrawal as a clinical and behavioral support problem.
+Across the current sources, [[AndrewHuberman]] treats dopamine as dynamic rather than simply good or bad. The March 2021 motivation episode supplies the earliest current pleasure-craving-crash account, and its later Essentials edit restates that precursor without independent confirmation; [[scim6449668176-scim6449668176]] later makes the baseline-versus-peak formulation explicit and argues that satisfaction and later motivation depend on a peak's size relative to baseline and recent reward history. Its condensed edit, [[scim9807260634-scim9807260634]], likewise restates that model. The procrastination episode adds reward prediction, effort, and anti-stacking detail, while the nicotine episode supplies a dependence case in which rapid delivery strengthens reinforcement and the missing expected effect contributes to craving and withdrawal. [[AnnaLembke]]'s condensed addiction interview adds a clinical restatement of tonic baseline, compensatory troughs, and deficit-state craving, again as overlapping provenance. The practical synthesis is to protect ordinary motivation capacity, avoid repeatedly using high-intensity stimulation to escape troughs, and treat substance withdrawal as a clinical and behavioral support problem.
 
 ## Key Claims
 - Baseline dopamine is presented as a background level that affects general motivation and readiness for effort.
@@ -40,12 +41,14 @@ Across the current sources, [[AndrewHuberman]] treats dopamine as dynamic rather
 - Earliest current precursor: [[how-to-increase-motivation-drive-scim9999790924]] describes diminishing pleasure, strengthening craving, and a post-reward crash before the later baseline terminology is fully developed.
 - Condensed restatement: [[scim9807260634-scim9807260634]] repeats the baseline, peak, post-peak trough, recent-history, and addiction-narrowing account in abbreviated form.
 - Clinical restatement: [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387]] connects tonic baseline, repeated reward, compensatory deficit states, craving, and early-abstinence recovery in a condensed clinical discussion.
+- Condensed early precursor: [[essentials-how-to-increase-motivation-drive-scim9927628276]] restates diminishing pleasure, stronger craving, and post-achievement dissatisfaction without adding independent confirmation or the later explicit baseline vocabulary.
 
 ## Counterevidence & Qualifications
-This page summarizes public neuroscience explanations, not direct measurement of an individual's dopamine level. The sources overlap substantially, and both Essentials edits derive from longer episodes, so they do not provide independent replication. Exact dopamine multipliers, proportional-drop language, vesicle-depletion claims, receptor and transmission explanations, pleasure-pain symmetry, and trajectories for particular behaviors or users remain source-scoped. The model should not be used to diagnose addiction, depression, ADHD, Parkinson's disease, medication effects, or any other clinical state. Substance withdrawal and cessation medication decisions need qualified support.
+This page summarizes public neuroscience explanations, not direct measurement of an individual's dopamine level. The sources overlap substantially, and the Essentials edits derive from longer episodes, so they do not provide independent replication. Exact dopamine multipliers, proportional-drop language, vesicle-depletion claims, receptor and transmission explanations, pleasure-pain symmetry, and trajectories for particular behaviors or users remain source-scoped. The model should not be used to diagnose addiction, depression, ADHD, Parkinson's disease, medication effects, or any other clinical state. Substance withdrawal and cessation medication decisions need qualified support.
 
 ## What Changed
 - Added Lembke's Essentials edit as overlapping clinical provenance without changing the current practical judgment.
+- Added the motivation Essentials edit as overlapping early provenance without changing the current practical judgment.
 
 ## Related Concepts
 - [[DopamineWantingLoop]] - pursuit mechanism that operates through anticipation and wanting.

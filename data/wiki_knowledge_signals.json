@@ -70080,9 +70080,9 @@
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -70125,6 +70125,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Treating Addiction | Dr. Anna Lembke",
           "url": "/wiki/sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387/"
+        },
+        {
+          "episode_file": "SCIM9927628276 [SCIM9927628276].md",
+          "key": "essentials-how-to-increase-motivation-drive-scim9927628276",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Increase Motivation & Drive",
+          "url": "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
         }
       ],
       "updated": "2026-10-11",
@@ -70205,9 +70212,9 @@
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -70257,6 +70264,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim6217546049-scim6217546049/"
+        },
+        {
+          "episode_file": "SCIM9927628276 [SCIM9927628276].md",
+          "key": "essentials-how-to-increase-motivation-drive-scim9927628276",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Increase Motivation & Drive",
+          "url": "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
         }
       ],
       "updated": "2026-10-11",
@@ -132120,9 +132134,9 @@
       "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "不爱直播带货的欧美消费者，为何在这家平台上大把花钱？ [1007104138].md",
@@ -132172,9 +132186,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Motivation & Drive",
           "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
+        },
+        {
+          "episode_file": "SCIM9927628276 [SCIM9927628276].md",
+          "key": "essentials-how-to-increase-motivation-drive-scim9927628276",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Increase Motivation & Drive",
+          "url": "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/intermittentreinforcement/"
     },
     "InternalAccountabilityLoop": {
@@ -204928,9 +204949,9 @@
       "url": "/wiki/concepts/playlistasdiscoveryinterface/"
     },
     "PleasurePainBalanceAddiction": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -204966,6 +204987,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim4795280888-scim4795280888/"
+        },
+        {
+          "episode_file": "SCIM9927628276 [SCIM9927628276].md",
+          "key": "essentials-how-to-increase-motivation-drive-scim9927628276",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Increase Motivation & Drive",
+          "url": "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
         }
       ],
       "updated": "2026-10-11",

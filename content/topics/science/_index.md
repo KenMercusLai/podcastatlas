@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1553
+topic_total_pages: 1554
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4035,6 +4035,9 @@ topic_sources:
   - key: "scim4795280888-scim4795280888"
     title: "Essentials: How to Control Your Sense of Pain & Pleasure"
     url: "/wiki/sources/scim4795280888-scim4795280888/"
+  - key: "essentials-how-to-increase-motivation-drive-scim9927628276"
+    title: "Essentials: How to Increase Motivation & Drive"
+    url: "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
   - key: "essentials-how-to-learn-skills-faster-scim2224786015"
     title: "Essentials: How to Learn Skills Faster"
     url: "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"

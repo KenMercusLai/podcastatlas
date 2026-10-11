@@ -35652,3 +35652,11 @@ Added source `049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: How to Increase Motivation & Drive
+
+Added source `essentials-how-to-increase-motivation-drive-scim9927628276`; and resynthesized [[DopamineWantingLoop]], [[DopaminePeakTroughBaseline]], [[PleasurePainBalanceAddiction]], and [[IntermittentReinforcement]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Essentials release restates dopamine as more closely tied to wanting, anticipation, pursuit, movement, and effort than pleasure; repeated reward can shift toward stronger craving and post-reward dissatisfaction; and selective milestone reward differs from externally controlled gambling, commerce, or abuse loops only when stakes are low, control is retained, and stopping remains easy. No settled contradiction was adopted. The episode is a condensed edit of the already-ingested 2021 full episode, so it adds editorial provenance rather than independent confirmation; exact dopamine multipliers, addiction-vulnerability estimates, animal-study translation, transmitter contrasts, supplements, medications, and stimulant-expectation effects remain source-scoped or clinically bounded. Broad [[AndrewHuberman]], [[HubermanLab]], serotonin, medication, mindfulness, and procrastination pages were kept closed because the source and four focused concept updates capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,464 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
