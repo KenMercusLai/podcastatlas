@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10375
+wiki_total_pages: 10376
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"

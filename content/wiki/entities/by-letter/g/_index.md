@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13263
+wiki_total_pages: 13266
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "GlazerFamily"
     title: "Glazer Family"
     url: "/wiki/entities/glazerfamily/"
+  - key: "GleiwitzIncident"
+    title: "Gleiwitz Incident"
+    url: "/wiki/entities/gleiwitzincident/"
   - key: "GlenJeffery"
     title: "Glen Jeffery"
     url: "/wiki/entities/glenjeffery/"

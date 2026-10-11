@@ -6107,6 +6107,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391": [
     {
       "key": "history",
@@ -65362,6 +65374,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "OpponentResolveMiscalculation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OpportunityCost": [

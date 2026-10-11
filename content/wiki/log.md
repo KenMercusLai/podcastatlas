@@ -35748,3 +35748,11 @@ Added source `essentials-tools-for-managing-stress-anxiety-scim3070712261`; and 
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 531. Hitler's War on Poland: The Pact with Stalin (Part 2)
+
+Added source `531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494`; created [[JoachimVonRibbentrop|Joachim von Ribbentrop]], [[MolotovRibbentropPact|Molotov-Ribbentrop Pact]], [[GleiwitzIncident|Gleiwitz Incident]], and [[OpponentResolveMiscalculation|Opponent Resolve Miscalculation]]; and resynthesized [[InvasionOfPoland1939|Invasion and Partition of Poland (1939)]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the Nazi-Soviet pact removed an immediate eastern constraint and prefigured partition but did not dissolve Britain's Polish guarantee; coercive offers and backchannels coexisted with fixed invasion planning; delayed mobilization narrowed Poland's preparation window; and the Gleiwitz false flag fabricated a pretext for a decision already made. No settled contradiction was adopted. Protocol boundaries, force totals, exact timings, dialogue, motives, public attitudes, mobilization effects, and counterfactual diplomatic outcomes remain source-scoped. Broad [[AdolfHitler]], [[JosephStalin]], [[NaziGermany]], [[SovietUnion]], [[NevilleChamberlain]], [[BenitoMussolini]], [[ReinhardHeydrich]], and [[TheRestIsHistory]] profiles were kept closed because focused diplomatic, event, campaign, and decision-error pages capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,476 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

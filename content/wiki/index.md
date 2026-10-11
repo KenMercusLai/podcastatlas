@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [531. Hitler's War on Poland: The Pact with Stalin (Part 2)](sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494.md) — The Rest Is History episode on the Nazi-Soviet pact, coercive diplomacy, delayed Polish mobilization, Gleiwitz false flag, and Hitler's failed forecast of British resolve.
 - [Essentials: Tools for Managing Stress & Anxiety](sources/essentials-tools-for-managing-stress-anxiety-scim3070712261.md) — Condensed Huberman Lab episode on stress timescales, physiological sighs, bounded arousal training, social buffering, and breathwork, immune, and supplement safety limits.
 - [532. Hitler's War on Poland: The Fall of Warsaw (Part 3)](sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391.md) — The Rest Is History episode on Poland's German and Soviet invasion, Warsaw's siege, Allied non-relief, civilian terror, partition, and early genocidal escalation.
 - [Charting the Architecture of the Universe & Human Life | Dr. Brian Keating](sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321.md) — Huberman Lab conversation on instrument-extended observation, cosmological inference, BICEP's dust correction, South Pole physics, scientific ambition, and evidence-bounded wonder.
@@ -4558,6 +4559,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [Joachim von Ribbentrop](entities/JoachimVonRibbentrop.md) — Nazi foreign minister who negotiated the German-Soviet pact and misread its effect on Britain and France.
+- [Molotov-Ribbentrop Pact](entities/MolotovRibbentropPact.md) — August 1939 non-aggression agreement and secret territorial division that enabled the invasion and partition of Poland.
+- [Gleiwitz Incident](entities/GleiwitzIncident.md) — SS-organized false flag staged as Polish aggression immediately before Germany invaded.
 - [Invasion and Partition of Poland (1939)](entities/InvasionOfPoland1939.md) — German and Soviet campaign joining rapid military defeat, failed western relief, partition, occupation, and ideological violence.
 - [Siege of Warsaw (1939)](entities/SiegeOfWarsaw1939.md) — Defense and coercive bombardment of the Polish capital during the September 1939 invasion.
 - [Brian Keating](entities/BrianKeating.md) — Cosmologist and science communicator whose BICEP account joins instrumentation, ambition, mentorship, and correction.
@@ -17889,6 +17893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Opponent Resolve Miscalculation](concepts/OpponentResolveMiscalculation.md) — Strategic error of treating earlier restraint, debate, or delay as proof an opponent will not act after commitments change.
 - [Instrument-Extended Observation](concepts/InstrumentExtendedObservation.md) — Use of engineered systems to expand or correct perception while keeping observations answerable to calibration and inference.
 - [Cosmological Inference Limits](concepts/CosmologicalInferenceLimits.md) — Constraints on inferring origins from one universe, relic signals, foregrounds, and non-unique models.
 - [Battle of Monte Cassino](concepts/BattleOfMonteCassino.md) — 1944 Gustav Line battle joining Polish victory, severe loss, sacred-site destruction, logistics, and exile memory.

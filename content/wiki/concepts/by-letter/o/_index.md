@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10375
+wiki_total_pages: 10376
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "OPHISResearchWorkflow"
     title: "OPHIS Research Workflow"
     url: "/wiki/concepts/ophisresearchworkflow/"
+  - key: "OpponentResolveMiscalculation"
+    title: "Opponent Resolve Miscalculation"
+    url: "/wiki/concepts/opponentresolvemiscalculation/"
   - key: "OpportunityCost"
     title: "Opportunity Cost"
     url: "/wiki/concepts/opportunitycost/"

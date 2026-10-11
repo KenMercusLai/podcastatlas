@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2727
+topic_total_pages: 2728
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6510,6 +6510,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494"
+    title: "531. Hitler's War on Poland: The Pact with Stalin (Part 2)"
+    url: "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
   - key: "532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391"
     title: "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)"
     url: "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"

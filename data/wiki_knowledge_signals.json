@@ -104558,6 +104558,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/glaucomascreeningandadherence/"
     },
+    "GleiwitzIncident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5437884494 [GLT5437884494].md",
+          "key": "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494",
+          "show": "The Rest Is History",
+          "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
+          "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/gleiwitzincident/"
+    },
     "GlenJeffery": {
       "episode_count": 1,
       "show_count": 1,
@@ -133496,9 +133512,9 @@
       "url": "/wiki/concepts/intrusivethoughtmeaning/"
     },
     "InvasionOfPoland1939": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6308788391 [GLT6308788391].md",
@@ -133506,6 +133522,13 @@
           "show": "The Rest Is History",
           "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
           "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
+        },
+        {
+          "episode_file": "GLT5437884494 [GLT5437884494].md",
+          "key": "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494",
+          "show": "The Rest Is History",
+          "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
+          "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
         }
       ],
       "updated": "2026-10-11",
@@ -140941,6 +140964,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/jizhoulatehan/"
+    },
+    "JoachimVonRibbentrop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5437884494 [GLT5437884494].md",
+          "key": "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494",
+          "show": "The Rest Is History",
+          "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
+          "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/joachimvonribbentrop/"
     },
     "JoanOfArc": {
       "episode_count": 5,
@@ -181355,6 +181394,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/moloch/"
     },
+    "MolotovRibbentropPact": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5437884494 [GLT5437884494].md",
+          "key": "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494",
+          "show": "The Rest Is History",
+          "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
+          "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/molotovribbentroppact/"
+    },
     "Moltbook": {
       "episode_count": 1,
       "show_count": 1,
@@ -194875,6 +194930,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/oppenheimersecurityhearing/"
+    },
+    "OpponentResolveMiscalculation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5437884494 [GLT5437884494].md",
+          "key": "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494",
+          "show": "The Rest Is History",
+          "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
+          "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/opponentresolvemiscalculation/"
     },
     "OpportunisticCourtAlignment": {
       "episode_count": 2,

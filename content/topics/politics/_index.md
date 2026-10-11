@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3288
+topic_total_pages: 3290
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2836,6 +2836,9 @@ topic_concepts:
   - key: "OpenAINonprofitConversionDispute"
     title: "OpenAI Nonprofit Conversion Dispute"
     url: "/wiki/concepts/openainonprofitconversiondispute/"
+  - key: "OpponentResolveMiscalculation"
+    title: "Opponent Resolve Miscalculation"
+    url: "/wiki/concepts/opponentresolvemiscalculation/"
   - key: "OpportunityGeneratingDecentralization"
     title: "Opportunity-Generating Decentralization / 创造机会的去中心化"
     url: "/wiki/concepts/opportunitygeneratingdecentralization/"
@@ -8796,6 +8799,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494"
+    title: "531. Hitler's War on Poland: The Pact with Stalin (Part 2)"
+    url: "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
