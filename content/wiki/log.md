@@ -35636,3 +35636,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)
+
+Added source `536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026`; created [[Caligula]], [[Germanicus]], and [[PrincipateConstitutionalFiction]]; and resynthesized [[Tiberius]], [[Suetonius]], and [[RomanImperialSuccession]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Caligula's Augustan descent, Germanicus's memory, mass popularity, Praetorian support, and rapid suppression of an army conspiracy show political calculation alongside cruelty; his open degradation of the Senate exposed the coercive imbalance beneath republican partnership language, while his humiliation of Cassius Chyrea helped turn the guards sustaining him into his killers. No settled contradiction was adopted. Incest, illness-caused insanity, Tiberius's murder, many punishments and sexual stories, exact conspiracy membership, dialogue, motives, and Incitatus's intended consulship remain disputed or source-scoped. Broad [[TheRestIsHistory]], [[HistoricalReputationConstruction]], [[ImperialPerformancePolitics]], and Roman hub pages were kept closed because focused actor, source-criticism, succession, and constitutional pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,462 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

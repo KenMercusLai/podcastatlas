@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)](sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026.md) — The Rest Is History reassessment of Caligula's dynastic appeal, populist spectacle, senatorial terror, military power, assassination, and hostile-source reputation.
 - [VOL.150大物是也·大白牛：NMN、氨糖 、护肝片、辅酶…这些爆款保健品真的靠谱吗？](sources/vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o.md) — 这病说来话长 episode on supplement necessity, marketing, evidence levels, glucosamine, NMN, surrogate liver markers, and lifestyle-first safety boundaries.
 - [Essentials: The Science of Emotions & Relationships](sources/scim1654683440-scim1654683440.md) — Condensed Huberman Lab episode on emotion coordinates, attachment development, puberty, social hormones, attention shifting, and the boundary that vagal signaling is not uniformly calming.
 - [050 新浪潮：徐克武侠电影大回顾](sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg.md) — 纸醉金迷FM按年代回顾徐克武侠电影，以剪辑、美术、动作、技术实验和改编自洽性解释其作者风格、九十年代高峰与后期转向。
@@ -4544,6 +4545,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [Caligula](entities/Caligula.md) — Julio-Claudian emperor whose popular dynastic appeal, political calculation, spectacle, elite humiliation, and Praetorian dependence complicate the mad-monster archetype.
+- [Germanicus](entities/Germanicus.md) — Julio-Claudian commander whose military and popular reputation became transferable legitimacy for Caligula.
 - [Ellen Langer](entities/EllenLanger.md) — Psychologist defining mindfulness as active noticing and studying how choice, context, expectation, and age cues may shape engagement and health-related outcomes.
 - [Messalina](entities/Messalina.md) — Claudius's wife and Britannicus's mother, whose alleged sexual conspiracy remains entangled with palace faction and hostile ancient narrative.
 - [Pavel Tsatsouline](entities/PavelTsatsouline.md) — Strength coach framing force production as skilled neural practice supported by restrained fatigue, stable exercise selection, kettlebells, and specific conditioning.
@@ -17854,6 +17857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Principate Constitutional Fiction](concepts/PrincipateConstitutionalFiction.md) — Gap between republican partnership forms and the dynastic, popular, Praetorian, and legionary basis of early imperial power.
 - [Mindful Noticing Under Uncertainty](concepts/MindfulNoticingUnderUncertainty.md) — Ellen Langer's mindfulness framework of actively noticing change, novelty, distinctions, and conditionality in ordinary life.
 - [Roman Imperial Succession](concepts/RomanImperialSuccession.md) — Unstable coalition process joining dynasty, adoption, court control, Senate and popular acceptance, donatives, and armed backing.
 - [Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化](concepts/TechnologyDrivenWuxiaModernization.md) — 通过制作技术与故事内技术共同重塑武侠动作、空间、视觉奇观及传统遭遇现代性的电影路径。

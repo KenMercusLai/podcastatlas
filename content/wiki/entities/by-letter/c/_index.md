@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13242
+wiki_total_pages: 13244
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "CaliforniaPrivacyProtectionAgency"
     title: "California Privacy Protection Agency"
     url: "/wiki/entities/californiaprivacyprotectionagency/"
+  - key: "Caligula"
+    title: "Caligula"
+    url: "/wiki/entities/caligula/"
   - key: "CallumWilliams"
     title: "Callum Williams"
     url: "/wiki/entities/callumwilliams/"

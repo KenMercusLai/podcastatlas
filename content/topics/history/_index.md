@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2723
+topic_total_pages: 2724
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6513,6 +6513,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026"
+    title: "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)"
+    url: "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
   - key: "537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825"
     title: "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)"
     url: "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"

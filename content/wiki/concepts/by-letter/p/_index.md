@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10362
+wiki_total_pages: 10363
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1922,6 +1922,9 @@ wiki_pages:
   - key: "PrincelyConsortDependency"
     title: "Princely Consort Dependency / 诸侯妃妾依附风险"
     url: "/wiki/concepts/princelyconsortdependency/"
+  - key: "PrincipateConstitutionalFiction"
+    title: "Principate Constitutional Fiction"
+    url: "/wiki/concepts/principateconstitutionalfiction/"
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"

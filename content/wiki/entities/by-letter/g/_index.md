@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13242
+wiki_total_pages: 13244
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "GermanSwissInternationalSchool"
     title: "German Swiss International School / 香港德瑞国际学校"
     url: "/wiki/entities/germanswissinternationalschool/"
+  - key: "Germanicus"
+    title: "Germanicus"
+    url: "/wiki/entities/germanicus/"
   - key: "Germany"
     title: "Germany"
     url: "/wiki/entities/germany/"

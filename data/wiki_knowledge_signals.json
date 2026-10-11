@@ -35015,6 +35015,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/californiawealthtaxcapitalflight/"
     },
+    "Caligula": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6260105026 [GLT6260105026].md",
+          "key": "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026",
+          "show": "The Rest Is History",
+          "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
+          "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/caligula/"
+    },
     "CallingCommitmentTradeoff": {
       "episode_count": 2,
       "show_count": 1,
@@ -103578,6 +103594,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/germanunification/"
+    },
+    "Germanicus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6260105026 [GLT6260105026].md",
+          "key": "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026",
+          "show": "The Rest Is History",
+          "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
+          "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/germanicus/"
     },
     "Germany": {
       "episode_count": 7,
@@ -210590,6 +210622,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/princessedelamballe/"
     },
+    "PrincipateConstitutionalFiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6260105026 [GLT6260105026].md",
+          "key": "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026",
+          "show": "The Rest Is History",
+          "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
+          "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/principateconstitutionalfiction/"
+    },
     "PrincipledOfficeRefusal": {
       "episode_count": 4,
       "show_count": 1,
@@ -226033,9 +226081,9 @@
       "url": "/wiki/concepts/romanimperiallegitimacy/"
     },
     "RomanImperialSuccession": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8484602825 [GLT8484602825].md",
@@ -226043,6 +226091,13 @@
           "show": "The Rest Is History",
           "title": "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)",
           "url": "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"
+        },
+        {
+          "episode_file": "GLT6260105026 [GLT6260105026].md",
+          "key": "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026",
+          "show": "The Rest Is History",
+          "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
+          "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
         }
       ],
       "updated": "2026-10-11",
@@ -248953,9 +249008,9 @@
       "url": "/wiki/entities/sudutechnology/"
     },
     "Suetonius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7241559003 [GLT7241559003].md",
@@ -248963,9 +249018,16 @@
           "show": "The Rest Is History",
           "title": "56. Nero",
           "url": "/wiki/sources/56-nero-glt7241559003/"
+        },
+        {
+          "episode_file": "GLT6260105026 [GLT6260105026].md",
+          "key": "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026",
+          "show": "The Rest Is History",
+          "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
+          "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/suetonius/"
     },
     "SuetoniusPaulinus": {
@@ -259719,9 +259781,9 @@
       "url": "/wiki/entities/tiaozhikingdom/"
     },
     "Tiberius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9939678940 [GLT9939678940].md",
@@ -259729,9 +259791,16 @@
           "show": "The Rest Is History",
           "title": "224. Roman Holidays",
           "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        },
+        {
+          "episode_file": "GLT6260105026 [GLT6260105026].md",
+          "key": "536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026",
+          "show": "The Rest Is History",
+          "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
+          "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/tiberius/"
     },
     "TichborneClaimant": {
