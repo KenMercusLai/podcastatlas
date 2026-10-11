@@ -4541,8 +4541,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？](sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t.md) — 这病说来话长以生物等效性、治疗指数、剂型、特殊人群、监测与慢病稳定性建立仿制药替换的风险分层框架。
 
 - [537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)](sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825.md) — The Rest Is History reassessment of Claudius's military-backed accession, disability-shaped reputation, administration, public works, Britain, palace factions, and disputed poisoning.
+- [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [Ellen Langer](entities/EllenLanger.md) — Psychologist defining mindfulness as active noticing and studying how choice, context, expectation, and age cues may shape engagement and health-related outcomes.
 - [Messalina](entities/Messalina.md) — Claudius's wife and Britannicus's mother, whose alleged sexual conspiracy remains entangled with palace faction and hostile ancient narrative.
 - [Pavel Tsatsouline](entities/PavelTsatsouline.md) — Strength coach framing force production as skilled neural practice supported by restrained fatigue, stable exercise selection, kettlebells, and specific conditioning.
 - [白自在 / Bai Zizai](entities/BaiZizai.md) — 以封闭环境中的自大、婚姻支配及遭遇强者后的认知修正展开的《侠客行》人物。
@@ -17852,6 +17854,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Mindful Noticing Under Uncertainty](concepts/MindfulNoticingUnderUncertainty.md) — Ellen Langer's mindfulness framework of actively noticing change, novelty, distinctions, and conditionality in ordinary life.
 - [Roman Imperial Succession](concepts/RomanImperialSuccession.md) — Unstable coalition process joining dynasty, adoption, court control, Senate and popular acceptance, donatives, and armed backing.
 - [Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化](concepts/TechnologyDrivenWuxiaModernization.md) — 通过制作技术与故事内技术共同重塑武侠动作、空间、视觉奇观及传统遭遇现代性的电影路径。
 - [Strength as Skill Practice](concepts/StrengthAsSkillPractice.md) — Strength-training frame prioritizing neural coordination, technique, stable movements, successful submaximal repetitions, and controlled arousal.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10361
+wiki_total_pages: 10362
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "MindfulEatingCueControl"
     title: "Mindful Eating Cue Control"
     url: "/wiki/concepts/mindfuleatingcuecontrol/"
+  - key: "MindfulNoticingUnderUncertainty"
+    title: "Mindful Noticing Under Uncertainty"
+    url: "/wiki/concepts/mindfulnoticingunderuncertainty/"
   - key: "MindsetPhysiologyEffects"
     title: "Mindset Effects on Physiology"
     url: "/wiki/concepts/mindsetphysiologyeffects/"

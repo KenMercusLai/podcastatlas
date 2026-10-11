@@ -76387,6 +76387,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/elizabethanreligiouspragmatism/"
     },
+    "EllenLanger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9748845060 [SCIM9748845060].md",
+          "key": "scim9748845060-scim9748845060",
+          "show": "Huberman Lab",
+          "title": "Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer",
+          "url": "/wiki/sources/scim9748845060-scim9748845060/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/ellenlanger/"
+    },
     "EllisPark": {
       "episode_count": 1,
       "show_count": 1,
@@ -178638,10 +178654,26 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/mindfuleatingcuecontrol/"
     },
-    "MindsetPhysiologyEffects": {
-      "episode_count": 4,
+    "MindfulNoticingUnderUncertainty": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9748845060 [SCIM9748845060].md",
+          "key": "scim9748845060-scim9748845060",
+          "show": "Huberman Lab",
+          "title": "Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer",
+          "url": "/wiki/sources/scim9748845060-scim9748845060/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/mindfulnoticingunderuncertainty/"
+    },
+    "MindsetPhysiologyEffects": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2208611274 [SCIM2208611274].md",
@@ -178670,9 +178702,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
           "url": "/wiki/sources/essentials-science-of-mindsets-for-health-performance-dr-alia-crum-scim9243624808/"
+        },
+        {
+          "episode_file": "SCIM9748845060 [SCIM9748845060].md",
+          "key": "scim9748845060-scim9748845060",
+          "show": "Huberman Lab",
+          "title": "Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer",
+          "url": "/wiki/sources/scim9748845060-scim9748845060/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/mindsetphysiologyeffects/"
     },
     "MingDingling": {
@@ -248609,9 +248648,9 @@
       "url": "/wiki/concepts/successmythidentitylockin/"
     },
     "SuccessfulAging": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -248619,9 +248658,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
           "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        },
+        {
+          "episode_file": "SCIM9748845060 [SCIM9748845060].md",
+          "key": "scim9748845060-scim9748845060",
+          "show": "Huberman Lab",
+          "title": "Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer",
+          "url": "/wiki/sources/scim9748845060-scim9748845060/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/successfulaging/"
     },
     "SuccessionAuthorityConsolidation": {

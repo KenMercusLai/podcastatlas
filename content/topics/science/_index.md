@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1551
+topic_total_pages: 1553
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2825,6 +2825,9 @@ topic_entities:
   - key: "ElissaEpel"
     title: "Elissa Epel"
     url: "/wiki/entities/elissaepel/"
+  - key: "EllenLanger"
+    title: "Ellen Langer"
+    url: "/wiki/entities/ellenlanger/"
   - key: "EmilyEnglish"
     title: "Emily English"
     url: "/wiki/entities/emilyenglish/"
@@ -4557,6 +4560,9 @@ topic_sources:
   - key: "using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900"
     title: "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca"
     url: "/wiki/sources/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca-scim2163574900/"
+  - key: "scim9748845060-scim9748845060"
+    title: "Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer"
+    url: "/wiki/sources/scim9748845060-scim9748845060/"
   - key: "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690"
     title: "Using Your Nervous System to Enhance Your Immune System"
     url: "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
