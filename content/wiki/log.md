@@ -36050,3 +36050,11 @@ Added source `518-nelson-the-battle-of-the-nile-part-5-glt9518722562`; created [
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事
+
+Added source `lr4bhqtikeophh4ladhymapyskwv`; created [[XunMengNiKuangNovel|《寻梦》]] and [[MemoryGroupPersonalContinuity|“记忆组”式人格延续]]; and resynthesized [[NiKuang|倪匡]] and [[WesleyNiKuang|卫斯理]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: paired dreams, bodily traces, dialect, place recognition, and historical correspondence make the earlier murder a strong fictional identity mystery, while the “memory group” reframes reincarnation as organized memory continuity rather than a traditional soul. The modern cloud, AI, and consciousness-upload comparisons remain analogies, not proof of a storage or transfer mechanism. The novel's present romance briefly contests inherited betrayal, but reincarnated accomplices, Yang's killings, the repeated final stabbing, and an undeveloped earlier debt shift the ending toward deterministic tragedy; the hosts praise the suspense and non-extraterrestrial premise while criticizing the widening coincidences and forced causal closure. No settled contradiction was adopted. Publication history, authorial preference, exact plot sequence, historical correspondence, dialect, psychology, reincarnation, and authorial intent remain episode-reported, fictional, or source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], generic reincarnation, and karma pages were kept closed because the focused source, novel, memory model, author, and protagonist capture the durable addition without reopening large or differently grounded inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,514 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事](sources/lr4bhqtikeophh4ladhymapyskwv.md) — 纸醉金迷FM以双重梦境、旧案与今生悲剧重读《寻梦》，把“记忆组”视为人格延续的文学设想，同时质疑轮回巧合和结局因果。
 - [518. Nelson: The Battle of the Nile (Part 5)](sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562.md) — The Rest Is History on Nelson's immediate night attack, Foley's landward maneuver, the destruction of L'Orient, French courage, and Napoleon's strategic isolation.
 - [Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel](sources/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858.md) — Huberman Lab interview on money as a tool for autonomy, purpose, relationships, and time rather than a yardstick for identity and status.
 - [519. The World's First City](sources/519-the-worlds-first-city-glt2603135981.md) — The Rest Is History on Uruk's environmental and institutional rise, administrative writing, urban pleasure, slavery, and coercive power.
@@ -4597,6 +4598,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [《寻梦》 / The Dream Search (Ni Kuang novel)](entities/XunMengNiKuangNovel.md) — 倪匡卫斯理小说，以双重梦境、记忆组、爱情背叛与重复死亡讨论人格延续和宿命因果。
 - [Thomas Foley](entities/ThomasFoley.md) — Royal Navy captain whose landward maneuver aboard Goliath opened the double-sided attack at the Battle of the Nile.
 - [Morgan Housel](entities/MorganHousel.md) — Writer and investor framing money through behavior, regret, autonomy, purpose, comparison, and family context.
 - [Uruk](entities/Uruk.md) — Early Mesopotamian city whose scale joined ecology, migration, temples, infrastructure, production, writing, pleasure, and coercion.
@@ -4740,7 +4742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [北京天坛医院 / Beijing Tiantan Hospital](entities/BeijingTiantanHospital.md) — Episode-stated affiliation for Wei Yuzhen's myasthenia-gravis public education.
 - [《不死药》 / The Immortality Drug](entities/BuSiYaoNovel.md) — 倪匡卫斯理小说，以身份反转和依赖型抗衰老药物连接悬疑、垄断与永生代价。
 - [《头发》 / Hair (Ni Kuang novel)](entities/HairNiKuangNovel.md) — 倪匡卫斯理小说，以失效的头发接口、宗教使者和意识转移讨论人类起源、救赎与创造者责任。
-- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》与《头发》中以涉险、犯错和跨越边界把永生或救赎问题变成亲身经验。
+- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》《头发》与《寻梦》中以涉险、比较证词和跨越边界追问永生、救赎与人格延续。
 - [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
 - [Irish War of Independence](entities/IrishWarOfIndependence.md) — Armed, electoral, institutional, and social struggle that escalated from counter-state formation into stalemate, truce, and treaty negotiation.
 - [Dáil Éireann](entities/DailEireann.md) — Elected republican assembly whose courts, ministries, finance, and diplomacy competed with British authority during the War of Independence.
@@ -4785,7 +4787,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Autohome / 汽车之家](entities/Autohome.md) — 李想从PC媒体转向汽车市场后建立的用户导向汽车信息公司，也是其产品语言和组织危机学习场域。
 - [Li Auto ONE / 理想 ONE](entities/LiAutoONE.md) — 以六座家庭场景与增程补能为核心、同时经历早期质量修正的理想汽车首款量产车。
 - [Li Auto MEGA / 理想 MEGA](entities/LiAutoMEGA.md) — 用于讨论纯电补能、私人空间、上市舆论危机与产品补救的理想汽车MPV。
-- [倪匡 / Ni Kuang](entities/NiKuang.md) — 将森林、工程、荒地生活与奇异见闻转化为冒险、科幻和灵异创作素材的作家。
+- [倪匡 / Ni Kuang](entities/NiKuang.md) — 将身体经验与奇异见闻转化为冒险、科幻、灵异和人格延续机制，同时以强叙事动力承担逻辑粗粝风险的作家。
 - [Richard Manks](entities/RichardManks.md) — Solihull bricklayer and professional pedestrian whose 1851 thousand-mile Oval walk became a major quantified endurance spectacle.
 - [Robert Barclay Allardice](entities/RobertBarclayAllardice.md) — Captain Barclay, whose thousand-miles-in-a-thousand-hours format made scheduling and recovery central to pedestrianism.
 - [The Oval](entities/TheOval.md) — Kennington multi-sport ground linking older common-land spectacle to permanent, ticketed, recurring, and international competition.
@@ -17991,6 +17993,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Memory-Group Personal Continuity / “记忆组”式人格延续](concepts/MemoryGroupPersonalContinuity.md) — 《寻梦》以可转移的组织化记忆替代传统灵魂来解释人格跨死亡延续的文学模型。
 - [Money as Tool, Not Yardstick](concepts/MoneyAsToolNotYardstick.md) — Distinguishes using money for security, autonomy, purpose, time, and relationships from using it to rank personal worth.
 - [Future-Regret Financial Planning](concepts/FutureRegretFinancialPlanning.md) — Evaluates financial and career choices through anticipated regret while preserving room for identity and life-stage change.
 - [Early Urbanization Institutional Co-Evolution](concepts/EarlyUrbanizationInstitutionalCoEvolution.md) — Multi-causal framework linking environmental change, migration, sacred authority, infrastructure, exchange, and administration in the first large cities.

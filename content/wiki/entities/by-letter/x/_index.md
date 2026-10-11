@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13326
+wiki_total_pages: 13327
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "XiBaoNovel"
     title: "《喜宝》 / The Story of Xi Bao"
     url: "/wiki/entities/xibaonovel/"
+  - key: "XunMengNiKuangNovel"
+    title: "《寻梦》 / The Dream Search (Ni Kuang novel)"
+    url: "/wiki/entities/xunmengnikuangnovel/"
   - key: "XinXu"
     title: "《新序》 / Xin Xu"
     url: "/wiki/entities/xinxu/"

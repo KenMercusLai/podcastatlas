@@ -176671,6 +176671,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/memoryencodinglevers/"
     },
+    "MemoryGroupPersonalContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr4bHqtIkeoPhh4lADhYmApyskWv [lr4bHqtIkeoPhh4lADhYmApyskWv].md",
+          "key": "lr4bhqtikeophh4ladhymapyskwv",
+          "show": "纸醉金迷FM",
+          "title": "041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事",
+          "url": "/wiki/sources/lr4bhqtikeophh4ladhymapyskwv/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/memorygrouppersonalcontinuity/"
+    },
     "MemoryMachine": {
       "episode_count": 1,
       "show_count": 1,
@@ -189861,9 +189877,9 @@
       "url": "/wiki/entities/nikuanwesternhan/"
     },
     "NiKuang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lomvPJZ7gVqYcnafMlAJVYGe-LKv [lomvPJZ7gVqYcnafMlAJVYGe-LKv].md",
@@ -189899,9 +189915,16 @@
           "show": "纸醉金迷FM",
           "title": "053 科幻外衣下的社会寓言｜大话卫斯理之《头发》",
           "url": "/wiki/sources/ljbtvkfckw2lb-nykriz05lq35wz/"
+        },
+        {
+          "episode_file": "lr4bHqtIkeoPhh4lADhYmApyskWv [lr4bHqtIkeoPhh4lADhYmApyskWv].md",
+          "key": "lr4bhqtikeophh4ladhymapyskwv",
+          "show": "纸醉金迷FM",
+          "title": "041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事",
+          "url": "/wiki/sources/lr4bhqtikeophh4ladhymapyskwv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/nikuang/"
     },
     "Nibbo": {
@@ -279843,9 +279866,9 @@
       "url": "/wiki/entities/wernerbest/"
     },
     "WesleyNiKuang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltte46cFJWcJC-gWcBkQb7zO7QH1 [ltte46cFJWcJC-gWcBkQb7zO7QH1].md",
@@ -279860,9 +279883,16 @@
           "show": "纸醉金迷FM",
           "title": "053 科幻外衣下的社会寓言｜大话卫斯理之《头发》",
           "url": "/wiki/sources/ljbtvkfckw2lb-nykriz05lq35wz/"
+        },
+        {
+          "episode_file": "lr4bHqtIkeoPhh4lADhYmApyskWv [lr4bHqtIkeoPhh4lADhYmApyskWv].md",
+          "key": "lr4bhqtikeophh4ladhymapyskwv",
+          "show": "纸醉金迷FM",
+          "title": "041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事",
+          "url": "/wiki/sources/lr4bhqtikeophh4ladhymapyskwv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/wesleynikuang/"
     },
     "WestBengal": {
@@ -288747,6 +288777,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/xuguduhousouthernxiongnu/"
+    },
+    "XunMengNiKuangNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr4bHqtIkeoPhh4lADhYmApyskWv [lr4bHqtIkeoPhh4lADhYmApyskWv].md",
+          "key": "lr4bhqtikeophh4ladhymapyskwv",
+          "show": "纸醉金迷FM",
+          "title": "041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事",
+          "url": "/wiki/sources/lr4bhqtikeophh4ladhymapyskwv/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/xunmengnikuangnovel/"
     },
     "XunShuLateHan": {
       "episode_count": 3,

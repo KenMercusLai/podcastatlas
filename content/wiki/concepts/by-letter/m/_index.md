@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10425
+wiki_total_pages: 10426
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "MemoryCenteredAI"
     title: "Memory-Centered AI"
     url: "/wiki/concepts/memorycenteredai/"
+  - key: "MemoryGroupPersonalContinuity"
+    title: "Memory-Group Personal Continuity / “记忆组”式人格延续"
+    url: "/wiki/concepts/memorygrouppersonalcontinuity/"
   - key: "MencianBenevolentGovernment"
     title: "Mencian Benevolent Government / 孟子仁政"
     url: "/wiki/concepts/mencianbenevolentgovernment/"
