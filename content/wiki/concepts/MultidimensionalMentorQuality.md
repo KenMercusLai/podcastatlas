@@ -5,6 +5,7 @@ tags: [education, mentorship, pedagogy, care, wuxia]
 sources:
   - 076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0
   - ljyhr2aom69hckwuywi4czovrhcu
+  - lowwo0ixlp--ouxy87p42cult3k4
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ The framework begins by refusing the most common shortcut: being excellent at a 
 Care, steadiness, reputation, and networks matter because education is not only information transfer. A mentor can protect a learner, create belonging, lend social credibility, open access to other teachers, or damage learning through jealousy, volatility, factional prejudice, concealment, and exploitation. The six dimensions should therefore remain separate enough to reveal tradeoffs rather than collapse into a single popularity or power score.
 
 The [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] independently converges on this separation through desired teachers rather than a full scorecard. Zhang Sanfeng is valued for warmth, humility, medical effort, and instruction adapted to different disciples; the divine condor is valued for rapid practice design, environmental training, and material support. The contrast reinforces that care and effective learning design can appear in different forms, while joking selections such as Kangxi also reveal that “ideal teacher” may partly encode a learner's wish to avoid hardship or institutional control.
+
+The [[lowwo0ixlp--ouxy87p42cult3k4|《鹿鼎记》 episode]] adds [[AjiuBixueJian|九难]] as a case where learner fit, practical transfer, and relationship quality converge. Rather than demand the complete 铁剑门 foundation, she gives [[WeiXiaobao|韦小宝]] 神行百变, which matches his aptitude and need to escape. Mutual care and shared danger deepen the teaching relationship, but her treatment of 阿珂 and 阿琪 also sharpens an ethical boundary: accurate adaptation for one learner does not establish consistently benevolent mentorship across all pupils.
 
 ## Key Claims
 
@@ -41,15 +44,17 @@ The [[ljyhr2aom69hckwuywi4czovrhcu|Top 3 roundtable]] independently converges on
 - Non-exclusive care: [[076-jiaoshijie-teji-jinyong-yuzhou-shifu-dapandian-li_8lkza7up0nnupptlmnz4gu4y0]] praises the Jiangnan Seven Freaks for welcoming Ma Yu and Hong Qigong's beneficial instruction of Guo Jing.
 - Convergent teacher choices: [[ljyhr2aom69hckwuywi4czovrhcu]] values Zhang Sanfeng's warmth and differentiated instruction while treating the divine condor's food, environment, and accelerated practice as a distinct mentor model.
 - Preference disclosure: [[ljyhr2aom69hckwuywi4czovrhcu]] includes choices motivated by affection, freedom from sect rules, or avoidance of hard training, showing that desired mentorship and teaching quality overlap without being identical.
+- Learner fit and practical transfer: [[lowwo0ixlp--ouxy87p42cult3k4]] presents 九难 choosing a movement skill suited to Wei Xiaobao instead of imposing the full inherited sequence.
+- Relationship and ethical boundary: [[lowwo0ixlp--ouxy87p42cult3k4]] contrasts reciprocal care with Wei against the revenge-shaped use and limited instruction of 阿珂 and 阿琪.
 
 ## Counterevidence & Qualifications
 
-The six-part framework and follow-up preferences come from entertainment-oriented literary discussions, not a validated teacher-evaluation instrument. Reputation and network access may reproduce hierarchy as easily as they expand opportunity, and affection can become control when boundaries are weak. Desired teachers can reflect fantasy benefits, personal affection, or avoidance of effort rather than educational outcomes. Character judgments, martial rankings, teaching speed, and inferred motives remain source-scoped. The framework is most useful as a checklist that prevents expertise, prestige, warmth, or preference from standing in for the whole teaching relationship.
+The six-part framework and follow-up cases come from entertainment-oriented literary discussions, not a validated teacher-evaluation instrument. Reputation and network access may reproduce hierarchy as easily as they expand opportunity, and affection can become control when boundaries are weak. Desired teachers can reflect fantasy benefits, personal affection, or avoidance of effort rather than educational outcomes. A successful method with one pupil does not prove fair or benevolent treatment of others. Character judgments, martial rankings, teaching speed, and inferred motives remain source-scoped. The framework is most useful as a checklist that prevents expertise, prestige, warmth, learner fit, or preference from standing in for the whole teaching relationship.
 
 ## What Changed
 
-- Added a second roundtable's convergence on adaptive care and practice design through Zhang Sanfeng and the divine condor.
-- Distinguished an ideal-teacher preference from an assessment of teaching quality.
+- Added 九难 as a case where aptitude-matched instruction, practical transfer, and reciprocal care converge.
+- Added cross-pupil consistency as an ethical qualification: good teaching for one learner does not settle how a mentor uses others.
 
 ## Related Concepts
 
@@ -59,3 +64,4 @@ The six-part framework and follow-up preferences come from entertainment-oriente
 - [[SchoolBelongingThroughCare|以关怀赢得学校归属]] - institutional extension of care, non-abandonment, and durable support.
 - [[TeacherAsFatherEthic|一日为师终身为父伦理]] - traditional account of parent-like gratitude whose hierarchy needs limits.
 - [[StructuralPowerImbalance|结构性权力不平衡]] - boundary showing why care and romance cannot be evaluated without authority and dependency.
+- [[InformalSelectiveLearning|情境化选择性学习]] - neighboring account of what a learner acquires outside formal mentorship.

@@ -10665,9 +10665,9 @@
       "url": "/wiki/entities/ajiao/"
     },
     "AjiuBixueJian": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
@@ -10675,9 +10675,16 @@
           "show": "纸醉金迷FM",
           "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
           "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        },
+        {
+          "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
+          "key": "lowwo0ixlp--ouxy87p42cult3k4",
+          "show": "纸醉金迷FM",
+          "title": "033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们",
+          "url": "/wiki/sources/lowwo0ixlp--ouxy87p42cult3k4/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/ajiubixuejian/"
     },
     "AkbarKhan": {
@@ -132461,6 +132468,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/informalreligiouspoliticalauthority/"
     },
+    "InformalSelectiveLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
+          "key": "lowwo0ixlp--ouxy87p42cult3k4",
+          "show": "纸醉金迷FM",
+          "title": "033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们",
+          "url": "/wiki/sources/lowwo0ixlp--ouxy87p42cult3k4/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/informalselectivelearning/"
+    },
     "InformationAsymmetricPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -166293,6 +166316,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/ludapeng/"
     },
+    "LuDingJi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
+          "key": "lowwo0ixlp--ouxy87p42cult3k4",
+          "show": "纸醉金迷FM",
+          "title": "033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们",
+          "url": "/wiki/sources/lowwo0ixlp--ouxy87p42cult3k4/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/ludingji/"
+    },
     "LuFangEasternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -185723,9 +185762,9 @@
       "url": "/wiki/concepts/multidimensionalmarriagemeaning/"
     },
     "MultidimensionalMentorQuality": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "li_8lkza7up0NNUPptlmNz4gU4Y0 [li_8lkza7up0NNUPptlmNz4gU4Y0].md",
@@ -185740,6 +185779,13 @@
           "show": "纸醉金迷FM",
           "title": "039 文无第一，武无第二|漫谈金庸宇宙top3系列",
           "url": "/wiki/sources/ljyhr2aom69hckwuywi4czovrhcu/"
+        },
+        {
+          "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
+          "key": "lowwo0ixlp--ouxy87p42cult3k4",
+          "show": "纸醉金迷FM",
+          "title": "033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们",
+          "url": "/wiki/sources/lowwo0ixlp--ouxy87p42cult3k4/"
         }
       ],
       "updated": "2026-10-10",
@@ -255603,6 +255649,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/swisse/"
     },
+    "SwornBrotherhoodSocialInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
+          "key": "lowwo0ixlp--ouxy87p42cult3k4",
+          "show": "纸醉金迷FM",
+          "title": "033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们",
+          "url": "/wiki/sources/lowwo0ixlp--ouxy87p42cult3k4/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/swornbrotherhoodsocialinfrastructure/"
+    },
     "SycophanticAICompanionRisk": {
       "episode_count": 5,
       "show_count": 3,
@@ -279934,6 +279996,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/weixiaoeasternhan/"
+    },
+    "WeiXiaobao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
+          "key": "lowwo0ixlp--ouxy87p42cult3k4",
+          "show": "纸醉金迷FM",
+          "title": "033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们",
+          "url": "/wiki/sources/lowwo0ixlp--ouxy87p42cult3k4/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/weixiaobao/"
     },
     "WeiXuanWesternHan": {
       "episode_count": 2,

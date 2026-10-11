@@ -36208,3 +36208,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们
+
+Added source `lowwo0ixlp--ouxy87p42cult3k4`; created [[LuDingJi|《鹿鼎记》]], [[WeiXiaobao|韦小宝]], [[InformalSelectiveLearning|情境化选择性学习]], and [[SwornBrotherhoodSocialInfrastructure|结拜作为社会基础设施]]; and resynthesized [[AjiuBixueJian|阿九 / 九难]] and [[MultidimensionalMentorQuality|多维良师评价]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wei's durable capabilities arise less from a single formal lineage than from aptitude-matched instruction, concrete self-defense, observation, imitation, street experience, and court politics; 九难 combines adaptive teaching and reciprocal care with revenge-shaped inconsistency across pupils; and sworn brotherhood ranges from genuine friendship through mixed-interest alliance to emergency truce while distributing trust, authority, military ability, and risk. No settled contradiction was adopted. 阿琪's background, creative psychology, martial decline, motives, oath belief, historical custom, dialogue, chronology, and the potentially ambiguous “慧聪” transcription remain speculative or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, protagonist, two concepts, and two bounded resyntheses capture the durable additions without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,534 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

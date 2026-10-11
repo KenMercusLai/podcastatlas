@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13348
+wiki_total_pages: 13350
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "LordArthurSavilesCrime"
     title: "《阿瑟·萨维尔勋爵的罪行》 / Lord Arthur Savile's Crime"
     url: "/wiki/entities/lordarthursavilescrime/"
+  - key: "LuDingJi"
+    title: "《鹿鼎记》 / The Deer and the Cauldron"
+    url: "/wiki/entities/ludingji/"
   - key: "LonglingMazeGhostBlowsOutTheLight"
     title: "《龙岭迷窟》 / Longling Maze"
     url: "/wiki/entities/longlingmazeghostblowsoutthelight/"

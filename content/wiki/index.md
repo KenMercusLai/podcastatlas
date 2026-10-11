@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们](sources/lowwo0ixlp--ouxy87p42cult3k4.md) — 纸醉金迷FM以九难的适配教学、韦小宝的无名之师和分层结拜关系，讨论情境学习、亲情、义气与关系网络。
 - [“有了AI，我感觉自己强得可怕！”｜对谈鸭哥](sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb.md) — 鸭哥以医疗理赔、内容运营、健康分析、定制软件和组织协作说明 Context Infrastructure、持久化云端 Agent、人类验收与“零人公司”的边界。
 - [034 趣话倪匡“原振侠系列”之《宝狐》|串台“天津惹惹广播”](sources/lpjxwzf-ic6-rfvd-a5cl3ig3fou-lpjxwzf-ic6-rfvd-a5cl3ig3fou.md) — 纸醉金迷FM串台重读《宝狐》，以狐仙转外星讯号的谜底讨论爱情感化、身份反抗、自主性与科幻祛魅的得失。
 - [035 【国庆加更】趣话金庸魔改影视《东成西就》(feat：天津惹惹广播)](sources/lm2iomi68yhdbuqvdir8761d-syq.md) — 纸醉金迷FM与天津惹惹广播从救场生产、群星即兴与喜剧形式区分《东成西就》的独立成就和金庸改编忠实度。
@@ -4618,6 +4619,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《鹿鼎记》 / The Deer and the Cauldron](entities/LuDingJi.md) — 以正式师承、情境学习、关系网络和分层义气反转传统武侠成长路径的金庸小说。
+- [韦小宝 / Wei Xiaobao](entities/WeiXiaobao.md) — 依靠选择性学习、识人、模仿和跨圈层关系网络生存的《鹿鼎记》主角。
 - [《东成西就》 / The Eagle Shooting Heroes (1993)](entities/TheEagleShootingHeroes1993.md) — 以金庸人物为外壳、依靠群星表演与短周期救场生产成为经典喜剧的极端改编案例。
 - [刘镇伟 / Jeffrey Lau](entities/JeffreyLau.md) — 《东成西就》导演，本期以危机生产、群戏平衡和现场调整能力为核心。
 - [《连城诀》 / A Deadly Secret](entities/LianChengJue.md) — 金庸小说，以受限爱情、投射性猜疑、贪欲之毒、祛魅式成长与保护性退隐呈现黑暗江湖中的道德韧性。
@@ -18036,6 +18039,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Informal Selective Learning / 情境化选择性学习](concepts/InformalSelectiveLearning.md) — 通过观察、模仿、筛选和即时应用，从正式课程之外的人与环境中获得可迁移知识。
+- [Sworn Brotherhood as Social Infrastructure / 结拜作为社会基础设施](concepts/SwornBrotherhoodSocialInfrastructure.md) — 以拟制亲属仪式建立信任、义务和跨能力协作，同时区分真情、利益联盟与权宜之计。
 - [Context Infrastructure](concepts/ContextInfrastructure.md) — 将上下文的收集、检索、消费、验收与回写组成可持续积累的个人和组织基础设施。
 - [Zero-Person Company](concepts/ZeroPersonCompany.md) — Agent 承担多数日常执行、观察与迭代，而人仍负责目标、系统设计、风险、商业闭环和最终授权的实验性组织形态。
 - [Greed as Moral Poison / 贪欲作为道德之毒](concepts/GreedAsMoralPoison.md) — 财富欲望先扭曲对他人的判断与合作，再由字面的毒物外化其自毁后果，同时区分寓言力量与现实因果。

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3299
+topic_total_pages: 3301
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8087,6 +8087,9 @@ topic_entities:
   - key: "XifangJuedouShi"
     title: "《西方决斗史》 / The History of Duelling"
     url: "/wiki/entities/xifangjuedoushi/"
+  - key: "LuDingJi"
+    title: "《鹿鼎记》 / The Deer and the Cauldron"
+    url: "/wiki/entities/ludingji/"
   - key: "TheLeftHandOfDarkness"
     title: "《黑暗的左手》 / The Left Hand of Darkness"
     url: "/wiki/entities/thelefthandofdarkness/"
@@ -8576,6 +8579,9 @@ topic_entities:
   - key: "YongzhengEmperor"
     title: "雍正 / Yongzheng Emperor"
     url: "/wiki/entities/yongzhengemperor/"
+  - key: "WeiXiaobao"
+    title: "韦小宝 / Wei Xiaobao"
+    url: "/wiki/entities/weixiaobao/"
   - key: "HongKongFootballAssociation"
     title: "香港足球总会 / Hong Kong Football Association"
     url: "/wiki/entities/hongkongfootballassociation/"

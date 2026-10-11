@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10438
+wiki_total_pages: 10440
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "InformalReligiousPoliticalAuthority"
     title: "Informal Religious-Political Authority"
     url: "/wiki/concepts/informalreligiouspoliticalauthority/"
+  - key: "InformalSelectiveLearning"
+    title: "Informal Selective Learning / 情境化选择性学习"
+    url: "/wiki/concepts/informalselectivelearning/"
   - key: "InformationApocalypse"
     title: "Information Apocalypse"
     url: "/wiki/concepts/informationapocalypse/"

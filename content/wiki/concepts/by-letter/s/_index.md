@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10438
+wiki_total_pages: 10440
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2594,6 +2594,9 @@ wiki_pages:
   - key: "SwingingLondonFashionMyth"
     title: "Swinging London Fashion Myth"
     url: "/wiki/concepts/swinginglondonfashionmyth/"
+  - key: "SwornBrotherhoodSocialInfrastructure"
+    title: "Sworn Brotherhood as Social Infrastructure / 结拜作为社会基础设施"
+    url: "/wiki/concepts/swornbrotherhoodsocialinfrastructure/"
   - key: "SycophanticAICompanionRisk"
     title: "Sycophantic AI Companion Risk"
     url: "/wiki/concepts/sycophanticaicompanionrisk/"
