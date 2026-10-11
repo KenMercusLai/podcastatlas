@@ -9,13 +9,14 @@ sources:
   - 077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob
   - 067-tianlongbabu-zhi-azi-pian-jinyong-bixia-weiyi-zhen-enu-lock0k5o_nk_eogcwnsptn6ab9u6
   - 065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z
+  - 060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-《天龙八部》 is a [[JinYong|金庸]] wuxia novel represented in the bounded sources through six complementary scales: the Song conditions that make Jianghu mobility plausible, the Shaoshi Mountain battle as a late narrative convergence point, the four villains as a test of bloodline and moral labels, [[MurongFu|慕容复]] as a study of restoration and failed release, [[Azi|阿紫]] with [[XiaoFeng|萧峰]] and [[YouTanzhi|游坦之]] as a study of destructive attachment, and [[Xuzhu|虚竹]] as a study of character, contingency, discipline, and secular desire.
+《天龙八部》 is a [[JinYong|金庸]] wuxia novel represented in the bounded sources through seven complementary scales: the Song conditions that make Jianghu mobility plausible, the Shaoshi Mountain battle as a late narrative convergence point, the four villains as a test of bloodline and moral labels, [[MurongFu|慕容复]] as a study of restoration and failed release, [[Azi|阿紫]] with [[XiaoFeng|萧峰]] and [[YouTanzhi|游坦之]] as a study of destructive attachment, [[Xuzhu|虚竹]] as a study of character and contingency, and a short Xiao Feng preview that announces heroism, ethnic identity, and tragic fate without yet analyzing them.
 
 ## Current Profile
 
@@ -35,10 +36,12 @@ The [[Xuzhu|虚竹]] discussion adds the novel's clearest inversion of striving.
 
 Xuzhu's surrounding figures deepen that tension. Tonglao combines violent domination with teaching, loyalty, and rescue of endangered women, while [[Xuanci|玄慈]] and [[YeErniang|叶二娘]] show secret love, institutional discipline, unequal cost, and recovered kinship ending in death. Later-edition changes to Xuzhu's talent and 梦姑's marital character again make version history part of interpretation rather than an editorial footnote.
 
+The short Xiao Feng episode opening returns to one of the novel's central heroes and previews chivalric concern, boldness, composure, non-Han identity, unusual origins, and death as the intended line of inquiry. Like the Shaoshi Mountain excerpt, however, it stops before the promised analysis; it can expand the map of topics but cannot establish a full interpretation of Xiao Feng or the novel's ending.
+
 ## Key Characteristics
 
 - Uses a mobile and commercially dense Song setting to make unofficial Jianghu actors socially plausible.
-- Joins social mobility to ethnic, political, familial, and personal identity conflict.
+- Joins social mobility to ethnic, political, familial, and personal identity conflict, with Xiao Feng previewed as its central tragic-hero case.
 - Rejects simple bloodline morality and single-label antagonists while tracing how inheritance, upbringing, trauma, attachment, rules, and choice shape conduct.
 - Concentrates multiple character arcs and antagonisms at the Shaoshi Mountain battle.
 - Supports institutional history, political interpretation, character ethics, and late-novel structural analysis without making those methods interchangeable.
@@ -81,16 +84,20 @@ Xuzhu's surrounding figures deepen that tension. Tonglao combines violent domina
 - [[065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z]] places loss of monastic identity, broken vows, parental death, and unwanted office inside his apparent good fortune.
 - [[065-tianlongbabu-zhi-xuzhu-pian-hongyan-tanzhi-lao-chana-fanghua-lvs6-y-_lurbgf_r1he5q11b-z]] reads Tonglao, Xuanci, Ye Erniang, and 梦姑 through the conflicting demands of protection, coercion, discipline, kinship, and desire.
 
+### Xiao Feng's announced heroic frame
+
+- [[060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv]] identifies chivalric concern, boldness, integrity, composure, unusual origins, non-Han identity, and tragic death as the intended dimensions of a Xiao Feng study.
+- [[060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv]] ends as the substantive discussion begins and therefore supports only this agenda, not the advertised analysis.
+
 ## Qualifications
 
-All six sources are podcast interpretations rather than textual editions or independent historical studies. The broad historical source offers selective examples, while the Shaoshi Mountain source is only a three-minute opening and cannot ground its advertised later analysis. The four complete character discussions remain conversational: succession legitimacy, historical analogy, martial ranking, psychology, love, consent, authorial intention, philosophical symbolism, and the moral meaning of release are interpretive. Modern labels such as “pure evil,” personality disorder, Stockholm syndrome, or masochism are not clinical diagnoses. Version differences around Ye Erniang's harm to children, A Zi's harassment and attractions, Xuzhu's aptitude, 梦姑's marriage, and uncertainty about Murong Fu's motives prevent one silently harmonized account.
+All seven sources are podcast interpretations rather than textual editions or independent historical studies. The broad historical source offers selective examples, while the Shaoshi Mountain and Xiao Feng sources are only three-minute openings and cannot ground their advertised later analysis. The four complete character discussions remain conversational: succession legitimacy, historical analogy, martial ranking, psychology, love, consent, authorial intention, philosophical symbolism, and the moral meaning of release are interpretive. Modern labels such as “pure evil,” personality disorder, Stockholm syndrome, or masochism are not clinical diagnoses. Version differences around Ye Erniang's harm to children, A Zi's harassment and attractions, Xuzhu's aptitude, 梦姑's marriage, and uncertainty about Murong Fu's motives prevent one silently harmonized account. The Xiao Feng preview's two canon-wide uniqueness claims also remain unverified.
 
 ## What Changed
 
-- Added Xuzhu's repeated compassion and honesty as the mechanism linking contingency to consequence.
-- Qualified his apparent fortune with unwanted identity loss, coercion, grief, and responsibility.
-- Added the reverse movement from monastic discipline into secular desire as a counterpoint to the novel's renunciation arcs.
-- Extended edition sensitivity to Xuzhu's aptitude and 梦姑's marital characterization.
+- Added Xiao Feng's announced heroic, ethnic-identity, origin, and tragic-fate frame.
+- Distinguished the preview's topic map from a completed character or ending analysis.
+- Kept the episode's canon-wide uniqueness claims source-scoped and unverified.
 
 ## Relationships
 

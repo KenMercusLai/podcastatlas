@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [060 《天龙八部》之萧峰篇：虽万千人吾往矣](sources/060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv.md) — 纸醉金迷FM以三分钟付费节目开场预告萧峰的侠义、豪迈、族群身份与悲剧命运，同时明确正片分析尚未进入现有转录。
 - [061 看《功夫女足》不如重温周星驰《少林足球》](sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx.md) — 纸醉金迷FM重温《少林足球》，分析失意者如何把功夫转化为团队能力，并讨论现实痛感、漫画奇观、尊严恢复、女性行动与喜剧接受分歧。
 - [062 盗墓小说开山之作：趣话《鬼吹灯》之序章，梦开始的地方！](sources/062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw.md) — 纸醉金迷FM从胡八一家传、知青与军旅经历讲到首次下墓和考古队组建，分析《鬼吹灯》如何融合时代生活、民间叙事、幽默、怪物与灵异留白。
 - [VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相](sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n.md) — 这病说来话长 episode with 谭思维 on hemorrhoid symptom thresholds, anorectal bleeding, fissure and fistula, treatment tradeoffs, and postoperative care.

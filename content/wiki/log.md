@@ -35480,3 +35480,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-11] ingest | 060 《天龙八部》之萧峰篇：虽万千人吾往矣
+
+Added source `060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv`; resynthesized [[XiaoFeng|萧峰]] and [[TianLongBaBu|《天龙八部》]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the three-minute opening broadens Xiao Feng from the A Zi relationship into an announced study of heroic conduct, ethnic identity, unusual origins, and tragic fate, but ends before the substantive analysis begins. No settled contradiction was adopted. The body spelling “肖峰” is treated as a transcription error for 萧峰, and the two canon-wide uniqueness claims remain source-scoped and unverified. No new concept or broad show profile was opened because the excerpt contributes an agenda rather than a developed framework; the automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,443 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide link scan still reports 40 pre-existing broken links outside the changed pages.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
