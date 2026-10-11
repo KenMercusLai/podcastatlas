@@ -19652,6 +19652,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BookAndSword": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BookAsGraveMemoryWork": [
     {
       "key": "culture",
@@ -22756,6 +22763,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ChenJialuo": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ChenJingwei": [
@@ -74365,6 +74379,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RelationalSelfConceptSelection": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RelationshipFeedbackLoop": [
     {
       "key": "science",
@@ -104270,6 +104291,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk": [
     {
       "key": "culture",
       "label": "Culture",

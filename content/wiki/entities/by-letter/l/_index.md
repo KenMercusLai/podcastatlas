@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13391
+wiki_total_pages: 13396
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2753,6 +2753,9 @@ wiki_pages:
   - key: "LuoJun"
     title: "骆俊 / Luo Jun"
     url: "/wiki/entities/luojun/"
+  - key: "LuoBing"
+    title: "骆冰（《书剑恩仇录》） / Luo Bing"
+    url: "/wiki/entities/luobing/"
   - key: "LuoYoumei"
     title: "骆友梅 / Luo Youmei"
     url: "/wiki/entities/luoyoumei/"

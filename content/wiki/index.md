@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [019 闲话金庸《书剑恩仇录》中的爱情书写](sources/ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk.md) — 纸醉金迷FM以女性主动、婚姻日常、组织撮合和陈家洛的自我概念重读《书剑恩仇录》，并区分牺牲、压力与真正互惠的感情。
 - [020 一日讲完百年事：闲话金庸《雪山飞狐》](sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr.md) — 纸醉金迷FM以一日、二十七年与百年三层时间及逐层证言重读《雪山飞狐》，并从胡一刀的间接塑造、继承仇恨与开放结局检验侠义。
 - [021 我的阿勒泰？漫话金庸《白马啸西风》](sources/lriy1oybgigotwswtzkfbrdrhtl7.md) — 纸醉金迷FM以多组爱而不得的选择重读《白马啸西风》，并从李文秀的善意、瓦尔拉齐的复杂性和高昌宝藏讨论族群判断与文化价值。
 - [022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》](sources/ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl.md) — 纸醉金迷FM以公孙大娘的三场赌斗、花满楼的生命善意及针锤决战重读《绣花大盗》，同时质疑女性塑造、罪案动机与推理衔接。
@@ -4632,6 +4633,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《书剑恩仇录》 / The Book and the Sword](entities/BookAndSword.md) — 金庸小说，以女性主动、爱情边界、婚姻日常、组织压力及政治责任组织多代关系群像。
+- [陈家洛 / Chen Jialuo](entities/ChenJialuo.md) — 在真实担当、被动任命、领导不安、情感安全与政治代价回避之间摇摆的红花会总舵主。
+- [霍青桐 / Huo Qingtong](entities/HuoQingtong.md) — 以主动解释、战略能力和平等共担责任构成陈家洛情感与自我概念挑战的女性人物。
+- [香香公主（《书剑恩仇录》） / Princess Fragrance](entities/PrincessFragranceBookAndSword.md) — 以信任、崇拜、依赖和情感安定支持陈家洛保护者自我定位的人物。
+- [骆冰（《书剑恩仇录》） / Luo Bing](entities/LuoBing.md) — 以主动救夫、互信婚姻和对余鱼同的明确拒绝区分义气牺牲与爱情债务的红花会成员。
 - [《白马啸西风》 / White Horse Neighs in the Western Wind](entities/WhiteHorseNeighsInWesternWind.md) — 金庸女性主角边疆小说，以爱而不得、选择中的善恶、族群偏见与高昌宝藏连接感情伦理和文化价值。
 - [李文秀（《白马啸西风》） / Li Wenxiu](entities/LiWenxiu.md) — 在失恋与危险中保护苏普、阿曼和苏鲁克，并以行动而非强力改变族群判断的女主角。
 - [瓦尔拉齐 / Walrazi](entities/Waerlazi.md) — 真诚授艺与片刻关切同谋杀、集体投毒计划和临终杀意并存，却不因此获得救赎的师父反派。
@@ -18093,6 +18099,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Relational Self-Concept Selection / 亲密关系选择与自我概念](concepts/RelationalSelfConceptSelection.md) — 亲密关系选择部分取决于关系让人体验为平等伙伴、保护者、权威、救援者或不足者中的哪一种自我。
 - [Cultural Value Nonuniversality / 文化价值的非普遍性](concepts/CulturalValueNonuniversality.md) — 一种文化珍视的对象不因此自动成为所有人的珍宝，交流须保留解释、改造与拒绝的权利。
 - [Wuxia as Adult Fairy Tale / 武侠作为成人童话](concepts/WuxiaAdultFairyTale.md) — 以友情、信任、享乐、韧性和邪不压正构成理想化情感契约，同时不把浪漫力量当作因果漏洞的豁免。
 - [Idealized Love Deconstruction / 爱情神话拆解](concepts/IdealizedLoveDeconstruction.md) — 不以激情、牺牲、排他性或婚姻结果单独定义爱情，而以欲望、主体性、照料、责任、边界、权力与共同生活综合检验关系。

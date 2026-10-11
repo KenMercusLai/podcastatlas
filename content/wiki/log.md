@@ -36317,3 +36317,11 @@ Added source `loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 019 闲话金庸《书剑恩仇录》中的爱情书写
+
+Added source `ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk`; created [[BookAndSword|《书剑恩仇录》]], [[ChenJialuo|陈家洛]], [[HuoQingtong|霍青桐]], [[PrincessFragranceBookAndSword|香香公主]], [[LuoBing|骆冰]], and [[RelationalSelfConceptSelection|亲密关系选择与自我概念]]; and resynthesized [[LoveControlIllusion|爱的可控性幻觉]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the novel's women more often initiate, explain, rescue, and decide while several men hesitate or become extreme; sacrifice, leverage, social approval, and organizational matchmaking can change conduct or proximity but do not guarantee reciprocal love; ordinary marriage persists through attention, communication, and renewed recognition after passion or disappointment; and Chen Jialuo's preference for Princess Fragrance over Huo Qingtong may reflect the safer protector identity she permits, paralleling his hope for a lower-cost political route through 乾隆. No settled contradiction was adopted. The meaning of Luo Bing's smile, 红花会's matchmaking motive, Chen's awareness, insecurity, romantic preference, political opportunism, exact dialogue, authorial intention, and edition details remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, characters, and concepts capture the durable addition without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,548 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

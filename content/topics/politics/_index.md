@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3301
+topic_total_pages: 3303
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8054,6 +8054,9 @@ topic_entities:
   - key: "DongbeiBoyi"
     title: "《东北博弈》"
     url: "/wiki/entities/dongbeiboyi/"
+  - key: "BookAndSword"
+    title: "《书剑恩仇录》 / The Book and the Sword"
+    url: "/wiki/entities/bookandsword/"
   - key: "ErNianLuLing"
     title: "《二年律令》 / Er Nian Lu Ling"
     url: "/wiki/entities/ernianluling/"
@@ -8564,6 +8567,9 @@ topic_entities:
   - key: "LuJia"
     title: "陆贾 / Lu Jia"
     url: "/wiki/entities/lujia/"
+  - key: "ChenJialuo"
+    title: "陈家洛 / Chen Jialuo"
+    url: "/wiki/entities/chenjialuo/"
   - key: "ChenZhongLateHan"
     title: "陈忠 / Chen Zhong (late Han)"
     url: "/wiki/entities/chenzhonglatehan/"

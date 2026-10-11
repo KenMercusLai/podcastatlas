@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13391
+wiki_total_pages: 13396
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "BuSiYaoNovel"
     title: "《不死药》 / The Immortality Drug"
     url: "/wiki/entities/busiyaonovel/"
+  - key: "BookAndSword"
+    title: "《书剑恩仇录》 / The Book and the Sword"
+    url: "/wiki/entities/bookandsword/"
   - key: "BorrowedCorpseReturnsSoulGuLong"
     title: "《借尸还魂》 / Borrowed Corpse Returns the Soul"
     url: "/wiki/entities/borrowedcorpsereturnssoulgulong/"

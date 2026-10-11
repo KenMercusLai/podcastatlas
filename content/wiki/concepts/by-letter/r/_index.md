@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10450
+wiki_total_pages: 10451
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "RelationalJoy"
     title: "Relational Joy"
     url: "/wiki/concepts/relationaljoy/"
+  - key: "RelationalSelfConceptSelection"
+    title: "Relational Self-Concept Selection / 亲密关系选择与自我概念"
+    url: "/wiki/concepts/relationalselfconceptselection/"
   - key: "RelationalSilenceProjection"
     title: "Relational Silence and Projection"
     url: "/wiki/concepts/relationalsilenceprojection/"
