@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Art of Learning & Living Life | Josh Waitzkin](sources/scim6762906273-scim6762906273.md) — Huberman Lab conversation on cross-domain mastery, pressure-loss analysis, MIQ incubation, transition-zone training, dynamic renewal, and post-conscious performance.
 - [048 人生识字忧患始：金庸《侠客行》到底想表达什么？](sources/lkwyqt4w5g-uet_vckex3f33nu8n.md) — 纸醉金迷FM以侠客岛、石破天多重名字和武学图谱讨论信息不透明、责任、赤子之心、身份标签，以及知识框架如何遮蔽视觉与身体层面的答案。
 - [049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？](sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p.md) — 纸醉金迷FM批评《射雕英雄传：侠之大者》的压缩、人物因果、特效化动作与未获铺垫的反战主题，同时保留蒙古段落、华筝、配角和语言设计等局部优点。
 - [536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)](sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026.md) — The Rest Is History reassessment of Caligula's dynastic appeal, populist spectacle, senatorial terror, military power, assassination, and hostile-source reputation.
@@ -4549,6 +4550,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [Josh Waitzkin](entities/JoshWaitzkin.md) — Chess international master, martial artist, author, and coach whose profile centers on cross-domain learning, failure analysis, and dynamic renewal.
+- [Marcelo Garcia](entities/MarceloGarcia.md) — Brazilian jiu-jitsu champion used as the episode's main case of scramble mastery and rebuilding after victory.
+- [Lila Science](entities/LilaScience.md) — Source-scoped AI, robotics, and iterative-science project connected to question quality, material science, and safety.
+- [The Art of Learning](entities/TheArtOfLearning.md) — Josh Waitzkin's memoir and learning framework, presented as candid self-study through consequential failure.
 - [谢烟客 / Xie Yanke](entities/XieYanke.md) — 《侠客行》中重诺却试图操控承诺兑现方式的高手，因石破天不求人而反受玄铁令约束。
 - [Caligula](entities/Caligula.md) — Julio-Claudian emperor whose popular dynastic appeal, political calculation, spectacle, elite humiliation, and Praetorian dependence complicate the mad-monster archetype.
 - [Germanicus](entities/Germanicus.md) — Julio-Claudian commander whose military and popular reputation became transferable legitimacy for Caligula.
@@ -17865,6 +17870,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Cross-Domain Thematic Transfer](concepts/CrossDomainThematicTransfer.md) — Carrying structural principles such as timing, pressure, or empty space across practices without treating surface techniques as interchangeable.
+- [Pressure-Loss Analysis](concepts/PressureLossAnalysis.md) — Review of consequential failure at technical, psychological, and thematic levels so pain becomes usable evidence rather than identity verdict.
+- [Most-Important-Question Incubation](concepts/MostImportantQuestionIncubation.md) — Work-rest cycle that poses one live question, releases effort, and captures returning insight before outside input.
+- [Transition-Zone Training](concepts/TransitionZoneTraining.md) — Deliberate practice in unstable handoffs and scrambles where polished endpoint routines offer less protection.
+- [Dynamic-Quality Mastery](concepts/DynamicQualityMastery.md) — Renewal of repertoire and identity after success instead of preserving the static formula associated with the last win.
+- [Post-Conscious Performance](concepts/PostConsciousPerformance.md) — Mature freedom after self-awareness and disruption have been integrated rather than denied.
 - [Interpretive Schema Blindness / 解释框架遮蔽](concepts/InterpretiveSchemaBlindness.md) — 熟悉的解释系统把注意力固定在错误表征层，使专家看不见同一对象中的其他有效信号。
 - [Principate Constitutional Fiction](concepts/PrincipateConstitutionalFiction.md) — Gap between republican partnership forms and inherited monarchical, dynastic, popular, Praetorian, and legionary power.
 - [Mindful Noticing Under Uncertainty](concepts/MindfulNoticingUnderUncertainty.md) — Ellen Langer's mindfulness framework of actively noticing change, novelty, distinctions, and conditionality in ordinary life.

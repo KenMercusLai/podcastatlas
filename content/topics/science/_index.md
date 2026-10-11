@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1554
+topic_total_pages: 1555
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3053,6 +3053,9 @@ topic_entities:
   - key: "LeonFestinger"
     title: "Leon Festinger / 利昂·费斯廷格"
     url: "/wiki/entities/leonfestinger/"
+  - key: "LilaScience"
+    title: "Lila Science"
+    url: "/wiki/entities/lilascience/"
   - key: "LisaMosconi"
     title: "Lisa Mosconi"
     url: "/wiki/entities/lisamosconi/"

@@ -54789,6 +54789,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "LilaScience": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LimestoneLoopCarbonCapture": [
     {
       "key": "science",
@@ -86145,6 +86157,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "TheArtOfLearning": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TheAtlantic": [

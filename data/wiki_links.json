@@ -23311,6 +23311,10 @@
     "title": "Cross-Docking Retail",
     "url": "/wiki/concepts/crossdockingretail/"
   },
+  "CrossDomainThematicTransfer": {
+    "title": "Cross-Domain Thematic Transfer",
+    "url": "/wiki/concepts/crossdomainthematictransfer/"
+  },
   "CrossKinshipSteppeOrganization": {
     "title": "Cross-Kinship Steppe Organization",
     "url": "/wiki/concepts/crosskinshipsteppeorganization/"
@@ -28058,6 +28062,10 @@
   "DynamicPricingFairness": {
     "title": "Dynamic Pricing Fairness",
     "url": "/wiki/concepts/dynamicpricingfairness/"
+  },
+  "DynamicQualityMastery": {
+    "title": "Dynamic-Quality Mastery",
+    "url": "/wiki/concepts/dynamicqualitymastery/"
   },
   "DynasticClaimNationalMobilization": {
     "title": "Dynastic Claim National Mobilization",
@@ -48319,6 +48327,10 @@
     "title": "Josh Spencer",
     "url": "/wiki/entities/joshspencer/"
   },
+  "JoshWaitzkin": {
+    "title": "Josh Waitzkin",
+    "url": "/wiki/entities/joshwaitzkin/"
+  },
   "JosieDallap": {
     "title": "Josie Dallap",
     "url": "/wiki/entities/josiedallap/"
@@ -52511,6 +52523,10 @@
     "title": "Lijiang / 丽江",
     "url": "/wiki/entities/lijiang/"
   },
+  "LilaScience": {
+    "title": "Lila Science",
+    "url": "/wiki/entities/lilascience/"
+  },
   "LillieLangtry": {
     "title": "Lillie Langtry",
     "url": "/wiki/entities/lillielangtry/"
@@ -56446,6 +56462,10 @@
   "MarceloCaetano": {
     "title": "Marcelo Caetano",
     "url": "/wiki/entities/marcelocaetano/"
+  },
+  "MarceloGarcia": {
+    "title": "Marcelo Garcia",
+    "url": "/wiki/entities/marcelogarcia/"
   },
   "MarchHare": {
     "title": "March Hare / 三月兔",
@@ -60426,6 +60446,10 @@
   "MostFavoredNationDrugPricing": {
     "title": "Most-Favored-Nation Drug Pricing",
     "url": "/wiki/concepts/mostfavorednationdrugpricing/"
+  },
+  "MostImportantQuestionIncubation": {
+    "title": "Most-Important-Question Incubation",
+    "url": "/wiki/concepts/mostimportantquestionincubation/"
   },
   "MostValuablePromotions": {
     "title": "Most Valuable Promotions",
@@ -68615,6 +68639,10 @@
     "title": "Post-Conquest Population Removal / 征服后人口迁出",
     "url": "/wiki/concepts/postconquestpopulationremoval/"
   },
+  "PostConsciousPerformance": {
+    "title": "Post-Conscious Performance",
+    "url": "/wiki/concepts/postconsciousperformance/"
+  },
   "PostCullodenHighlandTransformation": {
     "title": "Post-Culloden Highland Transformation",
     "url": "/wiki/concepts/postcullodenhighlandtransformation/"
@@ -69246,6 +69274,10 @@
   "PresidentialSystem": {
     "title": "Presidential System",
     "url": "/wiki/concepts/presidentialsystem/"
+  },
+  "PressureLossAnalysis": {
+    "title": "Pressure-Loss Analysis",
+    "url": "/wiki/concepts/pressurelossanalysis/"
   },
   "PressureReleaseInfightingStrategy": {
     "title": "撤压诱发内斗 / Pressure-Release Infighting Strategy",
@@ -84875,6 +84907,10 @@
     "title": "The Art of Insubordination / 不服从的艺术",
     "url": "/wiki/entities/theartofinsubordination/"
   },
+  "TheArtOfLearning": {
+    "title": "The Art of Learning",
+    "url": "/wiki/entities/theartoflearning/"
+  },
   "TheAtlantic": {
     "title": "The Atlantic",
     "url": "/wiki/entities/theatlantic/"
@@ -87062,6 +87098,10 @@
   "TransitionFitOverMerit": {
     "title": "Transition Fit Over Merit / 过渡期适任优先于功劳",
     "url": "/wiki/concepts/transitionfitovermerit/"
+  },
+  "TransitionZoneTraining": {
+    "title": "Transition-Zone Training",
+    "url": "/wiki/concepts/transitionzonetraining/"
   },
   "TransitionalAIHardware": {
     "title": "Transitional AI Hardware",
@@ -103434,6 +103474,10 @@
   "scim6678678955-scim6678678955": {
     "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
     "url": "/wiki/sources/scim6678678955-scim6678678955/"
+  },
+  "scim6762906273-scim6762906273": {
+    "title": "The Art of Learning & Living Life | Josh Waitzkin",
+    "url": "/wiki/sources/scim6762906273-scim6762906273/"
   },
   "scim8024795061-scim8024795061": {
     "title": "How to Build Endurance in Your Brain & Body",

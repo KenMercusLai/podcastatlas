@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10364
+wiki_total_pages: 10370
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "MostFavoredNationDrugPricing"
     title: "Most-Favored-Nation Drug Pricing"
     url: "/wiki/concepts/mostfavorednationdrugpricing/"
+  - key: "MostImportantQuestionIncubation"
+    title: "Most-Important-Question Incubation"
+    url: "/wiki/concepts/mostimportantquestionincubation/"
   - key: "MotherComplex"
     title: "Mother Complex / 母亲情结"
     url: "/wiki/concepts/mothercomplex/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10364
+wiki_total_pages: 10370
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "TransitionFitOverMerit"
     title: "Transition Fit Over Merit / 过渡期适任优先于功劳"
     url: "/wiki/concepts/transitionfitovermerit/"
+  - key: "TransitionZoneTraining"
+    title: "Transition-Zone Training"
+    url: "/wiki/concepts/transitionzonetraining/"
   - key: "TransitionalAIHardware"
     title: "Transitional AI Hardware"
     url: "/wiki/concepts/transitionalaihardware/"

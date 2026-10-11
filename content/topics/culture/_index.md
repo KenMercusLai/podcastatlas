@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3421
+topic_total_pages: 3422
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6170,6 +6170,9 @@ topic_entities:
   - key: "TheArtOfInsubordination"
     title: "The Art of Insubordination / 不服从的艺术"
     url: "/wiki/entities/theartofinsubordination/"
+  - key: "TheArtOfLearning"
+    title: "The Art of Learning"
+    url: "/wiki/entities/theartoflearning/"
   - key: "TheBacchae"
     title: "The Bacchae / 酒神的伴侣"
     url: "/wiki/entities/thebacchae/"

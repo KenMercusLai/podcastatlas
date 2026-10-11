@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10364
+wiki_total_pages: 10370
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2924,6 +2924,9 @@ wiki_pages:
   - key: "CrossDockingRetail"
     title: "Cross-Docking Retail"
     url: "/wiki/concepts/crossdockingretail/"
+  - key: "CrossDomainThematicTransfer"
+    title: "Cross-Domain Thematic Transfer"
+    url: "/wiki/concepts/crossdomainthematictransfer/"
   - key: "CrossKinshipSteppeOrganization"
     title: "Cross-Kinship Steppe Organization"
     url: "/wiki/concepts/crosskinshipsteppeorganization/"

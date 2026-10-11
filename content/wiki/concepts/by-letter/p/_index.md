@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10364
+wiki_total_pages: 10370
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1460,6 +1460,9 @@ wiki_pages:
   - key: "PostConquestPopulationRemoval"
     title: "Post-Conquest Population Removal / 征服后人口迁出"
     url: "/wiki/concepts/postconquestpopulationremoval/"
+  - key: "PostConsciousPerformance"
+    title: "Post-Conscious Performance"
+    url: "/wiki/concepts/postconsciousperformance/"
   - key: "PostCullodenHighlandTransformation"
     title: "Post-Culloden Highland Transformation"
     url: "/wiki/concepts/postcullodenhighlandtransformation/"
@@ -1859,6 +1862,9 @@ wiki_pages:
   - key: "PresidentialSystem"
     title: "Presidential System"
     url: "/wiki/concepts/presidentialsystem/"
+  - key: "PressureLossAnalysis"
+    title: "Pressure-Loss Analysis"
+    url: "/wiki/concepts/pressurelossanalysis/"
   - key: "PrestigeSupplyChainCostExternalization"
     title: "Prestige Supply Chain Cost Externalization / 声望供应链成本外部化"
     url: "/wiki/concepts/prestigesupplychaincostexternalization/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13248
+wiki_total_pages: 13252
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "TheArtOfInsubordination"
     title: "The Art of Insubordination / 不服从的艺术"
     url: "/wiki/entities/theartofinsubordination/"
+  - key: "TheArtOfLearning"
+    title: "The Art of Learning"
+    url: "/wiki/entities/theartoflearning/"
   - key: "TheAtlantic"
     title: "The Atlantic"
     url: "/wiki/entities/theatlantic/"

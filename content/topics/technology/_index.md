@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3465
+topic_total_pages: 3466
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6608,6 +6608,9 @@ topic_entities:
   - key: "Liblib"
     title: "Liblib"
     url: "/wiki/entities/liblib/"
+  - key: "LilaScience"
+    title: "Lila Science"
+    url: "/wiki/entities/lilascience/"
   - key: "Limitless"
     title: "Limitless"
     url: "/wiki/entities/limitless/"
