@@ -136145,9 +136145,9 @@
       "url": "/wiki/entities/javiermilei/"
     },
     "JayBhattacharya": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
@@ -136169,9 +136169,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/jaybhattacharya/"
     },
     "JayClayton": {
@@ -172442,9 +172449,9 @@
       "url": "/wiki/concepts/medicaldiagnosticreasoning/"
     },
     "MedicalDogmaTrustRepair": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
@@ -172466,9 +172473,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/medicaldogmatrustrepair/"
     },
     "MedicalImagingCommunicationBoundary": {
@@ -184120,9 +184134,9 @@
       "url": "/wiki/entities/nationalfascisti/"
     },
     "NationalInstitutesOfHealth": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -184144,9 +184158,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/nationalinstitutesofhealth/"
     },
     "NationalOrthopedicSportsRehabilitationClinicalResearchCenter": {
@@ -184981,6 +185002,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/nefertiti/"
+    },
+    "NegativeResultsAsScientificData": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "BF5BEAEE06B79AF632A834CCA08CB345~8584436_2026-08-10-210036-8787-0-0-10.128 [BF5BEAEE06B79AF632A834CCA08CB345~8584436_2026-08-10-210036-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83820f].md",
+          "key": "data-ai-and-scientific-research-a-coffee-chat",
+          "show": "Data Science With Sam",
+          "title": "Data, AI, and Scientific Research: A Coffee Chat",
+          "url": "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/negativeresultsasscientificdata/"
     },
     "NeglectedFrictionProductInnovation": {
       "episode_count": 1,
@@ -219310,6 +219354,29 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/repeatedcontactdating/"
     },
+    "ReplicationCrisis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717 [default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717].md",
+          "key": "dont-hate-the-replicator-hate-the-game",
+          "show": "Planet Money",
+          "title": "Don't hate the replicator, hate the game",
+          "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/replicationcrisis/"
+    },
     "RepressionMartyrdomBackfire": {
       "episode_count": 3,
       "show_count": 1,
@@ -219804,6 +219871,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
+    },
+    "ResearchIntegrityIncentives": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "F59D6580F2BBB1DFD1737299EDA4E3E9~8584439_2026-08-10-210639-8787-0-0-10.128 [F59D6580F2BBB1DFD1737299EDA4E3E9~8584439_2026-08-10-210639-8787-0-0-10.128.mp3？cdn_id=99&uuid=d1410dc5-36e4-425d-83e2-aa9ca8099580&wuuid=6a8383c8].md",
+          "key": "ep-6-data-science-ai-talk",
+          "show": "Data Science With Sam",
+          "title": "EP 6: Data Science & AI Talk",
+          "url": "/wiki/sources/ep-6-data-science-ai-talk/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717 [default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717].md",
+          "key": "dont-hate-the-replicator-hate-the-game",
+          "show": "Planet Money",
+          "title": "Don't hate the replicator, hate the game",
+          "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/researchintegrityincentives/"
     },
     "ResidentPhysicianStandardizedTraining": {
       "episode_count": 1,
@@ -229325,9 +229422,9 @@
       "url": "/wiki/concepts/sciencecommunicationtrustrepair/"
     },
     "ScienceFundingPortfolioLogic": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -229342,9 +229439,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        },
+        {
+          "episode_file": "SCIM5646582763 [SCIM5646582763].md",
+          "key": "scim5646582763-scim5646582763",
+          "show": "Huberman Lab",
+          "title": "Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya",
+          "url": "/wiki/sources/scim5646582763-scim5646582763/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/sciencefundingportfoliologic/"
     },
     "ScienceTalentPipeline": {

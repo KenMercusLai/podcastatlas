@@ -35419,3 +35419,13 @@ Added source `063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lra
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya
+
+Added source `scim5646582763-scim5646582763`; resynthesized [[JayBhattacharya|Jay Bhattacharya]], [[NationalInstitutesOfHealth|National Institutes of Health]], [[ScienceFundingPortfolioLogic]], [[ReplicationCrisis]], [[ResearchIntegrityIncentives]], [[NegativeResultsAsScientificData]], and [[MedicalDogmaTrustRepair]] from their complete preserved evidence inventories before appending the new source once; and migrated the three touched legacy concepts to `synthesis-v1`. Core synthesis: Bhattacharya's NIH program preserves basic and applied research while seeking more tolerance for ambitious failure, earlier independent funding, public access, funded replication, searchable negative results, data sharing, and cooperation with correction; his public-trust program emphasizes open debate, evidence boundaries, subgroup distinctions, and admission of error. No settled contradiction was adopted. NIH performance, indirect-cost, open-access, drug-price, life-expectancy, review-age, restructuring, COVID, Sweden, masking, censorship, vaccine, myocarditis, autism, and mandate claims remain source-scoped rather than independently verified. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,436 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
