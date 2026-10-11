@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13434
+wiki_total_pages: 13435
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "ZhangBinSportsMedia"
     title: "张斌 / Zhang Bin"
     url: "/wiki/entities/zhangbinsportsmedia/"
+  - key: "ZhangWujiJinYong"
+    title: "张无忌（金庸小说） / Zhang Wuji (Jin Yong)"
+    url: "/wiki/entities/zhangwujijinyong/"
   - key: "ZhangJiCaoOfficialLateHan"
     title: "张既 / Zhang Ji (Cao official, late Han)"
     url: "/wiki/entities/zhangjicaoofficiallatehan/"

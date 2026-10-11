@@ -5,6 +5,7 @@ tags: [moral-judgment, group-identity, wuxia, sectarianism]
 sources:
   - lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav
   - lmzkiygsiicuvlthjqgatyuf49ac
+  - lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJin
 
 [[ChinesePaladin4|《仙剑奇侠传四》]] extends the framework from orthodox-versus-heterodox sects to humans, demons, ghosts, and divided institutional loyalty. Qionghua's orthodox status cannot legitimate injury in pursuit of ascension, while nonhuman identity cannot prove evil. Murong Ziying's opposition to Qionghua's leaders also shows that disobedience may preserve an institution's professed humane purpose more faithfully than compliance.
 
+The broader [[HeavenSwordDragonSaber|《倚天屠龙记》]] reading shows that the correction is not merely romantic or individual. Shaolin, Emei, Wudang, and Mingjiao each contain conduct that crosses their public labels: restraint, loyalty, cruelty, prejudice, courage, and betrayal remain person- and situation-specific. [[ZhangSanfengJinYong|张三丰]] explicitly makes character and willingness to do good the standard, while his disciples' initial incomprehension shows that one leader's moral breadth does not automatically dissolve institutional habit.
+
 ## Key Claims
 
 - Group affiliation can explain conflict, reputation, and available choices without settling personal morality.
@@ -29,6 +32,7 @@ The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJin
 - Correcting a negative faction stereotype must not become automatic exoneration of concrete harm.
 - Conduct-specific judgment requires attention to consent, causal role, consequences, repair, and continuing responsibility.
 - Species, realm, or institutional identity can reproduce the same moral shortcut as sect labels, and loyalty to purpose may require resistance to leaders.
+- A morally expansive leader can state a conduct-based norm without immediately transforming the surrounding organizational culture.
 
 ## Evidence
 
@@ -46,15 +50,20 @@ The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJin
 - [[lmzkiygsiicuvlthjqgatyuf49ac]] contrasts Qionghua's orthodox standing with the harm caused by its ascent and presents demons or ghosts as capable of affection, duty, and aid.
 - [[lmzkiygsiicuvlthjqgatyuf49ac]] interprets Murong Ziying's resistance as loyalty to Qionghua's humane ideal rather than betrayal reducible to factional alignment.
 
+### Mixed conduct across rival institutions
+
+- [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] finds admirable and blameworthy action across Shaolin, Emei, Wudang, and Mingjiao rather than assigning morality by camp.
+- [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] uses Zhang Sanfeng's acceptance of Yin Susu and warning against orthodox pride as the clearest explicit rule, while preserving the gap between his view and group uptake.
+
 ## Counterevidence & Qualifications
 
-Organizations and fictional species systems can shape conduct through teaching, incentives, hierarchy, secrecy, conflict, and sanctions; affiliation is therefore relevant context, not meaningless information. The concept rejects moral sufficiency, not all probabilistic inference. Its evidence remains fictional and source-bounded, and claims about exact actions, intent, sect doctrine, species nature, adaptation, or edition differences require direct textual support.
+Organizations and fictional species systems can shape conduct through teaching, incentives, hierarchy, secrecy, conflict, and sanctions; affiliation is therefore relevant context, not meaningless information. The concept rejects moral sufficiency, not all contextual inference. Its evidence remains fictional and source-bounded, and the new claims about Shaolin, authorial purpose, Hong Kong politics, exact actions, intent, doctrine, adaptation, or edition differences require direct textual support beyond the podcast readings.
 
 ## What Changed
 
-- Established a conduct-specific alternative to orthodox–heterodox moral sorting.
-- Added the reciprocal warning that resisting stigma must not erase individual accountability.
-- Extended the framework from sect labels to human–demon–ghost classification and loyalty to institutional purpose.
+- Extended the framework from intimate relationships to institutional conduct across four major factions.
+- Added the gap between a leader's conduct-based norm and the surrounding organization's inherited habits.
+- Preserved affiliation as context while rejecting it as a sufficient moral verdict.
 
 ## Related Concepts
 

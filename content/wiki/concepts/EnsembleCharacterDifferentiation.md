@@ -4,6 +4,7 @@ type: concept
 tags: [narrative, ensemble, characterization, wuxia, literary-criticism]
 sources:
   - lupg1kt3vmjtosukkza7scrai2gg-lupg1kt3vmjtosukkza7scrai2gg
+  - lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The [[BookAndSword|《书剑恩仇录》]] discussion uses [[RedFlowerSociety|�
 
 Narrative position matters more than descriptive inventory. 文泰来 becomes the object of collective rescue, and 余鱼同 carries romance and adventure beyond the common mission; both acquire stronger recall because other events depend on them. 徐天宏's strategist role can outweigh memory of his weapon. Distinctive equipment helps identify a figure quickly, but an independent problem, relationship, contradiction, or decision gives that sign lasting meaning.
 
+[[HeavenSwordDragonSaber|《倚天屠龙记》]] supplies a more mature contrasting case. Its supporting figures remain legible inside large scenes because they carry different temperaments, loyalties, moral contradictions, relationships, and inherited histories. Chapter titles distribute attention beyond the protagonist, while selective ellipsis gives a gesture such as Ji Xiaofu's refusal more interpretive force than exhaustive explanation. The title weapons also move through owners and conflicts like persistent narrative agents, connecting generations that predate Zhang Wuji's central story.
+
 ## Key Claims
 
 - Shared purpose can establish group identity while weakening individual contrast.
@@ -26,6 +29,7 @@ Narrative position matters more than descriptive inventory. 文泰来 becomes th
 - Appearance, occupation, title, weapon, and style work best as reinforcing signs rather than substitutes for action.
 - Even coverage can flatten a cast when every member receives similar descriptive treatment.
 - Later convergence is stronger when earlier scenes have already established distinct local arcs and relationships.
+- Paratext, ellipsis, recurring objects, and inherited memory can distribute narrative weight across an ensemble without equal exposition.
 
 ## Evidence
 
@@ -41,15 +45,20 @@ Narrative position matters more than descriptive inventory. 文泰来 becomes th
 
 - [[lupg1kt3vmjtosukkza7scrai2gg-lupg1kt3vmjtosukkza7scrai2gg]] treats unusual weapons and martial arts as identification aids while observing that 徐天宏's strategic function is more memorable than his double crutches.
 
+### Distributed attention and intergenerational structure
+
+- [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] uses the Five Wanderers, Four Guardian Kings, He Taichong, and other secondary figures to show distinct characterization inside crowded scenes.
+- [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] treats linked chapter titles, Ji Xiaofu's silent refusal, the title weapons, and pre-protagonist history as devices that distribute emphasis across people, objects, and generations.
+
 ## Counterevidence & Qualifications
 
-This concept derives from one conversational reading of one early wuxia novel, not controlled evidence about reader recall. A highly unified group can create deliberate collective force, and a schematic secondary member may perform a necessary pacing or genre function. Internal conflict is not the only route to distinction: humor, speech, visual silhouette, competence, moral choice, or recurring relationship can suffice. Judgments about which Red Flower Society members are memorable remain host- and adaptation-dependent.
+This concept derives from two conversational readings of wuxia novels, not controlled evidence about reader recall. A highly unified group can create deliberate collective force, and a schematic secondary member may perform a necessary pacing or genre function. Internal conflict is not the only route to distinction: humor, speech, visual silhouette, competence, moral choice, recurring relationship, paratext, or objects can suffice. Claims about chapter-title design, authorial intention, and weapons as characters are interpretations, while judgments about memorable figures remain host-, edition-, and adaptation-dependent.
 
 ## What Changed
 
-- Established the distinction between descriptive variety and consequential differentiation.
-- Identified independent arcs, internal conflict, and narrative dependence as stronger memory mechanisms than equal coverage.
-- Preserved weapons and titles as useful but insufficient ensemble markers.
+- Extended differentiation from individual roles and side plots into paratext, ellipsis, recurring objects, and generational memory.
+- Added a mature large-cast case where crowded scenes remain legible through distinct motives and relationships.
+- Preserved the distinction between interpretive formal claims and demonstrated reader effects.
 
 ## Related Concepts
 
@@ -58,3 +67,4 @@ This concept derives from one conversational reading of one early wuxia novel, n
 - [[MartialArtsCharacterFateEncoding]] - weapons and techniques provide one material layer of ensemble distinction.
 - [[NarrativeBridgeProtagonist]] - a structurally placed figure can connect otherwise separate cast regions.
 - [[ThemePlotCoherence]] - tests whether a character's declared function is enacted by the plot.
+- [[HeavenSwordDragonSaber|《倚天屠龙记》]] - mature ensemble case distributing attention across secondary figures, generations, chapter titles, and title weapons.

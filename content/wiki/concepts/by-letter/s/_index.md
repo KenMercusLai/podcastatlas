@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10465
+wiki_total_pages: 10466
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1814,6 +1814,9 @@ wiki_pages:
   - key: "StageAppropriateHiring"
     title: "Stage-Appropriate Hiring"
     url: "/wiki/concepts/stageappropriatehiring/"
+  - key: "StageContingentIntegrativeLeadership"
+    title: "Stage-Contingent Integrative Leadership / 阶段适配的整合型领导"
+    url: "/wiki/concepts/stagecontingentintegrativeleadership/"
   - key: "StageMatchedMotorSkillPractice"
     title: "Stage-Matched Motor Skill Practice"
     url: "/wiki/concepts/stagematchedmotorskillpractice/"

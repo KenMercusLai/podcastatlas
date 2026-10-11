@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [004 少林寺成了反派？张无忌是个好领导吗？｜闲话金庸《倚天屠龙记》](sources/lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii.md) — 纸醉金迷FM以张无忌的整合型领导、权力基础与政治边界重读《倚天屠龙记》，并由正邪门派、群像、回目和刀剑结构讨论行为判断与叙事层次。
 - [005 串台|《进击的巨人》又双叕完结了？到底烂尾没？](sources/lu-b1gvxqtwzilstumunrbd6lc2y-lu-b1gvxqtwzilstumunrbd6lc2y.md) — 纸醉金迷FM与千梦群岛把《进击的巨人》结局拆分为节奏、规则、人物动机与主题收束，并由地鸣、历史罪责和莱纳的身份撕裂讨论生存伦理与责任。
 - [006 闲话金庸《笑傲江湖》｜令狐冲到底爱谁？](sources/lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2.md) — 纸醉金迷FM以令狐冲、任盈盈、岳灵珊和林平之区分爱情、感恩、依赖、初恋记忆、关系适配与沉没成本，同时保留感情转折和排他性的争议。
 - [007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争](sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik.md) — 纸醉金迷FM以华山剑气之争、五岳并派和日月神教继承拆解理念、联盟与口号如何转化为权力竞争，并把令狐冲的退隐解释为扩张计划暂时失效后的政治空间。
@@ -4647,6 +4648,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [张无忌（金庸小说） / Zhang Wuji (Jin Yong)](entities/ZhangWujiJinYong.md) — 以慈悲、原则、组织整合、专业授权和跨阵营合法性见长，却缺少个人权力基础与零和竞争意愿的明教领袖。
 - [《进击的巨人》 / Attack on Titan](entities/AttackOnTitan.md) — 以战争、自由、继承性敌意、人物连续性和无解政治选择组织结局争议的漫画与动画系列。
 - [艾伦·耶格尔 / Eren Yeager](entities/ErenYeager.md) — 从早期敌人消灭逻辑走向地鸣，并同时受保护动机与个人毁灭欲驱动的主角。
 - [莱纳·布朗 / Reiner Braun](entities/ReinerBraun.md) — 在国家洗脑、敌我接触、战士与士兵身份撕裂及责任承担之间挣扎的潜入者。
@@ -4676,7 +4678,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [纪晓芙（金庸小说） / Ji Xiaofu (Jin Yong)](entities/JiXiaofuJinYong.md) — 在爱情、峨眉归属、诚实与不伤害之间长期分裂，却在拒绝欺骗和杀害杨逍时明确守住底线的人物。
 - [杨不悔（金庸小说） / Yang Buhui (Jin Yong)](entities/YangBuhuiJinYong.md) — 以长期照料和主动选择爱上殷梨亭，并拒绝把张无忌的救命之恩转化为婚姻债务的人物。
 - [殷梨亭（金庸小说） / Yin Liting (Jin Yong)](entities/YinLitingJinYong.md) — 在重伤照料中与前未婚妻之女建立关系，并承载年龄、相貌替代与代际补偿争议的武当人物。
-- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以配角的隐藏忠诚、跨门派爱情、生存策略与武当继承连接人物复杂性，并保留派系、动机与同意的证据边界。
+- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以整合型领导、正邪判断、隐藏忠诚、跨门派关系、群像、诗性回目与刀剑结构连接人物复杂性和多代江湖史。
 - [范遥（金庸小说） / Fan Yao (Jin Yong)](entities/FanYaoJinYong.md) — 长期潜伏却缺少可见报告，又在万安寺救援中发挥决定作用，并以自罚和跨阵营情感构成忠诚歧义的明教人物。
 - [俞莲舟（金庸小说） / Yu Lianzhou (Jin Yong)](entities/YuLianzhouJinYong.md) — 以武功、克制、风险判断与程序分寸获得掌门继承正当性的武当人物。
 - [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、武功设计、反复分离及多种不对等爱情区分吸引、牺牲、互惠与关系可行性。
@@ -4963,7 +4965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《僵尸先生》 / Mr. Vampire (1985)](entities/MrVampire1985.md) — 1985 Hong Kong horror-comedy whose master-apprentice trio, ritual props, bodily suspense, and mixed genre grammar became highly reusable.
 - [林正英 / Lam Ching-ying](entities/LamChingYing.md) — Hong Kong performer whose authoritative 九叔 persona anchors the bounded jiangshi-film and television legacy.
 - [Michael Snyder](entities/MichaelSnyder.md) — Stanford genetics professor connecting longitudinal multi-omics, metabolic individuality, ageotypes, environmental sensing, and AI-assisted health interpretation.
-- [张三丰（金庸小说） / Zhang Sanfeng (Jin Yong)](entities/ZhangSanfengJinYong.md) — 纸醉金迷FM以武功、因材施教、情绪稳定、爱护和不囿门户评价的全能型良师。
+- [张三丰（金庸小说） / Zhang Sanfeng (Jin Yong)](entities/ZhangSanfengJinYong.md) — 以武功、因材施教、情绪稳定、幽默和不囿门户的行为判断结合专业能力与无身份焦虑权威的良师。
 - [仁科 / Renke](entities/RenkeMusician.md) — 以海丰经验、广州街头网络、五条人创作与破圈后的公众生活连接地方性和艺术自主的音乐人。
 - [五条人 / Wutiaoren](entities/WutiaorenBand.md) — 从海丰方言与广州非正式音乐基础设施中形成、后经《乐队的夏天》进入大众视野的乐队。
 - [阿茂 / A Mao (Wutiaoren)](entities/AMaoWutiaoren.md) — 五条人的奠基合作者、早期海丰话歌曲重要作者及《地球恋曲》主要作曲者。
@@ -18152,6 +18154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Stage-Contingent Integrative Leadership / 阶段适配的整合型领导](concepts/StageContingentIntegrativeLeadership.md) — 区分组织修复、人才留用、和解与合法性建设，同继承斗争、强制整合及政权经营所需能力的领导框架。
 - [Existential Self-Defense Ethics / 生存威胁下的自卫伦理](concepts/ExistentialSelfDefenseEthics.md) — 当共同体生存与外部平民、未来世代及道德边界冲突时，区分动机理解、必要性、比例性、威慑与终极方案的框架。
 - [Inherited Historical Guilt / 继承性历史罪责](concepts/InheritedHistoricalGuilt.md) — 区分不应由后代继承的个人罪责，与记忆、承认、持续后果和修复责任的历史伦理框架。
 - [Speculative Rule Consistency / 幻想设定的规则一致性](concepts/SpeculativeRuleConsistency.md) — 不以现实可能性否定幻想前提，而检验后续能力、限制、铺垫与后果是否保持内部连贯的叙事标准。
@@ -18164,7 +18167,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fictional Factional Inference Boundary / 虚构派系解读边界](concepts/FictionalFactionalInferenceBoundary.md) — 区分故事明示、受约束的动机推断与仅具娱乐性的权力派系想象。
 - [Narrative-Perspective Moral Reevaluation / 叙事视角驱动的道德重评](concepts/NarrativePerspectiveMoralReevaluation.md) — 叙事焦点和冲突对象变化使稳定性格获得不同道德标签，同时以证据更新、角色责任和实际伤害校准评价。
 - [Relational Self-Concept Selection / 亲密关系选择与自我概念](concepts/RelationalSelfConceptSelection.md) — 亲密关系选择部分取决于关系让人体验为平等伙伴、保护者、权威、救援者或不足者中的哪一种自我。
-- [Ensemble Character Differentiation / 群像人物区分](concepts/EnsembleCharacterDifferentiation.md) — 以冲突、独立支线、关系、职责和行动后果区分大型群像，并把外貌、称号和兵器限定为辅助标记。
+- [Ensemble Character Differentiation / 群像人物区分](concepts/EnsembleCharacterDifferentiation.md) — 以冲突、独立支线、关系、职责、回目、留白、物件与代际记忆区分大型群像，并把外部标记限定为行动的辅助。
 - [Martial Arts as Character and Fate Encoding / 武功对人物与命运的编码](concepts/MartialArtsCharacterFateEncoding.md) — 以兵器、招式和战斗习惯外化身份、性格、叙事职能及反复的人生命运模式。
 - [Cultural Value Nonuniversality / 文化价值的非普遍性](concepts/CulturalValueNonuniversality.md) — 一种文化珍视的对象不因此自动成为所有人的珍宝，交流须保留解释、改造与拒绝的权利。
 - [Wuxia as Adult Fairy Tale / 武侠作为成人童话](concepts/WuxiaAdultFairyTale.md) — 以友情、信任、享乐、韧性和邪不压正构成理想化情感契约，同时不把浪漫力量当作因果漏洞的豁免。
