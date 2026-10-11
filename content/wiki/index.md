@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Master Your Sleep & Be More Alert When Awake](sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030.md) — Condensed Huberman Lab episode on adenosine sleep pressure, circadian light timing, conditional naps and NSDR, and behavior-first supplement boundaries.
 - [516. Nelson: God of War (Part 3)](sources/516-nelson-god-of-war-part-3-glt1686018300.md) — The Rest Is History on Cape St Vincent, Jervis's disciplined autonomy, Nelson's first national breakthrough, the failed Tenerife expedition, and the loss of his right arm.
 - [How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross](sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417.md) — Huberman Lab interview on useful inner speech, repetitive chatter, flexible regulation tools, psychological distance, advisory support, WOOP planning, and attention boundaries.
 - [VOL.142通俗易懂中医冬季预防感冒和轻症的原理和饮食、用药、起居](sources/vol-142-zhongyi-dongji-yufang-ganmao-yinshi-yongyao-qiju-lsupkbbkwxrh3n-h8ccfmglypr2.md) — 这病说来话长 episode with 毛哲 on scene-matched winter routines, cough and food-remedy distinctions, respiratory self-medication, and evidence-bounded escalation.

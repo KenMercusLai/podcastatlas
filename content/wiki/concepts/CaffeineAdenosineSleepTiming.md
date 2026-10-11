@@ -14,7 +14,8 @@ sources:
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
   - scim3191061030-scim3191061030
-last_updated: 2026-10-11
+  - essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -46,6 +47,8 @@ The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim914
 
 The Essentials edit of Walker's 2021 interview repeats the receptor-blockade model, a five-to-six-hour average half-life, an eight-to-ten-hour bedtime-relative cutoff, and the possibility of reduced deep sleep without obvious sleep-onset trouble. These details align with the existing range but are overlapping provenance rather than an independent timing study.
 
+The Essentials edit of Huberman's first sleep episode separately repeats the earliest blockade-and-crash explanation. It does not add the later timing, half-life, or sleep-architecture detail, so its contribution is provenance for the basic mechanism rather than a new dosing or cutoff rule.
+
 ## Key Claims
 - Caffeine is optional, dose-dependent, and strongly shaped by individual adaptation and tolerance.
 - Caffeine blocks adenosine receptors without clearing accumulated adenosine, so masking sleepiness is not the same as removing sleep pressure.
@@ -72,12 +75,13 @@ The Essentials edit of Walker's 2021 interview repeats the receptor-blockade mod
 - Early personal-routine provenance - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] describes delaying black coffee or mate for about two hours after waking while hydrating first.
 - Earliest blockade-and-crash account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] presents caffeine as an adenosine antagonist, explains a possible crash when blockade recedes, and emphasizes individual sensitivity rather than one universal timing rule.
 - Condensed Walker account - [[scim3191061030-scim3191061030]] repeats blockade, persistence, bedtime-relative cutoff, and deep-sleep cautions from the previously ingested full interview.
+- Condensed earliest account - [[essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030]] repeats the full episode's adenosine-receptor blockade and rebound-tiredness explanation without adding independent timing or outcome evidence.
 
 ## Counterevidence & Qualifications
 The sources do not settle a universal caffeine dose, cutoff time, genetic metabolizer adjustment, pregnancy guideline, anxiety boundary, cardiovascular boundary, medication interaction, withdrawal protocol, or whether a caffeine nap improves meaningful outcomes for a given person. The early episode's cortisol-and-crash explanation, the reported 15-20% deep-sleep reduction, CYP1A2 explanation, one-to-three-milligram-per-kilogram range, abstinence schedules, and hydration or electrolyte advice lack enough context here for individualized use. People with sleep disorders, panic symptoms, heart conditions, pregnancy, medication interactions, or occupational demands need qualified guidance. Coffee's observational health associations do not prove that caffeine itself supplies the benefit.
 
 ## What Changed
-- Clarified that the Essentials timing guidance overlaps the full Walker interview and does not establish a new universal cutoff.
+- No current judgment changed; the newest Essentials edit adds overlapping early-mechanism provenance without establishing a new timing or dose rule.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit where caffeine is one cue.

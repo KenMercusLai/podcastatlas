@@ -36098,3 +36098,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | Essentials: Master Your Sleep & Be More Alert When Awake
+
+Added source `essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030` and resynthesized [[TwoProcessSleepRegulation]], [[CaffeineAdenosineSleepTiming]], [[MorningLightCircadianAnchoring]], [[AdultNappingSleepPressure]], [[NonSleepDeepRestRecovery]], [[SleepSupplementBoundary]], and [[SleepWakeTimingToolkit]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: adenosine-related sleep pressure and circadian timing are separable but interacting; caffeine masks rather than clears pressure; morning and sunset light, darker nights, activity, and food timing form a foundations-first daily system; naps and guided rest are conditional; and supplements remain behind behavior, individual response, and clinical context. No settled contradiction was adopted. This Essentials release condenses [[master-your-sleep-be-more-alert-when-awake-scim6660090579|the full 2021 episode]], so its timing windows, endocrine and dopamine mechanisms, nap durations, supplement doses, and hormone claims remain overlapping, source-scoped public education rather than independent confirmation or individualized care. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source and seven bounded concept pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not revised because the condensed episode does not materially change the current synthesis. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,520 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 42 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

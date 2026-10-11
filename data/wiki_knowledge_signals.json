@@ -8159,9 +8159,9 @@
       "url": "/wiki/concepts/adultfevermedicationsafety/"
     },
     "AdultNappingSleepPressure": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM8589399999 [SCIM8589399999].md",
@@ -8190,9 +8190,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
           "url": "/wiki/sources/scim3191061030-scim3191061030/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/adultnappingsleeppressure/"
     },
     "AdultPolyphasicSleepEvidenceBoundary": {
@@ -34716,9 +34723,9 @@
       "url": "/wiki/concepts/caesarsbritishexpeditions/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 3,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -34796,9 +34803,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
           "url": "/wiki/sources/scim3191061030-scim3191061030/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaffeineBehavioralReinforcement": {
@@ -183970,9 +183984,9 @@
       "url": "/wiki/entities/morimina/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 2,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -184071,9 +184085,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "MorningMarketUrbanism": {
@@ -191825,9 +191846,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -191940,6 +191961,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Science to Optimize Sleep, Learning & Metabolism",
           "url": "/wiki/sources/essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
       "updated": "2026-10-12",
@@ -243193,9 +243221,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -243280,9 +243308,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Defeat Jet Lag, Shift Work & Sleeplessness",
           "url": "/wiki/sources/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
@@ -243351,9 +243386,9 @@
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 4,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -243431,9 +243466,16 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "Slicy": {
@@ -267735,9 +267777,9 @@
       "url": "/wiki/concepts/twokingdomsdoctrine/"
     },
     "TwoProcessSleepRegulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9752150487 [SCIM9752150487].md",
@@ -267752,9 +267794,16 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM5668727030 [SCIM5668727030].md",
+          "key": "essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030",
+          "show": "Huberman Lab",
+          "title": "Essentials: Master Your Sleep & Be More Alert When Awake",
+          "url": "/wiki/sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/twoprocesssleepregulation/"
     },
     "TwoRoundPresidentialElection": {

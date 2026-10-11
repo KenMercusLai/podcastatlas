@@ -5,7 +5,8 @@ tags: [sleep, circadian-rhythm, adenosine, neuroscience]
 sources:
   - guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
-last_updated: 2026-10-04
+  - essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Their independence explains otherwise confusing states. A sleep-deprived person 
 
 The early Huberman account supplies earlier provenance for the same organizing distinction. It describes wake duration as building adenosine-related sleep hunger and retinal light as helping place the circadian phase, while treating caffeine as temporary masking and waking behavior as an input to later sleep. The durable synthesis is the interaction of separable processes, not the episode's exact hormone timing or exposure prescriptions.
 
+The later Essentials edit repeats that account without changing the model. Its adenosine, circadian-clock, cortisol, melatonin, and light claims are condensed from the full episode, so they add editorial continuity rather than independent biological evidence.
+
 ## Key Claims
 - Circadian alerting and homeostatic sleep pressure are interacting but separable systems.
 - Adenosine-related pressure increases with sustained wakefulness and is reduced during sleep.
@@ -35,13 +38,13 @@ The early Huberman account supplies earlier provenance for the same organizing d
 - Temporary masking - [[guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487]] explains improved daytime alertness during deprivation as a circadian lift despite continued pressure accumulation.
 - Deep-sleep relation - [[guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487]] presents deep non-REM sleep as a major period for reducing adenosine debt.
 - Early two-force account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] explains sleep and wakefulness through accumulated adenosine pressure plus circadian timing anchored strongly by retinal light.
+- Condensed two-force account - [[essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030]] repeats the adenosine-pressure and circadian-timing distinction from the full episode without independently validating its mechanisms or timing estimates.
 
 ## Counterevidence & Qualifications
 This is a high-level explanatory model from a structured episode summary, not a complete account of sleep regulation. Exact accumulation, clearance, sixteen-hour timing, cellular metabolism, deep-sleep exclusivity, and performance effects remain source-scoped. Light exposure, naps, age, medication, illness, shift work, sleep disorders, and individual caffeine metabolism can change observed timing. Temporary alertness should not be treated as proof of safe driving or intact judgment.
 
 ## What Changed
-- Strengthened the two-process model with an earlier presentation of adenosine pressure and light-anchored circadian timing.
-- Preserved exact endocrine timing and light-dose claims as source-scoped rather than parts of the general model.
+- No current judgment changed; the Essentials edit adds overlapping provenance while preserving exact endocrine timing and light-dose claims as source-scoped.
 
 ## Related Concepts
 - [[CaffeineAdenosineSleepTiming]] - stimulant branch that blocks adenosine signaling without clearing sleep pressure.

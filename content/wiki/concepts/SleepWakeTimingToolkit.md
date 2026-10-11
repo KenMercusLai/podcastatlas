@@ -14,7 +14,8 @@ sources:
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
-last_updated: 2026-10-04
+  - essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -44,6 +45,8 @@ The AMA adds a travel application. A three-hour eastward shift can be approached
 
 The full-length sleep-toolkit episode confirms that system and adds practical nighttime boundaries: NSDR or hypnosis may help after waking, but persistent insomnia and suspected sleep apnea are not routine-optimization problems. Its bed-angle, mouth-taping, red-light, and detailed supplement suggestions remain lower-confidence, source-scoped options rather than foundations.
 
+The Essentials edit of the first sleep episode repeats the earliest foundations-first version of this system: morning and sunset light, darker nights, activity and food timing, conditional naps, guided rest, and supplements placed last. It adds accessibility but no independent confirmation or new universal schedule.
+
 ## Key Claims
 - Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior, with work, exercise, meals, and post-meal movement included alongside light, caffeine, temperature, and darkness.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
@@ -70,13 +73,13 @@ The full-length sleep-toolkit episode confirms that system and adds practical ni
 - Travel adaptation - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] coordinates gradual pre-travel wake shifts or after-arrival local light, movement, caffeine, meals, social activity, and nighttime dimness.
 - Full-length toolkit and clinical boundary - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] confirms the three-period daily structure, adds nighttime-waking options, and separates suspected apnea from ordinary sleep optimization.
 - Early behavioral hierarchy - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] organizes morning outdoor light, sunset light, darker nights, activity, food timing, naps, guided rest, and supplements into a foundations-first sleep-wake system.
+- Condensed early hierarchy - [[essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030]] repeats that full episode's whole-day sequence without adding independent evidence or a universal clock schedule.
 
 ## Counterevidence & Qualifications
 The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. Bedtime rescheduling can create hazardous sleepiness and requires more caution than ordinary sleep hygiene. Mouth taping can introduce breathing or aspiration risk and is not a substitute for apnea assessment. The supplement, red-light, THC, alcohol, sauna, cold-exposure, bed-angle, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
 
 ## What Changed
-- Added early provenance for the full-day, behavior-first hierarchy linking waking cues to later sleep.
-- Preserved individual-response, sleep-disorder, and clinical boundaries rather than turning the example routine into a universal schedule.
+- No current judgment changed; the Essentials edit adds overlapping provenance while preserving individual-response, sleep-disorder, and clinical boundaries.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.

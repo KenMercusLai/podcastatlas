@@ -7,7 +7,8 @@ sources:
   - scim3745275899-scim3745275899
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
   - scim3191061030-scim3191061030
-last_updated: 2026-10-11
+  - essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Nighttime sleep has priority when it is already fragile. A nap releases some acc
 The earlier Walker interview independently supports the same conditional judgment. It describes benefits across alertness, learning, memory, emotional regulation, cortisol, and cardiovascular measures, but pairs them with a short-duration and earlier-day preference, an insomnia exclusion, and the warning that every nap reduces some pressure available for nighttime sleep.
 
 The Essentials edit compresses that same interview into a 20-to-25-minute practical target, an earlier-day preference, and an insomnia-related warning. Its NASA figures and benefit claims are repeated from the full source, so they should not be counted as a separate replication.
+
+The Essentials edit of Huberman's first sleep episode repeats the earlier individual-fit account: naps shorter than an ultradian cycle may help, but some people wake groggy and should judge the practice by later sleep and daytime function. It adds no independent nap study or universal duration.
 
 ## Key Claims
 - Nap value depends on the intended outcome, sleep stage reached, timing, and the person's nighttime sleep.
@@ -42,12 +45,13 @@ The Essentials edit compresses that same interview into a 20-to-25-minute practi
 - Earlier corroboration - [[scim3745275899-scim3745275899]] reports broad possible nap benefits and a source-scoped NASA estimate while preserving the short, early, nighttime-sleep-first boundary.
 - Earliest individual-fit account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] presents roughly 20-to-60-minute naps as potentially useful while noting that some people wake groggy and should judge the practice by their own later sleep and functioning.
 - Condensed nap boundary - [[scim3191061030-scim3191061030]] restates short-duration, earlier-day, sleep-inertia, and nighttime-pressure guidance from the full Walker interview.
+- Condensed individual-fit account - [[essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030]] repeats the full episode's conditional nap guidance and grogginess warning without independently validating a duration or benefit.
 
 ## Counterevidence & Qualifications
 The sources do not establish one nap duration for every goal or sleeper. Work schedules, caregiving, shift work, age, medications, sleep disorders, driving, and safety-critical work can change the tradeoff. The learning, emotion, cardiovascular, cortisol, immune, NASA, pilot, and productivity effect sizes remain source-scoped. Persistent insomnia or daytime sleepiness requires qualified assessment rather than nap optimization alone.
 
 ## What Changed
-- Clarified that the Essentials nap guidance overlaps the full Walker interview and does not independently validate its effect sizes.
+- No current judgment changed; the newest Essentials edit adds overlapping individual-fit provenance without independently validating nap duration or outcomes.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing system in which nap placement affects the following night.
