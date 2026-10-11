@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13420
+wiki_total_pages: 13424
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "YiWanFuWengHuiGui"
     title: "亿万富翁回归"
     url: "/wiki/entities/yiwanfuwenghuigui/"
+  - key: "YilinJinYong"
+    title: "仪琳（金庸小说） / Yilin (Jin Yong)"
+    url: "/wiki/entities/yilinjinyong/"
   - key: "YiwuGarrisonLateHan"
     title: "伊吾屯田 / Yiwu Garrison Farming (late Han)"
     url: "/wiki/entities/yiwugarrisonlatehan/"

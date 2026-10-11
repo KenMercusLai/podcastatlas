@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [009 如果活在《笑傲江湖》的世界，你会选择成为谁？](sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn.md) — 纸醉金迷FM以向问天、方证、冲虚和令狐冲讨论忠诚、利益与门派均衡，并以仪琳、桃谷六仙和影视版本展开爱情伦理、暴力喜剧及改编接受。
 - [010 一见杨过误终身|闲话金庸《神雕侠侣》里的爱情](sources/lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden.md) — 纸醉金迷FM以陆无双、程英、公孙绿萼和郭芙区分轻松吸引、克制深情、致命牺牲与敌意依恋，并检验爱情中的互惠、排他和社会认同。
 - [011 十六岁的那场烟花，与十六年的生死茫茫|漫话《神雕侠侣》之郭襄与小龙女](sources/ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h.md) — 纸醉金迷FM以四次分离检验杨过与小龙女的爱情、沟通和社会压力，并以郭襄说明深刻而未必互惠的爱不取消独立人生。
 - [012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛](sources/lmzkiygsiicuvlthjqgatyuf49ac.md) — 纸醉金迷FM与千梦群岛重温《仙剑奇侠传四》，以人物关系、人妖之辨、失败飞升和百年结局讨论仙侠的人道伦理与文化内核。
@@ -4642,6 +4643,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [令狐冲（金庸小说） / Linghu Chong (Jin Yong)](entities/LinghuChongJinYong.md) — 拒绝以职位定义自我却因武功、婚姻、感恩与跨门派关系持续具有政治分量的《笑傲江湖》主角。
+- [向问天（金庸小说） / Xiang Wentian (Jin Yong)](entities/XiangWentianJinYong.md) — 将忠诚、利益、谋略、调停、严酷手段与继位后克制结合起来的日月神教人物。
+- [仪琳（金庸小说） / Yilin (Jin Yong)](entities/YilinJinYong.md) — 以照料、不打扰他人幸福和严苛道德自省表达单恋，同时承受沉默代价的恒山人物。
+- [桃谷六仙 / Peach Valley Six Immortals](entities/TaoguSixImmortals.md) — 以循环争辩、协同暴力、真话和无门派野心把喜剧、残酷及政治讽刺结合起来的六人群体。
 - [杨过（金庸小说） / Yang Guo (Jin Yong)](entities/YangGuoJinYong.md) — 在十六年等待、对多位女性的不对等情感、冲动冒险与襄阳公共行动之间完成成长的《神雕侠侣》主角。
 - [小龙女（金庸小说） / Xiaolongnü (Jin Yong)](entities/XiaolongnuJinYong.md) — 爱、退避、沟通局限、性暴力创伤与十六年保命之约并存的《神雕侠侣》人物。
 - [郭襄（金庸小说） / Guo Xiang (Jin Yong)](entities/GuoXiangJinYong.md) — 对杨过的深情未必获得互惠，却仍以旅行与开宗立派保有独立人生的《神雕侠侣》人物。
@@ -18132,6 +18137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Strategic Loyalty and Factional Balance / 策略性忠诚与门派均衡](concepts/StrategicLoyaltyFactionalBalance.md) — 忠诚可与地位、利益、调停、组织延续和均势策略同时存在，真实关系也能成为非强制性的政治联结。
 - [Human-Centered Xianxia Cultivation / 人道优先的仙侠修行](concepts/XianxiaHumanCenteredCultivation.md) — 以“先修人道，再修仙道”把对生命的责任置于力量、长生、门派荣耀与飞升之前的仙侠伦理。
 - [Sectarian Identity Moral Misclassification / 门派身份的道德误判](concepts/SectarianIdentityMoralMisclassification.md) — 拒绝以正邪门派、人妖物种或机构归属直接判定善恶，转而检验行为、后果、同意、修复与责任。
 - [Competing Relational Obligations / 亲密关系中的多重义务冲突](concepts/CompetingRelationalObligations.md) — 分析爱情、亲子、友情、师门、诚实、照料与自保发生冲突时的排序、退出与道德底线。

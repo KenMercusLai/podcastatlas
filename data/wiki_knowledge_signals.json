@@ -143097,9 +143097,9 @@
       "url": "/wiki/concepts/jinyongpoliticalreading/"
     },
     "JinYongReclusionFreedom": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lk2mWdehzdGl6xneFtAPD7tBtQfo [lk2mWdehzdGl6xneFtAPD7tBtQfo].md",
@@ -143114,6 +143114,13 @@
           "show": "纸醉金迷FM",
           "title": "037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》",
           "url": "/wiki/sources/lqrlbs47ruozcivwkh0ltyydbysn/"
+        },
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
         }
       ],
       "updated": "2026-10-12",
@@ -158314,6 +158321,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/lingtong/"
+    },
+    "LinghuChongJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/linghuchongjinyong/"
     },
     "LinghuMaoWesternHan": {
       "episode_count": 1,
@@ -252888,6 +252911,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/strategicintelligenceinterpretation/"
     },
+    "StrategicLoyaltyFactionalBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/strategicloyaltyfactionalbalance/"
+    },
     "StrategicPatronExitJudgment": {
       "episode_count": 2,
       "show_count": 1,
@@ -259270,6 +259309,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/taokan/"
+    },
+    "TaoguSixImmortals": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/taogusiximmortals/"
     },
     "TaohuayuanMeishi": {
       "episode_count": 1,
@@ -288096,6 +288151,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiangkailatehan/"
     },
+    "XiangWentianJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/xiangwentianjinyong/"
+    },
     "XianjieQiangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -288249,9 +288320,9 @@
       "url": "/wiki/entities/xiaoa/"
     },
     "XiaoAoJiangHu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -288266,9 +288337,16 @@
           "show": "纸醉金迷FM",
           "title": "104 金庸小说与隐士文化",
           "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
+        },
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/xiaoaojianghu/"
     },
     "XiaoBaicai": {
@@ -294350,6 +294428,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
+    },
+    "YilinJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+          "key": "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn",
+          "show": "纸醉金迷FM",
+          "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
+          "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yilinjinyong/"
     },
     "YilingLateHan": {
       "episode_count": 1,

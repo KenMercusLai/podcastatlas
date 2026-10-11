@@ -3200,19 +3200,25 @@
       "earliest_episode_date": "2023-10-20",
       "latest_episode_date": "2026-10-09",
       "latest_episode_file": "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
-      "source_note_count": 111,
-      "topic_matched_source_note_count": 85,
+      "source_note_count": 112,
+      "topic_matched_source_note_count": 86,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 85
+          "source_note_count": 86
         },
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
           "source_note_count": 1
         }
       ],
@@ -3235,8 +3241,8 @@
       "start_here_episode_files": [
         "lrxPTUA07wngeQMJ3bjWH_NmryN5 [lrxPTUA07wngeQMJ3bjWH_NmryN5].md",
         "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
-        "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md",
-        "liXU8FhY-rjn0fkf01KmqswxNy3- [liXU8FhY-rjn0fkf01KmqswxNy3-].md"
+        "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
+        "lixp1oC4wx0WiksvZO4zeHqj45B4 [lixp1oC4wx0WiksvZO4zeHqj45B4].md"
       ]
     },
     "罗永浩的十字路口": {

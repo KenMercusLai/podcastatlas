@@ -55342,6 +55342,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LinghuChongJinYong": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LinguisticRelativity": [
     {
       "key": "culture",
@@ -83525,6 +83532,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "StrategicLoyaltyFactionalBalance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "StrategicLuxurySabotage": [
     {
       "key": "history",
@@ -104373,6 +104387,18 @@
     }
   ],
   "ltte46cfjwcjc-gwcbkqb7zo7qh1": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",

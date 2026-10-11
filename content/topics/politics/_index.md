@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3303
+topic_total_pages: 3306
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4039,6 +4039,9 @@ topic_concepts:
   - key: "StrategicInterventionThreshold"
     title: "Strategic Intervention Threshold"
     url: "/wiki/concepts/strategicinterventionthreshold/"
+  - key: "StrategicLoyaltyFactionalBalance"
+    title: "Strategic Loyalty and Factional Balance / 策略性忠诚与门派均衡"
+    url: "/wiki/concepts/strategicloyaltyfactionalbalance/"
   - key: "StrategicLuxurySabotage"
     title: "Strategic Luxury Sabotage / 奢侈诱导式削弱"
     url: "/wiki/concepts/strategicluxurysabotage/"
@@ -8138,6 +8141,9 @@ topic_entities:
   - key: "YuDingguoWesternHan"
     title: "于定国 / Yu Dingguo"
     url: "/wiki/entities/yudingguowesternhan/"
+  - key: "LinghuChongJinYong"
+    title: "令狐冲（金庸小说） / Linghu Chong (Jin Yong)"
+    url: "/wiki/entities/linghuchongjinyong/"
   - key: "RenChangWesternHan"
     title: "任常 / Ren Chang (Western Han)"
     url: "/wiki/entities/renchangwesternhan/"
@@ -8625,6 +8631,9 @@ topic_sources:
   - key: "404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231"
     title: "#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目"
     url: "/wiki/sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231/"
+  - key: "ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn"
+    title: "009 如果活在《笑傲江湖》的世界，你会选择成为谁？"
+    url: "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
   - key: "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302"
     title: "100.法律的悖论：谢天谢地，幸好我们还有罗翔"
     url: "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"

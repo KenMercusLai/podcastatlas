@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13420
+wiki_total_pages: 13424
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "TiaozhiKingdom"
     title: "条支国 / Tiaozhi Kingdom"
     url: "/wiki/entities/tiaozhikingdom/"
+  - key: "TaoguSixImmortals"
+    title: "桃谷六仙 / Peach Valley Six Immortals"
+    url: "/wiki/entities/taogusiximmortals/"
   - key: "Tonglu"
     title: "桐庐"
     url: "/wiki/entities/tonglu/"

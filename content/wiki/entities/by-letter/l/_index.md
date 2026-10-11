@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13420
+wiki_total_pages: 13424
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "LiangGeAnesthesiologist"
     title: "亮哥 / Liang Ge (Anesthesiologist)"
     url: "/wiki/entities/lianggeanesthesiologist/"
+  - key: "LinghuChongJinYong"
+    title: "令狐冲（金庸小说） / Linghu Chong (Jin Yong)"
+    url: "/wiki/entities/linghuchongjinyong/"
   - key: "LinghuMaoWesternHan"
     title: "令胡茂 / Linghu Mao (Western Han)"
     url: "/wiki/entities/linghumaowesternhan/"

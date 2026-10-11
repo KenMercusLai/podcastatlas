@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10459
+wiki_total_pages: 10460
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2168,6 +2168,9 @@ wiki_pages:
   - key: "StrategicInterventionThreshold"
     title: "Strategic Intervention Threshold"
     url: "/wiki/concepts/strategicinterventionthreshold/"
+  - key: "StrategicLoyaltyFactionalBalance"
+    title: "Strategic Loyalty and Factional Balance / 策略性忠诚与门派均衡"
+    url: "/wiki/concepts/strategicloyaltyfactionalbalance/"
   - key: "StrategicLuxurySabotage"
     title: "Strategic Luxury Sabotage / 奢侈诱导式削弱"
     url: "/wiki/concepts/strategicluxurysabotage/"
