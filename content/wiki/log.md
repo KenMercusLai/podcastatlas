@@ -35596,3 +35596,11 @@ Added source `538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085`
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 050 新浪潮：徐克武侠电影大回顾
+
+Added source `050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg`; created [[FilmWorkshop|电影工作室 / Film Workshop]] and [[TechnologyDrivenWuxiaModernization]]; and resynthesized [[TsuiHark|徐克]], [[FunctionalAdaptationFidelity]], and [[TraditionalWuxiaActionCraft]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Tsui Hark's wuxia authorship joins editing, art, costume, action, production control, and technical experimentation across formal roles, while radical adaptation succeeds through coherent new character, emotion, and form rather than literal fidelity; spectacle becomes a weakness when it outruns motive, ensemble development, or narrative tension. No settled contradiction was adopted. Scene-level authorship, exact cuts and runtimes, budgets, box office, industrial firsts, production influence, creator intention, career rankings, and causal claims about background and style remain source-scoped or acknowledged rumor. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[AdaptationReceptionMemory]] pages stayed closed because the focused filmmaker, company, adaptation, action, and technology pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,457 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

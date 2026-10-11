@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10359
+wiki_total_pages: 10360
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "TechnologyCompanyPerformanceGap"
     title: "Technology-Company Performance Gap"
     url: "/wiki/concepts/technologycompanyperformancegap/"
+  - key: "TechnologyDrivenWuxiaModernization"
+    title: "Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化"
+    url: "/wiki/concepts/technologydrivenwuxiamodernization/"
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"

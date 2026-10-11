@@ -6,6 +6,7 @@ sources:
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
   - 095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
+  - 050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ Neither grammar is automatically more authentic. Extended exchange can make skil
 
 The [[TaiChiMaster1993|《太极张三丰》]] case adds formation, memory, and embodied discovery. A staff array becomes a tactical system to read; blades accumulate visible damage while intercut memories convert combat into fraternal tragedy; water and circular movement make abstract principle observable; and a rope net temporarily defeats superior technique by removing stable footing. Readability therefore includes not just seeing strikes but understanding the changing problem a character must solve.
 
+The [[TsuiHark|徐克]] retrospective broadens the concept from exchange readability to historical changes in action texture. Wirework, explosions, fast cutting, stage-like movement, and visual design can make combat airborne, emotional, and theatrical, while 《刀》 and 《七剑》 use blood, dust, injury, and bodily pain to strip romance from the jianghu. These are not opposites to be ranked abstractly: each must make its chosen rhythm, space, force, and consequence legible enough to carry drama rather than functioning as detached display.
+
 ## Key Claims
 
 - Readability lets viewers follow attack, defense, reversal, and consequence.
@@ -29,7 +32,7 @@ The [[TaiChiMaster1993|《太极张三丰》]] case adds formation, memory, and 
 - Ability remains persuasive when even powerful characters incur wounds, fatigue, or strategic limits.
 - A final duel can satisfy action-film structure while also displacing another character's thematic climax.
 - Action craft is separable from dialogue, political causality, characterization, and emotional staging.
-- Lethal brevity and extended exchange are different action grammars whose fit depends on narrative function and source rhythm.
+- Lethal brevity, extended exchange, airborne theatricality, and rough bodily pain are different action grammars whose fit depends on narrative function, source rhythm, and dramatic integration rather than realism alone.
 - Environment and remembered relationship can make action simultaneously tactical, developmental, and emotional.
 
 ## Evidence
@@ -54,16 +57,18 @@ The [[TaiChiMaster1993|《太极张三丰》]] case adds formation, memory, and 
 
 - [[122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5]] treats the Luohan-staff formation, water-vat discovery, damaged-blade fight, and rope-net adjustment as readable changes in problem, knowledge, and relationship.
 
+### Theatrical flight and bodily de-romanticization
+
+- [[050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg]] contrasts Tsui Hark's wire-assisted, fast-cut, stage-like 1990s spectacle with the blood, dust, injury, and pain emphasized in 《刀》 and 《七剑》.
+
 ## Counterevidence & Qualifications
 
-The concept comes from three informal podcast discussions of two film cases and should not define all traditional wuxia cinema. “Traditional” is a reception judgment, not a fixed technical category, and the sources do not provide shot-by-shot choreography or production evidence. The earlier style prediction is not evidence about the completed film. Readable combat can coexist with weak motive, dialogue, editing, accelerated villainy, or political compression; it is neither necessary nor sufficient for a successful film as a whole.
+The concept comes from four informal podcast discussions and should not define all traditional wuxia cinema. “Traditional,” “realistic,” “theatrical,” and “painful” are reception judgments rather than fixed technical categories, and the sources do not provide shot-by-shot choreography or production evidence. The earlier style prediction is not evidence about the completed film. Readable or forceful combat can coexist with weak motive, dialogue, editing, accelerated villainy, political compression, or effects-first spectacle; it is neither necessary nor sufficient for a successful film as a whole.
 
 ## What Changed
 
-- Established readable exchange, spatial constraint, and bounded ability as the current core criteria.
-- Separated action success from total narrative or adaptation success.
-- Added lethal brevity as an alternative action grammar and distinguished source-style fit from execution quality.
-- Added formation-reading, embodied discovery, unstable footing, and emotional memory as action-bearing structures.
+- Added theatrical flight and bodily de-romanticization as distinct action textures.
+- Made dramatic integration, rather than realism or spectacle alone, the boundary for both.
 
 ## Related Concepts
 
@@ -73,3 +78,4 @@ The concept comes from three informal podcast discussions of two film cases and 
 - [[YuenWooPing|袁和平]] - director credited by the source with the case's action execution.
 - [[BiaoRenComic|《镖人》]] - comic case associated with abrupt sword-film lethality.
 - [[TaiChiMaster1993|《太极张三丰》]] - film case for formation, embodied learning, and fraternal combat.
+- [[TechnologyDrivenWuxiaModernization]] - explains how editing, wirework, effects, and 3D can alter action grammar.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3415
+topic_total_pages: 3417
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3235,6 +3235,9 @@ topic_concepts:
   - key: "TechnologyAmbivalenceFireSignal"
     title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
     url: "/wiki/concepts/technologyambivalencefiresignal/"
+  - key: "TechnologyDrivenWuxiaModernization"
+    title: "Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化"
+    url: "/wiki/concepts/technologydrivenwuxiamodernization/"
   - key: "TeenagerHistoricalIdentity"
     title: "Teenager as Historical Identity"
     url: "/wiki/concepts/teenagerhistoricalidentity/"
@@ -8835,6 +8838,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg"
+    title: "050 新浪潮：徐克武侠电影大回顾"
+    url: "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"
   - key: "lovpnvggvmrtfzpn9gvezhrg6xfo"
     title: "051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去"
     url: "/wiki/sources/lovpnvggvmrtfzpn9gvezhrg6xfo/"

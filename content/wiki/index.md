@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [050 新浪潮：徐克武侠电影大回顾](sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg.md) — 纸醉金迷FM按年代回顾徐克武侠电影，以剪辑、美术、动作、技术实验和改编自洽性解释其作者风格、九十年代高峰与后期转向。
 - [The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline](sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661.md) — Huberman Lab conversation on strength as neural skill, submaximal practice, fatigue fragmentation, anti-glycolytic conditioning, flexibility, kettlebells, and long-term training.
 - [051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去](sources/lovpnvggvmrtfzpn9gvezhrg6xfo.md) — 纸醉金迷FM以《侠客行》三代人物讨论婚姻伤害、追求与适配、原生家庭、丧子后溺爱，以及亲情与公义冲突中的认罪和补偿边界。
 - [052 多情女偏爱薄情郎？金庸《侠客行》中的主角爱情](sources/ls96ywi2jdxmrffx9j5iu5qqct25.md) — 纸醉金迷FM以石破天、石中玉、丁当和阿秀讨论刺激、安全、情绪价值与关系判断，并把身份误认从喜剧推进为集体强加自我的心理威胁。
@@ -4554,7 +4555,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张国荣 / Leslie Cheung](entities/LeslieCheung.md) — 以脆弱、笨拙、赤诚与勇敢重塑宁采臣的演员。
 - [王祖贤 / Joey Wong](entities/JoeyWong.md) — 以体态、动作和影像系统塑造聂小倩经典银幕形象的演员。
 - [程小东 / Ching Siu-tung](entities/ChingSiuTung.md) — 1987年《倩女幽魂》的署名导演。
-- [徐克 / Tsui Hark](entities/TsuiHark.md) — 1987年《倩女幽魂》的监制及深度创意参与者。
+- [徐克 / Tsui Hark](entities/TsuiHark.md) — 以剪辑、美术、动作、技术实验、改编重构和跨署名项目控制形成鲜明武侠作者风格的香港导演监制。
+- [电影工作室 / Film Workshop](entities/FilmWorkshop.md) — 与徐克相连的创作者中心型香港电影公司，将融资、制作控制与可辨识的视觉和技术风格结合。
 - [黄霑 / James Wong](entities/JamesWong.md) — 以歌曲塑造影片人物与凄美气质的音乐创作者。
 - [阿青（《越女剑》） / Ah Qing](entities/AQingYueNvJian.md) — 以自然习得的神话剑术、对范蠡的未遂爱情、最终克制与历史遗忘构成的牧羊女剑客。
 - [西施 / Xi Shi](entities/XiShi.md) — 《越女剑》中经范蠡记忆与阿青反应侧面塑造、并使“西子捧心”获得武侠爱情新解的文学形象。
@@ -17845,6 +17847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化](concepts/TechnologyDrivenWuxiaModernization.md) — 通过制作技术与故事内技术共同重塑武侠动作、空间、视觉奇观及传统遭遇现代性的电影路径。
 - [Strength as Skill Practice](concepts/StrengthAsSkillPractice.md) — Strength-training frame prioritizing neural coordination, technique, stable movements, successful submaximal repetitions, and controlled arousal.
 - [Fatigue-Fragmented Training](concepts/FatigueFragmentedTraining.md) — Workload-distribution strategy using small well-rested exposures to preserve technique and output while bounding acute fatigue.
 - [Anti-Glycolytic Conditioning](concepts/AntiGlycolyticConditioning.md) — Specific conditioning frame using brief submaximal efforts and generous recovery to postpone fatigue without treating discomfort as the primary goal.

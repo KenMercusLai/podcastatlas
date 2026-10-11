@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3464
+topic_total_pages: 3465
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4492,6 +4492,9 @@ topic_concepts:
   - key: "TechnologyCompanyPerformanceGap"
     title: "Technology-Company Performance Gap"
     url: "/wiki/concepts/technologycompanyperformancegap/"
+  - key: "TechnologyDrivenWuxiaModernization"
+    title: "Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化"
+    url: "/wiki/concepts/technologydrivenwuxiamodernization/"
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"

@@ -91306,6 +91306,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/filmtofestivalfeedback/"
     },
+    "FilmWorkshop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqyQTa6vtaEAw70o3fvn3XlhndxG [lqyQTa6vtaEAw70o3fvn3XlhndxG].md",
+          "key": "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg",
+          "show": "纸醉金迷FM",
+          "title": "050 新浪潮：徐克武侠电影大回顾",
+          "url": "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/filmworkshop/"
+    },
     "FilterBubble": {
       "episode_count": 3,
       "show_count": 3,
@@ -98249,9 +98265,9 @@
       "url": "/wiki/concepts/functionpreservingcolorectalsurgery/"
     },
     "FunctionalAdaptationFidelity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq [li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq].md",
@@ -98280,6 +98296,13 @@
           "show": "纸醉金迷FM",
           "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
           "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        },
+        {
+          "episode_file": "lqyQTa6vtaEAw70o3fvn3XlhndxG [lqyQTa6vtaEAw70o3fvn3XlhndxG].md",
+          "key": "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg",
+          "show": "纸醉金迷FM",
+          "title": "050 新浪潮：徐克武侠电影大回顾",
+          "url": "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"
         }
       ],
       "updated": "2026-10-11",
@@ -254328,6 +254351,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/technologycompanyperformancegap/"
     },
+    "TechnologyDrivenWuxiaModernization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqyQTa6vtaEAw70o3fvn3XlhndxG [lqyQTa6vtaEAw70o3fvn3XlhndxG].md",
+          "key": "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg",
+          "show": "纸醉金迷FM",
+          "title": "050 新浪潮：徐克武侠电影大回顾",
+          "url": "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/technologydrivenwuxiamodernization/"
+    },
     "TechnologyMoralPanicCycle": {
       "episode_count": 3,
       "show_count": 2,
@@ -261507,9 +261546,9 @@
       "url": "/wiki/concepts/traditionalchineseapprenticeship/"
     },
     "TraditionalWuxiaActionCraft": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lqCffp3KSXaHzoiJ1U66_sDm3t-d [lqCffp3KSXaHzoiJ1U66_sDm3t-d].md",
@@ -261531,6 +261570,13 @@
           "show": "纸醉金迷FM",
           "title": "122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看",
           "url": "/wiki/sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5/"
+        },
+        {
+          "episode_file": "lqyQTa6vtaEAw70o3fvn3XlhndxG [lqyQTa6vtaEAw70o3fvn3XlhndxG].md",
+          "key": "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg",
+          "show": "纸醉金迷FM",
+          "title": "050 新浪潮：徐克武侠电影大回顾",
+          "url": "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"
         }
       ],
       "updated": "2026-10-10",
@@ -263180,9 +263226,9 @@
       "url": "/wiki/entities/tsinghuaiiis/"
     },
     "TsuiHark": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
@@ -263190,6 +263236,13 @@
           "show": "纸醉金迷FM",
           "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
           "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        },
+        {
+          "episode_file": "lqyQTa6vtaEAw70o3fvn3XlhndxG [lqyQTa6vtaEAw70o3fvn3XlhndxG].md",
+          "key": "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg",
+          "show": "纸醉金迷FM",
+          "title": "050 新浪潮：徐克武侠电影大回顾",
+          "url": "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"
         }
       ],
       "updated": "2026-10-11",

@@ -7,6 +7,7 @@ sources:
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
   - 054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t
+  - 050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -27,15 +28,17 @@ The [[BiaoRenComic|《镖人》]] comparison adds a single film in which differe
 
 A supernatural-romance case adds a further split. In [[AChineseGhostStory1987|《倩女幽魂》(1987)]], Ning Caichen's softened characterization, reciprocal protection, and the move from household reunion to tragic release create clear emotional causality. Yan Chixia's tolerated predation and the sudden power jump in the Black Mountain finale leave adjacent behavioral and action functions under-prepared. Fidelity can therefore succeed in romance while failing in world and climax logic.
 
+The [[TsuiHark|徐克]] career retrospective generalizes the test across radical wuxia transformations. A major departure can establish an autonomous classic when performance, image, emotion, and new dramatic logic cohere; literal loyalty is not the controlling value. The same retrospective preserves the negative boundary: truncated ensemble arcs, missing character motivation, or spectacle without tension remain functional losses even when art, action, music, or technology are individually impressive.
+
 ## Key Claims
 
-- Literal similarity and functional fidelity are separate judgments.
+- Literal similarity and functional fidelity are separate judgments; event fidelity without causal context can be less faithful than coherent rewriting.
 - A successful change preserves or rebuilds character causality in a form viewers can perceive.
 - Compression requires selection, but selection should preserve the causal and relational support that makes motives, political stakes, growth, and emotional turns intelligible.
 - Casting resemblance cannot substitute for performance of a character's internal contrasts.
 - Screen conflict must be set up and resolved as drama rather than relying on the novel's explanatory authority.
 - Thematic fidelity must be earned through the adapted plot rather than asserted as a slogan.
-- Event fidelity without preserved causal context can be less faithful than a coherent rewritten sequence.
+- Radical transformation can create an autonomous classic, but iconic imagery does not excuse missing motive, ensemble development, or dramatic tension.
 
 ## Evidence
 
@@ -65,17 +68,18 @@ A supernatural-romance case adds a further split. In [[AChineseGhostStory1987|�
 
 - [[054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t]] treats reciprocal rescue and tragic release as coherent rebuilding while contrasting them with under-explained tolerance of harm and power scaling.
 
+### Career-level transformation and coherence
+
+- [[050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg]] uses 《笑傲江湖Ⅱ东方不败》 to separate radical deviation from failure and uses 《七剑》 and later effects-led work to show how compression or spectacle can weaken character and narrative function.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from four informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production and authorship claims remain source-scoped.
+The concept is derived from five informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production and authorship claims remain source-scoped.
 
 ## What Changed
 
-- Established a distinction between literal reproduction and preservation of narrative function.
-- Made character causality, perceivable motive, and earned thematic development the main fidelity tests.
-- Added event-without-context as a failure mode and separated artistic achievement from direct fidelity.
-- Added uneven transfer across action, political causality, ensemble structure, and emotional staging.
-- Added a supernatural-romance case where character and ending functions improve while behavior and climax logic remain weak.
+- Added a career-level case in which radical deviation creates iconic autonomous cinema when new dramatic logic coheres.
+- Added spectacle-without-character or tension as a functional failure boundary.
 
 ## Related Concepts
 
@@ -88,3 +92,4 @@ The concept is derived from four informal, multi-host comparisons whose judgment
 - [[TraditionalWuxiaActionCraft]] - shows how one craft function can transfer successfully while other source functions weaken.
 - [[TragicAdaptationReframing]] - explains how a changed ending can rebuild romantic function.
 - [[FantasyCharacterLogic]] - isolates behavioral credibility and capability preparation inside invented worlds.
+- [[TechnologyDrivenWuxiaModernization]] - explains how technical transformation can support or outrun adapted dramatic function.
