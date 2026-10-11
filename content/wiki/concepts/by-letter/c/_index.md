@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10353
+wiki_total_pages: 10354
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "CoerciveCapitalRelocation"
     title: "Coercive Capital Relocation / 强制迁都"
     url: "/wiki/concepts/coercivecapitalrelocation/"
+  - key: "CoerciveCommodityExtraction"
+    title: "Coercive Commodity Extraction"
+    url: "/wiki/concepts/coercivecommodityextraction/"
   - key: "CoerciveDrinkingHierarchy"
     title: "Coercive Drinking Hierarchy / 强制饮酒与等级秩序"
     url: "/wiki/concepts/coercivedrinkinghierarchy/"

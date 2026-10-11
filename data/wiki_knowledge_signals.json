@@ -48740,6 +48740,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/coerciveacts/"
     },
+    "CoerciveCommodityExtraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/coercivecommodityextraction/"
+    },
     "CoerciveDrinkingHierarchy": {
       "episode_count": 1,
       "show_count": 1,
@@ -52325,9 +52341,9 @@
       "url": "/wiki/entities/confucius/"
     },
     "CongoFreeState": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -52342,9 +52358,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/congofreestate/"
     },
     "CongoReformAssociation": {
@@ -74099,9 +74122,9 @@
       "url": "/wiki/entities/edmundbarton/"
     },
     "EdmundDeneMorel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5172130471 [GLT5172130471].md",
@@ -74109,9 +74132,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/edmunddenemorel/"
     },
     "EdmundIronside": {
@@ -93404,6 +93434,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
     },
+    "ForcePublique": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/forcepublique/"
+    },
     "ForcedMarchOperationalRisk": {
       "episode_count": 5,
       "show_count": 1,
@@ -102900,6 +102946,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/georgewashington/"
+    },
+    "GeorgeWashingtonWilliams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/georgewashingtonwilliams/"
     },
     "GeorgeWhitman": {
       "episode_count": 1,
@@ -127687,9 +127749,9 @@
       "url": "/wiki/concepts/imperialcenterrelocation/"
     },
     "ImperialCivilisingMissionContradiction": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -127711,9 +127773,16 @@
           "show": "The Rest Is History",
           "title": "142. General Gordon and the Siege of Khartoum",
           "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        },
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/imperialcivilisingmissioncontradiction/"
     },
     "ImperialClanFiscalBurden": {
@@ -142319,9 +142388,9 @@
       "url": "/wiki/entities/josephchamberlain/"
     },
     "JosephConrad": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -142329,9 +142398,16 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/josephconrad/"
     },
     "JosephFouche": {
@@ -150543,9 +150619,9 @@
       "url": "/wiki/entities/leopoldberchtold/"
     },
     "LeopoldII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -150567,9 +150643,16 @@
           "show": "The Rest Is History",
           "title": "142. General Gordon and the Siege of Khartoum",
           "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        },
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/leopoldii/"
     },
     "LeopoldoGaltieri": {
@@ -277342,6 +277425,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/williamshakespeare/"
+    },
+    "WilliamSheppard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5467841243 [GLT5467841243].md",
+          "key": "539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243",
+          "show": "The Rest Is History",
+          "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
+          "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/williamsheppard/"
     },
     "WilliamSlim": {
       "episode_count": 1,

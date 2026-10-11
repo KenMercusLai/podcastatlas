@@ -4,7 +4,8 @@ type: entity
 tags: [person, author, sailor, modernism, colonialism]
 sources:
   - 541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786
-last_updated: 2026-09-22
+  - 539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Joseph Conrad was a Polish-born British merchant seaman and English-language nov
 
 ## Current Profile
 
-The episode presents Conrad as a skeptical, conservative writer whose Congo journey destroyed an earlier attraction to the supposed blank spaces of imperial maps. He encountered forced labor, physical abuse, illness, depopulated settlements, and a commercial system organized around ivory; he later condemned Leopold's regime as plunder. Yet his literary attack on that system did not make him a straightforward modern anti-imperialist, and the racial limits of his representation remain central to the novella's reception.
+The sources present Conrad as a skeptical, conservative writer whose Congo journey destroyed an earlier attraction to the supposed blank spaces of imperial maps and an initial willingness to believe Leopold's philanthropic claims. He encountered forced labor, physical abuse, illness, depopulated settlements, and a commercial system organized around ivory; the new account emphasizes his trauma and alienation from other Europeans in the colony. Yet his literary attack on that system did not make him a straightforward modern anti-imperialist, and the racial limits of his representation remain central to the novella's reception.
 
 ## Key Characteristics
 
@@ -32,14 +33,16 @@ The episode presents Conrad as a skeptical, conservative writer whose Congo jour
 - Congo experience: [[541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786]] follows his travel from Boma and Matadi to Leopoldville and Stanley Falls, including his meeting with [[RogerCasement]].
 - Literary transformation: [[541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786]] connects the 1890 journey to the drafting and 1899 publication of [[HeartOfDarkness|Heart of Darkness]].
 - Political limits: [[541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786]] contrasts Conrad's denunciation of the Congo Free State with his favorable statements about British empire.
+- Disillusionment frame: [[539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243]] opens with Conrad's journey from belief in Leopold's humanitarian project toward trauma, estrangement, and the colonial scenes later reworked in fiction.
 
 ## Qualifications
 
-The page reflects one podcast's biographical and literary synthesis. Conrad's inward response to Congo violence, the exact real-life models for Kurtz, and the degree to which his later fiction transcends or reproduces imperial assumptions remain interpretive questions.
+The page reflects two linked podcast episodes' biographical and literary synthesis. Conrad's inward response to Congo violence, the exact real-life models for Kurtz, and the degree to which his later fiction transcends or reproduces imperial assumptions remain interpretive questions. The regime's victims should not be reduced to the background of a European writer's moral awakening.
 
 ## What Changed
 
-- Created Conrad's profile around the relationship between maritime biography, Congo witness, imperial disillusionment, and literary ambiguity.
+- Clarified that Conrad's disillusionment began from some acceptance of Leopold's humanitarian presentation and developed through witnessed coercion.
+- Made the limits of a European-trauma frame explicit alongside the value of Conrad's testimony.
 
 ## Relationships
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13235
+wiki_total_pages: 13238
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "Fora"
     title: "Fora"
     url: "/wiki/entities/fora/"
+  - key: "ForcePublique"
+    title: "Force Publique"
+    url: "/wiki/entities/forcepublique/"
   - key: "FordMotorCompany"
     title: "Ford Motor Company"
     url: "/wiki/entities/fordmotorcompany/"

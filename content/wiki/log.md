@@ -35564,3 +35564,11 @@ Added source `lovpnvggvmrtfzpn9gvezhrg6xfo`; created [[BaiZizai|白自在]], [[S
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 539. Horror in the Congo: The Crimes of Empire (Part 2)
+
+Added source `539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243`; created [[ForcePublique|Force Publique]], [[GeorgeWashingtonWilliams|George Washington Williams]], [[WilliamSheppard|William Sheppard]], and [[CoerciveCommodityExtraction]]; and resynthesized [[CongoFreeState|Congo Free State]], [[LeopoldII|Leopold II]], [[JosephConrad|Joseph Conrad]], [[EdmundDeneMorel|Edmund Dene Morel]], and [[ImperialCivilisingMissionContradiction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Congo Free State fused Leopold's sovereign authority and private investment with concession grants, porterage, railway labor, rubber quotas, hostages, and Force Publique violence, making coercion an administrative production system rather than an accidental breakdown of colonial order. Williams, Sheppard, Ilanga's mediated testimony, Conrad's literary witness, and Morel's cargo inference exposed different parts of that system before the organized reform campaign. No settled contradiction was adopted. Mortality and profit estimates, regional variation, the origin and circumstances of severed-hand practices, and the limits of evidence mediated mainly through European and American observers remain disputed or source-scoped. Broad [[TheRestIsHistory]] and [[HeartOfDarkness|Heart of Darkness]] pages were kept closed because the focused source, institutional profiles, critic and witness pages, and extraction concept capture the durable addition without reopening unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,453 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
