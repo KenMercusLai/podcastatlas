@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13409
+wiki_total_pages: 13412
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2171,6 +2171,9 @@ wiki_pages:
   - key: "ShangguanJieWesternHan"
     title: "上官桀 / Shangguan Jie (Western Han)"
     url: "/wiki/entities/shangguanjiewesternhan/"
+  - key: "ShangguanFeiyanGuLong"
+    title: "上官飞燕（古龙人物） / Shangguan Feiyan"
+    url: "/wiki/entities/shangguanfeiyangulong/"
   - key: "Shangyong"
     title: "上庸 / Shangyong"
     url: "/wiki/entities/shangyong/"

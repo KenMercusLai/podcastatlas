@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13409
+wiki_total_pages: 13412
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "GuoQinLun"
     title: "《过秦论》 / Guo Qin Lun"
     url: "/wiki/entities/guoqinlun/"
+  - key: "GoldenRocDynastyGuLong"
+    title: "《金鹏王朝》 / The Golden Roc Dynasty"
+    url: "/wiki/entities/goldenrocdynastygulong/"
   - key: "GhostBlowsOutTheLight"
     title: "《鬼吹灯》 / Ghost Blows Out the Light"
     url: "/wiki/entities/ghostblowsoutthelight/"

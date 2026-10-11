@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [013 武侠与推理的完美结合|漫话古龙《陆小凤传奇之金鹏王朝》](sources/lstyln6ml2pnn9isi6heyyvuewk6.md) — 纸醉金迷FM以三位主角的集中登场和三重反转重读《金鹏王朝》，在武侠推理的爽感与成长、性别书写及因果收束的局限之间保留张力。
 - [014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角](sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav.md) — 纸醉金迷FM以三组配角关系讨论门派标签、亲密义务、父母责任、强迫边界、照料与非偿债式爱情选择。
 - [015 范遥是个好卧底吗？武当七侠在明争暗斗？|再谈《倚天屠龙记》中的配角人物](sources/lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b.md) — 纸醉金迷FM以范遥的长期沉默与万安寺立功检验潜伏价值，并以俞莲舟的克制和判断讨论武当继承，同时明确区分文本事实与趣味派系推测。
 - [016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？](sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh.md) — 纸醉金迷FM以李莫愁为中心，比较情伤如何导向复仇、牺牲、放下、平常生活或相互毁灭，并在同情与责任之间保留张力。
@@ -4660,7 +4661,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李文秀（《白马啸西风》） / Li Wenxiu](entities/LiWenxiu.md) — 在失恋与危险中保护苏普、阿曼和苏鲁克，并以行动而非强力改变族群判断的女主角。
 - [瓦尔拉齐 / Walrazi](entities/Waerlazi.md) — 真诚授艺与片刻关切同谋杀、集体投毒计划和临终杀意并存，却不因此获得救赎的师父反派。
 - [《绣花大盗》 / The Embroidery Bandit](entities/EmbroideredBanditGuLong.md) — 古龙陆小凤小说，以针案悬疑、三场赌斗、信任背叛及轻重倒置的终战连接鲜明场面与因果疑点。
-- [花满楼 / Hua Manlou](entities/HuaManlou.md) — 以自身失明经验帮助江重威重建生存意愿，并通过他人后来的人生结果间接显出善意的陆小凤挚友。
+- [《金鹏王朝》 / The Golden Roc Dynasty](entities/GoldenRocDynastyGuLong.md) — 以假王族、忠奸翻转、六趾线索和幕后布局奠定陆小凤系列武侠推理模式，同时保留因果与性别书写疑点。
+- [花满楼 / Hua Manlou](entities/HuaManlou.md) — 以失明经验、感官能力、独立生活和生命热情帮助他人重建生存意愿的陆小凤挚友。
+- [上官飞燕（古龙人物） / Shangguan Feiyan](entities/ShangguanFeiyanGuLong.md) — 以双重身份、感官伪装和情感操控推动假复国委托，却也被更大阴谋工具化的人物。
+- [霍休（古龙人物） / Huo Xiu](entities/HuoXiuGuLong.md) — 借假王族、侠义介入、名誉叙事和他人情感清除财富竞争者，并因机关失灵暴露控制边界的幕后主使。
 - [公孙大娘（古龙人物） / Gongsun Daniang (Gu Long character)](entities/GongsunDaniangGuLong.md) — 以武功、智计、易容、剑舞与道德歧义成为陆小凤势均力敌的对手和盟友。
 - [金九龄（古龙人物） / Jin Jiuling (Gu Long character)](entities/JinJiulingGuLong.md) — 借查案者与朋友身份隐藏真凶位置，并以重锤轻使承载完美犯罪欲及动机争议的《绣花大盗》反派。
 - [薛冰（古龙人物） / Xue Bing (Gu Long character)](entities/XueBingGuLong.md) — 以食物、打闹与失踪焦虑形成生活化爱情，同时暴露性格标签铺垫不足问题的陆小凤伴侣。
@@ -4673,8 +4677,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏荃 / Su Quan](entities/SuQuan.md) — 以成熟判断、能力互补、决策咨询与家庭协调成为韦小宝的务实伙伴和家中实际领袖。
 - [阿珂（《鹿鼎记》） / A Ke](entities/AkeLuDingJi.md) — 以绝色投射、强烈执迷、估价占有和怀孕后的受限婚姻转折检验欲望是否等于爱情的角色。
 - [《决战前后》 / Duel Before and After](entities/DuelBeforeAndAfterGuLong.md) — 古龙陆小凤小说，以紫禁之巅决战连接人情牵挂、剑道纯粹、政治阴谋、选择死亡与悬疑收束的得失。
-- [陆小凤 / Lu Xiaofeng](entities/LuXiaofeng.md) — 以感官判断、示弱、关系理解和临场变招破局，同时在人情生活与技艺纯粹之间保持张力的武侠侦探。
-- [西门吹雪 / Ximen Chuixue](entities/XimenChuixue.md) — 因婚姻和将为人父而获得温度与责任，同时面对牵挂是否削弱致命专注的顶尖剑客。
+- [陆小凤 / Lu Xiaofeng](entities/LuXiaofeng.md) — 以友情而非奖赏进入危险，并凭感官判断、关系理解和临场变招破局的武侠侦探。
+- [西门吹雪 / Ximen Chuixue](entities/XimenChuixue.md) — 从仪式化复仇与自授权正义走向婚姻、父职、温度及责任的顶尖剑客。
 - [叶孤城 / Ye Gucheng](entities/YeGucheng.md) — 把诚于剑、城主身份、政治野心和可能主动求死聚于一身，使决斗胜负保持歧义的剑客。
 - [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以错位爱情、报恩、为陌生人追责和继承仇恨的修正共同检验侠义判断的金庸小说。
 - [《雪山飞狐》 / Fox Volant of the Snowy Mountain](entities/XueshanFeihu.md) — 以一日集中行动、二十七年旧案、百年世仇与逐层证言组成的金庸短篇武侠小说。
@@ -14463,7 +14467,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Richard Jewell / 理查德·朱维尔](entities/RichardJewell.md) — Atlanta Olympics security guard used as an example of suspicion, media pressure, and investigative overreach before exoneration.
 - [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer and newspaper editor read through cultural craft, political critique, and his mentorship and disputes with Lin Xingzhi.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
-- [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer combining martial-arts mystery with concealed identity, psychological inference, symbolic weapons, and concentrated reversal.
+- [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer combining concentrated character entrances, martial-arts mystery, concealed identity, psychological inference, and dramatic reversal with uneven causal closure.
 - [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
 - [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel connecting Song Jianghu plausibility, identity tragedy, bloodline reversal, morally complex villains, and late-plot convergence.
 - [《越女剑》](entities/YueNvJian.md) — Jin Yong novella linking older Yue maiden and white-ape motifs to the mythic horizon of wuxia.

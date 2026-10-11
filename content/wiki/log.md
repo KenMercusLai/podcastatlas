@@ -36365,3 +36365,11 @@ Added source `lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 013 武侠与推理的完美结合|漫话古龙《陆小凤传奇之金鹏王朝》
+
+Added source `lstyln6ml2pnn9isi6heyyvuewk6`; created [[GoldenRocDynastyGuLong|《金鹏王朝》]], [[ShangguanFeiyanGuLong|上官飞燕]], and [[HuoXiuGuLong|霍休]]; and resynthesized [[GuLong|古龙]], [[LuXiaofeng|陆小凤]], [[HuaManlou|花满楼]], and [[XimenChuixue|西门吹雪]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the first Lu Xiaofeng case joins concentrated, nearly complete character entrances to a martial-arts investigation driven by false royalty, disputed loyalty, unreliable testimony, and a concealed organizer. Its speed, friendship, atmosphere, and three reversals create strong popular-reading pleasure, while limited growth, sexualized or weakly differentiated female roles, late evidence, coincidence, and unresolved mechanisms qualify its detective closure. No settled contradiction was adopted. The old woman's identity, Shangguan Feiyan's survival, Xue'er's age and feelings, the failed escape mechanism, motives, dialogue, martial rankings, adaptation memories, commercial explanations, and authorial intent remain disputed, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,554 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
