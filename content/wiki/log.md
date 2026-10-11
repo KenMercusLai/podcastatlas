@@ -36034,3 +36034,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel
+
+Added source `understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858`; created [[MorganHousel]], [[MoneyAsToolNotYardstick]], and [[FutureRegretFinancialPlanning]]; and resynthesized [[FinancialFreedomVsLifestyleFreedom]], [[SocialComparisonPressure]], and [[ParentalEmbodiedModeling]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: money is most useful when it buys independence, purpose, time, lower stress, and relationships, while comparison, fame, fixed identity, and moving definitions of enough can turn financial assets into psychological liabilities. Future-regret planning should preserve reversibility because present preferences are not final, and children learn financial norms from visible adult conduct and shared experience before formal lessons. No settled contradiction was adopted. Happiness, dopamine, centenarian, lottery, inheritance, founder, birth-rate, compounding, and geographic-comparison claims remain source-scoped; the conversation is conceptual rather than individualized financial advice. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source, guest, and concept pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,512 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

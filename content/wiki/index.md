@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel](sources/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858.md) — Huberman Lab interview on money as a tool for autonomy, purpose, relationships, and time rather than a yardstick for identity and status.
 - [519. The World's First City](sources/519-the-worlds-first-city-glt2603135981.md) — The Rest Is History on Uruk's environmental and institutional rise, administrative writing, urban pleasure, slavery, and coercive power.
 - [Essentials: How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369.md) — Condensed Huberman Lab episode on phase-aware light and temperature timing for travel, shift work, fragmented sleep, NSDR, and cautious melatonin use.
 - [520. Warlords of the West: Barbarian Heirs of Rome (Part 1)](sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273.md) — The Rest Is History on Frankish Roman service, Clovis's conquest and conversion, Saint Martin's cult, and composite Merovingian legitimacy.
@@ -4595,6 +4596,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [Morgan Housel](entities/MorganHousel.md) — Writer and investor framing money through behavior, regret, autonomy, purpose, comparison, and family context.
 - [Uruk](entities/Uruk.md) — Early Mesopotamian city whose scale joined ecology, migration, temples, infrastructure, production, writing, pleasure, and coercion.
 - [Clovis](entities/Clovis.md) — Frankish king who joined conquest, Roman recognition, orthodox baptism, and Saint Martin's cult into composite rule in Gaul.
 - [Saint Martin](entities/SaintMartin.md) — Soldier-turned-bishop whose ascetic charisma, relics, shrine, and cloak became durable sources of Frankish sacred prestige.
@@ -17987,6 +17989,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Money as Tool, Not Yardstick](concepts/MoneyAsToolNotYardstick.md) — Distinguishes using money for security, autonomy, purpose, time, and relationships from using it to rank personal worth.
+- [Future-Regret Financial Planning](concepts/FutureRegretFinancialPlanning.md) — Evaluates financial and career choices through anticipated regret while preserving room for identity and life-stage change.
 - [Early Urbanization Institutional Co-Evolution](concepts/EarlyUrbanizationInstitutionalCoEvolution.md) — Multi-causal framework linking environmental change, migration, sacred authority, infrastructure, exchange, and administration in the first large cities.
 - [Administrative Writing Infrastructure](concepts/AdministrativeWritingInfrastructure.md) — Durable record systems that coordinate goods, obligations, labor, and identity before expanding into literary media.
 - [Urban Civilization Ambivalence](concepts/UrbanCivilizationAmbivalence.md) — Framework holding urban creativity and sociability together with hierarchy, extraction, surveillance, and forced labor.

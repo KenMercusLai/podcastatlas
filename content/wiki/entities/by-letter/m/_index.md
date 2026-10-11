@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13324
+wiki_total_pages: 13325
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1697,6 +1697,9 @@ wiki_pages:
   - key: "MooreThreads"
     title: "Moore Threads / 摩尔线程"
     url: "/wiki/entities/moorethreads/"
+  - key: "MorganHousel"
+    title: "Morgan Housel"
+    url: "/wiki/entities/morganhousel/"
   - key: "MorganStanley"
     title: "Morgan Stanley"
     url: "/wiki/entities/morganstanley/"

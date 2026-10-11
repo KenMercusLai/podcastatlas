@@ -6,7 +6,8 @@ sources:
   - zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5
   - zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z
   - 074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas
-last_updated: 2026-09-14
+  - understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,9 +27,11 @@ Hanji 394-1 adds the public-ethics version through [[JunBuyiWesternHan|隽不疑
 
 The [[LegendOfTheCondorHeroes|《射雕英雄传》]] comparison adds identity, endurance, and political duty. [[LiPingJinYong|李萍]] tells 郭靖 who his father was and what obligations follow, but the lesson is credible because she also survives hardship, praises principled conduct, and finally refuses to let her own captivity force him into attacking the Song. Her case shows that explicit teaching and embodied example can reinforce one another rather than forming opposites.
 
+The [[MorganHousel]] interview extends the model into financial socialization. Children observe what adults buy, save, fear, discuss, and sacrifice for before any formal money lesson begins. Shared household standards matter: withholding resources from children while adults visibly consume luxury can teach exclusion or humiliation rather than grit, whereas adults joining a difficult experience can make its purpose and emotional meaning more credible.
+
 ## Key Claims
 
-- Children learn from repeated adult conduct before they understand formal lessons.
+- Children learn from repeated adult conduct, including visible spending, saving, work stress, and shared sacrifice, before they understand formal lessons.
 - Sleep, household order, energy, and emotional tone are part of the educational environment.
 - Repeated caregiver approval and disapproval can teach children which public responsibilities count as honorable work.
 - Identity stories become educational when a caregiver joins them to repeated conduct, approval, and sacrifice rather than genealogy alone.
@@ -46,16 +49,19 @@ The [[LegendOfTheCondorHeroes|《射雕英雄传》]] comparison adds identity, 
 - Public-ethics extension: [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] links that maternal standard to Jun Buyi's evidence-conscious and benevolent judicial style, while also noting Jin-family strict maternal discipline.
 - Identity and duty: [[074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas]] says Li Ping repeatedly tells 郭靖 his parentage and expected conduct while modeling endurance and loyalty through action.
 - Approval as reinforcement: [[074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas]] uses her praise of his protection of 哲别 as a concrete value signal.
+- Financial modeling: [[understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858]] says children already observe family work stress, saving, spending, and conversation before adults formally teach money.
+- Shared-hardship boundary: [[understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858]] distinguishes adults participating in difficulty from imposing deprivation while retaining visible privilege.
 
 ## Counterevidence & Qualifications
 
-All current sources center mothers, so the concept records their gendered framing without treating family stability or value education as naturally or solely maternal labor. Hanji 394-1 and the fictional Li Ping comparison give interpretive causality rather than proof: caregiver signals may be powerful without excluding temperament, mentors, institutions, social position, or later experience. Li Ping's death is a source-specific act under extreme coercion and must not become a general expectation of parental self-sacrifice.
+The three earlier sources center mothers, so the concept records their gendered framing without treating family stability or value education as naturally or solely maternal labor; the Housel source broadens the frame to parents generally. Hanji 394-1 and the fictional Li Ping comparison give interpretive causality rather than proof: caregiver signals may be powerful without excluding temperament, mentors, institutions, social position, or later experience. Li Ping's death is a source-specific act under extreme coercion and must not become a general expectation of parental self-sacrifice. Financial hardship can be unavoidable, and the concept should not turn poverty into a parental moral failure.
 
 ## What Changed
 
 - Added identity and public loyalty as values transmitted jointly through words, approval, endurance, and action.
 - Clarified that explicit instruction and embodied example can reinforce one another.
 - Preserved mentors, institutions, and personal choice as competing or complementary causes.
+- Added spending, saving, work stress, and shared hardship as forms of financial modeling.
 
 ## Related Concepts
 
@@ -65,3 +71,4 @@ All current sources center mothers, so the concept records their gendered framin
 - [[RuralParentChildReading|乡村亲子阅读]] - community extension of family learning through repeated parent-child practice.
 - [[MeritBasedRewardPunishment|因功赏罚]] - public-duty standard that Hanji 394-1 places beside family-based value modeling.
 - [[MaternalSurvivalSacrificeEthics|母职求生与牺牲伦理]] - related distinction between sustained caregiving endurance and dramatic self-sacrifice.
+- [[MoneyAsToolNotYardstick]] - names the financial orientation caregivers may model through ordinary choices.

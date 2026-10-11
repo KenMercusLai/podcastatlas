@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10423
+wiki_total_pages: 10425
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1388,6 +1388,9 @@ wiki_pages:
   - key: "MoneyAsFlow"
     title: "Money As Flow / 货币是流量"
     url: "/wiki/concepts/moneyasflow/"
+  - key: "MoneyAsToolNotYardstick"
+    title: "Money as Tool, Not Yardstick"
+    url: "/wiki/concepts/moneyastoolnotyardstick/"
   - key: "MoneyIllusion"
     title: "Money Illusion / 货币错觉"
     url: "/wiki/concepts/moneyillusion/"
