@@ -7,6 +7,7 @@ sources:
   - why-is-there-a-supplement-craze-if-they-dont-even-work
   - vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861
   - scim3176341770-scim3176341770
+  - vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -23,14 +24,16 @@ The wiki's reference case is the United States, where [[why-is-there-a-supplemen
 
 The U.S. kratom market adds a product-identity problem. Fresh or powdered leaf, extracts, concentrates, isolates, and chemically produced 7-hydroxymitragynine can appear under related consumer language despite materially different exposure and opioid activity. [[scim3176341770-scim3176341770]] also describes a U.S. dietary-ingredient interpretation under which a metabolite of a dietary ingredient may itself qualify as a dietary ingredient. The durable regulatory lesson is not that this interpretation has been independently adjudicated here, but that ingredient-category rules, serving labels, and product naming can lag behind formulation-level pharmacology.
 
+VOL.149 adds a China-facing and cross-border comparison. The episode describes China's blue-hat route as an approval and fixed-function-claim system with significant time and cost, while cross-border English-label goods follow the origin market's rules instead of automatically satisfying China's health-food regime. It also warns that FDA imagery or “FDA-certified supplement” wording can exploit confusion between facility oversight and product approval, and that origin labels can reflect packaging or routing steps rather than the whole manufacturing chain. The resulting consumer rule is to ask what jurisdiction, product category, claim type, facility, formulation, dose, and seller accountability actually apply rather than treating one logo or country name as a global quality certificate.
+
 ## Key Claims
-- Supplement products can be marketed as health-supporting without proving they make healthy people healthier.
+- Supplement products can be marketed as health-supporting without proving they make healthy people healthier, with words such as "supports" and "promotes" carrying much of the implied value.
 - Regulators are narrower than packaging suggests: FDA scope, DSHEA language rules, and Australian listed-track design all leave efficacy largely unverified before sale.
-- Claim wording carries much of the value, because "supports" and "promotes" suggest benefit while staying inside permitted vocabulary.
 - Safety review is also limited, with premarket safety proof not automatically required and enforcement often arriving after harm or after advertising complaints.
 - Australian evidence shows that stricter manufacturing and claim limits do not close the efficacy gap, since GMP governs process and the brand files the benefit claim.
 - Kratom products add an identity gap: shared plant-derived language can cover leaf, concentrated extracts, isolated metabolites, and chemically modified products with different exposure and risk.
 - Consumer protection therefore rests on label accuracy, third-party testing, disclosure of supplement use to clinicians, and scepticism about perceived effects rather than on regulatory approval alone.
+- Cross-border status and origin claims require jurisdiction-specific reading: a blue-hat mark, FDA reference, foreign-language label, or country-of-origin statement answers narrower questions than consumers often infer.
 
 ## Evidence
 - U.S. architecture and permissiveness: [[why-is-there-a-supplement-craze-if-they-dont-even-work]] describes the [[DietarySupplementHealthAndEducationAct]] as the turning point that made oversight permissive and shows how a brand can build a product from stock or custom formulas.
@@ -40,15 +43,17 @@ The U.S. kratom market adds a product-identity problem. Fresh or powdered leaf, 
 - Australian comparison: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] describes the listed and registered tracks, the roughly 98% listed share, permitted-ingredient and claim limits, post-market sampling, and [[SupplementsGoodManufacturingPractice|GMP]] manufacturing that never certifies benefit.
 - Product-category ambiguity: [[scim3176341770-scim3176341770]] describes leaf kratom, extracts, concentrates, isolates, and 7-hydroxymitragynine products appearing under related language while invoking a metabolite-as-dietary-ingredient interpretation.
 - Consumer-facing boundary: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] relays Australian regulatory advice that supplement users should disclose them to hospital or medical staff.
+- China and cross-border comparison: [[vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp|VOL.149]] contrasts blue-hat approval and fixed claims with cross-border origin-market rules, and separates facility or routing signals from product efficacy and whole-chain origin.
 
 ## Counterevidence & Qualifications
-The two national systems are not equivalents and should not be flattened into one low-regulation story: Australia enforces ingredient eligibility, claim vocabulary, manufacturing standards, and recall capability more visibly than the U.S. framework described here. Australian figures - the complementary-medicine count, the 98% listed share, and track thresholds - come from a podcast summary and need primary-source verification. The kratom source's interpretation of U.S. metabolite rules is also episode-attributed rather than an independent legal determination, and product heterogeneity does not prove that leaf products are safe. The sources preserve legitimate supplement uses, notably pregnancy-related folic acid and clinically identified deficiencies, while the food-additive branch concerns acute safety rather than efficacy; this page is not a blanket claim about all supplements or all additives.
+The national systems are not equivalents and should not be flattened into one low-regulation story: China, Australia, and the United States use different category, ingredient, claim, manufacturing, import, and enforcement rules. Australian figures - the complementary-medicine count, the 98% listed share, and track thresholds - and VOL.149's blue-hat timing, cost, dose, FDA, origin-label, and cross-border claims come from podcast summaries and need primary-source verification. The kratom source's interpretation of U.S. metabolite rules is also episode-attributed rather than an independent legal determination, and product heterogeneity does not prove that leaf products are safe. The sources preserve legitimate supplement uses, notably pregnancy-related folic acid and clinically identified deficiencies, while the food-additive branch concerns acute safety rather than efficacy; this page is not a blanket claim about all supplements or all additives.
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
 - Added an Australian comparison showing that stricter manufacturing and claim control coexist with an equally unverified efficacy layer.
 - Added kratom as a formulation and ingredient-identity case where related labeling can conceal materially different pharmacology.
 - Consolidated the U.S. claim-language, enforcement, and testing limits into the current synthesis instead of a source-by-source account.
+- Added a China-facing cross-border layer separating blue-hat approval, origin-market rules, FDA imagery, facility oversight, and origin labels from efficacy.
 
 ## Related Concepts
 - [[SupplementStructureFunctionClaims]] - label-language boundary the framework permits.

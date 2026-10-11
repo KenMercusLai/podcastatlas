@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）](sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp.md) — 这病说来话长 episode on supplement need, treatment boundaries, cross-border identity, contract manufacturing, regulatory claims, paid traffic, and lifestyle-first consumer judgment.
 - [533. Wojtek: The Bear Who Beat the Nazis](sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015.md) — The Rest Is History episode connecting Wojtek, Anders' Army, Monte Cassino, and Scottish exile to Polish wartime loss and memory.
 - [Essentials: How Foods & Nutrients Control Our Moods](sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562.md) — Condensed Huberman Lab episode on embodied emotion, vagal and nutrient sensing, food-related neuromodulation, individualized microbiome response, and belief-linked physiology.
 - [047 从《还珠格格》十级问答聊开去](sources/lmjhsewrqbnqsy8d1ilyp_xo885e.md) — 纸醉金迷FM从十级问答转向人物重估，以双女主互补、喜剧解构权威、证据化和解及父皇祛魅重读《还珠格格》。

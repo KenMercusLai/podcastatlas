@@ -8,6 +8,7 @@ sources:
   - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
   - vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d
   - vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o
+  - vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ VOL.192 restates the decision in repair order: inspect the everyday diet before 
 
 VOL.150 adds a default-nonuse and escalation rule. For a generally healthy person without a defined gap or symptom, “no supplement” remains the conservative starting point; discomfort should prompt assessment rather than a health-product substitute. The source also adds time-on-market and regulatory identity as safety context for novel or imported compounds, while making clear that approval, older use, or a blue-hat mark cannot by itself prove personal need or clinical efficacy.
 
+VOL.149 supplies the clearest household-gift version of the framework. Regional diet, sunlight, habitual food intake, examination results, age-related muscle risk, disease, medication, and duration of use matter more than what a livestream, friend, or foreign label recommends. The episode's “substitute player” metaphor also adds a stopping condition: when food and body state already cover the need, a supplement does not have to enter the routine, and a higher dose or longer ingredient list is not inherently more complete.
+
 ## Key Claims
 - Supplement decisions should begin with the user, not the product: body state, diet pattern, life stage, disease status, exercise load, and medication use define the question.
 - More expensive, more natural, more foreign, more concentrated, more absorbable, newer, or longer-sold products are not automatically better; regulatory identity and market history can inform risk review without establishing need.
@@ -50,13 +53,15 @@ VOL.150 adds a default-nonuse and escalation rule. For a generally healthy perso
 - Goal and experiment design: [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] places behavior and nutrition before supplements, permits zero-supplement outcomes, and favors isolated minimum-effective-dose trials outside broad foundational formulas.
 - Diet repair and special-population triage: [[vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d]] says supplements should fill a demonstrated shortfall rather than compensate for daily sweet drinks, highly refined food, or unbalanced takeout, and routes medication use, pregnancy, older age, chronic disease, kidney disease, diabetes, and postoperative needs to qualified care.
 - Default nonuse and escalation: [[vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o|VOL.150]] says most generally healthy people need not add a supplement by default, routes discomfort toward care, and places lifestyle, necessity, regulation, safety history, and evidence before novel-product appeal.
+- Household and duration test: [[vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp|VOL.149]] ties supplement choice to long-term diet, geography, sunlight, examination, age, disease, and time horizon while rejecting ingredient count, dose escalation, and foreignness as need proxies.
 
 ## Counterevidence & Qualifications
-The sources do not provide individualized dosing algorithms, lab thresholds, or disease-specific protocols. They support a conservative triage posture: identify a plausible gap or special condition, read product identity and labels, and use qualified care for disease, pregnancy or lactation, medication interactions, kidney or liver disease, blood-pressure problems, diabetes, malabsorption, or postoperative nutrition. A blue-hat mark, domestic approval, foreign label, long sales history, or apparent lack of symptoms is not a complete safety or need assessment. Named vitamins, minerals, adaptogens, probiotics, omega-3s, sleep aids, cognition products, antioxidant products, and hormone-active compounds remain source-scoped examples rather than a universal supplement list.
+The sources do not provide individualized dosing algorithms, lab thresholds, or disease-specific protocols. They support a conservative triage posture: identify a plausible gap or special condition, read product identity and labels, and use qualified care for disease, pregnancy or lactation, medication interactions, kidney or liver disease, blood-pressure problems, diabetes, malabsorption, nodules or tumors, or postoperative nutrition. A blue-hat mark, domestic approval, foreign label, long sales history, high dose, long ingredient list, or apparent lack of symptoms is not a complete safety or need assessment. Named vitamins, minerals, adaptogens, probiotics, omega-3s, sleep aids, cognition products, antioxidant products, and hormone-active compounds remain source-scoped examples rather than a universal supplement list.
 
 ## What Changed
 - Added default nonuse for generally healthy people without a defined gap and explicit escalation when symptoms are present.
 - Clarified that regulatory identity, origin, novelty, and market history inform risk review without proving need or efficacy.
+- Added the household-gift and duration test: long-term diet and body state define the gap, while dose, ingredient count, and foreignness do not.
 
 ## Related Concepts
 - [[FunctionalFoodRegulatoryIdentity]] - product-category check that comes before judging need.

@@ -35716,3 +35716,11 @@ Added source `533-wojtek-the-bear-who-beat-the-nazis-glt8956421015`; created [[W
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）
+
+Added source `vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp`; and resynthesized [[YueWanrou|岳宛柔]], [[DaShiHua|大食话]], [[TargetedSupplementNeedAssessment]], [[DietarySupplementRegulation]], [[SupplementContractManufacturing]], and [[SupplementMarketingIntensity]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: supplements should fill defined dietary or health gaps rather than serve as medicines or default gifts; cross-border routing, relabeling, packaging, FDA imagery, blue-hat status, high doses, ingredient counts, professional authority, and paid traffic answer narrower questions than efficacy, safety, need, or whole-chain origin. No settled contradiction was adopted. The source's 岳婉柔 spelling is associated cautiously with the later canonical 岳宛柔 through the shared 大食话 identity and role; legal, regulatory, manufacturing, cost, dosage, product-effect, and adverse-event claims remain speaker-reported or source-scoped. Broader host, show, ingredient-specific, and medical pages were kept closed because the source and six focused updates capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,472 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

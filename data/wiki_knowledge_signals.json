@@ -59197,9 +59197,9 @@
       "url": "/wiki/entities/daqin/"
     },
     "DaShiHua": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -59235,9 +59235,16 @@
           "show": "这病说来话长",
           "title": "VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」",
           "url": "/wiki/sources/vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1/"
+        },
+        {
+          "episode_file": "ljWRVmX5CsKQqJ0dyUCG-BaM24mp [ljWRVmX5CsKQqJ0dyUCG-BaM24mp].md",
+          "key": "vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp",
+          "show": "这病说来话长",
+          "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
+          "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/dashihua/"
     },
     "DaVinciSurgicalSystem": {
@@ -66694,9 +66701,9 @@
       "url": "/wiki/concepts/dietaryfatquantityandquality/"
     },
     "DietarySupplementRegulation": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_d1a482df7e247623ba15e4945c925065_37580036 [default.mp3_ywr3ahjkcgo_d1a482df7e247623ba15e4945c925065_37580036].md",
@@ -66725,6 +66732,13 @@
           "show": "Huberman Lab",
           "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
           "url": "/wiki/sources/scim3176341770-scim3176341770/"
+        },
+        {
+          "episode_file": "ljWRVmX5CsKQqJ0dyUCG-BaM24mp [ljWRVmX5CsKQqJ0dyUCG-BaM24mp].md",
+          "key": "vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp",
+          "show": "这病说来话长",
+          "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
+          "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
         }
       ],
       "updated": "2026-10-11",
@@ -250986,9 +251000,9 @@
       "url": "/wiki/entities/supiregime/"
     },
     "SupplementContractManufacturing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol.275 澳洲保健品是怎么火起来的？ [1015773861].md",
@@ -250996,9 +251010,16 @@
           "show": "商业就是这样",
           "title": "Vol.275 澳洲保健品是怎么火起来的？",
           "url": "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+        },
+        {
+          "episode_file": "ljWRVmX5CsKQqJ0dyUCG-BaM24mp [ljWRVmX5CsKQqJ0dyUCG-BaM24mp].md",
+          "key": "vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp",
+          "show": "这病说来话长",
+          "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
+          "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/supplementcontractmanufacturing/"
     },
     "SupplementLabelAccuracy": {
@@ -251025,9 +251046,9 @@
       "url": "/wiki/concepts/supplementlabelaccuracy/"
     },
     "SupplementMarketingIntensity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol.275 澳洲保健品是怎么火起来的？ [1015773861].md",
@@ -251035,9 +251056,16 @@
           "show": "商业就是这样",
           "title": "Vol.275 澳洲保健品是怎么火起来的？",
           "url": "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+        },
+        {
+          "episode_file": "ljWRVmX5CsKQqJ0dyUCG-BaM24mp [ljWRVmX5CsKQqJ0dyUCG-BaM24mp].md",
+          "key": "vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp",
+          "show": "这病说来话长",
+          "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
+          "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/supplementmarketingintensity/"
     },
     "SupplementStructureFunctionClaims": {
@@ -254100,9 +254128,9 @@
       "url": "/wiki/concepts/targetedmemoryreactivation/"
     },
     "TargetedSupplementNeedAssessment": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -254138,6 +254166,13 @@
           "show": "这病说来话长",
           "title": "VOL.150大物是也·大白牛：NMN、氨糖 、护肝片、辅酶…这些爆款保健品真的靠谱吗？",
           "url": "/wiki/sources/vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o/"
+        },
+        {
+          "episode_file": "ljWRVmX5CsKQqJ0dyUCG-BaM24mp [ljWRVmX5CsKQqJ0dyUCG-BaM24mp].md",
+          "key": "vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp",
+          "show": "这病说来话长",
+          "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
+          "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
         }
       ],
       "updated": "2026-10-11",
@@ -290368,9 +290403,9 @@
       "url": "/wiki/entities/yuenvjian/"
     },
     "YueWanrou": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -290406,9 +290441,16 @@
           "show": "这病说来话长",
           "title": "VOL.178 每天都吃的油其实藏着很多误区！吃多少、怎么选、如何保存？ft.「大食话」",
           "url": "/wiki/sources/vol-178-meitian-dou-chi-de-you-qishi-cang-zhe-henduo-wuqu-chi-duoshao-zenme-xuan-ruhe-baocun-ft-dashihua-ltqjc0iz5bdveouj-4sh0fyw5hn1/"
+        },
+        {
+          "episode_file": "ljWRVmX5CsKQqJ0dyUCG-BaM24mp [ljWRVmX5CsKQqJ0dyUCG-BaM24mp].md",
+          "key": "vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp",
+          "show": "这病说来话长",
+          "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
+          "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/yuewanrou/"
     },
     "YueXiaYao": {

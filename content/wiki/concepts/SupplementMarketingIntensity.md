@@ -4,7 +4,8 @@ type: concept
 tags: [marketing, supplements, consumer-products, brand, cpg]
 sources:
   - vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861
-last_updated: 2026-09-17
+  - vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Supplement marketing intensity is the category pattern in which selling expense 
 
 The category logic is what the episode emphasises: the marketing sold an energetic, self-disciplined, good-looking lifestyle rather than an ingredient, and the spending was affordable because supplements are repeat purchases. Swisse's advertising share was once about a quarter of revenue, and the source contrasts that with 汤臣倍健's reported 42% selling-expense ratio in its 2026 half-year report at a time when revenue and profit growth lagged the spending - the argument being that the industry has no hard barrier, so anyone who does not compete on marketing has little else to compete on. The episode also notes the model's limits: high-spend consumer marketing is an up-cycle strategy, returns fall as competition saturates, and Chinese challengers increasingly use ingredient-literacy ("成分党") storytelling instead.
 
+VOL.149 adds the point-of-sale mechanics behind that intensity. The guest describes paid social-media traffic and high unit economics, including a client-reported example in which production cost was about a tenth of retail price. Livestream selling compresses the pitch into visible proxies: manufacture a problem, present white coats or professional identities, invoke foreign certification, amplify testimonials, and make bigger dose, purity, or ingredient count feel self-evidently better. Marketing intensity is therefore not only total advertising spend; it is also the density of authority, urgency, numerical comparison, and imagined outcomes packed into a short sales window.
+
 ## Key Claims
 - Retail shelf dynamics alone do not sell supplements; continuous advertising plus credible endorsements create consumers who ask for the brand by name.
 - Media selection is decisive, because the audience reached by a sports broadcast may not match the audience that buys and recommends in pharmacies.
@@ -25,6 +28,7 @@ The category logic is what the episode emphasises: the marketing sold an energet
 - Marketing intensity is structural, not an outlier: it is affordable because supplement demand repeats, and it substitutes for the differentiation the product layer does not provide.
 - Spending at a quarter or more of revenue can work in a growth phase but becomes fragile as competitor spending pushes returns down.
 - When efficacy is unsupervised, brand recall and distribution become the effective product attributes.
+- Livestream intensity compresses problem creation, borrowed authority, testimonials, foreignness, and simple numerical superiority into a short purchase window.
 
 ## Evidence
 - Competitor benchmark: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] says the 2008 Swisse chief executive identified Centrum as the best seller and heard from retailers that thin margins were offset by year-round advertising and endorsements that drove named requests.
@@ -33,12 +37,14 @@ The category logic is what the episode emphasises: the marketing sold an energet
 - Lifestyle positioning: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] frames the advertising as selling an energetic, self-disciplined, good-looking way of life rather than an ingredient.
 - Chinese comparison: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] cites 汤臣倍健's 42% selling-expense ratio with slower revenue and profit growth, and Swisse's earlier quarter-of-revenue advertising share.
 - Cycle limit: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] reads the approach as an up-cycle strategy that weakens as returns decline, and notes the shift toward ingredient-focused storytelling.
+- Livestream and margin mechanics: [[vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp|VOL.149]] links paid traffic and high markups to problem-first detail pages, professional imagery, testimonials, certification cues, and easy numerical comparisons.
 
 ## Counterevidence & Qualifications
-The spending and revenue figures are episode reporting, not audited disclosures, and the source offers no controlled evidence that advertising caused the share gains rather than distribution expansion, price positioning, or the daigou wave that followed. Advertising effectiveness also varies by market maturity, brand equity, and channel, so intensity should not be read as a universal recipe. The comparison with ingredient-literacy marketing is a contrast in style, not proof that one approach sells better.
+The spending, revenue, and production-cost figures are episode reporting, not audited disclosures, and the sources offer no controlled evidence that advertising caused the share gains rather than distribution expansion, price positioning, or the daigou wave that followed. Advertising effectiveness also varies by market maturity, brand equity, and channel, so intensity should not be read as a universal recipe. The comparison with ingredient-literacy marketing is a contrast in style, not proof that one approach sells better, and professional imagery or a high retail-to-production ratio does not by itself prove that a particular product is ineffective or unlawful.
 
 ## What Changed
 - Created the category concept explaining marketing as the supplement industry's main competitive layer.
+- Added paid-traffic, margin, authority-imagery, testimonial, and numerical-proxy mechanics from livestream selling.
 
 ## Related Concepts
 - [[Swisse]] - the source's marketing case.
