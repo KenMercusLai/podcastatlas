@@ -36254,3 +36254,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 027 武侠史上最经典一战|趣话《陆小凤传奇之决战前后》
+
+Added source `lo1lhzgf7cwbtwjy6no8a9i2laa6`; created [[DuelBeforeAndAfterGuLong|《决战前后》]], [[LuXiaofeng|陆小凤]], [[XimenChuixue|西门吹雪]], [[YeGucheng|叶孤城]], and [[MasteryPurityAndHumanAttachment|技艺纯粹、人情牵挂与道德完整]]. Core synthesis: family attachment makes Ximen more humane and responsible while possibly introducing fear and hesitation; the duel can be both public spectacle and private self-testing; “诚于人” challenges the idea that technical fidelity can stand outside moral character; and Ye's possible chosen death leaves combat superiority unresolved. No settled contradiction was adopted. Duel mechanics, motives, political details, friendship depth, gender criticism, later-series continuity, adaptation comparisons, and the deliberate-deviation reading remain interpretive or source-scoped because the supplied document is a structured podcast summary rather than a verbatim transcript or direct textual collation. Broad [[GuLong|古龙]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and cross-corpus narrative-craft pages were kept closed because the focused novel, characters, and concept capture the durable addition without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,540 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

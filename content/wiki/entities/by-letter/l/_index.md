@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13368
+wiki_total_pages: 13372
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2693,6 +2693,9 @@ wiki_pages:
   - key: "LuDapeng"
     title: "陆大鹏 / 路大鹏 / Lu Dapeng"
     url: "/wiki/entities/ludapeng/"
+  - key: "LuXiaofeng"
+    title: "陆小凤 / Lu Xiaofeng"
+    url: "/wiki/entities/luxiaofeng/"
   - key: "LuChuan"
     title: "陆川 / Lu Chuan"
     url: "/wiki/entities/luchuan/"

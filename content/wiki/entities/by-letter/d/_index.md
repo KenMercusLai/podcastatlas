@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13368
+wiki_total_pages: 13372
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "DongguanHanji"
     title: "《东观汉记》 / Dongguan Hanji"
     url: "/wiki/entities/dongguanhanji/"
+  - key: "DuelBeforeAndAfterGuLong"
+    title: "《决战前后》 / Duel Before and After"
+    url: "/wiki/entities/duelbeforeandaftergulong/"
   - key: "DoubleVision2002"
     title: "《双瞳》 / Double Vision (2002 film)"
     url: "/wiki/entities/doublevision2002/"

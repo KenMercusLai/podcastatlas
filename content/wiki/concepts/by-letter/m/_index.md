@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10445
+wiki_total_pages: 10446
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "MassacreOfTheInnocents"
     title: "Massacre of the Innocents"
     url: "/wiki/concepts/massacreoftheinnocents/"
+  - key: "MasteryPurityAndHumanAttachment"
+    title: "Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整"
+    url: "/wiki/concepts/masterypurityandhumanattachment/"
   - key: "MateSwitchingHypothesis"
     title: "Mate Switching Hypothesis"
     url: "/wiki/concepts/mateswitchinghypothesis/"

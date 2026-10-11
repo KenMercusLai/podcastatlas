@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [027 武侠史上最经典一战|趣话《陆小凤传奇之决战前后》](sources/lo1lhzgf7cwbtwjy6no8a9i2laa6.md) — 纸醉金迷FM以西门吹雪的人性变化、叶孤城的政治与求死歧义及“诚于人/诚于剑”之争重读紫禁之巅，同时质疑悬疑收束、友情转变和女性书写。
 - [028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？](sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic.md) — 纸醉金迷FM以报恩、为陌生受害者追责和修正继承仇恨，讨论胡斐如何在感情压力、因果不明与前辈引导中形成侠义判断。
 - [029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写](sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7.md) — 纸醉金迷FM以胡斐、袁紫衣和程灵素区分即时吸引、长期适配、实践性照护与迟到认知，并拒绝把自我牺牲转化为爱情债务。
 - [030 大话卫斯理之《蓝血人》](sources/lh2p-n8chtr_zwzssxljfgezpc0i.md) — 纸醉金迷FM以蓝血谜团、外星导航仪和土星归乡悲剧重读《蓝血人》，在武侠式科幻的想象力与科学、因果和伦理局限之间保留张力。
@@ -4624,6 +4625,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《决战前后》 / Duel Before and After](entities/DuelBeforeAndAfterGuLong.md) — 古龙陆小凤小说，以紫禁之巅决战连接人情牵挂、剑道纯粹、政治阴谋、选择死亡与悬疑收束的得失。
+- [陆小凤 / Lu Xiaofeng](entities/LuXiaofeng.md) — 以调查、友情、幽默和情感开放对照两位剑客的纯粹追求，并质疑排名与观战奇观的武侠主角。
+- [西门吹雪 / Ximen Chuixue](entities/XimenChuixue.md) — 因婚姻和将为人父而获得温度与责任，同时面对牵挂是否削弱致命专注的顶尖剑客。
+- [叶孤城 / Ye Gucheng](entities/YeGucheng.md) — 把诚于剑、城主身份、政治野心和可能主动求死聚于一身，使决斗胜负保持歧义的剑客。
 - [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以错位爱情、报恩、为陌生人追责和继承仇恨的修正共同检验侠义判断的金庸小说。
 - [胡斐 / Hu Fei](entities/HuFei.md) — 在爱情、报恩、陌生受害者的正义诉求与对苗人凤的复杂判断之间形成侠义标准的《飞狐外传》主角。
 - [程灵素 / Cheng Lingsu](entities/ChengLingsu.md) — 以医毒、智谋、侠义和实践性照护保护胡斐，同时不因牺牲而获得爱情债权的悲剧人物。
@@ -18062,6 +18067,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整](concepts/MasteryPurityAndHumanAttachment.md) — 区分巅峰技艺的专注成本、关系牵挂的双重作用，以及技术忠诚能否脱离对人的诚实与道德责任。
 - [Wuxia–Science-Fiction Hybridity / 武侠式科幻](concepts/WuxiaScienceFictionHybrid.md) — 科技与外星设定承载科幻表层，而人物能力、灵药、秘密组织与闯关结构延续武侠冒险语法的跨类型模式。
 - [Weapons-Race Civilizational Self-Destruction / 武器竞赛式文明自毁](concepts/WeaponsRaceCivilizationalSelfDestruction.md) — 对手公开限制毁灭性武器却秘密竞逐，使研发、试验与污染在终局战争前便摧毁共同生存条件。
 - [Concrete Reciprocity Over Abstract Loyalty / 具体互惠高于抽象忠诚](concepts/ConcreteReciprocityOverAbstractLoyalty.md) — 以具体人的相待、互助与不背叛，优先于对王朝、族群、派别或教义的无条件忠诚。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13368
+wiki_total_pages: 13372
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "YeGuofu"
     title: "叶国富 / Ye Guofu"
     url: "/wiki/entities/yeguofu/"
+  - key: "YeGucheng"
+    title: "叶孤城 / Ye Gucheng"
+    url: "/wiki/entities/yegucheng/"
   - key: "YevgeniaSheCameFromMariupol"
     title: "叶弗根尼亚 / Yevgenia"
     url: "/wiki/entities/yevgeniashecamefrommariupol/"
