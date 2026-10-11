@@ -7,7 +7,8 @@ sources:
   - lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv
   - understand-and-use-dreams-to-learn-and-forget-scim1662184463
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
-last_updated: 2026-10-09
+  - essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,6 +30,8 @@ The early Huberman episode adds a stage-function interpretation rather than a sy
 
 The Eagleman interview adds a different functional hypothesis: REM-driven visual activity may defend visual cortex against competitive takeover during nightly darkness. The proposed relationship among species development, infant REM, rapid blindfold remapping, and visually elaborate REM dreams is compatible with cortical competition but does not displace emotional-processing, associative, or stage-distribution accounts. Blind people's nonvisual dreams also show that dream experience is built from available sensory history rather than requiring visual imagery.
 
+The condensed Essentials edition reinforces the early episode's association account: REM replay is presented as extracting rules and meaning while weakening irrelevant links among experiences. It adds provenance rather than a separate test of that hypothesis, and it does not turn dream content into a universal symbolic code.
+
 ## Key Claims
 - Dream reports can arise outside REM, but vivid and bizarre narrative dreams are most strongly associated with REM and especially phasic REM.
 - REM physiology helps explain dreams' visual, emotional, active, memory-rich, and weakly logical character.
@@ -49,14 +52,13 @@ The Eagleman interview adds a different functional hypothesis: REM-driven visual
 - Early association account - [[understand-and-use-dreams-to-learn-and-forget-scim1662184463]] links REM with spatial replay, social meaning, theory of mind, and the pruning of excessive emotional associations.
 - Visual-cortex-defense hypothesis - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] links rapid cortical remapping during blindfolding, REM activation, developmental plasticity, and visually elaborate dreams as a proposed defense against sensory takeover.
 - Blind-dream qualification - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] says people who are blind still dream using touch, sound, and other available experience.
+- Condensed association account - [[essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014]] presents REM as extracting rules and meaning while discarding irrelevant associations.
 
 ## Counterevidence & Qualifications
 The source summaries do not supply enough study methods, sample sizes, replication history, or clinical detail to establish that dreaming causes the reported learning or adaptation outcomes, that theory-of-mind content identifies REM, that dreams evolved to defend visual cortex, that nightmares generally arise in slow-wave sleep, that a bodily sensation reliably predicts illness, or that one dream image has a stable psychological meaning. Dream report depends on awakening and recall, and forgotten dreams need not indicate absent REM. Cross-species REM comparisons, infant proportions, and rapid blindfold remapping remain source-scoped. Personal interpretation can be meaningful without becoming scientific proof or diagnosis.
 
 ## What Changed
-- Added visual-cortex defense as a competing, source-scoped functional hypothesis.
-- Added blind dreaming as evidence that dream content follows available sensory experience.
-- Preserved emotional-processing and associative accounts rather than treating one dream theory as settled.
+- Added the Essentials edition as corroborating provenance for rule formation, meaning, and removal of irrelevant associations.
 
 ## Related Concepts
 - [[SleepStageFunctionalArchitecture]] - stage structure that locates dream mentation across REM and non-REM sleep.

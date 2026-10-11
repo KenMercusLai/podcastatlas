@@ -13,6 +13,7 @@ sources:
   - guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487
   - understand-and-use-dreams-to-learn-and-forget-scim1662184463
   - scim3191061030-scim3191061030
+  - essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -45,6 +46,8 @@ The early dreaming episode supplies a simpler precursor to this later architectu
 
 The Essentials edit of Walker's 2021 interview reinforces the early-deep/later-REM pattern and the cost of truncating either end of the night. Because it condenses an existing source, it strengthens accessibility and provenance but does not independently validate stage-specific functions, hormone effects, or a fixed 90-minute cycle.
 
+The Essentials edit of the early dreaming episode likewise preserves the slow-wave-rich to REM-rich nightly gradient and the broad motor/detail versus association/emotion distinction. It is corroborating provenance for the existing episode rather than independent replication, and its roughly 90-minute cycle remains a population-level description rather than a personalized waking rule.
+
 ## Key Claims
 - Sleep is an active sequence of distinct brain states rather than passive rest.
 - Stage one and stage two can include dreamlike mentation, while stage two also contains spindles and K-complexes.
@@ -76,12 +79,13 @@ The Essentials edit of Walker's 2021 interview reinforces the early-deep/later-R
 - Early functional split - [[understand-and-use-dreams-to-learn-and-forget-scim1662184463]] links early slow-wave sleep with motor and detail learning and later REM with vivid association, social meaning, atonia, and emotional processing.
 - Nightmare and cycle qualification - [[understand-and-use-dreams-to-learn-and-forget-scim1662184463]] proposes slow-wave nightmares and exact 90-minute waking multiples, claims that remain source-scoped against later stage and cycle evidence.
 - Condensed full-night account - [[scim3191061030-scim3191061030]] restates early deep non-REM and later REM timing while keeping the 90-minute cycle descriptive rather than prescriptive.
+- Condensed dreaming account - [[essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014]] restates early slow-wave and later REM predominance, atonia, sleepwalking, and the broad stage-function split.
 
 ## Counterevidence & Qualifications
 The sources do not provide a clinical staging protocol or individualized treatment plan. Sleep architecture differs with age, illness, medication, shift work, chronotype, caregiving, pregnancy, sleep disorders, alcohol or other substances, and measurement method. Exact cycle counts and lengths, stage proportions, electrophysiology, stage-specific health effects, learning effect sizes, replay speeds, local spindle interpretation, dream-report percentages, PGO interpretation, tracker estimates, REM rebound, NSDR equivalence, bed-sensor accuracy, the VOL.109 two-hour cycle estimate, and the early episode's slow-wave-nightmare claim are source-scoped. Reduced adrenergic signaling during REM does not by itself prove that nightmares generally occur outside REM.
 
 ## What Changed
-- Clarified that the Essentials edit adds overlapping provenance, not independent evidence for stage-specific effects or a fixed cycle length.
+- Added a second Essentials edit as overlapping provenance, not independent evidence for stage-specific effects or a fixed cycle length.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account this concept makes more mechanistic.

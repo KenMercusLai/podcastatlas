@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Understand and Use Dreams to Learn and Forget](sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014.md) — Condensed Huberman Lab episode on slow-wave and REM sleep, learning, emotional memory, dreams, EMDR, and mechanism boundaries.
 - [522. Warlords of the West: A Clash of Ice and Fire (Part 3)](sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009.md) — The Rest Is History on Tours as a raid, factional intervention, shrine threat, and consequential but not civilization-simple Frankish victory.
 - [How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman](sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530.md) — Huberman Lab father–son conversation on scientific curiosity, independence, field-changing, quantum communication, meditation, ordinary joy, and process-centered achievement.
 - [VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题](sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp.md) — 多学科与亲历者讨论性少数身份非疾病、家庭少数压力、跨性别照护、证件连续性和公共空间支持。

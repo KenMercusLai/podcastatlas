@@ -35970,3 +35970,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Understand and Use Dreams to Learn and Forget
+
+Added source `essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014` and resynthesized [[SleepStageFunctionalArchitecture]], [[MemoryConsolidationWindows]], [[REMEmotionalMemorySeparation]], [[EMDRMechanismBoundary]], and [[DreamFunctionAndMeaning]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: this Essentials release condenses the already-ingested early dreaming episode, so it adds accessible provenance rather than independent replication; early slow-wave-rich sleep and later REM-rich sleep retain overlapping learning and emotional functions, while REM, EMDR, and ketamine share a proposed emotional-uncoupling aim without one established mechanism. No new settled contradiction was adopted. The rough 90-minute cycle remains descriptive rather than a personal waking rule, and the REM-deprivation, neurotransmitter, replay, direction-specific eye-movement, amygdala, ketamine, supplement, exercise, alcohol, THC, and clinical-suitability claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not revised because the condensed episode does not materially change the current synthesis. Broad [[AndrewHuberman]], [[HubermanLab]], and adjacent toolkit pages were kept closed because the source note and five bounded concept pages capture the durable addition without reopening larger unchanged inventories. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,504 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

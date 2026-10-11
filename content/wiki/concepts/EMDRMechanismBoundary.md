@@ -5,7 +5,8 @@ tags: [emdr, trauma, ptsd, psychotherapy, eye-movements]
 sources:
   - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
   - understand-and-use-dreams-to-learn-and-forget-scim1662184463
-last_updated: 2026-10-04
+  - essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The source also distinguishes desensitization from broader relearning. Reduced b
 
 The earlier dreaming episode presents a stronger REM analogy: lateral eye movements during supported trauma recall are said to reduce amygdala activation and to resemble the emotional uncoupling proposed for low-adrenergic REM sleep. The later fear episode narrows that story by explicitly rejecting the claim that EMDR simply recreates REM. The current judgment therefore preserves possible clinical benefit and threat down-regulation while treating the REM comparison, direction-specific eye-movement mechanism, and amygdala account as unsettled.
 
+The condensed Essentials edition clarifies that the earlier comparison was functional rather than literal: it explicitly says lateral EMDR movements do not simply mimic REM eye movements. Its additional claim that lateral, but not vertical, movements suppress amygdala activity remains source-scoped because the note does not provide study design, comparator details, or effect sizes.
+
 ## Key Claims
 - EMDR combines trauma recall with lateral eye movements rather than using eye movements as a stand-alone intervention.
 - The episode proposes reduced threat-related activation as a plausible contribution to benefit.
@@ -35,14 +38,14 @@ The earlier dreaming episode presents a stronger REM analogy: lateral eye moveme
 - Scope qualification - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] reports a colleague-based view that EMDR may be especially useful for single or constrained events while treating this as a limitation rather than a settled rule.
 - Relearning gap - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] distinguishes dampening threat response from building a new reward-linked association.
 - Earlier REM analogy - [[understand-and-use-dreams-to-learn-and-forget-scim1662184463]] compares lateral eye movements during trauma recall with REM-like emotional uncoupling and reports reduced amygdala activity as a proposed mechanism.
+- Condensed clarification - [[essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014]] rejects literal REM imitation while retaining source-scoped lateral-eye-movement and amygdala-suppression claims.
 
 ## Counterevidence & Qualifications
 The supplied notes do not provide study-by-study designs, comparator conditions, effect sizes, adverse-event reporting, or a systematic review of EMDR. The early source says EMDR was approved by the American Psychological Association, but the note does not establish the exact status, date, or scope of that claim. Colleague impressions about trauma type are not equivalent to validated eligibility criteria. The page neither dismisses EMDR nor treats the proposed lateral-eye-movement, amygdala, or REM mechanism as settled, and it does not support self-directed trauma recall in place of qualified care.
 
 ## What Changed
-- Added the earlier REM analogy and lateral-eye-movement account.
-- Used the later episode's explicit correction to reject EMDR-as-recreated-REM.
-- Preserved threat down-regulation as distinct from narrative integration and positive relearning.
+- Added the Essentials edition's own explicit rejection of EMDR-as-recreated-REM.
+- Kept direction-specific eye-movement and amygdala claims source-scoped.
 
 ## Related Concepts
 - [[FearExtinctionPositiveRelearning]] - distinguishes fear reduction from competing adaptive learning.

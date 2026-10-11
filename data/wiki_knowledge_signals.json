@@ -71671,9 +71671,9 @@
       "url": "/wiki/entities/dreamfacetechnologies/"
     },
     "DreamFunctionAndMeaning": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -71702,9 +71702,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "SCIM2976565014 [SCIM2976565014].md",
+          "key": "essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dreamfunctionandmeaning/"
     },
     "DredScott": {
@@ -73862,9 +73869,9 @@
       "url": "/wiki/entities/ejchichilnisky/"
     },
     "EMDRMechanismBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2745308962 [SCIM2745308962].md",
@@ -73879,9 +73886,16 @@
           "show": "Huberman Lab",
           "title": "Understand and Use Dreams to Learn and Forget",
           "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
+        },
+        {
+          "episode_file": "SCIM2976565014 [SCIM2976565014].md",
+          "key": "essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/emdrmechanismboundary/"
     },
     "ETFConsensusFeedback": {
@@ -176195,9 +176209,9 @@
       "url": "/wiki/concepts/memorycenteredai/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -176261,9 +176275,16 @@
           "show": "Huberman Lab",
           "title": "Understand and Use Dreams to Learn and Forget",
           "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
+        },
+        {
+          "episode_file": "SCIM2976565014 [SCIM2976565014].md",
+          "key": "essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -218562,9 +218583,9 @@
       "url": "/wiki/entities/raffairford/"
     },
     "REMEmotionalMemorySeparation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -218600,9 +218621,16 @@
           "show": "Huberman Lab",
           "title": "Understand and Use Dreams to Learn and Forget",
           "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
+        },
+        {
+          "episode_file": "SCIM2976565014 [SCIM2976565014].md",
+          "key": "essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/rememotionalmemoryseparation/"
     },
     "RMSCarpathia": {
@@ -242325,9 +242353,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -242398,6 +242426,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
           "url": "/wiki/sources/scim3191061030-scim3191061030/"
+        },
+        {
+          "episode_file": "SCIM2976565014 [SCIM2976565014].md",
+          "key": "essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014/"
         }
       ],
       "updated": "2026-10-11",
