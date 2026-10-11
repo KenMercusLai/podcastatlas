@@ -6,6 +6,7 @@ sources:
   - 102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4
   - ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64
   - llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5
+  - ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -28,11 +29,13 @@ The earlier episode adds a procedural challenge. It asks why victory through tra
 
 The comparison distinguishes two scales of deconstruction. [[WulinWaizhuan|《武林外传》]] relocates heroic convention into debt, chores, injury, and collective life; 《鹿鼎记》 retains epic and historical reach but substitutes an antihero for the cultivation ideal. In both cases deconstruction depends on inheritance rather than simple rejection: the genre must remain visible enough for its displaced values to register.
 
+At a compact early scale, [[YuanYangDao|《鸳鸯刀》]] gives 太岳四侠 the names, weapons, bearing, and apparent indifference associated with hidden masters but not the ability; 周威信's familiarity with “真人不露相” logic causes him to overread the disguise. The paired blades repeat the same operation at plot scale: a weapon quest promises invincibility, then reveals “仁者无敌.” Deconstruction can therefore work through a chain of local reputation-reality gaps and one final semantic substitution, not only through a novel-length antihero or sitcom world.
+
 ## Key Claims
 
 - Deconstruction requires conventions stable enough to be recognized before they are inverted.
 - Creator familiarity keeps parody specific, while audience competence supplies an extra interpretive and comic layer.
-- Intertextual names and archetypes can establish a critical relationship to a tradition quickly.
+- Intertextual names, archetypes, reputations, and legendary objects can establish a critical relationship to a tradition quickly.
 - Moving heroic conventions into mundane institutions exposes assumptions about violence, status, labor, and consequence.
 - Reference-dependent humor can outlive its origin, but part of its effect is historically perishable.
 - Deconstruction can preserve a genre's world and scale while replacing its expected hero, competence, and moral trajectory.
@@ -57,20 +60,25 @@ The comparison distinguishes two scales of deconstruction. [[WulinWaizhuan|《�
 - [[ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64]] treats Wei's weak martial ability, compromised character, historical efficacy, and reliance on relationships and luck as a dismantling of the conventional wuxia growth path.
 - [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] extends the reversal from protagonist type to procedure by contrasting prestigious martial force with stigmatized deception, improvised weapons, protection, and escape.
 
+### Reputation and treasure reversal
+
+- [[ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us]] shows 太岳四侠's master-like surface misleading 周威信 and turns a legendary weapon secret into the ethical maxim “仁者无敌.”
+
 ## Counterevidence & Qualifications
 
-The sources offer cultural and literary interpretations rather than measured reception history or settled genre taxonomy. Claims that wuxia had reached maturity, that 《武林外传》 marked a final flourishing, that online literature absorbed the genre, or that 《鹿鼎记》 is definitively “anti-wuxia” remain source-scoped. Audiences without the cited references may still understand character conflict and comedy, and a work can revise martial mastery without ceasing to be wuxia; recognition intensifies deconstruction but does not always settle classification. A weaker actor's lack of access to honorable procedure can qualify moral judgment without making poison, deception, or harm automatically justified.
+The sources offer cultural and literary interpretations rather than measured reception history or settled genre taxonomy. Claims that wuxia had reached maturity, that 《武林外传》 marked a final flourishing, that online literature absorbed the genre, that 《鹿鼎记》 is definitively “anti-wuxia,” or that 《鸳鸯刀》 directly anticipates the later novel remain source-scoped. Audiences without the cited references may still understand character conflict and comedy, and a work can revise martial mastery without ceasing to be wuxia; recognition intensifies deconstruction but does not always settle classification. A weaker actor's lack of access to honorable procedure can qualify moral judgment without making poison, deception, or harm automatically justified. “仁者无敌” can redirect a weapon quest toward ethical rule without proving that benevolence alone guarantees political success.
 
 ## What Changed
 
-- Extended the antiheroic substitution from who succeeds to which methods receive moral prestige.
-- Added the weaker actor's unequal access to respectable procedure as a target of genre critique.
-- Preserved the distinction between contextual qualification and automatic approval of effective tactics.
+- Added compact reputation-reality gaps as a third scale beside sitcom-world displacement and novel-length antiheroic substitution.
+- Added the treasure-secret reversal as a way to retain an adventure structure while replacing its promised source of power.
+- Qualified the proposed developmental line from 《鸳鸯刀》 to 《鹿鼎记》 as a podcast interpretation rather than established authorial intent.
 
 ## Related Concepts
 
 - [[WulinWaizhuan|《武林外传》]] - primary bounded case of wuxia conventions relocated into sitcom life.
 - [[LuDingJi|《鹿鼎记》]] - bounded case that retains wuxia institutions while replacing the conventional heroic growth path.
+- [[YuanYangDao|《鸳鸯刀》]] - compact bounded case that reverses hidden-master signs and the promise of weapon-based supremacy.
 - [[GuoFurong|郭芙蓉]] - character whose heroic script becomes the object of comic correction.
 - [[WuxiaIntertextualCraft]] - neighboring use of wuxia references to create literary meaning.
 - [[ConsequenceSensitiveChivalry]] - ethical reconstruction that remains after heroic convention is dismantled.

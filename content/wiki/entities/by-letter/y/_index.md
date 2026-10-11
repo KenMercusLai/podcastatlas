@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13379
+wiki_total_pages: 13380
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "YinfuJing"
     title: "《阴符》 / Yinfu Jing"
     url: "/wiki/entities/yinfujing/"
+  - key: "YuanYangDao"
+    title: "《鸳鸯刀》 / The Mandarin Duck Blades"
+    url: "/wiki/entities/yuanyangdao/"
   - key: "YiLaoYongYi"
     title: "一劳永逸"
     url: "/wiki/entities/yilaoyongyi/"

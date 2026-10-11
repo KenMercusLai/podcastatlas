@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图](sources/ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us.md) — 纸醉金迷FM以高手外观与实际能力、俗语与真理、神兵与“仁者无敌”的落差解构武侠套路，并借夫妻刀法讨论关系中的相互配合。
 - [024 奇人 奇遇 奇功：闲话金庸封笔作《鹿鼎记》](sources/llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5.md) — 纸醉金迷FM以韦小宝的市井学习、人性判断、风险下注与资源整合解释他如何把偶遇转成奇功，并由此拆解武侠英雄、体面手段和宫廷神圣性。
 - [025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓](sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64.md) — 纸醉金迷FM以康熙与韦小宝的双主角关系讨论主权等级中的真情、具体互惠、族群身份与反武侠类型突破。
 - [026 韦小宝与他的七个老婆：爱情？还是反爱情？](sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc.md) — 纸醉金迷FM以七段不同关系拆解唯一真爱神话，并在韦小宝的物化、占有、理解、边界、照料与长期责任之间保留争议。
@@ -4628,6 +4629,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《鸳鸯刀》 / The Mandarin Duck Blades](entities/YuanYangDao.md) — 金庸短篇武侠喜剧，以声势与实力、俗语与判断、协同刀法及“仁者无敌”反转组织江湖群像。
 - [沐剑屏 / Mu Jianping](entities/MuJianping.md) — 以少年好感、单纯陪伴与危险中的实际帮助代表韦小宝最懵懂关系的《鹿鼎记》人物。
 - [方怡 / Fang Yi](entities/FangYi.md) — 把情欲启蒙、受伤信任、邪教胁迫与求生处境结合起来的《鹿鼎记》人物。
 - [双儿 / Shuang'er](entities/Shuanger.md) — 从不平等主仆起点走向患难陪伴，并以原则、边界和可靠保护构成韦小宝最深信任的伴侣。
