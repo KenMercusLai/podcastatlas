@@ -6,7 +6,8 @@ sources:
   - shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql
   - vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r
   - vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz
-last_updated: 2026-10-10
+  - vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,8 +25,10 @@ VOL.198 adds cross-cultural routing. In one Seoul psychiatrist's practice, Chine
 
 VOL.182 adds the lived uncertainty between those boundaries. Several speakers describe breathlessness, numbness, dizziness, palpitations, chest pressure, and other symptoms that led to physical assessment, repeated specialty visits, or emergency evaluation. Somatization becomes one possible interpretation only after particular dangerous or organic explanations have been investigated; reassuring findings can reduce immediate fear without proving that all symptoms share one psychological cause.
 
+VOL.141 adds a child communication branch. Headache, dizziness, nausea, vomiting, abdominal pain, or back pain that clusters around school may express distress before the child can name the associated fear, conflict, or loss of control. Helping the child connect body, emotion, and context can support mentalization, but the timing pattern does not itself rule out physical illness or establish a psychiatric cause.
+
 ## Key Claims
-- Distress can appear as bodily symptoms before a person has usable emotional language for it.
+- Distress can appear as bodily symptoms before a person, including a child, has usable emotional language for it.
 - Somatization can act as an alarm to pause, lower load, or seek help.
 - Body symptoms should not be dismissed as “just psychological” without appropriate medical judgment.
 - Online symptom matching can intensify fear when interpreted without clinical context.
@@ -39,13 +42,14 @@ VOL.182 adds the lived uncertainty between those boundaries. Several speakers de
 - Body alarm and regulation fit - [[shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql]] treats symptoms as prompts to stop and assess while matching release practices to the individual.
 - Help-seeking route - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] reports that Chinese patients in one Seoul practice often pursue medical tests before psychiatry, while Korean patients more readily name anxiety or panic.
 - Lived uncertainty after assessment - [[vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz|VOL.182]] describes recurrent physical symptoms, reassuring or incomplete tests, and a growing recognition that anxiety or somatization may coexist with continued medical follow-up.
+- Child communication and context - [[vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm|VOL.141]] describes school-linked bodily symptoms as possible communication when a child cannot yet put distress into words, while retaining medical assessment.
 
 ## Counterevidence & Qualifications
-This concept must not dismiss pain, neurological, cardiopulmonary, urinary, oral, or musculoskeletal symptoms. The sources retain organic-disease exclusion and professional judgment. VOL.198's group comparison comes from one selected clinician sample and cannot establish national or ethnic differences. VOL.182 supplies retrospective personal accounts, not adjudicated diagnoses or evidence that acupuncture, exertion, reassurance, or any other reported event established a cause. This is a literacy frame, not a diagnostic answer.
+This concept must not dismiss pain, neurological, cardiopulmonary, gastrointestinal, urinary, oral, or musculoskeletal symptoms. The sources retain organic-disease exclusion, safety-netted follow-up, and professional judgment. A symptom's proximity to school or stress can guide questions but cannot establish cause. VOL.198's group comparison comes from one selected clinician sample and cannot establish national or ethnic differences. VOL.182 supplies retrospective personal accounts, not adjudicated diagnoses or evidence that acupuncture, exertion, reassurance, or any other reported event established a cause. This is a literacy frame, not a diagnostic answer.
 
 ## What Changed
-- Added unresolved workup and negative-test reassurance as part of the somatization boundary.
-- Clarified that accepting a possible mind-body contribution does not end safety-netted medical follow-up.
+- Added child school-linked symptoms as possible pre-verbal or hard-to-verbalize distress communication.
+- Added mentalization as connecting body, emotion, and context without bypassing medical assessment.
 
 ## Related Concepts
 - [[EmbodiedAnxietyRegulation]] - body-first anxiety regulation after recognition.
@@ -54,3 +58,4 @@ This concept must not dismiss pain, neurological, cardiopulmonary, urinary, oral
 - [[OnlineSymptomSearchAnxiety]] - context-free symptom interpretation risk.
 - [[PsychiatricFunctionalDiagnosis]] - professional assessment boundary.
 - [[CrossCulturalMentalHealthHelpSeeking]] - linguistic and access context shaping presentation and care pathways.
+- [[AdolescentSchoolRefusalMentalHealth]] - school context in which bodily symptoms may accompany functional avoidance.

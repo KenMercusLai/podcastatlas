@@ -7863,9 +7863,9 @@
       "url": "/wiki/concepts/adolescentriskcommunication/"
     },
     "AdolescentSchoolRefusalMentalHealth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
@@ -7880,9 +7880,16 @@
           "show": "这病说来话长",
           "title": "VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康",
           "url": "/wiki/sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn/"
+        },
+        {
+          "episode_file": "lnUkT9dRRPFT43IuEo4xFPYRKKbM [lnUkT9dRRPFT43IuEo4xFPYRKKbM].md",
+          "key": "vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm",
+          "show": "这病说来话长",
+          "title": "VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日",
+          "url": "/wiki/sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
     "AdolfEichmann": {
@@ -44002,9 +44009,9 @@
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
     "ChildMentalHealthFamilySystemsSupport": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -44040,9 +44047,16 @@
           "show": "这病说来话长",
           "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
           "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
+        },
+        {
+          "episode_file": "lnUkT9dRRPFT43IuEo4xFPYRKKbM [lnUkT9dRRPFT43IuEo4xFPYRKKbM].md",
+          "key": "vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm",
+          "show": "这病说来话长",
+          "title": "VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日",
+          "url": "/wiki/sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/childmentalhealthfamilysystemssupport/"
     },
     "ChildProdigyFamilyEnterprise": {
@@ -58600,6 +58614,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/cuijiabin/"
+    },
+    "CuiJiabinSchoolRefusalGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnUkT9dRRPFT43IuEo4xFPYRKKbM [lnUkT9dRRPFT43IuEo4xFPYRKKbM].md",
+          "key": "vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm",
+          "show": "这病说来话长",
+          "title": "VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日",
+          "url": "/wiki/sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/cuijiabinschoolrefusalguest/"
     },
     "CuiJiabinShanxi": {
       "episode_count": 1,
@@ -245449,9 +245479,9 @@
       "url": "/wiki/entities/solon/"
     },
     "SomatizationAsBodyAlarm": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -245473,9 +245503,16 @@
           "show": "这病说来话长",
           "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
           "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
+        },
+        {
+          "episode_file": "lnUkT9dRRPFT43IuEo4xFPYRKKbM [lnUkT9dRRPFT43IuEo4xFPYRKKbM].md",
+          "key": "vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm",
+          "show": "这病说来话长",
+          "title": "VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日",
+          "url": "/wiki/sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/somatizationasbodyalarm/"
     },
     "SomertonManCase": {
@@ -295287,9 +295324,9 @@
       "url": "/wiki/entities/zhangdai/"
     },
     "ZhangDaming": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
@@ -295304,9 +295341,16 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "lnUkT9dRRPFT43IuEo4xFPYRKKbM [lnUkT9dRRPFT43IuEo4xFPYRKKbM].md",
+          "key": "vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm",
+          "show": "这病说来话长",
+          "title": "VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日",
+          "url": "/wiki/sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/zhangdaming/"
     },
     "ZhangDanProtectorOfXiongnu": {

@@ -36114,3 +36114,11 @@ Added source `515-nelson-attack-the-french-part-2-glt9020085184`; created [[Thom
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日
+
+Added source `vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm`; created the source-scoped, disambiguated [[CuiJiabinSchoolRefusalGuest|崔家斌]] profile; and resynthesized [[ZhangDaming|张达明 / 张大明]], [[AdolescentSchoolRefusalMentalHealth]], [[ChildMentalHealthFamilySystemsSupport]], and [[SomatizationAsBodyAlarm]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: school refusal is a contextual and system-level distress signal rather than a character verdict; school-linked bodily symptoms may communicate feelings a child cannot yet verbalize but still require medical judgment; emotion recognition and calm presence can precede problem-solving; and meaningful choice works with predictable routines, achievable expectations, clear limits, third-space activity, family-school adjustment, and qualified care rather than replacing them. No settled contradiction was adopted. “Don't push the river,” choice-return, mentalization, third-space, family-loop, school-transfer, and adaptive-capacity claims remain source-scoped public education rather than attendance, diagnosis, treatment, or crisis protocols. The source's 张大明/张达明 variation was preserved on the stable [[ZhangDaming]] route, while 崔家斌 was not merged with [[CuiJiabin|崔嘉宾]] or [[CuiJiabinShanxi|崔嘉斌]] because identity is not established. Broad [[ZheBingShuoLaiHuaChang|这病说来话长]], [[Atang|阿汤]], and general parenting pages were kept closed because the focused source, guest, and three bounded concepts capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,522 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

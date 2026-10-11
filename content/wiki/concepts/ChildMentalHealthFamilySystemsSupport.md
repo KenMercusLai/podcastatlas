@@ -8,7 +8,8 @@ sources:
   - vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn
   - vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d
   - vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r
-last_updated: 2026-10-06
+  - vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,13 +29,15 @@ VOL.57 specifies the safety branch. Broad curiosity about death can be ordinary,
 
 VOL.198 adds migration context. Younger Chinese students entering ordinary Korean schools may face language-limited peer connection, earlier caregiver separation, and parents who remain unavailable after reunification. The guest also argues that severe adolescent self-harm often warrants assessment of family conditions and caregiver resistance to change. These are system prompts, not proof that family dysfunction explains every crisis or that migrant students form one homogeneous group.
 
+VOL.141 develops the everyday school-refusal feedback loop. A child's fear or bodily distress can raise caregiver anxiety; repeated lectures, pressure, or visible collapse can then increase the child's resistance. The suggested response begins with emotional recognition and calm presence, then adds bounded choice, predictable routines, realistic tasks, and coordinated changes to family or school conditions. Adults remain responsible for structure and safety, but listening and agency are not the same as abandonment.
+
 ## Key Claims
 - Child distress can surface through emotional, behavioral, somatic, school, sleep, eating, and social changes.
 - Suicidal speech and self-harm are high-priority safety signals, not ordinary misbehavior.
 - Family patterns influence distress and recovery, but not every developmental or psychiatric difficulty is caused by parenting.
-- Play, interests, movement, peer time, and non-instrumental connection can protect space outside achievement pressure.
-- Care continuity and coordinated medical-school-family support matter beyond initial assessment.
-- Caregiver regulation and realistic expectations support a more sustainable family system.
+- Play, interests, movement, peer time, rest, and non-instrumental “third space” protect identity and competence outside achievement pressure.
+- Care continuity and coordinated medical-school-family support matter beyond initial assessment or a change of school.
+- Caregiver regulation, behavior modeling, realistic expectations, predictable routines, and clear boundaries support a more sustainable family system.
 - Migration, language, caregiving continuity, school integration, and peer access can alter the context around distress.
 
 ## Evidence
@@ -43,13 +46,16 @@ VOL.198 adds migration context. Younger Chinese students entering ordinary Korea
 - Change detection and coordination - [[vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn|VOL.73]] combines past-self and peer-context comparison with an index-patient frame and medical-school-family alliance.
 - Suicide-risk response - [[vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d|VOL.57]] separates general death curiosity from self-directed or preparatory patterns and recommends listening, safety-minded presence, and escalation.
 - Migration and family context - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] links younger students' isolation to language, school setting, peer connection, caregiver history, and parental availability.
+- School-refusal feedback loop - [[vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm|VOL.141]] connects child distress, caregiver anxiety, school events, emotional recognition, bounded choice, routine, and environmental adjustment.
+- Third space and adult modeling - [[vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm|VOL.141]] protects play, peers, rest, and exploration while asking caregivers to model the phone and emotion habits they expect from children.
 
 ## Counterevidence & Qualifications
-The sources are public discussions, not diagnostic instruments, prevalence studies, treatment protocols, parenting verdicts, or emergency plans. Similar behaviors can have developmental, medical, psychiatric, social, or situational causes. Family-system, peer-comparison, somatic, achievement, screen, exercise, and migration frames do not prove individual causation. VOL.198 supplies a selected clinician sample rather than comparative evidence about migrant and local youth. Self-harm, suicidal speech, acute danger, severe functional decline, or inability to maintain safety requires urgent qualified help rather than interpretation from a podcast checklist.
+The sources are public discussions, not diagnostic instruments, prevalence studies, treatment protocols, parenting verdicts, attendance rules, or emergency plans. Similar behaviors can have developmental, medical, psychiatric, social, educational, or situational causes. Family-system, peer-comparison, somatic, achievement, screen, exercise, migration, or caregiver-modeling frames do not prove individual causation. “Giving choice back” and adjusting the environment do not mean removing all limits or assuming a school change is sufficient. VOL.198 supplies a selected clinician sample rather than comparative evidence about migrant and local youth. Self-harm, suicidal speech, acute danger, severe functional decline, or inability to maintain safety requires urgent qualified help rather than interpretation from a podcast checklist.
 
 ## What Changed
-- Added language, school integration, caregiver continuity, and migration setting to the system context.
-- Added family assessment and caregiver change as possible crisis-response dimensions without assigning universal blame.
+- Added the school-refusal feedback loop linking child distress, caregiver anxiety, pressure, and resistance.
+- Added emotion-first support followed by bounded choice, routine, clear rules, and environmental adjustment.
+- Added third-space activity and caregiver behavior modeling without assigning universal parental blame.
 
 ## Related Concepts
 - [[AchievementPressureMentalHealth]] - educational and status pressure that can hide distress behind performance.

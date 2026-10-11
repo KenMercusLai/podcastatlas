@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13332
+wiki_total_pages: 13333
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2015,6 +2015,9 @@ wiki_pages:
   - key: "CuiJiabinShanxi"
     title: "崔嘉斌 / Cui Jiabin (Shanxi psychiatrist)"
     url: "/wiki/entities/cuijiabinshanxi/"
+  - key: "CuiJiabinSchoolRefusalGuest"
+    title: "崔家斌 / Cui Jiabin (School-Refusal Guest)"
+    url: "/wiki/entities/cuijiabinschoolrefusalguest/"
   - key: "CuiShiLateHan"
     title: "崔寔 / Cui Shi (late Han)"
     url: "/wiki/entities/cuishilatehan/"
