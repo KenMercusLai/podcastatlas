@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [573. The Medici: Lorenzo the Magnificent (Part 2)](sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252.md) — The Rest Is History on Lorenzo's formation, inherited bank weakness, princely display, the Pazzi cathedral attack, Florentine reprisals, and papal-Neapolitan war.
 - [Essentials: The Science & Practice of Perfecting Your Sleep](sources/scim3191061030-scim3191061030.md) — Condensed Huberman Lab conversation on staged sleep, light, caffeine, alcohol and THC, melatonin, naps, and behavior-first insomnia tools.
 - [064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则](sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn.md) — 纸醉金迷FM以李善德的鲜荔枝运输死局讨论技术官僚、职场陷阱、制度协作、道德异化与宫廷声望供应链向底层转嫁的生计和生命成本。
 - [574. The Medici: Curse of the Mad Monk (Part 3)](sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064.md) — The Rest Is History on Lorenzo's magnificent but financially fragile rule and Savonarola's reformist, apocalyptic formation.
@@ -4513,6 +4514,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [Piero the Gouty](entities/PieroTheGouty.md) — Lorenzo's father, who preserved informal Medici succession while confronting bank overextension and elite opposition.
+- [Giuliano de' Medici](entities/GiulianoDeMedici.md) — Lorenzo's brother and the successful murder target of the 1478 Pazzi conspiracy.
+- [Pope Sixtus IV](entities/PopeSixtusIV.md) — Pope whose financial and political conflict with Lorenzo preceded ambiguous conspiracy authorization and open war.
+- [Pazzi family](entities/PazziFamily.md) — Florentine banking rivals whose papal alliance and leading members' coup participation brought collective punishment.
 - [Lorenzo de' Medici](entities/LorenzoDeMedici.md) — Informal Florentine ruler whose diplomacy and cultural prestige concealed financial, institutional, and succession fragility.
 - [Medici Bank](entities/MediciBank.md) — Family bank whose branch failures and liabilities exposed weakness beneath Medici magnificence.
 - [Piero de' Medici](entities/PieroDeMedici.md) — Lorenzo's successor whose unauthorized concessions to Charles VIII precipitated the 1494 Medici expulsion.
@@ -17767,6 +17772,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Pazzi Conspiracy](concepts/PazziConspiracy.md) — 1478 dual assassination and coup attempt whose failure strengthened Lorenzo and widened into papal-Neapolitan war.
 - [Political Magnificence and Structural Fragility](concepts/PoliticalMagnificenceStructuralFragility.md) — How spectacle, culture, and personalized control can sustain legitimacy while finance and institutions weaken beneath them.
 - [Apocalyptic Prophecy and Crisis Legitimation](concepts/ApocalypticProphecyCrisisLegitimation.md) — Mechanism by which apparent fulfillment turns warning into authority and unmet extension or failed proof reverses it.
 - [Informal Religious-Political Authority](concepts/InformalReligiousPoliticalAuthority.md) — Influence exercised through preaching, reputation, followers, and institutional access without formal state office.

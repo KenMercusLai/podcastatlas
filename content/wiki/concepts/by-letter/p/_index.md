@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10336
+wiki_total_pages: 10337
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "PayrollInfrastructureTrust"
     title: "Payroll Infrastructure Trust"
     url: "/wiki/concepts/payrollinfrastructuretrust/"
+  - key: "PazziConspiracy"
+    title: "Pazzi Conspiracy"
+    url: "/wiki/concepts/pazziconspiracy/"
   - key: "PCOSCardiometabolicRisk"
     title: "PCOS Cardiometabolic Risk"
     url: "/wiki/concepts/pcoscardiometabolicrisk/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13187
+wiki_total_pages: 13191
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "PayPal"
     title: "PayPal"
     url: "/wiki/entities/paypal/"
+  - key: "PazziFamily"
+    title: "Pazzi family"
+    url: "/wiki/entities/pazzifamily/"
   - key: "PCAST"
     title: "PCAST"
     url: "/wiki/entities/pcast/"
@@ -638,6 +641,9 @@ wiki_pages:
   - key: "PieroFerrari"
     title: "Piero Ferrari"
     url: "/wiki/entities/pieroferrari/"
+  - key: "PieroTheGouty"
+    title: "Piero the Gouty"
+    url: "/wiki/entities/pierothegouty/"
   - key: "PierreBourdieu"
     title: "Pierre Bourdieu / 皮埃尔·布迪厄"
     url: "/wiki/entities/pierrebourdieu/"
@@ -842,6 +848,9 @@ wiki_pages:
   - key: "PopeManufacturingCompany"
     title: "Pope Manufacturing Company"
     url: "/wiki/entities/popemanufacturingcompany/"
+  - key: "PopeSixtusIV"
+    title: "Pope Sixtus IV"
+    url: "/wiki/entities/popesixtusiv/"
   - key: "Popeyes"
     title: "Popeyes"
     url: "/wiki/entities/popeyes/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13187
+wiki_total_pages: 13191
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "GitHubCopilot"
     title: "GitHub Copilot"
     url: "/wiki/entities/githubcopilot/"
+  - key: "GiulianoDeMedici"
+    title: "Giuliano de' Medici"
+    url: "/wiki/entities/giulianodemedici/"
   - key: "GiuseppeGaribaldi"
     title: "Giuseppe Garibaldi"
     url: "/wiki/entities/giuseppegaribaldi/"

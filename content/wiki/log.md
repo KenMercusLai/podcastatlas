@@ -35393,3 +35393,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 573. The Medici: Lorenzo the Magnificent (Part 2)
+
+Added source `573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252`; created [[PieroTheGouty]], [[GiulianoDeMedici]], [[PopeSixtusIV]], [[PazziFamily]], and [[PazziConspiracy]]; and resynthesized [[LorenzoDeMedici]], [[MediciBank]], [[HouseOfMedici]], [[FlorentineRepublic]], and [[PoliticalMagnificenceStructuralFragility]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Lorenzo inherited an already strained bank and coercive informal succession, then combined humanist prestige, noble marriage, spectacle, borrowing, and political control; the Pazzi coalition joined banking, papal, ecclesiastical, territorial, and family interests, but Giuliano's murder and Lorenzo's survival turned tactical assassination into strategic failure, collective revenge, papal sanctions, and war. No settled contradiction was adopted. The source instead qualifies Part 3 by moving Medici overextension before Lorenzo and by treating “Il Magnifico” as a status honorific rather than proof of exceptional merit; Volterra responsibility, papal authorization, tortured testimony, exact crowd victim counts, and private motives remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,433 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

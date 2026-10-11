@@ -6,17 +6,22 @@ sources:
   - 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837
   - 575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489
   - 574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064
+  - 573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-The House of Medici / 美第奇家族 was the Florentine banking and patronage family whose informal dominance, cultural magnificence, financial weakening, 1494 expulsion, and 1512 papal-backed restoration frame both Savonarola's rise and [[NiccoloMachiavelli|Machiavelli]]'s republican service and exile.
+The House of Medici / 美第奇家族 was the Florentine banking and patronage family whose informal succession, survival of the [[PazziConspiracy|Pazzi conspiracy]], cultural magnificence, financial weakening, 1494 expulsion, and 1512 papal-backed restoration frame both Savonarola's rise and [[NiccoloMachiavelli|Machiavelli]]'s republican service and exile.
 
 ## Current Profile
 
-The sources present the Medici as Renaissance patrons, bankers, dynastic strategists, and hard political actors. Their return ended the republic Machiavelli served, leading to his imprisonment, torture, exile, and composition of [[ThePrince|《君主论》]]. The two Medici episodes now connect [[LorenzoDeMedici|Lorenzo]]'s late predominance to the collapse under his successor.
+The sources present the Medici as Renaissance patrons, bankers, dynastic strategists, and hard political actors. Their return ended the republic Machiavelli served, leading to his imprisonment, torture, exile, and composition of [[ThePrince|《君主论》]]. The three Medici episodes now connect [[PieroTheGouty|Piero the Gouty]]'s unstable inheritance, [[LorenzoDeMedici|Lorenzo]]'s survival and late predominance, and collapse under his successor.
+
+Medici dominance was not formally hereditary, yet supporters installed Lorenzo at twenty after Piero's death. Humanist preparation, an aristocratic marriage, tournaments, feasts, and the honorific “Il Magnifico” projected movement toward princely status. That image coexisted with bank overextension, loan-driven bankruptcies, armed electoral pressure, the violent sack of Volterra, and heavy borrowing.
+
+Conflict over papal finance, Imola, and the Pisa archbishopric aligned [[PopeSixtusIV|Pope Sixtus IV]] with the [[PazziFamily|Pazzi family]]. Their 1478 plot killed [[GiulianoDeMedici|Giuliano]] but not Lorenzo, and failed to seize civic government. Florentine reprisals and papal-Neapolitan retaliation converted family rivalry into collective punishment and war, while Lorenzo's survival strengthened the personalization of Medici authority.
 
 Lorenzo remained formally a private citizen but used the Council of 70 to dominate appointments, foreign policy, and legislation. Papal marriage, credit, and a cardinalate for Giovanni elevated the family toward princely status, while poetry, scholarship, collecting, artistic diplomacy, and talent recognition sustained [[PoliticalMagnificenceStructuralFragility|magnificence]].
 
@@ -30,23 +35,24 @@ The family's absence opened space for [[GirolamoSavonarola|Savonarola]] and a wi
 
 ## Key Characteristics
 
-- Florentine banking and patronage dynasty with extensive political influence.
-- Exercised dominance through republican institutions before hereditary ducal rule.
+- Florentine banking and patronage dynasty whose financial weakness preceded Lorenzo.
+- Normalized family succession while exercising dominance through republican institutions.
+- Combined cultural display with electoral pressure, mercenary violence, and factional punishment.
+- Survived a papal-aligned dual assassination and coup attempt that killed Giuliano.
 - Converted marriage, papal office, credit, and culture into dynastic elevation.
-- Preserved magnificence despite bank failures, debt, and disputed use of public resources.
-- Depended on succession competence and acceptance rather than legal sovereignty.
-- Lost Florence after Piero's unauthorized concessions during invasion.
-- Suffered financial seizure and symbolic transfer of art and civic honor.
+- Depended on succession competence and acceptance rather than legal sovereignty, collapsing in 1494 before papal-backed restoration.
 
 ## Evidence
 
 ### Patronage and political force
 
 - [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] links patronage, violence, restoration, and Machiavelli's punishment.
+- [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] connects informal succession, display, Volterra, the cathedral attack, reprisal, and war.
 - [[574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064]] connects Council control, papal alliance, cultural diplomacy, security, and repression under Lorenzo.
 
 ### Financial fragility beneath magnificence
 
+- [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] places bank overextension, loan recalls, bankruptcy, and armed pressure before Lorenzo, then adds his borrowing and loss of papal business.
 - [[574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064]] reports branch collapses, debt, trust-fund use, public-money transfers, and wider economic strain.
 
 ### Informal succession and collapse
@@ -63,13 +69,13 @@ The family's absence opened space for [[GirolamoSavonarola|Savonarola]] and a wi
 
 ## Qualifications
 
-The profile covers the family through episodes focused on Machiavelli and Savonarola, not a complete banking, patronage, ecclesiastical, or dynastic history. Commission volume, branch accounts, transfer legality, Lorenzo's repression, Piero's personality, Charles's demands, popular motives, asset values, later decline, and continuity into ducal rule remain source-scoped.
+The profile covers the family through episodes focused on Lorenzo, Savonarola, and Machiavelli, not a complete banking, patronage, ecclesiastical, or dynastic history. Papal authorization of murder, Volterra responsibility, commission volume, branch accounts, transfer legality, Lorenzo's repression, either Piero's personality, Charles's demands, popular motives, asset values, later decline, and continuity into ducal rule remain source-scoped.
 
 ## What Changed
 
-- Extended the family profile backward from Piero's collapse into Lorenzo's institutional, dynastic, and cultural consolidation.
-- Added bank decline and the entanglement of family liabilities with public resources.
-- Qualified patronage shorthand by distinguishing direct commissions from networks and cultural diplomacy.
+- Extended the family profile backward through Piero the Gouty and Lorenzo's youthful accession.
+- Added Volterra, the Pazzi conspiracy, Giuliano's death, collective reprisal, and papal war.
+- Recast financial decline as inherited weakness later intensified under Lorenzo.
 
 ## Relationships
 
@@ -83,3 +89,8 @@ The profile covers the family through episodes focused on Machiavelli and Savona
 - [[LorenzoDeMedici|Lorenzo de' Medici]] - leader whose personal prestige concealed financial and succession weakness.
 - [[MediciBank|Medici Bank]] - declining financial base of family power.
 - [[PoliticalMagnificenceStructuralFragility]] - mechanism joining Medici display to underlying weakness.
+- [[PieroTheGouty|Piero the Gouty]] - transitional leader who passed family control and bank strain to Lorenzo.
+- [[GiulianoDeMedici|Giuliano de' Medici]] - family member killed in the failed coup.
+- [[PazziFamily|Pazzi family]] - banking rival collectively punished after leading members joined the plot.
+- [[PopeSixtusIV|Pope Sixtus IV]] - papal opponent whose alliance and retaliation widened the family conflict.
+- [[PazziConspiracy]] - failed attempt to decapitate the Medici network.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3281
+topic_total_pages: 3286
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6176,6 +6176,9 @@ topic_entities:
   - key: "GirolamoSavonarola"
     title: "Girolamo Savonarola / 萨沃纳罗拉"
     url: "/wiki/entities/girolamosavonarola/"
+  - key: "GiulianoDeMedici"
+    title: "Giuliano de' Medici"
+    url: "/wiki/entities/giulianodemedici/"
   - key: "GnaeusOctaviusRomanConsul"
     title: "Gnaeus Octavius / 格奈乌斯·屋大维"
     url: "/wiki/entities/gnaeusoctaviusromanconsul/"
@@ -7205,6 +7208,9 @@ topic_entities:
   - key: "PaulReynaud"
     title: "Paul Reynaud"
     url: "/wiki/entities/paulreynaud/"
+  - key: "PazziFamily"
+    title: "Pazzi family"
+    url: "/wiki/entities/pazzifamily/"
   - key: "PedroSanchez"
     title: "Pedro Sanchez"
     url: "/wiki/entities/pedrosanchez/"
@@ -7232,6 +7238,9 @@ topic_entities:
   - key: "PieroDeMedici"
     title: "Piero de' Medici"
     url: "/wiki/entities/pierodemedici/"
+  - key: "PieroTheGouty"
+    title: "Piero the Gouty"
+    url: "/wiki/entities/pierothegouty/"
   - key: "PiersGaveston"
     title: "Piers Gaveston"
     url: "/wiki/entities/piersgaveston/"
@@ -7256,6 +7265,9 @@ topic_entities:
   - key: "PopeLeoXIV"
     title: "Pope Leo XIV"
     url: "/wiki/entities/popeleoxiv/"
+  - key: "PopeSixtusIV"
+    title: "Pope Sixtus IV"
+    url: "/wiki/entities/popesixtusiv/"
   - key: "PragueSpring"
     title: "Prague Spring / 布拉格之春"
     url: "/wiki/entities/praguespring/"
@@ -8784,6 +8796,9 @@ topic_sources:
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  - key: "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252"
+    title: "573. The Medici: Lorenzo the Magnificent (Part 2)"
+    url: "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
   - key: "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064"
     title: "574. The Medici: Curse of the Mad Monk (Part 3)"
     url: "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"

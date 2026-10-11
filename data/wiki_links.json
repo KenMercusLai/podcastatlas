@@ -3695,6 +3695,10 @@
     "title": "570. Hannibal: The Invasion of Italy (Part 3)",
     "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
   },
+  "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252": {
+    "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+    "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+  },
   "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064": {
     "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
     "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
@@ -36751,6 +36755,10 @@
     "title": "GitHub Copilot",
     "url": "/wiki/entities/githubcopilot/"
   },
+  "GiulianoDeMedici": {
+    "title": "Giuliano de' Medici",
+    "url": "/wiki/entities/giulianodemedici/"
+  },
   "GiuseppeGaribaldi": {
     "title": "Giuseppe Garibaldi",
     "url": "/wiki/entities/giuseppegaribaldi/"
@@ -65883,6 +65891,14 @@
     "title": "Payroll Infrastructure Trust",
     "url": "/wiki/concepts/payrollinfrastructuretrust/"
   },
+  "PazziConspiracy": {
+    "title": "Pazzi Conspiracy",
+    "url": "/wiki/concepts/pazziconspiracy/"
+  },
+  "PazziFamily": {
+    "title": "Pazzi family",
+    "url": "/wiki/entities/pazzifamily/"
+  },
   "PeaceInfrastructure": {
     "title": "Peace Infrastructure",
     "url": "/wiki/concepts/peaceinfrastructure/"
@@ -67059,6 +67075,10 @@
     "title": "Piero Ferrari",
     "url": "/wiki/entities/pieroferrari/"
   },
+  "PieroTheGouty": {
+    "title": "Piero the Gouty",
+    "url": "/wiki/entities/pierothegouty/"
+  },
   "PierreBourdieu": {
     "title": "Pierre Bourdieu / 皮埃尔·布迪厄",
     "url": "/wiki/entities/pierrebourdieu/"
@@ -68046,6 +68066,10 @@
   "PopeManufacturingCompany": {
     "title": "Pope Manufacturing Company",
     "url": "/wiki/entities/popemanufacturingcompany/"
+  },
+  "PopeSixtusIV": {
+    "title": "Pope Sixtus IV",
+    "url": "/wiki/entities/popesixtusiv/"
   },
   "Popeyes": {
     "title": "Popeyes",

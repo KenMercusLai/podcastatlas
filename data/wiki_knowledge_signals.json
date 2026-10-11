@@ -92340,9 +92340,9 @@
       "url": "/wiki/entities/floramacdonald/"
     },
     "FlorentineRepublic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -92364,6 +92364,13 @@
           "show": "The Rest Is History",
           "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
           "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        },
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
         }
       ],
       "updated": "2026-10-11",
@@ -103466,6 +103473,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/gisaeng/"
+    },
+    "GiulianoDeMedici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/giulianodemedici/"
     },
     "GiuseppeGaribaldi": {
       "episode_count": 1,
@@ -120899,9 +120922,9 @@
       "url": "/wiki/entities/houyinwesternhan/"
     },
     "HouseOfMedici": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -120923,6 +120946,13 @@
           "show": "The Rest Is History",
           "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
           "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        },
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
         }
       ],
       "updated": "2026-10-11",
@@ -161344,9 +161374,9 @@
       "url": "/wiki/entities/lordsappellant/"
     },
     "LorenzoDeMedici": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -161354,6 +161384,13 @@
           "show": "The Rest Is History",
           "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
           "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        },
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
         }
       ],
       "updated": "2026-10-11",
@@ -172485,9 +172522,9 @@
       "url": "/wiki/concepts/medicationselfcombinationrisk/"
     },
     "MediciBank": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -172495,6 +172532,13 @@
           "show": "The Rest Is History",
           "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
           "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        },
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
         }
       ],
       "updated": "2026-10-11",
@@ -198108,6 +198152,38 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/paymentriskdatanetwork/"
     },
+    "PazziConspiracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/pazziconspiracy/"
+    },
+    "PazziFamily": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/pazzifamily/"
+    },
     "PeaceInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -202156,6 +202232,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/pierodemedici/"
     },
+    "PieroTheGouty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/pierothegouty/"
+    },
     "PierreCauchon": {
       "episode_count": 3,
       "show_count": 1,
@@ -204176,9 +204268,9 @@
       "url": "/wiki/concepts/politicalfuneral/"
     },
     "PoliticalMagnificenceStructuralFragility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -204186,6 +204278,13 @@
           "show": "The Rest Is History",
           "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
           "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        },
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
         }
       ],
       "updated": "2026-10-11",
@@ -205004,6 +205103,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/popeleoxiv/"
+    },
+    "PopeSixtusIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6599592252 [GLT6599592252].md",
+          "key": "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252",
+          "show": "The Rest Is History",
+          "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
+          "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/popesixtusiv/"
     },
     "Popeyes": {
       "episode_count": 1,

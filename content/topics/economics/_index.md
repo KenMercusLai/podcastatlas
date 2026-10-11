@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2243
+topic_total_pages: 2247
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2332,6 +2332,9 @@ topic_concepts:
   - key: "PayrollInfrastructureTrust"
     title: "Payroll Infrastructure Trust"
     url: "/wiki/concepts/payrollinfrastructuretrust/"
+  - key: "PazziConspiracy"
+    title: "Pazzi Conspiracy"
+    url: "/wiki/concepts/pazziconspiracy/"
   - key: "PeakValleyAIInferencePricing"
     title: "Peak-Valley AI Inference Pricing"
     url: "/wiki/concepts/peakvalleyaiinferencepricing/"
@@ -4796,6 +4799,9 @@ topic_entities:
   - key: "PaulTudorJones"
     title: "Paul Tudor Jones / 保罗·都铎·琼斯"
     url: "/wiki/entities/paultudorjones/"
+  - key: "PazziFamily"
+    title: "Pazzi family"
+    url: "/wiki/entities/pazzifamily/"
   - key: "Pebble"
     title: "Pebble"
     url: "/wiki/entities/pebble/"
@@ -4820,6 +4826,9 @@ topic_entities:
   - key: "Pickwing"
     title: "Pickwing"
     url: "/wiki/entities/pickwing/"
+  - key: "PieroTheGouty"
+    title: "Piero the Gouty"
+    url: "/wiki/entities/pierothegouty/"
   - key: "PIMCO"
     title: "PIMCO"
     url: "/wiki/entities/pimco/"
@@ -5964,6 +5973,9 @@ topic_sources:
   - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
     title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
     url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+  - key: "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252"
+    title: "573. The Medici: Lorenzo the Magnificent (Part 2)"
+    url: "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
   - key: "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353"
     title: "61.自从拥有经济学的思维方式，人生都变简单了！"
     url: "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"

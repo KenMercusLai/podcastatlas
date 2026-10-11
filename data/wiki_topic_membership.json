@@ -6305,6 +6305,23 @@
       "url": "/topics/history/"
     }
   ],
+  "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064": [
     {
       "key": "history",
@@ -40491,6 +40508,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GiulianoDeMedici": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Glamour": [
     {
       "key": "culture",
@@ -66787,6 +66811,25 @@
       "url": "/topics/economics/"
     }
   ],
+  "PazziConspiracy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "PazziFamily": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PeaceInfrastructure": [
     {
       "key": "technology",
@@ -67828,6 +67871,18 @@
     }
   ],
   "PieroDeMedici": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PieroTheGouty": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -68973,6 +69028,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PopeSixtusIV": [
     {
       "key": "politics",
       "label": "Politics",
