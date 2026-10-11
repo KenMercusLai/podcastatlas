@@ -43309,6 +43309,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chengjinlatehan/"
     },
+    "ChengLingsu": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "lqaN6mpC-cfDAzE0OoXDd-IeGCJk [lqaN6mpC-cfDAzE0OoXDd-IeGCJk].md",
+          "key": "lqan6mpc-cfdaze0ooxdd-iegcjk",
+          "show": "纸醉金迷FM",
+          "title": "038 周年特辑 | 你心目中的金庸宇宙top3系列",
+          "url": "/wiki/sources/lqan6mpc-cfdaze0ooxdd-iegcjk/"
+        },
+        {
+          "episode_file": "lv-F-QYMXTylEYgmLjijngtxaLhZ [lv-F-QYMXTylEYgmLjijngtxaLhZ].md",
+          "key": "083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz",
+          "show": "纸醉金迷FM",
+          "title": "083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1",
+          "url": "/wiki/sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz/"
+        },
+        {
+          "episode_file": "lpdgbAmp4mE47ZK41U9TGXO4A2H7 [lpdgbAmp4mE47ZK41U9TGXO4A2H7].md",
+          "key": "lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7",
+          "show": "纸醉金迷FM",
+          "title": "029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写",
+          "url": "/wiki/sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/chenglingsu/"
+    },
     "ChengPuLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -90784,6 +90814,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/feixingxinofficial/"
     },
+    "FeihuWaizhuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpdgbAmp4mE47ZK41U9TGXO4A2H7 [lpdgbAmp4mE47ZK41U9TGXO4A2H7].md",
+          "key": "lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7",
+          "show": "纸醉金迷FM",
+          "title": "029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写",
+          "url": "/wiki/sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/feihuwaizhuan/"
+    },
     "Feishu": {
       "episode_count": 3,
       "show_count": 2,
@@ -92662,9 +92708,9 @@
       "url": "/wiki/concepts/fictionalcharactertypingboundary/"
     },
     "FictionalRelationshipCompatibilityReading": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lv-F-QYMXTylEYgmLjijngtxaLhZ [lv-F-QYMXTylEYgmLjijngtxaLhZ].md",
@@ -92679,6 +92725,13 @@
           "show": "纸醉金迷FM",
           "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
           "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        },
+        {
+          "episode_file": "lpdgbAmp4mE47ZK41U9TGXO4A2H7 [lpdgbAmp4mE47ZK41U9TGXO4A2H7].md",
+          "key": "lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7",
+          "show": "纸醉金迷FM",
+          "title": "029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写",
+          "url": "/wiki/sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7/"
         }
       ],
       "updated": "2026-10-11",
@@ -124397,6 +124450,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/hufanglatehan/"
+    },
+    "HuFei": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lv-F-QYMXTylEYgmLjijngtxaLhZ [lv-F-QYMXTylEYgmLjijngtxaLhZ].md",
+          "key": "083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz",
+          "show": "纸醉金迷FM",
+          "title": "083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1",
+          "url": "/wiki/sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz/"
+        },
+        {
+          "episode_file": "lpdgbAmp4mE47ZK41U9TGXO4A2H7 [lpdgbAmp4mE47ZK41U9TGXO4A2H7].md",
+          "key": "lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7",
+          "show": "纸醉金迷FM",
+          "title": "029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写",
+          "url": "/wiki/sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/hufei/"
     },
     "HuGuangLateHan": {
       "episode_count": 5,
@@ -156661,9 +156737,9 @@
       "url": "/wiki/concepts/lifesciencedatainformationvalue/"
     },
     "LifeStageDependentRereading": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljz9KGG5ExpHgfux5e6OyrtPxW1w [ljz9KGG5ExpHgfux5e6OyrtPxW1w].md",
@@ -156685,6 +156761,13 @@
           "show": "纸醉金迷FM",
           "title": "038 周年特辑 | 你心目中的金庸宇宙top3系列",
           "url": "/wiki/sources/lqan6mpc-cfdaze0ooxdd-iegcjk/"
+        },
+        {
+          "episode_file": "lpdgbAmp4mE47ZK41U9TGXO4A2H7 [lpdgbAmp4mE47ZK41U9TGXO4A2H7].md",
+          "key": "lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7",
+          "show": "纸醉金迷FM",
+          "title": "029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写",
+          "url": "/wiki/sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7/"
         }
       ],
       "updated": "2026-10-12",
@@ -294853,6 +294936,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yuanzhuremonstrantlatehan/"
+    },
+    "YuanZiyi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpdgbAmp4mE47ZK41U9TGXO4A2H7 [lpdgbAmp4mE47ZK41U9TGXO4A2H7].md",
+          "key": "lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7",
+          "show": "纸醉金迷FM",
+          "title": "029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写",
+          "url": "/wiki/sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yuanziyi/"
     },
     "YuchengWesternHan": {
       "episode_count": 1,

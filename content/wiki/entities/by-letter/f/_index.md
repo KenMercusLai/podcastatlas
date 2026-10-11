@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13360
+wiki_total_pages: 13364
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "FengLiuYiDai"
     title: "《风流一代》 / Caught by the Tides"
     url: "/wiki/entities/fengliuyidai/"
+  - key: "FeihuWaizhuan"
+    title: "《飞狐外传》 / The Young Flying Fox"
+    url: "/wiki/entities/feihuwaizhuan/"
   - key: "FeixingjiaFilm"
     title: "《飞行家》 / Feixingjia"
     url: "/wiki/entities/feixingjiafilm/"

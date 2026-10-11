@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13360
+wiki_total_pages: 13364
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2330,6 +2330,9 @@ wiki_pages:
   - key: "ChengHongningYuzhouEBike"
     title: "程泓宁 / 陈鸿宁"
     url: "/wiki/entities/chenghongningyuzhouebike/"
+  - key: "ChengLingsu"
+    title: "程灵素 / Cheng Lingsu"
+    url: "/wiki/entities/chenglingsu/"
   - key: "ChengQiu"
     title: "程球 / Cheng Qiu"
     url: "/wiki/entities/chengqiu/"

@@ -5,6 +5,7 @@ tags: [literature, character, romance, relationships, counterfactuals]
 sources:
   - 083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz
   - liiidmjxhrngcffnld51y-l7_oan
+  - lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ The “CP大乱配” segment converts those judgments into counterfactual exper
 
 The [[BixueJian|《碧血剑》]] relationship triangle tests feeling against viable commitment within one novel. [[YuanChengzhi|袁承志]] may experience stronger passion with [[AjiuBixueJian|阿九]] while sustaining a bond with [[WenQingqing|温青青]] through history, protection, promise, sympathy, and repeated return. Jiao Wan'er and Luo Liru raise a disputed practical question: choosing a reliable person who loves you may support a life, but it does not prove that gratitude, safety, or external pressure is equivalent to free romantic preference.
 
+The focused [[FeihuWaizhuan|《飞狐外传》]] discussion sharpens the distinction between attraction and compatibility. [[HuFei|胡斐]] responds immediately to [[YuanZiyi|袁紫衣]] through beauty, vitality, martial parity, play, and uncertain availability, while [[ChengLingsu|程灵素]] becomes indispensable through intelligence, shared values, protection, and daily care. None of these dimensions can simply substitute for another. The revised-edition marriage fantasy also makes compatibility dynamic: respect and familiarity may alter attraction over time, but possible change is neither a completed relationship nor a debt created by sacrifice.
+
 ## Key Claims
 
 - Sacrifice and persistence are evidence of attachment, not sufficient proof of compatibility.
@@ -31,6 +34,7 @@ The [[BixueJian|《碧血剑》]] relationship triangle tests feeling against vi
 - A strong pairing expands agency and ease for both characters instead of requiring one person's continual diminishment.
 - Counterfactual pairing is most useful when it isolates a specific trait interaction rather than merely producing novelty.
 - Readerly regret, moral approval, canonical outcome, and compatibility are distinct judgments.
+- Immediate attraction and long-term compatibility can diverge, and neither merit nor sacrifice creates an entitlement to desire.
 
 ## Evidence
 
@@ -54,14 +58,21 @@ The [[BixueJian|《碧血剑》]] relationship triangle tests feeling against vi
 - [[liiidmjxhrngcffnld51y-l7_oan]] separates Yuan Chengzhi's possible stronger passion for A Jiu from the responsibility, promise, protection, and lived bond connecting him to Wen Qingqing.
 - [[liiidmjxhrngcffnld51y-l7_oan]] preserves host disagreement over whether Jiao Wan'er and Luo Liru represent practical compatibility or surrender of preferred love under pressure.
 
+### Attraction, care, and possible change
+
+- [[lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7]] contrasts Hu Fei's immediate excitement with Yuan Ziyi against his slowly developing respect, reliance, value alignment, and domestic imagination with Cheng Lingsu.
+- [[lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7]] treats Cheng Lingsu's sacrifice as evidence of care while explicitly rejecting both romantic entitlement and real-world imitation of self-erasure.
+
 ## Counterevidence & Qualifications
 
-The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score: tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice.
+The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and beauty or excitement should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice.
 
 ## What Changed
 
 - Added a distinction among strongest feeling, sustained obligation, protective action, and viable partnership.
 - Added a boundary against treating selection of a reliable admirer as automatic proof of free preference or compatibility.
+- Distinguished immediate attraction from long-term compatibility and made clear that merit or sacrifice cannot create romantic entitlement.
+- Added the possibility that attraction changes through recognition and shared life without treating that development as inevitable.
 
 ## Related Concepts
 

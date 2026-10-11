@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写](sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7.md) — 纸醉金迷FM以胡斐、袁紫衣和程灵素区分即时吸引、长期适配、实践性照护与迟到认知，并拒绝把自我牺牲转化为爱情债务。
 - [030 大话卫斯理之《蓝血人》](sources/lh2p-n8chtr_zwzssxljfgezpc0i.md) — 纸醉金迷FM以蓝血谜团、外星导航仪和土星归乡悲剧重读《蓝血人》，在武侠式科幻的想象力与科学、因果和伦理局限之间保留张力。
 - [031 趣话古龙《楚留香传奇：血海飘香》](sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps.md) — 纸醉金迷FM以不杀原则、行动式人物塑造、友情转化和含蓄留白重读《血海飘香》，同时质疑阴谋逻辑、真相隐瞒及男性视角下的女性书写。
 - [032 教师节特辑 | 韦小宝和他的师父们](sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg.md) — 纸醉金迷FM以海大富的生存教育和陈近南的道德父职，讨论具体互惠、抽象忠诚、复明派系内斗与传统侠义英雄的末路。
@@ -4622,6 +4623,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以胡斐、袁紫衣和程灵素的错位关系区分即时吸引、渐进适配、可能转化与迟到认知的金庸小说。
+- [胡斐 / Hu Fei](entities/HuFei.md) — 在袁紫衣的即时吸引与程灵素的长期照护之间经历尊重、回避、可能转化和失后悔悟的《飞狐外传》主角。
+- [程灵素 / Cheng Lingsu](entities/ChengLingsu.md) — 以医毒、智谋、侠义和实践性照护保护胡斐，同时不因牺牲而获得爱情债权的悲剧人物。
+- [袁紫衣 / Yuan Ziyi](entities/YuanZiyi.md) — 以美貌、活力、武功、情趣与若即若离激发胡斐即时爱恋，却未形成共同未来的《飞狐外传》人物。
 - [《蓝血人》 / Blue Blood Man (Ni Kuang novel)](entities/BlueBloodManNiKuangNovel.md) — 倪匡早期卫斯理小说，以蓝血身份谜团、武侠式科幻、外星归乡与武器竞赛导致的文明自毁连接冒险和核时代寓言。
 - [方天 / Fang Tian (Ni Kuang)](entities/FangTianNiKuang.md) — 《蓝血人》中流落地球约两百年的土星科学家，从危险异类转为归乡者，并见证故乡文明因武器竞赛而崩溃。
 - [《血海飘香》 / Blood Sea Fragrance](entities/BloodSeaFragranceGuLong.md) — 楚留香系列开篇，以强人物塑造和情感表达对照失衡的阴谋逻辑、仓促收尾与性别局限。
@@ -18275,7 +18280,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Architecture of Reassurance](concepts/ArchitectureOfReassurance.md) — Design model in which human scale, cleanliness, legibility, operational order, and curated time make a bounded environment feel safe and predictable.
 - [Theme Park Genealogy](concepts/ThemeParkGenealogy.md) — Historical lineage connecting pleasure gardens, fairs, mechanical rides, railways, and scenic staging to modern themed environments.
 - [Institutional Legacy Reinvention](concepts/InstitutionalLegacyReinvention.md) — Stewardship model that preserves generative values and audience trust without freezing inherited products, rules, or methods.
-- [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — evaluates fictional pairs through recognition, reciprocity, timing, agency, mutual flourishing, and bounded counterfactual substitution.
+- [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — 以吸引、识别、互惠、时机、能动性和共同成长评估虚构关系，同时拒绝把美德或牺牲转化为爱情债务。
 - [Ensemble Battle Convergence / 群像大战汇流](concepts/EnsembleBattleConvergence.md) — explains battle climaxes that resolve multiple character arcs, identities, relationships, abilities, and moral choices at once.
 - [Cross-Modal Spatial Remapping](concepts/CrossModalSpatialRemapping.md) — Dynamic reconciliation of auditory location, gaze, visual source evidence, and saccade-linked ear signals.
 - [Sensory-Motor Thought Simulation](concepts/SensoryMotorThoughtSimulation.md) — Qualified hypothesis that thinking partly reuses perceptual and action systems.
@@ -18342,7 +18347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Technical HUMINT Military Leverage / 技术型人力情报的军事杠杆](concepts/TechnicalHUMINTMilitaryLeverage.md) — Framework connecting insider technical access to changed engineering, procurement, doctrine, or military advantage without inflating local effects into regime-level causation.
 - [Human Taste Creative Boundary / 人类审美的创造边界](concepts/HumanTasteCreativeBoundary.md) — 区分可自动化的创意执行与审美判断、风格创新及其权利治理的动态边界。
 - [AI Workflow Upstream Positioning / AI 工作流上游定位](concepts/AIWorkflowUpstreamPositioning.md) — 从用户意图、新人群或新需求发起工作流，而非成为既有平台可替换的下游功能。
-- [Life-Stage-Dependent Rereading / 生命阶段依赖的重读](concepts/LifeStageDependentRereading.md) — 后来经验或语言能力改变作品显著性、但不自动赋予终极解释权的重读机制。
+- [Life-Stage-Dependent Rereading / 生命阶段依赖的重读](concepts/LifeStageDependentRereading.md) — 后来经验或语言能力改变作品、人物与关系标准的显著性，但不自动赋予终极解释权的重读机制。
 - [Youth Vitality under Institutional Closure / 制度封闭下的青春生命力](concepts/YouthVitalityUnderInstitutionalClosure.md) — 爱情、职业与阶级出口同时收窄，使充沛感受力和才华失去容纳空间的文学机制。
 - [Co-Produced Scarcity Prestige / 共谋式稀缺声望](concepts/CoProducedScarcityPrestige.md) — 供应者、把关者和获配者因共同受益于排他身份而维持稀缺叙事的机制。
 - [Contingency Patch Debt / 应急补丁债务](concepts/ContingencyPatchDebt.md) — 应急替代恢复眼前交付，却把身份、信任、关系或问责风险推向后续阶段。
