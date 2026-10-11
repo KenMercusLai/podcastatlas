@@ -36357,3 +36357,11 @@ Added source `lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角
+
+Added source `lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav`; created [[ZhangCuishanJinYong|张翠山]], [[YinSusuJinYong|殷素素]], [[YangXiaoJinYong|杨逍]], [[JiXiaofuJinYong|纪晓芙]], [[YangBuhuiJinYong|杨不悔]], [[YinLitingJinYong|殷梨亭]], [[SectarianIdentityMoralMisclassification|门派身份的道德误判]], and [[CompetingRelationalObligations|亲密关系中的多重义务冲突]]; and resynthesized [[HeavenSwordDragonSaber|《倚天屠龙记》]] and [[CoerciveRelationshipLegitimation|强迫关系合法化]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sect affiliation explains institutional conflict but cannot settle morality; Zhang Cuishan and Yin Susu's deaths remain ethically qualified by viable exit and parental responsibility; Ji Xiaofu's later love does not resolve the earlier “forcing,” while her refusal to deceive and kill establishes a clear moral threshold; and Yang Buhui's care-based choice rejects rescue or inherited debt as a marriage obligation. No settled contradiction was adopted. Suicide necessity, coercion type and sequence, motives, psychology, exact dialogue, chronology, edition differences, adaptation effects, the Westermarck explanation, and generational compensation remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and [[ZhangSanfengJinYong|张三丰（金庸小说）]] profiles were kept closed because the focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,553 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

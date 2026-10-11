@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13403
+wiki_total_pages: 13409
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1025,6 +1025,9 @@ wiki_pages:
   - key: "ZhangXiu"
     title: "张绣 / Zhang Xiu"
     url: "/wiki/entities/zhangxiu/"
+  - key: "ZhangCuishanJinYong"
+    title: "张翠山（金庸小说） / Zhang Cuishan (Jin Yong)"
+    url: "/wiki/entities/zhangcuishanjinyong/"
   - key: "ZhangEr"
     title: "张耳 / Zhang Er"
     url: "/wiki/entities/zhanger/"

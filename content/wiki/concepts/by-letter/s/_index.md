@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10456
+wiki_total_pages: 10458
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "SecretGRAS"
     title: "Secret GRAS"
     url: "/wiki/concepts/secretgras/"
+  - key: "SectarianIdentityMoralMisclassification"
+    title: "Sectarian Identity Moral Misclassification / 门派身份的道德误判"
+    url: "/wiki/concepts/sectarianidentitymoralmisclassification/"
   - key: "SectarianSecurityDilemma"
     title: "Sectarian Security Dilemma"
     url: "/wiki/concepts/sectariansecuritydilemma/"

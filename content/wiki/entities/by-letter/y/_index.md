@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13403
+wiki_total_pages: 13409
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "YangYi"
     title: "杨一 / Yang Yi"
     url: "/wiki/entities/yangyi/"
+  - key: "YangBuhuiJinYong"
+    title: "杨不悔（金庸小说） / Yang Buhui (Jin Yong)"
+    url: "/wiki/entities/yangbuhuijinyong/"
   - key: "YangChouLateHan"
     title: "杨丑 / Yang Chou (late Han)"
     url: "/wiki/entities/yangchoulatehan/"
@@ -896,6 +899,9 @@ wiki_pages:
   - key: "YangFuWesternHan"
     title: "杨辅 / Yang Fu (Western Han)"
     url: "/wiki/entities/yangfuwesternhan/"
+  - key: "YangXiaoJinYong"
+    title: "杨逍（金庸小说） / Yang Xiao (Jin Yong)"
+    url: "/wiki/entities/yangxiaojinyong/"
   - key: "YangFuLateHan"
     title: "杨阜 / Yang Fu (late Han)"
     url: "/wiki/entities/yangfulatehan/"
@@ -914,6 +920,12 @@ wiki_pages:
   - key: "Yinjin"
     title: "殷晋 / Yinjin"
     url: "/wiki/entities/yinjin/"
+  - key: "YinLitingJinYong"
+    title: "殷梨亭（金庸小说） / Yin Liting (Jin Yong)"
+    url: "/wiki/entities/yinlitingjinyong/"
+  - key: "YinSusuJinYong"
+    title: "殷素素（金庸小说） / Yin Susu (Jin Yong)"
+    url: "/wiki/entities/yinsusujinyong/"
   - key: "YinTong"
     title: "殷通 / Yin Tong"
     url: "/wiki/entities/yintong/"

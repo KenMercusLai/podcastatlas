@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10456
+wiki_total_pages: 10458
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1892,6 +1892,9 @@ wiki_pages:
   - key: "CompetenceStatusMentalHealthBlindSpot"
     title: "Competence-Status Mental Health Blind Spot"
     url: "/wiki/concepts/competencestatusmentalhealthblindspot/"
+  - key: "CompetingRelationalObligations"
+    title: "Competing Relational Obligations / 亲密关系中的多重义务冲突"
+    url: "/wiki/concepts/competingrelationalobligations/"
   - key: "CompetitiveBillionaireWealth"
     title: "Competitive Billionaire Wealth"
     url: "/wiki/concepts/competitivebillionairewealth/"

@@ -1,0 +1,55 @@
+---
+title: "Sectarian Identity Moral Misclassification / 门派身份的道德误判"
+type: concept
+tags: [moral-judgment, group-identity, wuxia, sectarianism]
+sources:
+  - lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav
+last_updated: 2026-10-12
+knowledge_schema: synthesis-v1
+---
+
+## Definition
+
+Sectarian identity moral misclassification is the error of treating affiliation with an orthodox or heterodox group as sufficient evidence of a person's conduct, character, or relational worth.
+
+## Current Synthesis
+
+The episode uses cross-sect relationships in [[HeavenSwordDragonSaber|《倚天屠龙记》]] to show that group labels predict institutional conflict more reliably than individual morality. [[YinSusuJinYong|殷素素]] bears responsibility for concrete harms without becoming evil merely because she belongs to the Heavenly Eagle Cult, while Wudang membership does not make [[ZhangCuishanJinYong|张翠山]]'s final choice wise or harmless.
+
+The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJinYong|纪晓芙]]. Ming Cult identity cannot prove Yang's depravity, but charisma and Ji's later love cannot erase conduct-specific questions about coercion. Moral judgment therefore moves from faction to actions, consequences, consent, repair, and responsibility.
+
+## Key Claims
+
+- Group affiliation can explain conflict, reputation, and available choices without settling personal morality.
+- Orthodox status does not guarantee good judgment, restraint, or harmless conduct.
+- Heterodox status does not prove cruelty, disloyalty, or incapacity for love and care.
+- Correcting a negative faction stereotype must not become automatic exoneration of concrete harm.
+- Conduct-specific judgment requires attention to consent, causal role, consequences, repair, and continuing responsibility.
+
+## Evidence
+
+### Orthodox identity and fallible action
+
+- [[lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav]] contrasts Zhang Cuishan's Wudang formation with his inability to imagine a survivable response to conflict among wife, brothers, sect, and child.
+
+### Heterodox identity and differentiated responsibility
+
+- [[lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav]] distinguishes Yin Susu's actual role in Yu Daiyan's injury from both factional condemnation and the later crippling assault by another actor.
+- [[lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav]] refuses both to condemn Yang Xiao solely as Ming Cult and to use attraction or later love to dismiss the unresolved coercion issue.
+
+## Counterevidence & Qualifications
+
+Organizations can shape conduct through teaching, incentives, hierarchy, secrecy, and sanctions; affiliation is therefore relevant context, not meaningless information. The concept rejects moral sufficiency, not all probabilistic inference. Its evidence here is fictional and source-bounded, and claims about exact actions, intent, sect doctrine, or edition differences require direct textual support.
+
+## What Changed
+
+- Established a conduct-specific alternative to orthodox–heterodox moral sorting.
+- Added the reciprocal warning that resisting stigma must not erase individual accountability.
+
+## Related Concepts
+
+- [[CompetingRelationalObligations|亲密关系中的多重义务冲突]] - shows how institutional identity competes with love, family, and conscience in action.
+- [[CoerciveRelationshipLegitimation|强迫关系合法化]] - applies conduct-specific judgment to consent rather than romantic or factional labels.
+- [[FictionalFactionalInferenceBoundary|虚构派系解读边界]] - limits unsupported inference about hidden camps and motives inside fictional institutions.
+- [[HeavenSwordDragonSaber|《倚天屠龙记》]] - literary case in which cross-sect relationships expose the limits of factional morality.
+- [[ZhangSanfengJinYong|张三丰（金庸小说）]] - mentor figure who explicitly judges beyond orthodox and heterodox identity.

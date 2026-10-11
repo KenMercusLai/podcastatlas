@@ -49880,9 +49880,9 @@
       "url": "/wiki/concepts/coerciveimplicationcascade/"
     },
     "CoerciveRelationshipLegitimation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lt0tfpKc85Hf4DpII7NTrEVjtb9n [lt0tfpKc85Hf4DpII7NTrEVjtb9n].md",
@@ -49890,9 +49890,16 @@
           "show": "纸醉金迷FM",
           "title": "108 趣话马伯庸《太白金星有点烦》P4：世间多少百花羞",
           "url": "/wiki/sources/108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n/"
+        },
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/coerciverelationshiplegitimation/"
     },
     "CoerciveReservationAssimilation": {
@@ -52616,6 +52623,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/competencestatusmentalhealthblindspot/"
+    },
+    "CompetingRelationalObligations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/competingrelationalobligations/"
     },
     "CompiegneArmistice1940": {
       "episode_count": 1,
@@ -117579,9 +117602,9 @@
       "url": "/wiki/entities/heathertuke/"
     },
     "HeavenSwordDragonSaber": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lij8oOwqXh0K2Kmz8akkFE9IjC7b [lij8oOwqXh0K2Kmz8akkFE9IjC7b].md",
@@ -117589,6 +117612,13 @@
           "show": "纸醉金迷FM",
           "title": "015 范遥是个好卧底吗？武当七侠在明争暗斗？|再谈《倚天屠龙记》中的配角人物",
           "url": "/wiki/sources/lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b/"
+        },
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
         }
       ],
       "updated": "2026-10-12",
@@ -141144,6 +141174,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/jiwuwesternhan/"
+    },
+    "JiXiaofuJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/jixiaofujinyong/"
     },
     "JiZunEasternHan": {
       "episode_count": 3,
@@ -237086,6 +237132,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/secretimperialinfantsuppression/"
     },
+    "SectarianIdentityMoralMisclassification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/sectarianidentitymoralmisclassification/"
+    },
     "SectionalPartyRealignment": {
       "episode_count": 1,
       "show_count": 1,
@@ -292427,6 +292489,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/yangbinglatehan/"
     },
+    "YangBuhuiJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yangbuhuijinyong/"
+    },
     "YangCiLateHan": {
       "episode_count": 10,
       "show_count": 1,
@@ -292908,6 +292986,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/yangtianzhen/"
+    },
+    "YangXiaoJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yangxiaojinyong/"
     },
     "YangXiaodan": {
       "episode_count": 1,
@@ -294152,6 +294246,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/yinlihua/"
     },
+    "YinLitingJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yinlitingjinyong/"
+    },
     "YinShiEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -294181,6 +294291,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/yinshieasternhan/"
+    },
+    "YinSusuJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yinsusujinyong/"
     },
     "YinWengguiWesternHan": {
       "episode_count": 1,
@@ -297475,6 +297601,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangchengastrologerlatehan/"
+    },
+    "ZhangCuishanJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
+          "key": "lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav",
+          "show": "纸醉金迷FM",
+          "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
+          "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/zhangcuishanjinyong/"
     },
     "ZhangDabai": {
       "episode_count": 6,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角](sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav.md) — 纸醉金迷FM以三组配角关系讨论门派标签、亲密义务、父母责任、强迫边界、照料与非偿债式爱情选择。
 - [015 范遥是个好卧底吗？武当七侠在明争暗斗？|再谈《倚天屠龙记》中的配角人物](sources/lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b.md) — 纸醉金迷FM以范遥的长期沉默与万安寺立功检验潜伏价值，并以俞莲舟的克制和判断讨论武当继承，同时明确区分文本事实与趣味派系推测。
 - [016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？](sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh.md) — 纸醉金迷FM以李莫愁为中心，比较情伤如何导向复仇、牺牲、放下、平常生活或相互毁灭，并在同情与责任之间保留张力。
 - [017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？](sources/lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b.md) — 纸醉金迷FM以叙事视角、家庭与公共责任重评黄蓉，并以剑冢、黯然销魂掌和玉女心经讨论武功如何承载成长、情绪与关系。
@@ -4637,7 +4638,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
-- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以配角的隐藏忠诚、职业竞争、生存策略与武当继承连接人物复杂性，并保留派系解读的证据边界。
+- [张翠山（金庸小说） / Zhang Cuishan (Jin Yong)](entities/ZhangCuishanJinYong.md) — 在殷素素、武当兄弟、师门荣誉与父职冲突中选择自尽，并暴露身份依附和现实替代方案落差的武当人物。
+- [殷素素（金庸小说） / Yin Susu (Jin Yong)](entities/YinSusuJinYong.md) — 以主动爱情、有限但真实的伤害责任、丧偶孤立与父母责任挑战正邪标签的天鹰教人物。
+- [杨逍（金庸小说） / Yang Xiao (Jin Yong)](entities/YangXiaoJinYong.md) — 魅力、权力、深情与原著“强迫”表述并存，且后来的爱情不能倒推早期同意的明教人物。
+- [纪晓芙（金庸小说） / Ji Xiaofu (Jin Yong)](entities/JiXiaofuJinYong.md) — 在爱情、峨眉归属、诚实与不伤害之间长期分裂，却在拒绝欺骗和杀害杨逍时明确守住底线的人物。
+- [杨不悔（金庸小说） / Yang Buhui (Jin Yong)](entities/YangBuhuiJinYong.md) — 以长期照料和主动选择爱上殷梨亭，并拒绝把张无忌的救命之恩转化为婚姻债务的人物。
+- [殷梨亭（金庸小说） / Yin Liting (Jin Yong)](entities/YinLitingJinYong.md) — 在重伤照料中与前未婚妻之女建立关系，并承载年龄、相貌替代与代际补偿争议的武当人物。
+- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以配角的隐藏忠诚、跨门派爱情、生存策略与武当继承连接人物复杂性，并保留派系、动机与同意的证据边界。
 - [范遥（金庸小说） / Fan Yao (Jin Yong)](entities/FanYaoJinYong.md) — 长期潜伏却缺少可见报告，又在万安寺救援中发挥决定作用，并以自罚和跨阵营情感构成忠诚歧义的明教人物。
 - [俞莲舟（金庸小说） / Yu Lianzhou (Jin Yong)](entities/YuLianzhouJinYong.md) — 以武功、克制、风险判断与程序分寸获得掌门继承正当性的武当人物。
 - [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、角色责任、武功设计与配角对情伤的分歧选择组织人物评价。
@@ -18110,6 +18117,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Sectarian Identity Moral Misclassification / 门派身份的道德误判](concepts/SectarianIdentityMoralMisclassification.md) — 拒绝以正派或魔教归属直接判定个人善恶，转而检验行为、后果、同意、修复与责任。
+- [Competing Relational Obligations / 亲密关系中的多重义务冲突](concepts/CompetingRelationalObligations.md) — 分析爱情、亲子、友情、师门、诚实、照料与自保发生冲突时的排序、退出与道德底线。
 - [Embedded-Agent Operational Value / 潜伏者的行动价值](concepts/EmbeddedAgentOperationalValue.md) — 将潜伏时长与实际报告、预警、准入、启用效果、关系管理及归队问责分开评价。
 - [Fictional Factional Inference Boundary / 虚构派系解读边界](concepts/FictionalFactionalInferenceBoundary.md) — 区分故事明示、受约束的动机推断与仅具娱乐性的权力派系想象。
 - [Narrative-Perspective Moral Reevaluation / 叙事视角驱动的道德重评](concepts/NarrativePerspectiveMoralReevaluation.md) — 叙事焦点和冲突对象变化使稳定性格获得不同道德标签，同时以证据更新、角色责任和实际伤害校准评价。
