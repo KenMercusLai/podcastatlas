@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 10458
+wiki_total_pages: 10459
 wiki_pages:
+  - key: "XianxiaHumanCenteredCultivation"
+    title: "Human-Centered Xianxia Cultivation / 人道优先的仙侠修行"
+    url: "/wiki/concepts/xianxiahumancenteredcultivation/"
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
     url: "/wiki/concepts/xffxframework/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13412
+wiki_total_pages: 13413
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1832,6 +1832,9 @@ wiki_pages:
   - key: "CactusFlowerStory"
     title: "《仙人掌之花》"
     url: "/wiki/entities/cactusflowerstory/"
+  - key: "ChinesePaladin4"
+    title: "《仙剑奇侠传四》 / Chinese Paladin 4"
+    url: "/wiki/entities/chinesepaladin4/"
   - key: "ClarksonsFarm"
     title: "《克拉克森的农场》 / Clarkson's Farm"
     url: "/wiki/entities/clarksonsfarm/"

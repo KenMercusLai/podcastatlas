@@ -36373,3 +36373,11 @@ Added source `lstyln6ml2pnn9isi6heyyvuewk6`; created [[GoldenRocDynastyGuLong|�
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛
+
+Added source `lmzkiygsiicuvlthjqgatyuf49ac`; created [[ChinesePaladin4|《仙剑奇侠传四》]] and [[XianxiaHumanCenteredCultivation|人道优先的仙侠修行]]; and resynthesized [[SectarianIdentityMoralMisclassification|门派身份的道德误判]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the game's interpreted ethical center places humane responsibility before cultivation power or ascension; Qionghua's orthodox identity cannot legitimate harm, while demon or ghost identity cannot prove evil; and Murong Ziying's resistance can preserve institutional purpose rather than betray it. The episode also separates the game's lasting cultural and emotional force from preferences about combat form, graphics, mazes, voice acting, or screen spectacle. No settled contradiction was adopted. The rumored remake, production cuts, unnamed grave, romantic intent, exact dialogue, mechanics, development history, and adaptation judgments remain disputed, remembered, speculative, or source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[FunctionalAdaptationFidelity|功能性改编忠实]] profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,555 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛](sources/lmzkiygsiicuvlthjqgatyuf49ac.md) — 纸醉金迷FM与千梦群岛重温《仙剑奇侠传四》，以人物关系、人妖之辨、失败飞升和百年结局讨论仙侠的人道伦理与文化内核。
 - [013 武侠与推理的完美结合|漫话古龙《陆小凤传奇之金鹏王朝》](sources/lstyln6ml2pnn9isi6heyyvuewk6.md) — 纸醉金迷FM以三位主角的集中登场和三重反转重读《金鹏王朝》，在武侠推理的爽感与成长、性别书写及因果收束的局限之间保留张力。
 - [014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角](sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav.md) — 纸醉金迷FM以三组配角关系讨论门派标签、亲密义务、父母责任、强迫边界、照料与非偿债式爱情选择。
 - [015 范遥是个好卧底吗？武当七侠在明争暗斗？|再谈《倚天屠龙记》中的配角人物](sources/lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b.md) — 纸醉金迷FM以范遥的长期沉默与万安寺立功检验潜伏价值，并以俞莲舟的克制和判断讨论武当继承，同时明确区分文本事实与趣味派系推测。
@@ -4639,6 +4640,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《仙剑奇侠传四》 / Chinese Paladin 4](entities/ChinesePaladin4.md) — 以四人队伍、门派与族群冲突、失败飞升和百年离别连接人道伦理、选择、责任与中国仙侠文化的角色扮演游戏。
 - [张翠山（金庸小说） / Zhang Cuishan (Jin Yong)](entities/ZhangCuishanJinYong.md) — 在殷素素、武当兄弟、师门荣誉与父职冲突中选择自尽，并暴露身份依附和现实替代方案落差的武当人物。
 - [殷素素（金庸小说） / Yin Susu (Jin Yong)](entities/YinSusuJinYong.md) — 以主动爱情、有限但真实的伤害责任、丧偶孤立与父母责任挑战正邪标签的天鹰教人物。
 - [杨逍（金庸小说） / Yang Xiao (Jin Yong)](entities/YangXiaoJinYong.md) — 魅力、权力、深情与原著“强迫”表述并存，且后来的爱情不能倒推早期同意的明教人物。
@@ -18121,7 +18123,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
-- [Sectarian Identity Moral Misclassification / 门派身份的道德误判](concepts/SectarianIdentityMoralMisclassification.md) — 拒绝以正派或魔教归属直接判定个人善恶，转而检验行为、后果、同意、修复与责任。
+- [Human-Centered Xianxia Cultivation / 人道优先的仙侠修行](concepts/XianxiaHumanCenteredCultivation.md) — 以“先修人道，再修仙道”把对生命的责任置于力量、长生、门派荣耀与飞升之前的仙侠伦理。
+- [Sectarian Identity Moral Misclassification / 门派身份的道德误判](concepts/SectarianIdentityMoralMisclassification.md) — 拒绝以正邪门派、人妖物种或机构归属直接判定善恶，转而检验行为、后果、同意、修复与责任。
 - [Competing Relational Obligations / 亲密关系中的多重义务冲突](concepts/CompetingRelationalObligations.md) — 分析爱情、亲子、友情、师门、诚实、照料与自保发生冲突时的排序、退出与道德底线。
 - [Embedded-Agent Operational Value / 潜伏者的行动价值](concepts/EmbeddedAgentOperationalValue.md) — 将潜伏时长与实际报告、预警、准入、启用效果、关系管理及归队问责分开评价。
 - [Fictional Factional Inference Boundary / 虚构派系解读边界](concepts/FictionalFactionalInferenceBoundary.md) — 区分故事明示、受约束的动机推断与仅具娱乐性的权力派系想象。

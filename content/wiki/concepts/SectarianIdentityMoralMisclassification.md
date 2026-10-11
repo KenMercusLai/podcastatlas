@@ -4,6 +4,7 @@ type: concept
 tags: [moral-judgment, group-identity, wuxia, sectarianism]
 sources:
   - lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav
+  - lmzkiygsiicuvlthjqgatyuf49ac
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The episode uses cross-sect relationships in [[HeavenSwordDragonSaber|《倚天�
 
 The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJinYong|纪晓芙]]. Ming Cult identity cannot prove Yang's depravity, but charisma and Ji's later love cannot erase conduct-specific questions about coercion. Moral judgment therefore moves from faction to actions, consequences, consent, repair, and responsibility.
 
+[[ChinesePaladin4|《仙剑奇侠传四》]] extends the framework from orthodox-versus-heterodox sects to humans, demons, ghosts, and divided institutional loyalty. Qionghua's orthodox status cannot legitimate injury in pursuit of ascension, while nonhuman identity cannot prove evil. Murong Ziying's opposition to Qionghua's leaders also shows that disobedience may preserve an institution's professed humane purpose more faithfully than compliance.
+
 ## Key Claims
 
 - Group affiliation can explain conflict, reputation, and available choices without settling personal morality.
@@ -25,6 +28,7 @@ The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJin
 - Heterodox status does not prove cruelty, disloyalty, or incapacity for love and care.
 - Correcting a negative faction stereotype must not become automatic exoneration of concrete harm.
 - Conduct-specific judgment requires attention to consent, causal role, consequences, repair, and continuing responsibility.
+- Species, realm, or institutional identity can reproduce the same moral shortcut as sect labels, and loyalty to purpose may require resistance to leaders.
 
 ## Evidence
 
@@ -37,14 +41,20 @@ The same rule applies in reverse to [[YangXiaoJinYong|杨逍]] and [[JiXiaofuJin
 - [[lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav]] distinguishes Yin Susu's actual role in Yu Daiyan's injury from both factional condemnation and the later crippling assault by another actor.
 - [[lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav]] refuses both to condemn Yang Xiao solely as Ming Cult and to use attraction or later love to dismiss the unresolved coercion issue.
 
+### Species identity and institutional purpose
+
+- [[lmzkiygsiicuvlthjqgatyuf49ac]] contrasts Qionghua's orthodox standing with the harm caused by its ascent and presents demons or ghosts as capable of affection, duty, and aid.
+- [[lmzkiygsiicuvlthjqgatyuf49ac]] interprets Murong Ziying's resistance as loyalty to Qionghua's humane ideal rather than betrayal reducible to factional alignment.
+
 ## Counterevidence & Qualifications
 
-Organizations can shape conduct through teaching, incentives, hierarchy, secrecy, and sanctions; affiliation is therefore relevant context, not meaningless information. The concept rejects moral sufficiency, not all probabilistic inference. Its evidence here is fictional and source-bounded, and claims about exact actions, intent, sect doctrine, or edition differences require direct textual support.
+Organizations and fictional species systems can shape conduct through teaching, incentives, hierarchy, secrecy, conflict, and sanctions; affiliation is therefore relevant context, not meaningless information. The concept rejects moral sufficiency, not all probabilistic inference. Its evidence remains fictional and source-bounded, and claims about exact actions, intent, sect doctrine, species nature, adaptation, or edition differences require direct textual support.
 
 ## What Changed
 
 - Established a conduct-specific alternative to orthodox–heterodox moral sorting.
 - Added the reciprocal warning that resisting stigma must not erase individual accountability.
+- Extended the framework from sect labels to human–demon–ghost classification and loyalty to institutional purpose.
 
 ## Related Concepts
 
@@ -53,3 +63,5 @@ Organizations can shape conduct through teaching, incentives, hierarchy, secrecy
 - [[FictionalFactionalInferenceBoundary|虚构派系解读边界]] - limits unsupported inference about hidden camps and motives inside fictional institutions.
 - [[HeavenSwordDragonSaber|《倚天屠龙记》]] - literary case in which cross-sect relationships expose the limits of factional morality.
 - [[ZhangSanfengJinYong|张三丰（金庸小说）]] - mentor figure who explicitly judges beyond orthodox and heterodox identity.
+- [[ChinesePaladin4|《仙剑奇侠传四》]] - xianxia case extending the framework across species and divided sect loyalty.
+- [[XianxiaHumanCenteredCultivation|人道优先的仙侠修行]] - places humane conduct above orthodox status, power, and ascension.

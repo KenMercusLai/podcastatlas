@@ -45634,6 +45634,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/chineseopenweightaistrategy/"
     },
+    "ChinesePaladin4": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmZkiYgSIICUVlThjQgAtyuF49Ac [lmZkiYgSIICUVlThjQgAtyuF49Ac].md",
+          "key": "lmzkiygsiicuvlthjqgatyuf49ac",
+          "show": "纸醉金迷FM",
+          "title": "012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛",
+          "url": "/wiki/sources/lmzkiygsiicuvlthjqgatyuf49ac/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/chinesepaladin4/"
+    },
     "ChinesePremiumChocolateLocalization": {
       "episode_count": 1,
       "show_count": 1,
@@ -237186,9 +237202,9 @@
       "url": "/wiki/concepts/secretimperialinfantsuppression/"
     },
     "SectarianIdentityMoralMisclassification": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnTUoJJQrAZE_4zTx20ZEc3PfAav [lnTUoJJQrAZE_4zTx20ZEc3PfAav].md",
@@ -237196,6 +237212,13 @@
           "show": "纸醉金迷FM",
           "title": "014 正派高徒与魔教“妖女”|金庸《倚天》中存在感超强的几对配角",
           "url": "/wiki/sources/lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav/"
+        },
+        {
+          "episode_file": "lmZkiYgSIICUVlThjQgAtyuF49Ac [lmZkiYgSIICUVlThjQgAtyuF49Ac].md",
+          "key": "lmzkiygsiicuvlthjqgatyuf49ac",
+          "show": "纸醉金迷FM",
+          "title": "012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛",
+          "url": "/wiki/sources/lmzkiygsiicuvlthjqgatyuf49ac/"
         }
       ],
       "updated": "2026-10-12",
@@ -288038,6 +288061,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/xianlingqiang/"
+    },
+    "XianxiaHumanCenteredCultivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmZkiYgSIICUVlThjQgAtyuF49Ac [lmZkiYgSIICUVlThjQgAtyuF49Ac].md",
+          "key": "lmzkiygsiicuvlthjqgatyuf49ac",
+          "show": "纸醉金迷FM",
+          "title": "012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛",
+          "url": "/wiki/sources/lmzkiygsiicuvlthjqgatyuf49ac/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/xianxiahumancenteredcultivation/"
     },
     "XianyuFu": {
       "episode_count": 3,
