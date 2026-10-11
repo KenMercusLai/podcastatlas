@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [520. Warlords of the West: Barbarian Heirs of Rome (Part 1)](sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273.md) — The Rest Is History on Frankish Roman service, Clovis's conquest and conversion, Saint Martin's cult, and composite Merovingian legitimacy.
 - [042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》](sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t.md) — 纸醉金迷FM从复仇循环、父女关系、悲喜剧结局与代际记忆重读《烟雨濛濛》及其电视改编，并审慎回望琼瑶的人生与爱情观。
 - [VOL.143这两年这些“不正经”的医生做着正经的科普｜开播2周年特辑](sources/vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c.md) — 这病说来话长两周年复盘其非焦虑医学科普、听众共创、制作劳动、商业审查、公益披露与形式演进。
 - [521. Warlords of the West: Killer Queens (Part 2)](sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864.md) — The Rest Is History on Fredegund and Brunhilde's feud, Merovingian regency, dynastic violence, and Gregory of Tours's unequal framing.
@@ -4592,6 +4593,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [Clovis](entities/Clovis.md) — Frankish king who joined conquest, Roman recognition, orthodox baptism, and Saint Martin's cult into composite rule in Gaul.
+- [Saint Martin](entities/SaintMartin.md) — Soldier-turned-bishop whose ascetic charisma, relics, shrine, and cloak became durable sources of Frankish sacred prestige.
 - [Kelly Starrett](entities/KellyStarrett.md) — Physical therapist and movement educator who frames mobility, position, tissue care, and training as capacities for sport and daily life.
 - [琼瑶 / Qiong Yao](entities/QiongYao.md) — 以古典诗意、因果化言情叙事、女性角色和跨媒介自我改编塑造代际文化记忆的作家、编剧与制作人。
 - [《烟雨濛濛》 / Misty Rain](entities/YanYuMengMeng.md) — 以复仇迁移、父女关系和爱情反噬构成悲剧因果链的琼瑶早期小说。
@@ -17981,6 +17984,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Roman–Frankish–Christian Kingship](concepts/RomanFrankishChristianKingship.md) — Composite legitimacy joining Frankish military identity, Roman office, orthodox Christianity, episcopal cooperation, and saintly patronage.
 - [Daily Movement Exposure](concepts/DailyMovementExposure.md) — Embeds varied positions, floor transitions, play, and movement patterns into ordinary routines.
 - [Position Capacity Over Ideal Posture](concepts/PositionCapacityOverIdealPosture.md) — Judges posture by task fit, breathing, force transfer, control, and access to varied positions.
 - [Soft-Tissue Mobilization Window](concepts/SoftTissueMobilizationWindow.md) — Treats rolling and compression as temporary symptom or range changes that must transfer to purposeful movement.

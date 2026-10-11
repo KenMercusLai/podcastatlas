@@ -48773,6 +48773,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/cloudsegmentrevenuedisclosure/"
     },
+    "Clovis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4921093273 [GLT4921093273].md",
+          "key": "520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273",
+          "show": "The Rest Is History",
+          "title": "520. Warlords of the West: Barbarian Heirs of Rome (Part 1)",
+          "url": "/wiki/sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/clovis/"
+    },
     "ClubNationalTeamBoundaryBlur": {
       "episode_count": 1,
       "show_count": 1,
@@ -177757,9 +177773,9 @@
       "url": "/wiki/entities/merlin/"
     },
     "MerovingianDynasty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5104943454 [GLT5104943454].md",
@@ -177781,6 +177797,13 @@
           "show": "The Rest Is History",
           "title": "521. Warlords of the West: Killer Queens (Part 2)",
           "url": "/wiki/sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864/"
+        },
+        {
+          "episode_file": "GLT4921093273 [GLT4921093273].md",
+          "key": "520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273",
+          "show": "The Rest Is History",
+          "title": "520. Warlords of the West: Barbarian Heirs of Rome (Part 1)",
+          "url": "/wiki/sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273/"
         }
       ],
       "updated": "2026-10-11",
@@ -228654,6 +228677,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
     },
+    "RomanFrankishChristianKingship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4921093273 [GLT4921093273].md",
+          "key": "520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273",
+          "show": "The Rest Is History",
+          "title": "520. Warlords of the West: Barbarian Heirs of Rome (Part 1)",
+          "url": "/wiki/sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/romanfrankishchristiankingship/"
+    },
     "RomanHellenisticImperialSynthesis": {
       "episode_count": 1,
       "show_count": 1,
@@ -231316,6 +231355,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/saintmars/"
+    },
+    "SaintMartin": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT4921093273 [GLT4921093273].md",
+          "key": "520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273",
+          "show": "The Rest Is History",
+          "title": "520. Warlords of the West: Barbarian Heirs of Rome (Part 1)",
+          "url": "/wiki/sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273/"
+        },
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/saintmartin/"
     },
     "SaintNicholas": {
       "episode_count": 2,

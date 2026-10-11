@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10419
+wiki_total_pages: 10420
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "RomanticizedWarMoralAmbivalence"
     title: "Romanticized War Moral Ambivalence"
     url: "/wiki/concepts/romanticizedwarmoralambivalence/"
+  - key: "RomanFrankishChristianKingship"
+    title: "Roman–Frankish–Christian Kingship"
+    url: "/wiki/concepts/romanfrankishchristiankingship/"
   - key: "RoofscapeAttention"
     title: "Roofscape Attention"
     url: "/wiki/concepts/roofscapeattention/"
