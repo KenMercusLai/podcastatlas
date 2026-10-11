@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10338
+wiki_total_pages: 10340
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "HemorrhagicFeverRenalSyndromeEscalation"
     title: "Hemorrhagic Fever With Renal Syndrome Escalation"
     url: "/wiki/concepts/hemorrhagicfeverrenalsyndromeescalation/"
+  - key: "HemorrhoidSymptomLedTreatment"
+    title: "Hemorrhoid Symptom-Led Treatment / 痔疮症状导向治疗"
+    url: "/wiki/concepts/hemorrhoidsymptomledtreatment/"
   - key: "HengshanEconomicWarfare"
     title: "Hengshan Economic Warfare / 恒山之谋"
     url: "/wiki/concepts/hengshaneconomicwarfare/"

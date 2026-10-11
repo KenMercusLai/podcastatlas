@@ -9899,6 +9899,10 @@
     "title": "Anonymous Visitor Identification",
     "url": "/wiki/concepts/anonymousvisitoridentification/"
   },
+  "AnorectalPostoperativeCare": {
+    "title": "Anorectal Postoperative Care / 肛肠术后护理",
+    "url": "/wiki/concepts/anorectalpostoperativecare/"
+  },
   "AnorectalSensationAndCoordination": {
     "title": "Anorectal Sensation and Coordination",
     "url": "/wiki/concepts/anorectalsensationandcoordination/"
@@ -40250,6 +40254,10 @@
   "HemorrhagicFeverRenalSyndromeEscalation": {
     "title": "Hemorrhagic Fever With Renal Syndrome Escalation",
     "url": "/wiki/concepts/hemorrhagicfeverrenalsyndromeescalation/"
+  },
+  "HemorrhoidSymptomLedTreatment": {
+    "title": "Hemorrhoid Symptom-Led Treatment / 痔疮症状导向治疗",
+    "url": "/wiki/concepts/hemorrhoidsymptomledtreatment/"
   },
   "HenanCommanderyChuHan": {
     "title": "河南郡 / Henan Commandery (Chu-Han)",
@@ -83491,6 +83499,10 @@
     "title": "谭嗣同 / Tan Sitong",
     "url": "/wiki/entities/tansitong/"
   },
+  "TanSiweiAnorectalDoctor": {
+    "title": "谭思维 / Tan Siwei",
+    "url": "/wiki/entities/tansiweianorectaldoctor/"
+  },
   "TanYingNeurologist": {
     "title": "谭颖 / Tan Ying",
     "url": "/wiki/entities/tanyingneurologist/"
@@ -105106,6 +105118,10 @@
   "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn": {
     "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
     "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+  },
+  "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n": {
+    "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+    "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
   },
   "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1": {
     "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",

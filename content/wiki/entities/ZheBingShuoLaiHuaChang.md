@@ -40,7 +40,8 @@ sources:
   - vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr
   - vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk
   - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
-last_updated: 2026-10-05
+  - vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -106,8 +107,10 @@ VOL.131 adds a cross-specialty medical-question branch through radiology, anesth
 
 VOL.200 adds a self-reflective listener-question branch. [[Atang|阿汤]] and recurring guests connect [[ClinicalProcedureSkillAcquisition]], [[AnimalExperimentEthics]], outpatient queue limits, [[IntensiveCareAsTimeBuying]], [[ClinicalOutcomeUncertainty]], [[ChronicDiseaseTreatmentAdherence]], infection-control habits, and [[ClinicianPublicEducationPractice]]. The episode treats the show's own impact as selected feedback and professional reflection rather than as measured clinical effectiveness.
 
+VOL.165 adds an anorectal-health and recovery branch through [[TanSiweiAnorectalDoctor|谭思维]]. It distinguishes common hemorrhoidal anatomy from symptomatic disease, keeps recurrent bleeding inside differential assessment, and links conservative care, procedure choice, continence preservation, wound burden, work constraints, hygiene, stool consistency, pain, bleeding, and infection escalation through [[HemorrhoidSymptomLedTreatment]] and [[AnorectalPostoperativeCare]].
+
 ## Key Characteristics
-- Uses specialist guests to explain rheumatology, autoimmune disease, intensive care, medical imaging, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
+- Uses specialist guests to explain rheumatology, autoimmune disease, intensive care, medical imaging, nutrition, neuroscience, female and male urology, anorectal health, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
 - Keeps advanced medical technology, exercise equipment, headphones, eye drops, self-care routines, supplements, special-use foods, GLP-1 medicines, CGM, PSA and imaging findings, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
 - Turns common anxieties into practical questions about interpretation, follow-up, food choices, product claims, training load, headphone use, music use, urinary symptoms, self-observation, evidence, and escalation.
@@ -142,14 +145,17 @@ VOL.200 adds a self-reflective listener-question branch. [[Atang|阿汤]] and re
 - Lupus and chronic-illness management: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] connects autoimmune mechanism, variable organ involvement, clinical remission, treatment adherence, adverse-effect communication, sun protection, ICU coordination, information quality, and patient-defined quality of life.
 - Reflective clinical training and public education: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] connects animal ethics, procedural learning, hospital process, reversibility-based rescue, chronic review, hygiene, clinician preparation, and selected listener feedback.
 - Oral health and dental consumer literacy: [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh]] connects life-course prevention, plaque control, tooth-repair claims, whitening, provider credentials, airway development, orthodontic retention, and periodontal escalation to qualified care.
+- Anorectal health and postoperative care: [[vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n|VOL.165]] distinguishes common tissue from symptomatic hemorrhoid disease, keeps recurrent bleeding inside assessment, and links function-preserving treatment to hygiene, soft stool, activity, pain, bleeding, and infection follow-up.
 
 ## Qualifications
-The page is based only on thirty-seven ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes and selected listener feedback are public education or personal experience, not individualized training, research-ethics, prognostic, end-of-life, infection-control, rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, MRI compatibility, ultrasound, image-guided procedure, sleep-medicine, respiratory, asthma, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, dietetics, vitamin or mineral dosing, diabetes, obesity, fatty-liver, dermatology, ophthalmology, oral-health, dentistry, oral-surgery, orthodontics, periodontal care, tooth whitening, airway surgery, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, lactation, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, neurosurgery, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on thirty-eight ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes and selected listener feedback are public education or personal experience, not individualized training, research-ethics, prognostic, end-of-life, infection-control, rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, MRI compatibility, ultrasound, image-guided procedure, sleep-medicine, respiratory, asthma, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, dietetics, vitamin or mineral dosing, diabetes, obesity, fatty-liver, dermatology, ophthalmology, oral-health, dentistry, oral-surgery, anorectal-surgery, orthodontics, periodontal care, tooth whitening, airway surgery, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, lactation, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, neurosurgery, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
 - Added the VOL.200 listener-question and self-reflection branch.
 - Connected clinical training, ICU benefit, chronic review, and public-education practice in one bounded synthesis.
 - Preserved selected listener outcomes as feedback rather than program-effect evidence.
+- Added symptom-led anorectal treatment and postoperative-care boundaries from VOL.165.
+- Added continence preservation, work constraints, and complication routing to the show's surgery branch.
 
 ## Relationships
 - [[DongRheumatologyDoctor]] - source-scoped rheumatology guest in VOL.138.
@@ -163,6 +169,9 @@ The page is based only on thirty-seven ingested episode notes. It should not be 
 - [[ScreeningResultInterpretation]] - contextual report-reading framework developed by the show.
 - [[AbnormalFindingFollowupContinuity]] - surveillance-continuity principle developed by the show.
 - [[Atang]] - recurring host voice in the ingested episodes.
+- [[TanSiweiAnorectalDoctor]] - anorectal clinician guest in VOL.165.
+- [[HemorrhoidSymptomLedTreatment]] - symptom-led anorectal treatment framework developed by the show.
+- [[AnorectalPostoperativeCare]] - postoperative hygiene, stool, activity, pain, and escalation framework developed by the show.
 - [[LinglongtaMenshibu]] - comedy-podcast collaborator in VOL.116.
 - [[HeSiqiTianjinNormalRadio]] - campus-radio participant who originated the “笑不活” topic.
 - [[WuBinOralDoctor]] - oral clinician explaining jaw-dislocation triggers and escalation.

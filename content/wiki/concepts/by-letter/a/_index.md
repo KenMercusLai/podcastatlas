@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10338
+wiki_total_pages: 10340
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2246,6 +2246,9 @@ wiki_pages:
   - key: "AnonymousVisitorIdentification"
     title: "Anonymous Visitor Identification"
     url: "/wiki/concepts/anonymousvisitoridentification/"
+  - key: "AnorectalPostoperativeCare"
+    title: "Anorectal Postoperative Care / 肛肠术后护理"
+    url: "/wiki/concepts/anorectalpostoperativecare/"
   - key: "AnorectalSensationAndCoordination"
     title: "Anorectal Sensation and Coordination"
     url: "/wiki/concepts/anorectalsensationandcoordination/"

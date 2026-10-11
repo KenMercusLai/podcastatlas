@@ -24,7 +24,8 @@ sources:
   - vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb
   - vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr
   - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
-last_updated: 2026-10-05
+  - vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -68,8 +69,10 @@ VOL.157 adds a neurology and headache branch. 阿汤 starts from the naming-base
 
 VOL.156 adds a liver-health branch. 阿汤 starts from the “silent organ” framing and familiar concerns about fatty liver, late nights, takeout, alcohol, vegetarian diets, exercise, protein powder, coffee, supplements, and liver-protection products, then asks [[JiangYuliangDoctor|蒋宇亮]] to separate [[SilentLiverDamageDetection|testing from pain]], [[FattyLiverCauseDirectedManagement|cause review from panic]], [[HerbalSupplementLiverToxicity|product naturalness from safety]], and [[AlcoholLiverHarmBoundary|discomfort reduction from liver protection]].
 
+VOL.165 adds an anorectal-health branch. 阿汤 turns embarrassment and the “十人九痔” slogan into practical questions for [[TanSiweiAnorectalDoctor|谭思维]] about common tissue versus symptomatic disease, bleeding assessment, fissure and fistula, conservative care, procedure burden, return-to-work constraints, wound cleaning, stool consistency, pain, and postoperative escalation.
+
 ## Key Characteristics
-- Hosts specialist medical, health-literacy, otolaryngology, speech-language rehabilitation, cardiovascular, sports-medicine, medical-aesthetic, and mental-health conversations for lay listeners.
+- Hosts specialist medical, health-literacy, anorectal-health, otolaryngology, speech-language rehabilitation, cardiovascular, sports-medicine, medical-aesthetic, and mental-health conversations for lay listeners.
 - Translates clinician reasoning, consumer-health claims, supplement questions, and device habits into patient questions, product-use questions, training questions, workplace questions, and follow-up actions.
 - Frames uncertainty, hype, anxiety, coercion, pain, or "智商税" claims as practical boundary problems rather than simple blame contests.
 - Uses personal, media, audio-editing, earphone, gym, and everyday examples to make abstract clinical or social distinctions concrete.
@@ -95,16 +98,22 @@ VOL.156 adds a liver-health branch. 阿汤 starts from the “silent organ” fr
 - Liver-health framing: [[vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb]] has him turn fatty-liver findings, transaminases, alcohol rituals, late nights, vegetarian eating, training, supplements, coffee, prepared food, and treatment advertising into questions about causes, monitoring, lifestyle, and qualified care.
 - Laughter-risk and humor framing: [[vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr|VOL.116]] has him connect clinical explanations of laughter-related triggers to crosstalk, Tianjin “乐呵,” adult joy, podcast discovery, and the explicit boundary that laughter itself is not the underlying disease.
 - Reflective medical-literacy framing: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] has 阿汤 organize listener questions across training, hospital systems, ICU judgment, chronic care, hygiene, and public-education impact.
+- Anorectal-health framing: [[vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n|VOL.165]] has 阿汤 move from embarrassment, visible blood, and surgery fear into symptom-led assessment, function-preserving treatment, recovery burden, and complication routing.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes and selected listener feedback are public education and discussion, not individualized medical, training, ethics, prognostic, end-of-life, infection-control, hepatology, fatty-liver, alcohol, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, neurosurgery, respiratory care, oral surgery, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
+The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes and selected listener feedback are public education and discussion, not individualized medical, training, ethics, prognostic, end-of-life, infection-control, hepatology, fatty-liver, alcohol, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, neurosurgery, respiratory care, anorectal surgery, postoperative care, oral surgery, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
 
 ## What Changed
 - Added the listener-question roundtable and explicit reflection on clinician public-education practice.
 - Extended his boundary-setting from topic translation into feedback and impact claims.
+- Added anorectal symptom, procedure, and recovery questions from VOL.165.
+- Extended his recovery framing to work constraints, stool management, bleeding, and infection escalation.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as host.
+- [[TanSiweiAnorectalDoctor]] - anorectal clinician he interviews in VOL.165.
+- [[HemorrhoidSymptomLedTreatment]] - symptom-led treatment boundary he prompts through common listener concerns.
+- [[AnorectalPostoperativeCare]] - recovery and complication-routing framework he asks the guest to explain.
 - [[LinglongtaMenshibu]] - comedy-podcast collaborator in VOL.116.
 - [[LaughterTriggeredHealthRisk]] - trigger-versus-vulnerability framework he asks multiple clinicians to explain.
 - [[EverydayHumorEmotionRegulation]] - cultural and everyday-value branch he develops after the medical discussion.

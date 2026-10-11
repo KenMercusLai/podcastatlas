@@ -16494,10 +16494,26 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/anonymousslanderretaliation/"
     },
-    "AnorectalSensationAndCoordination": {
+    "AnorectalPostoperativeCare": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/anorectalpostoperativecare/"
+    },
+    "AnorectalSensationAndCoordination": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
@@ -16505,9 +16521,16 @@
           "show": "这病说来话长",
           "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
           "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
+        },
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/anorectalsensationandcoordination/"
     },
     "AnorexiaHabitRewardDysregulation": {
@@ -20236,9 +20259,9 @@
       "url": "/wiki/concepts/atahualparansomandexecution/"
     },
     "Atang": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -20386,9 +20409,16 @@
           "show": "这病说来话长",
           "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
           "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        },
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/atang/"
     },
     "Atenism": {
@@ -30684,9 +30714,9 @@
       "url": "/wiki/entities/bowangslopebattlelatehan/"
     },
     "BowelSymptomTriage": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -30729,9 +30759,16 @@
           "show": "这病说来话长",
           "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
           "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
+        },
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/bowelsymptomtriage/"
     },
     "BowuzhiPodcast": {
@@ -115486,6 +115523,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/hemorrhagicfeverrenalsyndromeescalation/"
+    },
+    "HemorrhoidSymptomLedTreatment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/hemorrhoidsymptomledtreatment/"
     },
     "HenanFC": {
       "episode_count": 1,
@@ -251687,6 +251740,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tansitong/"
     },
+    "TanSiweiAnorectalDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/tansiweianorectaldoctor/"
+    },
     "TanYingNeurologist": {
       "episode_count": 1,
       "show_count": 1,
@@ -292759,9 +292828,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 37,
+      "episode_count": 38,
       "show_count": 1,
-      "source_note_count": 37,
+      "source_note_count": 38,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -293021,9 +293090,16 @@
           "show": "这病说来话长",
           "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
           "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        },
+        {
+          "episode_file": "lvaFpNa-9xuyTdTUonNOHMA75V_N [lvaFpNa-9xuyTdTUonNOHMA75V_N].md",
+          "key": "vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n",
+          "show": "这病说来话长",
+          "title": "VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相",
+          "url": "/wiki/sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZheguShao": {

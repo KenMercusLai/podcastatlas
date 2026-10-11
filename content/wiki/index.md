@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相](sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n.md) — 这病说来话长 episode with 谭思维 on hemorrhoid symptom thresholds, anorectal bleeding, fissure and fistula, treatment tradeoffs, and postoperative care.
 - [571. Hannibal: Roman Bloodbath at Cannae (Part 4)](sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695.md) — The Rest Is History episode on Cannae's supply-and-terrain setup, Roman mass, staged center withdrawal, cavalry-led double envelopment, physical horror, and incomplete strategic result.
 - [Essentials: Improving Health With Stronger Brain-Body Connection](sources/scim9382980793-scim9382980793.md) — Condensed Huberman Lab episode on interoception, branch-specific vagal signaling, breathing, gut sensing, fermented-food evidence, and clinical boundaries around nausea and fever.
 - [572. The Medici: Masters of Florence (Part 1)](sources/572-the-medici-masters-of-florence-part-1-glt1413065864.md) — The Rest Is History on Cosimo's banking network, exile and return, managed republican rule, Sforza alliance, patronage, and the tension between prosperity and liberty.
@@ -4520,6 +4521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [谭思维 / Tan Siwei](entities/TanSiweiAnorectalDoctor.md) — Anorectal clinician explaining symptom-led hemorrhoid care, function-preserving procedures, and recovery boundaries.
 - [Cosimo de' Medici](entities/CosimoDeMedici.md) — Banker and patron who made Medici power durable through credit, clients, controlled republican institutions, diplomacy, and cultural sponsorship.
 - [《精绝古城》 / The Ancient City of Jingjue](entities/JingjueAncientCityGhostBlowsOutTheLight.md) — 《鬼吹灯》首部探险，以沙漠求生、分层遗迹、真假预言和鬼洞诅咒建立铁三角及系列谜团。
 - [Piero the Gouty](entities/PieroTheGouty.md) — Lorenzo's father, who preserved informal Medici succession while confronting bank overextension and elite opposition.
@@ -17780,6 +17782,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Hemorrhoid Symptom-Led Treatment / 痔疮症状导向治疗](concepts/HemorrhoidSymptomLedTreatment.md) — Framework matching common hemorrhoidal anatomy and symptoms to assessment, conservative care, procedure tradeoffs, and recurrence limits.
+- [Anorectal Postoperative Care / 肛肠术后护理](concepts/AnorectalPostoperativeCare.md) — Recovery framework coordinating hygiene, stool consistency, activity, pain, bleeding, and infection escalation after anorectal surgery.
 - [Moist Wound Healing and Hydrocolloid Dressings / 湿性愈合与水胶体敷料](concepts/MoistWoundHealingHydrocolloidDressing.md) — Minor-wound framework separating protected therapeutic moisture and hydrocolloid gel formation from contamination, infection, and wounds requiring qualified care.
 - [Pazzi Conspiracy](concepts/PazziConspiracy.md) — 1478 dual assassination and coup attempt whose failure strengthened Lorenzo and widened into papal-Neapolitan war.
 - [Political Magnificence and Structural Fragility](concepts/PoliticalMagnificenceStructuralFragility.md) — How prosperity, culture, display, and personalized control can create value and legitimacy while coercion, finance, and institutions weaken beneath them.

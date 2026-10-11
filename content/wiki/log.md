@@ -35459,3 +35459,10 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-11] ingest | VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相
+
+Added source `vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n`; created [[TanSiweiAnorectalDoctor|谭思维]], [[HemorrhoidSymptomLedTreatment]], and [[AnorectalPostoperativeCare]]; and resynthesized [[Atang|阿汤]], [[ZheBingShuoLaiHuaChang|这病说来话长]], [[BowelSymptomTriage]], and [[AnorectalSensationAndCoordination]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: common hemorrhoidal tissue is distinct from symptomatic disease; recurrent bleeding still needs differential assessment; treatment should match symptoms, anatomy, continence, preferences, and recovery burden; and postoperative outcomes depend on hygiene, soft formed stool, pressure management, analgesia, and timely escalation. No settled contradiction was adopted. Recurrence, healing timelines, procedure comparisons, day-by-day bowel measures, bleeding-pressure timing, dressing claims, and exercise dosage remain source-scoped public education rather than individualized care. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,440 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

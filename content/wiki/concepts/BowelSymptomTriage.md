@@ -9,7 +9,8 @@ sources:
   - vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do
   - vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy
   - vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n
-last_updated: 2026-10-10
+  - vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ The IBD episode adds a disease-specific contrast without turning it into a home 
 Self-care also differs by direction of change. Delaying defecation can permit further water absorption and harder stool, while substantial or repeated diarrhea can deplete water and electrolytes. Hydration, clinically appropriate oral rehydration, movement, and regular toileting may support ordinary cases, but failure to improve or the appearance of warning signs shifts the task from self-care to assessment.
 
 VOL.179 adds a stool-form and color layer. Bristol-style form categories can make observation more concrete, but they still require context: hard pellets can align with constipation and slow transit, while mushy or watery stool can align with diarrhea and reduced water reabsorption. Black tarry stool, fresh blood, or pale clay-colored stool are treated as escalation clues for possible bleeding or impaired bile flow, not as home diagnoses. The same source links infectious diarrhea to mucosal injury and possible electrolyte disturbance while keeping fast transit, stress, irritable-bowel patterns, and lactose intolerance as non-exclusive possibilities.
+
+VOL.165 sharpens the anorectal branch without weakening the broader safety boundary. Painless bright-red blood can occur with internal hemorrhoids, and fissure or distal polyps can also produce fresh blood, but color and pain do not establish the source. Recurrent bleeding, prolapse, pain, soiling, or bowel symptoms should therefore be assessed even when hemorrhoids seem likely or symptoms have temporarily settled.
 
 ## Key Claims
 - Bowel symptoms are often indirect, so pattern, persistence, and change from one's own baseline matter more than a single episode or universal frequency rule.
@@ -48,6 +51,7 @@ VOL.179 adds a stool-form and color layer. Bristol-style form categories can mak
 - Constipation and diarrhea self-care: [[vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do]] links delayed defecation to drier stool and repeated diarrhea to water and electrolyte loss, while placing substantial cases inside clinical assessment.
 - Hemorrhoid boundary: [[vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy]] contrasts fresh blood after stool with darker blood mixed through stool but uses both as clues, not exclusions, and warns against leaving persistent bleeding unevaluated.
 - Stool form, color, and hydration: [[vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n]] uses Bristol-style form, black tarry stool, fresh blood, pale stool, and watery diarrhea to route constipation, bleeding, bile-flow, and dehydration concerns without treating appearance as diagnosis.
+- Anorectal bleeding boundary: [[vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n]] explains why internal hemorrhoidal bleeding may be painless and bright red while still requiring differential assessment when recurrent or accompanied by prolapse, pain, soiling, or other bowel symptoms.
 
 ## Counterevidence & Qualifications
 The episodes are public education, not symptom checkers. Blood or stool color, timing, shape, smell, or mixing pattern cannot safely rule a cause in or out, and known hemorrhoids or absent blood do not exclude colorectal disease or Crohn's disease. Frequency definitions and probiotic, temperature, hydration, cold-stimulus, or motility explanations do not establish a home diagnosis. Oral rehydration needs and urgency vary with severity and health context. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
@@ -56,6 +60,8 @@ The episodes are public education, not symptom checkers. Blood or stool color, t
 - Added Bristol-style stool-form observation without turning categories into diagnoses.
 - Strengthened escalation around black tarry, fresh bloody, and pale clay-colored stool.
 - Added infection, fast transit, water reabsorption, and electrolyte-loss context for watery diarrhea.
+- Clarified that painless bright-red blood can fit internal hemorrhoids without proving the source.
+- Added recurrent anorectal bleeding, prolapse, pain, and soiling as assessment triggers.
 
 ## Related Concepts
 - [[IrritableBowelSyndromeDiagnosticBoundary]] - functional-diagnosis boundary that depends on excluding organic disease.
@@ -66,3 +72,5 @@ The episodes are public education, not symptom checkers. Blood or stool color, t
 - [[FlatulenceAsHealthSignal]] - gas, motility, food, and microbiome context adjacent to bowel triage.
 - [[AnorectalSensationAndCoordination]] - discrimination and control mechanism that can change with diarrhea, infection, aging, or pelvic-floor dysfunction.
 - [[ProbioticUseBoundary]] - context-dependent product boundary adjacent to infection- and antibiotic-related bowel disruption.
+- [[HemorrhoidSymptomLedTreatment]] - symptom-led anorectal framework that begins only after bleeding and related symptoms receive proportionate assessment.
+- [[AnorectalPostoperativeCare]] - postoperative branch for stool, bleeding, wound, and infection monitoring.
