@@ -5888,6 +5888,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/abdalmalik/"
     },
+    "AbdAlRahmanAlGhafiqi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/abdalrahmanalghafiqi/"
+    },
     "AbdAlRahmanIII": {
       "episode_count": 1,
       "show_count": 1,
@@ -18719,9 +18735,9 @@
       "url": "/wiki/concepts/apprenticeshipbeforeoriginality/"
     },
     "Aquitaine": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -18736,9 +18752,16 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/aquitaine/"
     },
     "ArabianNights": {
@@ -26314,6 +26337,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/battleofthermopylae/"
+    },
+    "BattleOfTours": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/battleoftours/"
     },
     "BattleOfTrafalgar": {
       "episode_count": 4,
@@ -41273,9 +41312,9 @@
       "url": "/wiki/entities/charleslyell/"
     },
     "CharlesMartel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5104943454 [GLT5104943454].md",
@@ -41283,6 +41322,13 @@
           "show": "The Rest Is History",
           "title": "523. Charlemagne: Return of the Kings (Part 1)",
           "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
+        },
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
         }
       ],
       "updated": "2026-10-11",
@@ -177518,9 +177564,9 @@
       "url": "/wiki/entities/merlin/"
     },
     "MerovingianDynasty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5104943454 [GLT5104943454].md",
@@ -177528,6 +177574,13 @@
           "show": "The Rest Is History",
           "title": "523. Charlemagne: Return of the Kings (Part 1)",
           "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
+        },
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
         }
       ],
       "updated": "2026-10-11",
@@ -193411,6 +193464,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/odin/"
+    },
+    "OdoOfAquitaine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/odoofaquitaine/"
     },
     "Odoacer": {
       "episode_count": 1,
@@ -267965,9 +268034,9 @@
       "url": "/wiki/entities/ulyssessgrant/"
     },
     "UmayyadCaliphate": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9529602805 [GLT9529602805].md",
@@ -267989,9 +268058,16 @@
           "show": "The Rest Is History",
           "title": "265: Saudi Arabia: The Mystery of the Kaaba",
           "url": "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
+        },
+        {
+          "episode_file": "GLT3154320009 [GLT3154320009].md",
+          "key": "522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009",
+          "show": "The Rest Is History",
+          "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
+          "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/umayyadcaliphate/"
     },
     "UnapprovedMedicalAestheticProducts": {

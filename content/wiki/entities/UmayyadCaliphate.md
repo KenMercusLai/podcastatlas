@@ -6,7 +6,8 @@ sources:
   - 376-baghdad-the-forging-of-islam-part-1-glt9529602805
   - 281-spain-the-caliphate-of-cordoba-glt2203638069
   - 265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434
-last_updated: 2026-09-30
+  - 522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,9 @@ The Umayyad Caliphate appears as the Damascus-centered Arab imperial dynasty who
 
 ## Current Profile
 
-The source presents Umayyad power as initially reinforced by conquest. By the early eighth century Arab armies ruled from the Atlantic to Central Asia, but defeats and failed sieges weakened the claim that continuing victory demonstrated divine favor.
+The sources present Umayyad power as initially reinforced by conquest. The 711 crossing into Iberia involved a largely Berber force operating within Umayyad expansion, followed by Visigothic collapse, major plunder, and an [[AlAndalus|Iberian]] base from which armies crossed the Pyrenees, took Narbonne, and campaigned into Gaul. The [[BattleOfTours]] source resists calling every northern movement either a pure raid or a coherent plan to conquer Europe: plunder, frontier opportunity, factional intervention, religious symbolism, and possible territorial expansion could coexist.
+
+By the early eighth century Umayyad armies ruled from the Atlantic to Central Asia, but defeats and failed sieges weakened the claim that continuing victory demonstrated divine favor. Tours killed [[AbdAlRahmanAlGhafiqi|Abd al-Rahman al-Ghafiqi]] and strengthened [[CharlesMartel]], yet it did not permanently end incursions; the source notes a later campaign reaching Burgundy in 739. Western limits also interacted with Berber troop tensions and the eastern crises that culminated in Abbasid overthrow.
 
 The dynasty also governed an empire whose population remained largely Christian, Jewish, Zoroastrian, or otherwise non-Muslim. Its attempts to preserve Arab fiscal and social privilege made conversion difficult for some non-Arabs and produced [[MawaliConversionHierarchy|mawali hierarchy]]. In Iraq, [[Kharijites|Kharijite]] rebellion, [[AlidLegitimacy|Alid claims]], and scholar-led appeals to Quranic justice turned political opposition into religious criticism.
 
@@ -30,7 +33,7 @@ The Iberian sequel complicates terminal-collapse language. [[281-spain-the-calip
 
 ## Key Characteristics
 
-- Damascus-centered Arab dynasty ruling a vast, religiously diverse empire.
+- Damascus-centered Arab dynasty ruling a vast, religiously diverse empire through regionally mixed forces that included substantial Berber participation in the west.
 - Political legitimacy strongly associated with conquest and perceived divine favor.
 - Social and fiscal preference for Arab Muslims over many non-Arab converts.
 - Repeated opposition from Kharijite, Alid, Iraqi, and scholarly currents.
@@ -41,6 +44,8 @@ The Iberian sequel complicates terminal-collapse language. [[281-spain-the-calip
 ## Evidence
 
 - **Imperial reach and military legitimacy:** [[376-baghdad-the-forging-of-islam-part-1-glt9529602805]] links conquest to authority and later reverses to declining prestige.
+- **Iberian conquest and Gaul:** [[281-spain-the-caliphate-of-cordoba-glt2203638069]] describes the 711 conquest as Umayyad, plunder-oriented, and largely Berber; [[522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009]] follows expansion through Narbonne, Aquitaine, and Tours.
+- **Mixed campaign logic:** [[522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009]] connects Abd al-Rahman's campaign to faction, plunder, shrine prestige, and imperial opportunity while rejecting a demonstrated master plan to conquer Europe.
 - **Diverse and unequal rule:** [[376-baghdad-the-forging-of-islam-part-1-glt9529602805]] describes a mostly non-Muslim population, jizya, constrained conversion, Arab patronage, and returned peasant converts.
 - **Religious-political opposition:** [[376-baghdad-the-forging-of-islam-part-1-glt9529602805]] connects Kharijite and Alid rebellion with juristic criticism of wealth and injustice.
 - **Sanctuary and consolidation:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] connects Umayyad conflict with Ibn al-Zubayr to the Kaaba's destruction, reconstruction, and contested political meaning.
@@ -49,13 +54,15 @@ The Iberian sequel complicates terminal-collapse language. [[281-spain-the-calip
 
 ## Qualifications
 
-The current profile rests on three narrative episodes and compresses a long dynasty, major regional differences, and disputed chronologies. It should not imply that Umayyad policy was uniform, that non-Muslim life was unchanged or uniformly tolerated, or that one cause explains the dynasty's fall. The exact reconstruction sequence at the Kaaba and Abd al-Malik's role in fixing Mecca's centrality remain contested. The Cordoban branch preserved dynastic legitimacy but was not institutional continuity with the former Damascus empire in every respect.
+The current profile rests on four narrative episodes and compresses a long dynasty, major regional differences, and disputed chronologies. It should not imply that Umayyad policy, army composition, religious commitment, or frontier objectives were uniform, that non-Muslim life was unchanged or uniformly tolerated, or that one cause explains the dynasty's fall. Tours's date, force composition, strategic intent, military reconstruction, and counterfactual consequences remain disputed. The exact reconstruction sequence at the Kaaba and Abd al-Malik's role in fixing Mecca's centrality also remain contested. The Cordoban branch preserved dynastic legitimacy but was not institutional continuity with the former Damascus empire in every respect.
 
 ## What Changed
 
 - Established military reversal, sectarian opposition, conversion inequality, and scholarly criticism as interacting sources of late Umayyad weakness.
 - Added the Iberian survival and later Cordoban revival of Umayyad dynastic authority.
 - Added the earlier Meccan sanctuary conflict as a qualified case of imperial and religious legitimation.
+- Added Iberian and Gallic expansion as a Berber-heavy frontier where plunder, faction, sacred prestige, and territorial possibility overlapped.
+- Qualified Tours as a consequential western defeat rather than either a final end to incursions or proof of a plan to conquer all Europe.
 
 ## Relationships
 
@@ -70,3 +77,5 @@ The current profile rests on three narrative episodes and compresses a long dyna
 - [[AbdAlRahmanIII]] - ruler who turned the Cordoban emirate into a caliphate.
 - [[AbdAlMalik]] - caliph who defeated Ibn al-Zubayr and consolidated Umayyad authority.
 - [[SacredSitePoliticalLegitimacy]] - framework connecting sanctuary stewardship to rightful rule.
+- [[AbdAlRahmanAlGhafiqi]] - western governor killed during the campaign against Charles Martel.
+- [[BattleOfTours]] - western defeat with bounded military and dynastic consequences.

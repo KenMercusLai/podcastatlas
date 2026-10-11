@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10411
+wiki_total_pages: 10412
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "BattleOfThermopylae"
     title: "Battle of Thermopylae"
     url: "/wiki/concepts/battleofthermopylae/"
+  - key: "BattleOfTours"
+    title: "Battle of Tours"
+    url: "/wiki/concepts/battleoftours/"
   - key: "BattleOfWakefield"
     title: "Battle of Wakefield"
     url: "/wiki/concepts/battleofwakefield/"

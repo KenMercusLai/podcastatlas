@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13312
+wiki_total_pages: 13314
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "AbdAlMalik"
     title: "Abd al-Malik"
     url: "/wiki/entities/abdalmalik/"
+  - key: "AbdAlRahmanAlGhafiqi"
+    title: "Abd al-Rahman al-Ghafiqi"
+    url: "/wiki/entities/abdalrahmanalghafiqi/"
   - key: "AbdAlRahmanIII"
     title: "Abd al-Rahman III"
     url: "/wiki/entities/abdalrahmaniii/"
