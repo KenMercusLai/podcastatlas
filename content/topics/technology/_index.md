@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3463
+topic_total_pages: 3464
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4456,6 +4456,9 @@ topic_concepts:
   - key: "TechnologicalResponsibilityRadius"
     title: "Technological Responsibility Radius / 技术责任半径"
     url: "/wiki/concepts/technologicalresponsibilityradius/"
+  - key: "TechnologizedSalvation"
+    title: "Technologized Salvation / 技术化救赎"
+    url: "/wiki/concepts/technologizedsalvation/"
   - key: "TechnologyAmbivalenceFireSignal"
     title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
     url: "/wiki/concepts/technologyambivalencefiresignal/"

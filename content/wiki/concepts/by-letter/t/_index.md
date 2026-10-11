@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10350
+wiki_total_pages: 10351
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "TechnologicalResponsibilityRadius"
     title: "Technological Responsibility Radius / 技术责任半径"
     url: "/wiki/concepts/technologicalresponsibilityradius/"
+  - key: "TechnologizedSalvation"
+    title: "Technologized Salvation / 技术化救赎"
+    url: "/wiki/concepts/technologizedsalvation/"
   - key: "TechnologyAmbivalenceFireSignal"
     title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
     url: "/wiki/concepts/technologyambivalencefiresignal/"

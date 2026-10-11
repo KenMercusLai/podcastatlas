@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13223
+wiki_total_pages: 13224
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "HairBook"
     title: "《头发》 / Hair"
     url: "/wiki/entities/hairbook/"
+  - key: "HairNiKuangNovel"
+    title: "《头发》 / Hair (Ni Kuang novel)"
+    url: "/wiki/entities/hairnikuangnovel/"
   - key: "HowToBeAnImperfectionist"
     title: "《如何成为不完美主义者》 / How to Be an Imperfectionist"
     url: "/wiki/entities/howtobeanimperfectionist/"

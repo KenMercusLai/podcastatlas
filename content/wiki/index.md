@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [053 科幻外衣下的社会寓言｜大话卫斯理之《头发》](sources/ljbtvkfckw2lb-nykriz05lq35wz.md) — 纸醉金迷FM重读倪匡《头发》，讨论外星流放、宗教使者、意识转移、永生欲望及创造者审判被创造者的伦理矛盾。
 - [054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情](sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t.md) — 纸醉金迷FM比较1987年《倩女幽魂》与《聂小倩》及其他改编，讨论角色表演、悲剧爱情、鬼魅视觉、音乐、人物逻辑和程小东—徐克创作分工。
 - [055 最后一剑，风情无限：长期被忽视的金庸杰作《越女剑》](sources/055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe.md) — 纸醉金迷FM以阿青的延迟登场、武功虚写、三层感情与“西子捧心”重读《越女剑》，并在自然、政治和历史记忆之间保留多种解释。
 - [058 无人不冤，有情皆孽：段誉才是《天龙八部》第一主角？](sources/058-wuren-buyuan-youqing-jienie-duanyu-caishi-tianlongbabu-diyi-zhujue-lmwnsc-ey8o7ysczh0qynwypqyqp.md) — 纸醉金迷FM以段誉的原则、变通、儒释道交汇和叙事桥梁功能重读其主角地位，并比较钟灵、木婉清、王语嫣及新修版的爱情投射与人物争议。
@@ -4578,7 +4579,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏宇珍 / Wei Yuzhen](entities/WeiYuzhenNeurologist.md) — Beijing Tiantan neuroimmunology physician connecting pretreatment screening, individualized therapy, monitoring, and escalation.
 - [北京天坛医院 / Beijing Tiantan Hospital](entities/BeijingTiantanHospital.md) — Episode-stated affiliation for Wei Yuzhen's myasthenia-gravis public education.
 - [《不死药》 / The Immortality Drug](entities/BuSiYaoNovel.md) — 倪匡卫斯理小说，以身份反转和依赖型抗衰老药物连接悬疑、垄断与永生代价。
-- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》中既推动追查，也因判断失误成为药物依赖者。
+- [《头发》 / Hair (Ni Kuang novel)](entities/HairNiKuangNovel.md) — 倪匡卫斯理小说，以失效的头发接口、宗教使者和意识转移讨论人类起源、救赎与创造者责任。
+- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》与《头发》中以涉险、犯错和跨越边界把永生或救赎问题变成亲身经验。
 - [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
 - [Irish War of Independence](entities/IrishWarOfIndependence.md) — Armed, electoral, institutional, and social struggle that escalated from counter-state formation into stalemate, truce, and treaty negotiation.
 - [Dáil Éireann](entities/DailEireann.md) — Elected republican assembly whose courts, ministries, finance, and diplomacy competed with British authority during the War of Independence.
@@ -17822,6 +17824,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Technologized Salvation / 技术化救赎](concepts/TechnologizedSalvation.md) — 科幻叙事把灵魂、转世、启示、审判和天堂转译为信息、筛选与运输机制，同时暴露操作者的合法性问题。
 - [Tragic Adaptation Reframing / 悲剧性改编重构](concepts/TragicAdaptationReframing.md) — 将团圆或延续结局改为不可逆分离，从而重组爱情伦理与情感强度。
 - [Fantasy Character Logic / 奇幻叙事中的人物逻辑](concepts/FantasyCharacterLogic.md) — 即使物理规则虚构，人物选择仍须符合既有知识、价值、关系和能力。
 - [Wuxia Indirect Characterization / 武侠的间接人物塑造](concepts/WuxiaIndirectCharacterization.md) — 以延迟登场、后果、见证、反应和留白塑造武功尺度、人物之美与感情关系的叙事方法。

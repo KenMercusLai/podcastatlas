@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3410
+topic_total_pages: 3411
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8829,6 +8829,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "ljbtvkfckw2lb-nykriz05lq35wz"
+    title: "053 科幻外衣下的社会寓言｜大话卫斯理之《头发》"
+    url: "/wiki/sources/ljbtvkfckw2lb-nykriz05lq35wz/"
   - key: "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t"
     title: "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情"
     url: "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
