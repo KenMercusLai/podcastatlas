@@ -5658,6 +5658,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/axiuxiakexing/"
     },
+    "Aachen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/aachen/"
+    },
     "AaronBraun": {
       "episode_count": 2,
       "show_count": 1,
@@ -11059,6 +11075,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/alcoholsystemicdoserisk/"
+    },
+    "Alcuin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/alcuin/"
     },
     "AldrichAmes": {
       "episode_count": 2,
@@ -38384,6 +38416,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/carolinewalkerbynum/"
     },
+    "CarolingianImperialFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/carolingianimperialfragmentation/"
+    },
     "CarrieBatten": {
       "episode_count": 1,
       "show_count": 1,
@@ -40623,9 +40671,9 @@
       "url": "/wiki/concepts/charismaticwarlegitimacy/"
     },
     "Charlemagne": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1014708592 [GLT1014708592].md",
@@ -40640,9 +40688,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
           "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        },
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/charlemagne/"
     },
     "CharlesAlexandreDeCalonne": {
@@ -75844,6 +75899,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/eileenvandervelden/"
+    },
+    "Einhard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/einhard/"
     },
     "ElDorado": {
       "episode_count": 1,
@@ -115122,9 +115193,9 @@
       "url": "/wiki/concepts/harshofficialinstrumentalrule/"
     },
     "HarunAlRashid": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -115139,9 +115210,16 @@
           "show": "The Rest Is History",
           "title": "378. Baghdad: The Golden Age (Part 3)",
           "url": "/wiki/sources/378-baghdad-the-golden-age-part-3-glt9689814482/"
+        },
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/harunalrashid/"
     },
     "HasdrubalBarca": {
@@ -135202,9 +135280,9 @@
       "url": "/wiki/entities/ireland/"
     },
     "IreneOfAthens": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9083951211 [GLT9083951211].md",
@@ -135212,9 +135290,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
           "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        },
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/ireneofathens/"
     },
     "IrishCitizenArmy": {
@@ -164083,6 +164168,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/louisoforleans/"
+    },
+    "LouisThePious": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/louisthepious/"
     },
     "LouisXIV": {
       "episode_count": 1,
@@ -208027,9 +208128,9 @@
       "url": "/wiki/entities/popejoan/"
     },
     "PopeLeoIII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9083951211 [GLT9083951211].md",
@@ -208037,9 +208138,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
           "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        },
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/popeleoiii/"
     },
     "PopeLeoXIV": {
@@ -227710,9 +227818,9 @@
       "url": "/wiki/concepts/romanimperialfallperiodization/"
     },
     "RomanImperialLegitimacy": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -227748,9 +227856,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
           "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        },
+        {
+          "episode_file": "GLT6103469677 [GLT6103469677].md",
+          "key": "525-charlemagne-emperor-of-the-west-part-3-glt6103469677",
+          "show": "The Rest Is History",
+          "title": "525. Charlemagne: Emperor of the West (Part 3)",
+          "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/romanimperiallegitimacy/"
     },
     "RomanImperialSuccession": {

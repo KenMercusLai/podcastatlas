@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13298
+wiki_total_pages: 13302
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "LouisOfOrleans"
     title: "Louis of Orléans"
     url: "/wiki/entities/louisoforleans/"
+  - key: "LouisThePious"
+    title: "Louis the Pious"
+    url: "/wiki/entities/louisthepious/"
   - key: "LouisXIV"
     title: "Louis XIV"
     url: "/wiki/entities/louisxiv/"

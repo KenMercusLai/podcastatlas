@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13298
+wiki_total_pages: 13302
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "A7A5"
     title: "A7A5"
     url: "/wiki/entities/a7a5/"
+  - key: "Aachen"
+    title: "Aachen"
+    url: "/wiki/entities/aachen/"
   - key: "Aadhaar"
     title: "Aadhaar"
     url: "/wiki/entities/aadhaar/"
@@ -605,6 +608,9 @@ wiki_pages:
   - key: "AlbuquerquePoliceDepartment"
     title: "Albuquerque Police Department"
     url: "/wiki/entities/albuquerquepolicedepartment/"
+  - key: "Alcuin"
+    title: "Alcuin"
+    url: "/wiki/entities/alcuin/"
   - key: "Aldhani"
     title: "Aldhani"
     url: "/wiki/entities/aldhani/"

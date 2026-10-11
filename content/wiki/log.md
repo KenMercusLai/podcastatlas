@@ -35891,3 +35891,10 @@ Added source `essentials-how-to-learn-faster-by-using-failures-movement-balance-
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-11] ingest | 525. Charlemagne: Emperor of the West (Part 3)
+
+Added source `525-charlemagne-emperor-of-the-west-part-3-glt6103469677`; created [[Einhard]], [[Alcuin]], [[Aachen]], [[LouisThePious|Louis the Pious]], and [[CarolingianImperialFragmentation]]; and resynthesized [[Charlemagne]], [[PopeLeoIII|Pope Leo III]], [[IreneOfAthens|Irene of Athens]], [[RomanImperialLegitimacy]], and [[HarunAlRashid|Harun al-Rashid]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Charlemagne's 800 coronation was probably prepared through itinerary, counsel, jurisdiction, reciprocal protection, and ritual; careful titulature and later Byzantine recognition separated imperial rank from exclusive Roman identity; Aachen and Abbasid gifts projected status materially and diplomatically; and dynastic partition, raids, and reduced control made later rulers more dependent on papal ceremony before Saxon renewal under Otto. No settled thematic contradiction was adopted. The supplied summary dates Leo's attack to 797 while the earlier source and current synthesis use 799, so the chronology conflict remains flagged; Irene's alleged vacancy, Leo's injuries, Charlemagne's exact prior knowledge, Einhard's portrait, diplomatic motives, institutional depth, and straight-line national succession remain source-scoped. Broad [[TheRestIsHistory]], [[ByzantineEmpire]], [[HolyRomanEmpire]], and [[OttoTheGreat|Otto the Great]] profiles were kept closed because focused pages capture the durable additions without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

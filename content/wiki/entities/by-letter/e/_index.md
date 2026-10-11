@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13298
+wiki_total_pages: 13302
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "EileenVanDerVelden"
     title: "Eileen van der Velden"
     url: "/wiki/entities/eileenvandervelden/"
+  - key: "Einhard"
+    title: "Einhard"
+    url: "/wiki/entities/einhard/"
   - key: "EkofiskOilField"
     title: "Ekofisk Oil Field"
     url: "/wiki/entities/ekofiskoilfield/"

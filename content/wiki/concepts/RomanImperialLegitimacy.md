@@ -8,7 +8,8 @@ sources:
   - 156-when-did-the-roman-empire-fall-glt4933356600
   - 12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296
   - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
-last_updated: 2026-10-02
+  - 525-charlemagne-emperor-of-the-west-part-3-glt6103469677
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,11 +27,13 @@ Across the longer period, the [[ByzantineEmpire]] called itself Roman even after
 
 Titles, kinship, ritual, geography, religion, recognition, self-identification, and military success all mattered. The pattern begins before medieval successor claims: after [[RomulusAugustulus|Romulus Augustulus]] was deposed, [[Odoacer]] sent the western insignia to [[Constantinople]] and sought legitimacy from its emperor while governing without a western emperor. The failed embassy to [[NikephorosIIPhokas]], the marriage of [[Theophano]] and [[OttoII]], [[Charlemagne]]'s papal coronation, [[MehmedII]]'s conquest, and Moscow's [[ThirdRomeClaim]] then show recognition and rivalry coexisting across later centuries. The 800 coronation also shows legitimacy arguments exploiting a ruler's vulnerability: western writers treated [[IreneOfAthens|Irene of Athens]]'s sex and violent accession as reasons to deny an otherwise continuing eastern Roman throne.
 
+Charlemagne's case also shows legitimacy being deliberately distributed across institutions and media. [[Alcuin]] supplied Christian and jurisdictional argument, [[PopeLeoIII|Leo III]] supplied Roman sacred ceremony, [[Aachen]] supplied architectural and funerary imagery, careful titulature limited provocation, and later Byzantine recognition separated acceptance of imperial rank from concession of the Roman name. After territorial fragmentation, weaker rulers leaned more heavily on papal coronation, demonstrating that ritual could compensate for reduced power without fully replacing it.
+
 ## Key Claims
 
 - Roman legitimacy survived the loss of a single Roman state, while within Roman states ritual and formal recognition remained insufficient when armies, court coalitions, or dynastic rivals withdrew support.
 - Byzantine self-identification as Roman made “Greek” titulature politically insulting.
-- Western imperial claims required more than military power; papal and Roman recognition mattered, while advocates could recode a rival ruler's gender, dynastic violence, and contested status as vacancy.
+- Western imperial claims required more than military power; papal and Roman recognition mattered, advocates could recode a rival ruler's gender, dynastic violence, and contested status as vacancy, and recognition of imperial rank did not require agreement over exclusive Roman identity.
 - Marriage could borrow prestige without resolving competing sovereignties.
 - Universal titles could exceed a ruler's actual military and territorial control.
 - Conquest of a Roman capital could create a succession argument without ensuring durable Roman self-identification.
@@ -50,17 +53,18 @@ Titles, kinship, ritual, geography, religion, recognition, self-identification, 
 - Army and ritual in AD 69 - [[12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296]] contrasts New Year oaths and senatorial formulas with the Rhine armies' rejection of Galba and selection of Vitellius.
 - Marriage and defeat in 1068-71 - [[12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296]] connects Romanus IV's marriage-based accession to the court challenge, civil war, and blinding that followed Manzikert.
 - Gendered vacancy and papal recognition - [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] joins Irene's contested rule, Leo III's need for protection, Charlemagne's territories, Rome, and coronation ritual in the western claim.
+- Prepared claim and negotiated title - [[525-charlemagne-emperor-of-the-west-part-3-glt6103469677]] joins itinerary, legal argument, coronation, Aachen, restrained titulature, and Byzantine recognition while distinguishing imperial rank from the Roman title.
+- Power and ritual after partition - [[525-charlemagne-emperor-of-the-west-part-3-glt6103469677]] shows papal coronation gaining relative importance as later rulers' territorial power narrowed.
 
 ## Counterevidence & Qualifications
 
-“Three heirs” and similar succession maps are explanatory frames, not exhaustive rankings of post-Roman political traditions. The sources compress the AD 69 civil wars, eleventh-century Byzantine succession, late-antique Italian rule, papal politics, caliphal and Ottoman diversity, Byzantine ideology, western constitutional development, and Russian political thought. They cannot establish how widely any universal claim was accepted, and different tests—state continuity, self-identification, capital, faith, dynasty, recognition, conquest, ritual, gender, or army allegiance—produce different heirs and end dates. Odoacer's recognition of eastern authority does not mean Italy remained administratively unchanged or directly governed from Constantinople; Irene's rule did not objectively vacate the Byzantine throne; and defeat at Manzikert did not automatically extinguish Romanus's title or the eastern Roman state.
+“Three heirs” and similar succession maps are explanatory frames, not exhaustive rankings of post-Roman political traditions. The sources compress the AD 69 civil wars, eleventh-century Byzantine succession, late-antique Italian rule, papal politics, caliphal and Ottoman diversity, Byzantine ideology, western constitutional development, and Russian political thought. They cannot establish how widely any universal claim was accepted, and different tests—state continuity, self-identification, capital, faith, dynasty, recognition, conquest, ritual, gender, architecture, or army allegiance—produce different heirs and end dates. Odoacer's recognition of eastern authority does not mean Italy remained administratively unchanged or directly governed from Constantinople; Irene's rule did not objectively vacate the Byzantine throne; Byzantine acknowledgment of Charlemagne's rank did not concede his preferred Roman interpretation; and defeat at Manzikert did not automatically extinguish Romanus's title or the eastern Roman state.
 
 ## What Changed
 
-- Extended the concept backward to Odoacer's post-476 use of Constantinopolitan recognition.
-- Distinguished the end of western emperorship from the end of Roman legitimacy.
-- Extended the framework backward to AD 69 and added an eleventh-century case in which military and court coalitions overrode ritual or marital accession.
-- Added the 800 coronation as a case of reciprocal papal protection, territorial power, sacred ceremony, and a gendered challenge to a rival ruler.
+- Added prepared itinerary, legal reasoning, architecture, and careful titulature as instruments of imperial claims.
+- Distinguished recognition of imperial rank from agreement over the exclusive Roman title.
+- Added the post-partition pattern in which ritual recognition gained weight as territorial power declined.
 
 ## Related Concepts
 
@@ -73,3 +77,5 @@ Titles, kinship, ritual, geography, religion, recognition, self-identification, 
 - [[YearOfTheFourEmperors]] - ancient case of ritual, pedigree, army allegiance, and victory competing in one succession crisis.
 - [[BattleOfManzikert]] - defeat whose legitimacy effects depended on the court and civil-war response.
 - [[PopeLeoIII]] - papal claimant whose need for protection became part of western imperial recognition.
+- [[CarolingianImperialFragmentation]] - case showing how weakened material power can increase dependence on ritual recognition.
+- [[Aachen]] - palace center that expressed Roman inheritance through built form and burial symbolism.

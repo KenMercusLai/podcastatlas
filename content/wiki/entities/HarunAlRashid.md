@@ -5,7 +5,8 @@ tags: [person, caliph, abbasid-caliphate, baghdad, literature]
 sources:
   - 379-baghdad-the-arabian-nights-part-4-glt8529456010
   - 378-baghdad-the-golden-age-part-3-glt9689814482
-last_updated: 2026-09-27
+  - 525-charlemagne-emperor-of-the-west-part-3-glt6103469677
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The historical profile in Part 3 is more austere than the literary character. Ha
 
 Part 4 shows how storytelling transformed that ruler into a mobile figure of adventure, pleasure, disguise, moral testing, and nested narrative. The two profiles are historically connected but evidentially distinct. Harun's inability to make his divided succession secure also qualifies the golden-age memory: the al-Amin–al-Ma'mun civil war followed soon after his death.
 
+The Charlemagne episode adds western diplomacy to this profile. An elephant sent in 802 and an elaborate mechanical water clock sent in 807 represented Abbasid wealth, technical prestige, and recognition of [[Charlemagne]]'s court; the hosts interpret the exchange partly through shared opposition to Umayyad power in Spain.
+
 ## Key Characteristics
 
 - Abbasid caliph and grandson of Baghdad's founder al-Mansur.
@@ -28,6 +31,7 @@ Part 4 shows how storytelling transformed that ruler into a mobile figure of adv
 - Administrator linked to Byzantine campaigning, Raqqa, the postal system, and Khorasan.
 - Intimate ruler whose relationships with his mother, wife, heirs, and Barmakid servants carried political consequences.
 - Symbol of the order and global reach associated with Baghdad's remembered peak.
+- Diplomatic ruler whose gifts projected Abbasid reach and technical prestige at Charlemagne's court.
 - Recurring Arabian Nights figure whose literary conduct cannot be read as documentary biography.
 
 ## Evidence
@@ -36,16 +40,16 @@ Part 4 shows how storytelling transformed that ruler into a mobile figure of adv
 - **Court and succession:** [[378-baghdad-the-golden-age-part-3-glt9689814482]] connects Harun to [[AlKhayzuran]], [[Zubaydah]], the Barmakids' purge, and the failed division between al-Amin and al-Ma'mun.
 - **Literary afterlife:** [[379-baghdad-the-arabian-nights-part-4-glt8529456010]] identifies Harun, Jafar, and Zubayda as historical names transformed into story characters.
 - **City symbolism:** Both [[378-baghdad-the-golden-age-part-3-glt9689814482]] and [[379-baghdad-the-arabian-nights-part-4-glt8529456010]] connect Harun's fame to Baghdad's historical and imagined magnificence.
+- **Western diplomacy:** [[525-charlemagne-emperor-of-the-west-part-3-glt6103469677]] uses the elephant and mechanical clock to show recognition and strategic contact between Abbasid and Carolingian courts.
 
 ## Qualifications
 
-The sources are popular-history episodes rather than a complete political biography. Court anecdotes, murder or affair stories, exact motives for the Barmakid purge, and the conduct assigned to Harun in fiction remain uncertain or literary. “Golden age” describes a remembered combination of supremacy and security, not an absence of coercion, poverty, slavery, or future instability.
+The sources are popular-history episodes rather than a complete political biography. Court anecdotes, murder or affair stories, exact motives for the Barmakid purge, the diplomatic meaning of individual gifts, and the conduct assigned to Harun in fiction remain uncertain or literary. “Golden age” describes a remembered combination of supremacy and security, not an absence of coercion, poverty, slavery, or future instability.
 
 ## What Changed
 
-- Expanded the profile from literary afterlife to historical rule, administration, warfare, and court politics.
-- Recast golden-age memory as a retrospective contrast with later succession violence and lost centrality.
-- Added the failure of Harun's divided succession as a qualification of his political achievement.
+- Added diplomatic gifts to Charlemagne as evidence of Abbasid reach and qualified foreign recognition.
+- Connected court prestige to strategic interests against Umayyad Spain while keeping motive source-scoped.
 
 ## Relationships
 
@@ -56,3 +60,4 @@ The sources are popular-history episodes rather than a complete political biogra
 - [[Barmakids]] - intimate administrative family he destroyed in 803.
 - [[AbbasidSuccessionInstability]] - pattern that shaped both his accession and his heirs' civil war.
 - [[ArabianNights]] - corpus that transformed him from historical ruler into a story character.
+- [[Charlemagne]] - western ruler whose court received Harun's elephant and mechanical clock.

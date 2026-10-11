@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [525. Charlemagne: Emperor of the West (Part 3)](sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677.md) — The Rest Is History on Charlemagne's prepared coronation, Aachen's imperial imagery, foreign recognition, Carolingian fragmentation, and Ottonian renewal.
 - [Essentials: How to Learn Faster by Using Failures, Movement & Balance](sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196.md) — Condensed Huberman Lab episode on correctable errors, focused practice, arousal, sleep-supported consolidation, and safe vestibular novelty.
 - [044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写](sources/liiidmjxhrngcffnld51y-l7_oan.md) — 纸醉金迷FM以温青青、袁承志、阿九、夏雪宜、温仪和何红药讨论嫉妒、责任、错位爱情、复仇与版本修订的叙事代价。
 - [How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson](sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629.md) — Huberman Lab conversation on integrating drives under higher aims, responsibility as adventure, prayer as aim formation, concentrated rewards, conscience, and truth.
@@ -4576,6 +4577,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Einhard](entities/Einhard.md) — Carolingian biographer whose portrait of Charlemagne mixes court memory with classical imperial styling.
+- [Alcuin](entities/Alcuin.md) — Scholar and adviser who framed Charlemagne's Christian responsibility and Leo III's legal position.
+- [Aachen](entities/Aachen.md) — Carolingian palace and burial center whose built form materialized Charlemagne's imperial claim.
+- [Louis the Pious](entities/LouisThePious.md) — Charlemagne's dynastic successor and hinge between planned succession and later partition.
 - [《碧血剑》 / Sword Stained with Royal Blood](entities/BixueJian.md) — 金庸小说，以错位爱情、责任、复仇中断、死者遗产和版本修订共同组织人物选择。
 - [温青青 / Wen Qingqing](entities/WenQingqing.md) — 勇敢能干却深受身份不安与嫉妒影响，并在真实威胁前表现出克制与自尊的女主角。
 - [袁承志 / Yuan Chengzhi](entities/YuanChengzhi.md) — 保护行动强于情感表达，在温青青的责任之爱与阿九的强烈情愫之间保持被动的男主角。
@@ -17942,6 +17947,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Carolingian Imperial Fragmentation](concepts/CarolingianImperialFragmentation.md) — Succession, partition, external pressure, and weakening territorial control that broke Carolingian unity without erasing its imperial memory.
 - [Absent-Presence Character Design / 缺席的在场者](concepts/AbsentPresenceCharacterDesign.md) — 让死亡或离场人物通过记忆、物件、武功、关系与延迟揭示继续推动当下行动的叙事方法。
 - [Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡](concepts/EditionRevisionExplicitnessTradeoff.md) — 版本修订在增强欲望可见性和局部动机时，可能削弱含蓄、后续选择或行动因果的权衡。
 - [Drive Integration Under a Higher Aim](concepts/DriveIntegrationUnderHigherAim.md) — Coordination of narrow motivational states within a voluntary structure that includes other people and future consequences.

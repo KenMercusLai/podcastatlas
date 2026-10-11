@@ -4,7 +4,8 @@ type: entity
 tags: [person, empress, byzantine-history, medieval-history]
 sources:
   - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
-last_updated: 2026-10-02
+  - 525-charlemagne-emperor-of-the-west-part-3-glt6103469677
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Irene of Athens is represented as the Byzantine ruler whose seizure of sole powe
 
 ## Current Profile
 
-The episode places Irene inside the legitimacy crisis preceding [[Charlemagne]]'s coronation. Her Athenian aristocratic background and rule as regent led to sole government after the removal and blinding of Constantine VI.
+The episodes place Irene inside the legitimacy crisis preceding [[Charlemagne]]'s coronation. Her Athenian aristocratic background and rule as regent led to sole government after the removal and blinding of Constantine VI in 797. An earlier betrothal between Constantine and one of Charlemagne's daughters had already shown that Frankish-Byzantine relations mixed rivalry with possible dynastic accommodation.
 
 Western supporters of Charlemagne treated rule by a woman as evidence that no valid emperor occupied the throne in Constantinople. The source preserves that argument as part of the coronation's political justification, not as a neutral test of Irene's authority or the [[ByzantineEmpire]]'s continuing Roman identity.
 
@@ -24,6 +25,7 @@ Western supporters of Charlemagne treated rule by a woman as evidence that no va
 
 - Byzantine empress from an aristocratic Athenian background.
 - Regent who became sole ruler after Constantine VI's deposition and blinding.
+- Participant in a wider Frankish-Byzantine diplomatic field that had included a cancelled dynastic match.
 - Target of a gendered western challenge to eastern imperial legitimacy.
 - Contemporary ruler whose position helped western advocates frame a vacant imperial office.
 
@@ -31,14 +33,16 @@ Western supporters of Charlemagne treated rule by a woman as evidence that no va
 
 - Accession and sole rule - [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] connects Irene's removal of Constantine VI to her rule in Constantinople.
 - Western legitimacy argument - [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] reports the use of her sex as one justification for Charlemagne's western title.
+- Diplomatic and chronological setting - [[525-charlemagne-emperor-of-the-west-part-3-glt6103469677]] connects the cancelled marriage plan, Constantine's blinding, and Irene's sole rule to the western vacancy argument.
 
 ## Qualifications
 
-The source uses Irene mainly to explain a western coronation and does not provide a rounded account of her reign, icon policy, administration, diplomacy, or Byzantine acceptance. The claim that her rule vacated the Roman throne reflects western political argument and misogynistic assumptions rather than an uncontested constitutional fact.
+The sources use Irene mainly to explain a western coronation and do not provide a rounded account of her reign, icon policy, administration, diplomacy, or Byzantine acceptance. The claim that her rule vacated the Roman throne reflects western political argument and misogynistic assumptions rather than an uncontested constitutional fact. The cancelled betrothal's motives and counterfactual implications remain source-scoped.
 
 ## What Changed
 
-- Established Irene as the eastern ruler whose contested position was politically recoded into a western succession claim.
+- Added the earlier marriage negotiation as evidence that rivalry and attempted accommodation preceded the coronation.
+- Reinforced that the alleged vacancy was a gendered western argument, not a neutral fact.
 
 ## Relationships
 
