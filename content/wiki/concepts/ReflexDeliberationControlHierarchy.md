@@ -5,7 +5,8 @@ tags: [neuroscience, reflexes, action-selection, basal-ganglia, cortex]
 sources:
   - scim4448895120-scim4448895120
   - scim6678678955-scim6678678955
-last_updated: 2026-10-10
+  - essentials-how-your-brain-works-changes-scim5664740932
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Basal-ganglia circuits are presented as helping initiate, suppress, or sustain a
 
 The Essentials edit narrows this hierarchy to two directly illustrated transitions: the superior colliculus combines spatial evidence across senses to orient gaze, attention, or the body, and cortex works with basal-ganglia systems when action must be executed or withheld. It adds emphasis that genetic and experiential differences constrain restraint while leaving learning possible, but it does not supply a training protocol.
 
+The foundational nervous-system Essentials episode adds a broader learning frame. Brainstem central pattern generators are used to illustrate reflexive movement, while forebrain control can alter a movement, suppress an impulse, or organize action around duration, path, and outcome. Repeated deliberate control may help a difficult response become easier and more automatic, but “DPO” is a teaching shorthand rather than a validated measure, and this condensed release overlaps the earlier full episode rather than independently confirming it.
+
 ## Key Claims
 - Fast protective and orienting responses can begin before conscious deliberation.
 - The superior colliculus integrates multisensory evidence for rapid spatial orientation.
@@ -28,6 +31,7 @@ The Essentials edit narrows this hierarchy to two directly illustrated transitio
 - Cortical context can suppress or redirect an otherwise adaptive reflex.
 - Practice can improve restraint and make complex action less dependent on step-by-step conscious control.
 - Excess deliberate monitoring can interfere with trained performance.
+- Duration, path, and outcome can organize goal-directed action, but the shorthand does not measure control capacity or guarantee successful behavior change.
 
 ## Evidence
 - Reflexive orientation - [[scim4448895120-scim4448895120]] describes superior-colliculus responses to looming objects and sudden events.
@@ -36,12 +40,15 @@ The Essentials edit narrows this hierarchy to two directly illustrated transitio
 - Action gating - [[scim4448895120-scim4448895120]] connects basal ganglia to initiation, suppression, motivation, attention, and delayed gratification.
 - Skilled automaticity - [[scim4448895120-scim4448895120]] uses sports overthinking to illustrate how conscious control can interrupt trained motor programs.
 - Condensed orientation and restraint - [[scim6678678955-scim6678678955]] connects superior-colliculus multisensory orientation with cortex-dependent basal-ganglia go/no-go evaluation and qualified trainability.
+- Goal-directed override - [[essentials-how-your-brain-works-changes-scim5664740932]] contrasts brainstem-supported movement patterns with forebrain modification, impulse suppression, and duration-path-outcome planning.
 
 ## Counterevidence & Qualifications
-The hierarchy is a public-education simplification, not a claim that brain organization is a one-way ladder or that one structure exclusively owns reflex, motivation, inhibition, or conscious control. Genetic and experiential contributions to restraint are discussed without effect sizes, and the source does not establish a clinical training protocol for impulse-control or movement disorders.
+The hierarchy is a public-education simplification, not a claim that brain organization is a one-way ladder or that one structure exclusively owns reflex, motivation, inhibition, or conscious control. Genetic and experiential contributions to restraint are discussed without effect sizes, and the sources do not establish a clinical training protocol for impulse-control or movement disorders. The DPO shorthand does not show that conscious control is unlimited, that strain is always beneficial, or that trauma and unsafe overload should be used to induce learning.
 
 ## What Changed
-- Added qualified biological-and-experiential variation in restraint without turning the account into a self-control training protocol.
+- Added duration, path, and outcome as a source-scoped shorthand for deliberate action.
+- Connected brainstem-supported movement patterns to forebrain modification and impulse suppression without treating the hierarchy as a one-way ladder.
+- Preserved the boundary that overlapping Essentials material is editorial provenance, not independent confirmation or a clinical training protocol.
 
 ## Related Concepts
 - [[CorticostriatalThalamicLoop]] - more specific circuit model connecting cortex, basal ganglia, thalamus, salience, and action selection.

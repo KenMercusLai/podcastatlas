@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1574
+topic_total_pages: 1575
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4086,6 +4086,9 @@ topic_sources:
   - key: "scim6678678955-scim6678678955"
     title: "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson"
     url: "/wiki/sources/scim6678678955-scim6678678955/"
+  - key: "essentials-how-your-brain-works-changes-scim5664740932"
+    title: "Essentials: How Your Brain Works & Changes"
+    url: "/wiki/sources/essentials-how-your-brain-works-changes-scim5664740932/"
   - key: "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
     title: "Essentials: Improve Flexibility with Research-Supported Stretching Protocols"
     url: "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"

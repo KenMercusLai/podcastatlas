@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Your Brain Works & Changes](sources/essentials-how-your-brain-works-changes-scim5664740932.md) — Condensed Huberman Lab episode on whole-body nervous-system loops, reflexive and deliberate control, adult neuroplasticity, sleep or deep-rest consolidation, and flexible 90-minute focus cycles.
 - [514. Nelson: Hero of the Seas (Part 1)](sources/514-nelson-hero-of-the-seas-part-1-glt4893527428.md) — The Rest Is History on Nelson's Norfolk upbringing, patronage-assisted naval entry, practical training, early voyages, Caribbean service, marriage, and return to war in 1793.
 - [040 趣话古龙《楚留香传奇：大沙漠》|雁蝶为双翼，花香满人间](sources/040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b.md) — 纸醉金迷FM以不杀原则、互补友情、直接真心与石观音的自恋权力重读《大沙漠》，同时质疑反转、救场与环境细节的因果支撑。
 - [VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日](sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm.md) — 这病说来话长 episode on school refusal, bodily distress, emotion-first support, bounded choice, routine, third space, and family-school ecology.

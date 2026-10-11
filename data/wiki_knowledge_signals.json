@@ -222106,9 +222106,9 @@
       "url": "/wiki/concepts/reflectiveselfexploration/"
     },
     "ReflexDeliberationControlHierarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -222123,9 +222123,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
           "url": "/wiki/sources/scim6678678955-scim6678678955/"
+        },
+        {
+          "episode_file": "SCIM5664740932 [SCIM5664740932].md",
+          "key": "essentials-how-your-brain-works-changes-scim5664740932",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Your Brain Works & Changes",
+          "url": "/wiki/sources/essentials-how-your-brain-works-changes-scim5664740932/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/reflexdeliberationcontrolhierarchy/"
     },
     "ReflexiveSelfAwareness": {
