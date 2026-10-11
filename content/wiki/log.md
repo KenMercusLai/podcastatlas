@@ -36270,3 +36270,11 @@ Added source `lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓
+
+Added source `ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64`; created [[SovereignFriendshipHierarchy|主权等级中的友情]]; and resynthesized [[LuDingJi|《鹿鼎记》]], [[WeiXiaobao|韦小宝]], [[KangxiEmperor|康熙]], [[ConcreteReciprocityOverAbstractLoyalty|具体互惠高于抽象忠诚]], [[PeopleCenteredHistoricalJudgment|爱民史观]], and [[MatureGenreDeconstruction|成熟类型的解构]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Kangxi and Wei are paired protagonists whose childhood equality becomes genuine but structurally unequal friendship, secret service, exceptional pardon, and proxy action; Wei's uncertain ancestry weakens bloodline as a complete political identity; and the novel deconstructs wuxia by retaining its world while replacing mastery and heroic purity with improvisation, relationships, luck, and delegated capacity. No settled contradiction was adopted. Historical claims, private motives, ancestry, authorial intent, genre classification, literary ranking, and the identification of fictional Kangxi with the historical emperor remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

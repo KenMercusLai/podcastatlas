@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓](sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64.md) — 纸醉金迷FM以康熙与韦小宝的双主角关系讨论主权等级中的真情、具体互惠、族群身份与反武侠类型突破。
 - [026 韦小宝与他的七个老婆：爱情？还是反爱情？](sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc.md) — 纸醉金迷FM以七段不同关系拆解唯一真爱神话，并在韦小宝的物化、占有、理解、边界、照料与长期责任之间保留争议。
 - [027 武侠史上最经典一战|趣话《陆小凤传奇之决战前后》](sources/lo1lhzgf7cwbtwjy6no8a9i2laa6.md) — 纸醉金迷FM以西门吹雪的人性变化、叶孤城的政治与求死歧义及“诚于人/诚于剑”之争重读紫禁之巅，同时质疑悬疑收束、友情转变和女性书写。
 - [028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？](sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic.md) — 纸醉金迷FM以报恩、为陌生受害者追责和修正继承仇恨，讨论胡斐如何在感情压力、因果不明与前辈引导中形成侠义判断。
@@ -15194,7 +15195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李卫 / Li Wei](entities/LiWeiQingOfficial.md) — Qing official whose search of the Lu Liuliang household shifted the case toward books, diaries, descendants, and students.
 - [年羹尧 / Nian Gengyao](entities/NianGengyao.md) — Recently fallen Qing official whose purge shaped Yue Zhongqi's fear and the anti-"逆书" atmosphere around the case.
 - [曹寅 / Cao Yin](entities/CaoYin.md) — Qing imperial bondservant, Jiangning weaver, fiscal operator, cultural broker, and Kangxi confidant central to episode 101.
-- [康熙 / Kangxi Emperor](entities/KangxiEmperor.md) — Qing emperor whose trusted bondservant network, southern tours, and secret memorial channels shape Cao Yin's role in episode 101.
+- [康熙 / Kangxi Emperor](entities/KangxiEmperor.md) — 既通过包衣、南巡与密折呈现历史治理，又在《鹿鼎记》中以对韦小宝的真情、驾驭、宽恕与代理行动体现不对等主权的清帝。
 - [清代曹家 / Cao Family In Qing](entities/CaoFamilyQing.md) — Cao Xueqin's family background read through bondservant status, imperial favor, deficits, succession weakness, and confiscation.
 - [江宁织造 / Jiangning Weaving Bureau](entities/JiangningWeavingBureau.md) — Qing imperial textile and trusted-agent office that anchors Cao Yin's production, procurement, finance, and Red Chamber background.
 - [内务府 / Imperial Household Department](entities/ImperialHouseholdDepartment.md) — Qing imperial-household bureaucracy behind the bondservant service channels in episode 101.
@@ -18080,6 +18081,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wuxia–Science-Fiction Hybridity / 武侠式科幻](concepts/WuxiaScienceFictionHybrid.md) — 科技与外星设定承载科幻表层，而人物能力、灵药、秘密组织与闯关结构延续武侠冒险语法的跨类型模式。
 - [Weapons-Race Civilizational Self-Destruction / 武器竞赛式文明自毁](concepts/WeaponsRaceCivilizationalSelfDestruction.md) — 对手公开限制毁灭性武器却秘密竞逐，使研发、试验与污染在终局战争前便摧毁共同生存条件。
 - [Concrete Reciprocity Over Abstract Loyalty / 具体互惠高于抽象忠诚](concepts/ConcreteReciprocityOverAbstractLoyalty.md) — 以具体人的相待、互助与不背叛，优先于对王朝、族群、派别或教义的无条件忠诚。
+- [Friendship Under Sovereign Hierarchy / 主权等级中的友情](concepts/SovereignFriendshipHierarchy.md) — 真实情感、共同记忆与个人信任能改变权力的行使，却不会消除命令、惩罚、宽恕和退出权的结构性不对等。
 - [Shared-Cause Factional Erosion / 共同目标下的派系侵蚀](concepts/SharedCauseFactionalErosion.md) — 共同目标无法约束继承、正统、亲缘和私利竞争，最终使联盟把冲突转向内部的过程。
 - [Informal Selective Learning / 情境化选择性学习](concepts/InformalSelectiveLearning.md) — 通过观察、模仿、筛选和即时应用获得可迁移知识，同时区分有效传授与良善师徒关系。
 - [Sworn Brotherhood as Social Infrastructure / 结拜作为社会基础设施](concepts/SwornBrotherhoodSocialInfrastructure.md) — 以拟制亲属仪式建立信任、义务和跨能力协作，同时区分真情、利益联盟与权宜之计。
@@ -18123,7 +18125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carolingian Imperial Fragmentation](concepts/CarolingianImperialFragmentation.md) — Succession, partition, external pressure, and weakening territorial control that broke Carolingian unity without erasing its imperial memory.
 - [Absent-Presence Character Design / 缺席的在场者](concepts/AbsentPresenceCharacterDesign.md) — 让死亡或离场人物通过记忆、物件、武功、关系与延迟揭示继续推动当下行动的叙事方法。
 - [Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡](concepts/EditionRevisionExplicitnessTradeoff.md) — 版本修订在增强欲望可见性和局部动机时，可能削弱含蓄、后续选择或行动因果的权衡。
-- [People-Centered Historical Judgment / 爱民史观](concepts/PeopleCenteredHistoricalJudgment.md) — 以普通百姓的安全与生计，而非族属、正统或革命出身，检验统治者、起义与政权更替。
+- [People-Centered Historical Judgment / 爱民史观](concepts/PeopleCenteredHistoricalJudgment.md) — 以普通百姓的安全与生计，而非族属、血统、正统或革命出身，检验统治、起义与政治归属。
 - [Martial-Hero Historical Agency Limits / 侠客改变历史的限度](concepts/MartialHeroHistoricalAgencyLimits.md) — 区分个人武力的救助与战斗作用，以及统军、制度建设、治理和改变既定历史所需的集体能力。
 - [Drive Integration Under a Higher Aim](concepts/DriveIntegrationUnderHigherAim.md) — Coordination of narrow motivational states within a voluntary structure that includes other people and future consequences.
 - [Responsibility as Adventure](concepts/ResponsibilityAsAdventure.md) — Reframing voluntary obligation as purposeful uncertainty, sacrifice, local repair, and socially extended value.
@@ -18572,7 +18574,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System](concepts/CombinedArmsAntiCavalrySystem.md) — 以远射、长短兵器、重型平台、阵形纵深与集团推进迫使机动骑射力量进入持续接触的来源限定机制。
 - [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有结合事实、受害者、合宜方法、关系压力、代价和可预见后果，才构成可信的侠义行动。
 - [Inherited Enmity Revision / 继承仇恨的修正](concepts/InheritedEnmityRevision.md) — 以因果不确定、亲身接触与对方实际品格为证据，重审继承而来的复仇义务。
-- [Mature-Genre Deconstruction / 成熟类型的解构](concepts/MatureGenreDeconstruction.md) — 类型惯例与共同观众知识成熟后，作品借互文、反转和日常化位移从传统内部完成戏仿与批判。
+- [Mature-Genre Deconstruction / 成熟类型的解构](concepts/MatureGenreDeconstruction.md) — 作品在保留可识别类型的同时，以互文、日常化或反英雄替换拆解原有的能力、道德与成长轨迹。
 - [Story-Earned Moral Instruction / 情节赢得的道德说理](concepts/StoryEarnedMoralInstruction.md) — 明确伦理结论由先前人物选择、冲突、后果和转变支撑，而非依靠说话者权威替代叙事。
 - [De-escalatory Envoy Signaling / 使者示弱式危机降温](concepts/DeescalatoryEnvoySignaling.md) — 以尊重身份、窄化问讯和非惩罚性姿态避免调查对象把使者到来理解为即时攻击，同时区分眼前降温与长期解决。
 - [Jin Yong Reclusion as Exit Capacity / 金庸式归隐与退出能力](concepts/JinYongReclusionFreedom.md) — 把归隐理解为摆脱职位、声望、组织关系与物质依附的可持续退出能力，而非单纯迁居山林。

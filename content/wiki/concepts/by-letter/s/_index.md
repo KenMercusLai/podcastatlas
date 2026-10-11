@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10447
+wiki_total_pages: 10448
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "SmithStoryWorlds"
     title: "Clark Ashton Smith Story Worlds"
     url: "/wiki/concepts/smithstoryworlds/"
+  - key: "SovereignFriendshipHierarchy"
+    title: "Friendship Under Sovereign Hierarchy / 主权等级中的友情"
+    url: "/wiki/concepts/sovereignfriendshiphierarchy/"
   - key: "ScarKeloidDistinction"
     title: "Hypertrophic Scar–Keloid Distinction / 增生性瘢痕与瘢痕疙瘩区分"
     url: "/wiki/concepts/scarkeloiddistinction/"

@@ -4,6 +4,7 @@ type: concept
 tags: [genre, parody, wuxia, intertextuality, audience]
 sources:
   - 102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4
+  - ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-07
 ---
@@ -20,6 +21,10 @@ The source positions [[WulinWaizhuan|《武林外传》]] near a transition in w
 
 This makes cultural competence part of the mechanism. A joke can still work through timing or character when a reference is forgotten, but the additional recognition layer decays as slogans and intertexts leave common memory. Deconstruction therefore records both the maturity of a genre and the historical audience for whom its signals were immediate.
 
+Deconstruction need not be purely parodic or leave the novel tradition. [[LuDingJi|《鹿鼎记》]] preserves martial schools, masters, secret societies, combat, and historical adventure while denying [[WeiXiaobao|韦小宝]] the expected path from apprenticeship to mastery or moral heroism. Improvisation, relationships, luck, delegated capability, and political access produce effects usually reserved for martial excellence, so the work can remain recognizably wuxia while disputing what counts as its center.
+
+The comparison distinguishes two scales of deconstruction. [[WulinWaizhuan|《武林外传》]] relocates heroic convention into debt, chores, injury, and collective life; 《鹿鼎记》 retains epic and historical reach but substitutes an antihero for the cultivation ideal. In both cases deconstruction depends on inheritance rather than simple rejection: the genre must remain visible enough for its displaced values to register.
+
 ## Key Claims
 
 - Deconstruction requires conventions stable enough to be recognized before they are inverted.
@@ -28,6 +33,7 @@ This makes cultural competence part of the mechanism. A joke can still work thro
 - Intertextual names and archetypes can establish a critical relationship to a tradition quickly.
 - Moving heroic conventions into mundane institutions exposes assumptions about violence, status, labor, and consequence.
 - Reference-dependent humor can outlive its origin, but part of its effect is historically perishable.
+- Deconstruction can preserve a genre's world and scale while replacing its expected hero, competence, and moral trajectory.
 
 ## Evidence
 
@@ -43,17 +49,24 @@ This makes cultural competence part of the mechanism. A joke can still work thro
 
 - [[102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4]] uses contemporary advertising phrases and social slogans to show how direct recognition can fade while surface comedy remains.
 
+### Antiheroic substitution inside wuxia
+
+- [[ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64]] treats Wei's weak martial ability, compromised character, historical efficacy, and reliance on relationships and luck as a dismantling of the conventional wuxia growth path.
+
 ## Counterevidence & Qualifications
 
-The source offers a cultural interpretation rather than a measured reception history. Its claims that wuxia had reached maturity, that the series marked a final flourishing, and that online literature absorbed the genre remain source-scoped. Viewers without the cited references may still understand the character conflict and comedy, so shared intertextual knowledge intensifies the mechanism but is not always a strict prerequisite.
+The sources offer cultural and literary interpretations rather than measured reception history or settled genre taxonomy. Claims that wuxia had reached maturity, that 《武林外传》 marked a final flourishing, that online literature absorbed the genre, or that 《鹿鼎记》 is definitively “anti-wuxia” remain source-scoped. Audiences without the cited references may still understand character conflict and comedy, and a work can revise martial mastery without ceasing to be wuxia; recognition intensifies deconstruction but does not always settle classification.
 
 ## What Changed
 
-- Created the concept to connect genre maturity, intertextual recognition, mundane displacement, and reference decay.
+- Extended the concept from sitcom parody to antiheroic substitution within the wuxia novel.
+- Distinguished mundane scale reduction from retaining historical scale while replacing mastery and moral purity.
+- Clarified that deconstruction inherits a recognizable genre rather than requiring categorical exit from it.
 
 ## Related Concepts
 
 - [[WulinWaizhuan|《武林外传》]] - primary bounded case of wuxia conventions relocated into sitcom life.
+- [[LuDingJi|《鹿鼎记》]] - bounded case that retains wuxia institutions while replacing the conventional heroic growth path.
 - [[GuoFurong|郭芙蓉]] - character whose heroic script becomes the object of comic correction.
 - [[WuxiaIntertextualCraft]] - neighboring use of wuxia references to create literary meaning.
 - [[ConsequenceSensitiveChivalry]] - ethical reconstruction that remains after heroic convention is dismantled.

@@ -52876,9 +52876,9 @@
       "url": "/wiki/concepts/concerninfluencesorting/"
     },
     "ConcreteReciprocityOverAbstractLoyalty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnujH366BvYkUF8RQpUwZ7Y2uwMg [lnujH366BvYkUF8RQpUwZ7Y2uwMg].md",
@@ -52886,6 +52886,13 @@
           "show": "纸醉金迷FM",
           "title": "032 教师节特辑 | 韦小宝和他的师父们",
           "url": "/wiki/sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg/"
+        },
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
         }
       ],
       "updated": "2026-10-12",
@@ -147063,6 +147070,36 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/kangju/"
     },
+    "KangxiEmperor": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "101.曹寅与康熙：红楼梦醒终有时 [735044876].md",
+          "key": "101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876",
+          "show": "蜜獾吃书",
+          "title": "101.曹寅与康熙：红楼梦醒终有时",
+          "url": "/wiki/sources/101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876/"
+        },
+        {
+          "episode_file": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案 [547265513].md",
+          "key": "11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513",
+          "show": "蜜獾吃书",
+          "title": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案",
+          "url": "/wiki/sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513/"
+        },
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/kangxiemperor/"
+    },
     "KangxiLaile": {
       "episode_count": 2,
       "show_count": 2,
@@ -166650,9 +166687,9 @@
       "url": "/wiki/entities/ludapeng/"
     },
     "LuDingJi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
@@ -166674,6 +166711,13 @@
           "show": "纸醉金迷FM",
           "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
           "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        },
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
         }
       ],
       "updated": "2026-10-12",
@@ -175537,9 +175581,9 @@
       "url": "/wiki/entities/matthewwalker/"
     },
     "MatureGenreDeconstruction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lluKoU7ZqqXDCyh3Yym0t8tyH5q4 [lluKoU7ZqqXDCyh3Yym0t8tyH5q4].md",
@@ -175547,6 +175591,13 @@
           "show": "纸醉金迷FM",
           "title": "102 《武林外传》二十年：初入江湖，郭芙蓉的同福客栈生存指南",
           "url": "/wiki/sources/102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4/"
+        },
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
         }
       ],
       "updated": "2026-10-07",
@@ -204215,9 +204266,9 @@
       "url": "/wiki/concepts/peopleartiststatehonor/"
     },
     "PeopleCenteredHistoricalJudgment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
@@ -204225,6 +204276,13 @@
           "show": "纸醉金迷FM",
           "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
           "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
+        },
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
         }
       ],
       "updated": "2026-10-11",
@@ -247649,6 +247707,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
     },
+    "SovereignFriendshipHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/sovereignfriendshiphierarchy/"
+    },
     "SovereignInfrastructureInterdependence": {
       "episode_count": 1,
       "show_count": 1,
@@ -280581,9 +280655,9 @@
       "url": "/wiki/entities/weixiaoeasternhan/"
     },
     "WeiXiaobao": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
@@ -280605,6 +280679,13 @@
           "show": "纸醉金迷FM",
           "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
           "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        },
+        {
+          "episode_file": "ltEgoVFi-XEA0_FD_aakSHFZ0N64 [ltEgoVFi-XEA0_FD_aakSHFZ0N64].md",
+          "key": "ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64",
+          "show": "纸醉金迷FM",
+          "title": "025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓",
+          "url": "/wiki/sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64/"
         }
       ],
       "updated": "2026-10-12",

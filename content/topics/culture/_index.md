@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3458
+topic_total_pages: 3460
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1462,6 +1462,9 @@ topic_concepts:
   - key: "FriendshipAsSharedHome"
     title: "Friendship as Shared Home / 友情作为共同归宿"
     url: "/wiki/concepts/friendshipassharedhome/"
+  - key: "SovereignFriendshipHierarchy"
+    title: "Friendship Under Sovereign Hierarchy / 主权等级中的友情"
+    url: "/wiki/concepts/sovereignfriendshiphierarchy/"
   - key: "FunctionalAdaptationFidelity"
     title: "Functional Adaptation Fidelity / 功能性改编忠实"
     url: "/wiki/concepts/functionaladaptationfidelity/"
@@ -8150,6 +8153,9 @@ topic_entities:
   - key: "PangChunmei"
     title: "庞春梅 / Pang Chunmei"
     url: "/wiki/entities/pangchunmei/"
+  - key: "KangxiEmperor"
+    title: "康熙 / Kangxi Emperor"
+    url: "/wiki/entities/kangxiemperor/"
   - key: "ZhangYiEasternHan"
     title: "张义 / Zhang Yi (Eastern Han)"
     url: "/wiki/entities/zhangyieasternhan/"

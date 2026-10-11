@@ -4,6 +4,7 @@ type: concept
 tags: [history, political-ethics, literature, governance, popular-welfare]
 sources:
   - lo9-_4_9eaepw7s-egiyp1ywgiva
+  - ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The concept comes from a [[ZhiZuiJinMiFM|纸醉金迷FM]] reading of [[BixueJian
 
 The same standard applies to rebellion. [[LiZicheng|李自成]]'s common origin and initial discipline generate legitimacy, but they do not guarantee continuing representation of the people. When his forces plunder, he cannot restrain followers, and he destroys 李岩 through suspicion, origin and slogan lose their justificatory force. 张朝唐's robbery by both Ming and rebel soldiers supplies the compact test: if ordinary people endure the same violence, a new banner has not yet produced moral transformation.
 
+The [[LuDingJi|《鹿鼎记》]] discussion extends the standard from comparative rule into personal identity. [[WeiXiaobao|韦小宝]]'s uncertain Han, Manchu, Mongol, Hui, or Tibetan ancestry prevents bloodline from settling his political belonging, while the hosts interpret [[KangxiEmperor|康熙]] through governance and ordinary welfare rather than Manchu origin alone. The case remains literary, but it clarifies that mixed or indeterminate identity can expose the inadequacy of ethnic legitimacy as a complete moral test.
+
 ## Key Claims
 
 - Political identity and historical legitimacy are inputs to judgment, not substitutes for present conduct.
@@ -25,6 +28,7 @@ The same standard applies to rebellion. [[LiZicheng|李自成]]'s common origin 
 - Popular or revolutionary origin does not permanently guarantee representation of ordinary people.
 - Repeated civilian suffering can expose continuity beneath apparent regime change.
 - Loyal-servant tragedies reveal how suspicion and concentrated power can cross factional boundaries.
+- Indeterminate or mixed ancestry can make bloodline an especially weak basis for exclusive political belonging.
 
 ## Evidence
 
@@ -40,13 +44,18 @@ The same standard applies to rebellion. [[LiZicheng|李自成]]'s common origin 
 
 - [[lo9-_4_9eaepw7s-egiyp1ywgiva]] uses Zhang Chaotang's robbery by both Ming and rebel troops to test whether political replacement changes ordinary life.
 
+### Ancestry and political belonging
+
+- [[ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64]] uses Wei Xiaobao's uncertain ancestry and the positive literary treatment of Kangxi to place conduct and public welfare above a narrow Han-Manchu binary.
+
 ## Counterevidence & Qualifications
 
-“爱民史观” is a podcast's interpretive label for Jin Yong's fiction, not a complete theory of historical explanation. Popular welfare is indispensable but does not alone resolve sovereignty, rights, law, conquest, minority protection, institutional durability, or conflicts among groups. The episode's judgments about Ming collapse, Qing governance, and rebel conduct are literary-historical claims that require independent evidence before use as general history.
+“爱民史观” is a podcast interpretive label for Jin Yong's fiction, not a complete theory of historical explanation. Popular welfare is indispensable but does not alone resolve sovereignty, rights, law, conquest, minority protection, institutional durability, or conflicts among groups. The episodes' judgments about Ming collapse, Qing governance, rebel conduct, ancestry, and Chinese identity are literary-historical claims that require independent evidence before use as general history. Moving beyond bloodline essentialism must also not erase conquest, discrimination, minority self-identification, or unequal power.
 
 ## What Changed
 
-- Created the concept from the episode's explicit welfare-centered comparison of dynastic, ethnic, and rebel legitimacy.
+- Extended the standard from comparative governance to uncertain ancestry and political belonging.
+- Added a guardrail against using cultural inclusion to erase conquest, discrimination, or unequal power.
 
 ## Related Concepts
 
@@ -55,3 +64,4 @@ The same standard applies to rebellion. [[LiZicheng|李自成]]'s common origin 
 - [[PublicValuesUnderCost]] - adjacent test of whether declared public commitments survive inconvenience and risk.
 - [[JinYongConfucianEthics]] - connects care for ordinary people to conduct-based rather than status-based moral judgment.
 - [[HistoricalJianghuSpace]] - shows how state institutions condition unofficial actors' room for action.
+- [[SovereignFriendshipHierarchy]] - neighboring account of how personal attachment can humanize rule without equalizing power.
