@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13364
+wiki_total_pages: 13368
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "FengYewangWesternHan"
     title: "冯野王 / Feng Yewang (Western Han)"
     url: "/wiki/entities/fengyewangwesternhan/"
+  - key: "FengTiannan"
+    title: "凤天南 / Feng Tiannan"
+    url: "/wiki/entities/fengtiannan/"
   - key: "FormerShu"
     title: "前蜀 / Former Shu"
     url: "/wiki/entities/formershu/"

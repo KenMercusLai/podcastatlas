@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13364
+wiki_total_pages: 13368
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1565,6 +1565,9 @@ wiki_pages:
   - key: "ZhaoWuZhaoMinister"
     title: "赵午 / Zhao Wu (Zhao minister)"
     url: "/wiki/entities/zhaowuzhaominister/"
+  - key: "ZhaoBanshan"
+    title: "赵半山 / Zhao Banshan"
+    url: "/wiki/entities/zhaobanshan/"
   - key: "ZhaoServantEnvoy"
     title: "赵厮养卒 / Zhao Servant Envoy"
     url: "/wiki/entities/zhaoservantenvoy/"

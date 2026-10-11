@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10444
+wiki_total_pages: 10445
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "InhalationArousalLearning"
     title: "Inhalation, Arousal, and Learning"
     url: "/wiki/concepts/inhalationarousallearning/"
+  - key: "InheritedEnmityRevision"
+    title: "Inherited Enmity Revision / 继承仇恨的修正"
+    url: "/wiki/concepts/inheritedenmityrevision/"
   - key: "InjuryRecoveryAdherence"
     title: "Injury Recovery Adherence"
     url: "/wiki/concepts/injuryrecoveryadherence/"

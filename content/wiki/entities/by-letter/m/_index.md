@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13364
+wiki_total_pages: 13368
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2228,6 +2228,9 @@ wiki_pages:
   - key: "MangdangMountain"
     title: "芒砀山 / Mangdang Mountain"
     url: "/wiki/entities/mangdangmountain/"
+  - key: "MiaoRenfeng"
+    title: "苗人凤 / Miao Renfeng"
+    url: "/wiki/entities/miaorenfeng/"
   - key: "MiaoGuangLateHan"
     title: "苗光 / Miao Guang (late Han)"
     url: "/wiki/entities/miaoguanglatehan/"
@@ -2360,6 +2363,9 @@ wiki_pages:
   - key: "MaRidiLateHan"
     title: "马日磾 / Ma Ridi (late Han)"
     url: "/wiki/entities/maridilatehan/"
+  - key: "MaChunhua"
+    title: "马春花 / Ma Chunhua"
+    url: "/wiki/entities/machunhua/"
   - key: "MaXiaoPekingUniversity"
     title: "马晓 / Ma Xiao (Peking University)"
     url: "/wiki/entities/maxiaopekinguniversity/"

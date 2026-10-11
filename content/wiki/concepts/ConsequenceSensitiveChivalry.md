@@ -5,6 +5,7 @@ tags: [ethics, wuxia, responsibility, judgment, force]
 sources:
   - 102-wulin-waizhuan-ershinian-churu-jianghu-guofurong-de-tongfu-kezhan-shengcun-zhinan-llukou7zqqxdcyh3yym0t8tyh5q4
   - 095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy
+  - lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-08
 ---
@@ -23,6 +24,10 @@ The inverse pattern appears in [[BiaoRenComic|《镖人》]]. 刀马 describes h
 
 The correction is therefore not passivity or moral branding. 佟湘玉 emphasizes concern for others and method, while [[BaiZhantang|白展堂]] argues that martial ability should answer actual injustice rather than the desire to compete. Across both cases, debt, repair, restraint, protection, and accepted cost make responsibility concrete. Chivalry is displaced from glamorous identity toward disciplined perception and accountable conduct.
 
+A third case supplies two further distinctions. [[HuFei|胡斐]]'s pursuit of [[FengTiannan|凤天南]] begins from identifiable victims and survives [[YuanZiyi|袁紫衣]]'s relational appeal, so action against self-interest becomes a test of whether the victim's claim remains primary. His relation to [[MiaoRenfeng|苗人凤]] shows that restraint can also be responsible: an inherited grievance under incomplete causal knowledge should be revised when direct character evidence makes a simple murderer category inadequate.
+
+The episode also complicates cost itself. Hu Fei's repeated rescue of [[MaChunhua|马春花]] demonstrates willingness to risk himself, but the hosts dispute whether gratitude, urgent need,侠义 disposition, or early feeling explains the scale. Cost can strengthen evidence that a value is real without proving that every costly intervention is proportionate or well judged.
+
 ## Key Claims
 
 - Good intention is necessary but insufficient for righteous intervention.
@@ -30,8 +35,8 @@ The correction is therefore not passivity or moral branding. 佟湘玉 emphasize
 - Method and likely consequence belong inside moral judgment, not after it.
 - Responsibility includes repair when mistaken action imposes costs on others.
 - Restraint can express martial ethics rather than cowardice or lack of capacity.
-- Everyday care and accountable participation can carry more ethical weight than public heroic display.
-- Costly conduct can provide stronger evidence of chivalry than either mercenary or heroic self-description.
+- Everyday care and stranger-directed protection can carry more ethical weight than public heroic display.
+- Costly conduct can provide stronger evidence of chivalry than self-description, but cost alone does not prove proportionality or sound judgment.
 
 ## Evidence
 
@@ -53,14 +58,27 @@ The correction is therefore not passivity or moral branding. 佟湘玉 emphasize
 - [[095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy]] contrasts 刀马's price-conscious persona with rescue, forgone bounty, family support, and acceptance of official pursuit.
 - [[095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy]] preserves 双头蛇's prior culpability while treating his refusal to kill a child as morally relevant evidence rather than complete redemption.
 
+### Victim-centered principle under personal pressure
+
+- [[lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic]] uses Hu Fei's pursuit of Feng Tiannan for the destruction of strangers and his refusal of Yuan Ziyi's appeal to test whether侠义 survives relational cost.
+
+### Restraint under causal uncertainty
+
+- [[lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic]] contrasts clear abuse in the Feng Tiannan case with Hu Fei's incomplete knowledge and revised judgment of Miao Renfeng.
+
+### Cost without automatic vindication
+
+- [[lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic]] preserves disagreement over whether Hu Fei's escalating efforts for Ma Chunhua are proportionate gratitude, general侠义, or partly emotional attachment.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from two comic fictional works and podcast interpretation, not a complete history of 游侠 or a general legal test for intervention. The hosts themselves qualify the character-based etymology of “侠” and note that traditional accounts may emphasize promise, courage, sacrifice, or bearing responsibility differently. Costly action does not automatically excuse prior harm, and attention to consequences must not become a demand for perfect foresight or a reason never to intervene.
+The concept is derived from three fictional works discussed in podcasts, not a complete history of 游侠 or a general legal test for intervention. The hosts qualify the character-based etymology of “侠,” and traditions may emphasize promise, courage, sacrifice, or responsibility differently. Costly action does not automatically excuse prior harm or prove proportionality; admiration for an alleged enemy does not establish innocence; and attention to consequences must not become a demand for perfect foresight or a reason never to intervene.
 
 ## What Changed
 
-- Created the concept from the contrast between Guo Furong's self-image and the consequences of her interventions.
-- Added 刀马 as an inverse case where costly conduct is more ethically informative than defensive self-description.
+- Added a victim-centered test in which principle must survive romantic and family pressure.
+- Distinguished responsible restraint under uncertain causation from passivity toward identifiable ongoing abuse.
+- Qualified costly action as evidence of commitment rather than automatic proof of sound judgment.
 
 ## Related Concepts
 
@@ -71,3 +89,6 @@ The concept is derived from two comic fictional works and podcast interpretation
 - [[SacrificingOthersEthics]] - neighboring limit on converting another person's life or welfare into one's own moral project.
 - [[PublicValuesUnderCost]] - related test of whether declared values govern action when responsibility becomes costly.
 - [[BiaoRenComic|《镖人》]] - inverse case where chivalry appears through conduct that contradicts a mercenary persona.
+- [[FeihuWaizhuan|《飞狐外传》]] - case separating stranger-directed redress, disputed repayment, and restraint under inherited enmity.
+- [[InheritedEnmityRevision|继承仇恨的修正]] - neighboring process for revising vengeance when causal and character evidence complicate the enemy label.
+- [[ZhaoBanshan|赵半山]] - mentor whose example links martial capacity to principled conduct under relationship pressure.

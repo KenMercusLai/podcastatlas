@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？](sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic.md) — 纸醉金迷FM以报恩、为陌生受害者追责和修正继承仇恨，讨论胡斐如何在感情压力、因果不明与前辈引导中形成侠义判断。
 - [029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写](sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7.md) — 纸醉金迷FM以胡斐、袁紫衣和程灵素区分即时吸引、长期适配、实践性照护与迟到认知，并拒绝把自我牺牲转化为爱情债务。
 - [030 大话卫斯理之《蓝血人》](sources/lh2p-n8chtr_zwzssxljfgezpc0i.md) — 纸醉金迷FM以蓝血谜团、外星导航仪和土星归乡悲剧重读《蓝血人》，在武侠式科幻的想象力与科学、因果和伦理局限之间保留张力。
 - [031 趣话古龙《楚留香传奇：血海飘香》](sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps.md) — 纸醉金迷FM以不杀原则、行动式人物塑造、友情转化和含蓄留白重读《血海飘香》，同时质疑阴谋逻辑、真相隐瞒及男性视角下的女性书写。
@@ -4623,10 +4624,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
-- [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以胡斐、袁紫衣和程灵素的错位关系区分即时吸引、渐进适配、可能转化与迟到认知的金庸小说。
-- [胡斐 / Hu Fei](entities/HuFei.md) — 在袁紫衣的即时吸引与程灵素的长期照护之间经历尊重、回避、可能转化和失后悔悟的《飞狐外传》主角。
+- [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以错位爱情、报恩、为陌生人追责和继承仇恨的修正共同检验侠义判断的金庸小说。
+- [胡斐 / Hu Fei](entities/HuFei.md) — 在爱情、报恩、陌生受害者的正义诉求与对苗人凤的复杂判断之间形成侠义标准的《飞狐外传》主角。
 - [程灵素 / Cheng Lingsu](entities/ChengLingsu.md) — 以医毒、智谋、侠义和实践性照护保护胡斐，同时不因牺牲而获得爱情债权的悲剧人物。
-- [袁紫衣 / Yuan Ziyi](entities/YuanZiyi.md) — 以美貌、活力、武功、情趣与若即若离激发胡斐即时爱恋，却未形成共同未来的《飞狐外传》人物。
+- [袁紫衣 / Yuan Ziyi](entities/YuanZiyi.md) — 既以美貌、活力与武功激发胡斐即时爱恋，又因保护凤天南而暴露亲缘义务与受害者正义之间冲突的《飞狐外传》人物。
+- [马春花 / Ma Chunhua](entities/MaChunhua.md) — 在爱情、婚姻责任、父命、阶层和有限选择之间挣扎，并成为胡斐长期报恩对象的悲剧人物。
+- [苗人凤 / Miao Renfeng](entities/MiaoRenfeng.md) — 以信任、克制和坦荡使胡斐无法把继承而来的杀父之仇机械化执行的武侠人物。
+- [赵半山 / Zhao Banshan](entities/ZhaoBanshan.md) — 以武学教导、道德要求和不徇私的行为示范塑造胡斐侠义标准的前辈。
+- [凤天南 / Feng Tiannan](entities/FengTiannan.md) — 借地方势力、官府失灵和欺骗迫害钟家，并使胡斐的追责成为陌生人正义测试的恶霸。
 - [《蓝血人》 / Blue Blood Man (Ni Kuang novel)](entities/BlueBloodManNiKuangNovel.md) — 倪匡早期卫斯理小说，以蓝血身份谜团、武侠式科幻、外星归乡与武器竞赛导致的文明自毁连接冒险和核时代寓言。
 - [方天 / Fang Tian (Ni Kuang)](entities/FangTianNiKuang.md) — 《蓝血人》中流落地球约两百年的土星科学家，从危险异类转为归乡者，并见证故乡文明因武器竞赛而崩溃。
 - [《血海飘香》 / Blood Sea Fragrance](entities/BloodSeaFragranceGuLong.md) — 楚留香系列开篇，以强人物塑造和情感表达对照失衡的阴谋逻辑、仓促收尾与性别局限。
@@ -18550,7 +18555,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [局部胜利与战役态势不确定性 / Local Victory and Campaign Uncertainty](concepts/LocalVictoryCampaignUncertainty.md) — 击败眼前敌军不等于找到主力、掌握友军位置或完成战役目标；胜果须与侦察、目标身份和剩余敌力共同判断。
 - [Adaptation Reception Memory / 改编接受中的代际记忆](concepts/AdaptationReceptionMemory.md) — 首看年龄、播出渠道、重播、歌曲、残缺片源与模仿共同塑造某个作品或版本成为默认记忆的过程。
 - [合成兵器体系压制骑兵机动 / Combined-Arms Anti-Cavalry System](concepts/CombinedArmsAntiCavalrySystem.md) — 以远射、长短兵器、重型平台、阵形纵深与集团推进迫使机动骑射力量进入持续接触的来源限定机制。
-- [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有在结合事实判断、合宜方法、他人利益和可预见后果责任时，才构成可信的侠义行动。
+- [Consequence-Sensitive Chivalry / 后果敏感的侠义](concepts/ConsequenceSensitiveChivalry.md) — 善意与武力只有结合事实、受害者、合宜方法、关系压力、代价和可预见后果，才构成可信的侠义行动。
+- [Inherited Enmity Revision / 继承仇恨的修正](concepts/InheritedEnmityRevision.md) — 以因果不确定、亲身接触与对方实际品格为证据，重审继承而来的复仇义务。
 - [Mature-Genre Deconstruction / 成熟类型的解构](concepts/MatureGenreDeconstruction.md) — 类型惯例与共同观众知识成熟后，作品借互文、反转和日常化位移从传统内部完成戏仿与批判。
 - [Story-Earned Moral Instruction / 情节赢得的道德说理](concepts/StoryEarnedMoralInstruction.md) — 明确伦理结论由先前人物选择、冲突、后果和转变支撑，而非依靠说话者权威替代叙事。
 - [De-escalatory Envoy Signaling / 使者示弱式危机降温](concepts/DeescalatoryEnvoySignaling.md) — 以尊重身份、窄化问讯和非惩罚性姿态避免调查对象把使者到来理解为即时攻击，同时区分眼前降温与长期解决。
