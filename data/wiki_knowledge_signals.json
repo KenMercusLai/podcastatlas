@@ -40731,9 +40731,9 @@
       "url": "/wiki/concepts/charismaticwarlegitimacy/"
     },
     "Charlemagne": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1014708592 [GLT1014708592].md",
@@ -40762,6 +40762,13 @@
           "show": "The Rest Is History",
           "title": "524. Charlemagne: Pagan Killer (Part 2)",
           "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
+        },
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
         }
       ],
       "updated": "2026-10-11",
@@ -41248,6 +41255,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/charleslyell/"
+    },
+    "CharlesMartel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/charlesmartel/"
     },
     "CharlesPonzi": {
       "episode_count": 2,
@@ -75991,9 +76014,9 @@
       "url": "/wiki/entities/eileenvandervelden/"
     },
     "Einhard": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6103469677 [GLT6103469677].md",
@@ -76008,6 +76031,13 @@
           "show": "The Rest Is History",
           "title": "524. Charlemagne: Pagan Killer (Part 2)",
           "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
+        },
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
         }
       ],
       "updated": "2026-10-11",
@@ -177368,6 +177398,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/merlin/"
     },
+    "MerovingianDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/merovingiandynasty/"
+    },
     "MerriamWebster": {
       "episode_count": 2,
       "show_count": 2,
@@ -199617,6 +199663,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/papalatlanticpartition/"
     },
+    "PapalFrankishAlliance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/papalfrankishalliance/"
+    },
     "ParadoxMachines": {
       "episode_count": 1,
       "show_count": 1,
@@ -202399,6 +202461,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/peoplesactionparty/"
+    },
+    "PepinTheShort": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/pepintheshort/"
     },
     "PeptideEvidenceHierarchy": {
       "episode_count": 5,
@@ -228942,9 +229020,9 @@
       "url": "/wiki/concepts/royalanimalspectacle/"
     },
     "RoyalAnointingTradition": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4746607803 [GLT4746607803].md",
@@ -228959,9 +229037,16 @@
           "show": "The Rest Is History",
           "title": "634. Joan of Arc: Heroine in Chains (Part 3)",
           "url": "/wiki/sources/634-joan-of-arc-heroine-in-chains-part-3-glt6235222836/"
+        },
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/royalanointingtradition/"
     },
     "RoyalCaribbean": {
@@ -247111,9 +247196,9 @@
       "url": "/wiki/entities/stbartholomewthegreat/"
     },
     "StBoniface": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1735608678 [GLT1735608678].md",
@@ -247121,9 +247206,16 @@
           "show": "The Rest Is History",
           "title": "67. Anglo-German Relations",
           "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+        },
+        {
+          "episode_file": "GLT5104943454 [GLT5104943454].md",
+          "key": "523-charlemagne-return-of-the-kings-part-1-glt5104943454",
+          "show": "The Rest Is History",
+          "title": "523. Charlemagne: Return of the Kings (Part 1)",
+          "url": "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/stboniface/"
     },
     "StBricesDayMassacre": {

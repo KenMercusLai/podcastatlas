@@ -6107,6 +6107,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "523-charlemagne-return-of-the-kings-part-1-glt5104943454": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "524-charlemagne-pagan-killer-part-2-glt1992648453": [
     {
       "key": "history",
@@ -66571,6 +66578,13 @@
     }
   ],
   "PapalAtlanticPartition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PapalFrankishAlliance": [
     {
       "key": "politics",
       "label": "Politics",

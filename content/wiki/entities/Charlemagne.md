@@ -7,6 +7,7 @@ sources:
   - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
   - 525-charlemagne-emperor-of-the-west-part-3-glt6103469677
   - 524-charlemagne-pagan-killer-part-2-glt1992648453
+  - 523-charlemagne-return-of-the-kings-part-1-glt5104943454
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -15,11 +16,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Charlemagne was the expansionist Frankish ruler whose conquest, coercive Christianization, learning reforms, protection of the papacy, and coronation in Rome made Christian order and western empire mutually reinforcing projects.
+Charlemagne was the expansionist Frankish ruler who inherited a militarized, consecrated Carolingian kingdom and whose conquest, coercive Christianization, learning reforms, protection of the papacy, and coronation in Rome made Christian order and western empire mutually reinforcing projects.
 
 ## Current Profile
 
-The sources treat conquest as the material foundation of Charlemagne's later imperial claim. After becoming sole Frankish king, he defeated the Lombards and became their king, campaigned in Spain, attacked the Avars, and fought the decentralized Saxons for decades. The Saxon war exposed the darkest edge of [[CarolingianCorrectio]]: shrine destruction, compulsory baptism, capital laws, mass execution, devastation, hostages, and deportation fused territorial submission with [[CoerciveChristianization]].
+The new prehistory makes inheritance as important as personal conquest. [[CharlesMartel]] had converted the office of palace mayor into military dominance, while [[PepinTheShort]] displaced the [[MerovingianDynasty]], used [[RoyalAnointingTradition|anointing]] to consecrate the new kingship, defended the papacy against the Lombards, and enlarged the realm. Pepin divided that inheritance between Charles and his brother Carloman; after their rivalry and Carloman's natural death in 771, Charles was elected sole king of the Franks.
+
+The sources then treat conquest as the material foundation of Charlemagne's later imperial claim. After becoming sole Frankish king, he defeated the Lombards and became their king, campaigned in Spain, attacked the Avars, and fought the decentralized Saxons for decades. The Saxon war exposed the darkest edge of [[CarolingianCorrectio]]: shrine destruction, compulsory baptism, capital laws, mass execution, devastation, hostages, and deportation fused territorial submission with [[CoerciveChristianization]].
 
 Christian reform also generated internal restraint. [[Alcuin]] argued that forced baptism could not create faith and urged gradual instruction; the episode connects his counsel to reduced coercion in 796-797 without claiming that military pressure ended. [[CarolingianLearningReform]] supplied the constructive branch through Tours manuscript production, more readable and standardized texts, priestly handbooks, and parish teaching. Charlemagne's Christianity therefore appears neither as a disguise for conquest nor as an excuse for it, but as a governing commitment capable of sponsoring learning and legitimating severe violence.
 
@@ -33,7 +36,7 @@ The succession clarifies both achievement and limit. Charlemagne crowned [[Louis
 
 ## Key Characteristics
 
-- Frankish ruler crowned emperor in Rome.
+- Carolingian heir who became sole Frankish king in 771 and was later crowned emperor in Rome.
 - Conqueror whose Lombard, Saxon, Spanish, and Avar campaigns created Roman-scale territorial and resource claims.
 - Christian ruler whose Saxon policy joined compulsory conversion to punitive frontier government.
 - Patron of learning who used manuscripts, clerical formation, and parish teaching to extend correctio.
@@ -43,6 +46,7 @@ The succession clarifies both achievement and limit. Charlemagne crowned [[Louis
 
 ## Evidence
 
+- Dynastic inheritance - [[523-charlemagne-return-of-the-kings-part-1-glt5104943454|Part 1]] connects Charles Martel's military power, Pepin's consecrated kingship, papal protection, and Carloman's death to Charles's sole rule.
 - Conquest and conversion - [[524-charlemagne-pagan-killer-part-2-glt1992648453|Part 2]] connects Lombard, Spanish, Avar, and Saxon war to a resource-rich ruler's expansion and Christian mission.
 - Coercion and counsel - [[524-charlemagne-pagan-killer-part-2-glt1992648453|Part 2]] contrasts compulsory baptism, capital laws, massacre, and deportation with Alcuin's voluntary-faith objection and partial policy easing.
 - Learning and parish formation - [[524-charlemagne-pagan-killer-part-2-glt1992648453|Part 2]] links Charlemagne's correctio to Tours texts, readable script, priestly materials, and rural teaching.
@@ -55,14 +59,13 @@ The succession clarifies both achievement and limit. Charlemagne crowned [[Louis
 
 ## Qualifications
 
-The sources still do not provide a complete military, administrative, legal, theological, social, or economic history of the reign. The scale and chronology of individual campaigns, motives behind sacred violence, fate of Carloman's sons, Old Testament influence, the 782 execution account, degree of policy change after Alcuin's counsel, and reach of parish instruction remain source-dependent. “Revival” does not imply uninterrupted identity with the ancient Roman state. [[Einhard]]'s surprise story and character portrait, Charlemagne's exact prior agreement with Leo, diplomatic motives, and institutional depth also remain interpretive. Later France, Germany, and the Holy Roman Empire should not be projected fully formed into Charlemagne's realm.
+The sources still do not provide a complete military, administrative, legal, theological, social, or economic history of the reign or inheritance. Carloman's intentions and advisers, the circumstances of Charles's election, the scale and chronology of individual campaigns, motives behind sacred violence, fate of Carloman's sons, Old Testament influence, the 782 execution account, degree of policy change after Alcuin's counsel, and reach of parish instruction remain source-dependent. “Revival” does not imply uninterrupted identity with the ancient Roman state. [[Einhard]]'s surprise story and character portrait, Charlemagne's exact prior agreement with Leo, diplomatic motives, and institutional depth also remain interpretive. Later France, Germany, and the Holy Roman Empire should not be projected fully formed into Charlemagne's realm.
 
 ## What Changed
 
-- Added conquest, forced conversion, massacre, and deportation as foundations and moral limits of the ruler's Christian-imperial profile.
-- Added Alcuin's successful but partial challenge to coercive baptism.
-- Added manuscript, clerical, and parish reform as the durable instructional branch of correctio.
-- Preserved coronation, diplomatic recognition, succession, fragmentation, and renewal inside the broader reign.
+- Added Charles Martel's military consolidation, Pepin's anointed kingship, and the papal alliance as Charlemagne's inherited foundations.
+- Clarified that Charlemagne became sole king only after Pepin's partition and Carloman's death.
+- Reframed later conquest, coercive conversion, learning reform, coronation, and fragmentation as developments built on that inheritance.
 
 ## Relationships
 
@@ -78,3 +81,7 @@ The sources still do not provide a complete military, administrative, legal, the
 - [[CoerciveChristianization]] - conversion program whose Saxon implementation exposes the violent edge of his Christian kingship.
 - [[CarolingianLearningReform]] - textual and parish program through which his reform project outlasted conquest.
 - [[CarolingianImperialFragmentation]] - process that broke his realm while preserving its imperial memory.
+- [[CharlesMartel]] - grandfather whose military and ecclesiastical consolidation strengthened the family.
+- [[PepinTheShort]] - father who converted effective Carolingian power into consecrated kingship.
+- [[MerovingianDynasty]] - displaced royal house whose fall made the Carolingian succession possible.
+- [[PapalFrankishAlliance]] - protection-and-recognition relationship inherited and expanded into imperial politics.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2737
+topic_total_pages: 2738
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6516,6 +6516,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "523-charlemagne-return-of-the-kings-part-1-glt5104943454"
+    title: "523. Charlemagne: Return of the Kings (Part 1)"
+    url: "/wiki/sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454/"
   - key: "524-charlemagne-pagan-killer-part-2-glt1992648453"
     title: "524. Charlemagne: Pagan Killer (Part 2)"
     url: "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [523. Charlemagne: Return of the Kings (Part 1)](sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454.md) — The Rest Is History on Charles Martel's consolidation, Pepin's anointed takeover, papal vulnerability, the Lombard threat, and Charlemagne's inheritance.
 - [Essentials: How to Focus to Change Your Brain](sources/essentials-how-to-focus-to-change-your-brain-scim8946719720.md) — Condensed Huberman Lab episode on attention-gated adult neuroplasticity, alertness, selective focus, bounded learning bouts, sleep, and deep-rest consolidation.
 - [524. Charlemagne: Pagan Killer (Part 2)](sources/524-charlemagne-pagan-killer-part-2-glt1992648453.md) — The Rest Is History on Charlemagne's conquests, coercive Saxon conversion, Alcuin's voluntary-faith objection, Carolingian correctio, manuscript reform, and parish instruction.
 - [How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos](sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579.md) — Huberman Lab interview on happiness forecasting, live connection, attention, time affluence, adaptation, emotion, strengths-based work, and prosocial behavior.
@@ -4582,6 +4583,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Charles Martel](entities/CharlesMartel.md) — Frankish palace mayor whose military expansion and control of church appointments built the Carolingian power base.
+- [Pepin the Short](entities/PepinTheShort.md) — Carolingian king who joined effective power, papal approval, anointing, and defense of Rome in a new dynastic settlement.
+- [Merovingian Dynasty](entities/MerovingianDynasty.md) — Frankish royal house whose inherited title and ritual symbolism outlived its effective power before Pepin's accession.
 - [Laurie Santos](entities/LaurieSantos.md) — Yale psychologist translating happiness research into practices involving connection, attention, time, adaptation, emotion, work, and generosity.
 - [Einhard](entities/Einhard.md) — Carolingian biographer whose portrait of Charlemagne mixes court memory with classical imperial styling.
 - [Alcuin](entities/Alcuin.md) — Scholar and adviser who framed Charlemagne's Christian responsibility and Leo III's legal position.
@@ -17954,6 +17958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Papal–Frankish Alliance](concepts/PapalFrankishAlliance.md) — Reciprocal settlement joining papal recognition to Frankish military protection and territorial support.
 - [Coercive Christianization](concepts/CoerciveChristianization.md) — Use of conquest, law, punishment, and custody to impose Christian identity or practice rather than voluntary belief.
 - [Carolingian Correctio](concepts/CarolingianCorrectio.md) — Salvation-oriented program joining political order, religious conformity, textual repair, clerical competence, and teaching.
 - [Carolingian Learning Reform](concepts/CarolingianLearningReform.md) — Carolingian manuscript, script, clergy, and parish reforms for wider Christian instruction.

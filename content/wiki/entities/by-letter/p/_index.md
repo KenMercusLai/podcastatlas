@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13304
+wiki_total_pages: 13307
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "PeoplesDemocracyNorthernIreland"
     title: "People's Democracy (Northern Ireland)"
     url: "/wiki/entities/peoplesdemocracynorthernireland/"
+  - key: "PepinTheShort"
+    title: "Pepin the Short"
+    url: "/wiki/entities/pepintheshort/"
   - key: "Perceval"
     title: "Perceval"
     url: "/wiki/entities/perceval/"

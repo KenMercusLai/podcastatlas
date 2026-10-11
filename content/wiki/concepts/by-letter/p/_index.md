@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10403
+wiki_total_pages: 10404
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "PapalAtlanticPartition"
     title: "Papal Atlantic Partition"
     url: "/wiki/concepts/papalatlanticpartition/"
+  - key: "PapalFrankishAlliance"
+    title: "Papal–Frankish Alliance"
+    url: "/wiki/concepts/papalfrankishalliance/"
   - key: "PaperMagazineSubscriptionRitual"
     title: "Paper Magazine Subscription Ritual / 纸刊订阅仪式"
     url: "/wiki/concepts/papermagazinesubscriptionritual/"

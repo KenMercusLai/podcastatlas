@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13304
+wiki_total_pages: 13307
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "Merlin"
     title: "Merlin"
     url: "/wiki/entities/merlin/"
+  - key: "MerovingianDynasty"
+    title: "Merovingian Dynasty"
+    url: "/wiki/entities/merovingiandynasty/"
   - key: "MerriamWebster"
     title: "Merriam-Webster"
     url: "/wiki/entities/merriamwebster/"

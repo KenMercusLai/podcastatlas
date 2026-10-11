@@ -5,7 +5,8 @@ tags: [monarchy, religion, coronation, legitimacy, political-theology]
 sources:
   - 327-coronations-the-deep-history-part-1-glt4746607803
   - 634-joan-of-arc-heroine-in-chains-part-3-glt6235222836
-last_updated: 2026-10-09
+  - 523-charlemagne-return-of-the-kings-part-1-glt5104943454
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,9 @@ Royal anointing tradition is the use of consecrated oil to set a monarch apart u
 
 ## Current Synthesis
 
-The episode reconstructs royal anointing as a chain of adaptation rather than a single unchanged transmission. Visigothic and Carolingian rulers used anointing to strengthen vulnerable or newly established dynastic claims, while Christian practice drew on Old Testament consecration of priests, objects, Saul, David, and Solomon. The biblical language behind “Zadok the Priest” made the monarch an anointed ruler without simply identifying the ruler with God.
+The sources reconstruct royal anointing as a chain of adaptation rather than a single unchanged transmission. Visigothic and Carolingian rulers used anointing to strengthen vulnerable or newly established dynastic claims, while Christian practice drew on Old Testament consecration of priests, objects, Saul, David, and Solomon. The biblical language behind “Zadok the Priest” made the monarch an anointed ruler without simply identifying the ruler with God.
+
+[[PepinTheShort|Pepin's]] accession supplies the concrete Carolingian case. Pope Zachary's approval helped frame the deposition of the politically weak [[MerovingianDynasty|Merovingian]] king as justified, while anointing in 751 translated effective rule into sacred office. Pope Stephen II's second anointing in 754, appeal for the defense of Saint Peter, and sacred language for the Franks embedded the rite in a reciprocal [[PapalFrankishAlliance|papal–Frankish alliance]]. Repetition did not merely duplicate the ceremony; it strengthened dynastic, papal, and hereditary claims.
 
 This sacralization also imposed a theory of service. Edgar's oath, prostration, justice, mercy, and renunciation of violence placed royal power beneath divine judgment; later ceremonies preserved the anointing as an intimate sacred center even when the wider event became national spectacle and mass media. The rite can therefore legitimate authority while also symbolically limiting it, although neither effect guarantees just rule or public assent.
 
@@ -35,6 +38,7 @@ Charles VII's 1429 Reims ceremony adds a wartime claimant case. His entry after 
 
 ## Evidence
 
+- Carolingian dynastic replacement: [[523-charlemagne-return-of-the-kings-part-1-glt5104943454|Part 1]] joins Zachary's approval, Chilperic III's deposition, Pepin's first anointing, Stephen II's second anointing, and papal protection.
 - Early western precedents: [[327-coronations-the-deep-history-part-1-glt4746607803]] identifies Wamba and Pippin as early examples and stresses the Carolingian legitimacy problem.
 - Biblical framework: [[327-coronations-the-deep-history-part-1-glt4746607803]] connects chrism, Saul, David, Solomon, Zadok, Messiah, and Christ to the language of consecrated rule.
 - Service and restraint: [[327-coronations-the-deep-history-part-1-glt4746607803]] links Edgar's prostration and oaths of peace, justice, mercy, and restrained violence to kingship under God.
@@ -43,12 +47,12 @@ Charles VII's 1429 Reims ceremony adds a wartime claimant case. His entry after 
 
 ## Counterevidence & Qualifications
 
-The sources compress major debates about Visigothic priority, Carolingian practice, biblical interpretation, and possible Syrian or Egyptian precedents. Ritual resemblance does not by itself prove direct transmission. The Reims source does not independently verify every detail of the holy oil or regalia, and Charles's consecration did not produce immediate control of Paris or universal recognition. Anointing can strengthen a claim without making it politically effective, morally justified, or uniformly believed.
+The sources compress major debates about Visigothic priority, Carolingian practice, biblical interpretation, and possible Syrian or Egyptian precedents. Ritual resemblance does not by itself prove direct transmission. Pepin's military and political control preceded papal validation, so consecration should not be treated as the sole cause of his accession. The Reims source does not independently verify every detail of the holy oil or regalia, and Charles's consecration did not produce immediate control of Paris or universal recognition. Anointing can strengthen a claim without making it politically effective, morally justified, or uniformly believed.
 
 ## What Changed
 
-- Added Reims as a wartime case in which campaign access, sacred place, oil, and public witnessing converted a disputed claim into consecrated kingship.
-- Clarified that ritual legitimacy can survive incomplete regalia while remaining insufficient for immediate territorial control.
+- Added Pepin's two-stage consecration as the concrete Carolingian case of dynastic replacement and papal alliance.
+- Clarified that anointing validated prior effective power and strengthened hereditary claims rather than creating power alone.
 
 ## Related Concepts
 
@@ -58,3 +62,4 @@ The sources compress major debates about Visigothic priority, Carolingian practi
 - [[RitualObjectLegendFormation]] - contrasting route by which physical objects gain authority through accumulated story.
 - [[SacredObjectAuthorityMigration]] - broader movement of sacred authority among objects, places, texts, and institutions.
 - [[CharismaticWarLegitimacy]] - campaign authority that helped make Charles VII's anointing politically reachable and persuasive.
+- [[PapalFrankishAlliance]] - protection-and-recognition settlement in which Pepin's consecration became reciprocal political action.
