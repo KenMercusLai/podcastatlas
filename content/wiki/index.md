@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance](sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949.md) — Huberman Lab solo episode on exercise-driven arousal, learning and memory, body-to-brain signaling, sleep, weekly training categories, and effort circuitry.
 - [045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠](sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp.md) — 纸醉金迷FM从李寻欢的牺牲与愧疚切入，讨论龙啸云、林诗音、龙小云和林仙儿之间的忠义、控制、家庭创伤与迟到悔悟。
 - [EP 18: Insurance Transformed: An Actuary's take on AI](sources/ep-18-insurance-transformed-an-actuarys-take-on-ai.md) — Data Science With Sam interview with Stephen Maddis on risk pooling, actuarial workflow inversion, personalization limits, micro-duration coverage, and operational AI efficiency.
 - [VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！](sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl.md) — 这病说来话长多学科讨论便秘定义、功能与器质性分类、生活方式优先处理、盆底协调、产品边界和危险信号。

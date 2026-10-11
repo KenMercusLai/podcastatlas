@@ -16941,9 +16941,9 @@
       "url": "/wiki/entities/antarctica/"
     },
     "AnteriorMidCingulateWillpower": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7958949675 [SCIM7958949675].md",
@@ -16951,9 +16951,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Willpower & Tenacity",
           "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        },
+        {
+          "episode_file": "SCIM5355702949 [SCIM5355702949].md",
+          "key": "how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949",
+          "show": "Huberman Lab",
+          "title": "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance",
+          "url": "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/anteriormidcingulatewillpower/"
     },
     "AnthonyBarber": {
@@ -85193,9 +85200,9 @@
       "url": "/wiki/concepts/exerciseassistivegearboundary/"
     },
     "ExerciseConditionedBloodSignaling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5931542341 [SCIM5931542341].md",
@@ -85210,9 +85217,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
           "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
+        },
+        {
+          "episode_file": "SCIM5355702949 [SCIM5355702949].md",
+          "key": "how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949",
+          "show": "Huberman Lab",
+          "title": "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance",
+          "url": "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/exerciseconditionedbloodsignaling/"
     },
     "ExerciseFatOxidationSequencing": {
@@ -85577,9 +85591,9 @@
       "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
     },
     "ExerciseSnacks": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7037527631 [SCIM7037527631].md",
@@ -85601,15 +85615,22 @@
           "show": "Huberman Lab",
           "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
           "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        },
+        {
+          "episode_file": "SCIM5355702949 [SCIM5355702949].md",
+          "key": "how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949",
+          "show": "Huberman Lab",
+          "title": "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance",
+          "url": "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/exercisesnacks/"
     },
     "ExerciseSpecificBrainAdaptation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -85617,9 +85638,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM5355702949 [SCIM5355702949].md",
+          "key": "how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949",
+          "show": "Huberman Lab",
+          "title": "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance",
+          "url": "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/exercisespecificbrainadaptation/"
     },
     "ExerciseVariationProgressionBalance": {
@@ -208935,9 +208963,9 @@
       "url": "/wiki/concepts/postinfectiousreturntoactivity/"
     },
     "PostLearningArousalTagging": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6024056343 [SCIM6024056343].md",
@@ -208966,9 +208994,16 @@
           "show": "Huberman Lab",
           "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/scim5718648905-scim5718648905/"
+        },
+        {
+          "episode_file": "SCIM5355702949 [SCIM5355702949].md",
+          "key": "how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949",
+          "show": "Huberman Lab",
+          "title": "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance",
+          "url": "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostPlagueSocialMobility": {
