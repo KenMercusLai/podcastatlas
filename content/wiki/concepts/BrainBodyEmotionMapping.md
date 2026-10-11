@@ -13,6 +13,7 @@ sources:
   - how-foods-nutrients-control-our-moods-scim8271372367
   - scim8789190900-scim8789190900
   - essentials-how-foods-nutrients-control-our-moods-scim4673722562
+  - essentials-tools-for-managing-stress-anxiety-scim3070712261
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -68,14 +69,14 @@ The still-earlier stress episode adds a fit hypothesis: a bodily state may feel 
 - Action-and-nutrition application - [[how-foods-nutrients-control-our-moods-scim8271372367]] connects attraction, aversion, organ sensing, food approach, satiety, and neuromodulation while keeping specific nutrient and treatment claims bounded.
 - State-context fit - [[scim8789190900-scim8789190900]] proposes that emotional valence partly reflects whether bodily alertness or fatigue fits current external demands.
 - Condensed action-and-nutrition provenance - [[essentials-how-foods-nutrients-control-our-moods-scim4673722562]] repeats the embodied attraction, aversion, organ-sensing, and nutrient-state account without adding independent evidence.
+- Condensed stress-fit provenance - [[essentials-tools-for-managing-stress-anxiety-scim3070712261]] repeats the idea that bodily arousal or fatigue feels different when it fits or conflicts with external demand, without establishing a complete valence model.
 
 ## Counterevidence & Qualifications
 The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder. The insula result is a mouse manipulation and cannot diagnose, localize, or prescribe treatment for human fear or trauma. State-context fit is descriptive rather than a validated valence equation. The full food-and-mood episode and its Essentials edit are overlapping provenance, not independent confirmation. Nutrition, supplement, microbiome, and neurotransmitter claims likewise do not supply a one-to-one emotional decoder or individualized mood treatment.
 
 ## What Changed
-- Added the early state-context fit hypothesis for why a similar bodily state can feel good or bad in different circumstances.
-- Clarified that fit is a contextual illustration rather than a complete valence model.
-- Added the food-and-mood Essentials edit as overlapping provenance without changing the current embodied-emotion judgment.
+- Added the stress Essentials edit as overlapping provenance for the state-context fit hypothesis.
+- No material judgment changed; fit remains a contextual illustration rather than a complete valence model.
 
 ## Related Concepts
 - [[EmotionsAsFunctionalControlStates]] - broader emotion framework that body mapping may refine.

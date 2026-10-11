@@ -10,8 +10,9 @@ sources:
   - how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173
   - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
   - scim8789190900-scim8789190900
+  - essentials-tools-for-managing-stress-anxiety-scim3070712261
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-11
 ---
 
 # Autonomic Stress Training
@@ -53,14 +54,14 @@ The earlier stress episode makes the proposed skill explicit: enter a safe heigh
 - Recovery supports - [[how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173]] places hard training alongside sleep, play, social connection, hydration, and context rather than treating stress exposure as self-sufficient.
 - Brief-stress dose boundary - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] reports that five-minute stress bouts improved selected mouse outcomes while longer bouts worsened them, then cautions against translating stimulating breathwork into unsupervised treatment for panic- or anxiety-prone people.
 - Early stress-threshold framing - [[scim8789190900-scim8789190900]] defines the target as retaining cognitive control while bodily arousal remains elevated and proposes panoramic vision as one calming attention tool during activation.
+- Condensed stress-threshold provenance - [[essentials-tools-for-managing-stress-anxiety-scim3070712261]] repeats bounded activation, panoramic attention, and later recovery while adding no independent transfer or efficacy test.
 
 ## Counterevidence & Qualifications
 The Adolphs source explicitly calls the ice-bath case an experiment of one, the Willink notes are lived training and leadership accounts, and the Epel source keeps high-arousal biomarker findings preliminary. The cortisol-and-adrenaline source adds mechanistic and immune claims without establishing broad infection prevention, while the fear-and-trauma result is a mouse study rather than a human clinical protocol. Together they do not establish safety, general transfer, trauma treatment, clinical benefit, or suitability for all people. The panoramic-vision proposal also lacks a comparative effect size in the supplied summary. The pre-jiu-jitsu counterexample shows why timing matters. Injury, illness, sleep debt, disordered exercise, pregnancy, cardiovascular risk, panic vulnerability, or unsafe training contexts can make deliberate stress counterproductive.
 
 ## What Changed
-- Added the early stress-threshold formulation: cognitive steadiness during elevated bodily arousal followed by recovery.
-- Added panoramic attention as a proposed in-state tool while preserving the missing effect-size evidence.
-- Clarified that voluntary activation is not equivalent to maximizing discomfort or proving transfer.
+- Added the stress Essentials edit as overlapping provenance for cognitive steadiness during bounded bodily activation.
+- Preserved the missing effect-size, transfer, dose, and safety evidence.
 
 ## Related Concepts
 - [[EmotionRegulationToolkit]] - broader practical toolkit that may include embodied tools.

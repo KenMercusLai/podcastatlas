@@ -8,7 +8,8 @@ sources:
   - scim5718648905-scim5718648905
   - scim8789190900-scim8789190900
   - essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371
-last_updated: 2026-10-10
+  - essentials-tools-for-managing-stress-anxiety-scim3070712261
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The earlier stress episode adds separate chronological provenance for the same b
 
 The later Essentials immune-system edit condenses the same 2021 nervous-system material. It preserves the epinephrine, IL-10, pro-inflammatory-cytokine, and symptom direction but adds no independent participants, replication, infection outcome, or safety evidence.
 
+The stress Essentials edit repeats the same endotoxin example in a second condensed form. It adds no independent participants or infection outcome and therefore changes provenance rather than confidence.
+
 ## Key Claims
 - Brief sympathetic activation may temporarily mobilize immune activity rather than uniformly suppress it.
 - Duration and recovery distinguish proposed acute benefit from chronic immune cost.
@@ -43,15 +46,14 @@ The later Essentials immune-system edit condenses the same 2021 nervous-system m
 - Full-episode provenance - [[scim5718648905-scim5718648905]] joins brief-stress animal work, the human endotoxin example, categorical breath-hold safety, and the distinction between inflammatory symptom modulation and ordinary infection outcomes.
 - Earlier stress provenance - [[scim8789190900-scim8789190900]] uses the endotoxin challenge to illustrate acute immune modulation while warning about breath holds near water and the need for medical clearance.
 - Editorial continuity - [[essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371]] restates the same endotoxin example in condensed form and is not independent confirmation.
+- Stress Essentials continuity - [[essentials-tools-for-managing-stress-anxiety-scim3070712261]] repeats the endotoxin and adrenaline account while preserving medical-clearance and breath-hold safety cautions.
 
 ## Counterevidence & Qualifications
 The source notes do not provide sample size, effect sizes, replication record, or a complete adverse-event profile. Repeated discussion across Huberman Lab episodes, including the condensed immune-system edit, does not independently replicate the experiment. Endotoxin exposure models inflammation without reproducing an ordinary infection, and lower symptoms do not necessarily mean stronger pathogen clearance. Hyperventilation with breath retention can cause loss of consciousness and must not be done near water, while driving, or in other fall-risk settings. Cold exposure, hyperventilation, intense exercise, caffeine, and fasting may be inappropriate with cardiovascular disease, panic vulnerability, pregnancy, medication interactions, illness, or inadequate recovery. The proposed one-to-four-day window remains source-scoped rather than a clinical cutoff.
 
 ## What Changed
-- Added the earlier stress episode as chronological provenance for the endotoxin example.
-- Clarified that repeated discussion of the same study is not independent replication.
-- Preserved the infection-outcome and categorical breath-hold safety boundaries.
-- No material judgment changed; the Essentials edit adds editorial continuity only.
+- Added another condensed edit as overlapping provenance for the endotoxin example.
+- No material judgment changed; repeated editorial coverage does not add replication, infection outcomes, or treatment evidence.
 
 ## Related Concepts
 - [[StressResponseRecovery]] - broader distinction between useful acute activation and costly unrecovered stress.

@@ -7034,9 +7034,9 @@
       "url": "/wiki/concepts/acutesportsinjuryescalation/"
     },
     "AcuteStressImmunePriming": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1515778634 [SCIM1515778634].md",
@@ -7072,9 +7072,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Your Nervous System to Enhance Your Immune System",
           "url": "/wiki/sources/essentials-using-your-nervous-system-to-enhance-your-immune-system-scim6565643371/"
+        },
+        {
+          "episode_file": "SCIM3070712261 [SCIM3070712261].md",
+          "key": "essentials-tools-for-managing-stress-anxiety-scim3070712261",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/essentials-tools-for-managing-stress-anxiety-scim3070712261/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/acutestressimmunepriming/"
     },
     "AcuteWoundBurnFirstAid": {
@@ -22743,9 +22750,9 @@
       "url": "/wiki/concepts/autonomicromanticcoordination/"
     },
     "AutonomicStressTraining": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -22795,9 +22802,16 @@
           "show": "Huberman Lab",
           "title": "Master Stress: Tools for Managing Stress & Anxiety",
           "url": "/wiki/sources/scim8789190900-scim8789190900/"
+        },
+        {
+          "episode_file": "SCIM3070712261 [SCIM3070712261].md",
+          "key": "essentials-tools-for-managing-stress-anxiety-scim3070712261",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/essentials-tools-for-managing-stress-anxiety-scim3070712261/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/autonomicstresstraining/"
     },
     "AutonomousBelongingChoice": {
@@ -31099,9 +31113,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -31172,6 +31186,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Foods & Nutrients Control Our Moods",
           "url": "/wiki/sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562/"
+        },
+        {
+          "episode_file": "SCIM3070712261 [SCIM3070712261].md",
+          "key": "essentials-tools-for-managing-stress-anxiety-scim3070712261",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/essentials-tools-for-managing-stress-anxiety-scim3070712261/"
         }
       ],
       "updated": "2026-10-11",
@@ -203992,9 +204013,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -204058,6 +204079,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
           "url": "/wiki/sources/scim9382980793-scim9382980793/"
+        },
+        {
+          "episode_file": "SCIM3070712261 [SCIM3070712261].md",
+          "key": "essentials-tools-for-managing-stress-anxiety-scim3070712261",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/essentials-tools-for-managing-stress-anxiety-scim3070712261/"
         }
       ],
       "updated": "2026-10-11",
@@ -234070,9 +234098,9 @@
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -234108,9 +234136,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
           "url": "/wiki/sources/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137/"
+        },
+        {
+          "episode_file": "SCIM3070712261 [SCIM3070712261].md",
+          "key": "essentials-tools-for-managing-stress-anxiety-scim3070712261",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/essentials-tools-for-managing-stress-anxiety-scim3070712261/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
     "ServiceDeliveryDemocraticTrust": {
@@ -248394,9 +248429,9 @@
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -248446,6 +248481,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim6217546049-scim6217546049/"
+        },
+        {
+          "episode_file": "SCIM3070712261 [SCIM3070712261].md",
+          "key": "essentials-tools-for-managing-stress-anxiety-scim3070712261",
+          "show": "Huberman Lab",
+          "title": "Essentials: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/essentials-tools-for-managing-stress-anxiety-scim3070712261/"
         }
       ],
       "updated": "2026-10-11",

@@ -35740,3 +35740,11 @@ Added source `532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391`
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Tools for Managing Stress & Anxiety
+
+Added source `essentials-tools-for-managing-stress-anxiety-scim3070712261`; and resynthesized [[PhysiologicalSigh]], [[StressResponseRecovery]], [[AutonomicStressTraining]], [[AcuteStressImmunePriming]], [[BrainBodyEmotionMapping]], and [[SerotoninSocialWellbeingTools]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: acute down-regulation, bounded tolerance practice, and longer-term sleep and social support address different stress timescales, while repeated discussion of the physiological sigh, panoramic vision, and endotoxin challenge does not constitute independent confirmation. No settled contradiction was adopted. The release abridges [[scim8789190900-scim8789190900|the full 2021 episode]]; heart-rate, carbon-dioxide, immune, serotonin, supplement, and exact stress-timescale claims remain source-scoped, and hyperventilation, breath holding, cold exposure, intense exercise, and supplements retain person-specific safety boundaries. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source and concept updates capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,475 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

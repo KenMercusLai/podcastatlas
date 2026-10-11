@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Tools for Managing Stress & Anxiety](sources/essentials-tools-for-managing-stress-anxiety-scim3070712261.md) — Condensed Huberman Lab episode on stress timescales, physiological sighs, bounded arousal training, social buffering, and breathwork, immune, and supplement safety limits.
 - [532. Hitler's War on Poland: The Fall of Warsaw (Part 3)](sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391.md) — The Rest Is History episode on Poland's German and Soviet invasion, Warsaw's siege, Allied non-relief, civilian terror, partition, and early genocidal escalation.
 - [Charting the Architecture of the Universe & Human Life | Dr. Brian Keating](sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321.md) — Huberman Lab conversation on instrument-extended observation, cosmological inference, BICEP's dust correction, South Pole physics, scientific ambition, and evidence-bounded wonder.
 - [VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）](sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp.md) — 这病说来话长 episode on supplement need, treatment boundaries, cross-border identity, contract manufacturing, regulatory claims, paid traffic, and lifestyle-first consumer judgment.

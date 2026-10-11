@@ -8,7 +8,8 @@ sources:
   - scim2344094719-scim2344094719
   - scim8789190900-scim8789190900
   - essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137
-last_updated: 2026-10-10
+  - essentials-tools-for-managing-stress-anxiety-scim3070712261
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -42,13 +43,14 @@ The earlier stress episode supplies a broader long-term-buffering claim: trusted
 - Gratitude-practice branch: [[scim2344094719-scim2344094719]] distinguishes list-based appreciation from received or narratively witnessed gratitude and places serotonin within a broader prefrontal, cingulate, autonomic, empathic, and inflammatory account.
 - Condensed gratitude provenance: [[essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice-scim7126690137]] restates the narrative protocol and broader physiology while adding no serotonin-isolation evidence.
 - Long-term social buffering: [[scim8789190900-scim8789190900]] links trusted connection and delight to reduced chronic stress while presenting serotonin as a proposed mechanism rather than a complete explanation.
+- Condensed social-buffering provenance: [[essentials-tools-for-managing-stress-anxiety-scim3070712261]] repeats trusted contact, pets, play, and delight as longer-term stress buffers while leaving the serotonin mechanism source-scoped.
 
 ## Counterevidence & Qualifications
 The page is not a treatment guide for depression, sleep disorders, appetite problems, libido changes, serotonergic syndrome, or antidepressant use. The myoinositol sleep discussion is explicitly personal and experimental, and social-contact tools depend on consent, relationship context, culture, and safety. The sources do not establish that serotonin mediates every benefit or that ordinary connection is generally more serotonergic than oxytocin-related. The gratitude source's 5-HTP, tryptophan, and kanna discussion is not a recommendation for unsupervised use.
 
 ## What Changed
-- Added the gratitude Essentials edit as overlapping provenance.
-- Clarified that the condensed release does not isolate serotonin as the mechanism.
+- Added the stress Essentials edit as overlapping provenance for social buffering and delight.
+- No material judgment changed; the edit does not establish serotonin as the unique mechanism.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - umbrella state-control model that contains this serotonin branch.

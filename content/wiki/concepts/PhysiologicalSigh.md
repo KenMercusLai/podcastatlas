@@ -12,6 +12,7 @@ sources:
   - scim8789190900-scim8789190900
   - control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621
   - scim9382980793-scim9382980793
+  - essentials-tools-for-managing-stress-anxiety-scim3070712261
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -47,13 +48,14 @@ A third use context is training: one sigh at the start of a rest interval is int
 - Early stress-tool provenance - [[scim8789190900-scim8789190900]] presents one to three double-inhale, long-exhale cycles as a rapid real-time tool and distinguishes the immediate breathing action from the slower return of heart rate toward baseline.
 - Combined-mechanism account - [[control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621]] distinguishes the proposed gas-exchange contribution of the double inhale from exhale-linked heart-rate slowing and treats a simple long exhale as only partially overlapping.
 - Essentials restatement - [[scim9382980793-scim9382980793]] repeats the double-inhale, long-exhale maneuver and contrasts it with inhale-weighted activation, but abridges the already represented 2021 episode rather than supplying an independent comparison.
+- Stress Essentials restatement - [[essentials-tools-for-managing-stress-anxiety-scim3070712261]] repeats the one-to-three-cycle acute maneuver and slower heart-rate recovery while abridging [[scim8789190900-scim8789190900|the full stress episode]] rather than adding an independent test.
 
 ## Counterevidence & Qualifications
 The source summaries do not provide the breathwork trial's full methods, effect sizes, durability, adverse events, or evidence that between-set or side-stitch use improves performance or recovery. The full 2021 interoception episode and its Essentials edit overlap directly and do not increase the number of independent protocol comparisons. Feldman's cell-ablation experiments reduced or eliminated sighing and were followed by deteriorating breathing and health, but the work did not determine whether loss of sighing itself or other effects of cell loss caused the outcome. The 34-person reading comparison does not show that suppressed sighing caused poorer comprehension or that deliberate sighing reverses the effect. The breathing source attributes right-sided stitches to phrenic-nerve referral near the diaphragm and liver, but the summary does not establish that as the cause of an individual's pain. The episodes' alveolar, carbon-dioxide, vagal, and heart-rate explanations are useful teaching models rather than a complete account of cardiorespiratory control, and “fastest” is a host judgment rather than a comparative clinical finding. Breathwork can be uncomfortable or destabilizing for some people, and this simple protocol should not be treated as crisis care, trauma treatment, or a substitute for medical evaluation of breathing, cardiac, exercise-related, or panic symptoms.
 
 ## What Changed
-- Added the Essentials edit as overlapping support for the acute maneuver and inhale-versus-exhale state distinction.
-- Kept the condensed release separate from independent protocol evidence.
+- Added the stress Essentials edit as overlapping provenance for the acute maneuver.
+- Kept the condensed release separate from independent protocol evidence and retained the same cardiorespiratory and clinical limits.
 
 ## Related Concepts
 - [[MentalHealthBiologicalFoundations]] - broader system in which real-time stress control is one component.
