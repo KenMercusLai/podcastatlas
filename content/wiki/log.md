@@ -36420,3 +36420,11 @@ Added source `lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 006 闲话金庸《笑傲江湖》｜令狐冲到底爱谁？
+
+Added source `lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2`; created [[RenYingyingJinYong|任盈盈]]; and resynthesized [[XiaoAoJiangHu|《笑傲江湖》]], [[LinghuChongJinYong|令狐冲]], [[YueLingshanJinYong|岳灵珊]], [[LinPingzhiJinYong|林平之]], [[FictionalRelationshipCompatibilityReading|虚构关系适配性阅读]], [[RelationalSelfConceptSelection|亲密关系选择与自我概念]], and [[SunkCostEntrapment|沉没成本困局]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: gratitude, dependence, desire, promise, first-love memory, jealousy, and release can change at different rates; relational ease and fuller self-expression are evidence of fit without becoming complete proof of love; and Yue Lingshan's continued loyalty may combine sincere attachment, incomplete knowledge, social constraint, and defense of a life-defining investment. No settled contradiction was adopted. The timing and exclusivity of Linghu Chong's attachments, his feeling toward Yilin, Yue Lingshan's regret, Lin Pingzhi's early reciprocity, exact dialogue, chronology, edition changes, motives, unconscious states, gender generalizations, and authorial design remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, character, and concept pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,561 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

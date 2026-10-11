@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [006 闲话金庸《笑傲江湖》｜令狐冲到底爱谁？](sources/lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2.md) — 纸醉金迷FM以令狐冲、任盈盈、岳灵珊和林平之区分爱情、感恩、依赖、初恋记忆、关系适配与沉没成本，同时保留感情转折和排他性的争议。
 - [007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争](sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik.md) — 纸醉金迷FM以华山剑气之争、五岳并派和日月神教继承拆解理念、联盟与口号如何转化为权力竞争，并把令狐冲的退隐解释为扩张计划暂时失效后的政治空间。
 - [008 无招胜有招｜闲话金庸《笑傲江湖》中的武功](sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x.md) — 纸醉金迷FM以“武如其人”和独孤九剑讨论武功如何编码人物、规则如何内化为创造性自由，并以岳灵珊与林平之检验痴情、复仇、权力欲和责任。
 - [009 如果活在《笑傲江湖》的世界，你会选择成为谁？](sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn.md) — 纸醉金迷FM以向问天、方证、冲虚和令狐冲讨论忠诚、利益与门派均衡，并以仪琳、桃谷六仙和影视版本展开爱情伦理、暴力喜剧及改编接受。
@@ -4645,6 +4646,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+
+- [任盈盈（金庸小说） / Ren Yingying (Jin Yong)](entities/RenYingyingJinYong.md) — 《笑傲江湖》中以主动照护、克制、不强迫选择和共同退隐连接爱情与自由的角色。
 - [林平之（金庸小说） / Lin Pingzhi (Jin Yong)](entities/LinPingzhiJinYong.md) — 《笑傲江湖》中从灭门受害者走向复仇、权力欲与加害的悲剧人物。
 - [岳灵珊（金庸小说） / Yue Lingshan (Jin Yong)](entities/YueLingshanJinYong.md) — 《笑傲江湖》中以忠诚、否认和受限女性出路构成悲剧的角色。
 - [令狐冲（金庸小说） / Linghu Chong (Jin Yong)](entities/LinghuChongJinYong.md) — 拒绝以职位定义自我却因武功、婚姻、感恩与跨门派关系持续具有政治分量的《笑傲江湖》主角。

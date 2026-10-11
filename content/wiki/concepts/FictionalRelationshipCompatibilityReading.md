@@ -8,6 +8,7 @@ sources:
   - lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7
   - ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h
   - lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden
+  - lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -32,6 +33,10 @@ The [[ReturnOfTheCondorHeroes|《神雕侠侣》]] episode adds communication an
 
 The preceding episode separates four more dimensions that are often collapsed into love. [[LuWushuangJinYong|陆无双]] shows chemistry and ease without commitment; [[ChengYingJinYong|程英]] shows merit and sacrifice without visibility or reciprocity; [[GongsunLueJinYong|公孙绿萼]] shows how scarce prior care can magnify brief attention without creating compatibility; and [[GuoFuJinYong|郭芙]] shows that attachment may coexist with another genuine bond, hostility, pride, and social-status meaning. Rescue, gratitude, flirtation, guilt, recognition, and exclusive selection therefore require separate evidence.
 
+The [[XiaoAoJiangHu|《笑傲江湖》]] relationship episode makes transition itself part of the method. [[LinghuChongJinYong|令狐冲]] need not pass from “love” to “not love” at one scene: gratitude, dependence, desire, promise, first-love memory, jealousy, and release can change at different rates. His ease with [[RenYingyingJinYong|任盈盈]] versus his anxiety around [[YueLingshanJinYong|岳灵珊]] adds self-expression as compatibility evidence, while Shaolin shows why principled action and romantic choice may be impossible to separate cleanly.
+
+The Yue Lingshan–[[LinPingzhiJinYong|林平之]] branch further separates present attachment from the story a character must preserve about past choice. Teaching, protecting, and being needed can create a valued relational self; later sacrifice may then defend both the partner and the meaning of one's own life. That makes sunk cost and social constraint relevant qualifications without proving that the original feeling was false or that every delayed exit is irrational.
+
 ## Key Claims
 
 - Sacrifice, persistence, and constancy under separation are evidence of attachment, not substitutes for compatibility, communication, or shared decision-making.
@@ -40,7 +45,7 @@ The preceding episode separates four more dimensions that are often collapsed in
 - A strong pairing expands agency and ease for both characters, while chemistry, admiration, gratitude, or unreturned love may still matter without establishing commitment or invalidating independent identity.
 - Counterfactual pairing is most useful when it isolates a specific trait interaction rather than merely producing novelty.
 - Readerly regret, moral approval, canonical outcome, and compatibility are distinct judgments.
-- Immediate attraction and long-term compatibility can diverge; neither merit, rescue, gratitude, prior deprivation, nor sacrifice creates an entitlement to desire.
+- Immediate attraction and long-term compatibility can diverge; neither merit, rescue, gratitude, prior deprivation, nor sacrifice creates an entitlement to desire, while gratitude can still become one ingredient in love.
 
 ## Evidence
 
@@ -79,16 +84,26 @@ The preceding episode separates four more dimensions that are often collapsed in
 - [[lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden]] contrasts Lu Wushuang's ease, Cheng Ying's hidden competence, Gongsun Lü'e's care scarcity, and Guo Fu's antagonistic attachment to separate emotional importance from viable partnership.
 - [[lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden]] distinguishes flirtation, rescue, gratitude, guilt, sacrifice, social recognition, and potentially multiple attachments from proven reciprocity or exclusive selection.
 
+### Gradual transition, gratitude, and relational ease
+
+- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] uses Green Bamboo Lane, Shaolin, Mount Song, and the cart journey to resist assigning Linghu Chong's changing attachments to one decisive conversion scene.
+- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] treats greater humor, boldness, vulnerability, and security with Ren Yingying as evidence of fit while keeping love, gratitude, dependence, and promise distinct.
+
+### Self-concept, sunk cost, and revision of choice
+
+- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] reads Yue Lingshan's move from protected junior to needed caregiver as part of attraction, then qualifies her later loyalty through incomplete knowledge, social expectation, and sunk-cost defense.
+
 ## Counterevidence & Qualifications
 
-The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and beauty, excitement, status, or plural attachment should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social or family deprivation can intensify attention without mechanically causing attachment, and unreturned love can be meaningful without romanticizing self-endangerment, fatal sacrifice, or lifelong fixation. The proposition that love is ranked rather than exclusive remains episode-scoped rather than a universal rule.
+The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and ease should not be treated as proof that a bond is deep, conflict-free, or equal. Beauty, excitement, status, gratitude, or plural attachment should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social or family deprivation and prior investment can intensify attention without mechanically causing attachment, and unreturned love can be meaningful without romanticizing self-endangerment, fatal sacrifice, or lifelong fixation. The propositions that love is ranked rather than exclusive, that gratitude grows into love, or that one scene settles a transition remain episode-scoped rather than universal rules.
 
 ## What Changed
 
-- Distinguished chemistry, flirtation, rescue, gratitude, guilt, social recognition, and sacrifice from reciprocity and partnership.
-- Added care scarcity as a pressure that can magnify attention without proving compatibility.
-- Preserved possible plural attachment without adopting non-exclusivity as a universal law.
-- Reinforced the boundary against deriving romantic debt from merit or self-sacrifice.
+- Added gradual romantic transition when gratitude, dependence, desire, memory, and release change at different rates.
+- Added relational ease and fuller self-expression as compatibility evidence without treating either as conclusive.
+- Distinguished principled action from romantic proof when promise, freedom, and love overlap in one choice.
+- Added relational self-concept and sunk-cost defense as qualifications on attraction and delayed exit.
+- Preserved disagreement over exclusivity, regret, and whether early feeling survives changed partnership.
 
 ## Related Concepts
 
@@ -98,3 +113,6 @@ The framework comes from entertainment-oriented roundtables whose judgments open
 - [[GenerativeDrive]] - adjacent account of relationships that increase mutual goodness and agency rather than domination or depletion.
 - [[JinYongConfucianEthics]] - supplies a neighboring framework for love, duty, public obligation, and the sacrifice of concrete persons to abstract causes.
 - [[ReturnOfTheCondorHeroes|《神雕侠侣》]] - supplies constancy-under-separation and unreturned-love tests for communication, reciprocity, and agency.
+- [[RelationalSelfConceptSelection]] - explains why a relationship's version of the self can affect attraction and fit.
+- [[SunkCostEntrapment]] - qualifies continued investment when exit threatens the meaning assigned to past sacrifice.
+- [[XiaoAoJiangHu|《笑傲江湖》]] - supplies gradual transition, gratitude-to-love, ease, first-love memory, and delayed-exit cases.

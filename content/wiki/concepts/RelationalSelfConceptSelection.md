@@ -4,6 +4,7 @@ type: concept
 tags: [relationships, identity, competence, attachment, literature]
 sources:
   - ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk
+  - lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,10 @@ The bounded [[ZhiZuiJinMiFM|纸醉金迷FM]] reading of [[BookAndSword|《书剑
 
 The concept does not claim that attraction is reducible to status regulation. Beauty, affection, history, temperament, sexuality, shared goals, and circumstance remain relevant. It identifies one additional mechanism: a person may move toward the relationship in which their desired identity feels coherent and away from one that repeatedly activates shame, comparison, or duty. In the episode, the same pattern may extend beyond romance because Chen also prefers a political route that preserves commitment while reducing sustained exposure to conflict and inadequacy.
 
+The [[XiaoAoJiangHu|《笑傲江湖》]] relationship episode adds two contrasting applications. [[LinghuChongJinYong|令狐冲]] is often an anxious junior and inadequate rival around [[YueLingshanJinYong|岳灵珊]], but becomes a more playful, direct, and secure companion with [[RenYingyingJinYong|任盈盈]]. Yue Lingshan moves in the other direction: teaching and protecting [[LinPingzhiJinYong|林平之]] lets the formerly protected junior experience herself as competent, useful, and needed.
+
+These cases prevent the concept from becoming a simple preference for dominance. Ren Yingying is socially powerful and highly capable, yet her clear desire and refusal to compel choice can reduce rather than heighten Linghu Chong's insecurity. Being needed may support Yue Lingshan's agency without proving that Lin Pingzhi is a safe or reciprocal partner. The relevant question is which self-position the interaction repeatedly sustains and at what cost to both people.
+
 ## Key Claims
 
 - Partner choice can be shaped by the self-position a relationship repeatedly evokes, not only by the partner's traits.
@@ -26,6 +31,7 @@ The concept does not claim that attraction is reducible to status regulation. Be
 - Feeling needed is not identical to loving, although the two can coexist.
 - A relationship that feels safe to one person may distribute agency or burden unevenly.
 - The same self-protective pattern may appear across intimate and public roles, but cross-domain parallels require evidence rather than assumption.
+- Capability does not inherently threaten a partner; initiative, comparison, reassurance, and freedom to choose shape whether competence feels safe or humiliating.
 
 ## Evidence
 
@@ -41,15 +47,23 @@ The concept does not claim that attraction is reducible to status regulation. Be
 
 - [[ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk]] parallels Chen's romantic retreat from challenging equality with his hope for a low-cost political solution through 乾隆.
 
+### Ease, comparison, and a more expansive self
+
+- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] contrasts Linghu Chong's anxious self-comparison around Yue Lingshan with greater humor, vulnerability, directness, and security around Ren Yingying.
+
+### Moving from protected to needed
+
+- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] reads Yue Lingshan's teaching and care for Lin Pingzhi as a new self-position that contributes to attraction without guaranteeing reciprocity or safety.
+
 ## Counterevidence & Qualifications
 
-The concept risks mind-reading and should not turn a partner's ability into the cause of another person's insecurity. Preference for dependence may reflect tenderness or circumstance rather than domination, and preference for an equal does not guarantee a healthy relationship. In this literary case, the hosts infer motive from selected scenes; they do not establish Chen's inner cause or exhaust either woman's character. Cross-domain similarity is suggestive, not proof of one stable psychological mechanism.
+The concept risks mind-reading and should not turn a partner's ability into the cause of another person's insecurity. Preference for dependence may reflect tenderness or circumstance rather than domination, and preference for an equal does not guarantee a healthy relationship. Ease may reflect clear reciprocity and trust, but it can also reflect avoidance of challenge or unequal emotional labor. In these literary cases, the hosts infer motive from selected scenes; they do not establish any character's inner cause or exhaust the relevant partners. Cross-domain similarity is suggestive, not proof of one stable psychological mechanism.
 
 ## What Changed
 
-- Established partner choice as partly a selection among possible relational selves.
-- Distinguished feeling needed from reciprocal love.
-- Added a cautious link between romantic safety and cost avoidance in public responsibility.
+- Added anxious comparison versus playful security as contrasting relational selves.
+- Added the shift from protected junior to needed caregiver without equating usefulness with reciprocity.
+- Qualified the idea that a capable partner inherently threatens identity by adding initiative, reassurance, and freedom of choice.
 
 ## Related Concepts
 
@@ -59,3 +73,6 @@ The concept risks mind-reading and should not turn a partner's ability into the 
 - [[OmnipotentSelfBlame]] - inverse strategy that preserves control by treating the self as cause of every relational outcome.
 - [[JinYongConfucianEthics]] - adjacent public-duty frame for comparing identity, title, and enacted responsibility.
 - [[BookAndSword|《书剑恩仇录》]] - bounded literary case connecting intimacy, leadership, and political mission.
+- [[FictionalRelationshipCompatibilityReading]] - evaluates whether a self-position expands mutual agency or merely feels familiar and secure.
+- [[SunkCostEntrapment]] - explains why preserving a valued relational identity can make revision of a failed choice harder.
+- [[XiaoAoJiangHu|《笑傲江湖》]] - supplies comparison, ease, caregiving, and being-needed cases across its central relationships.
