@@ -5,8 +5,9 @@ tags: [circadian-rhythm, shift-work, occupational-health, meal-timing, sleep]
 sources:
   - intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014
   - scim4224560223-scim4224560223
+  - essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-11
 ---
 
 # Shift-Work Circadian Health
@@ -20,6 +21,8 @@ The source treats shift work as a whole-system timing problem rather than only a
 The firefighter study is promising but narrow. Most participants assigned to a self-selected ten-hour eating window followed it at least five days per week, and selected lipid, blood-pressure, and glucose measures improved, particularly among people beginning with elevated risk. Firefighters may sleep between calls and received Mediterranean-diet guidance, so the findings do not directly specify a protocol for nurses, drivers, caregivers, or other workers.
 
 The earlier Huberman episode contributes a light-and-schedule branch. When job control allows, it favors keeping one schedule for roughly 14 days, including days off, using light during the intended active period and limiting light before intended sleep. This is a coherence principle rather than evidence that workers can eliminate occupational risk through self-management; rotating schedules, commuting, family obligations, daylight exposure, and safety-critical fatigue may make it impossible or unsafe to implement.
+
+The Essentials edit restates the same branch and describes shift work as jet lag without travel. Its simplified rule—seek light while body temperature is rising and reduce it while temperature is falling—remains a source-scoped teaching heuristic, not an occupational fatigue-control program or a measured individual phase assessment.
 
 ## Key Claims
 - Shift-work-like behavior can arise whenever people remain active during habitual sleep time, not only in formally labeled night jobs.
@@ -35,13 +38,13 @@ The earlier Huberman episode contributes a light-and-schedule branch. When job c
 - Risk-stratified outcomes - [[intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014]] reports selected VLDL improvement and better blood pressure or glucose management among participants starting with elevated values, without a major whole-group weight difference.
 - Generalization limit - [[intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014]] explicitly distinguishes firefighter sleep opportunities and routines from those of nurses and truck drivers.
 - Schedule and light branch - [[scim4224560223-scim4224560223]] recommends roughly 14-day schedule stability when feasible, light during intended wakefulness, and reduced light before intended sleep.
+- Condensed schedule branch - [[essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369]] restates stable shift blocks and intended-wakefulness light without adding independent occupational evidence.
 
 ## Counterevidence & Qualifications
 One 150-person firefighter study does not establish long-term disease prevention, an optimal eating window, or a universal shift-work intervention. Both groups received Mediterranean-diet guidance, participants differed in baseline health, and the episode summary does not provide complete methods or effect sizes. The 14-day stability rule and light-timing protocol are not controlled occupational evidence, may conflict with commuting or family life, and cannot make sleep-deprived driving or hazardous work safe. Safety-critical fatigue, diabetes, medication timing, pregnancy, caregiving, energy needs, and access to breaks require individualized or occupational guidance.
 
 ## What Changed
-- Added schedule stability and phase-aware light as a second, behaviorally distinct intervention branch.
-- Made occupational feasibility and fatigue safety explicit limits on self-directed timing protocols.
+- Added the Essentials edit as overlapping provenance while retaining job control, commuting, family obligations, and fatigue safety as governing limits.
 
 ## Related Concepts
 - [[CircadianEatingWindowAlignment]] - meal-timing lever tested within disrupted work schedules.

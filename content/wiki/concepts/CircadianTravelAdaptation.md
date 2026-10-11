@@ -8,6 +8,7 @@ sources:
   - scim9724505974-scim9724505974
   - scim4224560223-scim4224560223
   - essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570
+  - essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ The January 2021 episode adds an earlier travel-specific account. It separates t
 
 The Hattar Essentials edit restates the body-time boundary through a New York-to-Italy example: local 8 a.m. can still be biological 2 a.m., so immediate bright light may delay rather than advance the clock. The example sharpens the decision rule but does not supply a complete individualized phase-response plan.
 
+The jet-lag Essentials edit separately condenses the January 2021 travel model: eastward adjustment often requires the harder advance toward earlier sleep, while westward adjustment more often requires staying awake later. It repeats pre-departure cue shifting, destination meal timing, evening light for westward delay, and home-schedule preservation for very short trips, but the overlap is not independent evidence.
+
 ## Key Claims
 - Gradual pre-travel wake-time shifts can reduce the size of the required adjustment after arrival.
 - Light timing around the estimated temperature minimum can advance or delay the circadian clock in different directions.
@@ -46,12 +49,13 @@ The Hattar Essentials edit restates the body-time boundary through a New York-to
 - Internal-time boundary - [[scim9724505974-scim9724505974]] warns that destination-morning light can be mistimed when the body remains on the origin schedule and distinguishes early-evening delay signals from post-temperature-low advance signals.
 - Early travel model - [[scim4224560223-scim4224560223]] distinguishes transit fatigue from circadian mismatch, contrasts eastward and westward demands, coordinates pre-departure shifting with local meals, and proposes home-schedule preservation for very short trips.
 - Condensed body-time example - [[essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar-scim1654029570]] shows why destination-morning light can still fall in the traveler's biological night and move adjustment in the wrong direction.
+- Condensed travel model - [[essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369]] restates east-versus-west demands, pre-travel shifting, local meals, and the short-trip home-schedule heuristic.
 
 ## Counterevidence & Qualifications
 The sources do not provide a complete phase-response curve, individualized nap protocol, trial evidence, or guidance for shift workers, children, pregnancy, medication use, serious sleep disorders, or safety-critical work. The full Hattar interview and Essentials edit are overlapping versions. Temperature-low estimates, origin-to-destination calculations, cue timing, the one-to-three-hour daily shift claim, and the 48-hour home-schedule rule can be wrong. Hattar's recovery reports and illustrative time-zone calculation are not standard recovery durations or personalized light schedules, and severe sleepiness should not be managed by driving or other hazardous activity.
 
 ## What Changed
-- Sharpened the local-clock-versus-body-time boundary while preserving phase estimates as planning aids rather than measured personal circadian phase.
+- Added the Essentials edit as overlapping travel provenance while preserving phase estimates and the short-trip threshold as source-scoped heuristics.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - broader full-day system from which travel cues are drawn.

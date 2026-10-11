@@ -36018,3 +36018,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: How to Defeat Jet Lag, Shift Work & Sleeplessness
+
+Added source `essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369` and resynthesized [[TemperatureMinimumClockShifting]], [[CircadianTravelAdaptation]], [[ShiftWorkCircadianHealth]], [[NonSleepDeepRestRecovery]], and [[SleepSupplementBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: light, activity, meals, and temperature cues can move circadian timing in opposite directions depending on biological phase; travel and shift-work plans therefore need phase context, schedule feasibility, and fatigue safety, while NSDR is not sleep replacement and melatonin is not a behavior-free default. No new settled contradiction was adopted. This Essentials release condenses [[scim4224560223-scim4224560223|the full 2021 episode]], so its lux target, timing windows, shift rate, short-trip threshold, endocrine claims, and NSDR outcomes remain overlapping, source-scoped public education rather than independent evidence or individualized care. Broad [[AndrewHuberman]], [[HubermanLab]], and adjacent light, temperature, and daily-toolkit pages were kept closed because the source note and five bounded concept pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not revised because the condensed episode does not materially change the current synthesis. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,510 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

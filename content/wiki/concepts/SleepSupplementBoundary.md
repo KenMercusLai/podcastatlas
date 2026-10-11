@@ -14,6 +14,7 @@ sources:
   - scim1705222315-scim1705222315
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
   - scim3191061030-scim3191061030
+  - essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -46,6 +47,8 @@ The preceding office-hours episode separately reports magnesium threonate use 30
 
 The Walker Essentials edit narrows the focus to melatonin. It presents melatonin mainly as a darkness and timing signal rather than a sleep generator, reports only small average benefits in healthy younger adults, and contrasts common high commercial doses with much lower studied doses. Because the release condenses the previously ingested full interview, its figures remain source-scoped and non-independent.
 
+The jet-lag Essentials edit likewise treats melatonin as more useful for inducing sleepiness than maintaining sleep and favors timed light, movement, meals, and temperature cues first. Its proposed effects on reproductive hormones are repeated from the longer January 2021 episode and remain a reason for caution and clinician discussion, not independently validated magnitude or a universal prohibition.
+
 ## Key Claims
 - Behavioral tools come first, nutrition second, supplements third, and prescription drugs require physician involvement.
 - Magnesium forms, apigenin, theanine, and occasional inositol are presented as possible sleep supports; evidence may depend on deficiency, formulation, and individual response.
@@ -71,12 +74,13 @@ The Walker Essentials edit narrows the focus to melatonin. It presents melatonin
 - Early individual-response account - [[scim1705222315-scim1705222315]] discusses magnesium threonate, apigenin, passionflower, tryptophan, and 5-HTP while reporting first-person sleep fragmentation after serotonin precursors.
 - Earliest behavior-first and hormone-caution account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] places light, schedule, activity, nutrition, and sleep environment before magnesium threonate, theanine, apigenin, or melatonin and keeps hormone and label-accuracy concerns as reasons for caution rather than efficacy evidence.
 - Condensed melatonin boundary - [[scim3191061030-scim3191061030]] distinguishes a timing signal from a sleep generator and restates low average benefit and dose caution from the full Walker interview.
+- Condensed travel-sleep boundary - [[essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369]] favors behavioral clock cues over routine melatonin and repeats sleep-maintenance and endocrine cautions from the longer episode.
 
 ## Counterevidence & Qualifications
 The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, myo-inositol, magnesium forms, or deficiency testing; quantify reproductive or anti-estrogenic effects; certify product quality; validate doses, label-variance estimates, or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
 
 ## What Changed
-- Clarified that the Essentials melatonin claims are a derivative restatement and do not independently validate efficacy or dose thresholds.
+- Added a second derivative Essentials account without treating its sleep-maintenance or endocrine claims as independent validation.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit that places supplements after behavior and nutrition.

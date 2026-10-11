@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369.md) — Condensed Huberman Lab episode on phase-aware light and temperature timing for travel, shift work, fragmented sleep, NSDR, and cautious melatonin use.
 - [520. Warlords of the West: Barbarian Heirs of Rome (Part 1)](sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273.md) — The Rest Is History on Frankish Roman service, Clovis's conquest and conversion, Saint Martin's cult, and composite Merovingian legitimacy.
 - [042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》](sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t.md) — 纸醉金迷FM从复仇循环、父女关系、悲喜剧结局与代际记忆重读《烟雨濛濛》及其电视改编，并审慎回望琼瑶的人生与爱情观。
 - [VOL.143这两年这些“不正经”的医生做着正经的科普｜开播2周年特辑](sources/vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c.md) — 这病说来话长两周年复盘其非焦虑医学科普、听众共创、制作劳动、商业审查、公益披露与形式演进。
