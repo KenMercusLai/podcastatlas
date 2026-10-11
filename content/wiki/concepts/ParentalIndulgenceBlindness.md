@@ -6,6 +6,7 @@ tags: [parenting, education, family, ethics, western-han]
 sources:
   - zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa
   - 074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas
+  - lovpnvggvmrtfzpn9gvezhrg6xfo
 last_updated: 2026-09-14
 ---
 
@@ -21,6 +22,8 @@ The source's educational point is not that parents should abandon children. It a
 
 The [[LegendOfTheCondorHeroes|《射雕英雄传》]] comparison extends the concept from purchased exemption to concealment and reluctance to confront. [[BaoXiruo|包惜弱]] loves and protects 杨康, but the hosts argue that she withholds his parentage, prioritizes preservation of his secure life, and fails to establish enough authority to correct conduct inside the Jin court. Protection can therefore weaken judgment even when a parent cannot directly erase public consequences.
 
+The [[XiakeXingNovel|《侠客行》]] case adds compensatory protection after bereavement. After losing one child, [[ShiQingXiakeXing|石清]] and [[MinRou|闵柔]] may have overindulged [[ShiZhongyu|石中玉]], weakening limits around the surviving son. The same source also shows a possible corrective boundary: parents can remain attached, accompany the child to face consequences, and attempt restitution without pretending their own service erases his responsibility.
+
 ## Key Claims
 
 - Love can distort judgment when a parent cannot see or name a child's wrongdoing clearly.
@@ -29,7 +32,7 @@ The [[LegendOfTheCondorHeroes|《射雕英雄传》]] comparison extends the con
 - The pattern can produce political consequences when the child belongs to a powerful family whose protection pressures public law.
 - Family education and governance meet when private exemption makes public punishment necessary.
 - Concealing identity or wrongdoing can preserve short-term security while weakening truth, accountability, and moral formation.
-- Indulgence interacts with environment and authority; it is not a complete explanation of a child's later conduct.
+- Indulgence interacts with bereavement, environment, authority, temperament, mentors, and child agency; it is not a complete explanation of later conduct.
 
 ## Evidence
 
@@ -38,15 +41,18 @@ The [[LegendOfTheCondorHeroes|《射雕英雄传》]] comparison extends the con
 - Boundary failure: [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] links Zhao Pingjun's later arrogance and killing of an attendant to deficient upbringing and lack of constraint.
 - Protective concealment: [[074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas]] argues that Bao Xiruo withholds 杨康's parentage and hesitates to disturb his privileged family order.
 - Authority limit: [[074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas]] also identifies court environment and 丘处机's educational failure, preventing maternal indulgence from becoming a sole-cause explanation.
+- Compensatory indulgence after loss: [[lovpnvggvmrtfzpn9gvezhrg6xfo]] speculates that losing one child led Shi Qing and Min Rou to relax limits around the surviving Shi Zhongyu.
+- Protection with accountability: [[lovpnvggvmrtfzpn9gvezhrg6xfo]] presents confession, parental accompaniment, and attempted restitution as stronger than concealment while retaining the child's own responsibility.
 
 ## Counterevidence & Qualifications
 
-The concept is based on one short popular-history episode and one literary podcast, not a developmental-psychology study. It should not be used to blame every parental effort to protect a child; the sources criticize protection that erases truth, responsibility, or limits. The historical case is unusually severe because it involves royal privilege, homicide, and capital punishment, while Bao Xiruo's motives and influence remain disputed fictional interpretation.
+The concept is based on one short popular-history episode and two literary podcast discussions, not a developmental-psychology study. It should not be used to blame bereaved parents or every effort to protect a child; the sources criticize protection that erases truth, responsibility, or limits. The historical case is unusually severe because it involves royal privilege, homicide, and capital punishment, while Bao Xiruo's and the Shi couple's motives and causal influence remain disputed fictional interpretations. A child's later wrongdoing cannot be assigned wholly to a mother, father, or single family event.
 
 ## What Changed
 
 - Extended indulgence from purchased exemption into concealment and conflict avoidance.
 - Added parental authority, privileged environment, mentors, and child choice as causal qualifications.
+- Added compensatory indulgence after bereavement and preserved the boundary between parental support and substituted responsibility.
 
 ## Related Concepts
 
@@ -57,3 +63,4 @@ The concept is based on one short popular-history episode and one literary podca
 - [[NoSmallMattersInGovernance|治无小乱无大]] - political counterpart because tolerated small exemptions can become larger order problems.
 - [[ParentalEmbodiedModeling|身教型家庭教育]] - contrast in which repeated adult conduct and value signals make expectations legible.
 - [[MaternalSurvivalSacrificeEthics|母职求生与牺牲伦理]] - adjacent frame separating caregiving endurance from protective choices that weaken accountability.
+- [[JinYongConfucianEthics]] - ethical neighbor for conflicts among graded family love, confession, restitution, and public justice.

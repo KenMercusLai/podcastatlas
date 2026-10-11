@@ -35556,3 +35556,11 @@ Added source `ls96ywi2jdxmrffx9j5iu5qqct25`; created [[XiakeXingNovel|《侠客�
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去
+
+Added source `lovpnvggvmrtfzpn9gvezhrg6xfo`; created [[BaiZizai|白自在]], [[ShiXiaocui|史小翠]], [[DingBusi|丁不四]], [[MeiFanggu|梅芳姑]], [[ShiQingXiakeXing|石清]], and [[MinRou|闵柔]]; and resynthesized [[XiakeXingNovel|《侠客行》]], [[ShiZhongyu|石中玉]], [[CharacterBasedRomanticCompatibility]], [[ParentalIndulgenceBlindness|溺爱不明]], and [[JinYongConfucianEthics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: visible excellence does not compel reciprocal love; marital domination and retaliatory comparison can form a durable injury cycle; and family loss may contribute to indulgence without determining a child's wrongdoing. Shi Qing and Min Rou's attempt to combine confession, accompaniment, and restitution is more accountable than concealment, but parental sacrifice cannot erase Shi Zhongyu's agency or automatically compensate those harmed. No settled contradiction was adopted. Character psychology, hidden school jealousy, causal claims about upbringing, Jin Yong's autobiographical projection, and the just resolution of kinship-versus-public-duty conflict remain contested or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused work, character, and concept pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,452 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

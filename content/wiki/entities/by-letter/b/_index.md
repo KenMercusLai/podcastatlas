@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13229
+wiki_total_pages: 13235
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1595,6 +1595,9 @@ wiki_pages:
   - key: "BaiRaoLateHan"
     title: "白绕 / Bai Rao (late Han)"
     url: "/wiki/entities/bairaolatehan/"
+  - key: "BaiZizai"
+    title: "白自在 / Bai Zizai"
+    url: "/wiki/entities/baizizai/"
   - key: "BaihuGuanConference"
     title: "白虎观会议 / Baihu Guan Conference"
     url: "/wiki/entities/baihuguanconference/"

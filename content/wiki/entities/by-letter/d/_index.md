@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13229
+wiki_total_pages: 13235
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1172,6 +1172,9 @@ wiki_pages:
   - key: "DescendantsOfTheDragon"
     title: "《龙的传人》 / Descendants of the Dragon"
     url: "/wiki/entities/descendantsofthedragon/"
+  - key: "DingBusi"
+    title: "丁不四 / Ding Busi"
+    url: "/wiki/entities/dingbusi/"
   - key: "DingShizhong"
     title: "丁世忠 / Ding Shizhong"
     url: "/wiki/entities/dingshizhong/"

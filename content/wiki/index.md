@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去](sources/lovpnvggvmrtfzpn9gvezhrg6xfo.md) — 纸醉金迷FM以《侠客行》三代人物讨论婚姻伤害、追求与适配、原生家庭、丧子后溺爱，以及亲情与公义冲突中的认罪和补偿边界。
 - [052 多情女偏爱薄情郎？金庸《侠客行》中的主角爱情](sources/ls96ywi2jdxmrffx9j5iu5qqct25.md) — 纸醉金迷FM以石破天、石中玉、丁当和阿秀讨论刺激、安全、情绪价值与关系判断，并把身份误认从喜剧推进为集体强加自我的心理威胁。
 - [053 科幻外衣下的社会寓言｜大话卫斯理之《头发》](sources/ljbtvkfckw2lb-nykriz05lq35wz.md) — 纸醉金迷FM重读倪匡《头发》，讨论外星流放、宗教使者、意识转移、永生欲望及创造者审判被创造者的伦理矛盾。
 - [054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情](sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t.md) — 纸醉金迷FM比较1987年《倩女幽魂》与《聂小倩》及其他改编，讨论角色表演、悲剧爱情、鬼魅视觉、音乐、人物逻辑和程小东—徐克创作分工。
@@ -4533,9 +4534,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
 
 ## Entities
-- [《侠客行》 / Ode to Gallantry](entities/XiakeXingNovel.md) — 金庸小说，以爱情识别、身份误认、名实之辨和童话式传奇逻辑共同追问“我是谁”。
+- [白自在 / Bai Zizai](entities/BaiZizai.md) — 以封闭环境中的自大、婚姻支配及遭遇强者后的认知修正展开的《侠客行》人物。
+- [史小翠 / Shi Xiaocui](entities/ShiXiaocui.md) — 以武功反制、旧日选择比较和最终回归呈现婚姻抗争与长期依恋的《侠客行》人物。
+- [丁不四 / Ding Busi](entities/DingBusi.md) — 对史小翠的爱、竞争与执念难分，同时对梅文馨母女缺乏责任的《侠客行》人物。
+- [梅芳姑 / Mei Fanggu](entities/MeiFanggu.md) — 以全面才艺、自卑、拒绝创伤和伤害转移检验优秀不等于爱情资格的《侠客行》人物。
+- [石清（侠客行） / Shi Qing](entities/ShiQingXiakeXing.md) — 以坚定伴侣选择、圆融边界和面对儿子恶行的责任方案连接爱情与公义的《侠客行》人物。
+- [闵柔 / Min Rou](entities/MinRou.md) — 以温柔、丧子后的夫妻互助、保护性母爱和走向问责呈现亲情两难的《侠客行》人物。
+- [《侠客行》 / Ode to Gallantry](entities/XiakeXingNovel.md) — 金庸小说，以三代婚恋亲子关系、身份误认、名实之辨和童话式传奇逻辑共同追问性格、责任与“我是谁”。
 - [石破天 / Shi Potian](entities/ShiPotian.md) — 《侠客行》主角，以真诚、可靠和稳定行为抵抗被集体强加的石中玉身份。
-- [石中玉 / Shi Zhongyu](entities/ShiZhongyu.md) — 以机敏调情制造吸引力、也以伤害和逃避暴露长期风险的《侠客行》人物。
+- [石中玉 / Shi Zhongyu](entities/ShiZhongyu.md) — 以机敏调情制造吸引力、以伤害和逃避暴露长期风险，并使父母保护与公共问责相冲突的《侠客行》人物。
 - [丁当（侠客行） / Ding Dang](entities/DingDangXiakeXing.md) — 明知石中玉不可靠仍偏爱其情绪刺激，并把石破天当作替身的《侠客行》人物。
 - [阿秀（侠客行） / A Xiu](entities/AXiuXiakeXing.md) — 通过行为与安全感识别石破天，同时保留温柔引导与间接控制两种读法的人物。
 - [《倩女幽魂》(1987) / A Chinese Ghost Story](entities/AChineseGhostStory1987.md) — 程小东执导、徐克监制的香港奇幻爱情片，以角色感情与视听创造力覆盖部分叙事粗粝。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13229
+wiki_total_pages: 13235
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2219,6 +2219,9 @@ wiki_pages:
   - key: "ShiZimiaoLateHan"
     title: "史子眇 / Shi Zimiao (late Han)"
     url: "/wiki/entities/shizimiaolatehan/"
+  - key: "ShiXiaocui"
+    title: "史小翠 / Shi Xiaocui"
+    url: "/wiki/entities/shixiaocui/"
   - key: "ShiBiLateHan"
     title: "史弼 / Shi Bi (late Han)"
     url: "/wiki/entities/shibilatehan/"
@@ -2792,6 +2795,9 @@ wiki_pages:
   - key: "ShiXianWesternHan"
     title: "石显 / Shi Xian (Western Han)"
     url: "/wiki/entities/shixianwesternhan/"
+  - key: "ShiQingXiakeXing"
+    title: "石清（侠客行） / Shi Qing"
+    url: "/wiki/entities/shiqingxiakexing/"
   - key: "ShiPotian"
     title: "石破天 / Shi Potian"
     url: "/wiki/entities/shipotian/"

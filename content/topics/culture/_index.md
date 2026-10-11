@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3414
+topic_total_pages: 3415
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8835,6 +8835,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "lovpnvggvmrtfzpn9gvezhrg6xfo"
+    title: "051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去"
+    url: "/wiki/sources/lovpnvggvmrtfzpn9gvezhrg6xfo/"
   - key: "ls96ywi2jdxmrffx9j5iu5qqct25"
     title: "052 多情女偏爱薄情郎？金庸《侠客行》中的主角爱情"
     url: "/wiki/sources/ls96ywi2jdxmrffx9j5iu5qqct25/"
