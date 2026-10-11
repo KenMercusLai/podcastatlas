@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [047 从《还珠格格》十级问答聊开去](sources/lmjhsewrqbnqsy8d1ilyp_xo885e.md) — 纸醉金迷FM从十级问答转向人物重估，以双女主互补、喜剧解构权威、证据化和解及父皇祛魅重读《还珠格格》。
 - [534. Emperors of Rome: Sex Secrets of the Caesars (Part 1)](sources/534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602.md) — The Rest Is History introduction to Suetonius's scholarship, court access, imperial biography, Augustan performance, Roman sexual status, and gossip as cultural evidence.
 - [The Art of Learning & Living Life | Josh Waitzkin](sources/scim6762906273-scim6762906273.md) — Huberman Lab conversation on cross-domain mastery, pressure-loss analysis, MIQ incubation, transition-zone training, dynamic renewal, and post-conscious performance.
 - [048 人生识字忧患始：金庸《侠客行》到底想表达什么？](sources/lkwyqt4w5g-uet_vckex3f33nu8n.md) — 纸醉金迷FM以侠客岛、石破天多重名字和武学图谱讨论信息不透明、责任、赤子之心、身份标签，以及知识框架如何遮蔽视觉与身体层面的答案。
@@ -4551,6 +4552,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [《还珠格格》 / My Fair Princess](entities/HuanzhuGege.md) — 以误认身份、双女主互补、宫廷喜剧和成年重看中的人物灰度展开的琼瑶作品。
+- [小燕子 / Xiaoyanzi](entities/Xiaoyanzi.md) — 以草根活力、临场应变和日常平等拆解宫廷庄严，同时承担身份误认风险的女主角。
+- [夏紫薇 / Xia Ziwei](entities/XiaZiwei.md) — 以韧性、识人、证据化和解和对乾隆的祛魅维持故事核心地位的女主角。
 - [Josh Waitzkin](entities/JoshWaitzkin.md) — Chess international master, martial artist, author, and coach whose profile centers on cross-domain learning, failure analysis, and dynamic renewal.
 - [Marcelo Garcia](entities/MarceloGarcia.md) — Brazilian jiu-jitsu champion used as the episode's main case of scramble mastery and rebuilding after victory.
 - [Lila Science](entities/LilaScience.md) — Source-scoped AI, robotics, and iterative-science project connected to question quality, material science, and safety.
@@ -17871,6 +17875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Dual Female Protagonist Complementarity / 双女主互补结构](concepts/DualFemaleProtagonistComplementarity.md) — 两位女性以不同但相互依赖的叙事功能共同维持主角地位，而非争夺唯一中心。
 - [Cross-Domain Thematic Transfer](concepts/CrossDomainThematicTransfer.md) — Carrying structural principles such as timing, pressure, or empty space across practices without treating surface techniques as interchangeable.
 - [Pressure-Loss Analysis](concepts/PressureLossAnalysis.md) — Review of consequential failure at technical, psychological, and thematic levels so pain becomes usable evidence rather than identity verdict.
 - [Most-Important-Question Incubation](concepts/MostImportantQuestionIncubation.md) — Work-rest cycle that poses one live question, releases effort, and captures returning insight before outside input.

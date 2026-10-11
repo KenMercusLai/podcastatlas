@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws
   - 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513
   - 39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk
-last_updated: 2026-10-08
+  - lmjhsewrqbnqsy8d1ilyp_xo885e
+last_updated: 2026-10-11
 ---
 
 ## Overview
 
-Qianlong was a Qing emperor represented here through political suppression, palace-market entertainment, and the translated diplomacy of the [[MacartneyEmbassy|Macartney Embassy]].
+Qianlong was a Qing emperor represented here through political suppression, palace-market entertainment, and the translated diplomacy of the [[MacartneyEmbassy|Macartney Embassy]], alongside a clearly separated fictional television portrayal in [[HuanzhuGege|《还珠格格》]].
 
 ## Current Profile
 
@@ -22,6 +23,8 @@ The Hanji 920 source uses Qianlong in a smaller comparative role. Its account of
 
 The [[MacartneyEmbassy|Macartney Embassy]] places diplomatic judgment inside imperfect translation. Qianlong initially encountered British communications that had been recast into Qing forms of deference and tribute. Yet a comparatively accurate Chinese version of [[GeorgeMacartney|George Macartney]]'s formal letter reportedly conveyed requests including a resident representative in Beijing and expanded commercial access. Qianlong rejected those requests and ordered closer scrutiny of the mission. He therefore appears neither wholly ignorant nor simply deceived: translation shaped his initial frame, while institutional and security judgment remained operative once demands became clearer.
 
+The [[HuanzhuGege|《还珠格格》]] discussion adds reception history rather than historical evidence. Its fictional Qianlong wants to repair his failure toward Xia Yuhe and therefore helps explain away gaps in [[Xiaoyanzi|小燕子]]'s story, even though he is perceptive enough to notice coached language and suspicious behavior. His affection for Xiaoyanzi's vitality conflicts with his duty and desire to preserve imperial order. [[XiaZiwei|紫薇]]'s maturation then depends on seeing him not only as an idealized father, but as emperor and desiring man. This branch describes a television character and adult rereading; it does not revise the historical profile.
+
 ## Key Characteristics
 
 - Successor who replaced Yongzheng's public-rebuttal strategy with execution and suppression in the Zeng Jing case.
@@ -29,6 +32,7 @@ The [[MacartneyEmbassy|Macartney Embassy]] places diplomatic judgment inside imp
 - Participant in palace-market entertainment used as a later comparison for royal commercial play.
 - Emperor receiving British diplomacy through translated forms of tribute, deference, and imperial grace.
 - Decision-maker who rejected major British requests after a more accurate Chinese statement made them legible.
+- Fictionalized father-emperor whose affection, guilt, perceptiveness, desire, and coercive office remain in tension.
 
 ## Evidence
 
@@ -37,16 +41,17 @@ The [[MacartneyEmbassy|Macartney Embassy]] places diplomatic judgment inside imp
 - Palace-market comparison: [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws]] cites the Tongleyuan market street as a later case of staged royal commerce.
 - Translated first impression: [[39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk]] says Chinese translations presented the British mission through tributary and deferential language.
 - Informed refusal: [[39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk]] says Qianlong received a clearer version of the mission's central demands, rejected them, and increased surveillance.
+- Fictional father-emperor: [[lmjhsewrqbnqsy8d1ilyp_xo885e]] distinguishes the television character's guilt-driven belief, attraction to Xiaoyanzi's freedom, defense of court order, and Ziwei's eventual disenchantment.
 
 ## Qualifications
 
-These three sources illuminate separate episodes rather than a comprehensive reign. The Zeng Jing account is mediated through a popular discussion of Jonathan Spence; the palace-market detail is a brief cross-dynastic comparison; and the Macartney episode selects translated letters and anecdotes without reproducing the complete multilingual archive. Exact responsibility for executions, suppression policy, Tongleyuan practice, diplomatic translation, security reasoning, and the rejection of British requests remains source-scoped. Understanding some demands does not imply comprehensive knowledge of Britain, while translation distortion does not prove that clearer wording would have changed policy.
+The three historical sources illuminate separate episodes rather than a comprehensive reign. The Zeng Jing account is mediated through a popular discussion of Jonathan Spence; the palace-market detail is a brief cross-dynastic comparison; and the Macartney episode selects translated letters and anecdotes without reproducing the complete multilingual archive. Exact responsibility for executions, suppression policy, Tongleyuan practice, diplomatic translation, security reasoning, and the rejection of British requests remains source-scoped. Understanding some demands does not imply comprehensive knowledge of Britain, while translation distortion does not prove that clearer wording would have changed policy. The fourth source concerns a fictional character and later reception; it cannot establish historical personality, domestic relations, palace conduct, or Qing institutions.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1 using its complete preserved source inventory.
-- Added Macartney diplomacy while distinguishing translated framing from informed refusal.
-- Integrated punishment, memory control, palace entertainment, and foreign-policy judgment without treating them as one motive.
+- Added the My Fair Princess portrayal while strictly separating fictional reception from historical evidence.
+- Identified fatherly affection and guilt versus imperial order as the television character's governing tension.
+- Added Ziwei's disenchantment as a reception claim, not a judgment about the historical emperor.
 
 ## Relationships
 
@@ -58,3 +63,6 @@ These three sources illuminate separate episodes rather than a comprehensive rei
 - [[GeorgeMacartney|George Macartney]] - British envoy whose requests he received and rejected.
 - [[MacartneyEmbassy]] - diplomatic encounter shaped by both mistranslation and substantive disagreement.
 - [[TranslationAsPoliticalMediation]] - explains how tributary framing shaped information without fully determining his decision.
+- [[HuanzhuGege|《还珠格格》]] - fictional television context that must remain separate from historical evidence.
+- [[Xiaoyanzi|小燕子]] - fictional daughter figure whose freedom he both enjoys and disciplines.
+- [[XiaZiwei|夏紫薇]] - fictional daughter whose maturation includes disenchantment with him.

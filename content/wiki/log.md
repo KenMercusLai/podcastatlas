@@ -35692,3 +35692,11 @@ Added source `534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt36969336
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 047 从《还珠格格》十级问答聊开去
+
+Added source `lmjhsewrqbnqsy8d1ilyp_xo885e`; created [[HuanzhuGege|《还珠格格》]], [[Xiaoyanzi|小燕子]], [[XiaZiwei|夏紫薇]], and [[DualFemaleProtagonistComplementarity|双女主互补结构]]; and resynthesized [[LaughterAgainstAuthority]] and [[QianlongEmperor|乾隆]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the work distributes protagonist labor between Xiaoyanzi's improvisational, authority-deflating energy and Ziwei's endurance, interpretation, and crisis judgment; the mistaken identity survives through coercion and motivated belief rather than a flawless lie; and Ziwei's reconciliation follows risk assessment and clarified evidence rather than automatic forgiveness. No settled contradiction was adopted. Quiz answers, character motives, romance definitions, casting counterfactuals, version rankings, audience response, authorial intention, and historical palace implications remain uncertain or source-scoped; the fictional Qianlong is explicitly separated from the historical emperor. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], adaptation-reception, and compassionate-interpretation pages were kept closed because focused work, character, structure, comedy, and ruler pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,469 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

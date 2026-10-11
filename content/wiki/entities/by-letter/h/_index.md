@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13252
+wiki_total_pages: 13255
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "HaikeyiDeJinNvshi"
     title: "《还可以的金女士》"
     url: "/wiki/entities/haikeyidejinnvshi/"
+  - key: "HuanzhuGege"
+    title: "《还珠格格》 / My Fair Princess"
+    url: "/wiki/entities/huanzhugege/"
   - key: "HongmenYan"
     title: "《鸿门宴》"
     url: "/wiki/entities/hongmenyan/"
