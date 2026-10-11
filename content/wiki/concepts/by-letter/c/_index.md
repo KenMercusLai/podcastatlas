@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10376
+wiki_total_pages: 10377
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "ChristmasTruce1914"
     title: "Christmas Truce of 1914"
     url: "/wiki/concepts/christmastruce1914/"
+  - key: "ChronicConstipationRecognitionAndManagement"
+    title: "Chronic Constipation Recognition and Management"
+    url: "/wiki/concepts/chronicconstipationrecognitionandmanagement/"
   - key: "ChronicDiseaseTreatmentAdherence"
     title: "Chronic Disease Treatment Adherence / 慢病治疗依从性"
     url: "/wiki/concepts/chronicdiseasetreatmentadherence/"

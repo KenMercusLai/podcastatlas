@@ -45939,6 +45939,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/christyescobel/"
     },
+    "ChronicConstipationRecognitionAndManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrg2hmtRRg95LoswWzp-w0LR6lXL [lrg2hmtRRg95LoswWzp-w0LR6lXL].md",
+          "key": "vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl",
+          "show": "这病说来话长",
+          "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
+          "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/chronicconstipationrecognitionandmanagement/"
+    },
     "ChronicDiseaseTreatmentAdherence": {
       "episode_count": 4,
       "show_count": 1,
@@ -134930,9 +134946,9 @@
       "url": "/wiki/concepts/irreversibledefectionbinding/"
     },
     "IrritableBowelSyndromeDiagnosticBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -134947,9 +134963,16 @@
           "show": "这病说来话长",
           "title": "VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？",
           "url": "/wiki/sources/vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy/"
+        },
+        {
+          "episode_file": "lrg2hmtRRg95LoswWzp-w0LR6lXL [lrg2hmtRRg95LoswWzp-w0LR6lXL].md",
+          "key": "vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl",
+          "show": "这病说来话长",
+          "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
+          "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/irritablebowelsyndromediagnosticboundary/"
     },
     "IsARiverAlive": {
@@ -139697,9 +139720,9 @@
       "url": "/wiki/entities/jiangyongliang/"
     },
     "JiangYuliangDoctor": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -139728,9 +139751,16 @@
           "show": "这病说来话长",
           "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
           "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
+        },
+        {
+          "episode_file": "lrg2hmtRRg95LoswWzp-w0LR6lXL [lrg2hmtRRg95LoswWzp-w0LR6lXL].md",
+          "key": "vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl",
+          "show": "这病说来话长",
+          "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
+          "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/jiangyuliangdoctor/"
     },
     "JianghuScamCraft": {
@@ -200753,9 +200783,9 @@
       "url": "/wiki/entities/pele/"
     },
     "PelvicFloorFunctionMatching": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6177024080 [SCIM6177024080].md",
@@ -200763,9 +200793,16 @@
           "show": "Huberman Lab",
           "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
           "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
+        },
+        {
+          "episode_file": "lrg2hmtRRg95LoswWzp-w0LR6lXL [lrg2hmtRRg95LoswWzp-w0LR6lXL].md",
+          "key": "vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl",
+          "show": "这病说来话长",
+          "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
+          "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/pelvicfloorfunctionmatching/"
     },
     "PenVogler": {
@@ -211906,9 +211943,9 @@
       "url": "/wiki/concepts/proactiveagents/"
     },
     "ProbioticUseBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lke8OiLilC0gj089igUskLInPo0n [lke8OiLilC0gj089igUskLInPo0n].md",
@@ -211916,9 +211953,16 @@
           "show": "这病说来话长",
           "title": "VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？",
           "url": "/wiki/sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n/"
+        },
+        {
+          "episode_file": "lrg2hmtRRg95LoswWzp-w0LR6lXL [lrg2hmtRRg95LoswWzp-w0LR6lXL].md",
+          "key": "vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl",
+          "show": "这病说来话长",
+          "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
+          "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/probioticuseboundary/"
     },
     "ProblemLedInterdisciplinarity": {
@@ -221141,6 +221185,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/rentingeasternhan/"
+    },
+    "RenXinImagingDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrg2hmtRRg95LoswWzp-w0LR6lXL [lrg2hmtRRg95LoswWzp-w0LR6lXL].md",
+          "key": "vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl",
+          "show": "这病说来话长",
+          "title": "VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！",
+          "url": "/wiki/sources/vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/renxinimagingdoctor/"
     },
     "RenYanEasternHan": {
       "episode_count": 1,

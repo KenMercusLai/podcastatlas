@@ -7,14 +7,15 @@ sources:
   - vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb
   - vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz
   - vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n
-last_updated: 2026-10-10
+  - vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 # 蒋宇亮 / Jiang Yuliang
 
 ## Overview
-蒋宇亮 is a gastroenterology doctor in four ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes, contributing first-visit and abdominal-pain triage in VOL.218, liver-health education in VOL.156, a digestive-health listener Q&A in VOL.94, and anorectal, flatulence, stool, and probiotic education in VOL.179. The supplied VOL.94 note renders his name as 江宇亮, which the wiki preserves as a source-level spelling variation.
+蒋宇亮 is a gastroenterology doctor in five ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes, contributing first-visit and abdominal-pain triage, liver-health education, digestive listener Q&A, anorectal and probiotic education, and a multidisciplinary constipation discussion. The supplied VOL.94 and VOL.148 notes render his name as 江宇亮, which the wiki preserves as a source-level spelling variation.
 
 ## Current Profile
 The source presents 蒋宇亮 as the clinician most associated with first-visit triage and abdominal-pain complexity. His explanation starts from chief complaint, symptom duration, and fixed follow-up questions, then moves to a safety priority: screen dangerous or fatal disease before settling into ordinary symptomatic treatment.
@@ -27,6 +28,8 @@ VOL.94 applies the same risk-stratified style to common digestive questions. Blo
 
 VOL.179 adds a mechanism-to-triage explanation of bowel function. He connects rectal sensing and coordinated propulsion and sphincter control to the ability to distinguish gas, liquid, and solid contents, then explains why diarrhea, infection, aging, immobility, or pelvic-floor decline can impair that process. He treats gas frequency, odor, sound, and stool appearance as contextual observations, keeps bleeding and abnormal stool colors inside clinical evaluation, and frames probiotics as condition- and person-dependent rather than routine health products.
 
+VOL.148 consolidates that bowel-health reasoning into [[ChronicConstipationRecognitionAndManagement]]. It distinguishes occasional difficulty from a persistent symptom cluster, separates organic obstruction from transit and evacuation disorders, places fluid, fiber, movement, and bowel timing before routine laxative use, and escalates bleeding or persistent stool-shape change. Its exact diagnostic thresholds, product claims, and treatment details remain source-scoped.
+
 ## Key Characteristics
 - Explains first visits as structured history-taking around the chief complaint.
 - Prioritizes dangerous-disease screening before routine symptomatic management.
@@ -34,7 +37,7 @@ VOL.179 adds a mechanism-to-triage explanation of bowel function. He connects re
 - Treats test-result follow-up and escalation routes as part of diagnosis.
 - Translates silent liver injury, fatty-liver progression, alcohol, medicines, supplements, diet, and sleep into cause-based prevention and follow-up questions.
 - Keeps product, medication, and drinking-practice claims inside qualified-care and source-scope boundaries.
-- Uses anorectal function, pathology, lesion risk, stool warning signs, family history, and symptom severity to separate routine digestive self-care from specialist escalation.
+- Uses anorectal function, constipation mechanism, pathology, lesion risk, stool warning signs, family history, and symptom severity to separate routine digestive self-care from specialist escalation.
 
 ## Evidence
 - Structured triage: [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] has 蒋宇亮 describe starting with where discomfort is, how long it has lasted, and what dangerous disease must be excluded.
@@ -46,14 +49,16 @@ VOL.179 adds a mechanism-to-triage explanation of bowel function. He connects re
 - Pathology-guided follow-up: [[vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz]] emphasizes tissue pathology and risk-specific surveillance after polyps, dysplasia, ESD, or prior abnormal examinations.
 - Anorectal discrimination and bowel coordination: [[vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n]] connects rectal sensing, neural interpretation, propulsion, and sphincter control to gas-versus-stool discrimination, constipation, and continence.
 - Gas, stool, and product boundaries: [[vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n]] treats gas and stool appearance as contextual signals, escalates bleeding or abnormal color patterns, and rejects probiotics as a universal healthy-person necessity.
+- Constipation classification and first-line care: [[vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl]] distinguishes short-lived difficulty from persistent constipation, separates organic from functional subtypes, and puts combined lifestyle support before routine laxative use.
+- Constipation escalation: [[vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl]] routes bleeding, persistent shape change, and possible intraluminal or external obstruction toward structured assessment.
 
 ## Qualifications
-The page is based only on four episode notes. It does not independently verify 蒋宇亮's full institutional affiliation or credentials beyond the sources' gastroenterology role. VOL.94 calls the guest 江宇亮 and names Beijing You'an Hospital; later notes use 蒋宇亮, while another source has a distinct 蒋永亮 record. The wiki does not treat these spellings as independently verified identity evidence. Disease timelines, nutrition and exercise mechanisms, alcohol practices, anorectal mechanisms, stool-color associations, probiotic effects, endoscopy intervals, and treatment discussion remain source-scoped public education rather than individualized care.
+The page is based only on five episode notes. It does not independently verify 蒋宇亮's full institutional affiliation or credentials beyond the sources' gastroenterology role. VOL.94 and VOL.148 call the guest 江宇亮 and VOL.94 names Beijing You'an Hospital; later notes use 蒋宇亮, while another source has a distinct 蒋永亮 record. The wiki does not treat these spellings as independently verified identity evidence. Disease timelines, nutrition and exercise mechanisms, alcohol practices, anorectal mechanisms, constipation thresholds, stool-color and stool-shape associations, probiotic effects, endoscopy intervals, and treatment discussion remain source-scoped public education rather than individualized care.
 
 ## What Changed
-- Added anorectal sensing and muscle-coordination context for gas-versus-stool discrimination, constipation, and continence.
-- Extended his digestive triage profile with stool-form, stool-color, bleeding, gas-odor, and probiotic-use boundaries.
-- Kept uncertain gas-reabsorption, frequency, odor-disease, cold-stimulus, stool-color, and probiotic claims qualified and source-scoped.
+- Added explicit constipation classification, lifestyle-first management, and obstruction-warning context.
+- Extended the source-level 江宇亮 spelling variation to VOL.148 without merging him into the distinct 蒋永亮 record.
+- Kept exact thresholds, stool-shape claims, product mechanisms, and treatment details qualified and source-scoped.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as a medical guest.
@@ -71,3 +76,4 @@ The page is based only on four episode notes. It does not independently verify �
 - [[FlatulenceAsHealthSignal]] - gas-production, retention, motility, and escalation context he explains.
 - [[AnorectalSensationAndCoordination]] - rectal discrimination and muscle-coordination framework he develops in VOL.179.
 - [[ProbioticUseBoundary]] - condition- and person-specific boundary he applies to probiotic use.
+- [[ChronicConstipationRecognitionAndManagement]] - classification, first-line support, and escalation framework he develops in VOL.148.

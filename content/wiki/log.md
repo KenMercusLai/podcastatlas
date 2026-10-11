@@ -35756,3 +35756,11 @@ Added source `531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt543788449
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.148你为拉屎做过哪些努力？有的可能不是便秘，但有的需要警惕！
+
+Added source `vol-148-ni-wei-lashi-zuoguo-naxie-nuli-youde-keneng-bushi-bianmi-dan-youde-xuyao-jingti-lrg2hmtrrg95loswwzp-w0lr6lxl`; created [[RenXinImagingDoctor|任新]] and [[ChronicConstipationRecognitionAndManagement]]; and resynthesized [[JiangYuliangDoctor|蒋宇亮]], [[IrritableBowelSyndromeDiagnosticBoundary]], [[PelvicFloorFunctionMatching]], and [[ProbioticUseBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: constipation is a persistent pattern of frequency, stool form, evacuation effort, duration, and response to ordinary habit changes rather than failure to defecate daily; organic obstruction must be separated from transit and evacuation disorders; fluid, fiber, movement, regular meals, and bowel timing generally precede routine laxative use; and bleeding, persistent change, or possible compression requires clinical assessment. No settled contradiction was adopted. Pelvic-floor contractions remain appropriate only for a weakness pattern, not as universal care for tightness or poor relaxation; exact diagnostic thresholds, stool-shape claims, TCM mechanisms, product effects, and vibrating-capsule claims remain source-scoped. Broad [[ZheBingShuoLaiHuaChang|这病说来话长]], [[MaoZheTCMDoctor|毛哲]], [[XueXiaofan|薛小凡]], [[BowelSymptomTriage]], and general medical-risk pages were kept closed because the source and focused updates capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,477 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
