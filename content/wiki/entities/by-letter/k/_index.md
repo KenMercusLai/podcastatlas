@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13196
+wiki_total_pages: 13203
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "Kangju"
     title: "康居 / Kangju"
     url: "/wiki/entities/kangju/"
+  - key: "KangMin"
+    title: "康敏 / Kang Min"
+    url: "/wiki/entities/kangmin/"
   - key: "KonstantinMariupolGenealogist"
     title: "康斯坦丁 / Konstantin (Mariupol genealogist)"
     url: "/wiki/entities/konstantinmariupolgenealogist/"

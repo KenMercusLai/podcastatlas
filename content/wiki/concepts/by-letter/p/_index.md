@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10341
+wiki_total_pages: 10343
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1826,6 +1826,9 @@ wiki_pages:
   - key: "PresentMomentAgainstDeath"
     title: "Present Moment Against Death"
     url: "/wiki/concepts/presentmomentagainstdeath/"
+  - key: "PresentSincerityCommitmentGap"
+    title: "Present Sincerity and Commitment Gap / 当下真心与长期承诺落差"
+    url: "/wiki/concepts/presentsinceritycommitmentgap/"
   - key: "PreservationTechnicalEnvironment"
     title: "Preservation Technical Environment"
     url: "/wiki/concepts/preservationtechnicalenvironment/"

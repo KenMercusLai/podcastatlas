@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [059 闲话金庸《天龙八部》：段正淳和他的女友团](sources/059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw.md) — 纸醉金迷FM以段正淳的当下真心、长期失诺与王爷身份错位为核心，并比较六位女性在重建、封闭、控制、伤害转移、降低期待、自伤和名分谈判之间的不同应对。
 - [060 《天龙八部》之萧峰篇：虽万千人吾往矣](sources/060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv.md) — 纸醉金迷FM以三分钟付费节目开场预告萧峰的侠义、豪迈、族群身份与悲剧命运，同时明确正片分析尚未进入现有转录。
 - [061 看《功夫女足》不如重温周星驰《少林足球》](sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx.md) — 纸醉金迷FM重温《少林足球》，分析失意者如何把功夫转化为团队能力，并讨论现实痛感、漫画奇观、尊严恢复、女性行动与喜剧接受分歧。
 - [062 盗墓小说开山之作：趣话《鬼吹灯》之序章，梦开始的地方！](sources/062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw.md) — 纸醉金迷FM从胡八一家传、知青与军旅经历讲到首次下墓和考古队组建，分析《鬼吹灯》如何融合时代生活、民间叙事、幽默、怪物与灵异留白。
@@ -4524,6 +4525,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [段正淳 / Duan Zhengchun](entities/DuanZhengchun.md) — 大理王爷，其当下投入、连续情缘、未改变的政治身份与最终自尽构成真心和承诺错位的复杂人物。
+- [甘宝宝 / Gan Baobao](entities/GanBaobao.md) — 在旧情未尽时重建家庭并维持行为边界的段正淳旧爱。
+- [秦红棉 / Qin Hongmian](entities/QinHongmian.md) — 以封闭和对子女的控制回应情伤，却仍保留旧情影响的段正淳旧爱。
+- [李青萝 / Li Qingluo](entities/LiQingluo.md) — 把未实现的独占愿望转化为庄园秩序和对他人暴力的段正淳旧爱。
+- [阮星竹 / Ruan Xingzhu](entities/RuanXingzhu.md) — 通过降低期待和保存温情维持相对稳定、同时承受家庭规则代价的段正淳情人。
+- [刀白凤 / Dao Baifeng](entities/DaoBaifeng.md) — 在政治婚姻、真实感情、独占规范与自伤式报复之间冲突的段正淳妻子。
+- [康敏 / Kang Min](entities/KangMin.md) — 以大理名分、地位和现实安置检验段正淳情话的危险而务实的情人。
 - [《少林足球》 / Shaolin Soccer](entities/ShaolinSoccer.md) — 周星驰的功夫足球喜剧，以技能转化、团队训练、受辱者的集体复起及阿梅的决赛行动连接笑料与痛感。
 - [天下霸唱 / Tianxia Bachang](entities/TianxiaBachang.md) — 《鬼吹灯》作者，当前资料聚焦金庸影响、盗墓类型形成、虚实叠加的世界建构及网络版与出版版差异。
 - [谭思维 / Tan Siwei](entities/TanSiweiAnorectalDoctor.md) — Anorectal clinician explaining symptom-led hemorrhoid care, function-preserving procedures, and recovery boundaries.
@@ -17787,6 +17795,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Present Sincerity and Commitment Gap / 当下真心与长期承诺落差](concepts/PresentSincerityCommitmentGap.md) — 区分当下真实而有感染力的爱意，与由持续选择、代价和生活结构证明的长期承诺。
+- [Romantic Injury Response Patterns / 情伤应对模式](concepts/RomanticInjuryResponsePatterns.md) — 比较情伤如何流向重建、封闭、控制、伤害转移、期待调整、自伤或名分谈判。
 - [Pain-Comedy Oscillation / 痛感与喜剧振荡](concepts/PainComedyOscillation.md) — 让身体或社会痛苦保持可信，再转入荒诞、幻想、反转或团结而不抹除先前痛感的叙事方法。
 - [Hemorrhoid Symptom-Led Treatment / 痔疮症状导向治疗](concepts/HemorrhoidSymptomLedTreatment.md) — Framework matching common hemorrhoidal anatomy and symptoms to assessment, conservative care, procedure tradeoffs, and recurrence limits.
 - [Anorectal Postoperative Care / 肛肠术后护理](concepts/AnorectalPostoperativeCare.md) — Recovery framework coordinating hygiene, stool consistency, activity, pain, bleeding, and infection escalation after anorectal surgery.

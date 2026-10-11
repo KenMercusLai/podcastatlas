@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13196
+wiki_total_pages: 13203
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "RuanJianing"
     title: "阮佳宁 / Ruan Jianing"
     url: "/wiki/entities/ruanjianing/"
+  - key: "RuanXingzhu"
+    title: "阮星竹 / Ruan Xingzhu"
+    url: "/wiki/entities/ruanxingzhu/"
   - key: "RandomFluctuations"
     title: "随机波动 / Random Fluctuations"
     url: "/wiki/entities/randomfluctuations/"

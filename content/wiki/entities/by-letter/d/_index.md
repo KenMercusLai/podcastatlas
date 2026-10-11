@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13196
+wiki_total_pages: 13203
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "DianWei"
     title: "典韦 / Dian Wei"
     url: "/wiki/entities/dianwei/"
+  - key: "DaoBaifeng"
+    title: "刀白凤 / Dao Baifeng"
+    url: "/wiki/entities/daobaifeng/"
   - key: "DiaoBo"
     title: "刁伯 / Diao Bo"
     url: "/wiki/entities/diaobo/"
@@ -1535,6 +1538,9 @@ wiki_pages:
   - key: "DuanChengshi"
     title: "段成式 / Duan Chengshi"
     url: "/wiki/entities/duanchengshi/"
+  - key: "DuanZhengchun"
+    title: "段正淳 / Duan Zhengchun"
+    url: "/wiki/entities/duanzhengchun/"
   - key: "DuanWeiLateHan"
     title: "段煨 / Duan Wei (late Han)"
     url: "/wiki/entities/duanweilatehan/"

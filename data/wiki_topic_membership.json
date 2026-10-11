@@ -34,6 +34,13 @@
       "url": "/topics/history/"
     }
   ],
+  "059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044": [
     {
       "key": "culture",
@@ -69958,6 +69965,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PresentSincerityCommitmentGap": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PreservationTechnicalEnvironment": [
     {
       "key": "technology",
@@ -75570,6 +75584,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "RomanticInjuryResponsePatterns": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RomanticProjectionTrap": [

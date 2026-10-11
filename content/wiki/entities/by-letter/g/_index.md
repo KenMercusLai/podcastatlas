@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13196
+wiki_total_pages: 13203
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1418,6 +1418,9 @@ wiki_pages:
   - key: "GanNing"
     title: "甘宁 / Gan Ning"
     url: "/wiki/entities/ganning/"
+  - key: "GanBaobao"
+    title: "甘宝宝 / Gan Baobao"
+    url: "/wiki/entities/ganbaobao/"
   - key: "GanYanshouWesternHan"
     title: "甘延寿 / Gan Yanshou (Western Han)"
     url: "/wiki/entities/ganyanshouwesternhan/"

@@ -35487,3 +35487,13 @@ Added source `060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 059 闲话金庸《天龙八部》：段正淳和他的女友团
+
+Added source `059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw`; created [[DuanZhengchun|段正淳]], [[GanBaobao|甘宝宝]], [[QinHongmian|秦红棉]], [[LiQingluo|李青萝]], [[RuanXingzhu|阮星竹]], [[DaoBaifeng|刀白凤]], [[KangMin|康敏]], [[PresentSincerityCommitmentGap]], and [[RomanticInjuryResponsePatterns]]; and resynthesized [[TianLongBaBu|《天龙八部》]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: focused attention, remembered intimacy, and final sacrifice make Duan Zhengchun's immediate feeling plausible, but they do not supply exclusivity, implementable promises, or the identity change his lovers expect; the women redirect that mismatch into rebuilding, withdrawal and control, displaced violence, lower expectations, self-directed retaliation, or formal-status bargaining. No settled contradiction was adopted. Sincerity, equal love, martial ranking, ethnic and marriage custom, exact dialogue, character psychology, version details, authorial intention, and romantic versus political motives for suicide remain source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused work, character, and relationship pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,444 sources across 801 overview paragraphs and nine topics.
+
+Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
