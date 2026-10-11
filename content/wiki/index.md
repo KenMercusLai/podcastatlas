@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [010 一见杨过误终身|闲话金庸《神雕侠侣》里的爱情](sources/lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden.md) — 纸醉金迷FM以陆无双、程英、公孙绿萼和郭芙区分轻松吸引、克制深情、致命牺牲与敌意依恋，并检验爱情中的互惠、排他和社会认同。
 - [011 十六岁的那场烟花，与十六年的生死茫茫|漫话《神雕侠侣》之郭襄与小龙女](sources/ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h.md) — 纸醉金迷FM以四次分离检验杨过与小龙女的爱情、沟通和社会压力，并以郭襄说明深刻而未必互惠的爱不取消独立人生。
 - [012 武侠、仙侠不分家：闲话《仙剑奇侠传四》|串台x千梦群岛](sources/lmzkiygsiicuvlthjqgatyuf49ac.md) — 纸醉金迷FM与千梦群岛重温《仙剑奇侠传四》，以人物关系、人妖之辨、失败飞升和百年结局讨论仙侠的人道伦理与文化内核。
 - [013 武侠与推理的完美结合|漫话古龙《陆小凤传奇之金鹏王朝》](sources/lstyln6ml2pnn9isi6heyyvuewk6.md) — 纸醉金迷FM以三位主角的集中登场和三重反转重读《金鹏王朝》，在武侠推理的爽感与成长、性别书写及因果收束的局限之间保留张力。
@@ -4641,9 +4642,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
-- [杨过（金庸小说） / Yang Guo (Jin Yong)](entities/YangGuoJinYong.md) — 在十六年等待、冲动冒险、郭襄情感歧义与襄阳公共行动之间完成成长的《神雕侠侣》主角。
+- [杨过（金庸小说） / Yang Guo (Jin Yong)](entities/YangGuoJinYong.md) — 在十六年等待、对多位女性的不对等情感、冲动冒险与襄阳公共行动之间完成成长的《神雕侠侣》主角。
 - [小龙女（金庸小说） / Xiaolongnü (Jin Yong)](entities/XiaolongnuJinYong.md) — 爱、退避、沟通局限、性暴力创伤与十六年保命之约并存的《神雕侠侣》人物。
 - [郭襄（金庸小说） / Guo Xiang (Jin Yong)](entities/GuoXiangJinYong.md) — 对杨过的深情未必获得互惠，却仍以旅行与开宗立派保有独立人生的《神雕侠侣》人物。
+- [陆无双（金庸小说） / Lu Wushuang (Jin Yong)](entities/LuWushuangJinYong.md) — 以玩笑、共患难和未兑现的同行可能构成杨过轻松却不对等的亲密关系。
+- [程英（金庸小说） / Cheng Ying (Jin Yong)](entities/ChengYingJinYong.md) — 以隐藏书写、克制保护和表姐妹互让表达深情而不取得互惠的《神雕侠侣》人物。
+- [公孙绿萼（金庸小说） / Gongsun Lü'e (Jin Yong)](entities/GongsunLueJinYong.md) — 在亲情匮乏、短暂关注和致命牺牲之间呈现极端爱情不对等的绝情谷人物。
+- [郭芙（金庸小说） / Guo Fu (Jin Yong)](entities/GuoFuJinYong.md) — 将骄傲、敌意、伤害、婚姻、多重牵挂和杨过的社会认同需求纠缠在一起的人物。
 - [《仙剑奇侠传四》 / Chinese Paladin 4](entities/ChinesePaladin4.md) — 以四人队伍、门派与族群冲突、失败飞升和百年离别连接人道伦理、选择、责任与中国仙侠文化的角色扮演游戏。
 - [张翠山（金庸小说） / Zhang Cuishan (Jin Yong)](entities/ZhangCuishanJinYong.md) — 在殷素素、武当兄弟、师门荣誉与父职冲突中选择自尽，并暴露身份依附和现实替代方案落差的武当人物。
 - [殷素素（金庸小说） / Yin Susu (Jin Yong)](entities/YinSusuJinYong.md) — 以主动爱情、有限但真实的伤害责任、丧偶孤立与父母责任挑战正邪标签的天鹰教人物。
@@ -4654,7 +4659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以配角的隐藏忠诚、跨门派爱情、生存策略与武当继承连接人物复杂性，并保留派系、动机与同意的证据边界。
 - [范遥（金庸小说） / Fan Yao (Jin Yong)](entities/FanYaoJinYong.md) — 长期潜伏却缺少可见报告，又在万安寺救援中发挥决定作用，并以自罚和跨阵营情感构成忠诚歧义的明教人物。
 - [俞莲舟（金庸小说） / Yu Lianzhou (Jin Yong)](entities/YuLianzhouJinYong.md) — 以武功、克制、风险判断与程序分寸获得掌门继承正当性的武当人物。
-- [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、武功设计、反复分离、沟通和未获互惠的爱组织人物评价。
+- [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、武功设计、反复分离及多种不对等爱情区分吸引、牺牲、互惠与关系可行性。
 - [李莫愁 / Li Mochou](entities/LiMochou.md) — 把被抛弃感扩大为复仇与求死，却仍保留母性、旧情与被坚定选择渴望的《神雕侠侣》人物。
 - [黄蓉 / Huang Rong](entities/HuangRong.md) — 智慧、戒备、亲疏偏向与公共担当并存，并因叙事站位和成年角色变化而受到道德重评的金庸人物。
 - [《书剑恩仇录》 / The Book and the Sword](entities/BookAndSword.md) — 金庸首部武侠小说，以固定历史结局、红花会群像、武功象征、爱情边界与政治责任组织早期江湖实验。
@@ -18364,7 +18369,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Architecture of Reassurance](concepts/ArchitectureOfReassurance.md) — Design model in which human scale, cleanliness, legibility, operational order, and curated time make a bounded environment feel safe and predictable.
 - [Theme Park Genealogy](concepts/ThemeParkGenealogy.md) — Historical lineage connecting pleasure gardens, fairs, mechanical rides, railways, and scenic staging to modern themed environments.
 - [Institutional Legacy Reinvention](concepts/InstitutionalLegacyReinvention.md) — Stewardship model that preserves generative values and audience trust without freezing inherited products, rules, or methods.
-- [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — 以吸引、识别、互惠、沟通、共同决策和能动性评估虚构关系，并拒绝把恒常、牺牲或单方深情转化为爱情债务。
+- [Fictional Relationship Compatibility Reading / 虚构关系适配性阅读](concepts/FictionalRelationshipCompatibilityReading.md) — 以吸引、识别、互惠、沟通、共同决策和能动性评估虚构关系，并区分调情、救援、感激、牺牲与爱情债务。
 - [Ensemble Battle Convergence / 群像大战汇流](concepts/EnsembleBattleConvergence.md) — explains battle climaxes that resolve multiple character arcs, identities, relationships, abilities, and moral choices at once.
 - [Cross-Modal Spatial Remapping](concepts/CrossModalSpatialRemapping.md) — Dynamic reconciliation of auditory location, gaze, visual source evidence, and saccade-linked ear signals.
 - [Sensory-Motor Thought Simulation](concepts/SensoryMotorThoughtSimulation.md) — Qualified hypothesis that thinking partly reuses perceptual and action systems.

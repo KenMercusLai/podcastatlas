@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13416
+wiki_total_pages: 13420
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "GongsunLuXinOfficial"
     title: "公孙禄 / Gongsun Lu (Xin official)"
     url: "/wiki/entities/gongsunluxinofficial/"
+  - key: "GongsunLueJinYong"
+    title: "公孙绿萼（金庸小说） / Gongsun Lü'e (Jin Yong)"
+    url: "/wiki/entities/gongsunluejinyong/"
   - key: "GongsunChenWesternHan"
     title: "公孙臣 / Gongsun Chen (Western Han)"
     url: "/wiki/entities/gongsunchenwesternhan/"
@@ -1694,6 +1697,9 @@ wiki_pages:
   - key: "GuoFurong"
     title: "郭芙蓉 / Guo Furong"
     url: "/wiki/entities/guofurong/"
+  - key: "GuoFuJinYong"
+    title: "郭芙（金庸小说） / Guo Fu (Jin Yong)"
+    url: "/wiki/entities/guofujinyong/"
   - key: "GuoMeng"
     title: "郭蒙 / Guo Meng"
     url: "/wiki/entities/guomeng/"

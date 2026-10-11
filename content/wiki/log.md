@@ -36389,3 +36389,11 @@ Added source `ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 010 一见杨过误终身|闲话金庸《神雕侠侣》里的爱情
+
+Added source `lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden`; created [[LuWushuangJinYong|陆无双]], [[ChengYingJinYong|程英]], [[GongsunLueJinYong|公孙绿萼]], and [[GuoFuJinYong|郭芙]]; and resynthesized [[YangGuoJinYong|杨过]], [[ReturnOfTheCondorHeroes|《神雕侠侣》]], and [[FictionalRelationshipCompatibilityReading|虚构关系适配性阅读]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: playful chemistry, hidden devotion, rescue, gratitude, sacrifice, antagonism, and social recognition can create consequential bonds without establishing equal desire or a viable partnership; familial deprivation can magnify brief attention, while more than one attachment need not make every bond false. No settled contradiction was adopted. Yang Guo's feelings toward Lu Wushuang or Guo Fu, Guo Fu's feelings toward Yang Guo and 耶律齐, the discarded antidote, character-name and object symbolism, motives, dialogue, chronology, martial hierarchy, and authorial psychology remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[XiaolongnuJinYong|小龙女]], and [[RomanticInjuryResponsePatterns|情伤应对模式]] profiles were kept closed because the focused pages capture the durable additions without reopening or stretching larger evidence inventories. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,557 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

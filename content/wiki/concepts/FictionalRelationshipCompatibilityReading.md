@@ -7,6 +7,7 @@ sources:
   - liiidmjxhrngcffnld51y-l7_oan
   - lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7
   - ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h
+  - lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -29,15 +30,17 @@ The focused [[FeihuWaizhuan|《飞狐外传》]] discussion sharpens the distinc
 
 The [[ReturnOfTheCondorHeroes|《神雕侠侣》]] episode adds communication and social pressure to the framework. [[YangGuoJinYong|杨过]] and [[XiaolongnuJinYong|小龙女]] show that extraordinary constancy can coexist with repeated withdrawal, misinformation, unilateral protection, and failure to ask what the other person wants. External ritual condemnation matters without explaining every separation. [[GuoXiangJinYong|郭襄]] supplies the complementary boundary: intense, loyal, life-shaping love does not prove reciprocity, entitle a person to selection, or prevent an independently meaningful later life.
 
+The preceding episode separates four more dimensions that are often collapsed into love. [[LuWushuangJinYong|陆无双]] shows chemistry and ease without commitment; [[ChengYingJinYong|程英]] shows merit and sacrifice without visibility or reciprocity; [[GongsunLueJinYong|公孙绿萼]] shows how scarce prior care can magnify brief attention without creating compatibility; and [[GuoFuJinYong|郭芙]] shows that attachment may coexist with another genuine bond, hostility, pride, and social-status meaning. Rescue, gratitude, flirtation, guilt, recognition, and exclusive selection therefore require separate evidence.
+
 ## Key Claims
 
 - Sacrifice, persistence, and constancy under separation are evidence of attachment, not substitutes for compatibility, communication, or shared decision-making.
-- Mutual recognition includes seeing competence, vulnerability, values, and needs rather than idealizing beauty, status, or a childhood script.
+- Mutual recognition includes seeing competence, vulnerability, values, and needs rather than idealizing beauty, status, rescue, or a childhood script.
 - Timing and expression matter because latent affection may never become a viable relationship if hesitation or changed circumstances intervene.
-- A strong pairing expands agency and ease for both characters, while unreturned love may still shape a life without invalidating independent achievement or identity.
+- A strong pairing expands agency and ease for both characters, while chemistry, admiration, gratitude, or unreturned love may still matter without establishing commitment or invalidating independent identity.
 - Counterfactual pairing is most useful when it isolates a specific trait interaction rather than merely producing novelty.
 - Readerly regret, moral approval, canonical outcome, and compatibility are distinct judgments.
-- Immediate attraction and long-term compatibility can diverge, and neither merit nor sacrifice creates an entitlement to desire.
+- Immediate attraction and long-term compatibility can diverge; neither merit, rescue, gratitude, prior deprivation, nor sacrifice creates an entitlement to desire.
 
 ## Evidence
 
@@ -71,17 +74,21 @@ The [[ReturnOfTheCondorHeroes|《神雕侠侣》]] episode adds communication an
 - [[ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h]] separates Yang Guo and Xiaolongnü's enduring attachment from their repeated failures of communication and joint deliberation under social pressure and misinformation.
 - [[ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h]] treats Guo Xiang's cliff leap and final silver-needle request as evidence of profound care without inferring Yang Guo's reciprocity or reducing her later life to romantic nonselection.
 
+### Chemistry, recognition, and asymmetric attachment
+
+- [[lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden]] contrasts Lu Wushuang's ease, Cheng Ying's hidden competence, Gongsun Lü'e's care scarcity, and Guo Fu's antagonistic attachment to separate emotional importance from viable partnership.
+- [[lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden]] distinguishes flirtation, rescue, gratitude, guilt, sacrifice, social recognition, and potentially multiple attachments from proven reciprocity or exclusive selection.
+
 ## Counterevidence & Qualifications
 
-The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and beauty or excitement should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social constraint can explain relational strain without making every withdrawal inevitable, and unreturned love can be meaningful without romanticizing self-endangerment or lifelong fixation.
+The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and beauty, excitement, status, or plural attachment should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social or family deprivation can intensify attention without mechanically causing attachment, and unreturned love can be meaningful without romanticizing self-endangerment, fatal sacrifice, or lifelong fixation. The proposition that love is ranked rather than exclusive remains episode-scoped rather than a universal rule.
 
 ## What Changed
 
-- Added a distinction among strongest feeling, sustained obligation, protective action, and viable partnership.
-- Added communication and joint deliberation as tests that constancy and sacrifice cannot replace.
-- Added social condemnation as a real pressure that does not fully determine a couple's response.
-- Added a boundary against inferring reciprocity from the intensity of one person's love.
-- Preserved meaningful agency and achievement beyond romantic selection.
+- Distinguished chemistry, flirtation, rescue, gratitude, guilt, social recognition, and sacrifice from reciprocity and partnership.
+- Added care scarcity as a pressure that can magnify attention without proving compatibility.
+- Preserved possible plural attachment without adopting non-exclusivity as a universal law.
+- Reinforced the boundary against deriving romantic debt from merit or self-sacrifice.
 
 ## Related Concepts
 

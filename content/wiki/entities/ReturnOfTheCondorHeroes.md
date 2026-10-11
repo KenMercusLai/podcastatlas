@@ -6,6 +6,7 @@ sources:
   - lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b
   - ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh
   - ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h
+  - lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -28,6 +29,8 @@ The central romance now receives the same comparative scrutiny. [[YangGuoJinYong
 
 [[GuoXiangJinYong|郭襄]] widens the ending beyond the successful pair. Her admiration, silver needles, birthday spectacle, cliff leap, and later search make unreturned feeling narratively consequential, while Yang Guo's side remains disputed between protective affection and unspoken romance. Her later independent achievement prevents romantic nonselection from becoming a complete life verdict.
 
+The earlier supporting-women discussion widens that comparison further. [[LuWushuangJinYong|陆无双]] embodies playful chemistry and unfinished possibility; [[ChengYingJinYong|程英]] makes restraint compatible with intense feeling; [[GongsunLueJinYong|公孙绿萼]] exposes the fatal imbalance between scarce care, total sacrifice, and weak reciprocity; and [[GuoFuJinYong|郭芙]] joins affection to pride, violence, marriage, class difference, and desired recognition. The novel's romantic field therefore distinguishes attraction, attention, rescue, gratitude, sacrifice, reciprocity, exclusivity, and viable partnership instead of treating them as one scale.
+
 ## Key Characteristics
 
 - Repositions familiar characters by shifting reader alignment from Guo Jing and Huang Rong toward Yang Guo.
@@ -35,7 +38,7 @@ The central romance now receives the same comparative scrutiny. [[YangGuoJinYong
 - Uses martial progression to externalize development from collected techniques toward integrated practice.
 - Makes emotion and reciprocal protection operational through 黯然销魂掌, 玉女心经, and 玉女素心剑.
 - Risks weakening martial credibility through late-stage power inflation and thinly explained antagonistic strength.
-- Uses supporting characters to compare revenge, sacrifice, release, possession, mutual destruction, and independently meaningful life after romantic injury or nonselection.
+- Uses supporting characters to compare chemistry, restraint, sacrifice, revenge, release, possession, mutual destruction, and independently meaningful life after romantic injury or nonselection.
 - Separates constancy from communication quality across Yang Guo and Xiaolongnü's repeated separations.
 
 ## Evidence
@@ -62,16 +65,21 @@ The central romance now receives the same comparative scrutiny. [[YangGuoJinYong
 - [[ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h]] distinguishes four causes of the central pair's separation and treats the final sixteen-year promise as life-preserving care without erasing unilateral decision-making.
 - [[ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h]] traces Guo Xiang's love through legend, silver needles, birthday gifts, rescue, and the cliff leap while keeping Yang Guo's romantic reciprocity unsettled.
 
+### Supporting women and asymmetric recognition
+
+- [[lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden]] contrasts Lu Wushuang's playful intimacy, Cheng Ying's hidden expression, Gongsun Lü'e's fatal sacrifice, and Guo Fu's antagonistic attachment without treating any one-sided intensity as proof of compatibility.
+- [[lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden]] reads 玉女心经, the divided handkerchief, 情花, 断肠草, and 绝情丹 as disputed devices for cooperation, pain, healing, sacrifice, and unequal valuation.
+
 ## Qualifications
 
-The current profile derives from three structured podcast summaries rather than a direct collation of the novel's editions. Motives, sincerity, authorial psychology, martial hierarchy, the degree of Huang Rong's change, and the gender argument remain interpretations. The hosts disagree about Huang Rong's later relation to Yang Guo, the literary versus mechanical purpose of 黯然销魂掌, whether Li Mochou changed after rejection, whether Yang Guo romantically loves Guo Xiang, and whether Xiaolongnü's inconsistency is characterization or plot machinery. Sexual violence remains harm inflicted on Xiaolongnü rather than moral diminishment; reading its narrative function does not validate a chastity-based equivalence with amputation.
+The current profile derives from four structured podcast summaries rather than a direct collation of the novel's editions. Motives, sincerity, authorial psychology, martial hierarchy, object symbolism, the degree of Huang Rong's change, and the gender argument remain interpretations. The hosts disagree about Huang Rong's later relation to Yang Guo, the literary versus mechanical purpose of 黯然销魂掌, whether Li Mochou changed after rejection, whether Yang Guo romantically loves Guo Xiang, Guo Fu, or Lu Wushuang, and whether Xiaolongnü's inconsistency is characterization or plot machinery. Sexual violence remains harm inflicted on Xiaolongnü rather than moral diminishment; reading its narrative function does not validate a chastity-based equivalence with amputation. Familial deprivation and unreturned love explain pressure without making self-destruction inevitable or exemplary.
 
 ## What Changed
 
-- Expanded the novel from its central pair and martial design into an ensemble of divergent responses to relational injury.
-- Distinguished the central pair's four separations by violence, misunderstanding, social pressure, misinformation, and deliberate life-preserving care.
-- Added Guo Xiang as a case of emotionally consequential but non-entitling and possibly unreturned love.
-- Preserved independent life achievement beyond romantic selection.
+- Expanded the romantic ensemble through four distinct forms of asymmetric attachment.
+- Separated flirtation, rescue, admiration, gratitude, sacrifice, reciprocity, exclusivity, and partnership.
+- Added social recognition and family deprivation as pressures that complicate apparently private romance.
+- Qualified symbolic readings of the handkerchief, martial arts, flowers, poison, antidote, and discarded gift.
 
 ## Relationships
 
@@ -85,4 +93,8 @@ The current profile derives from three structured podcast summaries rather than 
 - [[YangGuoJinYong|杨过]] - protagonist whose constancy, risk, public maturation, and ambiguous care are assessed.
 - [[XiaolongnuJinYong|小龙女]] - central partner whose devotion coexists with withdrawal and limited joint deliberation.
 - [[GuoXiangJinYong|郭襄]] - younger admirer whose later achievement exceeds romantic nonselection.
+- [[LuWushuangJinYong|陆无双]] - supporting woman whose playful intimacy remains an unfinished possibility.
+- [[ChengYingJinYong|程英]] - supporting woman whose quiet expression tests the visibility of love.
+- [[GongsunLueJinYong|公孙绿萼]] - supporting woman whose fatal gift exposes extreme nonreciprocity and familial deprivation.
+- [[GuoFuJinYong|郭芙]] - supporting woman joining affection to antagonism, marriage, harm, and social status.
 - [[FictionalRelationshipCompatibilityReading]] - framework separating attachment and sacrifice from communication, reciprocity, and mutual agency.
