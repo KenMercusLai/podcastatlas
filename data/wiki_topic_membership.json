@@ -6107,6 +6107,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494": [
     {
       "key": "history",
@@ -20111,6 +20118,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BritishFrenchGuaranteeToPoland": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BritishGeneralElection1945": [
     {
       "key": "politics",
@@ -33481,6 +33495,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "EmilHacha": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EmilMichael": [

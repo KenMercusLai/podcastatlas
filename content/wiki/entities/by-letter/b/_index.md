@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13268
+wiki_total_pages: 13272
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "BritishUnionOfFascists"
     title: "British Union of Fascists"
     url: "/wiki/entities/britishunionoffascists/"
+  - key: "BritishFrenchGuaranteeToPoland"
+    title: "British-French Guarantee to Poland (1939)"
+    url: "/wiki/entities/britishfrenchguaranteetopoland/"
   - key: "BrittYoung"
     title: "Britt Young"
     url: "/wiki/entities/brittyoung/"

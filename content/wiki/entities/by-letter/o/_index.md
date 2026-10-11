@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13268
+wiki_total_pages: 13272
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "OccidentalPetroleum"
     title: "Occidental Petroleum"
     url: "/wiki/entities/occidentalpetroleum/"
+  - key: "OccupationOfCzechoslovakia1939"
+    title: "Occupation of Czechoslovakia (1939)"
+    url: "/wiki/entities/occupationofczechoslovakia1939/"
   - key: "OceanEngine"
     title: "Ocean Engine"
     url: "/wiki/entities/oceanengine/"

@@ -35780,3 +35780,11 @@ Added source `overcoming-guilt-building-tenacity-in-kids-adults-dr-becky-kennedy
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 530. Hitler's War on Poland: Countdown to Armageddon (Part 1)
+
+Added source `530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342`; created [[OccupationOfCzechoslovakia1939|Occupation of Czechoslovakia (1939)]], [[BritishFrenchGuaranteeToPoland|British-French Guarantee to Poland (1939)]], [[EmilHacha|Emil Hácha]], and [[JozefTiso|Jozef Tiso]]; and resynthesized [[Poland]], [[DanzigGdansk|Danzig / Gdańsk]], [[InvasionOfPoland1939|Invasion and Partition of Poland (1939)]], [[NaziRearmamentWarEconomy]], [[DeterrenceFailureAgainstExpansion]], and [[OpponentResolveMiscalculation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Prague's occupation broke the self-determination rationale for Nazi expansion; German pressure over Danzig and the corridor sought Polish subordination rather than a narrow border revision; Poland refused client status; and the western guarantee changed the political threshold without supplying a ready mechanism for direct relief. No settled contradiction was adopted. Economic pressure reinforced but did not independently cause expansion, while demographic proportions, financial figures, public attitudes, dialogue, motives, threats, military feasibility, and counterfactual deterrence outcomes remain source-scoped. Broad [[AdolfHitler]], [[JosephStalin]], [[NaziGermany]], [[NevilleChamberlain]], and [[TheRestIsHistory]] profiles were kept closed because the focused event, person, country, campaign, economic, and deterrence pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,480 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

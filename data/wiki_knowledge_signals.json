@@ -32591,6 +32591,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/britishforeignpolicyambiguity1914/"
     },
+    "BritishFrenchGuaranteeToPoland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/britishfrenchguaranteetopoland/"
+    },
     "BritishGeneralElection1945": {
       "episode_count": 1,
       "show_count": 1,
@@ -60527,9 +60543,9 @@
       "url": "/wiki/entities/danyangcouplatehan/"
     },
     "DanzigGdansk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnN6BsDSeYDyq0T98pXdtTca_Htz [lnN6BsDSeYDyq0T98pXdtTca_Htz].md",
@@ -60537,6 +60553,13 @@
           "show": "怪东西Weird History",
           "title": "26 君特·格拉斯《比目鱼》：但泽、德国、女性、烹饪与人类的历史",
           "url": "/wiki/sources/26-junte-gelasi-bimuyu-danze-deguo-nvxing-pengren-yu-renlei-de-lishi-lnn6bsdseydyq0t98pxdttca_htz/"
+        },
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
         }
       ],
       "updated": "2026-10-08",
@@ -66084,9 +66107,9 @@
       "url": "/wiki/concepts/deterministiclegalaicontrols/"
     },
     "DeterrenceFailureAgainstExpansion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6776521114 [GLT6776521114].md",
@@ -66094,6 +66117,13 @@
           "show": "The Rest Is History",
           "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
           "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        },
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
         }
       ],
       "updated": "2026-09-27",
@@ -77443,6 +77473,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/emergentinnovationstrategy/"
+    },
+    "EmilHacha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/emilhacha/"
     },
     "EmilMichael": {
       "episode_count": 1,
@@ -133627,9 +133673,9 @@
       "url": "/wiki/concepts/intrusivethoughtmeaning/"
     },
     "InvasionOfPoland1939": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6308788391 [GLT6308788391].md",
@@ -133644,6 +133690,13 @@
           "show": "The Rest Is History",
           "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
           "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        },
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
         }
       ],
       "updated": "2026-10-11",
@@ -143668,6 +143721,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/jozefgabcik/"
+    },
+    "JozefTiso": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jozeftiso/"
     },
     "JuShou": {
       "episode_count": 9,
@@ -186777,9 +186846,9 @@
       "url": "/wiki/concepts/naziracialmorality/"
     },
     "NaziRearmamentWarEconomy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6776521114 [GLT6776521114].md",
@@ -186801,6 +186870,13 @@
           "show": "The Rest Is History",
           "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
           "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
+        },
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
         }
       ],
       "updated": "2026-10-01",
@@ -192014,6 +192090,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/occupationcommandfailure/"
     },
+    "OccupationOfCzechoslovakia1939": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/occupationofczechoslovakia1939/"
+    },
     "OccupationTerritorialFragmentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -195077,9 +195169,9 @@
       "url": "/wiki/entities/oppenheimersecurityhearing/"
     },
     "OpponentResolveMiscalculation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5437884494 [GLT5437884494].md",
@@ -195087,6 +195179,13 @@
           "show": "The Rest Is History",
           "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
           "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        },
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
         }
       ],
       "updated": "2026-10-11",
@@ -206083,9 +206182,9 @@
       "url": "/wiki/entities/pokerobotics/"
     },
     "Poland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2590789810 [GLT2590789810].md",
@@ -206100,6 +206199,13 @@
           "show": "The Rest Is History",
           "title": "532. Hitler's War on Poland: The Fall of Warsaw (Part 3)",
           "url": "/wiki/sources/532-hitlers-war-on-poland-the-fall-of-warsaw-part-3-glt6308788391/"
+        },
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
         }
       ],
       "updated": "2026-10-11",

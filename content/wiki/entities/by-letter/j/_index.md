@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13268
+wiki_total_pages: 13272
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1322,6 +1322,9 @@ wiki_pages:
   - key: "JozefGabcik"
     title: "Jozef Gabčík / 约瑟夫·盖伯齐克"
     url: "/wiki/entities/jozefgabcik/"
+  - key: "JozefTiso"
+    title: "Jozef Tiso"
+    url: "/wiki/entities/jozeftiso/"
   - key: "JoaoIIOfPortugal"
     title: "João II of Portugal"
     url: "/wiki/entities/joaoiiofportugal/"

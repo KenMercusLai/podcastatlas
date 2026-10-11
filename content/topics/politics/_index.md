@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3290
+topic_total_pages: 3292
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5657,6 +5657,9 @@ topic_entities:
   - key: "BrianMendoza"
     title: "Brian Mendoza"
     url: "/wiki/entities/brianmendoza/"
+  - key: "BritishFrenchGuaranteeToPoland"
+    title: "British-French Guarantee to Poland (1939)"
+    url: "/wiki/entities/britishfrenchguaranteetopoland/"
   - key: "BrookingsInstitution"
     title: "Brookings Institution"
     url: "/wiki/entities/brookingsinstitution/"
@@ -5942,6 +5945,9 @@ topic_entities:
   - key: "ElizabethLaird"
     title: "Elizabeth Laird"
     url: "/wiki/entities/elizabethlaird/"
+  - key: "EmilHacha"
+    title: "Emil Hácha"
+    url: "/wiki/entities/emilhacha/"
   - key: "EmmanuelMacron"
     title: "Emmanuel Macron"
     url: "/wiki/entities/emmanuelmacron/"
