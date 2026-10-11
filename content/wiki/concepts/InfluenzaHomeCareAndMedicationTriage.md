@@ -6,7 +6,8 @@ sources:
   - vol-28-faremenzhen-jialiu-jinxingshi-tingting-yixian-mengyisheng-zenme-shuo-fu-kanzhen-xianchang-shoulusheng-li1axa3xcd_jea6lauylj9cfjpwf
   - vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y
   - vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs
-last_updated: 2026-10-10
+  - vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ VOL.194 strengthens the care-setting and route boundary. For many otherwise stab
 
 The episode also sharpens treatment and prevention boundaries. Early antiviral assessment matters most for severe illness and vulnerable groups, but a 48-hour benefit window is not a permission to self-prescribe or a reason to abandon assessment later. Annual vaccination is the main preventive layer, and post-exposure prophylaxis is a selected high-risk option rather than a vaccine replacement. Exact outbreak numbers, severity cutoffs, drug criteria, and protocol claims remain source-scoped.
 
+VOL.145 adds an earlier and simpler common-cold comparison. Nasal congestion, rhinorrhea, and cough with mild systemic illness can fit an uncomplicated cold, whereas abrupt high fever and marked myalgia raise influenza concern. Rest, fluids, nutrition, and monitoring can fit a stable mild illness, but vulnerable age or immune status, severe throat symptoms, marked systemic illness, or deterioration lowers the threshold for assessment. Its vitamin C and “most contagious while improving” claims do not enter the care algorithm because the supplied note does not adequately support them.
+
 ## Key Claims
 - Abrupt high fever plus respiratory, headache, muscle, or gastrointestinal symptoms can support suspicion but cannot by itself diagnose influenza; a positive rapid antigen supports diagnosis, while a negative result must be interpreted through sensitivity, sampling, timing, symptoms, and subsequent change.
 - A very early negative antigen result may not exclude evolving infection; test timing, clinical context, and subsequent change matter.
@@ -45,15 +48,14 @@ The episode also sharpens treatment and prevention boundaries. Early antiviral a
 - Home care, escalation, and infusion restraint: [[vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y|VOL.194]] contrasts stable uncomplicated illness with worsening or vulnerable presentations and describes routine infusion as adding puncture, allergy, waiting, and cross-infection burdens without automatic benefit over oral care.
 - Symptom overlap and testing: [[vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs|VOL.186]] distinguishes abrupt systemic influenza patterns from common-cold patterns while retaining COVID-19 overlap, rapid-antigen false-negative risk, and the higher analytic performance of nucleic-acid testing.
 - Severity, treatment timing, and prophylaxis: [[vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs|VOL.186]] connects vulnerable groups and deterioration with earlier care, presents antivirals as time-sensitive but clinician-directed, and limits post-exposure prophylaxis to selected high-risk circumstances.
+- Cold-versus-influenza pattern and home-care boundary: [[vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8|VOL.145]] contrasts mild upper-respiratory symptoms with more prominent influenza-like systemic illness and reserves home care for stable, lower-risk presentations.
 
 ## Counterevidence & Qualifications
-The sources are March 2023, November 2025, and January 2026 clinician public-education episodes. Their prevalence and positivity figures, circulating subtypes, early false-negative estimate, disease-course comparison, severity classification and cutoffs, blood-count and sputum interpretation, medicine efficacy, prescribing window, dose, prophylaxis criteria, pregnancy and pediatric advice, price, vaccine timing or duration, cooling suggestions, testing routes, and isolation claims are not independently verified here and may vary with strain, test, patient, place, and current guidance. Temperature or sputum color alone does not establish severity or bacterial involvement, particularly in children, older adults, pregnant people, or those with underlying disease. Severe breathing difficulty, altered consciousness, seizures, dehydration, rapid deterioration, or other urgent local warning signs require qualified care rather than podcast-based self-triage; avoiding low-value attendance must not become avoidance of necessary care.
+The sources are March 2023, December 2024, November 2025, and January 2026 clinician public-education episodes. Their prevalence and positivity figures, circulating subtypes, contagiousness explanations, early false-negative estimate, disease-course comparison, severity classification and cutoffs, blood-count and sputum interpretation, medicine or supplement efficacy, prescribing window, dose, prophylaxis criteria, pregnancy and pediatric advice, price, vaccine timing or duration, cooling suggestions, testing routes, and isolation claims are not independently verified here and may vary with strain, test, patient, place, and current guidance. Temperature or sputum color alone does not establish severity or bacterial involvement, particularly in children, older adults, pregnant people, or those with underlying disease. Severe breathing difficulty, altered consciousness, seizures, dehydration, rapid deterioration, or other urgent local warning signs require qualified care rather than podcast-based self-triage; avoiding low-value attendance must not become avoidance of necessary care.
 
 ## What Changed
-- Clarified that a positive rapid antigen supports diagnosis but a negative result cannot exclude influenza.
-- Added COVID-19 symptom overlap and nucleic-acid testing to the diagnostic pathway.
-- Tightened early-antiviral and post-exposure-prophylaxis boundaries around vulnerability, severity, timing, and clinician assessment.
-- Strengthened annual vaccination as the primary preventive intervention while retaining complementary exposure controls.
+- Added a simpler common-cold versus influenza pattern while preserving symptom overlap and test uncertainty.
+- Added stable mild illness versus vulnerability- or deterioration-led assessment as an explicit home-care boundary.
 
 ## Related Concepts
 - [[RespiratorySymptomTriage]] - broader diagnostic and escalation framework for fever, cough, breathing change, and systemic illness.

@@ -4,7 +4,8 @@ type: concept
 tags: [respiratory-health, supplements, evidence, safety]
 sources:
   - how-to-prevent-treat-colds-flu-scim6817932732
-last_updated: 2026-09-27
+  - vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ Cold and flu supplement evidence boundary is a hierarchy that separates plausibl
 [[how-to-prevent-treat-colds-flu-scim6817932732]] rejects a single “immune booster” model. Vitamin C and echinacea are presented as weak or inconsistent, vitamin D is most defensible when deficiency is possible, zinc has a stronger cold-duration signal but meaningful dose and duration concerns, and NAC has mucolytic plausibility plus limited influenza evidence.
 
 The practical conclusion is evidence triage, not a supplement stack. Sleep, proportionate exposure reduction, ordinary nutrition, hydration, rest during systemic illness, vaccination decisions, and timely care remain the foundation. A podcast dose is not a personalized prescription, and evidence for a common cold cannot automatically be transferred to influenza or another respiratory illness.
+
+[[vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8|VOL.145]] creates a direct conflict by repeatedly recommending 1,000 mg oral vitamin C for prevention and faster recovery, partly through mechanistic claims about leukocyte stores and antibody formation. The supplied sponsored summary gives no trial methods, baseline vitamin C status, effect size, adverse-event discussion, or reason to transfer a common-cold hypothesis to influenza. The current judgment therefore remains qualified: biological involvement and selected subgroup findings do not establish a general prevention or treatment protocol.
 
 ## Key Claims
 - Mechanistic plausibility and anecdotal symptom relief are weaker than replicated patient-important outcomes.
@@ -32,14 +35,14 @@ The practical conclusion is evidence triage, not a supplement stack. Sleep, prop
 - Vitamin boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] notes gastrointestinal effects at high vitamin C doses and warns against excess vitamin D when levels are sufficient.
 - Zinc boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] discusses a zinc-acetate recovery study alongside high daily amounts and physician consultation for children, pregnancy, and supplement changes.
 - NAC boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] combines Huberman's personal congestion experience with one 1997 six-month study and explicitly calls for more randomized trials.
+- Conflicting vitamin C recommendation: [[vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8|VOL.145]] promotes 1,000 mg for prevention and recovery without supplying the evidence needed to establish general benefit or individualized safety.
 
 ## Counterevidence & Qualifications
-The source note does not supply complete trial methods, formulation details, adverse-event rates, interaction screens, replication records, or current clinical guidelines. Its high-dose zinc and vitamin claims should not be converted into self-treatment instructions; prolonged zinc can create harms, and intranasal zinc is a distinct safety issue not evaluated here. NAC can interact with clinical conditions or treatment and may alter secretions without treating the underlying infection. This concept does not diagnose influenza, replace antiviral evaluation, or establish benefit for COVID-19 or other respiratory pathogens.
+The source notes do not supply complete trial methods, formulation details, adverse-event rates, interaction screens, replication records, or current clinical guidelines. NIH evidence summaries report that regular vitamin C does not reduce common-cold incidence in the general population, although it may modestly shorten or lessen illness and may work differently in selected low-status or extreme-stress groups; starting supplementation after symptoms does not show consistent benefit. The VOL.145 claim is also delivered in sponsor context. High-dose zinc and vitamin claims should not be converted into self-treatment instructions; prolonged zinc can create harms, and intranasal zinc is a distinct safety issue not evaluated here. NAC can interact with clinical conditions or treatment and may alter secretions without treating the underlying infection. This concept does not diagnose influenza, replace antiviral evaluation, or establish benefit for COVID-19 or other respiratory pathogens.
 
 ## What Changed
-- Created an evidence hierarchy that preserves the episode's comparative supplement judgment without turning its doses into a protocol.
-- Separated deficiency correction, symptom support, and infection prevention or treatment.
-- Made formulation, duration, interaction, age, pregnancy, and severe-illness boundaries explicit.
+- Added a direct contested claim for 1,000 mg vitamin C prevention and recovery.
+- Preserved the distinction among nutrient biology, subgroup evidence, modest symptom effects, and a general protocol.
 
 ## Related Concepts
 - [[LayeredRespiratoryInfectionPrevention]] - keeps supplements subordinate to exposure-specific prevention and timely care.

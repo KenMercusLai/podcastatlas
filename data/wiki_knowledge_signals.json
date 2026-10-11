@@ -49901,9 +49901,9 @@
       "url": "/wiki/concepts/coldexposuredoseandsafety/"
     },
     "ColdFluSupplementEvidenceBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6817932732 [SCIM6817932732].md",
@@ -49911,9 +49911,16 @@
           "show": "Huberman Lab",
           "title": "How to Prevent & Treat Colds & Flu",
           "url": "/wiki/sources/how-to-prevent-treat-colds-flu-scim6817932732/"
+        },
+        {
+          "episode_file": "lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8 [lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8].md",
+          "key": "vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8",
+          "show": "这病说来话长",
+          "title": "VOL.145冬天里的小感冒，也请放在心上",
+          "url": "/wiki/sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/coldflusupplementevidenceboundary/"
     },
     "ColdShiveringThermogenesis": {
@@ -128627,9 +128634,9 @@
       "url": "/wiki/concepts/immunecheckpointinhibition/"
     },
     "ImmuneHomeostasisNotBoosting": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrUcH-Jc9A_r3r1QMdo2ojLxZ2MK [lrUcH-Jc9A_r3r1QMdo2ojLxZ2MK].md",
@@ -128637,9 +128644,16 @@
           "show": "这病说来话长",
           "title": "VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？",
           "url": "/wiki/sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk/"
+        },
+        {
+          "episode_file": "lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8 [lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8].md",
+          "key": "vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8",
+          "show": "这病说来话长",
+          "title": "VOL.145冬天里的小感冒，也请放在心上",
+          "url": "/wiki/sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/immunehomeostasisnotboosting/"
     },
     "ImmuneSystemAsTunableSensorNetwork": {
@@ -131356,9 +131370,9 @@
       "url": "/wiki/concepts/inflationshapedconsumerhabits/"
     },
     "InfluenzaHomeCareAndMedicationTriage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "li1aXA3xcD_jEa6LAUylj9cfjpwf [li1aXA3xcD_jEa6LAUylj9cfjpwf].md",
@@ -131380,9 +131394,16 @@
           "show": "这病说来话长",
           "title": "VOL.186这波流感太早、太猛？医生最新解读：真不一样了！",
           "url": "/wiki/sources/vol-186-zhebo-liugan-taizao-taimeng-yisheng-zuixin-jiedu-zhen-bu-yiyangle-lo3to6vaot9yfpmup6-ucyfniybs/"
+        },
+        {
+          "episode_file": "lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8 [lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8].md",
+          "key": "vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8",
+          "show": "这病说来话长",
+          "title": "VOL.145冬天里的小感冒，也请放在心上",
+          "url": "/wiki/sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/influenzahomecareandmedicationtriage/"
     },
     "InformalFemalePoliticalInfluence": {
@@ -223139,9 +223160,9 @@
       "url": "/wiki/concepts/respiratoryrhythmgeneration/"
     },
     "RespiratorySymptomTriage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
@@ -223163,9 +223184,16 @@
           "show": "这病说来话长",
           "title": "VOL.16急诊危重病科｜阳康的急诊医生聊新冠之接诊亲身感受",
           "url": "/wiki/sources/vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om/"
+        },
+        {
+          "episode_file": "lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8 [lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8].md",
+          "key": "vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8",
+          "show": "这病说来话长",
+          "title": "VOL.145冬天里的小感冒，也请放在心上",
+          "url": "/wiki/sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/respiratorysymptomtriage/"
     },
     "ResponsibilityAsAdventure": {
@@ -280573,9 +280601,9 @@
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WinterRespiratoryInfectionRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4783359583 [SCIM4783359583].md",
@@ -280583,9 +280611,16 @@
           "show": "Huberman Lab",
           "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
           "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
+        },
+        {
+          "episode_file": "lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8 [lpgqcWfvH3Wk9FZHq4BZ8wq2jlw8].md",
+          "key": "vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8",
+          "show": "这病说来话长",
+          "title": "VOL.145冬天里的小感冒，也请放在心上",
+          "url": "/wiki/sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/winterrespiratoryinfectionrisk/"
     },
     "WisdomToothClinicalAssessment": {

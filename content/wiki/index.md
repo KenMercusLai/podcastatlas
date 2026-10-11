@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.145冬天里的小感冒，也请放在心上](sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8.md) — 这病说来话长赞助节目讨论冬季呼吸道风险、感冒与流感分诊、抗生素边界、分层预防，以及高剂量维生素C主张的证据冲突。
 - [525. Charlemagne: Emperor of the West (Part 3)](sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677.md) — The Rest Is History on Charlemagne's prepared coronation, Aachen's imperial imagery, foreign recognition, Carolingian fragmentation, and Ottonian renewal.
 - [Essentials: How to Learn Faster by Using Failures, Movement & Balance](sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196.md) — Condensed Huberman Lab episode on correctable errors, focused practice, arousal, sleep-supported consolidation, and safe vestibular novelty.
 - [044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写](sources/liiidmjxhrngcffnld51y-l7_oan.md) — 纸醉金迷FM以温青青、袁承志、阿九、夏雪宜、温仪和何红药讨论嫉妒、责任、错位爱情、复仇与版本修订的叙事代价。

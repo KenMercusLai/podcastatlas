@@ -4,7 +4,8 @@ type: concept
 tags: [immunity, nutrition, supplements, medical-literacy]
 sources:
   - vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk
-last_updated: 2026-09-28
+  - vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The source reframes “immunity” as a regulated system with different failure 
 
 This makes “immune-boosting” product claims diagnostically weak. A nutrient may be necessary for normal immune function without producing extra protection when intake is already sufficient. A plausible deficiency, restricted diet, life stage, medication effect, absorption problem, or clinically measured need is a stronger reason for supplementation than fear, price, or a promise of rapid activation.
 
+VOL.145 tests this boundary directly. It combines sensible sleep, balanced-diet, stress, and exposure-control advice with repeated claims that 1,000 mg vitamin C “enhances immunity,” prevents colds or influenza, and accelerates recovery. Because the supplied sponsored summary does not establish baseline deficiency, clinical outcomes, or individualized safety, those claims remain contested and do not displace the regulation- and sufficiency-based model.
+
 ## Key Claims
 - Immune function is a regulation problem rather than a single strength scale.
 - Excessive or misdirected immune activity can be harmful, so “more” is not a universal health goal.
@@ -29,13 +32,14 @@ This makes “immune-boosting” product claims diagnostically weak. A nutrient 
 - Regulation rather than maximization - [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] contrasts ordinary immune sufficiency with allergy and autoimmune overactivity.
 - Foundation before product - [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] places food variety, adequate energy and protein, sleep, and regular habits ahead of supplement use.
 - Sufficiency boundary - [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] rejects short-term high-dose vitamin use as established viral prevention and treats supplementation as gap- or context-dependent.
+- Direct conflict - [[vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8|VOL.145]] recommends high-dose vitamin C for prevention and recovery while providing mechanism claims rather than sufficient outcome evidence in the supplied summary.
 
 ## Counterevidence & Qualifications
-The bounded input is one public-education podcast summary, not an immunology review, deficiency assessment, dosing protocol, or infection-treatment guideline. Immune deficiency, autoimmune disease, allergy, pregnancy, lactation, older age, restricted diets, malabsorption, medication use, kidney or liver disease, and acute or persistent illness require condition-specific evaluation. The concept does not imply that food or sleep can replace vaccination, exposure reduction, diagnosis, or treatment.
+The bounded input consists of two public-education podcast summaries, not an immunology review, deficiency assessment, dosing protocol, or infection-treatment guideline; VOL.145 also has explicit sponsor context. Immune deficiency, autoimmune disease, allergy, pregnancy, lactation, older age, restricted diets, malabsorption, medication use, kidney or liver disease, and acute or persistent illness require condition-specific evaluation. The concept does not imply that food or sleep can replace vaccination, exposure reduction, diagnosis, or treatment.
 
 ## What Changed
-- Created a stable distinction between immune regulation and indiscriminate activation.
-- Connected nutrient sufficiency to supplement need assessment without treating nutrient involvement as proof of extra benefit.
+- Added a direct contradiction from a sponsored high-dose vitamin C recommendation.
+- Retained nutrient sufficiency and regulated response, rather than generic “boosting,” as the current judgment.
 
 ## Related Concepts
 - [[FoundationalImmuneHealthFramework]] - supplies the sleep, food, movement, recovery, and exposure-aware foundation.
