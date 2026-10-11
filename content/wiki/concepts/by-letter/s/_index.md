@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10440
+wiki_total_pages: 10442
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "SharedBikeManufacturingShock"
     title: "Shared-Bike Manufacturing Shock"
     url: "/wiki/concepts/sharedbikemanufacturingshock/"
+  - key: "SharedCauseFactionalErosion"
+    title: "Shared-Cause Factional Erosion / 共同目标下的派系侵蚀"
+    url: "/wiki/concepts/sharedcausefactionalerosion/"
   - key: "SharedKitchenSatelliteRetail"
     title: "Shared-Kitchen Satellite Retail"
     url: "/wiki/concepts/sharedkitchensatelliteretail/"

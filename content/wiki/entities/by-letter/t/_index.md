@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13350
+wiki_total_pages: 13353
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1730,6 +1730,9 @@ wiki_pages:
   - key: "TianxiaBachang"
     title: "天下霸唱 / Tianxia Bachang"
     url: "/wiki/entities/tianxiabachang/"
+  - key: "Tiandihui"
+    title: "天地会 / Tiandihui"
+    url: "/wiki/entities/tiandihui/"
   - key: "TianshanTonglao"
     title: "天山童姥 / Tianshan Tonglao"
     url: "/wiki/entities/tianshantonglao/"
