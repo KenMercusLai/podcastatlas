@@ -36074,3 +36074,11 @@ Added source `517-nelson-the-hunt-for-napoleon-part-4-glt5321926998` and resynth
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | VOL.142通俗易懂中医冬季预防感冒和轻症的原理和饮食、用药、起居
+
+Added source `vol-142-zhongyi-dongji-yufang-ganmao-yinshi-yongyao-qiju-lsupkbbkwxrh3n-h8ccfmglypr2` and resynthesized [[MaoZheTCMDoctor|毛哲]] and [[TCMWinterSelfCareBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: removable clothing, indoor-outdoor transitions, travel mode, activity, symptoms, tolerance, and medical context support scene-matched winter routines, while differentiating dry cough from difficult sputum is symptom awareness rather than a food-remedy diagnosis. No settled contradiction was adopted. The episode's winter-storage, pathogenic-cold, open-pore, qi, yang, regional, food-therapy, herbal, patent-medicine, sweating, and treatment-sequence claims remain source-scoped; pediatric infection, multi-product medication, high or persistent fever, breathing difficulty, dehydration, deterioration, pregnancy, underlying disease, and vulnerable age require qualified care. Broad [[ZheBingShuoLaiHuaChang|这病说来话长]], [[Atang|阿汤]], respiratory triage, and influenza-care pages were kept closed because the focused source, guest, and winter-boundary pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,517 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
