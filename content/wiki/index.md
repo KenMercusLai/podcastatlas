@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [开篇试播｜重温金庸：共赴一场江湖盛会](sources/fme-hfxefs3rvewsrdz0fwcalsap-fme-hfxefs3rvewsrdz0fwcalsap.md) — 纸醉金迷FM以金庸逝世五周年为纪念节点，介绍其金庸、读书与泛文化定位，并邀请跨世代听众重温共同的武侠记忆。
 - [001 纪念·金庸去世五周年|《射雕英雄传》侠之大者 为国为民](sources/lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5.md) — 纸醉金迷FM从传播记忆、关系网络式世界构建及郭靖与杨康的教育和选择差异解释《射雕英雄传》的经典地位。
 - [002 纪念|《射雕英雄传》（下）江湖儿女亦多情](sources/ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma.md) — 纸醉金迷FM以爱情、承诺、师道、人物复杂度与影视因果重读《射雕英雄传》，并保留郭靖反战思想跃升和黄药师心理解释的争议。
 - [003 四女同舟，如果你是张无忌你爱谁？｜闲话金庸《倚天屠龙记》](sources/lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8.md) — 纸醉金迷FM以张无忌与赵敏、周芷若、殷离、小昭的不同关系区分敬重、感激、怜惜、欲望、照料与共同生活的适配性。

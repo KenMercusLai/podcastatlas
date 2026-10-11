@@ -36468,3 +36468,11 @@ Added source `lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 开篇试播｜重温金庸：共赴一场江湖盛会
+
+Added source `fme-hfxefs3rvewsrdz0fwcalsap-fme-hfxefs3rvewsrdz0fwcalsap`. Core synthesis: the roughly forty-second launch preview introduces [[ZhiZuiJinMiFM|纸醉金迷FM]] as a Jin Yong, reading, and wider-cultural podcast; marks five years since [[JinYong|金庸]]'s death; and invites readers and viewers across several generations to re-enter a shared Jianghu imagination. No settled contradiction was adopted. Claims that Jin Yong created the “best” wuxia era, the breadth of cross-generational reception, and the show's future scope remain commemorative, promotional, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the preview adds positioning rather than a durable new analytical or biographical judgment. No thin concept page was created. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,567 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, log coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
