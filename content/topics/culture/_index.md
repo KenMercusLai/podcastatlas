@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3429
+topic_total_pages: 3430
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -649,6 +649,9 @@ topic_concepts:
   - key: "ChildPoeticExpression"
     title: "Child Poetic Expression"
     url: "/wiki/concepts/childpoeticexpression/"
+  - key: "ChildProdigyFamilyEnterprise"
+    title: "Child Prodigy Family Enterprise"
+    url: "/wiki/concepts/childprodigyfamilyenterprise/"
   - key: "ChildhoodReadingEcology"
     title: "Childhood Reading Ecology"
     url: "/wiki/concepts/childhoodreadingecology/"

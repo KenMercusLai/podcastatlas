@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10391
+wiki_total_pages: 10392
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "ChildPrisonUnits"
     title: "Child Prison Units"
     url: "/wiki/concepts/childprisonunits/"
+  - key: "ChildProdigyFamilyEnterprise"
+    title: "Child Prodigy Family Enterprise"
+    url: "/wiki/concepts/childprodigyfamilyenterprise/"
   - key: "ChildThirdPartyLiabilityInsurance"
     title: "Child Third-Party Liability Insurance"
     url: "/wiki/concepts/childthirdpartyliabilityinsurance/"

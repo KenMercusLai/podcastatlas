@@ -43684,6 +43684,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/childmentalhealthfamilysystemssupport/"
     },
+    "ChildProdigyFamilyEnterprise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4198925734 [GLT4198925734].md",
+          "key": "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734",
+          "show": "The Rest Is History",
+          "title": "526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/childprodigyfamilyenterprise/"
+    },
     "ChildbearingIrreversibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -52041,9 +52057,9 @@
       "url": "/wiki/concepts/complicitwitnessscapegoatnarrative/"
     },
     "ComposerPatronageIndependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4140502571 [GLT4140502571].md",
@@ -52051,6 +52067,13 @@
           "show": "The Rest Is History",
           "title": "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall",
           "url": "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"
+        },
+        {
+          "episode_file": "GLT4198925734 [GLT4198925734].md",
+          "key": "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734",
+          "show": "The Rest Is History",
+          "title": "526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734/"
         }
       ],
       "updated": "2026-10-11",
@@ -151890,6 +151913,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/leopoldii/"
     },
+    "LeopoldMozart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4198925734 [GLT4198925734].md",
+          "key": "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734",
+          "show": "The Rest Is History",
+          "title": "526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/leopoldmozart/"
+    },
     "LeopoldoGaltieri": {
       "episode_count": 4,
       "show_count": 1,
@@ -227810,9 +227849,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RomanticArtistMyth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4140502571 [GLT4140502571].md",
@@ -227820,6 +227859,13 @@
           "show": "The Rest Is History",
           "title": "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall",
           "url": "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"
+        },
+        {
+          "episode_file": "GLT4198925734 [GLT4198925734].md",
+          "key": "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734",
+          "show": "The Rest Is History",
+          "title": "526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734/"
         }
       ],
       "updated": "2026-10-11",
@@ -280451,6 +280497,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/wolfetone/"
+    },
+    "WolfgangAmadeusMozart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4198925734 [GLT4198925734].md",
+          "key": "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734",
+          "show": "The Rest Is History",
+          "title": "526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/wolfgangamadeusmozart/"
     },
     "WomenBlamedForDynasticCollapse": {
       "episode_count": 2,

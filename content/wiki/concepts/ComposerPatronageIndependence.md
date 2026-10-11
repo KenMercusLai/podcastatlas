@@ -4,6 +4,7 @@ type: concept
 tags: [music, patronage, artistic-autonomy, class, institutions]
 sources:
   - 527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571
+  - 526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -12,41 +13,45 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Composer patronage independence is the transition in which a musician remains materially supported by elites but negotiates greater control over work, movement, status, and public identity than household service conventionally allowed.
+Composer patronage independence is the transition in which musicians gain control over work, movement, status, and public identity without becoming materially independent of courts, aristocrats, commissions, audiences, or markets.
 
 ## Current Synthesis
 
-The episode contrasts [[JosefHaydn|Haydn]]'s dependence on the Esterházy household with [[LudwigVanBeethoven|Beethoven]]'s relationship to Viennese patrons. Prince Lichnowsky supplied money, lodging, and access, while Archduke Rudolf, Prince Kinsky, and Prince Lobkowicz later funded an annuity intended to keep Beethoven in [[Vienna]]. Beethoven nevertheless resisted commands and the assumption that aristocratic rank made the composer a servant.
+The two live episodes now show a sequence rather than a single break. [[JosefHaydn|Haydn]] represents household service in the Beethoven episode. [[WolfgangAmadeusMozart|Mozart]] leaves Salzburg's servant hierarchy for Viennese freelancing, gaining greater earning potential and artistic agency but also exposure to commission cycles, illness, war, credit, and audience demand. [[LudwigVanBeethoven|Beethoven]] later combines a still stronger public claim to equality with aristocratic lodging, access, and a collective annuity intended to keep him in [[Vienna]].
 
-This is negotiated autonomy, not self-sufficiency. Patron money and social infrastructure enabled the public identity that appeared independent of them. The durable change lies in bargaining position and cultural status: the supported composer could increasingly present patrons as sponsors of an exceptional creator rather than employers owning a subordinate's labor.
+Independence therefore changes form rather than eliminating dependence. Household command can give way to diversified patrons and public markets; direct salary can give way to commissions, subscriptions, gifts, loans, or retainers. These arrangements may increase bargaining power and creative latitude while transferring security risks to the artist. Cultural belief in exceptional genius then makes the composer's refusal of servant identity more legitimate, even as it hides the infrastructure supporting that autonomy.
 
 ## Key Claims
 
-- Patronage and artistic independence can coexist when support does not confer complete household control.
-- Material dependence does not determine social identity; bargaining power, fame, and norms shape the relationship.
-- Elite lodging, access, and annuities can build the infrastructure of apparently individual artistic autonomy.
-- The transition shifts the patron's role from master toward sponsor without abolishing power asymmetry.
-- Public celebrity and the elevated status of art strengthen the composer's capacity to resist commands.
+- Composer autonomy is a redistribution of control and risk, not the disappearance of material dependence.
+- Leaving household service can enlarge agency and income potential while increasing exposure to illness, war, credit, and demand shocks.
+- Diversified commissions and patrons reduce one master's control but do not create self-sufficiency.
+- Elite lodging, access, gifts, loans, and annuities can build the infrastructure of apparently individual independence.
+- Fame and the elevated status of genius strengthen bargaining power by recasting patrons as sponsors of exceptional creators.
+- Mozart and Beethoven represent different transitional arrangements rather than one completed market revolution.
 
 ## Evidence
 
-- Household contrast: [[527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571]] contrasts Haydn's Esterházy service with Beethoven's more independent posture.
+- Household and freelance contrast: [[526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734]] follows Mozart from Salzburg service into a higher-earning but less secure Viennese career.
+- Market vulnerability: [[526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734]] connects freelance income to patrons, commissions, illness, geopolitical disruption, and borrowing.
 - Supported autonomy: [[527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571]] describes Lichnowsky's financial, residential, and social support alongside Beethoven's rejection of servant treatment.
-- Collective annuity: [[527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571]] attributes a 4,000-florin annual offer to Rudolf, Kinsky, and Lobkowicz to retain Beethoven in Vienna.
-- Status effect: [[527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571]] links this arrangement to Beethoven's exceptional public authority and later artist myth.
+- Collective retention: [[527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571]] attributes an annual offer to Rudolf, Kinsky, and Lobkowicz to retain Beethoven in Vienna.
+- Status effect: both [[526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734]] and [[527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571]] connect artistic exceptionalism with resistance to ordinary servant identity.
 
 ## Counterevidence & Qualifications
 
-The episode's contrast is interpretive and compresses variation within both Haydn's and Beethoven's careers. Independence should not imply equal power, secure income, freedom from audience demand, or absence of aristocratic influence. The annuity amount, conditions, payment history, and precise conduct of individual patrons require evidence beyond this source.
+The sequence is an interpretation built from two public-history episodes and compresses variation within Haydn's, Mozart's, and Beethoven's careers. Freelancing did not necessarily mean stable public markets, equal bargaining power, creative freedom, or reliable payment. Beethoven's patron-supported arrangement was not simply the inevitable next stage after Mozart. Exact earnings, annuity terms, payment histories, household obligations, and the relative influence of patrons and audiences require evidence beyond these sources.
 
 ## What Changed
 
-- Created a framework distinguishing autonomy from the absence of patronage.
-- Located Beethoven's changed status in bargaining power and public legitimacy rather than a simple market replacement of elite support.
+- Recast the transition as a sequence from household service through volatile freelancing to patron-supported public autonomy.
+- Added risk transfer as a central cost of leaving court employment.
+- Distinguished diversification of dependence from genuine self-sufficiency.
 
 ## Related Concepts
 
-- [[RomanticArtistMyth]] - cultural elevation that makes patron-supported autonomy appear heroic and self-originating.
+- [[RomanticArtistMyth]] - cultural elevation that legitimizes autonomy while obscuring its enabling infrastructure.
+- [[ChildProdigyFamilyEnterprise]] - earlier family-managed system that supplied Mozart's access before adult institutional independence.
 - [[JenaRomanticism]] - contemporary expansion of selfhood, freedom, and artistic authority.
 - [[CreatorStudioScaling]] - later organizational problem of preserving creator control while funding and production become institutional.
 - [[ArtistRightsControl]] - later framework for creators' power over work, distribution, and economic participation.

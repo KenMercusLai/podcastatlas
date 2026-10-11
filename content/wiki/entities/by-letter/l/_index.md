@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13288
+wiki_total_pages: 13290
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "LeopoldII"
     title: "Leopold II"
     url: "/wiki/entities/leopoldii/"
+  - key: "LeopoldMozart"
+    title: "Leopold Mozart"
+    url: "/wiki/entities/leopoldmozart/"
   - key: "LeopoldoGaltieri"
     title: "Leopoldo Galtieri"
     url: "/wiki/entities/leopoldogaltieri/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2732
+topic_total_pages: 2733
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6510,6 +6510,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734"
+    title: "526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall"
+    url: "/wiki/sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734/"
   - key: "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571"
     title: "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall"
     url: "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"

@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson](sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629.md) — Huberman Lab conversation on integrating drives under higher aims, responsibility as adventure, prayer as aim formation, concentrated rewards, conscience, and truth.
 - [VOL.146网上买药靠谱吗？家中备药不踩坑！](sources/vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x.md) — 这病说来话长赞助节目讨论慢病续药、线上购药与问诊便利，以及首次用药、检查和线下就医边界。
+- [526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall](sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734.md) — The Rest Is History live episode on Mozart's prodigy career, family management, patronage, freelance autonomy, opera, financial strain, and death mythology.
 - [527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall](sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571.md) — The Rest Is History live episode on Beethoven's patronage, politics, deafness, difficult music, public consecration, and the Romantic artist myth.
 - [528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)](sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478.md) — The Rest Is History episode on Hitler's engineered Sudeten crisis, Case Green, failed German military opposition, and the assumptions behind Chamberlain's Plan Z.
 - [How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance](sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949.md) — Huberman Lab solo episode on exercise-driven arousal, learning and memory, body-to-brain signaling, sleep, weekly training categories, and effort circuitry.
@@ -4574,6 +4575,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Jordan Peterson](entities/JordanPeterson.md) — Psychologist and author whose bounded profile centers drive integration, religious narrative, responsibility, prayer, and truth.
+- [Wolfgang Amadeus Mozart](entities/WolfgangAmadeusMozart.md) — Composer whose path from managed child prodigy and Salzburg service to Viennese freelancing became a key story of genius and autonomy.
+- [Leopold Mozart](entities/LeopoldMozart.md) — Court musician and impresario whose promotion enabled Wolfgang's career while his security strategy constrained adult independence.
 - [Ludwig van Beethoven](entities/LudwigVanBeethoven.md) — Bonn-born composer whose Viennese career joined patron-supported autonomy, political ambivalence, deafness, difficult art, and public consecration.
 - [Fidelio](entities/Fidelio.md) — Beethoven's prison-and-rescue opera, whose revolutionary liberation imagery is qualified by benevolent official intervention and 1814 Viennese reception.
 - [Case Green](entities/CaseGreen.md) — Nazi Germany's 1938 plan for rapid destruction of the whole Czechoslovak state.
@@ -17932,6 +17935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drive Integration Under a Higher Aim](concepts/DriveIntegrationUnderHigherAim.md) — Coordination of narrow motivational states within a voluntary structure that includes other people and future consequences.
 - [Responsibility as Adventure](concepts/ResponsibilityAsAdventure.md) — Reframing voluntary obligation as purposeful uncertainty, sacrifice, local repair, and socially extended value.
 - [Prayer as Aim Formation](concepts/PrayerAsAimFormation.md) — Psychological account of prayer as orientation toward an ideal, incentive reordering, and surrender of control.
+- [Child Prodigy Family Enterprise](concepts/ChildProdigyFamilyEnterprise.md) — Family system converting exceptional childhood skill into training, access, reputation, income, and later autonomy conflict.
 - [Romantic Artist Myth](concepts/RomanticArtistMyth.md) — Cultural model of the artist as inspired, defiant, suffering, difficult, socially separate, and worthy of exceptional reverence.
 - [Composer Patronage Independence](concepts/ComposerPatronageIndependence.md) — Transition from household service toward patron-supported artistic autonomy, bargaining power, and public status.
 - [Self-Sacrifice as Relational Control / 以自我牺牲替他人做主](concepts/SelfSacrificeAsRelationalControl.md) — 区分个人愿意承受的代价与借牺牲之名操控他人重大选择的权力。

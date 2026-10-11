@@ -6107,6 +6107,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571": [
     {
       "key": "history",
@@ -22966,6 +22973,13 @@
     }
   ],
   "ChildPoeticExpression": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ChildProdigyFamilyEnterprise": [
     {
       "key": "culture",
       "label": "Culture",

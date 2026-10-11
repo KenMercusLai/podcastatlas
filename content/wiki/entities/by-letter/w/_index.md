@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13288
+wiki_total_pages: 13290
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "WolfWarrior2"
     title: "Wolf Warrior 2 / 战狼2"
     url: "/wiki/entities/wolfwarrior2/"
+  - key: "WolfgangAmadeusMozart"
+    title: "Wolfgang Amadeus Mozart"
+    url: "/wiki/entities/wolfgangamadeusmozart/"
   - key: "WolverhamptonWanderers"
     title: "Wolverhampton Wanderers / 狼队"
     url: "/wiki/entities/wolverhamptonwanderers/"
