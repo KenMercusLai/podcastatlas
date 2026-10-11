@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》](sources/ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl.md) — 纸醉金迷FM以公孙大娘的三场赌斗、花满楼的生命善意及针锤决战重读《绣花大盗》，同时质疑女性塑造、罪案动机与推理衔接。
 - [023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图](sources/ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us.md) — 纸醉金迷FM以高手外观与实际能力、俗语与真理、神兵与“仁者无敌”的落差解构武侠套路，并借夫妻刀法讨论关系中的相互配合。
 - [024 奇人 奇遇 奇功：闲话金庸封笔作《鹿鼎记》](sources/llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5.md) — 纸醉金迷FM以韦小宝的市井学习、人性判断、风险下注与资源整合解释他如何把偶遇转成奇功，并由此拆解武侠英雄、体面手段和宫廷神圣性。
 - [025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓](sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64.md) — 纸醉金迷FM以康熙与韦小宝的双主角关系讨论主权等级中的真情、具体互惠、族群身份与反武侠类型突破。
@@ -4629,6 +4630,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《绣花大盗》 / The Embroidery Bandit](entities/EmbroideredBanditGuLong.md) — 古龙陆小凤小说，以针案悬疑、三场赌斗、信任背叛及轻重倒置的终战连接鲜明场面与因果疑点。
+- [花满楼 / Hua Manlou](entities/HuaManlou.md) — 以自身失明经验帮助江重威重建生存意愿，并通过他人后来的人生结果间接显出善意的陆小凤挚友。
+- [公孙大娘（古龙人物） / Gongsun Daniang (Gu Long character)](entities/GongsunDaniangGuLong.md) — 以武功、智计、易容、剑舞与道德歧义成为陆小凤势均力敌的对手和盟友。
+- [金九龄（古龙人物） / Jin Jiuling (Gu Long character)](entities/JinJiulingGuLong.md) — 借查案者与朋友身份隐藏真凶位置，并以重锤轻使承载完美犯罪欲及动机争议的《绣花大盗》反派。
+- [薛冰（古龙人物） / Xue Bing (Gu Long character)](entities/XueBingGuLong.md) — 以食物、打闹与失踪焦虑形成生活化爱情，同时暴露性格标签铺垫不足问题的陆小凤伴侣。
 - [《鸳鸯刀》 / The Mandarin Duck Blades](entities/YuanYangDao.md) — 金庸短篇武侠喜剧，以声势与实力、俗语与判断、协同刀法及“仁者无敌”反转组织江湖群像。
 - [沐剑屏 / Mu Jianping](entities/MuJianping.md) — 以少年好感、单纯陪伴与危险中的实际帮助代表韦小宝最懵懂关系的《鹿鼎记》人物。
 - [方怡 / Fang Yi](entities/FangYi.md) — 把情欲启蒙、受伤信任、邪教胁迫与求生处境结合起来的《鹿鼎记》人物。
@@ -4638,7 +4644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏荃 / Su Quan](entities/SuQuan.md) — 以成熟判断、能力互补、决策咨询与家庭协调成为韦小宝的务实伙伴和家中实际领袖。
 - [阿珂（《鹿鼎记》） / A Ke](entities/AkeLuDingJi.md) — 以绝色投射、强烈执迷、估价占有和怀孕后的受限婚姻转折检验欲望是否等于爱情的角色。
 - [《决战前后》 / Duel Before and After](entities/DuelBeforeAndAfterGuLong.md) — 古龙陆小凤小说，以紫禁之巅决战连接人情牵挂、剑道纯粹、政治阴谋、选择死亡与悬疑收束的得失。
-- [陆小凤 / Lu Xiaofeng](entities/LuXiaofeng.md) — 以调查、友情、幽默和情感开放对照两位剑客的纯粹追求，并质疑排名与观战奇观的武侠主角。
+- [陆小凤 / Lu Xiaofeng](entities/LuXiaofeng.md) — 以感官判断、示弱、关系理解和临场变招破局，同时在人情生活与技艺纯粹之间保持张力的武侠侦探。
 - [西门吹雪 / Ximen Chuixue](entities/XimenChuixue.md) — 因婚姻和将为人父而获得温度与责任，同时面对牵挂是否削弱致命专注的顶尖剑客。
 - [叶孤城 / Ye Gucheng](entities/YeGucheng.md) — 把诚于剑、城主身份、政治野心和可能主动求死聚于一身，使决斗胜负保持歧义的剑客。
 - [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以错位爱情、报恩、为陌生人追责和继承仇恨的修正共同检验侠义判断的金庸小说。
@@ -18079,6 +18085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Wuxia as Adult Fairy Tale / 武侠作为成人童话](concepts/WuxiaAdultFairyTale.md) — 以友情、信任、享乐、韧性和邪不压正构成理想化情感契约，同时不把浪漫力量当作因果漏洞的豁免。
 - [Idealized Love Deconstruction / 爱情神话拆解](concepts/IdealizedLoveDeconstruction.md) — 不以激情、牺牲、排他性或婚姻结果单独定义爱情，而以欲望、主体性、照料、责任、边界、权力与共同生活综合检验关系。
 - [Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整](concepts/MasteryPurityAndHumanAttachment.md) — 区分巅峰技艺的专注成本、关系牵挂的双重作用，以及技术忠诚能否脱离对人的诚实与道德责任。
 - [Wuxia–Science-Fiction Hybridity / 武侠式科幻](concepts/WuxiaScienceFictionHybrid.md) — 科技与外星设定承载科幻表层，而人物能力、灵药、秘密组织与闯关结构延续武侠冒险语法的跨类型模式。
@@ -18168,7 +18175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Technologized Salvation / 技术化救赎](concepts/TechnologizedSalvation.md) — 科幻叙事把灵魂、转世、启示、审判和天堂转译为信息、筛选与运输机制，同时暴露操作者的合法性问题。
 - [Tragic Adaptation Reframing / 悲剧性改编重构](concepts/TragicAdaptationReframing.md) — 将团圆或延续结局改为不可逆分离，从而重组爱情伦理与情感强度。
 - [Fantasy Character Logic / 奇幻叙事中的人物逻辑](concepts/FantasyCharacterLogic.md) — 即使物理规则虚构，人物选择仍须符合既有知识、价值、关系和能力。
-- [Wuxia Indirect Characterization / 武侠的间接人物塑造](concepts/WuxiaIndirectCharacterization.md) — 以延迟登场、后果、见证、反应和留白塑造武功尺度、人物之美与感情关系的叙事方法。
+- [Wuxia Indirect Characterization / 武侠的间接人物塑造](concepts/WuxiaIndirectCharacterization.md) — 以延迟登场、行动后果、他人见证、反应和留白塑造武功、情感与善意，并检验直接性格标签是否获得行为支撑。
 - [Friendship as Shared Home / 友情作为共同归宿](concepts/FriendshipAsSharedHome.md) — 以共同生活、容纳隐私和共同承担风险，使贫乏空间在血缘与财富之外成为家的关系机制。
 - [Comic Poverty-Constraint Gap / 喜剧贫困与约束落差](concepts/ComicPovertyConstraintGap.md) — 区分反复出现的饥饿与典当，和真正压缩选择、改变关系或造成不可逆代价的物质约束。
 - [Narrative Bridge Protagonist / 叙事桥梁型主角](concepts/NarrativeBridgeProtagonist.md) — 以跨故事区移动、关系牵线、开篇和收束视角解释主角结构中心性的框架。

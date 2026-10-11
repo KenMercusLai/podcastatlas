@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3461
+topic_total_pages: 3463
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3547,6 +3547,9 @@ topic_concepts:
   - key: "WrongfulConvictionPersistenceCorrection"
     title: "Wrongful Conviction Persistence and Correction / 冤案的制度固化与纠错"
     url: "/wiki/concepts/wrongfulconvictionpersistencecorrection/"
+  - key: "WuxiaAdultFairyTale"
+    title: "Wuxia as Adult Fairy Tale / 武侠作为成人童话"
+    url: "/wiki/concepts/wuxiaadultfairytale/"
   - key: "WuxiaIntertextualCraft"
     title: "Wuxia Intertextual Craft"
     url: "/wiki/concepts/wuxiaintertextualcraft/"
@@ -8919,6 +8922,9 @@ topic_sources:
   - key: "02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046"
     title: "02.离婚：郭德纲都不如老舍有意思"
     url: "/wiki/sources/02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046/"
+  - key: "ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl"
+    title: "022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》"
+    url: "/wiki/sources/ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl/"
   - key: "ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us"
     title: "023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图"
     url: "/wiki/sources/ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us/"

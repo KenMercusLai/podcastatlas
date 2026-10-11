@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10448
+wiki_total_pages: 10449
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "WuguPoliticalPanic"
     title: "Wugu Political Panic / 巫蛊政治恐慌"
     url: "/wiki/concepts/wugupoliticalpanic/"
+  - key: "WuxiaAdultFairyTale"
+    title: "Wuxia as Adult Fairy Tale / 武侠作为成人童话"
+    url: "/wiki/concepts/wuxiaadultfairytale/"
   - key: "WuxiaIndirectCharacterization"
     title: "Wuxia Indirect Characterization / 武侠的间接人物塑造"
     url: "/wiki/concepts/wuxiaindirectcharacterization/"

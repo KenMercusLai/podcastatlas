@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13380
+wiki_total_pages: 13385
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1691,6 +1691,9 @@ wiki_pages:
   - key: "HuXueyan"
     title: "胡雪岩 / Hu Xueyan"
     url: "/wiki/entities/huxueyan/"
+  - key: "HuaManlou"
+    title: "花满楼 / Hua Manlou"
+    url: "/wiki/entities/huamanlou/"
   - key: "HualienTzuChiHospital"
     title: "花蓮慈濟醫院 / Hualien Tzu Chi Hospital"
     url: "/wiki/entities/hualientzuchihospital/"

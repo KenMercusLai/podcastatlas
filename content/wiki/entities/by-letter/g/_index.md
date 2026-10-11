@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13380
+wiki_total_pages: 13385
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1226,6 +1226,9 @@ wiki_pages:
   - key: "GongsunXiWarringStates"
     title: "公孙喜 / Gongsun Xi"
     url: "/wiki/entities/gongsunxiwarringstates/"
+  - key: "GongsunDaniangGuLong"
+    title: "公孙大娘（古龙人物） / Gongsun Daniang (Gu Long character)"
+    url: "/wiki/entities/gongsundanianggulong/"
   - key: "GongsunQing"
     title: "公孙庆 / Gongsun Qing"
     url: "/wiki/entities/gongsunqing/"

@@ -36293,3 +36293,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》
+
+Added source `ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl`; created [[EmbroideredBanditGuLong|《绣花大盗》]], [[HuaManlou|花满楼]], [[GongsunDaniangGuLong|公孙大娘]], [[JinJiulingGuLong|金九龄]], [[XueBingGuLong|薛冰]], and [[WuxiaAdultFairyTale|武侠作为成人童话]]; and resynthesized [[LuXiaofeng|陆小凤]] and [[WuxiaIndirectCharacterization|武侠的间接人物塑造]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's strongest effects come from strategic contests, differentiated relationships, Hua Manlou's life-affirming intervention, and the needle-hammer reversal; its adult-fairy-tale quality rests on friendship, trust, pleasure, resilience, and moral expectation without excusing weak motive, inference, or combat closure. No settled contradiction was adopted. Female characterization, romantic compatibility, secret coordination, exact dialogue, motives, martial rankings, final attacks, adaptation changes, casting, and authorial psychology remain interpretive, fictional, or source-scoped. Broad [[GuLong|古龙]], [[ZhiZuiJinMiFM|纸醉金迷FM]], and large cross-corpus plot-coherence pages were kept closed because the focused novel, characters, protagonist, and concepts capture the durable additions without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,545 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

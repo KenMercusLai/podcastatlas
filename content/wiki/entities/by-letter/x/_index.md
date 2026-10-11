@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13380
+wiki_total_pages: 13385
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "XueLanLateHan"
     title: "薛兰 / Xue Lan (late Han)"
     url: "/wiki/entities/xuelanlatehan/"
+  - key: "XueBingGuLong"
+    title: "薛冰（古龙人物） / Xue Bing (Gu Long character)"
+    url: "/wiki/entities/xuebinggulong/"
   - key: "XueDoctorZheBing"
     title: "薛医生 / Xue Doctor (这病说来话长)"
     url: "/wiki/entities/xuedoctorzhebing/"
