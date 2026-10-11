@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10446
+wiki_total_pages: 10447
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "IdealToPracticeConversion"
     title: "Ideal-to-Practice Conversion / 理想的实践转化"
     url: "/wiki/concepts/idealtopracticeconversion/"
+  - key: "IdealizedLoveDeconstruction"
+    title: "Idealized Love Deconstruction / 爱情神话拆解"
+    url: "/wiki/concepts/idealizedlovedeconstruction/"
   - key: "IdentityPoliticsAsPoliticalSorting"
     title: "Identity Politics As Political Sorting"
     url: "/wiki/concepts/identitypoliticsaspoliticalsorting/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13372
+wiki_total_pages: 13379
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2135,6 +2135,9 @@ wiki_pages:
   - key: "MinshengSecurities"
     title: "民生证券 / Minsheng Securities"
     url: "/wiki/entities/minshengsecurities/"
+  - key: "MuJianping"
+    title: "沐剑屏 / Mu Jianping"
+    url: "/wiki/entities/mujianping/"
   - key: "MianKouLateHan"
     title: "沔口 / Mian Kou (late Han)"
     url: "/wiki/entities/miankoulatehan/"

@@ -5,13 +5,14 @@ tags: [fictional-character, wuxia, jin-yong, learning, politics, relationships]
 sources:
   - lowwo0ixlp--ouxy87p42cult3k4
   - lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg
+  - lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-韦小宝 / Wei Xiaobao is the protagonist of [[LuDingJi|《鹿鼎记》]], presented as an adaptive observer whose survival depends less on disciplined martial mastery than on selective learning, rapid imitation, social judgment, and obligations to particular people across hostile institutions.
+韦小宝 / Wei Xiaobao is the protagonist of [[LuDingJi|《鹿鼎记》]], presented as an adaptive observer whose survival and relationships depend less on heroic purity than on selective learning, social judgment, concrete reciprocity, and obligations to particular people.
 
 ## Current Profile
 
@@ -21,15 +22,19 @@ His sworn relationships work similarly. He can feel genuine affection, trade fav
 
 [[ChenJinnan|陈近南]] creates the strongest pressure on that realism. Their relationship begins in organizational utility but becomes trust and surrogate fatherhood. Chen's integrity gives Wei a moral ideal beyond survival, while Chen's death at the hands of the Zheng faction exposes the danger of unconditional abstract loyalty. Wei's grief and confession about neglected martial study mark rare self-reproach and disillusionment rather than a sudden conversion into a conventional hero.
 
+His intimate relationships reproduce the tension between concrete care and moral limitation. Brothel upbringing leaves him relatively indifferent to status and chastity but familiar with transactional, insulting, and price-based ways of speaking about women. His pride in seven beautiful wives can turn them into proof of his own success. Yet the bounded episode also attributes to him contextual understanding, protection, long-term provision, and recognition of some partners' limits.
+
+The seven marriages are therefore not equivalent. [[Shuanger|双儿]] most strongly joins trust, shared danger, loyalty, principle, and respected boundaries; [[PrincessJianning|建宁公主]] brings the clearest courtship and everyday compatibility; [[SuQuan|苏荃]] supplies strategic partnership; and [[AkeLuDingJi|阿珂]] concentrates beauty, sacrifice, valuation, and conquest. The resulting profile is neither romantic vindication nor proof of emotional emptiness: responsibility and non-abandonment coexist with objectification, inequality, coercive circumstances, and nonexclusive possession.
+
 ## Key Characteristics
 
 - Learns through observation, imitation, and immediate application more readily than through disciplined curricula.
-- Selects knowledge that fits his aptitude, temperament, and survival needs.
-- Uses formal apprenticeship partly to create protection, legitimacy, and attachment.
-- Reads people and recruits complementary capacities across social worlds.
-- Forms relationships ranging from genuine friendship to calculated alliance.
+- Reads people and recruits complementary capacities across political, martial, and domestic worlds.
 - Grounds loyalty in concrete treatment and non-betrayal more readily than dynasty or doctrine.
 - Can absorb a mentor's moral example without adopting that mentor's political loyalty system.
+- Treats beauty, acquisition, and number of wives as evidence of his own success.
+- Can understand coercive circumstances and respect some partner-specific limits.
+- Expresses attachment through protection and continued responsibility more readily than exclusivity or romantic sacrifice.
 
 ## Evidence
 
@@ -51,15 +56,29 @@ His sworn relationships work similarly. He can feel genuine affection, trade fav
 
 - [[lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg]] traces Chen's movement from instrumental recruiter to trusted master and father figure, then makes his death a crisis in Wei's moral world.
 
+### Objectification and self-display
+
+- [[lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc]] connects brothel language, monetary appraisal, pride in seven beautiful wives, and “艳福齐天” to acquisition and self-validation.
+
+### Differentiated care and partnership
+
+- [[lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc]] distinguishes Shuang'er's principled companionship, Jianning's lived compatibility, Su Quan's strategic partnership, and A Ke's beauty-centered fixation.
+
+### Responsibility without romantic purity
+
+- [[lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc]] preserves disagreement over whether protection, provision, and non-abandonment count as love when equality, exclusivity, and freedom are limited.
+
 ## Qualifications
 
-The profile follows two structured podcast summaries, not a complete textual or edition-based study of Wei Xiaobao. Claims about talent, motives, oath belief, loyalty, grief, and Jin Yong's design remain host interpretations. Concrete reciprocity can restrain betrayal without becoming a complete public ethic, and practical intelligence should not be converted into approval of corruption, coercion, deception, possessiveness, or harm.
+The profile follows three structured podcast summaries, not a complete textual or edition-based study of Wei Xiaobao. Claims about talent, motives, oath belief, loyalty, love, sexual conduct, marital future, grief, and Jin Yong's design remain host interpretations. Concrete reciprocity can restrain betrayal without becoming a complete public or intimate ethic, and practical intelligence, understanding, or provision should not be converted into approval of corruption, coercion, deception, possessiveness, inequality, or harm.
 
 ## What Changed
 
 - Added Hai Dafu's practical and political instruction to the selective-learning profile.
 - Added Chen Jinnan's moral and surrogate-father influence without collapsing their loyalty disagreement.
 - Reframed ranked loyalty around concrete treatment, cross-faction friendship, and non-betrayal.
+- Added the coexistence of intimate responsibility with objectification and acquisition.
+- Differentiated the seven marriages by trust, compatibility, partnership, projection, and constraint.
 
 ## Relationships
 
@@ -70,3 +89,8 @@ The profile follows two structured podcast summaries, not a complete textual or 
 - [[InformalSelectiveLearning]] - primary account of his observation-led education.
 - [[SwornBrotherhoodSocialInfrastructure]] - framework for his differentiated alliances and friendships.
 - [[ConcreteReciprocityOverAbstractLoyalty]] - framework for his person-centered obligations across political camps.
+- [[Shuanger]] - most trusted companion, protector, and partner with retained principles.
+- [[PrincessJianning]] - spouse with whom play, sex, quarrels, and temperament form everyday compatibility.
+- [[SuQuan]] - strategic partner whose judgment supports the household.
+- [[AkeLuDingJi]] - most intense beauty-centered fixation and strongest test of possession against reciprocity.
+- [[IdealizedLoveDeconstruction]] - framework for judging his marriages without one purified criterion of love.

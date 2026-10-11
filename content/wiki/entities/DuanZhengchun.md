@@ -4,6 +4,7 @@ type: entity
 tags: [fictional-character, wuxia, tianlongbabu, dali, relationships]
 sources:
   - 059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw
+  - lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ That wish exposes his central contradiction. He may be fully attentive and emoti
 
 His lovers respond differently: [[GanBaobao|甘宝宝]] rebuilds a household, [[QinHongmian|秦红棉]] withdraws and controls, [[LiQingluo|李青萝]] displaces injury into violence, [[RuanXingzhu|阮星竹]] lowers expectations, [[DaoBaifeng|刀白凤]] retaliates through self-harm, and Kang Min bargains for formal incorporation. When several are killed, his suicide gives real cost to prior declarations, while leaving open romantic, political, and honor-based motives.
 
+The later [[LuDingJi|《鹿鼎记》]] comparison sharpens rather than reverses this profile. Against Wei Xiaobao, Duan appears more romantic, emotionally expressive, and willing to die for lovers, but also more likely to leave each woman outside his continuing daily life. Wei's household is morally compromised in different ways, yet his need to face and provide for all seven wives makes practical responsibility more continuous. The contrast separates deep-feeling performance from durable care without making either man an adequate relational ideal.
+
 ## Key Characteristics
 
 - Combines martial competence, education, courage, status, expressive skill, and attentive intimacy.
@@ -28,6 +31,7 @@ His lovers respond differently: [[GanBaobao|甘宝宝]] rebuilds a household, [[
 - Retains princely identity despite promises or fantasies of abandoning it for Jianghu life.
 - Uses practical evasion when affection confronts implementation, especially with Kang Min.
 - Accepts death after the women are killed, complicating but not erasing the harm of repeated noncommitment.
+- Appears more romantically expressive than Wei Xiaobao while carrying less continuous household responsibility.
 
 ## Evidence
 
@@ -44,15 +48,20 @@ His lovers respond differently: [[GanBaobao|甘宝宝]] rebuilds a household, [[
 
 - [[059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw]] treats his suicide after the killings as costly evidence while leaving mixed motives unresolved.
 
+### Romantic depth versus practical responsibility
+
+- [[lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc]] contrasts Duan's persuasive intimacy and final sacrifice with Wei Xiaobao's less romantic but more continuous obligation to one household.
+
 ## Qualifications
 
-This profile rests on one conversational podcast reading rather than a complete edition-by-edition study. Martial rank, the truth of remembered dialogue, motives, equality of feeling, relationship duration, political duty, and reasons for suicide remain interpretive. Present sincerity does not excuse misleading promises, nonexclusivity, or downstream harm; final suicide should not be treated as a required or sufficient proof of love.
+This profile rests on two conversational podcast readings rather than a complete edition-by-edition study. Martial rank, the truth of remembered dialogue, motives, equality of feeling, relationship duration, political duty, and reasons for suicide remain interpretive. The Wei Xiaobao comparison is heuristic across two fictional relationship systems, not a controlled moral ranking. Present sincerity does not excuse misleading promises, nonexclusivity, or downstream harm; final suicide should not be treated as a required or sufficient proof of love.
 
 ## What Changed
 
 - Created a profile separating personal attraction from rank or appearance alone.
 - Distinguished immediate emotional sincerity from durable commitment and identity change.
 - Treated the ending as costly but multiply motivated evidence rather than complete vindication.
+- Added the contrast between expressive romantic depth and continuous household responsibility.
 
 ## Relationships
 
@@ -65,3 +74,5 @@ This profile rests on one conversational podcast reading rather than a complete 
 - [[KangMin|康敏]] - lover who tests feeling through formal status and material placement in Dali.
 - [[PresentSincerityCommitmentGap]] - framework for the divide between his immediate feeling and sustained choices.
 - [[RomanticInjuryResponsePatterns]] - maps the different adaptations and harms around his relationships.
+- [[WeiXiaobao]] - comparison figure whose compromised household responsibility differs from Duan's romantic intensity and repeated absence.
+- [[IdealizedLoveDeconstruction]] - broader framework separating sacrifice, exclusivity, care, and shared life.

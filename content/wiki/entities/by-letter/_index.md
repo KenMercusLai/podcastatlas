@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13372
+wiki_total_pages: 13379
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2258,6 +2258,9 @@ wiki_pages:
   - key: "Atang"
     title: "阿汤 / A Tang"
     url: "/wiki/entities/atang/"
+  - key: "AkeLuDingJi"
+    title: "阿珂（《鹿鼎记》） / A Ke"
+    url: "/wiki/entities/akeludingji/"
   - key: "AntAfu"
     title: "阿福 / Ant Afu"
     url: "/wiki/entities/antafu/"

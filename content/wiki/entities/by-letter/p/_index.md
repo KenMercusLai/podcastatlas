@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13372
+wiki_total_pages: 13379
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "PangMengEasternHan"
     title: "庞萌 / Pang Meng (Eastern Han)"
     url: "/wiki/entities/pangmengeasternhan/"
+  - key: "PrincessJianning"
+    title: "建宁公主 / Princess Jianning"
+    url: "/wiki/entities/princessjianning/"
   - key: "PengchengBattle"
     title: "彭城之战 / Battle of Pengcheng"
     url: "/wiki/entities/pengchengbattle/"

@@ -10703,6 +10703,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/akbarkhan/"
     },
+    "AkeLuDingJi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/akeludingji/"
+    },
     "Akhenaten": {
       "episode_count": 1,
       "show_count": 1,
@@ -73371,9 +73387,9 @@
       "url": "/wiki/entities/duanyu/"
     },
     "DuanZhengchun": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljxfGtvPYoHNXagL2V0yMcJ1ZYpw [ljxfGtvPYoHNXagL2V0yMcJ1ZYpw].md",
@@ -73381,6 +73397,13 @@
           "show": "纸醉金迷FM",
           "title": "059 闲话金庸《天龙八部》：段正淳和他的女友团",
           "url": "/wiki/sources/059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw/"
+        },
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
         }
       ],
       "updated": "2026-10-11",
@@ -89477,6 +89500,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/fangyanwealth/"
+    },
+    "FangYi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/fangyi/"
     },
     "FangZhiLateHan": {
       "episode_count": 1,
@@ -129114,6 +129153,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/idealtopracticeconversion/"
     },
+    "IdealizedLoveDeconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/idealizedlovedeconstruction/"
+    },
     "IdentityBasedHabitChange": {
       "episode_count": 1,
       "show_count": 1,
@@ -166595,9 +166650,9 @@
       "url": "/wiki/entities/ludapeng/"
     },
     "LuDingJi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
@@ -166612,6 +166667,13 @@
           "show": "纸醉金迷FM",
           "title": "032 教师节特辑 | 韦小宝和他的师父们",
           "url": "/wiki/sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg/"
+        },
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
         }
       ],
       "updated": "2026-10-12",
@@ -185764,6 +185826,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/msmagazine/"
+    },
+    "MuJianping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/mujianping/"
     },
     "MuWanqing": {
       "episode_count": 1,
@@ -213591,9 +213669,9 @@
       "url": "/wiki/concepts/presbyopiacorrectionfitting/"
     },
     "PresentSincerityCommitmentGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljxfGtvPYoHNXagL2V0yMcJ1ZYpw [ljxfGtvPYoHNXagL2V0yMcJ1ZYpw].md",
@@ -213601,6 +213679,13 @@
           "show": "纸醉金迷FM",
           "title": "059 闲话金庸《天龙八部》：段正淳和他的女友团",
           "url": "/wiki/sources/059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw/"
+        },
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
         }
       ],
       "updated": "2026-10-11",
@@ -214357,6 +214442,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/princesinthetower/"
+    },
+    "PrincessJianning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/princessjianning/"
     },
     "PrincessMarriagePowerAsymmetry": {
       "episode_count": 1,
@@ -241938,6 +242039,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/shuangxuetao/"
     },
+    "Shuanger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/shuanger/"
+    },
     "ShuboKhotanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -252916,6 +253033,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/sumaoeasternhan/"
+    },
+    "SuQuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/suquan/"
     },
     "SuShuangLateHan": {
       "episode_count": 1,
@@ -280448,9 +280581,9 @@
       "url": "/wiki/entities/weixiaoeasternhan/"
     },
     "WeiXiaobao": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lowwo0IXLp--OUxY87p42cUlt3k4 [lowwo0IXLp--OUxY87p42cUlt3k4].md",
@@ -280465,6 +280598,13 @@
           "show": "纸醉金迷FM",
           "title": "032 教师节特辑 | 韦小宝和他的师父们",
           "url": "/wiki/sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg/"
+        },
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
         }
       ],
       "updated": "2026-10-12",
@@ -295885,6 +296025,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/zengming/"
+    },
+    "ZengRou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lheKXvoM57-qdGVmUY0_jw4Nexqc [lheKXvoM57-qdGVmUY0_jw4Nexqc].md",
+          "key": "lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc",
+          "show": "纸醉金迷FM",
+          "title": "026 韦小宝与他的七个老婆：爱情？还是反爱情？",
+          "url": "/wiki/sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/zengrou/"
     },
     "ZengYan": {
       "episode_count": 1,

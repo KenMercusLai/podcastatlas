@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [026 韦小宝与他的七个老婆：爱情？还是反爱情？](sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc.md) — 纸醉金迷FM以七段不同关系拆解唯一真爱神话，并在韦小宝的物化、占有、理解、边界、照料与长期责任之间保留争议。
 - [027 武侠史上最经典一战|趣话《陆小凤传奇之决战前后》](sources/lo1lhzgf7cwbtwjy6no8a9i2laa6.md) — 纸醉金迷FM以西门吹雪的人性变化、叶孤城的政治与求死歧义及“诚于人/诚于剑”之争重读紫禁之巅，同时质疑悬疑收束、友情转变和女性书写。
 - [028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？](sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic.md) — 纸醉金迷FM以报恩、为陌生受害者追责和修正继承仇恨，讨论胡斐如何在感情压力、因果不明与前辈引导中形成侠义判断。
 - [029 七夕特辑|相见欢，恨无常：《飞狐外传》中的爱情书写](sources/lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7.md) — 纸醉金迷FM以胡斐、袁紫衣和程灵素区分即时吸引、长期适配、实践性照护与迟到认知，并拒绝把自我牺牲转化为爱情债务。
@@ -4625,6 +4626,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [沐剑屏 / Mu Jianping](entities/MuJianping.md) — 以少年好感、单纯陪伴与危险中的实际帮助代表韦小宝最懵懂关系的《鹿鼎记》人物。
+- [方怡 / Fang Yi](entities/FangYi.md) — 把情欲启蒙、受伤信任、邪教胁迫与求生处境结合起来的《鹿鼎记》人物。
+- [双儿 / Shuang'er](entities/Shuanger.md) — 从不平等主仆起点走向患难陪伴，并以原则、边界和可靠保护构成韦小宝最深信任的伴侣。
+- [曾柔 / Zeng Rou](entities/ZengRou.md) — 因一次施恩形成英雄投射、后又发现想象与真人落差，却在七段关系中发展最少的《鹿鼎记》人物。
+- [建宁公主 / Princess Jianning](entities/PrincessJianning.md) — 以持续相处、性启蒙、身体契合、打闹争吵和相似性格形成日常夫妻质感的《鹿鼎记》人物。
+- [苏荃 / Su Quan](entities/SuQuan.md) — 以成熟判断、能力互补、决策咨询与家庭协调成为韦小宝的务实伙伴和家中实际领袖。
+- [阿珂（《鹿鼎记》） / A Ke](entities/AkeLuDingJi.md) — 以绝色投射、强烈执迷、估价占有和怀孕后的受限婚姻转折检验欲望是否等于爱情的角色。
 - [《决战前后》 / Duel Before and After](entities/DuelBeforeAndAfterGuLong.md) — 古龙陆小凤小说，以紫禁之巅决战连接人情牵挂、剑道纯粹、政治阴谋、选择死亡与悬疑收束的得失。
 - [陆小凤 / Lu Xiaofeng](entities/LuXiaofeng.md) — 以调查、友情、幽默和情感开放对照两位剑客的纯粹追求，并质疑排名与观战奇观的武侠主角。
 - [西门吹雪 / Ximen Chuixue](entities/XimenChuixue.md) — 因婚姻和将为人父而获得温度与责任，同时面对牵挂是否削弱致命专注的顶尖剑客。
@@ -18067,6 +18075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Idealized Love Deconstruction / 爱情神话拆解](concepts/IdealizedLoveDeconstruction.md) — 不以激情、牺牲、排他性或婚姻结果单独定义爱情，而以欲望、主体性、照料、责任、边界、权力与共同生活综合检验关系。
 - [Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整](concepts/MasteryPurityAndHumanAttachment.md) — 区分巅峰技艺的专注成本、关系牵挂的双重作用，以及技术忠诚能否脱离对人的诚实与道德责任。
 - [Wuxia–Science-Fiction Hybridity / 武侠式科幻](concepts/WuxiaScienceFictionHybrid.md) — 科技与外星设定承载科幻表层，而人物能力、灵药、秘密组织与闯关结构延续武侠冒险语法的跨类型模式。
 - [Weapons-Race Civilizational Self-Destruction / 武器竞赛式文明自毁](concepts/WeaponsRaceCivilizationalSelfDestruction.md) — 对手公开限制毁灭性武器却秘密竞逐，使研发、试验与污染在终局战争前便摧毁共同生存条件。

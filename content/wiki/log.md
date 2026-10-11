@@ -36262,3 +36262,11 @@ Added source `lo1lhzgf7cwbtwjy6no8a9i2laa6`; created [[DuelBeforeAndAfterGuLong|
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 026 韦小宝与他的七个老婆：爱情？还是反爱情？
+
+Added source `lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc`; created [[MuJianping|沐剑屏]], [[FangYi|方怡]], [[Shuanger|双儿]], [[ZengRou|曾柔]], [[PrincessJianning|建宁公主]], [[SuQuan|苏荃]], [[AkeLuDingJi|阿珂]], and [[IdealizedLoveDeconstruction|爱情神话拆解]]; and resynthesized [[LuDingJi|《鹿鼎记》]], [[WeiXiaobao|韦小宝]], [[DuanZhengchun|段正淳]], and [[PresentSincerityCommitmentGap|当下真心与长期承诺落差]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the seven relationships distribute youthful affection, coerced mistrust, principled loyalty, heroic projection, bodily compatibility, strategic partnership, and beauty-centered possession rather than repeating one love model; Wei's objectification and acquisitive pride coexist with contextual understanding, respected limits, protection, and continued responsibility; and the Duan Zhengchun comparison separates romantic expression and sacrifice from durable everyday care. No settled contradiction was adopted. Nonexclusivity, servitude, coercion, pregnancy, consent, motives, marital futures, character psychology, and authorial intention remain morally qualified, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused source, characters, novel, and concepts capture the durable additions without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,541 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

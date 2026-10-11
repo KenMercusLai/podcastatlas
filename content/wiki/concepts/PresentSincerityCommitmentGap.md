@@ -4,6 +4,7 @@ type: concept
 tags: [relationships, commitment, sincerity, identity, literature]
 sources:
   - 059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw
+  - lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The bounded [[ZhiZuiJinMiFM|纸醉金迷FM]] discussion uses [[DuanZhengchun|段
 
 The gap is therefore behavioral and structural, not merely verbal. A person may believe an intense promise while speaking it and still be unreliable if later decisions preserve an incompatible life. Final sacrifice can prove that feeling was not costless, but it cannot retrospectively supply exclusivity, informed consent, or a shared future.
 
+The later comparison with [[WeiXiaobao|韦小宝]] separates commitment from romantic style. Wei is less eloquent, less exclusive, and less plausibly willing to die for love, but he gathers his partners into one continuing household and accepts ongoing practical responsibility. That arrangement contains objectification, coercion, and inequality and is not offered as a corrective ideal. It shows only that expressive depth, sacrificial intensity, and durable care are different dimensions that can come apart.
+
 ## Key Claims
 
 - Emotional intensity and remembered intimacy are evidence of feeling, not sufficient evidence of durable commitment.
@@ -26,6 +29,7 @@ The gap is therefore behavioral and structural, not merely verbal. A person may 
 - Role and identity matter: love that requires abandoning a political, familial, or social life needs explicit agreement about whether that change is real.
 - Evasive practical answers can reveal the gap even when affectionate language remains emotionally convincing.
 - Later sacrifice may complicate a fraud verdict while leaving earlier nonexclusivity, ambiguity, and injury intact.
+- Continuous provision can demonstrate responsibility without proving equality, freedom, exclusivity, or deep mutual understanding.
 
 ## Evidence
 
@@ -42,15 +46,20 @@ The gap is therefore behavioral and structural, not merely verbal. A person may 
 
 - [[059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw]] treats his suicide as partial fulfillment of willingness to die for loved ones while preserving disagreement about motive and responsibility.
 
+### Romantic performance and continuous care
+
+- [[lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc]] contrasts Duan Zhengchun's expressive intimacy and final sacrifice with Wei Xiaobao's compromised but continuing responsibility for one household.
+
 ## Counterevidence & Qualifications
 
-This concept comes from one multi-host reading of fictional relationships rather than relationship research or a complete textual study. Commitments can legitimately change, and permanence is not the only measure of love; the problem is the mismatch between communicated expectation and sustained conduct. Duan Zhengchun's suicide may have political as well as romantic motives, and extreme self-sacrifice should not be treated as the preferred proof of sincerity.
+This concept comes from two multi-host readings of fictional relationships rather than relationship research or complete textual studies. Commitments can legitimately change, and permanence is not the only measure of love; the problem is the mismatch between communicated expectation and sustained conduct. Duan Zhengchun's suicide may have political as well as romantic motives, and extreme self-sacrifice should not be treated as the preferred proof of sincerity. Wei's continuing household does not make unequal or coercive relationships consensual, reciprocal, or just.
 
 ## What Changed
 
 - Established a distinction between immediate emotional truth and commitment demonstrated through later structure and tradeoffs.
 - Added role continuity and evasive practical answers as tests of whether a promise can be implemented.
 - Preserved final sacrifice as complicating evidence rather than retroactive repair.
+- Separated romantic expressiveness and sacrificial intensity from continuous practical responsibility.
 
 ## Related Concepts
 
@@ -59,4 +68,5 @@ This concept comes from one multi-host reading of fictional relationships rather
 - [[RelationshipValueBeyondDuration]] - neighboring claim that brevity does not automatically make a relationship false or valueless.
 - [[FreeLovePracticeGap]] - compares professed relational freedom with the lived distribution of jealousy, care, secrecy, and power.
 - [[CompassionateCharacterInterpretation]] - permits mixed judgment without turning sincerity into acquittal.
+- [[IdealizedLoveDeconstruction]] - places sincerity and commitment among several non-equivalent criteria for love.
 - [[TianLongBaBu|《天龙八部》]] - work supplying the bounded character case.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3457
+topic_total_pages: 3458
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1723,6 +1723,9 @@ topic_concepts:
   - key: "IcebergClimateSymbolism"
     title: "Iceberg Climate Symbolism"
     url: "/wiki/concepts/icebergclimatesymbolism/"
+  - key: "IdealizedLoveDeconstruction"
+    title: "Idealized Love Deconstruction / 爱情神话拆解"
+    url: "/wiki/concepts/idealizedlovedeconstruction/"
   - key: "IdeologicallyCompromisedArt"
     title: "Ideologically Compromised Art"
     url: "/wiki/concepts/ideologicallycompromisedart/"

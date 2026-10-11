@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13372
+wiki_total_pages: 13379
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2216,6 +2216,9 @@ wiki_pages:
   - key: "SouthernHan"
     title: "南汉 / Southern Han"
     url: "/wiki/entities/southernhan/"
+  - key: "Shuanger"
+    title: "双儿 / Shuang'er"
+    url: "/wiki/entities/shuanger/"
   - key: "ShuangXuetao"
     title: "双雪涛 / Shuang Xuetao"
     url: "/wiki/entities/shuangxuetao/"
@@ -2909,6 +2912,9 @@ wiki_pages:
   - key: "SuMaoEasternHan"
     title: "苏茂 / Su Mao (Eastern Han)"
     url: "/wiki/entities/sumaoeasternhan/"
+  - key: "SuQuan"
+    title: "苏荃 / Su Quan"
+    url: "/wiki/entities/suquan/"
   - key: "SuJianxin"
     title: "苏见信（信） / Shin"
     url: "/wiki/entities/sujianxin/"
