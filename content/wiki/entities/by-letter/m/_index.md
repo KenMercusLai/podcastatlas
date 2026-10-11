@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13278
+wiki_total_pages: 13281
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1817,6 +1817,9 @@ wiki_pages:
   - key: "MumtazMahal"
     title: "Mumtaz Mahal"
     url: "/wiki/entities/mumtazmahal/"
+  - key: "MunichAgreement1938"
+    title: "Munich Agreement (1938)"
+    url: "/wiki/entities/munichagreement1938/"
   - key: "MurasakiShikibu"
     title: "Murasaki Shikibu"
     url: "/wiki/entities/murasakishikibu/"

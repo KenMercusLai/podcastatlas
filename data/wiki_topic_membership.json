@@ -6107,6 +6107,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184": [
     {
       "key": "culture",
@@ -32745,6 +32752,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EdvardBenes": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EdwardCarson": [
@@ -61862,6 +61876,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MunichAgreement1938": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MuraBudberg": [

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3292
+topic_total_pages: 3294
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5918,6 +5918,9 @@ topic_entities:
   - key: "EdouardPhilippe"
     title: "Edouard Philippe"
     url: "/wiki/entities/edouardphilippe/"
+  - key: "EdvardBenes"
+    title: "Edvard Beneš"
+    url: "/wiki/entities/edvardbenes/"
   - key: "EdwardCarson"
     title: "Edward Carson"
     url: "/wiki/entities/edwardcarson/"
@@ -7022,6 +7025,9 @@ topic_entities:
   - key: "MujtabaKhamenei"
     title: "Mujtaba Khamenei"
     url: "/wiki/entities/mujtabakhamenei/"
+  - key: "MunichAgreement1938"
+    title: "Munich Agreement (1938)"
+    url: "/wiki/entities/munichagreement1938/"
   - key: "MuslimBrotherhood"
     title: "Muslim Brotherhood"
     url: "/wiki/entities/muslimbrotherhood/"

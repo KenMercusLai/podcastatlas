@@ -35804,3 +35804,11 @@ Added source `essentials-control-pain-heal-faster-with-your-brain-scim7633492459
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 529. The Nazis' Road to War: Showdown in Munich (Part 2)
+
+Added source `529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113`; created [[MunichAgreement1938|Munich Agreement (1938)]], [[Czechoslovakia]], and [[EdvardBenes|Edvard Beneš]]; and resynthesized [[NevilleChamberlain]], [[DeterrenceFailureAgainstExpansion]], and [[OpponentResolveMiscalculation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Britain and France coerced Sudeten cession before the four-power conference; Munich avoided immediate general war while stripping Czechoslovakia of defenses and capacity; Chamberlain misread tactical moderation as limited intent; and Hitler misread negotiated restraint as permanent western weakness. No settled contradiction was adopted. Population, refugee, territorial, industrial, military, public-opinion, dialogue, motive, conspiracy, and counterfactual claims remain source-scoped. Broad [[AdolfHitler]], [[HermannGoring]], [[BenitoMussolini]], [[NaziGermany]], and [[TheRestIsHistory]] profiles were kept closed because the focused event, state, person, and decision-error pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,483 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

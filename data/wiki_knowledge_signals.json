@@ -59204,6 +59204,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/czechrepublic/"
     },
+    "Czechoslovakia": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8685711342 [GLT8685711342].md",
+          "key": "530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342",
+          "show": "The Rest Is History",
+          "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        },
+        {
+          "episode_file": "GLT8359198113 [GLT8359198113].md",
+          "key": "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113",
+          "show": "The Rest Is History",
+          "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
+          "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/czechoslovakia/"
+    },
     "DCFValuationAsNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -66107,9 +66130,9 @@
       "url": "/wiki/concepts/deterministiclegalaicontrols/"
     },
     "DeterrenceFailureAgainstExpansion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6776521114 [GLT6776521114].md",
@@ -66124,6 +66147,13 @@
           "show": "The Rest Is History",
           "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        },
+        {
+          "episode_file": "GLT8359198113 [GLT8359198113].md",
+          "key": "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113",
+          "show": "The Rest Is History",
+          "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
+          "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
         }
       ],
       "updated": "2026-09-27",
@@ -74758,6 +74788,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/educationsignalinflation/"
+    },
+    "EdvardBenes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8359198113 [GLT8359198113].md",
+          "key": "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113",
+          "show": "The Rest Is History",
+          "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
+          "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/edvardbenes/"
     },
     "EdwardCarson": {
       "episode_count": 2,
@@ -184034,6 +184080,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/mumtazmahal/"
     },
+    "MunichAgreement1938": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8359198113 [GLT8359198113].md",
+          "key": "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113",
+          "show": "The Rest Is History",
+          "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
+          "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/munichagreement1938/"
+    },
     "MunicipalTransparencyCompromise": {
       "episode_count": 1,
       "show_count": 1,
@@ -187996,9 +188058,9 @@
       "url": "/wiki/entities/nevadabristleconepreserve/"
     },
     "NevilleChamberlain": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
@@ -188013,6 +188075,13 @@
           "show": "The Rest Is History",
           "title": "43. 1940",
           "url": "/wiki/sources/43-1940-glt2702093158/"
+        },
+        {
+          "episode_file": "GLT8359198113 [GLT8359198113].md",
+          "key": "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113",
+          "show": "The Rest Is History",
+          "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
+          "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
         }
       ],
       "updated": "2026-10-03",
@@ -195295,9 +195364,9 @@
       "url": "/wiki/entities/oppenheimersecurityhearing/"
     },
     "OpponentResolveMiscalculation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5437884494 [GLT5437884494].md",
@@ -195312,6 +195381,13 @@
           "show": "The Rest Is History",
           "title": "530. Hitler's War on Poland: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/530-hitlers-war-on-poland-countdown-to-armageddon-part-1-glt8685711342/"
+        },
+        {
+          "episode_file": "GLT8359198113 [GLT8359198113].md",
+          "key": "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113",
+          "show": "The Rest Is History",
+          "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
+          "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
         }
       ],
       "updated": "2026-10-11",
