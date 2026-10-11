@@ -35535,3 +35535,11 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情
+
+Added source `054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t`; created [[AChineseGhostStory1987|《倩女幽魂》(1987)]], [[LeslieCheung|张国荣]], [[JoeyWong|王祖贤]], [[ChingSiuTung|程小东]], [[TsuiHark|徐克]], [[JamesWong|黄霑]], [[TragicAdaptationReframing]], and [[FantasyCharacterLogic]]; and resynthesized [[LiaozhaiZhiyi|《聊斋志异》]], [[FunctionalAdaptationFidelity]], and [[AdaptationReceptionMemory]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: reciprocal romance, performance, ghostly imagery, music, and tragic release make a durable modern 《聂小倩》, while Yan Chixia's tolerated predation and the Black Mountain finale expose a gap between invented rules and credible character or power logic. No settled contradiction was adopted. Creative authorship, reshoot timing, casting, training, source differences, censorship effects, influence, and creator intention remain contested or source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[HongKongFilmIndustry]] profiles stayed closed because focused pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,449 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,8 @@ sources:
   - 101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
-last_updated: 2026-10-08
+  - 054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ This standard does not license arbitrary rewriting. Changes still have to produc
 The chronological survey sharpens the distinction by comparing the 1983 and 2017 television versions. A visibly altered sequence can remain faithful when its new causal chain is coherent, while a production can reproduce the same event but remove the context that explains why it occurs. It also separates direct fidelity from artistic value: a work such as 《东邪西毒》 can achieve powerful cinema through transformation without serving as a close retelling.
 
 The [[BiaoRenComic|《镖人》]] comparison adds a single film in which different functions transfer unevenly. [[BiaoRenFilm2026|《镖人：风起大漠》]] rebuilds 地听's motive and final-opponent role coherently and preserves martial pleasure through [[TraditionalWuxiaActionCraft|readable action]], yet cuts much of the imperial pressure, rebel philosophy, religious background, and ensemble history that explain why other characters follow, refuse, or sacrifice. It also shows that event retention is not enough: 老莫's death remains in the plot but loses force when prior relationship development, framing, pacing, and reactions are weakened.
+
+A supernatural-romance case adds a further split. In [[AChineseGhostStory1987|《倩女幽魂》(1987)]], Ning Caichen's softened characterization, reciprocal protection, and the move from household reunion to tragic release create clear emotional causality. Yan Chixia's tolerated predation and the sudden power jump in the Black Mountain finale leave adjacent behavioral and action functions under-prepared. Fidelity can therefore succeed in romance while failing in world and climax logic.
 
 ## Key Claims
 
@@ -58,17 +61,21 @@ The [[BiaoRenComic|《镖人》]] comparison adds a single film in which differe
 - [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] treats 地听's brotherhood rewrite as internally coherent while arguing that cuts to 隋炀帝, 裴世矩, 知世郎, and the five-family conflict weaken the causes and values behind the escort plot.
 - [[096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d]] uses 老莫's death to show that a retained event can lose its function through reduced setup, distant staging, and premature emotional release.
 
+### Romantic reframing and fantasy causality
+
+- [[054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t]] treats reciprocal rescue and tragic release as coherent rebuilding while contrasting them with under-explained tolerance of harm and power scaling.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from three informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can itself become a vague defense of preferred adaptations unless tied to observable setup, motive, choice, consequence, staging, and reaction. Functional success in action or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes rather than a single score, and production-motive claims in the 《镖人》 discussion remain speculative.
+The concept is derived from four informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production and authorship claims remain source-scoped.
 
 ## What Changed
 
 - Established a distinction between literal reproduction and preservation of narrative function.
 - Made character causality, perceivable motive, and earned thematic development the main fidelity tests.
-- Added a boundary against treating any formally inventive rewrite as automatically faithful.
 - Added event-without-context as a failure mode and separated artistic achievement from direct fidelity.
 - Added uneven transfer across action, political causality, ensemble structure, and emotional staging.
+- Added a supernatural-romance case where character and ending functions improve while behavior and climax logic remain weak.
 
 ## Related Concepts
 
@@ -79,3 +86,5 @@ The concept is derived from three informal, multi-host comparisons whose judgmen
 - [[LegendOfTheCondorHeroes]] - bounded work whose many screen versions ground the framework.
 - [[AdaptationReceptionMemory]] - separates function-based evaluation from familiarity and generational attachment.
 - [[TraditionalWuxiaActionCraft]] - shows how one craft function can transfer successfully while other source functions weaken.
+- [[TragicAdaptationReframing]] - explains how a changed ending can rebuild romantic function.
+- [[FantasyCharacterLogic]] - isolates behavioral credibility and capability preparation inside invented worlds.

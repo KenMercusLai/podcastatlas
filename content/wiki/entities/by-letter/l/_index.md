@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13217
+wiki_total_pages: 13223
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1850,6 +1850,9 @@ wiki_pages:
   - key: "LiaoJieyuan"
     title: "廖杰远"
     url: "/wiki/entities/liaojieyuan/"
+  - key: "LeslieCheung"
+    title: "张国荣 / Leslie Cheung"
+    url: "/wiki/entities/lesliecheung/"
   - key: "LadyXuSunYi"
     title: "徐夫人 / Lady Xu (Sun Yi)"
     url: "/wiki/entities/ladyxusunyi/"

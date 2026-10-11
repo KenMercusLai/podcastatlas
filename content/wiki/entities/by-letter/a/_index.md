@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13217
+wiki_total_pages: 13223
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2042,6 +2042,9 @@ wiki_pages:
   - key: "AStretchOfHighwayTwoLanesWide"
     title: "《一段双车道公路》"
     url: "/wiki/entities/astretchofhighwaytwolaneswide/"
+  - key: "AChineseGhostStory1987"
+    title: "《倩女幽魂》(1987) / A Chinese Ghost Story"
+    url: "/wiki/entities/achineseghoststory1987/"
   - key: "ASongOfIceAndFire"
     title: "《冰与火之歌》 / A Song of Ice and Fire"
     url: "/wiki/entities/asongoficeandfire/"

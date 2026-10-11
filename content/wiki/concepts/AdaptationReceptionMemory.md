@@ -6,7 +6,8 @@ sources:
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
   - 083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz
-last_updated: 2026-10-10
+  - 054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The [[TaiChiMaster1993|《太极张三丰》]] retrospective shows that the mech
 Reception memory therefore changes the baseline against which casting, voice, costume, pacing, deviation, and even plot continuity are judged. It does not invalidate criticism; it requires critics to separate what a work demonstrably does from the familiarity, access, copy completeness, and life stage that make its choices feel natural.
 
 The Jin Yong favorites roundtable adds a cross-work test. A host can prefer the 1995 television adaptation of 《神雕侠侣》 for performers, pacing, romance, and music, or the CCTV 《笑傲江湖》 for landscape, production scale, ensemble, and atmosphere, while films such as 《东邪西毒》 or 《笑傲江湖Ⅱ：东方不败》 are valued for transformative style. Preference therefore combines remembered attachment with explicit craft criteria and need not track literal fidelity.
+
+The [[AChineseGhostStory1987|《倩女幽魂》(1987)]] retrospective adds an image-first case. Viewers retain VCD or television impressions, songs, actors, white fabric, wind, water, and monster fragments while confusing sequel events or forgetting the full narrative. A performance and visual design can become the default image of a literary character whose source description was less fixed.
 
 ## Key Claims
 
@@ -58,17 +61,22 @@ The Jin Yong favorites roundtable adds a cross-work test. A host can prefer the 
 - [[083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz]] records favorites across film and television whose stated reasons include performers, pacing, emotional line, music, landscape, production scale, and ensemble atmosphere.
 - [[083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz]] treats 《东邪西毒》 as a highly transformative work, reinforcing the separation between artistic preference and close fidelity.
 
+### Iconic fragments and character-image replacement
+
+- [[054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t]] records actors, songs, images, and mixed sequel memories surviving more strongly than a complete plot.
+- [[054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t]] treats [[JoeyWong|王祖贤]]'s Nie Xiaoqian as a screen image that supplements or overwrites the literary image.
+
 ## Counterevidence & Qualifications
 
-The concept is grounded in three multi-host retrospectives and cannot quantify how much preference comes from craft, age, region, marketing, repetition, or copy completeness. Nostalgia should not become a blanket explanation that dismisses aesthetic judgment, nor should durable popularity prove artistic superiority. Streaming access and later rewatching can also loosen the generational and material boundaries established by original distribution. Production credits and version histories recalled in conversation remain source-scoped unless independently verified.
+The concept is grounded in four multi-host retrospectives and cannot quantify how much preference comes from craft, age, region, marketing, repetition, copy completeness, star image, or circulation. Nostalgia should not dismiss aesthetic judgment, nor should popularity prove superiority or influence. Streaming and rewatching can loosen original boundaries. Production credits, version histories, and influence claims remain source-scoped.
 
 ## What Changed
 
 - Established first-viewing age and broadcast access as explicit variables in adaptation judgment.
 - Separated nostalgia from craft while showing how the two can reinforce one another.
-- Added songs and rebroadcast repetition to the wiki's account of audiovisual adaptation reception.
 - Extended the concept from version preference to partial copies, home-video formats, false shot memory, and childhood imitation.
 - Added cross-work favorites that make performance, music, scale, landscape, and transformative style explicit alongside formative attachment.
+- Added image-first memory and screen performance becoming a default cultural image of a literary character.
 
 ## Related Concepts
 
@@ -77,3 +85,5 @@ The concept is grounded in three multi-host retrospectives and cannot quantify h
 - [[LiteraryAdaptationTextureLoss]] - identifies formal losses that familiarity can conceal or later rewatching can expose.
 - [[LegendOfTheCondorHeroes]] - multi-generational adaptation corpus grounding the concept.
 - [[TaiChiMaster1993|《太极张三丰》]] - single-film case showing how distribution format and missing scenes reshape memory.
+- [[AChineseGhostStory1987|《倩女幽魂》(1987)]] - case where songs, stars, and visual fragments outlast plot recall.
+- [[TragicAdaptationReframing]] - explains why the remembered film ending differs from the source tale.

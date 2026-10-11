@@ -254,6 +254,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/acrcloud/"
     },
+    "AChineseGhostStory1987": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/achineseghoststory1987/"
+    },
     "AChristmasCarol": {
       "episode_count": 3,
       "show_count": 2,
@@ -7251,9 +7267,9 @@
       "url": "/wiki/concepts/adaptationledprogramming/"
     },
     "AdaptationReceptionMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lnnirnMbWnA0EAUovax7QZxWthk_ [lnnirnMbWnA0EAUovax7QZxWthk_].md",
@@ -7275,9 +7291,16 @@
           "show": "纸醉金迷FM",
           "title": "083 意难平？CP大乱配？十级问答？|再话你心中的金庸宇宙top1",
           "url": "/wiki/sources/083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz/"
+        },
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/adaptationreceptionmemory/"
     },
     "AdaptiveHumanEnvironments": {
@@ -44874,6 +44897,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/chinesewoodblockprintingeconomics/"
+    },
+    "ChingSiuTung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/chingsiutung/"
     },
     "ChinuaAchebe": {
       "episode_count": 1,
@@ -87915,6 +87954,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/fanqiuwusun/"
     },
+    "FantasyCharacterLogic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/fantasycharacterlogic/"
+    },
     "FantasyMedievalRealism": {
       "episode_count": 1,
       "show_count": 1,
@@ -97978,9 +98033,9 @@
       "url": "/wiki/concepts/functionpreservingcolorectalsurgery/"
     },
     "FunctionalAdaptationFidelity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq [li_jlQ_8FKC5Uzg4dBIaqkWN0Kcq].md",
@@ -98002,9 +98057,16 @@
           "show": "纸醉金迷FM",
           "title": "096 【锐评春节档】《镖人》电影与原著全方位对比",
           "url": "/wiki/sources/096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d/"
+        },
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/functionaladaptationfidelity/"
     },
     "FunctionalArticulationDisorder": {
@@ -136081,6 +136143,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/jamesvofscotland/"
     },
+    "JamesWong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jameswong/"
+    },
     "JamieSiminoff": {
       "episode_count": 4,
       "show_count": 2,
@@ -140264,6 +140342,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/joeparvizi/"
+    },
+    "JoeyWong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/joeywong/"
     },
     "JogyeOrder": {
       "episode_count": 1,
@@ -150414,6 +150508,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/lesenfantsduparadisfilm/"
     },
+    "LeslieCheung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/lesliecheung/"
+    },
     "LeslieGroves": {
       "episode_count": 1,
       "show_count": 1,
@@ -153232,6 +153342,43 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/lianxiaotidistribution/"
+    },
+    "LiaozhaiZhiyi": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话 [587843930].md",
+          "key": "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930",
+          "show": "蜜獾吃书",
+          "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
+          "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
+        },
+        {
+          "episode_file": "136. 春日明媚，聊聊鬼神 [827911486].md",
+          "key": "136-chunri-mingmei-liaoliao-guishen-827911486",
+          "show": "蜜獾吃书",
+          "title": "136. 春日明媚，聊聊鬼神",
+          "url": "/wiki/sources/136-chunri-mingmei-liaoliao-guishen-827911486/"
+        },
+        {
+          "episode_file": "148. 王氏之死：断井颓垣上的历史妆镜 [892588934].md",
+          "key": "148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934",
+          "show": "蜜獾吃书",
+          "title": "148. 王氏之死：断井颓垣上的历史妆镜",
+          "url": "/wiki/sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934/"
+        },
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/liaozhaizhiyi/"
     },
     "LibGen": {
       "episode_count": 1,
@@ -260955,6 +261102,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/trafficarbitragetobrandbuilding/"
     },
+    "TragicAdaptationReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/tragicadaptationreframing/"
+    },
     "TrainingChaosManagement": {
       "episode_count": 2,
       "show_count": 1,
@@ -262475,6 +262638,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/tsinghuaiiis/"
+    },
+    "TsuiHark": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltgclLMyiaXrX_KKVGsrRmcxxJ2t [ltgclLMyiaXrX_KKVGsrRmcxxJ2t].md",
+          "key": "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t",
+          "show": "纸醉金迷FM",
+          "title": "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情",
+          "url": "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/tsuihark/"
     },
     "TuDongdong": {
       "episode_count": 1,

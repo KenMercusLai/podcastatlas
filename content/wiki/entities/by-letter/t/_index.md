@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13217
+wiki_total_pages: 13223
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "TimMediaStorm"
     title: "影视飓风 Tim"
     url: "/wiki/entities/timmediastorm/"
+  - key: "TsuiHark"
+    title: "徐克 / Tsui Hark"
+    url: "/wiki/entities/tsuihark/"
   - key: "ThinkReasonLtd"
     title: "思考理性有限公司 / Think Reason Ltd."
     url: "/wiki/entities/thinkreasonltd/"

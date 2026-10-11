@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10348
+wiki_total_pages: 10350
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "FangshuSystematization"
     title: "Fangshu Systematization / 方术系统化"
     url: "/wiki/concepts/fangshusystematization/"
+  - key: "FantasyCharacterLogic"
+    title: "Fantasy Character Logic / 奇幻叙事中的人物逻辑"
+    url: "/wiki/concepts/fantasycharacterlogic/"
   - key: "FantasyMedievalRealism"
     title: "Fantasy Medieval Realism"
     url: "/wiki/concepts/fantasymedievalrealism/"

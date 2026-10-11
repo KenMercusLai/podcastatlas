@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3407
+topic_total_pages: 3410
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6731,6 +6731,9 @@ topic_entities:
   - key: "PostTruthFilm"
     title: "《保你平安》 / Post Truth"
     url: "/wiki/entities/posttruthfilm/"
+  - key: "AChineseGhostStory1987"
+    title: "《倩女幽魂》(1987) / A Chinese Ghost Story"
+    url: "/wiki/entities/achineseghoststory1987/"
   - key: "MrVampire1985"
     title: "《僵尸先生》 / Mr. Vampire (1985)"
     url: "/wiki/entities/mrvampire1985/"
@@ -8786,6 +8789,9 @@ topic_entities:
   - key: "HuangYing"
     title: "黄英 / Huang Ying"
     url: "/wiki/entities/huangying/"
+  - key: "JamesWong"
+    title: "黄霑 / James Wong"
+    url: "/wiki/entities/jameswong/"
   - key: "AkiraKurosawa"
     title: "黑泽明 / Akira Kurosawa"
     url: "/wiki/entities/akirakurosawa/"
@@ -8823,6 +8829,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t"
+    title: "054 《倩女幽魂》重映：一曲人鬼恋，道尽江湖情"
+    url: "/wiki/sources/054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t/"
   - key: "055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe"
     title: "055 最后一剑，风情无限：长期被忽视的金庸杰作《越女剑》"
     url: "/wiki/sources/055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe/"

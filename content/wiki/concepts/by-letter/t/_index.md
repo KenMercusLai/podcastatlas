@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10348
+wiki_total_pages: 10350
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "TragedyOfTheCommons"
     title: "Tragedy of the Commons"
     url: "/wiki/concepts/tragedyofthecommons/"
+  - key: "TragicAdaptationReframing"
+    title: "Tragic Adaptation Reframing / 悲剧性改编重构"
+    url: "/wiki/concepts/tragicadaptationreframing/"
   - key: "TragicModernity"
     title: "Tragic Modernity"
     url: "/wiki/concepts/tragicmodernity/"
