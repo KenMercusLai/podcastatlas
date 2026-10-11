@@ -7,7 +7,8 @@ sources:
   - vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9
   - vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg
   - vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1
-last_updated: 2026-09-29
+  - vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,8 +24,10 @@ The burn branch rejects folk applications such as toothpaste, soy sauce, and oil
 
 VOL.18 adds a bleeding-control boundary from sport and trauma scenes. Visible external bleeding should receive direct pressure and clean covering while help is arranged; heavy bleeding or suspected major-vessel injury needs urgent professional care. Improvised proximal constriction, tourniquet placement, and release timing are not generalized from the episode because incorrect use can add ischemic harm.
 
+VOL.166 adds a dressing-environment branch for appropriate clean minor wounds. It distinguishes protected moisture under a hydrocolloid from contamination by sweat or water and from wounds that are deep, surgical, infected, or otherwise outside self-care. The product discussion is sponsor-linked, so exact healing, scar, wear, and replacement claims remain source-scoped.
+
 ## Key Claims
-- Superficial abrasions that stop bleeding quickly may be handled with simple cleaning and dressing.
+- Superficial abrasions that stop bleeding quickly may be handled with cleaning and a suitable protective dressing; selected lightly exuding wounds may fit [[MoistWoundHealingHydrocolloidDressing|moist hydrocolloid care]].
 - Wounds that are deep, gaping, visibly involve fat or tendon, or do not close naturally may need suturing and infection-risk management.
 - Persistent or heavy external bleeding can signal deeper or major-vessel injury; direct pressure should continue while urgent qualified care is arranged.
 - Deep narrow punctures from nails, rusted objects, soil-contaminated objects, or similar sources raise tetanus-risk concern and need qualified care.
@@ -39,15 +42,17 @@ VOL.18 adds a bleeding-control boundary from sport and trauma scenes. Visible ex
 - Pediatric prevention and sequence: [[vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9|VOL.115]] adds bleeding and foreign-body assessment, pressure for bleeding, clean covering, transfer, and home and school injury prevention.
 - Pediatric cooling and transfer: [[vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg|VOL.87]] reinforces cool running water over the full heated area, pressure for external bleeding, and prompt routing to care.
 - Trauma bleeding boundary: [[vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1]] prioritizes direct wound pressure, clean covering, and hospital escalation for heavy bleeding or suspected major-vessel injury while warning that uncertain constriction can compromise circulation.
+- Minor-wound dressing environment: [[vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr|VOL.166]] distinguishes clean protected moisture and hydrocolloid gel formation from dry-scab disruption, uncontrolled wetness, purulence, and wounds requiring qualified care.
 
 ## Counterevidence & Qualifications
-The page records podcast first-aid education, not a wound-care, burn-care, bleeding-control, tourniquet, tetanus, surgery, or infection-management protocol. Water temperature and duration, burn size, depth, location, age, contamination, vaccination status, immune state, bleeding severity, function loss, inhalation injury, and associated trauma determine clinical urgency. The episode's improvised constriction and periodic-release language should not override current dispatcher instructions or trained bleeding-control practice.
+The page records podcast first-aid education, not a wound-care, burn-care, bleeding-control, tourniquet, tetanus, surgery, or infection-management protocol. Water temperature and duration, burn size, wound depth, exudate, location, age, contamination, vaccination status, circulation, immune state, bleeding severity, function loss, inhalation injury, and associated trauma determine clinical urgency. Hydrocolloid whitening can reflect absorbed fluid but does not rule out infection; VOL.166's sponsored healing, scar, wear, and replacement claims lack complete study detail. VOL.18's improvised constriction and periodic-release language should not override current dispatcher instructions or trained bleeding-control practice.
 
 ## What Changed
 - Added clean covering and transfer after cooling and careful clothing management.
 - Connected pediatric first aid to household, school, traffic, heat-source, and furniture-tip prevention.
 - Reinforced full-area burn cooling, bleeding pressure, and timely pediatric transfer when care-setting anxiety could otherwise cause delay.
 - The current bleeding judgment now favors simple sustained direct pressure and urgent escalation over uncertain improvised constriction.
+- Added a qualified moist-healing and hydrocolloid option for selected clean minor wounds without weakening depth, contamination, infection, or bleeding escalation.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - broader decision frame for routing trauma to care.
@@ -55,3 +60,4 @@ The page records podcast first-aid education, not a wound-care, burn-care, bleed
 - [[MedicalRiskManagement]] - broader safety frame around infection, bleeding, function, and burn harm.
 - [[DoctorPatientCommunication]] - care-seeking and symptom-description route after wounds or burns.
 - [[PediatricEmergencyTriageAndEscalation]] - child-specific routing frame for burns, bleeding, and associated warning signs.
+- [[MoistWoundHealingHydrocolloidDressing]] - minor-wound dressing-environment branch within this broader first-aid boundary.

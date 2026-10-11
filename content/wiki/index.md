@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？](sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr.md) — Sponsored 这病说来话长 episode on moist healing, hydrocolloid dressings, secondary wound disruption, exudate monitoring, and minor-wound escalation boundaries.
 - [573. The Medici: Lorenzo the Magnificent (Part 2)](sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252.md) — The Rest Is History on Lorenzo's formation, inherited bank weakness, princely display, the Pazzi cathedral attack, Florentine reprisals, and papal-Neapolitan war.
 - [Essentials: The Science & Practice of Perfecting Your Sleep](sources/scim3191061030-scim3191061030.md) — Condensed Huberman Lab conversation on staged sleep, light, caffeine, alcohol and THC, melatonin, naps, and behavior-first insomnia tools.
 - [064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则](sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn.md) — 纸醉金迷FM以李善德的鲜荔枝运输死局讨论技术官僚、职场陷阱、制度协作、道德异化与宫廷声望供应链向底层转嫁的生计和生命成本。
@@ -6080,7 +6081,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mary Helen Immordino-Yang](entities/MaryHelenImmordinoYang.md) — Neuroscientist and developmental psychologist connecting emotion, culture, narrative, social inference, and education.
 - [练晶晶 / Lian Jingjing](entities/LianJingjing.md) — Digestive-endoscopy clinician explaining screening, test selection, preparation, anesthesia boundaries, biopsy, and common misconceptions.
 - [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for digestive-endoscopy, plastic-surgery, and trauma-surgery guests and their public medical education.
-- [张悦 / Zhang Yue (Trauma Surgeon)](entities/ZhangYueTraumaSurgeon.md) — Source-scoped trauma surgeon explaining emergency pressure, life-before-limb decisions, consent, conservative first aid, and clinician vulnerability.
+- [张悦 / Zhang Yue (Trauma Surgeon)](entities/ZhangYueTraumaSurgeon.md) — Source-scoped trauma surgeon explaining severity-matched care from minor wounds through emergency pressure, life-before-limb decisions, consent, and conservative first aid.
 - [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
 - [Patrick Pearse](entities/PatrickPearse.md) — Modern bilingual educator and revolutionary who used deep and invented historical tradition to frame the Easter Rising.
 - [Oliver Cromwell](entities/OliverCromwell.md) — English commander and Lord Protector joining Irish conquest to coercive, providential, and constitutionally unstable rule.
@@ -6789,7 +6790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [交州 / Jiaozhou](entities/Jiaozhou.md) — 士氏家族跨郡经营并在226年后遭孙吴行政重划与直接接管的南方州域。
 - [Town Personal AI](entities/TownPersonalAI.md) — Email- and desktop-centered personal agent that builds toward broader delegation through progressive trust.
 - [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer agent using distribution and cloud execution while facing permission, reliability, human-fallback, and platform-access constraints.
-- [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
+- [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical aesthetics, hair loss, and minor-wound dressing questions into safety and judgment boundaries.
 - [冯小六 (vascular-surgery doctor)](entities/FengXiaoliuVascularSurgeon.md) — Source-scoped surgeon contributing a medically trained beginner's personal experience of medical-aesthetic procedures.
 - [《以美之名》 / In the Name of Beauty](entities/YiMeiZhiMingDrama.md) — Medical drama used as an educational hook for plastic-surgery and medical-aesthetic risk discussion.
 - [Edgar Atheling](entities/EdgarAtheling.md) — Young royal claimant elected after Hastings whose bloodline and Witan recognition did not become effective kingship.
@@ -17772,6 +17773,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Moist Wound Healing and Hydrocolloid Dressings / 湿性愈合与水胶体敷料](concepts/MoistWoundHealingHydrocolloidDressing.md) — Minor-wound framework separating protected therapeutic moisture and hydrocolloid gel formation from contamination, infection, and wounds requiring qualified care.
 - [Pazzi Conspiracy](concepts/PazziConspiracy.md) — 1478 dual assassination and coup attempt whose failure strengthened Lorenzo and widened into papal-Neapolitan war.
 - [Political Magnificence and Structural Fragility](concepts/PoliticalMagnificenceStructuralFragility.md) — How spectacle, culture, and personalized control can sustain legitimacy while finance and institutions weaken beneath them.
 - [Apocalyptic Prophecy and Crisis Legitimation](concepts/ApocalypticProphecyCrisisLegitimation.md) — Mechanism by which apparent fulfillment turns warning into authority and unmet extension or failed proof reverses it.
@@ -26619,7 +26621,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [CPR/AED Response Boundary / 心肺复苏与AED使用边界](concepts/CPRAEDResponseBoundary.md) — Collapse-response concept separating suspected cardiac arrest from other emergencies through consciousness, breathing, compressions, AED prompts, and shock precautions.
 - [Chest Pain Emergency Escalation / 胸痛急症升级](concepts/ChestPainEmergencyEscalation.md) — Public triage boundary for chest pain, radiation, sweating, dizziness, palpitations, and early emergency calling.
 - [Acute Sports Injury Escalation / 急性运动损伤升级](concepts/AcuteSportsInjuryEscalation.md) — Orthopedic warning-sign concept for sudden swelling, bruising, weight-bearing failure, deformity, locking, neurologic symptoms, and Achilles rupture.
-- [Acute Wound and Burn First Aid / 急性伤口与烫伤急救](concepts/AcuteWoundBurnFirstAid.md) — Household trauma boundary for superficial care versus deep wounds, bleeding, tendon signs, puncture contamination, burn cooling, and medical evaluation.
+- [Acute Wound and Burn First Aid / 急性伤口与烫伤急救](concepts/AcuteWoundBurnFirstAid.md) — Household trauma boundary for minor-wound dressing, deep wounds, bleeding, tendon signs, puncture contamination, burn cooling, and medical evaluation.
 - [Medication Self-Combination Risk / 药物自行叠加风险](concepts/MedicationSelfCombinationRisk.md) — Medication-safety concept around overlapping ingredients, organ burden, NSAID/aspirin context, and social-media-driven drug stacking.
 - [Seizure First-Aid Boundary / 抽搐急救边界](concepts/SeizureFirstAidBoundary.md) — Convulsion-response concept warning against philtrum pinching, mouth-stuffing, forced restraint, and mismatched emergency techniques.
 - [Strength Training for Joint Protection / 保护关节的力量训练](concepts/StrengthTrainingJointProtection.md) — Muscle-capacity frame for stabilizing joints, improving lower-limb tracking, preserving function, and reducing preventable pain or injury risk.

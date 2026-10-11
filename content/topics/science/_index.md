@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1550
+topic_total_pages: 1551
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1456,6 +1456,9 @@ topic_concepts:
   - key: "ModernJapaneseInteriorDiscovery"
     title: "Modern Japanese Interior Discovery"
     url: "/wiki/concepts/modernjapaneseinteriordiscovery/"
+  - key: "MoistWoundHealingHydrocolloidDressing"
+    title: "Moist Wound Healing and Hydrocolloid Dressings / 湿性愈合与水胶体敷料"
+    url: "/wiki/concepts/moistwoundhealinghydrocolloiddressing/"
   - key: "MolecularFeatureEngineering"
     title: "Molecular Feature Engineering"
     url: "/wiki/concepts/molecularfeatureengineering/"

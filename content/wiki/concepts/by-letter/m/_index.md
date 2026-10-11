@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10337
+wiki_total_pages: 10338
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1346,6 +1346,9 @@ wiki_pages:
   - key: "ModularCustomization"
     title: "Modular Customization / 模块化定制"
     url: "/wiki/concepts/modularcustomization/"
+  - key: "MoistWoundHealingHydrocolloidDressing"
+    title: "Moist Wound Healing and Hydrocolloid Dressings / 湿性愈合与水胶体敷料"
+    url: "/wiki/concepts/moistwoundhealinghydrocolloiddressing/"
   - key: "MolecularFeatureEngineering"
     title: "Molecular Feature Engineering"
     url: "/wiki/concepts/molecularfeatureengineering/"

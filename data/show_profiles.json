@@ -3700,7 +3700,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 210,
+      "source_note_count": 211,
       "topic_matched_source_note_count": 14,
       "topics": [
         {
@@ -3772,16 +3772,16 @@
           "episode_count": 6
         },
         {
-          "key": "WuBinOralDoctor",
-          "title": "吴斌 / Wu Bin (口腔科)",
-          "url": "/wiki/entities/wubinoraldoctor/",
+          "key": "LuluPlasticSurgeon",
+          "title": "Lulu (plastic-surgery doctor)",
+          "url": "/wiki/entities/luluplasticsurgeon/",
           "kind": "person",
           "episode_count": 5
         },
         {
-          "key": "YinLaoshiZheBing",
-          "title": "尹老师 / Yin Laoshi (Zhe Bing speaker)",
-          "url": "/wiki/entities/yinlaoshizhebing/",
+          "key": "WuBinOralDoctor",
+          "title": "吴斌 / Wu Bin (口腔科)",
+          "url": "/wiki/entities/wubinoraldoctor/",
           "kind": "person",
           "episode_count": 5
         }

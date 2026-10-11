@@ -7023,9 +7023,9 @@
       "url": "/wiki/concepts/acutestressimmunepriming/"
     },
     "AcuteWoundBurnFirstAid": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -7054,9 +7054,16 @@
           "show": "这病说来话长",
           "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
           "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+        },
+        {
+          "episode_file": "lt1afoD5uo3x0z5qpw0Xq8cvC8dR [lt1afoD5uo3x0z5qpw0Xq8cvC8dR].md",
+          "key": "vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr",
+          "show": "这病说来话长",
+          "title": "VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？",
+          "url": "/wiki/sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/acutewoundburnfirstaid/"
     },
     "AdahSharma": {
@@ -163908,9 +163915,9 @@
       "url": "/wiki/entities/lulongroadlatehan/"
     },
     "LuluPlasticSurgeon": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -163939,9 +163946,16 @@
           "show": "这病说来话长",
           "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
           "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+        },
+        {
+          "episode_file": "lt1afoD5uo3x0z5qpw0Xq8cvC8dR [lt1afoD5uo3x0z5qpw0Xq8cvC8dR].md",
+          "key": "vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr",
+          "show": "这病说来话长",
+          "title": "VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？",
+          "url": "/wiki/sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/luluplasticsurgeon/"
     },
     "LumbarDiscHerniation": {
@@ -179597,6 +179611,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/mohenjodaro/"
+    },
+    "MoistWoundHealingHydrocolloidDressing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt1afoD5uo3x0z5qpw0Xq8cvC8dR [lt1afoD5uo3x0z5qpw0Xq8cvC8dR].md",
+          "key": "vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr",
+          "show": "这病说来话长",
+          "title": "VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？",
+          "url": "/wiki/sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/moistwoundhealinghydrocolloiddressing/"
     },
     "Moloch": {
       "episode_count": 1,
@@ -290859,9 +290889,9 @@
       "url": "/wiki/entities/zhangyuecctv/"
     },
     "ZhangYueTraumaSurgeon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljWcdgyzTl6plLDesO4iAb93Nx_s [ljWcdgyzTl6plLDesO4iAb93Nx_s].md",
@@ -290869,9 +290899,16 @@
           "show": "这病说来话长",
           "title": "VOL.183急诊室的戏剧冲突比电视剧还精彩ft.一块椎间盘",
           "url": "/wiki/sources/vol-183-jizhenshi-de-xiju-chongtu-bi-dianshiju-hai-jingcai-ft-yikuai-zhuijianpan-ljwcdgyztl6plldeso4iab93nx_s/"
+        },
+        {
+          "episode_file": "lt1afoD5uo3x0z5qpw0Xq8cvC8dR [lt1afoD5uo3x0z5qpw0Xq8cvC8dR].md",
+          "key": "vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr",
+          "show": "这病说来话长",
+          "title": "VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？",
+          "url": "/wiki/sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/zhangyuetraumasurgeon/"
     },
     "ZhangYuhanRespiratoryDoctor": {
