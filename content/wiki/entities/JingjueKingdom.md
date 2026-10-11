@@ -6,7 +6,8 @@ tags: [western-regions, han, xinjiang, archaeology]
 sources:
   - zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq
   - zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu
-last_updated: 2026-09-02
+  - 063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lrazrty1g2wznlafy2v5wfhmjweq
+last_updated: 2026-10-11
 ---
 
 # Jingjue Kingdom / 精绝古国
@@ -15,7 +16,7 @@ last_updated: 2026-09-02
 Jingjue Kingdom is a small Western Regions oasis polity reconstructed through Han textual memory and the archaeology of the [[NiyaSite]]. Across Hanji 689-2 and Hanji 689-3, Jingjue is treated as real rather than merely legendary, but its disappearance remains a multi-cause historical inference rather than a single proved event.
 
 ## Current Profile
-The current synthesis gives Jingjue three layers. First, Hanji 689-2 presents it as a tiny but strategically placed state on the Silk Road southern route, counted under the [[WesternRegionsProtectorate]] and small enough that outside pressure mattered. Second, both sources use Niya archaeology to move Jingjue from record to material setting: Hanji 689-2 emphasizes [[KharosthiNiyaDocuments]] and a Han wooden-slip identification, while Hanji 689-3 emphasizes the elite tomb context of the [[FiveStarsOutOfTheEastBrocade]]. Third, the decline account stays qualified: Hanji 689-2 foregrounds [[SupiRegime]] invasion pressure, while Hanji 689-3 keeps lost Han protection, regional annexation, ecological drying, and long-term invasion pressure in the explanation.
+The current synthesis gives Jingjue four layers. First, Hanji 689-2 presents it as a tiny but strategically placed state on the Silk Road southern route, counted under the [[WesternRegionsProtectorate]] and small enough that outside pressure mattered. Second, both Hanji sources use Niya archaeology to move Jingjue from record to material setting: Hanji 689-2 emphasizes [[KharosthiNiyaDocuments]] and a Han wooden-slip identification, while Hanji 689-3 emphasizes the elite tomb context of the [[FiveStarsOutOfTheEastBrocade]]. Third, the decline account stays qualified: Hanji 689-2 foregrounds [[SupiRegime]] invasion pressure, while Hanji 689-3 keeps lost Han protection, regional annexation, ecological drying, and long-term invasion pressure in the explanation. Fourth, the 《精绝古城》 discussion makes the modern reception boundary explicit: historical names, records, archaeology and Western Regions geography can seed fiction, but the novel's extended chronology, queen, ghost cave, eye cult and imaginary-space mechanism do not describe the historical polity.
 
 ## Key Characteristics
 - Jingjue is presented as a real Western Regions polity attested by textual records and Niya evidence.
@@ -24,6 +25,7 @@ The current synthesis gives Jingjue three layers. First, Hanji 689-2 presents it
 - Han protection is a recurring condition of Jingjue's security, while weak or absent protection exposes it.
 - Its disappearance is explained through competing but compatible pressures: Supi attack, regional annexation, environmental stress, and lost Han support.
 - Later popular and artifact memory keeps Jingjue visible, but those memories are treated as entry points rather than proof by themselves.
+- The historical polity is kept distinct from the supernatural kingdom and altered chronology of [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]].
 
 ## Evidence
 - Textual scale and strategic position: [[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu|Hanji 689-2]] cites a Han-record profile of 480 households, 3,360 people, and 500 soldiers, while placing Jingjue on the Silk Road southern route.
@@ -32,14 +34,16 @@ The current synthesis gives Jingjue three layers. First, Hanji 689-2 presents it
 - Han tie and protection limits: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] says Jingjue remained a reliable Western Han partner before later protection weakened and Liu Xiu refused renewed management on capacity grounds.
 - Regional and Supi pressure: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] names Shache, Khotan, Shanshan, and other states as part of the annexation environment, while [[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu|Hanji 689-2]] treats Supi attack notices as the stronger direct pressure clue.
 - Ecological and cultural afterlife: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] combines Niya River drying, oasis migration, and post-fourth-century disappearance, while [[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu|Hanji 689-2]] shows modern fiction and the brocade preview reviving public interest.
+- Fiction boundary: [[063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lrazrty1g2wznlafy2v5wfhmjweq]] explicitly separates the historical Jingjue reference layer from the novel's Tang-period extension and supernatural mythology.
 
 ## Qualifications
-The two current sources are complementary but not equally decisive on every point. Hanji 689-2 makes Supi the strongest likely cause but does not prove the final conquest directly; Hanji 689-3 preserves a broader decline model that includes ecological drying, annexation pressure, and loss of Han protection. The wiki therefore records Supi pressure as an elevated inference, not a settled single-cause explanation.
+The two historical sources are complementary but not equally decisive on every point. Hanji 689-2 makes Supi the strongest likely cause but does not prove the final conquest directly; Hanji 689-3 preserves a broader decline model that includes ecological drying, annexation pressure, and loss of Han protection. The wiki therefore records Supi pressure as an elevated inference, not a settled single-cause explanation. The third source is literary criticism and contributes reception evidence and a fiction boundary, not independent historical or archaeological confirmation.
 
 ## What Changed
 - Added Hanji 689-2's textual scale, Niya-document identification, and Supi-pressure argument.
 - Reframed Jingjue's disappearance as multi-cause with Supi invasion as the newly emphasized direct-pressure explanation.
 - Preserved Hanji 689-3's brocade, Han-protection, regional-annexation, and ecology layers.
+- Added an explicit boundary between the historical polity and 《精绝古城》's altered chronology and supernatural system.
 
 ## Relationships
 - [[NiyaSite]] - archaeological location through which the current sources reconstruct Jingjue.
@@ -51,3 +55,4 @@ The two current sources are complementary but not equally decisive on every poin
 - [[ShanshanKingdomLateHan]] - neighboring Western Regions polity in the same regional pressure field.
 - [[KhotanKingdomLateHan]] - neighboring power named in the post-Han annexation environment.
 - [[Xuanzang]] - later traveler whose memory of the region marks Jingjue's transformed status.
+- [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]] - fictional afterlife that borrows Jingjue's name and historical texture while substantially transforming it.

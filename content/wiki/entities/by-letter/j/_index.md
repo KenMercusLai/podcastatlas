@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13191
+wiki_total_pages: 13192
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "JingshenXixueguiBook"
     title: "《精神吸血鬼》"
     url: "/wiki/entities/jingshenxixueguibook/"
+  - key: "JingjueAncientCityGhostBlowsOutTheLight"
+    title: "《精绝古城》 / The Ancient City of Jingjue"
+    url: "/wiki/entities/jingjueancientcityghostblowsoutthelight/"
   - key: "JingChuSuiShiJi"
     title: "《荆楚岁时记》 / Jingchu Suishi Ji"
     url: "/wiki/entities/jingchusuishiji/"

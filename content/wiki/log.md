@@ -35411,3 +35411,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 063 盗墓宇宙起点：趣话《鬼吹灯》之精绝古城
+
+Added source `063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lrazrty1g2wznlafy2v5wfhmjweq`; created [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]]; and resynthesized [[GhostBlowsOutTheLight|《鬼吹灯》]], [[JingjueKingdom|精绝古国]], [[AdventureGameNarrativeStructure|冒险游戏式叙事结构]], and [[NarrativeMisdirection|叙事误导]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the first-book expedition moves from desert attrition and tiered ruins into a double deception where a fulfilled prophecy gives a forged continuation borrowed authority, while Shirley 杨's planted expertise exposes the fraud; the real Jingjue polity remains distinct from the novel's altered chronology and supernatural system. No settled contradiction was adopted. Historical, geographical, archaeological, geomantic, botanical, imaginary-space, prophecy, ancestry, authorial-intent, and curse claims remain source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and individual-character pages were kept closed because the focused source, novel, series, historical polity, and craft concepts capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,435 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

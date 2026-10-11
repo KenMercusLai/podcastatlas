@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [063 盗墓宇宙起点：趣话《鬼吹灯》之精绝古城](sources/063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lrazrty1g2wznlafy2v5wfhmjweq.md) — 纸醉金迷FM以沙漠远征、分层遗迹、尸香魔芋和真假预言重述《精绝古城》，并区分历史精绝、虚构王国与借真实线索为伪造证据背书的叙事误导。
 - [VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？](sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr.md) — Sponsored 这病说来话长 episode on moist healing, hydrocolloid dressings, secondary wound disruption, exudate monitoring, and minor-wound escalation boundaries.
 - [573. The Medici: Lorenzo the Magnificent (Part 2)](sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252.md) — The Rest Is History on Lorenzo's formation, inherited bank weakness, princely display, the Pazzi cathedral attack, Florentine reprisals, and papal-Neapolitan war.
 - [Essentials: The Science & Practice of Perfecting Your Sleep](sources/scim3191061030-scim3191061030.md) — Condensed Huberman Lab conversation on staged sleep, light, caffeine, alcohol and THC, melatonin, naps, and behavior-first insomnia tools.
@@ -4515,6 +4516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [《精绝古城》 / The Ancient City of Jingjue](entities/JingjueAncientCityGhostBlowsOutTheLight.md) — 《鬼吹灯》首部探险，以沙漠求生、分层遗迹、真假预言和鬼洞诅咒建立铁三角及系列谜团。
 - [Piero the Gouty](entities/PieroTheGouty.md) — Lorenzo's father, who preserved informal Medici succession while confronting bank overextension and elite opposition.
 - [Giuliano de' Medici](entities/GiulianoDeMedici.md) — Lorenzo's brother and the successful murder target of the 1478 Pazzi conspiracy.
 - [Pope Sixtus IV](entities/PopeSixtusIV.md) — Pope whose financial and political conflict with Lorenzo preceded ambiguous conspiracy authorization and open war.
