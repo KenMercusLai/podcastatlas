@@ -5,6 +5,7 @@ tags: [learning, informal-education, observation, adaptation, wuxia]
 sources:
   - lowwo0ixlp--ouxy87p42cult3k4
   - lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg
+  - llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ Informal selective learning / 情境化选择性学习 is learning by observing,
 [[WeiXiaobao|韦小宝]] is the episode's literary case. His marketplaces, storytelling, gambling, brothel life, street conflict, and court service continually expose him to speech, deception, emotional cues, power, violence, and escape. He does not absorb everything equally. He favors knowledge that fits his aptitude, produces quick feedback, and answers current danger, while avoiding long, painful, rule-bound training.
 
 The pattern complicates a simple opposition between education and laziness. Selectivity can produce remarkable transfer across settings: street-level attention becomes courtly survival, and concrete moves become usable self-defense. [[HaiDafu|海大富]] adds a coercive-teacher case: rudimentary martial instruction and corpse-dissolving powder persist because Wei can use them quickly, while a warning about the emperor transfers from one palace relationship into a general rule about power.
+
+The earlier episode makes the transfer mechanisms more precise. Storytelling and theater provide narrative templates; gambling trains attention to incomplete information, bluff, stakes, and exchange; brothel and street life train recognition of appetite, humiliation, status, and danger. These are not formal doctrines, but recurring cues that remain legible when Wei moves into the palace, Jianghu organizations, or a foreign court. Self-knowledge also matters: recognizing what he cannot do prompts recruitment of military and technical specialists rather than imitation of expertise.
 
 The pattern also creates limits. Immediate utility can crowd out foundations, ethical reflection, delayed benefits, and skills whose value appears only after sustained practice. Hai's case further shows that effective transmission does not prove a safe or benevolent relationship.
 
@@ -44,6 +47,11 @@ The pattern also creates limits. Immediate utility can crowd out foundations, et
 ### Cross-context transfer
 
 - [[lowwo0ixlp--ouxy87p42cult3k4]] argues that observation and social judgment learned in Yangzhou become inputs to survival inside imperial politics.
+- [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] specifies storytelling, theater, gambling, brothel life, and street conflict as sources whose recurring cues transfer into palace, Jianghu, and foreign-court settings.
+
+### Self-knowledge and distributed competence
+
+- [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] shows Wei compensating for weak specialized knowledge by recognizing his limits, recruiting capable people, and coordinating their work.
 
 ### Ethical ambivalence
 
@@ -56,12 +64,13 @@ The pattern also creates limits. Immediate utility can crowd out foundations, et
 
 ## Counterevidence & Qualifications
 
-The concept is derived from a fictional character discussed in two podcast episodes, not from empirical learning research. Fast use does not prove deep understanding, broad transfer, or ethical value. Formal curricula may supply foundations, correction, safety, and delayed capacities that an immediate-utility filter misses. Effective learning inside coercion should not be used to excuse poisoning, manipulation, corruption, or refusal of necessary effort.
+The concept is derived from a fictional character discussed in three podcast episodes, not from empirical learning research. Fast use does not prove deep understanding, broad transfer, or ethical value, and the narrative also supplies luck, protective objects, allies, and implausibly concentrated opportunity. Formal curricula may supply foundations, correction, safety, and delayed capacities that an immediate-utility filter misses. Effective learning inside coercion or criminal environments should not be used to excuse poisoning, manipulation, corruption, or refusal of necessary effort.
 
 ## What Changed
 
-- Added Hai Dafu as a coercive informal teacher whose practical and political lessons transfer despite the relationship's ethical defects.
-- Added a sharper boundary between effective transmission and good mentorship.
+- Specified storytelling, theater, gambling, brothel life, and street conflict as distinct informal learning environments.
+- Added repeated social cues as a mechanism for transfer across court, Jianghu, and foreign settings.
+- Added self-knowledge and specialist recruitment as alternatives to pretending at personal mastery.
 
 ## Related Concepts
 

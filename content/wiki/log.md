@@ -36278,3 +36278,10 @@ Added source `ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | 024 奇人 奇遇 奇功：闲话金庸封笔作《鹿鼎记》
+
+Added source `llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5`; and resynthesized [[WeiXiaobao|韦小宝]], [[LuDingJi|《鹿鼎记》]], [[InformalSelectiveLearning|情境化选择性学习]], [[MatureGenreDeconstruction|成熟类型的解构]], and [[PeopleCenteredHistoricalJudgment|爱民史观]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: storytelling, theater, gambling, brothel life, and street conflict form a transferable education in human motives and risk; luck becomes consequential through judgment, selective disclosure, courage, generosity, and specialist recruitment; and the novel questions why trained violence receives heroic prestige while weaker actors' improvised tactics are dismissed before context is considered. No settled contradiction was adopted. Effectiveness does not make deception, poison, coercion, or harm ethical, while dialogue, motives, martial effectiveness, historical episodes, revised-edition claims, political ideals, and authorial intent remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[KangxiEmperor|康熙]] profiles were kept closed because the focused protagonist, novel, and concepts capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,543 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

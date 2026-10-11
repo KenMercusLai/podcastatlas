@@ -5,6 +5,7 @@ tags: [history, political-ethics, literature, governance, popular-welfare]
 sources:
   - lo9-_4_9eaepw7s-egiyp1ywgiva
   - ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64
+  - llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ The concept comes from a [[ZhiZuiJinMiFM|纸醉金迷FM]] reading of [[BixueJian
 The same standard applies to rebellion. [[LiZicheng|李自成]]'s common origin and initial discipline generate legitimacy, but they do not guarantee continuing representation of the people. When his forces plunder, he cannot restrain followers, and he destroys 李岩 through suspicion, origin and slogan lose their justificatory force. 张朝唐's robbery by both Ming and rebel soldiers supplies the compact test: if ordinary people endure the same violence, a new banner has not yet produced moral transformation.
 
 The [[LuDingJi|《鹿鼎记》]] discussion extends the standard from comparative rule into personal identity. [[WeiXiaobao|韦小宝]]'s uncertain Han, Manchu, Mongol, Hui, or Tibetan ancestry prevents bloodline from settling his political belonging, while the hosts interpret [[KangxiEmperor|康熙]] through governance and ordinary welfare rather than Manchu origin alone. The case remains literary, but it clarifies that mixed or indeterminate identity can expose the inadequacy of ethnic legitimacy as a complete moral test.
+
+The earlier episode supplies a compact formulation through the literary Shunzhi's promise not to increase taxation. The hosts use it to explain why a ruler's ethnic identity cannot settle whether support is deserved: restraint of extraction and treatment of ordinary people provide a conduct test. Because this comes through fictional dialogue and podcast interpretation, it strengthens the internal literary pattern without independently establishing Qing fiscal history.
 
 ## Key Claims
 
@@ -47,15 +50,16 @@ The [[LuDingJi|《鹿鼎记》]] discussion extends the standard from comparativ
 ### Ancestry and political belonging
 
 - [[ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64]] uses Wei Xiaobao's uncertain ancestry and the positive literary treatment of Kangxi to place conduct and public welfare above a narrow Han-Manchu binary.
+- [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] adds the literary Shunzhi's tax-restraint statement as the episode's compact conduct test for whether a ruler deserves support.
 
 ## Counterevidence & Qualifications
 
-“爱民史观” is a podcast interpretive label for Jin Yong's fiction, not a complete theory of historical explanation. Popular welfare is indispensable but does not alone resolve sovereignty, rights, law, conquest, minority protection, institutional durability, or conflicts among groups. The episodes' judgments about Ming collapse, Qing governance, rebel conduct, ancestry, and Chinese identity are literary-historical claims that require independent evidence before use as general history. Moving beyond bloodline essentialism must also not erase conquest, discrimination, minority self-identification, or unequal power.
+“爱民史观” is a podcast interpretive label for Jin Yong's fiction, not a complete theory of historical explanation. Popular welfare and tax restraint are indispensable considerations but do not alone resolve sovereignty, rights, law, conquest, minority protection, institutional durability, distribution, or conflicts among groups. The episodes' judgments about Ming collapse, Qing governance, rebel conduct, ancestry, taxation, and Chinese identity are literary-historical claims that require independent evidence before use as general history. Moving beyond bloodline essentialism must also not erase conquest, discrimination, minority self-identification, or unequal power.
 
 ## What Changed
 
-- Extended the standard from comparative governance to uncertain ancestry and political belonging.
-- Added a guardrail against using cultural inclusion to erase conquest, discrimination, or unequal power.
+- Added tax restraint as a compact literary test of rule through effects on ordinary people.
+- Distinguished the internal political ethic of the novel from independently verified Qing fiscal history.
 
 ## Related Concepts
 

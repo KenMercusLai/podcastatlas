@@ -7,6 +7,7 @@ sources:
   - lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg
   - lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc
   - ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64
+  - llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,11 @@ knowledge_schema: synthesis-v1
 
 Wei's apparent refusal to study is selective rather than absolute. He avoids curricula requiring prolonged pain, obedience, or delayed reward, yet learns quickly when a technique suits his aptitude or solves an immediate problem. [[HaiDafu|海大富]]'s rough instruction, 九难's 神行百变, concrete self-defense moves, street-level reading of people, and courtly methods of flattery, concealment, and responsibility avoidance all enter the same practical repertoire. Hai also teaches a more durable political lesson: private friendship with an emperor does not remove the sovereign-subject hierarchy.
 
+The earlier episode locates the base of that repertoire in Yangzhou. Storytelling and theater supply narrative and historical scripts; gambling trains attention to information, probability, bluff, and exchange; brothel and street life expose him to hierarchy, appetite, humiliation, and informal negotiation. These habits transfer into the palace and even the Moscow court because the surfaces change more than the underlying cues of fear, desire, vanity, and power.
+
 His sworn relationships work similarly. He can feel genuine affection, trade favors, exploit ritual, or create a temporary alliance depending on the person and danger. The network succeeds because he recognizes ability and coordinates people whose skills he lacks. His loyalty is real but ranked: he treats friendship and received care as stronger grounds than dynasty or doctrine, allowing him to help both Kangxi and Tiandihui while refusing to see himself as disloyal.
+
+Luck remains indispensable, but it is not a complete explanation. Wei repeatedly converts accidents into advantage by making fast, high-stakes inferences, disclosing only what serves the moment, spending money to create durable goodwill, and finding specialists when he lacks military or technical competence. His “software” is therefore a portfolio of self-knowledge, human judgment, calculated risk, persuasion, generosity, and resource integration rather than one hidden mastery.
 
 His relationship with [[KangxiEmperor|康熙]] is the most consequential version of that pattern. Their uninhibited childhood wrestling creates a bond before Wei understands the hierarchy; capturing Oboi then proves courage and usefulness. Wei sustains trust through discretion, refusal to claim excessive credit, calibrated speech, and a demonstrated unwillingness to harm Kangxi even when he rejects orders against Tiandihui. He can therefore remain friend, servant, pupil, entertainer, and imperial proxy at once, but [[SovereignFriendshipHierarchy|the friendship never gives him equal security or authority]].
 
@@ -32,7 +37,7 @@ The seven marriages are therefore not equivalent. [[Shuanger|双儿]] most stron
 ## Key Characteristics
 
 - Learns through observation, imitation, and immediate application more readily than through disciplined curricula.
-- Reads people and recruits complementary capacities across political, martial, and domestic worlds.
+- Reads people, converts accidental openings through risk and selective disclosure, and recruits complementary capacities across worlds.
 - Grounds loyalty in concrete treatment and non-betrayal more readily than dynasty or doctrine.
 - Preserves unusual intimacy with Kangxi through discretion, useful service, calibrated speech, and remembered equality.
 - Acts as a mobile proxy for capacities and adventures unavailable to the emperor's formal role.
@@ -45,10 +50,16 @@ The seven marriages are therefore not equivalent. [[Shuanger|双儿]] most stron
 
 - [[lowwo0ixlp--ouxy87p42cult3k4]] contrasts weak commitment to conventional martial study with rapid uptake of escape, concrete moves, observation, mimicry, and court technique.
 - [[lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg]] adds Hai Dafu's immediately usable instruction and warning that imperial hierarchy survives personal familiarity.
+- [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] traces the transferable repertoire to storytelling, theater, gambling, brothel life, street tactics, and court observation.
 
 ### Relationship-centered capability
 
 - [[lowwo0ixlp--ouxy87p42cult3k4]] presents sworn ties with officials, generals, Jianghu figures, and rivals as a network that supplies military, political, and interpersonal abilities Wei does not personally master.
+- [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] adds self-knowledge, specialist recruitment, generosity, and resource integration as the capabilities that make the network operational.
+
+### Chance converted by judgment
+
+- [[llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5]] distinguishes accidental encounters from the rapid reading of desire, fear, political change, and personal risk that turns them into survival or influence.
 
 ### Genuine attachment and ranked loyalty
 
@@ -81,15 +92,14 @@ The seven marriages are therefore not equivalent. [[Shuanger|双儿]] most stron
 
 ## Qualifications
 
-The profile follows four structured podcast summaries, not a complete textual or edition-based study of Wei Xiaobao. Claims about talent, motives, oath belief, loyalty, friendship, ancestry, love, sexual conduct, marital future, grief, and Jin Yong's design remain host interpretations. Concrete reciprocity can restrain betrayal without becoming a complete public or intimate ethic, and imperial favor, practical intelligence, understanding, or provision should not be converted into approval of corruption, coercion, deception, possessiveness, inequality, or harm.
+The profile follows five structured podcast summaries, not a complete textual or edition-based study of Wei Xiaobao. Claims about talent, motives, oath belief, loyalty, friendship, ancestry, love, sexual conduct, marital future, grief, and Jin Yong's design remain host interpretations. Luck, plot concentration, protective objects, and allies materially limit any claim that judgment alone explains his success. Concrete reciprocity can restrain betrayal without becoming a complete public or intimate ethic, and imperial favor, practical intelligence, understanding, provision, or tactical effectiveness should not be converted into approval of corruption, coercion, deception, possessiveness, inequality, or harm.
 
 ## What Changed
 
-- Added the Kangxi relationship as the central test of friendship under unequal sovereign power.
-- Specified discretion, credit management, calibrated flattery, and practical service as sources of imperial trust.
-- Added the combined roles of friend, servant, pupil, entertainer, and proxy.
-- Clarified that exceptional pardon protects Wei without giving him equal security or authority.
-- Added uncertain ancestry as a literary challenge to single-bloodline political identity.
+- Grounded his transferable social intelligence in storytelling, theater, gambling, brothel life, and street experience.
+- Distinguished lucky opportunity from the judgment, courage, and selective disclosure needed to exploit it.
+- Reframed his core competence as self-knowledge, human diagnosis, generosity, recruitment, and resource integration.
+- Added protective equipment and plot concentration as limits on a purely merit-based account of his success.
 
 ## Relationships
 

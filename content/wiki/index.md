@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [024 奇人 奇遇 奇功：闲话金庸封笔作《鹿鼎记》](sources/llock2igrduf9ps71earzsratxc5-llock2igrduf9ps71earzsratxc5.md) — 纸醉金迷FM以韦小宝的市井学习、人性判断、风险下注与资源整合解释他如何把偶遇转成奇功，并由此拆解武侠英雄、体面手段和宫廷神圣性。
 - [025 闲话《鹿鼎记》之康熙与小宝|千古一帝与市井流氓](sources/ltegovfi-xea0_fd_aakshfz0n64-ltegovfi-xea0_fd_aakshfz0n64.md) — 纸醉金迷FM以康熙与韦小宝的双主角关系讨论主权等级中的真情、具体互惠、族群身份与反武侠类型突破。
 - [026 韦小宝与他的七个老婆：爱情？还是反爱情？](sources/lhekxvom57-qdgvmuy0_jw4nexqc-lhekxvom57-qdgvmuy0_jw4nexqc.md) — 纸醉金迷FM以七段不同关系拆解唯一真爱神话，并在韦小宝的物化、占有、理解、边界、照料与长期责任之间保留争议。
 - [027 武侠史上最经典一战|趣话《陆小凤传奇之决战前后》](sources/lo1lhzgf7cwbtwjy6no8a9i2laa6.md) — 纸醉金迷FM以西门吹雪的人性变化、叶孤城的政治与求死歧义及“诚于人/诚于剑”之争重读紫禁之巅，同时质疑悬疑收束、友情转变和女性书写。
