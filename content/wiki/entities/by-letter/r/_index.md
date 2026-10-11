@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13397
+wiki_total_pages: 13399
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "RuciDagong30Nian"
     title: "《如此打工30年》 / Working Like This for 30 Years"
     url: "/wiki/entities/rucidagong30nian/"
+  - key: "ReturnOfTheCondorHeroes"
+    title: "《神雕侠侣》 / The Return of the Condor Heroes"
+    url: "/wiki/entities/returnofthecondorheroes/"
   - key: "RedAndBlackNovel"
     title: "《红与黑》 / The Red and the Black"
     url: "/wiki/entities/redandblacknovel/"

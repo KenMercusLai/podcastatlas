@@ -36333,3 +36333,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？
+
+Added source `lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b`; created [[ReturnOfTheCondorHeroes|《神雕侠侣》]], [[HuangRong|黄蓉]], and [[NarrativePerspectiveMoralReevaluation|叙事视角驱动的道德重评]]; and resynthesized [[MartialArtsCharacterFateEncoding|武功对人物与命运的编码]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Huang Rong's intelligence, suspicion, and in-group loyalty do not simply appear in middle age, but change moral weight when the sequel aligns readers with Yang Guo and raises the stakes through motherhood, Beggars' Gang leadership, and Xiangyang defense; early caution can be contextual while later failure to revise after repeated rescue becomes prejudice; and the sword tomb, 黯然销魂掌, and 玉女心经 encode development, emotion, and reciprocal protection, even as late power inflation weakens martial legibility. No settled contradiction was adopted. Sincerity, motives, exact dialogue, martial hierarchy, edition changes, authorial intention, gender psychology, and the causes of Wang Chongyang and Lin Chaoying's separation remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, character, and concepts capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,550 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

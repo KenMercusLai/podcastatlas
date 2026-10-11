@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？](sources/lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b.md) — 纸醉金迷FM以叙事视角、家庭与公共责任重评黄蓉，并以剑冢、黯然销魂掌和玉女心经讨论武功如何承载成长、情绪与关系。
 - [018 趣谈金庸处女作《书剑恩仇录》|百花错，开头是错，结尾还是错](sources/lupg1kt3vmjtosukkza7scrai2gg-lupg1kt3vmjtosukkza7scrai2gg.md) — 纸醉金迷FM从历史结局约束、红花会群像和兵器武功设计重读金庸首作，并以百花错拳串联陈家洛的判断、爱情与政治悲剧。
 - [019 闲话金庸《书剑恩仇录》中的爱情书写](sources/ltgta0qj4on-taemf28h3hdtglvk-ltgta0qj4on-taemf28h3hdtglvk.md) — 纸醉金迷FM以女性主动、婚姻日常、组织撮合和陈家洛的自我概念重读《书剑恩仇录》，并区分牺牲、压力与真正互惠的感情。
 - [020 一日讲完百年事：闲话金庸《雪山飞狐》](sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr.md) — 纸醉金迷FM以一日、二十七年与百年三层时间及逐层证言重读《雪山飞狐》，并从胡一刀的间接塑造、继承仇恨与开放结局检验侠义。
@@ -4634,6 +4635,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、家庭与公共责任冲突，以及承载成长、情绪和相互守护的武功设计组织人物评价。
+- [黄蓉 / Huang Rong](entities/HuangRong.md) — 智慧、戒备、亲疏偏向与公共担当并存，并因叙事站位和成年角色变化而受到道德重评的金庸人物。
 - [《书剑恩仇录》 / The Book and the Sword](entities/BookAndSword.md) — 金庸首部武侠小说，以固定历史结局、红花会群像、武功象征、爱情边界与政治责任组织早期江湖实验。
 - [陈家洛 / Chen Jialuo](entities/ChenJialuo.md) — 在真实担当、被动任命、领导不安、情感安全与政治代价回避之间摇摆，并由百花错拳映出连续误判的红花会总舵主。
 - [红花会 / Red Flower Society](entities/RedFlowerSociety.md) — 以共同反清目标、十四当家、集体营救和多样兵器形成能量鲜明却区分不均的早期武侠群像。
@@ -18101,6 +18104,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Narrative-Perspective Moral Reevaluation / 叙事视角驱动的道德重评](concepts/NarrativePerspectiveMoralReevaluation.md) — 叙事焦点和冲突对象变化使稳定性格获得不同道德标签，同时以证据更新、角色责任和实际伤害校准评价。
 - [Relational Self-Concept Selection / 亲密关系选择与自我概念](concepts/RelationalSelfConceptSelection.md) — 亲密关系选择部分取决于关系让人体验为平等伙伴、保护者、权威、救援者或不足者中的哪一种自我。
 - [Ensemble Character Differentiation / 群像人物区分](concepts/EnsembleCharacterDifferentiation.md) — 以冲突、独立支线、关系、职责和行动后果区分大型群像，并把外貌、称号和兵器限定为辅助标记。
 - [Martial Arts as Character and Fate Encoding / 武功对人物与命运的编码](concepts/MartialArtsCharacterFateEncoding.md) — 以兵器、招式和战斗习惯外化身份、性格、叙事职能及反复的人生命运模式。

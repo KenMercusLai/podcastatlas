@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10453
+wiki_total_pages: 10454
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "NarrativeSetupAndPayoff"
     title: "Narrative Setup and Payoff / 叙事铺垫与回收"
     url: "/wiki/concepts/narrativesetupandpayoff/"
+  - key: "NarrativePerspectiveMoralReevaluation"
+    title: "Narrative-Perspective Moral Reevaluation / 叙事视角驱动的道德重评"
+    url: "/wiki/concepts/narrativeperspectivemoralreevaluation/"
   - key: "NASACareerPathways"
     title: "NASA Career Pathways"
     url: "/wiki/concepts/nasacareerpathways/"
