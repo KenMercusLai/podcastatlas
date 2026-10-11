@@ -8,7 +8,8 @@ sources:
   - ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205
   - journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255
   - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
-last_updated: 2026-09-30
+  - vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ Randomized human trials receive special weight when the question is causal, yet 
 The two longevity episodes extend this hierarchy from a concise practical boundary into a study-focused one. The AMA separates proposed resveratrol, NAD, glucose, and mTOR pathways from direct human lifespan evidence, and separates personal energy or recovery reports from causal benefit. The Attia episode then distinguishes essential pathway function, age-related tissue change, unusual disease-model benefit, rigorous mouse survival testing, human biomarkers, subgroup analyses, healthspan, and lifespan. [[InterventionsTestingProgram]] results strengthen the preclinical layer by testing survival in mice, but even a positive mouse result still requires human translation. Conversely, raising a molecule in blood or liver, changing a biological-age score, or finding a small insulin-infusion response does not establish benefit in the target tissue or in how long and well people live.
 
 The metformin Journal Club adds a sharper observational-design case. A mechanism such as complex-I inhibition or reduced hepatic glucose output cannot answer a longevity question, and a registry comparison cannot isolate treatment benefit when the treated group has diabetes and the control group does not. Matching and discordant twins can reduce some confounding without creating randomization; informative censoring can preferentially retain healthier treated participants; and adjustment changes rather than erases dependence on model assumptions. The resulting rule is to identify the exact contrast a study estimates before translating its hazard ratio into a claim about a drug.
+
+VOL.150 adds a consumer-facing translation rule. “There is literature” is incomplete unless the literature's layer is named: a cell, tissue, or animal signal can support plausibility, while a biomarker, subjective improvement, subgroup result, or placebo-sensitive response can still fall short of a meaningful whole-person outcome. Its glucosamine, NMN, antioxidant, and milk-thistle examples also show why route, target tissue, population, comparator, and endpoint have to match the advertised claim.
 
 ## Key Claims
 - Biological mechanisms establish plausibility, not necessarily the direction or magnitude of a whole-person outcome.
@@ -48,14 +51,14 @@ The metformin Journal Club adds a sharper observational-design case. A mechanism
 - Personal-response boundary: [[ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205]] separates subjective NR, NMN, and post-infusion effects from evidence that the interventions extend human life.
 - Tissue and endpoint fit: [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]] argues that higher NAD in blood or liver does not establish a skeletal-muscle effect, and that biomarkers or biological-age scores do not substitute for meaningful healthspan or lifespan outcomes.
 - Observational contrast and censoring: [[journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255]] shows why treated diabetes versus non-diabetic control mortality cannot isolate metformin's causal effect, and why participant exclusions can create informative censoring.
+- Consumer claim translation: [[vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o|VOL.150]] uses laboratory antioxidant findings, topical delivery, individual response, subgroup symptom relief, and transaminase change to show why an evidentiary signal must match route, population, endpoint, and claimed benefit.
 
 ## Counterevidence & Qualifications
-This is not a rigid universal ranking. Randomization may be infeasible, unethical, too short, underpowered, or poorly matched to long-latency outcomes; observational and mechanistic evidence can be decisive in some contexts. Matching, covariate adjustment, twins, and sensitivity analyses can strengthen an observational estimate without eliminating unmeasured confounding or comparator mismatch. A trial can answer only its specific question, a subgroup may be exploratory rather than confirmatory, and a meta-analysis can create false precision when studies differ materially. Mouse survival can strongly filter a hypothesis without establishing human benefit. Personal use can reveal tolerability or generate a hypothesis without estimating efficacy, population benefit, or lifespan effect. The sources supply examples rather than a complete research-methods taxonomy, risk-of-bias tool, or formal evidence-grading system.
+This is not a rigid universal ranking. Randomization may be infeasible, unethical, too short, underpowered, or poorly matched to long-latency outcomes; observational and mechanistic evidence can be decisive in some contexts. Matching, covariate adjustment, twins, and sensitivity analyses can strengthen an observational estimate without eliminating unmeasured confounding or comparator mismatch. A trial can answer only its specific question, a subgroup may be exploratory rather than confirmatory, and a meta-analysis can create false precision when studies differ materially. Mouse survival can strongly filter a hypothesis without establishing human benefit. Personal use can reveal tolerability or generate a hypothesis without estimating efficacy, population benefit, or lifespan effect. VOL.150 is a conversational summary and does not independently validate its trial descriptions, biomarker claims, or product examples. The sources supply examples rather than a complete research-methods taxonomy, risk-of-bias tool, or formal evidence-grading system.
 
 ## What Changed
-- Added comparator fit and informative censoring as explicit checks for observational treatment claims.
-- Added metformin as a worked example separating diabetes-associated mortality from the drug's causal effect.
-- Added Norton's leucine experiment and LDL belief revision as examples of outcome mismatch and cumulative updating.
+- Added a consumer-facing test that “has literature” must be unpacked into evidence layer, route, population, endpoint, and advertised outcome.
+- Added supplement examples in which laboratory activity, subgroup symptom change, subjective response, or surrogate-marker movement does not establish broad clinical benefit.
 
 ## Related Concepts
 - [[DietTrialEquipoise]] - fair-comparison principle for designing and interpreting competing diet trials.

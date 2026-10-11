@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.150大物是也·大白牛：NMN、氨糖 、护肝片、辅酶…这些爆款保健品真的靠谱吗？](sources/vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o.md) — 这病说来话长 episode on supplement necessity, marketing, evidence levels, glucosamine, NMN, surrogate liver markers, and lifestyle-first safety boundaries.
 - [Essentials: The Science of Emotions & Relationships](sources/scim1654683440-scim1654683440.md) — Condensed Huberman Lab episode on emotion coordinates, attachment development, puberty, social hormones, attention shifting, and the boundary that vagal signaling is not uniformly calming.
 - [050 新浪潮：徐克武侠电影大回顾](sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg.md) — 纸醉金迷FM按年代回顾徐克武侠电影，以剪辑、美术、动作、技术实验和改编自洽性解释其作者风格、九十年代高峰与后期转向。
 - [The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline](sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661.md) — Huberman Lab conversation on strength as neural skill, submaximal practice, fatigue fragmentation, anti-glycolytic conditioning, flexibility, kettlebells, and long-term training.

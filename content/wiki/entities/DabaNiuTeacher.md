@@ -9,6 +9,7 @@ sources:
   - vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0
   - vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev
   - vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t
+  - vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -31,6 +32,8 @@ In [[vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi
 
 In [[vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t]], he translates his former-clinician and current clinical-development perspective into [[GenericDrugSubstitutionDecision|generic-drug substitution decisions]]. He distinguishes originator status from import status, treats [[BioequivalenceEvidenceBoundary|bioequivalence]] as meaningful but bounded evidence, and makes therapeutic margin, dosage form, special populations, monitoring, and stable chronic-disease control determine how cautious a switch should be.
 
+In [[vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o|VOL.150]], he applies that evidence-sensitive style to consumer supplements. He neither dismisses the whole category nor treats biological importance, laboratory findings, foreignness, naturalness, biomarker change, or personal response as proof of clinical benefit. Glucosamine, NMN, coenzyme Q10, antioxidant products, and milk-thistle products become examples of a recurring decision order: establish need, identify the product and evidence layer, examine safety and realistic outcomes, and keep treatment and lifestyle foundations in front.
+
 ## Key Characteristics
 - Bridges biotech industry analysis and bedside clinical reasoning.
 - Treats drug innovation as a role system involving discovery, development, regulation, reimbursement, hospitals, and patients.
@@ -38,7 +41,7 @@ In [[vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shen
 - Explains metabolic tools and drugs through indication fit rather than consumer-health hype.
 - Explains sleep through continuity, next-day function, whole-body recovery, and clinical escalation rather than duration or device scores alone.
 - Explains generic-drug substitution through equivalence evidence, therapeutic margin, formulation, monitoring, and treatment stability rather than origin or price alone.
-- Keeps patient burden, quality of life, medical risk, and the difference between high-profile data and demonstrated outcomes visible.
+- Keeps patient burden, quality of life, medical risk, and the difference between mechanisms, biomarkers, personal response, high-profile data, and demonstrated outcomes visible.
 
 ## Evidence
 - Industry role map: [[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] presents him as the clinical-development voice connecting patients, hospitals, trials, regulators, payers, and pharma organizations.
@@ -48,13 +51,14 @@ In [[vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shen
 - Sleep maintenance and escalation: [[vol-187-shuijiao-shi-shenti-zai-mang-shenme-dai-ni-kanjian-yejian-shenti-weixiu-xianchang-ft-dawu-shiye-xiaolong-dabainiu-lokulk58qwr-7mrpb9pyqqchv-z0]] has him connect sleep continuity and stable rhythm with systemic recovery while separating ordinary routine changes from suspected apnea, persistent insomnia, and other symptoms needing qualified care.
 - ASCO and patient-benefit boundary: [[vol-172-tanboshi-dabainiu-xiaolong-guochan-chuangxinyao-daodi-shi-zhenqushi-haishi-xuhuo-asco-dahui-yishou-xianchang-zhiji-lmypzc0k-w1lxfkn5q25rystwuev]] has him distinguish rising Chinese oncology visibility from global leadership and connect drug quality with safety, survival, quality of life, and careful endpoint interpretation.
 - Generic-drug and formulation boundary: [[vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t]] has him distinguish regulatory comparability from literal identity and connect substitution caution with therapeutic index, release design, patient group, monitoring, and continuity.
+- Supplement evidence and safety boundary: [[vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o|VOL.150]] has him separate need from marketing, laboratory or mechanism evidence from human outcomes, symptom or biomarker movement from disease modification, and public education from individualized treatment.
 
 ## Qualifications
-The wiki only has podcast-source evidence for this persona, not an independent biography. The Under alias is inferred from the VOL.220 title's "大白牛/Under" wording and should remain tied to that source unless later material clarifies the naming. The metabolic-health, sleep, oncology, generic-drug, and industry discussions are public education, not individualized diabetes, obesity, medication-switching, device-use, insomnia, apnea, cardiac, neurological, cancer-treatment, investment, or drug-development advice. VOL.151's bioequivalence shorthand, medicine examples, cost and trial-success figures, and product comparisons remain source-scoped; ASCO shares, treatment examples, price comparisons, and payer statistics in VOL.172 remain source-scoped.
+The wiki only has podcast-source evidence for this persona, not an independent biography. The Under alias is inferred from the VOL.220 title's "大白牛/Under" wording and should remain tied to that source unless later material clarifies the naming. The metabolic-health, sleep, oncology, generic-drug, supplement, and industry discussions are public education, not individualized diabetes, obesity, medication-switching, device-use, insomnia, apnea, cardiac, neurological, cancer-treatment, supplement, investment, or drug-development advice. VOL.150's regulatory history, prevalence, dose, trial, market, product-composition, biomarker, and adverse-effect claims remain source-scoped; VOL.151's bioequivalence shorthand, medicine examples, cost and trial-success figures, and product comparisons remain source-scoped; ASCO shares, treatment examples, price comparisons, and payer statistics in VOL.172 remain source-scoped.
 
 ## What Changed
-- Extended his profile from innovative-drug development into patient-level generic-drug substitution and formulation integrity.
-- Clarified that his decision style treats regulatory evidence as meaningful while scaling residual uncertainty by therapeutic margin, consequence, population, and monitoring.
+- Extended his profile into consumer-supplement evidence, marketing, necessity, and safety judgments.
+- Clarified that his decision style separates mechanisms, surrogate markers, and individual experience from demonstrated clinical outcomes while keeping lifestyle and treatment ahead of optional products.
 
 ## Relationships
 - [[ClinicalDevelopmentCapability]] - core capability lens he brings to biotech discussion.
@@ -80,3 +84,6 @@ The wiki only has podcast-source evidence for this persona, not an independent b
 - [[GenericDrugSubstitutionDecision]] - patient-level framework he builds from bioequivalence, formulation, therapeutic margin, and continuity.
 - [[BioequivalenceEvidenceBoundary]] - evidence boundary he uses to distinguish comparability from literal identity.
 - [[GenericDrugTrustRebuilding]] - adjacent system-level trust problem that his clinical framework helps qualify.
+- [[MechanismOutcomeEvidenceHierarchy]] - evidence ladder he applies to supplement and treatment claims.
+- [[TargetedSupplementNeedAssessment]] - necessity-first frame behind his conservative supplement judgment.
+- [[NADTherapyEvidenceBoundary]] - longevity-supplement example he keeps separate from metabolic importance.
