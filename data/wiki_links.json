@@ -31931,6 +31931,10 @@
     "title": "Family Reading Ecology",
     "url": "/wiki/concepts/familyreadingecology/"
   },
+  "FamilyRejectionMinorityStress": {
+    "title": "Family Rejection and Minority Stress / 家庭拒斥与少数压力",
+    "url": "/wiki/concepts/familyrejectionminoritystress/"
+  },
   "FamilyRiskDiversification": {
     "title": "Family Risk Diversification / 家族风险分散",
     "url": "/wiki/concepts/familyriskdiversification/"
@@ -36238,6 +36242,14 @@
   "GenderConflictConstructionEmbodimentBoundary": {
     "title": "Gender Conflict Construction-Embodiment Boundary / 性别冲突的建构—身体边界",
     "url": "/wiki/concepts/genderconflictconstructionembodimentboundary/"
+  },
+  "GenderInclusivePublicSpace": {
+    "title": "Gender-Inclusive Public Space / 性别包容公共空间",
+    "url": "/wiki/concepts/genderinclusivepublicspace/"
+  },
+  "GenderMarkerDocumentContinuity": {
+    "title": "Gender-Marker Document Continuity / 性别标记与证件连续性",
+    "url": "/wiki/concepts/gendermarkerdocumentcontinuity/"
   },
   "GenderPerformanceAndTrauma": {
     "title": "Gender Performance And Trauma",
@@ -53515,6 +53527,10 @@
     "title": "刘纳 / Liu Na (late Han)",
     "url": "/wiki/entities/liunalatehan/"
   },
+  "LiuNaPsychiatrist": {
+    "title": "刘娜 / Liu Na (psychiatrist)",
+    "url": "/wiki/entities/liunapsychiatrist/"
+  },
   "LiuNaoziWesternHan": {
     "title": "刘淖子 / Liu Naozi (Western Han)",
     "url": "/wiki/entities/liunaoziwesternhan/"
@@ -55510,6 +55526,10 @@
   "LuoYoumei": {
     "title": "骆友梅 / Luo Youmei",
     "url": "/wiki/entities/luoyoumei/"
+  },
+  "LuoZaoxiLegalScholar": {
+    "title": "罗早熙 / Luo Zaoxi (legal scholar)",
+    "url": "/wiki/entities/luozaoxilegalscholar/"
   },
   "LuoZijun": {
     "title": "罗子君 / Luo Zijun",
@@ -63530,6 +63550,10 @@
   "NuoJiWesternHan": {
     "title": "淖姬 / Nuo Ji (Western Han)",
     "url": "/wiki/entities/nuojiwesternhan/"
+  },
+  "NuolandaoTransgenderGuest": {
+    "title": "诺兰道 / Nuolandao (transgender guest)",
+    "url": "/wiki/entities/nuolandaotransgenderguest/"
   },
   "NurembergLaws": {
     "title": "Nuremberg Laws",
@@ -77975,6 +77999,10 @@
     "title": "Sexual History Evidence Interpretation",
     "url": "/wiki/concepts/sexualhistoryevidenceinterpretation/"
   },
+  "SexualMinorityIdentityCareBoundary": {
+    "title": "Sexual-Minority Identity–Care Boundary / 性少数身份与照护边界",
+    "url": "/wiki/concepts/sexualminorityidentitycareboundary/"
+  },
   "SexualOrientationDevelopmentalCorrelates": {
     "title": "Sexual Orientation Developmental Correlates",
     "url": "/wiki/concepts/sexualorientationdevelopmentalcorrelates/"
@@ -87447,6 +87475,10 @@
     "title": "Transformer Architecture",
     "url": "/wiki/concepts/transformerarchitecture/"
   },
+  "TransgenderMultidisciplinaryCare": {
+    "title": "Transgender Multidisciplinary Care / 跨性别多学科照护",
+    "url": "/wiki/concepts/transgendermultidisciplinarycare/"
+  },
   "TransgenerationalEmpathy": {
     "title": "Transgenerational Empathy",
     "url": "/wiki/concepts/transgenerationalempathy/"
@@ -94146,6 +94178,10 @@
   "XiaolangOncologySurgeon": {
     "title": "骁狼医生 / Xiaolang (oncology surgeon)",
     "url": "/wiki/entities/xiaolangoncologysurgeon/"
+  },
+  "XiaolinSexualMinorityGuest": {
+    "title": "小林 / Xiaolin (sexual-minority guest)",
+    "url": "/wiki/entities/xiaolinsexualminorityguest/"
   },
   "XiaolongWeightManagementGuest": {
     "title": "小龙 / Xiaolong (Weight-Management Guest)",
@@ -105962,6 +105998,10 @@
   "vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf": {
     "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
     "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
+  },
+  "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp": {
+    "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+    "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
   },
   "vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8": {
     "title": "VOL.145冬天里的小感冒，也请放在心上",

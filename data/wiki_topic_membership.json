@@ -40041,6 +40041,13 @@
       "url": "/topics/science/"
     }
   ],
+  "GenderMarkerDocumentContinuity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GenderPerformanceAndTrauma": [
     {
       "key": "culture",
@@ -57020,6 +57027,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LuoZaoxiLegalScholar": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LuoZijun": [
@@ -107593,6 +107607,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp": [
     {
       "key": "politics",
       "label": "Politics",

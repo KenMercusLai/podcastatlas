@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10404
+wiki_total_pages: 10409
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "FamilyReadingEcology"
     title: "Family Reading Ecology"
     url: "/wiki/concepts/familyreadingecology/"
+  - key: "FamilyRejectionMinorityStress"
+    title: "Family Rejection and Minority Stress / 家庭拒斥与少数压力"
+    url: "/wiki/concepts/familyrejectionminoritystress/"
   - key: "FamilyRiskDiversification"
     title: "Family Risk Diversification / 家族风险分散"
     url: "/wiki/concepts/familyriskdiversification/"

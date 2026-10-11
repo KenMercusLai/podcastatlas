@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13307
+wiki_total_pages: 13311
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1388,6 +1388,9 @@ wiki_pages:
   - key: "LiuRuyi"
     title: "刘如意 / Liu Ruyi"
     url: "/wiki/entities/liuruyi/"
+  - key: "LiuNaPsychiatrist"
+    title: "刘娜 / Liu Na (psychiatrist)"
+    url: "/wiki/entities/liunapsychiatrist/"
   - key: "LiuZimingSportsMedicine"
     title: "刘子明 / Liu Ziming (sports medicine doctor)"
     url: "/wiki/entities/liuzimingsportsmedicine/"
@@ -2516,6 +2519,9 @@ wiki_pages:
   - key: "LuoZijun"
     title: "罗子君 / Luo Zijun"
     url: "/wiki/entities/luozijun/"
+  - key: "LuoZaoxiLegalScholar"
+    title: "罗早熙 / Luo Zaoxi (legal scholar)"
+    url: "/wiki/entities/luozaoxilegalscholar/"
   - key: "LuoyonghaosCrossroads"
     title: "罗永浩的十字路口 / Luo Yonghao's Crossroads"
     url: "/wiki/entities/luoyonghaoscrossroads/"

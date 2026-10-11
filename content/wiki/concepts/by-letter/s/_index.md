@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10404
+wiki_total_pages: 10409
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "SexualOrientationDevelopmentalCorrelates"
     title: "Sexual Orientation Developmental Correlates"
     url: "/wiki/concepts/sexualorientationdevelopmentalcorrelates/"
+  - key: "SexualMinorityIdentityCareBoundary"
+    title: "Sexual-Minority Identity–Care Boundary / 性少数身份与照护边界"
+    url: "/wiki/concepts/sexualminorityidentitycareboundary/"
   - key: "SexualitySecrecyPoliticalVulnerability"
     title: "Sexuality, Secrecy, and Political Vulnerability"
     url: "/wiki/concepts/sexualitysecrecypoliticalvulnerability/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10404
+wiki_total_pages: 10409
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "TransformerArchitecture"
     title: "Transformer Architecture"
     url: "/wiki/concepts/transformerarchitecture/"
+  - key: "TransgenderMultidisciplinaryCare"
+    title: "Transgender Multidisciplinary Care / 跨性别多学科照护"
+    url: "/wiki/concepts/transgendermultidisciplinarycare/"
   - key: "TransgenerationalEmpathy"
     title: "Transgenerational Empathy"
     url: "/wiki/concepts/transgenerationalempathy/"

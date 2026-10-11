@@ -35946,3 +35946,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题
+
+Added source `vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp`; created [[LiuNaPsychiatrist|刘娜]], [[LuoZaoxiLegalScholar|罗早熙]], [[XiaolinSexualMinorityGuest|小林]], [[NuolandaoTransgenderGuest|诺兰道]], [[SexualMinorityIdentityCareBoundary]], [[FamilyRejectionMinorityStress]], [[TransgenderMultidisciplinaryCare]], [[GenderMarkerDocumentContinuity]], and [[GenderInclusivePublicSpace]]; and resynthesized [[WangYimingReproductiveDoctor|汪一鸣]] from his complete preserved evidence inventory before appending the new source once. Core synthesis: sexual orientation, gender identity, and expression are not illnesses, while distress, family rejection, discrimination, document mismatch, safety, and requested gender-related goals can create real care or support needs. No settled contradiction was adopted. Clinical timing and risk claims, legal procedures and history, credential details, facility examples, and causal claims remain source-scoped to the December 2024 public discussion. Broad show and host profiles were kept closed because the focused source, guest, and concept pages capture the durable addition without reopening their larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,501 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

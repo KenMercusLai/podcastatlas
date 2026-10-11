@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13307
+wiki_total_pages: 13311
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "Nishinoshima"
     title: "西之岛 / Nishinoshima"
     url: "/wiki/entities/nishinoshima/"
+  - key: "NuolandaoTransgenderGuest"
+    title: "诺兰道 / Nuolandao (transgender guest)"
+    url: "/wiki/entities/nuolandaotransgenderguest/"
   - key: "NihongDianbo"
     title: "霓虹电波 / Nihong Dianbo"
     url: "/wiki/entities/nihongdianbo/"

@@ -88126,6 +88126,22 @@
       "updated": "2026-08-08",
       "url": "/wiki/concepts/familyreadingecology/"
     },
+    "FamilyRejectionMinorityStress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/familyrejectionminoritystress/"
+    },
     "FamilyRiskDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -101850,6 +101866,38 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/genderconflictconstructionembodimentboundary/"
+    },
+    "GenderInclusivePublicSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/genderinclusivepublicspace/"
+    },
+    "GenderMarkerDocumentContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/gendermarkerdocumentcontinuity/"
     },
     "GenderResponsivePublicRestroomAccess": {
       "episode_count": 1,
@@ -159264,6 +159312,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liumubeihaiking/"
     },
+    "LiuNaPsychiatrist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/liunapsychiatrist/"
+    },
     "LiuNaoziWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -167121,6 +167185,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/luoyoumei/"
+    },
+    "LuoZaoxiLegalScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/luozaoxilegalscholar/"
     },
     "LuoZijun": {
       "episode_count": 1,
@@ -192171,6 +192251,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/nuojiwesternhan/"
+    },
+    "NuolandaoTransgenderGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/nuolandaotransgenderguest/"
     },
     "NurembergLaws": {
       "episode_count": 1,
@@ -236225,6 +236321,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/sexualhistoryevidenceinterpretation/"
     },
+    "SexualMinorityIdentityCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/sexualminorityidentitycareboundary/"
+    },
     "SexualOrientationDevelopmentalCorrelates": {
       "episode_count": 2,
       "show_count": 1,
@@ -264663,6 +264775,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/transferpricing/"
     },
+    "TransgenderMultidisciplinaryCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/transgendermultidisciplinarycare/"
+    },
     "TransgenerationalEmpathy": {
       "episode_count": 1,
       "show_count": 1,
@@ -275505,9 +275633,9 @@
       "url": "/wiki/entities/wangyibo/"
     },
     "WangYimingReproductiveDoctor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
@@ -275529,9 +275657,16 @@
           "show": "这病说来话长",
           "title": "VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难",
           "url": "/wiki/sources/vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo/"
+        },
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/wangyimingreproductivedoctor/"
     },
     "WangYinWesternHan": {
@@ -285163,6 +285298,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/xiaolangoncologysurgeon/"
+    },
+    "XiaolinSexualMinorityGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrpEL14ITpYOsfF9C9gS9hKfn8tP [lrpEL14ITpYOsfF9C9gS9hKfn8tP].md",
+          "key": "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp",
+          "show": "这病说来话长",
+          "title": "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题",
+          "url": "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xiaolinsexualminorityguest/"
     },
     "XiaolongWeightManagementGuest": {
       "episode_count": 6,

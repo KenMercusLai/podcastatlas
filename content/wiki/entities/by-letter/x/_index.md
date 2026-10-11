@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13307
+wiki_total_pages: 13311
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "XiaozhiAI"
     title: "小智AI / Xiaozhi AI"
     url: "/wiki/entities/xiaozhiai/"
+  - key: "XiaolinSexualMinorityGuest"
+    title: "小林 / Xiaolin (sexual-minority guest)"
+    url: "/wiki/entities/xiaolinsexualminorityguest/"
   - key: "XiaoGuoGege"
     title: "小果哥哥 / XiaoGuoGege"
     url: "/wiki/entities/xiaoguogege/"

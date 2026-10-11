@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3297
+topic_total_pages: 3299
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8423,6 +8423,9 @@ topic_entities:
   - key: "ZhongHaoLateHan"
     title: "种暠 / Zhong Hao (late Han)"
     url: "/wiki/entities/zhonghaolatehan/"
+  - key: "LuoZaoxiLegalScholar"
+    title: "罗早熙 / Luo Zaoxi (legal scholar)"
+    url: "/wiki/entities/luozaoxilegalscholar/"
   - key: "LuoXiang"
     title: "罗翔 / Luo Xiang"
     url: "/wiki/entities/luoxiang/"
@@ -9372,6 +9375,9 @@ topic_sources:
   - key: "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb"
     title: "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich"
     url: "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  - key: "vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp"
+    title: "VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题"
+    url: "/wiki/sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp/"
   - key: "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw"
     title: "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘"
     url: "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
