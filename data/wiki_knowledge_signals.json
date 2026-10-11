@@ -7936,9 +7936,9 @@
       "url": "/wiki/concepts/adultfevermedicationsafety/"
     },
     "AdultNappingSleepPressure": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8589399999 [SCIM8589399999].md",
@@ -7960,9 +7960,16 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM3191061030 [SCIM3191061030].md",
+          "key": "scim3191061030-scim3191061030",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
+          "url": "/wiki/sources/scim3191061030-scim3191061030/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/adultnappingsleeppressure/"
     },
     "AdultPolyphasicSleepEvidenceBoundary": {
@@ -34053,9 +34060,9 @@
       "url": "/wiki/concepts/caesarsbritishexpeditions/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -34126,9 +34133,16 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM3191061030 [SCIM3191061030].md",
+          "key": "scim3191061030-scim3191061030",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
+          "url": "/wiki/sources/scim3191061030-scim3191061030/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaffeineBehavioralReinforcement": {
@@ -171168,9 +171182,9 @@
       "url": "/wiki/entities/matthewstewartearloflennox/"
     },
     "MatthewWalker": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -171220,9 +171234,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker",
           "url": "/wiki/sources/scim3745275899-scim3745275899/"
+        },
+        {
+          "episode_file": "SCIM3191061030 [SCIM3191061030].md",
+          "key": "scim3191061030-scim3191061030",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
+          "url": "/wiki/sources/scim3191061030-scim3191061030/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/matthewwalker/"
     },
     "MatureGenreDeconstruction": {
@@ -237943,9 +237964,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -238009,15 +238030,22 @@
           "show": "Huberman Lab",
           "title": "Understand and Use Dreams to Learn and Forget",
           "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
+        },
+        {
+          "episode_file": "SCIM3191061030 [SCIM3191061030].md",
+          "key": "scim3191061030-scim3191061030",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
+          "url": "/wiki/sources/scim3191061030-scim3191061030/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -238088,9 +238116,16 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM3191061030 [SCIM3191061030].md",
+          "key": "scim3191061030-scim3191061030",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
+          "url": "/wiki/sources/scim3191061030-scim3191061030/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
@@ -246711,9 +246746,9 @@
       "url": "/wiki/concepts/subscriptionvsalgorithmpodcastdistribution/"
     },
     "SubstanceSleepArchitectureBoundary": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -246763,9 +246798,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM3191061030 [SCIM3191061030].md",
+          "key": "scim3191061030-scim3191061030",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Practice of Perfecting Your Sleep",
+          "url": "/wiki/sources/scim3191061030-scim3191061030/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/substancesleeparchitectureboundary/"
     },
     "SubstantiveChoiceCapability": {

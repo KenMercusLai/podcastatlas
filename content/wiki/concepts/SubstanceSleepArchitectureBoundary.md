@@ -10,7 +10,8 @@ sources:
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - what-alcohol-does-to-your-body-brain-health-scim8915337113
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
-last_updated: 2026-10-01
+  - scim3191061030-scim3191061030
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,6 +34,8 @@ The protocols episode makes the substance distinctions more explicit. Alcohol is
 The alcohol-focused episode independently reinforces the practical boundary within the same show: even one drink is presented as capable of degrading sleep quality, and hangover is treated partly as a consequence of disrupted slow-wave and REM architecture rather than dehydration alone. The exact dose-response claim remains source-scoped, but sedation should not be counted as restorative sleep.
 
 The full-length sleep toolkit supplies the longer context behind the Essentials edit and keeps CBD separate from THC: anxiety relief is discussed as one possible route to easier sleep, but product, dose, efficacy, and architecture effects are not established. This adds scope without making the full and condensed edits independent corroboration.
+
+The Walker Essentials edit restates the core boundary in compact form: alcohol-induced unconsciousness is not natural sleep, alcohol fragments sleep and suppresses REM, and THC-assisted sleep onset can coexist with altered architecture and rebound dreams after stopping. It is an edit of the earlier full conversation and therefore does not add independent confirmation.
 
 ## Key Claims
 - Alcohol and THC may help some people fall asleep or stay asleep in the short term.
@@ -57,14 +60,13 @@ The full-length sleep toolkit supplies the longer context behind the Essentials 
 - THC tolerance and CBD uncertainty - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] distinguishes THC sleep onset, tolerance, withdrawal, and REM rebound from mixed and poorly regulated CBD evidence.
 - Alcohol-specific reinforcement - [[what-alcohol-does-to-your-body-brain-health-scim8915337113]] connects post-drink impairment and hangover with disrupted slow-wave and REM architecture rather than treating alcohol sleep as restorative.
 - Full-length alcohol, THC, and CBD context - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] separates short-term sleep onset from architecture and discusses CBD-related anxiety relief without establishing a dependable sleep aid.
+- Condensed sedation boundary - [[scim3191061030-scim3191061030]] restates alcohol fragmentation, REM suppression, THC architecture change, and rebound dreams from the full Walker interview.
 
 ## Counterevidence & Qualifications
 The sources do not provide individualized guidance for caffeine dependence, cannabis use, alcohol use disorder, withdrawal, pain, PTSD, anxiety, insomnia, medication interactions, pregnancy, or psychiatric conditions. They also do not fully quantify dose-response effects, compare all cannabinoid preparations, validate aldehyde mechanisms, or establish that every person has the same REM or deep-sleep disruption. Single-drink and single-afternoon-drink claims and CBD mechanisms lack full study context here. REM rebound should not be used to guide unsupervised withdrawal. Substance dependence, withdrawal risk, or persistent insomnia requires qualified care.
 
 ## What Changed
-- Added the full-length episode's CBD-versus-THC distinction while keeping CBD effects uncertain.
-- Explicitly treated the full and Essentials edits as overlapping provenance.
-- Preserved alcohol sedation, architecture, hangover, and single-drink claims as qualified.
+- Clarified that the Walker Essentials release is overlapping provenance rather than independent evidence for alcohol or THC effects.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent sleep timing toolkit.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: The Science & Practice of Perfecting Your Sleep](sources/scim3191061030-scim3191061030.md) — Condensed Huberman Lab conversation on staged sleep, light, caffeine, alcohol and THC, melatonin, naps, and behavior-first insomnia tools.
 - [064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则](sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn.md) — 纸醉金迷FM以李善德的鲜荔枝运输死局讨论技术官僚、职场陷阱、制度协作、道德异化与宫廷声望供应链向底层转嫁的生计和生命成本。
 - [574. The Medici: Curse of the Mad Monk (Part 3)](sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064.md) — The Rest Is History on Lorenzo's magnificent but financially fragile rule and Savonarola's reformist, apocalyptic formation.
 - [VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙](sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h.md) — Sponsored 这病说来话长 episode on retinol evidence, whole-formulation selection, gradual tolerance, barrier support, ultraviolet protection, and pregnancy boundaries.

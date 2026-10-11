@@ -10,7 +10,8 @@ sources:
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487
   - scim3745275899-scim3745275899
-last_updated: 2026-10-03
+  - scim3191061030-scim3191061030
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,6 +35,8 @@ The protocols episode makes that stance operational. Walker joins regularity, li
 
 The earlier 2021 interview now provides a historical bridge across those later installments. It already joins stage timing, morning light, adenosine and caffeine, alcohol and THC, melatonin and other supplements, naps, CBT-I, and sleep anxiety in one foundations-first account. Its main addition is not a reversal but a clearer record that Walker's later framework developed from an earlier distinction among natural sleep, sedation, circadian timing, homeostatic pressure, and condition-specific intervention.
 
+The 2025 Essentials release compresses that same interview into a shorter practical sequence. It reinforces Walker's full-night, behavior-first framework but is derivative provenance, not independent confirmation of the study effects or thresholds it repeats.
+
 ## Key Characteristics
 - Explains general sleep health, development, learning, emotion, dreaming, and alertness through quantity, quality, regularity, timing, stage-specific biology, and daytime function.
 - Separates pre-learning encoding, post-learning stabilization, motor consolidation, and creative integration.
@@ -55,13 +58,13 @@ The earlier 2021 interview now provides a historical bridge across those later i
 - Protocol hierarchy - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] joins regularity, light, temperature, caffeine, substances, stimulus control, and bedtime rescheduling while preserving supervision and safety boundaries.
 - Experimental enhancement - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] treats electrical, acoustic, thermal, and rocking interventions as timing-sensitive research rather than ready-made sleep optimization.
 - Earlier integrated framework - [[scim3745275899-scim3745275899]] joins stage architecture, light, caffeine, substances, supplements, naps, insomnia treatment, and anxiety-reduction tools while keeping preliminary findings source-scoped.
+- Condensed restatement - [[scim3191061030-scim3191061030]] restates the earlier interview's stage, caffeine, substance, melatonin, nap, and insomnia claims without constituting independent replication.
 
 ## Qualifications
-This profile is bounded to seven structured episode summaries. Study details, effect sizes, school and athletic outcomes, historical creativity anecdotes, animal-to-human translation, developmental proportions, cycle lengths, QQRT thresholds, chronotype effects, nap benefits, aging estimates, caffeine cutoffs, driving-risk figures, endocrine and immune effects, mortality associations, anxiety thresholds, nightmare-treatment response, sleep-cueing efficacy, stimulation studies, suicide-risk estimates, lucid-dream prevalence, supplement evidence, sex and relationship findings, and medication discussion are not independently validated here and should not be treated as personal medical or performance advice.
+This profile is bounded to eight structured episode summaries, two of which represent full and condensed edits of the same 2021 interview. Study details, effect sizes, school and athletic outcomes, historical creativity anecdotes, animal-to-human translation, developmental proportions, cycle lengths, QQRT thresholds, chronotype effects, nap benefits, aging estimates, caffeine cutoffs, driving-risk figures, endocrine and immune effects, mortality associations, anxiety thresholds, nightmare-treatment response, sleep-cueing efficacy, stimulation studies, suicide-risk estimates, lucid-dream prevalence, supplement evidence, sex and relationship findings, and medication discussion are not independently validated here and should not be treated as personal medical or performance advice.
 
 ## What Changed
-- Added the 2021 integrated account as historical corroboration for the later foundations-first framework.
-- Clarified that sedation, sleep timing, homeostatic pressure, and clinical intervention are distinct parts of Walker's practical model.
+- Clarified that the 2025 Essentials release is a derivative edit and should not be counted as independent confirmation of the 2021 interview.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer and host who frames the practical questions.

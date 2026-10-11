@@ -12,7 +12,8 @@ sources:
   - lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv
   - guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487
   - understand-and-use-dreams-to-learn-and-forget-scim1662184463
-last_updated: 2026-10-04
+  - scim3191061030-scim3191061030
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -41,6 +42,8 @@ The learning episode adds a functional map without making the stages exclusive. 
 The Walker series opener adds the basic physiology and timing logic. Non-REM and REM alternate in variable cycles rather than a universal 90-minute clock; early cycles contain more deep non-REM sleep and later cycles more REM, so waking early can remove a disproportionate share of later-stage sleep. Stage-two spindles, synchronized deep-sleep slow waves, and REM muscle atonia make the active-state claim concrete, while the source's broad restorative and health claims remain bounded by its summarized evidence.
 
 The early dreaming episode supplies a simpler precursor to this later architecture. It links low-acetylcholine slow-wave sleep with motor and detail learning, and later REM with atonia, vivid experience, association, social meaning, and emotional updating. That functional split is useful but not exclusive. Its rough 90-minute cycle and exact-multiple waking suggestion are superseded as personal timing rules by the later variable-cycle evidence, and its proposal that nightmares often arise in slow-wave sleep conflicts with the later REM-heavy nightmare account.
+
+The Essentials edit of Walker's 2021 interview reinforces the early-deep/later-REM pattern and the cost of truncating either end of the night. Because it condenses an existing source, it strengthens accessibility and provenance but does not independently validate stage-specific functions, hormone effects, or a fixed 90-minute cycle.
 
 ## Key Claims
 - Sleep is an active sequence of distinct brain states rather than passive rest.
@@ -72,14 +75,13 @@ The early dreaming episode supplies a simpler precursor to this later architectu
 - Truncation boundary - [[guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487]] explains why waking early can remove more REM than the lost fraction of total sleep suggests and rejects deliberate waking based on a fixed 90-minute rule.
 - Early functional split - [[understand-and-use-dreams-to-learn-and-forget-scim1662184463]] links early slow-wave sleep with motor and detail learning and later REM with vivid association, social meaning, atonia, and emotional processing.
 - Nightmare and cycle qualification - [[understand-and-use-dreams-to-learn-and-forget-scim1662184463]] proposes slow-wave nightmares and exact 90-minute waking multiples, claims that remain source-scoped against later stage and cycle evidence.
+- Condensed full-night account - [[scim3191061030-scim3191061030]] restates early deep non-REM and later REM timing while keeping the 90-minute cycle descriptive rather than prescriptive.
 
 ## Counterevidence & Qualifications
 The sources do not provide a clinical staging protocol or individualized treatment plan. Sleep architecture differs with age, illness, medication, shift work, chronotype, caregiving, pregnancy, sleep disorders, alcohol or other substances, and measurement method. Exact cycle counts and lengths, stage proportions, electrophysiology, stage-specific health effects, learning effect sizes, replay speeds, local spindle interpretation, dream-report percentages, PGO interpretation, tracker estimates, REM rebound, NSDR equivalence, bed-sensor accuracy, the VOL.109 two-hour cycle estimate, and the early episode's slow-wave-nightmare claim are source-scoped. Reduced adrenergic signaling during REM does not by itself prove that nightmares generally occur outside REM.
 
 ## What Changed
-- Added the early episode's slow-wave/REM learning map and REM-atonia account.
-- Kept the nominal 90-minute cycle descriptive rather than a personal waking rule.
-- Marked the episode's slow-wave-nightmare claim as conflicting with later REM-heavy evidence.
+- Clarified that the Essentials edit adds overlapping provenance, not independent evidence for stage-specific effects or a fixed cycle length.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account this concept makes more mechanistic.

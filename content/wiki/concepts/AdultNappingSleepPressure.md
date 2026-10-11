@@ -6,7 +6,8 @@ sources:
   - guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999
   - scim3745275899-scim3745275899
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
-last_updated: 2026-10-04
+  - scim3191061030-scim3191061030
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The source does not classify naps as uniformly healthy or harmful. A short nap n
 Nighttime sleep has priority when it is already fragile. A nap releases some accumulated sleep pressure, so late naps can delay sleep onset, increase nighttime waking, or make returning to sleep harder. People with insomnia are therefore advised to avoid naps as part of a broader clinical treatment logic, while people who sleep well at night can test an earlier nap and compare it with their baseline.
 
 The earlier Walker interview independently supports the same conditional judgment. It describes benefits across alertness, learning, memory, emotional regulation, cortisol, and cardiovascular measures, but pairs them with a short-duration and earlier-day preference, an insomnia exclusion, and the warning that every nap reduces some pressure available for nighttime sleep.
+
+The Essentials edit compresses that same interview into a 20-to-25-minute practical target, an earlier-day preference, and an insomnia-related warning. Its NASA figures and benefit claims are repeated from the full source, so they should not be counted as a separate replication.
 
 ## Key Claims
 - Nap value depends on the intended outcome, sleep stage reached, timing, and the person's nighttime sleep.
@@ -38,12 +41,13 @@ The earlier Walker interview independently supports the same conditional judgmen
 - Personal experiment - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] proposes moving a nap earlier for about two weeks and then returning to baseline to test whether the effect reverses.
 - Earlier corroboration - [[scim3745275899-scim3745275899]] reports broad possible nap benefits and a source-scoped NASA estimate while preserving the short, early, nighttime-sleep-first boundary.
 - Earliest individual-fit account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] presents roughly 20-to-60-minute naps as potentially useful while noting that some people wake groggy and should judge the practice by their own later sleep and functioning.
+- Condensed nap boundary - [[scim3191061030-scim3191061030]] restates short-duration, earlier-day, sleep-inertia, and nighttime-pressure guidance from the full Walker interview.
 
 ## Counterevidence & Qualifications
 The sources do not establish one nap duration for every goal or sleeper. Work schedules, caregiving, shift work, age, medications, sleep disorders, driving, and safety-critical work can change the tradeoff. The learning, emotion, cardiovascular, cortisol, immune, NASA, pilot, and productivity effect sizes remain source-scoped. Persistent insomnia or daytime sleepiness requires qualified assessment rather than nap optimization alone.
 
 ## What Changed
-- Extended provenance to an earlier conditional account that treats nap response and grogginess as individual rather than universally beneficial.
+- Clarified that the Essentials nap guidance overlaps the full Walker interview and does not independently validate its effect sizes.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing system in which nap placement affects the following night.
