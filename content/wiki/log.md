@@ -35580,3 +35580,11 @@ Added source `vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyan
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline
+
+Added source `the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661`; created [[PavelTsatsouline]], [[StrengthAsSkillPractice]], [[FatigueFragmentedTraining]], and [[AntiGlycolyticConditioning]]; and resynthesized [[LowRepetitionStrengthBlocks]] and [[FlexibilityNeuralSafetyGating]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: strength can be trained as neural and technical practice through a small stable movement menu, successful moderately heavy repetitions, controlled arousal, and distributed workloads, while conditioning and flexibility remain specific to the target pattern and current capacity. No settled contradiction was adopted. Load percentages, interval structures, maintenance doses, grip-longevity interpretation, fiber-type and cognitive mechanisms, and named-athlete, family, tactical, and kettlebell carryover examples remain source-scoped coaching claims rather than comparative or individualized evidence. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source, guest, and concept pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,455 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10356
+wiki_total_pages: 10359
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2285,6 +2285,9 @@ wiki_pages:
   - key: "AntiDetectiveFiction"
     title: "Anti-Detective Fiction"
     url: "/wiki/concepts/antidetectivefiction/"
+  - key: "AntiGlycolyticConditioning"
+    title: "Anti-Glycolytic Conditioning"
+    url: "/wiki/concepts/antiglycolyticconditioning/"
   - key: "AntiHeroicResistanceNarrative"
     title: "Anti-Heroic Resistance Narrative"
     url: "/wiki/concepts/antiheroicresistancenarrative/"

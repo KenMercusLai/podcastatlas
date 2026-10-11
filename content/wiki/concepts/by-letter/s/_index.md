@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10356
+wiki_total_pages: 10359
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2213,6 +2213,9 @@ wiki_pages:
   - key: "StrengthHypertrophyProgramming"
     title: "Strength and Hypertrophy Programming"
     url: "/wiki/concepts/strengthhypertrophyprogramming/"
+  - key: "StrengthAsSkillPractice"
+    title: "Strength as Skill Practice"
+    url: "/wiki/concepts/strengthasskillpractice/"
   - key: "StrengthBenchmarkTesting"
     title: "Strength Benchmark Testing / 力量基准测试"
     url: "/wiki/concepts/strengthbenchmarktesting/"

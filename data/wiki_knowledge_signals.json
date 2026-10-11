@@ -17041,6 +17041,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/antifund/"
     },
+    "AntiGlycolyticConditioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3681411661 [SCIM3681411661].md",
+          "key": "the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661",
+          "show": "Huberman Lab",
+          "title": "The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline",
+          "url": "/wiki/sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/antiglycolyticconditioning/"
+    },
     "AntiGravity": {
       "episode_count": 1,
       "show_count": 1,
@@ -88658,6 +88674,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/fatherlinnortheastmission/"
     },
+    "FatigueFragmentedTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3681411661 [SCIM3681411661].md",
+          "key": "the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661",
+          "show": "Huberman Lab",
+          "title": "The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline",
+          "url": "/wiki/sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/fatiguefragmentedtraining/"
+    },
     "FattyLiverCauseDirectedManagement": {
       "episode_count": 2,
       "show_count": 1,
@@ -92519,9 +92551,9 @@
       "url": "/wiki/entities/flavorman/"
     },
     "FlexibilityNeuralSafetyGating": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2453607831 [SCIM2453607831].md",
@@ -92536,9 +92568,16 @@
           "show": "Huberman Lab",
           "title": "Improve Flexibility with Research-Supported Stretching Protocols",
           "url": "/wiki/sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438/"
+        },
+        {
+          "episode_file": "SCIM3681411661 [SCIM3681411661].md",
+          "key": "the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661",
+          "show": "Huberman Lab",
+          "title": "The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline",
+          "url": "/wiki/sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/flexibilityneuralsafetygating/"
     },
     "FlexibleFrontierMilitaryDiscretion": {
@@ -163132,9 +163171,9 @@
       "url": "/wiki/concepts/lowlatencyinferencechip/"
     },
     "LowRepetitionStrengthBlocks": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7037527631 [SCIM7037527631].md",
@@ -163142,9 +163181,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM3681411661 [SCIM3681411661].md",
+          "key": "the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661",
+          "show": "Huberman Lab",
+          "title": "The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline",
+          "url": "/wiki/sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/lowrepetitionstrengthblocks/"
     },
     "LowResourceSpeechAIDevelopment": {
@@ -199173,6 +199219,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/paulineleon/"
+    },
+    "PavelTsatsouline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3681411661 [SCIM3681411661].md",
+          "key": "the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661",
+          "show": "Huberman Lab",
+          "title": "The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline",
+          "url": "/wiki/sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/paveltsatsouline/"
     },
     "PavlovsHouse": {
       "episode_count": 1,
@@ -247154,6 +247216,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/streltsy/"
+    },
+    "StrengthAsSkillPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3681411661 [SCIM3681411661].md",
+          "key": "the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661",
+          "show": "Huberman Lab",
+          "title": "The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline",
+          "url": "/wiki/sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/strengthasskillpractice/"
     },
     "StrengthBenchmarkTesting": {
       "episode_count": 1,

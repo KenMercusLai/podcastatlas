@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Correct Way to Build Strength, Endurance & Flexibility at Any Age | Pavel Tsatsouline](sources/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline-scim3681411661.md) — Huberman Lab conversation on strength as neural skill, submaximal practice, fatigue fragmentation, anti-glycolytic conditioning, flexibility, kettlebells, and long-term training.
 - [051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去](sources/lovpnvggvmrtfzpn9gvezhrg6xfo.md) — 纸醉金迷FM以《侠客行》三代人物讨论婚姻伤害、追求与适配、原生家庭、丧子后溺爱，以及亲情与公义冲突中的认罪和补偿边界。
 - [052 多情女偏爱薄情郎？金庸《侠客行》中的主角爱情](sources/ls96ywi2jdxmrffx9j5iu5qqct25.md) — 纸醉金迷FM以石破天、石中玉、丁当和阿秀讨论刺激、安全、情绪价值与关系判断，并把身份误认从喜剧推进为集体强加自我的心理威胁。
 - [053 科幻外衣下的社会寓言｜大话卫斯理之《头发》](sources/ljbtvkfckw2lb-nykriz05lq35wz.md) — 纸醉金迷FM重读倪匡《头发》，讨论外星流放、宗教使者、意识转移、永生欲望及创造者审判被创造者的伦理矛盾。
@@ -4536,6 +4537,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？](sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t.md) — 这病说来话长以生物等效性、治疗指数、剂型、特殊人群、监测与慢病稳定性建立仿制药替换的风险分层框架。
 
 ## Entities
+- [Pavel Tsatsouline](entities/PavelTsatsouline.md) — Strength coach framing force production as skilled neural practice supported by restrained fatigue, stable exercise selection, kettlebells, and specific conditioning.
 - [白自在 / Bai Zizai](entities/BaiZizai.md) — 以封闭环境中的自大、婚姻支配及遭遇强者后的认知修正展开的《侠客行》人物。
 - [史小翠 / Shi Xiaocui](entities/ShiXiaocui.md) — 以武功反制、旧日选择比较和最终回归呈现婚姻抗争与长期依恋的《侠客行》人物。
 - [丁不四 / Ding Busi](entities/DingBusi.md) — 对史小翠的爱、竞争与执念难分，同时对梅文馨母女缺乏责任的《侠客行》人物。
@@ -17842,6 +17844,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Strength as Skill Practice](concepts/StrengthAsSkillPractice.md) — Strength-training frame prioritizing neural coordination, technique, stable movements, successful submaximal repetitions, and controlled arousal.
+- [Fatigue-Fragmented Training](concepts/FatigueFragmentedTraining.md) — Workload-distribution strategy using small well-rested exposures to preserve technique and output while bounding acute fatigue.
+- [Anti-Glycolytic Conditioning](concepts/AntiGlycolyticConditioning.md) — Specific conditioning frame using brief submaximal efforts and generous recovery to postpone fatigue without treating discomfort as the primary goal.
 - [Socially Imposed Identity / 集体强加身份](concepts/SociallyImposedIdentity.md) — 集体证言和被分配的关系、罪责与义务迫使个人接受另一套人生叙事，而持续行为仍可抵抗这种认定。
 - [Romantic Stimulation–Security Tradeoff / 亲密关系中的刺激—安全权衡](concepts/RomanticStimulationSecurityTradeoff.md) — 区分调情、关注与即时情绪回报，同可靠、克制、修复和长期安全之间的关系权衡。
 - [Technologized Salvation / 技术化救赎](concepts/TechnologizedSalvation.md) — 科幻叙事把灵魂、转世、启示、审判和天堂转译为信息、筛选与运输机制，同时暴露操作者的合法性问题。

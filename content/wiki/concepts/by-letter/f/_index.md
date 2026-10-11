@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10356
+wiki_total_pages: 10359
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "FateChangeThroughVirtuePractice"
     title: "Fate Change Through Virtue Practice / 积善修心式改命"
     url: "/wiki/concepts/fatechangethroughvirtuepractice/"
+  - key: "FatigueFragmentedTraining"
+    title: "Fatigue-Fragmented Training"
+    url: "/wiki/concepts/fatiguefragmentedtraining/"
   - key: "FattyLiverCauseDirectedManagement"
     title: "Fatty Liver Cause-Directed Management"
     url: "/wiki/concepts/fattylivercausedirectedmanagement/"
