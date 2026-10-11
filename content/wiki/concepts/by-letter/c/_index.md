@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10428
+wiki_total_pages: 10430
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "CognitiveAdvisoryFeedback"
     title: "Cognitive-Advisory Feedback"
     url: "/wiki/concepts/cognitiveadvisoryfeedback/"
+  - key: "CognitiveProceduralLearningIntegration"
+    title: "Cognitive–Procedural Learning Integration"
+    url: "/wiki/concepts/cognitiveprocedurallearningintegration/"
   - key: "CoinRetirementEconomics"
     title: "Coin Retirement Economics"
     url: "/wiki/concepts/coinretirementeconomics/"

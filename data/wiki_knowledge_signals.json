@@ -12055,6 +12055,22 @@
       "updated": "2026-08-06",
       "url": "/wiki/concepts/algorithmiclabeling/"
     },
+    "AlgorithmicLevelOfBrainExplanation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2892046069 [SCIM2892046069].md",
+          "key": "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069",
+          "show": "Huberman Lab",
+          "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+          "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/algorithmiclevelofbrainexplanation/"
+    },
     "AlgorithmicOpportunityDistribution": {
       "episode_count": 1,
       "show_count": 1,
@@ -50072,6 +50088,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/cognitiveoffloading/"
+    },
+    "CognitiveProceduralLearningIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2892046069 [SCIM2892046069].md",
+          "key": "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069",
+          "show": "Huberman Lab",
+          "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+          "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/cognitiveprocedurallearningintegration/"
     },
     "CognitiveReappraisalEarlyIntervention": {
       "episode_count": 1,
@@ -126153,9 +126185,9 @@
       "url": "/wiki/concepts/humancareautomationboundary/"
     },
     "HumanCenteredAIAugmentation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5701398040 [SCIM5701398040].md",
@@ -126163,9 +126195,16 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "SCIM2892046069 [SCIM2892046069].md",
+          "key": "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069",
+          "show": "Huberman Lab",
+          "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+          "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/humancenteredaiaugmentation/"
     },
     "HumanCenteredAIEducation": {
@@ -232184,6 +232223,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/salesforce/"
     },
+    "SalkInstitute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2892046069 [SCIM2892046069].md",
+          "key": "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069",
+          "show": "Huberman Lab",
+          "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+          "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/salkinstitute/"
+    },
     "SallyHemings": {
       "episode_count": 1,
       "show_count": 1,
@@ -243310,9 +243365,9 @@
       "url": "/wiki/concepts/sleepnutritionbidirectionality/"
     },
     "SleepSpindleSchemaFormation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -243327,9 +243382,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
           "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
+        },
+        {
+          "episode_file": "SCIM2892046069 [SCIM2892046069].md",
+          "key": "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069",
+          "show": "Huberman Lab",
+          "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+          "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
@@ -259169,6 +259231,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/terryreal/"
+    },
+    "TerrySejnowski": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2892046069 [SCIM2892046069].md",
+          "key": "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069",
+          "show": "Huberman Lab",
+          "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+          "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/terrysejnowski/"
     },
     "TeslaOptimus": {
       "episode_count": 3,

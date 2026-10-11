@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3472
+topic_total_pages: 3473
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9630,6 +9630,9 @@ topic_sources:
   - key: "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815"
     title: "How to Accelerate Learning & Improve Education | Joe Liemandt"
     url: "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+  - key: "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069"
+    title: "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski"
+    url: "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
   - key: "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128"
     title: "How U.S. political campaigns have used generative AI"
     url: "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"

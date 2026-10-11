@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13339
+wiki_total_pages: 13341
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "TerryReal"
     title: "Terry Real"
     url: "/wiki/entities/terryreal/"
+  - key: "TerrySejnowski"
+    title: "Terry Sejnowski"
+    url: "/wiki/entities/terrysejnowski/"
   - key: "Tesla"
     title: "Tesla"
     url: "/wiki/entities/tesla/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10428
+wiki_total_pages: 10430
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1892,6 +1892,9 @@ wiki_pages:
   - key: "AlgorithmicLabeling"
     title: "Algorithmic Labeling"
     url: "/wiki/concepts/algorithmiclabeling/"
+  - key: "AlgorithmicLevelOfBrainExplanation"
+    title: "Algorithmic Level of Brain Explanation"
+    url: "/wiki/concepts/algorithmiclevelofbrainexplanation/"
   - key: "AlgorithmicMediaLiteracy"
     title: "Algorithmic Media Literacy / 算法媒介素养"
     url: "/wiki/concepts/algorithmicmedialiteracy/"

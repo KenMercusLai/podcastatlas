@@ -4606,6 +4606,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
+- [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
+
 ## Entities
 - [《大沙漠》 / The Great Desert](entities/GreatDesertGuLong.md) — 古龙楚留香小说，以沙漠冒险检验不杀原则、互补友情、直接爱情与反转的因果代价。
 - [胡铁花 / Hu Tiehua](entities/HuTiehua.md) — 以热烈、冲动、提问和明知不敌仍行动为楚留香三人组提供行动与情感温度的伙伴。
@@ -18013,6 +18015,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
+- [Terry Sejnowski](entities/TerrySejnowski.md) — Computational neuroscientist connecting brain algorithms, active learning, sleep, and human-centered AI partnership.
+- [Salk Institute](entities/SalkInstitute.md) — Research institution represented through Terry Sejnowski's computational neurobiology work.
+
 ## Concepts
 - [Principled Non-Killing Under Risk / 风险中的不杀原则](concepts/PrincipledNonKillingUnderRisk.md) — 在真实致命压力下保持不杀才构成原则，同时要求正视同伴风险、控制敌人与外部救场的责任。
 - [Complementary Friendship Roles / 互补型友情角色](concepts/ComplementaryFriendshipRoles.md) — 朋友以行动、准备、情感与协调等不同方式贡献，而不被要求用同一种性格证明忠诚。
@@ -28521,5 +28526,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Generic Drug Substitution Decision / 仿制药替换决策](concepts/GenericDrugSubstitutionDecision.md) — Risk-proportionate substitution framework joining equivalence evidence, therapeutic margin, formulation, patient context, consequences, monitoring, and treatment stability.
 - [Bioequivalence Evidence Boundary / 生物等效性证据边界](concepts/BioequivalenceEvidenceBoundary.md) — Distinguishes defined pharmacokinetic comparability from literal identity across composition, tissue effects, adverse effects, and every patient experience.
 - [Gender-Responsive Public Restroom Access / 性别响应式公共厕所可及性](concepts/GenderResponsivePublicRestroomAccess.md) — Public-health frame connecting toilet capacity, queue time, work and travel constraints, and gendered access to healthy toileting behavior.
+
+- [Algorithmic Level of Brain Explanation](concepts/AlgorithmicLevelOfBrainExplanation.md) — Computational bridge between biological neural mechanisms and goal-directed behavior.
+- [Cognitive–Procedural Learning Integration](concepts/CognitiveProceduralLearningIntegration.md) — Learning model joining explicit understanding, active practice, feedback, consolidation, and tool-use judgment.
 
 ## Syntheses

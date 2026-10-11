@@ -13930,6 +13930,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AlgorithmicLevelOfBrainExplanation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AlgorithmicTrustMigration": [
     {
       "key": "technology",
@@ -25192,6 +25199,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CognitiveProceduralLearningIntegration": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CognitiveReappraisalEarlyIntervention": [
@@ -77015,6 +77034,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SalkInstitute": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SalmonSushiMarketCreation": [
     {
       "key": "economics",
@@ -86417,6 +86443,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TerrySejnowski": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Tesla": [
@@ -103298,6 +103331,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801": [

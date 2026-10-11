@@ -36130,3 +36130,10 @@ Added source `040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-h
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski
+
+Added source `how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069`; created [[TerrySejnowski]], [[SalkInstitute]], [[AlgorithmicLevelOfBrainExplanation]], and [[CognitiveProceduralLearningIntegration]]; and resynthesized [[SleepSpindleSchemaFormation]] and [[HumanCenteredAIAugmentation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: an algorithmic level connects neural implementation to behavior through prediction, error correction, value updating, and sequence learning; explicit instruction and procedural practice are complementary; sleep and low-input incubation support but do not replace active effort; and AI is strongest as a hypothesis, evidence, or clinical partner under expert verification and accountability. No settled contradiction was adopted. The episode's study figures, drug and disease mechanisms, cognitive-reserve inference, traveling-wave causality, and brain-transformer parallels remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[LearningHowToLearn]], [[RewardPredictionErrorLearning]], and [[MemoryConsolidationWindows]] pages were kept closed because the focused source and topic pages capture the durable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,524 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

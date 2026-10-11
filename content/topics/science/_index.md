@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1569
+topic_total_pages: 1574
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -97,6 +97,9 @@ topic_concepts:
   - key: "AlchemyChemistryContinuity"
     title: "Alchemy-Chemistry Continuity / 炼金术与化学连续性"
     url: "/wiki/concepts/alchemychemistrycontinuity/"
+  - key: "AlgorithmicLevelOfBrainExplanation"
+    title: "Algorithmic Level of Brain Explanation"
+    url: "/wiki/concepts/algorithmiclevelofbrainexplanation/"
   - key: "AllModalMolecularWorldModel"
     title: "All-Modal Molecular World Model"
     url: "/wiki/concepts/allmodalmolecularworldmodel/"
@@ -448,6 +451,9 @@ topic_concepts:
   - key: "CognitiveResilience"
     title: "Cognitive Resilience"
     url: "/wiki/concepts/cognitiveresilience/"
+  - key: "CognitiveProceduralLearningIntegration"
+    title: "Cognitive–Procedural Learning Integration"
+    url: "/wiki/concepts/cognitiveprocedurallearningintegration/"
   - key: "CollectiveUnconscious"
     title: "Collective Unconscious / 集体无意识"
     url: "/wiki/concepts/collectiveunconscious/"
@@ -3350,6 +3356,9 @@ topic_entities:
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"
+  - key: "SalkInstitute"
+    title: "Salk Institute"
+    url: "/wiki/entities/salkinstitute/"
   - key: "SamerHattar"
     title: "Samer Hattar"
     url: "/wiki/entities/samerhattar/"
@@ -3434,6 +3443,9 @@ topic_entities:
   - key: "TedMiguel"
     title: "Ted Miguel"
     url: "/wiki/entities/tedmiguel/"
+  - key: "TerrySejnowski"
+    title: "Terry Sejnowski"
+    url: "/wiki/entities/terrysejnowski/"
   - key: "Texas"
     title: "Texas"
     url: "/wiki/entities/texas/"
@@ -4284,6 +4296,9 @@ topic_sources:
   - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
     title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
     url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+  - key: "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069"
+    title: "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski"
+    url: "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
   - key: "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801"
     title: "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg"
     url: "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"

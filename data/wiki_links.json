@@ -8707,6 +8707,10 @@
     "title": "Algorithmic Labeling",
     "url": "/wiki/concepts/algorithmiclabeling/"
   },
+  "AlgorithmicLevelOfBrainExplanation": {
+    "title": "Algorithmic Level of Brain Explanation",
+    "url": "/wiki/concepts/algorithmiclevelofbrainexplanation/"
+  },
   "AlgorithmicMediaLiteracy": {
     "title": "Algorithmic Media Literacy / 算法媒介素养",
     "url": "/wiki/concepts/algorithmicmedialiteracy/"
@@ -21074,6 +21078,10 @@
   "CognitiveOffloading": {
     "title": "Cognitive Offloading / 认知卸载",
     "url": "/wiki/concepts/cognitiveoffloading/"
+  },
+  "CognitiveProceduralLearningIntegration": {
+    "title": "Cognitive–Procedural Learning Integration",
+    "url": "/wiki/concepts/cognitiveprocedurallearningintegration/"
   },
   "CognitiveReappraisalEarlyIntervention": {
     "title": "Cognitive Reappraisal Early Intervention",
@@ -76491,6 +76499,10 @@
     "title": "Salinas Valley",
     "url": "/wiki/entities/salinasvalley/"
   },
+  "SalkInstitute": {
+    "title": "Salk Institute",
+    "url": "/wiki/entities/salkinstitute/"
+  },
   "SallyHemings": {
     "title": "Sally Hemings",
     "url": "/wiki/entities/sallyhemings/"
@@ -85370,6 +85382,10 @@
   "TerryReal": {
     "title": "Terry Real",
     "url": "/wiki/entities/terryreal/"
+  },
+  "TerrySejnowski": {
+    "title": "Terry Sejnowski",
+    "url": "/wiki/entities/terrysejnowski/"
   },
   "Tesla": {
     "title": "Tesla",
@@ -102842,6 +102858,10 @@
   "how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481": {
     "title": "How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión",
     "url": "/wiki/sources/how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481/"
+  },
+  "how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069": {
+    "title": "How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski",
+    "url": "/wiki/sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069/"
   },
   "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801": {
     "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",

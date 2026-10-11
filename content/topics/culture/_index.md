@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3443
+topic_total_pages: 3444
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -760,6 +760,9 @@ topic_concepts:
   - key: "CognitiveSurrender"
     title: "Cognitive Surrender"
     url: "/wiki/concepts/cognitivesurrender/"
+  - key: "CognitiveProceduralLearningIntegration"
+    title: "Cognitive–Procedural Learning Integration"
+    url: "/wiki/concepts/cognitiveprocedurallearningintegration/"
   - key: "CoinRetirementEconomics"
     title: "Coin Retirement Economics"
     url: "/wiki/concepts/coinretirementeconomics/"
