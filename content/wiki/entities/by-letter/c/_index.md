@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13192
+wiki_total_pages: 13193
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "CortecGroup"
     title: "Cortec Group"
     url: "/wiki/entities/cortecgroup/"
+  - key: "CosimoDeMedici"
+    title: "Cosimo de' Medici"
+    url: "/wiki/entities/cosimodemedici/"
   - key: "CosmicCrisp"
     title: "Cosmic Crisp"
     url: "/wiki/entities/cosmiccrisp/"

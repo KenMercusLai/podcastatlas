@@ -7,89 +7,74 @@ sources:
   - 575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489
   - 574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064
   - 573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252
+  - 572-the-medici-masters-of-florence-part-1-glt1413065864
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-The Florentine Republic / 佛罗伦萨共和国 was the formally republican but factionally, financially, and militarily unstable polity within which Medici informal succession, the Pazzi coup attempt, Lorenzo's personalized control, Savonarolan moral authority, wider council participation, foreign pressure, and Machiavelli's public service succeeded one another.
+The Florentine Republic / 佛罗伦萨共和国 was a guild-based republic whose rotating Signoria and emergency assemblies coexisted with elite faction, manipulated selection, banking power, informal Medici succession, popular violence, foreign pressure, wider post-1494 participation, Savonarolan moral authority, and Machiavelli's later public service.
 
 ## Current Profile
 
-The earlier source makes Florence the setting that turns [[ThePrince|《君主论》]] into historically grounded analysis. [[NiccoloMachiavelli|Machiavelli]] served the republic after [[GirolamoSavonarola|Savonarola]] fell, organizing military affairs and campaigning against Pisa before Medici restoration ended his office.
+The earliest episode gives the republic a more concrete institutional starting point. Guild membership conditioned officeholding; names drawn every two months formed an eight-member Signoria and a *gonfaloniere*; a great bell could summon a *parlamento*, which could establish an emergency *balia*. These devices dispersed authority in principle but could be captured when factions controlled candidate bags, guarded assemblies, or mobilized force.
 
-Part 2 shows how republican offices coexisted with family succession before Lorenzo. [[PieroTheGouty|Piero the Gouty]] used Milanese troops and armed pressure around Signoria elections after bank loan recalls divided Medici supporters. Loyalists installed [[LorenzoDeMedici|Lorenzo]] after Piero's death because wealthy private citizens were unsafe without control of the state.
+The Albizzi used that machinery to exile [[CosimoDeMedici|Cosimo de' Medici]] in 1433. A later Medici majority recalled him, and he then preserved republican forms while making officeholders dependent on his *amici*. Taxes, building permissions, banishment, confiscation, and Milanese troops supplied coercion behind quiet rule. Prosperity and cultural patronage therefore coexisted with diminished liberty before the better-known Lorenzo era.
 
-The 1478 [[PazziConspiracy|Pazzi conspiracy]] tested both personal and civic authority. The cathedral attack killed [[GiulianoDeMedici|Giuliano]] but not Lorenzo, while officials and citizens resisted an attempted seizure of the Palazzo della Signoria. That resistance did not make the aftermath lawful or restrained: crowds lynched about eighty people according to the episode, including innocents, before formal executions, banishment, confiscation, and symbolic erasure followed.
+[[PieroTheGouty|Piero the Gouty]] inherited this nonhereditary predominance, recalled bank loans, and used armed pressure around elections. [[LorenzoDeMedici|Lorenzo]] succeeded at twenty, survived the [[PazziConspiracy|Pazzi conspiracy]], and later concentrated legislation, appointments, and foreign policy through the Council of 70. The republic resisted a coup, but lynching, collective punishment, papal sanctions, invasion, shortages, and public-resource use blurred civic defense with factional rule.
 
-[[PopeSixtusIV|Pope Sixtus IV]] answered the killing of clergy and an archbishop with excommunication, interdict, asset seizure, and allied invasion. Shortage and bread riots show that an urban factional crisis could become a constitutional, economic, and interstate emergency.
+Currency weakness, bankruptcies, and a declining wool economy narrowed the base beneath Lorenzo's prestige without mechanically causing collapse. [[PieroDeMedici|Piero]] then accepted [[CharlesVIIIOfFrance|Charles VIII]]'s demands without authorization, and expulsion, confiscation, and civic reuse of Medici symbols staged recovery of public authority.
 
-Part 3 shows how republican form persisted while [[LorenzoDeMedici|Lorenzo de' Medici]] created the Council of 70 and concentrated legislation, appointments, and foreign policy. Exceptional personal security, election manipulation, cronyism, repression, and the use of public money for Medici liabilities made the distinction between private citizen and prince increasingly thin.
-
-The city also faced currency devaluation, bankruptcies, and a weakening wool economy. These conditions did not mechanically cause revolution, but they narrowed the foundation beneath Lorenzo's cultural and diplomatic prestige. Part 4 then shows why [[PieroDeMedici|Piero]]'s inherited position was awkward and his secret capitulation to [[CharlesVIIIOfFrance|Charles VIII]] intolerable to the Signoria. Expulsion, confiscation, and movement of art from family to civic space presented revolution as recovery of public authority.
-
-The post-1494 settlement dismantled Medici machinery and created a Venetian-style grand council with wider male participation. Savonarola supported it but could not join because he was a clergyman and not Florentine. His power was [[InformalReligiousPoliticalAuthority|informal]], mediated through sermons, reputation, supporters, and sympathetic decisions.
-
-The republic remained exposed to factional, military, papal, and economic pressure. It limited the boys' enforcement companies, stopped Savonarola preaching, survived his fall, and employed Machiavelli, but succumbed to a papal-backed Medici restoration in 1512.
+The post-1494 settlement created a Venetian-style grand council with wider male participation. [[GirolamoSavonarola|Savonarola]] supported it but exercised [[InformalReligiousPoliticalAuthority|informal authority]] through sermons, supporters, and reputation rather than office. The republic limited his youth companies, prohibited his preaching, survived his fall, and employed [[NiccoloMachiavelli|Machiavelli]], but succumbed to papal-backed Medici restoration in 1512.
 
 ## Key Characteristics
 
-- Formally republican polity that nonetheless permitted informal family succession and armed electoral pressure.
-- Civic institutions and citizens defeated the Pazzi coup after Lorenzo survived.
-- Public revenge and collective punishment blurred defense of government with extrajudicial violence.
-- Vulnerable to papal sanctions, invasion, shortage, and unrest after an internal factional crisis.
-- Institutions were later concentrated by Lorenzo through the Council of 70.
-- Public finance and political authority became entangled with Medici bank liabilities.
-- Governed through the Signoria and, after 1494, a wider grand council.
+- Guild-based polity using short Signoria terms, lot selection, a *gonfaloniere*, and emergency assemblies.
+- Republic whose anti-domination procedures could be captured through candidate control, guarded assemblies, clients, and force.
+- Economically and culturally productive city whose prosperity did not guarantee political liberty.
+- Formal state repeatedly dominated by private Medici succession from Cosimo through Lorenzo.
+- Civic order capable of resisting coups but also of extrajudicial revenge and collective punishment.
+- Polity vulnerable to papal sanctions, mercenary and foreign troops, invasion, fiscal strain, and faction.
+- Republic widened after 1494, then ended by Medici restoration in 1512.
 
 ## Evidence
 
-### Republican service and fragility
+### Institutions and Cosimo's managed republic
 
-- [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] links Machiavelli's work to invasion, mercenary risk, and Medici restoration.
+- [[572-the-medici-masters-of-florence-part-1-glt1413065864]] grounds guild eligibility, Signoria rotation, lot selection, *parlamento*, *balia*, the Albizzi prosecution, Cosimo's return, controlled elections, punitive administration, and Milanese force.
 
-### Lorenzo-era concentration and strain
+### Succession, coup, and Lorenzo-era concentration
 
 - [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] links bank-driven faction, armed electoral pressure, informal succession, the coup's civic defeat, retaliatory violence, interdict, war, shortage, and bread riots.
-- [[574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064]] links the Council of 70, private-citizen rule, repression, corruption, public money, devaluation, bankruptcies, and wool-market change.
+- [[574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064]] links the Council of 70, private-citizen rule, repression, public money, devaluation, bankruptcies, and wool-market change.
 
-### Recovery from informal family rule
+### Recovery, wider participation, and restoration
 
-- [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] follows rejection of Piero's concessions, expulsion, confiscation, and civic reuse of symbols.
-
-### Wider participation and dual authority
-
-- [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] grounds the grand council, wider eligibility, Savonarola's exclusion from office, and informal influence.
-
-### Institutional limits and restoration
-
-- [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] reports limits on youth enforcement, the preaching prohibition, factional conflict, and the 1512 return.
+- [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] follows Piero's capitulation into expulsion, a wider grand council, bounded Savonarolan influence, and the 1512 restoration.
+- [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] connects Machiavelli's republican work to invasion, mercenary risk, and Medici return.
 
 ## Qualifications
 
-The sources explain Lorenzo, Savonarola, and Machiavelli rather than supply a complete constitutional or economic history. The Council of 70's operation, Piero's 1466 coercion, coup participation, crowd victim count, papal authorization, transfer legality, economic causation, participation estimates, Signoria independence, factional balance, responsibility for coercive morality, and causes of the 1512 fall require specialist evidence. “Restoration” did not eliminate informal power or make participation universal.
+These sources provide selected narrative episodes rather than a complete constitutional, social, or economic history. Eligibility, participation, bag scrutiny, assembly intimidation, Signoria independence, public sentiment, exact coercive responsibility, crowd victim counts, papal authorization, public-money legality, economic causation, and the causes of the 1512 fall require specialist evidence. “Republic” did not mean universal participation, and “restoration” after 1494 did not eliminate informal power.
 
 ## What Changed
 
-- Extended the profile backward to Piero's electoral pressure and Lorenzo's informal succession.
-- Added the civic defeat of the Pazzi coup without treating subsequent lynching as legitimate justice.
-- Connected papal sanctions and invasion to shortages and bread riots inside Florence.
+- Added the guild, Signoria, *gonfaloniere*, *parlamento*, and *balia* structure preceding Medici dominance.
+- Extended informal family control backward from Piero and Lorenzo to Cosimo's post-1434 managed republic.
+- Added the Albizzi use of emergency machinery and Cosimo's later use of approved electoral bags and administrative pressure.
+- Made prosperity and cultural achievement explicit qualifications to, not substitutes for, political liberty.
 
 ## Relationships
 
-- [[HouseOfMedici|House of Medici / 美第奇家族]] - family expelled in 1494 and restored in 1512.
-- [[GirolamoSavonarola|Girolamo Savonarola / 萨沃纳罗拉]] - preacher whose influence operated outside office.
+- [[CosimoDeMedici|Cosimo de' Medici]] - private citizen who made its institutions serve durable informal rule.
+- [[HouseOfMedici|House of Medici / 美第奇家族]] - family that dominated, lost, and ultimately displaced the republic.
+- [[MediciBank|Medici Bank]] - private institution whose credit and later liabilities became political and public concerns.
+- [[PieroTheGouty|Piero the Gouty]] - informal successor who used armed pressure around elections.
+- [[LorenzoDeMedici|Lorenzo de' Medici]] - dominant citizen who further concentrated its institutions.
+- [[PazziConspiracy]] - assassination and government-seizure attempt defeated within the city.
 - [[PieroDeMedici|Piero de' Medici]] - successor whose capitulation triggered revolution.
-- [[CharlesVIIIOfFrance|Charles VIII of France]] - invader who destabilized family rule and independence.
-- [[PopeAlexanderVI|Pope Alexander VI]] - external authority that pressured the Signoria.
-- [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - official shaped by service and fall.
-- [[InformalReligiousPoliticalAuthority]] - framework for constitutional government and charismatic influence.
-- [[MachiavellianRealism]] - analysis grounded in changing regimes and foreign dependence.
-- [[LorenzoDeMedici|Lorenzo de' Medici]] - dominant citizen who concentrated its institutions.
-- [[MediciBank|Medici Bank]] - private financial institution whose liabilities reached public resources.
-- [[PoliticalMagnificenceStructuralFragility]] - framework for its coexistence of prestige and weakening foundations.
-- [[PieroTheGouty|Piero the Gouty]] - private family leader who used armed pressure around republican elections.
-- [[PazziFamily|Pazzi family]] - rival family whose plot and punishment tested civic justice.
-- [[PopeSixtusIV|Pope Sixtus IV]] - external authority who imposed spiritual and military pressure after the coup failed.
-- [[PazziConspiracy]] - assassination and government-seizure attempt defeated inside the republic.
+- [[GirolamoSavonarola|Girolamo Savonarola / 萨沃纳罗拉]] - preacher whose influence operated outside office.
+- [[InformalReligiousPoliticalAuthority]] - framework for the post-1494 coexistence of constitutional government and charismatic influence.
+- [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - official whose service and dismissal informed his political thought.
+- [[PoliticalMagnificenceStructuralFragility]] - framework for cultural prestige alongside institutional hollowing and economic strain.

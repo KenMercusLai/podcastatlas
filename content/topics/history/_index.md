@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2718
+topic_total_pages: 2719
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6615,6 +6615,9 @@ topic_sources:
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  - key: "572-the-medici-masters-of-florence-part-1-glt1413065864"
+    title: "572. The Medici: Masters of Florence (Part 1)"
+    url: "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
   - key: "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252"
     title: "573. The Medici: Lorenzo the Magnificent (Part 2)"
     url: "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"

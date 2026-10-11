@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3286
+topic_total_pages: 3288
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5774,6 +5774,9 @@ topic_entities:
   - key: "ConstitutionOf1793"
     title: "Constitution of 1793"
     url: "/wiki/entities/constitutionof1793/"
+  - key: "CosimoDeMedici"
+    title: "Cosimo de' Medici"
+    url: "/wiki/entities/cosimodemedici/"
   - key: "CostaRica"
     title: "Costa Rica"
     url: "/wiki/entities/costarica/"
@@ -8796,6 +8799,9 @@ topic_sources:
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  - key: "572-the-medici-masters-of-florence-part-1-glt1413065864"
+    title: "572. The Medici: Masters of Florence (Part 1)"
+    url: "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
   - key: "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252"
     title: "573. The Medici: Lorenzo the Magnificent (Part 2)"
     url: "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"

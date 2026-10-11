@@ -54724,6 +54724,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/cortisoltimingandburnout/"
     },
+    "CosimoDeMedici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1413065864 [GLT1413065864].md",
+          "key": "572-the-medici-masters-of-florence-part-1-glt1413065864",
+          "show": "The Rest Is History",
+          "title": "572. The Medici: Masters of Florence (Part 1)",
+          "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/cosimodemedici/"
+    },
     "CosmeticProcedureExpectationManagement": {
       "episode_count": 3,
       "show_count": 1,
@@ -92354,9 +92370,9 @@
       "url": "/wiki/entities/floramacdonald/"
     },
     "FlorentineRepublic": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -92385,6 +92401,13 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GLT1413065864 [GLT1413065864].md",
+          "key": "572-the-medici-masters-of-florence-part-1-glt1413065864",
+          "show": "The Rest Is History",
+          "title": "572. The Medici: Masters of Florence (Part 1)",
+          "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
         }
       ],
       "updated": "2026-10-11",
@@ -120943,9 +120966,9 @@
       "url": "/wiki/entities/houyinwesternhan/"
     },
     "HouseOfMedici": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -120974,6 +120997,13 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GLT1413065864 [GLT1413065864].md",
+          "key": "572-the-medici-masters-of-florence-part-1-glt1413065864",
+          "show": "The Rest Is History",
+          "title": "572. The Medici: Masters of Florence (Part 1)",
+          "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
         }
       ],
       "updated": "2026-10-11",
@@ -172587,9 +172617,9 @@
       "url": "/wiki/concepts/medicationselfcombinationrisk/"
     },
     "MediciBank": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -172604,6 +172634,13 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GLT1413065864 [GLT1413065864].md",
+          "key": "572-the-medici-masters-of-florence-part-1-glt1413065864",
+          "show": "The Rest Is History",
+          "title": "572. The Medici: Masters of Florence (Part 1)",
+          "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
         }
       ],
       "updated": "2026-10-11",
@@ -202351,9 +202388,9 @@
       "url": "/wiki/entities/pierodemedici/"
     },
     "PieroTheGouty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6599592252 [GLT6599592252].md",
@@ -202361,6 +202398,13 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GLT1413065864 [GLT1413065864].md",
+          "key": "572-the-medici-masters-of-florence-part-1-glt1413065864",
+          "show": "The Rest Is History",
+          "title": "572. The Medici: Masters of Florence (Part 1)",
+          "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
         }
       ],
       "updated": "2026-10-11",
@@ -204386,9 +204430,9 @@
       "url": "/wiki/concepts/politicalfuneral/"
     },
     "PoliticalMagnificenceStructuralFragility": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -204403,6 +204447,13 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GLT1413065864 [GLT1413065864].md",
+          "key": "572-the-medici-masters-of-florence-part-1-glt1413065864",
+          "show": "The Rest Is History",
+          "title": "572. The Medici: Masters of Florence (Part 1)",
+          "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
         }
       ],
       "updated": "2026-10-11",

@@ -6312,6 +6312,23 @@
       "url": "/topics/history/"
     }
   ],
+  "572-the-medici-masters-of-florence-part-1-glt1413065864": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252": [
     {
       "key": "economics",
@@ -26578,6 +26595,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CosimoDeMedici": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CosmeticProcedureExpectationManagement": [

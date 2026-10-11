@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [572. The Medici: Masters of Florence (Part 1)](sources/572-the-medici-masters-of-florence-part-1-glt1413065864.md) — The Rest Is History on Cosimo's banking network, exile and return, managed republican rule, Sforza alliance, patronage, and the tension between prosperity and liberty.
 - [Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya](sources/scim5646582763-scim5646582763.md) — Huberman Lab interview on NIH mission, high-variance and early-career funding, open access, replication incentives, chronic disease, and contested COVID-era trust repair.
 - [063 盗墓宇宙起点：趣话《鬼吹灯》之精绝古城](sources/063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lrazrty1g2wznlafy2v5wfhmjweq.md) — 纸醉金迷FM以沙漠远征、分层遗迹、尸香魔芋和真假预言重述《精绝古城》，并区分历史精绝、虚构王国与借真实线索为伪造证据背书的叙事误导。
 - [VOL.166创可贴OUT了：90%家庭都做错的伤口处理，你中招了吗？](sources/vol-166-chuangketie-out-le-90-jiating-dou-zuocuo-de-shangkou-chuli-ni-zhongzhao-le-ma-lt1afod5uo3x0z5qpw0xq8cvc8dr.md) — Sponsored 这病说来话长 episode on moist healing, hydrocolloid dressings, secondary wound disruption, exudate monitoring, and minor-wound escalation boundaries.
@@ -4517,13 +4518,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [Cosimo de' Medici](entities/CosimoDeMedici.md) — Banker and patron who made Medici power durable through credit, clients, controlled republican institutions, diplomacy, and cultural sponsorship.
 - [《精绝古城》 / The Ancient City of Jingjue](entities/JingjueAncientCityGhostBlowsOutTheLight.md) — 《鬼吹灯》首部探险，以沙漠求生、分层遗迹、真假预言和鬼洞诅咒建立铁三角及系列谜团。
 - [Piero the Gouty](entities/PieroTheGouty.md) — Lorenzo's father, who preserved informal Medici succession while confronting bank overextension and elite opposition.
 - [Giuliano de' Medici](entities/GiulianoDeMedici.md) — Lorenzo's brother and the successful murder target of the 1478 Pazzi conspiracy.
 - [Pope Sixtus IV](entities/PopeSixtusIV.md) — Pope whose financial and political conflict with Lorenzo preceded ambiguous conspiracy authorization and open war.
 - [Pazzi family](entities/PazziFamily.md) — Florentine banking rivals whose papal alliance and leading members' coup participation brought collective punishment.
 - [Lorenzo de' Medici](entities/LorenzoDeMedici.md) — Informal Florentine ruler whose diplomacy and cultural prestige concealed financial, institutional, and succession fragility.
-- [Medici Bank](entities/MediciBank.md) — Family bank whose branch failures and liabilities exposed weakness beneath Medici magnificence.
+- [Medici Bank](entities/MediciBank.md) — Papal-finance and credit network that enabled Medici political and cultural power before overextension, branch failures, and resource entanglement.
 - [Piero de' Medici](entities/PieroDeMedici.md) — Lorenzo's successor whose unauthorized concessions to Charles VIII precipitated the 1494 Medici expulsion.
 - [Charles VIII of France](entities/CharlesVIIIOfFrance.md) — French invader whose arrival toppled Medici rule and temporarily validated Savonarola's prophetic authority.
 - [Pope Alexander VI](entities/PopeAlexanderVI.md) — Pope who escalated jurisdictional and political pressure against Savonarola.
@@ -15032,8 +15034,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë](entities/TheJourneyToSfanomoe.md) — Poseidonis story used by episode 73 to connect Smith's lost-world fantasy with alien travel and transformation.
 - [《君主论》 / The Prince](entities/ThePrince.md) — Machiavelli's political manual read as both dangerous realism and an early model of modern political writing.
 - [《论李维》 / Discourses on Livy](entities/DiscoursesOnLivy.md) — Machiavelli's republican and Roman-historical text used to complicate clean modern-break or tyrant-adviser readings.
-- [Florentine Republic / 佛罗伦萨共和国](entities/FlorentineRepublic.md) — Machiavelli's republican service context, connecting Florence, military organization, mercenary risk, and the fall back to Medici power.
-- [House of Medici / 美第奇家族](entities/HouseOfMedici.md) — Renaissance Florentine family whose patronage, violence, return, and rule frame Machiavelli's exile and The Prince.
+- [Florentine Republic / 佛罗伦萨共和国](entities/FlorentineRepublic.md) — Guild-based republic whose rotating offices coexisted with factional capture, informal Medici succession, wider participation, and foreign pressure.
+- [House of Medici / 美第奇家族](entities/HouseOfMedici.md) — Banking and patronage family that converted credit and republican access into informal rule, lost it in 1494, and returned in 1512.
 - [Girolamo Savonarola / 萨沃纳罗拉](entities/GirolamoSavonarola.md) — Religious-political ruler of Florence used by episode 72 to show moral zeal, popular belief, and unstable political authority.
 - [Cesare Borgia / 凯撒·波吉亚](entities/CesareBorgia.md) — Renaissance power-seeker used by episode 72 as Machiavelli's vivid case for political capacity and controlled cruelty.
 - [Han Fei / 韩非](entities/HanFei.md) — Legalist thinker and Xunzi student whose branch spans Machiavelli comparison, ruler-technique stories, and the Qinji 110-2 contrast with Li Si.
@@ -17778,7 +17780,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [Moist Wound Healing and Hydrocolloid Dressings / 湿性愈合与水胶体敷料](concepts/MoistWoundHealingHydrocolloidDressing.md) — Minor-wound framework separating protected therapeutic moisture and hydrocolloid gel formation from contamination, infection, and wounds requiring qualified care.
 - [Pazzi Conspiracy](concepts/PazziConspiracy.md) — 1478 dual assassination and coup attempt whose failure strengthened Lorenzo and widened into papal-Neapolitan war.
-- [Political Magnificence and Structural Fragility](concepts/PoliticalMagnificenceStructuralFragility.md) — How spectacle, culture, and personalized control can sustain legitimacy while finance and institutions weaken beneath them.
+- [Political Magnificence and Structural Fragility](concepts/PoliticalMagnificenceStructuralFragility.md) — How prosperity, culture, display, and personalized control can create value and legitimacy while coercion, finance, and institutions weaken beneath them.
 - [Apocalyptic Prophecy and Crisis Legitimation](concepts/ApocalypticProphecyCrisisLegitimation.md) — Mechanism by which apparent fulfillment turns warning into authority and unmet extension or failed proof reverses it.
 - [Informal Religious-Political Authority](concepts/InformalReligiousPoliticalAuthority.md) — Influence exercised through preaching, reputation, followers, and institutional access without formal state office.
 - [性格中介的机缘 / Character-Mediated Fortune](concepts/CharacterMediatedFortune.md) — 区分偶然机会、性格化回应与超出行动者控制的后果，避免把命运简化为纯运气或德行奖赏。

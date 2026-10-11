@@ -4,50 +4,56 @@ type: entity
 tags: [person, renaissance, florence, banking, politics]
 sources:
   - 573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252
+  - 572-the-medici-masters-of-florence-part-1-glt1413065864
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Piero the Gouty was the son of Cosimo de' Medici, father of [[LorenzoDeMedici|Lorenzo de' Medici]], and short-lived head of the [[HouseOfMedici|House of Medici]] who preserved informal family predominance while confronting an overextended bank and elite opposition.
+Piero the Gouty was the son of [[CosimoDeMedici|Cosimo de' Medici]], father of [[LorenzoDeMedici|Lorenzo de' Medici]], and transitional head of the [[HouseOfMedici|House of Medici]] who inherited informal political leadership, confronted an overextended bank, and preserved family predominance through loan recalls and armed electoral pressure.
 
 ## Current Profile
 
-Piero inherited leadership after Cosimo's death even though Medici control of the [[FlorentineRepublic|Florentine Republic]] was not formally hereditary. The episode credits him with identifying overextension at the [[MediciBank|Medici Bank]] and recalling loans, but connects that action to client bankruptcies, a local financial shock, and division within the Medici party.
+Cosimo's final years locate Piero inside a succession plan before his own leadership began. As Cosimo's health declined, he asked Piero to manage political interests while another son, Giovanni, handled the bank. Giovanni's death left Piero as the surviving principal heir to a system that remained legally nonhereditary.
 
-In 1466 he relied on Milanese troops and armed pressure around Signoria elections to defeat opposition. His rule therefore preserved the family system while normalizing succession and coercion inside republican forms. He also continued artistic patronage and arranged Lorenzo's aristocratic marriage before his death in 1469.
+After Cosimo died in 1464, Piero inherited both the political network and the [[MediciBank|Medici Bank]]'s developing weakness. He identified overextension and recalled loans, but the measure contributed to client bankruptcies, a local financial shock, and division within the Medici party.
+
+In 1466 Piero relied on Milanese troops and armed pressure around Signoria elections to defeat opposition. His rule therefore transmitted Cosimo's external alliance and informal control while making coercive succession more visible. He continued cultural patronage and arranged Lorenzo's aristocratic marriage before his death in 1469.
 
 ## Key Characteristics
 
-- Transitional Medici leader between Cosimo and Lorenzo.
+- Designated political manager during Cosimo's declining health and surviving principal successor after Giovanni's death.
+- Transitional leader between Cosimo's consolidation and Lorenzo's youthful accession.
 - Diagnosed bank overextension but imposed losses through broad loan recalls.
-- Preserved informal family succession within a nonhereditary republic.
-- Used external military support and electoral pressure against opposition.
+- Preserved informal family succession inside a legally nonhereditary republic.
+- Used Milanese support and armed electoral pressure against opposition.
 - Continued patronage and pursued aristocratic marriage strategy for Lorenzo.
 
 ## Evidence
 
-### Banking and political continuity
+### Succession from Cosimo
 
-- [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] links overextension, loan recalls, bankruptcies, party division, Milanese troops, and the 1466 electoral confrontation.
+- [[572-the-medici-masters-of-florence-part-1-glt1413065864]] identifies Piero as Cosimo's political manager during ill health and places Giovanni's death before Cosimo's own death.
 
-### Dynasty and patronage
+### Banking, coercion, and transmission to Lorenzo
 
-- [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] connects Piero to Lorenzo's preparation, marriage, succession, and continued support for Donatello and Botticelli.
+- [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] links overextension, loan recalls, bankruptcies, party division, Milanese troops, the 1466 electoral confrontation, continued patronage, marriage strategy, and Lorenzo's succession.
 
 ## Qualifications
 
-This profile is grounded in one narrative podcast episode rather than bank records or a complete biography. The causes and scale of the financial shock, legality of election pressure, exact role of Milanese force, and balance between Piero's illness and political agency require specialist evidence. He is distinct from his grandson [[PieroDeMedici|Piero de' Medici]], Lorenzo's successor.
+This profile rests on two consecutive narrative podcast episodes rather than bank records or a complete biography. The division of responsibilities among Cosimo's sons, causes and scale of overextension, loan-recall effects, legality and exact role of Milanese force, and balance between Piero's illness and political agency require specialist evidence. He is distinct from his grandson [[PieroDeMedici|Piero de' Medici]], Lorenzo's successor.
 
 ## What Changed
 
-- Created a distinct profile separating Piero the Gouty from Lorenzo's son Piero.
-- Located Medici financial and coercive fragility before Lorenzo's accession.
+- Extended the profile backward to Cosimo's succession planning and Giovanni's death.
+- Connected later Milanese electoral pressure to the alliance inherited from Cosimo's era.
+- Clarified that Piero inherited both a durable political network and emerging financial weakness.
 
 ## Relationships
 
-- [[HouseOfMedici|House of Medici / 美第奇家族]] - family network he inherited and transmitted.
+- [[CosimoDeMedici|Cosimo de' Medici]] - father who assigned him political management and transmitted informal leadership.
+- [[HouseOfMedici|House of Medici / 美第奇家族]] - family network he inherited and passed onward.
 - [[LorenzoDeMedici|Lorenzo de' Medici]] - son prepared for and installed in informal leadership.
 - [[MediciBank|Medici Bank]] - overextended institution whose loans he recalled.
 - [[FlorentineRepublic|Florentine Republic / 佛罗伦萨共和国]] - republic whose elections he pressured while remaining a private family leader.

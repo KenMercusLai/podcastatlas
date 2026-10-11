@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2247
+topic_total_pages: 2249
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3854,6 +3854,9 @@ topic_entities:
   - key: "CortecGroup"
     title: "Cortec Group"
     url: "/wiki/entities/cortecgroup/"
+  - key: "CosimoDeMedici"
+    title: "Cosimo de' Medici"
+    url: "/wiki/entities/cosimodemedici/"
   - key: "CoventryLifeSettlements"
     title: "Coventry (life settlements)"
     url: "/wiki/entities/coventrylifesettlements/"
@@ -5973,6 +5976,9 @@ topic_sources:
   - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
     title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
     url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+  - key: "572-the-medici-masters-of-florence-part-1-glt1413065864"
+    title: "572. The Medici: Masters of Florence (Part 1)"
+    url: "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
   - key: "573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252"
     title: "573. The Medici: Lorenzo the Magnificent (Part 2)"
     url: "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"

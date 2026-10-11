@@ -35429,3 +35429,13 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 572. The Medici: Masters of Florence (Part 1)
+
+Added source `572-the-medici-masters-of-florence-part-1-glt1413065864`; created [[CosimoDeMedici|Cosimo de' Medici]]; and resynthesized [[HouseOfMedici|House of Medici / 美第奇家族]], [[MediciBank|Medici Bank]], [[FlorentineRepublic|Florentine Republic / 佛罗伦萨共和国]], [[PieroTheGouty|Piero the Gouty]], and [[PoliticalMagnificenceStructuralFragility]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Cosimo converted papal finance, credit, *amici*, electoral control, the Sforza alliance, and religious and cultural patronage into durable informal rule that made Florence prosperous and magnificent while narrowing republican liberty; the bank's later weakness therefore followed an earlier period of real reach and power. No settled contradiction was adopted. Population, slavery, profit, interest, election mechanics, public enthusiasm, council finance, patronage motives, Platonic revival, and art-historical claims remain source-scoped. Broad supporting-actor pages were kept closed because the focused source, principal leader, family, bank, polity, successor, and existing mechanism capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,437 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
