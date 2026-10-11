@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [574. The Medici: Curse of the Mad Monk (Part 3)](sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064.md) — The Rest Is History on Lorenzo's magnificent but financially fragile rule and Savonarola's reformist, apocalyptic formation.
 - [VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙](sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h.md) — Sponsored 这病说来话长 episode on retinol evidence, whole-formulation selection, gradual tolerance, barrier support, ultraviolet protection, and pregnancy boundaries.
 - [575. The Medici: The Bonfire of the Vanities (Part 4)](sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489.md) — The Rest Is History on the 1494 Medici collapse, Savonarola's informal authority, moral reform, papal conflict, failed ordeal, and execution.
 - [Essentials: How to Control Your Sense of Pain & Pleasure](sources/scim4795280888-scim4795280888.md) — Condensed Huberman Lab episode on context-sensitive pain, anticipation and circadian effects, qualified pain tools, dopamine pursuit, and pleasure-pain adaptation.
@@ -4510,6 +4511,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [Lorenzo de' Medici](entities/LorenzoDeMedici.md) — Informal Florentine ruler whose diplomacy and cultural prestige concealed financial, institutional, and succession fragility.
+- [Medici Bank](entities/MediciBank.md) — Family bank whose branch failures and liabilities exposed weakness beneath Medici magnificence.
 - [Piero de' Medici](entities/PieroDeMedici.md) — Lorenzo's successor whose unauthorized concessions to Charles VIII precipitated the 1494 Medici expulsion.
 - [Charles VIII of France](entities/CharlesVIIIOfFrance.md) — French invader whose arrival toppled Medici rule and temporarily validated Savonarola's prophetic authority.
 - [Pope Alexander VI](entities/PopeAlexanderVI.md) — Pope who escalated jurisdictional and political pressure against Savonarola.
@@ -17760,6 +17763,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Political Magnificence and Structural Fragility](concepts/PoliticalMagnificenceStructuralFragility.md) — How spectacle, culture, and personalized control can sustain legitimacy while finance and institutions weaken beneath them.
 - [Apocalyptic Prophecy and Crisis Legitimation](concepts/ApocalypticProphecyCrisisLegitimation.md) — Mechanism by which apparent fulfillment turns warning into authority and unmet extension or failed proof reverses it.
 - [Informal Religious-Political Authority](concepts/InformalReligiousPoliticalAuthority.md) — Influence exercised through preaching, reputation, followers, and institutional access without formal state office.
 - [性格中介的机缘 / Character-Mediated Fortune](concepts/CharacterMediatedFortune.md) — 区分偶然机会、性格化回应与超出行动者控制的后果，避免把命运简化为纯运气或德行奖赏。

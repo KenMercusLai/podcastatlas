@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10334
+wiki_total_pages: 10335
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "PoliticalInformationLatency"
     title: "Political Information Latency"
     url: "/wiki/concepts/politicalinformationlatency/"
+  - key: "PoliticalMagnificenceStructuralFragility"
+    title: "Political Magnificence and Structural Fragility"
+    url: "/wiki/concepts/politicalmagnificencestructuralfragility/"
   - key: "PoliticalMarriageAllianceDepreciation"
     title: "Political Marriage Alliance Depreciation / 政治婚姻联盟折价"
     url: "/wiki/concepts/politicalmarriagealliancedepreciation/"

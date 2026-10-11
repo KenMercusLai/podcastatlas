@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3278
+topic_total_pages: 3281
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6785,6 +6785,9 @@ topic_entities:
   - key: "LordSalisbury"
     title: "Lord Salisbury"
     url: "/wiki/entities/lordsalisbury/"
+  - key: "LorenzoDeMedici"
+    title: "Lorenzo de' Medici"
+    url: "/wiki/entities/lorenzodemedici/"
   - key: "LosAngeles"
     title: "Los Angeles"
     url: "/wiki/entities/losangeles/"
@@ -6911,6 +6914,9 @@ topic_entities:
   - key: "May1968France"
     title: "May 1968 in France"
     url: "/wiki/entities/may1968france/"
+  - key: "MediciBank"
+    title: "Medici Bank"
+    url: "/wiki/entities/medicibank/"
   - key: "MehdiBazargan"
     title: "Mehdi Bazargan"
     url: "/wiki/entities/mehdibazargan/"
@@ -8778,6 +8784,9 @@ topic_sources:
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  - key: "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064"
+    title: "574. The Medici: Curse of the Mad Monk (Part 3)"
+    url: "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
   - key: "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489"
     title: "575. The Medici: The Bonfire of the Vanities (Part 4)"
     url: "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"

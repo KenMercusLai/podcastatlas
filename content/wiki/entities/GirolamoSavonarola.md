@@ -5,17 +5,22 @@ tags: [person, religion, politics, florence, renaissance]
 sources:
   - 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837
   - 575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489
+  - 574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Girolamo Savonarola / 萨沃纳罗拉 was a Dominican preacher whose warnings appeared confirmed by French invasion and Medici collapse, giving him exceptional but informal authority in the restored [[FlorentineRepublic|Florentine Republic]] before papal conflict, material crisis, failed prophecy, and a collapsed ordeal destroyed his position.
+Girolamo Savonarola / 萨沃纳罗拉 was a Dominican preacher formed by reformist zeal and late-fifteenth-century apocalyptic culture whose warnings appeared confirmed by French invasion and Medici collapse, giving him exceptional but informal authority in the restored [[FlorentineRepublic|Florentine Republic]] before papal conflict, material crisis, failed prophecy, and a collapsed ordeal destroyed his position.
 
 ## Current Profile
 
-The earlier bounded source uses Savonarola as a warning about popular belief and unstable moral rule: severe reform, destruction of vanities, and eventual execution illustrate the gap between zeal and durable order. The newer episode adds institutional detail that qualifies the image of an all-controlling theocrat.
+One bounded source uses Savonarola as a warning about popular belief and unstable moral rule: severe reform, destruction of vanities, and eventual execution illustrate the gap between zeal and durable order. Part 4 adds institutional detail that qualifies the image of an all-controlling theocrat. Part 3 supplies the preceding formation rather than treating his later authority as sudden.
+
+Born in Ferrara in 1452 and educated in humanist subjects, Savonarola entered the Dominicans after condemning worldly and ecclesiastical corruption. His first period at San Marco combined teaching with unsuccessful preaching; in San Gimignano he found an apocalyptic style centered on sin, the Antichrist, punishment, and the end times. Ottoman fear, print, Dominican reform, and existing attacks on luxury gave that style a receptive cultural field.
+
+He returned to Florence in 1490 at [[LorenzoDeMedici|Lorenzo de' Medici]]'s invitation for reasons the source leaves uncertain. Vivid sermons and attacks on poetry, philosophy, sensual religious art, and elite luxury attracted the Piagnoni and made moral reform into cultural opposition. Claims that romantic rejection or sexual frustration explain this development remain explicit speculation.
 
 Savonarola predicted punishment, hunger, plague, and war before [[CharlesVIIIOfFrance|Charles VIII]] entered Italy. Because intervention was foreseeable, the episode does not force a choice between miracle and fraud. Prophetic imagery, probable sincerity, negotiation with Charles, and the bloodless fall of the [[HouseOfMedici|Medici]] combined to make him Florence's moral hero.
 
@@ -25,7 +30,7 @@ Savonarola held no Florentine office, could not join the council, and is not sho
 
 ## Key Characteristics
 
-- Apocalyptic preacher whose warnings gained credibility through apparent fulfillment.
+- Apocalyptic preacher who adapted existing reform and end-times traditions before his warnings gained credibility through apparent fulfillment.
 - Probably sincere religious actor rather than a purely cynical manipulator.
 - Informal leader who influenced reform without holding civic office.
 - Advocate of poor relief and wider participation alongside severe moral regulation.
@@ -37,8 +42,13 @@ Savonarola held no Florentine office, could not join the council, and is not sho
 
 ### Belief, crisis, and authority
 
+- [[574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064]] traces failed early preaching, the San Gimignano apocalyptic turn, growing Florentine popularity, and the black-cross vision.
 - [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] connects warnings, French arrival, negotiation, and Medici collapse to his rise as prophet and mediator.
 - [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] uses his rise and fall to show that popular belief can produce power without stability.
+
+### Formation and cultural revolt
+
+- [[574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064]] links Dominican reform, anticorruption zeal, Ottoman anxiety, printed apocalypse, attacks on luxury, and the Piagnoni following.
 
 ### Reform and coercion
 
@@ -55,14 +65,13 @@ Savonarola held no Florentine office, could not join the council, and is not sho
 
 ## Qualifications
 
-The sources are interpretive podcast treatments rather than a complete documentary biography. Informal influence was extensive, but the Signoria, council, factions, religious orders, pope, and crowd retained agency. Sincerity cannot be proven from conduct alone. His responsibility for punishments, the items burned, voluntariness of participation, torture statements, and Reformation significance remain source-scoped.
+The sources are interpretive podcast treatments rather than a complete documentary biography. Informal influence was extensive, but the Signoria, council, factions, religious orders, pope, and crowd retained agency. Sincerity cannot be proven from conduct alone. Proposed romantic or sexual causes, Lorenzo's motives for recalling him, exact sermon chronology, responsibility for punishments, the items burned, voluntariness of participation, torture statements, and Reformation significance remain speculative or source-scoped. The deathbed-liberty demand is treated as invented.
 
 ## What Changed
 
-- Replaced a simple severe-ruler profile with a distinction between informal authority and formal state control.
-- Added the mechanism by which foreseeable invasion could sincerely validate apocalyptic prophecy.
-- Balanced welfare and participatory reforms against coercive moral regulation.
-- Added papal conflict, failed ordeal, refusal of bloodshed, execution, and Protestant afterlife.
+- Added Dominican, humanist, apocalyptic, and anticorruption formation before Savonarola's political rise.
+- Added the transition from failed preacher to leader of a cultural revolt against elite luxury.
+- Marked psychosexual explanations, Lorenzo's recall motives, and the deathbed story as speculative or rejected.
 
 ## Relationships
 
@@ -75,3 +84,4 @@ The sources are interpretive podcast treatments rather than a complete documenta
 - [[InformalReligiousPoliticalAuthority]] - authority form distinguishing influence from office.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - later analyst whose skepticism is qualified by probable sincerity.
 - [[MachiavellianRealism]] - framework for belief, power, and durability complicated by the new source.
+- [[LorenzoDeMedici|Lorenzo de' Medici]] - ruler who recalled him to Florence and whose death preceded his prophetic breakthrough.

@@ -17838,9 +17838,9 @@
       "url": "/wiki/concepts/apobparticleburden/"
     },
     "ApocalypticProphecyCrisisLegitimation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2280694489 [GLT2280694489].md",
@@ -17848,6 +17848,13 @@
           "show": "The Rest Is History",
           "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
           "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
+        },
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
         }
       ],
       "updated": "2026-10-11",
@@ -92312,9 +92319,9 @@
       "url": "/wiki/entities/floramacdonald/"
     },
     "FlorentineRepublic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -92329,6 +92336,13 @@
           "show": "The Rest Is History",
           "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
           "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
+        },
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
         }
       ],
       "updated": "2026-10-11",
@@ -103329,9 +103343,9 @@
       "url": "/wiki/entities/giorgiovasari/"
     },
     "GirolamoSavonarola": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -103346,6 +103360,13 @@
           "show": "The Rest Is History",
           "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
           "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
+        },
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
         }
       ],
       "updated": "2026-10-11",
@@ -120857,9 +120878,9 @@
       "url": "/wiki/entities/houyinwesternhan/"
     },
     "HouseOfMedici": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -120874,6 +120895,13 @@
           "show": "The Rest Is History",
           "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
           "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
+        },
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
         }
       ],
       "updated": "2026-10-11",
@@ -161278,6 +161306,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/lordsappellant/"
     },
+    "LorenzoDeMedici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/lorenzodemedici/"
+    },
     "LoriGottlieb": {
       "episode_count": 2,
       "show_count": 2,
@@ -172388,6 +172432,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/medicationselfcombinationrisk/"
+    },
+    "MediciBank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/medicibank/"
     },
     "MedievalFemaleAsceticAuthority": {
       "episode_count": 1,
@@ -204063,6 +204123,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/politicalfuneral/"
+    },
+    "PoliticalMagnificenceStructuralFragility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6193985064 [GLT6193985064].md",
+          "key": "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064",
+          "show": "The Rest Is History",
+          "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+          "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/politicalmagnificencestructuralfragility/"
     },
     "PoliticalMarriageAllianceDepreciation": {
       "episode_count": 3,

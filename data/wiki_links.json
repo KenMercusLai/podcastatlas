@@ -3691,6 +3691,10 @@
     "title": "570. Hannibal: The Invasion of Italy (Part 3)",
     "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
   },
+  "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064": {
+    "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
+    "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+  },
   "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489": {
     "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
     "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
@@ -54127,6 +54131,10 @@
     "title": "Lords Appellant",
     "url": "/wiki/entities/lordsappellant/"
   },
+  "LorenzoDeMedici": {
+    "title": "Lorenzo de' Medici",
+    "url": "/wiki/entities/lorenzodemedici/"
+  },
   "LoriGoodman": {
     "title": "Lori Goodman",
     "url": "/wiki/entities/lorigoodman/"
@@ -57542,6 +57550,10 @@
   "MedicationSelfCombinationRisk": {
     "title": "Medication Self-Combination Risk / 药物自行叠加风险",
     "url": "/wiki/concepts/medicationselfcombinationrisk/"
+  },
+  "MediciBank": {
+    "title": "Medici Bank",
+    "url": "/wiki/entities/medicibank/"
   },
   "MedicineAsWaySeeking": {
     "title": "Medicine As Way-Seeking / 以医入道",
@@ -67806,6 +67818,10 @@
   "PoliticalInformationLatency": {
     "title": "Political Information Latency",
     "url": "/wiki/concepts/politicalinformationlatency/"
+  },
+  "PoliticalMagnificenceStructuralFragility": {
+    "title": "Political Magnificence and Structural Fragility",
+    "url": "/wiki/concepts/politicalmagnificencestructuralfragility/"
   },
   "PoliticalMarriageAllianceDepreciation": {
     "title": "Political Marriage Alliance Depreciation / 政治婚姻联盟折价",

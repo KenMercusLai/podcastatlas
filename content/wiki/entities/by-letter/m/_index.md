@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13183
+wiki_total_pages: 13185
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "Medicare"
     title: "Medicare"
     url: "/wiki/entities/medicare/"
+  - key: "MediciBank"
+    title: "Medici Bank"
+    url: "/wiki/entities/medicibank/"
   - key: "MEDICUBE"
     title: "MEDICUBE"
     url: "/wiki/entities/medicube/"

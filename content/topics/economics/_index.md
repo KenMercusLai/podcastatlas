@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2241
+topic_total_pages: 2243
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2389,6 +2389,9 @@ topic_concepts:
   - key: "PoliticalInformationLatency"
     title: "Political Information Latency"
     url: "/wiki/concepts/politicalinformationlatency/"
+  - key: "PoliticalMagnificenceStructuralFragility"
+    title: "Political Magnificence and Structural Fragility"
+    url: "/wiki/concepts/politicalmagnificencestructuralfragility/"
   - key: "PoliticalMemeStock"
     title: "Political Meme Stock"
     url: "/wiki/concepts/politicalmemestock/"
@@ -4628,6 +4631,9 @@ topic_entities:
   - key: "MedallionFund"
     title: "Medallion Fund"
     url: "/wiki/entities/medallionfund/"
+  - key: "MediciBank"
+    title: "Medici Bank"
+    url: "/wiki/entities/medicibank/"
   - key: "MehmetSimsek"
     title: "Mehmet Simsek"
     url: "/wiki/entities/mehmetsimsek/"

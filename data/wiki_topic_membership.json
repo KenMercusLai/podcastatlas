@@ -6298,6 +6298,18 @@
       "url": "/topics/history/"
     }
   ],
+  "574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489": [
     {
       "key": "history",
@@ -55755,6 +55767,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "LorenzoDeMedici": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LoriGottlieb": [
     {
       "key": "science",
@@ -58749,6 +58768,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MediciBank": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MedicineAsWaySeeking": [
@@ -68685,6 +68716,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalMagnificenceStructuralFragility": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "PoliticalMartyrEmulation": [
