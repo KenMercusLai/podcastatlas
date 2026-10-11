@@ -35375,3 +35375,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则
+
+Added source `064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn`; created [[TheLycheeRoadNovel|《长安的荔枝》小说]], [[LiShande|李善德]], and [[PrestigeSupplyChainCostExternalization|声望供应链成本外部化]]; and resynthesized [[MaBoyong|马伯庸]] and [[DuFu|杜甫]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the fresh-litchi mission becomes feasible through calculation, experiment, merchant capital, permits, official pressure, and relay labor, but technical success hides a prestige supply chain whose livelihood and mortality costs are shifted downward; Li Shande's moral arc therefore runs from bureaucratic victim through adaptive complicity to contested refusal. No settled contradiction was adopted. Tang institutional details, private motives, the realism of Li's defiance, A-tong's feelings, authorial intention, and pre-release adaptation expectations remain source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], Tang-history, and film pages were kept closed because the focused source, novel, character, author, poet, and mechanism pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,431 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

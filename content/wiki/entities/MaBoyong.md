@@ -7,6 +7,7 @@ sources:
   - 114-zai-shiliao-zhong-wajue-mixin-maboyong-zuixin-zuopin-qinershi-bixusi-lkgah7ss4dd7-vs6o5tdeuiq-fjl
   - 108-quhua-maboyong-taibai-jinxing-youdianfan-p4-shijian-duoshao-baihuaxiu-lt0tfpkc85hf4dpii7ntrevjtb9n
   - 068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0
+  - 064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -15,7 +16,7 @@ last_updated: 2026-10-11
 
 ## Overview
 
-马伯庸 / Ma Boyong is the author of [[QinErshiMustDie|《秦二世必须死》]], [[TaibaiJinxingYouDianFan|《太白金星有点烦》]], and [[TaohuayuanMeishi|《桃花源没事》]], discussed by [[ZhiZuiJinMiFM|纸醉金迷FM]] through historical constraint, institutional storytelling, suspense, satire, social inequality, and moral choice.
+马伯庸 / Ma Boyong is the author of [[QinErshiMustDie|《秦二世必须死》]], [[TaibaiJinxingYouDianFan|《太白金星有点烦》]], [[TaohuayuanMeishi|《桃花源没事》]], and [[TheLycheeRoadNovel|《长安的荔枝》]], discussed by [[ZhiZuiJinMiFM|纸醉金迷FM]] through historical constraint, institutional storytelling, suspense, satire, social inequality, and moral choice.
 
 ## Current Profile
 
@@ -27,15 +28,17 @@ The [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] episode broadens thi
 
 The contemporary fantasy-mystery version of this institutional interest appears in [[TaohuayuanMeishi|《桃花源没事》]]. Local Daoist administration, monster registration, schooling, housing, medicine, narcotics-style enforcement, and unequal cultivation resources turn inherited literary figures into a social system. The hosts treat the novel's final convergence of a thunder curse, protective coin, position-switching bracelet, and addictive elixir as exceptionally neat [[NarrativeSetupAndPayoff|setup and payoff]], but they also sharpen the existing criticism: heavily marked clues can make reversals obvious, and some characters or emotional transitions function more as theme and plot tools than as fully developed people.
 
+The most compact version of this pattern appears in [[TheLycheeRoadNovel|《长安的荔枝》]]. A numerate lower official must turn an impossible fresh-litchi demand into experiments, route design, finance, permits, and relay coordination, only to discover that feasibility hides [[PrestigeSupplyChainCostExternalization|livelihood and mortality costs]] borne by people far from court. The hosts think the novella's medium length suits Ma Boyong's idea-driven plotting, while again qualifying tonal humor, women-character interpretation, and the realism of a morally elevated ending.
+
 ## Key Characteristics
 
 - Builds long plots from pursuit, crisis, conspiracy, escape, and reversal.
 - Uses research on institutions, transport, offices, geography, and daily life to make settings operational.
 - Uses chapter-title wordplay and layered conceptual structures to connect plot to theme.
 - Places invented action inside known historical outcomes or recombined mythic and literary systems.
-- Often gives institutional change a small-person or lower-level administrative viewpoint.
+- Often gives institutional change a small-person or lower-level administrative viewpoint, tracing who supplies resources, absorbs risk, and pays for elite outcomes.
 - Combines popular genre momentum with explicit historical, political, and ethical questions, including whether public moral language survives departmental interest and personal cost.
-- Is praised for storytelling and prepared climaxes but criticized for conspicuous clues, some motives and women characters, thin romance, aphorisms, tonal humor, and lengthy setup.
+- Is praised for storytelling, compact invention, and prepared climaxes but criticized for conspicuous clues, some motives and women characters, thin romance, aphorisms, tonal humor, and overextended setup.
 
 ## Evidence
 
@@ -64,22 +67,26 @@ The contemporary fantasy-mystery version of this institutional interest appears 
 
 - [[068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0]] links fantasy administration to unequal education, medicine, wealth, and cultivation resources, while praising the climax's object-chain and criticizing obvious clues, symbolic characterization, and overlong preparation.
 
+### Compact systems narrative and externalized cost
+
+- [[064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn]] reads a fresh-litchi mission as a technical, bureaucratic, and moral system while preserving disagreement over realism, character interpretation, humor, and adaptation risk.
+
 ## Qualifications
 
-This profile rests on four podcast episodes centered on three novels and comparisons with a small selection of other works. It records the hosts' critical judgments, not verified authorial intention, a complete bibliography, or reception consensus. Claims about screen-adaptation potential are predictions rather than production evidence, the Baoxiang discussion is one installment in a continuing interpretation rather than a full assessment of 《太白金星有点烦》, and the 《桃花源没事》 profile comes from a spoiler-heavy retelling rather than an independent full-text study.
+This profile rests on five podcast episodes centered on four novels and comparisons with a small selection of other works. It records the hosts' critical judgments, not verified authorial intention, a complete bibliography, or reception consensus. Claims about screen-adaptation potential are predictions rather than production evidence, the Baoxiang discussion is one installment in a continuing interpretation rather than a full assessment of 《太白金星有点烦》, and the 《桃花源没事》 and 《长安的荔枝》 profiles come from spoiler-heavy retellings rather than independent full-text studies.
 
 ## What Changed
 
-- Broadened the profile from historically constrained fiction to mythic institutional satire through 《太白金星有点烦》.
-- Added consent, costly moral action, and procedural leverage as features of the bounded institutional storytelling.
-- Added resource inequality, administrative neglect, and conditional utopia through 《桃花源没事》.
-- Qualified the suspense profile by separating elegant final payoff from clue concealment and character development.
+- Added the compact logistics novella as a case where technical feasibility exposes rather than resolves moral cost.
+- Added prestige-supply-chain externalization and the lower official's complicity as central institutional-storytelling mechanisms.
+- Qualified the praise for compact invention with continuing disputes over tonal humor, women-character interpretation, and idealized resistance.
 
 ## Relationships
 
 - [[QinErshiMustDie|《秦二世必须死》]] - novel organizing the bounded profile.
 - [[TaibaiJinxingYouDianFan|《太白金星有点烦》]] - novel extending the profile into mythic bureaucracy and ethical rescue.
 - [[TaohuayuanMeishi|《桃花源没事》]] - novel extending the profile into fantasy policing, resource inequality, and reconstructed utopia.
+- [[TheLycheeRoadNovel|《长安的荔枝》]] - compact novella extending the profile into logistics, workplace coercion, and externalized human cost.
 - [[HistoricalPossibilityFiction]] - creative method attributed to his treatment of fixed history and invented gaps.
 - [[HistoricalFictionFactualConstraint]] - neighboring framework for binding documented events.
 - [[HistoricalFictionHistoricalImagination]] - broader field containing realist and non-realist ways of imagining the past.
@@ -87,3 +94,4 @@ This profile rests on four podcast episodes centered on three novels and compari
 - [[TechniqueSituationWayFramework|术—势—道行动框架]] - conceptual structure the hosts use to interpret the novel's layered ambition.
 - [[BureaucraticProcedureAsLeverage]] - administrative mechanism extracted from the Baoxiang Kingdom reading.
 - [[NarrativeSetupAndPayoff]] - craft framework for the praised climax and the qualified visibility of its preparation.
+- [[PrestigeSupplyChainCostExternalization|声望供应链成本外部化]] - cost framework extracted from the fresh-litchi transport system.

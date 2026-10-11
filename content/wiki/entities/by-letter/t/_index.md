@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13185
+wiki_total_pages: 13187
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1580,6 +1580,9 @@ wiki_pages:
   - key: "TheLycheeRoadFilm"
     title: "《长安的荔枝》 / The Lychee Road (film)"
     url: "/wiki/entities/thelycheeroadfilm/"
+  - key: "TheLycheeRoadNovel"
+    title: "《长安的荔枝》 / The Lychee Road (novella)"
+    url: "/wiki/entities/thelycheeroadnovel/"
   - key: "TheSpyAndTheTraitor"
     title: "《间谍与叛徒》 / The Spy and the Traitor"
     url: "/wiki/entities/thespyandthetraitor/"

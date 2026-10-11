@@ -70867,9 +70867,9 @@
       "url": "/wiki/entities/dufamilygirls/"
     },
     "DuFu": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思 [lnzXHRj2iULaHCcY2-Pkm-WPhDEi].md",
@@ -70884,9 +70884,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷",
           "url": "/wiki/sources/zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am/"
+        },
+        {
+          "episode_file": "lsCPfJeqG9izxpSFhabnVGE0HdBN [lsCPfJeqG9izxpSFhabnVGE0HdBN].md",
+          "key": "064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn",
+          "show": "纸醉金迷FM",
+          "title": "064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则",
+          "url": "/wiki/sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/dufu/"
     },
     "DuGenLateHan": {
@@ -151255,6 +151262,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lirunlatehan/"
     },
+    "LiShande": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsCPfJeqG9izxpSFhabnVGE0HdBN [lsCPfJeqG9izxpSFhabnVGE0HdBN].md",
+          "key": "064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn",
+          "show": "纸醉金迷FM",
+          "title": "064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则",
+          "url": "/wiki/sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/lishande/"
+    },
     "LiShaojunWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -165365,9 +165388,9 @@
       "url": "/wiki/entities/mabaoxing/"
     },
     "MaBoyong": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "llSkanljJz0re-O-DhMq9F2HPUcp [llSkanljJz0re-O-DhMq9F2HPUcp].md",
@@ -165396,6 +165419,13 @@
           "show": "纸醉金迷FM",
           "title": "068 马伯庸新书《桃花源没事儿》：比《长安的荔枝》更“奇幻”的职场寓言",
           "url": "/wiki/sources/068-maboyong-xinshu-taohuayuan-meishier-bi-changan-de-lizhi-geng-qihuan-de-zhichang-yuyan-lm0nfiuwucngaoxaarknsx469hz0/"
+        },
+        {
+          "episode_file": "lsCPfJeqG9izxpSFhabnVGE0HdBN [lsCPfJeqG9izxpSFhabnVGE0HdBN].md",
+          "key": "064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn",
+          "show": "纸醉金迷FM",
+          "title": "064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则",
+          "url": "/wiki/sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn/"
         }
       ],
       "updated": "2026-10-11",
@@ -208432,6 +208462,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
+    },
+    "PrestigeSupplyChainCostExternalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsCPfJeqG9izxpSFhabnVGE0HdBN [lsCPfJeqG9izxpSFhabnVGE0HdBN].md",
+          "key": "064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn",
+          "show": "纸醉金迷FM",
+          "title": "064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则",
+          "url": "/wiki/sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/prestigesupplychaincostexternalization/"
     },
     "PreventProgramme": {
       "episode_count": 1,
@@ -254369,6 +254415,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/thelycheeroadfilm/"
+    },
+    "TheLycheeRoadNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsCPfJeqG9izxpSFhabnVGE0HdBN [lsCPfJeqG9izxpSFhabnVGE0HdBN].md",
+          "key": "064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn",
+          "show": "纸醉金迷FM",
+          "title": "064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则",
+          "url": "/wiki/sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/thelycheeroadnovel/"
     },
     "TheNewDarkAges": {
       "episode_count": 1,

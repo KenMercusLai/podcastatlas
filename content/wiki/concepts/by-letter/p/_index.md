@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10335
+wiki_total_pages: 10336
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1850,6 +1850,9 @@ wiki_pages:
   - key: "PresidentialSystem"
     title: "Presidential System"
     url: "/wiki/concepts/presidentialsystem/"
+  - key: "PrestigeSupplyChainCostExternalization"
+    title: "Prestige Supply Chain Cost Externalization / 声望供应链成本外部化"
+    url: "/wiki/concepts/prestigesupplychaincostexternalization/"
   - key: "PrestigeBasedCoalitionLeadership"
     title: "Prestige-Based Coalition Leadership / 名望型联盟领导"
     url: "/wiki/concepts/prestigebasedcoalitionleadership/"

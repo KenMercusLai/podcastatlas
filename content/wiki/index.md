@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [064 马伯庸《长安的荔枝》原著解析：一骑红尘背后的职场生存法则](sources/064-maboyong-changande-lizhi-yuanzhu-jiexi-yiqi-hongchen-beihoude-zhichang-shengcun-faze-lscpfjeqg9izxpsfhabnvge0hdbn.md) — 纸醉金迷FM以李善德的鲜荔枝运输死局讨论技术官僚、职场陷阱、制度协作、道德异化与宫廷声望供应链向底层转嫁的生计和生命成本。
 - [574. The Medici: Curse of the Mad Monk (Part 3)](sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064.md) — The Rest Is History on Lorenzo's magnificent but financially fragile rule and Savonarola's reformist, apocalyptic formation.
 - [VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙](sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h.md) — Sponsored 这病说来话长 episode on retinol evidence, whole-formulation selection, gradual tolerance, barrier support, ultraviolet protection, and pregnancy boundaries.
 - [575. The Medici: The Bonfire of the Vanities (Part 4)](sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489.md) — The Rest Is History on the 1494 Medici collapse, Savonarola's informal authority, moral reform, papal conflict, failed ordeal, and execution.
@@ -4706,6 +4707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《吉祥如意》 / The Reunions](entities/TheReunionsFilm.md) — Family-based experimental film in which a planned authorship test was overtaken by an actual family death.
 - [《保你平安》 / Post Truth](entities/PostTruthFilm.md) — Comedy about rumor and justice that grounds Dapeng's belief in persistent help for an unrelated stranger.
 - [《长安的荔枝》 / The Lychee Road (film)](entities/TheLycheeRoadFilm.md) — Historical feature connecting mature execution, contested modern form, unused production labor, and award pressure.
+- [《长安的荔枝》 / The Lychee Road (novella)](entities/TheLycheeRoadNovel.md) — 马伯庸以鲜荔枝运输死局连接技术执行、官僚协作、职场异化与宫廷声望背后的底层代价。
 - [Macnaghten Memorandum](entities/MacnaghtenMemorandum.md) — 1894 police suspect memorandum whose three names preserve institutional suspicion while its no-proof concession limits attribution.
 - [David Choe](entities/DavidChoe.md) — Artist and media creator whose profile connects care and creative risk with shame-driven achievement, process addiction, self-sabotage, help-seeking, and recovery.
 - [Henry Williamson](entities/HenryWilliamson.md) — British Christmas Truce witness whose enemy recognition, continued service, pacifism, and later admiration for Hitler form a cautionary memory case.
@@ -4989,6 +4991,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [雮尘珠 / Muchen Pearl](entities/MuchenPearl.md) — 连接扎格拉玛诅咒、鹧鸪哨失败、Shirley杨继承使命与云南路线的虚构任务物。
 - [《昆仑神宫》 / Kunlun Shrine](entities/KunlunShrineGhostBlowsOutTheLight.md) — 《鬼吹灯》第一部第四册，以九层妖楼规则、实体化记忆之城和活人祭坛困局连接解谜、忠诚与诅咒收束。
 - [马伯庸 / Ma Boyong](entities/MaBoyong.md) — 以史料、传统文本与制度系统支撑通俗悬疑叙事，并以伏笔回收、社会寓言和道德选择组织历史或幻想世界的作家。
+- [李善德 / Li Shande](entities/LiShande.md) — 《长安的荔枝》中从技术解题、制度适应和短暂异化走向看见底层代价并拒绝获利沉默的小吏。
 - [《秦二世必须死》 / Qin Er Shi Must Die](entities/QinErshiMustDie.md) — 以“秦二世必须死而秦制延续”为制度命题、把秦汉转型与刺秦悬疑结合的历史小说。
 - [张苍 / Zhang Cang](entities/ZhangCang.md) — 横跨小说制度讨论与汉廷史事的秦汉官员，现有画像涵盖水德争议、罢相问责、律历算学、报恩与长寿轶事。
 - [《双瞳》 / Double Vision (2002 film)](entities/DoubleVision2002.md) — 陈国富执导的2002年恐怖片，在节目中被视为兼具口碑、票房与持久类型地位的华语恐怖代表作。
@@ -18172,6 +18175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coercive Relationship Legitimation / 强迫关系合法化](concepts/CoerciveRelationshipLegitimation.md) — 以爱情、婚姻、命定、家庭或利益叙事掩盖持续拒绝与强迫关系的机制。
 - [Public Values Under Cost / 有代价时的公开价值检验](concepts/PublicValuesUnderCost.md) — 公开道德身份只有在行动带来政治、身体、声誉或组织成本时仍能约束选择，才获得可信度。
 - [Bureaucratic Procedure as Leverage / 官僚程序作为杠杆](concepts/BureaucraticProcedureAsLeverage.md) — 借公文、排班、考勤、管辖和表彰让受保护行为变得可见且产生组织成本的策略。
+- [Prestige Supply Chain Cost Externalization / 声望供应链成本外部化](concepts/PrestigeSupplyChainCostExternalization.md) — 精英展示把象征收益集中于上层，却将风险、生计损失、危险劳动与死亡沿供应链向低权力参与者转移的机制。
 - [Gambling Escalation Loop / 赌博升级循环](concepts/GamblingEscalationLoop.md) — 胜者续赌、败者追损、外归因与赌注递增相互强化的循环。
 - [Narrative Setup and Payoff / 叙事铺垫与回收](concepts/NarrativeSetupAndPayoff.md) — 让细节以新的因果、规则或人物功能返回，并区分回收机制是否成立与悬疑是否仍有遮蔽。
 - [Adventure-Game Narrative Structure / 冒险游戏式叙事结构](concepts/AdventureGameNarrativeStructure.md) — 以路线、环境线索、谜题、战斗状态与奖励构成连续推进，同时区分结构类比与直接游戏影响。
