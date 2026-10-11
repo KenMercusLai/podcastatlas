@@ -9,6 +9,7 @@ sources:
   - 072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig
   - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
   - ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma
+  - lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -31,11 +32,15 @@ The short Huang Yaoshi opening adds a moral-complexity layer already implicit in
 
 The relationship-focused episode expands that framework across the novel. [[GuoJingJinYong|郭靖]] and [[HuangRong|黄蓉]] form an emotionally reciprocal but practically uneven partnership: she supplies much of the social and strategic work, while his commitments to promise, teachers, and civilian life control decisive crises. Yang Kang and Mu Nianci, Duan Zhixing, Yinggu and Zhou Botong, and Huang Yaoshi with Mei Chaofeng provide less equal, less accountable, or more ambiguous contrasts. The Jiangnan Seven Freaks likewise turn teaching into costly commitment and non-possessive delight in a student's progress.
 
+The first episode adds the underlying architecture that makes those later relationships legible. [[RelationalWuxiaWorldbuilding|Relational wuxia worldbuilding]] joins the Five Greats' memorable directional hierarchy to sects, lineages, rivalries, old contests, and a progressively revealed martial scale. The setting feels broad because figures and institutions inherit relationships and history, not because the novel merely adds names. Television circulation and intergenerational viewing then help turn that legible structure into shared cultural memory.
+
+Guo Jing and [[YangKangJinYong|杨康]] convert the world map into parallel formation stories. Guo Jing's character, slow but persistent learning, staged teachers, Huang Rong's mediation, and repeated contact with stronger opponents accumulate into mastery. Yang Kang's privilege and intelligence do not do the same because environment, concealed identity, instrumental learning, moral education, and choice push access toward status and shortcuts. The contrast remains multi-causal rather than a claim that hardship creates virtue or wealth creates corruption.
+
 That episode also makes the novel's clarity a qualified achievement. A small recurring cast, direct motives, coincidence, and occasional mechanical intervention make the plot accessible and capable of concentrated set pieces such as the seven-day healing scene, but they narrow the Jianghu and sometimes let external revelation resolve conflicts that love and duty cannot reconcile internally. Guo Jing's final antiwar argument remains ethically influential while raising a setup problem: the idea is powerful, but the character's visible path toward that conceptual vocabulary is thin.
 
 ## Key Characteristics
 
-- Combines a long coming-of-age arc and contrasting ensemble with romance, political identity, and wuxia ethics.
+- Combines a long coming-of-age arc and contrasting ensemble with a memorable network of grandmasters, sects, lineages, rivalries, and inherited contests.
 - Requires adapters to translate narration, thought, martial reasoning, and internal force into audiovisual form.
 - Gives serial television more room for growth and relationships while film faces acute compression pressure, with 华山论剑 or “侠之大者” testing whether the chosen climax has been earned.
 - Accumulated enough screen history for generational access and nostalgia to shape the perceived definitive version.
@@ -48,6 +53,12 @@ That episode also makes the novel's clarity a qualified achievement. A small rec
 ### Growth, ensemble, and compression
 
 - [[101-hao-de-gaibian-shenmeyang-jinyong-shediao-yingshi-gaibian-pandian-li-jlq-8fkc5uzg4dbiaqkwn0kcq]] links the novel's length, cast, and character development to the greater compression burden faced by film.
+- [[lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5]] treats Guo Jing's visible movement from weakness through staged instruction, observation, and practice as the narrative spine of growth.
+
+### Relational worldbuilding and cultural memory
+
+- [[lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5]] connects the Five Greats, sects, lineages, rivalries, and Mount Hua contests into a compact but historically layered martial network.
+- [[lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5]] attributes broad recognition partly to television adaptation, rebroadcast, first exposure, and intergenerational memory rather than to the novel alone.
 
 ### Character logic and performance
 
@@ -66,6 +77,7 @@ That episode also makes the novel's clarity a qualified achievement. A small rec
 
 - [[074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas]] contrasts Bao Xiruo's dependence, divided attachment, and concealment with Li Ping's solitary survival, explicit identity teaching, and embodied moral example.
 - [[074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas]] also keeps mentors, social environment, privilege, hardship, and the sons' choices inside the causal account.
+- [[lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5]] adds learner attitude, family concealment, teaching sequence, status-seeking, and practice to the Guo Jing–Yang Kang divergence.
 
 ### Huang Yaoshi's divided profile
 
@@ -84,13 +96,13 @@ That episode also makes the novel's clarity a qualified achievement. A small rec
 
 ## Qualifications
 
-This profile is grounded in six conversational discussions rather than a direct, comprehensive reading of the novel or production histories. The hosts' version and performer preferences are subjective and sometimes shaped by childhood familiarity. Their claims about Bao Xiruo's love, Huang Yaoshi's feelings for Mei Chaofeng, relationship motives, and parental influence are disputed or inferential. The Huang Yaoshi note covers only an approximately three-minute opening, so its inventory of skills, motives, spiritual interpretation, servant treatment, and family feeling cannot stand in for the absent full argument. The film discussion distinguishes adaptation-specific changes, including 李萍's death, from claims about the novel; its explanations involving censorship, cuts, project control, casting, or directorial authority remain speculative. Exact counts, dates, episode totals, actor credits, adaptation decisions, ratings, production anecdotes, character ages, dialogue, psychology, edition changes, and claims about authorial intention remain source-scoped where the supplied notes do not verify them.
+This profile is grounded in seven conversational discussions rather than a direct, comprehensive reading of the novel or production histories. The hosts' version and performer preferences are subjective and sometimes shaped by childhood familiarity. Their claims about Bao Xiruo's love, Huang Yaoshi's feelings for Mei Chaofeng, relationship motives, parental influence, learning aptitude, and teacher effects are disputed or inferential. The Five-Elements correspondences and claims about the novel's relative cultural influence remain interpretive. The Huang Yaoshi note covers only an approximately three-minute opening, so its inventory of skills, motives, spiritual interpretation, servant treatment, and family feeling cannot stand in for the absent full argument. The film discussion distinguishes adaptation-specific changes, including 李萍's death, from claims about the novel; its explanations involving censorship, cuts, project control, casting, or directorial authority remain speculative. Exact counts, dates, episode totals, actor credits, adaptation decisions, ratings, production anecdotes, character ages, dialogue, psychology, edition changes, and claims about authorial intention remain source-scoped where the supplied notes do not verify them.
 
 ## What Changed
 
-- Added love and mentorship as tests of reciprocity, responsibility, promise, and non-possessive teaching.
-- Added the small recurring cast and simple motives as both a world-scale limitation and a source of concentrated drama.
-- Qualified Guo Jing's antiwar culmination as influential but potentially under-prepared within his visible intellectual development.
+- Added a relational account of scale built from mnemonic hierarchy, sects, lineages, rivalries, and inherited contests.
+- Recast Guo Jing and Yang Kang as multi-causal formation contrasts involving environment, instruction, learner attitude, opportunity, and choice.
+- Kept concentrated drama and broad cultural memory distinct from claims of superior literary maturity or confirmed authorial symbolism.
 
 ## Relationships
 
@@ -108,3 +120,6 @@ This profile is grounded in six conversational discussions rather than a direct,
 - [[CompassionateCharacterInterpretation|悲悯式角色理解]] - neighboring method for holding emotional depth beside accountability for harm.
 - [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - late-chapter film adaptation used as a negative compression and thematic-grounding case.
 - [[GuoJingJinYong|郭靖]] - protagonist whose love, fidelity, mentorship, and antiwar public duty anchor the new relationship-centered reading.
+- [[YangKangJinYong|杨康]] - parallel protagonist whose privilege, instrumental learning, and moral formation sharpen the growth contrast.
+- [[RelationalWuxiaWorldbuilding|关系网络式武侠世界构建]] - explains how compact hierarchy and inherited relations make the Jianghu feel broad and memorable.
+- [[MultiMentorMastery|多师承与适配型成才]] - explains Guo Jing's staged instruction, learner fit, practice, and integration.

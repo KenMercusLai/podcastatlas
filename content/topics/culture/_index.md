@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3483
+topic_total_pages: 3484
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8381,6 +8381,9 @@ topic_entities:
   - key: "YangYuJiaozi"
     title: "杨宇 / 饺子 / Yang Yu"
     url: "/wiki/entities/yangyujiaozi/"
+  - key: "YangKangJinYong"
+    title: "杨康（金庸小说） / Yang Kang (Jin Yong)"
+    url: "/wiki/entities/yangkangjinyong/"
   - key: "YangShen"
     title: "杨慎"
     url: "/wiki/entities/yangshen/"

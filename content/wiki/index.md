@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [001 纪念·金庸去世五周年|《射雕英雄传》侠之大者 为国为民](sources/lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5.md) — 纸醉金迷FM从传播记忆、关系网络式世界构建及郭靖与杨康的教育和选择差异解释《射雕英雄传》的经典地位。
 - [002 纪念|《射雕英雄传》（下）江湖儿女亦多情](sources/ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma.md) — 纸醉金迷FM以爱情、承诺、师道、人物复杂度与影视因果重读《射雕英雄传》，并保留郭靖反战思想跃升和黄药师心理解释的争议。
 - [003 四女同舟，如果你是张无忌你爱谁？｜闲话金庸《倚天屠龙记》](sources/lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8.md) — 纸醉金迷FM以张无忌与赵敏、周芷若、殷离、小昭的不同关系区分敬重、感激、怜惜、欲望、照料与共同生活的适配性。
 - [004 少林寺成了反派？张无忌是个好领导吗？｜闲话金庸《倚天屠龙记》](sources/lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii.md) — 纸醉金迷FM以张无忌的整合型领导、权力基础与政治边界重读《倚天屠龙记》，并由正邪门派、群像、回目和刀剑结构讨论行为判断与叙事层次。
@@ -4650,6 +4651,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [杨康（金庸小说） / Yang Kang (Jin Yong)](entities/YangKangJinYong.md) — 以聪明、特权、身份隐瞒、重名位轻积累及道德教育不足，对照郭靖成长路径的《射雕英雄传》人物。
 - [张无忌（金庸小说） / Zhang Wuji (Jin Yong)](entities/ZhangWujiJinYong.md) — 以慈悲和整合见长、缺少权力欲，并在敬重、感激、怜惜与强烈爱情之间寻找照料、归属和退隐生活的明教领袖。
 - [赵敏（金庸小说） / Zhao Min (Jin Yong)](entities/ZhaoMinJinYong.md) — 以政治才能、调笑、行动和情绪韧性从敌手转为张无忌最明确的互惠伴侣，并为此放弃原有身份与阵营。
 - [周芷若（金庸小说） / Zhou Zhiruo (Jin Yong)](entities/ZhouZhiruoJinYong.md) — 从受压弟子成长为有能力的峨眉领袖，却以欺骗、伤害和控制损害亲密信任的人物。
@@ -18161,6 +18163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Relational Wuxia Worldbuilding / 关系网络式武侠世界构建](concepts/RelationalWuxiaWorldbuilding.md) — 以可记忆的等级、门派、师承、对抗、地点和历史关系构成宏大而可辨认江湖的叙事方法。
 - [Stage-Contingent Integrative Leadership / 阶段适配的整合型领导](concepts/StageContingentIntegrativeLeadership.md) — 区分组织修复、人才留用、和解与合法性建设，同继承斗争、强制整合及政权经营所需能力的领导框架。
 - [Existential Self-Defense Ethics / 生存威胁下的自卫伦理](concepts/ExistentialSelfDefenseEthics.md) — 当共同体生存与外部平民、未来世代及道德边界冲突时，区分动机理解、必要性、比例性、威慑与终极方案的框架。
 - [Inherited Historical Guilt / 继承性历史罪责](concepts/InheritedHistoricalGuilt.md) — 区分不应由后代继承的个人罪责，与记忆、承认、持续后果和修复责任的历史伦理框架。

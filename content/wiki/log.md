@@ -36460,3 +36460,11 @@ Added source `ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 001 纪念·金庸去世五周年|《射雕英雄传》侠之大者 为国为民
+
+Added source `lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5`; created [[YangKangJinYong|杨康]] and [[RelationalWuxiaWorldbuilding|关系网络式武侠世界构建]]; and resynthesized [[LegendOfTheCondorHeroes|《射雕英雄传》]], [[GuoJingJinYong|郭靖]], and [[MultiMentorMastery|多师承与适配型成才]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's memorable scale comes from a compact hierarchy connected to sects, lineages, rivalries, inherited contests, and progressive discovery; Guo Jing's achievement combines character, staged teachers, Huang Rong's mediation, practice, observation, opportunity, and learner fit; and Yang Kang's privilege and intelligence remain insufficient when status, shortcuts, concealed identity, environment, moral education, and choice redirect learning. No settled contradiction was adopted. Five-Elements correspondences, cultural-influence rankings, educational analogies, character motives, teacher effects, martial hierarchy, dialogue, and authorial design remain interpretive or source-scoped. Broad [[JinYong|金庸]], [[HuangRong|黄蓉]], and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,566 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

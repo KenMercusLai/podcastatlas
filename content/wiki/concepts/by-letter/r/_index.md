@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10466
+wiki_total_pages: 10467
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "RelationalSilenceProjection"
     title: "Relational Silence and Projection"
     url: "/wiki/concepts/relationalsilenceprojection/"
+  - key: "RelationalWuxiaWorldbuilding"
+    title: "Relational Wuxia Worldbuilding / 关系网络式武侠世界构建"
+    url: "/wiki/concepts/relationalwuxiaworldbuilding/"
   - key: "RelationshipConflictRepair"
     title: "Relationship Conflict Repair"
     url: "/wiki/concepts/relationshipconflictrepair/"

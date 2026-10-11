@@ -4,6 +4,7 @@ type: entity
 tags: [fictional-character, jin-yong, wuxia, ethics, relationships]
 sources:
   - ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma
+  - lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -14,14 +15,19 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-The bounded source distinguishes simplicity from stupidity. Guo Jing often depends on Huang Rong's intelligence for planning, social navigation, and martial opportunity, but he decides the relationship's highest-stakes questions through principles learned from his upbringing and the Jiangnan Seven Freaks' example. This produces a complementary partnership rather than either equal task-sharing or one-sided control.
+The bounded sources distinguish simplicity and slow initial comprehension from general incapacity. Guo Jing often depends on Huang Rong's intelligence for planning, social navigation, and martial opportunity, but he brings concentration, memory, repetition, courage, and durable practice to what he receives. Watching and surviving stronger practitioners becomes another form of instruction, so his growth joins disposition and work to opportunity rather than treating extraordinary access as self-executing.
+
+His teachers contribute in stages. The Jiangnan Seven Freaks give practical Jianghu experience and a moral baseline despite inefficient, overlapping instruction; Ma Yu supplies internal foundations; Hong Qigong fits powerful technique to Guo Jing's direct temperament; and Zhou Botong opens access to later integration. This makes Guo Jing a central case of [[MultiMentorMastery|multi-mentor mastery]]: no one master, manual, companion, or innate trait explains the result.
+
+Guo Jing still depends on Huang Rong's intelligence for planning, social navigation, and martial opportunity, but he decides the relationship's highest-stakes questions through principles learned from his upbringing and the Jiangnan Seven Freaks' example. This produces a complementary partnership rather than either equal task-sharing or one-sided control.
 
 His moral clarity is also a narrative limit. The crises involving Huazheng, the Jiangnan Seven Freaks, and Genghis Khan make promise, teacher loyalty, and civilian life compete with romantic desire, yet external events or corrected misunderstandings repeatedly prevent permanent loss. At the ending, his rejection of conquest and slaughter gives the novel lasting ethical force, but the hosts find the conceptual leap insufficiently prepared by his earlier intellectual development.
 
 ## Key Characteristics
 
 - Plainspoken and socially inexperienced without being intellectually incapable.
-- Learns through persistence, embodied example, and access arranged by more strategically skilled companions.
+- Learns through concentration, repetition, embodied example, combat observation, and access arranged by more strategically skilled companions.
+- Integrates staged contributions from several teachers rather than emerging from one exclusive lineage.
 - Loves Huang Rong while refusing to make romantic preference the sole rule for decisive choices.
 - Treats promises, teachers, and civilian life as obligations with real personal cost.
 - Inherits the Jiangnan Seven Freaks' seriousness about commitment and a student's growth.
@@ -40,6 +46,11 @@ His moral clarity is also a narrative limit. The crises involving Huazheng, the 
 ### Mentorship and formation
 
 - [[ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma]] connects his promise-keeping to the Jiangnan Seven Freaks' costly fulfillment of their own commitment and their non-possessive support for superior instruction.
+- [[lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5]] differentiates the Jiangnan Seven Freaks' character and practical formation, Ma Yu's internal foundation, Hong Qigong's learner-fitted technique, and Zhou Botong's advanced transmission.
+
+### Learner aptitude and practice
+
+- [[lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5]] treats concentration, memory, persistence, repeated practice, and learning from observed combat as aptitudes obscured by the label of slowness.
 
 ### Antiwar culmination
 
@@ -47,13 +58,13 @@ His moral clarity is also a narrative limit. The crises involving Huazheng, the 
 
 ## Qualifications
 
-This profile rests on one conversational podcast reading rather than a direct edition-by-edition study of the novel. The division between “small matters” handled by Huang Rong and “large matters” decided by Guo Jing is the hosts' interpretive shorthand and can obscure Huang Rong's independent public agency. The causes of Guo Jing's ethics, the degree of equality in the relationship, and whether his final antiwar reasoning is psychologically earned remain open to other readings.
+This profile rests on two conversational podcast readings rather than a direct edition-by-edition study of the novel. The division between “small matters” handled by Huang Rong and “large matters” decided by Guo Jing is the hosts' interpretive shorthand and can obscure Huang Rong's independent public agency. The source's educational-stage analogy and ranking of character, internal foundation, and advanced technique simplify reciprocal influences among teachers, learner, companion, chance, and narrative convenience. The causes of Guo Jing's ethics, the degree of equality in the relationship, and whether his final antiwar reasoning is psychologically earned remain open to other readings.
 
 ## What Changed
 
-- Created a bounded profile separating Guo Jing's simplicity from incapacity.
-- Framed his bond with Huang Rong as complementary but uneven in practical labor and decisive authority.
-- Preserved both the force and the preparation problem of his antiwar culmination.
+- Slow comprehension is now separated from concentration, memory, persistence, and integrative learning capacity.
+- His mastery is distributed across staged teachers, Huang Rong's mediation, practice, observation, opportunity, and learner fit.
+- The partnership remains complementary but uneven, and the antiwar culmination remains powerful but potentially under-prepared.
 
 ## Relationships
 
@@ -61,3 +72,5 @@ This profile rests on one conversational podcast reading rather than a direct ed
 - [[LegendOfTheCondorHeroes|《射雕英雄传》]] - novel in which his romantic, martial, and ethical formation unfolds.
 - [[JinYongConfucianEthics|金庸小说的儒家伦理]] - conduct-centered framework for his fidelity, public responsibility, and civilian protection.
 - [[FunctionalAdaptationFidelity]] - adaptation framework that requires his plainness, capability, growth, and moral choices to remain causally legible on screen.
+- [[MultiMentorMastery|多师承与适配型成才]] - explains how distinct teachers, practice, opportunity, and fit combine without one exclusive cause.
+- [[YangKangJinYong|杨康]] - parallel-origin contrast whose privilege and intelligence do not produce the same learning or moral trajectory.

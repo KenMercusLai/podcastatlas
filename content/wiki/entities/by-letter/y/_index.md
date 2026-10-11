@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13440
+wiki_total_pages: 13441
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "YangGuangWeiXiaoRetainer"
     title: "杨广 / Yang Guang (Wei Xiao retainer)"
     url: "/wiki/entities/yangguangweixiaoretainer/"
+  - key: "YangKangJinYong"
+    title: "杨康（金庸小说） / Yang Kang (Jin Yong)"
+    url: "/wiki/entities/yangkangjinyong/"
   - key: "YangBiao"
     title: "杨彪 / Yang Biao"
     url: "/wiki/entities/yangbiao/"
