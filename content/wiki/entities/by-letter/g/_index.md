@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13413
+wiki_total_pages: 13416
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1697,6 +1697,9 @@ wiki_pages:
   - key: "GuoMeng"
     title: "郭蒙 / Guo Meng"
     url: "/wiki/entities/guomeng/"
+  - key: "GuoXiangJinYong"
+    title: "郭襄（金庸小说） / Guo Xiang (Jin Yong)"
+    url: "/wiki/entities/guoxiangjinyong/"
   - key: "GuoJieWesternHan"
     title: "郭解 / Guo Jie (Western Han)"
     url: "/wiki/entities/guojiewesternhan/"

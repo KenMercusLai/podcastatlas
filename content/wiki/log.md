@@ -36381,3 +36381,11 @@ Added source `lmzkiygsiicuvlthjqgatyuf49ac`; created [[ChinesePaladin4|《仙剑
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 011 十六岁的那场烟花，与十六年的生死茫茫|漫话《神雕侠侣》之郭襄与小龙女
+
+Added source `ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h`; created [[YangGuoJinYong|杨过]], [[XiaolongnuJinYong|小龙女]], and [[GuoXiangJinYong|郭襄]]; and resynthesized [[ReturnOfTheCondorHeroes|《神雕侠侣》]] and [[FictionalRelationshipCompatibilityReading|虚构关系适配性阅读]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Yang Guo and Xiaolongnü's extraordinary constancy coexists with distinct pressures from sexual violence, social condemnation, misinformation, weak communication, and unilateral protection; Guo Xiang's intense attachment remains meaningful without proving reciprocity, creating entitlement, or cancelling her independent later achievement. No settled contradiction was adopted. Yang Guo's feelings toward Guo Xiang or Guo Fu, Xiaolongnü's character consistency, the reported abandoned death ending, healing, exact dialogue, chronology, symbolism, and authorial intent remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,556 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

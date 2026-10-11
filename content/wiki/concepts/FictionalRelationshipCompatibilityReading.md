@@ -6,6 +6,7 @@ sources:
   - 083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz
   - liiidmjxhrngcffnld51y-l7_oan
   - lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7
+  - ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -26,12 +27,14 @@ The [[BixueJian|《碧血剑》]] relationship triangle tests feeling against vi
 
 The focused [[FeihuWaizhuan|《飞狐外传》]] discussion sharpens the distinction between attraction and compatibility. [[HuFei|胡斐]] responds immediately to [[YuanZiyi|袁紫衣]] through beauty, vitality, martial parity, play, and uncertain availability, while [[ChengLingsu|程灵素]] becomes indispensable through intelligence, shared values, protection, and daily care. None of these dimensions can simply substitute for another. The revised-edition marriage fantasy also makes compatibility dynamic: respect and familiarity may alter attraction over time, but possible change is neither a completed relationship nor a debt created by sacrifice.
 
+The [[ReturnOfTheCondorHeroes|《神雕侠侣》]] episode adds communication and social pressure to the framework. [[YangGuoJinYong|杨过]] and [[XiaolongnuJinYong|小龙女]] show that extraordinary constancy can coexist with repeated withdrawal, misinformation, unilateral protection, and failure to ask what the other person wants. External ritual condemnation matters without explaining every separation. [[GuoXiangJinYong|郭襄]] supplies the complementary boundary: intense, loyal, life-shaping love does not prove reciprocity, entitle a person to selection, or prevent an independently meaningful later life.
+
 ## Key Claims
 
-- Sacrifice and persistence are evidence of attachment, not sufficient proof of compatibility.
+- Sacrifice, persistence, and constancy under separation are evidence of attachment, not substitutes for compatibility, communication, or shared decision-making.
 - Mutual recognition includes seeing competence, vulnerability, values, and needs rather than idealizing beauty, status, or a childhood script.
 - Timing and expression matter because latent affection may never become a viable relationship if hesitation or changed circumstances intervene.
-- A strong pairing expands agency and ease for both characters instead of requiring one person's continual diminishment.
+- A strong pairing expands agency and ease for both characters, while unreturned love may still shape a life without invalidating independent achievement or identity.
 - Counterfactual pairing is most useful when it isolates a specific trait interaction rather than merely producing novelty.
 - Readerly regret, moral approval, canonical outcome, and compatibility are distinct judgments.
 - Immediate attraction and long-term compatibility can diverge, and neither merit nor sacrifice creates an entitlement to desire.
@@ -63,16 +66,22 @@ The focused [[FeihuWaizhuan|《飞狐外传》]] discussion sharpens the distinc
 - [[lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7]] contrasts Hu Fei's immediate excitement with Yuan Ziyi against his slowly developing respect, reliance, value alignment, and domestic imagination with Cheng Lingsu.
 - [[lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7]] treats Cheng Lingsu's sacrifice as evidence of care while explicitly rejecting both romantic entitlement and real-world imitation of self-erasure.
 
+### Constancy, communication, and life beyond selection
+
+- [[ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h]] separates Yang Guo and Xiaolongnü's enduring attachment from their repeated failures of communication and joint deliberation under social pressure and misinformation.
+- [[ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h]] treats Guo Xiang's cliff leap and final silver-needle request as evidence of profound care without inferring Yang Guo's reciprocity or reducing her later life to romantic nonselection.
+
 ## Counterevidence & Qualifications
 
-The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and beauty or excitement should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice.
+The framework comes from entertainment-oriented roundtables whose judgments openly reflect personal attachment, humor, version differences, and selective plot memory. Counterfactual pairings remove history, institutions, and authorial construction that may be essential to the characters; they cannot establish how a rewritten story would actually unfold. Nor does choosing a reliable admirer automatically establish free preference or mutual flourishing. Compatibility should not turn into a single optimization score, and beauty or excitement should not be dismissed merely because another character appears more virtuous. Tragic, unequal, or failed relationships may remain artistically powerful, and a reader's sense of regret need not imply that canon made the wrong choice. Social constraint can explain relational strain without making every withdrawal inevitable, and unreturned love can be meaningful without romanticizing self-endangerment or lifelong fixation.
 
 ## What Changed
 
 - Added a distinction among strongest feeling, sustained obligation, protective action, and viable partnership.
-- Added a boundary against treating selection of a reliable admirer as automatic proof of free preference or compatibility.
-- Distinguished immediate attraction from long-term compatibility and made clear that merit or sacrifice cannot create romantic entitlement.
-- Added the possibility that attraction changes through recognition and shared life without treating that development as inevitable.
+- Added communication and joint deliberation as tests that constancy and sacrifice cannot replace.
+- Added social condemnation as a real pressure that does not fully determine a couple's response.
+- Added a boundary against inferring reciprocity from the intensity of one person's love.
+- Preserved meaningful agency and achievement beyond romantic selection.
 
 ## Related Concepts
 
@@ -81,3 +90,4 @@ The framework comes from entertainment-oriented roundtables whose judgments open
 - [[RomanticProjectionTrap]] - names the danger of substituting an imagined partner or script for the person actually present.
 - [[GenerativeDrive]] - adjacent account of relationships that increase mutual goodness and agency rather than domination or depletion.
 - [[JinYongConfucianEthics]] - supplies a neighboring framework for love, duty, public obligation, and the sacrifice of concrete persons to abstract causes.
+- [[ReturnOfTheCondorHeroes|《神雕侠侣》]] - supplies constancy-under-separation and unreturned-love tests for communication, reciprocity, and agency.

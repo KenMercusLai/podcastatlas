@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13413
+wiki_total_pages: 13416
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "YangFuWesternHan"
     title: "杨辅 / Yang Fu (Western Han)"
     url: "/wiki/entities/yangfuwesternhan/"
+  - key: "YangGuoJinYong"
+    title: "杨过（金庸小说） / Yang Guo (Jin Yong)"
+    url: "/wiki/entities/yangguojinyong/"
   - key: "YangXiaoJinYong"
     title: "杨逍（金庸小说） / Yang Xiao (Jin Yong)"
     url: "/wiki/entities/yangxiaojinyong/"
