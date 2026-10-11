@@ -5,7 +5,8 @@ tags: [emotion, self-regulation, sel, parenting, decision-making]
 sources:
   - ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf
   - default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195
-last_updated: 2026-10-07
+  - how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ For children, a caregiver can first acknowledge and accompany the feeling, then 
 
 Vizcaíno's survival account adds a fear-specific action form. He does not ask fear to disappear; he listens to its warnings, narrows the decision to the next metre or movement, and keeps final authority over action. This strengthens the distinction between an emotion's informational value and its decision authority, while remaining an autobiographical extreme case rather than a general emergency protocol.
 
+The wellbeing application establishes a boundary against toxic positivity. Sadness, loneliness, overwhelm, anger, and grief can function like dashboard indicators: they warrant attention and interpretation rather than automatic suppression. The metaphor does not make every feeling diagnostically accurate or require immediate action; it reinforces the sequence from acceptance to hypothesis to proportionate response. [[how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579]]
+
 ## Key Claims
 - Acceptance precedes effective regulation because treating emotion as a defect can create secondary shame.
 - Emotions can carry information about danger, boundaries, fairness, attachment, value, and approach motivation.
@@ -28,7 +31,7 @@ Vizcaíno's survival account adds a fear-specific action form. He does not ask f
 - Feeling acceptance and behavioral boundaries can coexist.
 - Regulation quality can be observed through recovery, duration, frequency, and later action rather than permanent calm.
 - High negative arousal can narrow major-decision reasoning, making delay appropriate when immediate safety does not require action.
-- When delay is impossible, acknowledging fear and shrinking the action horizon may preserve choice without pretending the danger is absent.
+- When delay is impossible, acknowledging fear and shrinking the action horizon may preserve choice without pretending the danger is absent; happiness practice likewise should not require suppressing difficult feelings that may signal unmet needs or valued losses.
 
 ## Evidence
 - Child example: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf|AI 时代，我们到底该学什么？]] uses fear of insects to show that a child can accept fear and still choose to attend camp.
@@ -37,6 +40,7 @@ Vizcaíno's survival account adds a fear-specific action form. He does not ask f
 - Decision boundary: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf]] advises against making major irreversible choices in a peak state of fear, anxiety, or distress.
 - Practice method: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf]] describes [[TuDongdong|兔咚咚]] teaching breathing through story, repeated scenarios, and concrete sensory imagery.
 - Fear as adviser: [[default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195]] has [[AlvaroVizcaino|Álvaro Vizcaíno]] acknowledge fear's arguments, reduce the decision to the next metre, and refuse to let fear make the final choice.
+- Wellbeing boundary: [[how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579]] rejects toxic positivity and uses a dashboard-light metaphor for sadness, loneliness, overwhelm, anger, and grief.
 
 ## Counterevidence & Qualifications
 - Emotional meanings are context-dependent and should not be treated as universal one-to-one codes.
@@ -44,10 +48,11 @@ Vizcaíno's survival account adds a fear-specific action form. He does not ask f
 - The episode offers an educational framework, not diagnosis or treatment for persistent dysregulation, trauma, anxiety, depression, or other clinical conditions.
 - Parent-reported change is not independent proof of product efficacy.
 - An extreme survival narrative cannot establish that the same sequence is sufficient for panic disorder, trauma, medical emergencies, water survival, or other high-risk settings.
+- A feeling's informational value does not establish one fixed meaning, factual accuracy, or a sufficient treatment plan; persistent or dangerous symptoms may require qualified support.
 
 ## What Changed
-- Added the fear-as-adviser distinction between emotional information and final decision authority.
-- Added a no-delay branch in which action shrinks to the smallest available step, bounded by emergency safety needs.
+- Extended the signal frame to sadness, loneliness, overwhelm, anger, and grief within happiness practice.
+- Added an explicit boundary against toxic positivity without granting emotions automatic factual or decision authority.
 
 ## Related Concepts
 - [[SocialEmotionalLearning|社会情感学习]] - broader educational field containing this emotional sequence.

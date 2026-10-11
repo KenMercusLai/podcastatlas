@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10395
+wiki_total_pages: 10398
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "TigerTallyCommandSystem"
     title: "Tiger Tally Command System / 虎符调兵制度"
     url: "/wiki/concepts/tigertallycommandsystem/"
+  - key: "TimeAffluence"
+    title: "Time Affluence"
+    url: "/wiki/concepts/timeaffluence/"
   - key: "TimeAndPaydayLoanTrap"
     title: "Time and Payday Loan Trap / 时间与短贷陷阱"
     url: "/wiki/concepts/timeandpaydayloantrap/"

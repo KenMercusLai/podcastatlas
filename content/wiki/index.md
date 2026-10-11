@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos](sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579.md) — Huberman Lab interview on happiness forecasting, live connection, attention, time affluence, adaptation, emotion, strengths-based work, and prosocial behavior.
 - [VOL.145冬天里的小感冒，也请放在心上](sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8.md) — 这病说来话长赞助节目讨论冬季呼吸道风险、感冒与流感分诊、抗生素边界、分层预防，以及高剂量维生素C主张的证据冲突。
 - [525. Charlemagne: Emperor of the West (Part 3)](sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677.md) — The Rest Is History on Charlemagne's prepared coronation, Aachen's imperial imagery, foreign recognition, Carolingian fragmentation, and Ottonian renewal.
 - [Essentials: How to Learn Faster by Using Failures, Movement & Balance](sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196.md) — Condensed Huberman Lab episode on correctable errors, focused practice, arousal, sleep-supported consolidation, and safe vestibular novelty.
@@ -4578,6 +4579,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Laurie Santos](entities/LaurieSantos.md) — Yale psychologist translating happiness research into practices involving connection, attention, time, adaptation, emotion, work, and generosity.
 - [Einhard](entities/Einhard.md) — Carolingian biographer whose portrait of Charlemagne mixes court memory with classical imperial styling.
 - [Alcuin](entities/Alcuin.md) — Scholar and adviser who framed Charlemagne's Christian responsibility and Leo III's legal position.
 - [Aachen](entities/Aachen.md) — Carolingian palace and burial center whose built form materialized Charlemagne's imperial claim.
@@ -17948,6 +17950,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Hedonic Adaptation and Contrast](concepts/HedonicAdaptationAndContrast.md) — How emotional responses fade and how comparison, interruption, finitude, and process orientation can renew appreciation.
+- [Time Affluence](concepts/TimeAffluence.md) — The felt availability and usable control of discretionary time, including the costs of fragmentation and default phone use.
+- [Strengths-Based Job Crafting](concepts/StrengthsBasedJobCrafting.md) — Bringing personal strengths into an existing role while preserving safety, role duties, and organizational responsibility.
 - [Carolingian Imperial Fragmentation](concepts/CarolingianImperialFragmentation.md) — Succession, partition, external pressure, and weakening territorial control that broke Carolingian unity without erasing its imperial memory.
 - [Absent-Presence Character Design / 缺席的在场者](concepts/AbsentPresenceCharacterDesign.md) — 让死亡或离场人物通过记忆、物件、武功、关系与延迟揭示继续推动当下行动的叙事方法。
 - [Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡](concepts/EditionRevisionExplicitnessTradeoff.md) — 版本修订在增强欲望可见性和局部动机时，可能削弱含蓄、后续选择或行动因果的权衡。

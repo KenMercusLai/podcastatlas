@@ -7,7 +7,8 @@ sources:
   - how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563
   - efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123
   - science-based-tools-for-increasing-happiness-scim9472441223
-last_updated: 2026-09-30
+  - how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The learning function is explicit in [[JamilZaki]]'s account. Conversation, grat
 
 The Murthy interview adds attention and service to this practice layer. Five minutes of outreach, undivided attention, and helping another person are framed as accessible ways to interrupt disconnection, while the decline of community organizations and casual public encounters shows why individual initiative alone is insufficient.
 
+The expanded synthesis also distinguishes medium and attention. Live voice, faces, synchrony, and reciprocal response can be more nourishing than asynchronous text or feed consumption, while a nearby phone may reduce attention to the person present. The practical test remains experiential rather than ideological: try more real-time contact and observe the result instead of assuming that introversion, awkwardness, or digital convenience predicts it accurately. [[how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579]]
+
 The invitation remains conditional. Everyday contact is useful when it responds to cues, respects safety and boundaries, and does not turn optimism into entitlement to another person's time, attention, trust, vulnerability, or touch. It can contribute to connection without substituting for close relationships, community infrastructure, or clinical care.
 
 ## Key Claims
@@ -32,7 +35,7 @@ The invitation remains conditional. Everyday contact is useful when it responds 
 - Social savoring and encounter counting can rebalance attention toward ordinary cooperation.
 - Structured communal settings can lower the threshold for contact by making interaction expected.
 - Connection works best as an invitation rather than a demand.
-- Full attention, natural gaze shifts, service, and appropriate touch can make brief contact more relationally meaningful.
+- Full attention, natural gaze shifts, service, appropriate touch, and live reciprocity can make brief contact more relationally meaningful than thinner asynchronous substitutes.
 
 ## Evidence
 - Better moments: [[how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132]] uses ride, train, compliment, grocery-store, and workplace examples to show the value of brief exchanges.
@@ -44,13 +47,15 @@ The invitation remains conditional. Everyday contact is useful when it responds 
 - Infrastructure boundary: [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123]] links disconnection to declining community participation and the loss of casual interactions through mobility and convenience.
 - Contact modalities: [[science-based-tools-for-increasing-happiness-scim9472441223]] includes familiar faces, brief recurring interactions, conversation, context-appropriate touch, and animal contact within social connection.
 - Shared-attention rhythm: [[science-based-tools-for-increasing-happiness-scim9472441223]] says good conversation moves into and out of eye contact and shared attention rather than requiring constant gaze.
+- Live contact and divided attention: [[how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579]] contrasts real-time interaction with texting or feeds and reports that phone presence can reduce attention and spontaneous smiling.
+- Prosocial extension: [[how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579]] connects helping, asking for help, gratitude, gifts, pets, walking, and brief stranger contact to relational wellbeing.
 
 ## Counterevidence & Qualifications
-The sources do not require initiating contact in every setting. Safety, consent, gendered risk, cultural norms, power differences, allergy or animal-safety concerns, and the possibility that friendliness or touch is misread all matter. Brief connection does not replace close relationships, community institutions, material support, or clinical care for severe loneliness, depression, trauma, or social anxiety. The eye-contact, touch, C-tactile-fiber, oxytocin, dog-interaction, and intervention effects discussed in the episodes remain source-scoped.
+The sources do not require initiating contact in every setting. Safety, consent, gendered risk, cultural norms, power differences, allergy or animal-safety concerns, and the possibility that friendliness or touch is misread all matter. Brief connection does not replace close relationships, community institutions, material support, or clinical care for severe loneliness, depression, trauma, or social anxiety. The eye-contact, touch, C-tactile-fiber, oxytocin, dog-interaction, phone-presence, smiling, loneliness-prevalence, and intervention effects discussed in the episodes remain source-scoped.
 
 ## What Changed
-- Broadened everyday connection beyond conversation to familiar faces, shared-attention rhythms, appropriate touch, and animal contact.
-- Added consent and modality-specific safety limits while preserving the community-infrastructure boundary.
+- Added the distinction between live reciprocal contact and thinner asynchronous substitutes.
+- Added phone-mediated divided attention and asking for help to the practical connection frame.
 
 ## Related Concepts
 - [[SocialMisprediction]] - explains why people often miss connection opportunities.

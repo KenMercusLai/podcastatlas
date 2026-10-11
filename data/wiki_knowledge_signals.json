@@ -21380,9 +21380,9 @@
       "url": "/wiki/concepts/attentionfragmentation/"
     },
     "AttentionPresenceAndHappiness": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9472441223 [SCIM9472441223].md",
@@ -21397,9 +21397,16 @@
           "show": "Huberman Lab",
           "title": "How Meditation Works & Science-Based Effective Meditations",
           "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
+        },
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/attentionpresenceandhappiness/"
     },
     "AttentionRestorationTheory": {
@@ -78071,9 +78078,9 @@
       "url": "/wiki/entities/emmyawards/"
     },
     "EmotionAcceptanceSignalAction": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
@@ -78088,9 +78095,16 @@
           "show": "Tomorrow, Today",
           "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
+        },
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/emotionacceptancesignalaction/"
     },
     "EmotionAttentionalCapture": {
@@ -84893,9 +84907,9 @@
       "url": "/wiki/concepts/everydayhumoremotionregulation/"
     },
     "EverydaySocialConnection": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -84924,9 +84938,16 @@
           "show": "Huberman Lab",
           "title": "Science-Based Tools for Increasing Happiness",
           "url": "/wiki/sources/science-based-tools-for-increasing-happiness-scim9472441223/"
+        },
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/everydaysocialconnection/"
     },
     "EverydaySymptomNutritionTriage": {
@@ -116432,6 +116453,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/hedongpeiclan/"
+    },
+    "HedonicAdaptationAndContrast": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/hedonicadaptationandcontrast/"
     },
     "HefeiLateHan": {
       "episode_count": 2,
@@ -150597,6 +150634,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/laurencolensosemple/"
     },
+    "LaurieSantos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/lauriesantos/"
+    },
     "LawAndOrderRacialSignaling": {
       "episode_count": 5,
       "show_count": 1,
@@ -183242,9 +183295,9 @@
       "url": "/wiki/concepts/mortalityboundedmeaning/"
     },
     "MortalityContemplationValueReorientation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1533978257 [SCIM1533978257].md",
@@ -183252,9 +183305,16 @@
           "show": "Huberman Lab",
           "title": "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno",
           "url": "/wiki/sources/science-health-benefits-of-belief-in-god-religion-dr-david-desteno-scim1533978257/"
+        },
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/mortalitycontemplationvaluereorientation/"
     },
     "MortalityTransition": {
@@ -243414,9 +243474,9 @@
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SocialMisprediction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -243431,9 +243491,16 @@
           "show": "Huberman Lab",
           "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
           "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        },
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/socialmisprediction/"
     },
     "SocialRankFlexibility": {
@@ -249676,6 +249743,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
+    },
+    "StrengthsBasedJobCrafting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/strengthsbasedjobcrafting/"
     },
     "StressBiologicalAging": {
       "episode_count": 3,
@@ -262104,6 +262187,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/timwalz/"
+    },
+    "TimeAffluence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5061134579 [SCIM5061134579].md",
+          "key": "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579",
+          "show": "Huberman Lab",
+          "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
+          "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/timeaffluence/"
     },
     "TimeAndPaydayLoanTrap": {
       "episode_count": 1,

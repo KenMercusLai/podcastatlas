@@ -5,7 +5,8 @@ tags: [psychology, social-cognition, relationships]
 sources:
   - how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132
   - how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563
-last_updated: 2026-09-23
+  - how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Social misprediction is the recurring error in forecasting other people's intere
 
 [[JamilZaki]] extends the pattern beyond stranger conversation. People may expect gratitude, helping, vulnerability, confiding, and political disagreement to be more awkward or harmful than they prove to be; they may also underestimate general friendliness, compassion, openness, and trustworthy behavior. Both sources therefore treat beliefs about others as testable predictions, with safe real interaction providing evidence that detached rumination cannot.
 
+[[LaurieSantos]] independently reinforces this under-sociality account and extends it to compliments, gifts, reaching out, and asking for help. The episode also qualifies trait labels: self-described introverts may prefer depth or solitude yet still enjoy a bounded interaction more than they predicted. The error concerns forecast calibration, not a requirement to maximize social exposure.
+
 At larger scale, the same mechanism can exaggerate stereotypes and political rivalry. More information does not automatically improve judgment when platforms foreground fringe actors or when strong priors determine how evidence is interpreted.
 
 ## Key Claims
@@ -28,6 +31,7 @@ At larger scale, the same mechanism can exaggerate stereotypes and political riv
 - Visible behavior is useful evidence but remains ambiguous without context, voice, or reciprocal response.
 - Avoidance prevents belief updating and can make pessimistic expectations persist without a fair test.
 - Small, bounded social experiments can improve calibration in either direction.
+- Introversion does not eliminate social reward, and asking for help may be experienced more positively by both parties than the requester expects.
 
 ## Evidence
 - Stranger interest and requests: [[how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132]] reports underestimation of conversational interest and willingness to comply with requests.
@@ -35,14 +39,14 @@ At larger scale, the same mechanism can exaggerate stereotypes and political riv
 - Broader social forecasts: [[how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563]] extends pessimistic prediction to gratitude, help, vulnerability, confiding, trust, and disagreement.
 - Learning interventions: [[how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563]] describes Stanford peer-data interventions and encounter counting as ways to correct mistaken expectations.
 - Political scale: both [[how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132]] and [[how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563]] connect prior beliefs and group categories to distorted judgment of political opponents.
+- Independent under-sociality account: [[how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579]] reports that people underestimate stranger conversation, compliments, gratitude, gifts, outreach, and help-seeking, including among introverts.
 
 ## Counterevidence & Qualifications
-Neither source says optimistic forecasts are always correct or that all social approach is safe. Friendliness can be misread as intimacy, risk is unevenly distributed, cultural norms differ, and power or abuse can make vulnerability costly. Study findings are summarized in public interviews without complete methods, and the concept should not substitute for clinical assessment of severe social anxiety, depression, trauma, or loneliness.
+The sources do not say optimistic forecasts are always correct or that all social approach is safe. Friendliness can be misread as intimacy, risk is unevenly distributed, cultural norms differ, and power or abuse can make vulnerability costly. Trait labels, preference for solitude, and the need for recovery time should not be treated as defects. Study findings are summarized in public interviews without complete methods, and the concept should not substitute for clinical assessment of severe social anxiety, depression, trauma, or loneliness.
 
 ## What Changed
-- Extended the concept from stranger conversation and requests to gratitude, vulnerability, trust, and disagreement.
-- Added peer-data correction and encounter counting as explicit belief-updating methods.
-- Added a stronger safety and power qualification around social experimentation.
+- Added independent support for underestimating compliments, gifts, outreach, and help-seeking.
+- Clarified that introversion can coexist with positive prediction error and does not mandate greater exposure.
 
 ## Related Concepts
 - [[EverydaySocialConnection]] - practical behavior pattern often blocked by pessimistic forecasts.

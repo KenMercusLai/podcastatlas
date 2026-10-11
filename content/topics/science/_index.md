@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1563
+topic_total_pages: 1565
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3053,6 +3053,9 @@ topic_entities:
   - key: "KurtStenn"
     title: "Kurt Stenn / 库尔特·斯坦"
     url: "/wiki/entities/kurtstenn/"
+  - key: "LaurieSantos"
+    title: "Laurie Santos"
+    url: "/wiki/entities/lauriesantos/"
   - key: "LeahCrum"
     title: "Leah Crum"
     url: "/wiki/entities/leahcrum/"
@@ -4245,6 +4248,9 @@ topic_sources:
   - key: "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780"
     title: "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky"
     url: "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
+  - key: "how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579"
+    title: "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos"
+    url: "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
   - key: "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629"
     title: "How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson"
     url: "/wiki/sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629/"

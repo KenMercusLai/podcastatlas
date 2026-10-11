@@ -35906,3 +35906,11 @@ Added source `vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqc
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos
+
+Added source `how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579`; created [[LaurieSantos]], [[HedonicAdaptationAndContrast]], [[TimeAffluence]], and [[StrengthsBasedJobCrafting]]; and resynthesized [[EverydaySocialConnection]], [[SocialMisprediction]], [[AttentionPresenceAndHappiness]], [[EmotionAcceptanceSignalAction]], and [[MortalityContemplationValueReorientation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: happiness combines lived affect with reflective life evaluation, people often overrate changed circumstances and underrate live connection or prosocial action, phones and fragmented time can displace presence, negative emotions can carry information without governing action, and adaptation makes comparison, finitude, process, and strengths use relevant to sustained wellbeing. No settled contradiction was adopted. The lottery/paraplegia shorthand is explicitly prevented from implying equal or complete recovery; the older income threshold, prevalence figures, country comparisons, phone effects, gratitude timing, pet associations, time-famine comparison, and other numerical or causal study claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[SyntheticHappiness]], and [[RewardPredictionErrorLearning]] pages were kept closed because the source, guest, and focused bounded concepts capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,496 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

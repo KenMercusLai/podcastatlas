@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10395
+wiki_total_pages: 10398
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2231,6 +2231,9 @@ wiki_pages:
   - key: "StrengthFirstSelfExamination"
     title: "Strength-First Self-Examination"
     url: "/wiki/concepts/strengthfirstselfexamination/"
+  - key: "StrengthsBasedJobCrafting"
+    title: "Strengths-Based Job Crafting"
+    url: "/wiki/concepts/strengthsbasedjobcrafting/"
   - key: "StressBiologicalAging"
     title: "Stress Biological Aging"
     url: "/wiki/concepts/stressbiologicalaging/"

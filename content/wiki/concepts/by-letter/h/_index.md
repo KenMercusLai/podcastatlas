@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10395
+wiki_total_pages: 10398
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "HeavyAgricultureLightCommercePolicy"
     title: "Heavy Agriculture and Light Commerce Policy / 重农轻商政策"
     url: "/wiki/concepts/heavyagriculturelightcommercepolicy/"
+  - key: "HedonicAdaptationAndContrast"
+    title: "Hedonic Adaptation and Contrast"
+    url: "/wiki/concepts/hedonicadaptationandcontrast/"
   - key: "HefeiIndustrialInvestmentModel"
     title: "Hefei Industrial Investment Model / 合肥模式"
     url: "/wiki/concepts/hefeiindustrialinvestmentmodel/"

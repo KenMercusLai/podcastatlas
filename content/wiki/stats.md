@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10395
-- Entities: 13302
-- Sources: 4495
-- Total wiki content pages: 28193
+- Concepts: 10398
+- Entities: 13303
+- Sources: 4496
+- Total wiki content pages: 28198
 
 ## Links
-- Wiki link references: 655365
-- Unique wiki link targets: 28220
-- Missing targets: 36
+- Wiki link references: 655457
+- Unique wiki link targets: 28226
+- Missing targets: 37
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4495
-- Matched episodes: 4495
+- Source pages: 4496
+- Matched episodes: 4496
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -74,6 +74,8 @@ outputs: ["html"]
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`
   - `content/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md`
   - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
+- `[[IntrinsicMotivationOperationalization]]`
+  - `content/wiki/concepts/StrengthsBasedJobCrafting.md`
 - `[[JimKoch]]`
   - `content/wiki/concepts/FounderRiskCalibration.md`
 - `[[MargaretBeaufort]]`
