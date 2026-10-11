@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman](sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530.md) — Huberman Lab father–son conversation on scientific curiosity, independence, field-changing, quantum communication, meditation, ordinary joy, and process-centered achievement.
 - [VOL.144跨性别、同性恋不是病 对话精神心理、生殖、法律专家坦言性少数人群的现实问题](sources/vol-144-kuaxingbie-tongxinglian-bushi-bing-duihua-jingshenxinli-shengzhi-falv-zhuanjia-tanyan-xingshaoshu-renqun-de-xianshi-wenti-lrpel14itpyosff9c9gs9hkfn8tp.md) — 多学科与亲历者讨论性少数身份非疾病、家庭少数压力、跨性别照护、证件连续性和公共空间支持。
 - [523. Charlemagne: Return of the Kings (Part 1)](sources/523-charlemagne-return-of-the-kings-part-1-glt5104943454.md) — The Rest Is History on Charles Martel's consolidation, Pepin's anointed takeover, papal vulnerability, the Lombard threat, and Charlemagne's inheritance.
 - [Essentials: How to Focus to Change Your Brain](sources/essentials-how-to-focus-to-change-your-brain-scim8946719720.md) — Condensed Huberman Lab episode on attention-gated adult neuroplasticity, alertness, selective focus, bounded learning bouts, sleep, and deep-rest consolidation.
@@ -4584,6 +4585,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Bernardo Huberman](entities/BernardoHuberman.md) — Physicist and technology researcher whose career joins cross-disciplinary curiosity, independence, quantum communication, and ordinary-life joy.
 - [刘娜 / Liu Na (psychiatrist)](entities/LiuNaPsychiatrist.md) — 精神科嘉宾，区分性少数身份与痛苦，并讨论家庭支持和跨性别多学科照护。
 - [罗早熙 / Luo Zaoxi (legal scholar)](entities/LuoZaoxiLegalScholar.md) — 法律嘉宾，讨论性别标记、学历学位连续性、就业隐私和反歧视保护。
 - [小林 / Xiaolin (sexual-minority guest)](entities/XiaolinSexualMinorityGuest.md) — 分享自我接纳、家庭出柜、婚育压力和性少数可见性的亲历者。
@@ -17963,6 +17965,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Pursuit-Centered Achievement](concepts/PursuitCenteredAchievement.md) — View that ambitious work draws durable meaning from sustained inquiry and practice rather than only brief success peaks.
+- [Physics-Grounded Quantum Security](concepts/PhysicsGroundedQuantumSecurity.md) — Security model using measurement-induced disturbance to reveal interception during quantum key exchange.
 - [Sexual-Minority Identity–Care Boundary / 性少数身份与照护边界](concepts/SexualMinorityIdentityCareBoundary.md) — 区分非病理身份与痛苦、功能、安全和个人照护目标的临床边界。
 - [Family Rejection and Minority Stress / 家庭拒斥与少数压力](concepts/FamilyRejectionMinorityStress.md) — 家庭拒斥、强制婚育、隐瞒与纠正企图转化为身心和关系压力的路径。
 - [Transgender Multidisciplinary Care / 跨性别多学科照护](concepts/TransgenderMultidisciplinaryCare.md) — 协调探索、心理健康、内分泌、手术、伦理和社会支持的个体化照护框架。

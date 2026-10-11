@@ -68310,6 +68310,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PhysicsGroundedQuantumSecurity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PhysicsOfAI": [
     {
       "key": "technology",
@@ -103325,6 +103332,13 @@
     }
   ],
   "how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530": [
     {
       "key": "science",
       "label": "Science",

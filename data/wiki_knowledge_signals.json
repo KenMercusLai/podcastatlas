@@ -28047,6 +28047,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/bernardrenedelaunay/"
     },
+    "BernardoHuberman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8988164530 [SCIM8988164530].md",
+          "key": "how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530",
+          "show": "Huberman Lab",
+          "title": "How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman",
+          "url": "/wiki/sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/bernardohuberman/"
+    },
     "BernieMarcus": {
       "episode_count": 2,
       "show_count": 1,
@@ -132857,6 +132873,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/intellectualhonestyfeedbackloop/"
     },
+    "IntellectualLifeAsPractice": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？ [lkiRczXnx8SkbBFpMZ5-m-MiVs4e].md",
+          "key": "ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e",
+          "show": "Talk三联",
+          "title": "EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？",
+          "url": "/wiki/sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e/"
+        },
+        {
+          "episode_file": "SCIM8988164530 [SCIM8988164530].md",
+          "key": "how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530",
+          "show": "Huberman Lab",
+          "title": "How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman",
+          "url": "/wiki/sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/intellectuallifeaspractice/"
+    },
     "IntellectualResponsibilityUnderAuthoritarianism": {
       "episode_count": 4,
       "show_count": 2,
@@ -205502,6 +205541,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/physicalworldcomputestack/"
     },
+    "PhysicsGroundedQuantumSecurity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8988164530 [SCIM8988164530].md",
+          "key": "how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530",
+          "show": "Huberman Lab",
+          "title": "How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman",
+          "url": "/wiki/sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/physicsgroundedquantumsecurity/"
+    },
     "PhysicsStagnationClaim": {
       "episode_count": 1,
       "show_count": 1,
@@ -216511,6 +216566,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/purposeintegratedmotivation/"
+    },
+    "PursuitCenteredAchievement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8988164530 [SCIM8988164530].md",
+          "key": "how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530",
+          "show": "Huberman Lab",
+          "title": "How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman",
+          "url": "/wiki/sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/pursuitcenteredachievement/"
     },
     "PushPullIntimacyCommunication": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3471
+topic_total_pages: 3472
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3649,6 +3649,9 @@ topic_concepts:
   - key: "PhysicsOfAI"
     title: "Physics Of AI"
     url: "/wiki/concepts/physicsofai/"
+  - key: "PhysicsGroundedQuantumSecurity"
+    title: "Physics-Grounded Quantum Security"
+    url: "/wiki/concepts/physicsgroundedquantumsecurity/"
   - key: "PiratedStreamingBoxMalware"
     title: "Pirated Streaming Box Malware"
     url: "/wiki/concepts/piratedstreamingboxmalware/"

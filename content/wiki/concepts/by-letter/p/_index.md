@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10409
+wiki_total_pages: 10411
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "PhysicsStagnationClaim"
     title: "Physics Stagnation Claim"
     url: "/wiki/concepts/physicsstagnationclaim/"
+  - key: "PhysicsGroundedQuantumSecurity"
+    title: "Physics-Grounded Quantum Security"
+    url: "/wiki/concepts/physicsgroundedquantumsecurity/"
   - key: "PhysiognomyMoralAppearanceFallacy"
     title: "Physiognomy Moral Appearance Fallacy / 以貌定德谬误"
     url: "/wiki/concepts/physiognomymoralappearancefallacy/"
@@ -2684,6 +2687,9 @@ wiki_pages:
   - key: "PurposeIntegratedMotivation"
     title: "Purpose-Integrated Motivation"
     url: "/wiki/concepts/purposeintegratedmotivation/"
+  - key: "PursuitCenteredAchievement"
+    title: "Pursuit-Centered Achievement"
+    url: "/wiki/concepts/pursuitcenteredachievement/"
   - key: "PushPullIntimacyCommunication"
     title: "Push-Pull Intimacy Communication / 推开式亲密求助"
     url: "/wiki/concepts/pushpullintimacycommunication/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1565
+topic_total_pages: 1566
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4335,6 +4335,9 @@ topic_sources:
   - key: "how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142"
     title: "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant"
     url: "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+  - key: "how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530"
+    title: "How to Use Curiosity & Focus to Create a Joyful & Meaningful Life | Dr. Bernardo Huberman"
+    url: "/wiki/sources/how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life-dr-bernardo-huberman-scim8988164530/"
   - key: "how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949"
     title: "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance"
     url: "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
