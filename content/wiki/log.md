@@ -35525,3 +35525,13 @@ Added source `056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yidi
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 055 最后一剑，风情无限：长期被忽视的金庸杰作《越女剑》
+
+Added source `055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe`; created [[AQingYueNvJian|阿青]], [[XiShi|西施]], and [[WuxiaIndirectCharacterization|武侠的间接人物塑造]]; and resynthesized [[YueNvJian|《越女剑》]], [[FanLi|范蠡]], [[Goujian|越王勾践]], and [[WuxiaIntertextualCraft]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: delayed entrance, observed consequences, crossed speech, and rival reactions let the novella make Ah Qing's swordsmanship, love, and final restraint larger than explicit exposition, while the Wu-Yue victory and “西子捧心” preserve public history at the cost of obscuring her private loss. No settled contradiction was adopted. The white ape's attachment, Ah Qing's departure, love-versus-politics interpretation, publication chronology, exact length, project history, character motives, Daoist design, and authorial intention remain contested or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused work, character, ruler, and craft pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,448 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

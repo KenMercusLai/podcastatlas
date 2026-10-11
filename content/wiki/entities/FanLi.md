@@ -2,26 +2,69 @@
 title: "范蠡 / Fan Li"
 type: entity
 tags: [person, minister, yue-state, spring-and-autumn, pre-qin]
-sources: [zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si
+  - 055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe
+knowledge_schema: synthesis-v1
+last_updated: 2026-10-11
 ---
 
-# 范蠡 / Fan Li
+## Overview
 
-[[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] uses Fan Li as the positive example for [[WealthThroughDaoFrame|求财先明道]]. The source says Fan Li learned through Jiran, linked through [[Laozi|老子]], grasped rule and human nature, left politics for commerce, preserved his life, became wealthy, gave away wealth, and rebuilt it repeatedly.
+范蠡 / Fan Li is a Yue minister whose wiki profile joins post-victory political exit, later wealth ethics, and Jin Yong's literary portrayal of competence, tolerance, and devotion to [[XiShi|西施]].
 
-This addition shifts one side of Fan Li's wiki role from political exit to wealth ethics. The same person who leaves [[Goujian|越王勾践]] after victory becomes, in Hanji 920, an example of durable earning through timing, perception, and moral capacity rather than mere money-seeking technique.
+## Current Profile
 
-范蠡 / Fan Li appears in [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] after [[Goujian|越王勾践]] destroys [[WuState|吴国]]. The episode says Fan Li recognizes the changed danger: the ruler who endured humiliation before revenge may not want powerful ministers nearby after victory.
+Across the historical-political podcast sources, Fan Li is a diagnostic figure: he recognizes that usefulness during [[Goujian|越王勾践]]'s struggle does not guarantee safety after victory, leaves [[YueState|越国]], and warns [[WenZhongYue|文种]]. A later wealth frame turns the same capacity to read patterns and people into an explanation of durable earning and redistribution. Another source uses his successful retreat as a foil to [[ChenPing|陈平]]'s harder choice to keep acting inside court politics.
 
-Fan Li's role is diagnostic. By leaving [[YueState|越国]] and warning [[WenZhongYue|文种]], he turns a triumph story into a political-exit lesson: usefulness in adversity does not guarantee safety once the ruler has recovered status and no longer needs witnesses to the earlier humiliation.
+His literary profile is different but compatible. In [[YueNvJian|《越女剑》]], Fan Li is patient with [[AQingYueNvJian|阿青]], draws her toward Yue's military problem, and remains emotionally absorbed by Xi Shi. This creates both attraction and injury: his breadth and competence make him lovable, while his inattention leaves Ah Qing's speech and desire largely unanswered.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] cites Fan Li as the successful-retirement contrast to [[ChenPing|陈平]]. The source acknowledges the appeal of功成身退, but uses Chen Ping to argue for [[WorldlyPoliticalCultivation|入世政治修行]]: staying inside the court and continuing to act can represent a higher or harder political path than leaving once personal safety is secured.
+## Key Characteristics
 
-## Connections
-- [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]], [[WealthThroughDaoFrame|求财先明道]], [[Laozi|老子]], and [[CognitionAsFortuneRoot|认知通达决定福禄]] - wealth, Dao, rule, and human-nature reading.
-- [[Goujian|越王勾践]] - ruler Fan Li leaves after victory.
-- [[WenZhongYue|文种]] - minister Fan Li warns.
-- [[YueState|越国]] and [[WuState|吴国]] - victor state and defeated enemy.
-- [[PowerExitTrap|权力退场困境]] - adjacent concept for dangerous exit after accumulated political exposure.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[ChenPing|陈平]], and [[WorldlyPoliticalCultivation|入世政治修行]] - source-scoped retirement contrast.
+- He reads post-victory danger and treats timely exit as part of political judgment.
+- His warning to Wen Zhong distinguishes recognizing a trap from being able to save another person from it.
+- He serves as a source-scoped wealth exemplar for pattern recognition, ethical capacity, rebuilding, and giving away wealth.
+- His withdrawal is not the only model of political cultivation; the Chen Ping comparison preserves a case for difficult continued participation.
+- In Jin Yong's novella he combines competence and tolerance with unwavering attachment to Xi Shi.
+- His focus on strategy, skill, and remembered love can make him inattentive to Ah Qing's emotional position.
+
+## Evidence
+
+### Political exit after victory
+
+- [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] presents Fan Li's departure and warning to Wen Zhong after Yue destroys Wu.
+
+### Wealth and interpretive capacity
+
+- [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws]] uses Fan Li as a source-scoped example of grasping rule and human nature before repeatedly rebuilding and distributing wealth.
+
+### Withdrawal versus worldly participation
+
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]] contrasts Fan Li's safe retirement with Chen Ping's continued action inside dangerous politics.
+
+### Literary competence and emotional inattention
+
+- [[055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe]] reads Fan Li's treatment of Ah Qing, memory of Xi Shi, use of Ah Qing's ability, and refusal to kill her as a mixed profile of breadth, devotion, and limited attention.
+
+## Qualifications
+
+These sources mix historical retelling, moral exemplum, wealth philosophy, and literary criticism. Claims about Fan Li's motives, conversations, commercial method, repeated wealth, and romantic character remain bounded to those source frames. Jin Yong's Fan Li should not be treated as direct evidence for the historical person, and the contrast with Chen Ping does not settle whether withdrawal or continued service is universally superior.
+
+## What Changed
+
+- Integrated the literary Fan Li without replacing the preserved political-exit and wealth profiles.
+- Added the tension between admirable devotion and inattentiveness to Ah Qing.
+- Migrated the page to the synthesis-first evidence structure while preserving source order.
+
+## Relationships
+
+- [[Goujian|越王勾践]] - ruler whose victory creates both Fan Li's achievement and his reason to leave.
+- [[WenZhongYue|文种]] - colleague warned about the danger of remaining after victory.
+- [[XiShi|西施]] - beloved whose memory and return govern his literary emotional arc.
+- [[AQingYueNvJian|阿青]] - gifted ally attracted to him but not reciprocally loved.
+- [[YueNvJian|《越女剑》]] - novella joining his political work to a triangular love story.
+- [[PowerExitTrap|权力退场困境]] - explains why success can make continued proximity to a ruler dangerous.
+- [[WealthThroughDaoFrame|求财先明道]] - source-scoped frame that makes him an exemplar of durable earning.
+- [[WorldlyPoliticalCultivation|入世政治修行]] - alternative model that tests the limits of treating retreat as the highest achievement.

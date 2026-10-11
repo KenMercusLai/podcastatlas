@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13215
+wiki_total_pages: 13217
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2270,6 +2270,9 @@ wiki_pages:
   - key: "ACuo"
     title: "阿错 / Acuo"
     url: "/wiki/entities/acuo/"
+  - key: "AQingYueNvJian"
+    title: "阿青（《越女剑》） / Ah Qing"
+    url: "/wiki/entities/aqingyuenvjian/"
   - key: "AoyagiAito"
     title: "青柳碧人 / Aoyagi Aito"
     url: "/wiki/entities/aoyagiaito/"

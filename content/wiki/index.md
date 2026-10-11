@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [055 最后一剑，风情无限：长期被忽视的金庸杰作《越女剑》](sources/055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe.md) — 纸醉金迷FM以阿青的延迟登场、武功虚写、三层感情与“西子捧心”重读《越女剑》，并在自然、政治和历史记忆之间保留多种解释。
 - [058 无人不冤，有情皆孽：段誉才是《天龙八部》第一主角？](sources/058-wuren-buyuan-youqing-jienie-duanyu-caishi-tianlongbabu-diyi-zhujue-lmwnsc-ey8o7ysczh0qynwypqyqp.md) — 纸醉金迷FM以段誉的原则、变通、儒释道交汇和叙事桥梁功能重读其主角地位，并比较钟灵、木婉清、王语嫣及新修版的爱情投射与人物争议。
 - [059 闲话金庸《天龙八部》：段正淳和他的女友团](sources/059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw.md) — 纸醉金迷FM以段正淳的当下真心、长期失诺与王爷身份错位为核心，并比较六位女性在重建、封闭、控制、伤害转移、降低期待、自伤和名分谈判之间的不同应对。
 - [060 《天龙八部》之萧峰篇：虽万千人吾往矣](sources/060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv.md) — 纸醉金迷FM以三分钟付费节目开场预告萧峰的侠义、豪迈、族群身份与悲剧命运，同时明确正片分析尚未进入现有转录。
@@ -4529,6 +4530,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
 
 ## Entities
+- [阿青（《越女剑》） / Ah Qing](entities/AQingYueNvJian.md) — 以自然习得的神话剑术、对范蠡的未遂爱情、最终克制与历史遗忘构成的牧羊女剑客。
+- [西施 / Xi Shi](entities/XiShi.md) — 《越女剑》中经范蠡记忆与阿青反应侧面塑造、并使“西子捧心”获得武侠爱情新解的文学形象。
 - [《欢乐英雄》 / Happy Heroes](entities/HappyHeroesGuLong.md) — 古龙以富贵山庄四人组把孤独大侠改写为共同生活、保有秘密并互相支援的喜剧式武侠群像。
 - [郭大路 / Guo Dalu](entities/GuoDalu.md) — 以慷慨、轻信、从错误中学习和冒险式应变连接赤子之心、战斗与燕七爱情线的主人公。
 - [王动（《欢乐英雄》） / Wang Dong](entities/WangDongHappyHeroes.md) — 以不动、洞察、隐藏往事和集体应敌连接退隐气质与作者哲理表达的富贵山庄主人。
@@ -17812,6 +17815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Wuxia Indirect Characterization / 武侠的间接人物塑造](concepts/WuxiaIndirectCharacterization.md) — 以延迟登场、后果、见证、反应和留白塑造武功尺度、人物之美与感情关系的叙事方法。
 - [Friendship as Shared Home / 友情作为共同归宿](concepts/FriendshipAsSharedHome.md) — 以共同生活、容纳隐私和共同承担风险，使贫乏空间在血缘与财富之外成为家的关系机制。
 - [Comic Poverty-Constraint Gap / 喜剧贫困与约束落差](concepts/ComicPovertyConstraintGap.md) — 区分反复出现的饥饿与典当，和真正压缩选择、改变关系或造成不可逆代价的物质约束。
 - [Narrative Bridge Protagonist / 叙事桥梁型主角](concepts/NarrativeBridgeProtagonist.md) — 以跨故事区移动、关系牵线、开篇和收束视角解释主角结构中心性的框架。
