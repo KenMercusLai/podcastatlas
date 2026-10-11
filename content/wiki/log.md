@@ -36309,3 +36309,11 @@ Added source `lriy1oybgigotwswtzkfbrdrhtl7`; created [[WhiteHorseNeighsInWestern
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 020 一日讲完百年事：闲话金庸《雪山飞狐》
+
+Added source `loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr`; created [[XueshanFeihu|《雪山飞狐》]], [[HuYidao|胡一刀]], and [[MiaoRuolan|苗若兰]]; and resynthesized [[HuFei|胡斐]], [[MiaoRenfeng|苗人凤]], [[InheritedEnmityRevision|继承仇恨的修正]], [[RashomonEffect|罗生门效应]], and [[WuxiaIndirectCharacterization|武侠的间接人物塑造]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: one day of present action opens into a twenty-seven-year death mystery and a century of inherited misunderstanding; the testimony sequence combines self-interested contradiction with cumulative revelation; Hu Yidao becomes the moral center through equality, fair means, family responsibility, restraint, and downstream loyalty; and Hu Fei's suspended final blow concentrates revenge, love, kinship, and survival without resolving them. No settled contradiction was adopted. Martial rankings, marriage psychology, motives, literary influence, rankings, exact chronology, dialogue, and edition or adaptation details remain interpretive or source-scoped, while repeated communication failures qualify the novel's otherwise compressed dramatic design. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused novel, character, and craft pages capture the durable addition without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten because this focused literary branch does not change the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,547 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

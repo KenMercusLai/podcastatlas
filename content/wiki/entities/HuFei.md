@@ -6,13 +6,14 @@ sources:
   - 083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz
   - lpdgbamp4me47zk41u9tgxo4a2h7-lpdgbamp4me47zk41u9tgxo4a2h7
   - lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic
+  - loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-胡斐 / Hu Fei is the protagonist of [[FeihuWaizhuan|《飞狐外传》]]. The bounded sources read his relationships with [[YuanZiyi|袁紫衣]] and [[ChengLingsu|程灵素]] as a test of the difference among desire, admiration, reciprocity, care, and belated recognition.
+胡斐 / Hu Fei is the protagonist of [[FeihuWaizhuan|《飞狐外传》]] and the titular "Snowy Mountain Flying Fox" of [[XueshanFeihu|《雪山飞狐》]]. The bounded sources place his romantic development, victim-centered chivalry, revision of inherited enmity, and unresolved final duel inside one continuous moral profile.
 
 ## Current Profile
 
@@ -26,6 +27,8 @@ The new bounded source places those relationships inside a wider moral profile. 
 
 His relation to [[MiaoRenfeng|苗人凤]] supplies the opposite difficulty. Hu Fei inherits reason for vengeance but lacks complete causal knowledge; Miao's trust, courage, and restraint make a mechanical enemy category untenable. [[ZhaoBanshan|赵半山]] helps stabilize the standard by teaching that martial ability must follow the right path and modeling refusal to let friendship excuse wrongdoing.
 
+The later-set [[XueshanFeihu|《雪山飞狐》]] source complicates his centrality. Hu Fei drives the present action and carries the title, yet the hosts find his personality less sharply defined than [[HuYidao|胡一刀]]'s remembered moral presence. His bond with [[MiaoRuolan|苗若兰]] rests on shared literary, musical, and jianghu understanding, but the ending refuses to convert that compatibility into easy reconciliation: striking Miao Renfeng may kill her father, while withholding the blow may cost Hu Fei his life.
+
 ## Key Characteristics
 
 - Responds strongly to beauty, novelty, play, martial parity, and uncertain availability.
@@ -34,7 +37,7 @@ His relation to [[MiaoRenfeng|苗人凤]] supplies the opposite difficulty. Hu F
 - Wants to preserve companionship after refusing romance, creating an ethically ambiguous boundary.
 - Shows possible movement toward domestic and romantic imagination in the revised edition.
 - Reinterprets Cheng Lingsu only after irreversible loss, turning growth into regret rather than relationship.
-- Accepts cost for strangers and revises inherited hatred when observed character complicates the grievance.
+- Accepts cost for strangers, revises inherited hatred, and faces an unresolved choice where revenge, love, and survival conflict.
 
 ## Evidence
 
@@ -66,19 +69,26 @@ His relation to [[MiaoRenfeng|苗人凤]] supplies the opposite difficulty. Hu F
 
 - [[lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic]] shows Miao Renfeng's character and Zhao Banshan's mentorship complicating revenge and shaping Hu Fei's standard of conduct.
 
+### Titular role and final moral choice
+
+- [[loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr]] distinguishes Hu Fei's plot-driving role from Hu Yidao's stronger remembered characterization and reads the final suspended blow as a collision among survival, love, kinship, and inherited vengeance.
+
 ## Qualifications
 
-The sources are conversational literary readings, not diagnoses or a full edition study. The claim that Hu Fei feels threatened by Cheng Lingsu's intelligence is explicitly disputed, and his marriage fantasy supports possible change rather than proving a completed love. His motive toward Ma Chunhua remains mixed, while respect for Miao Renfeng does not settle the full causation of Hu Yidao's death. Criticism of Hu Fei's boundaries should remain distinct from a claim that another person's merit or sacrifice entitles them to romance.
+The sources are conversational literary readings, not diagnoses or a full edition study. The claim that Hu Fei feels threatened by Cheng Lingsu's intelligence is explicitly disputed, and his marriage fantasy supports possible change rather than proving a completed love. His motive toward Ma Chunhua remains mixed, while respect for Miao Renfeng does not settle the full causation of Hu Yidao's death. Calling him indistinct or predicting the outcome of the final blow remains interpretive. Criticism of Hu Fei's boundaries should remain distinct from a claim that another person's merit or sacrifice entitles them to romance.
 
 ## What Changed
 
-- Expanded the profile from romantic timing into gratitude, stranger-directed redress, and revision of inherited enmity.
-- Added acceptance of personal cost and resistance to relational pressure as central evidence of侠义.
-- Preserved mixed motives and incomplete causal knowledge rather than forcing clean moral categories.
+- Extended the profile into 《雪山飞狐》, where titular centrality and spiritual centrality diverge.
+- Added Miao Ruolan's shared cultural understanding and the final suspended blow to his mature relational and moral profile.
+- Preserved mixed motives, incomplete causal knowledge, and an unresolved ending rather than forcing clean categories.
 
 ## Relationships
 
 - [[FeihuWaizhuan|《飞狐外传》]] - novel in which his central emotional conflict develops.
+- [[XueshanFeihu|《雪山飞狐》]] - later-set novel in which he carries the title and faces the feud's unresolved final test.
+- [[HuYidao|胡一刀]] - father whose death supplies the inherited grievance and whose moral presence overshadows him in one reading.
+- [[MiaoRuolan|苗若兰]] - romantic counterpart linked by literary, musical, and jianghu understanding.
 - [[YuanZiyi|袁紫衣]] - first romantic attachment associated with beauty, excitement, and uncertainty.
 - [[ChengLingsu|程灵素]] - companion whose competence, care, and death transform respect into belated regret.
 - [[MaChunhua|马春花]] - early benefactor whose kindness he repays through repeated protection.

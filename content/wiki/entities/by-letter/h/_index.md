@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13388
+wiki_total_pages: 13391
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1616,6 +1616,9 @@ wiki_pages:
   - key: "HongseHuojianIndexTool"
     title: "红色火箭 / Hongse Huojian"
     url: "/wiki/entities/hongsehuojianindextool/"
+  - key: "HuYidao"
+    title: "胡一刀 / Hu Yidao"
+    url: "/wiki/entities/huyidao/"
   - key: "HuSanxing"
     title: "胡三省 / Hu Sanxing"
     url: "/wiki/entities/husanxing/"

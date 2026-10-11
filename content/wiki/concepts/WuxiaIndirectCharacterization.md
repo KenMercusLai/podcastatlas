@@ -6,6 +6,7 @@ sources:
   - 055-zuihou-yijian-fengqing-wuxian-changqi-beihushi-de-jinyong-jiezuo-yuenvjian-lgahdjfqea0-n7m0pl7yynm3spwe
   - 031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps
   - ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl
+  - loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-12
 ---
@@ -22,6 +23,8 @@ A third pattern characterizes through a remembered effect on another life. In [[
 
 Emotion and identity use the same grammar of attention, reaction, witness, and omission. [[FanLi|范蠡]]'s remembered description of [[XiShi|西施]] leaves Ah Qing unheard, the white ape's attacks imply attachment without naming it, and Ah Qing's halted strike makes Xi Shi's beauty visible through a rival's reaction. 黑珍珠's blushes, jealousy, and omissions likewise imply identity and attachment without explicit disclosure. Direct summary can flatten an arc that action has already earned, but omission is not a license to convert one plausible reading into fact, and indirect evidence does not make all explicit description artistically weak.
 
+Absent-character reconstruction extends the same framework through [[HuYidao|胡一刀]]. His page time is brief and his death precedes the main action, yet witnesses preserve choices that converge on a stable profile: equality toward low-status people, refusal of unfair advantage, aid to an opponent's family, restraint at a lethal moment, and fear redirected toward responsibility for wife and child. Ping A-si's lifelong protection of [[HuFei|胡斐]] then functions as downstream evidence of what Hu Yidao's recognition meant. Indirect characterization can therefore accumulate across testimony without requiring every witness to be reliable about every fact.
+
 ## Key Claims
 
 - Delayed entrance can make a character's arrival resolve pressure that the narrative has already taught the reader to feel.
@@ -30,6 +33,7 @@ Emotion and identity use the same grammar of attention, reaction, witness, and o
 - Debt repayment, rescue, jealousy, and embarrassment can make relational change visible through action and reaction.
 - Trait labels are weakest when several characters receive similar descriptors without differentiating conduct.
 - Strategic omission preserves interpretive plurality, but indirection becomes weak evidence if readers promote one possible motive into settled psychology without qualification.
+- A dead or briefly present figure can become the moral center when independent actions, memories, and downstream loyalties converge on the same traits.
 
 ## Evidence
 
@@ -58,15 +62,19 @@ Emotion and identity use the same grammar of attention, reaction, witness, and o
 
 - [[ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl]] questions female traits that are assigned directly, shift without preparation, or recur across characters with too little behavioral distinction.
 
+### Absent character through convergent testimony
+
+- [[loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr]] reconstructs Hu Yidao through remembered equality, fair combat, family concern, restraint, and the durable loyalty his conduct produces in Ping A-si.
+
 ## Counterevidence & Qualifications
 
-This framework rests on three close readings of fiction, not universal evidence about reader response. Delayed entrance is not always characterization, unexplained action is not automatically rich ambiguity, and dialogue or narrator summary can be effective when it clarifies rather than duplicates. Claims about love, jealousy, gender, Daoist naturalness, disability, or authorial intent should remain tied to observable sequence and marked as interpretation.
+This framework rests on four close readings of fiction, not universal evidence about reader response. Delayed entrance is not always characterization, unexplained action is not automatically rich ambiguity, and repeated praise from interested witnesses may manufacture a legend rather than establish a trait. Dialogue or narrator summary can be effective when it clarifies rather than duplicates. Claims about love, jealousy, gender, Daoist naturalness, disability, martial superiority, or authorial intent should remain tied to observable sequence and marked as interpretation.
 
 ## What Changed
 
-- Added remembered consequence as a compact way to establish kindness and life-affirming empathy.
-- Added similar labels without differentiating conduct as counterevidence to effective indirect characterization.
-- Clarified that indirection is not automatically superior to all explicit description.
+- Added absent-character reconstruction through convergent testimony, conduct, and downstream loyalty.
+- Distinguished stable trait convergence from treating every witness as globally reliable.
+- Preserved assigned labels and interested testimony as counterpressure on indirect characterization.
 
 ## Related Concepts
 
@@ -80,3 +88,6 @@ This framework rests on three close readings of fiction, not universal evidence 
 - [[EmbroideredBanditGuLong|《绣花大盗》]] - case of kindness through remembered consequence and traits weakened by direct assignment.
 - [[HuaManlou|花满楼]] - case of life-affirming character revealed through effect on another person.
 - [[XueBingGuLong|薛冰]] - qualification case for insufficiently prepared trait shifts.
+- [[HuYidao|胡一刀]] - case of brief direct presence becoming moral centrality through witnesses and consequences.
+- [[XueshanFeihu|《雪山飞狐》]] - testimony structure that reconstructs both a death and a character.
+- [[RashomonEffect|罗生门效应]] - neighboring caution that witness perspective may distort as well as reveal.

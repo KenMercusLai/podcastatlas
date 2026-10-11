@@ -124606,9 +124606,9 @@
       "url": "/wiki/entities/hufanglatehan/"
     },
     "HuFei": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lv-F-QYMXTylEYgmLjijngtxaLhZ [lv-F-QYMXTylEYgmLjijngtxaLhZ].md",
@@ -124630,6 +124630,13 @@
           "show": "纸醉金迷FM",
           "title": "028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？",
           "url": "/wiki/sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic/"
+        },
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
         }
       ],
       "updated": "2026-10-12",
@@ -124866,6 +124873,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/huyatingscreenwriter/"
+    },
+    "HuYidao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/huyidao/"
     },
     "HuaLongWesternHan": {
       "episode_count": 1,
@@ -133111,9 +133134,9 @@
       "url": "/wiki/entities/inheritthestarsnovel/"
     },
     "InheritedEnmityRevision": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lt97KvuS4ycPIxZfZhBv7J84Z6IC [lt97KvuS4ycPIxZfZhBv7J84Z6IC].md",
@@ -133121,6 +133144,13 @@
           "show": "纸醉金迷FM",
           "title": "028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？",
           "url": "/wiki/sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic/"
+        },
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
         }
       ],
       "updated": "2026-10-12",
@@ -180016,9 +180046,9 @@
       "url": "/wiki/entities/miaoguanglatehan/"
     },
     "MiaoRenfeng": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lt97KvuS4ycPIxZfZhBv7J84Z6IC [lt97KvuS4ycPIxZfZhBv7J84Z6IC].md",
@@ -180026,10 +180056,33 @@
           "show": "纸醉金迷FM",
           "title": "028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？",
           "url": "/wiki/sources/lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic/"
+        },
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
         }
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/miaorenfeng/"
+    },
+    "MiaoRuolan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/miaoruolan/"
     },
     "MiaoShuNittanWuyu": {
       "episode_count": 2,
@@ -221419,6 +221472,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/raskassa/"
+    },
+    "RashomonEffect": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "17.地狱变：众生皆苦，一念入魔 [561780565].md",
+          "key": "17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565",
+          "show": "蜜獾吃书",
+          "title": "17.地狱变：众生皆苦，一念入魔",
+          "url": "/wiki/sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565/"
+        },
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/rashomoneffect/"
     },
     "RatchetEffectWorkplace": {
       "episode_count": 3,
@@ -286412,9 +286488,9 @@
       "url": "/wiki/concepts/wuxiaadultfairytale/"
     },
     "WuxiaIndirectCharacterization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgAHDjfQea0-N7m0PL7YyNm3SpwE [lgAHDjfQea0-N7m0PL7YyNm3SpwE].md",
@@ -286436,6 +286512,13 @@
           "show": "纸醉金迷FM",
           "title": "022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》",
           "url": "/wiki/sources/ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl/"
+        },
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
         }
       ],
       "updated": "2026-10-12",
@@ -290804,6 +290887,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/xuezhenzhumyfirsthalflife/"
+    },
+    "XueshanFeihu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loiLowe1OlU1lVQymKulIH_qAkXR [loiLowe1OlU1lVQymKulIH_qAkXR].md",
+          "key": "loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr",
+          "show": "纸醉金迷FM",
+          "title": "020 一日讲完百年事：闲话金庸《雪山飞狐》",
+          "url": "/wiki/sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/xueshanfeihu/"
     },
     "XuguDuhouSouthernXiongnu": {
       "episode_count": 1,

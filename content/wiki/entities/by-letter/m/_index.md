@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13388
+wiki_total_pages: 13391
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2243,6 +2243,9 @@ wiki_pages:
   - key: "MiaoWeiSanlian"
     title: "苗炜 / Miao Wei"
     url: "/wiki/entities/miaoweisanlian/"
+  - key: "MiaoRuolan"
+    title: "苗若兰 / Miao Ruolan"
+    url: "/wiki/entities/miaoruolan/"
   - key: "MaoYisheng"
     title: "茅以升 / Mao Yisheng"
     url: "/wiki/entities/maoyisheng/"

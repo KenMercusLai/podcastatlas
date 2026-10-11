@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [020 一日讲完百年事：闲话金庸《雪山飞狐》](sources/loilowe1olu1lvqymkulih_qakxr-loilowe1olu1lvqymkulih_qakxr.md) — 纸醉金迷FM以一日、二十七年与百年三层时间及逐层证言重读《雪山飞狐》，并从胡一刀的间接塑造、继承仇恨与开放结局检验侠义。
 - [021 我的阿勒泰？漫话金庸《白马啸西风》](sources/lriy1oybgigotwswtzkfbrdrhtl7.md) — 纸醉金迷FM以多组爱而不得的选择重读《白马啸西风》，并从李文秀的善意、瓦尔拉齐的复杂性和高昌宝藏讨论族群判断与文化价值。
 - [022 武侠：成人童话|漫话古龙《陆小凤传奇2：绣花大盗》](sources/ln1dwrpjw1gcv3fp8i-hceeccexl-ln1dwrpjw1gcv3fp8i-hceeccexl.md) — 纸醉金迷FM以公孙大娘的三场赌斗、花满楼的生命善意及针锤决战重读《绣花大盗》，同时质疑女性塑造、罪案动机与推理衔接。
 - [023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图](sources/ltv8h3ogrd0rkjwuchuy9u6kg9us-ltv8h3ogrd0rkjwuchuy9u6kg9us.md) — 纸醉金迷FM以高手外观与实际能力、俗语与真理、神兵与“仁者无敌”的落差解构武侠套路，并借夫妻刀法讨论关系中的相互配合。
@@ -4652,11 +4653,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [西门吹雪 / Ximen Chuixue](entities/XimenChuixue.md) — 因婚姻和将为人父而获得温度与责任，同时面对牵挂是否削弱致命专注的顶尖剑客。
 - [叶孤城 / Ye Gucheng](entities/YeGucheng.md) — 把诚于剑、城主身份、政治野心和可能主动求死聚于一身，使决斗胜负保持歧义的剑客。
 - [《飞狐外传》 / The Young Flying Fox](entities/FeihuWaizhuan.md) — 以错位爱情、报恩、为陌生人追责和继承仇恨的修正共同检验侠义判断的金庸小说。
-- [胡斐 / Hu Fei](entities/HuFei.md) — 在爱情、报恩、陌生受害者的正义诉求与对苗人凤的复杂判断之间形成侠义标准的《飞狐外传》主角。
+- [《雪山飞狐》 / Fox Volant of the Snowy Mountain](entities/XueshanFeihu.md) — 以一日集中行动、二十七年旧案、百年世仇与逐层证言组成的金庸短篇武侠小说。
+- [胡斐 / Hu Fei](entities/HuFei.md) — 从《飞狐外传》的爱情、报恩与受害者正义，走向《雪山飞狐》中爱、仇恨与生存最终选择的标题主角。
+- [胡一刀 / Hu Yidao](entities/HuYidao.md) — 通过平等待人、公平交手、家庭责任、关键克制与他人的持久忠诚成为《雪山飞狐》道德中心的人物。
 - [程灵素 / Cheng Lingsu](entities/ChengLingsu.md) — 以医毒、智谋、侠义和实践性照护保护胡斐，同时不因牺牲而获得爱情债权的悲剧人物。
 - [袁紫衣 / Yuan Ziyi](entities/YuanZiyi.md) — 既以美貌、活力与武功激发胡斐即时爱恋，又因保护凤天南而暴露亲缘义务与受害者正义之间冲突的《飞狐外传》人物。
 - [马春花 / Ma Chunhua](entities/MaChunhua.md) — 在爱情、婚姻责任、父命、阶层和有限选择之间挣扎，并成为胡斐长期报恩对象的悲剧人物。
-- [苗人凤 / Miao Renfeng](entities/MiaoRenfeng.md) — 以信任、克制和坦荡使胡斐无法把继承而来的杀父之仇机械化执行的武侠人物。
+- [苗人凤 / Miao Renfeng](entities/MiaoRenfeng.md) — 以信任、克制和坦荡修正胡斐的继承仇恨，又以最后决斗和情感表达局限暴露自身矛盾的武侠人物。
+- [苗若兰 / Miao Ruolan](entities/MiaoRuolan.md) — 以不习武的江湖理解、有限证言与胡斐的文化共鸣连接两代世仇，又因未尽沟通延续危机的人物。
 - [赵半山 / Zhao Banshan](entities/ZhaoBanshan.md) — 以武学教导、道德要求和不徇私的行为示范塑造胡斐侠义标准的前辈。
 - [凤天南 / Feng Tiannan](entities/FengTiannan.md) — 借地方势力、官府失灵和欺骗迫害钟家，并使胡斐的追责成为陌生人正义测试的恶霸。
 - [《蓝血人》 / Blue Blood Man (Ni Kuang novel)](entities/BlueBloodManNiKuangNovel.md) — 倪匡早期卫斯理小说，以蓝血身份谜团、武侠式科幻、外星归乡与武器竞赛导致的文明自毁连接冒险和核时代寓言。
