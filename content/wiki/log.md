@@ -35844,3 +35844,11 @@ Added source `essentials-optimize-your-learning-creativity-with-science-based-to
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall
+
+Added source `527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571`; created [[LudwigVanBeethoven|Ludwig van Beethoven]], [[Fidelio]], [[RomanticArtistMyth]], and [[ComposerPatronageIndependence]]. Core synthesis: Beethoven's Enlightenment formation, changing instruments, aristocratic support without accepted servant status, political movement from Napoleon admiration to rejection, progressive deafness, difficult late music, and public mourning jointly helped establish the modern heroic artist; *Fidelio* preserves a politically ambiguous liberation in which revolutionary imagery coexists with rescue by benevolent authority. No settled contradiction was adopted. Patronage continued to enable autonomy, while the Mozart encounter, payment and crowd figures, private motives, romantic identity, anecdotes, death scene, political intentions, and audience interpretations remain legendary or source-scoped. Broad [[NapoleonBonaparte]], [[JosefHaydn]], [[Vienna]], [[FrenchRevolution]], [[JenaRomanticism]], and [[TheRestIsHistory]] profiles were kept closed because the focused source, composer, opera, and concepts capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,488 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

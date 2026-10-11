@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3427
+topic_total_pages: 3429
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -808,6 +808,9 @@ topic_concepts:
   - key: "CompassionateCharacterInterpretation"
     title: "Compassionate Character Interpretation / 悲悯式角色理解"
     url: "/wiki/concepts/compassionatecharacterinterpretation/"
+  - key: "ComposerPatronageIndependence"
+    title: "Composer Patronage Independence"
+    url: "/wiki/concepts/composerpatronageindependence/"
   - key: "ComputingEnrollmentDecline"
     title: "Computing Enrollment Decline"
     url: "/wiki/concepts/computingenrollmentdecline/"
@@ -2761,6 +2764,9 @@ topic_concepts:
   - key: "RoleLifeCollapse"
     title: "Role-Life Collapse"
     url: "/wiki/concepts/rolelifecollapse/"
+  - key: "RomanticArtistMyth"
+    title: "Romantic Artist Myth"
+    url: "/wiki/concepts/romanticartistmyth/"
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"

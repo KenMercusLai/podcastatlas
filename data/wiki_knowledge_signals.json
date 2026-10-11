@@ -52033,6 +52033,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/complicitwitnessscapegoatnarrative/"
     },
+    "ComposerPatronageIndependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4140502571 [GLT4140502571].md",
+          "key": "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571",
+          "show": "The Rest Is History",
+          "title": "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/composerpatronageindependence/"
+    },
     "CompoundDisasterMortality": {
       "episode_count": 1,
       "show_count": 1,
@@ -91700,6 +91716,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/fictionalrelationshipcompatibilityreading/"
+    },
+    "Fidelio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4140502571 [GLT4140502571].md",
+          "key": "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571",
+          "show": "The Rest Is History",
+          "title": "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/fidelio/"
     },
     "FieldDiscretionPacification": {
       "episode_count": 1,
@@ -165844,6 +165876,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/ludwigiiofbavaria/"
     },
+    "LudwigVanBeethoven": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4140502571 [GLT4140502571].md",
+          "key": "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571",
+          "show": "The Rest Is History",
+          "title": "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/ludwigvanbeethoven/"
+    },
     "LuffyMedicalChannel": {
       "episode_count": 1,
       "show_count": 1,
@@ -227636,6 +227684,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/romanceofthethreekingdoms/"
+    },
+    "RomanticArtistMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4140502571 [GLT4140502571].md",
+          "key": "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571",
+          "show": "The Rest Is History",
+          "title": "527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall",
+          "url": "/wiki/sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/romanticartistmyth/"
     },
     "RomanticInjuryResponsePatterns": {
       "episode_count": 1,

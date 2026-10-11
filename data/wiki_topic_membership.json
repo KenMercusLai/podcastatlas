@@ -6107,6 +6107,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478": [
     {
       "key": "history",
@@ -25690,6 +25697,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ComposerPatronageIndependence": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CompoundingGrowthFormula": [
@@ -75853,6 +75867,13 @@
     }
   ],
   "RomanceOfTheThreeKingdoms": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "RomanticArtistMyth": [
     {
       "key": "culture",
       "label": "Culture",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall](sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571.md) — The Rest Is History live episode on Beethoven's patronage, politics, deafness, difficult music, public consecration, and the Romantic artist myth.
 - [528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)](sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478.md) — The Rest Is History episode on Hitler's engineered Sudeten crisis, Case Green, failed German military opposition, and the assumptions behind Chamberlain's Plan Z.
 - [How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance](sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949.md) — Huberman Lab solo episode on exercise-driven arousal, learning and memory, body-to-brain signaling, sleep, weekly training categories, and effort circuitry.
 - [045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠](sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp.md) — 纸醉金迷FM从李寻欢的牺牲与愧疚切入，讨论龙啸云、林诗音、龙小云和林仙儿之间的忠义、控制、家庭创伤与迟到悔悟。
@@ -4570,6 +4571,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Ludwig van Beethoven](entities/LudwigVanBeethoven.md) — Bonn-born composer whose Viennese career joined patron-supported autonomy, political ambivalence, deafness, difficult art, and public consecration.
+- [Fidelio](entities/Fidelio.md) — Beethoven's prison-and-rescue opera, whose revolutionary liberation imagery is qualified by benevolent official intervention and 1814 Viennese reception.
 - [Case Green](entities/CaseGreen.md) — Nazi Germany's 1938 plan for rapid destruction of the whole Czechoslovak state.
 - [Konrad Henlein](entities/KonradHenlein.md) — Sudeten German leader whose demands and rejection of Czech concessions served Hitler's engineered crisis.
 - [Ludwig Beck](entities/LudwigBeck.md) — German army chief who warned against war over Czechoslovakia and failed to organize collective military resistance.
@@ -17923,6 +17926,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Romantic Artist Myth](concepts/RomanticArtistMyth.md) — Cultural model of the artist as inspired, defiant, suffering, difficult, socially separate, and worthy of exceptional reverence.
+- [Composer Patronage Independence](concepts/ComposerPatronageIndependence.md) — Transition from household service toward patron-supported artistic autonomy, bargaining power, and public status.
 - [Self-Sacrifice as Relational Control / 以自我牺牲替他人做主](concepts/SelfSacrificeAsRelationalControl.md) — 区分个人愿意承受的代价与借牺牲之名操控他人重大选择的权力。
 - [Guilt-Distorted Empathy / 内疚扭曲的共情](concepts/GuiltDistortedEmpathy.md) — 当因果理解与过度自责结合，使边界和阻止持续伤害变得困难。
 - [Love as Conquest Logic / 爱情的征服逻辑](concepts/LoveAsConquestLogic.md) — 把被爱、服从和摧毁他人当作价值证明，并把自己的爱体验为失控与失败。
