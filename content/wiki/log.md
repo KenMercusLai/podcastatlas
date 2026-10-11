@@ -36042,3 +36042,11 @@ Added source `understand-apply-the-psychology-of-money-to-gain-greater-happiness
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 518. Nelson: The Battle of the Nile (Part 5)
+
+Added source `518-nelson-the-battle-of-the-nile-part-5-glt9518722562`; created [[ThomasFoley]]; and resynthesized [[BattleOfTheNile]], [[HoratioNelson]], and [[NapoleonEgyptCampaign]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nelson's immediate attack worked through shared intent, rapid preparation, stern anchoring, Foley's landward passage, and concentrated double-sided fire, while grounding, severe close-range losses, uncertain fire causation, and French courage qualify a simple hero story. Destruction of the French fleet isolated Napoleon's army and strengthened renewed coalition resistance. No settled contradiction was adopted. Exact operational figures, dialogue, individual actions, motives, defensive assumptions, the cause of the fire aboard *L'Orient*, and claims about the battle's comparative rank remain source-scoped. Broad [[RoyalNavy]], [[NapoleonBonaparte|Napoleon Bonaparte]], and [[PierreCharlesVilleneuve|Pierre-Charles Villeneuve]] profiles were kept closed because the focused source, battle, campaign, commander, and captain pages capture the durable additions without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,513 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

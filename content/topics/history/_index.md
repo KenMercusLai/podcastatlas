@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2742
+topic_total_pages: 2743
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6516,6 +6516,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "518-nelson-the-battle-of-the-nile-part-5-glt9518722562"
+    title: "518. Nelson: The Battle of the Nile (Part 5)"
+    url: "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
   - key: "519-the-worlds-first-city-glt2603135981"
     title: "519. The World's First City"
     url: "/wiki/sources/519-the-worlds-first-city-glt2603135981/"

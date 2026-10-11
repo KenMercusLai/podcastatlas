@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [518. Nelson: The Battle of the Nile (Part 5)](sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562.md) — The Rest Is History on Nelson's immediate night attack, Foley's landward maneuver, the destruction of L'Orient, French courage, and Napoleon's strategic isolation.
 - [Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel](sources/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel-scim8446432858.md) — Huberman Lab interview on money as a tool for autonomy, purpose, relationships, and time rather than a yardstick for identity and status.
 - [519. The World's First City](sources/519-the-worlds-first-city-glt2603135981.md) — The Rest Is History on Uruk's environmental and institutional rise, administrative writing, urban pleasure, slavery, and coercive power.
 - [Essentials: How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369.md) — Condensed Huberman Lab episode on phase-aware light and temperature timing for travel, shift work, fragmented sleep, NSDR, and cautious melatonin use.
@@ -4596,6 +4597,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [Thomas Foley](entities/ThomasFoley.md) — Royal Navy captain whose landward maneuver aboard Goliath opened the double-sided attack at the Battle of the Nile.
 - [Morgan Housel](entities/MorganHousel.md) — Writer and investor framing money through behavior, regret, autonomy, purpose, comparison, and family context.
 - [Uruk](entities/Uruk.md) — Early Mesopotamian city whose scale joined ecology, migration, temples, infrastructure, production, writing, pleasure, and coercion.
 - [Clovis](entities/Clovis.md) — Frankish king who joined conquest, Roman recognition, orthodox baptism, and Saint Martin's cult into composite rule in Gaul.

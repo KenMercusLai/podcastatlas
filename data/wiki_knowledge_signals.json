@@ -26332,9 +26332,9 @@
       "url": "/wiki/entities/battleofthefrontiers1914/"
     },
     "BattleOfTheNile": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3691914095 [GLT3691914095].md",
@@ -26349,9 +26349,16 @@
           "show": "The Rest Is History",
           "title": "608. Nelson: Slaughter in Naples (Part 1)",
           "url": "/wiki/sources/608-nelson-slaughter-in-naples-part-1-glt8594694484/"
+        },
+        {
+          "episode_file": "GLT9518722562 [GLT9518722562].md",
+          "key": "518-nelson-the-battle-of-the-nile-part-5-glt9518722562",
+          "show": "The Rest Is History",
+          "title": "518. Nelson: The Battle of the Nile (Part 5)",
+          "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/battleofthenile/"
     },
     "BattleOfThermopylae": {
@@ -122515,9 +122522,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -122609,9 +122616,16 @@
           "show": "The Rest Is History",
           "title": "607. Nelson’s Lover: The Scandalous Lady Hamilton",
           "url": "/wiki/sources/607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938/"
+        },
+        {
+          "episode_file": "GLT9518722562 [GLT9518722562].md",
+          "key": "518-nelson-the-battle-of-the-nile-part-5-glt9518722562",
+          "show": "The Rest Is History",
+          "title": "518. Nelson: The Battle of the Nile (Part 5)",
+          "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/horationelson/"
     },
     "HormoneContextAggression": {
@@ -186992,9 +187006,9 @@
       "url": "/wiki/entities/napoleonbonaparte/"
     },
     "NapoleonEgyptCampaign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3691914095 [GLT3691914095].md",
@@ -187002,9 +187016,16 @@
           "show": "The Rest Is History",
           "title": "126. Napoleon in Egypt",
           "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        },
+        {
+          "episode_file": "GLT9518722562 [GLT9518722562].md",
+          "key": "518-nelson-the-battle-of-the-nile-part-5-glt9518722562",
+          "show": "The Rest Is History",
+          "title": "518. Nelson: The Battle of the Nile (Part 5)",
+          "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/napoleonegyptcampaign/"
     },
     "NapoleonIII": {
@@ -261480,6 +261501,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/thomasedison/"
+    },
+    "ThomasFoley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518722562 [GLT9518722562].md",
+          "key": "518-nelson-the-battle-of-the-nile-part-5-glt9518722562",
+          "show": "The Rest Is History",
+          "title": "518. Nelson: The Battle of the Nile (Part 5)",
+          "url": "/wiki/sources/518-nelson-the-battle-of-the-nile-part-5-glt9518722562/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/thomasfoley/"
     },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,

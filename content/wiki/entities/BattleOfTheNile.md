@@ -5,8 +5,9 @@ tags: [battle, naval-warfare, egypt, britain, france]
 sources:
   - 126-napoleon-in-egypt-glt3691914095
   - 608-nelson-slaughter-in-naples-part-1-glt8594694484
+  - 518-nelson-the-battle-of-the-nile-part-5-glt9518722562
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-12
 ---
 
 # Battle of the Nile
@@ -17,13 +18,14 @@ The Battle of the Nile was the 1798 British naval victory at Aboukir Bay that de
 
 ## Current Profile
 
-The French anchored behind shallows believed to protect one flank, but [[HoratioNelson]] sent British ships around that position and attacked from both sides. The destruction of the French fleet, including the explosion of *L'Orient*, stranded the expedition and turned an apparent land conquest into strategic isolation. The later Nelson episode adds the victory's personal and political aftermath: a physically damaged commander arrived in Naples as an international celebrity, and the resulting praise, perceived under-reward, and court intimacy became inputs to his next decisions rather than merely commemorative consequences.
+The French anchored behind shallows believed to protect one flank, but [[ThomasFoley]] led British ships through the landward gap while [[HoratioNelson]] attacked from seaward. Nelson's decision to engage before nightfall depended on shared command intent, rapid battle preparation, stern-anchor handling, concentrated fire against the French van and center, and captains able to act locally in unfamiliar water. The grounding of *Culloden* and the losses suffered by *Bellerophon* show the maneuver's real risk, while the explosion of *L'Orient* made French defeat visible without explaining it by spectacle alone. Destruction of the fleet stranded the [[NapoleonEgyptCampaign|Egyptian expedition]], ended French maritime freedom in the eastern Mediterranean, and encouraged renewed coalition resistance. The later Naples episode adds the victory's personal and political aftermath: a physically damaged commander arrived as an international celebrity, and praise, perceived under-reward, and court intimacy became inputs to his next decisions.
 
 ## Key Characteristics
 
 - Followed a prolonged British search after the French armada evaded interception.
-- Exploited an assumed geographic protection as an attack route.
-- Used double-sided engagement against an anchored fleet.
+- Converted an assumed geographic protection into an attack route through local initiative.
+- Used double-sided engagement and concentrated fire against an anchored fleet's front and center.
+- Joined shared intent to rehearsed preparation, gunnery, seamanship, and stern anchoring under fading light.
 - Destroyed French maritime mobility without immediately ending the occupation.
 - Became a foundation for Nelson's aggressive naval reputation before Trafalgar.
 - Produced celebrity and court influence that extended beyond Nelson's naval expertise.
@@ -33,10 +35,12 @@ The French anchored behind shallows believed to protect one flank, but [[Horatio
 ### Approach and tactical opening
 
 - [[126-napoleon-in-egypt-glt3691914095]] describes the search, Aboukir anchorage, shallows, and British flank maneuver.
+- [[518-nelson-the-battle-of-the-nile-part-5-glt9518722562]] reconstructs the fading-light decision, French anchorage, Foley's landward passage, stern-anchor preparation, double-sided concentration, and *Culloden*'s grounding.
 
 ### Destruction and strategic effect
 
 - [[126-napoleon-in-egypt-glt3691914095]] describes the captured or destroyed ships, *L'Orient* explosion, and French isolation.
+- [[518-nelson-the-battle-of-the-nile-part-5-glt9518722562]] connects the close-range battle, French resistance, *L'Orient*'s destruction, survivor rescue, escaped rear ships, and the strategic isolation of Napoleon's army.
 
 ### Political and personal aftermath
 
@@ -44,15 +48,18 @@ The French anchored behind shallows believed to protect one flank, but [[Horatio
 
 ## Qualifications
 
-Fleet totals, the exact protective assumptions of French commanders, individual decisions, casualties, honors, and reported dialogue are supplied by conversational sources. Naval destruction constrained but did not itself terminate French rule in Egypt, and later bad political judgment should not be inferred from the battle alone.
+Fleet, gun, casualty, capture, and timing totals; the exact protective assumptions of French commanders; individual actions; reported prayers and dialogue; the fire's cause; and claims about the battle's comparative rank are supplied by conversational sources. The detailed retelling is British- and Nelson-centered even while acknowledging French courage. Naval destruction constrained but did not itself terminate French rule in Egypt, and later bad political judgment should not be inferred from the battle alone.
 
 ## What Changed
 
-- Extended the battle's afterlife from strategic reversal into celebrity, perceived under-recognition, and political access in Naples.
+- Added the preparation, stern anchoring, landward passage, double-sided concentration, and delegated initiative behind the victory.
+- Added grounding, severe ship-level losses, uncertain ignition aboard *L'Orient*, and French courage as qualifications to heroic compression.
+- Connected fleet destruction more explicitly to Napoleon's isolation and renewed European coalition confidence.
 
 ## Relationships
 
 - [[HoratioNelson]] - British commander whose maneuver produced the victory.
+- [[ThomasFoley]] - captain whose landward passage turned the French anchorage assumption into a flanking route.
 - [[NapoleonBonaparte]] - French commander whose army was isolated by the defeat.
 - [[NapoleonEgyptCampaign]] - occupation whose strategic conditions the battle transformed.
 - [[RoyalNavy]] - institution that converted the victory into wider maritime pressure.
