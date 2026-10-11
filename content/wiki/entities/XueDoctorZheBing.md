@@ -8,6 +8,7 @@ sources:
   - vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a
   - vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz
   - vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla
+  - vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 # 薛医生 / Xue Doctor (这病说来话长)
 
 ## Overview
-薛医生 is a recurring clinician guest in [[ZheBingShuoLaiHuaChang|这病说来话长]], contributing firsthand 120 work in VOL.120, a long-term neuroinflammatory-patient recollection in VOL.128, Alzheimer education in VOL.133, neurology and personal migraine experience in VOL.157, and China-side imaging-workflow comparison in VOL.206.
+薛医生 is a recurring neurologist guest in [[ZheBingShuoLaiHuaChang|这病说来话长]], contributing firsthand 120 work, a long-term neuroinflammatory-patient recollection, Alzheimer and migraine education, China-side imaging-workflow comparison, and a clinician boundary for online medicine access.
 
 ## Current Profile
 Across the five sources, 薛医生 translates clinical work through disease education, system comparison, frontline operations, and lived patient experience. VOL.120 adds her short period working in a central-Beijing 120 team, where she describes crew preparation, location-based dispatch, variable arrival, narrow-space lifting, patient refusal, recording, charges, destination choice, bystander cooperation, and the emotional impact of severe illness, trauma, and death.
@@ -28,6 +29,8 @@ VOL.157 identifies her as a neurologist and has her explain [[MigraineRecognitio
 
 VOL.128 adds a long-horizon patient relationship. She recalls an adolescent with severe visual and neurologic disability attributed by the family to post-vaccination neuromyelitis, prolonged steroid and immunosuppressive exposure, and later mitoxantrone treatment. Years of informal follow-up reportedly showed stabilization, work as a preschool teacher, marriage, and a healthy child; the story grounds professional meaning for her but does not establish vaccine causation or comparative treatment efficacy.
 
+VOL.146 has her connect winter behavior and vascular physiology with chronic-risk control, then distinguish fulfillment from diagnosis. She supports reliable online purchase of established medicines when quality, price, identity, dosage form, and strength are checked, while directing first symptoms, unfamiliar drugs, high-risk medicines, unstable disease, examinations, and tests back to qualified in-person care.
+
 ## Key Characteristics
 - Separates Alzheimer disease, dementia, cognitive stage, screening, diagnosis, biomarkers, and treatment categories.
 - Emphasizes how information transfer differs between outpatient and inpatient settings.
@@ -35,7 +38,7 @@ VOL.128 adds a long-horizon patient relationship. She recalls an adolescent with
 - Connects high patient throughput to compressed doctor-patient communication.
 - Uses personal migraine experience to explain disability, aura, triggers, and acute treatment without universalizing her pattern.
 - Uses long-term patient feedback to connect functional recovery and adult life with renewed professional meaning.
-- Connects 120 dispatch, scene access, destination choice, documentation, and bystander preparation without presenting Beijing experience as a national service guarantee.
+- Connects 120 dispatch, scene access, destination choice, documentation, and bystander preparation without presenting Beijing experience as a national guarantee, while treating online pharmacy as a possible access aid for stable known regimens rather than permission to self-prescribe or bypass examination.
 
 ## Evidence
 - Information transfer: [[vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb]] has 薛医生 describe clinicians calling imaging departments to clarify scan priorities and noting that inpatient records are usually richer than outpatient information.
@@ -49,14 +52,16 @@ VOL.128 adds a long-horizon patient relationship. She recalls an adolescent with
 - Long-term follow-up: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] attributes the adolescent neuroinflammatory case, later life update, and restored professional meaning to 薛医生.
 - Prehospital operations: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] has 薛医生 explain crew roles, dispatch, variable arrival, lifting constraints, refusal records, charging, hospital choice, and caller preparation from her 120 experience.
 - Emotional and safety burden: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] links a young gastric-cancer patient, a fatal fall, and ambulance-treatment constraints to the human and occupational burden of emergency work.
+- Online medicine boundary: [[vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x|VOL.146]] has her distinguish established refills from first-use decisions and emphasize medicine matching, prescription controls, examination, testing, and escalation.
 
 ## Qualifications
-None of the sources gives a full name or institutional biography for 薛医生. Their shared show context and guest label support one source-scoped profile, but do not establish formal credentials beyond the neurologist descriptions or verify every clinical statement, vaccine attribution, remembered treatment, pregnancy outcome, prognosis, response time, charge, operational rule, or emergency-case detail against records or current guidelines.
+None of the sources gives a full name or institutional biography for 薛医生. Their shared show context and guest label support one source-scoped profile, but do not establish formal credentials beyond the neurologist descriptions or verify every clinical statement, vaccine attribution, remembered treatment, pregnancy outcome, prognosis, response time, charge, platform safeguard, delivery claim, operational rule, or emergency-case detail against records or current guidelines. VOL.146 is sponsored by Meituan Medicine.
 
 ## What Changed
 - Added the long-term neuromyelitis-patient recollection and its professional-meaning dimension.
 - Explicitly bounded the family's vaccine attribution and remembered treatment course as source-scoped.
 - The profile now includes frontline prehospital operations and the emotional burden of emergency work.
+- Added her access-versus-clinical-authority boundary for online medicine and remote consultation.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - podcast where 薛医生 appears.
@@ -77,3 +82,6 @@ None of the sources gives a full name or institutional biography for 薛医生. 
 - [[PrehospitalEmergencyMedicalResponse]] - dispatch-to-handoff system grounded partly in her frontline account.
 - [[WangXuedi]] - emergency physician co-guest adding workforce and receiving-department perspective.
 - [[JiaDoctorZheBing]] - neurosurgeon co-guest adding an ambulance-collision account.
+- [[PharmaceuticalEcommerce]] - access channel she supports conditionally for established medicines.
+- [[OnlineMedicalConsultation]] - remote service she bounds with first-use, examination, and testing limits.
+- [[ChronicDiseaseTreatmentAdherence]] - continuity goal behind her online-refill discussion.

@@ -7,6 +7,7 @@ sources:
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
   - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
+  - vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -25,6 +26,8 @@ VOL.110 adds the common hypertension and diabetes case: much of medicine control
 
 VOL.200 separates continuity of treatment from continuity with one doctor. A patient may obtain long-term medicine from another hospital or community service and may return after a gap without being judged personally. The safety requirement is periodic review of response, adverse effects, tests, and dose rather than uninterrupted attendance with the same clinician.
 
+VOL.146 adds an access layer. Older adults and family caregivers can face cold-weather travel, fall and infection exposure, inaccessible buildings, fragmented refill dates, limited local stock, electronic hospital workflows, and price pressure. Home delivery, wider inventory, and remote explanation may reduce those barriers for an established stable regimen, but continuity still requires exact medicine matching, review, and escalation when symptoms or treatment change.
+
 ## Key Claims
 - Adherence problems often arise from understandable fears about adverse effects, dependence, appearance, and uncertain efficacy.
 - Honest risk-benefit communication is more durable than hiding side effects or demanding unquestioning compliance.
@@ -32,7 +35,7 @@ VOL.200 separates continuity of treatment from continuity with one doctor. A pat
 - Early disease control can create later de-escalation options, but the timing and feasibility remain condition- and patient-specific.
 - Side effects or doubts should trigger review and adjustment rather than unilateral stopping or dose changes.
 - Online complaints and acquaintance experience can be selection-biased and poorly matched to another patient's disease stage or regimen.
-- Symptom disappearance can conceal continuing risk in relapsing disease, while ongoing control of hypertension or diabetes is not failed care; maintenance remains distinct from acute relief, and cure guarantees deserve skepticism.
+- Symptom disappearance can conceal continuing risk in relapsing disease, while ongoing control of hypertension or diabetes is not failed care; maintenance remains distinct from acute relief, and mobility, refill timing, stock, price, caregiver time, or fragmented regimens can interrupt intended treatment even when the patient accepts the plan.
 
 ## Evidence
 - Risk communication: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] has the rheumatology and psychiatry guests argue for transparent discussion of efficacy and adverse effects.
@@ -42,13 +45,15 @@ VOL.200 separates continuity of treatment from continuity with one doctor. A pat
 - Follow-up and shared decisions: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] connects continuing care with medication review, nutrition, complication monitoring, surgery timing, and patient participation.
 - Control-versus-cure literacy: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] uses hypertension and diabetes to distinguish long-term stabilization from guaranteed eradication.
 - Cross-provider continuity: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] says long-term medicines may be obtained elsewhere while periodic safety and dose review remain necessary.
+- Access and fulfillment: [[vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x|VOL.146]] connects continuity with mobility, refill, inventory, caregiver, delivery, medicine-matching, and online-to-offline escalation constraints.
 
 ## Counterevidence & Qualifications
-Adherence is not blind compliance, and adverse effects, cost, access, pregnancy, infection, misdiagnosis, poor response, surgery, or changing goals can justify reassessment or a different plan. The sources do not provide drug-specific missed-dose or discontinuation instructions. “Early treatment permits early stopping” is a motivational shorthand, not a guarantee; some chronic diseases require indefinite maintenance. The IBD episode's multi-year treatment language and individual cases are also source-scoped rather than universal duration rules.
+Adherence is not blind compliance, and adverse effects, cost, access, pregnancy, infection, misdiagnosis, poor response, surgery, or changing goals can justify reassessment or a different plan. The sources do not provide drug-specific missed-dose or discontinuation instructions. “Early treatment permits early stopping” is a motivational shorthand, not a guarantee; some chronic diseases require indefinite maintenance. The IBD episode's multi-year treatment language and individual cases are also source-scoped rather than universal duration rules. VOL.146 is sponsored and does not establish that online delivery improves clinical outcomes or that its promoted platform safeguards are universal.
 
 ## What Changed
 - Separated treatment continuity from exclusive follow-up with one doctor or hospital.
 - Added periodic adverse-effect and dose review after a visit gap.
+- Added logistical access, refill coordination, medicine matching, and home fulfillment as adherence conditions without weakening clinical-review boundaries.
 
 ## Related Concepts
 - [[SystemicLupusErythematosusManagement]] - disease-specific case grounding the adherence framework.
@@ -57,3 +62,4 @@ Adherence is not blind compliance, and adverse effects, cost, access, pregnancy,
 - [[MedicalRiskManagement]] - benefit, harm, severity, and uncertainty frame guiding treatment choices.
 - [[PublicHealthInformationTriage]] - information-quality frame for online and media claims that can influence adherence.
 - [[InflammatoryBowelDiseaseManagement]] - relapsing-disease case grounding maintenance and follow-up after symptoms improve.
+- [[PharmaceuticalEcommerce]] - fulfillment route that may reduce access friction for a stable known regimen.

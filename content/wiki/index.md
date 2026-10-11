@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.146网上买药靠谱吗？家中备药不踩坑！](sources/vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x.md) — 这病说来话长赞助节目讨论慢病续药、线上购药与问诊便利，以及首次用药、检查和线下就医边界。
 - [527. Beethoven: Napoleon and the Music of War LIVE at the Royal Albert Hall](sources/527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albert-hall-glt4140502571.md) — The Rest Is History live episode on Beethoven's patronage, politics, deafness, difficult music, public consecration, and the Romantic artist myth.
 - [528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)](sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478.md) — The Rest Is History episode on Hitler's engineered Sudeten crisis, Case Green, failed German military opposition, and the assumptions behind Chamberlain's Plan Z.
 - [How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance](sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949.md) — Huberman Lab solo episode on exercise-driven arousal, learning and memory, body-to-brain signaling, sleep, weekly training categories, and effort circuitry.
@@ -7513,7 +7514,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乌珠留单于 / Wuzhuliu Chanyu](entities/WuzhuliuChanyu.md) — Xiongnu ruler who tests, delays, rejects, and reports Xiahou Fan's Western Han land demand.
 - [iPhone Duo](entities/IPhoneDuo.md) — Apple's foldable iPhone product from Vol. 174, framed as a new phone-tablet category with price, weight, eSIM, and app-adaptation tradeoffs.
 - [Lily Radiographer / 澳洲放射师 Lily](entities/LilyRadiographer.md) — Australian radiographer explaining public/private imaging workflow, radiographer scope, urgent image recognition, and patient-result boundaries.
-- [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — Neurologist and recurring clinician guest explaining 120 operations, Alzheimer staging, migraine, and China-side imaging and outpatient workflows.
+- [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — Neurologist and recurring clinician guest explaining emergency operations, Alzheimer staging, migraine, imaging workflows, and online-medicine safety boundaries.
 - [斑马酱 / Banma Jiang](entities/BanmaJiangMedicalGuest.md) — Source-scoped 大物是也-affiliated guest explaining migraine screening, medication tradeoffs, CGRP therapies, and neuromodulation limits.
 - [Tung Chee-hwa / 董建華](entities/TungCheeHwa.md) — Hong Kong's first chief executive, synthesized through the Tung obituary as a shipping-family heir, Beijing-backed leader, crisis administrator, and later establishment elder.
 - [Hong Kong Chief Executive / 香港行政長官](entities/HongKongChiefExecutive.md) — Post-1997 office whose early legitimacy limits are examined through Tung Chee-hwa's tenure.
@@ -8947,7 +8948,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [果同学 / Guo Music Therapy Guest](entities/GuoMusicTherapyGuest.md) — Source-scoped 这病说来话长 guest explaining clinical music therapy, therapist musicianship, synchrony, elder memory cueing, and China/Korea professionalization boundaries.
 - [Ander (medical-aesthetics guest)](entities/AnderMedicalAesthetics.md) — Under / Ander, the recurring plastic-surgery guest connecting scar management, exercise appearance tradeoffs, skin exposure, function, and realistic expectations.
 - [邓教授 / Professor Deng (cardiology guest)](entities/DengProfessorCardiology.md) — Source-scoped VOL.211 cardiovascular-medicine guest explaining heart-rate limits, blood-pressure context, overtraining, sleep/caffeine recovery debt, cardiopulmonary assessment, and BLS/AED response.
-- [尹老师 / Yin Laoshi (Zhe Bing speaker)](entities/YinLaoshiZheBing.md) — Source-scoped speaker contributing emergency handoff, medical-imaging risk, and mosquito-prevention literacy.
+- [尹老师 / Yin Laoshi (Zhe Bing speaker)](entities/YinLaoshiZheBing.md) — Source-scoped speaker contributing emergency handoff, imaging risk, prevention, medical AI, family medication access, and connected-care examples.
 - [吴老师 / Wu Laoshi (Zhe Bing speaker)](entities/WuLaoshiZheBing.md) — Source-scoped VOL.213 speaker grounding severe insect-reaction examples, rove-beetle dermatitis, chigger/eschar concerns, and bite-related escalation.
 - [岳宛柔 / Yue Wanrou](entities/YueWanrou.md) — 大食话 nutrition guest explaining balanced eating, food systems, processing, sugar, labels, supplements, and practical consumer judgment.
 - [余婉柔 / Yu Wanrou (functional food guest)](entities/YuWanrouFunctionalFoodGuest.md) — Source-scoped VOL.209 guest explaining functional-food identity, supplement need assessment, protein powders, electrolyte drinks, fish oil, meal replacements, label reading, and marketing-claim boundaries.
@@ -19981,7 +19982,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High-Conflict Behavior Pattern](concepts/HighConflictBehaviorPattern.md) — Non-diagnostic observation frame for recurrent blame, unmanaged emotion, all-or-nothing thinking, extreme conduct, and unresolved escalation.
 - [High-Conflict Communication Toolkit](concepts/HighConflictCommunicationToolkit.md) — CARS, EAR, BIFF, consequence-backed limits, and safety-aware disengagement for containing recurrent escalation.
 - [Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理](concepts/SystemicLupusErythematosusManagement.md) — Long-term framework joining multi-organ recognition, acute control, clinical remission, organ protection, and patient-valued life goals.
-- [Chronic Disease Treatment Adherence / 慢病治疗依从性](concepts/ChronicDiseaseTreatmentAdherence.md) — Treatment continuity through transparent risk-benefit communication, feedback, and clinician-guided adjustment.
+- [Chronic Disease Treatment Adherence / 慢病治疗依从性](concepts/ChronicDiseaseTreatmentAdherence.md) — Treatment continuity through risk communication, review, clinician-guided adjustment, and reduced access and refill friction.
 - [Chronic Illness Quality of Life / 慢病生活质量](concepts/ChronicIllnessQualityOfLife.md) — Patient-centered frame spanning function, identity, appearance, mood, work, relationships, future plans, and uncertainty.
 - [Late Civil-Rights Economic Justice](concepts/LateCivilRightsEconomicJustice.md) — Expansion from formal equality toward labor, housing, income, and material capacity.
 - [Nonviolent Movement Credibility Crisis](concepts/NonviolentMovementCredibilityCrisis.md) — Strategic failure when visible disorder overwhelms a movement's intended nonviolent meaning.
@@ -26839,8 +26840,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Medication Interaction Risk](concepts/MedicationInteractionRisk.md) — Medication-safety branch around alcohol, grapefruit, metabolism interactions, and patient disclosure.
 - [Preventive Health Screening](concepts/PreventiveHealthScreening.md) — Checkup and early-detection frame linking personal screening, health-system follow-up, and the limits of relying on advanced treatment later.
 - [Online Appointment Registration](concepts/OnlineAppointmentRegistration.md) — Healthcare platform category where online booking reduces queueing friction but remains dependent on hospital supply and policy.
-- [Online Medical Consultation](concepts/OnlineMedicalConsultation.md) — Light-consultation category with real user value but hard pricing, quality, and downstream-medical-value capture.
-- [Pharmaceutical Ecommerce](concepts/PharmaceuticalEcommerce.md) — Online pharmacy and medicine-retail branch that proved more standardizable than diagnosis.
+- [Online Medical Consultation](concepts/OnlineMedicalConsultation.md) — Remote explanation, follow-up, and low-acuity triage bounded by missing examination, testing, and escalation needs.
+- [Pharmaceutical Ecommerce](concepts/PharmaceuticalEcommerce.md) — Online medicine fulfillment that can reduce access friction while preserving prescription, matching, and clinical-review boundaries.
 - [Internet Hospital](concepts/InternetHospital.md) — Licensed online medical-service form linking consultation, electronic prescriptions, follow-up visits, and entity-backed regulatory requirements.
 - [银川互联网医院试点](concepts/YinchuanInternetHospitalPilot.md) — Local internet-hospital licensing experiment that became historically important after national rules tightened.
 - [Healthcare O2O](concepts/HealthcareO2O.md) — High-risk local-services O2O branch constrained by credentials, medical risk, regulation, trust, and nonstandard quality.

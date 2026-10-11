@@ -8,6 +8,7 @@ sources:
   - vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla
   - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
   - vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s
+  - vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 # 尹老师 / Yin Laoshi (Zhe Bing speaker)
 
 ## Overview
-尹老师 is a source-scoped [[ZheBingShuoLaiHuaChang|这病说来话长]] speaker contributing to episodes on emergency-department and 120 coordination, mosquito prevention, medical-imaging risk communication, and medical AI.
+尹老师 is a source-scoped [[ZheBingShuoLaiHuaChang|这病说来话长]] speaker contributing to emergency-department and 120 coordination, mosquito prevention, medical-imaging risk communication, medical AI, family medication access, and connected chronic-care examples. VOL.146 names the speaker 尹鑫.
 
 ## Current Profile
 Across the sources, 尹老师's role is consumer, prevention, and medical-risk literacy. VOL.120 adds experience with emergency care and 120 handoff, including ambulance charges, emergency-room intake, crowding and temporary bed use, and the distinction between an ambulance arrival and guaranteed inpatient admission.
@@ -28,6 +29,8 @@ VOL.200 adds animal-experiment ethics, body donation, and end-of-life communicat
 
 VOL.193 adds a medical-AI position. 尹老师 is optimistic that AI can widen access to patient explanation and reduce repetitive information work, and describes imaging assistance, translation, documentation, and future simulation as important directions. The same discussion preserves responsibility and human relationship: technical capability does not by itself validate a product, settle a high-stakes treatment choice, or reproduce the historical and interpersonal trust through which a clinician's recommendation becomes usable.
 
+VOL.146 adds a family-caregiver and user perspective. He describes older adults' mobility and refill burdens, compares familiar allergy medicines through platform information, recounts remote consultation during travel, and describes connected glucose measurement and app feedback. These examples support lower-friction explanation and fulfillment but remain anecdotes rather than evidence that remote care can replace examination or that a promoted platform produces better outcomes.
+
 ## Key Characteristics
 - Explains mosquito-repellent choice through active ingredients, concentration, duration, and usage context.
 - Warns against weakly evidenced bracelets, patches, ultrasonic products, essential-oil mystique, and scent-only assumptions.
@@ -35,7 +38,7 @@ VOL.193 adds a medical-AI position. 尹老师 is optimistic that AI can widen ac
 - Keeps the advice public and practical rather than presenting product choice as individualized medical treatment.
 - Explains examination risk through comparison with the clinical question and the harm of leaving it unresolved.
 - Emphasizes complete information and individual context before medical decisions.
-- Adds a receiving-side view of ambulance charges, emergency-department handoff, and bed pressure, then extends risk communication into animal ethics, medical-AI assistance, perceived suffering, and body donation.
+- Adds a receiving-side view of ambulance charges, emergency-department handoff, and bed pressure, then extends risk communication into animal ethics, medical-AI assistance, family medication access, connected monitoring, perceived suffering, and body donation.
 
 ## Evidence
 - Ingredient and concentration literacy: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has 尹老师 compare DEET, picaridin or icaridin, IR3535, lemon eucalyptus extract, and citronella oil by duration, feel, availability, and context.
@@ -45,13 +48,15 @@ VOL.193 adds a medical-AI position. 尹老师 is optimistic that AI can widen ac
 - Emergency handoff and capacity: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] has 尹老师 discuss ambulance billing, emergency-room reception, corridor crowding, temporary stretcher-bed use, and the lack of a guaranteed ward bed.
 - Animal ethics and perceived suffering: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] connects laboratory-animal compassion, a signed body-donation agreement, and the gap between frightening appearance and remembered patient experience.
 - Medical-AI access and workflow: [[vol-193-ai-kanbing-zhende-kaopu-ma-5-wei-yisheng-tongshi-zaixian-jiekai-zhenshi-daan-ll8o6f9z0sfuyhniuliggbv4s38s|VOL.193]] has 尹老师 argue for AI's patient-access value and discuss imaging, translation, documentation, simulation, data, and the limits of replacing relational clinical responsibility.
+- Medication access and connected care: [[vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x|VOL.146]] names him 尹鑫 and supplies caregiver, online-consultation, medicine-comparison, travel, and home glucose-data examples.
 
 ## Qualifications
-The sources give only the partial speaker name 尹老师. The wiki does not infer a full name or institutional identity. VOL.138 identifies an imaging role and VOL.120 refers to emergency/120 experience, but the material does not establish a complete career history. This page remains distinct from [[YinXinDoctor|银欣 / Yin Xin]] because the available sources do not establish that they are the same person. Charges, bed practices, pain awareness, donation rules, laboratory-animal standards, AI performance comparisons, pulse-reading anecdotes, cost claims, and replacement forecasts are time-, jurisdiction-, institution-, product-, and case-sensitive.
+Most sources give only the partial speaker name 尹老师; VOL.146 names him 尹鑫 but does not supply an institutional biography. VOL.138 identifies an imaging role and VOL.120 refers to emergency/120 experience, but the material does not establish a complete career history. This page remains distinct from [[YinXinDoctor|银欣 / Yin Xin]] because the available sources do not establish that 银欣 and 尹鑫 are the same person. Charges, bed practices, pain awareness, donation rules, laboratory-animal standards, AI performance, consultation, medicine, monitoring, delivery, cost, and replacement claims are time-, jurisdiction-, institution-, product-, and case-sensitive. VOL.146 is sponsored.
 
 ## What Changed
 - Added a qualified medical-AI profile spanning patient access, imaging, translation, documentation, and simulation.
 - Preserved clinical responsibility, relationship, product-validation, and identity boundaries.
+- Added the 尹鑫 naming evidence and family-caregiving, online-consultation, and connected-monitoring examples.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where 尹老师 appears in the current source.
@@ -68,3 +73,6 @@ The sources give only the partial speaker name 尹老师. The wiki does not infe
 - [[EndOfLifeAutonomyAndDignity]] - patient-experience and donation context adjacent to his remarks.
 - [[MedicalAIWorkflowIntegration]] - clinician-assistance and infrastructure direction he discusses.
 - [[PatientAIUse]] - access and repeated-explanation value he sees for patients.
+- [[PharmaceuticalEcommerce]] - medicine-access and family-caregiving channel he discusses.
+- [[OnlineMedicalConsultation]] - travel and medication-question service he illustrates anecdotally.
+- [[ContinuousGlucoseMonitoring]] - adjacent connected-data model raised through household glucose tracking.

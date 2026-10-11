@@ -35852,3 +35852,11 @@ Added source `527-beethoven-napoleon-and-the-music-of-war-live-at-the-royal-albe
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.146网上买药靠谱吗？家中备药不踩坑！
+
+Added source `vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x`; resynthesized [[PharmaceuticalEcommerce]], [[OnlineMedicalConsultation]], [[ChronicDiseaseTreatmentAdherence]], [[XueDoctorZheBing|薛医生]], and [[YinLaoshiZheBing|尹鑫 / 尹老师]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: online inventory, delivery, pharmacist review, and remote explanation may reduce mobility, refill, stock, caregiver, and price friction for a stable known regimen, but first symptoms, unfamiliar or high-risk medicines, unstable disease, examination, testing, and periodic review remain clinician-led. No settled contradiction was adopted. Winter mechanisms, refill rules, delivery and consultation performance, medicine comparisons, connected-monitoring benefits, and precision-care forecasts remain source-scoped; repeated Meituan Medicine service, subsidy, authenticity, and safety claims are explicitly qualified as sponsor-context promotion. Broad [[ZheBingShuoLaiHuaChang]] and [[Meituan]] profiles were kept closed because the focused source, people, and concepts capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,489 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
