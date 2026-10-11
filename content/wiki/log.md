@@ -35922,3 +35922,11 @@ Added source `524-charlemagne-pagan-killer-part-2-glt1992648453`; created [[Coer
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇
+
+Added source `lo9-_4_9eaepw7s-egiyp1ywgiva`; created [[LiZicheng|李自成]], [[PeopleCenteredHistoricalJudgment|People-Centered Historical Judgment / 爱民史观]], and [[MartialHeroHistoricalAgencyLimits|Martial-Hero Historical Agency Limits / 侠客改变历史的限度]]; and resynthesized [[BixueJian|《碧血剑》]], [[YuanChengzhi|袁承志]], [[XiaXueyi|夏雪宜]], and [[JinYongPoliticalReading]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: filial revenge expands into judgment of rulers and rebels by consequences for ordinary people; common or revolutionary origin cannot guarantee continued popular representation; suspicious power repeats the deaths of loyal servants across rival regimes; and martial excellence can rescue people or win encounters without supplying command, discipline, institutions, governance, or control over history. No settled contradiction was adopted. The adjacent relationship episode qualifies the claim that Yuan is wholly indistinct by supplying romantic ambivalence, while historical causation, exact chronology, martial-lineage continuity, character dialogue, authorial intention, and “爱民史观” as Jin Yong's settled philosophy remain episode-attributed or interpretive. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused source, novel, character, and concept pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,498 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

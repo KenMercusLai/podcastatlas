@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2735
+topic_total_pages: 2737
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1057,6 +1057,9 @@ topic_concepts:
   - key: "PeopleBasedPoliticalSecurity"
     title: "People-Based Political Security / 民心型政治安全"
     url: "/wiki/concepts/peoplebasedpoliticalsecurity/"
+  - key: "PeopleCenteredHistoricalJudgment"
+    title: "People-Centered Historical Judgment / 爱民史观"
+    url: "/wiki/concepts/peoplecenteredhistoricaljudgment/"
   - key: "PeopleFirstEconomicStatecraft"
     title: "People-First Economic Statecraft / 富民优先的经济治国"
     url: "/wiki/concepts/peoplefirsteconomicstatecraft/"
@@ -5031,6 +5034,9 @@ topic_entities:
     title: "龚胜 / Gong Sheng (Xin-era scholar)"
     url: "/wiki/entities/gongshengxinscholar/"
 topic_sources:
+  - key: "lo9-_4_9eaepw7s-egiyp1ywgiva"
+    title: "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇"
+    url: "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
   - key: "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925"
     title: "05.她来自马里乌波尔：“如果你看见过我曾见到的。”"
     url: "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"

@@ -67536,6 +67536,23 @@
       "url": "/topics/history/"
     }
   ],
+  "PeopleCenteredHistoricalJudgment": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PeopleFirstEconomicStatecraft": [
     {
       "key": "economics",
@@ -103812,6 +103829,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "lo9-_4_9eaepw7s-egiyp1ywgiva": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "lovpnvggvmrtfzpn9gvezhrg6xfo": [

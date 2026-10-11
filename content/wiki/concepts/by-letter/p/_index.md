@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10401
+wiki_total_pages: 10403
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "PeopleBasedPoliticalSecurity"
     title: "People-Based Political Security / 民心型政治安全"
     url: "/wiki/concepts/peoplebasedpoliticalsecurity/"
+  - key: "PeopleCenteredHistoricalJudgment"
+    title: "People-Centered Historical Judgment / 爱民史观"
+    url: "/wiki/concepts/peoplecenteredhistoricaljudgment/"
   - key: "PeopleFirstEconomicStatecraft"
     title: "People-First Economic Statecraft / 富民优先的经济治国"
     url: "/wiki/concepts/peoplefirsteconomicstatecraft/"

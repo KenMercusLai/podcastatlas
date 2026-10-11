@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10401
-- Entities: 13303
-- Sources: 4497
-- Total wiki content pages: 28202
+- Concepts: 10403
+- Entities: 13304
+- Sources: 4498
+- Total wiki content pages: 28206
 
 ## Links
-- Wiki link references: 655520
-- Unique wiki link targets: 28230
-- Missing targets: 37
+- Wiki link references: 655598
+- Unique wiki link targets: 28235
+- Missing targets: 38
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4497
-- Matched episodes: 4497
+- Source pages: 4498
+- Matched episodes: 4498
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -97,6 +97,8 @@ outputs: ["html"]
   - `content/wiki/concepts/AppliedResearchTranslation.md`
 - `[[SaidBoutou]]`
   - `content/wiki/log.md`
+- `[[SeaControlAsStateCapacity]]`
+  - `content/wiki/concepts/MartialHeroHistoricalAgencyLimits.md`
 - `[[Spanx]]`
   - `content/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31.md`
 - `[[StanislasUta]]`

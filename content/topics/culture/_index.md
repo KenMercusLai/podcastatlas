@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3434
+topic_total_pages: 3436
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2431,6 +2431,9 @@ topic_concepts:
   - key: "PeopleArtistStateHonor"
     title: "People's Artist State Honor"
     url: "/wiki/concepts/peopleartiststatehonor/"
+  - key: "PeopleCenteredHistoricalJudgment"
+    title: "People-Centered Historical Judgment / 爱民史观"
+    url: "/wiki/concepts/peoplecenteredhistoricaljudgment/"
   - key: "PerformanceAuthenticityTradeoff"
     title: "Performance Authenticity Tradeoff / 表演真实性权衡"
     url: "/wiki/concepts/performanceauthenticitytradeoff/"
@@ -8877,6 +8880,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "lo9-_4_9eaepw7s-egiyp1ywgiva"
+    title: "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇"
+    url: "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
   - key: "liiidmjxhrngcffnld51y-l7_oan"
     title: "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写"
     url: "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"

@@ -12,6 +12,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [525. Charlemagne: Emperor of the West (Part 3)](sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677.md) — The Rest Is History on Charlemagne's prepared coronation, Aachen's imperial imagery, foreign recognition, Carolingian fragmentation, and Ottonian renewal.
 - [Essentials: How to Learn Faster by Using Failures, Movement & Balance](sources/essentials-how-to-learn-faster-by-using-failures-movement-balance-scim3979389196.md) — Condensed Huberman Lab episode on correctable errors, focused practice, arousal, sleep-supported consolidation, and safe vestibular novelty.
 - [044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写](sources/liiidmjxhrngcffnld51y-l7_oan.md) — 纸醉金迷FM以温青青、袁承志、阿九、夏雪宜、温仪和何红药讨论嫉妒、责任、错位爱情、复仇与版本修订的叙事代价。
+- [043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇](sources/lo9-_4_9eaepw7s-egiyp1ywgiva.md) — 纸醉金迷FM从复仇、习武、李自成、忠臣悲剧与海外退场重读《碧血剑》，并区分侠客的局部救助与改变战争、制度及历史的能力。
 - [How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson](sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629.md) — Huberman Lab conversation on integrating drives under higher aims, responsibility as adventure, prayer as aim formation, concentrated rewards, conscience, and truth.
 - [VOL.146网上买药靠谱吗？家中备药不踩坑！](sources/vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwcsqpi5a0sd5uu8jqvdvyzi3x.md) — 这病说来话长赞助节目讨论慢病续药、线上购药与问诊便利，以及首次用药、检查和线下就医边界。
 - [526. Mozart: History's Greatest Prodigy LIVE at the Royal Albert Hall](sources/526-mozart-historys-greatest-prodigy-live-at-the-royal-albert-hall-glt4198925734.md) — The Rest Is History live episode on Mozart's prodigy career, family management, patronage, freelance autonomy, opera, financial strain, and death mythology.
@@ -4593,6 +4594,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [温仪（《碧血剑》） / Wen Yi](entities/WenYiBixueJian.md) — 在囚禁、家族罪责、尊重与迟来真相之间获得有限释然的夏雪宜恋人。
 - [何红药 / He Hongyao](entities/HeHongyao.md) — 从越界牺牲走向占有、复仇与自毁，并同时暴露夏雪宜利用责任的悲剧人物。
 - [何铁手 / He Tieshou](entities/HeTieshou.md) — 旧版中经历错爱与崩溃后重新生活、修订版则失去部分行动动机的五毒教人物。
+- [李自成 / Li Zicheng](entities/LiZicheng.md) — 《碧血剑》讨论中从百姓希望转向军纪失控、权力腐化与猜忌忠臣的晚明起义领袖。
 - [Jordan Peterson](entities/JordanPeterson.md) — Psychologist and author whose bounded profile centers drive integration, religious narrative, responsibility, prayer, and truth.
 - [Wolfgang Amadeus Mozart](entities/WolfgangAmadeusMozart.md) — Composer whose path from managed child prodigy and Salzburg service to Viennese freelancing became a key story of genius and autonomy.
 - [Leopold Mozart](entities/LeopoldMozart.md) — Court musician and impresario whose promotion enabled Wolfgang's career while his security strategy constrained adult independence.
@@ -17960,6 +17962,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carolingian Imperial Fragmentation](concepts/CarolingianImperialFragmentation.md) — Succession, partition, external pressure, and weakening territorial control that broke Carolingian unity without erasing its imperial memory.
 - [Absent-Presence Character Design / 缺席的在场者](concepts/AbsentPresenceCharacterDesign.md) — 让死亡或离场人物通过记忆、物件、武功、关系与延迟揭示继续推动当下行动的叙事方法。
 - [Edition Revision Explicitness–Motive Tradeoff / 版本修订的明确性—动机权衡](concepts/EditionRevisionExplicitnessTradeoff.md) — 版本修订在增强欲望可见性和局部动机时，可能削弱含蓄、后续选择或行动因果的权衡。
+- [People-Centered Historical Judgment / 爱民史观](concepts/PeopleCenteredHistoricalJudgment.md) — 以普通百姓的安全与生计，而非族属、正统或革命出身，检验统治者、起义与政权更替。
+- [Martial-Hero Historical Agency Limits / 侠客改变历史的限度](concepts/MartialHeroHistoricalAgencyLimits.md) — 区分个人武力的救助与战斗作用，以及统军、制度建设、治理和改变既定历史所需的集体能力。
 - [Drive Integration Under a Higher Aim](concepts/DriveIntegrationUnderHigherAim.md) — Coordination of narrow motivational states within a voluntary structure that includes other people and future consequences.
 - [Responsibility as Adventure](concepts/ResponsibilityAsAdventure.md) — Reframing voluntary obligation as purposeful uncertainty, sacrifice, local repair, and socially extended value.
 - [Prayer as Aim Formation](concepts/PrayerAsAimFormation.md) — Psychological account of prayer as orientation toward an ideal, incentive reordering, and surrender of control.

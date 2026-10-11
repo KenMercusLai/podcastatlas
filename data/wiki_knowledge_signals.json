@@ -29462,9 +29462,9 @@
       "url": "/wiki/concepts/bitcoinsafehavenbehavior/"
     },
     "BixueJian": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
@@ -29472,6 +29472,13 @@
           "show": "纸醉金迷FM",
           "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
           "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        },
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
         }
       ],
       "updated": "2026-10-11",
@@ -141288,6 +141295,29 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/jinyongconfucianethics/"
     },
+    "JinYongPoliticalReading": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
+          "key": "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095",
+          "show": "蜜獾吃书",
+          "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+          "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+        },
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/jinyongpoliticalreading/"
+    },
     "JinYongReclusionFreedom": {
       "episode_count": 1,
       "show_count": 1,
@@ -154499,6 +154529,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/lizibiao/"
+    },
+    "LiZicheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/lizicheng/"
     },
     "LianDanXinGeneral": {
       "episode_count": 2,
@@ -172538,6 +172584,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/marthawashington/"
+    },
+    "MartialHeroHistoricalAgencyLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/martialherohistoricalagencylimits/"
     },
     "MartinKutter": {
       "episode_count": 1,
@@ -202291,6 +202353,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/peopleartiststatehonor/"
+    },
+    "PeopleCenteredHistoricalJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/peoplecenteredhistoricaljudgment/"
     },
     "PeoplesActionParty": {
       "episode_count": 1,
@@ -283816,9 +283894,9 @@
       "url": "/wiki/entities/xiajispringautumn/"
     },
     "XiaXueyi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
@@ -283826,6 +283904,13 @@
           "show": "纸醉金迷FM",
           "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
           "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        },
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
         }
       ],
       "updated": "2026-10-11",
@@ -291917,9 +292002,9 @@
       "url": "/wiki/entities/yuanchanglatehan/"
     },
     "YuanChengzhi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liiIDMjxhRNgCfFNld51Y-l7_OAn [liiIDMjxhRNgCfFNld51Y-l7_OAn].md",
@@ -291927,6 +292012,13 @@
           "show": "纸醉金迷FM",
           "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
           "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        },
+        {
+          "episode_file": "lo9-_4_9eaePW7S-egiYp1ywgiva [lo9-_4_9eaePW7S-egiYp1ywgiva].md",
+          "key": "lo9-_4_9eaepw7s-egiyp1ywgiva",
+          "show": "纸醉金迷FM",
+          "title": "043 最被低估的金庸小说？| 闲话《碧血剑》之复仇、历史与传奇",
+          "url": "/wiki/sources/lo9-_4_9eaepw7s-egiyp1ywgiva/"
         }
       ],
       "updated": "2026-10-11",

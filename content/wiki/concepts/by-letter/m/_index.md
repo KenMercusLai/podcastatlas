@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10401
+wiki_total_pages: 10403
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "MarshmallowTestContext"
     title: "Marshmallow Test Context"
     url: "/wiki/concepts/marshmallowtestcontext/"
+  - key: "MartialHeroHistoricalAgencyLimits"
+    title: "Martial-Hero Historical Agency Limits / 侠客改变历史的限度"
+    url: "/wiki/concepts/martialherohistoricalagencylimits/"
   - key: "MartyrdomHistoricalMemory"
     title: "Martyrdom as Historical Memory"
     url: "/wiki/concepts/martyrdomhistoricalmemory/"

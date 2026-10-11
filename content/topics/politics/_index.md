@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3295
+topic_total_pages: 3296
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2968,6 +2968,9 @@ topic_concepts:
   - key: "PennsylvaniaExecutionGovernance"
     title: "Pennsylvania Execution Governance"
     url: "/wiki/concepts/pennsylvaniaexecutiongovernance/"
+  - key: "PeopleCenteredHistoricalJudgment"
+    title: "People-Centered Historical Judgment / 爱民史观"
+    url: "/wiki/concepts/peoplecenteredhistoricaljudgment/"
   - key: "PeptideEvidenceHierarchy"
     title: "Peptide Evidence Hierarchy"
     url: "/wiki/concepts/peptideevidencehierarchy/"
