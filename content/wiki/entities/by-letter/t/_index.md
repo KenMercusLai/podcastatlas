@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13342
+wiki_total_pages: 13344
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "TokyoMenghuaLu"
     title: "《东京梦华录》"
     url: "/wiki/entities/tokyomenghualu/"
+  - key: "TheEagleShootingHeroes1993"
+    title: "《东成西就》 / The Eagle Shooting Heroes (1993)"
+    url: "/wiki/entities/theeagleshootingheroes1993/"
   - key: "TheInventionOfChineseDragon"
     title: "《中国龙的发明：近现代中国形象的域外变迁》"
     url: "/wiki/entities/theinventionofchinesedragon/"

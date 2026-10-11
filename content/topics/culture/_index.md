@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3448
+topic_total_pages: 3450
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6728,6 +6728,9 @@ topic_entities:
   - key: "DongbeiBoyi"
     title: "《东北博弈》"
     url: "/wiki/entities/dongbeiboyi/"
+  - key: "TheEagleShootingHeroes1993"
+    title: "《东成西就》 / The Eagle Shooting Heroes (1993)"
+    url: "/wiki/entities/theeagleshootingheroes1993/"
   - key: "ZhongshijiDeShenti"
     title: "《中世纪的身体》"
     url: "/wiki/entities/zhongshijideshenti/"
@@ -8901,6 +8904,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "lm2iomi68yhdbuqvdir8761d-syq"
+    title: "035 【国庆加更】趣话金庸魔改影视《东成西就》(feat：天津惹惹广播)"
+    url: "/wiki/sources/lm2iomi68yhdbuqvdir8761d-syq/"
   - key: "lh2xjiu48gisboa7esabpaejxisk"
     title: "036 金庸武侠世界里的异类：《连城诀》"
     url: "/wiki/sources/lh2xjiu48gisboa7esabpaejxisk/"

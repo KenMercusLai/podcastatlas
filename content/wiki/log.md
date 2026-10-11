@@ -36184,3 +36184,11 @@ Added source `lh2xjiu48gisboa7esabpaejxisk`; created [[GreedAsMoralPoison|贪欲
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 035 【国庆加更】趣话金庸魔改影视《东成西就》(feat：天津惹惹广播)
+
+Added source `lm2iomi68yhdbuqvdir8761d-syq`; created [[TheEagleShootingHeroes1993|《东成西就》]] and [[JeffreyLau|刘镇伟]]; and resynthesized [[JoeyWong|王祖贤]], [[FunctionalAdaptationFidelity|功能性改编忠实]], [[HongKongFilmIndustry|香港电影工业]], and [[EmbodiedActingImprovisation|具身表演即兴]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 《东成西就》 can be a durable ensemble comedy while remaining a weak direct Jin Yong adaptation; the older Hong Kong production system made emergency speed executable through shared resources, trained crews, stars, markets, and live adjustment; and actor-created traits can give thin roles specificity when direction holds them inside a shared tone. No settled contradiction was adopted. The reported 27-day schedule, emergency origin, Zhou Xingchi's participation, deleted roles, performer motives, production authorship, Five-Phases readings, historical geography, dubbing-market logic, and manga influence remain source-scoped or interpretive. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the film, director, performer, and three bounded concepts capture the durable additions without reopening larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,531 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

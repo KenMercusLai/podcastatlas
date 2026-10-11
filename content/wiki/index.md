@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [035 【国庆加更】趣话金庸魔改影视《东成西就》(feat：天津惹惹广播)](sources/lm2iomi68yhdbuqvdir8761d-syq.md) — 纸醉金迷FM与天津惹惹广播从救场生产、群星即兴与喜剧形式区分《东成西就》的独立成就和金庸改编忠实度。
 - [036 金庸武侠世界里的异类：《连城诀》](sources/lh2xjiu48gisboa7esabpaejxisk.md) — 纸醉金迷FM以戚芳的受限选择、师徒猜疑、宝藏贪毒与丁典对狄云的双重教育，重读《连城诀》的反复仇成长。
 - [037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》](sources/lqrlbs47ruozcivwkh0ltyydbysn.md) — 纸醉金迷FM以爱情、伪君子与真恶人、极端处境、谣言失信和被迫归隐重读《连城诀》，同时保留对情节障碍与极端罪恶设计感的质疑。
 - [038 周年特辑 | 你心目中的金庸宇宙top3系列](sources/lqan6mpc-cfdaze0ooxdd-iegcjk.md) — 纸醉金迷FM以小说和男女角色榜单区分艺术判断、私人偏爱、童年记忆与重读变化，并保留对所爱作品和人物的明确限定。
@@ -4615,6 +4616,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《东成西就》 / The Eagle Shooting Heroes (1993)](entities/TheEagleShootingHeroes1993.md) — 以金庸人物为外壳、依靠群星表演与短周期救场生产成为经典喜剧的极端改编案例。
+- [刘镇伟 / Jeffrey Lau](entities/JeffreyLau.md) — 《东成西就》导演，本期以危机生产、群戏平衡和现场调整能力为核心。
 - [《连城诀》 / A Deadly Secret](entities/LianChengJue.md) — 金庸小说，以受限爱情、投射性猜疑、贪欲之毒、祛魅式成长与保护性退隐呈现黑暗江湖中的道德韧性。
 - [《大沙漠》 / The Great Desert](entities/GreatDesertGuLong.md) — 古龙楚留香小说，以沙漠冒险检验不杀原则、互补友情、直接爱情与反转的因果代价。
 - [胡铁花 / Hu Tiehua](entities/HuTiehua.md) — 以热烈、冲动、提问和明知不敌仍行动为楚留香三人组提供行动与情感温度的伙伴。
