@@ -6,6 +6,7 @@ sources:
   - the-science-of-emotions-relationships-scim6339543648
   - control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621
   - scim9382980793-scim9382980793
+  - scim1654683440-scim1654683440
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -35,13 +36,13 @@ An implanted-stimulation case involving severe depression illustrates that great
 - Direction and branch specificity - [[control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621]] distinguishes predominantly sensory organ-to-brain traffic from motor brainstem-to-organ output and describes calming and alerting branches.
 - Intervention separation - [[control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621]] discusses breathing, exercise, ear stimulation, neck positioning, humming, and electrical stimulation without establishing that they recruit the same fibers or produce equivalent effects.
 - Early Essentials restatement - [[scim9382980793-scim9382980793]] condenses the earlier organ-sensing account and explicitly rejects treating the vagus as merely calming, but does not add independent branch-level experiments.
+- Emotion Essentials restatement - [[scim1654683440-scim1654683440]] repeats the bidirectional organ connection, implanted-depression case, and alertness boundary without adding independent clinical evidence.
 
 ## Counterevidence & Qualifications
-The supplied summaries do not identify the depression case report, device parameters, adverse events, comparison conditions, durability, or full trial evidence. The interoception Essentials edit overlaps with the already represented 2021 episode, while the later episode's fiber proportions, named circuits, exercise-alertness mechanism, HRV claims, gut-serotonin pathway, and practical tools likewise lack complete methods and effect sizes in the supplied note. “Vagus stimulation” covers materially different invasive and noninvasive methods, and ordinary breathing or body-awareness practices should not be equated with implanted neuromodulation. Depression, cardiac or breathing symptoms, fainting, stroke rehabilitation, or stimulation-device decisions require qualified clinical assessment.
+The supplied summaries do not identify the depression case report, device parameters, adverse events, comparison conditions, durability, or full trial evidence. Both Essentials edits overlap with already represented full episodes, while the later episode's fiber proportions, named circuits, exercise-alertness mechanism, HRV claims, gut-serotonin pathway, and practical tools likewise lack complete methods and effect sizes in the supplied note. “Vagus stimulation” covers materially different invasive and noninvasive methods, and ordinary breathing or body-awareness practices should not be equated with implanted neuromodulation. Depression, cardiac or breathing symptoms, fainting, stroke rehabilitation, or stimulation-device decisions require qualified clinical assessment.
 
 ## What Changed
-- Added the interoception Essentials edit as overlapping provenance for the non-uniform-state boundary.
-- Preserved branch, method, dose, and context as necessary qualifiers for any vagal-effect claim.
+- No material change to the synthesis; the emotion Essentials edit restates the activating-versus-calming boundary and clinical-case limit.
 
 ## Related Concepts
 - [[BrainBodyEmotionMapping]] - broader bidirectional brain-body framework in which vagal signals participate.

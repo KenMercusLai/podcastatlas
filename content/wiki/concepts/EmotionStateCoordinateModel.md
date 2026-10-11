@@ -4,7 +4,8 @@ type: concept
 tags: [emotion, arousal, valence, interoception, attention]
 sources:
   - the-science-of-emotions-relationships-scim6339543648
-last_updated: 2026-10-03
+  - scim1654683440-scim1654683440
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,12 +30,13 @@ The coordinates describe a state but do not settle its cause, meaning, or best r
 - Three-axis framework - [[the-science-of-emotions-relationships-scim6339543648]] organizes emotion through arousal, valence, and inward-versus-outward attention.
 - Attention exercise - [[the-science-of-emotions-relationships-scim6339543648]] guides attention across bodily sensations and a small external object while noting that inward awareness may persist during outward focus.
 - Practical use - [[the-science-of-emotions-relationships-scim6339543648]] presents the framework as a way to understand and regulate states rather than locate emotion in one brain area.
+- Essentials restatement - [[scim1654683440-scim1654683440]] repeats the three coordinates and the deliberate inward-to-outward attention exercise without adding independent validation.
 
 ## Counterevidence & Qualifications
-The supplied episode summary does not provide validation, reliability, outcome data, or comparison with competing dimensional models. The axes may interact, and a three-coordinate description can omit context, language, learning history, culture, action tendency, clinical symptoms, and circuit specificity. Intense interoceptive focus can worsen distress for some people, so the exercise is not a universal treatment protocol.
+The supplied full and Essentials episode summaries do not provide validation, reliability, outcome data, or comparison with competing dimensional models, and the condensed edit is not independent confirmation. The axes may interact, and a three-coordinate description can omit context, language, learning history, culture, action tendency, clinical symptoms, and circuit specificity. Intense interoceptive focus can worsen distress for some people, so the exercise is not a universal treatment protocol.
 
 ## What Changed
-- Created a bounded three-axis framework that distinguishes state description from emotional cause, diagnosis, and treatment.
+- No material change to the synthesis; the Essentials edit restates the three-axis framework and attention exercise as overlapping provenance.
 
 ## Related Concepts
 - [[MoodMeterEmotionalCheckIn]] - two-axis pleasantness-and-energy tool nested within the broader coordinate model.

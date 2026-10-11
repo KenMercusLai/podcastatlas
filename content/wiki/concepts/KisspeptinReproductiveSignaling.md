@@ -5,6 +5,7 @@ tags: [healthcare, peptides, reproductive-health, hormones]
 sources:
   - benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198
   - male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431
+  - scim1654683440-scim1654683440
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -33,13 +34,13 @@ The Shah interview adds genetic evidence for pathway necessity: kisspeptin-recep
 - Pathway position - [[benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198]] describes the kisspeptin-to-GnRH-to-LH/FSH-to-sex-steroid sequence.
 - Clinical and uncertainty boundary - [[benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198]] contrasts hypothalamic-amenorrhea and menopausal-symptom uses with uncertain generalized vitality or libido use.
 - Puberty genetics - [[male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431]] reports that kisspeptin-receptor mutations can prevent puberty in humans and mice.
+- Developmental restatement - [[scim1654683440-scim1654683440]] places kisspeptin upstream of GnRH, LH, and gonadal sex-steroid production in its puberty account without adding treatment evidence.
 
 ## Counterevidence & Qualifications
-The sources are public-education accounts and do not establish treatment protocols, comparative outcomes, fertility effects, or long-term safety. A loss-of-function phenotype establishes pathway importance more directly than it establishes the benefits, dose, timing, or safety of exogenous enhancement. The distinction between kisspeptin agonists and antagonists should not be reduced to a single direction of hormone optimization.
+The sources are public-education accounts and do not establish treatment protocols, comparative outcomes, fertility effects, or long-term safety. The Essentials edit restates pathway order and is not independent evidence for intervention. A loss-of-function phenotype establishes pathway importance more directly than it establishes the benefits, dose, timing, or safety of exogenous enhancement. The distinction between kisspeptin agonists and antagonists should not be reduced to a single direction of hormone optimization.
 
 ## What Changed
-- Added cross-species receptor-mutation evidence supporting kisspeptin's role in pubertal initiation.
-- Clarified that pathway necessity does not validate generalized libido enhancement.
+- No material change to the synthesis; the Essentials edit restates kisspeptin's upstream role in pubertal hormone signaling.
 
 ## Related Concepts
 - [[SexSteroidFeedbackRegulation]] - downstream reproductive-hormone feedback context.

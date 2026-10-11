@@ -21032,9 +21032,9 @@
       "url": "/wiki/concepts/atrocitynarrativereframing/"
     },
     "AttachmentAffectRegulation": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1947263719 [SCIM1947263719].md",
@@ -21077,9 +21077,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Love, Desire & Attachment",
           "url": "/wiki/sources/essentials-the-science-of-love-desire-attachment-scim2867774522/"
+        },
+        {
+          "episode_file": "SCIM1654683440 [SCIM1654683440].md",
+          "key": "scim1654683440-scim1654683440",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Emotions & Relationships",
+          "url": "/wiki/sources/scim1654683440-scim1654683440/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/attachmentaffectregulation/"
     },
     "AttentionCapacitySelection": {
@@ -53727,9 +53734,9 @@
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContextDependentSocialHormoneEffects": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -53772,6 +53779,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim6217546049-scim6217546049/"
+        },
+        {
+          "episode_file": "SCIM1654683440 [SCIM1654683440].md",
+          "key": "scim1654683440-scim1654683440",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Emotions & Relationships",
+          "url": "/wiki/sources/scim1654683440-scim1654683440/"
         }
       ],
       "updated": "2026-10-11",
@@ -77475,9 +77489,9 @@
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionStateCoordinateModel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6339543648 [SCIM6339543648].md",
@@ -77485,9 +77499,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Emotions & Relationships",
           "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        },
+        {
+          "episode_file": "SCIM1654683440 [SCIM1654683440].md",
+          "key": "scim1654683440-scim1654683440",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Emotions & Relationships",
+          "url": "/wiki/sources/scim1654683440-scim1654683440/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/emotionstatecoordinatemodel/"
     },
     "EmotionalCoRegulationFit": {
@@ -146062,9 +146083,9 @@
       "url": "/wiki/entities/kisoyoshinaka/"
     },
     "KisspeptinReproductiveSignaling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1922606198 [SCIM1922606198].md",
@@ -146079,6 +146100,13 @@
           "show": "Huberman Lab",
           "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
           "url": "/wiki/sources/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah-scim8238911431/"
+        },
+        {
+          "episode_file": "SCIM1654683440 [SCIM1654683440].md",
+          "key": "scim1654683440-scim1654683440",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Emotions & Relationships",
+          "url": "/wiki/sources/scim1654683440-scim1654683440/"
         }
       ],
       "updated": "2026-10-11",
@@ -181071,9 +181099,9 @@
       "url": "/wiki/concepts/monumentaldynasticlegitimation/"
     },
     "MoodMeterEmotionalCheckIn": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6059113217 [SCIM6059113217].md",
@@ -181088,9 +181116,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Emotions & Relationships",
           "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        },
+        {
+          "episode_file": "SCIM1654683440 [SCIM1654683440].md",
+          "key": "scim1654683440-scim1654683440",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Emotions & Relationships",
+          "url": "/wiki/sources/scim1654683440-scim1654683440/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/moodmeteremotionalcheckin/"
     },
     "Moon": {
@@ -266893,9 +266928,9 @@
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
     "VagusStimulationStateBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6339543648 [SCIM6339543648].md",
@@ -266917,6 +266952,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
           "url": "/wiki/sources/scim9382980793-scim9382980793/"
+        },
+        {
+          "episode_file": "SCIM1654683440 [SCIM1654683440].md",
+          "key": "scim1654683440-scim1654683440",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Emotions & Relationships",
+          "url": "/wiki/sources/scim1654683440-scim1654683440/"
         }
       ],
       "updated": "2026-10-11",

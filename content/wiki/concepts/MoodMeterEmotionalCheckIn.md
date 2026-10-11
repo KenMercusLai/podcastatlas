@@ -5,7 +5,8 @@ tags: [psychology, emotion, emotional-intelligence, self-awareness]
 sources:
   - how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217
   - the-science-of-emotions-relationships-scim6339543648
-last_updated: 2026-09-23
+  - scim1654683440-scim1654683440
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,12 +35,13 @@ The earlier Huberman solo episode uses the same energy-and-pleasantness map as a
 - Nonjudgment boundary - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] stresses that unpleasant emotions are not bad emotions and do not always need fixing.
 - Pattern tracking - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] describes the How We Feel app as tracking emotion by people, place, and activity while offering strategies.
 - Earlier dimensional use - [[the-science-of-emotions-relationships-scim6339543648]] presents the Mood Meter as an energy-and-pleasantness check-in and adds inward-versus-outward attention as a separate dimension.
+- Essentials restatement - [[scim1654683440-scim1654683440]] repeats emotion labeling, pattern tracking, and the energy-pleasantness map without adding independent evidence for outcomes.
 
 ## Counterevidence & Qualifications
-The source explains the tool in a public interview rather than presenting validation data, measurement reliability, or outcome effects. A quadrant cannot by itself identify causes, diagnose a condition, or determine the right intervention, and repeated tracking may be unhelpful if it becomes rumination or compulsive monitoring.
+The sources explain the tool in public-education episodes rather than presenting validation data, measurement reliability, or outcome effects; the full 2021 episode and its Essentials edit are overlapping provenance. A quadrant cannot by itself identify causes, diagnose a condition, or determine the right intervention, and repeated tracking may be unhelpful if it becomes rumination or compulsive monitoring.
 
 ## What Changed
-- Added the earlier solo-episode use of the two-axis map and separated it from the additional attention-direction dimension.
+- No material change to the synthesis; the Essentials edit restates the two-axis check-in and its separation from attention direction.
 
 ## Related Concepts
 - [[EmotionalGranularity]] - finer labeling step that follows broad quadrant placement.

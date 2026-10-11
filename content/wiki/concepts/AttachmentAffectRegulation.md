@@ -9,7 +9,8 @@ sources:
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
   - the-science-of-emotions-relationships-scim6339543648
   - essentials-the-science-of-love-desire-attachment-scim2867774522
-last_updated: 2026-10-08
+  - scim1654683440-scim1654683440
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -47,12 +48,13 @@ The earlier emotion-and-relationships episode sharpens the developmental startin
 - Classification and plasticity: [[the-science-of-love-desire-and-attachment-scim1112390541]] and its condensed [[essentials-the-science-of-love-desire-attachment-scim2867774522|Essentials edit]] use [[MaryAinsworth|Mary Ainsworth]]'s separation-and-reunion categories while emphasizing that secure and insecure tendencies can change.
 - Autonomic and cognitive coordination: [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] describes infant-caregiver regulation through bodily timing, touch, and predictable shared narrative, then extends those systems to adult bonds.
 - Early need-response learning: [[the-science-of-emotions-relationships-scim6339543648]] links infant bodily need, signaling, caregiver response, gaze, voice, affect, touch, separation, and reunion while warning against fixed adult labels.
+- Emotion Essentials restatement: [[scim1654683440-scim1654683440]] condenses the same need-response, Strange Situation, and nonverbal bonding account without adding independent developmental evidence.
 
 ## Counterevidence & Qualifications
-The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. The full love-and-attachment episode and its Essentials edit are overlapping provenance, not separate confirmation. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, hemisphere, synchrony, oxytocin, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
+The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. Both Essentials edits overlap with their corresponding full-length episodes and are not separate confirmation. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, hemisphere, synchrony, oxytocin, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
 
 ## What Changed
-- No material change to the synthesis; the Essentials edit restates the secure self-regulation/co-regulation balance and plasticity boundary.
+- No material change to the synthesis; the new Essentials edit restates early need-response learning and the non-fixed attachment boundary.
 
 ## Related Concepts
 - [[EmotionalCoRegulationFit]] - adult support-fit branch of interactive regulation.

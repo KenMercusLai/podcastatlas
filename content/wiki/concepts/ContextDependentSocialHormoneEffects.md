@@ -9,6 +9,7 @@ sources:
   - scim5791514102-scim5791514102
   - the-science-of-emotions-relationships-scim6339543648
   - scim6217546049-scim6217546049
+  - scim1654683440-scim1654683440
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -50,13 +51,13 @@ The earlier emotion-and-relationships episode adds lactation, sexual interaction
 - Vasopressin translation boundary - [[the-causes-treatments-for-autism-dr-karen-parker-scim5460291325]] reports cross-species social findings and a small positive trial while emphasizing nonresponse, mechanism uncertainty, and replication need.
 - Bonding-context evidence - [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] links oxytocin to caregiving, touch, recognition, group membership, sexual context, and pair bonding while treating intranasal use and gene-association findings as uncertain.
 - Early bonding and intervention boundary - [[the-science-of-emotions-relationships-scim6339543648]] connects oxytocin to lactation, sexual and nonsexual touch, couple communication, and pair bonding while keeping intranasal use and prairie-vole vasopressin findings source-scoped.
+- Emotion Essentials restatement - [[scim1654683440-scim1654683440]] repeats the oxytocin, couple-conflict, touch, and prairie-vole examples without adding independent hormone evidence.
 
 ## Counterevidence & Qualifications
-Intranasal, nebulized, replacement, and induced-level studies are variable and difficult to generalize. The evidence does not justify self-administering testosterone, oxytocin, vasopressin, or related agents, nor establish population-wide effects in autism, online sociability, financial markets, aggression, or intimate relationships. Hormone concentration, receptor polymorphism, and digit ratio can be correlates rather than causes; animal hierarchy findings do not automatically predict complex human conduct; and apparently opposite agonist and antagonist strategies require direct trial evidence rather than intuition. The full and Essentials Sapolsky releases are overlapping edits, not separate confirmation.
+Intranasal, nebulized, replacement, and induced-level studies are variable and difficult to generalize. The evidence does not justify self-administering testosterone, oxytocin, vasopressin, or related agents, nor establish population-wide effects in autism, online sociability, financial markets, aggression, or intimate relationships. Hormone concentration, receptor polymorphism, and digit ratio can be correlates rather than causes; animal hierarchy findings do not automatically predict complex human conduct; and apparently opposite agonist and antagonist strategies require direct trial evidence rather than intuition. The Sapolsky and emotion Essentials releases overlap with their respective full episodes rather than supplying separate confirmation.
 
 ## What Changed
-- Added confidence, impulsivity, cooperation, and motivation as further context-sensitive testosterone outcomes.
-- Preserved the full-interview judgment and marked the Essentials release as overlapping rather than independent evidence.
+- No material change to the synthesis; the emotion Essentials edit restates touch, oxytocin, vasopressin, and translation boundaries as overlapping provenance.
 
 ## Related Concepts
 - [[HormoneContextAggression]] - adjacent correction to direct testosterone-aggression explanations.

@@ -35604,3 +35604,11 @@ Added source `050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3x
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: The Science of Emotions & Relationships
+
+Added source `scim1654683440-scim1654683440` and resynthesized [[EmotionStateCoordinateModel]], [[MoodMeterEmotionalCheckIn]], [[AttachmentAffectRegulation]], [[ContextDependentSocialHormoneEffects]], [[KisspeptinReproductiveSignaling]], and [[VagusStimulationStateBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: emotions can be described through arousal, valence, and inward-versus-outward attention, while caregiving, puberty, social context, and branch-specific brain-body signaling shape how states are learned and regulated. No settled contradiction was adopted. The release condenses the already-ingested full episode, so attachment categories, hormone findings, prairie-vole behavior, intranasal interventions, puberty mechanisms, and the implanted-vagus case remain overlapping or source-scoped rather than independent confirmation. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because focused source and concept pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,458 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
