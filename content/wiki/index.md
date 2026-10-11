@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“有了AI，我感觉自己强得可怕！”｜对谈鸭哥](sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb.md) — 鸭哥以医疗理赔、内容运营、健康分析、定制软件和组织协作说明 Context Infrastructure、持久化云端 Agent、人类验收与“零人公司”的边界。
 - [034 趣话倪匡“原振侠系列”之《宝狐》|串台“天津惹惹广播”](sources/lpjxwzf-ic6-rfvd-a5cl3ig3fou-lpjxwzf-ic6-rfvd-a5cl3ig3fou.md) — 纸醉金迷FM串台重读《宝狐》，以狐仙转外星讯号的谜底讨论爱情感化、身份反抗、自主性与科幻祛魅的得失。
 - [035 【国庆加更】趣话金庸魔改影视《东成西就》(feat：天津惹惹广播)](sources/lm2iomi68yhdbuqvdir8761d-syq.md) — 纸醉金迷FM与天津惹惹广播从救场生产、群星即兴与喜剧形式区分《东成西就》的独立成就和金庸改编忠实度。
 - [036 金庸武侠世界里的异类：《连城诀》](sources/lh2xjiu48gisboa7esabpaejxisk.md) — 纸醉金迷FM以戚芳的受限选择、师徒猜疑、宝藏贪毒与丁典对狄云的双重教育，重读《连城诀》的反复仇成长。
@@ -18035,6 +18036,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Context Infrastructure](concepts/ContextInfrastructure.md) — 将上下文的收集、检索、消费、验收与回写组成可持续积累的个人和组织基础设施。
+- [Zero-Person Company](concepts/ZeroPersonCompany.md) — Agent 承担多数日常执行、观察与迭代，而人仍负责目标、系统设计、风险、商业闭环和最终授权的实验性组织形态。
 - [Greed as Moral Poison / 贪欲作为道德之毒](concepts/GreedAsMoralPoison.md) — 财富欲望先扭曲对他人的判断与合作，再由字面的毒物外化其自毁后果，同时区分寓言力量与现实因果。
 - [Moral Learning Through Disillusionment / 祛魅中的道德学习](concepts/MoralLearningThroughDisillusionment.md) — 在认识欺骗、学习策略和自我保护的同时，不把犬儒、残酷或普遍猜疑当作成熟终点。
 - [Contextual Martial-Arts Comparison / 情境化武功比较](concepts/ContextualMartialArtsComparison.md) — 通过速度、内力、适配、前提、代价、使用者与对局条件比较虚构武功，而不预设唯一总榜。

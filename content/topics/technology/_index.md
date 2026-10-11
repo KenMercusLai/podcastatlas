@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3473
+topic_total_pages: 3476
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1660,6 +1660,9 @@ topic_concepts:
   - key: "ContextFlywheel"
     title: "Context Flywheel"
     url: "/wiki/concepts/contextflywheel/"
+  - key: "ContextInfrastructure"
+    title: "Context Infrastructure"
+    url: "/wiki/concepts/contextinfrastructure/"
   - key: "ContextualBanditPersonalization"
     title: "Contextual Bandit Personalization"
     url: "/wiki/concepts/contextualbanditpersonalization/"
@@ -4801,6 +4804,9 @@ topic_concepts:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
     url: "/wiki/concepts/zerotrustsecurity/"
+  - key: "ZeroPersonCompany"
+    title: "Zero-Person Company"
+    url: "/wiki/concepts/zeropersoncompany/"
   - key: "InfeasiblePublicWorksCancellation"
     title: "不可成工程止损 / Infeasible Public-Works Cancellation"
     url: "/wiki/concepts/infeasiblepublicworkscancellation/"
@@ -10128,6 +10134,9 @@ topic_sources:
   - key: "wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs"
     title: "“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年"
     url: "/wiki/sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs/"
+  - key: "you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb"
+    title: "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥"
+    url: "/wiki/sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb/"
   - key: "anyway-195-anyway-195"
     title: "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」"
     url: "/wiki/sources/anyway-195-anyway-195/"

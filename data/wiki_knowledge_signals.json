@@ -54668,6 +54668,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/contextdependentsocialhormoneeffects/"
     },
+    "ContextInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥 [lr19x9_9JYmicOZS2uFAbR8YC6Kb].md",
+          "key": "you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb",
+          "show": "十字路口Crossing",
+          "title": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥",
+          "url": "/wiki/sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/contextinfrastructure/"
+    },
     "ContextualBanditPersonalization": {
       "episode_count": 1,
       "show_count": 1,
@@ -204792,9 +204808,9 @@
       "url": "/wiki/concepts/persianateadministrativetransmission/"
     },
     "PersistentCloudAgents": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -204809,9 +204825,16 @@
           "show": "乱翻书",
           "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
           "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        },
+        {
+          "episode_file": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥 [lr19x9_9JYmicOZS2uFAbR8YC6Kb].md",
+          "key": "you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb",
+          "show": "十字路口Crossing",
+          "title": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥",
+          "url": "/wiki/sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersistentOralLesionEscalation": {
@@ -290006,6 +290029,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/ywladfa/"
     },
+    "YaGe": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会 [lk6BZKdxTI47vEHjVS9sGxOtRvTo].md",
+          "key": "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto",
+          "show": "十字路口Crossing",
+          "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
+          "url": "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"
+        },
+        {
+          "episode_file": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥 [lr19x9_9JYmicOZS2uFAbR8YC6Kb].md",
+          "key": "you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb",
+          "show": "十字路口Crossing",
+          "title": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥",
+          "url": "/wiki/sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yage/"
+    },
     "YaMengDoctor": {
       "episode_count": 4,
       "show_count": 1,
@@ -295219,6 +295265,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/zengyan/"
+    },
+    "ZeroPersonCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥 [lr19x9_9JYmicOZS2uFAbR8YC6Kb].md",
+          "key": "you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb",
+          "show": "十字路口Crossing",
+          "title": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥",
+          "url": "/wiki/sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/zeropersoncompany/"
     },
     "ZeroSumConflictHesitationRisk": {
       "episode_count": 6,

@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 10436
+wiki_total_pages: 10438
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
     url: "/wiki/concepts/zerotrustsecurity/"
+  - key: "ZeroPersonCompany"
+    title: "Zero-Person Company"
+    url: "/wiki/concepts/zeropersoncompany/"
   - key: "ZeroSumBias"
     title: "Zero-Sum Bias / 零和偏误"
     url: "/wiki/concepts/zerosumbias/"

@@ -1647,14 +1647,14 @@
       "earliest_episode_date": "2026-03-08",
       "latest_episode_date": "2026-10-11",
       "latest_episode_file": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥 [lr19x9_9JYmicOZS2uFAbR8YC6Kb].md",
-      "source_note_count": 33,
-      "topic_matched_source_note_count": 30,
+      "source_note_count": 34,
+      "topic_matched_source_note_count": 31,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 30
+          "source_note_count": 31
         },
         {
           "key": "economics",
@@ -1711,12 +1711,19 @@
           "url": "/wiki/entities/slack/",
           "kind": "organization",
           "episode_count": 2
+        },
+        {
+          "key": "YaGe",
+          "title": "鸭哥",
+          "url": "/wiki/entities/yage/",
+          "kind": "person",
+          "episode_count": 2
         }
       ],
       "start_here_episode_files": [
-        "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
-        "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
         "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥 [lr19x9_9JYmicOZS2uFAbR8YC6Kb].md",
+        "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+        "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
         "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md"
       ]
     },

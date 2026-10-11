@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2249
+topic_total_pages: 2250
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3331,6 +3331,9 @@ topic_concepts:
   - key: "YuanBlueAndWhitePorcelain"
     title: "Yuan Blue-and-White Porcelain / 元青花"
     url: "/wiki/concepts/yuanblueandwhiteporcelain/"
+  - key: "ZeroPersonCompany"
+    title: "Zero-Person Company"
+    url: "/wiki/concepts/zeropersoncompany/"
   - key: "ZeroSumBias"
     title: "Zero-Sum Bias / 零和偏误"
     url: "/wiki/concepts/zerosumbias/"
