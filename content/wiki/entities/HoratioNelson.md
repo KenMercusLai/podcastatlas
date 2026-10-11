@@ -18,6 +18,7 @@ sources:
   - 607-nelsons-lover-the-scandalous-lady-hamilton-glt1577197938
   - 518-nelson-the-battle-of-the-nile-part-5-glt9518722562
   - 517-nelson-the-hunt-for-napoleon-part-4-glt5321926998
+  - 516-nelson-god-of-war-part-3-glt1686018300
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-12
 ---
@@ -30,7 +31,9 @@ Horatio Nelson is presented as a British naval commander whose preparation, tact
 
 ## Current Profile
 
-Nelson's command joined meticulous attention to weather, provisioning, health, fleet readiness, surveillance, and information relay with an intense patriotic and religious sense of destiny. After Tenerife, severe disability, pain, dependence in daily life, and fear of professional uselessness coexisted with public celebration of Cape St Vincent and close care from [[FannyNelson|Fanny Nelson]]. His 1798 return to command then exposed the limits of even energetic pursuit: storm damage, missing cruisers, uncertain French objectives, scarce ports, and delayed reports led him to reach Alexandria too early and miss Napoleon by roughly a day. Councils with trusted captains and persistence eventually corrected the search, making the pre-battle campaign a case of resilient judgment under incomplete information rather than uninterrupted foresight.
+Nelson's command joined meticulous attention to weather, provisioning, health, fleet readiness, surveillance, and information relay with an intense patriotic and religious sense of destiny. In 1797 his initiative at the [[BattleOfCapeStVincent1797|Battle of Cape St Vincent]] preserved [[JohnJervis|Jervis]]'s purpose when signals and formation broke down: he turned *Captain* toward the larger Spanish division, accepted severe damage, and led the successive boarding of *San Nicolas* and *San Jose*. Yet the later [[TenerifeExpedition1797|Tenerife expedition]] shows the same appetite for honor, visible exposure, and persistence producing failure after poor intelligence, difficult currents and terrain, and an already failed landing. Shot through the right elbow, he underwent amputation and feared he had become professionally useless. Public celebration of Cape St Vincent, reassurance from Jervis, and close care from [[FannyNelson|Fanny Nelson]] coexisted with severe disability, pain, and dependence in daily life.
+
+His 1798 return to command then exposed the limits of even energetic pursuit: storm damage, missing cruisers, uncertain French objectives, scarce ports, and delayed reports led him to reach Alexandria too early and miss Napoleon by roughly a day. Councils with trusted captains and persistence eventually corrected the search, making the pre-battle campaign a case of resilient judgment under incomplete information rather than uninterrupted foresight.
 
 The prehistory also places [[EmmaHamilton|Emma Hamilton]] inside campaign logistics before their affair: she helped his 1793 request for Neapolitan troops and, through [[MariaCarolina|Maria Carolina]], his 1798 access to supplies at Syracuse. At the [[BattleOfTheNile]], Nelson chose immediate battle under fading light, communicated concentration on the French front and center, and trusted captains to solve the approach locally. [[ThomasFoley]] turned shallows assumed to protect the anchored fleet into an avenue of attack; practiced preparation, stern anchoring, and double-sided fire then destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. Before Trafalgar he kept the battle fleet beyond the horizon, relied on frigates to watch Cadiz, and used captain dinners to turn the two-column “Nelson touch” into shared intent. He sought not a limited win but annihilation and trusted captains to execute once battle became chaotic. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
 
@@ -48,7 +51,7 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 
 - Meticulous but physically vulnerable commander who treated weather, food, maintenance, health, intelligence, and preparation as combat inputs while recognizing that search and pursuit could still produce major errors and near misses.
 - Charismatic leader who created shared mission through affection, patriotic language, and heroic self-presentation.
-- Risk-accepting tactician who exploited geography, trusted captains, and converted close-range chaos into British advantage at the Nile, Copenhagen, and Trafalgar.
+- Risk-accepting tactician whose intent-preserving initiative at Cape St Vincent and later victories must be read beside the failed repetition of visible courage and persistence at Tenerife.
 - Institutional inheritor who adapted Hood's offensive reach and Jervis's disciplined delegation.
 - Aggressive and fame-conscious figure whose desired end state was enemy-fleet annihilation.
 - Visible front-line commander whose prayer, farewell provisions, death during victory, and funeral fused duty, sacrifice, mourning, and national myth.
@@ -70,6 +73,7 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 
 ### Tactical risk, delegated intent, and death
 
+- [[516-nelson-god-of-war-part-3-glt1686018300]] contrasts the formation-breaking turn, boarding actions, and public breakthrough at Cape St Vincent with weak preparation, repeated assault, disabling injury, and defeat at Tenerife.
 - [[126-napoleon-in-egypt-glt3691914095]] describes Nelson's search for the French armada, the flanking route around the Aboukir shallows, the two-sided attack, his wound, and destruction of the French fleet.
 - [[518-nelson-the-battle-of-the-nile-part-5-glt9518722562]] deepens the Nile case through the fading-light decision, stern-anchor preparation, concentration on the French van and center, Foley's initiative, Nelson's wound, *L'Orient*'s explosion, and French courage.
 - [[245-trafalgar-victory-part-3-glt4217731619]] describes the exposed two-column attack, visible leadership, reliance on captains in close action, fatal wound, disputed last words, and national funeral.
@@ -87,13 +91,13 @@ The same sources complicate that achievement: peers could find him fame-hungry, 
 
 ## Qualifications
 
-The Nile pursuit, battle, Naples, Malta, Copenhagen, and Trafalgar sources are British-centered conversational narratives, and the later episodes sometimes retell earlier campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. The exact effects of Nelson's injury, Fanny's care, missing cruisers, intelligence quality, the Alexandria interval, and captain consultation remain episode-attributed. Emma's role in the 1793 troop request and 1798 Syracuse supplies, their causal importance to Nelson's operations, and the emotional meaning of the Naples reunion also remain source-scoped. The authority and legal status of Ruffo's capitulation, Nelson's precise instructions and knowledge, Emma's later influence, Caracciolo's proceedings, punishment totals, and comparative historian judgments remain contested. Reported prayers, rings, farewells, dialogue, medical symptoms, domestic motives, converted finances, fleet and casualty totals, anchoring assumptions, captains' reactions, the cause of *L'Orient*'s fire, last words, and causal claims about Nelson's individual contribution also remain source-scoped. The blind-eye story may be mythic, and success at Malta or Copenhagen can retrospectively legitimate disobedience without proving that either decision was justified ex ante. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain victory or pursuit. Care for British sailors does not resolve Naples, harsh discipline, his treatment of Fanny, or his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed.
+The Cape St Vincent, Tenerife, Nile pursuit, battle, Naples, Malta, Copenhagen, and Trafalgar sources are British-centered conversational narratives, and the later episodes sometimes retell earlier campaign and battle accounts rather than independently verifying them; the relationship source is intentional comedy. Cape St Vincent's fleet and casualty totals, boarding precedence, invasion consequences, and reported dialogue remain source-scoped, as do Tenerife's intelligence, motives, command responsibility, medical detail, and individual lifesaving credit. The exact effects of Nelson's injury, Fanny's care, missing cruisers, intelligence quality, the Alexandria interval, and captain consultation remain episode-attributed. Emma's role in the 1793 troop request and 1798 Syracuse supplies, their causal importance to Nelson's operations, and the emotional meaning of the Naples reunion also remain source-scoped. The authority and legal status of Ruffo's capitulation, Nelson's precise instructions and knowledge, Emma's later influence, Caracciolo's proceedings, punishment totals, and comparative historian judgments remain contested. Reported prayers, rings, farewells, dialogue, medical symptoms, domestic motives, converted finances, fleet and casualty totals, anchoring assumptions, captains' reactions, the cause of *L'Orient*'s fire, last words, and causal claims about Nelson's individual contribution also remain source-scoped. Success at Cape St Vincent, Malta, or Copenhagen can retrospectively legitimate risk or disobedience without proving that the decisions were justified beforehand; Tenerife provides a direct counterexample, and the blind-eye story may be mythic. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain victory or pursuit. Care for British sailors does not resolve Naples, harsh discipline, his treatment of Fanny, or his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed.
 
 ## What Changed
 
-- Added severe post-Tenerife disability, self-doubt, public rehabilitation, and Fanny's caregiving to the pre-Nile profile.
-- Recast the Mediterranean search as competent persistence under weak intelligence, storm damage, missing scouts, and a major Alexandria near miss.
-- Connected captain consultation before Egypt to the shared-intent command style later visible at the Nile and Trafalgar.
+- Added Cape St Vincent as Nelson's first national breakthrough through intent-preserving initiative and successive boarding actions.
+- Added Tenerife as a direct counterexample in which honor, visible exposure, and persistence amplified poor operational judgment.
+- Connected amputation and self-doubt to Jervis's reassurance and the recovery already documented before the Nile campaign.
 
 ## Relationships
 
@@ -118,3 +122,6 @@ The Nile pursuit, battle, Naples, Malta, Copenhagen, and Trafalgar sources are B
 - [[NapoleonEgyptCampaign]] - expedition strategically isolated by Nelson's Aboukir victory.
 - [[TrafalgarSquare]] - civic landscape where Nelson's victory and moral afterlife remain publicly contested.
 - [[EmbodiedClassicalPerformance]] - artistic basis of Emma Hamilton's independent celebrity before their affair.
+- [[JohnJervis]] - superior whose disciplined autonomy enabled Nelson's initiative and whose support continued after Tenerife.
+- [[BattleOfCapeStVincent1797]] - victory where Nelson's tactical disobedience first created national fame.
+- [[TenerifeExpedition1797]] - failed operation where poor preparation and repeated assault cost Nelson his right arm.

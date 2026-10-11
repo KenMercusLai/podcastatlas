@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13328
+wiki_total_pages: 13331
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "TencentWorkBuddy"
     title: "Tencent WorkBuddy"
     url: "/wiki/entities/tencentworkbuddy/"
+  - key: "TenerifeExpedition1797"
+    title: "Tenerife Expedition (1797)"
+    url: "/wiki/entities/tenerifeexpedition1797/"
   - key: "Tennessee"
     title: "Tennessee"
     url: "/wiki/entities/tennessee/"

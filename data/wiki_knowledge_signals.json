@@ -25662,6 +25662,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/battleofcannae/"
     },
+    "BattleOfCapeStVincent1797": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/battleofcapestvincent1797/"
+    },
     "BattleOfCopenhagen1801": {
       "episode_count": 2,
       "show_count": 1,
@@ -51339,9 +51355,9 @@
       "url": "/wiki/concepts/commanddisciplineauthority/"
     },
     "CommandDisobedienceUnderBattlefieldUncertainty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9153225543 [GLT9153225543].md",
@@ -51349,6 +51365,13 @@
           "show": "The Rest Is History",
           "title": "610. Nelson: The Battle of Copenhagen (Part 3)",
           "url": "/wiki/sources/610-nelson-the-battle-of-copenhagen-part-3-glt9153225543/"
+        },
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
         }
       ],
       "updated": "2026-10-10",
@@ -122587,9 +122610,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -122695,6 +122718,13 @@
           "show": "The Rest Is History",
           "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
           "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
+        },
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
         }
       ],
       "updated": "2026-10-12",
@@ -143399,6 +143429,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/johnjacobastorfurtrader/"
+    },
+    "JohnJervis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/johnjervis/"
     },
     "JohnJumper": {
       "episode_count": 2,
@@ -188193,9 +188239,9 @@
       "url": "/wiki/concepts/naturewritingobjectthickness/"
     },
     "NavalBreakthroughTactics": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -188231,6 +188277,13 @@
           "show": "The Rest Is History",
           "title": "612. Nelson: The Final Showdown (Part 5)",
           "url": "/wiki/sources/612-nelson-the-final-showdown-part-5-glt2077045869/"
+        },
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
         }
       ],
       "updated": "2026-10-10",
@@ -230210,9 +230263,9 @@
       "url": "/wiki/concepts/royalminoritycustodypolitics/"
     },
     "RoyalNavy": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT3542298238 [GLT3542298238].md",
@@ -230255,6 +230308,13 @@
           "show": "The Rest Is History",
           "title": "517. Nelson: The Hunt for Napoleon (Part 4)",
           "url": "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"
+        },
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
         }
       ],
       "updated": "2026-10-10",
@@ -258488,6 +258548,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/tencentworkbuddy/"
+    },
+    "TenerifeExpedition1797": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1686018300 [GLT1686018300].md",
+          "key": "516-nelson-god-of-war-part-3-glt1686018300",
+          "show": "The Rest Is History",
+          "title": "516. Nelson: God of War (Part 3)",
+          "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/tenerifeexpedition1797/"
     },
     "TengFuLateHan": {
       "episode_count": 2,

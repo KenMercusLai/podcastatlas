@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [516. Nelson: God of War (Part 3)](sources/516-nelson-god-of-war-part-3-glt1686018300.md) — The Rest Is History on Cape St Vincent, Jervis's disciplined autonomy, Nelson's first national breakthrough, the failed Tenerife expedition, and the loss of his right arm.
 - [How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross](sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417.md) — Huberman Lab interview on useful inner speech, repetitive chatter, flexible regulation tools, psychological distance, advisory support, WOOP planning, and attention boundaries.
 - [VOL.142通俗易懂中医冬季预防感冒和轻症的原理和饮食、用药、起居](sources/vol-142-zhongyi-dongji-yufang-ganmao-yinshi-yongyao-qiju-lsupkbbkwxrh3n-h8ccfmglypr2.md) — 这病说来话长 episode with 毛哲 on scene-matched winter routines, cough and food-remedy distinctions, respiratory self-medication, and evidence-bounded escalation.
 - [Essentials: Using Science to Optimize Sleep, Learning & Metabolism](sources/essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101.md) — Condensed Huberman Lab office hours on timing light, movement, meals, temperature, post-learning rest, and self-tracking without treating exact protocols as universal.
@@ -17699,6 +17700,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 - [Battle of Trafalgar](entities/BattleOfTrafalgar.md) — 1805 naval victory synthesized through failed campaign, coalition strain, tactical risk, close-action destruction, Nelson's death, and contested memory.
+- [Battle of Cape St Vincent (1797)](entities/BattleOfCapeStVincent1797.md) — British naval victory joining Jervis's divided-fleet plan, institutional readiness, Nelson's formation-breaking initiative, and violent close action.
+- [Tenerife Expedition (1797)](entities/TenerifeExpedition1797.md) — Failed British amphibious operation where weak intelligence, difficult landing conditions, and repeated assault cost Nelson his right arm.
+- [John Jervis](entities/JohnJervis.md) — British admiral whose discipline, shared intent, battle planning, and support of Nelson shaped the 1797 campaign.
 - [Cuthbert Collingwood](entities/CuthbertCollingwood.md) — British admiral whose concealed Cadiz blockade and first line penetration connect campaign pressure to delegated battle command.
 - [Pierre-Charles Villeneuve](entities/PierreCharlesVilleneuve.md) — French admiral whose learned caution, Atlantic campaign, coalition constraints, and reversal maneuver preceded defeat at Trafalgar.
 - [Federico Gravina](entities/FedericoGravina.md) — Spanish admiral navigating coalition pressure, distinct government instructions, capacity limits, and honor before Trafalgar.

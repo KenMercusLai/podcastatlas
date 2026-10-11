@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13328
+wiki_total_pages: 13331
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "BattleOfCableStreet"
     title: "Battle of Cable Street"
     url: "/wiki/entities/battleofcablestreet/"
+  - key: "BattleOfCapeStVincent1797"
+    title: "Battle of Cape St Vincent (1797)"
+    url: "/wiki/entities/battleofcapestvincent1797/"
   - key: "BattleOfCopenhagen1801"
     title: "Battle of Copenhagen (1801)"
     url: "/wiki/entities/battleofcopenhagen1801/"

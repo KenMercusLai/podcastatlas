@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2744
+topic_total_pages: 2745
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6516,6 +6516,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "516-nelson-god-of-war-part-3-glt1686018300"
+    title: "516. Nelson: God of War (Part 3)"
+    url: "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
   - key: "517-nelson-the-hunt-for-napoleon-part-4-glt5321926998"
     title: "517. Nelson: The Hunt for Napoleon (Part 4)"
     url: "/wiki/sources/517-nelson-the-hunt-for-napoleon-part-4-glt5321926998/"

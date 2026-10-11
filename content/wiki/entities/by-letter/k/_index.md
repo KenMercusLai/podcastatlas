@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13328
+wiki_total_pages: 13331
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
