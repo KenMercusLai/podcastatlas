@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [571. Hannibal: Roman Bloodbath at Cannae (Part 4)](sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695.md) — The Rest Is History episode on Cannae's supply-and-terrain setup, Roman mass, staged center withdrawal, cavalry-led double envelopment, physical horror, and incomplete strategic result.
 - [Essentials: Improving Health With Stronger Brain-Body Connection](sources/scim9382980793-scim9382980793.md) — Condensed Huberman Lab episode on interoception, branch-specific vagal signaling, breathing, gut sensing, fermented-food evidence, and clinical boundaries around nausea and fever.
 - [572. The Medici: Masters of Florence (Part 1)](sources/572-the-medici-masters-of-florence-part-1-glt1413065864.md) — The Rest Is History on Cosimo's banking network, exile and return, managed republican rule, Sforza alliance, patronage, and the tension between prosperity and liberty.
 - [Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya](sources/scim5646582763-scim5646582763.md) — Huberman Lab interview on NIH mission, high-variance and early-career funding, open access, replication incentives, chronic disease, and contested COVID-era trust repair.

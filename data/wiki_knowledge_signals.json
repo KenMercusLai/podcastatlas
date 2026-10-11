@@ -25205,9 +25205,9 @@
       "url": "/wiki/entities/battleofcablestreet/"
     },
     "BattleOfCannae": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9223169972 [GLT9223169972].md",
@@ -25215,9 +25215,16 @@
           "show": "The Rest Is History",
           "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
           "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        },
+        {
+          "episode_file": "GLT2444504695 [GLT2444504695].md",
+          "key": "571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695",
+          "show": "The Rest Is History",
+          "title": "571. Hannibal: Roman Bloodbath at Cannae (Part 4)",
+          "url": "/wiki/sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/battleofcannae/"
     },
     "BattleOfCopenhagen1801": {
@@ -85858,9 +85865,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FabianStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -85868,9 +85875,16 @@
           "show": "The Rest Is History",
           "title": "570. Hannibal: The Invasion of Italy (Part 3)",
           "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        },
+        {
+          "episode_file": "GLT2444504695 [GLT2444504695].md",
+          "key": "571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695",
+          "show": "The Rest Is History",
+          "title": "571. Hannibal: Roman Bloodbath at Cannae (Part 4)",
+          "url": "/wiki/sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/fabianstrategy/"
     },
     "FabianWare": {
@@ -112655,9 +112669,9 @@
       "url": "/wiki/concepts/hannibalalpinecrossing/"
     },
     "HannibalBarca": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -112700,15 +112714,22 @@
           "show": "The Rest Is History",
           "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
           "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        },
+        {
+          "episode_file": "GLT2444504695 [GLT2444504695].md",
+          "key": "571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695",
+          "show": "The Rest Is History",
+          "title": "571. Hannibal: Roman Bloodbath at Cannae (Part 4)",
+          "url": "/wiki/sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/hannibalbarca/"
     },
     "HannibalicOperationalDeception": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -112723,9 +112744,16 @@
           "show": "The Rest Is History",
           "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
           "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
+        },
+        {
+          "episode_file": "GLT2444504695 [GLT2444504695].md",
+          "key": "571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695",
+          "show": "The Rest Is History",
+          "title": "571. Hannibal: Roman Bloodbath at Cannae (Part 4)",
+          "url": "/wiki/sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/hannibalicoperationaldeception/"
     },
     "HanqingUrey": {
@@ -214769,9 +214797,9 @@
       "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
     },
     "QuintusFabiusMaximus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -214793,9 +214821,16 @@
           "show": "The Rest Is History",
           "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
           "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        },
+        {
+          "episode_file": "GLT2444504695 [GLT2444504695].md",
+          "key": "571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695",
+          "show": "The Rest Is History",
+          "title": "571. Hannibal: Roman Bloodbath at Cannae (Part 4)",
+          "url": "/wiki/sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/quintusfabiusmaximus/"
     },
     "QuintusLutatiusCatulus": {
@@ -230553,9 +230588,9 @@
       "url": "/wiki/entities/secondopiumwar/"
     },
     "SecondPunicWar": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -230598,9 +230633,16 @@
           "show": "The Rest Is History",
           "title": "640. Rome's Greatest Enemy: Carthage at the Gates (Part 1)",
           "url": "/wiki/sources/640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972/"
+        },
+        {
+          "episode_file": "GLT2444504695 [GLT2444504695].md",
+          "key": "571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695",
+          "show": "The Rest Is History",
+          "title": "571. Hannibal: Roman Bloodbath at Cannae (Part 4)",
+          "url": "/wiki/sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/secondpunicwar/"
     },
     "SecondTriumvirate": {

@@ -4,7 +4,8 @@ type: concept
 tags: [military-strategy, delay, attrition, second-punic-war]
 sources:
   - 570-hannibal-the-invasion-of-italy-part-3-glt2952414067
-last_updated: 2026-09-21
+  - 571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ The strategy answers battlefield asymmetry. After the [[BattleOfTrebia]] and [[B
 
 Delay carries costs. Hannibal ravages Campania, escapes a blocked pass through burning-cattle deception, and makes restraint look like cowardice. Rome partly repudiates Fabius by elevating Marcus Minucius Rufus to equal command. Yet Minucius's near-destruction and rescue show why command unity matters: one aggressive partner can reopen the vulnerability the policy is designed to close.
 
-The episode does not present delay as permanent. Fabius's six-month dictatorship buys time and prevents another immediate catastrophe, but Rome soon returns to consular command and prepares for Cannae. Its value is conditional: it converts deeper endurance into usable capacity.
+The episodes do not present delay as permanent. Fabius's six-month dictatorship buys time and prevents another immediate catastrophe, but Rome returns to consular command under Gaius Terentius Varro and Lucius Aemilius Paulus, raises an overwhelming army, and seeks decision at the [[BattleOfCannae]]. That army's lack of common training and reduced flexibility show a crucial limit: delay creates time, but mobilization must still become integrated battlefield capability. Its value is conditional, and abandoning it does not erase the asymmetry it was designed to manage.
 
 ## Key Claims
 
@@ -30,6 +31,7 @@ The episode does not present delay as permanent. Fabius's six-month dictatorship
 - The strategy depends on command unity.
 - Tactical embarrassment does not disprove the larger logic of buying time.
 - Delay works only if time becomes trained forces, maintained alliances, and options.
+- Raising a larger army after delay is not equivalent to integrating it into an agile field force.
 
 ## Evidence
 
@@ -38,16 +40,16 @@ The episode does not present delay as permanent. Fabius's six-month dictatorship
 - Cost: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] records Campanian devastation, hostile nicknames, and criticism.
 - Limits and vindication: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] pairs Hannibal's escape with Fabius's rescue of Minucius.
 - Time conversion: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] interprets the dictatorship as a bridge for raising and training legions.
+- Abandonment and limit: [[571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695]] links the return to consular command and decisive battle to a massive but insufficiently integrated army at Cannae.
 
 ## Counterevidence & Qualifications
 
-The episode cannot establish that delay alone would defeat Hannibal. It does not stop devastation, force Hannibal from Italy, or prevent Rome's return to pitched battle. The source may also moralize Fabius's prudence and vindication, including Minucius's reported submission. Later uses of "Fabian" are outside the current evidence.
+The episodes cannot establish that delay alone would defeat Hannibal or that continuing it would have prevented Cannae. It does not stop devastation, force Hannibal from Italy, or solve the political demand for decision; Rome's later defeat also reflects deployment and battlefield execution, not merely the choice to fight. The sources may moralize Fabius's prudence and vindication, including Minucius's reported submission and the contrast with later consuls. Later uses of "Fabian" are outside the current evidence.
 
 ## What Changed
 
-- Established delay as a way to convert manpower and endurance into future capacity.
-- Added allied reassurance and counter-foraging as active components.
-- Preserved both the burning-cattle failure and the rescue of Minucius.
+- Added Cannae as evidence that time and recruitment still require force integration and suitable employment.
+- Clarified that returning to decisive battle does not by itself refute delay's earlier preservation logic.
 
 ## Related Concepts
 

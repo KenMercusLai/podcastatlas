@@ -9,7 +9,8 @@ sources:
   - 424-carthage-vs-rome-total-war-part-4-glt9312780357
   - 642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636
   - 640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972
-last_updated: 2026-10-08
+  - 571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ Hannibal Barca / 汉尼拔 is the Carthaginian commander who inherits the [[Barc
 
 ## Current Profile
 
-The four episodes present Hannibal less as a commander appearing fully formed than as the inheritor of a family and state rebuilding project. The new backfill shows the [[FirstPunicWar]], [[MercenaryWar]], Roman seizure of Sardinia, and Hamilcar's turn to Iberia as the sequence behind Hannibal's childhood. [[HamilcarBarca]] creates the Spanish foundation, [[HasdrubalTheHandsome]] consolidates it around [[NewCarthage]], and the army selects Hannibal after Hasdrubal's assassination. Childhood formation, cavalry command, inland campaigns, reward, and army loyalty precede his Mediterranean invasion.
+The episodes present Hannibal less as a commander appearing fully formed than as the inheritor of a family and state rebuilding project. The early backfill shows the [[FirstPunicWar]], [[MercenaryWar]], Roman seizure of Sardinia, and Hamilcar's turn to Iberia as the sequence behind Hannibal's childhood. [[HamilcarBarca]] creates the Spanish foundation, [[HasdrubalTheHandsome]] consolidates it around [[NewCarthage]], and the army selects Hannibal after Hasdrubal's assassination. Childhood formation, cavalry command, inland campaigns, reward, and army loyalty precede his Mediterranean invasion.
 
 Both relevant episodes repeat the childhood oath against Rome, but they do not warrant treating it as securely contemporary evidence. The later Hannibal episode explicitly calls it a later ancient tradition, so the profile uses it as a memory claim expressing accumulated grievance rather than as a sufficient explanation of Hannibal's choices.
 
@@ -33,7 +34,9 @@ The [[HannibalAlpineCrossing|Alpine crossing]] is the costly route into that pol
 
 His method links intelligence, psychology, logistics, terrain, timing, and concealment. At the [[BattleOfTrebia]], he turns Roman eagerness into hunger, cold, a river crossing, exposed wings, and a hidden rear attack. At the [[BattleOfLakeTrasimene]], he converts mist, hills, a lakeside road, a visible rear guard, and concealed troops into an army-destroying ambush. Against [[QuintusFabiusMaximus]], he uses burning cattle to break a blockade and exploits Minucius's aggressiveness when Roman command divides.
 
-At the [[BattleOfCannae]], Hannibal's controlled center, African infantry, and cavalry complete the tactical sequence with a double envelopment that destroys Rome's largest army. The victory nevertheless exposes the boundary between battle and political decision. Exhaustion, wounded troops, distance, and absent siege equipment weigh against an immediate attack on Rome, while Hannibal appears to expect negotiation and a cascade of allied defections. Rome refuses both. Capua and other communities join him, but most Italian allies remain loyal, leaving him with bases and supplies but not the coalition collapse required for victory.
+At the [[BattleOfCannae]], Hannibal shapes both the decision to fight and the geometry of contact. He occupies a Roman depot on cavalry-friendly ground, offers his army as credible bait, and places a thin Spanish-Gallic crescent before angled Libyan infantry. The center yields in stages under Rome's deep advance, drawing infantry into compression; the Libyans strike both flanks while Hasdrubal's cavalry defeats the Roman horse, crosses the field, and closes the rear. The plan's success depends on coordinated timing and on the center surviving severe pressure, not on a diagram alone.
+
+The victory nevertheless exposes the boundary between battle and political decision. Exhaustion, wounded troops, distance, and absent siege equipment weigh against an immediate attack on Rome, while Hannibal appears to expect negotiation and a cascade of allied defections. Rome refuses both. Capua and other communities join him, but most Italian allies remain loyal, leaving him with bases and supplies but not the coalition collapse required for victory.
 
 His 211 BC march toward Rome confirms rather than removes the siege constraint. It is presented as a diversion intended to pull Roman forces away from Capua; Rome holds its nerve and Capua falls. Hannibal can still generate alarm and maneuver across Italy, but he cannot reliably protect defectors from Roman reconquest.
 
@@ -50,7 +53,7 @@ Defeat does not end his political importance. Hannibal argues for accepting the 
 - Is remembered through an oath tradition linking family formation to First Punic War defeat and Roman seizure of Sardinia.
 - Prepares movement through diplomacy, intelligence, local exchange, signaling, scouting, and adaptive march order.
 - Uses opponent psychology and political incentives as inputs to battle design.
-- Combines cavalry, infantry, elephants, concealed troops, and terrain, but cannot reproduce that balance at Zama.
+- Combines cavalry, infantry, elephants, concealed troops, controlled withdrawal, and terrain, but cannot reproduce the favorable balance at Zama.
 - Adapts after military defeat through negotiation, civilian reform, and repeated flight from Roman demands.
 
 ## Evidence
@@ -65,7 +68,8 @@ Defeat does not end his political importance. Hannibal argues for accepting the 
 - Trebia trap: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] describes the Numidian lure, icy river, cavalry and elephant pressure, and Mago's concealed force.
 - Trasimene ambush: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] places concealed troops on mist-covered hills above a constrained Roman column.
 - Political limit: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] connects lenient prisoner treatment to alliance strategy while noting that major non-Gallic defections have not followed.
-- Cannae and failed conversion: [[640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972]] connects envelopment and mass Roman loss to Hannibal's expectation of negotiation, practical siege limits, Rome's refusal, and incomplete Italian defection.
+- Cannae battle design: [[571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695]] connects the depot, terrain, convex center, staged withdrawal, Libyan flank attacks, cavalry movement, Roman compression, and rear closure.
+- Cannae's political limit: [[640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972]] connects mass Roman loss to Hannibal's expectation of negotiation, practical siege limits, Rome's refusal, and incomplete Italian defection.
 - Rome and Capua: [[640-romes-greatest-enemy-carthage-at-the-gates-part-1-glt9223169972]] presents the later march on Rome as an unsuccessful diversion to relieve Hannibal's principal Italian ally.
 - Adaptation against Fabius: [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067]] recounts the burning-cattle escape and the later trap that nearly destroys Minucius's legions.
 - Strategic decline and recall: [[642-romes-greatest-enemy-bloodbath-in-africa-part-3-glt1285518636]] connects the loss of Spain, Italian allies, and reinforcements to Scipio's invasion and Carthage's recall order.
@@ -74,15 +78,13 @@ Defeat does not end his political importance. Hannibal argues for accepting the 
 
 ## Qualifications
 
-The profile is bounded to six podcast episodes covering Hannibal's inherited setting, formation, Italian campaigns, and eventual defeat and exile, but it still does not reconstruct every operation. Roman and later traditions dominate the recoverable portrait, so the childhood oath, Maharbal exchange, cruelty and treachery claims, numbers, speeches, dreams, motives, precise routes, siege calculations, elephant details, reforms, political accusations, general-ranking anecdote, and suicide scene remain qualified. Polybius's admiration is important evidence but comes through a historian tied to the Scipionic circle.
+The profile is bounded to seven podcast episodes covering Hannibal's inherited setting, formation, Italian campaigns, and eventual defeat and exile, but it still does not reconstruct every operation. Roman and later traditions dominate the recoverable portrait, so the childhood oath, Maharbal exchange, cruelty and treachery claims, numbers, speeches, dreams, motives, precise routes, Cannae command assignments and sequence, physical battle experience, siege calculations, elephant details, reforms, political accusations, general-ranking anecdote, and suicide scene remain qualified. Polybius's admiration is important evidence but comes through a historian tied to the Scipionic circle.
 
 ## What Changed
 
-- Extended the profile from the early Italian campaign through recall, Zama, civilian reform, exile, and death.
-- Reframed Zama as loss of the cavalry and coalition conditions behind Hannibal's earlier combined-arms success.
-- Distinguished military defeat from political incapacity by adding Hannibal's postwar reform career.
-- Added Cannae as the apex of Hannibal's battlefield method and the clearest limit of battle as a substitute for political conversion.
-- Connected the failed diversion toward Rome to Carthage's inability to protect Capua.
+- Reconstructed Cannae as a timed combined-arms system beginning with supply pressure and terrain choice.
+- Added staged center withdrawal, Roman compression, and cross-field cavalry movement to the profile.
+- Preserved Cannae's separation between tactical perfection and incomplete political conversion.
 
 ## Relationships
 

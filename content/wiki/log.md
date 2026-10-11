@@ -35449,3 +35449,13 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 571. Hannibal: Roman Bloodbath at Cannae (Part 4)
+
+Added source `571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695`; resynthesized [[BattleOfCannae|Battle of Cannae / 坎尼会战]], [[HannibalBarca|Hannibal Barca / 汉尼拔]], [[HannibalicOperationalDeception]], [[FabianStrategy]], [[QuintusFabiusMaximus|Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯]], and [[SecondPunicWar|Second Punic War / 第二次布匿战争]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hannibal joined supply pressure and cavalry-friendly terrain to a yielding center, Libyan flank attacks, and cross-field cavalry closure, converting Rome's exceptional mass and forward momentum into confinement; the same result remains politically incomplete because battlefield annihilation did not itself compel surrender or dissolve the Italian alliance system. No settled contradiction was adopted. Force and casualty totals, deployments, named commands, battle sequence, speeches, intentions, physical experiences, and ancient horror scenes remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,439 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
