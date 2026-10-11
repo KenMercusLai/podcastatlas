@@ -35588,3 +35588,11 @@ Added source `the-correct-way-to-build-strength-endurance-flexibility-at-any-age
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 538. Horror in the Congo: The Nightmare Begins (Part 1)
+
+Added source `538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085` and resynthesized [[CongoFreeState|Congo Free State]], [[LeopoldII|Leopold II]], [[HenryMortonStanley|Henry Morton Stanley]], [[ImperialCivilisingMissionContradiction]], and [[CharteredCompanySovereignty]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Leopold used plural humanitarian brands, overlapping private associations, Stanley's transport and station infrastructure, purported treaties, and great-power rivalry to turn commercial ambition into internationally recognized personal sovereignty; legal-looking documents and recognition did not establish informed Congolese consent. No settled contradiction was adopted. Population and mortality figures, individual chiefs' understanding and strategy, treaty validity, foreign governments' knowledge, biographical motives, and diplomatic interpretations remain disputed or source-scoped. Broad [[TheRestIsHistory]] and [[HeartOfDarkness|Heart of Darkness]] pages were kept closed because focused institutional, actor, and sovereignty pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,456 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

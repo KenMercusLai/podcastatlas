@@ -41146,9 +41146,9 @@
       "url": "/wiki/entities/charlottecorday/"
     },
     "CharteredCompanySovereignty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7809915873 [GLT7809915873].md",
@@ -41156,9 +41156,16 @@
           "show": "The Rest Is History",
           "title": "75. The East India Company",
           "url": "/wiki/sources/75-the-east-india-company-glt7809915873/"
+        },
+        {
+          "episode_file": "GLT1431012085 [GLT1431012085].md",
+          "key": "538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085",
+          "show": "The Rest Is History",
+          "title": "538. Horror in the Congo: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/charteredcompanysovereignty/"
     },
     "ChaseAndrews": {
@@ -52373,9 +52380,9 @@
       "url": "/wiki/entities/confucius/"
     },
     "CongoFreeState": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -52397,6 +52404,13 @@
           "show": "The Rest Is History",
           "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
           "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        },
+        {
+          "episode_file": "GLT1431012085 [GLT1431012085].md",
+          "key": "538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085",
+          "show": "The Rest Is History",
+          "title": "538. Horror in the Congo: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085/"
         }
       ],
       "updated": "2026-10-11",
@@ -116411,9 +116425,9 @@
       "url": "/wiki/entities/henrymintzberg/"
     },
     "HenryMortonStanley": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3285474568 [GLT3285474568].md",
@@ -116428,9 +116442,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT1431012085 [GLT1431012085].md",
+          "key": "538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085",
+          "show": "The Rest Is History",
+          "title": "538. Horror in the Congo: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/henrymortonstanley/"
     },
     "HenryPercyHotspur": {
@@ -127850,9 +127871,9 @@
       "url": "/wiki/concepts/imperialcenterrelocation/"
     },
     "ImperialCivilisingMissionContradiction": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -127881,6 +127902,13 @@
           "show": "The Rest Is History",
           "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
           "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        },
+        {
+          "episode_file": "GLT1431012085 [GLT1431012085].md",
+          "key": "538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085",
+          "show": "The Rest Is History",
+          "title": "538. Horror in the Congo: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085/"
         }
       ],
       "updated": "2026-10-11",
@@ -150720,9 +150748,9 @@
       "url": "/wiki/entities/leopoldberchtold/"
     },
     "LeopoldII": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -150751,6 +150779,13 @@
           "show": "The Rest Is History",
           "title": "539. Horror in the Congo: The Crimes of Empire (Part 2)",
           "url": "/wiki/sources/539-horror-in-the-congo-the-crimes-of-empire-part-2-glt5467841243/"
+        },
+        {
+          "episode_file": "GLT1431012085 [GLT1431012085].md",
+          "key": "538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085",
+          "show": "The Rest Is History",
+          "title": "538. Horror in the Congo: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085/"
         }
       ],
       "updated": "2026-10-11",

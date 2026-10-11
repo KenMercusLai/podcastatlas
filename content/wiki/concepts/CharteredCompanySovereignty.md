@@ -4,7 +4,8 @@ type: concept
 tags: [corporate-power, colonialism, sovereignty, political-economy]
 sources:
   - 75-the-east-india-company-glt7809915873
-last_updated: 2026-10-03
+  - 538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ Chartered-company sovereignty is the conversion of a state-chartered commercial 
 
 The resulting institution was neither an ordinary merchant nor a conventional state. Short-horizon enrichment, coercive control of producers, tax extraction, weak famine responsibility, corporate bankruptcy, and parliamentary rescue turned conquest into a public-private liability. Regulation after 1772 and nationalization after the 1857 uprising show the state progressively absorbing a sovereignty project that corporate power had initiated.
 
+The [[CongoFreeState|Congo Free State]] supplies a related but distinct route. Rather than a long-established state charter expanding with a company's conquests, [[LeopoldII|Leopold II]] used nominally humanitarian associations, [[HenryMortonStanley|Stanley]]'s infrastructure and purported treaties, and foreign recognition to turn a private initiative into a sovereign personal state. The comparison widens the concept from one legal corporate form to the functional merger of private profit, territorial claim, armed capacity, and international personality.
+
 ## Key Claims
 
 - Joint-stock organization can pool private risk while a state charter supplies monopoly privilege and political protection.
@@ -28,6 +31,7 @@ The resulting institution was neither an ordinary merchant nor a conventional st
 - Taking over tax machinery without accepting durable welfare obligations creates a sharp extraction-responsibility mismatch.
 - Private profit seeking and public governing power can socialize the costs of famine, military failure, and bankruptcy.
 - Parliamentary regulation and nationalization can follow corporate expansion, making formal state empire the successor to an earlier company-state.
+- Organizational ambiguity, treaty documents, and diplomatic recognition can convert a private association into a sovereign territorial power even without an ordinary corporate charter.
 
 ## Evidence
 
@@ -35,14 +39,16 @@ The resulting institution was neither an ordinary merchant nor a conventional st
 - **Local enablement:** [[75-the-east-india-company-glt7809915873]] makes Indian sepoys, [[JagatSeth|Jagat Seth]] and other financiers, merchant migration, and Mughal fragmentation central to Company power.
 - **Fiscal and welfare mismatch:** [[75-the-east-india-company-glt7809915873]] contrasts inherited Mughal tax collection with limited Company famine relief and describes coercive control of Bengal's weavers.
 - **Public absorption of private rule:** [[75-the-east-india-company-glt7809915873]] links the 1772 bankruptcy to parliamentary intervention and the 1857 uprising to nationalization in 1858.
+- **Private association to state:** [[538-horror-in-the-congo-the-nightmare-begins-part-1-glt1431012085]] connects Leopold's overlapping associations, Stanley's infrastructure and treaties, and rival-power recognition to the creation of his personal Congo Free State.
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on one narrative account of one company. Mughal rule was itself extractive, Indian collaboration did not imply equal control over outcomes, and neither commercial reliability nor local support made Company government legitimate. The episode's contrast between long-term sovereign responsibility and short-term corporate extraction is analytically useful but compressed; regional variation, changing Company law, famine causation, and the British state's involvement require broader evidence.
+The comparison joins two compressed popular-history accounts and should not erase their legal differences. The East India Company held a state charter and evolved over centuries; Leopold's associations were instruments of a monarch acting privately before international recognition. Mughal rule was itself extractive, Indian collaboration did not imply equal control, and African chiefs' signatures do not establish informed or unconstrained consent. Regional variation, changing company law, famine causation, Belgian constitutional questions, treaty validity, and the role of recognizing states require broader evidence.
 
 ## What Changed
 
 - Created a framework linking joint-stock risk pooling, local finance and military labor, revenue power, welfare failure, bankruptcy, regulation, and nationalization.
+- Extended the framework beyond a state-chartered corporation to a private association converted into a recognized personal state.
 
 ## Related Concepts
 
@@ -50,3 +56,5 @@ This concept currently rests on one narrative account of one company. Mughal rul
 - [[FamineEntitlementFailure]] - clarifies how production loss and broken access can combine beyond the episode's corporate-responsibility argument.
 - [[ExplorationToExtractionPipeline]] - adjacent pattern in which commercial reach becomes resource governance and colonial extraction.
 - [[EncomiendaColonialLaborSystem]] - distinct colonial institution that likewise joins delegated private benefit to coercive rule.
+- [[CongoFreeState]] - related case in which private associations acquired territorial and sovereign authority through infrastructure, documents, and diplomatic recognition.
+- [[ImperialCivilisingMissionContradiction]] - legitimacy mechanism that presented private territorial acquisition as humanitarian work.
