@@ -10,6 +10,7 @@ sources:
   - ljbtvkfckw2lb-nykriz05lq35wz
   - lr4bhqtikeophh4ladhymapyskwv
   - lpjxwzf-ic6-rfvd-a5cl3ig3fou-lpjxwzf-ic6-rfvd-a5cl3ig3fou
+  - lh2p-n8chtr_zwzssxljfgezpc0i
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-12
 ---
@@ -34,12 +35,14 @@ That strength and tradeoff become more cosmological in [[HairNiKuangNovel|《头
 
 With [[BaoHuNiKuangNovel|《宝狐》]], the profile now includes the [[YuanZhenxia|袁振侠]] branch and makes its recurring strength-and-tradeoff especially explicit. Fox-spirit romance, an ageless body, information-like life, moral transformation, elite identity refusal, and uncertain [[RomanticAutonomyUnderManipulation|romantic autonomy]] generate a rich question-space. The episode nevertheless argues that the eventual extraterrestrial answer is less distinctive than the folklore it replaces and that serialized speed can produce repeated explanation, simplified motive, and formal rather than fully earned closure. This supports [[SpeculativeDemystificationTradeoff]] as a bounded craft judgment, not a claim that all of Ni Kuang's alien stories resolve in the same way.
 
+The early-series evidence from [[BlueBloodManNiKuangNovel|《蓝血人》]] extends the same profile. The Wesley project moves from “modern wuxia” into [[WuxiaScienceFictionHybrid|wuxia–science-fiction hybridity]]: extraterrestrials, spacecraft, unknown writing, mind influence, and navigation technology expand a hero still organized by physical mastery, miraculous medicine, infiltration, secret societies, and serial escape. The opening mystery and Saturn homecoming show conceptual speed and human concern, while scientific errors, repeated danger, accreted rules, and questions raised without full argument make the cost of that speed unusually visible. The ending's [[WeaponsRaceCivilizationalSelfDestruction|weapons-race warning]] also shows speculative machinery serving a moral and political judgment rather than prediction alone.
+
 That creative continuity does not authenticate every anecdote or prove a direct path from incident to fiction. The material comes through memoir and podcast retelling, often decades after the reported events, and the hosts themselves alternate among literary inference, folk explanation, and physiological, psychiatric, acoustic, linguistic, ecological, or memory-based alternatives. Ni Kuang is therefore best treated here as both reported witness and highly effective narrator, not as independent verification of execution history, engineering, natural science, medicine, psychology, or paranormal causation.
 
 ## Key Characteristics
 
 - Draws creative material from physically demanding work, travel, violence, danger, scarcity, and close observation.
-- Turns remembered people, landscapes, animals, and unexplained incidents into recurring fictional motifs, and speculative, religious, or folkloric ideas into systems exposing dependency, greed, inequality, unstable fulfilled desire, creator hypocrisy, contested personal continuity, and the costs of explanatory closure.
+- Turns remembered people, landscapes, animals, and unexplained incidents into recurring fictional motifs, and speculative, religious, folkloric, or nuclear-age ideas into systems exposing dependency, greed, inequality, creator hypocrisy, contested personal continuity, and civilizational self-destruction.
 - Combines adventure, natural oddity, social history, and supernatural possibility in autobiographical storytelling.
 - Gives bodily experiences such as fear, injury, infestation, and near-death enough concrete detail to carry later literary interpretation.
 - Preserves confident narrative momentum even when species, dates, numbers, causes, or identities remain uncertain.
@@ -88,15 +91,20 @@ That creative continuity does not authenticate every anecdote or prove a direct 
 - [[lpjxwzf-ic6-rfvd-a5cl3ig3fou-lpjxwzf-ic6-rfvd-a5cl3ig3fou]] presents 《宝狐》 as a hybrid of fox-spirit tale, romance, horror, and science fiction whose signal-life mechanism opens questions about love, embodiment, and moral transformation.
 - [[lpjxwzf-ic6-rfvd-a5cl3ig3fou-lpjxwzf-ic6-rfvd-a5cl3ig3fou]] criticizes the alien resolution as less compelling than the folklore mystery and preserves uncertainty over whether Leng Ziquan's devotion is autonomous or cognitively influenced.
 
+### Early genre fusion and nuclear-age concern
+
+- [[lh2p-n8chtr_zwzssxljfgezpc0i]] presents 《蓝血人》 as a move from modern wuxia into extraterrestrial adventure while preserving martial competence, miraculous medicine, secret organizations, and rapid encounter structure.
+- [[lh2p-n8chtr_zwzssxljfgezpc0i]] praises the identity mystery and weapons-race tragedy while treating weak astronomy, loose biology, repeated pursuit, and improvised mechanisms as evidence that moral imagination can exceed scientific and causal rigor.
+
 ## Qualifications
 
-This is a seven-source, episode-bounded profile rather than a complete biography or bibliography. The autobiographical stories are retrospectively narrated; execution details, emotional responses, engineering claims, prices, worker totals, animal behavior, insect densities, species and plant identifications, geology, treatment effects, dialogue, and supernatural interpretations are not independently verified. The A Zi account likewise comes through podcast retelling rather than manuscripts or publication records. The 《不死药》, 《头发》, 《寻梦》, and 《宝狐》 accounts are conversational retellings, not direct edition comparisons, and their publication, manuscript, religious, scientific, psychological, historical-prototype, paranormal, and literary anecdotes remain source-scoped. A remembered incident can illuminate creative formation, and a retained plot result or thematic mechanism can show influence, without proving exact chronology, sole authorship, authorial intent, factual science, theological adequacy, reincarnation, mind control, extraterrestrial life, or a one-to-one origin for the later work.
+This is an eight-source, episode-bounded profile rather than a complete biography or bibliography. The autobiographical stories are retrospectively narrated; execution details, emotional responses, engineering claims, prices, worker totals, animal behavior, insect densities, species and plant identifications, geology, treatment effects, dialogue, and supernatural interpretations are not independently verified. The A Zi account likewise comes through podcast retelling rather than manuscripts or publication records. The 《不死药》, 《头发》, 《寻梦》, 《宝狐》, and 《蓝血人》 accounts are conversational retellings, not direct edition comparisons, and their publication, manuscript, religious, scientific, psychological, historical-prototype, paranormal, and literary anecdotes remain source-scoped. A remembered incident can illuminate creative formation, and a retained plot result or thematic mechanism can show influence, without proving exact chronology, sole authorship, authorial intent, factual science, theological adequacy, reincarnation, mind control, extraterrestrial life, or a one-to-one origin for the later work.
 
 ## What Changed
 
-- Added the 袁振侠-series branch through 《宝狐》.
-- Added the bounded tradeoff between speculative explanation and lost folkloric ambiguity.
-- Added romantic autonomy under possible cognitive influence without resolving the relationship as either pure devotion or coercion.
+- Added 《蓝血人》 as an early foundation for the Wesley branch.
+- Added wuxia–science-fiction hybridity to the profile's account of accessibility, speed, and scientific looseness.
+- Added weapons-race civilizational self-destruction as a case where speculative machinery carries nuclear-age moral concern.
 
 ## Relationships
 
@@ -110,6 +118,9 @@ This is a seven-source, episode-bounded profile rather than a complete biography
 - [[HairNiKuangNovel|《头发》]] - novel connecting human origins and religious motifs to consciousness-transfer technology and creator ethics.
 - [[XunMengNiKuangNovel|《寻梦》]] - novel connecting reincarnation, memory continuity, romantic betrayal, and tragic repetition.
 - [[BaoHuNiKuangNovel|《宝狐》]] - novel connecting fox-spirit imagery, signal-like life, romantic autonomy, and bodily exit.
+- [[BlueBloodManNiKuangNovel|《蓝血人》]] - early Wesley novel connecting alien mystery, genre fusion, homecoming, and weapons-race tragedy.
 - [[YuanZhenxia|袁振侠]] - doctor-investigator opening a distinct series branch in the bounded profile.
 - [[WesleyNiKuang|卫斯理]] - recurring protagonist whose curiosity and judgment carry that novel's momentum and weaknesses.
 - [[TechnologizedSalvation]] - describes the novel's conversion of religious transcendence into an engineered return system.
+- [[WuxiaScienceFictionHybrid]] - describes how speculative objects and vocabulary coexist with modern-wuxia action grammar.
+- [[WeaponsRaceCivilizationalSelfDestruction]] - names the Saturn allegory's route from secret competition to environmental collapse.

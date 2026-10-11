@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3453
+topic_total_pages: 3455
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3541,6 +3541,9 @@ topic_concepts:
   - key: "WuxiaIntertextualCraft"
     title: "Wuxia Intertextual Craft"
     url: "/wiki/concepts/wuxiaintertextualcraft/"
+  - key: "WuxiaScienceFictionHybrid"
+    title: "Wuxia–Science-Fiction Hybridity / 武侠式科幻"
+    url: "/wiki/concepts/wuxiasciencefictionhybrid/"
   - key: "YiShuiFarewell"
     title: "Yi Shui Farewell / 易水送别"
     url: "/wiki/concepts/yishuifarewell/"
@@ -8907,6 +8910,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "lh2p-n8chtr_zwzssxljfgezpc0i"
+    title: "030 大话卫斯理之《蓝血人》"
+    url: "/wiki/sources/lh2p-n8chtr_zwzssxljfgezpc0i/"
   - key: "031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps"
     title: "031 趣话古龙《楚留香传奇：血海飘香》"
     url: "/wiki/sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps/"

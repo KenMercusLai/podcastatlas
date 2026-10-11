@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13358
+wiki_total_pages: 13360
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1397,6 +1397,9 @@ wiki_pages:
   - key: "BixueJian"
     title: "《碧血剑》 / Sword Stained with Royal Blood"
     url: "/wiki/entities/bixuejian/"
+  - key: "BlueBloodManNiKuangNovel"
+    title: "《蓝血人》 / Blue Blood Man (Ni Kuang novel)"
+    url: "/wiki/entities/bluebloodmannikuangnovel/"
   - key: "BloodSeaFragranceGuLong"
     title: "《血海飘香》 / Blood Sea Fragrance"
     url: "/wiki/entities/bloodseafragrancegulong/"

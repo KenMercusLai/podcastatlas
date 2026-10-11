@@ -36231,3 +36231,10 @@ Added source `031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkz
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | 030 大话卫斯理之《蓝血人》
+
+Added source `lh2p-n8chtr_zwzssxljfgezpc0i`; created [[BlueBloodManNiKuangNovel|《蓝血人》]], [[FangTianNiKuang|方天]], [[WuxiaScienceFictionHybrid|武侠式科幻]], and [[WeaponsRaceCivilizationalSelfDestruction|武器竞赛式文明自毁]]; and resynthesized [[NiKuang|倪匡]] and [[WesleyNiKuang|卫斯理]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's blue-blood mystery and Saturn homecoming show how modern-wuxia action can make extraterrestrial speculation accessible while scientific looseness, repeated pursuit, accreted rules, and underdeveloped ethical questions expose the cost of serialized speed; Saturn's secret arms competition makes preparation and testing—not only final war—a route to environmental and civilizational collapse. No settled contradiction was adopted. Fang Tian's shift from coercive threat to sympathetic exile remains morally qualified, while astronomy, biology, publication history, authorial intention, dialogue, plot mechanics, and the Cold War reading remain fictional, interpretive, or source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and adjacent nuclear pages were kept closed because the focused source, entities, concepts, and two bounded resyntheses capture the durable addition without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,537 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

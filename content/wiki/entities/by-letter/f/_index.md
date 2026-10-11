@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13358
+wiki_total_pages: 13360
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "FangKecheng"
     title: "方可诚"
     url: "/wiki/entities/fangkecheng/"
+  - key: "FangTianNiKuang"
+    title: "方天 / Fang Tian (Ni Kuang)"
+    url: "/wiki/entities/fangtiannikuang/"
   - key: "FangWangGengshi"
     title: "方望 / Fang Wang (Gengshi)"
     url: "/wiki/entities/fangwanggengshi/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [030 大话卫斯理之《蓝血人》](sources/lh2p-n8chtr_zwzssxljfgezpc0i.md) — 纸醉金迷FM以蓝血谜团、外星导航仪和土星归乡悲剧重读《蓝血人》，在武侠式科幻的想象力与科学、因果和伦理局限之间保留张力。
 - [031 趣话古龙《楚留香传奇：血海飘香》](sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps.md) — 纸醉金迷FM以不杀原则、行动式人物塑造、友情转化和含蓄留白重读《血海飘香》，同时质疑阴谋逻辑、真相隐瞒及男性视角下的女性书写。
 - [032 教师节特辑 | 韦小宝和他的师父们](sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg.md) — 纸醉金迷FM以海大富的生存教育和陈近南的道德父职，讨论具体互惠、抽象忠诚、复明派系内斗与传统侠义英雄的末路。
 - [033 《鹿鼎记》之配角也精彩|韦小宝的师父、兄弟们](sources/lowwo0ixlp--ouxy87p42cult3k4.md) — 纸醉金迷FM以九难的适配教学、韦小宝的无名之师和分层结拜关系，讨论情境学习、亲情、义气与关系网络。
@@ -4621,6 +4622,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《蓝血人》 / Blue Blood Man (Ni Kuang novel)](entities/BlueBloodManNiKuangNovel.md) — 倪匡早期卫斯理小说，以蓝血身份谜团、武侠式科幻、外星归乡与武器竞赛导致的文明自毁连接冒险和核时代寓言。
+- [方天 / Fang Tian (Ni Kuang)](entities/FangTianNiKuang.md) — 《蓝血人》中流落地球约两百年的土星科学家，从危险异类转为归乡者，并见证故乡文明因武器竞赛而崩溃。
 - [《血海飘香》 / Blood Sea Fragrance](entities/BloodSeaFragranceGuLong.md) — 楚留香系列开篇，以强人物塑造和情感表达对照失衡的阴谋逻辑、仓促收尾与性别局限。
 - [无花（古龙人物） / Wuhua (Gu Long character)](entities/WuhuaGuLong.md) — 外表清雅多才、实为幕后主使，却在结尾因不合理决策削弱威胁感的《血海飘香》反派。
 - [南宫灵（古龙人物） / Nangong Ling (Gu Long character)](entities/NangongLingGuLong.md) — 兼具复仇、权力欲、公共形象管理和战略漏洞的丐帮帮主与共谋者。
@@ -4785,7 +4788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [北京天坛医院 / Beijing Tiantan Hospital](entities/BeijingTiantanHospital.md) — Episode-stated affiliation for Wei Yuzhen's myasthenia-gravis public education.
 - [《不死药》 / The Immortality Drug](entities/BuSiYaoNovel.md) — 倪匡卫斯理小说，以身份反转和依赖型抗衰老药物连接悬疑、垄断与永生代价。
 - [《头发》 / Hair (Ni Kuang novel)](entities/HairNiKuangNovel.md) — 倪匡卫斯理小说，以失效的头发接口、宗教使者和意识转移讨论人类起源、救赎与创造者责任。
-- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《不死药》《头发》与《寻梦》中以涉险、比较证词和跨越边界追问永生、救赎与人格延续。
+- [卫斯理 / Wesley (Ni Kuang)](entities/WesleyNiKuang.md) — 倪匡笔下由好奇心驱动的调查者，在《蓝血人》《不死药》《头发》与《寻梦》中以涉险、比较证词和跨越边界追问异类、永生、救赎与人格延续。
 - [Croke Park Bloody Sunday (1920)](entities/CrokeParkBloodySunday1920.md) — Disambiguated 1920 event joining IRA assassinations, the Croke Park massacre, Dublin Castle killings, official denial, and private trauma.
 - [Irish War of Independence](entities/IrishWarOfIndependence.md) — Armed, electoral, institutional, and social struggle that escalated from counter-state formation into stalemate, truce, and treaty negotiation.
 - [Dáil Éireann](entities/DailEireann.md) — Elected republican assembly whose courts, ministries, finance, and diplomacy competed with British authority during the War of Independence.
@@ -4830,7 +4833,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Autohome / 汽车之家](entities/Autohome.md) — 李想从PC媒体转向汽车市场后建立的用户导向汽车信息公司，也是其产品语言和组织危机学习场域。
 - [Li Auto ONE / 理想 ONE](entities/LiAutoONE.md) — 以六座家庭场景与增程补能为核心、同时经历早期质量修正的理想汽车首款量产车。
 - [Li Auto MEGA / 理想 MEGA](entities/LiAutoMEGA.md) — 用于讨论纯电补能、私人空间、上市舆论危机与产品补救的理想汽车MPV。
-- [倪匡 / Ni Kuang](entities/NiKuang.md) — 将身体经验与奇异见闻转化为冒险、科幻、灵异和人格延续机制，同时以强叙事动力承担逻辑粗粝风险的作家。
+- [倪匡 / Ni Kuang](entities/NiKuang.md) — 将身体经验、奇异见闻与核时代忧虑转化为冒险、武侠式科幻、灵异和人格延续机制，同时以强叙事动力承担科学及逻辑粗粝风险的作家。
 - [Richard Manks](entities/RichardManks.md) — Solihull bricklayer and professional pedestrian whose 1851 thousand-mile Oval walk became a major quantified endurance spectacle.
 - [Robert Barclay Allardice](entities/RobertBarclayAllardice.md) — Captain Barclay, whose thousand-miles-in-a-thousand-hours format made scheduling and recovery central to pedestrianism.
 - [The Oval](entities/TheOval.md) — Kennington multi-sport ground linking older common-land spectacle to permanent, ticketed, recurring, and international competition.
@@ -18049,6 +18052,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Wuxia–Science-Fiction Hybridity / 武侠式科幻](concepts/WuxiaScienceFictionHybrid.md) — 科技与外星设定承载科幻表层，而人物能力、灵药、秘密组织与闯关结构延续武侠冒险语法的跨类型模式。
+- [Weapons-Race Civilizational Self-Destruction / 武器竞赛式文明自毁](concepts/WeaponsRaceCivilizationalSelfDestruction.md) — 对手公开限制毁灭性武器却秘密竞逐，使研发、试验与污染在终局战争前便摧毁共同生存条件。
 - [Concrete Reciprocity Over Abstract Loyalty / 具体互惠高于抽象忠诚](concepts/ConcreteReciprocityOverAbstractLoyalty.md) — 以具体人的相待、互助与不背叛，优先于对王朝、族群、派别或教义的无条件忠诚。
 - [Shared-Cause Factional Erosion / 共同目标下的派系侵蚀](concepts/SharedCauseFactionalErosion.md) — 共同目标无法约束继承、正统、亲缘和私利竞争，最终使联盟把冲突转向内部的过程。
 - [Informal Selective Learning / 情境化选择性学习](concepts/InformalSelectiveLearning.md) — 通过观察、模仿、筛选和即时应用获得可迁移知识，同时区分有效传授与良善师徒关系。

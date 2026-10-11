@@ -94948,6 +94948,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WuxiaScienceFictionHybrid": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "WuxiaWarringStates": [
     {
       "key": "history",
@@ -103952,6 +103959,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "lh2p-n8chtr_zwzssxljfgezpc0i": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "lh2xjiu48gisboa7esabpaejxisk": [
