@@ -6932,6 +6932,52 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/actorlikenessauthorization/"
     },
+    "ActuarialAIAugmentation": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "91E860DD6E02905FCF327DF15E961DD8~8584435_2026-08-10-210035-8787-0-0-10.128 [91E860DD6E02905FCF327DF15E961DD8~8584435_2026-08-10-210035-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a838616].md",
+          "key": "ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker",
+          "show": "Data Science With Sam",
+          "title": "EP 10: A thought-provoking chat with an actuary and TEDx speaker",
+          "url": "/wiki/sources/ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker/"
+        },
+        {
+          "episode_file": "AA65A060D65530808855564AD78269~8584434_2026-08-10-210034-8787-0-0-10.128 [AA65A060D65530808855564AD78269~8584434_2026-08-10-210034-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83862c].md",
+          "key": "ep-11-growing-technology-footprints-in-insurance-sector",
+          "show": "Data Science With Sam",
+          "title": "EP 11: Growing Technology Footprints in Insurance Sector",
+          "url": "/wiki/sources/ep-11-growing-technology-footprints-in-insurance-sector/"
+        },
+        {
+          "episode_file": "FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128 [FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838bf9].md",
+          "key": "ep-18-insurance-transformed-an-actuarys-take-on-ai",
+          "show": "Data Science With Sam",
+          "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+          "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/actuarialaiaugmentation/"
+    },
+    "ActuarialWorkflowInversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128 [FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838bf9].md",
+          "key": "ep-18-insurance-transformed-an-actuarys-take-on-ai",
+          "show": "Data Science With Sam",
+          "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+          "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/actuarialworkflowinversion/"
+    },
     "ActusOncology": {
       "episode_count": 1,
       "show_count": 1,
@@ -131800,10 +131846,26 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/insuranceclaimsassistanceplatforms/"
     },
+    "InsurancePersonalizationLimit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128 [FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838bf9].md",
+          "key": "ep-18-insurance-transformed-an-actuarys-take-on-ai",
+          "show": "Data Science With Sam",
+          "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+          "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/insurancepersonalizationlimit/"
+    },
     "InsuranceRiskTransfer": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 6,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "18840BF8447E46C2B0BF75D5ACFF408E~8584444_2026-08-10-210944-8787-0-0-10.128 [18840BF8447E46C2B0BF75D5ACFF408E~8584444_2026-08-10-210944-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a838287].md",
@@ -131853,9 +131915,16 @@
           "show": "蜜獾吃书",
           "title": "159.要精明，要善良，要解决问题",
           "url": "/wiki/sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201/"
+        },
+        {
+          "episode_file": "FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128 [FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838bf9].md",
+          "key": "ep-18-insurance-transformed-an-actuarys-take-on-ai",
+          "show": "Data Science With Sam",
+          "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+          "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
         }
       ],
-      "updated": "2026-08-18",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/insurancerisktransfer/"
     },
     "IntegratedBipolarCare": {
@@ -177744,6 +177813,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/microdramaformboundary/"
+    },
+    "MicroDurationInsurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128 [FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838bf9].md",
+          "key": "ep-18-insurance-transformed-an-actuarys-take-on-ai",
+          "show": "Data Science With Sam",
+          "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+          "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/microdurationinsurance/"
     },
     "MicroRestLearningReplay": {
       "episode_count": 1,
@@ -247016,6 +247101,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/stephenkosslyn/"
+    },
+    "StephenMaddis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128 [FF2960118C9D93723FEF357BC851D7CB~8584429_2026-08-10-215529-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838bf9].md",
+          "key": "ep-18-insurance-transformed-an-actuarys-take-on-ai",
+          "show": "Data Science With Sam",
+          "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+          "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/stephenmaddis/"
     },
     "StephenOfBlois": {
       "episode_count": 1,

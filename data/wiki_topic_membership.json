@@ -12280,6 +12280,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ActuarialWorkflowInversion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ActusOncology": [
     {
       "key": "economics",
@@ -48161,6 +48168,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "InsurancePersonalizationLimit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "InsuranceRiskTransfer": [
     {
       "key": "economics",
@@ -82601,6 +82615,13 @@
       "url": "/topics/science/"
     }
   ],
+  "StephenMaddis": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "StephenMathis": [
     {
       "key": "science",
@@ -101156,6 +101177,13 @@
     }
   ],
   "ep-17-ais-impact-on-creativity-a-consumers-perspective": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-18-insurance-transformed-an-actuarys-take-on-ai": [
     {
       "key": "technology",
       "label": "Technology",

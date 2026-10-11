@@ -6995,6 +6995,10 @@
     "title": "Actuarial Standards of Practice",
     "url": "/wiki/concepts/actuarialstandardsofpractice/"
   },
+  "ActuarialWorkflowInversion": {
+    "title": "Actuarial Workflow Inversion",
+    "url": "/wiki/concepts/actuarialworkflowinversion/"
+  },
   "ActuaryDataScientistPartnership": {
     "title": "Actuary Data Scientist Partnership",
     "url": "/wiki/concepts/actuarydatascientistpartnership/"
@@ -44739,6 +44743,10 @@
     "title": "Insurance Model Regulatory Constraint",
     "url": "/wiki/concepts/insurancemodelregulatoryconstraint/"
   },
+  "InsurancePersonalizationLimit": {
+    "title": "Insurance Personalization Limit",
+    "url": "/wiki/concepts/insurancepersonalizationlimit/"
+  },
   "InsurancePolicyLoanFraud": {
     "title": "Insurance Policy Loan Fraud",
     "url": "/wiki/concepts/insurancepolicyloanfraud/"
@@ -58986,6 +58994,10 @@
   "MicroDramaFormBoundary": {
     "title": "Micro-Drama Form Boundary / 微短剧形式边界",
     "url": "/wiki/concepts/microdramaformboundary/"
+  },
+  "MicroDurationInsurance": {
+    "title": "Micro-Duration Insurance",
+    "url": "/wiki/concepts/microdurationinsurance/"
   },
   "MicroHappiness": {
     "title": "Micro-Happiness",
@@ -81703,6 +81715,10 @@
     "title": "Stephen Kosslyn",
     "url": "/wiki/entities/stephenkosslyn/"
   },
+  "StephenMaddis": {
+    "title": "Stephen Maddis",
+    "url": "/wiki/entities/stephenmaddis/"
+  },
   "StephenMathis": {
     "title": "Stephen Mathis",
     "url": "/wiki/entities/stephenmathis/"
@@ -100758,6 +100774,10 @@
   "ep-17-ais-impact-on-creativity-a-consumers-perspective": {
     "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
     "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+  },
+  "ep-18-insurance-transformed-an-actuarys-take-on-ai": {
+    "title": "EP 18: Insurance Transformed: An Actuary's take on AI",
+    "url": "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
   },
   "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai": {
     "title": "EP 19: Navigating the Future of Workplace Health and Benefits with AI",

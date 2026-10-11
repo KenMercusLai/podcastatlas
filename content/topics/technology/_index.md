@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3466
+topic_total_pages: 3470
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -28,6 +28,9 @@ topic_concepts:
   - key: "ActuarialAIAugmentation"
     title: "Actuarial AI Augmentation"
     url: "/wiki/concepts/actuarialaiaugmentation/"
+  - key: "ActuarialWorkflowInversion"
+    title: "Actuarial Workflow Inversion"
+    url: "/wiki/concepts/actuarialworkflowinversion/"
   - key: "AdaptiveHumanEnvironments"
     title: "Adaptive Human Environments"
     url: "/wiki/concepts/adaptivehumanenvironments/"
@@ -2782,6 +2785,9 @@ topic_concepts:
   - key: "InsuranceModelRegulatoryConstraint"
     title: "Insurance Model Regulatory Constraint"
     url: "/wiki/concepts/insurancemodelregulatoryconstraint/"
+  - key: "InsurancePersonalizationLimit"
+    title: "Insurance Personalization Limit"
+    url: "/wiki/concepts/insurancepersonalizationlimit/"
   - key: "InsuranceTechnologyModernization"
     title: "Insurance Technology Modernization"
     url: "/wiki/concepts/insurancetechnologymodernization/"
@@ -7694,6 +7700,9 @@ topic_entities:
   - key: "StephenCohen"
     title: "Stephen Cohen"
     url: "/wiki/entities/stephencohen/"
+  - key: "StephenMaddis"
+    title: "Stephen Maddis"
+    url: "/wiki/entities/stephenmaddis/"
   - key: "SteveFredette"
     title: "Steve Fredette"
     url: "/wiki/entities/stevefredette/"
@@ -9342,6 +9351,9 @@ topic_sources:
   - key: "ep-17-ais-impact-on-creativity-a-consumers-perspective"
     title: "EP 17: AI's Impact on Creativity: A Consumer's Perspective"
     url: "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+  - key: "ep-18-insurance-transformed-an-actuarys-take-on-ai"
+    title: "EP 18: Insurance Transformed: An Actuary's take on AI"
+    url: "/wiki/sources/ep-18-insurance-transformed-an-actuarys-take-on-ai/"
   - key: "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai"
     title: "EP 19: Navigating the Future of Workplace Health and Benefits with AI"
     url: "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"

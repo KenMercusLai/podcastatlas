@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10377
+wiki_total_pages: 10380
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "InsuranceModelRegulatoryConstraint"
     title: "Insurance Model Regulatory Constraint"
     url: "/wiki/concepts/insurancemodelregulatoryconstraint/"
+  - key: "InsurancePersonalizationLimit"
+    title: "Insurance Personalization Limit"
+    url: "/wiki/concepts/insurancepersonalizationlimit/"
   - key: "InsurancePolicyLoanFraud"
     title: "Insurance Policy Loan Fraud"
     url: "/wiki/concepts/insurancepolicyloanfraud/"

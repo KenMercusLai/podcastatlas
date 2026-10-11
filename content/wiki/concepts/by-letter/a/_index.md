@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10377
+wiki_total_pages: 10380
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "ActuarialStandardsOfPractice"
     title: "Actuarial Standards of Practice"
     url: "/wiki/concepts/actuarialstandardsofpractice/"
+  - key: "ActuarialWorkflowInversion"
+    title: "Actuarial Workflow Inversion"
+    url: "/wiki/concepts/actuarialworkflowinversion/"
   - key: "ActuaryDataScientistPartnership"
     title: "Actuary Data Scientist Partnership"
     url: "/wiki/concepts/actuarydatascientistpartnership/"
