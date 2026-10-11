@@ -6114,6 +6114,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "519-the-worlds-first-city-glt2603135981": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273": [
     {
       "key": "history",
@@ -32404,6 +32411,13 @@
     }
   ],
   "EarlyTransplantationImaginary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "EarlyUrbanizationInstitutionalCoEvolution": [
     {
       "key": "science",
       "label": "Science",
@@ -90658,6 +90672,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "UrbanCivilizationAmbivalence": [
     {
       "key": "culture",
       "label": "Culture",

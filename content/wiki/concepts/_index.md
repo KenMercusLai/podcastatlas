@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10420
+wiki_total_pages: 10423
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "AdministrativeSubpoenaDataAccess"
     title: "Administrative Subpoena Data Access"
     url: "/wiki/concepts/administrativesubpoenadataaccess/"
+  - key: "AdministrativeWritingInfrastructure"
+    title: "Administrative Writing Infrastructure"
+    url: "/wiki/concepts/administrativewritinginfrastructure/"
   - key: "AdolescentAlienationRecognition"
     title: "Adolescent Alienation Recognition"
     url: "/wiki/concepts/adolescentalienationrecognition/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [519. The World's First City](sources/519-the-worlds-first-city-glt2603135981.md) — The Rest Is History on Uruk's environmental and institutional rise, administrative writing, urban pleasure, slavery, and coercive power.
 - [Essentials: How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness-scim4876029369.md) — Condensed Huberman Lab episode on phase-aware light and temperature timing for travel, shift work, fragmented sleep, NSDR, and cautious melatonin use.
 - [520. Warlords of the West: Barbarian Heirs of Rome (Part 1)](sources/520-warlords-of-the-west-barbarian-heirs-of-rome-part-1-glt4921093273.md) — The Rest Is History on Frankish Roman service, Clovis's conquest and conversion, Saint Martin's cult, and composite Merovingian legitimacy.
 - [042 纪念·琼瑶|两代人的记忆：读《情深深雨濛濛》原著《烟雨濛濛》](sources/042-jinian-qiongyao-liangdairen-de-jiyi-du-qingshenshen-yumengmeng-yuanzhu-yanyumengmeng-liufoc8w7fhdkv8gfsj7uuggjy3t.md) — 纸醉金迷FM从复仇循环、父女关系、悲喜剧结局与代际记忆重读《烟雨濛濛》及其电视改编，并审慎回望琼瑶的人生与爱情观。
@@ -4594,6 +4595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [Uruk](entities/Uruk.md) — Early Mesopotamian city whose scale joined ecology, migration, temples, infrastructure, production, writing, pleasure, and coercion.
 - [Clovis](entities/Clovis.md) — Frankish king who joined conquest, Roman recognition, orthodox baptism, and Saint Martin's cult into composite rule in Gaul.
 - [Saint Martin](entities/SaintMartin.md) — Soldier-turned-bishop whose ascetic charisma, relics, shrine, and cloak became durable sources of Frankish sacred prestige.
 - [Kelly Starrett](entities/KellyStarrett.md) — Physical therapist and movement educator who frames mobility, position, tissue care, and training as capacities for sport and daily life.
@@ -17985,6 +17987,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Early Urbanization Institutional Co-Evolution](concepts/EarlyUrbanizationInstitutionalCoEvolution.md) — Multi-causal framework linking environmental change, migration, sacred authority, infrastructure, exchange, and administration in the first large cities.
+- [Administrative Writing Infrastructure](concepts/AdministrativeWritingInfrastructure.md) — Durable record systems that coordinate goods, obligations, labor, and identity before expanding into literary media.
+- [Urban Civilization Ambivalence](concepts/UrbanCivilizationAmbivalence.md) — Framework holding urban creativity and sociability together with hierarchy, extraction, surveillance, and forced labor.
 - [Roman–Frankish–Christian Kingship](concepts/RomanFrankishChristianKingship.md) — Composite legitimacy joining Frankish military identity, Roman office, orthodox Christianity, episcopal cooperation, and saintly patronage.
 - [Daily Movement Exposure](concepts/DailyMovementExposure.md) — Embeds varied positions, floor transitions, play, and movement patterns into ordinary routines.
 - [Position Capacity Over Ideal Posture](concepts/PositionCapacityOverIdealPosture.md) — Judges posture by task fit, breathing, force transfer, control, and access to varied positions.

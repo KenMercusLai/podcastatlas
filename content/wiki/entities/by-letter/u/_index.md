@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13323
+wiki_total_pages: 13324
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "Uruguay"
     title: "Uruguay"
     url: "/wiki/entities/uruguay/"
+  - key: "Uruk"
+    title: "Uruk"
+    url: "/wiki/entities/uruk/"
   - key: "USDepartmentOfDefense"
     title: "US Department of Defense"
     url: "/wiki/entities/usdepartmentofdefense/"

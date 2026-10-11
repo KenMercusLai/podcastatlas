@@ -7784,6 +7784,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/administrativerenamingoverreach/"
     },
+    "AdministrativeWritingInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/administrativewritinginfrastructure/"
+    },
     "AdolescentAutonomyScaffolding": {
       "episode_count": 3,
       "show_count": 1,
@@ -74428,6 +74444,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/earlyretirementworkautonomy/"
     },
+    "EarlyUrbanizationInstitutionalCoEvolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/earlyurbanizationinstitutionalcoevolution/"
+    },
     "EarnedRewardRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -105236,6 +105268,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/gilbertandsullivan/"
+    },
+    "Gilgamesh": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/gilgamesh/"
     },
     "GinaPoe": {
       "episode_count": 2,
@@ -136198,9 +136253,9 @@
       "url": "/wiki/entities/isaiahdorman/"
     },
     "IshtarInanna": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8884399326 [GLT8884399326].md",
@@ -136208,9 +136263,16 @@
           "show": "The Rest Is History",
           "title": "58. The World Cup of Gods - Part 1",
           "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        },
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/ishtarinanna/"
     },
     "IsisGoddess": {
@@ -259138,6 +259200,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/theendofreadingishere/"
     },
+    "TheEpicOfGilgamesh": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/theepicofgilgamesh/"
+    },
     "TheFallOfGondolin": {
       "episode_count": 1,
       "show_count": 1,
@@ -269724,6 +269809,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/urbanarchitecturalmemory/"
     },
+    "UrbanCivilizationAmbivalence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/urbancivilizationambivalence/"
+    },
     "UrbanCrisisCulturalFeedback": {
       "episode_count": 1,
       "show_count": 1,
@@ -270145,6 +270246,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/uruguay/"
+    },
+    "Uruk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603135981 [GLT2603135981].md",
+          "key": "519-the-worlds-first-city-glt2603135981",
+          "show": "The Rest Is History",
+          "title": "519. The World's First City",
+          "url": "/wiki/sources/519-the-worlds-first-city-glt2603135981/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/uruk/"
     },
     "UsageBasedVerticalSaaSPricing": {
       "episode_count": 2,

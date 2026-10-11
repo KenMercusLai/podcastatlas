@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3439
+topic_total_pages: 3440
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3394,6 +3394,9 @@ topic_concepts:
   - key: "UnreliablePraiseNarration"
     title: "Unreliable Praise Narration / 赞美式不可靠叙述"
     url: "/wiki/concepts/unreliablepraisenarration/"
+  - key: "UrbanCivilizationAmbivalence"
+    title: "Urban Civilization Ambivalence"
+    url: "/wiki/concepts/urbancivilizationambivalence/"
   - key: "UrbanCrisisCulturalFeedback"
     title: "Urban Crisis Cultural Feedback"
     url: "/wiki/concepts/urbancrisisculturalfeedback/"

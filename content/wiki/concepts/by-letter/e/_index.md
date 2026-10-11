@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10420
+wiki_total_pages: 10423
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "EarlyTransplantationImaginary"
     title: "Early Transplantation Imaginary / 早期移植想象"
     url: "/wiki/concepts/earlytransplantationimaginary/"
+  - key: "EarlyUrbanizationInstitutionalCoEvolution"
+    title: "Early Urbanization Institutional Co-Evolution"
+    url: "/wiki/concepts/earlyurbanizationinstitutionalcoevolution/"
   - key: "EarlyWarringStatesInterstateWar"
     title: "Early Warring States Interstate War / 战国早期诸侯混战"
     url: "/wiki/concepts/earlywarringstatesinterstatewar/"

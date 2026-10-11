@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1566
+topic_total_pages: 1567
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -670,6 +670,9 @@ topic_concepts:
   - key: "EarlyTransplantationImaginary"
     title: "Early Transplantation Imaginary / 早期移植想象"
     url: "/wiki/concepts/earlytransplantationimaginary/"
+  - key: "EarlyUrbanizationInstitutionalCoEvolution"
+    title: "Early Urbanization Institutional Co-Evolution"
+    url: "/wiki/concepts/earlyurbanizationinstitutionalcoevolution/"
   - key: "EarthEnergyImbalance"
     title: "Earth Energy Imbalance"
     url: "/wiki/concepts/earthenergyimbalance/"
