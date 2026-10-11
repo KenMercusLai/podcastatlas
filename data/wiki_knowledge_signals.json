@@ -90288,9 +90288,9 @@
       "url": "/wiki/entities/ferdinandmaximilian/"
     },
     "FermentedFoodResponsePersonalization": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -90326,9 +90326,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
           "url": "/wiki/sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583/"
+        },
+        {
+          "episode_file": "SCIM9382980793 [SCIM9382980793].md",
+          "key": "scim9382980793-scim9382980793",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
+          "url": "/wiki/sources/scim9382980793-scim9382980793/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/fermentedfoodresponsepersonalization/"
     },
     "FerrariLuce": {
@@ -109121,9 +109128,9 @@
       "url": "/wiki/entities/gustavstresemann/"
     },
     "GutSensoryNeuralSignaling": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM8970398714 [SCIM8970398714].md",
@@ -109159,9 +109166,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
+        },
+        {
+          "episode_file": "SCIM9382980793 [SCIM9382980793].md",
+          "key": "scim9382980793-scim9382980793",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
+          "url": "/wiki/sources/scim9382980793-scim9382980793/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "Guthrum": {
@@ -131775,9 +131789,9 @@
       "url": "/wiki/concepts/internetpoliticalamplification/"
     },
     "InteroceptiveBrainBodyCommunication": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4317576130 [SCIM4317576130].md",
@@ -131792,9 +131806,16 @@
           "show": "Huberman Lab",
           "title": "How Foods & Nutrients Control Our Moods",
           "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
+        },
+        {
+          "episode_file": "SCIM9382980793 [SCIM9382980793].md",
+          "key": "scim9382980793-scim9382980793",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
+          "url": "/wiki/sources/scim9382980793-scim9382980793/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/interoceptivebrainbodycommunication/"
     },
     "InterpersonalImageProjection": {
@@ -202252,9 +202273,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -202311,6 +202332,13 @@
           "show": "Huberman Lab",
           "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
           "url": "/wiki/sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621/"
+        },
+        {
+          "episode_file": "SCIM9382980793 [SCIM9382980793].md",
+          "key": "scim9382980793-scim9382980793",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
+          "url": "/wiki/sources/scim9382980793-scim9382980793/"
         }
       ],
       "updated": "2026-10-11",
@@ -265456,9 +265484,9 @@
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
     "VagusStimulationStateBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6339543648 [SCIM6339543648].md",
@@ -265473,6 +265501,13 @@
           "show": "Huberman Lab",
           "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
           "url": "/wiki/sources/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity-scim9674777621/"
+        },
+        {
+          "episode_file": "SCIM9382980793 [SCIM9382980793].md",
+          "key": "scim9382980793-scim9382980793",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
+          "url": "/wiki/sources/scim9382980793-scim9382980793/"
         }
       ],
       "updated": "2026-10-11",

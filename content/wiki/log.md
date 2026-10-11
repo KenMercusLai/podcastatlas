@@ -35439,3 +35439,13 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Improving Health With Stronger Brain-Body Connection
+
+Added source `scim9382980793-scim9382980793`; and resynthesized [[InteroceptiveBrainBodyCommunication]], [[PhysiologicalSigh]], [[GutSensoryNeuralSignaling]], [[FermentedFoodResponsePersonalization]], and [[VagusStimulationStateBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: interoception integrates heterogeneous mechanical and chemical body signals, deliberate breathing provides limited state control, and vagal involvement does not imply a uniformly calming effect. No settled contradiction was adopted. The Essentials release abridges [[scim4317576130-scim4317576130|the full 2021 episode]] rather than supplying independent replication; receptor labels, craving claims, nausea remedies, fever cooling, cannabis, social mirroring, fermented-food outcomes, and body-awareness effects remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,438 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

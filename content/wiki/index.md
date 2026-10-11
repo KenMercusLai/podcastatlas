@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Improving Health With Stronger Brain-Body Connection](sources/scim9382980793-scim9382980793.md) — Condensed Huberman Lab episode on interoception, branch-specific vagal signaling, breathing, gut sensing, fermented-food evidence, and clinical boundaries around nausea and fever.
 - [572. The Medici: Masters of Florence (Part 1)](sources/572-the-medici-masters-of-florence-part-1-glt1413065864.md) — The Rest Is History on Cosimo's banking network, exile and return, managed republican rule, Sforza alliance, patronage, and the tension between prosperity and liberty.
 - [Improving Science & Restoring Trust in Public Health | Dr. Jay Bhattacharya](sources/scim5646582763-scim5646582763.md) — Huberman Lab interview on NIH mission, high-variance and early-career funding, open access, replication incentives, chronic disease, and contested COVID-era trust repair.
 - [063 盗墓宇宙起点：趣话《鬼吹灯》之精绝古城](sources/063-daomu-yuzhou-qidian-quhua-gui-chuideng-zhi-jingjue-gucheng-lrazrty1g2wznlafy2v5wfhmjweq.md) — 纸醉金迷FM以沙漠远征、分层遗迹、尸香魔芋和真假预言重述《精绝古城》，并区分历史精绝、虚构王国与借真实线索为伪造证据背书的叙事误导。
