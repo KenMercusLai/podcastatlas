@@ -35930,3 +35930,11 @@ Added source `lo9-_4_9eaepw7s-egiyp1ywgiva`; created [[LiZicheng|李自成]], [[
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: How to Focus to Change Your Brain
+
+Added source `essentials-how-to-focus-to-change-your-brain-scim8946719720` and resynthesized [[EpinephrineAlertnessToolkit]] and [[AcetylcholineFocusSupport]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Essentials release condenses the already-ingested 2021 focus episode, so it strengthens provenance continuity rather than independent support; alertness remains necessary but insufficient in the episode model, selective attention identifies the target of change, and neither mechanism establishes a universal pharmacological protocol. No settled contradiction is adopted. The age-25 transition, waking-versus-sleep plasticity language, nucleus-basalis necessity, sensory-map examples, visual fixation, 90-minute bouts, naps, and NSDR claims remain teaching simplifications or source-scoped claims without full methods. The automatic `wiki/overview.md` was read for context and was not revised because the condensed episode does not materially change the current synthesis. Broad [[AndrewHuberman]], [[HubermanLab]], [[Neuroplasticity]], [[VisualFocusEffortTool]], [[NonSleepDeepRestRecovery]], and [[UltradianDeepWorkBlock]] pages were kept closed because the source note and two bounded mechanism pages capture the durable addition without reopening larger unchanged inventories. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,499 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

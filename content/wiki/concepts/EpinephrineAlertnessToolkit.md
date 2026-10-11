@@ -9,7 +9,8 @@ sources:
   - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
   - scim5718648905-scim5718648905
   - scim3840916606-scim3840916606
-last_updated: 2026-10-03
+  - essentials-how-to-focus-to-change-your-brain-scim8946719720
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim885
 
 The memory episode adds a timing-specific use case. In [[essentials-understand-improve-memory-using-science-based-tools-scim6024056343]], adrenaline is not only an alertness signal before performance; a brief rise late in learning or immediately afterward may help stamp down selected memories. The original cortisol-and-adrenaline episode and its later Essentials edit add cortisol timing, deliberate activation paired with mental calm, and a source-scoped immune branch. They also make the body-brain separation explicit: adrenal epinephrine does not cross the blood-brain barrier, so high bodily activation need not imply identical central arousal. The stronger synthesis is therefore not "more arousal is better," but match arousal to purpose, timing, baseline state, recovery, and risk.
 
-The earlier [[scim3840916606-scim3840916606]] episode places alertness before selective attention in an adult-learning sequence. Locus-coeruleus arousal is proposed to make neurons broadly more likely to participate, while attention determines which active circuits are tagged for change. Alertness is therefore treated as necessary but insufficient: undirected arousal, stimulants, or emotional activation do not by themselves guarantee accurate or durable learning.
+The earlier [[scim3840916606-scim3840916606]] episode places alertness before selective attention in an adult-learning sequence. Locus-coeruleus arousal is proposed to make neurons broadly more likely to participate, while attention determines which active circuits are tagged for change. Its condensed edit, [[essentials-how-to-focus-to-change-your-brain-scim8946719720]], preserves that distinction without independently confirming it. Alertness is therefore treated as necessary but insufficient: undirected arousal, stimulants, or emotional activation do not by themselves guarantee accurate or durable learning.
 
 ## Key Claims
 - Epinephrine and norepinephrine are associated with alertness, neural excitability, energy, and movement-readiness; that readiness does not determine which circuit changes or whether the result is accurate, useful, or durable.
@@ -45,15 +46,13 @@ The earlier [[scim3840916606-scim3840916606]] episode places alertness before se
 - Activation and recovery: [[essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634]] links breathing, cold, exercise, caffeine, and fasting to epinephrine or cortisol while emphasizing calm regulation, correct daily timing, and avoidance of chronic elevation.
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original brain-body distinction and movement, caffeine, breathing, and cold toolkit later compressed by the Essentials edit.
 - Cortisol-and-adrenaline provenance: [[scim5718648905-scim5718648905]] supplies the original detailed account of adrenal versus brain epinephrine, bodily activation with mental regulation, fasting-related alertness, and post-learning arousal timing later compressed by its Essentials edit.
-- Adult-learning sequence: [[scim3840916606-scim3840916606]] places locus-coeruleus-linked alertness before selective attention and explicitly treats alertness as necessary but insufficient for plasticity.
+- Adult-learning sequence: [[scim3840916606-scim3840916606]] places locus-coeruleus-linked alertness before selective attention and explicitly treats alertness as necessary but insufficient for plasticity; [[essentials-how-to-focus-to-change-your-brain-scim8946719720]] repeats that sequence in condensed form.
 
 ## Counterevidence & Qualifications
-The sources present alertness, memory, and source-scoped immune tools, not a blanket recommendation to induce high arousal. Full episodes and their Essentials edits share editorial provenance and are not independent replication. The early episode's locus-coeruleus account and claim that plasticity requires alertness are mechanistic teaching claims rather than a personal arousal threshold. Cyclic hyperventilation, cold exposure, intense exercise, caffeine, fasting, stimulant timing, and beta-blocker decisions can be unsafe or counterproductive depending on panic history, cardiovascular status, medications, pregnancy, illness, sleep debt, chronic stress, and clinical context.
+The sources present alertness, memory, and source-scoped immune tools, not a blanket recommendation to induce high arousal. Full episodes and their Essentials edits share editorial provenance and are not independent replication; this includes the full and condensed focus episodes. The early episode's locus-coeruleus account and claim that plasticity requires alertness are mechanistic teaching claims rather than a personal arousal threshold. Cyclic hyperventilation, cold exposure, intense exercise, caffeine, fasting, stimulant timing, and beta-blocker decisions can be unsafe or counterproductive depending on panic history, cardiovascular status, medications, pregnancy, illness, sleep debt, chronic stress, and clinical context.
 
 ## What Changed
-- Added the early learning-sequence distinction between broad alertness and circuit-specific attention.
-- Clarified that arousal is proposed as necessary but insufficient, not a more-is-better learning tool.
-- Preserved recovery, panic, medical, and breath-hold safety boundaries.
+- Added the Essentials focus edit as overlapping provenance; the current judgment that alertness is necessary but insufficient remains unchanged.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - umbrella model for choosing chemical-state tools.

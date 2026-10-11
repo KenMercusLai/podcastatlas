@@ -6479,9 +6479,9 @@
       "url": "/wiki/concepts/accusationresponserestraint/"
     },
     "AcetylcholineFocusSupport": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -6517,9 +6517,16 @@
           "show": "Huberman Lab",
           "title": "How to Focus to Change Your Brain",
           "url": "/wiki/sources/scim3840916606-scim3840916606/"
+        },
+        {
+          "episode_file": "SCIM8946719720 [SCIM8946719720].md",
+          "key": "essentials-how-to-focus-to-change-your-brain-scim8946719720",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Focus to Change Your Brain",
+          "url": "/wiki/sources/essentials-how-to-focus-to-change-your-brain-scim8946719720/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
@@ -83423,9 +83430,9 @@
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -83468,9 +83475,16 @@
           "show": "Huberman Lab",
           "title": "How to Focus to Change Your Brain",
           "url": "/wiki/sources/scim3840916606-scim3840916606/"
+        },
+        {
+          "episode_file": "SCIM8946719720 [SCIM8946719720].md",
+          "key": "essentials-how-to-focus-to-change-your-brain-scim8946719720",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Focus to Change Your Brain",
+          "url": "/wiki/sources/essentials-how-to-focus-to-change-your-brain-scim8946719720/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
     },
     "EpistemicInjusticeExperienceSilencing": {

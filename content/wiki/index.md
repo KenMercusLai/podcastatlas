@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Focus to Change Your Brain](sources/essentials-how-to-focus-to-change-your-brain-scim8946719720.md) — Condensed Huberman Lab episode on attention-gated adult neuroplasticity, alertness, selective focus, bounded learning bouts, sleep, and deep-rest consolidation.
 - [524. Charlemagne: Pagan Killer (Part 2)](sources/524-charlemagne-pagan-killer-part-2-glt1992648453.md) — The Rest Is History on Charlemagne's conquests, coercive Saxon conversion, Alcuin's voluntary-faith objection, Carolingian correctio, manuscript reform, and parish instruction.
 - [How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos](sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579.md) — Huberman Lab interview on happiness forecasting, live connection, attention, time affluence, adaptation, emotion, strengths-based work, and prosocial behavior.
 - [VOL.145冬天里的小感冒，也请放在心上](sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8.md) — 这病说来话长赞助节目讨论冬季呼吸道风险、感冒与流感分诊、抗生素边界、分层预防，以及高剂量维生素C主张的证据冲突。
