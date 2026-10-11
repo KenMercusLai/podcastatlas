@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [524. Charlemagne: Pagan Killer (Part 2)](sources/524-charlemagne-pagan-killer-part-2-glt1992648453.md) — The Rest Is History on Charlemagne's conquests, coercive Saxon conversion, Alcuin's voluntary-faith objection, Carolingian correctio, manuscript reform, and parish instruction.
 - [How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos](sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579.md) — Huberman Lab interview on happiness forecasting, live connection, attention, time affluence, adaptation, emotion, strengths-based work, and prosocial behavior.
 - [VOL.145冬天里的小感冒，也请放在心上](sources/vol-145-dongtian-li-de-xiao-ganmao-ye-qing-fang-zai-xinshang-lpgqcwfvh3wk9fzhq4bz8wq2jlw8.md) — 这病说来话长赞助节目讨论冬季呼吸道风险、感冒与流感分诊、抗生素边界、分层预防，以及高剂量维生素C主张的证据冲突。
 - [525. Charlemagne: Emperor of the West (Part 3)](sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677.md) — The Rest Is History on Charlemagne's prepared coronation, Aachen's imperial imagery, foreign recognition, Carolingian fragmentation, and Ottonian renewal.
@@ -17950,6 +17951,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Coercive Christianization](concepts/CoerciveChristianization.md) — Use of conquest, law, punishment, and custody to impose Christian identity or practice rather than voluntary belief.
+- [Carolingian Correctio](concepts/CarolingianCorrectio.md) — Salvation-oriented program joining political order, religious conformity, textual repair, clerical competence, and teaching.
+- [Carolingian Learning Reform](concepts/CarolingianLearningReform.md) — Carolingian manuscript, script, clergy, and parish reforms for wider Christian instruction.
 - [Hedonic Adaptation and Contrast](concepts/HedonicAdaptationAndContrast.md) — How emotional responses fade and how comparison, interruption, finitude, and process orientation can renew appreciation.
 - [Time Affluence](concepts/TimeAffluence.md) — The felt availability and usable control of discretionary time, including the costs of fragmentation and default phone use.
 - [Strengths-Based Job Crafting](concepts/StrengthsBasedJobCrafting.md) — Bringing personal strengths into an existing role while preserving safety, role duties, and organizational responsibility.

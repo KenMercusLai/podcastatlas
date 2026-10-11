@@ -6107,6 +6107,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "524-charlemagne-pagan-killer-part-2-glt1992648453": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "525-charlemagne-emperor-of-the-west-part-3-glt6103469677": [
     {
       "key": "history",
@@ -21710,6 +21717,20 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CarolingianCorrectio": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CarolingianLearningReform": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CarolynLevy": [

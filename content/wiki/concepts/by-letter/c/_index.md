@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10398
+wiki_total_pages: 10401
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -368,9 +368,15 @@ wiki_pages:
   - key: "CarnationRevolution"
     title: "Carnation Revolution"
     url: "/wiki/concepts/carnationrevolution/"
+  - key: "CarolingianCorrectio"
+    title: "Carolingian Correctio"
+    url: "/wiki/concepts/carolingiancorrectio/"
   - key: "CarolingianImperialFragmentation"
     title: "Carolingian Imperial Fragmentation"
     url: "/wiki/concepts/carolingianimperialfragmentation/"
+  - key: "CarolingianLearningReform"
+    title: "Carolingian Learning Reform"
+    url: "/wiki/concepts/carolingianlearningreform/"
   - key: "CarrierPigeonCommunication"
     title: "Carrier Pigeon Communication"
     url: "/wiki/concepts/carrierpigeoncommunication/"
@@ -1457,6 +1463,9 @@ wiki_pages:
   - key: "CoerciveCapitalRelocation"
     title: "Coercive Capital Relocation / 强制迁都"
     url: "/wiki/concepts/coercivecapitalrelocation/"
+  - key: "CoerciveChristianization"
+    title: "Coercive Christianization"
+    url: "/wiki/concepts/coercivechristianization/"
   - key: "CoerciveCommodityExtraction"
     title: "Coercive Commodity Extraction"
     url: "/wiki/concepts/coercivecommodityextraction/"

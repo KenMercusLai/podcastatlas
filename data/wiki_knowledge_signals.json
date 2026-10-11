@@ -11077,9 +11077,9 @@
       "url": "/wiki/concepts/alcoholsystemicdoserisk/"
     },
     "Alcuin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6103469677 [GLT6103469677].md",
@@ -11087,6 +11087,13 @@
           "show": "The Rest Is History",
           "title": "525. Charlemagne: Emperor of the West (Part 3)",
           "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        },
+        {
+          "episode_file": "GLT1992648453 [GLT1992648453].md",
+          "key": "524-charlemagne-pagan-killer-part-2-glt1992648453",
+          "show": "The Rest Is History",
+          "title": "524. Charlemagne: Pagan Killer (Part 2)",
+          "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
         }
       ],
       "updated": "2026-10-11",
@@ -38423,6 +38430,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/carolinewalkerbynum/"
     },
+    "CarolingianCorrectio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1992648453 [GLT1992648453].md",
+          "key": "524-charlemagne-pagan-killer-part-2-glt1992648453",
+          "show": "The Rest Is History",
+          "title": "524. Charlemagne: Pagan Killer (Part 2)",
+          "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/carolingiancorrectio/"
+    },
     "CarolingianImperialFragmentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -38438,6 +38461,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/carolingianimperialfragmentation/"
+    },
+    "CarolingianLearningReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1992648453 [GLT1992648453].md",
+          "key": "524-charlemagne-pagan-killer-part-2-glt1992648453",
+          "show": "The Rest Is History",
+          "title": "524. Charlemagne: Pagan Killer (Part 2)",
+          "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/carolingianlearningreform/"
     },
     "CarrieBatten": {
       "episode_count": 1,
@@ -40678,9 +40717,9 @@
       "url": "/wiki/concepts/charismaticwarlegitimacy/"
     },
     "Charlemagne": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1014708592 [GLT1014708592].md",
@@ -40702,6 +40741,13 @@
           "show": "The Rest Is History",
           "title": "525. Charlemagne: Emperor of the West (Part 3)",
           "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        },
+        {
+          "episode_file": "GLT1992648453 [GLT1992648453].md",
+          "key": "524-charlemagne-pagan-killer-part-2-glt1992648453",
+          "show": "The Rest Is History",
+          "title": "524. Charlemagne: Pagan Killer (Part 2)",
+          "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
         }
       ],
       "updated": "2026-10-11",
@@ -49206,6 +49252,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/coerciveacts/"
+    },
+    "CoerciveChristianization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1992648453 [GLT1992648453].md",
+          "key": "524-charlemagne-pagan-killer-part-2-glt1992648453",
+          "show": "The Rest Is History",
+          "title": "524. Charlemagne: Pagan Killer (Part 2)",
+          "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/coercivechristianization/"
     },
     "CoerciveCommodityExtraction": {
       "episode_count": 1,
@@ -75915,9 +75977,9 @@
       "url": "/wiki/entities/eileenvandervelden/"
     },
     "Einhard": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6103469677 [GLT6103469677].md",
@@ -75925,6 +75987,13 @@
           "show": "The Rest Is History",
           "title": "525. Charlemagne: Emperor of the West (Part 3)",
           "url": "/wiki/sources/525-charlemagne-emperor-of-the-west-part-3-glt6103469677/"
+        },
+        {
+          "episode_file": "GLT1992648453 [GLT1992648453].md",
+          "key": "524-charlemagne-pagan-killer-part-2-glt1992648453",
+          "show": "The Rest Is History",
+          "title": "524. Charlemagne: Pagan Killer (Part 2)",
+          "url": "/wiki/sources/524-charlemagne-pagan-killer-part-2-glt1992648453/"
         }
       ],
       "updated": "2026-10-11",

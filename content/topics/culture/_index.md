@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3433
+topic_total_pages: 3434
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -619,6 +619,9 @@ topic_concepts:
   - key: "CareerCognitionEducation"
     title: "Career Cognition Education / 职业认知教育"
     url: "/wiki/concepts/careercognitioneducation/"
+  - key: "CarolingianLearningReform"
+    title: "Carolingian Learning Reform"
+    url: "/wiki/concepts/carolingianlearningreform/"
   - key: "CarrierBagNarrative"
     title: "Carrier-Bag Narrative / 载物袋叙事"
     url: "/wiki/concepts/carrierbagnarrative/"

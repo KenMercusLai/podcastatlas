@@ -35914,3 +35914,11 @@ Added source `how-to-achieve-true-happiness-using-science-based-protocols-dr-lau
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 524. Charlemagne: Pagan Killer (Part 2)
+
+Added source `524-charlemagne-pagan-killer-part-2-glt1992648453`; created [[CoerciveChristianization]], [[CarolingianCorrectio]], and [[CarolingianLearningReform]]; and resynthesized [[Charlemagne]], [[Alcuin]], and [[Einhard]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Charlemagne's Lombard, Spanish, Avar, and Saxon campaigns supplied the material base for Christian kingship but joined the Saxon branch to compulsory baptism, capital law, execution, devastation, and deportation; Alcuin's voluntary-faith objection helped narrow that policy without ending military Christianization; and Tours manuscript work, readable script, priestly aids, and parish teaching formed the instructional branch of correctio. No settled contradiction is adopted. Campaign chronology and scale, the fate of Carloman's sons, Old Testament influence, the 782 execution account, policy causation, “first Bibles,” script priority, mass-education language, and the “father of Europe” label remain source-scoped or qualified. Broad [[TheRestIsHistory]], papal, Lombard, Avar, and collective Saxon pages were kept closed because the source, three focused concepts, and three bounded entity resyntheses capture the durable addition without creating thin canonical pages. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,497 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
