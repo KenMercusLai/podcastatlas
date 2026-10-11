@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10371
+wiki_total_pages: 10373
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "BattleOfMarathon"
     title: "Battle of Marathon"
     url: "/wiki/concepts/battleofmarathon/"
+  - key: "BattleOfMonteCassino"
+    title: "Battle of Monte Cassino"
+    url: "/wiki/concepts/battleofmontecassino/"
   - key: "BattleOfSalamis"
     title: "Battle of Salamis"
     url: "/wiki/concepts/battleofsalamis/"

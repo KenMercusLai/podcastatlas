@@ -5804,9 +5804,9 @@
       "url": "/wiki/concepts/abbasidtranslationmovement/"
     },
     "AbbeyOfMonteCassino": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "03.莱博维茨的赞歌：要有光，哪怕废土之上 [528163687].md",
@@ -5821,9 +5821,16 @@
           "show": "The Rest Is History",
           "title": "399. The Savage Storm: World War II and The Battle for Italy",
           "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        },
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/abbeyofmontecassino/"
     },
     "AbbieHoffman": {
@@ -14427,6 +14434,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/andermedicalaesthetics/"
+    },
+    "AndersArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/andersarmy/"
     },
     "AndingCiXinBook": {
       "episode_count": 1,
@@ -25717,6 +25740,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/battleofmons1914/"
+    },
+    "BattleOfMonteCassino": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/battleofmontecassino/"
     },
     "BattleOfNarva": {
       "episode_count": 1,
@@ -135118,9 +135157,9 @@
       "url": "/wiki/concepts/itadakimasueverydayritual/"
     },
     "ItalianCampaign1943": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8130436942 [GLT8130436942].md",
@@ -135128,9 +135167,16 @@
           "show": "The Rest Is History",
           "title": "399. The Savage Storm: World War II and The Battle for Italy",
           "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        },
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/italiancampaign1943/"
     },
     "ItalianCuisineUrbanFormation": {
@@ -274535,6 +274581,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/wartimeconstitutionalmonarchycollapse/"
     },
+    "WartimeMascotMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/wartimemascotmemory/"
+    },
     "WartimeMediaLoyaltyPressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -278977,6 +279039,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/wittenberg/"
     },
+    "WladyslawAnders": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/wladyslawanders/"
+    },
     "WoZhuChangjiangWei": {
       "episode_count": 1,
       "show_count": 1,
@@ -278992,6 +279070,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/wozhuchangjiangwei/"
+    },
+    "Wojtek": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8956421015 [GLT8956421015].md",
+          "key": "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015",
+          "show": "The Rest Is History",
+          "title": "533. Wojtek: The Bear Who Beat the Nazis",
+          "url": "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/wojtek/"
     },
     "WolfWarrior2": {
       "episode_count": 1,

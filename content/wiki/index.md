@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [533. Wojtek: The Bear Who Beat the Nazis](sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015.md) — The Rest Is History episode connecting Wojtek, Anders' Army, Monte Cassino, and Scottish exile to Polish wartime loss and memory.
 - [Essentials: How Foods & Nutrients Control Our Moods](sources/essentials-how-foods-nutrients-control-our-moods-scim4673722562.md) — Condensed Huberman Lab episode on embodied emotion, vagal and nutrient sensing, food-related neuromodulation, individualized microbiome response, and belief-linked physiology.
 - [047 从《还珠格格》十级问答聊开去](sources/lmjhsewrqbnqsy8d1ilyp_xo885e.md) — 纸醉金迷FM从十级问答转向人物重估，以双女主互补、喜剧解构权威、证据化和解及父皇祛魅重读《还珠格格》。
 - [534. Emperors of Rome: Sex Secrets of the Caesars (Part 1)](sources/534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602.md) — The Rest Is History introduction to Suetonius's scholarship, court access, imperial biography, Augustan performance, Roman sexual status, and gossip as cultural evidence.
@@ -4553,6 +4554,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 
 ## Entities
+- [Wojtek](entities/Wojtek.md) — Bear enlisted with a Polish artillery supply company whose life became a symbol of wartime endurance, exile, and Polish-Scottish friendship.
+- [Władysław Anders](entities/WladyslawAnders.md) — Polish commander who organized an army from Soviet captivity and led the Second Polish Corps at Monte Cassino.
+- [Anders' Army](entities/AndersArmy.md) — Displaced Polish force evacuated through Iran and reorganized as the Second Polish Corps for Allied service in Italy.
 - [《还珠格格》 / My Fair Princess](entities/HuanzhuGege.md) — 以误认身份、双女主互补、宫廷喜剧和成年重看中的人物灰度展开的琼瑶作品。
 - [小燕子 / Xiaoyanzi](entities/Xiaoyanzi.md) — 以草根活力、临场应变和日常平等拆解宫廷庄严，同时承担身份误认风险的女主角。
 - [夏紫薇 / Xia Ziwei](entities/XiaZiwei.md) — 以韧性、识人、证据化和解和对乾隆的祛魅维持故事核心地位的女主角。
@@ -17876,6 +17880,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Battle of Monte Cassino](concepts/BattleOfMonteCassino.md) — 1944 Gustav Line battle joining Polish victory, severe loss, sacred-site destruction, logistics, and exile memory.
+- [Wartime Mascot Memory](concepts/WartimeMascotMemory.md) — Process by which an animal companion carries unit affection, identity, trauma, displacement, and later commemoration.
 - [Dual Female Protagonist Complementarity / 双女主互补结构](concepts/DualFemaleProtagonistComplementarity.md) — 两位女性以不同但相互依赖的叙事功能共同维持主角地位，而非争夺唯一中心。
 - [Cross-Domain Thematic Transfer](concepts/CrossDomainThematicTransfer.md) — Carrying structural principles such as timing, pressure, or empty space across practices without treating surface techniques as interchangeable.
 - [Pressure-Loss Analysis](concepts/PressureLossAnalysis.md) — Review of consequential failure at technical, psychological, and thematic levels so pain becomes usable evidence rather than identity verdict.

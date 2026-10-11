@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10371
+wiki_total_pages: 10373
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "WartimeLeadershipAccountability"
     title: "Wartime Leadership Accountability"
     url: "/wiki/concepts/wartimeleadershipaccountability/"
+  - key: "WartimeMascotMemory"
+    title: "Wartime Mascot Memory"
+    url: "/wiki/concepts/wartimemascotmemory/"
   - key: "WartimeMediaLoyaltyPressure"
     title: "Wartime Media Loyalty Pressure"
     url: "/wiki/concepts/wartimemedialoyaltypressure/"

@@ -35708,3 +35708,11 @@ Added source `essentials-how-foods-nutrients-control-our-moods-scim4673722562`; 
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 533. Wojtek: The Bear Who Beat the Nazis
+
+Added source `533-wojtek-the-bear-who-beat-the-nazis-glt8956421015`; created [[Wojtek]], [[WladyslawAnders|Władysław Anders]], [[AndersArmy|Anders' Army]], [[BattleOfMonteCassino]], and [[WartimeMascotMemory]]; and resynthesized [[ItalianCampaign1943|Italian Campaign of 1943]] and [[AbbeyOfMonteCassino|Abbey of Monte Cassino]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wojtek's durable significance joins affectionate companionship and formal unit identity to the exile of Polish soldiers; the Second Polish Corps's Monte Cassino victory depended on collective combat and supply while carrying severe human cost; and the bear-and-shell image later became a manageable carrier of Polish loss and Polish-Scottish memory. No settled contradiction was adopted. Wojtek's acquisition sequence, possible promotion, exact ammunition role, casualty and deportation totals, reported dialogue, and private motives remain uncertain or source-scoped. The broad [[TheRestIsHistory]] page was kept closed because the focused people, force, battle, place, campaign, and memory pages capture the durable addition without reopening a large unchanged evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,471 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

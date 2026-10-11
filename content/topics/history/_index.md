@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2726
+topic_total_pages: 2727
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6513,6 +6513,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "533-wojtek-the-bear-who-beat-the-nazis-glt8956421015"
+    title: "533. Wojtek: The Bear Who Beat the Nazis"
+    url: "/wiki/sources/533-wojtek-the-bear-who-beat-the-nazis-glt8956421015/"
   - key: "534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602"
     title: "534. Emperors of Rome: Sex Secrets of the Caesars (Part 1)"
     url: "/wiki/sources/534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602/"
