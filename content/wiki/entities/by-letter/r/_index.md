@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13431
+wiki_total_pages: 13434
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "RuiqiJiangtouZizhiTongjian"
     title: "芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian"
     url: "/wiki/entities/ruiqijiangtouzizhitongjian/"
+  - key: "ReinerBraun"
+    title: "莱纳·布朗 / Reiner Braun"
+    url: "/wiki/entities/reinerbraun/"
   - key: "RainerMariaRilke"
     title: "莱纳·玛利亚·里尔克 / Rainer Maria Rilke"
     url: "/wiki/entities/rainermariarilke/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [005 串台|《进击的巨人》又双叕完结了？到底烂尾没？](sources/lu-b1gvxqtwzilstumunrbd6lc2y-lu-b1gvxqtwzilstumunrbd6lc2y.md) — 纸醉金迷FM与千梦群岛把《进击的巨人》结局拆分为节奏、规则、人物动机与主题收束，并由地鸣、历史罪责和莱纳的身份撕裂讨论生存伦理与责任。
 - [006 闲话金庸《笑傲江湖》｜令狐冲到底爱谁？](sources/lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2.md) — 纸醉金迷FM以令狐冲、任盈盈、岳灵珊和林平之区分爱情、感恩、依赖、初恋记忆、关系适配与沉没成本，同时保留感情转折和排他性的争议。
 - [007 笑傲江湖？还是一统江湖？｜金庸《笑傲》中的权力斗争](sources/lugdkh-qelnouwzmw-23hadg5hik-lugdkh-qelnouwzmw-23hadg5hik.md) — 纸醉金迷FM以华山剑气之争、五岳并派和日月神教继承拆解理念、联盟与口号如何转化为权力竞争，并把令狐冲的退隐解释为扩张计划暂时失效后的政治空间。
 - [008 无招胜有招｜闲话金庸《笑傲江湖》中的武功](sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x.md) — 纸醉金迷FM以“武如其人”和独孤九剑讨论武功如何编码人物、规则如何内化为创造性自由，并以岳灵珊与林平之检验痴情、复仇、权力欲和责任。
@@ -4646,6 +4647,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《进击的巨人》 / Attack on Titan](entities/AttackOnTitan.md) — 以战争、自由、继承性敌意、人物连续性和无解政治选择组织结局争议的漫画与动画系列。
+- [艾伦·耶格尔 / Eren Yeager](entities/ErenYeager.md) — 从早期敌人消灭逻辑走向地鸣，并同时受保护动机与个人毁灭欲驱动的主角。
+- [莱纳·布朗 / Reiner Braun](entities/ReinerBraun.md) — 在国家洗脑、敌我接触、战士与士兵身份撕裂及责任承担之间挣扎的潜入者。
 
 - [任盈盈（金庸小说） / Ren Yingying (Jin Yong)](entities/RenYingyingJinYong.md) — 《笑傲江湖》中以主动照护、克制、不强迫选择和共同退隐连接爱情与自由的角色。
 - [林平之（金庸小说） / Lin Pingzhi (Jin Yong)](entities/LinPingzhiJinYong.md) — 《笑傲江湖》中从灭门受害者走向复仇、权力欲与加害的悲剧人物。
@@ -18148,6 +18152,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Existential Self-Defense Ethics / 生存威胁下的自卫伦理](concepts/ExistentialSelfDefenseEthics.md) — 当共同体生存与外部平民、未来世代及道德边界冲突时，区分动机理解、必要性、比例性、威慑与终极方案的框架。
+- [Inherited Historical Guilt / 继承性历史罪责](concepts/InheritedHistoricalGuilt.md) — 区分不应由后代继承的个人罪责，与记忆、承认、持续后果和修复责任的历史伦理框架。
+- [Speculative Rule Consistency / 幻想设定的规则一致性](concepts/SpeculativeRuleConsistency.md) — 不以现实可能性否定幻想前提，而检验后续能力、限制、铺垫与后果是否保持内部连贯的叙事标准。
 - [Rule Internalization and Creative Freedom / 规则内化与创造性自由](concepts/RuleInternalizationCreativeFreedom.md) — 从固定形式、原则理解到情境化即兴的学习路径，同时保留身体与执行条件。
 - [Strategic Loyalty and Factional Balance / 策略性忠诚与门派均衡](concepts/StrategicLoyaltyFactionalBalance.md) — 忠诚可与地位、利益、调停、组织延续和均势策略同时存在，真实关系也能成为非强制性的政治联结。
 - [Human-Centered Xianxia Cultivation / 人道优先的仙侠修行](concepts/XianxiaHumanCenteredCultivation.md) — 以“先修人道，再修仙道”把对生命的责任置于力量、长生、门派荣耀与飞升之前的仙侠伦理。

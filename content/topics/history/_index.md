@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2748
+topic_total_pages: 2749
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -754,6 +754,9 @@ topic_concepts:
   - key: "IndividualAbandonmentNarrative"
     title: "Individual Abandonment Narrative / 个体被抛弃叙事"
     url: "/wiki/concepts/individualabandonmentnarrative/"
+  - key: "InheritedHistoricalGuilt"
+    title: "Inherited Historical Guilt / 继承性历史罪责"
+    url: "/wiki/concepts/inheritedhistoricalguilt/"
   - key: "InstrumentalTruceBreach"
     title: "Instrumental Truce Breach / 工具化议和毁约"
     url: "/wiki/concepts/instrumentaltrucebreach/"

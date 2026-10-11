@@ -36428,3 +36428,11 @@ Added source `lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 005 串台|《进击的巨人》又双叕完结了？到底烂尾没？
+
+Added source `lu-b1gvxqtwzilstumunrbd6lc2y-lu-b1gvxqtwzilstumunrbd6lc2y`; created [[AttackOnTitan|《进击的巨人》]], [[ErenYeager|艾伦·耶格尔]], [[ReinerBraun|莱纳·布朗]], [[ExistentialSelfDefenseEthics|生存威胁下的自卫伦理]], [[InheritedHistoricalGuilt|继承性历史罪责]], and [[SpeculativeRuleConsistency|幻想设定的规则一致性]]. Core synthesis: the ending can have planned architecture and still suffer compressed execution; Eren's Rumbling remains psychologically continuous without becoming ethically justified; sterilization, extermination, deterrence, and constrained resistance expose different costs without permanently solving conflict; descendants do not inherit personal guilt, but memory and responsibility for present conduct remain; and Reiner's recognition of the enemy as human begins accountability without acquittal. No settled contradiction was adopted. Ymir's love explanation, anime revisions, Annie and Gabi's development, Founder and bloodline mechanics, Levi's serum choice, motives, chronology, historical analogies, and authorial intent remain disputed, interpretive, remembered, or source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], generic deterrence, and adaptation profiles were kept closed because the focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,562 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

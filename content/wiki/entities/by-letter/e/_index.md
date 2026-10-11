@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13431
+wiki_total_pages: 13434
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "EmpressDowagerDouMiao"
     title: "窦妙 / Empress Dowager Dou Miao"
     url: "/wiki/entities/empressdowagerdoumiao/"
+  - key: "ErenYeager"
+    title: "艾伦·耶格尔 / Eren Yeager"
+    url: "/wiki/entities/erenyeager/"
   - key: "Ekumen"
     title: "艾库曼 / Ekumen"
     url: "/wiki/entities/ekumen/"

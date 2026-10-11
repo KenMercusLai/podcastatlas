@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10462
+wiki_total_pages: 10465
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "SpeculativeDemystificationTradeoff"
     title: "Speculative Demystification Tradeoff / 科幻祛魅权衡"
     url: "/wiki/concepts/speculativedemystificationtradeoff/"
+  - key: "SpeculativeRuleConsistency"
+    title: "Speculative Rule Consistency / 幻想设定的规则一致性"
+    url: "/wiki/concepts/speculativeruleconsistency/"
   - key: "SpeechActRitual"
     title: "Speech Act Ritual / 言语行为仪式"
     url: "/wiki/concepts/speechactritual/"

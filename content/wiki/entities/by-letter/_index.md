@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13431
+wiki_total_pages: 13434
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2090,6 +2090,9 @@ wiki_pages:
   - key: "AssetAllocationActionGuide"
     title: "《资产配置行动指南》 / Asset Allocation Action Guide"
     url: "/wiki/entities/assetallocationactionguide/"
+  - key: "AttackOnTitan"
+    title: "《进击的巨人》 / Attack on Titan"
+    url: "/wiki/entities/attackontitan/"
   - key: "AskTheHeartTVDrama"
     title: "《问心》 / Ask the Heart (television drama)"
     url: "/wiki/entities/askthehearttvdrama/"

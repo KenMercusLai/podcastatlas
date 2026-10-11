@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10462
+wiki_total_pages: 10465
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "ExistentialRiskProbabilityEstimation"
     title: "Existential Risk Probability Estimation"
     url: "/wiki/concepts/existentialriskprobabilityestimation/"
+  - key: "ExistentialSelfDefenseEthics"
+    title: "Existential Self-Defense Ethics / 生存威胁下的自卫伦理"
+    url: "/wiki/concepts/existentialselfdefenseethics/"
   - key: "Existentialism"
     title: "Existentialism / 存在主义"
     url: "/wiki/concepts/existentialism/"
