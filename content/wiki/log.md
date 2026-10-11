@@ -36476,3 +36476,11 @@ Added source `fme-hfxefs3rvewsrdz0fwcalsap-fme-hfxefs3rvewsrdz0fwcalsap`. Core s
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)
+
+Added source `338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668`; created [[BonarLaw]] and [[FESmith|F. E. Smith]]; and resynthesized [[DanJackson]], [[EdwardCarson]], [[JohnRedmond]], [[HHAsquith|H. H. Asquith]], [[IrishHomeRule]], and [[UlsterVolunteerForce]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Parliament Act and post-1910 parliamentary balance made Home Rule enactable but not enforceable by consent; covenanting, Conservative support, rival volunteer forces, gun-running, and uncertainty inside the army converted the issue into a United Kingdom-wide coercion crisis, while unresolved exclusion and partition left the settlement suspended rather than solved when European war began. No settled contradiction was adopted. The original 1913 and revived 1966 UVFs are distinguished despite shared name and political memory; civil war remains a serious possibility rather than a certain counterfactual; and numbers, public opinion, motives, speeches, military intentions, and wartime social effects remain source-scoped. Broad [[Ireland]], [[Belfast]], [[GeorgeV]], and [[RudyardKipling]] profiles were kept closed because the focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,568 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, log coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

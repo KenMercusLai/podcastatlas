@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3308
+topic_total_pages: 3310
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5648,6 +5648,9 @@ topic_entities:
   - key: "BobHawke"
     title: "Bob Hawke"
     url: "/wiki/entities/bobhawke/"
+  - key: "BonarLaw"
+    title: "Bonar Law"
+    url: "/wiki/entities/bonarlaw/"
   - key: "BondOfAssociation"
     title: "Bond of Association"
     url: "/wiki/entities/bondofassociation/"
@@ -6026,6 +6029,9 @@ topic_entities:
   - key: "EzraPound"
     title: "Ezra Pound"
     url: "/wiki/entities/ezrapound/"
+  - key: "FESmith"
+    title: "F. E. Smith"
+    url: "/wiki/entities/fesmith/"
   - key: "Fatah"
     title: "Fatah"
     url: "/wiki/entities/fatah/"

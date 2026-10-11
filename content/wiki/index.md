@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)](sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668.md) — The Rest Is History with Dan Jackson on the Parliament Act, mass Ulster resistance, Conservative support, rival volunteers, army uncertainty, and the unresolved 1914 coercion crisis.
 - [开篇试播｜重温金庸：共赴一场江湖盛会](sources/fme-hfxefs3rvewsrdz0fwcalsap-fme-hfxefs3rvewsrdz0fwcalsap.md) — 纸醉金迷FM以金庸逝世五周年为纪念节点，介绍其金庸、读书与泛文化定位，并邀请跨世代听众重温共同的武侠记忆。
 - [001 纪念·金庸去世五周年|《射雕英雄传》侠之大者 为国为民](sources/lm5-cbufx5xmin-qbzumwsad4mw5-lm5-cbufx5xmin-qbzumwsad4mw5.md) — 纸醉金迷FM从传播记忆、关系网络式世界构建及郭靖与杨康的教育和选择差异解释《射雕英雄传》的经典地位。
 - [002 纪念|《射雕英雄传》（下）江湖儿女亦多情](sources/ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma.md) — 纸醉金迷FM以爱情、承诺、师道、人物复杂度与影视因果重读《射雕英雄传》，并保留郭靖反战思想跃升和黄药师心理解释的争议。
@@ -4652,6 +4653,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [Bonar Law](entities/BonarLaw.md) — Conservative leader who made armed Ulster resistance to Home Rule a national party cause.
+- [F. E. Smith](entities/FESmith.md) — Liverpool barrister and Conservative MP linking Carson's Ulster campaign to mainland rallies, elections, and volunteer spectacle.
 - [杨康（金庸小说） / Yang Kang (Jin Yong)](entities/YangKangJinYong.md) — 以聪明、特权、身份隐瞒、重名位轻积累及道德教育不足，对照郭靖成长路径的《射雕英雄传》人物。
 - [张无忌（金庸小说） / Zhang Wuji (Jin Yong)](entities/ZhangWujiJinYong.md) — 以慈悲和整合见长、缺少权力欲，并在敬重、感激、怜惜与强烈爱情之间寻找照料、归属和退隐生活的明教领袖。
 - [赵敏（金庸小说） / Zhao Min (Jin Yong)](entities/ZhaoMinJinYong.md) — 以政治才能、调笑、行动和情绪韧性从敌手转为张无忌最明确的互惠伴侣，并为此放弃原有身份与阵营。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13441
+wiki_total_pages: 13443
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "FiveGRobotics"
     title: "5G Robotics"
     url: "/wiki/entities/fivegrobotics/"
+  - key: "FESmith"
+    title: "F. E. Smith"
+    url: "/wiki/entities/fesmith/"
   - key: "F2HomeRobot"
     title: "F2 Home Robot"
     url: "/wiki/entities/f2homerobot/"

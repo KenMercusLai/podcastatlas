@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2749
+topic_total_pages: 2750
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5940,6 +5940,9 @@ topic_sources:
   - key: "337-ireland-union-famine-and-parnell-part-2-glt4375415331"
     title: "337: Ireland: Union, Famine and Parnell (Part 2)"
     url: "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+  - key: "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668"
+    title: "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)"
+    url: "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
   - key: "339-ireland-the-easter-rising-1916-part-4-glt7095481415"
     title: "339: Ireland: The Easter Rising, 1916 (Part 4)"
     url: "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"

@@ -30658,6 +30658,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/bollandbranch/"
     },
+    "BonarLaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/bonarlaw/"
+    },
     "BondMasculinityAdaptation": {
       "episode_count": 1,
       "show_count": 1,
@@ -61079,9 +61095,9 @@
       "url": "/wiki/entities/danegan/"
     },
     "DanJackson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2177757841 [GLT2177757841].md",
@@ -61096,9 +61112,16 @@
           "show": "The Rest Is History",
           "title": "18. The North South Divide",
           "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
+        },
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/danjackson/"
     },
     "DanMitrione": {
@@ -75938,9 +75961,9 @@
       "url": "/wiki/entities/edvardbenes/"
     },
     "EdwardCarson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4877520736 [GLT4877520736].md",
@@ -75955,9 +75978,16 @@
           "show": "The Rest Is History",
           "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
           "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
+        },
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/edwardcarson/"
     },
     "EdwardCoke": {
@@ -87803,6 +87833,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/eyrecrowe/"
+    },
+    "FESmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/fesmith/"
     },
     "FIFAWomensWorldCup": {
       "episode_count": 1,
@@ -112695,9 +112741,9 @@
       "url": "/wiki/entities/handhgroup/"
     },
     "HHAsquith": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -112719,9 +112765,16 @@
           "show": "The Rest Is History",
           "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
           "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
+        },
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/hhasquith/"
     },
     "HMSBeagle": {
@@ -137342,9 +137395,9 @@
       "url": "/wiki/concepts/irishconstitutionalnationalism/"
     },
     "IrishHomeRule": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -137359,9 +137412,16 @@
           "show": "The Rest Is History",
           "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
           "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+        },
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/irishhomerule/"
     },
     "IrishPlantation": {
@@ -145284,9 +145344,9 @@
       "url": "/wiki/entities/johnpolidori/"
     },
     "JohnRedmond": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4375415331 [GLT4375415331].md",
@@ -145294,9 +145354,16 @@
           "show": "The Rest Is History",
           "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
           "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+        },
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/johnredmond/"
     },
     "JohnStuartMill": {
@@ -271429,6 +271496,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ulsterdefenceassociation/"
+    },
+    "UlsterVolunteerForce": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT5217836668 [GLT5217836668].md",
+          "key": "338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668",
+          "show": "The Rest Is History",
+          "title": "338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)",
+          "url": "/wiki/sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/ulstervolunteerforce/"
     },
     "UltaBeauty": {
       "episode_count": 2,
