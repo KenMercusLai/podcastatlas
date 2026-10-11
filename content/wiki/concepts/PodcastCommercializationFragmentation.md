@@ -6,6 +6,7 @@ sources:
   - 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga
   - vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c
   - ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf
+  - vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ The sources agree that Chinese podcast monetization has not converged on one rep
 The Mizi conversation adds category and labor detail. Crime audio can be difficult for brand advertisers even when audiences are substantial. Annual subscription creates a larger psychological hurdle than low-priced single episodes, while creators who feel unworthy of charging may multiply production effort until revenue no longer supports the labor. A small show can therefore have influence and paid listeners without independently supporting the whole team.
 
 The [[WushichaYanjiusuo|无时差研究所]] retrospective adds a medium-fit boundary. The hosts accept voluntary tipping and leave room for brand collaboration, but argue that audio has a long direct-purchase path from hearing a product to finding a link and completing a transaction. They see more fit in sustained conversation about brand ideas than in repeated purchase prompts, while keeping the show's content and listener trust primary.
+
+VOL.143 adds a health-content route in which the audience is not charged and the team declines product selling, while selective sponsorship helps cover operating costs. This route is narrow rather than frictionless: clinicians discuss product fit, legal and regulatory materials are requested for sensitive categories, and charitable transfers are disclosed when built into cooperation. Commercial viability is therefore constrained by professional authority and safety as well as by audience size or conversion.
 
 ## Key Claims
 - Chinese podcast commercial value is unevenly distributed and hard to standardize into one dominant model.
@@ -38,15 +41,17 @@ The [[WushichaYanjiusuo|无时差研究所]] retrospective adds a medium-fit bou
 - Team sustainability - [[vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c]] reports that show income does not independently support all members of the roughly four-person team.
 - Platform and concentration risk - [[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] warns that platform rules can reshape discovery and revenue can concentrate among head shows.
 - Medium-fit evidence - [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]] accepts tipping and possible brand work but describes direct product conversion as cumbersome and prefers deeper brand explanation to prolonged hard selling.
+- Health-content route - [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] describes free listening, no product selling, sponsorship for cost coverage, clinician discussion of brand fit, documentary and legal review, and disclosed charitable transfers.
 
 ## Counterevidence & Qualifications
-Both sources are industry conversations rather than audited market datasets. Revenue, subscriber, team, advertising, and pricing outcomes are source-reported and may not generalize across genres or platforms. Fragmentation can create experimentation and niche resilience as well as precarity. Multi-format portfolios and branded services are possible responses, not proof that every podcast should become a company or product funnel.
+The sources are industry conversations and creator retrospectives rather than audited market datasets. Revenue, subscriber, team, advertising, donation, and pricing outcomes are source-reported and may not generalize across genres or platforms. Regulatory review, clinician discussion, legal review, and charitable giving do not independently establish product efficacy or editorial independence. Fragmentation can create experimentation and niche resilience as well as precarity; no single show proves that every podcast should become a company or product funnel.
 
 ## What Changed
 - Added crime-category advertiser mismatch, annual-versus-single-episode payment friction, and creator overproduction risk.
 - Added small-team sustainability as a boundary between influence and viable employment.
 - Connected fragmented monetization to ethical payment design and complementary creator portfolios.
 - Added the distinction between direct-response selling, voluntary support, and podcast-native brand explanation.
+- Added free health education funded by selectively screened sponsorship as a trust-constrained revenue route.
 
 ## Related Concepts
 - [[BrandPodcasting]] - brand and institutional production route inside the wider revenue portfolio.
@@ -57,3 +62,5 @@ Both sources are industry conversations rather than audited market datasets. Rev
 - [[SuperCreatorPortfolioModel]] - proposed multi-format response to fragmented economics.
 - [[PodcastProductionWorkflow]] - labor and specialist cost that monetization must ultimately support.
 - [[PodcastPlatformPortfolio]] - distribution diversification that can widen access while adding operating cost.
+- [[HealthContentCommercialSafeguards]] - review and disclosure controls for health-related sponsorship.
+- [[ListenerCommunityCoProduction]] - non-financial audience value that commercialization metrics miss.

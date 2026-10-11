@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3437
+topic_total_pages: 3438
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1582,6 +1582,9 @@ topic_concepts:
   - key: "GuiltDistortedEmpathy"
     title: "Guilt-Distorted Empathy / 内疚扭曲的共情"
     url: "/wiki/concepts/guiltdistortedempathy/"
+  - key: "HealthContentCommercialSafeguards"
+    title: "Health Content Commercial Safeguards / 健康内容商业合作护栏"
+    url: "/wiki/concepts/healthcontentcommercialsafeguards/"
   - key: "HealthcareMediaAITrust"
     title: "Healthcare Media AI Trust"
     url: "/wiki/concepts/healthcaremediaaitrust/"

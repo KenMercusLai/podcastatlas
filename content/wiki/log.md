@@ -35986,3 +35986,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | VOL.143这两年这些“不正经”的医生做着正经的科普｜开播2周年特辑
+
+Added source `vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c`; created [[ListenerCommunityCoProduction|听众社群共创]] and [[HealthContentCommercialSafeguards|健康内容商业合作护栏]]; and resynthesized [[ClinicianPublicEducationPractice]], [[AudienceResponsiveDeepDivePodcasting]], [[IndependentPodcastSustainability]], [[PodcastProductionWorkflow]], [[PodcastCommercializationFragmentation]], and [[PodcastIntimacy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: non-alarmist medical explanation can reduce confusion while preserving escalation and no-diagnosis boundaries; listener requests, community norms, skilled help, and offline ritual can deepen relevance and reciprocity without inheriting clinical authority; and health-content sponsorship needs product-fit review, category documents, legal retention, disclosure, and a strict distinction between charitable transfer, regulatory status, and clinical evidence. No settled contradiction was adopted. Audience, completion, production-time, event, donation, and outcome claims remain self-reported and source-scoped. Broad [[Atang|阿汤]], [[YinLaoshiZheBing|尹老师]], and [[ZheBingShuoLaiHuaChang|这病说来话长]] profiles were kept closed because the focused source and concept pages capture the durable additions without reopening their larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

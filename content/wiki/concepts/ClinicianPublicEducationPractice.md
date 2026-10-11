@@ -5,6 +5,7 @@ tags: [healthcare, medical-literacy, public-education, communication]
 sources:
   - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
   - vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y
+  - vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c
 last_updated: 2026-10-09
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Those reports show plausible usefulness, not measured effectiveness. Public educ
 
 VOL.194 adds a demand-shaping responsibility. Emergency-use, fever, infusion, specialist-access, and AI explanations can reduce avoidable anxiety and help listeners choose an appropriate care setting, but the same authority can manufacture fear or unnecessary medical consumption. Useful communication therefore pairs a clear corrective claim with escalation conditions, evidence limits, and an explicit boundary against substituting general content for individualized care.
 
+VOL.143 adds the editorial side of that responsibility. It treats non-alarmist explanation, selective simplification, listener questions, and multidisciplinary discussion as ways to make risk understandable without reproducing online symptom spirals. Public events can provide a timely educational opening, but the show distinguishes using an event to teach prevention or response from exploiting a person or tragedy for attention.
+
 ## Key Claims
 - Good public medical education requires preparation, evidence checking, and careful wording.
 - Translating medicine for lay audiences can sharpen a clinician's own understanding and explanation skills.
@@ -35,14 +38,17 @@ VOL.194 adds a demand-shaping responsibility. Emergency-use, fever, infusion, sp
 - Audience comprehension: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] reports listeners using vascular symptoms and a river analogy to understand possible problems and mechanisms.
 - Decision and anxiety feedback: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] reports one family feeling better prepared for ICU transfer and one patient finding reassurance through a multidisciplinary episode.
 - Demand-shaping boundary: [[vol-194-jizhen-weibing-jizhen-cunzai-de-yiyi-he-ni-yiwei-de-wanquan-bu-yiyang-lldh0rl7vxkuezzjosxevhtqb73y|VOL.194]] uses emergency attendance, routine infusion, hospital hierarchy, and anxiety-oriented health messaging to distinguish practical correction from demand creation.
+- Non-alarmist editorial method: [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] describes explaining what requires attention and what need not trigger panic, while repeatedly refusing report reading, image interpretation, and online diagnosis.
+- Simplification and event-use boundary: [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] distinguishes clinically exhaustive reasoning from audience-facing explanation and describes rapid suicide-prevention and AED education that avoided entertainment framing.
 
 ## Counterevidence & Qualifications
-The evidence is retrospective participant testimony, selected listener feedback, and one clinician's account of his educational aims. It does not establish reach, diagnostic accuracy, treatment benefit, anxiety outcomes, reduced emergency use, or comparative effectiveness. Preparation quality varies, analogies can mislead, and podcast discussion lacks examination and complete context. Claims should therefore remain transparent about sources, uncertainty, date, jurisdiction, and the need for qualified care; “reducing anxiety” should not minimize genuine warning signs.
+The evidence is retrospective participant testimony, selected listener feedback, and clinician or producer accounts of educational aims. It does not establish reach, diagnostic accuracy, treatment benefit, anxiety outcomes, reduced emergency use, or comparative effectiveness. Preparation quality varies, analogies and selective simplification can mislead, and podcast discussion lacks examination and complete context. Claims should therefore remain transparent about sources, uncertainty, date, jurisdiction, incentives, and the need for qualified care; “reducing anxiety” should not minimize genuine warning signs.
 
 ## What Changed
 - Added demand shaping as an ethical dimension of clinician public education.
 - Distinguished useful reassurance and care-setting guidance from fear-driven medical consumption.
 - Clarified that anxiety reduction must retain explicit escalation conditions.
+- Added selective simplification, listener-informed topics, and non-exploitative use of public events as editorial responsibilities.
 
 ## Related Concepts
 - [[DoctorPatientCommunication]] - clinical counterpart involving a particular patient's goals, history, and decisions.
@@ -52,3 +58,5 @@ The evidence is retrospective participant testimony, selected listener feedback,
 - [[NarrativeMedicine]] - story-based clinical practice that can inform humane public explanation.
 - [[EmergencyDepartmentAcuityTriage]] - care-setting rule that public explanation can make legible before a crisis.
 - [[LowValueIntravenousInfusion]] - treatment-intensity misconception addressed through public education.
+- [[ListenerCommunityCoProduction]] - audience participation that can improve relevance while preserving clinical authority.
+- [[HealthContentCommercialSafeguards]] - commercial controls needed when medical credibility and sponsorship meet.

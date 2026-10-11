@@ -7,6 +7,7 @@ sources:
   - zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht
   - zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u
   - ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf
+  - vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ Voice-first scripting creates a specific AI boundary. Article recommendation, br
 The workflow also includes maintenance after publication. Release regularity, special-episode planning, 48-hour data checks, comment replies, tipping, and links back to original texts can all shape a small show's continuity. These practices do not make the show purely productized, but they keep craft, listener relationship, and sustainability in the same operating system.
 
 The [[WushichaYanjiusuo|无时差研究所]] retrospective adds an interview-led path. Early episodes often began with an available friend and a guest-prepared outline; later work begins with a topic, host research, a written outline, guest selection, and pre-interview communication. Complementary host roles—one organizing full questions and pacing, the other listening for live follow-ups—show that preparation and responsive conversation are not opposites. Failed recordings and saturated topics also make rejection, delay, and angle selection part of the workflow.
+
+VOL.143 adds the logistics of a clinician-led show. Specialist availability, shift work, travel, outline alignment, recording, editing, packaging, show notes, timelines, cover art, previews, community distribution, and interaction form one chain. A rapid-response mental-health episode shows that urgency can compress that chain, but seriousness, referral resources, and non-entertainment framing remain editorial controls rather than optional polish.
 
 ## Key Claims
 - Heavy research and transcript preparation can coexist with live response and conversational texture.
@@ -45,13 +48,16 @@ The [[WushichaYanjiusuo|无时差研究所]] retrospective adds an interview-led
 - Post-publication evidence: [[zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u]] describes 48-hour data checks, comment replies, tipping, and source-linking as part of the show's practical operation.
 - Sustainability evidence: [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] frames correct but expensive production choices as valuable but exhausting, making friction reduction part of workflow design.
 - Interview-development evidence: [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]] describes the shift from friend-first guest outlines to topic-first research, outlines, guest selection, and pre-interviews, with complementary host roles and occasional unusable recordings.
+- Clinician-scheduling and release evidence: [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] describes fitting guests around different shifts and nearly ten steps from planning through community interaction.
+- Rapid-response evidence: [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] reports a roughly four-hour suicide-prevention production cycle that omitted entertainment elements and included crisis-hotline information.
 
 ## Counterevidence & Qualifications
-The sources describe creator-facing workflows, not a universal production manual. Some podcasts are looser, more interview-driven, or more industrial, and can tolerate AI-generated notes or draft segments differently. The stable boundary is that each show has to identify which workflow layer carries its trust and voice before delegating work to tools or collaborators.
+The sources describe creator-facing workflows, not a universal production manual. Reported turnaround, staffing, steps, and costs are self-reported. Some podcasts are looser, more interview-driven, or more industrial, and can tolerate AI-generated notes or draft segments differently. The stable boundary is that each show has to identify which workflow layer carries its trust, safety, and voice before compressing it or delegating work to tools or collaborators.
 
 ## What Changed
 - Added the 读报teleread upper-half anniversary source, making tacit topic selection, format cycles, post-publication data, comments, tipping, and original-source routing explicit workflow layers.
 - Added topic-first interview development, pre-interview communication, complementary questioning roles, and the option to delay saturated topics.
+- Added clinician scheduling, full release-chain labor, and a safety-preserving rapid-response path.
 
 ## Related Concepts
 - [[PodcastReleaseCadence]] - scheduling layer of production.
@@ -63,3 +69,5 @@ The sources describe creator-facing workflows, not a universal production manual
 - [[AIAuthorshipPresence]] - authorship concern when AI contributes core language or arguments.
 - [[AIGeneratedContentQualityGap]] - quality problem when fluent output lacks progression or voice.
 - [[PodcastPlatformPortfolio]] - distribution work that the production system must be able to maintain.
+- [[ListenerCommunityCoProduction]] - listener skills, artifacts, and interaction that can enter the workflow.
+- [[ClinicianPublicEducationPractice]] - evidence and safety work embedded in medical-audio production.

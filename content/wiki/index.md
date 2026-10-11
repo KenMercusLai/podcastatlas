@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.143这两年这些“不正经”的医生做着正经的科普｜开播2周年特辑](sources/vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c.md) — 这病说来话长两周年复盘其非焦虑医学科普、听众共创、制作劳动、商业审查、公益披露与形式演进。
 - [521. Warlords of the West: Killer Queens (Part 2)](sources/521-warlords-of-the-west-killer-queens-part-2-glt5666966864.md) — The Rest Is History on Fredegund and Brunhilde's feud, Merovingian regency, dynastic violence, and Gregory of Tours's unequal framing.
 - [Essentials: Understand and Use Dreams to Learn and Forget](sources/essentials-understand-and-use-dreams-to-learn-and-forget-scim2976565014.md) — Condensed Huberman Lab episode on slow-wave and REM sleep, learning, emotional memory, dreams, EMDR, and mechanism boundaries.
 - [522. Warlords of the West: A Clash of Ice and Fire (Part 3)](sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009.md) — The Rest Is History on Tours as a raid, factional intervention, shrine threat, and consequential but not civilization-simple Frankish victory.
@@ -17973,6 +17974,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Listener Community Co-Production / 听众社群共创](concepts/ListenerCommunityCoProduction.md) — Bounded listener participation through topic signals, norms, professional skills, artifacts, rituals, and offline relationships.
+- [Health Content Commercial Safeguards / 健康内容商业合作护栏](concepts/HealthContentCommercialSafeguards.md) — Review, documentation, disclosure, and scope controls preventing sponsorship from borrowing clinical authority.
 - [Battle of Tours](concepts/BattleOfTours.md) — Qualified synthesis of the 732/733 battle's campaign logic, shrine stakes, tactics, dynastic consequences, counterfactuals, and political afterlife.
 - [Pursuit-Centered Achievement](concepts/PursuitCenteredAchievement.md) — View that ambitious work draws durable meaning from sustained inquiry and practice rather than only brief success peaks.
 - [Physics-Grounded Quantum Security](concepts/PhysicsGroundedQuantumSecurity.md) — Security model using measurement-induced disturbance to reveal interception during quantum key exchange.

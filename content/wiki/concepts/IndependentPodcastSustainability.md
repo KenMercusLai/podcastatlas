@@ -6,6 +6,7 @@ sources:
   - zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u
   - 184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5
   - ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf
+  - vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ Small shows survive by fitting operations to capacity and allowing format cycles
 
 The [[WushichaYanjiusuo|无时差研究所]] anniversary adds co-host accountability and redundancy. The hosts describe three years of weekly release as a promise neither wanted to break for the other; when one person encountered difficulty, the other could absorb work. Friendship, knowledge, a wider social world, listener response, and voluntary tipping supplied value without requiring the show to become a hard-selling business.
 
+VOL.143 adds a part-time professional-team model. Clinicians and producers coordinate around full-time jobs, shifts, travel, and nearly ten production and distribution steps, while sponsorship is treated mainly as cost coverage rather than personal livelihood. Listener gratitude, skilled help, and meetups provide real motivation, but they do not erase the unpaid labor or scheduling fragility underneath the show.
+
 ## Key Claims
 
 - Passion alone does not absorb the recurring labor of research, coordination, production, and release.
@@ -32,6 +35,7 @@ The [[WushichaYanjiusuo|无时差研究所]] anniversary adds co-host accountabi
 - Platform data can guide work while also distorting standards and emotional stability.
 - Sustainable shows may pass through experimentation, fatigue, and format return rather than follow linear growth.
 - Professional dialogue, friendship, reciprocal accountability, and intrinsic process rewards can support continuity when traffic is weak.
+- External employment can subsidize a mission-led show, but it also makes coordination, time, and hidden labor persistent constraints.
 
 ## Evidence
 
@@ -40,16 +44,19 @@ The [[WushichaYanjiusuo|无时差研究所]] anniversary adds co-host accountabi
 - Hidden-labor evidence: [[184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5]] uses a medical knowledge channel's cessation to show that organization, invitation, editing, and continuity can exhaust a successful creator.
 - Intrinsic and community evidence: [[184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5]] says stimulating conversation, editing insight, and finding genuine professional interlocutors can reward creation beyond traffic or direct income.
 - Co-host continuity evidence: [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]] attributes roughly 160 weekly episodes to reciprocal obligation, complementary support, friendship, knowledge, listener response, and acceptance of voluntary contributions without making product promotion the show's center.
+- Part-time team evidence: [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] says the team works around clinical shifts and other jobs and lists planning, outlines, recording, editing, packaging, notes, timelines, artwork, previews, distribution, and interaction.
+- Motivation and cost evidence: [[vol-143-zhe-liang-nian-zhe-xie-buzhengjing-de-yisheng-zuozhe-zhengjing-de-kepu-kaibo-2-zhounian-teji-ljufnnoli6cgs_jkugf-f9wlkk6c|VOL.143]] places listener letters, gifts, gatherings, and support beside the claim that the full workflow does not cover its labor cost.
 
 ## Counterevidence & Qualifications
 
-The evidence comes from a small number of self-reflective Chinese creator accounts and does not establish the best monetization or production model. Institution-backed, comedy, narrative, interview, and brand shows may have different cost structures. Intrinsic satisfaction can support persistence but should not romanticize unpaid or unhealthy labor.
+The evidence comes from a small number of self-reflective Chinese creator accounts and does not establish the best monetization or production model. Reported costs, audience metrics, labor, and motivations are not audited. Institution-backed, comedy, narrative, interview, health, and brand shows may have different structures. Intrinsic satisfaction, outside employment, and community gratitude can support persistence but should not romanticize unpaid or unhealthy labor.
 
 ## What Changed
 
 - Added hidden coordination and production labor as a distinct sustainability constraint.
 - Added intrinsic process reward and professional interlocutors as non-financial supports.
 - Added co-host accountability and backup capacity as operating supports for long-running weekly production.
+- Added outside-employment subsidy, clinician scheduling, and listener co-production to the sustainability model.
 
 ## Related Concepts
 
@@ -60,3 +67,5 @@ The evidence comes from a small number of self-reflective Chinese creator accoun
 - [[CreatorEvaluationPressure]] - emotional burden of public response.
 - [[ProfessionalCommunityTrust]] - trusted interlocutors who give expert expression social value.
 - [[PodcastPlatformPortfolio]] - distribution diversification whose maintenance cost must stay within creator capacity.
+- [[ListenerCommunityCoProduction]] - non-financial audience participation that can support continuity without eliminating labor costs.
+- [[HealthContentCommercialSafeguards]] - trust-preserving cost-coverage boundary for health sponsorship.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10412
+wiki_total_pages: 10414
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "LishanConvictMobilization"
     title: "Lishan Convict Mobilization / 骊山刑徒应急动员"
     url: "/wiki/concepts/lishanconvictmobilization/"
+  - key: "ListenerCommunityCoProduction"
+    title: "Listener Community Co-Production / 听众社群共创"
+    url: "/wiki/concepts/listenercommunitycoproduction/"
   - key: "ListenerSupportedMedia"
     title: "Listener-Supported Media"
     url: "/wiki/concepts/listenersupportedmedia/"
