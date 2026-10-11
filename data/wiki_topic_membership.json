@@ -34825,6 +34825,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EthanKross": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EthanWu": [
     {
       "key": "economics",
@@ -103210,6 +103217,13 @@
       "label": "Culture",
       "url": "/topics/culture/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417": [
     {
       "key": "science",
       "label": "Science",

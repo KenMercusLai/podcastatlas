@@ -49885,9 +49885,9 @@
       "url": "/wiki/concepts/coffeehousepublicsphere/"
     },
     "CognitiveAdvisoryFeedback": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1420437673 [SCIM1420437673].md",
@@ -49895,9 +49895,16 @@
           "show": "Huberman Lab",
           "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
           "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/cognitiveadvisoryfeedback/"
     },
     "CognitiveAging": {
@@ -78490,9 +78497,9 @@
       "url": "/wiki/concepts/emotionmentorship/"
     },
     "EmotionRegulationToolkit": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -78549,9 +78556,16 @@
           "show": "Huberman Lab",
           "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
           "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionStateCoordinateModel": {
@@ -78615,9 +78629,9 @@
       "url": "/wiki/concepts/emotionalcoregulationfit/"
     },
     "EmotionalContagion": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
@@ -78646,9 +78660,16 @@
           "show": "Huberman Lab",
           "title": "How to Deal With High Conflict People | Bill Eddy",
           "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/emotionalcontagion/"
     },
     "EmotionalFlashbackGrounding": {
@@ -84491,6 +84512,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/estrobolomeestrogenrecirculation/"
     },
+    "EthanKross": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/ethankross/"
+    },
     "EthicalMinorityTravel": {
       "episode_count": 1,
       "show_count": 1,
@@ -86878,9 +86915,9 @@
       "url": "/wiki/concepts/expressnetworkinfrastructurecentralization/"
     },
     "ExpressiveWritingProtocol": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8054388666 [SCIM8054388666].md",
@@ -86888,9 +86925,16 @@
           "show": "Huberman Lab",
           "title": "A Science-Supported Journaling Protocol to Improve Mental & Physical Health",
           "url": "/wiki/sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/expressivewritingprotocol/"
     },
     "ExternalityInternalization": {
@@ -177391,9 +177435,9 @@
       "url": "/wiki/concepts/mentalbandwidth/"
     },
     "MentalContrastingImplementationIntentions": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -177415,9 +177459,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
           "url": "/wiki/sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/mentalcontrastingimplementationintentions/"
     },
     "MentalHealthBiologicalFoundations": {
@@ -215937,9 +215988,9 @@
       "url": "/wiki/concepts/psychologicalboundaryprotection/"
     },
     "PsychologicalDistanceSelfControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8156556751 [SCIM8156556751].md",
@@ -215947,9 +215998,16 @@
           "show": "Huberman Lab",
           "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
           "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/psychologicaldistanceselfcontrol/"
     },
     "PsychologicalMythModernization": {
@@ -230599,6 +230657,43 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/rulerwillaslaw/"
+    },
+    "RuminationVsReflection": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "132.当过度思考的打工人遇上低欲望的时代 [luAQsWjQEZBAkxDRcsHifxI0eRmO].md",
+          "key": "132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo",
+          "show": "起朱楼宴宾客",
+          "title": "132.当过度思考的打工人遇上低欲望的时代",
+          "url": "/wiki/sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo/"
+        },
+        {
+          "episode_file": "E44 李晓波对话孟岩：这次，就这样吧？ [lpcrvFgnsEAED-eaMbK9OFnvuQ2-].md",
+          "key": "e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2",
+          "show": "无人知晓",
+          "title": "E44 李晓波对话孟岩：这次，就这样吧？",
+          "url": "/wiki/sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2/"
+        },
+        {
+          "episode_file": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？｜ 串台轻刀快马 [lmpluij7RcFq49cXcyB65X3F7zfn].md",
+          "key": "vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn",
+          "show": "起朱楼宴宾客",
+          "title": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？",
+          "url": "/wiki/sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn/"
+        },
+        {
+          "episode_file": "SCIM5809773417 [SCIM5809773417].md",
+          "key": "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross",
+          "url": "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/ruminationvsreflection/"
     },
     "Ruminawi": {
       "episode_count": 1,

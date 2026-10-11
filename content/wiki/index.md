@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross](sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417.md) — Huberman Lab interview on useful inner speech, repetitive chatter, flexible regulation tools, psychological distance, advisory support, WOOP planning, and attention boundaries.
 - [VOL.142通俗易懂中医冬季预防感冒和轻症的原理和饮食、用药、起居](sources/vol-142-zhongyi-dongji-yufang-ganmao-yinshi-yongyao-qiju-lsupkbbkwxrh3n-h8ccfmglypr2.md) — 这病说来话长 episode with 毛哲 on scene-matched winter routines, cough and food-remedy distinctions, respiratory self-medication, and evidence-bounded escalation.
 - [Essentials: Using Science to Optimize Sleep, Learning & Metabolism](sources/essentials-using-science-to-optimize-sleep-learning-metabolism-scim7307498101.md) — Condensed Huberman Lab office hours on timing light, movement, meals, temperature, post-learning rest, and self-tracking without treating exact protocols as universal.
 - [041 前世今生被证实？|大话卫斯理之《寻梦》：倪匡本人最爱的故事](sources/lr4bhqtikeophh4ladhymapyskwv.md) — 纸醉金迷FM以双重梦境、旧案与今生悲剧重读《寻梦》，把“记忆组”视为人格延续的文学设想，同时质疑轮回巧合和结局因果。
@@ -4601,6 +4602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [Ethan Kross](entities/EthanKross.md) — Psychologist distinguishing useful inner speech from chatter and organizing regulation through distance, attention, relationships, environment, and planning.
 - [《寻梦》 / The Dream Search (Ni Kuang novel)](entities/XunMengNiKuangNovel.md) — 倪匡卫斯理小说，以双重梦境、记忆组、爱情背叛与重复死亡讨论人格延续和宿命因果。
 - [Thomas Foley](entities/ThomasFoley.md) — Royal Navy captain whose landward maneuver aboard Goliath opened the double-sided attack at the Battle of the Nile.
 - [Morgan Housel](entities/MorganHousel.md) — Writer and investor framing money through behavior, regret, autonomy, purpose, comparison, and family context.

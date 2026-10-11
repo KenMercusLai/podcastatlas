@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1567
+topic_total_pages: 1569
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2861,6 +2861,9 @@ topic_entities:
   - key: "ErichJarvis"
     title: "Erich Jarvis"
     url: "/wiki/entities/erichjarvis/"
+  - key: "EthanKross"
+    title: "Ethan Kross"
+    url: "/wiki/entities/ethankross/"
   - key: "EveryCure"
     title: "Every Cure"
     url: "/wiki/entities/everycure/"
@@ -4260,6 +4263,9 @@ topic_sources:
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  - key: "how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417"
+    title: "How to Control Your Inner Voice & Increase Your Resilience | Dr. Ethan Kross"
+    url: "/wiki/sources/how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-kross-scim5809773417/"
   - key: "scim2452395341-scim2452395341"
     title: "How to Control Your Sense of Pain & Pleasure"
     url: "/wiki/sources/scim2452395341-scim2452395341/"
