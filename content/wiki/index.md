@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [534. Emperors of Rome: Sex Secrets of the Caesars (Part 1)](sources/534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602.md) — The Rest Is History introduction to Suetonius's scholarship, court access, imperial biography, Augustan performance, Roman sexual status, and gossip as cultural evidence.
 - [The Art of Learning & Living Life | Josh Waitzkin](sources/scim6762906273-scim6762906273.md) — Huberman Lab conversation on cross-domain mastery, pressure-loss analysis, MIQ incubation, transition-zone training, dynamic renewal, and post-conscious performance.
 - [048 人生识字忧患始：金庸《侠客行》到底想表达什么？](sources/lkwyqt4w5g-uet_vckex3f33nu8n.md) — 纸醉金迷FM以侠客岛、石破天多重名字和武学图谱讨论信息不透明、责任、赤子之心、身份标签，以及知识框架如何遮蔽视觉与身体层面的答案。
 - [049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？](sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p.md) — 纸醉金迷FM批评《射雕英雄传：侠之大者》的压缩、人物因果、特效化动作与未获铺垫的反战主题，同时保留蒙古段落、华筝、配角和语言设计等局部优点。

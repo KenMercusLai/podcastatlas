@@ -35684,3 +35684,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 534. Emperors of Rome: Sex Secrets of the Caesars (Part 1)
+
+Added source `534-emperors-of-rome-sex-secrets-of-the-caesars-part-1-glt3696933602`; and resynthesized [[Suetonius]], [[OctavianAugustus|Octavian / Augustus]], [[AncientRomanSexualStatusHierarchy]], and [[ImperialPerformancePolitics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Suetonius combines archival and court access with gossip, bodily detail, and moral organization; Augustus shows how calibrated persona, spectacle, peace, and paternal presentation could stabilize imperial rule; and Roman sexual allegations reveal a hierarchy of freedom, rank, dominance, and submission without thereby proving the conduct alleged. No settled contradiction was adopted. The Hippo Regius inference, possible Vindolanda identification, dismissal circumstances, omens, deathbed scenes, private motives, and individual sexual allegations remain uncertain or source-scoped. Minor figures and broad Roman-history pages were kept closed because the source and four focused updates capture the durable addition without reopening large unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,468 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
