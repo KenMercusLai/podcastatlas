@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10373
+wiki_total_pages: 10375
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2519,6 +2519,9 @@ wiki_pages:
   - key: "CosmicHorror"
     title: "Cosmic Horror"
     url: "/wiki/concepts/cosmichorror/"
+  - key: "CosmologicalInferenceLimits"
+    title: "Cosmological Inference Limits"
+    url: "/wiki/concepts/cosmologicalinferencelimits/"
   - key: "CosmopolitanChineseScholarship"
     title: "Cosmopolitan Chinese Scholarship / 世界主义的中国学术"
     url: "/wiki/concepts/cosmopolitanchinesescholarship/"

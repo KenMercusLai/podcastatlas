@@ -5,7 +5,8 @@ tags: [astrology, evidence, falsifiability, confirmation-bias, risk]
 sources:
   - ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw
   - gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057
-last_updated: 2026-10-07
+  - charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ EP182 shows why the distinction matters. Astrology can generate a detailed accou
 
 The Indian-finance segment adds an outcome-facing test. Managers can mix horoscopes with conventional analysis and remember a successful steel investment, yet that mixture cannot identify astrology's contribution. The episode's lucky-number evidence instead points toward underperformance, while course and platform revenues show that an advice market can thrive without validated forecast skill.
 
+The Keating interview adds a prediction-centered contrast with astronomy. Celestial observation can support seasons, calendars, navigation, and testable physical models, while astrology remains unfalsifiable and vulnerable to confirmation bias. Possible hidden perception is still different from reliable forecasting.
+
 ## Key Claims
 - Internal consistency does not establish causal mechanism, predictive accuracy, or statistical reliability.
 - More interpretive variables can create specificity while simultaneously increasing opportunities for post-hoc fit.
@@ -28,6 +31,7 @@ The Indian-finance segment adds an outcome-facing test. Managers can mix horosco
 - Correlation between a planetary period and selected historical events is insufficient to establish causation.
 - High-stakes claims should be judged by domain evidence and should never rely on astrology alone.
 - Commercial demand and seller revenue do not establish customer returns or predictive validity.
+- Astronomy's historical usefulness for timekeeping and navigation does not transfer predictive validity to astrology.
 
 ## Evidence
 - System coherence versus validation: [[ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw]] explains the symbolic twelve-sign system but supplies no causal mechanism, falsification rule, or statistical test.
@@ -37,15 +41,17 @@ The Indian-finance segment adds an outcome-facing test. Managers can mix horosco
 - Investment anecdotes: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] reports a manager attributing a successful steel investment to Mars, metal, and his birth chart without a prospective comparison against failed signals.
 - Behavioral outcome: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] cites studies associating lucky-number investment preferences with significant underperformance.
 - Commercial distinction: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] describes paid courses, per-minute consultations, platform fundraising, and prosperity products without evidence of superior client returns.
+- Astronomy contrast: [[charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321]] distinguishes testable sky observation and physical modeling from unfalsifiable personal prediction, confirmation bias, and the system's treatment of Ophiuchus.
 
 ## Counterevidence & Qualifications
 
-This boundary does not prove that every reflective use is harmful or that symbolic traditions have no cultural, narrative, or historical value. It says that personal resonance and reassurance are different kinds of evidence from reliable prediction. The sources do not provide complete study methods, an audited investment record, or prospective tests. EP182 qualifies fatalism through choice, while the finance segment shows real use; neither removes confirmation bias, selective recall, hindsight, or business-incentive concerns.
+This boundary does not prove that every reflective use is harmful or that symbolic traditions have no cultural, narrative, or historical value. It says that personal resonance and reassurance are different kinds of evidence from reliable prediction. The sources do not provide complete study methods, an audited investment record, or prospective tests. EP182 qualifies fatalism through choice, while the finance segment shows real use; neither removes confirmation bias, selective recall, hindsight, or business-incentive concerns. Keating's Ophiuchus example is a public explanation rather than a complete historical or statistical test of every astrological tradition.
 
 ## What Changed
 - Created an explicit boundary between symbolic coherence and empirical support.
 - Applied the strongest caution to health, reproduction, crime, finance, nations, and historical forecasting.
 - Added investment outcomes and advice-market incentives as concrete tests of predictive claims.
+- Added a direct astronomy-versus-astrology contrast centered on falsifiability and prediction.
 
 ## Related Concepts
 - [[PsychologicalAstrologyAsReflectiveMap]] - bounded reflective use that motivates the distinction.
@@ -53,3 +59,4 @@ This boundary does not prove that every reflective use is harmful or that symbol
 - [[ObservationBeforeInference]] - methodological demand to separate observed facts from explanatory claims.
 - [[ChineseAstrologicalPolitics|中国星占政治]] - historical study of astrology's political use without endorsing celestial causation.
 - [[FinancialAstrologyDecisionMaking]] - finance-specific application involving portfolio, timing, and personnel decisions.
+- [[ScientificSkepticism]] - evidence posture that separates open possibility from unsupported forecast confidence.

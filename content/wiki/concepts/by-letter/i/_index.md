@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10373
+wiki_total_pages: 10375
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "InstrumentOfGovernment1653"
     title: "Instrument of Government (1653)"
     url: "/wiki/concepts/instrumentofgovernment1653/"
+  - key: "InstrumentExtendedObservation"
+    title: "Instrument-Extended Observation"
+    url: "/wiki/concepts/instrumentextendedobservation/"
   - key: "InstrumentalBeliefCritique"
     title: "Instrumental Belief Critique"
     url: "/wiki/concepts/instrumentalbeliefcritique/"

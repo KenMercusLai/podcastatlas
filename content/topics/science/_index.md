@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1555
+topic_total_pages: 1556
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1183,6 +1183,9 @@ topic_concepts:
   - key: "InnovatorTraitConfiguration"
     title: "Innovator Trait Configuration"
     url: "/wiki/concepts/innovatortraitconfiguration/"
+  - key: "InstrumentExtendedObservation"
+    title: "Instrument-Extended Observation"
+    url: "/wiki/concepts/instrumentextendedobservation/"
   - key: "InstrumentalBeliefCritique"
     title: "Instrumental Belief Critique"
     url: "/wiki/concepts/instrumentalbeliefcritique/"

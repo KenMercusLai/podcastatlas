@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2727
+topic_total_pages: 2726
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2150,9 +2150,6 @@ topic_entities:
   - key: "Fuliang"
     title: "Fuliang / 浮梁"
     url: "/wiki/entities/fuliang/"
-  - key: "GalileoGalilei"
-    title: "Galileo Galilei / 伽利略"
-    url: "/wiki/entities/galileogalilei/"
   - key: "GeHong"
     title: "Ge Hong / 葛洪"
     url: "/wiki/entities/gehong/"

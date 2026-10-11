@@ -39480,11 +39480,6 @@
   ],
   "GalileoGalilei": [
     {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
-    },
-    {
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
@@ -48067,6 +48062,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "InstrumentExtendedObservation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "InstrumentalBeliefCritique": [

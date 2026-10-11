@@ -2,40 +2,58 @@
 title: "Scientific Self-Correction"
 type: concept
 tags: [science, evidence, correction, authority]
-sources: [dont-hate-the-replicator-hate-the-game, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
-last_updated: 2026-07-24
+sources:
+  - dont-hate-the-replicator-hate-the-game
+  - 123-renxing-shiyan-dangxin-ni-ziji-779479569
+  - 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549
+  - 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368
+  - 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437
+  - charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321
+last_updated: 2026-10-11
+knowledge_schema: synthesis-v1
 ---
 
 # Scientific Self-Correction
 
-Scientific self-correction is the episode's claim that science has no final master. In [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]], [[QinZong|秦总]] and [[Beimin|北明]] contrast scientific practice with systems where a priest, master, institution, or state decides what must be believed.
+## Definition
 
-The concept does not mean scientists are always virtuous. [[TrofimLysenko|Trofim Lysenko / 李森科]] is used as the opposite case: when power blocks criticism, false science can damage the field. Self-correction survives only when public evidence, criticism, replication, and revision remain legitimate.
+Scientific self-correction is the capacity of claims, methods, and institutions to change when public evidence, replication, criticism, or better measurement displaces an earlier interpretation.
 
-[[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] adds the experiment-history version. [[StubbinsFfirth|Stubbins Ffirth]]'s yellow-fever survival, the mamba-venom case, spider urine experiments, and the difficult [[DopplerEffect|Doppler effect]] demonstration show that wrong, lucky, or inconclusive experiments can still become knowledge if later researchers mark the limits and revise the interpretation.
+## Current Synthesis
 
-[[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds a social-science version. The episode says scientists also have bias, but science is still useful because criticism, peer review, attempts at disconfirmation, and later correction are better than private certainty or folk wisdom.
+The sources reject both infallible-scientist mythology and automatic-correction mythology. Science has no final master because even authoritative claims remain revisable, but correction only works when evidence is inspectable, criticism is permitted, methods are documented, and someone has an incentive to check. Political suppression, publication filtering, weak documentation, spectacle, bias, and prestige competition can all delay revision.
 
-[[dont-hate-the-replicator-hate-the-game]] adds the reproducibility-institution version. The episode treats [[ReplicationPackage|replication packages]], [[Preregistration]], [[RobustnessChecks]], and [[CrowdsourcedAcademicAuditing]] as ways to make correction more likely, while warning that self-correction is weak if no one actually checks the code, data, or analytical choices.
-
-[[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] adds a historical-institution version through modern Chinese geology, archaeology, architecture, and linguistics. The source's emphasis on field survey, excavation, measurement, and recording shows self-correction before formal replication: scholars build methods that let buildings, stones, fossils, inscriptions, and speech samples correct inherited impressions.
+The evidence spans social science, risky experiments, field disciplines, astronomy, and BICEP. Strange signals can yield better natural explanations; lucky or failed experiments can clarify limits; field measurement can replace inherited description; replication games can expose fragile analysis; and a functioning telescope can detect real polarization while scientists misidentify its source. Correction is therefore not mere admission of error: it is the organized transition from one supported model to a better-bounded one.
 
 ## Key Claims
-- A scientific claim must be abandonable when evidence turns against it.
-- Great scientists do not own truth; later evidence can correct Newton, Einstein, or any other authority.
-- [[ScientificSkepticism]] needs institutions and habits that protect correction, not only clever individuals.
-- The episode uses [[CTA102]] and pulsar discovery to show how restraint can convert a premature alien story into stronger natural knowledge.
-- [[ExperimentalFailureAsKnowledge]] names the source-68 pattern where failure or negative evidence becomes useful only through correction.
-- The replication-games source adds that self-correction also needs credible inspection odds, not only stated openness to correction.
-- Modern field disciplines can make correction possible by replacing reputation and inherited description with inspectable traces, instruments, and trained comparison.
+- A scientific claim must remain abandonable or revisable when evidence turns against it.
+- Correction depends on institutions and practices, not only individual virtue.
+- Replication, documented data and code, rival hypotheses, and later measurement create credible opportunities for revision.
+- Negative or failed results become knowledge only when their controls and limits are interpretable.
+- Bias, authority, political power, publication incentives, and priority pressure can obstruct correction.
+- A revised interpretation can preserve valuable measurements even when the original headline claim fails.
 
-## Connections
-- [[ScientificSkepticism]] - broader posture that makes correction possible.
-- [[TrofimLysenko]] - political failure case.
-- [[DonationOfConstantine]] and [[Majestic12Documents]] - document-correction and forgery cases.
-- [[CTA102]] - astronomy case for restraint and revision.
-- [[RationalHumility]] - correction as part of reason rather than humiliation.
-- [[ExperimentalScienceEthics]], [[SelfExperimentation]], and [[ExperimentalFailureAsKnowledge]] - source-68 experiment extensions.
-- [[SocialPsychology]], [[HindsightBias]], and [[ExperimentalScienceEthics]] - source-123 social-experiment extension.
-- [[ReplicationCrisis]], [[InstituteForReplication]], [[ReplicationGames]], [[ReplicationPackage]], and [[ResearchIntegrityIncentives]] - reproducibility extension added by Planet Money.
-- [[FieldworkAsKnowledgeMethod]], [[GeologicalResearchInstitute|地质研究所/地质调查所]], [[Yinxu|殷墟]], and [[Zhoukoudian|周口店]] - historical field-institution extension added by episode 19.
+## Evidence
+- **Authority and public evidence:** [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] contrasts corrigible science with master-centered authority and uses CTA102, pulsars, forgery detection, and Lysenkoism as cases.
+- **Bias and self-skepticism:** [[123-renxing-shiyan-dangxin-ni-ziji-779479569]] shows why perception, memory, group identity, and hindsight make private certainty insufficient.
+- **Experiment and failure:** [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] uses self-experimentation, ethics, lucky negatives, and difficult demonstrations to show that error needs controlled interpretation.
+- **Replication incentives:** [[dont-hate-the-replicator-hate-the-game]] connects correction to replication packages, preregistration, robustness checks, author response, and a credible chance of inspection.
+- **Field methods:** [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] shows survey, excavation, measurement, recording, and institutional training replacing inherited impressions with inspectable traces.
+- **BICEP revision:** [[charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321]] describes a real polarization measurement whose primordial interpretation was displaced by Milky Way dust while later constraints retained value.
+
+## Counterevidence & Qualifications
+
+Self-correction can be slow, unequal, and incomplete. Replication can itself involve judgment disputes; null results can reflect technical failure; field records can preserve local and institutional bias; and public correction may not travel as far as the original claim. The BICEP account is participant testimony and the source summary does not reconstruct its complete technical record. The concept describes a capacity and a governance problem, not a guarantee that truth automatically wins.
+
+## What Changed
+- Added BICEP as a case where valid measurement survived a corrected source interpretation.
+- Added prestige and priority pressure to the barriers that correction must overcome.
+- Migrated the page to `synthesis-v1` while preserving all prior sources in order.
+
+## Related Concepts
+- [[ScientificSkepticism]] - epistemic posture that keeps claims answerable to doubt and evidence.
+- [[ObservationBeforeInference]] - separation between what was measured and what explains it.
+- [[NegativeResultsAsScientificData]] - conditions under which null or failed work supports cumulative correction.
+- [[ResearchIntegrityIncentives]] - institutional design affecting whether checking is rewarded.
+- [[WeakSignalDetection]] - measurement domain where foreground attribution makes revision especially important.
+- [[RationalHumility]] - willingness to narrow confidence without abandoning inquiry.

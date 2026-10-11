@@ -15117,6 +15117,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/andrewjohnson/"
     },
+    "AndrewLange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/andrewlange/"
+    },
     "AndrewLoogOldham": {
       "episode_count": 1,
       "show_count": 1,
@@ -20298,9 +20314,9 @@
       "url": "/wiki/concepts/associativeknowledgesystems/"
     },
     "AstrologicalInterpretationEvidenceBoundary": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "CKwRIJEE0pslABAAAADNPAMW [CKwRIJEE0pslABAAAADNPAMW].md",
@@ -20315,9 +20331,16 @@
           "show": "Economist Podcasts",
           "title": "Gilets jeunes? France’s school protests",
           "url": "/wiki/sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057/"
+        },
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
     "Atahualpa": {
@@ -23293,6 +23316,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/bbc/"
+    },
+    "BICEPExperiment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/bicepexperiment/"
     },
     "BNB": {
       "episode_count": 1,
@@ -32022,6 +32061,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/brianjones/"
+    },
+    "BrianKeating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/briankeating/"
     },
     "BrianRudolph": {
       "episode_count": 1,
@@ -55135,6 +55190,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cosmiccrisp/"
+    },
+    "CosmologicalInferenceLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/cosmologicalinferencelimits/"
     },
     "CosmopolitanChineseScholarship": {
       "episode_count": 2,
@@ -86011,6 +86082,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/extracellularagingenzymetherapy/"
     },
+    "ExtremeEnvironmentPhysics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP248 在高原与地下，探寻中国“大科学项目” [liDN7xXkCw4--66fW_Y50FqqAcWo].md",
+          "key": "ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo",
+          "show": "Talk三联",
+          "title": "EP248 在高原与地下，探寻中国“大科学项目”",
+          "url": "/wiki/sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo/"
+        },
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/extremeenvironmentphysics/"
+    },
     "ExtremeEnvironmentRiskManagement": {
       "episode_count": 6,
       "show_count": 5,
@@ -99787,6 +99881,29 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/galileanjudeanculturalboundary/"
+    },
+    "GalileoGalilei": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "174.读笛卡尔，是件大事 [966856702].md",
+          "key": "174-du-dikaer-shi-jian-dashi-966856702",
+          "show": "蜜獾吃书",
+          "title": "174.读笛卡尔，是件大事",
+          "url": "/wiki/sources/174-du-dikaer-shi-jian-dashi-966856702/"
+        },
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/galileogalilei/"
     },
     "GallLakota": {
       "episode_count": 1,
@@ -131498,6 +131615,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/institutionalizedfantasyworldbuilding/"
+    },
+    "InstrumentExtendedObservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/instrumentextendedobservation/"
     },
     "InstrumentOfGovernment1653": {
       "episode_count": 1,
@@ -231394,6 +231527,57 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/scientificprecariat/"
     },
+    "ScientificSelfCorrection": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717 [default.mp3_ywr3ahjkcgo_182143d8598669fdeddc5d77e0d6eb02_37439717].md",
+          "key": "dont-hate-the-replicator-hate-the-game",
+          "show": "Planet Money",
+          "title": "Don't hate the replicator, hate the game",
+          "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
+        },
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "68.疯狂实验史：哎！这该死的求知欲… [664384549].md",
+          "key": "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549",
+          "show": "蜜獾吃书",
+          "title": "68.疯狂实验史：哎！这该死的求知欲…",
+          "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+        },
+        {
+          "episode_file": "185.魔鬼出没的世界：关于阴谋论（UFO,外星人绑架案,麦田圈,X档案,揭秘日... [996181368].md",
+          "key": "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368",
+          "show": "蜜獾吃书",
+          "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+          "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+        },
+        {
+          "episode_file": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举” [565412437].md",
+          "key": "19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437",
+          "show": "蜜獾吃书",
+          "title": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”",
+          "url": "/wiki/sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437/"
+        },
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/scientificselfcorrection/"
+    },
     "ScientistModeThinking": {
       "episode_count": 1,
       "show_count": 1,
@@ -274920,6 +275104,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/weakpositionpacification/"
+    },
+    "WeakSignalDetection": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP248 在高原与地下，探寻中国“大科学项目” [liDN7xXkCw4--66fW_Y50FqqAcWo].md",
+          "key": "ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo",
+          "show": "Talk三联",
+          "title": "EP248 在高原与地下，探寻中国“大科学项目”",
+          "url": "/wiki/sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo/"
+        },
+        {
+          "episode_file": "SCIM7184460321 [SCIM7184460321].md",
+          "key": "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321",
+          "show": "Huberman Lab",
+          "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
+          "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/weaksignaldetection/"
     },
     "WeaknessAsPoliticalLiability": {
       "episode_count": 1,

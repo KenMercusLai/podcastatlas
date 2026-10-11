@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13258
+wiki_total_pages: 13261
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "Bibigo"
     title: "Bibigo"
     url: "/wiki/entities/bibigo/"
+  - key: "BICEPExperiment"
+    title: "BICEP Experiment"
+    url: "/wiki/entities/bicepexperiment/"
   - key: "BiffLoman"
     title: "Biff Loman / 彼夫·洛曼"
     url: "/wiki/entities/biffloman/"
@@ -1133,6 +1136,9 @@ wiki_pages:
   - key: "BrianJones"
     title: "Brian Jones"
     url: "/wiki/entities/brianjones/"
+  - key: "BrianKeating"
+    title: "Brian Keating"
+    url: "/wiki/entities/briankeating/"
   - key: "BrianKrebs"
     title: "Brian Krebs"
     url: "/wiki/entities/briankrebs/"
