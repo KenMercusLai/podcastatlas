@@ -158093,6 +158093,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/linjianxinstandup/"
     },
+    "LinPingzhiJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loL5giuoZDaBlDw5ypqqojUUmg2X [loL5giuoZDaBlDw5ypqqojUUmg2X].md",
+          "key": "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x",
+          "show": "纸醉金迷FM",
+          "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
+          "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/linpingzhijinyong/"
+    },
     "LinShiyin": {
       "episode_count": 1,
       "show_count": 1,
@@ -158323,9 +158339,9 @@
       "url": "/wiki/entities/lingtong/"
     },
     "LinghuChongJinYong": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltuyKSFegJY58-C2_AaMCnhzcaTn [ltuyKSFegJY58-C2_AaMCnhzcaTn].md",
@@ -158333,6 +158349,13 @@
           "show": "纸醉金迷FM",
           "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
           "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        },
+        {
+          "episode_file": "loL5giuoZDaBlDw5ypqqojUUmg2X [loL5giuoZDaBlDw5ypqqojUUmg2X].md",
+          "key": "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x",
+          "show": "纸醉金迷FM",
+          "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
+          "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
         }
       ],
       "updated": "2026-10-12",
@@ -174746,9 +174769,9 @@
       "url": "/wiki/entities/marthawashington/"
     },
     "MartialArtsCharacterFateEncoding": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lupg1KT3VMJTOsukkZa7sCRAi2GG [lupg1KT3VMJTOsukkZa7sCRAi2GG].md",
@@ -174763,6 +174786,13 @@
           "show": "纸醉金迷FM",
           "title": "017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？",
           "url": "/wiki/sources/lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b/"
+        },
+        {
+          "episode_file": "loL5giuoZDaBlDw5ypqqojUUmg2X [loL5giuoZDaBlDw5ypqqojUUmg2X].md",
+          "key": "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x",
+          "show": "纸醉金迷FM",
+          "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
+          "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
         }
       ],
       "updated": "2026-10-12",
@@ -232632,6 +232662,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/rulebounddetectiveplotinnovation/"
     },
+    "RuleInternalizationCreativeFreedom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loL5giuoZDaBlDw5ypqqojUUmg2X [loL5giuoZDaBlDw5ypqqojUUmg2X].md",
+          "key": "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x",
+          "show": "纸醉金迷FM",
+          "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
+          "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/ruleinternalizationcreativefreedom/"
+    },
     "RuleOverKinshipPower": {
       "episode_count": 6,
       "show_count": 1,
@@ -288320,9 +288366,9 @@
       "url": "/wiki/entities/xiaoa/"
     },
     "XiaoAoJiangHu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -288344,6 +288390,13 @@
           "show": "纸醉金迷FM",
           "title": "009 如果活在《笑傲江湖》的世界，你会选择成为谁？",
           "url": "/wiki/sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn/"
+        },
+        {
+          "episode_file": "loL5giuoZDaBlDw5ypqqojUUmg2X [loL5giuoZDaBlDw5ypqqojUUmg2X].md",
+          "key": "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x",
+          "show": "纸醉金迷FM",
+          "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
+          "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
         }
       ],
       "updated": "2026-10-12",
@@ -296562,6 +296615,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/yuelaosan/"
+    },
+    "YueLingshanJinYong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loL5giuoZDaBlDw5ypqqojUUmg2X [loL5giuoZDaBlDw5ypqqojUUmg2X].md",
+          "key": "lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x",
+          "show": "纸醉金迷FM",
+          "title": "008 无招胜有招｜闲话金庸《笑傲江湖》中的武功",
+          "url": "/wiki/sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yuelingshanjinyong/"
     },
     "YueNvJian": {
       "episode_count": 2,

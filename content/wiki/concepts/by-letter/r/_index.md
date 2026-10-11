@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10460
+wiki_total_pages: 10461
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1424,6 +1424,9 @@ wiki_pages:
   - key: "RuleIdolatry"
     title: "Rule Idolatry"
     url: "/wiki/concepts/ruleidolatry/"
+  - key: "RuleInternalizationCreativeFreedom"
+    title: "Rule Internalization and Creative Freedom / 规则内化与创造性自由"
+    url: "/wiki/concepts/ruleinternalizationcreativefreedom/"
   - key: "RuleOverKinshipPower"
     title: "Rule Over Kinship Power / 法度压过亲缘特权"
     url: "/wiki/concepts/ruleoverkinshippower/"

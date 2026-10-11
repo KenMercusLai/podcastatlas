@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [008 无招胜有招｜闲话金庸《笑傲江湖》中的武功](sources/lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x.md) — 纸醉金迷FM以“武如其人”和独孤九剑讨论武功如何编码人物、规则如何内化为创造性自由，并以岳灵珊与林平之检验痴情、复仇、权力欲和责任。
 - [009 如果活在《笑傲江湖》的世界，你会选择成为谁？](sources/ltuyskfegjy58-c2_aamcnhzcatn-ltuyskfegjy58-c2_aamcnhzcatn.md) — 纸醉金迷FM以向问天、方证、冲虚和令狐冲讨论忠诚、利益与门派均衡，并以仪琳、桃谷六仙和影视版本展开爱情伦理、暴力喜剧及改编接受。
 - [010 一见杨过误终身|闲话金庸《神雕侠侣》里的爱情](sources/lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden.md) — 纸醉金迷FM以陆无双、程英、公孙绿萼和郭芙区分轻松吸引、克制深情、致命牺牲与敌意依恋，并检验爱情中的互惠、排他和社会认同。
 - [011 十六岁的那场烟花，与十六年的生死茫茫|漫话《神雕侠侣》之郭襄与小龙女](sources/ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h.md) — 纸醉金迷FM以四次分离检验杨过与小龙女的爱情、沟通和社会压力，并以郭襄说明深刻而未必互惠的爱不取消独立人生。
@@ -4643,6 +4644,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [林平之（金庸小说） / Lin Pingzhi (Jin Yong)](entities/LinPingzhiJinYong.md) — 《笑傲江湖》中从灭门受害者走向复仇、权力欲与加害的悲剧人物。
+- [岳灵珊（金庸小说） / Yue Lingshan (Jin Yong)](entities/YueLingshanJinYong.md) — 《笑傲江湖》中以忠诚、否认和受限女性出路构成悲剧的角色。
 - [令狐冲（金庸小说） / Linghu Chong (Jin Yong)](entities/LinghuChongJinYong.md) — 拒绝以职位定义自我却因武功、婚姻、感恩与跨门派关系持续具有政治分量的《笑傲江湖》主角。
 - [向问天（金庸小说） / Xiang Wentian (Jin Yong)](entities/XiangWentianJinYong.md) — 将忠诚、利益、谋略、调停、严酷手段与继位后克制结合起来的日月神教人物。
 - [仪琳（金庸小说） / Yilin (Jin Yong)](entities/YilinJinYong.md) — 以照料、不打扰他人幸福和严苛道德自省表达单恋，同时承受沉默代价的恒山人物。
@@ -18137,6 +18140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Rule Internalization and Creative Freedom / 规则内化与创造性自由](concepts/RuleInternalizationCreativeFreedom.md) — 从固定形式、原则理解到情境化即兴的学习路径，同时保留身体与执行条件。
 - [Strategic Loyalty and Factional Balance / 策略性忠诚与门派均衡](concepts/StrategicLoyaltyFactionalBalance.md) — 忠诚可与地位、利益、调停、组织延续和均势策略同时存在，真实关系也能成为非强制性的政治联结。
 - [Human-Centered Xianxia Cultivation / 人道优先的仙侠修行](concepts/XianxiaHumanCenteredCultivation.md) — 以“先修人道，再修仙道”把对生命的责任置于力量、长生、门派荣耀与飞升之前的仙侠伦理。
 - [Sectarian Identity Moral Misclassification / 门派身份的道德误判](concepts/SectarianIdentityMoralMisclassification.md) — 拒绝以正邪门派、人妖物种或机构归属直接判定善恶，转而检验行为、后果、同意、修复与责任。

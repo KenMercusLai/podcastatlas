@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13424
+wiki_total_pages: 13426
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "YueWanrou"
     title: "岳宛柔 / Yue Wanrou"
     url: "/wiki/entities/yuewanrou/"
+  - key: "YueLingshanJinYong"
+    title: "岳灵珊（金庸小说） / Yue Lingshan (Jin Yong)"
+    url: "/wiki/entities/yuelingshanjinyong/"
   - key: "YueLaosan"
     title: "岳老三 / 南海鳄神 / Yue Laosan"
     url: "/wiki/entities/yuelaosan/"

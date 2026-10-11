@@ -36405,3 +36405,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 008 无招胜有招｜闲话金庸《笑傲江湖》中的武功
+
+Added source `lol5giuozdabldw5ypqqojuumg2x-lol5giuozdabldw5ypqqojuumg2x`; created [[LinPingzhiJinYong|林平之]], [[YueLingshanJinYong|岳灵珊]], and [[RuleInternalizationCreativeFreedom|规则内化与创造性自由]]; and resynthesized [[XiaoAoJiangHu|《笑傲江湖》]], [[LinghuChongJinYong|令狐冲]], and [[MartialArtsCharacterFateEncoding|武功对人物与命运的编码]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: “无招” is achieved principle-guided improvisation rather than the absence of foundations, and its effectiveness remains bounded by internal power, speed, and embodiment; martial styles can externalize character and institutional temperament when recurring conduct supports the association; Lin Pingzhi's victimization explains but does not excuse the expansion of revenge into domination and lethal harm; and Yue Lingshan's final loyalty remains sincere while also exposing denial and constrained female agency. No settled contradiction was adopted. Political symbolism, technique-name associations, martial rankings, authorial design, motives, dialogue, chronology, gender explanation, and combat mechanics remain interpretive or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,559 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
