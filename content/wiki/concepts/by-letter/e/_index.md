@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10454
+wiki_total_pages: 10456
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "EmbeddedForeignReporting"
     title: "Embedded Foreign Reporting"
     url: "/wiki/concepts/embeddedforeignreporting/"
+  - key: "EmbeddedAgentOperationalValue"
+    title: "Embedded-Agent Operational Value / 潜伏者的行动价值"
+    url: "/wiki/concepts/embeddedagentoperationalvalue/"
   - key: "EmbodiedActingImprovisation"
     title: "Embodied Acting Improvisation / 具身表演即兴"
     url: "/wiki/concepts/embodiedactingimprovisation/"

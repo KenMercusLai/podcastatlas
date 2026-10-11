@@ -36349,3 +36349,11 @@ Added source `ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 015 范遥是个好卧底吗？武当七侠在明争暗斗？|再谈《倚天屠龙记》中的配角人物
+
+Added source `lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b`; created [[HeavenSwordDragonSaber|《倚天屠龙记》]], [[FanYaoJinYong|范遥]], [[YuLianzhouJinYong|俞莲舟]], [[EmbeddedAgentOperationalValue|潜伏者的行动价值]], and [[FictionalFactionalInferenceBoundary|虚构派系解读边界]]. Core synthesis: duration and sacrifice do not by themselves make an effective embedded agent; Fan Yao's missing reports and warning weaken his record, while his access and decisive 万安寺 intervention materially improve it without erasing earlier silence. Yu Lianzhou's strength matters together with calibrated force, risk judgment, and procedural restraint. No settled contradiction was adopted. Fan Yao's original motive, alleged poisoning of 韩千叶, romantic causation, exact dialogue and chronology, martial rankings, authorial intent, and proposed Wudang succession camps remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused novel, character, and concept pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

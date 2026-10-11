@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13400
+wiki_total_pages: 13403
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "FanJin"
     title: "范进"
     url: "/wiki/entities/fanjin/"
+  - key: "FanYaoJinYong"
+    title: "范遥（金庸小说） / Fan Yao (Jin Yong)"
+    url: "/wiki/entities/fanyaojinyong/"
   - key: "FanXinyu"
     title: "范鑫宇 / Fan Xinyu"
     url: "/wiki/entities/fanxinyu/"

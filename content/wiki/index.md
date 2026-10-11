@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [015 范遥是个好卧底吗？武当七侠在明争暗斗？|再谈《倚天屠龙记》中的配角人物](sources/lij8oowqxh0k2kmz8akkfe9ijc7b-lij8oowqxh0k2kmz8akkfe9ijc7b.md) — 纸醉金迷FM以范遥的长期沉默与万安寺立功检验潜伏价值，并以俞莲舟的克制和判断讨论武当继承，同时明确区分文本事实与趣味派系推测。
 - [016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？](sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh.md) — 纸醉金迷FM以李莫愁为中心，比较情伤如何导向复仇、牺牲、放下、平常生活或相互毁灭，并在同情与责任之间保留张力。
 - [017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？](sources/lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b.md) — 纸醉金迷FM以叙事视角、家庭与公共责任重评黄蓉，并以剑冢、黯然销魂掌和玉女心经讨论武功如何承载成长、情绪与关系。
 - [018 趣谈金庸处女作《书剑恩仇录》|百花错，开头是错，结尾还是错](sources/lupg1kt3vmjtosukkza7scrai2gg-lupg1kt3vmjtosukkza7scrai2gg.md) — 纸醉金迷FM从历史结局约束、红花会群像和兵器武功设计重读金庸首作，并以百花错拳串联陈家洛的判断、爱情与政治悲剧。
@@ -4636,6 +4637,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以配角的隐藏忠诚、职业竞争、生存策略与武当继承连接人物复杂性，并保留派系解读的证据边界。
+- [范遥（金庸小说） / Fan Yao (Jin Yong)](entities/FanYaoJinYong.md) — 长期潜伏却缺少可见报告，又在万安寺救援中发挥决定作用，并以自罚和跨阵营情感构成忠诚歧义的明教人物。
+- [俞莲舟（金庸小说） / Yu Lianzhou (Jin Yong)](entities/YuLianzhouJinYong.md) — 以武功、克制、风险判断与程序分寸获得掌门继承正当性的武当人物。
 - [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、角色责任、武功设计与配角对情伤的分歧选择组织人物评价。
 - [李莫愁 / Li Mochou](entities/LiMochou.md) — 把被抛弃感扩大为复仇与求死，却仍保留母性、旧情与被坚定选择渴望的《神雕侠侣》人物。
 - [黄蓉 / Huang Rong](entities/HuangRong.md) — 智慧、戒备、亲疏偏向与公共担当并存，并因叙事站位和成年角色变化而受到道德重评的金庸人物。
@@ -18106,6 +18110,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Embedded-Agent Operational Value / 潜伏者的行动价值](concepts/EmbeddedAgentOperationalValue.md) — 将潜伏时长与实际报告、预警、准入、启用效果、关系管理及归队问责分开评价。
+- [Fictional Factional Inference Boundary / 虚构派系解读边界](concepts/FictionalFactionalInferenceBoundary.md) — 区分故事明示、受约束的动机推断与仅具娱乐性的权力派系想象。
 - [Narrative-Perspective Moral Reevaluation / 叙事视角驱动的道德重评](concepts/NarrativePerspectiveMoralReevaluation.md) — 叙事焦点和冲突对象变化使稳定性格获得不同道德标签，同时以证据更新、角色责任和实际伤害校准评价。
 - [Relational Self-Concept Selection / 亲密关系选择与自我概念](concepts/RelationalSelfConceptSelection.md) — 亲密关系选择部分取决于关系让人体验为平等伙伴、保护者、权威、救援者或不足者中的哪一种自我。
 - [Ensemble Character Differentiation / 群像人物区分](concepts/EnsembleCharacterDifferentiation.md) — 以冲突、独立支线、关系、职责和行动后果区分大型群像，并把外貌、称号和兵器限定为辅助标记。
