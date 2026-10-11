@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13245
+wiki_total_pages: 13247
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "Philippines"
     title: "Philippines"
     url: "/wiki/entities/philippines/"
+  - key: "PhiloOfAlexandria"
+    title: "Philo of Alexandria"
+    url: "/wiki/entities/philoofalexandria/"
   - key: "PhoebeBridgers"
     title: "Phoebe Bridgers"
     url: "/wiki/entities/phoebebridgers/"

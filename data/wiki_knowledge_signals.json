@@ -203099,6 +203099,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/philippines/"
     },
+    "PhiloOfAlexandria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/philoofalexandria/"
+    },
     "PhilologicalWorldbuilding": {
       "episode_count": 1,
       "show_count": 1,
@@ -210681,9 +210697,9 @@
       "url": "/wiki/entities/princessedelamballe/"
     },
     "PrincipateConstitutionalFiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6260105026 [GLT6260105026].md",
@@ -210691,6 +210707,13 @@
           "show": "The Rest Is History",
           "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
           "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
+        },
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
         }
       ],
       "updated": "2026-10-11",
@@ -225929,9 +225952,9 @@
       "url": "/wiki/concepts/romancrucifixionaspublichumiliation/"
     },
     "RomanEliteLeisure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9939678940 [GLT9939678940].md",
@@ -225939,9 +225962,16 @@
           "show": "The Rest Is History",
           "title": "224. Roman Holidays",
           "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        },
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/romaneliteleisure/"
     },
     "RomanEmpire": {
@@ -232493,6 +232523,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/seizurefirstaidboundary/"
+    },
+    "Sejanus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/sejanus/"
     },
     "SelectServiceHotelModel": {
       "episode_count": 1,
@@ -249066,9 +249112,9 @@
       "url": "/wiki/entities/sudutechnology/"
     },
     "Suetonius": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7241559003 [GLT7241559003].md",
@@ -249083,6 +249129,13 @@
           "show": "The Rest Is History",
           "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
           "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
+        },
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
         }
       ],
       "updated": "2026-10-11",
@@ -252267,9 +252320,9 @@
       "url": "/wiki/concepts/tacitgratituderestraint/"
     },
     "Tacitus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -252291,9 +252344,16 @@
           "show": "The Rest Is History",
           "title": "105. Classics",
           "url": "/wiki/sources/105-classics-glt1093096549/"
+        },
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/tacitus/"
     },
     "TacticalCredibilityCost": {
@@ -259846,9 +259906,9 @@
       "url": "/wiki/entities/tiaozhikingdom/"
     },
     "Tiberius": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9939678940 [GLT9939678940].md",
@@ -259863,6 +259923,13 @@
           "show": "The Rest Is History",
           "title": "536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)",
           "url": "/wiki/sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026/"
+        },
+        {
+          "episode_file": "GLT6029756405 [GLT6029756405].md",
+          "key": "535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405",
+          "show": "The Rest Is History",
+          "title": "535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)",
+          "url": "/wiki/sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405/"
         }
       ],
       "updated": "2026-10-11",

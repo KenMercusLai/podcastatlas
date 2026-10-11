@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？](sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p.md) — 纸醉金迷FM批评《射雕英雄传：侠之大者》的压缩、人物因果、特效化动作与未获铺垫的反战主题，同时保留蒙古段落、华筝、配角和语言设计等局部优点。
 - [536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)](sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026.md) — The Rest Is History reassessment of Caligula's dynastic appeal, populist spectacle, senatorial terror, military power, assassination, and hostile-source reputation.
+- [535. Emperors of Rome: Tiberius, Slaughter and Scandal (Part 2)](sources/535-emperors-of-rome-tiberius-slaughter-and-scandal-part-2-glt6029756405.md) — The Rest Is History reassessment of Tiberius's military and administrative competence, Capri withdrawal, dynastic repression, constitutional tension, and unstable hostile-source reputation.
 - [VOL.150大物是也·大白牛：NMN、氨糖 、护肝片、辅酶…这些爆款保健品真的靠谱吗？](sources/vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o.md) — 这病说来话长 episode on supplement necessity, marketing, evidence levels, glucosamine, NMN, surrogate liver markers, and lifestyle-first safety boundaries.
 - [Essentials: The Science of Emotions & Relationships](sources/scim1654683440-scim1654683440.md) — Condensed Huberman Lab episode on emotion coordinates, attachment development, puberty, social hormones, attention shifting, and the boundary that vagal signaling is not uniformly calming.
 - [050 新浪潮：徐克武侠电影大回顾](sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg.md) — 纸醉金迷FM按年代回顾徐克武侠电影，以剪辑、美术、动作、技术实验和改编自洽性解释其作者风格、九十年代高峰与后期转向。
@@ -5852,7 +5853,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thomas Cook](entities/ThomasCook.md) — Organized-travel enterprise used as the historical model for guided tours, package coordination, and the pre-internet agent age.
 - [Billy Butlin](entities/BillyButlin.md) — Entrepreneur who scaled affordable British holiday camps through inclusive pricing, activities, and managed participation.
 - [Vladimir Raitz](entities/VladimirRaitz.md) — Charter-flight pioneer who bundled transport, accommodation, food, recreation, and local representation for postwar British travelers.
-- [Tiberius](entities/Tiberius.md) — Roman emperor whose withdrawal to Capri turned cultivated retreat into a crisis of privacy, reputation, and political absence.
+- [Tiberius](entities/Tiberius.md) — Accomplished second Roman emperor whose stable administration, Capri withdrawal, dynastic repression, and hostile literary afterlife resist a single verdict.
+- [Sejanus](entities/Sejanus.md) — Tiberius's Praetorian prefect and deputy whose power, alleged conspiracy, and fall intensified the later reign's repression and reputation.
+- [Philo of Alexandria](entities/PhiloOfAlexandria.md) — Alexandrian Jewish philosopher whose praise of Tiberius preserves a favorable near-contemporary tradition against hostile Roman accounts.
 - [Edith Tolkien](entities/EdithTolkien.md) — Tolkien's wife and wartime companion whose 1917 dance became the biographical seed for Beren and Luthien.
 - [Tea Club Barrovian Society](entities/TeaClubBarrovianSociety.md) — Tolkien's school literary circle joining Edwardian fellowship, medieval interests, and First World War loss.
 - [The Fall of Gondolin](entities/TheFallOfGondolin.md) — Early Tolkien legendarium story joining a doomed city, mechanical dragons, and wartime formation.
@@ -6745,7 +6748,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Craig Koniver](entities/CraigKoniver.md) — Physician guest presenting a performance-medicine approach to supervised peptides, NAD, mitochondrial support, and hormone-adjacent interventions.
 - [Roman Britain](entities/RomanBritain.md) — Roman province preceded by Caesar's temporary interventions and later shaped by occupation, infrastructure, taxation, elite incorporation, and a reversible northern frontier.
 - [Gnaeus Julius Agricola](entities/GnaeusJuliusAgricola.md) — Governor who combined Welsh and Caledonian campaigns with civil administration in Roman Britain.
-- [Tacitus](entities/Tacitus.md) — Agricola's son-in-law and biographer, used as both a key source and a morally ambivalent interpreter of empire.
+- [Tacitus](entities/Tacitus.md) — Roman historian used as an indispensable but interested source for conquest, early imperial rule, and later criticism of autocracy.
 - [Antoine Barnave](entities/AntoineBarnave.md) — Constitutional monarchist who tried to stabilize the Revolution through the compromised 1791 settlement.
 - [Champ de Mars Massacre](entities/ChampDeMarsMassacre.md) — July 1791 rupture in which revolutionary authorities fired on a republican petition gathering.
 - [Cordeliers Club](entities/CordeliersClub.md) — Radical club that helped turn Varennes into a mass republican petition campaign.
@@ -17704,7 +17707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Georges-Eugène Haussmann](entities/GeorgesEugeneHaussmann.md) — Second Empire administrator whose infrastructure and demolitions decisively reshaped modern Paris.
 - [Agrippina the Younger](entities/AgrippinaTheYounger.md) — Julio-Claudian dynastic broker whose marriage, lineage, and son's adoption enabled Nero's accession before their conflict ended in her murder.
 - [Seneca](entities/Seneca.md) — Stoic philosopher and early Neronian adviser whose estrangement ended in forced suicide.
-- [Suetonius](entities/Suetonius.md) — Roman biographer whose vivid account of Nero is indispensable but shaped by genre, hostility, and moral design.
+- [Suetonius](entities/Suetonius.md) — Roman biographer whose vivid imperial lives preserve politics, scandal, folklore, and moral design in unstable combination.
 - [Great Fire of Rome](entities/GreatFireOfRome.md) — Nine-day urban disaster linking Neronian relief and rebuilding to arson accusation, Christian punishment, and historical memory.
 - [Camille Paglia / 卡米尔·帕利亚](entities/CamillePaglia.md) — Cultural critic presented through her challenge to total social-construction accounts of gender, sexuality, civilization, and maternity.
 - [《性面具》 / Sexual Personae](entities/SexualPersonae.md) — Paglia work interpreted through nature, sexuality, civilizational order, and maternal embodiment, with its binary psychoanalytic claims kept source-scoped.
@@ -17860,7 +17863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
-- [Principate Constitutional Fiction](concepts/PrincipateConstitutionalFiction.md) — Gap between republican partnership forms and the dynastic, popular, Praetorian, and legionary basis of early imperial power.
+- [Principate Constitutional Fiction](concepts/PrincipateConstitutionalFiction.md) — Gap between republican partnership forms and inherited monarchical, dynastic, popular, Praetorian, and legionary power.
 - [Mindful Noticing Under Uncertainty](concepts/MindfulNoticingUnderUncertainty.md) — Ellen Langer's mindfulness framework of actively noticing change, novelty, distinctions, and conditionality in ordinary life.
 - [Roman Imperial Succession](concepts/RomanImperialSuccession.md) — Unstable coalition process joining dynasty, adoption, court control, Senate and popular acceptance, donatives, and armed backing.
 - [Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化](concepts/TechnologyDrivenWuxiaModernization.md) — 通过制作技术与故事内技术共同重塑武侠动作、空间、视觉奇观及传统遭遇现代性的电影路径。
@@ -18947,7 +18950,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modern Mass Tourism](concepts/ModernMassTourism.md) — Widening leisure travel through paid time, mobility, commercial bundling, resort infrastructure, state policy, and rising incomes.
 - [Organized Holiday Intermediation](concepts/OrganizedHolidayIntermediation.md) — Coordination of travel through clubs, camps, agents, operators, representatives, brochures, and later digital platforms.
 - [Holiday Improvement Ideology](concepts/HolidayImprovementIdeology.md) — Expectation that holidays should improve health, knowledge, character, fellowship, or taste while signaling social position.
-- [Roman Elite Leisure](concepts/RomanEliteLeisure.md) — Privileged rest made legitimate through cultivation, status discipline, and continuing public responsibility.
+- [Roman Elite Leisure](concepts/RomanEliteLeisure.md) — Privileged rest made legitimate through cultivation and status discipline, with rulerly privacy creating special risks of absence, delegation, and scandal.
 - [Ancient Roman Tourism](concepts/AncientRomanTourism.md) — Elite travel joining education, myth, ruins, cultural prestige, plunder, heritage staging, and pilgrimage.
 - [Philological Worldbuilding](concepts/PhilologicalWorldbuilding.md) — Language-first method in which words, names, registers, and textual fragments generate imagined peoples, histories, and worlds.
 - [Mythology for England](concepts/MythologyForEngland.md) — Tolkien's project of answering perceived English mythic loss through philological reconstruction and literary invention.
