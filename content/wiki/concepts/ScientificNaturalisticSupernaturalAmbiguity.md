@@ -5,6 +5,7 @@ tags: [narrative, horror, supernatural, explanation, ambiguity]
 sources:
   - 071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf
   - 069-quhua-gui-chuideng-zhi-longling-miku-youling-mizhong-zuzhou-chuxian-lpqnn8ki4nmpxhhac4w59le1t2ar
+  - 062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -23,11 +24,14 @@ The larger ontology remains open. The earlier Western Zhou tomb still appears as
 
 The hosts value the oscillation rather than total disenchantment. Some strange events receive naturalistic-sounding mechanisms, while corpse transformation, occult danger and residual anomalies remain available to horror. Explanation creates a temporary sense that the world is learnable; the remainder protects uncertainty and fear.
 
+The earlier [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]] prelude clarifies that the balance also depends on allocation and duration. Creatures, mechanisms, a transformed corpse and an underground military structure carry physical action because they can be observed, resisted or redirected. Ghostly figures and the preserved children's apparitions remain brief, displaced and incompletely explained. The supernatural therefore supplies intrusion and afterimage without becoming a repeatedly displayed opponent, while humor releases tension without denying danger.
+
 ## Key Claims
 
 - Physiological or ecological vocabulary can make a supernatural premise feel materially consequential.
 - Patterned symptoms create investigable rules without establishing real-world scientific validity.
 - Local naturalization can restore agency even when the world retains a supernatural ontology.
+- Assigning extended action to embodied threats while keeping apparitions brief can preserve both agency and fear.
 - Complete explanation can reduce horror when it removes all ontological uncertainty.
 - Residual anomalies let rational inquiry and supernatural possibility coexist.
 - Plausible-sounding language must remain clearly separated from verified medicine or science.
@@ -51,13 +55,17 @@ The hosts value the oscillation rather than total disenchantment. Some strange e
 
 - [[071-quhua-gui-chuideng-zhi-qianchen-wangshi-banshan-daoren-zhegu-shao-lousokjtb96twcfuz1tros-vkgcf]] uses the hosts' comparison with over-explained horror to frame total causal closure as a possible loss of fear.
 
+### Threat allocation and duration
+
+- [[062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw]] contrasts physically consequential monsters, mechanisms and corpse threats with apparitions that appear briefly and remain unexplained.
+
 ## Counterevidence & Qualifications
 
 The sources are literary conversations rather than horror theory or scientific analysis. “Naturalistic” here describes narrative presentation, not accuracy: staircase engineering, absorptive materials, giant spiders, iron loss, inherited curse mechanics, toxic insects and other pseudo-technical explanations remain fictional or source-scoped. Ambiguity can also become incoherence when several incompatible mechanisms are introduced without a stable boundary or useful consequence.
 
 ## What Changed
 
-- Added the distinction between locally solvable mechanisms and a surviving supernatural world model.
+- Added duration and threat allocation: embodied dangers sustain action, while brief apparitions preserve an unresolved afterimage.
 
 ## Related Concepts
 
@@ -66,3 +74,4 @@ The sources are literary conversations rather than horror theory or scientific a
 - [[RuleBoundAdventureProblemSolving]] - adjacent pattern in which partial knowledge becomes operational action.
 - [[GhostBlowsOutTheLight|《鬼吹灯》]] - principal fictional case for the current formulation.
 - [[LonglingMazeGhostBlowsOutTheLight|《龙岭迷窟》]] - bounded novel context for the curse explanation.
+- [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]] - case for separating extended physical conflict from brief supernatural intrusion.

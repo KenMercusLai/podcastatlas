@@ -35466,3 +35466,13 @@ Added source `vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaos
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 062 盗墓小说开山之作：趣话《鬼吹灯》之序章，梦开始的地方！
+
+Added source `062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw`; created [[TianxiaBachang|天下霸唱]]; and resynthesized [[GhostBlowsOutTheLight|《鬼吹灯》]], [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]], [[HistoricalFantasySourceLayering]], and [[ScientificNaturalisticSupernaturalAmbiguity]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the long prelude grounds 胡八一's later competence and motives in family transmission, rural and military experience, a rule-breaking first raid, appraisal limits and archaeological-party recruitment; period reality, folk narrative, war remains, invented occupational systems, actionable physical threats and brief apparitions together establish the series' world and horror balance. No settled contradiction was adopted. Genre priority, Jin Yong influence, version and publication history, official-title history, geomancy, archaeology, biology, supernatural events and authorial planning remain source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]], individual-character and generic genre-legitimacy pages were kept closed because the focused source, author, work and craft pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,441 sources across 801 overview paragraphs and nine topics.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

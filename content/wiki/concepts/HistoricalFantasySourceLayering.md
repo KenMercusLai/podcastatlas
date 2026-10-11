@@ -8,7 +8,8 @@ sources:
   - 103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz
   - 078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9
   - 069-quhua-gui-chuideng-zhi-longling-miku-youling-mizhong-zuzhou-chuxian-lpqnn8ki4nmpxhhac4w59le1t2ar
-last_updated: 2026-10-07
+  - 062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,6 +33,8 @@ The opening of [[LonglingMazeGhostBlowsOutTheLight|《龙岭迷窟》]] makes th
 
 The combined evidence separates source layering from accuracy. [[FantasyMedievalRealism]] shows that borrowing medieval forms does not establish medieval frequency, capacity, psychology, belief, or moral norms; the 《昆仑神宫》 case shows that adjacency to real archaeology or folklore does not authenticate a fictional custom. The interpretive task is therefore twofold: identify useful source relations while preserving the boundary between historical resonance, modern projection, cultural texture, and one-to-one or existence claims.
 
+The [[JingjueAncientCityGhostBlowsOutTheLight|《精绝古城》]] prelude adds social and generic layering before archaeology becomes central. A family strange-tale cycle, educated-youth life, military service, a Japanese underground fortress, antique appraisal and oral-storytelling humor sit beside geomantic inheritance, corpse transformation, monsters and the four occupational branches. The historical and everyday layers do more than decorate the setting: they explain the protagonist's competence and make successive shifts among folk tale, war narrative, adventure and horror feel like one accumulated world. [[062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw]]
+
 ## Key Claims
 
 - Historical fantasy can feel old because institutions, beliefs, conflicts, and records have accumulated backstories.
@@ -53,14 +56,15 @@ The combined evidence separates source layering from accuracy. [[FantasyMedieval
 - Expanding fictional system: [[103-quhua-gui-chuideng-zhi-kunlun-shengong-tiesanjiao-zuihou-de-maoxian-lodvvup1wjp1wtnfzwign6a-xytz]] reads the 摸金、发丘、搬山 and 卸岭 branches as a setting that accumulated representative figures and specialized techniques during series development.
 - Material collision: [[078-quhua-gui-chuideng-zhi-yunnan-chonggu-1-tashang-tanxun-xianwang-mu-zhi-lu-lmww_kev-kvetbcuv-2ll9ayfq_9]] places a wartime aircraft and communications hardware inside a tree-and-coffin ritual environment while keeping the signal and geomantic mechanism unresolved.
 - Folklore-material adjacency: [[069-quhua-gui-chuideng-zhi-longling-miku-youling-mizhong-zuzhou-chuxian-lpqnn8ki4nmpxhhac4w59le1t2ar]] places drought lore, embroidered shoes, fish-bone temples and burial history beside likely invented geomancy and tomb-raiding systems.
+- Social and genre layering: [[062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw]] joins family legend, rural and military experience, war remains and antique markets to invented geomancy, lineages, creatures and tomb rules.
 
 ## Counterevidence & Qualifications
 
-The five sources are podcast interpretations centered on two fictional worlds, not a general survey of historical fantasy. Analogy can be illuminating without proving direct influence, and claims about authorial intent or development need stronger evidence than resemblance or perceived inconsistency. Modern-context readings should not erase older sources or imply that every element is allegorical. The 《鬼吹灯》 discussions identify likely invention but do not independently verify the historical, archaeological, religious, geomantic, material-cultural or folkloric claims surrounding it. Conversely, rejecting one-to-one mapping does not make all comparisons equally plausible.
+The six sources are podcast interpretations centered on two fictional worlds, not a general survey of historical fantasy. Analogy can be illuminating without proving direct influence, and claims about authorial intent or development need stronger evidence than resemblance or perceived inconsistency. Modern-context readings should not erase older sources or imply that every element is allegorical. The 《鬼吹灯》 discussions identify likely invention but do not independently verify the historical, archaeological, religious, geomantic, material-cultural or folkloric claims surrounding it. Conversely, rejecting one-to-one mapping does not make all comparisons equally plausible.
 
 ## What Changed
 
-- Added folklore and material culture as authority-bearing neighbors to invented geomancy and occupational lore.
+- Added period social life, war memory and generic shifts as layers that can ground character competence as well as setting texture.
 
 ## Related Concepts
 

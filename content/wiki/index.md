@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [062 盗墓小说开山之作：趣话《鬼吹灯》之序章，梦开始的地方！](sources/062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw.md) — 纸醉金迷FM从胡八一家传、知青与军旅经历讲到首次下墓和考古队组建，分析《鬼吹灯》如何融合时代生活、民间叙事、幽默、怪物与灵异留白。
 - [VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相](sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n.md) — 这病说来话长 episode with 谭思维 on hemorrhoid symptom thresholds, anorectal bleeding, fissure and fistula, treatment tradeoffs, and postoperative care.
 - [571. Hannibal: Roman Bloodbath at Cannae (Part 4)](sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695.md) — The Rest Is History episode on Cannae's supply-and-terrain setup, Roman mass, staged center withdrawal, cavalry-led double envelopment, physical horror, and incomplete strategic result.
 - [Essentials: Improving Health With Stronger Brain-Body Connection](sources/scim9382980793-scim9382980793.md) — Condensed Huberman Lab episode on interoception, branch-specific vagal signaling, breathing, gut sensing, fermented-food evidence, and clinical boundaries around nausea and fever.
@@ -4521,9 +4522,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [天下霸唱 / Tianxia Bachang](entities/TianxiaBachang.md) — 《鬼吹灯》作者，当前资料聚焦金庸影响、盗墓类型形成、虚实叠加的世界建构及网络版与出版版差异。
 - [谭思维 / Tan Siwei](entities/TanSiweiAnorectalDoctor.md) — Anorectal clinician explaining symptom-led hemorrhoid care, function-preserving procedures, and recovery boundaries.
 - [Cosimo de' Medici](entities/CosimoDeMedici.md) — Banker and patron who made Medici power durable through credit, clients, controlled republican institutions, diplomacy, and cultural sponsorship.
-- [《精绝古城》 / The Ancient City of Jingjue](entities/JingjueAncientCityGhostBlowsOutTheLight.md) — 《鬼吹灯》首部探险，以沙漠求生、分层遗迹、真假预言和鬼洞诅咒建立铁三角及系列谜团。
+- [《精绝古城》 / The Ancient City of Jingjue](entities/JingjueAncientCityGhostBlowsOutTheLight.md) — 《鬼吹灯》首部探险，以家传、军旅与首次下墓铺垫沙漠远征、分层遗迹、真假预言和鬼洞诅咒。
 - [Piero the Gouty](entities/PieroTheGouty.md) — Lorenzo's father, who preserved informal Medici succession while confronting bank overextension and elite opposition.
 - [Giuliano de' Medici](entities/GiulianoDeMedici.md) — Lorenzo's brother and the successful murder target of the 1478 Pazzi conspiracy.
 - [Pope Sixtus IV](entities/PopeSixtusIV.md) — Pope whose financial and political conflict with Lorenzo preceded ambiguous conspiracy authorization and open war.
@@ -5001,7 +5003,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [断指轩辕 / Duanzhi Xuanyuan](entities/DuanzhiXuanyuan.md) — 李大嘴之母与赌术高手，以惩罚、反复停手机会、恐惧和免债完成戒赌教育。
 - [《武林外传》 / My Own Swordsman](entities/WulinWaizhuan.md) — 以同福客栈为可变舞台，通过声音骗局、赌注升级、密集铺垫与人物自我矛盾连接喜剧和道德纠正。
 - [李大嘴 / Li Dazui](entities/LiDazui.md) — 既因孝心谎称武状元，也因初次获胜违背不赌承诺，在母亲的保护与问责之间显露人物复杂性。
-- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以关卡式冒险、民俗谜题、虚构生态、线索回收与同伴关系为核心，并从记忆之城、祭坛代价走向职业身份的退出选择。
+- [《鬼吹灯》 / Ghost Blows Out the Light](entities/GhostBlowsOutTheLight.md) — 以时代生活、民俗规则、可操作怪物、灵异留白和关卡式冒险建构盗墓世界，并将技能与同伴关系推向职业身份的退出选择。
 - [《龙岭迷窟》 / Longling Maze](entities/LonglingMazeGhostBlowsOutTheLight.md) — 《鬼吹灯》第二册的诅咒与谱系桥梁，以鹧鸪哨往事和献王墓地图把精绝线索转向云南。
 - [鹧鸪哨 / Zhegu Shao](entities/ZheguShao.md) — 扎格拉玛后裔与搬山道人，以规则约束下的能力、坦荡和付出代价仍未完成的雮尘珠使命进入当前知识。
 - [雮尘珠 / Muchen Pearl](entities/MuchenPearl.md) — 连接扎格拉玛诅咒、鹧鸪哨失败、Shirley杨继承使命与云南路线的虚构任务物。
