@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1559
+topic_total_pages: 1562
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -649,6 +649,9 @@ topic_concepts:
   - key: "DrawdownPsychology"
     title: "Drawdown Psychology"
     url: "/wiki/concepts/drawdownpsychology/"
+  - key: "DriveIntegrationUnderHigherAim"
+    title: "Drive Integration Under a Higher Aim"
+    url: "/wiki/concepts/driveintegrationunderhigheraim/"
   - key: "DrugRepurposing"
     title: "Drug Repurposing"
     url: "/wiki/concepts/drugrepurposing/"
@@ -1759,6 +1762,9 @@ topic_concepts:
   - key: "PostLearningArousalTagging"
     title: "Post-Learning Arousal Tagging"
     url: "/wiki/concepts/postlearningarousaltagging/"
+  - key: "PrayerAsAimFormation"
+    title: "Prayer as Aim Formation"
+    url: "/wiki/concepts/prayerasaimformation/"
   - key: "PredictiveHomeostaticControl"
     title: "Predictive Homeostatic Control"
     url: "/wiki/concepts/predictivehomeostaticcontrol/"
@@ -4236,6 +4242,9 @@ topic_sources:
   - key: "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780"
     title: "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky"
     url: "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
+  - key: "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629"
+    title: "How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson"
+    url: "/wiki/sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629/"
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"

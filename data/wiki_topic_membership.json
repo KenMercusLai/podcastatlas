@@ -31627,6 +31627,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DriveIntegrationUnderHigherAim": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DriveToSurvive": [
     {
       "key": "culture",
@@ -70036,6 +70043,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PrayerAsAimFormation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PreBritishAustralianContact": [
     {
       "key": "economics",
@@ -102982,6 +102996,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733": [

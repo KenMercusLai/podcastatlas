@@ -35860,3 +35860,10 @@ Added source `vol-146-wangshang-maiyao-kaopu-ma-jiazhong-beiyao-bu-caikeng-lncwc
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-11] ingest | How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson
+
+Added source `how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629`; created [[JordanPeterson]], [[DriveIntegrationUnderHigherAim]], [[ResponsibilityAsAdventure]], and [[PrayerAsAimFormation]]. Core synthesis: the episode treats impulses as organized motivational states that mature development coordinates under aims spanning other people and the future; it reframes responsibility as voluntary adventure and local repair; and it interprets prayer as orientation toward an ideal that may reorder attention and incentives while preserving the boundary between psychological function, metaphysical truth, and clinical efficacy. No settled contradiction was adopted. Neuroscience, addiction, pornography, demographic, political, religious-convergence, public-violence, and treatment claims remain interpretive or source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[DopamineWantingLoop]], [[PurposeIntegratedMotivation]], and [[ReligiousPracticeAsSpiritualTechnology]] pages were kept closed because the source, guest profile, and focused concepts capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

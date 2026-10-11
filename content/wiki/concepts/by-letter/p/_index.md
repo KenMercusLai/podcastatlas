@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10388
+wiki_total_pages: 10391
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "PragmaticReligiousToleration"
     title: "Pragmatic Religious Toleration"
     url: "/wiki/concepts/pragmaticreligioustoleration/"
+  - key: "PrayerAsAimFormation"
+    title: "Prayer as Aim Formation"
+    url: "/wiki/concepts/prayerasaimformation/"
   - key: "PrayerBreathRegulation"
     title: "Prayer-Breath Regulation"
     url: "/wiki/concepts/prayerbreathregulation/"

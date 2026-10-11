@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10388
+wiki_total_pages: 10391
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "ResponsibilityAgainstRomanticEscape"
     title: "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避"
     url: "/wiki/concepts/responsibilityagainstromanticescape/"
+  - key: "ResponsibilityAsAdventure"
+    title: "Responsibility as Adventure"
+    url: "/wiki/concepts/responsibilityasadventure/"
   - key: "ResponsibilityVsGuilt"
     title: "Responsibility Versus Guilt / 责任与罪行区分"
     url: "/wiki/concepts/responsibilityvsguilt/"

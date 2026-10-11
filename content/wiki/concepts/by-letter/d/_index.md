@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10388
+wiki_total_pages: 10391
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "DreyfusAffair"
     title: "Dreyfus Affair"
     url: "/wiki/concepts/dreyfusaffair/"
+  - key: "DriveIntegrationUnderHigherAim"
+    title: "Drive Integration Under a Higher Aim"
+    url: "/wiki/concepts/driveintegrationunderhigheraim/"
   - key: "DriverPassengerInvasionModel"
     title: "Driver-Passenger Invasion Model / 驅動者與搭便車模型"
     url: "/wiki/concepts/driverpassengerinvasionmodel/"

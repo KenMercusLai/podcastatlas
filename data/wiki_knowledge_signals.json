@@ -71461,6 +71461,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/dreyfusaffair/"
     },
+    "DriveIntegrationUnderHigherAim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5399433629 [SCIM5399433629].md",
+          "key": "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629",
+          "show": "Huberman Lab",
+          "title": "How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson",
+          "url": "/wiki/sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/driveintegrationunderhigheraim/"
+    },
     "DriverAIAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -143228,6 +143244,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/jordannanos/"
     },
+    "JordanPeterson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5399433629 [SCIM5399433629].md",
+          "key": "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629",
+          "show": "Huberman Lab",
+          "title": "How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson",
+          "url": "/wiki/sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jordanpeterson/"
+    },
     "JorgeAnaya": {
       "episode_count": 1,
       "show_count": 1,
@@ -210488,6 +210520,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/praiseaspoliticalmemory/"
     },
+    "PrayerAsAimFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5399433629 [SCIM5399433629].md",
+          "key": "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629",
+          "show": "Huberman Lab",
+          "title": "How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson",
+          "url": "/wiki/sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/prayerasaimformation/"
+    },
     "PrayerBreathRegulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -222834,6 +222882,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/respiratorysymptomtriage/"
+    },
+    "ResponsibilityAsAdventure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5399433629 [SCIM5399433629].md",
+          "key": "how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629",
+          "show": "Huberman Lab",
+          "title": "How to Best Guide Your Life Decisions & Path | Dr. Jordan Peterson",
+          "url": "/wiki/sources/how-to-best-guide-your-life-decisions-path-dr-jordan-peterson-scim5399433629/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/responsibilityasadventure/"
     },
     "ResponsibilityBoundRiskAvoidance": {
       "episode_count": 2,
