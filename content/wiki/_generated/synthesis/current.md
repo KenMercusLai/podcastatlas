@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-11
-as_of_overview_commit: 8d7b0444c6ad56523fbef06932a8d24f690a06b3
-summary: "Across domains, durable value depends on evidence, institutional function, implementation, accountability, context, and explicit limits."
-episode_count: 4481
-source_count: 4481
-paragraph_count: 801
+last_updated: 2026-10-12
+as_of_overview_commit: b103c046abf12c79dc1766b9ea73019f9169befe
+summary: "Across domains, durable value depends on evidence, institutional function, implementation, accountability, context, relationships, and explicit limits."
+episode_count: 4523
+source_count: 4523
+paragraph_count: 802
 topic_count: 9
 ---
 
@@ -68,7 +68,7 @@ Historical power depends on legitimacy, logistics, finance, coalitions, command,
 
 ### Psychology and Personal Development
 
-Contextual judgment keeps function above labels, regulation responsive to bodily and relational state, trust bounded, and narrative examples distinct from diagnosis.
+Contextual judgment keeps function above labels, regulation responsive to bodily and relational state, trust and moral principle bounded by cost-aware responsibility, and narrative examples distinct from diagnosis.
 
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]]. Evidence: [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[ChildMentalHealthFamilySystemsSupport]], [[DreamDistressAndParasomniaEscalation]].
 - Regulation and self-trust emerge through a combined repertoire of body awareness, movement, emotional differentiation, cognitive reappraisal, grounding, environmental adjustment, and safe co-regulation rather than through willpower or insight alone, linking [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], and [[BrainBodyEmotionMapping]]. Evidence: [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], [[BrainBodyEmotionMapping]], [[EmotionalGranularity]], [[EmotionalFlashbackGrounding]], [[MovementPracticeAsAwareness]], [[StressResponseRecovery]].

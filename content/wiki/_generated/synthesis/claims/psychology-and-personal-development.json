@@ -114,6 +114,24 @@
     },
     {
       "global_candidate": false,
+      "id": "principles-require-cost-aware-relationships",
+      "qualifications": [
+        "The evidence is a fictional case and does not establish a general rule for self-defense, policing, war, or emergency ethics.",
+        "Accepting different capacities does not excuse deception, chronic burden-shifting, or failure to contain foreseeable danger."
+      ],
+      "statement": "Moral principle and relational acceptance are strongest when they remain binding under pressure while accounting for costs shifted to other people: [[PrincipledNonKillingUnderRisk]] tests restraint against companion safety, and [[ComplementaryFriendshipRoles]] accepts differentiated help without erasing responsibility.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "PrincipledNonKillingUnderRisk",
+        "ComplementaryFriendshipRoles",
+        "ChuLiuxiang",
+        "HuTiehua",
+        "JiBingyan",
+        "GreatDesertGuLong"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "historical-cases-illustrate-judgment-without-clinical-generalization",
       "qualifications": [
         "Reported dialogue, motives, personality judgments, counterfactuals, and modern management analogies remain source-scoped.",
@@ -151,6 +169,6 @@
       ]
     }
   ],
-  "summary": "Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation is state- and relationship-dependent, trust needs boundaries and honest limits, and narrative examples must remain distinct from diagnosis or universal advice.",
+  "summary": "Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation is state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.",
   "topic_id": "psychology-and-personal-development"
 }

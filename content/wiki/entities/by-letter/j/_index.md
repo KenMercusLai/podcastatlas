@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13333
+wiki_total_pages: 13339
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "JiangTaoPsychiatrist"
     title: "姜涛 / Jiang Tao (Psychiatrist)"
     url: "/wiki/entities/jiangtaopsychiatrist/"
+  - key: "JiBingyan"
+    title: "姬冰雁 / Ji Bingyan"
+    url: "/wiki/entities/jibingyan/"
   - key: "JiBu"
     title: "季布 / Ji Bu"
     url: "/wiki/entities/jibu/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [040 趣话古龙《楚留香传奇：大沙漠》|雁蝶为双翼，花香满人间](sources/040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b.md) — 纸醉金迷FM以不杀原则、互补友情、直接真心与石观音的自恋权力重读《大沙漠》，同时质疑反转、救场与环境细节的因果支撑。
 - [VOL.141这学非上不可吗？这班非上不可吗？Don’t push the river！｜世界儿童日](sources/vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-push-the-river-shijie-ertongri-lnukt9drrpft43iueo4xfpyrkkbm.md) — 这病说来话长 episode on school refusal, bodily distress, emotion-first support, bounded choice, routine, third space, and family-school ecology.
 - [515. Nelson: Attack the French! (Part 2)](sources/515-nelson-attack-the-french-part-2-glt9020085184.md) — The Rest Is History on Nelson's Mediterranean preparation, Calvi eye injury, first fleet action, Jervis's arrival, Napoleon's Italian victories, and the retreat toward Cape St Vincent.
 - [Essentials: Master Your Sleep & Be More Alert When Awake](sources/essentials-master-your-sleep-be-more-alert-when-awake-scim5668727030.md) — Condensed Huberman Lab episode on adenosine sleep pressure, circadian light timing, conditional naps and NSDR, and behavior-first supplement boundaries.
@@ -4606,6 +4607,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 ## Entities
+- [《大沙漠》 / The Great Desert](entities/GreatDesertGuLong.md) — 古龙楚留香小说，以沙漠冒险检验不杀原则、互补友情、直接爱情与反转的因果代价。
+- [胡铁花 / Hu Tiehua](entities/HuTiehua.md) — 以热烈、冲动、提问和明知不敌仍行动为楚留香三人组提供行动与情感温度的伙伴。
+- [姬冰雁 / Ji Bingyan](entities/JiBingyan.md) — 以物资准备、判断、守夜与承担责任表达“冷而不薄”的楚留香伙伴。
+- [中原一点红 / Zhongyuan Yidianhong](entities/ZhongyuanYidianhong.md) — 冷峻杀手，以直接言语和危机中的选择显露原则与对曲无容的真心。
+- [曲无容 / Qu Wurong](entities/QuWurong.md) — 遭石观音毁容后以互相选择参与一点红爱情线、并把受害外貌与人格价值分开的武侠人物。
+- [石观音 / Shi Guanyin](entities/ShiGuanyin.md) — 将美貌、武力、控制与他人臣服合为权力确认，并在镜像受损中崩塌的《大沙漠》反派。
 - [Ethan Kross](entities/EthanKross.md) — Psychologist distinguishing useful inner speech from chatter and organizing regulation through distance, attention, relationships, environment, and planning.
 - [《寻梦》 / The Dream Search (Ni Kuang novel)](entities/XunMengNiKuangNovel.md) — 倪匡卫斯理小说，以双重梦境、记忆组、爱情背叛与重复死亡讨论人格延续和宿命因果。
 - [Thomas Foley](entities/ThomasFoley.md) — Royal Navy captain whose landward maneuver aboard Goliath opened the double-sided attack at the Battle of the Nile.
@@ -18007,6 +18014,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
+- [Principled Non-Killing Under Risk / 风险中的不杀原则](concepts/PrincipledNonKillingUnderRisk.md) — 在真实致命压力下保持不杀才构成原则，同时要求正视同伴风险、控制敌人与外部救场的责任。
+- [Complementary Friendship Roles / 互补型友情角色](concepts/ComplementaryFriendshipRoles.md) — 朋友以行动、准备、情感与协调等不同方式贡献，而不被要求用同一种性格证明忠诚。
 - [Memory-Group Personal Continuity / “记忆组”式人格延续](concepts/MemoryGroupPersonalContinuity.md) — 《寻梦》以可转移的组织化记忆替代传统灵魂来解释人格跨死亡延续的文学模型。
 - [Money as Tool, Not Yardstick](concepts/MoneyAsToolNotYardstick.md) — Distinguishes using money for security, autonomy, purpose, time, and relationships from using it to rank personal worth.
 - [Future-Regret Financial Planning](concepts/FutureRegretFinancialPlanning.md) — Evaluates financial and career choices through anticipated regret while preserving room for identity and life-stage change.

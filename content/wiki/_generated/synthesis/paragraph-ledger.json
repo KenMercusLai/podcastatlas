@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
       "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
       "0b6116a904e09c40631217d50ef495d473504f88e9b58778443ef1710b787136",
       "3d8bb17e024c3689d4699577575ab4deebd37d6c9305d35263b1592fda8d1f43",
@@ -803,11 +804,34 @@
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2",
       "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579"
     ],
-    "paragraph_count": 801
+    "paragraph_count": 802
   },
-  "overview_commit": "54620ab0a71efe9279728268488c35339588426a",
-  "overview_digest": "f69283a0e8f57f3eef2d89ede7627018976886566ddbfe9795bbbbfd6dbebdfb",
+  "overview_commit": "b103c046abf12c79dc1766b9ea73019f9169befe",
+  "overview_digest": "457dfe63be443f4c8021b6405d9b5b4ddfb28436de3f09089cf28a4a720d1e81",
   "paragraphs": [
+    {
+      "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest literary addition is [[040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b|040 趣话古龙《楚留香传奇：大沙漠》]], a [[ZhiZuiJinMiFM|纸醉金迷FM]] discussion of [[GuLong|古龙]]'s [[GreatDesertGuLong|《大沙漠》]]. It adds [[HuTiehua|胡铁花]], [[JiBingyan|姬冰雁]], [[ZhongyuanYidianhong|中原一点红]], [[QuWurong|曲无容]], [[ShiGuanyin|石观音]], [[PrincipledNonKillingUnderRisk]], and [[ComplementaryFriendshipRoles]], while extending [[GuLong|古龙]] and [[ChuLiuxiang|楚留香]]. Its core synthesis is that a non-killing rule gains moral force by surviving lethal pressure but must still answer for danger transferred to companions; differentiated friends can distribute action, preparation, and coordination without identical proof of loyalty; and direct speech plus reciprocal choice can ground romance more convincingly than polished consolation. No settled contradiction is adopted. 姬冰雁's feigned illness, 无花's return, 画眉鸟's rescue, black-pearl identity mechanics, combat geography, publication grouping, character motives, and desert realism remain fictional, interpretive, or source-scoped, while 石观音's narcissism is a literary frame rather than clinical diagnosis.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b",
+        "ChuLiuxiang",
+        "ComplementaryFriendshipRoles",
+        "GreatDesertGuLong",
+        "GuLong",
+        "HuTiehua",
+        "JiBingyan",
+        "PrincipledNonKillingUnderRisk",
+        "QuWurong",
+        "ShiGuanyin",
+        "ZhiZuiJinMiFM",
+        "ZhongyuanYidianhong"
+      ]
+    },
     {
       "id": "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
       "primary_topic": "history-and-geopolitics",

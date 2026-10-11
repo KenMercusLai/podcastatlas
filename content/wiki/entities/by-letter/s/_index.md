@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13333
+wiki_total_pages: 13339
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2816,6 +2816,9 @@ wiki_pages:
   - key: "ShiPotian"
     title: "石破天 / Shi Potian"
     url: "/wiki/entities/shipotian/"
+  - key: "ShiGuanyin"
+    title: "石观音 / Shi Guanyin"
+    url: "/wiki/entities/shiguanyin/"
   - key: "ShimenBattle"
     title: "石门之战 / Battle of Shimen"
     url: "/wiki/entities/shimenbattle/"

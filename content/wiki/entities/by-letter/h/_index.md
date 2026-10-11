@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13333
+wiki_total_pages: 13339
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1670,6 +1670,9 @@ wiki_pages:
   - key: "HuShi"
     title: "胡适"
     url: "/wiki/entities/hushi/"
+  - key: "HuTiehua"
+    title: "胡铁花 / Hu Tiehua"
+    url: "/wiki/entities/hutiehua/"
   - key: "HuChangWesternHan"
     title: "胡长 / Hu Chang (Western Han)"
     url: "/wiki/entities/huchangwesternhan/"

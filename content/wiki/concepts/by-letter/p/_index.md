@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10426
+wiki_total_pages: 10428
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1949,6 +1949,9 @@ wiki_pages:
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"
+  - key: "PrincipledNonKillingUnderRisk"
+    title: "Principled Non-Killing Under Risk / 风险中的不杀原则"
+    url: "/wiki/concepts/principlednonkillingunderrisk/"
   - key: "PrincipledOfficeRefusal"
     title: "Principled Office Refusal / 原则性拒仕"
     url: "/wiki/concepts/principledofficerefusal/"

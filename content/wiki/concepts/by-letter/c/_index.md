@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10426
+wiki_total_pages: 10428
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1898,6 +1898,9 @@ wiki_pages:
   - key: "CompiegneArmistice1940"
     title: "Compiègne Armistice (1940)"
     url: "/wiki/concepts/compiegnearmistice1940/"
+  - key: "ComplementaryFriendshipRoles"
+    title: "Complementary Friendship Roles / 互补型友情角色"
+    url: "/wiki/concepts/complementaryfriendshiproles/"
   - key: "ComplementaryPatents"
     title: "Complementary Patents"
     url: "/wiki/concepts/complementarypatents/"

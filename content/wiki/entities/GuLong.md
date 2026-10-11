@@ -11,15 +11,16 @@ sources:
   - 093-gulong-xinzhong-de-xilie-zuijia-chuliuxiang-chuanqi-zhi-huameiniao-lvtnmixzzzsg7gttvhxy7rujkg65
   - 056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h
   - 045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp
+  - 040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-11
+last_updated: 2026-10-12
 ---
 
 # 古龙 / Gu Long
 
 ## Overview
 
-古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]], [[HappyHeroesGuLong|《欢乐英雄》]], and [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]].
+古龙 / Gu Long is a wuxia writer whose work the bounded sources distinguish from the learned historical and classical density associated with [[JinYong|金庸]] and [[LiangYusheng|梁羽生]]. His profile now joins broad stylistic comparison to close readings of [[GreatDesertGuLong|《大沙漠》]], [[PaintingThrushGuLong|《画眉鸟》]], [[BorrowedCorpseReturnsSoulGuLong|《借尸还魂》]], [[LongevitySwordGuLong|《长生剑》]], [[PeacockFeatherGuLong|《孔雀翎》]], [[TianyaMingyueDaoGuLong|《天涯·明月·刀》]], [[HappyHeroesGuLong|《欢乐英雄》]], and [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]].
 
 ## Current Profile
 
@@ -36,6 +37,8 @@ The [[PaintingThrushGuLong|《画眉鸟》]] discussion supplies a complementary
 [[HappyHeroesGuLong|《欢乐英雄》]] broadens the profile from mystery and solitary damaged heroes to sitcom-like ensemble life. 富贵山庄 becomes a home through [[FriendshipAsSharedHome|collective belonging]], the “四凶追王动” arc joins suspense to injury and mutual support, and [[ComicPovertyConstraintGap|comic poverty]] supplies tone without consistently forcing bottom-line choices. The hosts' split response to Gu Long's friendship rhetoric also clarifies a recurring tension: direct interpretation can give readers formative emotional language while still crowding out feeling already created by scene and action.
 
 The tragic relationship system in [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]] broadens this profile. [[LiXunhuan|李寻欢]]'s near-infallible martial power is counterweighted by compassion, guilt, and self-neglect; his attempt to repay [[LongXiaoyunElderGuLong|龙啸云]] by deceiving [[LinShiyin|林诗音]] turns noble sacrifice into control over another person's choice. Long's gratitude and humiliation, Lin's constrained agency and softness, [[LongXiaoyunYoungerGuLong|龙小云]]'s family formation, and [[LinXianer|林仙儿]]'s conquest logic show how authentic feeling can coexist with destructive conduct. The source's strongest critical method is again to preserve complexity without making explanation into acquittal or later sacrifice into retroactive repair.
+
+The early linked adventure [[GreatDesertGuLong|《大沙漠》]] makes ethical and relational structure more important than deduction. [[ChuLiuxiang|楚留香]]'s refusal to kill gains force by surviving lethal pressure, but it also transfers risk to companions and can require external removal of the enemy. [[HuTiehua|胡铁花]], [[JiBingyan|姬冰雁]], and 楚留香 distribute action, preparation, and coordination across a friendship that accepts difference without demanding identical service. [[ZhongyuanYidianhong|中原一点红]] and [[QuWurong|曲无容]] make concise speech and reciprocal choice more persuasive than verbal polish, while [[ShiGuanyin|石观音]] joins beauty, force, and compulsory submission to a mirror-centered collapse. The hosts again separate memorable design from causal support: rescue, revival, identity reversal, and generic desert detail keep the story moving but do not all withstand scrutiny.
 
 ## Key Characteristics
 
@@ -92,16 +95,22 @@ The tragic relationship system in [[SentimentalSwordsmanRuthlessSword|《多情�
 - [[045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp]] holds Long Xiaoyun's love and humiliation together with betrayal, and treats his final rescue attempt as remorse without complete redemption.
 - [[045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp]] contrasts Li Xunhuan's guilt-driven self-denial with Lin Xianer's use of conquest and destruction to defend against relational vulnerability.
 
+### Principled restraint and complementary friendship
+
+- [[040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b]] tests 楚留香's non-killing rule against danger to companions and distributes action, preparation, and coordination across his trio.
+- [[040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b]] contrasts direct romantic sincerity with polished consolation and reads 石观音's mirror-centered death as thematically apt.
+- [[040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b]] questions 姬冰雁's feigned illness, 无花's return, 画眉鸟's intervention, unclear action, and a desert rendered through familiar danger cues.
+
 ## Qualifications
 
-The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; seven focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, 《欢乐英雄》's martial rankings and adaptation history, 李寻欢 and 龙啸云's motives, 林仙儿's insecurity, 龙小云's development, the 楚留香 publication and rights history, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, and fictional breathing claims are not physiology.
+The sources are podcast interpretations rather than a comprehensive survey of Gu Long's bibliography or textual history. One offers a broad comparison with Jin Yong and Liang Yusheng; eight focus on individual works and preserve disagreement among their hosts. Character motives, 高立's death, Bai Yujing and Yuan Zixia's identities, the accepted membership of 《七种武器》, 傅红雪 and 公子羽's relative strength, 明月心's motives, 薛衣人的 knowledge of the assassin organization, 柳无眉's poisoning and death, 《欢乐英雄》's martial rankings and adaptation history, 李寻欢 and 龙啸云's motives, 林仙儿's insecurity, 龙小云's development, the 楚留香 publication and rights history, 《大沙漠》's desert realism and character consistency, and the quality of particular plot devices remain source-scoped or interpretive. Unsupported identity theories are not treated as textual facts, fictional breathing claims are not physiology, and narcissism language about 石观音 is literary rather than clinical.
 
 ## What Changed
 
-- Added relational tragedy as a second way Gu Long constrains martial power through psychology and choice.
-- Distinguished genuinely costly self-sacrifice from authority over another person's intimate future.
-- Added guilt, humiliation, indulgence, and conquest as interacting mechanisms across one family system.
-- Preserved late remorse and sympathetic explanation without treating either as acquittal.
+- Added principled non-killing as both moral integrity and a possible transfer of danger to companions.
+- Added complementary friendship roles as an adventure structure built from action, preparation, and coordination.
+- Added direct romantic sincerity and reciprocal choice as a contrast with verbal polish.
+- Added environmental genericity, rescue convenience, and revival as further cases where dramatic force exceeds causal support.
 
 ## Relationships
 
@@ -115,11 +124,13 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[PaintingThrushGuLong|《画眉鸟》]] - novel joining hostage leverage, formation disruption, poisoning belief, and tragic attachment.
 - [[HappyHeroesGuLong|《欢乐英雄》]] - ensemble novel joining shared home, secrets, comedy, suspense, and explicit friendship rhetoric.
 - [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]] - tragic novel joining near-infallible martial power to guilt, manipulated choice, resentment, and damaged attachment.
+- [[GreatDesertGuLong|《大沙漠》]] - linked adventure joining principled restraint, complementary friendship, direct attachment, and uneven reversals.
 - [[LiXunhuan|李寻欢]] - hero whose compassion and guilt become both moral strength and self-destructive vulnerability.
 - [[SelfSacrificeAsRelationalControl]] - ethical distinction exposed by the decision to deceive Lin Shiyin in the name of sacrifice.
 - [[GuiltDistortedEmpathy]] - account of causal understanding turning into weak boundaries and continuing harm.
 - [[LoveAsConquestLogic]] - account of Lin Xianer's attempt to secure worth through submission and destruction.
 - [[ChuLiuxiang|楚留香]] - investigator who combines rational reconstruction, discretion, bluffing, and strategic reframing.
+- [[HuTiehua|胡铁花]], [[JiBingyan|姬冰雁]], [[ZhongyuanYidianhong|中原一点红]], [[QuWurong|曲无容]], and [[ShiGuanyin|石观音]] - character cluster extending the profile into friendship, direct romance, and coercive self-image.
 - [[ShuiMuYinJi|水母阴姬]] - final opponent who joins overwhelming force to attachment and mercy.
 - [[XueYirenGuLong|薛衣人]] - master swordsman whose family burden gives the new source its richest characterization.
 - [[WuxiaIntertextualCraft]] - broader craft concept sharpened by Gu Long's divergent route.
@@ -135,3 +146,5 @@ The sources are podcast interpretations rather than a comprehensive survey of Gu
 - [[SincereFalseBelief]] - epistemic distinction between honest testimony and accurate causal belief.
 - [[FriendshipAsSharedHome]] - relational pattern through which 富贵山庄 becomes valuable without wealth or kinship.
 - [[ComicPovertyConstraintGap]] - distinction between visible deprivation and materially binding choice.
+- [[PrincipledNonKillingUnderRisk]] - account of restraint that remains binding while creating protection and containment duties.
+- [[ComplementaryFriendshipRoles]] - account of differentiated contribution without identical expectations.

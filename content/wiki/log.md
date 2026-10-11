@@ -36122,3 +36122,11 @@ Added source `vol-141-zhe-xue-fei-shang-buke-ma-zhe-ban-fei-shang-buke-ma-don-t-
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 040 趣话古龙《楚留香传奇：大沙漠》|雁蝶为双翼，花香满人间
+
+Added source `040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b`; created [[GreatDesertGuLong|《大沙漠》]], [[HuTiehua|胡铁花]], [[JiBingyan|姬冰雁]], [[ZhongyuanYidianhong|中原一点红]], [[QuWurong|曲无容]], [[ShiGuanyin|石观音]], [[PrincipledNonKillingUnderRisk]], and [[ComplementaryFriendshipRoles]]; and resynthesized [[GuLong|古龙]] and [[ChuLiuxiang|楚留香]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a non-killing rule gains moral force by surviving lethal pressure but must answer for danger transferred to companions; differentiated friends can distribute action, preparation, and coordination without identical proof of loyalty; direct speech and reciprocal choice can ground romance more convincingly than polished consolation; and 石观音's mirror-centered collapse is thematically apt even where rescues, returns, identity reversals, action geography, and generic desert detail weaken causal confidence. No settled contradiction was adopted. 姬冰雁's feigned illness remains open between understandable avoidance and inconsistent reversal-writing, while publication grouping, character motives, combat rankings, romantic sincerity, and environmental realism remain fictional, interpretive, or source-scoped. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[ThemePlotCoherence]] pages were kept closed because the focused source, work, character, and concept pages capture the durable addition without reopening larger unchanged inventories. Downstream synthesis refreshed the psychology-and-personal-development topic and ran the due global compaction; refreshed artifacts validate 4,523 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

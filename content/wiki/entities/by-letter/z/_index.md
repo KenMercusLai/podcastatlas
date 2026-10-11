@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13333
+wiki_total_pages: 13339
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "ZhuluQinHanBook"
     title: "《逐鹿：神话与预言背后的秦亡汉兴》"
     url: "/wiki/entities/zhuluqinhanbook/"
+  - key: "ZhongyuanYidianhong"
+    title: "中原一点红 / Zhongyuan Yidianhong"
+    url: "/wiki/entities/zhongyuanyidianhong/"
   - key: "ZhongdiCommandery"
     title: "中地郡 / Zhongdi Commandery"
     url: "/wiki/entities/zhongdicommandery/"

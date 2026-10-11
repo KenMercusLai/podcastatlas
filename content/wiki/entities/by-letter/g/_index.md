@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13333
+wiki_total_pages: 13339
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "GaixiaSong"
     title: "《垓下歌》 / Gaixia Song"
     url: "/wiki/entities/gaixiasong/"
+  - key: "GreatDesertGuLong"
+    title: "《大沙漠》 / The Great Desert"
+    url: "/wiki/entities/greatdesertgulong/"
   - key: "GoodLuckBook"
     title: "《好运》"
     url: "/wiki/entities/goodluckbook/"

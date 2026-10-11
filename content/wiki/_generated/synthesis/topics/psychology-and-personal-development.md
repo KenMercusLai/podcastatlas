@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-10-01
-as_of_overview_commit: 0c53820ea6d560cdfec86a7c61869fb488984285
-input_digest: f829f8c23f06eac3ed8d66eea4cd50dcaa9dd0656258d9994802d12c97296650
+last_updated: 2026-10-12
+as_of_overview_commit: b103c046abf12c79dc1766b9ea73019f9169befe
+input_digest: 5ee74658a6a8a6f4b0632ebe7ae3e715361e9b00da6228db5cd430f1422b9eec
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation is state- and relationship-dependent, trust needs boundaries and honest limits, and narrative examples must remain distinct from diagnosis or universal advice.
+Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation is state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.
 
 ## Cross-source Findings
 
@@ -81,6 +81,17 @@ Social roles, stereotypes, status signals, reputation, and institutional categor
 
 - A literary reversal does not prove that a corpus escapes prejudice, and a commercial or political signal does not prove underlying virtue or quality.
 - Gender, class, nationality, diagnosis, professional role, and public reputation require contextual evidence rather than deterministic inference.
+
+### Principles Require Cost Aware Relationships
+
+Moral principle and relational acceptance are strongest when they remain binding under pressure while accounting for costs shifted to other people: [[PrincipledNonKillingUnderRisk]] tests restraint against companion safety, and [[ComplementaryFriendshipRoles]] accepts differentiated help without erasing responsibility.
+
+**Evidence:** [[PrincipledNonKillingUnderRisk]], [[ComplementaryFriendshipRoles]], [[ChuLiuxiang]], [[HuTiehua]], [[JiBingyan]], [[GreatDesertGuLong]]
+
+**Qualifications:**
+
+- The evidence is a fictional case and does not establish a general rule for self-defense, policing, war, or emergency ethics.
+- Accepting different capacities does not excuse deception, chronic burden-shifting, or failure to contain foreseeable danger.
 
 ### Historical Cases Illustrate Judgment Without Clinical Generalization
 
