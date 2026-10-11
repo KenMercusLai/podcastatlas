@@ -195611,6 +195611,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/painawaretrainingcontinuity/"
     },
+    "PainComedyOscillation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpPMohTNtW6i4MCzNsEEFVYTdjXX [lpPMohTNtW6i4MCzNsEEFVYTdjXX].md",
+          "key": "061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx",
+          "show": "纸醉金迷FM",
+          "title": "061 看《功夫女足》不如重温周星驰《少林足球》",
+          "url": "/wiki/sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/paincomedyoscillation/"
+    },
     "PainOrientation": {
       "episode_count": 1,
       "show_count": 1,
@@ -234073,6 +234089,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/shaodangqiang/"
     },
+    "ShaolinSoccer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpPMohTNtW6i4MCzNsEEFVYTdjXX [lpPMohTNtW6i4MCzNsEEFVYTdjXX].md",
+          "key": "061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx",
+          "show": "纸醉金迷FM",
+          "title": "061 看《功夫女足》不如重温周星驰《少林足球》",
+          "url": "/wiki/sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/shaolinsoccer/"
+    },
     "ShaowengWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -244794,9 +244826,9 @@
       "url": "/wiki/entities/stellantis/"
     },
     "StephenChow": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔 [loLXGqbkq2oWmZZay91DY4faNWn3].md",
@@ -244804,9 +244836,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔",
           "url": "/wiki/sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3/"
+        },
+        {
+          "episode_file": "lpPMohTNtW6i4MCzNsEEFVYTdjXX [lpPMohTNtW6i4MCzNsEEFVYTdjXX].md",
+          "key": "061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx",
+          "show": "纸醉金迷FM",
+          "title": "061 看《功夫女足》不如重温周星驰《少林足球》",
+          "url": "/wiki/sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/stephenchow/"
     },
     "StephenFry": {

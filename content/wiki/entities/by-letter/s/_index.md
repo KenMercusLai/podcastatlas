@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13195
+wiki_total_pages: 13196
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2045,6 +2045,9 @@ wiki_pages:
   - key: "ShiroAkutagawa"
     title: "《小白》 / Shiro"
     url: "/wiki/entities/shiroakutagawa/"
+  - key: "ShaolinSoccer"
+    title: "《少林足球》 / Shaolin Soccer"
+    url: "/wiki/entities/shaolinsoccer/"
   - key: "Shangshu"
     title: "《尚书》 / Shangshu"
     url: "/wiki/entities/shangshu/"

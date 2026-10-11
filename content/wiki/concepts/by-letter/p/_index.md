@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10340
+wiki_total_pages: 10341
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "PainAwareTrainingContinuity"
     title: "Pain-Aware Training Continuity"
     url: "/wiki/concepts/painawaretrainingcontinuity/"
+  - key: "PainComedyOscillation"
+    title: "Pain-Comedy Oscillation / 痛感与喜剧振荡"
+    url: "/wiki/concepts/paincomedyoscillation/"
   - key: "PainSleepFeedbackLoop"
     title: "Pain-Sleep Feedback Loop / 疼痛—睡眠反馈循环"
     url: "/wiki/concepts/painsleepfeedbackloop/"

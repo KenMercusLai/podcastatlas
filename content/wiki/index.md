@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [061 看《功夫女足》不如重温周星驰《少林足球》](sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx.md) — 纸醉金迷FM重温《少林足球》，分析失意者如何把功夫转化为团队能力，并讨论现实痛感、漫画奇观、尊严恢复、女性行动与喜剧接受分歧。
 - [062 盗墓小说开山之作：趣话《鬼吹灯》之序章，梦开始的地方！](sources/062-daomu-xiaoshuo-kaishan-zhizuo-quhua-gui-chuideng-zhi-xuzhang-meng-kaishi-de-difang-lruq10fce-9iw_vn_dau8a-luzbw.md) — 纸醉金迷FM从胡八一家传、知青与军旅经历讲到首次下墓和考古队组建，分析《鬼吹灯》如何融合时代生活、民间叙事、幽默、怪物与灵异留白。
 - [VOL.165别让“十人九痔”误导你！肛肠科医生告诉你痔疮真相](sources/vol-165-bie-rang-shi-ren-jiu-zhi-wudao-ni-gangchangke-yisheng-gaosu-ni-zhichuang-zhenxiang-lvafpna-9xuytdtuonnohma75v_n.md) — 这病说来话长 episode with 谭思维 on hemorrhoid symptom thresholds, anorectal bleeding, fissure and fistula, treatment tradeoffs, and postoperative care.
 - [571. Hannibal: Roman Bloodbath at Cannae (Part 4)](sources/571-hannibal-roman-bloodbath-at-cannae-part-4-glt2444504695.md) — The Rest Is History episode on Cannae's supply-and-terrain setup, Roman mass, staged center withdrawal, cavalry-led double envelopment, physical horror, and incomplete strategic result.
@@ -4522,6 +4523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [《少林足球》 / Shaolin Soccer](entities/ShaolinSoccer.md) — 周星驰的功夫足球喜剧，以技能转化、团队训练、受辱者的集体复起及阿梅的决赛行动连接笑料与痛感。
 - [天下霸唱 / Tianxia Bachang](entities/TianxiaBachang.md) — 《鬼吹灯》作者，当前资料聚焦金庸影响、盗墓类型形成、虚实叠加的世界建构及网络版与出版版差异。
 - [谭思维 / Tan Siwei](entities/TanSiweiAnorectalDoctor.md) — Anorectal clinician explaining symptom-led hemorrhoid care, function-preserving procedures, and recovery boundaries.
 - [Cosimo de' Medici](entities/CosimoDeMedici.md) — Banker and patron who made Medici power durable through credit, clients, controlled republican institutions, diplomacy, and cultural sponsorship.
@@ -17784,6 +17786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Pain-Comedy Oscillation / 痛感与喜剧振荡](concepts/PainComedyOscillation.md) — 让身体或社会痛苦保持可信，再转入荒诞、幻想、反转或团结而不抹除先前痛感的叙事方法。
 - [Hemorrhoid Symptom-Led Treatment / 痔疮症状导向治疗](concepts/HemorrhoidSymptomLedTreatment.md) — Framework matching common hemorrhoidal anatomy and symptoms to assessment, conservative care, procedure tradeoffs, and recurrence limits.
 - [Anorectal Postoperative Care / 肛肠术后护理](concepts/AnorectalPostoperativeCare.md) — Recovery framework coordinating hygiene, stool consistency, activity, pain, bleeding, and infection escalation after anorectal surgery.
 - [Moist Wound Healing and Hydrocolloid Dressings / 湿性愈合与水胶体敷料](concepts/MoistWoundHealingHydrocolloidDressing.md) — Minor-wound framework separating protected therapeutic moisture and hydrocolloid gel formation from contamination, infection, and wounds requiring qualified care.
