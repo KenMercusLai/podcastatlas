@@ -7,6 +7,7 @@ sources:
   - 100qi-le-jinyong-shediao-yingxiongzhuan-yingshi-gaibian-dapandian-lnnirnmbwn-a0eauovax7qzxwthk
   - 074-zhi-yin-zai-renqun-zhong-duo-kan-le-ta-yi-yan-shediao-yingxiongzhuan-zhi-zhujiao-muqin-da-duibi-lk2auqtq7beb7er-ujypp9lx6jas
   - 072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig
+  - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-The bounded sources present the work as unusually difficult to compress because its large cast, long growth arc, romantic development, martial hierarchy, and movement toward “侠之大者” depend on accumulation. Television can give those relations more time than film, but neither medium can simply transfer narration, interior thought, or technical martial explanation unchanged.
+The bounded sources present the work as unusually difficult to compress because its large cast, long growth arc, romantic development, martial hierarchy, and movement toward “侠之大者” depend on accumulation. Television can give those relations more time than film, but neither medium can simply transfer narration, interior thought, or technical martial explanation unchanged. [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] becomes the sharpest negative test: starting late may concentrate the novel's mature political and ethical questions, but rapid recollection cannot by itself restore the growth, relationships, witnessed warfare, and civilian suffering on which those questions depend.
 
 Its characters also resist single-trait performance. 郭靖's plainness coexists with learning ability, principle, and action; 黄蓉's beauty and intelligence coexist with mischief, cultural refinement, and change; 黄药师 and 欧阳锋 require authority without becoming respectively too proper or visibly villainous; 杨康's danger should arise through conduct and divided identity. The sources therefore treat adaptation quality as a relation among narrative selection, character logic, casting, performance, and audiovisual construction rather than resemblance or plot coverage alone.
 
@@ -32,7 +33,7 @@ The short Huang Yaoshi opening adds a moral-complexity layer already implicit in
 - Combines a long coming-of-age arc with romance, political identity, and wuxia ethics.
 - Uses a large ensemble whose characters depend on contrasts among surface type, motive, and action.
 - Requires adapters to translate narration, thought, martial reasoning, and internal force into audiovisual form.
-- Gives serial television more room for growth and relationships while film faces acute compression pressure, with 华山论剑 testing whether either form has earned its martial climax.
+- Gives serial television more room for growth and relationships while film faces acute compression pressure, with 华山论剑 or “侠之大者” testing whether the chosen climax has been earned.
 - Accumulated enough screen history for generational access and nostalgia to shape the perceived definitive version.
 - Uses the parallel families of 郭靖 and 杨康 to connect maternal survival, identity teaching, concealment, privilege, and moral formation.
 - Uses Huang Yaoshi to place poetic charisma, talent, family affection, vanity, and cruelty inside one unresolved character judgment.
@@ -66,14 +67,19 @@ The short Huang Yaoshi opening adds a moral-complexity layer already implicit in
 - [[072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig]] places broad talent, romantic imagery, grief, and paternal love beside vanity, cruelty, and the mutilated servants of Peach Blossom Island.
 - [[072-shediao-yingxiongzhuan-zhi-dongxie-huangyaoshi-pian-lozkjpzz3rxku6g5g0sykpwoehig]] supplies only the opening framework and cuts off before the promised examples about 黄蓉 or a final evaluation.
 
+### Late-chapter compression and ethical culmination
+
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] argues that the film's concentrated flashback supplies incident recall without rebuilding relationship, grief, or martial development.
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] contrasts the novel's witnessed conquest and civilian cost with a film climax that invokes bones and public duty after largely withholding that experience.
+
 ## Qualifications
 
-This profile is grounded in four conversational discussions rather than a direct, comprehensive reading of the novel or production histories. The hosts' version and performer preferences are subjective and sometimes shaped by childhood familiarity. Their claims about Bao Xiruo's love, guilt, motives, and influence on 杨康 are explicitly disputed or inferential. The Huang Yaoshi note covers only an approximately three-minute opening, so its inventory of skills, motives, spiritual interpretation, servant treatment, and family feeling cannot stand in for the absent full argument. Exact counts, dates, episode totals, actor credits, adaptation decisions, ratings, production anecdotes, character ages, dialogue, psychology, and claims about authorial intention remain source-scoped where the supplied notes do not verify them.
+This profile is grounded in five conversational discussions rather than a direct, comprehensive reading of the novel or production histories. The hosts' version and performer preferences are subjective and sometimes shaped by childhood familiarity. Their claims about Bao Xiruo's love, guilt, motives, and influence on 杨康 are explicitly disputed or inferential. The Huang Yaoshi note covers only an approximately three-minute opening, so its inventory of skills, motives, spiritual interpretation, servant treatment, and family feeling cannot stand in for the absent full argument. The new film discussion distinguishes adaptation-specific changes, including 李萍's death, from claims about the novel; its explanations involving censorship, cuts, project control, casting, or directorial authority remain speculative. Exact counts, dates, episode totals, actor credits, adaptation decisions, ratings, production anecdotes, character ages, dialogue, psychology, and claims about authorial intention remain source-scoped where the supplied notes do not verify them.
 
 ## What Changed
 
-- Added Huang Yaoshi as a bounded case in which poetic charisma and family affection coexist with cruelty and moral controversy.
-- Preserved the three-minute transcript cutoff rather than inferring the episode's missing character judgment.
+- Added a focused negative film case showing why the novel's late ethical culmination cannot be detached from accumulated growth, war, and civilian consequence.
+- Kept adaptation-specific changes, especially 李萍's death, separate from the novel profile.
 
 ## Relationships
 
@@ -89,3 +95,4 @@ This profile is grounded in four conversational discussions rather than a direct
 - [[MaternalSurvivalSacrificeEthics|母职求生与牺牲伦理]] - framework for comparing prolonged survival with later self-sacrifice.
 - [[HuangYaoshi|黄药师]] - grandmaster whose talent, affection, vanity, and cruelty deepen the novel's resistance to single-trait character readings.
 - [[CompassionateCharacterInterpretation|悲悯式角色理解]] - neighboring method for holding emotional depth beside accountability for harm.
+- [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - late-chapter film adaptation used as a negative compression and thematic-grounding case.

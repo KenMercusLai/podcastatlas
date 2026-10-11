@@ -8,6 +8,7 @@ sources:
   - 096-ruiping-chunjiedang-biaoren-dianying-yu-yuanzhu-quanfangwei-duibi-lqcffp3ksxahzoij1u66_sdm3t-d
   - 054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t
   - 050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg
+  - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -29,6 +30,8 @@ The [[BiaoRenComic|《镖人》]] comparison adds a single film in which differe
 A supernatural-romance case adds a further split. In [[AChineseGhostStory1987|《倩女幽魂》(1987)]], Ning Caichen's softened characterization, reciprocal protection, and the move from household reunion to tragic release create clear emotional causality. Yan Chixia's tolerated predation and the sudden power jump in the Black Mountain finale leave adjacent behavioral and action functions under-prepared. Fidelity can therefore succeed in romance while failing in world and climax logic.
 
 The [[TsuiHark|徐克]] career retrospective generalizes the test across radical wuxia transformations. A major departure can establish an autonomous classic when performance, image, emotion, and new dramatic logic cohere; literal loyalty is not the controlling value. The same retrospective preserves the negative boundary: truncated ensemble arcs, missing character motivation, or spectacle without tension remain functional losses even when art, action, music, or technology are individually impressive.
+
+The focused critique of [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] tests that boundary within a late-chapter film. The starting point can in principle concentrate “何为英雄,” war, and the use of power, but it also removes the prior formation that gives those questions weight. According to the hosts, a rapid flashback preserves names and incidents without restoring grief, intimacy, hierarchy, or cause; effects-led action and a final appeal to protect ordinary people then state functions the intervening film has not rebuilt. Partial success in 华筝, Mongolian characterization, supporting performance, language, and music does not convert the total adaptation into a coherent transfer.
 
 ## Key Claims
 
@@ -72,14 +75,19 @@ The [[TsuiHark|徐克]] career retrospective generalizes the test across radical
 
 - [[050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg]] uses 《笑傲江湖Ⅱ东方不败》 to separate radical deviation from failure and uses 《七剑》 and later effects-led work to show how compression or spectacle can weaken character and narrative function.
 
+### Late-entry compression and moral function
+
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] argues that a late-novel entry point creates a bounded but demanding adaptation problem: retrospective incident coverage does not automatically transmit relationship or growth.
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] treats the under-depicted cost of conquest as a loss of thematic function even though the film retains an antiwar conclusion and the “侠之大者” frame.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from five informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production and authorship claims remain source-scoped.
+The concept is derived from six informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production, deletion, censorship, and authorship claims remain source-scoped.
 
 ## What Changed
 
-- Added a career-level case in which radical deviation creates iconic autonomous cinema when new dramatic logic coheres.
-- Added spectacle-without-character or tension as a functional failure boundary.
+- Added late-chapter entry as a case where thematic concentration increases the burden to reconstruct missing formation and political cause.
+- Added a split judgment in which language, performance, music, or characterization can succeed locally while overall function remains untransferred.
 
 ## Related Concepts
 
@@ -93,3 +101,4 @@ The concept is derived from five informal, multi-host comparisons whose judgment
 - [[TragicAdaptationReframing]] - explains how a changed ending can rebuild romantic function.
 - [[FantasyCharacterLogic]] - isolates behavioral credibility and capability preparation inside invented worlds.
 - [[TechnologyDrivenWuxiaModernization]] - explains how technical transformation can support or outrun adapted dramatic function.
+- [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - negative case of retained incidents and ideals without sufficient causal and experiential reconstruction.

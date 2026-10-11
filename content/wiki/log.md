@@ -35644,3 +35644,11 @@ Added source `536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt626010
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？
+
+Added source `049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p`; created [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]]; and resynthesized [[TsuiHark|徐克]], [[LegendOfTheCondorHeroes|《射雕英雄传》]], [[FunctionalAdaptationFidelity]], [[TraditionalWuxiaActionCraft]], and [[ThemePlotCoherence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: beginning with the novel's late chapters can concentrate its mature questions, but incident-heavy flashback does not reconstruct accumulated growth, relationship, martial hierarchy, witnessed war, or civilian cost; localized strengths in language, 华筝, supporting performance, music, and setting do not repair causal gaps, effects-led combat, or an asserted antiwar climax. No settled contradiction was adopted. The film's altered 李萍 death remains version-specific rather than overwriting the novel account, while scores, casting and costume judgments, censorship, deleted material, fixed casting, project control, directorial authority, and unseen cuts or scripts remain subjective, speculative, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused film, work, filmmaker, adaptation, action, and theme pages capture the durable addition without reopening large unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,463 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

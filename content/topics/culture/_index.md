@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3417
+topic_total_pages: 3419
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7007,6 +7007,9 @@ topic_entities:
   - key: "LegendOfTheCondorHeroes"
     title: "《射雕英雄传》 / The Legend of the Condor Heroes"
     url: "/wiki/entities/legendofthecondorheroes/"
+  - key: "LegendOfTheCondorHeroesTheGallants2025"
+    title: "《射雕英雄传：侠之大者》 / 2025 Film"
+    url: "/wiki/entities/legendofthecondorheroesthegallants2025/"
   - key: "TheLittlePrince"
     title: "《小王子》 / The Little Prince"
     url: "/wiki/entities/thelittleprince/"
@@ -8838,6 +8841,9 @@ topic_sources:
   - key: "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687"
     title: "03.莱博维茨的赞歌：要有光，哪怕废土之上"
     url: "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  - key: "049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p"
+    title: "049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？"
+    url: "/wiki/sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p/"
   - key: "050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg"
     title: "050 新浪潮：徐克武侠电影大回顾"
     url: "/wiki/sources/050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg/"

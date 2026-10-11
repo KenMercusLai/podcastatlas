@@ -10,6 +10,7 @@ sources:
   - 109-quhua-gui-chuideng-zhi-kunlun-shengong-p3-xishengzhe-shui-jitan-liangnan-lpd-4m9kuh2ghomoxlfpdckefnb9
   - 105-quhua-gui-chuideng-zhi-kunlun-shengong-p2-jiuceng-yaota-yu-jiyi-zhicheng-lp6vqufwvlwdl8tcrchvk7j285we
   - 056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h
+  - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-11
 ---
@@ -35,6 +36,8 @@ The three [[KunlunShrineGhostBlowsOutTheLight|《昆仑神宫》]] notes add a u
 The later ritual adds interpretation under pressure, cost consistency, and climax placement. Before the resolution, the hosts argue that the characters accept the mural's lethal meaning too quickly despite earlier deceptive rules; the existence of a timer creates urgency but does not validate the reading. The finale then narrows the rule to transformed eyes and supplies the ghost mother's crystal eyes. This makes the alternative intelligible while still feeling convenient to the hosts. They accept the protagonists' retirement and the idea that the journey yielded more than treasure, but find that the substitute lowers the promised cost and that continued monster-and-escape action after the curse is broken displaces the central climax rather than deepening it. Coherence is therefore comparative within one work: the same audience can accept a fantastic rule when its clues are planted yet resist a later exception when its availability feels timed to avoid the stated cost.
 
 The [[HappyHeroesGuLong|《欢乐英雄》]] discussion adds proportional explicitness. “我们的狗窝” lets ordinary possession and cohabitation enact [[FriendshipAsSharedHome|belonging]], while repeated declarations about friends, warmth, and happiness divide the hosts. One finds that explanation arrives just as action begins to move the reader; another remembers the same rhetoric as life-giving during adolescence. Theme-plot coherence therefore includes not only whether a theme is supported, but whether commentary clarifies the demonstrated pattern without exhausting its emotional and interpretive space.
+
+The critique of [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] adds omitted experience as a thematic failure. The hosts accept that late chapters could focus an adaptation on heroism, force, war, and protection of ordinary people. Their objection is that the film largely omits the campaign, massacre, civilian cost, and political sequence through which 郭靖 would learn and demonstrate that judgment, then relies on a short speech to reverse 成吉思汗. A proposition can therefore align abstractly with its source yet remain unearned in the adaptation when the plot withholds the experiences that would make it an intelligible decision.
 
 ## Key Claims
 
@@ -79,14 +82,19 @@ The [[HappyHeroesGuLong|《欢乐英雄》]] discussion adds proportional explic
 - [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] contrasts the understated “我们的狗窝” with repeated abstract explanation of friendship.
 - [[056-wuxia-shijie-de-yilei-huanle-yingxiong-shuishuo-yingxiong-yiding-shi-jimode-ls7sxwqq5s8lxot5d2dcwrgnex6h]] preserves a counterweight: language that feels over-explicit on rereading may still provide genuine emotional and moral vocabulary at another life stage.
 
+### Omitted experience and asserted moral climax
+
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] argues that references to bones, war, and people-centered heroism lack force when the adaptation has not shown 郭靖 witnessing conquest and civilian suffering.
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] questions the internal logic of persuading 成吉思汗 to withdraw because the film's own military setup describes passage against Jin rather than the later betrayal-and-invasion sequence used by the novel.
+
 ## Counterevidence & Qualifications
 
-Narrative plausibility and thematic fit depend partly on genre convention, pacing, edition, life stage, and reader tolerance for allegory or explicit reflection. The sources are conversational responses to five works rather than a systematic narrative study. The claim that 高立 dies is based on converging implication rather than explicit narration; Bai Yujing and Yuan Zixia's identities, 傅红雪 and 公子羽's relative strength, and 明月心's motives remain unresolved or interpretive. In 《昆仑神宫》, P3 ends before the ritual is resolved, the memory-city mechanism remains contested speculative fiction, and the suggested link between pacing and serial-publication requirements lacks direct production evidence. In 《欢乐英雄》, divided reception shows that perceived overstatement is not a stable textual property independent of age, memory, and need.
+Narrative plausibility and thematic fit depend partly on genre convention, pacing, edition, life stage, adaptation familiarity, and tolerance for allegory or explicit reflection. The sources are conversational responses to six works rather than a systematic narrative study. The claim that 高立 dies is based on converging implication rather than explicit narration; Bai Yujing and Yuan Zixia's identities, 傅红雪 and 公子羽's relative strength, and 明月心's motives remain unresolved or interpretive. In 《昆仑神宫》, P3 ends before the ritual is resolved, the memory-city mechanism remains contested speculative fiction, and the suggested link between pacing and serial-publication requirements lacks direct production evidence. In 《欢乐英雄》, divided reception shows that perceived overstatement is not a stable textual property independent of age, memory, and need. For 《射雕英雄传：侠之大者》, production constraints, deletion, directorial control, and alternative cuts remain speculative and do not independently explain the finished film.
 
 ## What Changed
 
-- Extended coherence from causal support to the proportion between enacted meaning and explicit explanation.
-- Preserved life-stage-dependent emotional force as counterevidence to a simple anti-didactic judgment.
+- Added omitted formative experience as a distinct way an adaptation can state a source-aligned moral without earning it.
+- Added internal political setup as part of the causal burden carried by an antiwar climax.
 
 ## Related Concepts
 
@@ -108,3 +116,4 @@ Narrative plausibility and thematic fit depend partly on genre convention, pacin
 - [[HappyHeroesGuLong|《欢乐英雄》]] - case where enacted belonging and direct friendship rhetoric produce divided judgments.
 - [[FriendshipAsSharedHome]] - theme whose strongest evidence comes from ordinary collective possession and support.
 - [[StoryEarnedMoralInstruction]] - neighboring framework for explicit conclusions whose force has already been dramatized.
+- [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - adaptation case where the final moral is judged consistent in abstraction but unsupported by the film's preceding experience and political logic.

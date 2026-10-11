@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [049 【锐评春节档】徐克《射雕英雄传》：这到底拍了个啥？](sources/049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p.md) — 纸醉金迷FM批评《射雕英雄传：侠之大者》的压缩、人物因果、特效化动作与未获铺垫的反战主题，同时保留蒙古段落、华筝、配角和语言设计等局部优点。
 - [536. Emperors of Rome: Caligula, Incest and Insanity (Part 3)](sources/536-emperors-of-rome-caligula-incest-and-insanity-part-3-glt6260105026.md) — The Rest Is History reassessment of Caligula's dynastic appeal, populist spectacle, senatorial terror, military power, assassination, and hostile-source reputation.
 - [VOL.150大物是也·大白牛：NMN、氨糖 、护肝片、辅酶…这些爆款保健品真的靠谱吗？](sources/vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o.md) — 这病说来话长 episode on supplement necessity, marketing, evidence levels, glucosamine, NMN, surrogate liver markers, and lifestyle-first safety boundaries.
 - [Essentials: The Science of Emotions & Relationships](sources/scim1654683440-scim1654683440.md) — Condensed Huberman Lab episode on emotion coordinates, attachment development, puberty, social hormones, attention shifting, and the boundary that vagal signaling is not uniformly calming.
@@ -5089,6 +5090,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alok Kanojia](entities/AlokKanojia.md) — Psychiatrist and contemplative-practice educator connecting identity-level change, distress tolerance, digital life, and evidence-bounded inner work.
 - [纸醉金迷FM / Zhi Zui Jin Mi FM](entities/ZhiZuiJinMiFM.md) — Conversational cultural podcast using retelling, reception memory, causal scrutiny, disagreement, action criticism, supernatural worldbuilding analysis, and accountability-preserving character sympathy.
 - [《射雕英雄传》 / The Legend of the Condor Heroes](entities/LegendOfTheCondorHeroes.md) — 金庸长篇武侠小说及其影视改编语料，以成长、人物内在张力、媒介转换和华山论剑高潮检验改编质量。
+- [《射雕英雄传：侠之大者》 / 2025 Film](entities/LegendOfTheCondorHeroesTheGallants2025.md) — 徐克执导的2025年电影，当前资料聚焦其后半部压缩、人物因果、动作语法与反战主题铺垫。
 - [《孔雀翎》 / The Peacock Feather](entities/PeacockFeatherGuLong.md) — Gu Long story turning an allegedly invincible weapon into confidence, deterrence, reciprocal love, and a costly family secret.
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、先以知敌经验参与汉军前锋搜索，后复归匈奴并建议北迁诱汉军深入的跨阵营战略中介。

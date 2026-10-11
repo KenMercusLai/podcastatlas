@@ -5,6 +5,7 @@ tags: [producer, director, hong-kong-cinema]
 sources:
   - 054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t
   - 050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg
+  - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
 last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 
 Across the two sources, Tsui's authorship appears as a system rather than a single credit: fast and emotionally forceful editing, distinctive art and costume, theatrical action, technical experimentation, and deep involvement in writing, casting, financing, and design recur across directing and producing roles. [[AChineseGhostStory1987|《倩女幽魂》(1987)]] supplies a bounded case in which his contribution is substantial but [[ChingSiuTung|程小东]] retains the directing credit; the career retrospective similarly treats disputed scene-level attributions as uncertain.
 
-The profile also contains a durable tension. Tsui's transformations can create new cinematic forms and iconic characters without literal fidelity, yet large ensembles, compressed cuts, discontinuous motives, or effects-first construction can leave story and character behind. His later technical experimentation is therefore continuous with the early work, but not an automatic guarantee of dramatic success.
+The profile also contains a durable tension. Tsui's transformations can create new cinematic forms and iconic characters without literal fidelity, yet large ensembles, compressed cuts, discontinuous motives, or effects-first construction can leave story and character behind. The negative assessment of [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] makes that limit concrete: the hosts find localized visual, linguistic, musical, and performance strengths but argue that concentrated backstory, effects-led combat, and an under-prepared ethical climax do not form a coherent whole. His later technical experimentation is therefore continuous with the early work, but not an automatic guarantee of dramatic success.
 
 ## Key Characteristics
 
@@ -38,16 +39,16 @@ The profile also contains a durable tension. Tsui's transformations can create n
 
 - [[050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg]] identifies montage, art, costume, action design, effects, 3D, and recurring story-world devices as a career-level pattern.
 - [[050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg]] treats radical adaptation as potentially successful when it creates coherent emotion and iconic screen form, while criticizing compression and effects that weaken motive or narrative tension.
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] supplies a negative test in which a late-novel starting point, rapid flashback, game-like combat cues, and an unsupported antiwar climax are judged to overwhelm isolated strengths.
 
 ## Qualifications
 
-Scene-level attribution remains uncertain and sometimes rests on stylistic inference, rumor, or retrospective recollection. Film rankings, career periodization, budgets, box office, industrial influence, technical firsts, intended cuts, and claims about background causing style remain source-scoped.
+Scene-level attribution remains uncertain and sometimes rests on stylistic inference, rumor, or retrospective recollection. Film rankings, career periodization, budgets, box office, industrial influence, technical firsts, intended cuts, and claims about background causing style remain source-scoped. The suggestion that Tsui had limited authority over the project, casting, script, deletion, or final cut of 《射雕英雄传：侠之大者》 is speculation, not an established explanation for the finished film.
 
 ## What Changed
 
-- Expanded the profile from one produced film to a career-level account of wuxia authorship and technical experimentation.
-- Preserved credited collaborators while distinguishing formal credit from broader project control.
-- Added the recurring tension between transformative spectacle and narrative coherence.
+- Added 《射雕英雄传：侠之大者》 as a focused negative case where technical and visual ambition is judged to outrun character, causality, and theme.
+- Kept claims about limited project authority or an unseen better version explicitly source-scoped.
 
 ## Relationships
 
@@ -57,3 +58,4 @@ Scene-level attribution remains uncertain and sometimes rests on stylistic infer
 - [[FilmWorkshop|电影工作室 / Film Workshop]] - creator-centered production company associated with his project control.
 - [[TechnologyDrivenWuxiaModernization]] - synthesis of his recurring technical and visual experimentation.
 - [[FunctionalAdaptationFidelity]] - framework separating successful transformation from incoherent deviation.
+- [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - directed adaptation used by the bounded source as a negative test of compression and thematic construction.

@@ -7,6 +7,7 @@ sources:
   - 095-chunjiedang-shangying-shenru-jiexi-biaoren-yuanzhu-zuihao-de-wuxiaman-lvuidycumja57k80gdnflcalvzcy
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
   - 050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg
+  - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ Neither grammar is automatically more authentic. Extended exchange can make skil
 The [[TaiChiMaster1993|《太极张三丰》]] case adds formation, memory, and embodied discovery. A staff array becomes a tactical system to read; blades accumulate visible damage while intercut memories convert combat into fraternal tragedy; water and circular movement make abstract principle observable; and a rope net temporarily defeats superior technique by removing stable footing. Readability therefore includes not just seeing strikes but understanding the changing problem a character must solve.
 
 The [[TsuiHark|徐克]] retrospective broadens the concept from exchange readability to historical changes in action texture. Wirework, explosions, fast cutting, stage-like movement, and visual design can make combat airborne, emotional, and theatrical, while 《刀》 and 《七剑》 use blood, dust, injury, and bodily pain to strip romance from the jianghu. These are not opposites to be ranked abstractly: each must make its chosen rhythm, space, force, and consequence legible enough to carry drama rather than functioning as detached display.
+
+The [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] critique adds an effects-and-explanation boundary. The hosts do not reject impossible force or digital imagery by definition; they object when waves, barriers, vortexes, named moves, highlighted weak points, and spoken tactical explanation replace the bodily exchange through which advantage should become perceptible. Their criticism also preserves source hierarchy as a dramatic issue: a visually large victory can still feel weak when the adaptation has not established why one fighter can overcome another.
 
 ## Key Claims
 
@@ -61,14 +64,19 @@ The [[TsuiHark|徐克]] retrospective broadens the concept from exchange readabi
 
 - [[050-xinlangchao-xuke-wuxia-dianying-dahuigu-lqyqta6vtaeaw70o3fvn3xlhndxg]] contrasts Tsui Hark's wire-assisted, fast-cut, stage-like 1990s spectacle with the blood, dust, injury, and pain emphasized in 《刀》 and 《七剑》.
 
+### Effects, explanation, and embodied exchange
+
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] criticizes the 郭靖–欧阳锋 confrontation for making effects, shouted moves, graphic cues, and verbal explanation carry information that the exchange itself does not render legible.
+- [[049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p]] treats the Huang Rong–Hua Zheng fight as unusually physical yet questions both its romantic-rivalry function and the capability balance it presents.
+
 ## Counterevidence & Qualifications
 
-The concept comes from four informal podcast discussions and should not define all traditional wuxia cinema. “Traditional,” “realistic,” “theatrical,” and “painful” are reception judgments rather than fixed technical categories, and the sources do not provide shot-by-shot choreography or production evidence. The earlier style prediction is not evidence about the completed film. Readable or forceful combat can coexist with weak motive, dialogue, editing, accelerated villainy, political compression, or effects-first spectacle; it is neither necessary nor sufficient for a successful film as a whole.
+The concept comes from five informal podcast discussions and should not define all traditional wuxia cinema. “Traditional,” “realistic,” “theatrical,” “game-like,” and “painful” are reception judgments rather than fixed technical categories, and the sources do not provide shot-by-shot choreography or production evidence. The earlier style prediction is not evidence about the completed film. Readable or forceful combat can coexist with weak motive, dialogue, editing, accelerated villainy, political compression, or effects-first spectacle; it is neither necessary nor sufficient for a successful film as a whole.
 
 ## What Changed
 
-- Added theatrical flight and bodily de-romanticization as distinct action textures.
-- Made dramatic integration, rather than realism or spectacle alone, the boundary for both.
+- Added effects-and-explanation overload as a failure mode when combat ceases to communicate changing advantage through action.
+- Added martial hierarchy and scene function as separate tests from the physicality of an isolated fight.
 
 ## Related Concepts
 
@@ -79,3 +87,4 @@ The concept comes from four informal podcast discussions and should not define a
 - [[BiaoRenComic|《镖人》]] - comic case associated with abrupt sword-film lethality.
 - [[TaiChiMaster1993|《太极张三丰》]] - film case for formation, embodied learning, and fraternal combat.
 - [[TechnologyDrivenWuxiaModernization]] - explains how editing, wirework, effects, and 3D can alter action grammar.
+- [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - negative case of effects-led, verbally explained martial spectacle.
