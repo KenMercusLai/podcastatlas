@@ -56516,9 +56516,9 @@
       "url": "/wiki/concepts/creativespine/"
     },
     "CreativeStateMatching": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5096680097 [SCIM5096680097].md",
@@ -56533,9 +56533,16 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Learning & Creativity With Science-Based Tools",
           "url": "/wiki/sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324/"
+        },
+        {
+          "episode_file": "SCIM1219836270 [SCIM1219836270].md",
+          "key": "essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimize Your Learning & Creativity With Science-Based Tools",
+          "url": "/wiki/sources/essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/creativestatematching/"
     },
     "CreativityAsFeltProcess": {

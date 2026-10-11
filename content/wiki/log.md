@@ -35836,3 +35836,11 @@ Added source `528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | Essentials: Optimize Your Learning & Creativity With Science-Based Tools
+
+Added source `essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270` and resynthesized [[CreativeStateMatching]] from its complete preserved evidence inventory before appending the new source once. The Essentials release repeats the earlier [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324|full episode]] distinction between relaxed exploration and alert implementation, so it adds editorial provenance rather than independent corroboration. No settled contradiction was adopted. Plasticity taxonomies, pathway mechanisms, caffeine timing, meal composition, NSDR, psychedelic, and 90-minute timing claims remain source-scoped. Broad [[AndrewHuberman]], [[HubermanLab]], [[Neuroplasticity]], [[DailyCircadianPerformanceRoutine]], [[NonSleepDeepRestRecovery]], [[UltradianDeepWorkBlock]], and [[CaffeineAdenosineSleepTiming]] pages were kept closed because the focused source and concept capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,487 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

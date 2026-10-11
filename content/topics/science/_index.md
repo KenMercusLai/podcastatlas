@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1558
+topic_total_pages: 1559
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4062,6 +4062,9 @@ topic_sources:
   - key: "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382"
     title: "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools"
     url: "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+  - key: "essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270"
+    title: "Essentials: Optimize Your Learning & Creativity With Science-Based Tools"
+    url: "/wiki/sources/essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270/"
   - key: "essentials-protocols-to-improve-vision-eyesight-scim1823781754"
     title: "Essentials: Protocols to Improve Vision & Eyesight"
     url: "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
