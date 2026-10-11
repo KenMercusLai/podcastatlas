@@ -20,7 +20,8 @@ sources:
   - 63-hitler-with-ian-kershaw-part-1-glt1996418919
   - 623-the-nazis-at-war-churchills-finest-hour-part-4-glt7746266438
   - 620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581
-last_updated: 2026-10-10
+  - 528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -58,6 +59,8 @@ Territorial coercion operated through the same combination of direction, opportu
 
 The [[RhinelandRemilitarization|Rhineland remilitarization]] shows how earlier success reshaped his judgment. Hitler withdrew from the 1934 Austrian confrontation when Mussolini acted, but in March 1936 he sent forces into the demilitarized zone with instructions to retreat if France intervened. Non-intervention produced strategic protection, mass acclaim, and a stronger belief that bold risk would overcome divided opponents.
 
+The opening Sudeten-crisis source shows that feedback becoming a plan to destroy [[Czechoslovakia]]. Hitler used the language of persecuted German speakers while directing [[KonradHenlein]] to keep concessions from resolving the dispute and ordering [[CaseGreen]] for rapid whole-state conquest. Czech industry, defenses, raw materials, army, and alliances made the country both an obstacle and a prize. Economic strain, urgency about his age and health, [[JoachimVonRibbentrop]]'s contemptuous forecast of British weakness, and belief in providential mission reinforced speed, while German public reluctance and [[LudwigBeck]]'s opposition remained real but ineffective constraints.
+
 The later source shows the same direction bound to war preparation. Hitler and [[JosephGoebbels]] exploited [[ErnstVomRath|Ernst vom Rath]]'s death to unleash [[Kristallnacht]], after which the regime widened punishment, dispossession, and coerced emigration. His January 1939 speech explicitly joined a future European war to a threat of Jewish annihilation.
 
 The Mitford episode adds an informal foreign-social layer to this political profile. Hitler reportedly met [[UnityMitford|Unity Mitford]] more than 140 times, relaxed and joked in her company, rewarded her with symbolic access, and used her as a younger-sister figure, jester, or talisman rather than an established mistress. Her aristocratic British identity, public antisemitism, relationship with [[JuliusStreicher]], and fantasy of an Anglo-German alliance made her socially useful, while the confiscated flat she received tied access and favor directly to Jewish dispossession.
@@ -86,7 +89,7 @@ His postwar image became historically active in its own right. Concentrating bla
 - He treated racial survival, not individual dignity or universal principle, as the standard of morality.
 - He set broad goals that subordinates radicalized through anticipatory initiative.
 - He used tactical restraint and national law to manage, not reverse, persecution.
-- He joined a conquest-dependent rearmament economy, urgency to defeat France before blockade and Allied rearmament took effect, misreading of British resistance, territorial coercion, racial exclusion, pogrom escalation, and annihilatory eastern occupation in a project where failed tactical options intensified rather than moderated ideological expansion.
+- He joined a conquest-dependent rearmament economy, engineered minority crises, urgency to defeat opponents before intervention or blockade took effect, misreading of British resistance, territorial coercion, racial exclusion, pogrom escalation, and annihilatory eastern occupation in a project where failed tactical options intensified rather than moderated ideological expansion.
 
 ## Evidence
 
@@ -107,6 +110,7 @@ His postwar image became historically active in its own right. Concentrating bla
 - Austrian conquest: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects Hitler's intimidation, ultimatums, invasion, emotional reception, and annexation decision to the removal of Austrian statehood and immediate persecution.
 - Rearmament and expansion logic: [[406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114]] links struggle ideology, eastern living space, military recovery, resource pressure, and anticipated conquest.
 - Risk and deterrence: [[406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114]] contrasts his 1934 retreat under Italian pressure with the militarily reversible but politically transformative Rhineland gamble.
+- Czechoslovak destruction plan: [[528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478]] connects humanitarian pretext, Henlein's managed demands, Case Green, strategic-economic objectives, urgency, providential confidence, and failed internal opposition.
 - Informal foreign-social access: [[375-hitler-and-the-mitford-sisters-glt5493256820]] connects his repeated meetings with Unity, symbolic favor, family introductions, and relaxation in her company to her explicit antisemitism, British fascist brokerage, and benefit from dispossession.
 - Western-war urgency and command conflict: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects struggle ideology, blockade exposure, fear of Allied rearmament, the demand for Fall Gelb, and rejection of senior commanders' objections.
 - Assassination aftermath: [[620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581]] connects Elser's narrow failure, public sympathy, weakened coup hopes, and Hitler's providential interpretation of survival.
@@ -125,6 +129,7 @@ This profile is bounded to seventeen podcast episodes on Hitler's formation, ris
 - Added Hitler's 1939 pairing of public peace language with immediate planning for a western offensive.
 - Integrated blockade vulnerability and fear of Allied rearmament into his demand for speed.
 - Added the failed Elser bombing and providential interpretation of survival as contingent reinforcements of risk-taking and personal indispensability.
+- Added the pre-Munich plan to destroy Czechoslovakia and the interaction of strategic gain, engineered grievance, economic pressure, adviser bias, and providential self-belief.
 
 ## Relationships
 
@@ -154,6 +159,7 @@ This profile is bounded to seventeen podcast episodes on Hitler's formation, ris
 - [[RhinelandRemilitarization]] - militarily risky treaty violation whose success strengthened his strategic position and self-belief.
 - [[NaziRearmamentWarEconomy]] - economic-military system that tied recovery and legitimacy to expansion.
 - [[DeterrenceFailureAgainstExpansion]] - pattern through which opponent division and inaction rewarded escalating gambles.
+- [[CaseGreen]] - 1938 plan showing that his Czechoslovak objective exceeded the public Sudeten claim.
 - [[TheHolocaust]] - genocide toward which the documented ideology, institutions, and policies developed.
 - [[NurembergRally1934]] - event staging his consolidated authority as unity and permanence.
 - [[TotalitarianSpectacleAndRitual]] - experiential politics organized around his leadership.

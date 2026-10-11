@@ -35828,3 +35828,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)
+
+Added source `528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478`; created [[KonradHenlein]], [[LudwigBeck]], and [[CaseGreen]]; and resynthesized [[AdolfHitler]], [[NevilleChamberlain]], [[Czechoslovakia]], [[EdvardBenes]], and [[JoachimVonRibbentrop]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hitler's Sudeten rhetoric concealed a prior whole-state objective; Czech democratic, military, industrial, and strategic strength made the country both obstacle and prize; Henlein's movement rejected workable concessions to preserve escalation; Beck's resistance failed to become collective action; and Chamberlain's forceful rationalism and sincere war avoidance could not model an opponent for whom ideological struggle and war were central. No settled contradiction was adopted. Sudeten grievances were not invented, but Berlin's rejection of concessions and Case Green qualify the claim that intervention sought only minority redress. Numerical, medical, public-opinion, dialogue, motive, conspiracy, and counterfactual claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,486 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

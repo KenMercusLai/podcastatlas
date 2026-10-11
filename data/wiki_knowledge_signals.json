@@ -7836,9 +7836,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -7958,9 +7958,16 @@
           "show": "The Rest Is History",
           "title": "620. The Nazis at War: Hitler Strikes West (Part 1)",
           "url": "/wiki/sources/620-the-nazis-at-war-hitler-strikes-west-part-1-glt4381972581/"
+        },
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/adolfhitler/"
     },
     "AdolfTolkachev": {
@@ -38529,6 +38536,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/caseexpansionpoliticalpurge/"
     },
+    "CaseGreen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/casegreen/"
+    },
     "CaseReadyIntakeAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -59212,9 +59235,9 @@
       "url": "/wiki/entities/czechrepublic/"
     },
     "Czechoslovakia": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8685711342 [GLT8685711342].md",
@@ -59229,6 +59252,13 @@
           "show": "The Rest Is History",
           "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
           "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
+        },
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
         }
       ],
       "updated": "2026-10-11",
@@ -74804,9 +74834,9 @@
       "url": "/wiki/concepts/educationsignalinflation/"
     },
     "EdvardBenes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8359198113 [GLT8359198113].md",
@@ -74814,6 +74844,13 @@
           "show": "The Rest Is History",
           "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
           "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
+        },
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
         }
       ],
       "updated": "2026-10-11",
@@ -141282,9 +141319,9 @@
       "url": "/wiki/entities/jizhoulatehan/"
     },
     "JoachimVonRibbentrop": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5437884494 [GLT5437884494].md",
@@ -141292,6 +141329,13 @@
           "show": "The Rest Is History",
           "title": "531. Hitler's War on Poland: The Pact with Stalin (Part 2)",
           "url": "/wiki/sources/531-hitlers-war-on-poland-the-pact-with-stalin-part-2-glt5437884494/"
+        },
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
         }
       ],
       "updated": "2026-10-11",
@@ -147518,6 +147562,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/konradadenauer/"
+    },
+    "KonradHenlein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/konradhenlein/"
     },
     "KonradLorenz": {
       "episode_count": 2,
@@ -165728,6 +165788,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/lucylethbridge/"
+    },
+    "LudwigBeck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/ludwigbeck/"
     },
     "LudwigErhard": {
       "episode_count": 1,
@@ -188116,9 +188192,9 @@
       "url": "/wiki/entities/nevadabristleconepreserve/"
     },
     "NevilleChamberlain": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
@@ -188140,9 +188216,16 @@
           "show": "The Rest Is History",
           "title": "529. The Nazis' Road to War: Showdown in Munich (Part 2)",
           "url": "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"
+        },
+        {
+          "episode_file": "GLT9235039478 [GLT9235039478].md",
+          "key": "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478",
+          "show": "The Rest Is History",
+          "title": "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)",
+          "url": "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/nevillechamberlain/"
     },
     "NewAmerica": {

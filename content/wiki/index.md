@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)](sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478.md) — The Rest Is History episode on Hitler's engineered Sudeten crisis, Case Green, failed German military opposition, and the assumptions behind Chamberlain's Plan Z.
 - [How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance](sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949.md) — Huberman Lab solo episode on exercise-driven arousal, learning and memory, body-to-brain signaling, sleep, weekly training categories, and effort circuitry.
 - [045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠](sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp.md) — 纸醉金迷FM从李寻欢的牺牲与愧疚切入，讨论龙啸云、林诗音、龙小云和林仙儿之间的忠义、控制、家庭创伤与迟到悔悟。
 - [EP 18: Insurance Transformed: An Actuary's take on AI](sources/ep-18-insurance-transformed-an-actuarys-take-on-ai.md) — Data Science With Sam interview with Stephen Maddis on risk pooling, actuarial workflow inversion, personalization limits, micro-duration coverage, and operational AI efficiency.
@@ -4568,6 +4569,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
+- [Case Green](entities/CaseGreen.md) — Nazi Germany's 1938 plan for rapid destruction of the whole Czechoslovak state.
+- [Konrad Henlein](entities/KonradHenlein.md) — Sudeten German leader whose demands and rejection of Czech concessions served Hitler's engineered crisis.
+- [Ludwig Beck](entities/LudwigBeck.md) — German army chief who warned against war over Czechoslovakia and failed to organize collective military resistance.
 - [《多情剑客无情剑》 / Sentimental Swordsman, Ruthless Sword](entities/SentimentalSwordsmanRuthlessSword.md) — 古龙小说，以被操控的选择、忠义与爱情冲突、内疚和家庭后果构成关系悲剧。
 - [李寻欢 / Li Xunhuan](entities/LiXunhuan.md) — 小李飞刀英雄，武力近乎无敌，却因自我牺牲、愧疚和过度共情反复放弃自我保护。
 - [龙啸云（古龙人物） / Long Xiaoyun (sworn brother)](entities/LongXiaoyunElderGuLong.md) — 李寻欢的结义兄弟，在真心、感激、爱情、屈辱与嫉妒之间逐渐走向背叛。

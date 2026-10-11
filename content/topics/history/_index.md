@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2730
+topic_total_pages: 2731
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6510,6 +6510,9 @@ topic_sources:
   - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
     title: "513. America in '68: Nixon's Great Comeback (Part 6)"
     url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+  - key: "528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478"
+    title: "528. The Nazis' Road to War: Hitler Prepares to Strike (Part 1)"
+    url: "/wiki/sources/528-the-nazis-road-to-war-hitler-prepares-to-strike-part-1-glt9235039478/"
   - key: "529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113"
     title: "529. The Nazis' Road to War: Showdown in Munich (Part 2)"
     url: "/wiki/sources/529-the-nazis-road-to-war-showdown-in-munich-part-2-glt8359198113/"

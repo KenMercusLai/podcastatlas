@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13282
+wiki_total_pages: 13285
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "LucyLethbridge"
     title: "Lucy Lethbridge"
     url: "/wiki/entities/lucylethbridge/"
+  - key: "LudwigBeck"
+    title: "Ludwig Beck"
+    url: "/wiki/entities/ludwigbeck/"
   - key: "LudwigErhard"
     title: "Ludwig Erhard"
     url: "/wiki/entities/ludwigerhard/"
