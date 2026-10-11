@@ -52445,9 +52445,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCharacterInterpretation": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
@@ -52504,6 +52504,13 @@
           "show": "纸醉金迷FM",
           "title": "037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》",
           "url": "/wiki/sources/lqrlbs47ruozcivwkh0ltyydbysn/"
+        },
+        {
+          "episode_file": "ltrye_Vs_fWMLikKzJ76GCOCTpRh [ltrye_Vs_fWMLikKzJ76GCOCTpRh].md",
+          "key": "ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh",
+          "show": "纸醉金迷FM",
+          "title": "016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？",
+          "url": "/wiki/sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh/"
         }
       ],
       "updated": "2026-10-12",
@@ -127197,9 +127204,9 @@
       "url": "/wiki/concepts/humanmovementdigitaltwin/"
     },
     "HumanNaturePlasticity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你 [llSPjStkSuy5C-I9mXM53T2R55F7].md",
@@ -127228,6 +127235,13 @@
           "show": "纸醉金迷FM",
           "title": "037 误入金庸宇宙中的黑暗森林 | 闲话《连城诀》",
           "url": "/wiki/sources/lqrlbs47ruozcivwkh0ltyydbysn/"
+        },
+        {
+          "episode_file": "ltrye_Vs_fWMLikKzJ76GCOCTpRh [ltrye_Vs_fWMLikKzJ76GCOCTpRh].md",
+          "key": "ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh",
+          "show": "纸醉金迷FM",
+          "title": "016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？",
+          "url": "/wiki/sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh/"
         }
       ],
       "updated": "2026-10-12",
@@ -155267,6 +155281,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/lilongjitang/"
+    },
+    "LiMochou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltrye_Vs_fWMLikKzJ76GCOCTpRh [ltrye_Vs_fWMLikKzJ76GCOCTpRh].md",
+          "key": "ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh",
+          "show": "纸醉金迷FM",
+          "title": "016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？",
+          "url": "/wiki/sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/limochou/"
     },
     "LiNieEasternHan": {
       "episode_count": 1,
@@ -226575,9 +226605,9 @@
       "url": "/wiki/concepts/returnmigrationcareerdiscontinuity/"
     },
     "ReturnOfTheCondorHeroes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrEdm8yixOIhQQSnatPZHChZn14B [lrEdm8yixOIhQQSnatPZHChZn14B].md",
@@ -226585,6 +226615,13 @@
           "show": "纸醉金迷FM",
           "title": "017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？",
           "url": "/wiki/sources/lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b/"
+        },
+        {
+          "episode_file": "ltrye_Vs_fWMLikKzJ76GCOCTpRh [ltrye_Vs_fWMLikKzJ76GCOCTpRh].md",
+          "key": "ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh",
+          "show": "纸醉金迷FM",
+          "title": "016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？",
+          "url": "/wiki/sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh/"
         }
       ],
       "updated": "2026-10-12",
@@ -231018,9 +231055,9 @@
       "url": "/wiki/concepts/romanticautonomyundermanipulation/"
     },
     "RomanticInjuryResponsePatterns": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljxfGtvPYoHNXagL2V0yMcJ1ZYpw [ljxfGtvPYoHNXagL2V0yMcJ1ZYpw].md",
@@ -231035,9 +231072,16 @@
           "show": "纸醉金迷FM",
           "title": "044 乱世情仇乱世哀：金庸《碧血剑》中的爱情书写",
           "url": "/wiki/sources/liiidmjxhrngcffnld51y-l7_oan/"
+        },
+        {
+          "episode_file": "ltrye_Vs_fWMLikKzJ76GCOCTpRh [ltrye_Vs_fWMLikKzJ76GCOCTpRh].md",
+          "key": "ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh",
+          "show": "纸醉金迷FM",
+          "title": "016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？",
+          "url": "/wiki/sources/ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/romanticinjuryresponsepatterns/"
     },
     "RomanticNatureUnity": {

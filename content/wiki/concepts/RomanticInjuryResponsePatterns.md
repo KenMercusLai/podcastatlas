@@ -5,7 +5,8 @@ tags: [relationships, heartbreak, agency, harm, literature]
 sources:
   - 059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw
   - liiidmjxhrngcffnld51y-l7_oan
-last_updated: 2026-10-11
+  - ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,9 +22,11 @@ The comparison does not rank pain or diagnose the characters. It asks where the 
 
 The [[BixueJian|《碧血剑》]] cases sharpen the contrast between reorientation and fixation. [[HeTieshou|何铁手]] survives mistaken love, institutional rupture, and an acute suicidal crisis before moving toward another life. [[HeHongyao|何红药]], by contrast, treats extreme prior sacrifice as a reason the bond must acquire the meaning she expected, then redirects rejection into captivity, torment, lifelong pursuit, and death beside the unavailable person. The comparison makes sunk identity investment an important branching pressure without making either response automatic.
 
+The spectrum expands inside [[ReturnOfTheCondorHeroes|《神雕侠侣》]]. [[LiMochou|李莫愁]] turns abandonment and perceived unfairness into revenge and fatal fixation; 武三娘 answers marital injury with independent care and sacrifice; 完颜萍 releases an unavailable attachment and accepts ordinary family life; and 公孙止 with 裘千尺 convert disrespect, control, betrayal, and self-preservation into reciprocal destruction. Similar wounds therefore do not select one destiny, and a less romantic or less absolute later life need not count as defeat.
+
 ## Key Claims
 
-- Relational injury does not dictate one response; rebuilding, reorientation, withdrawal, control, harm displacement, expectation revision, self-injury, and bargaining are distinct pathways.
+- Relational injury does not dictate one response; rebuilding, reorientation, withdrawal, revenge, sacrificial care, control, harm displacement, self-injury, bargaining, and mutual destruction are distinct pathways.
 - Continuing to feel attachment is compatible with maintaining behavioral boundaries and another life.
 - Withdrawal can protect against immediate vulnerability while transmitting fear and control to dependents.
 - Externalizing an unrealized romantic script onto unrelated people multiplies victims without repairing the original loss.
@@ -52,14 +55,20 @@ The [[BixueJian|《碧血剑》]] cases sharpen the contrast between reorientati
 
 - [[liiidmjxhrngcffnld51y-l7_oan]] contrasts He Tieshou's movement into a new life after mistaken love and suicidal crisis with He Hongyao's conversion of sacrifice and rejection into coercion, lifelong pursuit, and self-destruction.
 
+### Revenge, sacrifice, ordinary life, and mutual destruction
+
+- [[ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh]] contrasts Li Mochou's enlarging grievance with 武三娘's protective action and 完颜萍's willingness to build a less idealized later life.
+- [[ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh]] uses 公孙止 and 裘千尺 to show how control, humiliation, betrayal, and self-preservation can become a mutually escalating marital system.
+
 ## Counterevidence & Qualifications
 
-The framework derives from conversational literary interpretation, not a clinical taxonomy or advice for real relationships. Each character is compressed around a dominant response even though motives and actions may be more varied across novels and editions. Lower expectations may reflect agency or constrained accommodation; remarriage does not prove emotional closure; rapid reorientation does not make prior pain trivial; and formal status can provide security while also intensifying competition and coercion. Explanation does not excuse violence toward oneself, children, partners, or bystanders.
+The framework derives from conversational literary interpretation, not a clinical taxonomy or advice for real relationships. Each character is compressed around a dominant response even though motives and actions may be more varied across novels and editions. Lower expectations may reflect agency or constrained accommodation; remarriage or ordinary family life does not prove emotional closure; rapid reorientation does not make prior pain trivial; and formal status can provide security while also intensifying competition and coercion. The Li Mochou and 绝情谷 readings depend heavily on inferred motives, and explanation does not excuse violence toward oneself, children, partners, pupils, or bystanders.
 
 ## What Changed
 
-- Added the He Tieshou–He Hongyao contrast between rebuilding after crisis and making prior sacrifice the basis of lifelong fixation.
-- Added sunk identity investment as a pressure that can intensify romantic injury without creating a right to reciprocity.
+- Expanded the response spectrum to include revenge, protective sacrifice, ordinary reorientation, and reciprocal marital destruction.
+- Clarified that a less idealized later life can be an active release rather than a lesser romantic outcome.
+- Added similar injury with divergent choices as a boundary against emotional determinism.
 
 ## Related Concepts
 
@@ -69,3 +78,5 @@ The framework derives from conversational literary interpretation, not a clinica
 - [[LoveControlIllusion]] - explains attempts to make another person's affection or return controllable.
 - [[CompassionateCharacterInterpretation]] - keeps pressure, pain, agency, victims, and responsibility in view together.
 - [[FictionalRelationshipCompatibilityReading]] - tests reciprocity, timing, agency, and mutual flourishing rather than sacrifice alone.
+- [[LiMochou|李莫愁]] - literary case of grievance, retained tenderness, revenge, and fatal fixation.
+- [[ReturnOfTheCondorHeroes|《神雕侠侣》]] - ensemble case comparing several non-inevitable responses to failed love.

@@ -36341,3 +36341,11 @@ Added source `lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 016 问世间，情为何物|李莫愁才是金庸《神雕侠侣》核心人物？
+
+Added source `ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh`; created [[LiMochou|李莫愁]]; and resynthesized [[ReturnOfTheCondorHeroes|《神雕侠侣》]], [[RomanticInjuryResponsePatterns|情伤应对模式]], [[HumanNaturePlasticity|人性可变性]], and [[CompassionateCharacterInterpretation|悲悯式角色理解]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: abandonment and perceived unfairness make Li Mochou's grievance intelligible without excusing violence; tenderness, symbolic loyalty, self-preservation, and cruelty remain visible in the same person; and the novel's supporting characters show that similar relational injury can lead to revenge, protective sacrifice, ordinary reorientation, or reciprocal destruction rather than one determined fate. No settled contradiction was adopted. The transformation-versus-amplification dispute, 陆展元's motives, Li Mochou's death wish, authorial sympathy, name and poem symbolism, exact dialogue, chronology, and edition details remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused novel, character, and concept pages capture the durable additions without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,551 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb
   - zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt
   - lqrlbs47ruozcivwkh0ltyydbysn
+  - ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh
 last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
@@ -23,11 +24,13 @@ Opportunity structure appears through [[LiSi|李斯]] in [[zizhi-tongjian-qinji-
 
 [[LianChengJue|《连城诀》]] supplies a literary pressure chamber in [[lqrlbs47ruozcivwkh0ltyydbysn]]. 花铁干's fear, calculation, and concern for reputation exist before the snow valley, but isolation, humiliation, hunger, and the collapse of social monitoring let those tendencies expand into submission, cannibalism, and slander. 狄云's first flattering lie supplies the incremental mirror: a compromise initially felt as difficult can become easier through repetition. Plasticity therefore includes moral degradation as well as cultivation, while the persistence of care in 狄云、水笙、丁典 and 凌霜华 prevents environment from becoming a total deterministic explanation.
 
+Single-event transformation becomes a direct dispute through [[LiMochou|李莫愁]]. One reading doubts that rejection can turn a previously good person into a wholly different moral type; another allows genuine love and later distortion. The shared ground is narrower: abandonment and perceived unfairness can amplify grievance and reduce restraint, while later choices, lack of self-examination, and contrasting responses by 武三娘 or 完颜萍 prevent heartbreak from becoming a sufficient cause.
+
 ## Key Claims
 
 - Good and bad tendencies can coexist, shift, and become dominant under different conditions.
 - Environment, need, motive, goal, education, law, ritual, relationships, and repeated practice all shape conduct.
-- Crisis can expose prior tendencies and alter later behavior; it need not reveal a single timeless “true self.”
+- Crisis or dramatic injury can expose prior tendencies, initiate durable change, or do both; it need not reveal a single timeless “true self.”
 - Plasticity includes deliberate cultivation, opportunity-seeking adaptation, survival compromise, and moral degradation, which should not be treated as equivalent changes.
 - Repetition matters in both directions: sustained practice can internalize discipline, while an initial compromise can lower the threshold for the next one.
 - Context explains a field of pressure without making every choice inevitable or erasing responsibility.
@@ -51,16 +54,20 @@ Opportunity structure appears through [[LiSi|李斯]] in [[zizhi-tongjian-qinji-
 - [[lqrlbs47ruozcivwkh0ltyydbysn]] uses 狄云's increasingly easy flattery to show how survival-driven repetition can normalize conduct first experienced as morally difficult.
 - [[lqrlbs47ruozcivwkh0ltyydbysn]] preserves resistant cases whose care survives pressure, limiting any deterministic claim that environment produces one outcome.
 
+### Romantic injury and divergent response
+
+- [[ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh]] preserves disagreement over whether Li Mochou's rejection changed her basic character or amplified prior rigidity and self-centeredness.
+- [[ltrye_vs_fwmlikkzj76gcoctprh-ltrye_vs_fwmlikkzj76gcoctprh]] contrasts Li Mochou with 武三娘 and 完颜萍, showing that similar relational pain does not produce a uniform behavioral result.
+
 ## Counterevidence & Qualifications
 
-The sources combine classical-philosophy explanation, historical anecdote, practical self-cultivation, disaster illustration, and literary interpretation; they do not establish a single empirical psychology of personality change. Crisis behavior may reveal existing dispositions, produce temporary adaptation, cause trauma, or create durable habits, and the current evidence does not determine their relative weight. Environment should neither excuse chosen harm nor imply that everyone under the same pressure changes alike. The Li Si and 《连城诀》 cases are interpretive accounts of anecdote and fiction, while the Zeng Guofan childhood story is illustrative rather than verified biography.
+The sources combine classical-philosophy explanation, historical anecdote, practical self-cultivation, disaster illustration, and literary interpretation; they do not establish a single empirical psychology of personality change. Crisis behavior may reveal existing dispositions, produce temporary adaptation, cause trauma, or create durable habits, and the current evidence does not determine their relative weight. Environment or heartbreak should neither excuse chosen harm nor imply that everyone under the same pressure changes alike. The Li Si, 《连城诀》, and Li Mochou cases are interpretive accounts of anecdote or fiction, while the Zeng Guofan childhood story is illustrative rather than verified biography.
 
 ## What Changed
 
-- Added extreme conditions as amplifiers of prior tendencies rather than simple revelations of a fixed true self.
-- Added repeated survival compromise as a negative counterpart to deliberate moral cultivation.
-- Preserved resistant goodness as a boundary against environmental determinism.
-- Migrated the page to the synthesis-first knowledge schema.
+- Added heartbreak as a disputed case of transformation versus amplification.
+- Used divergent responses to similar injury as a boundary against single-event determinism.
+- Preserved later choice and self-examination as relevant without claiming a fixed inner essence.
 
 ## Related Concepts
 
@@ -71,3 +78,5 @@ The sources combine classical-philosophy explanation, historical anecdote, pract
 - [[LongTermAchievementDiscipline|长期成事纪律]] - deliberate accumulation as a pathway of self-change.
 - [[FixedHumanNaturePolitics]] - contrasting tendency to build political judgment on permanent moral types.
 - [[LianChengJue|《连城诀》]] - literary pressure test for degradation, persistence, and responsibility.
+- [[LiMochou|李莫愁]] - literary case testing whether crisis changes character or enlarges prior tendencies.
+- [[RomanticInjuryResponsePatterns]] - compares the different directions in which the same category of injury can redirect conduct.
