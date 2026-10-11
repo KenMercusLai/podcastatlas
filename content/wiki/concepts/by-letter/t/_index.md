@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10344
+wiki_total_pages: 10345
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "TrainingCorpusSocialBias"
     title: "Training-Corpus Social Bias"
     url: "/wiki/concepts/trainingcorpussocialbias/"
+  - key: "TransactionalIntimacyPowerAsymmetry"
+    title: "Transactional Intimacy Power Asymmetry / 交易型亲密关系的权力不对称"
+    url: "/wiki/concepts/transactionalintimacypowerasymmetry/"
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"

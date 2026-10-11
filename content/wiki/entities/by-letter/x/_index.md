@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13207
+wiki_total_pages: 13210
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "XuZhe"
     title: "Xu Zhe / 许哲"
     url: "/wiki/entities/xuzhe/"
+  - key: "XiBaoNovel"
+    title: "《喜宝》 / The Story of Xi Bao"
+    url: "/wiki/entities/xibaonovel/"
   - key: "XinXu"
     title: "《新序》 / Xin Xu"
     url: "/wiki/entities/xinxu/"
@@ -413,6 +416,9 @@ wiki_pages:
   - key: "XuFengLateHan"
     title: "徐奉 / Xu Feng (late Han)"
     url: "/wiki/entities/xufenglatehan/"
+  - key: "XuCunzi"
+    title: "徐存姿 / Xu Cunzi"
+    url: "/wiki/entities/xucunzi/"
   - key: "XuXuanLateHan"
     title: "徐宣 / Xu Xuan (late Han magistrate)"
     url: "/wiki/entities/xuxuanlatehan/"

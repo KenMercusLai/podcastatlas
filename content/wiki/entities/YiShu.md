@@ -4,43 +4,46 @@ type: entity
 tags: [person, literature, hong-kong, women]
 sources:
   - ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf
-last_updated: 2026-09-06
+  - 057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
 # 亦舒 / Yi Shu
 
 ## Overview
-亦舒 / Yi Shu enters the wiki through EP385 as the author of the novel [[MyFirstHalfLife|《我的前半生》]], used by the hosts as a sharper baseline against the later TV adaptation.
+亦舒 / Yi Shu is represented through podcast rereadings of [[MyFirstHalfLife|《我的前半生》]] and [[XiBaoNovel|《喜宝》]], two novels used to examine women's work, money, relationships, class, and self-direction.
 
 ## Current Profile
-The episode's Yi Shu is not treated as a full biographical subject, but as a novelist whose work gives women characters taste, work pressure, emotional calculation, and middle-age sobriety. The hosts credit the novel with giving [[LuoZijun|罗子君]] a more female-supported and work-grounded path than the TV drama, while also criticizing Yi Shu's class and taste hierarchy around ordinary men and working people.
+Across the two sources, Yi Shu's women are not reducible to slogans about independence. [[MyFirstHalfLife|《我的前半生》]] supplies a work-and-income warning and a female-supported route through middle-age rebuilding; [[XiBaoNovel|《喜宝》]] complicates that frame by separating intellectual self-possession from economic independence and practical exit. Both readings value her attention to women as active judges of money and intimacy while preserving criticism of class-coded taste, compressed psychology, and popular-fiction resolution.
 
 ## Key Characteristics
-- Authorial source for the original [[MyFirstHalfLife|《我的前半生》]] story.
-- Writer associated in the episode with stylish, self-possessed women characters.
-- Source of a stronger work-and-income warning than the TV drama.
-- Novelist whose female relationships and life reversals are treated as structurally important.
-- Class-coded writer whose taste judgments are also criticized by the hosts.
+- Author of [[MyFirstHalfLife|《我的前半生》]] and [[XiBaoNovel|《喜宝》]] in the current evidence set.
+- Writer of women whose choices join money, work, intimacy, class, care, and self-respect.
+- Novelist who treats female judgment as meaningful even when structural independence is incomplete.
+- Popular-fiction writer whose sharp moral setups can coexist with thin transitions or convenient resolution.
+- Class-coded writer whose representations of taste and ordinary people draw criticism from the hosts.
 
 ## Evidence
-- Authorial source: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] frames the drama as an adaptation of Yi Shu's novel and repeatedly compares adaptation choices against the original.
-- Stylish women characters: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] says [[TangJing|唐晶]] better matches the hosts' image of a Yi Shu heroine than the TV drama's early [[LuoZijun|罗子君]] styling.
-- Work-and-income warning: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] records the hosts remembering the novel as a lesson that women need work and income rather than full dependence on marriage.
-- Female relationships and reversals: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] contrasts the novel's daughter, sister/friendship support, and later Tang Jing reversal with the drama's triangle.
-- Class-coded taste: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] criticizes the novel's use of dining manners, consumption, and ordinary male taste as class markers.
+- Work, income, and female support: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] reads the original *My First Half Life* as more work-grounded and female-supported than the television adaptation.
+- Money, intimacy, and mixed agency: [[057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae]] reads Xi Bao as retaining judgment and care while accepting dependency and suffering coercive control.
+- Women-centered reversals: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] foregrounds female support and middle-age rebuilding, while [[057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae]] contrasts Xi Bao with Xu Conghui's departure from privilege.
+- Popular form and criticism: [[057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae]] admires the novel's entangled love and transaction but questions compressed psychology and convenient recovery; [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] criticizes class-coded taste.
 
 ## Qualifications
-The page records Yi Shu as read through one podcast episode. It should not be used as a complete account of her biography, bibliography, politics, or reception history.
+The page records Yi Shu through two podcast rereadings rather than a complete account of her biography, bibliography, politics, publication history, or reception. Character motive, authorial intention, literary ranking, and general claims about the “Yi Shu heroine” remain source-scoped interpretations.
 
 ## What Changed
-- Created Yi Shu as the authorial baseline for EP385's novel-versus-drama comparison.
-- Preserved both the episode's admiration for the novel's female independence frame and its critique of class-coded taste.
+- Extended the profile from work-grounded independence to transactional intimacy and unequal exit power.
+- Added *Xi Bao* as a second case of women retaining judgment under structural dependence.
+- Preserved criticism of class coding, compressed psychology, and convenient resolution alongside admiration.
 
 ## Relationships
 - [[MyFirstHalfLife|《我的前半生》]] - source novel discussed in EP385.
+- [[XiBaoNovel|《喜宝》]] - source novel that complicates economic and intellectual independence.
+- [[JiangXibao|姜喜宝]] - protagonist whose mixed agency anchors the new reading.
 - [[LuoZijun]] - heroine whose growth is compared across novel and drama.
 - [[TangJing]] - female-support and reversal figure in the novel comparison.
 - [[FemaleSupportDrivenGrowthNarrative]] - narrative structure attributed more strongly to the novel.
 - [[FemaleSubjectivityInClassicReading]] - adjacent reading discipline for women-centered interpretation.
-- [[PseudoIndependentWomenNarrative]] - critique sharpened by comparison with the TV adaptation.
+- [[TransactionalIntimacyPowerAsymmetry]] - framework added by the *Xi Bao* discussion.

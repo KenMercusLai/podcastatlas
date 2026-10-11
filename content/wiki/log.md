@@ -35507,3 +35507,13 @@ Downstream synthesis found no dirty topic and global compaction was not due; ref
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 057 亦舒《喜宝》：拜金女？还是独立女性？
+
+Added source `057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae`; created [[XiBaoNovel|《喜宝》]], [[JiangXibao|姜喜宝]], [[XuCunzi|徐存姿]], and [[TransactionalIntimacyPowerAsymmetry]]; and resynthesized [[YiShu|亦舒]] and [[ExitFreedomMaterialConditions]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Xi Bao's conscious bargain, independent judgment, and later care establish agency without making her economically independent or equal to Xu Cunzi, whose provision, love, surveillance, and lethal control arise within the same arrangement; later affection does not retroactively absolve coercion. Conghui's materially buffered departure and Song Jiaming's religious withdrawal extend exit analysis without proving either inner freedom or resolved responsibility. No settled contradiction was adopted. Hans's status, character motives, the meaning of independence, the ending's success or tragedy, literary ranking, authorial design, psychological transitions, and comparisons with other writers remain source-scoped or contested. Broad [[ZhiZuiJinMiFM|纸醉金迷FM]] and [[FemaleSelfPossession]] pages were kept closed because focused work, character, author, and relationship pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic, and global compaction was not due; refreshed artifacts validate 4,446 sources across 801 overview paragraphs and nine topics.
+
+Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

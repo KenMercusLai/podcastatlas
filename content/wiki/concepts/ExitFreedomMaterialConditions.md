@@ -5,7 +5,8 @@ tags: [freedom, mobility, capability, family, urbanization, reclusion]
 sources:
   - ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h
   - 104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo
-last_updated: 2026-10-07
+  - 057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae
+last_updated: 2026-10-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The Liu Xiaoyang episode separates movement from freedom. City arrival can widen
 
 The Jin Yong reclusion episode extends the principle from geographic departure to organizations and status systems. Martial strength alone does not secure retreat, while money, family settlement, portable ability, reduced visibility, and the capacity to loosen relationship dependence all affect whether a person can remain out. A formal resignation or move to a remote place therefore does not establish freedom when the old network can still compel, punish, or define the person.
 
+The *Xi Bao* episode adds two privileged but ambiguous departures. Xu Conghui leaves family wealth to teach and pursue a self-directed life, yet the novel withholds enough transition that growth and trauma escape both remain plausible. Song Jiaming adopts a religious identity after inheritance hopes, romance, and family order collapse, but the hosts question whether changing roles resolves obligation or merely avoids it. Material support can make movement possible without proving that the new direction is integrated, responsible, or internally free.
+
 ## Key Claims
 
 - Physical departure is an event; durable freedom is a capability sustained after departure.
@@ -27,6 +30,7 @@ The Jin Yong reclusion episode extends the principle from geographic departure t
 - Organizations may resist exit through loyalty claims, reputation, jurisdiction over relationships, or retained dependency.
 - Urban life or secluded life may both reproduce constraint when survival work and practical dependence consume available choice.
 - Return does not by itself prove failure, just as remoteness or continued absence does not by itself prove liberation.
+- Materially buffered departure can still be psychologically ambiguous, and a new vocation or identity can function as either commitment or escape.
 
 ## Evidence
 
@@ -42,15 +46,20 @@ The Jin Yong reclusion episode extends the principle from geographic departure t
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] argues that economic means, family arrangements, useful ability, and reduced dependence are practical conditions of retreat.
 - [[104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo]] contrasts geographical seclusion with deeper release from Jianghu visibility and influence.
 
+### Privileged departure and role change
+
+- [[057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae]] presents Xu Conghui's teaching departure as self-direction while preserving uncertainty about whether its immediate cause is growth or escape from family trauma.
+- [[057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae]] treats Song Jiaming's religious withdrawal as a change of role whose relationship to responsibility and conviction remains disputed.
+
 ## Counterevidence & Qualifications
 
-The sources develop the concept through one mediated life story and one wide-ranging literary discussion rather than systematic research on migration, labor markets, families, organizations, or reclusion. Material preparation does not guarantee belonging or freedom, and inadequate preparation does not make departure irrational. The framework should not be used to demand perfect readiness before a person leaves danger, abuse, or coercion, or to imply that wealth and strength automatically produce inner freedom.
+The sources develop the concept through one mediated life story and two literary discussions rather than systematic research on migration, labor markets, families, organizations, reclusion, or religious vocation. Material preparation does not guarantee belonging or freedom, and inadequate preparation does not make departure irrational. The framework should not be used to demand perfect readiness before a person leaves danger, abuse, or coercion, or to imply that wealth, strength, distance, or a new identity automatically produces inner freedom. Conghui's and Song Jiaming's motives remain interpretations, not settled facts.
 
 ## What Changed
 
-- Extended the concept from geographic mobility to organizational, relational, and reputational exit.
-- Added safety, family settlement, portable ability, and reduced network dependence as practical retreat conditions.
-- Preserved the distinction between external exit capacity and inner nonattachment.
+- Added materially buffered departure and vocational identity change as ambiguous exit forms.
+- Distinguished the capacity to leave from evidence that a new direction is integrated or responsible.
+- Preserved competing readings of Conghui's and Song Jiaming's withdrawals.
 
 ## Related Concepts
 
@@ -61,3 +70,4 @@ The sources develop the concept through one mediated life story and one wide-ran
 - [[FinancialFreedomVsLifestyleFreedom]] - adjacent distinction between money, autonomy, and desired daily life.
 - [[RetreatRomanceDeflation]] - parallel warning that a new place does not remove bodies, costs, work, or relationships.
 - [[PowerExitTrap]] - political case where loss of protective power makes departure dangerous.
+- [[TransactionalIntimacyPowerAsymmetry]] - relationship case where material dependence and coercive consequence limit meaningful exit.

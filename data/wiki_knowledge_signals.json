@@ -84974,9 +84974,9 @@
       "url": "/wiki/concepts/existentialism/"
     },
     "ExitFreedomMaterialConditions": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "CKwRIasEt1ykABAAAADC008H [CKwRIasEt1ykABAAAADC008H].md",
@@ -84991,9 +84991,16 @@
           "show": "纸醉金迷FM",
           "title": "104 金庸小说与隐士文化",
           "url": "/wiki/sources/104-jinyong-xiaoshuo-yu-yinshi-wenhua-lk2mwdehzdgl6xneftapd7tbtqfo/"
+        },
+        {
+          "episode_file": "lqlYBQe5ozSYRL9rcuzkBdMaR3ae [lqlYBQe5ozSYRL9rcuzkBdMaR3ae].md",
+          "key": "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae",
+          "show": "纸醉金迷FM",
+          "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
+          "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/exitfreedommaterialconditions/"
     },
     "ExpansionaryVsAnxietyMarketing": {
@@ -138563,6 +138570,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/jiangxiangheinternalunity/"
+    },
+    "JiangXibao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqlYBQe5ozSYRL9rcuzkBdMaR3ae [lqlYBQe5ozSYRL9rcuzkBdMaR3ae].md",
+          "key": "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae",
+          "show": "纸醉金迷FM",
+          "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
+          "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/jiangxibao/"
     },
     "JiangXuXinOfficial": {
       "episode_count": 1,
@@ -260893,6 +260916,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/transmountainexpansion/"
     },
+    "TransactionalIntimacyPowerAsymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqlYBQe5ozSYRL9rcuzkBdMaR3ae [lqlYBQe5ozSYRL9rcuzkBdMaR3ae].md",
+          "key": "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae",
+          "show": "纸醉金迷FM",
+          "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
+          "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/transactionalintimacypowerasymmetry/"
+    },
     "TransatlanticBurdenShifting": {
       "episode_count": 1,
       "show_count": 1,
@@ -279811,6 +279850,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/xerxesi/"
     },
+    "XiBaoNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqlYBQe5ozSYRL9rcuzkBdMaR3ae [lqlYBQe5ozSYRL9rcuzkBdMaR3ae].md",
+          "key": "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae",
+          "show": "纸醉金迷FM",
+          "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
+          "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xibaonovel/"
+    },
     "XiFuGongWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -282462,6 +282517,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuchu/"
+    },
+    "XuCunzi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqlYBQe5ozSYRL9rcuzkBdMaR3ae [lqlYBQe5ozSYRL9rcuzkBdMaR3ae].md",
+          "key": "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae",
+          "show": "纸醉金迷FM",
+          "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
+          "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/xucunzi/"
     },
     "XuFangLateHan": {
       "episode_count": 3,
@@ -286152,9 +286223,9 @@
       "url": "/wiki/entities/yimeizhimingdrama/"
     },
     "YiShu": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -286162,9 +286233,16 @@
           "show": "无时差研究所",
           "title": "EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？",
           "url": "/wiki/sources/ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf/"
+        },
+        {
+          "episode_file": "lqlYBQe5ozSYRL9rcuzkBdMaR3ae [lqlYBQe5ozSYRL9rcuzkBdMaR3ae].md",
+          "key": "057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae",
+          "show": "纸醉金迷FM",
+          "title": "057 亦舒《喜宝》：拜金女？还是独立女性？",
+          "url": "/wiki/sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/yishu/"
     },
     "YiTingDomesticServiceConsultant": {

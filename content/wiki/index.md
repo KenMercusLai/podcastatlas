@@ -4525,6 +4525,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.170你还在用冰箱这样存取食物？当心一口吃进ICU！这毒1mg致死？](sources/vol-170-ni-hai-zai-yong-bingxiang-zheyang-cunqu-shiwu-dangxin-yikou-chi-jin-icu-zhe-du-1mg-zhisi-lssmswq2mmqv9rov6lwlzzhd1n37.md) — 这病说来话长 episode on household refrigeration, leftovers, cross-contamination, thawing, cleaning, invisible foodborne hazards, and escalation boundaries.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
+- [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
+
 ## Entities
 - [段誉 / Duan Yu](entities/DuanYu.md) — 《天龙八部》中以伦理行动、现实变通、儒释道交汇、情感投射和跨线连接支撑主角地位的段氏王子。
 - [木婉清 / Mu Wanqing](entities/MuWanqing.md) — 以自保性狠辣、真诚、同情心和强烈生命力进入段誉关系线，但爱情强度不等于长期适配。
@@ -17799,6 +17801,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arthur Griffith](entities/ArthurGriffith.md) — Irish republican leader and treaty delegation chair whose boundary-commission commitment became leverage in the final 1921 negotiations.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
+- [《喜宝》 / The Story of Xi Bao](entities/XiBaoNovel.md) — 亦舒小说，以物质保障与亲密控制的同源关系检验成功、自由和悲剧能否同时成立。
+- [姜喜宝 / Jiang Xi Bao](entities/JiangXibao.md) — 在经济依赖中保留判断与照护能力、却也失去部分人生方向的复杂女主角。
+- [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
+
 ## Concepts
 - [Narrative Bridge Protagonist / 叙事桥梁型主角](concepts/NarrativeBridgeProtagonist.md) — 以跨故事区移动、关系牵线、开篇和收束视角解释主角结构中心性的框架。
 - [Present Sincerity and Commitment Gap / 当下真心与长期承诺落差](concepts/PresentSincerityCommitmentGap.md) — 区分当下真实而有感染力的爱意，与由持续选择、代价和生活结构证明的长期承诺。
@@ -28222,5 +28228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Possessive Attachment and Self-Erasure / 占有式依恋与自我抹除](concepts/PossessiveAttachmentAndSelfErasure.md) — 区分试图控制不可得对象与为维持靠近而放弃自身判断、身体和生活方向的两种破坏性文学关系模式。
 - [Household Refrigerator Food Safety / 家庭冰箱食品安全](concepts/HouseholdRefrigeratorFoodSafety.md) — Layered household prevention through time, temperature, separation, containment, thawing, cleaning, disposal, and sensory-limit awareness.
 - [Useful Discomfort](concepts/UsefulDiscomfort.md) — Purposeful, proportionate friction that builds capability or perspective while remaining bounded by safety, consent, recovery, and ruin avoidance.
+
+- [Transactional Intimacy Power Asymmetry / 交易型亲密关系的权力不对称](concepts/TransactionalIntimacyPowerAsymmetry.md) — 区分主动协商亲密交换与真正拥有安全、边界、资源和退出权的分析框架。
 
 ## Syntheses
