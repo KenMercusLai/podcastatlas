@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13203
+wiki_total_pages: 13207
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1937,6 +1937,9 @@ wiki_pages:
   - key: "ZhongTaiAI"
     title: "钟泰 / Zhong Tai"
     url: "/wiki/entities/zhongtaiai/"
+  - key: "ZhongLingTianLongBaBu"
+    title: "钟灵（《天龙八部》） / Zhong Ling"
+    url: "/wiki/entities/zhonglingtianlongbabu/"
   - key: "ZhongZhaopeng"
     title: "钟照鹏 / Zhong Zhaopeng"
     url: "/wiki/entities/zhongzhaopeng/"

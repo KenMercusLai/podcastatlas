@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13203
+wiki_total_pages: 13207
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"

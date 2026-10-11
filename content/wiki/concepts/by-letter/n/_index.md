@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10343
+wiki_total_pages: 10344
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "NarcolepsyWakeSleepBoundary"
     title: "Narcolepsy Wake-Sleep Boundary"
     url: "/wiki/concepts/narcolepsywakesleepboundary/"
+  - key: "NarrativeBridgeProtagonist"
+    title: "Narrative Bridge Protagonist / 叙事桥梁型主角"
+    url: "/wiki/concepts/narrativebridgeprotagonist/"
   - key: "NarrativeCreativityTraining"
     title: "Narrative Creativity Training"
     url: "/wiki/concepts/narrativecreativitytraining/"

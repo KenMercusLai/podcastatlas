@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [jin-yong, wuxia, confucianism, ethics, moral-practice]
 sources:
   - 087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8
+  - 058-wuren-buyuan-youqing-jienie-duanyu-caishi-tianlongbabu-diyi-zhujue-lmwnsc-ey8o7ysczh0qynwypqyqp
 last_updated: 2026-10-10
 ---
 
@@ -22,6 +23,8 @@ This is not a claim that inner sincerity automatically defeats institutions or t
 
 Its modernizing move is selective. Benevolence, responsibility, trust, relational obligation, and disciplined self-demand remain resources, while loyalty to a ruler, patriarchal restriction, and inherited hierarchy cannot simply be restored. Confucian ethics becomes one contributor to modern freedom, democracy, human rights, and rule of law rather than a complete substitute for them.
 
+The boundary between judgment and rationalization becomes clearer through [[DuanYu|段誉]], whose classical literacy and moral action initially reinforce each other. His filial posture, opposition to killing, willingness to intervene without martial power, and resistance to an immoral master give substance to learning. Later experience complicates the alignment: he flatters a dangerous opponent and finds classical justifications for conduct he once rejected. Situational judgment and adaptation therefore remain credible only with a qualification—interpretive flexibility can serve humane accommodation or rationalize desire, so it must still be tested against harm and responsibility.
+
 ## Key Claims
 
 - Enacted moral practice is stronger evidence of virtue than literacy, title, lineage, or public moral vocabulary.
@@ -30,6 +33,7 @@ Its modernizing move is selective. Benevolence, responsibility, trust, relationa
 - Ritual and classical interpretation should serve respect and urgent human need; learned form that blocks care defeats its claimed ethical purpose.
 - Family partiality, public justice, loyalty, resistance, and harm prevention can conflict, requiring judgment rather than mechanical rule application.
 - Modern use of Confucian ethics requires translation through freedom, equality, democracy, human rights, and law.
+- Classical interpretation and situational flexibility remain ethically credible only when they do more than rationalize appetite or convenience.
 
 ## Evidence
 
@@ -48,13 +52,17 @@ Judgment beyond rigid form:
 Modern translation:
 - [[087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8]] retains benevolence, trust, responsibility, and self-cultivation while requiring compatibility with freedom, democracy, human rights, and law.
 
+Learning, courage, and rationalization:
+- [[058-wuren-buyuan-youqing-jienie-duanyu-caishi-tianlongbabu-diyi-zhujue-lmwnsc-ey8o7ysczh0qynwypqyqp]] joins Duan Yu's classical speech to filial respect, anti-killing principle, and intervention despite fear, then shows the same interpretive capacity helping him justify exceptions under worldly and romantic pressure.
+
 ## Counterevidence & Qualifications
 
-The evidence is one podcast's wide-ranging literary and intellectual interpretation, not a comprehensive reading of every Jin Yong novel, a settled account of authorial intention, or a substitute for Confucian intellectual history. Several examples depend on disputed character judgments, and the episode's uses of Qin history, Hua-Yi thought, classical passages, and modern nationalism are broad. Context-sensitive judgment also needs a moral and legal boundary: invoking “权” cannot by itself justify favoritism, coercion, or avoidable harm.
+The evidence is two podcast discussions from the same show, not a comprehensive reading of every Jin Yong novel, a settled account of authorial intention, or a substitute for Confucian intellectual history. Several examples depend on disputed character judgments, and the sources' uses of Qin history, Hua-Yi thought, classical passages, doctrinal mixture, and modern nationalism are broad. Context-sensitive judgment also needs a moral and legal boundary: invoking “权,” adaptation, or textual reinterpretation cannot by itself justify favoritism, coercion, desire, or avoidable harm.
 
 ## What Changed
 
-- Created a single framework joining practice over status, people-centered侠义, ritual criticism, ethical conflict, and modern transformation.
+- Added Duan Yu as a case where learning supports conduct but can also supply post hoc justification.
+- Clarified that situational judgment must be distinguished from desire-serving rationalization.
 
 ## Related Concepts
 
@@ -64,3 +72,4 @@ The evidence is one podcast's wide-ranging literary and intellectual interpretat
 - [[EarlyConfucianResistancePolitics]] - political relationship: moral principle and people-based legitimacy can limit obedience to rulers.
 - [[MencianPeopleBasedLegitimacy]] - priority relationship: people and moral rule outrank unconditional dynastic loyalty.
 - [[ConfucianIdealGovernance]] - institutional relationship: ethical aspiration needs administrative, legal, and reality-sensitive constraints.
+- [[DuanYu|段誉]] - character relationship: classical learning, courageous intervention, and later flexibility test the line between judgment and rationalization.

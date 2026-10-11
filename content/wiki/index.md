@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [058 无人不冤，有情皆孽：段誉才是《天龙八部》第一主角？](sources/058-wuren-buyuan-youqing-jienie-duanyu-caishi-tianlongbabu-diyi-zhujue-lmwnsc-ey8o7ysczh0qynwypqyqp.md) — 纸醉金迷FM以段誉的原则、变通、儒释道交汇和叙事桥梁功能重读其主角地位，并比较钟灵、木婉清、王语嫣及新修版的爱情投射与人物争议。
 - [059 闲话金庸《天龙八部》：段正淳和他的女友团](sources/059-xianhua-jinyong-tianlongbabu-duanzhengchun-he-tade-nvyoutuan-ljxfgtvpyohnxagl2v0ymcj1zypw.md) — 纸醉金迷FM以段正淳的当下真心、长期失诺与王爷身份错位为核心，并比较六位女性在重建、封闭、控制、伤害转移、降低期待、自伤和名分谈判之间的不同应对。
 - [060 《天龙八部》之萧峰篇：虽万千人吾往矣](sources/060-tianlongbabu-zhi-xiaofeng-pian-sui-wanqianren-wu-wang-yi-li815nqiqzg3eukucbbwz52sserv.md) — 纸醉金迷FM以三分钟付费节目开场预告萧峰的侠义、豪迈、族群身份与悲剧命运，同时明确正片分析尚未进入现有转录。
 - [061 看《功夫女足》不如重温周星驰《少林足球》](sources/061-kan-gongfu-nvzu-buru-chongwen-zhouxingchi-shaolin-zuqiu-lppmohntw6i4mcznseefvytdjxx.md) — 纸醉金迷FM重温《少林足球》，分析失意者如何把功夫转化为团队能力，并讨论现实痛感、漫画奇观、尊严恢复、女性行动与喜剧接受分歧。
@@ -4525,6 +4526,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Grow From Doing Hard Things | Michael Easter](sources/scim4938586138-scim4938586138.md) — Huberman Lab interview on useful discomfort, effort-first reward, phone friction, creative incubation, outdoor movement, and high-velocity gambling design.
 
 ## Entities
+- [段誉 / Duan Yu](entities/DuanYu.md) — 《天龙八部》中以伦理行动、现实变通、儒释道交汇、情感投射和跨线连接支撑主角地位的段氏王子。
+- [木婉清 / Mu Wanqing](entities/MuWanqing.md) — 以自保性狠辣、真诚、同情心和强烈生命力进入段誉关系线，但爱情强度不等于长期适配。
+- [王语嫣 / Wang Yuyan](entities/WangYuyan.md) — 武学知识丰富而行动与关系自主性受限、又成为段誉玉像投射对象的版本敏感人物。
+- [钟灵（《天龙八部》） / Zhong Ling](entities/ZhongLingTianLongBaBu.md) — 与段誉共享少年气、能较快接受失落，但爱情或兄妹式亲近仍有争议的角色。
 - [段正淳 / Duan Zhengchun](entities/DuanZhengchun.md) — 大理王爷，其当下投入、连续情缘、未改变的政治身份与最终自尽构成真心和承诺错位的复杂人物。
 - [甘宝宝 / Gan Baobao](entities/GanBaobao.md) — 在旧情未尽时重建家庭并维持行为边界的段正淳旧爱。
 - [秦红棉 / Qin Hongmian](entities/QinHongmian.md) — 以封闭和对子女的控制回应情伤，却仍保留旧情影响的段正淳旧爱。
@@ -17795,6 +17800,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Easter](entities/MichaelEaster.md) — Writer and professor using field reporting, purposeful challenge, attention design, outdoor movement, and creative routine to examine modern comfort.
 
 ## Concepts
+- [Narrative Bridge Protagonist / 叙事桥梁型主角](concepts/NarrativeBridgeProtagonist.md) — 以跨故事区移动、关系牵线、开篇和收束视角解释主角结构中心性的框架。
 - [Present Sincerity and Commitment Gap / 当下真心与长期承诺落差](concepts/PresentSincerityCommitmentGap.md) — 区分当下真实而有感染力的爱意，与由持续选择、代价和生活结构证明的长期承诺。
 - [Romantic Injury Response Patterns / 情伤应对模式](concepts/RomanticInjuryResponsePatterns.md) — 比较情伤如何流向重建、封闭、控制、伤害转移、期待调整、自伤或名分谈判。
 - [Pain-Comedy Oscillation / 痛感与喜剧振荡](concepts/PainComedyOscillation.md) — 让身体或社会痛苦保持可信，再转入荒诞、幻想、反转或团结而不抹除先前痛感的叙事方法。

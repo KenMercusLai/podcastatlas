@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13203
+wiki_total_pages: 13207
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1556,6 +1556,9 @@ wiki_pages:
   - key: "DuanGuiWarringStates"
     title: "段规 / Duan Gui (Warring States)"
     url: "/wiki/entities/duanguiwarringstates/"
+  - key: "DuanYu"
+    title: "段誉 / Duan Yu"
+    url: "/wiki/entities/duanyu/"
   - key: "DuanXunLateHan"
     title: "段迅 / Duan Xun (Late Han)"
     url: "/wiki/entities/duanxunlatehan/"

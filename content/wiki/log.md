@@ -35497,3 +35497,13 @@ Changed-page wikilinks, source inventories, index coverage, identity, knowledge 
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 058 无人不冤，有情皆孽：段誉才是《天龙八部》第一主角？
+
+Added source `058-wuren-buyuan-youqing-jienie-duanyu-caishi-tianlongbabu-diyi-zhujue-lmwnsc-ey8o7ysczh0qynwypqyqp`; created [[DuanYu|段誉]], [[MuWanqing|木婉清]], [[WangYuyan|王语嫣]], [[ZhongLingTianLongBaBu|钟灵]], and [[NarrativeBridgeProtagonist]]; and resynthesized [[TianLongBaBu|《天龙八部》]], [[JinYongConfucianEthics]], and [[InterpersonalImageProjection]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Duan Yu's fear-aware intervention, classical ethics, Daoist martial arts, Dali Buddhist setting, and later adaptability make him a mixed rather than doctrinally pure figure, while his movement across major plot regions supports structural centrality without settling the protagonist hierarchy. Zhong Ling, Mu Wanqing, and Wang Yuyan distinguish releasable affection, intense but potentially incompatible reciprocity, dependent attachment, and idealizing projection; the revised ending remains contested. No settled contradiction was adopted. Protagonist rank, doctrinal symbolism, romance, compatibility, female-character quality, version preference, serialization planning, exact reference counts, character psychology, and authorial intention remain source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because focused pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,445 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

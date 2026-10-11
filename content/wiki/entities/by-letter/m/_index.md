@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13203
+wiki_total_pages: 13207
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2048,6 +2048,9 @@ wiki_pages:
   - key: "Mannisen"
     title: "曼妮森"
     url: "/wiki/entities/mannisen/"
+  - key: "MuWanqing"
+    title: "木婉清 / Mu Wanqing"
+    url: "/wiki/entities/muwanqing/"
   - key: "MozhenjiangWusun"
     title: "末振将 / Mozhenjiang"
     url: "/wiki/entities/mozhenjiangwusun/"
