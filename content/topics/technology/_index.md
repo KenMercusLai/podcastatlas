@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3470
+topic_total_pages: 3471
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2386,6 +2386,9 @@ topic_concepts:
   - key: "GameSpiritOrganization"
     title: "Game Spirit Organization"
     url: "/wiki/concepts/gamespiritorganization/"
+  - key: "GenderResponsivePublicRestroomAccess"
+    title: "Gender-Responsive Public Restroom Access / 性别响应式公共厕所可及性"
+    url: "/wiki/concepts/genderresponsivepublicrestroomaccess/"
   - key: "GenderedAIMarketing"
     title: "Gendered AI Marketing"
     url: "/wiki/concepts/genderedaimarketing/"

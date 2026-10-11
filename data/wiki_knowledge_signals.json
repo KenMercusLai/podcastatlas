@@ -59844,9 +59844,9 @@
       "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
     "DailyHydrationTiming": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6169879512 [SCIM6169879512].md",
@@ -59861,9 +59861,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ [lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ].md",
+          "key": "vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz",
+          "show": "这病说来话长",
+          "title": "VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕",
+          "url": "/wiki/sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/dailyhydrationtiming/"
     },
     "DailyMail": {
@@ -101383,6 +101390,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/genderconflictconstructionembodimentboundary/"
     },
+    "GenderResponsivePublicRestroomAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ [lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ].md",
+          "key": "vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz",
+          "show": "这病说来话长",
+          "title": "VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕",
+          "url": "/wiki/sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/genderresponsivepublicrestroomaccess/"
+    },
     "GenderedAIMarketing": {
       "episode_count": 1,
       "show_count": 1,
@@ -111142,9 +111165,9 @@
       "url": "/wiki/concepts/habittriggeredsystemdisruption/"
     },
     "HabitualUrineRetentionRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llxB263COoYirUKWcEzzhYsM57va [llxB263COoYirUKWcEzzhYsM57va].md",
@@ -111152,9 +111175,16 @@
           "show": "这病说来话长",
           "title": "VOL.29泌尿外科｜认识泌尿系统和容易挂错号的泌尿外科",
           "url": "/wiki/sources/vol-29-miniao-waike-renshi-miniao-xitong-he-rongyi-gua-cuo-hao-de-miniao-waike-llxb263cooyirukwcezzhysm57va/"
+        },
+        {
+          "episode_file": "lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ [lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ].md",
+          "key": "vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz",
+          "show": "这病说来话长",
+          "title": "VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕",
+          "url": "/wiki/sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/habitualurineretentionrisk/"
     },
     "HabsburgDynasty": {
@@ -268288,9 +268318,9 @@
       "url": "/wiki/concepts/urinarytractinfectionbehaviorboundary/"
     },
     "UrologicalSymptomTriage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lpN3FHoZeJ2V-3oiJPakVKDX-R_Y [lpN3FHoZeJ2V-3oiJPakVKDX-R_Y].md",
@@ -268312,9 +268342,16 @@
           "show": "这病说来话长",
           "title": "VOL.29泌尿外科｜认识泌尿系统和容易挂错号的泌尿外科",
           "url": "/wiki/sources/vol-29-miniao-waike-renshi-miniao-xitong-he-rongyi-gua-cuo-hao-de-miniao-waike-llxb263cooyirukwcezzhysm57va/"
+        },
+        {
+          "episode_file": "lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ [lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ].md",
+          "key": "vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz",
+          "show": "这病说来话长",
+          "title": "VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕",
+          "url": "/wiki/sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/urologicalsymptomtriage/"
     },
     "UrologyScopeAndDepartmentRouting": {
@@ -295515,6 +295552,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
+    },
+    "ZhaoMeishanUrologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ [lj9Q7zLjD68JMBTCD4kLGrBJ1vAZ].md",
+          "key": "vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz",
+          "show": "这病说来话长",
+          "title": "VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕",
+          "url": "/wiki/sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/zhaomeishanurologist/"
     },
     "ZhaoPingQiChancellor": {
       "episode_count": 1,

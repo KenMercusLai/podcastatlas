@@ -4564,6 +4564,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)](sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825.md) — The Rest Is History reassessment of Claudius's military-backed accession, disability-shaped reputation, administration, public works, Britain, palace factions, and disputed poisoning.
 - [Using Your Mind to Control Your Physical Health & Longevity | Dr. Ellen Langer](sources/scim9748845060-scim9748845060.md) — Huberman Lab interview on active-noticing mindfulness, uncertainty, choice, aging cues, mindset-related physiology, labels, play, and clinical evidence boundaries.
 - [Essentials: Control Pain & Heal Faster With Your Brain](sources/essentials-control-pain-heal-faster-with-your-brain-scim7633492459.md) — Condensed Huberman Lab episode on distributed pain, body-map plasticity, sleep-first recovery, inflammation timing, electroacupuncture specificity, and regenerative-treatment limits.
+- [VOL.147到底一天要喝多少水？为啥冬天上厕所更频繁？呼吁公共场所多建女厕](sources/vol-147-daodi-yitian-yao-he-duoshao-shui-weisha-dongtian-shang-cesuo-geng-pinfan-huyu-gonggong-changsuo-duo-jian-nvce-lj9q7zljd68jmbtcd4klgrbj1vaz.md) — 这病说来话长 episode with 阿汤 and urologist 赵美山 on urine holding, frequency, hesitancy, retention, hydration timing, symptom escalation, and gendered public-restroom access.
 
 ## Entities
 - [《多情剑客无情剑》 / Sentimental Swordsman, Ruthless Sword](entities/SentimentalSwordsmanRuthlessSword.md) — 古龙小说，以被操控的选择、忠义与爱情冲突、内疚和家庭后果构成关系悲剧。
@@ -17913,6 +17914,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《喜宝》 / The Story of Xi Bao](entities/XiBaoNovel.md) — 亦舒小说，以物质保障与亲密控制的同源关系检验成功、自由和悲剧能否同时成立。
 - [姜喜宝 / Jiang Xi Bao](entities/JiangXibao.md) — 在经济依赖中保留判断与照护能力、却也失去部分人生方向的复杂女主角。
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
+- [赵美山 / Zhao Meishan (Urologist)](entities/ZhaoMeishanUrologist.md) — VOL.147 urology guest explaining bladder function, urinary symptom distinctions, hydration routines, and restroom-access constraints.
 
 ## Concepts
 - [Self-Sacrifice as Relational Control / 以自我牺牲替他人做主](concepts/SelfSacrificeAsRelationalControl.md) — 区分个人愿意承受的代价与借牺牲之名操控他人重大选择的权力。
@@ -28379,5 +28381,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transactional Intimacy Power Asymmetry / 交易型亲密关系的权力不对称](concepts/TransactionalIntimacyPowerAsymmetry.md) — 区分主动协商亲密交换与真正拥有安全、边界、资源和退出权的分析框架。
 - [Generic Drug Substitution Decision / 仿制药替换决策](concepts/GenericDrugSubstitutionDecision.md) — Risk-proportionate substitution framework joining equivalence evidence, therapeutic margin, formulation, patient context, consequences, monitoring, and treatment stability.
 - [Bioequivalence Evidence Boundary / 生物等效性证据边界](concepts/BioequivalenceEvidenceBoundary.md) — Distinguishes defined pharmacokinetic comparability from literal identity across composition, tissue effects, adverse effects, and every patient experience.
+- [Gender-Responsive Public Restroom Access / 性别响应式公共厕所可及性](concepts/GenderResponsivePublicRestroomAccess.md) — Public-health frame connecting toilet capacity, queue time, work and travel constraints, and gendered access to healthy toileting behavior.
 
 ## Syntheses
