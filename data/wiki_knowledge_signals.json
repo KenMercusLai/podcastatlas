@@ -10033,9 +10033,9 @@
       "url": "/wiki/concepts/agriculturalweatherriskmanagement/"
     },
     "AgrippinaTheYounger": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7241559003 [GLT7241559003].md",
@@ -10043,9 +10043,16 @@
           "show": "The Rest Is History",
           "title": "56. Nero",
           "url": "/wiki/sources/56-nero-glt7241559003/"
+        },
+        {
+          "episode_file": "GLT8484602825 [GLT8484602825].md",
+          "key": "537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825",
+          "show": "The Rest Is History",
+          "title": "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)",
+          "url": "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/agrippinatheyounger/"
     },
     "AguirreExpedition": {
@@ -47334,9 +47341,9 @@
       "url": "/wiki/entities/claudiamueller/"
     },
     "Claudius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3137178317 [GLT3137178317].md",
@@ -47344,9 +47351,16 @@
           "show": "The Rest Is History",
           "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
           "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        },
+        {
+          "episode_file": "GLT8484602825 [GLT8484602825].md",
+          "key": "537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825",
+          "show": "The Rest Is History",
+          "title": "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)",
+          "url": "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-11",
       "url": "/wiki/entities/claudius/"
     },
     "CleDePeauBeaute": {
@@ -119441,9 +119455,9 @@
       "url": "/wiki/concepts/historicalreenactmentpolitics/"
     },
     "HistoricalReputationConstruction": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT3313769671 [GLT3313769671].md",
@@ -119486,9 +119500,16 @@
           "show": "怪东西Weird History",
           "title": "22 东西方的疯王：尼禄与汉灵帝会是知己吗？",
           "url": "/wiki/sources/22-dongxifang-de-fengwang-nilu-yu-hanlingdi-hui-shi-zhiji-ma-lsqm_wmzkgnqxq7jrtqshw6ifw2r/"
+        },
+        {
+          "episode_file": "GLT8484602825 [GLT8484602825].md",
+          "key": "537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825",
+          "show": "The Rest Is History",
+          "title": "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)",
+          "url": "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalStructureAgencyCausation": {
@@ -175723,6 +175744,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/messagerelaypoliticalpower/"
     },
+    "Messalina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8484602825 [GLT8484602825].md",
+          "key": "537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825",
+          "show": "The Rest Is History",
+          "title": "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)",
+          "url": "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/entities/messalina/"
+    },
     "MetaAI": {
       "episode_count": 5,
       "show_count": 2,
@@ -225920,6 +225957,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/romanimperiallegitimacy/"
+    },
+    "RomanImperialSuccession": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8484602825 [GLT8484602825].md",
+          "key": "537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825",
+          "show": "The Rest Is History",
+          "title": "537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)",
+          "url": "/wiki/sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825/"
+        }
+      ],
+      "updated": "2026-10-11",
+      "url": "/wiki/concepts/romanimperialsuccession/"
     },
     "RomanInformalImperialControl": {
       "episode_count": 1,

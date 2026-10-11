@@ -4539,7 +4539,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [057 亦舒《喜宝》：拜金女？还是独立女性？](sources/057-yishu-xibao-baijinnv-haishi-duli-nvxing-lqlybqe5ozsyrl9rcuzkbdmar3ae.md) — 纸醉金迷FM重读《喜宝》，把拜金与独立的二选一拆成交易、判断、照护、控制、退出能力和悲喜并存的结局。
 - [VOL.151大物是也·大白牛：仿制药和原研药药效一样吗？什么是“一致性评价”？到底哪些疾病可以选用仿制药？](sources/vol-151-dawu-shiye-dabainiu-fangzhiyao-he-yuanyanyao-yaoxiao-yiyang-ma-shenme-shi-yizhixing-pingjia-daodi-naxie-jibing-keyi-xuanyong-fangzhiyao-luxp3bhg-p9vvvunyftwbz4ypw8t.md) — 这病说来话长以生物等效性、治疗指数、剂型、特殊人群、监测与慢病稳定性建立仿制药替换的风险分层框架。
 
+- [537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)](sources/537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825.md) — The Rest Is History reassessment of Claudius's military-backed accession, disability-shaped reputation, administration, public works, Britain, palace factions, and disputed poisoning.
+
 ## Entities
+- [Messalina](entities/Messalina.md) — Claudius's wife and Britannicus's mother, whose alleged sexual conspiracy remains entangled with palace faction and hostile ancient narrative.
 - [Pavel Tsatsouline](entities/PavelTsatsouline.md) — Strength coach framing force production as skilled neural practice supported by restrained fatigue, stable exercise selection, kettlebells, and specific conditioning.
 - [白自在 / Bai Zizai](entities/BaiZizai.md) — 以封闭环境中的自大、婚姻支配及遭遇强者后的认知修正展开的《侠客行》人物。
 - [史小翠 / Shi Xiaocui](entities/ShiXiaocui.md) — 以武功反制、旧日选择比较和最终回归呈现婚姻抗争与长期依恋的《侠客行》人物。
@@ -6723,7 +6726,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cassivellaunus](entities/Cassivellaunus.md) — Principal British opponent of Caesar's 54 BC expedition who retained power under a negotiated settlement.
 - [Mandubracius](entities/Mandubracius.md) — Exiled Trinovantian prince restored through Caesar's intervention against Cassivellaunus.
 - [Trinovantes](entities/Trinovantes.md) — Southeastern British polity whose alliance with Caesar turned his second expedition into an internal dynastic intervention.
-- [Claudius](entities/Claudius.md) — Roman emperor who used the AD 43 invasion of Britain to turn operational victory into imperial legitimacy.
+- [Claudius](entities/Claudius.md) — Scholar-emperor who combined Praetorian-backed accession, administration, public works, spectacle, and British conquest under persistent dynastic insecurity.
 - [Aulus Plautius](entities/AulusPlautius.md) — Roman commander who led the AD 43 invasion and prepared Claudius's staged victory.
 - [Caratacus](entities/Caratacus.md) — Catuvellaunian leader who resisted the invasion and sustained opposition in Wales until AD 51.
 - [Verica](entities/Verica.md) — Displaced Atrebatic client ruler whose appeal helped provide Rome's invasion justification.
@@ -17690,7 +17693,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agnès Poirier](entities/AgnesPoirier.md) — French journalist and author interpreting Paris through history, monuments, political culture, and personal memory.
 - [Notre-Dame de Paris](entities/NotreDameDeParis.md) — Medieval cathedral linking Parisian growth, national ceremony, the 1944 liberation, and the global shock of the 2019 fire.
 - [Georges-Eugène Haussmann](entities/GeorgesEugeneHaussmann.md) — Second Empire administrator whose infrastructure and demolitions decisively reshaped modern Paris.
-- [Agrippina the Younger](entities/AgrippinaTheYounger.md) — Julio-Claudian dynastic broker who enabled Nero's accession before their conflict ended in her murder.
+- [Agrippina the Younger](entities/AgrippinaTheYounger.md) — Julio-Claudian dynastic broker whose marriage, lineage, and son's adoption enabled Nero's accession before their conflict ended in her murder.
 - [Seneca](entities/Seneca.md) — Stoic philosopher and early Neronian adviser whose estrangement ended in forced suicide.
 - [Suetonius](entities/Suetonius.md) — Roman biographer whose vivid account of Nero is indispensable but shaped by genre, hostility, and moral design.
 - [Great Fire of Rome](entities/GreatFireOfRome.md) — Nine-day urban disaster linking Neronian relief and rebuilding to arson accusation, Christian punishment, and historical memory.
@@ -17848,6 +17851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐存姿 / Xu Cunzi](entities/XuCunzi.md) — 同时提供安全、表达爱意并以财富、监视和暴力控制替代选项的徐家族长。
 
 ## Concepts
+- [Roman Imperial Succession](concepts/RomanImperialSuccession.md) — Unstable coalition process joining dynasty, adoption, court control, Senate and popular acceptance, donatives, and armed backing.
 - [Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化](concepts/TechnologyDrivenWuxiaModernization.md) — 通过制作技术与故事内技术共同重塑武侠动作、空间、视觉奇观及传统遭遇现代性的电影路径。
 - [Strength as Skill Practice](concepts/StrengthAsSkillPractice.md) — Strength-training frame prioritizing neural coordination, technique, stable movements, successful submaximal repetitions, and controlled arousal.
 - [Fatigue-Fragmented Training](concepts/FatigueFragmentedTraining.md) — Workload-distribution strategy using small well-rested exposures to preserve technique and output while bounding acute fatigue.
@@ -18669,7 +18673,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pu'er Tea Financialization / 普洱茶金融化](concepts/PuerTeaFinancialization.md) — Aging tea as drink, stored inventory, collectible, status object, and speculative asset.
 - [East Asian Tea Cultural Exchange / 东亚茶文化互塑](concepts/EastAsianTeaCulturalExchange.md) — Reciprocal movement and local redesign of tea techniques, objects, aesthetics, and ritual across East Asia.
 - [Medieval Scottish Competitive Succession](concepts/MedievalScottishSuccession.md) — Model of wider-kin royal eligibility, regional power, marriage, and conflict before settled primogeniture.
-- [Historical Reputation Construction](concepts/HistoricalReputationConstruction.md) — Layered process by which regimes, media, institutions, parties, and audiences turn historical actors into durable archetypes.
+- [Historical Reputation Construction](concepts/HistoricalReputationConstruction.md) — Layered process by which regimes, status prejudice, media, institutions, parties, and audiences turn historical actors into durable archetypes.
 - [Classical Reception Ambivalence](concepts/ClassicalReceptionAmbivalence.md) — Persistence of ancient material through unresolved meanings such as prestige, tyranny, sacred history, violence, resistance, and glamour.
 - [Classics Political Plasticity](concepts/ClassicsPoliticalPlasticity.md) — Capacity of classical material to support conflicting projects of empire, dictatorship, republicanism, revolution, and critique.
 - [Classics Gatekeeping and Renewal](concepts/ClassicsGatekeepingAndRenewal.md) — Tension between classical learning as elite credential and its renewal through access, candor, breadth, and scholarship.

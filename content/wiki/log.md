@@ -35612,3 +35612,11 @@ Added source `scim1654683440-scim1654683440` and resynthesized [[EmotionStateCoo
 ## [2026-10-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-11] ingest | 537. Emperors of Rome: Claudius, Paranoia and Poison (Part 4)
+
+Added source `537-emperors-of-rome-claudius-paranoia-and-poison-part-4-glt8484602825`; created [[Messalina]] and [[RomanImperialSuccession]]; and resynthesized [[Claudius]], [[AgrippinaTheYounger|Agrippina the Younger]], and [[HistoricalReputationConstruction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Claudius combined learning, administration, infrastructure, spectacle, and conquest with a rule born from Praetorian brokerage and never freed from household succession risk; disability, speech difference, senatorial hostility to freedmen, and vivid scandal helped turn dependence into a durable fool-or-puppet image. No settled contradiction was adopted. Coup knowledge, Messalina's conspiracy, Nero's exact priority over Britannicus, the elephant display, court motives, plague context, and Agrippina's alleged poisoning remain uncertain or source-scoped. [[Nero]], [[RomanConquestOfBritain]], and broad show pages were kept closed because their current syntheses already contain the corroborated material or because focused pages capture the durable addition without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,459 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

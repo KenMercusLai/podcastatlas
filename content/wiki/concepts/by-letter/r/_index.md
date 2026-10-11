@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10360
+wiki_total_pages: 10361
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "RomanImperialLegitimacy"
     title: "Roman Imperial Legitimacy"
     url: "/wiki/concepts/romanimperiallegitimacy/"
+  - key: "RomanImperialSuccession"
+    title: "Roman Imperial Succession"
+    url: "/wiki/concepts/romanimperialsuccession/"
   - key: "RomanInformalImperialControl"
     title: "Roman Informal Imperial Control"
     url: "/wiki/concepts/romaninformalimperialcontrol/"
