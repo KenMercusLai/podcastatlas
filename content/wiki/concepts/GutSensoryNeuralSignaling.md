@@ -9,7 +9,8 @@ sources:
   - scim4317576130-scim4317576130
   - essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150
   - scim9382980793-scim9382980793
-last_updated: 2026-10-11
+  - how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,13 +26,15 @@ The most specific behavioral evidence concerns sugar. Glucose detection is descr
 
 Signals reaching the nucleus of the solitary tract can then interact with hypothalamic, striatal, and reward systems, linking nutrient detection to satiety, preference, avoidance, and food seeking. The Zuker interview also emphasizes that the vagus is a heterogeneous multi-organ pathway, so broad stimulation should not be interpreted as selective access to a sugar circuit.
 
+The Kanoski source extends the central targets into memory circuitry. It describes a brainstem-to-medial-septum-to-hippocampus route and meal-linked hippocampal acetylcholine changes in animals, while taste alone did not reproduce the nutrient-containing-food pattern. This supports [[FoodMemoryBidirectionality]] as a candidate post-ingestive encoding route, not proof that one vagal pathway explains human meal memory or that broad vagus stimulation selectively treats memory disorders.
+
 This mechanism does not validate every popular claim about a “gut feeling.” Rapid nutrient signaling offers a plausible biological basis for some nonconscious bodily influence, while intuition about people, mood, memory, shared meals, sound, and plant effects spans additional systems and remains much less directly established by the described experiments.
 
 ## Key Claims
 - The intestinal lining is a sensory interface as well as a digestive and endocrine surface.
 - Gut sensing combines slower circulating hormones with faster neurotransmitter-based communication.
 - Neuropod cells are described as electrically excitable enteroendocrine cells that connect to sensory neurons.
-- Vagal and brainstem pathways can translate post-ingestive signals into preference, satiety, avoidance, and reward-related behavior.
+- Vagal and brainstem pathways can translate post-ingestive signals into preference, satiety, avoidance, reward-related behavior, and selected hippocampal meal-encoding responses in animals.
 - Mouse optogenetic and receptor-knockout experiments support nutrient reinforcement without conscious sweetness, but do not establish identical human effects.
 - The vagus carries diverse organ signals, so whole-nerve effects do not identify one selective gut pathway.
 - Broader claims about intuition, emotion, and clinical manipulation require evidence beyond the nutrient-sensing circuit.
@@ -48,13 +51,13 @@ This mechanism does not validate every popular claim about a “gut feeling.” 
 - Earlier mechanical and nutrient layer - [[scim4317576130-scim4317576130]] describes stomach fullness, intestinal stretch, and nutrient-sensitive gut pathways as distinct inputs that can alter satiety and food seeking.
 - Condensed Zuker account - [[essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150]] reiterates that intestinal sugar-responsive cells signal through vagal ganglia and that the vagus contains task-specific fibers carrying different organ and nutritional information.
 - Condensed interoception account - [[scim9382980793-scim9382980793]] repeats the fullness, stretch, and taste-independent nutrient-sensing layer from the full 2021 episode without supplying new cellular experiments.
+- Memory-pathway extension - [[how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398]] describes gastrointestinal vagal input, a brainstem-medial-septal-hippocampal route, meal-linked acetylcholine, and memory deficits or rescue after selected vagal manipulations in animals.
 
 ## Counterevidence & Qualifications
-The page relies on condensed public interviews and solo syntheses rather than the primary papers. The full and Essentials Zuker notes are versions of one conversation, and the full and Essentials interoception notes likewise overlap rather than provide independent evidence. They do not supply sample sizes, effect magnitudes, full experimental controls, or the limits of viral tracing, receptor knockout, and optogenetic specificity. The early episode's GLP-1R and GPR65 labels are retained as its simplified account, not as a complete current taxonomy of gut sensory neurons. Cell culture and mouse behavior establish neither the subjective content of human gut feelings nor clinical benefit from trying to manipulate the pathway. Protein sensing, gastric-bypass causality, visceral hypersensitivity, artificial-sweetener appetite effects, processed-food timing, vagus stimulation, plant effects, gut-brain rhythm synchronization, sound regulation, and intuition remain source-scoped extensions.
+The page relies on condensed public interviews and solo syntheses rather than the primary papers. The full and Essentials Zuker notes are versions of one conversation, and the full and Essentials interoception notes likewise overlap rather than provide independent evidence. They do not supply sample sizes, effect magnitudes, full experimental controls, or the limits of viral tracing, receptor knockout, and optogenetic specificity. The early episode's GLP-1R and GPR65 labels are retained as its simplified account, not as a complete current taxonomy of gut sensory neurons. Cell culture and mouse behavior establish neither the subjective content of human gut feelings nor clinical benefit from trying to manipulate the pathway. Protein sensing, gastric-bypass causality, visceral hypersensitivity, artificial-sweetener appetite effects, processed-food timing, vagus stimulation, meal-linked hippocampal acetylcholine, plant effects, gut-brain rhythm synchronization, sound regulation, and intuition remain source-scoped extensions. Damage and stimulation studies also cannot be generalized from one selected branch or animal model to broad human vagus manipulation.
 
 ## What Changed
-- Added the interoception Essentials edit as overlapping support for mechanical and nutrient sensing.
-- Preserved named receptor assignments as simplified, source-scoped teaching claims.
+- Extended the candidate destinations of gut signaling from homeostatic and reward circuits into hippocampal meal encoding.
 
 ## Related Concepts
 - [[SugarCravingNeuralControl]] - narrower application to sweet taste and post-ingestive sugar reinforcement.
@@ -65,3 +68,4 @@ The page relies on condensed public interviews and solo syntheses rather than th
 - [[GLP1Agonists]] - pharmacologic category distinct from endogenous gut peptides and ordinary nutrient signaling.
 - [[UltraProcessedFoodPragmaticBoundary]] - food-form and nutrient-combination question not resolved by this cellular mechanism alone.
 - [[InteroceptiveBrainBodyCommunication]] - broader integration of digestive signals with respiratory, cardiovascular, immune, and conscious body state.
+- [[FoodMemoryBidirectionality]] - applies gut-to-brain signaling to meal memory and later appetite interpretation.

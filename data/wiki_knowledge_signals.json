@@ -18647,9 +18647,9 @@
       "url": "/wiki/concepts/appeasementlogic/"
     },
     "AppetiteHormoneRegulation": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM9260736648 [SCIM9260736648].md",
@@ -18699,9 +18699,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging",
           "url": "/wiki/sources/scim4003346356-scim4003346356/"
+        },
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/appetitehormoneregulation/"
     },
     "AppleCorps": {
@@ -95856,6 +95863,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/foodclassificationregulatoryconflict/"
     },
+    "FoodMemoryBidirectionality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/foodmemorybidirectionality/"
+    },
     "FoodPleasureEngineering": {
       "episode_count": 3,
       "show_count": 2,
@@ -101588,9 +101611,9 @@
       "url": "/wiki/entities/glm53flash/"
     },
     "GLP1Agonists": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 8,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -101703,9 +101726,16 @@
           "show": "Huberman Lab",
           "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
           "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        },
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/glp1agonists/"
     },
     "GLP1BodyCompositionStack": {
@@ -112848,9 +112878,9 @@
       "url": "/wiki/entities/gustavstresemann/"
     },
     "GutSensoryNeuralSignaling": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM8970398714 [SCIM8970398714].md",
@@ -112893,9 +112923,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
           "url": "/wiki/sources/scim9382980793-scim9382980793/"
+        },
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "Guthrum": {
@@ -121657,9 +121694,9 @@
       "url": "/wiki/concepts/hippiehistoricistfashionturn/"
     },
     "HippocampalAssociativeMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -121681,9 +121718,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
           "url": "/wiki/sources/essentials-tools-to-boost-attention-memory-dr-wendy-suzuki-scim7457192312/"
+        },
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/hippocampalassociativememory/"
     },
     "HiramWesleyEvans": {
@@ -182308,9 +182352,9 @@
       "url": "/wiki/concepts/microrestlearningreplay/"
     },
     "MicrobiomeEcologicalResilience": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9214130216 [SCIM9214130216].md",
@@ -182339,9 +182383,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
           "url": "/wiki/sources/essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583/"
+        },
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/microbiomeecologicalresilience/"
     },
     "MicronTechnology": {
@@ -237958,6 +238009,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/scottgalloway/"
     },
+    "ScottKanoski": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/scottkanoski/"
+    },
     "ScottMorrison": {
       "episode_count": 1,
       "show_count": 1,
@@ -258688,9 +258755,9 @@
       "url": "/wiki/entities/swedishempire/"
     },
     "SweetenerUncertainty": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -258719,9 +258786,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
           "url": "/wiki/sources/essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363/"
+        },
+        {
+          "episode_file": "SCIM9087005398 [SCIM9087005398].md",
+          "key": "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398",
+          "show": "Huberman Lab",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
     "SweynForkbeard": {

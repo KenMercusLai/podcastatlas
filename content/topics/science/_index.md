@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1576
+topic_total_pages: 1577
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4245,6 +4245,9 @@ topic_sources:
   - key: "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002"
     title: "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang"
     url: "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+  - key: "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398"
+    title: "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+    url: "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
   - key: "how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139"
     title: "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove"
     url: "/wiki/sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139/"

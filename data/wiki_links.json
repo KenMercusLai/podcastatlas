@@ -34175,6 +34175,10 @@
     "title": "Food Junction",
     "url": "/wiki/entities/foodjunction/"
   },
+  "FoodMemoryBidirectionality": {
+    "title": "Food–Memory Bidirectionality",
+    "url": "/wiki/concepts/foodmemorybidirectionality/"
+  },
   "FoodPleasureEngineering": {
     "title": "Food Pleasure Engineering / 食品愉悦工程",
     "url": "/wiki/concepts/foodpleasureengineering/"
@@ -77771,6 +77775,10 @@
     "title": "Scott Galloway",
     "url": "/wiki/entities/scottgalloway/"
   },
+  "ScottKanoski": {
+    "title": "Scott Kanoski",
+    "url": "/wiki/entities/scottkanoski/"
+  },
   "ScottLake": {
     "title": "Scott Lake",
     "url": "/wiki/entities/scottlake/"
@@ -103522,6 +103530,10 @@
   "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002": {
     "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
     "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+  },
+  "how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398": {
+    "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+    "url": "/wiki/sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398/"
   },
   "how-foods-nutrients-control-our-moods-scim8271372367": {
     "title": "How Foods & Nutrients Control Our Moods",

@@ -4669,6 +4669,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？](sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963.md) — 声动早咖啡以仁川、樟宜和法兰克福案例解释机场PPP、运营能力出海、系统协同与非航空收入。
 - [EP133-有关种族的议题，中文互联网究竟还有多少误解？](sources/ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618.md) — 无时差研究所从形式平等、重建与财富积累、《乱世佳人》政治叙事及南非制度遗产解释法律变化后仍持续的种族不平等。
 
+- [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
+
 ## Entities
 - [Alamo Drafthouse Cinema](entities/AlamoDrafthouseCinema.md) — Cinema-and-hospitality chain built around food, audience rules, distinctive programming, and locally rooted experience.
 - [Tim League](entities/TimLeague.md) — Alamo co-founder combining cinema programming and hands-on operations with acknowledged governance failures.
@@ -18202,6 +18204,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Changi Airport Group / 樟宜机场集团](entities/ChangiAirportGroup.md) — 将成熟枢纽经验从咨询延伸到海外机场投资、改造与运营的集团。
 - [Fraport / 法兰克福机场集团](entities/Fraport.md) — 以巴西、希腊和斯洛文尼亚机场组合分散本土客流波动的国际机场集团。
 
+- [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
+
 ## Concepts
 - [Cinema Audience Behavioral Contract](concepts/CinemaAudienceBehavioralContract.md) — Reciprocal venue rules, staff practices, and commercial choices used to protect concentrated collective viewing.
 - [Local Cinema Community Scaling](concepts/LocalCinemaCommunityScaling.md) — Expanding a theater brand through shared systems while preserving locally meaningful programming and audience relationships.
@@ -28782,5 +28786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Airport Operational Coordination / 机场运营协同](concepts/AirportOperationalCoordination.md) — 协同飞机、旅客、行李、中转、航线与商业空间以减少级联延误并提升枢纽效能。
 - [Airport Non-Aeronautical Revenue / 机场非航空收入](concepts/AirportNonAeronauticalRevenue.md) — 通过停车、餐饮、免税零售、租金与商业服务把客流转化为机场收入。
 - [Formal Equality and Structural Discrimination / 形式平等与结构性歧视](concepts/FormalEqualityStructuralDiscrimination.md) — 区分不再明示种族的规则与仍通过代理条件、执行差异和历史资产产生不平等结果的制度。
+
+- [Food–Memory Bidirectionality](concepts/FoodMemoryBidirectionality.md) — Reciprocal framework in which eating-related signals shape memory while remembered meals help interpret hunger, fullness, and later food choice.
 
 ## Syntheses

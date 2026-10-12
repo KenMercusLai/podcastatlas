@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10498
+wiki_total_pages: 10499
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "FoodbornePathogenUncertainty"
     title: "Foodborne Pathogen Uncertainty"
     url: "/wiki/concepts/foodbornepathogenuncertainty/"
+  - key: "FoodMemoryBidirectionality"
+    title: "Food–Memory Bidirectionality"
+    url: "/wiki/concepts/foodmemorybidirectionality/"
   - key: "FootballAnalyticsModernization"
     title: "Football Analytics Modernization"
     url: "/wiki/concepts/footballanalyticsmodernization/"

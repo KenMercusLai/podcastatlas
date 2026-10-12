@@ -36614,3 +36614,11 @@ Added source `alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski
+
+Added source `how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398`; created [[ScottKanoski]] and [[FoodMemoryBidirectionality]]; and resynthesized [[GLP1Agonists]], [[AppetiteHormoneRegulation]], [[GutSensoryNeuralSignaling]], [[HippocampalAssociativeMemory]], [[SweetenerUncertainty]], and [[MicrobiomeEcologicalResilience]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: meal memory can contribute to later hunger and intake after immediate gut signals fade, while vagal, metabolic, hormonal, dietary, and microbial inputs can influence hippocampal function. No settled contradiction was adopted. GLP-1 microdosing, lean-person use, cognition-related indications, developmental sweetener effects, diet-linked memory impairment, vagus stimulation, and named bacterial rescue remain unproven, animal-dominant, observational, or source-scoped rather than human treatment guidance. The broad [[AndrewHuberman]] profile was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,586 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

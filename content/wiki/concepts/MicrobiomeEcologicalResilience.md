@@ -7,7 +7,8 @@ sources:
   - how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394
   - best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715
   - essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583
-last_updated: 2026-10-10
+  - how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ Diet supplies part of that habitat. Diverse plant fibers provide microbiota-acce
 
 Intervention depends on state and purpose. The earlier solo synthesis discusses probiotics or prebiotics after antibiotics, illness, major stress, travel, or diet disruption, but also warns against treating high-dose supplementation as routine. Fasting or low-fiber states may alter mucus, substrate availability, and community abundance; the newer clinical judgment is that time restriction's metabolic benefits likely outweigh that microbial concern for many people, but the combined evidence still does not resolve net human benefit or one schedule. Fecal transplantation can transfer helpful or harmful traits and remains a medical procedure rather than a general restoration tool.
 
+Memory becomes a possible downstream outcome in tightly controlled animal contexts. Parabacteroides enrichment was reported as sufficient to impair memory after a juvenile-sugar model, while Lactococcus restoration rescued a deficit after a heat-treated diet eliminated that population. These results support context-dependent causal testing of particular organisms, but not a universal good-versus-bad list or a human memory probiotic.
+
 ## Key Claims
 - Microbial composition depends on local body-site and gut-region conditions rather than one body-wide community.
 - Early exposures and later perturbations can have lasting effects, but human developmental consequences remain incompletely specified.
@@ -32,7 +35,7 @@ Intervention depends on state and purpose. The earlier solo synthesis discusses 
 - Recovery after organism loss may require both microbial availability and a habitat that supports those microbes.
 - Whole-plant fiber and live fermented foods act through different ecological routes: substrate provision and microbial or metabolite exposure.
 - Microbial cross-feeding and metabolites such as butyrate can influence colon cells, barrier, immune, satiety, and metabolic pathways without proving every claimed gut-brain or clinical effect.
-- No single community profile, diversity score, supplement, cleanse, or test currently defines or reliably restores health for everyone.
+- No single community profile, diversity score, named organism, supplement, cleanse, or test currently defines or reliably restores health for everyone.
 
 ## Evidence
 - Spatial organization: [[how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216]] describes differences among oral, gastric, small-intestinal, colonic, mucus-associated, and crypt-associated communities.
@@ -45,13 +48,13 @@ Intervention depends on state and purpose. The earlier solo synthesis discusses 
 - Cross-feeding and barrier context: [[best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715]] describes fiber-to-acetate-or-lactate-to-butyrate cross-feeding and links butyrate to colon-cell, tight-junction, satiety, and local-acidity support.
 - Fasting qualification: [[best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715]] says microbes may turn toward mucus substrates during fasting but argues that time restriction's metabolic benefits probably outweigh that risk for many people.
 - Condensed ecological restatement: [[essentials-how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9951617583]] reiterates stable states, multigenerational diversity loss in mice, and recovery through organisms plus supportive diet while distinguishing garden exposure from higher-risk public settings.
+- Context-specific memory effects - [[how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398]] reports Parabacteroides enrichment as an impairment manipulation and Lactococcus restoration as a rescue manipulation in separate rodent diet models.
 
 ## Counterevidence & Qualifications
-The sources are public education rather than full reviews of primary evidence. The full Sonnenburg interview and its Essentials edit are overlapping provenance, not independent support. The strongest recovery example is a mouse experiment involving multigenerational diet and fecal transfer, so it cannot be translated directly into human treatment. Microbial diversity, inflammatory markers, butyrate production, metabolite detection, or community change are not interchangeable with durable clinical benefit. Early-life, sanitation, artificial-sweetener, emulsifier, fasting, mucus consumption, cerebrospinal-fluid, kidney-disease, probiotic, prebiotic, mood, and named-microbe neurotransmitter claims need study-specific evaluation. The solo episode's microbiome terminology and quantitative microbial-mass statements are retained as source-scoped simplifications.
+The sources are public education rather than full reviews of primary evidence. The full Sonnenburg interview and its Essentials edit are overlapping provenance, not independent support. The strongest recovery examples are mouse experiments involving multigenerational diet and fecal transfer or model-specific bacterial manipulation, so they cannot be translated directly into human treatment. Microbial diversity, inflammatory markers, butyrate production, metabolite detection, community change, correlation with memory, and rescue of one animal task are not interchangeable with durable clinical benefit. Early-life, sanitation, artificial-sweetener, emulsifier, fasting, mucus consumption, cerebrospinal-fluid, kidney-disease, probiotic, prebiotic, mood, and named-microbe claims need study-specific evaluation. The solo episode's microbiome terminology and quantitative microbial-mass statements are retained as source-scoped simplifications.
 
 ## What Changed
-- Added the Essentials edit as overlapping support for the organisms-plus-habitat model, not independent replication.
-- Made the hygiene implication explicitly risk-calibrated rather than anti-sanitation.
+- Added context-specific bacterial impairment and rescue results as animal evidence, not a universal organism ranking.
 
 ## Related Concepts
 - [[FermentedFoodResponsePersonalization]] - human dietary-intervention branch showing that ecological responses vary by exposure and baseline state.
@@ -60,3 +63,4 @@ The sources are public education rather than full reviews of primary evidence. T
 - [[UltraProcessedFoodPragmaticBoundary]] - food-form and additive context that should be assessed without assuming one universal microbiome mechanism.
 - [[OralMicrobiomePreventiveCare]] - neighboring body-site ecology with different oxygen, surface, saliva, and disease conditions.
 - [[IntestinalBarrierIntegrity]] - mucus, epithelium, tight-junction, immune, and metabolite interface affected by microbial ecology.
+- [[FoodMemoryBidirectionality]] - downstream memory branch tested through selected diet and microbial manipulations.

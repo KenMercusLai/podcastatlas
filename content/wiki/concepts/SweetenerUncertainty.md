@@ -7,7 +7,8 @@ sources:
   - essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484
   - scim8313693954-scim8313693954
   - essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363
-last_updated: 2026-10-10
+  - how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,11 +24,13 @@ The Norton source sharpens the practical side: replacing sugar-sweetened beverag
 
 The full and condensed Huberman brain-nutrition releases add a pairing variable. They describe evidence that consuming a non-caloric sweetener together with glucose-raising food can condition later neural or metabolic responses differently from consuming the sweetener alone. This is compatible with the substitution frame: it is a specific compound-and-context signal, not evidence that every non-nutritive sweetener is intrinsically harmful or that separating sweetener from carbohydrate is a universal treatment rule.
 
+A developmental animal boundary now qualifies the synthesis. Juvenile rodents exposed daily to stevia, acesulfame potassium, or saccharin within modeled acceptable-intake levels later showed memory, insulin-response, and tongue-receptor changes. This raises a research question about developmental timing but does not establish the same outcome in children, a class-wide mechanism, or a reason to discard substitution-specific human benefits.
+
 ## Key Claims
 - Sugar substitutes have different chemistry, absorption, sweetness intensity, microbial use, and safety contexts.
 - Sweeteners can serve a practical role for people who need sweet taste with lower sugar exposure or are replacing sugar-sweetened drinks.
 - Substitution target matters: replacing high-calorie soda is a different case from adding more highly sweet products to an unchanged diet.
-- Current public advice should avoid both panic and unlimited permission because long-term and population-specific evidence remains uneven.
+- Current public advice should avoid both panic and unlimited permission because long-term, developmental, and population-specific evidence remains uneven.
 - Sweetener use cannot compensate for routinely eating or drinking large amounts of sugary or highly sweet products.
 - Some sweeteners require special population warnings, including aspartame avoidance for people with phenylketonuria.
 - Pairing may matter: a sweetener consumed with glucose-raising food can have different conditioning effects from the same sweetener consumed alone, but the evidence should not be generalized across compounds or populations.
@@ -41,12 +44,13 @@ The full and condensed Huberman brain-nutrition releases add a pairing variable.
 - Use boundary: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] rejects using supplements or substitutes as permission to eat sugar freely and keeps the priority on overall diet quality.
 - Pairing-specific conditioning - [[scim8313693954-scim8313693954]] describes a human sucralose-plus-carbohydrate study and recommends interpreting sweetener effects through co-ingestion context.
 - Condensed pairing corroboration - [[essentials-food-supplements-for-brain-health-cognitive-performance-scim6233048363]] reiterates the co-ingestion warning without adding independent study detail or establishing a class-wide effect.
+- Developmental animal signal - [[how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398]] reports later memory, insulin-response, and sweet-receptor changes after juvenile rodent exposure to three non-caloric sweeteners.
 
 ## Counterevidence & Qualifications
-The sources do not rank every sweetener or provide compound-specific dose recommendations. The Norton source is strongest for substitution away from sugar-sweetened beverages, not for unlimited diet products, desserts, or highly sweet default foods. The full and Essentials Huberman notes are overlapping provenance; their sweetener-plus-carbohydrate account does not establish a class effect, universal insulin conditioning, or a clinically validated separation interval. Medical conditions, pregnancy, childhood use, phenylketonuria, gastrointestinal sensitivity, diabetes management, and eating distress remain individualized contexts.
+The sources do not rank every sweetener or provide compound-specific dose recommendations. The Norton source is strongest for substitution away from sugar-sweetened beverages, not for unlimited diet products, desserts, or highly sweet default foods. The full and Essentials Huberman notes are overlapping provenance; their sweetener-plus-carbohydrate account does not establish a class effect, universal insulin conditioning, or a clinically validated separation interval. The Kanoski developmental finding is rodent evidence and cannot establish human childhood risk, acceptable-dose failure, or equivalence among stevia, acesulfame potassium, and saccharin. Medical conditions, pregnancy, childhood use, phenylketonuria, gastrointestinal sensitivity, diabetes management, and eating distress remain individualized contexts.
 
 ## What Changed
-- Added the Essentials edit as overlapping provenance while preserving the compound-, pairing-, population-, and substitution-specific judgment.
+- Added developmental timing as a separate uncertainty while keeping the new evidence explicitly animal-only.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - broader sugar-control frame that treats sweeteners as tools, not permission.

@@ -10,7 +10,8 @@ sources:
   - scim1789507430-scim1789507430
   - eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767
   - scim4003346356-scim4003346356
-last_updated: 2026-10-11
+  - how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -32,8 +33,10 @@ The full eating-disorder source and its [[scim4003346356-scim4003346356|Essentia
 
 Sleep state is another input in [[SleepNutritionBidirectionality]]. In one controlled crossover study summarized by [[MariePierreStOnge]], short sleep raised ghrelin in men, reduced GLP-1 in women, increased food-reward activation, and was followed by greater self-selected intake. This supports a pathway from insufficient sleep to appetite and reward dysregulation, but the sex-specific hormone pattern and reported effect sizes remain study-specific rather than universal.
 
+[[FoodMemoryBidirectionality]] introduces a mnemonic layer. Human experiments summarized by [[ScottKanoski]] suggest that recalling a recent meal can reduce later snack intake and that believed intake can predict later self-reported hunger after immediate gastrointestinal signals fade. The hippocampus may therefore combine episodic context with vagal and hormonal information, but it complements rather than replaces hypothalamic, brainstem, endocrine, reward, and environmental control.
+
 ## Key Claims
-- Appetite is regulated across brainstem, hypothalamic, forebrain, gut, endocrine, sensory, and learning systems rather than by one hunger center or willpower alone.
+- Appetite is regulated across brainstem, hypothalamic, forebrain, hippocampal, gut, endocrine, sensory, memory, and learning systems rather than by one hunger center or willpower alone.
 - Ghrelin can combine low-glucose or fasting-related hunger with anticipatory signals learned from regular meal timing.
 - POMC/alpha-MSH and AGRP neurons are presented as opposing melanocortin influences on food seeking and body-weight regulation.
 - CCK, insulin, glucagon, endogenous GLP-1, and leptin connect nutrient sensing, blood glucose, adipose reserve, and energy state to appetite and satiety.
@@ -53,12 +56,13 @@ Sleep state is another input in [[SleepNutritionBidirectionality]]. In one contr
 - Sensory integration - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] links oral touch and texture signals with insular processing of enjoyment, avoidance, satiety, and continued eating.
 - Eating-disorder boundary - [[scim4349715199-scim4349715199]] and [[scim4003346356-scim4003346356]] link stomach, glucose, nutrient, POMC, AGRP, and leptin signals to energy regulation while showing why those signals do not by themselves explain restrictive or binge-purge disorders.
 - Sleep-state input - [[eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767]] reports sex-specific ghrelin and GLP-1 changes, stronger food-reward responses, and greater self-selected intake during sleep restriction.
+- Meal-memory input - [[how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398]] reports reduced snack intake after meal recall and later hunger tracking believed more than actual soup consumption.
 
 ## Counterevidence & Qualifications
-The sources are public education and do not provide complete primary references, effect sizes, or methods. The full 2021 hunger episode and its later Essentials edit, and the full 2021 eating-disorder episode and its Essentials edit, are overlapping provenance rather than independent confirmation. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. The short-sleep study's sex-specific hormone pattern, neuroimaging response, and calorie estimate require replication and should not be generalized to every person or duration of sleep loss. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
+The sources are public education and do not provide complete primary references, effect sizes, or methods. The full 2021 hunger episode and its later Essentials edit, and the full 2021 eating-disorder episode and its Essentials edit, are overlapping provenance rather than independent confirmation. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. The short-sleep study's sex-specific hormone pattern, neuroimaging response, and calorie estimate require replication and should not be generalized to every person or duration of sleep loss. The Kanoski meal studies are small behavioral examples; one measured later self-reported hunger rather than intake, and severe-amnesia cases do not isolate the hippocampus from adjacent medial-temporal damage. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
 
 ## What Changed
-- Added the eating-disorder Essentials edit as overlapping provenance; the multisystem appetite model and eating-disorder boundary are unchanged.
+- Added remembered meals and hippocampal interpretation as an appetite input that becomes more relevant as immediate gut signals fade.
 
 ## Related Concepts
 - [[SugarCravingNeuralControl]] - narrower neural and gut-reinforcement account for sugar seeking.
@@ -71,3 +75,4 @@ The sources are public education and do not provide complete primary references,
 - [[StressEatingRewardLoop]] - stress and reward pathway that can alter appetite beyond nutrient need.
 - [[EatingDisorderMultisystemModel]] - clinical framework that adds reward, habit, cognition, perception, and social context to homeostatic appetite signals.
 - [[SleepNutritionBidirectionality]] - reciprocal framework connecting insufficient sleep to food reward and intake while diet also affects sleep.
+- [[FoodMemoryBidirectionality]] - mnemonic layer linking meal context and internal-state interpretation to later hunger and eating.

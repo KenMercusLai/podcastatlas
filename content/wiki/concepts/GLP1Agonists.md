@@ -19,7 +19,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215
   - the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890
   - best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715
-last_updated: 2026-10-04
+  - how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,6 +35,8 @@ The current synthesis separates the therapeutic category from the social meaning
 The newer mechanism layer distinguishes single-target and multi-target versions without turning target count into a simple quality ranking. Semaglutide is presented as mainly GLP-1 centered: it promotes insulin secretion, slows gastric emptying, and changes satiety. Tirzepatide adds a GIP branch in the source's explanation, connecting appetite effects with possible energy-expenditure and fat-metabolism effects. Guo Haotian's atypical report of increased hunger while losing weight is useful because it shows why individual response can diverge from the category's average appetite-suppression story.
 
 A pharmacology-versus-physiology boundary now sharpens the neural mechanism. Endogenous GLP-1 has a short half-life and participates in glucose-responsive insulin signaling, while stabilized agonists create far greater and longer exposure than food-induced hormone changes. Appetite suppression is attributed mainly to brain action, especially accessible brainstem regions: the nucleus of the solitary tract is associated more with satiety and the area postrema more with nausea. That separation is useful for interpreting drug design, but the named targets, exposure multiples, and causal partition remain source-scoped rather than a complete account of clinical response.
+
+An unresolved peripheral-versus-central qualification comes from the Kanoski evidence. It describes native GLP-1 as suppressing eating through sensory vagal signaling in animal experiments, while noting controversy over whether newer agonists enter the brain in meaningful amounts and which regions they reach. Receptors in reward and hippocampal regions motivate work on substance use and memory, but emerging preclinical or clinical investigation does not establish cognitive benefit, dementia treatment, or a brain-wide mechanism.
 
 The real-world value of the class depends on maintenance and tolerability as much as on weight loss. Pharma and business sources already treated GLP-1 competition through efficacy, sales execution, capacity, brand, pricing, approval timing, patent timing, production capacity, and possible next-generation muscle-preservation or multi-target claims. The patient-facing sources add the corresponding clinical side: nausea, vomiting, muscle loss, dehydration, headaches, pancreatitis caution, thyroid-history caution, mood changes, pregnancy-data uncertainty, and discontinuation rebound can turn a visible result into a long-term risk-management problem.
 
@@ -50,7 +53,7 @@ The category also produces spillovers that should not be mistaken for direct cli
 ## Key Claims
 - GLP-1 agonists have credible therapeutic value in diabetes, obesity, and selected metabolic-disease contexts, but indication and supervision decide appropriate use.
 - Semaglutide and tirzepatide are not identical in the sources: semaglutide is framed around GLP-1 signaling, while tirzepatide adds a GIP-linked multi-target branch.
-- Ordinary food-induced GLP-1 changes are not pharmacologically equivalent to long-acting receptor agonists.
+- Ordinary food-induced GLP-1 changes are not pharmacologically equivalent to long-acting receptor agonists, and peripheral vagal signaling, accessible brain targets, and direct brain entry remain distinct mechanism questions.
 - Public GLP-1 visibility makes injectable biological intervention more familiar, which can spill into gray-market peptides and broader biohacking, but regulated receptor-defined drugs and research-chemical or unapproved peptide substitutes must remain separated by manufacturing, labeling, evidence, prescription, and follow-up standards.
 - Real-world outcomes depend on continuation behavior, lifestyle change, rebound after stopping, adverse effects, muscle preservation, nutrition support, and whether treatment matches the patient's dominant obesity mechanisms.
 - Pharma competition is judged through efficacy, safety, tolerability, approval timing, patents, capacity, brand trust, sales execution, and multi-target development.
@@ -61,6 +64,7 @@ The category also produces spillovers that should not be mistaken for direct cli
 - Mechanism and individual variation - [[ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy]] distinguishes semaglutide's GLP-1 focus from tirzepatide's GLP-1/GIP dual-target profile and records [[GuoHaotian|郭昊天]]'s atypical increased-hunger but weight-loss response.
 - Physiologic-versus-pharmacologic exposure - [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] contrasts short-lived endogenous GLP-1 and modest food-induced changes with long-acting agonists that produce much larger sustained exposure.
 - Brainstem action and tolerability - [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] attributes appetite suppression mainly to brain action and distinguishes nucleus-of-the-solitary-tract satiety from area-postrema nausea as a source-scoped target model.
+- Vagal and cognitive boundary - [[how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398]] distinguishes native peripheral and central GLP-1 systems, reports a vagal requirement for native hormone effects in animals, and keeps agonist brain access and cognition-related uses unresolved.
 - Development history and multi-agonists - [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] traces the incretin effect through exenatide, liraglutide, semaglutide, tirzepatide, an unnamed triple agonist, and an antibody-based GLP-1/GIP approach.
 - Adverse-effect and maintenance boundary - [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] names GI reactions, muscle loss, pancreatitis and thyroid-history cautions, mood watch items, and rebound; [[ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy]] adds dehydration, headaches, pregnancy-data uncertainty, low-weight or poor-mood caution, protein and strength-training support, and platforming after initial loss; [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] also makes discontinuation behavior part of market interpretation.
 - Peptide-category boundary - [[peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046]] treats semaglutide and tirzepatide as regulated, receptor-defined peptide drugs while separating them from unapproved BPC-157, bioregulators, thymic peptides, and growth-hormone secretagogues.
@@ -75,12 +79,11 @@ The category also produces spillovers that should not be mistaken for direct cli
 ## Counterevidence & Qualifications
 Several source links are business, culture, pricing, or analogy uses rather than clinical evaluations. The dementia source reports a negative boundary for people who already have dementia, and the orexin source explicitly warns that promising drug categories often fail before broad use. Side-effect, rebound, contraindication, pregnancy, dosing, brain-target, hormone-exposure, inflammation, cardiovascular, alcohol-use, lean-mass, and trial-outcome details are public medical-literacy claims, not individualized risk estimates. The Knight source's thousands-fold exposure comparison and near-elimination of muscle-loss claim are especially strong and remain source-scoped pending primary evidence. Gray-market peptide use and stacked body-composition use should not inherit the evidence status of regulated GLP-1 drugs, and one guest's atypical response should not be treated as population-level evidence.
 
-Retatrutide claims remain source-scoped until formal approval, labeling, and longer-term safety evidence are integrated. The Thompson source's practice population, discontinuation rate, one-third lean-mass estimate, fat-dominant regain claim, low-dose maintenance strategy, endoscopic combinations, and gene-therapy results likewise need primary trial, comparator, safety, and follow-up context.
+Retatrutide claims remain source-scoped until formal approval, labeling, and longer-term safety evidence are integrated. The Thompson source's practice population, discontinuation rate, one-third lean-mass estimate, fat-dominant regain claim, low-dose maintenance strategy, endoscopic combinations, and gene-therapy results likewise need primary trial, comparator, safety, and follow-up context. The Kanoski source supplies no controlled evidence for microdosing, lean-person use, cognitive enhancement, or dementia treatment; trial nutrition and activity support also limits inference about unsupervised appetite suppression.
 
 ## What Changed
-- Strengthened discontinuation, lean-mass, regain, and long-term maintenance as real-world effectiveness constraints.
-- Added mechanism-matched medication, endoscopy, nutrition, exercise, and behavior combinations as a clinical strategy rather than a settled superiority claim.
-- Added nutrient-responsive GLP-1 gene therapy as an investigational branch distinct from long-acting agonist exposure.
+- Added native vagal signaling and uncertain agonist brain access as distinct mechanism questions.
+- Added explicit evidence limits around microdosing, lean-person use, and cognition-related indications.
 
 ## Related Concepts
 - [[Ozempic]] - named product reference point for public GLP-1 familiarity.
@@ -103,3 +106,4 @@ Retatrutide claims remain source-scoped until formal approval, labeling, and lon
 - [[OrexinAgonists]] - drug-category analogy that remains earlier and less proven.
 - [[GuoHaotian|郭昊天]] - guest voice adding personal-use and biotech-industry explanation.
 - [[MultimodalObesityTreatment]] - mechanism-matched combination framework for medication, procedures, nutrition, exercise, and maintenance.
+- [[FoodMemoryBidirectionality]] - neighboring hippocampal and meal-memory system relevant to unproven cognition-related GLP-1 hypotheses.
