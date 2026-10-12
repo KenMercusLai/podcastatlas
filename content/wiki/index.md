@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？](sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm.md) — 曹操逼近汉中引发刘璋恐惧，张松据此推动迎刘备入蜀；黄权、王累预警双重权力中心风险却未能改变决策。
 - [《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？](sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb.md) — 刘备接受入蜀目标却拒绝席间擒拿刘璋，并借受托兵力、物资与葭萌经营先积累实力、人心和公开动手的条件。
 - [PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点](sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos.md) — 这病说来话长 episode on preventive pet screening, veterinary diagnostic reasoning, insurance limits, budget-aware treatment, and end-of-life decisions.
 - [《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？](sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx.md) — 张松密信暴露并被刘璋处死，刘备由此与刘璋公开决裂；节目以人才失用、东州—益州裂缝和乱世择主解释刘璋集团的崩解。
@@ -4684,6 +4685,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [黄权 / Huang Quan (Late Han)](entities/HuangQuanLateHan.md) — 在刘备入蜀前指出其既难以降为普通部属、又会因厚待而成为第二权力中心的刘璋官员。
+- [王累 / Wang Lei (Late Han)](entities/WangLeiLateHan.md) — 以成都城门倒悬的高成本抗议反对刘璋迎刘备入蜀的广汉官员。
 - [严颜 / Yan Yan (Late Han)](entities/YanYanLateHan.md) — 以“放虎自卫”警告刘璋邀请刘备入益州将使防御者变成潜在取代者的巴郡官员。
 - [张肃 / Zhang Su (Late Han)](entities/ZhangSuLateHan.md) — 因担忧受弟弟张松牵连而向刘璋告发密信、使秘密倒向刘备的计划暴露的益州人物。
 - [国渊 / Guo Yuan (late-Han investigator)](entities/GuoYuanInvestigatorLateHan.md) — 以文意筛选与笔迹样本侦查匿名信、后获曹操升任的东汉末官员。

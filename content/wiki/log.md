@@ -36716,3 +36716,10 @@ Added source `zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weih
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？
+
+Added source `zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm`; created [[HuangQuanLateHan|黄权]] and [[WangLeiLateHan|王累]]; and resynthesized [[LiuZhang|刘璋]], [[FaZheng|法正]], [[ZhangSongLateHan|张松]], and [[EntrustedResourcePowerTransfer|受托资源反向转移]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: fear that Cao Cao could take Hanzhong lets Zhang Song present Liu Bei as the necessary defender, but Huang Quan identifies the resulting dual-power dilemma and Wang Lei also protests; Liu Zhang rejects both warnings and sends Fa Zheng to welcome Liu Bei, supplying the decision-stage prequel to Hanji 1125's transfer of troops, supplies, and command. No settled contradiction is adopted. Threat chronology, escort numbers, dialogue, private motives, internal-defection allegations, reassignment details, protest mechanics, and Sun Quan's motive remain source-scoped. Broad Liu Bei, Cao Cao, Yizhou, Hanzhong, and Zhang Lu profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,599 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

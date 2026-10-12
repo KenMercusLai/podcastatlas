@@ -84454,9 +84454,9 @@
       "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
     },
     "EntrustedResourcePowerTransfer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
@@ -84464,6 +84464,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
+          "key": "zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
         }
       ],
       "updated": "2026-10-13",
@@ -88847,9 +88854,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FaZheng": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -88885,6 +88892,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
+          "key": "zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
         }
       ],
       "updated": "2026-10-13",
@@ -126940,6 +126954,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/huangqionglatehan/"
+    },
+    "HuangQuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
+          "key": "zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/huangquanlatehan/"
     },
     "HuangRong": {
       "episode_count": 2,
@@ -165450,9 +165480,9 @@
       "url": "/wiki/entities/liuzeqiroyalwesternhan/"
     },
     "LiuZhang": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -165502,6 +165532,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
+          "key": "zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
         }
       ],
       "updated": "2026-10-13",
@@ -280733,6 +280770,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
+    "WangLeiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
+          "key": "zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/wangleilatehan/"
+    },
     "WangLiWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -302342,9 +302395,9 @@
       "url": "/wiki/entities/zhangsiqi/"
     },
     "ZhangSongLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -302373,6 +302426,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
+          "key": "zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
         }
       ],
       "updated": "2026-10-13",
