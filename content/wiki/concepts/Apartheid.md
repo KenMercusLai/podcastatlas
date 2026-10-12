@@ -5,7 +5,8 @@ tags: [politics, race, south-africa, segregation]
 sources:
   - 682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080
   - ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk
-last_updated: 2026-09-07
+  - ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Apartheid is the South African racial-order system the wiki sources describe as 
 
 ## Current Synthesis
 
-The sources treat apartheid as more than formal segregation. The Rest Is History episode shows its symbolic afterlife through rugby, the [[Springboks]], [[DieStemVanSuidAfrika|Die Stem]], and sporting exclusion: Mandela's reconciliation strategy only makes sense against that depth of injury. EP383 adds a travel-facing view of the system's institutional and material afterlife: prisons, pass-law memory, education limits, township formation, spatial inequality, service work, and museum narrative all make the old order visible after its legal abolition.
+The sources treat apartheid as more than formal segregation. The Rest Is History episode shows its symbolic afterlife through rugby, the [[Springboks]], [[DieStemVanSuidAfrika|Die Stem]], and sporting exclusion: Mandela's reconciliation strategy only makes sense against that depth of injury. EP383 adds a travel-facing view of prisons, pass-law memory, township formation, spatial inequality, service work, and museum narrative. EP134 deepens the causal account: land allocation, racial classification, Bantu education, occupational reservation, and restrictions on interracial family life produced unequal capacities and resources that could not disappear when the law changed.
 
 ## Key Claims
 
@@ -27,6 +28,7 @@ The sources treat apartheid as more than formal segregation. The Rest Is History
 - Sporting boycotts mattered politically because rugby was central to [[Afrikaners|Afrikaner]] pride.
 - Apartheid's collapse required pressure from resistance, sanctions, cultural isolation, sport boycotts, and internal loss of legitimacy.
 - Post-apartheid reconciliation had to handle symbols and material inequalities left behind by the old system rather than only write new laws.
+- Education and occupational design intentionally constrained black advancement, creating institutional effects beyond the regime's legal lifetime.
 
 ## Evidence
 
@@ -38,14 +40,17 @@ The sources treat apartheid as more than formal segregation. The Rest Is History
 - Carceral hierarchy: [[ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk]] describes [[ConstitutionHillJohannesburg|Constitution Hill]] through racially unequal prison food, bedding, bathing, sleeping space, and punishment for curfew or pass-document violations.
 - Education and space: [[ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk]] links [[Soweto]], the 1976 student uprising, restricted black education, township formation, and today's adjacent unequal neighborhoods.
 - Museum memory: [[ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk]] presents [[ApartheidMuseumJohannesburg|the Apartheid Museum]] as a necessary but curated narrative entrance into the system.
+- Classification and family life: [[ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114]] uses changing Chinese and Japanese classifications, racial-reclassification tests, and a mixed-race child's separation from his parents in public to show political contingency and intimate control.
+- Education and work: [[ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114]] describes Bantu schooling oriented toward manual labor and management jobs reserved for whites.
 
 ## Counterevidence & Qualifications
 
-The sources are still partial. The Rest Is History source is centered on rugby and anthem politics, while EP383 is a travel account shaped by museums, guides, resident conversations, and personal observation. Claims about education ratios, ongoing racialized labor distribution, corruption, and work habits should remain source-scoped until supported by more systematic evidence.
+The sources are still partial. The Rest Is History source is centered on rugby and anthem politics, EP383 is a travel account, and EP134 is a conversational overview relying on summarized examples from personal narrative and historical discussion. Land shares, classification rules, education curricula, corporate timelines, and long-run causal weights remain source-scoped until supported by specialist evidence.
 
 ## What Changed
 
 - Added prison, education, township, museum, and everyday inequality evidence from the South Africa travel episode.
+- Added racial classification, interracial-family control, Bantu education, and occupational reservation as mechanisms of durable inequality.
 
 ## Related Concepts
 

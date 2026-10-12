@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP134-从种族隔离的南非到92年的洛杉矶骚乱，全世界的平权走过了多少艰难岁月](sources/ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114.md) — 无时差研究所 episode connecting apartheid's institutional legacy, Asian American diversity, racial triangulation, and the structural context of the 1992 Los Angeles unrest.
 - [EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai](sources/ep-51-building-ai-agents-that-actually-work-in-production.md) — Data Science With Sam episode on real-data discovery, company-specific agent integration, progressive autonomy, model portability, and human review.
 - [EP137-从TikTok事件聊聊企业出海公关有多难](sources/ep137-cong-tiktok-shijian-liaoliao-qiye-chuhai-gongguan-you-duo-nan-wkg5jv9ddtotvckwbgkes6bhu2q322.md) — 无时差研究所以TikTok的2020年美国危机区分本土化公关能力与企业无法单独化解的地缘政治约束。
 - [EP138-“来了就是深圳人”？](sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp.md) — 无时差研究所从三种迁居经验讨论深圳的移民城市归属、特区实验精神，以及住房、教育、医疗与长期定居的落差。
@@ -18193,6 +18194,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fraport / 法兰克福机场集团](entities/Fraport.md) — 以巴西、希腊和斯洛文尼亚机场组合分散本土客流波动的国际机场集团。
 
 ## Concepts
+- [Racial Triangulation / 种族三角关系](concepts/RacialTriangulation.md) — Relational ordering that can praise Asian Americans against Black Americans while withholding secure national belonging.
+- [Inter-Minority Conflict Displacement / 少数族裔冲突转移](concepts/InterminorityConflictDisplacement.md) — Process by which institutional injustice is narrated and experienced primarily as conflict between minority groups.
 - [Model-Portable Agent Architecture](concepts/ModelPortableAgentArchitecture.md) — Production-agent design that separates workflow integration and evaluation from any single foundation model.
 - [Production Agent Discovery](concepts/ProductionAgentDiscovery.md) — Pre-implementation mapping of real data, systems, rules, exceptions, risks, and acceptance criteria.
 - [Progressive Agent Autonomy](concepts/ProgressiveAgentAutonomy.md) — Evidence-gated expansion of an agent's context, permissions, action scope, and independence.

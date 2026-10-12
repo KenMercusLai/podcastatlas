@@ -36570,3 +36570,11 @@ Added source `713-king-arthur-the-once-future-king-part-1-glt2516166521`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP134-从种族隔离的南非到92年的洛杉矶骚乱，全世界的平权走过了多少艰难岁月
+
+Added source `ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114`; created [[RacialTriangulation|种族三角关系]] and [[InterminorityConflictDisplacement|少数族裔冲突转移]]; and resynthesized [[Apartheid]], [[PostApartheidStructuralInequality]], [[ModelMinorityStereotype]], and [[AsianDiasporaBelongingPressure]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: apartheid's land, classification, education, occupation, and family controls created capabilities and resource gaps that outlasted legal abolition; model-minority praise can position Asian Americans above Black Americans comparatively while still excluding them as foreign; and the 1992 Los Angeles unrest requires both recognition of direct Black-Korean harm and analysis of unequal justice, media framing, neighborhood commerce, and institutional power. No settled contradiction was adopted. Land shares, curricula, migration and casualty totals, legal details, media intent, group attitudes, and causal weights remain source-scoped because the supplied document is a structured summary rather than a cited transcript or historical study. Broad [[WushichaYanjiusuo|无时差研究所]], [[SouthAfrica]], [[NelsonMandela]], and [[LosAngeles]] profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,580 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

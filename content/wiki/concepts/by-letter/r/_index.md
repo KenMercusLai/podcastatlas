@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10488
+wiki_total_pages: 10490
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "RacialMicroaggressionCumulativeHarm"
     title: "Racial Microaggression Cumulative Harm / 种族微歧视的累积伤害"
     url: "/wiki/concepts/racialmicroaggressioncumulativeharm/"
+  - key: "RacialTriangulation"
+    title: "Racial Triangulation / 种族三角关系"
+    url: "/wiki/concepts/racialtriangulation/"
   - key: "RacializedAncestralClaimmaking"
     title: "Racialized Ancestral Claimmaking"
     url: "/wiki/concepts/racializedancestralclaimmaking/"

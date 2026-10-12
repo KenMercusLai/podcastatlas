@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3491
+topic_total_pages: 3492
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1816,6 +1816,9 @@ topic_concepts:
   - key: "IntelligenceTesting"
     title: "Intelligence Testing / 智力测试"
     url: "/wiki/concepts/intelligencetesting/"
+  - key: "InterminorityConflictDisplacement"
+    title: "Inter-Minority Conflict Displacement / 少数族裔冲突转移"
+    url: "/wiki/concepts/interminorityconflictdisplacement/"
   - key: "InternationalStudentMentalHealthContext"
     title: "International Student Mental-Health Context / 留学生心理健康情境"
     url: "/wiki/concepts/internationalstudentmentalhealthcontext/"

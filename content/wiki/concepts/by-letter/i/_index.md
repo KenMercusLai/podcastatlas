@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10488
+wiki_total_pages: 10490
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "IntentionalLivingAgency"
     title: "Intentional Living Agency"
     url: "/wiki/concepts/intentionallivingagency/"
+  - key: "InterminorityConflictDisplacement"
+    title: "Inter-Minority Conflict Displacement / 少数族裔冲突转移"
+    url: "/wiki/concepts/interminorityconflictdisplacement/"
   - key: "InteractiveTheoremProving"
     title: "Interactive Theorem Proving"
     url: "/wiki/concepts/interactivetheoremproving/"
