@@ -36630,3 +36630,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | 《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？
+
+Added source `zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz`; resynthesized [[DuJiLateHan|杜畿]], [[FaZheng|法正]], [[ZhangSongLateHan|张松]], and [[DistributedLocalResilience|分布式地方韧性]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hedong's long-run civil order, production, storage, and transport become campaign capacity during the Weinan war, so rear-area administration can earn military merit without direct battlefield service; meanwhile, Fa Zheng's underuse under Liu Zhang and Zhang Song's sponsorship turn the earlier Liu Bei alliance pivot into a covert Yizhou transfer-of-power project. No settled contradiction was adopted. The exact grain surplus, Du Ji biography, Cao Cao's motives, settlement details, Fa Zheng's pedigree, private conversations, feigned reluctance, and Liu Bei-charisma explanation remain source-scoped. Broad Cao Cao, Liu Bei, Liu Zhang, Xiahou Yuan, Zhang Ji, and Weinan profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,588 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

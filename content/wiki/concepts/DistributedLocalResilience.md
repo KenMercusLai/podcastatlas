@@ -6,7 +6,8 @@ tags: [statecraft, local-governance, defense, logistics, late-han]
 sources:
   - zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu
   - zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz
+last_updated: 2026-10-12
 ---
 
 # 分布式地方韧性 / Distributed Local Resilience
@@ -17,11 +18,9 @@ last_updated: 2026-09-20
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk|Hanji 1071]] supplies the preparation layer for [[DuJiLateHan|杜畿]]'s resilience in [[HedongCommandery|河东郡]]. He avoids a mass attack that could merge undecided households with hostile elites, then uses recruitment and rotating leave to move reliable people outward and disperse hostile concentration. When threats widen, county officials and residents support his separate camp, showing that distributed capacity is built before the center is relinquished.
+The Hedong case begins before open revolt. [[DuJiLateHan|杜畿]] avoids a mass attack that could merge undecided households with hostile elites, then uses recruitment and rotating leave to move reliable people outward and disperse hostile concentration. When threats widen, county officials and residents support his separate camp. He can abandon the commandery seat without abandoning the region because county defenses and the cultivated support network continue to function; rebels cannot take his camp or obtain grain from surrounding counties. [[zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk|Hanji 1071]] and [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] ground this preparation-and-defense sequence.
 
-[[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] supplies the defense and governance outcome. Du Ji can abandon the commandery seat without abandoning the region because county-level defenses and the cultivated support network continue to function. Rebels cannot take his camp or obtain grain from surrounding counties, so threatening the center does not produce usable territorial control.
-
-The episode's sixteen-year governance account broadens resilience beyond emergency defense. Agriculture, sericulture, dispute handling, schooling, fortification, arms production, and training create mutually reinforcing livelihood and security capacity. The resulting system is resilient because ordinary prosperity supplies allegiance and material depth, while distributed preparedness prevents one local seizure from collapsing the whole region.
+Resilience then broadens beyond emergency survival. Agriculture, sericulture, dispute handling, schooling, fortification, arms production, and training create mutually reinforcing livelihood and security capacity. The later Weinan campaign provides a further performance test: Hedong reportedly avoids neighboring unrest, continues supplying Cao Cao's army, and retains grain after victory. A region that preserves civilian order can therefore keep generating, storing, and moving resources for operations elsewhere. [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] and [[zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz|Hanji 1123]] support this livelihood-to-logistics extension.
 
 ## Key Claims
 
@@ -31,6 +30,7 @@ The episode's sixteen-year governance account broadens resilience beyond emergen
 - Trust accumulated before crisis can become rapid mobilization and willingness to defend local order.
 - Agricultural prosperity and military preparedness can reinforce each other when treated as one governance system.
 - Distributed resilience reduces dependence on a single city, commander, or relief column, but does not eliminate the need for outside reinforcement.
+- Rear-area stability becomes military capacity when local production and storage continue feeding a campaign beyond the region itself.
 
 ## Evidence
 
@@ -39,14 +39,16 @@ The episode's sixteen-year governance account broadens resilience beyond emergen
 - Logistics denial: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] says the rebel coalition fails to take Du Ji's camp and then fails to obtain grain from surrounding counties.
 - Livelihood-defense integration: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] joins farming, sericulture, schooling, fortification, weapons, and troop training in the long-term Hedong settlement.
 - External limit: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] also requires Cao-side coordination and Ma Teng-associated reinforcement to finish the rebellion.
+- Later campaign capacity: [[zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz|Hanji 1123]] says Hedong remains orderly and supplies grain during the Weinan campaign, with a reported surplus after victory.
 
 ## Counterevidence & Qualifications
 
-This remains a two-source, single-case concept derived partly from the host's “distributed warfare” analogy and strategic motive-reading. The episodes do not establish a formal county-autonomy doctrine, identify every defensive node, prove that personnel sorting worked exactly as designed, or show that popular support alone defeated the rebels. Outside military assistance remains decisive, so the concept describes preparation, staying power, and logistics denial rather than self-sufficient victory.
+This remains a three-source, single-region concept derived partly from the host's “distributed warfare” analogy and strategic motive-reading. The episodes do not establish a formal county-autonomy doctrine, identify every defensive node, prove that personnel sorting worked exactly as designed, or show that popular support alone defeated the rebels. Outside military assistance remains decisive. Hanji 1123's exact grain surplus and causal allocation require corroboration, so the concept describes preparation, staying power, logistics denial, and rear-area production rather than a claim that administration alone wins wars.
 
 ## What Changed
 
-- Added the pre-crisis recruitment, leave, and civilian-alignment mechanisms that prepare the later county defense.
+- Added the later Guanzhong campaign as a test of resilience beyond the original Hedong revolt.
+- Extended the concept from local survival and denial to continued production, storage, and outward military supply.
 
 ## Related Concepts
 
@@ -55,3 +57,4 @@ This remains a two-source, single-case concept derived partly from the host's �
 - [[WarCostTempoDiscipline|战争成本与速决纪律]] - relates because denied supplies force an attacker to spend time without consolidating gains.
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - connects regional resilience to selecting an administrator able to build it before crisis.
 - [[LayeredLocalEliteDemobilization|分层式地方武力拆解]] - precursor mechanism that disperses hostile concentration while preserving a wider support network.
+- [[WeinanBattleLateHan|渭南之战]] - external campaign whose supply base demonstrates the wider value of stable local order.

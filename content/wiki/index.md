@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？](sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz.md) — 潼关战后以杜畿治河东、保民安与供军粮说明后方治理也是战功，并以法正、张松转向刘备开启益州权力转移的谋划。
 - [Talking with AI ghosts of loved ones](sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128.md) — Marketplace Tech interview with Jack Manning on generative-ghost design, relational authenticity, participant responses, and commercial safeguards.
 - [Alamo Drafthouse Cinema: Tim and Karrie League (2023)](sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.md) — How I Built This episode on cinema hospitality, protected audience attention, local community programming, franchise conflict, workplace failures, bankruptcy, and acquisition.
 - [EP18-真的！多失恋几次，你就长大了](sources/ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557.md) — 无时差研究所以大琳的失恋、健康、求职与社交低谷，讨论情绪接纳、长期人生评估与逆境容量的扩展。

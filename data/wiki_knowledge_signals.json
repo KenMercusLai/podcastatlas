@@ -70217,9 +70217,9 @@
       "url": "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
     },
     "DistributedLocalResilience": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
@@ -70234,9 +70234,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？ [losLoy1PuOGQ4O9aZo2x_OMBRbYz].md",
+          "key": "zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
     "DistributedNeuralRepresentation": {
@@ -73201,9 +73208,9 @@
       "url": "/wiki/entities/dugenlatehan/"
     },
     "DuJiLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
@@ -73225,9 +73232,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？ [losLoy1PuOGQ4O9aZo2x_OMBRbYz].md",
+          "key": "zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/dujilatehan/"
     },
     "DuJigongLateHan": {
@@ -88650,6 +88664,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
+    },
+    "FaZheng": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云 [lgtPgxl5ANxiAl8yM2Nt8DMuc3Ee].md",
+          "key": "zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？ [losLoy1PuOGQ4O9aZo2x_OMBRbYz].md",
+          "key": "zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/fazheng/"
     },
     "FabianStrategy": {
       "episode_count": 2,
@@ -301489,9 +301533,9 @@
       "url": "/wiki/entities/zhangsiqi/"
     },
     "ZhangSongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -301499,9 +301543,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？ [losLoy1PuOGQ4O9aZo2x_OMBRbYz].md",
+          "key": "zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/zhangsonglatehan/"
     },
     "ZhangSongXinPetitioner": {
