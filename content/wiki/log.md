@@ -36555,3 +36555,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai
+
+Added source `ep-51-building-ai-agents-that-actually-work-in-production`; created [[ShawnKercher]], [[HummingAgent]], [[ProductionAgentDiscovery]], [[ProgressiveAgentAutonomy]], and [[ModelPortableAgentArchitecture]]; and resynthesized [[HumanInLoopAgentGovernance]] and [[DomainKnowHowMoat]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: production agents should begin with real workflow data and tacit-rule discovery, earn wider authority through sandboxed operation and meaningful human review, keep company-specific integration outside replaceable model components, and regression-test every model change. The source internally conflicts over Shawn/Sean Kercher and CEO versus co-founder/CTO, so identity spelling and role remain unresolved; client outcomes, privacy assurances, workforce effects, and market forecasts remain participant-reported. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,578 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10485
+wiki_total_pages: 10488
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2153,6 +2153,9 @@ wiki_pages:
   - key: "ProductLedGrowth"
     title: "Product-Led Growth"
     url: "/wiki/concepts/productledgrowth/"
+  - key: "ProductionAgentDiscovery"
+    title: "Production Agent Discovery"
+    url: "/wiki/concepts/productionagentdiscovery/"
   - key: "ProductionInvestmentCity"
     title: "Production Investment City / 产投城市"
     url: "/wiki/concepts/productioninvestmentcity/"
@@ -2222,6 +2225,9 @@ wiki_pages:
   - key: "ProgressionFreeVsOverallSurvival"
     title: "Progression-Free vs Overall Survival"
     url: "/wiki/concepts/progressionfreevsoverallsurvival/"
+  - key: "ProgressiveAgentAutonomy"
+    title: "Progressive Agent Autonomy"
+    url: "/wiki/concepts/progressiveagentautonomy/"
   - key: "ProjectBasedScienceLearning"
     title: "Project-Based Science Learning / 项目式科学学习"
     url: "/wiki/concepts/projectbasedsciencelearning/"

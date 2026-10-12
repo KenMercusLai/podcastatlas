@@ -46838,6 +46838,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HummingAgent": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HunSen": [
     {
       "key": "politics",
@@ -61417,6 +61424,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ModelPortableAgentArchitecture": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ModelPostTrainingBottleneck": [
     {
       "key": "technology",
@@ -71420,6 +71434,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ProductionAgentDiscovery": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ProductionGradeAI3D": [
     {
       "key": "technology",
@@ -71565,6 +71586,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ProgressiveAgentAutonomy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ProhibitionComplianceAsymmetry": [
@@ -79505,6 +79538,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ShawnKercher": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ShaziVisram": [
@@ -102112,6 +102157,13 @@
     }
   ],
   "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-51-building-ai-agents-that-actually-work-in-production": [
     {
       "key": "technology",
       "label": "Technology",

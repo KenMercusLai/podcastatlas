@@ -43575,6 +43575,10 @@
     "title": "Hummer Winblad",
     "url": "/wiki/entities/hummerwinblad/"
   },
+  "HummingAgent": {
+    "title": "HummingAgent",
+    "url": "/wiki/entities/hummingagent/"
+  },
   "HumorousConservationWriting": {
     "title": "Humorous Conservation Writing",
     "url": "/wiki/concepts/humorousconservationwriting/"
@@ -60695,6 +60699,10 @@
     "title": "Model Minority Stereotype / 模范少数族裔刻板印象",
     "url": "/wiki/concepts/modelminoritystereotype/"
   },
+  "ModelPortableAgentArchitecture": {
+    "title": "Model-Portable Agent Architecture",
+    "url": "/wiki/concepts/modelportableagentarchitecture/"
+  },
   "ModelPostTrainingBottleneck": {
     "title": "Model Post-Training Bottleneck",
     "url": "/wiki/concepts/modelposttrainingbottleneck/"
@@ -70775,6 +70783,10 @@
     "title": "Product Vision Drift",
     "url": "/wiki/concepts/productvisiondrift/"
   },
+  "ProductionAgentDiscovery": {
+    "title": "Production Agent Discovery",
+    "url": "/wiki/concepts/productionagentdiscovery/"
+  },
   "ProductionGradeAI3D": {
     "title": "Production-Grade AI 3D",
     "url": "/wiki/concepts/productiongradeai3d/"
@@ -70882,6 +70894,10 @@
   "ProgressionFreeVsOverallSurvival": {
     "title": "Progression-Free vs Overall Survival",
     "url": "/wiki/concepts/progressionfreevsoverallsurvival/"
+  },
+  "ProgressiveAgentAutonomy": {
+    "title": "Progressive Agent Autonomy",
+    "url": "/wiki/concepts/progressiveagentautonomy/"
   },
   "ProhibitionComplianceAsymmetry": {
     "title": "禁令遵从不对称 / Prohibition Compliance Asymmetry",
@@ -79174,6 +79190,10 @@
   "ShawBrothersStudio": {
     "title": "邵氏 / Shaw Brothers Studio",
     "url": "/wiki/entities/shawbrothersstudio/"
+  },
+  "ShawnKercher": {
+    "title": "Shawn Kercher",
+    "url": "/wiki/entities/shawnkercher/"
   },
   "ShaxiAncientTown": {
     "title": "沙溪古镇 / Shaxi Ancient Town",
@@ -102170,6 +102190,10 @@
   "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era": {
     "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
     "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+  },
+  "ep-51-building-ai-agents-that-actually-work-in-production": {
+    "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+    "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
   },
   "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252": {
     "title": "Ep 59. 2026 Agent 编程新趋势",

@@ -70389,9 +70389,9 @@
       "url": "/wiki/entities/dompedroii/"
     },
     "DomainKnowHowMoat": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "真正改变世界的技术，为什么一开始都不被看好？｜ S10E16 [8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1].md",
@@ -70406,6 +70406,13 @@
           "show": "捕蛇者说",
           "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
           "url": "/wiki/sources/8228694742-944685/"
+        },
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
         }
       ],
       "updated": "2026-10-08",
@@ -127907,9 +127914,9 @@
       "url": "/wiki/concepts/humanimperfectioncreativevalue/"
     },
     "HumanInLoopAgentGovernance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
@@ -127917,6 +127924,13 @@
           "show": "罗永浩的十字路口",
           "title": "周鸿祎×罗永浩！周鸿祎深度谈 AI！近四小时高密度输出",
           "url": "/wiki/sources/lhg2boyb8begpx0hyq-n6qur47ks-lhg2boyb8begpx0hyq-n6qur47ks/"
+        },
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
         }
       ],
       "updated": "2026-10-10",
@@ -128414,6 +128428,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/humboldtiannatureinterconnection/"
+    },
+    "HummingAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/hummingagent/"
     },
     "HumorousRemonstrance": {
       "episode_count": 2,
@@ -184913,6 +184943,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/modelminoritystereotype/"
     },
+    "ModelPortableAgentArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/modelportableagentarchitecture/"
+    },
     "ModelPostTrainingBottleneck": {
       "episode_count": 3,
       "show_count": 2,
@@ -217204,6 +217250,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/productvariablejudgment/"
     },
+    "ProductionAgentDiscovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/productionagentdiscovery/"
+    },
     "ProductionGradeAI3D": {
       "episode_count": 1,
       "show_count": 1,
@@ -217446,6 +217508,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/progressvisibilitydesign/"
+    },
+    "ProgressiveAgentAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/progressiveagentautonomy/"
     },
     "ProhibitionComplianceAsymmetry": {
       "episode_count": 1,
@@ -241947,6 +242025,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/shawbrothersstudio/"
+    },
+    "ShawnKercher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
+          "key": "ep-51-building-ai-agents-that-actually-work-in-production",
+          "show": "Data Science With Sam",
+          "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
+          "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/shawnkercher/"
     },
     "SheHeWesternHan": {
       "episode_count": 2,

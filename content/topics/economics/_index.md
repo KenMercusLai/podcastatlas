@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2251
+topic_total_pages: 2252
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5081,6 +5081,9 @@ topic_entities:
   - key: "ShanxiMerchants"
     title: "Shanxi Merchants / 晋商"
     url: "/wiki/entities/shanximerchants/"
+  - key: "ShawnKercher"
+    title: "Shawn Kercher"
+    url: "/wiki/entities/shawnkercher/"
   - key: "ShenzhenStockExchange"
     title: "Shenzhen Stock Exchange / 深圳证券交易所"
     url: "/wiki/entities/shenzhenstockexchange/"

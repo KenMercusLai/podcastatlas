@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10485
+wiki_total_pages: 10488
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "ModelInfraCoDesign"
     title: "Model-Infra Co-Design"
     url: "/wiki/concepts/modelinfracodesign/"
+  - key: "ModelPortableAgentArchitecture"
+    title: "Model-Portable Agent Architecture"
+    url: "/wiki/concepts/modelportableagentarchitecture/"
   - key: "ModelResponsiveAINativeOrganization"
     title: "Model-Responsive AI Native Organization"
     url: "/wiki/concepts/modelresponsiveainativeorganization/"
