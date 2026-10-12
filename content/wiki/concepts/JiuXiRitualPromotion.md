@@ -6,7 +6,8 @@ tags: [western-han, wang-mang, ritual, legitimacy, court-politics]
 sources:
   - zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd
   - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh
+last_updated: 2026-10-13
 ---
 
 ## Definition
@@ -19,6 +20,8 @@ Hanji 623 and Hanji 624 ground the concept in [[WangMang|王莽]]'s 4-5 CE promo
 
 The episode treats the award as a political threshold. Wang Mang receives ritual clothing, weapons, vehicles, flags, bows, swords, credentials, armor, vessels, jade objects, household ceremonial privileges, subordinate officials, and three hundred guards. The point is not only material reward: the court gives Wang Mang a visible, quasi-imperial exception while still presenting the outcome as gratitude, dependence, and ritual propriety.
 
+Hanji 1128 adds a late-Han comparison through [[CaoCao|曹操]]. After earlier special privileges, [[EmperorXianOfHan|汉献帝]] grants Cao Cao the Nine Bestowments. The episode treats this as the upper ritual limit for a minister and as a visible pre-dynastic threshold, but it does not equate the award itself with completed usurpation. Together, the Wang Mang and Cao Cao cases make Nine Bestowments a reusable language for exceptional ministerial power rather than a one-person object list.
+
 ## Key Claims
 
 - Nine Bestowments turn ministerial reward into public ritual elevation.
@@ -27,6 +30,7 @@ The episode treats the award as a political threshold. Wang Mang receives ritual
 - Object lists matter because clothing, weapons, vehicles, flags, credentials, and guards make status visible.
 - The award helps bridge ordinary ministerial authority and later acting-emperor or usurpation authority.
 - Praise and comparison are part of the setup: Wang Mang's elevation is made to look like recognition of visible public service rather than naked self-demand.
+- The Cao Cao case shows that the same ritual can mark a minister's near-imperial standing without itself completing a dynastic transfer.
 
 ## Evidence
 
@@ -34,15 +38,16 @@ The episode treats the award as a political threshold. Wang Mang receives ritual
 - Petition pressure: [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] says officials and commoners petition because Wang Mang refuses Xinye land, with a reported count of 487,572 petitioners.
 - Refusal-to-reward script: [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] says Wang Mang asks that petitions be shelved, but Wang Zhengjun orders Nine Bestowments ritual prepared after Zeng Han reports his words.
 - Visible privileges: [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] lists ritual objects, household privileges, officials, and guards granted to Wang Mang.
+- Late-Han threshold: [[zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh|Hanji 1128]] says Emperor Xian grants Cao Cao the Nine Bestowments after earlier special treatment and interprets the award as the highest ministerial honor before a possible dynastic step.
 
 ## Counterevidence & Qualifications
 
-This page records the Wang Mang case and does not yet compare other Nine Bestowments precedents. Hanji 623 supplies the early praise-and-discussion stage, while Hanji 624 supplies the later petition-and-award stage. The exact item list, formal wording, petition count, and Wang Mang's private intention remain source-scoped. The concept also should not imply that Nine Bestowments alone equal completed usurpation; later Hanji 628 and 633-634 sources show further steps.
+This page now compares Wang Mang and Cao Cao but still does not provide a complete history of Nine Bestowments precedents. Hanji 623 supplies Wang Mang's praise-and-discussion stage, Hanji 624 the petition-and-award stage, and Hanji 1128 a compressed Cao Cao threshold. Exact item lists, formal wording, dates, petition counts, private intention, and the claim about the first historical recipient remain source-scoped. Nine Bestowments do not by themselves equal completed usurpation: Wang Mang's later sequence requires further steps, and Cao Cao does not found the successor dynasty himself.
 
 ## What Changed
 
-- Added Hanji 623 as the missing early discussion stage where praise of Wang Mang's public works pushes the court toward Nine Bestowments.
-- Preserved Hanji 624 as the later formal award stage built from mass petitioning, staged humility, and Wang Zhengjun's endorsement.
+- Added Cao Cao as a second case, extending the concept beyond Wang Mang.
+- Clarified Nine Bestowments as a near-imperial threshold rather than completed dynastic transfer.
 
 ## Related Concepts
 
@@ -51,3 +56,4 @@ This page records the Wang Mang case and does not yet compare other Nine Bestowm
 - [[MingqiLegitimacy|名器合法性]] - related by named objects and ceremonial privileges carrying political authority.
 - [[AuspiciousOmenPolitics|祥瑞政治]] - neighboring legitimacy channel used in later Wang Mang elevation.
 - [[PostUsurpationLegitimacyConsolidation|篡位后合法性整合]] - downstream frame after Wang Mang's formal accession.
+- [[MingqiLegitimacy|名器合法性]] - broader principle by which recognized titles and ceremonial objects make exceptional authority publicly legible.

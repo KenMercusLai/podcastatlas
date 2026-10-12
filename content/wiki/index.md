@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？](sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh.md) — 国渊以文本知识缩小匿名信作者范围并比对笔迹，郑浑以防御、奖赏、交换与招降瓦解梁兴，吕蒙则以濡须坞为败退预设安全节点。
 - [Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅](sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974.md) — 蜉蝣天地对谈法国神父包智光，以物理与神学背景讨论信仰、自由、爱、良知、苦难及上帝的沉默。
 - [写一份《纪律.md》，代替我入市投资](sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf.md) — 面基把趋势交易写成可执行的纪律文件，并讨论低胜率肥尾收益、回测过拟合、规则型与因子型量化，以及注意力资产的产品设想。
 - [Saudi under siege: Houthis attack airport](sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc.md) — Economist Podcasts episode on Houthi attacks against Saudi airports and Vision 2030, uneven European industrial adaptation, and the qualified learning case for handwriting rather than cursive alone.
@@ -4679,6 +4680,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [国渊 / Guo Yuan (late-Han investigator)](entities/GuoYuanInvestigatorLateHan.md) — 以文意筛选与笔迹样本侦查匿名信、后获曹操升任的东汉末官员。
+- [郑浑 / Zheng Hun](entities/ZhengHunLateHan.md) — 以守城、奖励、交换、劝降与安置分化梁兴部众的左冯翊太守。
+- [梁兴 / Liang Xing](entities/LiangXingLateHan.md) — 渭南战后流窜左冯翊、遭郑浑分化并在夏侯渊援军下覆灭的关中武装首领。
+- [濡须坞 / Ruxu Fortress](entities/RuxuFortressLateHan.md) — 吕蒙为防败退时无法及时登船而建议孙权修筑的水陆衔接防御据点。
 - [包智光 / Bao Zhiguang](entities/BaoZhiguang.md) — French Catholic priest, former physicist, theologian, missionary, and Chinese Bible translation-team adviser discussing faith, love, freedom, and suffering.
 - [丁斐 / Ding Fei (Late Han)](entities/DingFeiLateHan.md) — 潼关战役渡河危机中放出牛马、转移追兵注意力的曹军人物。
 - [Jack Manning](entities/JackManning.md) — Researcher studying how people experience representation and reincarnation designs for AI generative ghosts.
@@ -18217,6 +18222,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [内容—笔迹归因 / Content-Handwriting Attribution](concepts/ContentHandwritingAttribution.md) — 先以文本知识线索缩小作者范围，再以另取书写样本进行佐证的调查序列。
+- [受胁群体退出设计 / Coercive Coalition Exit Design](concepts/CoerciveCoalitionExitDesign.md) — 通过安全存在、物质激励、交换、可信劝降与接纳机制让受胁成员脱离武装集团。
+- [防御性退路基础设施 / Defensive Fallback Infrastructure](concepts/DefensiveFallbackInfrastructure.md) — 在失利、追击或运输不可及时抵达时保存兵力与选择空间的预设防御节点。
 - [Lived Faith Discernment / 信仰作为生活中的信任与辨认](concepts/LivedFaithDiscernment.md) — Faith as testimony-mediated trust tested through doubt, community, revisable conscience, and the moral fruit of a life.
 - [Love as Free Self-Gift / 爱作为自由的自我给予](concepts/LoveAsFreeSelfGift.md) — Mature love as unforced care, time, presence, truth, or sacrifice amid mixed motives.
 - [Divine Silence and Suffering / 上帝的沉默与苦难](concepts/DivineSilenceAndSuffering.md) — Christian response to suffering and felt divine absence through witness, non-blame, and continuing love rather than complete explanation.

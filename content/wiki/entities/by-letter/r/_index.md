@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13466
+wiki_total_pages: 13470
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "RunanCommanderyLateHan"
     title: "汝南郡 / Runan Commandery (late Han)"
     url: "/wiki/entities/runancommanderylatehan/"
+  - key: "RuxuFortressLateHan"
+    title: "濡须坞 / Ruxu Fortress"
+    url: "/wiki/entities/ruxufortresslatehan/"
   - key: "RehuLuandun"
     title: "热乎乱炖"
     url: "/wiki/entities/rehuluandun/"

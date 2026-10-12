@@ -50127,6 +50127,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/coercivechristianization/"
     },
+    "CoerciveCoalitionExitDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/coercivecoalitionexitdesign/"
+    },
     "CoerciveCommodityExtraction": {
       "episode_count": 1,
       "show_count": 1,
@@ -55196,6 +55212,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/contentaestheticovermetrics/"
+    },
+    "ContentHandwritingAttribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/contenthandwritingattribution/"
     },
     "ContentSeedingMarketing": {
       "episode_count": 1,
@@ -65694,6 +65726,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/defensiveaigovernance/"
+    },
+    "DefensiveFallbackInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/defensivefallbackinfrastructure/"
     },
     "Dehong": {
       "episode_count": 1,
@@ -113027,6 +113075,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoyilatehan/"
     },
+    "GuoYuanInvestigatorLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/guoyuaninvestigatorlatehan/"
+    },
     "GuoYuanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -144863,9 +144927,9 @@
       "url": "/wiki/entities/jiulenanyue/"
     },
     "JiuXiRitualPromotion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
@@ -144880,9 +144944,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/jiuxiritualpromotion/"
     },
     "JizhouLateHan": {
@@ -158512,6 +158583,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/liangxiangwesternhan/"
+    },
+    "LiangXingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/liangxinglatehan/"
     },
     "LiangYiRelationshipEducator": {
       "episode_count": 1,
@@ -235116,6 +235203,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/rutgersuniversity/"
     },
+    "RuxuFortressLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/ruxufortresslatehan/"
+    },
     "RuziYing": {
       "episode_count": 4,
       "show_count": 1,
@@ -301087,9 +301190,9 @@
       "url": "/wiki/entities/zhanghewesternhan/"
     },
     "ZhangHengLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
@@ -301104,9 +301207,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/zhanghenglatehan/"
     },
     "ZhangHongLateHan": {
@@ -304965,6 +305075,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhenghongwesternhan/"
+    },
+    "ZhengHunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
+          "key": "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/zhenghunlatehan/"
     },
     "ZhengJiWesternHan": {
       "episode_count": 4,

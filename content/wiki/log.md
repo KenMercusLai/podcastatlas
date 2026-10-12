@@ -36676,3 +36676,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？
+
+Added source `zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh`; created [[GuoYuanInvestigatorLateHan|国渊]], [[ZhengHunLateHan|郑浑]], [[LiangXingLateHan|梁兴]], [[RuxuFortressLateHan|濡须坞]], [[ContentHandwritingAttribution|内容—笔迹归因]], [[CoerciveCoalitionExitDesign|受胁群体退出设计]], and [[DefensiveFallbackInfrastructure|防御性退路基础设施]]; and resynthesized [[ZhangHengLateHan|张衡]] and [[JiuXiRitualPromotion|九锡礼遇]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: anonymous writing can be investigated by using content to narrow a candidate field before handwriting comparison, though the episode does not establish modern forensic certainty; coerced coalitions can be weakened when visible defense, rewards, reciprocal release, credible persuasion, and administrative reception make exit possible; and fortification can preserve a force by planning for the losing branch before re-embarkation fails. The Nine Bestowments now include Cao Cao as a second near-imperial threshold case alongside Wang Mang without equating the rite itself with completed usurpation. No settled contradiction was adopted. Handwriting reliability, guilt, clan-execution totals, exact office and campaign chronology, captive agency, settlement durability, Moling legends, Ruxu engineering, dialogue, motives, and ceremonial details remain source-scoped. Broad Cao Cao, Sun Quan, Lyu Meng, Ma Chao, Emperor Xian, and Weinan profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,594 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

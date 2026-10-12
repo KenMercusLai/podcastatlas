@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10509
+wiki_total_pages: 10512
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1421,6 +1421,9 @@ wiki_pages:
   - key: "DiamondRomanceMarketingTrap"
     title: "钻戒浪漫营销陷阱 / Diamond Romance Marketing Trap"
     url: "/wiki/concepts/diamondromancemarketingtrap/"
+  - key: "DefensiveFallbackInfrastructure"
+    title: "防御性退路基础设施 / Defensive Fallback Infrastructure"
+    url: "/wiki/concepts/defensivefallbackinfrastructure/"
   - key: "DeadlineAmnestyRebellionFragmentation"
     title: "限期赦免式叛军分化 / Deadline Amnesty for Rebellion Fragmentation"
     url: "/wiki/concepts/deadlineamnestyrebellionfragmentation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10509
+wiki_total_pages: 10512
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3311,6 +3311,9 @@ wiki_pages:
   - key: "ClassicalAllusionPoliticalRiskReading"
     title: "典故化政治风险识读 / Classical Allusion Political Risk Reading"
     url: "/wiki/concepts/classicalallusionpoliticalriskreading/"
+  - key: "ContentHandwritingAttribution"
+    title: "内容—笔迹归因 / Content-Handwriting Attribution"
+    url: "/wiki/concepts/contenthandwritingattribution/"
   - key: "CommandCreditMisattribution"
     title: "军功归属错置 / Command Credit Misattribution"
     url: "/wiki/concepts/commandcreditmisattribution/"
@@ -3338,6 +3341,9 @@ wiki_pages:
   - key: "CountyIndustryCrisisUpgrade"
     title: "县域产业危机升级 / County-Industry Crisis Upgrade"
     url: "/wiki/concepts/countyindustrycrisisupgrade/"
+  - key: "CoerciveCoalitionExitDesign"
+    title: "受胁群体退出设计 / Coercive Coalition Exit Design"
+    url: "/wiki/concepts/coercivecoalitionexitdesign/"
   - key: "ChronicleBiographicalHistoryForms"
     title: "史书体例意识 / Chronicle and Biographical History Forms"
     url: "/wiki/concepts/chroniclebiographicalhistoryforms/"

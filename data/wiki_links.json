@@ -21059,6 +21059,10 @@
     "title": "Coercive Christianization",
     "url": "/wiki/concepts/coercivechristianization/"
   },
+  "CoerciveCoalitionExitDesign": {
+    "title": "受胁群体退出设计 / Coercive Coalition Exit Design",
+    "url": "/wiki/concepts/coercivecoalitionexitdesign/"
+  },
   "CoerciveCommodityExtraction": {
     "title": "Coercive Commodity Extraction",
     "url": "/wiki/concepts/coercivecommodityextraction/"
@@ -22470,6 +22474,10 @@
   "ContentEngineering": {
     "title": "Content Engineering",
     "url": "/wiki/concepts/contentengineering/"
+  },
+  "ContentHandwritingAttribution": {
+    "title": "内容—笔迹归因 / Content-Handwriting Attribution",
+    "url": "/wiki/concepts/contenthandwritingattribution/"
   },
   "ContentOverMotiveRemonstrance": {
     "title": "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏",
@@ -25786,6 +25794,10 @@
   "DefensiveDividendAssets": {
     "title": "Defensive Dividend Assets",
     "url": "/wiki/concepts/defensivedividendassets/"
+  },
+  "DefensiveFallbackInfrastructure": {
+    "title": "防御性退路基础设施 / Defensive Fallback Infrastructure",
+    "url": "/wiki/concepts/defensivefallbackinfrastructure/"
   },
   "DefensiveLocalGovernance": {
     "title": "保境安民式守成治理 / Defensive Local Governance",
@@ -39302,6 +39314,10 @@
   "GuoYoulin": {
     "title": "郭友霖 / Guo Youlin",
     "url": "/wiki/entities/guoyoulin/"
+  },
+  "GuoYuanInvestigatorLateHan": {
+    "title": "国渊 / Guo Yuan (late-Han investigator)",
+    "url": "/wiki/entities/guoyuaninvestigatorlatehan/"
   },
   "GuoYuanLateHan": {
     "title": "郭援 / 郭元 / Guo Yuan (Late Han)",
@@ -53038,6 +53054,10 @@
   "LiangXiangWesternHan": {
     "title": "梁相 / Liang Xiang (Western Han)",
     "url": "/wiki/entities/liangxiangwesternhan/"
+  },
+  "LiangXingLateHan": {
+    "title": "梁兴 / Liang Xing",
+    "url": "/wiki/entities/liangxinglatehan/"
   },
   "LiangYanLateHan": {
     "title": "梁衍 / Liang Yan (late Han)",
@@ -76663,6 +76683,10 @@
     "title": "Ruth Porat",
     "url": "/wiki/entities/ruthporat/"
   },
+  "RuxuFortressLateHan": {
+    "title": "濡须坞 / Ruxu Fortress",
+    "url": "/wiki/entities/ruxufortresslatehan/"
+  },
   "RuziYing": {
     "title": "孺子婴 / Ruzi Ying",
     "url": "/wiki/entities/ruziying/"
@@ -99543,6 +99567,10 @@
     "title": "郑弘 / Zheng Hong (Western Han)",
     "url": "/wiki/entities/zhenghongwesternhan/"
   },
+  "ZhengHunLateHan": {
+    "title": "郑浑 / Zheng Hun",
+    "url": "/wiki/entities/zhenghunlatehan/"
+  },
   "ZhengJiWesternHan": {
     "title": "郑吉 / Zheng Ji (Western Han)",
     "url": "/wiki/entities/zhengjiwesternhan/"
@@ -109026,6 +109054,10 @@
   "zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz": {
     "title": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz/"
+  },
+  "zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh": {
+    "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",
