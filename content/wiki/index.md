@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？](sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl.md) — 曹操以潼关正面施压掩护蒲阪津迂回，在受袭渡河、甬道推进和渭水筑垒中把隐蔽通路转化为可持续的战役优势。
 - [《资治通鉴·汉纪》1122丨曹操假意和谈，背后却把马超往死里坑？](sources/zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb.md) — 曹操以阵前叙旧、涂改书信和假意求和放大马超、韩遂联盟的猜疑，再把路线控制、休整与两翼突击合为渭南决胜序列。
 - [《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？](sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz.md) — 潼关战后以杜畿治河东、保民安与供军粮说明后方治理也是战功，并以法正、张松转向刘备开启益州权力转移的谋划。
 - [Talking with AI ghosts of loved ones](sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128.md) — Marketplace Tech interview with Jack Manning on generative-ghost design, relational authenticity, participant responses, and commercial safeguards.
@@ -4675,6 +4676,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [丁斐 / Ding Fei (Late Han)](entities/DingFeiLateHan.md) — 潼关战役渡河危机中放出牛马、转移追兵注意力的曹军人物。
 - [Jack Manning](entities/JackManning.md) — Researcher studying how people experience representation and reincarnation designs for AI generative ghosts.
 - [Alamo Drafthouse Cinema](entities/AlamoDrafthouseCinema.md) — Cinema-and-hospitality chain built around food, audience rules, distinctive programming, and locally rooted experience.
 - [Tim League](entities/TimLeague.md) — Alamo co-founder combining cinema programming and hands-on operations with acknowledged governance failures.
@@ -22846,7 +22848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Returning Army Interdiction Risk / 归师勿遏式追击风险](concepts/ReturningArmyInterdictionRisk.md) — Pursuit and rescue-army risk concept where blocking a returning force can create death-ground resolve unless route choice, commander position, and fallback behavior show weak commitment.
 - [Captured-Spoils Proof Demoralization / 战利品实证瓦解士气](concepts/SpoilsProofDemoralization.md) — Morale tactic where captured official and personal goods prove an expected commander or rescuer has fled or lost control.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
-- [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
+- [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — 以显性渡点、隐蔽通路、水流控制和后续通道保护误导守军并把过河机会转化为持续机动。
 - [Crossing Vulnerability Strike / 半渡击敌](concepts/CrossingVulnerabilityStrike.md) — Tactic of attacking an enemy during an incomplete river crossing, when formation, command continuity, and force concentration are temporarily broken.
 - [Power-Backed Grain Hoarding / 权力保护下的乱世囤粮](concepts/PowerBackedGrainHoarding.md) — Source-scoped pattern where grain foresight pays off only if stores and sellers are protected during violent scarcity.
 - [Wartime Agricultural Labor Collapse / 战争抽空农业劳动力](concepts/WartimeAgriculturalLaborCollapse.md) — Famine mechanism where mass warfare removes farmers from fields, leaving food output and prices to break down.

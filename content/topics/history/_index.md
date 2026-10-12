@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2751
+topic_total_pages: 2750
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1255,9 +1255,6 @@ topic_concepts:
   - key: "RitualizedCommandAppointment"
     title: "Ritualized Command Appointment / 仪式化拜将留才"
     url: "/wiki/concepts/ritualizedcommandappointment/"
-  - key: "RiverCrossingDeception"
-    title: "River Crossing Deception / 渡河欺敌"
-    url: "/wiki/concepts/rivercrossingdeception/"
   - key: "RoleAttachmentPowerExit"
     title: "Role Attachment and Power Exit / 权力角色依附与退场"
     url: "/wiki/concepts/roleattachmentpowerexit/"

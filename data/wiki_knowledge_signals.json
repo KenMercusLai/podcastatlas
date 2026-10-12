@@ -68974,6 +68974,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/dingdangxiakexing/"
     },
+    "DingFeiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？ [lvFxiTrMO0wq9hL1FmZZuAgsoBbl].md",
+          "key": "zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/dingfeilatehan/"
+    },
     "DingHongEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -231087,6 +231103,36 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/rivercorridorstrategicbase/"
     },
+    "RiverCrossingDeception": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的 [lhE_-LMb1zrziPBOnGg02gmNmB4l].md",
+          "key": "zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人” [ls5NvUnmhAKVefd2OXn4ZDyOoB4L].md",
+          "key": "zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？ [lvFxiTrMO0wq9hL1FmZZuAgsoBbl].md",
+          "key": "zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/rivercrossingdeception/"
+    },
     "RiverFleet": {
       "episode_count": 1,
       "show_count": 1,
@@ -284133,9 +284179,9 @@
       "url": "/wiki/entities/weimarrepublic/"
     },
     "WeinanBattleLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -284157,6 +284203,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1122丨曹操假意和谈，背后却把马超往死里坑？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？ [lvFxiTrMO0wq9hL1FmZZuAgsoBbl].md",
+          "key": "zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl/"
         }
       ],
       "updated": "2026-10-12",
@@ -292638,9 +292691,9 @@
       "url": "/wiki/entities/xiziranlatehan/"
     },
     "XuChu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
@@ -292655,9 +292708,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？ [lvFxiTrMO0wq9hL1FmZZuAgsoBbl].md",
+          "key": "zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/xuchu/"
     },
     "XuCunzi": {
