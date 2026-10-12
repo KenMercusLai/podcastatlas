@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点](sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos.md) — 这病说来话长 episode on preventive pet screening, veterinary diagnostic reasoning, insurance limits, budget-aware treatment, and end-of-life decisions.
 - [《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？](sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx.md) — 张松密信暴露并被刘璋处死，刘备由此与刘璋公开决裂；节目以人才失用、东州—益州裂缝和乱世择主解释刘璋集团的崩解。
 - [《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？](sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls.md) — 曹操以三项朝仪特权公开脱离普通臣列，曹丕在河间平叛后请示赦降，国渊则拒绝夸大境内战果并开启匿名信调查。
 - [《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？](sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh.md) — 国渊以文本知识缩小匿名信作者范围并比对笔迹，郑浑以防御、奖赏、交换与招降瓦解梁兴，吕蒙则以濡须坞为败退预设安全节点。
@@ -18225,6 +18226,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Veterinary Preventive Screening / 宠物预防性体检](concepts/VeterinaryPreventiveScreening.md) — Purpose-led screening of apparently well animals, bounded by risk, stress, interpretation, follow-up, and uncertain net benefit.
+- [Veterinary Diagnostic Reasoning / 兽医诊断推理](concepts/VeterinaryDiagnosticReasoning.md) — Multi-input diagnosis for nonverbal patients using examination, caregiver observation, species-specific tests, imaging, and time.
+- [Pet Insurance Coverage Boundary / 宠物保险保障边界](concepts/PetInsuranceCoverageBoundary.md) — Gap between expected protection and actual eligibility, exclusions, caps, verification, and renewal rules.
+- [Companion Animal End-of-Life Decision-Making / 伴侣动物终末期决策](concepts/CompanionAnimalEndOfLifeDecisionMaking.md) — Dynamic assessment of reversibility, benefit, suffering, function, comorbidity, cost, and caregiver goals.
 - [内容—笔迹归因 / Content-Handwriting Attribution](concepts/ContentHandwritingAttribution.md) — 先以文本知识线索缩小作者范围，再以另取书写样本进行佐证的调查序列。
 - [受胁群体退出设计 / Coercive Coalition Exit Design](concepts/CoerciveCoalitionExitDesign.md) — 通过安全存在、物质激励、交换、可信劝降与接纳机制让受胁成员脱离武装集团。
 - [防御性退路基础设施 / Defensive Fallback Infrastructure](concepts/DefensiveFallbackInfrastructure.md) — 在失利、追击或运输不可及时抵达时保存兵力与选择空间的预设防御节点。

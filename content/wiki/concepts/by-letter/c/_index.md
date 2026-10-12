@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10512
+wiki_total_pages: 10516
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "CommunityLedSaaSGrowth"
     title: "Community-Led SaaS Growth"
     url: "/wiki/concepts/communityledsaasgrowth/"
+  - key: "CompanionAnimalEndOfLifeDecisionMaking"
+    title: "Companion Animal End-of-Life Decision-Making / 伴侣动物终末期决策"
+    url: "/wiki/concepts/companionanimalendoflifedecisionmaking/"
   - key: "CompanionAnimalHealth"
     title: "Companion Animal Health"
     url: "/wiki/concepts/companionanimalhealth/"

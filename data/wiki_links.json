@@ -21747,6 +21747,10 @@
     "title": "Companion-Animal Attachment",
     "url": "/wiki/concepts/companionanimalattachment/"
   },
+  "CompanionAnimalEndOfLifeDecisionMaking": {
+    "title": "Companion Animal End-of-Life Decision-Making / 伴侣动物终末期决策",
+    "url": "/wiki/concepts/companionanimalendoflifedecisionmaking/"
+  },
   "CompanionAnimalHealth": {
     "title": "Companion Animal Health",
     "url": "/wiki/concepts/companionanimalhealth/"
@@ -67927,6 +67931,10 @@
     "title": "Pet-Inclusive Disaster Response",
     "url": "/wiki/concepts/petinclusivedisasterresponse/"
   },
+  "PetInsuranceCoverageBoundary": {
+    "title": "Pet Insurance Coverage Boundary / 宠物保险保障边界",
+    "url": "/wiki/concepts/petinsurancecoverageboundary/"
+  },
   "PetTravel": {
     "title": "Pet Travel",
     "url": "/wiki/concepts/pettravel/"
@@ -90599,6 +90607,10 @@
     "title": "Veteran Merit-Clique Supervision / 功臣旧将监督",
     "url": "/wiki/concepts/veteranmeritcliquesupervision/"
   },
+  "VeterinaryDiagnosticReasoning": {
+    "title": "Veterinary Diagnostic Reasoning / 兽医诊断推理",
+    "url": "/wiki/concepts/veterinarydiagnosticreasoning/"
+  },
   "VeterinaryMedicalMisinformation": {
     "title": "Veterinary Medical Misinformation / 兽医医疗错误信息",
     "url": "/wiki/concepts/veterinarymedicalmisinformation/"
@@ -90606,6 +90618,10 @@
   "VeterinaryOncology": {
     "title": "Veterinary Oncology / 兽医肿瘤学",
     "url": "/wiki/concepts/veterinaryoncology/"
+  },
+  "VeterinaryPreventiveScreening": {
+    "title": "Veterinary Preventive Screening / 宠物预防性体检",
+    "url": "/wiki/concepts/veterinarypreventivescreening/"
   },
   "ViaticalSettlement": {
     "title": "Viatical Settlement",
@@ -105002,6 +105018,10 @@
   "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho": {
     "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
     "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+  },
+  "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos": {
+    "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+    "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
   },
   "peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted": {
     "title": "Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal",

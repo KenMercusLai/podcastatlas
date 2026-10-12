@@ -52685,10 +52685,26 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/companionanimalattachment/"
     },
+    "CompanionAnimalEndOfLifeDecisionMaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkOx1zD9XVoFVGA-PKtxsTI47pOs [lkOx1zD9XVoFVGA-PKtxsTI47pOs].md",
+          "key": "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos",
+          "show": "这病说来话长",
+          "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+          "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/companionanimalendoflifedecisionmaking/"
+    },
     "CompanionAnimalHealth": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
@@ -52745,9 +52761,16 @@
           "show": "Huberman Lab",
           "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
           "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        },
+        {
+          "episode_file": "lkOx1zD9XVoFVGA-PKtxsTI47pOs [lkOx1zD9XVoFVGA-PKtxsTI47pOs].md",
+          "key": "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos",
+          "show": "这病说来话长",
+          "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+          "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/companionanimalhealth/"
     },
     "CompanionAnimalPublicSymbolism": {
@@ -208600,6 +208623,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/petgriefandcare/"
     },
+    "PetInsuranceCoverageBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkOx1zD9XVoFVGA-PKtxsTI47pOs [lkOx1zD9XVoFVGA-PKtxsTI47pOs].md",
+          "key": "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos",
+          "show": "这病说来话长",
+          "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+          "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/petinsurancecoverageboundary/"
+    },
     "PeteHegseth": {
       "episode_count": 3,
       "show_count": 2,
@@ -276901,6 +276940,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/vestibularlearningactivation/"
     },
+    "VeterinaryDiagnosticReasoning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkOx1zD9XVoFVGA-PKtxsTI47pOs [lkOx1zD9XVoFVGA-PKtxsTI47pOs].md",
+          "key": "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos",
+          "show": "这病说来话长",
+          "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+          "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/veterinarydiagnosticreasoning/"
+    },
     "VeterinaryMedicalMisinformation": {
       "episode_count": 1,
       "show_count": 1,
@@ -276918,9 +276973,9 @@
       "url": "/wiki/concepts/veterinarymedicalmisinformation/"
     },
     "VeterinaryOncology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
@@ -276928,10 +276983,33 @@
           "show": "这病说来话长",
           "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
           "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        },
+        {
+          "episode_file": "lkOx1zD9XVoFVGA-PKtxsTI47pOs [lkOx1zD9XVoFVGA-PKtxsTI47pOs].md",
+          "key": "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos",
+          "show": "这病说来话长",
+          "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+          "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/veterinaryoncology/"
+    },
+    "VeterinaryPreventiveScreening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkOx1zD9XVoFVGA-PKtxsTI47pOs [lkOx1zD9XVoFVGA-PKtxsTI47pOs].md",
+          "key": "pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos",
+          "show": "这病说来话长",
+          "title": "PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点",
+          "url": "/wiki/sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/veterinarypreventivescreening/"
     },
     "VibeCoding": {
       "episode_count": 21,

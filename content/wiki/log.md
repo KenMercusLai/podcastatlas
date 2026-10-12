@@ -36700,3 +36700,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点
+
+Added source `pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos`; created [[VeterinaryPreventiveScreening]], [[VeterinaryDiagnosticReasoning]], [[PetInsuranceCoverageBoundary]], and [[CompanionAnimalEndOfLifeDecisionMaking]]; and resynthesized [[VeterinaryOncology]] and [[CompanionAnimalHealth]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: useful veterinary care depends on test purpose, systematic examination, species-specific multi-input interpretation, candid financial and time constraints, and repeated quality-of-life judgment rather than on package size, one result, or maximum technical intensity. No settled contradiction was adopted. Incidental cancer cases do not establish a universal screening protocol, and insurance design, prices, legal status, equipment, clinical thresholds, and end-of-life decisions remain jurisdictional, institutional, case-specific, or source-scoped. The broad [[ZheBingShuoLaiHuaChang]] profile was kept closed because focused veterinary pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,597 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

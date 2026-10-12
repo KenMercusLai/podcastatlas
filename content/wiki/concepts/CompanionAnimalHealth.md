@@ -11,7 +11,8 @@ sources:
   - raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289
   - pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho
   - what-pets-actually-want-need-dr-karolina-westlund-scim2878719314
-last_updated: 2026-09-21
+  - pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ Companion animal health is the reciprocal physical, psychological, social, envir
 ## Current Synthesis
 Across the sources, companion animals are neither decorative pets nor purchasable comfort products. They can help people communicate, regulate fear, preserve routine, endure grief, and feel less isolated, yet the animal remains a living being with needs independent of the human benefit. Good care must therefore protect reciprocity without treating the animal as a therapist, symbol, or obedient extension of the owner.
 
-The care side now has three connected layers. The relational layer includes attachment, presence, responsibility, grief, and public systems that keep humans and animals together. The clinical layer includes hidden pain, qualified diagnosis, pathology, staging, treatment burden, misinformation risk, and quality-of-life judgment. The ethological layer added by Westlund asks whether daily life supports the animal's sensory world, species history, food seeking, social needs, choice in touch, secure attachment, and safe expression of motivated behavior.
+The care side now has four connected layers. The relational layer includes attachment, presence, responsibility, grief, and public systems that keep humans and animals together. The clinical layer includes hidden pain, physical examination, qualified diagnosis, screening, pathology, staging, treatment burden, misinformation risk, and quality-of-life judgment. The ethological layer asks whether daily life supports the animal's sensory world, species history, food seeking, social needs, choice in touch, secure attachment, and safe expression of motivated behavior. The decision layer makes money, time, insurance, caregiver goals, multimorbidity, comfort, and end-of-life limits discussable without treating the animal as either a purchasable object or a mandate for maximal intervention.
 
 This makes affection necessary but insufficient. An owner can love an animal while overlooking pain, treating restraint as cuddling, compressing foraging into a bowl, forcing introductions, misreading fear as submission, or using a universal rule for sterilization. Reciprocal health improves when observation, species-appropriate design, veterinary judgment, and human self-regulation work together.
 
@@ -31,9 +32,9 @@ This makes affection necessary but insufficient. An owner can love an animal whi
 - Companion health includes social and emotional safety, meaningful activity, and behavioral opportunity, not only absence of disease.
 - Animals can provide nonjudgmental presence, routine, courage, and emotional containment while remaining beings with their own welfare claims.
 - Attachment affects public safety when evacuation, shelter, domestic-violence response, therapy, or court support depends on protecting animals.
-- Ethical care becomes difficult around pain, treatment burden, euthanasia, release, captivity, separation, and reproductive decisions.
+- Ethical care becomes difficult around pain, screening, treatment burden, affordability, euthanasia, release, captivity, separation, and reproductive decisions.
 - Species, breed, development, sensory ecology, and individual history should shape housing, enrichment, touch, and training.
-- Qualified veterinary diagnosis and evidence boundaries matter because animals cannot narrate symptoms and caregivers are vulnerable to miracle claims.
+- Qualified veterinary diagnosis and evidence boundaries matter because animals cannot narrate symptoms, single tests are incomplete, and caregivers are vulnerable to miracle claims.
 - Human affection and interpretation require checks against projection, coercion, and treating the animal as a comfort product.
 
 ## Evidence
@@ -41,17 +42,17 @@ This makes affection necessary but insufficient. An owner can love an animal whi
 - Responsibility, illness, and loss - [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] follows companionship, painful treatment, euthanasia, burial, and memory, while the penguin source preserves release and same-species needs.
 - Cultural and consumer boundaries - [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] traces cats from pest control into household intimacy and cultural ambivalence, while [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] distinguishes living relationships from purchasable comfort.
 - Handler state and structure - [[raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289]] argues that dogs need movement, safety, structure, and trustworthy signals in addition to affection.
-- Clinical care and information quality - [[pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho]] adds hidden symptoms, veterinary diagnosis, cancer staging, treatment burden, feline stress-related urinary disease, and misinformation risk.
+- Clinical care and decision quality - [[pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho]] adds hidden symptoms, veterinary diagnosis, cancer staging, treatment burden, feline stress-related urinary disease, and misinformation risk; [[pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos]] adds preventive screening, systematic examination, insurance limits, budget disclosure, multimorbidity, non-beneficial rescue, and comfort-focused alternatives.
 - Ethological and choice-based care - [[what-pets-actually-want-need-dr-karolina-westlund-scim2878719314]] adds species history, breed-relevant enrichment, consent-based petting, secure attachment, gradual introductions, environmental organization, and individualized sterilization decisions.
 
 ## Counterevidence & Qualifications
-Animal companionship should not be romanticized as automatic healing or used to replace human support, professional care, public safety, or veterinary judgment. A wild animal's temporary companionship does not remove release, captivity, and same-species questions. Millan's energy and pack language remains source-scoped, while Westlund's cat-chattering, early-weaning, socialization, and hormone claims are tentative or context-dependent. The veterinary source is public education rather than clinical guidance, and the emotion-economy sources warn that comfort demand can produce dependency, substitution, or consumer projection.
+Animal companionship should not be romanticized as automatic healing or used to replace human support, professional care, public safety, or veterinary judgment. A wild animal's temporary companionship does not remove release, captivity, and same-species questions. Millan's energy and pack language remains source-scoped, while Westlund's cat-chattering, early-weaning, socialization, and hormone claims are tentative or context-dependent. The veterinary sources are public education rather than clinical, insurance, legal, or end-of-life guidance, and the emotion-economy sources warn that comfort demand can produce dependency, substitution, or consumer projection.
 
 ## What Changed
-- Added species history, sensory ecology, motivated behavior, and enrichment as a third care layer alongside relationship and medicine.
-- Added choice-based touch, attachment security, gradual introductions, and environmental organization.
-- Reframed sterilization as an individualized veterinary tradeoff rather than a universal behavioral rule.
-- Made the dominance-versus-fear interpretation boundary explicit in companion care.
+- Added a decision layer joining clinical evidence to budget, insurance, caregiver goals, comfort, and end-of-life limits.
+- Made systematic physical examination and multi-input diagnosis explicit within the clinical layer.
+- Distinguished preventive screening from symptom-led investigation without endorsing maximal testing.
+- Added dynamic multimorbidity and non-beneficial rescue to quality-of-life judgment.
 
 ## Related Concepts
 - [[SpeciesAppropriateAnimalCare]] - ethological layer for housing, feeding, enrichment, and social context.
@@ -67,3 +68,7 @@ Animal companionship should not be romanticized as automatic healing or used to 
 - [[VeterinaryOncology]] - clinical branch joining diagnosis, staging, treatment burden, and quality of life.
 - [[FelineStressRelatedUrinaryDisease]] - household-environment branch linking feline stress signals to veterinary escalation.
 - [[VeterinaryMedicalMisinformation]] - information-quality boundary where caregiver urgency can be exploited.
+- [[VeterinaryPreventiveScreening]] - preventive clinical branch for hidden disease, baselines, and test-selection limits.
+- [[VeterinaryDiagnosticReasoning]] - species-specific, examination-led integration of incomplete evidence.
+- [[PetInsuranceCoverageBoundary]] - financial-access branch around exclusions, caps, verification, and renewal.
+- [[CompanionAnimalEndOfLifeDecisionMaking]] - changing treatment, comfort, rescue, and euthanasia priorities.

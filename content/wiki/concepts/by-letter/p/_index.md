@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10512
+wiki_total_pages: 10516
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "PetGriefAndCare"
     title: "Pet Grief And Care"
     url: "/wiki/concepts/petgriefandcare/"
+  - key: "PetInsuranceCoverageBoundary"
+    title: "Pet Insurance Coverage Boundary / 宠物保险保障边界"
+    url: "/wiki/concepts/petinsurancecoverageboundary/"
   - key: "PetTravel"
     title: "Pet Travel"
     url: "/wiki/concepts/pettravel/"
