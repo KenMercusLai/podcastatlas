@@ -41087,9 +41087,9 @@
       "url": "/wiki/entities/chaozhou/"
     },
     "CharacterBasedRomanticCompatibility": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1811421687 [SCIM1811421687].md",
@@ -41111,9 +41111,16 @@
           "show": "纸醉金迷FM",
           "title": "051 亲密关系、原生家庭、子女之恶：从金庸《侠客行》说开去",
           "url": "/wiki/sources/lovpnvggvmrtfzpn9gvezhrg6xfo/"
+        },
+        {
+          "episode_file": "CMCoOSADBRDUBrkXrgBJEpIY [CMCoOSADBRDUBrkXrgBJEpIY].md",
+          "key": "ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy",
+          "show": "无时差研究所",
+          "title": "EP132-“领证三天前，我恐婚了！”",
+          "url": "/wiki/sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/characterbasedromanticcompatibility/"
     },
     "CharacterMediatedFortune": {
@@ -56815,6 +56822,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/couptostateterror/"
+    },
+    "CoupleLevelDecisionMaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSADBRDUBrkXrgBJEpIY [CMCoOSADBRDUBrkXrgBJEpIY].md",
+          "key": "ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy",
+          "show": "无时差研究所",
+          "title": "EP132-“领证三天前，我恐婚了！”",
+          "url": "/wiki/sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/coupleleveldecisionmaking/"
     },
     "CourtAllyProtectionNetwork": {
       "episode_count": 2,
@@ -89334,9 +89357,9 @@
       "url": "/wiki/concepts/familyhealthcarepersuasion/"
     },
     "FamilyLaborBoundaries": {
-      "episode_count": 5,
-      "show_count": 5,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
@@ -89372,9 +89395,16 @@
           "show": "The Social Radars",
           "title": "Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately",
           "url": "/wiki/sources/socialradarsseason1-tracyyoung-final-1/"
+        },
+        {
+          "episode_file": "CMCoOSADBRDUBrkXrgBJEpIY [CMCoOSADBRDUBrkXrgBJEpIY].md",
+          "key": "ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy",
+          "show": "无时差研究所",
+          "title": "EP132-“领证三天前，我恐婚了！”",
+          "url": "/wiki/sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy/"
         }
       ],
-      "updated": "2026-08-08",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/familylaborboundaries/"
     },
     "FamilyReadingEcology": {
@@ -215261,6 +215291,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/prehospitalemergencymedicalresponse/"
     },
+    "PremaritalAlignmentInquiry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSADBRDUBrkXrgBJEpIY [CMCoOSADBRDUBrkXrgBJEpIY].md",
+          "key": "ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy",
+          "show": "无时差研究所",
+          "title": "EP132-“领证三天前，我恐婚了！”",
+          "url": "/wiki/sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/premaritalalignmentinquiry/"
+    },
     "PremierLeague": {
       "episode_count": 5,
       "show_count": 4,
@@ -215918,9 +215964,9 @@
       "url": "/wiki/concepts/preventiveneuroimagingtradeoff/"
     },
     "PreventiveRelationshipMaintenance": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2050136218 [SCIM2050136218].md",
@@ -215935,9 +215981,16 @@
           "show": "Huberman Lab",
           "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
           "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        },
+        {
+          "episode_file": "CMCoOSADBRDUBrkXrgBJEpIY [CMCoOSADBRDUBrkXrgBJEpIY].md",
+          "key": "ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy",
+          "show": "无时差研究所",
+          "title": "EP132-“领证三天前，我恐婚了！”",
+          "url": "/wiki/sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/preventiverelationshipmaintenance/"
     },
     "PreventiveTombExcavationConservationRisk": {

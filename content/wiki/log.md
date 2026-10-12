@@ -36578,3 +36578,11 @@ Added source `ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP132-“领证三天前，我恐婚了！”
+
+Added source `ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy`; created [[PremaritalAlignmentInquiry|婚前共识核对]] and [[CoupleLevelDecisionMaking|伴侣共同决策]]; and resynthesized [[CharacterBasedRomanticCompatibility]], [[PreventiveRelationshipMaintenance]], and [[FamilyLaborBoundaries]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: marriage readiness can replace avoidable ambiguity with present evidence about daily conduct, children, work, location, family obligations, and responsibility, but cannot guarantee behavior in every future crisis; consequential choices should include both partners and shared-household costs without erasing either person's agency; and relationship maintenance and domestic fairness require visible contributions, explicit needs, revisable roles, and executable rules rather than mind-reading or assumed sacrifice. No settled contradiction was adopted. Cohabitation, family-background matching, occupation pairing, divorce, infidelity, gender, and household-risk claims remain participant, cultural, or source-scoped, and communication is not treated as a remedy for coercion or violence. Broad [[WushichaYanjiusuo|无时差研究所]] and multidimensional-marriage profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,581 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

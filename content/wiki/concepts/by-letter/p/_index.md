@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10490
+wiki_total_pages: 10492
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1787,6 +1787,9 @@ wiki_pages:
   - key: "PrehospitalEmergencyMedicalResponse"
     title: "Prehospital Emergency Medical Response / 院前急救响应"
     url: "/wiki/concepts/prehospitalemergencymedicalresponse/"
+  - key: "PremaritalAlignmentInquiry"
+    title: "Premarital Alignment Inquiry / 婚前共识核对"
+    url: "/wiki/concepts/premaritalalignmentinquiry/"
   - key: "PremarketFoodSafetyReview"
     title: "Premarket Food Safety Review"
     url: "/wiki/concepts/premarketfoodsafetyreview/"

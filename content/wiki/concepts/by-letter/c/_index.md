@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10490
+wiki_total_pages: 10492
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2621,6 +2621,9 @@ wiki_pages:
   - key: "CoupToStateTerror"
     title: "Coup-to-State-Terror Escalation"
     url: "/wiki/concepts/couptostateterror/"
+  - key: "CoupleLevelDecisionMaking"
+    title: "Couple-Level Decision-Making / 伴侣共同决策"
+    url: "/wiki/concepts/coupleleveldecisionmaking/"
   - key: "CouponLedTransactionGrowth"
     title: "Coupon-Led Transaction Growth"
     url: "/wiki/concepts/couponledtransactiongrowth/"

@@ -5,7 +5,8 @@ tags: [relationships, communication, prevention, intimacy]
 sources:
   - contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218
   - how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639
-last_updated: 2026-09-21
+  - ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,14 +20,16 @@ The Sexton episode treats relationships like systems that are easier to maintain
 
 Gottlieb adds an attention and interpretation layer. A bank of goodwill depends not only on positive acts occurring but on partners registering them rather than letting appreciation slide away while every disappointment sticks. Early relationships are still malleable, so naming a concern before its meaning hardens can prevent an avoidable pattern. Partner-specific operating instructions then translate generic love advice into concrete information about what helps, hurts, calms, or overwhelms each person.
 
+EP132 extends maintenance from scheduled conversation into ordinary shared-life design. A contribution should be named rather than silently banked; appreciation can be followed by clarification about what support is actually wanted; coldness or an uncomfortable boundary should be raised before resentment leaks out indirectly. Shared goals, travel, cooking, learning, physical affection, and intentional use of limited time are treated as ways to generate new common experience rather than assume intimacy will preserve itself.
+
 ## Key Claims
 - Early discussion is usually easier than repair after resentment or litigation hardens positions.
 - Expectations around sex, money, caregiving, fidelity, and change need revision over time.
 - Regular check-ins create a lower-stakes channel for truth and correction.
-- Small daily signs of attention can carry more maintenance value than occasional grand gestures.
+- Small daily signs of attention, appreciation, physical affection, and shared activity can carry more maintenance value than occasional grand gestures.
 - Relationship success should include whether the partnership improved each person's life, not duration alone.
 - Goodwill requires noticing ordinary positive deposits rather than tracking only negative withdrawals.
-- Early clarification and operating instructions reduce preventable conflict caused by mistaken interpretation.
+- Early clarification, explicit needs, and partner-specific operating instructions reduce preventable conflict caused by mind-reading or mistaken interpretation.
 
 ## Evidence
 - Maintenance analogy: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] compares keeping a good relationship strong with repairing one after breakdown.
@@ -35,12 +38,15 @@ Gottlieb adds an attention and interpretation layer. A bank of goodwill depends 
 - Everyday attention: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] uses notes, texts, food, and coffee stories to show how small acts communicate being seen.
 - Goodwill and appreciation: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] uses bank-of-goodwill and Teflon-pan metaphors to explain why positive acts must be registered.
 - Early-pattern and operating-instructions claim: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] compares early relationships to wet cement and asks partners to learn what helps, hurts, calms, or overwhelms each other.
+- Visible contribution and wanted support: [[ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy]] argues that partners should name what they do, express thanks, and clarify when a well-meant contribution is not the support they need.
+- Shared-life renewal: [[ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy]] recommends raising coldness early and creating shared goals, experiences, touch, cooking, or learning before parallel routines harden into distance.
 
 ## Counterevidence & Qualifications
-Maintenance practices cannot make coercive, violent, or chronically unsafe relationships healthy, and continued dialogue is not always preferable to support, boundaries, legal advice, or exit. The sources provide practitioner and clinician experience rather than controlled evidence for one goodwill ratio, schedule, or communication technique.
+Maintenance practices cannot make coercive, violent, or chronically unsafe relationships healthy, and continued dialogue is not always preferable to support, boundaries, legal advice, or exit. Naming contribution should not become scorekeeping, leverage, or a claim that the recipient must value unwanted help. The sources provide practitioner, clinician, and participant experience rather than controlled evidence for one goodwill ratio, schedule, activity, or communication technique.
 
 ## What Changed
 - Added goodwill attention, early-pattern malleability, and partner-specific operating instructions.
+- Added visible contribution, direct need clarification, early naming of distance, and shared-experience renewal.
 
 ## Related Concepts
 - [[RelationshipFeedbackLoop]] - communication mechanism operationalized through recurring check-ins.
@@ -50,3 +56,4 @@ Maintenance practices cannot make coercive, violent, or chronically unsafe relat
 - [[EmotionalHealthLongevity]] - broader frame treating relationship repair as part of long-term health.
 - [[RelationshipConflictRepair]] - response-and-return process when prevention does not avert a rupture.
 - [[EmotionalCoRegulationFit]] - partner-specific support match that operating instructions can clarify.
+- [[CoupleLevelDecisionMaking]] - extends maintenance into the process for consequential shared choices.
