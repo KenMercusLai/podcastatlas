@@ -36688,7 +36688,6 @@ Added source `zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-niming
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-10-13] ingest | 《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？
 
 Added source `zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls`; resynthesized [[CaoPi|曹丕]], [[ChangLinLateHan|常林]], [[GuoYuanInvestigatorLateHan|国渊]], [[ImperialRitualDistance|君臣礼制距离]], and [[SituationalStrictLenientGovernance|宽严相济的因时治理]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: exemptions from name, gait, sword, and footwear rules visibly lift Cao Cao above ordinary ministers without themselves completing dynastic transfer; proportional delegation keeps a politically valuable principal out of a low-value revolt; and an emergency no-pardon order should not be mechanically extended to controlled captives after conditions change, especially when irreversible punishment exceeds the subordinate's decision boundary. Guo Yuan's honest reporting of domestic disorder and literary-content clue form the prequel to Hanji 1128's investigation. No settled contradiction was adopted. The “usurpation three-piece set” label, universal psychological intent, exact rebel and captive figures, surrender-order wording, harvest gains, dialogue, offices, and chronology remain source-scoped. Broad Cao Cao and Emperor Xian profiles were kept closed because focused pages capture the durable additions without reopening their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,595 sources across 802 overview paragraphs and nine topics.
@@ -36696,7 +36695,6 @@ Added source `zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shen
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -36719,6 +36717,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-13] ingest | 《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？
 
 Added source `zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm`; created [[HuangQuanLateHan|黄权]] and [[WangLeiLateHan|王累]]; and resynthesized [[LiuZhang|刘璋]], [[FaZheng|法正]], [[ZhangSongLateHan|张松]], and [[EntrustedResourcePowerTransfer|受托资源反向转移]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: fear that Cao Cao could take Hanzhong lets Zhang Song present Liu Bei as the necessary defender, but Huang Quan identifies the resulting dual-power dilemma and Wang Lei also protests; Liu Zhang rejects both warnings and sends Fa Zheng to welcome Liu Bei, supplying the decision-stage prequel to Hanji 1125's transfer of troops, supplies, and command. No settled contradiction is adopted. Threat chronology, escort numbers, dialogue, private motives, internal-defection allegations, reassignment details, protest mechanics, and Sun Quan's motive remain source-scoped. Broad Liu Bei, Cao Cao, Yizhou, Hanzhong, and Zhang Lu profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,599 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-10-13] ingest | 史蒂夫说476期 - 石慧 - 我们人生最后的仪式，普遍草率仓促没尊严
+
+Added source `shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah`; created [[ShiHuiFuneralProfessional|石慧]], [[BaidurenBDR|摆渡人 BDR]], [[PersonalizedFuneralDesign|个性化送别设计]], [[FuneralRelationshipTransition|葬礼中的关系转换]], and [[DeathCareEmotionalLabor|死亡照护情感劳动]]; and resynthesized [[BereavementGriefWork|丧亲悲伤工作]], [[ChildDeathEducation|儿童死亡教育]], and [[SuicideRiskRecognitionAndSupport|轻生风险识别与支持]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a funeral can make the deceased recognizable, contain mixed emotion, reduce avoidable regret, and begin the conversion of physical presence into memory and continuing bond, but it cannot manufacture a good relationship or complete grief; sustained death-care empathy is an organizational capacity requiring specialization, boundaries, leave, and viable pricing. No settled contradiction is adopted. Staffing, turnover, prices, case outcomes, family proportions, regulation, and industry generalizations remain source-scoped; method-focused suicide conversations are personal testimony rather than a crisis protocol. Broad 史蒂夫说 and Steve profiles were kept closed because focused pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was updated during canonical ingest and was not rewritten by the downstream refresh. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,600 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-13] lint | Wiki health check
 

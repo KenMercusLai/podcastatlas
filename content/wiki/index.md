@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说476期 - 石慧 - 我们人生最后的仪式，普遍草率仓促没尊严](sources/shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah.md) — 石慧以摆渡人 BDR 的个性化送别实践讨论仪式、关系转换、哀伤支持、死亡教育、情感劳动与可持续收费。
 - [《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？](sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm.md) — 曹操逼近汉中引发刘璋恐惧，张松据此推动迎刘备入蜀；黄权、王累预警双重权力中心风险却未能改变决策。
 - [《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？](sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb.md) — 刘备接受入蜀目标却拒绝席间擒拿刘璋，并借受托兵力、物资与葭萌经营先积累实力、人心和公开动手的条件。
 - [PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点](sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos.md) — 这病说来话长 episode on preventive pet screening, veterinary diagnostic reasoning, insurance limits, budget-aware treatment, and end-of-life decisions.
@@ -4685,6 +4686,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [石慧 / Shi Hui (funeral professional)](entities/ShiHuiFuneralProfessional.md) — 摆渡人 BDR 创始人，以逝者生平、关系和哀伤需要组织个性化送别，并讨论行业情感劳动与职业尊严。
+- [摆渡人 BDR / Baiduren BDR](entities/BaidurenBDR.md) — 石慧创办的多人协作送别服务机构，在来源叙述中结合生命策划、礼仪、执行与葬后关怀。
 - [黄权 / Huang Quan (Late Han)](entities/HuangQuanLateHan.md) — 在刘备入蜀前指出其既难以降为普通部属、又会因厚待而成为第二权力中心的刘璋官员。
 - [王累 / Wang Lei (Late Han)](entities/WangLeiLateHan.md) — 以成都城门倒悬的高成本抗议反对刘璋迎刘备入蜀的广汉官员。
 - [严颜 / Yan Yan (Late Han)](entities/YanYanLateHan.md) — 以“放虎自卫”警告刘璋邀请刘备入益州将使防御者变成潜在取代者的巴郡官员。
@@ -18231,6 +18234,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Personalized Funeral Design / 个性化送别设计](concepts/PersonalizedFuneralDesign.md) — 从逝者生平、偏好、关系与告别功能出发选择传统形式和个性化细节的仪式设计。
+- [Funeral Relationship Transition / 葬礼中的关系转换](concepts/FuneralRelationshipTransition.md) — 以送别开启从身体共在到记忆、故事、物件和持续纪念的关系形式转换。
+- [Death-Care Emotional Labor / 死亡照护情感劳动](concepts/DeathCareEmotionalLabor.md) — 殡葬从业者在反复面对遗体、哀伤与家庭冲突时维持共情、准确和边界的组织性劳动。
 - [Reputation-Constrained Power Seizure / 声望约束下的夺权节奏](concepts/ReputationConstrainedPowerSeizure.md) — 夺权者因快速强制行动会损害未来治理所需的信任、招募和合法性而推迟动手的时机约束。
 - [Entrusted-Resource Power Transfer / 受托资源反向转移](concepts/EntrustedResourcePowerTransfer.md) — 防御委托中的兵力、物资、地域和指挥权反而帮助受邀盟友建立可取代委托者的独立实力。
 - [Veterinary Preventive Screening / 宠物预防性体检](concepts/VeterinaryPreventiveScreening.md) — Purpose-led screening of apparently well animals, bounded by risk, stress, interpretation, follow-up, and uncertain net benefit.

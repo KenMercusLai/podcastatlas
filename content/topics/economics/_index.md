@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2256
+topic_total_pages: 2257
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5726,6 +5726,9 @@ topic_entities:
   - key: "ShengshiInvestmentAcademy"
     title: "盛世投资研习院"
     url: "/wiki/entities/shengshiinvestmentacademy/"
+  - key: "ShiHuiFuneralProfessional"
+    title: "石慧 / Shi Hui (funeral professional)"
+    url: "/wiki/entities/shihuifuneralprofessional/"
   - key: "InamoriKazuo"
     title: "稻盛和夫 / Inamori Kazuo"
     url: "/wiki/entities/inamorikazuo/"

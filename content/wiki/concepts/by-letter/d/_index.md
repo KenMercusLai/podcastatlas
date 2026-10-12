@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10518
+wiki_total_pages: 10521
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "DeathBenefitPortfolio"
     title: "Death-Benefit Portfolio"
     url: "/wiki/concepts/deathbenefitportfolio/"
+  - key: "DeathCareEmotionalLabor"
+    title: "Death-Care Emotional Labor / 死亡照护情感劳动"
+    url: "/wiki/concepts/deathcareemotionallabor/"
   - key: "DeathFacingResponsibility"
     title: "Death-Facing Responsibility / 赴死式责任承担"
     url: "/wiki/concepts/deathfacingresponsibility/"

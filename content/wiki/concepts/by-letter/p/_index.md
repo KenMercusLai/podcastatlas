@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10518
+wiki_total_pages: 10521
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "PersonalizedFilmIndustrialization"
     title: "Personalized Film Industrialization / 个性化电影工业"
     url: "/wiki/concepts/personalizedfilmindustrialization/"
+  - key: "PersonalizedFuneralDesign"
+    title: "Personalized Funeral Design / 个性化送别设计"
+    url: "/wiki/concepts/personalizedfuneraldesign/"
   - key: "PersonalizedLegalGuidance"
     title: "Personalized Legal Guidance"
     url: "/wiki/concepts/personalizedlegalguidance/"

@@ -12399,6 +12399,10 @@
     "title": "百度有啊 / Baidu Youa",
     "url": "/wiki/entities/baiduyoua/"
   },
+  "BaidurenBDR": {
+    "title": "摆渡人 BDR / Baiduren BDR",
+    "url": "/wiki/entities/baidurenbdr/"
+  },
   "BaihuGuanConference": {
     "title": "白虎观会议 / Baihu Guan Conference",
     "url": "/wiki/entities/baihuguanconference/"
@@ -25507,6 +25511,10 @@
     "title": "Death-Benefit Portfolio",
     "url": "/wiki/concepts/deathbenefitportfolio/"
   },
+  "DeathCareEmotionalLabor": {
+    "title": "Death-Care Emotional Labor / 死亡照护情感劳动",
+    "url": "/wiki/concepts/deathcareemotionallabor/"
+  },
   "DeathDefyingRemonstrance": {
     "title": "赴死式直谏 / Death-Defying Remonstrance",
     "url": "/wiki/concepts/deathdefyingremonstrance/"
@@ -35826,6 +35834,10 @@
   "FundraisingScenarioModeling": {
     "title": "Fundraising Scenario Modeling",
     "url": "/wiki/concepts/fundraisingscenariomodeling/"
+  },
+  "FuneralRelationshipTransition": {
+    "title": "Funeral Relationship Transition / 葬礼中的关系转换",
+    "url": "/wiki/concepts/funeralrelationshiptransition/"
   },
   "FuneralRitualAccountability": {
     "title": "丧葬礼制责任 / Funeral Ritual Accountability",
@@ -67903,6 +67915,10 @@
     "title": "Personalized Film Industrialization / 个性化电影工业",
     "url": "/wiki/concepts/personalizedfilmindustrialization/"
   },
+  "PersonalizedFuneralDesign": {
+    "title": "Personalized Funeral Design / 个性化送别设计",
+    "url": "/wiki/concepts/personalizedfuneraldesign/"
+  },
   "PersonalizedLegalGuidance": {
     "title": "Personalized Legal Guidance",
     "url": "/wiki/concepts/personalizedlegalguidance/"
@@ -79642,6 +79658,10 @@
   "ShiHui": {
     "title": "士徽 / Shi Hui",
     "url": "/wiki/entities/shihui/"
+  },
+  "ShiHuiFuneralProfessional": {
+    "title": "石慧 / Shi Hui (funeral professional)",
+    "url": "/wiki/entities/shihuifuneralprofessional/"
   },
   "ShiJianWesternHan": {
     "title": "石建 / Shi Jian (Western Han)",
@@ -105566,6 +105586,10 @@
   "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4": {
     "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
     "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
+  },
+  "shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah": {
+    "title": "史蒂夫说476期 - 石慧 - 我们人生最后的仪式，普遍草率仓促没尊严",
+    "url": "/wiki/sources/shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah/"
   },
   "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql": {
     "title": "时代症候，与安定此心",

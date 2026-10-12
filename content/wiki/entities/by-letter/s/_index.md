@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13474
+wiki_total_pages: 13476
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2822,6 +2822,9 @@ wiki_pages:
   - key: "ShiDeWesternHan"
     title: "石德 / Shi De (Western Han)"
     url: "/wiki/entities/shidewesternhan/"
+  - key: "ShiHuiFuneralProfessional"
+    title: "石慧 / Shi Hui (funeral professional)"
+    url: "/wiki/entities/shihuifuneralprofessional/"
   - key: "ShiJingtang"
     title: "石敬瑭 / Shi Jingtang"
     url: "/wiki/entities/shijingtang/"
