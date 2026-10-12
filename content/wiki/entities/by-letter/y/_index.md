@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13471
+wiki_total_pages: 13472
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "YanFengNeurosurgeon"
     title: "严锋 / Yan Feng (Neurosurgeon)"
     url: "/wiki/entities/yanfengneurosurgeon/"
+  - key: "YanYanLateHan"
+    title: "严颜 / Yan Yan (Late Han)"
+    url: "/wiki/entities/yanyanlatehan/"
   - key: "YanFei"
     title: "严飞 / Yan Fei"
     url: "/wiki/entities/yanfei/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10516
+wiki_total_pages: 10518
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "ReputationListPersecutionTarget"
     title: "Reputation List as Persecution Target / 名望榜单迫害目标化"
     url: "/wiki/concepts/reputationlistpersecutiontarget/"
+  - key: "ReputationConstrainedPowerSeizure"
+    title: "Reputation-Constrained Power Seizure / 声望约束下的夺权节奏"
+    url: "/wiki/concepts/reputationconstrainedpowerseizure/"
   - key: "ReputationConstrainedTalentProtection"
     title: "Reputation-Constrained Talent Protection / 名声约束下的人才保护"
     url: "/wiki/concepts/reputationconstrainedtalentprotection/"

@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi
   - zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt
   - zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx
+  - zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-13
 ---
@@ -25,6 +26,8 @@ The inherited structure remains divided. [[ZhangLuFivePecks|张鲁]] breaks away
 
 Hanji 1109 adds the external consequence. Liu Zhang sends [[ZhangSongLateHan|张松]] to [[CaoCao|曹操]] after Cao's Jingzhou advance. When Zhang Song returns alienated and recommends breaking with Cao Cao in favor of [[LiuBei|刘备]], Liu Zhang accepts, showing how a weakly integrated province relies heavily on emissary judgment when stronger neighboring blocs are taking shape.
 
+Hanji 1125 shows how the revised alliance becomes an internal power transfer before open war. Liu Zhang welcomes Liu Bei, funds his entry, supplies additional soldiers and military goods, places Baishui forces under his command, and gives him a northern mission against Zhang Lu. [[YanYanLateHan|严颜]] warns that this amounts to inviting a tiger for protection. The arrangement is synthesized as [[EntrustedResourcePowerTransfer|受托资源反向转移]]: the ruler's attempt to secure the frontier increases an invited ally's independent force, access, and opportunity to cultivate local support.
+
 Hanji 1126 supplies the collapse. Liu Zhang discovers Zhang Song's covert letter and executes him, after which conflict with Liu Bei becomes open. The episode interprets the resulting defections through underused talent, weak decision and military capacity, and the unresolved Dongzhou-local split. It also preserves a counterweight to a purely incompetent portrait: when Liu Bei reaches Chengdu, Liu Zhang surrenders rather than prolong a defense that could devastate the population.
 
 ## Key Characteristics
@@ -32,7 +35,7 @@ Hanji 1126 supplies the collapse. Liu Zhang discovers Zhang Song's covert letter
 - Loses effective Hanzhong authority after the Zhang Lu rupture becomes familial and military.
 - Responds to strong insiders through suspicion while struggling to restrain coercive troops.
 - Can recognize loyal office behavior in individual cases without solving systemic fragmentation.
-- Allows Zhang Song's failed Cao mission to redirect Yizhou toward Liu Bei, then executes him when the covert transfer project is exposed and turns alliance failure into open war.
+- Allows Zhang Song's failed Cao mission to redirect Yizhou toward Liu Bei, then materially strengthens the invited ally before executing Zhang Song when the covert transfer project is exposed.
 - Loses insiders and military support as inherited factional division and underused talent become rival capacity.
 - Ends resistance at Chengdu in a surrender the episode frames as protection of the population as well as political defeat.
 
@@ -41,12 +44,15 @@ Hanji 1126 supplies the collapse. Liu Zhang discovers Zhang Song's covert letter
 - Hanzhong and integration weakness: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] covers Zhang Lu's rupture, Pang Xi's recruitment, Dongzhou coercion, and Zhao Wei's rebellion; [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] supplies Gan Ning's exit.
 - Loyalty recognition: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] reports Cheng Ji's refusal of Pang Xi and Liu Zhang's later promotion of Cheng Ji.
 - Alliance pivot: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] has Liu Zhang send Zhang Song to Cao Cao and then accept Zhang Song's recommendation to approach Liu Bei.
+- Invited-force transfer: [[zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb|Hanji 1125]] describes the welcome, meeting, troop and supply grants, Baishui command, northern mission, and Yan Yan's warning.
 - Exposure and collapse: [[zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx|Hanji 1126]] connects Zhang Song's execution to open war, elite defections, Liu Bei's advance, and Liu Zhang's eventual surrender at Chengdu.
 
 ## Qualifications
-Liu Zhang's mildness is an acceptance condition, not a complete psychological explanation. Zhang Lu, Pang Xi, Zhao Wei, Dongzhou troops, local elites, Cheng Ji, Gan Ning, Zhang Song, and Fa Zheng occupy different positions in a fragmented order. Alliance reversal and defection are symptoms of that order, not proof that one offended emissary or one faction alone determined Yizhou's future. Hanji 1126's leader-failure diagnosis and its claims about individual motives, faction membership, military ability, and humanitarian surrender remain episode interpretations requiring broader corroboration.
+Liu Zhang's mildness is an acceptance condition, not a complete psychological explanation. Zhang Lu, Pang Xi, Zhao Wei, Dongzhou troops, local elites, Cheng Ji, Gan Ning, Zhang Song, and Fa Zheng occupy different positions in a fragmented order. Alliance reversal and defection are symptoms of that order, not proof that one offended emissary or one faction alone determined Yizhou's future. Hanji 1125's force totals, gifts, offices, delegation details, and private motives and Hanji 1126's leader-failure diagnosis, faction labels, and surrender motives remain episode interpretations requiring broader corroboration.
 
 ## What Changed
+- Added the invited-force stage in which Liu Zhang's troops, supplies, and delegated command strengthen Liu Bei inside Yizhou.
+- Added Yan Yan's protector-to-rival warning without treating the episode's precise logistics as independently verified.
 - Extended the profile from alliance pivot to Zhang Song's execution, open war, and surrender at Chengdu.
 - Added talent underuse and the late Dongzhou-local alignment pattern as qualified mechanisms of collapse.
 - Preserved Liu Zhang's reported concern for civilian costs as a qualification to the episode's weakness diagnosis.
@@ -63,5 +69,7 @@ Liu Zhang's mildness is an acceptance condition, not a complete psychological ex
 - [[CaoCao|曹操]] - stronger power first approached and then rejected.
 - [[LiuBei|刘备]] - alternative partner accepted on Zhang Song's advice.
 - [[FaZheng|法正]] - underused official whose later service to Liu Bei illustrates lost strategic capacity.
+- [[YanYanLateHan|严颜]] - official who warns against inviting Liu Bei as a defensive protector.
 - [[Chengdu|成都]] - final seat at which Liu Zhang gives up resistance.
 - [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] - concept explaining a major structural pressure.
+- [[EntrustedResourcePowerTransfer|受托资源反向转移]] - mechanism by which defensive delegation strengthens the invited ally.

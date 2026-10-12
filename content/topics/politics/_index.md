@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3317
+topic_total_pages: 3319
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1417,6 +1417,9 @@ topic_concepts:
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"
+  - key: "EntrustedResourcePowerTransfer"
+    title: "Entrusted-Resource Power Transfer / 受托资源反向转移"
+    url: "/wiki/concepts/entrustedresourcepowertransfer/"
   - key: "EnvironmentTieredAIGovernance"
     title: "Environment-Tiered AI Governance"
     url: "/wiki/concepts/environmenttieredaigovernance/"
@@ -3655,6 +3658,9 @@ topic_concepts:
   - key: "ReputationListPersecutionTarget"
     title: "Reputation List as Persecution Target / 名望榜单迫害目标化"
     url: "/wiki/concepts/reputationlistpersecutiontarget/"
+  - key: "ReputationConstrainedPowerSeizure"
+    title: "Reputation-Constrained Power Seizure / 声望约束下的夺权节奏"
+    url: "/wiki/concepts/reputationconstrainedpowerseizure/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"

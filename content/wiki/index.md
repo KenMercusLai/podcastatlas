@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？](sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb.md) — 刘备接受入蜀目标却拒绝席间擒拿刘璋，并借受托兵力、物资与葭萌经营先积累实力、人心和公开动手的条件。
 - [PET.2给毛孩子花几千块体检是不是智商税？避坑必看这3个痛点](sources/pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshui-bikeng-bi-kan-zhe-3-ge-tongdian-lkox1zd9xvofvga-pktxsti47pos.md) — 这病说来话长 episode on preventive pet screening, veterinary diagnostic reasoning, insurance limits, budget-aware treatment, and end-of-life decisions.
 - [《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？](sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx.md) — 张松密信暴露并被刘璋处死，刘备由此与刘璋公开决裂；节目以人才失用、东州—益州裂缝和乱世择主解释刘璋集团的崩解。
 - [《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？](sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls.md) — 曹操以三项朝仪特权公开脱离普通臣列，曹丕在河间平叛后请示赦降，国渊则拒绝夸大境内战果并开启匿名信调查。
@@ -4683,6 +4684,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [严颜 / Yan Yan (Late Han)](entities/YanYanLateHan.md) — 以“放虎自卫”警告刘璋邀请刘备入益州将使防御者变成潜在取代者的巴郡官员。
 - [张肃 / Zhang Su (Late Han)](entities/ZhangSuLateHan.md) — 因担忧受弟弟张松牵连而向刘璋告发密信、使秘密倒向刘备的计划暴露的益州人物。
 - [国渊 / Guo Yuan (late-Han investigator)](entities/GuoYuanInvestigatorLateHan.md) — 以文意筛选与笔迹样本侦查匿名信、后获曹操升任的东汉末官员。
 - [郑浑 / Zheng Hun](entities/ZhengHunLateHan.md) — 以守城、奖励、交换、劝降与安置分化梁兴部众的左冯翊太守。
@@ -7197,7 +7199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Hyman](entities/MarkHyman.md) — Physician and functional-medicine advocate using systems-level hypotheses, foundations-first care, and individualized measurement.
 - [曹冲 / Cao Chong (late Han)](entities/CaoChongLateHan.md) — 曹操宠爱的早慧幼子，其十三岁早夭既引发丧子之痛，也改变了曹氏诸子的潜在继承格局。
 - [邴原 / Bing Yuan (late Han)](entities/BingYuanLateHan.md) — 以礼法和操守一致性拒绝曹操冥婚请求，并促使曹操撤回这一悲痛驱动的例外安排。
-- [孙夫人 / Lady Sun (wife of Liu Bei)](entities/LadySunLiuBei.md) — Sun Quan's historically unnamed sister whose marriage to Liu Bei reinforces a necessary but mistrustful post-Red-Cliffs alliance.
+- [孙夫人 / Lady Sun (wife of Liu Bei)](entities/LadySunLiuBei.md) — 孙权之妹、刘备之妻，其联姻暂时强化孙刘联盟，后东归并试图带走刘禅而遭拦截。
 - [蒋干 / Jiang Gan (late Han)](entities/JiangGanLateHan.md) — Cao-side visitor whose failed approach to Zhou Yu verifies the limits of transactional persuasion.
 - [公安 / Gongan (late Han)](entities/GonganLateHan.md) — Liu Bei's limited post-Red-Cliffs riverside headquarters before the broader Jingzhou settlement.
 - [和洽 / He Qia (late Han)](entities/HeQiaLateHan.md) — 警告曹操节俭标准走向极端会奖励虚伪表演，并主张按差异化才能与岗位需要判断官员的汉末官员。
@@ -7383,11 +7385,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domino's Pizza Tracker](entities/DominosPizzaTracker.md) — Staged order-status product that made invisible pizza-production and delivery work legible to customers.
 - [Shuya Gong](entities/ShuyaGong.md) — Designer who uses the Pizza Tracker to explain reassurance, visible work, and manufactured digital waiting.
 - [习凿齿 / Xi Zaochi](entities/XiZaochi.md) — Eastern Jin historian whose critique frames Cao Cao's post-Red-Cliffs arrogance as an amplifier of strategic and personnel loss.
-- [张松 / Zhang Song (Late Han)](entities/ZhangSongLateHan.md) — Liu Zhang emissary whose cold reception by Cao Cao precedes Yizhou's pivot toward Liu Bei.
+- [张松 / Zhang Song (Late Han)](entities/ZhangSongLateHan.md) — 由外交受挫转向刘备、参与益州内部转移并主张席间擒刘璋，最终因密信暴露被杀的刘璋官员。
 - [袭肃 / Xi Su (Late Han)](entities/XiSuLateHan.md) — Surrendering commander allowed to retain his troops after Lyu Meng argues for trust-based incorporation.
 - [刘琦 / Liu Qi (Late Han)](entities/LiuQiLateHan.md) — Liu Biao heir whose Jingzhou-inspector title gives Liu Bei's southern expansion a legitimacy channel.
 - [赵云 / Zhao Yun](entities/ZhaoYun.md) — 在长坂坡救回刘禅、战后又受命治理桂阳的刘备部将。
-- [刘禅 / Liu Chan](entities/LiuChan.md) — 长坂坡溃败中由赵云救回的刘备幼子。
+- [刘禅 / Liu Chan](entities/LiuChan.md) — 先在长坂坡由赵云救回，后又在孙夫人东归时由张飞、赵云截回的刘备幼子。
 - [凌统 / Ling Tong](entities/LingTong.md) — 东吴将领，先参与突破沔口水障，后在甘宁血仇未解时仍承担掩护救援的留守任务。
 - [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Long-disused northern approach reopened for Cao Cao's concealed movement behind the Wuhuan front.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator representing independent inquiry, publicly legible evidence, and the priority of technical reality over public relations.
@@ -9603,7 +9605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [五溪蛮 / Wuxi Man](entities/WuxiMan.md) — Frontier people Liu Biao courts through Sha Moke after southern Jingzhou pressure grows.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — 既作为吕布、刘表的后世评论者出现，也通过十九世纪刊刻、湖南士人网络和选择性阐释获得更大影响的明清思想家。
-- [庞统 / Pang Tong](entities/PangTong.md) — 经庞德公、司马徽评价而获得声誉，又体现刘表未能整合荆州人才的谋士。
+- [庞统 / Pang Tong](entities/PangTong.md) — 经名士背书与再评价进入刘备核心，并主张以益州为基地、在涪县直接擒刘璋的谋士。
 - [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, Liu Bei's Runan branch, the camp-engineering standoff, the Wuchao logistics strike, and post-victory stabilization.
 - [龚都 / Gong Du (late Han)](entities/GongDuLateHan.md) — Runan rebel leader whom Liu Bei joins after leaving Yuan Shao during the Guandu prelude.
 - [蔡阳 / Cai Yang (late Han)](entities/CaiYangLateHan.md) — Cao-side commander sent against Liu Bei after the Gong Du connection and killed in the Runan branch.
@@ -10035,7 +10037,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Babington Plot](entities/BabingtonPlot.md) — 1586 conspiracy linking Elizabeth's assassination, Mary's release, Catholic rising, and foreign invasion.
 - [Act for the Queen's Safety](entities/ActForTheQueensSafety.md) — 1585 law used to try claimants implicated in plots against Elizabeth I.
 - [Spanish Armada](entities/SpanishArmada.md) — 1588 Spanish invasion attempt linked by the episode to escalation after Mary's execution.
-- [法正 / Fa Zheng](entities/FaZheng.md) — Shu-Han adviser framed by Hanji 976 as a Dingjun Mountain tactical planner and by Hanji 977 as a source-scoped case of law-like revenge.
+- [法正 / Fa Zheng](entities/FaZheng.md) — 从刘璋麾下失意官员转为主张刘备取益州，并在定军山展现战术判断、也保留公器私用争议的谋士。
 - [郭贡 / Guo Gong (Late Han)](entities/GuoGongLateHan.md) — Uncertain Yanzhou military actor whose several-tens-of-thousands force withdraws after Xun Yu calmly meets him outside Juancheng.
 - [靳允 / Jin Yun (Late Han)](entities/JinYunLateHan.md) — Fan County magistrate persuaded by Cheng Yu to hold for Cao Cao despite family hostage pressure from Lü Bu.
 - [范仪 / Fan Yi (Late Han)](entities/FanYiLateHan.md) — Lü Bu-side entrant killed by Jin Yun's ambush at Fan County during the Yanzhou crisis.
@@ -10067,7 +10069,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭大 / Guo Da (late Han)](entities/GuoDaLateHan.md) — Baibo leader named in Hanji 939's Yellow Turban remnant resurgence.
 - [刘延 / Liu Yan (Dong Commandery)](entities/LiuYanDongCommandery.md) — Dong Commandery administrator attacked by Yan Liang at White Horse and rescued by Cao Cao before Guandu.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
-- [刘璋 / Liu Zhang](entities/LiuZhang.md) — Yi Province successor whose inherited fragmentation now extends into Zhang Song's post-Cao alliance pivot toward Liu Bei.
+- [刘璋 / Liu Zhang](entities/LiuZhang.md) — 继承分裂益州秩序、又以兵力物资和前线指挥权强化受邀盟友刘备，最终在成都投降的州牧。
 - [益州 / Yizhou (Late Han)](entities/YizhouLateHan.md) — Late-Han province where Liu Yan's Dongzhou troops and local elites create an inherited cleavage for Liu Zhang.
 - [庞羲 / Pang Xi (late Han)](entities/PangXiLateHan.md) — Liu Yan associate and Ba-region defender whose private Cong recruitment, Baxi force, local ties, and Liu Xun marriage link make him useful and suspect under Liu Zhang.
 - [程畿 / Cheng Ji (late Han)](entities/ChengJiLateHan.md) — Yi Province official who refuses Pang Xi's self-protective mobilization and becomes the loyal-duty case in Hanji 1055.
@@ -18226,6 +18228,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Reputation-Constrained Power Seizure / 声望约束下的夺权节奏](concepts/ReputationConstrainedPowerSeizure.md) — 夺权者因快速强制行动会损害未来治理所需的信任、招募和合法性而推迟动手的时机约束。
+- [Entrusted-Resource Power Transfer / 受托资源反向转移](concepts/EntrustedResourcePowerTransfer.md) — 防御委托中的兵力、物资、地域和指挥权反而帮助受邀盟友建立可取代委托者的独立实力。
 - [Veterinary Preventive Screening / 宠物预防性体检](concepts/VeterinaryPreventiveScreening.md) — Purpose-led screening of apparently well animals, bounded by risk, stress, interpretation, follow-up, and uncertain net benefit.
 - [Veterinary Diagnostic Reasoning / 兽医诊断推理](concepts/VeterinaryDiagnosticReasoning.md) — Multi-input diagnosis for nonverbal patients using examination, caregiver observation, species-specific tests, imaging, and time.
 - [Pet Insurance Coverage Boundary / 宠物保险保障边界](concepts/PetInsuranceCoverageBoundary.md) — Gap between expected protection and actual eligibility, exclusions, caps, verification, and renewal rules.

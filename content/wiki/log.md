@@ -36708,3 +36708,11 @@ Added source `pet-2-gei-mao-haizi-hua-ji-qian-kuai-tijian-shi-bu-shi-zhishangshu
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？
+
+Added source `zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb`; created [[YanYanLateHan|严颜]], [[ReputationConstrainedPowerSeizure|声望约束下的夺权节奏]], and [[EntrustedResourcePowerTransfer|受托资源反向转移]]; and resynthesized [[LiuZhang|刘璋]], [[FaZheng|法正]], [[ZhangSongLateHan|张松]], [[PangTong|庞统]], [[LadySunLiuBei|孙夫人]], and [[LiuChan|刘禅]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Bei accepts the Yizhou objective but rejects immediate capture because local trust, military risk, and the political value of a humane reputation constrain the method and timing; meanwhile Liu Zhang's troops, supplies, and delegated northern command let the invited ally accumulate practical power and local support before open rupture. No settled contradiction was adopted. Liu Bei's sincerity or image management, Lady Sun's intent, troop and gift totals, offices, meeting security, command transfers, dialogue, and precise chronology remain source-scoped. Broad [[LiuBei|刘备]], [[YizhouLateHan|益州]], Zhang Fei, Zhao Yun, Sun Quan, Zhuge Liang, and Guan Yu profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,598 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

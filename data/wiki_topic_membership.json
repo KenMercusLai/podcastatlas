@@ -34544,6 +34544,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EntrustedResourcePowerTransfer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EntryLevelAICareerLadderRisk": [
     {
       "key": "technology",
@@ -74948,6 +74955,13 @@
     }
   ],
   "RepublicanRestraintLeadership": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ReputationConstrainedPowerSeizure": [
     {
       "key": "politics",
       "label": "Politics",

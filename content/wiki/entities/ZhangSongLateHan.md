@@ -6,6 +6,7 @@ sources:
   - zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt
   - zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz
   - zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx
+  - zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-13
 ---
@@ -18,6 +19,8 @@ last_updated: 2026-10-13
 ## Current Profile
 Zhang Song's role begins in diplomacy but does not end there. Liu Zhang sends him to Cao Cao after Cao's occupation of Jingzhou; Cao reportedly receives him coldly and declines [[YangXiu|杨修]]'s proposal to recruit him. Zhang Song returns resentful, persuades Liu Zhang to sever the Cao relationship, and recommends alliance with Liu Bei. When Liu Zhang later asks for an envoy to Liu Bei, Zhang Song recommends Fa Zheng. After Fa Zheng returns favorable to Liu Bei, the two reportedly plan to receive Liu Bei into Yizhou as its future ruler.
 
+Hanji 1125 places Zhang Song inside the attempted execution of that plan. His internal position helps Fa Zheng argue that the province can be taken, and Zhang Song joins [[PangTong|庞统]] in urging Liu Bei to capture Liu Zhang during their meeting. Liu Bei rejects the immediate method and chooses a slower trust- and capacity-building sequence.
+
 [[zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx|Hanji 1126]] supplies the endpoint. After Zhang Song has reportedly passed Yizhou maps and force dispositions to Liu Bei, Liu Bei signals that he may leave for Jingzhou. Zhang Song writes urging him to stay; Zhang Song's elder brother [[ZhangSuLateHan|张肃]] obtains the letter and reports it to Liu Zhang, who executes Zhang Song. The exposed communication turns the covert project into an open rupture, but the episode's stronger claim that Liu Bei engineered the letter's exposure remains speculation.
 
 ## Key Characteristics
@@ -26,6 +29,7 @@ Zhang Song's role begins in diplomacy but does not end there. Liu Zhang sends hi
 - Helps make Yizhou's internal uncertainty consequential beyond the province.
 - Recognizes and sponsors Fa Zheng despite the latter's weak standing under Liu Zhang.
 - Joins Fa Zheng in converting an external alliance channel into a plan for Liu Bei's entry and rule.
+- Presses for immediate capture at the Liu Bei-Liu Zhang meeting before Liu Bei chooses a slower sequence.
 - Accepts the lethal risk of covertly supplying territorial and military information, then loses control of the communication channel that exposes him.
 
 ## Evidence
@@ -33,12 +37,14 @@ Zhang Song's role begins in diplomacy but does not end there. Liu Zhang sends hi
 - Missed recruitment: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] reports that Cao Cao does not accept Yang Xiu's recruitment suggestion.
 - Alliance reversal: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] has Zhang Song persuade Liu Zhang to break with Cao Cao and approach Liu Bei.
 - Fa Zheng channel: [[zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz|Hanji 1123]] says Zhang Song recommends Fa Zheng as envoy and then joins him in planning Liu Bei's entry into Yizhou.
+- Immediate-seizure proposal: [[zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb|Hanji 1125]] says Zhang Song and Pang Tong urge Liu Bei to seize Liu Zhang at their meeting.
 - Exposure and death: [[zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx|Hanji 1126]] says Zhang Song supplies maps and force information, writes to stop Liu Bei's departure, is reported by [[ZhangSuLateHan|Zhang Su]], and is executed by Liu Zhang.
 
 ## Qualifications
 The episodes compress the diplomatic sequence and strongly interpret private motive. Zhang Song's physical description, pride, resentment, judgment of Liu Zhang, exact conversations with Fa Zheng, premeditation before the embassy, maps and force information, and the letter's path are source-scoped. Cao Cao's reception does not alone explain Yizhou's later fate, and the current evidence does not establish that Zhang Song and Fa Zheng entered every stage with an identical plan. Hanji 1126 does not substantiate its claim that Liu Bei deliberately arranged Zhang Song's exposure or death.
 
 ## What Changed
+- Added Zhang Song's proposal to capture Liu Zhang during the meeting and Liu Bei's rejection of the timing.
 - Added the reported transfer of Yizhou maps and force dispositions to Liu Bei.
 - Added the exposed letter, Zhang Su's report, and Zhang Song's execution as the endpoint of the covert project.
 - Kept Liu Bei's alleged orchestration of the exposure as an unsupported source interpretation.

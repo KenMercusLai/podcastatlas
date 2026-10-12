@@ -30711,6 +30711,10 @@
     "title": "Entrepreneurship Infrastructure",
     "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
   },
+  "EntrustedResourcePowerTransfer": {
+    "title": "Entrusted-Resource Power Transfer / 受托资源反向转移",
+    "url": "/wiki/concepts/entrustedresourcepowertransfer/"
+  },
   "EntryCohortLaborMarketScarring": {
     "title": "Entry-Cohort Labor Market Scarring",
     "url": "/wiki/concepts/entrycohortlabormarketscarring/"
@@ -74419,6 +74423,10 @@
     "title": "Republican Restraint Leadership",
     "url": "/wiki/concepts/republicanrestraintleadership/"
   },
+  "ReputationConstrainedPowerSeizure": {
+    "title": "Reputation-Constrained Power Seizure / 声望约束下的夺权节奏",
+    "url": "/wiki/concepts/reputationconstrainedpowerseizure/"
+  },
   "ReputationConstrainedTalentProtection": {
     "title": "Reputation-Constrained Talent Protection / 名声约束下的人才保护",
     "url": "/wiki/concepts/reputationconstrainedtalentprotection/"
@@ -96327,6 +96335,10 @@
     "title": "严徐 / Yan Xu (Western Han)",
     "url": "/wiki/entities/yanxuwesternhan/"
   },
+  "YanYanLateHan": {
+    "title": "严颜 / Yan Yan (Late Han)",
+    "url": "/wiki/entities/yanyanlatehan/"
+  },
   "YanYannianWesternHan": {
     "title": "严延年 / Yan Yannian (Western Han)",
     "url": "/wiki/entities/yanyannianwesternhan/"
@@ -109078,6 +109090,10 @@
   "zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz": {
     "title": "《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz/"
+  },
+  "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb": {
+    "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
   },
   "zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx": {
     "title": "《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？",

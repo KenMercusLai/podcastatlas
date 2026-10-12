@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
+  - zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Hanji 1027 introduces Pang Tong as part of the younger Jingzhou talent field tha
 
 Hanji 1118 adds the transition from reputation to appointment. The episode says Pang Tong had worked around [[ZhouYuLateHan|周瑜]], was not retained after Zhou Yu's death, and then received only a county post from Liu Bei before being dismissed. [[LuSu|鲁肃]] and [[ZhugeLiang|诸葛亮]] separately recommend a deeper evaluation; after discussing wider affairs with Pang Tong, Liu Bei appoints him as `治中` and later `军师中郎将`. The source therefore shows endorsement correcting a poor initial placement rather than merely creating fame.
 
+Hanji 1125 supplies the first current source in which Pang Tong's advice directly shapes Liu Bei's territorial expansion. He argues that constrained Jingzhou cannot support the larger project, presents populous Yizhou as a necessary base, answers Liu Bei's stated concern for loyalty and benevolence with a disorder-era case for irregular action followed by compensation, and later supports capturing Liu Zhang at the Fu meeting. Liu Bei accepts the territorial objective but rejects the immediate seizure.
+
 ## Key Characteristics
 
 - Emerges from the Jingzhou scholar and talent network.
@@ -29,6 +32,7 @@ Hanji 1118 adds the transition from reputation to appointment. The episode says 
 - Illustrates how a region can contain talent socially without integrating it politically.
 - Is initially underused even after reputation has circulated, showing that recognition does not guarantee role fit.
 - Reaches a larger Liu Bei role only after trusted recommendations trigger substantive reassessment.
+- Converts that role into territorial advice by advocating a Yizhou base while pressing a faster seizure method than Liu Bei accepts.
 
 ## Evidence
 
@@ -37,13 +41,15 @@ Hanji 1118 adds the transition from reputation to appointment. The episode says 
 - Capacity qualification: [[zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd|Hanji 1084]] invokes his later proposals to argue that elite praise had to be backed by knowledge and preparation.
 - Initially hidden capacity: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] says Pang Tong's plain presentation leaves him underestimated locally while Pang Degong and Sima Hui recognize unusual ability.
 - Reassessment and appointment: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] says recommendations from Lu Su and Zhuge Liang lead Liu Bei to interview Pang Tong more deeply and move him from a failed county placement into central advisory office.
+- Yizhou strategy and method: [[zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb|Hanji 1125]] has Pang Tong argue for Yizhou as a base, qualify ordinary moral restraint in disorder, and support immediate capture of Liu Zhang.
 
 ## Qualifications
 
-The sources still provide a selective rather than complete career. Kinship details, evaluator wording, the exact “南州士之冠冕” exchange, his role under Zhou Yu, Sun Quan's alleged appearance-based rejection, deliberate neglect of county duty, exact offices, and the later “three plans” remain source-scoped pending narrower evidence. Hanji 1083's “近日不错” explanation is textually unstable and is not treated as a verified idiom claim.
+The sources still provide a selective rather than complete career. Kinship details, evaluator wording, the exact “南州士之冠冕” exchange, his role under Zhou Yu, Sun Quan's alleged appearance-based rejection, deliberate neglect of county duty, exact offices, and the later “three plans” remain source-scoped pending narrower evidence. Hanji 1125's dialogue, moral reasoning, capture proposal, and claim of an easy bloodless seizure also require direct textual corroboration. Hanji 1083's “近日不错” explanation is textually unstable and is not treated as a verified idiom claim.
 
 ## What Changed
 
+- Added Pang Tong's Yizhou-base argument, moral qualification, and rejected immediate-capture proposal.
 - Extended the profile from early appraisal into initial underuse and Liu Bei's later reassessment.
 - Added Lu Su and Zhuge Liang as recommendations that convert reputation into a more suitable office.
 - Distinguished being known as talented from being evaluated deeply enough for role fit.
@@ -55,6 +61,8 @@ The sources still provide a selective rather than complete career. Kinship detai
 - [[ZhugeLiang|诸葛亮]] - paired Jingzhou adviser in the episode's reputation frame.
 - [[LiuBiao|刘表]] - ruler whose system preserves local talent but fails to retain or deploy it fully.
 - [[LiuBei|刘备]] - later patron used retrospectively to test whether reputation became usable strategy.
+- [[LiuZhang|刘璋]] - Yizhou ruler whom Pang Tong proposes capturing during the Fu meeting.
 - [[LuSu|鲁肃]] - external recommender who argues that a county post understates Pang Tong's ability.
 - [[EliteEndorsementReputationMaking|名士背书式造势]] - mechanism that makes latent capacity socially visible.
 - [[FenceSittingStrategicExposure|骑墙式战略暴露]] - regional strategic weakness connected to Jingzhou talent leakage.
+- [[ReputationConstrainedPowerSeizure|声望约束下的夺权节奏]] - framework explaining why Liu Bei rejects Pang Tong's fastest proposed method.

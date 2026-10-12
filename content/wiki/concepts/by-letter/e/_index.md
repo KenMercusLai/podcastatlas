@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10516
+wiki_total_pages: 10518
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "EntrepreneurshipInfrastructure"
     title: "Entrepreneurship Infrastructure"
     url: "/wiki/concepts/entrepreneurshipinfrastructure/"
+  - key: "EntrustedResourcePowerTransfer"
+    title: "Entrusted-Resource Power Transfer / 受托资源反向转移"
+    url: "/wiki/concepts/entrustedresourcepowertransfer/"
   - key: "EntryCohortLaborMarketScarring"
     title: "Entry-Cohort Labor Market Scarring"
     url: "/wiki/concepts/entrycohortlabormarketscarring/"

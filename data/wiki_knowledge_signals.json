@@ -84453,6 +84453,22 @@
       "updated": "2026-08-08",
       "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
     },
+    "EntrustedResourcePowerTransfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/entrustedresourcepowertransfer/"
+    },
     "EntryLevelAICareerLadderRisk": {
       "episode_count": 8,
       "show_count": 4,
@@ -88831,9 +88847,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FaZheng": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -88862,6 +88878,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
         }
       ],
       "updated": "2026-10-13",
@@ -153029,9 +153052,9 @@
       "url": "/wiki/entities/ladymelbourne/"
     },
     "LadySunLiuBei": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
@@ -153039,6 +153062,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
         }
       ],
       "updated": "2026-09-21",
@@ -161152,9 +161182,9 @@
       "url": "/wiki/entities/liucangdongpingking/"
     },
     "LiuChan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
@@ -161162,6 +161192,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
         }
       ],
       "updated": "2026-09-20",
@@ -165413,9 +165450,9 @@
       "url": "/wiki/entities/liuzeqiroyalwesternhan/"
     },
     "LiuZhang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -165458,6 +165495,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
         }
       ],
       "updated": "2026-10-13",
@@ -203966,9 +204010,9 @@
       "url": "/wiki/entities/pangmengeasternhan/"
     },
     "PangTong": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
@@ -203997,6 +204041,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
         }
       ],
       "updated": "2026-09-21",
@@ -228051,6 +228102,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/republicanrestraintleadership/"
+    },
+    "ReputationConstrainedPowerSeizure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/reputationconstrainedpowerseizure/"
     },
     "ReputationConstrainedWarRestraint": {
       "episode_count": 5,
@@ -295418,6 +295485,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/yanxuwesternhan/"
     },
+    "YanYanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/yanyanlatehan/"
+    },
     "YanYannianWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -302259,9 +302342,9 @@
       "url": "/wiki/entities/zhangsiqi/"
     },
     "ZhangSongLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -302283,6 +302366,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？ [lsAaKh0scMfvOrjHHTjv5j4m0KcB].md",
+          "key": "zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
         }
       ],
       "updated": "2026-10-13",
