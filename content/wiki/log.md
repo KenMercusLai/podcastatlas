@@ -36515,3 +36515,11 @@ Added source `ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP142-时至今日你还看不起国产新能源车吗？
+
+Added source `ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq`; created [[YBAutomotiveGuest|YB]], [[EVIndustrialLeapfrogging|电动车产业跨越式追赶]], and [[SoftwareDefinedVehicle|软件定义汽车]]; and resynthesized [[EVChargingInfrastructure]], [[BatteryConsistencySafety]], and [[RangeExtendedEV|增程式电动车]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: electrification can reduce the relative weight of inherited engine and transmission advantages without making safe carmaking easy; durable catch-up still depends on batteries, electric drive, suppliers, manufacturing, infrastructure, software, product maturity, and consumer trust. Charging is an access-and-operations system spanning parking, grid load, fire rules, property approval, station economics, and route coverage; range extension is a contingent response to those gaps; battery safety spans process consistency, chemistry, pack design, cost, and range pressure; and software-led features remain subordinate to transport reliability, cybersecurity, and long vehicle life. No settled contradiction was adopted. Brand rankings, company quality, policy, market size, energy mix, the 700-kilometer threshold, high-nickel safety interpretation, and future autonomy or shared-car scenarios remain dated, practitioner, or source-scoped. Broad [[WushichaYanjiusuo|无时差研究所]], automaker, battery-chain, and swap-infrastructure profiles were kept closed because the focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,573 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

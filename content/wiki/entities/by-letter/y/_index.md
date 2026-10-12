@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13447
+wiki_total_pages: 13448
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "Yaxian"
     title: "Yaxian / 雅贤"
     url: "/wiki/entities/yaxian/"
+  - key: "YBAutomotiveGuest"
+    title: "YB (automotive guest)"
+    url: "/wiki/entities/ybautomotiveguest/"
   - key: "YeBowen"
     title: "Ye Bowen"
     url: "/wiki/entities/yebowen/"

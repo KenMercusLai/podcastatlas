@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10474
+wiki_total_pages: 10476
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1442,6 +1442,9 @@ wiki_pages:
   - key: "SoftwareDefinedShipbuilding"
     title: "Software-Defined Shipbuilding"
     url: "/wiki/concepts/softwaredefinedshipbuilding/"
+  - key: "SoftwareDefinedVehicle"
+    title: "Software-Defined Vehicle / 软件定义汽车"
+    url: "/wiki/concepts/softwaredefinedvehicle/"
   - key: "SolaFideGrace"
     title: "Sola Fide and Grace"
     url: "/wiki/concepts/solafidegrace/"

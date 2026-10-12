@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10474
+wiki_total_pages: 10476
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "EVChargingInfrastructure"
     title: "EV Charging Infrastructure"
     url: "/wiki/concepts/evcharginginfrastructure/"
+  - key: "EVIndustrialLeapfrogging"
+    title: "EV Industrial Leapfrogging / 电动车产业跨越式追赶"
+    url: "/wiki/concepts/evindustrialleapfrogging/"
   - key: "EVProductFailureRecovery"
     title: "EV Product Failure Recovery / 电动车产品失败后的恢复"
     url: "/wiki/concepts/evproductfailurerecovery/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3476
+topic_total_pages: 3477
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4237,6 +4237,9 @@ topic_concepts:
   - key: "SoftwareDefinedShipbuilding"
     title: "Software-Defined Shipbuilding"
     url: "/wiki/concepts/softwaredefinedshipbuilding/"
+  - key: "SoftwareDefinedVehicle"
+    title: "Software-Defined Vehicle / 软件定义汽车"
+    url: "/wiki/concepts/softwaredefinedvehicle/"
   - key: "SolidStateBatteryCommercialization"
     title: "Solid-State Battery Commercialization"
     url: "/wiki/concepts/solidstatebatterycommercialization/"

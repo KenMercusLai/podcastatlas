@@ -25600,6 +25600,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/batman/"
     },
+    "BatteryConsistencySafety": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E229｜从手工作坊到全球第一：中国动力电池逆袭史 [c457ca43-1305-44a3-b9cc-c68480802396].md",
+          "key": "e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi",
+          "show": "硅谷101",
+          "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",
+          "url": "/wiki/sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi/"
+        },
+        {
+          "episode_file": "CMCoOSIDYOeTCPz-ZABeIBQ- [CMCoOSIDYOeTCPz-ZABeIBQ-].md",
+          "key": "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq",
+          "show": "无时差研究所",
+          "title": "EP142-时至今日你还看不起国产新能源车吗？",
+          "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/batteryconsistencysafety/"
+    },
     "BatterySupplierDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -74757,6 +74780,45 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/etfholdinghorizonclassification/"
+    },
+    "EVChargingInfrastructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20251231_1231_MP_TECH_pod_128 [tech_20251231_1231_MP_TECH_pod_128].md",
+          "key": "tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A whiplash year for electric vehicles",
+          "url": "/wiki/sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "CMCoOSIDYOeTCPz-ZABeIBQ- [CMCoOSIDYOeTCPz-ZABeIBQ-].md",
+          "key": "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq",
+          "show": "无时差研究所",
+          "title": "EP142-时至今日你还看不起国产新能源车吗？",
+          "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/evcharginginfrastructure/"
+    },
+    "EVIndustrialLeapfrogging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSIDYOeTCPz-ZABeIBQ- [CMCoOSIDYOeTCPz-ZABeIBQ-].md",
+          "key": "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq",
+          "show": "无时差研究所",
+          "title": "EP142-时至今日你还看不起国产新能源车吗？",
+          "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/evindustrialleapfrogging/"
     },
     "EVProductFailureRecovery": {
       "episode_count": 1,
@@ -222309,9 +222371,9 @@
       "url": "/wiki/entities/ranavalonai/"
     },
     "RangeExtendedEV": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？ [1004213131].md",
@@ -222333,9 +222395,16 @@
           "show": "罗永浩的十字路口",
           "title": "李想×罗永浩！四小时马拉松访谈！李想首度公开讲述 25 年创业之路",
           "url": "/wiki/sources/lixiang-luoyonghao-sixiaoshi-malason-fangtan-lixiang-shoudu-gongkai-jiangshu-25-nian-chuangye-zhi-lu-lqzfpstn-stz-j4ysiqhokq6s228/"
+        },
+        {
+          "episode_file": "CMCoOSIDYOeTCPz-ZABeIBQ- [CMCoOSIDYOeTCPz-ZABeIBQ-].md",
+          "key": "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq",
+          "show": "无时差研究所",
+          "title": "EP142-时至今日你还看不起国产新能源车吗？",
+          "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/rangeextendedev/"
     },
     "RankSaleDisasterFinance": {
@@ -247978,6 +248047,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/softwareacquisitionoperatingplatform/"
+    },
+    "SoftwareDefinedVehicle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSIDYOeTCPz-ZABeIBQ- [CMCoOSIDYOeTCPz-ZABeIBQ-].md",
+          "key": "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq",
+          "show": "无时差研究所",
+          "title": "EP142-时至今日你还看不起国产新能源车吗？",
+          "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/softwaredefinedvehicle/"
     },
     "SoftwareEatingTheWorldThesis": {
       "episode_count": 1,
@@ -292740,6 +292825,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/xuzhu/"
+    },
+    "YBAutomotiveGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSIDYOeTCPz-ZABeIBQ- [CMCoOSIDYOeTCPz-ZABeIBQ-].md",
+          "key": "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq",
+          "show": "无时差研究所",
+          "title": "EP142-时至今日你还看不起国产新能源车吗？",
+          "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/ybautomotiveguest/"
     },
     "YTOExpress": {
       "episode_count": 1,

@@ -28599,6 +28599,10 @@
     "title": "EVE",
     "url": "/wiki/entities/eve/"
   },
+  "EVIndustrialLeapfrogging": {
+    "title": "EV Industrial Leapfrogging / 电动车产业跨越式追赶",
+    "url": "/wiki/concepts/evindustrialleapfrogging/"
+  },
   "EVO2": {
     "title": "EVO2",
     "url": "/wiki/entities/evo2/"
@@ -80983,6 +80987,10 @@
     "title": "Software-Defined Shipbuilding",
     "url": "/wiki/concepts/softwaredefinedshipbuilding/"
   },
+  "SoftwareDefinedVehicle": {
+    "title": "Software-Defined Vehicle / 软件定义汽车",
+    "url": "/wiki/concepts/softwaredefinedvehicle/"
+  },
   "SoftwareDeveloperHiringPullback": {
     "title": "Software Developer Hiring Pullback",
     "url": "/wiki/concepts/softwaredeveloperhiringpullback/"
@@ -95807,6 +95815,10 @@
     "title": "虚竹 / Xuzhu",
     "url": "/wiki/entities/xuzhu/"
   },
+  "YBAutomotiveGuest": {
+    "title": "YB (automotive guest)",
+    "url": "/wiki/entities/ybautomotiveguest/"
+  },
   "YCGrowthFlywheel": {
     "title": "YC Growth Flywheel",
     "url": "/wiki/concepts/ycgrowthflywheel/"
@@ -102162,6 +102174,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq": {
+    "title": "EP142-时至今日你还看不起国产新能源车吗？",
+    "url": "/wiki/sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq/"
   },
   "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr": {
     "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
