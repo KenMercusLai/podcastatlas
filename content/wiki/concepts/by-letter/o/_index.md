@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10521
+wiki_total_pages: 10522
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "OralHistoryMemoryAnalysis"
     title: "口述记忆分析 / Oral History Memory Analysis"
     url: "/wiki/concepts/oralhistorymemoryanalysis/"
+  - key: "ObjectMediatedPoliticalUltimatum"
+    title: "器物式政治最后通牒 / Object-Mediated Political Ultimatum"
+    url: "/wiki/concepts/objectmediatedpoliticalultimatum/"
   - key: "OuterRoundInnerSquareConduct"
     title: "外圆内方式处世 / Outer-Round Inner-Square Conduct"
     url: "/wiki/concepts/outerroundinnersquareconduct/"

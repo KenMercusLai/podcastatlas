@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3319
+topic_total_pages: 3320
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4783,6 +4783,9 @@ topic_concepts:
   - key: "BeneficialGovernanceDelivery"
     title: "善政实惠落地 / Beneficial Governance Delivery"
     url: "/wiki/concepts/beneficialgovernancedelivery/"
+  - key: "ObjectMediatedPoliticalUltimatum"
+    title: "器物式政治最后通牒 / Object-Mediated Political Ultimatum"
+    url: "/wiki/concepts/objectmediatedpoliticalultimatum/"
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"

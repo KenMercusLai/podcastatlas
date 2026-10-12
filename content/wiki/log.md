@@ -36728,3 +36728,10 @@ Added source `shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-ca
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？
+
+Added source `zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh`; created [[ObjectMediatedPoliticalUltimatum|器物式政治最后通牒]]; migrated and resynthesized [[XunYu|荀彧]] from his complete preserved evidence inventory before appending the new source once; and extended [[JiuXiRitualPromotion|九锡礼遇]] with the insider-coalition cost of Cao Cao's elevation. Core synthesis: Xun Yu's Han-restoration legitimacy program helped build Cao Cao's order but became a binding limit once Cao Cao approached near-sovereign status; the reported empty box illustrates how an ambiguous object can operate as coercion under asymmetric power. No settled contradiction is adopted. The box, Cao Cao's intent, Xun Yu's cause and motive of death, exact remonstrance, dialogue, chronology, and whether dynastic loyalty served public welfare remain disputed or source-scoped. Broad Cao Cao, Sima Guang, Han court, historical-complexity, and Rashomon profiles were kept closed because focused pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic; the max-age gate required global compaction, which completed with 4,601 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

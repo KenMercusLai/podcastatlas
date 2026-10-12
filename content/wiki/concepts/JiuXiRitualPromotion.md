@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd
   - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
   - zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh
+  - zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh
 last_updated: 2026-10-13
 ---
 
@@ -22,6 +23,8 @@ The episode treats the award as a political threshold. Wang Mang receives ritual
 
 Hanji 1128 adds a late-Han comparison through [[CaoCao|曹操]]. After earlier special privileges, [[EmperorXianOfHan|汉献帝]] grants Cao Cao the Nine Bestowments. The episode treats this as the upper ritual limit for a minister and as a visible pre-dynastic threshold, but it does not equate the award itself with completed usurpation. Together, the Wang Mang and Cao Cao cases make Nine Bestowments a reusable language for exceptional ministerial power rather than a one-person object list.
 
+Hanji 1130 adds the coalition cost of crossing that threshold. [[XunYu|荀彧]] opposes Cao Cao's proposed elevation by invoking the original Han-restoration commitment and ruler-minister distinction. The award therefore does more than advertise status outwardly: it can force insiders to decide whether earlier legitimacy language was a temporary instrument or a binding limit, turning ritual promotion into a test of continued political membership.
+
 ## Key Claims
 
 - Nine Bestowments turn ministerial reward into public ritual elevation.
@@ -30,7 +33,7 @@ Hanji 1128 adds a late-Han comparison through [[CaoCao|曹操]]. After earlier s
 - Object lists matter because clothing, weapons, vehicles, flags, credentials, and guards make status visible.
 - The award helps bridge ordinary ministerial authority and later acting-emperor or usurpation authority.
 - Praise and comparison are part of the setup: Wang Mang's elevation is made to look like recognition of visible public service rather than naked self-demand.
-- The Cao Cao case shows that the same ritual can mark a minister's near-imperial standing without itself completing a dynastic transfer.
+- The Cao Cao case shows that the same ritual can mark near-imperial standing without completing a dynastic transfer, while forcing advisers to choose between the leader's new status and the regime's founding legitimacy claim.
 
 ## Evidence
 
@@ -39,15 +42,16 @@ Hanji 1128 adds a late-Han comparison through [[CaoCao|曹操]]. After earlier s
 - Refusal-to-reward script: [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] says Wang Mang asks that petitions be shelved, but Wang Zhengjun orders Nine Bestowments ritual prepared after Zeng Han reports his words.
 - Visible privileges: [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] lists ritual objects, household privileges, officials, and guards granted to Wang Mang.
 - Late-Han threshold: [[zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh|Hanji 1128]] says Emperor Xian grants Cao Cao the Nine Bestowments after earlier special treatment and interprets the award as the highest ministerial honor before a possible dynastic step.
+- Insider rupture: [[zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh|Hanji 1130]] says Xun Yu opposes Cao Cao's elevation because it violates the Han-restoration and ministerial-restraint program he still treats as binding.
 
 ## Counterevidence & Qualifications
 
-This page now compares Wang Mang and Cao Cao but still does not provide a complete history of Nine Bestowments precedents. Hanji 623 supplies Wang Mang's praise-and-discussion stage, Hanji 624 the petition-and-award stage, and Hanji 1128 a compressed Cao Cao threshold. Exact item lists, formal wording, dates, petition counts, private intention, and the claim about the first historical recipient remain source-scoped. Nine Bestowments do not by themselves equal completed usurpation: Wang Mang's later sequence requires further steps, and Cao Cao does not found the successor dynasty himself.
+This page compares Wang Mang and Cao Cao but still does not provide a complete history of Nine Bestowments precedents. Hanji 623 supplies Wang Mang's praise-and-discussion stage, Hanji 624 the petition-and-award stage, Hanji 1128 a compressed Cao Cao threshold, and Hanji 1130 the opposition attributed to Xun Yu. Exact item lists, formal wording, dates, petition counts, private intention, Xun Yu's precise remonstrance, and the claim about the first historical recipient remain source-scoped. Nine Bestowments do not by themselves equal completed usurpation: Wang Mang's later sequence requires further steps, and Cao Cao does not found the successor dynasty himself.
 
 ## What Changed
 
-- Added Cao Cao as a second case, extending the concept beyond Wang Mang.
-- Clarified Nine Bestowments as a near-imperial threshold rather than completed dynastic transfer.
+- Added the insider-coalition consequence: the proposed elevation forces Xun Yu to test Cao Cao's new status against their earlier Han-restoration program.
+- Preserved the distinction between a near-imperial threshold and completed dynastic transfer.
 
 ## Related Concepts
 
@@ -57,3 +61,4 @@ This page now compares Wang Mang and Cao Cao but still does not provide a comple
 - [[AuspiciousOmenPolitics|祥瑞政治]] - neighboring legitimacy channel used in later Wang Mang elevation.
 - [[PostUsurpationLegitimacyConsolidation|篡位后合法性整合]] - downstream frame after Wang Mang's formal accession.
 - [[MingqiLegitimacy|名器合法性]] - broader principle by which recognized titles and ceremonial objects make exceptional authority publicly legible.
+- [[ObjectMediatedPoliticalUltimatum|器物式政治最后通牒]] - reported coercive aftermath of Xun Yu's opposition to Cao Cao's elevation.

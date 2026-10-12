@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？](sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh.md) — 荀彧以匡扶汉室与君臣名分反对曹操进位魏公、加九锡；节目把空食盒解读为含混的政治最后通牒，并保留其死亡、忠诚与史料立场之争。
 - [史蒂夫说476期 - 石慧 - 我们人生最后的仪式，普遍草率仓促没尊严](sources/shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah.md) — 石慧以摆渡人 BDR 的个性化送别实践讨论仪式、关系转换、哀伤支持、死亡教育、情感劳动与可持续收费。
 - [《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？](sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm.md) — 曹操逼近汉中引发刘璋恐惧，张松据此推动迎刘备入蜀；黄权、王累预警双重权力中心风险却未能改变决策。
 - [《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？](sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb.md) — 刘备接受入蜀目标却拒绝席间擒拿刘璋，并借受托兵力、物资与葭萌经营先积累实力、人心和公开动手的条件。
@@ -18234,6 +18235,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [器物式政治最后通牒 / Object-Mediated Political Ultimatum](concepts/ObjectMediatedPoliticalUltimatum.md) — 通过器物、关系语境与权力不对称传达撤回俸禄、职位、保护或生存许可的含混强制信号。
 - [Personalized Funeral Design / 个性化送别设计](concepts/PersonalizedFuneralDesign.md) — 从逝者生平、偏好、关系与告别功能出发选择传统形式和个性化细节的仪式设计。
 - [Funeral Relationship Transition / 葬礼中的关系转换](concepts/FuneralRelationshipTransition.md) — 以送别开启从身体共在到记忆、故事、物件和持续纪念的关系形式转换。
 - [Death-Care Emotional Labor / 死亡照护情感劳动](concepts/DeathCareEmotionalLabor.md) — 殡葬从业者在反复面对遗体、哀伤与家庭冲突时维持共情、准确和边界的组织性劳动。

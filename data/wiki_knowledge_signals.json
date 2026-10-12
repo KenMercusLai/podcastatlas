@@ -145139,9 +145139,9 @@
       "url": "/wiki/entities/jiulenanyue/"
     },
     "JiuXiRitualPromotion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
@@ -145163,6 +145163,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？ [li10bXmMFJP0z2u8T17x2lekWyFh].md",
+          "key": "zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh/"
         }
       ],
       "updated": "2026-10-13",
@@ -197309,6 +197316,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/oberost/"
+    },
+    "ObjectMediatedPoliticalUltimatum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？ [li10bXmMFJP0z2u8T17x2lekWyFh].md",
+          "key": "zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/objectmediatedpoliticalultimatum/"
     },
     "ObliqueRemonstranceSelfProtection": {
       "episode_count": 2,
@@ -294923,6 +294946,99 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/xunyou/"
+    },
+    "XunYu": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
+          "key": "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
+          "key": "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？ [lhgD8vSvUAf5oi9aEfh0wxABmzwV].md",
+          "key": "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决 [loFQ0pQ8N9rRFVFtTUNAHiSY0AvE].md",
+          "key": "zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢 [llyA3C2-pEfUjWXdXEfvQXWjIZJo].md",
+          "key": "zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？ [lv_HyVPRG73k8W8JsPXJosqWMc69].md",
+          "key": "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？ [li10bXmMFJP0z2u8T17x2lekWyFh].md",
+          "key": "zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/xunyu/"
     },
     "XunYue": {
       "episode_count": 6,
