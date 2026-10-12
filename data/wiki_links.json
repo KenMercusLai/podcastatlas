@@ -8159,6 +8159,22 @@
     "title": "Airport As Urban Microcosm / 机场作为城市小世界",
     "url": "/wiki/concepts/airportasurbanmicrocosm/"
   },
+  "AirportNonAeronauticalRevenue": {
+    "title": "Airport Non-Aeronautical Revenue / 机场非航空收入",
+    "url": "/wiki/concepts/airportnonaeronauticalrevenue/"
+  },
+  "AirportOperationalCoordination": {
+    "title": "Airport Operational Coordination / 机场运营协同",
+    "url": "/wiki/concepts/airportoperationalcoordination/"
+  },
+  "AirportOperatorInternationalization": {
+    "title": "Airport Operator Internationalization / 机场运营商国际化",
+    "url": "/wiki/concepts/airportoperatorinternationalization/"
+  },
+  "AirportPPPConcession": {
+    "title": "Airport PPP Concession / 机场PPP特许经营",
+    "url": "/wiki/concepts/airportpppconcession/"
+  },
   "AirportRouteSubsidyUrbanBranding": {
     "title": "Airport Route Subsidy Urban Branding / 航线补贴与城市国际化",
     "url": "/wiki/concepts/airportroutesubsidyurbanbranding/"
@@ -17854,6 +17870,10 @@
   "ChangguangCommanderyLateHan": {
     "title": "长广郡 / Changguang Commandery (late Han)",
     "url": "/wiki/entities/changguangcommanderylatehan/"
+  },
+  "ChangiAirportGroup": {
+    "title": "Changi Airport Group / 樟宜机场集团",
+    "url": "/wiki/entities/changiairportgroup/"
   },
   "ChangjiangBusinessSchool": {
     "title": "长江商学院 / Cheung Kong Graduate School of Business",
@@ -35027,6 +35047,10 @@
     "title": "Franz von Papen",
     "url": "/wiki/entities/franzvonpapen/"
   },
+  "Fraport": {
+    "title": "Fraport / 法兰克福机场集团",
+    "url": "/wiki/entities/fraport/"
+  },
   "FraserMcIlwraith": {
     "title": "Fraser McIlwraith",
     "url": "/wiki/entities/frasermcilwraith/"
@@ -44510,6 +44534,10 @@
   "IncheonInternationalAirport": {
     "title": "Incheon International Airport / 仁川国际机场",
     "url": "/wiki/entities/incheoninternationalairport/"
+  },
+  "IncheonInternationalAirportCorporation": {
+    "title": "Incheon International Airport Corporation / 仁川国际机场公社",
+    "url": "/wiki/entities/incheoninternationalairportcorporation/"
   },
   "IncidentalExposure": {
     "title": "Incidental Exposure / 偶然暴露",
@@ -103166,6 +103194,10 @@
   "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779": {
     "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
     "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+  },
+  "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963": {
+    "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+    "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
   },
   "gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc": {
     "title": "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正",

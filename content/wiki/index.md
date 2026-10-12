@@ -4657,6 +4657,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Mobility, Posture & Flexibility | Dr. Kelly Starrett](sources/how-to-improve-your-mobility-posture-flexibility-dr-kelly-starrett-scim3685343544.md) — Huberman Lab interview on daily movement exposure, position-based posture, bounded tissue work, pelvic-floor context, and repeatable fitness for life.
 
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
+- [高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？](sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963.md) — 声动早咖啡以仁川、樟宜和法兰克福案例解释机场PPP、运营能力出海、系统协同与非航空收入。
 
 ## Entities
 - [《花木兰》(2020) / Mulan (2020)](entities/Mulan2020Film.md) — 迪士尼真人改编案例，以天赋替代成长、转折铺垫不足与中国文化符号失去语境为主要争议。
@@ -18178,6 +18179,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [袁振侠 / Yuan Zhenxia](entities/YuanZhenxia.md) — 倪匡笔下的医生调查者，在《宝狐》中重构冷自泉与宝狐的关系并推断其非人生命形式。
 - [冷自泉 / Leng Ziquan](entities/LengZiquan.md) — 《宝狐》中的权贵青年，以放弃仕途、家族与肉身的选择测试痴情、身份反抗和操控阴影下的自主。
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
+- [Incheon International Airport Corporation / 仁川国际机场公社](entities/IncheonInternationalAirportCorporation.md) — 由海外咨询转向PPP投资、建设、维护和长期运营的成熟机场运营商。
+- [Changi Airport Group / 樟宜机场集团](entities/ChangiAirportGroup.md) — 将成熟枢纽经验从咨询延伸到海外机场投资、改造与运营的集团。
+- [Fraport / 法兰克福机场集团](entities/Fraport.md) — 以巴西、希腊和斯洛文尼亚机场组合分散本土客流波动的国际机场集团。
 
 ## Concepts
 - [Decontextualized Cultural Symbol Collage / 去语境化文化符号拼贴](concepts/DecontextualizedCulturalSymbolCollage.md) — 识别可见文化符号在脱离历史、地理、制度、语言与叙事关系后如何变成失真拼贴。
@@ -28738,5 +28742,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Romantic Autonomy Under Manipulation / 操控阴影下的爱情自主](concepts/RomanticAutonomyUnderManipulation.md) — Distinguishes costly unconventional choice from desire whose independence is uncertain under concealed influence, dependency, or control.
 - [Speculative Demystification Tradeoff / 科幻祛魅权衡](concepts/SpeculativeDemystificationTradeoff.md) — Explains how a speculative mechanism can add causal closure while reducing a supernatural mystery's ambiguity and cultural texture.
+- [Airport PPP Concession / 机场PPP特许经营](concepts/AirportPPPConcession.md) — 由公共与商业伙伴长期分担机场融资、建设、运营、收益和风险的基础设施安排。
+- [Airport Operator Internationalization / 机场运营商国际化](concepts/AirportOperatorInternationalization.md) — 将成熟枢纽管理经验转化为海外咨询、投资、开发、维护与长期运营资格的战略。
+- [Airport Operational Coordination / 机场运营协同](concepts/AirportOperationalCoordination.md) — 协同飞机、旅客、行李、中转、航线与商业空间以减少级联延误并提升枢纽效能。
+- [Airport Non-Aeronautical Revenue / 机场非航空收入](concepts/AirportNonAeronauticalRevenue.md) — 通过停车、餐饮、免税零售、租金与商业服务把客流转化为机场收入。
 
 ## Syntheses

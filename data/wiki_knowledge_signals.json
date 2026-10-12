@@ -10625,6 +10625,77 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/airportasurbanmicrocosm/"
     },
+    "AirportNonAeronauticalRevenue": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "128_default_tc [128_default_tc].md",
+          "key": "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast",
+          "show": "Tomorrow, Today",
+          "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",
+          "url": "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"
+        },
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/airportnonaeronauticalrevenue/"
+    },
+    "AirportOperationalCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/airportoperationalcoordination/"
+    },
+    "AirportOperatorInternationalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/airportoperatorinternationalization/"
+    },
+    "AirportPPPConcession": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/airportpppconcession/"
+    },
     "AirportRouteSubsidyUrbanBranding": {
       "episode_count": 1,
       "show_count": 1,
@@ -40705,6 +40776,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/changguangcommanderylatehan/"
+    },
+    "ChangiAirportGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/changiairportgroup/"
     },
     "ChangmenFu": {
       "episode_count": 1,
@@ -98247,6 +98334,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/franzvonpapen/"
     },
+    "Fraport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/fraport/"
+    },
     "FraserMcIlwraith": {
       "episode_count": 1,
       "show_count": 1,
@@ -132507,6 +132610,45 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/incentivecompatibleaisafety/"
+    },
+    "IncheonInternationalAirport": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
+          "key": "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543",
+          "show": "声动早咖啡",
+          "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+          "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
+        },
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/incheoninternationalairport/"
+    },
+    "IncheonInternationalAirportCorporation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？ [1023323963].md",
+          "key": "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
+          "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/incheoninternationalairportcorporation/"
     },
     "IncipientRiskExit": {
       "episode_count": 1,

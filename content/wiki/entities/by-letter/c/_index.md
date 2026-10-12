@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13450
+wiki_total_pages: 13453
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "ChangeHealthcare"
     title: "Change Healthcare"
     url: "/wiki/entities/changehealthcare/"
+  - key: "ChangiAirportGroup"
+    title: "Changi Airport Group / 樟宜机场集团"
+    url: "/wiki/entities/changiairportgroup/"
   - key: "ChanglingPorcelainStoneMine"
     title: "Changling Porcelain Stone Mine / 长岭瓷石矿遗址"
     url: "/wiki/entities/changlingporcelainstonemine/"

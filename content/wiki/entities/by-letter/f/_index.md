@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13450
+wiki_total_pages: 13453
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "FrancoisMitterrand"
     title: "François Mitterrand"
     url: "/wiki/entities/francoismitterrand/"
+  - key: "Fraport"
+    title: "Fraport / 法兰克福机场集团"
+    url: "/wiki/entities/fraport/"
   - key: "FraserMcIlwraith"
     title: "Fraser McIlwraith"
     url: "/wiki/entities/frasermcilwraith/"

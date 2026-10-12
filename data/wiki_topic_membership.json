@@ -13387,6 +13387,32 @@
       "url": "/topics/culture/"
     }
   ],
+  "AirportNonAeronauticalRevenue": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AirportOperatorInternationalization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AirportPPPConcession": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AirportRouteSubsidyUrbanBranding": [
     {
       "key": "politics",
@@ -22366,6 +22392,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ChangiAirportGroup": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ChangpengZhao": [
@@ -38719,6 +38752,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "Fraport": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "FraserMcIlwraith": [
     {
       "key": "politics",
@@ -47660,6 +47700,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "IncheonInternationalAirportCorporation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "IncidentalExposure": [
@@ -103225,6 +103272,13 @@
     }
   ],
   "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963": [
     {
       "key": "technology",
       "label": "Technology",

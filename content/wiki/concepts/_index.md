@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10477
+wiki_total_pages: 10481
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1802,6 +1802,18 @@ wiki_pages:
   - key: "AirportAsUrbanMicrocosm"
     title: "Airport As Urban Microcosm / 机场作为城市小世界"
     url: "/wiki/concepts/airportasurbanmicrocosm/"
+  - key: "AirportNonAeronauticalRevenue"
+    title: "Airport Non-Aeronautical Revenue / 机场非航空收入"
+    url: "/wiki/concepts/airportnonaeronauticalrevenue/"
+  - key: "AirportOperationalCoordination"
+    title: "Airport Operational Coordination / 机场运营协同"
+    url: "/wiki/concepts/airportoperationalcoordination/"
+  - key: "AirportOperatorInternationalization"
+    title: "Airport Operator Internationalization / 机场运营商国际化"
+    url: "/wiki/concepts/airportoperatorinternationalization/"
+  - key: "AirportPPPConcession"
+    title: "Airport PPP Concession / 机场PPP特许经营"
+    url: "/wiki/concepts/airportpppconcession/"
   - key: "AirportRouteSubsidyUrbanBranding"
     title: "Airport Route Subsidy Urban Branding / 航线补贴与城市国际化"
     url: "/wiki/concepts/airportroutesubsidyurbanbranding/"
