@@ -58580,6 +58580,29 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/crisisforcedverticalintegration/"
     },
+    "CrisisMigrationJudgment": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
+          "key": "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？ [lu5gYP3uGnWUY5UeCwKlD30lAPGH].md",
+          "key": "zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/crisismigrationjudgment/"
+    },
     "CrisisOptimismTransparencyTradeoff": {
       "episode_count": 2,
       "show_count": 1,
@@ -151161,6 +151184,50 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/knowledgeexternalizationtradeoff/"
+    },
+    "KnowledgeMonopoly": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！ [ljnhWcoUQu35RmvB-CNRZYzj2J6L].md",
+          "key": "zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l/"
+        },
+        {
+          "episode_file": "40.平面国：禁止染色⧸女人危险⧸向上不是向北！ [612835366].md",
+          "key": "40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366",
+          "show": "蜜獾吃书",
+          "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
+          "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
+        },
+        {
+          "episode_file": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释 [636490184].md",
+          "key": "53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184",
+          "show": "蜜獾吃书",
+          "title": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184/"
+        },
+        {
+          "episode_file": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释 [638214699].md",
+          "key": "54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699",
+          "show": "蜜獾吃书",
+          "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？ [lu5gYP3uGnWUY5UeCwKlD30lAPGH].md",
+          "key": "zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/knowledgemonopoly/"
     },
     "KnownMisconductNonPunishment": {
       "episode_count": 2,
@@ -294948,9 +295015,9 @@
       "url": "/wiki/entities/xunyou/"
     },
     "XunYu": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
@@ -295035,6 +295102,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？ [lu5gYP3uGnWUY5UeCwKlD30lAPGH].md",
+          "key": "zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh/"
         }
       ],
       "updated": "2026-10-13",

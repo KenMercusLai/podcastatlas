@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？](sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh.md) — 从颍川士族的藏书、教育与政治网络切入荀彧的迁徙、择主、迎奉汉献帝和官渡判断，并揭示其辅汉目标与曹操权力上升之间的潜在冲突。
 - [《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？](sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh.md) — 荀彧以匡扶汉室与君臣名分反对曹操进位魏公、加九锡；节目把空食盒解读为含混的政治最后通牒，并保留其死亡、忠诚与史料立场之争。
 - [史蒂夫说476期 - 石慧 - 我们人生最后的仪式，普遍草率仓促没尊严](sources/shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah.md) — 石慧以摆渡人 BDR 的个性化送别实践讨论仪式、关系转换、哀伤支持、死亡教育、情感劳动与可持续收费。
 - [《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？](sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm.md) — 曹操逼近汉中引发刘璋恐惧，张松据此推动迎刘备入蜀；黄权、王累预警双重权力中心风险却未能改变决策。

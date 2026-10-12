@@ -36735,3 +36735,10 @@ Added source `zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？
+
+Added source `zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh`; resynthesized [[XunYu|荀彧]], [[KnowledgeMonopoly]], and [[CrisisMigrationJudgment|危局迁徙判断]] from their complete preserved evidence inventories before appending the new source once; and migrated the two touched legacy concept pages to `synthesis-v1`. Core synthesis: Xun Yu's strategic capacity is presented as both individual judgment and the product of scarce lineage-held books, education, officeholding, and Yingchuan networks; he converts those advantages into early migration, leader selection, imperial-legitimacy strategy, and pre-Guandu resolve, while his Han-restoration goal contains the later conflict with Cao Cao's ascent. No settled contradiction is adopted. Private motives, family holdings, elite control over recommendation, compressed chronology, and the meaning of the food box remain interpretive, disputed, or source-scoped. Broad Cao Cao, Yuan Shao, Emperor Xian, Yingchuan, Guandu, and show profiles were kept closed because the focused pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,602 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the corpus-wide link scan still reports 44 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
