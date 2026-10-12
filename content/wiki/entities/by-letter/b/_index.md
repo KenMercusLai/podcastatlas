@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13465
+wiki_total_pages: 13466
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1451,6 +1451,9 @@ wiki_pages:
   - key: "BaoXiruo"
     title: "包惜弱 / Bao Xiruo"
     url: "/wiki/entities/baoxiruo/"
+  - key: "BaoZhiguang"
+    title: "包智光 / Bao Zhiguang"
+    url: "/wiki/entities/baozhiguang/"
   - key: "BeijingOrientalPlaza"
     title: "北京东方新天地 / Beijing Oriental Plaza"
     url: "/wiki/entities/beijingorientalplaza/"

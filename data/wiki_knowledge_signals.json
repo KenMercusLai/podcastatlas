@@ -25447,6 +25447,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/baoyueasternhan/"
     },
+    "BaoZhiguang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/baozhiguang/"
+    },
     "BaoerGynecologist": {
       "episode_count": 3,
       "show_count": 1,
@@ -70349,6 +70365,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/divineandciviclaw/"
     },
+    "DivineSilenceAndSuffering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/divinesilenceandsuffering/"
+    },
     "DivineSuccessionMyth": {
       "episode_count": 1,
       "show_count": 1,
@@ -99034,9 +99066,9 @@
       "url": "/wiki/concepts/freespeechcoalitionvpaxton/"
     },
     "FreeWill": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -99065,9 +99097,16 @@
           "show": "Huberman Lab",
           "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        },
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/freewill/"
     },
     "FreedomDutyAndSelfhood": {
@@ -101572,9 +101611,9 @@
       "url": "/wiki/entities/fuwaihospital/"
     },
     "FuyouTiandi": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -101617,9 +101656,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 21: 抗压、应变与终生动力：CZ 的人事和天命",
           "url": "/wiki/sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7/"
+        },
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/fuyoutiandi/"
     },
     "FuzhuleiRuodiChanyu": {
@@ -142206,9 +142252,9 @@
       "url": "/wiki/entities/jessicathompson/"
     },
     "Jesus": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -142237,9 +142283,16 @@
           "show": "怪东西Weird History",
           "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
           "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        },
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/jesus/"
     },
     "JetLagJetAgeEmbodiment": {
@@ -165598,6 +165651,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/livetheatrecopresence/"
     },
+    "LivedFaithDiscernment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/livedfaithdiscernment/"
+    },
     "LivelihoodFirstPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -168152,6 +168221,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/loveascontainingframe/"
+    },
+    "LoveAsFreeSelfGift": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅 [f48bcfd2-4449-4441-a892-26971c783974].md",
+          "key": "ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
+          "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/loveasfreeselfgift/"
     },
     "LoveCompassionIntegration": {
       "episode_count": 2,

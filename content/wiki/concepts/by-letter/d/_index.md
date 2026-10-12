@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10506
+wiki_total_pages: 10509
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "DivinePerspectiveAesthetics"
     title: "Divine Perspective Aesthetics"
     url: "/wiki/concepts/divineperspectiveaesthetics/"
+  - key: "DivineSilenceAndSuffering"
+    title: "Divine Silence and Suffering / 上帝的沉默与苦难"
+    url: "/wiki/concepts/divinesilenceandsuffering/"
   - key: "DivineSuccessionMyth"
     title: "Divine Succession Myth"
     url: "/wiki/concepts/divinesuccessionmyth/"
