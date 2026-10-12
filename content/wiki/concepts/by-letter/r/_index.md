@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10500
+wiki_total_pages: 10501
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1526,6 +1526,9 @@ wiki_pages:
   - key: "RespectabilityTax"
     title: "体面税 / Respectability Tax"
     url: "/wiki/concepts/respectabilitytax/"
+  - key: "RelationalSignalCoalitionFracture"
+    title: "关系信号式离间 / Relational-Signal Coalition Fracture"
+    url: "/wiki/concepts/relationalsignalcoalitionfracture/"
   - key: "RelationalDisrespectPowerRisk"
     title: "关系性轻慢风险 / Relational Disrespect Power Risk"
     url: "/wiki/concepts/relationaldisrespectpowerrisk/"

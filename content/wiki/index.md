@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1122丨曹操假意和谈，背后却把马超往死里坑？](sources/zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb.md) — 曹操以阵前叙旧、涂改书信和假意求和放大马超、韩遂联盟的猜疑，再把路线控制、休整与两翼突击合为渭南决胜序列。
 - [《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？](sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz.md) — 潼关战后以杜畿治河东、保民安与供军粮说明后方治理也是战功，并以法正、张松转向刘备开启益州权力转移的谋划。
 - [Talking with AI ghosts of loved ones](sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128.md) — Marketplace Tech interview with Jack Manning on generative-ghost design, relational authenticity, participant responses, and commercial safeguards.
 - [Alamo Drafthouse Cinema: Tim and Karrie League (2023)](sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.md) — How I Built This episode on cinema hospitality, protected audience attention, local community programming, franchise conflict, workplace failures, bankruptcy, and acquisition.
@@ -7353,8 +7354,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
 - [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 百姓追随造成的慢速南撤被曹军追上，刘备集团崩散后又经汉津会师、夏口重组通向孙刘联盟的208年战役。
-- [马超 / Ma Chao](entities/MaChao.md) — 马腾入朝后承接西部兵权，在曹军西进压力与家属暴露下先行起兵、随后于渭南败于曹操的关中联盟核心人物。
-- [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211年关中战役；现有证据将先手名分、家属牵制、联盟脆弱性和贾诩离间并列为政治与军事机制。
+- [马超 / Ma Chao](entities/MaChao.md) — 承接马腾西部兵权、在家属质押与曹军压力下起兵，并因对韩遂的猜疑而在渭南失去联盟协同的核心将领。
+- [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211年关中战役；现有证据把先手名分、路线控制、关系离间、假意求和与集中突击合为同一决胜序列。
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
 - [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
 - [Yong Lambert](entities/YongLambert.md) — Mastercard product executive discussing verifiable intent, KYA, recourse, and machine credentials.
@@ -10502,7 +10503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
 - [庞德 / Pang De](entities/PangDe.md) — Ma Teng-side officer who kills Guo Yuan in the Pingyang campaign and triggers Zhong Yao's kinship-versus-public-duty response.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
-- [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
+- [韩遂 / Han Sui](entities/HanSui.md) — 从被胁迫入乱到反复参与西部联盟、调停与归附，并在渭南成为曹操借关系信号离间马超的关键节点。
 - [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、又与崔琰共同以德行和务实标准主持选官的曹操谋臣。
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's wealthy father and network enabler whose disputed killing later triggers the Xuzhou revenge branch.
@@ -18210,6 +18211,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [关系信号式离间 / Relational-Signal Coalition Fracture](concepts/RelationalSignalCoalitionFracture.md) — 通过公开亲密、含混说明或可疑书信让联盟成员自行补全背叛叙事，再把信任损失转化为协同崩塌。
 - [Generative Ghost Interaction Design](concepts/GenerativeGhostInteractionDesign.md) — Identity stance, style fidelity, uncertainty, and safeguard choices for AI-mediated interaction with a deceased person's memory or simulation.
 - [Cinema Audience Behavioral Contract](concepts/CinemaAudienceBehavioralContract.md) — Reciprocal venue rules, staff practices, and commercial choices used to protect concentrated collective viewing.
 - [Local Cinema Community Scaling](concepts/LocalCinemaCommunityScaling.md) — Expanding a theater brand through shared systems while preserving locally meaningful programming and audience relationships.
