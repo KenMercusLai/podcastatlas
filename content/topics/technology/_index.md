@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3490
+topic_total_pages: 3493
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2425,6 +2425,9 @@ topic_concepts:
   - key: "GenerativeEngineOptimization"
     title: "Generative Engine Optimization"
     url: "/wiki/concepts/generativeengineoptimization/"
+  - key: "GenerativeGhostInteractionDesign"
+    title: "Generative Ghost Interaction Design"
+    url: "/wiki/concepts/generativeghostinteractiondesign/"
   - key: "GenerativeMediaControlLayers"
     title: "Generative Media Control Layers"
     url: "/wiki/concepts/generativemediacontrollayers/"
@@ -6344,6 +6347,9 @@ topic_entities:
   - key: "JackClark"
     title: "Jack Clark"
     url: "/wiki/entities/jackclark/"
+  - key: "JackManning"
+    title: "Jack Manning"
+    url: "/wiki/entities/jackmanning/"
   - key: "JackRaoJiewu"
     title: "Jack 饶街五"
     url: "/wiki/entities/jackraojiewu/"
@@ -9948,6 +9954,9 @@ topic_sources:
   - key: "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7"
     title: "Taken littorally: Spain’s sudden crisis in Ceuta"
     url: "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+  - key: "tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128"
+    title: "Talking with AI ghosts of loved ones"
+    url: "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
   - key: "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128"
     title: "Teaching students to 'be better than a robot'"
     url: "/wiki/sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128/"

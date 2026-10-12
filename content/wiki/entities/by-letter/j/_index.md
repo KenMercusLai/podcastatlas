@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13463
+wiki_total_pages: 13464
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "JackLynch"
     title: "Jack Lynch"
     url: "/wiki/entities/jacklynch/"
+  - key: "JackManning"
+    title: "Jack Manning"
+    url: "/wiki/entities/jackmanning/"
   - key: "JackMerridew"
     title: "Jack Merridew / 杰克（《蝇王》）"
     url: "/wiki/entities/jackmerridew/"

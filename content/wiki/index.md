@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Talking with AI ghosts of loved ones](sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128.md) — Marketplace Tech interview with Jack Manning on generative-ghost design, relational authenticity, participant responses, and commercial safeguards.
 - [Alamo Drafthouse Cinema: Tim and Karrie League (2023)](sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.md) — How I Built This episode on cinema hospitality, protected audience attention, local community programming, franchise conflict, workplace failures, bankruptcy, and acquisition.
 - [EP18-真的！多失恋几次，你就长大了](sources/ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557.md) — 无时差研究所以大琳的失恋、健康、求职与社交低谷，讨论情绪接纳、长期人生评估与逆境容量的扩展。
 - [EP48-爱上狒狒的十四天](sources/ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963.md) — 无时差研究所以十四天野生动物志愿经历区分动物亲近与安全、个人改变与保护成效，并将抵制象牙作为具体后续行动。
@@ -4672,6 +4673,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [Jack Manning](entities/JackManning.md) — Researcher studying how people experience representation and reincarnation designs for AI generative ghosts.
 - [Alamo Drafthouse Cinema](entities/AlamoDrafthouseCinema.md) — Cinema-and-hospitality chain built around food, audience rules, distinctive programming, and locally rooted experience.
 - [Tim League](entities/TimLeague.md) — Alamo co-founder combining cinema programming and hands-on operations with acknowledged governance failures.
 - [Karrie League](entities/KarrieLeague.md) — Alamo co-founder whose operating work and brand-investment reasoning shaped its local-community model.
@@ -18207,6 +18209,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Generative Ghost Interaction Design](concepts/GenerativeGhostInteractionDesign.md) — Identity stance, style fidelity, uncertainty, and safeguard choices for AI-mediated interaction with a deceased person's memory or simulation.
 - [Cinema Audience Behavioral Contract](concepts/CinemaAudienceBehavioralContract.md) — Reciprocal venue rules, staff practices, and commercial choices used to protect concentrated collective viewing.
 - [Local Cinema Community Scaling](concepts/LocalCinemaCommunityScaling.md) — Expanding a theater brand through shared systems while preserving locally meaningful programming and audience relationships.
 - [Adversity Capacity Expansion / 逆境容量扩展](concepts/AdversityCapacityExpansion.md) — 以“小溪变大河”比喻理解逐步扩大承载困难经验的能力，同时不美化伤害或把忍耐当作充分照护。

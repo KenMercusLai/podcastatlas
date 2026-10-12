@@ -1911,9 +1911,9 @@
       "url": "/wiki/concepts/aicommitmentevidence/"
     },
     "AICompanionAuthenticityBoundary": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
@@ -1942,9 +1942,16 @@
           "show": "不合时宜",
           "title": "在科技时代，重新理解我们的爱、工作与生活",
           "url": "/wiki/sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu/"
+        },
+        {
+          "episode_file": "tech_20261012_1012_MP_TECH_pod_128 [tech_20261012_1012_MP_TECH_pod_128].md",
+          "key": "tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Talking with AI ghosts of loved ones",
+          "url": "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/aicompanionauthenticityboundary/"
     },
     "AICompanyProductLiability": {
@@ -3025,6 +3032,36 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/aiglassesproductfit/"
+    },
+    "AIGriefBots": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "tech_20260318_0318_MP_TECH_pod_128 [tech_20260318_0318_MP_TECH_pod_128].md",
+          "key": "tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The ethics of using AI to immortalize the dead",
+          "url": "/wiki/sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261012_1012_MP_TECH_pod_128 [tech_20261012_1012_MP_TECH_pod_128].md",
+          "key": "tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Talking with AI ghosts of loved ones",
+          "url": "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/aigriefbots/"
     },
     "AIGuidedLearningGuardrails": {
       "episode_count": 3,
@@ -68638,6 +68675,36 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/digitaldetoxeconomy/"
     },
+    "DigitalMemorialization": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "tech_20260318_0318_MP_TECH_pod_128 [tech_20260318_0318_MP_TECH_pod_128].md",
+          "key": "tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The ethics of using AI to immortalize the dead",
+          "url": "/wiki/sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261012_1012_MP_TECH_pod_128 [tech_20261012_1012_MP_TECH_pod_128].md",
+          "key": "tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Talking with AI ghosts of loved ones",
+          "url": "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/digitalmemorialization/"
+    },
     "DigitalMemoryDefault": {
       "episode_count": 1,
       "show_count": 1,
@@ -104342,6 +104409,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/generativeengineoptimization/"
     },
+    "GenerativeGhostInteractionDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261012_1012_MP_TECH_pod_128 [tech_20261012_1012_MP_TECH_pod_128].md",
+          "key": "tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Talking with AI ghosts of loved ones",
+          "url": "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/generativeghostinteractiondesign/"
+    },
     "GenerativeRelationshipSystem": {
       "episode_count": 1,
       "show_count": 1,
@@ -139370,6 +139453,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jackfeldman/"
+    },
+    "JackManning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261012_1012_MP_TECH_pod_128 [tech_20261012_1012_MP_TECH_pod_128].md",
+          "key": "tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Talking with AI ghosts of loved ones",
+          "url": "/wiki/sources/tech-20261012-1012-mp-tech-pod-128-tech-20261012-1012-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/jackmanning/"
     },
     "JackMerridew": {
       "episode_count": 1,
