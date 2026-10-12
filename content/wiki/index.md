@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [写一份《纪律.md》，代替我入市投资](sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf.md) — 面基把趋势交易写成可执行的纪律文件，并讨论低胜率肥尾收益、回测过拟合、规则型与因子型量化，以及注意力资产的产品设想。
 - [Saudi under siege: Houthis attack airport](sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc.md) — Economist Podcasts episode on Houthi attacks against Saudi airports and Vision 2030, uneven European industrial adaptation, and the qualified learning case for handwriting rather than cursive alone.
 - [《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？](sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl.md) — 曹操以潼关正面施压掩护蒲阪津迂回，在受袭渡河、甬道推进和渭水筑垒中把隐蔽通路转化为可持续的战役优势。
 - [《资治通鉴·汉纪》1122丨曹操假意和谈，背后却把马超往死里坑？](sources/zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb.md) — 曹操以阵前叙旧、涂改书信和假意求和放大马超、韩遂联盟的猜疑，再把路线控制、休整与两翼突击合为渭南决胜序列。
@@ -18214,6 +18215,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Programmable Trading Discipline / 可编程交易纪律](concepts/ProgrammableTradingDiscipline.md) — Precommitted trading system joining market scope, entry and exit states, exposure limits, exceptions, and separated execution.
+- [Attention as Asset / 注意力资产](concepts/AttentionAsAsset.md) — Proposal to measure changing public attention as creator distribution and commercial value while distinguishing it from finite personal focus.
 - [Houthi Infrastructure Coercion](concepts/HouthiInfrastructureCoercion.md) — Drone and missile pressure on airports, energy assets, aviation, international events, and the stability assumptions behind Saudi diversification.
 - [European Industrial Adaptation](concepts/EuropeanIndustrialAdaptation.md) — Uneven manufacturing restructuring through energy efficiency, renewables, location shifts, services, intermediate inputs, and AI.
 - [Handwriting and Learning](concepts/HandwritingLearning.md) — Qualified evidence that handwriting can support learning and idea formation without proving joined cursive uniquely superior to print.

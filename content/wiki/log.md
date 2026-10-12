@@ -36660,3 +36660,11 @@ Added source `saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b9
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 写一份《纪律.md》，代替我入市投资
+
+Added source `xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf`; created [[ProgrammableTradingDiscipline|可编程交易纪律]] and [[AttentionAsAsset|注意力资产]]; and resynthesized [[TrendFollowing]], [[NoPredictionTrading]], [[QuantitativeOverfitting]], and [[Mianji|面基]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: trend trading is an end-to-end repeated-game system whose written universe, entry and exit states, position limits, exception handling, task delivery, and separated execution keep opinion and emotion from rewriting the rules; low win rates can remain viable when losses are bounded and rare winners run, but historical parameter search and post-loss rule changes can overfit noise. The attention-asset proposal distinguishes finite personal focus from audience attention that may become distribution or revenue. No settled contradiction was adopted. Reported win rates, payoff ratios, trend labels, strategy performance, API capabilities, and attention-product estimates remain practitioner claims or unfinished product hypotheses; the hair-loss segment remains sponsored content rather than independent clinical evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,592 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

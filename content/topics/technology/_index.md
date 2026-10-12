@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3496
+topic_total_pages: 3497
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3796,6 +3796,9 @@ topic_concepts:
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
+  - key: "ProgrammableTradingDiscipline"
+    title: "Programmable Trading Discipline / 可编程交易纪律"
+    url: "/wiki/concepts/programmabletradingdiscipline/"
   - key: "ProgrammedLoveAuthenticity"
     title: "Programmed Love Authenticity / 被设计出来的爱是否真实"
     url: "/wiki/concepts/programmedloveauthenticity/"

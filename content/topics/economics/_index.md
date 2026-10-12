@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2253
+topic_total_pages: 2256
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -328,6 +328,9 @@ topic_concepts:
   - key: "ATMOperations"
     title: "ATM Operations"
     url: "/wiki/concepts/atmoperations/"
+  - key: "AttentionAsAsset"
+    title: "Attention as Asset / 注意力资产"
+    url: "/wiki/concepts/attentionasasset/"
   - key: "AttractivenessLaborMarketPremium"
     title: "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价"
     url: "/wiki/concepts/attractivenesslabormarketpremium/"
@@ -2515,6 +2518,9 @@ topic_concepts:
   - key: "ProfitAndCashFlowQuality"
     title: "Profit And Cash Flow Quality"
     url: "/wiki/concepts/profitandcashflowquality/"
+  - key: "ProgrammableTradingDiscipline"
+    title: "Programmable Trading Discipline / 可编程交易纪律"
+    url: "/wiki/concepts/programmabletradingdiscipline/"
   - key: "PropertyRightsAsInvestmentIncentive"
     title: "Property Rights As Investment Incentive"
     url: "/wiki/concepts/propertyrightsasinvestmentincentive/"
@@ -6711,6 +6717,9 @@ topic_sources:
   - key: "lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak"
     title: "何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事"
     url: "/wiki/sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak/"
+  - key: "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf"
+    title: "写一份《纪律.md》，代替我入市投资"
+    url: "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
   - key: "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun"
     title: "别在国内卷了，去美国看看只要产品好就有人付费的市场"
     url: "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"

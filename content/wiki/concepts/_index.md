@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10504
+wiki_total_pages: 10506
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2774,6 +2774,9 @@ wiki_pages:
   - key: "AttachmentAffectRegulation"
     title: "Attachment as Affect Regulation"
     url: "/wiki/concepts/attachmentaffectregulation/"
+  - key: "AttentionAsAsset"
+    title: "Attention as Asset / 注意力资产"
+    url: "/wiki/concepts/attentionasasset/"
   - key: "AttentionAsWeather"
     title: "Attention As Weather"
     url: "/wiki/concepts/attentionasweather/"

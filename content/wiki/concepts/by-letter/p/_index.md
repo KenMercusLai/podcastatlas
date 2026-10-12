@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10504
+wiki_total_pages: 10506
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2210,6 +2210,9 @@ wiki_pages:
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
+  - key: "ProgrammableTradingDiscipline"
+    title: "Programmable Trading Discipline / 可编程交易纪律"
+    url: "/wiki/concepts/programmabletradingdiscipline/"
   - key: "ProgrammedLoveAuthenticity"
     title: "Programmed Love Authenticity / 被设计出来的爱是否真实"
     url: "/wiki/concepts/programmedloveauthenticity/"

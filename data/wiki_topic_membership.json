@@ -16862,6 +16862,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AttentionAsAsset": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AttentionFineTuning": [
     {
       "key": "technology",
@@ -71618,6 +71625,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ProgrammableTradingDiscipline": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ProgrammedLoveAuthenticity": [
     {
       "key": "technology",
@@ -109008,6 +109027,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo": [

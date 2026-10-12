@@ -21614,6 +21614,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/attackontitan/"
     },
+    "AttentionAsAsset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
+          "key": "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf",
+          "show": "面基",
+          "title": "写一份《纪律.md》，代替我入市投资",
+          "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/attentionasasset/"
+    },
     "AttentionCapacitySelection": {
       "episode_count": 1,
       "show_count": 1,
@@ -181851,9 +181867,9 @@
       "url": "/wiki/entities/miankoulatehan/"
     },
     "Mianji": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
@@ -182001,9 +182017,16 @@
           "show": "面基",
           "title": "投资者的敌人：我与我周旋久",
           "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        },
+        {
+          "episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
+          "key": "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf",
+          "show": "面基",
+          "title": "写一份《纪律.md》，代替我入市投资",
+          "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/mianji/"
     },
     "MiaoGuangLateHan": {
@@ -194654,6 +194677,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nopositionencoding/"
+    },
+    "NoPredictionTrading": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动 [llbHc5weMiNtlSLFWrtx4qDxTs_0].md",
+          "key": "e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0",
+          "show": "面基",
+          "title": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动",
+          "url": "/wiki/sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0/"
+        },
+        {
+          "episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
+          "key": "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf",
+          "show": "面基",
+          "title": "写一份《纪律.md》，代替我入市投资",
+          "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/nopredictiontrading/"
     },
     "NoTaxationWithoutRepresentation": {
       "episode_count": 1,
@@ -218114,6 +218160,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/programmableimmunecellengineering/"
     },
+    "ProgrammableTradingDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
+          "key": "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf",
+          "show": "面基",
+          "title": "写一份《纪律.md》，代替我入市投资",
+          "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/programmabletradingdiscipline/"
+    },
     "ProgrammedLoveAuthenticity": {
       "episode_count": 1,
       "show_count": 1,
@@ -222262,6 +222324,36 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/quantitativefofallocation/"
+    },
+    "QuantitativeOverfitting": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？ [lhvIGzza2uGmAYezkBrxUfKmP4L1].md",
+          "key": "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1",
+          "show": "一劳永逸",
+          "title": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？",
+          "url": "/wiki/sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1/"
+        },
+        {
+          "episode_file": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动 [llbHc5weMiNtlSLFWrtx4qDxTs_0].md",
+          "key": "e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0",
+          "show": "面基",
+          "title": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动",
+          "url": "/wiki/sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0/"
+        },
+        {
+          "episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
+          "key": "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf",
+          "show": "面基",
+          "title": "写一份《纪律.md》，代替我入市投资",
+          "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/quantitativeoverfitting/"
     },
     "QuantityChangeQualityChange": {
       "episode_count": 2,
@@ -271181,6 +271273,50 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/trenchsanitationdiseaseburden/"
+    },
+    "TrendFollowing": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
+          "key": "a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx",
+          "show": "面基",
+          "title": "A股的春夏秋冬：种树、种粮、种菜",
+          "url": "/wiki/sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx/"
+        },
+        {
+          "episode_file": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话 [lr0fb5YFiWoXaamdwjJgH4RjEPrG].md",
+          "key": "ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg",
+          "show": "一劳永逸",
+          "title": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话",
+          "url": "/wiki/sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg/"
+        },
+        {
+          "episode_file": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动 [llbHc5weMiNtlSLFWrtx4qDxTs_0].md",
+          "key": "e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0",
+          "show": "面基",
+          "title": "E144.交易的艺术：不预测，统计优势，分散红利，随机波动",
+          "url": "/wiki/sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0/"
+        },
+        {
+          "episode_file": "E145.上钟了！4000点之上的心理按摩 [lrK6eqFQkjniHzF5pIMBek4kqm9e].md",
+          "key": "e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e",
+          "show": "面基",
+          "title": "E145.上钟了！4000点之上的心理按摩",
+          "url": "/wiki/sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e/"
+        },
+        {
+          "episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
+          "key": "xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf",
+          "show": "面基",
+          "title": "写一份《纪律.md》，代替我入市投资",
+          "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/trendfollowing/"
     },
     "TrentRossiter": {
       "episode_count": 1,

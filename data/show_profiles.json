@@ -3868,14 +3868,14 @@
       "earliest_episode_date": "2026-02-04",
       "latest_episode_date": "2026-10-12",
       "latest_episode_file": "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
-      "source_note_count": 23,
-      "topic_matched_source_note_count": 18,
+      "source_note_count": 24,
+      "topic_matched_source_note_count": 19,
       "topics": [
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 13
+          "source_note_count": 14
         },
         {
           "key": "technology",
@@ -3892,10 +3892,10 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
+        "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md",
         "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
         "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
-        "lnb4eEnlg5UVx2bTqPpqA87eIEUf [lnb4eEnlg5UVx2bTqPpqA87eIEUf].md"
+        "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md"
       ]
     }
   }
