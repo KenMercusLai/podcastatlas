@@ -4666,6 +4666,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 - [高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？](sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963.md) — 声动早咖啡以仁川、樟宜和法兰克福案例解释机场PPP、运营能力出海、系统协同与非航空收入。
+- [EP133-有关种族的议题，中文互联网究竟还有多少误解？](sources/ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618.md) — 无时差研究所从形式平等、重建与财富积累、《乱世佳人》政治叙事及南非制度遗产解释法律变化后仍持续的种族不平等。
 
 ## Entities
 - [大琳 / Dalin (EP18 guest)](entities/DaLinWushichaGuest.md) — 以失恋、求职、皮肤治疗与逐步释怀说明长时间评估和逆境容量的姓名未完全公开嘉宾。
@@ -28774,5 +28775,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Airport Operator Internationalization / 机场运营商国际化](concepts/AirportOperatorInternationalization.md) — 将成熟枢纽管理经验转化为海外咨询、投资、开发、维护与长期运营资格的战略。
 - [Airport Operational Coordination / 机场运营协同](concepts/AirportOperationalCoordination.md) — 协同飞机、旅客、行李、中转、航线与商业空间以减少级联延误并提升枢纽效能。
 - [Airport Non-Aeronautical Revenue / 机场非航空收入](concepts/AirportNonAeronauticalRevenue.md) — 通过停车、餐饮、免税零售、租金与商业服务把客流转化为机场收入。
+- [Formal Equality and Structural Discrimination / 形式平等与结构性歧视](concepts/FormalEqualityStructuralDiscrimination.md) — 区分不再明示种族的规则与仍通过代理条件、执行差异和历史资产产生不平等结果的制度。
 
 ## Syntheses

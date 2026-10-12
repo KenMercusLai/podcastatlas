@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10495
+wiki_total_pages: 10496
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "ForgottenPeoplePolitics"
     title: "Forgotten People Politics"
     url: "/wiki/concepts/forgottenpeoplepolitics/"
+  - key: "FormalEqualityStructuralDiscrimination"
+    title: "Formal Equality and Structural Discrimination / 形式平等与结构性歧视"
+    url: "/wiki/concepts/formalequalitystructuraldiscrimination/"
   - key: "FormalSpecification"
     title: "Formal Specification"
     url: "/wiki/concepts/formalspecification/"

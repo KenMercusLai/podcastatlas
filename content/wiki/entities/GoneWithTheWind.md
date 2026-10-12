@@ -4,7 +4,8 @@ type: entity
 tags: [novel, film, hollywood, historical-memory, american-civil-war]
 sources:
   - 204-gone-with-the-wind-glt3666140136
-last_updated: 2026-10-01
+  - ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The work's force comes from combining a female-centered survival story, romance,
 
 Its historical importance therefore exceeds whether viewers accept each proposition literally. By making white Southern victimhood emotionally available, the novel and film helped plantation nostalgia feel like loss rather than dispossession. The segregated Atlanta premiere and [[HattieMcDaniel|Hattie McDaniel]]'s exclusion show that the racial system romanticized on screen remained active around the film's reception.
 
+Chinese reception adds another layer: the work's post-reform-era status as a symbol of cultural opening can turn criticism into a censorship dispute before its racial history is examined. The HBO contextualization controversy therefore illustrates why access, aesthetic attention, and political reading need not be mutually exclusive.
+
 ## Key Characteristics
 
 - Bestselling 1936 novel adapted into a technically celebrated 1939 Hollywood film.
@@ -27,6 +30,7 @@ Its historical importance therefore exceeds whether viewers accept each proposit
 - Romance and spectacle that increase the reach of its distorted racial history.
 - Representation of Confederate defeat through white Southern victimhood and plantation loss.
 - Cultural object that can be studied without either endorsing its mythology or erasing its artistic influence.
+- Cross-cultural classic whose local reception history can obscure or reopen its racial politics.
 
 ## Evidence
 
@@ -45,15 +49,16 @@ Its historical importance therefore exceeds whether viewers accept each proposit
 ### Continued interpretation
 
 - [[204-gone-with-the-wind-glt3666140136]] treats the work as both classic filmmaking and historically consequential propaganda that should be contextualized rather than destroyed.
+- [[ep133-youguan-zhongzu-de-yiti-zhongwen-hulianwang-jiujing-haiyou-duoshao-wujie-wkg5if84g3-sztencmqmgoojfsa618]] describes HBO's temporary removal and contextualized return, and argues that Chinese discussion often shifts from the work's racial narrative to a binary of openness versus censorship.
 
 ## Qualifications
 
-This profile is bounded to one critical podcast conversation. It does not independently compare the novel and film, measure audience beliefs, or survey the full critical literature. Assessments of artistic quality, political effect, character meaning, and comparative harm remain interpretive, and recognizing a female-centered war narrative does not neutralize the work's racial distortions.
+This profile is bounded to two critical podcast conversations. It does not independently compare the novel and film, measure U.S. or Chinese audience beliefs, or survey the full critical literature. Assessments of artistic quality, political effect, character meaning, authorial purpose, and comparative harm remain interpretive, and recognizing a female-centered war narrative does not neutralize the work's racial distortions.
 
 ## What Changed
 
-- Established the work as an emotionally effective vehicle for Lost Cause memory rather than only a romance or Hollywood landmark.
-- Separated its artistic importance from the historical accuracy and moral legitimacy of its racial narrative.
+- Added Chinese reception history as a reason racial criticism may be misread as a demand for censorship.
+- Added the HBO contextualization dispute as evidence that continued access and explicit historical framing can coexist.
 
 ## Relationships
 
@@ -63,3 +68,4 @@ This profile is bounded to one critical podcast conversation. It does not indepe
 - [[ReconstructionRollback]] - suppressed political history behind the work's white-victimhood frame.
 - [[ProblematicClassicContextualization]] - interpretive approach proposed for preserving and confronting the work.
 - [[HistoricalMemoryContest]] - broader contest in which the film became a powerful memory object.
+- [[FormalEqualityStructuralDiscrimination]] - institutional frame for the post-emancipation inequalities the work's Reconstruction story obscures.
