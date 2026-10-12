@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10525
+wiki_total_pages: 10528
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "HardwareCategoryDefinitionPower"
     title: "Hardware Category Definition Power"
     url: "/wiki/concepts/hardwarecategorydefinitionpower/"
+  - key: "HardwareDistributionDefensibility"
+    title: "Hardware Distribution Defensibility / 硬件分发防御性"
+    url: "/wiki/concepts/hardwaredistributiondefensibility/"
   - key: "HardwareInventoryRisk"
     title: "Hardware Inventory Risk"
     url: "/wiki/concepts/hardwareinventoryrisk/"

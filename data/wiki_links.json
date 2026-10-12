@@ -9191,6 +9191,10 @@
     "title": "Amber Reeves / 安伯·里夫斯",
     "url": "/wiki/entities/amberreeves/"
   },
+  "AmbiPersonalAI": {
+    "title": "Ambi Personal AI",
+    "url": "/wiki/entities/ambipersonalai/"
+  },
   "AmbientAIInterface": {
     "title": "Ambient AI Interface",
     "url": "/wiki/concepts/ambientaiinterface/"
@@ -30751,6 +30755,10 @@
     "title": "Environment-Tiered AI Governance",
     "url": "/wiki/concepts/environmenttieredaigovernance/"
   },
+  "EnvironmentTriggeredAgentProactivity": {
+    "title": "Environment-Triggered Agent Proactivity / 环境触发式智能体主动性",
+    "url": "/wiki/concepts/environmenttriggeredagentproactivity/"
+  },
   "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
     "title": "Environmental Endocrine Disruption Evidence Boundary",
     "url": "/wiki/concepts/environmentalendocrinedisruptionevidenceboundary/"
@@ -40406,6 +40414,10 @@
   "HardwareCategoryDefinitionPower": {
     "title": "Hardware Category Definition Power",
     "url": "/wiki/concepts/hardwarecategorydefinitionpower/"
+  },
+  "HardwareDistributionDefensibility": {
+    "title": "Hardware Distribution Defensibility / 硬件分发防御性",
+    "url": "/wiki/concepts/hardwaredistributiondefensibility/"
   },
   "HardwareInventoryRisk": {
     "title": "Hardware Inventory Risk",
@@ -67806,6 +67818,10 @@
   "PersonalAIMemory": {
     "title": "Personal AI Memory",
     "url": "/wiki/concepts/personalaimemory/"
+  },
+  "PersonalAgentNetworkEffects": {
+    "title": "Personal Agent Network Effects / 个人智能体网络效应",
+    "url": "/wiki/concepts/personalagentnetworkeffects/"
   },
   "PersonalAgentUnderstandingLayer": {
     "title": "Personal Agent Understanding Layer / 个人Agent理解层",
@@ -100591,6 +100607,10 @@
     "title": "子涵医生 / Zihan Doctor",
     "url": "/wiki/entities/zihandoctor/"
   },
+  "ZihaoAmbiFounder": {
+    "title": "子皓（Ambi 创始人）",
+    "url": "/wiki/entities/zihaoambifounder/"
+  },
   "ZijinMining": {
     "title": "Zijin Mining / 紫金矿业",
     "url": "/wiki/entities/zijinmining/"
@@ -108486,6 +108506,10 @@
   "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093": {
     "title": "一份来自病床上的相关书单",
     "url": "/wiki/sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093/"
+  },
+  "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e": {
+    "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+    "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
   },
   "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt": {
     "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",

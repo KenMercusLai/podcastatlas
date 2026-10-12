@@ -3094,9 +3094,9 @@
       "url": "/wiki/concepts/aiguidedlearningguardrails/"
     },
     "AIHardwarePrivacyExchange": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -3118,9 +3118,16 @@
           "show": "Marketplace Tech",
           "title": "Can Meta Finally Make Smart Glasses Cool?",
           "url": "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/aihardwareprivacyexchange/"
     },
     "AIHealthAgent": {
@@ -9307,9 +9314,9 @@
       "url": "/wiki/concepts/agentcommandcenter/"
     },
     "AgentDelegationFriction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
@@ -9317,9 +9324,16 @@
           "show": "乱翻书",
           "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
           "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+        },
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/agentdelegationfriction/"
     },
     "AgentEntryPoint": {
@@ -13413,10 +13427,26 @@
       "updated": "2026-08-24",
       "url": "/wiki/entities/amazonwebservices/"
     },
+    "AmbiPersonalAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/ambipersonalai/"
+    },
     "AmbientAIInterface": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
@@ -13438,9 +13468,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
+        },
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/ambientaiinterface/"
     },
     "AmbientOncology": {
@@ -84785,6 +84822,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/environmenttieredaigovernance/"
     },
+    "EnvironmentTriggeredAgentProactivity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/environmenttriggeredagentproactivity/"
+    },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
       "episode_count": 4,
       "show_count": 1,
@@ -117527,6 +117580,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/hardcorehistory/"
     },
+    "HardwareDistributionDefensibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/hardwaredistributiondefensibility/"
+    },
     "HardwareInventoryRisk": {
       "episode_count": 4,
       "show_count": 4,
@@ -117565,9 +117634,9 @@
       "url": "/wiki/concepts/hardwareinventoryrisk/"
     },
     "HardwarePrototypeToProductionGap": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
@@ -117575,9 +117644,16 @@
           "show": "罗永浩的十字路口",
           "title": "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头",
           "url": "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+        },
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/hardwareprototypetoproductiongap/"
     },
     "HardwareSoftwareIterationAsymmetry": {
@@ -208400,6 +208476,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/personalaimemory/"
     },
+    "PersonalAgentNetworkEffects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/personalagentnetworkeffects/"
+    },
     "PersonalAgentUnderstandingLayer": {
       "episode_count": 2,
       "show_count": 1,
@@ -208562,9 +208654,9 @@
       "url": "/wiki/concepts/personalknowledgeecology/"
     },
     "PersonalLifeAgent": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -208600,9 +208692,16 @@
           "show": "晚点聊 LateTalk",
           "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
           "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
+        },
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/personallifeagent/"
     },
     "PersonalMemoryIdentityResolution": {
@@ -309089,6 +309188,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/zihandoctor/"
+    },
+    "ZihaoAmbiFounder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
+          "key": "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e",
+          "show": "42章经",
+          "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
+          "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/zihaoambifounder/"
     },
     "Zilu": {
       "episode_count": 1,

@@ -6,8 +6,9 @@ sources:
   - tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128
   - ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4
   - tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128
+  - yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-26
+last_updated: 2026-10-13
 ---
 
 # AI Hardware Privacy Exchange / AI硬件隐私交换
@@ -22,6 +23,8 @@ The concept is a product-market test as much as a rights issue. People may accep
 
 The smart-glasses source sharpens the social side of the exchange. Even when a wearer sees useful value in recording travel, cooking, or gardening, other people may experience the device as surveillance. This means privacy tolerance cannot be inferred from the buyer alone; the public or shared-space audience also matters.
 
+The Ambi interview adds a data-access principle for always-available personal agents: where raw audio, biometric, identity, or similarly sensitive first-hand data is not needed by the application provider, local or trusted-platform processing should keep it outside the provider's reach. This can reduce exposure, but it does not by itself settle bystander consent, inferred-data leakage, retention, action authority, or whether the claimed architecture is actually implemented.
+
 ## Key Claims
 
 - AI hardware privacy is negotiated through concrete benefits, not abstract sensor capability alone.
@@ -30,6 +33,7 @@ The smart-glasses source sharpens the social side of the exchange. Even when a w
 - Cloud versus edge processing affects whether the device feels like local assistance or platform extraction.
 - Privacy tolerance rises when the task is narrow, the benefit is visible, and consent or control boundaries are explicit.
 - Marketing and style cannot resolve privacy exchange problems when the device captures people outside the target audience.
+- Data minimization is stronger when the application provider cannot access raw sensitive records, not merely when it promises limited use.
 
 ## Evidence
 
@@ -38,19 +42,21 @@ The smart-glasses source sharpens the social side of the exchange. Even when a w
 - **Bystander exchange:** [[tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128]] shows that a smart-glasses wearer can see travel or cooking value while surrounding people bear the capture risk.
 - **Notice limits:** [[ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]] and [[tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128]] both treat recording indicators or warnings as weaker than a full consent regime.
 - **Revenue-model boundary:** [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] notes that hardware, app, and subscription revenue can reduce advertising pressure without eliminating retention, access, interpretation, or future consent concerns.
+- **Raw-data access boundary:** [[yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e]] argues that sensitive first-hand audio, biometric, and identity data should remain local or within a trusted platform so the application provider cannot directly obtain it where feasible.
 
 ## Counterevidence & Qualifications
 
 - The sources do not claim that all sensor hardware is unacceptable; they identify conditions under which users find monitoring useful.
 - Local processing can reduce exposure, but it does not solve all problems when the device still shapes social behavior or records shared space.
+- “Trusted platform” is not a complete guarantee; device compromise, metadata, derived inferences, updates, diagnostics, and action logs can still expose sensitive information.
 - A bystander may legally be recordable in some places while still feeling socially coerced or deceived.
 - Hardware privacy risks differ across child bedrooms, public streets, private homes, sports contexts, and creator production.
 
 ## What Changed
 
-- The page was migrated to `synthesis-v1` and reorganized around buyer-user-sensed-person separation.
-- Smart-glasses bystander discomfort was added as a social privacy exchange, not only a notice-design issue.
-- Marketing and fashion were added as factors that can increase exposure without resolving consent.
+- Added application-provider non-access to raw sensitive data as a stronger minimization principle.
+- Clarified that local or trusted-platform processing reduces exposure without resolving bystander, metadata, inference, or action risks.
+- Preserved buyer-user-sensed-person separation as the core social boundary.
 
 ## Related Concepts
 
@@ -60,3 +66,5 @@ The smart-glasses source sharpens the social side of the exchange. Even when a w
 - [[ConsentBasedRecording]] - mitigation strategy for shared audio or video capture.
 - [[EdgeCloudAIBoundary]] - processing location and data-flow constraint.
 - [[ConsumerAIHardwareProductFit]] - product-fit test that includes privacy tolerance.
+- [[AmbientAIInterface]] - continuous-context interface that makes raw-data boundaries especially consequential.
+- [[EnvironmentTriggeredAgentProactivity]] - event-detection layer whose privacy cost begins before any action occurs.

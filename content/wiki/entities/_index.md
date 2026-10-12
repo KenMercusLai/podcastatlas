@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13477
+wiki_total_pages: 13479
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "AmberReeves"
     title: "Amber Reeves / 安伯·里夫斯"
     url: "/wiki/entities/amberreeves/"
+  - key: "AmbiPersonalAI"
+    title: "Ambi Personal AI"
+    url: "/wiki/entities/ambipersonalai/"
   - key: "AmbroseOfMilan"
     title: "Ambrose of Milan"
     url: "/wiki/entities/ambroseofmilan/"

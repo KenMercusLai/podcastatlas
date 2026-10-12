@@ -4688,7 +4688,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
+- [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e.md) — 42章经对谈 Ambi 创始人子皓，讨论持续在线的个人智能体、环境触发式主动性、隐私、硬件分发与量产交付。
+
 ## Entities
+- [Ambi Personal AI](entities/AmbiPersonalAI.md) — 以持续在线、物理世界上下文和软硬件结合降低个人智能体交互成本的产品路线。
+- [子皓（Ambi 创始人）](entities/ZihaoAmbiFounder.md) — 将个人AI产品、商业判断、招聘、硬件交付与可逆式快速执行连接起来的创业者。
 - [Martin Shkreli](entities/MartinShkreli.md) — Biotech entrepreneur and former hedge-fund manager discussing technology commercialization, drug-asset selection, AI demand, and identity rigidity.
 - [石慧 / Shi Hui (funeral professional)](entities/ShiHuiFuneralProfessional.md) — 摆渡人 BDR 创始人，以逝者生平、关系和哀伤需要组织个性化送别，并讨论行业情感劳动与职业尊严。
 - [摆渡人 BDR / Baiduren BDR](entities/BaidurenBDR.md) — 石慧创办的多人协作送别服务机构，在来源叙述中结合生命策划、礼仪、执行与葬后关怀。
@@ -18238,6 +18242,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Environment-Triggered Agent Proactivity / 环境触发式智能体主动性](concepts/EnvironmentTriggeredAgentProactivity.md) — 由有意义的物理或数字环境变化触发服务，而非仅靠定时扫描猜测需求的主动性模型。
+- [Personal Agent Network Effects / 个人智能体网络效应](concepts/PersonalAgentNetworkEffects.md) — 个体智能体在权限边界内跨用户协作，使私人记忆、文件和判断产生增量价值的待验证机制。
+- [Hardware Distribution Defensibility / 硬件分发防御性](concepts/HardwareDistributionDefensibility.md) — 以物理渠道、设备占位和供应链能力形成优势，同时受量产、库存、质量与支持成本约束。
 - [Quantum Computing Commercialization Gap](concepts/QuantumComputingCommercializationGap.md) — Distance between specialized quantum capability and reliable, economical value on practical workloads.
 - [Photonic Matrix Computing](concepts/PhotonicMatrixComputing.md) — Optical acceleration of AI matrix operations, bounded by memory, nonlinearity, conversion, integration, and end-to-end economics.
 - [Pharmaceutical Asset Repositioning](concepts/PharmaceuticalAssetRepositioning.md) — Acquisition or licensing of overlooked molecules followed by indication selection, development, validation, and commercialization.

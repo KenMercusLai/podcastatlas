@@ -14457,6 +14457,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AmbiPersonalAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AmbientAIInterface": [
     {
       "key": "technology",
@@ -34596,6 +34603,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EnvironmentTriggeredAgentProactivity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EnvironmentalExposureSignalDetection": [
     {
       "key": "technology",
@@ -43812,6 +43826,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HardwareDistributionDefensibility": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "HardwareInventoryRisk": [
@@ -68281,6 +68307,13 @@
     }
   ],
   "PersonalAIMemory": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PersonalAgentNetworkEffects": [
     {
       "key": "technology",
       "label": "Technology",
@@ -99572,6 +99605,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ZihaoAmbiFounder": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Zisi": [
     {
       "key": "history",
@@ -109154,6 +109194,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt": [

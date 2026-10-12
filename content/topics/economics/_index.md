@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2261
+topic_total_pages: 2263
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1567,6 +1567,9 @@ topic_concepts:
   - key: "HardTechRegulatoryPathfinding"
     title: "Hard-Tech Regulatory Pathfinding"
     url: "/wiki/concepts/hardtechregulatorypathfinding/"
+  - key: "HardwareDistributionDefensibility"
+    title: "Hardware Distribution Defensibility / 硬件分发防御性"
+    url: "/wiki/concepts/hardwaredistributiondefensibility/"
   - key: "HardwareInventoryRisk"
     title: "Hardware Inventory Risk"
     url: "/wiki/concepts/hardwareinventoryrisk/"
@@ -6720,6 +6723,9 @@ topic_sources:
   - key: "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f"
     title: "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪"
     url: "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"
+  - key: "yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e"
+    title: "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓"
+    url: "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
   - key: "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7"
     title: "一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14"
     url: "/wiki/sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7/"

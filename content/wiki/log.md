@@ -36750,3 +36750,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓
+
+Added source `yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e`; created [[AmbiPersonalAI|Ambi]], [[ZihaoAmbiFounder|子皓]], [[EnvironmentTriggeredAgentProactivity|环境触发式智能体主动性]], [[PersonalAgentNetworkEffects|个人智能体网络效应]], and [[HardwareDistributionDefensibility|硬件分发防御性]]; linked the existing [[42Zhangjing|42章经]] profile without reopening its larger evidence inventory; and resynthesized [[PersonalLifeAgent|个人生活智能体]], [[AgentDelegationFriction|智能体委托摩擦]], [[AmbientAIInterface]], [[AIHardwarePrivacyExchange|AI硬件隐私交换]], and [[HardwarePrototypeToProductionGap|硬件原型到量产鸿沟]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: personal-agent value depends on lowering the cost of expressing intent, while meaningful environmental changes offer a narrower trigger than continuous speculative scans; raw sensitive data should remain outside the application provider's reach where feasible; cross-user agent collaboration may create network value only with permission controls; and hardware channel advantage remains conditional on repeated use and stable scaled delivery. No settled contradiction was adopted. The title's Ambi/子皓 and body text's MB/梓浩 mismatch is preserved as source uncertainty, while product performance, privacy implementation, economics, adoption, network effects, and launch timing remain source-scoped founder claims.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
