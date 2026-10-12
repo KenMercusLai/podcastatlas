@@ -22307,6 +22307,10 @@
     "title": "Consumer Arbitration Barrier",
     "url": "/wiki/concepts/consumerarbitrationbarrier/"
   },
+  "ConsumerBrandCapitalTimeMismatch": {
+    "title": "Consumer-Brand Capital–Time Mismatch / 消费品牌资本周期错配",
+    "url": "/wiki/concepts/consumerbrandcapitaltimemismatch/"
+  },
   "ConsumerBrandEvidenceResponse": {
     "title": "Consumer Brand Evidence Response",
     "url": "/wiki/concepts/consumerbrandevidenceresponse/"
@@ -22314,6 +22318,10 @@
   "ConsumerBrandMoat": {
     "title": "Consumer Brand Moat",
     "url": "/wiki/concepts/consumerbrandmoat/"
+  },
+  "ConsumerBrandSupplyChainHomogenization": {
+    "title": "Consumer-Brand Supply-Chain Homogenization / 消费品牌供应链同质化",
+    "url": "/wiki/concepts/consumerbrandsupplychainhomogenization/"
   },
   "ConsumerCameraSurveillance": {
     "title": "Consumer Camera Surveillance",
@@ -25386,6 +25394,10 @@
   "DazexiangUprising": {
     "title": "大泽乡起义 / Dazexiang Uprising",
     "url": "/wiki/entities/dazexianguprising/"
+  },
+  "DazhongDianping": {
+    "title": "大众点评 / Dazhong Dianping",
+    "url": "/wiki/entities/dazhongdianping/"
   },
   "Dbt": {
     "title": "dbt",
@@ -57578,6 +57590,10 @@
   "MarketSpeculation": {
     "title": "Market Speculation",
     "url": "/wiki/concepts/marketspeculation/"
+  },
+  "MarketingChannelCategoryFit": {
+    "title": "Marketing Channel–Category Fit / 营销渠道与品类适配",
+    "url": "/wiki/concepts/marketingchannelcategoryfit/"
   },
   "MarketingEthics": {
     "title": "Marketing Ethics / 营销伦理",
@@ -102134,6 +102150,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw": {
+    "title": "EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？",
+    "url": "/wiki/sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw/"
   },
   "ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q": {
     "title": "EP157-困在拼多多的系统里：伟大的公司不应该让人感到害怕",

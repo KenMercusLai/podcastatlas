@@ -4,7 +4,8 @@ type: concept
 tags: [marketing, advertising, ecommerce, brand-strategy]
 sources:
   - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
-last_updated: 2026-09-08
+  - ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The episode frames brand-performance integration as achievable but often misfram
 
 This makes integration an operating design problem. Brands need ROI and scale, but pure short-term ROI can simply bid for the easiest users. A healthier path uses brand content to expand consideration, then lets performance mechanisms harvest demand without destroying margin, brand tone, or future repeat purchase.
 
+EP145 adds an earlier practitioner account of why this pressure emerged. Advertisers increasingly asked exposure-led agencies to report sales, conversion, communication data, and a complete transaction loop. That shift improves accountability, but the episode also warns that likes, livestream fashion, or a measurable channel do not guarantee category fit or actual sales. 品效合一 therefore requires both measurement and restraint: make the path visible without forcing every brand into the same tactic.
+
 ## Key Claims
 - Brand and performance budgets integrate best when they share a path model rather than compete over disconnected KPIs.
 - Short-term ROI can be real while still failing to build scalable demand after spending stops.
@@ -25,6 +28,7 @@ This makes integration an operating design problem. Brands need ROI and scale, b
 - Integration requires balancing ROI, scale, brand tone, margin, repeat purchase, and long-term customer value.
 - Organization and budget design matter because brand teams and performance teams have historically optimized different outputs.
 - Complete causal proof remains difficult when users convert after long delays or on other platforms.
+- Measurability does not rescue a channel that lacks product, audience, margin, or use-scene fit.
 
 ## Evidence
 - Proof-versus-building distinction - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] says the platform should not only prove brand spend works, but build links between brand exposure and ecommerce traffic.
@@ -32,12 +36,15 @@ This makes integration an operating design problem. Brands need ROI and scale, b
 - Traffic bridge - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] describes weighting brand-ad-exposed audiences inside ecommerce traffic and seeing higher conversion efficiency in experiments.
 - Budget convergence - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] says brand organizations are moving toward unified budgets, while brand and effect teams both move toward business outcomes.
 - Long-cycle example - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] uses podcast advertising and Double 11 delayed purchase to show why short attribution windows can miss brand contribution.
+- Accountability shift - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] contrasts traditional exposure buying with advertiser demand for sales, conversion, communication data, and a closed loop.
+- Fit boundary - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] says high likes, livestream participation, or trend adoption can fail when channel, category, and brand position do not match.
 
 ## Counterevidence & Qualifications
-Brand-performance integration can become a slogan if platforms overclaim attribution or brands use it to avoid hard unit-economics questions. The source does not independently verify the conversion lift, R3 contribution, or long-term loyalty metrics it cites. It also acknowledges that some low-price or impulse categories may need less elaborate brand seeding.
+Brand-performance integration can become a slogan if platforms overclaim attribution, brands use it to avoid hard unit-economics questions, or every category is pushed into the same fashionable channel. The sources do not independently verify the conversion lift, R3 contribution, platform-conversion, or long-term loyalty metrics they cite. They also acknowledge that some low-price or impulse categories may need less elaborate brand seeding.
 
 ## What Changed
 - Created a page for the episode's path-building interpretation of 品效合一.
+- Added the earlier shift from exposure toward business accountability and the category-fit boundary on measurable tactics.
 
 ## Related Concepts
 - [[ContentSeedingMarketing]] - demand-creation mechanism inside the integration path.
@@ -46,3 +53,4 @@ Brand-performance integration can become a slogan if platforms overclaim attribu
 - [[MarketingManagementChain]] - upstream strategic frame for aligning goals before tactics.
 - [[BrandBelief]] - long-term consumer belief asset that performance-only metrics may miss.
 - [[PlatformAdvertisingMonetization]] - platform revenue context that can support or distort integration.
+- [[MarketingChannelCategoryFit]] - checks whether the chosen conversion path fits the product and audience.

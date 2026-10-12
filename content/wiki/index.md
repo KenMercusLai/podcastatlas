@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？](sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw.md) — 无时差研究所从平台分工、品效合一、供应链同质化与资本周期错配解释营销机制，并以产品真实、渠道适配和理性消费划定边界。
 - [VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区](sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk.md) — 谢道宇讲解鼻出血、鼻腔清洁、鼻炎与鼻窦炎分流、洗鼻和鼻喷药物的安全边界。
 - [338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)](sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668.md) — The Rest Is History with Dan Jackson on the Parliament Act, mass Ulster resistance, Conservative support, rival volunteers, army uncertainty, and the unresolved 1914 coercion crisis.
 - [开篇试播｜重温金庸：共赴一场江湖盛会](sources/fme-hfxefs3rvewsrdz0fwcalsap-fme-hfxefs3rvewsrdz0fwcalsap.md) — 纸醉金迷FM以金庸逝世五周年为纪念节点，介绍其金庸、读书与泛文化定位，并邀请跨世代听众重温共同的武侠记忆。
@@ -4655,6 +4656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [大众点评 / Dazhong Dianping](entities/DazhongDianping.md) — 本地生活发现、商家营销与用户评价激励交织的平台，其高等级影响力也带来评论独立性问题。
 - [Bonar Law](entities/BonarLaw.md) — Conservative leader who made armed Ulster resistance to Home Rule a national party cause.
 - [F. E. Smith](entities/FESmith.md) — Liverpool barrister and Conservative MP linking Carson's Ulster campaign to mainland rallies, elections, and volunteer spectacle.
 - [杨康（金庸小说） / Yang Kang (Jin Yong)](entities/YangKangJinYong.md) — 以聪明、特权、身份隐瞒、重名位轻积累及道德教育不足，对照郭靖成长路径的《射雕英雄传》人物。
@@ -18170,6 +18172,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Marketing Channel–Category Fit / 营销渠道与品类适配](concepts/MarketingChannelCategoryFit.md) — 按品类、决策风险、用户场景与渠道实际承担的发现、解释或成交角色选择营销路径。
+- [Consumer-Brand Supply-Chain Homogenization / 消费品牌供应链同质化](concepts/ConsumerBrandSupplyChainHomogenization.md) — 受限于合格工厂与小单能力时，产品趋同并把过多差异化压力推向包装和叙事。
+- [Consumer-Brand Capital–Time Mismatch / 消费品牌资本周期错配](concepts/ConsumerBrandCapitalTimeMismatch.md) — 投资人的快速增长退出周期与产品、门店、供应链、服务和复购的慢成熟周期之间的冲突。
 - [Nasal Mucosa Protection and Bleeding Triage / 鼻黏膜保护与鼻出血分流](concepts/NasalMucosaProtectionAndBleedingTriage.md) — Connects low-trauma nasal hygiene and anterior-nosebleed first aid with high-risk bleeding and infection escalation.
 - [Relational Wuxia Worldbuilding / 关系网络式武侠世界构建](concepts/RelationalWuxiaWorldbuilding.md) — 以可记忆的等级、门派、师承、对抗、地点和历史关系构成宏大而可辨认江湖的叙事方法。
 - [Stage-Contingent Integrative Leadership / 阶段适配的整合型领导](concepts/StageContingentIntegrativeLeadership.md) — 区分组织修复、人才留用、和解与合法性建设，同继承斗争、强制整合及政权经营所需能力的领导框架。

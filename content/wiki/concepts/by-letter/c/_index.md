@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10470
+wiki_total_pages: 10473
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2276,6 +2276,12 @@ wiki_pages:
   - key: "ConsumerTrendSpotting"
     title: "Consumer Trend Spotting"
     url: "/wiki/concepts/consumertrendspotting/"
+  - key: "ConsumerBrandCapitalTimeMismatch"
+    title: "Consumer-Brand Capital–Time Mismatch / 消费品牌资本周期错配"
+    url: "/wiki/concepts/consumerbrandcapitaltimemismatch/"
+  - key: "ConsumerBrandSupplyChainHomogenization"
+    title: "Consumer-Brand Supply-Chain Homogenization / 消费品牌供应链同质化"
+    url: "/wiki/concepts/consumerbrandsupplychainhomogenization/"
   - key: "ConsumerGradeDeveloperInfrastructure"
     title: "Consumer-Grade Developer Infrastructure"
     url: "/wiki/concepts/consumergradedeveloperinfrastructure/"

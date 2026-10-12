@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10470
+wiki_total_pages: 10473
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "MarketSpeculation"
     title: "Market Speculation"
     url: "/wiki/concepts/marketspeculation/"
+  - key: "MarketingChannelCategoryFit"
+    title: "Marketing Channel–Category Fit / 营销渠道与品类适配"
+    url: "/wiki/concepts/marketingchannelcategoryfit/"
   - key: "MarketingEthics"
     title: "Marketing Ethics / 营销伦理"
     url: "/wiki/concepts/marketingethics/"

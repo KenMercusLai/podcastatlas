@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13444
+wiki_total_pages: 13445
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "DaYiCultureLimited"
     title: "大一（文化有限）"
     url: "/wiki/entities/dayiculturelimited/"
+  - key: "DazhongDianping"
+    title: "大众点评 / Dazhong Dianping"
+    url: "/wiki/entities/dazhongdianping/"
   - key: "DaLunDingHypertensionGuest"
     title: "大伦丁老师 / 大仑丁 (hypertension guest)"
     url: "/wiki/entities/dalundinghypertensionguest/"
