@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP139-《花木兰》：好莱坞的一次东方想象](sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav.md) — 无时差研究所从人物成长、女性主题、文化符号、语言本地化与疫情发行重读迪士尼真人版《花木兰》。
 - [EP142-时至今日你还看不起国产新能源车吗？](sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq.md) — 无时差研究所以2020年行业视角连接中国电动车产业追赶、供应链、安全、补能约束、增程路线与软件化未来，并将品牌判断限定为历史快照。
 - [EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？](sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr.md) — 索菲亚从调酒创作、女性专业信任、酒吧体验与“半海”品牌实践，说明白酒年轻化首先要重构饮用场景与消费者选择权。
 - [EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？](sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw.md) — 无时差研究所从平台分工、品效合一、供应链同质化与资本周期错配解释营销机制，并以产品真实、渠道适配和理性消费划定边界。
@@ -4658,6 +4659,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [《花木兰》(2020) / Mulan (2020)](entities/Mulan2020Film.md) — 迪士尼真人改编案例，以天赋替代成长、转折铺垫不足与中国文化符号失去语境为主要争议。
+- [《末代皇帝》 / The Last Emperor](entities/TheLastEmperorFilm.md) — 被节目作为研究、人物、场景与语言较为协调的跨文化中国题材电影参照。
 - [YB (automotive guest)](entities/YBAutomotiveGuest.md) — 以德国汽车工程学习、行业与用车经验解释中国新能源车产业、产品和补能取舍的姓名未公开嘉宾。
 - [Sofia / 索菲亚 (alcohol creator)](entities/SofiaAlcoholCreator.md) — 酒类视频创作者与“半海”联合创始人，连接调酒教育、性别化评价与白酒品牌实践。
 - [Ban Hai / 半海](entities/BanHaiBaijiu.md) — 通过浓香白酒、鸡尾酒吧与餐厅渠道尝试重构年轻饮用场景的早期品牌。
@@ -18177,6 +18180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Decontextualized Cultural Symbol Collage / 去语境化文化符号拼贴](concepts/DecontextualizedCulturalSymbolCollage.md) — 识别可见文化符号在脱离历史、地理、制度、语言与叙事关系后如何变成失真拼贴。
 - [EV Industrial Leapfrogging / 电动车产业跨越式追赶](concepts/EVIndustrialLeapfrogging.md) — 以电动化改变发动机与变速箱积累优势，同时重建电池、电驱、供应链、制造、安全和基础设施能力的产业追赶机制。
 - [Software-Defined Vehicle / 软件定义汽车](concepts/SoftwareDefinedVehicle.md) — 由软件、连接、电子控制、OTA、付费功能和持久化设置持续塑造交付后能力，同时受硬件寿命与安全约束的汽车形态。
 - [Baijiu Drinking-Context Reframing / 白酒饮用场景重构](concepts/BaijiuDrinkingContextReframing.md) — 将白酒风味与强制应酬、送礼和豪饮拆分，再以自愿场景、鸡尾酒和适配渠道降低类别距离。

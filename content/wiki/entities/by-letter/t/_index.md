@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13448
+wiki_total_pages: 13450
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "TheDaughterOfTime"
     title: "《时间的女儿》 / The Daughter of Time"
     url: "/wiki/entities/thedaughteroftime/"
+  - key: "TheLastEmperorFilm"
+    title: "《末代皇帝》 / The Last Emperor"
+    url: "/wiki/entities/thelastemperorfilm/"
   - key: "TheCyberiad"
     title: "《机器人大师》 / The Cyberiad"
     url: "/wiki/entities/thecyberiad/"

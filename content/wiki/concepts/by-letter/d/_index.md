@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10476
+wiki_total_pages: 10477
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "DecisiveResourceCommitment"
     title: "Decisive Resource Commitment / 决断型资源投入"
     url: "/wiki/concepts/decisiveresourcecommitment/"
+  - key: "DecontextualizedCulturalSymbolCollage"
+    title: "Decontextualized Cultural Symbol Collage / 去语境化文化符号拼贴"
+    url: "/wiki/concepts/decontextualizedculturalsymbolcollage/"
   - key: "DecreasingStovesDeception"
     title: "Decreasing Stoves Deception / 减灶诱敌"
     url: "/wiki/concepts/decreasingstovesdeception/"

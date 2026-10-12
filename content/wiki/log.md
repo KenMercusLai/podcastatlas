@@ -36523,3 +36523,11 @@ Added source `ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosi
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP139-《花木兰》：好莱坞的一次东方想象
+
+Added source `ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav`; created [[Mulan2020Film|《花木兰》(2020)]], [[TheLastEmperorFilm|《末代皇帝》]], and [[DecontextualizedCulturalSymbolCollage|去语境化文化符号拼贴]]; and resynthesized [[HeroJourneyNarrative]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: recognizable cultural motifs do not produce cultural understanding unless period, place, institution, language, behavior, and narrative consequence cohere; Mulan's innate-qì disclosure weakens the training, failure, and responsibility that make heroic growth experiential; and foreign authorship remains compatible with credible Chinese storytelling when research, character, setting, and localization are integrated. No settled contradiction was adopted. Historical details, commercial figures, audience response, feminist and trans readings, creator intent, actor influence, and national audience psychology remain interpretive, dated, or source-scoped. Broad [[WushichaYanjiusuo|无时差研究所]], [[TheWaltDisneyCompany|The Walt Disney Company]], and [[FunctionalAdaptationFidelity|功能性改编忠实]] pages were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,574 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

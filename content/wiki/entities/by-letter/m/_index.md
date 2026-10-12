@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13448
+wiki_total_pages: 13450
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1946,6 +1946,9 @@ wiki_pages:
   - key: "MedeaPlay"
     title: "《美狄亚》 / Medea"
     url: "/wiki/entities/medeaplay/"
+  - key: "Mulan2020Film"
+    title: "《花木兰》(2020) / Mulan (2020)"
+    url: "/wiki/entities/mulan2020film/"
   - key: "MengusiFilm"
     title: "《蒙古斯》 / Mengusi"
     url: "/wiki/entities/mengusifilm/"

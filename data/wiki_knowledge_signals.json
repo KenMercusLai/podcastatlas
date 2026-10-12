@@ -64724,6 +64724,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/declarationoftherightsofwoman/"
     },
+    "DecontextualizedCulturalSymbolCollage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSMDRXiuBXwQfwBYLeAv [CMCoOSMDRXiuBXwQfwBYLeAv].md",
+          "key": "ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav",
+          "show": "无时差研究所",
+          "title": "EP139-《花木兰》：好莱坞的一次东方想象",
+          "url": "/wiki/sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/decontextualizedculturalsymbolcollage/"
+    },
     "DeepBrainStimulationPsychiatry": {
       "episode_count": 3,
       "show_count": 1,
@@ -120112,6 +120128,36 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/hernandopizarro/"
+    },
+    "HeroJourneyNarrative": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "122.匹诺曹：成长的惨痛及其所创作的 [777464172].md",
+          "key": "122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172",
+          "show": "蜜獾吃书",
+          "title": "122.匹诺曹：成长的惨痛及其所创作的",
+          "url": "/wiki/sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172/"
+        },
+        {
+          "episode_file": "CMCoOSMDRXiuBXwQfwBYLeAv [CMCoOSMDRXiuBXwQfwBYLeAv].md",
+          "key": "ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav",
+          "show": "无时差研究所",
+          "title": "EP139-《花木兰》：好莱坞的一次东方想象",
+          "url": "/wiki/sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/herojourneynarrative/"
     },
     "HeroMemoryPoliticalCredibility": {
       "episode_count": 1,
@@ -187317,6 +187363,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/muhammadaliofegypt/"
+    },
+    "Mulan2020Film": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSMDRXiuBXwQfwBYLeAv [CMCoOSMDRXiuBXwQfwBYLeAv].md",
+          "key": "ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav",
+          "show": "无时差研究所",
+          "title": "EP139-《花木兰》：好莱坞的一次东方想象",
+          "url": "/wiki/sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/mulan2020film/"
     },
     "MultiAgentCollaboration": {
       "episode_count": 9,
@@ -263002,6 +263064,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/thekeralastory/"
+    },
+    "TheLastEmperorFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSMDRXiuBXwQfwBYLeAv [CMCoOSMDRXiuBXwQfwBYLeAv].md",
+          "key": "ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav",
+          "show": "无时差研究所",
+          "title": "EP139-《花木兰》：好莱坞的一次东方想象",
+          "url": "/wiki/sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/thelastemperorfilm/"
     },
     "TheLifeOfJohnson": {
       "episode_count": 3,
