@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13445
+wiki_total_pages: 13447
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1142,6 +1142,9 @@ wiki_pages:
   - key: "Socrates"
     title: "Socrates / 苏格拉底"
     url: "/wiki/entities/socrates/"
+  - key: "SofiaAlcoholCreator"
+    title: "Sofia / 索菲亚 (alcohol creator)"
+    url: "/wiki/entities/sofiaalcoholcreator/"
   - key: "SoftBank"
     title: "SoftBank"
     url: "/wiki/entities/softbank/"

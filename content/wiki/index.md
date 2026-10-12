@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？](sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr.md) — 索菲亚从调酒创作、女性专业信任、酒吧体验与“半海”品牌实践，说明白酒年轻化首先要重构饮用场景与消费者选择权。
 - [EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？](sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw.md) — 无时差研究所从平台分工、品效合一、供应链同质化与资本周期错配解释营销机制，并以产品真实、渠道适配和理性消费划定边界。
 - [VOL.50耳鼻咽喉科｜你被鼻炎困扰多久了？试试这几招缓解办法｜抠鼻屎、止鼻血的误区](sources/vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizhao-huanjie-banfa-kou-bishi-zhi-bixue-de-wuqu-lsz_dxnzyvxtli_qc0i2goxn1yyk.md) — 谢道宇讲解鼻出血、鼻腔清洁、鼻炎与鼻窦炎分流、洗鼻和鼻喷药物的安全边界。
 - [338: Ireland: Home Rule, Mutiny - and Civil War? (Part 3)](sources/338-ireland-home-rule-mutiny-and-civil-war-part-3-glt5217836668.md) — The Rest Is History with Dan Jackson on the Parliament Act, mass Ulster resistance, Conservative support, rival volunteers, army uncertainty, and the unresolved 1914 coercion crisis.
@@ -4656,6 +4657,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve at Learning Using Neuroscience & AI | Dr. Terry Sejnowski](sources/how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069.md) — Huberman Lab interview connecting computational neuroscience, cognitive and procedural practice, sleep consolidation, problem incubation, and expert-AI partnership.
 
 ## Entities
+- [Sofia / 索菲亚 (alcohol creator)](entities/SofiaAlcoholCreator.md) — 酒类视频创作者与“半海”联合创始人，连接调酒教育、性别化评价与白酒品牌实践。
+- [Ban Hai / 半海](entities/BanHaiBaijiu.md) — 通过浓香白酒、鸡尾酒吧与餐厅渠道尝试重构年轻饮用场景的早期品牌。
 - [大众点评 / Dazhong Dianping](entities/DazhongDianping.md) — 本地生活发现、商家营销与用户评价激励交织的平台，其高等级影响力也带来评论独立性问题。
 - [Bonar Law](entities/BonarLaw.md) — Conservative leader who made armed Ulster resistance to Home Rule a national party cause.
 - [F. E. Smith](entities/FESmith.md) — Liverpool barrister and Conservative MP linking Carson's Ulster campaign to mainland rallies, elections, and volunteer spectacle.
@@ -18172,6 +18175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宝狐 / Bao Hu (Ni Kuang character)](entities/BaoHuCharacter.md) — 《宝狐》中由狐仙形象转为讯号式外星生命的非人伴侣，其爱情转变与认知影响保持歧义。
 
 ## Concepts
+- [Baijiu Drinking-Context Reframing / 白酒饮用场景重构](concepts/BaijiuDrinkingContextReframing.md) — 将白酒风味与强制应酬、送礼和豪饮拆分，再以自愿场景、鸡尾酒和适配渠道降低类别距离。
 - [Marketing Channel–Category Fit / 营销渠道与品类适配](concepts/MarketingChannelCategoryFit.md) — 按品类、决策风险、用户场景与渠道实际承担的发现、解释或成交角色选择营销路径。
 - [Consumer-Brand Supply-Chain Homogenization / 消费品牌供应链同质化](concepts/ConsumerBrandSupplyChainHomogenization.md) — 受限于合格工厂与小单能力时，产品趋同并把过多差异化压力推向包装和叙事。
 - [Consumer-Brand Capital–Time Mismatch / 消费品牌资本周期错配](concepts/ConsumerBrandCapitalTimeMismatch.md) — 投资人的快速增长退出周期与产品、门店、供应链、服务和复购的慢成熟周期之间的冲突。

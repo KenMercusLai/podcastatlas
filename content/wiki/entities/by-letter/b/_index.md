@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13445
+wiki_total_pages: 13447
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "BAMTech"
     title: "BAMTech"
     url: "/wiki/entities/bamtech/"
+  - key: "BanHaiBaijiu"
+    title: "Ban Hai / 半海"
+    url: "/wiki/entities/banhaibaijiu/"
   - key: "BandOfAngels"
     title: "Band of Angels"
     url: "/wiki/entities/bandofangels/"

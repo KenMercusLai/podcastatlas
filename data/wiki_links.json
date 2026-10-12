@@ -12383,6 +12383,10 @@
     "title": "Baijian",
     "url": "/wiki/entities/baijian/"
   },
+  "BaijiuDrinkingContextReframing": {
+    "title": "Baijiu Drinking-Context Reframing / 白酒饮用场景重构",
+    "url": "/wiki/concepts/baijiudrinkingcontextreframing/"
+  },
   "BailangMountainLateHan": {
     "title": "白狼山 / White Wolf Mountain (late Han)",
     "url": "/wiki/entities/bailangmountainlatehan/"
@@ -12478,6 +12482,10 @@
   "BanGuEasternHan": {
     "title": "班固 / Ban Gu (Eastern Han)",
     "url": "/wiki/entities/bangueasternhan/"
+  },
+  "BanHaiBaijiu": {
+    "title": "Ban Hai / 半海",
+    "url": "/wiki/entities/banhaibaijiu/"
   },
   "BanJieyuWesternHan": {
     "title": "班婕妤 / Ban Jieyu (Western Han)",
@@ -80935,6 +80943,10 @@
     "title": "Sodium-Water Homeostasis",
     "url": "/wiki/concepts/sodiumwaterhomeostasis/"
   },
+  "SofiaAlcoholCreator": {
+    "title": "Sofia / 索菲亚 (alcohol creator)",
+    "url": "/wiki/entities/sofiaalcoholcreator/"
+  },
   "SoftBank": {
     "title": "SoftBank",
     "url": "/wiki/entities/softbank/"
@@ -102150,6 +102162,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr": {
+    "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+    "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
   },
   "ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw": {
     "title": "EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10473
+wiki_total_pages: 10474
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "BaggedSaladIndustrialization"
     title: "Bagged Salad Industrialization"
     url: "/wiki/concepts/baggedsaladindustrialization/"
+  - key: "BaijiuDrinkingContextReframing"
+    title: "Baijiu Drinking-Context Reframing / 白酒饮用场景重构"
+    url: "/wiki/concepts/baijiudrinkingcontextreframing/"
   - key: "BalanceSheetMacroAnalysis"
     title: "Balance-Sheet Macro Analysis"
     url: "/wiki/concepts/balancesheetmacroanalysis/"

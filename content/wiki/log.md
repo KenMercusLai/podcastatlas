@@ -36507,3 +36507,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？
+
+Added source `ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr`; created [[SofiaAlcoholCreator|索菲亚]], [[BanHaiBaijiu|半海]], and [[BaijiuDrinkingContextReframing|白酒饮用场景重构]]; and resynthesized [[CocktailSensoryBalance]], [[SpeakeasyExperienceDesign]], [[CoerciveDrinkingHierarchy|强制饮酒与等级秩序]], and [[GenderedCreatorConfidence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: younger consumers may reject compulsory, gift-oriented, and heavy-drinking occasions more strongly than baijiu itself; cocktails, restaurant and bar channels, preference-led communication, and approachable stories can widen choice, but liquid quality, price, packaging, channel fit, and trust still decide whether reframing lasts. No settled contradiction was adopted. City and national bar comparisons, platform rules, whisky value, baijiu history, consumer segments, gender ratios, and brand performance remain 2020 practitioner or founder observations rather than representative evidence. The broad [[WushichaYanjiusuo|无时差研究所]] profile was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,572 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

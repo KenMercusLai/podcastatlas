@@ -24168,6 +24168,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/baijiaweiji/"
     },
+    "BaijiuDrinkingContextReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/baijiudrinkingcontextreframing/"
+    },
     "BailangMountainLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -24601,6 +24617,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/bangueasternhan/"
+    },
+    "BanHaiBaijiu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/banhaibaijiu/"
     },
     "BanJieyuWesternHan": {
       "episode_count": 4,
@@ -49427,9 +49459,9 @@
       "url": "/wiki/entities/cockpunch/"
     },
     "CocktailSensoryBalance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "wKgKjltvf-LheIlFA3lWs3EfVJk279 [wKgKjltvf-LheIlFA3lWs3EfVJk279].md",
@@ -49437,9 +49469,16 @@
           "show": "无时差研究所",
           "title": "EP28-纽约那些晚上不回家的人究竟在干嘛？（上）",
           "url": "/wiki/sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279/"
+        },
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/cocktailsensorybalance/"
     },
     "Codex": {
@@ -49822,9 +49861,9 @@
       "url": "/wiki/concepts/coercivecommodityextraction/"
     },
     "CoerciveDrinkingHierarchy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLbLocWonSLIQHGtuJvqICSdTGD [ljLbLocWonSLIQHGtuJvqICSdTGD].md",
@@ -49832,9 +49871,16 @@
           "show": "怪东西Weird History",
           "title": "6 喝得越少越文明？东西方的酒 & 酒文化",
           "url": "/wiki/sources/6-he-de-yue-shao-yue-wenming-dongxifang-de-jiu-jiu-wenhua-ljlblocwonsliqhgtujvqicsdtgd/"
+        },
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/coercivedrinkinghierarchy/"
     },
     "CoerciveFrontierDeterrence": {
@@ -103301,6 +103347,36 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/genderedconsortscapegoating/"
+    },
+    "GenderedCreatorConfidence": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
+          "key": "sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708",
+          "show": "蜜獾吃书",
+          "title": "sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”",
+          "url": "/wiki/sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708/"
+        },
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/genderedcreatorconfidence/"
     },
     "GenderedFandomDelegitimation": {
       "episode_count": 1,
@@ -247832,6 +247908,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/sodiumwaterhomeostasis/"
     },
+    "SofiaAlcoholCreator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/sofiaalcoholcreator/"
+    },
     "SoftBudgetFootballClubs": {
       "episode_count": 2,
       "show_count": 2,
@@ -249828,9 +249920,9 @@
       "url": "/wiki/concepts/spatialcomputing/"
     },
     "SpeakeasyExperienceDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "wKgKjltvf-LheIlFA3lWs3EfVJk279 [wKgKjltvf-LheIlFA3lWs3EfVJk279].md",
@@ -249838,9 +249930,16 @@
           "show": "无时差研究所",
           "title": "EP28-纽约那些晚上不回家的人究竟在干嘛？（上）",
           "url": "/wiki/sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279/"
+        },
+        {
+          "episode_file": "CMCoOR4DajwHBj_A0gBgTUyR [CMCoOR4DajwHBj_A0gBgTUyR].md",
+          "key": "ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr",
+          "show": "无时差研究所",
+          "title": "EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？",
+          "url": "/wiki/sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/speakeasyexperiencedesign/"
     },
     "SpeakingAnxietyManagement": {

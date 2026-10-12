@@ -4,7 +4,8 @@ type: concept
 tags: [nightlife, hospitality, experience-design, bars, urbanism]
 sources:
   - ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279
-last_updated: 2026-10-04
+  - ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Speakeasy experience design is the use of concealment, discovery, spatial contra
 
 [[ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279|EP28]] distinguishes historical clandestine necessity from the modern reuse of speakeasy imagery. A contemporary venue may hide behind a phone booth, hamburger shop, coffeehouse, barber shop, residential entrance, or basement because discovery creates anticipation and makes an ordinary frontage feel like a threshold into another social world.
 
-The episode also supplies a quality boundary. Concealment succeeds only when the room beyond it supports the promise through [[CocktailSensoryBalance|balanced drinks]], suitable music, attentive service, manageable waiting, and a coherent atmosphere. Please Don't Tell's memorable phone-booth entrance does not cancel the cost of an uncertain multi-hour wait, while Angel's Share earns stronger loyalty because technical care and flavor reinforce its hidden-room appeal.
+The sources also supply a quality boundary. Concealment succeeds only when the room beyond it supports the promise through [[CocktailSensoryBalance|balanced drinks]], suitable music, attentive service, manageable waiting, and a coherent atmosphere. Please Don't Tell's memorable phone-booth entrance does not cancel the cost of an uncertain multi-hour wait, while Angel's Share earns stronger loyalty because technical care and flavor reinforce its hidden-room appeal. [[ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr|EP143]] adds Shanghai venues such as Speak Low and Sober Company as cases where multiple rooms, progression, story, and technique turn the bar into a complete branded journey rather than a secret door alone.
 
 ## Key Claims
 
@@ -26,6 +27,7 @@ The episode also supplies a quality boundary. Concealment succeeds only when the
 - Contrast between an ordinary frontage and a transformed interior heightens novelty and memory.
 - Small, windowless, or tucked-away rooms can support intimacy but also create capacity and waiting problems.
 - A themed threshold cannot compensate indefinitely for weak drinks, poor service, or excessive friction.
+- Layered rooms and progression can extend discovery into a narrative journey after entry.
 - Historical language can inspire modern design without proving direct continuity from Prohibition-era venues.
 
 ## Evidence
@@ -34,14 +36,16 @@ The episode also supplies a quality boundary. Concealment succeeds only when the
 - Spatial contrast - [[ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279]] treats daytime-to-nighttime identity change as a source of surprise.
 - Quality boundary - [[ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279]] prefers Angel's Share's drinks and professional atmosphere over novelty by itself.
 - Friction boundary - [[ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279]] uses a failed two-and-a-half-hour wait for Please Don't Tell to show service cost overwhelming entrance appeal.
+- Branded journey - [[ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr]] uses Speak Low, Sober Company, hidden space, layered progression, and story to frame the whole venue as the product.
 
 ## Counterevidence & Qualifications
 
-The episode is a 2018 personal guide, not comparative hospitality research. Its account of Prohibition, the phrase “speak easy,” Back Room's continuity, and individual venue operations is not independently verified here. Concealment can also reduce accessibility, legibility, capacity, and spontaneous entry; the source evaluates these tradeoffs from an enthusiast's perspective rather than a regulatory or disability-access perspective.
+The evidence consists of a 2018 personal guide and a 2020 practitioner interview, not comparative hospitality research. Accounts of Prohibition, the phrase “speak easy,” Back Room's continuity, individual venue operations, city differences, and equipment rules are not independently verified here. Concealment and progression can also reduce accessibility, legibility, capacity, and spontaneous entry; the sources evaluate these tradeoffs from enthusiast and creator perspectives rather than regulatory or disability-access perspectives.
 
 ## What Changed
 
 - Created a framework separating the discovery value of concealment from the drink, service, and capacity conditions required for durable hospitality.
+- Extended the design object from a hidden threshold to a layered, branded venue journey.
 
 ## Related Concepts
 
