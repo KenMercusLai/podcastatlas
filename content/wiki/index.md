@@ -820,6 +820,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [22. Weird Wars](sources/22-weird-wars-glt2360848948.md) — The Rest Is History countdown on ten unfamiliar conflicts, memorable oddity, historical distance, political myth, and the ethics of keeping suffering visible.
 - [23. The 90s](sources/23-the-90s-glt8035489270.md) — The Rest Is History on recent-history method, 1990s nostalgia, post-Cold War instability, internet transformation, political memory, religion, and Brexit's preconditions.
 - [24. Sex in the City](sources/24-sex-in-the-city-glt9221135938.md) — The Rest Is History with Hallie Rubenhold on sexual-history evidence, prostitution, class, gender, respectability, and Georgian-Victorian continuity and change.
+- [EP157-困在拼多多的系统里：伟大的公司不应该让人感到害怕](sources/ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q.md) — 无时差研究所 with 王瑞恩 on unwritten overtime, performance pressure, delayed reward, workplace surveillance, labor evidence, and professional-versus-management career paths.
 - [EP160-我在美国自己建房子，美国也有学区房？](sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm.md) — 无时差研究所 with a Phoenix-area homeowner on builder-bounded new construction, mortgage closing, schools, upgrades, DIY, smart-home infrastructure, solar, and post-handover work.
 - [25. Empires](sources/25-empires-glt2896270746.md) — The Rest Is History on empire as coercive political order, legitimacy, integration, anti-imperial inheritance, nation-states, and the persistence of imperial forms.
 - [26. Witches](sources/26-witches-glt8850594772.md) — The Rest Is History with Susannah Lipscomb on diabolic witchcraft, Reformation anxiety, local grievance, gender, evidence, and the persistence of witch-hunt patterns.
@@ -8291,6 +8292,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
 - [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative practice, workplace, policy, identity, social play, and self-reflective podcast production.
+- [王瑞恩 / Wang Ruien](entities/WangRuien.md) — EP157 guest connecting Pinduoduo employee accounts to informed labor choice, evidence preservation, bargaining power, and career-path design.
 - [尚玉 / Shang Yu](entities/ShangYuArtGuest.md) — EP163 guest connecting ordinary art access to museums, art markets, provenance, curation, and career entry.
 - [金老师 / Jin Laoshi](entities/JinLaoshiArtist.md) — EP163 painter and multidisciplinary-art guest connecting creative unlearning, perception, and quiet attention.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
@@ -18430,6 +18432,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Phoney War](concepts/PhoneyWar.md) — Western lull joining Allied attritional caution to Hitler's fear of blockade, delay, and Allied rearmament.
 - [German Military Opposition to Hitler](concepts/GermanMilitaryOppositionToHitler.md) — Fragile 1939 officer opposition constrained by hierarchy, fear, uncertain legitimacy, and weak collective capacity.
 - [Coerced Voluntary Labor / 强制性自愿劳动](concepts/CoercedVoluntaryLabor.md) — Work labeled optional but made costly to refuse through evaluation, promotion, belonging, scheduling, or livelihood consequences.
+- [Labor Evidence Preservation / 劳动争议证据保全](concepts/LaborEvidencePreservation.md) — Lawful preservation of contemporaneous work records when overtime, transfer, forced exit, or dismissal later turns on proof.
+- [Dual-Track Career Ladder / 专业与管理双通道](concepts/DualTrackCareerLadder.md) — Advancement system that rewards deep professional contribution and people management as distinct, comparable paths.
 - [Corporate Values as Labor Control / 企业价值观劳动控制](concepts/CorporateValuesLaborControl.md) — Use of mission, gratitude, dreams, family belonging, or growth to moralize employer-imposed sacrifice.
 - [Work-Related Suicide Recognition / 过劳自杀工伤认定](concepts/WorkRelatedSuicideRecognition.md) — Attribution of suicide to work-caused mental illness and cumulative burden through evidence of actual control and safety failure.
 - [Employee-First Corporate Responsibility / 员工优先的企业社会责任](concepts/EmployeeFirstCorporateResponsibility.md) — Principle that external social good cannot substitute for safe, lawful, and genuinely rejectable work inside the company.

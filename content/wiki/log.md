@@ -36491,3 +36491,11 @@ Added source `vol-50-erbiyanhouke-ni-bei-biyan-kunrao-duojiu-le-shishi-zhe-jizha
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP157-困在拼多多的系统里：伟大的公司不应该让人感到害怕
+
+Added source `ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q`; created [[WangRuien|王瑞恩]], [[LaborEvidencePreservation|劳动争议证据保全]], and [[DualTrackCareerLadder|专业与管理双通道]]; and resynthesized [[Pinduoduo]], [[WushichaYanjiusuo|无时差研究所]], [[InvisibleOvertimeIncentiveTrap|隐形加班激励陷阱]], [[CoercedVoluntaryLabor|强制性自愿劳动]], and [[InternalizedOverwork|内化型过劳]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: targets, oral pressure, peer comparison, rapid performance feedback, options, delayed reward, manager presence, and surveillance can make overtime organizationally real while leaving it formally unwritten; this widens the proof gap, makes early lawful evidence preservation important, and supports separating expert advancement from people management. No settled contradiction was adopted. Internal company claims come from a small number of employee or former-employee conversations rather than representative investigation, and the guest's overseas legal education does not make the episode case-specific Chinese labor-law advice. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,570 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, log coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

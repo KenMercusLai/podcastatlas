@@ -5,7 +5,8 @@ tags: [workplace, overwork, responsibility, perfectionism]
 sources:
   - ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge
   - 2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc
-last_updated: 2026-10-10
+  - ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The sources show that workplace pressure does not operate only through direct or
 
 Internalization can also be organizationally manufactured. Scarce promotion, assessment-linked “volunteering,” founder-centered values, inadequate training, and praise for endurance can make extra labor appear self-chosen, as the [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc|Mori Mina case]] demonstrates. The useful boundary is therefore not indifference but calibrated responsibility plus employer accountability: distinguish consequential work from marginal polish, test whether refusal is genuinely available, make tradeoffs visible, and treat health, sleep, and non-work life as hard constraints.
 
+EP157 adds a reward-timing pattern. Frequent performance feedback can make effort immediately satisfying, while options, promotion, and future success defer the promised payoff. When workers are trained to interpret present sacrifice as proof of ambition, delayed gratification can become a self-renewing reason not to state current needs or limits.
+
 ## Key Claims
 - External work pressure can become self-sustaining when employees identify responsibility with unlimited completion.
 - Perfectionism can add unrequested labor even when managers have not explicitly demanded it.
@@ -26,6 +29,7 @@ Internalization can also be organizationally manufactured. Scarce promotion, ass
 - Assessment, advancement, and mission narratives can manufacture apparently voluntary self-escalation.
 - “Good enough” is a risk-calibrated stopping rule, not a license for careless or unsafe work.
 - Health, sleep, and life outside work are constraints on responsible performance rather than residual rewards.
+- Immediate performance recognition and delayed future reward can make present sacrifice feel personally chosen and indefinitely renewable.
 
 ## Evidence
 - Voluntary escalation - [[ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge]] says some additional labor comes from workers who cannot tolerate defects and keep filling organizational gaps.
@@ -33,13 +37,15 @@ Internalization can also be organizationally manufactured. Scarce promotion, ass
 - Embodied cost - [[ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge]] connects prolonged desk work, late nights, anxiety, sleep loss, pain, numbness, and emotional exhaustion to the need for a stopping boundary.
 - Organizational manufacture - [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc]] connects limited advancement, inadequate practical training, founder philosophy, performance-scored off-shift activity, and fear of giving up to severe excess labor.
 - Safety consequence - [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc]] shows why apparent self-escalation cannot absolve an employer when management sees excessive hours and deterioration but leaves the burden intact.
+- Reward timing - [[ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q]] connects frequent feedback, ranking, options, promotion, and delayed gratification to continued self-escalation.
 
 ## Counterevidence & Qualifications
-The sources do not establish the prevalence or relative causal weight of this mechanism. Some work has clinical, legal, safety, fiduciary, or engineering thresholds where additional checking is necessary. Internalized overwork should not be used to blame conscientious workers or convert organizational coercion into a personality problem; it identifies how marginal polish, role ambiguity, chronic gap-filling, and pressure presented as choice can become self-enforced labor.
+The sources do not establish the prevalence or relative causal weight of this mechanism. EP157's Pinduoduo account comes from a small number of employee conversations. Some work has clinical, legal, safety, fiduciary, or engineering thresholds where additional checking is necessary. Internalized overwork should not be used to blame conscientious workers or convert organizational coercion into a personality problem; it identifies how marginal polish, role ambiguity, chronic gap-filling, reward timing, and pressure presented as choice can become self-enforced labor.
 
 ## What Changed
 - Added organizational manufacture through assessment, promotion scarcity, mission, and nominal voluntariness.
 - Clarified that internalization does not transfer employer responsibility to worker personality.
+- Added immediate-feedback and delayed-reward timing as a mechanism sustaining self-escalation.
 
 ## Related Concepts
 - [[PerfectionismAsAvoidance]] - adjacent perfectionism mechanism, though internalized overwork produces excess completion rather than delayed action.

@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10468
+wiki_total_pages: 10470
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
     url: "/wiki/concepts/lisbonearthquake1755/"
+  - key: "LaborEvidencePreservation"
+    title: "Labor Evidence Preservation / 劳动争议证据保全"
+    url: "/wiki/concepts/laborevidencepreservation/"
   - key: "LaborIllusion"
     title: "Labor Illusion"
     url: "/wiki/concepts/laborillusion/"

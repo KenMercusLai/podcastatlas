@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10468
+wiki_total_pages: 10470
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1250,6 +1250,9 @@ wiki_pages:
   - key: "DualSystemVocationalEducation"
     title: "Dual-System Vocational Education / 双元制职业教育"
     url: "/wiki/concepts/dualsystemvocationaleducation/"
+  - key: "DualTrackCareerLadder"
+    title: "Dual-Track Career Ladder / 专业与管理双通道"
+    url: "/wiki/concepts/dualtrackcareerladder/"
   - key: "DualUseDefenseTechnology"
     title: "Dual-Use Defense Technology"
     url: "/wiki/concepts/dualusedefensetechnology/"
