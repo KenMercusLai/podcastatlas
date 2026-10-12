@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10483
+wiki_total_pages: 10485
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "GeopoliticalAntiAsianSpillover"
     title: "Geopolitical Anti-Asian Spillover / 地缘政治反亚裔外溢"
     url: "/wiki/concepts/geopoliticalantiasianspillover/"
+  - key: "GeopoliticalCorporateCommunicationLimits"
+    title: "Geopolitical Corporate Communication Limits / 地缘政治中的企业沟通边界"
+    url: "/wiki/concepts/geopoliticalcorporatecommunicationlimits/"
   - key: "GeopoliticalCriminalDeterrence"
     title: "Geopolitical Criminal Deterrence / 地缘犯罪威慑"
     url: "/wiki/concepts/geopoliticalcriminaldeterrence/"

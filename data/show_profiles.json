@@ -2466,14 +2466,20 @@
       "earliest_episode_date": "2018-06-02",
       "latest_episode_date": "2026-09-22",
       "latest_episode_file": "GKwRIJIOiF27Ag4hdwTbxhjB [GKwRIJIOiF27Ag4hdwTbxhjB].md",
-      "source_note_count": 34,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 35,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 7
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
         },
         {
           "key": "science",
@@ -2493,9 +2499,9 @@
       ],
       "start_here_episode_files": [
         "GKwRIRwOfzopAjzxYATYBPqR [GKwRIRwOfzopAjzxYATYBPqR].md",
+        "wKg5JV9dDTOTVCKWBgkes6BhU2Q322 [wKg5JV9dDTOTVCKWBgkes6BhU2Q322].md",
         "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
-        "GKwRIJIOiF27Ag4hdwTbxhjB [GKwRIJIOiF27Ag4hdwTbxhjB].md",
-        "GKwRIRwOdgRhAeuiTgTUGMXP [GKwRIRwOdgRhAeuiTgTUGMXP].md"
+        "GKwRIJIOiF27Ag4hdwTbxhjB [GKwRIJIOiF27Ag4hdwTbxhjB].md"
       ]
     },
     "日谈物语": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10483
+wiki_total_pages: 10485
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "OverseasInsuranceRisk"
     title: "Overseas Insurance Risk"
     url: "/wiki/concepts/overseasinsurancerisk/"
+  - key: "OverseasPublicRelations"
+    title: "Overseas Public Relations / 企业出海公关"
+    url: "/wiki/concepts/overseaspublicrelations/"
   - key: "OverseasWarehouseInventoryRisk"
     title: "Overseas Warehouse Inventory Risk / 海外仓库存风险"
     url: "/wiki/concepts/overseaswarehouseinventoryrisk/"

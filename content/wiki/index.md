@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP137-从TikTok事件聊聊企业出海公关有多难](sources/ep137-cong-tiktok-shijian-liaoliao-qiye-chuhai-gongguan-you-duo-nan-wkg5jv9ddtotvckwbgkes6bhu2q322.md) — 无时差研究所以TikTok的2020年美国危机区分本土化公关能力与企业无法单独化解的地缘政治约束。
 - [EP138-“来了就是深圳人”？](sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp.md) — 无时差研究所从三种迁居经验讨论深圳的移民城市归属、特区实验精神，以及住房、教育、医疗与长期定居的落差。
 - [EP139-《花木兰》：好莱坞的一次东方想象](sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav.md) — 无时差研究所从人物成长、女性主题、文化符号、语言本地化与疫情发行重读迪士尼真人版《花木兰》。
 - [EP142-时至今日你还看不起国产新能源车吗？](sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq.md) — 无时差研究所以2020年行业视角连接中国电动车产业追赶、供应链、安全、补能约束、增程路线与软件化未来，并将品牌判断限定为历史快照。
@@ -4661,6 +4662,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？](sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963.md) — 声动早咖啡以仁川、樟宜和法兰克福案例解释机场PPP、运营能力出海、系统协同与非航空收入。
 
 ## Entities
+- [Kevin Mayer / 凯文·梅耶尔](entities/KevinMayer.md) — TikTok 2020年危机中的短任全球CEO，体现高管本土化的价值与边界。
 - [《花木兰》(2020) / Mulan (2020)](entities/Mulan2020Film.md) — 迪士尼真人改编案例，以天赋替代成长、转折铺垫不足与中国文化符号失去语境为主要争议。
 - [《末代皇帝》 / The Last Emperor](entities/TheLastEmperorFilm.md) — 被节目作为研究、人物、场景与语言较为协调的跨文化中国题材电影参照。
 - [YB (automotive guest)](entities/YBAutomotiveGuest.md) — 以德国汽车工程学习、行业与用车经验解释中国新能源车产业、产品和补能取舍的姓名未公开嘉宾。
@@ -18185,6 +18187,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fraport / 法兰克福机场集团](entities/Fraport.md) — 以巴西、希腊和斯洛文尼亚机场组合分散本土客流波动的国际机场集团。
 
 ## Concepts
+- [Overseas Public Relations / 企业出海公关](concepts/OverseasPublicRelations.md) — 以当地公共价值、媒体独立、发言人能力、时效、公共事务和长期信任构成的跨境沟通能力。
+- [Geopolitical Corporate Communication Limits / 地缘政治中的企业沟通边界](concepts/GeopoliticalCorporateCommunicationLimits.md) — 当国家安全、双边竞争、出口规则和所有权约束超出企业传播可控范围时的边界模型。
 - [Decontextualized Cultural Symbol Collage / 去语境化文化符号拼贴](concepts/DecontextualizedCulturalSymbolCollage.md) — 识别可见文化符号在脱离历史、地理、制度、语言与叙事关系后如何变成失真拼贴。
 - [EV Industrial Leapfrogging / 电动车产业跨越式追赶](concepts/EVIndustrialLeapfrogging.md) — 以电动化改变发动机与变速箱积累优势，同时重建电池、电驱、供应链、制造、安全和基础设施能力的产业追赶机制。
 - [Software-Defined Vehicle / 软件定义汽车](concepts/SoftwareDefinedVehicle.md) — 由软件、连接、电子控制、OTA、付费功能和持久化设置持续塑造交付后能力，同时受硬件寿命与安全约束的汽车形态。
