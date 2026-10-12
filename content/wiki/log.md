@@ -36684,3 +36684,11 @@ Added source `zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-niming
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？
+
+Added source `zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls`; resynthesized [[CaoPi|曹丕]], [[ChangLinLateHan|常林]], [[GuoYuanInvestigatorLateHan|国渊]], [[ImperialRitualDistance|君臣礼制距离]], and [[SituationalStrictLenientGovernance|宽严相济的因时治理]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: exemptions from name, gait, sword, and footwear rules visibly lift Cao Cao above ordinary ministers without themselves completing dynastic transfer; proportional delegation keeps a politically valuable principal out of a low-value revolt; and an emergency no-pardon order should not be mechanically extended to controlled captives after conditions change, especially when irreversible punishment exceeds the subordinate's decision boundary. Guo Yuan's honest reporting of domestic disorder and literary-content clue form the prequel to Hanji 1128's investigation. No settled contradiction was adopted. The “usurpation three-piece set” label, universal psychological intent, exact rebel and captive figures, surrender-order wording, harvest gains, dialogue, offices, and chronology remain source-scoped. Broad Cao Cao and Emperor Xian profiles were kept closed because focused pages capture the durable additions without reopening their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,595 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

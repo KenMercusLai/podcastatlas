@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？](sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls.md) — 曹操以三项朝仪特权公开脱离普通臣列，曹丕在河间平叛后请示赦降，国渊则拒绝夸大境内战果并开启匿名信调查。
 - [《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？](sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh.md) — 国渊以文本知识缩小匿名信作者范围并比对笔迹，郑浑以防御、奖赏、交换与招降瓦解梁兴，吕蒙则以濡须坞为败退预设安全节点。
 - [Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅](sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974.md) — 蜉蝣天地对谈法国神父包智光，以物理与神学背景讨论信仰、自由、爱、良知、苦难及上帝的沉默。
 - [写一份《纪律.md》，代替我入市投资](sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf.md) — 面基把趋势交易写成可执行的纪律文件，并讨论低胜率肥尾收益、回测过拟合、规则型与因子型量化，以及注意力资产的产品设想。

@@ -5,7 +5,8 @@ tags: [governance, statecraft, late-han, law, political-thought]
 sources:
   - zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b
   - zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The current synthesis has two sides. When order is decayed and powerful actors e
 
 A Western Han succession example shows the same principle from the opposite angle. [[LiuJuCrownPrinceWesternHan|刘据]]'s leniency is not framed as inherently wrong: [[HanWudi|汉武帝]] reportedly sees him as a humane stabilizer for the post-expansion order. The risk comes from mismatch and audience: severe-law officials resent the crown prince's lighter punishments, while [[EmpressWeiZifuWesternHan|卫子夫]] fears that mercy against Wudi's harsh administrative climate will be read as disobedience. The source therefore reinforces that strictness and leniency are political tools whose effect depends on institutional moment, ruler judgment, and surrounding incentives.
 
+Hanji 1127 turns the theory into an order-interpretation problem. Cao Cao's earlier rule denies pardon to enemies who surrender only after encirclement, but once more than one thousand Hejian surrenderers are controlled, advisers argue that a wartime deterrent should not be mechanically carried into a more settled condition. The source preserves two boundaries: changed circumstances can justify leniency, yet subordinate discretion over military operations does not necessarily include authority for irreversible mass punishment. [[CaoPi|曹丕]] therefore asks Cao Cao, who pardons the captives.
+
 ## Key Claims
 
 - Strictness and leniency are not permanent moral identities; they are tools whose value depends on condition and target.
@@ -28,8 +31,8 @@ A Western Han succession example shows the same principle from the opposite angl
 - Harsh law can be legitimate as corrective medicine when disorder and elite impunity have made ordinary instruction ineffective.
 - Leniency and moral teaching remain necessary where order is stable or where excessive punishment has become part of the problem.
 - Mechanical imitation of ancient models is dangerous when it ignores time, person, institutional capacity, and enforcement reality.
-- The concept does not authorize domination: Sima Guang's qualification keeps severity subordinate to proportional, temporary correction.
-- Leniency can be a valid succession-stabilizing style, but it becomes politically exposed when harsh-law officials control the evaluation environment.
+- The concept does not authorize domination: severity remains a proportional, temporary correction, while valid leniency can still become politically exposed when harsh-law officials control the evaluation environment.
+- Temporary severity should not become a context-free standing rule after the emergency, target, and decision authority have changed.
 
 ## Evidence
 
@@ -40,14 +43,16 @@ A Western Han succession example shows the same principle from the opposite angl
 - Balance rule: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] closes by saying laxity should be corrected with strictness and oppressive strictness should be repaired with leniency.
 - Succession-stabilizing leniency: [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Han Wudi sees Liu Ju's humane steadiness as suitable for settling the realm after Wudi's own harsher expansionary work.
 - Evaluation mismatch: [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Liu Ju's lighter case handling pleases commoners but angers severe-law officials, making leniency a court-politics liability.
+- Post-capture reassessment: [[zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls|Hanji 1127]] distinguishes Cao Cao's wartime no-pardon order from a later decision over secured surrenderers and has Cao Pi seek authorization before irreversible punishment.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in two podcast sources with different emphases. Hanji 837 treats Cui Shi and Sima Guang as a political-theory frame; Hanji 384-2 adds a Liu Ju example but does not prove that leniency alone would have solved late-Wudi succession politics. The concept should not be used as a general claim that harsh punishment is good; Hanji 837 says Han law was already severe and that the relevant failure was elite impunity and weak enforcement. It also should not collapse into generic moderation, because the point is diagnostic fit, not always choosing a middle quantity of punishment.
+The concept is grounded in three podcast sources with different emphases. Hanji 837 treats Cui Shi and Sima Guang as a political-theory frame; Hanji 384-2 adds a Liu Ju example but does not prove that leniency alone would have solved late-Wudi succession politics; Hanji 1127 does not supply the full legal wording, rebel identities, captive count, or scope of delegated authority. The concept should not be used as a general claim that harsh punishment is good or that every later actor may suspend an earlier order. Its point is diagnostic fit plus an accountable decision process, not always choosing a middle quantity of punishment.
 
 ## What Changed
 
-- Added Hanji 384-2's Liu Ju branch, where leniency is potentially stabilizing but politically exposed inside a harsh-law evaluation environment.
+- Added the Hejian surrender debate as a concrete case of temporary severity being reassessed after conditions change.
+- Made the authority boundary explicit: situational adaptation does not automatically license a subordinate to make irreversible punishment decisions.
 
 ## Related Concepts
 
@@ -58,3 +63,4 @@ The concept is grounded in two podcast sources with different emphases. Hanji 83
 - [[LiuJuCrownPrinceWesternHan|卫太子刘据]] - Western Han heir whose lenient style becomes a succession and court-feedback exposure.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - disorder condition in which silence, failed orders, and elite impunity make correction harder.
 - [[MeritBasedRewardPunishment|因功赏罚]] - enforcement-credibility branch where rewards and punishments must remain matched to conduct.
+- [[CaoPi|曹丕]] - actor who refers the Hejian punishment question upward rather than treating discretion as unlimited.

@@ -37598,9 +37598,9 @@
       "url": "/wiki/entities/caokuwesternhan/"
     },
     "CaoPi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
@@ -37615,9 +37615,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？ [liVRH3OBoBkcfhj_NgNhe-KgV2LS].md",
+          "key": "zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/caopi/"
     },
     "CaoRen": {
@@ -40762,9 +40769,9 @@
       "url": "/wiki/entities/changhuiwesternhan/"
     },
     "ChangLinLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？ [lpiw4EBdO2s5CUcfCpMPKrhfnUBi].md",
@@ -40772,9 +40779,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？ [liVRH3OBoBkcfhj_NgNhe-KgV2LS].md",
+          "key": "zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/changlinlatehan/"
     },
     "ChangXiLateHan": {
@@ -113076,9 +113090,9 @@
       "url": "/wiki/entities/guoyilatehan/"
     },
     "GuoYuanInvestigatorLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
@@ -113086,6 +113100,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？ [liVRH3OBoBkcfhj_NgNhe-KgV2LS].md",
+          "key": "zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls/"
         }
       ],
       "updated": "2026-10-13",
@@ -132836,9 +132857,9 @@
       "url": "/wiki/concepts/imperialrisedeclinecycle/"
     },
     "ImperialRitualDistance": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -132867,9 +132888,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？ [liVRH3OBoBkcfhj_NgNhe-KgV2LS].md",
+          "key": "zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/imperialritualdistance/"
     },
     "ImperialRoadSystems": {
@@ -246891,9 +246919,9 @@
       "url": "/wiki/concepts/situationalcharactertests/"
     },
     "SituationalStrictLenientGovernance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？ [luZNyZqldWdRbKFM7CE_1huuxm7B].md",
@@ -246908,9 +246936,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》384-2｜有多善良就有多惨？揭秘被嫌弃的太子刘据",
           "url": "/wiki/sources/zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？ [liVRH3OBoBkcfhj_NgNhe-KgV2LS].md",
+          "key": "zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/situationalstrictlenientgovernance/"
     },
     "SixiaoComedy": {
