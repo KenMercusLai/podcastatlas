@@ -20002,9 +20002,9 @@
       "url": "/wiki/entities/arthursmithwoodward/"
     },
     "ArthurianLegendAccretion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -20012,15 +20012,22 @@
           "show": "The Rest Is History",
           "title": "19. King Arthur",
           "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        },
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/arthurianlegendaccretion/"
     },
     "ArthurianPoliticalLegitimation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -20028,9 +20035,16 @@
           "show": "The Rest Is History",
           "title": "19. King Arthur",
           "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        },
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/arthurianpoliticallegitimation/"
     },
     "ArticlesOfConfederation": {
@@ -76458,9 +76472,9 @@
       "url": "/wiki/entities/edwardiiofengland/"
     },
     "EdwardIOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3062961015 [GLT3062961015].md",
@@ -76468,9 +76482,16 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/edwardiofengland/"
     },
     "EdwardIV": {
@@ -104948,9 +104969,9 @@
       "url": "/wiki/entities/geoffreyjacksondiplomat/"
     },
     "GeoffreyOfMonmouth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -104958,9 +104979,16 @@
           "show": "The Rest Is History",
           "title": "19. King Arthur",
           "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        },
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/geoffreyofmonmouth/"
     },
     "GeometricUnity": {
@@ -149780,9 +149808,9 @@
       "url": "/wiki/entities/kinderhymne/"
     },
     "KingArthur": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -149790,9 +149818,16 @@
           "show": "The Rest Is History",
           "title": "19. King Arthur",
           "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        },
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/kingarthur/"
     },
     "KingFaisal": {
@@ -153789,6 +153824,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/lejinlatehan/"
+    },
+    "LeMorteDarthur": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/lemortedarthur/"
     },
     "LeSports": {
       "episode_count": 2,
@@ -265514,6 +265565,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/thomaslaffont/"
+    },
+    "ThomasMalory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2516166521 [GLT2516166521].md",
+          "key": "713-king-arthur-the-once-future-king-part-1-glt2516166521",
+          "show": "The Rest Is History",
+          "title": "713. King Arthur: The Once & Future King (Part 1)",
+          "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/thomasmalory/"
     },
     "ThomasMastermanHardy": {
       "episode_count": 1,

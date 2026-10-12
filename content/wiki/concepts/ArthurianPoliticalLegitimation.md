@@ -4,7 +4,8 @@ type: concept
 tags: [arthurian, political-memory, kingship, britain, legitimacy]
 sources:
   - 19-king-arthur-glt1076701162
-last_updated: 2026-10-04
+  - 713-king-arthur-the-once-future-king-part-1-glt2516166521
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,9 +17,9 @@ Arthurian political legitimation is the reuse of [[KingArthur|King Arthur]] and 
 
 ## Current Synthesis
 
-[[19-king-arthur-glt1076701162]] shows that Arthur's political value came partly from ambiguity. Welsh tradition could imagine the return of a Brittonic hero and recovery of lost lowlands; Norman and English rulers could instead inherit Arthur as precedent for sovereignty over all Britain. Edward I could celebrate Arthurian kingship while opposing a Welsh return prophecy, and Glastonbury's claimed discovery of Arthur and Guinevere could weaken expectation of a returning king while also attracting prestige and pilgrims.
+[[19-king-arthur-glt1076701162]] shows that Arthur's political value came partly from ambiguity: Welsh tradition could imagine a Brittonic hero's return, while Norman and English rulers could inherit him as precedent for rule over all Britain. [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] makes the institutional sequence more precise. After Glastonbury Abbey's 1184 fire, its monks' 1191 claim to have found Arthur, Guinevere, and an identifying lead cross joined Avalon to fundraising and pilgrimage; in 1278 [[EdwardIOfEngland|Edward I]] and Eleanor reburied the alleged remains during the struggle against Llywelyn ap Gruffudd.
 
-The mechanism works through selection rather than uniform belief. A ruler, monastery, region, or writer need not accept every part of the cycle to benefit from one genealogy, tomb, sword, castle, prophecy, or conquest. That portability later supports [[ImperialCartographicMythmaking]], in which Arthurian precedent helps frame British overseas claims.
+The same body could do two kinds of work: make Edward heir to an ancient united-Britain king and answer Welsh, Cornish, and Breton traditions that Arthur remained alive. The mechanism depends on selective appropriation rather than uniform belief. A ruler or monastery need not accept every part of the cycle to benefit from one tomb, prophecy, genealogy, object, or conquest, and financial interest need not prove that every participant was insincere.
 
 ## Key Claims
 
@@ -42,19 +43,21 @@ The mechanism works through selection rather than uniform belief. A ruler, monas
 ### Edwardian containment
 
 - [[19-king-arthur-glt1076701162]] argues that Edward I valued Arthur as a model of Britain-wide rule while rejecting the politically threatening Welsh expectation of his return.
+- [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] ties the 1278 reburial to Edward's Welsh campaigns and explains how displaying the alleged corpse could absorb Arthur into English kingship while challenging return belief.
 
 ### Monastic and place-based interest
 
 - [[19-king-arthur-glt1076701162]] presents Glastonbury's tomb claim as both political evidence of Arthur's death and a financially useful attraction, while Tintagel's deliberately archaic castle converts literary association into built landscape.
+- [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] places the discovery seven years after Glastonbury's destructive fire and identifies the abbey's rebuilding need as a strong incentive without treating motive as authentication.
 
 ## Counterevidence & Qualifications
 
-The episode does not establish the private beliefs or singular motives of every ruler, monk, writer, pilgrim, or visitor. Political usefulness does not prove centralized fabrication, and financial benefit does not by itself disprove sincere devotion. Claims about Edward I, Glastonbury's discovery, Tintagel's builder, and the precise chronology of return belief require fuller primary-source comparison.
+The sources do not establish the private beliefs or singular motives of every ruler, monk, writer, pilgrim, or visitor. Political usefulness does not prove centralized fabrication, and financial benefit does not alone disprove devotion. The bones and cross are not authenticated here; the exact relationship among the 1184 fire, 1191 discovery, 1278 ceremony, Welsh conquest, and particular return traditions requires fuller primary-source comparison.
 
 ## What Changed
 
-- Established a framework joining Welsh restoration hope, Britain-wide monarchy, monastic place-making, and later imperial reuse without treating them as one ideology.
-- Distinguished selective political usefulness from complete belief in the Arthurian cycle.
+- Added the fire-discovery-reburial sequence that joins monastic finance, pilgrimage, conquest, and royal ritual.
+- Sharpened the double use of Arthur's alleged corpse as both English inheritance and closure of rival return hopes.
 
 ## Related Concepts
 
@@ -63,3 +66,4 @@ The episode does not establish the private beliefs or singular motives of every 
 - [[ImperialCartographicMythmaking]] - early modern extension of Arthurian precedent into Atlantic claims.
 - [[HistoricalMemoryContest]] - broader process through which groups assign conflicting meanings to a shared past.
 - [[RitualObjectLegendFormation]] - adjacent mechanism by which material objects and explanatory stories reinforce authority.
+- [[EdwardIOfEngland]] - ruler whose Glastonbury ceremony materialized the inheritance-and-containment strategy.

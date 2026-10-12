@@ -36562,3 +36562,11 @@ Added source `ep-51-building-ai-agents-that-actually-work-in-production`; create
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | 713. King Arthur: The Once & Future King (Part 1)
+
+Added source `713-king-arthur-the-once-future-king-part-1-glt2516166521`; created [[ThomasMalory]] and [[LeMorteDarthur]]; and resynthesized [[KingArthur]], [[GeoffreyOfMonmouth]], [[EdwardIOfEngland]], [[ArthurianLegendAccretion]], and [[ArthurianPoliticalLegitimation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the sparse Welsh Camlann notice does not contain the later plot; Geoffrey develops Mordred's betrayal, a Cornish battle, and unresolved treatment at Avalon; Malory turns those inherited layers into a Wars of the Roses-inflected tragedy whose competing death, healing, and return endings sustain Arthur's durability. Glastonbury's post-fire grave claim and Edward I's 1278 reburial join monastic finance and pilgrimage to an English claim of all-Britain inheritance and an attempt to close Welsh, Cornish, and Breton return traditions. No settled contradiction was adopted. Camlann's location and historicity, the Glastonbury remains, Malory's exact identity and motives, Geoffrey's source debts, Edward's private belief, and the causal weight of Wars of the Roses context remain disputed or source-scoped. Broad [[TheRestIsHistory]] and [[WarsOfTheRoses]] profiles were kept closed because the focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,579 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

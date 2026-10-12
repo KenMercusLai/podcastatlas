@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13456
+wiki_total_pages: 13458
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "LeCorbeauFilm"
     title: "Le Corbeau"
     url: "/wiki/entities/lecorbeaufilm/"
+  - key: "LeMorteDarthur"
+    title: "Le Morte Darthur"
+    url: "/wiki/entities/lemortedarthur/"
   - key: "LeVanElgindi"
     title: "Le Van Elgindi"
     url: "/wiki/entities/levanelgindi/"

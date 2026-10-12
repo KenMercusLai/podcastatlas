@@ -4,7 +4,8 @@ type: entity
 tags: [legend, post-roman-britain, medieval-literature, kingship, political-memory]
 sources:
   - 19-king-arthur-glt1076701162
-last_updated: 2026-10-04
+  - 713-king-arthur-the-once-future-king-part-1-glt2516166521
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,13 +13,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-King Arthur is an uncertain post-Roman British hero transformed by medieval history, Welsh tradition, romance, political legitimation, sacred quest, and modern fantasy into the ruler of Camelot and the promised “once and future king.”
+King Arthur is an uncertain post-Roman British hero transformed by Welsh tradition, medieval history, romance, political legitimation, and modern retelling into the ruler of Camelot whose apparent death leaves open the hope of return.
 
 ## Current Profile
 
-[[19-king-arthur-glt1076701162]] does not resolve Arthur's historicity. Gildas describes post-Roman conflict, Ambrosius Aurelianus, and the Battle of Badon without naming Arthur; Bede and the *Anglo-Saxon Chronicle* also omit him, while the Arthurian battle list associated with Nennius and early Welsh references survive through later textual transmission. This supports skepticism about one recoverable commander without proving that every element lacks an earlier historical or oral basis.
+Neither source resolves Arthur's historicity. [[19-king-arthur-glt1076701162]] contrasts Gildas's silence with later battle lists and Welsh references; [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] adds the *Annales Cambriae* notice that Arthur and Medraut fell at Camlann in 537, but the entry does not identify their relationship, the victor, the battlefield, or the event behind the tradition. Together they support skepticism about a recoverable biography without proving that every layer lacks an earlier oral or historical basis.
 
-The historically firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmouth]] enlarged him into a ruler of Britain and continental conqueror; romance added or reorganized Camelot, [[Merlin]], Excalibur, Lancelot, Guinevere, and the [[HolyGrail|Holy Grail]]. [[ArthurianPoliticalLegitimation]] then let Welsh, Norman, and English actors use him for restoration, conquest, and all-Britain monarchy, while later writers and films kept translating his hidden identity, ideal fellowship, betrayal, civil war, and return into new moral worlds.
+The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmouth]] expanded Mordred's betrayal, Camlann, and Avalon into a connected pseudo-history; [[ThomasMalory|Thomas Malory's]] [[LeMorteDarthur|Le Morte Darthur]] made Excalibur's return, the mysterious voyage, civil-war collapse, and possible recovery into an influential English ending. [[ArthurianPoliticalLegitimation]] then let Welsh return hopes, Glastonbury's alleged grave, and English claims to all-Britain monarchy compete over whether Arthur was dead, available, or politically inheritable.
 
 ## Key Characteristics
 
@@ -26,7 +27,7 @@ The historically firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geof
 - Possible composite or folkloric hero attached retrospectively to Badon and resistance to Saxon expansion.
 - Welsh and wider Brittonic culture hero associated with lost sovereignty and promised return.
 - Medieval universal king reshaped decisively by Geoffrey of Monmouth and later romance.
-- Center of a flexible story system joining kingship, fellowship, sacred objects, love, betrayal, and civil war.
+- Center of a flexible story system joining kingship, fellowship, sacred objects, love, betrayal, civil war, and possible restoration.
 - Political symbol useful to rulers, monasteries, local places, tourists, writers, and modern popular culture.
 - Enduring figure whose ambiguity invites continued belief, skepticism, and reinvention.
 
@@ -34,32 +35,38 @@ The historically firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geof
 
 ### Historical uncertainty
 
-- [[19-king-arthur-glt1076701162]] contrasts Gildas's silence about Arthur with later Welsh material and Nennius's twelve-battle tradition, while noting that absence cannot conclusively prove nonexistence.
+- [[19-king-arthur-glt1076701162]] contrasts Gildas's silence about Arthur with later Welsh material and Nennius's twelve-battle tradition.
+- [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] shows how little the Camlann notice establishes beyond the paired names and fall tradition.
 
 ### Medieval transformation
 
-- [[19-king-arthur-glt1076701162]] presents Geoffrey's history as the decisive expansion of Arthur into an all-Britain and continental monarch and traces later romance motifs including Excalibur, Lancelot, Guinevere, and the Grail.
+- [[19-king-arthur-glt1076701162]] presents Geoffrey's history as the decisive expansion of Arthur into an all-Britain and continental monarch and traces later romance motifs.
+- [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] separates the sparse Camlann tradition, Geoffrey's developed betrayal and Avalon account, and Malory's final-battle synthesis.
 
 ### Political and spatial reuse
 
-- [[19-king-arthur-glt1076701162]] connects Welsh restoration hopes, Norman and English kingship, Edward I, Tintagel, and Glastonbury to competing uses of Arthurian authority.
+- [[19-king-arthur-glt1076701162]] connects Welsh restoration hopes, Norman and English kingship, Tintagel, and Glastonbury to competing uses of Arthurian authority.
+- [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] makes the opposition concrete through Glastonbury's claimed grave and Edward I's public reburial of the supposed remains.
 
 ### Narrative durability
 
-- [[19-king-arthur-glt1076701162]] explains Arthur's appeal through hidden royal identity, Camelot's lost golden age, the Round Table's collapse, and the possibility of return.
+- [[19-king-arthur-glt1076701162]] explains Arthur's appeal through hidden royal identity, Camelot's lost golden age, and possible return.
+- [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] shows how Malory sustains that return by refusing to choose decisively among death, healing at Avalon, and future restoration.
 
 ## Qualifications
 
-The page describes the episode's conversational synthesis, not a complete assessment of early British archaeology, genetics, linguistics, manuscript dating, or Arthurian literary history. A missing name in Gildas is significant but not dispositive; later attestation does not by itself prove invention; and a composite hypothesis remains possible without being demonstrated. Details about Badon, Tintagel, Glastonbury, Geoffrey's models, royal motives, and motif transmission remain disputed or source-scoped.
+These sources are popular-history discussions, not a complete assessment of early British archaeology, linguistics, manuscripts, or Arthurian literature. A missing name in Gildas is significant but not dispositive, and the *Annales Cambriae* notice does not authenticate Malory's plot or locate Camlann. Badon, the battle site, Glastonbury's bones, Geoffrey's models, Malory's source use, royal motives, and motif transmission remain disputed or source-scoped.
 
 ## What Changed
 
-- Established a profile that keeps historical agnosticism separate from the well-attested literary and political afterlife.
-- Identified Arthur's adaptability across Welsh memory, medieval monarchy, romance, sacred quest, and modern fantasy as the durable finding.
+- Sharpened the evidence boundary by separating the terse Camlann notice from Geoffrey's and Malory's later narrative detail.
+- Added the unresolved death-healing-return ending as a mechanism of Arthur's political and literary durability.
 
 ## Relationships
 
 - [[GeoffreyOfMonmouth]] - author who gave Arthur his most influential medieval historical scale.
+- [[ThomasMalory]] - author who gave Arthur's final battle and possible return an influential English synthesis.
+- [[LeMorteDarthur]] - work that preserves competing endings for Arthur after Camlann.
 - [[ArthurianLegendAccretion]] - process that assembled the familiar king from uneven textual and cultural layers.
 - [[ArthurianPoliticalLegitimation]] - framework for Arthur's use in claims about sovereignty, conquest, and restoration.
 - [[Merlin]] - prophet and adviser integrated into Arthur's royal story.

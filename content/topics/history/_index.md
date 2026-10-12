@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2750
+topic_total_pages: 2751
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7158,6 +7158,9 @@ topic_sources:
   - key: "712-the-terror-the-fall-of-robespierre-part-6-glt1154404105"
     title: "712. The Terror: The Fall of Robespierre (Part 6)"
     url: "/wiki/sources/712-the-terror-the-fall-of-robespierre-part-6-glt1154404105/"
+  - key: "713-king-arthur-the-once-future-king-part-1-glt2516166521"
+    title: "713. King Arthur: The Once & Future King (Part 1)"
+    url: "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
   - key: "72-the-vietnam-war-glt4906340188"
     title: "72. The Vietnam War"
     url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"
