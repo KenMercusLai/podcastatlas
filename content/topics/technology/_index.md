@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3497
+topic_total_pages: 3501
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3649,6 +3649,9 @@ topic_concepts:
   - key: "PhotolithographyBottleneck"
     title: "Photolithography Bottleneck"
     url: "/wiki/concepts/photolithographybottleneck/"
+  - key: "PhotonicMatrixComputing"
+    title: "Photonic Matrix Computing"
+    url: "/wiki/concepts/photonicmatrixcomputing/"
   - key: "PhysicalAGI"
     title: "Physical AGI"
     url: "/wiki/concepts/physicalagi/"
@@ -3862,6 +3865,9 @@ topic_concepts:
   - key: "QuantitativeDataMoat"
     title: "Quantitative Data Moat"
     url: "/wiki/concepts/quantitativedatamoat/"
+  - key: "QuantumComputingCommercializationGap"
+    title: "Quantum Computing Commercialization Gap"
+    url: "/wiki/concepts/quantumcomputingcommercializationgap/"
   - key: "QuantumCryptographicMigration"
     title: "Quantum Cryptographic Migration"
     url: "/wiki/concepts/quantumcryptographicmigration/"
@@ -6812,6 +6818,9 @@ topic_entities:
   - key: "MartinKutter"
     title: "Martin Kutter"
     url: "/wiki/entities/martinkutter/"
+  - key: "MartinShkreli"
+    title: "Martin Shkreli"
+    url: "/wiki/entities/martinshkreli/"
   - key: "MarylandTransportationAuthority"
     title: "Maryland Transportation Authority"
     url: "/wiki/entities/marylandtransportationauthority/"
@@ -9768,6 +9777,9 @@ topic_sources:
   - key: "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128"
     title: "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery"
     url: "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what"
+    title: "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
   - key: "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128"
     title: "Meta and Microsoft report different AI earnings"
     url: "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"

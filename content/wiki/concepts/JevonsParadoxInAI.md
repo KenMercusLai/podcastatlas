@@ -13,7 +13,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573
   - all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175
   - all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645
-last_updated: 2026-10-07
+  - all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what
+last_updated: 2026-10-13
 ---
 
 # Jevons Paradox In AI
@@ -22,7 +23,9 @@ last_updated: 2026-10-07
 Jevons paradox in AI is the rebound pattern in which lower cost or resource use per token, task, or unit of capability makes more AI usage worthwhile, potentially increasing total compute, memory, storage, energy, water, and infrastructure demand.
 
 ## Current Synthesis
-Across the sources, efficiency changes behavior as well as unit economics. Cheaper tokens invite more users, calls, agent loops, context, model routing, media generation and knowledge work; better memory use supports longer workflows; and lower-power substrates could move AI into more facilities, devices and robots. If image generation falls from minutes to seconds, users may generate more images rather than hold total usage constant. A software-labor version is also plausible: cheaper code can increase company formation, internal-tool creation, and demand for engineers even while particular roles or SaaS cash flows remain exposed. The rebound is plausible but not automatic: aggregate demand depends on price elasticity, useful applications, capital, power, regulation, substitution and whether quality-adjusted costs actually fall. Environmental burdens therefore cannot be inferred from device efficiency alone.
+Across the sources, efficiency changes behavior as well as unit economics. Cheaper tokens invite more users, calls, agent loops, context, model routing, media generation and knowledge work; better memory use supports longer workflows; and lower-power substrates could move AI into more facilities, devices and robots. If image generation falls from minutes to seconds, users may generate more images rather than hold total usage constant. A software-labor version is also plausible: cheaper code can increase company formation, internal-tool creation, and demand for engineers even while particular roles or SaaS cash flows remain exposed.
+
+Shkreli's architecture example sharpens the threshold. A very large efficiency gain from photonic or other compute could expand total intelligence consumption while still reducing demand for a particular incumbent accelerator if usage grows by less than the efficiency factor or shifts to another substrate. Jevons is therefore an aggregate-demand hypothesis, not protection for every supplier, asset, energy forecast, or installed fleet. The rebound is plausible but not automatic: aggregate demand depends on price elasticity, useful applications, capital, power, regulation, substitution and whether quality-adjusted costs actually fall. Environmental burdens cannot be inferred from device efficiency alone.
 
 ## Key Claims
 - Lower per-token or per-task cost can unlock workloads that were previously uneconomic or psychologically too expensive to attempt.
@@ -31,7 +34,7 @@ Across the sources, efficiency changes behavior as well as unit economics. Cheap
 - Memory and storage efficiency can raise total demand by enabling longer contexts, more saved state, and more recoverable workflows.
 - Cheaper knowledge production may increase company formation and demand for reviewed human outputs, although effects on particular roles, entry-level work, wages, and incumbent software revenue remain contested.
 - Per-use efficiency does not guarantee lower aggregate energy, water, materials, or infrastructure demand.
-- A 1,000-fold hardware improvement would create new deployment possibilities, but the claim that consumption will rise by more than 1,000-fold is a forecast, not a demonstrated outcome.
+- A large hardware improvement can expand deployment while still hurting a particular supplier if demand grows by less than the efficiency gain or moves to a different architecture.
 
 ## Evidence
 - Token and agent demand: [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]], [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], and [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] describe falling token prices, routing, local execution, and repeated agent loops expanding use.
@@ -41,15 +44,17 @@ Across the sources, efficiency changes behavior as well as unit economics. Cheap
 - Environmental boundary: [[kate-crawford-mapping-empires]] argues that wider embedding can increase total energy, water, minerals, land, and waste even as individual generations become cheaper.
 - Architectural-efficiency forecast: [[all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573]] predicts that 1,000-fold cheaper computation could drive more than 1,000-fold consumption and enable distributed AI and robotics.
 - Latency and media generation: [[all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175]] gives IREN's source-scoped example that faster image generation can induce users to make more images, while CoreWeave links sharply falling token prices with lower barriers to creating software, research and media products.
+- Supplier-level boundary: [[all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what]] argues that photonic or model-architecture efficiency could increase total intelligence use but still reduce [[Nvidia]] demand if the rebound is smaller than the performance gain.
 
 ## Counterevidence & Qualifications
-Jevons paradox is not a law that guarantees aggregate growth. Saturation, weak demand, regulation, capital limits, model-quality ceilings, energy scarcity, hardware supply, environmental policy, or substitution away from other activities can weaken or reverse the rebound. IREN's image example and the All-In hiring and company-formation claims are operator or market commentary, not elasticity estimates. Total environmental impact depends on the energy mix, water system, hardware lifecycle, utilization and displaced alternatives. Cheaper knowledge work can increase output demand while still reducing particular roles, entry-level pathways, or incumbent software cash flows.
+Jevons paradox is not a law that guarantees aggregate growth. Saturation, weak demand, regulation, capital limits, model-quality ceilings, energy scarcity, hardware supply, environmental policy, or substitution away from other activities can weaken or reverse the rebound. IREN's image example, Shkreli's photonic scenario, and the All-In hiring and company-formation claims are operator or market commentary, not elasticity estimates. Aggregate compute growth can coexist with lower demand for a specific chip, architecture, company, labor category, or software product. Total environmental impact depends on the energy mix, water system, hardware lifecycle, utilization and displaced alternatives.
 
 ## What Changed
 - Added latency reduction and image generation as a concrete rebound mechanism.
 - Added falling token costs as a lower-barrier channel for new software, research and creative workloads.
 - Added the software-labor version through company formation, hiring claims, and internal-agent deployment.
 - Preserved the new demand claims as operator forecasts rather than measured elasticity.
+- Added the supplier-level boundary: aggregate rebound does not guarantee that demand outruns a large efficiency gain for an incumbent architecture.
 
 ## Related Concepts
 - [[AIInferenceCostStructure]] - unit-cost frame whose decline can trigger additional usage.
@@ -61,3 +66,4 @@ Jevons paradox is not a law that guarantees aggregate growth. Saturation, weak d
 - [[AIMetabolicInfrastructure]] - environmental accounting frame for total energy, water, materials, and waste.
 - [[EntryLevelAICareerLadderRisk]] - labor-market counterpoint to claims that cheaper knowledge work expands employment.
 - [[SaaSCashFlowSurvivalRisk]] - value-capture counterpoint showing that aggregate software demand can grow while incumbent cash flows weaken.
+- [[PhotonicMatrixComputing]] - architecture example where efficiency and substrate substitution can occur together.

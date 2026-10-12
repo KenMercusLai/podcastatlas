@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 10522
+wiki_total_pages: 10525
 wiki_pages:
   - key: "QatariSmallStateSecurityStrategy"
     title: "Qatari Small-State Security Strategy"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "QuantityChangeQualityChange"
     title: "Quantity Change to Quality Change / 量变引发质变"
     url: "/wiki/concepts/quantitychangequalitychange/"
+  - key: "QuantumComputingCommercializationGap"
+    title: "Quantum Computing Commercialization Gap"
+    url: "/wiki/concepts/quantumcomputingcommercializationgap/"
   - key: "QuantumCryptographicMigration"
     title: "Quantum Cryptographic Migration"
     url: "/wiki/concepts/quantumcryptographicmigration/"

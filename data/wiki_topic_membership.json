@@ -58886,6 +58886,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "MartinShkreli": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "MartyGruenberg": [
     {
       "key": "economics",
@@ -68563,6 +68575,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PharmaceuticalAssetRepositioning": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PhenomenalAccessConsciousness": [
     {
       "key": "technology",
@@ -68665,6 +68684,13 @@
     }
   ],
   "PhotolithographyBottleneck": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PhotonicMatrixComputing": [
     {
       "key": "technology",
       "label": "Technology",
@@ -73425,6 +73451,18 @@
     }
   ],
   "QuantitativeOverfitting": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "QuantumComputingCommercializationGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "economics",
       "label": "Economics",
@@ -100459,6 +100497,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275": [

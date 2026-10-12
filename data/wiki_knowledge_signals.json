@@ -73246,9 +73246,9 @@
       "url": "/wiki/entities/drownproof/"
     },
     "DrugRepurposing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1618700056 [SCIM1618700056].md",
@@ -73256,9 +73256,16 @@
           "show": "Huberman Lab",
           "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
           "url": "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/drugrepurposing/"
     },
     "DruidicKnowledge": {
@@ -97446,9 +97453,9 @@
       "url": "/wiki/concepts/founderideamaze/"
     },
     "FounderIdentityDiversification": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
@@ -97470,9 +97477,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
           "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/founderidentitydiversification/"
     },
     "FounderLedSales": {
@@ -142643,9 +142657,9 @@
       "url": "/wiki/entities/jev/"
     },
     "JevonsParadoxInAI": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 5,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -142709,9 +142723,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot-40260645/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
@@ -176956,6 +176977,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/martinpinzon/"
     },
+    "MartinShkreli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/martinshkreli/"
+    },
     "MartyrdomHistoricalMemory": {
       "episode_count": 4,
       "show_count": 1,
@@ -209334,6 +209371,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/pharaonickingshiplegitimation/"
     },
+    "PharmaceuticalAssetRepositioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/pharmaceuticalassetrepositioning/"
+    },
     "PharmaceuticalEcommerce": {
       "episode_count": 2,
       "show_count": 2,
@@ -209953,6 +210006,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/photographicwitness/"
+    },
+    "PhotonicMatrixComputing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/photonicmatrixcomputing/"
     },
     "PhysicalAI": {
       "episode_count": 17,
@@ -222925,6 +222994,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/quantitychangequalitychange/"
+    },
+    "QuantumComputingCommercializationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/quantumcomputingcommercializationgap/"
     },
     "QuantumCryptographicMigration": {
       "episode_count": 1,
@@ -263225,9 +263310,9 @@
       "url": "/wiki/concepts/technologyphilosophy/"
     },
     "TechnologyProfitLag": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
@@ -263235,9 +263320,16 @@
           "show": "一劳永逸",
           "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
           "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/technologyprofitlag/"
     },
     "TechnologyReuseScenarioAdaptation": {

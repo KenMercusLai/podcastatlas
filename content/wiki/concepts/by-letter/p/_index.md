@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10522
+wiki_total_pages: 10525
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "PharaonicKingshipLegitimation"
     title: "Pharaonic Kingship Legitimation"
     url: "/wiki/concepts/pharaonickingshiplegitimation/"
+  - key: "PharmaceuticalAssetRepositioning"
+    title: "Pharmaceutical Asset Repositioning"
+    url: "/wiki/concepts/pharmaceuticalassetrepositioning/"
   - key: "PharmaceuticalEcommerce"
     title: "Pharmaceutical Ecommerce"
     url: "/wiki/concepts/pharmaceuticalecommerce/"
@@ -803,6 +806,9 @@ wiki_pages:
   - key: "PhotolithographyBottleneck"
     title: "Photolithography Bottleneck"
     url: "/wiki/concepts/photolithographybottleneck/"
+  - key: "PhotonicMatrixComputing"
+    title: "Photonic Matrix Computing"
+    url: "/wiki/concepts/photonicmatrixcomputing/"
   - key: "PHSXiaolingtong"
     title: "PHS Xiaolingtong"
     url: "/wiki/concepts/phsxiaolingtong/"

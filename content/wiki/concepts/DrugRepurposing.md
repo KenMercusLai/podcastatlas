@@ -4,7 +4,8 @@ type: concept
 tags: [medicine, pharmacology, clinical-research, rare-disease, incentives]
 sources:
   - using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056
-last_updated: 2026-10-10
+  - all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,10 +21,12 @@ The episode frames repurposing as both a scientific and institutional search pro
 
 The examples are deliberately heterogeneous. Sirolimus in [[DavidFajgenbaum|Fajgenbaum]]'s Castleman disease and pembrolizumab in one angiosarcoma patient are hypothesis-generating clinical stories; the described lidocaine breast-surgery trial and colchicine cardiovascular indication sit at different evidentiary stages. Good synthesis preserves those differences instead of turning every surprising use into a cure claim.
 
+The sparsentan case adds an asset-development version through [[MartinShkreli|Martin Shkreli]]'s account. It treats indication selection as an entrepreneurial capability: a team can acquire or license a molecule developed for one purpose, redirect it toward an underserved disease, and create value through scientific and regulatory execution. This does not weaken the evidence hierarchy; it makes ownership, patents, capital, trial design, and commercialization part of the same translation problem.
+
 ## Key Claims
 - Known manufacturing and prior human exposure can reduce some development uncertainty without establishing a new indication.
 - Multi-target pharmacology and fragmented literature create plausible uses outside a drug's original disease area.
-- Generic drugs and rare diseases can face an incentive gap because no actor can easily capture the value of additional evidence.
+- Generic drugs, deprioritized proprietary assets, and rare diseases can face different incentive gaps because no actor may be positioned to fund the additional evidence.
 - Patient networks and cross-specialty experts can surface observations that ordinary diffusion misses.
 - Computational ranking is useful for prioritization, not proof of clinical benefit.
 - Evidence must distinguish individual cases, mechanisms, observational associations, controlled trials, and regulatory decisions.
@@ -34,13 +37,15 @@ The examples are deliberately heterogeneous. Sirolimus in [[DavidFajgenbaum|Fajg
 - Patient-derived hypothesis - [[using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056]] describes Fajgenbaum's mTOR finding and physician-supervised use of sirolimus for Castleman disease.
 - Scaled prioritization - [[using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056]] presents [[EveryCure]] as combining knowledge mapping and machine learning with laboratory and clinical validation.
 - Evidence heterogeneity - [[using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056]] ranges from individual patients and small papers to observational findings, a large trial, and indication approval.
+- Asset and indication strategy - [[all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what]] presents sparsentan as a molecule redirected from hypertension toward focal segmental glomerulosclerosis through focused development.
 
 ## Counterevidence & Qualifications
-Repurposing can sound safer or faster than it is. Prior approval may not cover the new dose, route, population, combination, chronicity, or disease physiology; rare adverse effects and interactions can remain undiscovered. Positive cases are vulnerable to selection, publication, regression-to-the-mean, and concurrent-treatment effects. The source is a public interview summary and does not independently verify its numerical outcomes or establish a prescribing protocol. Self-directed use is especially unsafe for immunosuppressants, cancer drugs, cardiovascular drugs, psychoactive compounds, and medicines requiring monitoring.
+Repurposing can sound safer or faster than it is. Prior approval or development may not cover the new dose, route, population, combination, chronicity, or disease physiology; rare adverse effects and interactions can remain undiscovered. Positive cases are vulnerable to selection, publication, regression-to-the-mean, and concurrent-treatment effects. The sources are public interview summaries and do not independently verify their numerical outcomes, asset economics, or establish a prescribing protocol. Shkreli's successful retrospective example omits the denominator of failed searches and programs. Self-directed use is especially unsafe for immunosuppressants, cancer drugs, cardiovascular drugs, psychoactive compounds, and medicines requiring monitoring.
 
 ## What Changed
 - Established drug repurposing as a combined evidence-search, incentive, diffusion, and validation problem.
 - Added a hierarchy separating computational rank and individual rescue from controlled and regulatory evidence.
+- Added proprietary asset acquisition and indication selection as a distinct incentive and development route.
 
 ## Related Concepts
 - [[AIForScience]] - computational context for connecting dispersed biomedical findings.
@@ -49,3 +54,4 @@ Repurposing can sound safer or faster than it is. Prior approval may not cover t
 - [[SelfExperimentation]] - hypothesis-generating practice with severe single-subject limits.
 - [[MedicalRiskManagement]] - safety framework for off-label and novel-indication decisions.
 - [[ClinicalTrialContinuity]] - neighboring model for accumulating and reviewing clinical evidence.
+- [[PharmaceuticalAssetRepositioning]] - ownership, licensing, and commercialization extension of the repurposing process.

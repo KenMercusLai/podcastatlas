@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-10-12",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
-      "source_note_count": 101,
-      "topic_matched_source_note_count": 89,
+      "source_note_count": 102,
+      "topic_matched_source_note_count": 90,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 63
+          "source_note_count": 64
         },
         {
           "key": "politics",
@@ -168,7 +168,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 30
+          "source_note_count": 31
         },
         {
           "key": "science",
@@ -236,10 +236,10 @@
         }
       ],
       "start_here_episode_files": [
+        "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm .md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Martin Shkreli： Big Pharma's Blind Spot, Betting Against Quantum & What .md"
+        "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md"
       ]
     },
     "Anyway.FM 设计杂谈": {

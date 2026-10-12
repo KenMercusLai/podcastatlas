@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2257
+topic_total_pages: 2261
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2371,6 +2371,9 @@ topic_concepts:
   - key: "PersonalPensionAccount"
     title: "Personal Pension Account / 个人养老金账户"
     url: "/wiki/concepts/personalpensionaccount/"
+  - key: "PharmaceuticalAssetRepositioning"
+    title: "Pharmaceutical Asset Repositioning"
+    url: "/wiki/concepts/pharmaceuticalassetrepositioning/"
   - key: "PhoenicianMediterraneanNetworks"
     title: "Phoenician Mediterranean Networks / 腓尼基地中海网络"
     url: "/wiki/concepts/phoenicianmediterraneannetworks/"
@@ -2587,6 +2590,9 @@ topic_concepts:
   - key: "QuantitativeOverfitting"
     title: "Quantitative Overfitting"
     url: "/wiki/concepts/quantitativeoverfitting/"
+  - key: "QuantumComputingCommercializationGap"
+    title: "Quantum Computing Commercialization Gap"
+    url: "/wiki/concepts/quantumcomputingcommercializationgap/"
   - key: "RandomMarketNarratives"
     title: "Random Market Narratives"
     url: "/wiki/concepts/randommarketnarratives/"
@@ -4622,6 +4628,9 @@ topic_entities:
   - key: "MartinKutter"
     title: "Martin Kutter"
     url: "/wiki/entities/martinkutter/"
+  - key: "MartinShkreli"
+    title: "Martin Shkreli"
+    url: "/wiki/entities/martinshkreli/"
   - key: "MartyGruenberg"
     title: "Marty Gruenberg"
     url: "/wiki/entities/martygruenberg/"
@@ -6420,6 +6429,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640"
     title: "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what"
+    title: "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what/"
   - key: "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128"
     title: "Meta and Microsoft report different AI earnings"
     url: "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"

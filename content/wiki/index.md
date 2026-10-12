@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him](sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what.md) — All-In interview on quantum commercialization limits, photonic AI compute, pharmaceutical asset repositioning, rebound demand, and identity-driven failure.
 - [《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？](sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh.md) — 从颍川士族的藏书、教育与政治网络切入荀彧的迁徙、择主、迎奉汉献帝和官渡判断，并揭示其辅汉目标与曹操权力上升之间的潜在冲突。
 - [《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？](sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh.md) — 荀彧以匡扶汉室与君臣名分反对曹操进位魏公、加九锡；节目把空食盒解读为含混的政治最后通牒，并保留其死亡、忠诚与史料立场之争。
 - [史蒂夫说476期 - 石慧 - 我们人生最后的仪式，普遍草率仓促没尊严](sources/shi-di-fu-shuo-476-shihui-women-rensheng-zuihou-de-yishi-pubian-caoshuai-cangcu-mei-zunyan-lo2evzu5zgam7jjevwovlwxr37ah.md) — 石慧以摆渡人 BDR 的个性化送别实践讨论仪式、关系转换、哀伤支持、死亡教育、情感劳动与可持续收费。
@@ -4688,6 +4689,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [Martin Shkreli](entities/MartinShkreli.md) — Biotech entrepreneur and former hedge-fund manager discussing technology commercialization, drug-asset selection, AI demand, and identity rigidity.
 - [石慧 / Shi Hui (funeral professional)](entities/ShiHuiFuneralProfessional.md) — 摆渡人 BDR 创始人，以逝者生平、关系和哀伤需要组织个性化送别，并讨论行业情感劳动与职业尊严。
 - [摆渡人 BDR / Baiduren BDR](entities/BaidurenBDR.md) — 石慧创办的多人协作送别服务机构，在来源叙述中结合生命策划、礼仪、执行与葬后关怀。
 - [黄权 / Huang Quan (Late Han)](entities/HuangQuanLateHan.md) — 在刘备入蜀前指出其既难以降为普通部属、又会因厚待而成为第二权力中心的刘璋官员。
@@ -18236,6 +18238,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Quantum Computing Commercialization Gap](concepts/QuantumComputingCommercializationGap.md) — Distance between specialized quantum capability and reliable, economical value on practical workloads.
+- [Photonic Matrix Computing](concepts/PhotonicMatrixComputing.md) — Optical acceleration of AI matrix operations, bounded by memory, nonlinearity, conversion, integration, and end-to-end economics.
+- [Pharmaceutical Asset Repositioning](concepts/PharmaceuticalAssetRepositioning.md) — Acquisition or licensing of overlooked molecules followed by indication selection, development, validation, and commercialization.
 - [器物式政治最后通牒 / Object-Mediated Political Ultimatum](concepts/ObjectMediatedPoliticalUltimatum.md) — 通过器物、关系语境与权力不对称传达撤回俸禄、职位、保护或生存许可的含混强制信号。
 - [Personalized Funeral Design / 个性化送别设计](concepts/PersonalizedFuneralDesign.md) — 从逝者生平、偏好、关系与告别功能出发选择传统形式和个性化细节的仪式设计。
 - [Funeral Relationship Transition / 葬礼中的关系转换](concepts/FuneralRelationshipTransition.md) — 以送别开启从身体共在到记忆、故事、物件和持续纪念的关系形式转换。
