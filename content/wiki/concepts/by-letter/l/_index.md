@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10493
+wiki_total_pages: 10495
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "LongHorizonKnowledgeStewardship"
     title: "Long-Horizon Knowledge Stewardship / 长时段知识托管"
     url: "/wiki/concepts/longhorizonknowledgestewardship/"
+  - key: "LongHorizonLifeAccounting"
+    title: "Long-Horizon Life Accounting / 长时间尺度人生总账"
+    url: "/wiki/concepts/longhorizonlifeaccounting/"
   - key: "LongHorizonMarketIteration"
     title: "Long-Horizon Market Iteration / 长周期市场迭代"
     url: "/wiki/concepts/longhorizonmarketiteration/"

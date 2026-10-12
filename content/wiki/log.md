@@ -36594,3 +36594,11 @@ Added source `ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963`; 
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP18-真的！多失恋几次，你就长大了
+
+Added source `ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557`; created [[DaLinWushichaGuest|大琳]], [[LongHorizonLifeAccounting|长时间尺度人生总账]], and [[AdversityCapacityExpansion|逆境容量扩展]]; and resynthesized [[BreakupWorldLoss]], [[RuminationVsReflection]], [[RelationshipValueBeyondDuration]], and [[EmotionAcceptanceSignalAction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: breakup recovery can involve the simultaneous loss and rebuilding of relational, geographic, occupational, bodily, and social worlds; old records can sustain counterfactual replay or later support reflection depending on timing and use; an ended relationship can retain meaning without excusing betrayal or implying reconciliation; and growth can be judged over a whole-life horizon as increased capacity to carry adversity rather than immediate emotional victory. No settled contradiction was adopted. Medication, hormonal, dermatology, cosmetic-treatment, causality, former-partner motive, and recovery-timeline claims remain personal, second-hand, or source-scoped rather than medical guidance or a universal protocol. The broad [[WushichaYanjiusuo|无时差研究所]] profile was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,583 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

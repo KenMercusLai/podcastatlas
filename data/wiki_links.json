@@ -7535,6 +7535,10 @@
     "title": "知敌式备战 / Adversary-Knowledge Preparation",
     "url": "/wiki/concepts/adversaryknowledgepreparation/"
   },
+  "AdversityCapacityExpansion": {
+    "title": "Adversity Capacity Expansion / 逆境容量扩展",
+    "url": "/wiki/concepts/adversitycapacityexpansion/"
+  },
   "AdversitySilenceDiscipline": {
     "title": "Adversity Silence Discipline / 逆境守口",
     "url": "/wiki/concepts/adversitysilencediscipline/"
@@ -24330,6 +24334,10 @@
   "DaLaoshiCultureLimited": {
     "title": "大老师（文化有限）",
     "url": "/wiki/entities/dalaoshiculturelimited/"
+  },
+  "DaLinWushichaGuest": {
+    "title": "大琳 / Dalin (EP18 guest)",
+    "url": "/wiki/entities/dalinwushichaguest/"
   },
   "DaLunDingHypertensionGuest": {
     "title": "大伦丁老师 / 大仑丁 (hypertension guest)",
@@ -54914,6 +54922,10 @@
   "LongHorizonKnowledgeStewardship": {
     "title": "Long-Horizon Knowledge Stewardship / 长时段知识托管",
     "url": "/wiki/concepts/longhorizonknowledgestewardship/"
+  },
+  "LongHorizonLifeAccounting": {
+    "title": "Long-Horizon Life Accounting / 长时间尺度人生总账",
+    "url": "/wiki/concepts/longhorizonlifeaccounting/"
   },
   "LongHorizonMarketIteration": {
     "title": "Long-Horizon Market Iteration / 长周期市场迭代",
@@ -102386,6 +102398,10 @@
   "ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw": {
     "title": "EP18 都是黄泉预约客，保险买对心安乐",
     "url": "/wiki/sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw/"
+  },
+  "ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557": {
+    "title": "EP18-真的！多失恋几次，你就长大了",
+    "url": "/wiki/sources/ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557/"
   },
   "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf": {
     "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",

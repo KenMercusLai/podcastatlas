@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP18-真的！多失恋几次，你就长大了](sources/ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557.md) — 无时差研究所以大琳的失恋、健康、求职与社交低谷，讨论情绪接纳、长期人生评估与逆境容量的扩展。
 - [EP48-爱上狒狒的十四天](sources/ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963.md) — 无时差研究所以十四天野生动物志愿经历区分动物亲近与安全、个人改变与保护成效，并将抵制象牙作为具体后续行动。
 - [EP132-“领证三天前，我恐婚了！”](sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy.md) — Marriage anxiety, premarital alignment, shared decisions, communication, and household labor.
 - [EP134-从种族隔离的南非到92年的洛杉矶骚乱，全世界的平权走过了多少艰难岁月](sources/ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114.md) — 无时差研究所 episode connecting apartheid's institutional legacy, Asian American diversity, racial triangulation, and the structural context of the 1992 Los Angeles unrest.
@@ -4667,6 +4668,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？](sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963.md) — 声动早咖啡以仁川、樟宜和法兰克福案例解释机场PPP、运营能力出海、系统协同与非航空收入。
 
 ## Entities
+- [大琳 / Dalin (EP18 guest)](entities/DaLinWushichaGuest.md) — 以失恋、求职、皮肤治疗与逐步释怀说明长时间评估和逆境容量的姓名未完全公开嘉宾。
 - [HummingAgent](entities/HummingAgent.md) — AI software company presented as building private, customized agent workflows for small and medium-sized businesses.
 - [Shawn Kercher](entities/ShawnKercher.md) — HummingAgent leader advocating real-data discovery, constrained autonomy, and model-portable production systems.
 - [Kevin Mayer / 凯文·梅耶尔](entities/KevinMayer.md) — TikTok 2020年危机中的短任全球CEO，体现高管本土化的价值与边界。
@@ -18196,6 +18198,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fraport / 法兰克福机场集团](entities/Fraport.md) — 以巴西、希腊和斯洛文尼亚机场组合分散本土客流波动的国际机场集团。
 
 ## Concepts
+- [Adversity Capacity Expansion / 逆境容量扩展](concepts/AdversityCapacityExpansion.md) — 以“小溪变大河”比喻理解逐步扩大承载困难经验的能力，同时不美化伤害或把忍耐当作充分照护。
+- [Long-Horizon Life Accounting / 长时间尺度人生总账](concepts/LongHorizonLifeAccounting.md) — 在整个人生时间尺度上评估健康、关系、工作与成长，而不把一个低谷当作最终结算。
 - [Short-Term Conservation Volunteering / 短期动物保护志愿服务的边界](concepts/ShortTermConservationVolunteering.md) — Framework separating participant transformation from demonstrated conservation impact through competence, safety, prior intervention, and follow-through.
 - [Couple-Level Decision-Making / 伴侣共同决策](concepts/CoupleLevelDecisionMaking.md) — Evaluating major choices through effects on both partners and the shared household while preserving individual agency.
 - [Premarital Alignment Inquiry / 婚前共识核对](concepts/PremaritalAlignmentInquiry.md) — Using present conduct and explicit discussion to assess readiness without demanding certainty about every future crisis.
