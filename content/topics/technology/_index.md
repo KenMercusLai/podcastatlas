@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3493
+topic_total_pages: 3496
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2233,6 +2233,9 @@ topic_concepts:
   - key: "EuropeanAIIndustrialConstraints"
     title: "European AI Industrial Constraints"
     url: "/wiki/concepts/europeanaiindustrialconstraints/"
+  - key: "EuropeanIndustrialAdaptation"
+    title: "European Industrial Adaptation"
+    url: "/wiki/concepts/europeanindustrialadaptation/"
   - key: "EuropeanUnionAIAct"
     title: "European Union AI Act"
     url: "/wiki/concepts/europeanunionaiact/"
@@ -2503,6 +2506,9 @@ topic_concepts:
   - key: "HandsetChipCoDesign"
     title: "Handset-Chip Co-Design"
     url: "/wiki/concepts/handsetchipcodesign/"
+  - key: "HandwritingLearning"
+    title: "Handwriting and Learning"
+    url: "/wiki/concepts/handwritinglearning/"
   - key: "HardAIInfrastructure"
     title: "Hard AI Infrastructure / 硬AI基础设施"
     url: "/wiki/concepts/hardaiinfrastructure/"
@@ -2602,6 +2608,9 @@ topic_concepts:
   - key: "HouseholdSecurityRobots"
     title: "Household Security Robots"
     url: "/wiki/concepts/householdsecurityrobots/"
+  - key: "HouthiInfrastructureCoercion"
+    title: "Houthi Infrastructure Coercion"
+    url: "/wiki/concepts/houthiinfrastructurecoercion/"
   - key: "HuaqiangbeiAISolutionProviders"
     title: "Huaqiangbei AI Solution Providers / 华强北AI方案商"
     url: "/wiki/concepts/huaqiangbeiaisolutionproviders/"

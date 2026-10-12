@@ -86154,6 +86154,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/europeanenergysecuritydependence/"
     },
+    "EuropeanIndustrialAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/europeanindustrialadaptation/"
+    },
     "EuropeanIntegrationWarPrevention": {
       "episode_count": 2,
       "show_count": 2,
@@ -116499,6 +116515,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/handsonaianxietyreduction/"
     },
+    "HandwritingLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/handwritinglearning/"
+    },
     "HanguPass": {
       "episode_count": 7,
       "show_count": 1,
@@ -125630,6 +125662,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/housingsupplyoverrentcontrol/"
     },
+    "HouthiInfrastructureCoercion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/houthiinfrastructurecoercion/"
+    },
     "HouthiMaritimeChokepointLeverage": {
       "episode_count": 1,
       "show_count": 1,
@@ -125647,9 +125695,9 @@
       "url": "/wiki/concepts/houthimaritimechokepointleverage/"
     },
     "Houthis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Omission accomplished： why the Iran-war cycle spins on [6a6c7475aa1642a30f17f1cb].md",
@@ -125664,9 +125712,16 @@
           "show": "Economist Podcasts",
           "title": "Strait and narrowing: the Houthis' striking advance",
           "url": "/wiki/sources/strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7/"
+        },
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/houthis/"
     },
     "HowIBuiltThis": {
@@ -237210,9 +237265,9 @@
       "url": "/wiki/entities/satyanadella/"
     },
     "SaudiArabia": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
@@ -237262,9 +237317,16 @@
           "show": "独树不成林",
           "title": "304-沙特阿拉伯过去十年在进行一场怎样的政治改革？",
           "url": "/wiki/sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t/"
+        },
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/saudiarabia/"
     },
     "SaudiPublicInvestmentFund": {
@@ -237291,9 +237353,9 @@
       "url": "/wiki/entities/saudipublicinvestmentfund/"
     },
     "SaudiVision2030": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lsM0NzvIe2-H_SGbmHAVG7xbv74T [lsM0NzvIe2-H_SGbmHAVG7xbv74T].md",
@@ -237301,9 +237363,16 @@
           "show": "独树不成林",
           "title": "304-沙特阿拉伯过去十年在进行一场怎样的政治改革？",
           "url": "/wiki/sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t/"
+        },
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-12",
       "url": "/wiki/entities/saudivision2030/"
     },
     "SavileRow": {
@@ -296620,6 +296689,29 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/yemelyanpugachev/"
+    },
+    "Yemen": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Omission accomplished： why the Iran-war cycle spins on [6a6c7475aa1642a30f17f1cb].md",
+          "key": "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb",
+          "show": "Economist Podcasts",
+          "title": "Omission accomplished: why the Iran-war cycle spins on",
+          "url": "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
+        },
+        {
+          "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
+          "key": "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc",
+          "show": "Economist Podcasts",
+          "title": "Saudi under siege: Houthis attack airport",
+          "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/yemen/"
     },
     "YiMeiZhiMingDrama": {
       "episode_count": 1,

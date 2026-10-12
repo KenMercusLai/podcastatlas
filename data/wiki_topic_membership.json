@@ -35125,6 +35125,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EuropeanIndustrialAdaptation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EuropeanIntegrationWarPrevention": [
     {
       "key": "politics",
@@ -43544,6 +43551,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "HandwritingLearning": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HangSengIndex": [
     {
       "key": "economics",
@@ -46025,6 +46044,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HouthiInfrastructureCoercion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HouthiMaritimeChokepointLeverage": [
@@ -105328,6 +105359,18 @@
     }
   ],
   "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",

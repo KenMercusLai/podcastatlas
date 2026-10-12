@@ -36653,3 +36653,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-12] ingest | Saudi under siege: Houthis attack airport
+
+Added source `saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc`; created [[HouthiInfrastructureCoercion]], [[EuropeanIndustrialAdaptation]], and [[HandwritingLearning]]; and resynthesized [[Houthis]], [[Yemen]], [[SaudiArabia]], and [[SaudiVision2030]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Houthi precision attacks can impose aviation, energy, event, and investor-confidence costs without battlefield victory; European industrial stress is severe but sectorally concentrated and prompting adaptation; and evidence favors handwriting generally more strongly than cursive specifically. The Pakistan-assistance discrepancy is preserved as a likely timeline change, while European deindustrialisation, AI productivity, and cursive-specific learning claims remain qualified or source-scoped. Broad China, EU, Germany, BYD, and Economist Podcasts profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,591 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

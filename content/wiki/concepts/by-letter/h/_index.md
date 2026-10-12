@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10501
+wiki_total_pages: 10504
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "HandsetChipCoDesign"
     title: "Handset-Chip Co-Design"
     url: "/wiki/concepts/handsetchipcodesign/"
+  - key: "HandwritingLearning"
+    title: "Handwriting and Learning"
+    url: "/wiki/concepts/handwritinglearning/"
   - key: "HannibalAlpineCrossing"
     title: "Hannibal's Alpine Crossing / 汉尼拔翻越阿尔卑斯山"
     url: "/wiki/concepts/hannibalalpinecrossing/"
@@ -929,6 +932,9 @@ wiki_pages:
   - key: "HousingWealthAffordabilityTension"
     title: "Housing Wealth Affordability Tension"
     url: "/wiki/concepts/housingwealthaffordabilitytension/"
+  - key: "HouthiInfrastructureCoercion"
+    title: "Houthi Infrastructure Coercion"
+    url: "/wiki/concepts/houthiinfrastructurecoercion/"
   - key: "HouthiMaritimeChokepointLeverage"
     title: "Houthi Maritime Chokepoint Leverage"
     url: "/wiki/concepts/houthimaritimechokepointleverage/"

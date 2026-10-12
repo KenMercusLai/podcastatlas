@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3314
+topic_total_pages: 3316
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2008,6 +2008,9 @@ topic_concepts:
   - key: "HousingScarcityElectoralAgendaSetting"
     title: "Housing Scarcity as Electoral Agenda Setting"
     url: "/wiki/concepts/housingscarcityelectoralagendasetting/"
+  - key: "HouthiInfrastructureCoercion"
+    title: "Houthi Infrastructure Coercion"
+    url: "/wiki/concepts/houthiinfrastructurecoercion/"
   - key: "HouthiMaritimeChokepointLeverage"
     title: "Houthi Maritime Chokepoint Leverage"
     url: "/wiki/concepts/houthimaritimechokepointleverage/"
@@ -9264,6 +9267,9 @@ topic_sources:
   - key: "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128"
     title: "Robotaxis moved into the fast lane in 2025"
     url: "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"
+  - key: "saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc"
+    title: "Saudi under siege: Houthis attack airport"
+    url: "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230"
     title: "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Saudi under siege: Houthis attack airport](sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc.md) — Economist Podcasts episode on Houthi attacks against Saudi airports and Vision 2030, uneven European industrial adaptation, and the qualified learning case for handwriting rather than cursive alone.
 - [《资治通鉴·汉纪》1121丨潼关生死劫：曹操为了赢以身犯险？](sources/zizhi-tongjian-hanji-1121-tongguan-shengsi-jie-caocao-weile-ying-yishen-fanxian-lvfxitrmo0wq9hl1fmzzuagsobbl.md) — 曹操以潼关正面施压掩护蒲阪津迂回，在受袭渡河、甬道推进和渭水筑垒中把隐蔽通路转化为可持续的战役优势。
 - [《资治通鉴·汉纪》1122丨曹操假意和谈，背后却把马超往死里坑？](sources/zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb.md) — 曹操以阵前叙旧、涂改书信和假意求和放大马超、韩遂联盟的猜疑，再把路线控制、休整与两翼突击合为渭南决胜序列。
 - [《资治通鉴·汉纪》1123丨他不上战场，如何立下显赫战功？](sources/zizhi-tongjian-hanji-1123-ta-bu-shang-zhanchang-ruhe-li-xia-xianhe-zhangong-losloy1puogq4o9azo2x_ombrbyz.md) — 潼关战后以杜畿治河东、保民安与供军粮说明后方治理也是战功，并以法正、张松转向刘备开启益州权力转移的谋划。
@@ -18213,6 +18214,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Houthi Infrastructure Coercion](concepts/HouthiInfrastructureCoercion.md) — Drone and missile pressure on airports, energy assets, aviation, international events, and the stability assumptions behind Saudi diversification.
+- [European Industrial Adaptation](concepts/EuropeanIndustrialAdaptation.md) — Uneven manufacturing restructuring through energy efficiency, renewables, location shifts, services, intermediate inputs, and AI.
+- [Handwriting and Learning](concepts/HandwritingLearning.md) — Qualified evidence that handwriting can support learning and idea formation without proving joined cursive uniquely superior to print.
 - [关系信号式离间 / Relational-Signal Coalition Fracture](concepts/RelationalSignalCoalitionFracture.md) — 通过公开亲密、含混说明或可疑书信让联盟成员自行补全背叛叙事，再把信任损失转化为协同崩塌。
 - [Generative Ghost Interaction Design](concepts/GenerativeGhostInteractionDesign.md) — Identity stance, style fidelity, uncertainty, and safeguard choices for AI-mediated interaction with a deceased person's memory or simulation.
 - [Cinema Audience Behavioral Contract](concepts/CinemaAudienceBehavioralContract.md) — Reciprocal venue rules, staff practices, and commercial choices used to protect concentrated collective viewing.

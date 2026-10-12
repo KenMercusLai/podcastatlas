@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10501
+wiki_total_pages: 10504
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1037,6 +1037,9 @@ wiki_pages:
   - key: "EuropeanIdentityClassGradient"
     title: "European Identity Class Gradient"
     url: "/wiki/concepts/europeanidentityclassgradient/"
+  - key: "EuropeanIndustrialAdaptation"
+    title: "European Industrial Adaptation"
+    url: "/wiki/concepts/europeanindustrialadaptation/"
   - key: "EuropeanIntegrationWarPrevention"
     title: "European Integration As War Prevention"
     url: "/wiki/concepts/europeanintegrationwarprevention/"

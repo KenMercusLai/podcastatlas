@@ -5,7 +5,8 @@ tags: [armed-movement, yemen, geopolitics]
 sources:
   - omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb
   - strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7
-last_updated: 2026-09-15
+  - saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc
+last_updated: 2026-10-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,12 +18,13 @@ The Houthis are represented in the wiki as a Yemen-based armed movement whose ac
 ## Current Profile
 [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] first made the Houthis a case in unresolved Middle East diplomacy: [[GregCarlstrom]] cited the [[SaudiArabia]]-Houthi file as one where broad claims of settlement left blockade, attacks, and enforcement questions open. [[strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7]] updates that profile with battlefield movement. The episode says the Houthis captured Moqa and Perim Island near Bab al-Mandab and that drones hit a major Saudi pipeline, making the group a more direct source of [[HouthiMaritimeChokepointLeverage]].
 
-The current synthesis is that Houthi leverage comes from the interaction between offensive capacity and opponent weakness. The new source presents [[AntiHouthiCoalitionFragmentation]] as central: Saudi-backed anti-Houthi forces are divided across religious, separatist, tribal, and command factions, and the Saudi-UAE split weakened the coastal defense environment.
+The current synthesis is that Houthi leverage comes from the interaction between offensive capacity, opponent weakness, and the economic sensitivity of targets. [[AntiHouthiCoalitionFragmentation]] leaves Saudi-backed forces divided, while [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] says improved drones and ballistic missiles now enable [[HouthiInfrastructureCoercion]] against airports, aircraft, energy facilities, international events, and the stability narrative behind [[SaudiVision2030]].
 
 ## Key Characteristics
 - Yemen-based armed movement able to affect regional diplomacy beyond the immediate battlefield.
 - Source of blockade, airport, energy-infrastructure, and maritime-route pressure against Saudi Arabia.
 - Actor whose leverage increases when Red Sea chokepoints and Saudi backup export infrastructure look vulnerable.
+- Infrastructure coercer able to turn aviation disruption and investor uncertainty into strategic pressure.
 - Beneficiary of anti-Houthi coalition disunity as well as Iranian support and local military capacity.
 - Spoiler risk for thin diplomatic frameworks that promise settlement without enforcing local conflict terms.
 
@@ -31,13 +33,15 @@ The current synthesis is that Houthi leverage comes from the interaction between
 - Maritime and energy leverage: [[strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7]] says the Houthis captured coastal positions near Bab al-Mandab and that drones hit a major Saudi pipeline.
 - Opponent fragmentation: [[strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7]] says Saudi-backed forces include religious fundamentalists, southern separatists, tribal groups, and rival commanders whose divisions widened after Saudi-UAE disagreement.
 - Strategic caution: [[strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7]] notes that previous Houthi advances have sometimes been reversed after overextension.
+- Aviation and investment pressure: [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] reports repeated airport attacks, airline cancellations, casualties, aircraft destruction, and disruption around major international events.
+- Improved strike capacity: [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] attributes a larger drone arsenal and more accurate ballistic missiles partly to Iranian support.
 
 ## Qualifications
-The sources do not provide a complete Houthi organizational history or independent military-order-of-battle assessment. The newer episode presents the advance as highly consequential but cautions that Yemen's war remains far from over.
+The sources do not provide a complete Houthi organizational history or independent military-order-of-battle assessment. Infrastructure attacks can impose large costs without proving that the Houthis can win territorially or compel a Saudi settlement, and weapon, casualty, and assistance details remain episode-reported.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 entity schema.
-- Added the September 2026 coastal advance, Bab al-Mandab leverage, Saudi pipeline pressure, and anti-Houthi coalition fragmentation.
+- Added airport, aviation, investor-confidence, and Vision 2030 pressure to the existing maritime and pipeline leverage profile.
+- Distinguished coercive economic effect from decisive territorial victory.
 
 ## Relationships
 - [[Yemen]] - conflict setting and civil-war theater.
@@ -46,3 +50,4 @@ The sources do not provide a complete Houthi organizational history or independe
 - [[AntiHouthiCoalitionFragmentation]] - opponent-weakness mechanism that helps explain the advance.
 - [[ThinDiplomaticFrameworks]] - broader diplomatic pattern where unresolved operational questions remain after agreements.
 - [[ProxyConflictSpoilerRisk]] - risk that armed actors keep settlement claims fragile.
+- [[HouthiInfrastructureCoercion]] - mechanism linking precision strikes to aviation, energy, and investor-confidence costs.
