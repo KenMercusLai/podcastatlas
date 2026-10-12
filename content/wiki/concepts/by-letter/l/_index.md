@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10496
+wiki_total_pages: 10498
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "LocalBatteryIndustrialClusters"
     title: "Local Battery Industrial Clusters"
     url: "/wiki/concepts/localbatteryindustrialclusters/"
+  - key: "LocalCinemaCommunityScaling"
+    title: "Local Cinema Community Scaling"
+    url: "/wiki/concepts/localcinemacommunityscaling/"
   - key: "LocalDeityGovernance"
     title: "Local Deity Governance"
     url: "/wiki/concepts/localdeitygovernance/"

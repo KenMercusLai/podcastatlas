@@ -8283,6 +8283,10 @@
     "title": "Alabama",
     "url": "/wiki/entities/alabama/"
   },
+  "AlamoDrafthouseCinema": {
+    "title": "Alamo Drafthouse Cinema",
+    "url": "/wiki/entities/alamodrafthousecinema/"
+  },
   "AlanAragon": {
     "title": "Alan Aragon",
     "url": "/wiki/entities/alanaragon/"
@@ -20218,6 +20222,10 @@
   "CinemaAsNationalMemory": {
     "title": "Cinema as National Memory",
     "url": "/wiki/concepts/cinemaasnationalmemory/"
+  },
+  "CinemaAudienceBehavioralContract": {
+    "title": "Cinema Audience Behavioral Contract",
+    "url": "/wiki/concepts/cinemaaudiencebehavioralcontract/"
   },
   "CinematicFolkloreRecombination": {
     "title": "Cinematic Folklore Recombination / 电影民俗再组合",
@@ -49731,6 +49739,10 @@
     "title": "Karolina Westlund",
     "url": "/wiki/entities/karolinawestlund/"
   },
+  "KarrieLeague": {
+    "title": "Karrie League",
+    "url": "/wiki/entities/karrieleague/"
+  },
   "Kaseya": {
     "title": "Kaseya",
     "url": "/wiki/entities/kaseya/"
@@ -54654,6 +54666,10 @@
   "LocalBatteryIndustrialClusters": {
     "title": "Local Battery Industrial Clusters",
     "url": "/wiki/concepts/localbatteryindustrialclusters/"
+  },
+  "LocalCinemaCommunityScaling": {
+    "title": "Local Cinema Community Scaling",
+    "url": "/wiki/concepts/localcinemacommunityscaling/"
   },
   "LocalDeityGovernance": {
     "title": "Local Deity Governance",
@@ -87471,6 +87487,10 @@
     "title": "Tim Hortons",
     "url": "/wiki/entities/timhortons/"
   },
+  "TimLeague": {
+    "title": "Tim League",
+    "url": "/wiki/entities/timleague/"
+  },
   "TimMediaStorm": {
     "title": "影视飓风 Tim",
     "url": "/wiki/entities/timmediastorm/"
@@ -100810,6 +100830,10 @@
   "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz": {
     "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【公路播客】",
     "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
+  },
+  "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3": {
+    "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+    "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
   },
   "ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun": {
     "title": "阿里千问离职余震，在几万人的铁球里如何体面生存",

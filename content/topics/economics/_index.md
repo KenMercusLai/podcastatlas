@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2252
+topic_total_pages: 2253
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6027,6 +6027,9 @@ topic_sources:
   - key: "socialradarspod-brianchesky2-final"
     title: "Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led"
     url: "/wiki/sources/socialradarspod-brianchesky2-final/"
+  - key: "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3"
+    title: "Alamo Drafthouse Cinema: Tim and Karrie League (2023)"
+    url: "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
   - key: "tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3"
     title: "Alexandr Wang on Scale and AI Data Infrastructure"
     url: "/wiki/sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3/"

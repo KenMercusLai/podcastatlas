@@ -36606,3 +36606,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | Alamo Drafthouse Cinema: Tim and Karrie League (2023)
+
+Added source `alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3`; created [[AlamoDrafthouseCinema]], [[TimLeague]], [[KarrieLeague]], [[CinemaAudienceBehavioralContract]], and [[LocalCinemaCommunityScaling]]; and resynthesized [[PremiumCinemaExperienceEconomy]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: cinema can compete with home viewing by selling protected attention, hospitality, local programming, and collective ritual, but food service still interrupts immersion, chain systems can erode local identity, and customer-facing brand strength does not guarantee workplace safety or financial resilience. No settled contradiction was adopted. Misconduct remediation, operating figures, restructuring health, acquisition details, and founder motives remain source-scoped because the supplied document is a structured founder-interview summary rather than an audited history or full transcript. Broad [[HowIBuiltThis]], [[GuyRaz]], [[SonyPictures]], [[ExperienceLedBrand]], and [[ExperientialRetail]] profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,585 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

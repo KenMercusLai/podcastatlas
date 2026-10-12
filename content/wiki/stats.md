@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10496
-- Entities: 13459
-- Sources: 4584
-- Total wiki content pages: 28540
+- Concepts: 10498
+- Entities: 13462
+- Sources: 4585
+- Total wiki content pages: 28546
 
 ## Links
-- Wiki link references: 661601
-- Unique wiki link targets: 28569
-- Missing targets: 39
+- Wiki link references: 661683
+- Unique wiki link targets: 28576
+- Missing targets: 40
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4584
-- Matched episodes: 4584
+- Source pages: 4585
+- Matched episodes: 4585
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -64,6 +64,8 @@ outputs: ["html"]
   - `content/wiki/concepts/PlatformNativePublicHistory.md`
 - `[[CrisisCommunicationFailure]]`
   - `content/wiki/concepts/HighConsequenceBiologicalResearchTransparency.md`
+- `[[DigitalAttentionFragmentation]]`
+  - `content/wiki/concepts/CinemaAudienceBehavioralContract.md`
 - `[[GutMicrobiomeNutritionSupport]]`
   - `content/wiki/concepts/ProbioticUseBoundary.md`
 - `[[Hanshu]]`

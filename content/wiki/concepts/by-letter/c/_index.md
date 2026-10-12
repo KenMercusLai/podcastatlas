@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10496
+wiki_total_pages: 10498
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "CinemaAsNationalMemory"
     title: "Cinema as National Memory"
     url: "/wiki/concepts/cinemaasnationalmemory/"
+  - key: "CinemaAudienceBehavioralContract"
+    title: "Cinema Audience Behavioral Contract"
+    url: "/wiki/concepts/cinemaaudiencebehavioralcontract/"
   - key: "CinematicFolkloreRecombination"
     title: "Cinematic Folklore Recombination / 电影民俗再组合"
     url: "/wiki/concepts/cinematicfolklorerecombination/"

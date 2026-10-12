@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13459
+wiki_total_pages: 13462
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "TimHortons"
     title: "Tim Hortons"
     url: "/wiki/entities/timhortons/"
+  - key: "TimLeague"
+    title: "Tim League"
+    url: "/wiki/entities/timleague/"
   - key: "TimUrban"
     title: "Tim Urban"
     url: "/wiki/entities/timurban/"

@@ -10987,6 +10987,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/alqaeda/"
     },
+    "AlamoDrafthouseCinema": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Alamo Drafthouse Cinema： Tim and Karrie League (2023) [7bc6885b-e29f-4ae8-a587-2e17b1d8bea3].md",
+          "key": "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3",
+          "show": "How I Built This with Guy Raz",
+          "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+          "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/alamodrafthousecinema/"
+    },
     "AlanAragon": {
       "episode_count": 1,
       "show_count": 1,
@@ -47425,6 +47441,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/cinemaasnationalmemory/"
+    },
+    "CinemaAudienceBehavioralContract": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Alamo Drafthouse Cinema： Tim and Karrie League (2023) [7bc6885b-e29f-4ae8-a587-2e17b1d8bea3].md",
+          "key": "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3",
+          "show": "How I Built This with Guy Raz",
+          "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+          "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/cinemaaudiencebehavioralcontract/"
     },
     "CinematicFolkloreRecombination": {
       "episode_count": 1,
@@ -148831,6 +148863,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/karolinawestlund/"
     },
+    "KarrieLeague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Alamo Drafthouse Cinema： Tim and Karrie League (2023) [7bc6885b-e29f-4ae8-a587-2e17b1d8bea3].md",
+          "key": "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3",
+          "show": "How I Built This with Guy Raz",
+          "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+          "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/karrieleague/"
+    },
     "KateAHA": {
       "episode_count": 2,
       "show_count": 2,
@@ -165478,6 +165526,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
+    },
+    "LocalCinemaCommunityScaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Alamo Drafthouse Cinema： Tim and Karrie League (2023) [7bc6885b-e29f-4ae8-a587-2e17b1d8bea3].md",
+          "key": "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3",
+          "show": "How I Built This with Guy Raz",
+          "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+          "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/localcinemacommunityscaling/"
     },
     "LocalExperienceAsCreativeArchive": {
       "episode_count": 3,
@@ -215488,9 +215552,9 @@
       "url": "/wiki/entities/premierleague/"
     },
     "PremiumCinemaExperienceEconomy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
@@ -215498,9 +215562,16 @@
           "show": "读报teleread",
           "title": "免费的权威，付费的体验",
           "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
+        },
+        {
+          "episode_file": "Alamo Drafthouse Cinema： Tim and Karrie League (2023) [7bc6885b-e29f-4ae8-a587-2e17b1d8bea3].md",
+          "key": "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3",
+          "show": "How I Built This with Guy Raz",
+          "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+          "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/premiumcinemaexperienceeconomy/"
     },
     "PremiumIngredientHaloMarketing": {
@@ -267631,6 +267702,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/timhortons/"
+    },
+    "TimLeague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Alamo Drafthouse Cinema： Tim and Karrie League (2023) [7bc6885b-e29f-4ae8-a587-2e17b1d8bea3].md",
+          "key": "alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3",
+          "show": "How I Built This with Guy Raz",
+          "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+          "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/timleague/"
     },
     "TimMediaStorm": {
       "episode_count": 1,

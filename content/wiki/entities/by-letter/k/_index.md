@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13459
+wiki_total_pages: 13462
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "KarolinaWestlund"
     title: "Karolina Westlund"
     url: "/wiki/entities/karolinawestlund/"
+  - key: "KarrieLeague"
+    title: "Karrie League"
+    url: "/wiki/entities/karrieleague/"
   - key: "Kaseya"
     title: "Kaseya"
     url: "/wiki/entities/kaseya/"
