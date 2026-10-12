@@ -36073,7 +36073,7 @@ Added source `understand-apply-the-psychology-of-money-to-gain-greater-happiness
 
 ## [2026-10-12] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran deterministic and graph-aware lint: 9 orphan pages, 43 broken wikilink occurrences, 1 missing entity page, 0 sparse pages, 0 hub stubs, 11 fragile community bridges, and 0 isolated communities. Semantic checks were unavailable because `LLM_MODEL` was not provider-qualified. The lint report was printed but not saved.
 
 ## [2026-10-12] ingest | 023 闲话金庸《鸳鸯刀》：一幅江湖谐趣图
 
@@ -36582,6 +36582,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] ingest | EP132-“领证三天前，我恐婚了！”
 
 Added source `ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy`; created [[PremaritalAlignmentInquiry|婚前共识核对]] and [[CoupleLevelDecisionMaking|伴侣共同决策]]; and resynthesized [[CharacterBasedRomanticCompatibility]], [[PreventiveRelationshipMaintenance]], and [[FamilyLaborBoundaries]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: marriage readiness can replace avoidable ambiguity with present evidence about daily conduct, children, work, location, family obligations, and responsibility, but cannot guarantee behavior in every future crisis; consequential choices should include both partners and shared-household costs without erasing either person's agency; and relationship maintenance and domestic fairness require visible contributions, explicit needs, revisable roles, and executable rules rather than mind-reading or assumed sacrifice. No settled contradiction was adopted. Cohabitation, family-background matching, occupation pairing, divorce, infidelity, gender, and household-risk claims remain participant, cultural, or source-scoped, and communication is not treated as a remedy for coercion or violence. Broad [[WushichaYanjiusuo|无时差研究所]] and multidimensional-marriage profiles were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,581 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-12] ingest | EP48-爱上狒狒的十四天
+
+Added source `ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963`; created [[ShortTermConservationVolunteering|短期动物保护志愿服务的边界]]; and resynthesized [[VolunteerCareReciprocity]] and [[ConservationStoryMobilization|保护故事动员]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a fourteen-day, non-specialist wildlife placement may transform the participant more clearly than it benefits conservation, so personal learning, public awareness, animal welfare, safety, professional competence, and ecological outcomes must be counted separately. Close contact does not erase wild behavior; prior captivity makes intervention choices path-dependent; and refusing ivory or sharing grounded information is a more credible downstream claim than moral grandiosity. No settled contradiction was adopted. The guest's later consumption of zebra and antelope meat remains an acknowledged ethical inconsistency, while animal behavior, vaccination, facility practice, travel risk, ivory-market causation, and program impact remain source-scoped personal or staff accounts rather than independent evaluation. The broad [[WushichaYanjiusuo|无时差研究所]] profile was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,582 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-12] lint | Wiki health check
 

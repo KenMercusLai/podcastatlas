@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP48-爱上狒狒的十四天](sources/ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963.md) — 无时差研究所以十四天野生动物志愿经历区分动物亲近与安全、个人改变与保护成效，并将抵制象牙作为具体后续行动。
 - [EP132-“领证三天前，我恐婚了！”](sources/ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy.md) — Marriage anxiety, premarital alignment, shared decisions, communication, and household labor.
 - [EP134-从种族隔离的南非到92年的洛杉矶骚乱，全世界的平权走过了多少艰难岁月](sources/ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114.md) — 无时差研究所 episode connecting apartheid's institutional legacy, Asian American diversity, racial triangulation, and the structural context of the 1992 Los Angeles unrest.
 - [EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai](sources/ep-51-building-ai-agents-that-actually-work-in-production.md) — Data Science With Sam episode on real-data discovery, company-specific agent integration, progressive autonomy, model portability, and human review.
@@ -18195,6 +18196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fraport / 法兰克福机场集团](entities/Fraport.md) — 以巴西、希腊和斯洛文尼亚机场组合分散本土客流波动的国际机场集团。
 
 ## Concepts
+- [Short-Term Conservation Volunteering / 短期动物保护志愿服务的边界](concepts/ShortTermConservationVolunteering.md) — Framework separating participant transformation from demonstrated conservation impact through competence, safety, prior intervention, and follow-through.
 - [Couple-Level Decision-Making / 伴侣共同决策](concepts/CoupleLevelDecisionMaking.md) — Evaluating major choices through effects on both partners and the shared household while preserving individual agency.
 - [Premarital Alignment Inquiry / 婚前共识核对](concepts/PremaritalAlignmentInquiry.md) — Using present conduct and explicit discussion to assess readiness without demanding certainty about every future crisis.
 - [Racial Triangulation / 种族三角关系](concepts/RacialTriangulation.md) — Relational ordering that can praise Asian Americans against Black Americans while withholding secure national belonging.

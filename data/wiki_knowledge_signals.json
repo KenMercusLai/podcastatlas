@@ -54160,6 +54160,36 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/consequencesensitivechivalry/"
     },
+    "ConservationStoryMobilization": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！ [939887179].md",
+          "key": "163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179",
+          "show": "蜜獾吃书",
+          "title": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！",
+          "url": "/wiki/sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179/"
+        },
+        {
+          "episode_file": "wKgLcVwnuqbyIca2A_CEFiSHI5M963 [wKgLcVwnuqbyIca2A_CEFiSHI5M963].md",
+          "key": "ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963",
+          "show": "无时差研究所",
+          "title": "EP48-爱上狒狒的十四天",
+          "url": "/wiki/sources/ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/conservationstorymobilization/"
+    },
     "ConservativeLeadershipElection1975": {
       "episode_count": 2,
       "show_count": 1,
@@ -244138,6 +244168,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/shortdailymeditationattentiontraining/"
     },
+    "ShortTermConservationVolunteering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgLcVwnuqbyIca2A_CEFiSHI5M963 [wKgLcVwnuqbyIca2A_CEFiSHI5M963].md",
+          "key": "ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963",
+          "show": "无时差研究所",
+          "title": "EP48-爱上狒狒的十四天",
+          "url": "/wiki/sources/ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/shorttermconservationvolunteering/"
+    },
     "ShortVideoCraftCreatorPath": {
       "episode_count": 1,
       "show_count": 1,
@@ -277708,6 +277754,29 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
+    },
+    "VolunteerCareReciprocity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "137. 三更半夜居然要吃香蕉：是的，再来一根 [835431951].md",
+          "key": "137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951",
+          "show": "蜜獾吃书",
+          "title": "137. 三更半夜居然要吃香蕉：是的，再来一根",
+          "url": "/wiki/sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951/"
+        },
+        {
+          "episode_file": "wKgLcVwnuqbyIca2A_CEFiSHI5M963 [wKgLcVwnuqbyIca2A_CEFiSHI5M963].md",
+          "key": "ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963",
+          "show": "无时差研究所",
+          "title": "EP48-爱上狒狒的十四天",
+          "url": "/wiki/sources/ep48-aishang-feifei-de-shisitian-wkglcvwnuqbyica2a-cefishi5m963/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/volunteercarereciprocity/"
     },
     "VrbaWetzlerReport": {
       "episode_count": 2,
