@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1126丨卖主求荣的张松怎么死的？](sources/zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx.md) — 张松密信暴露并被刘璋处死，刘备由此与刘璋公开决裂；节目以人才失用、东州—益州裂缝和乱世择主解释刘璋集团的崩解。
 - [《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？](sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls.md) — 曹操以三项朝仪特权公开脱离普通臣列，曹丕在河间平叛后请示赦降，国渊则拒绝夸大境内战果并开启匿名信调查。
 - [《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？](sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh.md) — 国渊以文本知识缩小匿名信作者范围并比对笔迹，郑浑以防御、奖赏、交换与招降瓦解梁兴，吕蒙则以濡须坞为败退预设安全节点。
 - [Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅](sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974.md) — 蜉蝣天地对谈法国神父包智光，以物理与神学背景讨论信仰、自由、爱、良知、苦难及上帝的沉默。
@@ -4681,6 +4682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](sources/how-food-choices-shape-memory-cognition-cravings-dr-scott-kanoski-scim9087005398.md) — Huberman Lab interview on bidirectional food–memory control, hippocampal appetite integration, GLP-1 uncertainty, vagal signaling, developmental diet, and microbial evidence boundaries.
 
 ## Entities
+- [张肃 / Zhang Su (Late Han)](entities/ZhangSuLateHan.md) — 因担忧受弟弟张松牵连而向刘璋告发密信、使秘密倒向刘备的计划暴露的益州人物。
 - [国渊 / Guo Yuan (late-Han investigator)](entities/GuoYuanInvestigatorLateHan.md) — 以文意筛选与笔迹样本侦查匿名信、后获曹操升任的东汉末官员。
 - [郑浑 / Zheng Hun](entities/ZhengHunLateHan.md) — 以守城、奖励、交换、劝降与安置分化梁兴部众的左冯翊太守。
 - [梁兴 / Liang Xing](entities/LiangXingLateHan.md) — 渭南战后流窜左冯翊、遭郑浑分化并在夏侯渊援军下覆灭的关中武装首领。

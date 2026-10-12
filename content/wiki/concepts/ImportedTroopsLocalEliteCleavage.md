@@ -5,7 +5,8 @@ tags: [local-power, faction, integration, late-han, yizhou]
 sources:
   - zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth
   - zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,11 +20,14 @@ Hanji 981 introduces the concept through [[LiuYanLateHan|刘焉]] and [[LiuZhang
 
 Hanji 1053 deepens the cleavage by showing its social consequence. Dongzhou troops bully Yi Province locals, Liu Zhang's mildness and weak authority fail to restrain them, and [[ZhaoWeiLateHan|赵韪]] uses the resentment to raise a broad revolt. The same episode places [[PangXiLateHan|庞羲]]'s private Cong recruitment nearby as another sign that local and frontier force channels are not securely fused into Liu Zhang's order.
 
+Hanji 1126 adds the late alignment consequence. The episode says Dongzhou-linked figures disproportionately move toward [[LiuBei|刘备]], while Yizhou locals such as Huang Quan, Zheng Du, and Yan Yan oppose Liu Bei or retain stronger support for [[LiuZhang|刘璋]]. The cleavage therefore changes from a problem of troop discipline and revolt into a rival-recruitment channel during regime collapse, without making faction identity a complete explanation of individual choice.
+
 ## Key Claims
 - A ruler can hold a province militarily while failing to integrate the province politically.
 - Migrant or imported troops may solve initial security needs but deepen local resentment if they become a privileged extraction or bullying group.
 - Local elite rebellion or talent exit can signal a missing shared order, not only individual disloyalty.
 - Weak personal kindness does not substitute for the capacity to discipline a favored military bloc.
+- A long-unresolved cleavage can reappear during invasion or succession as asymmetric defection and resistance.
 - The concept differs from [[LocalEliteProxySelection|地方豪强代理人选择]]: that concept asks which proxy local elites choose; this one asks what happens when a ruling bloc cannot fuse imported force and local standing.
 
 ## Evidence
@@ -31,13 +35,15 @@ Hanji 1053 deepens the cleavage by showing its social consequence. Dongzhou troo
 - Suppression without integration: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] uses Gan Ning's failed rebellion and later eastward exit as evidence that defeating a challenge does not convert local talent into capacity.
 - Abuse and weak discipline: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] reports Dongzhou troops bullying Yi Province locals and Liu Zhang failing to restrain them.
 - Resentment mobilization: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] shows Zhao Wei exploiting local resentment against Dongzhou troops to launch a revolt that draws commandery response.
+- Rival alignment: [[zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx|Hanji 1126]] contrasts Dongzhou-linked support for Liu Bei with opposition or continued Liu Zhang loyalty among named Yizhou locals.
 
 ## Counterevidence & Qualifications
-Imported troops are not inherently destabilizing; Hanji 981 shows why Liu Yan and Liu Zhang need reliable force in a fractured province. The cleavage becomes dangerous when force remains socially external, privileged, abusive, or undisciplined. The current evidence is Yizhou-specific, so the concept should not be applied to every migrant military group without matching evidence of local alienation.
+Imported troops are not inherently destabilizing; Hanji 981 shows why Liu Yan and Liu Zhang need reliable force in a fractured province. The cleavage becomes dangerous when force remains socially external, privileged, abusive, or undisciplined. Hanji 1126's late faction mapping is an episode-level interpretation rather than a deterministic roster: office, kinship, security, personal prospects, and military momentum also shape alignment. The current evidence is Yizhou-specific, so the concept should not be applied to every migrant military group without matching evidence of local alienation.
 
 ## What Changed
-- Migrated the concept to synthesis-v1.
-- Added Hanji 1053's Dongzhou troop bullying, Liu Zhang's failure to restrain it, and Zhao Wei's resentment-based rebellion.
+- Extended the cleavage from troop abuse and local revolt into late-regime defection and resistance.
+- Added the Dongzhou-linked support for Liu Bei versus named Yizhou-local opposition as a qualified alignment pattern.
+- Explicitly rejected faction identity as a complete explanation of individual choice.
 
 ## Related Concepts
 - [[LocalEliteProxySelection|地方豪强代理人选择]] - contrast pattern focused on which ruler local elites select as their proxy.
@@ -45,3 +51,4 @@ Imported troops are not inherently destabilizing; Hanji 981 shows why Liu Yan an
 - [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - institutional frame that lets provincial rulers build semi-autonomous force bases.
 - [[SuccessionAuthorityConsolidation|继位权威整合]] - contrast pattern where a successor actively retests and disciplines inherited forces and appointees.
 - [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - related fragility frame because inherited blocs can fracture after the founding ruler dies.
+- [[TalentAsStateTreasure|以贤臣为宝]] - adjacent personnel frame because factional non-integration can transfer capable people to a rival.
