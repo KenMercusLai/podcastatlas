@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP138-“来了就是深圳人”？](sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp.md) — 无时差研究所从三种迁居经验讨论深圳的移民城市归属、特区实验精神，以及住房、教育、医疗与长期定居的落差。
 - [EP139-《花木兰》：好莱坞的一次东方想象](sources/ep139-huamulan-haolaiwu-de-yici-dongfang-xiangxiang-cmcoosmdrxiubxwqfwbyleav.md) — 无时差研究所从人物成长、女性主题、文化符号、语言本地化与疫情发行重读迪士尼真人版《花木兰》。
 - [EP142-时至今日你还看不起国产新能源车吗？](sources/ep142-shizhijinri-ni-hai-kanbuqi-guochan-xinnengyuanche-ma-cmcoosidyoetcpz-zabeibq.md) — 无时差研究所以2020年行业视角连接中国电动车产业追赶、供应链、安全、补能约束、增程路线与软件化未来，并将品牌判断限定为历史快照。
 - [EP143-当代年轻人的饮酒文化：谁说白酒不能做鸡尾酒？](sources/ep143-dangdai-nianqingren-de-yinjiu-wenhua-shui-shuo-baijiu-buneng-zuo-jiweijiu-cmcoor4dajwhbj_a0gbgtuyr.md) — 索菲亚从调酒创作、女性专业信任、酒吧体验与“半海”品牌实践，说明白酒年轻化首先要重构饮用场景与消费者选择权。
@@ -16470,7 +16471,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Manner Coffee](entities/MannerCoffee.md) — Chinese coffee brand used as a cautionary Korea-market entry example.
 - [Sandunban / 三顿半](entities/Sandunban.md) — Chinese boutique instant-coffee brand whose Korea position differs from standard cafe-chain competition.
 - [Hong Kong / 香港](entities/HongKong.md) — Housing and offline-member-event case used to separate lived experience from property investment.
-- [Shenzhen / 深圳](entities/Shenzhen.md) — Housing-supply comparison city where land scarcity differs from Hong Kong and Guangzhou.
+- [Shenzhen / 深圳](entities/Shenzhen.md) — Migrant-built special-economic-zone city joining participatory belonging, dense manufacturing knowledge, hardware iteration, housing pressure, and a growth-to-livability transition.
 - [Guangzhou / 广州](entities/Guangzhou.md) — Housing-supply comparison city where new supply can pressure secondhand property values.
 - [Li Xiang / 李翔](entities/LiXiang.md) — Football media figure and entrepreneur recounting the failed Jumilla CF acquisition as a business-loop, control, and stop-loss lesson.
 - [Tang Hui / 唐辉](entities/TangHui.md) — Li Xiang's partner in the Jumilla CF project and "西甲欢乐多" football-media context.
@@ -18981,6 +18982,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hainan Growth and Resident Distribution / 海南增长与居民获得感](concepts/HainanGrowthResidentDistribution.md) — Test of whether tourism, duty-free, property, and policy-led growth become broad resident welfare and regional capability.
 - [Island Connectivity Development Constraint / 岛屿连通性发展约束](concepts/IslandConnectivityDevelopmentConstraint.md) — Mechanism by which bounded island geography supports regulation while raising transport and logistics friction.
 - [Policy-Driven Talent Retention Gap / 政策引才与留才落差](concepts/PolicyDrivenTalentRetentionGap.md) — Difference between incentive-led recruitment and durable settlement supported by careers, services, and personal fit.
+- [Migrant-City Belonging / 移民城市归属](concepts/MigrantCityBelonging.md) — Urban identity formed through participation, shared memory, and city-making rather than ancestry alone.
+- [Growth-to-Livability Transition / 从增长速度到城市宜居性](concepts/GrowthToLivabilityTransition.md) — Shift from attracting people and capital toward housing, services, everyday life, and durable settlement.
 - [Fall of France (1940)](concepts/FallOfFrance1940.md) — Campaign joining Ardennes surprise, combined arms, decision speed, command paralysis, and political fracture.
 - [Dunkirk Evacuation](concepts/DunkirkEvacuation.md) — Operation Dynamo understood as an unexpectedly large manpower rescue overlapping Britain's decision to continue the war.
 - [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Negotiation crisis and qualified choke point joining Churchill's authority to Britain's retained strategic capacity.

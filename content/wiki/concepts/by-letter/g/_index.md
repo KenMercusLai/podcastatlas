@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10481
+wiki_total_pages: 10483
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "GrowthWitnessing"
     title: "Growth Witnessing / 见证生长"
     url: "/wiki/concepts/growthwitnessing/"
+  - key: "GrowthToLivabilityTransition"
+    title: "Growth-to-Livability Transition / 从增长速度到城市宜居性"
+    url: "/wiki/concepts/growthtolivabilitytransition/"
   - key: "GSMStandardization"
     title: "GSM Standardization"
     url: "/wiki/concepts/gsmstandardization/"

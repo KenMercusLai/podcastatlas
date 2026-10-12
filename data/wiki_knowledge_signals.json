@@ -110857,6 +110857,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/growthmindset/"
     },
+    "GrowthToLivabilityTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSYDPDsGBaNYAQBWGiZp [CMCoOSYDPDsGBaNYAQBWGiZp].md",
+          "key": "ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp",
+          "show": "无时差研究所",
+          "title": "EP138-“来了就是深圳人”？",
+          "url": "/wiki/sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/growthtolivabilitytransition/"
+    },
     "GrowthWitnessing": {
       "episode_count": 1,
       "show_count": 1,
@@ -182488,6 +182504,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/migrainetriggerdiarymanagement/"
     },
+    "MigrantCityBelonging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoOSYDPDsGBaNYAQBWGiZp [CMCoOSYDPDsGBaNYAQBWGiZp].md",
+          "key": "ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp",
+          "show": "无时差研究所",
+          "title": "EP138-“来了就是深圳人”？",
+          "url": "/wiki/sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/concepts/migrantcitybelonging/"
+    },
     "MigrantHistoricalAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -210748,9 +210780,9 @@
       "url": "/wiki/concepts/policyboundagenticlendingsupport/"
     },
     "PolicyDrivenTalentRetentionGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
@@ -210758,9 +210790,16 @@
           "show": "无时差研究所",
           "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
           "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        },
+        {
+          "episode_file": "CMCoOSYDPDsGBaNYAQBWGiZp [CMCoOSYDPDsGBaNYAQBWGiZp].md",
+          "key": "ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp",
+          "show": "无时差研究所",
+          "title": "EP138-“来了就是深圳人”？",
+          "url": "/wiki/sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-12",
       "url": "/wiki/concepts/policydriventalentretentiongap/"
     },
     "PolicyLeverageForSystemChange": {
@@ -242649,6 +242688,50 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/shenyangcity/"
+    },
+    "Shenzhen": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
+          "key": "ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4",
+          "show": "Talk三联",
+          "title": "EP253 爆火的AI好物，到底是“真香”还是智商税？",
+          "url": "/wiki/sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4/"
+        },
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "CMCoOSYDPDsGBaNYAQBWGiZp [CMCoOSYDPDsGBaNYAQBWGiZp].md",
+          "key": "ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp",
+          "show": "无时差研究所",
+          "title": "EP138-“来了就是深圳人”？",
+          "url": "/wiki/sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp/"
+        }
+      ],
+      "updated": "2026-10-12",
+      "url": "/wiki/entities/shenzhen/"
     },
     "ShenzhenPeopleHospital": {
       "episode_count": 3,

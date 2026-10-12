@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10481
+wiki_total_pages: 10483
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "MigrantWorkerSocialInsuranceLegacy"
     title: "Migrant Worker Social Insurance Legacy / 农民工社保遗留问题"
     url: "/wiki/concepts/migrantworkersocialinsurancelegacy/"
+  - key: "MigrantCityBelonging"
+    title: "Migrant-City Belonging / 移民城市归属"
+    url: "/wiki/concepts/migrantcitybelonging/"
   - key: "MigrationWeaponization"
     title: "Migration Weaponization"
     url: "/wiki/concepts/migrationweaponization/"
