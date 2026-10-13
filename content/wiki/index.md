@@ -4693,6 +4693,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e.md) — 42章经对谈 Ambi 创始人子皓，讨论持续在线的个人智能体、环境触发式主动性、隐私、硬件分发与量产交付。
 
+- [Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁](sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um.md) — 文化有限以《白鲸》的捕鲸复仇主线连接百科式小说、海上劳动、产业史、宗教、经验知识、目标身份锁定及 AI 时代的媒介边界。
+
 ## Entities
 - [绿泡泡短剧 / Green Bubble Drama](entities/GreenBubbleDrama.md) — 微信官方免费短剧聚合入口，以外部小程序供给、剧集间广告和视频号跳转组织分散流量。
 - [朴朴厨房 / Pupu Kitchen](entities/PupuKitchen.md) — 朴朴以中央厨房、标准化菜品和前置仓履约试验自营餐饮外卖的引流产品。
@@ -18247,6 +18249,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
+- [Herman Melville / 赫尔曼·梅尔维尔](entities/HermanMelville.md) — 《白鲸》作者，其海上劳动经验在节目中被用于讨论技术知识、文学形式与延迟经典化。
+- [Moby-Dick / 《白鲸》](entities/MobyDick.md) — 以捕鲸复仇为主线、以百科知识和多重文体扩展产业、社会、宗教、自然与存在问题的小说。
+- [Ahab / 亚哈船长](entities/CaptainAhab.md) — 将断腿、衰老与长期牺牲压缩为复仇目标，并把私人意义危机转成全船风险的悲剧船长。
+- [Ishmael / 以实玛利（《白鲸》）](entities/IshmaelMobyDick.md) — 以出海逃离忧郁并通过劳动、陌生性与好奇心扩大认知世界的《白鲸》叙述者。
+
 ## Concepts
 - [治理能力型合法性 / Governance-Capacity Legitimacy](concepts/GovernanceCapacityLegitimacy.md) — 以止乱、约束强者、维持生计与公共安全检验统治正当性，同时要求核算强权自身的暴力、汲取和继承风险。
 - [Claimant Lineage Political Capital / 宗室谱系政治资本](concepts/ClaimantLineagePoliticalCapital.md) — 王室谱系如何在领土与实力形成前提供可识别的联盟合法性，同时仍须靠组织与执行转化为权力。
@@ -28863,5 +28870,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Formal Equality and Structural Discrimination / 形式平等与结构性歧视](concepts/FormalEqualityStructuralDiscrimination.md) — 区分不再明示种族的规则与仍通过代理条件、执行差异和历史资产产生不平等结果的制度。
 
 - [Food–Memory Bidirectionality](concepts/FoodMemoryBidirectionality.md) — Reciprocal framework in which eating-related signals shape memory while remembered meals help interpret hunger, fullness, and later food choice.
+
+- [Encyclopedic Fiction World Expansion / 百科式小说世界扩展](concepts/EncyclopedicFictionWorldExpansion.md) — 技术说明、分类、文献、历史与多种文体把一个情节对象扩展为物质、社会和哲学世界模型的方法。
+- [Purpose Identity Lock-In / 目标身份锁定](concepts/PurposeIdentityLockIn.md) — 单一目标被用来证明伤害、牺牲和自我价值，使停止像抹去过去而成功又威胁目标化身份的状态。
 
 ## Syntheses

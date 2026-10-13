@@ -36782,3 +36782,11 @@ Added source `zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcj
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁
+
+Added source `vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um`; created [[HermanMelville|Herman Melville]], [[MobyDick|《白鲸》]], [[CaptainAhab|Ahab]], [[IshmaelMobyDick|Ishmael]], [[EncyclopedicFictionWorldExpansion|百科式小说世界扩展]], and [[PurposeIdentityLockIn|目标身份锁定]]; and resynthesized [[CultureLimited|文化有限]], [[CreativeExperienceBottleneck|创作经验瓶颈]], and [[ExperientialAssociation|经验联想]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel's apparent digressions enlarge a revenge voyage into a material, social, religious, and philosophical world, while Ahab turns injury and a sacrificed working life into one target whose pursuit consumes collective safety and every alternative future. No settled contradiction is adopted. Publication history, whaling figures, biblical readings, biographical details, named influence, character motives, and medium comparisons remain source-scoped cultural commentary. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,608 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

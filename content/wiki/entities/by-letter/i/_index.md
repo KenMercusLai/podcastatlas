@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13482
+wiki_total_pages: 13486
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "IshikawaTakuboku"
     title: "Ishikawa Takuboku / 石川啄木"
     url: "/wiki/entities/ishikawatakuboku/"
+  - key: "IshmaelMobyDick"
+    title: "Ishmael / 以实玛利（《白鲸》）"
+    url: "/wiki/entities/ishmaelmobydick/"
   - key: "IshtarInanna"
     title: "Ishtar / Inanna"
     url: "/wiki/entities/ishtarinanna/"

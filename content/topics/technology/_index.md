@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3507
+topic_total_pages: 3508
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10167,6 +10167,9 @@ topic_sources:
   - key: "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj"
     title: "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们"
     url: "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
+  - key: "vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um"
+    title: "Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁"
+    url: "/wiki/sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um/"
   - key: "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw"
     title: "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远"
     url: "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"

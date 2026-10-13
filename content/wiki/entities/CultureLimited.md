@@ -11,7 +11,8 @@ sources:
   - vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h
   - vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow
   - vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya
-last_updated: 2026-10-06
+  - vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ knowledge_schema: synthesis-v1
 文化有限 is a reading-oriented program represented through [[ChaoGe|超哥]]'s meta-account of its production, single-work discussions, and a cross-media seasonal special.
 
 ## Current Profile
-The eight-source profile makes 文化有限 a case of book-centered long conversation that can widen into cross-media curation and performance-aware dramatic reading. [[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] explains books as a durable conversation engine and form of [[OutputForcedInput]]. The direct reading episodes distribute attention across form, context, psychology, ethics, and personal response: [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv]] translates psychotherapy through scenes; [[vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr]] joins bestseller fiction to nature, justice, trauma, and adaptation; [[vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol]] reads civilization through allegory; and [[vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj]] uses contemporary fiction to discuss AI, visibility, and selfhood.
+The nine-source profile makes 文化有限 a case of book-centered long conversation that can widen into cross-media curation, performance-aware dramatic reading, and encyclopedic inquiry. [[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] explains books as a durable conversation engine and form of [[OutputForcedInput]]. The direct reading episodes distribute attention across form, context, psychology, ethics, and personal response: [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv]] translates psychotherapy through scenes; [[vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr]] joins bestseller fiction to nature, justice, trauma, and adaptation; [[vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol]] reads civilization through allegory; and [[vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj]] uses contemporary fiction to discuss AI, visibility, and selfhood.
 
 The nonfiction branch adds self-implication. In [[vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h]], the hosts explain fake performance through ambition, work, audience demand, and public trauma without allowing complexity or genuine emotional benefit to erase ethical judgment.
 
@@ -29,14 +30,16 @@ The autumn-special branch in [[vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-j
 
 The drama branch treats a script as a form that must be read through performance instructions as well as dialogue. In [[vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya]], a three-pass method moves from plot and speech to directorial staging and then criticism, while character-centered adaptation proposals test how point of view changes the judgment of work, care, and inherited ambition.
 
+The encyclopedic-classic branch in [[vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um]] treats difficulty as evidence to interpret rather than a defect to hide. Its reading of [[MobyDick|《白鲸》]] connects plot, classification, industrial history, maritime labor, religion, philosophical inquiry, and mixed genre, then uses AI, documentary, and game comparisons to ask what information systems can accelerate and what embodied literary experience still contributes.
+
 ## Key Characteristics
 - The program uses books as a durable engine for recurring conversation.
 - Its book talk is ordinary-reader-facing without requiring every episode to become formal literary criticism.
 - Group discussion distributes attention across plot, context, form, psychology, ethics, personal response, and the embodied demands of performance.
 - The show supports [[BridgeStyleReadingContent]] by making serious reading sound social, reachable, and emotionally varied.
-- It can translate psychology through narrative without turning public discussion into individualized advice.
-- It can hold structural explanation, personal benefit, and moral responsibility together without forcing a simple villain-victim split.
+- It can translate psychology and structural explanation through narrative while preserving advice and responsibility boundaries.
 - Its seasonal curation can synthesize works across media through a common emotional and ethical thread.
+- It can use a demanding classic's digressions to connect formal experiment, material history, labor knowledge, and existential inquiry.
 
 ## Evidence
 - Durable conversation engine: [[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] says books helped old colleagues sustain a conversation show.
@@ -46,13 +49,14 @@ The drama branch treats a script as a form that must be read through performance
 - Complex ethical accounting: [[vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h]] keeps deception, audience comfort, income, workplace pressure, impostor feelings, and consumer knowledge in the same analysis.
 - Cross-media synthesis: [[vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow]] links songs, films, dramas, and books through restorative attention, finite relationship value, grief, and action under uncertainty.
 - Performance-aware reading: [[vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya]] treats dialogue, action notes, blocking, transparent scenery, light, music, and live temporal transition as one interpretive system.
+- Encyclopedic reading: [[vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um]] treats whaling facts, labor, industry, scripture, poetry, drama, and viewpoint shifts as parts of one inquiry rather than detachable background.
 
 ## Qualifications
-The wiki still has only a limited source set for 文化有限. The current profile should not be read as a complete account of the program's catalog, host roster, or institutional history. Vol.352's AI claims, Vol.353's plot and social readings, Vol.354's psychological, audience, and post-9/11 claims, and Vol.355's social-history and character-motive claims are cultural commentary rather than independent empirical evidence.
+The wiki still has only a limited source set for 文化有限. The current profile should not be read as a complete account of the program's catalog, host roster, or institutional history. Vol.352's AI claims, Vol.353's plot and social readings, Vol.354's psychological, audience, and post-9/11 claims, Vol.355's social-history and character-motive claims, and Vol.356's literary, religious, industrial, and biographical claims are cultural commentary rather than independent empirical evidence.
 
 ## What Changed
-- Added performance-aware script reading as a distinct part of the show's represented method.
-- Expanded the profile's formal range through direct attention to blocking, scenery, embodied contradiction, and live time shifts.
+- Added encyclopedic-classic reading as a distinct part of the show's represented method.
+- Expanded the AI-era comparison from contemporary selfhood and fake performance to the boundary between information access and embodied literary creation.
 
 ## Relationships
 - [[ChaoGe]] - host/source voice who explains the show's origin and contributes literary-texture readings.
@@ -71,3 +75,5 @@ The wiki still has only a limited source set for 文化有限. The current profi
 - [[RelationshipValueBeyondDuration]] - relationship judgment connecting several Vol.353 recommendations.
 - [[DeathOfASalesman]] - first directly represented play-centered case.
 - [[PsychologicalTimeStagecraft]] - formal concept developed through the Vol.355 discussion of theatrical space and memory.
+- [[MobyDick]] - encyclopedic-classic case joining maritime labor, industrial history, religion, nature, and existential purpose.
+- [[EncyclopedicFictionWorldExpansion]] - formal concept developed through the Vol.356 treatment of digression and mixed genre.

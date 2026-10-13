@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10533
+wiki_total_pages: 10535
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "EncomiendaColonialLaborSystem"
     title: "Encomienda Colonial Labor System"
     url: "/wiki/concepts/encomiendacoloniallaborsystem/"
+  - key: "EncyclopedicFictionWorldExpansion"
+    title: "Encyclopedic Fiction World Expansion / 百科式小说世界扩展"
+    url: "/wiki/concepts/encyclopedicfictionworldexpansion/"
   - key: "EndOfLifeAutonomyAndDignity"
     title: "End-of-Life Autonomy And Dignity"
     url: "/wiki/concepts/endoflifeautonomyanddignity/"

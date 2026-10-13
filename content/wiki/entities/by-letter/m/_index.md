@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13482
+wiki_total_pages: 13486
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1553,6 +1553,9 @@ wiki_pages:
   - key: "MobutuSeseSeko"
     title: "Mobutu Sese Seko"
     url: "/wiki/entities/mobutuseseseko/"
+  - key: "MobyDick"
+    title: "Moby-Dick / 《白鲸》"
+    url: "/wiki/entities/mobydick/"
   - key: "MockTurtle"
     title: "Mock Turtle / 假海龟"
     url: "/wiki/entities/mockturtle/"

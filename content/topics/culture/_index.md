@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3494
+topic_total_pages: 3499
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1234,6 +1234,9 @@ topic_concepts:
   - key: "EmpathicAdversarialInterviewing"
     title: "Empathic Adversarial Interviewing"
     url: "/wiki/concepts/empathicadversarialinterviewing/"
+  - key: "EncyclopedicFictionWorldExpansion"
+    title: "Encyclopedic Fiction World Expansion / 百科式小说世界扩展"
+    url: "/wiki/concepts/encyclopedicfictionworldexpansion/"
   - key: "EngineeringCompetition"
     title: "Engineering Competition"
     url: "/wiki/concepts/engineeringcompetition/"
@@ -2752,6 +2755,9 @@ topic_concepts:
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"
+  - key: "PurposeIdentityLockIn"
+    title: "Purpose Identity Lock-In / 目标身份锁定"
+    url: "/wiki/concepts/purposeidentitylockin/"
   - key: "QueerSafetyRetreat"
     title: "Queer Safety Retreat / 少数群体安全退让"
     url: "/wiki/concepts/queersafetyretreat/"
@@ -3920,6 +3926,9 @@ topic_entities:
   - key: "Agamemnon"
     title: "Agamemnon"
     url: "/wiki/entities/agamemnon/"
+  - key: "CaptainAhab"
+    title: "Ahab / 亚哈船长"
+    url: "/wiki/entities/captainahab/"
   - key: "AITalk"
     title: "AI Talk"
     url: "/wiki/entities/aitalk/"
@@ -5003,6 +5012,9 @@ topic_entities:
   - key: "IsaoTakahata"
     title: "Isao Takahata / 高畑勋"
     url: "/wiki/entities/isaotakahata/"
+  - key: "IshmaelMobyDick"
+    title: "Ishmael / 以实玛利（《白鲸》）"
+    url: "/wiki/entities/ishmaelmobydick/"
   - key: "Istanbul"
     title: "Istanbul / 伊斯坦布尔"
     url: "/wiki/entities/istanbul/"
@@ -10242,6 +10254,9 @@ topic_sources:
   - key: "vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya"
     title: "Vol.355 推销员之死：那些杀不死我的，为什么一直在打我"
     url: "/wiki/sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya/"
+  - key: "vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um"
+    title: "Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁"
+    url: "/wiki/sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um/"
   - key: "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i"
     title: "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切"
     url: "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
