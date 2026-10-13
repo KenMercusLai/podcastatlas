@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10542
+wiki_total_pages: 10544
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "EmotionalCoRegulationFit"
     title: "Emotional Co-Regulation Fit / 情绪共调匹配"
     url: "/wiki/concepts/emotionalcoregulationfit/"
+  - key: "EmotionalConsumptionScalability"
+    title: "Emotional Consumption Scalability / 情绪消费规模化"
+    url: "/wiki/concepts/emotionalconsumptionscalability/"
   - key: "EmotionalContagion"
     title: "Emotional Contagion / 情绪感染"
     url: "/wiki/concepts/emotionalcontagion/"
@@ -1307,6 +1310,9 @@ wiki_pages:
   - key: "ExperienceLedBrand"
     title: "Experience-Led Brand"
     url: "/wiki/concepts/experienceledbrand/"
+  - key: "ExperienceMemoryPremium"
+    title: "Experience-Memory Premium / 体验记忆溢价"
+    url: "/wiki/concepts/experiencememorypremium/"
   - key: "ExperientialAssociation"
     title: "Experiential Association / 经验联想"
     url: "/wiki/concepts/experientialassociation/"

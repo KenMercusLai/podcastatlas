@@ -80188,6 +80188,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/emotionattentionalcapture/"
     },
+    "EmotionEconomy": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP263 线香崛起：发现中式香气的魅力 [lq1LsqCPrqYR7aUO5gslwYymuIv_].md",
+          "key": "ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv",
+          "show": "Talk三联",
+          "title": "EP263 线香崛起：发现中式香气的魅力",
+          "url": "/wiki/sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv/"
+        },
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "GKwRIW4Oo_7zAsE74QTnvvv8 [GKwRIW4Oo_7zAsE74QTnvvv8].md",
+          "key": "fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？",
+          "url": "/wiki/sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/emotioneconomy/"
+    },
     "EmotionGuidedLearning": {
       "episode_count": 1,
       "show_count": 1,
@@ -80351,6 +80395,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/emotionalcoregulationfit/"
+    },
+    "EmotionalConsumptionScalability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oo_7zAsE74QTnvvv8 [GKwRIW4Oo_7zAsE74QTnvvv8].md",
+          "key": "fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？",
+          "url": "/wiki/sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/emotionalconsumptionscalability/"
     },
     "EmotionalContagion": {
       "episode_count": 5,
@@ -88408,6 +88468,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/experienceformingeducation/"
+    },
+    "ExperienceMemoryPremium": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oo_7zAsE74QTnvvv8 [GKwRIW4Oo_7zAsE74QTnvvv8].md",
+          "key": "fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？",
+          "url": "/wiki/sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/experiencememorypremium/"
     },
     "ExperienceOrchestrator": {
       "episode_count": 1,
@@ -158742,6 +158818,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyinglatehan/"
+    },
+    "LiYonghao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oo_7zAsE74QTnvvv8 [GKwRIW4Oo_7zAsE74QTnvvv8].md",
+          "key": "fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？",
+          "url": "/wiki/sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/liyonghao/"
     },
     "LiYuWriter": {
       "episode_count": 2,

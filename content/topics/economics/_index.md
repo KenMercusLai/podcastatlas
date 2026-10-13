@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2265
+topic_total_pages: 2268
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1069,6 +1069,9 @@ topic_concepts:
   - key: "ElectricVehiclePriceParity"
     title: "Electric Vehicle Price Parity"
     url: "/wiki/concepts/electricvehiclepriceparity/"
+  - key: "EmotionalConsumptionScalability"
+    title: "Emotional Consumption Scalability / 情绪消费规模化"
+    url: "/wiki/concepts/emotionalconsumptionscalability/"
   - key: "EmployeeEquityCommunication"
     title: "Employee Equity Communication"
     url: "/wiki/concepts/employeeequitycommunication/"
@@ -5702,6 +5705,9 @@ topic_entities:
   - key: "LiQianBrand"
     title: "李倩 / Li Qian (brand consultant)"
     url: "/wiki/entities/liqianbrand/"
+  - key: "LiYonghao"
+    title: "李永浩"
+    url: "/wiki/entities/liyonghao/"
   - key: "YangTianzhen"
     title: "杨天真 / 天真"
     url: "/wiki/entities/yangtianzhen/"
@@ -6798,6 +6804,9 @@ topic_sources:
   - key: "paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78"
     title: "泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授"
     url: "/wiki/sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78/"
+  - key: "fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8"
+    title: "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？"
+    url: "/wiki/sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8/"
   - key: "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb"
     title: "财报的根 + 估值的茎 = 叙事的果实"
     url: "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"

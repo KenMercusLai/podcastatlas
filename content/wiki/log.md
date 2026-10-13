@@ -36819,3 +36819,11 @@ Added source `tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | 番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？
+
+Added source `fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8`; created [[LiYonghao|李永浩]], [[ExperienceMemoryPremium|体验记忆溢价]], and [[EmotionalConsumptionScalability|情绪消费规模化]]; and resynthesized [[EmotionEconomy|情绪经济]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: emotional value can arise from relief, identity, belonging, ritual, confidence, or a scarce memory, but subjective value, a sustainable local business, a scalable company, and an attractive investment remain distinct judgments; personalization can strengthen attachment while weakening repeatability. No settled contradiction was adopted. The unsourced 2025-2029 market forecast, company assessments, resale claims, and investment implications remain source-scoped. Broad host, show, and company profiles were kept closed because the focused pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,613 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

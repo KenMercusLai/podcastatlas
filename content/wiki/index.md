@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？](sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8.md) — 半拿铁现场圆桌以体验、收藏、IP、社区服务与品牌案例区分情绪价值、可持续小生意、规模化公司和投资机会。
 - [Colleges are training the next generation of content creators](sources/tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128.md) — Marketplace Tech profile of formal creator education, analytics-driven production practice, creative autonomy, and digital portfolios beyond influencer fame.
 - [507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故](sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g.md) — 忽左忽右访谈安德烈，以竞技盲品、巴黎审判、风土分歧和中国葡萄酒产业条件解释一杯酒中的感官、制度与市场信息。
 - [149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷](sources/ep149-ep149.md) — 疯投圈拆解抖省省与美团、大众点评的到店团购竞争，并以东茅街茶馆和天福台讨论商户如何建立不依赖平台券的目的地流量。
@@ -4700,6 +4701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
 
 ## Entities
+- [李永浩](entities/LiYonghao.md) — 三点下班相关播客嘉宾，以消费观察、日常幸福节奏和投资职业边界参与情绪价值讨论。
 - [Charlie Randall](entities/CharlieRandall.md) — Arkansas Tech student combining digital content creation, theater, selective analytics use, and an acting-portfolio plan.
 - [Arkansas Tech University](entities/ArkansasTechUniversity.md) — University represented through a practice-based digital content creation degree combining analytics and cross-disciplinary media production.
 - [安德烈 / Andelie (wine taster)](entities/AndelieWineTaster.md) — 纪录片导演、盲品训练组织者与中国竞技葡萄酒盲品选手。
@@ -18266,6 +18268,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
 
 ## Concepts
+- [Emotional Consumption Scalability / 情绪消费规模化](concepts/EmotionalConsumptionScalability.md) — 解释个性化、信任与社群如何提高情绪价值，却也限制标准化、跨地域复制和资本规模。
+- [Experience-Memory Premium / 体验记忆溢价](concepts/ExperienceMemoryPremium.md) — 由稀缺时刻、便利、参与和私人记忆构成、超出直接物质成本的体验溢价。
 - [Digital Creator Education](concepts/DigitalCreatorEducation.md) — Formal training that combines repeated publishing, platform craft, analytics, collaboration, career preparation, and creative judgment.
 - [Competitive Wine Blind Tasting / 竞技葡萄酒盲品](concepts/CompetitiveWineBlindTasting.md) — 在控制标签与场外线索后，以感官证据、类别知识、赛事策略和团队判断推断葡萄酒身份的计分实践。
 - [Chinese Wine Industry Development / 中国葡萄酒产业发展](concepts/ChineseWineIndustryDevelopment.md) — 以技术连续性、原产地规则、地块认知、消费基础和代际经验判断产业成熟度的框架。

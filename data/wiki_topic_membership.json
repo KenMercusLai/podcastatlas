@@ -33974,6 +33974,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmotionalConsumptionScalability": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "EmotionalContagion": [
     {
       "key": "politics",
@@ -55121,6 +55128,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LiYonghao": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "LiYuWriter": [
@@ -103553,6 +103567,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658": [
