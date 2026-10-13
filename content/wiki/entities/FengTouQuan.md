@@ -15,7 +15,8 @@ sources:
   - 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1
   - 146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1
   - 148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1
-last_updated: 2026-09-28
+  - ep149-ep149
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,11 +24,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-疯投圈 is a Chinese business, consumer, and investing podcast represented here by episodes on food and beverage categories, experiential consumption, sports and fitness, public-market method, hardware, electric vehicles, consumer-brand globalization, restaurant localization, creator marketing, light food, and sleep products.
+疯投圈 is a Chinese business, consumer, and investing podcast represented here by episodes on food and beverage categories, experiential consumption, sports and fitness, public-market method, hardware, electric vehicles, consumer-brand globalization, restaurant localization, creator marketing, everyday products, and local-commerce platforms.
 
 ## Current Profile
 
-Across the bounded source set, 疯投圈 works as a category-analysis program. It moves from visible brands or trends into the operating systems beneath them: product experience, category education, channel control, price, supply chain, local execution, traffic, capital, regulation, and organizational incentives. Episode 148 reinforces that method across two ordinary health needs, showing how inherited infrastructure can accelerate light food and how simple reductions in bedding friction can matter in a mature sector.
+Across the bounded source set, 疯投圈 works as a category-analysis program. It moves from visible brands or trends into the operating systems beneath them: product experience, category education, channel control, price, supply chain, local execution, traffic, capital, regulation, and organizational incentives. Episode 149 extends that method into [[InStoreDealCompetition]], separating discovery, evaluation, checkout, payment, redemption, merchant coverage, and physical fulfillment before turning to [[MerchantOwnedDestinationDemand]] as a merchant-side response.
 
 The show also mixes analysis with proximity to the market. That can provide operator detail, but the corpus includes founder-promotional material, commercial insurance segments, paid study-tour framing, membership promotion, and disclosed investments. Those relationships do not invalidate the operating arguments; they make claim type, evidence quality, and conflicts of interest part of reading the show responsibly.
 
@@ -39,6 +40,7 @@ The show also mixes analysis with proximity to the market. That can provide oper
 - Operational skepticism that tests slogans against supply, execution, pricing, control rights, and unit-level behavior.
 - Investor-adjacent judgment connecting business quality to valuation, catalysts, capital, regulation, and temperament.
 - AI-era view in which automation scales research or workflow while embodied experience, strategy, and trust retain value.
+- Platform-system analysis that separates attention, decision content, transaction, payment, fulfillment, and merchant supply.
 
 ## Evidence
 
@@ -48,16 +50,17 @@ The show also mixes analysis with proximity to the market. That can provide oper
 - Investment and pricing discipline: [[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] separates good companies from good stocks, while [[143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]] connects premium EV narratives to product lines, margins, financing, and infrastructure.
 - AI and workflow: [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] frames embodied experience as scarcer under AI, and [[146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1]] frames AI as an execution amplifier for creator marketing rather than a substitute for strategy and trust.
 - Everyday product operations: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] connects store infrastructure, fresh-food logistics, hotel retail, channel headwinds, and bedding-maintenance friction.
+- Local commerce and merchant autonomy: [[ep149-ep149]] contrasts [[Doushenshen|抖省省]], [[Meituan]], and [[DazhongDianping|大众点评]] across price, reviews, merchant coverage, payment, and redemption, then uses [[DongmaojieTeahouse|东茅街茶馆]] and [[Tianfutai|天福台]] to develop a non-coupon destination strategy.
 
 ## Qualifications
 
-The page synthesizes only the listed episodes, not the full show archive. Many figures and causal claims are host or guest interpretations rather than audited research. Episode 146 is partly platform-promotional; episode 148 contains a commercial insurance segment and disclosed investment relationships with Super Bowl and 唐岛. Company forecasts, field observations, and category timing should remain source-scoped unless independently corroborated.
+The page synthesizes only the listed episodes, not the full show archive. Many figures and causal claims are host or guest interpretations rather than audited research. Episode 146 is partly platform-promotional; episode 148 contains a commercial insurance segment and disclosed investment relationships with Super Bowl and 唐岛; episode 149 favorably discusses an investment-adjacent venue and promoted study trip. Company metrics, field observations, and category timing should remain source-scoped unless independently corroborated.
 
 ## What Changed
 
-- Extended the show's category-analysis profile into everyday health consumption and mature-sector product design.
-- Made commercial, founder-promotional, and investment-proximity qualifications explicit across the bounded corpus.
-- Added simple user-friction removal as another recurring route from product detail to business-model analysis.
+- Extended the show's operating-system analysis into in-store local-commerce competition.
+- Added merchant-owned destination demand as a response to standardized coupon and platform price competition.
+- Expanded the conflict-of-interest qualification to the investment-adjacent venue and promoted study-trip material.
 
 ## Relationships
 
@@ -68,3 +71,5 @@ The page synthesizes only the listed episodes, not the full show archive. Many f
 - [[AIDrivenCreatorMarketing]] - episode 146's workflow-scale case.
 - [[ChineseConsumerBrandSoftPower]] - outbound consumer-brand branch developed by earlier episodes.
 - [[GoodCompanyGoodStock]] - investment-method branch separating company quality from stock outcome.
+- [[InStoreDealCompetition]] - episode 149's local-platform competition framework.
+- [[MerchantOwnedDestinationDemand]] - episode 149's merchant-autonomy and experience-space framework.

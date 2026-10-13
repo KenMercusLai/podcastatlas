@@ -27683,6 +27683,10 @@
     "title": "东胡 / Donghu",
     "url": "/wiki/entities/donghu/"
   },
+  "DongmaojieTeahouse": {
+    "title": "东茅街茶馆 / Dongmaojie Teahouse",
+    "url": "/wiki/entities/dongmaojieteahouse/"
+  },
   "DongmenYellowDog": {
     "title": "Dongmen Yellow Dog / 东门黄犬",
     "url": "/wiki/concepts/dongmenyellowdog/"
@@ -27900,7 +27904,7 @@
     "url": "/wiki/entities/douglashaig/"
   },
   "Doushenshen": {
-    "title": "Doushenshen",
+    "title": "抖省省 / Doushenshen",
     "url": "/wiki/entities/doushenshen/"
   },
   "Douyin": {
@@ -44659,6 +44663,10 @@
     "title": "In-Memory Computing For Edge AI",
     "url": "/wiki/concepts/inmemorycomputingforedgeai/"
   },
+  "InStoreDealCompetition": {
+    "title": "In-Store Deal Competition / 到店团购竞争",
+    "url": "/wiki/concepts/instoredealcompetition/"
+  },
   "InStoreDemos": {
     "title": "In-Store Demos",
     "url": "/wiki/concepts/instoredemos/"
@@ -59486,6 +59494,10 @@
   "MerchantExchangeInfrastructure": {
     "title": "Merchant Exchange Infrastructure / 商人交换基础设施",
     "url": "/wiki/concepts/merchantexchangeinfrastructure/"
+  },
+  "MerchantOwnedDestinationDemand": {
+    "title": "Merchant-Owned Destination Demand / 商户自有目的地流量",
+    "url": "/wiki/concepts/merchantowneddestinationdemand/"
   },
   "MerchantPoliticalPowerConversion": {
     "title": "Merchant Political-Power Conversion / 巨商的财富—权力转换",
@@ -87587,6 +87599,10 @@
     "title": "天地会 / Tiandihui",
     "url": "/wiki/entities/tiandihui/"
   },
+  "Tianfutai": {
+    "title": "天福台 / Tianfutai",
+    "url": "/wiki/entities/tianfutai/"
+  },
   "TiangongUltra": {
     "title": "Tiangong Ultra",
     "url": "/wiki/entities/tiangongultra/"
@@ -102618,6 +102634,10 @@
   "ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw": {
     "title": "EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？",
     "url": "/wiki/sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw/"
+  },
+  "ep149-ep149": {
+    "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+    "url": "/wiki/sources/ep149-ep149/"
   },
   "ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q": {
     "title": "EP157-困在拼多多的系统里：伟大的公司不应该让人感到害怕",

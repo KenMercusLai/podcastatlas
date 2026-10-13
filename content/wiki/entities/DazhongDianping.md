@@ -4,39 +4,54 @@ type: entity
 tags: [platform, local-services, reviews, china]
 sources:
   - ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw
-last_updated: 2026-10-12
+  - ep149-ep149
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
 # 大众点评 / Dazhong Dianping
 
 ## Overview
-大众点评 / Dazhong Dianping is a Chinese local-discovery and review platform presented in the current source as an entrance for nearby restaurants, leisure venues, and weekend destinations.
+
+大众点评 is a Chinese local-discovery and review platform whose accumulated merchant pages and user evaluations support nearby dining, leisure, and destination decisions.
 
 ## Current Profile
-The episode describes Dianping as a hybrid of location-based service, user-generated content, merchant presentation, and paid search visibility. Its value comes from a strong local-intent context: consumers arrive looking for somewhere to go, while merchants can improve pages, feature dishes, publish updates, and pay for keyword ranking.
 
-The same system creates a trust tension. VIP levels, posting requirements, points, merchant benefits, and the greater reach of high-status reviewers can sustain useful content while also creating incentives that weaken reviewer independence. The source therefore supports neither blanket trust nor blanket dismissal; it favors inspecting posting patterns and separating platform status from credible experience.
+Across the two sources, Dianping is a hybrid of location-based discovery, user-generated reviews, merchant presentation, paid visibility, and local-commerce transaction. Its strongest asset is decision context: consumers use merchant coverage, photos, reviews, and search to decide where to go.
+
+That asset does not guarantee ownership of checkout. Reviewer incentives, merchant promotion, and paid ranking can weaken perceived independence, while a user who has already selected a store may purchase the same or similar voucher more cheaply through [[Doushenshen|抖省省]]. The platform therefore faces a two-sided trust-and-monetization problem: preserving review credibility while converting decision value into transactions without letting advertising degrade search quality.
 
 ## Key Characteristics
-- Local-intent discovery surface for nearby dining and leisure decisions.
-- User-generated review community supported by levels, activity requirements, and rewards.
-- Merchant marketing channel combining page presentation, content, and paid search placement.
-- Trust system in which reviewer status can increase reach without guaranteeing independence.
+
+- High-intent local discovery surface for nearby dining and leisure decisions.
+- Accumulated merchant coverage, reviews, photos, and location context that reduce decision uncertainty.
+- User-contribution system supported by levels, activity requirements, reach, points, and rewards.
+- Merchant marketing channel combining page presentation, content, featured items, and paid search placement.
+- Transaction layer vulnerable to cheaper checkout after the platform has already supplied the decision.
+- Trust system where status and commercial incentives can support contribution without guaranteeing independence.
 
 ## Evidence
-- Local discovery and merchant tools - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] describes nearby search, weekend planning, page packaging, featured dishes, updates, and keyword ranking.
-- Community incentives - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] says VIP maintenance and quality-content rewards sustain contribution and can give high-level reviewers more influence.
-- Trust tension - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] warns that unusually frequent or repeated same-venue reviews may be less independent.
+
+- Discovery and merchant tools - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] describes nearby search, weekend planning, page packaging, featured dishes, updates, and keyword ranking.
+- Review incentives and trust - [[ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw]] describes VIP maintenance and rewards; [[ep149-ep149]] adds platform enforcement against benefit-linked reviews and the risk that commercialized ranking weakens credibility.
+- Decision-to-checkout leakage - [[ep149-ep149]] argues that users may rely on Dianping to choose a merchant and then buy a cheaper voucher elsewhere.
+- Merchant-coverage value - [[ep149-ep149]] treats the broader Meituan/Dianping merchant network as a stronger current defense than review content alone.
 
 ## Qualifications
-This profile rests on one 2020 practitioner conversation. Product design, ranking rules, rewards, merchant tools, and user behavior may have changed, and the episode does not provide platform records or representative review-quality evidence.
+
+The earlier profile rests on a 2020 practitioner conversation, and product rules may have changed. The newer episode supplies contemporary host observations but no platform records, representative review-quality study, ranking audit, or verified transaction-loss measurement. Paid visibility does not prove that all results are commercially distorted, and transaction leakage does not eliminate the independent value of reviews.
 
 ## What Changed
-- Created a focused profile of Dianping as a local-intent discovery, merchant-marketing, and review-trust system.
+
+- Extended the profile from review incentives and local discovery into the separation between decision and checkout.
+- Added the tension between review enforcement, advertising revenue, ranking credibility, and transaction leakage.
+- Reframed merchant coverage as a platform-system defense alongside accumulated content.
 
 ## Relationships
-- [[MarketingChannelCategoryFit]] - Dianping's strongest role in the source is matching local venues to high-intent nearby discovery.
-- [[LocalLifePlatformDependency]] - merchants can depend on platform ranking, presentation, and review visibility.
-- [[ContentSeedingMarketing]] - user posts can create awareness and consideration before a visit.
-- [[MarketingEthics]] - incentives and merchant relationships create disclosure and independence questions.
+
+- [[Meituan]] - shared merchant, transaction, and local-commerce ecosystem.
+- [[Doushenshen|抖省省]] - cheaper transaction surface that may capture users after Dianping supports the decision.
+- [[InStoreDealCompetition]] - market structure separating discovery, evaluation, price, payment, and redemption.
+- [[MarketingChannelCategoryFit]] - Dianping is strongest where local intent and nearby discovery matter.
+- [[LocalLifePlatformDependency]] - merchant visibility and demand can depend on page, ranking, and review systems.
+- [[MarketingEthics]] - incentives, advertising, and merchant relationships create disclosure and independence questions.

@@ -36790,3 +36790,11 @@ Added source `vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
+
+Added source `ep149-ep149`; created [[DongmaojieTeahouse|东茅街茶馆]], [[Tianfutai|天福台]], [[InStoreDealCompetition|到店团购竞争]], and [[MerchantOwnedDestinationDemand|商户自有目的地流量]]; and resynthesized [[Doushenshen|抖省省]], [[DazhongDianping|大众点评]], and [[FengTouQuan|疯投圈]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: in-store deals remove platform-funded delivery and let low price capture checkout after discovery, but durable competition still depends on trusted decision content, merchant breadth, payment, redemption, and anti-fraud; merchants can reduce coupon dependence only when the venue itself creates repeat destination demand. No settled contradiction is adopted. User, margin, redemption, subsidy, algorithm, merchant-coverage, and venue-performance figures remain source-scoped, and favorable Tianfutai discussion is qualified by promotional and investment proximity. Broad [[Douyin]], [[Meituan]], [[ByteDance]], [[Alibaba]], [[Gaode]], [[Alipay]], and [[Changsha]] profiles were kept closed because the focused product, platform, venue, and concept pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,609 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identity, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

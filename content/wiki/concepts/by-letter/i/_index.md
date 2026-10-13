@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10535
+wiki_total_pages: 10537
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "InMemoryComputingForEdgeAI"
     title: "In-Memory Computing For Edge AI"
     url: "/wiki/concepts/inmemorycomputingforedgeai/"
+  - key: "InStoreDealCompetition"
+    title: "In-Store Deal Competition / 到店团购竞争"
+    url: "/wiki/concepts/instoredealcompetition/"
   - key: "InStoreDemos"
     title: "In-Store Demos"
     url: "/wiki/concepts/instoredemos/"

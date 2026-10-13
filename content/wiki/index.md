@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷](sources/ep149-ep149.md) — 疯投圈拆解抖省省与美团、大众点评的到店团购竞争，并以东茅街茶馆和天福台讨论商户如何建立不依赖平台券的目的地流量。
 - [《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？](sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6.md) — 以治理、止乱与百姓福祉挑战单纯的汉室名分，并以《君主论》和庞统三策限定道德化阵营叙事。
 - [《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？](sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho.md) — 以宗室谱系、隆中对和荆益扩张解释诸葛亮择主与刘备晚成，并以入蜀夺益州过程限定单纯的仁德叙事。
 - [高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少](sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374.md) — 声动早咖啡串联微信短剧聚合、中欧混动车贸易、朴朴厨房、电动自行车认证与个人智能体竞争。
@@ -4696,6 +4697,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁](sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um.md) — 文化有限以《白鲸》的捕鲸复仇主线连接百科式小说、海上劳动、产业史、宗教、经验知识、目标身份锁定及 AI 时代的媒介边界。
 
 ## Entities
+- [东茅街茶馆 / Dongmaojie Teahouse](entities/DongmaojieTeahouse.md) — 以喝茶、嗑瓜子、聊天和长沙在地生活形成目的地需求、并不销售平台团购券的社交型茶馆。
+- [天福台 / Tianfutai](entities/Tianfutai.md) — 融合餐饮、茶、酒、演出与多时段社交使用的长沙复合空间，其商业成效仍需独立数据验证。
 - [绿泡泡短剧 / Green Bubble Drama](entities/GreenBubbleDrama.md) — 微信官方免费短剧聚合入口，以外部小程序供给、剧集间广告和视频号跳转组织分散流量。
 - [朴朴厨房 / Pupu Kitchen](entities/PupuKitchen.md) — 朴朴以中央厨房、标准化菜品和前置仓履约试验自营餐饮外卖的引流产品。
 - [LiteVela](entities/LiteVela.md) — 腾讯推出、可通过微信接入的持续在线个人智能体，具体集成、可靠性与权限边界尚待验证。
@@ -4727,7 +4730,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [YB (automotive guest)](entities/YBAutomotiveGuest.md) — 以德国汽车工程学习、行业与用车经验解释中国新能源车产业、产品和补能取舍的姓名未公开嘉宾。
 - [Sofia / 索菲亚 (alcohol creator)](entities/SofiaAlcoholCreator.md) — 酒类视频创作者与“半海”联合创始人，连接调酒教育、性别化评价与白酒品牌实践。
 - [Ban Hai / 半海](entities/BanHaiBaijiu.md) — 通过浓香白酒、鸡尾酒吧与餐厅渠道尝试重构年轻饮用场景的早期品牌。
-- [大众点评 / Dazhong Dianping](entities/DazhongDianping.md) — 本地生活发现、商家营销与用户评价激励交织的平台，其高等级影响力也带来评论独立性问题。
+- [大众点评 / Dazhong Dianping](entities/DazhongDianping.md) — 以商户覆盖和评价内容支持本地决策，同时面临评论可信度、广告排序与交易被更低价平台截流的张力。
 - [Bonar Law](entities/BonarLaw.md) — Conservative leader who made armed Ulster resistance to Home Rule a national party cause.
 - [F. E. Smith](entities/FESmith.md) — Liverpool barrister and Conservative MP linking Carson's Ulster campaign to mainland rallies, elections, and volunteer spectacle.
 - [杨康（金庸小说） / Yang Kang (Jin Yong)](entities/YangKangJinYong.md) — 以聪明、特权、身份隐瞒、重名位轻积累及道德教育不足，对照郭靖成长路径的《射雕英雄传》人物。
@@ -16738,7 +16741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [头条极速版 / Toutiao Lite](entities/ToutiaoLite.md) — ByteDance Lite content product that adapted QuToutiao-style incentives while relying on Toutiao content, recommendation, ads, and LTV.
 - [快手极速版 / Kuaishou Lite](entities/KuaishouLite.md) — Kuaishou short-video Lite product used as the episode's clearest case of reward-driven Lite-app scale.
 - [抖音极速版 / Douyin Lite](entities/DouyinLite.md) — ByteDance short-video Lite product connecting red-packet tasks, early behavior training, and internal traffic allocation.
-- [抖神神 / Doushenshen](entities/Doushenshen.md) — Douyin local-life direction shifting from content seeding and event coupons toward daily low-price transaction entry.
+- [抖省省 / Doushenshen](entities/Doushenshen.md) — 从抖音内容种草延伸出的独立低价到店交易入口，整合搜索、支付、订单与核销，同时受商户覆盖和补贴持续性约束。
 - [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product used as a growth-transfer case from Toutiao channels toward Hongguo and short-form content.
 - [汽水音乐 / Qishui Music](entities/QishuiMusic.md) — ByteDance music product whose growth uses Douyin account, BGM, viral-song, and interest signals.
 - [Temu](entities/Temu.md) — Pinduoduo's overseas low-price ecommerce platform, relying on supply, coupons, managed fulfillment, merchant adaptation, and now Xinpinmu-style self-operated quality upgrades.
@@ -16972,7 +16975,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
 - [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
 - [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
-- [疯投圈](entities/FengTouQuan.md) — Category-analysis podcast connecting consumer products, experience, localization, operations, investing, AI, light food, and sleep retail.
+- [疯投圈](entities/FengTouQuan.md) — 以品类与运营系统分析消费、体验、渠道、投资、AI及本地生活平台竞争的商业播客。
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
 - [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
@@ -18255,6 +18258,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ishmael / 以实玛利（《白鲸》）](entities/IshmaelMobyDick.md) — 以出海逃离忧郁并通过劳动、陌生性与好奇心扩大认知世界的《白鲸》叙述者。
 
 ## Concepts
+- [In-Store Deal Competition / 到店团购竞争](concepts/InStoreDealCompetition.md) — 用户自行到店履约时，平台围绕发现、评价、价格、支付、核销与商户覆盖展开的本地交易竞争。
+- [Merchant-Owned Destination Demand / 商户自有目的地流量](concepts/MerchantOwnedDestinationDemand.md) — 商户以独特场景、文化和社交体验使门店本身成为到访理由，从而降低对平台团购券的依赖。
 - [治理能力型合法性 / Governance-Capacity Legitimacy](concepts/GovernanceCapacityLegitimacy.md) — 以止乱、约束强者、维持生计与公共安全检验统治正当性，同时要求核算强权自身的暴力、汲取和继承风险。
 - [Claimant Lineage Political Capital / 宗室谱系政治资本](concepts/ClaimantLineagePoliticalCapital.md) — 王室谱系如何在领土与实力形成前提供可识别的联盟合法性，同时仍须靠组织与执行转化为权力。
 - [Short Drama Platform Aggregation / 短剧平台聚合](concepts/ShortDramaPlatformAggregation.md) — 平台不自制内容而以官方入口、免费观看、广告和跨界面链接聚合外部短剧供给。

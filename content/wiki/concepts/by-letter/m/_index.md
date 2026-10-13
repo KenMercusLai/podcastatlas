@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10535
+wiki_total_pages: 10537
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "MerchantAristocraticValueConflict"
     title: "Merchant-Aristocratic Value Conflict / 贵族-商人义利冲突"
     url: "/wiki/concepts/merchantaristocraticvalueconflict/"
+  - key: "MerchantOwnedDestinationDemand"
+    title: "Merchant-Owned Destination Demand / 商户自有目的地流量"
+    url: "/wiki/concepts/merchantowneddestinationdemand/"
   - key: "MeritConcealmentSelfProtection"
     title: "Merit Concealment Self-Protection"
     url: "/wiki/concepts/meritconcealmentselfprotection/"

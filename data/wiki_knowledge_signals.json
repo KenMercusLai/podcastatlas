@@ -64571,9 +64571,9 @@
       "url": "/wiki/entities/dayuanwesternhan/"
     },
     "DazhongDianping": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CMCoOR4DfOJ5Br3MlABkw9DW [CMCoOR4DfOJ5Br3MlABkw9DW].md",
@@ -64581,9 +64581,16 @@
           "show": "无时差研究所",
           "title": "EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？",
           "url": "/wiki/sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw/"
+        },
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/dazhongdianping/"
     },
     "Dbt": {
@@ -72078,6 +72085,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/dongguoxianyangwesternhan/"
     },
+    "DongmaojieTeahouse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/dongmaojieteahouse/"
+    },
     "DongnianYinxian": {
       "episode_count": 1,
       "show_count": 1,
@@ -73052,6 +73075,29 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/douglashaig/"
+    },
+    "Doushenshen": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集 [lijPz1zGy9H2k4qd0C45ixweNU-0].md",
+          "key": "faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0",
+          "show": "乱翻书",
+          "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
+          "url": "/wiki/sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0/"
+        },
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/doushenshen/"
     },
     "DouyinEcommerce": {
       "episode_count": 1,
@@ -93223,9 +93269,9 @@
       "url": "/wiki/entities/fengtiannan/"
     },
     "FengTouQuan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "132. 🍦雪糕江湖 ｜ 疯投圈 (1) [132-1].md",
@@ -93310,9 +93356,16 @@
           "show": "疯投圈",
           "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
           "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        },
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/fengtouquan/"
     },
     "FengXiaogang": {
@@ -133771,6 +133824,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/impostorsyndrome/"
+    },
+    "InStoreDealCompetition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/instoredealcompetition/"
     },
     "IncaCivilWar": {
       "episode_count": 1,
@@ -181811,6 +181880,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/merchantexchangeinfrastructure/"
+    },
+    "MerchantOwnedDestinationDemand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/merchantowneddestinationdemand/"
     },
     "MerchantPoliticalPowerConversion": {
       "episode_count": 1,
@@ -268899,6 +268984,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/tiandihui/"
+    },
+    "Tianfutai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep149 [ep149].md",
+          "key": "ep149-ep149",
+          "show": "疯投圈",
+          "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+          "url": "/wiki/sources/ep149-ep149/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/tianfutai/"
     },
     "TiangongUltra": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13486
+wiki_total_pages: 13488
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -980,9 +980,6 @@ wiki_pages:
   - key: "DouglasHaig"
     title: "Douglas Haig"
     url: "/wiki/entities/douglashaig/"
-  - key: "Doushenshen"
-    title: "Doushenshen"
-    url: "/wiki/entities/doushenshen/"
   - key: "Douyin"
     title: "Douyin"
     url: "/wiki/entities/douyin/"
@@ -1265,6 +1262,9 @@ wiki_pages:
   - key: "DongqiangXidiao"
     title: "东腔西调 / Dongqiang Xidiao"
     url: "/wiki/entities/dongqiangxidiao/"
+  - key: "DongmaojieTeahouse"
+    title: "东茅街茶馆 / Dongmaojie Teahouse"
+    url: "/wiki/entities/dongmaojieteahouse/"
   - key: "DongyueWesternHan"
     title: "东越 / Dongyue (Western Han)"
     url: "/wiki/entities/dongyuewesternhan/"
@@ -1442,6 +1442,9 @@ wiki_pages:
   - key: "DaiChangleWesternHan"
     title: "戴长乐 / Dai Changle (Western Han)"
     url: "/wiki/entities/daichanglewesternhan/"
+  - key: "Doushenshen"
+    title: "抖省省 / Doushenshen"
+    url: "/wiki/entities/doushenshen/"
   - key: "DuanzhiXuanyuan"
     title: "断指轩辕 / Duanzhi Xuanyuan"
     url: "/wiki/entities/duanzhixuanyuan/"
