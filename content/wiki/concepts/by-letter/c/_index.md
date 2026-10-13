@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10531
+wiki_total_pages: 10532
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "ClaimRestraintThroughAttachment"
     title: "Claim Restraint Through Attachment / 有所归属式名位节制"
     url: "/wiki/concepts/claimrestraintthroughattachment/"
+  - key: "ClaimantLineagePoliticalCapital"
+    title: "Claimant Lineage Political Capital / 宗室谱系政治资本"
+    url: "/wiki/concepts/claimantlineagepoliticalcapital/"
   - key: "ClaimantPoliticsAndPublicSpectacle"
     title: "Claimant Politics and Public Spectacle"
     url: "/wiki/concepts/claimantpoliticsandpublicspectacle/"

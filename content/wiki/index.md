@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？](sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho.md) — 以宗室谱系、隆中对和荆益扩张解释诸葛亮择主与刘备晚成，并以入蜀夺益州过程限定单纯的仁德叙事。
 - [高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少](sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374.md) — 声动早咖啡串联微信短剧聚合、中欧混动车贸易、朴朴厨房、电动自行车认证与个人智能体竞争。
 - [Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him](sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what.md) — All-In interview on quantum commercialization limits, photonic AI compute, pharmaceutical asset repositioning, rebound demand, and identity-driven failure.
 - [《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？](sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh.md) — 从颍川士族的藏书、教育与政治网络切入荀彧的迁徙、择主、迎奉汉献帝和官渡判断，并揭示其辅汉目标与曹操权力上升之间的潜在冲突。
@@ -18246,6 +18247,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Claimant Lineage Political Capital / 宗室谱系政治资本](concepts/ClaimantLineagePoliticalCapital.md) — 王室谱系如何在领土与实力形成前提供可识别的联盟合法性，同时仍须靠组织与执行转化为权力。
 - [Short Drama Platform Aggregation / 短剧平台聚合](concepts/ShortDramaPlatformAggregation.md) — 平台不自制内容而以官方入口、免费观看、广告和跨界面链接聚合外部短剧供给。
 - [China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束](concepts/ChinaEUHybridVehicleTradeConstraint.md) — 电动车关税后混动品类增长所触发的中欧贸易管理案例，具体措施与实际影响尚未披露。
 - [Electric Bicycle Certification Consistency / 电动自行车认证一致性](concepts/ElectricBicycleCertificationConsistency.md) — 要求量产车辆持续符合认证样车，并将工厂偏差连接到证书、上牌、成本和行业整合。

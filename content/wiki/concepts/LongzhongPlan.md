@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
   - zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho
+last_updated: 2026-10-13
 ---
 
 # Longzhong Plan / 隆中对
@@ -29,6 +30,10 @@ Hanji 1099 develops the alliance-sequencing component. It says cooperation with 
 
 The episode treats the revision as beneficial because early possession of contested Jingzhou could expose a still-weak Liu Bei to pressure from both [[CaoCao|曹操]] and Sun Quan. In this reading, a strategy can preserve its directional goal while changing the operational sequence when the actor's capacity collapses.
 
+Hanji 1132 adds a retrospective execution layer. It reads the post-Red-Cliffs Jingzhou foothold, entry into Yizhou, conquest of Liu Zhang's province, and 221 imperial claim as a long arc from plan to state formation. It also makes Liu Bei's [[ClaimantLineagePoliticalCapital|宗室谱系政治资本]] an enabling condition: “兴汉” can organize a coalition around a recognizable claimant, but only territorial control, personnel, administration, and force can turn that legitimacy language into durable capacity.
+
+That later arc is not clean confirmation of a fixed blueprint. The episode's own account includes alliance-first adaptation, contested Jingzhou settlement, invited entry into Yizhou, moralized rupture, local defections, and war. It therefore strengthens the plan's directional value while preserving the distinction between strategy, opportunistic sequencing, and retrospective narrative compression.
+
 ## Key Claims
 - Cooperation with Sun Quan is presented as an existing component rather than an improvised abandonment of the plan.
 - Post-Changban weakness moves alliance formation ahead of territorial acquisition.
@@ -47,16 +52,16 @@ The episode treats the revision as beneficial because early possession of contes
 - Adaptive guide: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] says strategy should change with conditions, aligning with Hanji 1099's sequence-revision account.
 - Full program and legitimacy reading: [[zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh|Hanji 1082]] joins the plan's military geography to diplomacy, frontier relations, internal government, talent, and “兴汉” political identity.
 - Comparative strategy: [[zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh|Hanji 1082]] contrasts Zhuge Liang's formula with Lu Su's earlier diagnosis while treating both as responses to Han collapse.
+- Retrospective execution and claimant legitimacy: [[zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho|Hanji 1132]] follows the strategy through Jingzhou and Yizhou toward the 221 claim while treating Liu Bei's Han lineage as coalition capital rather than sufficient capability.
 
 ## Counterevidence & Qualifications
-This page currently rests on four popular-history episodes and does not independently reconstruct the full Longzhong text, chronology, territorial program, later execution, or historiography. Hanji 1082's claim that Zhuge Liang privately knew restoration was impossible, its “strategic double helix” comparison, Hanji 1098's three-line compression, Hanji 1083's modern “strategy means what not to do” formula, the exact original ordering, and Hanji 1099's claim that alliance-first was unequivocally better remain source-scoped interpretations. Hanji 1083's contrast with a supposedly strategy-free earlier Liu Bei is also too absolute given evidence of prior coalition building and capacity accumulation.
+This page currently rests on five popular-history episodes and does not independently reconstruct the full Longzhong text, chronology, territorial program, later execution, or historiography. Hanji 1082's claim that Zhuge Liang privately knew restoration was impossible, its “strategic double helix” comparison, Hanji 1098's three-line compression, Hanji 1083's modern “strategy means what not to do” formula, the exact original ordering, and Hanji 1099's claim that alliance-first was unequivocally better remain source-scoped interpretations. Hanji 1083's contrast with a supposedly strategy-free earlier Liu Bei is also too absolute given evidence of prior coalition building and capacity accumulation. Hanji 1132 compresses jurisdiction, chronology, motive, conquest, and state formation into a success arc, so later outcomes do not prove that every step was specified in 207 or executed as originally intended.
 
 ## What Changed
-- Expanded the plan from alliance sequencing to its source-presented territorial, legitimacy, and coalition components.
-- Connected the plan to Liu Bei's shift from general ambition toward operational direction.
-- Made exclusion and resource concentration explicit while retaining the plan's adaptive-sequencing qualification.
-- Added domestic governance, frontier accommodation, and the qualified reading of Han restoration as political legitimacy.
-- Added the source-scoped comparison with Lu Su's earlier Jiangdong strategy.
+- Added Hanji 1132's retrospective plan-to-state arc through Jingzhou, Yizhou, and the 221 claim.
+- Made Liu Bei's claimant lineage an enabling legitimacy resource rather than a substitute for territorial and institutional capacity.
+- Preserved alliance revision, invited entry, contested settlement, and war as evidence that execution was adaptive rather than mechanically scripted.
+- Kept the episode's chronology, motive, and success-based validation source-scoped.
 
 ## Related Concepts
 - [[FacePreservingAlliancePersuasion|保全体面的结盟说服]] - mechanism that makes the revised alliance sequence politically acceptable.
@@ -65,3 +70,4 @@ This page currently rests on four popular-history episodes and does not independ
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - broader practice of adapting plans to force, geography, politics, and timing.
 - [[StrategicExclusionAndFocus|战略排除与聚焦]] - discipline of defining non-targets so limited resources accumulate toward the plan.
 - [[TaShangCeBipartiteStrategy|榻上策二分天下]] - comparison whose harder Han-restoration diagnosis clarifies the Longzhong Plan's legitimating script.
+- [[ClaimantLineagePoliticalCapital|宗室谱系政治资本]] - symbolic resource that makes the plan's Han-restoration objective politically legible.

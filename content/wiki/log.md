@@ -36766,3 +36766,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？
+
+Added source `zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho`; created [[ClaimantLineagePoliticalCapital|宗室谱系政治资本]]; and resynthesized [[LiuBei|刘备]], [[ZhugeLiang|诸葛亮]], [[LiuZhang|刘璋]], and [[LongzhongPlan|隆中对]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Bei's distant Han-lineage claim makes a restoration coalition recognizable before he possesses durable territory, but the Longzhong program, alliances, administration, delegated resources, local defections, and force are what convert that symbolic asset into power; the Yizhou conquest also qualifies a purely benevolent-ruler narrative. No settled contradiction is adopted. Genealogy, Zhuge Liang's private motive, Jingzhou jurisdiction, Yizhou chronology, manufactured-pretext claims, troop figures, and modern branding or workplace analogies remain disputed or source-scoped. Broad Liu Sheng, Cao Cao, Sun Quan, Pang Tong, Fa Zheng, Zhang Song, Jingzhou, and Yizhou profiles were kept closed because focused pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 4,606 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx
   - zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb
   - zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm
+  - zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-13
 ---
@@ -33,6 +34,8 @@ Hanji 1125 shows how the revised alliance becomes an internal power transfer bef
 
 Hanji 1126 supplies the collapse. Liu Zhang discovers Zhang Song's covert letter and executes him, after which conflict with Liu Bei becomes open. The episode interprets the resulting defections through underused talent, weak decision and military capacity, and the unresolved Dongzhou-local split. It also preserves a counterweight to a purely incompetent portrait: when Liu Bei reaches Chengdu, Liu Zhang surrenders rather than prolong a defense that could devastate the population.
 
+Hanji 1132 adds the campaign's public-break and defensive-choice layer. In its account, Liu Bei turns Liu Zhang's partial refusal of requested troops and supplies into a charge of bad faith, then attacks; Liu Zhang rejects 郑度's proposal to relocate people, destroy grain, and deny Liu Bei supply because of the civilian burden. That decision may protect subjects from deliberate devastation while reducing a strategically available defense. Subsequent defections and battlefield losses lead to surrender, relocation to Gongan, and later use by Sun Quan as a political counterweight, showing that survival after deposition does not end a former ruler's instrumental value.
+
 ## Key Characteristics
 - Holds Yizhou through inherited autonomy divided among Dongzhou troops, older local elites, and Ba-Hanzhong frontier actors.
 - Loses effective Hanzhong authority after the Zhang Lu rupture becomes familial and military.
@@ -40,7 +43,7 @@ Hanji 1126 supplies the collapse. Liu Zhang discovers Zhang Song's covert letter
 - Can recognize loyal office behavior in individual cases without solving systemic fragmentation.
 - Allows Zhang Song's failed Cao mission and threat framing to redirect Yizhou toward Liu Bei, rejects repeated dual-power warnings, then materially strengthens the invited ally before executing Zhang Song when the covert transfer project is exposed.
 - Loses insiders and military support as inherited factional division and underused talent become rival capacity.
-- Ends resistance at Chengdu in a surrender the episode frames as protection of the population as well as political defeat.
+- Rejects scorched-earth defense and ends resistance at Chengdu in choices the sources frame as protection of the population as well as contributors to political defeat.
 
 ## Evidence
 - Provincial autonomy and succession: [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] shows Liu Zhang retained after a court mission; [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] shows provincial and court acceptance; [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] shows him refusing a later court summons.
@@ -50,15 +53,16 @@ Hanji 1126 supplies the collapse. Liu Zhang discovers Zhang Song's covert letter
 - Invitation decision and rejected warnings: [[zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm|Hanji 1124]] links Hanzhong fear to Liu Bei's invitation and records opposition from Huang Quan and Wang Lei.
 - Invited-force transfer: [[zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb|Hanji 1125]] describes the welcome, meeting, troop and supply grants, Baishui command, northern mission, and Yan Yan's warning.
 - Exposure and collapse: [[zizhi-tongjian-hanji-1126-maizhu-qiurong-de-zhangsong-zenme-si-de-lkfazjqcokpijxykqxagybgewhrfx|Hanji 1126]] connects Zhang Song's execution to open war, elite defections, Liu Bei's advance, and Liu Zhang's eventual surrender at Chengdu.
+- Public break, rejected denial strategy, and afterlife: [[zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho|Hanji 1132]] adds Liu Bei's grievance-based opening, Liu Zhang's rejection of forced relocation and grain destruction, later defections, Gongan resettlement, and Sun Quan's political reuse of the deposed ruler.
 
 ## Qualifications
-Liu Zhang's mildness is an acceptance condition, not a complete psychological explanation. Zhang Lu, Pang Xi, Zhao Wei, Dongzhou troops, local elites, Cheng Ji, Gan Ning, Zhang Song, and Fa Zheng occupy different positions in a fragmented order. Alliance reversal and defection are symptoms of that order, not proof that one offended emissary or one faction alone determined Yizhou's future. Hanji 1124's threat sequence, escort figure, dialogue, private motives, and protest details; Hanji 1125's force totals, gifts, offices, delegation details, and private motives; and Hanji 1126's leader-failure diagnosis, faction labels, and surrender motives remain episode interpretations requiring broader corroboration.
+Liu Zhang's mildness is an acceptance condition, not a complete psychological explanation. Zhang Lu, Pang Xi, Zhao Wei, Dongzhou troops, local elites, Cheng Ji, Gan Ning, Zhang Song, and Fa Zheng occupy different positions in a fragmented order. Alliance reversal and defection are symptoms of that order, not proof that one offended emissary or one faction alone determined Yizhou's future. Hanji 1124's threat sequence, escort figure, dialogue, private motives, and protest details; Hanji 1125's force totals, gifts, offices, delegation details, and private motives; Hanji 1126's leader-failure diagnosis, faction labels, and surrender motives; and Hanji 1132's grievance sequence, 郑度 proposal, exact defections, relocation, and later political use remain episode interpretations requiring broader corroboration. Refusing a scorched-earth plan can reflect civilian restraint without proving that no other effective defense was available.
 
 ## What Changed
-- Added the pre-entry decision stage in which Hanzhong fear narrows Liu Zhang's options around Liu Bei.
-- Added Huang Quan's dual-power warning and Wang Lei's protest as evidence that the danger was identified internally before delegation.
-- Connected those rejected warnings to the later transfer of troops, supplies, and command without treating the precise episode details as independently verified.
-- Preserved talent underuse, inherited factional division, and eventual civilian-cost restraint as qualifications to a simple weakness diagnosis.
+- Added the public grievance and open-war stage after Liu Bei's request for troops and supplies.
+- Added Liu Zhang's rejection of forced relocation and grain destruction as both civilian restraint and strategic limitation.
+- Extended the profile beyond surrender to Gongan relocation and later political reuse by Sun Quan.
+- Kept precise motives, dialogue, defections, and chronology source-scoped.
 
 ## Relationships
 - [[LiuYanLateHan|刘焉]] - father whose autonomous provincial structure Liu Zhang inherits.

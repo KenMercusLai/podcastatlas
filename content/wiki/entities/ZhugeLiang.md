@@ -15,7 +15,8 @@ sources:
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
   - zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh
   - zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho
+last_updated: 2026-10-13
 ---
 
 # 诸葛亮 / Zhuge Liang
@@ -40,10 +41,12 @@ Hanji 1091 adds a pre-Changban survival intervention. When Liu Qi forces a priva
 
 Hanji 1099 adds a direct 208 CE alliance role. Liu Bei looks to Zhuge Liang after Lu Su proposes cooperation with [[SunQuan|孙权]], and Lu Su answers with the personal signal that he is Zhuge Jin's friend. The episode reads the moment as alignment between the post-Changban survival decision and the [[LongzhongPlan|隆中对]]'s existing cooperation-with-Sun-Quan component, though with alliance moved ahead of territorial control. Hanji 1100 continues that role into direct advocacy before Sun Quan: Zhuge Liang narrows the choice to resistance or surrender, uses dignity to make capitulation costly, answers the capacity objection with coalition forces and Cao-side weaknesses, and closes with the prospect of a tripartite balance.
 
+Hanji 1132 returns to the patron-selection question after narrating later outcomes. It argues that Zhuge Liang could treat a materially weak Liu Bei as a viable long-horizon claimant because Liu Bei's asserted Han descent supplied [[ClaimantLineagePoliticalCapital|宗室谱系政治资本]]. The useful synthesis is conditional: lineage makes the restoration cause recognizable, while the Longzhong program supplies the territorial, alliance, and governing route needed to convert that symbol into capacity. The episode cannot independently establish Zhuge Liang's private reason for joining, so the claim remains a retrospective interpretation strengthened by later execution rather than direct motive evidence.
+
 ## Key Characteristics
 - Early Jingzhou talent made politically legible through evaluator endorsement, later associated with converting Liu Bei's mobile coalition into durable state architecture.
 - Indirect counselor who uses historical analogy to help Liu Qi leave a dangerous succession center.
-- Strategic planner whose Longzhong framework joins opponent and ally selection, territorial sequence, legitimacy, frontier accommodation, and domestic government in the current sources' account.
+- Strategic planner whose Longzhong framework joins opponent and ally selection, territorial sequence, Liu Bei's claimant legitimacy, frontier accommodation, and domestic government in the current sources' account.
 - Participant in the post-Changban decision who then argues the coalition case directly before Sun Quan.
 - Connected to the opposing camp through his elder brother Zhuge Jin.
 - Subject of a source-scoped critical reading about moral pressure and information selection.
@@ -61,14 +64,15 @@ Hanji 1099 adds a direct 208 CE alliance role. Liu Bei looks to Zhuge Liang afte
 - Strategic exclusion: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] interprets Zhuge Liang's contribution as converting capable but scattered activity into explicit non-targets, territorial focus, alliance, and a long-horizon objective.
 - Recruitment and full Longzhong program: [[zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh|Hanji 1082]] places repeated referral and personal visits before a plan spanning diplomacy, territory, frontier relations, internal administration, and legitimating language.
 - Incomplete recruitment reception: [[zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g|Hanji 319-1]] invokes Zhuge Liang as the object of Liu Bei's persistent, promise-backed recruitment but ends before narrating his response.
+- Retrospective patron-selection logic: [[zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho|Hanji 1132]] makes Han-lineage legitimacy one reason Liu Bei could bear a restoration project, then uses later Jingzhou-Yizhou expansion as outcome evidence for the plan's long horizon.
 
 ## Qualifications
-The source set is thematically uneven and does not constitute a complete Zhuge Liang biography. Hanji 1084 compresses early reputation, preparation, and later achievement into a modern personal-brand lesson; its wording, self-comparisons, and causal account require verification. Hanji 1082's dialogue, visit count, claim that Zhuge Liang privately considered restoration impossible, and “strategic double helix” comparison are likewise source-presented. Hanji 319-1 is still thinner: its transcript ends mid-sentence and cannot establish Zhuge Liang's motive, response, or the full recruitment sequence. Hanji 1083 uses modern founder-adviser language: alleged mutual suspicion, Fa Zheng's effect, Guan Yu/益州 faction conflict, and the meaning of silence before the Wu campaign remain speculation rather than established profile. Hanji 976 and 977 use broad interpretive labels, Hanji 148-1 and Zhouji 80 use him mainly as a comparison or reception marker, and Hanji 1099 infers meaning from a brief glance and relationship statement. Hanji 1091's claim of a concealed Liu Bei design goes beyond the directly narrated survival advice. Hanji 1100 is a popular-history reconstruction whose exact dialogue, emotional effects, force totals, and neat rhetorical sequence require verification against underlying texts.
+The source set is thematically uneven and does not constitute a complete Zhuge Liang biography. Hanji 1084 compresses early reputation, preparation, and later achievement into a modern personal-brand lesson; its wording, self-comparisons, and causal account require verification. Hanji 1082's dialogue, visit count, claim that Zhuge Liang privately considered restoration impossible, and “strategic double helix” comparison are likewise source-presented. Hanji 319-1 is still thinner: its transcript ends mid-sentence and cannot establish Zhuge Liang's motive, response, or the full recruitment sequence. Hanji 1083 uses modern founder-adviser language: alleged mutual suspicion, Fa Zheng's effect, Guan Yu/益州 faction conflict, and the meaning of silence before the Wu campaign remain speculation rather than established profile. Hanji 976 and 977 use broad interpretive labels, Hanji 148-1 and Zhouji 80 use him mainly as a comparison or reception marker, and Hanji 1099 infers meaning from a brief glance and relationship statement. Hanji 1091's claim of a concealed Liu Bei design goes beyond the directly narrated survival advice. Hanji 1100 is a popular-history reconstruction whose exact dialogue, emotional effects, force totals, and neat rhetorical sequence require verification against underlying texts. Hanji 1132 reasons backward from later success to Zhuge Liang's original judgment; its genealogy, private-motive claim, and branding analogy remain source-scoped and do not prove that lineage was decisive.
 
 ## What Changed
-- Added Hanji 319-1 as later reception of Zhuge Liang's recruitment, contrasting repeated personal pursuit with threat-backed summons.
-- Kept the addition subordinate to Hanji 1082 because the new transcript ends before Zhuge Liang's response.
-- Rejected any new biographical inference about Zhuge Liang's motive from the unfinished anecdote.
+- Added Hanji 1132's retrospective explanation of why Liu Bei's legitimacy resource could support a long-horizon state project.
+- Distinguished recognizable claimant lineage from the strategy and execution required to convert it into capacity.
+- Kept Zhuge Liang's private motive and the episode's success-based reasoning qualified rather than settled.
 
 ## Relationships
 - [[LiuBei|刘备]] - ruler whose survival coalition and later state architecture Zhuge Liang helps shape.
@@ -88,3 +92,4 @@ The source set is thematically uneven and does not constitute a complete Zhuge L
 - [[PeripheralCommandExitStrategy|外镇避祸式生存]] - indirect-counsel pattern realized through Liu Qi's Jiangxia appointment.
 - [[StrategicExclusionAndFocus|战略排除与聚焦]] - source frame for turning broad ambition into bounded resource allocation.
 - [[TaShangCeBipartiteStrategy|榻上策二分天下]] - earlier Jiangdong program used to contrast hard diagnosis with the Longzhong Plan's legitimating script.
+- [[ClaimantLineagePoliticalCapital|宗室谱系政治资本]] - legitimacy resource that Hanji 1132 joins to Zhuge Liang's territorial and coalition program.

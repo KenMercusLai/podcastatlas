@@ -48420,6 +48420,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/claimantimpostorcrisishandling/"
     },
+    "ClaimantLineagePoliticalCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？ [lgua1oHXT_Ji_dYTBgwVFbExJIho].md",
+          "key": "zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/claimantlineagepoliticalcapital/"
+    },
     "ClaimantPoliticsAndPublicSpectacle": {
       "episode_count": 2,
       "show_count": 2,
@@ -161054,9 +161070,9 @@
       "url": "/wiki/entities/liuangjiaoxikingwesternhan/"
     },
     "LiuBei": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
@@ -161204,9 +161220,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才",
           "url": "/wiki/sources/zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？ [lgua1oHXT_Ji_dYTBgwVFbExJIho].md",
+          "key": "zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiWuKing": {
@@ -165809,9 +165832,9 @@
       "url": "/wiki/entities/liuzeqiroyalwesternhan/"
     },
     "LiuZhang": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -165868,6 +165891,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？ [lgua1oHXT_Ji_dYTBgwVFbExJIho].md",
+          "key": "zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
         }
       ],
       "updated": "2026-10-13",
@@ -167817,9 +167847,9 @@
       "url": "/wiki/entities/longshangansushaanxi/"
     },
     "LongzhongPlan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？ [llNEV7PZbRaOGD00u0H7i7BA65eq].md",
@@ -167848,9 +167878,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1082丨诸葛亮一段话点破乱世风云，太敢说了",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？ [lgua1oHXT_Ji_dYTBgwVFbExJIho].md",
+          "key": "zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/longzhongplan/"
     },
     "LootieDog": {
@@ -308937,9 +308974,9 @@
       "url": "/wiki/entities/zhugejin/"
     },
     "ZhugeLiang": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -309017,9 +309054,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才",
           "url": "/wiki/sources/zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？ [lgua1oHXT_Ji_dYTBgwVFbExJIho].md",
+          "key": "zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/zhugeliang/"
     },
     "ZhuluQinHanBook": {
