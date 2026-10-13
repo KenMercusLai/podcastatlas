@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10541
+wiki_total_pages: 10542
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "DigitalCommerceLiteracy"
     title: "Digital Commerce Literacy"
     url: "/wiki/concepts/digitalcommerceliteracy/"
+  - key: "DigitalCreatorEducation"
+    title: "Digital Creator Education"
+    url: "/wiki/concepts/digitalcreatoreducation/"
   - key: "DigitalDetoxEconomy"
     title: "Digital Detox Economy"
     url: "/wiki/concepts/digitaldetoxeconomy/"

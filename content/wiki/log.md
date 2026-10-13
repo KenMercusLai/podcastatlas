@@ -36812,3 +36812,10 @@ Added source `507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-13] ingest | Colleges are training the next generation of content creators
+
+Added source `tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128`; created [[CharlieRandall]], [[ArkansasTechUniversity]], and [[DigitalCreatorEducation]]; and linked the existing [[MarketplaceTech]], [[YouTube]], [[MrBeast]], [[ArtsCareerFormation]], [[ContentAestheticOverMetrics]], [[CreatorEvaluationPressure]], [[UGCToProfessionalCreatorPipeline]], [[ShortVideoCraftCreatorPath]], and [[HumanJudgmentUnderAI]] pages without reopening their larger evidence inventories. Core synthesis: formal creator education can reduce starting friction through repeated publishing, platform craft, analytics, and cross-disciplinary collaboration, while its broader career case rests on transferable production work and portfolio evidence rather than influencer fame alone; metrics and AI remain inputs that require creative judgment rather than universal optimization targets. No settled contradiction was adopted. Program growth, curriculum details, credential value, employer demand, graduate outcomes, and return on tuition remain source-scoped or untested because the episode centers one student at one university. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,612 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

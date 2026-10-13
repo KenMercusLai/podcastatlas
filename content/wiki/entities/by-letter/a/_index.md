@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13491
+wiki_total_pages: 13493
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "ArkadyOstrovsky"
     title: "Arkady Ostrovsky"
     url: "/wiki/entities/arkadyostrovsky/"
+  - key: "ArkansasTechUniversity"
+    title: "Arkansas Tech University"
+    url: "/wiki/entities/arkansastechuniversity/"
   - key: "Arkema"
     title: "Arkema"
     url: "/wiki/entities/arkema/"

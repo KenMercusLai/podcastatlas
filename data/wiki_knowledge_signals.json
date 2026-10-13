@@ -19669,6 +19669,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/arktraditionlayering/"
     },
+    "ArkansasTechUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261013_1013_MP_TECH_pod_128 [tech_20261013_1013_MP_TECH_pod_128].md",
+          "key": "tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Colleges are training the next generation of content creators",
+          "url": "/wiki/sources/tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/arkansastechuniversity/"
+    },
     "ArmagnacBurgundianCivilWar": {
       "episode_count": 3,
       "show_count": 1,
@@ -42370,6 +42386,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/charliebeckwith/"
+    },
+    "CharlieRandall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261013_1013_MP_TECH_pod_128 [tech_20261013_1013_MP_TECH_pod_128].md",
+          "key": "tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Colleges are training the next generation of content creators",
+          "url": "/wiki/sources/tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/charlierandall/"
     },
     "CharlotteCorday": {
       "episode_count": 2,
@@ -69062,6 +69094,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/digitalant/"
+    },
+    "DigitalCreatorEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261013_1013_MP_TECH_pod_128 [tech_20261013_1013_MP_TECH_pod_128].md",
+          "key": "tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Colleges are training the next generation of content creators",
+          "url": "/wiki/sources/tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/digitalcreatoreducation/"
     },
     "DigitalDetoxEconomy": {
       "episode_count": 2,
