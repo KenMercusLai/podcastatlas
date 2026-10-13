@@ -17,6 +17,7 @@ sources:
   - zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0
   - zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh
   - zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh
+  - zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6
 last_updated: 2026-10-13
 ---
 
@@ -31,6 +32,8 @@ Xun Yu first appears as a [[YingchuanCommandery|颍川]] elite able to read diso
 The Yanzhou episodes show operational judgment. Xun Yu reads title wording and route direction as evidence of rebellion, recalls [[XiahouDun|夏侯惇]] to protect [[JuanchengLateHan|鄄城]], calmly meets [[GuoGongLateHan|郭贡]], and later argues that Cao Cao must secure [[YanzhouLateHan|兖州]], grain, popular support, and the Lü Bu rear before further expansion. The emperor-welcome branch adds his largest institutional contribution: receiving [[EmperorXianOfHan|汉献帝]] can settle expectations, create recognized command language, and attract people before another camp captures the same legitimacy window. Hanji 1129 also makes the coalition's latent ambiguity explicit: Xun Yu sees the policy as a route toward restored Han order, while it gives Cao Cao a platform from which ministerial service can grow toward near-sovereign power.
 
 Hanji 1130 changes the endpoint. Xun Yu treats Cao Cao's original Han-restoration language as a commitment, not merely a temporary instrument. When Cao Cao's camp moves toward the Duke of Wei title and [[JiuXiRitualPromotion|九锡礼遇]], Xun Yu opposes the step through ruler-minister hierarchy. The episode presents his removal, illness at Shouchun, reported empty food box, and death as a political break between the architect of Han-backed legitimacy and the powerholder who has outgrown that limit. The exact box story, intent, coercion, and cause of death remain disputed.
+
+Hanji 1131 does not reverse that account but contests its public-welfare implication. The host respects Xun Yu's consistency while arguing that dynastic fidelity is not sufficient evidence of legitimate government when the sovereign lacks independent organization and the population needs war to end. Xun Yu's final boundary therefore remains intelligible as principle while becoming contestable under [[GovernanceCapacityLegitimacy|治理能力型合法性]].
 
 ## Key Characteristics
 
@@ -64,16 +67,18 @@ Legitimacy and strategic sequencing:
 
 Final political boundary:
 - [[zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh|Hanji 1130]] says Xun Yu opposes the Duke of Wei and Nine Bestowments proposal through the original Han-restoration commitment, then links his removal and death to the rupture.
+- [[zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6|Hanji 1131]] accepts the consistency of that stand but disputes whether Han dynastic continuity should outweigh effective order and public welfare.
 
 ## Qualifications
 
-The evidence consists of modern podcast summaries of layered historical traditions rather than direct source adjudication. Several episodes use dramatic dialogue, psychological reconstruction, corrected transcript names, and retrospective system language. Hanji 1129's claims about private motives, family book holdings, elite control over recommendation, and the two partners' ultimate aims remain interpretive, while Xun Yu's recommendation chains, administrative reach, and share in later institutions should not be expanded beyond each source's evidence. Hanji 1130 especially leaves the empty box, Cao Cao's intent, Xun Yu's cause and manner of death, and the meaning of his final opposition contested. His loyalty can be morally serious while still leaving open whether earlier emperor-backed strategy enabled Cao Cao's dominance and whether fidelity to the Han aligned with public welfare.
+The evidence consists of modern podcast summaries of layered historical traditions rather than direct source adjudication. Several episodes use dramatic dialogue, psychological reconstruction, corrected transcript names, and retrospective system language. Hanji 1129's claims about private motives, family book holdings, elite control over recommendation, and the two partners' ultimate aims remain interpretive, while Xun Yu's recommendation chains, administrative reach, and share in later institutions should not be expanded beyond each source's evidence. Hanji 1130 especially leaves the empty box, Cao Cao's intent, Xun Yu's cause and manner of death, and the meaning of his final opposition contested. Hanji 1131 makes the unresolved welfare question explicit but does not prove that Cao-Wei replacement uniquely protected the population or that Xun Yu's preferred settlement would have reproduced Western Jin collapse. His loyalty can be morally serious while still leaving open whether earlier emperor-backed strategy enabled Cao Cao's dominance and whether fidelity to the Han aligned with public welfare.
 
 ## What Changed
 
 - Added the Xun lineage's books, education, offices, and Yingchuan network as structural inputs to Xun Yu's capacity.
 - Made the welcome-the-emperor policy's dual use explicit: Han restoration for Xun Yu and expanding authority for Cao Cao.
 - Connected Xun Yu's pre-Guandu resolve to the same long-range judgment visible in migration and camp choice.
+- Added the explicit counterjudgment that principled dynastic loyalty and population-serving legitimacy are not necessarily identical.
 
 ## Relationships
 
@@ -89,3 +94,4 @@ The evidence consists of modern podcast summaries of layered historical traditio
 - [[RootBasePriority|根本根据地优先]] - captures his insistence on securing Yanzhou before expansion.
 - [[JiuXiRitualPromotion|九锡礼遇]] - elevation that turns earlier Han legitimacy into a test of political membership.
 - [[ObjectMediatedPoliticalUltimatum|器物式政治最后通牒]] - disputed empty-box mechanism associated with the final break.
+- [[GovernanceCapacityLegitimacy|治理能力型合法性]] - public-welfare challenge to treating dynastic continuity as sufficient political legitimacy.

@@ -109913,6 +109913,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/goujian/"
     },
+    "GovernanceCapacityLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？ [lvcJau_K5voAz6EfL9rAfcrn5px6].md",
+          "key": "zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/governancecapacitylegitimacy/"
+    },
     "GovernanceFirstLegalAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -173484,6 +173500,57 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/macbethplay/"
     },
+    "MachiavellianRealism": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        },
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "118.是，大臣：辛辣讽刺永不过时 [768665425].md",
+          "key": "118-shi-dachen-xinla-fengci-yongbuguoshi-768665425",
+          "show": "蜜獾吃书",
+          "title": "118.是，大臣：辛辣讽刺永不过时",
+          "url": "/wiki/sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425/"
+        },
+        {
+          "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
+          "key": "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837",
+          "show": "蜜獾吃书",
+          "title": "72.君主论：读它是一场危险的冒险",
+          "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？ [lvcJau_K5voAz6EfL9rAfcrn5px6].md",
+          "key": "zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/machiavellianrealism/"
+    },
     "MachineGamblingAddiction": {
       "episode_count": 2,
       "show_count": 2,
@@ -204445,9 +204512,9 @@
       "url": "/wiki/entities/pangmengeasternhan/"
     },
     "PangTong": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
@@ -204483,9 +204550,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1125丨兵不血刃捉刘璋，刘备为何不愿意？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？ [lvcJau_K5voAz6EfL9rAfcrn5px6].md",
+          "key": "zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/pangtong/"
     },
     "PangXiLateHan": {
@@ -295362,9 +295436,9 @@
       "url": "/wiki/entities/xunyou/"
     },
     "XunYu": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
@@ -295456,6 +295530,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？ [lvcJau_K5voAz6EfL9rAfcrn5px6].md",
+          "key": "zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6/"
         }
       ],
       "updated": "2026-10-13",

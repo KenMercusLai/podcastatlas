@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？](sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6.md) — 以治理、止乱与百姓福祉挑战单纯的汉室名分，并以《君主论》和庞统三策限定道德化阵营叙事。
 - [《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？](sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho.md) — 以宗室谱系、隆中对和荆益扩张解释诸葛亮择主与刘备晚成，并以入蜀夺益州过程限定单纯的仁德叙事。
 - [高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少](sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374.md) — 声动早咖啡串联微信短剧聚合、中欧混动车贸易、朴朴厨房、电动自行车认证与个人智能体竞争。
 - [Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him](sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what.md) — All-In interview on quantum commercialization limits, photonic AI compute, pharmaceutical asset repositioning, rebound demand, and identity-driven failure.
@@ -9624,7 +9625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [五溪蛮 / Wuxi Man](entities/WuxiMan.md) — Frontier people Liu Biao courts through Sha Moke after southern Jingzhou pressure grows.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — 既作为吕布、刘表的后世评论者出现，也通过十九世纪刊刻、湖南士人网络和选择性阐释获得更大影响的明清思想家。
-- [庞统 / Pang Tong](entities/PangTong.md) — 经名士背书与再评价进入刘备核心，并主张以益州为基地、在涪县直接擒刘璋的谋士。
+- [庞统 / Pang Tong](entities/PangTong.md) — 经名士背书与再评价进入刘备核心，并以速取成都、诱杀收军或退守再图三策设计益州夺取路径的谋士。
 - [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, Liu Bei's Runan branch, the camp-engineering standoff, the Wuchao logistics strike, and post-victory stabilization.
 - [龚都 / Gong Du (late Han)](entities/GongDuLateHan.md) — Runan rebel leader whom Liu Bei joins after leaving Yuan Shao during the Guandu prelude.
 - [蔡阳 / Cai Yang (late Han)](entities/CaiYangLateHan.md) — Cao-side commander sent against Liu Bei after the Gong Du connection and killed in the Runan branch.
@@ -10625,7 +10626,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杜根 / Du Gen (late Han)](entities/DuGenLateHan.md) — Return-power remonstrant and persecution survivor whose feigned death, fifteen-year concealment, and later memory show non-implicating withdrawal under political danger.
 - [谭嗣同 / Tan Sitong](entities/TanSitong.md) — Qing reformer invoked through a prison-poem allusion pairing Zhang Jian and Du Gen as persecution-memory figures.
 - [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose moral courage and cultural prestige coexist with Beihai governing failure, escalating satire of Cao Cao, and a politically constructed death case.
-- [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official whose welcome-the-emperor argument, adviser recommendation channel, later strategic sequencing, and court-risk interventions shape Cao Cao's early order.
+- [荀彧 / Xun Yu](entities/XunYu.md) — 以迎奉天子、荐才、保根基和战略排序塑造曹操秩序，最终又以汉室名分反对其近君主化上升的谋臣。
 - [满宠 / Man Chong](entities/ManChong.md) — Severe Cao Cao-side legal official whose Hanji 1006 Cao Hong-client case and Hanji 1020 Yang Biao report both tie enforcement to political trust.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
 - [范齐 / Fan Qi (Lu Wan envoy)](entities/FanQiLuWanEnvoy.md) — Covert messenger sent by Lu Wan to tell Chen Xi to keep resisting so Yan would not face Liu Bang alone.
@@ -18247,6 +18248,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [治理能力型合法性 / Governance-Capacity Legitimacy](concepts/GovernanceCapacityLegitimacy.md) — 以止乱、约束强者、维持生计与公共安全检验统治正当性，同时要求核算强权自身的暴力、汲取和继承风险。
 - [Claimant Lineage Political Capital / 宗室谱系政治资本](concepts/ClaimantLineagePoliticalCapital.md) — 王室谱系如何在领土与实力形成前提供可识别的联盟合法性，同时仍须靠组织与执行转化为权力。
 - [Short Drama Platform Aggregation / 短剧平台聚合](concepts/ShortDramaPlatformAggregation.md) — 平台不自制内容而以官方入口、免费观看、广告和跨界面链接聚合外部短剧供给。
 - [China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束](concepts/ChinaEUHybridVehicleTradeConstraint.md) — 电动车关税后混动品类增长所触发的中欧贸易管理案例，具体措施与实际影响尚未披露。
@@ -26567,7 +26569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Clark Ashton Smith Story Worlds](concepts/SmithStoryWorlds.md) — Smith's Hyperborea, Averoigne, Zothique, and Poseidonis settings as engines for myth, decadence, magic, satire, and cosmic displacement.
 - [Horror-Humor Weird Fiction](concepts/HorrorHumorWeirdFiction.md) — Smith pattern where terrible supernatural premises become funny through deadpan practical logic without losing horror.
 - [Anti-Anthropocentric Satire](concepts/AntiAnthropocentricSatire.md) — Satirical cosmic demotion of human greed, doctrine, rationality, and self-importance under older or alien systems.
-- [Machiavellian Realism](concepts/MachiavellianRealism.md) — Political-realist frame where judgment begins from actual power, institutions, fear, fortune, and human unreliability rather than moral self-description.
+- [Machiavellian Realism](concepts/MachiavellianRealism.md) — 从实际权力、制度、恐惧、时机与行为出发，同时以必要性、比例性、公共结果和责任限制强权辩护的政治现实主义框架。
 - [Non-Moral Political Analysis](concepts/NonMoralPoliticalAnalysis.md) — Machiavelli-linked method for describing political mechanisms before moral judgment without treating effectiveness as innocence.
 - [Virtù And Fortuna Political Agency](concepts/VirtuFortunaPoliticalAgency.md) — Machiavellian frame for capacity, judgment, timing, and action struggling with fortune and contingency.
 - [Cruelty Used Well](concepts/CrueltyUsedWell.md) — Dangerous Machiavellian idea that political violence, if used at all, should be limited, fast, and ordered toward stability rather than repeated terror.

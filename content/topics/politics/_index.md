@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3321
+topic_total_pages: 3322
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5062,6 +5062,9 @@ topic_concepts:
   - key: "PreventiveFrontierGovernance"
     title: "治未病式边疆治理 / Preventive Frontier Governance"
     url: "/wiki/concepts/preventivefrontiergovernance/"
+  - key: "GovernanceCapacityLegitimacy"
+    title: "治理能力型合法性 / Governance-Capacity Legitimacy"
+    url: "/wiki/concepts/governancecapacitylegitimacy/"
   - key: "LegalPenaltyStabilityAgainstSovereignAnger"
     title: "法定刑阶约束君怒 / Legal Penalty Stability Against Sovereign Anger"
     url: "/wiki/concepts/legalpenaltystabilityagainstsovereignanger/"

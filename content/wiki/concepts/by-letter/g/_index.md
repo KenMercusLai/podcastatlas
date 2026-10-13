@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10532
+wiki_total_pages: 10533
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "GraceDebtLoyaltyPressure"
     title: "恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure"
     url: "/wiki/concepts/gracedebtloyaltypressure/"
+  - key: "GovernanceCapacityLegitimacy"
+    title: "治理能力型合法性 / Governance-Capacity Legitimacy"
+    url: "/wiki/concepts/governancecapacitylegitimacy/"
   - key: "GrainReservesAsStateCapacity"
     title: "粮食储备即国家能力 / Grain Reserves as State Capacity"
     url: "/wiki/concepts/grainreservesasstatecapacity/"

@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
   - zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Hanji 1027 introduces Pang Tong as part of the younger Jingzhou talent field tha
 Hanji 1118 adds the transition from reputation to appointment. The episode says Pang Tong had worked around [[ZhouYuLateHan|周瑜]], was not retained after Zhou Yu's death, and then received only a county post from Liu Bei before being dismissed. [[LuSu|鲁肃]] and [[ZhugeLiang|诸葛亮]] separately recommend a deeper evaluation; after discussing wider affairs with Pang Tong, Liu Bei appoints him as `治中` and later `军师中郎将`. The source therefore shows endorsement correcting a poor initial placement rather than merely creating fame.
 
 Hanji 1125 supplies the first current source in which Pang Tong's advice directly shapes Liu Bei's territorial expansion. He argues that constrained Jingzhou cannot support the larger project, presents populous Yizhou as a necessary base, answers Liu Bei's stated concern for loyalty and benevolence with a disorder-era case for irregular action followed by compensation, and later supports capturing Liu Zhang at the Fu meeting. Liu Bei accepts the territorial objective but rejects the immediate seizure.
+
+Hanji 1131 supplies the previously missing three-plan sequence after open conflict approaches. Pang Tong's upper plan is a rapid elite strike on Chengdu; the middle plan uses a feigned return to lure Yang Huai and Gao Pei, remove them, absorb their forces, and advance; the lower plan withdraws toward Baidi before attempting Yizhou again. Liu Bei chooses the middle plan, making Pang Tong's role one of option design across speed, deception, force acquisition, and retreat rather than advocacy of only the fastest seizure.
 
 ## Key Characteristics
 
@@ -42,10 +45,11 @@ Hanji 1125 supplies the first current source in which Pang Tong's advice directl
 - Initially hidden capacity: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] says Pang Tong's plain presentation leaves him underestimated locally while Pang Degong and Sima Hui recognize unusual ability.
 - Reassessment and appointment: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] says recommendations from Lu Su and Zhuge Liang lead Liu Bei to interview Pang Tong more deeply and move him from a failed county placement into central advisory office.
 - Yizhou strategy and method: [[zizhi-tongjian-hanji-1125-bing-bu-xueren-zhuo-liuzhang-liubei-weihe-bu-yuanyi-lsaakh0scmfvorjhhtjv5j4m0kcb|Hanji 1125]] has Pang Tong argue for Yizhou as a base, qualify ordinary moral restraint in disorder, and support immediate capture of Liu Zhang.
+- Three-plan option design: [[zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6|Hanji 1131]] records rapid assault, deceptive force absorption, and strategic withdrawal as upper, middle, and lower plans, with Liu Bei selecting the middle route.
 
 ## Qualifications
 
-The sources still provide a selective rather than complete career. Kinship details, evaluator wording, the exact “南州士之冠冕” exchange, his role under Zhou Yu, Sun Quan's alleged appearance-based rejection, deliberate neglect of county duty, exact offices, and the later “three plans” remain source-scoped pending narrower evidence. Hanji 1125's dialogue, moral reasoning, capture proposal, and claim of an easy bloodless seizure also require direct textual corroboration. Hanji 1083's “近日不错” explanation is textually unstable and is not treated as a verified idiom claim.
+The sources still provide a selective rather than complete career. Kinship details, evaluator wording, the exact “南州士之冠冕” exchange, his role under Zhou Yu, Sun Quan's alleged appearance-based rejection, deliberate neglect of county duty, and exact offices remain source-scoped pending narrower evidence. Hanji 1125's dialogue, moral reasoning, capture proposal, and claim of an easy bloodless seizure also require direct textual corroboration. Hanji 1131 supplies the three-plan sequence only through a modern summary; wording, route details, the exact roles of Yang Huai and Gao Pei, and Liu Bei's reasons for selecting the middle plan require direct textual comparison. Hanji 1083's “近日不错” explanation is textually unstable and is not treated as a verified idiom claim.
 
 ## What Changed
 
@@ -53,6 +57,7 @@ The sources still provide a selective rather than complete career. Kinship detai
 - Extended the profile from early appraisal into initial underuse and Liu Bei's later reassessment.
 - Added Lu Su and Zhuge Liang as recommendations that convert reputation into a more suitable office.
 - Distinguished being known as talented from being evaluated deeply enough for role fit.
+- Added the upper, middle, and lower Yizhou plans and Liu Bei's selection of the deceptive middle route.
 
 ## Relationships
 

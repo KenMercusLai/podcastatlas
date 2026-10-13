@@ -36774,3 +36774,11 @@ Added source `zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-ne
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-13] ingest | 《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？
+
+Added source `zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6`; created [[GovernanceCapacityLegitimacy|治理能力型合法性]]; resynthesized [[XunYu|荀彧]], [[PangTong|庞统]], and [[MachiavellianRealism]] from their complete preserved evidence inventories before appending the new source once; and migrated the touched legacy realism concept to `synthesis-v1`. Core synthesis: the episode contests the sufficiency of Han dynastic fidelity by judging rule through the ability to end war, restrain strong actors, and protect ordinary life, while Pang Tong's three plans and Liu Bei's selection of the deceptive middle route prevent that realism from becoming a simple pro-Cao/anti-Liu moral contrast. No settled event-level contradiction is adopted. The Western Jin analogy, Five Hu devastation claims, Emperor Xian counterfactual, Cao-Wei welfare comparison, Machiavellian necessity, exact three-plan wording, and private motives remain interpretive, compressed, disputed, or source-scoped. Broad Cao Cao, Emperor Xian, Liu Bei, Liu Zhang, Western Jin, and Five Hu pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,607 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
