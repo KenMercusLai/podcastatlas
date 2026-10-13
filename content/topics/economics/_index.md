@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2263
+topic_total_pages: 2264
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -628,6 +628,9 @@ topic_concepts:
   - key: "ChinaSupplySideClearing"
     title: "China Supply-Side Clearing"
     url: "/wiki/concepts/chinasupplysideclearing/"
+  - key: "ChinaEUHybridVehicleTradeConstraint"
+    title: "China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束"
+    url: "/wiki/concepts/chinaeuhybridvehicletradeconstraint/"
   - key: "ChinaUSAIValuationAsymmetry"
     title: "China-U.S. AI Valuation Asymmetry"
     url: "/wiki/concepts/chinausaivaluationasymmetry/"

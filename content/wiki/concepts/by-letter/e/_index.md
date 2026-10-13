@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10528
+wiki_total_pages: 10531
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "ElectoralOutcomeMythmaking"
     title: "Electoral Outcome Mythmaking"
     url: "/wiki/concepts/electoraloutcomemythmaking/"
+  - key: "ElectricBicycleCertificationConsistency"
+    title: "Electric Bicycle Certification Consistency / 电动自行车认证一致性"
+    url: "/wiki/concepts/electricbicyclecertificationconsistency/"
   - key: "ElectricGridModernizationBottleneck"
     title: "Electric Grid Modernization Bottleneck"
     url: "/wiki/concepts/electricgridmodernizationbottleneck/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13479
+wiki_total_pages: 13482
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1505,6 +1505,9 @@ wiki_pages:
   - key: "GuanBaLateHan"
     title: "管霸 / Guan Ba (late Han)"
     url: "/wiki/entities/guanbalatehan/"
+  - key: "GreenBubbleDrama"
+    title: "绿泡泡短剧 / Green Bubble Drama"
+    url: "/wiki/entities/greenbubbledrama/"
   - key: "GengKuangEasternHan"
     title: "耿况 / Geng Kuang (Eastern Han)"
     url: "/wiki/entities/gengkuangeasternhan/"

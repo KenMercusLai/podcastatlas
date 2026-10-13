@@ -19191,6 +19191,10 @@
     "title": "China Dual Circulation Strategy / 中国双循环战略",
     "url": "/wiki/concepts/chinadualcirculationstrategy/"
   },
+  "ChinaEUHybridVehicleTradeConstraint": {
+    "title": "China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束",
+    "url": "/wiki/concepts/chinaeuhybridvehicletradeconstraint/"
+  },
   "ChinaEasternAirlines": {
     "title": "China Eastern Airlines / 东方航空",
     "url": "/wiki/entities/chinaeasternairlines/"
@@ -29559,6 +29563,10 @@
     "title": "Electric-Assist Bicycle Premium Positioning / 电助力自行车中高端定位",
     "url": "/wiki/concepts/electricassistbicyclepremiumpositioning/"
   },
+  "ElectricBicycleCertificationConsistency": {
+    "title": "Electric Bicycle Certification Consistency / 电动自行车认证一致性",
+    "url": "/wiki/concepts/electricbicyclecertificationconsistency/"
+  },
   "ElectricGridModernizationBottleneck": {
     "title": "Electric Grid Modernization Bottleneck",
     "url": "/wiki/concepts/electricgridmodernizationbottleneck/"
@@ -38610,6 +38618,10 @@
   "GreenBook": {
     "title": "The Green Book",
     "url": "/wiki/entities/greenbook/"
+  },
+  "GreenBubbleDrama": {
+    "title": "绿泡泡短剧 / Green Bubble Drama",
+    "url": "/wiki/entities/greenbubbledrama/"
   },
   "GreenHushing": {
     "title": "Green Hushing",
@@ -53714,6 +53726,10 @@
   "LiteAppGrowth": {
     "title": "Lite App Growth",
     "url": "/wiki/concepts/liteappgrowth/"
+  },
+  "LiteVela": {
+    "title": "LiteVela",
+    "url": "/wiki/entities/litevela/"
   },
   "LiteraryAdaptationTextureLoss": {
     "title": "Literary Adaptation Texture Loss / 文学改编质感流失",
@@ -71903,6 +71919,10 @@
     "title": "Punky Duck",
     "url": "/wiki/entities/punkyduck/"
   },
+  "PupuKitchen": {
+    "title": "朴朴厨房 / Pupu Kitchen",
+    "url": "/wiki/entities/pupukitchen/"
+  },
   "PupuSupermarket": {
     "title": "朴朴超市 / Pupu Supermarket",
     "url": "/wiki/entities/pupusupermarket/"
@@ -79966,6 +79986,10 @@
   "ShortDramaPaidTrafficDistribution": {
     "title": "Short Drama Paid-Traffic Distribution",
     "url": "/wiki/concepts/shortdramapaidtrafficdistribution/"
+  },
+  "ShortDramaPlatformAggregation": {
+    "title": "Short Drama Platform Aggregation / 短剧平台聚合",
+    "url": "/wiki/concepts/shortdramaplatformaggregation/"
   },
   "ShortFormBusinessTechAudio": {
     "title": "Short-Form Business-Tech Audio / 短时长商业科技音频",
@@ -103538,6 +103562,10 @@
   "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963": {
     "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
     "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+  },
+  "gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374": {
+    "title": "高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少",
+    "url": "/wiki/sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374/"
   },
   "gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc": {
     "title": "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正",

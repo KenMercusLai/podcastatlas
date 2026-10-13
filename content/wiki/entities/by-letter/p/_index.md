@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13479
+wiki_total_pages: 13482
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "PuerYunnan"
     title: "普洱 / Pu'er, Yunnan"
     url: "/wiki/entities/pueryunnan/"
+  - key: "PupuKitchen"
+    title: "朴朴厨房 / Pupu Kitchen"
+    url: "/wiki/entities/pupukitchen/"
   - key: "PupuSupermarket"
     title: "朴朴超市 / Pupu Supermarket"
     url: "/wiki/entities/pupusupermarket/"

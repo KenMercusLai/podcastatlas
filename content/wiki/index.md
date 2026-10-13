@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少](sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374.md) — 声动早咖啡串联微信短剧聚合、中欧混动车贸易、朴朴厨房、电动自行车认证与个人智能体竞争。
 - [Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him](sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what.md) — All-In interview on quantum commercialization limits, photonic AI compute, pharmaceutical asset repositioning, rebound demand, and identity-driven failure.
 - [《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？](sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh.md) — 从颍川士族的藏书、教育与政治网络切入荀彧的迁徙、择主、迎奉汉献帝和官渡判断，并揭示其辅汉目标与曹操权力上升之间的潜在冲突。
 - [《资治通鉴·汉纪》1130丨荀彧为何在曹操巅峰时被逼自尽？](sources/zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh.md) — 荀彧以匡扶汉室与君臣名分反对曹操进位魏公、加九锡；节目把空食盒解读为含混的政治最后通牒，并保留其死亡、忠诚与史料立场之争。
@@ -4691,6 +4692,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e.md) — 42章经对谈 Ambi 创始人子皓，讨论持续在线的个人智能体、环境触发式主动性、隐私、硬件分发与量产交付。
 
 ## Entities
+- [绿泡泡短剧 / Green Bubble Drama](entities/GreenBubbleDrama.md) — 微信官方免费短剧聚合入口，以外部小程序供给、剧集间广告和视频号跳转组织分散流量。
+- [朴朴厨房 / Pupu Kitchen](entities/PupuKitchen.md) — 朴朴以中央厨房、标准化菜品和前置仓履约试验自营餐饮外卖的引流产品。
+- [LiteVela](entities/LiteVela.md) — 腾讯推出、可通过微信接入的持续在线个人智能体，具体集成、可靠性与权限边界尚待验证。
 - [Ambi Personal AI](entities/AmbiPersonalAI.md) — 以持续在线、物理世界上下文和软硬件结合降低个人智能体交互成本的产品路线。
 - [子皓（Ambi 创始人）](entities/ZihaoAmbiFounder.md) — 将个人AI产品、商业判断、招聘、硬件交付与可逆式快速执行连接起来的创业者。
 - [Martin Shkreli](entities/MartinShkreli.md) — Biotech entrepreneur and former hedge-fund manager discussing technology commercialization, drug-asset selection, AI demand, and identity rigidity.
@@ -18242,6 +18246,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scott Kanoski](entities/ScottKanoski.md) — Neurobiologist studying how feeding, metabolic signals, the vagus nerve, gut microbes, and the hippocampus interact with memory and appetite.
 
 ## Concepts
+- [Short Drama Platform Aggregation / 短剧平台聚合](concepts/ShortDramaPlatformAggregation.md) — 平台不自制内容而以官方入口、免费观看、广告和跨界面链接聚合外部短剧供给。
+- [China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束](concepts/ChinaEUHybridVehicleTradeConstraint.md) — 电动车关税后混动品类增长所触发的中欧贸易管理案例，具体措施与实际影响尚未披露。
+- [Electric Bicycle Certification Consistency / 电动自行车认证一致性](concepts/ElectricBicycleCertificationConsistency.md) — 要求量产车辆持续符合认证样车，并将工厂偏差连接到证书、上牌、成本和行业整合。
 - [Environment-Triggered Agent Proactivity / 环境触发式智能体主动性](concepts/EnvironmentTriggeredAgentProactivity.md) — 由有意义的物理或数字环境变化触发服务，而非仅靠定时扫描猜测需求的主动性模型。
 - [Personal Agent Network Effects / 个人智能体网络效应](concepts/PersonalAgentNetworkEffects.md) — 个体智能体在权限边界内跨用户协作，使私人记忆、文件和判断产生增量价值的待验证机制。
 - [Hardware Distribution Defensibility / 硬件分发防御性](concepts/HardwareDistributionDefensibility.md) — 以物理渠道、设备占位和供应链能力形成优势，同时受量产、库存、质量与支持成本约束。

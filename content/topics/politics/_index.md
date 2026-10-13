@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3320
+topic_total_pages: 3321
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1351,6 +1351,9 @@ topic_concepts:
   - key: "ElectoralOutcomeMythmaking"
     title: "Electoral Outcome Mythmaking"
     url: "/wiki/concepts/electoraloutcomemythmaking/"
+  - key: "ElectricBicycleCertificationConsistency"
+    title: "Electric Bicycle Certification Consistency / 电动自行车认证一致性"
+    url: "/wiki/concepts/electricbicyclecertificationconsistency/"
   - key: "EliteFiscalLawCompliance"
     title: "Elite Fiscal-Law Compliance / 贵族税法同遵"
     url: "/wiki/concepts/elitefiscallawcompliance/"

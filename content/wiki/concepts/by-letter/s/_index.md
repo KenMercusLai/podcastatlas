@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10528
+wiki_total_pages: 10531
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "ShortDramaPaidTrafficDistribution"
     title: "Short Drama Paid-Traffic Distribution"
     url: "/wiki/concepts/shortdramapaidtrafficdistribution/"
+  - key: "ShortDramaPlatformAggregation"
+    title: "Short Drama Platform Aggregation / 短剧平台聚合"
+    url: "/wiki/concepts/shortdramaplatformaggregation/"
   - key: "ShortSelling"
     title: "Short Selling"
     url: "/wiki/concepts/shortselling/"

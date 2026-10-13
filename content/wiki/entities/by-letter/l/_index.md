@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13479
+wiki_total_pages: 13482
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "LisaMosconi"
     title: "Lisa Mosconi"
     url: "/wiki/entities/lisamosconi/"
+  - key: "LiteVela"
+    title: "LiteVela"
+    url: "/wiki/entities/litevela/"
   - key: "Lithuania"
     title: "Lithuania"
     url: "/wiki/entities/lithuania/"

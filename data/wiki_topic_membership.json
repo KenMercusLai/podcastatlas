@@ -23438,6 +23438,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ChinaEUHybridVehicleTradeConstraint": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ChinaEnterpriseAISystemDebt": [
     {
       "key": "technology",
@@ -33425,6 +33432,13 @@
     }
   ],
   "ElectoralViolenceInstitutionalDecline": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ElectricBicycleCertificationConsistency": [
     {
       "key": "politics",
       "label": "Politics",
