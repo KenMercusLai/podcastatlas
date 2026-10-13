@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3322
+topic_total_pages: 3323
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9426,6 +9426,9 @@ topic_sources:
   - key: "under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271"
     title: "Under strAIn: breaking the British state"
     url: "/wiki/sources/under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271/"
+  - key: "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088"
+    title: "Unrest in peace: misery in Gaza"
+    url: "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
   - key: "vanguard-1"
     title: "Vanguard"
     url: "/wiki/sources/vanguard-1/"

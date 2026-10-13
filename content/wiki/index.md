@@ -4695,6 +4695,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓](sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e.md) — 42章经对谈 Ambi 创始人子皓，讨论持续在线的个人智能体、环境触发式主动性、隐私、硬件分发与量产交付。
 
 - [Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁](sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um.md) — 文化有限以《白鲸》的捕鲸复仇主线连接百科式小说、海上劳动、产业史、宗教、经验知识、目标身份锁定及 AI 时代的媒介边界。
+- [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
 
 ## Entities
 - [东茅街茶馆 / Dongmaojie Teahouse](entities/DongmaojieTeahouse.md) — 以喝茶、嗑瓜子、聊天和长沙在地生活形成目的地需求、并不销售平台团购券的社交型茶馆。
@@ -11767,13 +11768,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Maynard Keynes / 凯恩斯](entities/JohnMaynardKeynes.md) — Economist used in the 面基 source to frame animal spirits as opportunity-activated investment, consumption, and action.
 - [Neville Chamberlain / 张伯伦](entities/NevilleChamberlain.md) — British prime minister connecting industrial preparation, political failure after Norway, and support for continued resistance in May 1940.
 - [Viviana Zelizer / 泽利泽](entities/VivianaZelizer.md) — Sociologist cited in the source's argument that courts and institutions can raise the priced value of human life.
-- [Suno](entities/Suno.md) — Generative AI music company trying to reposition itself as artist-support infrastructure through Suno Spark while facing source-scoped training-copyright litigation.
+- [Suno](entities/Suno.md) — Generative AI music company spanning consumer creation, artist development, training-copyright litigation, and a licensed opt-in remix experiment with Warner.
 - [Suno Spark](entities/SunoSpark.md) — Suno artist-incubator program for unsigned musicians, combining grants, marketing support, artist development, and AI tools.
 - [Tatiana Cirasano](entities/TatianaCirasano.md) — MIDiA Research analyst explaining Suno Spark, AI music's discovery bottleneck, and the music industry's dual-track AI response.
 - [MIDiA Research](entities/MIDiAResearch.md) — Music and media research firm represented by Tatiana Cirasano in the Marketplace Tech AI music episode.
 - [Universal Music Group](entities/UniversalMusicGroup.md) — Music rights holder named in the source-scoped active litigation branch around Suno and AI training data.
 - [Sony Music](entities/SonyMusic.md) — Sony's music-rights-holder branch named in the source-scoped active litigation context around Suno.
-- [Warner Music Group](entities/WarnerMusicGroup.md) — Music rights holder that the source says settled with Suno and is working with the company.
+- [Warner Music Group](entities/WarnerMusicGroup.md) — Music rights holder testing licensed Suno training, artist opt-in, subscription sharing, and fan remixing after settlement.
 - [Bobbie](entities/Bobbie.md) — Infant formula startup built around European-style formula, feeding-stigma reduction, FDA compliance, DTC subscribers, and owned-manufacturing strategy.
 - [Laura Modi](entities/LauraModi.md) — Bobbie founder whose Google, Airbnb, motherhood, fundraising, recall, and supply-chain experiences anchor the source's founder story.
 - [Sarah Hardy](entities/SarahHardy.md) — Bobbie co-founder and COO chosen by Laura Modi as a culture-first operating partner from Airbnb.
@@ -12138,7 +12139,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Clarke Barrett](entities/ClarkeBarrett.md) — Stanford formal-methods advisor in Sheng Ying's PhD path, linked to SMT solver work and supportive research mentoring.
 - [Two Sigma](entities/TwoSigma.md) — Finance and technology workplace in Sheng Ying's pre-PhD path, contrasted with her later open AI-infrastructure work.
 - [纽约漫谈录 / Niuyue Mantanlu](entities/NiuyueMantanlu.md) — New York-facing Chinese-language podcast/project context for Ouyang Bin's 725沙龙 live conversation with David Weng.
-- [Board of Peace](entities/BoardOfPeace.md) — Proposed Gaza-plan body whose timetable clarification still leaves sequencing, verification, and authority unresolved.
+- [Board of Peace](entities/BoardOfPeace.md) — Gaza reconstruction body whose concentrated authority and large recovery promises have not produced visible material or administrative implementation.
 - [National Committee for Administration of Gaza](entities/NationalCommitteeForAdministrationOfGaza.md) — Proposed Palestinian technocratic administration whose timing, territory, and powers remain unclear.
 - [International Stabilization Force](entities/InternationalStabilizationForce.md) — Proposed Gaza security force expected to start with a few hundred personnel from Morocco and Uganda.
 - [International Verification Committee](entities/InternationalVerificationCommittee.md) — Proposed body meant to verify Hamas disarmament, with membership and procedures still unspecified.
@@ -17004,7 +17005,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
 - [Moeka Iida](entities/MoekaIida.md) — The Intelligence reporter connecting Japanese family law, housing stigma, cohort scarring, and Okinawan base politics to lived experience.
 - [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds nostalgia tourism and whose America-at-250 dispatch frames American cultural exports.
-- [Nicholas Pelham](entities/NicholasPelham.md) — The Intelligence contributor explaining renewed U.S.-Iran strikes, stalled diplomacy, Hormuz pressure, and post-Khamenei hardline politics.
+- [Nicholas Pelham](entities/NicholasPelham.md) — Economist correspondent covering Middle East bargaining, Gaza reconstruction failure, and the verification limits created by closed borders.
 - [Farah Chia](entities/FarahChia.md) — The Intelligence contributor explaining Asian filial-piety laws and elder-care state-capacity pressure.
 - [The Green Book](entities/GreenBook.md) — Segregation-era guidebook listing businesses that welcomed Black travellers and warning about dangerous places.
 - [Threate Filling Station](entities/ThreateFillingStation.md) — Restored Black-owned Route 66 filling station in Luther, Oklahoma, presented as a safe haven for Black travellers.
@@ -18256,6 +18257,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moby-Dick / 《白鲸》](entities/MobyDick.md) — 以捕鲸复仇为主线、以百科知识和多重文体扩展产业、社会、宗教、自然与存在问题的小说。
 - [Ahab / 亚哈船长](entities/CaptainAhab.md) — 将断腿、衰老与长期牺牲压缩为复仇目标，并把私人意义危机转成全船风险的悲剧船长。
 - [Ishmael / 以实玛利（《白鲸》）](entities/IshmaelMobyDick.md) — 以出海逃离忧郁并通过劳动、陌生性与好奇心扩大认知世界的《白鲸》叙述者。
+- [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
 
 ## Concepts
 - [In-Store Deal Competition / 到店团购竞争](concepts/InStoreDealCompetition.md) — 用户自行到店履约时，平台围绕发现、评价、价格、支付、核销与商户覆盖展开的本地交易竞争。
@@ -19236,7 +19238,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oral Tradition to Manuscript Mediation](concepts/OralTraditionManuscriptMediation.md) — Process by which performance traditions are preserved and reshaped through later literary, religious, and political writing.
 - [Chinese Tea Tradition Reconstruction / 中国茶传统重构](concepts/ChineseTeaTraditionReconstruction.md) — How interruption, revival, borrowing, and recombination produce apparently continuous tea traditions.
 - [Tea Market Authenticity / 茶叶市场真实性](concepts/TeaMarketAuthenticity.md) — Traceability across tea name, origin, cultivar, process, age, volume, storage, and sensory presentation.
-- [Tea Terroir and Craft / 茶叶风土与工艺](concepts/TeaTerroirAndCraft.md) — Joint production of tea character through ecology, plant material, craft, storage, water, and brewing.
+- [Tea Terroir and Craft / 茶叶风土与工艺](concepts/TeaTerroirAndCraft.md) — Joint production of tea character through ecology, plant material, craft, storage, preparation, and traceable regional differentiation.
 - [Tea Commercialization Quality Paradox / 名茶商业化质量悖论](concepts/TeaCommercializationQualityParadox.md) — How prestige demand can scale faster than the production system sustaining a famous tea's quality.
 - [Pu'er Tea Financialization / 普洱茶金融化](concepts/PuerTeaFinancialization.md) — Aging tea as drink, stored inventory, collectible, status object, and speculative asset.
 - [East Asian Tea Cultural Exchange / 东亚茶文化互塑](concepts/EastAsianTeaCulturalExchange.md) — Reciprocal movement and local redesign of tea techniques, objects, aesthetics, and ritual across East Asia.
@@ -23628,7 +23630,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Generative AI Music](concepts/GenerativeAIMusic.md) — AI-assisted music creation category where lower creation barriers collide with discovery, copyright, labor, and monetization bottlenecks.
 - [AI Training Copyright Dispute](concepts/AITrainingCopyrightDispute.md) — Legal and legitimacy conflict over using copyrighted works to train AI models, with Suno as the music-source case.
 - [AI Artist Development](concepts/AIArtistDevelopment.md) — Shift from AI music generation tools into artist funding, marketing, promotion, and career-support programs.
-- [Music Industry AI Response](concepts/MusicIndustryAIResponse.md) — Simultaneous litigation, licensing, partnership, and monetization strategy as the music industry responds to generative AI.
+- [Music Industry AI Response](concepts/MusicIndustryAIResponse.md) — Simultaneous litigation, licensing, fraud control, platform governance, artist opt-in, and monetization strategy around generative music.
 - [Artist Discovery Fragmentation](concepts/ArtistDiscoveryFragmentation.md) — Bottleneck where easier music creation and release make being heard, followed, and paid harder in a crowded market.
 - [Infant Formula](concepts/InfantFormula.md) — Regulated baby-food category combining parental trust, FDA standards, manufacturing reliability, stigma, and public-benefit access.
 - [Formula Feeding Stigma](concepts/FormulaFeedingStigma.md) — Shame around using infant formula when breastfeeding is treated as the only acceptable feeding path.
@@ -23921,9 +23923,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cycle Worldview / 周期世界观](concepts/CycleWorldview.md) — Investment and life worldview that treats everything as cyclical, supporting diversification while needing present-tense anchors against nihilism.
 - [Inventory Cycle / 库存周期](concepts/InventoryCycle.md) — Short business-cycle pattern where demand surprises, restocking, excess inventory, and discounting move sales, prices, and cash flow.
 - [Juglar Cycle / 朱格拉周期](concepts/JuglarCycle.md) — Medium investment cycle where equipment, stores, factories, hiring, and fixed costs make demand mistakes slower to unwind.
-- [Gaza Deal Implementation Gap](concepts/GazaDealImplementationGap.md) — Distance between a headline Gaza breakthrough and unresolved sequencing, verification, territorial control, governance, and election constraints.
+- [Gaza Deal Implementation Gap](concepts/GazaDealImplementationGap.md) — Distance between Gaza announcements and the access, authority, security, materials, services, and political decisions required for implementation.
 - [Disarmament Withdrawal Sequencing](concepts/DisarmamentWithdrawalSequencing.md) — Trust and leverage problem where Hamas wants Israeli withdrawal before disarmament while Israel wants complete disarmament first.
-- [Gaza Technocratic Administration](concepts/GazaTechnocraticAdministration.md) — Proposed Palestinian technocratic governance model whose authority depends on territory, security, and real handover.
+- [Gaza Technocratic Administration](concepts/GazaTechnocraticAdministration.md) — Proposed Palestinian professional administration still blocked outside Gaza and lacking the territory, security, and resources needed to govern.
 - [AI-Enabled Self-Employment](concepts/AIEnabledSelfEmployment.md) — Use of chatbots and AI tools to lower the perceived barrier to starting and running a small solo business.
 - [Full-Time Self-Employment Boom](concepts/FullTimeSelfEmploymentBoom.md) — U.S. rise in full-time self-employment and new business applications, driven by pandemic shifts, labor-market friction, remote work, online retail, demographics, and AI tailwinds.
 - [African Radio Resilience](concepts/AfricanRadioResilience.md) — Persistence of radio across Africa because it is cheap, phone-compatible, culturally embedded, useful in traffic, and not dependent on mobile data.
@@ -28878,5 +28880,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Encyclopedic Fiction World Expansion / 百科式小说世界扩展](concepts/EncyclopedicFictionWorldExpansion.md) — 技术说明、分类、文献、历史与多种文体把一个情节对象扩展为物质、社会和哲学世界模型的方法。
 - [Purpose Identity Lock-In / 目标身份锁定](concepts/PurposeIdentityLockIn.md) — 单一目标被用来证明伤害、牺牲和自我价值，使停止像抹去过去而成功又威胁目标化身份的状态。
+- [Licensed Generative Music](concepts/LicensedGenerativeMusic.md) — AI music model based on authorized catalogues, artist opt-in, defined derivative creation, and compensation rules.
+- [Matcha Supply Transition](concepts/MatchaSupplyTransition.md) — Slow conversion of tea land, plants, labor, equipment, and market positioning toward matcha after a demand shock.
 
 ## Syntheses

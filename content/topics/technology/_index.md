@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3508
+topic_total_pages: 3510
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2980,6 +2980,9 @@ topic_concepts:
   - key: "LiberationDestructionDilemma"
     title: "Liberation-Destruction Dilemma"
     url: "/wiki/concepts/liberationdestructiondilemma/"
+  - key: "LicensedGenerativeMusic"
+    title: "Licensed Generative Music"
+    url: "/wiki/concepts/licensedgenerativemusic/"
   - key: "LicensedSyntheticVoiceMarketplace"
     title: "Licensed Synthetic Voice Marketplace"
     url: "/wiki/concepts/licensedsyntheticvoicemarketplace/"
@@ -10086,6 +10089,9 @@ topic_sources:
   - key: "tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128"
     title: "Unraveling the complex knot of an AI-generated hoax"
     url: "/wiki/sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128/"
+  - key: "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088"
+    title: "Unrest in peace: misery in Gaza"
+    url: "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
   - key: "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds"
     title: "Using AI chatbots for mental health support poses serious risks for teens, report finds"
     url: "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"

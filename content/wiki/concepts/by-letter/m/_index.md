@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10537
+wiki_total_pages: 10539
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "MasteryPurityAndHumanAttachment"
     title: "Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整"
     url: "/wiki/concepts/masterypurityandhumanattachment/"
+  - key: "MatchaSupplyTransition"
+    title: "Matcha Supply Transition"
+    url: "/wiki/concepts/matchasupplytransition/"
   - key: "MateSwitchingHypothesis"
     title: "Mate Switching Hypothesis"
     url: "/wiki/concepts/mateswitchinghypothesis/"

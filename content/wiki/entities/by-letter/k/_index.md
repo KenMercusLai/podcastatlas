@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13488
+wiki_total_pages: 13489
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "Kagi"
     title: "Kagi"
     url: "/wiki/entities/kagi/"
+  - key: "Kagoshima"
+    title: "Kagoshima"
+    url: "/wiki/entities/kagoshima/"
   - key: "KaiAirwallex"
     title: "Kai (Airwallex)"
     url: "/wiki/entities/kaiairwallex/"

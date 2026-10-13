@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3499
+topic_total_pages: 3501
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1945,6 +1945,9 @@ topic_concepts:
   - key: "Leitmotif"
     title: "Leitmotif"
     url: "/wiki/concepts/leitmotif/"
+  - key: "LicensedGenerativeMusic"
+    title: "Licensed Generative Music"
+    url: "/wiki/concepts/licensedgenerativemusic/"
   - key: "LifeImitatesArt"
     title: "Life Imitates Art / 生活模仿艺术"
     url: "/wiki/concepts/lifeimitatesart/"
@@ -10188,6 +10191,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm"
     title: "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
+  - key: "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088"
+    title: "Unrest in peace: misery in Gaza"
+    url: "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"

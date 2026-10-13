@@ -30730,6 +30730,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/bozhaowesternhan/"
     },
+    "BoardOfPeace": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/boardofpeace/"
+    },
     "BobHawke": {
       "episode_count": 1,
       "show_count": 1,
@@ -104092,6 +104115,52 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/gaza/"
     },
+    "GazaDealImplementationGap": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/gazadealimplementationgap/"
+    },
+    "GazaTechnocraticAdministration": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/gazatechnocraticadministration/"
+    },
     "GeJianxiong": {
       "episode_count": 1,
       "show_count": 1,
@@ -149244,6 +149313,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/kaaba/"
     },
+    "Kagoshima": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/kagoshima/"
+    },
     "KaiTakAirport": {
       "episode_count": 1,
       "show_count": 1,
@@ -159524,6 +159609,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/libraryofalexandria/"
+    },
+    "LicensedGenerativeMusic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/licensedgenerativemusic/"
     },
     "LicensedSyntheticVoiceMarketplace": {
       "episode_count": 1,
@@ -178255,6 +178356,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/matamba/"
     },
+    "MatchaSupplyTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/matchasupplytransition/"
+    },
     "MateSwitchingHypothesis": {
       "episode_count": 1,
       "show_count": 1,
@@ -190153,9 +190270,9 @@
       "url": "/wiki/concepts/musicbasedemotionregulation/"
     },
     "MusicIndustryAIResponse": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
@@ -190170,9 +190287,16 @@
           "show": "说得好听",
           "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
           "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/musicindustryairesponse/"
     },
     "MusicLanguageExpansion": {
@@ -194558,6 +194682,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/nicholasii/"
+    },
+    "NicholasPelham": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Peace fire： further US-Iran strikes [6a4f7acffe878dc8e27e6fbf].md",
+          "key": "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf",
+          "show": "Economist Podcasts",
+          "title": "Peace fire: further US-Iran strikes",
+          "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/nicholaspelham/"
     },
     "NickCullinan": {
       "episode_count": 1,
@@ -259257,6 +259404,36 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/sunningdalepowersharingcollapse/"
     },
+    "Suno": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/suno/"
+    },
     "SunwodaPower": {
       "episode_count": 1,
       "show_count": 1,
@@ -263362,9 +263539,9 @@
       "url": "/wiki/concepts/teamarketauthenticity/"
     },
     "TeaTerroirAndCraft": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
@@ -263372,9 +263549,16 @@
           "show": "忽左忽右",
           "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
           "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/teaterroirandcraft/"
     },
     "TeacherAIAugmentation": {
@@ -283604,6 +283788,29 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/warnerbrosdiscovery/"
+    },
+    "WarnerMusicGroup": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
+          "key": "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088",
+          "show": "Economist Podcasts",
+          "title": "Unrest in peace: misery in Gaza",
+          "url": "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/warnermusicgroup/"
     },
     "WarrenCommission": {
       "episode_count": 3,
