@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10544
+wiki_total_pages: 10546
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "IndianElephantCorridors"
     title: "Indian Elephant Corridors"
     url: "/wiki/concepts/indianelephantcorridors/"
+  - key: "IndianFilmLineageAccessBoundary"
+    title: "Indian Film Lineage Access Boundary"
+    url: "/wiki/concepts/indianfilmlineageaccessboundary/"
   - key: "IndieGameCommercialization"
     title: "Indie Game Commercialization / 独立游戏商业化"
     url: "/wiki/concepts/indiegamecommercialization/"

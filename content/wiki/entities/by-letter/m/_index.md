@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13494
+wiki_total_pages: 13497
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1817,6 +1817,9 @@ wiki_pages:
   - key: "MujtabaKhamenei"
     title: "Mujtaba Khamenei"
     url: "/wiki/entities/mujtabakhamenei/"
+  - key: "MukeshSinger"
+    title: "Mukesh"
+    url: "/wiki/entities/mukeshsinger/"
   - key: "MultiCard"
     title: "MultiCard"
     url: "/wiki/entities/multicard/"

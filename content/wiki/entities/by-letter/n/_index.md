@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13494
+wiki_total_pages: 13497
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "NeilMohan"
     title: "Neil Mohan"
     url: "/wiki/entities/neilmohan/"
+  - key: "NeilNitinMukesh"
+    title: "Neil Nitin Mukesh"
+    url: "/wiki/entities/neilnitinmukesh/"
   - key: "NeilPrice"
     title: "Neil Price"
     url: "/wiki/entities/neilprice/"
@@ -683,6 +686,9 @@ wiki_pages:
   - key: "NithyaRaman"
     title: "Nithya Raman"
     url: "/wiki/entities/nithyaraman/"
+  - key: "NitinMukesh"
+    title: "Nitin Mukesh"
+    url: "/wiki/entities/nitinmukesh/"
   - key: "NiuTechnologies"
     title: "Niu Technologies / 小牛"
     url: "/wiki/entities/niutechnologies/"

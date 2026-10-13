@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Beyond The Legacy: Neil Nitin Mukesh on Bollywood, Identity and AI | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987.md) — Tomorrow Today interview on family legacy, acting craft, access, role choice, multilingual cinema, responsibility, and AI preservation.
 - [番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？](sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8.md) — 半拿铁现场圆桌以体验、收藏、IP、社区服务与品牌案例区分情绪价值、可持续小生意、规模化公司和投资机会。
 - [Colleges are training the next generation of content creators](sources/tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128.md) — Marketplace Tech profile of formal creator education, analytics-driven production practice, creative autonomy, and digital portfolios beyond influencer fame.
 - [507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故](sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g.md) — 忽左忽右访谈安德烈，以竞技盲品、巴黎审判、风土分歧和中国葡萄酒产业条件解释一杯酒中的感官、制度与市场信息。
@@ -4701,6 +4702,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
 
 ## Entities
+- [Neil Nitin Mukesh](entities/NeilNitinMukesh.md) — Indian actor whose career account connects lineage, apprenticeship, typecasting, consequential roles, multilingual work, family responsibility, and AI.
+- [Mukesh](entities/MukeshSinger.md) — Hindi-film playback singer represented through emotional craft, family memory, recordings, and intergenerational performance.
+- [Nitin Mukesh](entities/NitinMukesh.md) — Singer and family provider represented as a steward of Mukesh's repertoire and a formative influence on Neil Nitin Mukesh.
 - [李永浩](entities/LiYonghao.md) — 三点下班相关播客嘉宾，以消费观察、日常幸福节奏和投资职业边界参与情绪价值讨论。
 - [Charlie Randall](entities/CharlieRandall.md) — Arkansas Tech student combining digital content creation, theater, selective analytics use, and an acting-portfolio plan.
 - [Arkansas Tech University](entities/ArkansasTechUniversity.md) — University represented through a practice-based digital content creation degree combining analytics and cross-disciplinary media production.
@@ -18268,6 +18272,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
 
 ## Concepts
+- [Indian Film Lineage Access Boundary](concepts/IndianFilmLineageAccessBoundary.md) — Distinction between inherited entertainment access, unequal second chances, and the performance needed for a durable career.
+- [Narrative Indispensability Role Selection](concepts/NarrativeIndispensabilityRoleSelection.md) — Acting-role criterion based on whether removing a character would materially change the story.
 - [Emotional Consumption Scalability / 情绪消费规模化](concepts/EmotionalConsumptionScalability.md) — 解释个性化、信任与社群如何提高情绪价值，却也限制标准化、跨地域复制和资本规模。
 - [Experience-Memory Premium / 体验记忆溢价](concepts/ExperienceMemoryPremium.md) — 由稀缺时刻、便利、参与和私人记忆构成、超出直接物质成本的体验溢价。
 - [Digital Creator Education](concepts/DigitalCreatorEducation.md) — Formal training that combines repeated publishing, platform craft, analytics, collaboration, career preparation, and creative judgment.

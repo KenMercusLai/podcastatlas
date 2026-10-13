@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10544
+wiki_total_pages: 10546
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "NarrativeFrameAuthorDistance"
     title: "Narrative Frame and Authorial Distance"
     url: "/wiki/concepts/narrativeframeauthordistance/"
+  - key: "NarrativeIndispensabilityRoleSelection"
+    title: "Narrative Indispensability Role Selection"
+    url: "/wiki/concepts/narrativeindispensabilityroleselection/"
   - key: "NarrativeMedicine"
     title: "Narrative Medicine"
     url: "/wiki/concepts/narrativemedicine/"

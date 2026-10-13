@@ -36827,3 +36827,11 @@ Added source `fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | Beyond The Legacy: Neil Nitin Mukesh on Bollywood, Identity and AI | Shekhar Natarajan
+
+Added source `defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987`; created [[NeilNitinMukesh]], [[MukeshSinger|Mukesh]], [[NitinMukesh]], [[IndianFilmLineageAccessBoundary]], and [[NarrativeIndispensabilityRoleSelection]]; and resynthesized [[ActingOpportunityReadiness]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: entertainment lineage can create recognition, introductions, organized backing, and extra chances without allocating a particular role or proving durable performance; readiness converts but does not create opportunity; and role consequence can matter more than billing or screen time. No settled contradiction was adopted. Family history, casting offers, production chronology, private conversations, audience response, career motives, and later AI remarks remain source-scoped, with the source's own warning that parts of the closing transcript are degraded. Broad show, host, and AI-ethics pages were kept closed because focused pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic; global compaction ran because the max-age gate was due, and refreshed artifacts validate 4,614 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

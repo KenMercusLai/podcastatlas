@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3501
+topic_total_pages: 3502
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2275,6 +2275,9 @@ topic_concepts:
   - key: "NarrativeFrameAuthorDistance"
     title: "Narrative Frame and Authorial Distance"
     url: "/wiki/concepts/narrativeframeauthordistance/"
+  - key: "NarrativeIndispensabilityRoleSelection"
+    title: "Narrative Indispensability Role Selection"
+    url: "/wiki/concepts/narrativeindispensabilityroleselection/"
   - key: "NarrativePluralism"
     title: "Narrative Pluralism / 叙事多样性"
     url: "/wiki/concepts/narrativepluralism/"
