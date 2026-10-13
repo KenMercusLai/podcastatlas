@@ -14835,6 +14835,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/andeancolonialforcedlabor/"
     },
+    "AndelieWineTaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/andeliewinetaster/"
+    },
     "AnderMedicalAesthetics": {
       "episode_count": 2,
       "show_count": 1,
@@ -46349,6 +46365,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/chinesewesternmedicinecollaborationboundary/"
     },
+    "ChineseWineIndustryDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/chinesewineindustrydevelopment/"
+    },
     "ChineseWoodblockPrintingEconomics": {
       "episode_count": 2,
       "show_count": 1,
@@ -53269,6 +53301,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/competingrelationalobligations/"
+    },
+    "CompetitiveWineBlindTasting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/concepts/competitivewineblindtasting/"
     },
     "CompiegneArmistice1940": {
       "episode_count": 1,
@@ -67547,6 +67595,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
+    },
+    "DeqinMeiliWineRegion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        }
+      ],
+      "updated": "2026-10-13",
+      "url": "/wiki/entities/deqinmeiliwineregion/"
     },
     "DerRingDesNibelungen": {
       "episode_count": 2,
@@ -148513,9 +148577,9 @@
       "url": "/wiki/concepts/judeochristiannationalidentity/"
     },
     "JudgmentOfParisWine": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1414718476 [GLT1414718476].md",
@@ -148523,9 +148587,16 @@
           "show": "The Rest Is History",
           "title": "666. Wine and the Birth of Civilisation",
           "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        },
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/judgmentofpariswine/"
     },
     "JudicialAbuseRebellionTrigger": {
@@ -288415,9 +288486,9 @@
       "url": "/wiki/concepts/windrushnationalmemory/"
     },
     "Wine": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
@@ -288439,9 +288510,16 @@
           "show": "The Rest Is History",
           "title": "666. Wine and the Birth of Civilisation",
           "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        },
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-13",
       "url": "/wiki/entities/wine/"
     },
     "WineAsAgriculturalCulture": {
@@ -288491,9 +288569,9 @@
       "url": "/wiki/concepts/wineprestigeclassificationsystem/"
     },
     "WineTerroir": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
@@ -288508,9 +288586,16 @@
           "show": "The Rest Is History",
           "title": "666. Wine and the Birth of Civilisation",
           "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        },
+        {
+          "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
+          "key": "507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g",
+          "show": "忽左忽右",
+          "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+          "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-13",
       "url": "/wiki/concepts/wineterroir/"
     },
     "WineTradeCivilizationNetwork": {

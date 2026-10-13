@@ -4,7 +4,8 @@ type: concept
 tags: [wine, california, france, blind-tasting, prestige]
 sources:
   - 666-wine-and-the-birth-of-civilisation-glt1414718476
-last_updated: 2026-09-12
+  - 507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,44 +13,47 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Judgment of Paris Wine is the 1976 blind tasting case the episode uses to show how inherited French wine authority could be challenged by Californian wines without disappearing as the global vocabulary of prestige.
+Judgment of Paris Wine is the 1976 blind comparison in which Californian wines outranked prominent French comparators, creating a media-amplified reputation shock without abolishing French prestige or proving a universal quality hierarchy.
 
 ## Current Synthesis
 
-The episode presents the tasting as a reputation shock rather than a total regime change. Stephen Spurrier organized a blind comparison to introduce New World wines to French drinkers who generally treated Californian wine as inferior. Senior French judges then ranked a Californian Chardonnay first among whites and a Stag's Leap red first among reds, ahead of famous French comparators.
+The sources agree on the durable mechanism: Stephen Spurrier assembled French judges and concealed wine identities; Californian wines placed first in both white and red comparisons; and the result challenged an assumption that elite quality belonged to established French regions. French judging authority and reporting made the outcome far more consequential than a routine trade tasting.
 
-The result mattered because it showed that quality claims were not exhausted by inherited classification or national prestige. Yet the aftermath also confirms French authority's durability: Californian wineries and later global producers continued to use French naming conventions, chateau imagery, and terroir language. The tasting therefore belongs inside [[WinePrestigeClassificationSystem]] as a disruption that widened the prestige field rather than abolishing hierarchy.
+The new source sharpens contingency. It presents the event as partly a U.S. bicentennial promotion and shop-publicity exercise whose participants did not necessarily anticipate rupture; some judges later resisted that interpretation. Blindness reduced label and prestige cues, while media circulation turned a bounded ranking into a symbol of New World legitimacy. French vocabulary, classification, and terroir authority persisted, so the event widened the prestige field rather than replacing its terms.
 
 ## Key Claims
 
-- The tasting was designed as a blind comparison between French and Californian wines.
-- French judging authority made the result reputationally powerful.
-- Californian victories challenged assumptions that New World wines were necessarily inferior.
-- The Stag's Leap case sharpened the shock because the vineyard was very young.
-- Prohibition and older American wine failures formed the negative backdrop the episode says French critics had in mind.
-- The result elevated Californian and New World wine prestige.
-- French cultural vocabulary persisted after the challenge, showing disruption without full displacement.
+- The event used blind comparison to reduce label and national-origin cues.
+- French judges' authority made Californian victories reputationally powerful.
+- Californian wines placed first in both comparisons described by the sources.
+- The tasting's original promotional scale was smaller than its later meaning.
+- Reporting converted a bounded result into a broader market and cultural signal.
+- The result challenged monopoly claims about elite quality, not every French wine.
+- French prestige vocabulary survived and was reused by competitors.
 
 ## Evidence
 
-- Setup and judges: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says Stephen Spurrier organized the 1976 blind tasting with senior French wine authorities as judges.
-- White and red results: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says a Californian Chardonnay won the white tasting and a Stag's Leap wine won the red tasting, with Château Mouton Rothschild second in reds.
-- Californian reputation backdrop: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] uses Leland Stanford's failed large-scale wine quality, Prohibition damage, wine-brick workarounds, and sweetness/commercialism stereotypes to explain French skepticism.
-- Young vineyard shock: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says the Stag's Leap vineyard had only been planted in 1970.
-- Aftermath: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says the result lifted Californian and New World prestige while French markers and terroir vocabulary continued to travel internationally.
+- Setup and authority: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] and [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] identify Spurrier, blind comparison, and prominent French judges.
+- Results: both [[666-wine-and-the-birth-of-civilisation-glt1414718476]] and [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] report Californian first places.
+- Backdrop and novelty: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] places the result against Prohibition damage, American quality stereotypes, and the young Stag's Leap vineyard.
+- Contingency and amplification: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] emphasizes bicentennial and shop-promotion context, judge resistance, and reporting.
+- Prestige persistence: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says French markers and terroir language continued to travel.
 
 ## Counterevidence & Qualifications
 
-The episode does not treat the tasting as proof that all Californian wine outranked French wine or that French prestige collapsed. It is a case of blind-tasting disruption, media effect, and market revaluation, with the continuing use of French vocabulary showing that old authority can survive inside the system that challenges it.
+One tasting cannot show that Californian wine generally outranks French wine, blind judgment is perfectly objective, or inherited classification lacks material basis. Rankings depend on bottles, vintages, serving, judges, scoring, and time horizon. The sources differ in emphasis, so exact details remain bounded to those tellings unless independently corroborated.
 
 ## What Changed
 
-- Added the 1976 blind-tasting shock as a precise case for how prestige systems can be disrupted without being fully replaced.
+- Added the gap between modest promotional framing and later symbolic meaning.
+- Added media amplification and judge resistance to explain contested significance.
+- Clarified that blindness removes some prestige cues without becoming context-free.
 
 ## Related Concepts
 
-- [[WinePrestigeClassificationSystem]] - broader hierarchy that the tasting challenges and extends.
-- [[WineTerroir]] - place-quality vocabulary that survives the New World challenge.
-- [[WineAsAgriculturalCulture]] - agricultural grounding behind quality claims beyond labels.
-- [[HistoricalMemoryContest]] - adjacent pattern where later narratives fight over what an event proved.
-- [[CategoryCreation]] - related market-learning problem for unfamiliar or undervalued regions.
+- [[CompetitiveWineBlindTasting]] - controlled sensory-evaluation practice illustrated by the event.
+- [[WinePrestigeClassificationSystem]] - hierarchy the tasting challenged and expanded.
+- [[WineTerroir]] - place-quality vocabulary that persisted after the shock.
+- [[WineAsAgriculturalCulture]] - material basis for quality claims beyond labels.
+- [[HistoricalMemoryContest]] - pattern in which later narratives dispute what an event proved.
+- [[CategoryCreation]] - adjacent market-learning problem for unfamiliar regions.

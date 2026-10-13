@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13489
+wiki_total_pages: 13491
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2153,6 +2153,9 @@ wiki_pages:
   - key: "AndingCommandery"
     title: "安定郡 / Anding Commandery"
     url: "/wiki/entities/andingcommandery/"
+  - key: "AndelieWineTaster"
+    title: "安德烈 / Andelie (wine taster)"
+    url: "/wiki/entities/andeliewinetaster/"
   - key: "Anhui"
     title: "安徽 / Anhui"
     url: "/wiki/entities/anhui/"

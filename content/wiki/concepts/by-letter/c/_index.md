@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10539
+wiki_total_pages: 10541
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "ChineseWebFictionMethodology"
     title: "Chinese Web Fiction Methodology / 中国网文方法论"
     url: "/wiki/concepts/chinesewebfictionmethodology/"
+  - key: "ChineseWineIndustryDevelopment"
+    title: "Chinese Wine Industry Development / 中国葡萄酒产业发展"
+    url: "/wiki/concepts/chinesewineindustrydevelopment/"
   - key: "ChineseWoodblockPrintingEconomics"
     title: "Chinese Woodblock Printing Economics / 中国雕版印刷经济性"
     url: "/wiki/concepts/chinesewoodblockprintingeconomics/"
@@ -1913,6 +1916,9 @@ wiki_pages:
   - key: "CompetitiveSpreadsheeting"
     title: "Competitive Spreadsheeting"
     url: "/wiki/concepts/competitivespreadsheeting/"
+  - key: "CompetitiveWineBlindTasting"
+    title: "Competitive Wine Blind Tasting / 竞技葡萄酒盲品"
+    url: "/wiki/concepts/competitivewineblindtasting/"
   - key: "CompiegneArmistice1940"
     title: "Compiègne Armistice (1940)"
     url: "/wiki/concepts/compiegnearmistice1940/"

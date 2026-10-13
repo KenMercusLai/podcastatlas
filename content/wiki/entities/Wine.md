@@ -6,7 +6,8 @@ sources:
   - sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156
   - advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91
   - 666-wine-and-the-birth-of-civilisation-glt1414718476
-last_updated: 2026-09-12
+  - 507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,54 +15,53 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Wine / 葡萄酒 is now a multi-branch wiki object: an agricultural drink, sensory learning system, commercial category, long-distance trade good, religious and legal symbol, technology-dependent bottled product, and prestige market.
+Wine / 葡萄酒 is an agricultural drink, sensory classification system, cultural archive, commercial category, traded and ritual object, technology-dependent product, and prestige market.
 
 ## Current Profile
 
-At the sensory and food-writing level, wine appears as a farmed and fermented object rather than a pure luxury credential. One bottle can contain grape variety, soil, climate, weather, farming, fermentation, winemaker decisions, market fashion, memory, and changing taste. That makes wine a case for [[WineAsAgriculturalCulture]], [[WineTerroir]], [[TasteTraining]], [[NaturalWine]], and [[FlavorAsSelfKnowledge]].
+Across the bounded sources, wine begins with grapes, site, weather, farming, fermentation, storage, and human choice, but never remains only agricultural. Repeated comparison makes some sensory patterns learnable; stories, memories, and preference shape use; distribution and education teach unfamiliar regional value; and institutions turn origin, estate, method, and price into market authority.
 
-At the commercial category level, [[CultureWineCompany]] makes premium South African wine a [[CategoryCreation]] and relationship-led distribution problem: buyers and consumers need a new regional story, and restaurants, sommeliers, focused markets, reorder behavior, and local proof become part of how wine value is taught.
-
-At the deep-history and prestige-system level, wine becomes visible through Georgian and Armenian archaeology, Canaanite and Phoenician export, Greek drinking rules, Roman imperial markets, Christian Eucharistic survival, Islamic prohibition and poetry, English bottle technology, French estate classification, terroir language, and the 1976 [[JudgmentOfParisWine|Judgment of Paris]].
+The historical branch follows wine through early archaeology, Mediterranean trade, Greek and Roman drinking cultures, Christian ritual, Islamic legal-poetic ambivalence, English bottle technology, French classification, and the [[JudgmentOfParisWine|Judgment of Paris]]. The competitive branch clarifies that blind tasting can suppress labels and prestige while still depending on sample choice, scoring, typicity, learned priors, and team inference. Its Chinese branch adds a development problem: favorable regions require technical continuity, credible origin governance, consumer demand, and accumulated expertise before potential becomes durable strength.
 
 ## Key Characteristics
 
-- Wine is a farmed, fermented, place-bound product before it is a luxury sign.
-- Wine can be read as a material archive because agriculture, transport, production, vocabulary, ritual, and social status are all present in the bottle.
-- Wine education becomes less intimidating when it starts from comparison, memory, and personal preference rather than from memorizing prestige hierarchies.
-- The same wine region or estate can change over time because climate, technique, market preference, and human succession are not fixed.
-- Wine's commercial value often has to be taught through trusted channels, especially when a region is undervalued or miscategorized.
-- Wine has historically moved through trade, empire, religion, law, technology, classification, and national prestige.
-- Wine prestige can be disrupted by blind tasting and New World competition while still relying on inherited French vocabulary.
+- Wine is a farmed, fermented, place-bound product before it becomes a luxury sign or scored category.
+- A bottle can archive agriculture, technology, trade, ritual, family, market change, and sensory memory.
+- Comparative tasting is trainable, but competition, criticism, and personal enjoyment use different criteria.
+- Wine value is taught through vocabulary, trusted channels, producer stories, classification, and market proof.
+- Regions change because climate, technique, demand, regulation, and human succession are not fixed.
+- Prestige can be disrupted by blind results without eliminating older classifications or French vocabulary.
+- Industry maturity depends on continuity of rules, skills, demand, and institutions as well as vineyard potential.
 
 ## Evidence
 
-- Agricultural and sensory frame: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] pulls wine back to grapes, soil, climate, weather, fermentation, winemaker practice, taste vocabulary, and personal preference.
-- Cultural works and authenticity anxiety: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] uses [[DropsOfGod|《神之水滴》]], [[SidewaysFilm|《杯酒人生》]], [[SOMDocumentary|SOM]], [[SourGrapesDocumentary|《酸葡萄》]], and [[WorldAtlasOfWine|《世界葡萄酒地图》]] to show wine as story, self-projection, training, reference, and fraud risk.
-- Commercial category-building: [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]] describes [[CultureWineCompany]] trying to reframe South African wine from value category into premium regional story through restaurants, sommeliers, and focused markets.
-- Deep history and trade: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] traces wine through Georgia, Armenia, Canaanites, Phoenicians, Greek drinking culture, Roman imperial markets, and post-Roman survival.
-- Religion and law: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] connects wine to the Christian Eucharist and to Islamic prohibition, legal variation, tavern culture, poetry, and mystical metaphor.
-- Technology and prestige: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] connects English bottle technology, cork, port, Bordeaux estate branding, the 1855 classification, terroir, and the Judgment of Paris.
+- Agricultural and sensory character: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] joins grape, soil, climate, fermentation, maker practice, vocabulary, memory, and preference; [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] adds controlled competitive inference and modern production technique.
+- Cultural learning and authenticity: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] uses wine media, natural wine, fraud anxiety, and personal experience to show learning beyond status performance.
+- Commercial category-building: [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]] describes [[CultureWineCompany]] teaching premium South African wine through restaurants, sommeliers, focused markets, and reorder behavior.
+- Historical system: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] traces archaeology, trade, empire, religion, law, bottle technology, French classification, terroir, and New World challenge.
+- Blind evaluation and prestige: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] and [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] show inherited reputation being tested and repriced; the latter separates judging quality from competition typicity.
+- Chinese industry conditions: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] links regulation, parcels, consumer culture, climate, technique, and accumulated expertise.
 
 ## Qualifications
 
-The wiki's wine profile is assembled from three very different kinds of evidence: a sensory and food-writing conversation, a founder-advice business case, and a broad narrative-history episode. It should not be read as a complete viticulture or wine-market history. The Judgment of Paris disrupts French authority in the source, but does not prove that all Californian wines outrank French wines or that classification has no material basis.
+The sources are a sensory-cultural conversation, a founder-advice case, a broad narrative history, and a competitive practitioner's interview. Together they support a layered map, not a complete viticulture, law, market, or quality history. Blind tasting reduces some reputation cues but does not establish perfect objectivity. The new source's historical details, competition record, “10%” talent estimate, institutional comparisons, and regional quality judgments remain source-scoped.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1`.
-- Added long-range wine history through trade, empire, ritual, Islamic legal-poetic ambivalence, English bottle technology, French classification, terroir, and the Judgment of Paris.
-- Added a clearer distinction between wine as agriculture, wine as category-building, and wine as prestige system.
+- Added competitive blind tasting as controlled classification, event strategy, and team decision-making.
+- Distinguished competition typicity from critic evaluation and personal enjoyment.
+- Added Chinese industry continuity, regulation, consumer-demand, and regional-development constraints.
+- Preserved the agricultural, historical, commercial, and prestige branches while integrating the new evidence.
 
 ## Relationships
 
 - [[WineAsAgriculturalCulture]] - agricultural and material base of the wine branch.
-- [[WineTerroir]] - place-character frame for wine quality and interpretation.
+- [[WineTerroir]] - contested place-character frame for quality and interpretation.
+- [[TasteTraining]] - comparative practice for sensory discrimination and vocabulary.
+- [[CompetitiveWineBlindTasting]] - scored inference practice controlling labels and outside clues.
 - [[WineTradeCivilizationNetwork]] - deep-history network linking wine to trade, ritual, law, and empire.
-- [[WinePrestigeClassificationSystem]] - modern prestige system linking estate branding, ranking, terroir, price, and blind tasting.
-- [[JudgmentOfParisWine]] - 1976 blind-tasting shock that widened New World prestige.
-- [[TasteTraining]] - sensory practice for learning wine through comparison and vocabulary.
-- [[NaturalWine]] - low-intervention style that lowers some social barriers while foregrounding fermentation variation.
-- [[FlavorAsSelfKnowledge]] - personal endpoint for taste learning.
-- [[CultureWineCompany]] - commercial case where South African wine prestige must be taught through channels.
-- [[CategoryCreation]] - market-learning frame for undervalued wine regions.
+- [[WinePrestigeClassificationSystem]] - system linking estate, ranking, origin, price, and blind evaluation.
+- [[JudgmentOfParisWine]] - 1976 reputation shock that widened New World prestige.
+- [[ChineseWineIndustryDevelopment]] - continuity and institutions framework for China's sector.
+- [[DeqinMeiliWineRegion]] - source-scoped high-potential regional case.
+- [[CultureWineCompany]] - category-education case for premium South African wine.

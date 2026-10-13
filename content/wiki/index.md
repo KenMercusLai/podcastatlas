@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故](sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g.md) — 忽左忽右访谈安德烈，以竞技盲品、巴黎审判、风土分歧和中国葡萄酒产业条件解释一杯酒中的感官、制度与市场信息。
 - [149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷](sources/ep149-ep149.md) — 疯投圈拆解抖省省与美团、大众点评的到店团购竞争，并以东茅街茶馆和天福台讨论商户如何建立不依赖平台券的目的地流量。
 - [《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？](sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6.md) — 以治理、止乱与百姓福祉挑战单纯的汉室名分，并以《君主论》和庞统三策限定道德化阵营叙事。
 - [《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？](sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho.md) — 以宗室谱系、隆中对和荆益扩张解释诸葛亮择主与刘备晚成，并以入蜀夺益州过程限定单纯的仁德叙事。
@@ -4698,6 +4699,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
 
 ## Entities
+- [安德烈 / Andelie (wine taster)](entities/AndelieWineTaster.md) — 纪录片导演、盲品训练组织者与中国竞技葡萄酒盲品选手。
+- [Deqin–Meili Wine Region / 德钦梅里葡萄酒产区](entities/DeqinMeiliWineRegion.md) — 云南西北部高海拔葡萄酒产区，具有自然潜力但仍受经验、制度与证据边界约束。
 - [东茅街茶馆 / Dongmaojie Teahouse](entities/DongmaojieTeahouse.md) — 以喝茶、嗑瓜子、聊天和长沙在地生活形成目的地需求、并不销售平台团购券的社交型茶馆。
 - [天福台 / Tianfutai](entities/Tianfutai.md) — 融合餐饮、茶、酒、演出与多时段社交使用的长沙复合空间，其商业成效仍需独立数据验证。
 - [绿泡泡短剧 / Green Bubble Drama](entities/GreenBubbleDrama.md) — 微信官方免费短剧聚合入口，以外部小程序供给、剧集间广告和视频号跳转组织分散流量。
@@ -18260,6 +18263,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
 
 ## Concepts
+- [Competitive Wine Blind Tasting / 竞技葡萄酒盲品](concepts/CompetitiveWineBlindTasting.md) — 在控制标签与场外线索后，以感官证据、类别知识、赛事策略和团队判断推断葡萄酒身份的计分实践。
+- [Chinese Wine Industry Development / 中国葡萄酒产业发展](concepts/ChineseWineIndustryDevelopment.md) — 以技术连续性、原产地规则、地块认知、消费基础和代际经验判断产业成熟度的框架。
 - [In-Store Deal Competition / 到店团购竞争](concepts/InStoreDealCompetition.md) — 用户自行到店履约时，平台围绕发现、评价、价格、支付、核销与商户覆盖展开的本地交易竞争。
 - [Merchant-Owned Destination Demand / 商户自有目的地流量](concepts/MerchantOwnedDestinationDemand.md) — 商户以独特场景、文化和社交体验使门店本身成为到访理由，从而降低对平台团购券的依赖。
 - [治理能力型合法性 / Governance-Capacity Legitimacy](concepts/GovernanceCapacityLegitimacy.md) — 以止乱、约束强者、维持生计与公共安全检验统治正当性，同时要求核算强权自身的暴力、汲取和继承风险。

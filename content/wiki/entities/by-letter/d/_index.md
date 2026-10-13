@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13489
+wiki_total_pages: 13491
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "DepartmentOfGovernmentEfficiency"
     title: "Department of Government Efficiency"
     url: "/wiki/entities/departmentofgovernmentefficiency/"
+  - key: "DeqinMeiliWineRegion"
+    title: "Deqin–Meili Wine Region / 德钦梅里葡萄酒产区"
+    url: "/wiki/entities/deqinmeiliwineregion/"
   - key: "DerRingDesNibelungen"
     title: "Der Ring des Nibelungen / The Ring Cycle"
     url: "/wiki/entities/derringdesnibelungen/"

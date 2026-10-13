@@ -5,7 +5,8 @@ tags: [wine, terroir, agriculture, taste, place]
 sources:
   - sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156
   - 666-wine-and-the-birth-of-civilisation-glt1414718476
-last_updated: 2026-09-12
+  - 507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g
+last_updated: 2026-10-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,48 +14,49 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Wine terroir / 葡萄酒风土 is the concept that [[Wine|wine]] carries place through soil, geography, weather, grape variety, ripeness, surrounding smells, human practice, tradition, and market language.
+Wine terroir / 葡萄酒风土 is the contested concept that [[Wine|wine]] carries place through natural site conditions and, under broader definitions, through the human practices and histories that make those conditions legible in the glass.
 
 ## Current Synthesis
 
-The sensory-learning branch treats terroir as natural and human at once. Soil, geography, weather, ripeness, grape variety, and surrounding smells matter, but so do people, habits, succession, and winemaking choices. Terroir is learnable through comparison and blind tasting, yet unstable because climate, technique, and human handoff can change a region or estate's expression.
+The bounded sources support two explicit definitions. The broader sensory-cultural view includes soil, geography, weather, grape variety, surrounding ecology, farming, winemaking, local habit, and succession. The narrower practitioner view reserves terroir for prior natural conditions—especially land, soil, and climate—then treats cultivation and vinification as a separate human layer. These usages disagree about the boundary while agreeing that tasted wine results from nature, vintage, and intervention together.
 
-The prestige-history branch adds terroir's political and market layer. John Locke's Bordeaux tour becomes an early attention point for soil and quality, and terroir becomes an untranslatable French idea linking soil, place, tradition, national rootedness, and marketing. Terroir helps French producers differentiate themselves from New World competition, while the [[JudgmentOfParisWine|Judgment of Paris]] shows that place-prestige can be challenged by blind tasting and then exported internationally.
+Terroir is neither magic nor a direct sensory barcode. Comparison and [[CompetitiveWineBlindTasting|blind tasting]] can teach regional and varietal patterns when wines are typical, but climate, technology, style convergence, vintage, and maker choice weaken inference. Classification can encode site knowledge, while national prestige, scarcity, parcel prices, and storytelling can overstate what sensory evidence supports.
 
 ## Key Claims
 
-- Terroir is not only natural background; human practice can be part of the tasted place.
-- Blind tasting works best with typical regions and varieties, and becomes harder when styles converge or winemakers break expectations.
-- A region's reputation can lag behind changes in farming, climate, market preference, or generational handoff.
-- Terroir language is useful when it points back to material conditions, not when it becomes status jargon.
-- Terroir can become a national and market language for defending or exporting prestige.
-- New World producers can challenge French prestige while still borrowing terroir vocabulary.
+- Natural site conditions are indispensable even when definitions disagree about human practice.
+- Broad definitions include cultivation, vinification, habit, and succession; narrow definitions place them outside terroir but inside final expression.
+- Blind tasting reads probabilistic patterns rather than uniquely identifying place from liquid alone.
+- Climate, technique, market preference, vintage, and generational handoff can change expression.
+- Parcel rules can preserve distinctions, but price gaps do not prove proportional sensory differences.
+- Terroir can describe material conditions, organize regulation, express identity, or perform marketing.
+- New regions can have favorable nature while lacking the institutions and history of established prestige.
 
 ## Evidence
 
-- Natural-human definition: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] expands terroir into "风土人情," including natural conditions and human practice together.
-- Learnability and instability: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] uses [[SOMDocumentary|SOM]], [[DropsOfGod|《神之水滴》]], and estate change across decades to show terroir as trainable but not fixed.
-- Early soil-quality attention: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] uses John Locke's 1677 Bordeaux wine tour to show attention to soil and quality.
-- French national and marketing layer: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says terroir gained cultural and political weight in industrializing France and helped French producers differentiate themselves from New World competition.
-- International persistence: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] says terroir vocabulary has been transplanted internationally even after Californian wines challenged French authority in 1976.
+- Broad definition: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] uses “风土人情” to include place, people, habit, succession, and winemaking.
+- Narrow definition: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] compares soil to a skeleton, vintage climate to flesh, and human action to skin.
+- Learnability and instability: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] and [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] describe comparison alongside style convergence, vintage, and intervention.
+- Prestige language: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] links terroir to French soil attention, national rootedness, differentiation, and international persistence.
+- Institutional application: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] contrasts origin-rule enforcement and compares Chinese regions.
 
 ## Counterevidence & Qualifications
 
-The sources treat terroir as useful but vulnerable to overstatement. Human technique, climate shifts, market fashion, and style convergence can weaken simple place inference. The Rest Is History source also says some Burgundy tradition claims were partly 1920s inventions, so terroir language can preserve material knowledge and perform marketing at the same time.
+The sources do not settle whether terroir should include human practice; the page preserves both usages. Nor do they show that tasters reliably identify every region, administrative parcels map cleanly to sensory differences, or prestige price gaps measure quality. Some Burgundy tradition claims in the history source are described as modern inventions, while the Deqin assessment and institutional comparison remain practitioner testimony.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1`.
-- Added terroir's French prestige, national-rootedness, marketing, and post-Judgment-of-Paris international layer.
+- Added an explicit conflict between broad natural-human and narrow natural-endowment accounts.
+- Distinguished terroir itself from the tasted result of site, vintage, and intervention.
+- Added Chinese regional potential and origin governance as qualified applications.
 
 ## Related Concepts
 
-- [[Wine|Wine / 葡萄酒]] - object whose place-character is being interpreted.
-- [[WineAsAgriculturalCulture]] - agricultural base that terroir should point back to.
-- [[WinePrestigeClassificationSystem]] - hierarchy where terroir can become quality language and marketing asset.
-- [[JudgmentOfParisWine]] - blind-tasting shock that tests inherited place prestige.
-- [[TasteTraining]] - practice that reads terroir through comparison.
-- [[NaturalWine]] - style that foregrounds intervention, fermentation, and farming choices.
-- [[DropsOfGod|《神之水滴》]] - story route into terroir.
-- [[SOMDocumentary|SOM]] - training route into terroir.
-- [[WorldAtlasOfWine|《世界葡萄酒地图》]] - reference route into terroir.
+- [[Wine|Wine / 葡萄酒]] - product in which place-character is interpreted.
+- [[WineAsAgriculturalCulture]] - material base that terroir language should track.
+- [[CompetitiveWineBlindTasting]] - probabilistic practice for inferring typicity and place.
+- [[TasteTraining]] - comparison improving discrimination without guaranteeing certainty.
+- [[WinePrestigeClassificationSystem]] - hierarchy that can encode or overmarket site differences.
+- [[JudgmentOfParisWine]] - blind-tasting shock testing inherited place prestige.
+- [[ChineseWineIndustryDevelopment]] - institutional context for credible regional distinctions.
+- [[DeqinMeiliWineRegion]] - case separating natural potential from accumulated authority.

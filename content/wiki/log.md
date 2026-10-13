@@ -36805,3 +36805,10 @@ Added source `unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088`; 
 ## [2026-10-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-13] ingest | 507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故
+
+Added source `507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g`; created [[AndelieWineTaster|安德烈]], [[DeqinMeiliWineRegion|德钦梅里葡萄酒产区]], [[CompetitiveWineBlindTasting|竞技葡萄酒盲品]], and [[ChineseWineIndustryDevelopment|中国葡萄酒产业发展]]; and resynthesized [[Wine|葡萄酒]], [[WineTerroir|葡萄酒风土]], and [[JudgmentOfParisWine|巴黎审判]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: competitive blind tasting is trainable classification under uncertainty plus event strategy and team decision-making; blind formats reduce some prestige cues without becoming context-free; terroir retains a real definitional conflict between broad natural-human and narrow natural-endowment accounts; and Chinese regional potential requires continuous skills, enforceable provenance rules, consumer demand, and time. No settled factual contradiction was adopted. The guest's record, the “10%” talent estimate, event details, historical and regulatory comparisons, and Deqin “world-class” assessment remain source-scoped. Broad [[HuzuoHuyou|忽左忽右]], [[Yunnan|云南]], [[LVMH]], and [[France]] profiles were kept closed because focused pages capture the durable additions without reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,611 sources across 802 overview paragraphs and nine topics.
+
+## [2026-10-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

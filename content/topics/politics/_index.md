@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3323
+topic_total_pages: 3324
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -730,6 +730,9 @@ topic_concepts:
   - key: "ChinesePrivateAirlineOpening"
     title: "Chinese Private Airline Opening"
     url: "/wiki/concepts/chineseprivateairlineopening/"
+  - key: "ChineseWineIndustryDevelopment"
+    title: "Chinese Wine Industry Development / 中国葡萄酒产业发展"
+    url: "/wiki/concepts/chinesewineindustrydevelopment/"
   - key: "ChokepointLogisticsRerouting"
     title: "Chokepoint Logistics Rerouting"
     url: "/wiki/concepts/chokepointlogisticsrerouting/"
