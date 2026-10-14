@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
   - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w
+last_updated: 2026-10-14
 ---
 
 ## Overview
@@ -16,7 +17,9 @@ last_updated: 2026-10-05
 
 ## Current Profile
 
-Hanji 349-2 says Zhao Yingqi asks the Han court to recognize Lady Jiu as queen and Zhao Xing as heir. After Zhao Yingqi dies, Zhao Xing succeeds and she becomes queen dowager. The host calls her a person planted by [[HanWudi|汉武帝]], but the source establishes a Han-facing succession opening more securely than a formal intelligence commission.
+Hanji 349-1 appears to supply her marriage prehistory without naming her. It says Wudi arranges Zhao Yingqi's marriage to a woman from the Handan region and that she bears Zhao Xing and Zhao Cigong. The Zhao Xing maternity and the adjacent succession sequence support routing this unnamed wife to Lady Jiu, but do not independently prove identity or the host's claim that Wudi planted her as an intimate influence agent.
+
+Hanji 349-2 says Zhao Yingqi asks the Han court to recognize Lady Jiu as queen and Zhao Xing as heir. After Zhao Yingqi dies, Zhao Xing succeeds and she becomes queen dowager. The source establishes a Han-facing succession opening more securely than a formal intelligence commission.
 
 Hanji 351 adds the diplomatic stage. Wudi sends [[AnGuoShaoJiWesternHan|安国少季]], described as her former intimate associate, with a Han mission. The royal party requests treatment comparable to interior vassals: triennial court attendance, removal of border barriers, Han-issued seals, partial local appointment authority, Han law, and continued envoy presence. This is her clearest current policy act, but approval does not prove durable implementation.
 
@@ -24,7 +27,8 @@ Hanji 352-1 shows the policy conflict turning violent. She is more willing than 
 
 ## Key Characteristics
 
-- Han-born Nanyue queen, later queen dowager, and mother of Zhao Xing.
+- Probable Handan-region wife in the episode's account, later Nanyue queen and queen dowager.
+- Mother of Zhao Xing and, according to Hanji 349-1's unnamed-wife sequence, Zhao Cigong.
 - Court-recognized participant in Zhao Yingqi's succession arrangement.
 - Royal advocate of interior-vassal-style court, border, seal, and legal integration.
 - Former intimate associate of Han envoy An Guo Shaoji in the episode's account.
@@ -33,19 +37,19 @@ Hanji 352-1 shows the policy conflict turning violent. She is more willing than 
 
 ## Evidence
 
-- Marriage and succession position: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] says Zhao Yingqi requests her recognition as queen and that she becomes queen dowager after Zhao Xing succeeds.
+- Marriage prehistory: [[zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w|Hanji 349-1]] says Wudi arranges Zhao Yingqi's marriage to an unnamed Handan-region woman who bears Zhao Xing and Zhao Cigong.
+- Succession position: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] says Zhao Yingqi requests Lady Jiu's recognition as queen and that she becomes queen dowager after Zhao Xing succeeds.
 - Integration policy and personal envoy channel: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] links her to Shaoji and to the royal request for court attendance, open borders, seals, Han law, and resident envoys.
 - Failed confrontation and death: [[zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex|Hanji 352-1]] says she tries unsuccessfully to precipitate action against Lü Jia and is later killed by his faction.
 
 ## Qualifications
 
-The supplied summaries write “纠氏／纠太后” and “娇氏”; the wiki normalizes them to 樛氏／樛太后. The claim that Wudi planted her as an agent is stronger than the evidence of Han origin, court-recognized marriage, prior intimacy with an envoy, and pro-integration policy, so formal agent status remains source-scoped. Neither source supplies her personal name, direct perspective, or full network. The relationship with Shaoji is not independently reconstructed, and Lü Jia's sexual and enslavement allegations require separate evidence before use as fact. Approval of the reforms does not establish that they took durable effect before the coup.
+The supplied summaries write “纠氏／纠太后” and “娇氏”; the wiki normalizes them to 樛氏／樛太后. Hanji 349-1 does not name Zhao Yingqi's new wife, so connecting its Handan-region woman to Lady Jiu is an evidence-based sequence inference rather than an explicit identification. The claim that Wudi planted her as an agent is stronger than the evidence of Han origin, an arranged and court-recognized marriage, prior intimacy with an envoy, and pro-integration policy, so formal agent status remains source-scoped. The sources do not supply her personal name, direct perspective, or full network. The relationship with Shaoji is not independently reconstructed, and Lü Jia's sexual and enslavement allegations require separate evidence before use as fact. Approval of the reforms does not establish durable implementation before the coup.
 
 ## What Changed
 
-- Added her concrete request for court attendance, removal of border barriers, Han seals and law, and continued envoy presence.
-- Added An Guo Shaoji as an intimate and diplomatic access channel while keeping formal-spy status qualified.
-- Reframed the later banquet and coup as resistance to a specific integration program.
+- Added the probable marriage prehistory, Handan-region description, and second-son claim while keeping the unnamed-wife identification explicit.
+- Strengthened the distinction between marriage as an influence channel and unproven formal-agent status.
 
 ## Relationships
 

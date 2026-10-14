@@ -4701,6 +4701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁](sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um.md) — 文化有限以《白鲸》的捕鲸复仇主线连接百科式小说、海上劳动、产业史、宗教、经验知识、目标身份锁定及 AI 时代的媒介边界。
 - [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
+- [《资治通鉴·汉纪》349-1｜汉武帝：赵婴齐，你要老婆不要？](sources/zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w.md) — 芮淇讲透资治通鉴以赵婴齐十二年长安宿卫、婚姻安排和回国后的有限服从讨论质子培养、亲密影响与控制边界。
 
 ## Entities
 - [Neil Nitin Mukesh](entities/NeilNitinMukesh.md) — Indian actor whose career account connects lineage, apprenticeship, typecasting, consequential roles, multilingual work, family responsibility, and AI.
