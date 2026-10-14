@@ -36938,3 +36938,11 @@ Added source `kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | AI 管理瑞幸咖啡店，員工為什麼越來越累？
+
+Added source `ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461`; created [[AlgorithmicWorkforceScheduling|算法劳动力排班]], [[ManagerDiscretionUnderAutomation|自动化下的管理者裁量]], and [[ServiceWorkMobilityTrap|服务业流动陷阱]]; and resynthesized [[LuckinCoffee|瑞幸咖啡]], [[WorkplaceMetricGaming]], and [[InvisibleOvertimeIncentiveTrap|隐形加班激励陷阱]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: demand and throughput data can undercount cleaning, closing, inventory, training, product complexity, worker skill, equipment failure, and live demand shocks; when low forecasts cut paid hours faster than high forecasts add capacity, employees become the residual buffer through intensity or unpaid work. Conflicting speed, satisfaction, hygiene, waste, scan, and ranking targets encourage metric-protecting behavior, while system-led scheduling and ordering can leave store managers accountable without timely corrective authority. The episode also frames job quality through future-option preservation: accessible service work can impede study, mobility, and retraining when it consumes health, time, and transferable learning. No settled contradiction was adopted. Store conditions, labor savings, KPI thresholds, injuries, system behavior, and corporate intent remain interview- or episode-scoped because the source lacks system documentation, company response, payroll records, or representative network data. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,628 sources across 803 overview paragraphs and nine topics.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

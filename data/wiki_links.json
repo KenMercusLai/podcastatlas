@@ -8799,6 +8799,10 @@
     "title": "Algorithmic Trust Migration",
     "url": "/wiki/concepts/algorithmictrustmigration/"
   },
+  "AlgorithmicWorkforceScheduling": {
+    "title": "Algorithmic Workforce Scheduling / 算法劳动力排班",
+    "url": "/wiki/concepts/algorithmicworkforcescheduling/"
+  },
   "AliAnsari": {
     "title": "Ali Ansari",
     "url": "/wiki/entities/aliansari/"
@@ -57219,6 +57223,10 @@
     "title": "Management Shareholder Alignment Risk",
     "url": "/wiki/concepts/managementshareholderalignmentrisk/"
   },
+  "ManagerDiscretionUnderAutomation": {
+    "title": "Manager Discretion Under Automation / 自动化下的管理者裁量",
+    "url": "/wiki/concepts/managerdiscretionunderautomation/"
+  },
   "ManagerialAIFluencyGap": {
     "title": "Managerial AI Fluency Gap",
     "url": "/wiki/concepts/managerialaifluencygap/"
@@ -78974,6 +78982,10 @@
   "ServiceProductization": {
     "title": "Service Productization",
     "url": "/wiki/concepts/serviceproductization/"
+  },
+  "ServiceWorkMobilityTrap": {
+    "title": "Service Work Mobility Trap / 服务业流动陷阱",
+    "url": "/wiki/concepts/serviceworkmobilitytrap/"
   },
   "SethStoughton": {
     "title": "Seth Stoughton",
@@ -101230,6 +101242,10 @@
   "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad": {
     "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
     "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+  },
+  "ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461": {
+    "title": "AI 管理瑞幸咖啡店，員工為什麼越來越累？",
+    "url": "/wiki/sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461/"
   },
   "ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1": {
     "title": "AI 会写代码了，为什么你还是做不出产品？",

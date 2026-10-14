@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3518
+topic_total_pages: 3520
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3109,6 +3109,9 @@ topic_concepts:
   - key: "ManagedServiceAutomationLayer"
     title: "Managed-Service Automation Layer"
     url: "/wiki/concepts/managedserviceautomationlayer/"
+  - key: "ManagerDiscretionUnderAutomation"
+    title: "Manager Discretion Under Automation / 自动化下的管理者裁量"
+    url: "/wiki/concepts/managerdiscretionunderautomation/"
   - key: "ManagerialAIFluencyGap"
     title: "Managerial AI Fluency Gap"
     url: "/wiki/concepts/managerialaifluencygap/"
@@ -9132,6 +9135,9 @@ topic_sources:
   - key: "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf"
     title: "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力"
     url: "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+  - key: "ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461"
+    title: "AI 管理瑞幸咖啡店，員工為什麼越來越累？"
+    url: "/wiki/sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461/"
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"

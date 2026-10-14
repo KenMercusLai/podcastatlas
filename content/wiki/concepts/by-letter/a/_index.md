@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10555
+wiki_total_pages: 10558
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1937,6 +1937,9 @@ wiki_pages:
   - key: "AlgorithmicTrustMigration"
     title: "Algorithmic Trust Migration"
     url: "/wiki/concepts/algorithmictrustmigration/"
+  - key: "AlgorithmicWorkforceScheduling"
+    title: "Algorithmic Workforce Scheduling / 算法劳动力排班"
+    url: "/wiki/concepts/algorithmicworkforcescheduling/"
   - key: "AlidLegitimacy"
     title: "Alid Legitimacy"
     url: "/wiki/concepts/alidlegitimacy/"

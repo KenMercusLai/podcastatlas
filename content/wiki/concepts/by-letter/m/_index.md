@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10555
+wiki_total_pages: 10558
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "ManagementShareholderAlignmentRisk"
     title: "Management Shareholder Alignment Risk"
     url: "/wiki/concepts/managementshareholderalignmentrisk/"
+  - key: "ManagerDiscretionUnderAutomation"
+    title: "Manager Discretion Under Automation / 自动化下的管理者裁量"
+    url: "/wiki/concepts/managerdiscretionunderautomation/"
   - key: "ManagerialAIFluencyGap"
     title: "Managerial AI Fluency Gap"
     url: "/wiki/concepts/managerialaifluencygap/"

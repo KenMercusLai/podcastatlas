@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10555
+wiki_total_pages: 10558
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "ServiceProductization"
     title: "Service Productization"
     url: "/wiki/concepts/serviceproductization/"
+  - key: "ServiceWorkMobilityTrap"
+    title: "Service Work Mobility Trap / 服务业流动陷阱"
+    url: "/wiki/concepts/serviceworkmobilitytrap/"
   - key: "ServiceLedRetailMoat"
     title: "Service-Led Retail Moat"
     url: "/wiki/concepts/serviceledretailmoat/"

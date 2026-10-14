@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 管理瑞幸咖啡店，員工為什麼越來越累？](sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461.md) — 端聞以瑞幸门店访谈追踪算法排班如何遗漏清洁、培训与现场波动，并把预测误差转为减员、指标博弈和无偿劳动。
 - [Kicking Kyiv: Trump’s doubtful deals](sources/kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5.md) — Economist episode on asymmetric Ukraine energy bargaining, private wartime infrastructure, India’s expanding Cockroach Movement, and the conditions for inclusive group singing.
 - [Is AI solving the right problems for consumers?](sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128.md) — Marketplace Tech interview with Kate Moran on need-led AI design, voluntary adoption, agentic privacy and control risks, and the gap between successful demos and deployable products.
 - [风味吃喝：天津为什么是“巧克力痛城”？](sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka.md) — 大小电波从元宵、蒸饼、老品牌与家庭西餐追溯天津巧克力的市井本土化，并区分大众熟悉度与 Bean-to-Bar 消费认知。
@@ -18303,6 +18304,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
+- [Algorithmic Workforce Scheduling / 算法劳动力排班](concepts/AlgorithmicWorkforceScheduling.md) — How demand models allocate paid hours and transfer omitted tasks or asymmetric forecast errors to workers.
+- [Manager Discretion Under Automation / 自动化下的管理者裁量](concepts/ManagerDiscretionUnderAutomation.md) — Whether local managers retain bounded authority to correct system decisions while remaining accountable for outcomes.
+- [Service Work Mobility Trap / 服务业流动陷阱](concepts/ServiceWorkMobilityTrap.md) — When accessible service work consumes the health, time, stability, and portable learning needed to move onward.
 - [Participatory Singing](concepts/ParticipatorySinging.md) — Singing as developmental, social, and communal practice whose benefits depend on technique, access, and mistake-tolerant group culture.
 - [Asymmetric Energy Ceasefire](concepts/AsymmetricEnergyCeasefire.md) — Test for whether reciprocal energy restraint protects comparable value and distributes leverage, enforcement exposure, and side benefits evenly.
 - [Need-Led AI Product Design](concepts/NeedLedAIProductDesign.md) — Product-design discipline that turns model capability into a recognizable outcome, legible workflow, and controlled user experience.
