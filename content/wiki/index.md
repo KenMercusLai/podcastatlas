@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Is AI solving the right problems for consumers?](sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128.md) — Marketplace Tech interview with Kate Moran on need-led AI design, voluntary adoption, agentic privacy and control risks, and the gap between successful demos and deployable products.
 - [风味吃喝：天津为什么是“巧克力痛城”？](sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka.md) — 大小电波从元宵、蒸饼、老品牌与家庭西餐追溯天津巧克力的市井本土化，并区分大众熟悉度与 Bean-to-Bar 消费认知。
 - [《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！](sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d.md) — 三庄墓群的规划支持泗水国陵区判断，但陈墩女性骨骼与“张廷意”印章不能直接合成为墓主身份或刘姓王族关系。
 - [高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？](sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593.md) — 声动早咖啡以很久以前羊肉串对比火锅，从市场分散、制作标准化、加盟与直营、消费时段和季节性解释烧烤连锁扩张约束。
@@ -4713,6 +4714,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [特番｜从会开车到会做事：AI如何进入真实世界](sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns.md) — 商业就是这样与地平线嘉宾以责任边界、拟人化体验、芯片—算法协同、汽车规模化入口和机器人控制约束解释物理 AI 落地。
 
 ## Entities
+- [Kate Moran](entities/KateMoran.md) — User-experience researcher connecting consumer AI value to concrete needs, voluntary return behavior, and visible privacy and control tradeoffs.
 - [Horizon Robotics / 地平线](entities/HorizonRobotics.md) — Vehicle-first physical-AI platform company presented through chip–algorithm co-design, assisted driving, robot control, and developer-ecosystem strategy.
 - [Tianjin / 天津](entities/Tianjin.md) — Port city whose familiar chocolate fillings and household Western foods exemplify vernacular cultural localization.
 - [Qishilin / 起士林](entities/Qishilin.md) — Tianjin legacy chocolate and Western-food brand balancing remembered flavor with contemporary formulation expectations.
@@ -18300,6 +18302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
+- [Need-Led AI Product Design](concepts/NeedLedAIProductDesign.md) — Product-design discipline that turns model capability into a recognizable outcome, legible workflow, and controlled user experience.
 - [Human-like Assisted Driving / 拟人化辅助驾驶](concepts/HumanlikeAssistedDriving.md) — Product-quality layer that separates safe scene completion from stable, natural, predictable behavior across sustained assisted-driving use.
 - [Tianjin Chocolate Localization / 天津巧克力本土化](concepts/TianjinChocolateLocalization.md) — Process by which chocolate became ordinary through familiar Tianjin foods, shops, occasions, and memories.
 - [Bean-to-Bar Consumer Literacy](concepts/BeanToBarConsumerLiteracy.md) — Ability to judge chocolate through cacao origin, process, ingredients, flavor, and maker choices rather than generic sweetness.

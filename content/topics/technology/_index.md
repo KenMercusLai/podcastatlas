@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3515
+topic_total_pages: 3518
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3355,6 +3355,9 @@ topic_concepts:
   - key: "NeedDrivenStartupIdeas"
     title: "Need-Driven Startup Ideas"
     url: "/wiki/concepts/needdrivenstartupideas/"
+  - key: "NeedLedAIProductDesign"
+    title: "Need-Led AI Product Design"
+    url: "/wiki/concepts/needledaiproductdesign/"
   - key: "NegativeParallelism"
     title: "Negative Parallelism"
     url: "/wiki/concepts/negativeparallelism/"
@@ -6548,6 +6551,9 @@ topic_entities:
   - key: "KateCrawford"
     title: "Kate Crawford"
     url: "/wiki/entities/katecrawford/"
+  - key: "KateMoran"
+    title: "Kate Moran"
+    url: "/wiki/entities/katemoran/"
   - key: "KeithZhai"
     title: "Keith Zhai"
     url: "/wiki/entities/keithzhai/"
@@ -9765,6 +9771,9 @@ topic_sources:
   - key: "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128"
     title: "Is \"made by humans\" the new premium label?"
     url: "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+  - key: "tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128"
+    title: "Is AI solving the right problems for consumers?"
+    url: "/wiki/sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128/"
   - key: "tsr-s5-jared-v3final-tsr-s5-jared-v3final"
     title: "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd"
     url: "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"

@@ -677,9 +677,9 @@
       "url": "/wiki/concepts/aiaccountabilityauditchain/"
     },
     "AIAdoptionBehavioralSignals": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
@@ -687,9 +687,16 @@
           "show": "Data Science With Sam",
           "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
           "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        },
+        {
+          "episode_file": "tech_20261014_1014_MP_TECH_pod_128 [tech_20261014_1014_MP_TECH_pod_128].md",
+          "key": "tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is AI solving the right problems for consumers?",
+          "url": "/wiki/sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/aiadoptionbehavioralsignals/"
     },
     "AIAdvertisingTargeting": {
@@ -2514,6 +2521,29 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/aidatabasecontextlayer/"
+    },
+    "AIDemoDeploymentGap": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [ai-不只比智商，waic-和-kimi-k3-透露了什么新竞争-1].md",
+          "key": "ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1",
+          "show": "科技乱炖",
+          "title": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
+          "url": "/wiki/sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1/"
+        },
+        {
+          "episode_file": "tech_20261014_1014_MP_TECH_pod_128 [tech_20261014_1014_MP_TECH_pod_128].md",
+          "key": "tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is AI solving the right problems for consumers?",
+          "url": "/wiki/sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/aidemodeploymentgap/"
     },
     "AIDirectorCoreWorkflow": {
       "episode_count": 4,
@@ -150573,6 +150603,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/kateaha/"
     },
+    "KateMoran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261014_1014_MP_TECH_pod_128 [tech_20261014_1014_MP_TECH_pod_128].md",
+          "key": "tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is AI solving the right problems for consumers?",
+          "url": "/wiki/sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/katemoran/"
+    },
     "KatherineAshley": {
       "episode_count": 1,
       "show_count": 1,
@@ -190691,9 +190737,9 @@
       "url": "/wiki/concepts/muscularchristianity/"
     },
     "MusePersonalAgent": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 5,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
@@ -190736,9 +190782,16 @@
           "show": "晚点聊 LateTalk",
           "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
           "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
+        },
+        {
+          "episode_file": "tech_20261014_1014_MP_TECH_pod_128 [tech_20261014_1014_MP_TECH_pod_128].md",
+          "key": "tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is AI solving the right problems for consumers?",
+          "url": "/wiki/sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/musepersonalagent/"
     },
     "MuseumInterpretationLegibility": {
@@ -193692,6 +193745,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/nebuchadnezzarii/"
+    },
+    "NeedLedAIProductDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261014_1014_MP_TECH_pod_128 [tech_20261014_1014_MP_TECH_pod_128].md",
+          "key": "tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is AI solving the right problems for consumers?",
+          "url": "/wiki/sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/needledaiproductdesign/"
     },
     "Nefertiti": {
       "episode_count": 1,

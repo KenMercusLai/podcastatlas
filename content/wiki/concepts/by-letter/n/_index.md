@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10552
+wiki_total_pages: 10553
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "NeedDrivenStartupIdeas"
     title: "Need-Driven Startup Ideas"
     url: "/wiki/concepts/needdrivenstartupideas/"
+  - key: "NeedLedAIProductDesign"
+    title: "Need-Led AI Product Design"
+    url: "/wiki/concepts/needledaiproductdesign/"
   - key: "NegativeCashConversionCycle"
     title: "Negative Cash Conversion Cycle"
     url: "/wiki/concepts/negativecashconversioncycle/"
