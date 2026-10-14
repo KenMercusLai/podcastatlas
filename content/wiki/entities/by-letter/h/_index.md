@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13502
+wiki_total_pages: 13505
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "HenanCommanderyChuHan"
     title: "河南郡 / Henan Commandery (Chu-Han)"
     url: "/wiki/entities/henancommanderychuhan/"
+  - key: "HetaoRegionWesternHan"
+    title: "河套地区（西汉） / Hetao Region (Western Han)"
+    url: "/wiki/entities/hetaoregionwesternhan/"
   - key: "Helijia"
     title: "河狸家 / Helijia"
     url: "/wiki/entities/helijia/"
@@ -1721,6 +1724,9 @@ wiki_pages:
   - key: "HengshanKingdomWesternHan"
     title: "衡山国 / Hengshan Kingdom (Western Han)"
     url: "/wiki/entities/hengshankingdomwesternhan/"
+  - key: "HetaoCampaignWesternHan"
+    title: "西汉河南地之战 / Western Han Henan Campaign"
+    url: "/wiki/entities/hetaocampaignwesternhan/"
   - key: "Haoda"
     title: "豪大"
     url: "/wiki/entities/haoda/"

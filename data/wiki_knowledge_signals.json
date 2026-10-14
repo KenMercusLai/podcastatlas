@@ -100911,9 +100911,9 @@
       "url": "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
     },
     "FrontierResourceIntegration": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -100949,9 +100949,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》438｜据理力争！西汉老将赵充国的高情商管理",
           "url": "/wiki/sources/zizhi-tongjian-hanji-438-julilizheng-xihan-laojiang-zhaochongguo-de-gaoqingshang-guanli-li37n85-7ygigwt4f6duz7ktzpr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
     "FrontierSettlerDefense": {
@@ -122098,6 +122105,38 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/hetwilhelmus/"
+    },
+    "HetaoCampaignWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/hetaocampaignwesternhan/"
+    },
+    "HetaoRegionWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/hetaoregionwesternhan/"
     },
     "HettonRailway": {
       "episode_count": 1,
@@ -158627,9 +158666,9 @@
       "url": "/wiki/entities/liwenxiu/"
     },
     "LiXiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
@@ -158637,9 +158676,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
           "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/lixiwesternhan/"
     },
     "LiXianLujiangEasternHan": {
@@ -247016,6 +247062,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/shuodehaoting/"
     },
+    "ShuofangCommanderyWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/shuofangcommanderywesternhan/"
+    },
     "ShusunTong": {
       "episode_count": 5,
       "show_count": 1,
@@ -285560,9 +285622,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -285703,9 +285765,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》251｜懵懂少年混成四朝元老，石奋的顶级家风（2）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-251-mengdongshaonian-huncheng-sichao-yuanlao-shifen-de-dingji-jiafeng-2-ltxndq1kxzb6lf-cmh3okvjvxutr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiShanWesternHan": {
@@ -309417,9 +309486,9 @@
       "url": "/wiki/entities/zhufueasternhan/"
     },
     "ZhuFuYan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
@@ -309476,9 +309545,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1） [lu5pRUhGIV4C2jETewXp65LmkWQc].md",
+          "key": "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/zhufuyan/"
     },
     "ZhuGaiLateHan": {

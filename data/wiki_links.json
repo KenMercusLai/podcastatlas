@@ -41607,6 +41607,14 @@
     "title": "Het Wilhelmus",
     "url": "/wiki/entities/hetwilhelmus/"
   },
+  "HetaoCampaignWesternHan": {
+    "title": "西汉河南地之战 / Western Han Henan Campaign",
+    "url": "/wiki/entities/hetaocampaignwesternhan/"
+  },
+  "HetaoRegionWesternHan": {
+    "title": "河套地区（西汉） / Hetao Region (Western Han)",
+    "url": "/wiki/entities/hetaoregionwesternhan/"
+  },
   "HettonRailway": {
     "title": "Hetton Railway",
     "url": "/wiki/entities/hettonrailway/"
@@ -80287,6 +80295,10 @@
     "title": "说得好听 / Shuo De Hao Ting",
     "url": "/wiki/entities/shuodehaoting/"
   },
+  "ShuofangCommanderyWesternHan": {
+    "title": "朔方郡（西汉） / Shuofang Commandery (Western Han)",
+    "url": "/wiki/entities/shuofangcommanderywesternhan/"
+  },
   "ShuojieHanzi150Jiang": {
     "title": "《说解汉字150讲》",
     "url": "/wiki/entities/shuojiehanzi150jiang/"
@@ -110298,6 +110310,10 @@
   "zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh": {
     "title": "《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh/"
+  },
+  "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc": {
+    "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc/"
   },
   "zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen": {
     "title": "《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（2）",

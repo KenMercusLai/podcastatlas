@@ -562,6 +562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
 - [《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激](sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8.md) — 严安把奢靡、民生和秦代战争成本连成治理风险，徐乐以陈胜与七国之乱区分“土崩”和“瓦解”，主父偃则在一年四迁后显出受贿与报复倾向。
 - [《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？](sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh.md) — 推恩令用非嫡长子受封的即时利益推动封国反复分割，但其可执行性依赖文景削藩、七国之乱失败和诸侯行政权先被收回；“无解阳谋”及具体制度细节保留来源边界。
+- [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（1）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc.md) — 卫青经云中、九原、高阙迂回河套守军后方并受封长平侯，主父偃继而以朔方郡、筑城、迁民、屯田和盐业把战果转成高成本的长期经营。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（2）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-2-lukj2exyp2viapecncmitk8gjgen.md) — 标题虽指向卫青河朔战事，正文实以欧亚草原串联秦汉对匈奴压力、北匈奴西迁、哥特迁徙与罗马危机；白登年代与人物、族群连续性及单线因果均保留来源边界。
 - [《资治通鉴·汉纪》281｜汉武帝竟强制“黑社会”为自己守墓](sources/zizhi-tongjian-hanji-281-hanwudi-jing-qiangzhi-heishehui-wei-ziji-shoumu-ljqf4fjov2gjoqwnhc8tblfvki9x.md) — 以茂陵迁徙、资产门槛与卫青说情呈现豪强控制，再以郭解亲族门客杀人和公孙弘的间接暴力归责解释其灭族结局。
 - [《资治通鉴·汉纪》280｜河朔大捷，卫青如何一战封侯？（3）](sources/zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-3-li8xxfweqgks9iadx-vynsuak52e.md) — 标题虽指向卫青河朔战事，正文实以游牧入侵、帝国内耗、制度文字与地理结构解释中西崩溃后的分流；“统一基因”和匈奴至罗马因果链保留来源边界。
@@ -4709,6 +4710,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》349-1｜汉武帝：赵婴齐，你要老婆不要？](sources/zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w.md) — 芮淇讲透资治通鉴以赵婴齐十二年长安宿卫、婚姻安排和回国后的有限服从讨论质子培养、亲密影响与控制边界。
 
 ## Entities
+- [西汉河南地之战 / Western Han Henan Campaign](entities/HetaoCampaignWesternHan.md) — 卫青由云中经九原、高阙切断退路并从后方突袭的河套战役，胜利后仍需朔方建设才能转成长期控制。
+- [河套地区（西汉） / Hetao Region (Western Han)](entities/HetaoRegionWesternHan.md) — 兼具水草、马匹、黄河屏障、盐业与移民屯田价值的西汉北疆战略地区，并与现代人物 He Tao 明确消歧。
+- [朔方郡（西汉） / Shuofang Commandery (Western Han)](entities/ShuofangCommanderyWesternHan.md) — 将河套战果转成城防、行政、驻军、迁民、生产与资源管理的高成本西汉边郡项目。
 - [Henjiuyiqian Lamb Skewers / 很久以前羊肉串](entities/HenjiuyiqianYangrouchuan.md) — Directly operated Chinese barbecue chain used to examine geographic concentration, cooking control, store utilization, and capital-intensive expansion.
 - [向珍女 / Xiang Zhennü](entities/XiangZhennv.md) — 明代列女叙事中为未曾谋面的亡故未婚夫自尽的女子，其薄弱传记暴露贞节表彰与个人能动性之间的证据边界。
 - [尹齐 / Yin Qi (Western Han)](entities/YinQiWesternHan.md) — 清廉而严酷、因恐惧造成官员不敢任事并在死后仍遭仇家追索的西汉酷吏。
@@ -5558,7 +5562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并在与张汤争辩时暴露道德原则难敌法条技术的西汉直臣。
 - [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 其归降从霍去病的武装稳控进入长安仪式与分层受封，随后又因接纳成本和交易执法引发国内争议的匈奴王。
 - [休屠王 / Xiutu King (Western Han)](entities/XiutuKingWesternHan.md) — 与浑邪王共谋降汉后因承诺和河西利益分化而败亡、其子金日磾后来进入汉廷叙事的匈奴王。
-- [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
+- [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 先在河南地之战中承担援军牵制，后任大行时听取汲黯对张汤的预警却因畏惧而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
 - [颜异 / Yan Yi (Western Han)](entities/YanYiWesternHan.md) — 反对白鹿皮币后因沉默与“微反唇”被推定腹诽、由张汤奏论死的西汉九卿。
@@ -8469,7 +8473,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
 - [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
 - [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
-- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — 兼具局部胜利后的态势复核、战场指挥、惩罚克制、功劳分享、士卒关怀与低威胁权力姿态的西汉统帅。
+- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — 从龙城、雁门与河南地迂回到高阙、定襄和漠北，兼具机动、态势复核、惩罚克制、功劳分享与低威胁姿态的西汉统帅。
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
 - [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
 - [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
@@ -11417,7 +11421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏代 / Su Dai](entities/SuDai.md) — Warring States persuader whose wiki branch now spans strategist-family context, Zi Zhi's rise in Yan, land-for-peace warning, and the post-Changping lobbying of Fan Ju.
 - [苏厉 / Su Li](entities/SuLi.md) — Su Qin's brother, named with Su Dai in the strategist-family and Yan-court persuasion branch.
 - [鹿毛寿 / Lu Maoshou](entities/LuMaoshou.md) — Persuader who uses ancient abdication stories to move Yan Wang Kuai from trust in Zi Zhi to real appointment-power transfer.
-- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — 西汉官员，从贫困失意和《谏伐匈奴》获宠走向中央集权工具、诸侯调查、政治孤立与族诛，后又成为受辱后显达的文学例证。
+- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — 从战争成本劝谏转向有条件的朔方经营与中央集权工具，后因诸侯调查、受贿、政治孤立而遭族诛的西汉官员。
 - [吾之才 / Wu Zhicai](entities/WuZhicai.md) — Addressee of Sima Guang's poem using Su Qin as encouragement for frustration and disregard.
 - [屈宜臼 / Qu Yijiu](entities/QuYijiu.md) — Chu critic of Han Zhaohou's high-gate project who defines timing as political circumstance.
 - [越国 / Yue State](entities/YueState.md) — State whose wiki branch spans Goujian's destruction of Wu and the later Warring States decline under Yue Wang Wujiang.
@@ -22093,7 +22097,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [求贤中的君主自省 / Talent Summons Ruler Self-Examination](concepts/TalentSummonsRulerSelfExamination.md) — Recruitment principle that failed attraction and emergency vacancy can diagnose the ruler's virtue, court order, coercion, and accumulated personnel policy.
 - [礼让辞封式政治资本 / Ritual Renunciation as Political Capital](concepts/RitualRenunciationPoliticalCapital.md) — Pattern where refusing hereditary title or inheritance can become reputation and office capital while straining succession law.
 - [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when recognition, protection, return migration, wall repair, grain support, geography, logistics, settlement, and defense make abandonment more dangerous than repair.
-- [边疆资源整合治理 / Frontier Resource Integration](concepts/FrontierResourceIntegration.md) — Frontier-governance strategy tying surrender, residence pressure, land, infrastructure, local resources, migration, tuntian, and administrative restoration into state control.
+- [边疆资源整合治理 / Frontier Resource Integration](concepts/FrontierResourceIntegration.md) — 将战果、行政、城防、迁民、屯田、基础设施和地方资源纳入边疆控制，同时核算强制迁徙、财政、劳役与实施失败的治理策略。
 - [公主婚姻权力失衡 / Princess Marriage Power Asymmetry](concepts/PrincessMarriagePowerAsymmetry.md) — Royal-marriage pattern where princess rank and court proximity turn private conflict into asymmetric household and punishment risk.
 - [Heqin Princess Succession Entrapment / 和亲公主继承困局](concepts/HeqinPrincessSuccessionEntrapment.md) — Frontier-marriage pattern where local succession and sending-court strategy can trap an embedded princess, with Liu Xiangfu's recall as a prevention contrast.
 - [屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma](concepts/TuntianProximitySecurityDilemma.md) — Frontier pattern where military-agricultural settlement placed too close to neighboring groups creates fear and defensive alliance behavior.

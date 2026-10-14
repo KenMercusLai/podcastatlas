@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13502
+wiki_total_pages: 13505
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2672,6 +2672,9 @@ wiki_pages:
   - key: "SpringAndAutumnPeriod"
     title: "春秋时期 / Spring and Autumn Period"
     url: "/wiki/entities/springandautumnperiod/"
+  - key: "ShuofangCommanderyWesternHan"
+    title: "朔方郡（西汉） / Shuofang Commandery (Western Han)"
+    url: "/wiki/entities/shuofangcommanderywesternhan/"
   - key: "ShuCai"
     title: "树才"
     url: "/wiki/entities/shucai/"

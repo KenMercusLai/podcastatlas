@@ -12,18 +12,21 @@ sources:
   - zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_
   - zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8
   - zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh
-last_updated: 2026-10-07
+  - zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc
+last_updated: 2026-10-14
 ---
 
 ## Overview
 
-主父偃 / Zhufu Yan is a Western Han official whose current profile runs from poverty, intellectual adaptation, direct anti-war-cost remonstrance, and rapid imperial access through centralizing policy and coercive court power to political isolation, execution, and clan punishment. A later poem also turns his humiliation-before-prominence arc into consolation material, but that reception does not erase the destructive conduct or fatal coalition recorded in the Hanji sources.
+主父偃 / Zhufu Yan is a Western Han official whose current profile runs from poverty, intellectual adaptation, historically grounded war-cost remonstrance, and rapid imperial access through selective frontier consolidation, centralizing policy, and coercive court power to political isolation, execution, and clan punishment. His advice is not simple pacifism: after the Hetao victory he reportedly supports costly permanent development when fertile land, a river barrier, and local production can convert a gain into strategic depth. A later poem also turns his humiliation-before-prominence arc into consolation material, but that reception does not erase the destructive conduct or fatal coalition recorded in the Hanji sources.
 
 ## Current Profile
 
 Hanji 277 now supplies the missing rise before the established power-and-fall arc. Zhufu Yan is presented as a poor, ambitious student who first masters纵横术, then shifts toward the Zhouyi and broader learning when court demand changes. Travel through Yan, Zhao, and Qi brings further exclusion. After [[WeiQingHanGeneral|卫青]]'s recommendation does not secure an audience, he submits a memorial directly and is summoned the same day.
 
 The reported 《谏伐匈奴》 explains why access turns into favor. Against [[HanWudi|汉武帝]]'s unsettled Xiongnu policy after the failed Mayi scheme, Zhufu Yan uses Qin's northern expansion and [[LiuBang|汉高祖]]'s [[BaidengEncirclement|白登之围]] as a [[HistoricalCostPrecedentRemonstrance|历史成本先例式劝谏]]: mobile enemies, desert supply, low-value territorial gain, long defense, deaths, fiscal burden, and civilian exhaustion make prestige-driven war dangerous. The episode says Wudi feels “相见恨晚,” but it does not provide the content of Zhufu Yan's subsequent repeated memorials.
+
+Hanji 280 part 1 qualifies any reading of that memorial as categorical opposition to northern war. After [[WeiQingHanGeneral|卫青]] recovers the [[HetaoRegionWesternHan|河套／河南地]], Zhufu Yan reportedly argues that fertile land, the Yellow River barrier, lower local supply costs, and a base for further pressure justify [[ShuofangCommanderyWesternHan|朔方郡]], fortification, settlement, and production. His strategic test is therefore cost and usable position rather than war versus peace in the abstract. The same episode reports enormous construction and transport burdens, so the proposal strengthens rather than cancels the earlier need to account for fiscal and civilian cost.
 
 Hanji 278 places that access beside [[YanAnWesternHan|严安]] and [[XuLeWesternHan|徐乐]], who are appointed with him after their own memorials. It says Zhufu Yan is then promoted four times within a year, reaches a position able to influence Wudi, openly accepts gifts from fearful officials, and answers a warning with the “五鼎食／五鼎烹” formulation. This supplies an earlier bridge from recognition to the retaliatory urgency and bribery environment developed in Hanji 284, but exact rank sequence, gift total, quotation, and motive remain source-scoped.
 
@@ -43,7 +46,7 @@ Zhouji 29 preserves a much later reception layer. [[SimaGuang|司马光]] pairs 
 
 ## Key Characteristics
 
-- Converts adaptive learning and a direct, historically grounded war-cost memorial into rapid access, then advances exceptionally quickly as influence and open gift-taking grow together.
+- Converts adaptive learning and a direct, historically grounded war-cost memorial into rapid access, then later supports expensive consolidation where recovered land offers barriers, production, and strategic depth.
 - Later converts centralizing policy, including the adjacent-source-attributed 推恩令, local knowledge, accusation, and uncompromising enforcement into coercive court power.
 - Uses royal scandal both for central discipline and, in the Qi case, alleged personal revenge.
 - Presented as shaped by poverty, exclusion, frustrated ambition, and escalating material desire without those conditions fully explaining or excusing his conduct.
@@ -58,6 +61,9 @@ Poverty, adaptation, and first access:
 
 Historical war-cost remonstrance:
 - [[zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_|Hanji 277]] says 《谏伐匈奴》 joins Qin's northern logistics and defense burden to Liu Bang's Baideng failure, persuading Wudi through the cumulative costs of repeated coercion.
+
+Conditional frontier consolidation:
+- [[zizhi-tongjian-hanji-280-heshuo-dajie-weiqing-ruhe-yizhan-fenghou-1-lu5pruhgiv4c2jetewxp65lmkwqc|Hanji 280 part 1]] says Zhufu Yan recommends permanent development of the recovered Hetao because fertility, the Yellow River barrier, local production, and forward position can make the cost strategically useful.
 
 Rapid promotion and early warning signs:
 - [[zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8|Hanji 278]] says Zhufu Yan is appointed with Yan An and Xu Le, promoted four times within a year, and becomes one of the officials best positioned to influence Wudi.
@@ -90,13 +96,12 @@ Later reception:
 
 ## Qualifications
 
-The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 277 does not settle the exact chronology of Zhufu Yan's schooling and travel: its “more than forty years” paraphrase conflicts with its placement of mastery in his thirties and Chang'an arrival in his forties if every figure is read literally. The memorial title, quotation boundaries, same-day audience, Qin and Baideng details, and Wudi's inner reaction require primary-text comparison. Poverty and exclusion can explain urgency but do not prove the episode's later poverty-to-greed psychology, and the source does not disclose the content of his subsequent memorials. Hanji 278's four promotions, exact rank and influence, twenty-four-wan-gold total, open-bribery scope, five-cauldron quote, and inferred psychology also require primary-text comparison. Hanji 279 explains the 推恩令 mechanism and timing but does not name the proposing minister in its supplied summary, independently establish exclusive authorship, or provide a complete implementation history. Hanji 281 does not independently establish the exact Maoling proposal, covered categories, three-million threshold, Guo Jie's wealth, or whether political influence was a formal selection criterion. Hanji 284 part 1's claim that greed ruins Zhufu Yan is a thesis announced before the excerpt presents his conduct, and the desire-escalation song does not establish his individual psychology. Part 2 distinguishes reported acts from its interpretation of motive. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 supplies the attribution but not a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
+The current evidence remains a popular-history reconstruction rather than a complete biography or primary-text collation. Hanji 277 does not settle the exact chronology of Zhufu Yan's schooling and travel: its “more than forty years” paraphrase conflicts with its placement of mastery in his thirties and Chang'an arrival in his forties if every figure is read literally. The memorial title, quotation boundaries, same-day audience, Qin and Baideng details, and Wudi's inner reaction require primary-text comparison. Poverty and exclusion can explain urgency but do not prove the episode's later poverty-to-greed psychology. Hanji 280 part 1 does not establish the exact text, authorship boundary, timing, cost calculation, or implementation effect of the Shuofang advice; its large construction, migration, and treasury claims remain source-scoped. Hanji 278's four promotions, exact rank and influence, twenty-four-wan-gold total, open-bribery scope, five-cauldron quote, and inferred psychology also require primary-text comparison. Hanji 279 explains the 推恩令 mechanism and timing but does not name the proposing minister in its supplied summary, independently establish exclusive authorship, or provide a complete implementation history. Hanji 281 does not independently establish the exact Maoling proposal, covered categories, three-million threshold, Guo Jie's wealth, or whether political influence was a formal selection criterion. Hanji 284 part 1's claim that greed ruins Zhufu Yan is a thesis announced before the excerpt presents his conduct, and the desire-escalation song does not establish his individual psychology. Part 2 distinguishes reported acts from its interpretation of motive. Hanji 285 supplies the trial and death arc but does not independently establish the exact year, wording, guest count, clan-punishment scope, Gongsun Hong's implied message, Wudi's private calculation, or Zhufu Yan's deathbed thoughts. Its identification of Zhufu Yan with the 推恩令 supplies the attribution but not a full policy history. The Dong Zhongshu memorial story also remains episode-attributed. The later poem uses Zhufu Yan as a success-after-humiliation example and is not evidence that Sima Guang endorses his conduct.
 
 ## What Changed
 
-- Added the policy mechanism and Wen-Jing power preconditions behind the previously thin 推恩令 attribution.
-- Separated Hanji 285's Zhufu Yan attribution from Hanji 279's unnamed-minister summary.
-- Qualified “阳谋” as incentive design backed by prior coercive superiority, not policy cleverness alone.
+- Added the Shuofang advice as evidence that Zhufu Yan's earlier war-cost warning is conditional strategic accounting rather than categorical pacifism.
+- Preserved the 推恩令 mechanism, its Wen-Jing power preconditions, and the distinction between Hanji 285's attribution and Hanji 279's unnamed-minister summary.
 
 ## Relationships
 
@@ -118,3 +123,5 @@ The current evidence remains a popular-history reconstruction rather than a comp
 - [[GuoJieWesternHan]] - reportedly sub-threshold local strongman whose inclusion reveals the proposal's political-control logic.
 - [[YanAnWesternHan]] - fellow memorialist appointed at the same initial court-access moment.
 - [[XuLeWesternHan]] - fellow memorialist whose domestic-collapse warning accompanies Zhufu Yan's rapid rise.
+- [[ShuofangCommanderyWesternHan]] - consolidation project he reportedly recommends after the Hetao victory.
+- [[FrontierResourceIntegration]] - strategic relationship joining fertile land, river barrier, local production, settlement, and military position.
