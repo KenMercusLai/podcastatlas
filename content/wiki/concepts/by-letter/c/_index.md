@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10565
+wiki_total_pages: 10569
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "CharacterFormEvolution"
     title: "Character Form Evolution"
     url: "/wiki/concepts/characterformevolution/"
+  - key: "CharacterIPCrossCategoryLicensing"
+    title: "Character IP Cross-Category Licensing / 角色IP跨品类授权"
+    url: "/wiki/concepts/characteripcrosscategorylicensing/"
   - key: "CharacterRelationshipStoryLogic"
     title: "Character Relationship Story Logic"
     url: "/wiki/concepts/characterrelationshipstorylogic/"
@@ -2468,6 +2471,9 @@ wiki_pages:
   - key: "ConversationalSearchInterface"
     title: "Conversational Search Interface"
     url: "/wiki/concepts/conversationalsearchinterface/"
+  - key: "ConversationalUtilityPayment"
+    title: "Conversational Utility Payment / 对话式生活缴费"
+    url: "/wiki/concepts/conversationalutilitypayment/"
   - key: "ConvertibleBond"
     title: "Convertible Bond / 可转债"
     url: "/wiki/concepts/convertiblebond/"

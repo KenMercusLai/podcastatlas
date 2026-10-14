@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13520
+wiki_total_pages: 13523
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "TalonEnergy"
     title: "Talon Energy"
     url: "/wiki/entities/talonenergy/"
+  - key: "Tamagotchi"
+    title: "Tamagotchi / 拓麻歌子"
+    url: "/wiki/entities/tamagotchi/"
   - key: "TamakiDenny"
     title: "Tamaki Denny"
     url: "/wiki/entities/tamakidenny/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10565
+wiki_total_pages: 10569
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "MenuCosts"
     title: "Menu Costs"
     url: "/wiki/concepts/menucosts/"
+  - key: "MenuExpansionOperationalComplexity"
+    title: "Menu Expansion Operational Complexity / 菜单扩张的运营复杂度"
+    url: "/wiki/concepts/menuexpansionoperationalcomplexity/"
   - key: "MercenaryWar"
     title: "Mercenary War / 雇佣兵战争"
     url: "/wiki/concepts/mercenarywar/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13520
+wiki_total_pages: 13523
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "BandOfAngels"
     title: "Band of Angels"
     url: "/wiki/entities/bandofangels/"
+  - key: "Bandai"
+    title: "Bandai / 万代"
+    url: "/wiki/entities/bandai/"
   - key: "BanffNationalPark"
     title: "Banff National Park / 班夫"
     url: "/wiki/entities/banffnationalpark/"

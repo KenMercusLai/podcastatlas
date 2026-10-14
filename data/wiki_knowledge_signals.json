@@ -18972,9 +18972,9 @@
       "url": "/wiki/entities/applemusic/"
     },
     "AppleSmartHomeDisplay": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权 [1017386449].md",
@@ -18982,9 +18982,16 @@
           "show": "声动早咖啡",
           "title": "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权",
           "url": "/wiki/sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449/"
+        },
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/applesmarthomedisplay/"
     },
     "AppleTVPlus": {
@@ -25323,6 +25330,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/banalityofevil/"
     },
+    "Bandai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/bandai/"
+    },
     "BanditMutualReportingPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -30874,6 +30897,36 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/bluebloodmannikuangnovel/"
+    },
+    "BlueBottleCoffee": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/bluebottlecoffee/"
     },
     "BlueLightSleepEvidenceBoundary": {
       "episode_count": 1,
@@ -41635,6 +41688,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/characterbasedromanticcompatibility/"
+    },
+    "CharacterIPCrossCategoryLicensing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/characteripcrosscategorylicensing/"
     },
     "CharacterMediatedFortune": {
       "episode_count": 1,
@@ -56482,6 +56551,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/conversationalbeautyadvising/"
     },
+    "ConversationalUtilityPayment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/conversationalutilitypayment/"
+    },
     "CookingAsCivilizationalLabor": {
       "episode_count": 1,
       "show_count": 1,
@@ -57379,6 +57464,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/costlylifeexperimentation/"
+    },
+    "CottiCoffee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/cotticoffee/"
     },
     "CounselExitAfterNonresponse": {
       "episode_count": 1,
@@ -182875,6 +182976,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/mentormindsetfeedback/"
     },
+    "MenuExpansionOperationalComplexity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/menuexpansionoperationalcomplexity/"
+    },
     "MercedesSmith": {
       "episode_count": 1,
       "show_count": 1,
@@ -225315,9 +225432,9 @@
       "url": "/wiki/entities/qutbminarcomplex/"
     },
     "QwenOffice": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
@@ -225332,10 +225449,40 @@
           "show": "乱翻书",
           "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
           "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        },
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/qwenoffice/"
+    },
+    "QwenSmartGlasses": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
+          "key": "ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4",
+          "show": "Talk三联",
+          "title": "EP253 爆火的AI好物，到底是“真香”还是智商税？",
+          "url": "/wiki/sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4/"
+        },
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/qwensmartglasses/"
     },
     "QwenTablet": {
       "episode_count": 1,
@@ -228488,6 +228635,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/regionallanguageascharacteraccess/"
+    },
+    "RegionalProductTeamAsExportHub": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/regionalproductteamasexporthub/"
     },
     "RegionalSelfPreservationAlliance": {
       "episode_count": 1,
@@ -263680,6 +263843,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/talonenergy/"
+    },
+    "Tamagotchi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
+          "key": "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+          "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/tamagotchi/"
     },
     "TamakiDenny": {
       "episode_count": 1,

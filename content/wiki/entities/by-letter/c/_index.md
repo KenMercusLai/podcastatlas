@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13520
+wiki_total_pages: 13523
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1616,6 +1616,9 @@ wiki_pages:
   - key: "CostelloDog"
     title: "Costello (Andrew Huberman's dog)"
     url: "/wiki/entities/costellodog/"
+  - key: "CottiCoffee"
+    title: "Cotti Coffee / 库迪咖啡"
+    url: "/wiki/entities/cotticoffee/"
   - key: "CottonClara"
     title: "Cotton Clara"
     url: "/wiki/entities/cottonclara/"

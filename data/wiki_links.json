@@ -12591,6 +12591,10 @@
     "title": "Band of Angels",
     "url": "/wiki/entities/bandofangels/"
   },
+  "Bandai": {
+    "title": "Bandai / 万代",
+    "url": "/wiki/entities/bandai/"
+  },
   "BanditAssassinationAttribution": {
     "title": "Bandit Assassination Attribution / 盗贼行刺归因",
     "url": "/wiki/concepts/banditassassinationattribution/"
@@ -18071,6 +18075,10 @@
     "title": "Character Form Evolution",
     "url": "/wiki/concepts/characterformevolution/"
   },
+  "CharacterIPCrossCategoryLicensing": {
+    "title": "Character IP Cross-Category Licensing / 角色IP跨品类授权",
+    "url": "/wiki/concepts/characteripcrosscategorylicensing/"
+  },
   "CharacterMediatedFortune": {
     "title": "性格中介的机缘 / Character-Mediated Fortune",
     "url": "/wiki/concepts/charactermediatedfortune/"
@@ -22755,6 +22763,10 @@
     "title": "Conversational Search Interface",
     "url": "/wiki/concepts/conversationalsearchinterface/"
   },
+  "ConversationalUtilityPayment": {
+    "title": "Conversational Utility Payment / 对话式生活缴费",
+    "url": "/wiki/concepts/conversationalutilitypayment/"
+  },
   "Converse": {
     "title": "Converse / 匡威",
     "url": "/wiki/entities/converse/"
@@ -23058,6 +23070,10 @@
   "CostlyLifeExperimentation": {
     "title": "Costly Life Experimentation / 有成本的持续折腾",
     "url": "/wiki/concepts/costlylifeexperimentation/"
+  },
+  "CottiCoffee": {
+    "title": "Cotti Coffee / 库迪咖啡",
+    "url": "/wiki/entities/cotticoffee/"
   },
   "CottonClara": {
     "title": "Cotton Clara",
@@ -59599,6 +59615,10 @@
     "title": "Menu Costs",
     "url": "/wiki/concepts/menucosts/"
   },
+  "MenuExpansionOperationalComplexity": {
+    "title": "Menu Expansion Operational Complexity / 菜单扩张的运营复杂度",
+    "url": "/wiki/concepts/menuexpansionoperationalcomplexity/"
+  },
   "MercedesBenz": {
     "title": "Mercedes-Benz",
     "url": "/wiki/entities/mercedesbenz/"
@@ -74203,6 +74223,10 @@
     "title": "Regional Network Topology Risk",
     "url": "/wiki/concepts/regionalnetworktopologyrisk/"
   },
+  "RegionalProductTeamAsExportHub": {
+    "title": "Regional Product Team as Export Hub / 区域产品团队外溢",
+    "url": "/wiki/concepts/regionalproductteamasexporthub/"
+  },
   "RegionalSelfPreservationAlliance": {
     "title": "Regional Self-Preservation Alliance / 区域自保联盟",
     "url": "/wiki/concepts/regionalselfpreservationalliance/"
@@ -85450,6 +85474,10 @@
   "TalonEnergy": {
     "title": "Talon Energy",
     "url": "/wiki/entities/talonenergy/"
+  },
+  "Tamagotchi": {
+    "title": "Tamagotchi / 拓麻歌子",
+    "url": "/wiki/entities/tamagotchi/"
   },
   "TamakiDenny": {
     "title": "Tamaki Denny",
@@ -103882,6 +103910,10 @@
   "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963": {
     "title": "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？",
     "url": "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
+  },
+  "gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl": {
+    "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
+    "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
   },
   "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593": {
     "title": "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？",

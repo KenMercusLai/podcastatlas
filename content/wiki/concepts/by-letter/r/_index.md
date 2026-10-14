@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10565
+wiki_total_pages: 10569
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "RegionalNetworkTopologyRisk"
     title: "Regional Network Topology Risk"
     url: "/wiki/concepts/regionalnetworktopologyrisk/"
+  - key: "RegionalProductTeamAsExportHub"
+    title: "Regional Product Team as Export Hub / 区域产品团队外溢"
+    url: "/wiki/concepts/regionalproductteamasexporthub/"
   - key: "RegionalSelfPreservationAlliance"
     title: "Regional Self-Preservation Alliance / 区域自保联盟"
     url: "/wiki/concepts/regionalselfpreservationalliance/"

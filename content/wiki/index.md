@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类](sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl.md) — 声动早咖啡串联区域产品自主权、AI家庭与穿戴入口、生活缴费、电商办公、咖啡连锁扩品类及拓麻歌子授权扩张。
 - [Wanna slow down AI? These biologists can help.](sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793.md) — Planet Money uses the recombinant-DNA moratorium and Asilomar conference to connect AI collective action with liability, risk tiers, funding-backed enforcement, and unequal career costs.
 - [No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上](sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv.md) — 半拿铁从乔瓦尼到洛伦佐重述美第奇银行、佛罗伦萨政治与文艺复兴，并把艺术还原为由赞助、合同、材料、工程和制度共同组织的生产体系。
 - [AI 管理瑞幸咖啡店，員工為什麼越來越累？](sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461.md) — 端聞以瑞幸门店访谈追踪算法排班如何遗漏清洁、培训与现场波动，并把预测误差转为减员、指标博弈和无偿劳动。
@@ -4720,6 +4721,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？](sources/c1f006c2d282-c1f006c2d282.md) — 科技乱炖 episode on agentic Linux, disposable software, feature commoditization, durable service moats, open-source review capacity, and agent-facing system interfaces.
 
 ## Entities
+- [Cotti Coffee / 库迪咖啡](entities/CottiCoffee.md) — Chinese coffee chain represented through a selected-store test of freshly fried food and its operating tradeoffs.
+- [Bandai / 万代](entities/Bandai.md) — Japanese toy company using cross-category licensing to expand Tamagotchi across Asian audiences.
+- [Tamagotchi / 拓麻歌子](entities/Tamagotchi.md) — Long-lived electronic-pet device and character IP extending into fashion, lifestyle, food, and music collaborations.
 - [Janet Mertz](entities/JanetMertz.md) — Molecular biologist whose halted recombinant-DNA experiment reveals both the public value and concentrated career cost of the Asilomar pause.
 - [Paul Berg](entities/PaulBerg.md) — Molecular biologist who stopped a proposed experiment and helped turn recombinant-DNA risk into a temporary field-wide safety process.
 - [Giovanni di Bicci de' Medici / 乔瓦尼·德·美第奇](entities/GiovanniDiBicciDeMedici.md) — Medici Bank founder linking papal finance, partner-run branches, credit discipline, reputational loyalty, restrained politics, and early civic patronage.
@@ -18314,6 +18318,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Omarchy](entities/Omarchy.md) — Arch Linux-based distribution used as an early case of agent-assisted configuration, repair, and personal workflow construction.
 
 ## Concepts
+- [Regional Product Team as Export Hub / 区域产品团队外溢](concepts/RegionalProductTeamAsExportHub.md) — When local product autonomy and design learning become reusable capability for neighboring or overseas markets.
+- [Conversational Utility Payment / 对话式生活缴费](concepts/ConversationalUtilityPayment.md) — Natural-language initiation of household payments under geographic coverage, authorization, confirmation, and recourse constraints.
+- [Menu Expansion Operational Complexity / 菜单扩张的运营复杂度](concepts/MenuExpansionOperationalComplexity.md) — Test of incremental store demand after added labor, equipment, preparation, inventory, waste, and service burden.
+- [Character IP Cross-Category Licensing / 角色IP跨品类授权](concepts/CharacterIPCrossCategoryLicensing.md) — Use of partners and new product contexts to distribute a character beyond its original category and reach new audiences.
 - [Asilomar Conference Governance](concepts/AsilomarConferenceGovernance.md) — Hybrid model joining expert-designed risk tiers and containment rules to liability and public-funder enforcement.
 - [Moratorium Distributional Burden](concepts/MoratoriumDistributionalBurden.md) — Unequal career, priority, resource, and voice costs imposed by collectively beneficial pauses.
 - [Renaissance Patronage Production System / 文艺复兴赞助生产体系](concepts/RenaissancePatronageProductionSystem.md) — Ecology joining finance, patrons, guilds, churches, contracts, materials, engineering, labor, inspection, maintenance, and artistic authorship.
