@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3520
+topic_total_pages: 3524
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2002,6 +2002,9 @@ topic_concepts:
   - key: "DisplayErgonomics"
     title: "Display Ergonomics"
     url: "/wiki/concepts/displayergonomics/"
+  - key: "DisposableSoftware"
+    title: "Disposable Software"
+    url: "/wiki/concepts/disposablesoftware/"
   - key: "DistributionLedProductBuilding"
     title: "Distribution Led Product Building"
     url: "/wiki/concepts/distributionledproductbuilding/"
@@ -3514,6 +3517,9 @@ topic_concepts:
   - key: "OpenSourceAITestbed"
     title: "Open-Source AI Testbed"
     url: "/wiki/concepts/opensourceaitestbed/"
+  - key: "OpenSourceReviewBottleneck"
+    title: "Open-Source Review Bottleneck"
+    url: "/wiki/concepts/opensourcereviewbottleneck/"
   - key: "OpenWeightCommercialLicensing"
     title: "Open-Weight Commercial Licensing"
     url: "/wiki/concepts/openweightcommerciallicensing/"
@@ -4288,6 +4294,9 @@ topic_concepts:
   - key: "SoftwareMaintenanceRevenueCompression"
     title: "Software Maintenance Revenue Compression"
     url: "/wiki/concepts/softwaremaintenancerevenuecompression/"
+  - key: "SoftwareMoatBeyondFeatures"
+    title: "Software Moat Beyond Features"
+    url: "/wiki/concepts/softwaremoatbeyondfeatures/"
   - key: "SoftwarePaymentCulture"
     title: "Software Payment Culture"
     url: "/wiki/concepts/softwarepaymentculture/"
@@ -10314,6 +10323,9 @@ topic_sources:
   - key: "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o"
     title: "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy"
     url: "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"
+  - key: "c1f006c2d282-c1f006c2d282"
+    title: "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？"
+    url: "/wiki/sources/c1f006c2d282-c1f006c2d282/"
   - key: "cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun"
     title: "从QQ会员到豆包包月，中国人为什么总觉得软件该免费"
     url: "/wiki/sources/cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun/"

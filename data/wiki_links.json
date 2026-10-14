@@ -7959,6 +7959,10 @@
     "title": "Agentic Economy",
     "url": "/wiki/concepts/agenticeconomy/"
   },
+  "AgenticOperatingSystem": {
+    "title": "Agentic Operating System",
+    "url": "/wiki/concepts/agenticoperatingsystem/"
+  },
   "AgenticServiceDeflation": {
     "title": "Agentic Service Deflation",
     "url": "/wiki/concepts/agenticservicedeflation/"
@@ -27258,6 +27262,10 @@
   "DisplayErgonomics": {
     "title": "Display Ergonomics",
     "url": "/wiki/concepts/displayergonomics/"
+  },
+  "DisposableSoftware": {
+    "title": "Disposable Software",
+    "url": "/wiki/concepts/disposablesoftware/"
   },
   "DisruptiveInnovation": {
     "title": "Disruptive Innovation",
@@ -65203,6 +65211,10 @@
     "title": "Omar Bradley",
     "url": "/wiki/entities/omarbradley/"
   },
+  "Omarchy": {
+    "title": "Omarchy",
+    "url": "/wiki/entities/omarchy/"
+  },
   "Omega": {
     "title": "Omega",
     "url": "/wiki/entities/omega/"
@@ -65542,6 +65554,10 @@
   "OpenSourceInfrastructureTrust": {
     "title": "Open Source Infrastructure Trust",
     "url": "/wiki/concepts/opensourceinfrastructuretrust/"
+  },
+  "OpenSourceReviewBottleneck": {
+    "title": "Open-Source Review Bottleneck",
+    "url": "/wiki/concepts/opensourcereviewbottleneck/"
   },
   "OpenSourceRobotPlatformStrategy": {
     "title": "Open Source Robot Platform Strategy",
@@ -81546,6 +81562,10 @@
   "SoftwareMaintenanceRevenueCompression": {
     "title": "Software Maintenance Revenue Compression",
     "url": "/wiki/concepts/softwaremaintenancerevenuecompression/"
+  },
+  "SoftwareMoatBeyondFeatures": {
+    "title": "Software Moat Beyond Features",
+    "url": "/wiki/concepts/softwaremoatbeyondfeatures/"
   },
   "SoftwarePaymentCulture": {
     "title": "Software Payment Culture",
@@ -101978,6 +101998,10 @@
   "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b": {
     "title": "Burning questions: a more fire-prone world",
     "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+  },
+  "c1f006c2d282-c1f006c2d282": {
+    "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+    "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
   },
   "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb": {
     "title": "财报的根 + 估值的茎 = 叙事的果实",

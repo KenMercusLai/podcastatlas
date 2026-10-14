@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10559
+wiki_total_pages: 10563
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "SoftwareMaintenanceRevenueCompression"
     title: "Software Maintenance Revenue Compression"
     url: "/wiki/concepts/softwaremaintenancerevenuecompression/"
+  - key: "SoftwareMoatBeyondFeatures"
+    title: "Software Moat Beyond Features"
+    url: "/wiki/concepts/softwaremoatbeyondfeatures/"
   - key: "SoftwarePaymentCulture"
     title: "Software Payment Culture"
     url: "/wiki/concepts/softwarepaymentculture/"

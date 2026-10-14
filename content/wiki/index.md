@@ -4716,6 +4716,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》](sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028.md) — 纸醉金迷FM以兵器谱讨论静态排名、动态状态、榜外高手、性别排除及心理与关系如何改变武功表现。
 - [特番｜从会开车到会做事：AI如何进入真实世界](sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns.md) — 商业就是这样与地平线嘉宾以责任边界、拟人化体验、芯片—算法协同、汽车规模化入口和机器人控制约束解释物理 AI 落地。
 
+- [从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？](sources/c1f006c2d282-c1f006c2d282.md) — 科技乱炖 episode on agentic Linux, disposable software, feature commoditization, durable service moats, open-source review capacity, and agent-facing system interfaces.
+
 ## Entities
 - [Giovanni di Bicci de' Medici / 乔瓦尼·德·美第奇](entities/GiovanniDiBicciDeMedici.md) — Medici Bank founder linking papal finance, partner-run branches, credit discipline, reputational loyalty, restrained politics, and early civic patronage.
 - [Filippo Brunelleschi / 菲利波·布鲁内莱斯基](entities/FilippoBrunelleschi.md) — Florentine architect-engineer whose dome joined structural invention, machinery, material economy, and long-duration civic production.
@@ -18306,6 +18308,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阿飞（古龙人物） / A Fei (Gu Long character)](entities/AFeiGuLong.md) — 以极简快剑、情感受损与顿悟式复苏挑战兵器谱完整性的榜外剑客。
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
+- [Omarchy](entities/Omarchy.md) — Arch Linux-based distribution used as an early case of agent-assisted configuration, repair, and personal workflow construction.
+
 ## Concepts
 - [Renaissance Patronage Production System / 文艺复兴赞助生产体系](concepts/RenaissancePatronageProductionSystem.md) — Ecology joining finance, patrons, guilds, churches, contracts, materials, engineering, labor, inspection, maintenance, and artistic authorship.
 - [Algorithmic Workforce Scheduling / 算法劳动力排班](concepts/AlgorithmicWorkforceScheduling.md) — How demand models allocate paid hours and transfer omitted tasks or asymmetric forecast errors to workers.
@@ -28949,5 +28953,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Licensed Generative Music](concepts/LicensedGenerativeMusic.md) — AI music model based on authorized catalogues, artist opt-in, defined derivative creation, and compensation rules.
 - [Matcha Supply Transition](concepts/MatchaSupplyTransition.md) — Slow conversion of tea land, plants, labor, equipment, and market positioning toward matcha after a demand shock.
 - [Static Ranking and Dynamic Performance / 静态排名与动态表现](concepts/StaticRankingDynamicPerformance.md) — 区分某时点形成的能力排序与年龄、状态、机会、对手和隐藏信息共同产生的实际表现。
+
+- [Agentic Operating System](concepts/AgenticOperatingSystem.md) — Hybrid operating environment where natural language exposes system control while structured interfaces, permissions, and recovery bound agent action.
+- [Disposable Software](concepts/DisposableSoftware.md) — Narrow task-specific software generated when needed and retained only while maintenance remains worthwhile.
+- [Open-Source Review Bottleneck](concepts/OpenSourceReviewBottleneck.md) — Mismatch between AI-expanded contribution volume and scarce maintainer validation and integration capacity.
+- [Software Moat Beyond Features](concepts/SoftwareMoatBeyondFeatures.md) — Durable value in data, infrastructure, domain knowledge, rights, networks, compatibility, accountability, and service rather than reproducible UI behavior.
 
 ## Syntheses

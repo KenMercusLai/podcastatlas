@@ -36954,3 +36954,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | 从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？
+
+Added source `c1f006c2d282-c1f006c2d282`; created [[Omarchy]], [[AgenticOperatingSystem]], [[DisposableSoftware]], [[OpenSourceReviewBottleneck]], and [[SoftwareMoatBeyondFeatures]]; and resynthesized [[AgenticSoftware]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: natural language can make an open operating system more malleable without eliminating boot, driver, permission, security, or recovery boundaries; cheap generation most strongly pressures shallow feature products, while data, infrastructure, domain evidence, qualifications, networks, compatibility, stable delivery, and accountable service remain harder to reproduce; and open-source review capacity, not code production, becomes the scarce resource under AI-amplified contribution volume. No settled contradiction was adopted. Omarchy capabilities, implementation-time comparisons, clean-room and reverse-engineering legality, market forecasts, and named interface examples remain episode-scoped. The broad [[KejiLuandun]] and [[AgentFacingInterfaces]] hubs were kept closed because focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,630 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

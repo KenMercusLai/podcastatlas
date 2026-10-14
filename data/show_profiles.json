@@ -3052,14 +3052,14 @@
       "earliest_episode_date": "2025-12-09",
       "latest_episode_date": "2026-10-14",
       "latest_episode_file": "c1f006c2d282 [c1f006c2d282].md",
-      "source_note_count": 25,
-      "topic_matched_source_note_count": 19,
+      "source_note_count": 26,
+      "topic_matched_source_note_count": 20,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "economics",
@@ -3139,10 +3139,10 @@
         }
       ],
       "start_here_episode_files": [
-        "2b2e96d8aea7 [2b2e96d8aea7].md",
+        "c1f006c2d282 [c1f006c2d282].md",
         "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
         "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
-        "c1f006c2d282 [c1f006c2d282].md"
+        "2b2e96d8aea7 [2b2e96d8aea7].md"
       ]
     },
     "端聞 | 端傳媒新聞播客": {

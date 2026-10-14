@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3328
+topic_total_pages: 3329
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2857,6 +2857,9 @@ topic_concepts:
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"
+  - key: "OpenSourceReviewBottleneck"
+    title: "Open-Source Review Bottleneck"
+    url: "/wiki/concepts/opensourcereviewbottleneck/"
   - key: "OpenAIBoardCrisis"
     title: "OpenAI Board Crisis"
     url: "/wiki/concepts/openaiboardcrisis/"

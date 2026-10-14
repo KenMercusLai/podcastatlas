@@ -31265,6 +31265,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DisposableSoftware": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DissentSpaceCompression": [
     {
       "key": "politics",
@@ -66101,6 +66108,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "OpenSourceReviewBottleneck": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OpenSourceRobotPlatformStrategy": [
     {
       "key": "technology",
@@ -81749,6 +81768,13 @@
     }
   ],
   "SoftwareMaintenanceRevenueCompression": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SoftwareMoatBeyondFeatures": [
     {
       "key": "technology",
       "label": "Technology",
@@ -101393,6 +101419,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "c1f006c2d282-c1f006c2d282": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb": [

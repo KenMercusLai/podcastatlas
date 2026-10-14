@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13517
+wiki_total_pages: 13518
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "OmarBradley"
     title: "Omar Bradley"
     url: "/wiki/entities/omarbradley/"
+  - key: "Omarchy"
+    title: "Omarchy"
+    url: "/wiki/entities/omarchy/"
   - key: "Omega"
     title: "Omega"
     url: "/wiki/entities/omega/"

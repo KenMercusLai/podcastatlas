@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10559
+wiki_total_pages: 10563
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "DisplayErgonomics"
     title: "Display Ergonomics"
     url: "/wiki/concepts/displayergonomics/"
+  - key: "DisposableSoftware"
+    title: "Disposable Software"
+    url: "/wiki/concepts/disposablesoftware/"
   - key: "DisruptiveInnovation"
     title: "Disruptive Innovation"
     url: "/wiki/concepts/disruptiveinnovation/"

@@ -10010,6 +10010,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticdataengineeringharness/"
     },
+    "AgenticOperatingSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c1f006c2d282 [c1f006c2d282].md",
+          "key": "c1f006c2d282-c1f006c2d282",
+          "show": "科技乱炖",
+          "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+          "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/agenticoperatingsystem/"
+    },
     "AgenticServiceDeflation": {
       "episode_count": 1,
       "show_count": 1,
@@ -10027,9 +10043,9 @@
       "url": "/wiki/concepts/agenticservicedeflation/"
     },
     "AgenticSoftware": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
@@ -10051,9 +10067,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        },
+        {
+          "episode_file": "c1f006c2d282 [c1f006c2d282].md",
+          "key": "c1f006c2d282-c1f006c2d282",
+          "show": "科技乱炖",
+          "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+          "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/agenticsoftware/"
     },
     "AgenticSystemOfRecordMoat": {
@@ -70849,6 +70872,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/dispersedbusinesselitepower/"
+    },
+    "DisposableSoftware": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c1f006c2d282 [c1f006c2d282].md",
+          "key": "c1f006c2d282-c1f006c2d282",
+          "show": "科技乱炖",
+          "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+          "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/disposablesoftware/"
     },
     "DissentSpaceCompression": {
       "episode_count": 2,
@@ -200937,6 +200976,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/omarbradley/"
     },
+    "Omarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c1f006c2d282 [c1f006c2d282].md",
+          "key": "c1f006c2d282-c1f006c2d282",
+          "show": "科技乱炖",
+          "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+          "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/omarchy/"
+    },
     "Omega3StatusAndFormBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -201879,6 +201934,22 @@
       ],
       "updated": "2026-08-08",
       "url": "/wiki/concepts/opensourcecommunitycommercialization/"
+    },
+    "OpenSourceReviewBottleneck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c1f006c2d282 [c1f006c2d282].md",
+          "key": "c1f006c2d282-c1f006c2d282",
+          "show": "科技乱炖",
+          "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+          "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/opensourcereviewbottleneck/"
     },
     "OpenSourceRobotPlatformStrategy": {
       "episode_count": 1,
@@ -251951,6 +252022,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/softwarefounderautomotivetransition/"
+    },
+    "SoftwareMoatBeyondFeatures": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c1f006c2d282 [c1f006c2d282].md",
+          "key": "c1f006c2d282-c1f006c2d282",
+          "show": "科技乱炖",
+          "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
+          "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/softwaremoatbeyondfeatures/"
     },
     "SogdianRock": {
       "episode_count": 1,
