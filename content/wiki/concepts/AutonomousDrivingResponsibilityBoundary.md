@@ -6,8 +6,9 @@ sources:
   - acc532947b65-acc532947b65
   - no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843
   - ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv
+  - tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-10-14
 ---
 
 # Autonomous Driving Responsibility Boundary
@@ -18,9 +19,9 @@ Autonomous driving responsibility boundary is the distinction between systems th
 
 ## Current Synthesis
 
-The bounded sources agree that responsibility is more important than feature names. [[acc532947b65-acc532947b65]] explains the L2/L3/L4 split through fallback: L2 assists but leaves the driver responsible, L3 creates a hard handoff state, and L4 turns riders into passengers by moving fallback responsibility to the system and operator.
+The bounded sources agree that responsibility is more important than feature names or scene coverage. L2 assists but leaves the driver responsible, L3 creates a conditional handoff state, and L4 moves fallback responsibility to the system and operator so riders become passengers. Current mass-market systems can feel capable and useful without crossing that boundary.
 
-The Hongmeng Zhixing sources add the mass-market assisted-driving side. Current consumer systems can feel capable and useful, but the sources keep them inside a driver-responsibility frame unless regulation, standards, operating design, and system capability change together. EP279 makes this boundary practical: trust can increase through owner experience, but trust does not by itself transfer legal responsibility.
+Regulation is part of the product definition, not only post-accident adjudication. Clearer L3 obligations can bind a manufacturer's claim to responsibility, reduce ambiguous “L2.x” marketing, and help users calibrate supervision. Trust and natural behavior can increase adoption, but neither silently transfers legal fallback.
 
 ## Key Claims
 
@@ -29,6 +30,7 @@ The Hongmeng Zhixing sources add the mass-market assisted-driving side. Current 
 - L3 is commercially and legally hard because control can move back to a human exactly when attention has decayed.
 - L4 creates a different service and operating model because the passenger is no longer the fallback driver.
 - Mass-market assisted-driving scale and user trust do not themselves change responsibility.
+- “L2.x” capability labels do not create a new responsibility level between L2 and L3.
 - Regulation, safety evidence, handoff rules, driver education, and operating design have to change together before responsibility shifts.
 
 ## Evidence
@@ -37,6 +39,7 @@ The Hongmeng Zhixing sources add the mass-market assisted-driving side. Current 
 - **Robotaxi operations:** [[acc532947b65-acc532947b65]] links L4 responsibility to charging, cleaning, maintenance, dispatch, accident response, towing, passenger support, and fleet lifecycle operations.
 - **Mass-market boundary:** [[no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843]] says current Chinese-market assisted driving still leaves the legally responsible driver as human while standards may create a clearer future path.
 - **Trust versus responsibility:** [[ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv]] shows owners becoming more comfortable with assisted driving through lived experience, while Peng Lei still frames future higher-order convenience as dependent on clearer regulation.
+- **Legal and marketing boundary:** [[tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns]] says current mainstream consumer use remains L2 despite broader city and highway coverage, and argues that clearer L3 law can attach responsibility to the manufacturer's claim while limiting ambiguous “L2.x” language.
 
 ## Counterevidence & Qualifications
 
@@ -44,11 +47,12 @@ The Hongmeng Zhixing sources add the mass-market assisted-driving side. Current 
 - Owner comfort is not equivalent to validated system responsibility.
 - L3 and L4 terminology can be used differently in marketing, regulation, and engineering contexts, so the page treats fallback as the stabilizing distinction.
 - Assisted-driving adoption can be socially valuable even when responsibility remains with the human driver.
+- The newest source discusses pending or proposed Chinese road-law clarification but is not a primary legal text; exact statutory effects remain source-scoped.
 
 ## What Changed
 
-- The page was migrated to `synthesis-v1`.
-- EP279 adds the user-trust qualification: repeated successful assisted-driving use can build confidence without shifting responsibility.
+- Added regulation as an ex-ante product-claim discipline, not only an accident-liability mechanism.
+- Clarified that broader scene coverage and “L2.x” branding do not themselves change fallback responsibility.
 
 ## Related Concepts
 

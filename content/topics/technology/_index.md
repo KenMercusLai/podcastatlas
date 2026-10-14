@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3513
+topic_total_pages: 3515
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6263,6 +6263,9 @@ topic_entities:
   - key: "Hookie"
     title: "Hookie"
     url: "/wiki/entities/hookie/"
+  - key: "HorizonRobotics"
+    title: "Horizon Robotics / 地平线"
+    url: "/wiki/entities/horizonrobotics/"
   - key: "HowToAI"
     title: "How to AI"
     url: "/wiki/entities/howtoai/"
@@ -10488,6 +10491,9 @@ topic_sources:
   - key: "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe"
     title: "激发动物精神，创造更多机会"
     url: "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+  - key: "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns"
+    title: "特番｜从会开车到会做事：AI如何进入真实世界"
+    url: "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
   - key: "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy"
     title: "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC"
     url: "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"

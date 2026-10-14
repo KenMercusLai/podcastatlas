@@ -36913,3 +36913,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | 特番｜从会开车到会做事：AI如何进入真实世界
+
+Added source `tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns`; created [[HorizonRobotics|地平线 / Horizon Robotics]] and [[HumanlikeAssistedDriving|拟人化辅助驾驶]]; and resynthesized [[AutonomousDrivingResponsibilityBoundary]], [[AssistedDrivingTrustFormation]], [[RobotControlDataScarcity]], [[EmbodiedIntelligenceVehiclePath]], and [[PhysicalIntelligenceSystemStack]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: autonomy levels are responsibility boundaries rather than feature scores; trust depends on stable and predictable full-journey behavior as well as safety; car-scale deployment can support physical-AI chips, data loops, and cash flow while robot manipulation still requires embodiment-specific control data and hardware; and multi-year chip cycles make algorithm–hardware co-design a system constraint. No settled contradiction was adopted. The proposed platform share, chip-demand history, company advantages, legal effects, product timelines, and robot commercialization forecasts remain company-attributed or source-scoped. The broad [[PhysicalAI]] hub was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,625 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

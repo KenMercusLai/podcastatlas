@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13513
+wiki_total_pages: 13514
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "HoratioNelson"
     title: "Horatio Nelson"
     url: "/wiki/entities/horationelson/"
+  - key: "HorizonRobotics"
+    title: "Horizon Robotics / 地平线"
+    url: "/wiki/entities/horizonrobotics/"
   - key: "Hormel"
     title: "Hormel"
     url: "/wiki/entities/hormel/"

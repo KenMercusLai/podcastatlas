@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10551
+wiki_total_pages: 10552
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "HumanInTheLoopLegalAI"
     title: "Human-In-The-Loop Legal AI"
     url: "/wiki/concepts/humaninthelooplegalai/"
+  - key: "HumanlikeAssistedDriving"
+    title: "Human-like Assisted Driving / 拟人化辅助驾驶"
+    url: "/wiki/concepts/humanlikeassisteddriving/"
   - key: "HumanMachineAmplification"
     title: "Human-Machine Amplification"
     url: "/wiki/concepts/humanmachineamplification/"

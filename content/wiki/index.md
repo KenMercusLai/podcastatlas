@@ -4710,8 +4710,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
 - [《资治通鉴·汉纪》349-1｜汉武帝：赵婴齐，你要老婆不要？](sources/zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w.md) — 芮淇讲透资治通鉴以赵婴齐十二年长安宿卫、婚姻安排和回国后的有限服从讨论质子培养、亲密影响与控制边界。
 - [046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》](sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028.md) — 纸醉金迷FM以兵器谱讨论静态排名、动态状态、榜外高手、性别排除及心理与关系如何改变武功表现。
+- [特番｜从会开车到会做事：AI如何进入真实世界](sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns.md) — 商业就是这样与地平线嘉宾以责任边界、拟人化体验、芯片—算法协同、汽车规模化入口和机器人控制约束解释物理 AI 落地。
 
 ## Entities
+- [Horizon Robotics / 地平线](entities/HorizonRobotics.md) — Vehicle-first physical-AI platform company presented through chip–algorithm co-design, assisted driving, robot control, and developer-ecosystem strategy.
 - [Tianjin / 天津](entities/Tianjin.md) — Port city whose familiar chocolate fillings and household Western foods exemplify vernacular cultural localization.
 - [Qishilin / 起士林](entities/Qishilin.md) — Tianjin legacy chocolate and Western-food brand balancing remembered flavor with contemporary formulation expectations.
 - [西汉河南地之战 / Western Han Henan Campaign](entities/HetaoCampaignWesternHan.md) — 卫青由云中经九原、高阙切断退路并从后方突袭的河套战役，胜利后仍需朔方建设才能转成长期控制。
@@ -18298,6 +18300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
+- [Human-like Assisted Driving / 拟人化辅助驾驶](concepts/HumanlikeAssistedDriving.md) — Product-quality layer that separates safe scene completion from stable, natural, predictable behavior across sustained assisted-driving use.
 - [Tianjin Chocolate Localization / 天津巧克力本土化](concepts/TianjinChocolateLocalization.md) — Process by which chocolate became ordinary through familiar Tianjin foods, shops, occasions, and memories.
 - [Bean-to-Bar Consumer Literacy](concepts/BeanToBarConsumerLiteracy.md) — Ability to judge chocolate through cacao origin, process, ingredients, flavor, and maker choices rather than generic sweetness.
 - [Barbecue Chain Scalability / 烧烤连锁规模化](concepts/BarbecueChainScalability.md) — Joint constraint framework linking local demand, cooking standardization, ownership, utilization, seasonality, and capital in barbecue-chain expansion.

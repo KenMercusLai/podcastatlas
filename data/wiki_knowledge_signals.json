@@ -20770,9 +20770,9 @@
       "url": "/wiki/concepts/assisteddeathconceptboundary/"
     },
     "AssistedDrivingTrustFormation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP279 当方向盘慢慢松开，我们如何与车相处？ [lq2ELBnJY6xRhixXQjs-y7erHlnv].md",
@@ -20780,9 +20780,16 @@
           "show": "Talk三联",
           "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
           "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        },
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "AssistedReproductionDecisionLiteracy": {
@@ -23448,9 +23455,9 @@
       "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
     },
     "AutonomousDrivingResponsibilityBoundary": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "acc532947b65 [acc532947b65].md",
@@ -23472,9 +23479,16 @@
           "show": "Talk三联",
           "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
           "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        },
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
     },
     "AveryBrundage": {
@@ -79598,9 +79612,9 @@
       "url": "/wiki/concepts/embodiedhouseholdritualdiscipline/"
     },
     "EmbodiedIntelligenceVehiclePath": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lifY6z4XND4-vT9qQvxv_Pccs7FP [lifY6z4XND4-vT9qQvxv_Pccs7FP].md",
@@ -79608,9 +79622,16 @@
           "show": "罗永浩的十字路口",
           "title": "李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活",
           "url": "/wiki/sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp/"
+        },
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/embodiedintelligencevehiclepath/"
     },
     "EmbodiedJudgment": {
@@ -125815,6 +125836,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/horationelson/"
     },
+    "HorizonRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/horizonrobotics/"
+    },
     "HormoneContextAggression": {
       "episode_count": 4,
       "show_count": 1,
@@ -129970,6 +130007,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/humanitarianwitnessingboundary/"
+    },
+    "HumanlikeAssistedDriving": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/humanlikeassisteddriving/"
     },
     "HumanoidRobotCommercialization": {
       "episode_count": 9,
@@ -211381,6 +211434,29 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/physicaldynamicalcomputing/"
     },
+    "PhysicalIntelligenceSystemStack": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后 (1) [173-1].md",
+          "key": "173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1",
+          "show": "晚点聊 LateTalk",
+          "title": "173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后",
+          "url": "/wiki/sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1/"
+        },
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/physicalintelligencesystemstack/"
+    },
     "PhysicalManufacturingApplicationMoat": {
       "episode_count": 1,
       "show_count": 1,
@@ -233935,9 +234011,9 @@
       "url": "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
     },
     "RobotControlDataScarcity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The $1⧸Hour Worker： Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs [42245680].md",
@@ -233945,9 +234021,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+        },
+        {
+          "episode_file": "GKwRIJEOpCilAoo4HwTn2dNs [GKwRIJEOpCilAoo4HwTn2dNs].md",
+          "key": "tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns",
+          "show": "商业就是这样",
+          "title": "特番｜从会开车到会做事：AI如何进入真实世界",
+          "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/robotcontroldatascarcity/"
     },
     "RobotDeploymentDataLoop": {
