@@ -4,8 +4,9 @@ type: concept
 tags: [commodities, inflation, pricing, supply-chain, retail]
 sources:
   - e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80
+  - gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-14
 ---
 
 # Commodity-to-Consumer Price Pass-Through
@@ -20,6 +21,8 @@ Commodity-to-consumer price pass-through is the process by which a change in an 
 
 Pass-through therefore depends on cost share, chain length, inventory, contracts, hedging, substitution, demand, competition, and pricing strategy. A company can absorb a temporary move, delay it until stocks or contracts reset, reformulate, reduce promotions, shrink quantity, or raise price. The framework explains why an upstream climate shock can matter without producing an equal or immediate consumer-price change.
 
+A channel-specific beverage case sharpens the difference between business-to-business and consumer prices. Oil-linked PET packaging costs reportedly contributed to higher distributor purchase prices across several drink brands, while intense shelf competition and cautious household spending limited broad retail-price increases. Pass-through can therefore stop temporarily between manufacturer, distributor, retailer, and consumer, with channel margin absorbing or reallocating the shock even after an upstream price increase becomes commercially visible. [[gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593]]
+
 ## Key Claims
 
 - **Futures and retail prices describe different economic objects.** Delivery standards and marginal supply expectations do not equal a finished product's full cost stack.
@@ -28,12 +31,14 @@ Pass-through therefore depends on cost share, chain length, inventory, contracts
 - **Firms have more responses than a posted price increase.** Substitution, reformulation, pack size, promotion, margin, and output can carry part of the adjustment.
 - **Chain length changes timing and visibility.** Sugar can enter processing relatively quickly, while cotton passes through multiple industrial stages before clothing retail.
 - **Demand and competition condition pricing power.** Weak final demand can prevent a producer from passing through even a real input-cost increase.
+- **Channel layers can carry different prices at the same time.** A higher distributor acquisition price does not guarantee an immediate change in the posted consumer price.
 
 ## Evidence
 
 - **Different products and cost stacks:** [[e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80]] distinguishes commodity contracts from branded coffee, noodles, drinks, tires, and other consumer goods.
 - **Buffers and corporate responses:** [[e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80]] identifies stocks, long-term contracts, futures and options, substitute sweeteners, formulation, promotions, and channel decisions as transmission filters.
 - **Chain-length evidence:** [[e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80]] contrasts relatively short sugar processing with cotton's path through ginning, spinning, weaving, dyeing, and garment manufacture.
+- **Channel-margin evidence:** [[gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593]] reports higher beverage purchase prices for distributors without widespread corresponding retail-price increases.
 
 ## Counterevidence & Qualifications
 
@@ -41,10 +46,12 @@ Pass-through therefore depends on cost share, chain length, inventory, contracts
 - A high raw-material share, low inventory, concentrated supply, weak substitutes, or short chain can make transmission faster and larger.
 - Retail-price stability may hide smaller packages, lower quality, fewer promotions, or reformulation rather than true insulation.
 - The episode provides a general framework and examples, not estimated pass-through coefficients for particular firms or products.
+- The beverage source does not quantify PET's share of total product cost, the duration of channel-margin compression, or whether later retail repricing occurred.
 
 ## What Changed
 
-- Established a general bridge between commodity shocks and the consumer-price outcomes previously represented in narrower food, chocolate, and aviation cases.
+- Added the distinction between distributor-price pass-through and final shelf-price pass-through.
+- Added channel-margin compression as a temporary response to packaging-cost pressure and weak consumer pricing power.
 
 ## Related Concepts
 

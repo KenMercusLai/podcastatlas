@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13499
+wiki_total_pages: 13500
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "HengruiPharma"
     title: "Hengrui Pharma / 恒瑞医药"
     url: "/wiki/entities/hengruipharma/"
+  - key: "HenjiuyiqianYangrouchuan"
+    title: "Henjiuyiqian Lamb Skewers / 很久以前羊肉串"
+    url: "/wiki/entities/henjiuyiqianyangrouchuan/"
   - key: "Henoko"
     title: "Henoko"
     url: "/wiki/entities/henoko/"

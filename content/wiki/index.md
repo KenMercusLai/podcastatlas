@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？](sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593.md) — 声动早咖啡以很久以前羊肉串对比火锅，从市场分散、制作标准化、加盟与直营、消费时段和季节性解释烧烤连锁扩张约束。
 - [《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运](sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs.md) — 以向珍女殉死、刘向《列女传》与蔡文姬等例子批判把女性价值窄化为贞节和死亡，并以继续生活、智慧与尊严作为替代标准。
 - [《资治通鉴·汉纪》348-1｜古人犯错后的焚尸启示录](sources/zizhi-tongjian-hanji-348-1-guren-fancuo-houde-fenshi-qishilu-ljglue4ppujp0auyai0noltvcrwm.md) — 张汤把君意转成法律裁量，赵禹晚年转柔后得以归家善终，尹齐则虽清廉却因严酷造成政务停滞并留下死后焚尸之恨。
 - [《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能](sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq.md) — 王温舒以选择性执法、狱政暴力和关系网络制造恐惧，兒宽则以恤农、缓刑和税收宽限积累合作，结尾开启赵婴齐入侍长安的南越线。
@@ -4707,6 +4708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》349-1｜汉武帝：赵婴齐，你要老婆不要？](sources/zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w.md) — 芮淇讲透资治通鉴以赵婴齐十二年长安宿卫、婚姻安排和回国后的有限服从讨论质子培养、亲密影响与控制边界。
 
 ## Entities
+- [Henjiuyiqian Lamb Skewers / 很久以前羊肉串](entities/HenjiuyiqianYangrouchuan.md) — Directly operated Chinese barbecue chain used to examine geographic concentration, cooking control, store utilization, and capital-intensive expansion.
 - [向珍女 / Xiang Zhennü](entities/XiangZhennv.md) — 明代列女叙事中为未曾谋面的亡故未婚夫自尽的女子，其薄弱传记暴露贞节表彰与个人能动性之间的证据边界。
 - [尹齐 / Yin Qi (Western Han)](entities/YinQiWesternHan.md) — 清廉而严酷、因恐惧造成官员不敢任事并在死后仍遭仇家追索的西汉酷吏。
 - [Neil Nitin Mukesh](entities/NeilNitinMukesh.md) — Indian actor whose career account connects lineage, apprenticeship, typecasting, consequential roles, multilingual work, family responsibility, and AI.
@@ -18279,6 +18281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
 
 ## Concepts
+- [Barbecue Chain Scalability / 烧烤连锁规模化](concepts/BarbecueChainScalability.md) — Joint constraint framework linking local demand, cooking standardization, ownership, utilization, seasonality, and capital in barbecue-chain expansion.
 - [信任支持的财政履约 / Trust-Backed Fiscal Compliance](concepts/TrustBackedFiscalCompliance.md) — 困顿时因收成宽缓征收，以公平与民生支持积累信任，并在后续紧急义务中转化为合作履约的治理机制。
 - [Indian Film Lineage Access Boundary](concepts/IndianFilmLineageAccessBoundary.md) — Distinction between inherited entertainment access, unequal second chances, and the performance needed for a durable career.
 - [Narrative Indispensability Role Selection](concepts/NarrativeIndispensabilityRoleSelection.md) — Acting-role criterion based on whether removing a character would materially change the story.

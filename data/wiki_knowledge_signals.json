@@ -25647,6 +25647,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/barbados/"
     },
+    "BarbecueChainScalability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOpAIlAHRXBgTnwhr3 [GKwRIaIOpAIlAHRXBgTnwhr3].md",
+          "key": "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？",
+          "url": "/wiki/sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/barbecuechainscalability/"
+    },
     "BarbertonOhio": {
       "episode_count": 1,
       "show_count": 1,
@@ -52617,9 +52633,9 @@
       "url": "/wiki/entities/commius/"
     },
     "CommodityConsumerPricePassThrough": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
@@ -52627,9 +52643,16 @@
           "show": "硅谷101",
           "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
           "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        },
+        {
+          "episode_file": "GKwRIaIOpAIlAHRXBgTnwhr3 [GKwRIaIOpAIlAHRXBgTnwhr3].md",
+          "key": "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？",
+          "url": "/wiki/sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/commodityconsumerpricepassthrough/"
     },
     "CommodityFuturesTradingCommission": {
@@ -104449,9 +104472,9 @@
       "url": "/wiki/entities/geckorobotics/"
     },
     "GeelyAutomobile": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
@@ -104473,9 +104496,16 @@
           "show": "声动早咖啡",
           "title": "京东开出购物中心，蔚来与吉利推进充电换电合作",
           "url": "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
+        },
+        {
+          "episode_file": "GKwRIaIOpAIlAHRXBgTnwhr3 [GKwRIaIOpAIlAHRXBgTnwhr3].md",
+          "key": "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？",
+          "url": "/wiki/sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/geelyautomobile/"
     },
     "Gele": {
@@ -120639,6 +120669,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/hengshankingdomwesternhan/"
+    },
+    "HenjiuyiqianYangrouchuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOpAIlAHRXBgTnwhr3 [GKwRIaIOpAIlAHRXBgTnwhr3].md",
+          "key": "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？",
+          "url": "/wiki/sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/henjiuyiqianyangrouchuan/"
     },
     "Henoko": {
       "episode_count": 1,

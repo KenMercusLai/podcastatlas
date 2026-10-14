@@ -36874,3 +36874,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-14] ingest | 高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？
+
+Added source `gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593`; created [[HenjiuyiqianYangrouchuan|很久以前羊肉串]] and [[BarbecueChainScalability|烧烤连锁规模化]]; and resynthesized [[GeelyAutomobile|吉利汽车]] and [[CommodityConsumerPricePassThrough|大宗商品到消费价格传导]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: barbecue-chain scale is jointly constrained by a smaller and more fragmented addressable market, local price and store-format differences, labor-intensive final cooking, the control-capital tradeoff between franchising and direct operation, narrow meal occasions, weak delivery, and seasonality; European production gives Geely a possible localization and tariff-risk lever without proving factory utilization or returns; and a packaging-cost increase can reach distributors while shelf competition keeps the consumer price temporarily stable by compressing channel margin. No settled contradiction was adopted. Market sizes, store counts, margins, seasonality, factory plans, tariff motives, beverage price changes, the Nobel attribution, AI-model claims, and listing interpretations remain source-scoped. Broad Ford, Meta, show, and hotpot profiles were kept closed because the focused pages capture the durable additions without reopening larger or minimally changed evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,620 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

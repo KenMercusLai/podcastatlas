@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10547
+wiki_total_pages: 10548
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "BankingProductDelight"
     title: "Banking Product Delight"
     url: "/wiki/concepts/bankingproductdelight/"
+  - key: "BarbecueChainScalability"
+    title: "Barbecue Chain Scalability / 烧烤连锁规模化"
+    url: "/wiki/concepts/barbecuechainscalability/"
   - key: "BarbellStrategy"
     title: "Barbell Strategy"
     url: "/wiki/concepts/barbellstrategy/"

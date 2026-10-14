@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3512
+topic_total_pages: 3513
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10542,6 +10542,9 @@ topic_sources:
   - key: "gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc"
     title: "高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正"
     url: "/wiki/sources/gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc/"
+  - key: "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593"
+    title: "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？"
+    url: "/wiki/sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593/"
   - key: "gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963"
     title: "高洁丝｜顶级机场到海外「开分店」，机场运营如何变身跨国生意？"
     url: "/wiki/sources/gaojiesi-dingji-jichang-dao-haiwai-kai-fendian-jichang-yunying-ruhe-bianshen-kuaguo-shengyi-1023323963/"
