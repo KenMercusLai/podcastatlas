@@ -22207,9 +22207,9 @@
       "url": "/wiki/entities/auschwitzbirkenau/"
     },
     "AuspiciousOmenPolitics": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 3,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
@@ -22329,9 +22329,16 @@
           "show": "怪东西Weird History",
           "title": "2 东西方的祥瑞与灾异：从恺撒到王莽",
           "url": "/wiki/sources/2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜 [lhLqNREsX40RQNl1PJYZVXUj-sGE].md",
+          "key": "zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/auspiciousomenpolitics/"
     },
     "Austerity": {
@@ -145829,6 +145836,43 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/jiuxiritualpromotion/"
+    },
+    "Jiuding": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！ [ljNw5Estg6dVGFlLM3KFCQ6UlHxu].md",
+          "key": "zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜 [lphy12eXg4u7f-30QKIR96gv634R].md",
+          "key": "zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？ [lsUt4CFIc7XbBrMBMIMrRuF7n6y0].md",
+          "key": "zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》76丨谁给了楚顷襄王的自信？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜 [lhLqNREsX40RQNl1PJYZVXUj-sGE].md",
+          "key": "zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/jiuding/"
     },
     "JizhouLateHan": {
       "episode_count": 5,
@@ -294476,9 +294520,9 @@
       "url": "/wiki/entities/xinyelatehan/"
     },
     "XinyuanPingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》226｜装神弄鬼的新垣平，是如何被汉文帝识破的？ [ljXpb9_Fn-JmATlg621chtClQn3j].md",
@@ -294493,9 +294537,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》225-2｜为什么说新垣结衣的祖先是中国人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜 [lhLqNREsX40RQNl1PJYZVXUj-sGE].md",
+          "key": "zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/xinyuanpingwesternhan/"
     },
     "Xiongnu": {

@@ -733,6 +733,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Hutin's testimony about French torture in Algeria.
 - [《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床](sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc.md) — 栾大经丁义引见，以汉武帝的求仙欲望和少翁之死为谈判筹码，再用“斗棋”表演建立可信度；标题中的公主情节未出现在所给文本中。
 - [《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？](sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa.md) — 栾大以求仙承诺换得封侯、六印与卫长公主婚姻，却在方术无验后被跟踪揭穿见师谎言并腰斩，推荐者丁义亦被处死。
+- [《资治通鉴·汉纪》345-1｜汉武帝宝鼎悬案，至今仍是未解之谜](sources/zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge.md) — 汾阴出鼎经查验后被汉武帝纳入迎鼎、称贺与《宝鼎歌》叙事；实物存在不等于周鼎或九鼎身份获证，所给文本亦未完成标题所称考古悬案。
 - [《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的](sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq.md) — 以赵禹的清廉、严法和拒绝请托区分原则与裁量，再以烈女的自伤、守寡和贞节牌坊引出性别化荣誉如何遮蔽生命代价。
 - [《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！](sources/zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu.md) — 公孙卿以宝鼎时点和黄帝升仙叙事获得任用，陇西郡守则因天子从官缺食而自杀；节目把后者解释为近臣声誉权力下的避祸选择，但动机保持来源限定。
 - [《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”](sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu.md) — 以信任、近身接触和信息反馈解释天子从官的非正式权力，并串联北地亭障失修问责、甘泉太一祭祀及南越交涉预告。
@@ -5348,7 +5349,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [怪东西 Weird History](entities/WeirdHistoryPodcast.md) — 以跨区域比较、细读与学科史连接制度、人物、政治与身体暴力、知识生产和当代教育问题的历史播客。
 - [张大白 / Zhang Dabai](entities/ZhangDabai.md) — 怪东西联合主播，以亲历地震切入华县与里斯本的比较灾害史。
 - [公孙臣 / Gongsun Chen (Western Han)](entities/GongsunChenWesternHan.md) — 以汉属土德和黄龙预言取得文帝任用、参与礼制与服色规划的西汉博士；造瑞说保留为节目推测。
-- [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环和祥瑞解释取得汉文帝信任，后因检举与审讯败露并被诛。
+- [新垣平 / Xinyuan Ping](entities/XinyuanPingWesternHan.md) — 西汉方士，以可控的预言—物证循环取得汉文帝信任；败露后，其汾阴周鼎预言仍成为后世解释实物发现的框架。
 - [BNB](entities/BNB.md) — Binance launch token used for ICO financing, trading-fee utility, and a proposed chain and ecosystem roadmap.
 - [Binance.US](entities/BinanceUS.md) — U.S.-market exchange structure that CZ describes as legally and technically separated from global Binance.
 - [Giggle Academy](entities/GiggleAcademy.md) — CZ's free, AI-assisted education project for learners without reliable access to schooling or literacy.
@@ -11226,7 +11227,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [即墨 / Jimo](entities/JimoWarringStates.md) — Final Qi-held city where Tian Dan stages the fire-ox counterattack against Yan.
 - [廉颇 / Lian Po](entities/LianPo.md) — Zhao general whose Mianchi contingency plan, Lin Xiangru apology, and Changping defensive patience become models of state-preserving judgment.
 - [东周武公 / Dongzhou Wugong](entities/DongzhouWugong.md) — Zhou envoy who persuades Chu that attacking the royal domain for land, people, or Jiuding would create more symbolic cost than material gain.
-- [九鼎 / Jiuding](entities/Jiuding.md) — Zhou ritual object whose possible seizure by Chu anchors the episode's symbolic-deterrence argument.
+- [九鼎 / Jiuding](entities/Jiuding.md) — 传说中的王权礼器，其被觊觎、迁移、失落、搜寻与后世再解释共同显示神圣物如何承载合法性而不等于可验证实物身份。
 - [石城 / Shicheng](entities/ShichengWarringStates.md) — Zhao city captured by Qin in 281 BCE after Qin's renewed attacks on Zhao.
 - [渑池 / Mianchi](entities/Mianchi.md) — Qin-Zhao meeting place where Lin Xiangru forces a reciprocal Qin performance after Qin tries to lower Zhao Huiwen Wang's status.
 - [恒山国 / Hengshan State](entities/HengshanState.md) — Source-scoped state targeted by Guan Zhong's Hengshan arms-and-grain economic warfare case.
@@ -25815,7 +25816,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where heavenly signs, people-support, ritual recognition, and claimant self-authorization are tested as grounds for rule.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang, Liu Xiu's fengshan, Yuan Shu, Dong Zhuo, and other sign-politics cases.
-- [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of favorable signs, portents, artifacts, and omen reports to authorize office, purge, ritual, frontier action, memory, or dynastic legitimacy.
+- [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — 通过征兆、异象、器物、查验、解释与仪式接纳，为任官、清洗、扩张、记忆或王朝合法性提供政治授权。
 - [篡位后合法性整合 / Post-Usurpation Legitimacy Consolidation](concepts/PostUsurpationLegitimacyConsolidation.md) — Pattern where a new ruler uses ceremony, genealogy, ritual, privilege, old-dynasty containment, symbol control, personnel theater, and coercion to turn usurpation into practical order.
 - [符命垄断反噬 / Fuming Monopoly Backfire](concepts/FumingMonopolyBackfire.md) — Xin-dynasty pattern where Wang Mang's useful pre-accession mandate-sign machinery becomes a threat once imitators keep using it after accession.
 - [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.

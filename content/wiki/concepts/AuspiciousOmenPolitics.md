@@ -21,7 +21,8 @@ sources:
   - zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi
   - zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3
   - 2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2
-last_updated: 2026-10-10
+  - zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge
+last_updated: 2026-10-14
 ---
 
 ## Definition
@@ -42,13 +43,15 @@ Across the page, omen politics works best as a language of compression. A sign c
 
 [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] makes cumulative sign production and career capture explicit. Wang Mang treats prophecy, a new well, stone animals, copper signs, memorial repetition, temple reception, and ritual recoding as a single accession proof chain. [[AiZhangXinOfficial|哀章]] then exploits the same system by fabricating a copper casket and writing himself into its ministerial list, showing that omen politics can allocate office as well as authorize rule.
 
+A Western Han artifact-verification case adds a distinct path under [[HanWudi|汉武帝]]. A ding reportedly found at Fenyin is first interpreted through [[XinyuanPingWesternHan|新垣平]]'s older Zhou-ding claim, then inspected, ceremonially received, celebrated by officials, and incorporated into imperial authorship through the “宝鼎歌.” This sequence sharpens the distinction between object verification and meaning verification: confirming that a vessel exists does not establish its date, identity as one of the [[Jiuding|九鼎]], or Heaven-backed significance. [[zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge|Hanji 345-1]]
+
 ## Key Claims
 
 - Auspicious signs are politically useful because they turn contingent choices, appointments, and symbolic-policy agendas into apparently Heaven-aligned action.
 - Omen politics can operate at many scales: personal advancement, purge cover, imperial travel, frontier war, diplomatic messaging, and dynastic replacement.
 - The interpreter has power; vague or flexible signs become consequential when a ruler, adviser, text, or artifact narrows their meaning.
 - A sign's valence can be reversed: inherited disaster symbolism does not prevent a politically successful interpreter from presenting the event as apotheosis, victory, or renewal.
-- Material media and landscape events can carry omen politics; interpreters can make objects, texts, or physical disorder look politically useful.
+- Material media and landscape events can carry omen politics; interpreters can make objects, texts, or physical disorder politically useful, and administrative inspection may strengthen the narrative without settling an object's historical identity or sacred meaning.
 - Submission reports and staged distant tribute can bundle praise, auspicious signs, frontier geography, and classical precedent so expansion appears to follow naturally from virtuous rule.
 - The same sign system that legitimates a ruler can later expose that ruler to judgment or create uncontrolled imitation if virtue, capacity, or interpretive monopoly fails.
 
@@ -67,6 +70,7 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Cumulative accession proof: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] joins prophecy, new-well, stone-animal, copper-sign, casket, temple, and ritual evidence into Wang Mang's formal accession narrative.
 - Self-appointment through signs: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] says Ai Zhang fabricates a Heaven-backed personnel list and includes himself with an office and title.
 - Forecast-confirmation and court displacement: [[zizhi-tongjian-hanji-225-2-weishenme-shuo-xinyuanjieyi-de-zuxian-shi-zhongguoren-lmk2n0ved6gt9tgoxs1qb2s0kuc3|Hanji 225-2]] links the reported yellow dragon to Gongsun Chen's appointment, Zhang Cang's loss of influence, earth-virtue planning, and Five Colored Emperor ritual; it also links Xinyuan Ping's first qi claim to temple construction.
+- Artifact verification and political reception: [[zizhi-tongjian-hanji-345-1-hanwudi-baoding-xuanan-zhijin-rengshi-weijie-zhimi-lhlqnresx40rqnl1pjyzvxuj-sge|Hanji 345-1]] says a Fenyin ding is inspected before Han Wudi receives it, but shows that inherited story, court congratulations, ceremony, and royal song—not physical inspection alone—produce its auspicious political meaning.
 - Comparative interpretation and valence reversal: [[2-dongxifang-de-xiangrui-yu-zaiyi-cong-kaisa-dao-wangmang-lstvdhoifxncjm9am0keb8ksufk2|Weird History episode 2]] connects Wang Mang's omen system, competing Han eclipse diagnoses, Roman augury, Caesar's comet, medieval battlefield signs, royal healing, and pharaonic symbols through control of interpretation rather than a universal omen vocabulary.
 
 ## Counterevidence & Qualifications
@@ -79,12 +83,14 @@ The sources are evidence for political reasoning, not evidence that omens caused
 
 The comparative episode ranges widely and often summarizes examples rather than documenting them from primary texts. Its similarities support a mechanism-level comparison, not common origin or institutional equivalence; royal touch, Iranian radiance, sacred-animal, pre-Columbian, and East Asian diffusion claims remain source-scoped. The strongest new judgment is therefore narrow: signs gain or change political valence through interpretation, uptake, and retrospective narrative.
 
+Hanji 345-1 is a short structured summary whose title promises a mystery not fully developed in the supplied material. Its inspection conclusion supports neither a Zhou date nor identification with the Jiuding, and the Fenyin find does not retroactively validate Xinyuan Ping's staged claims. The medium, object, inscription, inspection, procession, palace, congratulations, poem context, and legendary chronology remain episode-attributed.
+
 ## What Changed
 
-- Extended the synthesis beyond China with comparative cases while keeping institutional equivalence and diffusion unproven.
-- Added valence reversal: Caesar's comet shows a conventionally harmful sign becoming favorable apotheosis propaganda.
-- Made interpretive competition explicit through the Han Chengdi eclipse's rival blame targets.
-- Preserved the boundary between politically effective interpretation and supernatural or causal proof.
+- Added an artifact-verification path from discovery and inspection to court ceremony and imperial authorship.
+- Distinguished proof that an object exists from proof of its date, identity, or sacred political meaning.
+- Added discredited prophecy's afterlife as a frame that can classify later evidence without being vindicated by it.
+- Preserved the broader judgment that omen power arises through interpretation and uptake rather than demonstrated supernatural causation.
 
 ## Related Concepts
 
@@ -101,3 +107,5 @@ The comparative episode ranges widely and often summarizes examples rather than 
 - [[BeliefActivatedPoliticalSigns|信念激活的政治符号]] - explains how acceptance produces real institutional consequences without proving the sign's attributed meaning.
 - [[PropheticAmbiguityAndInterpretation]] - comparative mechanism by which elastic signs retain authority through specialist and retrospective interpretation.
 - [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - gendered blame-redirection subtype illustrated by the Han Chengdi eclipse dispute.
+- [[Jiuding|九鼎]] - sovereign-object tradition that makes the Fenyin ding available for legitimacy interpretation without proving the identification.
+- [[SacredObjectAuthorityMigration|神圣器物权威迁移]] - adjacent mechanism in which possession and movement of ritual objects carry political authority.
