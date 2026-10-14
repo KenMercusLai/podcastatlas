@@ -57117,9 +57117,9 @@
       "url": "/wiki/concepts/cortisoltimingandburnout/"
     },
     "CosimoDeMedici": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1413065864 [GLT1413065864].md",
@@ -57127,9 +57127,16 @@
           "show": "The Rest Is History",
           "title": "572. The Medici: Masters of Florence (Part 1)",
           "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
+        },
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/cosimodemedici/"
     },
     "CosmeticProcedureExpectationManagement": {
@@ -94963,6 +94970,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/filibusterminorityrights/"
     },
+    "FilippoBrunelleschi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/filippobrunelleschi/"
+    },
     "FilmGossipAsContext": {
       "episode_count": 2,
       "show_count": 2,
@@ -108131,6 +108154,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/giorgiovasari/"
     },
+    "GiovanniDiBicciDeMedici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/giovannidibiccidemedici/"
+    },
     "GirolamoSavonarola": {
       "episode_count": 3,
       "show_count": 2,
@@ -108236,9 +108275,9 @@
       "url": "/wiki/concepts/gisaeng/"
     },
     "GiulianoDeMedici": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6599592252 [GLT6599592252].md",
@@ -108246,9 +108285,16 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/giulianodemedici/"
     },
     "GiuseppeGaribaldi": {
@@ -169153,9 +169199,9 @@
       "url": "/wiki/entities/lordsappellant/"
     },
     "LorenzoDeMedici": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -169170,9 +169216,16 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/lorenzodemedici/"
     },
     "LoriGottlieb": {
@@ -180840,9 +180893,9 @@
       "url": "/wiki/concepts/medicationselfcombinationrisk/"
     },
     "MediciBank": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6193985064 [GLT6193985064].md",
@@ -180864,9 +180917,16 @@
           "show": "The Rest Is History",
           "title": "572. The Medici: Masters of Florence (Part 1)",
           "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
+        },
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/medicibank/"
     },
     "MedievalFemaleAsceticAuthority": {
@@ -207601,9 +207661,9 @@
       "url": "/wiki/concepts/paymentriskdatanetwork/"
     },
     "PazziConspiracy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6599592252 [GLT6599592252].md",
@@ -207611,9 +207671,16 @@
           "show": "The Rest Is History",
           "title": "573. The Medici: Lorenzo the Magnificent (Part 2)",
           "url": "/wiki/sources/573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252/"
+        },
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/pazziconspiracy/"
     },
     "PazziFamily": {
@@ -211934,9 +212001,9 @@
       "url": "/wiki/entities/pierodemedici/"
     },
     "PieroTheGouty": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6599592252 [GLT6599592252].md",
@@ -211951,9 +212018,16 @@
           "show": "The Rest Is History",
           "title": "572. The Medici: Masters of Florence (Part 1)",
           "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
+        },
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/pierothegouty/"
     },
     "PierreCauchon": {
@@ -229634,6 +229708,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/renamalik/"
+    },
+    "RenaissancePatronageProductionSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
+          "key": "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/renaissancepatronageproductionsystem/"
     },
     "RenaissancePortraitAmbiguity": {
       "episode_count": 1,

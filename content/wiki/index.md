@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上](sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv.md) — 半拿铁从乔瓦尼到洛伦佐重述美第奇银行、佛罗伦萨政治与文艺复兴，并把艺术还原为由赞助、合同、材料、工程和制度共同组织的生产体系。
 - [AI 管理瑞幸咖啡店，員工為什麼越來越累？](sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461.md) — 端聞以瑞幸门店访谈追踪算法排班如何遗漏清洁、培训与现场波动，并把预测误差转为减员、指标博弈和无偿劳动。
 - [Kicking Kyiv: Trump’s doubtful deals](sources/kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5.md) — Economist episode on asymmetric Ukraine energy bargaining, private wartime infrastructure, India’s expanding Cockroach Movement, and the conditions for inclusive group singing.
 - [Is AI solving the right problems for consumers?](sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128.md) — Marketplace Tech interview with Kate Moran on need-led AI design, voluntary adoption, agentic privacy and control risks, and the gap between successful demos and deployable products.
@@ -4716,6 +4717,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [特番｜从会开车到会做事：AI如何进入真实世界](sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns.md) — 商业就是这样与地平线嘉宾以责任边界、拟人化体验、芯片—算法协同、汽车规模化入口和机器人控制约束解释物理 AI 落地。
 
 ## Entities
+- [Giovanni di Bicci de' Medici / 乔瓦尼·德·美第奇](entities/GiovanniDiBicciDeMedici.md) — Medici Bank founder linking papal finance, partner-run branches, credit discipline, reputational loyalty, restrained politics, and early civic patronage.
+- [Filippo Brunelleschi / 菲利波·布鲁内莱斯基](entities/FilippoBrunelleschi.md) — Florentine architect-engineer whose dome joined structural invention, machinery, material economy, and long-duration civic production.
 - [Kate Moran](entities/KateMoran.md) — User-experience researcher connecting consumer AI value to concrete needs, voluntary return behavior, and visible privacy and control tradeoffs.
 - [Horizon Robotics / 地平线](entities/HorizonRobotics.md) — Vehicle-first physical-AI platform company presented through chip–algorithm co-design, assisted driving, robot control, and developer-ecosystem strategy.
 - [Tianjin / 天津](entities/Tianjin.md) — Port city whose familiar chocolate fillings and household Western foods exemplify vernacular cultural localization.
@@ -18304,6 +18307,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
+- [Renaissance Patronage Production System / 文艺复兴赞助生产体系](concepts/RenaissancePatronageProductionSystem.md) — Ecology joining finance, patrons, guilds, churches, contracts, materials, engineering, labor, inspection, maintenance, and artistic authorship.
 - [Algorithmic Workforce Scheduling / 算法劳动力排班](concepts/AlgorithmicWorkforceScheduling.md) — How demand models allocate paid hours and transfer omitted tasks or asymmetric forecast errors to workers.
 - [Manager Discretion Under Automation / 自动化下的管理者裁量](concepts/ManagerDiscretionUnderAutomation.md) — Whether local managers retain bounded authority to correct system decisions while remaining accountable for outcomes.
 - [Service Work Mobility Trap / 服务业流动陷阱](concepts/ServiceWorkMobilityTrap.md) — When accessible service work consumes the health, time, stability, and portable learning needed to move onward.

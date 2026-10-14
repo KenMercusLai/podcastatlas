@@ -4,7 +4,8 @@ type: entity
 tags: [person, renaissance, florence, politics]
 sources:
   - 573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252
-last_updated: 2026-10-11
+  - no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,18 +31,21 @@ Giuliano's death became the blood around which Lorenzo mobilized resistance and 
 ### Assassination target and death
 
 - [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] reconstructs the dual-target logic, the effort to bring Giuliano to mass, the armor check, and his killing.
+- [[no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv]] independently retells the cathedral attack, Giuliano's fatal stabbing, and Lorenzo's escape.
 
 ### Political aftermath
 
 - [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] connects Giuliano's death to the failed coup, public revenge, war, and Lorenzo's rhetoric before departing for Naples.
+- [[no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv]] connects the murder to popular support for the surviving Medici and the conspiracy's strategic failure.
 
 ## Qualifications
 
-The source focuses on Giuliano as a victim of the conspiracy and supplies little independent account of his life, politics, relationships, or role in Medici government. Exact movements, dialogue, wounds, and conspirators' intentions derive from the episode's narrative reconstruction.
+Both sources focus on Giuliano as a victim of the conspiracy and supply little independent account of his life, politics, relationships, or role in Medici government. Exact movements, dialogue, wounds, and conspirators' intentions derive from narrative reconstruction.
 
 ## What Changed
 
 - Created a bounded profile distinguishing Giuliano's death from the conspiracy's failed political outcome.
+- Added a second narrative account that corroborates the attack's basic sequence without resolving biographical gaps.
 
 ## Relationships
 

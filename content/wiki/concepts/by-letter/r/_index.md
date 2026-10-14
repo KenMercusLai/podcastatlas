@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10558
+wiki_total_pages: 10559
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "RemoteRoadAccessTransformation"
     title: "Remote Road Access Transformation / 偏远地区道路可达性转型"
     url: "/wiki/concepts/remoteroadaccesstransformation/"
+  - key: "RenaissancePatronageProductionSystem"
+    title: "Renaissance Patronage Production System / 文艺复兴赞助生产体系"
+    url: "/wiki/concepts/renaissancepatronageproductionsystem/"
   - key: "RenaissancePortraitAmbiguity"
     title: "Renaissance Portrait Ambiguity"
     url: "/wiki/concepts/renaissanceportraitambiguity/"

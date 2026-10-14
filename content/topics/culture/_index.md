@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3504
+topic_total_pages: 3506
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2806,6 +2806,9 @@ topic_concepts:
   - key: "RemedialEducationTargeting"
     title: "Remedial Education Targeting"
     url: "/wiki/concepts/remedialeducationtargeting/"
+  - key: "RenaissancePatronageProductionSystem"
+    title: "Renaissance Patronage Production System / 文艺复兴赞助生产体系"
+    url: "/wiki/concepts/renaissancepatronageproductionsystem/"
   - key: "ResearchEducationRobotPlatform"
     title: "Research Education Robot Platform"
     url: "/wiki/concepts/researcheducationrobotplatform/"
@@ -10089,6 +10092,9 @@ topic_sources:
   - key: "no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194"
     title: "No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21"
     url: "/wiki/sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194/"
+  - key: "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv"
+    title: "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上"
+    url: "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
   - key: "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3"
     title: "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？"
     url: "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"

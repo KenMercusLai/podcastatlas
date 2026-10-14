@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13515
+wiki_total_pages: 13517
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "GiovanniAldini"
     title: "Giovanni Aldini / 乔瓦尼·阿尔迪尼"
     url: "/wiki/entities/giovannialdini/"
+  - key: "GiovanniDiBicciDeMedici"
+    title: "Giovanni di Bicci de' Medici / 乔瓦尼·德·美第奇"
+    url: "/wiki/entities/giovannidibiccidemedici/"
   - key: "GirishRedikar"
     title: "Girish Redikar"
     url: "/wiki/entities/girishredikar/"

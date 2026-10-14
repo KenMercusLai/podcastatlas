@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2268
+topic_total_pages: 2271
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2656,6 +2656,9 @@ topic_concepts:
   - key: "RelentlesslyResourcefulFounder"
     title: "Relentlessly Resourceful Founder"
     url: "/wiki/concepts/relentlesslyresourcefulfounder/"
+  - key: "RenaissancePatronageProductionSystem"
+    title: "Renaissance Patronage Production System / 文艺复兴赞助生产体系"
+    url: "/wiki/concepts/renaissancepatronageproductionsystem/"
   - key: "RepublicanChinaBankingSystem"
     title: "Republican China Banking System"
     url: "/wiki/concepts/republicanchinabankingsystem/"
@@ -4190,6 +4193,9 @@ topic_entities:
   - key: "GilLuria"
     title: "Gil Luria"
     url: "/wiki/entities/gilluria/"
+  - key: "GiovanniDiBicciDeMedici"
+    title: "Giovanni di Bicci de' Medici / 乔瓦尼·德·美第奇"
+    url: "/wiki/entities/giovannidibiccidemedici/"
   - key: "GirlScoutsOfTheUSA"
     title: "Girl Scouts of the USA"
     url: "/wiki/entities/girlscoutsoftheusa/"
@@ -6474,6 +6480,9 @@ topic_sources:
   - key: "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht"
     title: "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚"
     url: "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+  - key: "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv"
+    title: "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上"
+    url: "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
   - key: "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1"
     title: "OPC 的真正难题，是 AI 还没学会替你把东西卖出去"
     url: "/wiki/sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1/"

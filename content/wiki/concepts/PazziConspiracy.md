@@ -4,7 +4,8 @@ type: concept
 tags: [assassination, coup, banking, papacy, florence]
 sources:
   - 573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252
-last_updated: 2026-10-11
+  - no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,6 +39,7 @@ Failure hardened rather than removed Medici power. Immediate public revenge incl
 ### Cathedral attack and coup failure
 
 - [[573-the-medici-lorenzo-the-magnificent-part-2-glt6599592252]] reconstructs the mass signal, Giuliano's murder, Lorenzo's escape, and failure to seize the civic palace.
+- [[no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv]] corroborates the bell signal, dual attack, failed civic-palace seizure, popular Medici response, and rapid punishment.
 
 ### Reprisal and war
 
@@ -45,13 +47,14 @@ Failure hardened rather than removed Medici power. Immediate public revenge incl
 
 ## Counterevidence & Qualifications
 
-The source is a narrative podcast rather than a primary-source study. It relies partly on Montesecco's testimony after torture, and it does not resolve whether Sixtus IV authorized murder. Exact participation, dialogue, crowd responsibility, victim counts, innocence, and the relationship between spontaneous revenge and directed repression remain source-scoped.
+The sources are narrative podcasts rather than primary-source studies. One relies partly on Montesecco's testimony after torture, and neither resolves whether Sixtus IV authorized murder. Exact participation, dialogue, crowd responsibility, victim counts, innocence, popular support, and the relationship between spontaneous revenge and directed repression remain source-scoped.
 
 ## What Changed
 
 - Created a framework treating the conspiracy as a coup coalition rather than only an assassination.
 - Separated tactical success against Giuliano from strategic failure against the Medici regime.
 - Connected urban retaliation to the subsequent papal and Neapolitan war.
+- Added a second narrative account that corroborates the coup sequence while leaving papal authorization unresolved.
 
 ## Related Concepts
 

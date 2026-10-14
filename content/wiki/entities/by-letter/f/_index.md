@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13515
+wiki_total_pages: 13517
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "FilipAmtislavski"
     title: "Filip Amtislavski"
     url: "/wiki/entities/filipamtislavski/"
+  - key: "FilippoBrunelleschi"
+    title: "Filippo Brunelleschi / 菲利波·布鲁内莱斯基"
+    url: "/wiki/entities/filippobrunelleschi/"
   - key: "Filterworld"
     title: "Filterworld"
     url: "/wiki/entities/filterworld/"
