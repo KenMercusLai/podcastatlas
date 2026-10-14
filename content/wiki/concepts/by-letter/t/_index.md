@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10549
+wiki_total_pages: 10551
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "TianJiHorseRacing"
     title: "Tian Ji Horse Racing / 田忌赛马"
     url: "/wiki/concepts/tianjihorseracing/"
+  - key: "TianjinChocolateLocalization"
+    title: "Tianjin Chocolate Localization / 天津巧克力本土化"
+    url: "/wiki/concepts/tianjinchocolatelocalization/"
   - key: "TianrenGanyingProjectionFrame"
     title: "Tianren Ganying Projection Frame / 天人感应投射框架"
     url: "/wiki/concepts/tianrenganyingprojectionframe/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13511
+wiki_total_pages: 13513
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "TianjieJack"
     title: "Tianjie Jack"
     url: "/wiki/entities/tianjiejack/"
+  - key: "Tianjin"
+    title: "Tianjin / 天津"
+    url: "/wiki/entities/tianjin/"
   - key: "TianjinUniversity"
     title: "Tianjin University / 天津大学"
     url: "/wiki/entities/tianjinuniversity/"

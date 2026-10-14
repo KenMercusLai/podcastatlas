@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 13511
+wiki_total_pages: 13513
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "QingDragonFlag"
     title: "Qing Dragon Flag / 大清龙旗"
     url: "/wiki/entities/qingdragonflag/"
+  - key: "Qishilin"
+    title: "Qishilin / 起士林"
+    url: "/wiki/entities/qishilin/"
   - key: "QixiFestival"
     title: "Qixi / 七夕"
     url: "/wiki/entities/qixifestival/"

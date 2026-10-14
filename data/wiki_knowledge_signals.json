@@ -27464,6 +27464,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/bayreuthfestival/"
     },
+    "BeanToBarConsumerLiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOo7CNAYAH8ATndKA- [GKwRIUEOo7CNAYAH8ATndKA-].md",
+          "key": "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka",
+          "show": "大小电波",
+          "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+          "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/beantobarconsumerliteracy/"
+    },
     "BeauBrummell": {
       "episode_count": 2,
       "show_count": 1,
@@ -46306,9 +46322,9 @@
       "url": "/wiki/entities/chinesepaladin4/"
     },
     "ChinesePremiumChocolateLocalization": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -46316,9 +46332,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "GKwRIUEOo7CNAYAH8ATndKA- [GKwRIUEOo7CNAYAH8ATndKA-].md",
+          "key": "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka",
+          "show": "大小电波",
+          "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+          "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/chinesepremiumchocolatelocalization/"
     },
     "ChineseProfessionalFootballLeague": {
@@ -64547,9 +64570,9 @@
       "url": "/wiki/entities/daxiawesternhan/"
     },
     "DaxiaoDianbo": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -64578,9 +64601,16 @@
           "show": "大小电波",
           "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
           "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
+        },
+        {
+          "episode_file": "GKwRIUEOo7CNAYAH8ATndKA- [GKwRIUEOo7CNAYAH8ATndKA-].md",
+          "key": "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka",
+          "show": "大小电波",
+          "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+          "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/daxiaodianbo/"
     },
     "DayNightLightImmuneSupport": {
@@ -223793,6 +223823,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/qiqiaoritualpractice/"
     },
+    "Qishilin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOo7CNAYAH8ATndKA- [GKwRIUEOo7CNAYAH8ATndKA-].md",
+          "key": "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka",
+          "show": "大小电波",
+          "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+          "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/qishilin/"
+    },
     "QiuLingsuGuLong": {
       "episode_count": 1,
       "show_count": 1,
@@ -269869,6 +269915,38 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tiangongultra/"
+    },
+    "Tianjin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOo7CNAYAH8ATndKA- [GKwRIUEOo7CNAYAH8ATndKA-].md",
+          "key": "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka",
+          "show": "大小电波",
+          "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+          "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/tianjin/"
+    },
+    "TianjinChocolateLocalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOo7CNAYAH8ATndKA- [GKwRIUEOo7CNAYAH8ATndKA-].md",
+          "key": "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka",
+          "show": "大小电波",
+          "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+          "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/tianjinchocolatelocalization/"
     },
     "TianjinGeneralHospital": {
       "episode_count": 3,

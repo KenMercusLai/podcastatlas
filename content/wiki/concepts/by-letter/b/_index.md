@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10549
+wiki_total_pages: 10551
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "BattlefieldVictoryPoliticalControl"
     title: "Battlefield Victory and Political Control"
     url: "/wiki/concepts/battlefieldvictorypoliticalcontrol/"
+  - key: "BeanToBarConsumerLiteracy"
+    title: "Bean-to-Bar Consumer Literacy"
+    url: "/wiki/concepts/beantobarconsumerliteracy/"
   - key: "BeautyAccessorization"
     title: "Beauty Accessorization / 美妆配饰化"
     url: "/wiki/concepts/beautyaccessorization/"

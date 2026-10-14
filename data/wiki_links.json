@@ -13271,6 +13271,10 @@
     "title": "Bayreuth Festival",
     "url": "/wiki/entities/bayreuthfestival/"
   },
+  "BeanToBarConsumerLiteracy": {
+    "title": "Bean-to-Bar Consumer Literacy",
+    "url": "/wiki/concepts/beantobarconsumerliteracy/"
+  },
   "BeauBrummell": {
     "title": "Beau Brummell",
     "url": "/wiki/entities/beaubrummell/"
@@ -72735,6 +72739,10 @@
     "title": "Qiqiao Ritual Practice",
     "url": "/wiki/concepts/qiqiaoritualpractice/"
   },
+  "Qishilin": {
+    "title": "Qishilin / 起士林",
+    "url": "/wiki/entities/qishilin/"
+  },
   "QishuiMusic": {
     "title": "汽水音乐 / Qishui Music",
     "url": "/wiki/entities/qishuimusic/"
@@ -87738,6 +87746,14 @@
   "TianjieJack": {
     "title": "Tianjie Jack",
     "url": "/wiki/entities/tianjiejack/"
+  },
+  "Tianjin": {
+    "title": "Tianjin / 天津",
+    "url": "/wiki/entities/tianjin/"
+  },
+  "TianjinChocolateLocalization": {
+    "title": "Tianjin Chocolate Localization / 天津巧克力本土化",
+    "url": "/wiki/concepts/tianjinchocolatelocalization/"
   },
   "TianjinGeneralHospital": {
     "title": "天津总医院 / Tianjin General Hospital",
@@ -103710,6 +103726,10 @@
   "female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121": {
     "title": "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims",
     "url": "/wiki/sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121/"
+  },
+  "fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka": {
+    "title": "风味吃喝：天津为什么是“巧克力痛城”？",
+    "url": "/wiki/sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka/"
   },
   "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx": {
     "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",

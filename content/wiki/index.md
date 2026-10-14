@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [风味吃喝：天津为什么是“巧克力痛城”？](sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka.md) — 大小电波从元宵、蒸饼、老品牌与家庭西餐追溯天津巧克力的市井本土化，并区分大众熟悉度与 Bean-to-Bar 消费认知。
 - [《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！](sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d.md) — 三庄墓群的规划支持泗水国陵区判断，但陈墩女性骨骼与“张廷意”印章不能直接合成为墓主身份或刘姓王族关系。
 - [高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？](sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593.md) — 声动早咖啡以很久以前羊肉串对比火锅，从市场分散、制作标准化、加盟与直营、消费时段和季节性解释烧烤连锁扩张约束。
 - [《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运](sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs.md) — 以向珍女殉死、刘向《列女传》与蔡文姬等例子批判把女性价值窄化为贞节和死亡，并以继续生活、智慧与尊严作为替代标准。
@@ -4711,6 +4712,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》](sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028.md) — 纸醉金迷FM以兵器谱讨论静态排名、动态状态、榜外高手、性别排除及心理与关系如何改变武功表现。
 
 ## Entities
+- [Tianjin / 天津](entities/Tianjin.md) — Port city whose familiar chocolate fillings and household Western foods exemplify vernacular cultural localization.
+- [Qishilin / 起士林](entities/Qishilin.md) — Tianjin legacy chocolate and Western-food brand balancing remembered flavor with contemporary formulation expectations.
 - [西汉河南地之战 / Western Han Henan Campaign](entities/HetaoCampaignWesternHan.md) — 卫青由云中经九原、高阙切断退路并从后方突袭的河套战役，胜利后仍需朔方建设才能转成长期控制。
 - [河套地区（西汉） / Hetao Region (Western Han)](entities/HetaoRegionWesternHan.md) — 兼具水草、马匹、黄河屏障、盐业与移民屯田价值的西汉北疆战略地区，并与现代人物 He Tao 明确消歧。
 - [朔方郡（西汉） / Shuofang Commandery (Western Han)](entities/ShuofangCommanderyWesternHan.md) — 将河套战果转成城防、行政、驻军、迁民、生产与资源管理的高成本西汉边郡项目。
@@ -18295,6 +18298,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
+- [Tianjin Chocolate Localization / 天津巧克力本土化](concepts/TianjinChocolateLocalization.md) — Process by which chocolate became ordinary through familiar Tianjin foods, shops, occasions, and memories.
+- [Bean-to-Bar Consumer Literacy](concepts/BeanToBarConsumerLiteracy.md) — Ability to judge chocolate through cacao origin, process, ingredients, flavor, and maker choices rather than generic sweetness.
 - [Barbecue Chain Scalability / 烧烤连锁规模化](concepts/BarbecueChainScalability.md) — Joint constraint framework linking local demand, cooking standardization, ownership, utilization, seasonality, and capital in barbecue-chain expansion.
 - [信任支持的财政履约 / Trust-Backed Fiscal Compliance](concepts/TrustBackedFiscalCompliance.md) — 困顿时因收成宽缓征收，以公平与民生支持积累信任，并在后续紧急义务中转化为合作履约的治理机制。
 - [Indian Film Lineage Access Boundary](concepts/IndianFilmLineageAccessBoundary.md) — Distinction between inherited entertainment access, unequal second chances, and the performance needed for a durable career.
