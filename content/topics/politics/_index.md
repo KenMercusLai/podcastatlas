@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3329
+topic_total_pages: 3332
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -364,6 +364,9 @@ topic_concepts:
   - key: "ArtDignityUnderPoliticalPressure"
     title: "Art Dignity Under Political Pressure"
     url: "/wiki/concepts/artdignityunderpoliticalpressure/"
+  - key: "AsilomarConferenceGovernance"
+    title: "Asilomar Conference Governance"
+    url: "/wiki/concepts/asilomarconferencegovernance/"
   - key: "AssassinationAccessCredential"
     title: "Assassination Access Credential / 刺杀接近凭证"
     url: "/wiki/concepts/assassinationaccesscredential/"
@@ -2704,6 +2707,9 @@ topic_concepts:
   - key: "MoralizedWarPretext"
     title: "Moralized War Pretext / 道德化战争借口"
     url: "/wiki/concepts/moralizedwarpretext/"
+  - key: "MoratoriumDistributionalBurden"
+    title: "Moratorium Distributional Burden"
+    url: "/wiki/concepts/moratoriumdistributionalburden/"
   - key: "MorningMarketUrbanism"
     title: "Morning Market Urbanism / 早市城市主义"
     url: "/wiki/concepts/morningmarketurbanism/"
@@ -9477,6 +9483,9 @@ topic_sources:
   - key: "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861"
     title: "Vol.275 澳洲保健品是怎么火起来的？"
     url: "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+  - key: "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793"
+    title: "Wanna slow down AI? These biologists can help."
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
   - key: "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128"
     title: "Welcome to the 'infocalypse'"
     url: "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"

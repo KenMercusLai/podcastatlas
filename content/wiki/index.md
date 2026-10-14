@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Wanna slow down AI? These biologists can help.](sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793.md) — Planet Money uses the recombinant-DNA moratorium and Asilomar conference to connect AI collective action with liability, risk tiers, funding-backed enforcement, and unequal career costs.
 - [No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上](sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv.md) — 半拿铁从乔瓦尼到洛伦佐重述美第奇银行、佛罗伦萨政治与文艺复兴，并把艺术还原为由赞助、合同、材料、工程和制度共同组织的生产体系。
 - [AI 管理瑞幸咖啡店，員工為什麼越來越累？](sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461.md) — 端聞以瑞幸门店访谈追踪算法排班如何遗漏清洁、培训与现场波动，并把预测误差转为减员、指标博弈和无偿劳动。
 - [Kicking Kyiv: Trump’s doubtful deals](sources/kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5.md) — Economist episode on asymmetric Ukraine energy bargaining, private wartime infrastructure, India’s expanding Cockroach Movement, and the conditions for inclusive group singing.
@@ -4719,6 +4720,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？](sources/c1f006c2d282-c1f006c2d282.md) — 科技乱炖 episode on agentic Linux, disposable software, feature commoditization, durable service moats, open-source review capacity, and agent-facing system interfaces.
 
 ## Entities
+- [Janet Mertz](entities/JanetMertz.md) — Molecular biologist whose halted recombinant-DNA experiment reveals both the public value and concentrated career cost of the Asilomar pause.
+- [Paul Berg](entities/PaulBerg.md) — Molecular biologist who stopped a proposed experiment and helped turn recombinant-DNA risk into a temporary field-wide safety process.
 - [Giovanni di Bicci de' Medici / 乔瓦尼·德·美第奇](entities/GiovanniDiBicciDeMedici.md) — Medici Bank founder linking papal finance, partner-run branches, credit discipline, reputational loyalty, restrained politics, and early civic patronage.
 - [Filippo Brunelleschi / 菲利波·布鲁内莱斯基](entities/FilippoBrunelleschi.md) — Florentine architect-engineer whose dome joined structural invention, machinery, material economy, and long-duration civic production.
 - [Kate Moran](entities/KateMoran.md) — User-experience researcher connecting consumer AI value to concrete needs, voluntary return behavior, and visible privacy and control tradeoffs.
@@ -18311,6 +18314,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Omarchy](entities/Omarchy.md) — Arch Linux-based distribution used as an early case of agent-assisted configuration, repair, and personal workflow construction.
 
 ## Concepts
+- [Asilomar Conference Governance](concepts/AsilomarConferenceGovernance.md) — Hybrid model joining expert-designed risk tiers and containment rules to liability and public-funder enforcement.
+- [Moratorium Distributional Burden](concepts/MoratoriumDistributionalBurden.md) — Unequal career, priority, resource, and voice costs imposed by collectively beneficial pauses.
 - [Renaissance Patronage Production System / 文艺复兴赞助生产体系](concepts/RenaissancePatronageProductionSystem.md) — Ecology joining finance, patrons, guilds, churches, contracts, materials, engineering, labor, inspection, maintenance, and artistic authorship.
 - [Algorithmic Workforce Scheduling / 算法劳动力排班](concepts/AlgorithmicWorkforceScheduling.md) — How demand models allocate paid hours and transfer omitted tasks or asymmetric forecast errors to workers.
 - [Manager Discretion Under Automation / 自动化下的管理者裁量](concepts/ManagerDiscretionUnderAutomation.md) — Whether local managers retain bounded authority to correct system decisions while remaining accountable for outcomes.

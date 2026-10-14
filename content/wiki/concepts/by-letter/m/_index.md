@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10563
+wiki_total_pages: 10565
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "MoralizedWarPretext"
     title: "Moralized War Pretext / 道德化战争借口"
     url: "/wiki/concepts/moralizedwarpretext/"
+  - key: "MoratoriumDistributionalBurden"
+    title: "Moratorium Distributional Burden"
+    url: "/wiki/concepts/moratoriumdistributionalburden/"
   - key: "MorganaticMarriage"
     title: "Morganatic Marriage"
     url: "/wiki/concepts/morganaticmarriage/"

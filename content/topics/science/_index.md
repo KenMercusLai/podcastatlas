@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1577
+topic_total_pages: 1579
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -175,6 +175,9 @@ topic_concepts:
   - key: "ArtificialHeartBridgeTherapy"
     title: "Artificial Heart Bridge Therapy"
     url: "/wiki/concepts/artificialheartbridgetherapy/"
+  - key: "AsilomarConferenceGovernance"
+    title: "Asilomar Conference Governance"
+    url: "/wiki/concepts/asilomarconferencegovernance/"
   - key: "AssistedDeathClinicalResponsibility"
     title: "Assisted Death Clinical Responsibility"
     url: "/wiki/concepts/assisteddeathclinicalresponsibility/"
@@ -4662,6 +4665,9 @@ topic_sources:
   - key: "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744"
     title: "Wake-up haul: an Ozempic moment for the brain"
     url: "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+  - key: "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793"
+    title: "Wanna slow down AI? These biologists can help."
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
   - key: "scim5670648609-scim5670648609"
     title: "Welcome to the Huberman Lab Podcast"
     url: "/wiki/sources/scim5670648609-scim5670648609/"

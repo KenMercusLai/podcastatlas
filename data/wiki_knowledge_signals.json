@@ -4942,9 +4942,9 @@
       "url": "/wiki/concepts/aisafetycomputedemand/"
     },
     "AISafetyCoordination": {
-      "episode_count": 7,
-      "show_count": 3,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 4,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
@@ -4994,9 +4994,16 @@
           "show": "Data Science With Sam",
           "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
           "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793 [default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793].md",
+          "key": "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793",
+          "show": "Planet Money",
+          "title": "Wanna slow down AI? These biologists can help.",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/aisafetycoordination/"
     },
     "AISafetyWorkerCulture": {
@@ -20616,6 +20623,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/asianwomenadvancingai/"
+    },
+    "AsilomarConferenceGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793 [default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793].md",
+          "key": "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793",
+          "show": "Planet Money",
+          "title": "Wanna slow down AI? These biologists can help.",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/asilomarconferencegovernance/"
     },
     "AskTheHeartTVDrama": {
       "episode_count": 1,
@@ -134603,9 +134626,9 @@
       "url": "/wiki/concepts/incacivilwar/"
     },
     "IncentiveCompatibleAISafety": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260916_MP_TECH_pod_128 [tech_20260916_MP_TECH_pod_128].md",
@@ -134613,9 +134636,16 @@
           "show": "Marketplace Tech",
           "title": "AI safety requires action, not promises",
           "url": "/wiki/sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793 [default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793].md",
+          "key": "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793",
+          "show": "Planet Money",
+          "title": "Wanna slow down AI? These biologists can help.",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/incentivecompatibleaisafety/"
     },
     "IncheonInternationalAirport": {
@@ -142424,6 +142454,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/janelleshane/"
+    },
+    "JanetMertz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793 [default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793].md",
+          "key": "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793",
+          "show": "Planet Money",
+          "title": "Wanna slow down AI? These biologists can help.",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/janetmertz/"
     },
     "JapanAIDSBloodProductsIncident": {
       "episode_count": 1,
@@ -189083,6 +189129,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/moralslanderreframing/"
     },
+    "MoratoriumDistributionalBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793 [default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793].md",
+          "key": "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793",
+          "show": "Planet Money",
+          "title": "Wanna slow down AI? These biologists can help.",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/moratoriumdistributionalburden/"
+    },
     "MorganHousel": {
       "episode_count": 1,
       "show_count": 1,
@@ -207341,6 +207403,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/paulbarras/"
+    },
+    "PaulBerg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793 [default.mp3_ywr3ahjkcgo_7cc2a990b990bf389f3660c210d1090e_31006793].md",
+          "key": "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793",
+          "show": "Planet Money",
+          "title": "Wanna slow down AI? These biologists can help.",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/paulberg/"
     },
     "PaulConti": {
       "episode_count": 8,

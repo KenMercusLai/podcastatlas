@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13518
+wiki_total_pages: 13520
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "PaulBarras"
     title: "Paul Barras"
     url: "/wiki/entities/paulbarras/"
+  - key: "PaulBerg"
+    title: "Paul Berg"
+    url: "/wiki/entities/paulberg/"
   - key: "PaulBrown"
     title: "Paul Brown"
     url: "/wiki/entities/paulbrown/"

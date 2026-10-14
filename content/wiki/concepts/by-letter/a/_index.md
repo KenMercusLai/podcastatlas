@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10563
+wiki_total_pages: 10565
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2636,6 +2636,9 @@ wiki_pages:
   - key: "ASICWorkloadPredictionRisk"
     title: "ASIC Workload Prediction Risk"
     url: "/wiki/concepts/asicworkloadpredictionrisk/"
+  - key: "AsilomarConferenceGovernance"
+    title: "Asilomar Conference Governance"
+    url: "/wiki/concepts/asilomarconferencegovernance/"
   - key: "AspirationalEmotionalPremium"
     title: "Aspirational Emotional Premium / 向往感溢价"
     url: "/wiki/concepts/aspirationalemotionalpremium/"
