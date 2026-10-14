@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3324
+topic_total_pages: 3325
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4672,6 +4672,9 @@ topic_concepts:
   - key: "FrontierTrustThroughProtection"
     title: "保护换信任式边疆安抚 / Frontier Trust Through Protection"
     url: "/wiki/concepts/frontiertrustthroughprotection/"
+  - key: "TrustBackedFiscalCompliance"
+    title: "信任支持的财政履约 / Trust-Backed Fiscal Compliance"
+    url: "/wiki/concepts/trustbackedfiscalcompliance/"
   - key: "CultivatedImperialCapacity"
     title: "修养型帝王能力 / Cultivated Imperial Capacity"
     url: "/wiki/concepts/cultivatedimperialcapacity/"

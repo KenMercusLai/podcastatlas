@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能](sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq.md) — 王温舒以选择性执法、狱政暴力和关系网络制造恐惧，兒宽则以恤农、缓刑和税收宽限积累合作，结尾开启赵婴齐入侍长安的南越线。
 - [Beyond The Legacy: Neil Nitin Mukesh on Bollywood, Identity and AI | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987.md) — Tomorrow Today interview on family legacy, acting craft, access, role choice, multilingual cinema, responsibility, and AI preservation.
 - [番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？](sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8.md) — 半拿铁现场圆桌以体验、收藏、IP、社区服务与品牌案例区分情绪价值、可持续小生意、规模化公司和投资机会。
 - [Colleges are training the next generation of content creators](sources/tech-20261013-1013-mp-tech-pod-128-tech-20261013-1013-mp-tech-pod-128.md) — Marketplace Tech profile of formal creator education, analytics-driven production practice, creative autonomy, and digital portfolios beyond influencer fame.
@@ -5607,7 +5608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵禹 / Zhao Yu (Western Han)](entities/ZhaoYuWesternHan.md) — 以拒绝请托维护独立、却因严法与苛刻被周亚夫质疑能否承担重任的西汉酷吏。
 - [司马谈 / Sima Tan (Western Han)](entities/SimaTanWesternHan.md) — 司马迁之父与太史令，其名字影响《史记》避讳异文，并在本期被列为甘泉太一三年一祭建议者。
 - [安国少季 / An Guo Shaoji (Western Han)](entities/AnGuoShaoJiWesternHan.md) — 汉使与樛太后旧日亲密关系人，其个人接近成为南越归汉交涉的一条政治渠道。
-- [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
+- [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 入侍长安后继位，藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
 - [赵胡 / Zhao Hu (Nanyue)](entities/ZhaoHuNanyue.md) — 兼具内部帝号象征与对汉安全依赖、事后谢汉并送太子入侍，却因担忧失国而拒绝亲自朝见的南越第二代国王。
 - [赵兴 / Zhao Xing (Nanyue)](entities/ZhaoXingNanyue.md) — 倾向随母亲樛太后归附汉朝，却未能压制吕嘉并在政变中被杀、由赵建德取代的南越第四代国王。
 - [樛太后 / Queen Dowager Jiu (Nanyue)](entities/QueenDowagerJiuNanyue.md) — 支持南越归汉、试图推动宴席除去吕嘉，后被吕嘉以汉人出身和使者关系攻击并杀害的王太后。
@@ -5633,7 +5634,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 先在汉军压力下杀兄止战并凭地方实权获封东越王，后因骑墙、杀汉官与自立帝号触发征讨，最终被内部倒戈者杀死。
 - [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — 兼具草原路线向导、地理报告、外交网络开拓、军事迟援受罚与中央调查角色的西汉使者。
 - [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
-- [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。
+- [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 以恤农、缓刑、因收成宽税积累官民信任，后又把无经书成法的封禅裁制归于汉武帝并参与太初历项目的西汉官员。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHanEnvoy.md) — 汉武帝北巡时向匈奴单于传达战或降最后通牒、随后被扣押迁往北海方向的西汉使者。
 - [桥山 / Qiaoshan](entities/Qiaoshan.md) — 节目所述黄帝冢与汉武帝祭祀地点，把帝国巡行、祖先记忆和合法性叙事连接起来。
 - [《白头吟》 / Bai Tou Yin](entities/BaiTouYin.md) — 被节目置于司马相如纳妾传说中的忠贞回应诗，其名句、作者、文本流传和婚姻效果按证据边界分层保留。
@@ -5675,7 +5676,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Liu Jian's politically vulnerable royal daughter, sent to Wusun, compelled to carry the alliance across a succession remarriage, and remembered through the attributed 《悲愁歌》.
 - [猎骄靡 / Liejiaomi](entities/LiejiaomiWusun.md) — Xiongnu-supported Wusun restorer who later seeks a Han bride, balances rival princesses, and carries the alliance into his grandson's succession.
 - [军须靡 / Junxumi](entities/JunxumiWusun.md) — Wusun successor who marries Liu Xijun and later Princess Xieyou, linking two Han marriage missions.
-- [王温舒 / Wang Wenshu (Western Han)](entities/WangWenshuWesternHan.md) — 汉武帝时期以严酷立威、最终因贪诈指控自杀并牵出多户族灭的酷吏。
+- [王温舒 / Wang Wenshu (Western Han)](entities/WangWenshuWesternHan.md) — 以关系网络、选择性执法、狱政暴力和恐惧立威，最终因贪诈指控自杀并牵出多户族灭的汉武帝时期酷吏。
 - [Thomas Dixon Jr.](entities/ThomasDixonJr.md) — Lost Cause novelist whose racist Reconstruction fiction supplied the narrative and imagery behind The Birth of a Nation.
 - [D. W. Griffith](entities/DWGriffith.md) — Film director whose technical innovation in The Birth of a Nation amplified racist mythology and imagery later adopted by the second Klan.
 - [The Birth of a Nation](entities/BirthOfANation.md) — 1915 film that joined cinematic innovation to white-supremacist Reconstruction propaganda and second-Klan symbolic formation.
@@ -18272,6 +18273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
 
 ## Concepts
+- [信任支持的财政履约 / Trust-Backed Fiscal Compliance](concepts/TrustBackedFiscalCompliance.md) — 困顿时因收成宽缓征收，以公平与民生支持积累信任，并在后续紧急义务中转化为合作履约的治理机制。
 - [Indian Film Lineage Access Boundary](concepts/IndianFilmLineageAccessBoundary.md) — Distinction between inherited entertainment access, unequal second chances, and the performance needed for a durable career.
 - [Narrative Indispensability Role Selection](concepts/NarrativeIndispensabilityRoleSelection.md) — Acting-role criterion based on whether removing a character would materially change the story.
 - [Emotional Consumption Scalability / 情绪消费规模化](concepts/EmotionalConsumptionScalability.md) — 解释个性化、信任与社群如何提高情绪价值，却也限制标准化、跨地域复制和资本规模。

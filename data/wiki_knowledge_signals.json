@@ -194724,9 +194724,9 @@
       "url": "/wiki/entities/nguyenvanthieu/"
     },
     "NiKuanWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
@@ -194741,9 +194741,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》",
           "url": "/wiki/sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能 [lq8dNr8NA0kC7jqQMQRU249IcHwq].md",
+          "key": "zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/nikuanwesternhan/"
     },
     "NiKuang": {
@@ -273386,6 +273393,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/trumpcoalitionfragmentation/"
     },
+    "TrustBackedFiscalCompliance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能 [lq8dNr8NA0kC7jqQMQRU249IcHwq].md",
+          "key": "zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/trustbackedfiscalcompliance/"
+    },
     "TrustBasedCommonsGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -283036,9 +283059,9 @@
       "url": "/wiki/entities/wangweiweiwesternhan/"
     },
     "WangWenshuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？ [lg0MdVsYLLJhZildXX-sHad76RRH].md",
@@ -283053,9 +283076,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长",
           "url": "/wiki/sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能 [lq8dNr8NA0kC7jqQMQRU249IcHwq].md",
+          "key": "zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/wangwenshuwesternhan/"
     },
     "WangWuWesternHan": {
@@ -305365,9 +305395,9 @@
       "url": "/wiki/entities/zhaohedewesternhan/"
     },
     "ZhaoHuNanyue": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -305389,9 +305419,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》256｜余善杀兄降汉，却给他人做了嫁衣",
           "url": "/wiki/sources/zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能 [lq8dNr8NA0kC7jqQMQRU249IcHwq].md",
+          "key": "zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/zhaohunanyue/"
     },
     "ZhaoHuWesternHan": {
@@ -306113,9 +306150,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZhaoYingqiNanyue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -306123,9 +306160,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能 [lq8dNr8NA0kC7jqQMQRU249IcHwq].md",
+          "key": "zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/zhaoyingqinanyue/"
     },
     "ZhaoYuWesternHan": {

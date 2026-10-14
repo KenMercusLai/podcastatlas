@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10546
+wiki_total_pages: 10547
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "TrustedEunuchPowerFormation"
     title: "信任型宦官权力形成 / Trusted Eunuch Power Formation"
     url: "/wiki/concepts/trustedeunuchpowerformation/"
+  - key: "TrustBackedFiscalCompliance"
+    title: "信任支持的财政履约 / Trust-Backed Fiscal Compliance"
+    url: "/wiki/concepts/trustbackedfiscalcompliance/"
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"

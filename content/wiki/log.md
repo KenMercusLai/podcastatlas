@@ -36835,3 +36835,10 @@ Added source `defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-14] ingest | 《资治通鉴·汉纪》348-2｜酷吏王温舒 #前方高能
+
+Added source `zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq`; created [[TrustBackedFiscalCompliance|信任支持的财政履约]]; and resynthesized [[WangWenshuWesternHan|王温舒]], [[NiKuanWesternHan|兒宽]], [[ZhaoHuNanyue|赵胡]], and [[ZhaoYingqiNanyue|赵婴齐]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wang's renewed zhongwei service continues a status-sensitive coercive network in which some strongmen are disciplined while connected offenders, prison violence, and subordinate enrichment survive; Ni Kuan's harvest-sensitive collection, humane administration, and tolerated arrears are presented as building the cooperation later mobilized to meet an urgent grain obligation; and Zhao Yingqi's Chang'an service opens a succession-influence channel without producing full later submission. No settled contradiction was adopted. Legal cases, prison deaths, official wealth, Ni's education and tax accounting, the voluntariness and ranking of grain delivery, court-service terms, and Wudi's private cultivation strategy remain source-scoped. Broad [[HanWudi|汉武帝]], [[Nanyue|南越]], [[ZhaoYuWesternHan|赵禹]], and show pages were kept closed because focused pages capture the durable additions without reopening much larger or minimally changed evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,615 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
   - zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16
   - zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz
-last_updated: 2026-10-08
+  - zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq
+last_updated: 2026-10-14
 ---
 
 ## Overview
 
-赵胡 / Zhao Hu is presented as the second ruler of [[Nanyue|南越]] and the dynastic bridge between founder [[ZhaoTuo|赵佗]] and [[ZhaoYingqiNanyue|赵婴齐]]. His current evidence joins internal imperial-style symbolism to selective external dependence: he seeks Han help against Minyue-Dongyue, offers deference afterward, but declines personal court attendance when advisers warn that it could end local autonomy.
+赵胡 / Zhao Hu is presented as the second ruler of [[Nanyue|南越]] and the dynastic bridge between founder [[ZhaoTuo|赵佗]] and [[ZhaoYingqiNanyue|赵婴齐]]. His current evidence joins internal imperial-style symbolism to selective external dependence: he seeks Han help against Minyue-Dongyue, sends his heir for court service in gratitude, but declines personal court attendance when advisers warn that it could end local autonomy.
 
 ## Current Profile
 
@@ -22,6 +23,8 @@ Hanji 269-1 adds an interstate-security layer. When Dongyue attacks, Zhao Hu see
 
 Hanji 256 fills the diplomatic aftermath. Zhao Hu thanks Han through envoy [[YanZhuWesternHan|严助]], offers Zhao Yingqi for court service, and says he will prepare to visit the emperor. After Yan Zhu leaves, Nanyue ministers warn that entering Han territory could turn gratitude into detention and loss of the kingdom. Zhao Hu abandons his own trip, making court attendance a concrete boundary between formal deference and effective autonomy.
 
+Hanji 348-2 restates the heir-dispatch branch and gives it a longer strategic interpretation: Wudi receives Zhao Yingqi not merely as a token of thanks but as a future ruler whom the court might cultivate toward compliance. Because the episode ends at that intention, the later evidence controls the judgment: court service creates influence and familiarity, yet Zhao Yingqi as king still protects practical autonomy.
+
 Together the sources show that autonomy and dependence can coexist. Zhao Hu reportedly retains an internal imperial seal, uses his recognized relationship with Han to request military support, and offers post-crisis deference without personally entering the institutional reach he fears. The sources do not supply his wider reign or the precise diplomatic terms.
 
 ## Key Characteristics
@@ -29,7 +32,7 @@ Together the sources show that autonomy and dependence can coexist. Zhao Hu repo
 - Second Nanyue ruler in the succession presented by the episode.
 - Preserver of Zhao Tuo's imperial seal.
 - Reported commissioner of a “Nanyue Wendi” seal for himself.
-- Dynastic link between Zhao Tuo and Zhao Yingqi.
+- Dynastic link between Zhao Tuo and Zhao Yingqi who sends his heir into Han court service while remaining outside the court's direct reach himself.
 - Evidence in the source's model of outward submission and internal imperial-style rule.
 - Ruler who asks Han for aid after a Dongyue attack.
 - Grateful but bounded subordinate who abandons personal court attendance after local warning.
@@ -40,15 +43,16 @@ Together the sources show that autonomy and dependence can coexist. Zhao Hu repo
 - Succession role: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] identifies him as Zhao Yingqi's father and predecessor.
 - Security dependence: [[zizhi-tongjian-hanji-269-yi-ping-jiang-yinfa-de-nansilu-kaijiang-chuanqi-1-loe31qgnwv58lsdt_bb8-zafyw16|Hanji 269-1]] says Zhao Hu asks Han for help when Dongyue attacks Nanyue.
 - Attendance boundary: [[zizhi-tongjian-hanji-256-yushan-shaxiong-jianghan-que-gei-taren-zuole-jiayi-liyrk7lpamf8gg8czoglxqxhwpwz|Hanji 256]] says Zhao Hu thanks Han, offers Zhao Yingqi for court service, but abandons his own proposed audience after ministers warn of loss of autonomy.
+- Succession influence: [[zizhi-tongjian-hanji-348-2-kuli-wangwenshu-qianfang-gaoneng-lq8dnr8na0kc7jqqmqru249ichwq|Hanji 348-2]] frames Zhao Yingqi's Chang'an service as an opening for Wudi to cultivate a future Nanyue ruler.
 
 ## Qualifications
 
-This profile is bounded to three short popular-history summaries. The precise inscription, dating, use, and institutional meaning of the reported seals are not independently established here. Hanji 269-1 does not give the aid request's diplomatic text, attack scale, or full chronology. Hanji 256 does not establish the exact court-service arrangement, whether Zhao Yingqi had already departed at the moment described, or Zhao Hu's private intent. The sources do not provide alternate-name traditions, a full biography, reign chronology, or court structure.
+This profile is bounded to four short popular-history summaries. The precise inscription, dating, use, and institutional meaning of the reported seals are not independently established here. Hanji 269-1 does not give the aid request's diplomatic text, attack scale, or full chronology. Hanji 256 does not establish the exact court-service arrangement, whether Zhao Yingqi had already departed at the moment described, or Zhao Hu's private intent. Hanji 348-2 does not independently prove that Wudi's primary purpose was to produce a compliant successor. The sources do not provide alternate-name traditions, a full biography, reign chronology, or court structure.
 
 ## What Changed
 
-- Added Zhao Hu's post-rescue gratitude, Zhao Yingqi court-service offer, and abandoned personal audience.
-- Made court attendance the practical limit separating selective reliance from full institutional exposure.
+- Clarified that sending Zhao Yingqi creates a succession-influence channel while Zhao Hu's own nonattendance preserves a boundary against direct exposure.
+- Qualified Wudi's cultivation strategy through Zhao Yingqi's later defense of practical Nanyue autonomy.
 
 ## Relationships
 
