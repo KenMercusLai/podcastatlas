@@ -36897,3 +36897,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | 046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》
+
+Added source `ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028`; created [[WeaponsRankingGuLong|兵器谱]], [[BaiXiaoshengGuLong|百晓生]], [[ShangguanJinhongGuLong|上官金虹]], [[SunXiaohongGuLong|孙小红]], [[AFeiGuLong|阿飞]], [[JingWumingGuLong|荆无命]], and [[StaticRankingDynamicPerformance|静态排名与动态表现]]; and resynthesized [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]], [[LiXunhuan|李寻欢]], and [[GuLong|古龙]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 兵器谱 is a credible but time-bound social map whose predictions can be altered by age, practice, state, opportunity, hidden skill, exclusion, and choice; the gap lets Gu Long establish Jianghu order while preserving suspense. No settled contradiction was adopted. Exact ranks, cross-work martial claims, hidden techniques, relationship meanings, compiler motives, and alternative rankings remain fictional, interpretive, or source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis refreshed one dirty topic, compacted the global artifact because its material-change gate was due, and validated 4,623 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-13
-as_of_overview_commit: d030730fc48a46910a61a3f575f4478966f3337c
+last_updated: 2026-10-14
+as_of_overview_commit: a5bf733c1c77a62b759e38838c21d6dffad037c2
 summary: "Across domains, durable value depends on evidence, institutional function, implementation, accountability, context, relationships, and explicit limits."
-episode_count: 4614
-source_count: 4614
-paragraph_count: 802
+episode_count: 4623
+source_count: 4623
+paragraph_count: 803
 topic_count: 9
 ---
 
@@ -68,7 +68,7 @@ Historical power depends on legitimacy, logistics, finance, coalitions, command,
 
 ### Psychology and Personal Development
 
-Contextual judgment keeps function above labels, regulation responsive to bodily and relational state, trust and moral principle bounded by cost-aware responsibility, and narrative examples distinct from diagnosis.
+Contextual judgment keeps function above labels and static rankings, regulation and performance responsive to bodily and relational state, trust and moral principle bounded by responsibility, and narrative examples distinct from diagnosis.
 
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]]. Evidence: [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[ChildMentalHealthFamilySystemsSupport]], [[DreamDistressAndParasomniaEscalation]].
 - Regulation and self-trust emerge through a combined repertoire of body awareness, movement, emotional differentiation, cognitive reappraisal, grounding, environmental adjustment, and safe co-regulation rather than through willpower or insight alone, linking [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], and [[BrainBodyEmotionMapping]]. Evidence: [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], [[BrainBodyEmotionMapping]], [[EmotionalGranularity]], [[EmotionalFlashbackGrounding]], [[MovementPracticeAsAwareness]], [[StressResponseRecovery]].

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10548
+wiki_total_pages: 10549
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2000,6 +2000,9 @@ wiki_pages:
   - key: "StatewideLeftPrimaryTest"
     title: "Statewide Left Primary Test"
     url: "/wiki/concepts/statewideleftprimarytest/"
+  - key: "StaticRankingDynamicPerformance"
+    title: "Static Ranking and Dynamic Performance / 静态排名与动态表现"
+    url: "/wiki/concepts/staticrankingdynamicperformance/"
   - key: "StaticStretchingDoseProtocol"
     title: "Static Stretching Dose Protocol"
     url: "/wiki/concepts/staticstretchingdoseprotocol/"

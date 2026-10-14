@@ -98,9 +98,10 @@
       "id": "social-categories-shape-perception-and-power",
       "qualifications": [
         "A literary reversal does not prove that a corpus escapes prejudice, and a commercial or political signal does not prove underlying virtue or quality.",
-        "Gender, class, nationality, diagnosis, professional role, and public reputation require contextual evidence rather than deterministic inference."
+        "Gender, class, nationality, diagnosis, professional role, public reputation, and rank require contextual evidence rather than deterministic inference.",
+        "The weapons-ranking case is fictional and does not validate a general measurement model or an alternative objective ordering."
       ],
-      "statement": "Social roles, stereotypes, status signals, reputation, and institutional categories actively shape perception and behavior—from [[SocialStereotypeMisdirection]] and romantic marketplaces to workplace bullying, consumer trust, and political legitimacy—so observers must distinguish useful shorthand from self-fulfilling or coercive classification.",
+      "statement": "Social roles, stereotypes, status signals, reputation, institutional categories, and public rankings actively shape perception and behavior; [[StaticRankingDynamicPerformance]] adds that even a useful hierarchy such as [[WeaponsRankingGuLong|兵器谱]] remains a bounded snapshot when time, state, opportunity, exclusion, and interaction change actual performance.",
       "status": "qualified",
       "supporting_wikilinks": [
         "SocialStereotypeMisdirection",
@@ -109,7 +110,9 @@
         "ConstructedCategoryTrust",
         "HumanAuthorshipPremium",
         "SelectionDrivenVirtueSignaling",
-        "MingqiLegitimacy"
+        "MingqiLegitimacy",
+        "StaticRankingDynamicPerformance",
+        "WeaponsRankingGuLong"
       ]
     },
     {
@@ -169,6 +172,6 @@
       ]
     }
   ],
-  "summary": "Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation is state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.",
+  "summary": "Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels or static rankings, regulation and performance are state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.",
   "topic_id": "psychology-and-personal-development"
 }

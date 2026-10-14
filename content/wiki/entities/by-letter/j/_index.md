@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13505
+wiki_total_pages: 13511
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "Jingzhou"
     title: "荆州 / Jingzhou"
     url: "/wiki/entities/jingzhou/"
+  - key: "JingWumingGuLong"
+    title: "荆无命（古龙人物） / Jing Wuming (Gu Long character)"
+    url: "/wiki/entities/jingwuminggulong/"
   - key: "JingKe"
     title: "荆轲 / Jing Ke"
     url: "/wiki/entities/jingke/"

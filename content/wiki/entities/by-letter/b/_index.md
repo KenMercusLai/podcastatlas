@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13505
+wiki_total_pages: 13511
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1667,6 +1667,9 @@ wiki_pages:
   - key: "BaiduTieba"
     title: "百度贴吧 / Baidu Tieba"
     url: "/wiki/entities/baidutieba/"
+  - key: "BaiXiaoshengGuLong"
+    title: "百晓生（古龙人物） / Bai Xiaosheng (Gu Long character)"
+    url: "/wiki/entities/baixiaoshenggulong/"
   - key: "Baiyue"
     title: "百越 / Baiyue"
     url: "/wiki/entities/baiyue/"

@@ -802,12 +802,13 @@
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61",
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2",
-      "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579"
+      "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579",
+      "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73"
     ],
-    "paragraph_count": 802
+    "paragraph_count": 803
   },
-  "overview_commit": "0a0c87ac9dfff9d8d19e63a77aa9a76f89ffc59c",
-  "overview_digest": "21acc53c2ad16e72a9fd4b51ceb305c30ea9692c63fc0e9a00be081a63037616",
+  "overview_commit": "a5bf733c1c77a62b759e38838c21d6dffad037c2",
+  "overview_digest": "ab352e505fadd5c24a77b24928f2bf1f604e4b254c7b8f8a2628151fe9768264",
   "paragraphs": [
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
@@ -23397,6 +23398,31 @@
         "HubermanLab",
         "StrengthHypertrophyProgramming",
         "build-your-ideal-physique-dr-bret-contreras-scim9379909181"
+      ]
+    },
+    {
+      "id": "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest literary addition is [[ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028|046 百晓生“兵器谱”到底靠不靠谱？]], a [[ZhiZuiJinMiFM|纸醉金迷FM]] discussion extending [[GuLong|古龙]], [[SentimentalSwordsmanRuthlessSword|《多情剑客无情剑》]], and [[LiXunhuan|李寻欢]]. It adds [[WeaponsRankingGuLong|兵器谱]], [[BaiXiaoshengGuLong|百晓生]], [[ShangguanJinhongGuLong|上官金虹]], [[SunXiaohongGuLong|孙小红]], [[AFeiGuLong|阿飞]], [[JingWumingGuLong|荆无命]], and [[StaticRankingDynamicPerformance|静态排名与动态表现]]. Its core synthesis is that a ranking can provide a credible snapshot without predicting every later encounter: age, continued practice, injury, psychology, concealed technique, exclusion, matchup, and opportunity determine whether ability becomes performance. Gu Long uses that gap to create order and then restore suspense, while attachment can disable, dominate, or support growth rather than obey one universal martial law. No settled contradiction is adopted. Exact ranks, cross-work comparisons, hidden techniques, relationship meanings, gender counter-rankings, motives, and authorial design remain fictional, interpretive, or source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AFeiGuLong",
+        "BaiXiaoshengGuLong",
+        "GuLong",
+        "JingWumingGuLong",
+        "LiXunhuan",
+        "SentimentalSwordsmanRuthlessSword",
+        "ShangguanJinhongGuLong",
+        "StaticRankingDynamicPerformance",
+        "SunXiaohongGuLong",
+        "WeaponsRankingGuLong",
+        "ZhiZuiJinMiFM",
+        "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028"
       ]
     }
   ],

@@ -4708,6 +4708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁](sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um.md) — 文化有限以《白鲸》的捕鲸复仇主线连接百科式小说、海上劳动、产业史、宗教、经验知识、目标身份锁定及 AI 时代的媒介边界。
 - [Unrest in peace: misery in Gaza](sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088.md) — Economist Podcasts episode on Gaza's unimplemented reconstruction plan, licensed AI-music experiments, and the capacity constraints behind Japan's matcha boom.
 - [《资治通鉴·汉纪》349-1｜汉武帝：赵婴齐，你要老婆不要？](sources/zizhi-tongjian-hanji-349-1-hanwudi-zhaoyingqi-ni-yao-laopo-buyao-lkisr6mgk0rowgldt35k_b-cit-w.md) — 芮淇讲透资治通鉴以赵婴齐十二年长安宿卫、婚姻安排和回国后的有限服从讨论质子培养、亲密影响与控制边界。
+- [046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》](sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028.md) — 纸醉金迷FM以兵器谱讨论静态排名、动态状态、榜外高手、性别排除及心理与关系如何改变武功表现。
 
 ## Entities
 - [西汉河南地之战 / Western Han Henan Campaign](entities/HetaoCampaignWesternHan.md) — 卫青由云中经九原、高阙切断退路并从后方突袭的河套战役，胜利后仍需朔方建设才能转成长期控制。
@@ -18286,6 +18287,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ahab / 亚哈船长](entities/CaptainAhab.md) — 将断腿、衰老与长期牺牲压缩为复仇目标，并把私人意义危机转成全船风险的悲剧船长。
 - [Ishmael / 以实玛利（《白鲸》）](entities/IshmaelMobyDick.md) — 以出海逃离忧郁并通过劳动、陌生性与好奇心扩大认知世界的《白鲸》叙述者。
 - [Kagoshima](entities/Kagoshima.md) — Japanese tea-growing region whose flat land, mechanization, and matcha investment make it a favorable but non-representative response to global demand.
+- [兵器谱（古龙） / Weapons Ranking (Gu Long)](entities/WeaponsRankingGuLong.md) — 百晓生编制、能提供江湖方向感却受时间、信息、性别与情境限制的武力排名。
+- [百晓生（古龙人物） / Bai Xiaosheng (Gu Long character)](entities/BaiXiaoshengGuLong.md) — 以兵器谱获得分类权威、同时受限于知识边界与私人立场的编榜者。
+- [上官金虹（古龙人物） / Shangguan Jinhong (Gu Long character)](entities/ShangguanJinhongGuLong.md) — 以自律超越原排名、却因追逐击破飞刀神话而主动暴露破绽的强者。
+- [孙小红（古龙人物） / Sun Xiaohong (Gu Long character)](entities/SunXiaohongGuLong.md) — 以勇敢、直接和有边界的哀伤为李寻欢提供走出自我惩罚可能的人物。
+- [阿飞（古龙人物） / A Fei (Gu Long character)](entities/AFeiGuLong.md) — 以极简快剑、情感受损与顿悟式复苏挑战兵器谱完整性的榜外剑客。
+- [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
 - [Barbecue Chain Scalability / 烧烤连锁规模化](concepts/BarbecueChainScalability.md) — Joint constraint framework linking local demand, cooking standardization, ownership, utilization, seasonality, and capital in barbecue-chain expansion.
@@ -28919,5 +28926,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Purpose Identity Lock-In / 目标身份锁定](concepts/PurposeIdentityLockIn.md) — 单一目标被用来证明伤害、牺牲和自我价值，使停止像抹去过去而成功又威胁目标化身份的状态。
 - [Licensed Generative Music](concepts/LicensedGenerativeMusic.md) — AI music model based on authorized catalogues, artist opt-in, defined derivative creation, and compensation rules.
 - [Matcha Supply Transition](concepts/MatchaSupplyTransition.md) — Slow conversion of tea land, plants, labor, equipment, and market positioning toward matcha after a demand shock.
+- [Static Ranking and Dynamic Performance / 静态排名与动态表现](concepts/StaticRankingDynamicPerformance.md) — 区分某时点形成的能力排序与年龄、状态、机会、对手和隐藏信息共同产生的实际表现。
 
 ## Syntheses

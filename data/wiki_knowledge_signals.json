@@ -543,6 +543,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/afcchampionsleague/"
     },
+    "AFeiGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/afeigulong/"
+    },
     "AHACreator": {
       "episode_count": 2,
       "show_count": 2,
@@ -24275,6 +24291,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/baitouyin/"
+    },
+    "BaiXiaoshengGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/baixiaoshenggulong/"
     },
     "BaiYingHengshan": {
       "episode_count": 1,
@@ -112250,9 +112282,9 @@
       "url": "/wiki/entities/gujiwesternhan/"
     },
     "GuLong": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -112323,9 +112355,16 @@
           "show": "纸醉金迷FM",
           "title": "013 武侠与推理的完美结合|漫话古龙《陆小凤传奇之金鹏王朝》",
           "url": "/wiki/sources/lstyln6ml2pnn9isi6heyyvuewk6/"
+        },
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/gulong/"
     },
     "GuYongWesternHan": {
@@ -145609,6 +145648,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/jinghaneasternhan/"
     },
+    "JingWumingGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/jingwuminggulong/"
+    },
     "JingYiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -158850,9 +158905,9 @@
       "url": "/wiki/entities/lixunwesternhan/"
     },
     "LiXunhuan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnMV8eZqDjjGEYd4eZi-b-iSxIbP [lnMV8eZqDjjGEYd4eZi-b-iSxIbP].md",
@@ -158860,9 +158915,16 @@
           "show": "纸醉金迷FM",
           "title": "045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠",
           "url": "/wiki/sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp/"
+        },
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/lixunhuan/"
     },
     "LiYannianWesternHan": {
@@ -242415,9 +242477,9 @@
       "url": "/wiki/concepts/sensorysubstitution/"
     },
     "SentimentalSwordsmanRuthlessSword": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnMV8eZqDjjGEYd4eZi-b-iSxIbP [lnMV8eZqDjjGEYd4eZi-b-iSxIbP].md",
@@ -242425,9 +242487,16 @@
           "show": "纸醉金迷FM",
           "title": "045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠",
           "url": "/wiki/sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp/"
+        },
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/sentimentalswordsmanruthlesssword/"
     },
     "SeparatedCampMutualSupportRisk": {
@@ -243864,6 +243933,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/shangguanjiewesternhan/"
+    },
+    "ShangguanJinhongGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/shangguanjinhonggulong/"
     },
     "ShangguanTaihouWesternHan": {
       "episode_count": 4,
@@ -255514,6 +255599,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/statelessexile/"
     },
+    "StaticRankingDynamicPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/concepts/staticrankingdynamicperformance/"
+    },
     "StaticStretchingDoseProtocol": {
       "episode_count": 4,
       "show_count": 1,
@@ -259799,6 +259900,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/sunwukong/"
+    },
+    "SunXiaohongGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/sunxiaohonggulong/"
     },
     "SunYiLateHan": {
       "episode_count": 3,
@@ -285169,6 +285286,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/weaponsracecivilizationalselfdestruction/"
+    },
+    "WeaponsRankingGuLong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljZG82L79MzbSsz8ckg-WHPwn028 [ljZG82L79MzbSsz8ckg-WHPwn028].md",
+          "key": "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028",
+          "show": "纸醉金迷FM",
+          "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
+          "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/weaponsrankinggulong/"
     },
     "WearableHealthDataAnxiety": {
       "episode_count": 7,

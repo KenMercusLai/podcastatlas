@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3502
+topic_total_pages: 3503
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -9075,6 +9075,9 @@ topic_sources:
   - key: "045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp"
     title: "045 小李飞刀成绝响｜古龙《多情剑客无情剑》中的爱恨纠缠"
     url: "/wiki/sources/045-xiaoli-feidao-cheng-juexiang-gulong-duoqing-jianke-wuqing-jian-zhong-de-aihen-jiufen-lnmv8ezqdjjgeyd4ezi-b-isxibp/"
+  - key: "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028"
+    title: "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》"
+    url: "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
   - key: "lkwyqt4w5g-uet_vckex3f33nu8n"
     title: "048 人生识字忧患始：金庸《侠客行》到底想表达什么？"
     url: "/wiki/sources/lkwyqt4w5g-uet_vckex3f33nu8n/"

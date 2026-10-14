@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13505
+wiki_total_pages: 13511
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2183,6 +2183,9 @@ wiki_pages:
   - key: "ShangguanJieWesternHan"
     title: "上官桀 / Shangguan Jie (Western Han)"
     url: "/wiki/entities/shangguanjiewesternhan/"
+  - key: "ShangguanJinhongGuLong"
+    title: "上官金虹（古龙人物） / Shangguan Jinhong (Gu Long character)"
+    url: "/wiki/entities/shangguanjinhonggulong/"
   - key: "ShangguanFeiyanGuLong"
     title: "上官飞燕（古龙人物） / Shangguan Feiyan"
     url: "/wiki/entities/shangguanfeiyangulong/"
@@ -2405,6 +2408,9 @@ wiki_pages:
   - key: "SunShouLateHan"
     title: "孙寿 / Sun Shou (late Han)"
     url: "/wiki/entities/sunshoulatehan/"
+  - key: "SunXiaohongGuLong"
+    title: "孙小红（古龙人物） / Sun Xiaohong (Gu Long character)"
+    url: "/wiki/entities/sunxiaohonggulong/"
   - key: "SunSongLateHan"
     title: "孙嵩 / Sun Song (late Han)"
     url: "/wiki/entities/sunsonglatehan/"

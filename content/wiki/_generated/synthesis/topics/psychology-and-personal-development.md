@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-10-12
-as_of_overview_commit: b103c046abf12c79dc1766b9ea73019f9169befe
-input_digest: 5ee74658a6a8a6f4b0632ebe7ae3e715361e9b00da6228db5cd430f1422b9eec
+last_updated: 2026-10-14
+as_of_overview_commit: a5bf733c1c77a62b759e38838c21d6dffad037c2
+input_digest: f07e512ac75bb0581b04b8751e9992e305ebf74eba065c89e85dcec9ac330351
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels, regulation is state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.
+Across clinical education, relationships, embodied practice, work, AI, consumption, culture, and historical decision cases, the topic converges on contextual judgment: function matters more than labels or static rankings, regulation and performance are state- and relationship-dependent, trust and moral principle require boundaries and cost-aware responsibility, and narrative examples must remain distinct from diagnosis or universal advice.
 
 ## Cross-source Findings
 
@@ -73,14 +73,15 @@ Purpose and identity are better treated as evolving products of tested inclinati
 
 ### Social Categories Shape Perception And Power
 
-Social roles, stereotypes, status signals, reputation, and institutional categories actively shape perception and behavior—from [[SocialStereotypeMisdirection]] and romantic marketplaces to workplace bullying, consumer trust, and political legitimacy—so observers must distinguish useful shorthand from self-fulfilling or coercive classification.
+Social roles, stereotypes, status signals, reputation, institutional categories, and public rankings actively shape perception and behavior; [[StaticRankingDynamicPerformance]] adds that even a useful hierarchy such as [[WeaponsRankingGuLong|兵器谱]] remains a bounded snapshot when time, state, opportunity, exclusion, and interaction change actual performance.
 
-**Evidence:** [[SocialStereotypeMisdirection]], [[DatingAppMarketplaceDynamics]], [[StructuralPowerImbalance]], [[ConstructedCategoryTrust]], [[HumanAuthorshipPremium]], [[SelectionDrivenVirtueSignaling]], [[MingqiLegitimacy]]
+**Evidence:** [[SocialStereotypeMisdirection]], [[DatingAppMarketplaceDynamics]], [[StructuralPowerImbalance]], [[ConstructedCategoryTrust]], [[HumanAuthorshipPremium]], [[SelectionDrivenVirtueSignaling]], [[MingqiLegitimacy]], [[StaticRankingDynamicPerformance]], [[WeaponsRankingGuLong]]
 
 **Qualifications:**
 
 - A literary reversal does not prove that a corpus escapes prejudice, and a commercial or political signal does not prove underlying virtue or quality.
-- Gender, class, nationality, diagnosis, professional role, and public reputation require contextual evidence rather than deterministic inference.
+- Gender, class, nationality, diagnosis, professional role, public reputation, and rank require contextual evidence rather than deterministic inference.
+- The weapons-ranking case is fictional and does not validate a general measurement model or an alternative objective ordering.
 
 ### Principles Require Cost Aware Relationships
 
