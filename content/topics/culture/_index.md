@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3503
+topic_total_pages: 3504
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2461,6 +2461,9 @@ topic_concepts:
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
+  - key: "ParticipatorySinging"
+    title: "Participatory Singing"
+    url: "/wiki/concepts/participatorysinging/"
   - key: "PartisanScandalEvidence"
     title: "Partisan Scandal Evidence"
     url: "/wiki/concepts/partisanscandalevidence/"

@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-14",
       "latest_episode_file": "64ee795d3a366335cf4a682ed4b0f0d5 [64ee795d3a366335cf4a682ed4b0f0d5.mp3？aid=6acf5699937a3c900fd4f56f&chid=d556eb54-6160-4.280].md",
-      "source_note_count": 96,
-      "topic_matched_source_note_count": 85,
+      "source_note_count": 97,
+      "topic_matched_source_note_count": 86,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 61
+          "source_note_count": 62
         },
         {
           "key": "culture",
@@ -410,9 +410,9 @@
         }
       ],
       "start_here_episode_files": [
+        "64ee795d3a366335cf4a682ed4b0f0d5 [64ee795d3a366335cf4a682ed4b0f0d5.mp3？aid=6acf5699937a3c900fd4f56f&chid=d556eb54-6160-4.280].md",
         "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
         "2959cbdca16de39a43a75666b5bc7057 [2959cbdca16de39a43a75666b5bc7057.mp3？aid=6ac617ea8f90a39dfc5baf52&chid=d556eb54-6160-4.280].md",
-        "64ee795d3a366335cf4a682ed4b0f0d5 [64ee795d3a366335cf4a682ed4b0f0d5.mp3？aid=6acf5699937a3c900fd4f56f&chid=d556eb54-6160-4.280].md",
         "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md"
       ]
     },

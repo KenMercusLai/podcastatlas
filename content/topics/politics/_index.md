@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3326
+topic_total_pages: 3328
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -385,6 +385,9 @@ topic_concepts:
   - key: "AssistiveDeviceClassification"
     title: "Assistive Device Classification"
     url: "/wiki/concepts/assistivedeviceclassification/"
+  - key: "AsymmetricEnergyCeasefire"
+    title: "Asymmetric Energy Ceasefire"
+    url: "/wiki/concepts/asymmetricenergyceasefire/"
   - key: "AsymmetricInfrastructureAttack"
     title: "Asymmetric Infrastructure Attack"
     url: "/wiki/concepts/asymmetricinfrastructureattack/"
@@ -9225,6 +9228,9 @@ topic_sources:
   - key: "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b"
     title: "Keep qualms and carry on: a decade after Brexit"
     url: "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+  - key: "kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5"
+    title: "Kicking Kyiv: Trump’s doubtful deals"
+    url: "/wiki/sources/kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5/"
   - key: "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165"
     title: "Kyiv brawl: Ukraine's top general fired"
     url: "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"

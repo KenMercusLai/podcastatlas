@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10553
+wiki_total_pages: 10555
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2705,6 +2705,9 @@ wiki_pages:
   - key: "AstrologicalInterpretationEvidenceBoundary"
     title: "Astrological Interpretation Evidence Boundary / 占星解释的证据边界"
     url: "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
+  - key: "AsymmetricEnergyCeasefire"
+    title: "Asymmetric Energy Ceasefire"
+    url: "/wiki/concepts/asymmetricenergyceasefire/"
   - key: "AsymmetricInformation"
     title: "Asymmetric Information"
     url: "/wiki/concepts/asymmetricinformation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Kicking Kyiv: Trump’s doubtful deals](sources/kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5.md) — Economist episode on asymmetric Ukraine energy bargaining, private wartime infrastructure, India’s expanding Cockroach Movement, and the conditions for inclusive group singing.
 - [Is AI solving the right problems for consumers?](sources/tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128.md) — Marketplace Tech interview with Kate Moran on need-led AI design, voluntary adoption, agentic privacy and control risks, and the gap between successful demos and deployable products.
 - [风味吃喝：天津为什么是“巧克力痛城”？](sources/fengwei-chihe-tianjin-weishenme-shi-qiaokeli-tongcheng-gkwriueoo7cnayah8atndka.md) — 大小电波从元宵、蒸饼、老品牌与家庭西餐追溯天津巧克力的市井本土化，并区分大众熟悉度与 Bean-to-Bar 消费认知。
 - [《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！](sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d.md) — 三庄墓群的规划支持泗水国陵区判断，但陈墩女性骨骼与“张廷意”印章不能直接合成为墓主身份或刘姓王族关系。
@@ -18302,6 +18303,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 ## Concepts
+- [Participatory Singing](concepts/ParticipatorySinging.md) — Singing as developmental, social, and communal practice whose benefits depend on technique, access, and mistake-tolerant group culture.
+- [Asymmetric Energy Ceasefire](concepts/AsymmetricEnergyCeasefire.md) — Test for whether reciprocal energy restraint protects comparable value and distributes leverage, enforcement exposure, and side benefits evenly.
 - [Need-Led AI Product Design](concepts/NeedLedAIProductDesign.md) — Product-design discipline that turns model capability into a recognizable outcome, legible workflow, and controlled user experience.
 - [Human-like Assisted Driving / 拟人化辅助驾驶](concepts/HumanlikeAssistedDriving.md) — Product-quality layer that separates safe scene completion from stable, natural, predictable behavior across sustained assisted-driving use.
 - [Tianjin Chocolate Localization / 天津巧克力本土化](concepts/TianjinChocolateLocalization.md) — Process by which chocolate became ordinary through familiar Tianjin foods, shops, occasions, and memories.

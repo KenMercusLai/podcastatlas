@@ -36930,3 +36930,11 @@ Added source `tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | Kicking Kyiv: Trump’s doubtful deals
+
+Added source `kicking-kyiv-trumps-doubtful-deals-64ee795d3a366335cf4a682ed4b0f0d5`; created [[AsymmetricEnergyCeasefire]] and [[ParticipatorySinging]]; and resynthesized [[CockroachMovement]], [[AbhijitTipke]], [[DissentSpaceCompression]], and [[PrivateInfrastructureWarPower]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: formally reciprocal energy restraint can favor the side with more protected assets and additional sanctions, revenue, or propaganda gains; private wartime infrastructure creates operational power even when a reported restriction is unconfirmed; India’s cockroach movement has broadened from education accountability into election-administration protest while pre-emptive repression may deepen some participants’ commitment; and singing’s social benefits depend partly on inclusive, mistake-tolerant participation conditions. No settled contradiction was adopted. Starlink restrictions, diesel volumes and prices, electoral motives, voter-list allegations, commissioner identification, protest scale, police causality, and health-study implications remain unconfirmed, attributed, or source-scoped. Broad country, leader, company, and show pages were kept closed because focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and left unchanged because the source did not warrant a new global synthesis paragraph. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,627 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

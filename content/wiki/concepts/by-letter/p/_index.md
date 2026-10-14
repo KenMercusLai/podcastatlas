@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10553
+wiki_total_pages: 10555
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "ParticipatoryPortraitCoCreation"
     title: "Participatory Portrait Co-Creation / 参与式约拍共创"
     url: "/wiki/concepts/participatoryportraitcocreation/"
+  - key: "ParticipatorySinging"
+    title: "Participatory Singing"
+    url: "/wiki/concepts/participatorysinging/"
   - key: "PartisanScandalEvidence"
     title: "Partisan Scandal Evidence"
     url: "/wiki/concepts/partisanscandalevidence/"
