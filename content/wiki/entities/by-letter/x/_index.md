@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13498
+wiki_total_pages: 13499
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "XiangShou"
     title: "向寿 / Xiang Shou"
     url: "/wiki/entities/xiangshou/"
+  - key: "XiangZhennv"
+    title: "向珍女 / Xiang Zhennü"
+    url: "/wiki/entities/xiangzhennv/"
   - key: "XiangWentianJinYong"
     title: "向问天（金庸小说） / Xiang Wentian (Jin Yong)"
     url: "/wiki/entities/xiangwentianjinyong/"

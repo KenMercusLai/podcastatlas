@@ -104632,9 +104632,9 @@
       "url": "/wiki/concepts/genderedauthorshipvisibility/"
     },
     "GenderedChastityHonorCoercion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
@@ -104642,9 +104642,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
           "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运 [lk8Of9jmCmBNCL-0zOAk1txx_8vs].md",
+          "key": "zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/genderedchastityhonorcoercion/"
     },
     "GenderedConsortScapegoating": {
@@ -159914,9 +159921,9 @@
       "url": "/wiki/entities/liejiaomiwusun/"
     },
     "LienuZhuan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
@@ -159924,9 +159931,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运 [lk8Of9jmCmBNCL-0zOAk1txx_8vs].md",
+          "key": "zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/lienuzhuan/"
     },
     "LifeScienceDataInformationValue": {
@@ -292577,6 +292591,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/xiangwentianjinyong/"
+    },
+    "XiangZhennv": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运 [lk8Of9jmCmBNCL-0zOAk1txx_8vs].md",
+          "key": "zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/xiangzhennv/"
     },
     "XianjieQiangWesternHan": {
       "episode_count": 1,

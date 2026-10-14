@@ -36858,3 +36858,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | 《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运
+
+Added source `zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs`; created [[XiangZhennv|向珍女]]; and resynthesized [[GenderedChastityHonorCoercion|贞节荣誉的性别化强制]] and [[LienuZhuan|《列女传》]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: exemplary honor and historiographical selection can turn betrothal, sexual purity, injury, or death into the principal proof of female virtue, while the episode's alternative standard values political ability, wisdom, resilience, continued life, and dignity. No settled contradiction was adopted. The post-Sui-Tang periodization, Liu Xiang purpose claim, Xiang Zhennü biography and letter, modern documentary case, and individual motives remain source-scoped pending primary or specialist verification. Large Liu Xiang, Cai Wenji, Lü Zhi, Sima Qian, and show profiles were kept closed because the episode adds brief examples rather than durable profile changes. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts retain 802 overview paragraphs across nine topics.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

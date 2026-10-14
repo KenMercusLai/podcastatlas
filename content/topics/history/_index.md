@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2750
+topic_total_pages: 2751
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7905,6 +7905,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx"
     title: "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密"
     url: "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+  - key: "zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs"
+    title: "《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运"
+    url: "/wiki/sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs/"
   - key: "zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf"
     title: "《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？"
     url: "/wiki/sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf/"
