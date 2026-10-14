@@ -36881,3 +36881,11 @@ Added source `gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-
 ## [2026-10-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-14] ingest | 《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！
+
+Added source `zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d`; created [[SanzhuangHanTombComplex|三庄汉墓群]] and [[ChendunHanTomb|陈墩汉墓]]; and resynthesized [[SishuiKingdomWesternHan|西汉泗水国]], [[DaqingdunHanTomb|大青墩汉墓]], and [[ArchaeologicalInterpretationUnderSparseEvidence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: planned cemetery layout, tomb rank, skeletal assessment, portable seal, and personal identity are different inference levels; Chendun's elite form, reported Xiongnu woman, and “张廷意” seal do not independently identify a Liu royal or prove that the seal names the body. No settled contradiction was adopted. “四水／四阳／陈堆／张庭义” were normalized to 泗水／泗阳／陈墩／张廷意; excavation chronology, mound areas, body-classification method, personal relationships, and the conflicting instrument material and length remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,621 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2751
+topic_total_pages: 2754
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2792,6 +2792,9 @@ topic_entities:
   - key: "SanchuanWarringStates"
     title: "三川 / Sanchuan (Warring States)"
     url: "/wiki/entities/sanchuanwarringstates/"
+  - key: "SanzhuangHanTombComplex"
+    title: "三庄汉墓群 / Sanzhuang Han Tomb Complex"
+    url: "/wiki/entities/sanzhuanghantombcomplex/"
   - key: "SanlianLifeWeekly"
     title: "三联生活周刊 / Sanlian Life Weekly"
     url: "/wiki/entities/sanlianlifeweekly/"
@@ -4742,6 +4745,9 @@ topic_entities:
   - key: "ChenCountyChuHan"
     title: "陈县 / Chen County (Chu-Han)"
     url: "/wiki/entities/chencountychuhan/"
+  - key: "ChendunHanTomb"
+    title: "陈墩汉墓 / Chendun Han Tomb"
+    url: "/wiki/entities/chendunhantomb/"
   - key: "ChenChongXinOfficial"
     title: "陈崇 / Chen Chong (Wang Mang-era official)"
     url: "/wiki/entities/chenchongxinofficial/"
@@ -7902,6 +7908,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1"
     title: "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生"
     url: "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
+  - key: "zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d"
+    title: "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d/"
   - key: "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx"
     title: "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密"
     url: "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"

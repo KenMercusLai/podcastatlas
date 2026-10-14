@@ -4,7 +4,8 @@ type: entity
 tags: [western-han, archaeology, royal-tomb, siyang, tomb-robbery]
 sources:
   - zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d
+last_updated: 2026-10-14
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,17 +13,18 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-大青墩汉墓 / Daqingdun Han Tomb is the robbed monumental Western Han burial that [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] identifies with the royal cemetery of [[SishuiKingdomWesternHan|泗水国]].
+大青墩汉墓 / Daqingdun Han Tomb is the robbed monumental Western Han burial within the [[SanzhuangHanTombComplex|三庄汉墓群]] that [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] identifies with the royal cemetery of [[SishuiKingdomWesternHan|泗水国]].
 
 ## Current Profile
 
-The episode describes a surviving mound about twelve meters high, paired side chambers, an outer storage chamber, and a main chamber containing one outer coffin structure and two coffins. Figurines, wooden horses, bronze vessels, gilded fittings, jewelry, incense equipment, and a decorated crossbow trigger establish elite scale and funerary display.
+[[zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d|Hanji 345-2]] first presents Daqingdun as the much larger neighbor of [[ChendunHanTomb|陈墩汉墓]] and the suspected royal tomb reserved for a second excavation stage. [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] describes a surviving mound about twelve meters high, paired side chambers, an outer storage chamber, and a main chamber containing one outer coffin structure and two coffins. Figurines, wooden horses, bronze vessels, gilded fittings, jewelry, incense equipment, and a decorated crossbow trigger establish elite scale and funerary display.
 
 Robbery limits what the tomb can resolve. One coffin was damaged, the main chamber was reached through a precise robbery opening, and portable objects may have been removed or displaced. The “泗水王冢” and “王冢” board labels strongly support royal-cemetery attribution, while the [[LiuSuiSishuiSeal|刘绥 seal]] prevents a simple equation between cemetery, principal occupant, and the six transmitted kings.
 
 ## Key Characteristics
 
 - Large surviving mound and wooden-chamber arrangement presented as consistent with vassal-king rank.
+- Larger neighboring monument selected after investigators first examined Chendun's smaller elite tomb.
 - Outer storage area and side chambers containing ceremonial figures, horses, bronze vessels, and other grave goods.
 - Main chamber described as one outer enclosure with two coffins, interpreted in the episode as a paired burial.
 - Multiple robbery traces, including direct access to the main chamber and damage to one coffin.
@@ -31,6 +33,7 @@ Robbery limits what the tomb can resolve. One coffin was damaged, the main chamb
 
 ## Evidence
 
+- Comparative selection: [[zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d|Hanji 345-2]] contrasts Daqingdun's reported scale with Chendun and presents the smaller tomb as preparation for the larger excavation.
 - Rank and layout: [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] describes mound height, paired side chambers, outer storage, two coffins, and rich furnishings.
 - Disturbance: [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] reports robbery openings, damaged western coffin structures, and valuable objects remaining near the intrusion path.
 - Institutional attribution: [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] reports the chamber-board labels “泗水王冢” and “王冢.”
@@ -38,16 +41,18 @@ Robbery limits what the tomb can resolve. One coffin was damaged, the main chamb
 
 ## Qualifications
 
-The page preserves the episode's account rather than replacing a technical excavation report. The exact dimensions, board-label production technique, artifact classifications, findspots, coffin sexing, robbery sequence, and status interpretation require direct archaeological documentation. Valuable objects near a robbery path do not by themselves prove why the robbers left, and paired coffins do not by themselves prove a married couple.
+The page preserves the episodes' account rather than replacing a technical excavation report. The excavation sequence and rationale, exact dimensions, board-label production technique, artifact classifications, findspots, coffin sexing, robbery sequence, and status interpretation require direct archaeological documentation. Valuable objects near a robbery path do not by themselves prove why the robbers left, and paired coffins do not by themselves prove a married couple.
 
 ## What Changed
 
-- Added a canonical site page separating physical context from occupant inference.
-- Identified the board labels as stronger evidence for royal-cemetery status than tomb scale alone.
-- Made robbery and displacement part of the identity-evidence boundary.
+- Added the comparison with Chendun and Daqingdun's place in the staged excavation narrative.
+- Connected the tomb explicitly to the wider Sanzhuang cemetery landscape.
+- Preserved the stronger board-label attribution without converting comparative size into occupant identity.
 
 ## Relationships
 
+- [[SanzhuangHanTombComplex]] - wider planned cemetery landscape containing Daqingdun.
+- [[ChendunHanTomb]] - smaller neighboring elite tomb examined first in the episode's excavation sequence.
 - [[SishuiKingdomWesternHan]] - polity whose royal burial context is named on the chamber boards.
 - [[LiuSuiSishuiSeal]] - portable identity object whose relation to the main burial remains unresolved.
 - [[ArchaeologicalInterpretationUnderSparseEvidence]] - framework for ranking architecture, inscriptions, artifacts, and missing context by what they can establish.

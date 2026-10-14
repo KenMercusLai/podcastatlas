@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13500
+wiki_total_pages: 13502
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2552,6 +2552,9 @@ wiki_pages:
   - key: "ChenStateLateHan"
     title: "陈国 / Chen State (late Han)"
     url: "/wiki/entities/chenstatelatehan/"
+  - key: "ChendunHanTomb"
+    title: "陈墩汉墓 / Chendun Han Tomb"
+    url: "/wiki/entities/chendunhantomb/"
   - key: "ChenYing"
     title: "陈婴 / Chen Ying"
     url: "/wiki/entities/chenying/"

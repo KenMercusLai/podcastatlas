@@ -19149,9 +19149,9 @@
       "url": "/wiki/entities/arandorastar/"
     },
     "ArchaeologicalInterpretationUnderSparseEvidence": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4941340070 [GLT4941340070].md",
@@ -19180,9 +19180,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！ [ljKkHFBUMlsGF7ppz96QVYS_ok3d].md",
+          "key": "zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-14",
       "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
     },
     "ArchaicHumanInterbreeding": {
@@ -43822,6 +43829,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/chendaitown/"
     },
+    "ChendunHanTomb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！ [ljKkHFBUMlsGF7ppz96QVYS_ok3d].md",
+          "key": "zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/chendunhantomb/"
+    },
     "ChengBushiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -62677,9 +62700,9 @@
       "url": "/wiki/entities/dapengdirector/"
     },
     "DaqingdunHanTomb": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密 [lopHZ5CcJ4JALGMOHvOZcOl5NelX].md",
@@ -62687,9 +62710,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！ [ljKkHFBUMlsGF7ppz96QVYS_ok3d].md",
+          "key": "zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/daqingdunhantomb/"
     },
     "DarcyRaisedNutrition": {
@@ -238783,6 +238813,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/sanya/"
     },
+    "SanzhuangHanTombComplex": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！ [ljKkHFBUMlsGF7ppz96QVYS_ok3d].md",
+          "key": "zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d/"
+        }
+      ],
+      "updated": "2026-10-14",
+      "url": "/wiki/entities/sanzhuanghantombcomplex/"
+    },
     "SaraGottfried": {
       "episode_count": 2,
       "show_count": 1,
@@ -248272,9 +248318,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SishuiKingdomWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密 [lopHZ5CcJ4JALGMOHvOZcOl5NelX].md",
@@ -248282,9 +248328,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！ [ljKkHFBUMlsGF7ppz96QVYS_ok3d].md",
+          "key": "zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-14",
       "url": "/wiki/entities/sishuikingdomwesternhan/"
     },
     "SiteSpecificElectroacupunctureImmunePathway": {

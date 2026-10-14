@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》345-2｜千年王陵的诡异现象到底真相如何？！](sources/zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d.md) — 三庄墓群的规划支持泗水国陵区判断，但陈墩女性骨骼与“张廷意”印章不能直接合成为墓主身份或刘姓王族关系。
 - [高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？](sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593.md) — 声动早咖啡以很久以前羊肉串对比火锅，从市场分散、制作标准化、加盟与直营、消费时段和季节性解释烧烤连锁扩张约束。
 - [《资治通鉴·汉纪》347-2｜古代贞洁烈女奇特的悲惨命运](sources/zizhi-tongjian-hanji-347-2-gudai-zhenjie-lienv-qite-de-beican-mingyun-lk8of9jmcmbncl-0zoak1txx_8vs.md) — 以向珍女殉死、刘向《列女传》与蔡文姬等例子批判把女性价值窄化为贞节和死亡，并以继续生活、智慧与尊严作为替代标准。
 - [《资治通鉴·汉纪》348-1｜古人犯错后的焚尸启示录](sources/zizhi-tongjian-hanji-348-1-guren-fancuo-houde-fenshi-qishilu-ljglue4ppujp0auyai0noltvcrwm.md) — 张汤把君意转成法律裁量，赵禹晚年转柔后得以归家善终，尹齐则虽清廉却因严酷造成政务停滞并留下死后焚尸之恨。
@@ -5603,6 +5604,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Life of Samuel Johnson](entities/TheLifeOfJohnson.md) — Boswell’s conversation-rich, psychologically layered, and literarily constructed 1791 biography.
 - [泗水国 / Sishui Kingdom (Western Han)](entities/SishuiKingdomWesternHan.md) — 由大青墩“泗水王冢”椁板获得王陵物证、但具体墓主仍未确定的西汉诸侯国。
 - [大青墩汉墓 / Daqingdun Han Tomb](entities/DaqingdunHanTomb.md) — 形制与随葬品达到王陵等级、受盗扰且以“泗水王冢”文字确认制度身份的西汉大墓。
+- [三庄汉墓群 / Sanzhuang Han Tomb Complex](entities/SanzhuangHanTombComplex.md) — 具有南北规划与多种墓葬规模、可归入泗水国陵区但不能统一推定所有墓主身份的西汉墓群。
+- [陈墩汉墓 / Chendun Han Tomb](entities/ChendunHanTomb.md) — 三庄墓群中的西汉贵族墓，女性骨骼鉴定与“张廷意”印章形成尚未闭合的身份问题。
 - [刘绥 / Liu Sui (Sishui seal)](entities/LiuSuiSishuiSeal.md) — 大青墩被盗语境中银制龟钮印的署名者，不能仅凭该印认定为泗水王或主墓墓主。
 - [Beth Shapiro](entities/BethShapiro.md) — Evolutionary biologist connecting ancient DNA and functional de-extinction to conservation genetic rescue and staged ecological governance.
 - [Colossal Biosciences](entities/ColossalBiosciences.md) — Biotechnology company developing cross-taxon de-extinction platforms and applying related tools to threatened living species.

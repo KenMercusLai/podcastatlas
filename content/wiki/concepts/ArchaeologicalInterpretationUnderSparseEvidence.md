@@ -7,7 +7,8 @@ sources:
   - 199-stonehenge-glt3612348466
   - 114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137
   - zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d
+last_updated: 2026-10-14
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,7 +28,9 @@ The [[Stonehenge]] case provides a complementary test: geology, stone arrangemen
 
 [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] extends the method across prehistoric and Romano-British religion. Bodies, skull cups, grave goods, altered monuments, inscriptions, deity images, diet, mobility, and construction can be observed, yet the same trace may support reverence, sacrifice, trophy-taking, protection, punishment, or disposal. Choosing among those accounts by moral instinct or scholarly competition creates false closure; ranking possibilities and preserving ignorance is itself a positive historical result.
 
-A historical-period tomb sharpens the same method by showing that evidence strength can differ by question within one excavation. At [[DaqingdunHanTomb|大青墩汉墓]], the scale, plan, grave goods, and “泗水王冢” chamber-board label strongly connect the site to the royal cemetery of [[SishuiKingdomWesternHan|泗水国]], but robbery weakens object provenance and a silver [[LiuSuiSishuiSeal|刘绥]] seal does not match the transmitted kings. The site can therefore identify a polity and institutional burial context more securely than an individual occupant.
+A historical-period cemetery sharpens the same method by showing that evidence strength can differ by question and scale. [[zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d|Hanji 345-2]] describes the planned [[SanzhuangHanTombComplex|三庄汉墓群]] and an elite [[ChendunHanTomb|陈墩汉墓]] containing a female skeleton and a “张廷意” seal. Those observations support a burial landscape, tomb rank, body assessment, and named object at different levels; they do not automatically make the woman a Liu royal or prove that the seal names her.
+
+At [[DaqingdunHanTomb|大青墩汉墓]], the scale, plan, grave goods, and “泗水王冢” chamber-board label more strongly connect the site to the royal cemetery of [[SishuiKingdomWesternHan|泗水国]], but robbery weakens object provenance and a silver [[LiuSuiSishuiSeal|刘绥]] seal does not match the transmitted kings. Together, Chendun and Daqingdun show that a cemetery can be identified more securely than every tomb within it, and a tomb more securely than its individual occupant.
 
 ## Key Claims
 
@@ -37,7 +40,7 @@ A historical-period tomb sharpens the same method by showing that evidence stren
 - Contemporary political and intellectual concerns can influence both nationalist and academic reconstructions.
 - Multiple plausible explanations should remain explicit when context cannot discriminate among them.
 - Ancient DNA and isotope evidence can establish population change or mobility without independently proving violence, status, identity, or belief.
-- Inscriptions and named objects must be interpreted at the level they actually support: a cemetery label, portable seal, and principal occupant are not interchangeable identity claims.
+- Inscriptions, bodies, and named objects must be interpreted at the level they actually support: a cemetery label, skeletal classification, portable seal, and principal occupant are not interchangeable identity claims.
 
 ## Evidence
 
@@ -50,17 +53,18 @@ A historical-period tomb sharpens the same method by showing that evidence stren
 - Religious-meaning boundary: [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] contrasts physical knowledge of prehistoric life with uncertainty about thought, gender, politics, and worship.
 - Rival-narrative boundary: [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] preserves opposed readings of curated bodies, skull cups, unusual burials, Romano-British finds, and monumental change.
 - Institutional-versus-personal identity: [[zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx|Hanji 346]] combines tomb form, grave goods, chamber-board labels, robbery evidence, transmitted king lists, and an unmatched personal seal without forcing them into one occupant name.
+- Landscape-tomb-body-object boundary: [[zizhi-tongjian-hanji-345-2-qiannian-wangling-de-guiyi-xianxiang-daodi-zhenxiang-ruhe-ljkkhfbumlsgf7ppz96qvys_ok3d|Hanji 345-2]] separates Sanzhuang's planned cemetery, Chendun's elite form, the reported sex and ancestry assessment, and a “张廷意” seal instead of treating them as one complete biography.
 
 ## Counterevidence & Qualifications
 
-Sparse evidence does not require refusing all inference. Settlement plans, production remains, stratigraphy, residue, wear, burial context, inscriptions, object type, ancient DNA, isotope analysis, geology, environmental proxies, alignments, and comparative patterns can constrain interpretation when evaluated directly. Nor does the fact that a theory reflects its intellectual setting make it false. This page derives from four podcast notes and states a general source-critical principle; it does not adjudicate the specialist record on Vinča chronology, metallurgy, signs, migration, or religion, the contested construction sequence, transport routes, population history, burials, cannibalism evidence, and ritual interpretation of prehistoric Britain, or the excavation context, seal function, royal genealogy, and occupant identity at Daqingdun.
+Sparse evidence does not require refusing all inference. Settlement plans, production remains, stratigraphy, residue, wear, burial context, inscriptions, object type, ancient DNA, isotope analysis, geology, environmental proxies, alignments, and comparative patterns can constrain interpretation when evaluated directly. Nor does the fact that a theory reflects its intellectual setting make it false. This page derives from five podcast notes and states a general source-critical principle; it does not adjudicate the specialist record on Vinča chronology, metallurgy, signs, migration, or religion, the contested construction sequence, transport routes, population history, burials, cannibalism evidence, and ritual interpretation of prehistoric Britain, or the Sanzhuang excavation chronology, cemetery phasing, skeletal method, instrument description, seal function, royal genealogy, and occupant identities.
 
 ## What Changed
 
-- Established an explicit confidence boundary between Vinča's material record and broader linguistic, religious, ethnic, political, or collapse narratives.
-- Extended the boundary to Stonehenge's transport, sensory setting, social organization, mobility evidence, and population-change interpretation.
-- Added a rival-explanations rule for ritualized human remains and other traces whose social meaning cannot be uniquely recovered.
-- Distinguished a named royal cemetery from a named tomb occupant when robbery, portable objects, and unmatched records complicate identification.
+- Extended the historical-tomb case from Daqingdun to the wider Sanzhuang cemetery and neighboring Chendun burial.
+- Distinguished landscape planning, tomb rank, skeletal assessment, portable seal, and named occupant as separate inference levels.
+- Added Chendun's conflicting instrument details and chronology as examples of why secondary retellings should not be silently harmonized.
+- Preserved Daqingdun's stronger institutional attribution while narrowing what it proves about individual occupants.
 
 ## Related Concepts
 
@@ -72,4 +76,6 @@ Sparse evidence does not require refusing all inference. Settlement plans, produ
 - [[StonehengeRitualLandscape]] - multi-phase landscape model that remains useful only when its evidential levels stay explicit.
 - [[RonaldHutton]] - historian who treats unresolved prehistoric meaning as a legitimate result rather than a prompt for false certainty.
 - [[DaqingdunHanTomb]] - historical-period tomb where cemetery attribution is stronger than occupant identification.
+- [[SanzhuangHanTombComplex]] - cemetery-scale case where planned organization does not make every burial identical in status or identity.
+- [[ChendunHanTomb]] - tomb-scale case where a body assessment and named seal remain distinct evidence.
 - [[LiuSuiSishuiSeal]] - named portable object demonstrating that an inscription still requires contextual interpretation.
