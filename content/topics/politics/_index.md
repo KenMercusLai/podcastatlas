@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3325
+topic_total_pages: 3326
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8300,6 +8300,9 @@ topic_entities:
   - key: "SongShenzong"
     title: "宋神宗 / Emperor Shenzong of Song"
     url: "/wiki/entities/songshenzong/"
+  - key: "YinQiWesternHan"
+    title: "尹齐 / Yin Qi (Western Han)"
+    url: "/wiki/entities/yinqiwesternhan/"
   - key: "JuWu"
     title: "居武 / Ju Wu"
     url: "/wiki/entities/juwu/"

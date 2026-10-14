@@ -97280,6 +97280,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "YinQiWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "YinShiEasternHan": [
     {
       "key": "culture",

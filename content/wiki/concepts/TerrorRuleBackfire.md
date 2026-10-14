@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l
   - zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di
   - zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f
-last_updated: 2026-10-04
+  - zizhi-tongjian-hanji-348-1-guren-fancuo-houde-fenshi-qishilu-ljglue4ppujp0auyai0noltvcrwm
+last_updated: 2026-10-14
 ---
 
 ## Definition
@@ -27,6 +28,8 @@ The no-exit form appears in both public-order enforcement and siege. [[zizhi-ton
 
 The concept therefore sits between moral critique and institutional diagnosis. It does not claim that all severity fails instantly. It says fear-based power has a hidden balance sheet: within a hierarchy it stores accusation, abandonment, and legitimacy collapse; against an enemy it can eliminate surrender and intensify resistance.
 
+Administrative paralysis and posthumous revenge extend the mechanism through [[YinQiWesternHan|尹齐]]. His severity makes officials afraid to act, contributing to failed government business, while enemies later seek to burn his corpse. Fear can therefore backfire before open rebellion by suppressing routine initiative, and its retaliatory afterlife can outlast both office and death. [[zizhi-tongjian-hanji-348-1-guren-fancuo-houde-fenshi-qishilu-ljglue4ppujp0auyai0noltvcrwm|Hanji 348-1]]
+
 ## Key Claims
 
 - Fear can create compliance while weakening the loyalty needed during crisis.
@@ -35,7 +38,7 @@ The concept therefore sits between moral critique and institutional diagnosis. I
 - Self-protective accusation can become more extreme when ordinary reporting channels seem unsafe.
 - Violence can make a ruler or official look decisive while making followers unwilling to defend him.
 - Moral language such as "自作孽不可活" tracks an institutional mechanism: accumulated fear becomes political exposure.
-- Terror can backfire immediately when it makes surrender, restraint, or truthful reporting no safer than continued resistance or concealment.
+- Terror can backfire immediately when it makes surrender, restraint, truthful reporting, or administrative initiative unsafe, and stored retaliation may outlast the official's lifetime.
 
 ## Evidence
 
@@ -59,15 +62,20 @@ Bandit-suppression case:
 - [[zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f|Hanji 379-1]] says severe punishment gives already implicated offenders less reason to stop resisting.
 - [[zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f|Hanji 379-1]] says death liability for incomplete suppression makes local officials hide bandit activity, so fear damages the information system needed for enforcement.
 
+Yin Qi case:
+- [[zizhi-tongjian-hanji-348-1-guren-fancuo-houde-fenshi-qishilu-ljglue4ppujp0auyai0noltvcrwm|Hanji 348-1]] says Yin Qi's strict control leaves officials unwilling to act and government business deteriorating.
+- [[zizhi-tongjian-hanji-348-1-guren-fancuo-houde-fenshi-qishilu-ljglue4ppujp0auyai0noltvcrwm|Hanji 348-1]] says Suiyang enemies later seek to burn his corpse, making stored hatred visible after formal power ends.
+
 ## Counterevidence & Qualifications
 
-This concept currently rests on four podcast source notes and should not be generalized into a universal law that every harsh official, ruler, or army immediately fails. Hanji 447 keeps a qualification visible: Yan sometimes directs punishment at powerful people who injure the weak, so the issue is not enforcement as such. Huguan does not prove that leniency alone wins sieges, and Hanji 379-1 does not independently establish the exact legal text or the scale of concealment. Together they support the narrower incentive claim that credible exit and truthful reporting paths matter where absolute threats otherwise reward resistance or silence.
+This concept currently rests on five podcast source notes and should not be generalized into a universal law that every harsh official, ruler, or army immediately fails. Hanji 447 keeps a qualification visible: Yan sometimes directs punishment at powerful people who injure the weak, so the issue is not enforcement as such. Huguan does not prove that leniency alone wins sieges, Hanji 379-1 does not independently establish the exact legal text or the scale of concealment, and Hanji 348-1 does not independently establish Yin Qi's victim totals, office sequence, causal responsibility for stalled government, or corpse-burning details. Together they support the narrower incentive claim that credible exit, initiative, and truthful reporting paths matter where absolute threats otherwise reward resistance, silence, or immobility.
 
 ## What Changed
 
 - Added Huguan's adversarial form: terror can remove surrender incentives and harden resistance immediately.
 - Distinguished slow internal trust erosion from immediate battlefield incentive reversal.
 - Added Hanji 379-1's administrative form: fatal all-or-nothing liability can harden offenders and induce official concealment at the same time.
+- Added Yin Qi's administrative-paralysis and posthumous-revenge forms of terror backfire.
 
 ## Related Concepts
 
@@ -80,3 +88,4 @@ This concept currently rests on four podcast source notes and should not be gene
 - [[HuguanLateHan|壶关]] - siege case where withdrawal of an extermination threat restores capitulation.
 - [[AdministrativeInformationConformity|行政信息圆美化]] - information branch where fear of punishment replaces candid reporting with concealment.
 - [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]] - root-cause branch where punishment intensifies disorder produced by war and poverty.
+- [[YinQiWesternHan|尹齐]] - Western Han case where personal cleanliness coexists with fear, official immobility, and enduring enmity.
