@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3335
+topic_total_pages: 3337
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1255,6 +1255,9 @@ topic_concepts:
   - key: "DistressToleranceAndEmotionalChoice"
     title: "Distress Tolerance and Emotional Choice"
     url: "/wiki/concepts/distresstoleranceandemotionalchoice/"
+  - key: "DistributedTechnologyResponsibility"
+    title: "Distributed Technology Responsibility / 分布式技术责任"
+    url: "/wiki/concepts/distributedtechnologyresponsibility/"
   - key: "DivineAndCivicLaw"
     title: "Divine and Civic Law"
     url: "/wiki/concepts/divineandciviclaw/"
@@ -3715,6 +3718,9 @@ topic_concepts:
   - key: "RingTakeEncryption"
     title: "Ring TAKE Encryption"
     url: "/wiki/concepts/ringtakeencryption/"
+  - key: "RiskKnowledgeActionGap"
+    title: "Risk Knowledge-Action Gap / 风险知识行动鸿沟"
+    url: "/wiki/concepts/riskknowledgeactiongap/"
   - key: "RiskCostSeparation"
     title: "Risk-Cost Separation / 风险与成本分离"
     url: "/wiki/concepts/riskcostseparation/"

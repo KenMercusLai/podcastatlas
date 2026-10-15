@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10588
+wiki_total_pages: 10591
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "RingTakeEncryption"
     title: "Ring TAKE Encryption"
     url: "/wiki/concepts/ringtakeencryption/"
+  - key: "RiskKnowledgeActionGap"
+    title: "Risk Knowledge-Action Gap / 风险知识行动鸿沟"
+    url: "/wiki/concepts/riskknowledgeactiongap/"
   - key: "RiskParity"
     title: "Risk Parity"
     url: "/wiki/concepts/riskparity/"

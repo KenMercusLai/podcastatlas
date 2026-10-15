@@ -30682,9 +30682,9 @@
       "url": "/wiki/concepts/blankchequeallianceescalation/"
     },
     "BlindHopeUnderUncertainty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
@@ -30692,6 +30692,13 @@
           "show": "独树不成林",
           "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
           "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        },
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
         }
       ],
       "updated": "2026-10-15",
@@ -68353,6 +68360,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/designbrandmanufacturingupgrade/"
     },
+    "DesignedTechnologicalDesire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/designedtechnologicaldesire/"
+    },
     "DesignerAICodingWorkflow": {
       "episode_count": 1,
       "show_count": 1,
@@ -71369,6 +71392,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/distributedspeechlanguagecircuits/"
+    },
+    "DistributedTechnologyResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/distributedtechnologyresponsibility/"
     },
     "DiversifiedHappinessPortfolio": {
       "episode_count": 1,
@@ -86202,6 +86241,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
+    },
+    "Epimetheus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/epimetheus/"
     },
     "EpinephrineAlertnessToolkit": {
       "episode_count": 7,
@@ -121987,9 +122042,9 @@
       "url": "/wiki/entities/henrywilson/"
     },
     "Hephaestus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
@@ -121997,6 +122052,13 @@
           "show": "独树不成林",
           "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
           "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        },
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
         }
       ],
       "updated": "2026-10-15",
@@ -122747,9 +122809,9 @@
       "url": "/wiki/entities/herschelgrunspan/"
     },
     "Hesiod": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4871750364 [GLT4871750364].md",
@@ -122757,6 +122819,13 @@
           "show": "The Rest Is History",
           "title": "602. Greek Myths: Zeus, King of the Gods (Part 1)",
           "url": "/wiki/sources/602-greek-myths-zeus-king-of-the-gods-part-1-glt4871750364/"
+        },
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
         }
       ],
       "updated": "2026-10-10",
@@ -206484,6 +206553,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/pandemichistoricalmemory/"
     },
+    "Pandora": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/pandora/"
+    },
     "PanfiloDeNarvaez": {
       "episode_count": 1,
       "show_count": 1,
@@ -221535,9 +221620,9 @@
       "url": "/wiki/concepts/prolactindopaminepituitaryinterpretation/"
     },
     "Prometheus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -221559,6 +221644,13 @@
           "show": "独树不成林",
           "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
           "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        },
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
         }
       ],
       "updated": "2026-10-15",
@@ -234249,6 +234341,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/riskbearingreliefgovernance/"
+    },
+    "RiskKnowledgeActionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/riskknowledgeactiongap/"
     },
     "RiskRiskTradeoff": {
       "episode_count": 1,
@@ -266035,9 +266143,9 @@
       "url": "/wiki/concepts/techbubbleconditions/"
     },
     "TechnicalCapabilityValueBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
@@ -266045,6 +266153,13 @@
           "show": "独树不成林",
           "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
           "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        },
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
         }
       ],
       "updated": "2026-10-15",
@@ -291842,6 +291957,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/workplaceroleclarityboundary/"
+    },
+    "WorksAndDays": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkr0IBzodEN-ip-eS5xPnHnBBvz7 [lkr0IBzodEN-ip-eS5xPnHnBBvz7].md",
+          "key": "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7",
+          "show": "独树不成林",
+          "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+          "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/worksanddays/"
     },
     "WorkshopInternalComms": {
       "episode_count": 1,

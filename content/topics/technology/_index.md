@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3537
+topic_total_pages: 3541
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1933,6 +1933,9 @@ topic_concepts:
   - key: "DemocraticAIGovernanceDeliberation"
     title: "Democratic AI Governance Deliberation"
     url: "/wiki/concepts/democraticaigovernancedeliberation/"
+  - key: "DesignedTechnologicalDesire"
+    title: "Designed Technological Desire / 技术欲望设计"
+    url: "/wiki/concepts/designedtechnologicaldesire/"
   - key: "DesignerAICodingWorkflow"
     title: "Designer AI Coding Workflow"
     url: "/wiki/concepts/designeraicodingworkflow/"
@@ -2005,6 +2008,9 @@ topic_concepts:
   - key: "DisposableSoftware"
     title: "Disposable Software"
     url: "/wiki/concepts/disposablesoftware/"
+  - key: "DistributedTechnologyResponsibility"
+    title: "Distributed Technology Responsibility / 分布式技术责任"
+    url: "/wiki/concepts/distributedtechnologyresponsibility/"
   - key: "DistributionLedProductBuilding"
     title: "Distribution Led Product Building"
     url: "/wiki/concepts/distributionledproductbuilding/"
@@ -7301,6 +7307,9 @@ topic_entities:
   - key: "PaloAltoNetworks"
     title: "Palo Alto Networks"
     url: "/wiki/entities/paloaltonetworks/"
+  - key: "Pandora"
+    title: "Pandora / 潘多拉"
+    url: "/wiki/entities/pandora/"
   - key: "Pangram"
     title: "Pangram"
     url: "/wiki/entities/pangram/"
@@ -8303,6 +8312,9 @@ topic_entities:
   - key: "Workmagic"
     title: "Workmagic"
     url: "/wiki/entities/workmagic/"
+  - key: "WorksAndDays"
+    title: "Works and Days / 《工作与时日》"
+    url: "/wiki/entities/worksanddays/"
   - key: "WorldLabs"
     title: "World Labs"
     url: "/wiki/entities/worldlabs/"

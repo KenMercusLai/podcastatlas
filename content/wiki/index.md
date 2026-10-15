@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）](sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7.md) — 独树不成林 uses Hesiod's Pandora story to examine designed desire, the risk knowledge-action gap, distributed technical responsibility, and hope's ambiguous value.
 - [370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》](sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd.md) — 独树不成林 uses Prometheus, Hephaestus, and Io to separate prediction from control, technical capability from value judgment, and hope from guaranteed knowledge.
 - [Vol.277 2026“金字招牌”特辑：有效创新](sources/vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv.md) — 商业就是这样以功能饮料、小家电、旅行平台和 AI 短剧说明成熟市场的创新如何来自细分需求、渠道整合与生产力变化，同时把瓶颈推向品牌、数据、分发和注意力。
 - [EP389-《我家那闺女》张家齐、代露娃 | 东亚亲子关系为何总充满伤痛和遗憾？](sources/ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk.md) — 无时差研究所以张家齐与戴露娃的家庭片段讨论条件式认可、父母付出与回报、完美受害者标准、性别化亲职责任以及拒绝强行和解的边界。
@@ -4728,6 +4729,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 
 ## Entities
+- [Pandora / 潘多拉](entities/Pandora.md) — Manufactured divine gift whose attraction and harmful purpose expose designed desire and gendered blame concentration.
+- [Epimetheus / 厄庇米修斯](entities/Epimetheus.md) — Pandora's warned recipient and the myth's case of risk knowledge failing to become preventive action.
+- [Works and Days / 《工作与时日》](entities/WorksAndDays.md) — Hesiodic poem joining labor, justice, scarcity, technical power, suffering, and ambiguous hope.
 - [Prometheus Bound / 《被缚的普罗米修斯》](entities/PrometheusBound.md) — Greek tragedy about foresight without mastery, practical arts, blind hope, necessity, and resistance under coercion.
 - [Io / 伊娥](entities/Io.md) — Suffering wanderer whose demand for prophecy frames painful truth, protective ignorance, and autonomy.
 - [Hephaestus / 赫淮斯托斯](entities/Hephaestus.md) — Divine maker whose reluctant chain-making separates technical skill from authority over purpose.
@@ -18337,6 +18341,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Designed Technological Desire / 技术欲望设计](concepts/DesignedTechnologicalDesire.md) — Deliberate shaping of attraction and choice so that users accept a technology and its costs.
+- [Risk Knowledge-Action Gap / 风险知识行动鸿沟](concepts/RiskKnowledgeActionGap.md) — Difference between recognizing a credible danger and changing behavior or deployment in response.
+- [Distributed Technology Responsibility / 分布式技术责任](concepts/DistributedTechnologyResponsibility.md) — Responsibility allocated across goal setters, makers, deployers, users, and affected outsiders.
 - [Knowledge-Control Boundary / 知识与控制边界](concepts/KnowledgeControlBoundary.md) — Distinction between understanding or predicting an event and possessing the power to govern its outcome.
 - [Blind Hope Under Uncertainty / 不确定性中的盲目希望](concepts/BlindHopeUnderUncertainty.md) — Action-enabling expectation without guaranteed outcomes, preserving both motivational value and epistemic risk.
 - [Technical Capability-Value Boundary / 技术能力与价值判断边界](concepts/TechnicalCapabilityValueBoundary.md) — Distinction between making or optimizing something and judging whether its purpose or deployment is justified.

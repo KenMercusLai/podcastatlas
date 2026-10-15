@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13535
+wiki_total_pages: 13538
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "Workmagic"
     title: "Workmagic"
     url: "/wiki/entities/workmagic/"
+  - key: "WorksAndDays"
+    title: "Works and Days / 《工作与时日》"
+    url: "/wiki/entities/worksanddays/"
   - key: "WorkshopInternalComms"
     title: "Workshop"
     url: "/wiki/entities/workshopinternalcomms/"

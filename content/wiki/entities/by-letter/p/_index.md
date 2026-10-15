@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13535
+wiki_total_pages: 13538
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "Panasonic"
     title: "Panasonic"
     url: "/wiki/entities/panasonic/"
+  - key: "Pandora"
+    title: "Pandora / 潘多拉"
+    url: "/wiki/entities/pandora/"
   - key: "PANE"
     title: "PANE"
     url: "/wiki/entities/pane/"

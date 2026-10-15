@@ -2727,6 +2727,10 @@
     "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
     "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
   },
+  "369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7": {
+    "title": "369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）",
+    "url": "/wiki/sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7/"
+  },
   "369-the-colosseum-romes-arena-of-death-glt7808118779": {
     "title": "369. The Colosseum: Rome's Arena of Death",
     "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
@@ -26387,6 +26391,10 @@
     "title": "Designed Agency In Games",
     "url": "/wiki/concepts/designedagencyingames/"
   },
+  "DesignedTechnologicalDesire": {
+    "title": "Designed Technological Desire / 技术欲望设计",
+    "url": "/wiki/concepts/designedtechnologicaldesire/"
+  },
   "DesignerAICodingWorkflow": {
     "title": "Designer AI Coding Workflow",
     "url": "/wiki/concepts/designeraicodingworkflow/"
@@ -27358,6 +27366,10 @@
   "DistributedSpeechLanguageCircuits": {
     "title": "Distributed Speech-Language Circuits",
     "url": "/wiki/concepts/distributedspeechlanguagecircuits/"
+  },
+  "DistributedTechnologyResponsibility": {
+    "title": "Distributed Technology Responsibility / 分布式技术责任",
+    "url": "/wiki/concepts/distributedtechnologyresponsibility/"
   },
   "DistributionBeforeMonetization": {
     "title": "Distribution Before Monetization",
@@ -30986,6 +30998,10 @@
   "EpigeneticReprogrammingBoundary": {
     "title": "Epigenetic Reprogramming Boundary",
     "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
+  },
+  "Epimetheus": {
+    "title": "Epimetheus / 厄庇米修斯",
+    "url": "/wiki/entities/epimetheus/"
   },
   "EpinephrineAlertnessToolkit": {
     "title": "Epinephrine Alertness Toolkit",
@@ -66883,6 +66899,10 @@
     "title": "Pandemic Historical Memory",
     "url": "/wiki/concepts/pandemichistoricalmemory/"
   },
+  "Pandora": {
+    "title": "Pandora / 潘多拉",
+    "url": "/wiki/entities/pandora/"
+  },
   "Panerai": {
     "title": "Panerai",
     "url": "/wiki/entities/panerai/"
@@ -75790,6 +75810,10 @@
   "RiskCostSeparation": {
     "title": "Risk-Cost Separation / 风险与成本分离",
     "url": "/wiki/concepts/riskcostseparation/"
+  },
+  "RiskKnowledgeActionGap": {
+    "title": "Risk Knowledge-Action Gap / 风险知识行动鸿沟",
+    "url": "/wiki/concepts/riskknowledgeactiongap/"
   },
   "RiskParity": {
     "title": "Risk Parity",
@@ -94590,6 +94614,10 @@
   "WorkplaceRoleClarityBoundary": {
     "title": "Workplace Role Clarity Boundary / 职场角色清醒边界",
     "url": "/wiki/concepts/workplaceroleclarityboundary/"
+  },
+  "WorksAndDays": {
+    "title": "Works and Days / 《工作与时日》",
+    "url": "/wiki/entities/worksanddays/"
   },
   "WorkshopInternalComms": {
     "title": "Workshop",

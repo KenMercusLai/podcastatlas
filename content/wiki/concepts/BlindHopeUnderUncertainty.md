@@ -4,6 +4,7 @@ type: concept
 tags: [hope, uncertainty, mortality, action, risk]
 sources:
   - 370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd
+  - 369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7
 last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ In [[PrometheusBound|《被缚的普罗米修斯》]], Prometheus does not aboli
 
 Its blindness is double-sided. Uncertainty makes hope possible, but hope can also hide danger, inflate success probabilities, or convert desire into imagined certainty. [[Io]] shows that truthful knowledge need not destroy hope: disclosure can reveal severe suffering while also identifying an endpoint.
 
+A more ambiguous container image comes from [[WorksAndDays|《工作与时日》]]. After other evils escape [[Pandora]]'s jar, *elpis* remains inside, but the poem does not settle whether humanity retains a resource for endurance or loses access to an expectation that might itself be good or bad. Hope's location therefore cannot resolve its value; judgment must still compare expectation with evidence and present danger.
+
 ## Key Claims
 
 - Hope is most needed where outcomes cannot be guaranteed.
@@ -25,21 +28,22 @@ Its blindness is double-sided. Uncertainty makes hope possible, but hope can als
 - Hope can sustain experimentation and long-term effort without proving that an outcome is likely.
 - Blindness can enable endurance while also concealing risk and encouraging overconfidence.
 - Knowledge and hope can correct one another; neither is a complete substitute for the other.
+- The survival value of expectation does not settle whether a particular hope improves risk judgment.
 
 ## Evidence
 
 - Mortal action: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] links blind hope to ordinary work, study, parenting, and long projects under mortality.
 - Technological civilization: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] argues that medicine, agriculture, and AI development depend partly on belief that improvement is possible.
 - Qualified disclosure: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] shows Io learning both the length and eventual end of her suffering.
+- Ambiguous retention: [[369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7]] preserves competing readings of *elpis* inside Pandora's jar as support, delusion, possession, or restriction.
 
 ## Counterevidence & Qualifications
 
-Hope is not evidence, probability, a policy, or a defense for ignoring known risk. The episode offers a philosophical account of motivation rather than an empirical psychology of when optimism helps or harms. Its contrast with [[Hesiod]]'s account of hope remains source-scoped and does not settle the full textual debate.
+Hope is not evidence, probability, a policy, or a defense for ignoring known risk. The episodes offer philosophical interpretations rather than an empirical psychology of when optimism helps or harms. Translation of *elpis*, the jar's spatial logic, and the relationship between Hesiod and *Prometheus Bound* remain disputed; the sources do not settle the full textual debate.
 
 ## What Changed
 
-- Created a hope framework that preserves both motivational value and epistemic risk.
-- Added disclosure as a process that can reshape rather than merely eliminate hope.
+- Added Pandora's jar as an unresolved case in which hope's retention can signify protection, restriction, or continuing cognitive risk.
 
 ## Related Concepts
 
@@ -48,3 +52,5 @@ Hope is not evidence, probability, a policy, or a defense for ignoring known ris
 - [[CynicismAndHopefulSkepticism]] - neighboring effort to preserve action without credulity.
 - [[ApocalypticThinking]] - fear-based certainty that can paralyze action in the opposite direction.
 - [[MedicalKnowledgeBoundary]] - domain where uncertainty, intervention, and hope must remain distinct.
+- [[WorksAndDays|《工作与时日》]] - text supplying the disputed *elpis*-in-the-jar image.
+- [[RiskKnowledgeActionGap]] - explains why hopeful or fearful expectation does not translate automatically into action.

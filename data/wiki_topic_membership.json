@@ -30435,6 +30435,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DesignedTechnologicalDesire": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DesignerAICodingWorkflow": [
     {
       "key": "technology",
@@ -31372,6 +31379,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "DistributedTechnologyResponsibility": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DistributionBeforeMonetization": [
@@ -34833,6 +34852,13 @@
     }
   ],
   "EpicModernAfterlife": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "Epimetheus": [
     {
       "key": "culture",
       "label": "Culture",
@@ -67321,6 +67347,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "Pandora": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PangChunmei": [
     {
       "key": "culture",
@@ -76150,6 +76188,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RiskKnowledgeActionGap": [
     {
       "key": "politics",
       "label": "Politics",
@@ -95288,6 +95333,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "WorksAndDays": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "WorldActionModels": [

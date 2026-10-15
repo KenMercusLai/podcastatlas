@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10588
+wiki_total_pages: 10591
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "DesignedAgencyInGames"
     title: "Designed Agency In Games"
     url: "/wiki/concepts/designedagencyingames/"
+  - key: "DesignedTechnologicalDesire"
+    title: "Designed Technological Desire / 技术欲望设计"
+    url: "/wiki/concepts/designedtechnologicaldesire/"
   - key: "DesignerAICodingWorkflow"
     title: "Designer AI Coding Workflow"
     url: "/wiki/concepts/designeraicodingworkflow/"
@@ -998,6 +1001,9 @@ wiki_pages:
   - key: "DistributedSpeechLanguageCircuits"
     title: "Distributed Speech-Language Circuits"
     url: "/wiki/concepts/distributedspeechlanguagecircuits/"
+  - key: "DistributedTechnologyResponsibility"
+    title: "Distributed Technology Responsibility / 分布式技术责任"
+    url: "/wiki/concepts/distributedtechnologyresponsibility/"
   - key: "DistributionBeforeMonetization"
     title: "Distribution Before Monetization"
     url: "/wiki/concepts/distributionbeforemonetization/"

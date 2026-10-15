@@ -6,6 +6,7 @@ sources:
   - 141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931
   - 343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882
   - 370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd
+  - 369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7
 last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The Oppenheimer episode extends the figure from literary creation to state weapo
 
 [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] returns to [[PrometheusBound|《被缚的普罗米修斯》]] itself. Prometheus can foresee punishment and teach number, writing, building, navigation, medicine, and other arts, yet cannot free himself or master necessity. His gift of [[BlindHopeUnderUncertainty|blind hope]] lets mortals act without guaranteed outcomes, while his exchange with [[Io]] shows that painful knowledge can both deepen suffering and reveal an endpoint. His freedom is finally residual but real: immobilized, he can still refuse obedience and withhold the secret that [[Zeus]] wants.
 
+The Hesiod episode preserves a sharper earlier profile. Prometheus deceives Zeus over sacrifice and steals back fire after Zeus hides it, so human technical gain triggers Pandora's manufacture and divine retaliation. The two episodes should not be flattened: the cunning challenger in Hesiod and the punished civilizing benefactor in *Prometheus Bound* represent different texts and moral emphases.
+
 ## Key Characteristics
 
 - Mythic giver of fire or transformative knowledge to humanity.
@@ -32,6 +35,7 @@ The Oppenheimer episode extends the figure from literary creation to state weapo
 - Modern framework for atomic power and the compromised public scientist.
 - Tragic figure whose foresight, practical knowledge, and resistance remain weaker than necessity without becoming powerless.
 - Giver of blind hope as well as fire, making motivation under uncertainty part of the Promethean problem.
+- Foresighted warning figure whose advice to Epimetheus cannot guarantee preventive action.
 
 ## Evidence
 
@@ -40,16 +44,16 @@ The Oppenheimer episode extends the figure from literary creation to state weapo
 - Punished maker: [[343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882]] anticipates Oppenheimer's later political punishment while preserving his own agency and errors.
 - Knowledge without mastery: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] contrasts Prometheus's foresight and civilizing arts with his inability to escape punishment.
 - Hope and resistance: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] presents blind hope as an enabling but risky gift and refusal as a freedom that survives physical constraint.
+- Hesiodic cunning and warning: [[369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7]] connects sacrificial deception, restored fire, Zeus's retaliation, and Epimetheus's failure to heed advance warning.
 
 ## Qualifications
 
-Promethean analogy can illuminate the dual-use structure of knowledge but can also over-personalize collective institutions and romanticize harm. Victor Frankenstein, Oppenheimer, Los Alamos, and the myth differ in agency, victims, political authority, and historical evidence; none should be treated as a one-to-one retelling of another. The current tragic reading comes from one essay-style podcast, and the authorship, Greek vocabulary, and relation among necessity, fate, and divine power require specialist textual support.
+Promethean analogy can illuminate the dual-use structure of knowledge but can also over-personalize collective institutions and romanticize harm. Victor Frankenstein, Oppenheimer, Los Alamos, AI, and the myth differ in agency, victims, political authority, and historical evidence; none should be treated as a one-to-one retelling of another. Hesiod and *Prometheus Bound* also differ in genre, characterization, and moral emphasis. The authorship, Greek vocabulary, dating, and relation among necessity, fate, and divine power require specialist textual support.
 
 ## What Changed
 
-- Added the older dramatic profile of foresight without control, arts weaker than necessity, and resistance under physical constraint.
-- Added blind hope as a distinct gift that motivates action while risking self-deception.
-- Connected Io's demand for prophecy to the autonomy boundary around painful knowledge.
+- Added the Hesiodic profile of cunning, restored fire, warning, and retaliation alongside the tragic benefactor profile.
+- Distinguished knowledge of danger from the power to make another person act on it.
 
 ## Relationships
 
@@ -63,3 +67,6 @@ Promethean analogy can illuminate the dual-use structure of knowledge but can al
 - [[KnowledgeControlBoundary]] - distinction between knowing a future and controlling it.
 - [[BlindHopeUnderUncertainty]] - motivational gift that complements fire and practical arts.
 - [[TechnicalCapabilityValueBoundary]] - means-and-ends boundary dramatized by the chain that binds him.
+- [[Pandora]] - retaliatory gift commissioned after his recovery of fire for humanity.
+- [[Epimetheus]] - brother who does not act on his warning.
+- [[RiskKnowledgeActionGap]] - boundary exposed when foresight fails to prevent acceptance.
