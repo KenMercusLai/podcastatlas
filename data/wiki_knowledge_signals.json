@@ -29540,6 +29540,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/billybutlin/"
     },
+    "BillyEvans": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/billyevans/"
+    },
     "BillyHughes": {
       "episode_count": 1,
       "show_count": 1,
@@ -79447,6 +79463,36 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/elizabetheverest/"
     },
+    "ElizabethHolmes": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "TSR-S4-TylerShultzPart1-Final [TSR-S4-TylerShultzPart1-Final].md",
+          "key": "tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 1)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final/"
+        },
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/elizabethholmes/"
+    },
     "ElizabethI": {
       "episode_count": 14,
       "show_count": 1,
@@ -91148,6 +91194,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/familyroleresponsibilityboundary/"
     },
+    "FamilySeparationThroughParentalIncarceration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/familyseparationthroughparentalincarceration/"
+    },
     "FamineEntitlementFailure": {
       "episode_count": 6,
       "show_count": 2,
@@ -98617,6 +98679,36 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/founderidentitydiversification/"
+    },
+    "FounderIdentityNarrativeRisk": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "TSR-S4-TylerShultzPart1-Final [TSR-S4-TylerShultzPart1-Final].md",
+          "key": "tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 1)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final/"
+        },
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedSales": {
       "episode_count": 11,
@@ -123641,6 +123733,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/himalayanglacialfloodrisk/"
+    },
+    "Himanthus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/himanthus/"
     },
     "HinduKushHimalaya": {
       "episode_count": 3,
@@ -226895,6 +227003,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/ralphlordoftheflies/"
     },
+    "RamanSpectroscopyDiagnosticData": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/ramanspectroscopydiagnosticdata/"
+    },
     "RanaElKaliouby": {
       "episode_count": 1,
       "show_count": 1,
@@ -269475,6 +269599,36 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/theoryofconstructedemotion/"
+    },
+    "Theranos": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "TSR-S4-TylerShultzPart1-Final [TSR-S4-TylerShultzPart1-Final].md",
+          "key": "tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 1)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final/"
+        },
+        {
+          "episode_file": "Billy_Evans_AIS26_AUDIO_88 [Billy_Evans_AIS26_AUDIO_88].md",
+          "key": "billy-evans-ais26-audio-88-billy-evans-ais26-audio-88",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+          "url": "/wiki/sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/theranos/"
     },
     "TherapeuticDefenseWork": {
       "episode_count": 1,

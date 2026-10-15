@@ -37042,3 +37042,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary
+
+Added source `billy-evans-ais26-audio-88-billy-evans-ais26-audio-88`; created [[BillyEvans|Billy Evans]], [[Himanthus]], [[FamilySeparationThroughParentalIncarceration]], and [[RamanSpectroscopyDiagnosticData]]; and resynthesized [[ElizabethHolmes|Elizabeth Holmes]], [[Theranos]], and [[FounderIdentityNarrativeRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Evans supplies valuable firsthand evidence about partnership, parenting, prison visits, and family separation, but his explanations of innocence, revenue projections, corporate responsibility, sentencing, and future exculpatory material remain attributed advocacy rather than independent rebuttal of the existing validation and whistleblower record. His gendered-media critique qualifies caricature without establishing exoneration. Himanthus's proposed Raman-sensor and AI-data architecture is technically distinct from Theranos's advertised platform but lacks independent technical, clinical, regulatory, or commercial validation. The initial gag-order description is corrected within the source itself, and the competing Theranos interpretations are preserved as a live evidence conflict rather than flattened into a settled contradiction. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due, with one pending ingest; refreshed artifacts validate 4,641 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

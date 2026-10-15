@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13538
+wiki_total_pages: 13540
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "HiltonWorldwide"
     title: "Hilton Worldwide"
     url: "/wiki/entities/hiltonworldwide/"
+  - key: "Himanthus"
+    title: "Himanthus"
+    url: "/wiki/entities/himanthus/"
   - key: "Himiko"
     title: "Himiko"
     url: "/wiki/entities/himiko/"

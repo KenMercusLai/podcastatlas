@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3541
+topic_total_pages: 3542
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3913,6 +3913,9 @@ topic_concepts:
   - key: "RadixAttention"
     title: "Radix Attention"
     url: "/wiki/concepts/radixattention/"
+  - key: "RamanSpectroscopyDiagnosticData"
+    title: "Raman Spectroscopy Diagnostic Data"
+    url: "/wiki/concepts/ramanspectroscopydiagnosticdata/"
   - key: "RansomwareBusinessContinuity"
     title: "Ransomware Business Continuity"
     url: "/wiki/concepts/ransomwarebusinesscontinuity/"
