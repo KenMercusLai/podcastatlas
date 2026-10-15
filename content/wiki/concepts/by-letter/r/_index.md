@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10597
+wiki_total_pages: 10599
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "RegulatedWorkflowWedge"
     title: "Regulated Workflow Wedge"
     url: "/wiki/concepts/regulatedworkflowwedge/"
+  - key: "RegulatoryProductLaunchDelay"
+    title: "Regulatory Product Launch Delay"
+    url: "/wiki/concepts/regulatoryproductlaunchdelay/"
   - key: "RegulatoryTakings"
     title: "Regulatory Takings"
     url: "/wiki/concepts/regulatorytakings/"

@@ -4755,9 +4755,9 @@
       "url": "/wiki/concepts/aireadydataengineering/"
     },
     "AIRegulationInnovationCompatibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
@@ -4765,9 +4765,16 @@
           "show": "Marketplace Tech",
           "title": "Finding common ground in the U.S.-China AI rivalry",
           "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/airegulationinnovationcompatibility/"
     },
     "AIRegulationPublicOpinionGap": {
@@ -87487,6 +87494,36 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/euripides/"
     },
+    "EuropeanAIIndustrialConstraints": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+          "key": "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1",
+          "show": "内核恐慌",
+          "title": "71. 编程的内燃机时代",
+          "url": "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+        },
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/europeanaiindustrialconstraints/"
+    },
     "EuropeanAmazonProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -87615,6 +87652,120 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/europeanintegrationwarprevention/"
+    },
+    "EuropeanUnion": {
+      "episode_count": 15,
+      "show_count": 7,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Under Secretary of State Sarah B. Rogers on dismantling the ＂Censorship Industrial Complex＂ [39828360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360/"
+        },
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "tech_20251231_1231_MP_TECH_pod_128 [tech_20251231_1231_MP_TECH_pod_128].md",
+          "key": "tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A whiplash year for electric vehicles",
+          "url": "/wiki/sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
+          "key": "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is \"made by humans\" the new premium label?",
+          "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+          "key": "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1",
+          "show": "内核恐慌",
+          "title": "71. 编程的内燃机时代",
+          "url": "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？ [lg3T77R6ajM31WcSdV1zE6C8hHj0].md",
+          "key": "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0",
+          "show": "乱翻书",
+          "title": "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？",
+          "url": "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+        },
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/europeanunion/"
     },
     "Eusebio": {
       "episode_count": 1,
@@ -180707,6 +180858,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/maxkrummel/"
     },
+    "MaxVonThun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/maxvonthun/"
+    },
     "MaximalSpeedVitalityHypothesis": {
       "episode_count": 1,
       "show_count": 1,
@@ -202828,6 +202995,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/opendatatransparency/"
     },
+    "OpenMarketsInstituteEurope": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/openmarketsinstituteeurope/"
+    },
     "OpenScientificCriticism": {
       "episode_count": 1,
       "show_count": 1,
@@ -218910,6 +219093,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/preachingasfailedconnection/"
     },
+    "PrecautionaryTechnologyRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/precautionarytechnologyregulation/"
+    },
     "PreconceptionTimingAndTesting": {
       "episode_count": 1,
       "show_count": 1,
@@ -229739,6 +229938,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/regulatedpeptideaccess/"
+    },
+    "RegulatoryProductLaunchDelay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261015_1015_MP_TECH_pod_128 [tech_20261015_1015_MP_TECH_pod_128].md",
+          "key": "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Regulating the tech sector in the AI era",
+          "url": "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/regulatoryproductlaunchdelay/"
     },
     "RehabilitationGoalDifferentiation": {
       "episode_count": 1,

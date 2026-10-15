@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3542
+topic_total_pages: 3545
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3766,6 +3766,9 @@ topic_concepts:
   - key: "PowerScarcityInfrastructureInvesting"
     title: "Power Scarcity Infrastructure Investing"
     url: "/wiki/concepts/powerscarcityinfrastructureinvesting/"
+  - key: "PrecautionaryTechnologyRegulation"
+    title: "Precautionary Technology Regulation"
+    url: "/wiki/concepts/precautionarytechnologyregulation/"
   - key: "PrecisionAgriculture"
     title: "Precision Agriculture"
     url: "/wiki/concepts/precisionagriculture/"
@@ -3958,6 +3961,9 @@ topic_concepts:
   - key: "RegulatedEnterpriseAIDeployment"
     title: "Regulated Enterprise AI Deployment / 受监管企业AI部署"
     url: "/wiki/concepts/regulatedenterpriseaideployment/"
+  - key: "RegulatoryProductLaunchDelay"
+    title: "Regulatory Product Launch Delay"
+    url: "/wiki/concepts/regulatoryproductlaunchdelay/"
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
@@ -10023,6 +10029,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280"
     title: "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+  - key: "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128"
+    title: "Regulating the tech sector in the AI era"
+    url: "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
   - key: "right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f"
     title: "Right in front: AfD could win German state"
     url: "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3337
+topic_total_pages: 3340
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3316,6 +3316,9 @@ topic_concepts:
   - key: "PreReformBritishElectoralRepresentation"
     title: "Pre-Reform British Electoral Representation"
     url: "/wiki/concepts/prereformbritishelectoralrepresentation/"
+  - key: "PrecautionaryTechnologyRegulation"
+    title: "Precautionary Technology Regulation"
+    url: "/wiki/concepts/precautionarytechnologyregulation/"
   - key: "PredeterminedMeetingProcess"
     title: "Predetermined Meeting Process / 既定结果会议程序"
     url: "/wiki/concepts/predeterminedmeetingprocess/"
@@ -3661,6 +3664,9 @@ topic_concepts:
   - key: "RegulatedSPVPrivateMarketAccess"
     title: "Regulated SPV Private-Market Access"
     url: "/wiki/concepts/regulatedspvprivatemarketaccess/"
+  - key: "RegulatoryProductLaunchDelay"
+    title: "Regulatory Product Launch Delay"
+    url: "/wiki/concepts/regulatoryproductlaunchdelay/"
   - key: "RegulatoryTakings"
     title: "Regulatory Takings"
     url: "/wiki/concepts/regulatorytakings/"
@@ -9312,6 +9318,9 @@ topic_sources:
   - key: "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210"
     title: "Putin's options: an oligarch speaks out"
     url: "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+  - key: "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128"
+    title: "Regulating the tech sector in the AI era"
+    url: "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225"
     title: "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"

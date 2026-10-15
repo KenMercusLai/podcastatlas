@@ -11,29 +11,28 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10597
-- Entities: 13546
-- Sources: 4643
-- Total wiki content pages: 28787
+- Concepts: 10599
+- Entities: 13548
+- Sources: 4644
+- Total wiki content pages: 28792
 
 ## Links
-- Wiki link references: 665767
-- Unique wiki link targets: 28817
+- Wiki link references: 665739
+- Unique wiki link targets: 28822
 - Missing targets: 40
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4643
-- Matched episodes: 4643
+- Source pages: 4644
+- Matched episodes: 4644
 - Missing source_file: 0
 - Unmatched source_file: 0
 
 ## Missing Targets
 
 - `[[AICompanionSafety]]`
-  - `content/wiki/concepts/AIRegulationInnovationCompatibility.md`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[AIDatasetBias]]`
   - `content/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md`

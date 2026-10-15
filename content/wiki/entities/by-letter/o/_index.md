@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13546
+wiki_total_pages: 13548
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "OpenCloud"
     title: "Open Cloud"
     url: "/wiki/entities/opencloud/"
+  - key: "OpenMarketsInstituteEurope"
+    title: "Open Markets Institute Europe"
+    url: "/wiki/entities/openmarketsinstituteeurope/"
   - key: "OpenAI"
     title: "OpenAI"
     url: "/wiki/entities/openai/"

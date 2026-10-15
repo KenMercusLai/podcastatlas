@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10597
+wiki_total_pages: 10599
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1742,6 +1742,9 @@ wiki_pages:
   - key: "PreachingAsFailedConnection"
     title: "Preaching As Failed Connection / 说教作为失败的亲近方式"
     url: "/wiki/concepts/preachingasfailedconnection/"
+  - key: "PrecautionaryTechnologyRegulation"
+    title: "Precautionary Technology Regulation"
+    url: "/wiki/concepts/precautionarytechnologyregulation/"
   - key: "PrecisionAgriculture"
     title: "Precision Agriculture"
     url: "/wiki/concepts/precisionagriculture/"

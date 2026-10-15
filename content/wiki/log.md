@@ -37066,3 +37066,11 @@ Added source `essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | Regulating the tech sector in the AI era
+
+Added source `tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128`; created [[MaxVonThun|Max von Thun]], [[OpenMarketsInstituteEurope|Open Markets Institute Europe]], [[RegulatoryProductLaunchDelay]], and [[PrecautionaryTechnologyRegulation]]; and resynthesized [[EuropeanUnion]], [[EuropeanAIIndustrialConstraints]], and [[AIRegulationInnovationCompatibility]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: delayed European launches may combine genuine compliance with corporate bargaining; later adaptation can add interoperability or protection without proving either motive; and Europe's technology gap is better treated as a multi-causal result of language, national-market, capital, software-culture, and regulatory conditions than as an effect of recent regulation alone. No settled contradiction was adopted. Product motives, the AirPods timeline, polling, compliance costs, AI incidents, startup burdens, and comparative causal weights remain source-scoped because the short episode relies mainly on one pro-regulation expert. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due, with three pending ingests; refreshed artifacts validate 4,644 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

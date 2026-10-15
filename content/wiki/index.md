@@ -4730,8 +4730,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？](sources/c1f006c2d282-c1f006c2d282.md) — 科技乱炖 episode on agentic Linux, disposable software, feature commoditization, durable service moats, open-source review capacity, and agent-facing system interfaces.
 - [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq.md) — 张小珺Jùn访谈Dyna创始人Lindon，讨论产品研究、折叠到完整工作流、预训练与全栈机器人商业化。
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
+- [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Max von Thun](entities/MaxVonThun.md) — European technology-policy advocate connecting launch delays, structural competitiveness, precaution, and transatlantic learning.
+- [Open Markets Institute Europe](entities/OpenMarketsInstituteEurope.md) — Institutional context for Max von Thun's competition- and technology-policy arguments.
 - [Tara Bosch](entities/TaraBosch.md) — SmartSweets and Snackish founder whose advice links taste, customer evidence, channel choice, manufacturing, and long-term vision.
 - [SmartSweets](entities/SmartSweets.md) — Lower-sugar candy company used as a reference case for taste-first positioning and complementary wholesale and DTC channels.
 - [Snackish](entities/Snackish.md) — Tara Bosch's early high-protein potato-chip venture built around functional nutrition without sacrificing conventional snack appeal.
@@ -18352,6 +18355,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Regulatory Product Launch Delay](concepts/RegulatoryProductLaunchDelay.md) — Mixed compliance, bargaining, consumer-cost, and adaptation mechanism behind later regional product availability.
+- [Precautionary Technology Regulation](concepts/PrecautionaryTechnologyRegulation.md) — Proportional pre-release safeguards for emerging systems with potentially severe or irreversible harms.
 - [Customer-Interview-Led Positioning](concepts/CustomerInterviewLedPositioning.md) — Deriving a concise value proposition from recurring customer motives and language, then checking it against behavior.
 - [Retail Channel Complementarity](concepts/RetailChannelComplementarity.md) — Physical retail and DTC adding demand by serving distinct purchase occasions rather than merely shifting the same sale.
 - [Referral Behavior Validation](concepts/ReferralBehaviorValidation.md) — Using completed use, unsolicited sharing, recommendation, and friend conversion as product-value evidence.
