@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13548
+wiki_total_pages: 13550
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "HaierBrothers"
     title: "《海尔兄弟》"
     url: "/wiki/entities/haierbrothers/"
+  - key: "HaiLuBook"
+    title: "《海录》 / Hai Lu"
+    url: "/wiki/entities/hailubook/"
   - key: "HongLouMeng"
     title: "《红楼梦》 / Dream of the Red Chamber"
     url: "/wiki/entities/hongloumeng/"

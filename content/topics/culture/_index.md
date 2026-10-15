@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3517
+topic_total_pages: 3518
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7442,6 +7442,9 @@ topic_entities:
   - key: "Fayan"
     title: "《法言》 / Fayan"
     url: "/wiki/entities/fayan/"
+  - key: "HaiLuBook"
+    title: "《海录》 / Hai Lu"
+    url: "/wiki/entities/hailubook/"
   - key: "TheLittleMermaid"
     title: "《海的女儿》 / The Little Mermaid"
     url: "/wiki/entities/thelittlemermaid/"

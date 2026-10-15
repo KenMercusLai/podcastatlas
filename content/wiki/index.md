@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [45 丈量世界的科学狂人 vs 平视欧美的大清旅人](sources/lue3zoz87pipdfhtc8pmxj1axuyd-lue3zoz87pipdfhtc8pmxj1axuyd.md) — 怪东西 compares Humboldt's measurement-and-publication system with Xie Qinggao's pre–Opium War travel record to separate overseas information from institutional understanding and action.
 - [Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031.md) — Condensed Huberman Lab interview on assistive cortical control, robotic electrode insertion, co-adaptive decoding, spinal-bypass possibilities, and augmentation boundaries.
 - [Advice Line with Tara Bosch of SmartSweets](sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce.md) — Tara Bosch advises three consumer startups on DTC-to-grocery expansion, manufacturing readiness, customer-led positioning, referral validation, and concrete long-term vision.
 - [Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary](sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88.md) — All-In interview with Billy Evans on Holmes's trial and imprisonment, their children's separation, competing Theranos narratives, and his Raman-spectroscopy startup Himanthus.
@@ -4733,6 +4734,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [谢清高 / Xie Qinggao](entities/XieQinggao.md) — Qing merchant-seafarer whose orally transmitted travel knowledge recorded overseas commerce, empire, opium, and technology before the Opium War.
+- [《海录》 / Hai Lu](entities/HaiLuBook.md) — 1820 travel account preserving Xie Qinggao's observations while exposing the gap between information circulation and state response.
 - [Max von Thun](entities/MaxVonThun.md) — European technology-policy advocate connecting launch delays, structural competitiveness, precaution, and transatlantic learning.
 - [Open Markets Institute Europe](entities/OpenMarketsInstituteEurope.md) — Institutional context for Max von Thun's competition- and technology-policy arguments.
 - [Tara Bosch](entities/TaraBosch.md) — SmartSweets and Snackish founder whose advice links taste, customer evidence, channel choice, manufacturing, and long-term vision.
@@ -18364,7 +18367,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Family Separation Through Parental Incarceration](concepts/FamilySeparationThroughParentalIncarceration.md) — How imprisonment transfers daily burdens into children's attachment, caregiving, travel, explanations, and repeated departures.
 - [Raman Spectroscopy Diagnostic Data](concepts/RamanSpectroscopyDiagnosticData.md) — Proposed sensor-to-biological-data-to-AI chain, bounded by measurement and clinical-validation requirements.
 - [Designed Technological Desire / 技术欲望设计](concepts/DesignedTechnologicalDesire.md) — Deliberate shaping of attraction and choice so that users accept a technology and its costs.
-- [Risk Knowledge-Action Gap / 风险知识行动鸿沟](concepts/RiskKnowledgeActionGap.md) — Difference between recognizing a credible danger and changing behavior or deployment in response.
+- [Risk Knowledge-Action Gap / 风险知识行动鸿沟](concepts/RiskKnowledgeActionGap.md) — Difference between possessing credible warning information and converting it into individual or institutional action.
 - [Distributed Technology Responsibility / 分布式技术责任](concepts/DistributedTechnologyResponsibility.md) — Responsibility allocated across goal setters, makers, deployers, users, and affected outsiders.
 - [Knowledge-Control Boundary / 知识与控制边界](concepts/KnowledgeControlBoundary.md) — Distinction between understanding or predicting an event and possessing the power to govern its outcome.
 - [Blind Hope Under Uncertainty / 不确定性中的盲目希望](concepts/BlindHopeUnderUncertainty.md) — Action-enabling expectation without guaranteed outcomes, preserving both motivational value and epistemic risk.

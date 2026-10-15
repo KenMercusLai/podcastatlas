@@ -37074,3 +37074,11 @@ Added source `tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-16] ingest | 45 丈量世界的科学狂人 vs 平视欧美的大清旅人
+
+Added source `lue3zoz87pipdfhtc8pmxj1axuyd-lue3zoz87pipdfhtc8pmxj1axuyd`; created [[XieQinggao|谢清高]] and [[HaiLuBook|《海录》]]; and resynthesized [[AlexanderVonHumboldt|Alexander von Humboldt]], [[HumboldtianNatureInterconnection]], and [[RiskKnowledgeActionGap]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Humboldt's measurements became durable scientific influence through long analysis, publication, correspondence, and a scientific community, while *Hai Lu* preserved pre–Opium War observations of migration, colonial reach, opium, troops, urban infrastructure, and steam technology without automatically producing a shared Qing strategic model or coordinated state response. No settled contradiction was adopted. Xie's four-year versus fourteen-year travel chronology and translation dependence revise later legend, while his American and ethnographic reports, Humboldt priority claims, *Hai Lu* readership and policy effects, and stories about later official ignorance remain mediated or source-scoped. The broad [[WeirdHistoryPodcast|怪东西 Weird History]] hub was kept closed because focused pages capture the durable additions without reopening its large unchanged evidence inventory. The automatic `wiki/overview.md` was read for context and left unchanged because this focused travel-history comparison strengthens existing knowledge-action and Humboldt branches without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due, with three pending ingests; refreshed artifacts validate 4,645 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
