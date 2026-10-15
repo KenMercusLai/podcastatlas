@@ -32337,6 +32337,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DynaRobotics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DynamicBalancingRobotics": [
     {
       "key": "technology",
@@ -55656,6 +55663,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "LindonDyna": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "LindseyGraham": [
     {
       "key": "politics",
@@ -76556,6 +76575,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobotWorkflowComplexityCommercialization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RobotaxiHybridDeployment": [
     {
       "key": "politics",
@@ -76571,6 +76597,13 @@
     }
   ],
   "RoboticNeuralElectrodeInsertion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "RoboticsProductResearch": [
     {
       "key": "technology",
       "label": "Technology",
@@ -105119,6 +105152,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lstyln6ml2pnn9isi6heyyvuewk6": [

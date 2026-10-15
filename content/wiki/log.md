@@ -36978,3 +36978,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | 154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明
+
+Added source `lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq`; created [[DynaRobotics]], [[LindonDyna|Lindon]], [[RoboticsProductResearch]], and [[RobotWorkflowComplexityCommercialization]]. Core synthesis: Dyna uses a product end state to constrain research, field failures to rebalance pretraining, controls, hardware, and workflow design, and a workflow-complexity gradient to move from retry-tolerant folding toward supervised-labor removal and full B2B laundry output. No settled contradiction was adopted. Success rates, recovery performance, zero-shot generalization, million-hour data scale, throughput, hotel market size, production stage, biography, and commercialization outlook remain founder- or company-attributed. Broad robotics, show, Instacart, founder-resilience, and architecture pages were kept closed because the focused pages capture the durable additions without reopening much larger evidence inventories. The automatic `wiki/overview.md` was read for context and left unchanged because the focused robotics additions did not warrant a new global overview paragraph. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,633 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

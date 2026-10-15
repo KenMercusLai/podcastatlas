@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10569
+wiki_total_pages: 10571
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1235,6 +1235,9 @@ wiki_pages:
   - key: "RobotTrainingCenters"
     title: "Robot Training Centers"
     url: "/wiki/concepts/robottrainingcenters/"
+  - key: "RobotWorkflowComplexityCommercialization"
+    title: "Robot Workflow Complexity Commercialization / 机器人工作流复杂度商业化"
+    url: "/wiki/concepts/robotworkflowcomplexitycommercialization/"
   - key: "RobotHumanBoundary"
     title: "Robot-Human Boundary"
     url: "/wiki/concepts/robothumanboundary/"
@@ -1262,6 +1265,9 @@ wiki_pages:
   - key: "RoboticNeuralElectrodeInsertion"
     title: "Robotic Neural-Electrode Insertion"
     url: "/wiki/concepts/roboticneuralelectrodeinsertion/"
+  - key: "RoboticsProductResearch"
+    title: "Robotics Product Research / 机器人产品研究"
+    url: "/wiki/concepts/roboticsproductresearch/"
   - key: "RoboticsRevenuePullForward"
     title: "Robotics Revenue Pull-Forward"
     url: "/wiki/concepts/roboticsrevenuepullforward/"

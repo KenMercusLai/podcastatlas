@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13523
+wiki_total_pages: 13525
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "DylanThompson"
     title: "Dylan Thompson"
     url: "/wiki/entities/dylanthompson/"
+  - key: "DynaRobotics"
+    title: "Dyna Robotics"
+    url: "/wiki/entities/dynarobotics/"
   - key: "Dyson"
     title: "Dyson / 戴森"
     url: "/wiki/entities/dyson/"

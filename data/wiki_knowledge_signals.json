@@ -75681,6 +75681,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/dwarkeshpatel/"
     },
+    "DynaRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lssO9j-p6L7ZGWAwhIB14zJXksFQ [lssO9j-p6L7ZGWAwhIB14zJXksFQ].md",
+          "key": "lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+          "url": "/wiki/sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/dynarobotics/"
+    },
     "DynamicBlindness": {
       "episode_count": 1,
       "show_count": 1,
@@ -161475,6 +161491,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/lindisfarne/"
     },
+    "LindonDyna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lssO9j-p6L7ZGWAwhIB14zJXksFQ [lssO9j-p6L7ZGWAwhIB14zJXksFQ].md",
+          "key": "lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+          "url": "/wiki/sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/lindondyna/"
+    },
     "LindsayCole": {
       "episode_count": 1,
       "show_count": 1,
@@ -234913,6 +234945,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/robottrainingcenters/"
     },
+    "RobotWorkflowComplexityCommercialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lssO9j-p6L7ZGWAwhIB14zJXksFQ [lssO9j-p6L7ZGWAwhIB14zJXksFQ].md",
+          "key": "lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+          "url": "/wiki/sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/robotworkflowcomplexitycommercialization/"
+    },
     "RobotaxiIncumbentTaxiPartnership": {
       "episode_count": 1,
       "show_count": 1,
@@ -234983,6 +235031,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/roboticneuralelectrodeinsertion/"
+    },
+    "RoboticsProductResearch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lssO9j-p6L7ZGWAwhIB14zJXksFQ [lssO9j-p6L7ZGWAwhIB14zJXksFQ].md",
+          "key": "lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+          "url": "/wiki/sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/roboticsproductresearch/"
     },
     "RoboticsRevenuePullForward": {
       "episode_count": 1,

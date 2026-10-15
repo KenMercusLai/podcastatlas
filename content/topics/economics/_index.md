@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2271
+topic_total_pages: 2273
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4580,6 +4580,9 @@ topic_entities:
   - key: "LightCone"
     title: "Light Cone"
     url: "/wiki/entities/lightcone/"
+  - key: "LindonDyna"
+    title: "Lindon (Dyna Robotics)"
+    url: "/wiki/entities/lindondyna/"
   - key: "LiuJinbiao"
     title: "Liu Jinbiao / 刘金彪"
     url: "/wiki/entities/liujinbiao/"
@@ -5931,6 +5934,9 @@ topic_sources:
   - key: "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d"
     title: "153.全球宏观和资本市场2026展望：大年之后，仍是大年？"
     url: "/wiki/sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d/"
+  - key: "lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq"
+    title: "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明"
+    url: "/wiki/sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq/"
   - key: "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x"
     title: "154.四十岁感言：不做那只温水里的青蛙"
     url: "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"

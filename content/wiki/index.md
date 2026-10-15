@@ -4719,6 +4719,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [特番｜从会开车到会做事：AI如何进入真实世界](sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns.md) — 商业就是这样与地平线嘉宾以责任边界、拟人化体验、芯片—算法协同、汽车规模化入口和机器人控制约束解释物理 AI 落地。
 
 - [从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？](sources/c1f006c2d282-c1f006c2d282.md) — 科技乱炖 episode on agentic Linux, disposable software, feature commoditization, durable service moats, open-source review capacity, and agent-facing system interfaces.
+- [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq.md) — 张小珺Jùn访谈Dyna创始人Lindon，讨论产品研究、折叠到完整工作流、预训练与全栈机器人商业化。
 
 ## Entities
 - [Cotti Coffee / 库迪咖啡](entities/CottiCoffee.md) — Chinese coffee chain represented through a selected-store test of freshly fried food and its operating tradeoffs.
@@ -18316,6 +18317,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆无命（古龙人物） / Jing Wuming (Gu Long character)](entities/JingWumingGuLong.md) — 以隐藏剑术、杀人工具身份及对上官金虹的复杂依附成为榜外高手。
 
 - [Omarchy](entities/Omarchy.md) — Arch Linux-based distribution used as an early case of agent-assisted configuration, repair, and personal workflow construction.
+- [Dyna Robotics](entities/DynaRobotics.md) — Full-stack robotics startup using deployment feedback to connect product research, flexible-object manipulation, and hotel-laundry workflows.
+- [Lindon (Dyna Robotics)](entities/LindonDyna.md) — Dyna founder and CEO linking repeat-founder judgment, full-stack robot strategy, and long-horizon personal practice.
 
 ## Concepts
 - [Regional Product Team as Export Hub / 区域产品团队外溢](concepts/RegionalProductTeamAsExportHub.md) — When local product autonomy and design learning become reusable capability for neighboring or overseas markets.
@@ -28971,5 +28974,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Disposable Software](concepts/DisposableSoftware.md) — Narrow task-specific software generated when needed and retained only while maintenance remains worthwhile.
 - [Open-Source Review Bottleneck](concepts/OpenSourceReviewBottleneck.md) — Mismatch between AI-expanded contribution volume and scarce maintainer validation and integration capacity.
 - [Software Moat Beyond Features](concepts/SoftwareMoatBeyondFeatures.md) — Durable value in data, infrastructure, domain knowledge, rights, networks, compatibility, accountability, and service rather than reproducible UI behavior.
+- [Robotics Product Research / 机器人产品研究](concepts/RoboticsProductResearch.md) — Product-directed research loop in which deployments reveal which model, data, control, hardware, or workflow constraint matters next.
+- [Robot Workflow Complexity Commercialization / 机器人工作流复杂度商业化](concepts/RobotWorkflowComplexityCommercialization.md) — Market sequencing by complete-workflow length, serial failure, recovery burden, supervision, and daily throughput.
 
 ## Syntheses
