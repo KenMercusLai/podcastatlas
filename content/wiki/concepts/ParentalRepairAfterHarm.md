@@ -6,6 +6,7 @@ sources:
   - zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5
   - protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498
   - 086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible
+  - ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ Before approaching the child, the adult can separate personhood from behavior—
 
 The fictional [[MyDateWithAVampire|《我和僵尸有个约会》]] case expands the scale from an acute rupture to recognition of a long relational pattern. [[PingMaMyDateWithAVampire|平妈]] can interrupt [[APingMyDateWithAVampire|阿平]]'s revenge only after admitting that possessive care and denied autonomy helped produce the crisis. The case makes acknowledgment emotionally consequential while also clarifying a limit: remorse and reconciliation do not undo murder, coercion, or years of control, and a victim such as [[PPMyDateWithAVampire|P.P.]] is not ordinarily responsible for making the parent understand.
 
+A non-reconciliation outcome remains compatible with the repair framework. When [[ZhangJiaqiDiver|张家齐]] declines her mother's proposal to begin again in [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]], the refusal does not negate the possibility of later repair; it prevents a symbolic reset from substituting for acknowledgment, restitution, changed behavior, and rebuilt trust. Explanation of a parent's pressure may make harm intelligible, as in [[DaiLuwa|戴露娃]]'s family, without giving the parent a right to forgiveness or renewed closeness.
+
 ## Key Claims
 
 - Private regret is not enough after a parent harms a child; repair requires explicit speech and responsibility.
@@ -32,7 +35,7 @@ The fictional [[MyDateWithAVampire|《我和僵尸有个约会》]] case expands
 - The child should hear explicitly that the adult's loss of control was not the child's fault.
 - Repair should not make the child comfort the adult or certify that the parent is still good.
 - The follow-up conversation should ask what the child experienced and whether the adult misunderstood the event.
-- The larger goal is not parental perfection or instant absolution, but responsibility, changed conduct, attention to victims, and a credible effort to respond differently.
+- The larger goal is not parental perfection, instant absolution, or compulsory reunion, but responsibility, changed conduct, attention to victims, and respect for the harmed person's boundary.
 
 ## Evidence
 
@@ -47,9 +50,13 @@ The fictional [[MyDateWithAVampire|《我和僵尸有个约会》]] case expands
 
 - [[086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible]] makes Ping Ma's admission that controlling love harmed A Ping the event that releases his resentment, while preserving her victims and the gravity of what occurred.
 
+### Refusal and non-reconciliation
+
+- [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]] presents Zhang Jiaqi's refusal of an immediate mother-daughter reset as a legitimate boundary and distinguishes understanding Dai Luwa's family pressure from denying the harm she reports.
+
 ## Counterevidence & Qualifications
 
-Apology alone does not repair severe, repeated, or ongoing harm, and promised change without behavioral change can deepen mistrust. Hanji 891 is a short parenting segment in a history podcast, while the Kennedy interview provides public psychoeducation rather than a complete child-safety or clinical intervention model. The 《我和僵尸有个约会》 case is a supernatural fictional resolution, not real-world evidence that one confession restores safety or trust. Victims should not be assigned the duty to educate or reconcile with the person who harmed them. Violence, coercion, self-harm, or unsafe family conditions may require outside protection and qualified care.
+Apology alone does not repair severe, repeated, or ongoing harm, and promised change without behavioral change can deepen mistrust. Hanji 891 is a short parenting segment in a history podcast, while the Kennedy interview provides public psychoeducation rather than a complete child-safety or clinical intervention model. The 《我和僵尸有个约会》 case is a supernatural fictional resolution, not real-world evidence that one confession restores safety or trust. EP389 is commentary on selected reality-TV material rather than a complete family history. Victims should not be assigned the duty to educate, forgive, resume closeness, or reconcile with the person who harmed them. Violence, coercion, self-harm, or unsafe family conditions may require outside protection and qualified care.
 
 ## What Changed
 
@@ -57,6 +64,7 @@ Apology alone does not repair severe, repeated, or ongoing harm, and promised ch
 - Added a future-oriented account of how the adult intends to regulate differently.
 - Reframed repair as sturdy responsibility rather than recovery of authority through denial.
 - Extended repair from one acute rupture to acknowledgment of a long controlling pattern, while preserving restitution and victim boundaries.
+- Added refusal and continued distance as legitimate outcomes when accountability has not yet rebuilt trust.
 
 ## Related Concepts
 
@@ -68,3 +76,4 @@ Apology alone does not repair severe, repeated, or ongoing harm, and promised ch
 - [[FamilyLaborBoundaries]] - broader family concept for making hidden care work and obligations discussable.
 - [[ParentalProjectionControl]] - prolonged pattern that may require acknowledgment beyond apology for one incident.
 - [[MoralPrincipleEmpathyGap]] - judgment failure that repair must replace with attention to concrete harm and victims.
+- [[ParentalSacrificeReturnClaim|父母付出回报索取]] - adjacent pattern in which sacrifice is used to bypass responsibility or demand restored access.

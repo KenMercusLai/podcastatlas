@@ -37010,3 +37010,11 @@ Added source `714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632`
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | EP389-《我家那闺女》张家齐、代露娃 | 东亚亲子关系为何总充满伤痛和遗憾？
+
+Added source `ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk`; created [[ZhangJiaqiDiver|张家齐]], [[DaiLuwa|戴露娃]], [[MyDaughterRealityShow|《我家那闺女》]], [[ParentalSacrificeReturnClaim|父母付出回报索取]], [[PerfectVictimCredibilityStandard|完美受害者可信度标准]], and [[GenderedParentalBlameConcentration|亲职责任的性别化集中]]; and resynthesized [[ParentalProjectionControl|父母投射式控制]] and [[ParentalRepairAfterHarm|父母伤害后的修复]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: material sacrifice and real harm can coexist; parental investment does not create unlimited claims over an adult child's success, money, obedience, or emotion; credibility should follow claim-specific evidence rather than demands for personal perfection; and apology cannot compel forgiveness, reunion, or restored closeness. No settled contradiction was adopted. Alleged depletion of Zhang Jiaqi's earnings, guest motives, off-camera chronology, representative audience reaction, and the fathers' complete roles remain unverified or source-scoped. The broad [[WushichaYanjiusuo|无时差研究所]] hub was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic; global compaction ran because the max-age gate was due, resetting pending ingests to zero. Refreshed artifacts validate 4,637 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

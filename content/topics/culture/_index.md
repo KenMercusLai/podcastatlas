@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3510
+topic_total_pages: 3513
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1522,6 +1522,9 @@ topic_concepts:
   - key: "GenderedNationalistHeroism"
     title: "Gendered Nationalist Heroism"
     url: "/wiki/concepts/genderednationalistheroism/"
+  - key: "GenderedParentalBlameConcentration"
+    title: "Gendered Parental Blame Concentration / 亲职责任的性别化集中"
+    url: "/wiki/concepts/genderedparentalblameconcentration/"
   - key: "GenderedPatronageInversion"
     title: "Gendered Patronage Inversion"
     url: "/wiki/concepts/genderedpatronageinversion/"
@@ -2494,6 +2497,9 @@ topic_concepts:
   - key: "PeopleCenteredHistoricalJudgment"
     title: "People-Centered Historical Judgment / 爱民史观"
     url: "/wiki/concepts/peoplecenteredhistoricaljudgment/"
+  - key: "PerfectVictimCredibilityStandard"
+    title: "Perfect Victim Credibility Standard / 完美受害者可信度标准"
+    url: "/wiki/concepts/perfectvictimcredibilitystandard/"
   - key: "PerformanceAuthenticityTradeoff"
     title: "Performance Authenticity Tradeoff / 表演真实性权衡"
     url: "/wiki/concepts/performanceauthenticitytradeoff/"
@@ -7250,6 +7256,9 @@ topic_entities:
   - key: "WoZhuChangjiangWei"
     title: "《我住长江尾》 / Wo Zhu Changjiang Wei"
     url: "/wiki/entities/wozhuchangjiangwei/"
+  - key: "MyDaughterRealityShow"
+    title: "《我家那闺女》 / My Daughter"
+    url: "/wiki/entities/mydaughterrealityshow/"
   - key: "WoYouZijiDeYuzhou"
     title: "《我有自己的宇宙》"
     url: "/wiki/entities/woyouzijideyuzhou/"

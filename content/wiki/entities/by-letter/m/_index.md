@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13529
+wiki_total_pages: 13532
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1940,6 +1940,9 @@ wiki_pages:
   - key: "MyDateWithAVampire"
     title: "《我和僵尸有个约会》 / My Date with a Vampire"
     url: "/wiki/entities/mydatewithavampire/"
+  - key: "MyDaughterRealityShow"
+    title: "《我家那闺女》 / My Daughter"
+    url: "/wiki/entities/mydaughterrealityshow/"
   - key: "MyFirstHalfLife"
     title: "《我的前半生》 / My First Half Life"
     url: "/wiki/entities/myfirsthalflife/"

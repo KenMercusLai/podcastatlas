@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13529
+wiki_total_pages: 13532
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "ZhangjiashanHanmuZhujian"
     title: "张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips"
     url: "/wiki/entities/zhangjiashanhanmuzhujian/"
+  - key: "ZhangJiaqiDiver"
+    title: "张家齐 / Zhang Jiaqi (diver)"
+    url: "/wiki/entities/zhangjiaqidiver/"
   - key: "ZhangXiaojunCommercialInterviews"
     title: "张小珺Jùn｜商业访谈录"
     url: "/wiki/entities/zhangxiaojuncommercialinterviews/"

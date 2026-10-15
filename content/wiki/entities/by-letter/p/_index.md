@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13529
+wiki_total_pages: 13532
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"

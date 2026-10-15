@@ -24555,6 +24555,10 @@
     "title": "戴良 / Dai Liang (late Han)",
     "url": "/wiki/entities/dailianglatehan/"
   },
+  "DaiLuwa": {
+    "title": "戴露娃 / Dai Luwa",
+    "url": "/wiki/entities/dailuwa/"
+  },
   "DaiState": {
     "title": "代国 / Dai State",
     "url": "/wiki/entities/daistate/"
@@ -36894,6 +36898,10 @@
   "GenderedOfficeHierarchy": {
     "title": "Gendered Office Hierarchy",
     "url": "/wiki/concepts/genderedofficehierarchy/"
+  },
+  "GenderedParentalBlameConcentration": {
+    "title": "Gendered Parental Blame Concentration / 亲职责任的性别化集中",
+    "url": "/wiki/concepts/genderedparentalblameconcentration/"
   },
   "GenderedPatronageInversion": {
     "title": "Gendered Patronage Inversion",
@@ -62295,6 +62303,10 @@
     "title": "《我和僵尸有个约会》 / My Date with a Vampire",
     "url": "/wiki/entities/mydatewithavampire/"
   },
+  "MyDaughterRealityShow": {
+    "title": "《我家那闺女》 / My Daughter",
+    "url": "/wiki/entities/mydaughterrealityshow/"
+  },
   "MyFirstHalfLife": {
     "title": "《我的前半生》 / My First Half Life",
     "url": "/wiki/entities/myfirsthalflife/"
@@ -66999,6 +67011,10 @@
     "title": "Parental Repair After Harm / 父母伤害后的修复",
     "url": "/wiki/concepts/parentalrepairafterharm/"
   },
+  "ParentalSacrificeReturnClaim": {
+    "title": "Parental Sacrifice Return Claim / 父母付出回报索取",
+    "url": "/wiki/concepts/parentalsacrificereturnclaim/"
+  },
   "Parentification": {
     "title": "Parentification / 亲职化",
     "url": "/wiki/concepts/parentification/"
@@ -67942,6 +67958,10 @@
   "PerfectDays": {
     "title": "《完美的日子》 / Perfect Days",
     "url": "/wiki/entities/perfectdays/"
+  },
+  "PerfectVictimCredibilityStandard": {
+    "title": "Perfect Victim Credibility Standard / 完美受害者可信度标准",
+    "url": "/wiki/concepts/perfectvictimcredibilitystandard/"
   },
   "PerfectionismAsAvoidance": {
     "title": "Perfectionism As Avoidance",
@@ -98959,6 +98979,10 @@
     "title": "张角 / Zhang Jiao (late Han)",
     "url": "/wiki/entities/zhangjiaolatehan/"
   },
+  "ZhangJiaqiDiver": {
+    "title": "张家齐 / Zhang Jiaqi (diver)",
+    "url": "/wiki/entities/zhangjiaqidiver/"
+  },
   "ZhangJiayuan": {
     "title": "Zhang Jiayuan",
     "url": "/wiki/entities/zhangjiayuan/"
@@ -103378,6 +103402,10 @@
   "ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb": {
     "title": "EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意",
     "url": "/wiki/sources/ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb/"
+  },
+  "ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk": {
+    "title": "EP389-《我家那闺女》张家齐、代露娃 | 东亚亲子关系为何总充满伤痛和遗憾？",
+    "url": "/wiki/sources/ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk/"
   },
   "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj": {
     "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",

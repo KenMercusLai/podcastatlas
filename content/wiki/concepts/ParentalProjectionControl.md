@@ -5,6 +5,7 @@ tags: [parenting, education, control, psychology, childhood]
 sources:
   - vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz
   - 086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible
+  - ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk
 last_updated: 2026-10-10
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ VOL.214 develops the concept through "monster parent" scenes in [[TrueEducationK
 
 Across both cases, the critical point is not that parental care is false. Love becomes controlling when the parent cannot distinguish the child's needs and choices from the parent's identity, plan, fear, or self-justifying sacrifice. The fictional ending adds a repair boundary: acknowledgment can interrupt the pattern, but does not erase victims or make prolonged control harmless.
 
+Achievement and finance can also become surfaces of projection control. In [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]], [[ZhangJiaqiDiver|张家齐]] resists having her sporting career narrated as a parental design, distinguishes medals-based gifts from interest in her personhood, and describes parental access to her money alongside resistance to her learning financial management. The source does not establish misuse of funds, but it shows why adult agency includes control over the story of one's success as well as over relationships, education, and resources.
+
 ## Key Claims
 - "For your good" language can hide objectification when the child is treated as property, tool, or extension of the parent.
 - Projection becomes more intense when the child's actual desire, ability, or teacher relationship threatens a parental education plan.
@@ -30,7 +33,7 @@ Across both cases, the critical point is not that parental care is false. Love b
 - The pattern can coexist with real love; the problem is love organized around control rather than the child's independent subjectivity.
 - Chronic compliance can conceal rather than resolve the conflict by preventing the child from practicing independent preference, refusal, and responsibility.
 - The source links this family pattern to broader [[StructuralPowerImbalance|structural power imbalance]] because schools and teachers may be pressured by parent demands they cannot symmetrically answer.
-- Naming the parent's controlling role may begin repair, but acknowledgment does not cancel the consequences of coercion or complicity.
+- Naming the parent's controlling role may begin repair, but acknowledgment does not cancel consequences or require the adult child to restore closeness.
 
 ## Evidence
 - Monster-parent case: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] describes a mother using child-centered language while subjecting a teacher to round-the-clock calls and pressure.
@@ -46,14 +49,19 @@ Across both cases, the critical point is not that parental care is false. Love b
 
 - [[086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible]] connects A Ping's lack of an independent self to later concealment and coercion, then makes Ping Ma's admission of control the turning point in his revenge.
 
+### Achievement narrative and financial autonomy
+
+- [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]] reports Zhang Jiaqi correcting her mother's claim to have chosen her diving path, rejecting achievement-conditioned recognition, and describing parental bank access and resistance to independent financial management.
+
 ## Counterevidence & Qualifications
-The sources do not provide a general parenting study or a diagnostic category. They identify a controlling pattern through drama scenes, psychiatric interpretation, education examples, and a supernatural television tragedy. Concerned parental planning, teacher complaint, family attachment, or academic ambition should not automatically be treated as abusive without examining behavior, power, evidence, and the child's independent interests. The 《我和僵尸有个约会》 ending is useful as narrative interpretation, not proof that apology alone repairs severe or prolonged harm.
+The sources do not provide a general parenting study or a diagnostic category. They identify a controlling pattern through drama scenes, psychiatric interpretation, education examples, a supernatural television tragedy, and commentary on selected reality-TV material. Concerned parental planning, teacher complaint, family attachment, financial help, or academic ambition should not automatically be treated as abusive without examining behavior, power, evidence, and the child's independent interests. EP389 does not establish that Zhang Jiaqi's funds were depleted or misused. The 《我和僵尸有个约会》 ending is useful as narrative interpretation, not proof that apology alone repairs severe or prolonged harm.
 
 ## What Changed
 
 - Extended projection control from education-path conflict into adult partnership, identity, and autonomy.
 - Added chronic compliance as a concealed failure state rather than evidence of family harmony.
 - Added acknowledgment as a possible interruption that remains bounded by consequence and victimhood.
+- Added ownership of achievement narratives and financial self-direction as adult-autonomy boundaries.
 
 ## Related Concepts
 - [[ParentalExpectationShame]] - adjacent pattern where parental expectation turns into shame and hiding.
@@ -65,3 +73,4 @@ The sources do not provide a general parenting study or a diagnostic category. T
 - [[ProtectionAsControl]] - broader pattern where claimed protection becomes domination.
 - [[ParentalRepairAfterHarm]] - process that becomes relevant when a parent acknowledges the consequences of control.
 - [[MoralPrincipleEmpathyGap]] - neighboring failure in which moral categories replace attention to concrete people.
+- [[ParentalSacrificeReturnClaim|父母付出回报索取]] - adjacent mechanism that converts parental investment into entitlement over success, money, or obedience.

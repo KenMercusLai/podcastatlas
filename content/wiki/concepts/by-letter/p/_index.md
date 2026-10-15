@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10580
+wiki_total_pages: 10583
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "ParentalRepairAfterHarm"
     title: "Parental Repair After Harm / 父母伤害后的修复"
     url: "/wiki/concepts/parentalrepairafterharm/"
+  - key: "ParentalSacrificeReturnClaim"
+    title: "Parental Sacrifice Return Claim / 父母付出回报索取"
+    url: "/wiki/concepts/parentalsacrificereturnclaim/"
   - key: "Parentification"
     title: "Parentification / 亲职化"
     url: "/wiki/concepts/parentification/"
@@ -521,6 +524,9 @@ wiki_pages:
   - key: "PerceptionConsciousnessBoundary"
     title: "Perception-Consciousness Boundary"
     url: "/wiki/concepts/perceptionconsciousnessboundary/"
+  - key: "PerfectVictimCredibilityStandard"
+    title: "Perfect Victim Credibility Standard / 完美受害者可信度标准"
+    url: "/wiki/concepts/perfectvictimcredibilitystandard/"
   - key: "PerfectDayImagination"
     title: "Perfect-Day Imagination Practice"
     url: "/wiki/concepts/perfectdayimagination/"

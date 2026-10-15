@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10580
+wiki_total_pages: 10583
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "GenderedOfficeHierarchy"
     title: "Gendered Office Hierarchy"
     url: "/wiki/concepts/genderedofficehierarchy/"
+  - key: "GenderedParentalBlameConcentration"
+    title: "Gendered Parental Blame Concentration / 亲职责任的性别化集中"
+    url: "/wiki/concepts/genderedparentalblameconcentration/"
   - key: "GenderedPatronageInversion"
     title: "Gendered Patronage Inversion"
     url: "/wiki/concepts/genderedpatronageinversion/"

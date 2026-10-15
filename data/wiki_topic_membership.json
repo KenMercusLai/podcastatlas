@@ -40568,6 +40568,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GenderedParentalBlameConcentration": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GenderedPatronageInversion": [
     {
       "key": "culture",
@@ -62877,6 +62884,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MyDaughterRealityShow": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MyFirstHalfLife": [
     {
       "key": "culture",
@@ -68408,6 +68422,13 @@
     }
   ],
   "PerfectDays": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "PerfectVictimCredibilityStandard": [
     {
       "key": "culture",
       "label": "Culture",
