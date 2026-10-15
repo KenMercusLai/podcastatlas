@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10583
+wiki_total_pages: 10585
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "LifestyleDiseasePrevention"
     title: "Lifestyle-Disease Prevention / 生活习惯病预防"
     url: "/wiki/concepts/lifestylediseaseprevention/"
+  - key: "LifestyleDrivenSmallApplianceDemand"
+    title: "Lifestyle-Driven Small-Appliance Demand / 生活方式驱动的小家电需求"
+    url: "/wiki/concepts/lifestyledrivensmallappliancedemand/"
   - key: "LightAndDarkWorldDuality"
     title: "Light And Dark World Duality / 光明与黑暗世界二分"
     url: "/wiki/concepts/lightanddarkworldduality/"

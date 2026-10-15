@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3532
+topic_total_pages: 3533
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10227,6 +10227,9 @@ topic_sources:
   - key: "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906"
     title: "Vol.276 做月嫂育儿嫂的姐姐，都有故事"
     url: "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+  - key: "vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv"
+    title: "Vol.277 2026“金字招牌”特辑：有效创新"
+    url: "/wiki/sources/vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv/"
   - key: "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj"
     title: "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们"
     url: "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"

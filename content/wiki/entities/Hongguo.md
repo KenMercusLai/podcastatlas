@@ -2,44 +2,61 @@
 title: "红果"
 type: entity
 tags: [platform, short-drama, china]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]
-last_updated: 2026-08-07
+sources:
+  - 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob
+  - quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec
+  - 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx
+  - 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt
+  - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
+  - ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek
+  - vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv
+knowledge_schema: synthesis-v1
+last_updated: 2026-10-15
 ---
 
 # 红果
 
-Hongguo is the short-drama platform used in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] as the main case for free, ad-supported scripted entertainment growth. [[WangXiaoshu]] argues that Hongguo initially pulled in users who were not heavy long-video viewers, so its rise should not be reduced to a simple zero-sum transfer from [[IQIYI]] and other long-video platforms.
+## Overview
+Hongguo is ByteDance's free, advertising-funded short-drama platform, represented in the wiki as the product that turned short drama from a mini-program paid-unlock niche into a mass, platform-organized entertainment category.
 
-The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughly 100-minute story can be consumed with lower payment friction when free viewing and advertising replace direct episode payment. As live-action short dramas become more expensive and better looking, the source expects more overlap with long-video audiences and more direct substitution pressure.
+## Current Profile
+Hongguo combines content supply, free viewing, advertising, recommendation, and production-side intervention. The bounded sources connect it to [[FanqieNovel]] IP and material pipelines, [[Douyin]] traffic and distribution, guarantee-plus-share contracts, completion-rate incentives, and live-action supply. Its importance is therefore ecological rather than limited to one app feature.
 
-[[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds Hongguo as a domestic market-pressure point. [[HuangZiyiSanlian|黄子逸]] says the rise of free, more polished Hongguo-style short dramas overturned the earlier miniprogram paid-unlock model and made domestic competition more intense, pushing some short-drama firms toward [[ShortDramaOverseasExpansion|overseas growth]].
+The platform lowered consumer payment friction and helped expand scripted-entertainment demand beyond existing long-video users. As production quality rose, it also put more direct pressure on long-video attention and pushed some firms toward overseas markets. The newest source adds episode-reported scale above 100 million daily active users and 300 million monthly active users, while emphasizing that this reach rests on ByteDance's combined fiction, traffic, advertising, and distribution system.
 
-[[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds Hongguo to the [[ByteDanceGrowthSystem]] map. [[XuHongliang]] describes Hongguo as a high-growth product adjacent to [[FanqieNovel]] material teams and short-video distribution, while also noting a commercial ceiling: short episodes may generate very high time spent, but their ad load and DAU ARPU can be lower than [[Douyin]].
+Hongguo's ecosystem role does not remove producer risk. Rights access, platform review, paid traffic, delayed settlement, changing price rules, ad-load limits, and release capacity still determine who captures value. The same platform that created demand can become a bottleneck when AI makes supply effectively abundant.
 
-[[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] adds Hongguo as part of the rights, distribution, and settlement path for [[AnhuiXiaoMujiang]]. The episode says the creator could submit through Hongguo-related channels and receive revenue share from platform/distributor distribution, but also that Hongguo acceptance did not guarantee [[Douyin]] approval for later works.
+## Key Characteristics
+- Free, advertising-funded alternative to mini-program paid unlocks.
+- ByteDance ecosystem product linked to [[FanqieNovel]], [[Douyin]], advertising, and recommendation.
+- Scale platform whose audience includes people not previously heavy users of long-form video.
+- Production organizer using guarantees, revenue sharing, matchmaking, and completion metrics.
+- Distribution and settlement gate whose acceptance rules materially affect creators.
+- Platform with high time-spent potential but possibly lower ad density and DAU monetization than Douyin.
+- Demand aggregator increasingly exposed to [[AIShortDramaSupplyGlut]].
 
-[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] adds the live-action confidence-building side. The source says the platform conference promoted large-scale [[LiveActionShortDrama]] supply, incentives for better live-action works, and a matchmaking system for production participants, while guests connect Hongguo-style completion metrics to renewed emphasis on full stories and character relationships.
+## Evidence
+- **Free model and category expansion:** [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] treats Hongguo as free scripted entertainment that can expand demand rather than merely transfer long-video users.
+- **Growth-system fit:** [[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] places Hongguo beside Fanqie and short-video distribution while noting a lower monetization-density ceiling than Douyin.
+- **Rights, review, and settlement:** [[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] shows Hongguo inside the IP submission, distributor amplification, paid-traffic, and delayed-revenue path for [[AnhuiXiaoMujiang]].
+- **Live-action support and story incentives:** [[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] connects platform supply targets and matchmaking with completion metrics that reward coherent stories.
+- **Platform policy risk:** [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] says guarantee-plus-share production can create studio revenue while price and policy changes threaten survival.
+- **Domestic competitive pressure:** [[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] says more polished free-platform supply intensified domestic competition and encouraged overseas expansion.
+- **Scale and ecosystem integration:** [[vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv]] reports more than 100 million DAU and 300 million MAU and attributes rapid resource aggregation to fiction IP, traffic, advertising, and distribution.
 
-[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds Hongguo as a capacity buyer and policy risk for [[AIShortDrama]] studios. [[Taitai]] says some AI comic-drama companies rely on platform-native production for Hongguo and [[YuewenGroup]] under guarantee plus traffic-share models, but that platform price systems can change quickly enough to affect company survival.
+## Qualifications
+Audience, market-size, production, payout, and platform-policy figures are source-reported rather than independently verified. The sources vary in emphasis: an earlier account says Hongguo remained mainly live-action, while later accounts focus increasingly on AI production and supply pressure. This is treated as a changing platform mix, not proof that AI has replaced live action.
 
-## Key Points
-- Hongguo is treated as a scale platform for short dramas, not just a content format label.
-- The episode says Hongguo's current base remains more live-action short drama than [[AIShortDrama]].
-- Hongguo and [[Douyin]] are said to share a short-drama copyright-center relationship, but their distribution scenes and consumption behavior are not identical.
-- Hongguo's completion-rate focus is used to argue that complete stories regained value after earlier hook-driven paid-short-drama patterns.
-- Episode 7 adds Hongguo as a case where growth logic transfers from free novels and short video, but monetization density may remain structurally lower than Douyin.
-- Episode 267 adds Hongguo to the [[ShortDramaPaidTrafficDistribution]] chain, where platform acceptance, distributor amplification, and delayed settlement shape creator economics.
-- Episode 269 adds Hongguo's live-action support context: more supply, better matching, and a completion-rate standard that rewards coherent stories.
-- The What's Next source adds Hongguo as a platform whose production demand can create revenue for AI-drama studios while also exposing them to platform pricing and policy shifts.
-- EP240 adds Hongguo as the free-platform disruption that made domestic short-drama competition more crowded and helped motivate overseas expansion.
+## What Changed
+- Migrated the platform profile to the synthesis-first schema from its complete preserved evidence inventory.
+- Added the newest reported audience scale and the integrated fiction-traffic-advertising explanation of Hongguo's advantage.
+- Made abundant AI supply and limited platform intake explicit as a new constraint on the ecosystem.
 
-## Connections
-- [[Douyin]] — adjacent distribution and copyright-center context.
-- [[ShortDramaEconomics]] — free/ad-supported model and single-minute-cost frame.
-- [[AIShortDrama]] — possible future category overlap, although the source says Hongguo's base remains live-action.
-- [[AnhuiXiaoMujiang]] and [[ShortDramaPaidTrafficDistribution]] — creator-side case and paid-traffic mechanism.
-- [[PlatformizedDramaProduction]] — pressure on long-video platforms once Hongguo-style market testing works at scale.
-- [[LiveActionShortDrama]], [[CharacterRelationshipStoryLogic]], and [[ShortDramaIndustrialization]] — live-action branch added by episode 269.
-- [[ByteDanceGrowthSystem]], [[CreativeMaterialIndustrialization]], and [[LTVBasedGrowthBudgeting]] — growth operating context added by the Luanfanshu episode 7 source.
-- [[Taitai]], [[JiangyouWenhua]], [[YuewenGroup]], and [[PlatformizedDramaProduction]] — production-capacity and platform-policy branch added by What's Next.
-- [[ShortDramaOverseasExpansion]], [[ShortDramaEconomics]], and [[DataDrivenEntertainmentProduct]] — domestic-pressure branch added by EP240.
+## Relationships
+- [[ByteDance]] - parent ecosystem supplying traffic, advertising, data, and organizational capacity.
+- [[FanqieNovel]] - fiction and IP supply feeding short-drama adaptation.
+- [[Douyin]] - adjacent distribution, review, paid-traffic, and audience surface.
+- [[ShortDramaEconomics]] - free viewing, advertising, cost, and payout model.
+- [[ShortDramaPaidTrafficDistribution]] - amplification and settlement mechanism behind apparent virality.
+- [[LiveActionShortDrama]] - major content base and story-quality branch.
+- [[AIShortDramaSupplyGlut]] - oversupply condition that turns platform intake and attention into bottlenecks.

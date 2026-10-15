@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.277 2026“金字招牌”特辑：有效创新](sources/vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv.md) — 商业就是这样以功能饮料、小家电、旅行平台和 AI 短剧说明成熟市场的创新如何来自细分需求、渠道整合与生产力变化，同时把瓶颈推向品牌、数据、分发和注意力。
 - [EP389-《我家那闺女》张家齐、代露娃 | 东亚亲子关系为何总充满伤痛和遗憾？](sources/ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk.md) — 无时差研究所以张家齐与戴露娃的家庭片段讨论条件式认可、父母付出与回报、完美受害者标准、性别化亲职责任以及拒绝强行和解的边界。
 - [714. King Arthur: Lancelot and the Round Table (Part 2)](sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632.md) — The Rest Is History on Chrétien's Lancelot, courtly love, mounted knighthood, Round Table fellowship, Galahad's correction, and Malory's tragic grace.
 - [184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？](sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898.md) — 晚点聊季度复盘 Astra 进入机器人、分层控制、Physical RSI、机器人上下文学习、World Labs/AMD、宇树上市与 FCC 供应链限制。
@@ -18332,6 +18333,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Niche Innovation in Mature Markets / 成熟市场的缝隙创新](concepts/NicheInnovationInMatureMarkets.md) — Growth created by new use cases, channels, service bundles, or production methods even when the overall market is small, stable, or slowing.
+- [Lifestyle-Driven Small-Appliance Demand / 生活方式驱动的小家电需求](concepts/LifestyleDrivenSmallApplianceDemand.md) — Small-appliance demand created by household structure, ecommerce discovery, rapid iteration, recipes, and complementary goods.
 - [Gendered Parental Blame Concentration / 亲职责任的性别化集中](concepts/GenderedParentalBlameConcentration.md) — 母亲因照料或镜头可见性而承受集中审判，父亲则因证据缺席较少进入责任视野的媒介与家庭模式。
 - [Perfect Victim Credibility Standard / 完美受害者可信度标准](concepts/PerfectVictimCredibilityStandard.md) — 只有成就卓越、表达冷静且人格无瑕者才更容易获得伤害叙事信任的公共判断偏差。
 - [Parental Sacrifice Return Claim / 父母付出回报索取](concepts/ParentalSacrificeReturnClaim.md) — 将真实或宣称的养育付出转换为对成年子女服从、金钱、时间或情感回报的无限索取。

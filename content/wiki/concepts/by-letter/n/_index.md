@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10583
+wiki_total_pages: 10585
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "NicheCommunityValue"
     title: "Niche Community Value / 小众社区价值"
     url: "/wiki/concepts/nichecommunityvalue/"
+  - key: "NicheInnovationInMatureMarkets"
+    title: "Niche Innovation in Mature Markets / 成熟市场的缝隙创新"
+    url: "/wiki/concepts/nicheinnovationinmaturemarkets/"
   - key: "NicheOriginStoryExpansion"
     title: "Niche Origin Story Expansion"
     url: "/wiki/concepts/nicheoriginstoryexpansion/"
