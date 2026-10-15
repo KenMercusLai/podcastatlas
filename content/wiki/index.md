@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》](sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd.md) — 独树不成林 uses Prometheus, Hephaestus, and Io to separate prediction from control, technical capability from value judgment, and hope from guaranteed knowledge.
 - [Vol.277 2026“金字招牌”特辑：有效创新](sources/vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv.md) — 商业就是这样以功能饮料、小家电、旅行平台和 AI 短剧说明成熟市场的创新如何来自细分需求、渠道整合与生产力变化，同时把瓶颈推向品牌、数据、分发和注意力。
 - [EP389-《我家那闺女》张家齐、代露娃 | 东亚亲子关系为何总充满伤痛和遗憾？](sources/ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk.md) — 无时差研究所以张家齐与戴露娃的家庭片段讨论条件式认可、父母付出与回报、完美受害者标准、性别化亲职责任以及拒绝强行和解的边界。
 - [714. King Arthur: Lancelot and the Round Table (Part 2)](sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632.md) — The Rest Is History on Chrétien's Lancelot, courtly love, mounted knighthood, Round Table fellowship, Galahad's correction, and Malory's tragic grace.
@@ -4727,6 +4728,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 
 ## Entities
+- [Prometheus Bound / 《被缚的普罗米修斯》](entities/PrometheusBound.md) — Greek tragedy about foresight without mastery, practical arts, blind hope, necessity, and resistance under coercion.
+- [Io / 伊娥](entities/Io.md) — Suffering wanderer whose demand for prophecy frames painful truth, protective ignorance, and autonomy.
+- [Hephaestus / 赫淮斯托斯](entities/Hephaestus.md) — Divine maker whose reluctant chain-making separates technical skill from authority over purpose.
 - [《我家那闺女》 / My Daughter](entities/MyDaughterRealityShow.md) — 以母女冲突使家庭伤害、修复边界与公众可信度判断可见化的真人秀节目。
 - [戴露娃 / Dai Luwa](entities/DaiLuwa.md) — 家庭故事同时包含父母物质托举、经济压力、身体惩罚、情感忽视与叙事不完整的演员。
 - [张家齐 / Zhang Jiaqi (diver)](entities/ZhangJiaqiDiver.md) — 以早期竞技独立、成绩式认可、成年财务自主与拒绝快速和解为核心的跳水运动员。
@@ -18333,6 +18337,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Knowledge-Control Boundary / 知识与控制边界](concepts/KnowledgeControlBoundary.md) — Distinction between understanding or predicting an event and possessing the power to govern its outcome.
+- [Blind Hope Under Uncertainty / 不确定性中的盲目希望](concepts/BlindHopeUnderUncertainty.md) — Action-enabling expectation without guaranteed outcomes, preserving both motivational value and epistemic risk.
+- [Technical Capability-Value Boundary / 技术能力与价值判断边界](concepts/TechnicalCapabilityValueBoundary.md) — Distinction between making or optimizing something and judging whether its purpose or deployment is justified.
 - [Niche Innovation in Mature Markets / 成熟市场的缝隙创新](concepts/NicheInnovationInMatureMarkets.md) — Growth created by new use cases, channels, service bundles, or production methods even when the overall market is small, stable, or slowing.
 - [Lifestyle-Driven Small-Appliance Demand / 生活方式驱动的小家电需求](concepts/LifestyleDrivenSmallApplianceDemand.md) — Small-appliance demand created by household structure, ecommerce discovery, rapid iteration, recipes, and complementary goods.
 - [Gendered Parental Blame Concentration / 亲职责任的性别化集中](concepts/GenderedParentalBlameConcentration.md) — 母亲因照料或镜头可见性而承受集中审判，父亲则因证据缺席较少进入责任视野的媒介与家庭模式。

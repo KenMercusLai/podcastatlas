@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10585
+wiki_total_pages: 10588
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "TechnicalAnalysisLimits"
     title: "Technical Analysis Limits"
     url: "/wiki/concepts/technicalanalysislimits/"
+  - key: "TechnicalCapabilityValueBoundary"
+    title: "Technical Capability-Value Boundary / 技术能力与价值判断边界"
+    url: "/wiki/concepts/technicalcapabilityvalueboundary/"
   - key: "TechnicalCultureSalesCultureTension"
     title: "Technical Culture Sales Culture Tension"
     url: "/wiki/concepts/technicalculturesalesculturetension/"

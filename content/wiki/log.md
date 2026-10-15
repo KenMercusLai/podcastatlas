@@ -37023,6 +37023,14 @@ Added source `ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-wei
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-15] ingest | 370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》
+
+Added source `370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd`; created [[PrometheusBound|《被缚的普罗米修斯》]], [[Io|伊娥]], [[Hephaestus|赫淮斯托斯]], [[KnowledgeControlBoundary|知识与控制边界]], [[BlindHopeUnderUncertainty|不确定性中的盲目希望]], and [[TechnicalCapabilityValueBoundary|技术能力与价值判断边界]]; and resynthesized [[Prometheus]], [[Aeschylus]], and [[DushuBuchenglin|独树不成林]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: foresight and probability do not equal control, effective technical capability does not settle whether a purpose is justified, and hope can sustain action under uncertainty while also obscuring risk. No settled contradiction was adopted. Authorship, Greek vocabulary, philological interpretation, modern medical and AI analogies, and the precise relationship among necessity, fate, and divine power remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because the focused philosophical additions did not warrant a new global overview paragraph.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

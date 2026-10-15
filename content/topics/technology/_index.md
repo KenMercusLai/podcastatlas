@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3533
+topic_total_pages: 3537
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2923,6 +2923,9 @@ topic_concepts:
   - key: "KnowledgeWorkFragmentation"
     title: "Knowledge Work Fragmentation"
     url: "/wiki/concepts/knowledgeworkfragmentation/"
+  - key: "KnowledgeControlBoundary"
+    title: "Knowledge-Control Boundary / 知识与控制边界"
+    url: "/wiki/concepts/knowledgecontrolboundary/"
   - key: "KolmogorovArnoldNetworks"
     title: "Kolmogorov-Arnold Networks"
     url: "/wiki/concepts/kolmogorovarnoldnetworks/"
@@ -4528,6 +4531,9 @@ topic_concepts:
   - key: "TechGovernmentAccommodation"
     title: "Tech-Government Accommodation"
     url: "/wiki/concepts/techgovernmentaccommodation/"
+  - key: "TechnicalCapabilityValueBoundary"
+    title: "Technical Capability-Value Boundary / 技术能力与价值判断边界"
+    url: "/wiki/concepts/technicalcapabilityvalueboundary/"
   - key: "TechnicalCultureSalesCultureTension"
     title: "Technical Culture Sales Culture Tension"
     url: "/wiki/concepts/technicalculturesalesculturetension/"
@@ -6266,6 +6272,9 @@ topic_entities:
   - key: "HenryYin"
     title: "Henry Yin"
     url: "/wiki/entities/henryyin/"
+  - key: "Hephaestus"
+    title: "Hephaestus / 赫淮斯托斯"
+    url: "/wiki/entities/hephaestus/"
   - key: "HerFilm"
     title: "Her / 《她》"
     url: "/wiki/entities/herfilm/"
@@ -7403,6 +7412,9 @@ topic_entities:
   - key: "ProjectGlasswing"
     title: "Project Glasswing"
     url: "/wiki/entities/projectglasswing/"
+  - key: "PrometheusBound"
+    title: "Prometheus Bound / 《被缚的普罗米修斯》"
+    url: "/wiki/entities/prometheusbound/"
   - key: "PubMed"
     title: "PubMed"
     url: "/wiki/entities/pubmed/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 10585
+wiki_total_pages: 10588
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "KnowledgeWorkFragmentation"
     title: "Knowledge Work Fragmentation"
     url: "/wiki/concepts/knowledgeworkfragmentation/"
+  - key: "KnowledgeControlBoundary"
+    title: "Knowledge-Control Boundary / 知识与控制边界"
+    url: "/wiki/concepts/knowledgecontrolboundary/"
   - key: "KochOperatingPrinciples"
     title: "Koch Operating Principles"
     url: "/wiki/concepts/kochoperatingprinciples/"

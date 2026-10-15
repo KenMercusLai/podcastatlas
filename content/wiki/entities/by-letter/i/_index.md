@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13532
+wiki_total_pages: 13535
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "InvokoAI"
     title: "invoko.ai / Invoqo"
     url: "/wiki/entities/invokoai/"
+  - key: "Io"
+    title: "Io / 伊娥"
+    url: "/wiki/entities/io/"
   - key: "IowaElectronicMarkets"
     title: "Iowa Electronic Markets"
     url: "/wiki/entities/iowaelectronicmarkets/"

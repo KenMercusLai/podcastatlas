@@ -8998,9 +8998,9 @@
       "url": "/wiki/entities/aerospacecenterhospital/"
     },
     "Aeschylus": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7255356131 [GLT7255356131].md",
@@ -9008,9 +9008,16 @@
           "show": "The Rest Is History",
           "title": "458. Helen of Troy: A Family of Blood (Part 2)",
           "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        },
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/aeschylus/"
     },
     "AesopBeauty": {
@@ -30673,6 +30680,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/blankchequeallianceescalation/"
+    },
+    "BlindHopeUnderUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/blindhopeunderuncertainty/"
     },
     "BlindMountainFilm": {
       "episode_count": 1,
@@ -75594,9 +75617,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -75681,9 +75704,16 @@
           "show": "独树不成林",
           "title": "299-哪个社交平台最烂？",
           "url": "/wiki/sources/299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn/"
+        },
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -121956,6 +121986,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/henrywilson/"
     },
+    "Hephaestus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/hephaestus/"
+    },
     "HeqinPrincessSuccessionEntrapment": {
       "episode_count": 5,
       "show_count": 1,
@@ -139914,6 +139960,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/inwardlookingselfcultivation/"
     },
+    "Io": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/io/"
+    },
     "IonianRevolt": {
       "episode_count": 1,
       "show_count": 1,
@@ -152813,6 +152875,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/knowingenough/"
+    },
+    "KnowledgeControlBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/knowledgecontrolboundary/"
     },
     "KnowledgeExternalizationTradeoff": {
       "episode_count": 1,
@@ -221457,9 +221535,9 @@
       "url": "/wiki/concepts/prolactindopaminepituitaryinterpretation/"
     },
     "Prometheus": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -221474,10 +221552,33 @@
           "show": "The Rest Is History",
           "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
           "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        },
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/prometheus/"
+    },
+    "PrometheusBound": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/prometheusbound/"
     },
     "PromotionPositionFit": {
       "episode_count": 2,
@@ -265932,6 +266033,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/techbubbleconditions/"
+    },
+    "TechnicalCapabilityValueBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvEKu27UTlTlOyTQI8YcQ-nvUrhD [lvEKu27UTlTlOyTQI8YcQ-nvUrhD].md",
+          "key": "370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd",
+          "show": "独树不成林",
+          "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
+          "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/technicalcapabilityvalueboundary/"
     },
     "TechnicalHUMINTMilitaryLeverage": {
       "episode_count": 1,

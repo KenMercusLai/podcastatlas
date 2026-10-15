@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10585
+wiki_total_pages: 10588
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "BlanketTariffLimit"
     title: "Blanket Tariff Limit"
     url: "/wiki/concepts/blankettarifflimit/"
+  - key: "BlindHopeUnderUncertainty"
+    title: "Blind Hope Under Uncertainty / 不确定性中的盲目希望"
+    url: "/wiki/concepts/blindhopeunderuncertainty/"
   - key: "BlindnessMemoryArtIdeal"
     title: "Blindness-Memory Art Ideal"
     url: "/wiki/concepts/blindnessmemoryartideal/"

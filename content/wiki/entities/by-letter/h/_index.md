@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13532
+wiki_total_pages: 13535
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "HenryDukeOfGuise"
     title: "Henry, Duke of Guise"
     url: "/wiki/entities/henrydukeofguise/"
+  - key: "Hephaestus"
+    title: "Hephaestus / 赫淮斯托斯"
+    url: "/wiki/entities/hephaestus/"
   - key: "Heptapods"
     title: "Heptapods"
     url: "/wiki/entities/heptapods/"

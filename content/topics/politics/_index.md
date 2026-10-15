@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3334
+topic_total_pages: 3335
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4204,6 +4204,9 @@ topic_concepts:
   - key: "TechGovernmentAccommodation"
     title: "Tech-Government Accommodation"
     url: "/wiki/concepts/techgovernmentaccommodation/"
+  - key: "TechnicalCapabilityValueBoundary"
+    title: "Technical Capability-Value Boundary / 技术能力与价值判断边界"
+    url: "/wiki/concepts/technicalcapabilityvalueboundary/"
   - key: "TechnoOptimismPresentThreatGap"
     title: "Techno-Optimism Present-Threat Gap"
     url: "/wiki/concepts/technooptimismpresentthreatgap/"

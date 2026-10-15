@@ -44619,6 +44619,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Hephaestus": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HeqinPrincessSuccessionEntrapment": [
     {
       "key": "politics",
@@ -53218,6 +53225,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "KnowledgeControlBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "KnowledgeExternalizationTradeoff": [
@@ -72125,6 +72139,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "PrometheusBound": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PromotionStatusRelationshipRupture": [
     {
       "key": "science",
@@ -86808,6 +86834,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TechnicalCapabilityValueBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TechnicalCultureSalesCultureTension": [
