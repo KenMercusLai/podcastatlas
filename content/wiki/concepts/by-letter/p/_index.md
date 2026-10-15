@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10571
+wiki_total_pages: 10575
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2639,6 +2639,9 @@ wiki_pages:
   - key: "PublicValuesUnderCost"
     title: "Public Values Under Cost / 有代价时的公开价值检验"
     url: "/wiki/concepts/publicvaluesundercost/"
+  - key: "PublicVoiceCollectiveMemory"
+    title: "Public Voice and Collective Memory / 公共声音与集体记忆"
+    url: "/wiki/concepts/publicvoicecollectivememory/"
   - key: "PublicVotingElectoralCoercion"
     title: "Public Voting and Electoral Coercion"
     url: "/wiki/concepts/publicvotingelectoralcoercion/"

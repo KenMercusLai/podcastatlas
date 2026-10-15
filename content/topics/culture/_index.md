@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3506
+topic_total_pages: 3510
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1015,6 +1015,9 @@ topic_concepts:
   - key: "CulturalValueNonuniversality"
     title: "Cultural Value Nonuniversality / 文化价值的非普遍性"
     url: "/wiki/concepts/culturalvaluenonuniversality/"
+  - key: "CulturalIndustryCreativeAttractiveness"
+    title: "Cultural-Industry Creative Attractiveness / 文化行业创作吸引力"
+    url: "/wiki/concepts/culturalindustrycreativeattractiveness/"
   - key: "CultureLedFoodAdoption"
     title: "Culture-Led Food Adoption"
     url: "/wiki/concepts/cultureledfoodadoption/"
@@ -2746,6 +2749,9 @@ topic_concepts:
   - key: "PublicSchoolRebellions"
     title: "Public School Rebellions"
     url: "/wiki/concepts/publicschoolrebellions/"
+  - key: "PublicVoiceCollectiveMemory"
+    title: "Public Voice and Collective Memory / 公共声音与集体记忆"
+    url: "/wiki/concepts/publicvoicecollectivememory/"
   - key: "PublicFigureWorkplaceAdviceSatire"
     title: "Public-Figure Workplace Advice Satire"
     url: "/wiki/concepts/publicfigureworkplaceadvicesatire/"
@@ -7967,6 +7973,9 @@ topic_entities:
   - key: "LiuHongweiStandup"
     title: "刘宏伟 / Liu Hongwei"
     url: "/wiki/entities/liuhongweistandup/"
+  - key: "LiuHuan"
+    title: "刘欢 / Liu Huan"
+    url: "/wiki/entities/liuhuan/"
   - key: "LiuChang"
     title: "刘畅 / Liu Chang"
     url: "/wiki/entities/liuchang/"
@@ -10437,6 +10446,9 @@ topic_sources:
   - key: "lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_"
     title: "刘震云×罗永浩！有些玩笑含着泪也要开完"
     url: "/wiki/sources/lu_1rrenfntcaoijjpbqjlbcao_-lu_1rrenfntcaoijjpbqjlbcao_/"
+  - key: "shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu"
+    title: "十月广播电视报：我已经不再是我，而你却依然是你"
+    url: "/wiki/sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu/"
   - key: "kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684"
     title: "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？"
     url: "/wiki/sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684/"

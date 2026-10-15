@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2273
+topic_total_pages: 2274
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -712,6 +712,9 @@ topic_concepts:
   - key: "CompensatingDifferentials"
     title: "Compensating Differentials"
     url: "/wiki/concepts/compensatingdifferentials/"
+  - key: "CompetitionMetricValueCompression"
+    title: "Competition Metric Value Compression / 竞赛指标压缩价值"
+    url: "/wiki/concepts/competitionmetricvaluecompression/"
   - key: "CompetitiveBillionaireWealth"
     title: "Competitive Billionaire Wealth"
     url: "/wiki/concepts/competitivebillionairewealth/"

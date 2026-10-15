@@ -2130,20 +2130,20 @@
       "earliest_episode_date": "2026-09-01",
       "latest_episode_date": "2026-10-15",
       "latest_episode_file": "GKwRIDoOpTSjBELOlwToXdnU [GKwRIDoOpTSjBELOlwToXdnU].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 3,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [],
       "start_here_episode_files": [
-        "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
         "GKwRIDoOpTSjBELOlwToXdnU [GKwRIDoOpTSjBELOlwToXdnU].md",
+        "GKwRIMAOeESMA84v2ATVMTsF [GKwRIMAOeESMA84v2ATVMTsF].md",
         "GKwRIJIOazzEBF7PfATP6hhF [GKwRIJIOazzEBF7PfATP6hhF].md"
       ]
     },

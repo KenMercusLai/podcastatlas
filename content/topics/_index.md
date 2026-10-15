@@ -14,7 +14,7 @@ topic_pages:
     label: "Economics"
     description: "Markets, finance, investing, trade, companies, entrepreneurship, and the policies and incentives that shape economic activity."
     url: "/topics/economics/"
-    count: 2273
+    count: 2274
   - key: "history"
     label: "History"
     description: "Historical people, events, institutions, evidence, and interpretation across Chinese and world history."
@@ -29,7 +29,7 @@ topic_pages:
     label: "Culture"
     description: "Literature, media, art, film, music, books, education, sport, and the stories and practices through which societies make meaning."
     url: "/topics/culture/"
-    count: 3506
+    count: 3510
   - key: "science"
     label: "Science"
     description: "Medicine, health, biology, space, climate, environment, psychology, and the evidence and institutions behind scientific knowledge."

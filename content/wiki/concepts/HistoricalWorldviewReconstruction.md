@@ -6,7 +6,8 @@ sources:
   - 242-french-history-on-film-glt2672520929
   - 14-historical-fiction-glt2461510190
   - 15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq
-last_updated: 2026-10-09
+  - shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,7 +25,9 @@ The same criterion helps explain praise for austere material settings in Joan th
 
 [[14-historical-fiction-glt2461510190]] extends the criterion from film to novels. It criticizes protagonists whose liberal skepticism simply reproduces the present, praises Mary Renault for sustaining an unsettling ancient moral world, and argues that research into clothes, food, and objects fails when it does not shape lived experience. It also adds a qualification: declared anachronism can succeed when it is a coherent narrative method rather than an accidental claim to recovered voice.
 
-[[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] qualifies the Renault example without reversing it. [[FireFromHeaven|《天堂之火》]] can make ritual, succession, education, and Macedonian court danger causally active while its detailed family interiority still resembles a modern domestic drama. Worldview reconstruction is therefore multidimensional rather than a pass-fail label.
+[[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] qualifies the Renault example without reversing it. [[FireFromHeaven|《天堂之火》]] can make ritual, succession, education, and Macedonian court danger causally active while its detailed family interiority still resembles a modern domestic drama.
+
+A contemporary Chinese period-drama failure mode appears in 《兰香如故》: the setting uses patriarchal hierarchy to produce danger and satisfaction, but the heroine begins with modern subjectivity, changes status more than judgment, and is allowed to imagine withdrawal from power while her private life still rests on rank, property, servants, and imperial protection. Worldview reconstruction is therefore multidimensional and should test whether institutions constrain the protagonist's interiority and proposed exit, not only the antagonists. [[shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu]]
 
 ## Key Claims
 
@@ -34,6 +37,7 @@ The same criterion helps explain praise for austere material settings in Joan th
 - Material restraint can aid reconstruction when performance, setting, and social logic carry more weight than spectacle.
 - Deliberate anachronism can remain historically productive when its distance from recovered period voice is explicit.
 - Institutional and material distance can be convincing even when psychological language remains modern or evidentially underdetermined.
+- A modern-valued protagonist needs a historically credible path of formation, constraint, compromise, or exclusion; moral correctness alone does not constitute a character arc.
 
 ## Evidence
 
@@ -42,15 +46,17 @@ The same criterion helps explain praise for austere material settings in Joan th
 - Cultural environment: [[242-french-history-on-film-glt2672520929]] values Les Enfants du Paradis for rebuilding the theatrical, class, criminal, romantic, and popular worlds of nineteenth-century Paris.
 - Mental distance and method: [[14-historical-fiction-glt2461510190]] contrasts modern-minded protagonists and overloaded research with Mary Renault's ancient moral distance and Lindsay Davis's declared anachronism.
 - Internal qualification: [[15-yalishanda-dadi-de-zaogao-yuansheng-jiating-tiantang-zhi-huo-lr1agsbqonwmohmqp_fngt0t8soq]] separates Renault's convincing court atmosphere from precise family psychology unsupported by comparable evidence.
+- Modern-subjectivity test: [[shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu]] argues that 《兰香如故》 lets its heroine retain ready-made modern values and imagine private withdrawal without fully accounting for the hierarchy sustaining her household position.
 
 ## Counterevidence & Qualifications
 
-No film or novel can recover a past consciousness without interpretation, and apparent strangeness is not proof of accuracy. The sources offer critical judgments rather than archival validation of each work, so worldview reconstruction should complement rather than replace factual and source criticism. Anachronism can be intentional craft or unexamined projection; naming the method does not by itself make it successful. Material atmosphere, institutional causation, and psychological interiority require separate evaluation.
+No film or novel can recover a past consciousness without interpretation, and apparent strangeness is not proof of accuracy. The sources offer critical judgments rather than archival validation of each work, so worldview reconstruction should complement rather than replace factual and source criticism. Anachronism can be intentional craft or unexamined projection; naming the method does not by itself make it successful. Modern ethical commitments can also be a deliberate audience bridge; the criticism is strongest when a work claims institutional seriousness while exempting its protagonist or solution from that institution's consequences. Material atmosphere, institutional causation, and psychological interiority require separate evaluation.
 
 ## What Changed
 
 - Qualified the Renault example by separating convincing court institutions and atmosphere from modernized family psychology.
 - Recast worldview reconstruction as a multidimensional judgment rather than a single authenticity label.
+- Added the test that hierarchy must constrain protagonists and their proposed exits, not merely supply oppressive antagonists.
 
 ## Related Concepts
 
@@ -60,3 +66,4 @@ No film or novel can recover a past consciousness without interpretation, and ap
 - [[HistoricalAmbiguityInMainstreamCinema]] - related tension between audience accessibility and unresolved historical complexity.
 - [[HistoricalFictionHistoricalImagination]] - broader literary framework connecting worldview, voice, evidence, and public memory.
 - [[HistoricalFictionPsychologicalProjection]] - neighboring evidence boundary for precise interiority in sparse records.
+- [[TraumaConsequenceInstitutionalCrimeNarrative]] - parallel insistence that systems remain causally active rather than decorative background.

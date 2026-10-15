@@ -4720,6 +4720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？](sources/c1f006c2d282-c1f006c2d282.md) — 科技乱炖 episode on agentic Linux, disposable software, feature commoditization, durable service moats, open-source review capacity, and agent-facing system interfaces.
 - [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq.md) — 张小珺Jùn访谈Dyna创始人Lindon，讨论产品研究、折叠到完整工作流、预训练与全栈机器人商业化。
+- [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 
 ## Entities
 - [Cotti Coffee / 库迪咖啡](entities/CottiCoffee.md) — Chinese coffee chain represented through a selected-store test of freshly fried food and its operating tradeoffs.
@@ -18319,6 +18320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Omarchy](entities/Omarchy.md) — Arch Linux-based distribution used as an early case of agent-assisted configuration, repair, and personal workflow construction.
 - [Dyna Robotics](entities/DynaRobotics.md) — Full-stack robotics startup using deployment feedback to connect product research, flexible-object manipulation, and hotel-laundry workflows.
 - [Lindon (Dyna Robotics)](entities/LindonDyna.md) — Dyna founder and CEO linking repeat-founder judgment, full-stack robot strategy, and long-horizon personal practice.
+- [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
 - [Regional Product Team as Export Hub / 区域产品团队外溢](concepts/RegionalProductTeamAsExportHub.md) — When local product autonomy and design learning become reusable capability for neighboring or overseas markets.
@@ -28976,5 +28978,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Moat Beyond Features](concepts/SoftwareMoatBeyondFeatures.md) — Durable value in data, infrastructure, domain knowledge, rights, networks, compatibility, accountability, and service rather than reproducible UI behavior.
 - [Robotics Product Research / 机器人产品研究](concepts/RoboticsProductResearch.md) — Product-directed research loop in which deployments reveal which model, data, control, hardware, or workflow constraint matters next.
 - [Robot Workflow Complexity Commercialization / 机器人工作流复杂度商业化](concepts/RobotWorkflowComplexityCommercialization.md) — Market sequencing by complete-workflow length, serial failure, recovery burden, supervision, and daily throughput.
+- [Public Voice and Collective Memory / 公共声音与集体记忆](concepts/PublicVoiceCollectiveMemory.md) — How a performer joins individual feeling, shared media circulation, and public-event narration into durable cultural memory.
+- [Trauma-Consequence Institutional Crime Narrative / 创伤后果与制度犯罪叙事](concepts/TraumaConsequenceInstitutionalCrimeNarrative.md) — Crime-story framework joining embodied aftermath, retained responsibility, institutional protection and gaps, and spectator implication.
+- [Competition Metric Value Compression / 竞赛指标压缩价值](concepts/CompetitionMetricValueCompression.md) — Loss of meaningful difference when a system testing many capabilities produces one winner through a narrow, short-horizon measure.
+- [Cultural-Industry Creative Attractiveness / 文化行业创作吸引力](concepts/CulturalIndustryCreativeAttractiveness.md) — Capacity to draw and retain creative talent through pay, autonomy, expressive room, relevance, and credible consequential work.
 
 ## Syntheses

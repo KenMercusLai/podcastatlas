@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10571
+wiki_total_pages: 10575
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1913,6 +1913,9 @@ wiki_pages:
   - key: "CompetingRelationalObligations"
     title: "Competing Relational Obligations / 亲密关系中的多重义务冲突"
     url: "/wiki/concepts/competingrelationalobligations/"
+  - key: "CompetitionMetricValueCompression"
+    title: "Competition Metric Value Compression / 竞赛指标压缩价值"
+    url: "/wiki/concepts/competitionmetricvaluecompression/"
   - key: "CompetitiveBillionaireWealth"
     title: "Competitive Billionaire Wealth"
     url: "/wiki/concepts/competitivebillionairewealth/"
@@ -3137,6 +3140,9 @@ wiki_pages:
   - key: "CulturalValueNonuniversality"
     title: "Cultural Value Nonuniversality / 文化价值的非普遍性"
     url: "/wiki/concepts/culturalvaluenonuniversality/"
+  - key: "CulturalIndustryCreativeAttractiveness"
+    title: "Cultural-Industry Creative Attractiveness / 文化行业创作吸引力"
+    url: "/wiki/concepts/culturalindustrycreativeattractiveness/"
   - key: "CulturalPreservationColony"
     title: "Cultural-Preservation Colony"
     url: "/wiki/concepts/culturalpreservationcolony/"
