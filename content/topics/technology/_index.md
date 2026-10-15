@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3529
+topic_total_pages: 3532
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3697,6 +3697,9 @@ topic_concepts:
   - key: "PhysicalManufacturingApplicationMoat"
     title: "Physical Manufacturing Application Moat"
     url: "/wiki/concepts/physicalmanufacturingapplicationmoat/"
+  - key: "PhysicalRecursiveSelfImprovement"
+    title: "Physical Recursive Self-Improvement / Physical RSI"
+    url: "/wiki/concepts/physicalrecursiveselfimprovement/"
   - key: "PhysicalWorldDataFlywheel"
     title: "Physical World Data Flywheel"
     url: "/wiki/concepts/physicalworlddataflywheel/"
@@ -4075,6 +4078,9 @@ topic_concepts:
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"
+  - key: "RobotSupplyChainCertification"
+    title: "Robot Supply-Chain Certification / 机器人供应链认证"
+    url: "/wiki/concepts/robotsupplychaincertification/"
   - key: "RobotTeleoperationAndRemoteTakeover"
     title: "Robot Teleoperation and Remote Takeover"
     url: "/wiki/concepts/robotteleoperationandremotetakeover/"
@@ -9009,6 +9015,9 @@ topic_sources:
   - key: "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5"
     title: "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶"
     url: "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
+  - key: "184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898"
+    title: "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？"
+    url: "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
   - key: "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto"
     title: "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会"
     url: "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"

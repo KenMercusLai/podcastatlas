@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2274
+topic_total_pages: 2275
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6018,6 +6018,9 @@ topic_sources:
   - key: "184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt"
     title: "184.这轮加息周期我做的一个重大投资决策｜三季度投资账复盘"
     url: "/wiki/sources/184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt/"
+  - key: "184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898"
+    title: "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？"
+    url: "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

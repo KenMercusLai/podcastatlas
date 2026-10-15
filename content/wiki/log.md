@@ -36994,3 +36994,11 @@ Added source `shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | 184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？
+
+Added source `184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898`; created [[PhysicalRecursiveSelfImprovement|Physical RSI]] and [[RobotSupplyChainCertification|机器人供应链认证]]; and resynthesized [[ChenZhePeter]], [[ChatGPT6Astra]], [[WorldLabs]], [[UnitreeRobotics]], [[GeneralModelRobotBoundary]], [[LayeredRobotArchitecture]], [[RobotInContextLearning]], and [[UnitreeIPOValuation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Astra moves the general-model boundary from task planning into end-effector targets, policy supervision, and simulation tooling, but latency, contact-rich execution, reliable hardware, vertical workflows, proprietary data, and certification still support a layered physical-AI stack. No settled contradiction was adopted. The reported 22%, 26%, and 48% Astra results remain non-comparable source-scoped evaluations; Atlas/Atlus spelling, the AMD-World Labs agreement and value, Unitree financial and model claims, robot-ICL performance, training-data speculation, and FCC thresholds remain unverified pending primary evidence. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due, with four pending ingests; refreshed artifacts validate 4,635 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

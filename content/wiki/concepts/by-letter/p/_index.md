@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10575
+wiki_total_pages: 10577
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "PhysicalMusicMediaRevival"
     title: "Physical Music Media Revival"
     url: "/wiki/concepts/physicalmusicmediarevival/"
+  - key: "PhysicalRecursiveSelfImprovement"
+    title: "Physical Recursive Self-Improvement / Physical RSI"
+    url: "/wiki/concepts/physicalrecursiveselfimprovement/"
   - key: "PhysicalVideoMediaRevival"
     title: "Physical Video Media Revival"
     url: "/wiki/concepts/physicalvideomediarevival/"

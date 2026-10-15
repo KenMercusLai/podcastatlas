@@ -2586,6 +2586,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "184-zhe-lun-jiaxi-zhouqi-wo-zuo-de-yige-zhongda-touzi-juece-san-jidu-touzi-zhang-fupan-lskqfna_xwx0tdlttjgkupto3pt": [
     {
       "key": "economics",
@@ -69051,6 +69068,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PhysicalRecursiveSelfImprovement": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PhysicalVideoMediaRevival": [
     {
       "key": "culture",
@@ -76578,6 +76602,18 @@
     }
   ],
   "RobotSovereigntyAndDataTrust": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RobotSupplyChainCertification": [
     {
       "key": "technology",
       "label": "Technology",

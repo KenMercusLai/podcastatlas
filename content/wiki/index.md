@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？](sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898.md) — 晚点聊季度复盘 Astra 进入机器人、分层控制、Physical RSI、机器人上下文学习、World Labs/AMD、宇树上市与 FCC 供应链限制。
 - [高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类](sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl.md) — 声动早咖啡串联区域产品自主权、AI家庭与穿戴入口、生活缴费、电商办公、咖啡连锁扩品类及拓麻歌子授权扩张。
 - [Wanna slow down AI? These biologists can help.](sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793.md) — Planet Money uses the recombinant-DNA moratorium and Asilomar conference to connect AI collective action with liability, risk tiers, funding-backed enforcement, and unequal career costs.
 - [No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上](sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv.md) — 半拿铁从乔瓦尼到洛伦佐重述美第奇银行、佛罗伦萨政治与文艺复兴，并把艺术还原为由赞助、合同、材料、工程和制度共同组织的生产体系。
@@ -18323,6 +18324,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Physical Recursive Self-Improvement / Physical RSI](concepts/PhysicalRecursiveSelfImprovement.md) — AI-directed robotics loop for constructing simulations, revising policies, and testing improvements subject to sim-to-real and evaluation constraints.
+- [Robot Supply-Chain Certification / 机器人供应链认证](concepts/RobotSupplyChainCertification.md) — Market-authorization problem linking robot connectivity, production location, and critical-component provenance.
 - [Regional Product Team as Export Hub / 区域产品团队外溢](concepts/RegionalProductTeamAsExportHub.md) — When local product autonomy and design learning become reusable capability for neighboring or overseas markets.
 - [Conversational Utility Payment / 对话式生活缴费](concepts/ConversationalUtilityPayment.md) — Natural-language initiation of household payments under geographic coverage, authorization, confirmation, and recourse constraints.
 - [Menu Expansion Operational Complexity / 菜单扩张的运营复杂度](concepts/MenuExpansionOperationalComplexity.md) — Test of incremental store demand after added labor, equipment, preparation, inventory, waste, and service burden.

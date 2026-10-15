@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3332
+topic_total_pages: 3334
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3733,6 +3733,9 @@ topic_concepts:
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"
+  - key: "RobotSupplyChainCertification"
+    title: "Robot Supply-Chain Certification / 机器人供应链认证"
+    url: "/wiki/concepts/robotsupplychaincertification/"
   - key: "RobotaxiHybridDeployment"
     title: "Robotaxi Hybrid Deployment"
     url: "/wiki/concepts/robotaxihybriddeployment/"
@@ -8766,6 +8769,9 @@ topic_sources:
   - key: "180-england-englishness-glt7388885434"
     title: "180. England & Englishness"
     url: "/wiki/sources/180-england-englishness-glt7388885434/"
+  - key: "184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898"
+    title: "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？"
+    url: "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
   - key: "2-civil-war-glt5809911007"
     title: "2. Civil War"
     url: "/wiki/sources/2-civil-war-glt5809911007/"

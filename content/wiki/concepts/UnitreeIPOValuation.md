@@ -5,7 +5,8 @@ tags: [robotics, investing, valuation, public-markets]
 sources:
   - yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b
   - jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1
-last_updated: 2026-09-02
+  - 184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 Unitree IPO valuation is the public-market frame for judging [[UnitreeRobotics|Unitree Robotics]] after its listing surge and for interpreting how that listing reshapes investor expectations across Chinese embodied-intelligence companies.
 
 ## Current Synthesis
-The wiki's current judgment is that Unitree's valuation should be split into current operating proof and future option value. Existing quadruped, research-platform, production, and source-reported profit signals can support a baseline business case, while humanoids, robot brains, data ecosystems, and platform value supply a larger but harder-to-price option. The LateTalk episode adds a second layer: Unitree's public-market moment can accelerate IPO preparation and revenue-building behavior at peer companies, so the next valuation test is not only Unitree's price path but whether revenue composition, R&D intensity, buyer use, and repurchase demand become legible.
+The wiki's current judgment is that Unitree's valuation should be split into current operating proof and future option value. Existing quadruped, research-platform, production, and source-reported profit signals can support a baseline business case, while humanoids, robot brains, data ecosystems, and platform value supply a larger but harder-to-price option. The newest review adds that general-model progress can increase the option value of a capable hardware platform, but price volatility and stronger listing review for peers make revenue sustainability, R&D focus, buyer use, and repurchase demand more important rather than less.
 
 ## Key Claims
 - A high first-day market value can reveal capital-market enthusiasm without automatically becoming an industry pricing anchor.
@@ -24,6 +25,7 @@ The wiki's current judgment is that Unitree's valuation should be split into cur
 - Unitree's listing can pressure peers to build revenue toward IPO thresholds, making the whole sector's valuation more dependent on revenue composition.
 - The market narrative around humanoids is ahead of the evidence if buyers, tasks, utilization, and repurchase cycles remain unclear.
 - Public-market investors need observable R&D conversion, order quality, use-case ROI, and repeat demand before treating Unitree as a settled robotics valuation anchor.
+- Astra-style intelligence may increase demand for robot bodies, but it does not turn short-term price movements or peripheral project revenue into durable operating proof.
 
 ## Evidence
 - Listing-surge evidence: [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] reports a large first-day Unitree valuation move and treats it as a pressure test rather than a settled industry anchor.
@@ -31,14 +33,15 @@ The wiki's current judgment is that Unitree's valuation should be split into cur
 - Peer-pressure evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] says Unitree's listing helped bring China's embodied-intelligence startup heat to a local peak and made IPO work or listing plans visible for roughly ten or more companies in the source account.
 - Revenue-quality evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] ties IPO pressure to revenue-building through data centers, research/education, guide/performance scenes, and manufacturing supplier loops.
 - Market-test evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] says Unitree's six-month post-listing price path will be an important signal because public markets can reprice the company more visibly than private rounds.
+- Q3 repricing and platform evidence: [[184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898]] treats short-term volatility as a weak guide to long-term value, reports stronger hardware demand from general-model progress, and warns that IPO pressure can pull robotics companies toward subsidized or peripheral revenue.
 
 ## Counterevidence & Qualifications
-Both source notes are podcast/interview summaries, not filings. Market values, company revenue, R&D spend, order counts, and data-hour claims should remain source-scoped unless confirmed by prospectuses, audited financial statements, exchange notices, or company disclosures. A strong listing can still coexist with immature humanoid PMF, and a weak post-listing price would not by itself disprove the long-term robotics opportunity.
+All three source notes are podcast/interview summaries, not filings. Market values, share-price moves, company revenue, R&D spend, order counts, model details, and data-hour claims should remain source-scoped unless confirmed by prospectuses, audited financial statements, exchange notices, or company disclosures. A strong listing can coexist with immature humanoid PMF, and a weak post-listing price would not by itself disprove the long-term robotics opportunity.
 
 ## What Changed
-- Migrated the page to the synthesis-first concept schema.
-- Added IPO pressure and revenue-quality decomposition as part of the Unitree valuation frame.
-- Added the six-month public-market repricing window as a source-scoped observation point.
+- Added the thesis that stronger general models can increase hardware-platform option value.
+- Added post-listing volatility and tighter peer-listing review to the valuation frame.
+- Preserved the distinction between durable core revenue and subsidized or peripheral IPO-oriented revenue.
 
 ## Related Concepts
 - [[UnitreeRobotics]] - company whose public-market valuation anchors the page.

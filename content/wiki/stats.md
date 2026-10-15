@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10575
+- Concepts: 10577
 - Entities: 13526
-- Sources: 4634
-- Total wiki content pages: 28736
+- Sources: 4635
+- Total wiki content pages: 28739
 
 ## Links
-- Wiki link references: 664910
-- Unique wiki link targets: 28765
-- Missing targets: 39
+- Wiki link references: 664994
+- Unique wiki link targets: 28769
+- Missing targets: 40
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4634
-- Matched episodes: 4634
+- Source pages: 4635
+- Matched episodes: 4635
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -49,6 +49,8 @@ outputs: ["html"]
   - `content/wiki/concepts/FootballImperialNetworkDiffusion.md`
 - `[[CathyHughes]]`
   - `content/wiki/concepts/RejectionTolerancePractice.md`
+- `[[ChineseManufacturingSupplyChainAdvantage]]`
+  - `content/wiki/concepts/RobotSupplyChainCertification.md`
 - `[[ClinicalValidationThresholds]]`
   - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
   - `content/wiki/log.md`

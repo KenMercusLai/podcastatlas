@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10575
+wiki_total_pages: 10577
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1229,6 +1229,9 @@ wiki_pages:
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"
+  - key: "RobotSupplyChainCertification"
+    title: "Robot Supply-Chain Certification / 机器人供应链认证"
+    url: "/wiki/concepts/robotsupplychaincertification/"
   - key: "RobotTeleoperationAndRemoteTakeover"
     title: "Robot Teleoperation and Remote Takeover"
     url: "/wiki/concepts/robotteleoperationandremotetakeover/"
