@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10593
+wiki_total_pages: 10597
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "ReferenceCheckHiring"
     title: "Reference-Check Hiring"
     url: "/wiki/concepts/referencecheckhiring/"
+  - key: "ReferralBehaviorValidation"
+    title: "Referral Behavior Validation"
+    url: "/wiki/concepts/referralbehaviorvalidation/"
   - key: "RefillAdoptionFriction"
     title: "Refill Adoption Friction / 替换芯采用摩擦"
     url: "/wiki/concepts/refilladoptionfriction/"
@@ -809,6 +812,9 @@ wiki_pages:
   - key: "RetailBullMarketPsychology"
     title: "Retail Bull Market Psychology"
     url: "/wiki/concepts/retailbullmarketpsychology/"
+  - key: "RetailChannelComplementarity"
+    title: "Retail Channel Complementarity"
+    url: "/wiki/concepts/retailchannelcomplementarity/"
   - key: "RetailConceptProtection"
     title: "Retail Concept Protection"
     url: "/wiki/concepts/retailconceptprotection/"

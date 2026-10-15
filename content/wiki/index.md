@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Tara Bosch of SmartSweets](sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce.md) — Tara Bosch advises three consumer startups on DTC-to-grocery expansion, manufacturing readiness, customer-led positioning, referral validation, and concrete long-term vision.
 - [Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary](sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88.md) — All-In interview with Billy Evans on Holmes's trial and imprisonment, their children's separation, competing Theranos narratives, and his Raman-spectroscopy startup Himanthus.
 - [369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）](sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7.md) — 独树不成林 uses Hesiod's Pandora story to examine designed desire, the risk knowledge-action gap, distributed technical responsibility, and hope's ambiguous value.
 - [370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》](sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd.md) — 独树不成林 uses Prometheus, Hephaestus, and Io to separate prediction from control, technical capability from value judgment, and hope from guaranteed knowledge.
@@ -4730,6 +4731,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 
 ## Entities
+- [Tara Bosch](entities/TaraBosch.md) — SmartSweets and Snackish founder whose advice links taste, customer evidence, channel choice, manufacturing, and long-term vision.
+- [SmartSweets](entities/SmartSweets.md) — Lower-sugar candy company used as a reference case for taste-first positioning and complementary wholesale and DTC channels.
+- [Snackish](entities/Snackish.md) — Tara Bosch's early high-protein potato-chip venture built around functional nutrition without sacrificing conventional snack appeal.
+- [XO Marshmallow](entities/XOMarshmallow.md) — Mostly-DTC marshmallow brand preparing for grocery through shelf-life, formulation, retailer, and manufacturing work.
+- [Vivi's Vacation](entities/VivisVacation.md) — Sustainable swimwear label translating Hawaii, Brazil, construction, and founder authenticity into a clearer market position.
+- [Romanticize Collective](entities/RomanticizeCollective.md) — Experience subscription testing whether boxes can develop into a broader offline community and experience network.
 - [Billy Evans](entities/BillyEvans.md) — Elizabeth Holmes's spouse, family caregiver, public advocate, and founder of Himanthus.
 - [Himanthus](entities/Himanthus.md) — Founder-described photonics startup developing Raman-spectroscopy sensors and biological data for AI analysis.
 - [Pandora / 潘多拉](entities/Pandora.md) — Manufactured divine gift whose attraction and harmful purpose expose designed desire and gendered blame concentration.
@@ -18344,6 +18351,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Customer-Interview-Led Positioning](concepts/CustomerInterviewLedPositioning.md) — Deriving a concise value proposition from recurring customer motives and language, then checking it against behavior.
+- [Retail Channel Complementarity](concepts/RetailChannelComplementarity.md) — Physical retail and DTC adding demand by serving distinct purchase occasions rather than merely shifting the same sale.
+- [Referral Behavior Validation](concepts/ReferralBehaviorValidation.md) — Using completed use, unsolicited sharing, recommendation, and friend conversion as product-value evidence.
+- [Vision as a Decision Filter](concepts/VisionAsDecisionFilter.md) — Making the desired future concrete enough to rank present experiments while keeping tactics revisable.
 - [Family Separation Through Parental Incarceration](concepts/FamilySeparationThroughParentalIncarceration.md) — How imprisonment transfers daily burdens into children's attachment, caregiving, travel, explanations, and repeated departures.
 - [Raman Spectroscopy Diagnostic Data](concepts/RamanSpectroscopyDiagnosticData.md) — Proposed sensor-to-biological-data-to-AI chain, bounded by measurement and clinical-validation requirements.
 - [Designed Technological Desire / 技术欲望设计](concepts/DesignedTechnologicalDesire.md) — Deliberate shaping of attraction and choice so that users accept a technology and its costs.

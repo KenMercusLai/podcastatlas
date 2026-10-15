@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13540
+wiki_total_pages: 13546
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "RomanRoadNetwork"
     title: "Roman Road Network / 古罗马道路网"
     url: "/wiki/entities/romanroadnetwork/"
+  - key: "RomanticizeCollective"
+    title: "Romanticize Collective"
+    url: "/wiki/entities/romanticizecollective/"
   - key: "RomanusIV"
     title: "Romanus IV"
     url: "/wiki/entities/romanusiv/"

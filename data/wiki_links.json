@@ -24263,6 +24263,10 @@
     "title": "Customer Evidence Strategy",
     "url": "/wiki/concepts/customerevidencestrategy/"
   },
+  "CustomerInterviewLedPositioning": {
+    "title": "Customer-Interview-Led Positioning",
+    "url": "/wiki/concepts/customerinterviewledpositioning/"
+  },
   "CustomerLifetimeValue": {
     "title": "Customer Lifetime Value",
     "url": "/wiki/concepts/customerlifetimevalue/"
@@ -74243,6 +74247,10 @@
     "title": "Reference-Check Hiring",
     "url": "/wiki/concepts/referencecheckhiring/"
   },
+  "ReferralBehaviorValidation": {
+    "title": "Referral Behavior Validation",
+    "url": "/wiki/concepts/referralbehaviorvalidation/"
+  },
   "RefillAdoptionFriction": {
     "title": "Refill Adoption Friction / 替换芯采用摩擦",
     "url": "/wiki/concepts/refilladoptionfriction/"
@@ -75158,6 +75166,10 @@
   "RetailBullMarketPsychology": {
     "title": "Retail Bull Market Psychology",
     "url": "/wiki/concepts/retailbullmarketpsychology/"
+  },
+  "RetailChannelComplementarity": {
+    "title": "Retail Channel Complementarity",
+    "url": "/wiki/concepts/retailchannelcomplementarity/"
   },
   "RetailConceptProtection": {
     "title": "Retail Concept Protection",
@@ -76682,6 +76694,10 @@
   "RomanticStimulationSecurityTradeoff": {
     "title": "Romantic Stimulation–Security Tradeoff / 亲密关系中的刺激—安全权衡",
     "url": "/wiki/concepts/romanticstimulationsecuritytradeoff/"
+  },
+  "RomanticizeCollective": {
+    "title": "Romanticize Collective",
+    "url": "/wiki/entities/romanticizecollective/"
   },
   "RomanticizedWarMoralAmbivalence": {
     "title": "Romanticized War Moral Ambivalence",
@@ -81347,6 +81363,10 @@
     "title": "Smart Ring Hardware Subscription / 智能戒指硬件订阅",
     "url": "/wiki/concepts/smartringhardwaresubscription/"
   },
+  "SmartSweets": {
+    "title": "SmartSweets",
+    "url": "/wiki/entities/smartsweets/"
+  },
   "SmartVehicleLivingSpace": {
     "title": "Smart Vehicle Living Space / 智能汽车生活空间",
     "url": "/wiki/concepts/smartvehiclelivingspace/"
@@ -81394,6 +81414,10 @@
   "SmokingCessationSupport": {
     "title": "Smoking Cessation Support / 戒烟支持",
     "url": "/wiki/concepts/smokingcessationsupport/"
+  },
+  "Snackish": {
+    "title": "Snackish",
+    "url": "/wiki/entities/snackish/"
   },
   "Snake": {
     "title": "Snake / 蛇",
@@ -85918,6 +85942,10 @@
   "Tapio": {
     "title": "Tapio",
     "url": "/wiki/entities/tapio/"
+  },
+  "TaraBosch": {
+    "title": "Tara Bosch",
+    "url": "/wiki/entities/tarabosch/"
   },
   "TaraFlour": {
     "title": "Tara Flour",
@@ -91523,6 +91551,10 @@
     "title": "Vishnu Padmanabhan",
     "url": "/wiki/entities/vishnupadmanabhan/"
   },
+  "VisionAsDecisionFilter": {
+    "title": "Vision as a Decision Filter",
+    "url": "/wiki/concepts/visionasdecisionfilter/"
+  },
   "VisionLanguageActionModels": {
     "title": "Vision Language Action Models",
     "url": "/wiki/concepts/visionlanguageactionmodels/"
@@ -91602,6 +91634,10 @@
   "VivianaZelizer": {
     "title": "Viviana Zelizer / 泽利泽",
     "url": "/wiki/entities/vivianazelizer/"
+  },
+  "VivisVacation": {
+    "title": "Vivi's Vacation",
+    "url": "/wiki/entities/vivisvacation/"
   },
   "Vivo": {
     "title": "vivo",
@@ -95286,6 +95322,10 @@
   "XLACompiler": {
     "title": "XLA Compiler",
     "url": "/wiki/concepts/xlacompiler/"
+  },
+  "XOMarshmallow": {
+    "title": "XO Marshmallow",
+    "url": "/wiki/entities/xomarshmallow/"
   },
   "XPeng": {
     "title": "XPeng / 小鹏汽车",
@@ -101462,6 +101502,10 @@
   "advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91": {
     "title": "Advice Line with Susan Griffin-Black of EO Products",
     "url": "/wiki/sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91/"
+  },
+  "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce": {
+    "title": "Advice Line with Tara Bosch of SmartSweets",
+    "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
   },
   "advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943": {
     "title": "Advice Line with Tim Ferriss (August 2025)",

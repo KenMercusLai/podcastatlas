@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13540
+wiki_total_pages: 13546
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "XizhiTechnology"
     title: "Xizhi Technology / 西智科技"
     url: "/wiki/entities/xizhitechnology/"
+  - key: "XOMarshmallow"
+    title: "XO Marshmallow"
+    url: "/wiki/entities/xomarshmallow/"
   - key: "XPeng"
     title: "XPeng / 小鹏汽车"
     url: "/wiki/entities/xpeng/"

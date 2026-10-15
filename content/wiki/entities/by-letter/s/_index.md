@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13540
+wiki_total_pages: 13546
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "Smartisan"
     title: "Smartisan"
     url: "/wiki/entities/smartisan/"
+  - key: "SmartSweets"
+    title: "SmartSweets"
+    url: "/wiki/entities/smartsweets/"
   - key: "SMIC"
     title: "SMIC"
     url: "/wiki/entities/smic/"
@@ -1085,6 +1088,9 @@ wiki_pages:
   - key: "Smithfield"
     title: "Smithfield"
     url: "/wiki/entities/smithfield/"
+  - key: "Snackish"
+    title: "Snackish"
+    url: "/wiki/entities/snackish/"
   - key: "Snake"
     title: "Snake / 蛇"
     url: "/wiki/entities/snake/"

@@ -35327,9 +35327,9 @@
       "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
     },
     "CPGManufacturingScaleUp": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
@@ -35372,9 +35372,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
           "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        },
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/cpgmanufacturingscaleup/"
     },
     "CPRAEDResponseBoundary": {
@@ -61237,6 +61244,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/customgovernancebeyondpaperadministration/"
+    },
+    "CustomerInterviewLedPositioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/customerinterviewledpositioning/"
     },
     "CustomerSignalDrivenPivot": {
       "episode_count": 1,
@@ -229028,6 +229051,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/reedmontague/"
     },
+    "ReferralBehaviorValidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/referralbehaviorvalidation/"
+    },
     "RefinancingLagCreditTransmission": {
       "episode_count": 1,
       "show_count": 1,
@@ -232092,6 +232131,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/resurrectionbiganfilm/"
+    },
+    "RetailChannelComplementarity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/retailchannelcomplementarity/"
     },
     "RetailDisplayAsBrandSurface": {
       "episode_count": 2,
@@ -237064,6 +237119,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/romanticstimulationsecuritytradeoff/"
+    },
+    "RomanticizeCollective": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/romanticizecollective/"
     },
     "RomanticizedWarMoralAmbivalence": {
       "episode_count": 1,
@@ -251835,6 +251906,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/smartringhardwaresubscription/"
     },
+    "SmartSweets": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/smartsweets/"
+    },
     "SmartVehicleLivingSpace": {
       "episode_count": 1,
       "show_count": 1,
@@ -252000,6 +252087,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/smokingcessationsupport/"
+    },
+    "Snackish": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/snackish/"
     },
     "Snap": {
       "episode_count": 4,
@@ -265465,6 +265568,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/taohuayuanmeishi/"
+    },
+    "TaraBosch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/tarabosch/"
     },
     "Tarath": {
       "episode_count": 1,
@@ -281928,6 +282047,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/vishnupadmanabhan/"
     },
+    "VisionAsDecisionFilter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/visionasdecisionfilter/"
+    },
     "VisualFatigueCauseBasedManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -282167,6 +282302,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/vivekmurthy/"
+    },
+    "VivisVacation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/vivisvacation/"
     },
     "VladimirLenin": {
       "episode_count": 1,
@@ -294172,6 +294323,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/xb1supersonicdemonstrator/"
+    },
+    "XOMarshmallow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
+          "key": "advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tara Bosch of SmartSweets",
+          "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/xomarshmallow/"
     },
     "XPeng": {
       "episode_count": 4,

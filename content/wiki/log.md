@@ -37050,3 +37050,11 @@ Added source `billy-evans-ais26-audio-88-billy-evans-ais26-audio-88`; created [[
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | Advice Line with Tara Bosch of SmartSweets
+
+Added source `advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce`; created [[TaraBosch|Tara Bosch]], [[SmartSweets]], [[Snackish]], [[XOMarshmallow|XO Marshmallow]], [[VivisVacation|Vivi's Vacation]], [[RomanticizeCollective|Romanticize Collective]], [[CustomerInterviewLedPositioning|Customer-Interview-Led Positioning]], [[RetailChannelComplementarity]], [[ReferralBehaviorValidation]], and [[VisionAsDecisionFilter|Vision as a Decision Filter]]; and resynthesized [[CPGManufacturingScaleUp]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: consumer growth requires product satisfaction, quickly legible customer value, channel-specific purchase occasions, observable completion and referral behavior, and manufacturing readiness to work together; a concrete future state can guide those experiments without fixing the current product format. No settled contradiction was adopted. Grocery incrementality, lower-sugar formulations, natural-retail sequencing, event expansion, reported company metrics, and product-market-fit signals remain source-scoped or unproven pending sell-through, repeat purchase, retention, unit economics, and production evidence. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due, with two pending ingests; refreshed artifacts validate 4,642 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

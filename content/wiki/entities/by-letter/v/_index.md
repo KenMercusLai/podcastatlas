@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 13540
+wiki_total_pages: 13546
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "VivekMurthy"
     title: "Vivek Murthy"
     url: "/wiki/entities/vivekmurthy/"
+  - key: "VivisVacation"
+    title: "Vivi's Vacation"
+    url: "/wiki/entities/vivisvacation/"
   - key: "VivianaZelizer"
     title: "Viviana Zelizer / 泽利泽"
     url: "/wiki/entities/vivianazelizer/"

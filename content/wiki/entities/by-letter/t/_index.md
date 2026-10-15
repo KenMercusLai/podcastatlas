@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13540
+wiki_total_pages: 13546
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "TapTap"
     title: "TapTap"
     url: "/wiki/entities/taptap/"
+  - key: "TaraBosch"
+    title: "Tara Bosch"
+    url: "/wiki/entities/tarabosch/"
   - key: "TaraFlour"
     title: "Tara Flour"
     url: "/wiki/entities/taraflour/"

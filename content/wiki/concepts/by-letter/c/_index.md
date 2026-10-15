@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10593
+wiki_total_pages: 10597
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3230,6 +3230,9 @@ wiki_pages:
   - key: "CustomerValueBasedPricing"
     title: "Customer Value-Based Pricing / 消费者价值定价"
     url: "/wiki/concepts/customervaluebasedpricing/"
+  - key: "CustomerInterviewLedPositioning"
+    title: "Customer-Interview-Led Positioning"
+    url: "/wiki/concepts/customerinterviewledpositioning/"
   - key: "CuteCharacterAnxietyResonance"
     title: "Cute-Character Anxiety Resonance"
     url: "/wiki/concepts/cutecharacteranxietyresonance/"
