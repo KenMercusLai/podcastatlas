@@ -5,7 +5,8 @@ tags: [legend, post-roman-britain, medieval-literature, kingship, political-memo
 sources:
   - 19-king-arthur-glt1076701162
   - 713-king-arthur-the-once-future-king-part-1-glt2516166521
-last_updated: 2026-10-12
+  - 714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ King Arthur is an uncertain post-Roman British hero transformed by Welsh traditi
 
 Neither source resolves Arthur's historicity. [[19-king-arthur-glt1076701162]] contrasts Gildas's silence with later battle lists and Welsh references; [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] adds the *Annales Cambriae* notice that Arthur and Medraut fell at Camlann in 537, but the entry does not identify their relationship, the victor, the battlefield, or the event behind the tradition. Together they support skepticism about a recoverable biography without proving that every layer lacks an earlier oral or historical basis.
 
-The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmouth]] expanded Mordred's betrayal, Camlann, and Avalon into a connected pseudo-history; [[ThomasMalory|Thomas Malory's]] [[LeMorteDarthur|Le Morte Darthur]] made Excalibur's return, the mysterious voyage, civil-war collapse, and possible recovery into an influential English ending. [[ArthurianPoliticalLegitimation]] then let Welsh return hopes, Glastonbury's alleged grave, and English claims to all-Britain monarchy compete over whether Arthur was dead, available, or politically inheritable.
+The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmouth]] expanded Mordred's betrayal, Camlann, and Avalon into a connected pseudo-history. [[714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632]] adds a courtly stage in which Wace's [[RoundTableFellowship|Round Table]] symbolizes knightly peerhood and [[ChretienDeTroyes|Chrétien de Troyes]] projects twelfth-century romance, tournament, and aristocratic love onto Camelot. [[ThomasMalory|Thomas Malory's]] [[LeMorteDarthur|Le Morte Darthur]] then makes [[Lancelot]] and [[Guinevere]]'s divided loyalty, Excalibur's return, civil-war collapse, and possible recovery parts of an influential English ending. [[ArthurianPoliticalLegitimation]] let Welsh return hopes, Glastonbury's alleged grave, and English claims to all-Britain monarchy compete over whether Arthur was dead, available, or politically inheritable.
 
 ## Key Characteristics
 
@@ -42,6 +43,7 @@ The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmo
 
 - [[19-king-arthur-glt1076701162]] presents Geoffrey's history as the decisive expansion of Arthur into an all-Britain and continental monarch and traces later romance motifs.
 - [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] separates the sparse Camlann tradition, Geoffrey's developed betrayal and Avalon account, and Malory's final-battle synthesis.
+- [[714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632]] places the Round Table in Wace and Lancelot, Camelot's courtly atmosphere, and knight-errant love service in Chrétien's twelfth-century romances.
 
 ### Political and spatial reuse
 
@@ -55,18 +57,20 @@ The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmo
 
 ## Qualifications
 
-These sources are popular-history discussions, not a complete assessment of early British archaeology, linguistics, manuscripts, or Arthurian literature. A missing name in Gildas is significant but not dispositive, and the *Annales Cambriae* notice does not authenticate Malory's plot or locate Camlann. Badon, the battle site, Glastonbury's bones, Geoffrey's models, Malory's source use, royal motives, and motif transmission remain disputed or source-scoped.
+These sources are popular-history discussions, not a complete assessment of early British archaeology, linguistics, manuscripts, or Arthurian literature. A missing name in Gildas is significant but not dispositive, and the *Annales Cambriae* notice does not authenticate later romance. Badon, Camlann, Glastonbury's bones, Geoffrey's models, Wace's and Chrétien's degrees of invention, Malory's source use, royal motives, and motif transmission remain disputed or source-scoped. Fictional fellowship does not demonstrate social equality at medieval courts.
 
 ## What Changed
 
-- Sharpened the evidence boundary by separating the terse Camlann notice from Geoffrey's and Malory's later narrative detail.
-- Added the unresolved death-healing-return ending as a mechanism of Arthur's political and literary durability.
+- Added the courtly-romance layer that turns Arthur's court into Camelot, a Round Table fellowship, and the setting for knightly love service.
 
 ## Relationships
 
 - [[GeoffreyOfMonmouth]] - author who gave Arthur his most influential medieval historical scale.
 - [[ThomasMalory]] - author who gave Arthur's final battle and possible return an influential English synthesis.
 - [[LeMorteDarthur]] - work that preserves competing endings for Arthur after Camlann.
+- [[RoundTableFellowship]] - fictional peerhood through which his court mediates hierarchy and knightly solidarity.
+- [[Lancelot]] - exemplary knight whose divided loyalty helps destroy Arthur's fellowship.
+- [[Guinevere]] - queen whose romance with Lancelot joins courtly glamour to political fracture.
 - [[ArthurianLegendAccretion]] - process that assembled the familiar king from uneven textual and cultural layers.
 - [[ArthurianPoliticalLegitimation]] - framework for Arthur's use in claims about sovereignty, conquest, and restoration.
 - [[Merlin]] - prophet and adviser integrated into Arthur's royal story.

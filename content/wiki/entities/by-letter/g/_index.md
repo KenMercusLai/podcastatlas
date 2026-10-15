@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13526
+wiki_total_pages: 13529
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "GuillaumeCabane"
     title: "Guillaume Cabane"
     url: "/wiki/entities/guillaumecabane/"
+  - key: "Guinevere"
+    title: "Guinevere"
+    url: "/wiki/entities/guinevere/"
   - key: "Guizhou"
     title: "Guizhou"
     url: "/wiki/entities/guizhou/"

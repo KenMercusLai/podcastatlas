@@ -20297,9 +20297,9 @@
       "url": "/wiki/entities/arthursmithwoodward/"
     },
     "ArthurianLegendAccretion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -20314,9 +20314,16 @@
           "show": "The Rest Is History",
           "title": "713. King Arthur: The Once & Future King (Part 1)",
           "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        },
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/arthurianlegendaccretion/"
     },
     "ArthurianPoliticalLegitimation": {
@@ -47097,9 +47104,9 @@
       "url": "/wiki/entities/chouxiangzai/"
     },
     "ChretienDeTroyes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9518077570 [GLT9518077570].md",
@@ -47107,9 +47114,16 @@
           "show": "The Rest Is History",
           "title": "346: The Mystery of the Holy Grail (Part 2)",
           "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        },
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/chretiendetroyes/"
     },
     "ChrisBell": {
@@ -58082,6 +58096,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/courtwomenhistoriography/"
+    },
+    "CourtlyLoveChivalricIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/courtlylovechivalricidentity/"
     },
     "CoverUpEscalation": {
       "episode_count": 1,
@@ -103641,9 +103671,9 @@
       "url": "/wiki/entities/galacticempire/"
     },
     "Galahad": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9518077570 [GLT9518077570].md",
@@ -103651,9 +103681,16 @@
           "show": "The Rest Is History",
           "title": "346: The Mystery of the Holy Grail (Part 2)",
           "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        },
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/galahad/"
     },
     "GalapagosIslands": {
@@ -113556,6 +113593,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/guiltdistortedempathy/"
+    },
+    "Guinevere": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/guinevere/"
     },
     "GulfStabilityRisk": {
       "episode_count": 7,
@@ -152185,9 +152238,9 @@
       "url": "/wiki/entities/kinderhymne/"
     },
     "KingArthur": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -152202,9 +152255,16 @@
           "show": "The Rest Is History",
           "title": "713. King Arthur: The Once & Future King (Part 1)",
           "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        },
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/kingarthur/"
     },
     "KingFaisal": {
@@ -155039,6 +155099,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/lancastrianlegitimacy/"
     },
+    "Lancelot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/lancelot/"
+    },
     "LaneGreen": {
       "episode_count": 1,
       "show_count": 1,
@@ -156284,9 +156360,9 @@
       "url": "/wiki/entities/lejinlatehan/"
     },
     "LeMorteDarthur": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2516166521 [GLT2516166521].md",
@@ -156294,9 +156370,16 @@
           "show": "The Rest Is History",
           "title": "713. King Arthur: The Once & Future King (Part 1)",
           "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        },
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/lemortedarthur/"
     },
     "LeSports": {
@@ -177520,6 +177603,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/marieantoinette/"
     },
+    "MarieOfFranceCountessOfChampagne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/entities/marieoffrancecountessofchampagne/"
+    },
     "MariePierreStOnge": {
       "episode_count": 1,
       "show_count": 1,
@@ -190213,6 +190312,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/mountainscenicareagrowthconstraint/"
+    },
+    "MountedKnightSocialFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/mountedknightsocialformation/"
     },
     "MourningConductLegalization": {
       "episode_count": 1,
@@ -236725,6 +236840,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/roundcityofbaghdad/"
     },
+    "RoundTableFellowship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        }
+      ],
+      "updated": "2026-10-15",
+      "url": "/wiki/concepts/roundtablefellowship/"
+    },
     "RoundhayGardenScene": {
       "episode_count": 1,
       "show_count": 1,
@@ -269639,9 +269770,9 @@
       "url": "/wiki/entities/thomaslaffont/"
     },
     "ThomasMalory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2516166521 [GLT2516166521].md",
@@ -269649,9 +269780,16 @@
           "show": "The Rest Is History",
           "title": "713. King Arthur: The Once & Future King (Part 1)",
           "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        },
+        {
+          "episode_file": "GLT6459272632 [GLT6459272632].md",
+          "key": "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632",
+          "show": "The Rest Is History",
+          "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
+          "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/thomasmalory/"
     },
     "ThomasMastermanHardy": {

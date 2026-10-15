@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13526
+wiki_total_pages: 13529
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "MarieAntoinette"
     title: "Marie Antoinette"
     url: "/wiki/entities/marieantoinette/"
+  - key: "MarieOfFranceCountessOfChampagne"
+    title: "Marie of France, Countess of Champagne"
+    url: "/wiki/entities/marieoffrancecountessofchampagne/"
   - key: "MarieWalewska"
     title: "Marie Walewska"
     url: "/wiki/entities/mariewalewska/"

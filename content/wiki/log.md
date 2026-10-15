@@ -37002,3 +37002,11 @@ Added source `184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-mox
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | 714. King Arthur: Lancelot and the Round Table (Part 2)
+
+Added source `714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632`; created [[Lancelot]], [[Guinevere]], [[MarieOfFranceCountessOfChampagne|Marie of France, Countess of Champagne]], [[CourtlyLoveChivalricIdentity]], [[MountedKnightSocialFormation]], and [[RoundTableFellowship]]; and resynthesized [[ChretienDeTroyes|Chrétien de Troyes]], [[Galahad]], [[ThomasMalory|Thomas Malory]], [[LeMorteDarthur|Le Morte Darthur]], [[KingArthur|King Arthur]], and [[ArthurianLegendAccretion]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Chrétien's Lancelot makes loving submission a source of prowess, heavy-cavalry specialization helps explain the social rise of chivalric identity, the Round Table imagines solidarity without erasing hierarchy, and Malory preserves Lancelot's adultery, political consequences, repentance, and grace as one tragic whole. No settled contradiction was adopted. Chrétien's or Wace's precise inventions, direct fiction-to-practice causation, Cistercian responsibility for Galahad, Malory's identity and psychology, military-technology claims, and authorial motives remain source-scoped. The broad show hub was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and left unchanged because this focused literary-history addition did not warrant a new global overview paragraph. Downstream synthesis found no dirty topic and global compaction was not due, with four pending ingests; refreshed artifacts validate 4,636 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

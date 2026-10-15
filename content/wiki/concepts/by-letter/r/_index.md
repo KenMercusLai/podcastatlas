@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10577
+wiki_total_pages: 10580
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "RoundCityOfBaghdad"
     title: "Round City of Baghdad"
     url: "/wiki/concepts/roundcityofbaghdad/"
+  - key: "RoundTableFellowship"
+    title: "Round Table Fellowship"
+    url: "/wiki/concepts/roundtablefellowship/"
   - key: "Route66NostalgiaTourism"
     title: "Route 66 Nostalgia Tourism"
     url: "/wiki/concepts/route66nostalgiatourism/"

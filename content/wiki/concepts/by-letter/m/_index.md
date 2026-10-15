@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10577
+wiki_total_pages: 10580
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "MountainScenicAreaGrowthConstraint"
     title: "Mountain Scenic-Area Growth Constraint / 山岳景区增长约束"
     url: "/wiki/concepts/mountainscenicareagrowthconstraint/"
+  - key: "MountedKnightSocialFormation"
+    title: "Mounted Knight Social Formation"
+    url: "/wiki/concepts/mountedknightsocialformation/"
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"

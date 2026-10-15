@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [714. King Arthur: Lancelot and the Round Table (Part 2)](sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632.md) — The Rest Is History on Chrétien's Lancelot, courtly love, mounted knighthood, Round Table fellowship, Galahad's correction, and Malory's tragic grace.
 - [184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？](sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898.md) — 晚点聊季度复盘 Astra 进入机器人、分层控制、Physical RSI、机器人上下文学习、World Labs/AMD、宇树上市与 FCC 供应链限制。
 - [高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类](sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl.md) — 声动早咖啡串联区域产品自主权、AI家庭与穿戴入口、生活缴费、电商办公、咖啡连锁扩品类及拓麻歌子授权扩张。
 - [Wanna slow down AI? These biologists can help.](sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793.md) — Planet Money uses the recombinant-DNA moratorium and Asilomar conference to connect AI collective action with liability, risk tiers, funding-backed enforcement, and unequal career costs.
@@ -4724,6 +4725,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 
 ## Entities
+- [Lancelot](entities/Lancelot.md) — Arthurian knight whose loving submission produces exemplary prowess, destructive adultery, repentance, and grace.
+- [Guinevere](entities/Guinevere.md) — Arthurian queen whose courtly authority and affair with Lancelot join romance to Camelot's political collapse.
+- [Marie of France, Countess of Champagne](entities/MarieOfFranceCountessOfChampagne.md) — Medieval patron connecting troubadour love culture and Chrétien's Arthurian romance.
 - [Cotti Coffee / 库迪咖啡](entities/CottiCoffee.md) — Chinese coffee chain represented through a selected-store test of freshly fried food and its operating tradeoffs.
 - [Bandai / 万代](entities/Bandai.md) — Japanese toy company using cross-category licensing to expand Tamagotchi across Asian audiences.
 - [Tamagotchi / 拓麻歌子](entities/Tamagotchi.md) — Long-lived electronic-pet device and character IP extending into fashion, lifestyle, food, and music collaborations.
@@ -18324,6 +18328,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Courtly Love and Chivalric Identity](concepts/CourtlyLoveChivalricIdentity.md) — Cultural synthesis making romantic service a source of knightly distinction and moral conflict.
+- [Mounted Knight Social Formation](concepts/MountedKnightSocialFormation.md) — Transformation of specialized mounted retainers into an aspirational chivalric order.
+- [Round Table Fellowship](concepts/RoundTableFellowship.md) — Arthurian image of peer brotherhood mediating military solidarity and aristocratic hierarchy.
 - [Physical Recursive Self-Improvement / Physical RSI](concepts/PhysicalRecursiveSelfImprovement.md) — AI-directed robotics loop for constructing simulations, revising policies, and testing improvements subject to sim-to-real and evaluation constraints.
 - [Robot Supply-Chain Certification / 机器人供应链认证](concepts/RobotSupplyChainCertification.md) — Market-authorization problem linking robot connectivity, production location, and critical-component provenance.
 - [Regional Product Team as Export Hub / 区域产品团队外溢](concepts/RegionalProductTeamAsExportHub.md) — When local product autonomy and design learning become reusable capability for neighboring or overseas markets.
