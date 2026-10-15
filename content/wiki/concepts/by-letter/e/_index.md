@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10599
+wiki_total_pages: 10602
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"
+  - key: "EmbodiedTechnologyClassInequality"
+    title: "Embodied Technology–Class Inequality / 身体技术—阶级不平等"
+    url: "/wiki/concepts/embodiedtechnologyclassinequality/"
   - key: "EmbodiedTrainingAgainstFear"
     title: "Embodied Training Against Fear / 反本能身体训练"
     url: "/wiki/concepts/embodiedtrainingagainstfear/"

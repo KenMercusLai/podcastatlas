@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》](sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1.md) — 独树不成林以刘善《真实的故事》讨论公开虚构、太空殖民战争、男性生育、可替换器官及技术突破后延续的权力与阶级。
+
 - [45 丈量世界的科学狂人 vs 平视欧美的大清旅人](sources/lue3zoz87pipdfhtc8pmxj1axuyd-lue3zoz87pipdfhtc8pmxj1axuyd.md) — 怪东西 compares Humboldt's measurement-and-publication system with Xie Qinggao's pre–Opium War travel record to separate overseas information from institutional understanding and action.
 - [Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031.md) — Condensed Huberman Lab interview on assistive cortical control, robotic electrode insertion, co-adaptive decoding, spinal-bypass possibilities, and augmentation boundaries.
 - [Advice Line with Tara Bosch of SmartSweets](sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce.md) — Tara Bosch advises three consumer startups on DTC-to-grocery expansion, manufacturing readiness, customer-led positioning, referral validation, and concrete long-term vision.
@@ -4734,6 +4736,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Lucian of Samosata / 刘善（卢奇安）](entities/LucianOfSamosata.md) — 以公开承认虚构和精确史家口吻讽刺旅行叙事、知识权威及政治惯性的罗马帝国时代希腊语作家。
+- [A True Story / 《真实的故事》](entities/ATrueStory.md) — 通过月球旅行、星际殖民战争、男性生育与可替换器官检验虚构真实性、身体边界和政治延续的讽刺作品。
+
 - [谢清高 / Xie Qinggao](entities/XieQinggao.md) — Qing merchant-seafarer whose orally transmitted travel knowledge recorded overseas commerce, empire, opium, and technology before the Opium War.
 - [《海录》 / Hai Lu](entities/HaiLuBook.md) — 1820 travel account preserving Xie Qinggao's observations while exposing the gap between information circulation and state response.
 - [Max von Thun](entities/MaxVonThun.md) — European technology-policy advocate connecting launch delays, structural competitiveness, precaution, and transatlantic learning.
@@ -18358,6 +18363,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Fiction–Truth Contract / 虚构—真实契约](concepts/FictionTruthContract.md) — 区分公开邀请读者解释想象事件的虚构与以无依据内容冒充事实权威的欺骗。
+- [Technological Change–Political Continuity / 技术变革—政治延续](concepts/TechnologicalPoliticalContinuity.md) — 新能力改变身体、移动或战争，而统治、领土、财富、地位与强制冲突仍可能延续的模式。
+- [Embodied Technology–Class Inequality / 身体技术—阶级不平等](concepts/EmbodiedTechnologyClassInequality.md) — 技术改造通过材料、功能、可替换性或获取差异把财富不平等写入身体。
+
 - [Regulatory Product Launch Delay](concepts/RegulatoryProductLaunchDelay.md) — Mixed compliance, bargaining, consumer-cost, and adaptation mechanism behind later regional product availability.
 - [Precautionary Technology Regulation](concepts/PrecautionaryTechnologyRegulation.md) — Proportional pre-release safeguards for emerging systems with potentially severe or irreversible harms.
 - [Customer-Interview-Led Positioning](concepts/CustomerInterviewLedPositioning.md) — Deriving a concise value proposition from recurring customer motives and language, then checking it against behavior.

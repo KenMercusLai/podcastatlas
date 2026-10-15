@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13550
+wiki_total_pages: 13552
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "LucentTechnologies"
     title: "Lucent Technologies"
     url: "/wiki/entities/lucenttechnologies/"
+  - key: "LucianOfSamosata"
+    title: "Lucian of Samosata / 刘善（卢奇安）"
+    url: "/wiki/entities/lucianofsamosata/"
   - key: "LucileDesmoulins"
     title: "Lucile Desmoulins"
     url: "/wiki/entities/luciledesmoulins/"

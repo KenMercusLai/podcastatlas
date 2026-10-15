@@ -2755,6 +2755,10 @@
     "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
     "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
   },
+  "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1": {
+    "title": "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》",
+    "url": "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
+  },
   "371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328": {
     "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
     "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
@@ -6598,6 +6602,10 @@
   "ATT": {
     "title": "AT&T",
     "url": "/wiki/entities/att/"
+  },
+  "ATrueStory": {
+    "title": "A True Story / 《真实的故事》",
+    "url": "/wiki/entities/atruestory/"
   },
   "AUXGroup": {
     "title": "AUX Group / 奥克斯",
@@ -30059,6 +30067,10 @@
     "title": "Embodied Taste",
     "url": "/wiki/concepts/embodiedtaste/"
   },
+  "EmbodiedTechnologyClassInequality": {
+    "title": "Embodied Technology–Class Inequality / 身体技术—阶级不平等",
+    "url": "/wiki/concepts/embodiedtechnologyclassinequality/"
+  },
   "EmbodiedTrainingAgainstFear": {
     "title": "Embodied Training Against Fear / 反本能身体训练",
     "url": "/wiki/concepts/embodiedtrainingagainstfear/"
@@ -33550,6 +33562,10 @@
   "FictionAsTraumaWitness": {
     "title": "Fiction as Trauma Witness",
     "url": "/wiki/concepts/fictionastraumawitness/"
+  },
+  "FictionTruthContract": {
+    "title": "Fiction–Truth Contract / 虚构—真实契约",
+    "url": "/wiki/concepts/fictiontruthcontract/"
   },
   "FictionalCharacterTypingBoundary": {
     "title": "Fictional-Character Typing Boundary / 虚构人物类型化边界",
@@ -56254,6 +56270,10 @@
   "LucentTechnologies": {
     "title": "Lucent Technologies",
     "url": "/wiki/entities/lucenttechnologies/"
+  },
+  "LucianOfSamosata": {
+    "title": "Lucian of Samosata / 刘善（卢奇安）",
+    "url": "/wiki/entities/lucianofsamosata/"
   },
   "LucidDreamingEvidenceBoundary": {
     "title": "Lucid Dreaming Evidence Boundary",
@@ -86334,6 +86354,10 @@
   "TechnologicalInnovationLocalFiscalShock": {
     "title": "Technological Innovation Local Fiscal Shock",
     "url": "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
+  },
+  "TechnologicalPoliticalContinuity": {
+    "title": "Technological Change–Political Continuity / 技术变革—政治延续",
+    "url": "/wiki/concepts/technologicalpoliticalcontinuity/"
   },
   "TechnologicalResponsibilityRadius": {
     "title": "Technological Responsibility Radius / 技术责任半径",

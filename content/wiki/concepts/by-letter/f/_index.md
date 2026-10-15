@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10599
+wiki_total_pages: 10602
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "FictionalCharacterTypingBoundary"
     title: "Fictional-Character Typing Boundary / 虚构人物类型化边界"
     url: "/wiki/concepts/fictionalcharactertypingboundary/"
+  - key: "FictionTruthContract"
+    title: "Fiction–Truth Contract / 虚构—真实契约"
+    url: "/wiki/concepts/fictiontruthcontract/"
   - key: "FiefSecurityIllusion"
     title: "Fief Security Illusion / 封地筑城安全幻觉"
     url: "/wiki/concepts/fiefsecurityillusion/"

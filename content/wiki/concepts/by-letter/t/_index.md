@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10599
+wiki_total_pages: 10602
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "TechnocraticDominationSatire"
     title: "Technocratic Domination Satire"
     url: "/wiki/concepts/technocraticdominationsatire/"
+  - key: "TechnologicalPoliticalContinuity"
+    title: "Technological Change–Political Continuity / 技术变革—政治延续"
+    url: "/wiki/concepts/technologicalpoliticalcontinuity/"
   - key: "TechnologicalDisasterAsInstitutionalFailure"
     title: "Technological Disaster As Institutional Failure"
     url: "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"

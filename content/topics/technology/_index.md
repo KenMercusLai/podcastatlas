@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3545
+topic_total_pages: 3548
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2152,6 +2152,9 @@ topic_concepts:
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"
+  - key: "EmbodiedTechnologyClassInequality"
+    title: "Embodied Technology–Class Inequality / 身体技术—阶级不平等"
+    url: "/wiki/concepts/embodiedtechnologyclassinequality/"
   - key: "EmergencyWarningInfrastructure"
     title: "Emergency Warning Infrastructure"
     url: "/wiki/concepts/emergencywarninginfrastructure/"
@@ -4564,6 +4567,9 @@ topic_concepts:
   - key: "TechnocraticDominationSatire"
     title: "Technocratic Domination Satire"
     url: "/wiki/concepts/technocraticdominationsatire/"
+  - key: "TechnologicalPoliticalContinuity"
+    title: "Technological Change–Political Continuity / 技术变革—政治延续"
+    url: "/wiki/concepts/technologicalpoliticalcontinuity/"
   - key: "TechnologicalDisasterAsInstitutionalFailure"
     title: "Technological Disaster As Institutional Failure"
     url: "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
@@ -9099,6 +9105,9 @@ topic_sources:
   - key: "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128"
     title: "34 days without internet in Iran"
     url: "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"
+  - key: "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1"
+    title: "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》"
+    url: "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
   - key: "45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112"
     title: "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！"
     url: "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"

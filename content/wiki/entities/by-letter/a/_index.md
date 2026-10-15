@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13550
+wiki_total_pages: 13552
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "AJourneyToTheWesternIslands"
     title: "A Journey to the Western Islands of Scotland"
     url: "/wiki/entities/ajourneytothewesternislands/"
+  - key: "ATrueStory"
+    title: "A True Story / 《真实的故事》"
+    url: "/wiki/entities/atruestory/"
   - key: "ABOTNavigation"
     title: "A-BOT Navigation"
     url: "/wiki/entities/abotnavigation/"

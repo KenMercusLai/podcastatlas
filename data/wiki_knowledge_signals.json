@@ -5728,6 +5728,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/asongoficeandfire/"
     },
+    "ATrueStory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liJE6fkMG3ilr65Bi-7ZOVbnS_R1 [liJE6fkMG3ilr65Bi-7ZOVbnS_R1].md",
+          "key": "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1",
+          "show": "独树不成林",
+          "title": "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》",
+          "url": "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/atruestory/"
+    },
     "AUXGroup": {
       "episode_count": 1,
       "show_count": 1,
@@ -80345,6 +80361,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/embodiedsocialperception/"
     },
+    "EmbodiedTechnologyClassInequality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liJE6fkMG3ilr65Bi-7ZOVbnS_R1 [liJE6fkMG3ilr65Bi-7ZOVbnS_R1].md",
+          "key": "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1",
+          "show": "独树不成林",
+          "title": "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》",
+          "url": "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/embodiedtechnologyclassinequality/"
+    },
     "EmbodiedTrainingAgainstFear": {
       "episode_count": 1,
       "show_count": 1,
@@ -95368,6 +95400,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/fictionastraumawitness/"
+    },
+    "FictionTruthContract": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liJE6fkMG3ilr65Bi-7ZOVbnS_R1 [liJE6fkMG3ilr65Bi-7ZOVbnS_R1].md",
+          "key": "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1",
+          "show": "独树不成林",
+          "title": "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》",
+          "url": "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/fictiontruthcontract/"
     },
     "FictionalCharacterTypingBoundary": {
       "episode_count": 2,
@@ -172541,6 +172589,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/lucenttechnologies/"
+    },
+    "LucianOfSamosata": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liJE6fkMG3ilr65Bi-7ZOVbnS_R1 [liJE6fkMG3ilr65Bi-7ZOVbnS_R1].md",
+          "key": "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1",
+          "show": "独树不成林",
+          "title": "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》",
+          "url": "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/lucianofsamosata/"
     },
     "LucidDreamingEvidenceBoundary": {
       "episode_count": 3,
@@ -266804,6 +266868,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
+    },
+    "TechnologicalPoliticalContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liJE6fkMG3ilr65Bi-7ZOVbnS_R1 [liJE6fkMG3ilr65Bi-7ZOVbnS_R1].md",
+          "key": "371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1",
+          "show": "独树不成林",
+          "title": "371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》",
+          "url": "/wiki/sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/technologicalpoliticalcontinuity/"
     },
     "TechnologicalResponsibilityRadius": {
       "episode_count": 1,

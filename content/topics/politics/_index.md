@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3340
+topic_total_pages: 3341
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4225,6 +4225,9 @@ topic_concepts:
   - key: "TechnocraticDominationSatire"
     title: "Technocratic Domination Satire"
     url: "/wiki/concepts/technocraticdominationsatire/"
+  - key: "TechnologicalPoliticalContinuity"
+    title: "Technological Change–Political Continuity / 技术变革—政治延续"
+    url: "/wiki/concepts/technologicalpoliticalcontinuity/"
   - key: "TechnologicalDisasterAsInstitutionalFailure"
     title: "Technological Disaster As Institutional Failure"
     url: "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3518
+topic_total_pages: 3520
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1387,6 +1387,9 @@ topic_concepts:
   - key: "FictionalRelationshipCompatibilityReading"
     title: "Fictional Relationship Compatibility Reading / 虚构关系适配性阅读"
     url: "/wiki/concepts/fictionalrelationshipcompatibilityreading/"
+  - key: "FictionTruthContract"
+    title: "Fiction–Truth Contract / 虚构—真实契约"
+    url: "/wiki/concepts/fictiontruthcontract/"
   - key: "FilmClipRemixAfterlife"
     title: "Film Clip Remix Afterlife / 电影片段二创再流通"
     url: "/wiki/concepts/filmclipremixafterlife/"
@@ -3893,6 +3896,9 @@ topic_entities:
   - key: "AJourneyToTheWesternIslands"
     title: "A Journey to the Western Islands of Scotland"
     url: "/wiki/entities/ajourneytothewesternislands/"
+  - key: "ATrueStory"
+    title: "A True Story / 《真实的故事》"
+    url: "/wiki/entities/atruestory/"
   - key: "AIArtificialIntelligenceFilm"
     title: "A.I. Artificial Intelligence / 《人工智能》"
     url: "/wiki/entities/aiartificialintelligencefilm/"
