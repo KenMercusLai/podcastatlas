@@ -4,7 +4,8 @@ type: concept
 tags: [neurosurgery, robotics, neural-interface]
 sources:
   - neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395
-last_updated: 2026-09-29
+  - essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Robotic neural-electrode insertion uses machine-guided positioning to place very fine electrodes in or near neural tissue with repeatability and spatial precision that may exceed unaided manual placement.
 
 ## Current Synthesis
-In the bounded [[Neuralink]] account, the insertion robot solves a specific physical problem: electrodes are extremely small, cortical surface vessels are dense, and repeated placements must be accurate enough to acquire useful signals while avoiding visible vasculature. The described robot performs electrode placement after a neurosurgeon opens the skin and skull, so automation is a specialized step inside a broader surgical workflow.
+In the bounded full and condensed [[Neuralink]] accounts, the insertion robot solves a specific physical problem: electrodes are extremely small, cortical surface vessels are dense, and repeated placements must be accurate enough to acquire useful signals while avoiding visible vasculature. The described robot performs electrode placement after a neurosurgeon opens the skin and skull, so automation is a specialized step inside a broader surgical workflow.
 
 Precision is necessary but not sufficient. Implant value also depends on biocompatibility, recording stability, decoding, heat and power management, wound and vascular risk, and whether the resulting [[BrainComputerInterface]] produces meaningful function.
 
@@ -26,15 +27,15 @@ Precision is necessary but not sufficient. Implant value also depends on biocomp
 - Surgical precision does not establish long-term device durability or clinical benefit by itself.
 
 ## Evidence
-- Physical rationale - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] attributes robotic use to tiny electrodes, dense surface vessels, and repeated-placement demands.
-- Workflow boundary - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] says the robot places electrodes while a neurosurgeon performs the opening of skin and skull.
+- Physical rationale - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] and the condensed [[essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031]] note attribute robotic use to tiny electrodes, dense surface vessels, and repeated-placement demands.
+- Workflow boundary - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] and [[essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031]] say the robot places electrodes while a neurosurgeon performs the opening of skin and skull.
 - Functional context - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] connects placement to motor-signal recording and assistive computer control.
 
 ## Counterevidence & Qualifications
-The source provides a high-level company description, not comparative surgical data, complication rates, long-term histology, device-longevity results, or proof that robotic insertion is safer or more effective than every alternative approach. The claimed safety comparison is guest-attributed and time-bounded.
+The sources provide overlapping high-level company descriptions, not comparative surgical data, complication rates, long-term histology, device-longevity results, or proof that robotic insertion is safer or more effective than every alternative approach. The claimed safety comparison is guest-attributed and time-bounded.
 
 ## What Changed
-- Created the concept as a constrained surgical-automation step rather than full autonomous neurosurgery.
+- Added the Essentials condensation as overlapping provenance without changing the constrained-automation judgment.
 
 ## Related Concepts
 - [[BrainComputerInterface]] - functional system that uses the implanted signals.

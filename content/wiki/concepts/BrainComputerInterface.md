@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, assistive-technology, neural-interface]
 sources:
   - neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395
-last_updated: 2026-09-29
+  - essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031
+last_updated: 2026-10-15
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 A brain–computer interface records neural activity and translates selected patterns into commands for a computer or another device, optionally adding stimulation back into the nervous system.
 
 ## Current Synthesis
-The bounded source presents the most grounded near-term use as assistive control. For a person with severe spinal-cord injury but preserved motor-cortex activity, imagined wrist, hand, or other movement can supply signals that software maps to cursor motion, selection, and keyboard input. This is a route to digital access, not equivalent to restoring natural movement or reading unrestricted thought.
+The bounded full interview and its Essentials condensation present the most grounded near-term use as assistive control. For a person with severe spinal-cord injury but preserved motor-cortex activity, imagined wrist, hand, or other movement can supply signals that software maps to cursor motion, selection, and keyboard input. This is a route to digital access, not equivalent to restoring natural movement or reading unrestricted thought.
 
 Performance is co-adaptive: the decoder learns correlations between firing patterns and intended actions, while the user learns which mental strategies produce stable feedback. Electrode placement and channel count can increase access to signal, but higher theoretical bitrate brings surgery, safety, durability, and adoption costs captured by [[NeuralInterfaceBitrateAdoptionTradeoff]].
 
@@ -27,15 +28,15 @@ Performance is co-adaptive: the decoder learns correlations between firing patte
 - Silent speech, memory enhancement, and generalized thought sharing remain speculative in this source.
 
 ## Evidence
-- Assistive control - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] describes imagined movement being translated into cursor and keyboard actions for people with severe paralysis.
-- Co-adaptation - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] describes software learning neural firing patterns while users refine strategies through feedback.
+- Assistive control - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] and its condensed [[essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031]] version describe imagined movement being translated into cursor and keyboard actions for people with severe paralysis.
+- Co-adaptation - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] and [[essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031]] describe software learning neural firing patterns while users refine strategies through feedback.
 - Restoration boundary - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] explicitly distinguishes digital control from immediate reconnection to the user’s limbs.
 
 ## Counterevidence & Qualifications
-This evidence comes from one April 2023 company-insider interview and does not establish current device performance, durability, eligibility, comparative safety, or regulatory status. Cursor-control feasibility does not by itself validate natural-limb restoration, high-bandwidth speech decoding, memory enhancement, unrestricted thought reading, or multi-brain communication.
+This evidence comes from one April 2023 company-insider interview and a later condensation of the same conversation, so the two notes are not independent confirmation. They do not establish current device performance, durability, eligibility, comparative safety, or regulatory status. Cursor-control feasibility does not by itself validate natural-limb restoration, high-bandwidth speech decoding, memory enhancement, unrestricted thought reading, or multi-brain communication.
 
 ## What Changed
-- Created an assistive-first synthesis that separates digital control from natural motor restoration and speculative augmentation.
+- Added the Essentials condensation as overlapping provenance; the distinction between assistive control, motor restoration, and augmentation remains unchanged.
 
 ## Related Concepts
 - [[RoboticNeuralElectrodeInsertion]] - surgical placement method for fine cortical recording electrodes.

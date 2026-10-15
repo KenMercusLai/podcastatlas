@@ -32427,9 +32427,9 @@
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
     "BrainComputerInterface": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4147376395 [SCIM4147376395].md",
@@ -32437,9 +32437,16 @@
           "show": "Huberman Lab",
           "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
           "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        },
+        {
+          "episode_file": "SCIM2817913031 [SCIM2817913031].md",
+          "key": "essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031",
+          "show": "Huberman Lab",
+          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+          "url": "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/braincomputerinterface/"
     },
     "BrainDerivedNeurotrophicFactor": {
@@ -180395,9 +180402,9 @@
       "url": "/wiki/entities/matthewjohnson/"
     },
     "MatthewMacDougall": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4147376395 [SCIM4147376395].md",
@@ -180405,9 +180412,16 @@
           "show": "Huberman Lab",
           "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
           "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        },
+        {
+          "episode_file": "SCIM2817913031 [SCIM2817913031].md",
+          "key": "essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031",
+          "show": "Huberman Lab",
+          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+          "url": "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/matthewmacdougall/"
     },
     "MatthewParker": {
@@ -195476,9 +195490,9 @@
       "url": "/wiki/concepts/networkedmovementidentity/"
     },
     "NeuralInterfaceBitrateAdoptionTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4147376395 [SCIM4147376395].md",
@@ -195486,15 +195500,22 @@
           "show": "Huberman Lab",
           "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
           "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        },
+        {
+          "episode_file": "SCIM2817913031 [SCIM2817913031].md",
+          "key": "essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031",
+          "show": "Huberman Lab",
+          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+          "url": "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/neuralinterfacebitrateadoptiontradeoff/"
     },
     "Neuralink": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4147376395 [SCIM4147376395].md",
@@ -195502,9 +195523,16 @@
           "show": "Huberman Lab",
           "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
           "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        },
+        {
+          "episode_file": "SCIM2817913031 [SCIM2817913031].md",
+          "key": "essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031",
+          "show": "Huberman Lab",
+          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+          "url": "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-15",
       "url": "/wiki/entities/neuralink/"
     },
     "NeuroPlatformRemoteAccess": {
@@ -235983,9 +236011,9 @@
       "url": "/wiki/concepts/robotichandlingcommercialization/"
     },
     "RoboticNeuralElectrodeInsertion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4147376395 [SCIM4147376395].md",
@@ -235993,9 +236021,16 @@
           "show": "Huberman Lab",
           "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
           "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        },
+        {
+          "episode_file": "SCIM2817913031 [SCIM2817913031].md",
+          "key": "essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031",
+          "show": "Huberman Lab",
+          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+          "url": "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-15",
       "url": "/wiki/concepts/roboticneuralelectrodeinsertion/"
     },
     "RoboticsProductResearch": {

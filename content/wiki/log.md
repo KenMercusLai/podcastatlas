@@ -37058,3 +37058,11 @@ Added source `advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875
 ## [2026-10-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-15] ingest | Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall
+
+Added source `essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031`; resynthesized [[MatthewMacDougall]], [[Neuralink]], [[BrainComputerInterface]], [[RoboticNeuralElectrodeInsertion]], and [[NeuralInterfaceBitrateAdoptionTradeoff]] from their complete preserved evidence inventories before appending the new source once. Core synthesis remains assistive-first: intended motor activity is decoded into computer control through a surgeon-led implant workflow, robotic thread insertion, and user–decoder co-adaptation, while limb restoration, silent communication, psychiatric applications, collective cognition, and AI-linked augmentation remain later-stage possibilities. No settled contradiction was adopted. The Essentials episode condenses the already-ingested April 2023 interview and therefore supplies overlapping provenance rather than independent confirmation; device-safety comparisons, animal-welfare descriptions, performance claims, timelines, and augmentation forecasts remain insider-attributed or source-scoped. The broad [[HubermanLab]], [[AndrewHuberman]], and [[Neuroplasticity]] pages were kept closed because the condensation does not change their judgments. The automatic `wiki/overview.md` was read for context and left unchanged because this condensed duplicate did not warrant a new global overview paragraph. Downstream synthesis found no dirty topic and global compaction was not due, with two pending ingests; refreshed artifacts validate 4,643 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

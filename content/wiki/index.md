@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031.md) — Condensed Huberman Lab interview on assistive cortical control, robotic electrode insertion, co-adaptive decoding, spinal-bypass possibilities, and augmentation boundaries.
 - [Advice Line with Tara Bosch of SmartSweets](sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce.md) — Tara Bosch advises three consumer startups on DTC-to-grocery expansion, manufacturing readiness, customer-led positioning, referral validation, and concrete long-term vision.
 - [Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary](sources/billy-evans-ais26-audio-88-billy-evans-ais26-audio-88.md) — All-In interview with Billy Evans on Holmes's trial and imprisonment, their children's separation, competing Theranos narratives, and his Raman-spectroscopy startup Himanthus.
 - [369-潘多拉是人类最早的科技噩梦吗？（赫西俄德《工作与时日》）](sources/369-panduola-shi-renlei-zuizao-de-keji-emeng-ma-hesie-de-gongzuo-yu-shiri-lkr0ibzoden-ip-es5xpnhnbvz7.md) — 独树不成林 uses Hesiod's Pandora story to examine designed desire, the risk knowledge-action gap, distributed technical responsibility, and hope's ambiguous value.

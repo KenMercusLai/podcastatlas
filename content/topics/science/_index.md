@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1579
+topic_total_pages: 1580
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4101,6 +4101,9 @@ topic_sources:
   - key: "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382"
     title: "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools"
     url: "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+  - key: "essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031"
+    title: "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall"
+    url: "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
   - key: "essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270"
     title: "Essentials: Optimize Your Learning & Creativity With Science-Based Tools"
     url: "/wiki/sources/essentials-optimize-your-learning-creativity-with-science-based-tools-scim1219836270/"
