@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1582
+topic_total_pages: 1583
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3765,6 +3765,9 @@ topic_entities:
     title: "龚学平 / Gong Xueping"
     url: "/wiki/entities/gongxueping/"
 topic_sources:
+  - key: "407-jinnian-de-nuojiang-rang-women-li-lijie-danao-qingxu-he-jingshen-jibing-geng-jin-le-ma-63a3f28a"
+    title: "#407 今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？"
+    url: "/wiki/sources/407-jinnian-de-nuojiang-rang-women-li-lijie-danao-qingxu-he-jingshen-jibing-geng-jin-le-ma-63a3f28a/"
   - key: "07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165"
     title: "07.用荣格理论分析《小王子》 永恒少年及其他"
     url: "/wiki/sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165/"

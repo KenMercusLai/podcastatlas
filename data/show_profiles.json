@@ -1959,8 +1959,8 @@
       "earliest_episode_date": "2026-07-09",
       "latest_episode_date": "2026-10-16",
       "latest_episode_file": "63a3f28a-fbeb-46b5-8fc8-eaeca8e235da [63a3f28a-fbeb-46b5-8fc8-eaeca8e235da].md",
-      "source_note_count": 11,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 12,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "politics",
@@ -1979,6 +1979,12 @@
           "label": "Technology",
           "url": "/topics/technology/",
           "source_note_count": 2
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
         }
       ],
       "entities": [],

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#407 今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？](sources/407-jinnian-de-nuojiang-rang-women-li-lijie-danao-qingxu-he-jingshen-jibing-geng-jin-le-ma-63a3f28a.md) — 声东击西对光遗传学节目的交叉发布，区分动物环路因果实验、人的主观体验、精神疾病诊断与临床治疗。
 - [用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32](sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.md) — What's Next 与声东击西从光遗传学的因果操控能力出发，讨论精神疾病测量、情绪标签拆分、临床转化及治疗与控制的伦理边界。
 - [Schrödinger’s chat: can AI and scientists co-exist?](sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f.md) — Economist episode on AI-generated mathematics and scientific institutions, engineered snack texture, and Annie Dillard’s attentive witnessing of beauty and suffering.
 - [AI borrowing slowdown raises questions about investor exposure](sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128.md) — Marketplace Tech on the AI-debt lending correction, CoreWeave repricing, Netflix's mature-market job cuts, and formal measurement of workplace AI proficiency and returns.
