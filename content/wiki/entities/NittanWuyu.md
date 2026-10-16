@@ -8,29 +8,30 @@ sources:
   - 2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4
   - 2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1
   - 2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc
+  - 2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-10
+last_updated: 2026-10-17
 ---
 
 # 日谈物语 / Nittan Wuyu
 
 ## Overview
 
-日谈物语 enters the wiki through its 2026 autumn sequence. Four short excerpts announce public-health, environmental, medical-ethics, and juvenile-crime subjects, while the later full-length special reconstructs [[MoriMina|森美菜]]'s death at [[WatamiGroup|和民集团]] and the long campaign for labor accountability. The sources present a conversational podcast hosted by [[MiaoShuNittanWuyu|淼叔]] and [[XiaoHuoziNittanWuyu|小伙子]].
+日谈物语 enters the wiki through its 2026 autumn sequence. Five short excerpts announce or begin public-health, environmental, medical-ethics, juvenile-crime, and family-crime subjects, while the full-length Watami special reconstructs [[MoriMina|森美菜]]'s death and the long campaign for labor accountability. The sources present a conversational podcast hosted by [[MiaoShuNittanWuyu|淼叔]] and [[XiaoHuoziNittanWuyu|小伙子]].
 
 ## Current Profile
 
-The pattern announced by the short excerpts is demonstrated in the Watami special. The hosts move from one young worker's 72-day employment through staffing, training, transport, assessment, corporate ideology, mental-health warnings, workers' compensation, union support, litigation, consumer response, and legal reform. This is [[SocialHistoryCaseFraming|case-based social history]] rather than narrow true crime: an individual record remains central while institutions and the distribution of responsibility explain why harm occurred and how accountability became possible. E04's free-access announcement aligns with the later episode's public-education purpose.
+The pattern announced by the short excerpts is demonstrated in the Watami special. The hosts move from one young worker's 72-day employment through staffing, training, transport, assessment, corporate ideology, mental-health warnings, workers' compensation, union support, litigation, consumer response, and legal reform. This is [[SocialHistoryCaseFraming|case-based social history]] rather than narrow true crime: an individual record remains central while institutions and the distribution of responsibility explain why harm occurred and how accountability became possible. E05 applies the same intended move by opening the [[AkabaneFilicideCase1977|1977 Akabane case]] through contemporary education competition and local context, but its excerpt ends before the social explanation is demonstrated.
 
 ## Key Characteristics
 
-- Uses host conversation and seasonal framing before entering the main case.
 - Presents cases as ways to see groups, social types, and lives inside special historical conditions.
 - Connects historical events to contemporary uncertainty and public reflection.
 - Builds the autumn season across public health, environmental diffuse harm, medical ethics, and labor accountability.
 - Uses listener feedback to rebalance large social events with a more explicit individual-case entry point.
-- Balances light openings and follow-ups with heavy themes, and can use free access when a subject warrants wider discussion.
+- Balances light openings and follow-ups with heavy themes, while seasonal framing can precede the main case and free access can widen discussion.
 - Uses documentary timelines and institutional pathways to separate personal tragedy from individualized blame.
+- Uses contemporary dilemmas as entry points into historical cases while treating location and social background as interpretively relevant.
 
 ## Evidence
 
@@ -43,16 +44,18 @@ The pattern announced by the short excerpts is demonstrated in the Watami specia
 - **Public-access evidence:** [[2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1]] says the October 10 program will be free because some subjects should reach more listeners and invite sharing and discussion rather than being evaluated only as paid content.
 - **Demonstrated case method:** [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc]] moves from [[MoriMina|森美菜]]'s notebooks and work conditions to [[CoercedVoluntaryLabor]], company responsibility, administrative review, unions, litigation, and social response.
 - **Interpretive restraint:** [[2026-qiuji-pian-fanwai-jinru-dachang-lianggeyue-ta-xuanzele-zisha-lmtfkbce-sjbl05lcdcvs8vhtnmc]] acknowledges real Watami agriculture and public-purpose activity while arguing that these do not cancel employee-protection failures.
+- **Contemporary-to-historical framing:** [[2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm]] moves from “鸡娃” as competitive escalation to a 1977 Tokyo killing and begins explaining Akabane before the excerpt ends.
 
 ## Qualifications
 
-The current profile does not establish the full history of 日谈物语, its regular format, or complete host roster. The first four autumn transcripts still stop before their named main incidents are developed, so the show's substantive treatment of those cases remains unassessed. The Watami special is a secondary narrative rather than a substitute for judgments, regulations, company filings, or family records, and its legal, numerical, causal, and business claims remain source-scoped.
+The current profile does not establish the full history of 日谈物语, its regular format, or complete host roster. The first five autumn transcripts are short excerpts and leave their named incidents incomplete, so the show's substantive treatment of those cases remains unassessed. E05 does not establish that education pressure caused the killing or even support the title's prestigious-school description. The Watami special is a secondary narrative rather than a substitute for judgments, regulations, company filings, or family records, and its legal, numerical, causal, and business claims remain source-scoped.
 
 ## What Changed
 
 - Replaced an excerpt-only profile with evidence from a full case reconstruction.
 - Established labor institutions, documentary evidence, and accountability pathways as demonstrated parts of the show's method.
 - Preserved the incomplete-transcript boundary for E01-E04.
+- Extended the profile to E05's education-competition and local-context setup without adopting its causal premise.
 
 ## Relationships
 
@@ -70,3 +73,5 @@ The current profile does not establish the full history of 日谈物语, its reg
 - [[WatamiGroup|和民集团]] - employer whose operations and responsibility are reconstructed.
 - [[CorporateValuesLaborControl]] - institutional mechanism developed in the full special.
 - [[WorkRelatedSuicideRecognition]] - legal and social accountability path developed in the full special.
+- [[AkabaneFilicideCase1977|1977年赤羽弑子案]] - family-crime case opened but not completed in E05.
+- [[EducationCompetitionUncertaintyLoop]] - contemporary competitive-escalation frame used to introduce E05.

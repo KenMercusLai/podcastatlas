@@ -37137,3 +37137,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-17] ingest | 2026秋季篇E05 鸡娃悲剧！名校学生被杀案
+
+Added source `2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm`; created [[AkabaneFilicideCase1977|1977年赤羽弑子案]]; and resynthesized [[NittanWuyu|日谈物语]] and [[EducationCompetitionUncertaintyLoop|教育竞争不确定性循环]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode casts “鸡娃” as strategic interdependence in which other families' expected escalation raises the perceived preparation floor, then opens a 1977 Tokyo case through a father's surrender, the discovery of his son, and Akabane's setting. No settled contradiction was adopted. The three-minute excerpt does not support the title's prestigious-school description or establish the family's education history, motive, mother's role, judicial outcome, or a causal link between education pressure and the killing. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due, leaving one pending ingest; refreshed artifacts validate 4,653 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

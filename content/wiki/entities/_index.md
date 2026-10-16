@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13560
+wiki_total_pages: 13561
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
     url: "/wiki/entities/arabica/"
+  - key: "AkabaneFilicideCase1977"
+    title: "1977 Akabane Filicide Case / 1977年赤羽弑子案"
+    url: "/wiki/entities/akabanefilicidecase1977/"
   - key: "ABriefHistoryOfChips"
     title: "A Brief History of Chips / 芯片简史"
     url: "/wiki/entities/abriefhistoryofchips/"
