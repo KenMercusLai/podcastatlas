@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2276
+topic_total_pages: 2278
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1702,6 +1702,9 @@ topic_concepts:
   - key: "IncumbentPlatformPressure"
     title: "Incumbent Platform Pressure"
     url: "/wiki/concepts/incumbentplatformpressure/"
+  - key: "IndependentFilmSalesMarket"
+    title: "Independent Film Sales Market"
+    url: "/wiki/concepts/independentfilmsalesmarket/"
   - key: "IndependentHealthcareClinicFinancing"
     title: "Independent Healthcare Clinic Financing"
     url: "/wiki/concepts/independenthealthcareclinicfinancing/"
@@ -6093,6 +6096,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530"
     title: "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530/"
+  - key: "default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266"
+    title: "Anatomy of a movie market"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555"
     title: "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"

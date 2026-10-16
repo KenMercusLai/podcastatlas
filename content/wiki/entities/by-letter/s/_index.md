@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13561
+wiki_total_pages: 13564
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1859,6 +1859,9 @@ wiki_pages:
   - key: "SunYutao"
     title: "Sun Yutao / 孙宇涛"
     url: "/wiki/entities/sunyutao/"
+  - key: "SundanceFilmFestival"
+    title: "Sundance Film Festival"
+    url: "/wiki/entities/sundancefilmfestival/"
   - key: "SundarPichai"
     title: "Sundar Pichai"
     url: "/wiki/entities/sundarpichai/"

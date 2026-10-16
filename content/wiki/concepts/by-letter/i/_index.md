@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10614
+wiki_total_pages: 10617
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "IndependentConflictReportingRisk"
     title: "Independent Conflict Reporting Risk / 独立冲突报道风险"
     url: "/wiki/concepts/independentconflictreportingrisk/"
+  - key: "IndependentFilmSalesMarket"
+    title: "Independent Film Sales Market"
+    url: "/wiki/concepts/independentfilmsalesmarket/"
   - key: "IndependentHealthcareClinicFinancing"
     title: "Independent Healthcare Clinic Financing"
     url: "/wiki/concepts/independenthealthcareclinicfinancing/"

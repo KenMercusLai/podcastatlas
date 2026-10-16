@@ -37145,3 +37145,11 @@ Added source `2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5d
 ## [2026-10-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-17] ingest | Anatomy of a movie market
+
+Added source `default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266`; created [[JohnSloss|John Sloss]], [[CineticMedia|Cinetic Media]], [[SundanceFilmFestival|Sundance Film Festival]], [[IndependentFilmSalesMarket]], [[FestivalDemandSignaling]], and [[FilmDistributionGatekeeping]]. Core synthesis: independent-film distribution is a concentrated uncertainty-management market in which sales agents turn screenings, audience evidence, publicity, relationships, and competition into acquisition signals, while a small buyer pool, limited budgets, and corporate approvals still determine broad access. No settled contradiction was adopted. Reported prices, revenues, buyer counts, predictive effects, and strategic success claims remain source-scoped because the episode centers one seller and successful cases. The automatic `wiki/overview.md` was read for context and left unchanged because this focused film-market addition did not warrant revising the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due, leaving one pending ingest; refreshed artifacts validate 4,654 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
