@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10612
+wiki_total_pages: 10613
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2825,6 +2825,9 @@ wiki_pages:
   - key: "AttentiveStreamingStorytelling"
     title: "Attentive Streaming Storytelling"
     url: "/wiki/concepts/attentivestreamingstorytelling/"
+  - key: "AttentiveWitnessing"
+    title: "Attentive Witnessing"
+    url: "/wiki/concepts/attentivewitnessing/"
   - key: "AttractivenessLaborMarketPremium"
     title: "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价"
     url: "/wiki/concepts/attractivenesslabormarketpremium/"

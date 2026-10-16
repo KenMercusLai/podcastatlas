@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13558
+wiki_total_pages: 13559
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1418,6 +1418,9 @@ wiki_pages:
   - key: "AnnieCrabill"
     title: "Annie Crabill"
     url: "/wiki/entities/anniecrabill/"
+  - key: "AnnieDillard"
+    title: "Annie Dillard"
+    url: "/wiki/entities/anniedillard/"
   - key: "Anschluss"
     title: "Anschluss"
     url: "/wiki/entities/anschluss/"

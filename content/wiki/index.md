@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Schrödinger’s chat: can AI and scientists co-exist?](sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f.md) — Economist episode on AI-generated mathematics and scientific institutions, engineered snack texture, and Annie Dillard’s attentive witnessing of beauty and suffering.
 - [AI borrowing slowdown raises questions about investor exposure](sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128.md) — Marketplace Tech on the AI-debt lending correction, CoreWeave repricing, Netflix's mature-market job cuts, and formal measurement of workplace AI proficiency and returns.
 - [508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」](sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu.md) — 忽左忽右访谈向兰欣，以跨大西洋训练、多国档案和现实主义框架讨论特朗普式谈判、北约责任转移、中美俄均衡、意外战争风险与欧洲军事凯恩斯主义。
 - [高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？](sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992.md) — 声动早咖啡 explains Universal's horror attractions as autumn demand smoothing, reusable live production, temporary IP testing, and year-round market entry constrained by throughput and licensing control.
@@ -4739,6 +4740,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Annie Dillard](entities/AnnieDillard.md) — American writer whose nature writing joins exact observation with unresolved beauty, suffering, and creation.
 - [Selby Jennings](entities/SelbyJennings.md) — Financial-services recruitment firm whose survey tracks formal employee AI-skill criteria and organizational AI-investment measurement.
 - [向兰欣 / Xiang Lanxin](entities/XiangLanxin.md) — International-relations scholar using transatlantic history, multi-country archives, and realist balance to interpret China-U.S.-European relations.
 - [Robert Skidelsky](entities/RobertSkidelsky.md) — Keynes biographer and Xiang Lanxin's teacher and friend, linked in the episode to Harbin family memory and military Keynesianism.
@@ -18372,6 +18374,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Attentive Witnessing](concepts/AttentiveWitnessing.md) — Receptive observational practice that preserves beauty, suffering, vulnerability, and mystery without forcing simple explanation.
 - [Performance-Based Coercive Bargaining](concepts/PerformanceBasedCoerciveBargaining.md) — Theatrical pressure, issue proliferation, and conditional escalation or retreat used to disrupt counterparts and probe resistance.
 - [Great-Power Triangular Balance](concepts/GreatPowerTriangularBalance.md) — Source-attributed realist equilibrium model among the United States, China, and Russia.
 - [Multi-Archive Conflict History](concepts/MultiArchiveConflictHistory.md) — Reconstructing conflict across several belligerents' records without letting one national narrative control the evidence.

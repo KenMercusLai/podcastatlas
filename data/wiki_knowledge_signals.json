@@ -2921,9 +2921,9 @@
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
     "AIForMath": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
@@ -2945,9 +2945,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
+        },
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/aiformath/"
     },
     "AIGeneratedContentQualityGap": {
@@ -2981,9 +2988,9 @@
       "url": "/wiki/concepts/aigeneratedcontentqualitygap/"
     },
     "AIGeneratedProofGovernance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
@@ -2991,9 +2998,16 @@
           "show": "Economist Podcasts",
           "title": "Out-numbered: AI's contentious maths milestone",
           "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        },
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/aigeneratedproofgovernance/"
     },
     "AIGeneratedPullRequestBurden": {
@@ -17277,6 +17291,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/anniechapman/"
     },
+    "AnnieDillard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/anniedillard/"
+    },
     "AnnualFitnessPeriodization": {
       "episode_count": 1,
       "show_count": 1,
@@ -22187,6 +22217,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/attentionalblinktraining/"
+    },
+    "AttentiveWitnessing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/attentivewitnessing/"
     },
     "AttilaTheHun": {
       "episode_count": 1,
@@ -70135,9 +70181,9 @@
       "url": "/wiki/concepts/digitalsovereignty/"
     },
     "DigitallyVerifiableDiscoveryLoop": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
@@ -70145,9 +70191,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-is-claude-conscious-pope-rejects-model-welfare-movement-openais-math/"
+        },
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/digitallyverifiablediscoveryloop/"
     },
     "DignityBasedPersuasion": {
@@ -97962,6 +98015,29 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/foodsystemnutritionresponsibility/"
+    },
+    "FoodTextureAesthetics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "66.鱼翅与花椒：聊吃的我可就不困了 [659957536].md",
+          "key": "66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536",
+          "show": "蜜獾吃书",
+          "title": "66.鱼翅与花椒：聊吃的我可就不困了",
+          "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
+        },
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/foodtextureaesthetics/"
     },
     "FoodValueContextAssessment": {
       "episode_count": 1,
@@ -242649,6 +242725,36 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/sciencetrustpoliticization/"
+    },
+    "ScientificDiscoveryAutomation": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "BF5BEAEE06B79AF632A834CCA08CB345~8584436_2026-08-10-210036-8787-0-0-10.128 [BF5BEAEE06B79AF632A834CCA08CB345~8584436_2026-08-10-210036-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83820f].md",
+          "key": "data-ai-and-scientific-research-a-coffee-chat",
+          "show": "Data Science With Sam",
+          "title": "Data, AI, and Scientific Research: A Coffee Chat",
+          "url": "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"
+        },
+        {
+          "episode_file": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：＂如果神存在，我怎能容忍自己不是神？＂【公路播客】 [lhcEYiP6DQoMRwk38uVqJWOoMxyZ].md",
+          "key": "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz",
+          "show": "十字路口Crossing",
+          "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【公路播客】",
+          "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
+        },
+        {
+          "episode_file": "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
+          "key": "schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f",
+          "show": "Economist Podcasts",
+          "title": "Schrödinger’s chat: can AI and scientists co-exist?",
+          "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/scientificdiscoveryautomation/"
     },
     "ScientificExplorationImperialClaim": {
       "episode_count": 3,
