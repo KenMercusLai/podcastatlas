@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10613
+wiki_total_pages: 10614
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "NeurosurgicalTreatmentSelection"
     title: "Neurosurgical Treatment Selection / 神经外科治疗选择"
     url: "/wiki/concepts/neurosurgicaltreatmentselection/"
+  - key: "NeurotechnologyAgencyBoundary"
+    title: "Neurotechnology Agency Boundary / 神经技术能动性边界"
+    url: "/wiki/concepts/neurotechnologyagencyboundary/"
   - key: "NeutralInternetExchange"
     title: "Neutral Internet Exchange"
     url: "/wiki/concepts/neutralinternetexchange/"

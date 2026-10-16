@@ -196540,6 +196540,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/neurosurgicaltreatmentselection/"
     },
+    "NeurotechnologyAgencyBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+          "key": "yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b",
+          "show": "What's Next｜科技早知道",
+          "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+          "url": "/wiki/sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/neurotechnologyagencyboundary/"
+    },
     "NeutralityToInterventionMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -204261,9 +204277,9 @@
       "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
     },
     "Optogenetics": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1806352008 [SCIM1806352008].md",
@@ -204278,9 +204294,16 @@
           "show": "声动早咖啡",
           "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
           "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        },
+        {
+          "episode_file": "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+          "key": "yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b",
+          "show": "What's Next｜科技早知道",
+          "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+          "url": "/wiki/sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/optogenetics/"
     },
     "OracleBoneDivination": {
@@ -222522,9 +222545,9 @@
       "url": "/wiki/entities/projectglasswing/"
     },
     "ProjectionsBook": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -222539,9 +222562,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
+        },
+        {
+          "episode_file": "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+          "key": "yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b",
+          "show": "What's Next｜科技早知道",
+          "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+          "url": "/wiki/sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-16",
       "url": "/wiki/entities/projectionsbook/"
     },
     "ProlactinDopaminePituitaryInterpretation": {
@@ -223561,9 +223591,9 @@
       "url": "/wiki/concepts/psychedelictherapymechanism/"
     },
     "PsychiatricDiagnosisMechanismBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2561346508 [SCIM2561346508].md",
@@ -223571,9 +223601,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer",
           "url": "/wiki/sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508/"
+        },
+        {
+          "episode_file": "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+          "key": "yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b",
+          "show": "What's Next｜科技早知道",
+          "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+          "url": "/wiki/sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/psychiatricdiagnosismechanismboundary/"
     },
     "PsychiatricEverydayLanguage": {
@@ -223736,9 +223773,9 @@
       "url": "/wiki/concepts/psychiatricstigmatreatmentdelay/"
     },
     "PsychiatryMeasurementGap": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -223753,9 +223790,16 @@
           "show": "Huberman Lab",
           "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
+        },
+        {
+          "episode_file": "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+          "key": "yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b",
+          "show": "What's Next｜科技早知道",
+          "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+          "url": "/wiki/sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/psychiatrymeasurementgap/"
     },
     "PsychiatryPsychotherapyCollaboration": {
@@ -293721,6 +293765,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/wubinoraldoctor/"
+    },
+    "WuChenghan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "df4fa6fe-db30-4fb5-809f-67fe0b42ca3b [df4fa6fe-db30-4fb5-809f-67fe0b42ca3b].md",
+          "key": "yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b",
+          "show": "What's Next｜科技早知道",
+          "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+          "url": "/wiki/sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/wuchenghan/"
     },
     "WuCommanderyLateHan": {
       "episode_count": 1,
