@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10602
+wiki_total_pages: 10606
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "SeasonalBurningAgriculture"
     title: "Seasonal Burning Agriculture / 季节性烧山农业"
     url: "/wiki/concepts/seasonalburningagriculture/"
+  - key: "SeasonalEventDemandSmoothing"
+    title: "Seasonal Event Demand Smoothing / 季节活动需求平滑"
+    url: "/wiki/concepts/seasonaleventdemandsmoothing/"
   - key: "SeasonalFootwearSceneExpansion"
     title: "Seasonal Footwear Scene Expansion / 季节性鞋履场景扩展"
     url: "/wiki/concepts/seasonalfootwearsceneexpansion/"
@@ -419,6 +422,9 @@ wiki_pages:
   - key: "SeasonalInventoryFinancing"
     title: "Seasonal Inventory Financing"
     url: "/wiki/concepts/seasonalinventoryfinancing/"
+  - key: "SeasonalIPMarketTesting"
+    title: "Seasonal IP Market Testing / 季节性 IP 市场测试"
+    url: "/wiki/concepts/seasonalipmarkettesting/"
   - key: "SeasonalWarLogistics"
     title: "Seasonal War Logistics / 战争季节后勤"
     url: "/wiki/concepts/seasonalwarlogistics/"

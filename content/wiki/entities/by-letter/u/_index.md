@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13552
+wiki_total_pages: 13553
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "UniversalPeaceSanctuary"
     title: "Universal Peace Sanctuary"
     url: "/wiki/entities/universalpeacesanctuary/"
+  - key: "UniversalStudios"
+    title: "Universal Studios / 环球影城"
+    url: "/wiki/entities/universalstudios/"
   - key: "UniversityCollegeLondon"
     title: "University College London"
     url: "/wiki/entities/universitycollegelondon/"

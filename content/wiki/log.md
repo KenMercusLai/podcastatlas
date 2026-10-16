@@ -37090,3 +37090,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-16] ingest | 高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？
+
+Added source `gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992`; created [[UniversalStudios|Universal Studios]], [[SeasonalEventDemandSmoothing]], [[SeasonalIPMarketTesting]], [[ImmersiveExperienceThroughputTradeoff]], and [[LicensedIPControlRisk]]; and resynthesized [[ThemeParkAsMediaPlatform]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Universal uses recurring horror programs to smooth autumn demand, extend night visits, reuse performers and physical production assets, and test local or external properties before longer commitments, while stand-alone year-round venues offer a smaller market-entry format than a complete park. No settled contradiction was adopted. The claimed autumn uplift, attendance, engagement, losses, layoffs, schedules, project plans, and other current figures remain source-scoped; the lack of attraction-level cost, spend, repeat-visit, licensing-fee, and profit data leaves net returns unresolved. The broad [[ShengdongZaokafei|声动早咖啡]], [[CharacterAI|Character AI]], [[Netflix]], and [[AppleIntelligence|Apple Intelligence]] pages were kept closed because the brief roundup does not materially revise their judgments. The automatic `wiki/overview.md` was read for context and left unchanged because the focused theme-park addition did not warrant a new global overview paragraph. Downstream synthesis found no dirty topic and global compaction was not due, with three pending ingests; refreshed artifacts validate 4,647 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

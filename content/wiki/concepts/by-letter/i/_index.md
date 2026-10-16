@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10602
+wiki_total_pages: 10606
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "ImmersiveEscapeRoomDesign"
     title: "Immersive Escape-Room Design / 沉浸式密室设计"
     url: "/wiki/concepts/immersiveescaperoomdesign/"
+  - key: "ImmersiveExperienceThroughputTradeoff"
+    title: "Immersive Experience Throughput Tradeoff / 沉浸体验吞吐量权衡"
+    url: "/wiki/concepts/immersiveexperiencethroughputtradeoff/"
   - key: "ImmigrantLocalOfficeRepresentation"
     title: "Immigrant Local-Office Representation"
     url: "/wiki/concepts/immigrantlocalofficerepresentation/"

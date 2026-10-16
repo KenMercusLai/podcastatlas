@@ -133458,6 +133458,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/immersiveescaperoomdesign/"
     },
+    "ImmersiveExperienceThroughputTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
+          "key": "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+          "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/immersiveexperiencethroughputtradeoff/"
+    },
     "ImmigrantLocalOfficeRepresentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -161451,6 +161467,22 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/licensedgenerativemusic/"
+    },
+    "LicensedIPControlRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
+          "key": "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+          "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/licensedipcontrolrisk/"
     },
     "LicensedSyntheticVoiceMarketplace": {
       "episode_count": 1,
@@ -242971,6 +243003,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/seanparker/"
     },
+    "SeasonalEventDemandSmoothing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
+          "key": "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+          "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/seasonaleventdemandsmoothing/"
+    },
     "SeasonalFootwearSceneExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -243002,6 +243050,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/seasonalgiftdemandreset/"
+    },
+    "SeasonalIPMarketTesting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
+          "key": "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+          "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/seasonalipmarkettesting/"
     },
     "SeasonalRitualConsumptionRestraint": {
       "episode_count": 1,
@@ -269778,9 +269842,9 @@
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
     "ThemeParkAsMediaPlatform": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
@@ -269823,9 +269887,16 @@
           "show": "The Rest Is History",
           "title": "615. Disneyland: The Modern American Utopia",
           "url": "/wiki/sources/615-disneyland-the-modern-american-utopia-glt8516268220/"
+        },
+        {
+          "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
+          "key": "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+          "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/themeparkasmediaplatform/"
     },
     "ThemeParkGenealogy": {
@@ -279037,6 +279108,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/universalrightsnationalsovereigntytension/"
+    },
+    "UniversalStudios": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
+          "key": "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992",
+          "show": "声动早咖啡",
+          "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+          "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/universalstudios/"
     },
     "UniversityCollegeLondon": {
       "episode_count": 2,

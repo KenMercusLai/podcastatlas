@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10602
+wiki_total_pages: 10606
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "LicensedGenerativeMusic"
     title: "Licensed Generative Music"
     url: "/wiki/concepts/licensedgenerativemusic/"
+  - key: "LicensedIPControlRisk"
+    title: "Licensed IP Control Risk / 外部 IP 授权控制风险"
+    url: "/wiki/concepts/licensedipcontrolrisk/"
   - key: "LicensedProductRiskAllocation"
     title: "Licensed Product Risk Allocation"
     url: "/wiki/concepts/licensedproductriskallocation/"

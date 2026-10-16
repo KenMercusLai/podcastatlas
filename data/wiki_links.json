@@ -44467,6 +44467,10 @@
     "title": "Immersive Escape-Room Design / 沉浸式密室设计",
     "url": "/wiki/concepts/immersiveescaperoomdesign/"
   },
+  "ImmersiveExperienceThroughputTradeoff": {
+    "title": "Immersive Experience Throughput Tradeoff / 沉浸体验吞吐量权衡",
+    "url": "/wiki/concepts/immersiveexperiencethroughputtradeoff/"
+  },
   "ImmersiveTranslate": {
     "title": "Immersive Translate",
     "url": "/wiki/entities/immersivetranslate/"
@@ -53526,6 +53530,10 @@
   "LicensedGenerativeMusic": {
     "title": "Licensed Generative Music",
     "url": "/wiki/concepts/licensedgenerativemusic/"
+  },
+  "LicensedIPControlRisk": {
+    "title": "Licensed IP Control Risk / 外部 IP 授权控制风险",
+    "url": "/wiki/concepts/licensedipcontrolrisk/"
   },
   "LicensedProductRiskAllocation": {
     "title": "Licensed Product Risk Allocation",
@@ -78583,6 +78591,10 @@
     "title": "Seasonal Burning Agriculture / 季节性烧山农业",
     "url": "/wiki/concepts/seasonalburningagriculture/"
   },
+  "SeasonalEventDemandSmoothing": {
+    "title": "Seasonal Event Demand Smoothing / 季节活动需求平滑",
+    "url": "/wiki/concepts/seasonaleventdemandsmoothing/"
+  },
   "SeasonalFootwearSceneExpansion": {
     "title": "Seasonal Footwear Scene Expansion / 季节性鞋履场景扩展",
     "url": "/wiki/concepts/seasonalfootwearsceneexpansion/"
@@ -78590,6 +78602,10 @@
   "SeasonalGiftDemandReset": {
     "title": "Seasonal Gift Demand Reset",
     "url": "/wiki/concepts/seasonalgiftdemandreset/"
+  },
+  "SeasonalIPMarketTesting": {
+    "title": "Seasonal IP Market Testing / 季节性 IP 市场测试",
+    "url": "/wiki/concepts/seasonalipmarkettesting/"
   },
   "SeasonalInventoryFinancing": {
     "title": "Seasonal Inventory Financing",
@@ -90446,6 +90462,10 @@
   "UniversalRightsNationalSovereigntyTension": {
     "title": "Universal Rights and National Sovereignty Tension",
     "url": "/wiki/concepts/universalrightsnationalsovereigntytension/"
+  },
+  "UniversalStudios": {
+    "title": "Universal Studios / 环球影城",
+    "url": "/wiki/entities/universalstudios/"
   },
   "UniversityCollegeLondon": {
     "title": "University College London",
@@ -104202,6 +104222,10 @@
   "gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593": {
     "title": "高洁丝｜火锅连锁能开上千家，同样做聚餐生意的烧烤品牌为何扩张难？",
     "url": "/wiki/sources/gaojiesi-huoguo-liansuo-neng-kai-shang-qianjia-tongyang-zuo-jucan-shengyi-de-shaokao-pinpai-weihe-kuozhang-nan-1023993593/"
+  },
+  "gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992": {
+    "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
+    "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
   },
   "gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374": {
     "title": "高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少",

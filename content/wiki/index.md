@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？](sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992.md) — 声动早咖啡 explains Universal's horror attractions as autumn demand smoothing, reusable live production, temporary IP testing, and year-round market entry constrained by throughput and licensing control.
 - [371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》](sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1.md) — 独树不成林以刘善《真实的故事》讨论公开虚构、太空殖民战争、男性生育、可替换器官及技术突破后延续的权力与阶级。
 
 - [45 丈量世界的科学狂人 vs 平视欧美的大清旅人](sources/lue3zoz87pipdfhtc8pmxj1axuyd-lue3zoz87pipdfhtc8pmxj1axuyd.md) — 怪东西 compares Humboldt's measurement-and-publication system with Xie Qinggao's pre–Opium War travel record to separate overseas information from institutional understanding and action.
@@ -4736,6 +4737,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Universal Studios / 环球影城](entities/UniversalStudios.md) — Film-linked park system using seasonal and year-round horror formats to reuse production capability, localize IP, extend demand, and enter markets under capacity and licensing constraints.
 - [Lucian of Samosata / 刘善（卢奇安）](entities/LucianOfSamosata.md) — 以公开承认虚构和精确史家口吻讽刺旅行叙事、知识权威及政治惯性的罗马帝国时代希腊语作家。
 - [A True Story / 《真实的故事》](entities/ATrueStory.md) — 通过月球旅行、星际殖民战争、男性生育与可替换器官检验虚构真实性、身体边界和政治延续的讽刺作品。
 
@@ -18363,6 +18365,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Seasonal Event Demand Smoothing / 季节活动需求平滑](concepts/SeasonalEventDemandSmoothing.md) — Calendar-specific experiences that attract visits, extend operating time, and create spending occasions during a predictably softer period.
+- [Seasonal IP Market Testing / 季节性 IP 市场测试](concepts/SeasonalIPMarketTesting.md) — Time-bounded physical attractions used to test a story property's traffic, spending, engagement, and operational fit before longer investment.
+- [Immersive Experience Throughput Tradeoff / 沉浸体验吞吐量权衡](concepts/ImmersiveExperienceThroughputTradeoff.md) — Tension between detailed individualized encounters and the capacity needed to serve mass demand without excessive queues.
+- [Licensed IP Control Risk / 外部 IP 授权控制风险](concepts/LicensedIPControlRisk.md) — Approval, renewal, price, and strategic-control exposure when an experience depends on story property the operator does not own.
 - [Fiction–Truth Contract / 虚构—真实契约](concepts/FictionTruthContract.md) — 区分公开邀请读者解释想象事件的虚构与以无依据内容冒充事实权威的欺骗。
 - [Technological Change–Political Continuity / 技术变革—政治延续](concepts/TechnologicalPoliticalContinuity.md) — 新能力改变身体、移动或战争，而统治、领土、财富、地位与强制冲突仍可能延续的模式。
 - [Embodied Technology–Class Inequality / 身体技术—阶级不平等](concepts/EmbodiedTechnologyClassInequality.md) — 技术改造通过材料、功能、可替换性或获取差异把财富不平等写入身体。
