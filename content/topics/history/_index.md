@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2756
+topic_total_pages: 2757
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -964,6 +964,9 @@ topic_concepts:
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"
+  - key: "MultiArchiveConflictHistory"
+    title: "Multi-Archive Conflict History"
+    url: "/wiki/concepts/multiarchiveconflicthistory/"
   - key: "MultiEvidenceDisasterReconstruction"
     title: "Multi-Evidence Disaster Reconstruction"
     url: "/wiki/concepts/multievidencedisasterreconstruction/"

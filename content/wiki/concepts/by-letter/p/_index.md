@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10606
+wiki_total_pages: 10612
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "PerceptionConsciousnessBoundary"
     title: "Perception-Consciousness Boundary"
     url: "/wiki/concepts/perceptionconsciousnessboundary/"
+  - key: "PerceptionDrivenAccidentalWar"
+    title: "Perception-Driven Accidental War"
+    url: "/wiki/concepts/perceptiondrivenaccidentalwar/"
   - key: "PerfectVictimCredibilityStandard"
     title: "Perfect Victim Credibility Standard / 完美受害者可信度标准"
     url: "/wiki/concepts/perfectvictimcredibilitystandard/"
@@ -545,6 +548,9 @@ wiki_pages:
   - key: "PerformanceSupplementHierarchy"
     title: "Performance Supplement Hierarchy"
     url: "/wiki/concepts/performancesupplementhierarchy/"
+  - key: "PerformanceBasedCoerciveBargaining"
+    title: "Performance-Based Coercive Bargaining"
+    url: "/wiki/concepts/performancebasedcoercivebargaining/"
   - key: "PerformanceLinkedAdSpendPricing"
     title: "Performance-Linked Ad Spend Pricing"
     url: "/wiki/concepts/performancelinkedadspendpricing/"

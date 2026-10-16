@@ -4,7 +4,8 @@ type: concept
 tags: [geopolitics, great-power-competition, china, united-states]
 sources:
   - all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425
-last_updated: 2026-10-07
+  - 508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu
+last_updated: 2026-10-16
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ Great-power rivalry escalation dynamics are the structural pressures, incidents,
 
 The source resists a simple countdown to war. Allison assigns a low probability to a Chinese attack on [[Taiwan]] in 2026 or 2027 absent major provocation, citing Beijing's peaceful-reunification theory, expectations around Taiwan's 2028 election, military leadership purges, and intervention risk. Structural rivalry raises the consequences of incidents; it does not turn every capability gain into an invasion decision.
 
+An incident pathway appears through [[PerceptionDrivenAccidentalWar]]. Public commitments, military signaling, declining ambiguity, and incomplete knowledge of the other side can make a collision or other local event escalate even when neither government begins by choosing war. This qualifies both deterministic invasion forecasts and reassurance based only on stated peaceful intent.
+
 ## Key Claims
 
 - Rapid shifts in relative power can increase fear, misreading, and competitive reaction.
@@ -28,6 +31,7 @@ The source resists a simple countdown to war. Allison assigns a low probability 
 - Domestic politics, military readiness, alliance expectations, and provocation shape when structural rivalry escalates.
 - Near-term restraint can coexist with a worsening long-run balance or more dangerous future incidents.
 - Historical patterns should identify mechanisms, not dictate a deterministic "trap."
+- Crisis atmosphere and signal interpretation can turn accidents into escalation triggers.
 
 ## Evidence
 
@@ -43,13 +47,18 @@ The source resists a simple countdown to war. Allison assigns a low probability 
 
 - [[all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425]] records Allison's roughly five-percent estimate for attack in 2026 or 2027 absent major provocation.
 
+### Incident escalation despite peaceful preference
+
+- [[508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu]] distinguishes lack of war intent from the capacity to contain a fatal collision or other crisis under eroding strategic ambiguity.
+
 ## Counterevidence & Qualifications
 
-The source offers a single expert's source-dated estimate rather than a predictive model. Its economic, technology, robotics, military-purge, and electoral claims are compressed and not independently documented in the episode note. Peaceful-reunification rhetoric may not reveal actual intentions, while capability constraints can change. The framework can overfit Athens-Sparta analogy if structural similarity is allowed to override differences in nuclear weapons, economics, alliances, institutions, and agency.
+The sources offer expert interpretations rather than predictive models. Allison's probability estimate and Xiang's simulation account are not independently documented here. Peaceful rhetoric may not reveal intentions, while provocative signals do not prove attack plans. Athens-Sparta and Sarajevo analogies can overfit if they override differences in nuclear weapons, economics, alliances, institutions, and agency.
 
 ## What Changed
 
-- Created a non-deterministic account of the Allison framework from the China-Taiwan section.
+- Added an incident-and-perception pathway that can activate structural rivalry without deliberate initial war choice.
+- Preserved the tension between low near-term attack probability and high-consequence crisis risk.
 
 ## Related Concepts
 
@@ -57,3 +66,5 @@ The source offers a single expert's source-dated estimate rather than a predicti
 - [[NuclearDeterrence]] - restraint system that changes the costs of great-power escalation.
 - [[NATOAllianceCredibility]] - allied commitment problem adjacent to rivalry signaling.
 - [[WesternChinaMisreading]] - perception failure that can distort estimates of capability and intent.
+- [[PerceptionDrivenAccidentalWar]] - incident pathway through which misreading activates structural rivalry.
+- [[GreatPowerTriangularBalance]] - competing realist attempt to manage rivalry through equilibrium.

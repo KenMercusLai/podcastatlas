@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10606
+wiki_total_pages: 10612
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1037,6 +1037,9 @@ wiki_pages:
   - key: "MilitaryDisasterMemory"
     title: "Military Disaster Memory"
     url: "/wiki/concepts/militarydisastermemory/"
+  - key: "MilitaryKeynesianism"
+    title: "Military Keynesianism / 军事凯恩斯主义"
+    url: "/wiki/concepts/militarykeynesianism/"
   - key: "MilitaryMeritRankSystem"
     title: "Military Merit Rank System / 军功爵制"
     url: "/wiki/concepts/militarymeritranksystem/"
@@ -1640,6 +1643,9 @@ wiki_pages:
   - key: "MultiAgentCollaboration"
     title: "Multi-Agent Collaboration"
     url: "/wiki/concepts/multiagentcollaboration/"
+  - key: "MultiArchiveConflictHistory"
+    title: "Multi-Archive Conflict History"
+    url: "/wiki/concepts/multiarchiveconflicthistory/"
   - key: "MultiCityItineraryTravel"
     title: "Multi-City Itinerary Travel / 多城串游"
     url: "/wiki/concepts/multicityitinerarytravel/"

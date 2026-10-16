@@ -15761,6 +15761,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/andrewloogoldham/"
     },
+    "AndrewMarshall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/andrewmarshall/"
+    },
     "AndrewNewton": {
       "episode_count": 1,
       "show_count": 1,
@@ -87580,9 +87596,9 @@
       "url": "/wiki/concepts/europeanamazonprojection/"
     },
     "EuropeanDefenseAutonomy": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
@@ -87611,9 +87627,16 @@
           "show": "声东击西",
           "title": "#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
           "url": "/wiki/sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41/"
+        },
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
     "EuropeanEnergySecurityDependence": {
@@ -87691,6 +87714,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/europeanintegrationwarprevention/"
+    },
+    "EuropeanSecurityInterestSplit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/europeansecurityinterestsplit/"
     },
     "EuropeanUnion": {
       "episode_count": 15,
@@ -112125,9 +112164,9 @@
       "url": "/wiki/entities/greatnorthernwar/"
     },
     "GreatPowerRivalryEscalationDynamics": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
@@ -112135,10 +112174,33 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        },
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/greatpowerrivalryescalationdynamics/"
+    },
+    "GreatPowerTriangularBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/greatpowertriangularbalance/"
     },
     "GreatSiouxReservation": {
       "episode_count": 1,
@@ -121988,9 +122050,9 @@
       "url": "/wiki/entities/henryjeffreys/"
     },
     "HenryKissinger": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6047251362 [GLT6047251362].md",
@@ -121998,9 +122060,16 @@
           "show": "The Rest Is History",
           "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
           "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        },
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-16",
       "url": "/wiki/entities/henrykissinger/"
     },
     "HenryLeach": {
@@ -185511,6 +185580,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/michaellewiscurator/"
     },
+    "MichaelPillsbury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/michaelpillsbury/"
+    },
     "MichaelPlatt": {
       "episode_count": 1,
       "show_count": 1,
@@ -186713,6 +186798,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/militaryjustificationtypology/"
+    },
+    "MilitaryKeynesianism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/militarykeynesianism/"
     },
     "MilitaryMoraleAsCombatCapacity": {
       "episode_count": 2,
@@ -191565,6 +191666,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/multiagentcollaboration/"
     },
+    "MultiArchiveConflictHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/multiarchiveconflicthistory/"
+    },
     "MultiCityItineraryTravel": {
       "episode_count": 1,
       "show_count": 1,
@@ -193048,9 +193165,9 @@
       "url": "/wiki/concepts/nasamissionconcentration/"
     },
     "NATO": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
@@ -193079,15 +193196,22 @@
           "show": "声东击西",
           "title": "#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
           "url": "/wiki/sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41/"
+        },
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-16",
       "url": "/wiki/entities/nato/"
     },
     "NATOAllianceCredibility": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
@@ -193116,9 +193240,16 @@
           "show": "声东击西",
           "title": "#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
           "url": "/wiki/sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41/"
+        },
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/natoalliancecredibility/"
     },
     "NEOM": {
@@ -210414,6 +210545,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/perceptionconsciousnessboundary/"
     },
+    "PerceptionDrivenAccidentalWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/perceptiondrivenaccidentalwar/"
+    },
     "Perceval": {
       "episode_count": 1,
       "show_count": 1,
@@ -210546,6 +210693,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/performanceauthenticitytradeoff/"
+    },
+    "PerformanceBasedCoerciveBargaining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/performancebasedcoercivebargaining/"
     },
     "PerformanceFootwearMarket": {
       "episode_count": 7,
@@ -235864,6 +236027,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/robertsapolsky/"
+    },
+    "RobertSkidelsky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/robertskidelsky/"
     },
     "RobertStephenson": {
       "episode_count": 1,
@@ -275019,9 +275198,9 @@
       "url": "/wiki/concepts/transactionalintimacypowerasymmetry/"
     },
     "TransatlanticBurdenShifting": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "31c69f95-d493-47a1-a6f8-905eb22c3e41 [31c69f95-d493-47a1-a6f8-905eb22c3e41].md",
@@ -275029,9 +275208,16 @@
           "show": "声东击西",
           "title": "#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
           "url": "/wiki/sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41/"
+        },
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/transatlanticburdenshifting/"
     },
     "TransatlanticLinerPrestigeCompetition": {
@@ -295548,6 +295734,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiangkailatehan/"
+    },
+    "XiangLanxin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqrjNxCTeT30iSFmGt-wyavdWFfU [lqrjNxCTeT30iSFmGt-wyavdWFfU].md",
+          "key": "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu",
+          "show": "忽左忽右",
+          "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+          "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/xianglanxin/"
     },
     "XiangWentianJinYong": {
       "episode_count": 1,

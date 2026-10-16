@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10606
+wiki_total_pages: 10612
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "EuropeanLanguageFriction"
     title: "European Language Friction"
     url: "/wiki/concepts/europeanlanguagefriction/"
+  - key: "EuropeanSecurityInterestSplit"
+    title: "European Security Interest Split"
+    url: "/wiki/concepts/europeansecurityinterestsplit/"
   - key: "EuropeanSTISurge"
     title: "European STI Surge"
     url: "/wiki/concepts/europeanstisurge/"

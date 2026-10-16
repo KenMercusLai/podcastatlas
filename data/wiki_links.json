@@ -3587,6 +3587,10 @@
     "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
     "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
   },
+  "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu": {
+    "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+    "url": "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
+  },
   "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265": {
     "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
     "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
@@ -9766,6 +9770,10 @@
   "AndrewLoogOldham": {
     "title": "Andrew Loog Oldham",
     "url": "/wiki/entities/andrewloogoldham/"
+  },
+  "AndrewMarshall": {
+    "title": "Andrew Marshall",
+    "url": "/wiki/entities/andrewmarshall/"
   },
   "AndrewMiller": {
     "title": "Andrew Miller",
@@ -31443,6 +31451,10 @@
     "title": "European STI Surge",
     "url": "/wiki/concepts/europeanstisurge/"
   },
+  "EuropeanSecurityInterestSplit": {
+    "title": "European Security Interest Split",
+    "url": "/wiki/concepts/europeansecurityinterestsplit/"
+  },
   "EuropeanUnion": {
     "title": "European Union",
     "url": "/wiki/entities/europeanunion/"
@@ -38742,6 +38754,10 @@
   "GreatPowerRivalryEscalationDynamics": {
     "title": "Great-Power Rivalry Escalation Dynamics",
     "url": "/wiki/concepts/greatpowerrivalryescalationdynamics/"
+  },
+  "GreatPowerTriangularBalance": {
+    "title": "Great-Power Triangular Balance",
+    "url": "/wiki/concepts/greatpowertriangularbalance/"
   },
   "GreatRecoinage": {
     "title": "Great Recoinage / 大重铸",
@@ -60167,6 +60183,10 @@
     "title": "Michael Mattioli",
     "url": "/wiki/entities/michaelmattioli/"
   },
+  "MichaelPillsbury": {
+    "title": "Michael Pillsbury / 白邦瑞",
+    "url": "/wiki/entities/michaelpillsbury/"
+  },
   "MichaelPlatt": {
     "title": "Michael Platt",
     "url": "/wiki/entities/michaelplatt/"
@@ -60578,6 +60598,10 @@
   "MilitaryJustificationTypology": {
     "title": "用兵名义分型 / Military Justification Typology",
     "url": "/wiki/concepts/militaryjustificationtypology/"
+  },
+  "MilitaryKeynesianism": {
+    "title": "Military Keynesianism / 军事凯恩斯主义",
+    "url": "/wiki/concepts/militarykeynesianism/"
   },
   "MilitaryMeritRankSystem": {
     "title": "Military Merit Rank System / 军功爵制",
@@ -62102,6 +62126,10 @@
   "MultiAgentCollaboration": {
     "title": "Multi-Agent Collaboration",
     "url": "/wiki/concepts/multiagentcollaboration/"
+  },
+  "MultiArchiveConflictHistory": {
+    "title": "Multi-Archive Conflict History",
+    "url": "/wiki/concepts/multiarchiveconflicthistory/"
   },
   "MultiCard": {
     "title": "MultiCard",
@@ -68047,6 +68075,10 @@
     "title": "Perception-Consciousness Boundary",
     "url": "/wiki/concepts/perceptionconsciousnessboundary/"
   },
+  "PerceptionDrivenAccidentalWar": {
+    "title": "Perception-Driven Accidental War",
+    "url": "/wiki/concepts/perceptiondrivenaccidentalwar/"
+  },
   "Perceval": {
     "title": "Perceval",
     "url": "/wiki/entities/perceval/"
@@ -68078,6 +68110,10 @@
   "PerformanceAuthenticityTradeoff": {
     "title": "Performance Authenticity Tradeoff / 表演真实性权衡",
     "url": "/wiki/concepts/performanceauthenticitytradeoff/"
+  },
+  "PerformanceBasedCoerciveBargaining": {
+    "title": "Performance-Based Coercive Bargaining",
+    "url": "/wiki/concepts/performancebasedcoercivebargaining/"
   },
   "PerformanceFootwearMarket": {
     "title": "Performance Footwear Market",
@@ -76206,6 +76242,10 @@
   "RobertSapolsky": {
     "title": "Robert Sapolsky / 萨波斯基",
     "url": "/wiki/entities/robertsapolsky/"
+  },
+  "RobertSkidelsky": {
+    "title": "Robert Skidelsky",
+    "url": "/wiki/entities/robertskidelsky/"
   },
   "RobertSmith": {
     "title": "Robert Smith",
@@ -95598,6 +95638,10 @@
   "XiangKaiLateHan": {
     "title": "襄楷 / Xiang Kai (late Han)",
     "url": "/wiki/entities/xiangkailatehan/"
+  },
+  "XiangLanxin": {
+    "title": "向兰欣 / Xiang Lanxin",
+    "url": "/wiki/entities/xianglanxin/"
   },
   "XiangLiang": {
     "title": "项梁 / Xiang Liang",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」](sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu.md) — 忽左忽右访谈向兰欣，以跨大西洋训练、多国档案和现实主义框架讨论特朗普式谈判、北约责任转移、中美俄均衡、意外战争风险与欧洲军事凯恩斯主义。
 - [高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？](sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992.md) — 声动早咖啡 explains Universal's horror attractions as autumn demand smoothing, reusable live production, temporary IP testing, and year-round market entry constrained by throughput and licensing control.
 - [371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》](sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1.md) — 独树不成林以刘善《真实的故事》讨论公开虚构、太空殖民战争、男性生育、可替换器官及技术突破后延续的权力与阶级。
 
@@ -4737,6 +4738,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [向兰欣 / Xiang Lanxin](entities/XiangLanxin.md) — International-relations scholar using transatlantic history, multi-country archives, and realist balance to interpret China-U.S.-European relations.
+- [Robert Skidelsky](entities/RobertSkidelsky.md) — Keynes biographer and Xiang Lanxin's teacher and friend, linked in the episode to Harbin family memory and military Keynesianism.
+- [Andrew Marshall](entities/AndrewMarshall.md) — Long-horizon U.S. defense strategist remembered by Xiang Lanxin for analytical acuity.
+- [Michael Pillsbury / 白邦瑞](entities/MichaelPillsbury.md) — U.S. China strategist whom Xiang credits for early military exchange while disputing *The Hundred-Year Marathon*.
 - [Universal Studios / 环球影城](entities/UniversalStudios.md) — Film-linked park system using seasonal and year-round horror formats to reuse production capability, localize IP, extend demand, and enter markets under capacity and licensing constraints.
 - [Lucian of Samosata / 刘善（卢奇安）](entities/LucianOfSamosata.md) — 以公开承认虚构和精确史家口吻讽刺旅行叙事、知识权威及政治惯性的罗马帝国时代希腊语作家。
 - [A True Story / 《真实的故事》](entities/ATrueStory.md) — 通过月球旅行、星际殖民战争、男性生育与可替换器官检验虚构真实性、身体边界和政治延续的讽刺作品。
@@ -18365,6 +18370,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Performance-Based Coercive Bargaining](concepts/PerformanceBasedCoerciveBargaining.md) — Theatrical pressure, issue proliferation, and conditional escalation or retreat used to disrupt counterparts and probe resistance.
+- [Great-Power Triangular Balance](concepts/GreatPowerTriangularBalance.md) — Source-attributed realist equilibrium model among the United States, China, and Russia.
+- [Multi-Archive Conflict History](concepts/MultiArchiveConflictHistory.md) — Reconstructing conflict across several belligerents' records without letting one national narrative control the evidence.
+- [Perception-Driven Accidental War](concepts/PerceptionDrivenAccidentalWar.md) — Escalation from an incident that hostile expectations, hardening commitments, and weak crisis communication make difficult to contain.
+- [Military Keynesianism / 军事凯恩斯主义](concepts/MilitaryKeynesianism.md) — Defense expenditure used as demand support and industrial policy, distinct from unverified claims about motives to prolong war.
+- [European Security Interest Split](concepts/EuropeanSecurityInterestSplit.md) — Divergent western and central/eastern European threat histories, energy interests, and accommodation costs toward Russia.
 - [Seasonal Event Demand Smoothing / 季节活动需求平滑](concepts/SeasonalEventDemandSmoothing.md) — Calendar-specific experiences that attract visits, extend operating time, and create spending occasions during a predictably softer period.
 - [Seasonal IP Market Testing / 季节性 IP 市场测试](concepts/SeasonalIPMarketTesting.md) — Time-bounded physical attractions used to test a story property's traffic, spending, engagement, and operational fit before longer investment.
 - [Immersive Experience Throughput Tradeoff / 沉浸体验吞吐量权衡](concepts/ImmersiveExperienceThroughputTradeoff.md) — Tension between detailed individualized encounters and the capacity needed to serve mass demand without excessive queues.

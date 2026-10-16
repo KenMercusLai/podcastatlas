@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3341
+topic_total_pages: 3346
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1465,6 +1465,9 @@ topic_concepts:
   - key: "EuropeanIntegrationWarPrevention"
     title: "European Integration As War Prevention"
     url: "/wiki/concepts/europeanintegrationwarprevention/"
+  - key: "EuropeanSecurityInterestSplit"
+    title: "European Security Interest Split"
+    url: "/wiki/concepts/europeansecurityinterestsplit/"
   - key: "EuropeanUnionAIAct"
     title: "European Union AI Act"
     url: "/wiki/concepts/europeanunionaiact/"
@@ -1894,6 +1897,9 @@ topic_concepts:
   - key: "GreatPowerRivalryEscalationDynamics"
     title: "Great-Power Rivalry Escalation Dynamics"
     url: "/wiki/concepts/greatpowerrivalryescalationdynamics/"
+  - key: "GreatPowerTriangularBalance"
+    title: "Great-Power Triangular Balance"
+    url: "/wiki/concepts/greatpowertriangularbalance/"
   - key: "GreaterBayAreaCinema"
     title: "Greater Bay Area Cinema / 大湾区电影"
     url: "/wiki/concepts/greaterbayareacinema/"
@@ -3016,6 +3022,12 @@ topic_concepts:
   - key: "PerceivedPolarizationGap"
     title: "Perceived Polarization Gap"
     url: "/wiki/concepts/perceivedpolarizationgap/"
+  - key: "PerceptionDrivenAccidentalWar"
+    title: "Perception-Driven Accidental War"
+    url: "/wiki/concepts/perceptiondrivenaccidentalwar/"
+  - key: "PerformanceBasedCoerciveBargaining"
+    title: "Performance-Based Coercive Bargaining"
+    url: "/wiki/concepts/performancebasedcoercivebargaining/"
   - key: "PerformativeEnforcementAccountability"
     title: "Performative Enforcement Accountability"
     url: "/wiki/concepts/performativeenforcementaccountability/"
@@ -8916,6 +8928,9 @@ topic_sources:
   - key: "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o"
     title: "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？"
     url: "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+  - key: "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu"
+    title: "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」"
+    url: "/wiki/sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu/"
   - key: "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097"
     title: "508. America in '68: Nightmare in Vietnam (Part 1)"
     url: "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"

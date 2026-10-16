@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13553
+wiki_total_pages: 13557
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "XiaochangNutritionGuest"
     title: "卢竹小肠 / Xiaochang (nutrition guest)"
     url: "/wiki/entities/xiaochangnutritionguest/"
+  - key: "XiangLanxin"
+    title: "向兰欣 / Xiang Lanxin"
+    url: "/wiki/entities/xianglanxin/"
   - key: "XiangShou"
     title: "向寿 / Xiang Shou"
     url: "/wiki/entities/xiangshou/"

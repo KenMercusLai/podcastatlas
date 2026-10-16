@@ -6087,6 +6087,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265": [
     {
       "key": "history",
@@ -35341,6 +35348,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EuropeanSecurityInterestSplit": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EuropeanUnion": [
     {
       "key": "politics",
@@ -42331,6 +42345,13 @@
     }
   ],
   "GreatPowerRivalryEscalationDynamics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "GreatPowerTriangularBalance": [
     {
       "key": "politics",
       "label": "Politics",
@@ -61312,6 +61333,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MilitaryKeynesianism": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "MilitaryMeritRankSystem": [
     {
       "key": "history",
@@ -62655,6 +62683,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MultiArchiveConflictHistory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MultiEvidenceDisasterReconstruction": [
@@ -68501,6 +68536,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PerceptionDrivenAccidentalWar": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PercyShelley": [
     {
       "key": "science",
@@ -68534,6 +68576,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PerformanceBasedCoerciveBargaining": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PerformanceFootwearMarket": [

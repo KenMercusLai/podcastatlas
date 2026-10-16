@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2275
+topic_total_pages: 2276
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2128,6 +2128,9 @@ topic_concepts:
   - key: "MilestoneCommercialization"
     title: "Milestone Commercialization"
     url: "/wiki/concepts/milestonecommercialization/"
+  - key: "MilitaryKeynesianism"
+    title: "Military Keynesianism / 军事凯恩斯主义"
+    url: "/wiki/concepts/militarykeynesianism/"
   - key: "MimeticCompetitionAvoidance"
     title: "Mimetic Competition Avoidance"
     url: "/wiki/concepts/mimeticcompetitionavoidance/"
