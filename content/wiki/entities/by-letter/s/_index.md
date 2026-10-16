@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13557
+wiki_total_pages: 13558
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "Sejanus"
     title: "Sejanus"
     url: "/wiki/entities/sejanus/"
+  - key: "SelbyJennings"
+    title: "Selby Jennings"
+    url: "/wiki/entities/selbyjennings/"
   - key: "SellMeASasquatch"
     title: "Sell Me a Sasquatch"
     url: "/wiki/entities/sellmeasasquatch/"

@@ -37105,3 +37105,11 @@ Added source `508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-co
 ## [2026-10-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-16] ingest | AI borrowing slowdown raises questions about investor exposure
+
+Added source `tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128`; created [[SelbyJennings|Selby Jennings]]; and resynthesized [[JewelBurkeSolomon]], [[CollabCapital]], [[CoreWeave]], [[Netflix]], [[AIInfrastructureDebtFinancing]], [[StreamingAudienceRetention]], [[SubscriptionFatigue]], [[EnterpriseAIROIAudit]], and [[AIWorkerLiteracy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: technology spending is entering an economic-proof phase in which AI lenders price physical execution and repayment, mature streaming platforms must defend engagement and efficiency, and employers increasingly test AI proficiency through tool judgment and measurable outcomes. No settled contradiction was adopted. The debt slowdown and CoreWeave securities stress qualify earlier financing optimism without proving sector collapse; Netflix cuts and engagement pressure qualify rather than erase platform scale and low churn. Debt issuance, yields, stock moves, layoffs, engagement trends, survey percentages, and spillover claims remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due, leaving one pending ingest; refreshed artifacts validate 4,649 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

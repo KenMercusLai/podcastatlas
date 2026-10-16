@@ -12,7 +12,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595
   - all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495
   - 8228694742-944685
-last_updated: 2026-10-08
+  - tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128
+last_updated: 2026-10-16
 ---
 
 # Enterprise AI ROI Audit
@@ -25,7 +26,7 @@ The page treats ROI audit as both a pre-rollout measurement problem and an ongoi
 
 The current judgment is that high AI usage is not itself evidence of economic value. Durable ROI requires a measured baseline, a workflow owner, accepted output, model-cost governance, verification overhead accounting, and a way to report revenue or margin impact. The bounded sources distinguish three layers that can move at different speeds: model and coding-token revenue can grow quickly, startup teams can report strong local productivity, and large enterprises can still struggle to turn agents into audited profit because reliability, regulation, change management, undocumented processes, and human judgment remain binding constraints.
 
-The traditional-finance source sharpens the cost-center problem. Productivity gains may be real without translating directly into removable budget, while private deployment, GPU capacity, data-center operations, disaster recovery, and compliance can raise the investment threshold. Coding assistance remains the strongest bridge, but it can create ROI by making previously uneconomic automation feasible as well as by reducing existing labor.
+The traditional-finance source sharpens the cost-center problem. Productivity gains may be real without translating directly into removable budget, while private deployment, GPU capacity, data-center operations, disaster recovery, and compliance can raise the investment threshold. The newest source adds organizational formalization: some finance employers now reportedly use explicit AI-skill criteria and dedicated teams to track investment results, moving ROI audit from project review toward workforce and career systems.
 
 ## Key Claims
 - AI spend should be evaluated by token cost, labor avoided, released capacity, newly feasible work, output accepted, revenue created, quality changed, verification overhead, maintenance overhead, and provider-risk cost.
@@ -34,7 +35,7 @@ The traditional-finance source sharpens the cost-center problem. Productivity ga
 - FDEs, agentic pods, and workflow triage can improve ROI only when they select work with clear acceptance criteria and accountable owners.
 - Agent maintenance, model drift, prompt changes, and brittle integrations are costs, not implementation footnotes.
 - Model routing becomes a finance discipline when cheaper adequate models can replace frontier calls for routine tasks.
-- Investors may eventually ask for AI-attributable EPS, margin, or revenue disclosure because model-layer revenue and startup anecdotes are leading indicators, not substitutes for application-layer or enterprise-wide profit evidence.
+- Investors and employers need outcome disclosure: model-layer revenue, startup anecdotes, or raw employee usage are not substitutes for AI-attributable profit, appropriate tool choice, judgment, and accepted business results.
 
 ## Evidence
 - Baseline-measurement claim: [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] argues that Copilot-style rollouts fail when organizations do not measure current workflows or assign durable ownership.
@@ -46,16 +47,17 @@ The traditional-finance source sharpens the cost-center problem. Productivity ga
 - Layered-ROI claim: [[all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595]] records disagreement between fast coding-model revenue and startup productivity examples on one side and Chamath's demand for scaled enterprise revenue and profit evidence on the other; the hosts identify change management and human supervision as the bridge still being tested.
 - Coding and regulated-enterprise claim: [[all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495]] identifies coding assistance as the clearest enterprise use case while preserving Chamath's objection that experimental purchasing, board pressure, and human review do not yet establish durable margin expansion in large or mission-critical organizations.
 - Traditional-finance cost-center claim: [[8228694742-944685]] says employee efficiency is difficult to convert into next-year budget reduction, while private infrastructure and compliance raise cost; it also argues that AI coding expands the set of workflows worth automating.
+- Workforce-accountability claim: [[tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128]] cites formal AI-skill criteria and dedicated investment-tracking teams while arguing that tool judgment and business outcomes matter more than usage alone.
 
 ## Counterevidence & Qualifications
 Some AI benefits arrive as option value, learning, speed, or employee capability before they are cleanly measurable in EPS. Overly narrow ROI gates can block exploration too early. Conversely, a frontier lab's revenue or a founder-led startup's faster release cycle does not establish that a large regulated enterprise can reproduce the same return.
 
-The source-cited token prices, Ramp growth statistic, Fortune 20 token-spend anecdote, lab run rates, startup deployments, Amazon code-review story, private financial-institution deployments, and 32B local-model capability are episode claims, not audited wiki facts. They should guide the economic question without being treated as verified benchmarks.
+The source-cited token prices, Ramp growth statistic, Fortune 20 token-spend anecdote, lab run rates, startup deployments, survey percentages, Amazon code-review story, private financial-institution deployments, and 32B local-model capability are episode claims, not audited wiki facts. Employee evaluation also raises fairness and surveillance questions that a narrow productivity metric may miss.
 
 ## What Changed
-- Added the distinction between removed cost, released capacity, and newly feasible automation.
-- Added private deployment, data-center operations, disaster recovery, and regulatory compliance to the cost base.
-- Preserved model-layer revenue, startup productivity, and scaled enterprise profit as separate evidence levels.
+- Added formal employee AI-skill criteria and dedicated return-tracking teams as signs of organizational maturity.
+- Extended ROI audit from procurement and financial statements into career evaluation.
+- Preserved judgment and accepted outcomes over raw usage as the evaluation boundary.
 
 ## Related Concepts
 - [[AIInferenceCostStructure]] - token and compute-cost layer that ROI audit must price.
@@ -67,3 +69,4 @@ The source-cited token prices, Ramp growth statistic, Fortune 20 token-spend ane
 - [[AgentMaintenanceBurden]] - hidden cost that should be counted in ROI review.
 - [[EnterpriseAICostCenterFraming]] - organizational lens that can overtranslate productivity into headcount or budget reduction.
 - [[RegulatedEnterpriseAIDeployment]] - infrastructure and compliance constraints that change the ROI threshold.
+- [[AIWorkerLiteracy]] - employee capability and tool-judgment relationship.

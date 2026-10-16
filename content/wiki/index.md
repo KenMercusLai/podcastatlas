@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI borrowing slowdown raises questions about investor exposure](sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128.md) — Marketplace Tech on the AI-debt lending correction, CoreWeave repricing, Netflix's mature-market job cuts, and formal measurement of workplace AI proficiency and returns.
 - [508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」](sources/508-xiang-lanxin-tan-guoji-guanxi-shiye-xia-de-zhongmeiou-jinxi-cong-sitanfo-xiaojituan-dao-junshi-kaiensizhuyi-lqrjnxctet30isfmgt-wyavdwffu.md) — 忽左忽右访谈向兰欣，以跨大西洋训练、多国档案和现实主义框架讨论特朗普式谈判、北约责任转移、中美俄均衡、意外战争风险与欧洲军事凯恩斯主义。
 - [高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？](sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992.md) — 声动早咖啡 explains Universal's horror attractions as autumn demand smoothing, reusable live production, temporary IP testing, and year-round market entry constrained by throughput and licensing control.
 - [371-两千年前就有人想象出赛博格、男人独立生育、星际战争了吗？《真实的故事》](sources/371-liangqian-nianqian-jiu-you-ren-xiangxiang-chu-saiboge-nanren-duli-shengyu-xingji-zhanzheng-le-ma-zhenshi-de-gushi-lije6fkmg3ilr65bi-7zovbns-r1.md) — 独树不成林以刘善《真实的故事》讨论公开虚构、太空殖民战争、男性生育、可替换器官及技术突破后延续的权力与阶级。
@@ -4738,6 +4739,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Selby Jennings](entities/SelbyJennings.md) — Financial-services recruitment firm whose survey tracks formal employee AI-skill criteria and organizational AI-investment measurement.
 - [向兰欣 / Xiang Lanxin](entities/XiangLanxin.md) — International-relations scholar using transatlantic history, multi-country archives, and realist balance to interpret China-U.S.-European relations.
 - [Robert Skidelsky](entities/RobertSkidelsky.md) — Keynes biographer and Xiang Lanxin's teacher and friend, linked in the episode to Harbin family memory and military Keynesianism.
 - [Andrew Marshall](entities/AndrewMarshall.md) — Long-horizon U.S. defense strategist remembered by Xiang Lanxin for analytical acuity.

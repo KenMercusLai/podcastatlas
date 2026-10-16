@@ -3514,9 +3514,9 @@
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
     "AIInfrastructureDebtFinancing": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -3587,9 +3587,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
     },
     "AIInfrastructureLaborDemand": {
@@ -5530,6 +5537,78 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/aiweirdnessblog/"
+    },
+    "AIWorkerLiteracy": {
+      "episode_count": 9,
+      "show_count": 2,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
+          "key": "ep-16-data-decoded-navigating-the-ai-revolution",
+          "show": "Data Science With Sam",
+          "title": "EP 16: Data Decoded: Navigating the AI Revolution",
+          "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
+        },
+        {
+          "episode_file": "5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128 [5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8387e9].md",
+          "key": "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
+          "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "91E860DD6E02905FCF327DF15E961DD8~8584435_2026-08-10-210035-8787-0-0-10.128 [91E860DD6E02905FCF327DF15E961DD8~8584435_2026-08-10-210035-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a838616].md",
+          "key": "ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker",
+          "show": "Data Science With Sam",
+          "title": "EP 10: A thought-provoking chat with an actuary and TEDx speaker",
+          "url": "/wiki/sources/ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker/"
+        },
+        {
+          "episode_file": "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
+          "key": "ep-9-chatgpt-and-education-systems",
+          "show": "Data Science With Sam",
+          "title": "EP 9: ChatGPT and Education Systems",
+          "url": "/wiki/sources/ep-9-chatgpt-and-education-systems/"
+        },
+        {
+          "episode_file": "tech_20260803_0803_MP_TECH_pod_128 [tech_20260803_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Opening the curtain of AI business integration",
+          "url": "/wiki/sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260416_0416_MP_TECH_pod_128 [tech_20260416_0416_MP_TECH_pod_128].md",
+          "key": "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "One way to avoid AI altogether? Retire early",
+          "url": "/wiki/sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/aiworkerliteracy/"
     },
     "AIWorkflowUpstreamPositioning": {
       "episode_count": 1,
@@ -51833,6 +51912,36 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/colemanruiz/"
     },
+    "CollabCapital": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260313_0313_MP_TECH_pod_128 [tech_20260313_0313_MP_TECH_pod_128].md",
+          "key": "tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network",
+          "url": "/wiki/sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260213_TECH_pod_128 [tech_20260213_TECH_pod_128].md",
+          "key": "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+          "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/collabcapital/"
+    },
     "CollateralPunishmentAndGuiltByAssociation": {
       "episode_count": 9,
       "show_count": 2,
@@ -56975,9 +57084,9 @@
       "url": "/wiki/concepts/coretribepositioning/"
     },
     "CoreWeave": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -57013,9 +57122,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-16",
       "url": "/wiki/entities/coreweave/"
     },
     "CorgiAIInsurance": {
@@ -85236,9 +85352,9 @@
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EnterpriseAIROIAudit": {
-      "episode_count": 8,
-      "show_count": 3,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 4,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
@@ -85295,9 +85411,16 @@
           "show": "捕蛇者说",
           "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
           "url": "/wiki/sources/8228694742-944685/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-16",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
     },
     "EnterpriseAgentControlLayer": {
@@ -144820,6 +144943,36 @@
       "updated": "2026-10-13",
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
+    "JewelBurkeSolomon": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260313_0313_MP_TECH_pod_128 [tech_20260313_0313_MP_TECH_pod_128].md",
+          "key": "tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network",
+          "url": "/wiki/sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260213_TECH_pod_128 [tech_20260213_TECH_pod_128].md",
+          "key": "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+          "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/jewelburkesolomon/"
+    },
     "JiAnWesternHan": {
       "episode_count": 11,
       "show_count": 1,
@@ -195800,6 +195953,78 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/nervoussystemstateflexibility/"
     },
+    "Netflix": {
+      "episode_count": 9,
+      "show_count": 5,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
+          "key": "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588",
+          "show": "声动早咖啡",
+          "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+          "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+        },
+        {
+          "episode_file": "tech_20260715_0715_MP_TECH_pod_128 [tech_20260715_0715_MP_TECH_pod_128].md",
+          "key": "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Netflix struggles to retain viewers after a series' first season",
+          "url": "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251218_1218_MP_TECH_pod_128 [tech_20251218_1218_MP_TECH_pod_128].md",
+          "key": "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The challenges of integrating ads in AI search engines",
+          "url": "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251212_1212_MP_TECH_pod_128 [tech_20251212_1212_MP_TECH_pod_128].md",
+          "key": "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
+          "url": "/wiki/sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Formula 1 ｜ Acquired (1) [formula-1-1].md",
+          "key": "formula-1-1",
+          "show": "Acquired",
+          "title": "Formula 1",
+          "url": "/wiki/sources/formula-1-1/"
+        },
+        {
+          "episode_file": "EP69 AI时代来临，投资不再是单机模式 [lpPXMDl3wLRRtswXWpZEkZ-qzygN].md",
+          "key": "ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn",
+          "show": "一劳永逸",
+          "title": "EP69 AI时代来临，投资不再是单机模式",
+          "url": "/wiki/sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn/"
+        },
+        {
+          "episode_file": "Fault lines： Venezuela’s paltry earthquake response [6a44e38375e7a3e96111931b].md",
+          "key": "fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b",
+          "show": "Economist Podcasts",
+          "title": "Fault lines: Venezuela's paltry earthquake response",
+          "url": "/wiki/sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b/"
+        },
+        {
+          "episode_file": "The NFL ｜ Acquired (1) [the-nfl-1].md",
+          "key": "the-nfl-1",
+          "show": "Acquired",
+          "title": "The NFL",
+          "url": "/wiki/sources/the-nfl-1/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/netflix/"
+    },
     "Netherlands": {
       "episode_count": 7,
       "show_count": 2,
@@ -244105,6 +244330,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/sejanus/"
     },
+    "SelbyJennings": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/entities/selbyjennings/"
+    },
     "SelectServiceHotelModel": {
       "episode_count": 1,
       "show_count": 1,
@@ -259731,6 +259972,36 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
     },
+    "StreamingAudienceRetention": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1529ddc36df4251a68968e1fc79c1821_30527497 [default.mp3_ywr3ahjkcgo_1529ddc36df4251a68968e1fc79c1821_30527497].md",
+          "key": "the-business-of-heated-rivalry",
+          "show": "Planet Money",
+          "title": "The Business of Heated Rivalry",
+          "url": "/wiki/sources/the-business-of-heated-rivalry/"
+        },
+        {
+          "episode_file": "tech_20260715_0715_MP_TECH_pod_128 [tech_20260715_0715_MP_TECH_pod_128].md",
+          "key": "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Netflix struggles to retain viewers after a series' first season",
+          "url": "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/streamingaudienceretention/"
+    },
     "StreamingAwardLeadership": {
       "episode_count": 1,
       "show_count": 1,
@@ -260921,6 +261192,50 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
+    },
+    "SubscriptionFatigue": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260715_0715_MP_TECH_pod_128 [tech_20260715_0715_MP_TECH_pod_128].md",
+          "key": "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Netflix struggles to retain viewers after a series' first season",
+          "url": "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260226_0226_MP_TECH_pod_128 [tech_20260226_0226_MP_TECH_pod_128].md",
+          "key": "tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Physical media's comeback",
+          "url": "/wiki/sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251212_1212_MP_TECH_pod_128 [tech_20251212_1212_MP_TECH_pod_128].md",
+          "key": "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
+          "url": "/wiki/sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+          "key": "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae",
+          "show": "面基",
+          "title": "中年三账户：现金流、肌肉、睡眠",
+          "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        },
+        {
+          "episode_file": "tech_20261016_1016_MP_TECH_pod_128 [tech_20261016_1016_MP_TECH_pod_128].md",
+          "key": "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI borrowing slowdown raises questions about investor exposure",
+          "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-16",
+      "url": "/wiki/concepts/subscriptionfatigue/"
     },
     "SubscriptionVsAlgorithmPodcastDistribution": {
       "episode_count": 2,
