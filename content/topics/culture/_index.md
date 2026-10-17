@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3529
+topic_total_pages: 3531
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -526,6 +526,9 @@ topic_concepts:
   - key: "BookCreatorWork"
     title: "Book Creator Work"
     url: "/wiki/concepts/bookcreatorwork/"
+  - key: "BookFormAsMeaning"
+    title: "Book Form as Meaning / 书籍形式即意义"
+    url: "/wiki/concepts/bookformasmeaning/"
   - key: "BookLaundering"
     title: "Book Laundering"
     url: "/wiki/concepts/booklaundering/"
@@ -5639,6 +5642,9 @@ topic_entities:
   - key: "NewBalance"
     title: "New Balance"
     url: "/wiki/entities/newbalance/"
+  - key: "NewDirections"
+    title: "New Directions"
+    url: "/wiki/entities/newdirections/"
   - key: "NewEnglandRevolution"
     title: "New England Revolution"
     url: "/wiki/entities/newenglandrevolution/"

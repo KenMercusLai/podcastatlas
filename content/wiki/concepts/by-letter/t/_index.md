@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10619
+wiki_total_pages: 10623
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "TransitionalAIHardware"
     title: "Transitional AI Hardware"
     url: "/wiki/concepts/transitionalaihardware/"
+  - key: "TranslationAsCreativeAutonomy"
+    title: "Translation as Creative Autonomy / 翻译作为创作自主"
+    url: "/wiki/concepts/translationascreativeautonomy/"
   - key: "TranslationLaborIncentives"
     title: "Translation Labor Incentives / 翻译劳动激励"
     url: "/wiki/concepts/translationlaborincentives/"

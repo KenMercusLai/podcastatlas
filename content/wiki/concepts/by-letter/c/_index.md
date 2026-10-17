@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10619
+wiki_total_pages: 10623
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1259,6 +1259,9 @@ wiki_pages:
   - key: "ChineseClassicalInterpretationContinuity"
     title: "Classical Interpretation as Civilizational Continuity / 经学解释与文明延续"
     url: "/wiki/concepts/chineseclassicalinterpretationcontinuity/"
+  - key: "ClassicalMaterialContemporaryRewriting"
+    title: "Classical Material in Contemporary Rewriting / 古典材料的当代改写"
+    url: "/wiki/concepts/classicalmaterialcontemporaryrewriting/"
   - key: "ClassicalPoeticIntertextuality"
     title: "Classical Poetic Intertextuality"
     url: "/wiki/concepts/classicalpoeticintertextuality/"
@@ -2225,6 +2228,9 @@ wiki_pages:
   - key: "ConstraintDrivenEngineeringStrategy"
     title: "Constraint Driven Engineering Strategy"
     url: "/wiki/concepts/constraintdrivenengineeringstrategy/"
+  - key: "ConstraintBasedCreativeWritingPedagogy"
+    title: "Constraint-Based Creative Writing Pedagogy / 规则与随机的创意写作教学"
+    url: "/wiki/concepts/constraintbasedcreativewritingpedagogy/"
   - key: "ConstraintDrivenMediaProduction"
     title: "Constraint-Driven Media Production"
     url: "/wiki/concepts/constraintdrivenmediaproduction/"

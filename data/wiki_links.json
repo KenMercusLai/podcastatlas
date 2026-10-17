@@ -10155,6 +10155,10 @@
     "title": "Anne Boleyn",
     "url": "/wiki/entities/anneboleyn/"
   },
+  "AnneCarson": {
+    "title": "安妮·卡森 / Anne Carson",
+    "url": "/wiki/entities/annecarson/"
+  },
   "AnneHeggli": {
     "title": "Anne Heggli",
     "url": "/wiki/entities/anneheggli/"
@@ -14922,6 +14926,10 @@
   "BookCreatorWork": {
     "title": "Book Creator Work",
     "url": "/wiki/concepts/bookcreatorwork/"
+  },
+  "BookFormAsMeaning": {
+    "title": "Book Form as Meaning / 书籍形式即意义",
+    "url": "/wiki/concepts/bookformasmeaning/"
   },
   "BookLaundering": {
     "title": "Book Laundering",
@@ -20707,6 +20715,10 @@
     "title": "经学考试正统化 / Classical Examination Orthodoxy",
     "url": "/wiki/concepts/classicalexaminationorthodoxy/"
   },
+  "ClassicalMaterialContemporaryRewriting": {
+    "title": "Classical Material in Contemporary Rewriting / 古典材料的当代改写",
+    "url": "/wiki/concepts/classicalmaterialcontemporaryrewriting/"
+  },
   "ClassicalPoeticIntertextuality": {
     "title": "Classical Poetic Intertextuality",
     "url": "/wiki/concepts/classicalpoeticintertextuality/"
@@ -22474,6 +22486,10 @@
   "ConstrainedMarketReform": {
     "title": "Constrained Market Reform",
     "url": "/wiki/concepts/constrainedmarketreform/"
+  },
+  "ConstraintBasedCreativeWritingPedagogy": {
+    "title": "Constraint-Based Creative Writing Pedagogy / 规则与随机的创意写作教学",
+    "url": "/wiki/concepts/constraintbasedcreativewritingpedagogy/"
   },
   "ConstraintDrivenEngineeringStrategy": {
     "title": "Constraint Driven Engineering Strategy",
@@ -52927,6 +52943,10 @@
     "title": "李嘉佳 / Li Jiajia",
     "url": "/wiki/entities/lijiajia/"
   },
+  "LiJiaoyang": {
+    "title": "李娇杨 / Li Jiaoyang",
+    "url": "/wiki/entities/lijiaoyang/"
+  },
   "LiJieJAndT": {
     "title": "李杰（极兔）",
     "url": "/wiki/entities/lijiejandt/"
@@ -63650,6 +63670,10 @@
   "NewCarthage": {
     "title": "New Carthage / 新迦太基",
     "url": "/wiki/entities/newcarthage/"
+  },
+  "NewDirections": {
+    "title": "New Directions",
+    "url": "/wiki/entities/newdirections/"
   },
   "NewEngineeringEducation": {
     "title": "New Engineering Education / 新工科教育",
@@ -89191,6 +89215,10 @@
     "title": "Transitional AI Hardware",
     "url": "/wiki/concepts/transitionalaihardware/"
   },
+  "TranslationAsCreativeAutonomy": {
+    "title": "Translation as Creative Autonomy / 翻译作为创作自主",
+    "url": "/wiki/concepts/translationascreativeautonomy/"
+  },
   "TranslationAsPoliticalMediation": {
     "title": "翻译作为政治中介 / Translation as Political Mediation",
     "url": "/wiki/concepts/translationaspoliticalmediation/"
@@ -96491,6 +96519,10 @@
     "title": "徐敬 / Xu Jing (late Han)",
     "url": "/wiki/entities/xujinglatehan/"
   },
+  "XuJinjin": {
+    "title": "徐金金 / Xu Jinjin",
+    "url": "/wiki/entities/xujinjin/"
+  },
   "XuLaiHengshanQueen": {
     "title": "衡山王后徐来 / Xu Lai, Queen of Hengshan",
     "url": "/wiki/entities/xulaihengshanqueen/"
@@ -103678,6 +103710,10 @@
   "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw": {
     "title": "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”",
     "url": "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+  },
+  "ep289-zai-anni-kasen-de-maxituan-ketang-chaidiao-wenxue-de-tiaotiaokuangkuang-lhqupidadktnqhxizmxzja9hkjhp": {
+    "title": "EP289 在安妮·卡森的“马戏团”课堂，拆掉文学的条条框框",
+    "url": "/wiki/sources/ep289-zai-anni-kasen-de-maxituan-ketang-chaidiao-wenxue-de-tiaotiaokuangkuang-lhqupidadktnqhxizmxzja9hkjhp/"
   },
   "ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu": {
     "title": "EP34 当高情商和分寸感缺失，唯有钢铁意志撑场",

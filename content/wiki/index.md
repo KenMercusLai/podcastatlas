@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP289 在安妮·卡森的“马戏团”课堂，拆掉文学的条条框框](sources/ep289-zai-anni-kasen-de-maxituan-ketang-chaidiao-wenxue-de-tiaotiaokuangkuang-lhqupidadktnqhxizmxzja9hkjhp.md) — Talk三联 with 李娇杨 and 徐金金 on Anne Carson's constraint-and-chance classroom, translation autonomy, material book form, independent publishing, and classical rewriting.
 - [CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer](sources/allin-e293-ch-allin-e293-ch.md) — All-In on CoreWeave refinancing and contract risk, AI software deflation, power scarcity, Anthropic IPO claims, specialized models, and disputed AI-safety narratives.
 - [Anatomy of a movie market](sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266.md) — Planet Money episode on Sundance, independent-film sales agents, demand signaling, buyer concentration, and the softer post-streaming-war acquisition market.
 - [#407 今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？](sources/407-jinnian-de-nuojiang-rang-women-li-lijie-danao-qingxu-he-jingshen-jibing-geng-jin-le-ma-63a3f28a.md) — 声东击西对光遗传学节目的交叉发布，区分动物环路因果实验、人的主观体验、精神疾病诊断与临床治疗。
@@ -4745,6 +4746,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [安妮·卡森 / Anne Carson](entities/AnneCarson.md) — Poet, classicist, translator, teacher, and cross-media artist described through former-student testimony.
+- [李娇杨 / Li Jiaoyang](entities/LiJiaoyang.md) — Writer, artist, translator, and former Anne Carson student.
+- [徐金金 / Xu Jinjin](entities/XuJinjin.md) — Writer, artist, translator, and former Anne Carson student.
+- [New Directions](entities/NewDirections.md) — Independent publisher described as supporting materially unconventional literary work.
 - [Ben Horowitz](entities/BenHorowitz.md) — Andreessen Horowitz cofounder discussing neocloud leverage, frontier-lab capital resilience, specialized models, and AI-security claims.
 - [John Sloss](entities/JohnSloss.md) — Cinetic Media founder and independent-film sales agent profiled at the 2026 Sundance Film Festival.
 - [Cinetic Media](entities/CineticMedia.md) — Independent-film sales company coordinating representation, festival positioning, buyer intelligence, and distribution negotiations.
@@ -18385,6 +18390,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Constraint-Based Creative Writing Pedagogy / 规则与随机的创意写作教学](concepts/ConstraintBasedCreativeWritingPedagogy.md) — Uses rules, chance, action, and collaboration to make form discoverable without prescribing style.
+- [Translation as Creative Autonomy / 翻译作为创作自主](concepts/TranslationAsCreativeAutonomy.md) — Treats translation as entrusted creative judgment rather than mechanical equivalence.
+- [Book Form as Meaning / 书籍形式即意义](concepts/BookFormAsMeaning.md) — Treats page, image, handwriting, binding, and object form as carriers of literary meaning.
+- [Classical Material in Contemporary Rewriting / 古典材料的当代改写](concepts/ClassicalMaterialContemporaryRewriting.md) — Uses ancient texts and languages as active resources for present experience.
 - [AI Infrastructure Fixed vs Spot Contracting](concepts/AIInfrastructureFixedVsSpotContracting.md) — Tradeoff between financeable long-term compute contracts and higher but more volatile spot-market pricing.
 - [Task-Specific Small Model Economics](concepts/TaskSpecificSmallModelEconomics.md) — Deployment case for compact specialized models when bounded-task performance, cost, energy, latency, and data control outweigh generality.
 - [Independent Film Sales Market](concepts/IndependentFilmSalesMarket.md) — Intermediary system connecting independent films and filmmakers with theatrical and streaming acquisition buyers.

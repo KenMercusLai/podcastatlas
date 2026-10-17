@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10619
+wiki_total_pages: 10623
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "BookCreatorWork"
     title: "Book Creator Work"
     url: "/wiki/concepts/bookcreatorwork/"
+  - key: "BookFormAsMeaning"
+    title: "Book Form as Meaning / 书籍形式即意义"
+    url: "/wiki/concepts/bookformasmeaning/"
   - key: "BookLaundering"
     title: "Book Laundering"
     url: "/wiki/concepts/booklaundering/"

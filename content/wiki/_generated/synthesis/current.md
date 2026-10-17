@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-15
-as_of_overview_commit: 4085adca471a6a54a77ebb450c3a7825c52cfa20
+last_updated: 2026-10-16
+as_of_overview_commit: 99a4afe0543f80b32052b52ea1f899e0101f6598
 summary: "Across domains, durable value depends on evidence, implementation, institutional capacity, human judgment, accountability, context, relationships, and explicit limits."
-episode_count: 4648
-source_count: 4648
+episode_count: 4656
+source_count: 4656
 paragraph_count: 803
 topic_count: 9
 ---

@@ -19836,6 +19836,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BookFormAsMeaning": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "BookLaundering": [
     {
       "key": "culture",
@@ -64305,6 +64312,13 @@
     }
   ],
   "NewBalance": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "NewDirections": [
     {
       "key": "culture",
       "label": "Culture",
