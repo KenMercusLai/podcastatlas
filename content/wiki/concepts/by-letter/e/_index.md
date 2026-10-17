@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10628
+wiki_total_pages: 10630
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "EventContractManipulationRisk"
     title: "Event Contract Manipulation Risk"
     url: "/wiki/concepts/eventcontractmanipulationrisk/"
+  - key: "EventIntentMatching"
+    title: "Event Intent Matching"
+    url: "/wiki/concepts/eventintentmatching/"
   - key: "EventDrivenInvesting"
     title: "Event-Driven Investing"
     url: "/wiki/concepts/eventdriveninvesting/"

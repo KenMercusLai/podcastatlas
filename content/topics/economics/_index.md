@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2279
+topic_total_pages: 2280
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6843,6 +6843,9 @@ topic_sources:
   - key: "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb"
     title: "财报的根 + 估值的茎 = 叙事的果实"
     url: "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+  - key: "lnvlrnkk-mvyhiy31eq-gw4qopje"
+    title: "这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason"
+    url: "/wiki/sources/lnvlrnkk-mvyhiy31eq-gw4qopje/"
   - key: "lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb"
     title: "零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一"
     url: "/wiki/sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb/"

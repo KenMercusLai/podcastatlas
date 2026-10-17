@@ -16473,6 +16473,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ArticulerAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ArtificialCognition": [
     {
       "key": "technology",
@@ -35484,6 +35491,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EventIntentMatching": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EverestIMAXExpedition": [
     {
       "key": "culture",
@@ -50611,6 +50625,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JasonArticulerAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "JasonFurman": [
@@ -75986,6 +76007,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "RevealedConnectionPreference": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "RevelPharma": [
@@ -105511,6 +105539,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "lnvlrnkk-mvyhiy31eq-gw4qopje": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lo0pfirl4khc0jzj57kgbx7wsq49": [

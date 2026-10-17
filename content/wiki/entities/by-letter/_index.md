@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13571
+wiki_total_pages: 13573
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1796,6 +1796,9 @@ wiki_pages:
   - key: "ArticlesOfConfederation"
     title: "Articles of Confederation"
     url: "/wiki/entities/articlesofconfederation/"
+  - key: "ArticulerAI"
+    title: "Articuler.ai"
+    url: "/wiki/entities/articulerai/"
   - key: "ArtX"
     title: "ArtX"
     url: "/wiki/entities/artx/"

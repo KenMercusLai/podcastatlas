@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3552
+topic_total_pages: 3557
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2260,6 +2260,9 @@ topic_concepts:
   - key: "EVChargingInfrastructure"
     title: "EV Charging Infrastructure"
     url: "/wiki/concepts/evcharginginfrastructure/"
+  - key: "EventIntentMatching"
+    title: "Event Intent Matching"
+    url: "/wiki/concepts/eventintentmatching/"
   - key: "EverythingAgent"
     title: "Everything Agent"
     url: "/wiki/concepts/everythingagent/"
@@ -4027,6 +4030,9 @@ topic_concepts:
   - key: "RetroHumanistAIContent"
     title: "Retro Humanist AI Content"
     url: "/wiki/concepts/retrohumanistaicontent/"
+  - key: "RevealedConnectionPreference"
+    title: "Revealed Connection Preference"
+    url: "/wiki/concepts/revealedconnectionpreference/"
   - key: "RiskTieredAIOversight"
     title: "Risk-Tiered AI Oversight"
     url: "/wiki/concepts/risktieredaioversight/"
@@ -5273,6 +5279,9 @@ topic_entities:
   - key: "ArthurResidencyFounder"
     title: "Arthur (The Residency founder)"
     url: "/wiki/entities/arthurresidencyfounder/"
+  - key: "ArticulerAI"
+    title: "Articuler.ai"
+    url: "/wiki/entities/articulerai/"
   - key: "AsahiGroup"
     title: "Asahi Group / 朝日集团"
     url: "/wiki/entities/asahigroup/"
@@ -6482,6 +6491,9 @@ topic_entities:
   - key: "JasmineSun"
     title: "Jasmine Sun"
     url: "/wiki/entities/jasminesun/"
+  - key: "JasonArticulerAI"
+    title: "Jason (Articuler.ai)"
+    url: "/wiki/entities/jasonarticulerai/"
   - key: "JAX"
     title: "JAX"
     url: "/wiki/entities/jax/"
@@ -10644,6 +10656,9 @@ topic_sources:
   - key: "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429"
     title: "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24"
     url: "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+  - key: "lnvlrnkk-mvyhiy31eq-gw4qopje"
+    title: "这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason"
+    url: "/wiki/sources/lnvlrnkk-mvyhiy31eq-gw4qopje/"
   - key: "zhe-bannian-women-you-maile-naxie-keji-haowu-1"
     title: "这半年，我们又买了哪些科技好物？"
     url: "/wiki/sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1/"

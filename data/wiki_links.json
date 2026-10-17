@@ -11215,6 +11215,10 @@
     "title": "Articles of Confederation",
     "url": "/wiki/entities/articlesofconfederation/"
   },
+  "ArticulerAI": {
+    "title": "Articuler.ai",
+    "url": "/wiki/entities/articulerai/"
+  },
   "ArtificialCognition": {
     "title": "Artificial Cognition",
     "url": "/wiki/concepts/artificialcognition/"
@@ -31595,6 +31599,10 @@
     "title": "Event-Driven Investing",
     "url": "/wiki/concepts/eventdriveninvesting/"
   },
+  "EventIntentMatching": {
+    "title": "Event Intent Matching",
+    "url": "/wiki/concepts/eventintentmatching/"
+  },
   "EverVictoriousArmy": {
     "title": "Ever Victorious Army",
     "url": "/wiki/entities/evervictoriousarmy/"
@@ -47506,6 +47514,10 @@
   "Jason": {
     "title": "Jason / 伊阿宋",
     "url": "/wiki/entities/jason/"
+  },
+  "JasonArticulerAI": {
+    "title": "Jason (Articuler.ai)",
+    "url": "/wiki/entities/jasonarticulerai/"
   },
   "JasonCalacanis": {
     "title": "Jason Calacanis",
@@ -75522,6 +75534,10 @@
   "Reuters": {
     "title": "Reuters",
     "url": "/wiki/entities/reuters/"
+  },
+  "RevealedConnectionPreference": {
+    "title": "Revealed Connection Preference",
+    "url": "/wiki/concepts/revealedconnectionpreference/"
   },
   "ReveillonRiot": {
     "title": "Reveillon Riot",
@@ -105410,6 +105426,10 @@
   "lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg": {
     "title": "032 教师节特辑 | 韦小宝和他的师父们",
     "url": "/wiki/sources/lnujh366bvykuf8rqpuwz7y2uwmg-lnujh366bvykuf8rqpuwz7y2uwmg/"
+  },
+  "lnvlrnkk-mvyhiy31eq-gw4qopje": {
+    "title": "这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason",
+    "url": "/wiki/sources/lnvlrnkk-mvyhiy31eq-gw4qopje/"
   },
   "lo0pfirl4khc0jzj57kgbx7wsq49": {
     "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
