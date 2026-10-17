@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10617
+wiki_total_pages: 10619
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "AIInfrastructureDebtFinancing"
     title: "AI Infrastructure Debt Financing"
     url: "/wiki/concepts/aiinfrastructuredebtfinancing/"
+  - key: "AIInfrastructureFixedVsSpotContracting"
+    title: "AI Infrastructure Fixed vs Spot Contracting"
+    url: "/wiki/concepts/aiinfrastructurefixedvsspotcontracting/"
   - key: "AIInfrastructureFullStackMoat"
     title: "AI Infrastructure Full-Stack Moat"
     url: "/wiki/concepts/aiinfrastructurefullstackmoat/"

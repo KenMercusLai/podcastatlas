@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2278
+topic_total_pages: 2279
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -169,6 +169,9 @@ topic_concepts:
   - key: "AIInfrastructureDebtFinancing"
     title: "AI Infrastructure Debt Financing"
     url: "/wiki/concepts/aiinfrastructuredebtfinancing/"
+  - key: "AIInfrastructureFixedVsSpotContracting"
+    title: "AI Infrastructure Fixed vs Spot Contracting"
+    url: "/wiki/concepts/aiinfrastructurefixedvsspotcontracting/"
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"

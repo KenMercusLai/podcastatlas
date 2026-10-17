@@ -10385,6 +10385,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIInfrastructureFixedVsSpotContracting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIInfrastructureFullStackMoat": [
     {
       "key": "technology",
@@ -18584,6 +18596,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BenHorowitz": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "BenParr": [
@@ -86762,6 +86781,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "TaskSpecificSmallModelEconomics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TaskSpecificWorkspaceDesign": [
     {
       "key": "science",
@@ -101567,6 +101593,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "allin-e293-ch-allin-e293-ch": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": [

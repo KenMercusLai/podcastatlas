@@ -37153,3 +37153,11 @@ Added source `default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-
 ## [2026-10-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-17] ingest | CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer
+
+Added source `allin-e293-ch-allin-e293-ch`; created [[BenHorowitz|Ben Horowitz]], [[AIInfrastructureFixedVsSpotContracting]], and [[TaskSpecificSmallModelEconomics]]; and resynthesized [[CoreWeave]], [[AIInfrastructureDebtFinancing]], [[AIComputePriceRisk]], [[PowerScarcityInfrastructureInvesting]], [[SoftwareCreationBarbell]], and [[FrontierAIIPODisclosureRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: strong demand for scarce powered GPUs can coexist with leveraged-borrower stress; secondary-market yields do not reset existing fixed coupons but can raise the cost of financing unfinished capacity; fixed contracts support bankability while spot exposure trades certainty for current upside; and cheaper code can expand total software consumption while shifting moats toward data, distribution, relationships, feedback, specialization, and power. No settled contradiction was adopted. Anthropic financial, valuation, compute, distillation, malware, and model-behavior claims remain secondhand or source-scoped, as do CoreWeave financing estimates, spot prices, payback periods, and political claims about AI-risk advocates. Broad [[Anthropic]], [[OpenAI]], [[ModelDistillation]], [[RecursiveSelfImprovement]], and alignment pages were kept closed because the adversarial episode does not materially revise their established judgments. The automatic `wiki/overview.md` was read for context and left unchanged because the episode deepens the CoreWeave stress signal added on 2026-10-16 without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due, leaving one pending ingest; refreshed artifacts validate 4,655 sources across 803 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

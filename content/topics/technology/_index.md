@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3548
+topic_total_pages: 3552
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -634,6 +634,9 @@ topic_concepts:
   - key: "AIInfrastructureDebtFinancing"
     title: "AI Infrastructure Debt Financing"
     url: "/wiki/concepts/aiinfrastructuredebtfinancing/"
+  - key: "AIInfrastructureFixedVsSpotContracting"
+    title: "AI Infrastructure Fixed vs Spot Contracting"
+    url: "/wiki/concepts/aiinfrastructurefixedvsspotcontracting/"
   - key: "AIInfrastructureFullStackMoat"
     title: "AI Infrastructure Full-Stack Moat"
     url: "/wiki/concepts/aiinfrastructurefullstackmoat/"
@@ -4528,6 +4531,9 @@ topic_concepts:
   - key: "TaskBasedAINativeOrganization"
     title: "Task-Based AI-Native Organization"
     url: "/wiki/concepts/taskbasedainativeorganization/"
+  - key: "TaskSpecificSmallModelEconomics"
+    title: "Task-Specific Small Model Economics"
+    url: "/wiki/concepts/taskspecificsmallmodeleconomics/"
   - key: "TauLaw"
     title: "Tau Law"
     url: "/wiki/concepts/taulaw/"
@@ -5348,6 +5354,9 @@ topic_entities:
   - key: "BellLabs"
     title: "Bell Labs"
     url: "/wiki/entities/belllabs/"
+  - key: "BenHorowitz"
+    title: "Ben Horowitz"
+    url: "/wiki/entities/benhorowitz/"
   - key: "BenParr"
     title: "Ben Parr"
     url: "/wiki/entities/benparr/"
@@ -9402,6 +9411,9 @@ topic_sources:
   - key: "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e"
     title: "Continental Rift: NATO's Tense Summit"
     url: "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+  - key: "allin-e293-ch-allin-e293-ch"
+    title: "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer"
+    url: "/wiki/sources/allin-e293-ch-allin-e293-ch/"
   - key: "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638"
     title: "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan"
     url: "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"

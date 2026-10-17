@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10617
+wiki_total_pages: 10619
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "TaskBasedAINativeOrganization"
     title: "Task-Based AI-Native Organization"
     url: "/wiki/concepts/taskbasedainativeorganization/"
+  - key: "TaskSpecificSmallModelEconomics"
+    title: "Task-Specific Small Model Economics"
+    url: "/wiki/concepts/taskspecificsmallmodeleconomics/"
   - key: "TaskSpecificWorkspaceDesign"
     title: "Task-Specific Workspace Design"
     url: "/wiki/concepts/taskspecificworkspacedesign/"

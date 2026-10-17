@@ -2026,9 +2026,9 @@
       "url": "/wiki/concepts/aicomputebruteforcescience/"
     },
     "AIComputePriceRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
@@ -2043,9 +2043,16 @@
           "show": "商业就是这样",
           "title": "Vol.273 英伟达则兼济天下？",
           "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        },
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-17",
       "url": "/wiki/concepts/aicomputepricerisk/"
     },
     "AIConsciousnessBoundary": {
@@ -3528,9 +3535,9 @@
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
     "AIInfrastructureDebtFinancing": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 3,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -3608,10 +3615,33 @@
           "show": "Marketplace Tech",
           "title": "AI borrowing slowdown raises questions about investor exposure",
           "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
+    },
+    "AIInfrastructureFixedVsSpotContracting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/aiinfrastructurefixedvsspotcontracting/"
     },
     "AIInfrastructureLaborDemand": {
       "episode_count": 2,
@@ -28615,6 +28645,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/bengraham/"
+    },
+    "BenHorowitz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/entities/benhorowitz/"
     },
     "BenMacintyre": {
       "episode_count": 3,
@@ -57162,9 +57208,9 @@
       "url": "/wiki/concepts/coretribepositioning/"
     },
     "CoreWeave": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -57207,9 +57253,16 @@
           "show": "Marketplace Tech",
           "title": "AI borrowing slowdown raises questions about investor exposure",
           "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "url": "/wiki/entities/coreweave/"
     },
     "CorgiAIInsurance": {
@@ -101793,9 +101846,9 @@
       "url": "/wiki/concepts/frontieraicomputemonitoring/"
     },
     "FrontierAIIPODisclosureRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Kills Everybody or Doomer Psyop？ OpenAI’s Math Breakthrough, Nike’s $200B Collapse [42880265].md",
@@ -101803,9 +101856,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265/"
+        },
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-17",
       "url": "/wiki/concepts/frontieraiipodisclosurerisk/"
     },
     "FrontierAgencyCommercialBoundary": {
@@ -219484,9 +219544,9 @@
       "url": "/wiki/concepts/powerretentionselfjustification/"
     },
     "PowerScarcityInfrastructureInvesting": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's Best Ideas Pitch Competition： 4 Investors Present Their Top Trades Live [41618530].md",
@@ -219494,9 +219554,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530/"
+        },
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-17",
       "url": "/wiki/concepts/powerscarcityinfrastructureinvesting/"
     },
     "PowerStructureTargeting": {
@@ -254405,6 +254472,29 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/softwareacquisitionoperatingplatform/"
     },
+    "SoftwareCreationBarbell": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "当软件容易被创作，新时代的产品长什么样？ ｜ 对谈 Albert [ltgaLbpl0P41D33VvSBACZqrCBdI].md",
+          "key": "dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi",
+          "show": "42章经",
+          "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+          "url": "/wiki/sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi/"
+        },
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/softwarecreationbarbell/"
+    },
     "SoftwareDefinedVehicle": {
       "episode_count": 1,
       "show_count": 1,
@@ -266981,6 +267071,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/taskbasedainativeorganization/"
+    },
+    "TaskSpecificSmallModelEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E293_Ch [ALLIN-E293_Ch].md",
+          "key": "allin-e293-ch-allin-e293-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/taskspecificsmallmodeleconomics/"
     },
     "TaskSpecificWorkspaceDesign": {
       "episode_count": 2,

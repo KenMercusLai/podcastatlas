@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer](sources/allin-e293-ch-allin-e293-ch.md) — All-In on CoreWeave refinancing and contract risk, AI software deflation, power scarcity, Anthropic IPO claims, specialized models, and disputed AI-safety narratives.
 - [Anatomy of a movie market](sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266.md) — Planet Money episode on Sundance, independent-film sales agents, demand signaling, buyer concentration, and the softer post-streaming-war acquisition market.
 - [#407 今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？](sources/407-jinnian-de-nuojiang-rang-women-li-lijie-danao-qingxu-he-jingshen-jibing-geng-jin-le-ma-63a3f28a.md) — 声东击西对光遗传学节目的交叉发布，区分动物环路因果实验、人的主观体验、精神疾病诊断与临床治疗。
 - [用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32](sources/yong-guang-tiaokong-shenjingxibao-jinnian-nuobeierjiang-ruhe-gaibian-women-dui-qingxu-de-lijie-chuantai-shengdongjixi-s10e32-df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.md) — What's Next 与声东击西从光遗传学的因果操控能力出发，讨论精神疾病测量、情绪标签拆分、临床转化及治疗与控制的伦理边界。
@@ -4744,6 +4745,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Ben Horowitz](entities/BenHorowitz.md) — Andreessen Horowitz cofounder discussing neocloud leverage, frontier-lab capital resilience, specialized models, and AI-security claims.
 - [John Sloss](entities/JohnSloss.md) — Cinetic Media founder and independent-film sales agent profiled at the 2026 Sundance Film Festival.
 - [Cinetic Media](entities/CineticMedia.md) — Independent-film sales company coordinating representation, festival positioning, buyer intelligence, and distribution negotiations.
 - [Sundance Film Festival](entities/SundanceFilmFestival.md) — Independent-film festival that also functions as a concentrated acquisition marketplace.
@@ -18383,6 +18385,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [AI Infrastructure Fixed vs Spot Contracting](concepts/AIInfrastructureFixedVsSpotContracting.md) — Tradeoff between financeable long-term compute contracts and higher but more volatile spot-market pricing.
+- [Task-Specific Small Model Economics](concepts/TaskSpecificSmallModelEconomics.md) — Deployment case for compact specialized models when bounded-task performance, cost, energy, latency, and data control outweigh generality.
 - [Independent Film Sales Market](concepts/IndependentFilmSalesMarket.md) — Intermediary system connecting independent films and filmmakers with theatrical and streaming acquisition buyers.
 - [Festival Demand Signaling](concepts/FestivalDemandSignaling.md) — Use of screenings, audience response, reviews, tests, awards, advocacy, scarcity, and competition to infer film demand.
 - [Film Distribution Gatekeeping](concepts/FilmDistributionGatekeeping.md) — Concentrated buyer, budget, and corporate-approval control over which completed films reach broad audiences.
