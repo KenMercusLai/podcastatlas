@@ -390,9 +390,26 @@
         "MonarchicalTitulatureAndAddress",
         "WeirdHistoryPodcast"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "elite-sport-biography-carries-culture-leadership-and-safety",
+      "qualifications": [
+        "The episode is one autobiographical interview and does not independently verify medal counts, organizational history, medical findings, rescue timing, training loads, or the causal effect of coaching culture on results."
+      ],
+      "statement": "[[defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981|The Andrea Fuentes interview]] adds an elite-sport media case: [[TomorrowToday]] uses biography to make [[AthleteCenteredPerformanceCulture]], [[AthletePostRetirementIdentity]], and [[PainAttentionReframing]] legible as leadership questions while preserving the source boundary around medals, organizational history, medical findings, and result causality.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+        "TomorrowToday",
+        "AndreaFuentes",
+        "AthleteCenteredPerformanceCulture",
+        "AthletePostRetirementIdentity",
+        "PainAttentionReframing"
+      ]
     }
   ],
-  "input_digest": "e01247880d87034f68e1b03eea0e830d0e2379d1e7b1b0236e96602ebe0f8cbb",
-  "summary": "Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, rituals, public artifacts, and historical narratives shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete reconstructions remain qualified. EP161 adds that podcast form is simultaneously prepared and relational: research, complementary host roles, reciprocal accountability, listener connection, bounded commerce, and platform distribution together sustain an open-topic show. Print history, literary voice, and human-animal representation elsewhere in the topic similarly show that circulation and form mediate public meaning without erasing evidence limits.",
+  "input_digest": "e1514163b61251b9f1a1a65bb51078df32a5dcf6099cbef7d2f6fc7c6d70b28f",
+  "summary": "Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, rituals, public artifacts, and historical narratives shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete reconstructions remain qualified. EP161 adds that podcast form is simultaneously prepared and relational: research, complementary host roles, reciprocal accountability, listener connection, bounded commerce, and platform distribution together sustain an open-topic show. Print history, literary voice, and human-animal representation elsewhere in the topic similarly show that circulation and form mediate public meaning without erasing evidence limits. The Fuentes interview adds an elite-sport case in which long-form biography carries coaching culture, grief, safety, and leadership into public interpretation while keeping organizational and medical claims source-scoped.",
   "topic_id": "culture-and-media"
 }

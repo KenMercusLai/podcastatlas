@@ -4746,8 +4746,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](sources/lsso9j-p6l7zgwawhib14zjxksfq-lsso9j-p6l7zgwawhib14zjxksfq.md) — 张小珺Jùn访谈Dyna创始人Lindon，讨论产品研究、折叠到完整工作流、预训练与全栈机器人商业化。
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
+- [Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981.md) — Tomorrow Today interview on artistic swimming, process-focused excellence, athlete-centered coaching, retirement, team trust, and high-intensity apnea safety.
 
 ## Entities
+- [Andrea Fuentes](entities/AndreaFuentes.md) — Spanish Olympic artistic swimmer and coach connecting process focus, athlete autonomy, team transparency, reinvention, and emergency action.
+- [Anita Alvarez](entities/AnitaAlvarez.md) — American artistic swimmer represented through the Budapest blackout, rescue, medical investigation, and return to elite competition.
+- [USA Artistic Swimming](entities/USAArtisticSwimming.md) — American national program described through a shared-purpose cultural reset and reported return to world and Olympic medals.
 - [Articuler.ai](entities/ArticulerAI.md) — Uses event audience acquisition, attendee matching, and reciprocal connection behavior to connect people with opportunities.
 - [Jason (Articuler.ai)](entities/JasonArticulerAI.md) — Articuler.ai founder whose field outreach and survival work led from general people search to event matching.
 - [Champagne / 香槟](entities/Champagne.md) — 法国受保护的起泡酒产区与产品系统，连接农业、瓶中二次发酵、陈年、治理、奢侈品叙事、气候与文化传播。
@@ -29111,5 +29115,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trauma-Consequence Institutional Crime Narrative / 创伤后果与制度犯罪叙事](concepts/TraumaConsequenceInstitutionalCrimeNarrative.md) — Crime-story framework joining embodied aftermath, retained responsibility, institutional protection and gaps, and spectator implication.
 - [Competition Metric Value Compression / 竞赛指标压缩价值](concepts/CompetitionMetricValueCompression.md) — Loss of meaningful difference when a system testing many capabilities produces one winner through a narrow, short-horizon measure.
 - [Cultural-Industry Creative Attractiveness / 文化行业创作吸引力](concepts/CulturalIndustryCreativeAttractiveness.md) — Capacity to draw and retain creative talent through pay, autonomy, expressive room, relevance, and credible consequential work.
+- [Athlete-Centered Performance Culture](concepts/AthleteCenteredPerformanceCulture.md) — Demanding team culture built through shared purpose, explanation, emotional transparency, athlete voice, and independent problem-solving.
+- [Pain-Attention Reframing](concepts/PainAttentionReframing.md) — Attentional flexibility during bounded discomfort, explicitly limited by injury, illness, coercion, and physiological danger.
+- [High-Intensity Apnea Safety](concepts/HighIntensityApneaSafety.md) — Recognition, supervision, rescue, and medical boundaries for breath-holding during vigorous aquatic sport.
 
 ## Syntheses

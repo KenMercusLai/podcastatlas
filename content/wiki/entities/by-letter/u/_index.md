@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13573
+wiki_total_pages: 13576
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "USDepartmentOfDefense"
     title: "US Department of Defense"
     url: "/wiki/entities/usdepartmentofdefense/"
+  - key: "USAArtisticSwimming"
+    title: "USA Artistic Swimming"
+    url: "/wiki/entities/usaartisticswimming/"
   - key: "USAID"
     title: "USAID"
     url: "/wiki/entities/usaid/"

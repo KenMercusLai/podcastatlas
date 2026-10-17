@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13573
+wiki_total_pages: 13576
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "AndreHeiniger"
     title: "Andre Heiniger"
     url: "/wiki/entities/andreheiniger/"
+  - key: "AndreaFuentes"
+    title: "Andrea Fuentes"
+    url: "/wiki/entities/andreafuentes/"
   - key: "AndreaWulf"
     title: "Andrea Wulf"
     url: "/wiki/entities/andreawulf/"
@@ -1346,6 +1349,9 @@ wiki_pages:
   - key: "AnimalFarm"
     title: "Animal Farm"
     url: "/wiki/entities/animalfarm/"
+  - key: "AnitaAlvarez"
+    title: "Anita Alvarez"
+    url: "/wiki/entities/anitaalvarez/"
   - key: "AnitaRamaswamy"
     title: "Anita Ramaswamy"
     url: "/wiki/entities/anitaramaswamy/"

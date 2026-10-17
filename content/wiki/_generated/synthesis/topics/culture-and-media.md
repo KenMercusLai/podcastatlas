@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-10-10
-as_of_overview_commit: 8172b1538711e3d268cd85d8645355bdc5e4ffdb
-input_digest: e01247880d87034f68e1b03eea0e830d0e2379d1e7b1b0236e96602ebe0f8cbb
+last_updated: 2026-10-18
+as_of_overview_commit: ca58d3821058459d537a7e4e24a9d0ac42b74b59
+input_digest: e1514163b61251b9f1a1a65bb51078df32a5dcf6099cbef7d2f6fc7c6d70b28f
 ---
 
 # Culture and Media
 
 ## Current State
 
-Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, rituals, public artifacts, and historical narratives shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete reconstructions remain qualified. EP161 adds that podcast form is simultaneously prepared and relational: research, complementary host roles, reciprocal accountability, listener connection, bounded commerce, and platform distribution together sustain an open-topic show. Print history, literary voice, and human-animal representation elsewhere in the topic similarly show that circulation and form mediate public meaning without erasing evidence limits.
+Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, rituals, public artifacts, and historical narratives shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete reconstructions remain qualified. EP161 adds that podcast form is simultaneously prepared and relational: research, complementary host roles, reciprocal accountability, listener connection, bounded commerce, and platform distribution together sustain an open-topic show. Print history, literary voice, and human-animal representation elsewhere in the topic similarly show that circulation and form mediate public meaning without erasing evidence limits. The Fuentes interview adds an elite-sport case in which long-form biography carries coaching culture, grief, safety, and leadership into public interpretation while keeping organizational and medical claims source-scoped.
 
 ## Cross-source Findings
 
@@ -253,3 +253,13 @@ Place-based culture becomes legible through routes that join sites, memory, and 
 
 - The claim is grounded in one wide-ranging comparative podcast source rather than a specialist corpus of titulature or translation practice.
 - Readable conventional translations remain useful when institutional distinctions are immaterial, while etymologies, title chronology, and reader associations remain source-scoped.
+
+### Elite Sport Biography Carries Culture Leadership And Safety
+
+[[defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981|The Andrea Fuentes interview]] adds an elite-sport media case: [[TomorrowToday]] uses biography to make [[AthleteCenteredPerformanceCulture]], [[AthletePostRetirementIdentity]], and [[PainAttentionReframing]] legible as leadership questions while preserving the source boundary around medals, organizational history, medical findings, and result causality.
+
+**Evidence:** [[defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981]], [[TomorrowToday]], [[AndreaFuentes]], [[AthleteCenteredPerformanceCulture]], [[AthletePostRetirementIdentity]], [[PainAttentionReframing]]
+
+**Qualifications:**
+
+- The episode is one autobiographical interview and does not independently verify medal counts, organizational history, medical findings, rescue timing, training loads, or the causal effect of coaching culture on results.

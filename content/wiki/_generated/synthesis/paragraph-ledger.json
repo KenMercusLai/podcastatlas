@@ -803,12 +803,13 @@
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2",
       "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579",
-      "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73"
+      "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73",
+      "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6"
     ],
-    "paragraph_count": 803
+    "paragraph_count": 804
   },
-  "overview_commit": "bfa9e0490edb083d28f7c724fce918de6fd45b00",
-  "overview_digest": "780d860c749bdf433af22af628119893e246e1532a27967fc3b6dd1275dcd0a2",
+  "overview_commit": "ca58d3821058459d537a7e4e24a9d0ac42b74b59",
+  "overview_digest": "c02bbb20b88c02d5f32f18417505744e3a41123f9677485548478d748590dfc9",
   "paragraphs": [
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
@@ -23423,6 +23424,35 @@
         "WeaponsRankingGuLong",
         "ZhiZuiJinMiFM",
         "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028"
+      ]
+    },
+    {
+      "id": "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "culture-and-media",
+        "science-health-and-climate"
+      ],
+      "text": "The latest elite-sport addition is [[defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981|Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose]], a [[TomorrowToday]] interview with [[ShekharNatarajan]] and Olympic artistic swimmer and coach [[AndreaFuentes]]. It adds [[AnitaAlvarez]], [[USAArtisticSwimming]], [[AthleteCenteredPerformanceCulture]], [[PainAttentionReframing]], and [[HighIntensityApneaSafety]], while extending [[TomorrowToday]], [[ShekharNatarajan]], [[AthletePostRetirementIdentity]], and [[ProcessFocusedPerformanceFeedback]]. Its core synthesis is that elite standards need not require authoritarian coaching: shared purpose, explanation, transparent conflict, daily improvement, and athlete independence can organize ambitious work, while attention-based pain reframing must yield to the hard safety boundary created by high-intensity breath-holding and loss of consciousness. No settled contradiction is adopted. Medal counts, rankings, organizational history, medical findings, rescue timing, training loads, and result causality remain source-scoped; the episode's links between life choices and illness are retained as personal belief rather than medical causation.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndreaFuentes",
+        "AnitaAlvarez",
+        "AthleteCenteredPerformanceCulture",
+        "AthletePostRetirementIdentity",
+        "HighIntensityApneaSafety",
+        "PainAttentionReframing",
+        "ProcessFocusedPerformanceFeedback",
+        "ShekharNatarajan",
+        "TomorrowToday",
+        "USAArtisticSwimming",
+        "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981"
       ]
     }
   ],

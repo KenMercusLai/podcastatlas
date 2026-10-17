@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10630
+wiki_total_pages: 10633
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2759,6 +2759,9 @@ wiki_pages:
   - key: "AthleteSponsorshipStrategy"
     title: "Athlete Sponsorship Strategy"
     url: "/wiki/concepts/athletesponsorshipstrategy/"
+  - key: "AthleteCenteredPerformanceCulture"
+    title: "Athlete-Centered Performance Culture"
+    url: "/wiki/concepts/athletecenteredperformanceculture/"
   - key: "AthleticMasteryBranding"
     title: "Athletic Mastery Branding"
     url: "/wiki/concepts/athleticmasterybranding/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10630
+wiki_total_pages: 10633
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "PainOrientation"
     title: "Pain Orientation / 痛苦观"
     url: "/wiki/concepts/painorientation/"
+  - key: "PainAttentionReframing"
+    title: "Pain-Attention Reframing"
+    url: "/wiki/concepts/painattentionreframing/"
   - key: "PainAwareTrainingContinuity"
     title: "Pain-Aware Training Continuity"
     url: "/wiki/concepts/painawaretrainingcontinuity/"

@@ -37185,3 +37185,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-18] ingest | Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan
+
+Added source `defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981`; created [[AndreaFuentes]], [[AnitaAlvarez]], [[USAArtisticSwimming]], [[AthleteCenteredPerformanceCulture]], [[PainAttentionReframing]], and [[HighIntensityApneaSafety]]; and resynthesized [[TomorrowToday]], [[ShekharNatarajan]], [[AthletePostRetirementIdentity]], and [[ProcessFocusedPerformanceFeedback]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: elite standards can be joined to shared purpose, explanation, transparent conflict, process focus, and athlete independence, while attentional reframing must remain subordinate to the physiological and emergency-response risks of high-intensity breath-holding. No settled contradiction was adopted. Medal counts, organizational history, rescue timing, medical findings, training loads, result causality, and links between life choices and illness remain source-scoped or explicitly qualified.
+
+## [2026-10-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -15280,6 +15280,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/andingcommandery/"
     },
+    "AndreaFuentes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        }
+      ],
+      "updated": "2026-10-18",
+      "url": "/wiki/entities/andreafuentes/"
+    },
     "AndreaWulf": {
       "episode_count": 1,
       "show_count": 1,
@@ -17072,6 +17088,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/animationasmassart/"
+    },
+    "AnitaAlvarez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        }
+      ],
+      "updated": "2026-10-18",
+      "url": "/wiki/entities/anitaalvarez/"
     },
     "AnitaRamaswamy": {
       "episode_count": 8,
@@ -21790,10 +21822,26 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/atherosclerosispreventiontargets/"
     },
+    "AthleteCenteredPerformanceCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        }
+      ],
+      "updated": "2026-10-18",
+      "url": "/wiki/concepts/athletecenteredperformanceculture/"
+    },
     "AthletePostRetirementIdentity": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
@@ -21808,9 +21856,16 @@
           "show": "Huberman Lab",
           "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
           "url": "/wiki/sources/build-muscle-strength-forge-your-life-path-dorian-yates-scim3305811219/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-18",
       "url": "/wiki/concepts/athletepostretirementidentity/"
     },
     "AthleteSponsorshipStrategy": {
@@ -124255,6 +124310,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/highcontextintimacymiscommunication/"
     },
+    "HighIntensityApneaSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        }
+      ],
+      "updated": "2026-10-18",
+      "url": "/wiki/concepts/highintensityapneasafety/"
+    },
     "HighIntensityResistanceTraining": {
       "episode_count": 1,
       "show_count": 1,
@@ -207025,6 +207096,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/painasdistributedexperience/"
     },
+    "PainAttentionReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        }
+      ],
+      "updated": "2026-10-18",
+      "url": "/wiki/concepts/painattentionreframing/"
+    },
     "PainAwareTrainingContinuity": {
       "episode_count": 2,
       "show_count": 1,
@@ -222474,9 +222561,9 @@
       "url": "/wiki/concepts/procedurelesspoliticalpurge/"
     },
     "ProcessFocusedPerformanceFeedback": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1082295503 [SCIM1082295503].md",
@@ -222484,9 +222571,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
           "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-18",
       "url": "/wiki/concepts/processfocusedperformancefeedback/"
     },
     "ProcessOrientedLifeDesign": {
@@ -248283,9 +248377,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -248335,9 +248429,16 @@
           "show": "Tomorrow, Today",
           "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-18",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -275074,9 +275175,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -275126,9 +275227,16 @@
           "show": "Tomorrow, Today",
           "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-18",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {
@@ -278583,6 +278691,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/uno/"
+    },
+    "USAArtisticSwimming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+          "key": "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981",
+          "show": "Tomorrow, Today",
+          "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        }
+      ],
+      "updated": "2026-10-18",
+      "url": "/wiki/entities/usaartisticswimming/"
     },
     "USBorderPatrol": {
       "episode_count": 2,
