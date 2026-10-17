@@ -6627,6 +6627,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/accenture/"
     },
+    "AccessibleWineTasting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/accessiblewinetasting/"
+    },
     "AccessionKinshipContainment": {
       "episode_count": 1,
       "show_count": 1,
@@ -41415,6 +41431,70 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/champdemarsmassacre/"
     },
+    "Champagne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/entities/champagne/"
+    },
+    "ChampagneAppellationGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/champagneappellationgovernance/"
+    },
+    "ChampagneChinaLocalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/champagnechinalocalization/"
+    },
+    "ChampagneClimateAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/champagneclimateadaptation/"
+    },
     "ChanDrama": {
       "episode_count": 1,
       "show_count": 1,
@@ -68610,9 +68690,9 @@
       "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
     },
     "DeqinMeiliWineRegion": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lj-iFY788jLSfGA_YZhmES-9qb2g [lj-iFY788jLSfGA_YZhmES-9qb2g].md",
@@ -68620,9 +68700,16 @@
           "show": "忽左忽右",
           "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
           "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        },
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-10-17",
       "url": "/wiki/entities/deqinmeiliwineregion/"
     },
     "DerRingDesNibelungen": {
@@ -91801,6 +91888,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/familyseparationthroughparentalincarceration/"
     },
+    "FamilyWineryLongTermStewardship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/concepts/familywinerylongtermstewardship/"
+    },
     "FamineEntitlementFailure": {
       "episode_count": 6,
       "show_count": 2,
@@ -103775,9 +103878,9 @@
       "url": "/wiki/entities/fuwaihospital/"
     },
     "FuyouTiandi": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -103827,9 +103930,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 22: 爱、自由与上帝的沉默：从物理博士到传教士，法国神父包智光的信仰之旅",
           "url": "/wiki/sources/ai-ziyou-yu-shangdi-de-chenmo-cong-wuli-boshi-dao-chuanjiaoshi-faguo-shenfu-baozhiguang-de-xinyang-zhi-lu-f48bcfd2-4449-4441-a892-26971c783974/"
+        },
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-17",
       "url": "/wiki/entities/fuyoutiandi/"
     },
     "FuzhuleiRuodiChanyu": {
@@ -183829,6 +183939,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/mengjunibdadvocate/"
+    },
+    "MengLeiChampagne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+        }
+      ],
+      "updated": "2026-10-17",
+      "url": "/wiki/entities/mengleichampagne/"
     },
     "MengMinLateHan": {
       "episode_count": 1,
@@ -292698,9 +292824,9 @@
       "url": "/wiki/concepts/windrushnationalmemory/"
     },
     "Wine": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
@@ -292729,15 +292855,22 @@
           "show": "忽左忽右",
           "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
           "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        },
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-10-17",
       "url": "/wiki/entities/wine/"
     },
     "WineAsAgriculturalCulture": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
@@ -292752,9 +292885,16 @@
           "show": "The Rest Is History",
           "title": "666. Wine and the Birth of Civilisation",
           "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        },
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-17",
       "url": "/wiki/concepts/wineasagriculturalculture/"
     },
     "WinePrestigeClassificationSystem": {
@@ -292781,9 +292921,9 @@
       "url": "/wiki/concepts/wineprestigeclassificationsystem/"
     },
     "WineTerroir": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
@@ -292805,9 +292945,16 @@
           "show": "忽左忽右",
           "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
           "url": "/wiki/sources/507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g/"
+        },
+        {
+          "episode_file": "04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2 [04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2].md",
+          "key": "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+          "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-10-17",
       "url": "/wiki/concepts/wineterroir/"
     },
     "WineTradeCivilizationNetwork": {

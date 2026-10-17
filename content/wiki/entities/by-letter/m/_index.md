@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13569
+wiki_total_pages: 13571
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2051,6 +2051,9 @@ wiki_pages:
   - key: "MengHaoran"
     title: "孟浩然 / Meng Haoran"
     url: "/wiki/entities/menghaoran/"
+  - key: "MengLeiChampagne"
+    title: "孟磊 / Meng Lei (Champagne practitioner)"
+    url: "/wiki/entities/mengleichampagne/"
   - key: "MengYuLateHan"
     title: "孟郁 / Meng Yu (late Han)"
     url: "/wiki/entities/mengyulatehan/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1583
+topic_total_pages: 1585
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -361,6 +361,9 @@ topic_concepts:
   - key: "CerebellarPrediction"
     title: "Cerebellar Prediction"
     url: "/wiki/concepts/cerebellarprediction/"
+  - key: "ChampagneClimateAdaptation"
+    title: "Champagne Climate Adaptation / 香槟气候适应"
+    url: "/wiki/concepts/champagneclimateadaptation/"
   - key: "Chemosensation"
     title: "Chemosensation"
     url: "/wiki/concepts/chemosensation/"
@@ -4035,6 +4038,9 @@ topic_sources:
   - key: "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv"
     title: "EP87《稀缺》：如何设计一个让自己变聪明的系统"
     url: "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+  - key: "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2"
+    title: "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟"
+    url: "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
   - key: "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962"
     title: "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear"
     url: "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"

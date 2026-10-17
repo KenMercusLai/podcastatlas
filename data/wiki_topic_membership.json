@@ -22460,6 +22460,20 @@
       "url": "/topics/history/"
     }
   ],
+  "ChampagneAppellationGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ChampagneClimateAdaptation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ChancellorCenteredGovernance": [
     {
       "key": "history",
@@ -103836,6 +103850,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962": [

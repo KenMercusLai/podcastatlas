@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10623
+wiki_total_pages: 10628
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -557,6 +557,15 @@ wiki_pages:
   - key: "ChainRestaurantStandardization"
     title: "Chain Restaurant Standardization"
     url: "/wiki/concepts/chainrestaurantstandardization/"
+  - key: "ChampagneAppellationGovernance"
+    title: "Champagne Appellation Governance / 香槟原产地与行业治理"
+    url: "/wiki/concepts/champagneappellationgovernance/"
+  - key: "ChampagneChinaLocalization"
+    title: "Champagne China Localization / 香槟在中国的文化本土化"
+    url: "/wiki/concepts/champagnechinalocalization/"
+  - key: "ChampagneClimateAdaptation"
+    title: "Champagne Climate Adaptation / 香槟气候适应"
+    url: "/wiki/concepts/champagneclimateadaptation/"
   - key: "ChancellorCenteredGovernance"
     title: "Chancellor-Centered Governance / 宰相中心治理"
     url: "/wiki/concepts/chancellorcenteredgovernance/"

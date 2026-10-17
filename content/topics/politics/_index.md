@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3346
+topic_total_pages: 3347
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -676,6 +676,9 @@ topic_concepts:
   - key: "CentristFragmentationRunoffRisk"
     title: "Centrist Fragmentation Runoff Risk"
     url: "/wiki/concepts/centristfragmentationrunoffrisk/"
+  - key: "ChampagneAppellationGovernance"
+    title: "Champagne Appellation Governance / 香槟原产地与行业治理"
+    url: "/wiki/concepts/champagneappellationgovernance/"
   - key: "ChancellorCenteredGovernance"
     title: "Chancellor-Centered Governance / 宰相中心治理"
     url: "/wiki/concepts/chancellorcenteredgovernance/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟](sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2.md) — 蜉蝣天地对谈孟磊，以快乐和个人味觉为入口，连接香槟生产、风土、原产地治理、气候适应、中国本土化与家族酒庄长期主义。
 - [EP289 在安妮·卡森的“马戏团”课堂，拆掉文学的条条框框](sources/ep289-zai-anni-kasen-de-maxituan-ketang-chaidiao-wenxue-de-tiaotiaokuangkuang-lhqupidadktnqhxizmxzja9hkjhp.md) — Talk三联 with 李娇杨 and 徐金金 on Anne Carson's constraint-and-chance classroom, translation autonomy, material book form, independent publishing, and classical rewriting.
 - [CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer](sources/allin-e293-ch-allin-e293-ch.md) — All-In on CoreWeave refinancing and contract risk, AI software deflation, power scarcity, Anthropic IPO claims, specialized models, and disputed AI-safety narratives.
 - [Anatomy of a movie market](sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266.md) — Planet Money episode on Sundance, independent-film sales agents, demand signaling, buyer concentration, and the softer post-streaming-war acquisition market.
@@ -4746,6 +4747,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 
 ## Entities
+- [Champagne / 香槟](entities/Champagne.md) — 法国受保护的起泡酒产区与产品系统，连接农业、瓶中二次发酵、陈年、治理、奢侈品叙事、气候与文化传播。
+- [孟磊 / Meng Lei (Champagne practitioner)](entities/MengLeiChampagne.md) — 香槟从业者和中法文化中介，以消费者友好品鉴、专业服务、文化传播及云南慈中酒庄合作连接两地葡萄酒实践。
 - [安妮·卡森 / Anne Carson](entities/AnneCarson.md) — Poet, classicist, translator, teacher, and cross-media artist described through former-student testimony.
 - [李娇杨 / Li Jiaoyang](entities/LiJiaoyang.md) — Writer, artist, translator, and former Anne Carson student.
 - [徐金金 / Xu Jinjin](entities/XuJinjin.md) — Writer, artist, translator, and former Anne Carson student.
@@ -18390,6 +18393,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Accessible Wine Tasting / 无等级焦虑的葡萄酒品鉴](concepts/AccessibleWineTasting.md) — 让感官知识服务于愉悦、平衡、个人记忆和专业帮助，而非把术语、价格或权威变成消费者等级考试。
+- [Champagne Appellation Governance / 香槟原产地与行业治理](concepts/ChampagneAppellationGovernance.md) — 以受保护名称、边界、生产规则、产量协调、检查和利益相关方治理共同维持香槟的品质、稀缺性与长期信任。
+- [Champagne Climate Adaptation / 香槟气候适应](concepts/ChampagneClimateAdaptation.md) — 香槟区在升温下从成熟不足的阶段性改善转向高温、干旱和酸度流失风险，并通过采收、品种、种植、酿造与混酿调整。
+- [Champagne China Localization / 香槟在中国的文化本土化](concepts/ChampagneChinaLocalization.md) — 在保留法国生产者特色的同时，以中国味觉记忆、饮食、艺术和生活场景降低香槟的价格、场合与等级话语门槛。
+- [Family Winery Long-Term Stewardship / 家族酒庄的长期托付](concepts/FamilyWineryLongTermStewardship.md) — 把土地、家族名誉、定价、渠道、消费者信任和代际传承作为跨周期责任的酒庄治理模式。
 - [Constraint-Based Creative Writing Pedagogy / 规则与随机的创意写作教学](concepts/ConstraintBasedCreativeWritingPedagogy.md) — Uses rules, chance, action, and collaboration to make form discoverable without prescribing style.
 - [Translation as Creative Autonomy / 翻译作为创作自主](concepts/TranslationAsCreativeAutonomy.md) — Treats translation as entrusted creative judgment rather than mechanical equivalence.
 - [Book Form as Meaning / 书籍形式即意义](concepts/BookFormAsMeaning.md) — Treats page, image, handwriting, binding, and object form as carriers of literary meaning.

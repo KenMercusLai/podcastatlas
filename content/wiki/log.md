@@ -37169,3 +37169,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-17] ingest | Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟
+
+Added source `episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2`; created [[MengLeiChampagne|孟磊]], [[Champagne|香槟]], [[AccessibleWineTasting|无等级焦虑的葡萄酒品鉴]], [[ChampagneAppellationGovernance|香槟原产地与行业治理]], [[ChampagneClimateAdaptation|香槟气候适应]], [[ChampagneChinaLocalization|香槟在中国的文化本土化]], and [[FamilyWineryLongTermStewardship|家族酒庄的长期托付]]; and resynthesized [[FuyouTiandi|蜉蝣天地]], [[Wine|葡萄酒]], [[WineTerroir|葡萄酒风土]], [[WineAsAgriculturalCulture]], and [[DeqinMeiliWineRegion|德钦梅里葡萄酒产区]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Champagne's apparently light pleasure rests on long agricultural, technical, legal, and intergenerational work; expertise is most useful when it sharpens attention and service rather than ranking consumers; and its future depends on coordinated origin governance, climate adaptation, patient producer trust, and culturally equal localization in China. No settled contradiction was adopted. The title-body 孟蕾/孟磊 discrepancy is preserved explicitly, while import share, prices, aging rules, land and yield figures, market behavior, vintage judgments, and climate claims remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because this focused wine-system addition does not alter the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due, leaving zero pending ingests; refreshed artifacts validate 4,657 sources across 803 overview paragraphs and nine topics.
+
+## [2026-10-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

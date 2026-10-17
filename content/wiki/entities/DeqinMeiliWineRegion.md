@@ -4,7 +4,8 @@ type: entity
 tags: [place, wine, yunnan, terroir, china]
 sources:
   - 507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g
-last_updated: 2026-10-13
+  - episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2
+last_updated: 2026-10-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ The Deqin–Meili wine region is the northwestern [[Yunnan|Yunnan]] high-altitud
 
 The episode joins two histories in Deqin/Meili. French Catholic missionaries are said to have introduced modern grape growing and sacramental winemaking around Tibetan-border communities, leaving a trace around Cizhong Church. Contemporary production then connects local agriculture and employment with projects including Ao Yun under [[LVMH]] and the initially public-interest-oriented Xiao Ling.
 
-The guest's quality case rests on low latitude combined with high altitude, strong sunlight, and large day-night temperature differences: grapes may ripen while retaining acidity. The source does not establish a complete comparative dataset, and its “world-class” Chardonnay judgment remains tasting-based testimony.
+The first guest's quality case rests on low latitude combined with high altitude, strong sunlight, and large day-night temperature differences: grapes may ripen while retaining acidity. [[MengLeiChampagne|孟磊]] adds an operator's view from a Cizhong village partnership producing red and white wine. He emphasizes the absence of Ningxia-style winter vine burial, favorable altitude, climate, and sedimentary rock, but also remote access, fragmented parcels, mountain roads, landslides, weather exposure, and the need to make vineyard and aging decisions across years.
 
 ## Key Characteristics
 
@@ -28,6 +29,7 @@ The guest's quality case rests on low latitude combined with high altitude, stro
 - Contemporary production links local communities with domestic and multinational projects.
 - Guest assessment places some Chardonnay at a world-class quality level.
 - Institutional memory, market recognition, and expertise remain thinner than in Burgundy.
+- A Cizhong partnership adds an operating case in which remote roads, fragmented sites, landslide exposure, and high altitude raise management costs.
 
 ## Evidence
 
@@ -35,14 +37,16 @@ The guest's quality case rests on low latitude combined with high altitude, stro
 - Site conditions: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] identifies altitude, latitude, sunlight, day-night range, ripeness, and acidity as the regional case.
 - Producers and community: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] names Ao Yun and Xiao Ling while describing multinational investment and an employment-oriented origin story.
 - Potential and limits: [[507-putaojiu-mangpin-manhua-shentong-andelie-yanzhong-de-shijinsai-fengtu-yu-zhanggu-lj-ify788jlsfga_yzhmes-9qb2g]] pairs high quality claims with limited recognition and accumulated experience.
+- Operating conditions: [[episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2]] adds Cizhong red and white wine production, no reported winter burial, sedimentary rock, dispersed parcels, difficult roads, landslides, and long agricultural horizons.
 
 ## Qualifications
 
-The page records one practitioner's regional interpretation from a structured podcast summary. It does not independently verify vineyard boundaries, producer histories, comparative scores, long-run climate risk, yields, economics, labor effects, or the representativeness of the cited Chardonnay.
+The page records two practitioners' regional interpretations from structured podcast summaries. It does not independently verify vineyard boundaries, partnership or producer histories, geology, winter practice, comparative scores, long-run climate risk, yields, economics, labor effects, or the representativeness of cited wines. Difficulty may select for committed operators but does not itself cause quality.
 
 ## What Changed
 
 - Created a regional profile separating natural potential from institutional and evidentiary limits.
+- Added an operator-level Cizhong case and explicit logistics, parcel, landslide, and time-horizon constraints.
 
 ## Relationships
 
@@ -52,3 +56,4 @@ The page records one practitioner's regional interpretation from a structured po
 - [[Wine|Wine / 葡萄酒]] - agricultural and commercial product made in the region.
 - [[LVMH]] - parent group named in connection with Ao Yun.
 - [[AndelieWineTaster|安德烈]] - practitioner making the source-scoped quality assessment.
+- [[MengLeiChampagne|孟磊]] - practitioner describing a winery partnership and operating constraints in Cizhong.

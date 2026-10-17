@@ -6935,6 +6935,10 @@
     "title": "Accessible Programming Platform",
     "url": "/wiki/concepts/accessibleprogrammingplatform/"
   },
+  "AccessibleWineTasting": {
+    "title": "Accessible Wine Tasting / 无等级焦虑的葡萄酒品鉴",
+    "url": "/wiki/concepts/accessiblewinetasting/"
+  },
   "AccessionKinshipContainment": {
     "title": "继位亲族安抚与隔离 / Accession Kinship Containment",
     "url": "/wiki/concepts/accessionkinshipcontainment/"
@@ -17946,6 +17950,22 @@
   "ChampDeMarsMassacre": {
     "title": "Champ de Mars Massacre",
     "url": "/wiki/entities/champdemarsmassacre/"
+  },
+  "Champagne": {
+    "title": "Champagne / 香槟",
+    "url": "/wiki/entities/champagne/"
+  },
+  "ChampagneAppellationGovernance": {
+    "title": "Champagne Appellation Governance / 香槟原产地与行业治理",
+    "url": "/wiki/concepts/champagneappellationgovernance/"
+  },
+  "ChampagneChinaLocalization": {
+    "title": "Champagne China Localization / 香槟在中国的文化本土化",
+    "url": "/wiki/concepts/champagnechinalocalization/"
+  },
+  "ChampagneClimateAdaptation": {
+    "title": "Champagne Climate Adaptation / 香槟气候适应",
+    "url": "/wiki/concepts/champagneclimateadaptation/"
   },
   "ChanDrama": {
     "title": "《蝉》 / Chan",
@@ -32546,6 +32566,10 @@
   "FamilySupportedAspiration": {
     "title": "Family-Supported Aspiration / 家庭承托的愿望",
     "url": "/wiki/concepts/familysupportedaspiration/"
+  },
+  "FamilyWineryLongTermStewardship": {
+    "title": "Family Winery Long-Term Stewardship / 家族酒庄的长期托付",
+    "url": "/wiki/concepts/familywinerylongtermstewardship/"
   },
   "FamilyWorldSimulator": {
     "title": "Family World Simulator",
@@ -59646,6 +59670,10 @@
   "MengJunIBDAdvocate": {
     "title": "Meng Jun / 孟君 (IBD Advocate)",
     "url": "/wiki/entities/mengjunibdadvocate/"
+  },
+  "MengLeiChampagne": {
+    "title": "孟磊 / Meng Lei (Champagne practitioner)",
+    "url": "/wiki/entities/mengleichampagne/"
   },
   "MengMinLateHan": {
     "title": "孟敏 / Meng Min (late Han)",
@@ -103886,6 +103914,10 @@
   "episode-229-diao-yi-tiao-da-yu-8209942018-431605": {
     "title": "Episode 229: 钓一条大鱼",
     "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+  },
+  "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2": {
+    "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
+    "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
   },
   "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962": {
     "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",

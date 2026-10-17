@@ -5,7 +5,8 @@ tags: [wine, agriculture, food, culture, material-history]
 sources:
   - sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156
   - 666-wine-and-the-birth-of-civilisation-glt1414718476
-last_updated: 2026-09-12
+  - episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2
+last_updated: 2026-10-17
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ Wine as agricultural culture is the frame for treating [[Wine|wine / 葡萄酒]]
 
 The sensory-food-writing branch pulls wine back to material conditions: grapes, soil, weather, growing conditions, fermentation, logistics, market entry, and the people who farm, make, sell, and drink it. It makes a bottle an archive where geography, vintage, grape variety, winemaker habit, consumer education, restaurant pairing, and personal memory are compressed into a drinkable form.
 
-The long-history branch deepens the agricultural frame historically. Wine begins with domesticated vines and archaeological residues, but it becomes civilizational when agriculture is paired with presses, amphorae, shipping, storage, abbey vineyards, glass bottles, cork, and classification. The agricultural frame therefore does not erase prestige; it explains the material base that prestige, ritual, and commerce repeatedly build on top of.
+The long-history branch deepens the agricultural frame historically. Wine begins with domesticated vines and archaeological residues, but it becomes civilizational when agriculture is paired with presses, amphorae, shipping, storage, abbey vineyards, glass bottles, cork, and classification. The [[Champagne|Champagne]] branch makes the time structure especially visible: perennial vines, hand harvest, two fermentations, lees aging, blending, pressure-resistant bottles, and inventory delay produce a light social experience through long material commitment. The agricultural frame therefore does not erase prestige; it explains the base that prestige, ritual, and commerce build on top of.
 
 ## Key Claims
 
@@ -28,6 +29,7 @@ The long-history branch deepens the agricultural frame historically. Wine begins
 - The agricultural frame lowers status anxiety because the object becomes learnable through ordinary curiosity rather than only expert hierarchy.
 - Wine's material base needs infrastructure: presses, amphorae, river routes, abbey vineyards, bottles, corks, and storage.
 - This frame does not deny status markets; scarcity, classification, and rare-bottle prestige can detach wine from its material base.
+- Climate adaptation and intergenerational stewardship belong to production because vines, sites, skills, and reputation operate across many seasons.
 
 ## Evidence
 
@@ -36,15 +38,17 @@ The long-history branch deepens the agricultural frame historically. Wine begins
 - Archaeological and production base: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] locates early wine in Georgian pottery evidence and Armenia's Areni winery, including press, skins, seeds, and vines.
 - Transport and storage infrastructure: [[666-wine-and-the-birth-of-civilisation-glt1414718476]] follows amphorae, post-Roman river routes, abbeys, English bottles, cork, and corkscrews as material conditions for wine's spread and preservation.
 - Prestige detachment: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] uses [[SourGrapesDocumentary|《酸葡萄》]] to show fraud risk in prestige collecting, while [[666-wine-and-the-birth-of-civilisation-glt1414718476]] shows classification and elite demand turning material production into rank.
+- Champagne time and labor: [[episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2]] connects vines, hand harvest, bottle fermentation, aging, packaging, blending, climate, and family succession to cost and pleasure.
 
 ## Counterevidence & Qualifications
 
-The agricultural frame is a corrective, not a claim that wine is free of status. Both bounded sources show prestige returning through gifts, brands, restaurant hierarchies, rare-bottle fraud, estate names, growth rankings, and terroir marketing. The concept also does not settle archaeological priority or viticulture outside the sources' coverage.
+The agricultural frame is a corrective, not a claim that wine is free of status. The bounded sources show prestige returning through gifts, brands, restaurant hierarchies, rare-bottle fraud, estate names, growth rankings, protected names, and terroir marketing. The concept does not settle archaeological priority, Champagne law and costs, climate outcomes, or viticulture outside the sources' coverage.
 
 ## What Changed
 
 - Migrated the page to `synthesis-v1`.
 - Added deep-history material infrastructure: early residues, winery scale, amphorae, river routes, abbey vineyards, bottles, cork, and classification.
+- Added Champagne's multi-year labor, fermentation, aging, climate, and succession cycle.
 
 ## Related Concepts
 
@@ -57,3 +61,5 @@ The agricultural frame is a corrective, not a claim that wine is free of status.
 - [[EverydayFoodCultureHistory]] - broader food-history frame extended by this concept.
 - [[FoodWritingAsLifeExperience]] - writing-side consequence of treating taste as lived material experience.
 - [[FlavorAsSelfKnowledge]] - personal endpoint of agricultural and sensory attention.
+- [[Champagne]] - bottle-fermented case where agricultural time produces celebratory lightness.
+- [[FamilyWineryLongTermStewardship]] - intergenerational governance of land, name, channels, and succession.
