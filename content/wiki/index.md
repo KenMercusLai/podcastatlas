@@ -4747,8 +4747,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [十月广播电视报：我已经不再是我，而你却依然是你](sources/shi-yue-guangbo-dianshibao-wo-yijing-buzai-shi-wo-er-ni-que-yiran-shi-ni-gkwridooptsjbelolwtoxdnu.md) — 展开讲讲以刘欢、影视剧和综艺连接公共声音、历史世界观、创伤与制度、竞赛指标压缩及文化行业吸引力。
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 - [Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981.md) — Tomorrow Today interview on artistic swimming, process-focused excellence, athlete-centered coaching, retirement, team trust, and high-intensity apnea safety.
+- [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm.md) — 十字路口Crossing interview with Trigg's team on three startup pivots, general-agent ecosystem distribution, data and tool aggregation, narrow operational loops, multi-agent work, and the limits of zero-human companies.
 
 ## Entities
+- [Trigg](entities/Trigg.md) — Agent-facing marketplace aggregating real-time data, professional APIs, and generative-media tools behind metered cross-harness access.
+- [Jason (Trigg)](entities/JasonTrigg.md) — Trigg founder using operating experiments, platform distribution, and build-versus-embed decisions to guide repeated pivots.
+- [石天鑫 / Shi Tianxin](entities/ShiTianxin.md) — Trigg founding engineer using parallel coding agents, cloud/local sandboxes, and primary-agent delegation.
+- [Super Design](entities/SuperDesign.md) — Open-source design agent used to test organic distribution, plugin-channel growth, and AI-assisted operations.
+- [Coolit](entities/Coolit.md) — Discontinued automated-growth agent whose data and API routing layer became the basis of Trigg.
 - [Andrea Fuentes](entities/AndreaFuentes.md) — Spanish Olympic artistic swimmer and coach connecting process focus, athlete autonomy, team transparency, reinvention, and emergency action.
 - [Anita Alvarez](entities/AnitaAlvarez.md) — American artistic swimmer represented through the Budapest blackout, rescue, medical investigation, and return to elite competition.
 - [USA Artistic Swimming](entities/USAArtisticSwimming.md) — American national program described through a shared-purpose cultural reset and reported return to world and Olympic medals.
@@ -24240,7 +24246,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wholesale As Marketing](concepts/WholesaleAsMarketing.md) — Channel pattern where third-party retail placement drives discovery, trust, and later owned-channel purchasing, not only immediate wholesale revenue.
 - [Trust-Based Distribution](concepts/TrustBasedDistribution.md) — Distribution pattern where products reach buyers through people, media, institutions, or communities that already carry credibility.
 - [Safety Product Credibility](concepts/SafetyProductCredibility.md) — Need for protective products to be validated by trusted users, tests, institutions, or professionals before safety claims become believable.
-- [AI Application Survival Strategy](concepts/AIApplicationSurvivalStrategy.md) — Operator frame for independent AI application companies using speed, cash flow, low positive margin, user scale, workflow focus, and organization repair to survive model shocks.
+- [AI Application Survival Strategy](concepts/AIApplicationSurvivalStrategy.md) — Preserves cash, learning, distribution, workflow value, and strategic optionality while testing whether model progress strengthens or erases an application.
 - [Fixed Price Engineering Risk](concepts/FixedPriceEngineeringRisk.md) — RB211 pattern where fixed price, penalties, ambitious performance, and immature technology convert engineering delay into solvency risk.
 - [Airframe Engine Lock-In](concepts/AirframeEngineLockIn.md) — L-1011/RB211 dependency where the airframe could not simply change engine suppliers after delay and cost trouble emerged.
 - [Industrial Capability Bailout](concepts/IndustrialCapabilityBailout.md) — State rescue pattern where strategic engineering capability is preserved even as a failing company is restructured.
@@ -28289,7 +28295,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.
-- [Agent Marketplace](concepts/AgentMarketplace.md) — Market pattern where differentiated agents with context, memory, skills, and proprietary experience can collaborate or transact.
+- [Agent Marketplace](concepts/AgentMarketplace.md) — Infrastructure for agents to discover, compare, invoke, pay for, or exchange differentiated agents, memory, skills, data, and APIs.
 - [Agent Native Software](concepts/AgentNativeSoftware.md) — Software whose core substrate is an agent rather than a traditional app with an AI feature attached.
 - [Agent-Optimized CLI](concepts/AgentOptimizedCLI.md) — Command-line interface design pattern for agent-callable software: pipeable, non-interactive, idempotent, structured, and human-debuggable.
 - [Agent Permission Boundaries](concepts/AgentPermissionBoundaries.md) — Practical limits on which tools, accounts, data, routines, and actions an agent can use automatically or only with explicit human instruction.
@@ -28394,7 +28400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
 - [Hong Kong Market Structure](concepts/HongKongMarketStructure.md) — E159 frame for Hong Kong equities as an optional offshore market with scarce liquidity, segmented buyers, thin ETF coverage, and IPO absorption.
-- [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
+- [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Combines bounded agent execution with human objectives, permissions, judgment, verification, and responsibility.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation, automation, and decision organization but cannot replace situated judgment, clinical context, permission choices, or responsibility.
 - [Independent Agent Vendor](concepts/IndependentAgentVendor.md) — Proposed successor to independent software vendors, building specialized enterprise agents for workflow, industry, or role-specific work.
 - [Independent Investment Consulting](concepts/IndependentInvestmentConsulting.md) — Advice-fee model focused on portfolio design, risk explanation, and long-term decision support rather than product distribution commissions.
@@ -28433,7 +28439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
 - [Real-Time Monetary Policy Data](concepts/RealTimeMonetaryPolicyData.md) — High-frequency private and administrative signals used to supplement lagging official statistics under transparency and representativeness constraints.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
-- [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Coordinated use of multiple agents for specialized work, cross-checking, parallel exploration, and governed handoffs.
+- [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Coordinates specialized or peer agents through explicit roles, shared state, verification, task claiming, and human review.
 - [Agent-to-Agent Prompting](concepts/AgentToAgentPrompting.md) — Orchestration pattern where one agent's output or critique becomes another agent's input without a human composing every intermediate prompt.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models or open weights released widely enough to support downstream adoption, fine-tuning, ecosystem influence, and strategic substitution.
 - [Open Web Traffic Decline](concepts/OpenWebTrafficDecline.md) — Shift of content, user intent, and discovery from crawlable web pages into closed or semi-closed app ecosystems.
@@ -28473,7 +28479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
 - [RMB Exchange Rate Policy](concepts/RMBExchangeRatePolicy.md) — Managed-stability frame for RMB/USD policy balancing capital flows, exports, and investor currency risk.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
-- [Routine Agent Automation](concepts/RoutineAgentAutomation.md) — Turning repeated personal or small-team work into scheduled, skill-driven agent routines.
+- [Routine Agent Automation](concepts/RoutineAgentAutomation.md) — Converts recurring bounded work into reusable or scheduled loops with checks, permissions, recovery, and escalation.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
 - [Savings-Style Insurance](concepts/SavingsStyleInsurance.md) — Long-term annuity, participating, and insurance-saving products judged by cash flow, goals, liquidity, and guarantees.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2280
+topic_total_pages: 2283
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4391,6 +4391,9 @@ topic_entities:
   - key: "JaredFriedman"
     title: "Jared Friedman"
     url: "/wiki/entities/jaredfriedman/"
+  - key: "JasonTrigg"
+    title: "Jason (Trigg)"
+    url: "/wiki/entities/jasontrigg/"
   - key: "JasonFurman"
     title: "Jason Furman"
     url: "/wiki/entities/jasonfurman/"
@@ -5771,6 +5774,9 @@ topic_entities:
   - key: "ShengshiInvestmentAcademy"
     title: "盛世投资研习院"
     url: "/wiki/entities/shengshiinvestmentacademy/"
+  - key: "ShiTianxin"
+    title: "石天鑫 / Shi Tianxin"
+    url: "/wiki/entities/shitianxin/"
   - key: "ShiHuiFuneralProfessional"
     title: "石慧 / Shi Hui (funeral professional)"
     url: "/wiki/entities/shihuifuneralprofessional/"
@@ -6828,6 +6834,9 @@ topic_sources:
   - key: "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo"
     title: "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来"
     url: "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+  - key: "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm"
+    title: "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg"
+    url: "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
   - key: "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1"
     title: "期权这张饼，为什么越来越难吃了？"
     url: "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"

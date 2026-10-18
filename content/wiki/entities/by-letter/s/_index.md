@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13576
+wiki_total_pages: 13581
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1886,6 +1886,9 @@ wiki_pages:
   - key: "SuperBowlLightFood"
     title: "Super Bowl / 超级碗（轻食品牌）"
     url: "/wiki/entities/superbowllightfood/"
+  - key: "SuperDesign"
+    title: "Super Design"
+    url: "/wiki/entities/superdesign/"
   - key: "SuperDry"
     title: "Super Dry"
     url: "/wiki/entities/superdry/"
@@ -2831,6 +2834,9 @@ wiki_pages:
   - key: "ShichengWarringStates"
     title: "石城 / Shicheng"
     url: "/wiki/entities/shichengwarringstates/"
+  - key: "ShiTianxin"
+    title: "石天鑫 / Shi Tianxin"
+    url: "/wiki/entities/shitianxin/"
   - key: "ShiFenWesternHan"
     title: "石奋 / Shi Fen (Western Han)"
     url: "/wiki/entities/shifenwesternhan/"

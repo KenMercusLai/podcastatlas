@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13576
+wiki_total_pages: 13581
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "JasonArticulerAI"
     title: "Jason (Articuler.ai)"
     url: "/wiki/entities/jasonarticulerai/"
+  - key: "JasonTrigg"
+    title: "Jason (Trigg)"
+    url: "/wiki/entities/jasontrigg/"
   - key: "Jason"
     title: "Jason / 伊阿宋"
     url: "/wiki/entities/jason/"

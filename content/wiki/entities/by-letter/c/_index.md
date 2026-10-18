@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13576
+wiki_total_pages: 13581
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1547,6 +1547,9 @@ wiki_pages:
   - key: "Cooley"
     title: "Cooley"
     url: "/wiki/entities/cooley/"
+  - key: "Coolit"
+    title: "Coolit"
+    url: "/wiki/entities/coolit/"
   - key: "Coolpad"
     title: "Coolpad"
     url: "/wiki/entities/coolpad/"

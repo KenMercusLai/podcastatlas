@@ -968,9 +968,9 @@
       "url": "/wiki/concepts/aianswersourceattribution/"
     },
     "AIApplicationSurvivalStrategy": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
@@ -985,9 +985,16 @@
           "show": "42章经",
           "title": "这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason",
           "url": "/wiki/sources/lnvlrnkk-mvyhiy31eq-gw4qopje/"
+        },
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
         }
       ],
-      "updated": "2026-10-18",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/aiapplicationsurvivalstrategy/"
     },
     "AIArtificialIntelligenceFilm": {
@@ -9700,6 +9707,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/agentevaluationbenchmarks/"
+    },
+    "AgentMarketplace": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller [lg4SPHlAUnrJuULqRaXS_1Gc5ufZ].md",
+          "key": "142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller",
+          "url": "/wiki/sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz/"
+        },
+        {
+          "episode_file": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC [liiv-fKcDolfb06hKOyz0IX3feJY].md",
+          "key": "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy",
+          "show": "42章经",
+          "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
+          "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
+        },
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/agentmarketplace/"
     },
     "AgentOrganizationalCulture": {
       "episode_count": 2,
@@ -57288,6 +57325,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cooley/"
+    },
+    "Coolit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/coolit/"
     },
     "CoordinationTax": {
       "episode_count": 1,
@@ -130938,9 +130991,9 @@
       "url": "/wiki/entities/hulanstandup/"
     },
     "HumanAgentCollaboration": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 9,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
@@ -131046,9 +131099,16 @@
           "show": "42章经",
           "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
           "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
+        },
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
         }
       ],
-      "updated": "2026-08-10",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/humanagentcollaboration/"
     },
     "HumanAuthorizedAutonomousWeapons": {
@@ -144293,6 +144353,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/jasoncowley/"
+    },
+    "JasonTrigg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/jasontrigg/"
     },
     "JavierMilei": {
       "episode_count": 2,
@@ -192342,9 +192418,9 @@
       "url": "/wiki/entities/mulan2020film/"
     },
     "MultiAgentCollaboration": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 7,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -192408,9 +192484,16 @@
           "show": "Data Science With Sam",
           "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
           "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+        },
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/multiagentcollaboration/"
     },
     "MultiArchiveConflictHistory": {
@@ -239058,6 +239141,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/roundup/"
     },
+    "RoutineAgentAutomation": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️ [lnTWHOXpI433ptKe-nHOHb_5lbPZ].md",
+          "key": "ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz",
+          "show": "硬地骇客",
+          "title": "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️",
+          "url": "/wiki/sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz/"
+        },
+        {
+          "episode_file": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维-来自小白、创业者和工程师不同视角的讨论 (1) [6642-1].md",
+          "key": "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1",
+          "show": "枫言枫语",
+          "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",
+          "url": "/wiki/sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1/"
+        },
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/routineagentautomation/"
+    },
     "RoyBaumeister": {
       "episode_count": 1,
       "show_count": 1,
@@ -249789,6 +249902,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/shiqingxiakexing/"
+    },
+    "ShiTianxin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/shitianxin/"
     },
     "ShiXianWesternHan": {
       "episode_count": 9,
@@ -263901,6 +264030,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/supercreatorportfoliomodel/"
     },
+    "SuperDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/superdesign/"
+    },
     "SuperSlowJogging": {
       "episode_count": 1,
       "show_count": 1,
@@ -277393,6 +277538,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/tributesystemeconomicincentive/"
+    },
+    "Trigg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
+          "key": "xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm",
+          "show": "十字路口Crossing",
+          "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
+          "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/trigg/"
     },
     "TrinityNuclearTest": {
       "episode_count": 1,

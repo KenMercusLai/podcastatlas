@@ -37186,10 +37186,18 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-19] ingest | 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
+
+Added source `xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm`; created [[Trigg]], [[JasonTrigg|Jason (Trigg)]], [[ShiTianxin|石天鑫]], [[SuperDesign]], and [[Coolit]]; and resynthesized [[AIApplicationSurvivalStrategy]], [[AgentMarketplace]], [[HumanAgentCollaboration]], [[RoutineAgentAutomation]], and [[MultiAgentCollaboration]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: general agents can compress shallow vertical applications while creating distribution and infrastructure opportunities around real-time data, professional APIs, cross-harness portability, and agent-facing marketplaces; narrow support, repair, monitoring, and risk loops automate more readily than innovation or growth; and parallel-agent work shifts people toward objectives, orchestration, verification, and judgment. No settled contradiction was adopted. The title/body Treg–Trigg spelling difference is preserved, while star counts, revenue multiples, retention, automation outcomes, supplier quality, model comparisons, and the proposed feedback moat remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because this focused application-strategy case deepens the existing agent and application-layer map without changing its global current-state judgment. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,660 sources across 804 overview paragraphs and nine topics.
+
 ## [2026-10-18] ingest | Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan
 
 Added source `defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981`; created [[AndreaFuentes]], [[AnitaAlvarez]], [[USAArtisticSwimming]], [[AthleteCenteredPerformanceCulture]], [[PainAttentionReframing]], and [[HighIntensityApneaSafety]]; and resynthesized [[TomorrowToday]], [[ShekharNatarajan]], [[AthletePostRetirementIdentity]], and [[ProcessFocusedPerformanceFeedback]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: elite standards can be joined to shared purpose, explanation, transparent conflict, process focus, and athlete independence, while attentional reframing must remain subordinate to the physiological and emergency-response risks of high-intensity breath-holding. No settled contradiction was adopted. Medal counts, organizational history, rescue timing, medical findings, training loads, result causality, and links between life choices and illness remain source-scoped or explicitly qualified.
 
 ## [2026-10-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
