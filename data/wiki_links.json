@@ -32243,6 +32243,10 @@
     "title": "FUBU",
     "url": "/wiki/entities/fubu/"
   },
+  "FXSenshiKurumi": {
+    "title": "《FX战士久留美》 / FX Senshi Kurumi",
+    "url": "/wiki/entities/fxsenshikurumi/"
+  },
   "FaXiongLateHan": {
     "title": "法雄 / Fa Xiong (late Han)",
     "url": "/wiki/entities/faxionglatehan/"
@@ -34734,6 +34738,10 @@
   "ForeignCorruptPracticesAct": {
     "title": "Foreign Corrupt Practices Act",
     "url": "/wiki/concepts/foreigncorruptpracticesact/"
+  },
+  "ForeignExchangeMarginTrading": {
+    "title": "Foreign Exchange Margin Trading / 外汇保证金交易",
+    "url": "/wiki/concepts/foreignexchangemargintrading/"
   },
   "ForeignRelativeCourtPolitics": {
     "title": "Foreign-Relative Court Politics / 楚系外戚政治",
@@ -89147,6 +89155,10 @@
     "title": "Trading Company Investment Model",
     "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
   },
+  "TradingOutcomeBias": {
+    "title": "Trading Outcome Bias / 交易结果偏误",
+    "url": "/wiki/concepts/tradingoutcomebias/"
+  },
   "TradingProbabilityCalibration": {
     "title": "Trading Probability Calibration / 交易概率校准",
     "url": "/wiki/concepts/tradingprobabilitycalibration/"
@@ -103950,6 +103962,10 @@
   "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8": {
     "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
     "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+  },
+  "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly": {
+    "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+    "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
   },
   "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847": {
     "title": "Episode 223: 事物变成其他事物",

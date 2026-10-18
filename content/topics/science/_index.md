@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1585
+topic_total_pages: 1586
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2431,6 +2431,9 @@ topic_concepts:
   - key: "TourismResourceProtectionFunding"
     title: "Tourism Resource Protection Funding"
     url: "/wiki/concepts/tourismresourceprotectionfunding/"
+  - key: "TradingOutcomeBias"
+    title: "Trading Outcome Bias / 交易结果偏误"
+    url: "/wiki/concepts/tradingoutcomebias/"
   - key: "TragicModernity"
     title: "Tragic Modernity"
     url: "/wiki/concepts/tragicmodernity/"

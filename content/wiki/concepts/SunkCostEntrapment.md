@@ -2,67 +2,63 @@
 title: "沉没成本困局 / Sunk Cost Entrapment"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [psychology, relationships, decision-making, court-politics]
+tags: [psychology, relationships, decision-making, court-politics, investing]
 sources:
   - zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id
   - lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2
-last_updated: 2026-09-11
+  - ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly
+last_updated: 2026-10-19
 ---
+
+# 沉没成本困局 / Sunk Cost Entrapment
 
 ## Definition
 
-沉没成本困局 / Sunk Cost Entrapment is the pattern in which prior investment of money, time, status, intimacy, or hope makes a person continue a losing relationship or strategy because exit would force them to recognize the earlier loss.
+Sunk cost entrapment is the pattern in which prior investment of money, time, status, intimacy, identity, or hope makes continued commitment feel preferable to exit even though the past cost cannot be recovered by the present decision.
 
 ## Current Synthesis
 
-Hanji 556 defines the pattern through [[EmpressXuWesternHan|废后许氏]]'s dealings with [[ChunyuZhangWesternHan|淳于长]]. After losing ordinary access to [[HanChengdi|汉成帝]], Empress Xu tries to regain status through her sister Xu Mi and Chunyu Zhang. Chunyu Zhang accepts money, carriages, garments, and other valuables while promising a future restoration that the host treats as politically empty.
+Hanji 556 defines the extractive relationship version through [[EmpressXuWesternHan|废后许氏]] and [[ChunyuZhangWesternHan|淳于长]]. Isolation and hope make repeated payments to a false restoration channel harder to stop because exit would force recognition that earlier spending and humiliation produced nothing.
 
-The episode's synthesis is not merely that Empress Xu misjudges Chunyu Zhang once. Her problem deepens because every additional payment raises the psychological cost of stopping: abandoning the channel would mean admitting the previous spending and humiliation produced nothing. The pattern becomes especially dangerous under power imbalance because the exploited person may also fear that open rupture will bring retaliation or final loss of hope.
+The [[XiaoAoJiangHu|《笑傲江湖》]] source extends the mechanism to identity-protective loyalty. [[YueLingshanJinYong|岳灵珊]]'s teaching, defense, marriage, hope, and public life choice make disconfirming evidence threaten her account of herself as well as the relationship.
 
-The [[XiaoAoJiangHu|《笑傲江湖》]] relationship episode extends the pattern from extractive exchange to identity-protective loyalty. [[YueLingshanJinYong|岳灵珊]] has invested teaching, defense, marriage, hope, and a public life choice in [[LinPingzhiJinYong|林平之]]. Acknowledging that he may not love her, or that the choice has become destructive, would therefore revise not only the relationship's future but the meaning of her past and her judgment of herself.
-
-The two cases should not be collapsed. Empress Xu is presented as repeatedly paying into a false promise under severe court isolation; Yue Lingshan's attachment includes affection, incomplete knowledge, sympathy, social expectation, and danger. Sunk cost can help explain why disconfirming evidence is reinterpreted, but it does not prove irrationality, eliminate love, or make safe exit materially available.
+EP95 adds trading loss chasing. An unrealized or realized loss does not create a claim on future market gains, but the goal of “earning it back” can turn new labor income, borrowed funds, or a moved stop into fresh exposure. Across all three domains, the mechanism is strongest when exit threatens hope, self-judgment, or the meaning of prior sacrifice.
 
 ## Key Claims
 
-- Prior investment can distort present judgment by making exit feel like wasting everything already spent.
-- False future promises become stronger when the victim has few alternative channels for verification or appeal.
-- Sunk cost entrapment can coexist with coercive power imbalance, making continued compliance feel safer than confrontation.
-- The pattern is recognizable when one side keeps accepting resources while offering vague hope, belittlement, delay, or no concrete return.
-- Stop-loss judgment requires evaluating present prospects rather than defending past investment.
-- Prior investment can defend an identity or life narrative as well as money, status, or a promised outcome.
+- Past cost is irreversible and should not by itself determine the next commitment.
+- Few alternative channels and weak verification can make false future promises unusually powerful.
+- Sunk cost can defend identity and life narrative as well as money or status.
+- Loss chasing creates a new risk; it does not logically reverse the prior loss.
+- Power imbalance, coercion, incomplete information, and unsafe exit can coexist with sunk-cost pressure.
+- Stop-loss judgment evaluates present prospects and future downside rather than vindicating past investment.
 
 ## Evidence
 
-Prior investment pressure:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Empress Xu repeatedly gives Chunyu Zhang money and goods over years while waiting for promised restoration.
+### Extractive promise under isolation
+- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Empress Xu repeatedly gives Chunyu Zhang valuables while waiting for a restoration promise the host treats as empty.
 
-False future promise:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Chunyu Zhang claims he can help make Empress Xu "left empress," which the host treats as an empty lure rather than a realistic political plan.
+### Identity-protective relationship investment
+- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] interprets Yue Lingshan's continued defense of Lin Pingzhi through care, marriage, sympathy, incomplete knowledge, and the cost of admitting that a life-defining choice may have failed.
 
-Narrowed verification channels:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Empress Xu cannot see Chengdi directly and therefore depends on a man who claims access to him.
-
-Stop-loss lesson:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] extends the case into a modern warning about relationships that consume resources while giving no healthy response or reciprocal commitment.
-
-Identity-protective romantic investment:
-- [[lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2]] interprets Yue Lingshan's continued defense of Lin Pingzhi through teaching, marriage, hope, sympathy, incomplete knowledge, and the cost of admitting that a life-defining choice may have failed.
+### Trading loss chasing
+- [[ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly|EP95]] treats the need to win back a family loss, reinvest labor income, or move a stop as ways past loss can create new market exposure.
 
 ## Counterevidence & Qualifications
 
-This concept should not be used to claim that every delayed exit is irrational. A person may continue because alternatives are genuinely dangerous, information is incomplete, attachment remains real, or material and social constraints are binding. In Hanji 556, Empress Xu's exact inner motives remain source-scoped; in the fictional relationship case, Yue Lingshan's knowledge, regret, love, and available exits remain disputed. Sunk cost is an interpretive mechanism, not a diagnosis or a complete account of either person's choice.
+Delayed exit is not automatically irrational. A person may face danger, incomplete information, genuine attachment, illiquidity, transaction cost, or a still-positive forward prospect. Empress Xu's exact motives remain source-scoped; Yue Lingshan's knowledge and available exits remain disputed; and a losing trade may sometimes recover for reasons independent of the prior loss. Sunk cost is an interpretive mechanism, not a clinical diagnosis or proof that every continued commitment is mistaken.
 
 ## What Changed
 
-- Extended the concept from material and status investment to defense of relational identity and life narrative.
-- Distinguished sunk-cost pressure from proof that attachment is unreal or exit is safely available.
+- Extended the concept from court extraction and relationship identity to trading loss chasing.
+- Distinguished recovering emotionally from a prior loss from adding new financial exposure to reverse it.
+- Added moved stops, reinvested labor income, and borrowed money as possible escalation channels.
 
 ## Related Concepts
 
-- [[PsychologicalAbuseRecognition|精神虐待识别]] - recognition frame for nonphysical harm, belittlement, and coercive dependency.
-- [[StructuralPowerImbalance|Structural Power Imbalance]] - condition that makes exit and confrontation materially risky.
-- [[PowerCenterProximityAdvantage|权力中心接近优势]] - access advantage that makes false promises harder for outsiders to verify.
-- [[PsychologicalBoundaryProtection|Psychological Boundary Protection]] - response practice after the exploitative pattern becomes legible.
-- [[RelationalSelfConceptSelection]] - explains why leaving can threaten a valued identity as well as a relationship.
-- [[FictionalRelationshipCompatibilityReading]] - separates prior investment and sacrifice from current reciprocity and fit.
+- [[TradingOutcomeBias]] - lucky recovery can falsely validate continued commitment.
+- [[StopLossDiscipline]] - evaluates the forward risk after a thesis or rule fails.
+- [[BehavioralInvestingBiases]] - broader investing context for loss aversion and confirmation seeking.
+- [[PsychologicalAbuseRecognition|精神虐待识别]] - relationship context for empty promises and resource extraction.
+- [[StructuralPowerImbalance]] - condition that can make exit materially unsafe.
+- [[RelationalSelfConceptSelection]] - explains why leaving can threaten identity as well as attachment.

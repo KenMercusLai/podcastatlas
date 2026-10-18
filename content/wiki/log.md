@@ -37201,3 +37201,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来
+
+Added source `ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly`; created [[FXSenshiKurumi|《FX战士久留美》]], [[ForeignExchangeMarginTrading|外汇保证金交易]], and [[TradingOutcomeBias|交易结果偏误]]; and resynthesized [[MarginTradingForcedSelling]], [[CarryTradeUnwind]], [[YenCarryTrade]], [[SunkCostEntrapment|沉没成本困局]], and [[StopLossDiscipline]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: leverage turns currency movement into a collateral deadline; positive carry can be overwhelmed by exchange-rate loss; and a lucky recovery can reinforce weak process, confirmation seeking, moved stops, and loss chasing. Voluntary stops remain distinct from broker liquidation, and required living funds should remain outside speculative accounts. No settled contradiction was adopted. The title's “久留美” and body text's repeated “九流美” are treated as one work with a preserved source-text inconsistency, while candlestick history, “Mrs. Watanabe,” author trading performance, later plot claims, and market figures remain episode-attributed. The automatic `wiki/overview.md` was read for context and left unchanged because this focused retail-risk case deepens the existing markets and behavioral-finance map without changing its global current-state judgment. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,661 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

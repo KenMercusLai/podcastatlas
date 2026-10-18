@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13581
+wiki_total_pages: 13582
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "FifthDimension"
     title: "The Fifth Dimension / 第五维度"
     url: "/wiki/entities/fifthdimension/"
+  - key: "FXSenshiKurumi"
+    title: "《FX战士久留美》 / FX Senshi Kurumi"
+    url: "/wiki/entities/fxsenshikurumi/"
   - key: "FengQiuHuang"
     title: "《凤求凰》 / Feng Qiu Huang"
     url: "/wiki/entities/fengqiuhuang/"

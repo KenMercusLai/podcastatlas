@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10633
+wiki_total_pages: 10635
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "ForeignCorruptPracticesAct"
     title: "Foreign Corrupt Practices Act"
     url: "/wiki/concepts/foreigncorruptpracticesact/"
+  - key: "ForeignExchangeMarginTrading"
+    title: "Foreign Exchange Margin Trading / 外汇保证金交易"
+    url: "/wiki/concepts/foreignexchangemargintrading/"
   - key: "ForeignRestaurantBrandLocalControl"
     title: "Foreign Restaurant Brand Local Control / 外资餐饮品牌本土控制权"
     url: "/wiki/concepts/foreignrestaurantbrandlocalcontrol/"

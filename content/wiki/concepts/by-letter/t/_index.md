@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10633
+wiki_total_pages: 10635
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "TradingCompanyInvestmentModel"
     title: "Trading Company Investment Model"
     url: "/wiki/concepts/tradingcompanyinvestmentmodel/"
+  - key: "TradingOutcomeBias"
+    title: "Trading Outcome Bias / 交易结果偏误"
+    url: "/wiki/concepts/tradingoutcomebias/"
   - key: "TradingProbabilityCalibration"
     title: "Trading Probability Calibration / 交易概率校准"
     url: "/wiki/concepts/tradingprobabilitycalibration/"

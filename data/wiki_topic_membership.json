@@ -36202,6 +36202,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FXSenshiKurumi": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FabrizioBenedetti": [
     {
       "key": "science",
@@ -38381,6 +38388,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ForeignExchangeMarginTrading": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ForeignRelativeCourtPolitics": [
@@ -85359,6 +85373,11 @@
   ],
   "SunkCostEntrapment": [
     {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
@@ -90113,6 +90132,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TradingOutcomeBias": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TraditionalChineseApprenticeship": [
@@ -103898,6 +103929,13 @@
     }
   ],
   "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly": [
     {
       "key": "economics",
       "label": "Economics",

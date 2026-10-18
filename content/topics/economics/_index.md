@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2283
+topic_total_pages: 2288
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1309,6 +1309,9 @@ topic_concepts:
   - key: "ForeignBankingInChina"
     title: "Foreign Banking In China"
     url: "/wiki/concepts/foreignbankinginchina/"
+  - key: "ForeignExchangeMarginTrading"
+    title: "Foreign Exchange Margin Trading / 外汇保证金交易"
+    url: "/wiki/concepts/foreignexchangemargintrading/"
   - key: "FoundationalEconomies"
     title: "Foundational Economies"
     url: "/wiki/concepts/foundationaleconomies/"
@@ -3190,6 +3193,9 @@ topic_concepts:
   - key: "TradingCompanyInvestmentModel"
     title: "Trading Company Investment Model"
     url: "/wiki/concepts/tradingcompanyinvestmentmodel/"
+  - key: "TradingOutcomeBias"
+    title: "Trading Outcome Bias / 交易结果偏误"
+    url: "/wiki/concepts/tradingoutcomebias/"
   - key: "TragedyOfTheCommons"
     title: "Tragedy of the Commons"
     url: "/wiki/concepts/tragedyofthecommons/"
@@ -3418,6 +3424,9 @@ topic_concepts:
   - key: "WealthThroughDaoFrame"
     title: "求财先明道 / Wealth Through Dao Frame"
     url: "/wiki/concepts/wealththroughdaoframe/"
+  - key: "SunkCostEntrapment"
+    title: "沉没成本困局 / Sunk Cost Entrapment"
+    url: "/wiki/concepts/sunkcostentrapment/"
   - key: "ImperialFiscalElasticity"
     title: "皇室财政弹性 / Imperial Fiscal Elasticity"
     url: "/wiki/concepts/imperialfiscalelasticity/"
@@ -5558,6 +5567,9 @@ topic_entities:
   - key: "Zynga"
     title: "Zynga"
     url: "/wiki/entities/zynga/"
+  - key: "FXSenshiKurumi"
+    title: "《FX战士久留美》 / FX Senshi Kurumi"
+    url: "/wiki/entities/fxsenshikurumi/"
   - key: "YiQieJieQiyue"
     title: "《一切皆契约》"
     url: "/wiki/entities/yiqiejieqiyue/"
@@ -6351,6 +6363,9 @@ topic_sources:
   - key: "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8"
     title: "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错"
     url: "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+  - key: "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly"
+    title: "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来"
+    url: "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
   - key: "kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7"
     title: "Episode 21: 抗压、应变与终生动力：CZ 的人事和天命"
     url: "/wiki/sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7/"

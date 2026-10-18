@@ -40079,6 +40079,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/carrierpigeoncommunication/"
     },
+    "CarryTradeUnwind": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺 [lsZSKb0h-qqxsct4yAEBeGd-1pH9].md",
+          "key": "ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9",
+          "show": "一劳永逸",
+          "title": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺",
+          "url": "/wiki/sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9/"
+        },
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/carrytradeunwind/"
+    },
     "Carthage": {
       "episode_count": 7,
       "show_count": 1,
@@ -90922,6 +90945,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fubu/"
     },
+    "FXSenshiKurumi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/fxsenshikurumi/"
+    },
     "FaXiongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -98848,6 +98887,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/foreignbackedrulerlegitimacytrap/"
+    },
+    "ForeignExchangeMarginTrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/foreignexchangemargintrading/"
     },
     "ForensicIdentificationExplanationGap": {
       "episode_count": 1,
@@ -178927,9 +178982,9 @@
       "url": "/wiki/entities/margaretthatcher/"
     },
     "MarginTradingForcedSelling": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
@@ -178937,9 +178992,16 @@
           "show": "Planet Money",
           "title": "How investing is getting riskier (Two Indicators)",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        },
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/margintradingforcedselling/"
     },
     "MarginalDecadeBackcasting": {
@@ -260083,6 +260145,64 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/stopasianhate/"
     },
+    "StopLossDiscipline": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "所有净值曲线背后都是人，正态分布的普通人 [lsNRKqHtKTjLmrscOw2_mt2Df0yQ].md",
+          "key": "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq",
+          "show": "面基",
+          "title": "所有净值曲线背后都是人，正态分布的普通人",
+          "url": "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"
+        },
+        {
+          "episode_file": "171.为什么牛市后期更容易亏钱？｜ 半年度投资账复盘 [lkkAFVBeA1zTxdwc0eeMpDINc4Yk].md",
+          "key": "171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk",
+          "show": "起朱楼宴宾客",
+          "title": "171.为什么牛市后期更容易亏钱？｜半年度投资账复盘",
+          "url": "/wiki/sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk/"
+        },
+        {
+          "episode_file": "157.如何带走牛市的胜利果实？ [loRY40ilOWKjfe-lt_hiWJdsDBQ2].md",
+          "key": "157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2",
+          "show": "起朱楼宴宾客",
+          "title": "157.如何带走牛市的胜利果实？",
+          "url": "/wiki/sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2/"
+        },
+        {
+          "episode_file": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话 [lr0fb5YFiWoXaamdwjJgH4RjEPrG].md",
+          "key": "ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg",
+          "show": "一劳永逸",
+          "title": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话",
+          "url": "/wiki/sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg/"
+        },
+        {
+          "episode_file": "E153.股神的牌局：复利公式 + 凯利公式 [lmyVi9mnlaQIB-bAspjiEHZ3EpqC].md",
+          "key": "e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc",
+          "show": "面基",
+          "title": "E153.股神的牌局：复利公式 + 凯利公式",
+          "url": "/wiki/sources/e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc/"
+        },
+        {
+          "episode_file": "vol.104.普通人港股完全生存指南 ｜ 串台三点下班 [lmzivGi6D3gUV7WAJYjw9Cv9ZZ90].md",
+          "key": "vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90",
+          "show": "起朱楼宴宾客",
+          "title": "vol.104.普通人港股完全生存指南 | 串台三点下班",
+          "url": "/wiki/sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90/"
+        },
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/stoplossdiscipline/"
+    },
     "StoreWithinStoreFoodservice": {
       "episode_count": 3,
       "show_count": 2,
@@ -263775,9 +263895,9 @@
       "url": "/wiki/entities/sundarpichai/"
     },
     "SunkCostEntrapment": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
@@ -263792,9 +263912,16 @@
           "show": "纸醉金迷FM",
           "title": "006 闲话金庸《笑傲江湖》｜令狐冲到底爱谁？",
           "url": "/wiki/sources/lkmtkpbafg5n5lcknxvjl8g6hfg2-lkmtkpbafg5n5lcknxvjl8g6hfg2/"
+        },
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/sunkcostentrapment/"
     },
     "SunningdalePowerSharingCollapse": {
@@ -276110,6 +276237,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/trademarksimilarityconsumerconfusion/"
+    },
+    "TradingOutcomeBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/tradingoutcomebias/"
     },
     "TradingProbabilityCalibration": {
       "episode_count": 1,
@@ -303454,6 +303597,36 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/yemen/"
+    },
+    "YenCarryTrade": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？ [lqJc6VZ_1UNGNKPDW9d5kBSa_oUo].md",
+          "key": "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo",
+          "show": "起朱楼宴宾客",
+          "title": "179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？",
+          "url": "/wiki/sources/179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo/"
+        },
+        {
+          "episode_file": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺 [lsZSKb0h-qqxsct4yAEBeGd-1pH9].md",
+          "key": "ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9",
+          "show": "一劳永逸",
+          "title": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺",
+          "url": "/wiki/sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9/"
+        },
+        {
+          "episode_file": "lgDURd85j7_CbImza4cEGor-jflY [lgDURd85j7_CbImza4cEGor-jflY].md",
+          "key": "ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly",
+          "show": "一劳永逸",
+          "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
+          "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/yencarrytrade/"
     },
     "YiMeiZhiMingDrama": {
       "episode_count": 1,
