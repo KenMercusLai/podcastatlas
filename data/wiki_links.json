@@ -5135,6 +5135,10 @@
     "title": "AI Assistant Service Entry",
     "url": "/wiki/concepts/aiassistantserviceentry/"
   },
+  "AIAssistedElectionResearch": {
+    "title": "AI-Assisted Election Research",
+    "url": "/wiki/concepts/aiassistedelectionresearch/"
+  },
   "AIAssistedInfrastructureOperations": {
     "title": "AI-Assisted Infrastructure Operations",
     "url": "/wiki/concepts/aiassistedinfrastructureoperations/"
@@ -22923,6 +22927,10 @@
     "title": "Conversation As Self-Revelation / 对话作为自我显现",
     "url": "/wiki/concepts/conversationasselfrevelation/"
   },
+  "ConversationalAIPoliticalPersuasion": {
+    "title": "Conversational AI Political Persuasion",
+    "url": "/wiki/concepts/conversationalaipoliticalpersuasion/"
+  },
   "ConversationalBeautyAdvising": {
     "title": "Conversational Beauty Advising",
     "url": "/wiki/concepts/conversationalbeautyadvising/"
@@ -25634,6 +25642,10 @@
   "DavidRailton": {
     "title": "David Railton",
     "url": "/wiki/entities/davidrailton/"
+  },
+  "DavidRand": {
+    "title": "David Rand",
+    "url": "/wiki/entities/davidrand/"
   },
   "DavidRicardo": {
     "title": "David Ricardo / 大卫·李嘉图",
@@ -107666,6 +107678,10 @@
   "tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128": {
     "title": "AI borrowing slowdown raises questions about investor exposure",
     "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+  },
+  "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128": {
+    "title": "Using generative AI for election-related research",
+    "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

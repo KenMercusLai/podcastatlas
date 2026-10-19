@@ -1173,6 +1173,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiassistantaugmentation/"
     },
+    "AIAssistedElectionResearch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/aiassistedelectionresearch/"
+    },
     "AIAssistedInfrastructureOperations": {
       "episode_count": 1,
       "show_count": 1,
@@ -2750,6 +2766,43 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/aiecommerceinfringementgovernance/"
     },
+    "AIElectionMisinformationRisk": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
+          "key": "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Cyberattacks on U.S. water systems raise concerns about security",
+          "url": "/wiki/sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260105_0105_MP_TECH_pod_128 [tech_20260105_0105_MP_TECH_pod_128].md",
+          "key": "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How U.S. political campaigns have used generative AI",
+          "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/aielectionmisinformationrisk/"
+    },
     "AIEmpireSovereigntyRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -3196,6 +3249,50 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/aiguidedlearningguardrails/"
+    },
+    "AIHallucination": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
+          "key": "ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype",
+          "show": "Data Science With Sam",
+          "title": "EP 47: The AI Pioneer Who Decided Privacy Matters More Than Hype",
+          "url": "/wiki/sources/ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype/"
+        },
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/aihallucination/"
     },
     "AIHardwarePrivacyExchange": {
       "episode_count": 4,
@@ -57506,6 +57603,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/conversationasselfrevelation/"
     },
+    "ConversationalAIPoliticalPersuasion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/conversationalaipoliticalpersuasion/"
+    },
     "ConversationalBeautyAdvising": {
       "episode_count": 1,
       "show_count": 1,
@@ -65409,9 +65522,9 @@
       "url": "/wiki/entities/davidberson/"
     },
     "DavidBrancaccio": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260112_0112_MP_TECH_pod_128 [tech_20260112_0112_MP_TECH_pod_128].md",
@@ -65433,9 +65546,16 @@
           "show": "Marketplace Tech",
           "title": "What might our tax system look like in the age of AI?",
           "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/davidbrancaccio/"
     },
     "DavidBreshears": {
@@ -65737,6 +65857,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/davidrailton/"
+    },
+    "DavidRand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/davidrand/"
     },
     "DavidRizzio": {
       "episode_count": 1,

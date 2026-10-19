@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10652
+wiki_total_pages: 10654
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2489,6 +2489,9 @@ wiki_pages:
   - key: "ConversationAsSelfRevelation"
     title: "Conversation As Self-Revelation / 对话作为自我显现"
     url: "/wiki/concepts/conversationasselfrevelation/"
+  - key: "ConversationalAIPoliticalPersuasion"
+    title: "Conversational AI Political Persuasion"
+    url: "/wiki/concepts/conversationalaipoliticalpersuasion/"
   - key: "ConversationalBeautyAdvising"
     title: "Conversational Beauty Advising"
     url: "/wiki/concepts/conversationalbeautyadvising/"

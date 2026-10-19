@@ -8916,6 +8916,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIAssistedElectionResearch": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIAssistedInfrastructureOperations": [
     {
       "key": "technology",
@@ -27055,6 +27067,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "ConversationalAIPoliticalPersuasion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConversationalBeautyAdvising": [
     {
       "key": "technology",
@@ -29683,6 +29707,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "DavidRand": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DavidSacks": [
@@ -108501,6 +108532,18 @@
     }
   ],
   "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",

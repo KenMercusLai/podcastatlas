@@ -6,49 +6,46 @@ sources:
   - tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128
   - tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128
   - tech-20260914-tech-pod-128-tech-20260914-tech-pod-128
-last_updated: 2026-09-15
+  - tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128
+last_updated: 2026-10-19
 knowledge_schema: synthesis-v1
 ---
 
 # David Brancaccio
 
 ## Overview
-David Brancaccio is the Marketplace Tech reporter whose wiki role connects concrete places and built environments to larger technology-policy questions.
+David Brancaccio is a Marketplace Tech reporter whose wiki profile connects hands-on tests and place-grounded reporting to larger questions about technological risk, public systems, and individual judgment.
 
 ## Current Profile
-Brancaccio first appears through a personal rebuilding story after L.A. wildfires destroyed his home, where his reporting makes fire-resilient construction a lived design, cost, carbon, and neighborhood-memory problem. The Akron episode broadens his role: he reports from [[AkronOhio|Akron]] and [[BarbertonOhio|Barberton]] to use rubber-industry decline as a historical analogy for AI labor disruption and public revenue risk. The September 14 follow-up turns the same public-finance question into payroll-tax mechanics, using [[RyanAbbott]]'s explanation of how Social Security and Medicare taxes can make human employees fiscally different from AI systems.
+Brancaccio's reporting begins with consequences that can be inspected: a wildfire-destroyed home and its material choices, former Ohio tire factories and their municipal tax effects, payroll-tax rules that favor software over employees, and a live comparison of three chatbots on a California ballot proposition. Across those settings, he moves from an everyday object or decision toward the institutions that distribute risk and benefit.
 
-Across these sources, Brancaccio's reporting style in the wiki is concrete and institutional. He makes technology consequences visible through a house, a wall assembly, a former factory, a city budget, a payroll-tax line item, and the people or institutions that must live with the transition.
+The election-research episode adds an explicit verification role. Brancaccio records his own failed prompt, improves it with date and jurisdiction, compares [[ChatGPT]], [[Claude]], and [[Gemini]], opens their citations, notices ideological context, and warns against agreeable answers. His reporting method therefore combines concrete testing with institutional context rather than treating either a technology demo or an expert claim as self-validating.
 
 ## Key Characteristics
-- Brancaccio grounds technology stories in concrete places rather than only abstract trends.
+- Brancaccio grounds technology stories in concrete places, artifacts, and decisions.
 - His wildfire reporting connects materials, construction speed, carbon, design, and neighborhood continuity.
-- His Akron reporting connects radial tires, factory closure, labor income, and municipal tax revenue to AI policy.
-- His AI tax reporting connects labor displacement to payroll-tax incentives, replacement revenue bases, and social-insurance finance.
-- His source role often turns technology optimism into a question about who bears local cost and who receives practical benefit.
+- His Akron and payroll-tax reporting connects automation to jobs, local revenue, social insurance, and tax incentives.
+- His election research demonstrates prompt correction, cross-model comparison, citation inspection, and source-context review.
+- His source role repeatedly asks who receives practical benefit, who bears transition cost, and what evidence a user should trust.
 
 ## Evidence
-- Wildfire-rebuild evidence: [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] uses Brancaccio's own destroyed home and rebuilding plan to compare [[CrossLaminatedTimber]], mineral wool, stucco, concrete-filled systems, and [[ThreeDPrintedHousing]].
-- Design-and-carbon evidence: [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] has Brancaccio frame mass timber as fast and potentially lower carbon if the house lasts long enough, while preserving neighborhood memory through [[BiophilicDesign]].
-- Akron-reporting evidence: [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] has Brancaccio report from Akron, once known as the rubber capital of the world, and ask what its industrial transition can teach about AI.
-- Barberton-fiscal evidence: [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] has Brancaccio return near Akron to Barberton, where a former tire factory closure is tied to a hiring freeze and lost income-tax revenue.
-- Payroll-tax evidence: [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] has Brancaccio explain that an employer can owe Social Security and Medicare payroll taxes for a worker but not for AI doing comparable work.
-- Reform-menu evidence: [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] has Brancaccio list sales taxes, value-added taxes, AI-usage taxes, and corporate-profit taxation as possible replacement bases.
+- Built-environment reporting - [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] uses Brancaccio's own rebuilding project to compare mass timber, mineral wool, stucco, concrete-filled systems, carbon, and neighborhood memory.
+- Local public-finance reporting - [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] has him use Akron and Barberton's tire-industry transition to ask how technological substitution can weaken labor income and municipal revenue.
+- Tax-incentive reporting - [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] has him connect employer payroll taxes to the fiscal asymmetry between human and machine work and survey alternative tax bases.
+- Election-research testing - [[tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128]] documents his initial wrong chatbot result, more specific follow-up, three-system comparison, and link inspection.
+- Judgment boundary - [[tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128]] has him warn that chatbots can behave as people pleasers and that voters must investigate the sources behind generated answers.
 
 ## Qualifications
-This page summarizes Brancaccio's role inside the wiki's Marketplace Tech source notes. It is not a full biography or a comprehensive account of his reporting outside these episodes.
+This page summarizes Brancaccio's role inside four Marketplace Tech source notes. It is not a full biography or a comprehensive account of his reporting. The chatbot comparison is a practical demonstration rather than a controlled product benchmark, and the tax and construction figures remain bounded to their respective episodes.
 
 ## What Changed
-- Migrated the page to synthesis-v1.
-- Added the Akron and Barberton reporting branch around AI labor-tax-base risk.
-- Added the payroll-tax-neutrality follow-up to the AI public-finance branch.
-- Reframed Brancaccio's profile around place-grounded technology consequences.
+- Added election research as a direct technology-testing and verification branch.
+- Reframed his profile around evidence inspection across personal, local, fiscal, and civic contexts.
 
 ## Relationships
-- [[MarketplaceTech]] - show context for both source appearances.
+- [[MarketplaceTech]] - show context for all four source appearances.
 - [[FireResilientConstruction]] - construction topic grounded by his post-wildfire rebuilding project.
-- [[CrossLaminatedTimber]] - material choice central to his rebuilding story.
-- [[AkronOhio|Akron, Ohio]] - industrial-history reporting location in the AI tax episode.
-- [[BarbertonOhio|Barberton, Ohio]] - local tax-loss example in the AI tax episode.
-- [[LaborTaxBaseAIErosion]] - public-finance concept supported by his Akron-area reporting.
-- [[AIPayrollTaxNeutrality]] - payroll-tax concept explained in his AI tax follow-up.
+- [[LaborTaxBaseAIErosion]] - public-finance topic supported by his Akron-area reporting.
+- [[AIPayrollTaxNeutrality]] - tax-design issue explained in his AI tax follow-up.
+- [[AIAssistedElectionResearch]] - voter workflow demonstrated through his chatbot comparison.
+- [[AIHallucination]] - reliability failure exposed by the initial proposition mix-up.

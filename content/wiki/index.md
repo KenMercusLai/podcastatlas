@@ -4758,6 +4758,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seinfeld](sources/seinfeld-ca0df1168651e0a51be7d6012432411f.md) — Acquired episode linking Seinfeld's observational craft, self-contained convergent plots, independent production, syndication, and streaming to a durable media library.
 - [What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403.md) — Huberman Lab interview on leadership causation, historical scale, scientific fieldwork, mentorship, and finite-time knowledge stewardship.
 
+- [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
+
 ## Entities
 - [BrainCo](entities/BrainCo.md) — Chinese neurotechnology company represented through a residual-signal bionic hand and non-invasive consumer devices.
 - [Buglife](entities/Buglife.md) — British conservation organization mapping and reconnecting insect habitats through “bug highways.”
@@ -18430,6 +18432,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 - [Jared Diamond](entities/JaredDiamond.md) — Scientist and writer connecting physiology, ornithology, comparative history, leadership causation, and late-life knowledge stewardship.
 
+- [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
+
 ## Concepts
 - [Canadian Separatism](concepts/CanadianSeparatism.md) — Comparative frame separating Alberta’s resource and fiscal grievances from Quebec’s cultural-national independence movement.
 - [China Neurotechnology Industrial Policy](concepts/ChinaNeurotechnologyIndustrialPolicy.md) — Ecosystem strategy combining investment, regulation, reimbursement infrastructure, education, trials, and commercialization.
@@ -29168,5 +29172,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Leadership Outcome Causation](concepts/LeadershipOutcomeCausation.md) — Framework joining leader capacities to followers, institutions, circumstances, formal power, other contributors, and chance.
 - [Leadership Replacement and Regression to the Mean](concepts/LeadershipReplacementRegressionToMean.md) — Causal-inference boundary against crediting post-dismissal rebound to a new leader without an adequate baseline.
 - [Finite-Time Knowledge Stewardship](concepts/FiniteTimeKnowledgeStewardship.md) — Preservation and transfer of distinctive knowledge before time or capacity runs out.
+
+- [AI-Assisted Election Research](concepts/AIAssistedElectionResearch.md) — Voter workflow combining temporal and jurisdictional prompt specificity, cross-model comparison, citation inspection, and independent judgment.
+- [Conversational AI Political Persuasion](concepts/ConversationalAIPoliticalPersuasion.md) — Interactive AI influence on political attitudes, bounded by study design, persistence, bias, and behavior-change limits.
 
 ## Syntheses

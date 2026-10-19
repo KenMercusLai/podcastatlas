@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3348
+topic_total_pages: 3351
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -253,6 +253,9 @@ topic_concepts:
   - key: "AIVoiceCloningRights"
     title: "AI Voice Cloning Rights"
     url: "/wiki/concepts/aivoicecloningrights/"
+  - key: "AIAssistedElectionResearch"
+    title: "AI-Assisted Election Research"
+    url: "/wiki/concepts/aiassistedelectionresearch/"
   - key: "AIGeneratedProofGovernance"
     title: "AI-Generated Proof Governance"
     url: "/wiki/concepts/aigeneratedproofgovernance/"
@@ -964,6 +967,9 @@ topic_concepts:
   - key: "ControlledTelevisionCampaign"
     title: "Controlled Television Campaign"
     url: "/wiki/concepts/controlledtelevisioncampaign/"
+  - key: "ConversationalAIPoliticalPersuasion"
+    title: "Conversational AI Political Persuasion"
+    url: "/wiki/concepts/conversationalaipoliticalpersuasion/"
   - key: "COPPA"
     title: "COPPA"
     url: "/wiki/concepts/coppa/"
@@ -9501,6 +9507,9 @@ topic_sources:
   - key: "unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088"
     title: "Unrest in peace: misery in Gaza"
     url: "/wiki/sources/unrest-in-peace-misery-in-gaza-145c0cf22e24027ee45e02b7352ac088/"
+  - key: "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128"
+    title: "Using generative AI for election-related research"
+    url: "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
   - key: "vanguard-1"
     title: "Vanguard"
     url: "/wiki/sources/vanguard-1/"

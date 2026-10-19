@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3564
+topic_total_pages: 3568
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1090,6 +1090,9 @@ topic_concepts:
   - key: "AIWritingPedagogy"
     title: "AI Writing Pedagogy"
     url: "/wiki/concepts/aiwritingpedagogy/"
+  - key: "AIAssistedElectionResearch"
+    title: "AI-Assisted Election Research"
+    url: "/wiki/concepts/aiassistedelectionresearch/"
   - key: "AIAssistedInfrastructureOperations"
     title: "AI-Assisted Infrastructure Operations"
     url: "/wiki/concepts/aiassistedinfrastructureoperations/"
@@ -1687,6 +1690,9 @@ topic_concepts:
   - key: "ContinuousLearningAgainstDisplacement"
     title: "Continuous Learning Against Displacement / 以持续学习对抗替代"
     url: "/wiki/concepts/continuouslearningagainstdisplacement/"
+  - key: "ConversationalAIPoliticalPersuasion"
+    title: "Conversational AI Political Persuasion"
+    url: "/wiki/concepts/conversationalaipoliticalpersuasion/"
   - key: "ConversationalBeautyAdvising"
     title: "Conversational Beauty Advising"
     url: "/wiki/concepts/conversationalbeautyadvising/"
@@ -5822,6 +5828,9 @@ topic_entities:
   - key: "DavidBlumen"
     title: "David Blumen"
     url: "/wiki/entities/davidblumen/"
+  - key: "DavidRand"
+    title: "David Rand"
+    url: "/wiki/entities/davidrand/"
   - key: "DavidSilver"
     title: "David Silver"
     url: "/wiki/entities/davidsilver/"
@@ -10245,6 +10254,9 @@ topic_sources:
   - key: "using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056"
     title: "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum"
     url: "/wiki/sources/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum-scim1618700056/"
+  - key: "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128"
+    title: "Using generative AI for election-related research"
+    url: "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
   - key: "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1"
     title: "Vol. 160 一年多以后，再聊AI写代码Vibe Coding"
     url: "/wiki/sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1/"

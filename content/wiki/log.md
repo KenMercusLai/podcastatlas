@@ -37273,3 +37273,11 @@ Added source `independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | Using generative AI for election-related research
+
+Added source `tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128`; created [[DavidRand]], [[AIAssistedElectionResearch]], and [[ConversationalAIPoliticalPersuasion]]; and resynthesized [[DavidBrancaccio]], [[AIElectionMisinformationRisk]], and [[AIHallucination]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: useful election research with general-purpose chatbots requires explicit date, jurisdiction, and measure context; disagreement across systems can reveal claims needing review but agreement is not proof; citations require authority, recency, relevance, and ideological-context checks; and agreeable output can still be false. A reported 2024 experiment suggests short purpose-built chatbot conversations can move candidate preferences more than a standard ad, but methodology, durability, voting behavior, and generalizability remain source-scoped. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and left unchanged because the focused pages capture the durable addition without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,670 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

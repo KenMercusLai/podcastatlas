@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10652
+wiki_total_pages: 10654
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "AIWritingPedagogy"
     title: "AI Writing Pedagogy"
     url: "/wiki/concepts/aiwritingpedagogy/"
+  - key: "AIAssistedElectionResearch"
+    title: "AI-Assisted Election Research"
+    url: "/wiki/concepts/aiassistedelectionresearch/"
   - key: "AIAssistedInfrastructureOperations"
     title: "AI-Assisted Infrastructure Operations"
     url: "/wiki/concepts/aiassistedinfrastructureoperations/"
