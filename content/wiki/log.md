@@ -37209,3 +37209,11 @@ Added source `ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhua
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | 商业小样51 | 为什么办公椅越贵，对老板反而越合算？
+
+Added source `shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp`; created [[Steelcase]], [[Sihoo|西昊]], and [[WorkplaceEnvironmentInvestment|办公环境投资]]; and resynthesized [[EmployeeRetentionEconomics]] and [[ShangyeJiushiZheyang|商业就是这样]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: durable office equipment should be evaluated by lifecycle cost rather than sticker price, while physical work conditions can be an operating investment in employee health, productivity, retention, recruiting, and trust. No settled contradiction was adopted. Warranty is preserved as a rough proxy rather than actual useful life, and the depreciation period, prices, warranty terms, monthly estimates, productivity effects, and retention returns remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because this focused workplace-cost case deepens the existing business and labor map without changing its global current-state judgment. Downstream synthesis found no dirty topic; max-age global compaction ran and refreshed the compact artifact, validating 4,662 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

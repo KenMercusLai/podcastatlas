@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13582
+wiki_total_pages: 13584
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "SteamboatWillie"
     title: "Steamboat Willie"
     url: "/wiki/entities/steamboatwillie/"
+  - key: "Steelcase"
+    title: "Steelcase"
+    url: "/wiki/entities/steelcase/"
   - key: "StefanSagmeister"
     title: "Stefan Sagmeister"
     url: "/wiki/entities/stefansagmeister/"
@@ -3002,6 +3005,9 @@ wiki_pages:
   - key: "SouthwestAssociatedUniversity"
     title: "西南联大"
     url: "/wiki/entities/southwestassociateduniversity/"
+  - key: "Sihoo"
+    title: "西昊 / Sihoo"
+    url: "/wiki/entities/sihoo/"
   - key: "SecondDingxiangCampaignWesternHan"
     title: "西汉第二次定襄出击 / Second Dingxiang Campaign (Western Han)"
     url: "/wiki/entities/seconddingxiangcampaignwesternhan/"

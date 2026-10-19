@@ -83813,6 +83813,36 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/employeehealthbenefitsai/"
     },
+    "EmployeeRetentionEconomics": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ba3395b54a01e1ee6d5da3878108de5a_27572422 [default.mp3_ywr3ahjkcgo_ba3395b54a01e1ee6d5da3878108de5a_27572422].md",
+          "key": "a-pro-worker-experiment-in-private-equity",
+          "show": "Planet Money",
+          "title": "A pro-worker experiment in private equity",
+          "url": "/wiki/sources/a-pro-worker-experiment-in-private-equity/"
+        },
+        {
+          "episode_file": "Costco ｜ Acquired (1) [costco-1].md",
+          "key": "costco-1",
+          "show": "Acquired",
+          "title": "Costco",
+          "url": "/wiki/sources/costco-1/"
+        },
+        {
+          "episode_file": "GKwRIMAOqq8nAEO0KgTrBNKp [GKwRIMAOqq8nAEO0KgTrBNKp].md",
+          "key": "shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 为什么办公椅越贵，对老板反而越合算？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/employeeretentioneconomics/"
+    },
     "EmpressBoJingdiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -247877,9 +247907,9 @@
       "url": "/wiki/concepts/shangshutaiimperialaccess/"
     },
     "ShangyeJiushiZheyang": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
@@ -248027,9 +248057,16 @@
           "show": "商业就是这样",
           "title": "假期通知兼谈本台为什么要做视频播客",
           "url": "/wiki/sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567/"
+        },
+        {
+          "episode_file": "GKwRIMAOqq8nAEO0KgTrBNKp [GKwRIMAOqq8nAEO0KgTrBNKp].md",
+          "key": "shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 为什么办公椅越贵，对老板反而越合算？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/shangyejiushizheyang/"
     },
     "ShannaSwan": {
@@ -251189,6 +251226,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/sigmundfreud/"
+    },
+    "Sihoo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOqq8nAEO0KgTrBNKp [GKwRIMAOqq8nAEO0KgTrBNKp].md",
+          "key": "shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 为什么办公椅越贵，对老板反而越合算？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/sihoo/"
     },
     "SijoPoetry": {
       "episode_count": 1,
@@ -259556,6 +259609,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/steamboatwillie/"
+    },
+    "Steelcase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOqq8nAEO0KgTrBNKp [GKwRIMAOqq8nAEO0KgTrBNKp].md",
+          "key": "shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 为什么办公椅越贵，对老板反而越合算？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/steelcase/"
     },
     "StefanZweig": {
       "episode_count": 2,
@@ -294297,6 +294366,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/workplacebullying/"
+    },
+    "WorkplaceEnvironmentInvestment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOqq8nAEO0KgTrBNKp [GKwRIMAOqq8nAEO0KgTrBNKp].md",
+          "key": "shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 为什么办公椅越贵，对老板反而越合算？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/workplaceenvironmentinvestment/"
     },
     "WorkplaceMetricGaming": {
       "episode_count": 2,

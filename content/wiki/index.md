@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样51 | 为什么办公椅越贵，对老板反而越合算？](sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp.md) — 商业就是这样以人体工学椅连接耐用性、摊销、办公环境、生产力、员工留任、招聘与品牌信号，并保留ROI估算的证据边界。
 - [EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来](sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly.md) — 一劳永逸以《FX战士久留美》讲解外汇保证金、日元套息、强制平仓、止损、结果偏误、沉没成本与生活资金隔离。
 - [这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason](sources/lnvlrnkk-mvyhiy31eq-gw4qopje.md) — 42章经访谈 Articuler.ai 创始人 Jason，讨论活动中的人与机会匹配、连接行为数据、从一线观察寻找 PMF，以及融资失败后的现金流生存。
 - [Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟](sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2.md) — 蜉蝣天地对谈孟磊，以快乐和个人味觉为入口，连接香槟生产、风土、原产地治理、气候适应、中国本土化与家族酒庄长期主义。
@@ -4751,6 +4752,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm.md) — 十字路口Crossing interview with Trigg's team on three startup pivots, general-agent ecosystem distribution, data and tool aggregation, narrow operational loops, multi-agent work, and the limits of zero-human companies.
 
 ## Entities
+- [Steelcase](entities/Steelcase.md) — Premium office-furniture and workplace-solutions company used to connect long warranties, lifecycle cost, and professional space planning.
+- [西昊 / Sihoo](entities/Sihoo.md) — Chinese office-chair brand used as the lower-priced, shorter-reported-warranty side of an approximate lifecycle comparison.
 - [《FX战士久留美》 / FX Senshi Kurumi](entities/FXSenshiKurumi.md) — 以家庭亏损、外汇杠杆和错误强化呈现交易心理与风险教育的金融题材作品。
 - [Trigg](entities/Trigg.md) — Agent-facing marketplace aggregating real-time data, professional APIs, and generative-media tools behind metered cross-harness access.
 - [Jason (Trigg)](entities/JasonTrigg.md) — Trigg founder using operating experiments, platform distribution, and build-versus-embed decisions to guide repeated pivots.
@@ -18408,6 +18411,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Workplace Environment Investment / 办公环境投资](concepts/WorkplaceEnvironmentInvestment.md) — 以全生命周期成本评估办公家具与空间对员工健康、生产力、留任、招聘和品牌信号的潜在价值。
 - [Foreign Exchange Margin Trading / 外汇保证金交易](concepts/ForeignExchangeMarginTrading.md) — 以货币对、双向头寸、保证金、杠杆和强制平仓构成的零售外汇风险机制。
 - [Trading Outcome Bias / 交易结果偏误](concepts/TradingOutcomeBias.md) — 以单次盈亏替代事前信息、仓位、风险边界和执行过程来评价交易决策的偏误。
 - [Event Intent Matching](concepts/EventIntentMatching.md) — Uses an event's temporary density, declared goals, and attendance commitment to recommend actionable introductions.

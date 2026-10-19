@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10635
+wiki_total_pages: 10636
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "WorkplaceDigitalTwins"
     title: "Workplace Digital Twins"
     url: "/wiki/concepts/workplacedigitaltwins/"
+  - key: "WorkplaceEnvironmentInvestment"
+    title: "Workplace Environment Investment / 办公环境投资"
+    url: "/wiki/concepts/workplaceenvironmentinvestment/"
   - key: "WorkplaceHiddenRules"
     title: "Workplace Hidden Rules"
     url: "/wiki/concepts/workplacehiddenrules/"
