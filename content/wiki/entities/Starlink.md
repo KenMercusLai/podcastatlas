@@ -2,45 +2,61 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260818-tech-pod-128-tech-20260818-tech-pod-128, tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
-last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
+sources:
+  - tech-20260818-tech-pod-128-tech-20260818-tech-pod-128
+  - tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128
+  - an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c
+  - tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128
+  - 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou
+  - in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e
+  - putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210
+  - 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611
+  - e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793
+  - all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555
+  - haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv
+last_updated: 2026-10-19
 ---
 
 # Starlink
 
-[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds an All-In subscriber and bandwidth-expansion view. The source says Starlink reached 12 million subscribers, doubled year over year, had about $66 ARPU, and could gain materially more capacity from V3 satellites deployed by [[Starship]], making Starlink central to [[SpaceX]]'s public-market growth story rather than only a satellite-connectivity case.
+## Overview
+Starlink is [[SpaceX]]'s low-earth-orbit satellite network, covered in the wiki as a connectivity business, a source of launch demand and cash flow, an infrastructure-control surface, and an operating precedent for more speculative space platforms.
 
-[[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] adds Starlink as the episode's main example of [[CommercialSatelliteConstellations]] driving launch demand. The source says companies are deploying many smaller satellites for internet service, GPS, and Earth imaging, and it presents Starlink as a leading reason [[SpaceLaunchCapacityBottleneck]] has become visible around U.S. launch pads and spaceports.
+## Current Profile
+The complete evidence set presents Starlink as a scaled application of [[ReusableRocketEconomics]]. It extends internet access into remote and mobile settings, supports SpaceX's broader capital story, and gives the company experience in satellite manufacturing, telemetry, collision avoidance, and global network operations.
 
-Starlink is the satellite internet business discussed in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]]. [[LouisHong]] frames it as the second platform step after reusable rockets: once [[SpaceX]] could lower launch cost through [[ReusableRocketEconomics]], it could build a low-earth-orbit communications network at a scale that traditional launch economics would have made difficult.
+Commercial aviation is a distinct platform contest. Airlines can use Starlink capacity to offer free passenger Wi-Fi, while SpaceX may accept lower near-term pricing to build passenger expectations, win long fleet contracts, and make its equipment an installed standard. That opportunity remains constrained by [[AmazonLeo]], traditional providers, certification, country-level regulation, and the cost of replacing aircraft terminals.
 
-The source gives Starlink two roles. First, it can generate commercial cash flow for longer-horizon Mars and [[Starship]] ambitions. Second, it can become part of [[SpaceEconomyInfrastructure]] by providing a space-based data highway with physical latency advantages in some routes and possible future relevance to [[SpaceBasedAIInfrastructure]].
+## Key Characteristics
+- Low-earth-orbit connectivity network enabled by SpaceX launch and satellite-manufacturing capacity.
+- Commercial cash-flow and public-market growth line within the broader SpaceX platform story.
+- Remote, mobile, and wartime infrastructure whose private access controls can have public consequences.
+- Operational precedent for satellite scale, telemetry, thermal management, and orbital governance.
+- Airline-connectivity supplier using free passenger access and installed equipment to accelerate adoption.
 
-[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] reinforces the cash-flow role. [[PareshDave]] says [[SpaceX]] appears profitable at least on an adjusted basis, helped by Starlink and launch revenue, making Starlink part of the reason [[XAI|xAI]] could get a better-funded home inside SpaceX.
+## Evidence
+- Launch economics and platform role: [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] treats reusable launch as the precondition for Starlink scale, while [[tech-20260818-tech-pod-128-tech-20260818-tech-pod-128]] links the constellation to launch and spaceport demand.
+- Business and capital role: [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] frames Starlink as a stronger revenue base for the wider Musk company structure, and [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds source-scoped subscriber, capacity, and public-market claims.
+- Connectivity and mixed infrastructure: [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] presents Starlink as useful pressure and a stopgap in Nigeria rather than a complete substitute for fiber and mobile networks.
+- Private infrastructure power: [[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] and [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] show battlefield precision and whitelist decisions making Starlink part of [[PrivateInfrastructureWarPower]].
+- Operational and cultural spillovers: [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] treats Starlink as partial precedent for orbital compute, while [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] uses its visible satellite train as an internet-era demystification case.
+- Aviation adoption: [[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] notes airline partnerships, and [[haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv]] explains free passenger access, long contracts, terminal lock-in, indirect airline monetization, and regulatory coverage gaps.
 
-[[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] adds a user-infrastructure case from [[Nigeria]]. In that source, Starlink appeals to people frustrated by unreliable internet and may help places where terrain or distance makes conventional service expensive, but the episode treats it as a stopgap inside [[AfricaConnectivityInfrastructure]] rather than a complete replacement for fibre, mobile networks, or other providers such as [[Eutelsat]].
+## Qualifications
+Subscriber counts, revenue, aircraft orders, installation costs, financial performance, and coverage claims are source-scoped and time-sensitive. Starlink does not eliminate the need for terrestrial networks, and low-earth-orbit capacity does not remove certification, equipment, congestion, environmental, debris, sovereignty, or private-control risks. Aviation adoption is substantial in the episode's account but does not establish an uncontested global standard.
 
-[[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] adds a battlefield access-control case from [[Ukraine]]. The episode says Ukrainian drones have gained a precision advantage through Starlink satellite technology, while Russian access in occupied territories has been removed. In the wiki, this makes Starlink part of [[LowCostDroneWarfare]] and [[WarVisibilityStrategy]], not only consumer or remote-area connectivity.
+## What Changed
+- Migrated the page to the synthesis-first entity schema using its complete preserved evidence inventory.
+- Added aviation as a distinct Starlink market with free-to-passenger adoption incentives and aircraft switching costs.
+- Added Amazon Leo, traditional suppliers, and national regulation as explicit limits on airline-market dominance.
 
-[[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] adds [[ElonMusk]]'s first-person version of that access-control problem. Musk says [[SpaceX]] never sold terminals to Russians, but Russian users obtained terminals through Ukraine and smuggling; SpaceX then worked with Ukraine on whitelists that also cut off some innocent users. This makes Starlink a clearer [[PrivateInfrastructureWarPower]] case.
-
-[[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds Starlink as an internet-era demystification case. The hosts describe seeing a line of lights in the sky and quickly identifying it online as Starlink, arguing that a similar sighting in an earlier media environment might have become a stronger [[UrbanLegend|urban legend]] or UFO story.
-
-[[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds Starlink as operational precedent for orbital compute. The episode treats Starlink's scaled satellite manufacturing, low-earth-orbit telemetry, heat-pump experience, and collision-avoidance operations as possible advantages if [[SpaceX]] tries to build [[SpaceBasedAIInfrastructure]]. The source does not claim Starlink makes orbital data centers solved; it makes Starlink a partial learning base for [[OrbitalDataCenterThermalManagement]] and [[OrbitalComputeGovernance]].
-
-[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds a public-earnings view. [[JoannaStern]] says Starlink is performing well, including through partnerships with airlines, while the same [[SpaceX]] segment links large satellite and rocket activity to [[OrbitalDebrisGovernance]] concerns.
-
-## Connections
-- [[SpaceX]], [[Starship]], [[AIComputePriceRisk]], and [[AIInfrastructureDebtFinancing]] - August 8 All-In branch where Starlink growth and V3 capacity support the public-market and AI-infrastructure story.
-- [[SpaceX]] — Starlink's parent company in the source.
-- [[ReusableRocketEconomics]] — launch-cost precondition for building the constellation.
-- [[Starship]] — next vehicle platform that could further lower deployment cost.
-- [[SpaceEconomyInfrastructure]] and [[SpaceBasedAIInfrastructure]] — broader platform roles suggested by the episode.
-- [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], and [[OrbitalComputeGovernance]] - E239's orbital-compute update.
-- [[XAI|xAI]] and [[Grok]] — AI entities tied to Starlink through the SpaceX acquisition discussion.
-- [[Nigeria]], [[Eutelsat]], and [[AfricaConnectivityInfrastructure]] — connectivity branch added by the Economist source.
-- [[Ukraine]], [[LowCostDroneWarfare]], and [[WarVisibilityStrategy]] — battlefield precision branch added by the later Economist source.
-- [[PrivateInfrastructureWarPower]] — governance branch added by the full Musk interview.
-- [[UrbanLegend|都市传说]] and [[UFOConspiracyCulture]] — sky-sighting demystification branch added by episode 95.
-- [[JoannaStern]], [[MarketplaceTech]], and [[OrbitalDebrisGovernance]] - August 2026 earnings and space-junk branch.
-- [[CommercialSatelliteConstellations]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] - August 18 Marketplace Tech launch-capacity branch.
+## Relationships
+- [[SpaceX]] - parent company, launch provider, and capital context.
+- [[ReusableRocketEconomics]] - launch-cost mechanism enabling constellation scale.
+- [[SatelliteConnectivityCompetition]] - market structure containing Starlink and alternative providers.
+- [[InFlightConnectivityEconomics]] - aviation business model strengthened by Starlink capacity and subsidy.
+- [[PrivateInfrastructureWarPower]] - governance risk when access decisions affect wartime operations.
+- [[AfricaConnectivityInfrastructure]] - mixed-network context where Starlink complements rather than replaces terrestrial systems.
+- [[SpaceBasedAIInfrastructure]] - speculative downstream platform for which Starlink provides partial operating precedent.
+- [[OrbitalDebrisGovernance]] - externality and coordination constraint created by constellation scale.

@@ -37225,3 +37225,11 @@ Added source `715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872` and 
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | 海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？
+
+Added source `haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv`; created [[AmazonLeo]] and [[InFlightConnectivityEconomics]]; and resynthesized [[Starlink]], [[SatelliteConnectivityCompetition]], [[AirlineServiceDifferentiation]], [[AirlineLoyaltyProgramMoat]], [[AmericanAirlines|American Airlines]], and [[DeltaAirLines|Delta Air Lines]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: low-earth-orbit capacity makes broad onboard access more credible; SpaceX can subsidize free passenger use to win long aircraft contracts and installed-terminal lock-in; and airlines can recover value through service differentiation, loyalty enrollment, passenger data, advertising, ticket sales, and co-branded credit cards. Amazon Leo, traditional providers, equipment certification, switching costs, and national operating restrictions keep the market contestable. No settled contradiction was adopted. Airline counts, aircraft orders, installation costs, revenue estimates, membership growth, coverage restrictions, and Chinese constellation progress remain episode-attributed. The automatic `wiki/overview.md` was read for context and left unchanged because the focused pages capture the durable addition without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,664 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

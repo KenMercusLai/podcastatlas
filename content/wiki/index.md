@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？](sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv.md) — 声动早咖啡 episode on how low-earth-orbit capacity, supplier subsidy, loyalty enrollment, advertising, and long aircraft contracts are making free in-flight Wi-Fi a competitive standard.
 - [715. King Arthur: The Mysteries of Merlin (Part 3)](sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872.md) — The Rest Is History on Geoffrey of Monmouth's pseudo-history, Merlin's composite formation and political prophecies, and the unresolved early evidence for Arthur.
 - [商业小样51 | 为什么办公椅越贵，对老板反而越合算？](sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp.md) — 商业就是这样以人体工学椅连接耐用性、摊销、办公环境、生产力、员工留任、招聘与品牌信号，并保留ROI估算的证据边界。
 - [EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来](sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly.md) — 一劳永逸以《FX战士久留美》讲解外汇保证金、日元套息、强制平仓、止损、结果偏误、沉没成本与生活资金隔离。
@@ -4753,6 +4754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm.md) — 十字路口Crossing interview with Trigg's team on three startup pivots, general-agent ecosystem distribution, data and tool aggregation, narrow operational loops, multi-agent work, and the limits of zero-human companies.
 
 ## Entities
+- [Amazon Leo](entities/AmazonLeo.md) — Amazon low-earth-orbit satellite service presented as an airline-connectivity alternative to Starlink.
 - [Steelcase](entities/Steelcase.md) — Premium office-furniture and workplace-solutions company used to connect long warranties, lifecycle cost, and professional space planning.
 - [西昊 / Sihoo](entities/Sihoo.md) — Chinese office-chair brand used as the lower-priced, shorter-reported-warranty side of an approximate lifecycle comparison.
 - [《FX战士久留美》 / FX Senshi Kurumi](entities/FXSenshiKurumi.md) — 以家庭亏损、外汇杠杆和错误强化呈现交易心理与风险教育的金融题材作品。
@@ -18412,6 +18414,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [In-Flight Connectivity Economics](concepts/InFlightConnectivityEconomics.md) — Model linking satellite capacity, free passenger access, supplier lock-in, airline loyalty, advertising, and credit-card distribution.
 - [Workplace Environment Investment / 办公环境投资](concepts/WorkplaceEnvironmentInvestment.md) — 以全生命周期成本评估办公家具与空间对员工健康、生产力、留任、招聘和品牌信号的潜在价值。
 - [Foreign Exchange Margin Trading / 外汇保证金交易](concepts/ForeignExchangeMarginTrading.md) — 以货币对、双向头寸、保证金、杠杆和强制平仓构成的零售外汇风险机制。
 - [Trading Outcome Bias / 交易结果偏误](concepts/TradingOutcomeBias.md) — 以单次盈亏替代事前信息、仓位、风险边界和执行过程来评价交易决策的偏误。

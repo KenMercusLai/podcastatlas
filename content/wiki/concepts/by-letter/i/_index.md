@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10636
+wiki_total_pages: 10637
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "InVivoMRNACART"
     title: "In Vivo mRNA CAR-T"
     url: "/wiki/concepts/invivomrnacart/"
+  - key: "InFlightConnectivityEconomics"
+    title: "In-Flight Connectivity Economics"
+    url: "/wiki/concepts/inflightconnectivityeconomics/"
   - key: "InGameAssetMarketplace"
     title: "In-Game Asset Marketplace"
     url: "/wiki/concepts/ingameassetmarketplace/"

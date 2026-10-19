@@ -10926,6 +10926,36 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/aireyneave/"
     },
+    "AirlineLoyaltyProgramMoat": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320 [default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320].md",
+          "key": "spirit-airlines-and-the-future-of-cheap-flights",
+          "show": "Planet Money",
+          "title": "Spirit Airlines and the future of cheap flights",
+          "url": "/wiki/sources/spirit-airlines-and-the-future-of-cheap-flights/"
+        },
+        {
+          "episode_file": "140.酒店集团为什么都热衷于打造会员和积分体系？｜ 串台远行者与碎冰匠 [lj_XA3WXzJOG6_8Zm9nfAkH6UleW].md",
+          "key": "140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew",
+          "show": "起朱楼宴宾客",
+          "title": "140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠",
+          "url": "/wiki/sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew/"
+        },
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/airlineloyaltyprogrammoat/"
+    },
     "AirlineMealIndustrialization": {
       "episode_count": 2,
       "show_count": 2,
@@ -10966,9 +10996,9 @@
       "url": "/wiki/concepts/airlinemealmonetization/"
     },
     "AirlineServiceDifferentiation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -11004,9 +11034,16 @@
           "show": "声东击西",
           "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
           "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        },
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/airlineservicedifferentiation/"
     },
     "AirportApprovalAirspaceConstraint": {
@@ -13716,6 +13753,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/amateurfarmingvslivelihoodagriculture/"
     },
+    "AmazonLeo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/amazonleo/"
+    },
     "AmazonMGMStudios": {
       "episode_count": 1,
       "show_count": 1,
@@ -13968,6 +14021,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/amersports/"
+    },
+    "AmericanAirlines": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320 [default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320].md",
+          "key": "spirit-airlines-and-the-future-of-cheap-flights",
+          "show": "Planet Money",
+          "title": "Spirit Airlines and the future of cheap flights",
+          "url": "/wiki/sources/spirit-airlines-and-the-future-of-cheap-flights/"
+        },
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/americanairlines/"
     },
     "AmericanCivilWar": {
       "episode_count": 4,
@@ -67639,6 +67715,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/delphicoracle/"
+    },
+    "DeltaAirLines": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320 [default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320].md",
+          "key": "spirit-airlines-and-the-future-of-cheap-flights",
+          "show": "Planet Money",
+          "title": "Spirit Airlines and the future of cheap flights",
+          "url": "/wiki/sources/spirit-airlines-and-the-future-of-cheap-flights/"
+        },
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/deltaairlines/"
     },
     "DemandSideTraffickingLiability": {
       "episode_count": 1,
@@ -136340,6 +136439,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/impostorsyndrome/"
+    },
+    "InFlightConnectivityEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/inflightconnectivityeconomics/"
     },
     "InStoreDealCompetition": {
       "episode_count": 1,
@@ -242785,6 +242900,43 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/satchinpanda/"
     },
+    "SatelliteConnectivityCompetition": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md",
+          "key": "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "As space launches increase, there aren't enough spaceports",
+          "url": "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+        },
+        {
+          "episode_file": "对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后 (1) [173-1].md",
+          "key": "173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1",
+          "show": "晚点聊 LateTalk",
+          "title": "173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后",
+          "url": "/wiki/sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1/"
+        },
+        {
+          "episode_file": "tech_20260417_0417_MP_TECH_pod_128 [tech_20260417_0417_MP_TECH_pod_128].md",
+          "key": "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
+          "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/satelliteconnectivitycompetition/"
+    },
     "SatnamSanghera": {
       "episode_count": 1,
       "show_count": 1,
@@ -259090,6 +259242,92 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/stargardtdisease/"
+    },
+    "Starlink": {
+      "episode_count": 11,
+      "show_count": 7,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md",
+          "key": "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "As space launches increase, there aren't enough spaceports",
+          "url": "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
+          "key": "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Gig workers train humanoids on household chores",
+          "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+          "key": "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+          "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
+        },
+        {
+          "episode_file": "In it to bin it： Nigel Farage v Count Binface [6a58abcdc152a357db17c20e].md",
+          "key": "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e",
+          "show": "Economist Podcasts",
+          "title": "In it to bin it: Nigel Farage v Count Binface",
+          "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+        },
+        {
+          "episode_file": "Putin’s options： an oligarch speaks out [6a50c5ebbafe2fa6a7f38210].md",
+          "key": "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210",
+          "show": "Economist Podcasts",
+          "title": "Putin's options: an oligarch speaks out",
+          "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+        },
+        {
+          "episode_file": "95.都市传说：猎奇故事和我们内心深处的焦虑 [723831611].md",
+          "key": "95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611",
+          "show": "蜜獾吃书",
+          "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
+          "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
+        },
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "GKwRIUEOqxAEAH7yKgTrGBWv [GKwRIUEOqxAEAH7yKgTrGBWv].md",
+          "key": "haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv",
+          "show": "声动早咖啡",
+          "title": "海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？",
+          "url": "/wiki/sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/starlink/"
     },
     "Starship": {
       "episode_count": 7,
