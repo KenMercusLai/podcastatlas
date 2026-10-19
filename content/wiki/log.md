@@ -37241,3 +37241,11 @@ Added source `seinfeld-ca0df1168651e0a51be7d6012432411f`; created [[SeinfeldTVSe
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand
+
+Added source `sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b`; created [[LorenCastle]] and [[SweetLorens]]; and resynthesized [[DietaryConstraintProductInsight]], [[DirectCustomerFeedbackLoop]], [[SlowProductMarketFit]], [[CPGManufacturingScaleUp]], and [[TasteFirstCPGPositioning]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: a familiar product can take years to find decisive differentiation; customer restriction requests become more credible when a reformulated SKU changes sales behavior; and taste, stage-matched manufacturing, retail execution, packaging, and patient financing must work together for allergy-conscious positioning to broaden beyond a niche. No settled contradiction was adopted. Store counts, revenues, investment totals, profitability, allergy prevalence, SKU rank, certification, cross-contact controls, and the unconfirmed 2025 sales projection remain participant-reported or source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because this focused CPG case deepens the existing consumer-brand map without changing its global current-state judgment. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,666 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

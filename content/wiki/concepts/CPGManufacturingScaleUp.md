@@ -10,7 +10,8 @@ sources:
   - yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285
   - banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8
   - advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce
-last_updated: 2026-10-15
+  - sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b
+last_updated: 2026-10-19
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,11 +21,12 @@ knowledge_schema: synthesis-v1
 CPG manufacturing scale-up is the transition from a product a founder can make or supervise in small batches to a product that can be produced consistently, safely, economically, and at enough volume for customers and retailers.
 
 ## Current Synthesis
-Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows, and a durable-goods analogue, scale-up is a coupled system rather than a capacity purchase. Formulation, shelf life, equipment, operator knowledge, food safety, packaging, supplier depth, working capital, retail timing, and customer continuity have to mature together. Co-manufacturers are useful only where their actual process knowledge matches the product; owned capacity can improve control but raises financing and operating exposure; the largest line is not always the best learning environment for an unstable product; and retail commitments should not outrun repeatable production.
+Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows, refrigerated dough, and a durable-goods analogue, scale-up is a coupled system rather than a capacity purchase. Formulation, shelf life, equipment, operator knowledge, food safety, packaging, supplier depth, working capital, retail timing, and customer continuity have to mature together. Co-manufacturers are useful only where their actual process knowledge and minimum runs match the product and demand stage; owned capacity can improve control but raises financing and operating exposure; the largest line is not always the best learning environment for an unstable product; and retail commitments should not outrun repeatable production.
 
 ## Key Claims
 - Product formulation and manufacturing method co-evolve; a home recipe cannot be assumed to survive commercial equipment unchanged.
 - Throughput, learning speed, quality control, packaging capability, and ingredient-specific know-how are separate dimensions of capacity.
+- Minimum production runs and logistics must fit current demand; a technically capable plant can still be commercially unusable for an early one-store launch.
 - Demand can become dangerous when retail commitments or dependent customers arrive before replenishment and process reliability are secure.
 - Greater manufacturing control can protect safety, continuity, and differentiation, but it shifts capital, staffing, certification, and execution risk onto the brand.
 - Resilient scale requires use-state quality tests, documented process knowledge, qualified alternatives, and explicit limits on growth when supply cannot safely follow.
@@ -38,11 +40,13 @@ Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows,
 ### Capability mismatch and learning economics
 - [[banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8]] shows [[Banza]] moving to a faster plant whose rice-and-corn experience did not transfer cleanly to beans; large failed runs depleted capital, while a smaller plant enabled shorter adjustment cycles.
 - [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]] shows that a partner able to make cereal squares could still lack seasoning and stand-up-pouch capabilities.
+- [[sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b]] shows [[SweetLorens]] rejecting roughly 10,000-pound minimum runs for a one-store launch, using a small upstate plant and improvised cold delivery, then moving to a larger cookie-dough specialist when retail scale and factory disruption changed the requirement.
 
 ### Control, safety, and continuity
 - [[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]] shows [[MadeGood]] using owned manufacturing to support allergen-free process control and retailer-responsive pack formats, while a later broad recall demonstrates the continuing safety burden.
 - [[bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69]] shows [[Bobbie]] limiting growth to protect subscribers under five-to-six-month lead times, then acquiring [[NaturesOne]] to reduce dependence on scarce contract capacity.
 - [[advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce]] shows [[XOMarshmallow]] extending shelf life, changing ingredients, testing retailer-compatible sweeteners, raising capacity capital, and importing manufacturing lessons before broad grocery commitments.
+- [[sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b]] shows a specialized allergy-conscious test plant helping translate home starch-and-flour experiments into a commercial dough, while the full-line conversion couples formulation change to retailer demand and packaging.
 
 ### Supplier resilience beyond food
 - [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] provides a durable-goods analogue: [[YETI]] needed digitized designs, molds, overseas and U.S. factories, documentation, and supplier redundancy after losing a key manufacturing partner.
@@ -53,13 +57,12 @@ Across nut butter, cereal, snacks, infant formula, chickpea pasta, marshmallows,
 - Retail demand, founder effort, and customer enthusiasm do not excuse unstable quality or unsafe continuity decisions.
 - The cases are founder retrospectives across materially different categories, so their operating lessons should not be treated as one universal scale sequence.
 - XO Marshmallow's 18-month shelf-life target, profitability, facility capacity, and retail readiness are company-reported and not validated by sell-through or audited production data in the source.
+- Sweet Loren's manufacturing, ingredient-exclusion, and scale claims are founder-reported; the episode does not provide plant audits, certification records, or cross-contact testing.
 
 ## What Changed
-- Adds Banza's distinction between throughput capacity and learning capacity.
-- Adds customer-use-state testing as a necessary gate after dry product appeared acceptable but failed during cooking.
-- Strengthens operator context and ingredient-specific knowledge as scale-transfer controls.
-- Preserves owned capacity, co-manufacturing, and supplier redundancy as contingent rather than universally ranked strategies.
-- Adds retail-readiness work as a coupled formulation, shelf-life, retailer-policy, and manufacturing gate.
+- Added Sweet Loren's as a stage-matched co-manufacturing and refrigerated-logistics case.
+- Made minimum runs and current demand part of manufacturing-partner fit.
+- Added whole-line reformulation as a coupled product, plant, retailer, and packaging transition.
 
 ## Related Concepts
 - [[NovelFoodManufacturingTransferRisk]] - specific risk when unfamiliar ingredients move to faster industrial equipment.

@@ -35836,9 +35836,9 @@
       "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
     },
     "CPGManufacturingScaleUp": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
@@ -35888,9 +35888,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Tara Bosch of SmartSweets",
           "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        },
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/cpgmanufacturingscaleup/"
     },
     "CPRAEDResponseBoundary": {
@@ -70222,6 +70229,36 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/diettrialequipoise/"
     },
+    "DietaryConstraintProductInsight": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
+          "key": "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d",
+          "show": "How I Built This with Guy Raz",
+          "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
+          "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+        },
+        {
+          "episode_file": "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
+          "key": "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2",
+          "show": "How I Built This with Guy Raz",
+          "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
+          "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+        },
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/dietaryconstraintproductinsight/"
+    },
     "DietaryFatQuantityAndQuality": {
       "episode_count": 1,
       "show_count": 1,
@@ -71316,9 +71353,9 @@
       "url": "/wiki/concepts/diplomaticscapegoatblametransfer/"
     },
     "DirectCustomerFeedbackLoop": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Thrive Causemetics： Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission [be72ee5e-a5fd-4554-bd4d-fda64909e6f6].md",
@@ -71326,9 +71363,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Thrive Causemetics: Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission",
           "url": "/wiki/sources/thrive-causemetics-karissa-bodnar-how-150-a-day-in-sales-turned-into-a-150-million-beauty-business-with-a-mission-be72ee5e-a5fd-4554-bd4d-fda64909e6f6/"
+        },
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/directcustomerfeedbackloop/"
     },
     "DirectRemonstranceCriminalization": {
@@ -171522,6 +171566,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/lordsappellant/"
     },
+    "LorenCastle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/lorencastle/"
+    },
     "LorenzoDeMedici": {
       "episode_count": 3,
       "show_count": 2,
@@ -253757,6 +253817,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/slowgatheringimprovisation/"
     },
+    "SlowProductMarketFit": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S3-DavidRusenko-v1 [TSR-S3-DavidRusenko-v1].md",
+          "key": "tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1",
+          "show": "The Social Radars",
+          "title": "David Rusenko on Weebly, Capital Efficiency, and Climate Tech",
+          "url": "/wiki/sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1/"
+        },
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/slowproductmarketfit/"
+    },
     "SlowProductivity": {
       "episode_count": 1,
       "show_count": 1,
@@ -265615,6 +265698,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/swedishempire/"
     },
+    "SweetLorens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/sweetlorens/"
+    },
     "SweetenerUncertainty": {
       "episode_count": 5,
       "show_count": 2,
@@ -268292,9 +268391,9 @@
       "url": "/wiki/concepts/taskswitchingresidue/"
     },
     "TasteFirstCPGPositioning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Late July Snacks： Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them [97049a31-9144-42f5-856c-9590c5e6beb4].md",
@@ -268309,9 +268408,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Ben Goodwin of Olipop",
           "url": "/wiki/sources/advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727/"
+        },
+        {
+          "episode_file": "Sweet Loren’s： Loren Castle. How A Recipe Makeover Built a National Cookie Brand [2e22478b-1b41-4ff1-a43b-0143a48f308b].md",
+          "key": "sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+          "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/tastefirstcpgpositioning/"
     },
     "TasteIdentityValenceCircuit": {

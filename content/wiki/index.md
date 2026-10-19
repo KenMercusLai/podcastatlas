@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand](sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b.md) — How I Built This founder story on Sweet Loren's slow retail build, stage-matched manufacturing, customer-led allergy-conscious reformulation, taste-first positioning, and national expansion.
 - [海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？](sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv.md) — 声动早咖啡 episode on how low-earth-orbit capacity, supplier subsidy, loyalty enrollment, advertising, and long aircraft contracts are making free in-flight Wi-Fi a competitive standard.
 - [715. King Arthur: The Mysteries of Merlin (Part 3)](sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872.md) — The Rest Is History on Geoffrey of Monmouth's pseudo-history, Merlin's composite formation and political prophecies, and the unresolved early evidence for Arthur.
 - [商业小样51 | 为什么办公椅越贵，对老板反而越合算？](sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp.md) — 商业就是这样以人体工学椅连接耐用性、摊销、办公环境、生产力、员工留任、招聘与品牌信号，并保留ROI估算的证据边界。
@@ -4755,6 +4756,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seinfeld](sources/seinfeld-ca0df1168651e0a51be7d6012432411f.md) — Acquired episode linking Seinfeld's observational craft, self-contained convergent plots, independent production, syndication, and streaming to a durable media library.
 
 ## Entities
+- [Loren Castle](entities/LorenCastle.md) — Sweet Loren's founder linking sensory craft, direct customer evidence, patient operations, and an allergy-conscious portfolio pivot.
+- [Sweet Loren's](entities/SweetLorens.md) — Refrigerated-dough and baking-products brand combining homemade taste with multi-restriction inclusion and national grocery distribution.
 - [Seinfeld](entities/SeinfeldTVSeries.md) — Sitcom whose stable characters, interlocking plots, and long licensing afterlife connect creative form to library economics.
 - [Jerry Seinfeld](entities/JerrySeinfeld.md) — Comedian, co-creator, performer, and producer combining deliberate stand-up refinement with television authorship and exit discipline.
 - [Larry David](entities/LarryDavid.md) — Comedian and co-creator whose grievances, structural instincts, and resistance to compromise shaped Seinfeld's early creative system.
@@ -21037,7 +21040,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Desire Governance Fitness / 欲望治理适任性](concepts/DesireGovernanceFitness.md) — succession and leadership principle that excessive desire makes a candidate unsafe to govern others.
 - [Mission Constrained Product Development](concepts/MissionConstrainedProductDevelopment.md) — Product-development pattern where purpose becomes concrete user, safety, ingredient, or performance constraints.
 - [Beauty Formulation Control](concepts/BeautyFormulationControl.md) — Beauty-brand moat from owned formulas, chemistry capability, supplier exclusivity, and contracts rather than factory ownership alone.
-- [Direct Customer Feedback Loop](concepts/DirectCustomerFeedbackLoop.md) — Learning system from direct customer comments, sales changes, support issues, and product requests.
+- [Direct Customer Feedback Loop](concepts/DirectCustomerFeedbackLoop.md) — Learning system connecting customer requests, comments, sharing, sales behavior, service evidence, and operating response across DTC or retail-led brands.
 - [Lean Consumer Brand Operations](concepts/LeanConsumerBrandOperations.md) — Consumer-product operating discipline around scarce cash, small teams, customer service, product development, and product-by-product growth.
 - [Commitment Bias Public Promise](concepts/CommitmentBiasPublicPromise.md) — Brooks' use of public vows and declarations as support for staying aligned with long-term values through difficulty.
 - [Enjoyment Vs Pleasure](concepts/EnjoymentVsPleasure.md) — Brooks' distinction between bare pleasure and enjoyment shaped by people, memory, conscious management, and moral aspiration.
@@ -22126,7 +22129,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Genetic Lineup Privacy Risk](concepts/GeneticLineupPrivacyRisk.md) — Risk that retained DNA profiles make people and biological relatives searchable in future policing.
 - [Compelled DNA Sampling Fourth Amendment](concepts/CompelledDNASamplingFourthAmendment.md) — Constitutional issue around taking DNA for database use without criminal arrest and probable cause.
 - [Product Category Velocity](concepts/ProductCategoryVelocity.md) — CPG category-economics concept showing how ordinary purchase frequency, use occasion, margin, and shelf expectations shape whether a product can scale.
-- [Taste-First CPG Positioning](concepts/TasteFirstCPGPositioning.md) — Food and beverage positioning strategy where flavor drives repeat purchase and mission deepens loyalty after the product works.
+- [Taste-First CPG Positioning](concepts/TasteFirstCPGPositioning.md) — Food positioning where sensory pleasure drives trial and repeat purchase while mission or dietary compatibility broadens trust without dominating the experience.
 - [Mission-Aligned Rescue Capital](concepts/MissionAlignedRescueCapital.md) — Emergency financing pattern where values-aligned investors, lenders, or connectors buy time for a credible strategic pivot.
 - [Key Person Insurance](concepts/KeyPersonInsurance.md) — Founder and debt-risk planning concept surfaced by Late July's loan default after Steve Bernard's death.
 - [Acquisition Contract Language](concepts/AcquisitionContractLanguage.md) — Governance concept where sale, merger, buyback, and change-of-control wording determine what founder rights actually survive later transactions.
@@ -27272,7 +27275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Category Focus Before Expansion](concepts/CategoryFocusBeforeExpansion.md) — Startup sequencing discipline of going deep in one category, geography, or use case before broadening the company surface area.
 - [Demand Shock Product-Market Fit](concepts/DemandShockProductMarketFit.md) — Breakout pattern where sudden demand overwhelms operations but retention and repeat buying reveal real product-market fit.
 - [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
-- [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
+- [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of learning, survival, product improvement, or positioning change precede clear behavioral evidence of fit.
 - [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of distributing real ownership while preserving founder context, customer contact, standards, and high-consequence judgment.
 - [Founder Instinct](concepts/FounderInstinct.md) — Founder-level high-context judgment that should not be suppressed by executives, boards, or imported playbooks when it is grounded in real product and user context.
 - [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
@@ -27868,8 +27871,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Subjectivity As AI Asset](concepts/SubjectivityAsAIAsset.md) — Claim that personal values, taste, memory, prior work, and self-definition become scarce assets when generic intelligence is widely available.
 - [Long-Horizon AI](concepts/LongHorizonAI.md) — Model and agent capability for completing extended tasks through selective context retention, retrieval, compression, forgetting, and feedback over long work chains.
 - [ML Coding](concepts/MLCoding.md) — AI-assisted machine-learning research loop where models write experiment code, run jobs, analyze results, diagnose failures, and propose next hypotheses.
-- [Dietary Constraint Product Insight](concepts/DietaryConstraintProductInsight.md) — Pattern where a founder's health or nutrition constraint reveals a product gap that broader customers may also feel.
-- [CPG Manufacturing Scale-Up](concepts/CPGManufacturingScaleUp.md) — Transition from handmade packaged goods to consistent, safe, economical production at retail-capable volume.
+- [Dietary Constraint Product Insight](concepts/DietaryConstraintProductInsight.md) — Pattern where personal, institutional, or customer-reported eating constraints reveal product requirements that may generalize to a broader market.
+- [CPG Manufacturing Scale-Up](concepts/CPGManufacturingScaleUp.md) — Transition from handmade packaged goods to stage-matched, consistent, safe, economical production at retail-capable volume.
 - [Packaging As Product Experience](concepts/PackagingAsProductExperience.md) — CPG pattern where package format, closure, portability, instructions, and freshness shape use and willingness to pay.
 - [The Untimely](concepts/TheUntimely.md) — Bayo Akomolafe's frame for excess, residue, cracks, and unknown tasks produced inside modern time rather than outside it.
 - [Modern Time Discipline](concepts/ModernTimeDiscipline.md) — Clock, calendar, productivity, progress, and catch-up order treated as a cultural-political story rather than neutral measurement.
