@@ -3882,8 +3882,8 @@
       "earliest_episode_date": "2026-02-04",
       "latest_episode_date": "2026-10-19",
       "latest_episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
-      "source_note_count": 24,
-      "topic_matched_source_note_count": 19,
+      "source_note_count": 25,
+      "topic_matched_source_note_count": 20,
       "topics": [
         {
           "key": "economics",
@@ -3902,6 +3902,12 @@
           "label": "Science",
           "url": "/topics/science/",
           "source_note_count": 3
+        },
+        {
+          "key": "history",
+          "label": "History",
+          "url": "/topics/history/",
+          "source_note_count": 1
         }
       ],
       "entities": [],

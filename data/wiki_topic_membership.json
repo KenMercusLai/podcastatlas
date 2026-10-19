@@ -16172,6 +16172,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ArchiveFieldTriangulation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ArchivePreservationBias": [
     {
       "key": "history",
@@ -72941,6 +72948,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PublicFacingHistoricalWriting": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "PublicFigureWorkplaceAdviceSatire": [
     {
       "key": "culture",
@@ -82941,6 +82955,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SpatialHistoricalLayering": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SpatialLoveStudies": [
@@ -97031,6 +97057,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "XitaBook": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Xiuwu": [
     {
       "key": "history",
@@ -102210,6 +102248,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53": [

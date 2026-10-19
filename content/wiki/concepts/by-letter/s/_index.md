@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2912,6 +2912,9 @@ wiki_pages:
   - key: "SecretImperialInfantSuppression"
     title: "秘密皇子压制 / Secret Imperial Infant Suppression"
     url: "/wiki/concepts/secretimperialinfantsuppression/"
+  - key: "SpatialHistoricalLayering"
+    title: "空间历史层积 / Spatial Historical Layering"
+    url: "/wiki/concepts/spatialhistoricallayering/"
   - key: "StrategicPersonalDeference"
     title: "策略性低姿态进身 / Strategic Personal Deference"
     url: "/wiki/concepts/strategicpersonaldeference/"

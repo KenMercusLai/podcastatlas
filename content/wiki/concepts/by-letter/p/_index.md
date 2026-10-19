@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3008,6 +3008,9 @@ wiki_pages:
   - key: "PostalMonopolyPrivateExpressLegalization"
     title: "邮政专营与民营快递合法化"
     url: "/wiki/concepts/postalmonopolyprivateexpresslegalization/"
+  - key: "PublicFacingHistoricalWriting"
+    title: "面向公众的历史写作 / Public-Facing Historical Writing"
+    url: "/wiki/concepts/publicfacinghistoricalwriting/"
   - key: "ProphecyFulfillmentDisplacement"
     title: "预言兑现错位 / Prophecy Fulfillment Displacement"
     url: "/wiki/concepts/prophecyfulfillmentdisplacement/"

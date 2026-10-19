@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "HistoricalPrecedentCrisisPlanning"
     title: "历史先例式危机规划 / Historical Precedent Crisis Planning"
     url: "/wiki/concepts/historicalprecedentcrisisplanning/"
+  - key: "HistoricizedRegionalCategories"
+    title: "历史化区域概念 / Historicized Regional Categories"
+    url: "/wiki/concepts/historicizedregionalcategories/"
   - key: "HistoricalFemaleRoleModelCaution"
     title: "历史女性榜样化警惕 / Historical Female Role-Model Caution"
     url: "/wiki/concepts/historicalfemalerolemodelcaution/"

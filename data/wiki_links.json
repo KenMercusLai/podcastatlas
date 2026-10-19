@@ -10919,6 +10919,10 @@
     "title": "Archive Access Tradeoff",
     "url": "/wiki/concepts/archiveaccesstradeoff/"
   },
+  "ArchiveFieldTriangulation": {
+    "title": "档案互证与现场三角校验 / Archive-Field Triangulation",
+    "url": "/wiki/concepts/archivefieldtriangulation/"
+  },
   "ArchivePreservationBias": {
     "title": "Archive Preservation Bias / 档案保存偏差",
     "url": "/wiki/concepts/archivepreservationbias/"
@@ -21994,6 +21998,10 @@
   "ComparativeAdvantage": {
     "title": "Comparative Advantage",
     "url": "/wiki/concepts/comparativeadvantage/"
+  },
+  "ComparativeDeindustrialization": {
+    "title": "比较去工业化 / Comparative Deindustrialization",
+    "url": "/wiki/concepts/comparativedeindustrialization/"
   },
   "ComparativeGenomicsTraitInference": {
     "title": "Comparative Genomics Trait Inference",
@@ -42426,6 +42434,10 @@
   "HistoricalYouxiaToLiteraryWuxia": {
     "title": "历史游侠到文学武侠 / Historical Youxia to Literary Wuxia",
     "url": "/wiki/concepts/historicalyouxiatoliterarywuxia/"
+  },
+  "HistoricizedRegionalCategories": {
+    "title": "历史化区域概念 / Historicized Regional Categories",
+    "url": "/wiki/concepts/historicizedregionalcategories/"
   },
   "HistoriographicalFounderCriteria": {
     "title": "Historiographical Founder Criteria / 史学奠基者标准",
@@ -72323,6 +72335,10 @@
     "title": "Public Expression Against Trolls / 面对喷子的公共表达",
     "url": "/wiki/concepts/publicexpressionagainsttrolls/"
   },
+  "PublicFacingHistoricalWriting": {
+    "title": "面向公众的历史写作 / Public-Facing Historical Writing",
+    "url": "/wiki/concepts/publicfacinghistoricalwriting/"
+  },
   "PublicFigureWorkplaceAdviceSatire": {
     "title": "Public-Figure Workplace Advice Satire",
     "url": "/wiki/concepts/publicfigureworkplaceadvicesatire/"
@@ -82710,6 +82726,10 @@
   "SpatialComputing": {
     "title": "Spatial Computing / 空间计算",
     "url": "/wiki/concepts/spatialcomputing/"
+  },
+  "SpatialHistoricalLayering": {
+    "title": "空间历史层积 / Spatial Historical Layering",
+    "url": "/wiki/concepts/spatialhistoricallayering/"
   },
   "SpatialLoveStudies": {
     "title": "Spatial Love Studies / 空间爱情学",
@@ -96555,6 +96575,10 @@
     "title": "西双版纳植物园 / Xishuangbanna Botanical Garden",
     "url": "/wiki/entities/xishuangbannabotanicalgarden/"
   },
+  "XitaBook": {
+    "title": "《西塔》 / Xita",
+    "url": "/wiki/entities/xitabook/"
+  },
   "XiuLife": {
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
@@ -102774,6 +102798,10 @@
   "community-led-saas-growth-how-ninety-hit-44m-arr": {
     "title": "Community-Led SaaS Growth: How Ninety Hit $44M ARR",
     "url": "/wiki/sources/community-led-saas-growth-how-ninety-hit-44m-arr/"
+  },
+  "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5": {
+    "title": "从东北到东亚，历史是一个过程，人也是",
+    "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
   },
   "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53": {
     "title": "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19",

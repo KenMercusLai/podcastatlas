@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13592
+wiki_total_pages: 13593
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "XujingQitan"
     title: "《虚境奇谭》"
     url: "/wiki/entities/xujingqitan/"
+  - key: "XitaBook"
+    title: "《西塔》 / Xita"
+    url: "/wiki/entities/xitabook/"
   - key: "XifangJuedouShi"
     title: "《西方决斗史》 / The History of Duelling"
     url: "/wiki/entities/xifangjuedoushi/"

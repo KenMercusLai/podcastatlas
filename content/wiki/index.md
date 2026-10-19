@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [从东北到东亚，历史是一个过程，人也是](sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5.md) — 面基对谈宋念申，以《西塔》连接沈阳空间层积、比较去工业化、档案与田野互证、具体日常口述史、公共写作及东亚概念的历史化。
 - [Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand](sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b.md) — How I Built This founder story on Sweet Loren's slow retail build, stage-matched manufacturing, customer-led allergy-conscious reformulation, taste-first positioning, and national expansion.
 - [海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？](sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv.md) — 声动早咖啡 episode on how low-earth-orbit capacity, supplier subsidy, loyalty enrollment, advertising, and long aircraft contracts are making free in-flight Wi-Fi a competitive standard.
 - [715. King Arthur: The Mysteries of Merlin (Part 3)](sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872.md) — The Rest Is History on Geoffrey of Monmouth's pseudo-history, Merlin's composite formation and political prophecies, and the unresolved early evidence for Arthur.
@@ -4757,6 +4758,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403.md) — Huberman Lab interview on leadership causation, historical scale, scientific fieldwork, mentorship, and finite-time knowledge stewardship.
 
 ## Entities
+- [《西塔》 / Xita](entities/XitaBook.md) — 宋念申以沈阳一处街区串联宗教空间、铁路、殖民、社区、工业变迁与消费生活的公共历史著作。
 - [Loren Castle](entities/LorenCastle.md) — Sweet Loren's founder linking sensory craft, direct customer evidence, patient operations, and an allergy-conscious portfolio pivot.
 - [Sweet Loren's](entities/SweetLorens.md) — Refrigerated-dough and baking-products brand combining homemade taste with multi-restriction inclusion and national grocery distribution.
 - [Seinfeld](entities/SeinfeldTVSeries.md) — Sitcom whose stable characters, interlocking plots, and long licensing afterlife connect creative form to library economics.
@@ -5933,7 +5935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Juan Pujol / Garbo](entities/JuanPujol.md) — Spanish double agent whose fictitious sub-agent network supported Allied D-Day deception.
 - [Vladimir Lenin](entities/VladimirLenin.md) — Bolshevik revolutionary who adapted Marxism to agrarian Russia through vanguard-party organization and seizure of power.
 - [Thomas Seymour](entities/ThomasSeymour.md) — Tudor courtier whose inappropriate conduct toward the teenage Elizabeth created lasting reputational danger.
-- [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — Liaoning capital viewed through Xita memory and the social, spatial, and governance systems of morning markets.
+- [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — 辽宁省会，通过西塔历史层积、去工业化、返乡记忆及早市的空间与治理系统呈现。
 - [太原 / Taiyuan (modern city)](entities/TaiyuanModern.md) — Shanxi capital represented through reusable market space, regular-customer trade, seasonal produce, and local breakfast.
 - [吴忠 / Wuzhong (Ningxia city)](entities/WuzhongCity.md) — Ningxia city whose morning food culture joins beef-noodle-derived early tea, Hui foods, business sociality, and lamb-offal breakfast.
 - [Hainan / 海南](entities/Hainan.md) — Chinese island province framed through local life, tourism concentration, policy-led growth, connectivity, and uneven resident benefit.
@@ -17870,7 +17872,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏飞 / Su Fei (late Han)](entities/SuFeiLateHan.md) — 黄祖旧部，因早年帮助甘宁而在孙权战后处置中获得甘宁以性命担保的赦免。
 - [凌操 / Ling Cao (late Han)](entities/LingCaoLateHan.md) — 凌统之父，其被甘宁射杀的旧怨成为孙权阵营内部必须压制和隔离的血仇风险。
 
-- [宋念申](entities/SongNianshen.md) — Historian connecting Northeast Asian border life and archives to modernity, colonialism, political economy, and question-led interdisciplinary research.
+- [宋念申](entities/SongNianshen.md) — 历史学者，以东北亚边界、空间层积、档案与田野互证、去工业化和公共写作连接地方经验与现代性批判。
 - [Okinawa](entities/Okinawa.md) — Strategic Japanese prefecture where concentrated U.S.-base burdens, Ryukyuan history, and economic marginalization shape local politics.
 - [Koja Gentar](entities/KojaGentar.md) — Okinawa governor-elect whose economic campaign and support for Henoko produced a record-vote landslide.
 - [Tamaki Denny](entities/TamakiDenny.md) — Outgoing Okinawa governor whose dignity-centered opposition to Henoko lost to economic and base-fatigue priorities.
@@ -18424,6 +18426,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jared Diamond](entities/JaredDiamond.md) — Scientist and writer connecting physiology, ornithology, comparative history, leadership causation, and late-life knowledge stewardship.
 
 ## Concepts
+- [历史化区域概念 / Historicized Regional Categories](concepts/HistoricizedRegionalCategories.md) — 将“东亚”“中国”“中心”与“边缘”视为可用但由历史和权力塑造、须保留内部多元性的分类。
+- [面向公众的历史写作 / Public-Facing Historical Writing](concepts/PublicFacingHistoricalWriting.md) — 以真实读者、问题、证据结构和叙事选择把专业研究转化为不牺牲复杂性的公共理解。
+- [档案互证与现场三角校验 / Archive-Field Triangulation](concepts/ArchiveFieldTriangulation.md) — 将不同机构档案与地图、图像、口述和现场空间相互校验的历史证据方法。
+- [比较去工业化 / Comparative Deindustrialization](concepts/ComparativeDeindustrialization.md) — 比较工业地区的就业和人口流失，同时区分公共服务、住房、文化与城市持续能力。
+- [空间历史层积 / Spatial Historical Layering](concepts/SpatialHistoricalLayering.md) — 把当下地点视为制度、人群、基础设施、记忆和经济形态长期叠加表面的空间史方法。
 - [Television Syndication Economics](concepts/TelevisionSyndicationEconomics.md) — Secondary market joining episode volume, proven demand, rights ownership, and repeated licensing of completed programs.
 - [Independent Production Backend Ownership](concepts/IndependentProductionBackendOwnership.md) — Structure preserving creator or outside-producer participation beyond first-run network fees and salaries.
 - [Self-Contained Narrative Rewatchability](concepts/SelfContainedNarrativeRewatchability.md) — Narrative design linking stable character premises and dense local plots to flexible scheduling and repeat viewing.
@@ -19284,7 +19291,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intestinal Barrier Integrity](concepts/IntestinalBarrierIntegrity.md) — Layered mucus, epithelial, tight-junction, immune, microbial, and metabolite control of movement across the gut lining.
 - [Multimodal Obesity Treatment](concepts/MultimodalObesityTreatment.md) — Mechanism-matched combination of nutrition, exercise, behavior, medication, endoscopy, or surgery with maintenance and lean-mass safeguards.
 - [Dialogic AI Literacy](concepts/DialogicAILiteracy.md) — Family and school practice combining experimentation, disagreement, ethics, failure analysis, and informed agency.
-- [AI-Enabled Archive Access](concepts/AIEnabledArchiveAccess.md) — Contextual, multimodal AI for searching, transcribing, and translating difficult historical records under explicit quality and governance limits.
+- [AI-Enabled Archive Access](concepts/AIEnabledArchiveAccess.md) — 用情境化多模态 AI 降低历史材料转录、翻译和检索门槛，同时保留来源、权利、核验与原创解释责任。
 - [See–Grow–Action Learning Loop / 破—立—行成长笔记](concepts/SeeGrowActionLearningLoop.md) — Lightweight loop that selects consequential insights, grows them through connection, and tests them through changed behavior and feedback.
 - [Physical Dynamical Computing](concepts/PhysicalDynamicalComputing.md) — Computation through trained evolution of coupled physical elements rather than only conventional digital instruction sequences.
 - [AI Data Movement Energy Cost](concepts/AIDataMovementEnergyCost.md) — Power spent transporting model state among memory, compute, chips, and systems rather than performing useful arithmetic.
@@ -22690,11 +22697,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creator Gifting Demand Manufacture](concepts/CreatorGiftingDemandManufacture.md) — Marketing pattern where gifted creator distribution makes a product appear socially adopted before paid demand is clear.
 - [Gendered AI Marketing](concepts/GenderedAIMarketing.md) — Framing AI products and adoption through gender-coded audiences, aesthetics, spokespeople, and empowerment pressure.
 - [普通人历史可见性 / Ordinary People Historical Visibility](concepts/OrdinaryPeopleHistoricalVisibility.md) — Method problem of how ordinary people become historically legible through fragile letters, archives, maps, fieldwork, genealogy, and memory.
-- [东北现代性试验场 / Northeast Modernity Test Site](concepts/NortheastModernityTestSite.md) — Frame for late Qing and early Republican Northeast China as a migration, land, religion, treaty, and global-modernity frontier.
+- [东北现代性试验场 / Northeast Modernity Test Site](concepts/NortheastModernityTestSite.md) — 将东北视为迁徙、土地、宗教、边界、铁路、工业化与去工业化多重现代性叠加的历史交界地。
 - [传教士地图知识生产 / Missionary Map Knowledge Production](concepts/MissionaryMapKnowledgeProduction.md) — Pattern where mission maps record space while also ranking villages and church infrastructure for a particular audience.
 - [女性宗教白话书写 / Vernacular Female Religious Writing](concepts/VernacularFemaleReligiousWriting.md) — Women using religious literacy, vernacular language, and devotional vocabulary to express feeling and constraint.
 - [女性宗教生活空间 / Female Religious Life Space](concepts/FemaleReligiousLifeSpace.md) — Ambivalent room created by religious roles such as 守贞女: agency outside marriage, but under hierarchy and discipline.
-- [口述记忆分析 / Oral History Memory Analysis](concepts/OralHistoryMemoryAnalysis.md) — Treating interviews as both event evidence and evidence of how memory is organized, revised, and narrated.
+- [口述记忆分析 / Oral History Memory Analysis](concepts/OralHistoryMemoryAnalysis.md) — 以具体日常提问、重复访谈和档案互证把口述同时作为事件证据与记忆重塑证据。
 - [历史问题意识 / Historical Question Consciousness](concepts/HistoricalQuestionConsciousness.md) — Historian's discipline for choosing questions that organize abundant sources and AI-era fact access.
 - [拒绝历史人物标签 / Historical Complexity Against Labels](concepts/HistoricalComplexityAgainstLabels.md) — Interpretive ethic for judging structure, achievement, harm, contradiction, and change without one-line moral flattening.
 - [Non-Market Environmental Valuation](concepts/NonMarketEnvironmentalValuation.md) — Method for pricing environmental services that ordinary markets ignore, used here to make Antarctica's climate value visible.
@@ -24734,7 +24741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Media Work As Lifestyle / 媒体工作作为生活方式](concepts/MediaWorkAsLifestyle.md) — Why journalists may stay for autonomy, learning, and contact with unfamiliar worlds while needing body, rest, and life maintenance.
 - [Long-Horizon Work Evaluation / 长时间尺度工作评估](concepts/LongHorizonWorkEvaluation.md) — EP244/Yuan Changgeng frame for judging work over a whole life rather than one immediate workplace conflict.
 - [Adaptation As Moral Reframing / 改编作为道德重心重置](concepts/AdaptationAsMoralReframing.md) — 改编同时重构媒介可见性与道德重心，使文学中的缺席、失败或幻想通过银幕行动、关系和普通人尊严获得新判断。
-- [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — 以语言、身体、家庭、工厂、下岗改制、消失地标和选择性年代细节组织东北身份的记忆结构。
+- [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — 以语言、身体、家庭、工厂、下岗改制、返乡陌生感、消失地标和选择性细节组织东北身份。
 - [Regional Language As Character Access / 方言作为人物入口](concepts/RegionalLanguageAsCharacterAccess.md) — 将方言视为社会认知、情绪节奏、身体姿态与关系表达的入口，并保留地域差异和观众清晰度边界。
 - [Embodied Character Preparation / 具身化人物准备](concepts/EmbodiedCharacterPreparation.md) — 将文献、生活观察、方言、训练和制作支持转成可表演的声音、身体、行动与关系选择。
 - [Family-Supported Aspiration / 家庭承托的愿望](concepts/FamilySupportedAspiration.md) — EP243 concept for dreams shaped by family support, responsibility, pressure, and ordinary relational life.

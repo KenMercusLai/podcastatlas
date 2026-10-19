@@ -37257,3 +37257,11 @@ Added source `what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jare
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | 从东北到东亚，历史是一个过程，人也是
+
+Added source `cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5`; created [[XitaBook|《西塔》]], [[SpatialHistoricalLayering|空间历史层积]], [[ComparativeDeindustrialization|比较去工业化]], [[ArchiveFieldTriangulation|档案互证与现场三角校验]], [[PublicFacingHistoricalWriting|面向公众的历史写作]], and [[HistoricizedRegionalCategories|历史化区域概念]]; and resynthesized [[SongNianshen|宋念申]], [[ShenyangCity|沈阳]], [[OralHistoryMemoryAnalysis|口述记忆分析]], [[NortheastModernityTestSite|东北现代性试验场]], [[NortheastAsMemoryStructure|东北作为记忆结构]], and [[AIEnabledArchiveAccess]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: familiar urban space becomes historical evidence when private memory, rival archives, maps, images, and field presence are compared through a defensible narrative line; Northeast decline becomes more legible through global deindustrialization comparisons that also preserve differences in public-service continuity; oral history works best through concrete everyday questions and repeated verification; and “East Asia” or “China” remain useful only when their historical construction and internal plurality stay visible. No settled contradiction was adopted. Cross-regional industrial comparisons, AI translation performance, cultural relocalization, tourism effects, and regional-category histories remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because this episode deepens established history, place, and evidence-method branches without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,668 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

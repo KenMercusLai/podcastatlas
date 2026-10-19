@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3167,6 +3167,9 @@ wiki_pages:
   - key: "AdministrativePerformanceFraud"
     title: "政绩述职造假 / Administrative Performance Fraud"
     url: "/wiki/concepts/administrativeperformancefraud/"
+  - key: "ArchiveFieldTriangulation"
+    title: "档案互证与现场三角校验 / Archive-Field Triangulation"
+    url: "/wiki/concepts/archivefieldtriangulation/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"

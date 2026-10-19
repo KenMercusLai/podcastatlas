@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1587
+topic_total_pages: 1588
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2581,6 +2581,9 @@ topic_concepts:
   - key: "SunkCostEntrapment"
     title: "沉没成本困局 / Sunk Cost Entrapment"
     url: "/wiki/concepts/sunkcostentrapment/"
+  - key: "SpatialHistoricalLayering"
+    title: "空间历史层积 / Spatial Historical Layering"
+    url: "/wiki/concepts/spatialhistoricallayering/"
   - key: "PovertyMemoryCorruptionExcuse"
     title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
     url: "/wiki/concepts/povertymemorycorruptionexcuse/"

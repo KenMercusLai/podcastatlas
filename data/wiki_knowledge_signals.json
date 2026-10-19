@@ -2767,9 +2767,9 @@
       "url": "/wiki/concepts/aiempiresovereigntyrisk/"
     },
     "AIEnabledArchiveAccess": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
@@ -2777,9 +2777,16 @@
           "show": "Marketplace Tech",
           "title": "How attitudes toward AI differ across generations",
           "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/aienabledarchiveaccess/"
     },
     "AIEnabledLoanDocumentAnalysis": {
@@ -19847,6 +19854,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/architectureofreassurance/"
+    },
+    "ArchiveFieldTriangulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/archivefieldtriangulation/"
     },
     "ArchivePreservationBias": {
       "episode_count": 2,
@@ -54240,6 +54263,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/companionrobots/"
+    },
+    "ComparativeDeindustrialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/comparativedeindustrialization/"
     },
     "ComparativeGenomicsTraitInference": {
       "episode_count": 1,
@@ -126348,6 +126387,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/historicalyouxiatoliterarywuxia/"
+    },
+    "HistoricizedRegionalCategories": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/historicizedregionalcategories/"
     },
     "HistoriographicalFounderCriteria": {
       "episode_count": 1,
@@ -200548,9 +200603,9 @@
       "url": "/wiki/entities/northamericanblueenergypartners/"
     },
     "NortheastAsMemoryStructure": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了 [lkQbo0ZG5Y7p1FO4X90n8yQ394t6].md",
@@ -200565,9 +200620,16 @@
           "show": "罗永浩的十字路口",
           "title": "蒋奇明&双雪涛×罗永浩！如何成为飞行家",
           "url": "/wiki/sources/lr4zgdujgluxwas7rbcitmc5kizz-lr4zgdujgluxwas7rbcitmc5kizz/"
+        },
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/northeastasmemorystructure/"
     },
     "NortheastLiteraryFilmAuthorship": {
@@ -200587,9 +200649,9 @@
       "url": "/wiki/concepts/northeastliteraryfilmauthorship/"
     },
     "NortheastModernityTestSite": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -200604,9 +200666,16 @@
           "show": "声东击西",
           "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
           "url": "/wiki/sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc/"
+        },
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/northeastmodernitytestsite/"
     },
     "NorthernCourage": {
@@ -205490,9 +205559,9 @@
       "url": "/wiki/concepts/oralcontraceptiveinformedconsent/"
     },
     "OralHistoryMemoryAnalysis": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -205500,9 +205569,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
           "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+        },
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/oralhistorymemoryanalysis/"
     },
     "OralMicrobiomePreventiveCare": {
@@ -225505,6 +225581,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/publicexpressionagainsttrolls/"
+    },
+    "PublicFacingHistoricalWriting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/publicfacinghistoricalwriting/"
     },
     "PublicFirstAction": {
       "episode_count": 1,
@@ -249783,9 +249875,9 @@
       "url": "/wiki/entities/shentushengwesternhan/"
     },
     "ShenyangCity": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "16a80abc-0826-4ec8-8c94-54ecb79161ef [16a80abc-0826-4ec8-8c94-54ecb79161ef].md",
@@ -249800,9 +249892,16 @@
           "show": "Talk三联",
           "title": "EP287 一起逛早市：寻找北方最鲜活的早晨",
           "url": "/wiki/sources/ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi/"
+        },
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/shenyangcity/"
     },
     "Shenzhen": {
@@ -256111,9 +256210,9 @@
       "url": "/wiki/entities/songle/"
     },
     "SongNianshen": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "16a80abc-0826-4ec8-8c94-54ecb79161ef [16a80abc-0826-4ec8-8c94-54ecb79161ef].md",
@@ -256121,9 +256220,16 @@
           "show": "声东击西",
           "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
           "url": "/wiki/sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc/"
+        },
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/songnianshen/"
     },
     "SongXiangGong": {
@@ -257610,6 +257716,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/spatialcomputing/"
+    },
+    "SpatialHistoricalLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/spatialhistoricallayering/"
     },
     "SpeakeasyExperienceDesign": {
       "episode_count": 2,
@@ -300105,6 +300227,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/xipetotec/"
+    },
+    "XitaBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgoluEQq4aiWJ4bg5jk-Im4qhzC5 [lgoluEQq4aiWJ4bg5jk-Im4qhzC5].md",
+          "key": "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5",
+          "show": "面基",
+          "title": "从东北到东亚，历史是一个过程，人也是",
+          "url": "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/xitabook/"
     },
     "XiuliChanyu": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2759
+topic_total_pages: 2764
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1900,6 +1900,9 @@ topic_concepts:
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
+  - key: "ArchiveFieldTriangulation"
+    title: "档案互证与现场三角校验 / Archive-Field Triangulation"
+    url: "/wiki/concepts/archivefieldtriangulation/"
   - key: "TransEurasianMigrationCascade"
     title: "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade"
     url: "/wiki/concepts/transeurasianmigrationcascade/"
@@ -1924,6 +1927,9 @@ topic_concepts:
   - key: "MythicBiographySourceCaution"
     title: "神话化身世的史料边界 / Mythic Biography Source Caution"
     url: "/wiki/concepts/mythicbiographysourcecaution/"
+  - key: "SpatialHistoricalLayering"
+    title: "空间历史层积 / Spatial Historical Layering"
+    url: "/wiki/concepts/spatialhistoricallayering/"
   - key: "FumingMonopolyBackfire"
     title: "符命垄断反噬 / Fuming Monopoly Backfire"
     url: "/wiki/concepts/fumingmonopolybackfire/"
@@ -1984,6 +1990,9 @@ topic_concepts:
   - key: "TombWealthLegendRobberyIncentive"
     title: "陵墓财富传说的盗掘激励 / Tomb-Wealth Legend Robbery Incentive"
     url: "/wiki/concepts/tombwealthlegendrobberyincentive/"
+  - key: "PublicFacingHistoricalWriting"
+    title: "面向公众的历史写作 / Public-Facing Historical Writing"
+    url: "/wiki/concepts/publicfacinghistoricalwriting/"
   - key: "JimingGoudaoTalentCritique"
     title: "鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique"
     url: "/wiki/concepts/jiminggoudaotalentcritique/"
@@ -2747,6 +2756,9 @@ topic_entities:
   - key: "XunziText"
     title: "《荀子》 / Xunzi"
     url: "/wiki/entities/xunzitext/"
+  - key: "XitaBook"
+    title: "《西塔》 / Xita"
+    url: "/wiki/entities/xitabook/"
   - key: "XifangJuedouShi"
     title: "《西方决斗史》 / The History of Duelling"
     url: "/wiki/entities/xifangjuedoushi/"
@@ -8283,6 +8295,9 @@ topic_sources:
   - key: "zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7"
     title: "《资治通鉴》00丨读史学经典，悟处世大道"
     url: "/wiki/sources/zizhi-tongjian-00-du-shixue-jingdian-wu-chushi-dadao-lh9oin5ft1vuc7cqim1l1kduzzq7/"
+  - key: "cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5"
+    title: "从东北到东亚，历史是一个过程，人也是"
+    url: "/wiki/sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5/"
   - key: "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf"
     title: "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面"
     url: "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"

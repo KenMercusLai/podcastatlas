@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3515,6 +3515,9 @@ wiki_pages:
   - key: "CourtHearsayAppointmentVolatility"
     title: "毁誉驱动式任官摇摆 / Court Hearsay Appointment Volatility"
     url: "/wiki/concepts/courthearsayappointmentvolatility/"
+  - key: "ComparativeDeindustrialization"
+    title: "比较去工业化 / Comparative Deindustrialization"
+    url: "/wiki/concepts/comparativedeindustrialization/"
   - key: "CriminalLawAfterLivelihoodCollapse"
     title: "民困之后的刑法失灵 / Criminal Law After Livelihood Collapse"
     url: "/wiki/concepts/criminallawafterlivelihoodcollapse/"

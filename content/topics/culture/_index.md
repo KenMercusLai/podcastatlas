@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3533
+topic_total_pages: 3534
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7709,6 +7709,9 @@ topic_entities:
   - key: "TheCursedMummy"
     title: "《被诅咒的木乃伊》 / The Cursed Mummy"
     url: "/wiki/entities/thecursedmummy/"
+  - key: "XitaBook"
+    title: "《西塔》 / Xita"
+    url: "/wiki/entities/xitabook/"
   - key: "XifangJuedouShi"
     title: "《西方决斗史》 / The History of Duelling"
     url: "/wiki/entities/xifangjuedoushi/"
