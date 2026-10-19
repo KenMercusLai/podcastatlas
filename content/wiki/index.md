@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Independence eh? Canada’s referendum](sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1.md) — Economist episode on Alberta and Quebec separatism, Canada’s trade response, China’s neurotechnology push, and Britain’s machine-assisted insect habitat corridors.
 - [从东北到东亚，历史是一个过程，人也是](sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5.md) — 面基对谈宋念申，以《西塔》连接沈阳空间层积、比较去工业化、档案与田野互证、具体日常口述史、公共写作及东亚概念的历史化。
 - [Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand](sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b.md) — How I Built This founder story on Sweet Loren's slow retail build, stage-matched manufacturing, customer-led allergy-conscious reformulation, taste-first positioning, and national expansion.
 - [海外航司纷纷拥抱星链，免费 Wi-Fi 为何逐渐成为航司新标配？](sources/haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-chengwei-hangsi-xin-biaopei-gkwriueoqxaeah7ykgtrgbwv.md) — 声动早咖啡 episode on how low-earth-orbit capacity, supplier subsidy, loyalty enrollment, advertising, and long aircraft contracts are making free in-flight Wi-Fi a competitive standard.
@@ -4758,6 +4759,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403.md) — Huberman Lab interview on leadership causation, historical scale, scientific fieldwork, mentorship, and finite-time knowledge stewardship.
 
 ## Entities
+- [BrainCo](entities/BrainCo.md) — Chinese neurotechnology company represented through a residual-signal bionic hand and non-invasive consumer devices.
+- [Buglife](entities/Buglife.md) — British conservation organization mapping and reconnecting insect habitats through “bug highways.”
+- [Building Canada Act](entities/BuildingCanadaAct.md) — Canadian legislation presented as accelerating nationally significant infrastructure approvals.
+- [Parti Québécois](entities/PartiQuebecois.md) — Quebec separatist party governing during the episode’s Canadian unity test.
 - [《西塔》 / Xita](entities/XitaBook.md) — 宋念申以沈阳一处街区串联宗教空间、铁路、殖民、社区、工业变迁与消费生活的公共历史著作。
 - [Loren Castle](entities/LorenCastle.md) — Sweet Loren's founder linking sensory craft, direct customer evidence, patient operations, and an allergy-conscious portfolio pivot.
 - [Sweet Loren's](entities/SweetLorens.md) — Refrigerated-dough and baking-products brand combining homemade taste with multi-restriction inclusion and national grocery distribution.
@@ -18426,6 +18431,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jared Diamond](entities/JaredDiamond.md) — Scientist and writer connecting physiology, ornithology, comparative history, leadership causation, and late-life knowledge stewardship.
 
 ## Concepts
+- [Canadian Separatism](concepts/CanadianSeparatism.md) — Comparative frame separating Alberta’s resource and fiscal grievances from Quebec’s cultural-national independence movement.
+- [China Neurotechnology Industrial Policy](concepts/ChinaNeurotechnologyIndustrialPolicy.md) — Ecosystem strategy combining investment, regulation, reimbursement infrastructure, education, trials, and commercialization.
+- [Habitat Corridor Connectivity](concepts/HabitatCorridorConnectivity.md) — Conservation strategy linking isolated habitats so insect populations can move and withstand local stress.
 - [历史化区域概念 / Historicized Regional Categories](concepts/HistoricizedRegionalCategories.md) — 将“东亚”“中国”“中心”与“边缘”视为可用但由历史和权力塑造、须保留内部多元性的分类。
 - [面向公众的历史写作 / Public-Facing Historical Writing](concepts/PublicFacingHistoricalWriting.md) — 以真实读者、问题、证据结构和叙事选择把专业研究转化为不牺牲复杂性的公共理解。
 - [档案互证与现场三角校验 / Archive-Field Triangulation](concepts/ArchiveFieldTriangulation.md) — 将不同机构档案与地图、图像、口述和现场空间相互校验的历史证据方法。

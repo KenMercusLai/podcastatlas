@@ -20772,6 +20772,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BuildingCanadaAct": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BuildingPublic": [
     {
       "key": "technology",
@@ -23694,6 +23701,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ChinaNeurotechnologyIndustrialPolicy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ChinaOutboundProfitLoop": [
@@ -105216,6 +105230,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "indicators-of-2025-and-what-to-watch-in-2026": [

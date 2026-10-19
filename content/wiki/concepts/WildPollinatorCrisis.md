@@ -2,31 +2,48 @@
 title: "Wild Pollinator Crisis / 野生传粉昆虫危机"
 type: concept
 tags: [ecology, agriculture, insects, pollination, biodiversity]
-sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]
-last_updated: 2026-08-07
+sources:
+  - ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv
+  - independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1
+last_updated: 2026-10-19
+knowledge_schema: synthesis-v1
 ---
 
 # Wild Pollinator Crisis / 野生传粉昆虫危机
 
-Wild pollinator crisis is the ecological risk that bees and other pollinating insects disappear or weaken even when managed honeybee numbers remain visible. In [[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]], [[MiaoQian|苗千]] stresses that the familiar honeybee is only a small, human-attached part of a much broader bee world: many bees are solitary, do not produce honey for people, and remain publicly "silent" until their pollination relationships fail.
+## Definition
+Wild pollinator crisis is the ecological risk that bees and other pollinating insects decline or disappear even when managed honeybee numbers and honey production remain visible.
 
-The source frames the crisis as multi-causal rather than a single collapse story. Habitat loss, [[PesticidePollinatorRisk|pesticide exposure]], climate change, agricultural monoculture, viruses, parasites, and weak biodiversity data can stack on top of one another. That makes the problem different from a simple production shortage: managed hives may be rebuilt, moved, or priced into services, while wild pollinators and plant relationships can vanish before they are well documented.
+## Current Synthesis
+The first source frames the crisis as multi-causal: habitat loss, pesticide exposure, climate stress, monoculture, disease, parasites, weak biodiversity data, and fragile beekeeper economics can compound one another. Managed hives may be moved, rebuilt, or priced into pollination services, while wild and solitary pollinators and their plant relationships can vanish without equivalent replacement.
 
-The episode also narrows the human-consequence claim. It rejects the unsourced "humans can live only four years without bees" slogan, but still argues that pollinator loss would affect food variety, crop prices, soil and animal food chains, and the stability of ecosystems that people depend on indirectly.
+The Britain segment adds a landscape-network mechanism. Loss of species-rich grassland leaves surviving insect habitats isolated, so protection of individual patches may be insufficient. [[HabitatCorridorConnectivity]] seeks to reconnect them through “bug highways,” combining field knowledge and historical records with citizen science and remote sensing. This offers a practical response, but mapping corridors is not yet evidence of population recovery.
 
 ## Key Claims
-- Managed honeybee numbers can rise while wild bees and other pollinators still decline.
-- Pollinator risk is not only about honey supply; it is about plant reproduction, crop diversity, food prices, and ecological chain stability.
-- A species can be economically invisible and ecologically critical at the same time.
-- Biodiversity knowledge gaps increase risk because a region may not know what pollinators it has before losing them.
-- The crisis requires both agricultural changes and habitat work, including limits on highly harmful pesticides, less-mown flower corridors, and connected urban or rural green spaces.
-- [[PollinationServiceMarket]] can help monetize pollination, but commercial hive movement is not a substitute for diverse wild-pollinator habitat.
+- Managed honeybee abundance can conceal decline among wild bees and other pollinating insects.
+- Pollinator loss threatens plant reproduction, crop diversity, food chains, pest control, and decomposition as well as honey supply.
+- Habitat quantity and connectivity both matter for population resilience.
+- Pesticides, monoculture, climate, disease, and weak species data can compound habitat pressure.
+- Commercial pollination services cannot substitute for diverse wild-pollinator habitat.
+- Mapping and machine learning may improve conservation targeting but still require ecological validation and land management.
 
-## Connections
-- [[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] - source case.
-- [[NativeBeeEcologicalPollination]] - local and wild-bee branch of the crisis.
-- [[PesticidePollinatorRisk]] - one key pressure on pollinators and beekeeper livelihood.
-- [[BeeColonyCollapse]] - related managed-hive risk, but not identical to wild-pollinator decline.
-- [[PollinationServiceMarket]] - market response that can support crop pollination while leaving ecological diversity unresolved.
-- [[ConservationIntervention]] and [[UrbanEcology]] - habitat corridors, park design, and less-mown flowering areas as practical responses.
-- [[EnvironmentalTradeoffAccounting]] - policy frame for weighing pesticide limits, farmer costs, and ecological losses together.
+## Evidence
+- Managed-versus-wild distinction, multi-causal pressures, and Chinese field cases - [[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]].
+- Britain’s insect decline, grassland loss, isolated habitats, and corridor response - [[independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1]].
+- Practical corridor mapping - [[independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1]] describes [[Buglife]] and the Space for Nature project’s mixed data inputs.
+
+## Counterevidence & Qualifications
+The first source rejects the viral claim that humans would survive only four years without bees. The newest source’s decline percentages, habitat-loss estimate, rediscoveries, and expected machine-learning benefits are episode-attributed. Neither source shows that a single intervention can reverse the crisis, and corridor maps alone do not establish restored abundance or ecological function.
+
+## What Changed
+- Migrated the page into the synthesis-v1 concept schema.
+- Added habitat fragmentation and connectivity as a distinct mechanism.
+- Added Britain’s machine-assisted corridor mapping as a response with explicit outcome limits.
+
+## Related Concepts
+- [[NativeBeeEcologicalPollination]] - ecological contribution beyond managed honey production.
+- [[PesticidePollinatorRisk]] - chemical pressure on wild and managed pollinators.
+- [[PollinationServiceMarket]] - commercial response that cannot replace wild diversity.
+- [[HabitatCorridorConnectivity]] - network strategy for reconnecting isolated populations.
+- [[Buglife]] - organization implementing the Britain corridor approach.
+- [[ConservationIntervention]] - broader class of habitat and management responses.

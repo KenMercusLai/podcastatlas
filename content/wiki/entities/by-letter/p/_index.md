@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13593
+wiki_total_pages: 13597
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "ParthenopeanRepublic"
     title: "Parthenopean Republic"
     url: "/wiki/entities/parthenopeanrepublic/"
+  - key: "PartiQuebecois"
+    title: "Parti Québécois"
+    url: "/wiki/entities/partiquebecois/"
   - key: "PartNet"
     title: "PartNet / PartNet Mobility"
     url: "/wiki/entities/partnet/"

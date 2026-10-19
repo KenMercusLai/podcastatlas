@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2289
+topic_total_pages: 2290
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6459,6 +6459,9 @@ topic_sources:
   - key: "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74"
     title: "In arms’ way: Gaza-deal sticking points"
     url: "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+  - key: "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1"
+    title: "Independence eh? Canada’s referendum"
+    url: "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
   - key: "indicators-of-2025-and-what-to-watch-in-2026"
     title: "Indicators of 2025 and What to Watch in 2026"
     url: "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"

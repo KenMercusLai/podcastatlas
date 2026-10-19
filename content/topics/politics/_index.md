@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3347
+topic_total_pages: 3348
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -718,6 +718,9 @@ topic_concepts:
   - key: "ChinaInsuranceFundsEquityAllocation"
     title: "China Insurance Funds Equity Allocation / 中国险资入市"
     url: "/wiki/concepts/chinainsurancefundsequityallocation/"
+  - key: "ChinaNeurotechnologyIndustrialPolicy"
+    title: "China Neurotechnology Industrial Policy"
+    url: "/wiki/concepts/chinaneurotechnologyindustrialpolicy/"
   - key: "ChinaSpecialEconomicZoneAsymmetry"
     title: "China Special Economic Zone Asymmetry"
     url: "/wiki/concepts/chinaspecialeconomiczoneasymmetry/"

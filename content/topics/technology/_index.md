@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3563
+topic_total_pages: 3564
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5471,6 +5471,9 @@ topic_entities:
   - key: "BruceSchneier"
     title: "Bruce Schneier"
     url: "/wiki/entities/bruceschneier/"
+  - key: "BuildingCanadaAct"
+    title: "Building Canada Act"
+    url: "/wiki/entities/buildingcanadaact/"
   - key: "BurningGlassInstitute"
     title: "Burning Glass Institute"
     url: "/wiki/entities/burningglassinstitute/"

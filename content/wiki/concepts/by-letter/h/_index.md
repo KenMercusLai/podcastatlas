@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10649
+wiki_total_pages: 10652
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "HabitTriggeredSystemDisruption"
     title: "Habit-Triggered System Disruption / 习惯触发式系统破局"
     url: "/wiki/concepts/habittriggeredsystemdisruption/"
+  - key: "HabitatCorridorConnectivity"
+    title: "Habitat Corridor Connectivity"
+    url: "/wiki/concepts/habitatcorridorconnectivity/"
   - key: "HabitualUrineRetentionRisk"
     title: "Habitual Urine Retention Risk / 长期憋尿风险"
     url: "/wiki/concepts/habitualurineretentionrisk/"

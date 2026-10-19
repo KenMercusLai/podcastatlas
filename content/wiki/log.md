@@ -37265,3 +37265,11 @@ Added source `cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | Independence eh? Canada’s referendum
+
+Added source `independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1`; created [[BrainCo]], [[Buglife]], [[PartiQuebecois|Parti Québécois]], [[BuildingCanadaAct]], [[CanadianSeparatism]], [[ChinaNeurotechnologyIndustrialPolicy]], and [[HabitatCorridorConnectivity]]; and resynthesized [[Canada]], [[MarkCarney]], [[Alberta]], [[Quebec]], [[BrainComputerInterface]], [[WildPollinatorCrisis]], and [[TradeDiversificationStabilityParadox]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Canada’s Alberta and Quebec unity pressures have different grievance structures but are both intensified by trade shock; China’s neurotechnology push is an ecosystem-building strategy rather than evidence that it has already displaced American technical leadership; and insect conservation depends on reconnecting fragmented habitats, while mapping and machine learning remain inputs rather than proof of recovery. No settled contradiction was adopted. Referendum support, export shares, policy effects, clinical-trial progress, device efficacy, insect decline, grassland loss, model performance, and conservation outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because the focused canonical pages capture the durable additions without changing its global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,669 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

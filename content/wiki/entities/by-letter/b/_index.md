@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13593
+wiki_total_pages: 13597
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "BrainBuffs"
     title: "Brain Buffs"
     url: "/wiki/entities/brainbuffs/"
+  - key: "BrainCo"
+    title: "BrainCo"
+    url: "/wiki/entities/brainco/"
   - key: "BrainHQ"
     title: "BrainHQ"
     url: "/wiki/entities/brainhq/"
@@ -1280,9 +1283,15 @@ wiki_pages:
   - key: "BuffaloBillCody"
     title: "Buffalo Bill Cody"
     url: "/wiki/entities/buffalobillcody/"
+  - key: "Buglife"
+    title: "Buglife"
+    url: "/wiki/entities/buglife/"
   - key: "BuildABear"
     title: "Build-A-Bear"
     url: "/wiki/entities/buildabear/"
+  - key: "BuildingCanadaAct"
+    title: "Building Canada Act"
+    url: "/wiki/entities/buildingcanadaact/"
   - key: "BuiltForABetterWorld"
     title: "Built for a Better World"
     url: "/wiki/entities/builtforabetterworld/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10649
+wiki_total_pages: 10652
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "CanadianOilSandsBoom"
     title: "Canadian Oil Sands Boom"
     url: "/wiki/concepts/canadianoilsandsboom/"
+  - key: "CanadianSeparatism"
+    title: "Canadian Separatism"
+    url: "/wiki/concepts/canadianseparatism/"
   - key: "CanadianTelevisionFinancing"
     title: "Canadian Television Financing"
     url: "/wiki/concepts/canadiantelevisionfinancing/"
@@ -830,6 +833,9 @@ wiki_pages:
   - key: "ChinaNarrativeSplit"
     title: "China Narrative Split"
     url: "/wiki/concepts/chinanarrativesplit/"
+  - key: "ChinaNeurotechnologyIndustrialPolicy"
+    title: "China Neurotechnology Industrial Policy"
+    url: "/wiki/concepts/chinaneurotechnologyindustrialpolicy/"
   - key: "ChinaOutboundProfitLoop"
     title: "China Outbound Profit Loop / 中国出海收益环流"
     url: "/wiki/concepts/chinaoutboundprofitloop/"

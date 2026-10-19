@@ -15239,6 +15239,10 @@
     "title": "Brain Buffs",
     "url": "/wiki/entities/brainbuffs/"
   },
+  "BrainCo": {
+    "title": "BrainCo",
+    "url": "/wiki/entities/brainco/"
+  },
   "BrainComputerInterface": {
     "title": "Brain–Computer Interface",
     "url": "/wiki/concepts/braincomputerinterface/"
@@ -15835,6 +15839,10 @@
     "title": "Buffet Budget Lock-In / 自助餐预算锁定",
     "url": "/wiki/concepts/buffetbudgetlockin/"
   },
+  "Buglife": {
+    "title": "Buglife",
+    "url": "/wiki/entities/buglife/"
+  },
   "BuildABear": {
     "title": "Build-A-Bear",
     "url": "/wiki/entities/buildabear/"
@@ -15862,6 +15870,10 @@
   "BuilderCenteredInstitutions": {
     "title": "Builder-Centered Institutions",
     "url": "/wiki/concepts/buildercenteredinstitutions/"
+  },
+  "BuildingCanadaAct": {
+    "title": "Building Canada Act",
+    "url": "/wiki/entities/buildingcanadaact/"
   },
   "BuildingPublic": {
     "title": "Building Public",
@@ -16690,6 +16702,10 @@
   "CanadianOilSandsBoom": {
     "title": "Canadian Oil Sands Boom",
     "url": "/wiki/concepts/canadianoilsandsboom/"
+  },
+  "CanadianSeparatism": {
+    "title": "Canadian Separatism",
+    "url": "/wiki/concepts/canadianseparatism/"
   },
   "CanadianTelevisionFinancing": {
     "title": "Canadian Television Financing",
@@ -19518,6 +19534,10 @@
   "ChinaNationalAviationHolding": {
     "title": "China National Aviation Holding / 中航集团",
     "url": "/wiki/entities/chinanationalaviationholding/"
+  },
+  "ChinaNeurotechnologyIndustrialPolicy": {
+    "title": "China Neurotechnology Industrial Policy",
+    "url": "/wiki/concepts/chinaneurotechnologyindustrialpolicy/"
   },
   "ChinaOutboundProfitLoop": {
     "title": "China Outbound Profit Loop / 中国出海收益环流",
@@ -39950,6 +39970,10 @@
   "HabitTriggeredSystemDisruption": {
     "title": "Habit-Triggered System Disruption / 习惯触发式系统破局",
     "url": "/wiki/concepts/habittriggeredsystemdisruption/"
+  },
+  "HabitatCorridorConnectivity": {
+    "title": "Habitat Corridor Connectivity",
+    "url": "/wiki/concepts/habitatcorridorconnectivity/"
   },
   "HabitualUrineRetentionRisk": {
     "title": "Habitual Urine Retention Risk / 长期憋尿风险",
@@ -67446,6 +67470,10 @@
   "ParthianEmpire": {
     "title": "安息 / Parthian Empire",
     "url": "/wiki/entities/parthianempire/"
+  },
+  "PartiQuebecois": {
+    "title": "Parti Québécois",
+    "url": "/wiki/entities/partiquebecois/"
   },
   "PartialAbdicationPowerSplit": {
     "title": "Partial Abdication Power Split / 退位留权式权力分裂",
@@ -105230,6 +105258,10 @@
   "inbound-marketing-that-grew-a-fintech-saas-to-100m": {
     "title": "Inbound Marketing That Grew a Fintech SaaS to $100M",
     "url": "/wiki/sources/inbound-marketing-that-grew-a-fintech-saas-to-100m/"
+  },
+  "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1": {
+    "title": "Independence eh? Canada’s referendum",
+    "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
   },
   "indicators-of-2025-and-what-to-watch-in-2026": {
     "title": "Indicators of 2025 and What to Watch in 2026",

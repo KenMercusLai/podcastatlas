@@ -11583,9 +11583,9 @@
       "url": "/wiki/entities/albertkesselring/"
     },
     "Alberta": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -11600,9 +11600,16 @@
           "show": "Economist Podcasts",
           "title": "Big shot: does a cancer vaccine work?",
           "url": "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/alberta/"
     },
     "AlbigensianCrusade": {
@@ -32951,10 +32958,26 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
-    "BrainComputerInterface": {
-      "episode_count": 2,
+    "BrainCo": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/brainco/"
+    },
+    "BrainComputerInterface": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4147376395 [SCIM4147376395].md",
@@ -32969,9 +32992,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
           "url": "/wiki/sources/essentials-neuralink-technologies-to-enhance-human-brains-dr-matt-macdougall-scim2817913031/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/braincomputerinterface/"
     },
     "BrainDerivedNeurotrophicFactor": {
@@ -35059,6 +35089,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/buffalobillcody/"
     },
+    "Buglife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/buglife/"
+    },
     "BuilderBasedSchoolDay": {
       "episode_count": 1,
       "show_count": 1,
@@ -35074,6 +35120,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/builderbasedschoolday/"
+    },
+    "BuildingCanadaAct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/buildingcanadaact/"
     },
     "BullwhipEffectInformationAmplification": {
       "episode_count": 1,
@@ -37426,9 +37488,9 @@
       "url": "/wiki/concepts/camusianabsurdism/"
     },
     "Canada": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -37478,9 +37540,16 @@
           "show": "Economist Podcasts",
           "title": "Big shot: does a cancer vaccine work?",
           "url": "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/canada/"
     },
     "CanadianNaturalResourcesLimited": {
@@ -37514,6 +37583,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/canadianoilsandsboom/"
+    },
+    "CanadianSeparatism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/canadianseparatism/"
     },
     "CancerImmuneRecognitionProblem": {
       "episode_count": 6,
@@ -46517,6 +46602,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/chinamanufacturingoverseasexpansion/"
+    },
+    "ChinaNeurotechnologyIndustrialPolicy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/chinaneurotechnologyindustrialpolicy/"
     },
     "ChinaPigFarmingScaleConsolidation": {
       "episode_count": 1,
@@ -116882,6 +116983,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/habittriggeredsystemdisruption/"
     },
+    "HabitatCorridorConnectivity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/habitatcorridorconnectivity/"
+    },
     "HabitualUrineRetentionRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -180031,9 +180148,9 @@
       "url": "/wiki/entities/markbenioff/"
     },
     "MarkCarney": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -180048,9 +180165,16 @@
           "show": "Economist Podcasts",
           "title": "Big shot: does a cancer vaccine work?",
           "url": "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/markcarney/"
     },
     "MarkDEsposito": {
@@ -209468,6 +209592,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/parthianempire/"
     },
+    "PartiQuebecois": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/partiquebecois/"
+    },
     "PartialReformDestabilization": {
       "episode_count": 2,
       "show_count": 1,
@@ -227981,6 +228121,29 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/quantumcryptographicmigration/"
+    },
+    "Quebec": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
+          "key": "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db",
+          "show": "Economist Podcasts",
+          "title": "Elbows up, again: a US-Canada trade flare-up",
+          "url": "/wiki/sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/quebec/"
     },
     "QuebecAct": {
       "episode_count": 1,
@@ -277005,6 +277168,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/toyotaproductionsystempersonalwaste/"
     },
+    "TradeDiversificationStabilityParadox": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
+          "key": "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db",
+          "show": "Economist Podcasts",
+          "title": "Elbows up, again: a US-Canada trade flare-up",
+          "url": "/wiki/sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/tradediversificationstabilityparadox/"
+    },
     "TradeShowBoothSharing": {
       "episode_count": 1,
       "show_count": 1,
@@ -293149,6 +293335,29 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/wildmushroompoisoningtriage/"
+    },
+    "WildPollinatorCrisis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？ [lqp_Cwcdxx1zIiXb35iJMMVd6cv-].md",
+          "key": "ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv",
+          "show": "Talk三联",
+          "title": "EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？",
+          "url": "/wiki/sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv/"
+        },
+        {
+          "episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+          "key": "independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1",
+          "show": "Economist Podcasts",
+          "title": "Independence eh? Canada’s referendum",
+          "url": "/wiki/sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/wildpollinatorcrisis/"
     },
     "WildWestMyth": {
       "episode_count": 1,

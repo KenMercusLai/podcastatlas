@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-19",
       "latest_episode_file": "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
-      "source_note_count": 98,
-      "topic_matched_source_note_count": 87,
+      "source_note_count": 99,
+      "topic_matched_source_note_count": 88,
       "topics": [
         {
           "key": "politics",
@@ -348,7 +348,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 15
+          "source_note_count": 16
         }
       ],
       "entities": [
@@ -413,7 +413,7 @@
         "64ee795d3a366335cf4a682ed4b0f0d5 [64ee795d3a366335cf4a682ed4b0f0d5.mp3？aid=6acf5699937a3c900fd4f56f&chid=d556eb54-6160-4.280].md",
         "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
         "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
-        "2959cbdca16de39a43a75666b5bc7057 [2959cbdca16de39a43a75666b5bc7057.mp3？aid=6ac617ea8f90a39dfc5baf52&chid=d556eb54-6160-4.280].md"
+        "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md"
       ]
     },
     "How I Built This with Guy Raz": {
