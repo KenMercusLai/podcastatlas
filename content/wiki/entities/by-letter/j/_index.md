@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13585
+wiki_total_pages: 13589
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "JerryTaikongSeng"
     title: "Jerry / 太空僧"
     url: "/wiki/entities/jerrytaikongseng/"
+  - key: "JerrySeinfeld"
+    title: "Jerry Seinfeld"
+    url: "/wiki/entities/jerryseinfeld/"
   - key: "JerusalemHymn"
     title: "Jerusalem (Hymn)"
     url: "/wiki/entities/jerusalemhymn/"

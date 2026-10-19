@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10637
+wiki_total_pages: 10641
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
+  - key: "SelfContainedNarrativeRewatchability"
+    title: "Self-Contained Narrative Rewatchability"
+    url: "/wiki/concepts/selfcontainednarrativerewatchability/"
   - key: "SelfControlStrategyToolkit"
     title: "Self-Control Strategy Toolkit"
     url: "/wiki/concepts/selfcontrolstrategytoolkit/"

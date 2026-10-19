@@ -37233,3 +37233,11 @@ Added source `haiwai-hangsi-fenfen-yongbao-xinglian-mianfei-wi-fi-weihe-zhujian-
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | Seinfeld
+
+Added source `seinfeld-ca0df1168651e0a51be7d6012432411f`; created [[SeinfeldTVSeries|Seinfeld]], [[JerrySeinfeld|Jerry Seinfeld]], [[LarryDavid|Larry David]], [[CastleRockEntertainment|Castle Rock Entertainment]], [[TelevisionSyndicationEconomics]], [[IndependentProductionBackendOwnership]], [[SelfContainedNarrativeRewatchability]], and [[EvergreenMediaLibraryEconomics]]. Core synthesis: observational craft, stable flawed characters, dense convergent plots, and local episode closure made the series easy to enter and rewarding to repeat, while patient NBC support, independent production, backend participation, local syndication, and successive cable, digital, and streaming windows turned the finished catalog into a long-lived asset. No settled contradiction was adopted. Private ownership waterfalls, lifetime costs and revenue, station and streaming deal values, contemporary audience reach, and causal claims about ending at the peak remain source-scoped estimates or interpretations. Broad [[Acquired]], [[NBC]], and [[SonyPictures|Sony Pictures]] hubs were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and left unchanged because this media-library case deepens the existing intellectual-property and distribution branch without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,665 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

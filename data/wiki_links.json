@@ -17539,6 +17539,10 @@
     "title": "Castle-Based Private Lordship",
     "url": "/wiki/concepts/castlebasedprivatelordship/"
   },
+  "CastleRockEntertainment": {
+    "title": "Castle Rock Entertainment",
+    "url": "/wiki/entities/castlerockentertainment/"
+  },
   "CastlemanDisease": {
     "title": "Castleman Disease",
     "url": "/wiki/concepts/castlemandisease/"
@@ -31647,6 +31651,10 @@
     "title": "Evergrande Wealth / 恒大财富",
     "url": "/wiki/entities/evergrandewealth/"
   },
+  "EvergreenMediaLibraryEconomics": {
+    "title": "Evergreen Media Library Economics",
+    "url": "/wiki/concepts/evergreenmedialibraryeconomics/"
+  },
   "EvergreenSettlements": {
     "title": "Evergreen Settlements",
     "url": "/wiki/entities/evergreensettlements/"
@@ -45175,6 +45183,10 @@
     "title": "Independent Podcast Sustainability / 独立播客可持续性",
     "url": "/wiki/concepts/independentpodcastsustainability/"
   },
+  "IndependentProductionBackendOwnership": {
+    "title": "Independent Production Backend Ownership",
+    "url": "/wiki/concepts/independentproductionbackendownership/"
+  },
   "IndependentRetailDiscovery": {
     "title": "Independent Retail Discovery",
     "url": "/wiki/concepts/independentretaildiscovery/"
@@ -47834,6 +47846,10 @@
   "JeromePowell": {
     "title": "Jerome Powell",
     "url": "/wiki/entities/jeromepowell/"
+  },
+  "JerrySeinfeld": {
+    "title": "Jerry Seinfeld",
+    "url": "/wiki/entities/jerryseinfeld/"
   },
   "JerryTaikongSeng": {
     "title": "Jerry / 太空僧",
@@ -51946,6 +51962,10 @@
   "LarryBaker": {
     "title": "Larry Baker",
     "url": "/wiki/entities/larrybaker/"
+  },
+  "LarryDavid": {
+    "title": "Larry David",
+    "url": "/wiki/entities/larrydavid/"
   },
   "LarryElder": {
     "title": "Larry Elder",
@@ -79091,6 +79111,10 @@
     "title": "精工足球队 / Seiko Football Club",
     "url": "/wiki/entities/seikofootballclub/"
   },
+  "SeinfeldTVSeries": {
+    "title": "Seinfeld",
+    "url": "/wiki/entities/seinfeldtvseries/"
+  },
   "SeizedDigitalAssetCustody": {
     "title": "Seized Digital Asset Custody",
     "url": "/wiki/concepts/seizeddigitalassetcustody/"
@@ -79166,6 +79190,10 @@
   "SelfConceptPlasticity": {
     "title": "Self-Concept Plasticity",
     "url": "/wiki/concepts/selfconceptplasticity/"
+  },
+  "SelfContainedNarrativeRewatchability": {
+    "title": "Self-Contained Narrative Rewatchability",
+    "url": "/wiki/concepts/selfcontainednarrativerewatchability/"
   },
   "SelfControlStrategyToolkit": {
     "title": "Self-Control Strategy Toolkit",
@@ -86722,6 +86750,10 @@
   "TelevisionBroadcastsLimited": {
     "title": "TVB / Television Broadcasts Limited / 无线电视",
     "url": "/wiki/entities/televisionbroadcastslimited/"
+  },
+  "TelevisionSyndicationEconomics": {
+    "title": "Television Syndication Economics",
+    "url": "/wiki/concepts/televisionsyndicationeconomics/"
   },
   "TelosCrisis": {
     "title": "Telos Crisis / 目的危机",
@@ -106530,6 +106562,10 @@
   "scim9807260634-scim9807260634": {
     "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
     "url": "/wiki/sources/scim9807260634-scim9807260634/"
+  },
+  "seinfeld-ca0df1168651e0a51be7d6012432411f": {
+    "title": "Seinfeld",
+    "url": "/wiki/sources/seinfeld-ca0df1168651e0a51be7d6012432411f/"
   },
   "selling-before-building-1m-arr-in-six-months": {
     "title": "Selling Before Building: $1M ARR in Six Months",

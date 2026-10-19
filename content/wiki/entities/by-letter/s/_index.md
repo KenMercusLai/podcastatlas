@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13585
+wiki_total_pages: 13589
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "Seiko"
     title: "Seiko"
     url: "/wiki/entities/seiko/"
+  - key: "SeinfeldTVSeries"
+    title: "Seinfeld"
+    url: "/wiki/entities/seinfeldtvseries/"
   - key: "Sejanus"
     title: "Sejanus"
     url: "/wiki/entities/sejanus/"

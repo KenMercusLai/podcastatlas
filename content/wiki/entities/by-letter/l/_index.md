@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13585
+wiki_total_pages: 13589
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "LarryBaker"
     title: "Larry Baker"
     url: "/wiki/entities/larrybaker/"
+  - key: "LarryDavid"
+    title: "Larry David"
+    url: "/wiki/entities/larrydavid/"
   - key: "LarryElder"
     title: "Larry Elder"
     url: "/wiki/entities/larryelder/"

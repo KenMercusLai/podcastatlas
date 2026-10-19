@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3531
+topic_total_pages: 3532
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1288,6 +1288,9 @@ topic_concepts:
   - key: "EuclideanProofTraining"
     title: "Euclidean Proof Training / 欧几里得式证明训练"
     url: "/wiki/concepts/euclideanprooftraining/"
+  - key: "EvergreenMediaLibraryEconomics"
+    title: "Evergreen Media Library Economics"
+    url: "/wiki/concepts/evergreenmedialibraryeconomics/"
   - key: "EverydayCreativeAgency"
     title: "Everyday Creative Agency / 日常创造能动性"
     url: "/wiki/concepts/everydaycreativeagency/"

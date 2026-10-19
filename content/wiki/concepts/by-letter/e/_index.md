@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10637
+wiki_total_pages: 10641
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "EventDrivenInvesting"
     title: "Event-Driven Investing"
     url: "/wiki/concepts/eventdriveninvesting/"
+  - key: "EvergreenMediaLibraryEconomics"
+    title: "Evergreen Media Library Economics"
+    url: "/wiki/concepts/evergreenmedialibraryeconomics/"
   - key: "EverydayAutobiographicalComics"
     title: "Everyday Autobiographical Comics"
     url: "/wiki/concepts/everydayautobiographicalcomics/"

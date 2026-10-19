@@ -4752,8 +4752,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regulating the tech sector in the AI era](sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128.md) — Marketplace Tech interview on EU product-launch delays, interoperability, structural technology constraints, precautionary AI rules, and transatlantic learning.
 - [Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981.md) — Tomorrow Today interview on artistic swimming, process-focused excellence, athlete-centered coaching, retirement, team trust, and high-intensity apnea safety.
 - [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm.md) — 十字路口Crossing interview with Trigg's team on three startup pivots, general-agent ecosystem distribution, data and tool aggregation, narrow operational loops, multi-agent work, and the limits of zero-human companies.
+- [Seinfeld](sources/seinfeld-ca0df1168651e0a51be7d6012432411f.md) — Acquired episode linking Seinfeld's observational craft, self-contained convergent plots, independent production, syndication, and streaming to a durable media library.
 
 ## Entities
+- [Seinfeld](entities/SeinfeldTVSeries.md) — Sitcom whose stable characters, interlocking plots, and long licensing afterlife connect creative form to library economics.
+- [Jerry Seinfeld](entities/JerrySeinfeld.md) — Comedian, co-creator, performer, and producer combining deliberate stand-up refinement with television authorship and exit discipline.
+- [Larry David](entities/LarryDavid.md) — Comedian and co-creator whose grievances, structural instincts, and resistance to compromise shaped Seinfeld's early creative system.
+- [Castle Rock Entertainment](entities/CastleRockEntertainment.md) — Independent producer illustrating retained backend rights and catalog value across corporate ownership changes.
 - [Amazon Leo](entities/AmazonLeo.md) — Amazon low-earth-orbit satellite service presented as an airline-connectivity alternative to Starlink.
 - [Steelcase](entities/Steelcase.md) — Premium office-furniture and workplace-solutions company used to connect long warranties, lifecycle cost, and professional space planning.
 - [西昊 / Sihoo](entities/Sihoo.md) — Chinese office-chair brand used as the lower-priced, shorter-reported-warranty side of an approximate lifecycle comparison.
@@ -18414,6 +18419,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
 
 ## Concepts
+- [Television Syndication Economics](concepts/TelevisionSyndicationEconomics.md) — Secondary market joining episode volume, proven demand, rights ownership, and repeated licensing of completed programs.
+- [Independent Production Backend Ownership](concepts/IndependentProductionBackendOwnership.md) — Structure preserving creator or outside-producer participation beyond first-run network fees and salaries.
+- [Self-Contained Narrative Rewatchability](concepts/SelfContainedNarrativeRewatchability.md) — Narrative design linking stable character premises and dense local plots to flexible scheduling and repeat viewing.
+- [Evergreen Media Library Economics](concepts/EvergreenMediaLibraryEconomics.md) — Recurring monetization of a finished catalog across syndication, cable, digital, and streaming windows.
 - [In-Flight Connectivity Economics](concepts/InFlightConnectivityEconomics.md) — Model linking satellite capacity, free passenger access, supplier lock-in, airline loyalty, advertising, and credit-card distribution.
 - [Workplace Environment Investment / 办公环境投资](concepts/WorkplaceEnvironmentInvestment.md) — 以全生命周期成本评估办公家具与空间对员工健康、生产力、留任、招聘和品牌信号的潜在价值。
 - [Foreign Exchange Margin Trading / 外汇保证金交易](concepts/ForeignExchangeMarginTrading.md) — 以货币对、双向头寸、保证金、杠杆和强制平仓构成的零售外汇风险机制。

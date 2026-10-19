@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10637
+wiki_total_pages: 10641
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "TeenagerHistoricalIdentity"
     title: "Teenager as Historical Identity"
     url: "/wiki/concepts/teenagerhistoricalidentity/"
+  - key: "TelevisionSyndicationEconomics"
+    title: "Television Syndication Economics"
+    url: "/wiki/concepts/televisionsyndicationeconomics/"
   - key: "TelosCrisis"
     title: "Telos Crisis / 目的危机"
     url: "/wiki/concepts/teloscrisis/"
