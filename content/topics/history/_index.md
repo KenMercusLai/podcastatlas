@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2757
+topic_total_pages: 2758
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7170,6 +7170,9 @@ topic_sources:
   - key: "714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632"
     title: "714. King Arthur: Lancelot and the Round Table (Part 2)"
     url: "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+  - key: "715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872"
+    title: "715. King Arthur: The Mysteries of Merlin (Part 3)"
+    url: "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
   - key: "72-the-vietnam-war-glt4906340188"
     title: "72. The Vietnam War"
     url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"

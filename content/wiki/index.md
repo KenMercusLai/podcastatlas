@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [715. King Arthur: The Mysteries of Merlin (Part 3)](sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872.md) — The Rest Is History on Geoffrey of Monmouth's pseudo-history, Merlin's composite formation and political prophecies, and the unresolved early evidence for Arthur.
 - [商业小样51 | 为什么办公椅越贵，对老板反而越合算？](sources/shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp.md) — 商业就是这样以人体工学椅连接耐用性、摊销、办公环境、生产力、员工留任、招聘与品牌信号，并保留ROI估算的证据边界。
 - [EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来](sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly.md) — 一劳永逸以《FX战士久留美》讲解外汇保证金、日元套息、强制平仓、止损、结果偏误、沉没成本与生活资金隔离。
 - [这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason](sources/lnvlrnkk-mvyhiy31eq-gw4qopje.md) — 42章经访谈 Articuler.ai 创始人 Jason，讨论活动中的人与机会匹配、连接行为数据、从一线观察寻找 PMF，以及融资失败后的现金流生存。

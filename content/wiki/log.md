@@ -37217,3 +37217,11 @@ Added source `shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | 715. King Arthur: The Mysteries of Merlin (Part 3)
+
+Added source `715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872` and resynthesized [[KingArthur]], [[Merlin]], [[GeoffreyOfMonmouth]], [[ArthurianLegendAccretion]], and [[ArthurianPoliticalLegitimation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Geoffrey made a persuasive historical sequence by combining recognizable post-Roman names and motifs with invention, while his Merlin joins the Welsh wild prophet Myrddin to the youthful Ambrosius of the Vortigern dragon story. The early evidence remains asymmetric: Gildas and Bede describe relevant people and Badon without Arthur, whereas the much later *Historia Brittonum* first names him as a battle leader. Arthur's existence therefore remains possible but unestablished. No settled contradiction was adopted. Geoffrey's alleged source, the *Historia Brittonum*'s authorship and dating, Merlin's exact formation, Badon's location, and retrospective applications of prophecy remain source-scoped or disputed. The automatic `wiki/overview.md` was read for context and left unchanged because the focused pages capture the durable addition without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,663 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

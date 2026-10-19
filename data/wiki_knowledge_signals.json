@@ -20643,9 +20643,9 @@
       "url": "/wiki/entities/arthursmithwoodward/"
     },
     "ArthurianLegendAccretion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -20667,15 +20667,22 @@
           "show": "The Rest Is History",
           "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
           "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        },
+        {
+          "episode_file": "GLT4769841872 [GLT4769841872].md",
+          "key": "715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872",
+          "show": "The Rest Is History",
+          "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
+          "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/arthurianlegendaccretion/"
     },
     "ArthurianPoliticalLegitimation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -20690,9 +20697,16 @@
           "show": "The Rest Is History",
           "title": "713. King Arthur: The Once & Future King (Part 1)",
           "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        },
+        {
+          "episode_file": "GLT4769841872 [GLT4769841872].md",
+          "key": "715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872",
+          "show": "The Rest Is History",
+          "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
+          "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/arthurianpoliticallegitimation/"
     },
     "ArticlesOfConfederation": {
@@ -108014,9 +108028,9 @@
       "url": "/wiki/entities/geoffreyjacksondiplomat/"
     },
     "GeoffreyOfMonmouth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -108031,9 +108045,16 @@
           "show": "The Rest Is History",
           "title": "713. King Arthur: The Once & Future King (Part 1)",
           "url": "/wiki/sources/713-king-arthur-the-once-future-king-part-1-glt2516166521/"
+        },
+        {
+          "episode_file": "GLT4769841872 [GLT4769841872].md",
+          "key": "715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872",
+          "show": "The Rest Is History",
+          "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
+          "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/geoffreyofmonmouth/"
     },
     "GeometricUnity": {
@@ -153838,9 +153859,9 @@
       "url": "/wiki/entities/kinderhymne/"
     },
     "KingArthur": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -153862,9 +153883,16 @@
           "show": "The Rest Is History",
           "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
           "url": "/wiki/sources/714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632/"
+        },
+        {
+          "episode_file": "GLT4769841872 [GLT4769841872].md",
+          "key": "715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872",
+          "show": "The Rest Is History",
+          "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
+          "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/kingarthur/"
     },
     "KingFaisal": {
@@ -185191,9 +185219,9 @@
       "url": "/wiki/concepts/meritocraticarrogance/"
     },
     "Merlin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5141910845 [GLT5141910845].md",
@@ -185215,9 +185243,16 @@
           "show": "The Rest Is History",
           "title": "19. King Arthur",
           "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        },
+        {
+          "episode_file": "GLT4769841872 [GLT4769841872].md",
+          "key": "715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872",
+          "show": "The Rest Is History",
+          "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
+          "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/merlin/"
     },
     "MerovingianDynasty": {
