@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10656
+wiki_total_pages: 10659
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "AICreativeCollaboration"
     title: "AI Creative Collaboration"
     url: "/wiki/concepts/aicreativecollaboration/"
+  - key: "AICreativeFloorCeilingGap"
+    title: "AI Creative Floor-Ceiling Gap"
+    url: "/wiki/concepts/aicreativefloorceilinggap/"
   - key: "AICreativeProcessDatafication"
     title: "AI Creative Process Datafication / AI創作流程數據化"
     url: "/wiki/concepts/aicreativeprocessdatafication/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10656
+wiki_total_pages: 10659
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "DesignUnderConstraints"
     title: "Design Under Constraints"
     url: "/wiki/concepts/designunderconstraints/"
+  - key: "DesignLedSoftwareDifferentiation"
+    title: "Design-Led Software Differentiation"
+    url: "/wiki/concepts/designledsoftwaredifferentiation/"
   - key: "DesignedAgencyInGames"
     title: "Designed Agency In Games"
     url: "/wiki/concepts/designedagencyingames/"

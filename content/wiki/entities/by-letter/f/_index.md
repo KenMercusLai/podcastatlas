@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13600
+wiki_total_pages: 13602
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "FIFAWorldCup"
     title: "FIFA World Cup"
     url: "/wiki/entities/fifaworldcup/"
+  - key: "Figma"
+    title: "Figma"
+    url: "/wiki/entities/figma/"
   - key: "FigureAI"
     title: "Figure AI"
     url: "/wiki/entities/figureai/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10656
+wiki_total_pages: 10659
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "ModelPortableAgentArchitecture"
     title: "Model-Portable Agent Architecture"
     url: "/wiki/concepts/modelportableagentarchitecture/"
+  - key: "ModelProductProgressGap"
+    title: "Model-Product Progress Gap"
+    url: "/wiki/concepts/modelproductprogressgap/"
   - key: "ModelResponsiveAINativeOrganization"
     title: "Model-Responsive AI Native Organization"
     url: "/wiki/concepts/modelresponsiveainativeorganization/"

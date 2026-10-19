@@ -9480,6 +9480,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AICreativeFloorCeilingGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AICreativeProcessDatafication": [
     {
       "key": "technology",
@@ -30597,6 +30604,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DesignLedSoftwareDifferentiation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DesignedTechnologicalDesire": [
     {
       "key": "technology",
@@ -32547,6 +32561,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "DylanField": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DylanThompson": [
@@ -37420,6 +37441,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Figma": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FigureAI": [
@@ -62121,6 +62149,13 @@
     }
   ],
   "ModelPostTrainingBottleneck": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ModelProductProgressGap": [
     {
       "key": "technology",
       "label": "Technology",
@@ -101938,6 +101973,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1": [

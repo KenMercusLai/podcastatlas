@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2290
+topic_total_pages: 2291
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6219,6 +6219,9 @@ topic_sources:
   - key: "tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5"
     title: "Drew Houston on Dropbox: Origin, Survival, and Reinvention"
     url: "/wiki/sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5/"
+  - key: "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1"
+    title: "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity"
+    url: "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
   - key: "e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0"
     title: "E144.交易的艺术：不预测，统计优势，分散红利，随机波动"
     url: "/wiki/sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0/"

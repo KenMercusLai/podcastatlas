@@ -2327,6 +2327,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/aicreativecollaboration/"
     },
+    "AICreativeFloorCeilingGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+          "key": "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/aicreativefloorceilinggap/"
+    },
     "AICreativeProcessDatafication": {
       "episode_count": 1,
       "show_count": 1,
@@ -8236,6 +8252,36 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/administrativewritinginfrastructure/"
+    },
+    "Adobe": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S5-SpenserSkates-v2Audio [TSR-S5-SpenserSkates-v2Audio].md",
+          "key": "tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio",
+          "show": "The Social Radars",
+          "title": "Spenser Skates, Founder & CEO, Amplitude",
+          "url": "/wiki/sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio/"
+        },
+        {
+          "episode_file": "263.Sora死了，Adobe跌了，美图何去何从？ [lgjMYveOoC8WPzR0YvigGVZvdYfS].md",
+          "key": "263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs",
+          "show": "乱翻书",
+          "title": "263.Sora死了，Adobe跌了，美图何去何从？",
+          "url": "/wiki/sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs/"
+        },
+        {
+          "episode_file": "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+          "key": "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/adobe/"
     },
     "AdolescentAutonomyScaffolding": {
       "episode_count": 3,
@@ -69439,6 +69485,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/designbrandmanufacturingupgrade/"
     },
+    "DesignLedSoftwareDifferentiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+          "key": "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/designledsoftwaredifferentiation/"
+    },
     "DesignedTechnologicalDesire": {
       "episode_count": 1,
       "show_count": 1,
@@ -77015,6 +77077,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/dwarkeshpatel/"
+    },
+    "DylanField": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+          "key": "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/dylanfield/"
     },
     "DynaRobotics": {
       "episode_count": 1,
@@ -96836,6 +96914,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/fifthzhonglatehan/"
+    },
+    "Figma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+          "key": "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/figma/"
     },
     "Fila": {
       "episode_count": 1,
@@ -190532,6 +190626,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/modelposttrainingbottleneck/"
+    },
+    "ModelProductProgressGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+          "key": "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/modelproductprogressgap/"
     },
     "ModelSovereignty": {
       "episode_count": 5,

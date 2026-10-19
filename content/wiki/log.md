@@ -37289,3 +37289,11 @@ Added source `123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingda
 ## [2026-10-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-20] ingest | Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity
+
+Added source `audio-200-dylan-field-int-1-audio-200-dylan-field-int-1`; created [[DylanField]], [[Figma]], [[AICreativeFloorCeilingGap]], [[ModelProductProgressGap]], and [[DesignLedSoftwareDifferentiation]]; and resynthesized [[Adobe]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: AI lowers the effort required to make code and visual artifacts without automatically raising the ceiling of original work; model capability is not the same as a complete professional product; and cheaper implementation moves relative differentiation toward design, workflow quality, brand, emotional effect, and a distinctive point of view. The Figma case adds continued shipping during a roughly 16-month review of Adobe's proposed $20 billion acquisition, a post-deal organizational reset, generation-plus-direct-manipulation workflows, and an internal “written with AI” disclosure norm. No settled contradiction was adopted. Figma growth, transaction and regulatory counterfactuals, Claude Design's business effect, app-usage trends, neuroscience claims, and the significance of recent AI mathematics results remain participant-reported, interpretive, or source-scoped. Broad [[AllIn]], [[Anthropic]], [[Cursor]], and general human-judgment pages were kept closed because focused pages capture the durable additions without reopening much larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,672 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

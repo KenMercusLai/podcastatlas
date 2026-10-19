@@ -5391,6 +5391,10 @@
     "title": "AI Creative Collaboration",
     "url": "/wiki/concepts/aicreativecollaboration/"
   },
+  "AICreativeFloorCeilingGap": {
+    "title": "AI Creative Floor-Ceiling Gap",
+    "url": "/wiki/concepts/aicreativefloorceilinggap/"
+  },
   "AICreativeProcessDatafication": {
     "title": "AI Creative Process Datafication / AI創作流程數據化",
     "url": "/wiki/concepts/aicreativeprocessdatafication/"
@@ -26551,6 +26555,10 @@
     "title": "Design Led Growth",
     "url": "/wiki/concepts/designledgrowth/"
   },
+  "DesignLedSoftwareDifferentiation": {
+    "title": "Design-Led Software Differentiation",
+    "url": "/wiki/concepts/designledsoftwaredifferentiation/"
+  },
   "DesignUnderConstraints": {
     "title": "Design Under Constraints",
     "url": "/wiki/concepts/designunderconstraints/"
@@ -28810,6 +28818,10 @@
   "DwellTime": {
     "title": "Dwell Time",
     "url": "/wiki/entities/dwelltime/"
+  },
+  "DylanField": {
+    "title": "Dylan Field",
+    "url": "/wiki/entities/dylanfield/"
   },
   "DylanThompson": {
     "title": "Dylan Thompson",
@@ -33822,6 +33834,10 @@
   "FifthZhongLateHan": {
     "title": "第五种 / Fifth Zhong (late Han)",
     "url": "/wiki/entities/fifthzhonglatehan/"
+  },
+  "Figma": {
+    "title": "Figma",
+    "url": "/wiki/entities/figma/"
   },
   "FigureAI": {
     "title": "Figure AI",
@@ -61498,6 +61514,10 @@
   "ModelPostTrainingBottleneck": {
     "title": "Model Post-Training Bottleneck",
     "url": "/wiki/concepts/modelposttrainingbottleneck/"
+  },
+  "ModelProductProgressGap": {
+    "title": "Model-Product Progress Gap",
+    "url": "/wiki/concepts/modelproductprogressgap/"
   },
   "ModelProviderToolCompetition": {
     "title": "Model Provider Tool Competition",
@@ -102554,6 +102574,10 @@
   "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628": {
     "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",
     "url": "/wiki/sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628/"
+  },
+  "audio-200-dylan-field-int-1-audio-200-dylan-field-int-1": {
+    "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+    "url": "/wiki/sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1/"
   },
   "avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163": {
     "title": "Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson",
