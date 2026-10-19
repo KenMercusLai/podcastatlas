@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2288
+topic_total_pages: 2289
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1933,6 +1933,9 @@ topic_concepts:
   - key: "LateStagePrivateCompanyValuationRisk"
     title: "Late-Stage Private-Company Valuation Risk"
     url: "/wiki/concepts/latestageprivatecompanyvaluationrisk/"
+  - key: "LeadershipReplacementRegressionToMean"
+    title: "Leadership Replacement and Regression to the Mean"
+    url: "/wiki/concepts/leadershipreplacementregressiontomean/"
   - key: "LeanStartupFeedbackLoop"
     title: "Lean Startup Feedback Loop"
     url: "/wiki/concepts/leanstartupfeedbackloop/"

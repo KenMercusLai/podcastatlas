@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3532
+topic_total_pages: 3533
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1948,6 +1948,9 @@ topic_concepts:
   - key: "LaughterAgainstAuthority"
     title: "Laughter Against Authority"
     url: "/wiki/concepts/laughteragainstauthority/"
+  - key: "LeadershipReplacementRegressionToMean"
+    title: "Leadership Replacement and Regression to the Mean"
+    url: "/wiki/concepts/leadershipreplacementregressiontomean/"
   - key: "LeagueFirstOperatingModel"
     title: "League First Operating Model"
     url: "/wiki/concepts/leaguefirstoperatingmodel/"

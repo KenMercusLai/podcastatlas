@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10641
+wiki_total_pages: 10644
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -200,6 +200,12 @@ wiki_pages:
   - key: "LeadershipEmotionalCounterweight"
     title: "Leadership Emotional Counterweight"
     url: "/wiki/concepts/leadershipemotionalcounterweight/"
+  - key: "LeadershipOutcomeCausation"
+    title: "Leadership Outcome Causation"
+    url: "/wiki/concepts/leadershipoutcomecausation/"
+  - key: "LeadershipReplacementRegressionToMean"
+    title: "Leadership Replacement and Regression to the Mean"
+    url: "/wiki/concepts/leadershipreplacementregressiontomean/"
   - key: "LeadingIncumbentDisadvantage"
     title: "Leading Incumbent Disadvantage"
     url: "/wiki/concepts/leadingincumbentdisadvantage/"

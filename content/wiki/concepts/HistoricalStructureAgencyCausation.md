@@ -5,7 +5,8 @@ tags: [history, historiography, causation, structure, agency]
 sources:
   - 32-what-if-glt7767131043
   - 5-1981-glt3026558838
-last_updated: 2026-10-04
+  - what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403
+last_updated: 2026-10-19
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Agency nevertheless grows more consequential where alternatives are narrow, auth
 
 [[5-1981-glt3026558838]] applies the same discipline to [[MargaretThatcher|Margaret Thatcher]]. The episode argues that working-class aspiration, union-member preferences, long-standing north-south divergence, and Europe-wide heavy-industrial decline would have constrained any British government. That qualifies savior and destroyer myths without making Thatcher irrelevant: policy still shaped the pace, distribution, symbolism, and political conflict of structural change.
 
+Scale further changes the structure-agency balance. [[JaredDiamond]] argues that continental and millennial comparisons can be dominated by geography, domesticable species, and other durable structures, while shorter periods and local settings create more room for distinctive people to alter outcomes. Individual effect also rises with concentrated authority: institutional constraint, wartime emergency, and the power of an office help determine whether personal judgment becomes historically consequential. [[what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403]]
+
 ## Key Claims
 
 - Structural conditions shape the menu of available actions without selecting one outcome automatically.
@@ -30,7 +33,7 @@ Agency nevertheless grows more consequential where alternatives are narrow, auth
 - Replacement mechanisms matter: another leader, expedition, coalition, or government may reproduce part of the changed outcome.
 - A trigger can be contingent even when the wider conflict or transformation remains structurally likely.
 - Technology depends on systems of production, knowledge, incentives, and competition, so invention alone rarely relocates an entire development path.
-- Causal weight changes with the time horizon: immediate effects may be attributable to one choice while distant outcomes diffuse across many later decisions.
+- Causal weight changes with geographic and temporal scale: immediate local effects may be attributable to one choice while distant outcomes diffuse across durable conditions and many later decisions.
 - Calling a leader a symptom of broader change does not erase responsibility for the choices through which that change is accelerated, distributed, or resisted.
 
 ## Evidence
@@ -55,14 +58,18 @@ Agency nevertheless grows more consequential where alternatives are narrow, auth
 
 - [[5-1981-glt3026558838]] uses Thatcher, union reform, regional divergence, and deindustrialization to distinguish structural pressure from the policy choices governing its pace and conflict.
 
+### Scale and concentrated power
+
+- [[what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403]] distinguishes millennial continental explanation from shorter local leadership effects and says leaders with greater office power or fewer institutional constraints can make a larger measurable difference.
+
 ## Counterevidence & Qualifications
 
-Structure and agency are analytic categories, not independently measurable forces with fixed weights. The episodes move quickly across many periods and offer host judgments rather than complete comparative evidence. Claims that a replacement regime, election result, conquest, religion, technology, war, or substantially similar Britain without Thatcher would have followed remain counterfactual and source-scoped. Calling a moment a choke point can exaggerate one visible decision while hiding collective labor and institutional capacity; calling a leader a symptom can do the reverse by obscuring chosen policies and unequal effects.
+Structure and agency are analytic categories, not independently measurable forces with fixed weights. The episodes move quickly across many periods and offer host or guest judgments rather than complete comparative evidence. Claims that a replacement regime, election result, conquest, religion, technology, war, or substantially similar Britain without Thatcher would have followed remain counterfactual and source-scoped. Diamond's scale rule is useful but does not make geography irrelevant in short periods or people irrelevant over long ones. Calling a moment a choke point can exaggerate one visible decision while hiding collective labor and institutional capacity; calling a leader a symptom can do the reverse by obscuring chosen policies and unequal effects.
 
 ## What Changed
 
-- Added Thatcher as a case where persistent economic and social pressures coexist with responsibility for policy pace and distribution.
-- Created a case-by-case framework in which replacement, concentrated authority, institutional resilience, and time horizon determine the relative causal weight of individuals and structures.
+- Added Diamond's explicit geographic-and-temporal scale rule for varying causal weight.
+- Made formal power, institutional constraint, and wartime emergency additional conditions on individual effect.
 
 ## Related Concepts
 
@@ -71,3 +78,4 @@ Structure and agency are analytic categories, not independently measurable force
 - [[May1940BritishWarCabinetCrisis]] - proposed choke point joining individual authority to retained British strategic capacity.
 - [[HistoricalComplexityAgainstLabels]] - resists compressing distributed causal fields into a single person or slogan.
 - [[IndustrialRevolution]] - long-run transformation used to test political fragmentation and technological enabling conditions.
+- [[LeadershipOutcomeCausation]] - cross-domain leadership version of person-system interaction.

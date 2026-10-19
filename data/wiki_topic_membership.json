@@ -54623,6 +54623,18 @@
       "url": "/topics/history/"
     }
   ],
+  "LeadershipReplacementRegressionToMean": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LeadingIncumbentDisadvantage": [
     {
       "key": "technology",
@@ -110084,6 +110096,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "why-economists-got-free-trade-with-china-so-wrong": [

@@ -7,8 +7,9 @@ sources:
   - a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687
   - scim1807559844-scim1807559844
   - 24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp
+  - what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-08
+last_updated: 2026-10-19
 ---
 
 # Mortality-Bounded Meaning
@@ -25,10 +26,12 @@ Neither account makes crisis necessary or guarantees growth. Old age, illness, a
 
 Collective and artistic practices widen the same response beyond individual crisis. The [[LastSupper]] carries impending death into [[Eucharist|ritual remembrance]], service, love, and a story of failure followed by repentance; the [[LantingGathering|Lanting Gathering]] carries transient pleasure, aging, and death into poetry, calligraphy, and attention to present life. These are culturally specific responses rather than interchangeable proof that mortality automatically produces meaning.
 
+Late-life work can also become a stewardship problem. [[JaredDiamond]] directs more of his remaining time toward synthesizing unique New Guinea observations before they disappear with him while retaining intrinsically meaningful study. [[FiniteTimeKnowledgeStewardship]] therefore adds triage among responsibilities, reproducible work, irreplaceable knowledge, and activities worth doing even without a legacy claim. [[what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403]]
+
 ## Key Claims
 - Finitude makes choice meaningful by making alternatives and time genuinely limited.
 - Mortality denial and mortality fixation can both distort present action.
-- Aging intensifies the task of integrating loss, error, bodily change, and unfinished life.
+- Aging intensifies the task of integrating loss, error, bodily change, unfinished life, and irreplaceable knowledge that still needs transfer.
 - Acceptance involves letting go of ego perpetuation without withdrawing from care or curiosity.
 - Speculation about an afterlife does not remove responsibility for the life presently available.
 - Illness, sudden loss, and prognosis can change the salience of ordinary experience and the felt scale of time without guaranteeing transformation.
@@ -44,13 +47,14 @@ Collective and artistic practices widen the same response beyond individual cris
 - Gratitude and relationship - [[scim1807559844-scim1807559844]] centers gratitude on sentience, creative life, spouse, and children, while identifying leaving others as the sharpest pain of death.
 - Curiosity as bounded agency - [[scim1807559844-scim1807559844]] presents scientific observation of illness and mental state as empowering for Linden but explicitly not right for everyone.
 - Ritual and artistic afterlife - [[24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp]] compares the Last Supper's remembrance and love with Lanting's poetic-calligraphic response to transience.
+- Knowledge stewardship - [[what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403]] has Diamond prioritize synthesis of observations that may otherwise die with him while continuing personally meaningful study.
 
 ## Counterevidence & Qualifications
-Finitude does not guarantee meaning, and mortality awareness can worsen anxiety, depression, grief, nihilism, or obsessive thought. Stroke, cancer, treatment, and other crises can disable or traumatize rather than clarify, and gratitude narratives should not impose a required positive meaning on loss. The Last Supper-Lanting comparison is thematic rather than evidence of religious, institutional, or civilizational equivalence, and the Lanting textual and political questions remain open. The sources' claims about the psyche, traditional cultures, near-death experience, future-modeling, time perception, and urgency are philosophical, autobiographical, or source-scoped rather than demonstrated universals. Afterlife and annihilation remain explicitly unresolved.
+Finitude does not guarantee meaning, and mortality awareness can worsen anxiety, depression, grief, nihilism, or obsessive thought. Stroke, cancer, treatment, and other crises can disable or traumatize rather than clarify, and gratitude narratives should not impose a required positive meaning on loss. A knowledge-stewardship frame can also become productivity pressure or obscure collaborators, community ownership, consent, and the need for review. The Last Supper-Lanting comparison is thematic rather than evidence of religious, institutional, or civilizational equivalence, and the Lanting textual and political questions remain open. The sources' claims about the psyche, traditional cultures, near-death experience, future-modeling, time perception, and urgency are philosophical, autobiographical, or source-scoped rather than demonstrated universals. Afterlife and annihilation remain explicitly unresolved.
 
 ## What Changed
-- Added ritual remembrance and artistic creation as collective responses to finitude alongside individual acceptance, urgency, gratitude, and curiosity.
-- Qualified the Last Supper-Lanting comparison as thematic rather than historically or institutionally equivalent.
+- Added preservation of uniquely held knowledge as a finite-time responsibility.
+- Distinguished stewardship and intrinsically meaningful study from total productivity optimization.
 
 ## Related Concepts
 - [[MeaningThroughExperience]] - finite meaning is enacted through experience, action, relationship, and narration.
@@ -63,3 +67,4 @@ Finitude does not guarantee meaning, and mortality awareness can worsen anxiety,
 - [[BiologicalMindBodyMechanisms]] - mechanism-first scientific frame Linden uses while facing illness.
 - [[LastSupper]] - religious-narrative branch connecting impending death to love and remembrance.
 - [[LantingGathering|兰亭雅集]] - artistic-social branch connecting transient pleasure to poetry, calligraphy, and present attention.
+- [[FiniteTimeKnowledgeStewardship]] - focused branch for preserving distinctive evidence before capacity or time runs out.

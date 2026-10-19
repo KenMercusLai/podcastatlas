@@ -4754,6 +4754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981.md) — Tomorrow Today interview on artistic swimming, process-focused excellence, athlete-centered coaching, retirement, team trust, and high-intensity apnea safety.
 - [新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg](sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm.md) — 十字路口Crossing interview with Trigg's team on three startup pivots, general-agent ecosystem distribution, data and tool aggregation, narrow operational loops, multi-agent work, and the limits of zero-human companies.
 - [Seinfeld](sources/seinfeld-ca0df1168651e0a51be7d6012432411f.md) — Acquired episode linking Seinfeld's observational craft, self-contained convergent plots, independent production, syndication, and streaming to a durable media library.
+- [What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403.md) — Huberman Lab interview on leadership causation, historical scale, scientific fieldwork, mentorship, and finite-time knowledge stewardship.
 
 ## Entities
 - [Loren Castle](entities/LorenCastle.md) — Sweet Loren's founder linking sensory craft, direct customer evidence, patient operations, and an allergy-conscious portfolio pivot.
@@ -18420,6 +18421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dyna Robotics](entities/DynaRobotics.md) — Full-stack robotics startup using deployment feedback to connect product research, flexible-object manipulation, and hotel-laundry workflows.
 - [Lindon (Dyna Robotics)](entities/LindonDyna.md) — Dyna founder and CEO linking repeat-founder judgment, full-stack robot strategy, and long-horizon personal practice.
 - [刘欢 / Liu Huan](entities/LiuHuan.md) — Chinese singer, songwriter, and teacher whose television themes and public-event performances connect individual fate to shared cultural memory.
+- [Jared Diamond](entities/JaredDiamond.md) — Scientist and writer connecting physiology, ornithology, comparative history, leadership causation, and late-life knowledge stewardship.
 
 ## Concepts
 - [Television Syndication Economics](concepts/TelevisionSyndicationEconomics.md) — Secondary market joining episode volume, proven demand, rights ownership, and repeated licensing of completed programs.
@@ -29148,5 +29150,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Athlete-Centered Performance Culture](concepts/AthleteCenteredPerformanceCulture.md) — Demanding team culture built through shared purpose, explanation, emotional transparency, athlete voice, and independent problem-solving.
 - [Pain-Attention Reframing](concepts/PainAttentionReframing.md) — Attentional flexibility during bounded discomfort, explicitly limited by injury, illness, coercion, and physiological danger.
 - [High-Intensity Apnea Safety](concepts/HighIntensityApneaSafety.md) — Recognition, supervision, rescue, and medical boundaries for breath-holding during vigorous aquatic sport.
+- [Leadership Outcome Causation](concepts/LeadershipOutcomeCausation.md) — Framework joining leader capacities to followers, institutions, circumstances, formal power, other contributors, and chance.
+- [Leadership Replacement and Regression to the Mean](concepts/LeadershipReplacementRegressionToMean.md) — Causal-inference boundary against crediting post-dismissal rebound to a new leader without an adequate baseline.
+- [Finite-Time Knowledge Stewardship](concepts/FiniteTimeKnowledgeStewardship.md) — Preservation and transfer of distinctive knowledge before time or capacity runs out.
 
 ## Syntheses

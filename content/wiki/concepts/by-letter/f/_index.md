@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10641
+wiki_total_pages: 10644
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "FiniteGameBiotechCompetition"
     title: "Finite-Game Biotech Competition"
     url: "/wiki/concepts/finitegamebiotechcompetition/"
+  - key: "FiniteTimeKnowledgeStewardship"
+    title: "Finite-Time Knowledge Stewardship"
+    url: "/wiki/concepts/finitetimeknowledgestewardship/"
   - key: "FintechRegulatoryWindow"
     title: "Fintech Regulatory Window"
     url: "/wiki/concepts/fintechregulatorywindow/"

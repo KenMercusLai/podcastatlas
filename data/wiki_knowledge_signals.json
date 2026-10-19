@@ -96933,6 +96933,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/finetuningexamplesignalamplification/"
     },
+    "FiniteTimeKnowledgeStewardship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/finitetimeknowledgestewardship/"
+    },
     "FireFromHeaven": {
       "episode_count": 1,
       "show_count": 1,
@@ -126244,9 +126260,9 @@
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalStructureAgencyCausation": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7767131043 [GLT7767131043].md",
@@ -126261,9 +126277,16 @@
           "show": "The Rest Is History",
           "title": "5. 1981",
           "url": "/wiki/sources/5-1981-glt3026558838/"
+        },
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/historicalstructureagencycausation/"
     },
     "HistoricalWorldviewReconstruction": {
@@ -144543,6 +144566,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/japaneseimperiallegitimacycontinuity/"
     },
+    "JaredDiamond": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/entities/jareddiamond/"
+    },
     "JaredIsaacman": {
       "episode_count": 1,
       "show_count": 1,
@@ -158439,6 +158478,38 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/leadershipemotionalcounterweight/"
+    },
+    "LeadershipOutcomeCausation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/leadershipoutcomecausation/"
+    },
+    "LeadershipReplacementRegressionToMean": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/leadershipreplacementregressiontomean/"
     },
     "LeadingTheFuture": {
       "episode_count": 1,
@@ -191793,9 +191864,9 @@
       "url": "/wiki/entities/morocco/"
     },
     "MortalityBoundedMeaning": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7619753889 [SCIM7619753889].md",
@@ -191824,9 +191895,16 @@
           "show": "怪东西Weird History",
           "title": "24 东西方的饭局：最后的晚餐与兰亭雅集",
           "url": "/wiki/sources/24-dongxifang-de-fanju-zuihou-de-wancan-yu-lanting-yaji-lraekm-bgowhg1wxysfshcwoz5xp/"
+        },
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-19",
       "url": "/wiki/concepts/mortalityboundedmeaning/"
     },
     "MortalityContemplationValueReorientation": {
@@ -205828,6 +205906,29 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/originalstorydatalegibilitytrap/"
+    },
+    "OrnithologicalFieldwork": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "47.鸟有什么好看的：原来…丹顶鹤是秃的！ [625613924].md",
+          "key": "47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924",
+          "show": "蜜獾吃书",
+          "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
+          "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
+        },
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
+        }
+      ],
+      "updated": "2026-10-19",
+      "url": "/wiki/concepts/ornithologicalfieldwork/"
     },
     "OrthodonticTreatmentContinuity": {
       "episode_count": 2,
@@ -307059,9 +307160,9 @@
       "url": "/wiki/entities/yuzhouebike/"
     },
     "YvonChouinard": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
@@ -307069,9 +307170,16 @@
           "show": "声东击西",
           "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
           "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        },
+        {
+          "episode_file": "SCIM4640433403 [SCIM4640433403].md",
+          "key": "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403",
+          "show": "Huberman Lab",
+          "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+          "url": "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-19",
       "url": "/wiki/entities/yvonchouinard/"
     },
     "ZTE": {

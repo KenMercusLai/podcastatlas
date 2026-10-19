@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1586
+topic_total_pages: 1587
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4689,6 +4689,9 @@ topic_sources:
   - key: "scim5670648609-scim5670648609"
     title: "Welcome to the Huberman Lab Podcast"
     url: "/wiki/sources/scim5670648609-scim5670648609/"
+  - key: "what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403"
+    title: "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond"
+    url: "/wiki/sources/what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403/"
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"

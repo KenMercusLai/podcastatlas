@@ -37249,3 +37249,11 @@ Added source `sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-c
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-19] ingest | What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond
+
+Added source `what-makes-great-leaders-how-to-live-an-extraordinary-life-dr-jared-diamond-scim4640433403`; created [[JaredDiamond]], [[LeadershipOutcomeCausation]], [[LeadershipReplacementRegressionToMean]], and [[FiniteTimeKnowledgeStewardship]]; and resynthesized [[HistoricalStructureAgencyCausation]], [[MortalityBoundedMeaning]], [[OrnithologicalFieldwork]], and [[YvonChouinard]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: leadership outcomes emerge from the interaction of individual capacity, followers, institutions, circumstances, formal power, and chance; causal weight changes with historical scale; extreme-result replacement can be confused with regression to the mean; and finite time can create a duty to preserve unique field knowledge without turning all remaining life into output. No settled contradiction was adopted. Coaching and CEO effect estimates, leader-exit counts, counterfactual histories, religious-role claims, population and resource warnings, and causal links between exercise and longevity remain source-scoped. The automatic `wiki/overview.md` was read for context and left unchanged because the focused pages capture the durable addition without changing the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,667 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
