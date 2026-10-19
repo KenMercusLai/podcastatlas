@@ -146714,6 +146714,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/jiakuilatehan/"
     },
+    "JiaLian": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "日谈串台｜红楼梦：还是可以读一读的 [587167638].md",
+          "key": "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜红楼梦：还是可以读一读的",
+          "url": "/wiki/sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638/"
+        },
+        {
+          "episode_file": "ll-XQIERm5DlcYr80_DxMlFH97nI [ll-XQIERm5DlcYr80_DxMlFH97nI].md",
+          "key": "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni",
+          "show": "纸醉金迷FM",
+          "title": "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶",
+          "url": "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/jialian/"
+    },
     "JiaRangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -168309,6 +168332,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/liuxiangfuprincesswesternhan/"
+    },
+    "LiuXianglian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll-XQIERm5DlcYr80_DxMlFH97nI [ll-XQIERm5DlcYr80_DxMlFH97nI].md",
+          "key": "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni",
+          "show": "纸醉金迷FM",
+          "title": "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶",
+          "url": "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/liuxianglian/"
     },
     "LiuXiaoHengshanPrince": {
       "episode_count": 2,
@@ -212605,6 +212644,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/performancesupplementhierarchy/"
+    },
+    "PerformativeShamelessnessCountercontrol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll-XQIERm5DlcYr80_DxMlFH97nI [ll-XQIERm5DlcYr80_DxMlFH97nI].md",
+          "key": "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni",
+          "show": "纸醉金迷FM",
+          "title": "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶",
+          "url": "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/performativeshamelessnesscountercontrol/"
     },
     "PerformerAudienceStateCoupling": {
       "episode_count": 5,
@@ -261046,6 +261101,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/stewartbrand/"
     },
+    "StigmaBoundedFreshStart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll-XQIERm5DlcYr80_DxMlFH97nI [ll-XQIERm5DlcYr80_DxMlFH97nI].md",
+          "key": "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni",
+          "show": "纸醉金迷FM",
+          "title": "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶",
+          "url": "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/stigmaboundedfreshstart/"
+    },
     "StillnessAsNonConditioning": {
       "episode_count": 1,
       "show_count": 1,
@@ -305864,6 +305935,45 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/yosanoakiko/"
+    },
+    "YouErjie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll-XQIERm5DlcYr80_DxMlFH97nI [ll-XQIERm5DlcYr80_DxMlFH97nI].md",
+          "key": "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni",
+          "show": "纸醉金迷FM",
+          "title": "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶",
+          "url": "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/youerjie/"
+    },
+    "YouSanjie": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "日谈串台｜红楼梦：还是可以读一读的 [587167638].md",
+          "key": "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜红楼梦：还是可以读一读的",
+          "url": "/wiki/sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638/"
+        },
+        {
+          "episode_file": "ll-XQIERm5DlcYr80_DxMlFH97nI [ll-XQIERm5DlcYr80_DxMlFH97nI].md",
+          "key": "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni",
+          "show": "纸醉金迷FM",
+          "title": "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶",
+          "url": "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/yousanjie/"
     },
     "YouTanzhi": {
       "episode_count": 1,

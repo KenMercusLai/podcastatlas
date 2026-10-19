@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10654
+wiki_total_pages: 10656
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2078,6 +2078,9 @@ wiki_pages:
   - key: "STIPublicHealthResponse"
     title: "STI Public Health Response"
     url: "/wiki/concepts/stipublichealthresponse/"
+  - key: "StigmaBoundedFreshStart"
+    title: "Stigma-Bounded Fresh Start / 污名约束的重新开始"
+    url: "/wiki/concepts/stigmaboundedfreshstart/"
   - key: "StillnessAsNonConditioning"
     title: "Stillness as Non-Conditioning"
     url: "/wiki/concepts/stillnessasnonconditioning/"

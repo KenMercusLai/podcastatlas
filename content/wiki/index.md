@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶](sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni.md) — 纸醉金迷FM从家庭依附、性别权力、表演性反制、婚姻自主与污名信任讨论尤三姐，并保留柳湘莲退婚责任的分歧。
 - [Independence eh? Canada’s referendum](sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1.md) — Economist episode on Alberta and Quebec separatism, Canada’s trade response, China’s neurotechnology push, and Britain’s machine-assisted insect habitat corridors.
 - [从东北到东亚，历史是一个过程，人也是](sources/cong-dongbei-dao-dongya-lishi-shi-yige-guocheng-ren-yeshi-lgolueqq4aiwj4bg5jk-im4qhzc5.md) — 面基对谈宋念申，以《西塔》连接沈阳空间层积、比较去工业化、档案与田野互证、具体日常口述史、公共写作及东亚概念的历史化。
 - [Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand](sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b.md) — How I Built This founder story on Sweet Loren's slow retail build, stage-matched manufacturing, customer-led allergy-conscious reformulation, taste-first positioning, and national expansion.
@@ -4761,6 +4762,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
 
 ## Entities
+- [柳湘莲 / Liu Xianglian](entities/LiuXianglian.md) — 因宁国府关联而退婚、在尤三姐自刎后翻转判断并出家的《红楼梦》人物。
+- [尤二姐 / You Erjie](entities/YouErjie.md) — 名分改变却未获得稳定家庭保护，其处境触发尤三姐保护与反抗的《红楼梦》人物。
 - [BrainCo](entities/BrainCo.md) — Chinese neurotechnology company represented through a residual-signal bionic hand and non-invasive consumer devices.
 - [Buglife](entities/Buglife.md) — British conservation organization mapping and reconnecting insect habitats through “bug highways.”
 - [Building Canada Act](entities/BuildingCanadaAct.md) — Canadian legislation presented as accelerating nationally significant infrastructure approvals.
@@ -18435,6 +18438,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
 
 ## Concepts
+- [Performative Shamelessness Counter-Control / 表演性“无耻”反制](concepts/PerformativeShamelessnessCountercontrol.md) — 通过主动越过羞耻脚本反制性化支配、但不能替代持久安全的策略。
+- [Stigma-Bounded Fresh Start / 污名约束的重新开始](concepts/StigmaBoundedFreshStart.md) — 过去、群体关联与不确定风险如何限制改过者重新获得信任与生活入口。
 - [Canadian Separatism](concepts/CanadianSeparatism.md) — Comparative frame separating Alberta’s resource and fiscal grievances from Quebec’s cultural-national independence movement.
 - [China Neurotechnology Industrial Policy](concepts/ChinaNeurotechnologyIndustrialPolicy.md) — Ecosystem strategy combining investment, regulation, reimbursement infrastructure, education, trials, and commercialization.
 - [Habitat Corridor Connectivity](concepts/HabitatCorridorConnectivity.md) — Conservation strategy linking isolated habitats so insect populations can move and withstand local stress.

@@ -37281,3 +37281,11 @@ Added source `tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-
 ## [2026-10-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-20] ingest | 123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶
+
+Added source `123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni`; created [[LiuXianglian|柳湘莲]], [[YouErjie|尤二姐]], [[PerformativeShamelessnessCountercontrol|表演性“无耻”反制]], and [[StigmaBoundedFreshStart|污名约束的重新开始]]; and resynthesized [[YouSanjie|尤三姐]] and [[JiaLian|贾琏]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: You Sanjie reverses a sexualized shame script and openly chooses her desired marriage, but tactical control does not provide durable safety or reputational repair; Liu Xianglian's withdrawal joins understandable intimate-risk caution to associative prejudice; and a fresh start fails when one pledge must carry love, livelihood, dignity, and proof of reform at once. No settled contradiction was adopted. Family alternatives, performance versus temperament, Liu Xianglian's motives and responsibility, betrothal law, exact past conduct, and religious meaning remain disputed, interpretive, or source-scoped. Broad [[HongLouMeng|《红楼梦》]], [[ZhiZuiJinMiFM|纸醉金迷FM]], [[JiaBaoyu|贾宝玉]], and [[WangXifeng|王熙凤]] pages were kept closed because focused pages capture the durable additions without reopening larger or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,671 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
