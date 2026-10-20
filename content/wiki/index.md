@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.57 对谈李荣浩：该放下就放下 该不要就不要](sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5.md) — 天真不天真对谈李荣浩，以真实经验、编曲与混音的关系判断、减法式聚焦、延迟走红、现场合唱及AI音乐的功能边界连接创作与音乐工业。
 - [Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity](sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1.md) — All-In interview on Figma, the failed Adobe acquisition, model versus product progress, design-led software differentiation, and AI's lower creative floor but unchanged ceiling.
 - [123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶](sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni.md) — 纸醉金迷FM从家庭依附、性别权力、表演性反制、婚姻自主与污名信任讨论尤三姐，并保留柳湘莲退婚责任的分歧。
 - [Independence eh? Canada’s referendum](sources/independence-eh-canadas-referendum-d1db236273c4dba7fc1e1a7b66cd08a1.md) — Economist episode on Alberta and Quebec separatism, Canada’s trade response, China’s neurotechnology push, and Britain’s machine-assisted insect habitat corridors.
@@ -4763,6 +4764,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
 
 ## Entities
+- [李荣浩 / Li Ronghao](entities/LiRonghao.md) — Singer-songwriter and producer connecting lived credibility, granular production craft, selective focus, delayed reception, live reciprocity, and qualified AI-music judgment.
 - [Dylan Field](entities/DylanField.md) — Figma co-founder and CEO arguing that AI lowers creative entry costs while leaving product craft, judgment, and originality to people.
 - [Figma](entities/Figma.md) — Design-centered professional software company combining AI generation with direct manipulation and workflow depth.
 - [柳湘莲 / Liu Xianglian](entities/LiuXianglian.md) — 因宁国府关联而退婚、在尤三姐自刎后翻转判断并出家的《红楼梦》人物。
@@ -18441,6 +18443,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
 
 ## Concepts
+- [Relational Music Production / 关系式音乐制作](concepts/RelationalMusicProduction.md) — 以克制、遮蔽、频率、空间和多设备权衡处理乐器与声音之间关系的编曲混音框架。
+- [Creative Focus by Subtraction / 减法式创作聚焦](concepts/CreativeFocusBySubtraction.md) — 通过拒绝低价值项目和义务，为少数重要实践保留深度注意力并接受选择机会成本。
 - [AI Creative Floor-Ceiling Gap](concepts/AICreativeFloorCeilingGap.md) — Distinction between making acceptable creation easier and actually extending the frontier of original, exceptional work.
 - [Model-Product Progress Gap](concepts/ModelProductProgressGap.md) — Distance between demonstrated model capability and a dependable audience-specific product workflow.
 - [Design-Led Software Differentiation](concepts/DesignLedSoftwareDifferentiation.md) — Shift from implementation scarcity toward point of view, usability, brand, emotional effect, and audience fit.

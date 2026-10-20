@@ -28947,9 +28947,9 @@
       "url": "/wiki/concepts/beliefactivatedpoliticalsigns/"
     },
     "BeliefGroundedStorytelling": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liytV2s219yN3OX5dHR4Z4mroVYT [liytV2s219yN3OX5dHR4Z4mroVYT].md",
@@ -28957,9 +28957,16 @@
           "show": "罗永浩的十字路口",
           "title": "导演大鹏×罗永浩！我这两辈子",
           "url": "/wiki/sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt/"
+        },
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/beliefgroundedstorytelling/"
     },
     "Belisarius": {
@@ -59578,6 +59585,22 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/creativeexperiencebottleneck/"
+    },
+    "CreativeFocusBySubtraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/creativefocusbysubtraction/"
     },
     "CreativeHobbyCommercializationBoundary": {
       "episode_count": 1,
@@ -107552,9 +107575,9 @@
       "url": "/wiki/concepts/generativeaihollywoodproduction/"
     },
     "GenerativeAIMusic": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -107590,9 +107613,16 @@
           "show": "罗永浩的十字路口",
           "title": "五条人之仁科×罗永浩！近五个小时的变态超长对谈！",
           "url": "/wiki/sources/lml-euxpi9ekjvk-ihnkfzwp4ysq-lml-euxpi9ekjvk-ihnkfzwp4ysq/"
+        },
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeAIUseCaseTriage": {
@@ -161388,6 +161418,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/liqingluo/"
     },
+    "LiRonghao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/lironghao/"
+    },
     "LiRunLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -170143,9 +170189,9 @@
       "url": "/wiki/concepts/liveindomesticworkboundary/"
     },
     "LiveMusicHumanConnection": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljzsLBjyHPpWf11pKWO009U2hxii [ljzsLBjyHPpWf11pKWO009U2hxii].md",
@@ -170153,9 +170199,16 @@
           "show": "罗永浩的十字路口",
           "title": "崔健×罗永浩！去天堂和去地狱，都要带上艺术家",
           "url": "/wiki/sources/cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii/"
+        },
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/livemusichumanconnection/"
     },
     "LiveTheatreCoPresence": {
@@ -232548,6 +232601,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/relationaljoy/"
     },
+    "RelationalMusicProduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/relationalmusicproduction/"
+    },
     "RelationalSelfConceptSelection": {
       "episode_count": 2,
       "show_count": 1,
@@ -275327,9 +275396,9 @@
       "url": "/wiki/entities/tianyamingyuedaogulong/"
     },
     "TianzhenButianzhen": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
@@ -275351,9 +275420,16 @@
           "show": "天真不天真",
           "title": "vol.56 对谈咪仔：人生是认领自己与确立使命的过程",
           "url": "/wiki/sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c/"
+        },
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-20",
       "url": "/wiki/entities/tianzhenbutianzhen/"
     },
     "TiaozhiKingdom": {
@@ -304017,9 +304093,9 @@
       "url": "/wiki/entities/yangtanwesternhan/"
     },
     "YangTianzhen": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lvMwWqnWmEW2_S22X_4oTJy2GNlw [lvMwWqnWmEW2_S22X_4oTJy2GNlw].md",
@@ -304034,9 +304110,16 @@
           "show": "天真不天真",
           "title": "vol.56 对谈咪仔：人生是认领自己与确立使命的过程",
           "url": "/wiki/sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c/"
+        },
+        {
+          "episode_file": "lujrbxDhQr5-HRqMYJ746W6uAP5_ [lujrbxDhQr5-HRqMYJ746W6uAP5_].md",
+          "key": "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5",
+          "show": "天真不天真",
+          "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+          "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-20",
       "url": "/wiki/entities/yangtianzhen/"
     },
     "YangXiaoJinYong": {

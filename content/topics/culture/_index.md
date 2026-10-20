@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3537
+topic_total_pages: 3539
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2836,6 +2836,9 @@ topic_concepts:
   - key: "RegionalLanguageAsCharacterAccess"
     title: "Regional Language As Character Access / 方言作为人物入口"
     url: "/wiki/concepts/regionallanguageascharacteraccess/"
+  - key: "RelationalMusicProduction"
+    title: "Relational Music Production / 关系式音乐制作"
+    url: "/wiki/concepts/relationalmusicproduction/"
   - key: "RelationalSelfConceptSelection"
     title: "Relational Self-Concept Selection / 亲密关系选择与自我概念"
     url: "/wiki/concepts/relationalselfconceptselection/"
@@ -10374,6 +10377,9 @@ topic_sources:
   - key: "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw"
     title: "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远"
     url: "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  - key: "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5"
+    title: "vol.57 对谈李荣浩：该放下就放下 该不要就不要"
+    url: "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
   - key: "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128"
     title: "What do students lose when they rely on AI for homework?"
     url: "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"

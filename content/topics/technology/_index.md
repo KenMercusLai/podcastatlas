@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3574
+topic_total_pages: 3575
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10356,6 +10356,9 @@ topic_sources:
   - key: "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw"
     title: "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远"
     url: "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  - key: "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5"
+    title: "vol.57 对谈李荣浩：该放下就放下 该不要就不要"
+    url: "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
   - key: "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128"
     title: "Welcome to the 'infocalypse'"
     url: "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"

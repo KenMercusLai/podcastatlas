@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10659
+wiki_total_pages: 10661
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "RelationalJoy"
     title: "Relational Joy"
     url: "/wiki/concepts/relationaljoy/"
+  - key: "RelationalMusicProduction"
+    title: "Relational Music Production / 关系式音乐制作"
+    url: "/wiki/concepts/relationalmusicproduction/"
   - key: "RelationalSelfConceptSelection"
     title: "Relational Self-Concept Selection / 亲密关系选择与自我概念"
     url: "/wiki/concepts/relationalselfconceptselection/"

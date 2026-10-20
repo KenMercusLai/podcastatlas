@@ -23539,6 +23539,10 @@
     "title": "Creative Experience Bottleneck / 创作经验瓶颈",
     "url": "/wiki/concepts/creativeexperiencebottleneck/"
   },
+  "CreativeFocusBySubtraction": {
+    "title": "Creative Focus by Subtraction / 减法式创作聚焦",
+    "url": "/wiki/concepts/creativefocusbysubtraction/"
+  },
   "CreativeHobbyCommercializationBoundary": {
     "title": "Creative Hobby Commercialization Boundary / 创作爱好商业化边界",
     "url": "/wiki/concepts/creativehobbycommercializationboundary/"
@@ -53275,6 +53279,10 @@
     "title": "李清照 / Li Qingzhao",
     "url": "/wiki/entities/liqingzhao/"
   },
+  "LiRonghao": {
+    "title": "李荣浩 / Li Ronghao",
+    "url": "/wiki/entities/lironghao/"
+  },
   "LiRuLateHan": {
     "title": "李儒 / Li Ru (late Han)",
     "url": "/wiki/entities/lirulatehan/"
@@ -74874,6 +74882,10 @@
   "RelationalJoy": {
     "title": "Relational Joy",
     "url": "/wiki/concepts/relationaljoy/"
+  },
+  "RelationalMusicProduction": {
+    "title": "Relational Music Production / 关系式音乐制作",
+    "url": "/wiki/concepts/relationalmusicproduction/"
   },
   "RelationalSelfConceptSelection": {
     "title": "Relational Self-Concept Selection / 亲密关系选择与自我概念",
@@ -109410,6 +109422,10 @@
   "vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c": {
     "title": "vol.56 对谈咪仔：人生是认领自己与确立使命的过程",
     "url": "/wiki/sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c/"
+  },
+  "vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5": {
+    "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
+    "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
   },
   "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d": {
     "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",

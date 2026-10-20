@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13602
+wiki_total_pages: 13603
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2225,6 +2225,9 @@ wiki_pages:
   - key: "LiLiangZhaoGeneral"
     title: "李良 / Li Liang (Zhao General)"
     url: "/wiki/entities/liliangzhaogeneral/"
+  - key: "LiRonghao"
+    title: "李荣浩 / Li Ronghao"
+    url: "/wiki/entities/lironghao/"
   - key: "LiMochou"
     title: "李莫愁 / Li Mochou"
     url: "/wiki/entities/limochou/"
