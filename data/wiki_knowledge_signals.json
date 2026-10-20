@@ -64513,9 +64513,9 @@
       "url": "/wiki/concepts/daoistwatervirtue/"
     },
     "DapenPodcastGuest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu5F5Re7geONFv31iSlE2b6zQFCz [lu5F5Re7geONFv31iSlE2b6zQFCz].md",
@@ -64523,9 +64523,16 @@
           "show": "这病说来话长",
           "title": "VOL.182“我到底得了什么病？” ft.「高贵FM」&大盆",
           "url": "/wiki/sources/vol-182-wo-daodi-dele-shenme-bing-ft-gaoguifm-dapen-lu5f5re7geonfv31isle2b6zqfcz/"
+        },
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-21",
       "url": "/wiki/entities/dapenpodcastguest/"
     },
     "DapengDebade": {
@@ -70336,9 +70343,9 @@
       "url": "/wiki/concepts/diagnosticsafetynetting/"
     },
     "DiagnosticUltrasoundModalitySelection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf [lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf].md",
@@ -70346,9 +70353,16 @@
           "show": "这病说来话长",
           "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
           "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
+        },
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/diagnosticultrasoundmodalityselection/"
     },
     "DialectConstrainedSongwriting": {
@@ -113121,6 +113135,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/goujian/"
     },
+    "GoutUrateLongTermManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/gouturatelongtermmanagement/"
+    },
     "GovernanceCapacityLegitimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -134203,9 +134233,9 @@
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
     },
     "HypertensionDiagnosisAndTargets": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
@@ -134220,9 +134250,16 @@
           "show": "这病说来话长",
           "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
           "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
+        },
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/hypertensiondiagnosisandtargets/"
     },
     "HypertensionLongTermManagement": {
@@ -178448,9 +178485,9 @@
       "url": "/wiki/entities/magnacarta/"
     },
     "MagneticResonanceSafetyAndAppropriateness": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
@@ -178472,9 +178509,16 @@
           "show": "这病说来话长",
           "title": "VOL.01影像科｜医学影像科里“辐射”出来的那些事儿",
           "url": "/wiki/sources/vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u/"
+        },
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/magneticresonancesafetyandappropriateness/"
     },
     "MagnusTheGood": {
@@ -218933,6 +218977,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/polynesiannavigation/"
     },
+    "PolypharmacyMedicationReview": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/polypharmacymedicationreview/"
+    },
     "Polyphemus": {
       "episode_count": 1,
       "show_count": 1,
@@ -246416,9 +246476,9 @@
       "url": "/wiki/entities/secondmexicanempire/"
     },
     "SecondOpinionStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -246426,9 +246486,16 @@
           "show": "这病说来话长",
           "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
           "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        },
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SecondOpiumWar": {
@@ -253102,6 +253169,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/sikuquanshu/"
+    },
+    "SilentChronicDiseaseRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy [lnndb6nhzfM4xvTW2Eg9Rvb6ZkTy].md",
+          "key": "vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty",
+          "show": "这病说来话长",
+          "title": "VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑",
+          "url": "/wiki/sources/vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/silentchronicdiseaserisk/"
     },
     "SilentLiverDamageDetection": {
       "episode_count": 2,

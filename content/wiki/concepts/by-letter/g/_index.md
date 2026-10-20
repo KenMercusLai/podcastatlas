@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10681
+wiki_total_pages: 10684
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "GottmanMethod"
     title: "Gottman Method / 哥特曼方法"
     url: "/wiki/concepts/gottmanmethod/"
+  - key: "GoutUrateLongTermManagement"
+    title: "Gout and Urate Long-Term Management / 痛风与尿酸长期管理"
+    url: "/wiki/concepts/gouturatelongtermmanagement/"
   - key: "GovernanceNormalizationParadox"
     title: "Governance Normalization Paradox / 治理规范化悖论"
     url: "/wiki/concepts/governancenormalizationparadox/"

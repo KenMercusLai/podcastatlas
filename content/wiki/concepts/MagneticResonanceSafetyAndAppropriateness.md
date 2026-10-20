@@ -6,7 +6,8 @@ sources:
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
   - vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u
-last_updated: 2026-09-30
+  - vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty
+last_updated: 2026-10-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ VOL.100 makes the external-object branch concrete. Coins, hairpins, badges, iden
 
 VOL.01 adds the mechanism distinction: MRI does not use ionizing radiation, but that does not make the scanner environment risk-free. The persistent magnetic field, radiofrequency heating, ferromagnetic projectile risk, implant artifacts, and the exceptional cost and complexity of shutting down or recovering a superconducting system require strict room-entry control even when no X-ray dose is involved.
 
+VOL.224 adds the patient-experience layer. Hearing protection and an alarm device support communication during a long, noisy scan; stopping an acquisition sequence is different from switching off the main magnet; and dental materials or implants may be safe enough to scan while still creating artifacts. It also reinforces that MRI is not universally the “clearest” test: air-filled anatomy and region-specific protocols mean that moving the body or buying a more expensive modality does not automatically answer a different clinical question.
+
 ## Key Claims
 - MRI-room safety requires exact identification of devices, implants, pumps, metal-containing parts, and detachable components; absence of ionizing radiation does not remove magnetic, heating, device-interaction, or emergency-response hazards.
 - Some implants are conditionally compatible only under specified field strength, programming, positioning, or component-removal rules.
@@ -31,7 +34,7 @@ VOL.01 adds the mechanism distinction: MRI does not use ionizing radiation, but 
 - A tube or drain may be compatible while its spring, pump, or attached hardware is not, so the complete assembly matters.
 - Extending a scan to another anatomical region should follow symptoms, examination, and diagnostic value rather than convenience alone.
 - Pediatric inability to remain still can make sedation part of the imaging pathway, but the choice of drug and setting remains institution- and patient-specific.
-- External and removable objects require active screening because small ferromagnetic items can become projectiles or remain hidden near scanner components.
+- External and removable objects require active screening because small ferromagnetic items can become projectiles or remain hidden near scanner components; hearing protection and a reliable patient-to-operator alert path are practical parts of tolerating and safely completing the examination.
 
 ## Evidence
 - Room-entry screening: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] contrasts prohibited phones and battery-containing pain pumps with objects or patients that may enter under defined conditions.
@@ -42,13 +45,15 @@ VOL.01 adds the mechanism distinction: MRI does not use ionizing radiation, but 
 - External-object screening: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] gives examples involving coins, hairpins, badges, identity cards, removable dentures, and prosthetic limbs, including objects later found around scanner hardware.
 - Mechanism and persistent-field risk: [[vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u|VOL.01]] distinguishes MRI's magnetic and radiofrequency mechanism from ionizing radiation and uses a wheelchair projectile example to explain strict ferromagnetic-object control.
 - Implant and artifact caution: [[vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u|VOL.01]] notes that some implants may be usable under conditions while still degrading the image, reinforcing exact-device rather than category-level clearance.
+- Patient communication and modality limits: [[vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty|VOL.224]] describes hearing protection, an alarm ball, sequence interruption, dental artifact, region-specific protocols, and MRI's limitations for some air-filled anatomy.
 
 ## Counterevidence & Qualifications
-The sources provide public examples, not a current compatibility database or imaging guideline. Device labeling, magnet strength, software or programming, implant age, pregnancy context, sedation capability, local policy, and the clinical indication can all change the decision. The VOL.01 statements about stents, heating, liquid helium, quench recovery cost, and physically removing a trapped object are source-scoped and must not be used as operational instructions. Patients and staff should not use a category-level statement about “ear implants,” “pacemakers,” “pumps,” stents, pregnancy, or metal to self-clear an MRI.
+The sources provide public examples, not a current compatibility database or imaging guideline. Device labeling, magnet strength, software or programming, implant age, dental material, pregnancy context, sedation capability, local policy, and the clinical indication can all change the decision. Statements about stents, heating, liquid helium, quench recovery, sequence interruption, artifacts, or physically removing a trapped object are source-scoped and must not be used as operational instructions. Patients and staff should not use a category-level statement about “ear implants,” “pacemakers,” “pumps,” stents, pregnancy, dental work, or metal to self-clear an MRI.
 
 ## What Changed
 - Clarified why absence of ionizing radiation does not remove magnetic, heating, device, artifact, or emergency-response hazards.
 - Added persistent-field and superconducting-system context to the room-entry safety model.
+- Added hearing protection, patient alerting, sequence-versus-magnet distinction, dental artifact, and region-specific modality limits.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - determines whether the scan and anatomical scope answer the clinical question.

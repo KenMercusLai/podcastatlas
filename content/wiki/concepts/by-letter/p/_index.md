@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10681
+wiki_total_pages: 10684
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "PolynesianNavigation"
     title: "Polynesian Navigation"
     url: "/wiki/concepts/polynesiannavigation/"
+  - key: "PolypharmacyMedicationReview"
+    title: "Polypharmacy Medication Review / 多重用药审查"
+    url: "/wiki/concepts/polypharmacymedicationreview/"
   - key: "PompeiiArchaeologicalPalimpsest"
     title: "Pompeii as an Archaeological Palimpsest"
     url: "/wiki/concepts/pompeiiarchaeologicalpalimpsest/"

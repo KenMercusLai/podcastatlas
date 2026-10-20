@@ -37361,3 +37361,11 @@ Added source `185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kais
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | VOL.224脱口秀演员大盆的健康局：没感觉的病才最危险！带你绕开看病路上的隐形坑
+
+Added source `vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-cai-zui-weixian-dai-ni-raokai-kanbing-lushang-de-yinxingkeng-lnndb6nhzfm4xvtw2eg9rvb6zkty`; created [[SilentChronicDiseaseRisk|无症状慢病风险]], [[GoutUrateLongTermManagement|痛风与尿酸长期管理]], and [[PolypharmacyMedicationReview|多重用药审查]]; and resynthesized [[DapenPodcastGuest|大盆]], [[HypertensionDiagnosisAndTargets|高血压诊断与个体化目标]], [[SecondOpinionStrategy|第二意见策略]], [[MagneticResonanceSafetyAndAppropriateness|磁共振安全与适应证]], and [[DiagnosticUltrasoundModalitySelection|诊断超声方式选择]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: pain and cumulative danger are different orderings; resolved symptoms do not erase prior abnormal measurements; multi-drug safety begins with complete disclosure and formulation-specific review rather than improvised spacing; record- and image-based second opinions can reduce uncertainty when access and commercial incentives are mixed; and imaging choice depends on anatomy, protocol, safety, acquisition, and clinical question rather than price or a universal clarity ranking. No settled contradiction was adopted. The guest's diagnoses, values, targets, drug regimen, dietary response, endoscopy findings, provider quality, and imaging experiences remain personal or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,681 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
