@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3580
+topic_total_pages: 3581
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2863,6 +2863,9 @@ topic_concepts:
   - key: "InsuranceTechnologyModernization"
     title: "Insurance Technology Modernization"
     url: "/wiki/concepts/insurancetechnologymodernization/"
+  - key: "IntegratedPlaceBasedModernization"
+    title: "Integrated Place-Based Modernization / 地方整合型现代化"
+    url: "/wiki/concepts/integratedplacebasedmodernization/"
   - key: "IntelligenceDevaluation"
     title: "Intelligence Devaluation"
     url: "/wiki/concepts/intelligencedevaluation/"

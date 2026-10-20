@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10672
+wiki_total_pages: 10675
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2489,6 +2489,9 @@ wiki_pages:
   - key: "AppliedResearchTranslation"
     title: "Applied Research Translation"
     url: "/wiki/concepts/appliedresearchtranslation/"
+  - key: "AppliedScienceForRegionalDevelopment"
+    title: "Applied Science for Regional Development / 面向区域发展的应用科学"
+    url: "/wiki/concepts/appliedscienceforregionaldevelopment/"
   - key: "AppointedGuardianshipAgingPlanning"
     title: "Appointed Guardianship Aging Planning / 意定监护养老规划"
     url: "/wiki/concepts/appointedguardianshipagingplanning/"

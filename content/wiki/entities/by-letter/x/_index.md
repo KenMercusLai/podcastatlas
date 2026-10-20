@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13607
+wiki_total_pages: 13612
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "XiaolongnuJinYong"
     title: "小龙女（金庸小说） / Xiaolongnü (Jin Yong)"
     url: "/wiki/entities/xiaolongnujinyong/"
+  - key: "XiangfangBureau"
+    title: "峡防局 / Xiangfang Bureau"
+    url: "/wiki/entities/xiangfangbureau/"
   - key: "XuLeWesternHan"
     title: "徐乐 / Xu Le (Western Han)"
     url: "/wiki/entities/xulewesternhan/"

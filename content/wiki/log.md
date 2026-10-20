@@ -37329,3 +37329,11 @@ Added source `qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-x
 ## [2026-10-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-20] ingest | 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+
+Added source `509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj`; created [[LuZuofu|卢作孚]], [[BeibeiDistrict|重庆北碚]], [[HuNanxian|胡南仙]], [[XiangfangBureau|峡防局]], [[ChineseWesternAcademyOfSciences|中国西部科学院]], [[LocalSelfOrganizationToPublicInstitution]], [[IntegratedPlaceBasedModernization]], and [[AppliedScienceForRegionalDevelopment]]. Core synthesis: Beibei's experiment repurposed inherited local defense organization into standing public capacity, then joined security, fiscal continuity, employment, coal, rail, river shipping, education, public space, and applied research; wartime academic migration built on this prewar base rather than creating it from nothing. No settled contradiction was adopted. Tax burden, labor conditions, coercive authority, temple-property conflict, environmental effects, distribution, scientific output, comparative representativeness, and the claimed continuity across later southwest development phases remain underexamined or source-scoped. Broad [[HuzuoHuyou|忽左忽右]], [[Sichuan|四川]], and general local-policy pages were kept closed because focused pages capture the durable additions without reopening larger or unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,677 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

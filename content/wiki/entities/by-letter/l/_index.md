@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13607
+wiki_total_pages: 13612
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "LouAndreasSalome"
     title: "卢·安德烈亚斯-莎乐美 / Lou Andreas-Salomé"
     url: "/wiki/entities/louandreassalome/"
+  - key: "LuZuofu"
+    title: "卢作孚 / Lu Zuofu"
+    url: "/wiki/entities/luzuofu/"
   - key: "LuZhiLateHan"
     title: "卢植 / Lu Zhi (late Han)"
     url: "/wiki/entities/luzhilatehan/"

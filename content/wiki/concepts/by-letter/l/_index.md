@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10672
+wiki_total_pages: 10675
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "LocalPsychedelicDecriminalization"
     title: "Local Psychedelic Decriminalization"
     url: "/wiki/concepts/localpsychedelicdecriminalization/"
+  - key: "LocalSelfOrganizationToPublicInstitution"
+    title: "Local Self-Organization to Public Institution / 地方自组织的公共机构转化"
+    url: "/wiki/concepts/localselforganizationtopublicinstitution/"
   - key: "LocalServicesO2O"
     title: "Local Services O2O"
     url: "/wiki/concepts/localserviceso2o/"

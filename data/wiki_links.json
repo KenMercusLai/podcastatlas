@@ -3607,6 +3607,10 @@
     "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
     "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
   },
+  "509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj": {
+    "title": "509 通往战时陪都之路：卢作孚建设重庆北碚往事",
+    "url": "/wiki/sources/509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj/"
+  },
   "51-aztecs-glt9590586130": {
     "title": "51. Aztecs",
     "url": "/wiki/sources/51-aztecs-glt9590586130/"
@@ -10827,6 +10831,10 @@
     "title": "Applied Research Translation",
     "url": "/wiki/concepts/appliedresearchtranslation/"
   },
+  "AppliedScienceForRegionalDevelopment": {
+    "title": "Applied Science for Regional Development / 面向区域发展的应用科学",
+    "url": "/wiki/concepts/appliedscienceforregionaldevelopment/"
+  },
   "AppointedGovernorSecessionRisk": {
     "title": "受任地方长官割据风险 / Appointed Governor Secession Risk",
     "url": "/wiki/concepts/appointedgovernorsecessionrisk/"
@@ -13554,6 +13562,10 @@
   "Beibei": {
     "title": "贝贝网 / Beibei",
     "url": "/wiki/entities/beibei/"
+  },
+  "BeibeiDistrict": {
+    "title": "重庆北碚 / Beibei District",
+    "url": "/wiki/entities/beibeidistrict/"
   },
   "BeidiCommandery": {
     "title": "北地郡 / Beidi Commandery",
@@ -19930,6 +19942,10 @@
   "ChineseWebFictionMethodology": {
     "title": "Chinese Web Fiction Methodology / 中国网文方法论",
     "url": "/wiki/concepts/chinesewebfictionmethodology/"
+  },
+  "ChineseWesternAcademyOfSciences": {
+    "title": "中国西部科学院 / Chinese Western Academy of Sciences",
+    "url": "/wiki/entities/chinesewesternacademyofsciences/"
   },
   "ChineseWesternMedicineCollaborationBoundary": {
     "title": "Chinese-Western Medicine Collaboration Boundary / 中西医协作边界",
@@ -43467,6 +43483,10 @@
     "title": "胡兰 / Hu Lan (late Han)",
     "url": "/wiki/entities/hulanlatehan/"
   },
+  "HuNanxian": {
+    "title": "胡南仙 / Hu Nanxian",
+    "url": "/wiki/entities/hunanxian/"
+  },
   "HuSanxing": {
     "title": "胡三省 / Hu Sanxing",
     "url": "/wiki/entities/husanxing/"
@@ -46010,6 +46030,10 @@
   "IntegratedMilitarySituationAssessment": {
     "title": "综合军情判断 / Integrated Military Situation Assessment",
     "url": "/wiki/concepts/integratedmilitarysituationassessment/"
+  },
+  "IntegratedPlaceBasedModernization": {
+    "title": "Integrated Place-Based Modernization / 地方整合型现代化",
+    "url": "/wiki/concepts/integratedplacebasedmodernization/"
   },
   "IntegratedZone2Movement": {
     "title": "Integrated Zone 2 Movement",
@@ -55499,6 +55523,10 @@
     "title": "Local Psychedelic Decriminalization",
     "url": "/wiki/concepts/localpsychedelicdecriminalization/"
   },
+  "LocalSelfOrganizationToPublicInstitution": {
+    "title": "Local Self-Organization to Public Institution / 地方自组织的公共机构转化",
+    "url": "/wiki/concepts/localselforganizationtopublicinstitution/"
+  },
   "LocalServicesO2O": {
     "title": "Local Services O2O",
     "url": "/wiki/concepts/localserviceso2o/"
@@ -56542,6 +56570,10 @@
   "LuZiheng": {
     "title": "Lu Ziheng",
     "url": "/wiki/entities/luziheng/"
+  },
+  "LuZuofu": {
+    "title": "卢作孚 / Lu Zuofu",
+    "url": "/wiki/entities/luzuofu/"
   },
   "LuanBu": {
     "title": "栾布 / Luan Bu",
@@ -96118,6 +96150,10 @@
   "XiangchengQin": {
     "title": "襄城 / Xiangcheng (Qin)",
     "url": "/wiki/entities/xiangchengqin/"
+  },
+  "XiangfangBureau": {
+    "title": "峡防局 / Xiangfang Bureau",
+    "url": "/wiki/entities/xiangfangbureau/"
   },
   "Xiangling": {
     "title": "香菱 / Xiangling",

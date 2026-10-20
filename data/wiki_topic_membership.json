@@ -6115,6 +6115,18 @@
       "url": "/topics/history/"
     }
   ],
+  "509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320": [
     {
       "key": "technology",
@@ -16111,6 +16123,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AppliedScienceForRegionalDevelopment": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AppointedGovernorSecessionRisk": [
     {
       "key": "history",
@@ -18502,6 +18521,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "BeibeiDistrict": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "BeidiCommandery": [
@@ -24044,6 +24070,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ChineseWesternAcademyOfSciences": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ChineseWineIndustryDevelopment": [
@@ -49225,6 +49258,23 @@
       "url": "/topics/technology/"
     }
   ],
+  "IntegratedPlaceBasedModernization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "IntegrityAsInnerCoherence": [
     {
       "key": "science",
@@ -57834,6 +57884,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LuZuofu": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LuanBu": [

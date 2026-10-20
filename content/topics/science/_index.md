@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1588
+topic_total_pages: 1591
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -169,6 +169,9 @@ topic_concepts:
   - key: "AppliedAstrobiology"
     title: "Applied Astrobiology"
     url: "/wiki/concepts/appliedastrobiology/"
+  - key: "AppliedScienceForRegionalDevelopment"
+    title: "Applied Science for Regional Development / 面向区域发展的应用科学"
+    url: "/wiki/concepts/appliedscienceforregionaldevelopment/"
   - key: "ArousalCircuitSpecificity"
     title: "Arousal Circuit Specificity"
     url: "/wiki/concepts/arousalcircuitspecificity/"
@@ -3683,6 +3686,9 @@ topic_entities:
   - key: "ChinaSpallationNeutronSource"
     title: "中国散裂中子源 / China Spallation Neutron Source"
     url: "/wiki/entities/chinaspallationneutronsource/"
+  - key: "ChineseWesternAcademyOfSciences"
+    title: "中国西部科学院 / Chinese Western Academy of Sciences"
+    url: "/wiki/entities/chinesewesternacademyofsciences/"
   - key: "LiuBinyan"
     title: "刘彬晏 / Liu Binyan"
     url: "/wiki/entities/liubinyan/"
@@ -3864,6 +3870,9 @@ topic_sources:
   - key: "483-the-mysterious-case-of-the-ape-man-glt8701811415"
     title: "483. The Mysterious Case of the Ape Man"
     url: "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+  - key: "509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj"
+    title: "509 通往战时陪都之路：卢作孚建设重庆北碚往事"
+    url: "/wiki/sources/509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj/"
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"

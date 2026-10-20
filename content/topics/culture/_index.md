@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3544
+topic_total_pages: 3547
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1849,6 +1849,9 @@ topic_concepts:
   - key: "InstitutionalizedSmallFreedom"
     title: "Institutionalized Small Freedom"
     url: "/wiki/concepts/institutionalizedsmallfreedom/"
+  - key: "IntegratedPlaceBasedModernization"
+    title: "Integrated Place-Based Modernization / 地方整合型现代化"
+    url: "/wiki/concepts/integratedplacebasedmodernization/"
   - key: "IntelligenceDevaluation"
     title: "Intelligence Devaluation"
     url: "/wiki/concepts/intelligencedevaluation/"
@@ -8084,6 +8087,9 @@ topic_entities:
   - key: "BowuzhiPodcast"
     title: "博物志 / Bowuzhi Podcast"
     url: "/wiki/entities/bowuzhipodcast/"
+  - key: "LuZuofu"
+    title: "卢作孚 / Lu Zuofu"
+    url: "/wiki/entities/luzuofu/"
   - key: "QuXianchang"
     title: "去现场 / Qu Xianchang"
     url: "/wiki/entities/quxianchang/"
@@ -8933,6 +8939,9 @@ topic_entities:
   - key: "ShaoYang"
     title: "邵阳 / Shao Yang"
     url: "/wiki/entities/shaoyang/"
+  - key: "BeibeiDistrict"
+    title: "重庆北碚 / Beibei District"
+    url: "/wiki/entities/beibeidistrict/"
   - key: "Jinzi"
     title: "金子 / Jinzi"
     url: "/wiki/entities/jinzi/"

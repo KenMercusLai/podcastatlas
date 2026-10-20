@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13607
+wiki_total_pages: 13612
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1745,6 +1745,9 @@ wiki_pages:
   - key: "BrushUpLife"
     title: "重启人生 / Brush Up Life"
     url: "/wiki/entities/brushuplife/"
+  - key: "BeibeiDistrict"
+    title: "重庆北碚 / Beibei District"
+    url: "/wiki/entities/beibeidistrict/"
   - key: "Bashang"
     title: "霸上 / Bashang"
     url: "/wiki/entities/bashang/"

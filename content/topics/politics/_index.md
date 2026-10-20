@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3351
+topic_total_pages: 3352
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2230,6 +2230,9 @@ topic_concepts:
   - key: "InsuranceModelRegulatoryConstraint"
     title: "Insurance Model Regulatory Constraint"
     url: "/wiki/concepts/insurancemodelregulatoryconstraint/"
+  - key: "IntegratedPlaceBasedModernization"
+    title: "Integrated Place-Based Modernization / 地方整合型现代化"
+    url: "/wiki/concepts/integratedplacebasedmodernization/"
   - key: "IntellectualResponsibilityUnderAuthoritarianism"
     title: "Intellectual Responsibility Under Authoritarianism"
     url: "/wiki/concepts/intellectualresponsibilityunderauthoritarianism/"

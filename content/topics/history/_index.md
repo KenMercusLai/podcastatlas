@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2764
+topic_total_pages: 2765
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6528,6 +6528,9 @@ topic_sources:
   - key: "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097"
     title: "508. America in '68: Nightmare in Vietnam (Part 1)"
     url: "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
+  - key: "509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj"
+    title: "509 通往战时陪都之路：卢作孚建设重庆北碚往事"
+    url: "/wiki/sources/509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj/"
   - key: "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265"
     title: "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)"
     url: "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
