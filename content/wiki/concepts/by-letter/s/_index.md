@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10678
+wiki_total_pages: 10681
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1610,6 +1610,9 @@ wiki_pages:
   - key: "SpecializedBuffetFormat"
     title: "Specialized Buffet Format / 细分自助餐"
     url: "/wiki/concepts/specializedbuffetformat/"
+  - key: "SpecializedETFAttentionCycle"
+    title: "Specialized ETF Attention Cycle / 专业化ETF注意力周期"
+    url: "/wiki/concepts/specializedetfattentioncycle/"
   - key: "SpecializedHardwareVerticalIntegration"
     title: "Specialized Hardware Vertical Integration"
     url: "/wiki/concepts/specializedhardwareverticalintegration/"

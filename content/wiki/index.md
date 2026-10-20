@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [185.复制市场，制造市场，成为市场：当 ETF 开始接管世界](sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty.md) — 起朱楼宴宾客从ETF机制与历史出发，区分宽基配置和专业化产品，并讨论主题发行时点、指数规则冲击、非弹性资金流与被动持有的治理集中。
 - [How easy is it to game AI search results?](sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128.md) — Marketplace Tech interview with Shi Young-hoo on text and image attacks against AI-search ranking, cross-model transfer, fraud risk, compressed answer choices, and source-based verification.
 - [509 通往战时陪都之路：卢作孚建设重庆北碚往事](sources/509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj.md) — 以卢作孚和峡防局为中心，解释北碚如何整合治安、就业、煤矿、铁路、航运、教育与应用科学，并成为战时科教机构迁入的基础。
 - [千余家影院直播体育赛事，上半年国内金饰消费量下跌三成](sources/qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx.md) — 声动早咖啡串联影院体育直播、AI购物、智能体异常浏览、金饰轻量化、钻石上游收购、马拉松消费、芯片独立融资、汽车本地组装与汇源品牌切割。
@@ -18466,6 +18467,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Laurent Nuñez](entities/LaurentNunez.md) — French interior minister who acknowledged loss of police control and offered to resign during the unrest.
 
 ## Concepts
+- [Specialized ETF Attention Cycle / 专业化ETF注意力周期](concepts/SpecializedETFAttentionCycle.md) — 主题热度、产品发行激励、指数方法与估值共同决定专业化ETF是否把一个产业故事转化为迟到且昂贵的暴露。
+- [Index Rule Market Impact / 指数规则市场影响](concepts/IndexRuleMarketImpact.md) — 当跟踪资金相对成分股流动性足够大时，指数纳入、权重、上限与调仓规则会从市场描述转为价格形成力量。
+- [Inelastic Market Flow Risk / 非弹性市场资金流风险](concepts/InelasticMarketFlowRisk.md) — 规则型资金的价格冲击取决于对手盘弹性，并随流动性、集中度、杠杆和赎回状态变化。
 - [AI Search Ranking Manipulation](concepts/AISearchRankingManipulation.md) — Deliberate use of crafted text, images, or source placement to distort what LLM-based retrieval and answer systems promote or suppress.
 - [Local Self-Organization to Public Institution / 地方自组织的公共机构转化](concepts/LocalSelfOrganizationToPublicInstitution.md) — 将临时或传统地方组织转化为拥有稳定财政、继任与公共职能的常设机构。
 - [Integrated Place-Based Modernization / 地方整合型现代化](concepts/IntegratedPlaceBasedModernization.md) — 围绕特定区域协调治安、生计、基础设施、产业、教育、科研和公共空间的发展方式。

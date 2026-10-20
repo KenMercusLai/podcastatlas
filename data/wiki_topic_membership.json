@@ -2629,6 +2629,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368": [
     {
       "key": "science",
@@ -48486,6 +48493,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "IndexRuleMarketImpact": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "India": [
     {
       "key": "politics",
@@ -48670,6 +48684,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "InelasticMarketFlowRisk": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "InesButemacha": [
@@ -83228,6 +83249,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SpecializedETFAttentionCycle": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "SpecializedHardwareVerticalIntegration": [

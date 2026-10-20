@@ -37353,3 +37353,11 @@ Added source `disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de
 ## [2026-10-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | 185.复制市场，制造市场，成为市场：当 ETF 开始接管世界
+
+Added source `185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty`; created [[SpecializedETFAttentionCycle|专业化ETF注意力周期]], [[IndexRuleMarketImpact|指数规则市场影响]], and [[InelasticMarketFlowRisk|非弹性市场资金流风险]]; and resynthesized [[ExchangeTradedFund|ETF]], [[ETFConsensusFeedback|ETF共识反馈]], and [[PassiveInvestingGovernance|被动投资治理]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: ETF is a neutral and highly extensible wrapper whose benefits and risks depend on underlying exposure, methodology, jurisdiction, and horizon; specialized products can monetize attention after valuations rise; sufficiently large index funds and anticipated rule changes can influence the markets they measure; and passive scale combines possible stabilizing effects with liquidity-, leverage-, and concentration-dependent amplification plus concentrated stewardship authority. No settled contradiction was adopted. Market-size, passive-share, tax-efficiency, specialized-return, price-impact, GDXJ-limit, and future-crisis claims remain source-scoped because the supplied summary does not reproduce complete datasets or methods. Broad legacy ETF-mechanism, tax, leverage, and asset-manager pages were kept closed where the new source did not change their current judgment or reopening would require larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,680 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

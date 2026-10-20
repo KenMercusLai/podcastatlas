@@ -1587,6 +1587,10 @@
     "title": "185. Agatha Christie",
     "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
   },
+  "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty": {
+    "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+    "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
+  },
   "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368": {
     "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
     "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
@@ -45331,6 +45335,10 @@
     "title": "Index Reentry Discipline",
     "url": "/wiki/concepts/indexreentrydiscipline/"
   },
+  "IndexRuleMarketImpact": {
+    "title": "Index Rule Market Impact / 指数规则市场影响",
+    "url": "/wiki/concepts/indexrulemarketimpact/"
+  },
   "India": {
     "title": "India",
     "url": "/wiki/entities/india/"
@@ -45506,6 +45514,10 @@
   "IndyJohar": {
     "title": "Indy Johar",
     "url": "/wiki/entities/indyjohar/"
+  },
+  "InelasticMarketFlowRisk": {
+    "title": "Inelastic Market Flow Risk / 非弹性市场资金流风险",
+    "url": "/wiki/concepts/inelasticmarketflowrisk/"
   },
   "InesButemacha": {
     "title": "Ines Butemacha",
@@ -82942,6 +82954,10 @@
   "SpecializedBuffetFormat": {
     "title": "Specialized Buffet Format / 细分自助餐",
     "url": "/wiki/concepts/specializedbuffetformat/"
+  },
+  "SpecializedETFAttentionCycle": {
+    "title": "Specialized ETF Attention Cycle / 专业化ETF注意力周期",
+    "url": "/wiki/concepts/specializedetfattentioncycle/"
   },
   "SpecializedHardwareVerticalIntegration": {
     "title": "Specialized Hardware Vertical Integration",

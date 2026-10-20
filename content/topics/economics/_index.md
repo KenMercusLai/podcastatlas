@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2291
+topic_total_pages: 2295
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1723,6 +1723,9 @@ topic_concepts:
   - key: "IndexReentryDiscipline"
     title: "Index Reentry Discipline"
     url: "/wiki/concepts/indexreentrydiscipline/"
+  - key: "IndexRuleMarketImpact"
+    title: "Index Rule Market Impact / 指数规则市场影响"
+    url: "/wiki/concepts/indexrulemarketimpact/"
   - key: "IndianCheeseMarketAdaptation"
     title: "Indian Cheese Market Adaptation"
     url: "/wiki/concepts/indiancheesemarketadaptation/"
@@ -1732,6 +1735,9 @@ topic_concepts:
   - key: "IndustryToFinanceCareerPath"
     title: "Industry-To-Finance Career Path / 产业转金融职业路径"
     url: "/wiki/concepts/industrytofinancecareerpath/"
+  - key: "InelasticMarketFlowRisk"
+    title: "Inelastic Market Flow Risk / 非弹性市场资金流风险"
+    url: "/wiki/concepts/inelasticmarketflowrisk/"
   - key: "InferenceAsCashFlow"
     title: "Inference as Cash Flow"
     url: "/wiki/concepts/inferenceascashflow/"
@@ -2893,6 +2899,9 @@ topic_concepts:
   - key: "SpanishImperialMonopolyVulnerability"
     title: "Spanish Imperial Monopoly Vulnerability"
     url: "/wiki/concepts/spanishimperialmonopolyvulnerability/"
+  - key: "SpecializedETFAttentionCycle"
+    title: "Specialized ETF Attention Cycle / 专业化ETF注意力周期"
+    url: "/wiki/concepts/specializedetfattentioncycle/"
   - key: "SpeculativeBubblePsychology"
     title: "Speculative Bubble Psychology"
     url: "/wiki/concepts/speculativebubblepsychology/"
@@ -6051,6 +6060,9 @@ topic_sources:
   - key: "184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898"
     title: "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？"
     url: "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
+  - key: "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty"
+    title: "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界"
+    url: "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

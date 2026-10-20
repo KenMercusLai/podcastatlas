@@ -77802,9 +77802,9 @@
       "url": "/wiki/concepts/emdrmechanismboundary/"
     },
     "ETFConsensusFeedback": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
@@ -77812,9 +77812,16 @@
           "show": "面基",
           "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
           "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        },
+        {
+          "episode_file": "lgzTiKMynJ2_j-PQfkJ__hmdkrTY [lgzTiKMynJ2_j-PQfkJ__hmdkrTY].md",
+          "key": "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty",
+          "show": "起朱楼宴宾客",
+          "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+          "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/etfconsensusfeedback/"
     },
     "ETFHoldingHorizonClassification": {
@@ -90059,9 +90066,9 @@
       "url": "/wiki/concepts/exceptiondependentmilitarycommand/"
     },
     "ExchangeTradedFund": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Vol.266 一次性搞懂ETF [1002344828].md",
@@ -90083,9 +90090,16 @@
           "show": "面基",
           "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
           "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        },
+        {
+          "episode_file": "lgzTiKMynJ2_j-PQfkJ__hmdkrTY [lgzTiKMynJ2_j-PQfkJ__hmdkrTY].md",
+          "key": "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty",
+          "show": "起朱楼宴宾客",
+          "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+          "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/exchangetradedfund/"
     },
     "ExecutionDetailAttitudeAttribution": {
@@ -137712,6 +137726,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/independentretaildiscovery/"
     },
+    "IndexRuleMarketImpact": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgzTiKMynJ2_j-PQfkJ__hmdkrTY [lgzTiKMynJ2_j-PQfkJ__hmdkrTY].md",
+          "key": "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty",
+          "show": "起朱楼宴宾客",
+          "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+          "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/indexrulemarketimpact/"
+    },
     "India": {
       "episode_count": 9,
       "show_count": 3,
@@ -138267,6 +138297,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/industrialrevolution/"
+    },
+    "InelasticMarketFlowRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgzTiKMynJ2_j-PQfkJ__hmdkrTY [lgzTiKMynJ2_j-PQfkJ__hmdkrTY].md",
+          "key": "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty",
+          "show": "起朱楼宴宾客",
+          "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+          "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/inelasticmarketflowrisk/"
     },
     "InesButemacha": {
       "episode_count": 1,
@@ -210958,9 +211004,9 @@
       "url": "/wiki/concepts/passiontrapcareeradvice/"
     },
     "PassiveInvestingGovernance": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vanguard ｜ Acquired (1) [vanguard-1].md",
@@ -210975,9 +211021,16 @@
           "show": "面基",
           "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
           "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        },
+        {
+          "episode_file": "lgzTiKMynJ2_j-PQfkJ__hmdkrTY [lgzTiKMynJ2_j-PQfkJ__hmdkrTY].md",
+          "key": "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty",
+          "show": "起朱楼宴宾客",
+          "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+          "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/passiveinvestinggovernance/"
     },
     "PassiveRadiativeCoolingCoatings": {
@@ -259024,6 +259077,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/specialistdelegationleadership/"
+    },
+    "SpecializedETFAttentionCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgzTiKMynJ2_j-PQfkJ__hmdkrTY [lgzTiKMynJ2_j-PQfkJ__hmdkrTY].md",
+          "key": "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty",
+          "show": "起朱楼宴宾客",
+          "title": "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界",
+          "url": "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/specializedetfattentioncycle/"
     },
     "SpecialtyRetailLogistics": {
       "episode_count": 1,

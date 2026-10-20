@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10678
+wiki_total_pages: 10681
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "IndexReentryDiscipline"
     title: "Index Reentry Discipline"
     url: "/wiki/concepts/indexreentrydiscipline/"
+  - key: "IndexRuleMarketImpact"
+    title: "Index Rule Market Impact / 指数规则市场影响"
+    url: "/wiki/concepts/indexrulemarketimpact/"
   - key: "IndianCheeseMarketAdaptation"
     title: "Indian Cheese Market Adaptation"
     url: "/wiki/concepts/indiancheesemarketadaptation/"
@@ -518,6 +521,9 @@ wiki_pages:
   - key: "IndustryToFinanceCareerPath"
     title: "Industry-To-Finance Career Path / 产业转金融职业路径"
     url: "/wiki/concepts/industrytofinancecareerpath/"
+  - key: "InelasticMarketFlowRisk"
+    title: "Inelastic Market Flow Risk / 非弹性市场资金流风险"
+    url: "/wiki/concepts/inelasticmarketflowrisk/"
   - key: "InfantFormula"
     title: "Infant Formula"
     url: "/wiki/concepts/infantformula/"
