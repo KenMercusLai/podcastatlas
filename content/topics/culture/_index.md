@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3542
+topic_total_pages: 3544
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -703,6 +703,9 @@ topic_concepts:
   - key: "CinemaAsNationalMemory"
     title: "Cinema as National Memory"
     url: "/wiki/concepts/cinemaasnationalmemory/"
+  - key: "CinemaSportsEventBroadcasting"
+    title: "Cinema Sports Event Broadcasting / 影院体育赛事直播"
+    url: "/wiki/concepts/cinemasportseventbroadcasting/"
   - key: "CinematicFolkloreRecombination"
     title: "Cinematic Folklore Recombination / 电影民俗再组合"
     url: "/wiki/concepts/cinematicfolklorerecombination/"
@@ -2113,6 +2116,9 @@ topic_concepts:
   - key: "ManufacturingWorkforcePipeline"
     title: "Manufacturing Workforce Pipeline"
     url: "/wiki/concepts/manufacturingworkforcepipeline/"
+  - key: "MarathonDestinationConsumption"
+    title: "Marathon Destination Consumption / 马拉松目的地消费"
+    url: "/wiki/concepts/marathondestinationconsumption/"
   - key: "MarathonPerformanceEcosystem"
     title: "Marathon Performance Ecosystem"
     url: "/wiki/concepts/marathonperformanceecosystem/"

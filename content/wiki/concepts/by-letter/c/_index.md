@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10663
+wiki_total_pages: 10672
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "CaptiveAnimalCareLabor"
     title: "Captive Animal Care Labor / 圈养动物照护劳动"
     url: "/wiki/concepts/captiveanimalcarelabor/"
+  - key: "CaptiveChipBusinessSpinout"
+    title: "Captive Chip Business Spinout / 自研芯片业务独立融资"
+    url: "/wiki/concepts/captivechipbusinessspinout/"
   - key: "CaptivePrimateSpectacle"
     title: "Captive Primate Spectacle"
     url: "/wiki/concepts/captiveprimatespectacle/"
@@ -1115,6 +1118,9 @@ wiki_pages:
   - key: "CinemaAudienceBehavioralContract"
     title: "Cinema Audience Behavioral Contract"
     url: "/wiki/concepts/cinemaaudiencebehavioralcontract/"
+  - key: "CinemaSportsEventBroadcasting"
+    title: "Cinema Sports Event Broadcasting / 影院体育赛事直播"
+    url: "/wiki/concepts/cinemasportseventbroadcasting/"
   - key: "CinematicFolkloreRecombination"
     title: "Cinematic Folklore Recombination / 电影民俗再组合"
     url: "/wiki/concepts/cinematicfolklorerecombination/"

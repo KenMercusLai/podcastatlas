@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10663
+wiki_total_pages: 10672
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "TradeHubStatecraft"
     title: "Trade-Hub Statecraft / 商贸枢纽型治国"
     url: "/wiki/concepts/tradehubstatecraft/"
+  - key: "TrademarkOperatingResourceSeparation"
+    title: "Trademark and Operating Resource Separation / 商标与经营资源分离"
+    url: "/wiki/concepts/trademarkoperatingresourceseparation/"
   - key: "TrademarkResaleBoundary"
     title: "Trademark Resale Boundary"
     url: "/wiki/concepts/trademarkresaleboundary/"

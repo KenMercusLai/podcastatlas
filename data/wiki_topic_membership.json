@@ -11510,6 +11510,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIShoppingDemandDiscovery": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIShortDrama": [
     {
       "key": "technology",
@@ -13208,6 +13215,13 @@
     }
   ],
   "AgentEraNANDStorage": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AgentGoalDriftDetection": [
     {
       "key": "technology",
       "label": "Technology",
@@ -21848,6 +21862,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CaptiveChipBusinessSpinout": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CaptiveEnvoyMissionPersistence": [
     {
       "key": "politics",
@@ -24513,6 +24534,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "CinemaSportsEventBroadcasting": [
     {
       "key": "culture",
       "label": "Culture",
@@ -58977,6 +59005,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MarathonDestinationConsumption": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "MarathonPerformanceEcosystem": [

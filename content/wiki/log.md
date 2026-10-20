@@ -37321,3 +37321,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-20] ingest | 千余家影院直播体育赛事，上半年国内金饰消费量下跌三成
+
+Added source `qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx`; created [[CinemaSportsEventBroadcasting]], [[AIShoppingDemandDiscovery]], [[AgentGoalDriftDetection]], [[LightweightGoldJewelryAdaptation]], [[UpstreamLuxurySupplyAcquisition]], [[MarathonDestinationConsumption]], [[CaptiveChipBusinessSpinout]], [[LocalVehicleAssemblyTaxStrategy]], [[TrademarkOperatingResourceSeparation]], [[HuiyuanGroup|汇源集团]], and [[ZanjiaGuoyuan|咱家果园]]; and resynthesized [[TencentHunyuan|腾讯混元]], [[LiAuto|理想汽车]], [[BYD]], and [[GoldJewelryValuePerceptionRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: firms under growth pressure can recombine installed assets and operating boundaries, but cinema sports rights, AI shopping intent, agent permissions, lightweight jewelry, upstream acquisition, destination-event spending, external chip scale, partner assembly, and replacement branding each add a new dependency or proof burden. No settled contradiction was adopted. The agent anomaly belongs to evaluated third-party models rather than Tencent's own model; acquisition interest, chip customers, assembly benefits, event spending, market figures, and rebranding outcomes remain reported, prospective, aggregate, or source-scoped. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,676 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

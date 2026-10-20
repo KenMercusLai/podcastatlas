@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10663
+wiki_total_pages: 10672
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "LightTouchFrontierGovernance"
     title: "Light-Touch Frontier Governance / 宽简边疆治理"
     url: "/wiki/concepts/lighttouchfrontiergovernance/"
+  - key: "LightweightGoldJewelryAdaptation"
+    title: "Lightweight Gold Jewelry Adaptation / 黄金首饰轻量化"
+    url: "/wiki/concepts/lightweightgoldjewelryadaptation/"
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"
@@ -722,6 +725,9 @@ wiki_pages:
   - key: "LocalSurveillanceGovernance"
     title: "Local Surveillance Governance"
     url: "/wiki/concepts/localsurveillancegovernance/"
+  - key: "LocalVehicleAssemblyTaxStrategy"
+    title: "Local Vehicle Assembly Tax Strategy / 汽车本地组装税务策略"
+    url: "/wiki/concepts/localvehicleassemblytaxstrategy/"
   - key: "LocalVetoHousingPolitics"
     title: "Local Veto Housing Politics"
     url: "/wiki/concepts/localvetohousingpolitics/"

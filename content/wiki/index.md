@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [千余家影院直播体育赛事，上半年国内金饰消费量下跌三成](sources/qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx.md) — 声动早咖啡串联影院体育直播、AI购物、智能体异常浏览、金饰轻量化、钻石上游收购、马拉松消费、芯片独立融资、汽车本地组装与汇源品牌切割。
 - [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700.md) — 硅谷101以Astra比较个人Agent、机器人和AI制药，指出平台访问、快慢控制、湿实验与临床验证决定模型能力进入现实世界的速度。
 - [Vol.357 永结无情游：实验班的同学们，你们过得怎么样](sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o.md) — 文化有限以周佳宁《永结无情游》连接实验班承诺、成年友谊离散、非线性记忆、科研耗损与不同社会位置对共同过去的重述。
 - [vol.57 对谈李荣浩：该放下就放下 该不要就不要](sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5.md) — 天真不天真对谈李荣浩，以真实经验、编曲与混音的关系判断、减法式聚焦、延迟走红、现场合唱及AI音乐的功能边界连接创作与音乐工业。
@@ -4766,6 +4767,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
 
 ## Entities
+- [Huiyuan Group / 汇源集团](entities/HuiyuanGroup.md) — 在商标纠纷后以生产、产业链和经销网络推动新品牌的饮料经营集团。
+- [Zanjia Guoyuan / 咱家果园](entities/ZanjiaGuoyuan.md) — 汇源集团停止使用汇源商标后重点推广和招商的替代果汁品牌。
 - [周佳宁 / Zhou Jianing](entities/ZhouJianing.md) — 《永结无情游》作者，以跨三十年的实验班友谊、碎片记忆与时代变化进入当前知识库。
 - [《永结无情游》 / Yong Jie Wu Qing You](entities/YongJieWuQingYou.md) — 周佳宁以实验班同学的成年分流、失联友谊与冲突记忆讨论教育承诺和自我重构的小说。
 - [李荣浩 / Li Ronghao](entities/LiRonghao.md) — Singer-songwriter and producer connecting lived credibility, granular production craft, selective focus, delayed reception, live reciprocity, and qualified AI-music judgment.
@@ -18447,6 +18450,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
 
 ## Concepts
+- [Cinema Sports Event Broadcasting / 影院体育赛事直播](concepts/CinemaSportsEventBroadcasting.md) — 影院利用银幕、音响和座席承接授权体育直播以提高非电影时段利用率的模式。
+- [AI Shopping Demand Discovery / AI 购物需求发现](concepts/AIShoppingDemandDiscovery.md) — 用推荐、对话、试穿和商家工具把模糊需求转为可比较商品的电商机制。
+- [Agent Goal Drift Detection / 智能体目标漂移检测](concepts/AgentGoalDriftDetection.md) — 在评估中识别智能体偏离任务、授权范围或预期浏览路径的实践。
+- [Lightweight Gold Jewelry Adaptation / 黄金首饰轻量化](concepts/LightweightGoldJewelryAdaptation.md) — 高金价下用低克重、轻薄形态和设计价值维持预算可达性的产品策略。
+- [Upstream Luxury Supply Acquisition / 奢侈品上游供应收购](concepts/UpstreamLuxurySupplyAcquisition.md) — 奢侈品牌通过投资或财团收购核心材料供应商以增强供应链影响力的策略。
+- [Marathon Destination Consumption / 马拉松目的地消费](concepts/MarathonDestinationConsumption.md) — 异地参赛把跑步装备和报名支出延伸至交通、食宿与城市周末旅行的消费模式。
+- [Captive Chip Business Spinout / 自研芯片业务独立融资](concepts/CaptiveChipBusinessSpinout.md) — 将内部芯片团队分拆融资并拓展外部客户以跨越单一母公司规模约束的模式。
+- [Local Vehicle Assembly Tax Strategy / 汽车本地组装税务策略](concepts/LocalVehicleAssemblyTaxStrategy.md) — 通过本地工厂或合作伙伴组装来获得税务和市场准入优势的汽车本地化策略。
+- [Trademark and Operating Resource Separation / 商标与经营资源分离](concepts/TrademarkOperatingResourceSeparation.md) — 商标知名度与生产、产业链和经销能力分属不同主体时形成的经营困局。
 - [Real-World AI Validation Latency](concepts/RealWorldAIValidationLatency.md) — Gap between fast model output and slower platform, physical, experimental, clinical, and adoption feedback loops.
 - [Educational Selection Promise Gap / 教育选拔承诺落差](concepts/EducationalSelectionPromiseGap.md) — 区分考试筛选与高级教学的真实价值，以及它们无法保证成年成功、适应或幸福的边界。
 - [Relational Music Production / 关系式音乐制作](concepts/RelationalMusicProduction.md) — 以克制、遮蔽、频率、空间和多设备权衡处理乐器与声音之间关系的编曲混音框架。

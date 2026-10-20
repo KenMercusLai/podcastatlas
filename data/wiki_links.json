@@ -6295,6 +6295,10 @@
     "title": "AI Service Export Standard-Setting",
     "url": "/wiki/concepts/aiserviceexportstandardsetting/"
   },
+  "AIShoppingDemandDiscovery": {
+    "title": "AI Shopping Demand Discovery / AI 购物需求发现",
+    "url": "/wiki/concepts/aishoppingdemanddiscovery/"
+  },
   "AIShortDrama": {
     "title": "AI Short Drama",
     "url": "/wiki/concepts/aishortdrama/"
@@ -7886,6 +7890,10 @@
   "AgentFacingInterfaces": {
     "title": "Agent-Facing Interfaces",
     "url": "/wiki/concepts/agentfacinginterfaces/"
+  },
+  "AgentGoalDriftDetection": {
+    "title": "Agent Goal Drift Detection / 智能体目标漂移检测",
+    "url": "/wiki/concepts/agentgoaldriftdetection/"
   },
   "AgentHarness": {
     "title": "Agent Harness",
@@ -17123,6 +17131,10 @@
     "title": "Captive Animal Care Labor / 圈养动物照护劳动",
     "url": "/wiki/concepts/captiveanimalcarelabor/"
   },
+  "CaptiveChipBusinessSpinout": {
+    "title": "Captive Chip Business Spinout / 自研芯片业务独立融资",
+    "url": "/wiki/concepts/captivechipbusinessspinout/"
+  },
   "CaptiveEnvoyMissionPersistence": {
     "title": "被扣使者的使命延续 / Captive Envoy Mission Persistence",
     "url": "/wiki/concepts/captiveenvoymissionpersistence/"
@@ -20474,6 +20486,10 @@
   "CinemaAudienceBehavioralContract": {
     "title": "Cinema Audience Behavioral Contract",
     "url": "/wiki/concepts/cinemaaudiencebehavioralcontract/"
+  },
+  "CinemaSportsEventBroadcasting": {
+    "title": "Cinema Sports Event Broadcasting / 影院体育赛事直播",
+    "url": "/wiki/concepts/cinemasportseventbroadcasting/"
   },
   "CinematicFolkloreRecombination": {
     "title": "Cinematic Folklore Recombination / 电影民俗再组合",
@@ -43927,6 +43943,10 @@
     "title": "慧因高丽寺 / Huiyin Gaoli Temple",
     "url": "/wiki/entities/huiyingaolitemple/"
   },
+  "HuiyuanGroup": {
+    "title": "Huiyuan Group / 汇源集团",
+    "url": "/wiki/entities/huiyuangroup/"
+  },
   "Huizhou": {
     "title": "惠州 / Huizhou",
     "url": "/wiki/entities/huizhou/"
@@ -53971,6 +53991,10 @@
     "title": "Light-Touch Frontier Governance / 宽简边疆治理",
     "url": "/wiki/concepts/lighttouchfrontiergovernance/"
   },
+  "LightweightGoldJewelryAdaptation": {
+    "title": "Lightweight Gold Jewelry Adaptation / 黄金首饰轻量化",
+    "url": "/wiki/concepts/lightweightgoldjewelryadaptation/"
+  },
   "LihuaSpeechTherapist": {
     "title": "梨花医生 / Lihua Speech Therapist",
     "url": "/wiki/entities/lihuaspeechtherapist/"
@@ -55486,6 +55510,10 @@
   "LocalSurveillanceGovernance": {
     "title": "Local Surveillance Governance",
     "url": "/wiki/concepts/localsurveillancegovernance/"
+  },
+  "LocalVehicleAssemblyTaxStrategy": {
+    "title": "Local Vehicle Assembly Tax Strategy / 汽车本地组装税务策略",
+    "url": "/wiki/concepts/localvehicleassemblytaxstrategy/"
   },
   "LocalVetoHousingPolitics": {
     "title": "Local Veto Housing Politics",
@@ -58006,6 +58034,10 @@
   "Maranello": {
     "title": "Maranello",
     "url": "/wiki/entities/maranello/"
+  },
+  "MarathonDestinationConsumption": {
+    "title": "Marathon Destination Consumption / 马拉松目的地消费",
+    "url": "/wiki/concepts/marathondestinationconsumption/"
   },
   "MarathonPerformanceEcosystem": {
     "title": "Marathon Performance Ecosystem",
@@ -89335,6 +89367,10 @@
     "title": "Trademark-Based Event Protection",
     "url": "/wiki/concepts/trademarkbasedeventprotection/"
   },
+  "TrademarkOperatingResourceSeparation": {
+    "title": "Trademark and Operating Resource Separation / 商标与经营资源分离",
+    "url": "/wiki/concepts/trademarkoperatingresourceseparation/"
+  },
   "TrademarkResaleBoundary": {
     "title": "Trademark Resale Boundary",
     "url": "/wiki/concepts/trademarkresaleboundary/"
@@ -91058,6 +91094,10 @@
   "Uplane": {
     "title": "Uplane",
     "url": "/wiki/entities/uplane/"
+  },
+  "UpstreamLuxurySupplyAcquisition": {
+    "title": "Upstream Luxury Supply Acquisition / 奢侈品上游供应收购",
+    "url": "/wiki/concepts/upstreamluxurysupplyacquisition/"
   },
   "UptonSinclair": {
     "title": "Upton Sinclair / 厄普顿·辛克莱",
@@ -99223,6 +99263,10 @@
     "title": "Zangshu / 《葬书》",
     "url": "/wiki/entities/zangshu/"
   },
+  "ZanjiaGuoyuan": {
+    "title": "Zanjia Guoyuan / 咱家果园",
+    "url": "/wiki/entities/zanjiaguoyuan/"
+  },
   "ZannyMintonBeddoes": {
     "title": "Zanny Minton Beddoes",
     "url": "/wiki/entities/zannymintonbeddoes/"
@@ -106362,6 +106406,10 @@
   "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210": {
     "title": "Putin's options: an oligarch speaks out",
     "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+  },
+  "qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx": {
+    "title": "千余家影院直播体育赛事，上半年国内金饰消费量下跌三成",
+    "url": "/wiki/sources/qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx/"
   },
   "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1": {
     "title": "期权这张饼，为什么越来越难吃了？",

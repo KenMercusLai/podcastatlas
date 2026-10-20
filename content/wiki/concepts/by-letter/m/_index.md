@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10663
+wiki_total_pages: 10672
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "Maracanazo"
     title: "Maracanazo"
     url: "/wiki/concepts/maracanazo/"
+  - key: "MarathonDestinationConsumption"
+    title: "Marathon Destination Consumption / 马拉松目的地消费"
+    url: "/wiki/concepts/marathondestinationconsumption/"
   - key: "MarathonPerformanceEcosystem"
     title: "Marathon Performance Ecosystem"
     url: "/wiki/concepts/marathonperformanceecosystem/"

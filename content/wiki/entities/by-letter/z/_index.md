@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13605
+wiki_total_pages: 13607
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "Zangshu"
     title: "Zangshu / 《葬书》"
     url: "/wiki/entities/zangshu/"
+  - key: "ZanjiaGuoyuan"
+    title: "Zanjia Guoyuan / 咱家果园"
+    url: "/wiki/entities/zanjiaguoyuan/"
   - key: "ZannyMintonBeddoes"
     title: "Zanny Minton Beddoes"
     url: "/wiki/entities/zannymintonbeddoes/"

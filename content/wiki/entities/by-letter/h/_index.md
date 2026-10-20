@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13605
+wiki_total_pages: 13607
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "HuiWanGroup"
     title: "Hui Wan Group"
     url: "/wiki/entities/huiwangroup/"
+  - key: "HuiyuanGroup"
+    title: "Huiyuan Group / 汇源集团"
+    url: "/wiki/entities/huiyuangroup/"
   - key: "HuizhouMerchants"
     title: "Huizhou Merchants / 徽商"
     url: "/wiki/entities/huizhoumerchants/"

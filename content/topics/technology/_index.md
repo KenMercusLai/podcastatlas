@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3577
+topic_total_pages: 3580
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -76,6 +76,9 @@ topic_concepts:
   - key: "AgentEnvironmentIsolation"
     title: "Agent Environment Isolation"
     url: "/wiki/concepts/agentenvironmentisolation/"
+  - key: "AgentGoalDriftDetection"
+    title: "Agent Goal Drift Detection / 智能体目标漂移检测"
+    url: "/wiki/concepts/agentgoaldriftdetection/"
   - key: "AgentHarness"
     title: "Agent Harness"
     url: "/wiki/concepts/agentharness/"
@@ -952,6 +955,9 @@ topic_concepts:
   - key: "AIServiceExportStandardSetting"
     title: "AI Service Export Standard-Setting"
     url: "/wiki/concepts/aiserviceexportstandardsetting/"
+  - key: "AIShoppingDemandDiscovery"
+    title: "AI Shopping Demand Discovery / AI 购物需求发现"
+    url: "/wiki/concepts/aishoppingdemanddiscovery/"
   - key: "AIShortDrama"
     title: "AI Short Drama"
     url: "/wiki/concepts/aishortdrama/"
@@ -1456,6 +1462,9 @@ topic_concepts:
   - key: "CapitalIntensiveAICycle"
     title: "Capital-Intensive AI Cycle"
     url: "/wiki/concepts/capitalintensiveaicycle/"
+  - key: "CaptiveChipBusinessSpinout"
+    title: "Captive Chip Business Spinout / 自研芯片业务独立融资"
+    url: "/wiki/concepts/captivechipbusinessspinout/"
   - key: "CarGradeAutonomousCompute"
     title: "Car-Grade Autonomous Compute"
     url: "/wiki/concepts/cargradeautonomouscompute/"

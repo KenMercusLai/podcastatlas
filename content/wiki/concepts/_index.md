@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10663
+wiki_total_pages: 10672
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "AgentEvaluationBenchmarks"
     title: "Agent Evaluation Benchmarks"
     url: "/wiki/concepts/agentevaluationbenchmarks/"
+  - key: "AgentGoalDriftDetection"
+    title: "Agent Goal Drift Detection / 智能体目标漂移检测"
+    url: "/wiki/concepts/agentgoaldriftdetection/"
   - key: "AgentHarness"
     title: "Agent Harness"
     url: "/wiki/concepts/agentharness/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "AIServiceExportStandardSetting"
     title: "AI Service Export Standard-Setting"
     url: "/wiki/concepts/aiserviceexportstandardsetting/"
+  - key: "AIShoppingDemandDiscovery"
+    title: "AI Shopping Demand Discovery / AI 购物需求发现"
+    url: "/wiki/concepts/aishoppingdemanddiscovery/"
   - key: "AIShortDrama"
     title: "AI Short Drama"
     url: "/wiki/concepts/aishortdrama/"

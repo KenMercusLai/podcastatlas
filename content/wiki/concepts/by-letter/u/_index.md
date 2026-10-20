@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10663
+wiki_total_pages: 10672
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "UnverifiedTerritorialPromiseTrap"
     title: "Unverified Territorial Promise Trap / 未验地先断交陷阱"
     url: "/wiki/concepts/unverifiedterritorialpromisetrap/"
+  - key: "UpstreamLuxurySupplyAcquisition"
+    title: "Upstream Luxury Supply Acquisition / 奢侈品上游供应收购"
+    url: "/wiki/concepts/upstreamluxurysupplyacquisition/"
   - key: "UpwardManagement"
     title: "Upward Management"
     url: "/wiki/concepts/upwardmanagement/"
