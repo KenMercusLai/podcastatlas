@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3581
+topic_total_pages: 3584
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -952,6 +952,9 @@ topic_concepts:
   - key: "AISearchEvaluation"
     title: "AI Search Evaluation"
     url: "/wiki/concepts/aisearchevaluation/"
+  - key: "AISearchRankingManipulation"
+    title: "AI Search Ranking Manipulation"
+    url: "/wiki/concepts/aisearchrankingmanipulation/"
   - key: "AIServiceExportStandardSetting"
     title: "AI Service Export Standard-Setting"
     url: "/wiki/concepts/aiserviceexportstandardsetting/"
@@ -7808,6 +7811,9 @@ topic_entities:
   - key: "Shenzhen"
     title: "Shenzhen / 深圳"
     url: "/wiki/entities/shenzhen/"
+  - key: "ShiYounghoo"
+    title: "Shi Young-hoo"
+    url: "/wiki/entities/shiyounghoo/"
   - key: "Shibo"
     title: "Shibo"
     url: "/wiki/entities/shibo/"
@@ -9894,6 +9900,9 @@ topic_sources:
   - key: "how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m"
     title: "How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M"
     url: "/wiki/sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m/"
+  - key: "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128"
+    title: "How easy is it to game AI search results?"
+    url: "/wiki/sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128/"
   - key: "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast"
     title: "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast"
     url: "/wiki/sources/how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast/"

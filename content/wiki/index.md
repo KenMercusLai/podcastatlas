@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How easy is it to game AI search results?](sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128.md) — Marketplace Tech interview with Shi Young-hoo on text and image attacks against AI-search ranking, cross-model transfer, fraud risk, compressed answer choices, and source-based verification.
 - [509 通往战时陪都之路：卢作孚建设重庆北碚往事](sources/509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj.md) — 以卢作孚和峡防局为中心，解释北碚如何整合治安、就业、煤矿、铁路、航运、教育与应用科学，并成为战时科教机构迁入的基础。
 - [千余家影院直播体育赛事，上半年国内金饰消费量下跌三成](sources/qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx.md) — 声动早咖啡串联影院体育直播、AI购物、智能体异常浏览、金饰轻量化、钻石上游收购、马拉松消费、芯片独立融资、汽车本地组装与汇源品牌切割。
 - [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700.md) — 硅谷101以Astra比较个人Agent、机器人和AI制药，指出平台访问、快慢控制、湿实验与临床验证决定模型能力进入现实世界的速度。
@@ -4768,6 +4769,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
 
 ## Entities
+- [Shi Young-hoo](entities/ShiYounghoo.md) — Arizona State University researcher explaining AI-search ranking manipulation, cross-model attack transfer, dual-use demotion, and source inspection.
 - [卢作孚 / Lu Zuofu](entities/LuZuofu.md) — 将治安、就业、工业、交通、教育、科研和地方建设联结起来的北碚现代化组织者。
 - [重庆北碚 / Beibei District](entities/BeibeiDistrict.md) — 战前地方现代化实验与战时科教机构迁入相衔接的重庆区域。
 - [胡南仙 / Hu Nanxian](entities/HuNanxian.md) — 为峡防局建立较稳定财政与制度基础、并推荐卢作孚接任的地方领导者。
@@ -18456,6 +18458,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
 
 ## Concepts
+- [AI Search Ranking Manipulation](concepts/AISearchRankingManipulation.md) — Deliberate use of crafted text, images, or source placement to distort what LLM-based retrieval and answer systems promote or suppress.
 - [Local Self-Organization to Public Institution / 地方自组织的公共机构转化](concepts/LocalSelfOrganizationToPublicInstitution.md) — 将临时或传统地方组织转化为拥有稳定财政、继任与公共职能的常设机构。
 - [Integrated Place-Based Modernization / 地方整合型现代化](concepts/IntegratedPlaceBasedModernization.md) — 围绕特定区域协调治安、生计、基础设施、产业、教育、科研和公共空间的发展方式。
 - [Applied Science for Regional Development / 面向区域发展的应用科学](concepts/AppliedScienceForRegionalDevelopment.md) — 以地方资源、生态、生产问题和日常需要为对象，并区分调查、采用与社会生态结果的研究模式。

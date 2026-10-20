@@ -930,6 +930,36 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/aiandroboticeldercarelimits/"
     },
+    "AIAnswerEvaluation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的 [5aeaeb64-9165-4271-9884-23329b511e11].md",
+          "key": "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11",
+          "show": "硅谷101",
+          "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+          "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
+        },
+        {
+          "episode_file": "tech_20261019_1019_MP_TECH_pod_128 [tech_20261019_1019_MP_TECH_pod_128].md",
+          "key": "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Using generative AI for election-related research",
+          "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261020_1020_MP_TECH_pod_128 [tech_20261020_1020_MP_TECH_pod_128].md",
+          "key": "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How easy is it to game AI search results?",
+          "url": "/wiki/sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/aianswerevaluation/"
+    },
     "AIAnswerSourceAttribution": {
       "episode_count": 4,
       "show_count": 2,
@@ -5268,6 +5298,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/aiscientificcreativityboundary/"
+    },
+    "AISearchRankingManipulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261020_1020_MP_TECH_pod_128 [tech_20261020_1020_MP_TECH_pod_128].md",
+          "key": "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How easy is it to game AI search results?",
+          "url": "/wiki/sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/aisearchrankingmanipulation/"
     },
     "AIShoppingDemandDiscovery": {
       "episode_count": 1,
@@ -17865,6 +17911,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/anschluss/"
+    },
+    "AnswerEngineOptimization": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260304_0304_MP_TECH_pod_128 [tech_20260304_0304_MP_TECH_pod_128].md",
+          "key": "tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Brands are racing to show up in AI search",
+          "url": "/wiki/sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261020_1020_MP_TECH_pod_128 [tech_20261020_1020_MP_TECH_pod_128].md",
+          "key": "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How easy is it to game AI search results?",
+          "url": "/wiki/sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/answerengineoptimization/"
     },
     "AntAbao": {
       "episode_count": 1,
@@ -251710,6 +251779,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/shiyanlatehan/"
+    },
+    "ShiYounghoo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261020_1020_MP_TECH_pod_128 [tech_20261020_1020_MP_TECH_pod_128].md",
+          "key": "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How easy is it to game AI search results?",
+          "url": "/wiki/sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/shiyounghoo/"
     },
     "ShiZhongyu": {
       "episode_count": 2,

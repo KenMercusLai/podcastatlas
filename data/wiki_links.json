@@ -6295,6 +6295,10 @@
     "title": "AI Search Evaluation",
     "url": "/wiki/concepts/aisearchevaluation/"
   },
+  "AISearchRankingManipulation": {
+    "title": "AI Search Ranking Manipulation",
+    "url": "/wiki/concepts/aisearchrankingmanipulation/"
+  },
   "AIServiceExportStandardSetting": {
     "title": "AI Service Export Standard-Setting",
     "url": "/wiki/concepts/aiserviceexportstandardsetting/"
@@ -80743,6 +80747,10 @@
     "title": "师宜官 / Shi Yiguan",
     "url": "/wiki/entities/shiyiguanlatehan/"
   },
+  "ShiYounghoo": {
+    "title": "Shi Young-hoo",
+    "url": "/wiki/entities/shiyounghoo/"
+  },
   "ShiZhongyu": {
     "title": "石中玉 / Shi Zhongyu",
     "url": "/wiki/entities/shizhongyu/"
@@ -107842,6 +107850,10 @@
   "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128": {
     "title": "Using generative AI for election-related research",
     "url": "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+  },
+  "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128": {
+    "title": "How easy is it to game AI search results?",
+    "url": "/wiki/sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10675
+wiki_total_pages: 10676
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1538,6 +1538,9 @@ wiki_pages:
   - key: "AISearchEvaluation"
     title: "AI Search Evaluation"
     url: "/wiki/concepts/aisearchevaluation/"
+  - key: "AISearchRankingManipulation"
+    title: "AI Search Ranking Manipulation"
+    url: "/wiki/concepts/aisearchrankingmanipulation/"
   - key: "AIServiceExportStandardSetting"
     title: "AI Service Export Standard-Setting"
     url: "/wiki/concepts/aiserviceexportstandardsetting/"
