@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 10687
+wiki_total_pages: 10690
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "KBeautyGlobalTrust"
     title: "K-Beauty Global Trust"
     url: "/wiki/concepts/kbeautyglobaltrust/"
+  - key: "KPopIdolProductionSystem"
+    title: "K-pop Idol Production System / K-pop偶像制作系统"
+    url: "/wiki/concepts/kpopidolproductionsystem/"
   - key: "KShapedConsumerSpending"
     title: "K-Shaped Consumer Spending"
     url: "/wiki/concepts/kshapedconsumerspending/"

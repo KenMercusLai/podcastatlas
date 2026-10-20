@@ -4773,6 +4773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Disorder of magnitude: France’s riots](sources/disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c.md) — The Intelligence on French unrest and electoral polarization, Zimbabwe's contract-financed but tenure-constrained agricultural recovery, and a satire of AI extinction fine print.
 
+- [EP390-李秀满新女团爆红背后：出道即塌房？最小成员只有13岁？](sources/ep390-lixiuman-xin-nvtuan-baohong-beihou-chudao-ji-tafang-zuixiao-chengyuan-zhiyou-13sui-gkwrirworuemaf_2bgtsih8x.md) — 无时差研究所以 A2O Light 讨论 K-pop 偶像制作、成长型粉丝机制、未成年职业化风险与家庭债务责任边界。
+
 ## Entities
 - [Mahesh Keshwala / Thugesh](entities/MaheshKeshwala.md) — Indian comedy-commentary creator and YouTuber whose career illustrates format reinvention, channel segmentation, platform attention tradeoffs, and AI production boundaries.
 - [Shi Young-hoo](entities/ShiYounghoo.md) — Arizona State University researcher explaining AI-search ranking manipulation, cross-model attack transfer, dual-use demotion, and source inspection.
@@ -18468,6 +18470,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emmerson Mnangagwa](entities/EmmersonMnangagwa.md) — Zimbabwean president pursuing compensation and agricultural deeds without yet resolving lender confidence.
 - [Lovemore Chiwa](entities/LovemoreChiwa.md) — Zimbabwean smallholder illustrating diversified production supported by tobacco contract finance.
 - [Laurent Nuñez](entities/LaurentNunez.md) — French interior minister who acknowledged loss of police control and offered to resign during the unrest.
+- [A2O Light](entities/A2OLight.md) — Young multinational girl group whose songs, choreography, worldbuilding, and age profile anchor the episode's production and ethics analysis.
+- [李秀满 / Lee Soo-man](entities/LeeSooMan.md) — K-pop producer presented as a system-builder combining music, choreography, roles, concepts, casting, and operations.
+- [盛爱靖 / Sheng Aijing](entities/ShengAijing.md) — A2O Light member whose attention and reported family-business controversy require a strict minor-responsibility boundary.
 
 ## Concepts
 - [Creator Format Reinvention](concepts/CreatorFormatReinvention.md) — Creator-career strategy of preserving output while changing formats as audiences, platforms, and capabilities evolve.
@@ -29244,5 +29249,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silent Chronic Disease Risk / 无症状慢病风险](concepts/SilentChronicDiseaseRisk.md) — Distinguishes immediate symptom salience from cumulative risk requiring measurement, assessment, and follow-up.
 - [Gout and Urate Long-Term Management / 痛风与尿酸长期管理](concepts/GoutUrateLongTermManagement.md) — Individualized feedback loop connecting gout attacks, urate burden, medication, monitoring, diet, and achievable goals.
 - [Polypharmacy Medication Review / 多重用药审查](concepts/PolypharmacyMedicationReview.md) — Structured reconciliation of indications, interactions, timing, formulations, adverse effects, and regimen burden.
+- [K-pop Idol Production System / K-pop偶像制作系统](concepts/KPopIdolProductionSystem.md) — Coordinated design of songs, choreography, roles, visuals, worldbuilding, casting, training, and release continuity.
+- [Underage Idol Professionalization Risk / 未成年偶像职业化风险](concepts/UnderageIdolProfessionalizationRisk.md) — Mismatch between a child's decision capacity and the labor, education, bodily, and public costs of professional entertainment.
+- [Idol Growth Fandom Mechanism / 偶像成长型粉丝机制](concepts/IdolGrowthFandomMechanism.md) — Fan attachment turning visible development into recurring content, companionship, speculation, and early-recognition status.
 
 ## Syntheses

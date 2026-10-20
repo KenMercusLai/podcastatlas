@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10687
+wiki_total_pages: 10690
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "UndefinedWarObjectives"
     title: "Undefined War Objectives"
     url: "/wiki/concepts/undefinedwarobjectives/"
+  - key: "UnderageIdolProfessionalizationRisk"
+    title: "Underage Idol Professionalization Risk / 未成年偶像职业化风险"
+    url: "/wiki/concepts/underageidolprofessionalizationrisk/"
   - key: "UndergraduateArtFieldwork"
     title: "Undergraduate Art Fieldwork / 本科艺术田野"
     url: "/wiki/concepts/undergraduateartfieldwork/"

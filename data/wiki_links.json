@@ -4899,6 +4899,10 @@
     "title": "A2A Transaction Norms / 智能体间交易规范",
     "url": "/wiki/concepts/a2atransactionnorms/"
   },
+  "A2OLight": {
+    "title": "A2O Light",
+    "url": "/wiki/entities/a2olight/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -44687,6 +44691,10 @@
     "title": "Ido Portal",
     "url": "/wiki/entities/idoportal/"
   },
+  "IdolGrowthFandomMechanism": {
+    "title": "Idol Growth Fandom Mechanism / 偶像成长型粉丝机制",
+    "url": "/wiki/concepts/idolgrowthfandommechanism/"
+  },
   "IfYouCanKeepIt": {
     "title": "If You Can Keep It",
     "url": "/wiki/entities/ifyoucankeepit/"
@@ -50183,6 +50191,10 @@
     "title": "K (Physical Intelligence)",
     "url": "/wiki/entities/kphysicalintelligence/"
   },
+  "KPopIdolProductionSystem": {
+    "title": "K-pop Idol Production System / K-pop偶像制作系统",
+    "url": "/wiki/concepts/kpopidolproductionsystem/"
+  },
   "KPro": {
     "title": "K Pro / 肯律轻食",
     "url": "/wiki/entities/kpro/"
@@ -52650,6 +52662,10 @@
   "LeeMiller": {
     "title": "Lee Miller",
     "url": "/wiki/entities/leemiller/"
+  },
+  "LeeSooMan": {
+    "title": "李秀满 / Lee Soo-man",
+    "url": "/wiki/entities/leesooman/"
   },
   "LeeWoods": {
     "title": "Lee Woods",
@@ -80539,6 +80555,10 @@
     "title": "身毒 / Shendu (Western Han-era)",
     "url": "/wiki/entities/shenduwesternhan/"
   },
+  "ShengAijing": {
+    "title": "盛爱靖 / Sheng Aijing",
+    "url": "/wiki/entities/shengaijing/"
+  },
   "ShengYing": {
     "title": "盛颖 / Sheng Ying",
     "url": "/wiki/entities/shengying/"
@@ -90794,6 +90814,10 @@
   "UndefinedWarObjectives": {
     "title": "Undefined War Objectives",
     "url": "/wiki/concepts/undefinedwarobjectives/"
+  },
+  "UnderageIdolProfessionalizationRisk": {
+    "title": "Underage Idol Professionalization Risk / 未成年偶像职业化风险",
+    "url": "/wiki/concepts/underageidolprofessionalizationrisk/"
   },
   "UndergraduateArtFieldwork": {
     "title": "Undergraduate Art Fieldwork / 本科艺术田野",
@@ -104258,6 +104282,10 @@
   "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj": {
     "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",
     "url": "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+  },
+  "ep390-lixiuman-xin-nvtuan-baohong-beihou-chudao-ji-tafang-zuixiao-chengyuan-zhiyou-13sui-gkwrirworuemaf_2bgtsih8x": {
+    "title": "EP390-李秀满新女团爆红背后：出道即塌房？最小成员只有13岁？",
+    "url": "/wiki/sources/ep390-lixiuman-xin-nvtuan-baohong-beihou-chudao-ji-tafang-zuixiao-chengyuan-zhiyou-13sui-gkwrirworuemaf_2bgtsih8x/"
   },
   "ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp": {
     "title": "EP41 成就职场大圣：远离天命，掌握向上管理",

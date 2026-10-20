@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13619
+wiki_total_pages: 13622
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "A24"
     title: "A24"
     url: "/wiki/entities/a24/"
+  - key: "A2OLight"
+    title: "A2O Light"
+    url: "/wiki/entities/a2olight/"
   - key: "A7A5"
     title: "A7A5"
     url: "/wiki/entities/a7a5/"

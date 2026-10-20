@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3548
+topic_total_pages: 3550
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1933,6 +1933,9 @@ topic_concepts:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
     url: "/wiki/concepts/k12computerscienceaccess/"
+  - key: "KPopIdolProductionSystem"
+    title: "K-pop Idol Production System / K-pop偶像制作系统"
+    url: "/wiki/concepts/kpopidolproductionsystem/"
   - key: "KinshipBackedEarlyCareerCapital"
     title: "Kinship-Backed Early-Career Capital / 宗族托举式早期资本"
     url: "/wiki/concepts/kinshipbackedearlycareercapital/"
@@ -3496,6 +3499,9 @@ topic_concepts:
   - key: "UGCToProfessionalCreatorPipeline"
     title: "UGC To Professional Creator Pipeline"
     url: "/wiki/concepts/ugctoprofessionalcreatorpipeline/"
+  - key: "UnderageIdolProfessionalizationRisk"
+    title: "Underage Idol Professionalization Risk / 未成年偶像职业化风险"
+    url: "/wiki/concepts/underageidolprofessionalizationrisk/"
   - key: "UnderservedRomanceAudience"
     title: "Underserved Romance Audience"
     url: "/wiki/concepts/underservedromanceaudience/"

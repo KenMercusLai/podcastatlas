@@ -52850,6 +52850,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KPopIdolProductionSystem": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "KShapedConsumerSpending": [
     {
       "key": "economics",
@@ -91933,6 +91940,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "UnderageIdolProfessionalizationRisk": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "UndergroundMoneyTransferRisk": [

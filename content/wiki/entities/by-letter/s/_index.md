@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13619
+wiki_total_pages: 13622
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2825,6 +2825,9 @@ wiki_pages:
   - key: "ShengshiInvestmentAcademy"
     title: "盛世投资研习院"
     url: "/wiki/entities/shengshiinvestmentacademy/"
+  - key: "ShengAijing"
+    title: "盛爱靖 / Sheng Aijing"
+    url: "/wiki/entities/shengaijing/"
   - key: "ShengYing"
     title: "盛颖 / Sheng Ying"
     url: "/wiki/entities/shengying/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10687
+wiki_total_pages: 10690
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "IdiosyncraticAttraction"
     title: "Idiosyncratic Attraction"
     url: "/wiki/concepts/idiosyncraticattraction/"
+  - key: "IdolGrowthFandomMechanism"
+    title: "Idol Growth Fandom Mechanism / 偶像成长型粉丝机制"
+    url: "/wiki/concepts/idolgrowthfandommechanism/"
   - key: "IEPATariffAuthorityLimit"
     title: "IEPA Tariff Authority Limit"
     url: "/wiki/concepts/iepatariffauthoritylimit/"
