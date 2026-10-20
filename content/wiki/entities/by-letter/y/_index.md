@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13603
+wiki_total_pages: 13605
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "YongleDadian"
     title: "《永乐大典》 / Yongle Dadian"
     url: "/wiki/entities/yongledadian/"
+  - key: "YongJieWuQingYou"
+    title: "《永结无情游》 / Yong Jie Wu Qing You"
+    url: "/wiki/entities/yongjiewuqingyou/"
   - key: "YouBaochanShanJi"
     title: "《游褒禅山记》"
     url: "/wiki/entities/youbaochanshanji/"

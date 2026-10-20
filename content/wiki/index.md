@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.357 永结无情游：实验班的同学们，你们过得怎么样](sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o.md) — 文化有限以周佳宁《永结无情游》连接实验班承诺、成年友谊离散、非线性记忆、科研耗损与不同社会位置对共同过去的重述。
 - [vol.57 对谈李荣浩：该放下就放下 该不要就不要](sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5.md) — 天真不天真对谈李荣浩，以真实经验、编曲与混音的关系判断、减法式聚焦、延迟走红、现场合唱及AI音乐的功能边界连接创作与音乐工业。
 - [Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity](sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1.md) — All-In interview on Figma, the failed Adobe acquisition, model versus product progress, design-led software differentiation, and AI's lower creative floor but unchanged ceiling.
 - [123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶](sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni.md) — 纸醉金迷FM从家庭依附、性别权力、表演性反制、婚姻自主与污名信任讨论尤三姐，并保留柳湘莲退婚责任的分歧。
@@ -4764,6 +4765,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
 
 ## Entities
+- [周佳宁 / Zhou Jianing](entities/ZhouJianing.md) — 《永结无情游》作者，以跨三十年的实验班友谊、碎片记忆与时代变化进入当前知识库。
+- [《永结无情游》 / Yong Jie Wu Qing You](entities/YongJieWuQingYou.md) — 周佳宁以实验班同学的成年分流、失联友谊与冲突记忆讨论教育承诺和自我重构的小说。
 - [李荣浩 / Li Ronghao](entities/LiRonghao.md) — Singer-songwriter and producer connecting lived credibility, granular production craft, selective focus, delayed reception, live reciprocity, and qualified AI-music judgment.
 - [Dylan Field](entities/DylanField.md) — Figma co-founder and CEO arguing that AI lowers creative entry costs while leaving product craft, judgment, and originality to people.
 - [Figma](entities/Figma.md) — Design-centered professional software company combining AI generation with direct manipulation and workflow depth.
@@ -18443,6 +18446,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
 
 ## Concepts
+- [Educational Selection Promise Gap / 教育选拔承诺落差](concepts/EducationalSelectionPromiseGap.md) — 区分考试筛选与高级教学的真实价值，以及它们无法保证成年成功、适应或幸福的边界。
 - [Relational Music Production / 关系式音乐制作](concepts/RelationalMusicProduction.md) — 以克制、遮蔽、频率、空间和多设备权衡处理乐器与声音之间关系的编曲混音框架。
 - [Creative Focus by Subtraction / 减法式创作聚焦](concepts/CreativeFocusBySubtraction.md) — 通过拒绝低价值项目和义务，为少数重要实践保留深度注意力并接受选择机会成本。
 - [AI Creative Floor-Ceiling Gap](concepts/AICreativeFloorCeilingGap.md) — Distinction between making acceptable creation easier and actually extending the frontier of original, exceptional work.

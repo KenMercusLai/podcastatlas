@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-18
-as_of_overview_commit: cc29360f72181f3ecc9d6f22be1bc6019789ef4e
+as_of_overview_commit: cebd9af34ef032500afcdd3b2539beda49d12be8
 summary: "Across domains, durable value depends on evidence, implementation, institutional capacity, human judgment, accountability, context, relationships, and explicit limits."
-episode_count: 4662
-source_count: 4662
+episode_count: 4674
+source_count: 4674
 paragraph_count: 804
 topic_count: 9
 ---
@@ -75,7 +75,7 @@ Contextual judgment keeps function above labels and static rankings, regulation 
 
 ### Science, Health, and Climate
 
-Public literacy requires mechanisms, measurement, qualified care, escalation boundaries, dose and health context, and uncertainty; high-intensity breath-hold sport adds trained observation, rescue readiness, and medical evaluation as hard safety limits.
+Public literacy requires mechanisms, measurement, qualified care, escalation boundaries, dose and health context, and uncertainty; plausible mechanisms remain distinct from durable outcomes.
 
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].

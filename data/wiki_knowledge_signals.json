@@ -61924,9 +61924,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -61990,9 +61990,16 @@
           "show": "文化有限",
           "title": "Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁",
           "url": "/wiki/sources/vol-356-baijing-yongchang-de-shenghuo-yishougou-qing-dahai-daizou-wode-aichou-gkwriw4oms-ma1lixgtjj3um/"
+        },
+        {
+          "episode_file": "GKwRIDoOq_nhA1P5XwTrgQ6O [GKwRIDoOq_nhA1P5XwTrgQ6O].md",
+          "key": "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o",
+          "show": "文化有限",
+          "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+          "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-10-20",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -78919,6 +78926,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/educationsignalinflation/"
+    },
+    "EducationalSelectionPromiseGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOq_nhA1P5XwTrgQ6O [GKwRIDoOq_nhA1P5XwTrgQ6O].md",
+          "key": "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o",
+          "show": "文化有限",
+          "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+          "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/educationalselectionpromisegap/"
     },
     "EdvardBenes": {
       "episode_count": 2,
@@ -195833,9 +195856,9 @@
       "url": "/wiki/concepts/narrativemisdirection/"
     },
     "NarrativePerspectiveMoralReevaluation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrEdm8yixOIhQQSnatPZHChZn14B [lrEdm8yixOIhQQSnatPZHChZn14B].md",
@@ -195843,9 +195866,16 @@
           "show": "纸醉金迷FM",
           "title": "017 从《射雕》到《神雕》，黄蓉为什么变得不可爱了？",
           "url": "/wiki/sources/lredm8yixoihqqsnatpzhchzn14b-lredm8yixoihqqsnatpzhchzn14b/"
+        },
+        {
+          "episode_file": "GKwRIDoOq_nhA1P5XwTrgQ6O [GKwRIDoOq_nhA1P5XwTrgQ6O].md",
+          "key": "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o",
+          "show": "文化有限",
+          "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+          "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/narrativeperspectivemoralreevaluation/"
     },
     "NarrativePluralism": {
@@ -232924,9 +232954,9 @@
       "url": "/wiki/concepts/relationshiptechnologyethics/"
     },
     "RelationshipValueBeyondDuration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
@@ -232941,9 +232971,16 @@
           "show": "无时差研究所",
           "title": "EP18-真的！多失恋几次，你就长大了",
           "url": "/wiki/sources/ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557/"
+        },
+        {
+          "episode_file": "GKwRIDoOq_nhA1P5XwTrgQ6O [GKwRIDoOq_nhA1P5XwTrgQ6O].md",
+          "key": "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o",
+          "show": "文化有限",
+          "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+          "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/relationshipvaluebeyondduration/"
     },
     "ReliabilityDrivenInfrastructureOwnership": {
@@ -306003,6 +306040,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/yondr/"
     },
+    "YongJieWuQingYou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOq_nhA1P5XwTrgQ6O [GKwRIDoOq_nhA1P5XwTrgQ6O].md",
+          "key": "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o",
+          "show": "文化有限",
+          "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+          "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/yongjiewuqingyou/"
+    },
     "YongLambert": {
       "episode_count": 1,
       "show_count": 1,
@@ -314802,6 +314855,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhoujianeasternhan/"
+    },
+    "ZhouJianing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOq_nhA1P5XwTrgQ6O [GKwRIDoOq_nhA1P5XwTrgQ6O].md",
+          "key": "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o",
+          "show": "文化有限",
+          "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+          "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/entities/zhoujianing/"
     },
     "ZhouJingLateHan": {
       "episode_count": 2,

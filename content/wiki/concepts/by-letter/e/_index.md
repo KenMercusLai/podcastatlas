@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10661
+wiki_total_pages: 10662
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "EducationalDistributionStrategy"
     title: "Educational Distribution Strategy"
     url: "/wiki/concepts/educationaldistributionstrategy/"
+  - key: "EducationalSelectionPromiseGap"
+    title: "Educational Selection Promise Gap / 教育选拔承诺落差"
+    url: "/wiki/concepts/educationalselectionpromisegap/"
   - key: "EducationalTrackingByTesting"
     title: "Educational Tracking By Testing / 测试驱动的教育分流"
     url: "/wiki/concepts/educationaltrackingbytesting/"
