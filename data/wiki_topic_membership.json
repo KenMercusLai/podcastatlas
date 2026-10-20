@@ -34287,6 +34287,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmmersonMnangagwa": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmmettShear": [
     {
       "key": "economics",
@@ -54610,6 +54617,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LaurentNunez": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LaurieSantos": [
@@ -76967,6 +76981,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RobertMugabe": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RobertPeel": [
@@ -102851,6 +102872,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "do-prediction-market-bettors-make-anything-better": [

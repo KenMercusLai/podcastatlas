@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10676
+wiki_total_pages: 10678
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2453,6 +2453,9 @@ wiki_pages:
   - key: "ContraceptionSexualHealthRiskLiteracy"
     title: "Contraception and Sexual-Health Risk Literacy / 避孕与性健康风险素养"
     url: "/wiki/concepts/contraceptionsexualhealthriskliteracy/"
+  - key: "ContractFarmingCredit"
+    title: "Contract Farming Credit"
+    url: "/wiki/concepts/contractfarmingcredit/"
   - key: "ContractTheory"
     title: "Contract Theory / 契约理论"
     url: "/wiki/concepts/contracttheory/"

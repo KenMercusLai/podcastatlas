@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3352
+topic_total_pages: 3356
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6068,6 +6068,9 @@ topic_entities:
   - key: "EmmanuelMacron"
     title: "Emmanuel Macron"
     url: "/wiki/entities/emmanuelmacron/"
+  - key: "EmmersonMnangagwa"
+    title: "Emmerson Mnangagwa"
+    url: "/wiki/entities/emmersonmnangagwa/"
   - key: "HanAidi"
     title: "Emperor Ai of Han / 汉哀帝"
     url: "/wiki/entities/hanaidi/"
@@ -6588,7 +6591,7 @@ topic_entities:
     title: "Jean-Joseph Mounier"
     url: "/wiki/entities/jeanjosephmounier/"
   - key: "JeanLucMelenchon"
-    title: "Jean-Luc Melenchon"
+    title: "Jean-Luc Mélenchon"
     url: "/wiki/entities/jeanlucmelenchon/"
   - key: "JeanMarieLePen"
     title: "Jean-Marie Le Pen"
@@ -6842,6 +6845,9 @@ topic_entities:
   - key: "LauraIves"
     title: "Laura Ives"
     url: "/wiki/entities/lauraives/"
+  - key: "LaurentNunez"
+    title: "Laurent Nuñez"
+    url: "/wiki/entities/laurentnunez/"
   - key: "LawOf22Prairial"
     title: "Law of 22 Prairial"
     url: "/wiki/entities/lawof22prairial/"
@@ -7529,6 +7535,9 @@ topic_entities:
   - key: "RobertMenzies"
     title: "Robert Menzies"
     url: "/wiki/entities/robertmenzies/"
+  - key: "RobertMugabe"
+    title: "Robert Mugabe"
+    url: "/wiki/entities/robertmugabe/"
   - key: "RobertPeel"
     title: "Robert Peel"
     url: "/wiki/entities/robertpeel/"
@@ -9171,6 +9180,9 @@ topic_sources:
   - key: "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d"
     title: "Dhaka matters: an election for Bangladesh"
     url: "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+  - key: "disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c"
+    title: "Disorder of magnitude: France’s riots"
+    url: "/wiki/sources/disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c/"
   - key: "do-prediction-market-bettors-make-anything-better"
     title: "Do prediction market bettors make anything better?"
     url: "/wiki/sources/do-prediction-market-bettors-make-anything-better/"

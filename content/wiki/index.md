@@ -4768,6 +4768,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Using generative AI for election-related research](sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128.md) — Marketplace Tech experiment on precise election prompts, cross-chatbot comparison, source verification, sycophancy, and reported conversational-AI persuasion effects.
 
+- [Disorder of magnitude: France’s riots](sources/disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c.md) — The Intelligence on French unrest and electoral polarization, Zimbabwe's contract-financed but tenure-constrained agricultural recovery, and a satire of AI extinction fine print.
+
 ## Entities
 - [Shi Young-hoo](entities/ShiYounghoo.md) — Arizona State University researcher explaining AI-search ranking manipulation, cross-model attack transfer, dual-use demotion, and source inspection.
 - [卢作孚 / Lu Zuofu](entities/LuZuofu.md) — 将治安、就业、工业、交通、教育、科研和地方建设联结起来的北碚现代化组织者。
@@ -16583,7 +16585,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emmanuel Macron](entities/EmmanuelMacron.md) — Incumbent French president whose succession context shapes the crowded 2027 field in the episode.
 - [Edouard Philippe](entities/EdouardPhilippe.md) — Centrist French presidential candidate named as part of the post-Macron 2027 field.
 - [Gabriel Attal](entities/GabrielAttal.md) — Centrist French political figure named as a possible Macron successor in the 2027 field.
-- [Jean-Luc Melenchon](entities/JeanLucMelenchon.md) — Populist-left candidate named as part of the crowded 2027 French presidential field.
+- [Jean-Luc Mélenchon](entities/JeanLucMelenchon.md) — French populist-left leader whose runoff relevance grows with centrist fragmentation and criticism of government failure.
 - [Little White and Little Grey](entities/LittleWhiteAndLittleGrey.md) — Two belugas whose move from a Shanghai theme park to Iceland tests captive-whale sanctuary welfare.
 - [Sea Life Trust](entities/SeaLifeTrust.md) — Organization operating the Iceland beluga sanctuary for Little White and Little Grey.
 - [Iceland](entities/Iceland.md) — Location of the beluga sanctuary and earlier Keiko rehabilitation bay in the episode.
@@ -18456,6 +18458,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jared Diamond](entities/JaredDiamond.md) — Scientist and writer connecting physiology, ornithology, comparative history, leadership causation, and late-life knowledge stewardship.
 
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
+
+- [Zimbabwe](entities/Zimbabwe.md) — Country whose partial agricultural recovery remains constrained by the land-reform legacy, weak credit, unsettled compensation, and fragile tenure.
+- [Robert Mugabe](entities/RobertMugabe.md) — Zimbabwean president associated here with the pressure, violence, redistribution, and productive aftermath of fast-track land reform.
+- [Emmerson Mnangagwa](entities/EmmersonMnangagwa.md) — Zimbabwean president pursuing compensation and agricultural deeds without yet resolving lender confidence.
+- [Lovemore Chiwa](entities/LovemoreChiwa.md) — Zimbabwean smallholder illustrating diversified production supported by tobacco contract finance.
+- [Laurent Nuñez](entities/LaurentNunez.md) — French interior minister who acknowledged loss of police control and offered to resign during the unrest.
 
 ## Concepts
 - [AI Search Ranking Manipulation](concepts/AISearchRankingManipulation.md) — Deliberate use of crafted text, images, or source placement to distort what LLM-based retrieval and answer systems promote or suppress.
@@ -29220,5 +29228,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [AI-Assisted Election Research](concepts/AIAssistedElectionResearch.md) — Voter workflow combining temporal and jurisdictional prompt specificity, cross-model comparison, citation inspection, and independent judgment.
 - [Conversational AI Political Persuasion](concepts/ConversationalAIPoliticalPersuasion.md) — Interactive AI influence on political attitudes, bounded by study design, persistence, bias, and behavior-change limits.
+
+- [Contract Farming Credit](concepts/ContractFarmingCredit.md) — Buyer-linked crop finance that can bypass weak bank lending for a season without repairing long-term tenure.
+- [Land-Tenure Collateral Credibility](concepts/LandTenureCollateralCredibility.md) — Distinction between nominal land documentation and a claim lenders accept as enforceable, transferable security.
 
 ## Syntheses

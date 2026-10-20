@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13613
+wiki_total_pages: 13618
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "ZijinMining"
     title: "Zijin Mining / 紫金矿业"
     url: "/wiki/entities/zijinmining/"
+  - key: "Zimbabwe"
+    title: "Zimbabwe"
+    url: "/wiki/entities/zimbabwe/"
   - key: "ZincPopcornBuckets"
     title: "Zinc (popcorn-bucket design)"
     url: "/wiki/entities/zincpopcornbuckets/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13613
+wiki_total_pages: 13618
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "LaurentFreixe"
     title: "Laurent Freixe / 菲奈瑞"
     url: "/wiki/entities/laurentfreixe/"
+  - key: "LaurentNunez"
+    title: "Laurent Nuñez"
+    url: "/wiki/entities/laurentnunez/"
   - key: "LaurieBarber"
     title: "Laurie Barber"
     url: "/wiki/entities/lauriebarber/"
@@ -956,6 +959,9 @@ wiki_pages:
   - key: "LoveFrom"
     title: "LoveFrom"
     url: "/wiki/entities/lovefrom/"
+  - key: "LovemoreChiwa"
+    title: "Lovemore Chiwa"
+    url: "/wiki/entities/lovemorechiwa/"
   - key: "LOVOT"
     title: "LOVOT"
     url: "/wiki/entities/lovot/"

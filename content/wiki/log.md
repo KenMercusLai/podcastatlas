@@ -37345,3 +37345,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-20] ingest | Disorder of magnitude: France’s riots
+
+Added source `disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c`; created [[Zimbabwe]], [[RobertMugabe]], [[EmmersonMnangagwa]], [[LovemoreChiwa]], [[LaurentNunez]], [[ContractFarmingCredit]], and [[LandTenureCollateralCredibility]]; and resynthesized [[JeanLucMelenchon]], [[SebastienLecornu]], [[MarineLePen]], and [[ProtestEscalationLoop]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: French school unrest escalated into a heterogeneous public-order crisis whose electoral effects may favor opposing extremes without making peaceful students responsible for looting; Zimbabwe's record tobacco harvest demonstrates the value of buyer-linked seasonal credit while unresolved compensation, claim priority, trust, and contract duration continue to block patient capital; and the AI sketch is satire about corporate risk communication, not evidence about a real company or model. No settled contradiction was adopted. Crowd composition, curfew effects, electoral benefit, harvest and farmer counts, partnership survival, title value, compensation, and investment outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,679 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
