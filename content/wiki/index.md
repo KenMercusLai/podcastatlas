@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031.md) — Tomorrow Today interview with Mahesh Keshwala on creator reinvention, audience segmentation, packaging, attention ethics, AI production, likeness consent, and synthetic-content feedback.
 - [185.复制市场，制造市场，成为市场：当 ETF 开始接管世界](sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty.md) — 起朱楼宴宾客从ETF机制与历史出发，区分宽基配置和专业化产品，并讨论主题发行时点、指数规则冲击、非弹性资金流与被动持有的治理集中。
 - [How easy is it to game AI search results?](sources/tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128.md) — Marketplace Tech interview with Shi Young-hoo on text and image attacks against AI-search ranking, cross-model transfer, fraud risk, compressed answer choices, and source-based verification.
 - [509 通往战时陪都之路：卢作孚建设重庆北碚往事](sources/509-tongwang-zhanshi-peidu-zhi-lu-luzuofu-jianshe-chongqing-beibei-wangshi-lresn7lo3olbhoolqz6cl09su-wj.md) — 以卢作孚和峡防局为中心，解释北碚如何整合治安、就业、煤矿、铁路、航运、教育与应用科学，并成为战时科教机构迁入的基础。
@@ -4773,6 +4774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Disorder of magnitude: France’s riots](sources/disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c.md) — The Intelligence on French unrest and electoral polarization, Zimbabwe's contract-financed but tenure-constrained agricultural recovery, and a satire of AI extinction fine print.
 
 ## Entities
+- [Mahesh Keshwala / Thugesh](entities/MaheshKeshwala.md) — Indian comedy-commentary creator and YouTuber whose career illustrates format reinvention, channel segmentation, platform attention tradeoffs, and AI production boundaries.
 - [Shi Young-hoo](entities/ShiYounghoo.md) — Arizona State University researcher explaining AI-search ranking manipulation, cross-model attack transfer, dual-use demotion, and source inspection.
 - [卢作孚 / Lu Zuofu](entities/LuZuofu.md) — 将治安、就业、工业、交通、教育、科研和地方建设联结起来的北碚现代化组织者。
 - [重庆北碚 / Beibei District](entities/BeibeiDistrict.md) — 战前地方现代化实验与战时科教机构迁入相衔接的重庆区域。
@@ -18468,6 +18470,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Laurent Nuñez](entities/LaurentNunez.md) — French interior minister who acknowledged loss of police control and offered to resign during the unrest.
 
 ## Concepts
+- [Creator Format Reinvention](concepts/CreatorFormatReinvention.md) — Creator-career strategy of preserving output while changing formats as audiences, platforms, and capabilities evolve.
+- [Creator Channel Audience Segmentation](concepts/CreatorChannelAudienceSegmentation.md) — Separation of unlike content when viewing intent, duration, and audience expectations make one channel promise unstable.
+- [Synthetic Content Training Feedback](concepts/SyntheticContentTrainingFeedback.md) — Risk that generated errors and low-quality media enter later training inputs and reinforce information or creative degradation.
 - [Specialized ETF Attention Cycle / 专业化ETF注意力周期](concepts/SpecializedETFAttentionCycle.md) — 主题热度、产品发行激励、指数方法与估值共同决定专业化ETF是否把一个产业故事转化为迟到且昂贵的暴露。
 - [Index Rule Market Impact / 指数规则市场影响](concepts/IndexRuleMarketImpact.md) — 当跟踪资金相对成分股流动性足够大时，指数纳入、权重、上限与调仓规则会从市场描述转为价格形成力量。
 - [Inelastic Market Flow Risk / 非弹性市场资金流风险](concepts/InelasticMarketFlowRisk.md) — 规则型资金的价格冲击取决于对手盘弹性，并随流动性、集中度、杠杆和赎回状态变化。

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3584
+topic_total_pages: 3586
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4537,6 +4537,9 @@ topic_concepts:
   - key: "SyntheticBiologyScreeningSafeguards"
     title: "Synthetic Biology Screening Safeguards"
     url: "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
+  - key: "SyntheticContentTrainingFeedback"
+    title: "Synthetic Content Training Feedback"
+    url: "/wiki/concepts/syntheticcontenttrainingfeedback/"
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"
@@ -10254,6 +10257,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295"
     title: "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295/"
+  - key: "default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031"
+    title: "Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031/"
   - key: "tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128"
     title: "Too much AI in the office is causing \"brain fry\""
     url: "/wiki/sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128/"

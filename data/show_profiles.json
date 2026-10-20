@@ -1186,14 +1186,14 @@
       "earliest_episode_date": "2026-08-25",
       "latest_episode_date": "2026-10-20",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_9c53915160dd67cf5b80e9045e0b34aa_117220031 [default.mp3_ywr3ahjkcgo_9c53915160dd67cf5b80e9045e0b34aa_117220031].md",
-      "source_note_count": 9,
-      "topic_matched_source_note_count": 6,
+      "source_note_count": 10,
+      "topic_matched_source_note_count": 7,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "culture",
@@ -1204,10 +1204,10 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "default.mp3_ywr3ahjkcgo_d629e40d43f8e7232dd0a0faf3a396e5_112242987 [default.mp3_ywr3ahjkcgo_d629e40d43f8e7232dd0a0faf3a396e5_112242987].md",
-        "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
         "default.mp3_ywr3ahjkcgo_9c53915160dd67cf5b80e9045e0b34aa_117220031 [default.mp3_ywr3ahjkcgo_9c53915160dd67cf5b80e9045e0b34aa_117220031].md",
-        "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md"
+        "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+        "default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981 [default.mp3_ywr3ahjkcgo_b318e4ceab011646c1e8d6daa46342bf_87870981].md",
+        "default.mp3_ywr3ahjkcgo_d629e40d43f8e7232dd0a0faf3a396e5_112242987 [default.mp3_ywr3ahjkcgo_d629e40d43f8e7232dd0a0faf3a396e5_112242987].md"
       ]
     },
     "What's Next｜科技早知道": {

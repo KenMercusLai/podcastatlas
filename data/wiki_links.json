@@ -23655,6 +23655,10 @@
     "title": "Creator Business Flywheel",
     "url": "/wiki/concepts/creatorbusinessflywheel/"
   },
+  "CreatorChannelAudienceSegmentation": {
+    "title": "Creator Channel Audience Segmentation",
+    "url": "/wiki/concepts/creatorchannelaudiencesegmentation/"
+  },
   "CreatorCulture": {
     "title": "Creator Culture",
     "url": "/wiki/concepts/creatorculture/"
@@ -23670,6 +23674,10 @@
   "CreatorFactCheckingResponsibility": {
     "title": "Creator Fact-Checking Responsibility / 创作者事实核查责任",
     "url": "/wiki/concepts/creatorfactcheckingresponsibility/"
+  },
+  "CreatorFormatReinvention": {
+    "title": "Creator Format Reinvention",
+    "url": "/wiki/concepts/creatorformatreinvention/"
   },
   "CreatorGiftingDemandManufacture": {
     "title": "Creator Gifting Demand Manufacture",
@@ -57519,6 +57527,10 @@
     "title": "Mahesh Balakrishnan",
     "url": "/wiki/entities/maheshbalakrishnan/"
   },
+  "MaheshKeshwala": {
+    "title": "Mahesh Keshwala / Thugesh",
+    "url": "/wiki/entities/maheshkeshwala/"
+  },
   "MahsaAlert": {
     "title": "Mahsa Alert",
     "url": "/wiki/entities/mahsaalert/"
@@ -85751,6 +85763,10 @@
     "title": "Synthetic Biology Screening Safeguards",
     "url": "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
   },
+  "SyntheticContentTrainingFeedback": {
+    "title": "Synthetic Content Training Feedback",
+    "url": "/wiki/concepts/syntheticcontenttrainingfeedback/"
+  },
   "SyntheticFlavorScalability": {
     "title": "Synthetic Flavor Scalability / 合成风味可规模化",
     "url": "/wiki/concepts/syntheticflavorscalability/"
@@ -103242,6 +103258,10 @@
   "default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914": {
     "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
+  },
+  "default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031": {
+    "title": "Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031/"
   },
   "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476": {
     "title": "Charles Ponzi's scheme (plus a new scam)",

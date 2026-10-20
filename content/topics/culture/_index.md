@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3547
+topic_total_pages: 3548
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -934,6 +934,9 @@ topic_concepts:
   - key: "CreatorFactCheckingResponsibility"
     title: "Creator Fact-Checking Responsibility / 创作者事实核查责任"
     url: "/wiki/concepts/creatorfactcheckingresponsibility/"
+  - key: "CreatorFormatReinvention"
+    title: "Creator Format Reinvention"
+    url: "/wiki/concepts/creatorformatreinvention/"
   - key: "CreatorIdentityTransition"
     title: "Creator Identity Transition / 创作者身份转型"
     url: "/wiki/concepts/creatoridentitytransition/"

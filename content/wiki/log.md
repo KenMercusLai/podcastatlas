@@ -37369,3 +37369,11 @@ Added source `vol-224-tuokouxiu-yanyuan-dapen-de-jiankangju-meiganjue-de-bing-ca
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031`; created [[MaheshKeshwala|Mahesh Keshwala / Thugesh]], [[CreatorFormatReinvention]], [[CreatorChannelAudienceSegmentation]], and [[SyntheticContentTrainingFeedback]]; and resynthesized [[TomorrowToday]], [[ShekharNatarajan]], [[ShortVideoTrafficLogic]], [[HumanExperienceContentPremium]], and [[AICreativeFloorCeilingGap]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: creator persistence can require retiring or separating formats rather than repeating them; short-form reach does not guarantee long-form retention; routine production tasks may be compressed before emotion-, structure-, and judgment-heavy work; visible human presence may become more valuable under avatar saturation; and synthetic material creates a contingent recursive training-data risk when provenance and curation fail. No settled contradiction was adopted. Career history, platform mechanics, audience demographics, attention effects, modeling-industry coercion, organized harassment, revenue and view counts, AI displacement, human-premium, and backlash forecasts remain first-person, conversational, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,682 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

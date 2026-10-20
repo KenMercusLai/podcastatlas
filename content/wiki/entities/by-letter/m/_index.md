@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13618
+wiki_total_pages: 13619
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "MaheshBalakrishnan"
     title: "Mahesh Balakrishnan"
     url: "/wiki/entities/maheshbalakrishnan/"
+  - key: "MaheshKeshwala"
+    title: "Mahesh Keshwala / Thugesh"
+    url: "/wiki/entities/maheshkeshwala/"
   - key: "MahsaAlert"
     title: "Mahsa Alert"
     url: "/wiki/entities/mahsaalert/"

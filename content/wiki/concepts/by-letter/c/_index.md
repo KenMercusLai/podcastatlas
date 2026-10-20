@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10684
+wiki_total_pages: 10687
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2819,6 +2819,9 @@ wiki_pages:
   - key: "CreatorBusinessFlywheel"
     title: "Creator Business Flywheel"
     url: "/wiki/concepts/creatorbusinessflywheel/"
+  - key: "CreatorChannelAudienceSegmentation"
+    title: "Creator Channel Audience Segmentation"
+    url: "/wiki/concepts/creatorchannelaudiencesegmentation/"
   - key: "CreatorCulture"
     title: "Creator Culture"
     url: "/wiki/concepts/creatorculture/"
@@ -2828,6 +2831,9 @@ wiki_pages:
   - key: "CreatorFactCheckingResponsibility"
     title: "Creator Fact-Checking Responsibility / 创作者事实核查责任"
     url: "/wiki/concepts/creatorfactcheckingresponsibility/"
+  - key: "CreatorFormatReinvention"
+    title: "Creator Format Reinvention"
+    url: "/wiki/concepts/creatorformatreinvention/"
   - key: "CreatorGiftingDemandManufacture"
     title: "Creator Gifting Demand Manufacture"
     url: "/wiki/concepts/creatorgiftingdemandmanufacture/"

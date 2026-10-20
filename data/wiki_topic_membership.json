@@ -27791,6 +27791,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CreatorFormatReinvention": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CreatorGiftingDemandManufacture": [
     {
       "key": "technology",
@@ -86283,6 +86290,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SyntheticContentTrainingFeedback": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SyntheticHappiness": [
     {
       "key": "science",
@@ -102784,6 +102798,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031": [
     {
       "key": "technology",
       "label": "Technology",
