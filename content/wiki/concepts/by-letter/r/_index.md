@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10662
+wiki_total_pages: 10663
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "RealTimeOperationalAnalytics"
     title: "Real-Time Operational Analytics"
     url: "/wiki/concepts/realtimeoperationalanalytics/"
+  - key: "RealWorldAIValidationLatency"
+    title: "Real-World AI Validation Latency"
+    url: "/wiki/concepts/realworldaivalidationlatency/"
   - key: "RealWorldConnectionProducts"
     title: "Real-World Connection Products"
     url: "/wiki/concepts/realworldconnectionproducts/"

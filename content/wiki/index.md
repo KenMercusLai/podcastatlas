@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700.md) — 硅谷101以Astra比较个人Agent、机器人和AI制药，指出平台访问、快慢控制、湿实验与临床验证决定模型能力进入现实世界的速度。
 - [Vol.357 永结无情游：实验班的同学们，你们过得怎么样](sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o.md) — 文化有限以周佳宁《永结无情游》连接实验班承诺、成年友谊离散、非线性记忆、科研耗损与不同社会位置对共同过去的重述。
 - [vol.57 对谈李荣浩：该放下就放下 该不要就不要](sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5.md) — 天真不天真对谈李荣浩，以真实经验、编曲与混音的关系判断、减法式聚焦、延迟走红、现场合唱及AI音乐的功能边界连接创作与音乐工业。
 - [Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity](sources/audio-200-dylan-field-int-1-audio-200-dylan-field-int-1.md) — All-In interview on Figma, the failed Adobe acquisition, model versus product progress, design-led software differentiation, and AI's lower creative floor but unchanged ceiling.
@@ -18446,6 +18447,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Rand](entities/DavidRand.md) — Cornell researcher discussing a purpose-built chatbot experiment that shifted some 2024 presidential preferences in both directions.
 
 ## Concepts
+- [Real-World AI Validation Latency](concepts/RealWorldAIValidationLatency.md) — Gap between fast model output and slower platform, physical, experimental, clinical, and adoption feedback loops.
 - [Educational Selection Promise Gap / 教育选拔承诺落差](concepts/EducationalSelectionPromiseGap.md) — 区分考试筛选与高级教学的真实价值，以及它们无法保证成年成功、适应或幸福的边界。
 - [Relational Music Production / 关系式音乐制作](concepts/RelationalMusicProduction.md) — 以克制、遮蔽、频率、空间和多设备权衡处理乐器与声音之间关系的编曲混音框架。
 - [Creative Focus by Subtraction / 减法式创作聚焦](concepts/CreativeFocusBySubtraction.md) — 通过拒绝低价值项目和义务，为少数重要实践保留深度注意力并接受选择机会成本。

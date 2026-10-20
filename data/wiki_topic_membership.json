@@ -74955,6 +74955,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RealWorldAIValidationLatency": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RealityApathy": [
     {
       "key": "politics",
@@ -103097,6 +103104,13 @@
     }
   ],
   "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700": [
     {
       "key": "technology",
       "label": "Technology",

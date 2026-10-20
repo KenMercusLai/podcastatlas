@@ -2,25 +2,48 @@
 title: "Human As Agent Tool / 人作为 AI 工具"
 type: concept
 tags: [ai, agents, workflow, human-agent-collaboration]
-sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]
-last_updated: 2026-08-08
+sources:
+  - ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx
+  - e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700
+last_updated: 2026-10-20
+knowledge_schema: synthesis-v1
 ---
-
 # Human As Agent Tool / 人作为 AI 工具
 
-Human as agent tool is the workflow pattern [[LiuKefan|刘可凡]] describes in [[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] when he says the direction may move from "people use AI" toward "AI uses people." In his small experiment, he built an MCP server and connected it to [[ClaudeCode]] so the model could call on a human to perform small real-world actions, like opening a short-video app or finding a podcast, in the same broad pattern as tool calling.
+## Definition
+Human as agent tool is a workflow in which an AI system delegates narrow real-world perception or action to a person when software, sensors, robotics, or APIs cannot complete the task directly.
 
-The concept is not a settled claim that AI should command people. In the source, it is a low-cost experiment inside a concrete business workflow: can an agent coordinate enough small human perception or action to improve efficiency? That keeps the idea connected to [[AgenticWorkflow]], [[ModelContextProtocol]], and [[HumanAgentCollaboration]], while preserving [[HumanJudgmentUnderAI]] around permission, interest alignment, and task boundaries.
+## Current Synthesis
+The first source presents a small MCP experiment: an agent asks a person to open an app or find a podcast as if calling an external tool. Episode 256 extends the pattern into “Human Use” for science, where a model specifies temperatures, materials, storage, dose schedules, or other experimental instructions and laboratory personnel execute them.
+
+The useful abstraction is not unrestricted AI command over people. Human execution can bridge digital planning and physical reality, but humans are not interchangeable APIs: they require consent, domain competence, safety authority, clear instructions, fair incentives, escalation paths, and the ability to refuse. In high-stakes experiments, expert revision and responsibility remain part of the workflow rather than evidence that the person is a passive actuator.
 
 ## Key Claims
-- Some useful agent workflows may need human hands, eyes, accounts, or local judgment when no clean API is available.
-- Treating the human as callable capability can increase efficiency, but it also raises permission, incentive, dignity, and responsibility questions.
-- The pattern is strongest when the human action is narrow, reversible, and reviewed rather than open-ended obedience.
-- A human-callable workflow should expose boundaries, expected output, and escalation rules just as ordinary tools should expose permissions and errors.
-- The source frames the idea as an experiment to validate workflow efficiency, not as proof that a broad AI-led organization model has already arrived.
+- Humans can provide hands, eyes, accounts, situated judgment, and physical access when no suitable software interface exists.
+- AI-generated instructions must be specific enough to execute and verify under real-world conditions.
+- The pattern is strongest for narrow, bounded, reviewable actions with explicit stop and escalation rules.
+- Scientific “Human Use” requires trained personnel to adapt protocols to actual equipment, materials, safety rules, and anomalous results.
+- Permission, incentives, dignity, responsibility, and refusal rights distinguish human delegation from ordinary tool calling.
 
-## Connections
-- [[LiuKefan]] - source person and experimenter.
-- [[ClaudeCode]], [[ModelContextProtocol]], [[AgenticWorkflow]], and [[AgentFacingInterfaces]] - infrastructure and interface context.
-- [[HumanAgentCollaboration]], [[AgentPermissionBoundaries]], and [[HumanJudgmentUnderAI]] - governance and responsibility boundaries.
-- [[AIAsBusinessOperator]] and [[OnePersonCompany]] - business-operator contexts where small human-agent loops may matter.
+## Evidence
+### Small external actions
+- [[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] describes an MCP server through which Claude Code can request small outside-world actions from a person.
+
+### Laboratory execution
+- [[e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700]] describes models generating experimental instructions for technicians while estimating that current protocols still require substantial expert modification.
+
+## Counterevidence & Qualifications
+The sources describe experiments and proposed workflows, not evidence that broad AI-led organizations or autonomous laboratories are already reliable. Human intervention can hide model weakness, create undisclosed labor, or transfer liability to the person performing the action. In biomedical settings, an apparently precise instruction can still be unsafe or invalid if it ignores equipment, materials, training, regulation, or local conditions.
+
+## What Changed
+- Migrated the page to synthesis-v1 from its complete preserved evidence inventory.
+- Extended the concept from small platform actions to AI-directed laboratory work.
+- Made expertise, safety authority, refusal, and adaptation explicit boundaries on treating people as callable tools.
+
+## Related Concepts
+- [[HumanAgentCollaboration]] - broader cooperative relationship between people and agents.
+- [[ModelContextProtocol]] - interface relationship in the first source's human-call mechanism.
+- [[AgentPermissionBoundaries]] - authority relationship for delegated action.
+- [[HumanJudgmentUnderAI]] - responsibility relationship preserving human review and interests.
+- [[AIClinicalValidationInDrugDiscovery]] - laboratory and clinical context where human execution remains necessary.
+- [[RealWorldAIValidationLatency]] - feedback relationship between digital plans and physical results.

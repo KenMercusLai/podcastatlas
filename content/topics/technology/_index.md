@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3575
+topic_total_pages: 3577
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3967,6 +3967,9 @@ topic_concepts:
   - key: "RealTimeMonetaryPolicyData"
     title: "Real-Time Monetary Policy Data"
     url: "/wiki/concepts/realtimemonetarypolicydata/"
+  - key: "RealWorldAIValidationLatency"
+    title: "Real-World AI Validation Latency"
+    url: "/wiki/concepts/realworldaivalidationlatency/"
   - key: "RecordedMeetingAnalysis"
     title: "Recorded Meeting Analysis"
     url: "/wiki/concepts/recordedmeetinganalysis/"
@@ -9576,6 +9579,9 @@ topic_sources:
   - key: "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50"
     title: "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔"
     url: "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"
+  - key: "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700"
+    title: "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？"
+    url: "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
   - key: "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0"
     title: "E42 孟岩对话韦青：沉默的主角"
     url: "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"

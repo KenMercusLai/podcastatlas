@@ -1634,9 +1634,9 @@
       "url": "/wiki/concepts/aiclientgrowthretentionagent/"
     },
     "AIClinicalValidationInDrugDiscovery": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位 [lmhral0RMq6tohiQdwsGmFapnyN7].md",
@@ -1665,9 +1665,16 @@
           "show": "Data Science With Sam",
           "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
           "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
     },
     "AICodingMarketConcentration": {
@@ -43732,9 +43739,9 @@
       "url": "/wiki/entities/chaseaboutraid/"
     },
     "ChatGPT6Astra": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
@@ -43770,9 +43777,16 @@
           "show": "晚点聊 LateTalk",
           "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
           "url": "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-20",
       "url": "/wiki/entities/chatgpt6astra/"
     },
     "Chatham": {
@@ -131870,6 +131884,29 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/humanagentcollaboration/"
     },
+    "HumanAsAgentTool": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛 [ludjc3AB_JBwpCI6TPAAjTFfsBLx].md",
+          "key": "ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx",
+          "show": "硬地骇客",
+          "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+          "url": "/wiki/sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/humanasagenttool/"
+    },
     "HumanAuthorizedAutonomousWeapons": {
       "episode_count": 3,
       "show_count": 1,
@@ -158583,9 +158620,9 @@
       "url": "/wiki/concepts/layeredrespiratoryinfectionprevention/"
     },
     "LayeredRobotArchitecture": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
@@ -158607,9 +158644,16 @@
           "show": "晚点聊 LateTalk",
           "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
           "url": "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/layeredrobotarchitecture/"
     },
     "LayneNorton": {
@@ -163340,9 +163384,9 @@
       "url": "/wiki/entities/lienuzhuan/"
     },
     "LifeScienceDataInformationValue": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
@@ -163350,9 +163394,16 @@
           "show": "What's Next｜科技早知道",
           "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
           "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/lifesciencedatainformationvalue/"
     },
     "LifeStageDependentRereading": {
@@ -170524,6 +170575,57 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/localaiworkstation/"
+    },
+    "LocalAgentExecution": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会 [lk6BZKdxTI47vEHjVS9sGxOtRvTo].md",
+          "key": "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto",
+          "show": "十字路口Crossing",
+          "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
+          "url": "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"
+        },
+        {
+          "episode_file": "这半年，我们又买了哪些科技好物？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [这半年，我们又买了哪些科技好物？-1].md",
+          "key": "zhe-bannian-women-you-maile-naxie-keji-haowu-1",
+          "show": "科技乱炖",
+          "title": "这半年，我们又买了哪些科技好物？",
+          "url": "/wiki/sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1/"
+        },
+        {
+          "episode_file": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当可靠的代码变成了偶尔发疯的openclaw，我们未来的工-1].md",
+          "key": "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian",
+          "show": "科技乱炖",
+          "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
+          "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/localagentexecution/"
     },
     "LocalAuspiciousOmenFabrication": {
       "episode_count": 2,
@@ -216504,9 +216606,9 @@
       "url": "/wiki/concepts/platformageestimation/"
     },
     "PlatformAgentAccessConflict": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
@@ -216535,9 +216637,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/platformagentaccessconflict/"
     },
     "PlatformAntitrust": {
@@ -230611,6 +230720,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/realtimemonetarypolicydata/"
     },
+    "RealWorldAIValidationLatency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
+        }
+      ],
+      "updated": "2026-10-20",
+      "url": "/wiki/concepts/realworldaivalidationlatency/"
+    },
     "RealWorldAssetTokenizationRisk": {
       "episode_count": 3,
       "show_count": 3,
@@ -238503,9 +238628,9 @@
       "url": "/wiki/concepts/robotnavigationinfrastructure/"
     },
     "RobotResponseLatency": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "658f592c4a52 [658f592c4a52].md",
@@ -238513,9 +238638,16 @@
           "show": "科技乱炖",
           "title": "当机器人学会认路，物理世界才真正接上了 AI",
           "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+        },
+        {
+          "episode_file": "9e6e1db1-f30b-492d-8a09-d8756b9df700 [9e6e1db1-f30b-492d-8a09-d8756b9df700].md",
+          "key": "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "show": "硅谷101",
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-20",
       "url": "/wiki/concepts/robotresponselatency/"
     },
     "RobotScalingClaimCaution": {
