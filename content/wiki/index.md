@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [716. King Arthur: The Truth Behind the Legend (Part 4)](sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589.md) — The Rest Is History weighs the disputed early texts, name evidence, archaeology, and failed identifications behind an agnostic verdict on Arthur's historicity.
 - [史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善](sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia.md) — 四封来信以依恋安全串联创伤、年龄焦虑、有毒关系与职业自卑，并讨论尊严、识恶、主动择善和自我归属。
 - [誰的身體值得先被研究？遲到的陰蒂史](sources/af3491ca3aca3a270aadb44a7f572e93-af3491ca3aca3a270aadb44a7f572e93.md) — 端聞以陰蒂三維神經圖回顧解剖知識的失落與遲滯，並連結男性默認醫學、生殖中心性教育、手術風險和女性性愉悅的研究正當性。
 - [No.223 “莆田系”医事：从电线杆到手术台](sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox.md) — 半拿铁 history of Putian-linked medical businesses, acquisition incentives, patient harm, regulatory gaps, and difficult institutional transition.

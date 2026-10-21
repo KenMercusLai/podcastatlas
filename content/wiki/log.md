@@ -37455,3 +37455,11 @@ Added source `shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhud
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | 716. King Arthur: The Truth Behind the Legend (Part 4)
+
+Added source `716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589`; resynthesized [[KingArthur|King Arthur]], [[ArthurianLegendAccretion]], and [[ArthurianPoliticalLegitimation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Gildas's silence, the *Historia Brittonum* battle list, disputed marvel and *Y Gododdin* layers, the Camlann annal, personal-name evidence, and post-Roman archaeology permit several reconstructions but do not identify a historical Arthur; later coherence and failed identifications must not be projected backward. Tudor, Victorian, and Churchillian uses show that symbolic and political force can grow independently of historical confidence. No settled contradiction was adopted. Text dates, manuscript layers, *dux bellorum*, battle locations, the climatic correspondence, name distribution, Cadbury's occupant, and proposed Roman, Sarmatian, divine, or imperial identities remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,693 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

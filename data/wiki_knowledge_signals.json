@@ -21110,9 +21110,9 @@
       "url": "/wiki/entities/arthursmithwoodward/"
     },
     "ArthurianLegendAccretion": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -21141,15 +21141,22 @@
           "show": "The Rest Is History",
           "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
           "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
+        },
+        {
+          "episode_file": "GLT5811752589 [GLT5811752589].md",
+          "key": "716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589",
+          "show": "The Rest Is History",
+          "title": "716. King Arthur: The Truth Behind the Legend (Part 4)",
+          "url": "/wiki/sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/arthurianlegendaccretion/"
     },
     "ArthurianPoliticalLegitimation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -21171,9 +21178,16 @@
           "show": "The Rest Is History",
           "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
           "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
+        },
+        {
+          "episode_file": "GLT5811752589 [GLT5811752589].md",
+          "key": "716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589",
+          "show": "The Rest Is History",
+          "title": "716. King Arthur: The Truth Behind the Legend (Part 4)",
+          "url": "/wiki/sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/arthurianpoliticallegitimation/"
     },
     "ArticlesOfConfederation": {
@@ -155586,9 +155600,9 @@
       "url": "/wiki/entities/kinderhymne/"
     },
     "KingArthur": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1076701162 [GLT1076701162].md",
@@ -155617,9 +155631,16 @@
           "show": "The Rest Is History",
           "title": "715. King Arthur: The Mysteries of Merlin (Part 3)",
           "url": "/wiki/sources/715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872/"
+        },
+        {
+          "episode_file": "GLT5811752589 [GLT5811752589].md",
+          "key": "716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589",
+          "show": "The Rest Is History",
+          "title": "716. King Arthur: The Truth Behind the Legend (Part 4)",
+          "url": "/wiki/sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/kingarthur/"
     },
     "KingFaisal": {

@@ -7,7 +7,8 @@ sources:
   - 713-king-arthur-the-once-future-king-part-1-glt2516166521
   - 714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632
   - 715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872
-last_updated: 2026-10-19
+  - 716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,9 @@ Arthurian legend accretion is the layered process through which sparse and dispu
 
 [[19-king-arthur-glt1076701162]] treats the cycle as cumulative rather than as a faithful biography that merely acquired ornament. [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] sharpens the ending's sequence: a terse Welsh notice pairs Arthur and Medraut at Camlann; [[GeoffreyOfMonmouth|Geoffrey of Monmouth]] turns that trace into regency, betrayal, a Cornish battle, and an unresolved voyage to Avalon; [[ThomasMalory|Thomas Malory]] adds the lost scabbard, failed truce, Excalibur's return, mysterious barge, and a civil-war tragedy legible in fifteenth-century England.
 
-[[715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872]] sharpens the beginning and the Merlin layer. Gildas and Bede preserve Vortigern, Saxon settlement, Ambrosius Aurelianus, and Badon without naming Arthur; the later *Historia Brittonum* first names Arthur as a battle leader and assigns Vortigern's dragons to a youthful Ambrosius. Geoffrey then joins that boy to the Welsh wild prophet Myrddin as [[Merlin]], separates him from Ambrosius Aurelianus, and embeds Tintagel, Stonehenge, prophecy, conquest, and Avalon in a historical-seeming national sequence.
+[[715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872]] sharpens the beginning and the Merlin layer. Gildas and Bede preserve Vortigern, Saxon settlement, Ambrosius Aurelianus, and Badon without naming Arthur; the later *Historia Brittonum* first names Arthur as a battle leader and assigns Vortigern's dragons to a youthful Ambrosius. [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] then shows why even this early-looking sequence remains unstable: the twelve battles may combine separate poetic materials, the marvels and *Y Gododdin* reference have contested textual dates, the Camlann annal is suggestive but late, and a sixth- and seventh-century personal-name pattern reveals prestige without identifying its source.
+
+Geoffrey joins the prophetic boy to the Welsh wild prophet Myrddin as [[Merlin]], separates him from Ambrosius Aurelianus, and embeds Tintagel, Stonehenge, prophecy, conquest, and Avalon in a historical-seeming national sequence. Part 4 adds a methodological boundary: accretion can begin around a real person, a composite, a prestigious name, or a fictional hero, and later coherence cannot determine which starting point applies. Cadbury's real post-Roman power, for example, supplies a plausible world for a warlord without supplying Arthur's identity.
 
 [[714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632]] fills the courtly middle. Wace supplies the earliest Round Table discussed, while [[ChretienDeTroyes|Chrétien de Troyes]] combines inherited Arthur, Guinevere, Kay, Gawain, and an abduction pattern with [[Lancelot]], Camelot's fashionable court, tournament adventure, and troubadour love. Later Grail writers answer Lancelot with [[Galahad]], and Malory makes divided love a cause of the fellowship's collapse.
 
@@ -30,7 +33,7 @@ Tintagel, Glastonbury, relic claims, Caxton's printing, and modern retellings gi
 ## Key Claims
 
 - The Arthurian cycle has no single recoverable moment at which all familiar elements already exist.
-- Silence, late manuscripts, and retrospective battle lists create historical uncertainty rather than a simple proof or disproof.
+- Silence, late manuscripts, retrospective battle lists, name popularity, archaeological plausibility, and contextual matches can support uncertainty or inherited tradition without identifying a historical core.
 - Geoffrey converts fragmentary tradition into continuous national and imperial history, including a Merlin assembled from Myrddin, Ambrosius, prophecy, dragons, counsel, and Arthurian dynastic narrative.
 - Wace and Chrétien turn the court into a fellowship and romance setting shaped by twelfth-century aristocratic concerns.
 - Malory converts inherited ending traditions into a political and supernatural tragedy of betrayal, mortality, collapse, and possible return.
@@ -44,6 +47,8 @@ Tintagel, Glastonbury, relic claims, Caxton's printing, and modern retellings gi
 - [[19-king-arthur-glt1076701162]] contrasts Gildas's Badon account without Arthur, later Welsh references, Nennius's battle list, and silence in Bede and the *Anglo-Saxon Chronicle*.
 - [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] shows that the *Annales Cambriae* Camlann entry supplies names and a fall tradition without the later plot's relationships, motives, victor, or location.
 - [[715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872]] places Gildas and Bede's silence before the *Historia Brittonum* battle list and distinguishes Badon's early attestation from its later attachment to Arthur and Bath.
+- [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] tests the *Historia Brittonum*, marvels, *Y Gododdin*, Camlann annal, personal names, and Cadbury archaeology as differently limited evidence rather than one cumulative biography.
+- [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] rejects Riothamus, Lucius Artorius Castus, Sarmatian, deity, and last-Roman identifications as narratives built from insufficient similarities.
 
 ### Pseudo-historical synthesis
 
@@ -73,16 +78,17 @@ Tintagel, Glastonbury, relic claims, Caxton's printing, and modern retellings gi
 ### Modern selection
 
 - [[19-king-arthur-glt1076701162]] compares morally reflective, historically grounded, comic, and fantasy afterlives including T. H. White, Rosemary Sutcliff, Bernard Cornwell, *Monty Python*, *The Lord of the Rings*, and *Star Wars*.
+- [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] shows Victorian, Churchillian, archaeological, mythological, and historical-fiction models selecting different Arthurs from the accumulated tradition.
 
 ## Counterevidence & Qualifications
 
-The sources are broad conversations, not a textual stemma or archaeological survey. A late witness may preserve older oral material, while a real post-Roman center at Tintagel does not establish Arthur's presence. Silence in Gildas is significant but not proof of nonexistence. The *Historia Brittonum*'s dating and authorship, Camlann's date and location, Geoffrey's source debts and Merlin synthesis, Wace's invention of the Round Table, Chrétien's invention of Lancelot or Camelot, direct influence on real chivalry, Malory's identity and motives, and Caxton's role require fuller specialist evidence. “Accretion” should not flatten differences among Welsh prophecy and poetry, Latin history and pseudo-history, French romance, Malory's English compilation, political ritual, and modern media.
+The sources are broad conversations, not a textual stemma or archaeological survey. A late witness may preserve older oral material, while a real post-Roman center at Tintagel or Cadbury does not establish Arthur's presence. Silence in Gildas is significant but not proof of nonexistence; name popularity and a climatic correspondence are clues, not identities. The *Historia Brittonum*'s dating, authorship, title, and source layers; the relevant *Y Gododdin* lines; Camlann's annal, date, and location; Geoffrey's debts and Merlin synthesis; Wace's Round Table; Chrétien's Lancelot or Camelot; Malory's identity and motives; and Caxton's role require fuller specialist evidence. “Accretion” should not flatten differences among Welsh prophecy and poetry, Latin history and pseudo-history, French romance, Malory's English compilation, political ritual, archaeology, and modern media.
 
 ## What Changed
 
-- Added the early-evidence sequence from Gildas and Bede through the *Historia Brittonum* to Geoffrey.
-- Identified Merlin as a composite accretion of Myrddin, Ambrosius, dragons, prophecy, and Arthurian counsel.
-- Added claimed translation and mixed medieval reception to Geoffrey's authority mechanism.
+- Distinguished evidence that an Arthur tradition existed from evidence identifying a historical Arthur.
+- Added personal names, the Camlann climate context, and Cadbury archaeology as plausible-world clues rather than biography.
+- Added failed historical identifications as examples of premature narrative closure.
 
 ## Related Concepts
 

@@ -7,7 +7,8 @@ sources:
   - 713-king-arthur-the-once-future-king-part-1-glt2516166521
   - 714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632
   - 715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872
-last_updated: 2026-10-19
+  - 716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,14 +20,16 @@ King Arthur is an uncertain post-Roman British hero transformed by Welsh traditi
 
 ## Current Profile
 
-The sources do not resolve Arthur's historicity. [[19-king-arthur-glt1076701162]] contrasts Gildas's silence with later battle lists and Welsh references; [[715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872]] makes the sequence explicit by placing the nearest account, Gildas, beside the ninth-century *Historia Brittonum*, the earliest surviving text discussed that names Arthur and calls him a battle leader. [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] adds the still later *Annales Cambriae* notice that Arthur and Medraut fell at Camlann in 537, but the entry does not identify their relationship, the victor, the battlefield, or the event behind the tradition. Together they support skepticism about a recoverable biography without proving that every layer lacks an earlier oral or historical basis.
+The sources do not resolve Arthur's historicity. [[19-king-arthur-glt1076701162]] contrasts Gildas's silence with later battle lists and Welsh references; [[715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872]] places the nearer account, Gildas, beside the ninth-century *Historia Brittonum*, the earliest surviving text discussed that names Arthur and calls him *dux bellorum*. [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] deepens the evidential problem: Badon is independently attested but not attached to Arthur by Gildas; the twelve-battle list may compile separate poetic traditions; and the Arthurian material in the marvels, *Y Gododdin*, and *Annales Cambriae* depends on disputed dates, manuscript layers, and transmission.
+
+The new source also strengthens the limited case for agnosticism rather than belief. [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] shows how little the Camlann notice establishes beyond paired names and a fall tradition, while Part 4 adds the sixth- and seventh-century popularity of Arthur as a personal name and a possible climatic context for the annal's “great dying.” These clues may indicate inherited prestige or memory, but they cannot identify an individual. Cadbury Castle establishes a powerful post-Roman center, not Arthur; proposed identifications with Riothamus, Lucius Artorius Castus, Sarmatian cavalry, a Celtic deity, or a last Roman commander exceed the evidence.
 
 The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmouth]] expanded Tintagel, Excalibur, continental conquest, Mordred's betrayal, Camlann, and Avalon into a connected pseudo-history; the new episode stresses that this expansion was presented and widely received as history despite contemporary skepticism. [[714-king-arthur-lancelot-and-the-round-table-part-2-glt6459272632]] adds a courtly stage in which Wace's [[RoundTableFellowship|Round Table]] symbolizes knightly peerhood and [[ChretienDeTroyes|Chrétien de Troyes]] projects twelfth-century romance, tournament, and aristocratic love onto Camelot. [[ThomasMalory|Thomas Malory's]] [[LeMorteDarthur|Le Morte Darthur]] then makes [[Lancelot]] and [[Guinevere]]'s divided loyalty, Excalibur's return, civil-war collapse, and possible recovery parts of an influential English ending. [[ArthurianPoliticalLegitimation]] let Welsh return hopes, Glastonbury's alleged grave, conquest claims, and English all-Britain monarchy compete over whether Arthur was dead, available, or politically inheritable.
 
 ## Key Characteristics
 
 - Historically uncertain figure absent by name from major near-contemporary narratives emphasized by the source.
-- Possible composite or folkloric hero attached retrospectively to Badon and resistance to Saxon expansion.
+- Possible remembered, composite, or folkloric hero attached retrospectively to Badon, within a record whose dates, layers, silences, names, and archaeology permit incompatible reconstructions.
 - Welsh and wider Brittonic culture hero associated with lost sovereignty and promised return.
 - Medieval universal king reshaped decisively by Geoffrey of Monmouth and later romance.
 - Center of a flexible story system joining kingship, fellowship, sacred objects, love, betrayal, civil war, and possible restoration.
@@ -40,6 +43,8 @@ The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmo
 - [[19-king-arthur-glt1076701162]] contrasts Gildas's silence about Arthur with later Welsh material and Nennius's twelve-battle tradition.
 - [[715-king-arthur-the-mysteries-of-merlin-part-3-glt4769841872]] distinguishes Gildas and Bede's Arthur-less accounts from the much later *Historia Brittonum*, which first names Arthur as a battle leader and ends its twelve victories at Badon.
 - [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] shows how little the Camlann notice establishes beyond the paired names and fall tradition.
+- [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] adds the uncertain *dux bellorum* title, the possibly composite twelve-battle list, disputed marvel and *Y Gododdin* layers, the personal-name pattern, and the annal's possible climatic context.
+- [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] treats Cadbury Castle as evidence for post-Roman elite power while rejecting its use as an identification of Arthur.
 
 ### Medieval transformation
 
@@ -57,15 +62,17 @@ The firmer profile is Arthur's afterlife. [[GeoffreyOfMonmouth|Geoffrey of Monmo
 
 - [[19-king-arthur-glt1076701162]] explains Arthur's appeal through hidden royal identity, Camelot's lost golden age, and possible return.
 - [[713-king-arthur-the-once-future-king-part-1-glt2516166521]] shows how Malory sustains that return by refusing to choose decisively among death, healing at Avalon, and future restoration.
+- [[716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589]] follows Arthur's reuse through Tudor legitimacy, Victorian chivalry, Churchillian resistance, and historically grounded fiction.
 
 ## Qualifications
 
-These sources are popular-history discussions, not a complete assessment of early British archaeology, linguistics, manuscripts, or Arthurian literature. A missing name in Gildas is significant but not dispositive; the much later *Historia Brittonum* battle list and *Annales Cambriae* notice do not authenticate Geoffrey or later romance. The authorship and dating of early texts, Badon, Camlann, Glastonbury's bones, Geoffrey's models, Wace's and Chrétien's degrees of invention, Malory's source use, royal motives, and motif transmission remain disputed or source-scoped. Fictional fellowship does not demonstrate social equality at medieval courts.
+These sources are popular-history discussions, not a complete assessment of early British archaeology, linguistics, manuscripts, climate history, or Arthurian literature. Gildas's silence is significant but not dispositive; a late witness may preserve older material, while a name pattern or contextual match does not authenticate a biography. The *Historia Brittonum*'s authorship, date, title language, and battle sources; the age of the marvels and *Y Gododdin* lines; Camlann's annal and climatic setting; and every proposed historical identification remain disputed or source-scoped. The later *Historia Brittonum* and *Annales Cambriae* do not authenticate Geoffrey or romance, Cadbury's archaeology does not name its ruler, and fictional fellowship does not demonstrate social equality at medieval courts.
 
 ## What Changed
 
-- Sharpened the source chronology from Gildas and Bede's silence through the *Historia Brittonum* battle leader to Geoffrey's expansive pseudo-history.
-- Added Geoffrey's Tintagel, conquest, and Merlin-enabled dynastic layers to the current profile.
+- Replaced a broad possible-composite formulation with explicit agnosticism among remembered, composite, and invented origins.
+- Added personal-name evidence and the Camlann annal's possible climatic context as suggestive but non-identifying clues.
+- Added the rejection of confident archaeological, Roman-officer, Sarmatian, divine, and imperial identifications.
 
 ## Relationships
 

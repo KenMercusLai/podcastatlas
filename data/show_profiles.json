@@ -953,14 +953,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-10-21",
       "latest_episode_file": "GLT5811752589 [GLT5811752589].md",
-      "source_note_count": 731,
-      "topic_matched_source_note_count": 688,
+      "source_note_count": 732,
+      "topic_matched_source_note_count": 689,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 677
+          "source_note_count": 678
         },
         {
           "key": "culture",
@@ -1040,7 +1040,7 @@
         }
       ],
       "start_here_episode_files": [
-        "GLT4769841872 [GLT4769841872].md",
+        "GLT5811752589 [GLT5811752589].md",
         "GLT2882541084 [GLT2882541084].md",
         "GLT6013835340 [GLT6013835340].md",
         "GLT9598017819 [GLT9598017819].md"
