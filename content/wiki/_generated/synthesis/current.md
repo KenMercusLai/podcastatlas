@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-18
-as_of_overview_commit: cebd9af34ef032500afcdd3b2539beda49d12be8
+last_updated: 2026-10-21
+as_of_overview_commit: 5a0ba9194cf6bd152bf5d222fa2141e3e8b10d8c
 summary: "Across domains, durable value depends on evidence, implementation, institutional capacity, human judgment, accountability, context, relationships, and explicit limits."
-episode_count: 4674
-source_count: 4674
+episode_count: 4685
+source_count: 4685
 paragraph_count: 804
 topic_count: 9
 ---
@@ -68,7 +68,7 @@ Historical power depends on legitimacy, logistics, finance, coalitions, command,
 
 ### Psychology and Personal Development
 
-Contextual judgment keeps function above labels and static rankings, regulation responsive to bodily and relational state, trust bounded by responsibility, and narrative examples distinct from diagnosis.
+Contextual judgment keeps function above labels and rankings, regulation responsive to bodily and relational state, and trust bounded by responsibility.
 
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]]. Evidence: [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ClinicalBehaviorChangeRedFlags]], [[ChildMentalHealthFamilySystemsSupport]], [[DreamDistressAndParasomniaEscalation]].
 - Regulation and self-trust emerge through a combined repertoire of body awareness, movement, emotional differentiation, cognitive reappraisal, grounding, environmental adjustment, and safe co-regulation rather than through willpower or insight alone, linking [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], and [[BrainBodyEmotionMapping]]. Evidence: [[EmotionRegulationToolkit]], [[BodyBasedSelfTrust]], [[BrainBodyEmotionMapping]], [[EmotionalGranularity]], [[EmotionalFlashbackGrounding]], [[MovementPracticeAsAwareness]], [[StressResponseRecovery]].

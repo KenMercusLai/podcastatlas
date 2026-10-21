@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](sources/155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii.md) — 张小珺Jùn访谈科沃斯CEO钱程，以电商与海外历练、接任CEO后的组织错配、家族企业传承、全球化和家务机器人节奏讨论接班如何转化为持续创造。
 - [欧洲青旅一边关店一边扩张，这门生意发生了什么改变？](sources/gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y.md) — 声动早咖啡以欧洲连锁青旅说明混合房型、餐饮娱乐、客群扩展、办公楼改造、机构资本与直营预订如何把廉价床位重构为“住宿＋社交＋消费”。
 - [Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031.md) — Tomorrow Today interview with Mahesh Keshwala on creator reinvention, audience segmentation, packaging, attention ethics, AI production, likeness consent, and synthetic-content feedback.
 - [185.复制市场，制造市场，成为市场：当 ETF 开始接管世界](sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty.md) — 起朱楼宴宾客从ETF机制与历史出发，区分宽基配置和专业化产品，并讨论主题发行时点、指数规则冲击、非弹性资金流与被动持有的治理集中。
@@ -18480,6 +18481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盛爱靖 / Sheng Aijing](entities/ShengAijing.md) — A2O Light member whose attention and reported family-business controversy require a strict minor-responsibility boundary.
 
 ## Concepts
+- [Strategic Ambition–Organizational Capacity Fit / 战略欲望与组织承载力匹配](concepts/StrategicAmbitionOrganizationalCapacityFit.md) — Valid strategic direction still requires a pace, scope, operating system, trust base, and capability set the organization can actually carry.
 - [Hostel Business Model Transformation](concepts/HostelBusinessModelTransformation.md) — Shift from basic dormitory beds toward mixed rooms, social programming, ancillary revenue, direct booking, and chain scale.
 - [Hostel Property Adaptive Reuse](concepts/HostelPropertyAdaptiveReuse.md) — Conversion of weak-demand offices and other existing buildings into dense mixed lodging, with cost and schedule advantages bounded by property and operating risk.
 - [Hostel Customer Segment Expansion](concepts/HostelCustomerSegmentExpansion.md) — Use of varied rooms and facilities to serve families and groups alongside backpackers without ignoring conflicts among their needs.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10693
+wiki_total_pages: 10694
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2162,6 +2162,9 @@ wiki_pages:
   - key: "StrategicAIInfrastructureDependence"
     title: "Strategic AI Infrastructure Dependence"
     url: "/wiki/concepts/strategicaiinfrastructuredependence/"
+  - key: "StrategicAmbitionOrganizationalCapacityFit"
+    title: "Strategic Ambition–Organizational Capacity Fit / 战略欲望与组织承载力匹配"
+    url: "/wiki/concepts/strategicambitionorganizationalcapacityfit/"
   - key: "StrategicBorderCorridorDependence"
     title: "Strategic Border-Corridor Dependence"
     url: "/wiki/concepts/strategicbordercorridordependence/"

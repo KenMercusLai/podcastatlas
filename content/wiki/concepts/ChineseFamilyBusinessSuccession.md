@@ -6,8 +6,9 @@ sources:
   - ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw
   - no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666
   - no-221-zhongguo-latiao-jianghu-1020016798
+  - 155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-21
 ---
 
 # Chinese Family Business Succession / 中国家族企业接班
@@ -22,6 +23,8 @@ Chinese family-business succession combines a governance transition with renewed
 
 The viable routes remain plural. [[MaoZhongqun|毛中群]] creates a bounded new company at [[FangtaiGroup|方太]], while [[ZhuXiaodongYunsheng|竺晓冬]] advances gradually inside [[NingboYunsheng|宁波韵生]] and local successor education makes continuity a regional industrial issue [[no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666]]. At [[Malawangzi|麻辣王子]], [[ZhangZilong|张子龙]] instead occupies an unresolved internal-entrepreneurship stage: public visibility and generational brand negotiation create value, but succession still requires production, supply-chain, and whole-firm judgment [[no-221-zhongguo-latiao-jianghu-1020016798]].
 
+The public-company CEO case in [[155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii|episode 155]] sharpens the organizational boundary through [[QianChengEcovacs|钱程]]. E-commerce and overseas responsibility provide proving grounds, but promotion from a relatively bounded business to the whole firm exposes how little founder-era trust, culture, and operating logic can be inherited automatically. Succession is therefore neither the removal of the old system nor the successor's imitation of the founder; it is a joint adjustment that preserves useful cultural roots while building a new execution system.
+
 ## Key Claims
 
 - Chinese private family firms often face first major succession without deep domestic multigenerational governance models.
@@ -30,6 +33,7 @@ The viable routes remain plural. [[MaoZhongqun|毛中群]] creates a bounded new
 - Viable routes range from discontinuous new-company creation to gradual institutional handoff and unresolved internal entrepreneurship.
 - Local governments, schools, and peer groups treat succession as an industrial-continuity issue because family firms support jobs, suppliers, and regional reputation.
 - Public visibility can give successors legitimacy and market access, but it cannot substitute for operating apprenticeship.
+- A title handoff does not transfer founder-era trust or tacit organizational wiring; successful renewal requires new relationships and systems while preserving selected cultural roots.
 
 ## Evidence
 
@@ -37,6 +41,7 @@ The viable routes remain plural. [[MaoZhongqun|毛中群]] creates a bounded new
 - **Renewed entrepreneurship:** [[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] frames succession as [[SuccessionAsContinuousEntrepreneurship|持续创业]], not passive inheritance.
 - **Fangtai and Yunsheng routes:** [[no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666]] contrasts Mao Zhongqun's bounded new venture with Zhu Xiaodong's decade-long role progression and board-linked transition.
 - **Malawangzi apprenticeship:** [[no-221-zhongguo-latiao-jianghu-1020016798]] details Zhang Zilong's salaried brand role, public account, generational disagreement, founder warning, and unresolved takeover status.
+- **Ecovacs CEO transition:** [[155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii|episode 155]] follows Qian Cheng from e-commerce and overseas operating work into a CEO role whose strategy–execution gap revealed non-transferable trust and founder-shaped routines.
 
 ## Counterevidence & Qualifications
 
@@ -44,12 +49,13 @@ The viable routes remain plural. [[MaoZhongqun|毛中群]] creates a bounded new
 - Constructive cases do not erase conflict, opacity, gendered role allocation, or failed transfer elsewhere.
 - Public self-media can distort perceptions of wealth, inevitability, and competence.
 - School size, business performance, compensation, authority, and future-succession claims remain source-scoped.
+- The Ecovacs account is the successor's retrospective; it does not independently establish that the stated strategies were correct or that organization-capacity mismatch was the main cause of every weak result.
 
 ## What Changed
 
-- Added Malawangzi as an unresolved internal-entrepreneurship route.
-- Added the boundary between successor public visibility and production or supply-chain competence.
-- Added generational brand-aesthetic negotiation as a practical succession arena.
+- Added a public-company CEO case where role transfer exposed a gap in inherited trust, culture, and organizational knowledge.
+- Added mutual adjustment between successor and founder-era organization rather than one-sided assimilation or total replacement.
+- Clarified that succession succeeds through company renewal, not completion of the title handoff itself.
 
 ## Related Concepts
 
@@ -59,3 +65,4 @@ The viable routes remain plural. [[MaoZhongqun|毛中群]] creates a bounded new
 - [[SuccessionAsContinuousEntrepreneurship]] - succession as rebuilding or extending the firm.
 - [[FactorySecondGenerationPersonalIP]] - public visibility strategy whose value remains operationally bounded.
 - [[FamilyBusinessScaling]] - wider growth and governance problem for family firms.
+- [[StrategicAmbitionOrganizationalCapacityFit]] - explains why successor strategy can outrun the inherited organization's carrying capacity.

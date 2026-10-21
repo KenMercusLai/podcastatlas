@@ -37391,3 +37391,11 @@ Added source `gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y`; created [[AOHo
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
+
+Added source `155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii`; created [[StrategicAmbitionOrganizationalCapacityFit|战略欲望与组织承载力匹配]]; and resynthesized [[QianChengEcovacs|钱程]], [[EcovacsRobotics|科沃斯]], [[ChineseFamilyBusinessSuccession|中国家族企业接班]], and [[SuccessionAsContinuousEntrepreneurship|接班即持续创业]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: CEO appointment does not transfer founder-era trust, culture, or organizational wiring; valid strategic direction still needs capacity-matched pace, systems, and sequencing; and succession succeeds through continued company renewal rather than title handoff. No settled contradiction was adopted. Titles, market share, revenue mix, forecasts, organization-level causal claims, competitor assessments, and embodied-AI timelines remain first-person or source-scoped. The automatic `wiki/overview.md` was updated during canonical ingest and was not rewritten during downstream refresh. No controlled topic claim JSON was dirty; the max-age gate ran global compaction, and refreshed artifacts validate 4,685 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
