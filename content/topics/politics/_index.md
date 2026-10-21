@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3364
+topic_total_pages: 3366
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3448,6 +3448,9 @@ topic_concepts:
   - key: "PrivateFiefExpansionThroughStateWar"
     title: "Private Fief Expansion Through State War / 以国战扩私邑"
     url: "/wiki/concepts/privatefiefexpansionthroughstatewar/"
+  - key: "PrivateHospitalComplianceTransition"
+    title: "Private Hospital Compliance Transition / 民营医院合规转型"
+    url: "/wiki/concepts/privatehospitalcompliancetransition/"
   - key: "PrivateInfrastructureWarPower"
     title: "Private Infrastructure War Power"
     url: "/wiki/concepts/privateinfrastructurewarpower/"
@@ -9360,6 +9363,9 @@ topic_sources:
   - key: "no-221-zhongguo-latiao-jianghu-1020016798"
     title: "No.221 中国辣条江湖"
     url: "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+  - key: "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox"
+    title: "No.223 “莆田系”医事：从电线杆到手术台"
+    url: "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"

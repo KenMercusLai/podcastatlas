@@ -72243,6 +72243,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PrivateHospitalComplianceTransition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PrivateInfrastructureWarPower": [
     {
       "key": "technology",
@@ -104984,6 +104991,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6": [

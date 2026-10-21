@@ -184994,6 +184994,43 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/medicalimagingcommunicationboundary/"
     },
+    "MedicalPlatformTrustCrisis": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
+          "key": "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394",
+          "show": "蜜獾吃书",
+          "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
+          "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
+        },
+        {
+          "episode_file": "No.206 检索、送药、看病：互联网医疗这些年 ｜ 中国互联网故事22 [991273500].md",
+          "key": "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22",
+          "url": "/wiki/sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500/"
+        },
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/medicalplatformtrustcrisis/"
+    },
     "MedicalSupportCapacityTransfer": {
       "episode_count": 1,
       "show_count": 1,
@@ -224507,6 +224544,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
     },
+    "PrivateHospitalComplianceTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/privatehospitalcompliancetransition/"
+    },
     "PrivateInfrastructureWarPower": {
       "episode_count": 2,
       "show_count": 1,
@@ -224663,6 +224716,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/privatemarketbubbleopacity/"
+    },
+    "PrivateMedicalAcquisitionIncentives": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/privatemedicalacquisitionincentives/"
     },
     "PrivateRailwayExpansionGovernance": {
       "episode_count": 1,
@@ -228210,6 +228279,45 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/pushpullintimacycommunication/"
+    },
+    "Putian": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/putian/"
+    },
+    "PutianMedicalNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/putianmedicalnetwork/"
     },
     "PuyDuFou": {
       "episode_count": 1,
@@ -293655,6 +293763,29 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/weiyuzhenneurologist/"
     },
+    "WeiZexiIncident": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.206 检索、送药、看病：互联网医疗这些年 ｜ 中国互联网故事22 [991273500].md",
+          "key": "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22",
+          "url": "/wiki/sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500/"
+        },
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/weizexiincident/"
+    },
     "WeiZhangPrincessWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -310262,6 +310393,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/zhaiyirebellion/"
+    },
+    "ZhanGuotuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOriNIA5EJIwTsfhox [GKwRIMAOriNIA5EJIwTsfhox].md",
+          "key": "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.223 “莆田系”医事：从电线杆到手术台",
+          "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/zhanguotuan/"
     },
     "ZhangAngGengshi": {
       "episode_count": 3,

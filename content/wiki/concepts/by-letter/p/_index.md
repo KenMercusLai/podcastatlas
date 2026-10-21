@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10703
+wiki_total_pages: 10705
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2057,6 +2057,9 @@ wiki_pages:
   - key: "PrivateFiefExpansionThroughStateWar"
     title: "Private Fief Expansion Through State War / 以国战扩私邑"
     url: "/wiki/concepts/privatefiefexpansionthroughstatewar/"
+  - key: "PrivateHospitalComplianceTransition"
+    title: "Private Hospital Compliance Transition / 民营医院合规转型"
+    url: "/wiki/concepts/privatehospitalcompliancetransition/"
   - key: "PrivateImmigrationDetention"
     title: "Private Immigration Detention"
     url: "/wiki/concepts/privateimmigrationdetention/"
@@ -2069,6 +2072,9 @@ wiki_pages:
   - key: "PrivateLabelBrandRisk"
     title: "Private Label Brand Risk"
     url: "/wiki/concepts/privatelabelbrandrisk/"
+  - key: "PrivateMedicalAcquisitionIncentives"
+    title: "Private Medical Acquisition Incentives / 民营医疗获客激励"
+    url: "/wiki/concepts/privatemedicalacquisitionincentives/"
   - key: "PrivatePunishmentWithoutProcedure"
     title: "Private Punishment Without Procedure / 无程序私刑"
     url: "/wiki/concepts/privatepunishmentwithoutprocedure/"

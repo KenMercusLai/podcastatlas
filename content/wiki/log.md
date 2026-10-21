@@ -37431,3 +37431,11 @@ Added source `tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | No.223 “莆田系”医事：从电线杆到手术台
+
+Added source `gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox`; created [[PutianMedicalNetwork|莆田医疗经营网络]], [[ZhanGuotuan|詹国团]], [[PrivateMedicalAcquisitionIncentives|民营医疗获客激励]], and [[PrivateHospitalComplianceTransition|民营医院合规转型]]; and resynthesized [[Putian|莆田]], [[WeiZexiIncident|魏则西事件]], and [[MedicalPlatformTrustCrisis]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: kinship and apprenticeship enabled rapid replication, while advertising, referrals, borrowed hospital authority, opaque cooperation, and high fixed costs could turn patient information asymmetry into overdiagnosis, overtreatment, operating-table escalation, or fraud; transition into comprehensive hospitals, high-end obstetrics, and medical aesthetics changed the asset base without automatically resolving governance, continuity, or acquisition pressure. No settled contradiction was adopted. “莆田系” remains a loose label rather than one legal group, so responsibility follows specific operators and current ownership; investment, market-share, revenue, survival-rate, and industry-count claims remain episode-reported unless tied by the source to an official finding. The automatic `wiki/overview.md` was updated during canonical ingest and was not manually rewritten during downstream refresh. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed ledger and manifest artifacts validate 4,690 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

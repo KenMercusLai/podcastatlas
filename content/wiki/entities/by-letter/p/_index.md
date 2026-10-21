@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13634
+wiki_total_pages: 13636
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "Putian"
     title: "Putian / 莆田"
     url: "/wiki/entities/putian/"
+  - key: "PutianMedicalNetwork"
+    title: "Putian Medical Network / 莆田医疗经营网络"
+    url: "/wiki/entities/putianmedicalnetwork/"
   - key: "PutnamCompetition"
     title: "Putnam Competition"
     url: "/wiki/entities/putnamcompetition/"

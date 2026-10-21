@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.223 “莆田系”医事：从电线杆到手术台](sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox.md) — 半拿铁 history of Putian-linked medical businesses, acquisition incentives, patient harm, regulatory gaps, and difficult institutional transition.
 - [We try to fix election polling (update)](sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686.md) — Planet Money and the Marist Poll use historical failures, modern nonresponse, weighting, and a negative crowd-wisdom experiment to explain the changing limits of election polling.
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](sources/155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii.md) — 张小珺Jùn访谈科沃斯CEO钱程，以电商与海外历练、接任CEO后的组织错配、家族企业传承、全球化和家务机器人节奏讨论接班如何转化为持续创造。
 - [欧洲青旅一边关店一边扩张，这门生意发生了什么改变？](sources/gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y.md) — 声动早咖啡以欧洲连锁青旅说明混合房型、餐饮娱乐、客群扩展、办公楼改造、机构资本与直营预订如何把廉价床位重构为“住宿＋社交＋消费”。
@@ -4784,6 +4785,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bumble didn't find its match on the stock market](sources/tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128.md) — Marketplace Tech interview on Bumble's proposed privatization, dating-platform growth constraints, private-equity governance risk, and AI–human hybrid matchmaking.
 
 ## Entities
+- [Putian Medical Network / 莆田医疗经营网络](entities/PutianMedicalNetwork.md) — Loose family, company, brand, and operator network behind the broad “莆田系” medical label.
+- [Zhan Guotuan / 詹国团](entities/ZhanGuotuan.md) — Putian-origin operator connecting itinerant practice, advertising, department contracting, equipment cooperation, and comprehensive-hospital investment.
 - [Marist Poll](entities/MaristPoll.md) — Survey-research organization whose 2022 conventional estimate and crowd-wisdom experiment illustrate adaptive election-poll methodology.
 - [Barbara Carvalho](entities/BarbaraCarvalho.md) — Marist Poll director who explains representative sampling, weighting, and experimental learning.
 - [A&O Hostels](entities/AOHostels.md) — European chain linking mixed rooms, office conversion, long-duration property control, direct booking, and institutionally financed expansion.
@@ -12938,7 +12941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [长江商学院 / Cheung Kong Graduate School of Business](entities/ChangjiangBusinessSchool.md) — Business-school context in EP255 for family-business successor training and the 接力长江 program.
 - [接力长江 / Jieli Changjiang](entities/JieliChangjiang.md) — Changjiang Business School family-business successor program named in EP255 as institutional infrastructure for factory-second-generation succession.
 - [厂二代GoGoGo](entities/ChangerdaiGoGoGo.md) — Peer community in EP255 where factory second-generation successors compare return-to-family-business pain, public visibility, and learning needs.
-- [Putian / 莆田](entities/Putian.md) — Fujian footwear-manufacturing setting for EP255's Wote succession case.
+- [Putian / 莆田](entities/Putian.md) — Fujian city represented through distinct footwear-manufacturing and hometown-linked medical-business histories.
 - [Foshan / 佛山](entities/Foshan.md) — Guangdong manufacturing-city setting for EP255's Fadior and Shunde family-business succession case.
 - [文淇 / Wen Qi](entities/WenQi.md) — Actor and EP254 host whose stories connect 《我许可》 to menarche, body confidence, people-pleasing, online women-to-women recognition, and self-permission.
 - [游晓颖 / You Xiaoying](entities/YouXiaoying.md) — Screenwriter of 《我许可》 in EP254, linking self-permission to body acceptance, gynecological dignity, driving, accounting, and authorship-credit boundaries.
@@ -18497,6 +18500,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Whitney Wolfe Herd](entities/WhitneyWolfeHerd.md) — Bumble founder used to separate one company's trajectory from category-wide judgments about women entrepreneurs.
 
 ## Concepts
+- [Private Medical Acquisition Incentives / 民营医疗获客激励](concepts/PrivateMedicalAcquisitionIncentives.md) — How traffic, referrals, authority signals, and fixed costs can pressure patient-level monetization under information asymmetry.
+- [Private Hospital Compliance Transition / 民营医院合规转型](concepts/PrivateHospitalComplianceTransition.md) — Capital, licensing, staffing, continuity, governance, and demand challenge in moving toward durable formal care.
 - [Election Polling Representativeness](concepts/ElectionPollingRepresentativeness.md) — How selection, nonresponse, weighting, contact mode, and turnout jointly determine whether a poll reflects an electorate.
 - [Crowd-Wisdom Polling](concepts/CrowdWisdomPolling.md) — Expected-winner and social-circle questions whose forecasting and behavioral-measurement uses require separate validation.
 - [Strategic Ambition–Organizational Capacity Fit / 战略欲望与组织承载力匹配](concepts/StrategicAmbitionOrganizationalCapacityFit.md) — Valid strategic direction still requires a pace, scope, operating system, trust base, and capability set the organization can actually carry.
@@ -27684,8 +27689,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [银川互联网医院试点](concepts/YinchuanInternetHospitalPilot.md) — Local internet-hospital licensing experiment that became historically important after national rules tightened.
 - [Healthcare O2O](concepts/HealthcareO2O.md) — High-risk local-services O2O branch constrained by credentials, medical risk, regulation, trust, and nonstandard quality.
 - [Online Healthcare Regulatory Boundary](concepts/OnlineHealthcareRegulatoryBoundary.md) — Policy line around first diagnosis, doctor identity, prescriptions, internet hospitals, and AI not replacing doctors.
-- [Medical Platform Trust Crisis](concepts/MedicalPlatformTrustCrisis.md) — Trust-failure frame for search ads, misleading medical claims, hospital outsourcing, and platform-mediated health authority.
-- [魏则西事件](concepts/WeiZexiIncident.md) — Search, advertising, hospital outsourcing, and treatment-claim case that pushed internet healthcare into a more cautious period.
+- [Medical Platform Trust Crisis](concepts/MedicalPlatformTrustCrisis.md) — Trust failure spanning search, advertising, hospital authority, operator identity, ordinary symptom search, and AI monetization.
+- [魏则西事件](concepts/WeiZexiIncident.md) — Search, promotion, hospital cooperation, and treatment-claim case that pushed internet healthcare into a more cautious period.
 - [HMO Managed Care](concepts/HMOManagedCare.md) — Managed-care incentive model used to rethink internet healthcare as long-term health-risk management rather than one-off service sales.
 - [数字健共体](concepts/DigitalHealthCommunity.md) — City-level chronic-disease and health-management model associated with WeDoctor's later route.
 - [Medical AI Workflow Integration](concepts/MedicalAIWorkflowIntegration.md) — Practical medical-AI frame focused on imaging, record reading, follow-up, pharmacy review, ambient scribe/research support, and doctor-supervised workflows.
