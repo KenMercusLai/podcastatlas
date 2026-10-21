@@ -13251,6 +13251,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/alicefullwood/"
     },
+    "AliceWeidel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "027be4d01e889c07f016e332ffe9a77e [027be4d01e889c07f016e332ffe9a77e.mp3？aid=6ad0f9cc3b418431370456ec&chid=d556eb54-6160-4.280].md",
+          "key": "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e",
+          "show": "Economist Podcasts",
+          "title": "An interview with Alice Weidel",
+          "url": "/wiki/sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/aliceweidel/"
+    },
     "AlidLegitimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -13785,9 +13801,9 @@
       "url": "/wiki/entities/altamontfreeconcert/"
     },
     "AlternativeForGermany": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
@@ -13816,9 +13832,16 @@
           "show": "Economist Podcasts",
           "title": "Centre punch: Germany’s state-election shocker",
           "url": "/wiki/sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9/"
+        },
+        {
+          "episode_file": "027be4d01e889c07f016e332ffe9a77e [027be4d01e889c07f016e332ffe9a77e.mp3？aid=6ad0f9cc3b418431370456ec&chid=d556eb54-6160-4.280].md",
+          "key": "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e",
+          "show": "Economist Podcasts",
+          "title": "An interview with Alice Weidel",
+          "url": "/wiki/sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-21",
       "url": "/wiki/entities/alternativeforgermany/"
     },
     "AlternativeHeirProtectionFailure": {
@@ -33658,9 +33681,9 @@
       "url": "/wiki/concepts/brandedproducedifferentiation/"
     },
     "BrandmauerCordonSanitaire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -33675,9 +33698,16 @@
           "show": "Economist Podcasts",
           "title": "All right on the night: AfD's victory",
           "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        },
+        {
+          "episode_file": "027be4d01e889c07f016e332ffe9a77e [027be4d01e889c07f016e332ffe9a77e.mp3？aid=6ad0f9cc3b418431370456ec&chid=d556eb54-6160-4.280].md",
+          "key": "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e",
+          "show": "Economist Podcasts",
+          "title": "An interview with Alice Weidel",
+          "url": "/wiki/sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
     "Brazil": {
@@ -234265,9 +234295,9 @@
       "url": "/wiki/concepts/remembrancepoppy/"
     },
     "RemigrationPolitics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -234282,9 +234312,16 @@
           "show": "Economist Podcasts",
           "title": "All right on the night: AfD's victory",
           "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        },
+        {
+          "episode_file": "027be4d01e889c07f016e332ffe9a77e [027be4d01e889c07f016e332ffe9a77e.mp3？aid=6ad0f9cc3b418431370456ec&chid=d556eb54-6160-4.280].md",
+          "key": "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e",
+          "show": "Economist Podcasts",
+          "title": "An interview with Alice Weidel",
+          "url": "/wiki/sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-21",
       "url": "/wiki/concepts/remigrationpolitics/"
     },
     "RemoteCardiacMonitoringAndWarning": {
@@ -309634,6 +309671,36 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/entities/zanjiaguoyuan/"
+    },
+    "ZannyMintonBeddoes": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "027be4d01e889c07f016e332ffe9a77e [027be4d01e889c07f016e332ffe9a77e.mp3？aid=6ad0f9cc3b418431370456ec&chid=d556eb54-6160-4.280].md",
+          "key": "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e",
+          "show": "Economist Podcasts",
+          "title": "An interview with Alice Weidel",
+          "url": "/wiki/sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/zannymintonbeddoes/"
     },
     "Zaohaowu": {
       "episode_count": 1,

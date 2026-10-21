@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3362
+topic_total_pages: 3364
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5534,6 +5534,9 @@ topic_entities:
   - key: "AliceFullwood"
     title: "Alice Fullwood"
     url: "/wiki/entities/alicefullwood/"
+  - key: "AliceWeidel"
+    title: "Alice Weidel"
+    url: "/wiki/entities/aliceweidel/"
   - key: "AmandaFisher"
     title: "Amanda Fisher"
     url: "/wiki/entities/amandafisher/"
@@ -9087,6 +9090,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
     title: "All-In's 2026 Predictions"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+  - key: "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e"
+    title: "An interview with Alice Weidel"
+    url: "/wiki/sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e/"
   - key: "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c"
     title: "An interview with Elon Musk"
     url: "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"

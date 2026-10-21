@@ -14213,6 +14213,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AliceWeidel": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AliceWonderlandCharacter": [
     {
       "key": "culture",
@@ -102171,6 +102178,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c": [

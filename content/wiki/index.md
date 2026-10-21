@@ -4779,6 +4779,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP390-李秀满新女团爆红背后：出道即塌房？最小成员只有13岁？](sources/ep390-lixiuman-xin-nvtuan-baohong-beihou-chudao-ji-tafang-zuixiao-chengyuan-zhiyou-13sui-gkwrirworuemaf_2bgtsih8x.md) — 无时差研究所以 A2O Light 讨论 K-pop 偶像制作、成长型粉丝机制、未成年职业化风险与家庭债务责任边界。
 - [Cash test: can Europe support Ukraine alone?](sources/cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba.md) — Economist Podcasts on Europe's uneven ability to replace U.S. support for Ukraine, focused research organizations, and museum theft risk.
 
+- [An interview with Alice Weidel](sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e.md) — Alice Weidel sets out AfD's national program under questioning on fiscal credibility, Ukraine, remigration, social policy, extremism, and coalition compromise.
+
 ## Entities
 - [Marist Poll](entities/MaristPoll.md) — Survey-research organization whose 2022 conventional estimate and crowd-wisdom experiment illustrate adaptive election-poll methodology.
 - [Barbara Carvalho](entities/BarbaraCarvalho.md) — Marist Poll director who explains representative sampling, weighting, and experimental learning.
@@ -18485,6 +18487,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盛爱靖 / Sheng Aijing](entities/ShengAijing.md) — A2O Light member whose attention and reported family-business controversy require a strict minor-responsibility boundary.
 - [Cultivarium](entities/Cultivarium.md) — Focused research organization building a public resource around understudied fungi and microbes.
 - [Museum of Applied Arts Vienna](entities/MuseumOfAppliedArtsVienna.md) — Vienna museum case exposing the limits of display-case protection without layered entry and response security.
+
+- [Alice Weidel](entities/AliceWeidel.md) — AfD co-leader presenting the party's national economic, European, defence, migration, and social-policy program.
 
 ## Concepts
 - [Election Polling Representativeness](concepts/ElectionPollingRepresentativeness.md) — How selection, nonresponse, weighting, contact mode, and turnout jointly determine whether a poll reflects an electorate.
