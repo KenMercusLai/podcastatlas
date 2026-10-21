@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10694
+wiki_total_pages: 10696
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3086,6 +3086,9 @@ wiki_pages:
   - key: "CrowdSovereigntyRepresentationConflict"
     title: "Crowd Sovereignty and Representative Conflict"
     url: "/wiki/concepts/crowdsovereigntyrepresentationconflict/"
+  - key: "CrowdWisdomPolling"
+    title: "Crowd-Wisdom Polling"
+    url: "/wiki/concepts/crowdwisdompolling/"
   - key: "CrowdsourcedAcademicAuditing"
     title: "Crowdsourced Academic Auditing"
     url: "/wiki/concepts/crowdsourcedacademicauditing/"

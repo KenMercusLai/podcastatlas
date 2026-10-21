@@ -12959,6 +12959,10 @@
     "title": "Barbados",
     "url": "/wiki/entities/barbados/"
   },
+  "BarbaraCarvalho": {
+    "title": "Barbara Carvalho",
+    "url": "/wiki/entities/barbaracarvalho/"
+  },
   "BarbaraDingus": {
     "title": "Barbara Dingus",
     "url": "/wiki/entities/barbaradingus/"
@@ -24115,6 +24119,10 @@
     "title": "CrowdStrike",
     "url": "/wiki/entities/crowdstrike/"
   },
+  "CrowdWisdomPolling": {
+    "title": "Crowd-Wisdom Polling",
+    "url": "/wiki/concepts/crowdwisdompolling/"
+  },
   "CrowdsourcedAcademicAuditing": {
     "title": "Crowdsourced Academic Auditing",
     "url": "/wiki/concepts/crowdsourcedacademicauditing/"
@@ -29934,6 +29942,10 @@
   "ElectionInformationOperations": {
     "title": "Election Information Operations",
     "url": "/wiki/concepts/electioninformationoperations/"
+  },
+  "ElectionPollingRepresentativeness": {
+    "title": "Election Polling Representativeness",
+    "url": "/wiki/concepts/electionpollingrepresentativeness/"
   },
   "ElectiveAuthoritarianism": {
     "title": "Elective Authoritarianism",
@@ -58410,6 +58422,10 @@
   "MarissaValenzuela": {
     "title": "Marissa Valenzuela",
     "url": "/wiki/entities/marissavalenzuela/"
+  },
+  "MaristPoll": {
+    "title": "Marist Poll",
+    "url": "/wiki/entities/maristpoll/"
   },
   "MaritimeAnalysisAndInformationCentre": {
     "title": "Maritime Analysis and Information Centre",
@@ -103310,6 +103326,10 @@
   "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515": {
     "title": "Love in the time of Palantir",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515/"
+  },
+  "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686": {
+    "title": "We try to fix election polling (update)",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686/"
   },
   "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737": {
     "title": "How investing is getting riskier (Two Indicators)",

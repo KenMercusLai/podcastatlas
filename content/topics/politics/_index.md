@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3356
+topic_total_pages: 3361
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1066,6 +1066,9 @@ topic_concepts:
   - key: "CrossProjectCashTransfer"
     title: "Cross-Project Cash Transfer"
     url: "/wiki/concepts/crossprojectcashtransfer/"
+  - key: "CrowdWisdomPolling"
+    title: "Crowd-Wisdom Polling"
+    url: "/wiki/concepts/crowdwisdompolling/"
   - key: "CryptoAssetFunctionalClassification"
     title: "Crypto-Asset Functional Classification"
     url: "/wiki/concepts/cryptoassetfunctionalclassification/"
@@ -1357,6 +1360,9 @@ topic_concepts:
   - key: "ElectionInformationOperations"
     title: "Election Information Operations"
     url: "/wiki/concepts/electioninformationoperations/"
+  - key: "ElectionPollingRepresentativeness"
+    title: "Election Polling Representativeness"
+    url: "/wiki/concepts/electionpollingrepresentativeness/"
   - key: "ElectionFacingStabilization"
     title: "Election-Facing Stabilization"
     url: "/wiki/concepts/electionfacingstabilization/"
@@ -5666,6 +5672,9 @@ topic_entities:
   - key: "BarackObama"
     title: "Barack Obama"
     url: "/wiki/entities/barackobama/"
+  - key: "BarbaraCarvalho"
+    title: "Barbara Carvalho"
+    url: "/wiki/entities/barbaracarvalho/"
   - key: "BarronTrump"
     title: "Barron Trump"
     url: "/wiki/entities/barrontrump/"
@@ -7010,6 +7019,9 @@ topic_entities:
   - key: "MarineLePen"
     title: "Marine Le Pen"
     url: "/wiki/entities/marinelepen/"
+  - key: "MaristPoll"
+    title: "Marist Poll"
+    url: "/wiki/entities/maristpoll/"
   - key: "MarkAntony"
     title: "Mark Antony / 马克·安东尼"
     url: "/wiki/entities/markantony/"
@@ -9558,6 +9570,9 @@ topic_sources:
   - key: "defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793"
     title: "Wanna slow down AI? These biologists can help."
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
+  - key: "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686"
+    title: "We try to fix election polling (update)"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686/"
   - key: "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128"
     title: "Welcome to the 'infocalypse'"
     url: "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"

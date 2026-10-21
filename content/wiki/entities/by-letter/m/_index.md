@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13626
+wiki_total_pages: 13628
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "MarissaValenzuela"
     title: "Marissa Valenzuela"
     url: "/wiki/entities/marissavalenzuela/"
+  - key: "MaristPoll"
+    title: "Marist Poll"
+    url: "/wiki/entities/maristpoll/"
   - key: "MaritimeAnalysisAndInformationCentre"
     title: "Maritime Analysis and Information Centre"
     url: "/wiki/entities/maritimeanalysisandinformationcentre/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [We try to fix election polling (update)](sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686.md) — Planet Money and the Marist Poll use historical failures, modern nonresponse, weighting, and a negative crowd-wisdom experiment to explain the changing limits of election polling.
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](sources/155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii.md) — 张小珺Jùn访谈科沃斯CEO钱程，以电商与海外历练、接任CEO后的组织错配、家族企业传承、全球化和家务机器人节奏讨论接班如何转化为持续创造。
 - [欧洲青旅一边关店一边扩张，这门生意发生了什么改变？](sources/gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y.md) — 声动早咖啡以欧洲连锁青旅说明混合房型、餐饮娱乐、客群扩展、办公楼改造、机构资本与直营预订如何把廉价床位重构为“住宿＋社交＋消费”。
 - [Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031.md) — Tomorrow Today interview with Mahesh Keshwala on creator reinvention, audience segmentation, packaging, attention ethics, AI production, likeness consent, and synthetic-content feedback.
@@ -4778,6 +4779,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP390-李秀满新女团爆红背后：出道即塌房？最小成员只有13岁？](sources/ep390-lixiuman-xin-nvtuan-baohong-beihou-chudao-ji-tafang-zuixiao-chengyuan-zhiyou-13sui-gkwrirworuemaf_2bgtsih8x.md) — 无时差研究所以 A2O Light 讨论 K-pop 偶像制作、成长型粉丝机制、未成年职业化风险与家庭债务责任边界。
 
 ## Entities
+- [Marist Poll](entities/MaristPoll.md) — Survey-research organization whose 2022 conventional estimate and crowd-wisdom experiment illustrate adaptive election-poll methodology.
+- [Barbara Carvalho](entities/BarbaraCarvalho.md) — Marist Poll director who explains representative sampling, weighting, and experimental learning.
 - [A&O Hostels](entities/AOHostels.md) — European chain linking mixed rooms, office conversion, long-duration property control, direct booking, and institutionally financed expansion.
 - [Generator Hostels](entities/GeneratorHostels.md) — European hostel chain whose design, nightlife, events, and ancillary spending turn common space into a central business line.
 - [背包十年 / Backpack Ten Years](entities/BackpackTenYears.md) — Chinese chain-hostel example using larger common areas and outside financing to pursue lodging, social, and consumption demand together.
@@ -18481,6 +18484,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盛爱靖 / Sheng Aijing](entities/ShengAijing.md) — A2O Light member whose attention and reported family-business controversy require a strict minor-responsibility boundary.
 
 ## Concepts
+- [Election Polling Representativeness](concepts/ElectionPollingRepresentativeness.md) — How selection, nonresponse, weighting, contact mode, and turnout jointly determine whether a poll reflects an electorate.
+- [Crowd-Wisdom Polling](concepts/CrowdWisdomPolling.md) — Expected-winner and social-circle questions whose forecasting and behavioral-measurement uses require separate validation.
 - [Strategic Ambition–Organizational Capacity Fit / 战略欲望与组织承载力匹配](concepts/StrategicAmbitionOrganizationalCapacityFit.md) — Valid strategic direction still requires a pace, scope, operating system, trust base, and capability set the organization can actually carry.
 - [Hostel Business Model Transformation](concepts/HostelBusinessModelTransformation.md) — Shift from basic dormitory beds toward mixed rooms, social programming, ancillary revenue, direct booking, and chain scale.
 - [Hostel Property Adaptive Reuse](concepts/HostelPropertyAdaptiveReuse.md) — Conversion of weak-demand offices and other existing buildings into dense mixed lodging, with cost and schedule advantages bounded by property and operating risk.

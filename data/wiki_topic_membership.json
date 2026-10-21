@@ -18251,6 +18251,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BarbaraCarvalho": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BarbellStrategy": [
     {
       "key": "economics",
@@ -28311,6 +28318,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CrowdWisdomPolling": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CrownPrinceCommandRisk": [
     {
       "key": "history",
@@ -33773,6 +33787,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ElectionPollingRepresentativeness": [
     {
       "key": "politics",
       "label": "Politics",
@@ -59280,6 +59301,13 @@
     }
   ],
   "MarineLePen": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MaristPoll": [
     {
       "key": "politics",
       "label": "Politics",
@@ -102800,6 +102828,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686": [
     {
       "key": "politics",
       "label": "Politics",

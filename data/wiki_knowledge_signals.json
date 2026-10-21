@@ -26748,6 +26748,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/barbados/"
     },
+    "BarbaraCarvalho": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686 [default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686].md",
+          "key": "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686",
+          "show": "Planet Money",
+          "title": "We try to fix election polling (update)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/barbaracarvalho/"
+    },
     "BarbecueChainScalability": {
       "episode_count": 1,
       "show_count": 1,
@@ -61448,6 +61464,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/crowdsovereigntyrepresentationconflict/"
     },
+    "CrowdWisdomPolling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686 [default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686].md",
+          "key": "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686",
+          "show": "Planet Money",
+          "title": "We try to fix election polling (update)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/crowdwisdompolling/"
+    },
     "CrownPrinceLiXianTang": {
       "episode_count": 1,
       "show_count": 1,
@@ -80509,6 +80541,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/electionfacingstabilization/"
+    },
+    "ElectionPollingRepresentativeness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686 [default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686].md",
+          "key": "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686",
+          "show": "Planet Money",
+          "title": "We try to fix election polling (update)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/concepts/electionpollingrepresentativeness/"
     },
     "ElectiveAuthoritarianism": {
       "episode_count": 1,
@@ -181191,6 +181239,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/marinusvanderlubbe/"
+    },
+    "MaristPoll": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686 [default.mp3_ywr3ahjkcgo_8f03a9ac89c49266c3a2db0ebc7b4eb6_31753686].md",
+          "key": "default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686",
+          "show": "Planet Money",
+          "title": "We try to fix election polling (update)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686/"
+        }
+      ],
+      "updated": "2026-10-21",
+      "url": "/wiki/entities/maristpoll/"
     },
     "MaritimeCoalitionCoordination": {
       "episode_count": 2,
