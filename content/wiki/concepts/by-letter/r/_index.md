@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10705
+wiki_total_pages: 10709
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "ReproductiveBodyOmenPolitics"
     title: "Reproductive Body Omen Politics / 生殖身体祥瑞政治"
     url: "/wiki/concepts/reproductivebodyomenpolitics/"
+  - key: "ReproductiveCenteredSexEducation"
+    title: "Reproductive-Centered Sex Education / 生殖中心性教育"
+    url: "/wiki/concepts/reproductivecenteredsexeducation/"
   - key: "ReproductiveStateDependentBrainPlasticity"
     title: "Reproductive-State-Dependent Brain Plasticity"
     url: "/wiki/concepts/reproductivestatedependentbrainplasticity/"

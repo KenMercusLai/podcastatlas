@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [誰的身體值得先被研究？遲到的陰蒂史](sources/af3491ca3aca3a270aadb44a7f572e93-af3491ca3aca3a270aadb44a7f572e93.md) — 端聞以陰蒂三維神經圖回顧解剖知識的失落與遲滯，並連結男性默認醫學、生殖中心性教育、手術風險和女性性愉悅的研究正當性。
 - [No.223 “莆田系”医事：从电线杆到手术台](sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox.md) — 半拿铁 history of Putian-linked medical businesses, acquisition incentives, patient harm, regulatory gaps, and difficult institutional transition.
 - [We try to fix election polling (update)](sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686.md) — Planet Money and the Marist Poll use historical failures, modern nonresponse, weighting, and a negative crowd-wisdom experiment to explain the changing limits of election polling.
 - [155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](sources/155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii.md) — 张小珺Jùn访谈科沃斯CEO钱程，以电商与海外历练、接任CEO后的组织错配、家族企业传承、全球化和家务机器人节奏讨论接班如何转化为持续创造。
@@ -4785,6 +4786,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bumble didn't find its match on the stock market](sources/tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128.md) — Marketplace Tech interview on Bumble's proposed privatization, dating-platform growth constraints, private-equity governance risk, and AI–human hybrid matchmaking.
 
 ## Entities
+- [Helen O'Connell / 海伦·欧康诺](entities/HelenOConnell.md) — Australian urologist presented as restoring a complete modern account of clitoral anatomy and its surgical relevance.
+- [Anne Koedt / 安妮·科特](entities/AnneKoedt.md) — Radical feminist writer whose orgasm critique challenged reproductive and male-centered sexual scripts.
 - [Putian Medical Network / 莆田医疗经营网络](entities/PutianMedicalNetwork.md) — Loose family, company, brand, and operator network behind the broad “莆田系” medical label.
 - [Zhan Guotuan / 詹国团](entities/ZhanGuotuan.md) — Putian-origin operator connecting itinerant practice, advertising, department contracting, equipment cooperation, and comprehensive-hospital investment.
 - [Marist Poll](entities/MaristPoll.md) — Survey-research organization whose 2022 conventional estimate and crowd-wisdom experiment illustrate adaptive election-poll methodology.
@@ -18500,6 +18503,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Whitney Wolfe Herd](entities/WhitneyWolfeHerd.md) — Bumble founder used to separate one company's trajectory from category-wide judgments about women entrepreneurs.
 
 ## Concepts
+- [Clitoral Anatomy Research Gap / 阴蒂解剖研究鸿沟](concepts/ClitoralAnatomyResearchGap.md) — Technical and institutional explanation for the interrupted, delayed study of clitoral anatomy.
+- [Male-Default Medical Knowledge / 男性默认医学知识](concepts/MaleDefaultMedicalKnowledge.md) — Pattern in which male bodies supply the general reference for medicine and design.
+- [Reproductive-Centered Sex Education / 生殖中心性教育](concepts/ReproductiveCenteredSexEducation.md) — Curriculum boundary between reproductive instruction and complete, usable sexual-health literacy.
+- [Female Sexual Pleasure Research Legitimacy / 女性性愉悦研究正当性](concepts/FemaleSexualPleasureResearchLegitimacy.md) — Recognition of female pleasure as an independent subject of knowledge and care.
 - [Private Medical Acquisition Incentives / 民营医疗获客激励](concepts/PrivateMedicalAcquisitionIncentives.md) — How traffic, referrals, authority signals, and fixed costs can pressure patient-level monetization under information asymmetry.
 - [Private Hospital Compliance Transition / 民营医院合规转型](concepts/PrivateHospitalComplianceTransition.md) — Capital, licensing, staffing, continuity, governance, and demand challenge in moving toward durable formal care.
 - [Election Polling Representativeness](concepts/ElectionPollingRepresentativeness.md) — How selection, nonresponse, weighting, contact mode, and turnout jointly determine whether a poll reflects an electorate.

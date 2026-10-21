@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10705
+wiki_total_pages: 10709
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "FemaleSelfPossession"
     title: "Female Self-Possession"
     url: "/wiki/concepts/femaleselfpossession/"
+  - key: "FemaleSexualPleasureResearchLegitimacy"
+    title: "Female Sexual Pleasure Research Legitimacy / 女性性愉悦研究正当性"
+    url: "/wiki/concepts/femalesexualpleasureresearchlegitimacy/"
   - key: "FemaleStrengthAsSelfGovernance"
     title: "Female Strength as Self-Governance / 女性力量作为自我治理"
     url: "/wiki/concepts/femalestrengthasselfgovernance/"

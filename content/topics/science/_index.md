@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1592
+topic_total_pages: 1593
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1381,6 +1381,9 @@ topic_concepts:
   - key: "MaleMenopauseVisibility"
     title: "Male Menopause Visibility / 男性更年期可见性"
     url: "/wiki/concepts/malemenopausevisibility/"
+  - key: "MaleDefaultMedicalKnowledge"
+    title: "Male-Default Medical Knowledge / 男性默认医学知识"
+    url: "/wiki/concepts/maledefaultmedicalknowledge/"
   - key: "MarineCarbonRemoval"
     title: "Marine Carbon Removal"
     url: "/wiki/concepts/marinecarbonremoval/"

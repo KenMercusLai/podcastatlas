@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10705
+wiki_total_pages: 10709
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "ClinicianVulnerabilityAndSelfCare"
     title: "Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护"
     url: "/wiki/concepts/clinicianvulnerabilityandselfcare/"
+  - key: "ClitoralAnatomyResearchGap"
+    title: "Clitoral Anatomy Research Gap / 阴蒂解剖研究鸿沟"
+    url: "/wiki/concepts/clitoralanatomyresearchgap/"
   - key: "ClosedModelAPIMoatPressure"
     title: "Closed Model API Moat Pressure"
     url: "/wiki/concepts/closedmodelapimoatpressure/"

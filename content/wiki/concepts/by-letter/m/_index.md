@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10705
+wiki_total_pages: 10709
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "MaleUrologicalHealthMisconceptions"
     title: "Male Urological Health Misconceptions / 男性泌尿健康误区"
     url: "/wiki/concepts/maleurologicalhealthmisconceptions/"
+  - key: "MaleDefaultMedicalKnowledge"
+    title: "Male-Default Medical Knowledge / 男性默认医学知识"
+    url: "/wiki/concepts/maledefaultmedicalknowledge/"
   - key: "MaleMentorFemaleGrowthNarrative"
     title: "Male-Mentor Female-Growth Narrative / 男性导师式女性成长叙事"
     url: "/wiki/concepts/malementorfemalegrowthnarrative/"

@@ -58836,6 +58836,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MaleDefaultMedicalKnowledge": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MaleEmotionalIntimacyNeed": [
     {
       "key": "science",
