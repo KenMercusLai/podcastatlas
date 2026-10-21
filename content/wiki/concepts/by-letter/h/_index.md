@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10690
+wiki_total_pages: 10693
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -839,6 +839,15 @@ wiki_pages:
   - key: "HostageRansomDeterrence"
     title: "Hostage-Ransom Deterrence / 劫质禁赎威慑"
     url: "/wiki/concepts/hostageransomdeterrence/"
+  - key: "HostelBusinessModelTransformation"
+    title: "Hostel Business Model Transformation"
+    url: "/wiki/concepts/hostelbusinessmodeltransformation/"
+  - key: "HostelCustomerSegmentExpansion"
+    title: "Hostel Customer Segment Expansion"
+    url: "/wiki/concepts/hostelcustomersegmentexpansion/"
+  - key: "HostelPropertyAdaptiveReuse"
+    title: "Hostel Property Adaptive Reuse"
+    url: "/wiki/concepts/hostelpropertyadaptivereuse/"
   - key: "HostileMediaEffect"
     title: "Hostile Media Effect / 敌意媒体效应"
     url: "/wiki/concepts/hostilemediaeffect/"

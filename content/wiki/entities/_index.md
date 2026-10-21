@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13622
+wiki_total_pages: 13626
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "ATrueStory"
     title: "A True Story / 《真实的故事》"
     url: "/wiki/entities/atruestory/"
+  - key: "AOHostels"
+    title: "A&O Hostels"
+    url: "/wiki/entities/aohostels/"
   - key: "ABOTNavigation"
     title: "A-BOT Navigation"
     url: "/wiki/entities/abotnavigation/"

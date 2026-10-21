@@ -6559,6 +6559,10 @@
     "title": "ANUA",
     "url": "/wiki/entities/anua/"
   },
+  "AOHostels": {
+    "title": "A&O Hostels",
+    "url": "/wiki/entities/aohostels/"
+  },
   "AOL": {
     "title": "AOL",
     "url": "/wiki/entities/aol/"
@@ -12471,6 +12475,10 @@
     "title": "Bacha Coffee",
     "url": "/wiki/entities/bachacafe/"
   },
+  "BackpackTenYears": {
+    "title": "背包十年 / Backpack Ten Years",
+    "url": "/wiki/entities/backpacktenyears/"
+  },
   "BackwaterBattle": {
     "title": "背水一战 / Backwater Battle",
     "url": "/wiki/concepts/backwaterbattle/"
@@ -15722,6 +15730,10 @@
   "BronzeInscriptionPosterity": {
     "title": "Bronze Inscription Posterity / 金文的后世书写",
     "url": "/wiki/concepts/bronzeinscriptionposterity/"
+  },
+  "Brookfield": {
+    "title": "Brookfield",
+    "url": "/wiki/entities/brookfield/"
   },
   "BrookingsInstitution": {
     "title": "Brookings Institution",
@@ -37363,6 +37375,10 @@
     "title": "Generative Relationship System",
     "url": "/wiki/concepts/generativerelationshipsystem/"
   },
+  "GeneratorHostels": {
+    "title": "Generator Hostels",
+    "url": "/wiki/entities/generatorhostels/"
+  },
   "GenericDrugSubstitutionDecision": {
     "title": "Generic Drug Substitution Decision / 仿制药替换决策",
     "url": "/wiki/concepts/genericdrugsubstitutiondecision/"
@@ -43166,6 +43182,18 @@
   "HostageRansomDeterrence": {
     "title": "Hostage-Ransom Deterrence / 劫质禁赎威慑",
     "url": "/wiki/concepts/hostageransomdeterrence/"
+  },
+  "HostelBusinessModelTransformation": {
+    "title": "Hostel Business Model Transformation",
+    "url": "/wiki/concepts/hostelbusinessmodeltransformation/"
+  },
+  "HostelCustomerSegmentExpansion": {
+    "title": "Hostel Customer Segment Expansion",
+    "url": "/wiki/concepts/hostelcustomersegmentexpansion/"
+  },
+  "HostelPropertyAdaptiveReuse": {
+    "title": "Hostel Property Adaptive Reuse",
+    "url": "/wiki/concepts/hostelpropertyadaptivereuse/"
   },
   "HostileMediaEffect": {
     "title": "Hostile Media Effect / 敌意媒体效应",
@@ -104938,6 +104966,10 @@
   "gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057": {
     "title": "Gilets jeunes? France’s school protests",
     "url": "/wiki/sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057/"
+  },
+  "gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y": {
+    "title": "欧洲青旅一边关店一边扩张，这门生意发生了什么改变？",
+    "url": "/wiki/sources/gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y/"
   },
   "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364": {
     "title": "Goals Toolkit: How to Set & Achieve Your Goals",

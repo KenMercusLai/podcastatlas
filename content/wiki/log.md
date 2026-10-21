@@ -37383,3 +37383,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | 欧洲青旅一边关店一边扩张，这门生意发生了什么改变？
+
+Added source `gkwriueoruikahg1awtsiv4y-gkwriueoruikahg1awtsiv4y`; created [[AOHostels|A&O Hostels]], [[GeneratorHostels|Generator]], [[BackpackTenYears|背包十年]], [[Brookfield]], [[HostelBusinessModelTransformation]], [[HostelPropertyAdaptiveReuse]], and [[HostelCustomerSegmentExpansion]]. Core synthesis: investor-backed chain hostels combine mixed private and shared rooms, broader family and group demand, monetized common spaces, direct booking, and adaptive reuse of weak-demand offices; lower-cost beds remain an entry point, but food, drink, events, design, and social programming can become the larger revenue engine. No settled contradiction was adopted. Financing, revenue-share, conversion-cost, schedule, density, booking-share, market-share, and price comparisons remain episode-reported, while occupancy, regulation, construction overruns, labor, neighborhood effects, and city variation remain underexamined. Broad [[ShengdongZaokafei|声动早咖啡]], [[Starbucks]], [[Apple]], [[Migu]], [[SpaceX]], [[Anthropic]], [[ApolloGlobalManagement]], and general hotel pages were kept closed because focused hostel pages capture the durable addition without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,684 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

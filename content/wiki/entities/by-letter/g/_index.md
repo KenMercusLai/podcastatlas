@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13622
+wiki_total_pages: 13626
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "Generalist"
     title: "Generalist"
     url: "/wiki/entities/generalist/"
+  - key: "GeneratorHostels"
+    title: "Generator Hostels"
+    url: "/wiki/entities/generatorhostels/"
   - key: "GenesisMission"
     title: "Genesis Mission"
     url: "/wiki/entities/genesismission/"

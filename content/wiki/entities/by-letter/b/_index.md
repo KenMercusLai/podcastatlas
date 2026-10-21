@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13622
+wiki_total_pages: 13626
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "BronislawMalinowski"
     title: "Bronislaw Malinowski / 马林诺夫斯基"
     url: "/wiki/entities/bronislawmalinowski/"
+  - key: "Brookfield"
+    title: "Brookfield"
+    url: "/wiki/entities/brookfield/"
   - key: "BrookingsInstitution"
     title: "Brookings Institution"
     url: "/wiki/entities/brookingsinstitution/"
@@ -1697,6 +1700,9 @@ wiki_pages:
   - key: "BingZunLateHan"
     title: "秉尊 / Bing Zun (late Han)"
     url: "/wiki/entities/bingzunlatehan/"
+  - key: "BackpackTenYears"
+    title: "背包十年 / Backpack Ten Years"
+    url: "/wiki/entities/backpacktenyears/"
   - key: "BaoJi"
     title: "薄姬 / Lady Bo"
     url: "/wiki/entities/baoji/"
