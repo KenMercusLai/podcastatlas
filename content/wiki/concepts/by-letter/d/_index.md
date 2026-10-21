@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10700
+wiki_total_pages: 10703
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "DatingAppMarketplaceDynamics"
     title: "Dating-App Marketplace Dynamics"
     url: "/wiki/concepts/datingappmarketplacedynamics/"
+  - key: "DatingPlatformGrowthConstraint"
+    title: "Dating-Platform Growth Constraint"
+    url: "/wiki/concepts/datingplatformgrowthconstraint/"
   - key: "DayOfTheDead"
     title: "Day of the Dead"
     url: "/wiki/concepts/dayofthedead/"

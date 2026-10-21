@@ -37423,3 +37423,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-21] ingest | Bumble didn't find its match on the stock market
+
+Added source `tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128`; created [[Bumble]], [[IthacaHoldings]], [[WhitneyWolfeHerd]], [[PublicToPrivateStrategicReset]], [[DatingPlatformGrowthConstraint]], and [[AIHumanHybridMatchmaking]]; and resynthesized [[SarahKunst]], [[ClioCapital]], and [[DatingAppMarketplaceDynamics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: private ownership can create a longer experimentation window without guaranteeing patient stewardship; dating platforms combine local liquidity, generational relevance, offline scalability, satisfaction, retention, and monetization constraints; and AI–human matchmaking remains a qualified service hypothesis rather than demonstrated compatibility infrastructure. No settled contradiction was adopted. Transaction terms, valuation and share-price figures, user trends, matchmaking prices, buyer intent, data rights, AI performance, and future strategy remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,689 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

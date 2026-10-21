@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13631
+wiki_total_pages: 13634
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "BuiltForABetterWorld"
     title: "Built for a Better World"
     url: "/wiki/entities/builtforabetterworld/"
+  - key: "Bumble"
+    title: "Bumble"
+    url: "/wiki/entities/bumble/"
   - key: "Bump"
     title: "Bump"
     url: "/wiki/entities/bump/"

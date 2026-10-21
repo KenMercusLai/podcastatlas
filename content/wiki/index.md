@@ -4781,6 +4781,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [An interview with Alice Weidel](sources/an-interview-with-alice-weidel-027be4d01e889c07f016e332ffe9a77e.md) — Alice Weidel sets out AfD's national program under questioning on fiscal credibility, Ukraine, remigration, social policy, extremism, and coalition compromise.
 
+- [Bumble didn't find its match on the stock market](sources/tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128.md) — Marketplace Tech interview on Bumble's proposed privatization, dating-platform growth constraints, private-equity governance risk, and AI–human hybrid matchmaking.
+
 ## Entities
 - [Marist Poll](entities/MaristPoll.md) — Survey-research organization whose 2022 conventional estimate and crowd-wisdom experiment illustrate adaptive election-poll methodology.
 - [Barbara Carvalho](entities/BarbaraCarvalho.md) — Marist Poll director who explains representative sampling, weighting, and experimental learning.
@@ -18490,6 +18492,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Alice Weidel](entities/AliceWeidel.md) — AfD co-leader presenting the party's national economic, European, defence, migration, and social-policy program.
 
+- [Bumble](entities/Bumble.md) — Dating-platform company whose proposed privatization frames changing user behavior, local network effects, success-driven churn, and matching experiments.
+- [Ithaca Holdings](entities/IthacaHoldings.md) — Proposed Bumble acquirer whose stewardship remains unresolved between patient investment and extraction risk.
+- [Whitney Wolfe Herd](entities/WhitneyWolfeHerd.md) — Bumble founder used to separate one company's trajectory from category-wide judgments about women entrepreneurs.
+
 ## Concepts
 - [Election Polling Representativeness](concepts/ElectionPollingRepresentativeness.md) — How selection, nonresponse, weighting, contact mode, and turnout jointly determine whether a poll reflects an electorate.
 - [Crowd-Wisdom Polling](concepts/CrowdWisdomPolling.md) — Expected-winner and social-circle questions whose forecasting and behavioral-measurement uses require separate validation.
@@ -29278,5 +29284,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science Translation Valley of Death](concepts/ScienceTranslationValleyOfDeath.md) — Gap between academic discovery and research mature enough for practical adoption.
 - [Museum Security–Access Tradeoff](concepts/MuseumSecurityAccessTradeoff.md) — Tension between layered object protection, visitor safety, public access, and constrained museum budgets.
 - [Portable Precious-Object Theft](concepts/PortablePreciousObjectTheft.md) — Theft risk created by objects whose portability and recoverable material value survive loss of cultural identity.
+
+- [Public-to-Private Strategic Reset](concepts/PublicToPrivateStrategicReset.md) — Ownership transition that can widen the experimentation window while reducing visibility and increasing governance risk.
+- [Dating-Platform Growth Constraint](concepts/DatingPlatformGrowthConstraint.md) — Combined local-liquidity, generational-relevance, scalability, retention, satisfaction, and monetization problem in dating services.
+- [AI–Human Hybrid Matchmaking](concepts/AIHumanHybridMatchmaking.md) — Proposed combination of platform data, algorithmic filtering, and human judgment for selective or premium matching.
 
 ## Syntheses

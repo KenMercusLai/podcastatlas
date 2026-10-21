@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10700
+wiki_total_pages: 10703
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1844,6 +1844,9 @@ wiki_pages:
   - key: "AirportRouteSubsidyUrbanBranding"
     title: "Airport Route Subsidy Urban Branding / 航线补贴与城市国际化"
     url: "/wiki/concepts/airportroutesubsidyurbanbranding/"
+  - key: "AIHumanHybridMatchmaking"
+    title: "AI–Human Hybrid Matchmaking"
+    url: "/wiki/concepts/aihumanhybridmatchmaking/"
   - key: "AIAssistedPoetryCloseReading"
     title: "AI辅助诗歌细读 / AI-Assisted Poetry Close Reading"
     url: "/wiki/concepts/aiassistedpoetryclosereading/"

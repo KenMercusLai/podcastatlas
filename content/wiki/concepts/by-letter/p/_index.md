@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10700
+wiki_total_pages: 10703
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2702,6 +2702,9 @@ wiki_pages:
   - key: "PublicServiceDataPlatformTradeoff"
     title: "Public-Service Data Platform Trade-Off"
     url: "/wiki/concepts/publicservicedataplatformtradeoff/"
+  - key: "PublicToPrivateStrategicReset"
+    title: "Public-to-Private Strategic Reset"
+    url: "/wiki/concepts/publictoprivatestrategicreset/"
   - key: "PublicationBias"
     title: "Publication Bias"
     url: "/wiki/concepts/publicationbias/"

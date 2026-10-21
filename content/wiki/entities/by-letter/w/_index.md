@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13631
+wiki_total_pages: 13634
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "WhitneyDuan"
     title: "Whitney Duan"
     url: "/wiki/entities/whitneyduan/"
+  - key: "WhitneyWolfeHerd"
+    title: "Whitney Wolfe Herd"
+    url: "/wiki/entities/whitneywolfeherd/"
   - key: "WholeEarthCatalog"
     title: "Whole Earth Catalog / 《全球目录》"
     url: "/wiki/entities/wholeearthcatalog/"
