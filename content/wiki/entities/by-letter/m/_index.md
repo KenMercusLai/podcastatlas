@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13628
+wiki_total_pages: 13630
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1871,6 +1871,9 @@ wiki_pages:
   - key: "MuseumOfAlexandria"
     title: "Museum of Alexandria"
     url: "/wiki/entities/museumofalexandria/"
+  - key: "MuseumOfAppliedArtsVienna"
+    title: "Museum of Applied Arts Vienna"
+    url: "/wiki/entities/museumofappliedartsvienna/"
   - key: "MusicalLy"
     title: "Musical.ly"
     url: "/wiki/entities/musically/"

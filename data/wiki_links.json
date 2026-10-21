@@ -24319,6 +24319,10 @@
     "title": "Cult of the Supreme Being",
     "url": "/wiki/entities/cultofsupremebeing/"
   },
+  "Cultivarium": {
+    "title": "Cultivarium",
+    "url": "/wiki/entities/cultivarium/"
+  },
   "CultivatedImperialCapacity": {
     "title": "修养型帝王能力 / Cultivated Imperial Capacity",
     "url": "/wiki/concepts/cultivatedimperialcapacity/"
@@ -34630,6 +34634,10 @@
   "FocusedDiffuseThinkingBalance": {
     "title": "Focused-Diffuse Thinking Balance / 专注与发散思维均衡",
     "url": "/wiki/concepts/focuseddiffusethinkingbalance/"
+  },
+  "FocusedResearchOrganizations": {
+    "title": "Focused Research Organizations",
+    "url": "/wiki/concepts/focusedresearchorganizations/"
   },
   "FocusedUltrasoundNeuromodulation": {
     "title": "Focused Ultrasound Neuromodulation",
@@ -62803,6 +62811,14 @@
     "title": "Museum of Alexandria",
     "url": "/wiki/entities/museumofalexandria/"
   },
+  "MuseumOfAppliedArtsVienna": {
+    "title": "Museum of Applied Arts Vienna",
+    "url": "/wiki/entities/museumofappliedartsvienna/"
+  },
+  "MuseumSecurityAccessTradeoff": {
+    "title": "Museum Security–Access Tradeoff",
+    "url": "/wiki/concepts/museumsecurityaccesstradeoff/"
+  },
   "MuseumTourismIcon": {
     "title": "Museum Tourism Icon",
     "url": "/wiki/concepts/museumtourismicon/"
@@ -70562,6 +70578,10 @@
   "PortablePoliticalCapital": {
     "title": "Portable Political Capital / 可携带政治资本",
     "url": "/wiki/concepts/portablepoliticalcapital/"
+  },
+  "PortablePreciousObjectTheft": {
+    "title": "Portable Precious-Object Theft",
+    "url": "/wiki/concepts/portablepreciousobjecttheft/"
   },
   "PortfolioSuitability": {
     "title": "Portfolio Suitability",
@@ -78870,6 +78890,10 @@
   "ScienceTalentPipeline": {
     "title": "Science Talent Pipeline",
     "url": "/wiki/concepts/sciencetalentpipeline/"
+  },
+  "ScienceTranslationValleyOfDeath": {
+    "title": "Science Translation Valley of Death",
+    "url": "/wiki/concepts/sciencetranslationvalleyofdeath/"
   },
   "ScienceTrustPoliticization": {
     "title": "Science Trust Politicization",
@@ -103078,6 +103102,10 @@
   "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822": {
     "title": "Caracas under pressure: democracy in Venezuela",
     "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+  },
+  "cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba": {
+    "title": "Cash test: can Europe support Ukraine alone?",
+    "url": "/wiki/sources/cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba/"
   },
   "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2": {
     "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",

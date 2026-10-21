@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10696
+wiki_total_pages: 10700
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "MuseumInterpretationLegibility"
     title: "Museum Interpretation Legibility / 博物馆阐释可读性"
     url: "/wiki/concepts/museuminterpretationlegibility/"
+  - key: "MuseumSecurityAccessTradeoff"
+    title: "Museum Security–Access Tradeoff"
+    url: "/wiki/concepts/museumsecurityaccesstradeoff/"
   - key: "MuseumTourismIcon"
     title: "Museum Tourism Icon"
     url: "/wiki/concepts/museumtourismicon/"

@@ -4777,6 +4777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Disorder of magnitude: France’s riots](sources/disorder-of-magnitude-frances-riots-454c603849c78e6a57bfa1c8bf33de7c.md) — The Intelligence on French unrest and electoral polarization, Zimbabwe's contract-financed but tenure-constrained agricultural recovery, and a satire of AI extinction fine print.
 
 - [EP390-李秀满新女团爆红背后：出道即塌房？最小成员只有13岁？](sources/ep390-lixiuman-xin-nvtuan-baohong-beihou-chudao-ji-tafang-zuixiao-chengyuan-zhiyou-13sui-gkwrirworuemaf_2bgtsih8x.md) — 无时差研究所以 A2O Light 讨论 K-pop 偶像制作、成长型粉丝机制、未成年职业化风险与家庭债务责任边界。
+- [Cash test: can Europe support Ukraine alone?](sources/cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba.md) — Economist Podcasts on Europe's uneven ability to replace U.S. support for Ukraine, focused research organizations, and museum theft risk.
 
 ## Entities
 - [Marist Poll](entities/MaristPoll.md) — Survey-research organization whose 2022 conventional estimate and crowd-wisdom experiment illustrate adaptive election-poll methodology.
@@ -18482,6 +18483,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A2O Light](entities/A2OLight.md) — Young multinational girl group whose songs, choreography, worldbuilding, and age profile anchor the episode's production and ethics analysis.
 - [李秀满 / Lee Soo-man](entities/LeeSooMan.md) — K-pop producer presented as a system-builder combining music, choreography, roles, concepts, casting, and operations.
 - [盛爱靖 / Sheng Aijing](entities/ShengAijing.md) — A2O Light member whose attention and reported family-business controversy require a strict minor-responsibility boundary.
+- [Cultivarium](entities/Cultivarium.md) — Focused research organization building a public resource around understudied fungi and microbes.
+- [Museum of Applied Arts Vienna](entities/MuseumOfAppliedArtsVienna.md) — Vienna museum case exposing the limits of display-case protection without layered entry and response security.
 
 ## Concepts
 - [Election Polling Representativeness](concepts/ElectionPollingRepresentativeness.md) — How selection, nonresponse, weighting, contact mode, and turnout jointly determine whether a poll reflects an electorate.
@@ -29267,5 +29270,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [K-pop Idol Production System / K-pop偶像制作系统](concepts/KPopIdolProductionSystem.md) — Coordinated design of songs, choreography, roles, visuals, worldbuilding, casting, training, and release continuity.
 - [Underage Idol Professionalization Risk / 未成年偶像职业化风险](concepts/UnderageIdolProfessionalizationRisk.md) — Mismatch between a child's decision capacity and the labor, education, bodily, and public costs of professional entertainment.
 - [Idol Growth Fandom Mechanism / 偶像成长型粉丝机制](concepts/IdolGrowthFandomMechanism.md) — Fan attachment turning visible development into recurring content, companionship, speculation, and early-recognition status.
+- [Focused Research Organizations](concepts/FocusedResearchOrganizations.md) — Mission-bounded institutions for scientific tools, engineering, and interdisciplinary work underserved by paper and product incentives.
+- [Science Translation Valley of Death](concepts/ScienceTranslationValleyOfDeath.md) — Gap between academic discovery and research mature enough for practical adoption.
+- [Museum Security–Access Tradeoff](concepts/MuseumSecurityAccessTradeoff.md) — Tension between layered object protection, visitor safety, public access, and constrained museum budgets.
+- [Portable Precious-Object Theft](concepts/PortablePreciousObjectTheft.md) — Theft risk created by objects whose portability and recoverable material value survive loss of cultural identity.
 
 ## Syntheses

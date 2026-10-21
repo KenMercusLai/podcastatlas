@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3361
+topic_total_pages: 3362
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9162,6 +9162,9 @@ topic_sources:
   - key: "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822"
     title: "Caracas under pressure: democracy in Venezuela"
     url: "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+  - key: "cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba"
+    title: "Cash test: can Europe support Ukraine alone?"
+    url: "/wiki/sources/cash-test-can-europe-support-ukraine-alone-60e0fa97fc3b0dcfbac470b2da9e20ba/"
   - key: "centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9"
     title: "Centre punch: Germany’s state-election shocker"
     url: "/wiki/sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9/"

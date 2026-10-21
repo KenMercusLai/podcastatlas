@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10696
+wiki_total_pages: 10700
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "ScienceTalentPipeline"
     title: "Science Talent Pipeline"
     url: "/wiki/concepts/sciencetalentpipeline/"
+  - key: "ScienceTranslationValleyOfDeath"
+    title: "Science Translation Valley of Death"
+    url: "/wiki/concepts/sciencetranslationvalleyofdeath/"
   - key: "ScienceTrustPoliticization"
     title: "Science Trust Politicization"
     url: "/wiki/concepts/sciencetrustpoliticization/"
