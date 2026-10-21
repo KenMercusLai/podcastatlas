@@ -14,26 +14,27 @@ sources:
   - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
   - shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4
   - shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa
-last_updated: 2026-10-04
+  - shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
 # 史蒂夫说
 
 ## Overview
-史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, and trust. [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa|Episode 470]] uses five listener letters to connect human complexity, uneven personality development, workplace belonging, therapeutic alliance, and former-partner disclosure.
+史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, attachment, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, and trust. Episode 477 uses four listener letters to connect dignity after attack, secure-base exploration, self-attachment, harmful relationship repetition, and career confidence.
 
 ## Current Profile
-The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episode 475 turns the same boundary toward care; episode 470 makes the method explicit by resisting behavior-to-character compression, treating confidence as a repertoire, requiring collaborative and nonjudgmental therapy, and locating trust in repeated relationship experience. The show therefore joins self-understanding to an expanding ethic of relational attention without promising certainty.
+The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episodes 475 and 477 turn the same boundary toward care, secure attachment, dignity, and exploration; episode 470 resists behavior-to-character compression and locates trust in repeated relationship experience. The show therefore joins self-understanding to an expanding ethic of relational attention without promising certainty.
 
 ## Key Characteristics
 - Long-form interview format centered on psychological self-understanding and relationship repair.
 - Uses host self-disclosure to translate clinical concepts into concrete body, family, caregiving, and everyday interaction examples.
-- Frames anxiety as a practical regulation and support problem rather than a moral weakness.
-- Uses listener letters to turn everyday relational distress into bounded public psychoeducation.
+- Frames anxiety and listener-letter distress as practical regulation, support, and bounded public-psychoeducation problems rather than moral weakness.
 - Treats psychology as care-oriented language that can become harmful when used for self-surveillance.
 - Treats sex and intimacy as psychologically serious subjects shaped by body, relationship, social norms, and responsibility.
 - Repeatedly separates situational difficulty from defective selfhood while protecting first-person context, uncertainty, collaborative inquiry, and the right to reject a totalizing explanation.
+- Connects being seen and feeling safe to the capacity for exploration while preserving the need for boundaries, diversified support, and independent action.
 
 ## Evidence
 - Format and participants - [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]] presents Steve as host and [[ZhaoJinzhao|Dr. Claire]] as guest in a nearly two-hour discussion, while [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] uses listener letters as the episode structure.
@@ -50,14 +51,15 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Relationship power and judgment - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11]] uses four listener letters to connect [[PowerLiteracy]], [[RelationalInterpretiveAuthority]], [[LoveControlIllusion]], and [[MultidimensionalMarriageMeaning]].
 - Relationship harbor and fatherhood - [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4]] connects marriage, unequal care, male vulnerability, infant signals, family safety, divorce, aging, and death through [[PreverbalRelationalAttunement]] and [[NonInstrumentalRelationalSafety]].
 - Complexity, alliance, and trust - [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa]] connects [[BehaviorBasedHumanReductionism]], [[CompensatoryPersonalityIntegration]], therapeutic collaboration, relationship optionality, and [[LongitudinalRelationshipTrust]] across five listener letters.
+- Attachment, dignity, and exploration - [[shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia]] connects trauma recovery, age anxiety, harmful relationship repetition, and career hesitation through [[SecureAttachmentExploration]], [[SelfAttachmentBelonging]], [[NegativeAttentionRelationshipGame]], and [[InformedMoralChoice]].
 
 ## Qualifications
-The show profile is based on eleven ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, or crisis care. Episode 470's readings of third parties and episode 475's gendered attention patterns remain experiential and source-scoped rather than verified or universal.
+The show profile is based on twelve ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, or crisis care. Episode 477's attachment and family-history readings, episode 470's readings of third parties, and episode 475's gendered attention patterns remain experiential and source-scoped rather than verified or universal.
 
 ## What Changed
-- Added episode 470's anti-reductionist account of behavior, moral judgment, and whole-person interpretation.
-- Added neglected-capacity development and response variety to the show's account of confidence.
-- Made collaborative therapeutic alliance and longitudinal trust explicit within its relational ethic.
+- Added episode 477's secure-attachment and self-attachment account of exploration and belonging.
+- Added its distinction between negative attention and no attention as one hypothesis for repeated harmful relationships.
+- Added dignity-aware harm recognition and active moral choice to the show's relational ethic.
 
 ## Relationships
 - [[SteveShiDiFuShuoHost|Steve]] - host in the current source.
@@ -94,3 +96,7 @@ The show profile is based on eleven ingested episodes. Broader production histor
 - [[BehaviorBasedHumanReductionism]] - episode 470's boundary against inferring a whole person from one act.
 - [[CompensatoryPersonalityIntegration]] - episode 470's account of developing neglected parts and wider response options.
 - [[LongitudinalRelationshipTrust]] - episode 470's process account of disclosure, forgiveness, and trust.
+- [[SecureAttachmentExploration]] - episode 477's account of safety as a base for curiosity and action.
+- [[SelfAttachmentBelonging]] - episode 477's account of becoming a stable inner source of belonging.
+- [[NegativeAttentionRelationshipGame]] - episode 477's hypothesis about hurt as a substitute for invisibility.
+- [[InformedMoralChoice]] - episode 477's link between recognizing harm, protecting dignity, and actively choosing good.

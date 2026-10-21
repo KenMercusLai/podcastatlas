@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10709
+wiki_total_pages: 10713
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "InformationOverloadKnowledgeTrap"
     title: "Information Overload Knowledge Trap"
     url: "/wiki/concepts/informationoverloadknowledgetrap/"
+  - key: "InformedMoralChoice"
+    title: "Informed Moral Choice / 识恶后的主动择善"
+    url: "/wiki/concepts/informedmoralchoice/"
   - key: "InformedOptimism"
     title: "Informed Optimism"
     url: "/wiki/concepts/informedoptimism/"

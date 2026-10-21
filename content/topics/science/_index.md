@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1593
+topic_total_pages: 1597
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1588,6 +1588,9 @@ topic_concepts:
   - key: "NegativeResultsAsScientificData"
     title: "Negative Results As Scientific Data"
     url: "/wiki/concepts/negativeresultsasscientificdata/"
+  - key: "NegativeAttentionRelationshipGame"
+    title: "Negative-Attention Relationship Game / 负向关注关系游戏"
+    url: "/wiki/concepts/negativeattentionrelationshipgame/"
   - key: "NeuralGeometry"
     title: "Neural Geometry"
     url: "/wiki/concepts/neuralgeometry/"
@@ -2095,6 +2098,9 @@ topic_concepts:
   - key: "SecondStageReuseConstraint"
     title: "Second-Stage Reuse Constraint"
     url: "/wiki/concepts/secondstagereuseconstraint/"
+  - key: "SecureAttachmentExploration"
+    title: "Secure Attachment and Exploration / 安全依恋与探索"
+    url: "/wiki/concepts/secureattachmentexploration/"
   - key: "SeizureFirstAidBoundary"
     title: "Seizure First-Aid Boundary / 抽搐急救边界"
     url: "/wiki/concepts/seizurefirstaidboundary/"
@@ -2104,6 +2110,9 @@ topic_concepts:
   - key: "SelectiveNeuralStimulationPrecision"
     title: "Selective Neural Stimulation Precision"
     url: "/wiki/concepts/selectiveneuralstimulationprecision/"
+  - key: "SelfAttachmentBelonging"
+    title: "Self-Attachment and Belonging / 自我依恋与归属"
+    url: "/wiki/concepts/selfattachmentbelonging/"
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
@@ -4776,6 +4785,9 @@ topic_sources:
   - key: "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4"
     title: "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得"
     url: "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
+  - key: "shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia"
+    title: "史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善"
+    url: "/wiki/sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia/"
   - key: "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352"
     title: "商业小样45 | 厄尔尼诺越大，鱼越贵"
     url: "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"

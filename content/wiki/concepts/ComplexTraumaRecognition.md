@@ -12,7 +12,8 @@ sources:
   - 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286
   - shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi
   - shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j
-last_updated: 2026-09-08
+  - shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,7 +25,7 @@ Complex trauma recognition is the practice of seeing repeated, relational, or de
 ## Current Synthesis
 Across the current sources, complex trauma becomes visible when ordinary labels no longer explain the intensity of fear, shame, appeasement, numbness, anger, or self-blame. Family secrecy after bereavement, childhood non-protection, disability misrecognition, intimate abuse, institutional violence, and repeated emotional extraction can all leave durable safety strategies. The point of recognition is not to turn suffering into a fixed identity; it is to stop treating survival responses as moral defects.
 
-The sources repeatedly connect trauma to shame and body-level alarm. Fawning, freezing, people-pleasing, overwork, rescuing weak partners, emotional numbing, bodily shaking, social hypervigilance, and anger after repeated misrecognition can be attempts to stay safe. Episodes 471 and 468 add contemporary listener-letter versions: sensitivity to gossip, heart racing around a colleague, compulsive self-sacrifice, toxic shame, emotional flashbacks, intrusive thoughts, and negative narrative may make more sense as old alarm systems than as weakness.
+The sources repeatedly connect trauma to shame and body-level alarm. Fawning, freezing, people-pleasing, overwork, rescuing weak partners, emotional numbing, bodily shaking, social hypervigilance, and anger after repeated misrecognition can be attempts to stay safe. Episodes 471, 468, and 477 add contemporary listener-letter versions: sensitivity to gossip, heart racing around a colleague, compulsive self-sacrifice, toxic shame, emotional flashbacks, detachment after attack, and low exploration confidence may make more sense as old safety systems than as weakness.
 
 Recognition remains bounded. The wiki sources do not authorize diagnosis from a story, and they keep clinical pacing central. Naming trauma too quickly, rehearsing painful memories without support, or using trauma vocabulary as self-attack can destabilize the person. Good recognition should return blame to harmful contexts while opening care, boundaries, body regulation, and new relational experience.
 
@@ -47,15 +48,14 @@ Recognition remains bounded. The wiki sources do not authorize diagnosis from a 
 - Memory and pacing caution - [[143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634]] adds that painful-memory rehearsal can reinforce distress, so recognition should not become pressure to keep chewing over pain.
 - Workplace and emotional flashback - [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] interprets hypervigilance around gossip, heart racing with a colleague, people-pleasing, toxic shame, and present-time safety practice as possible complex-trauma material.
 - Flashback grounding and insecurity - [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]] links old bullying, exclusion, shame, and chronic insecurity to emotional flashbacks, danger-searching memory, body warning signs, present-safety grounding, and multiple-interpretation practice.
+- Dignity, detachment, and exploration - [[shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia]] adds school withdrawal after depression and bullying, distance as temporary protection, explicit dignity recognition, and the possibility that early attachment injury constrains later relationship and career exploration.
 
 ## Counterevidence & Qualifications
 Complex trauma recognition is not remote diagnosis. Some distress may come from ordinary conflict, current workplace conditions, medical factors, anxiety disorders, depression, coercive relationships, or practical overload. The sources also warn against using trauma language to freeze identity, excuse harm to others, rehearse pain without support, or bypass professional care when symptoms are severe.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` while preserving the existing source inventory.
-- Added episode 471's CPTSD, toxic shame, emotional flashback, workplace hypervigilance, and present-safety grounding branch.
-- Added episode 468's emotional-flashback grounding, chronic insecurity, intrusive-thought caution, and shame-attribution examples.
-- Clarified the boundary between recognition as care and trauma vocabulary as self-attack.
+- Added episode 477's detachment-as-protection, dignity-recognition, bullying, death-threat, and exploration-confidence branch.
+- Clarified that surviving by “not caring” can coexist with an unaddressed violation and need for safer boundary-setting.
 
 ## Related Concepts
 - [[FawnResponse]] - appeasing threat as a survival response.
@@ -68,3 +68,5 @@ Complex trauma recognition is not remote diagnosis. Some distress may come from 
 - [[PsychologyConceptSelfPunishment]] - risk of turning recognition vocabulary into self-surveillance.
 - [[EmotionalFlashbackGrounding]] - practical grounding route when old danger floods the present.
 - [[OmnipotentSelfBlame]] - attribution risk where harm or hardship becomes total self-causation.
+- [[SecureAttachmentExploration]] - relationship between felt safety and the capacity to explore.
+- [[InformedMoralChoice]] - dignity and harm-recognition branch that turns insight toward protection and chosen conduct.

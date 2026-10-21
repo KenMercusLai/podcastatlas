@@ -37447,3 +37447,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | 史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善
+
+Added source `shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia`; created [[SecureAttachmentExploration|安全依恋与探索]], [[SelfAttachmentBelonging|自我依恋与归属]], [[NegativeAttentionRelationshipGame|负向关注关系游戏]], and [[InformedMoralChoice|识恶后的主动择善]]; and resynthesized [[ShiDiFuShuo|史蒂夫说]], [[ComplexTraumaRecognition]], [[GenderedAgeAnxiety]], and [[FamiliarPainRelationshipPattern]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: dependable attachment can release exploration without making one partner the sole source of action; self-attachment integrates external fragments of belonging; familiar hurt may sometimes be maintained because negative attention feels safer than invisibility; and goodness becomes active when harm is recognized without surrendering dignity, boundaries, or proportionate judgment. No settled contradiction was adopted. The host's readings of emotional neglect, attachment injury, parental absence, grandparent care, and repeated harmful relationships remain hypotheses based on short letters rather than diagnoses. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,692 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10709
+wiki_total_pages: 10713
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "SecularHappinessAgainstIdeology"
     title: "Secular Happiness Against Ideology"
     url: "/wiki/concepts/secularhappinessagainstideology/"
+  - key: "SecureAttachmentExploration"
+    title: "Secure Attachment and Exploration / 安全依恋与探索"
+    url: "/wiki/concepts/secureattachmentexploration/"
   - key: "SecurityBacklashPolitics"
     title: "Security Backlash Politics"
     url: "/wiki/concepts/securitybacklashpolitics/"
@@ -578,6 +581,9 @@ wiki_pages:
   - key: "SelfAbandonmentBoundary"
     title: "Self-Abandonment Boundary"
     url: "/wiki/concepts/selfabandonmentboundary/"
+  - key: "SelfAttachmentBelonging"
+    title: "Self-Attachment and Belonging / 自我依恋与归属"
+    url: "/wiki/concepts/selfattachmentbelonging/"
   - key: "SelfBuiltAgentWorkflow"
     title: "Self-Built Agent Workflow"
     url: "/wiki/concepts/selfbuiltagentworkflow/"

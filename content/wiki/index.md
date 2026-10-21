@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善](sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia.md) — 四封来信以依恋安全串联创伤、年龄焦虑、有毒关系与职业自卑，并讨论尊严、识恶、主动择善和自我归属。
 - [誰的身體值得先被研究？遲到的陰蒂史](sources/af3491ca3aca3a270aadb44a7f572e93-af3491ca3aca3a270aadb44a7f572e93.md) — 端聞以陰蒂三維神經圖回顧解剖知識的失落與遲滯，並連結男性默認醫學、生殖中心性教育、手術風險和女性性愉悅的研究正當性。
 - [No.223 “莆田系”医事：从电线杆到手术台](sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox.md) — 半拿铁 history of Putian-linked medical businesses, acquisition incentives, patient harm, regulatory gaps, and difficult institutional transition.
 - [We try to fix election polling (update)](sources/default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686-default-mp3-ywr3ahjkcgo-8f03a9ac89c49266c3a2db0ebc7b4eb6-31753686.md) — Planet Money and the Marist Poll use historical failures, modern nonresponse, weighting, and a negative crowd-wisdom experiment to explain the changing limits of election polling.
@@ -18503,6 +18504,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Whitney Wolfe Herd](entities/WhitneyWolfeHerd.md) — Bumble founder used to separate one company's trajectory from category-wide judgments about women entrepreneurs.
 
 ## Concepts
+- [Secure Attachment and Exploration / 安全依恋与探索](concepts/SecureAttachmentExploration.md) — Felt relational safety can release attention and energy for curiosity, learning, work, and experimentation.
+- [Self-Attachment and Belonging / 自我依恋与归属](concepts/SelfAttachmentBelonging.md) — Practice of becoming a stable inner witness and caregiver without denying the need for external support.
+- [Negative-Attention Relationship Game / 负向关注关系游戏](concepts/NegativeAttentionRelationshipGame.md) — Harmful interaction pattern in which painful response can feel safer than invisibility or no response.
+- [Informed Moral Choice / 识恶后的主动择善](concepts/InformedMoralChoice.md) — Active goodness grounded in harm recognition, dignity, proportionate protection, and refusal to reproduce injury.
 - [Clitoral Anatomy Research Gap / 阴蒂解剖研究鸿沟](concepts/ClitoralAnatomyResearchGap.md) — Technical and institutional explanation for the interrupted, delayed study of clitoral anatomy.
 - [Male-Default Medical Knowledge / 男性默认医学知识](concepts/MaleDefaultMedicalKnowledge.md) — Pattern in which male bodies supply the general reference for medicine and design.
 - [Reproductive-Centered Sex Education / 生殖中心性教育](concepts/ReproductiveCenteredSexEducation.md) — Curriculum boundary between reproductive instruction and complete, usable sexual-health literacy.

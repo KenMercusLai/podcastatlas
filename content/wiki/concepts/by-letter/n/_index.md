@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10709
+wiki_total_pages: 10713
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "NegativeResultsAsScientificData"
     title: "Negative Results As Scientific Data"
     url: "/wiki/concepts/negativeresultsasscientificdata/"
+  - key: "NegativeAttentionRelationshipGame"
+    title: "Negative-Attention Relationship Game / 负向关注关系游戏"
+    url: "/wiki/concepts/negativeattentionrelationshipgame/"
   - key: "NeglectedFrictionProductInnovation"
     title: "Neglected-Friction Product Innovation / 被忽视摩擦的产品创新"
     url: "/wiki/concepts/neglectedfrictionproductinnovation/"
