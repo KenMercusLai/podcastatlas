@@ -18063,6 +18063,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BankAnimalSymbolism": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "BankBranchAfterHoursWork": [
     {
       "key": "economics",
@@ -43614,6 +43621,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HSBCLions": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "HYROX": [
     {
       "key": "culture",
@@ -57900,6 +57914,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LuQianshou": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "LuShengHanGeneral": [
@@ -105022,6 +105043,13 @@
     }
   ],
   "gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k": [
     {
       "key": "economics",
       "label": "Economics",

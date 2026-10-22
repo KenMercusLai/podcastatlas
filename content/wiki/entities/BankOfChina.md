@@ -1,25 +1,67 @@
 ---
 title: "Bank of China"
 type: entity
-tags: [institution, banking, finance, china]
-sources: [136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
-last_updated: 2026-08-06
+tags: [institution, banking, finance, china, architecture]
+sources:
+  - 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt
+  - ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py
+  - no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046
+  - gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k
+last_updated: 2026-10-22
+knowledge_schema: synthesis-v1
 ---
 
-# Bank of China
+## Overview
 
-Bank of China appears in [[ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py]] as one of the "four banks" in [[RepublicanChinaBankingSystem]]. The episode associates it with international exchange, trade settlement, and the Bund building history that links financial institutions to Shanghai's urban and family-capital geography.
+Bank of China appears across the wiki as a Republican-era financial institution, a later absorber of private overseas-remittance networks, a modern bank-wealth-management parent, and a user of architecture to express Chinese institutional identity.
 
-In the source, Bank of China is not just a modern bank name. It is part of a wider institutional story in which central banking, commercial banking, trade finance, foreign banks, and state finance coexisted in Republican-era Shanghai.
+## Current Profile
 
-[[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] adds Bank of China as the formal endpoint for [[QiaopiRemittanceNetworks]]. In the episode's [[Chaoshan]] branch, qiaopi offices and related remittance business were gradually brought under bank administration by the late 1970s, marking the end of the older private courier-and-batch-office system.
+Across the evidence, Bank of China spans several forms of financial institutionalization. It appears among the Nationalist-era “four banks,” associated with international exchange, trade settlement, and Shanghai's mixed domestic and foreign-bank geography; qiaopi remittance offices and related business were brought under bank administration by the late 1970s; and the bank later became one of the first approved to establish a dedicated wealth-management subsidiary after the asset-management reforms.
 
-[[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds a modern bank wealth-management note. The episode says [[ChinaBankingAndInsuranceRegulatoryCommission|银保监会]] approved Bank of China and [[ChinaConstructionBank|China Construction Bank]] to establish the first [[BankWealthManagementSubsidiary|bank wealth-management subsidiaries]] on 2018-12-26, making BOC part of the post-[[AssetManagementNewRules|资管新规]] transition branch.
+Its architectural identity is similarly selective. Buildings associated with [[LuQianshou]] combined modern form with glazed tile, Confucius relief, ruyi-cloud motifs, bixie, and later guardian lions. This is an institutional language rather than evidence that every Bank of China entrance follows one animal-symbol standard.
 
-## Connections
-- [[RepublicanChinaBankingSystem]] — institutional structure where Bank of China appears.
-- [[ShanghaiForeignBanks]] — Bund and Jiujiang Road financial geography surrounding the bank.
-- [[CentralBankOfChina]], [[BankOfCommunications]], and [[ChinaFarmersBank]] — other "four banks" actors named in the source.
-- [[ForeignBankingInChina]] — modern page extended by this historical banking layer.
-- [[QiaopiRemittanceNetworks]], [[Chaoshan]], and [[Shantou]] — remittance-system absorption branch added by Banlatte episode 205.
-- [[BankWealthManagementSubsidiary]], [[ChineseBankWealthManagement]], and [[AssetManagementNewRules]] — modern wealth-management subsidiary branch added by episode 136.
+## Key Characteristics
+
+- Republican-era “four banks” institution associated with exchange, settlement, state finance, and Shanghai banking geography.
+- Formal endpoint in the source's account of private Chaoshan qiaopi remittance administration.
+- Early parent of a post-reform bank wealth-management subsidiary.
+- Used modern architecture plus selected Chinese motifs and mythical animals to express institutional identity.
+- Its different buildings and later alterations do not resolve into one uniform symbolic template.
+
+## Evidence
+
+### Republican-era institutional role
+
+- [[ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py|EP23]] places Bank of China within the “four banks” and Shanghai's exchange, settlement, and Bund financial geography.
+
+### Remittance-system absorption
+
+- [[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046|No.205]] identifies Bank of China as the formal endpoint for the source's late-1970s transition away from private [[QiaopiRemittanceNetworks]].
+
+### Wealth-management reform
+
+- [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt|Episode 136]] reports approval for Bank of China and China Construction Bank to establish the first [[BankWealthManagementSubsidiary|bank wealth-management subsidiaries]] in December 2018.
+
+### Architectural identity
+
+- [[gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k|Vol.278]] describes the Shanghai and Hong Kong buildings, [[LuQianshou]]'s role, Chinese motifs, bixie, later lion substitution, and the absence of a doorway animal at the Beijing headquarters.
+
+## Qualifications
+
+These sources cover selected episodes, not a continuous institutional history. The timing and terms of qiaopi absorption, wealth-management approval, architectural attribution, building-height reduction, restoration identification, and sculpture replacement remain source-scoped. The Shanghai tower's reduction is presented as involving silver-market, property, and liquidity pressure rather than only a popular Sassoon obstruction story, but the episode does not supply a full archival adjudication.
+
+## What Changed
+
+- Added architecture and mythical-animal choice as part of Bank of China's institutional expression.
+- Distinguished Shanghai bixie and later Hong Kong lions from a universal bank-lion custom.
+- Integrated the architectural layer with existing Republican finance, remittance, and wealth-management roles.
+
+## Relationships
+
+- [[LuQianshou]] - architect associated by the source with Bank of China buildings and their modern-Chinese synthesis.
+- [[RepublicanChinaBankingSystem]] - institutional structure in which the bank appears among the “four banks.”
+- [[ShanghaiForeignBanks]] - adjacent Bund geography that shaped the bank's visual and financial setting.
+- [[QiaopiRemittanceNetworks]] - private remittance system later absorbed into formal bank administration.
+- [[BankWealthManagementSubsidiary]] - modern reform structure established by the bank.
+- [[BankAnimalSymbolism]] - framework for the bank's selective use of bixie, lions, and other identity-bearing forms.

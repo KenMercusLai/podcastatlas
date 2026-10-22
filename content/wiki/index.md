@@ -4787,6 +4787,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Bumble didn't find its match on the stock market](sources/tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128.md) — Marketplace Tech interview on Bumble's proposed privatization, dating-platform growth constraints, private-equity governance risk, and AI–human hybrid matchmaking.
 
+- [Vol.278 为什么银行门口会有石狮子？](sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k.md) — 商业就是这样追溯汇丰铜狮、银行建筑、传统守门兽、风水解释与石雕商业复制，说明银行门口石狮是多源混合的新创传统而非统一古制。
+
 ## Entities
 - [Helen O'Connell / 海伦·欧康诺](entities/HelenOConnell.md) — Australian urologist presented as restoring a complete modern account of clitoral anatomy and its surgical relevance.
 - [Anne Koedt / 安妮·科特](entities/AnneKoedt.md) — Radical feminist writer whose orgasm critique challenged reproductive and male-centered sexual scripts.
@@ -13179,7 +13181,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Banking and Insurance Regulatory Commission / 银保监会](entities/ChinaBankingAndInsuranceRegulatoryCommission.md) — Banking-and-insurance regulator tied by episode 136 to the approval of bank wealth-management subsidiaries after 资管新规.
 - [China Construction Bank / 建设银行](entities/ChinaConstructionBank.md) — State bank used by episode 136 as a first-approval and first-opening case for bank wealth-management subsidiaries.
 - [China Everbright Bank / 光大银行](entities/ChinaEverbrightBank.md) — Bank credited by episode 136 with an early RMB retail bank wealth-management product and later mentioned in bank wealth-management product selection.
-- [Shanghai Pudong Development Bank / 浦发银行](entities/ShanghaiPudongDevelopmentBank.md) — Bank case tied by episode 136 to Pufa Wealth legacy-risk, stock-pledge, and equity-direct-investment cleanup.
+- [Shanghai Pudong Development Bank / 浦发银行](entities/ShanghaiPudongDevelopmentBank.md) — Bank case linking Pufa Wealth's inherited risk to stewardship of the former Shanghai HSBC building and replica lions.
 - [Ping An Bank / 平安银行](entities/PingAnBank.md) — Bank case in episode 136 for wealth-management return-to-balance-sheet impairments and non-credit asset cleanup.
 - [投资大师系列 / Investment Masters Series](entities/InvestmentMastersSeries.md) — Paid cross-show podcast project framing famous investors as market-history and worldview cases rather than copyable strategy templates.
 - [小小跑 / XiaoXiaoPao](entities/XiaoXiaoPao.md) — Episode 134 speaker from 文力两开花 and 强烈谈, emphasizing market-history reconstruction, era tailwinds, style maps, and non-worship of investment masters.
@@ -17440,7 +17442,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孔祥熙](entities/KongXiangxi.md) — Finance-ministry and family-network figure in EP23's construction-bond speculation explanation.
 - [宋爱玲](entities/SoongAiLing.md) — Political-family figure used by EP23 to connect fake-money and treasury-bond stories to elite financial power.
 - [Central Bank of China](entities/CentralBankOfChina.md) — Nationalist-era central bank discussed through recruitment, fiscal funding, debt issuance, and currency credibility.
-- [Bank of China](entities/BankOfChina.md) — Bank tied to Republican-era exchange and remittance history, and to episode 136's first bank wealth-management subsidiary approvals.
+- [Bank of China](entities/BankOfChina.md) — Bank spanning Republican-era exchange, qiaopi absorption, wealth-management reform, and modern-Chinese architectural symbolism.
 - [Bank of Communications](entities/BankOfCommunications.md) — Republican-era bank named in EP23's "four banks" structure and associated with transport-related finance.
 - [China Farmers Bank](entities/ChinaFarmersBank.md) — Republican-era bank named in EP23's "four banks" structure, showing differentiated institutional mandates.
 - [Standard Chartered](entities/StandardChartered.md) — Foreign-bank example in EP23's Bund and Shanghai financial-geography discussion.
@@ -17669,7 +17671,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
 - [Hong Kong Exchanges and Clearing](entities/HongKongExchangesAndClearing.md) — Hong Kong exchange operator discussed through trading/listing economics, IPO liquidity absorption, and market-temperature signals.
-- [HSBC](entities/HSBC.md) — Hong Kong banking and dividend-stock example from EP57, extended by EP23's Bund and Shanghai foreign-bank history.
+- [HSBC](entities/HSBC.md) — Hong Kong-founded bank connecting Shanghai foreign banking, conditional dividend investing, and the global visual system of its paired lions.
 - [HTC](entities/HTC.md) — PDA and smartphone maker that helped launch Android with the first Android phone before Samsung captured larger Android scale.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
@@ -18503,6 +18505,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bumble](entities/Bumble.md) — Dating-platform company whose proposed privatization frames changing user behavior, local network effects, success-driven churn, and matching experiments.
 - [Ithaca Holdings](entities/IthacaHoldings.md) — Proposed Bumble acquirer whose stewardship remains unresolved between patient investment and extraction risk.
 - [Whitney Wolfe Herd](entities/WhitneyWolfeHerd.md) — Bumble founder used to separate one company's trajectory from category-wide judgments about women entrepreneurs.
+
+- [HSBC Lions / 汇丰铜狮](entities/HSBCLions.md) — Reclining male-lion pair whose Shanghai origin, Hong Kong replication, banknote circulation, preservation, and commercial copying made it a global bank symbol.
+- [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
 - [Secure Attachment and Exploration / 安全依恋与探索](concepts/SecureAttachmentExploration.md) — Felt relational safety can release attention and energy for curiosity, learning, work, and experimentation.
@@ -19964,7 +19969,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Uneven transfer of attention, capital, strategic hierarchy, language, technology, and cultural judgment from Britain toward the United States.
 - [Black American GIs in Wartime Britain](concepts/BlackAmericanGIsWartimeBritain.md) — Allied wartime case where U.S. military segregation met British civilian resistance, racial conflict, and local solidarity.
 - [Day of the Dead](concepts/DayOfTheDead.md) — Layered Mexican commemorative festival joining Catholic-Iberian ritual, Indigenous materials, colonial foodways, national recoding, political art, and media spectacle.
-- [Invented Tradition](concepts/InventedTradition.md) — Selective assembly or formalization of practices presented through continuity with an older past, without implying that their social meaning is unreal.
+- [Invented Tradition](concepts/InventedTradition.md) — Selective assembly or formalization of practices presented through continuity, including state, media, corporate, and commercial-copying routes.
 - [Mexican Post-Revolutionary Cultural Nationalism](concepts/MexicanPostRevolutionaryCulturalNationalism.md) — State-supported recoding of Indigenous symbols, art, ritual, and anti-clerical identity into a modern national culture.
 - [Film-to-Festival Feedback](concepts/FilmToFestivalFeedback.md) — Process by which stylized screen spectacle becomes a model for later real-world public ritual.
 - [Cristero War](concepts/CristeroWar.md) — Armed Catholic resistance to post-revolutionary anti-clerical policy and political context for later cultural recoding.
@@ -28308,7 +28313,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Republican China Banking System](concepts/RepublicanChinaBankingSystem.md) — EP23 frame for the "four banks, two bureaus, one treasury" structure and its connection to state finance.
 - [Accounting Infrastructure](concepts/AccountingInfrastructure.md) — Audit, bookkeeping, tax, consulting, government accounting, and bank accounting as institutional financial order.
 - [Bank Trainee System](concepts/BankTraineeSystem.md) — Historical-to-modern bank recruitment and training pattern behind practice-student and management-trainee paths.
-- [Shanghai Foreign Banks](concepts/ShanghaiForeignBanks.md) — Bund and Jiujiang Road foreign-bank layer connecting HSBC, Standard Chartered, Russo-Chinese Bank, trade finance, and trust.
+- [Shanghai Foreign Banks](concepts/ShanghaiForeignBanks.md) — Bund financial layer connecting foreign-bank services, monumental trust signals, geopolitical risk, and HSBC's exceptional lion commission.
 - [Silver Dollar Credit](concepts/SilverDollarCredit.md) — Monetary trust in silver dollars through weight, recognizability, sound, authenticity checks, and acceptance.
 - [Treasury Bond Speculation](concepts/TreasuryBondSpeculation.md) — State-debt manipulation pattern where issuance, official signaling, insider timing, and small-bank pressure create losses.
 - [Border Region Currency Credit](concepts/BorderRegionCurrencyCredit.md) — Local-currency credibility based on goods convertibility, stable prices, resource trade, and counterfeit resistance.
@@ -29306,5 +29311,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public-to-Private Strategic Reset](concepts/PublicToPrivateStrategicReset.md) — Ownership transition that can widen the experimentation window while reducing visibility and increasing governance risk.
 - [Dating-Platform Growth Constraint](concepts/DatingPlatformGrowthConstraint.md) — Combined local-liquidity, generational-relevance, scalability, retention, satisfaction, and monetization problem in dating services.
 - [AI–Human Hybrid Matchmaking](concepts/AIHumanHybridMatchmaking.md) — Proposed combination of platform data, algorithmic filtering, and human judgment for selective or premium matching.
+
+- [Bank Animal Symbolism / 银行动物象征](concepts/BankAnimalSymbolism.md) — Multi-origin use of lions, bixie, and other animals to express bank authority, stability, cultural identity, and auspicious meaning.
 
 ## Syntheses

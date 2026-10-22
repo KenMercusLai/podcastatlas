@@ -26355,6 +26355,59 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/bangladesh/"
     },
+    "BankAnimalSymbolism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/bankanimalsymbolism/"
+    },
+    "BankOfChina": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "136.银行理财还能怎么买？ [llC7N0f3g2-jRz4XkOEFz1NuI5lT].md",
+          "key": "136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt",
+          "show": "起朱楼宴宾客",
+          "title": "136.银行理财还能怎么买？",
+          "url": "/wiki/sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt/"
+        },
+        {
+          "episode_file": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系 [lu50LZwnfquaBFaRE58GBhWR42py].md",
+          "key": "ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py",
+          "show": "一劳永逸",
+          "title": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系",
+          "url": "/wiki/sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py/"
+        },
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/bankofchina/"
+    },
     "BankOfEngland": {
       "episode_count": 4,
       "show_count": 3,
@@ -117861,6 +117914,52 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/hriderhaggard/"
     },
+    "HSBC": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP57 美股动荡，东升西降？这回是走是留 [lmEiHCoQeZY-5JxQDDEOtTydSwZ5].md",
+          "key": "ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5",
+          "show": "一劳永逸",
+          "title": "EP57 美股动荡，东升西降？这回是走是留",
+          "url": "/wiki/sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5/"
+        },
+        {
+          "episode_file": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系 [lu50LZwnfquaBFaRE58GBhWR42py].md",
+          "key": "ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py",
+          "show": "一劳永逸",
+          "title": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系",
+          "url": "/wiki/sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py/"
+        },
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/hsbc/"
+    },
+    "HSBCLions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/hsbclions/"
+    },
     "HYROX": {
       "episode_count": 3,
       "show_count": 3,
@@ -142158,9 +142257,9 @@
       "url": "/wiki/concepts/invasivespeciesmoralization/"
     },
     "InventedTradition": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9022174156 [GLT9022174156].md",
@@ -142168,9 +142267,16 @@
           "show": "The Rest Is History",
           "title": "264: Mexico: Day of the Dead",
           "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        },
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/inventedtradition/"
     },
     "InventoryCycle": {
@@ -174884,6 +174990,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/lupieasternhan/"
+    },
+    "LuQianshou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/luqianshou/"
     },
     "LuSu": {
       "episode_count": 9,
@@ -250535,6 +250657,29 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/shanghaieasthospital/"
     },
+    "ShanghaiForeignBanks": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系 [lu50LZwnfquaBFaRE58GBhWR42py].md",
+          "key": "ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py",
+          "show": "一劳永逸",
+          "title": "EP23 民国金融往事：《追风者》背后的天才少年与银行体系",
+          "url": "/wiki/sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py/"
+        },
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/shanghaiforeignbanks/"
+    },
     "ShanghaiFrenchConcession": {
       "episode_count": 1,
       "show_count": 1,
@@ -250582,6 +250727,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/shanghaimulticulturalurbanculture/"
+    },
+    "ShanghaiPudongDevelopmentBank": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "136.银行理财还能怎么买？ [llC7N0f3g2-jRz4XkOEFz1NuI5lT].md",
+          "key": "136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt",
+          "show": "起朱楼宴宾客",
+          "title": "136.银行理财还能怎么买？",
+          "url": "/wiki/sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt/"
+        },
+        {
+          "episode_file": "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
+          "key": "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k",
+          "show": "商业就是这样",
+          "title": "Vol.278 为什么银行门口会有石狮子？",
+          "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/shanghaipudongdevelopmentbank/"
     },
     "ShanghaiRaccoonDogs": {
       "episode_count": 1,

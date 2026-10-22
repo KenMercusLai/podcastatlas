@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13638
+wiki_total_pages: 13640
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "HSBC"
     title: "HSBC"
     url: "/wiki/entities/hsbc/"
+  - key: "HSBCLions"
+    title: "HSBC Lions / 汇丰铜狮"
+    url: "/wiki/entities/hsbclions/"
   - key: "HTC"
     title: "HTC"
     url: "/wiki/entities/htc/"

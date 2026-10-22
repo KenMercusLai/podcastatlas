@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10713
+wiki_total_pages: 10714
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "BanditAssassinationAttribution"
     title: "Bandit Assassination Attribution / 盗贼行刺归因"
     url: "/wiki/concepts/banditassassinationattribution/"
+  - key: "BankAnimalSymbolism"
+    title: "Bank Animal Symbolism / 银行动物象征"
+    url: "/wiki/concepts/bankanimalsymbolism/"
   - key: "BankBranchAfterHoursWork"
     title: "Bank Branch After-Hours Work"
     url: "/wiki/concepts/bankbranchafterhourswork/"

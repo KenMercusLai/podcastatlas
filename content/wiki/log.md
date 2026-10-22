@@ -37463,3 +37463,11 @@ Added source `716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589`;
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | Vol.278 为什么银行门口会有石狮子？
+
+Added source `gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k`; created [[HSBCLions|HSBC Lions / 汇丰铜狮]], [[LuQianshou|陆谦受]], and [[BankAnimalSymbolism|银行动物象征]]; and resynthesized [[HSBC]], [[BankOfChina]], [[ShanghaiPudongDevelopmentBank|浦发银行]], [[ShanghaiForeignBanks]], and [[InventedTradition]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: bank entrance lions do not form one continuous ancient or industry-wide custom; HSBC's reclining male lions, older Chinese guardian-animal traditions, Bank of China's modern-Chinese design vocabulary, feng-shui interpretation, banknote circulation, stone-carving supply, and branch-level procurement can converge into a decentralized invented tradition. No settled contradiction among canonical pages was adopted, but the episode directly qualifies the popular assumption that traditional money shops, Republican banks, or modern outlets normally used freestanding lions. The reported 10-15% outlet share, city comparisons, procurement prices, workshop origin, building-history motives, and feng-shui readings remain source-scoped because the survey was informal and the supplied episode document is a structured summary rather than an audited study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,694 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
