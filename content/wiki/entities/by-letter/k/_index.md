@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13644
+wiki_total_pages: 13649
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "Kakapo"
     title: "Kakapo / 宵鹦鹉"
     url: "/wiki/entities/kakapo/"
+  - key: "KaleGreen"
+    title: "Kale Green"
+    url: "/wiki/entities/kalegreen/"
   - key: "KallikakFamily"
     title: "Kallikak Family / 卡里卡克家族"
     url: "/wiki/entities/kallikakfamily/"

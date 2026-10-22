@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Behind the screens: What it’s like to interview an AI news agent](sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128.md) — Marketplace Tech examines Walter's automated Alaska local-news workflow, its coverage potential, editorial-salience failures, human-review boundary, and unresolved independence questions.
 - [Dunes and gloom: MBS's annus horribilis](sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c.md) — Economist Podcasts on MBS's overlapping military, economic, and U.S.-influence setbacks, Bankman-Fried's prison defense, and Southeast Asia's peat-fire haze crisis.
 - [EP109-两周年特别节目：一场同父母辈的深度对谈，那些你不敢问的我们都替你问了](sources/ep109-liangzhounian-tebie-jiemu-yichang-tong-fumubei-de-shendu-duitan-naxie-ni-bugan-wen-de-women-dou-ti-ni-wen-le-wkgo3l5akqgqmnshcrzgwt20nfw224.md) — 无时差研究所通过六位60后、70后父母讨论代际对话、婚姻时间线、信息核查、数字适应、消费排序与同性关系态度。
 - [EP113-充满偏见的互联网时代，我们更接近真相了嘛？](sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242.md) — 无时差研究所从肖战与 AO3 风波讨论饭圈集体行动、举报武器化、信息茧房、标签化及谣言核查成本。
@@ -4799,6 +4800,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [Walter (AI News Agent)](entities/WalterAINewsAgent.md) — alaskanews.com system that monitors public materials, selects possible stories, and generates high-volume local coverage under partial human review.
+- [alaskanews.com](entities/AlaskaNewsCom.md) — Alaska-focused publication using Walter for automation-first local-news production.
+- [Nathaniel Herz](entities/NathanielHerz.md) — Anchorage Press executive editor distinguishing AI monitoring scale from editorial relevance, investigation, and accountability.
+- [Anchorage Press](entities/AnchoragePress.md) — Alaska newsroom represented as using bounded backstage AI while retaining human editorial safeguards.
+- [Kale Green](entities/KaleGreen.md) — editor-founder associated with Walter and alaskanews.com who enabled Herz's direct AI interview.
 - [Xiao Zhan / 肖战](entities/XiaoZhan.md) — EP113 中连接饭圈组织、商业受益、控制边界与舆论反噬的流量偶像案例。
 - [Archive of Our Own / AO3](entities/ArchiveOfOurOwn.md) — 在肖战饭圈争议中失去中国访问、使单一作品冲突扩展为社区基础设施问题的同人作品档案。
 - [Arvind Krishna](entities/ArvindKrishna.md) — IBM executive connecting quantum-readiness milestones and cryptographic migration with enterprise AI, software verification, and selective vertical integration.
@@ -18523,6 +18529,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [AI Editorial Salience Gap](concepts/AIEditorialSalienceGap.md) — Difference between finding and generating information at scale and judging its community importance, human stakes, and publication value.
 - [Transboundary Haze Governance](concepts/TransboundaryHazeGovernance.md) — Prevention, peat restoration, exposure protection, corporate liability, and sovereignty constraints when fire smoke crosses borders.
 - [Intergenerational Dialogue Repair / 代际对话与关系修复](concepts/IntergenerationalDialogueRepair.md) — 以冲突后的倾听、解释、自省、承认责任与持续调整缩小亲子代际隔阂，同时保留成年选择与权力边界。
 - [Marriage Timeline Autonomy / 婚姻时间线自主](concepts/MarriageTimelineAutonomy.md) — 区分长期陪伴建议与由年龄、亲友评价或家庭颜面施加的结婚期限。

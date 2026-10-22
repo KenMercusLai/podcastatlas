@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13644
+wiki_total_pages: 13649
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "Alaska"
     title: "Alaska / 阿拉斯加"
     url: "/wiki/entities/alaska/"
+  - key: "AlaskaNewsCom"
+    title: "alaskanews.com"
+    url: "/wiki/entities/alaskanewscom/"
   - key: "AlbatrossFile"
     title: "Albatross File / 信天翁档案"
     url: "/wiki/entities/albatrossfile/"
@@ -1193,6 +1196,9 @@ wiki_pages:
   - key: "Anaya"
     title: "Anaya / 阿那亚"
     url: "/wiki/entities/anaya/"
+  - key: "AnchoragePress"
+    title: "Anchorage Press"
+    url: "/wiki/entities/anchoragepress/"
   - key: "AncientOlympicGames"
     title: "Ancient Olympic Games"
     url: "/wiki/entities/ancientolympicgames/"

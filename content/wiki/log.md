@@ -37527,3 +37527,11 @@ Added source `essentials-developing-a-rational-approach-to-supplementation-for-h
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | Behind the screens: What it’s like to interview an AI news agent
+
+Added source `tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128`; created [[WalterAINewsAgent|Walter]], [[AlaskaNewsCom|alaskanews.com]], [[NathanielHerz]], [[AnchoragePress|Anchorage Press]], [[KaleGreen]], and [[AIEditorialSalienceGap]]; and resynthesized [[LocalNewsAutomationTradeoff]] and [[NewsroomAIAdoption]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: automated monitoring can widen local-news visibility, but higher article volume does not by itself create community value because story selection, human stakes, investigation, and accountability remain distinct editorial functions. Human review, escalation rules, transparent independence safeguards, and authority to reject output become more important as AI moves from internal lead discovery toward direct publication. No settled contradiction was adopted. Walter's accuracy, bias, review rate, audience effects, and comparative public-service value remain source-scoped, and the political backgrounds of team members are treated as a governance question rather than proof of biased output. Broad [[MarketplaceTech]], [[AIJournalismTrust]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable addition without reopening large unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,703 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

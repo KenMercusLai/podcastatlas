@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10730
+wiki_total_pages: 10731
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "AIEconomicDiffusion"
     title: "AI Economic Diffusion"
     url: "/wiki/concepts/aieconomicdiffusion/"
+  - key: "AIEditorialSalienceGap"
+    title: "AI Editorial Salience Gap"
+    url: "/wiki/concepts/aieditorialsaliencegap/"
   - key: "AIElectionMisinformationRisk"
     title: "AI Election Misinformation Risk"
     url: "/wiki/concepts/aielectionmisinformationrisk/"

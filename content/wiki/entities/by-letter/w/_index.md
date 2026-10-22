@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13644
+wiki_total_pages: 13649
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "WaltWhitman"
     title: "Walt Whitman / 惠特曼"
     url: "/wiki/entities/waltwhitman/"
+  - key: "WalterAINewsAgent"
+    title: "Walter (AI News Agent)"
+    url: "/wiki/entities/walterainewsagent/"
   - key: "WalterBenjamin"
     title: "Walter Benjamin / 本雅明"
     url: "/wiki/entities/walterbenjamin/"

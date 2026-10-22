@@ -2842,6 +2842,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/aiecommerceinfringementgovernance/"
     },
+    "AIEditorialSalienceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/aieditorialsaliencegap/"
+    },
     "AIElectionMisinformationRisk": {
       "episode_count": 4,
       "show_count": 1,
@@ -11891,6 +11907,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/alannewman/"
     },
+    "AlaskaNewsCom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/alaskanewscom/"
+    },
     "AlbatrossFile": {
       "episode_count": 1,
       "show_count": 1,
@@ -15398,6 +15430,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/anaya/"
+    },
+    "AnchoragePress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/anchoragepress/"
     },
     "AncientChineseBookMateriality": {
       "episode_count": 2,
@@ -154482,6 +154530,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/kaiserwilhelmii/"
     },
+    "KaleGreen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/kalegreen/"
+    },
     "Kalshi": {
       "episode_count": 6,
       "show_count": 3,
@@ -172481,6 +172545,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/localmuscularendurancebenchmarks/"
+    },
+    "LocalNewsAutomationTradeoff": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260311_0311_MP_TECH_pod_128 [tech_20260311_0311_MP_TECH_pod_128].md",
+          "key": "tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "An Ohio newspaper gives AI a byline",
+          "url": "/wiki/sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/localnewsautomationtradeoff/"
     },
     "LocalOfficialTenureStability": {
       "episode_count": 5,
@@ -198149,6 +198236,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/nathanbedfordforrest/"
     },
+    "NathanielHerz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/nathanielherz/"
+    },
     "NationalAnthemPoliticalPlasticity": {
       "episode_count": 6,
       "show_count": 1,
@@ -200701,6 +200804,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/newsastradingposition/"
+    },
+    "NewsroomAIAdoption": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260311_0311_MP_TECH_pod_128 [tech_20260311_0311_MP_TECH_pod_128].md",
+          "key": "tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "An Ohio newspaper gives AI a byline",
+          "url": "/wiki/sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/newsroomaiadoption/"
     },
     "NextChanceYouthOptionality": {
       "episode_count": 1,
@@ -289535,6 +289661,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/waltdisney/"
+    },
+    "WalterAINewsAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261022_1022_MP_TECH_pod_128 [tech_20261022_1022_MP_TECH_pod_128].md",
+          "key": "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Behind the screens: What it’s like to interview an AI news agent",
+          "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/walterainewsagent/"
     },
     "WalterHess": {
       "episode_count": 2,

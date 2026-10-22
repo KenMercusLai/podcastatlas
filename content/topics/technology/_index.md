@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3595
+topic_total_pages: 3599
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -472,6 +472,9 @@ topic_concepts:
   - key: "AIEconomicDiffusion"
     title: "AI Economic Diffusion"
     url: "/wiki/concepts/aieconomicdiffusion/"
+  - key: "AIEditorialSalienceGap"
+    title: "AI Editorial Salience Gap"
+    url: "/wiki/concepts/aieditorialsaliencegap/"
   - key: "AIElectionMisinformationRisk"
     title: "AI Election Misinformation Risk"
     url: "/wiki/concepts/aielectionmisinformationrisk/"
@@ -5135,6 +5138,9 @@ topic_entities:
   - key: "AlanTuring"
     title: "Alan Turing / 图灵"
     url: "/wiki/entities/alanturing/"
+  - key: "AlaskaNewsCom"
+    title: "alaskanews.com"
+    url: "/wiki/entities/alaskanewscom/"
   - key: "Albert"
     title: "Albert"
     url: "/wiki/entities/albert/"
@@ -8354,6 +8360,9 @@ topic_entities:
   - key: "WAIC"
     title: "WAIC"
     url: "/wiki/entities/waic/"
+  - key: "WalterAINewsAgent"
+    title: "Walter (AI News Agent)"
+    url: "/wiki/entities/walterainewsagent/"
   - key: "WangBo"
     title: "Wang Bo / 汪波"
     url: "/wiki/entities/wangbo/"
@@ -9390,6 +9399,9 @@ topic_sources:
   - key: "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41"
     title: "Bargaining chips: Nvidia is the bank of AI"
     url: "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+  - key: "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128"
+    title: "Behind the screens: What it’s like to interview an AI news agent"
+    url: "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
   - key: "defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987"
     title: "Beyond The Legacy: Neil Nitin Mukesh on Bollywood, Identity and AI | Shekhar Natarajan"
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987/"

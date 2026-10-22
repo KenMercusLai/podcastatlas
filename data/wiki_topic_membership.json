@@ -9821,6 +9821,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIEditorialSalienceGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIElectionMisinformationRisk": [
     {
       "key": "technology",
@@ -13675,6 +13682,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AlaskaNewsCom": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AlbedoFeedback": [
@@ -93815,6 +93829,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WalterAINewsAgent": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "WalterHess": [
     {
       "key": "science",
@@ -109123,6 +109144,13 @@
     }
   ],
   "tech-20261020-1020-mp-tech-pod-128-tech-20261020-1020-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",

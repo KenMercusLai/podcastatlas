@@ -5551,6 +5551,10 @@
     "title": "AI Economic Diffusion",
     "url": "/wiki/concepts/aieconomicdiffusion/"
   },
+  "AIEditorialSalienceGap": {
+    "title": "AI Editorial Salience Gap",
+    "url": "/wiki/concepts/aieditorialsaliencegap/"
+  },
   "AIElectionMisinformationRisk": {
     "title": "AI Election Misinformation Risk",
     "url": "/wiki/concepts/aielectionmisinformationrisk/"
@@ -8443,6 +8447,10 @@
     "title": "Alaska / 阿拉斯加",
     "url": "/wiki/entities/alaska/"
   },
+  "AlaskaNewsCom": {
+    "title": "alaskanews.com",
+    "url": "/wiki/entities/alaskanewscom/"
+  },
   "AlbatrossFile": {
     "title": "Albatross File / 信天翁档案",
     "url": "/wiki/entities/albatrossfile/"
@@ -9686,6 +9694,10 @@
   "AnchengWarringStates": {
     "title": "安城 / Ancheng",
     "url": "/wiki/entities/anchengwarringstates/"
+  },
+  "AnchoragePress": {
+    "title": "Anchorage Press",
+    "url": "/wiki/entities/anchoragepress/"
   },
   "AnchoringEffect": {
     "title": "Anchoring Effect / 锚定效应",
@@ -50447,6 +50459,10 @@
     "title": "角田光代 / Mitsuyo Kakuta",
     "url": "/wiki/entities/kakutamitsuyo/"
   },
+  "KaleGreen": {
+    "title": "Kale Green",
+    "url": "/wiki/entities/kalegreen/"
+  },
   "KallikakFamily": {
     "title": "Kallikak Family / 卡里卡克家族",
     "url": "/wiki/entities/kallikakfamily/"
@@ -63530,6 +63546,10 @@
   "NathanielBranden": {
     "title": "Nathaniel Branden / 纳撒尼尔·布兰登",
     "url": "/wiki/entities/nathanielbranden/"
+  },
+  "NathanielHerz": {
+    "title": "Nathaniel Herz",
+    "url": "/wiki/entities/nathanielherz/"
   },
   "NationalAnthemPoliticalPlasticity": {
     "title": "National Anthem Political Plasticity",
@@ -92807,6 +92827,10 @@
     "title": "Walt Whitman / 惠特曼",
     "url": "/wiki/entities/waltwhitman/"
   },
+  "WalterAINewsAgent": {
+    "title": "Walter (AI News Agent)",
+    "url": "/wiki/entities/walterainewsagent/"
+  },
   "WalterBenjamin": {
     "title": "Walter Benjamin / 本雅明",
     "url": "/wiki/entities/walterbenjamin/"
@@ -108286,6 +108310,10 @@
   "tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128": {
     "title": "Bumble didn't find its match on the stock market",
     "url": "/wiki/sources/tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128/"
+  },
+  "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128": {
+    "title": "Behind the screens: What it’s like to interview an AI news agent",
+    "url": "/wiki/sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
