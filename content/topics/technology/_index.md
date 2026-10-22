@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3587
+topic_total_pages: 3589
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4711,6 +4711,9 @@ topic_concepts:
   - key: "TokenTaxOnAI"
     title: "Token Tax On AI"
     url: "/wiki/concepts/tokentaxonai/"
+  - key: "TokenComputeMetricMismatch"
+    title: "Token-Compute Metric Mismatch / Token 与算力口径错配"
+    url: "/wiki/concepts/tokencomputemetricmismatch/"
   - key: "TokenDrivenSoftware"
     title: "Token-Driven Software"
     url: "/wiki/concepts/tokendrivensoftware/"
@@ -5873,6 +5876,9 @@ topic_entities:
   - key: "DeepChat"
     title: "DeepChat"
     url: "/wiki/entities/deepchat/"
+  - key: "DeepInfer"
+    title: "DeepInfer"
+    url: "/wiki/entities/deepinfer/"
   - key: "DeepMind"
     title: "DeepMind"
     url: "/wiki/entities/deepmind/"

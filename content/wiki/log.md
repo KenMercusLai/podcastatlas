@@ -37471,3 +37471,11 @@ Added source `gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k`; created [[HSBC
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | 低价城际大巴吸引乘客，AI 短剧算力用量引发争议
+
+Added source `gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u`; created [[DeepInfer]], [[TokenComputeMetricMismatch|Token 与算力口径错配]], and [[DistributedIntercityCoachModel|分散站点城际大巴模式]]; and resynthesized [[AITO|问界]], [[Bosch|博世]], [[Netflix]], [[AIShortDrama]], and [[InferenceAccelerationStack]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: token volume cannot be translated directly into compute share; inference efficiency is a multi-layer systems problem; European vehicle entry requires regulatory and technical localization; and distributed metro-adjacent coach stops can matter as much as low fares. No settled contradiction was adopted. SpaceX financials and merger exploration, Netflix forecasts, AITO timing, DeepInfer compatibility, short-drama usage, company results, and transport prices remain episode-reported; “Deepsea” was not merged into [[DeepSeek]]. The automatic `wiki/overview.md` was read for context and not manually rewritten because this broad roundup did not warrant changing the global synthesis. Downstream synthesis found no dirty controlled topic; the max-age gate ran global compaction, and refreshed artifacts validate 4,695 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

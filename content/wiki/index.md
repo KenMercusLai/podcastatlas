@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [低价城际大巴吸引乘客，AI 短剧算力用量引发争议](sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u.md) — 声动早咖啡串联推理框架、Token 与算力口径、短剧平台、问界出海、流媒体广告、服装涨价和分散站点城际大巴。
 - [716. King Arthur: The Truth Behind the Legend (Part 4)](sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589.md) — The Rest Is History weighs the disputed early texts, name evidence, archaeology, and failed identifications behind an agnostic verdict on Arthur's historicity.
 - [史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善](sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia.md) — 四封来信以依恋安全串联创伤、年龄焦虑、有毒关系与职业自卑，并讨论尊严、识恶、主动择善和自我归属。
 - [誰的身體值得先被研究？遲到的陰蒂史](sources/af3491ca3aca3a270aadb44a7f572e93-af3491ca3aca3a270aadb44a7f572e93.md) — 端聞以陰蒂三維神經圖回顧解剖知識的失落與遲滯，並連結男性默認醫學、生殖中心性教育、手術風險和女性性愉悅的研究正當性。
@@ -4790,6 +4791,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.278 为什么银行门口会有石狮子？](sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k.md) — 商业就是这样追溯汇丰铜狮、银行建筑、传统守门兽、风水解释与石雕商业复制，说明银行门口石狮是多源混合的新创传统而非统一古制。
 
 ## Entities
+- [DeepInfer](entities/DeepInfer.md) — Source-described open inference framework targeting higher throughput, lower latency, and cross-hardware deployment on Nvidia and Huawei Ascend systems.
 - [Helen O'Connell / 海伦·欧康诺](entities/HelenOConnell.md) — Australian urologist presented as restoring a complete modern account of clitoral anatomy and its surgical relevance.
 - [Anne Koedt / 安妮·科特](entities/AnneKoedt.md) — Radical feminist writer whose orgasm critique challenged reproductive and male-centered sexual scripts.
 - [Putian Medical Network / 莆田医疗经营网络](entities/PutianMedicalNetwork.md) — Loose family, company, brand, and operator network behind the broad “莆田系” medical label.
@@ -18510,6 +18512,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Token-Compute Metric Mismatch / Token 与算力口径错配](concepts/TokenComputeMetricMismatch.md) — Measurement error that treats token volume as if it directly represented compute capacity, energy, cost, or hardware time.
+- [Distributed Intercity Coach Model / 分散站点城际大巴模式](concepts/DistributedIntercityCoachModel.md) — Coach-network design using multiple metro-adjacent stops and low fares to reduce access friction between nearby cities.
 - [Secure Attachment and Exploration / 安全依恋与探索](concepts/SecureAttachmentExploration.md) — Felt relational safety can release attention and energy for curiosity, learning, work, and experimentation.
 - [Self-Attachment and Belonging / 自我依恋与归属](concepts/SelfAttachmentBelonging.md) — Practice of becoming a stable inner witness and caregiver without denying the need for external support.
 - [Negative-Attention Relationship Game / 负向关注关系游戏](concepts/NegativeAttentionRelationshipGame.md) — Harmful interaction pattern in which painful response can feel safer than invisibility or no response.

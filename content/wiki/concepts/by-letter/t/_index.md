@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10714
+wiki_total_pages: 10716
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "TokenTaxOnAI"
     title: "Token Tax On AI"
     url: "/wiki/concepts/tokentaxonai/"
+  - key: "TokenComputeMetricMismatch"
+    title: "Token-Compute Metric Mismatch / Token 与算力口径错配"
+    url: "/wiki/concepts/tokencomputemetricmismatch/"
   - key: "TokenDrivenSoftware"
     title: "Token-Driven Software"
     url: "/wiki/concepts/tokendrivensoftware/"

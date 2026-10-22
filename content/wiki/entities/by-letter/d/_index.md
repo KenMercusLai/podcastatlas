@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13640
+wiki_total_pages: 13641
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "Deepin"
     title: "Deepin"
     url: "/wiki/entities/deepin/"
+  - key: "DeepInfer"
+    title: "DeepInfer"
+    url: "/wiki/entities/deepinfer/"
   - key: "DeepMind"
     title: "DeepMind"
     url: "/wiki/entities/deepmind/"

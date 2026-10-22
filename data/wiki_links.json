@@ -26103,6 +26103,10 @@
     "title": "DeepChat",
     "url": "/wiki/entities/deepchat/"
   },
+  "DeepInfer": {
+    "title": "DeepInfer",
+    "url": "/wiki/entities/deepinfer/"
+  },
   "DeepMind": {
     "title": "DeepMind",
     "url": "/wiki/entities/deepmind/"
@@ -27650,6 +27654,10 @@
   "DistributedComplicityUnderAuthoritarianism": {
     "title": "Distributed Complicity Under Authoritarianism",
     "url": "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
+  },
+  "DistributedIntercityCoachModel": {
+    "title": "Distributed Intercity Coach Model / 分散站点城际大巴模式",
+    "url": "/wiki/concepts/distributedintercitycoachmodel/"
   },
   "DistributedLocalResilience": {
     "title": "分布式地方韧性 / Distributed Local Resilience",
@@ -89131,6 +89139,10 @@
     "title": "Todd Kashdan",
     "url": "/wiki/entities/toddkashdan/"
   },
+  "TokenComputeMetricMismatch": {
+    "title": "Token-Compute Metric Mismatch / Token 与算力口径错配",
+    "url": "/wiki/concepts/tokencomputemetricmismatch/"
+  },
   "TokenDrivenSoftware": {
     "title": "Token-Driven Software",
     "url": "/wiki/concepts/tokendrivensoftware/"
@@ -105134,6 +105146,10 @@
   "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k": {
     "title": "Vol.278 为什么银行门口会有石狮子？",
     "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+  },
+  "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u": {
+    "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+    "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
   },
   "gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox": {
     "title": "No.223 “莆田系”医事：从电线杆到手术台",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10714
+wiki_total_pages: 10716
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "DistributedComplicityUnderAuthoritarianism"
     title: "Distributed Complicity Under Authoritarianism"
     url: "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
+  - key: "DistributedIntercityCoachModel"
+    title: "Distributed Intercity Coach Model / 分散站点城际大巴模式"
+    url: "/wiki/concepts/distributedintercitycoachmodel/"
   - key: "DistributedNeuralRepresentation"
     title: "Distributed Neural Representation"
     url: "/wiki/concepts/distributedneuralrepresentation/"

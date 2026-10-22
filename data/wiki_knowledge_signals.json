@@ -5370,6 +5370,50 @@
       "updated": "2026-10-20",
       "url": "/wiki/concepts/aishoppingdemanddiscovery/"
     },
+    "AIShortDrama": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md",
+          "key": "269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt",
+          "show": "乱翻书",
+          "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+          "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/aishortdrama/"
+    },
     "AIShortDramaSupplyGlut": {
       "episode_count": 2,
       "show_count": 2,
@@ -5442,9 +5486,9 @@
       "url": "/wiki/concepts/aisubjectivitycrisis/"
     },
     "AITO": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
@@ -5459,9 +5503,16 @@
           "show": "Talk三联",
           "title": "EP279 当方向盘慢慢松开，我们如何与车相处？",
           "url": "/wiki/sources/ep279-dang-fangxiangpan-manman-songkai-women-ruhe-yu-che-xiangchu-lq2elbnjy6xrhixxqjs-y7erhlnv/"
+        },
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/aito/"
     },
     "AITalk": {
@@ -32875,6 +32926,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/borte/"
+    },
+    "Bosch": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/bosch/"
     },
     "BostonCorbett": {
       "episode_count": 2,
@@ -67824,6 +67898,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/deepchat/"
     },
+    "DeepInfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/deepinfer/"
+    },
     "DeepNonREMSleepAnxietyRegulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -73179,6 +73269,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
+    },
+    "DistributedIntercityCoachModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/distributedintercitycoachmodel/"
     },
     "DistributedLocalResilience": {
       "episode_count": 3,
@@ -139065,6 +139171,43 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/infectiousdiseasestigmaprivacy/"
     },
+    "InferenceAccelerationStack": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” [6c9d13b1-ac9a-4a7a-a35b-99bfb8374668].md",
+          "key": "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
+          "show": "硅谷101",
+          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+          "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+        },
+        {
+          "episode_file": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子” [lg-fhgPMq4r-8L_-5_YRimxgkIms].md",
+          "key": "148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+          "url": "/wiki/sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims/"
+        },
+        {
+          "episode_file": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频 [lsB53BqRjojiaDNLQ2QE4StA_B13].md",
+          "key": "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13",
+          "show": "十字路口Crossing",
+          "title": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频",
+          "url": "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
+        },
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/inferenceaccelerationstack/"
+    },
     "InferenceAsCashFlow": {
       "episode_count": 2,
       "show_count": 2,
@@ -199131,9 +199274,9 @@
       "url": "/wiki/concepts/nervoussystemstateflexibility/"
     },
     "Netflix": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 5,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
@@ -199197,9 +199340,16 @@
           "show": "Marketplace Tech",
           "title": "AI borrowing slowdown raises questions about investor exposure",
           "url": "/wiki/sources/tech-20261016-1016-mp-tech-pod-128-tech-20261016-1016-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/netflix/"
     },
     "Netherlands": {
@@ -278341,6 +278491,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/todaypersonalai/"
+    },
+    "TokenComputeMetricMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOrooxAFJyCwTsvi3U [GKwRIJIOrooxAFJyCwTsvi3U].md",
+          "key": "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u",
+          "show": "声动早咖啡",
+          "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
+          "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/tokencomputemetricmismatch/"
     },
     "TokenPerWatt": {
       "episode_count": 3,

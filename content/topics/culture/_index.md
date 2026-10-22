@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3550
+topic_total_pages: 3551
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3436,6 +3436,9 @@ topic_concepts:
   - key: "TitanicDisasterMemory"
     title: "Titanic Disaster Memory"
     url: "/wiki/concepts/titanicdisastermemory/"
+  - key: "TokenComputeMetricMismatch"
+    title: "Token-Compute Metric Mismatch / Token 与算力口径错配"
+    url: "/wiki/concepts/tokencomputemetricmismatch/"
   - key: "ToleranceOfDifference"
     title: "Tolerance of Difference / 容差异"
     url: "/wiki/concepts/toleranceofdifference/"
