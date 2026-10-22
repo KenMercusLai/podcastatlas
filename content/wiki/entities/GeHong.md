@@ -2,23 +2,47 @@
 title: "Ge Hong / 葛洪"
 type: entity
 tags: [history, china, daoism, alchemy]
-sources: [87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
-last_updated: 2026-08-06
+sources:
+  - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550
+  - 46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx
+last_updated: 2026-10-23
+knowledge_schema: synthesis-v1
 ---
 
-# Ge Hong / 葛洪
+## Overview
 
-Ge Hong / 葛洪 is the central late-stage Daoist thinker in [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]]. The episode discusses [[Baopuzi|《抱朴子》]], gold elixirs, nine-turn elixir systems, sword and mirror apotropaic power, and the phrase "我命由我不由天" in its immortality context.
+Ge Hong / 葛洪 appears as a systematizer and narrator of Chinese immortality traditions through [[Baopuzi|《抱朴子》]], ranked elixirs, moral discipline, ritual objects, and the attributed *Shenxian Zhuan* story of [[WeiBoyang|魏伯阳]].
 
-The source's Ge Hong is not a generic believer in magic. He believes in immortals and elixirs while criticizing some shamanic or ritual abuses, and he attaches moral conduct to transcendence: good deeds become part of the discipline of becoming an immortal.
+## Current Profile
 
-## Key Claims
-- Ge Hong systematizes immortality pursuit through text, elixir hierarchy, and moral requirements.
-- The episode treats "我命由我不由天" as an alchemical-longevity claim before later slogan use.
-- His work helps show how [[DaoistAlchemy]] and [[ConfucianIdealGovernance|Confucian moral order]] can coexist.
+The earlier source presents Ge Hong as joining belief in immortals and gold elixirs to moral requirements, textual hierarchy, swords, mirrors, and criticism of some ritual abuses. “我命由我不由天” belongs here to an immortality and alchemy context rather than only to modern self-help usage. The new source adds his role as transmitter of the Wei Boyang elixir legend: apparent poisoning, disciples' trust, revival, and ascent make dangerous material practice legible as proof of commitment. Together, the sources show system building through doctrine and story, while leaving historical efficacy unverified.
 
-## Connections
-- [[Baopuzi|《抱朴子》]] - main text in the source.
-- [[DaoistAlchemy]], [[DaoistRitualTechnology]], and [[FangshuSystematization]] - practice and theory cluster.
-- [[WeiBoyang|魏伯阳]] and [[ZhouyiCantongqi|《周易参同契》]] - earlier alchemical branch.
-- [[ChineseFolkReligionLayering]] and [[AlchemyChemistryContinuity]] - adjacent wiki frames.
+## Key Characteristics
+
+- Systematizes immortality pursuit through texts, ranked elixirs, cosmology, and moral conduct.
+- Connects material alchemy to a wider Daoist ritual and ethical world.
+- Preserves or is associated with exemplary immortal biographies that authorize the tradition through narrative.
+- Criticizes some abuses without abandoning immortals, elixirs, or transcendence.
+
+## Evidence
+
+- **Systematic immortality theory:** [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] connects Ge Hong and 《抱朴子》 to gold elixirs, nine-turn hierarchies, moral accounting, ritual protection, and “我命由我不由天.”
+- **Narrative authorization:** [[46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx]] attributes its Wei Boyang poisoning-and-revival story to Ge Hong's *Shenxian Zhuan* tradition.
+
+## Qualifications
+
+Both sources are podcast surveys rather than critical editions. Text authorship, transmission, chronology, exact formulas, and the relation among 《抱朴子》, *Shenxian Zhuan*, and later legends require specialist verification. Moral requirements and criticism of selected practices do not establish the safety or efficacy of mineral elixirs. The revival narrative is not historical proof of resurrection.
+
+## What Changed
+
+- Added Ge Hong's narrative role in transmitting the Wei Boyang elixir-test story.
+- Distinguished systematizing authority from verified medicine or supernatural efficacy.
+- Migrated the page to synthesis-v1.
+
+## Relationships
+
+- [[Baopuzi|《抱朴子》]] - principal text anchoring the systematic branch.
+- [[WeiBoyang|魏伯阳]] - earlier alchemist made exemplary through an attributed immortality story.
+- [[DaoistAlchemy]] - practice system joining furnace work, cosmology, secrecy, and transcendence.
+- [[DaoistRitualTechnology]] - ritual environment adjacent to Ge Hong's swords, mirrors, and command practices.
+- [[FangshuSystematization]] - process through which techniques and stories become an organized religious system.

@@ -37567,3 +37567,11 @@ Added source `default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | 46 古人如何长生不老？东西方的炼金术、炼丹术与长生药
+
+Added source `46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx`; created [[WesternAlchemy|Western Alchemy / 西方炼金术]], [[JabirIbnHayyan|Jabir ibn Hayyan]], [[IbnSinaAvicenna|Ibn Sina]], and [[Paracelsus]]; and resynthesized [[WeirdHistoryPodcast|怪东西 Weird History]], [[DaoistAlchemy|Daoist Alchemy / 道教炼丹]], [[AlchemyChemistryContinuity|Alchemy-Chemistry Continuity / 炼金术与化学连续性]], [[WeiBoyang|魏伯阳]], [[GeHong|葛洪]], and [[RobertBoyle|Robert Boyle]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Chinese and Mediterranean-Islamic-European alchemies combined immortality, transmutation, medicine, and symbolic cosmology with real material practice, but useful furnaces, metallurgy, distillation, pharmacy, and observation do not validate supernatural promises. Chemistry's differentiation depended on measurement, recorded conditions, reproducibility, public testing, and willingness to reject failed premises; mercury and cinnabar toxicity make the cost of confusing symbolism with efficacy explicit. No settled contradiction was adopted. Parallel-development claims, dates, attribution, translation routes, recipes, imperial deaths, and scientific priority remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,708 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

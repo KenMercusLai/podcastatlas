@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13661
+wiki_total_pages: 13664
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "IbnFadlan"
     title: "Ibn Fadlan"
     url: "/wiki/entities/ibnfadlan/"
+  - key: "IbnSinaAvicenna"
+    title: "Ibn Sina / Avicenna / 伊本·西那"
+    url: "/wiki/entities/ibnsinaavicenna/"
   - key: "IbrahimAlmohanna"
     title: "Ibrahim Almohanna"
     url: "/wiki/entities/ibrahimalmohanna/"

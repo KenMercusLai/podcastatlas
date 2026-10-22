@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10738
+wiki_total_pages: 10739
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "WestBankOutpostEscalation"
     title: "West Bank Outpost Escalation"
     url: "/wiki/concepts/westbankoutpostescalation/"
+  - key: "WesternAlchemy"
+    title: "Western Alchemy / 西方炼金术"
+    url: "/wiki/concepts/westernalchemy/"
   - key: "WesternChinaMisreading"
     title: "Western China Misreading / 西方对中国的误读"
     url: "/wiki/concepts/westernchinamisreading/"

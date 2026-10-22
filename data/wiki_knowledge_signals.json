@@ -12109,6 +12109,50 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/albumasintegratedwork/"
     },
+    "AlchemyChemistryContinuity": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
+          "key": "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317",
+          "show": "蜜獾吃书",
+          "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+          "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/alchemychemistrycontinuity/"
+    },
     "AlcoholDemandReset": {
       "episode_count": 1,
       "show_count": 1,
@@ -65108,9 +65152,9 @@
       "url": "/wiki/entities/daodejing/"
     },
     "DaoistAlchemy": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
@@ -65125,9 +65169,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》259｜汉武帝：我把你当大师，你把我当傻子？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-259-hanwudi-wo-ba-ni-dang-dashi-ni-ba-wo-dang-shazi-1-lqczbezelhdjrtxdrgsfcnmpoklx/"
+        },
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/daoistalchemy/"
     },
     "DaoistNaturalWuwei": {
@@ -108094,6 +108145,29 @@
       "updated": "2026-10-13",
       "url": "/wiki/concepts/gazatechnocraticadministration/"
     },
+    "GeHong": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/gehong/"
+    },
     "GeJianxiong": {
       "episode_count": 1,
       "show_count": 1,
@@ -136110,6 +136184,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/ibnfadlan/"
     },
+    "IbnSinaAvicenna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/ibnsinaavicenna/"
+    },
     "Iceland": {
       "episode_count": 2,
       "show_count": 2,
@@ -145406,6 +145496,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jaakpanksepp/"
+    },
+    "JabirIbnHayyan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/jabiribnhayyan/"
     },
     "JackFeldman": {
       "episode_count": 1,
@@ -211973,6 +212079,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/papalfrankishalliance/"
     },
+    "Paracelsus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/paracelsus/"
+    },
     "ParadoxMachines": {
       "episode_count": 1,
       "show_count": 1,
@@ -240589,6 +240711,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/robertblum/"
+    },
+    "RobertBoyle": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "68.疯狂实验史：哎！这该死的求知欲… [664384549].md",
+          "key": "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549",
+          "show": "蜜獾吃书",
+          "title": "68.疯狂实验史：哎！这该死的求知欲…",
+          "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+        },
+        {
+          "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
+          "key": "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317",
+          "show": "蜜獾吃书",
+          "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+          "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+        },
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/robertboyle/"
     },
     "RobertCatesby": {
       "episode_count": 1,
@@ -294581,6 +294733,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/weibowesternhan/"
     },
+    "WeiBoyang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/weiboyang/"
+    },
     "WeiBuhaiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -295741,9 +295916,9 @@
       "url": "/wiki/concepts/weiqiculturalpromotion/"
     },
     "WeirdHistoryPodcast": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "lqz5aZnR86Rd4A8xAWybzoTkKaPS [lqz5aZnR86Rd4A8xAWybzoTkKaPS].md",
@@ -295919,9 +296094,16 @@
           "show": "怪东西Weird History",
           "title": "3 如何称呼东西方的帝王：从“恺撒”到“官家”",
           "url": "/wiki/sources/3-ruhe-chenghu-dongxifang-de-diwang-cong-kaisa-dao-guanjia-lge7ykon9maohgirvd96j4kjokgt/"
+        },
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/weirdhistorypodcast/"
     },
     "WeismannBarrier": {
@@ -296444,6 +296626,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/westindiescricketteam/"
+    },
+    "WesternAlchemy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipoRJ2Ydsu1pWehPGFlApGM6zpX [lipoRJ2Ydsu1pWehPGFlApGM6zpX].md",
+          "key": "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx",
+          "show": "怪东西Weird History",
+          "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+          "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/westernalchemy/"
     },
     "WesternDragonCulturalSynthesis": {
       "episode_count": 1,

@@ -5607,6 +5607,18 @@
       "url": "/topics/history/"
     }
   ],
+  "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720": [
     {
       "key": "culture",
@@ -47910,6 +47922,13 @@
       "url": "/topics/history/"
     }
   ],
+  "IbnSinaAvicenna": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "IbrahimAlmohanna": [
     {
       "key": "politics",
@@ -50647,6 +50666,13 @@
     }
   ],
   "JaakPanksepp": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "JabirIbnHayyan": [
     {
       "key": "science",
       "label": "Science",
@@ -68178,6 +68204,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "Paracelsus": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ParadoxMachines": [

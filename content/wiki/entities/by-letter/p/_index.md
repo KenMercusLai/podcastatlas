@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13661
+wiki_total_pages: 13664
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "Paperboy"
     title: "Paperboy"
     url: "/wiki/entities/paperboy/"
+  - key: "Paracelsus"
+    title: "Paracelsus / 帕拉塞尔苏斯"
+    url: "/wiki/entities/paracelsus/"
   - key: "ParadoxMachines"
     title: "Paradox Machines"
     url: "/wiki/entities/paradoxmachines/"

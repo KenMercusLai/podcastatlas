@@ -3307,6 +3307,10 @@
     "title": "46. Culture Wars",
     "url": "/wiki/sources/46-culture-wars-glt4237848862/"
   },
+  "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx": {
+    "title": "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药",
+    "url": "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
+  },
   "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720": {
     "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
     "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
@@ -44775,6 +44779,10 @@
     "title": "Ibn Fadlan",
     "url": "/wiki/entities/ibnfadlan/"
   },
+  "IbnSinaAvicenna": {
+    "title": "Ibn Sina / Avicenna / 伊本·西那",
+    "url": "/wiki/entities/ibnsinaavicenna/"
+  },
   "IbrahimAlmohanna": {
     "title": "Ibrahim Almohanna",
     "url": "/wiki/entities/ibrahimalmohanna/"
@@ -47306,6 +47314,10 @@
   "JaakPanksepp": {
     "title": "Jaak Panksepp",
     "url": "/wiki/entities/jaakpanksepp/"
+  },
+  "JabirIbnHayyan": {
+    "title": "Jabir ibn Hayyan / 贾比尔·伊本·哈扬",
+    "url": "/wiki/entities/jabiribnhayyan/"
   },
   "JackClark": {
     "title": "Jack Clark",
@@ -67766,6 +67778,10 @@
   "Paperboy": {
     "title": "Paperboy",
     "url": "/wiki/entities/paperboy/"
+  },
+  "Paracelsus": {
+    "title": "Paracelsus / 帕拉塞尔苏斯",
+    "url": "/wiki/entities/paracelsus/"
   },
   "ParadoxMachines": {
     "title": "Paradox Machines",
@@ -94678,6 +94694,10 @@
   "WestVirginia": {
     "title": "West Virginia",
     "url": "/wiki/entities/westvirginia/"
+  },
+  "WesternAlchemy": {
+    "title": "Western Alchemy / 西方炼金术",
+    "url": "/wiki/concepts/westernalchemy/"
   },
   "WesternChinaMisreading": {
     "title": "Western China Misreading / 西方对中国的误读",

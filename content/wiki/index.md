@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [46 古人如何长生不老？东西方的炼金术、炼丹术与长生药](sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx.md) — 怪东西比较中国外丹与内修、伊斯兰和欧洲炼金传统，并以毒性、测量、记录和可重复性区分技术遗产与超自然承诺。
 - [Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643.md) — Tomorrow Today interview on generosity, public service, responsible commerce, sustainability strategy, multilateralism, constructive dissent, and AI efficiency without dignity.
 - [#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目](sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf.md) — 声东击西十周年访谈以李晶从阿里、Airbnb到家庭教育创业和治疗教育的转向，讨论高增长工作的回报与代价、亲子修复、边界及反思式人生选择。
 - [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33](sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be.md) — What's Next 讨论长期 Agent 的状态、恢复、人类升级、身份与信任，并以 Photon、Muse 和 Hark 说明通信、商户外部性及高并发故障。
@@ -13313,13 +13314,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
 - [Jing Fang / 京房](entities/JingFang.md) — Han star-omen and reform figure whose kaogong proposal, lost court access, and private-speech leak turn political diagnosis into fatal exposure.
 - [Fei Changfang / 费长房](entities/FeiChangfang.md) — Han immortal-arts figure whose stories link hidden worlds, tests, talismans, ghost control, and failed transcendence.
-- [Wei Boyang / 魏伯阳](entities/WeiBoyang.md) — Early Chinese alchemy figure attached to 《周易参同契》 and coded Daoist transformation language.
+- [Wei Boyang / 魏伯阳](entities/WeiBoyang.md) — Early Chinese alchemy figure attached to 《周易参同契》, coded transformation language, and a later elixir-test revival legend.
 - [Zhouyi Cantongqi / 《周易参同契》](entities/ZhouyiCantongqi.md) — Alchemical classic used by episode 87 to connect Yi learning, yin-yang, five phases, and material transformation.
 - [Zhang Hua / 张华](entities/ZhangHua.md) — Wei-Jin strange-knowledge figure linking 《博物志》, star omens, sword qi, and official historical memory.
 - [Bowuzhi / 《博物志》](entities/Bowuzhi.md) — Strange-knowledge text associated with Zhang Hua and treated as an archive of omens, transformations, and object lore.
 - [Guo Pu / 郭璞](entities/GuoPu.md) — Traditional fengshui authority figure attached to 《葬书》 with source-scoped attribution caution.
 - [Zangshu / 《葬书》](entities/Zangshu.md) — Fengshui text used by episode 87 to explain qi, wind, water, burial, and landscape form.
-- [Ge Hong / 葛洪](entities/GeHong.md) — Daoist thinker whose 《抱朴子》 links immortality, alchemy, ritual objects, moral conduct, and "我命由我不由天".
+- [Ge Hong / 葛洪](entities/GeHong.md) — Daoist systematizer whose texts and attributed stories join elixirs, moral conduct, ritual authority, and immortality narrative.
+- [Jabir ibn Hayyan / 贾比尔·伊本·哈扬](entities/JabirIbnHayyan.md) — Islamic-world alchemy figure associated with practical substance work, a sulfur-mercury metal theory, and transmutation through rearranged qualities.
+- [Ibn Sina / Avicenna / 伊本·西那](entities/IbnSinaAvicenna.md) — Philosopher and physician used as an internal critic who separates altered appearance from genuine material transmutation.
+- [Paracelsus / 帕拉塞尔苏斯](entities/Paracelsus.md) — European physician-alchemist connecting mineral and chemical substances to the medicine-facing branch of alchemy.
 - [Baopuzi / 《抱朴子》](entities/Baopuzi.md) — Ge Hong text anchoring episode 87's gold elixir, moral-accounting, and immortality-system branch.
 - [Fotucheng / 佛图澄](entities/Fotucheng.md) — Buddhist monk used by episode 87 to connect miracle stories, elite patronage, and Later Zhao political violence.
 - [Stephen Westaby / 史蒂芬·维斯塔比](entities/StephenWestaby.md) — Cardiac surgeon at the center of 《打开一颗心》, connecting surgical courage, artificial hearts, patient memory, and institutional risk.
@@ -15228,7 +15232,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [August Bier / 奥古斯特·比尔](entities/AugustBier.md) — Spinal-anesthesia experimenter whose source case combines self-experimentation, pain testing, and credit dispute.
 - [Winthrop Kellogg / 凯洛格](entities/WinthropKellogg.md) — Psychologist whose chimpanzee-child co-rearing experiment anchors the source's child and animal ethics branch.
 - [Charles Darwin / 查尔斯·达尔文](entities/CharlesDarwin.md) — Naturalist whose earthworm sensory tests illustrate small-question experimental discipline in the source.
-- [Robert Boyle / 罗伯特·波义耳](entities/RobertBoyle.md) — Experimental natural philosopher used in the source's Hobbes-Boyle contrast over experiment and authority.
+- [Robert Boyle / 罗伯特·波义耳](entities/RobertBoyle.md) — Experimental natural philosopher connecting apparatus, public witnessing, measurement, documentation, and reproducibility to chemistry's differentiation from alchemy.
 - [《美狄亚》 / Medea](entities/MedeaPlay.md) — Euripides tragedy read through Greek tragedy, female speech, revenge, child murder, and unresolved moral shock.
 - [Medea / 美狄亚](entities/MedeaCharacter.md) — Colchian princess and magical helper whose variable tradition moves from indispensable quest partner to catastrophic tragic avenger.
 - [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian joining psychological hesitation and hero deconstruction to divine terror, theological doubt, and civic crisis.
@@ -25318,7 +25322,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
 - [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Use of celestial phenomena, planetary movement, and sky-earth correspondences as political evidence about rulers, ministers, war, legitimacy, and state conduct.
 - [Axial Age Civilizational Awakening / 轴心时代文明觉醒](concepts/AxialAgeCivilizationalAwakening.md) — Comparative frame for 800-200 BCE philosophical and religious breakthroughs, used to stage Confucius's first asking-the-Way visit to Laozi.
-- [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented elixir practice linking coded language, material transformation, cosmology, and textual authority.
+- [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented material practice joining coded language, furnace cosmology, external elixirs, internal cultivation, and a mineral-toxicity boundary.
+- [Western Alchemy / 西方炼金术](concepts/WesternAlchemy.md) — Hellenistic Egyptian, Islamic-world, and European transformation tradition spanning metals, medicine, longevity, symbolic secrecy, and laboratory technique.
 - [Daoist Nourishing-Life Techniques / 道教养生术](concepts/DaoistNourishingLifeTechniques.md) — Guarding the One, qi practices, fetal breathing, and daoyin as immortality-oriented body disciplines.
 - [Daoist Natural Wuwei / 道家自然无为](concepts/DaoistNaturalWuwei.md) — Laozi-centered non-forcing conduct that lets human nature and worldly processes follow natural arising rather than rigid moral display.
 - [Daoist Observing Sameness / 观同入道](concepts/DaoistObservingSameness.md) — Laozi teaching that looks past surface differences toward the shared root through which self, things, and right/wrong loosen into unity.
@@ -26124,7 +26129,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Animal Electricity Debate / 动物电争论](concepts/AnimalElectricityDebate.md) — Galvani-Volta controversy around whether living bodies contain their own electricity.
 - [Galvanic Reanimation Imaginary / 伽伐尼式复活想象](concepts/GalvanicReanimationImaginary.md) — Cultural pattern where electrical movement in tissue suggests possible return of life.
 - [Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架](concepts/SpontaneousGenerationLifeOrigin.md) — Old belief that life can arise from matter, used by episode 141 as historical context rather than endorsed science.
-- [Alchemy-Chemistry Continuity / 炼金术与化学连续性](concepts/AlchemyChemistryContinuity.md) — Frame for why alchemy, chemistry, medicine, and life-making remained entangled in Frankenstein's background.
+- [Alchemy-Chemistry Continuity / 炼金术与化学连续性](concepts/AlchemyChemistryContinuity.md) — Continuity-plus-rupture frame joining inherited apparatus and material practice to later measurement, documentation, reproducibility, and premise rejection.
 - [Cadaver Trade And Anatomy Fear / 尸体贸易与解剖恐惧](concepts/CadaverTradeAnatomyFear.md) — Anatomy-school body demand, body-snatching, and public horror as Frankenstein context.
 - [Early Transplantation Imaginary / 早期移植想象](concepts/EarlyTransplantationImaginary.md) — Early graft, artificial-respiration, revival, and body-part-transfer ideas behind Frankenstein's assembled body.
 - [Electric Therapy Speculation / 电疗法想象](concepts/ElectricTherapySpeculation.md) — Eighteenth-century hopes and showmanship around electricity as medicine and life force.

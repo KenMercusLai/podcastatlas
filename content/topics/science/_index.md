@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1601
+topic_total_pages: 1605
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3008,6 +3008,9 @@ topic_entities:
   - key: "HubermanLab"
     title: "Huberman Lab"
     url: "/wiki/entities/hubermanlab/"
+  - key: "IbnSinaAvicenna"
+    title: "Ibn Sina / Avicenna / 伊本·西那"
+    url: "/wiki/entities/ibnsinaavicenna/"
   - key: "Iceland"
     title: "Iceland"
     url: "/wiki/entities/iceland/"
@@ -3038,6 +3041,9 @@ topic_entities:
   - key: "JaakPanksepp"
     title: "Jaak Panksepp"
     url: "/wiki/entities/jaakpanksepp/"
+  - key: "JabirIbnHayyan"
+    title: "Jabir ibn Hayyan / 贾比尔·伊本·哈扬"
+    url: "/wiki/entities/jabiribnhayyan/"
   - key: "JackFeldman"
     title: "Jack Feldman"
     url: "/wiki/entities/jackfeldman/"
@@ -3272,6 +3278,9 @@ topic_entities:
   - key: "Ovoperextone"
     title: "Ovoperextone"
     url: "/wiki/entities/ovoperextone/"
+  - key: "Paracelsus"
+    title: "Paracelsus / 帕拉塞尔苏斯"
+    url: "/wiki/entities/paracelsus/"
   - key: "PascalPeduzzi"
     title: "Pascal Peduzzi"
     url: "/wiki/entities/pascalpeduzzi/"
@@ -3885,6 +3894,9 @@ topic_sources:
   - key: "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057"
     title: "381. Captain Cook: To the Ends of the Earth (Part 2)"
     url: "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+  - key: "46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx"
+    title: "46 古人如何长生不老？东西方的炼金术、炼丹术与长生药"
+    url: "/wiki/sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx/"
   - key: "47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924"
     title: "47.鸟有什么好看的：原来…丹顶鹤是秃的！"
     url: "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
