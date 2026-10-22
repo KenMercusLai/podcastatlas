@@ -2,24 +2,47 @@
 title: "Clean Break Divorce Model"
 type: concept
 tags: [family, law, social-norms]
-sources: [the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
-last_updated: 2026-07-08
+sources:
+  - the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7
+  - ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003
+last_updated: 2026-10-22
+knowledge_schema: synthesis-v1
 ---
 
 # Clean Break Divorce Model
 
-Clean break divorce model is the source's phrase for treating divorce as a sharp household separation in which one parent, often the parent leaving the home, becomes effectively absent from the child's daily life. [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] uses the phrase through anthropologist Alison Alexy's description of [[Japan]]'s older divorce pattern.
+## Definition
+Clean break divorce model is a post-divorce norm in which household separation is treated as ending one parent's ordinary participation in a child's life rather than only ending the adult couple relationship.
 
-The model matters because it makes weak visitation and child-support arrangements look socially normal rather than like unresolved family governance. The episode contrasts it with [[JointCustodyReform]], where divorced parents are expected to keep collaborating on schooling, relocation, and child contact after the marriage ends.
+## Current Synthesis
+The current evidence separates procedural ease for adults from continuity of care for children. The Japan source shows how weak contact and support can become socially normalized when divorce is treated as a total household break; the Chinese conversational source supplies a lived contrast between parental disappearance or conflict and continued cooperative caregiving. Together they support a continuing-responsibility principle while leaving safety exceptions explicit: ending a marriage need not end parenthood, but contact cannot be presumed beneficial where it exposes a child or former partner to harm.
 
 ## Key Claims
-- A clean-break norm can simplify adult separation while cutting children off from one parent.
-- Easy divorce procedures can become problematic when custody, visitation, and support are settled without structured mediation.
-- Legal reform can challenge social assumptions about whether family obligations survive marriage breakdown.
-- Backlash against reform often reflects both safety concerns and resistance to changing household norms.
+- A clean-break norm can simplify adult separation while making parental disappearance appear ordinary.
+- Custody, contact, support, schooling, and relocation remain governance questions after a marriage ends.
+- Legal rules and household expectations shape whether continuing responsibility is practical or merely rhetorical.
+- A child's outcome cannot be inferred from divorced status alone; conflict, care continuity, explanation, and emotional availability matter.
+- Post-divorce cooperation is not a universal prescription when abuse, coercion, or danger makes contact unsafe.
 
-## Connections
-- [[Japan]] - case where the model is discussed.
-- [[JointCustodyReform]] - legal change that challenges the model.
-- [[MoekaIida]] - contributor explaining the segment.
-- [[TheIntelligence]] - source podcast context.
+## Evidence
+### Clean break as a legal and social norm
+- [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] uses Japan's older pattern of weak nonresident-parent contact to explain why [[JointCustodyReform]] challenges both law and household expectations.
+
+### Lived contrast between disappearance and continuity
+- [[ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003]] contrasts hostile separation and parental withdrawal with a case in which former spouses continued caring for their child cooperatively.
+
+### Child security after couple dissolution
+- [[ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003]] argues that explanation, ongoing attention, and responsibility can make divorce less harmful than conflict and abandonment.
+
+## Counterevidence & Qualifications
+The Japan segment is a short report rather than a comparative family-law study, and the Chinese episode is autobiographical rather than representative. Joint custody on paper does not prove equal care, effective support, or child wellbeing. Continuing contact can be unsafe in cases of abuse, coercive control, stalking, or serious neglect, so responsibility must not be reduced to maximum contact.
+
+## What Changed
+- Added a lived countermodel in which divorce does not terminate cooperative parenting.
+- Reframed the concept around continuing parental responsibility while preserving explicit safety exceptions.
+
+## Related Concepts
+- [[JointCustodyReform]] - legal mechanism challenging the clean-break norm.
+- [[ParentalSeparationProcessAndChildSecurity|父母分离过程与子女安全感]] - child-centered account of conflict, care continuity, explanation, and stigma.
+- [[ParentalRepairAfterHarm|父母伤害后的修复]] - accountability process when a parent has caused relational harm.
+- [[FamilyRoleResponsibilityBoundary|家庭角色与责任边界]] - distinguishes continuing care from transferred or inappropriate burden.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3551
+topic_total_pages: 3552
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3322,6 +3322,9 @@ topic_concepts:
   - key: "StreamingRoyaltyGaming"
     title: "Streaming Royalty Gaming"
     url: "/wiki/concepts/streamingroyaltygaming/"
+  - key: "StructuralConditionsOfFemaleIndependence"
+    title: "Structural Conditions of Female Independence / 女性独立的结构条件"
+    url: "/wiki/concepts/structuralconditionsoffemaleindependence/"
   - key: "StructuralPowerImbalance"
     title: "Structural Power Imbalance / 结构性权力不平衡"
     url: "/wiki/concepts/structuralpowerimbalance/"

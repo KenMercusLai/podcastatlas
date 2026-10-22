@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10720
+wiki_total_pages: 10722
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "ParentalSacrificeReturnClaim"
     title: "Parental Sacrifice Return Claim / 父母付出回报索取"
     url: "/wiki/concepts/parentalsacrificereturnclaim/"
+  - key: "ParentalSeparationProcessAndChildSecurity"
+    title: "Parental Separation Process and Child Security / 父母分离过程与子女安全感"
+    url: "/wiki/concepts/parentalseparationprocessandchildsecurity/"
   - key: "Parentification"
     title: "Parentification / 亲职化"
     url: "/wiki/concepts/parentification/"

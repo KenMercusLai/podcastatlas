@@ -50850,6 +50850,29 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/cledepeaubeaute/"
     },
+    "CleanBreakDivorceModel": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The mourning show： the politics of Khamenei’s funeral [6a4b75084955fc4dc12ffcc7].md",
+          "key": "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7",
+          "show": "Economist Podcasts",
+          "title": "The Mourning Show: The Politics of Khamenei's Funeral",
+          "url": "/wiki/sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7/"
+        },
+        {
+          "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
+          "key": "ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003",
+          "show": "无时差研究所",
+          "title": "EP115-一个女孩儿是如何长大的",
+          "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/cleanbreakdivorcemodel/"
+    },
     "CleanOfficialCapacityGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -107946,6 +107969,43 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/gendermarkerdocumentcontinuity/"
+    },
+    "GenderPowerAndUncertaintyCost": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "36.黑暗的左手：流放与爱的未来往事 [605254522].md",
+          "key": "36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522",
+          "show": "蜜獾吃书",
+          "title": "36.黑暗的左手：流放与爱的未来往事",
+          "url": "/wiki/sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522/"
+        },
+        {
+          "episode_file": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？ [974657368].md",
+          "key": "178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368",
+          "show": "蜜獾吃书",
+          "title": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？",
+          "url": "/wiki/sources/178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368/"
+        },
+        {
+          "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
+          "key": "ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003",
+          "show": "无时差研究所",
+          "title": "EP115-一个女孩儿是如何长大的",
+          "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/genderpoweranduncertaintycost/"
     },
     "GenderResponsivePublicRestroomAccess": {
       "episode_count": 1,
@@ -187135,6 +187195,29 @@
       "updated": "2026-10-08",
       "url": "/wiki/concepts/menstrualcycletrainingindividualization/"
     },
+    "MenstrualPublicInfrastructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "175.女性卫生用品的社会史：比想象中更精彩！ [969467044].md",
+          "key": "175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044",
+          "show": "蜜獾吃书",
+          "title": "175.女性卫生用品的社会史：比想象中更精彩！",
+          "url": "/wiki/sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044/"
+        },
+        {
+          "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
+          "key": "ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003",
+          "show": "无时差研究所",
+          "title": "EP115-一个女孩儿是如何长大的",
+          "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/menstrualpublicinfrastructure/"
+    },
     "MenstrualStigma": {
       "episode_count": 7,
       "show_count": 3,
@@ -211476,6 +211559,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/parentalsacrificereturnclaim/"
+    },
+    "ParentalSeparationProcessAndChildSecurity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
+          "key": "ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003",
+          "show": "无时差研究所",
+          "title": "EP115-一个女孩儿是如何长大的",
+          "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/parentalseparationprocessandchildsecurity/"
     },
     "Parentification": {
       "episode_count": 2,
@@ -265180,6 +265279,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/strongtrunkweakbranchcentralization/"
+    },
+    "StructuralConditionsOfFemaleIndependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
+          "key": "ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003",
+          "show": "无时差研究所",
+          "title": "EP115-一个女孩儿是如何长大的",
+          "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/structuralconditionsoffemaleindependence/"
     },
     "StructuralPathsToImperialReunification": {
       "episode_count": 2,

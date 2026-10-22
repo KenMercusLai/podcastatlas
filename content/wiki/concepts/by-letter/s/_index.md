@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10720
+wiki_total_pages: 10722
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2339,6 +2339,9 @@ wiki_pages:
   - key: "StrongmanInfrastructureGovernance"
     title: "Strongman Infrastructure Governance"
     url: "/wiki/concepts/strongmaninfrastructuregovernance/"
+  - key: "StructuralConditionsOfFemaleIndependence"
+    title: "Structural Conditions of Female Independence / 女性独立的结构条件"
+    url: "/wiki/concepts/structuralconditionsoffemaleindependence/"
   - key: "StructuralHealthMonitoring"
     title: "Structural Health Monitoring"
     url: "/wiki/concepts/structuralhealthmonitoring/"

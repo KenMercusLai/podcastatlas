@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP115-一个女孩儿是如何长大的](sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003.md) — 无时差研究所从父母分离方式与持续责任、成年关系安全感、女性独立的结构条件及月经公共基础设施讨论家庭与性别困境。
 - [Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse](sources/88-audio-nikesharvink-88-audio-nikesharvink.md) — All-In conversation on early post-quantum migration, task-matched model economics, verified AI cyber defense, strategic stack integration, agent lock-in, and enterprise software consolidation.
 - [低价城际大巴吸引乘客，AI 短剧算力用量引发争议](sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u.md) — 声动早咖啡串联推理框架、Token 与算力口径、短剧平台、问界出海、流媒体广告、服装涨价和分散站点城际大巴。
 - [716. King Arthur: The Truth Behind the Legend (Part 4)](sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589.md) — The Rest Is History weighs the disputed early texts, name evidence, archaeology, and failed identifications behind an agnostic verdict on Arthur's historicity.
@@ -18514,6 +18515,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Parental Separation Process and Child Security / 父母分离过程与子女安全感](concepts/ParentalSeparationProcessAndChildSecurity.md) — 区分离婚身份与冲突、解释、持续照料、情感回应及社会污名共同塑造的子女安全体验。
+- [Structural Conditions of Female Independence / 女性独立的结构条件](concepts/StructuralConditionsOfFemaleIndependence.md) — 将女性独立理解为由教育、资源、社会接触、支持网络与退出能力共同支撑的现实能力。
 - [Experimentation–Production Model Split](concepts/ExperimentationProductionModelSplit.md) — Use high-capability models to prove value, then choose production models by cost, control, task fit, privacy, and failure consequence.
 - [Strategic Stack Integration](concepts/StrategicStackIntegration.md) — Selective vertical integration of differentiated layers while commodity components are purchased.
 - [Agent Platform Switching Costs](concepts/AgentPlatformSwitchingCosts.md) — Lock-in created by accumulated memory, context, permissions, connectors, services, and workflow history around an agent.
@@ -26912,7 +26915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Myth As Historical Evidence](concepts/MythAsHistoricalEvidence.md) — Method boundary where myths, including Campbell/Frazer patterns, can expose memory and social anxiety but need support before becoming historical claims.
 - [Mother Goddess Evidence Leap](concepts/MotherGoddessEvidenceLeap.md) — Warning against jumping from female figurines or goddess worship to proof of female rule.
 - [Female Civilizing Power](concepts/FemaleCivilizingPower.md) — Cautious frame for women’s voice, care, and lower violence without assuming natural female gentleness or proven ancient matriarchy.
-- [Gender Power And Uncertainty Cost](concepts/GenderPowerAndUncertaintyCost.md) — Episode 178 closing concept: gender justice depends on who bears bodily, family, economic, and social uncertainty and who controls resources.
+- [Gender Power And Uncertainty Cost](concepts/GenderPowerAndUncertaintyCost.md) — Framework for testing gender justice through resource control, decision power, exit capacity, recognition, and concentrated bodily, domestic, economic, and social risk.
 - [Monogamy As Stability Structure](concepts/MonogamyAsStabilityStructure.md) — Pragmatic account of monogamy as a stabilizer for childrearing, inheritance, competition, and conflict, not as automatic justice.
 - [Childhood Reading Ecology](concepts/ChildhoodReadingEcology.md) — Mixed childhood environment of books, magazines, comics, science media, family access, television, and internet writing before a tidy reading system exists.
 - [Children's Literature Complexity](concepts/ChildrensLiteratureComplexity.md) — Frame for children's works as serious, contradictory, socially aware, frightening, funny, and not reducible to safe morals.
@@ -26940,7 +26943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Menstrual Stigma](concepts/MenstrualStigma.md) — Pattern where menstruation is treated as dirty, dangerous, shameful, unlucky, or unspeakable, shaping knowledge and access.
 - [Gendered Medicalization](concepts/GenderedMedicalization.md) — Medical-language pattern where bodily knowledge improves while women's menstruation is also pathologized or used to restrict activity.
 - [Commercial Menstrual Education](concepts/CommercialMenstrualEducation.md) — Brand, advertising, sample, booklet, and school-channel education that teaches menstruation while creating product demand.
-- [Menstrual Public Infrastructure](concepts/MenstrualPublicInfrastructure.md) — Public access frame for menstrual products in transit, schools, toilets, retail, standards, taxes, and disposal systems.
+- [Menstrual Public Infrastructure](concepts/MenstrualPublicInfrastructure.md) — Material and social system for menstrual products, toilets, disposal, emergency access, standards, affordability, education, and speakability.
 - [Period Poverty](concepts/PeriodPoverty.md) — Access problem where recurring menstrual-product costs, stigma, and safety concerns burden low-income users.
 - [Toxic Shock Syndrome Risk](concepts/ToxicShockSyndromeRisk.md) — Product-safety and trust frame around tampon use, historical TSS controversies, and risk communication.
 - [Methodic Doubt](concepts/MethodicDoubt.md) — Cartesian procedure of doubting what can be doubted to clear inherited prejudice and find a secure starting point.
@@ -28118,7 +28121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, extended by Erdogan's early-election route, opposition pressure, and the Khamenei funeral cases.
 - [Political Funeral](concepts/PoliticalFuneral.md) — Use of mourning ritual as regime-legitimacy performance and succession signal.
 - [Joint Custody Reform](concepts/JointCustodyReform.md) — Family-law shift toward continuing post-divorce parental responsibility, grounded by Japan's reform.
-- [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Divorce norm where one parent becomes effectively absent from the child's life after household separation.
+- [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Post-divorce norm in which household separation becomes parental disappearance, qualified by continuing-responsibility and safety boundaries.
 - [Route 66 Nostalgia Tourism](concepts/Route66NostalgiaTourism.md) — Pattern where a decommissioned highway survives as a chosen memory route and roadside tourism economy.
 - [Interstate Bypass Economics](concepts/InterstateBypassEconomics.md) — Local-economy pattern where faster highways divert ordinary traffic from older road towns, leaving heritage tourism to replace through-traffic.
 - [NATO Alliance Credibility](concepts/NATOAllianceCredibility.md) — Deterrence trust problem where alliance response confidence, British capability, and usable European force matter as much as spending targets or treaty language.
