@@ -37551,3 +37551,11 @@ Added source `cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-ji
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | #408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目
+
+Added source `408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf`; created [[LiJingEducator|李晶 / Li Jing (therapeutic educator)]]; and resynthesized [[WorkaholismAsSociallyRewardedAddiction]], [[WorkRestBoundary]], [[ReflectiveChoiceFormation|反思式选择能力]], and [[ParentalRepairAfterHarm|父母伤害后的修复]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: rapid growth, pay, equity, promotion, and team success can make extreme work genuinely rewarding while obscuring family and health costs; durable boundaries distinguish chosen, goal-specific effort from compulsory presence; and repair and life redirection require changed conduct, explicit non-negotiables, review, and realistic constraints rather than insight or feeling alone. No settled contradiction was adopted. The feed title's 李晶/body's 李金 mismatch, child-development and health claims, former-colleague observations, and economic-return beliefs remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,706 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

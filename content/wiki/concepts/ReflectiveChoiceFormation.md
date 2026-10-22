@@ -4,7 +4,8 @@ type: concept
 tags: [choice, self-knowledge, experimentation, parenting, career]
 sources:
   - ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf
-last_updated: 2026-09-28
+  - 408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,13 +19,15 @@ The source argues that choice capacity is not produced by keeping every option o
 
 “以终为始” supplies direction but not certainty. The future image must be tested against present experience and revised. For children, caregivers block dangers with irreversible or health-threatening costs while allowing recoverable “small pits” followed by reflection. For adults, the same logic recommends stabilizing intense negative emotion and deliberately seeking additional perspectives before irreversible decisions.
 
+Decade-scale career and family transitions show that external standards can produce apparently clear goals without establishing that the resulting life is wanted. A whole-person calibration gives reason, felt response, bodily health, relationships, economic viability, and explicit non-negotiables distinct roles: act and gather evidence, notice what creates durable energy or damage, review the direction, and revise without treating either feeling or social approval as a complete command.
+
 ## Key Claims
 - Self-knowledge includes strengths, limits, interests, values, and a desired future direction.
 - Practice and exposure reveal fit that introspection alone cannot supply.
 - Discovering what does not fit is useful information, not merely failed choice.
 - Opportunity cost and value ranking matter more than maximizing the number of options.
 - Emotion can inform fit through enjoyment and flow, but peak distress can narrow irreversible decisions.
-- Bounded mistakes plus review can build choice capacity in children without abandoning adult safety responsibility.
+- Bounded mistakes plus review can build choice capacity in children without abandoning adult safety responsibility, while health and irreversible relationship costs constrain adult experimentation too.
 
 ## Evidence
 - Career experimentation: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf|AI 时代，我们到底该学什么？]] has [[YuHong|于红]] describe interviews and institutional exposure as a way to rule out poor fits and clarify criteria.
@@ -32,16 +35,20 @@ The source argues that choice capacity is not produced by keeping every option o
 - Emotional information: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf]] uses enjoyment and flow as evidence about long-run fit while warning against peak-negative-state decisions.
 - Parenting boundary: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf]] distinguishes life-, health-, and irreversible-risk “large pits” from tolerable “small pits” that children can experience and review.
 - Relationship perspective: [[ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf]] describes seeking views beyond one's usual same-gender confidants before a major intimate decision.
+- External-standard audit: [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] argues that goals inherited from parents, peers, partners, or social success models can feel precise while remaining poorly matched to the person.
+- Whole-person calibration: [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] combines rational investigation, inner response, bodily health, family boundaries, and periodic review in major work choices.
 
 ## Counterevidence & Qualifications
 - Experiments differ in cost and reversibility; the framework does not justify exposing a child or adult to serious safety, health, legal, financial, or abuse risk.
 - Enjoyment and flow are informative but do not by themselves establish competence, sustainability, ethics, or economic feasibility.
 - “以终为始” can become rigid if the imagined future is never updated through evidence.
 - The framework is one interviewee's practical synthesis rather than a validated universal decision protocol.
+- Li Jing's transition was supported by prior career and financial gains; lower-paid meaningful work is not equally accessible, and felt meaning does not itself establish market viability.
 
 ## What Changed
-- Created the concept from the source's career, parenting, school, and relationship choice examples.
-- Joined future direction with experimentation and state-aware decision timing.
+- Extended the framework from bounded experiments into decade-scale career and identity revision.
+- Added an explicit audit of goals inherited from family, peers, partners, and social success models.
+- Added health, close relationships, economic viability, and non-negotiable boundaries to the calibration loop.
 
 ## Related Concepts
 - [[SocialEmotionalLearning|社会情感学习]] - develops the self-knowledge and decision foundations used here.

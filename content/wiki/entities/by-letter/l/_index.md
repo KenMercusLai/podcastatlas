@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13658
+wiki_total_pages: 13659
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2129,6 +2129,9 @@ wiki_pages:
   - key: "LiChenyangNotary"
     title: "李晨阳 / Li Chenyang"
     url: "/wiki/entities/lichenyangnotary/"
+  - key: "LiJingEducator"
+    title: "李晶 / Li Jing (therapeutic educator)"
+    url: "/wiki/entities/lijingeducator/"
   - key: "LiGaoRunanLateHan"
     title: "李暠 / Li Gao (Runan administrator)"
     url: "/wiki/entities/ligaorunanlatehan/"

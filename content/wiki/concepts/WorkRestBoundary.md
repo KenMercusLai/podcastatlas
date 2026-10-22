@@ -7,7 +7,8 @@ sources:
   - vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw
   - ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge
   - zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw
-last_updated: 2026-10-11
+  - 408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ EP196 adds a sharper test: a boundary has failed when formal quitting time, sick
 
 The 读报teleread episode widens the boundary beyond work contact. Calendar leave can still fail as rest when domestic labor, errands, self-improvement pressure, or future uncertainty consume practical control over time. It also adds a security condition: a known return to work can make a finite holiday easier to inhabit than an open-ended gap, because temporary freedom does not have to answer the entire question of future income and structure.
 
+A life-priority design test makes the boundary operational: a person names something work may not consume—such as weekend care for a child—and then redesigns workload, role, or organization around it. The contrast between goal-specific voluntary effort and mandatory “996” also shows why neither long hours nor a relaxed culture alone settles the issue: purpose, consent, reward, stopping authority, spillover, and irreversible cost must be considered together.
+
 ## Key Claims
 - Rest requires a communication and availability boundary, and boss or coworker behavior helps determine whether disengagement is socially safe.
 - Short transitions, pauses, travel distance, time zones, commutes, and rituals can reinforce recovery but do not replace explicit work norms.
@@ -32,7 +35,7 @@ The 读报teleread episode widens the boundary beyond work contact. Calendar lea
 - Formal hours, benefits, and leave labels are weak evidence of a boundary unless workload and stopping authority support them.
 - Nominal free time is not equivalent to discretionary time when domestic labor, errands, or compulsory self-improvement occupy it.
 - A credible return point can support rest by containing uncertainty, even though the same endpoint limits the holiday.
-- Personal recovery practices should not be used to excuse structural overwork or delay care for significant symptoms.
+- Personal recovery practices should not be used to excuse structural overwork or delay care for significant symptoms; operational boundaries may require redesigning roles, workload, or the organization itself.
 
 ## Evidence
 - Organizational permission - [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] shows that leave fails as rest when managers and coworkers continue to treat the worker as reachable.
@@ -43,14 +46,16 @@ The 读报teleread episode widens the boundary beyond work contact. Calendar lea
 - Response-pressure design - [[ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge]] uses a colleague's “节后看” label to show how urgency cues can protect time even when a message is sent.
 - Time-control extension - [[zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw]] distinguishes having leave from controlling one's time when housework, errands, and improvement demands fill the interval.
 - Secure endpoint - [[zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw]] contrasts finite leave backed by a job to return to with the anxiety of an indefinite employment gap.
+- Non-negotiable design - [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] uses protected weekend care as a constraint from which work arrangements must be designed backward.
+- Chosen-effort boundary - [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] distinguishes voluntary effort toward a concrete result from compulsory time at work regardless of need.
 
 ## Counterevidence & Qualifications
-The sources do not establish one ideal vacation length, commute duration, breathing protocol, or universally effective transition ritual. Work-rest boundaries may remain structurally impossible in some jobs, emergencies, care roles, or precarious employment. Domestic and care labor cannot simply be relabeled as personal failure to rest, and a secure job does not make every workplace healthy. EP196's company-policy and health examples and the 读报teleread host's leave and gap experience are experiential rather than independently verified. Individual coping and ergonomic equipment should not be presented as substitutes for staffing, workload reform, labor protections, shared domestic labor, medical assessment, or psychiatric care.
+The sources do not establish one ideal vacation length, commute duration, breathing protocol, weekly schedule, or universally effective transition ritual. Work-rest boundaries may remain structurally impossible in some jobs, emergencies, care roles, or precarious employment. Domestic and care labor cannot simply be relabeled as personal failure to rest, and a secure job does not make every workplace healthy. EP196's company-policy and health examples, the 读报teleread host's leave and gap experience, and Li Jing's career account are experiential rather than independently verified. Individual coping, prior financial freedom, and ergonomic equipment should not be presented as substitutes for staffing, workload reform, labor protections, shared domestic labor, medical assessment, or psychiatric care.
 
 ## What Changed
-- Distinguished nominal leave from practical control over time outside work.
-- Added domestic workload and compulsory self-improvement as possible consumers of recovery time.
-- Added a credible return point as a source of security that can help finite leave feel restful.
+- Added non-negotiable life priorities as constraints from which work can be designed backward.
+- Distinguished voluntary, goal-specific effort from compulsory presence regardless of operational need.
+- Added role and organizational redesign as possible requirements for a durable boundary.
 
 ## Related Concepts
 - [[WorkRoleTransitionRitual]] - daily practice for marking entry into and exit from the work role.

@@ -7,7 +7,8 @@ sources:
   - protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498
   - 086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible
   - ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk
-last_updated: 2026-10-10
+  - 408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The fictional [[MyDateWithAVampire|《我和僵尸有个约会》]] case expands
 
 A non-reconciliation outcome remains compatible with the repair framework. When [[ZhangJiaqiDiver|张家齐]] declines her mother's proposal to begin again in [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]], the refusal does not negate the possibility of later repair; it prevents a symbolic reset from substituting for acknowledgment, restitution, changed behavior, and rebuilt trust. Explanation of a parent's pressure may make harm intelligible, as in [[DaiLuwa|戴露娃]]'s family, without giving the parent a right to forgiveness or renewed closeness.
 
+Repair can develop through repeated listening and self-observation rather than one decisive apology. A first-person parent account links punitive treatment of a child to control and performance logic learned at work and to the parent's own search for maternal approval. The durable evidence is not the episode's clinical interpretation of the child, but the reported change in adult conduct: less anger, attack, and pressure; greater warmth and safety; and continued revision of family interaction.
+
 ## Key Claims
 
 - Private regret is not enough after a parent harms a child; repair requires explicit speech and responsibility.
@@ -34,7 +37,7 @@ A non-reconciliation outcome remains compatible with the repair framework. When 
 - Repair becomes more credible when the parent clearly says that hitting or scolding is not a legitimate problem-solving method.
 - The child should hear explicitly that the adult's loss of control was not the child's fault.
 - Repair should not make the child comfort the adult or certify that the parent is still good.
-- The follow-up conversation should ask what the child experienced and whether the adult misunderstood the event.
+- The follow-up process should ask what the child experienced and whether the adult misunderstood the event, while sustained listening can expose repeated patterns behind the rupture.
 - The larger goal is not parental perfection, instant absolution, or compulsory reunion, but responsibility, changed conduct, attention to victims, and respect for the harmed person's boundary.
 
 ## Evidence
@@ -54,17 +57,20 @@ A non-reconciliation outcome remains compatible with the repair framework. When 
 
 - [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]] presents Zhang Jiaqi's refusal of an immediate mother-daughter reset as a legitimate boundary and distinguishes understanding Dai Luwa's family pressure from denying the harm she reports.
 
+### Repeated listening and behavioral change
+
+- [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] has Li Jing recognize the managerial control logic in her parenting through repeated listening, then reports less anger and pressure and a safer family interaction pattern.
+
 ## Counterevidence & Qualifications
 
-Apology alone does not repair severe, repeated, or ongoing harm, and promised change without behavioral change can deepen mistrust. Hanji 891 is a short parenting segment in a history podcast, while the Kennedy interview provides public psychoeducation rather than a complete child-safety or clinical intervention model. The 《我和僵尸有个约会》 case is a supernatural fictional resolution, not real-world evidence that one confession restores safety or trust. EP389 is commentary on selected reality-TV material rather than a complete family history. Victims should not be assigned the duty to educate, forgive, resume closeness, or reconcile with the person who harmed them. Violence, coercion, self-harm, or unsafe family conditions may require outside protection and qualified care.
+Apology alone does not repair severe, repeated, or ongoing harm, and promised change without behavioral change can deepen mistrust. Hanji 891 is a short parenting segment in a history podcast, while the Kennedy interview provides public psychoeducation rather than a complete child-safety or clinical intervention model. The 《我和僵尸有个约会》 case is a supernatural fictional resolution, and EP389 is commentary on selected reality-TV material rather than a complete family history. Li Jing's report does not establish that parental change treats ADHD, disability, or another condition, nor should children be made responsible for a parent's emotional processing. Victims should not be assigned the duty to educate, forgive, resume closeness, or reconcile with the person who harmed them. Violence, coercion, self-harm, or unsafe family conditions may require outside protection and qualified care.
 
 ## What Changed
 
-- Added explicit removal of child blame and the requirement that repair not recruit the child to reassure the parent.
-- Added a future-oriented account of how the adult intends to regulate differently.
-- Reframed repair as sturdy responsibility rather than recovery of authority through denial.
-- Extended repair from one acute rupture to acknowledgment of a long controlling pattern, while preserving restitution and victim boundaries.
-- Added refusal and continued distance as legitimate outcomes when accountability has not yet rebuilt trust.
+- Added repeated listening and self-observation as ways to expose the pattern behind an acute rupture.
+- Added transfer of workplace control and performance logic into parenting as one possible mechanism of harm.
+- Strengthened behavioral change—less anger, attack, pressure, and reactivity—as evidence beyond apology or insight.
+- Added an explicit boundary against reading family improvement as proof of treatment for a child's diagnosis or disability.
 
 ## Related Concepts
 

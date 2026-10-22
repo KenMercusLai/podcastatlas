@@ -163126,6 +163126,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lijinwulinglatehan/"
     },
+    "LiJingEducator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "a9f77ddf-0b3c-40f4-8837-4eb19d13420e [a9f77ddf-0b3c-40f4-8837-4eb19d13420e].md",
+          "key": "408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf",
+          "show": "声东击西",
+          "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
+          "url": "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/lijingeducator/"
+    },
     "LiJingnan": {
       "episode_count": 1,
       "show_count": 1,
@@ -212078,9 +212094,9 @@
       "url": "/wiki/concepts/parentalprojectioncontrol/"
     },
     "ParentalRepairAfterHarm": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
@@ -212109,9 +212125,16 @@
           "show": "无时差研究所",
           "title": "EP389-《我家那闺女》张家齐、代露娃 | 东亚亲子关系为何总充满伤痛和遗憾？",
           "url": "/wiki/sources/ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk/"
+        },
+        {
+          "episode_file": "a9f77ddf-0b3c-40f4-8837-4eb19d13420e [a9f77ddf-0b3c-40f4-8837-4eb19d13420e].md",
+          "key": "408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf",
+          "show": "声东击西",
+          "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
+          "url": "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/parentalrepairafterharm/"
     },
     "ParentalSacrificeReturnClaim": {
@@ -234405,9 +234428,9 @@
       "url": "/wiki/entities/reflectorbital/"
     },
     "ReflectiveChoiceFormation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
@@ -234415,9 +234438,16 @@
           "show": "十字路口Crossing",
           "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
           "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        },
+        {
+          "episode_file": "a9f77ddf-0b3c-40f4-8837-4eb19d13420e [a9f77ddf-0b3c-40f4-8837-4eb19d13420e].md",
+          "key": "408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf",
+          "show": "声东击西",
+          "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
+          "url": "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/reflectivechoiceformation/"
     },
     "ReflectiveSelfExploration": {
@@ -298887,9 +298917,9 @@
       "url": "/wiki/concepts/workrelatedsuiciderecognition/"
     },
     "WorkRestBoundary": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
@@ -298918,9 +298948,16 @@
           "show": "读报teleread",
           "title": "总第073期：正是那令我安心的，让我感到不安",
           "url": "/wiki/sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw/"
+        },
+        {
+          "episode_file": "a9f77ddf-0b3c-40f4-8837-4eb19d13420e [a9f77ddf-0b3c-40f4-8837-4eb19d13420e].md",
+          "key": "408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf",
+          "show": "声东击西",
+          "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
+          "url": "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/workrestboundary/"
     },
     "WorkRoleTransitionRitual": {
@@ -298984,9 +299021,9 @@
       "url": "/wiki/concepts/workselfworthboundary/"
     },
     "WorkaholismAsSociallyRewardedAddiction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4316318313 [SCIM4316318313].md",
@@ -298994,9 +299031,16 @@
           "show": "Huberman Lab",
           "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
           "url": "/wiki/sources/transform-pain-trauma-into-creative-expression-david-choe-scim4316318313/"
+        },
+        {
+          "episode_file": "a9f77ddf-0b3c-40f4-8837-4eb19d13420e [a9f77ddf-0b3c-40f4-8837-4eb19d13420e].md",
+          "key": "408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf",
+          "show": "声东击西",
+          "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
+          "url": "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/workaholismassociallyrewardedaddiction/"
     },
     "WorkerBaseModelRouting": {

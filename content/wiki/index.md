@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目](sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf.md) — 声东击西十周年访谈以李晶从阿里、Airbnb到家庭教育创业和治疗教育的转向，讨论高增长工作的回报与代价、亲子修复、边界及反思式人生选择。
 - [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33](sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be.md) — What's Next 讨论长期 Agent 的状态、恢复、人类升级、身份与信任，并以 Photon、Muse 和 Hark 说明通信、商户外部性及高并发故障。
 - [Advice Line with Seth Berkowitz of Insomnia Cookies](sources/advice-line-with-seth-berkowitz-of-insomnia-cookies-vmp8144262595.md) — Seth Berkowitz advises Cahindo, Sauna Société, and Desden to narrow focus, learn in context, follow end-user behavior, and earn expansion through customer proof.
 - [Behind the screens: What it’s like to interview an AI news agent](sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128.md) — Marketplace Tech examines Walter's automated Alaska local-news workflow, its coverage potential, editorial-salience failures, human-review boundary, and unresolved independence questions.
@@ -4802,6 +4803,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [李晶 / Li Jing (therapeutic educator)](entities/LiJingEducator.md) — Former Alibaba manager and family-education entrepreneur who moved into therapeutic education after reworking career, parenting, and life boundaries.
 - [Photon Agent Communication](entities/PhotonAgentCommunication.md) — Source-described communication layer that lets long-running agents escalate through messaging, calls, status updates, and handoff.
 - [Hark Startup](entities/HarkStartup.md) — Source-scoped startup whose free-pizza Gmail campaign exposed data-incentive, wrong-charge, wrong-address, and concurrency risks.
 - [Seth Berkowitz](entities/SethBerkowitz.md) — Insomnia Cookies founder and CEO who treats customer love, focused proof, and operating control as prerequisites for expansion.

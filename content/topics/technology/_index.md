@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3604
+topic_total_pages: 3606
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8804,6 +8804,9 @@ topic_entities:
   - key: "ZengMing"
     title: "曾鸣 / Zeng Ming"
     url: "/wiki/entities/zengming/"
+  - key: "LiJingEducator"
+    title: "李晶 / Li Jing (therapeutic educator)"
+    url: "/wiki/entities/lijingeducator/"
   - key: "LiWeiSanlian"
     title: "李维 / Li Wei (Sanlian)"
     url: "/wiki/entities/liweisanlian/"
@@ -9012,6 +9015,9 @@ topic_sources:
   - key: "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d"
     title: "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西"
     url: "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+  - key: "408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf"
+    title: "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目"
+    url: "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
   - key: "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6"
     title: "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18"
     url: "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3554
+topic_total_pages: 3555
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8495,6 +8495,9 @@ topic_entities:
   - key: "LiChenFenmo"
     title: "李晨 / Li Chen (粉墨)"
     url: "/wiki/entities/lichenfenmo/"
+  - key: "LiJingEducator"
+    title: "李晶 / Li Jing (therapeutic educator)"
+    url: "/wiki/entities/lijingeducator/"
   - key: "LiHonggu"
     title: "李洪谷 / Li Honggu"
     url: "/wiki/entities/lihonggu/"
