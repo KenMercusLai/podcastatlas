@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13656
+wiki_total_pages: 13658
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "HarjTaggar"
     title: "Harj Taggar"
     url: "/wiki/entities/harjtaggar/"
+  - key: "HarkStartup"
+    title: "Hark Startup"
+    url: "/wiki/entities/harkstartup/"
   - key: "HarlanCoben"
     title: "Harlan Coben"
     url: "/wiki/entities/harlancoben/"

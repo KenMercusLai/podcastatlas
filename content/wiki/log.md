@@ -37543,3 +37543,11 @@ Added source `advice-line-with-seth-berkowitz-of-insomnia-cookies-vmp8144262595`
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
+
+Added source `cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be`; created [[PhotonAgentCommunication|Photon Agent Communication]], [[HarkStartup|Hark Startup]], [[LongHorizonAgentReliability|长期智能体可靠性]], and [[AgentActionExternalities|智能体行动外部性]]; and resynthesized [[MusePersonalAgent|Muse]], [[HumanInLoopAgentGovernance]], [[AgentTrustCalibration|智能体信任校准]], [[IMAgentInterfaces]], and [[AgentRuntimeExecutionLayer]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: multi-day agent reliability depends on durable goals, constraints, state, checkpoints, verification, recovery, and timely human escalation; communication channels can make oversight operational; and individually useful automated actions can still overwhelm merchants or shift correction costs onto third parties. No settled contradiction was adopted. Product behavior, model comparisons, human-in-the-loop timelines, trust forecasts, data-for-convenience behavior, and the Photon, Muse, and Hark incidents remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,705 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

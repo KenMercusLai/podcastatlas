@@ -10,7 +10,8 @@ sources:
   - all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g
   - ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1
   - tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128
-last_updated: 2026-10-14
+  - cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,7 +23,7 @@ Muse is described as [[Meta]]'s broad consumer personal-agent product, distinct 
 ## Current Profile
 Muse represents the distribution-and-ecosystem route to personal agency. Meta can combine familiar consumer channels, social-interest and saved-content signals, free or subsidized compute, advertising reach, and per-user virtual machines to connect discovery and preferences to email, planning, shopping, booking, and transaction completion. Multiple sources now strengthen the mass-market-attention thesis through rankings, advertising reach, and rapid-download claims, but retention, economics, reliability, permission behavior, and error rates remain unverified.
 
-Muse's value and risk are inseparable. Acting across accounts can save time, expose lower prices, and reduce cancellation friction, but it requires sensitive permissions, dependable recovery, clear human-fallback disclosure, and access to platforms that may prefer to preserve their own traffic and transaction control. [[KateMoran]] adds a product-design reason for its appeal: inbox review, action summaries, and approved follow-through state an outcome more clearly than a blank chat box or a request that consumers build their own workflow.
+Muse's value and risk are inseparable. Acting across accounts can save time, expose lower prices, and reduce cancellation friction, but it requires sensitive permissions, dependable recovery, clear human-fallback disclosure, and access to platforms that may prefer to preserve their own traffic and transaction control. [[KateMoran]] adds a product-design reason for its appeal: inbox review, action summaries, and approved follow-through state an outcome more clearly than a blank chat box or a request that consumers build their own workflow. The newest source adds an externality boundary: proactive calls may help one user while many agents contacting the same merchant overwhelm staff, so per-user limits are insufficient without destination-aware controls.
 
 ## Key Characteristics
 - Covers consumer tasks such as email triage, travel, shopping, subscriptions, appointments, forms, household planning, and calendars.
@@ -31,7 +32,7 @@ Muse's value and risk are inseparable. Acting across accounts can save time, exp
 - Depends on broad data and action permissions whose value is inseparable from user trust, privacy, and recovery.
 - Faces platform resistance when user convenience threatens an incumbent's traffic, advertising, transaction data, or competing-agent control.
 - Uses approachable consumer design to make action-taking agents legible beyond technical users.
-- May increase price transparency and cancellation power while bypassing interfaces and revenue pools used by marketplaces, app stores, and subscription businesses.
+- May increase price transparency and cancellation power while bypassing interfaces and revenue pools used by marketplaces, app stores, and subscription businesses or shifting coordination costs onto merchants.
 
 ## Evidence
 - Distribution, context, and compute: [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] attributes Muse's route to Meta's channels, free strategy, interest data, and user virtual machines.
@@ -41,14 +42,15 @@ Muse's value and risk are inseparable. Acting across accounts can save time, exp
 - Mainstream utility and economic mechanism: [[all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g]] presents email, travel, shopping, price comparison, and subscription management as accessible demonstrations of personal-agent value.
 - Q3 product boundary: [[ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1]] reports heavy Facebook and Instagram promotion, roughly 3.4 million downloads in under 20 days, cloud virtual machines, basic website-operation failures, Amazon restrictions, and refusal to accept bank credentials for a transfer.
 - Need-led product framing: [[tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128]] presents inbox review, required-action summaries, and approved execution as a more legible consumer proposition than vibe coding or an empty prompt.
+- Proactivity and merchant burden: [[cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be]] describes useful proactive suggestions but also merchant complaints about repeated calls and the failure of per-user limits to control aggregate contact.
 
 ## Qualifications
-The sources report product impressions, rankings, download claims, isolated errors, and strategic interpretation rather than verified architecture, retention, unit economics, safety, or population error rates. Saved and engagement data can be noisy or obsolete. A duplicate booking or failed menu interaction does not establish general unreliability, and rapid downloads do not establish habit or willingness to grant sensitive access. Refusing bank credentials shows one boundary, not a complete payment-safety system. Moran does not report using Muse herself and explicitly raises distrust of Meta's data handling, so her interface assessment is not a comparative product test. Claims about bypassing app-store fees, payment rails, marketplace power, and subscription breakage are forecasts rather than measured outcomes.
+The sources report product impressions, rankings, download claims, isolated errors, merchant complaints, and strategic interpretation rather than verified architecture, retention, unit economics, safety, population error rates, or aggregate call volume. Saved and engagement data can be noisy or obsolete. A duplicate booking, failed menu interaction, or merchant complaint does not establish general unreliability, and rapid downloads do not establish habit or willingness to grant sensitive access. Refusing bank credentials shows one boundary, not a complete payment-safety system. Moran does not report using Muse herself and explicitly raises distrust of Meta's data handling, so her interface assessment is not a comparative product test. Claims about bypassing app-store fees, payment rails, marketplace power, and subscription breakage are forecasts rather than measured outcomes.
 
 ## What Changed
-- Added need-led product framing: concrete assistance can make agency more legible than capability-first interfaces.
-- Preserved the distinction between attention or exposure and durable voluntary adoption.
-- Kept platform access, permissions, recovery, disclosure, payment authority, and Meta data trust as unresolved constraints.
+- Added aggregate merchant-call burden as an externality that per-user controls may not contain.
+- Expanded the governance boundary from owner permission to third-party capacity, disclosure, and blocking.
+- Preserved the distinction between useful initiative and evidence of safe, scalable autonomy.
 
 ## Relationships
 - [[Meta]] - company and distribution ecosystem behind the product in the sources.
@@ -62,3 +64,5 @@ The sources report product impressions, rankings, download claims, isolated erro
 - [[MetaMuseModels]] - separate Meta Muse-named model entity, not the personal agent.
 - [[MuseImage]] - separate Meta image product, not the personal agent.
 - [[NeedLedAIProductDesign]] - explains why Muse's outcome framing may be easier for mainstream users to understand.
+- [[AgentActionExternalities]] - captures the merchant burden that can emerge from aggregate automated contact.
+- [[LongHorizonAgentReliability]] - reliability requirement for persistent tasks, constraints, and recovery.

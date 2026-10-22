@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13656
+wiki_total_pages: 13658
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "PhoenixBicycle"
     title: "Phoenix Bicycle / 凤凰自行车"
     url: "/wiki/entities/phoenixbicycle/"
+  - key: "PhotonAgentCommunication"
+    title: "Photon Agent Communication"
+    url: "/wiki/entities/photonagentcommunication/"
   - key: "PhuongHoangChiang"
     title: "Phuong Hoang Chiang"
     url: "/wiki/entities/phuonghoangchiang/"

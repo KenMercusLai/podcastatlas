@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33](sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be.md) — What's Next 讨论长期 Agent 的状态、恢复、人类升级、身份与信任，并以 Photon、Muse 和 Hark 说明通信、商户外部性及高并发故障。
 - [Advice Line with Seth Berkowitz of Insomnia Cookies](sources/advice-line-with-seth-berkowitz-of-insomnia-cookies-vmp8144262595.md) — Seth Berkowitz advises Cahindo, Sauna Société, and Desden to narrow focus, learn in context, follow end-user behavior, and earn expansion through customer proof.
 - [Behind the screens: What it’s like to interview an AI news agent](sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128.md) — Marketplace Tech examines Walter's automated Alaska local-news workflow, its coverage potential, editorial-salience failures, human-review boundary, and unresolved independence questions.
 - [Dunes and gloom: MBS's annus horribilis](sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c.md) — Economist Podcasts on MBS's overlapping military, economic, and U.S.-influence setbacks, Bankman-Fried's prison defense, and Southeast Asia's peat-fire haze crisis.
@@ -4801,6 +4802,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [Photon Agent Communication](entities/PhotonAgentCommunication.md) — Source-described communication layer that lets long-running agents escalate through messaging, calls, status updates, and handoff.
+- [Hark Startup](entities/HarkStartup.md) — Source-scoped startup whose free-pizza Gmail campaign exposed data-incentive, wrong-charge, wrong-address, and concurrency risks.
 - [Seth Berkowitz](entities/SethBerkowitz.md) — Insomnia Cookies founder and CEO who treats customer love, focused proof, and operating control as prerequisites for expansion.
 - [Insomnia Cookies](entities/InsomniaCookies.md) — Mostly directly operated late-night bakery chain using local customer awareness and a simple core offer to guide rollout.
 - [Cahindo](entities/Cahindo.md) — African-rooted special-occasion fashion brand rebuilding through bestseller, occasion, mission, and boutique focus.
@@ -18537,6 +18540,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Long-Horizon Agent Reliability / 长期智能体可靠性](concepts/LongHorizonAgentReliability.md) — Ability to preserve goals, constraints, state, verification, and recoverability across many steps, compactions, interruptions, and days.
+- [Agent Action Externalities / 智能体行动外部性](concepts/AgentActionExternalities.md) — Costs imposed on merchants, workers, bystanders, and shared systems when individually cheap automated actions accumulate or fail.
 - [Customer-Earned Expansion](concepts/CustomerEarnedExpansion.md) — Add locations, products, channels, licenses, or markets only after customer behavior proves a valued and repeatable core use case.
 - [Contextual Product Education](concepts/ContextualProductEducation.md) — Teach unfamiliar products through the places, rituals, trials, and conversations where their purpose is easiest to understand.
 - [Purchaser-End-User Split](concepts/PurchaserEndUserSplit.md) — Marketing and research problem created when the person paying differs from the person choosing, using, or socially evaluating a product.

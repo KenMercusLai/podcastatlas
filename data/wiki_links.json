@@ -7879,6 +7879,10 @@
     "title": "Agent 365",
     "url": "/wiki/entities/agent365/"
   },
+  "AgentActionExternalities": {
+    "title": "Agent Action Externalities / 智能体行动外部性",
+    "url": "/wiki/concepts/agentactionexternalities/"
+  },
   "AgentApprovalFatigue": {
     "title": "Agent Approval Fatigue",
     "url": "/wiki/concepts/agentapprovalfatigue/"
@@ -41123,6 +41127,10 @@
     "title": "Harj Taggar",
     "url": "/wiki/entities/harjtaggar/"
   },
+  "HarkStartup": {
+    "title": "Hark Startup",
+    "url": "/wiki/entities/harkstartup/"
+  },
   "HarlanCoben": {
     "title": "Harlan Coben",
     "url": "/wiki/entities/harlancoben/"
@@ -55955,6 +55963,10 @@
     "title": "Long-Horizon AI",
     "url": "/wiki/concepts/longhorizonai/"
   },
+  "LongHorizonAgentReliability": {
+    "title": "Long-Horizon Agent Reliability / 长期智能体可靠性",
+    "url": "/wiki/concepts/longhorizonagentreliability/"
+  },
   "LongHorizonIPPortfolioBuilding": {
     "title": "长期IP组合孵化 / Long-Horizon IP Portfolio Building",
     "url": "/wiki/concepts/longhorizonipportfoliobuilding/"
@@ -69470,6 +69482,10 @@
   "PhotolithographyBottleneck": {
     "title": "Photolithography Bottleneck",
     "url": "/wiki/concepts/photolithographybottleneck/"
+  },
+  "PhotonAgentCommunication": {
+    "title": "Photon Agent Communication",
+    "url": "/wiki/entities/photonagentcommunication/"
   },
   "PhotonicMatrixComputing": {
     "title": "Photonic Matrix Computing",
@@ -103446,6 +103462,10 @@
   "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b": {
     "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
     "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+  },
+  "cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be": {
+    "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",
+    "url": "/wiki/sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be/"
   },
   "cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun": {
     "title": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费",

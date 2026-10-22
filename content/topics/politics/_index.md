@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3367
+topic_total_pages: 3368
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -82,6 +82,9 @@ topic_concepts:
   - key: "AgeVerificationPatchwork"
     title: "Age Verification Patchwork"
     url: "/wiki/concepts/ageverificationpatchwork/"
+  - key: "AgentActionExternalities"
+    title: "Agent Action Externalities / 智能体行动外部性"
+    url: "/wiki/concepts/agentactionexternalities/"
   - key: "AgentApprovalFatigue"
     title: "Agent Approval Fatigue"
     url: "/wiki/concepts/agentapprovalfatigue/"

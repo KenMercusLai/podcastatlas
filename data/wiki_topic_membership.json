@@ -13214,6 +13214,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AgentActionExternalities": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AgentApprovalFatigue": [
     {
       "key": "technology",
@@ -44551,6 +44563,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HarkStartup": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HarlanCoben": [
     {
       "key": "culture",
@@ -57238,6 +57257,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LongHorizonAgentReliability": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LongHorizonMarketIteration": [
     {
       "key": "economics",
@@ -69717,6 +69743,13 @@
     }
   ],
   "PhotolithographyBottleneck": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PhotonAgentCommunication": [
     {
       "key": "technology",
       "label": "Technology",
@@ -102814,6 +102847,13 @@
     }
   ],
   "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be": [
     {
       "key": "technology",
       "label": "Technology",

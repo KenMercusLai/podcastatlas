@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3599
+topic_total_pages: 3604
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -55,6 +55,9 @@ topic_concepts:
   - key: "AgeFriendlyInfrastructure"
     title: "Age-Friendly Infrastructure"
     url: "/wiki/concepts/agefriendlyinfrastructure/"
+  - key: "AgentActionExternalities"
+    title: "Agent Action Externalities / 智能体行动外部性"
+    url: "/wiki/concepts/agentactionexternalities/"
   - key: "AgentApprovalFatigue"
     title: "Agent Approval Fatigue"
     url: "/wiki/concepts/agentapprovalfatigue/"
@@ -3106,6 +3109,9 @@ topic_concepts:
   - key: "LongChainAICompetition"
     title: "Long-Chain AI Competition"
     url: "/wiki/concepts/longchainaicompetition/"
+  - key: "LongHorizonAgentReliability"
+    title: "Long-Horizon Agent Reliability / 长期智能体可靠性"
+    url: "/wiki/concepts/longhorizonagentreliability/"
   - key: "LongHorizonAI"
     title: "Long-Horizon AI"
     url: "/wiki/concepts/longhorizonai/"
@@ -6359,6 +6365,9 @@ topic_entities:
   - key: "Happierleads"
     title: "Happierleads"
     url: "/wiki/entities/happierleads/"
+  - key: "HarkStartup"
+    title: "Hark Startup"
+    url: "/wiki/entities/harkstartup/"
   - key: "HassanBenchikran"
     title: "Hassan Benchikran"
     url: "/wiki/entities/hassanbenchikran/"
@@ -7475,6 +7484,9 @@ topic_entities:
   - key: "Philippines"
     title: "Philippines"
     url: "/wiki/entities/philippines/"
+  - key: "PhotonAgentCommunication"
+    title: "Photon Agent Communication"
+    url: "/wiki/entities/photonagentcommunication/"
   - key: "PhysicalIntelligence"
     title: "Physical Intelligence"
     url: "/wiki/entities/physicalintelligence/"
@@ -10551,6 +10563,9 @@ topic_sources:
   - key: "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53"
     title: "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19"
     url: "/wiki/sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53/"
+  - key: "cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be"
+    title: "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33"
+    url: "/wiki/sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be/"
   - key: "ba044533d184-ba044533d184"
     title: "从抢 GPU 到喂 AI，互联网正在悄悄更换主人"
     url: "/wiki/sources/ba044533d184-ba044533d184/"

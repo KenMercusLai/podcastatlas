@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10734
+wiki_total_pages: 10736
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "AgeGapMarriageDecline"
     title: "Age-Gap Marriage Decline"
     url: "/wiki/concepts/agegapmarriagedecline/"
+  - key: "AgentActionExternalities"
+    title: "Agent Action Externalities / 智能体行动外部性"
+    url: "/wiki/concepts/agentactionexternalities/"
   - key: "AgentApprovalFatigue"
     title: "Agent Approval Fatigue"
     url: "/wiki/concepts/agentapprovalfatigue/"
