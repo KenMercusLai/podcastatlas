@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP109-两周年特别节目：一场同父母辈的深度对谈，那些你不敢问的我们都替你问了](sources/ep109-liangzhounian-tebie-jiemu-yichang-tong-fumubei-de-shendu-duitan-naxie-ni-bugan-wen-de-women-dou-ti-ni-wen-le-wkgo3l5akqgqmnshcrzgwt20nfw224.md) — 无时差研究所通过六位60后、70后父母讨论代际对话、婚姻时间线、信息核查、数字适应、消费排序与同性关系态度。
 - [EP113-充满偏见的互联网时代，我们更接近真相了嘛？](sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242.md) — 无时差研究所从肖战与 AO3 风波讨论饭圈集体行动、举报武器化、信息茧房、标签化及谣言核查成本。
 - [EP114-每个孩子的归宿，都是原生家庭](sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573.md) — 无时差研究所讨论原生家庭影响、温暖与性别不平等并存、大家庭责任转移，以及教育、信息、收入和住房如何塑造女性独立。
 - [EP115-一个女孩儿是如何长大的](sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003.md) — 无时差研究所从父母分离方式与持续责任、成年关系安全感、女性独立的结构条件及月经公共基础设施讨论家庭与性别困境。
@@ -18519,6 +18520,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Intergenerational Dialogue Repair / 代际对话与关系修复](concepts/IntergenerationalDialogueRepair.md) — 以冲突后的倾听、解释、自省、承认责任与持续调整缩小亲子代际隔阂，同时保留成年选择与权力边界。
+- [Marriage Timeline Autonomy / 婚姻时间线自主](concepts/MarriageTimelineAutonomy.md) — 区分长期陪伴建议与由年龄、亲友评价或家庭颜面施加的结婚期限。
+- [Older-Adult Digital Adaptation / 中老年数字适应](concepts/OlderAdultDigitalAdaptation.md) — 以实际需要、可恢复试错、耐心指导、同伴学习与可及形式解释中老年人的选择性技术学习。
 - [Fandom Collective Action / 饭圈集体行动](concepts/FandomCollectiveAction.md) — 将偶像认同转化为数据、消费、宣传、维护声誉、举报与群体施压的协调行动。
 - [Weaponized Reporting / 举报武器化](concepts/WeaponizedReporting.md) — 利用投诉或执行渠道排除不喜欢的人、言论或社群，而非以证据和相称补救为中心。
 - [Verification Cost Asymmetry / 信息核查成本不对称](concepts/VerificationCostAsymmetry.md) — 转发诱人叙事的低成本与核对原始材料、外语来源及后续更正的高成本之间的差距。

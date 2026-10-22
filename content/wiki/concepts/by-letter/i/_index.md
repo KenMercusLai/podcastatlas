@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10726
+wiki_total_pages: 10729
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "InterfaceScience"
     title: "Interface Science / 界面科学"
     url: "/wiki/concepts/interfacescience/"
+  - key: "IntergenerationalDialogueRepair"
+    title: "Intergenerational Dialogue Repair / 代际对话与关系修复"
+    url: "/wiki/concepts/intergenerationaldialoguerepair/"
   - key: "IntergenerationalPatternPause"
     title: "Intergenerational Pattern Pause / 代际模式暂停键"
     url: "/wiki/concepts/intergenerationalpatternpause/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3593
+topic_total_pages: 3595
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3505,6 +3505,9 @@ topic_concepts:
   - key: "OlderWorkerAIRetirement"
     title: "Older Worker AI Retirement"
     url: "/wiki/concepts/olderworkerairetirement/"
+  - key: "OlderAdultDigitalAdaptation"
+    title: "Older-Adult Digital Adaptation / 中老年数字适应"
+    url: "/wiki/concepts/olderadultdigitaladaptation/"
   - key: "OlympicHostCityLegacy"
     title: "Olympic Host-City Legacy"
     url: "/wiki/concepts/olympichostcitylegacy/"
@@ -9753,6 +9756,9 @@ topic_sources:
   - key: "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx"
     title: "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白"
     url: "/wiki/sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx/"
+  - key: "ep109-liangzhounian-tebie-jiemu-yichang-tong-fumubei-de-shendu-duitan-naxie-ni-bugan-wen-de-women-dou-ti-ni-wen-le-wkgo3l5akqgqmnshcrzgwt20nfw224"
+    title: "EP109-两周年特别节目：一场同父母辈的深度对谈，那些你不敢问的我们都替你问了"
+    url: "/wiki/sources/ep109-liangzhounian-tebie-jiemu-yichang-tong-fumubei-de-shendu-duitan-naxie-ni-bugan-wen-de-women-dou-ti-ni-wen-le-wkgo3l5akqgqmnshcrzgwt20nfw224/"
   - key: "ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa"
     title: "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？"
     url: "/wiki/sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa/"

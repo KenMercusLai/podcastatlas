@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10726
+wiki_total_pages: 10729
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "OlderWorkerAIRetirement"
     title: "Older Worker AI Retirement"
     url: "/wiki/concepts/olderworkerairetirement/"
+  - key: "OlderAdultDigitalAdaptation"
+    title: "Older-Adult Digital Adaptation / 中老年数字适应"
+    url: "/wiki/concepts/olderadultdigitaladaptation/"
   - key: "OlderAdultFallPrevention"
     title: "Older-Adult Fall Prevention / 老年人跌倒预防"
     url: "/wiki/concepts/olderadultfallprevention/"
