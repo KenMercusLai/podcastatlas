@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-10-21",
       "latest_episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
-      "source_note_count": 105,
-      "topic_matched_source_note_count": 92,
+      "source_note_count": 106,
+      "topic_matched_source_note_count": 93,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 66
+          "source_note_count": 67
         },
         {
           "key": "politics",
@@ -236,10 +236,10 @@
         }
       ],
       "start_here_episode_files": [
-        "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+        "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm .md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
-        "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md"
+        "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md"
       ]
     },
     "Anyway.FM 设计杂谈": {

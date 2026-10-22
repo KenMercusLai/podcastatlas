@@ -37454,7 +37454,7 @@ Added source `shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhud
 
 ## [2026-10-22] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint in report-only mode. Deterministic and graph-aware checks completed; semantic checks were unavailable because the configured LiteLLM model lacked a provider prefix.
 
 ## [2026-10-22] ingest | 716. King Arthur: The Truth Behind the Legend (Part 4)
 
@@ -37475,6 +37475,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-22] ingest | 低价城际大巴吸引乘客，AI 短剧算力用量引发争议
 
 Added source `gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u`; created [[DeepInfer]], [[TokenComputeMetricMismatch|Token 与算力口径错配]], and [[DistributedIntercityCoachModel|分散站点城际大巴模式]]; and resynthesized [[AITO|问界]], [[Bosch|博世]], [[Netflix]], [[AIShortDrama]], and [[InferenceAccelerationStack]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: token volume cannot be translated directly into compute share; inference efficiency is a multi-layer systems problem; European vehicle entry requires regulatory and technical localization; and distributed metro-adjacent coach stops can matter as much as low fares. No settled contradiction was adopted. SpaceX financials and merger exploration, Netflix forecasts, AITO timing, DeepInfer compatibility, short-drama usage, company results, and transport prices remain episode-reported; “Deepsea” was not merged into [[DeepSeek]]. The automatic `wiki/overview.md` was read for context and not manually rewritten because this broad roundup did not warrant changing the global synthesis. Downstream synthesis found no dirty controlled topic; the max-age gate ran global compaction, and refreshed artifacts validate 4,695 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse
+
+Added source `88-audio-nikesharvink-88-audio-nikesharvink`; created [[ArvindKrishna|Arvind Krishna]], [[ExperimentationProductionModelSplit]], [[StrategicStackIntegration]], [[AgentPlatformSwitchingCosts]], and [[EnterpriseSoftwarePlatformConsolidation]]; and resynthesized [[NikeshArora|Nikesh Arora]], [[PaloAltoNetworks|Palo Alto Networks]], [[IBM]], [[QuantumCryptographicMigration]], and [[AIEnabledVulnerabilityDiscovery]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: long-lived data and infrastructure make post-quantum migration a current preparedness problem; frontier models can accelerate experimentation while cheaper controlled models handle suitable production work; AI vulnerability discovery remains bottlenecked by false positives, patch validation, and defender coordination; and integrated stacks can reduce fragmentation while increasing concentration and switching costs. No settled contradiction was adopted. The 2030 quantum midpoint, gate-growth path, model-price and token-share estimates, vulnerability false-positive rates, vendor counts, agent-written-code share, and consolidation horizons remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,696 sources across 804 overview paragraphs and nine topics.
 
 ## [2026-10-22] lint | Wiki health check
 

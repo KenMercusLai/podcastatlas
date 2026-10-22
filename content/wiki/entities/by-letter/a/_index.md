@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13641
+wiki_total_pages: 13642
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1823,6 +1823,9 @@ wiki_pages:
   - key: "ArtX"
     title: "ArtX"
     url: "/wiki/entities/artx/"
+  - key: "ArvindKrishna"
+    title: "Arvind Krishna"
+    url: "/wiki/entities/arvindkrishna/"
   - key: "ASBeauty"
     title: "AS Beauty"
     url: "/wiki/entities/asbeauty/"

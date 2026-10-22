@@ -4787,6 +4787,10 @@
     "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
     "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
   },
+  "88-audio-nikesharvink-88-audio-nikesharvink": {
+    "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+    "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+  },
   "88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803": {
     "title": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！",
     "url": "/wiki/sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803/"
@@ -7978,6 +7982,10 @@
   "AgentPermissionBoundaries": {
     "title": "Agent Permission Boundaries",
     "url": "/wiki/concepts/agentpermissionboundaries/"
+  },
+  "AgentPlatformSwitchingCosts": {
+    "title": "Agent Platform Switching Costs",
+    "url": "/wiki/concepts/agentplatformswitchingcosts/"
   },
   "AgentPostTraining": {
     "title": "Agent Post-Training",
@@ -11354,6 +11362,10 @@
   "ArtworkValueProvenanceAndAttention": {
     "title": "Artwork Value, Provenance, and Attention / 艺术品价值、来源与注意力",
     "url": "/wiki/concepts/artworkvalueprovenanceandattention/"
+  },
+  "ArvindKrishna": {
+    "title": "Arvind Krishna",
+    "url": "/wiki/entities/arvindkrishna/"
   },
   "AsItIsPractice": {
     "title": "As It Is Practice / 如其所是",
@@ -31187,6 +31199,10 @@
     "title": "Enterprise Security Data Expansion",
     "url": "/wiki/concepts/enterprisesecuritydataexpansion/"
   },
+  "EnterpriseSoftwarePlatformConsolidation": {
+    "title": "Enterprise Software Platform Consolidation",
+    "url": "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
+  },
   "EntertainmentIPFlywheel": {
     "title": "Entertainment IP Flywheel",
     "url": "/wiki/concepts/entertainmentipflywheel/"
@@ -32218,6 +32234,10 @@
   "ExperimentalScienceEthics": {
     "title": "Experimental Science Ethics",
     "url": "/wiki/concepts/experimentalscienceethics/"
+  },
+  "ExperimentationProductionModelSplit": {
+    "title": "Experimentation–Production Model Split",
+    "url": "/wiki/concepts/experimentationproductionmodelsplit/"
   },
   "ExpertDataExportControls": {
     "title": "Expert Data Export Controls",
@@ -84646,6 +84666,10 @@
   "StrategicRoyalKingdomBuffer": {
     "title": "宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer",
     "url": "/wiki/concepts/strategicroyalkingdombuffer/"
+  },
+  "StrategicStackIntegration": {
+    "title": "Strategic Stack Integration",
+    "url": "/wiki/concepts/strategicstackintegration/"
   },
   "StrategicTitleConcession": {
     "title": "Strategic Title Concession / 战略性名位让步",

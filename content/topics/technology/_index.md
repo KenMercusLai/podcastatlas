@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3589
+topic_total_pages: 3593
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2245,6 +2245,9 @@ topic_concepts:
   - key: "EnterpriseSecurityDataExpansion"
     title: "Enterprise Security Data Expansion"
     url: "/wiki/concepts/enterprisesecuritydataexpansion/"
+  - key: "EnterpriseSoftwarePlatformConsolidation"
+    title: "Enterprise Software Platform Consolidation"
+    url: "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
   - key: "EntryLevelAICareerLadderRisk"
     title: "Entry-Level AI Career-Ladder Risk"
     url: "/wiki/concepts/entrylevelaicareerladderrisk/"
@@ -2302,6 +2305,9 @@ topic_concepts:
   - key: "ExperientialAssociation"
     title: "Experiential Association / 经验联想"
     url: "/wiki/concepts/experientialassociation/"
+  - key: "ExperimentationProductionModelSplit"
+    title: "Experimentation–Production Model Split"
+    url: "/wiki/concepts/experimentationproductionmodelsplit/"
   - key: "ExpertDataExportControls"
     title: "Expert Data Export Controls"
     url: "/wiki/concepts/expertdataexportcontrols/"
@@ -5321,6 +5327,9 @@ topic_entities:
   - key: "ArticulerAI"
     title: "Articuler.ai"
     url: "/wiki/entities/articulerai/"
+  - key: "ArvindKrishna"
+    title: "Arvind Krishna"
+    url: "/wiki/entities/arvindkrishna/"
   - key: "AsahiGroup"
     title: "Asahi Group / 朝日集团"
     url: "/wiki/entities/asahigroup/"
@@ -9369,6 +9378,9 @@ topic_sources:
   - key: "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128"
     title: "Are humans losing the ability to think for themselves?"
     url: "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
+  - key: "88-audio-nikesharvink-88-audio-nikesharvink"
+    title: "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse"
+    url: "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
   - key: "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
     title: "As space launches increase, there aren't enough spaceports"
     url: "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"

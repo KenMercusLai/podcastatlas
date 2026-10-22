@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse](sources/88-audio-nikesharvink-88-audio-nikesharvink.md) — All-In conversation on early post-quantum migration, task-matched model economics, verified AI cyber defense, strategic stack integration, agent lock-in, and enterprise software consolidation.
 - [低价城际大巴吸引乘客，AI 短剧算力用量引发争议](sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u.md) — 声动早咖啡串联推理框架、Token 与算力口径、短剧平台、问界出海、流媒体广告、服装涨价和分散站点城际大巴。
 - [716. King Arthur: The Truth Behind the Legend (Part 4)](sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589.md) — The Rest Is History weighs the disputed early texts, name evidence, archaeology, and failed identifications behind an agnostic verdict on Arthur's historicity.
 - [史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善](sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia.md) — 四封来信以依恋安全串联创伤、年龄焦虑、有毒关系与职业自卑，并讨论尊严、识恶、主动择善和自我归属。
@@ -4791,6 +4792,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.278 为什么银行门口会有石狮子？](sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k.md) — 商业就是这样追溯汇丰铜狮、银行建筑、传统守门兽、风水解释与石雕商业复制，说明银行门口石狮是多源混合的新创传统而非统一古制。
 
 ## Entities
+- [Arvind Krishna](entities/ArvindKrishna.md) — IBM executive connecting quantum-readiness milestones and cryptographic migration with enterprise AI, software verification, and selective vertical integration.
 - [DeepInfer](entities/DeepInfer.md) — Source-described open inference framework targeting higher throughput, lower latency, and cross-hardware deployment on Nvidia and Huawei Ascend systems.
 - [Helen O'Connell / 海伦·欧康诺](entities/HelenOConnell.md) — Australian urologist presented as restoring a complete modern account of clitoral anatomy and its surgical relevance.
 - [Anne Koedt / 安妮·科特](entities/AnneKoedt.md) — Radical feminist writer whose orgasm critique challenged reproductive and male-centered sexual scripts.
@@ -11832,8 +11834,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google X](entities/GoogleX.md) — Google moonshot-incubation context in Maris's account of helping build projects such as Waymo and Calico.
 - [Calico](entities/Calico.md) — Google-linked life-sciences company Maris says he founded, used in the source to ground his computational-biology interest.
 - [Cohere](entities/Cohere.md) — AI company named as a Section 32 portfolio example in Maris's small-fund performance argument.
-- [Nikesh Arora](entities/NikeshArora.md) — Palo Alto Networks CEO in the All-In source, linking AI-enabled vulnerability discovery, analytical SaaS pressure, infrastructure software, Google, and enterprise AI transformation.
-- [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company used by Nikesh Arora to ground Mythos testing, AI vulnerability discovery, security data expansion, and agent-era identity needs.
+- [Nikesh Arora](entities/NikeshArora.md) — Palo Alto Networks CEO linking verified AI vulnerability discovery, model-portfolio economics, analytical software pressure, and security-platform consolidation.
+- [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company grounding AI vulnerability discovery, false-positive control, shared defense, and integrated security-platform strategy.
 - [Mythos AI Security Test](entities/MythosAISecurityTest.md) — Source-scoped Palo Alto Networks test of AI-assisted vulnerability discovery, kept separate from earlier Methos/Glasswing/Glassfin naming until reconciled.
 - [Change Healthcare](entities/ChangeHealthcare.md) — Healthcare cyber-disruption example used by Nikesh Arora to show how weak ordinary systems can create broad economic impact.
 - [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in All-In episodes on private-market secondaries, AI IPO disclosure, compute channel conflict, the offtake-versus-capex market check, and Trump accounts.
@@ -15219,7 +15221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Ellison](entities/DavidEllison.md) — Skydance founder and Paramount leader whose media role is extended by the Ellison family capital and regulatory-access story.
 - [Skydance](entities/Skydance.md) — David Ellison's media company, moving from co-financed production into debt-heavy Paramount and source-reported Warner Bros. Discovery control.
 - [Oracle](entities/Oracle.md) — Enterprise database and AI cloud company extended here from database lock-in into Stargate, U.S. TikTok, and political-regulatory leverage.
-- [IBM](entities/IBM.md) — Incumbent computing company whose relational-database research becomes the opportunity Oracle commercializes in the episode.
+- [IBM](entities/IBM.md) — Computing company connecting historical data-system responsibility, missed database commercialization, and the durability and limits of selective stack integration.
 - [Top Gun: Maverick](entities/TopGunMaverick.md) — Skydance franchise hit used as David Ellison's credibility proof before larger media-control deals.
 - [Stargate AI Infrastructure](entities/StargateAIInfrastructure.md) — U.S. AI infrastructure plan used by the source to link Oracle, OpenAI, Trump, and strategic compute access.
 - [CBS](entities/CBS.md) — Paramount-linked broadcast/news asset used in the episode's media-ownership independence concern.
@@ -18512,6 +18514,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Experimentation–Production Model Split](concepts/ExperimentationProductionModelSplit.md) — Use high-capability models to prove value, then choose production models by cost, control, task fit, privacy, and failure consequence.
+- [Strategic Stack Integration](concepts/StrategicStackIntegration.md) — Selective vertical integration of differentiated layers while commodity components are purchased.
+- [Agent Platform Switching Costs](concepts/AgentPlatformSwitchingCosts.md) — Lock-in created by accumulated memory, context, permissions, connectors, services, and workflow history around an agent.
+- [Enterprise Software Platform Consolidation](concepts/EnterpriseSoftwarePlatformConsolidation.md) — Reduction of fragmented vendor portfolios into fewer integrated platforms, qualified by transactional reliability and trust requirements.
 - [Token-Compute Metric Mismatch / Token 与算力口径错配](concepts/TokenComputeMetricMismatch.md) — Measurement error that treats token volume as if it directly represented compute capacity, energy, cost, or hardware time.
 - [Distributed Intercity Coach Model / 分散站点城际大巴模式](concepts/DistributedIntercityCoachModel.md) — Coach-network design using multiple metro-adjacent stops and low fares to reduce access friction between nearby cities.
 - [Secure Attachment and Exploration / 安全依恋与探索](concepts/SecureAttachmentExploration.md) — Felt relational safety can release attention and energy for curiosity, learning, work, and experimentation.
@@ -21179,7 +21185,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lunar Industrialization](concepts/LunarIndustrialization.md) — Moon-as-industrial-frontier thesis linking cheap launch, robotics, lunar materials, and mass-driver speculation.
 - [IPO Capital Absorption](concepts/IPOCapitalAbsorption.md) — public-market liquidity frame for whether large listings and insider sellers can be absorbed without broken offering prices.
 - [Fertilizer Supply-Chain Shock](concepts/FertilizerSupplyChainShock.md) — energy and chokepoint risk frame for fertilizer availability, farmer input costs, and food-system resilience.
-- [Quantum Cryptographic Migration](concepts/QuantumCryptographicMigration.md) — migration challenge for Bitcoin, crypto systems, and internet encryption under practical quantum-computing risk.
+- [Quantum Cryptographic Migration](concepts/QuantumCryptographicMigration.md) — Long-lead replacement and validation of vulnerable cryptography under uncertain quantum timelines and harvest-now-decrypt-later exposure.
 - [Princely Consort Dependency / 诸侯妃妾依附风险](concepts/PrincelyConsortDependency.md) — risk that consort security and child prospects depend on changing princely household power rather than durable personal agency.
 - [Desire Governance Fitness / 欲望治理适任性](concepts/DesireGovernanceFitness.md) — succession and leadership principle that excessive desire makes a candidate unsafe to govern others.
 - [Mission Constrained Product Development](concepts/MissionConstrainedProductDevelopment.md) — Product-development pattern where purpose becomes concrete user, safety, ingredient, or performance constraints.
@@ -23827,7 +23833,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google AI Token Price Leverage](concepts/GoogleAITokenPriceLeverage.md) — Source-scoped thesis that Google could cut Gemini token prices to pressure OpenAI and Anthropic business models.
 - [AI Atari Stage](concepts/AIAtariStage.md) — Maris's analogy that today's AI interfaces resemble early command-line games: impressive but primitive in memory, consistency, persistence, and control surfaces.
 - [Public-Benefit Private Value Capture](concepts/PublicBenefitPrivateValueCapture.md) — Critique of companies claiming broad public benefit while keeping most financial upside private and later shifting valuation risk to public or retirement-account buyers.
-- [AI-Enabled Vulnerability Discovery](concepts/AIEnabledVulnerabilityDiscovery.md) — Dual-use AI security capability for rapidly finding and chaining software weaknesses, useful for defenders but risky if attackers gain similar access.
+- [AI-Enabled Vulnerability Discovery](concepts/AIEnabledVulnerabilityDiscovery.md) — Dual-use security capability whose value depends on triage, reproducibility, patch validation, trusted sharing, and remediation speed.
 - [Analytical SaaS Compression](concepts/AnalyticalSaaSCompression.md) — Nikesh Arora's thesis that AI and customer-owned data pressure SaaS products whose value is mainly data collection and analysis.
 - [Infrastructure Software Revaluation](concepts/InfrastructureSoftwareRevaluation.md) — Counter-thesis that databases, storage, and data infrastructure gain value as AI increases enterprise context, memory, and security data needs.
 - [Enterprise Security Data Expansion](concepts/EnterpriseSecurityDataExpansion.md) — Need for much broader cybersecurity telemetry, history, and context as AI-enabled attackers compress discovery and exploitation timelines.

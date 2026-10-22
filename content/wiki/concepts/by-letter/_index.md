@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10716
+wiki_total_pages: 10720
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "AgentPermissionBoundaries"
     title: "Agent Permission Boundaries"
     url: "/wiki/concepts/agentpermissionboundaries/"
+  - key: "AgentPlatformSwitchingCosts"
+    title: "Agent Platform Switching Costs"
+    url: "/wiki/concepts/agentplatformswitchingcosts/"
   - key: "AgentPostTraining"
     title: "Agent Post-Training"
     url: "/wiki/concepts/agentposttraining/"

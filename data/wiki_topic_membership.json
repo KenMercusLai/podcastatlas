@@ -8340,6 +8340,13 @@
       "url": "/topics/history/"
     }
   ],
+  "88-audio-nikesharvink-88-audio-nikesharvink": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803": [
     {
       "key": "culture",
@@ -16654,6 +16661,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ArvindKrishna": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AsahiGroup": [
@@ -35008,6 +35022,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EnterpriseSoftwarePlatformConsolidation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EntertainmentIPFlywheel": [
     {
       "key": "culture",
@@ -36139,6 +36160,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ExperimentationProductionModelSplit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ExpertDataExportControls": [

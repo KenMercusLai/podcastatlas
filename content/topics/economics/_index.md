@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2299
+topic_total_pages: 2300
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1171,6 +1171,9 @@ topic_concepts:
   - key: "ExchangeTradedFund"
     title: "Exchange-Traded Fund / ETF"
     url: "/wiki/concepts/exchangetradedfund/"
+  - key: "ExperimentationProductionModelSplit"
+    title: "Experimentation–Production Model Split"
+    url: "/wiki/concepts/experimentationproductionmodelsplit/"
   - key: "ExplainableAIBusinessDecisions"
     title: "Explainable AI for Business Decisions"
     url: "/wiki/concepts/explainableaibusinessdecisions/"

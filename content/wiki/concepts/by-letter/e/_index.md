@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10716
+wiki_total_pages: 10720
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "EnterpriseSecurityDataExpansion"
     title: "Enterprise Security Data Expansion"
     url: "/wiki/concepts/enterprisesecuritydataexpansion/"
+  - key: "EnterpriseSoftwarePlatformConsolidation"
+    title: "Enterprise Software Platform Consolidation"
+    url: "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
   - key: "EnterpriseFirstProductFit"
     title: "Enterprise-First Product Fit"
     url: "/wiki/concepts/enterprisefirstproductfit/"
@@ -1352,6 +1355,9 @@ wiki_pages:
   - key: "ExperimentalScienceEthics"
     title: "Experimental Science Ethics"
     url: "/wiki/concepts/experimentalscienceethics/"
+  - key: "ExperimentationProductionModelSplit"
+    title: "Experimentation–Production Model Split"
+    url: "/wiki/concepts/experimentationproductionmodelsplit/"
   - key: "ExpertDataExportControls"
     title: "Expert Data Export Controls"
     url: "/wiki/concepts/expertdataexportcontrols/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10716
+wiki_total_pages: 10720
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2246,6 +2246,9 @@ wiki_pages:
   - key: "StrategicRetreatBaseBuilding"
     title: "Strategic Retreat Base-Building / 退让式根据地经营"
     url: "/wiki/concepts/strategicretreatbasebuilding/"
+  - key: "StrategicStackIntegration"
+    title: "Strategic Stack Integration"
+    url: "/wiki/concepts/strategicstackintegration/"
   - key: "StrategicTitleConcession"
     title: "Strategic Title Concession / 战略性名位让步"
     url: "/wiki/concepts/strategictitleconcession/"

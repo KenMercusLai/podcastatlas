@@ -2995,9 +2995,9 @@
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
     "AIEnabledVulnerabilityDiscovery": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
@@ -3019,9 +3019,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"
+        },
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEntertainmentParticipationDesign": {
@@ -10301,6 +10308,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/agentpermissionboundaries/"
+    },
+    "AgentPlatformSwitchingCosts": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/agentplatformswitchingcosts/"
     },
     "AgentReadableWeb": {
       "episode_count": 1,
@@ -21435,6 +21458,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/artworkvalueprovenanceandattention/"
+    },
+    "ArvindKrishna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/arvindkrishna/"
     },
     "Asante": {
       "episode_count": 2,
@@ -87599,6 +87638,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/enterpriseownedmodels/"
     },
+    "EnterpriseSoftwarePlatformConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
+    },
     "EntertainmentIPFlywheel": {
       "episode_count": 7,
       "show_count": 6,
@@ -91728,6 +91783,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/experimentallifedesign/"
+    },
+    "ExperimentationProductionModelSplit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/experimentationproductionmodelsplit/"
     },
     "ExpertRubricVerification": {
       "episode_count": 1,
@@ -135091,6 +135162,36 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/ibdpatienteducationandpeersupport/"
+    },
+    "IBM": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/ibm/"
     },
     "IBMDataStage": {
       "episode_count": 1,
@@ -201181,6 +201282,29 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/nikephorosiiphokas/"
     },
+    "NikeshArora": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/nikesharora/"
+    },
     "NimiWusun": {
       "episode_count": 2,
       "show_count": 1,
@@ -210582,6 +210706,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/palm/"
+    },
+    "PaloAltoNetworks": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/paloaltonetworks/"
     },
     "PanAfricanism": {
       "episode_count": 1,
@@ -230281,9 +230428,9 @@
       "url": "/wiki/concepts/quantumcomputingcommercializationgap/"
     },
     "QuantumCryptographicMigration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity [40728755].md",
@@ -230291,9 +230438,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755/"
+        },
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/quantumcryptographicmigration/"
     },
     "Quebec": {
@@ -264415,6 +264569,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/strategicroyalkingdombuffer/"
+    },
+    "StrategicStackIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_NikeshArvink [88_AUDIO_NikeshArvink].md",
+          "key": "88-audio-nikesharvink-88-audio-nikesharvink",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/strategicstackintegration/"
     },
     "StrategicVisibilityScrutinyTradeoff": {
       "episode_count": 1,
