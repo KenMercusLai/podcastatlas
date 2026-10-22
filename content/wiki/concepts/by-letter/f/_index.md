@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10723
+wiki_total_pages: 10726
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "FanFestivalCommercialization"
     title: "Fan Festival Commercialization"
     url: "/wiki/concepts/fanfestivalcommercialization/"
+  - key: "FandomCollectiveAction"
+    title: "Fandom Collective Action / 饭圈集体行动"
+    url: "/wiki/concepts/fandomcollectiveaction/"
   - key: "FangshiAccountabilityTrap"
     title: "Fangshi Accountability Trap / 方士问责陷阱"
     url: "/wiki/concepts/fangshiaccountabilitytrap/"

@@ -20313,6 +20313,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/archivefieldtriangulation/"
     },
+    "ArchiveOfOurOwn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/archiveofourown/"
+    },
     "ArchivePreservationBias": {
       "episode_count": 2,
       "show_count": 2,
@@ -94295,6 +94311,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/fanatics/"
     },
+    "FandomCollectiveAction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/fandomcollectiveaction/"
+    },
     "FangKecheng": {
       "episode_count": 1,
       "show_count": 1,
@@ -115572,9 +115604,9 @@
       "url": "/wiki/concepts/groupidentityempathygating/"
     },
     "GroupPolarization": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
@@ -115603,9 +115635,16 @@
           "show": "Huberman Lab",
           "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
           "url": "/wiki/sources/science-tools-of-learning-memory-dr-david-eagleman-scim5564931565/"
+        },
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/grouppolarization/"
     },
     "GroverCleveland": {
@@ -139733,9 +139772,9 @@
       "url": "/wiki/concepts/informationasymmetricpacification/"
     },
     "InformationCocoon": {
-      "episode_count": 7,
-      "show_count": 2,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 3,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -139785,9 +139824,16 @@
           "show": "蜜獾吃书",
           "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
           "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
         }
       ],
-      "updated": "2026-08-06",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/informationcocoon/"
     },
     "InformationOverloadKnowledgeTrap": {
@@ -159028,9 +159074,9 @@
       "url": "/wiki/entities/langflow/"
     },
     "LanguageCompressionLabeling": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -159038,9 +159084,16 @@
           "show": "无人知晓",
           "title": "E46 我们从未看见彼此",
           "url": "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"
+        },
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/languagecompressionlabeling/"
     },
     "LanguagePrecision": {
@@ -286656,6 +286709,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/verifiableintent/"
     },
+    "VerificationCostAsymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/verificationcostasymmetry/"
+    },
     "VerifiedPseudonymousWorkplaceCommunity": {
       "episode_count": 1,
       "show_count": 1,
@@ -293447,6 +293516,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/weapontechnologyduellethality/"
+    },
+    "WeaponizedReporting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/weaponizedreporting/"
     },
     "WeaponsRaceCivilizationalSelfDestruction": {
       "episode_count": 1,
@@ -302035,6 +302120,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/xiaoyuphysicsteacher/"
+    },
+    "XiaoZhan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO0l6AHoej4BVCBrfR-nWrGgI242 [wKgO0l6AHoej4BVCBrfR-nWrGgI242].md",
+          "key": "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242",
+          "show": "无时差研究所",
+          "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+          "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/xiaozhan/"
     },
     "XiaoZhaoJinYong": {
       "episode_count": 1,

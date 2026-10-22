@@ -7,8 +7,9 @@ sources:
   - 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7
   - 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318
   - science-tools-of-learning-memory-dr-david-eagleman-scim5564931565
+  - ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-09
+last_updated: 2026-10-22
 ---
 
 # Group Polarization / 群体极化
@@ -19,7 +20,7 @@ Group polarization is the intensification of positions or intergroup hostility w
 ## Current Synthesis
 The bounded evidence separates informational, social, algorithmic, and affective routes. Shared leaning can intensify when stronger in-group expressions reset the local center and moderation becomes costly to status or belonging. Algorithms can reinforce this process by repeatedly presenting inferred peers and identity categories, but the evidence does not support a universal sealed filter bubble: multi-platform use and incidental exposure can broaden contact.
 
-Exposure alone is not correction. Opposing views delivered through rage-rich feeds, angry comments, and adversarial formats can broaden information while worsening [[AffectivePolarization]]. The Eagleman interview adds an older and lower-level identity layer: religious, political, sporting, or even arbitrary labels can alter empathic response, while dehumanizing propaganda and zero-sum models can make harm easier to justify. Social media may amplify visibility and conflict without having invented polarization.
+Exposure alone is not correction. Opposing views delivered through rage-rich feeds, angry comments, adversarial formats, mass reporting, and forced position-taking can broaden information while worsening [[AffectivePolarization]]. EP113's Xiao Zhan/AO3 case adds reciprocal escalation: identity defense can organize punitive action, while opponents can answer with pressure on the idol, fandom, and brands. The Eagleman interview adds an older and lower-level identity layer: religious, political, sporting, or even arbitrary labels can alter empathic response, while dehumanizing propaganda and zero-sum models can make harm easier to justify. Social media may amplify visibility and conflict without having invented polarization.
 
 ## Key Claims
 - Repeated in-group argument can move the perceived group center toward a more extreme position.
@@ -28,7 +29,7 @@ Exposure alone is not correction. Opposing views delivered through rage-rich fee
 - Cross-viewpoint exposure can increase hostility when the surrounding format rewards conflict.
 - Polarization predates social media, though platforms can amplify, sort, and make it more visible.
 - Minimal group labels can affect empathic response without determining later conduct.
-- Dehumanizing language and zero-sum assumptions can convert identity difference into permission for harm.
+- Dehumanizing language, reporting, brand pressure, and forced position-taking can convert identity difference into reciprocal group punishment.
 
 ## Evidence
 - Norm intensification - [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] links group polarization to identity, tribal truth, information cocoons, and stronger local expressions.
@@ -36,14 +37,16 @@ Exposure alone is not correction. Opposing views delivered through rage-rich fee
 - Affective qualification - [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] says opposing exposure can intensify hostility inside conflict-rich platform formats.
 - Historical and identity boundary - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] argues that polarization predates social media and describes empathy differences across religious, atheist, sport, and arbitrary groups.
 - Dehumanization route - [[science-tools-of-learning-memory-dr-david-eagleman-scim5564931565]] connects propaganda labels, reduced person-modeling, and zero-sum thinking to intergroup harm.
+- Reciprocal mobilization - [[ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242]] uses the Xiao Zhan/AO3 controversy to connect [[FandomCollectiveAction]], [[WeaponizedReporting]], label-driven camp assignment, counter-pressure, and silence under threat.
 
 ## Counterevidence & Qualifications
-The sources do not show that all homogeneous groups polarize, that algorithmic feeds universally seal users into cocoons, that exposure to disagreement is always harmful, or that an fMRI contrast predicts individual behavior. Political conflict also depends on institutions, leaders, material stakes, history, and power. Social media can amplify and reveal division without being its sole cause.
+The sources do not show that all homogeneous groups polarize, that algorithmic feeds universally seal users into cocoons, that exposure to disagreement is always harmful, or that an fMRI contrast predicts individual behavior. EP113 does not provide fan demographics, complaint records, a platform audit, or independent reconstruction of the AO3 access change. Political conflict also depends on institutions, leaders, material stakes, history, and power. Social media can amplify and reveal division without being its sole cause.
 
 ## What Changed
 - Migrated the page to synthesis-v1 while preserving the original evidence order.
 - Added polarization's pre-social-media history and separated platform amplification from origin.
 - Added identity-gated empathy, dehumanizing labels, and zero-sum models as qualified mechanisms.
+- Added reciprocal fandom escalation, punitive reporting, and silence pressure as source-scoped mechanisms.
 
 ## Related Concepts
 - [[InformationCocoon]] - media setting that can narrow repeated exposure without being universally sealed.
@@ -53,3 +56,5 @@ The sources do not show that all homogeneous groups polarize, that algorithmic f
 - [[GroupIdentityEmpathyGating]] - lower-level identity response that does not determine conduct.
 - [[DehumanizationByComparison]] - loss of concrete personhood that can make group harm easier to justify.
 - [[ConstructiveDissent]] - corrective practice for widening evidence without demanding identity surrender.
+- [[FandomCollectiveAction]] - coordination layer that can translate polarized identity into data, consumption, defense, and pressure.
+- [[WeaponizedReporting]] - enforcement channel that can convert factional conflict into material exclusion.

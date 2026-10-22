@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3553
+topic_total_pages: 3554
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3547,6 +3547,9 @@ topic_concepts:
   - key: "ValuesFirstTalent"
     title: "Values-First Talent"
     url: "/wiki/concepts/valuesfirsttalent/"
+  - key: "VerificationCostAsymmetry"
+    title: "Verification Cost Asymmetry / 信息核查成本不对称"
+    url: "/wiki/concepts/verificationcostasymmetry/"
   - key: "VernacularLiteraryLegitimacy"
     title: "Vernacular Literary Legitimacy"
     url: "/wiki/concepts/vernacularliterarylegitimacy/"

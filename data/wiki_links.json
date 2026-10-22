@@ -10995,6 +10995,10 @@
     "title": "档案互证与现场三角校验 / Archive-Field Triangulation",
     "url": "/wiki/concepts/archivefieldtriangulation/"
   },
+  "ArchiveOfOurOwn": {
+    "title": "Archive of Our Own / AO3",
+    "url": "/wiki/entities/archiveofourown/"
+  },
   "ArchivePreservationBias": {
     "title": "Archive Preservation Bias / 档案保存偏差",
     "url": "/wiki/concepts/archivepreservationbias/"
@@ -32986,6 +32990,10 @@
   "Fanatics": {
     "title": "Fanatics",
     "url": "/wiki/entities/fanatics/"
+  },
+  "FandomCollectiveAction": {
+    "title": "Fandom Collective Action / 饭圈集体行动",
+    "url": "/wiki/concepts/fandomcollectiveaction/"
   },
   "FangKecheng": {
     "title": "方可诚",
@@ -91971,6 +91979,10 @@
     "title": "Verifiable Intent / 可验证意图",
     "url": "/wiki/concepts/verifiableintent/"
   },
+  "VerificationCostAsymmetry": {
+    "title": "Verification Cost Asymmetry / 信息核查成本不对称",
+    "url": "/wiki/concepts/verificationcostasymmetry/"
+  },
   "VerifiedPseudonymousWorkplaceCommunity": {
     "title": "Verified Pseudonymous Workplace Community / 实名底座的职场昵称社区",
     "url": "/wiki/concepts/verifiedpseudonymousworkplacecommunity/"
@@ -94002,6 +94014,10 @@
   "WeaponTechnologyDuelLethality": {
     "title": "Weapon Technology And Duel Lethality / 武器技术与决斗致命性",
     "url": "/wiki/concepts/weapontechnologyduellethality/"
+  },
+  "WeaponizedReporting": {
+    "title": "Weaponized Reporting / 举报武器化",
+    "url": "/wiki/concepts/weaponizedreporting/"
   },
   "WeaponsRaceCivilizationalSelfDestruction": {
     "title": "Weapons-Race Civilizational Self-Destruction / 武器竞赛式文明自毁",
@@ -96642,6 +96658,10 @@
   "XiaoYuPhysicsTeacher": {
     "title": "小雨 / Xiao Yu (physics teacher)",
     "url": "/wiki/entities/xiaoyuphysicsteacher/"
+  },
+  "XiaoZhan": {
+    "title": "Xiao Zhan / 肖战",
+    "url": "/wiki/entities/xiaozhan/"
   },
   "XiaoZhaoJinYong": {
     "title": "小昭（金庸小说） / Xiao Zhao (Jin Yong)",
@@ -104066,6 +104086,10 @@
   "ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh": {
     "title": "EP11 空少揭秘：飞机上的神秘规定和奇闻趣事",
     "url": "/wiki/sources/ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh/"
+  },
+  "ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242": {
+    "title": "EP113-充满偏见的互联网时代，我们更接近真相了嘛？",
+    "url": "/wiki/sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242/"
   },
   "ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573": {
     "title": "EP114-每个孩子的归宿，都是原生家庭",

@@ -37495,3 +37495,11 @@ Added source `88-audio-nikesharvink-88-audio-nikesharvink`; created [[ArvindKris
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | EP113-充满偏见的互联网时代，我们更接近真相了嘛？
+
+Added source `ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242`; created [[XiaoZhan|肖战]], [[ArchiveOfOurOwn|AO3]], [[FandomCollectiveAction|饭圈集体行动]], [[WeaponizedReporting|举报武器化]], and [[VerificationCostAsymmetry|信息核查成本不对称]]; and resynthesized [[InformationCocoon|信息茧房]], [[GroupPolarization|群体极化]], and [[LanguageCompressionLabeling|语言压缩与标签化]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: fandom can turn identity into data, consumption, defense, and coordinated pressure; complaint channels can become tools of factional exclusion; and rumors gain a timing advantage because repetition is cheaper than verification. No settled contradiction was adopted. Later research-oriented sources qualify the episode's stronger information-cocoon account, while fan demographics, the AO3 reporting chain, platform mechanics, commercial coordination, rumor examples, and generational forecasts remain anecdotal or source-scoped. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,699 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

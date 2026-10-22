@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10723
+wiki_total_pages: 10726
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "WeaponTechnologyDuelLethality"
     title: "Weapon Technology And Duel Lethality / 武器技术与决斗致命性"
     url: "/wiki/concepts/weapontechnologyduellethality/"
+  - key: "WeaponizedReporting"
+    title: "Weaponized Reporting / 举报武器化"
+    url: "/wiki/concepts/weaponizedreporting/"
   - key: "WeaponsRaceCivilizationalSelfDestruction"
     title: "Weapons-Race Civilizational Self-Destruction / 武器竞赛式文明自毁"
     url: "/wiki/concepts/weaponsracecivilizationalselfdestruction/"
