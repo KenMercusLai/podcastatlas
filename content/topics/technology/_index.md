@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3606
+topic_total_pages: 3608
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2116,6 +2116,9 @@ topic_concepts:
   - key: "EEGBrainReading"
     title: "EEG Brain Reading"
     url: "/wiki/concepts/eegbrainreading/"
+  - key: "EfficiencyWithoutDignity"
+    title: "Efficiency Without Dignity"
+    url: "/wiki/concepts/efficiencywithoutdignity/"
   - key: "EffortfulThinkingInTheAIAge"
     title: "Effortful Thinking in the AI Age"
     url: "/wiki/concepts/effortfulthinkingintheaiage/"
@@ -10020,6 +10023,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490"
     title: "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490/"
+  - key: "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643"
+    title: "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
   - key: "default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914"
     title: "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"

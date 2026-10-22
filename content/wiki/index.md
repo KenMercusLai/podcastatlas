@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643.md) — Tomorrow Today interview on generosity, public service, responsible commerce, sustainability strategy, multilateralism, constructive dissent, and AI efficiency without dignity.
 - [#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目](sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf.md) — 声东击西十周年访谈以李晶从阿里、Airbnb到家庭教育创业和治疗教育的转向，讨论高增长工作的回报与代价、亲子修复、边界及反思式人生选择。
 - [从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33](sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be.md) — What's Next 讨论长期 Agent 的状态、恢复、人类升级、身份与信任，并以 Photon、Muse 和 Hark 说明通信、商户外部性及高并发故障。
 - [Advice Line with Seth Berkowitz of Insomnia Cookies](sources/advice-line-with-seth-berkowitz-of-insomnia-cookies-vmp8144262595.md) — Seth Berkowitz advises Cahindo, Sauna Société, and Desden to narrow focus, learn in context, follow end-user behavior, and earn expansion through customer proof.
@@ -9711,6 +9712,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Andy Stalman](entities/AndyStalman.md) — Branding strategist and entrepreneur whose Tomorrow Today interview frames brand as identity, behavior, culture, AI readiness, and human meaning.
 - [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host connecting guest biography to survival, institutions, inequality, leadership, authorship, cognition, and accountable AI.
 - [Tomorrow Today](entities/TomorrowToday.md) — Long-form podcast joining biography to business, resilience, survival, spirituality, institutions, creative labor, inequality, AI, and human meaning.
+- [Juan Verde](entities/JuanVerde.md) — Diplomat and sustainability strategist connecting generosity, public service, responsible commerce, long-term competitiveness, and dignity-aware AI transition.
+- [Al Gore](entities/AlGore.md) — U.S. political and climate leader presented by Juan Verde as a climate-awareness advocate and source of the business-case lesson for sustainability.
 - [Araceli Segarra](entities/AraceliSegarra.md) — Mountaineer and Tomorrow Today guest whose Everest account connects fear, uncertainty, team trust, rescue, resilience, and AI-era judgment.
 - [Shyalpa Rinpoche](entities/ShyalpaRinpoche.md) — Tibetan Buddhist teacher and Tomorrow Today guest whose interview links exile, lineage, Dzogchen, karma, peace-building, and compassionate AI.
 - [Chhatral Rinpoche](entities/ChhatralRinpoche.md) — Dzogchen master named as Shyalpa Rinpoche's principal teacher and lineage anchor.
@@ -22068,6 +22071,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Credit Access Bias](concepts/AICreditAccessBias.md) — Fair-lending risk where AI systems can exclude worthy borrowers through proxy variables such as geography or income context.
 - [Third-Party AI Vendor Oversight](concepts/ThirdPartyAIVendorOversight.md) — Governance of outside AI software providers whose tools affect regulated institutional workflows and consumer outcomes.
 - [Values-Based AI Governance](concepts/ValuesBasedAIGovernance.md) — AI governance approach that makes institutional values, labor effects, privacy, access, and nondiscrimination explicit.
+- [Sustainability as Competitive Strategy](concepts/SustainabilityAsCompetitiveStrategy.md) — Operating frame linking energy and environmental action to cost, market position, resilience, policy incentives, and long-term survival.
+- [Efficiency Without Dignity](concepts/EfficiencyWithoutDignity.md) — Failure mode where cost or speed gains exclude concentrated effects on agency, livelihoods, communities, and transition legitimacy.
 - [Ningbo Manufacturing Depth / 一米宽，万米深](concepts/NingboManufacturingDepth.md) — Strategy frame for Ningbo firms building defensible depth inside narrow products, processes, materials, OEM systems, or design-led goods.
 - [Manufacturing Single Champion / 制造业单项冠军](concepts/ManufacturingSingleChampion.md) — Institutional specialization label used by episode 217 to make Ningbo's hidden manufacturing leaders visible.
 - [Localized Product Definition / 本土场景产品定义](concepts/LocalizedProductDefinition.md) — Product strategy of redesigning hardware around local use conditions, illustrated by Fangtai range hoods for Chinese kitchens.

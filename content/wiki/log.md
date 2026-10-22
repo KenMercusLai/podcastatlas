@@ -37559,3 +37559,11 @@ Added source `408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-sh
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643`; created [[JuanVerde]], [[AlGore]], [[SustainabilityAsCompetitiveStrategy]], and [[EfficiencyWithoutDignity]]; and resynthesized [[ShekharNatarajan]], [[TomorrowToday]], [[ValuesBasedAIGovernance]], and [[ConstructiveDissent]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sustainability becomes strategically durable when linked to operating cost, competitiveness, resilience, and long-term survival; commerce can support prosperity while cost-only globalization can externalize worker and community harm; and AI governance should learn from that legitimacy failure by making dignity, agency, distribution, candid advice, and transition costs explicit. No settled contradiction was adopted. Career details, salary figures, historical analogies, policy effects, company performance, political causation, and AI forecasts remain first-person, conversational, or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,707 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

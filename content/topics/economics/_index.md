@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2300
+topic_total_pages: 2301
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3067,6 +3067,9 @@ topic_concepts:
   - key: "SupplyContractionRebound"
     title: "Supply Contraction Rebound / 供给出清反弹"
     url: "/wiki/concepts/supplycontractionrebound/"
+  - key: "SustainabilityAsCompetitiveStrategy"
+    title: "Sustainability as Competitive Strategy"
+    url: "/wiki/concepts/sustainabilityascompetitivestrategy/"
   - key: "SustainableBusinessOverScale"
     title: "Sustainable Business Over Scale"
     url: "/wiki/concepts/sustainablebusinessoverscale/"

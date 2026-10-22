@@ -13658,6 +13658,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AlGore": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AlJazeera": [
     {
       "key": "politics",
@@ -33680,6 +33692,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EfficiencyWithoutDignity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EfficientFrontier": [
     {
       "key": "economics",
@@ -52714,6 +52733,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JuanVerde": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JudeoChristianNationalIdentity": [
@@ -86322,6 +86348,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SustainabilityAsCompetitiveStrategy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SustainableBusinessOverScale": [
     {
       "key": "economics",
@@ -103133,6 +103166,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559": [

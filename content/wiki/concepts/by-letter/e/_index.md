@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10736
+wiki_total_pages: 10738
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "EfficiencyOverScaleExpansion"
     title: "Efficiency Over Scale Expansion"
     url: "/wiki/concepts/efficiencyoverscaleexpansion/"
+  - key: "EfficiencyWithoutDignity"
+    title: "Efficiency Without Dignity"
+    url: "/wiki/concepts/efficiencywithoutdignity/"
   - key: "EfficientFrontier"
     title: "Efficient Frontier"
     url: "/wiki/concepts/efficientfrontier/"

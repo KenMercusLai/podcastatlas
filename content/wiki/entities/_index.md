@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13659
+wiki_total_pages: 13661
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "AlDavis"
     title: "Al Davis"
     url: "/wiki/entities/aldavis/"
+  - key: "AlGore"
+    title: "Al Gore"
+    url: "/wiki/entities/algore/"
   - key: "AlJazeera"
     title: "Al Jazeera"
     url: "/wiki/entities/aljazeera/"

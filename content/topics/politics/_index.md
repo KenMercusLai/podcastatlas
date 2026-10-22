@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3368
+topic_total_pages: 3371
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5501,6 +5501,9 @@ topic_entities:
   - key: "AireyNeave"
     title: "Airey Neave"
     url: "/wiki/entities/aireyneave/"
+  - key: "AlGore"
+    title: "Al Gore"
+    url: "/wiki/entities/algore/"
   - key: "AlJazeera"
     title: "Al Jazeera"
     url: "/wiki/entities/aljazeera/"
@@ -6749,6 +6752,9 @@ topic_entities:
   - key: "JPMorganHealthcareConference"
     title: "JP Morgan Healthcare Conference"
     url: "/wiki/entities/jpmorganhealthcareconference/"
+  - key: "JuanVerde"
+    title: "Juan Verde"
+    url: "/wiki/entities/juanverde/"
   - key: "JuliaGillard"
     title: "Julia Gillard"
     url: "/wiki/entities/juliagillard/"
@@ -9330,6 +9336,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740"
     title: "Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740/"
+  - key: "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643"
+    title: "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
   - key: "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b"
     title: "Keep qualms and carry on: a decade after Brexit"
     url: "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"

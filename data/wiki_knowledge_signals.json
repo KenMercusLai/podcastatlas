@@ -11747,6 +11747,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/alandalus/"
     },
+    "AlGore": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/algore/"
+    },
     "AlIdrisi": {
       "episode_count": 2,
       "show_count": 2,
@@ -57392,9 +57408,9 @@
       "url": "/wiki/concepts/constructedcategorytrust/"
     },
     "ConstructiveDissent": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
@@ -57416,9 +57432,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/constructivedissent/"
     },
     "ConsumerAIHardwareProductFit": {
@@ -80632,6 +80655,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/effectiveconfusionodysseyperiod/"
+    },
+    "EfficiencyWithoutDignity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/efficiencywithoutdignity/"
     },
     "EffortAsReward": {
       "episode_count": 5,
@@ -153647,6 +153686,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/juanpujol/"
+    },
+    "JuanVerde": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/juanverde/"
     },
     "JudasIscariot": {
       "episode_count": 2,
@@ -252669,9 +252724,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -252735,9 +252790,16 @@
           "show": "Tomorrow, Today",
           "title": "Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
         }
       ],
-      "updated": "2026-10-21",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -269411,6 +269473,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
     },
+    "SustainabilityAsCompetitiveStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/sustainabilityascompetitivestrategy/"
+    },
     "SustainableBusinessOverScale": {
       "episode_count": 1,
       "show_count": 1,
@@ -280038,9 +280116,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -280104,9 +280182,16 @@
           "show": "Tomorrow, Today",
           "title": "Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
         }
       ],
-      "updated": "2026-10-21",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {
@@ -286816,9 +286901,9 @@
       "url": "/wiki/concepts/valuesnackchannelconsolidation/"
     },
     "ValuesBasedAIGovernance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
@@ -286826,9 +286911,16 @@
           "show": "Marketplace Tech",
           "title": "AI in banking: the good, the bad, and the efficient",
           "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643 [default.mp3_ywr3ahjkcgo_f67117c6d6578cbf4781f8d6f81fc756_80080643].md",
+          "key": "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643",
+          "show": "Tomorrow, Today",
+          "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/valuesbasedaigovernance/"
     },
     "VanCleefArpels": {
