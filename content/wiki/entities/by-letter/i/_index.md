@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13649
+wiki_total_pages: 13656
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "InsilicoMedicine"
     title: "Insilico Medicine"
     url: "/wiki/entities/insilicomedicine/"
+  - key: "InsomniaCookies"
+    title: "Insomnia Cookies"
+    url: "/wiki/entities/insomniacookies/"
   - key: "Insta360"
     title: "Insta360 / 影石"
     url: "/wiki/entities/insta360/"

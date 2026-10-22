@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Seth Berkowitz of Insomnia Cookies](sources/advice-line-with-seth-berkowitz-of-insomnia-cookies-vmp8144262595.md) — Seth Berkowitz advises Cahindo, Sauna Société, and Desden to narrow focus, learn in context, follow end-user behavior, and earn expansion through customer proof.
 - [Behind the screens: What it’s like to interview an AI news agent](sources/tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128.md) — Marketplace Tech examines Walter's automated Alaska local-news workflow, its coverage potential, editorial-salience failures, human-review boundary, and unresolved independence questions.
 - [Dunes and gloom: MBS's annus horribilis](sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c.md) — Economist Podcasts on MBS's overlapping military, economic, and U.S.-influence setbacks, Bankman-Fried's prison defense, and Southeast Asia's peat-fire haze crisis.
 - [EP109-两周年特别节目：一场同父母辈的深度对谈，那些你不敢问的我们都替你问了](sources/ep109-liangzhounian-tebie-jiemu-yichang-tong-fumubei-de-shendu-duitan-naxie-ni-bugan-wen-de-women-dou-ti-ni-wen-le-wkgo3l5akqgqmnshcrzgwt20nfw224.md) — 无时差研究所通过六位60后、70后父母讨论代际对话、婚姻时间线、信息核查、数字适应、消费排序与同性关系态度。
@@ -4800,6 +4801,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [Seth Berkowitz](entities/SethBerkowitz.md) — Insomnia Cookies founder and CEO who treats customer love, focused proof, and operating control as prerequisites for expansion.
+- [Insomnia Cookies](entities/InsomniaCookies.md) — Mostly directly operated late-night bakery chain using local customer awareness and a simple core offer to guide rollout.
+- [Cahindo](entities/Cahindo.md) — African-rooted special-occasion fashion brand rebuilding through bestseller, occasion, mission, and boutique focus.
+- [Sauna Société](entities/SaunaSociete.md) — Stylish sauna-hat brand testing in-context education, sampling, venue placement, gifting, and feedback.
+- [Tara Gilman](entities/TaraGilman.md) — Sauna Société founder whose direct-selling results expose the category's education challenge.
+- [Desden](entities/Desden.md) — Licensed collegiate-accessories company marketing clear stadium bags across an intergenerational purchaser-user split.
+- [Carol Deshaun](entities/CarolDeshaun.md) — Desden founder weighing license and sport expansion against current portfolio performance and complexity.
 - [Walter (AI News Agent)](entities/WalterAINewsAgent.md) — alaskanews.com system that monitors public materials, selects possible stories, and generates high-volume local coverage under partial human review.
 - [alaskanews.com](entities/AlaskaNewsCom.md) — Alaska-focused publication using Walter for automation-first local-news production.
 - [Nathaniel Herz](entities/NathanielHerz.md) — Anchorage Press executive editor distinguishing AI monitoring scale from editorial relevance, investigation, and accountability.
@@ -18529,6 +18537,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Customer-Earned Expansion](concepts/CustomerEarnedExpansion.md) — Add locations, products, channels, licenses, or markets only after customer behavior proves a valued and repeatable core use case.
+- [Contextual Product Education](concepts/ContextualProductEducation.md) — Teach unfamiliar products through the places, rituals, trials, and conversations where their purpose is easiest to understand.
+- [Purchaser-End-User Split](concepts/PurchaserEndUserSplit.md) — Marketing and research problem created when the person paying differs from the person choosing, using, or socially evaluating a product.
 - [AI Editorial Salience Gap](concepts/AIEditorialSalienceGap.md) — Difference between finding and generating information at scale and judging its community importance, human stakes, and publication value.
 - [Transboundary Haze Governance](concepts/TransboundaryHazeGovernance.md) — Prevention, peat restoration, exposure protection, corporate liability, and sovereignty constraints when fire smoke crosses borders.
 - [Intergenerational Dialogue Repair / 代际对话与关系修复](concepts/IntergenerationalDialogueRepair.md) — 以冲突后的倾听、解释、自省、承认责任与持续调整缩小亲子代际隔阂，同时保留成年选择与权力边界。

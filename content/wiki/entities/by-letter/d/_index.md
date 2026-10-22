@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13649
+wiki_total_pages: 13656
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "DescriptionDeLEgypte"
     title: "Description de l'Egypte"
     url: "/wiki/entities/descriptiondelegypte/"
+  - key: "Desden"
+    title: "Desden"
+    url: "/wiki/entities/desden/"
   - key: "DeshGarments"
     title: "Desh Garments"
     url: "/wiki/entities/deshgarments/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10731
+wiki_total_pages: 10734
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2429,6 +2429,9 @@ wiki_pages:
   - key: "ContextualMonarchicalSuccess"
     title: "Contextual Monarchical Success"
     url: "/wiki/concepts/contextualmonarchicalsuccess/"
+  - key: "ContextualProductEducation"
+    title: "Contextual Product Education"
+    url: "/wiki/concepts/contextualproducteducation/"
   - key: "ContextualSodiumIntake"
     title: "Contextual Sodium Intake"
     url: "/wiki/concepts/contextualsodiumintake/"
@@ -3278,6 +3281,9 @@ wiki_pages:
   - key: "CustomerValueBasedPricing"
     title: "Customer Value-Based Pricing / 消费者价值定价"
     url: "/wiki/concepts/customervaluebasedpricing/"
+  - key: "CustomerEarnedExpansion"
+    title: "Customer-Earned Expansion"
+    url: "/wiki/concepts/customerearnedexpansion/"
   - key: "CustomerInterviewLedPositioning"
     title: "Customer-Interview-Led Positioning"
     url: "/wiki/concepts/customerinterviewledpositioning/"

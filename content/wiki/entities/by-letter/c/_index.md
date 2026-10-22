@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13649
+wiki_total_pages: 13656
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "Caffe"
     title: "Caffe"
     url: "/wiki/entities/caffe/"
+  - key: "Cahindo"
+    title: "Cahindo"
+    url: "/wiki/entities/cahindo/"
   - key: "CaitlinClark"
     title: "Caitlin Clark"
     url: "/wiki/entities/caitlinclark/"
@@ -290,6 +293,9 @@ wiki_pages:
   - key: "CarnabyStreet"
     title: "Carnaby Street"
     url: "/wiki/entities/carnabystreet/"
+  - key: "CarolDeshaun"
+    title: "Carol Deshaun"
+    url: "/wiki/entities/caroldeshaun/"
   - key: "CarolDweck"
     title: "Carol Dweck"
     url: "/wiki/entities/caroldweck/"

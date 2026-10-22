@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13649
+wiki_total_pages: 13656
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "SaudiVision2030"
     title: "Saudi Vision 2030 / 沙特2030愿景"
     url: "/wiki/entities/saudivision2030/"
+  - key: "SaunaSociete"
+    title: "Sauna Société"
+    url: "/wiki/entities/saunasociete/"
   - key: "SavannahPollock"
     title: "Savannah Pollock"
     url: "/wiki/entities/savannahpollock/"
@@ -602,6 +605,9 @@ wiki_pages:
   - key: "ServiceNow"
     title: "ServiceNow"
     url: "/wiki/entities/servicenow/"
+  - key: "SethBerkowitz"
+    title: "Seth Berkowitz"
+    url: "/wiki/entities/sethberkowitz/"
   - key: "SethStoughton"
     title: "Seth Stoughton"
     url: "/wiki/entities/sethstoughton/"

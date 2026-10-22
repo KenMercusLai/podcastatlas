@@ -37535,3 +37535,11 @@ Added source `tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | Advice Line with Seth Berkowitz of Insomnia Cookies
+
+Added source `advice-line-with-seth-berkowitz-of-insomnia-cookies-vmp8144262595`; created [[SethBerkowitz]], [[InsomniaCookies]], [[Cahindo]], [[SaunaSociete|Sauna Société]], [[TaraGilman]], [[Desden]], [[CarolDeshaun]], [[CustomerEarnedExpansion]], [[ContextualProductEducation]], and [[PurchaserEndUserSplit]]. Core synthesis: locations, products, channels, categories, and licenses should expand after customers demonstrate value; unfamiliar products learn faster in contexts where use is legible; and brands must distinguish the payer from the end user when those roles split. No settled contradiction was adopted. Counts, revenues, margins, license totals, targets, efficacy claims, and proposed channel results remain episode-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,704 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

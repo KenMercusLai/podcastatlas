@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10731
+wiki_total_pages: 10734
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2753,6 +2753,9 @@ wiki_pages:
   - key: "PunkEconomicCrisisSymbolism"
     title: "Punk Economic Crisis Symbolism"
     url: "/wiki/concepts/punkeconomiccrisissymbolism/"
+  - key: "PurchaserEndUserSplit"
+    title: "Purchaser-End-User Split"
+    url: "/wiki/concepts/purchaserendusersplit/"
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"
