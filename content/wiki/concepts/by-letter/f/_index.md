@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10722
+wiki_total_pages: 10723
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "FamilySeparationThroughParentalIncarceration"
     title: "Family Separation Through Parental Incarceration"
     url: "/wiki/concepts/familyseparationthroughparentalincarceration/"
+  - key: "FamilyWarmthGenderInequalityCoexistence"
+    title: "Family Warmth and Gender Inequality Coexistence / 家庭温暖与性别不平等并存"
+    url: "/wiki/concepts/familywarmthgenderinequalitycoexistence/"
   - key: "FamilyWineryLongTermStewardship"
     title: "Family Winery Long-Term Stewardship / 家族酒庄的长期托付"
     url: "/wiki/concepts/familywinerylongtermstewardship/"

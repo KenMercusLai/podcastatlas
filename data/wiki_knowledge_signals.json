@@ -93593,9 +93593,9 @@
       "url": "/wiki/concepts/familyriskdiversification/"
     },
     "FamilyRoleResponsibilityBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llTxpvjI9ZEeWoYGycdyvRnJbN4c [llTxpvjI9ZEeWoYGycdyvRnJbN4c].md",
@@ -93603,6 +93603,13 @@
           "show": "这病说来话长",
           "title": "VOL.188《疯狂动物城2》背后藏着的“成年人心理课”",
           "url": "/wiki/sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c/"
+        },
+        {
+          "episode_file": "wKgO1V6JM4rQP7q-BVyZzT7V_IA573 [wKgO1V6JM4rQP7q-BVyZzT7V_IA573].md",
+          "key": "ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573",
+          "show": "无时差研究所",
+          "title": "EP114-每个孩子的归宿，都是原生家庭",
+          "url": "/wiki/sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573/"
         }
       ],
       "updated": "2026-10-10",
@@ -93623,6 +93630,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/familyseparationthroughparentalincarceration/"
+    },
+    "FamilyWarmthGenderInequalityCoexistence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgO1V6JM4rQP7q-BVyZzT7V_IA573 [wKgO1V6JM4rQP7q-BVyZzT7V_IA573].md",
+          "key": "ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573",
+          "show": "无时差研究所",
+          "title": "EP114-每个孩子的归宿，都是原生家庭",
+          "url": "/wiki/sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/familywarmthgenderinequalitycoexistence/"
     },
     "FamilyWineryLongTermStewardship": {
       "episode_count": 1,
@@ -265281,9 +265304,9 @@
       "url": "/wiki/concepts/strongtrunkweakbranchcentralization/"
     },
     "StructuralConditionsOfFemaleIndependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
@@ -265291,6 +265314,13 @@
           "show": "无时差研究所",
           "title": "EP115-一个女孩儿是如何长大的",
           "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        },
+        {
+          "episode_file": "wKgO1V6JM4rQP7q-BVyZzT7V_IA573 [wKgO1V6JM4rQP7q-BVyZzT7V_IA573].md",
+          "key": "ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573",
+          "show": "无时差研究所",
+          "title": "EP114-每个孩子的归宿，都是原生家庭",
+          "url": "/wiki/sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573/"
         }
       ],
       "updated": "2026-10-22",

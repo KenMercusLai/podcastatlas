@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP114-每个孩子的归宿，都是原生家庭](sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573.md) — 无时差研究所讨论原生家庭影响、温暖与性别不平等并存、大家庭责任转移，以及教育、信息、收入和住房如何塑造女性独立。
 - [EP115-一个女孩儿是如何长大的](sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003.md) — 无时差研究所从父母分离方式与持续责任、成年关系安全感、女性独立的结构条件及月经公共基础设施讨论家庭与性别困境。
 - [Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse](sources/88-audio-nikesharvink-88-audio-nikesharvink.md) — All-In conversation on early post-quantum migration, task-matched model economics, verified AI cyber defense, strategic stack integration, agent lock-in, and enterprise software consolidation.
 - [低价城际大巴吸引乘客，AI 短剧算力用量引发争议](sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u.md) — 声动早咖啡串联推理框架、Token 与算力口径、短剧平台、问界出海、流媒体广告、服装涨价和分散站点城际大巴。
@@ -18515,6 +18516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Family Warmth and Gender Inequality Coexistence / 家庭温暖与性别不平等并存](concepts/FamilyWarmthGenderInequalityCoexistence.md) — 区分家庭成员真实体验到的爱、归属与和睦，同教育、金钱、劳动和自由按性别不平等分配的结构判断。
 - [Parental Separation Process and Child Security / 父母分离过程与子女安全感](concepts/ParentalSeparationProcessAndChildSecurity.md) — 区分离婚身份与冲突、解释、持续照料、情感回应及社会污名共同塑造的子女安全体验。
 - [Structural Conditions of Female Independence / 女性独立的结构条件](concepts/StructuralConditionsOfFemaleIndependence.md) — 将女性独立理解为由教育、资源、社会接触、支持网络与退出能力共同支撑的现实能力。
 - [Experimentation–Production Model Split](concepts/ExperimentationProductionModelSplit.md) — Use high-capability models to prove value, then choose production models by cost, control, task fit, privacy, and failure consequence.
