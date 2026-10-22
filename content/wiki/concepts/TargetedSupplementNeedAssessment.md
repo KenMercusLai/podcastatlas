@@ -9,7 +9,8 @@ sources:
   - vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d
   - vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o
   - vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp
-last_updated: 2026-10-11
+  - essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ That makes the same product category look different across populations. Protein 
 VOL.47 adds a sufficiency-first immune-health test. A nutrient's role in immune function does not establish that a short high-dose course will prevent infection or that an expensive formulation is superior. Food variety, adequate energy and protein, and ordinary routines remain the base; testing, life stage, absorption, medication effects, and restricted intake create stronger reasons for targeted supplementation.
 
 The Huberman Lab episode adds goal, budget, and experiment design. After sleep, behavior, and nutrition are assessed, a person can define one outcome, test one ingredient at a time, begin at the lowest useful dose, and stop when benefit is absent or adverse effects appear. A broad foundational formula is presented as a possible convenience, not a universal requirement; zero supplements remains a valid result.
+
+The 2026 Essentials edit condenses that same hierarchy. It adds accessible provenance but not independent confirmation of the framework or of any named compound, dose, benefit, or risk.
 
 VOL.192 restates the decision in repair order: inspect the everyday diet before purchasing a product, then use protein powder, fish oil, algae oil, creatine, probiotics, or other supplements only for a plausible gap or goal. It also sharpens the medication and special-population boundary—pregnancy, older age, chronic disease, kidney disease, diabetes, postoperative recovery, and medication use can change both need and risk, so generic wellness advice should yield to clinical assessment.
 
@@ -51,17 +54,16 @@ VOL.149 supplies the clearest household-gift version of the framework. Regional 
 - Sufficiency and immune-marketing boundary: [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] places balanced food, adequate energy and protein, and regular routines before supplements, while distinguishing ordinary sufficiency from pregnancy, lactation, older age, poor absorption, restricted diets, disease, and medication effects.
 - Price and formulation boundary: [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] argues that OTC price, “natural” origin stories, and premium positioning do not by themselves establish superior vitamin value.
 - Goal and experiment design: [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] places behavior and nutrition before supplements, permits zero-supplement outcomes, and favors isolated minimum-effective-dose trials outside broad foundational formulas.
+- Condensed provenance: [[essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209]] restates the full episode's need, budget, single-variable, minimum-effective-dose, and stop-on-adverse-effect method without independently validating it.
 - Diet repair and special-population triage: [[vol-192-zuixin-dga-dianfu-renzhi-shipin-xitong-caishi-jiankang-yinhuan-chunjie-yinshi-bikeng-zhinan-ft-dashihua-lqqv4xnty947lc5iplu796arpi0d]] says supplements should fill a demonstrated shortfall rather than compensate for daily sweet drinks, highly refined food, or unbalanced takeout, and routes medication use, pregnancy, older age, chronic disease, kidney disease, diabetes, and postoperative needs to qualified care.
 - Default nonuse and escalation: [[vol-150-dawu-shiye-dabainiu-nmn-antang-huganpian-fumei-zhexie-baokuan-baojianpin-zhende-kaopu-ma-lhsvjvjkitjfjduycbp1mvrw4n2o|VOL.150]] says most generally healthy people need not add a supplement by default, routes discomfort toward care, and places lifestyle, necessity, regulation, safety history, and evidence before novel-product appeal.
 - Household and duration test: [[vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp|VOL.149]] ties supplement choice to long-term diet, geography, sunlight, examination, age, disease, and time horizon while rejecting ingredient count, dose escalation, and foreignness as need proxies.
 
 ## Counterevidence & Qualifications
-The sources do not provide individualized dosing algorithms, lab thresholds, or disease-specific protocols. They support a conservative triage posture: identify a plausible gap or special condition, read product identity and labels, and use qualified care for disease, pregnancy or lactation, medication interactions, kidney or liver disease, blood-pressure problems, diabetes, malabsorption, nodules or tumors, or postoperative nutrition. A blue-hat mark, domestic approval, foreign label, long sales history, high dose, long ingredient list, or apparent lack of symptoms is not a complete safety or need assessment. Named vitamins, minerals, adaptogens, probiotics, omega-3s, sleep aids, cognition products, antioxidant products, and hormone-active compounds remain source-scoped examples rather than a universal supplement list.
+The sources do not provide individualized dosing algorithms, lab thresholds, or disease-specific protocols. The full Huberman Lab episode and its Essentials edit are overlapping editorial sources rather than independent corroboration. Together, the sources support a conservative triage posture: identify a plausible gap or special condition, read product identity and labels, and use qualified care for disease, pregnancy or lactation, medication interactions, kidney or liver disease, blood-pressure problems, diabetes, malabsorption, nodules or tumors, or postoperative nutrition. A blue-hat mark, domestic approval, foreign label, long sales history, high dose, long ingredient list, or apparent lack of symptoms is not a complete safety or need assessment. Named vitamins, minerals, adaptogens, probiotics, omega-3s, sleep aids, cognition products, antioxidant products, and hormone-active compounds remain source-scoped examples rather than a universal supplement list.
 
 ## What Changed
-- Added default nonuse for generally healthy people without a defined gap and explicit escalation when symptoms are present.
-- Clarified that regulatory identity, origin, novelty, and market history inform risk review without proving need or efficacy.
-- Added the household-gift and duration test: long-term diet and body state define the gap, while dose, ingredient count, and foreignness do not.
+- No current judgment changed; the Essentials edit adds overlapping provenance for the existing need-, budget-, and experiment-design framework.
 
 ## Related Concepts
 - [[FunctionalFoodRegulatoryIdentity]] - product-category check that comes before judging need.

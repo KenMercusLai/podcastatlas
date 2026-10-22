@@ -5,7 +5,8 @@ tags: [supplements, fitness, performance, evidence, consumer-safety]
 sources:
   - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
   - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
-last_updated: 2026-09-29
+  - essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Supplements remain subordinate to causes. A compound that masks poor sleep, insu
 
 The solo supplementation episode generalizes this logic beyond sport. It adds goal and budget triage, accepts a zero-supplement protocol, and treats broad foundational formulas as the limited exception to a preference for isolated ingredients. Sleep, hormone, cognition, and nutritional products should be evaluated as separate experiments rather than bundled into a stack whose effects cannot be attributed.
 
+The Essentials edit restates that general method without adding independent evidence. Its named sleep, hormone, focus, omega-3, and protein examples remain applications of the hierarchy rather than equally supported recommendations.
+
 ## Key Claims
 - Sleep, hydration, whole-food nutrition, training, and recovery outrank supplementation, and a rational protocol can contain no supplements.
 - Performance aids should be selected for a defined role such as fuel, stimulation, fatigue buffering, or recovery support.
@@ -39,14 +42,13 @@ The solo supplementation episode generalizes this logic beyond sport. It adds go
 - Quality control - [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] emphasizes independent testing, especially where banned-substance contamination matters.
 - Cause and dependence - [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] distinguishes short-term symptom management from correcting a cause and identifies caffeine as capable of physiological dependence.
 - Generalized trial design - [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] extends the hierarchy across foundational nutrition, sleep, hormones, and focus while favoring minimum-effective-dose, one-ingredient-at-a-time trials.
+- Condensed provenance - [[essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209]] restates the same goal, budget, variable-isolation, adverse-effect, and minimum-effective-dose rules without independently validating the named products.
 
 ## Counterevidence & Qualifications
-The structured episode notes do not supply complete trials, effect sizes, product assays, contraindications, interaction data, or sport-governing rules for every named supplement. Evidence and risk differ across creatine, caffeine, beta-alanine, bicarbonate, beetroot, rhodiola, omega-3s, glutamine, tart cherry, probiotics, melatonin, nootropics, adaptogens, and hormone-active herbs; membership in one hierarchy does not imply equal efficacy. Pregnancy, adolescence, disease, medications, fertility treatment, eating disorders, injury, sleep disorders, competitive testing, and adverse symptoms require qualified guidance.
+The structured episode notes do not supply complete trials, effect sizes, product assays, contraindications, interaction data, or sport-governing rules for every named supplement. The full supplementation episode and its Essentials edit are overlapping provenance rather than independent confirmation. Evidence and risk differ across creatine, caffeine, beta-alanine, bicarbonate, beetroot, rhodiola, omega-3s, glutamine, tart cherry, probiotics, melatonin, nootropics, adaptogens, and hormone-active herbs; membership in one hierarchy does not imply equal efficacy. Pregnancy, adolescence, disease, medications, fertility treatment, eating disorders, injury, sleep disorders, competitive testing, and adverse symptoms require qualified guidance.
 
 ## What Changed
-- Extended the hierarchy from sport performance to sleep, hormone, focus, and foundational use.
-- Added explicit goal, budget, and zero-supplement outcomes.
-- Clarified that broad foundational formulas are a limited exception to isolated trials.
+- No current judgment changed; the Essentials edit adds overlapping provenance for the generalized hierarchy.
 
 ## Related Concepts
 - [[CreatineMonohydrateEvidence]] - comparatively strong example of a consistency-dependent performance supplement.

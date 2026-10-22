@@ -37519,3 +37519,11 @@ Added source `dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca1
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | Essentials: Developing a Rational Approach to Supplementation for Health & Performance
+
+Added source `essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209`; resynthesized [[TargetedSupplementNeedAssessment]], [[PerformanceSupplementHierarchy]], and [[AndrogenSupportSupplementBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: supplements remain subordinate to behavior, nutrition, a defined need, budget, and one-variable minimum-effective-dose testing; broad foundational formulas are a limited convenience, while sleep, hormone, and focus compounds require individual-response and clinical-risk boundaries. No settled contradiction was adopted. This Essentials release substantially overlaps the full 2023 episode and does not independently validate named compounds, doses, mechanisms, benefits, or toxicity claims. The automatic `wiki/overview.md` was read for context and was not manually rewritten because the condensed source changes no global judgment. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,702 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

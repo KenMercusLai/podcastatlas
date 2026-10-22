@@ -4796,6 +4796,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Vol.278 为什么银行门口会有石狮子？](sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k.md) — 商业就是这样追溯汇丰铜狮、银行建筑、传统守门兽、风水解释与石雕商业复制，说明银行门口石狮是多源混合的新创传统而非统一古制。
 
+- [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
+
 ## Entities
 - [Xiao Zhan / 肖战](entities/XiaoZhan.md) — EP113 中连接饭圈组织、商业受益、控制边界与舆论反噬的流量偶像案例。
 - [Archive of Our Own / AO3](entities/ArchiveOfOurOwn.md) — 在肖战饭圈争议中失去中国访问、使单一作品冲突扩展为社区基础设施问题的同人作品档案。

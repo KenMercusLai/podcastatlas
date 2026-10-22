@@ -16599,9 +16599,9 @@
       "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
     },
     "AndrogenSupportSupplementBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -16637,9 +16637,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/how-to-optimize-testosterone-estrogen-scim7814508461/"
+        },
+        {
+          "episode_file": "SCIM2223124209 [SCIM2223124209].md",
+          "key": "essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209",
+          "show": "Huberman Lab",
+          "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/androgensupportsupplementboundary/"
     },
     "Anduril": {
@@ -214947,9 +214954,9 @@
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
     "PerformanceSupplementHierarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1024405440 [SCIM1024405440].md",
@@ -214964,9 +214971,16 @@
           "show": "Huberman Lab",
           "title": "Developing a Rational Approach to Supplementation for Health & Performance",
           "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
+        },
+        {
+          "episode_file": "SCIM2223124209 [SCIM2223124209].md",
+          "key": "essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209",
+          "show": "Huberman Lab",
+          "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/performancesupplementhierarchy/"
     },
     "PerformativeShamelessnessCountercontrol": {
@@ -271659,9 +271673,9 @@
       "url": "/wiki/concepts/targetedmemoryreactivation/"
     },
     "TargetedSupplementNeedAssessment": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -271704,9 +271718,16 @@
           "show": "这病说来话长",
           "title": "VOL.149春节送健康？内行人聊保健品真相，别和爸妈一起“上当” feat.大食话（无广）",
           "url": "/wiki/sources/vol-149-chunjie-song-jiankang-neihangren-liao-baojianpin-zhenxiang-bie-he-bama-yiqi-shangdang-feat-dashihua-wuguang-ljwrvmx5cskqqj0dyucg-bam24mp/"
+        },
+        {
+          "episode_file": "SCIM2223124209 [SCIM2223124209].md",
+          "key": "essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209",
+          "show": "Huberman Lab",
+          "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/targetedsupplementneedassessment/"
     },
     "TariffConsumerPricePassThrough": {
