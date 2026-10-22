@@ -37511,3 +37511,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-22] ingest | Dunes and gloom: MBS's annus horribilis
+
+Added source `dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c`; created [[TransboundaryHazeGovernance]]; and resynthesized [[MohammedBinSalman]], [[SaudiArabia]], [[SaudiVision2030]], [[Houthis]], [[HouthiInfrastructureCoercion]], [[SamBankmanFried]], [[FTX]], [[EffectiveAltruism]], [[Indonesia]], [[LandscapeFirePrevention]], [[WildfireSmokeHealthBurden]], and [[ElNinoClimateRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: MBS faces reinforcing military, diversification, and U.S.-dependence setbacks without an immediate domestic succession threat; Bankman-Fried's limited rejection of ends-justify-means reasoning stops short of accepting the FTX fraud judgment; and Southeast Asian haze persists because cheap burning, combustible peat, climate drying, cross-border exposure, and weak enforcement reinforce one another. The roughly three-death and 20-death Saudi reports are preserved as different or unresolved reporting scopes, while FTX solvency and innocence claims, Saudi economic and influence figures, fire attribution, case totals, legal effectiveness, and the El Nino duration forecast remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,701 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

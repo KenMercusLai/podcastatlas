@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10729
+wiki_total_pages: 10730
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"

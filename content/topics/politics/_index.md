@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3366
+topic_total_pages: 3367
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4327,6 +4327,9 @@ topic_concepts:
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"
+  - key: "TransboundaryHazeGovernance"
+    title: "Transboundary Haze Governance"
+    url: "/wiki/concepts/transboundaryhazegovernance/"
   - key: "TranscendentExitPoliticalCamouflage"
     title: "Transcendent Exit Political Camouflage / 假托神仙式权力退场"
     url: "/wiki/concepts/transcendentexitpoliticalcamouflage/"

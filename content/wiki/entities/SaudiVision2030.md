@@ -5,7 +5,8 @@ tags: [project, saudi-arabia, economic-development, social-reform]
 sources:
   - 304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t
   - saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc
-last_updated: 2026-10-12
+  - dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ Saudi Vision 2030 is the reform program through which [[MohammedBinSalman|MBS]] 
 
 The sources record partial gains but judge the original ambition underfulfilled. Non-oil activity and women’s public participation grew, while oil-price exposure, debt, foreign-investment shortfalls, and megaproject retrenchment remained. [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] adds an external vulnerability: persistent airport and energy attacks can damage the accessibility, safety, and investor confidence on which diversification depends.
 
+[[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] moves that risk from scenario toward observed strain by reporting cancellation of the Future Investment Initiative, 2025 FDI of about $30bn against a $100bn annual target, and an IMF forecast shift from growth to contraction after a year of conflict. It also widens the dependency problem: a 2027 recovery is presented as contingent on U.S. decisions about war with Iran, which Saudi spending and relationships did not reliably control.
+
 ## Key Characteristics
 
 - Seeks to reduce dependence on the [[RentierState|oil rentier-state model]].
@@ -29,7 +32,7 @@ The sources record partial gains but judge the original ambition underfulfilled.
 - Reduces autonomous [[Wahhabism|Wahhabi control]] over public life.
 - Includes high-visibility megaprojects such as [[NEOM]].
 - Preserves centralized monarchical power rather than opening democratic competition.
-- Depends on a credible stability and international-access proposition vulnerable to [[HouthiInfrastructureCoercion]].
+- Depends on security, foreign capital, oil conditions, and U.S. regional decisions that Saudi transactional access cannot reliably control.
 
 ## Evidence
 
@@ -37,15 +40,17 @@ The sources record partial gains but judge the original ambition underfulfilled.
 - Instruments: [[304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t]] names sovereign investment, technology, tourism, logistics, entertainment, private-sector growth, and megaprojects.
 - Mixed outcome: [[304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t]] pairs women’s driving, labor participation, entertainment, and non-oil growth with continued oil exposure, debt, weak FDI, and project reductions.
 - Security exposure: [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] says airport and energy attacks threatened international events and could deter the foreign investment and travel required by the program.
+- Delivery and dependency: [[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] reports FDI below target, contraction after conflict, event cancellation, and dependence on U.S. Iran-war choices.
 
 ## Qualifications
 
-The page reflects two critical episodes and does not independently audit every official Vision 2030 target. “Failure” in the earlier source means a large gap between original ambition and observed delivery, not the absence of all reform or non-oil growth. The later source identifies security risk but does not establish that attacks will derail the program.
+The page reflects three critical episodes and does not independently audit every official Vision 2030 target. “Failure” means a large gap between original ambition and observed delivery, not the absence of all reform, social goodwill, or non-oil growth. The FDI, target, growth, contraction, and recovery figures are episode-date claims; they do not establish that attacks will permanently derail the program.
 
 ## What Changed
 
-- Added infrastructure security, aviation access, and investor confidence as conditions for delivery.
-- Connected the Yemen conflict directly to the program's international stability proposition.
+- Added observed event cancellation, FDI shortfall, and conflict-era contraction.
+- Added U.S. regional-war decisions as an external recovery dependency.
+- Preserved social reform and non-oil gains against a broader judgment of underdelivery.
 
 ## Relationships
 
@@ -56,3 +61,4 @@ The page reflects two critical episodes and does not independently audit every o
 - [[AuthoritarianModernization]] - governing model that captures reform without political opening.
 - [[DevelopmentalAuthoritarianLegitimacy]] - performance-based legitimacy exposed when targets are missed.
 - [[HouthiInfrastructureCoercion]] - external pressure mechanism targeting the program's stability assumptions.
+- [[DonaldTrump]] - U.S. decision-maker whose Iran policy constrains the program's near-term recovery setting.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10729
+wiki_total_pages: 10730
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "TransatlanticMigrantPassage"
     title: "Transatlantic Migrant Passage"
     url: "/wiki/concepts/transatlanticmigrantpassage/"
+  - key: "TransboundaryHazeGovernance"
+    title: "Transboundary Haze Governance"
+    url: "/wiki/concepts/transboundaryhazegovernance/"
   - key: "TranscendenceAgainstHumanFeeling"
     title: "Transcendence Against Human Feeling"
     url: "/wiki/concepts/transcendenceagainsthumanfeeling/"

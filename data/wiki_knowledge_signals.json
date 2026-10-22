@@ -80393,9 +80393,9 @@
       "url": "/wiki/concepts/effectmeasuredpersonnelselection/"
     },
     "EffectiveAltruism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -80417,9 +80417,16 @@
           "show": "Marketplace Tech",
           "title": "Inside the mindset of AI safety workers",
           "url": "/wiki/sources/tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/effectivealtruism/"
     },
     "EffectiveConfusionOdysseyPeriod": {
@@ -80745,9 +80752,9 @@
       "url": "/wiki/concepts/elnino/"
     },
     "ElNinoClimateRisk": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Missing peace： will Israel imperil Iran deal？ [6a3bae9fe1238e54b0e886c3].md",
@@ -80776,9 +80783,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/elninoclimaterisk/"
     },
     "ElanParadoxMachines": {
@@ -92464,6 +92478,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/finra/"
+    },
+    "FTX": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "SocialRadarsPod-BrianArmstrong-Final [SocialRadarsPod-BrianArmstrong-Final].md",
+          "key": "socialradarspod-brianarmstrong-final",
+          "show": "The Social Radars",
+          "title": "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience",
+          "url": "/wiki/sources/socialradarspod-brianarmstrong-final/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/ftx/"
     },
     "FUBU": {
       "episode_count": 1,
@@ -130627,9 +130664,9 @@
       "url": "/wiki/concepts/housingsupplyoverrentcontrol/"
     },
     "HouthiInfrastructureCoercion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "cc6579d3f0d15fe71826fc6b995c02cc [cc6579d3f0d15fe71826fc6b995c02cc.mp3？aid=6accaf58eea51f2aa376ee05&chid=d556eb54-6160-4.280].md",
@@ -130637,9 +130674,16 @@
           "show": "Economist Podcasts",
           "title": "Saudi under siege: Houthis attack airport",
           "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-22",
       "url": "/wiki/concepts/houthiinfrastructurecoercion/"
     },
     "HouthiMaritimeChokepointLeverage": {
@@ -130659,9 +130703,9 @@
       "url": "/wiki/concepts/houthimaritimechokepointleverage/"
     },
     "Houthis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Omission accomplished： why the Iran-war cycle spins on [6a6c7475aa1642a30f17f1cb].md",
@@ -130683,9 +130727,16 @@
           "show": "Economist Podcasts",
           "title": "Saudi under siege: Houthis attack airport",
           "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/houthis/"
     },
     "HowIBuiltThis": {
@@ -139095,6 +139146,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/individualizedriskresponsibility/"
+    },
+    "Indonesia": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/indonesia/"
     },
     "IndoorLightSpectrumBalance": {
       "episode_count": 1,
@@ -159024,6 +159098,29 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/concepts/landtenurecollateralcredibility/"
+    },
+    "LandscapeFirePrevention": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/landscapefireprevention/"
     },
     "LaneGreen": {
       "episode_count": 1,
@@ -193236,9 +193333,9 @@
       "url": "/wiki/entities/mohammedabdelkrim/"
     },
     "MohammedBinSalman": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lsM0NzvIe2-H_SGbmHAVG7xbv74T [lsM0NzvIe2-H_SGbmHAVG7xbv74T].md",
@@ -193246,9 +193343,16 @@
           "show": "独树不成林",
           "title": "304-沙特阿拉伯过去十年在进行一场怎样的政治改革？",
           "url": "/wiki/sources/304-shate-alabo-guoqu-shinian-zai-jinxing-yichang-zenyang-de-zhengzhi-gaige-lsm0nzvie2-h_sgbmhavg7xbv74t/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/mohammedbinsalman/"
     },
     "MohammedBinZayed": {
@@ -244860,6 +244964,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/salvadorallende/"
     },
+    "SamBankmanFried": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "SocialRadarsPod-BrianArmstrong-Final [SocialRadarsPod-BrianArmstrong-Final].md",
+          "key": "socialradarspod-brianarmstrong-final",
+          "show": "The Social Radars",
+          "title": "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience",
+          "url": "/wiki/sources/socialradarspod-brianarmstrong-final/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/entities/sambankmanfried/"
+    },
     "SamBeale": {
       "episode_count": 1,
       "show_count": 1,
@@ -246192,9 +246319,9 @@
       "url": "/wiki/entities/satyanadella/"
     },
     "SaudiArabia": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
@@ -246251,9 +246378,16 @@
           "show": "Economist Podcasts",
           "title": "Saudi under siege: Houthis attack airport",
           "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/saudiarabia/"
     },
     "SaudiPublicInvestmentFund": {
@@ -246280,9 +246414,9 @@
       "url": "/wiki/entities/saudipublicinvestmentfund/"
     },
     "SaudiVision2030": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lsM0NzvIe2-H_SGbmHAVG7xbv74T [lsM0NzvIe2-H_SGbmHAVG7xbv74T].md",
@@ -246297,9 +246431,16 @@
           "show": "Economist Podcasts",
           "title": "Saudi under siege: Houthis attack airport",
           "url": "/wiki/sources/saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-22",
       "url": "/wiki/entities/saudivision2030/"
     },
     "SavileRow": {
@@ -280712,6 +280853,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/transatlanticmigrantpassage/"
     },
+    "TransboundaryHazeGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/transboundaryhazegovernance/"
+    },
     "TranscranialMagneticStimulationForDepression": {
       "episode_count": 2,
       "show_count": 1,
@@ -296566,6 +296723,29 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/wildernessmysterylonging/"
+    },
+    "WildfireSmokeHealthBurden": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "0a44ecf1bba6689b3b1e02af9ca13b2c [0a44ecf1bba6689b3b1e02af9ca13b2c.mp3？aid=6ad9d01c3ad7f68551457388&chid=d556eb54-6160-4.280].md",
+          "key": "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c",
+          "show": "Economist Podcasts",
+          "title": "Dunes and gloom: MBS's annus horribilis",
+          "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        }
+      ],
+      "updated": "2026-10-22",
+      "url": "/wiki/concepts/wildfiresmokehealthburden/"
     },
     "WildlifeFeedingFeedbackLoop": {
       "episode_count": 1,

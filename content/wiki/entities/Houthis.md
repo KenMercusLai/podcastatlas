@@ -6,7 +6,8 @@ sources:
   - omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb
   - strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7
   - saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc
-last_updated: 2026-10-12
+  - dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c
+last_updated: 2026-10-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ The Houthis are represented in the wiki as a Yemen-based armed movement whose ac
 ## Current Profile
 [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] first made the Houthis a case in unresolved Middle East diplomacy: [[GregCarlstrom]] cited the [[SaudiArabia]]-Houthi file as one where broad claims of settlement left blockade, attacks, and enforcement questions open. [[strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7]] updates that profile with battlefield movement. The episode says the Houthis captured Moqa and Perim Island near Bab al-Mandab and that drones hit a major Saudi pipeline, making the group a more direct source of [[HouthiMaritimeChokepointLeverage]].
 
-The current synthesis is that Houthi leverage comes from the interaction between offensive capacity, opponent weakness, and the economic sensitivity of targets. [[AntiHouthiCoalitionFragmentation]] leaves Saudi-backed forces divided, while [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] says improved drones and ballistic missiles now enable [[HouthiInfrastructureCoercion]] against airports, aircraft, energy facilities, international events, and the stability narrative behind [[SaudiVision2030]].
+The current synthesis is that Houthi leverage comes from the interaction between offensive capacity, opponent weakness, and the economic sensitivity of targets. [[AntiHouthiCoalitionFragmentation]] leaves Saudi-backed forces divided, while [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] says improved drones and ballistic missiles now enable [[HouthiInfrastructureCoercion]] against airports, aircraft, energy facilities, international events, and the stability narrative behind [[SaudiVision2030]]. [[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] adds weeks of urban disruption, closure of Riyadh's airport, a reported wider casualty toll, and cancellation of the Future Investment Initiative, while still stopping short of treating the pressure as an existential threat to Saudi rule.
 
 ## Key Characteristics
 - Yemen-based armed movement able to affect regional diplomacy beyond the immediate battlefield.
@@ -27,6 +28,7 @@ The current synthesis is that Houthi leverage comes from the interaction between
 - Infrastructure coercer able to turn aviation disruption and investor uncertainty into strategic pressure.
 - Beneficiary of anti-Houthi coalition disunity as well as Iranian support and local military capacity.
 - Spoiler risk for thin diplomatic frameworks that promise settlement without enforcing local conflict terms.
+- Coercive actor whose direct attacks can rally Saudi opinion even as they expose military and economic weakness.
 
 ## Evidence
 - Diplomatic spoiler role: [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] uses the Houthi-Saudi file as an example of broad agreement language failing to settle blockade and infrastructure-attack questions.
@@ -35,13 +37,15 @@ The current synthesis is that Houthi leverage comes from the interaction between
 - Strategic caution: [[strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7]] notes that previous Houthi advances have sometimes been reversed after overextension.
 - Aviation and investment pressure: [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] reports repeated airport attacks, airline cancellations, casualties, aircraft destruction, and disruption around major international events.
 - Improved strike capacity: [[saudi-under-siege-houthis-attack-airport-cc6579d3f0d15fe71826fc6b995c02cc]] attributes a larger drone arsenal and more accurate ballistic missiles partly to Iranian support.
+- Extended disruption: [[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] reports airport closure, weeks of attacks, roughly 20 deaths in Riyadh, and cancellation of the Future Investment Initiative.
 
 ## Qualifications
-The sources do not provide a complete Houthi organizational history or independent military-order-of-battle assessment. Infrastructure attacks can impose large costs without proving that the Houthis can win territorially or compel a Saudi settlement, and weapon, casualty, and assistance details remain episode-reported.
+The sources do not provide a complete Houthi organizational history or independent military-order-of-battle assessment. Infrastructure attacks can impose large costs without proving that the Houthis can win territorially, compel a Saudi settlement, or threaten the monarchy's survival. The earlier episode reports three deaths in a specific airport attack, while the later one reports roughly 20 deaths in Riyadh across a broader period; weapon, casualty, and assistance details remain episode-reported.
 
 ## What Changed
-- Added airport, aviation, investor-confidence, and Vision 2030 pressure to the existing maritime and pipeline leverage profile.
-- Distinguished coercive economic effect from decisive territorial victory.
+- Added weeks-long urban disruption, airport closure, event cancellation, and a broader reported casualty scope.
+- Distinguished pressure on policy and investment from an immediate threat to Saudi regime survival.
+- Added the possibility that direct attacks rally some prior critics around national defense.
 
 ## Relationships
 - [[Yemen]] - conflict setting and civil-war theater.

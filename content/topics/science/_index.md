@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1597
+topic_total_pages: 1599
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2455,6 +2455,9 @@ topic_concepts:
   - key: "TrainedIntuition"
     title: "Trained Intuition"
     url: "/wiki/concepts/trainedintuition/"
+  - key: "TransboundaryHazeGovernance"
+    title: "Transboundary Haze Governance"
+    url: "/wiki/concepts/transboundaryhazegovernance/"
   - key: "TranscranialMagneticStimulationForDepression"
     title: "Transcranial Magnetic Stimulation for Depression"
     url: "/wiki/concepts/transcranialmagneticstimulationfordepression/"
@@ -4017,6 +4020,9 @@ topic_sources:
   - key: "diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478"
     title: "Diet & Nutrition for Mental Health | Dr. Chris Palmer"
     url: "/wiki/sources/diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478/"
+  - key: "dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c"
+    title: "Dunes and gloom: MBS's annus horribilis"
+    url: "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
   - key: "e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e"
     title: "E145.上钟了！4000点之上的心理按摩"
     url: "/wiki/sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e/"

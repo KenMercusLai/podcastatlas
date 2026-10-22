@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dunes and gloom: MBS's annus horribilis](sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c.md) — Economist Podcasts on MBS's overlapping military, economic, and U.S.-influence setbacks, Bankman-Fried's prison defense, and Southeast Asia's peat-fire haze crisis.
 - [EP109-两周年特别节目：一场同父母辈的深度对谈，那些你不敢问的我们都替你问了](sources/ep109-liangzhounian-tebie-jiemu-yichang-tong-fumubei-de-shendu-duitan-naxie-ni-bugan-wen-de-women-dou-ti-ni-wen-le-wkgo3l5akqgqmnshcrzgwt20nfw224.md) — 无时差研究所通过六位60后、70后父母讨论代际对话、婚姻时间线、信息核查、数字适应、消费排序与同性关系态度。
 - [EP113-充满偏见的互联网时代，我们更接近真相了嘛？](sources/ep113-chongman-pianjian-de-hulianwang-shidai-women-geng-jiejin-zhenxiang-le-ma-wkgo0l6ahoej4bvcbrfr-nwrggi242.md) — 无时差研究所从肖战与 AO3 风波讨论饭圈集体行动、举报武器化、信息茧房、标签化及谣言核查成本。
 - [EP114-每个孩子的归宿，都是原生家庭](sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573.md) — 无时差研究所讨论原生家庭影响、温暖与性别不平等并存、大家庭责任转移，以及教育、信息、收入和住房如何塑造女性独立。
@@ -18520,6 +18521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Transboundary Haze Governance](concepts/TransboundaryHazeGovernance.md) — Prevention, peat restoration, exposure protection, corporate liability, and sovereignty constraints when fire smoke crosses borders.
 - [Intergenerational Dialogue Repair / 代际对话与关系修复](concepts/IntergenerationalDialogueRepair.md) — 以冲突后的倾听、解释、自省、承认责任与持续调整缩小亲子代际隔阂，同时保留成年选择与权力边界。
 - [Marriage Timeline Autonomy / 婚姻时间线自主](concepts/MarriageTimelineAutonomy.md) — 区分长期陪伴建议与由年龄、亲友评价或家庭颜面施加的结婚期限。
 - [Older-Adult Digital Adaptation / 中老年数字适应](concepts/OlderAdultDigitalAdaptation.md) — 以实际需要、可恢复试错、耐心指导、同伴学习与可及形式解释中老年人的选择性技术学习。
