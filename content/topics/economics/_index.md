@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2302
+topic_total_pages: 2305
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -202,6 +202,9 @@ topic_concepts:
   - key: "AIProductivityMarginExpansion"
     title: "AI Productivity Margin Expansion"
     url: "/wiki/concepts/aiproductivitymarginexpansion/"
+  - key: "AIProductivityReinvestment"
+    title: "AI Productivity Reinvestment"
+    url: "/wiki/concepts/aiproductivityreinvestment/"
   - key: "AIRecruitingSourcing"
     title: "AI Recruiting Sourcing"
     url: "/wiki/concepts/airecruitingsourcing/"
@@ -4034,6 +4037,9 @@ topic_entities:
   - key: "DonaldTrumpJr"
     title: "Donald Trump Jr."
     url: "/wiki/entities/donaldtrumpjr/"
+  - key: "ZahraDataScienceWithSam"
+    title: "Dr. Zahra (Data Science With Sam)"
+    url: "/wiki/entities/zahradatasciencewithsam/"
   - key: "DrewHouston"
     title: "Drew Houston"
     url: "/wiki/entities/drewhouston/"
@@ -6303,6 +6309,9 @@ topic_sources:
   - key: "socialradarspod-emmettshear-v2"
     title: "Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience"
     url: "/wiki/sources/socialradarspod-emmettshear-v2/"
+  - key: "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush"
+    title: "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush"
+    url: "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
   - key: "8228694742-944685"
     title: "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命"
     url: "/wiki/sources/8228694742-944685/"

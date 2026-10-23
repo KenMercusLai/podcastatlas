@@ -11253,6 +11253,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIProductivityReinvestment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIProfessionalDataSecurity": [
     {
       "key": "technology",
@@ -40313,6 +40325,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FutureProofer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "FutureResidentHousingVoice": [
     {
       "key": "economics",
@@ -41786,6 +41805,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "GiniIGenticAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GinnySpicer": [
@@ -47807,6 +47838,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "IGenticAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     },
     {
       "key": "politics",
@@ -88486,6 +88529,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheAICEOBook": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheAITurningPoint": [
     {
       "key": "technology",
@@ -99461,6 +99521,23 @@
       "url": "/topics/politics/"
     }
   ],
+  "ZahraDataScienceWithSam": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ZangTu": [
     {
       "key": "history",
@@ -104065,6 +104142,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ep-6-data-science-ai-talk": [

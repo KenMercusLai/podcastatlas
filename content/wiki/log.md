@@ -37591,3 +37591,11 @@ Added source `vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rg
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush
+
+Added source `ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush`; created [[ZahraDataScienceWithSam|Dr. Zahra]], [[IGenticAI|iGentic AI]], [[GiniIGenticAI|Gini]], [[TheAICEOBook|The AI CEO]], [[FutureProofer]], and [[AIProductivityReinvestment]]; and resynthesized [[DataScienceWithSam]], [[SamDataScienceWithSam]], [[AIProblemDefinitionResponsibility]], and [[AdoptionCenteredAITransformation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: AI-enabled leaders can use models to research, prepare, communicate, and generate options, but remain responsible for problem choice, output challenge, risk, and final decisions; productivity becomes strategic leverage only when recovered capacity is deliberately directed toward intellectual property, market access, ownership, revenue, visibility, negotiating power, or influence. No settled contradiction was adopted. Claims about compressed work time, smaller-team company building, iGentic AI's growth, Gini's value, and improved access or ownership remain source-scoped, while the episode names governance requirements for agentic AI without supplying a control architecture or evaluation evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,711 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

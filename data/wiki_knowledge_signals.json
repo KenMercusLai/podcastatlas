@@ -4777,9 +4777,9 @@
       "url": "/wiki/concepts/aiprivatemarketconcentration/"
     },
     "AIProblemDefinitionResponsibility": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
@@ -4787,9 +4787,16 @@
           "show": "乱翻书",
           "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
           "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+        },
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/aiproblemdefinitionresponsibility/"
     },
     "AIProductivityMarginExpansion": {
@@ -4830,6 +4837,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/aiproductivityratchet/"
+    },
+    "AIProductivityReinvestment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/aiproductivityreinvestment/"
     },
     "AIProfessionalDataSecurity": {
       "episode_count": 3,
@@ -8792,9 +8815,9 @@
       "url": "/wiki/concepts/adoptedlondonidentity/"
     },
     "AdoptionCenteredAITransformation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128 [D907D02ECF30B5289D9591A78D8015~8584424_2026-08-10-215324-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a838d17].md",
@@ -8802,9 +8825,16 @@
           "show": "Data Science With Sam",
           "title": "EP 21: AI Transformation: Beyond the Hype",
           "url": "/wiki/sources/ep-21-ai-transformation-beyond-the-hype/"
+        },
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/adoptioncenteredaitransformation/"
     },
     "AdoptiveLineageRitualPolitics": {
@@ -66188,9 +66218,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -66373,9 +66403,16 @@
           "show": "Data Science With Sam",
           "title": "EP 24: Redefining Data Science in the Generative AI Era",
           "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/datasciencewithsam/"
     },
     "DataScientistGenerativeAIFluency": {
@@ -106029,6 +106066,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/futurecola/"
     },
+    "FutureProofer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/futureproofer/"
+    },
     "FutureRegretFinancialPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -111772,6 +111825,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/ginapoe/"
+    },
+    "GiniIGenticAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/giniigenticai/"
     },
     "GiorgioMoroder": {
       "episode_count": 1,
@@ -135806,6 +135875,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/ifsselfleadership/"
+    },
+    "IGenticAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/igenticai/"
     },
     "IHaveADreamSpeech": {
       "episode_count": 1,
@@ -245700,9 +245785,9 @@
       "url": "/wiki/entities/sambeale/"
     },
     "SamDataScienceWithSam": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -245878,9 +245963,16 @@
           "show": "Data Science With Sam",
           "title": "EP 24: Redefining Data Science in the Generative AI Era",
           "url": "/wiki/sources/ep-24-redefining-data-science-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/samdatasciencewithsam/"
     },
     "SamHarris": {
@@ -274670,6 +274762,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/the2iscoffeebar/"
+    },
+    "TheAICEOBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/theaiceobook/"
     },
     "TheAnxiousGeneration": {
       "episode_count": 3,
@@ -311984,6 +312092,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/zadiesmith/"
+    },
+    "ZahraDataScienceWithSam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f [2026_10_21_22_02_19_607b595f-81fa-445a-b757-1d66d8c6784f].md",
+          "key": "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush",
+          "show": "Data Science With Sam",
+          "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+          "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/zahradatasciencewithsam/"
     },
     "Zaifeng": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10743
+wiki_total_pages: 10744
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "AIProductivityRatchet"
     title: "AI Productivity Ratchet / AI 生产率棘轮"
     url: "/wiki/concepts/aiproductivityratchet/"
+  - key: "AIProductivityReinvestment"
+    title: "AI Productivity Reinvestment"
+    url: "/wiki/concepts/aiproductivityreinvestment/"
   - key: "AIProfessionalDataSecurity"
     title: "AI Professional Data Security"
     url: "/wiki/concepts/aiprofessionaldatasecurity/"

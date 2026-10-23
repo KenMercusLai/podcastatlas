@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13668
+wiki_total_pages: 13673
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "The2isCoffeeBar"
     title: "The 2i's Coffee Bar"
     url: "/wiki/entities/the2iscoffeebar/"
+  - key: "TheAICEOBook"
+    title: "The AI CEO"
+    url: "/wiki/entities/theaiceobook/"
   - key: "TheAITurningPoint"
     title: "The AI Turning Point"
     url: "/wiki/entities/theaiturningpoint/"

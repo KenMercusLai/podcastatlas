@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3372
+topic_total_pages: 3376
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6041,6 +6041,9 @@ topic_entities:
   - key: "DongXian"
     title: "Dong Xian / 董贤"
     url: "/wiki/entities/dongxian/"
+  - key: "ZahraDataScienceWithSam"
+    title: "Dr. Zahra (Data Science With Sam)"
+    url: "/wiki/entities/zahradatasciencewithsam/"
   - key: "DredScott"
     title: "Dred Scott"
     url: "/wiki/entities/dredscott/"
@@ -6332,6 +6335,9 @@ topic_entities:
   - key: "GianniInfantino"
     title: "Gianni Infantino"
     url: "/wiki/entities/gianniinfantino/"
+  - key: "GiniIGenticAI"
+    title: "Gini (iGentic AI)"
+    url: "/wiki/entities/giniigenticai/"
   - key: "GiorgiaMeloni"
     title: "Giorgia Meloni"
     url: "/wiki/entities/giorgiameloni/"
@@ -6527,6 +6533,9 @@ topic_entities:
   - key: "IfYouCanKeepIt"
     title: "If You Can Keep It"
     url: "/wiki/entities/ifyoucankeepit/"
+  - key: "IGenticAI"
+    title: "iGentic AI"
+    url: "/wiki/entities/igenticai/"
   - key: "IgnatiusDonnelly"
     title: "Ignatius Donnelly"
     url: "/wiki/entities/ignatiusdonnelly/"
@@ -7862,6 +7871,9 @@ topic_entities:
   - key: "Thailand"
     title: "Thailand"
     url: "/wiki/entities/thailand/"
+  - key: "TheAICEOBook"
+    title: "The AI CEO"
+    url: "/wiki/entities/theaiceobook/"
   - key: "TheAtlantic"
     title: "The Atlantic"
     url: "/wiki/entities/theatlantic/"

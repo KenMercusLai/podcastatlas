@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13668
+wiki_total_pages: 13673
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "FutureOfLifeInstitute"
     title: "Future of Life Institute"
     url: "/wiki/entities/futureoflifeinstitute/"
+  - key: "FutureProofer"
+    title: "Future Proofer"
+    url: "/wiki/entities/futureproofer/"
   - key: "Fuxinghao"
     title: "Fuxinghao / 复兴号"
     url: "/wiki/entities/fuxinghao/"

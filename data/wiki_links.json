@@ -6187,6 +6187,10 @@
     "title": "AI Productivity Ratchet / AI 生产率棘轮",
     "url": "/wiki/concepts/aiproductivityratchet/"
   },
+  "AIProductivityReinvestment": {
+    "title": "AI Productivity Reinvestment",
+    "url": "/wiki/concepts/aiproductivityreinvestment/"
+  },
   "AIProfessionalDataSecurity": {
     "title": "AI Professional Data Security",
     "url": "/wiki/concepts/aiprofessionaldatasecurity/"
@@ -36539,6 +36543,10 @@
     "title": "Future-Oriented Fundraising Pitch",
     "url": "/wiki/concepts/futureorientedfundraisingpitch/"
   },
+  "FutureProofer": {
+    "title": "Future Proofer",
+    "url": "/wiki/entities/futureproofer/"
+  },
   "FutureRegretFinancialPlanning": {
     "title": "Future-Regret Financial Planning",
     "url": "/wiki/concepts/futureregretfinancialplanning/"
@@ -38138,6 +38146,10 @@
   "GinaPoe": {
     "title": "Gina Poe",
     "url": "/wiki/entities/ginapoe/"
+  },
+  "GiniIGenticAI": {
+    "title": "Gini (iGentic AI)",
+    "url": "/wiki/entities/giniigenticai/"
   },
   "GinnySpicer": {
     "title": "Ginny Spicer",
@@ -44674,6 +44686,10 @@
   "IFSSelfLeadership": {
     "title": "IFS Self-Leadership",
     "url": "/wiki/concepts/ifsselfleadership/"
+  },
+  "IGenticAI": {
+    "title": "iGentic AI",
+    "url": "/wiki/entities/igenticai/"
   },
   "IHaveADreamSpeech": {
     "title": "I Have a Dream Speech",
@@ -87763,6 +87779,10 @@
     "title": "The 2i's Coffee Bar",
     "url": "/wiki/entities/the2iscoffeebar/"
   },
+  "TheAICEOBook": {
+    "title": "The AI CEO",
+    "url": "/wiki/entities/theaiceobook/"
+  },
   "TheAITurningPoint": {
     "title": "The AI Turning Point",
     "url": "/wiki/entities/theaiturningpoint/"
@@ -99767,6 +99787,10 @@
     "title": "Zadie Smith",
     "url": "/wiki/entities/zadiesmith/"
   },
+  "ZahraDataScienceWithSam": {
+    "title": "Dr. Zahra (Data Science With Sam)",
+    "url": "/wiki/entities/zahradatasciencewithsam/"
+  },
   "Zaifeng": {
     "title": "Zaifeng / 载沣",
     "url": "/wiki/entities/zaifeng/"
@@ -104238,6 +104262,10 @@
   "ep-51-building-ai-agents-that-actually-work-in-production": {
     "title": "EP 51: Building AI Agents That Actually Work in Production | Shawn Kercher, CEO @HummingAgent.ai",
     "url": "/wiki/sources/ep-51-building-ai-agents-that-actually-work-in-production/"
+  },
+  "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush": {
+    "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
+    "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
   },
   "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252": {
     "title": "Ep 59. 2026 Agent 编程新趋势",

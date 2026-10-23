@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13668
+wiki_total_pages: 13673
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "IfYouCanKeepIt"
     title: "If You Can Keep It"
     url: "/wiki/entities/ifyoucankeepit/"
+  - key: "IGenticAI"
+    title: "iGentic AI"
+    url: "/wiki/entities/igenticai/"
   - key: "IgnacioPalacioHuerta"
     title: "Ignacio Palacio Huerta"
     url: "/wiki/entities/ignaciopalaciohuerta/"
