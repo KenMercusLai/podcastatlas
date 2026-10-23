@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10746
+wiki_total_pages: 10750
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1454,6 +1454,9 @@ wiki_pages:
   - key: "PositionSizing"
     title: "Position Sizing"
     url: "/wiki/concepts/positionsizing/"
+  - key: "PositionalImaginationBoundary"
+    title: "Positional Imagination Boundary / 位置塑造的想象边界"
+    url: "/wiki/concepts/positionalimaginationboundary/"
   - key: "PositiveAirwayPressureTherapy"
     title: "Positive Airway Pressure Therapy"
     url: "/wiki/concepts/positiveairwaypressuretherapy/"

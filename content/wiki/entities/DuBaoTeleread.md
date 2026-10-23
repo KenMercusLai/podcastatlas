@@ -8,14 +8,15 @@ sources:
   - mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4
   - zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211
   - zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw
-last_updated: 2026-10-11
+  - zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42
+last_updated: 2026-10-23
 knowledge_schema: synthesis-v1
 ---
 
 # 读报teleread / 独报
 
 ## Overview
-读报teleread / 独报 is a Chinese podcast show represented in the wiki by fifth-anniversary specials on creator workflow, writing, podcast form, AI use, and long-term independent podcast sustainability, plus regular reading episodes that connect magazine and academic materials to broader questions about judgment, trust, desire, consumption, and identity.
+读报teleread / 独报 is a Chinese podcast show represented in the wiki by fifth-anniversary specials on creator workflow, writing, podcast form, AI use, and long-term independent podcast sustainability, plus regular reading episodes that connect magazine, academic, and cultural materials to broader questions about judgment, trust, desire, consumption, risk, technology, capital, and power.
 
 ## Current Profile
 The current sources present the show as a high-information, voice-centered podcast whose creator treats article selection, writing, sound design, scripting, comments, and show notes as distinct production layers. The upper-half anniversary episode emphasizes the show's five-year history: early exploration of single-host podcasting, a period of audio-drama-inspired sound-production experiments, and a more recent return to regular episodes, planned specials, and interviews.
@@ -23,6 +24,8 @@ The current sources present the show as a high-information, voice-centered podca
 The lower-half anniversary episode adds the AI boundary. AI is welcomed as an assistant for recommendations, search, organization, and operational details, but the show resists handing over script voice, argument progression, and speaker reaction to AI because those choices define the program's identity. Together, the sources frame the show as a small, long-running creator project balancing writing ideals, listener trust, platform feedback, tipping, release rhythm, and the exhaustion created by repeated principled choices.
 
 The regular reading episodes show the show's ordinary synthesis mode. One moves across romance, cinema, and epistemology by turning separate articles into a shared question about how individuals now bear more choice, interpretation, and trust-allocation work. The consumption episode connects self-storage, online shopping, sophistication, and advertising through the way goods and styles carry imagined future selves. The latest source moves from aviation security and pilot disclosure to weekends, housework, employment gaps, and personality through coupled benefit and cost. Together they show the host's preference for qualified distinctions over moral binaries: influenced desire can remain real, imitation can become learning, pleasure need not claim to be happiness, and protection or freedom can create new vulnerabilities without becoming worthless.
+
+The newest episode extends that synthesis practice into technology culture and concentrated power. It connects selective readings of science fiction with Larry Ellison's island and commercial network through a common question: how imagination becomes materially consequential once capital and institutional position can turn it into products, infrastructure, and governance. The episode again preserves tension rather than assigning a simple villain: “错意” need not be malicious, technological ambition can create real capacity, and large-scale success can still become a fragile relationship that must be continually maintained.
 
 ## Key Characteristics
 - It is a Chinese podcast centered on reading, interpreting, and discussing articles through a recognizable host voice.
@@ -45,15 +48,17 @@ The regular reading episodes show the show's ordinary synthesis mode. One moves 
 - Regular synthesis practice: [[mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4]] connects romance slump, premium cinema formats, and epistemic authority through the common burden of individual judgment.
 - Desire and consumption synthesis: [[zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211]] connects storage, shopping indecision, sophistication, and advertising through future-self projection, imitation, marketing mechanism, and the moralization of pleasure.
 - Risk and ambivalence synthesis: [[zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw]] connects aviation safety, pilot disclosure, finite leave, employment gaps, and personality through risk substitution and same-cause attraction and aversion.
+- Imagination, capital, and power synthesis: [[zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42]] connects science-fiction appropriation, AI-product imagination, Ellison's island, Oracle's infrastructure expansion, and stakeholder dependence through context stripping and an imagination–capital flywheel.
 
 ## Qualifications
-This page is source-limited to two fifth-anniversary episodes and three regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, and historical claims in the latest regular episode remain source-attributed rather than independently verified.
+This page is source-limited to two fifth-anniversary episodes and four regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, corporate relationships, debt claims, product motives, and historical claims in the regular episodes remain source-attributed rather than independently verified.
 
 ## What Changed
 - Added the upper-half anniversary source, shifting the profile from only AI workflow toward the show's five-year creative history, writing identity, and independent-podcast sustainability.
 - Added a regular reading episode showing how the show synthesizes multiple articles into a shared judgment problem.
 - Added the consumption episode, extending that synthesis profile to desire, identity, advertising, and qualified moral judgment.
 - Added the risk-and-rest episode, extending the profile to institutional trade-offs, time control, and causally coupled ambivalence.
+- Added the science-fiction and Ellison episode, extending the profile to cultural appropriation, future imagination, capital, power, and maintained success.
 
 ## Relationships
 - [[PodcastProductionWorkflow]] - the source's detailed script, recommendation, and show-notes workflow grounds the show's production profile.
@@ -68,3 +73,7 @@ This page is source-limited to two fifth-anniversary episodes and three regular 
 - [[ImitativeSelfFormation]] - its sophistication discussion treats cultural imitation as a possible route to learning and self-formation.
 - [[RiskRiskTradeoff]] - the latest regular episode uses aviation design and disclosure incentives to examine risk substitution.
 - [[SameCauseAttractionAversion]] - names the show's synthesis of benefits and costs produced by the same feature or boundary.
+- [[ScienceFictionContextStripping]] - names the newest episode's account of warnings and subjectivity lost when fiction becomes a product blueprint.
+- [[ImaginationCapitalFlywheel]] - connects future narratives to capital accumulation and expanded implementation power.
+- [[SuccessAsMaintainedCoordination]] - captures the episode's view of large-scale success as a continuously reproduced relationship.
+- [[PositionalImaginationBoundary]] - distinguishes the power to shape the future from authority to know or decide it.

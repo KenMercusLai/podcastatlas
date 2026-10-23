@@ -76659,9 +76659,9 @@
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
@@ -76697,9 +76697,16 @@
           "show": "读报teleread",
           "title": "总第073期：正是那令我安心的，让我感到不安",
           "url": "/wiki/sources/zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw/"
+        },
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
@@ -125649,9 +125656,9 @@
       "url": "/wiki/concepts/heqinprincesssuccessionentrapment/"
     },
     "HerFilm": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
@@ -125659,9 +125666,16 @@
           "show": "电影巨辩",
           "title": "电影里的AI：情人、巨婴和独裁者",
           "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        },
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/herfilm/"
     },
     "Heraclius": {
@@ -136844,6 +136858,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/imagenet/"
+    },
+    "ImaginationCapitalFlywheel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/imaginationcapitalflywheel/"
     },
     "ImagingRadiationRiskBenefit": {
       "episode_count": 1,
@@ -160120,6 +160150,29 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/entities/larrydavid/"
+    },
+    "LarryEllison": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/larryellison/"
     },
     "LastMileCourierCompensation": {
       "episode_count": 1,
@@ -222525,6 +222578,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/positionsizing/"
     },
+    "PositionalImaginationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/positionalimaginationboundary/"
+    },
     "PositiveAirwayPressureTherapy": {
       "episode_count": 1,
       "show_count": 1,
@@ -247996,6 +248065,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sciencecommunicationtrustrepair/"
     },
+    "ScienceFictionContextStripping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/sciencefictioncontextstripping/"
+    },
     "ScienceFundingPortfolioLogic": {
       "episode_count": 3,
       "show_count": 2,
@@ -267425,6 +267510,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/subutai/"
+    },
+    "SuccessAsMaintainedCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmvkvb75u00q001xaevgt4t42 [cmvkvb75u00q001xaevgt4t42].md",
+          "key": "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42",
+          "show": "读报teleread",
+          "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+          "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/successasmaintainedcoordination/"
     },
     "SuccessMythIdentityLockIn": {
       "episode_count": 1,

@@ -37607,3 +37607,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | 总第074期：他们曾「见过」未来，于是创造了「现在」
+
+Added source `zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42`; created [[ScienceFictionContextStripping|科幻语境剥离]], [[ImaginationCapitalFlywheel|想象—资本飞轮]], [[SuccessAsMaintainedCoordination|成功的关系性维持]], and [[PositionalImaginationBoundary|位置塑造的想象边界]]; and resynthesized [[DuBaoTeleread|读报teleread / 独报]], [[HerFilm|《她》]], and [[LarryEllison|Larry Ellison]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: product culture can detach attractive technologies from science fiction's warnings and autonomous subjects; future narratives can attract capital that expands implementation capacity; and realized empires become stakeholder relationships whose maintenance and fragility constrain their creators. No settled contradiction was adopted. Grok's literary etymology, the Sky-voice dispute, island control, corporate relationships, debt exposure, political ties, product motives, and profitability outlook remain source-scoped. Broad technology-leader and company pages were kept closed because the focused source, film, person, show, and concept pages capture the durable addition without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,713 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

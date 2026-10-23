@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10746
+wiki_total_pages: 10750
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "ScienceBasedToolTaxonomy"
     title: "Science-Based Tool Taxonomy"
     url: "/wiki/concepts/sciencebasedtooltaxonomy/"
+  - key: "ScienceFictionContextStripping"
+    title: "Science-Fiction Context Stripping / 科幻语境剥离"
+    url: "/wiki/concepts/sciencefictioncontextstripping/"
   - key: "ScienceReligionCivilizationTension"
     title: "Science-Religion Civilization Tension"
     url: "/wiki/concepts/sciencereligioncivilizationtension/"
@@ -2447,6 +2450,9 @@ wiki_pages:
   - key: "SuburbanDeliveryStrategy"
     title: "Suburban Delivery Strategy"
     url: "/wiki/concepts/suburbandeliverystrategy/"
+  - key: "SuccessAsMaintainedCoordination"
+    title: "Success As Maintained Coordination / 成功的关系性维持"
+    url: "/wiki/concepts/successasmaintainedcoordination/"
   - key: "SuccessMythIdentityLockIn"
     title: "Success Myth Identity Lock-In / 成功神话身份锁定"
     url: "/wiki/concepts/successmythidentitylockin/"

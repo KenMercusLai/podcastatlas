@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3614
+topic_total_pages: 3617
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2788,6 +2788,9 @@ topic_concepts:
   - key: "ImageSensorAssetLightManufacturing"
     title: "Image Sensor Asset-Light Manufacturing"
     url: "/wiki/concepts/imagesensorassetlightmanufacturing/"
+  - key: "ImaginationCapitalFlywheel"
+    title: "Imagination–Capital Flywheel / 想象—资本飞轮"
+    url: "/wiki/concepts/imaginationcapitalflywheel/"
   - key: "IMAXAuthenticityAesthetic"
     title: "IMAX Authenticity Aesthetic / IMAX真实美学"
     url: "/wiki/concepts/imaxauthenticityaesthetic/"
@@ -4255,6 +4258,9 @@ topic_concepts:
   - key: "ScienceEngineeringAesthetics"
     title: "Science Engineering Aesthetics / 科学工程美感"
     url: "/wiki/concepts/scienceengineeringaesthetics/"
+  - key: "ScienceFictionContextStripping"
+    title: "Science-Fiction Context Stripping / 科幻语境剥离"
+    url: "/wiki/concepts/sciencefictioncontextstripping/"
   - key: "ScientificDiscoveryAutomation"
     title: "Scientific Discovery Automation"
     url: "/wiki/concepts/scientificdiscoveryautomation/"
@@ -10725,6 +10731,9 @@ topic_sources:
   - key: "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht"
     title: "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的"
     url: "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+  - key: "zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42"
+    title: "总第074期：他们曾「见过」未来，于是创造了「现在」"
+    url: "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
   - key: "women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1"
     title: "我们把 AI 塞进花店后，才知道AI落地有多脏"
     url: "/wiki/sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1/"

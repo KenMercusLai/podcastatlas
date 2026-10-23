@@ -4808,6 +4808,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
+- [总第074期：他们曾「见过」未来，于是创造了「现在」](sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42.md) — 读报teleread episode connecting science-fiction context stripping, AI subjectivity, Larry Ellison's island and business network, the imagination–capital flywheel, and success as maintained coordination.
+
 ## Entities
 - [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.
 - [Borno State](entities/BornoState.md) — Nigerian region where insecurity compounds weak services, hunger, aid withdrawal, and low turnout.
@@ -29403,5 +29405,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI–Human Hybrid Matchmaking](concepts/AIHumanHybridMatchmaking.md) — Proposed combination of platform data, algorithmic filtering, and human judgment for selective or premium matching.
 
 - [Bank Animal Symbolism / 银行动物象征](concepts/BankAnimalSymbolism.md) — Multi-origin use of lions, bixie, and other animals to express bank authority, stability, cultural identity, and auspicious meaning.
+
+- [Science-Fiction Context Stripping / 科幻语境剥离](concepts/ScienceFictionContextStripping.md) — Translation error where an appealing speculative technology becomes a product goal after its warning, subjectivity, and institutional context are removed.
+- [Imagination–Capital Flywheel / 想象—资本飞轮](concepts/ImaginationCapitalFlywheel.md) — Cycle where future narratives attract resources, resources expand implementation capacity, and realized institutions reshape both vision and creator.
+- [Success As Maintained Coordination / 成功的关系性维持](concepts/SuccessAsMaintainedCoordination.md) — View of large-scale success as a continuing stakeholder equilibrium rather than a permanent personal possession.
+- [Positional Imagination Boundary / 位置塑造的想象边界](concepts/PositionalImaginationBoundary.md) — Distinction between a powerful position's ability to shape the future and any claim to superior knowledge or authority over it.
 
 ## Syntheses
