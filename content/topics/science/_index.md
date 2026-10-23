@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1606
+topic_total_pages: 1609
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -811,6 +811,9 @@ topic_concepts:
   - key: "EugenicGovernance"
     title: "Eugenic Governance / 优生学治理"
     url: "/wiki/concepts/eugenicgovernance/"
+  - key: "EuropeanSpaceCapabilityDependence"
+    title: "European Space Capability Dependence"
+    url: "/wiki/concepts/europeanspacecapabilitydependence/"
   - key: "EverydayBehavioralEconomics"
     title: "Everyday Behavioral Economics / 日常行为经济学"
     url: "/wiki/concepts/everydaybehavioraleconomics/"
@@ -2714,6 +2717,9 @@ topic_entities:
   - key: "ArgoFloats"
     title: "Argo floats"
     url: "/wiki/entities/argofloats/"
+  - key: "Ariane"
+    title: "Ariane"
+    url: "/wiki/entities/ariane/"
   - key: "Artemis2"
     title: "Artemis 2"
     url: "/wiki/entities/artemis2/"
@@ -4566,6 +4572,9 @@ topic_sources:
   - key: "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836"
     title: "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing"
     url: "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+  - key: "songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d"
+    title: "Songs of disenchantment: the sorrow of Nigeria"
+    url: "/wiki/sources/songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d/"
   - key: "sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074"
     title: "sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想"
     url: "/wiki/sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10744
+wiki_total_pages: 10746
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "EuropeanSecurityInterestSplit"
     title: "European Security Interest Split"
     url: "/wiki/concepts/europeansecurityinterestsplit/"
+  - key: "EuropeanSpaceCapabilityDependence"
+    title: "European Space Capability Dependence"
+    url: "/wiki/concepts/europeanspacecapabilitydependence/"
   - key: "EuropeanSTISurge"
     title: "European STI Surge"
     url: "/wiki/concepts/europeanstisurge/"

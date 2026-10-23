@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13673
+wiki_total_pages: 13679
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1712,6 +1712,9 @@ wiki_pages:
   - key: "AriWallach"
     title: "Ari Wallach"
     url: "/wiki/entities/ariwallach/"
+  - key: "Ariane"
+    title: "Ariane"
+    url: "/wiki/entities/ariane/"
   - key: "ARID"
     title: "ARID"
     url: "/wiki/entities/arid/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13673
+wiki_total_pages: 13679
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "Bogside"
     title: "Bogside"
     url: "/wiki/entities/bogside/"
+  - key: "BolaTinubu"
+    title: "Bola Tinubu"
+    url: "/wiki/entities/bolatinubu/"
   - key: "BoleslausIOfBohemia"
     title: "Boleslaus I of Bohemia"
     url: "/wiki/entities/boleslausiofbohemia/"
@@ -1013,6 +1016,9 @@ wiki_pages:
   - key: "BorleyRectory"
     title: "Borley Rectory"
     url: "/wiki/entities/borleyrectory/"
+  - key: "BornoState"
+    title: "Borno State"
+    url: "/wiki/entities/bornostate/"
   - key: "Borte"
     title: "Borte"
     url: "/wiki/entities/borte/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13673
+wiki_total_pages: 13679
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "OnePlus"
     title: "OnePlus"
     url: "/wiki/entities/oneplus/"
+  - key: "OneWeb"
+    title: "OneWeb"
+    url: "/wiki/entities/oneweb/"
   - key: "OnitsukaTiger"
     title: "Onitsuka Tiger / 鬼冢虎"
     url: "/wiki/entities/onitsukatiger/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Songs of disenchantment: the sorrow of Nigeria](sources/songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d.md) — Economist Podcasts on Tinubu's electoral resilience amid Nigerian hardship, Europe's dependence on American space systems, and Jeffrey Archer's contradictory life.
 - [EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush](sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush.md) — Data Science With Sam interview with Dr. Zahra on AI-enabled leadership, human accountability, problem-first adoption, enterprise governance, and reinvesting productivity into ownership and opportunity.
 - [Vol.229 罚分之后，天津保级录 ft.申炜](sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk.md) — 不懂球与申炜复盘天津津门虎从负十分到保级，连接续约、战术务实、低成本培养、团队文化、于根伟的双重角色与托管治理。
 - [咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？](sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s.md) — 声动早咖啡以开心果限购串联美伊减产、进口依赖、果树成熟周期、迪拜巧克力爆红与食材成本传导，并更新 AI 漏洞发现和 Muse 商业化。
@@ -4808,6 +4809,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.
+- [Borno State](entities/BornoState.md) — Nigerian region where insecurity compounds weak services, hunger, aid withdrawal, and low turnout.
+- [OneWeb](entities/OneWeb.md) — Eutelsat-owned satellite constellation and incomplete European alternative to Starlink.
+- [ICEYE](entities/ICEYE.md) — Finnish radar-satellite company illustrating faster commercial surveillance procurement.
+- [Ariane](entities/Ariane.md) — European launch program constrained by fragmented work-sharing, cost, and low cadence.
+- [Jeffrey Archer](entities/JeffreyArcher.md) — bestselling novelist and Conservative politician whose career combined ambition, success, deception, and criminal conviction.
 - [Dr. Zahra (Data Science With Sam)](entities/ZahraDataScienceWithSam.md) — Source-scoped iGentic AI co-founder, CEO, and author framing AI-enabled leadership through judgment, accountability, value, and ownership.
 - [iGentic AI](entities/IGenticAI.md) — Enterprise AI company presented around governance, compliance, problem-first development, and measurable value.
 - [Gini (iGentic AI)](entities/GiniIGenticAI.md) — Enterprise governance platform intended to make compliance an enabler of AI adoption.
@@ -18561,6 +18568,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Low-Turnout Incumbency Advantage](concepts/LowTurnoutIncumbencyAdvantage.md) — mechanism by which danger and disengagement amplify an incumbent's organized loyalists.
+- [European Space Capability Dependence](concepts/EuropeanSpaceCapabilityDependence.md) — reliance on American communications, surveillance, missile-warning, and launch systems.
 - [AI Productivity Reinvestment](concepts/AIProductivityReinvestment.md) — Deliberately directing AI-saved time into intellectual property, market access, ownership, revenue, visibility, negotiating power, or influence.
 - [Low-Budget Football Club Competitiveness / 低预算足球俱乐部竞争力](concepts/LowBudgetFootballClubCompetitiveness.md) — 以球员适配、内部培养、合同稳定、战术务实和信任文化弥补转会与薪资劣势的竞争模式。
 - [Football Club Custodial Governance / 足球俱乐部托管治理](concepts/FootballClubCustodialGovernance.md) — 在缺少单一母公司时，以多方支持、公共监督、专业管理和严格财务审查维持俱乐部运行的安排。

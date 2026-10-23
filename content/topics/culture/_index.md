@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3556
+topic_total_pages: 3557
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4307,6 +4307,9 @@ topic_entities:
   - key: "BookshopOrg"
     title: "Bookshop.org"
     url: "/wiki/entities/bookshoporg/"
+  - key: "BornoState"
+    title: "Borno State"
+    url: "/wiki/entities/bornostate/"
   - key: "Bowuzhi"
     title: "Bowuzhi / 《博物志》"
     url: "/wiki/entities/bowuzhi/"

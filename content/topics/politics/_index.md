@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3376
+topic_total_pages: 3381
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2551,6 +2551,9 @@ topic_concepts:
   - key: "LowStatusStrategicPersuasion"
     title: "Low-Status Strategic Persuasion / 低位者战略说服"
     url: "/wiki/concepts/lowstatusstrategicpersuasion/"
+  - key: "LowTurnoutIncumbencyAdvantage"
+    title: "Low-Turnout Incumbency Advantage"
+    url: "/wiki/concepts/lowturnoutincumbencyadvantage/"
   - key: "LuWineHandanWarCascade"
     title: "Lu Wine Handan War Cascade / 鲁酒薄而邯郸围"
     url: "/wiki/concepts/luwinehandanwarcascade/"
@@ -5771,6 +5774,9 @@ topic_entities:
   - key: "BobHawke"
     title: "Bob Hawke"
     url: "/wiki/entities/bobhawke/"
+  - key: "BolaTinubu"
+    title: "Bola Tinubu"
+    url: "/wiki/entities/bolatinubu/"
   - key: "BonarLaw"
     title: "Bonar Law"
     url: "/wiki/entities/bonarlaw/"
@@ -6530,6 +6536,9 @@ topic_entities:
   - key: "IbrahimAlmohanna"
     title: "Ibrahim Almohanna"
     url: "/wiki/entities/ibrahimalmohanna/"
+  - key: "ICEYE"
+    title: "ICEYE"
+    url: "/wiki/entities/iceye/"
   - key: "IfYouCanKeepIt"
     title: "If You Can Keep It"
     url: "/wiki/entities/ifyoucankeepit/"
@@ -6638,6 +6647,9 @@ topic_entities:
   - key: "JeannieRhee"
     title: "Jeannie Rhee"
     url: "/wiki/entities/jeannierhee/"
+  - key: "JeffreyArcher"
+    title: "Jeffrey Archer"
+    url: "/wiki/entities/jeffreyarcher/"
   - key: "JensSpahn"
     title: "Jens Spahn"
     url: "/wiki/entities/jensspahn/"
@@ -9459,6 +9471,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335"
     title: "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+  - key: "songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d"
+    title: "Songs of disenchantment: the sorrow of Nigeria"
+    url: "/wiki/sources/songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d/"
   - key: "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209"
     title: "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑"
     url: "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
