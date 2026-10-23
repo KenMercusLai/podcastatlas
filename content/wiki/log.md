@@ -37624,3 +37624,11 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | iPhone Duo's crease is put to the test
+
+Added source `tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128`; created [[FoldableHardwareDurability]] and [[MuskCorporateConsolidation]]; and resynthesized [[IPhoneDuo]], [[JoannaStern]], [[InternalSafetyResearchExposure]], and [[BigTobaccoPlatformAnalogy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 32,000 controlled folds provide encouraging hinge evidence without resolving the visible groove or lifetime reliability; the Duo's present value is stronger for reading and video than work; Musk-company integration may create operational synergies while concentrating economic and geopolitical power; and internal TikTok warnings plus litigation can change safety incentives without yet proving liability or threatening immediate platform finances. No settled contradiction was adopted. Long-term Duo durability, merger terms and synergies, the disputed Starlink report, the completeness of TikTok's response, and litigation outcomes remain source-scoped. Broad company pages and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,715 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

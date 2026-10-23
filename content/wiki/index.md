@@ -4811,6 +4811,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [总第074期：他们曾「见过」未来，于是创造了「现在」](sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42.md) — 读报teleread episode connecting science-fiction context stripping, AI subjectivity, Larry Ellison's island and business network, the imagination–capital flywheel, and success as maintained coordination.
 
+- [iPhone Duo's crease is put to the test](sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128.md) — Marketplace Tech on iPhone Duo durability and software usefulness, possible Musk-company consolidation, and TikTok child-safety warnings and litigation.
+
 ## Entities
 - [Wang Yujiao / 汪玉娇](entities/WangYujiao.md) — Researcher using Thai qiaopi and multilingual archives to study remittance networks, Southeast Asian Chinese identity, and localization.
 - [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.
@@ -18572,6 +18574,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Foldable Hardware Durability](concepts/FoldableHardwareDurability.md) — Separating hinge endurance and repeated fold operation from crease visibility, lifetime reliability, and real-world damage.
+- [Musk Corporate Consolidation](concepts/MuskCorporateConsolidation.md) — Possible integration of Musk-controlled space, vehicle, AI, communications, and social-media businesses, weighed against shareholder and private-power risks.
 - [Language Learning as a Localization Signal / 语言学习作为本地化信号](concepts/LanguageLearningAsLocalizationSignal.md) — Learning a local language as access to social perspective and a visible signal of respect beyond literal translation.
 - [Low-Turnout Incumbency Advantage](concepts/LowTurnoutIncumbencyAdvantage.md) — mechanism by which danger and disengagement amplify an incumbent's organized loyalists.
 - [European Space Capability Dependence](concepts/EuropeanSpaceCapabilityDependence.md) — reliance on American communications, surveillance, missile-warning, and launch systems.

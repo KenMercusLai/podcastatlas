@@ -38515,6 +38515,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "FoldableHardwareDurability": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "FoldablePhoneProductivity": [
     {
       "key": "technology",
@@ -63726,6 +63733,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MuskCorporateConsolidation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MuslimBrotherhood": [

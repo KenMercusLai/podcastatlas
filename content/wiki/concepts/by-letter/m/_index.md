@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10751
+wiki_total_pages: 10753
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "MusicBasedEmotionRegulation"
     title: "Music-Based Emotion Regulation"
     url: "/wiki/concepts/musicbasedemotionregulation/"
+  - key: "MuskCorporateConsolidation"
+    title: "Musk Corporate Consolidation"
+    url: "/wiki/concepts/muskcorporateconsolidation/"
   - key: "MuslimPersonalLawIndia"
     title: "Muslim Personal Law in India"
     url: "/wiki/concepts/muslimpersonallawindia/"

@@ -6,7 +6,8 @@ knowledge_schema: synthesis-v1
 sources:
   - tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
-last_updated: 2026-09-07
+  - tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128
+last_updated: 2026-10-23
 ---
 
 # Internal Safety Research Exposure
@@ -17,7 +18,7 @@ Internal safety research exposure is the accountability and litigation risk crea
 ## Current Synthesis
 The current wiki synthesis is that internal safety research is both necessary and legally consequential. The [[TikTok]] documents discussed by [[OliviaCarville]] in [[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] show the concept most directly. Trust-and-safety teams need to study harmful product patterns, but the resulting documents can show what a company knew about risks and whether protective features were deployed or withheld.
 
-[[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] extends the concept through [[Meta]]/Facebook whistleblower and litigation materials. It treats Frances Haugen's disclosures, Sophie Zhang's disclosures, Instagram teen mental-health research, clinical-study references, and employee discussions as evidence that can undercut a platform's public uncertainty narrative. The public-interest answer is not to stop doing research; it is to connect research to accountable safety decisions rather than leaving it as discoverable knowledge without product consequence.
+[[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] extends the concept through [[Meta]]/Facebook whistleblower and litigation materials. The October Marketplace Tech episode adds another TikTok evidence form: former employees reportedly warned leaders about sexual exploitation, harmful content, age-verification weaknesses, and parental-control loopholes, yet described little response. Together the sources make timing central: internal knowledge becomes more consequential when identified risks do not produce proportionate product or governance changes.
 
 ## Key Claims
 - Internal safety research can reveal product risks more concretely than external correlation studies alone.
@@ -26,19 +27,21 @@ The current wiki synthesis is that internal safety research is both necessary an
 - The governance problem is whether findings become timely product changes, not merely whether they are written down.
 - Whistleblower disclosures can move internal research from company knowledge into public, regulatory, and litigation evidence.
 - Internal documents can expose gaps between a company's public uncertainty claims and its internal risk assessments.
+- Employee escalation records can show whether leaders received operational warnings before litigation or public scrutiny.
 
 ## Evidence
 - TikTok safety-feature evidence: [[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] says internal documents and video reviews around [[ChaseNasca]] made withheld safety controls relevant to product-liability and causation arguments.
 - Meta whistleblower and research evidence: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] names [[FrancesHaugen]] and [[SophieZhang]] and describes internal Meta materials about addiction, teen body-image anxiety, harassment, and engagement optimization.
 - Public-accountability tension: [[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] and [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] both show how safety knowledge becomes legally relevant when product changes do not follow.
+- Employee-warning evidence: [[tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128]] says unsealed materials showed former TikTok employees warning executives about exploitation, harmful content, age verification, and parental controls while reporting little response.
 
 ## Counterevidence & Qualifications
-Internal documents can show concern, hypotheses, experiments, or employee judgments without proving every alleged harm or causal pathway. Litigation exposure can also create incentives to document less, which would weaken safety work. The best current synthesis is therefore not "all internal research proves liability," but "internal research makes company knowledge and safety-decision timing harder to ignore."
+Internal documents can show concern, hypotheses, experiments, or employee judgments without proving every alleged harm or causal pathway. TikTok says plaintiffs selected materials that do not represent the company's complete response. Litigation exposure can also create incentives to document less, which would weaken safety work. The best current synthesis is therefore not "all internal research proves liability," but "internal research makes company knowledge and safety-decision timing harder to ignore."
 
 ## What Changed
-- Migrated the page to `synthesis-v1`.
-- Added Meta/Facebook whistleblower materials as a second evidence branch beside TikTok.
-- Added the public-uncertainty versus internal-risk-assessment gap.
+- Added employee warnings about exploitation, harmful content, age verification, and parental-control loopholes as a distinct internal-evidence form.
+- Made TikTok's selective-presentation objection explicit.
+- Sharpened the judgment around response timing rather than treating warnings alone as proof of liability.
 
 ## Related Concepts
 - [[PlatformSafetyABTesting]] - safety-experiment branch where internal documents can matter.

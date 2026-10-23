@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3617
+topic_total_pages: 3619
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2395,6 +2395,9 @@ topic_concepts:
   - key: "FoldableAppAdaptation"
     title: "Foldable App Adaptation"
     url: "/wiki/concepts/foldableappadaptation/"
+  - key: "FoldableHardwareDurability"
+    title: "Foldable Hardware Durability"
+    url: "/wiki/concepts/foldablehardwaredurability/"
   - key: "FoldablePhoneProductivity"
     title: "Foldable Phone Productivity"
     url: "/wiki/concepts/foldablephoneproductivity/"
@@ -3421,6 +3424,9 @@ topic_concepts:
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"
+  - key: "MuskCorporateConsolidation"
+    title: "Musk Corporate Consolidation"
+    url: "/wiki/concepts/muskcorporateconsolidation/"
   - key: "NarrativeFateInteraction"
     title: "Narrative Fate Interaction"
     url: "/wiki/concepts/narrativefateinteraction/"

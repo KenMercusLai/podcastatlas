@@ -30746,9 +30746,9 @@
       "url": "/wiki/entities/biffloman/"
     },
     "BigTobaccoPlatformAnalogy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260716_0716_MP_TECH_pod_128 [tech_20260716_0716_MP_TECH_pod_128].md",
@@ -30763,9 +30763,16 @@
           "show": "声东击西",
           "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
           "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        },
+        {
+          "episode_file": "tech_20261023_1023_MP_TECH_pod_128 [tech_20261023_1023_MP_TECH_pod_128].md",
+          "key": "tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "iPhone Duo's crease is put to the test",
+          "url": "/wiki/sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/bigtobaccoplatformanalogy/"
     },
     "BiliaryCancerDecisionAndPrognosisBoundary": {
@@ -100429,6 +100436,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/foldableappadaptation/"
     },
+    "FoldableHardwareDurability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261023_1023_MP_TECH_pod_128 [tech_20261023_1023_MP_TECH_pod_128].md",
+          "key": "tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "iPhone Duo's crease is put to the test",
+          "url": "/wiki/sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/foldablehardwaredurability/"
+    },
     "FoldablePhoneProductivity": {
       "episode_count": 6,
       "show_count": 5,
@@ -136213,9 +136236,9 @@
       "url": "/wiki/concepts/ipownership/"
     },
     "IPhoneDuo": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
@@ -136230,9 +136253,16 @@
           "show": "三五环",
           "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
           "url": "/wiki/sources/no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u/"
+        },
+        {
+          "episode_file": "tech_20261023_1023_MP_TECH_pod_128 [tech_20261023_1023_MP_TECH_pod_128].md",
+          "key": "tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "iPhone Duo's crease is put to the test",
+          "url": "/wiki/sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/iphoneduo/"
     },
     "IREN": {
@@ -142386,9 +142416,9 @@
       "url": "/wiki/entities/internalrevenueservice/"
     },
     "InternalSafetyResearchExposure": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260812_0812_MP_TECH_pod_128 [tech_20260812_0812_MP_TECH_pod_128].md",
@@ -142403,9 +142433,16 @@
           "show": "声东击西",
           "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
           "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        },
+        {
+          "episode_file": "tech_20261023_1023_MP_TECH_pod_128 [tech_20261023_1023_MP_TECH_pod_128].md",
+          "key": "tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "iPhone Duo's crease is put to the test",
+          "url": "/wiki/sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/internalsafetyresearchexposure/"
     },
     "InternalWorthAccountability": {
@@ -151338,9 +151375,9 @@
       "url": "/wiki/entities/joanofarc/"
     },
     "JoannaStern": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
@@ -151369,9 +151406,16 @@
           "show": "Marketplace Tech",
           "title": "NYC public schools ban AI through middle school",
           "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261023_1023_MP_TECH_pod_128 [tech_20261023_1023_MP_TECH_pod_128].md",
+          "key": "tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "iPhone Duo's crease is put to the test",
+          "url": "/wiki/sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/joannastern/"
     },
     "JoaoIIOfPortugal": {
@@ -197281,6 +197325,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/musictasktiming/"
+    },
+    "MuskCorporateConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261023_1023_MP_TECH_pod_128 [tech_20261023_1023_MP_TECH_pod_128].md",
+          "key": "tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "iPhone Duo's crease is put to the test",
+          "url": "/wiki/sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/muskcorporateconsolidation/"
     },
     "MustafaKemalAtaturk": {
       "episode_count": 3,

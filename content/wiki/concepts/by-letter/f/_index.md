@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10751
+wiki_total_pages: 10753
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "FoldableAppAdaptation"
     title: "Foldable App Adaptation"
     url: "/wiki/concepts/foldableappadaptation/"
+  - key: "FoldableHardwareDurability"
+    title: "Foldable Hardware Durability"
+    url: "/wiki/concepts/foldablehardwaredurability/"
   - key: "FoldablePhoneProductivity"
     title: "Foldable Phone Productivity"
     url: "/wiki/concepts/foldablephoneproductivity/"
