@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2301
+topic_total_pages: 2302
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1300,6 +1300,9 @@ topic_concepts:
   - key: "FootballAsEconomicLaboratory"
     title: "Football As Economic Laboratory"
     url: "/wiki/concepts/footballaseconomiclaboratory/"
+  - key: "FootballClubCustodialGovernance"
+    title: "Football Club Custodial Governance / 足球俱乐部托管治理"
+    url: "/wiki/concepts/footballclubcustodialgovernance/"
   - key: "FootballClubFinancialEngineering"
     title: "Football Club Financial Engineering"
     url: "/wiki/concepts/footballclubfinancialengineering/"

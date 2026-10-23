@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10741
+wiki_total_pages: 10743
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "FootballClubControlRisk"
     title: "Football Club Control Risk"
     url: "/wiki/concepts/footballclubcontrolrisk/"
+  - key: "FootballClubCustodialGovernance"
+    title: "Football Club Custodial Governance / 足球俱乐部托管治理"
+    url: "/wiki/concepts/footballclubcustodialgovernance/"
   - key: "FootballClubFinancialEngineering"
     title: "Football Club Financial Engineering"
     url: "/wiki/concepts/footballclubfinancialengineering/"

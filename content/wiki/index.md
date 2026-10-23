@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.229 罚分之后，天津保级录 ft.申炜](sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk.md) — 不懂球与申炜复盘天津津门虎从负十分到保级，连接续约、战术务实、低成本培养、团队文化、于根伟的双重角色与托管治理。
 - [咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？](sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s.md) — 声动早咖啡以开心果限购串联美伊减产、进口依赖、果树成熟周期、迪拜巧克力爆红与食材成本传导，并更新 AI 漏洞发现和 Muse 商业化。
 - [46 古人如何长生不老？东西方的炼金术、炼丹术与长生药](sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx.md) — 怪东西比较中国外丹与内修、伊斯兰和欧洲炼金传统，并以毒性、测量、记录和可重复性区分技术遗产与超自然承诺。
 - [Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643.md) — Tomorrow Today interview on generosity, public service, responsible commerce, sustainability strategy, multilateralism, constructive dissent, and AI efficiency without dignity.
@@ -4806,6 +4807,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [天津津门虎 / Tianjin Jinmen Tiger](entities/TianjinJinmenTiger.md) — 从负十分完成保级、以适配引援、内部培养、信任文化和多方托管维持竞争力的中超俱乐部。
+- [于根伟 / Yu Genwei](entities/YuGenwei.md) — 天津津门虎总经理兼主教练，其权责整合既支撑低预算运营，也形成接班风险。
+- [申炜 / Shen Wei (football reporter)](entities/ShenWeiFootballReporter.md) — 复盘天津津门虎保级赛季、团队文化和托管模式的足球记者嘉宾。
 - [Pistachio / 开心果](entities/Pistachio.md) — Climate-exposed perennial nut whose slow orchard response collided with expanding snack, confectionery, drink, and dessert demand.
 - [李晶 / Li Jing (therapeutic educator)](entities/LiJingEducator.md) — Former Alibaba manager and family-education entrepreneur who moved into therapeutic education after reworking career, parenting, and life boundaries.
 - [Photon Agent Communication](entities/PhotonAgentCommunication.md) — Source-described communication layer that lets long-running agents escalate through messaging, calls, status updates, and handoff.
@@ -18551,6 +18555,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Low-Budget Football Club Competitiveness / 低预算足球俱乐部竞争力](concepts/LowBudgetFootballClubCompetitiveness.md) — 以球员适配、内部培养、合同稳定、战术务实和信任文化弥补转会与薪资劣势的竞争模式。
+- [Football Club Custodial Governance / 足球俱乐部托管治理](concepts/FootballClubCustodialGovernance.md) — 在缺少单一母公司时，以多方支持、公共监督、专业管理和严格财务审查维持俱乐部运行的安排。
 - [Pistachio Supply Shock / 开心果供应冲击](concepts/PistachioSupplyShock.md) — Compound shortage mechanism linking concentrated origins, climate damage, irrigation, shipping, import dependence, and orchard maturation lag.
 - [Viral Food Ingredient Demand / 社交媒体爆款食材需求](concepts/ViralFoodIngredientDemand.md) — Social attention and cross-category launches amplifying an established ingredient narrative into procurement pressure.
 - [Long-Horizon Agent Reliability / 长期智能体可靠性](concepts/LongHorizonAgentReliability.md) — Ability to preserve goals, constraints, state, verification, and recoverability across many steps, compactions, interruptions, and days.

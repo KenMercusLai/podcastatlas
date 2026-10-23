@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10741
+wiki_total_pages: 10743
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -956,6 +956,9 @@ wiki_pages:
   - key: "LowAltitudeRegulatoryRisk"
     title: "Low-Altitude Regulatory Risk"
     url: "/wiki/concepts/lowaltituderegulatoryrisk/"
+  - key: "LowBudgetFootballClubCompetitiveness"
+    title: "Low-Budget Football Club Competitiveness / 低预算足球俱乐部竞争力"
+    url: "/wiki/concepts/lowbudgetfootballclubcompetitiveness/"
   - key: "LowCarbonConstructionMaterials"
     title: "Low-Carbon Construction Materials"
     url: "/wiki/concepts/lowcarbonconstructionmaterials/"

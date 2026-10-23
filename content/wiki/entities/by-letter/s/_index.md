@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13665
+wiki_total_pages: 13668
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2816,6 +2816,9 @@ wiki_pages:
   - key: "ShentuPanLateHan"
     title: "申屠蟠 / Shentu Pan (late Han)"
     url: "/wiki/entities/shentupanlatehan/"
+  - key: "ShenWeiFootballReporter"
+    title: "申炜 / Shen Wei (football reporter)"
+    url: "/wiki/entities/shenweifootballreporter/"
   - key: "STOExpress"
     title: "申通快递"
     url: "/wiki/entities/stoexpress/"

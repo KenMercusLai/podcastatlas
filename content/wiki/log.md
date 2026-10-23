@@ -37583,3 +37583,11 @@ Added source `kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | Vol.229 罚分之后，天津保级录 ft.申炜
+
+Added source `vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk`; created [[TianjinJinmenTiger|天津津门虎]], [[YuGenwei|于根伟]], [[ShenWeiFootballReporter|申炜]], [[LowBudgetFootballClubCompetitiveness|低预算足球俱乐部竞争力]], and [[FootballClubCustodialGovernance|足球俱乐部托管治理]]; and resynthesized [[Budongqiu|不懂球]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the club's recovery from a ten-point deficit joined midseason contract stability, tactical pragmatism, improved player-system fit, patient internal development, and a high-trust culture; its multi-party custodial model supports lean, financially stable, locally connected operations while leaving succession and next-cycle governance unresolved. No settled contradiction was adopted. The 申炜/盛伟 name mismatch, budgets, ticket income, recruitment efficiency, refereeing judgments, causal explanations for winning runs, and Yu Genwei's ceiling remain source-scoped. Broad [[ChineseSuperLeague]], [[FootballClubAsCommunityAsset]], [[SoftBudgetFootballClubs]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable addition without reopening large unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the max-age gate ran global compaction, and refreshed artifacts validate 4,710 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -35861,9 +35861,9 @@
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
     },
     "Budongqiu": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
@@ -35892,9 +35892,16 @@
           "show": "不懂球",
           "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
           "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
+        },
+        {
+          "episode_file": "GKwRIJEOsMquAZU_rgTtvPfK [GKwRIJEOsMquAZU_rgTtvPfK].md",
+          "key": "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk",
+          "show": "不懂球",
+          "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+          "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/budongqiu/"
     },
     "BuduanzhePodcast": {
@@ -100598,6 +100605,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/footballclubascommunityasset/"
+    },
+    "FootballClubCustodialGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOsMquAZU_rgTtvPfK [GKwRIJEOsMquAZU_rgTtvPfK].md",
+          "key": "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk",
+          "show": "不懂球",
+          "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+          "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/footballclubcustodialgovernance/"
     },
     "FootballClubLegacyTransfer": {
       "episode_count": 1,
@@ -175206,6 +175229,22 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/entities/lovemorechiwa/"
+    },
+    "LowBudgetFootballClubCompetitiveness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOsMquAZU_rgTtvPfK [GKwRIJEOsMquAZU_rgTtvPfK].md",
+          "key": "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk",
+          "show": "不懂球",
+          "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+          "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/lowbudgetfootballclubcompetitiveness/"
     },
     "LowClaimCivicAction": {
       "episode_count": 1,
@@ -253177,6 +253216,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/shenwansan/"
     },
+    "ShenWeiFootballReporter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOsMquAZU_rgTtvPfK [GKwRIJEOsMquAZU_rgTtvPfK].md",
+          "key": "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk",
+          "show": "不懂球",
+          "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+          "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/shenweifootballreporter/"
+    },
     "ShenYiji": {
       "episode_count": 5,
       "show_count": 1,
@@ -278796,6 +278851,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/tianjingeneralhospital/"
+    },
+    "TianjinJinmenTiger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOsMquAZU_rgTtvPfK [GKwRIJEOsMquAZU_rgTtvPfK].md",
+          "key": "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk",
+          "show": "不懂球",
+          "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+          "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/tianjinjinmentiger/"
     },
     "TianrenGanyingProjectionFrame": {
       "episode_count": 2,
@@ -310435,6 +310506,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yufan/"
+    },
+    "YuGenwei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOsMquAZU_rgTtvPfK [GKwRIJEOsMquAZU_rgTtvPfK].md",
+          "key": "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk",
+          "show": "不懂球",
+          "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+          "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/yugenwei/"
     },
     "YuHong": {
       "episode_count": 1,

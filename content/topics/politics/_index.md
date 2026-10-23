@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3371
+topic_total_pages: 3372
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1684,6 +1684,9 @@ topic_concepts:
   - key: "FootballClubControlRisk"
     title: "Football Club Control Risk"
     url: "/wiki/concepts/footballclubcontrolrisk/"
+  - key: "FootballClubCustodialGovernance"
+    title: "Football Club Custodial Governance / 足球俱乐部托管治理"
+    url: "/wiki/concepts/footballclubcustodialgovernance/"
   - key: "FootballFinancialFairPlay"
     title: "Football Financial Fair Play"
     url: "/wiki/concepts/footballfinancialfairplay/"

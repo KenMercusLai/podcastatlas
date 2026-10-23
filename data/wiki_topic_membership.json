@@ -38606,6 +38606,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "FootballClubCustodialGovernance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FootballClubFinancialEngineering": [
     {
       "key": "economics",

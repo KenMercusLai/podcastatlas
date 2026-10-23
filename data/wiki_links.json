@@ -34931,6 +34931,10 @@
     "title": "Football Club Control Risk",
     "url": "/wiki/concepts/footballclubcontrolrisk/"
   },
+  "FootballClubCustodialGovernance": {
+    "title": "Football Club Custodial Governance / 足球俱乐部托管治理",
+    "url": "/wiki/concepts/footballclubcustodialgovernance/"
+  },
   "FootballClubFinancialEngineering": {
     "title": "Football Club Financial Engineering",
     "url": "/wiki/concepts/footballclubfinancialengineering/"
@@ -56506,6 +56510,10 @@
   "LowAltitudeRegulatoryRisk": {
     "title": "Low-Altitude Regulatory Risk",
     "url": "/wiki/concepts/lowaltituderegulatoryrisk/"
+  },
+  "LowBudgetFootballClubCompetitiveness": {
+    "title": "Low-Budget Football Club Competitiveness / 低预算足球俱乐部竞争力",
+    "url": "/wiki/concepts/lowbudgetfootballclubcompetitiveness/"
   },
   "LowCarbonConstructionMaterials": {
     "title": "Low-Carbon Construction Materials",
@@ -80859,6 +80867,10 @@
     "title": "沈万三 / Shen Wansan",
     "url": "/wiki/entities/shenwansan/"
   },
+  "ShenWeiFootballReporter": {
+    "title": "申炜 / Shen Wei (football reporter)",
+    "url": "/wiki/entities/shenweifootballreporter/"
+  },
   "ShenYang": {
     "title": "申阳 / Shen Yang",
     "url": "/wiki/entities/shenyang/"
@@ -89050,6 +89062,10 @@
   "TianjinGeneralHospital": {
     "title": "天津总医院 / Tianjin General Hospital",
     "url": "/wiki/entities/tianjingeneralhospital/"
+  },
+  "TianjinJinmenTiger": {
+    "title": "天津津门虎 / Tianjin Jinmen Tiger",
+    "url": "/wiki/entities/tianjinjinmentiger/"
   },
   "TianjinUniversity": {
     "title": "Tianjin University / 天津大学",
@@ -99258,6 +99274,10 @@
   "YuFanjun": {
     "title": "余樊君 / Yu Fanjun",
     "url": "/wiki/entities/yufanjun/"
+  },
+  "YuGenwei": {
+    "title": "于根伟 / Yu Genwei",
+    "url": "/wiki/entities/yugenwei/"
   },
   "YuGuirenLateHan": {
     "title": "于贵人 / Yu Guiren (late Han)",
@@ -109882,6 +109902,10 @@
   "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u": {
     "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
     "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
+  },
+  "vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk": {
+    "title": "Vol.229 罚分之后，天津保级录 ft.申炜",
+    "url": "/wiki/sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk/"
   },
   "vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu": {
     "title": "VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生",
