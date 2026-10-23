@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13682
+wiki_total_pages: 13684
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "NewYorkCity"
     title: "New York City"
     url: "/wiki/entities/newyorkcity/"
+  - key: "NewYorkCityPoliceDepartment"
+    title: "New York City Police Department"
+    url: "/wiki/entities/newyorkcitypolicedepartment/"
   - key: "NewYorkCityPublicSchools"
     title: "New York City Public Schools"
     url: "/wiki/entities/newyorkcitypublicschools/"

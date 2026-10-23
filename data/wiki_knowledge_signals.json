@@ -24634,9 +24634,9 @@
       "url": "/wiki/concepts/automatedperformancemarketing/"
     },
     "AutomaticLicensePlateReader": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
@@ -24658,9 +24658,16 @@
           "show": "Economist Podcasts",
           "title": "Here comes the son? Brazil’s election tips rightward",
           "url": "/wiki/sources/here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/automaticlicenseplatereader/"
     },
     "AutomotiveOvercapacityRestructuring": {
@@ -74182,6 +74189,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/dompedroii/"
+    },
+    "DomainAwarenessSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/domainawarenesssystem/"
     },
     "DomainKnowHowMoat": {
       "episode_count": 3,
@@ -173438,6 +173461,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/localserviceso2o/"
     },
+    "LocalSurveillanceGovernance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/localsurveillancegovernance/"
+    },
     "LocalVehicleAssemblyTaxStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -201511,6 +201557,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/newyorkcityblackout1977/"
     },
+    "NewYorkCityPoliceDepartment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/newyorkcitypolicedepartment/"
+    },
     "NewYorkCityPublicSchools": {
       "episode_count": 2,
       "show_count": 2,
@@ -222890,9 +222952,9 @@
       "url": "/wiki/concepts/possessiveattachmentandselferasure/"
     },
     "Post911CounterterrorismArchitecture": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
@@ -222900,9 +222962,16 @@
           "show": "Economist Podcasts",
           "title": "Out-numbered: AI's contentious maths milestone",
           "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/post911counterterrorismarchitecture/"
     },
     "PostAnesthesiaRecoverySafety": {
@@ -227238,6 +227307,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/procrastinationselfregulationfailure/"
     },
+    "ProcurementRecordsJournalism": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_c2fd254b4766f56729e42b13659ee5ab_33371321 [default.mp3_ywr3ahjkcgo_c2fd254b4766f56729e42b13659ee5ab_33371321].md",
+          "key": "betty-boop-excel-olympics-penny-isms-our-2026-valentines",
+          "show": "Planet Money",
+          "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",
+          "url": "/wiki/sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/procurementrecordsjournalism/"
+    },
     "ProductBrandCompanyBrandSeparation": {
       "episode_count": 1,
       "show_count": 1,
@@ -229729,9 +229821,9 @@
       "url": "/wiki/concepts/publicrefusalstatusinflation/"
     },
     "PublicSafetyPrivacyTradeoff": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
@@ -229753,9 +229845,16 @@
           "show": "三五环",
           "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
           "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
     },
     "PublicSchoolRebellions": {
@@ -270121,6 +270220,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/surrenderedlocalmessengerpacification/"
+    },
+    "SurveillanceProcurementOpacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855 [default.mp3_ywr3ahjkcgo_98b9d3e8cf419acc1f058311ce5ff68b_36658855].md",
+          "key": "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855",
+          "show": "Planet Money",
+          "title": "How surveillance crept up on us",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/surveillanceprocurementopacity/"
     },
     "SurvivalCannibalismPowerInequality": {
       "episode_count": 1,

@@ -31936,6 +31936,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DomainAwarenessSystem": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DomainExpertAlignment": [
     {
       "key": "technology",
@@ -65153,6 +65160,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NewYorkCityPoliceDepartment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NewYorkCityPublicSchools": [
     {
       "key": "culture",
@@ -86499,6 +86513,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SurveillanceProcurementOpacity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SurvivalCannibalismPowerInequality": [
     {
       "key": "politics",
@@ -103441,6 +103462,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987": [

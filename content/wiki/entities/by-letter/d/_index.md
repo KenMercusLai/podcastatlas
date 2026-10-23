@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13682
+wiki_total_pages: 13684
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "DomPedroII"
     title: "Dom Pedro II"
     url: "/wiki/entities/dompedroii/"
+  - key: "DomainAwarenessSystem"
+    title: "Domain Awareness System"
+    url: "/wiki/entities/domainawarenesssystem/"
   - key: "DomesdayBook"
     title: "Domesday Book"
     url: "/wiki/entities/domesdaybook/"

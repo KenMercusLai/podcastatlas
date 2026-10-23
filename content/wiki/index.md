@@ -4815,6 +4815,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [iPhone Duo's crease is put to the test](sources/tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-128.md) — Marketplace Tech on iPhone Duo durability and software usefulness, possible Musk-company consolidation, and TikTok child-safety warnings and litigation.
 
+- [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
+
 ## Entities
 - [Wang Yujiao / 汪玉娇](entities/WangYujiao.md) — Researcher using Thai qiaopi and multilingual archives to study remittance networks, Southeast Asian Chinese identity, and localization.
 - [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.
@@ -18577,6 +18579,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [HSBC Lions / 汇丰铜狮](entities/HSBCLions.md) — Reclining male-lion pair whose Shanghai origin, Hong Kong replication, banknote circulation, preservation, and commercial copying made it a global bank symbol.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
+- [New York City Police Department](entities/NewYorkCityPoliceDepartment.md) — Municipal police agency whose post-9/11 intelligence, surveillance, procurement, and oversight expansion anchors the episode.
+- [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
+
 ## Concepts
 - [Foldable Hardware Durability](concepts/FoldableHardwareDurability.md) — Separating hinge endurance and repeated fold operation from crease visibility, lifetime reliability, and real-world damage.
 - [Musk Corporate Consolidation](concepts/MuskCorporateConsolidation.md) — Possible integration of Musk-controlled space, vehicle, AI, communications, and social-media businesses, weighed against shareholder and private-power risks.
@@ -29422,5 +29427,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imagination–Capital Flywheel / 想象—资本飞轮](concepts/ImaginationCapitalFlywheel.md) — Cycle where future narratives attract resources, resources expand implementation capacity, and realized institutions reshape both vision and creator.
 - [Success As Maintained Coordination / 成功的关系性维持](concepts/SuccessAsMaintainedCoordination.md) — View of large-scale success as a continuing stakeholder equilibrium rather than a permanent personal possession.
 - [Positional Imagination Boundary / 位置塑造的想象边界](concepts/PositionalImaginationBoundary.md) — Distinction between a powerful position's ability to shape the future and any claim to superior knowledge or authority over it.
+
+- [Surveillance Procurement Opacity](concepts/SurveillanceProcurementOpacity.md) — Accountability failure when security exceptions conceal technology acquisition, vendor relationships, costs, and safeguards from timely scrutiny.
 
 ## Syntheses

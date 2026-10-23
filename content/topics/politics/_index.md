@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3382
+topic_total_pages: 3386
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4204,6 +4204,9 @@ topic_concepts:
   - key: "SurveillanceCameraExposure"
     title: "Surveillance Camera Exposure"
     url: "/wiki/concepts/surveillancecameraexposure/"
+  - key: "SurveillanceProcurementOpacity"
+    title: "Surveillance Procurement Opacity"
+    url: "/wiki/concepts/surveillanceprocurementopacity/"
   - key: "SurveillanceBasedRulerControl"
     title: "Surveillance-Based Ruler Control / 窥察制衡式君术"
     url: "/wiki/concepts/surveillancebasedrulercontrol/"
@@ -6041,6 +6044,9 @@ topic_entities:
   - key: "DiretasJa"
     title: "Diretas Ja"
     url: "/wiki/entities/diretasja/"
+  - key: "DomainAwarenessSystem"
+    title: "Domain Awareness System"
+    url: "/wiki/entities/domainawarenesssystem/"
   - key: "DonaldTrump"
     title: "Donald Trump"
     url: "/wiki/entities/donaldtrump/"
@@ -7274,6 +7280,9 @@ topic_entities:
   - key: "NewMexico"
     title: "New Mexico"
     url: "/wiki/entities/newmexico/"
+  - key: "NewYorkCityPoliceDepartment"
+    title: "New York City Police Department"
+    url: "/wiki/entities/newyorkcitypolicedepartment/"
   - key: "NewYorkPost"
     title: "New York Post"
     url: "/wiki/entities/newyorkpost/"
@@ -9333,6 +9342,9 @@ topic_sources:
   - key: "how-much-money-president-trump-and-his-family-have-made"
     title: "How much money President Trump and his family have made"
     url: "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
+  - key: "defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855"
+    title: "How surveillance crept up on us"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855/"
   - key: "how-to-get-through-the-strait-of-hormuz"
     title: "How to get through the Strait of Hormuz"
     url: "/wiki/sources/how-to-get-through-the-strait-of-hormuz/"

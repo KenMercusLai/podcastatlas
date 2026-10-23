@@ -37648,3 +37648,11 @@ Added source `2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijia
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | How surveillance crept up on us
+
+Added source `defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855`; created [[NewYorkCityPoliceDepartment]], [[DomainAwarenessSystem]], and [[SurveillanceProcurementOpacity]]; and resynthesized [[AutomaticLicensePlateReader]], [[PublicSafetyPrivacyTradeoff]], [[LocalSurveillanceGovernance]], [[ProcurementRecordsJournalism]], and [[Post911CounterterrorismArchitecture]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: post-9/11 federal support, intelligence expansion, public-private cameras, integrated databases, and procurement exceptions turned counterterrorism infrastructure into routine policing capacity; later disclosure law improved prospective oversight without quickly revealing the legacy contract base. No settled contradiction was adopted. The NYPD's safety and legitimate-purpose claims, system-scale snapshots, general camera effectiveness, practical warrant boundaries, compliance, historical contract status, and AI-era effects remain source-scoped. Broad [[Microsoft]] and [[NewYorkCity]] pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,718 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
