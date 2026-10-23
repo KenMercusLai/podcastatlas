@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10753
+wiki_total_pages: 10754
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "ElectoralBackchannelCausationBoundary"
     title: "Electoral Backchannel Causation Boundary"
     url: "/wiki/concepts/electoralbackchannelcausationboundary/"
+  - key: "ElectoralHorizonBias"
+    title: "Electoral Horizon Bias"
+    url: "/wiki/concepts/electoralhorizonbias/"
   - key: "ElectoralIneligibilityPenalty"
     title: "Electoral Ineligibility Penalty"
     url: "/wiki/concepts/electoralineligibilitypenalty/"

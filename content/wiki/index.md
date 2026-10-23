@@ -631,6 +631,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》276｜“霸陵呵夜”，将军李广为何被小兵欺凌](sources/zizhi-tongjian-hanji-276-baling-heye-jiangjun-liguang-weihe-bei-xiaobing-qiling-lq813ahfpxsjjy7qoq90b4cnvyzx.md) — 李广失势时因夜禁被霸陵尉拦留，复任右北平太守后却将其召至军中诛杀；节目据此以公报私仇限定英雄叙事，并补入卫青雁门出击、濊貊归附成本与削藩问题的过渡层。
 - [308-女权是否意味着争取选择自由？](sources/308-nvquan-shifou-yiweizhe-zhengqu-xuanze-ziyou-lgesbs0sd76ciib1v1fw8szvulrt.md) — 独树不成林追溯选择自由成为女性主义政治语言的历史，并以物质能力、照护、阶级种族差异、公共责任和选择负担限定形式自主。
 - [Gilets jeunes? France’s school protests](sources/gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057.md) — The Intelligence on widening French school unrest, the procedural and oversight tensions of Title IX after the Cornell Seven case, and the weak evidence behind astrology in Indian finance.
+- [法國50萬人上街：一場高中抗議，如何燒遍全國？](sources/faguo-50-wan-ren-shangjie-yichang-gaozhong-kangyi-ruhe-shaobian-quanguo-400332274631798b431d5bcde6337d90.md) — 端聞從高中資源與Parcoursup爭議追蹤法國學生運動、生活成本聯盟、街頭暴力、政府回應與代際政治時間差。
 - [《资治通鉴·汉纪》277｜西汉名臣主父偃，为何被武帝感叹相见恨晚？](sources/zizhi-tongjian-hanji-277-xihan-mingchen-zhufuyan-weihe-bei-wudi-gantan-xiangjianhenwan-lhwkdobgygtwnsohirz60tw8-km_.md) — 主父偃在长期贫困与求仕受阻后以《谏伐匈奴》直达汉武帝，并借秦代北征和白登之围核算远征、守边与民力成本；早年年数和贫困导致贪权的心理因果保留来源边界。
 - [《资治通鉴·汉纪》278｜比高启强更疯狂，汉臣主父偃有多偏激](sources/zizhi-tongjian-hanji-278-bi-gaoqiqiang-geng-fengkuang-hanchen-zhufuyan-you-duo-pianji-lg0glfl2_gx-fb6uysvh74kpbts8.md) — 严安把奢靡、民生和秦代战争成本连成治理风险，徐乐以陈胜与七国之乱区分“土崩”和“瓦解”，主父偃则在一年四迁后显出受贿与报复倾向。
 - [《资治通鉴·汉纪》279｜推恩令为什么被称为千古第一阳谋？](sources/zizhi-tongjian-hanji-279-tuienling-weishenme-bei-chengwei-qiangu-diyi-yangmou-lk0wssrgq0ac9uapfxc2pv9fn7hh.md) — 推恩令用非嫡长子受封的即时利益推动封国反复分割，但其可执行性依赖文景削藩、七国之乱失败和诸侯行政权先被收回；“无解阳谋”及具体制度细节保留来源边界。
@@ -16671,12 +16672,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mem0](entities/Mem0.md) — Memory-layer startup used in S10E20 as a cloud-oriented comparison and market-validation signal.
 - [NotebookLM](entities/NotebookLM.md) — Google AI research/document tool used as a comparison point for Clipto's multimodal local memory ambitions.
 - [France](entities/France.md) — Multi-branch national setting spanning medieval Hundred Years' War origins, Elizabethan instability, modern politics and regulation, wildfire, culture, coffee, and resistance.
-- [Marine Le Pen](entities/MarineLePen.md) — National Rally leader whose appeal ruling is framed as clearing her practical path to the 2027 French presidential election.
-- [National Rally](entities/NationalRally.md) — French populist-right party shaped by Le Pen's candidacy, Bardella's successor role, and the normalization problem.
+- [Marine Le Pen](entities/MarineLePen.md) — National Rally leader whose eligibility, stable support, and law-and-order positioning define the current 2027 election branch.
+- [National Rally](entities/NationalRally.md) — French populist-right party combining normalization, differentiated economic appeals, and crisis-centered public-order campaigning.
 - [Jordan Bardella](entities/JordanBardella.md) — National Rally figure who had prepared as substitute presidential candidate before Le Pen's return put him back in second place.
 - [Jean-Marie Le Pen](entities/JeanMarieLePen.md) — National Front co-founder and family-origin figure behind the party reputation Marine Le Pen tries to normalize.
 - [Sophie Pedder](entities/SophiePedder.md) — The Intelligence analyst explaining Le Pen's appeal ruling, polling, candidate field, and National Rally succession tension.
-- [Emmanuel Macron](entities/EmmanuelMacron.md) — Incumbent French president whose succession context shapes the crowded 2027 field in the episode.
+- [Emmanuel Macron](entities/EmmanuelMacron.md) — French president whose symbolic authority, party-system disruption, succession context, and unrest response shape the current branch.
+- [Parcoursup](entities/Parcoursup.md) — French higher-education admissions platform criticized for opaque program rules and unequal access to application guidance.
 - [Edouard Philippe](entities/EdouardPhilippe.md) — Centrist French presidential candidate named as part of the post-Macron 2027 field.
 - [Gabriel Attal](entities/GabrielAttal.md) — Centrist French political figure named as a possible Macron successor in the 2027 field.
 - [Jean-Luc Mélenchon](entities/JeanLucMelenchon.md) — French populist-left leader whose runoff relevance grows with centrist fragmentation and criticism of government failure.
@@ -18423,7 +18425,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cornell University](entities/CornellUniversity.md) — University case linking a disputed alleged assault to Title IX procedure, sanctions, civil litigation, survey evidence, and external oversight.
 - [Title IX](entities/TitleIX.md) — U.S. education law whose campus sexual-misconduct framework changes through administrative interpretation.
 - [Office for Civil Rights](entities/OfficeForCivilRights.md) — Department of Education unit overseeing federal school and university civil-rights complaints.
-- [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister using structured school discussion as a response to widening student unrest.
+- [Sébastien Lecornu](entities/SebastienLecornu.md) — French prime minister moving from structured school dialogue to coercive containment and political attribution during widening unrest.
 - [Saagar Enjeti](entities/SaagarEnjeti.md) — Media commentator making the institutional-suspicion and elite-accountability case in the Epstein files debate.
 - [Michael Tracey](entities/MichaelTracey.md) — Journalist challenging maximalist Epstein narratives through claim definition, legal precision, and incentive analysis.
 - [Kevin Bass](entities/KevinBass.md) — Citizen document analyst using AI-assisted retrieval to audit Reid Hoffman's public Epstein account.
@@ -20363,7 +20365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empathy-Mode Differentiation](concepts/EmpathyModeDifferentiation.md) — Distinction among emotional sharing, cognitive perspective-taking, and empathic concern.
 - [Peak-End Task Memory](concepts/PeakEndTaskMemory.md) — Bounded use of remembered peaks and endings to make worthwhile difficult tasks easier to repeat.
 - [Hair and Scalp Care Boundary / 头发与头皮护理边界](concepts/HairScalpCareBoundary.md) — Boundary separating conditional cleansing and shaft protection from diagnosis, follicle treatment, and commercial regrowth claims.
-- [Protest Escalation Loop](concepts/ProtestEscalationLoop.md) — Feedback process through which containment, policing, symbolic action, media, and wider mobilization enlarge a bounded dispute.
+- [Protest Escalation Loop](concepts/ProtestEscalationLoop.md) — Feedback process through which containment, coalition widening, policing, media, violence, and backlash enlarge a bounded dispute.
 - [Student-Worker Coalition Limits](concepts/StudentWorkerCoalitionLimits.md) — Distinction between overlapping protest and a coalition with shared demands, authority, strategy, and settlement.
 - [Political Defeat and Cultural Afterlife](concepts/PoliticalDefeatCulturalAfterlife.md) — Distinction among an event's diffuse outbreak, immediate political outcome, and later cultural or intellectual interpretation.
 - [Staged Volcanic Catastrophe](concepts/StagedVolcanicCatastrophe.md) — Time- and place-sensitive model separating warning, fall, accumulation, surge, flow, and temporary escape windows.
@@ -21471,7 +21473,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Digital Sexual Substitute Risk](concepts/DigitalSexualSubstituteRisk.md) — concern that always-available digital sexual stimulation can displace real relationship learning and motivation.
 - [Male Mentorship Responsibility](concepts/MaleMentorshipResponsibility.md) — distributed adult-male obligation to provide ordinary presence and guidance to boys lacking role models.
 - [National Service Social Integration](concepts/NationalServiceSocialIntegration.md) — policy idea that military or civilian service can create structure, cross-class contact, and civic obligation.
-- [Intergenerational Youth Economic Burden](concepts/IntergenerationalYouthEconomicBurden.md) — claim that fiscal, health-care, education, and labor-market structures can shift costs onto younger cohorts.
+- [Intergenerational Youth Economic Burden](concepts/IntergenerationalYouthEconomicBurden.md) — Claim that fiscal, health-care, education, labor-market, and representation structures can shift costs onto younger cohorts.
+- [Electoral Horizon Bias](concepts/ElectoralHorizonBias.md) — Tendency for election-cycle pressures to outrank long-term investments whose consequences fall most heavily on younger people.
 - [宾礼式臣服外交 / Guest-Rite Submission Diplomacy](concepts/GuestRiteSubmissionDiplomacy.md) — Protocol pattern where a strong court receives a submitted foreign ruler with elevated guest rites to display power while preserving diplomatic flexibility.
 - [麒麟阁功臣荣典 / Qilin Pavilion Merit Honors](concepts/QilinPavilionMeritHonors.md) — Western Han political-memory practice where Xuan turns meritorious service into a palace portrait honor roll.
 - [Anticoagulation Self-Medication Boundary / 抗凝自行用药边界](concepts/AnticoagulationSelfMedicationBoundary.md) — Medication-safety boundary distinguishing aspirin, anticoagulation, fibrinolysis, thrombolysis, and clinician-directed prophylaxis.

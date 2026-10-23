@@ -37632,3 +37632,11 @@ Added source `tech-20261023-1023-mp-tech-pod-128-tech-20261023-1023-mp-tech-pod-
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | 法國50萬人上街：一場高中抗議，如何燒遍全國？
+
+Added source `faguo-50-wan-ren-shangjie-yichang-gaozhong-kangyi-ruhe-shaobian-quanguo-400332274631798b431d5bcde6337d90`; created [[Parcoursup]] and [[ElectoralHorizonBias]]; and resynthesized [[SebastienLecornu]], [[EmmanuelMacron]], [[MarineLePen]], [[NationalRally]], [[ProtestEscalationLoop]], and [[IntergenerationalYouthEconomicBurden]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: material school failures and opaque admissions can widen through cross-class solidarity and cost-of-living coalitions, but mixed crowds, dual-use social media, police failure, and riot imagery can redirect the agenda from long-run education investment toward immediate order. No settled contradiction was adopted. Participation totals, police deployment, militant coordination, Parcoursup effects, fiscal and demographic claims, and electoral consequences remain source-scoped. Broad [[France]] was kept closed because focused institutional, political, and mechanism pages capture the durable additions without reopening a large unchanged evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,716 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3183,8 +3183,8 @@
       "earliest_episode_date": "2026-09-02",
       "latest_episode_date": "2026-10-23",
       "latest_episode_file": "400332274631798b431d5bcde6337d90 [400332274631798b431d5bcde6337d90.mp3？aid=6adb1ca7a25058b22ad73e65&chid=66b07190af99592.280].md",
-      "source_note_count": 14,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 15,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "technology",
@@ -3193,15 +3193,15 @@
           "source_note_count": 4
         },
         {
-          "key": "politics",
-          "label": "Politics",
-          "url": "/topics/politics/",
-          "source_note_count": 2
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 3
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
           "source_note_count": 2
         },
         {
@@ -3214,8 +3214,8 @@
       "entities": [],
       "start_here_episode_files": [
         "594bf8ad2a57f9c85fe5c47c73d71461 [594bf8ad2a57f9c85fe5c47c73d71461.mp3？aid=6acf4401253c13a89800a11b&chid=66b07190af99592.280].md",
+        "400332274631798b431d5bcde6337d90 [400332274631798b431d5bcde6337d90.mp3？aid=6adb1ca7a25058b22ad73e65&chid=66b07190af99592.280].md",
         "7d743a8515cf65334add1a55cd20148e [7d743a8515cf65334add1a55cd20148e.mp3？aid=6aa3b0512e8bb8424c89b9b5&chid=66b07190af99592b5329f43a&ci=BdYxfXd-9qjaOXD4SjVPq9CSyf6PCvVfXEj8rIWOgoN79PomrOPinQ==&pf=rss&sv=sphinx@1.280].md",
-        "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
         "cd38365e015f056efaa8b0506c123504 [cd38365e015f056efaa8b0506c123504.mp3？aid=6aaa53eabf7eb386d39078a7&chid=66b07190af99592b5329f43a&ci=g5iSinE3kpKQHEKFcypY68NN9rpXlVIUlBLRKRCYvU6CC7h4oBMZfw==&pf=rss&sv=sphinx@1.280].md"
       ]
     },

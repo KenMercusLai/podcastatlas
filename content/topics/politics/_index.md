@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3381
+topic_total_pages: 3382
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1375,6 +1375,9 @@ topic_concepts:
   - key: "ElectoralBackchannelCausationBoundary"
     title: "Electoral Backchannel Causation Boundary"
     url: "/wiki/concepts/electoralbackchannelcausationboundary/"
+  - key: "ElectoralHorizonBias"
+    title: "Electoral Horizon Bias"
+    url: "/wiki/concepts/electoralhorizonbias/"
   - key: "ElectoralIneligibilityPenalty"
     title: "Electoral Ineligibility Penalty"
     url: "/wiki/concepts/electoralineligibilitypenalty/"
