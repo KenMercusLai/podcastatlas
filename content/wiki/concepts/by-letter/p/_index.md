@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10739
+wiki_total_pages: 10741
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "PiratedStreamingBoxMalware"
     title: "Pirated Streaming Box Malware"
     url: "/wiki/concepts/piratedstreamingboxmalware/"
+  - key: "PistachioSupplyShock"
+    title: "Pistachio Supply Shock / 开心果供应冲击"
+    url: "/wiki/concepts/pistachiosupplyshock/"
   - key: "PlaceBasedBrandPerception"
     title: "Place Based Brand Perception"
     url: "/wiki/concepts/placebasedbrandperception/"

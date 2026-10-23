@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？](sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s.md) — 声动早咖啡以开心果限购串联美伊减产、进口依赖、果树成熟周期、迪拜巧克力爆红与食材成本传导，并更新 AI 漏洞发现和 Muse 商业化。
 - [46 古人如何长生不老？东西方的炼金术、炼丹术与长生药](sources/46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu-yu-changshengyao-liporj2ydsu1pwehpgflapgm6zpx.md) — 怪东西比较中国外丹与内修、伊斯兰和欧洲炼金传统，并以毒性、测量、记录和可重复性区分技术遗产与超自然承诺。
 - [Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643.md) — Tomorrow Today interview on generosity, public service, responsible commerce, sustainability strategy, multilateralism, constructive dissent, and AI efficiency without dignity.
 - [#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目](sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf.md) — 声东击西十周年访谈以李晶从阿里、Airbnb到家庭教育创业和治疗教育的转向，讨论高增长工作的回报与代价、亲子修复、边界及反思式人生选择。
@@ -4805,6 +4806,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Developing a Rational Approach to Supplementation for Health & Performance](sources/essentials-developing-a-rational-approach-to-supplementation-for-health-performance-scim2223124209.md) — Condensed Huberman Lab episode on need-first supplement decisions, foundations, one-variable trials, minimum effective doses, and evidence-bounded sleep, hormone, focus, omega-3, and protein examples.
 
 ## Entities
+- [Pistachio / 开心果](entities/Pistachio.md) — Climate-exposed perennial nut whose slow orchard response collided with expanding snack, confectionery, drink, and dessert demand.
 - [李晶 / Li Jing (therapeutic educator)](entities/LiJingEducator.md) — Former Alibaba manager and family-education entrepreneur who moved into therapeutic education after reworking career, parenting, and life boundaries.
 - [Photon Agent Communication](entities/PhotonAgentCommunication.md) — Source-described communication layer that lets long-running agents escalate through messaging, calls, status updates, and handoff.
 - [Hark Startup](entities/HarkStartup.md) — Source-scoped startup whose free-pizza Gmail campaign exposed data-incentive, wrong-charge, wrong-address, and concurrency risks.
@@ -18549,6 +18551,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Pistachio Supply Shock / 开心果供应冲击](concepts/PistachioSupplyShock.md) — Compound shortage mechanism linking concentrated origins, climate damage, irrigation, shipping, import dependence, and orchard maturation lag.
+- [Viral Food Ingredient Demand / 社交媒体爆款食材需求](concepts/ViralFoodIngredientDemand.md) — Social attention and cross-category launches amplifying an established ingredient narrative into procurement pressure.
 - [Long-Horizon Agent Reliability / 长期智能体可靠性](concepts/LongHorizonAgentReliability.md) — Ability to preserve goals, constraints, state, verification, and recoverability across many steps, compactions, interruptions, and days.
 - [Agent Action Externalities / 智能体行动外部性](concepts/AgentActionExternalities.md) — Costs imposed on merchants, workers, bystanders, and shared systems when individually cheap automated actions accumulate or fail.
 - [Customer-Earned Expansion](concepts/CustomerEarnedExpansion.md) — Add locations, products, channels, licenses, or markets only after customer behavior proves a valued and repeatable core use case.

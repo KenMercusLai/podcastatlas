@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 10739
+wiki_total_pages: 10741
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "ViolenceReductionPublicHealthModel"
     title: "Violence Reduction Public-Health Model"
     url: "/wiki/concepts/violencereductionpublichealthmodel/"
+  - key: "ViralFoodIngredientDemand"
+    title: "Viral Food Ingredient Demand / 社交媒体爆款食材需求"
+    url: "/wiki/concepts/viralfoodingredientdemand/"
   - key: "ViralHepatitisLiverCancerPrevention"
     title: "Viral Hepatitis and Liver-Cancer Prevention"
     url: "/wiki/concepts/viralhepatitislivercancerprevention/"

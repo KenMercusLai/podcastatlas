@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13664
+wiki_total_pages: 13665
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "PirateWires"
     title: "Pirate Wires"
     url: "/wiki/entities/piratewires/"
+  - key: "Pistachio"
+    title: "Pistachio / 开心果"
+    url: "/wiki/entities/pistachio/"
   - key: "PistoriusDemian"
     title: "Pistorius / 皮斯托留斯"
     url: "/wiki/entities/pistoriusdemian/"

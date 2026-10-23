@@ -37575,3 +37575,11 @@ Added source `46-guren-ruhe-changsheng-bulao-dongxifang-de-lianjinshu-liandanshu
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | 咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？
+
+Added source `kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s`; created [[Pistachio|开心果]], [[PistachioSupplyShock|开心果供应冲击]], and [[ViralFoodIngredientDemand|社交媒体爆款食材需求]]; and resynthesized [[MusePersonalAgent|Muse]] and [[AIEnabledVulnerabilityDiscovery]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: simultaneous U.S. and Iranian production pressure, import concentration, infrastructure and shipping constraints, and long orchard maturation make the pistachio shortage slow to correct, while Dubai chocolate and cross-category launches amplify an older snack-and-health demand base into procurement pressure. The source also adds episode-reported Muse commerce and device-distribution metrics and a legacy PHP vulnerability case without treating those claims as audited evidence. No settled contradiction was adopted. The sportswear buyer spelling and interest, beauty-company tests, production and trade figures, price movements, virality metrics, Muse metrics, and PHP findings remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,709 sources across 804 overview paragraphs and nine topics.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

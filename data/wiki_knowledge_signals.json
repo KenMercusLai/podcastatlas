@@ -3011,9 +3011,9 @@
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
     "AIEnabledVulnerabilityDiscovery": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
@@ -3042,9 +3042,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
           "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        },
+        {
+          "episode_file": "GKwRIW4Or9-VAG3OegTtWe_S [GKwRIW4Or9-VAG3OegTtWe_S].md",
+          "key": "kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
+          "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEntertainmentParticipationDesign": {
@@ -196605,9 +196612,9 @@
       "url": "/wiki/concepts/muscularchristianity/"
     },
     "MusePersonalAgent": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 6,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
@@ -196664,9 +196671,16 @@
           "show": "What's Next｜科技早知道",
           "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",
           "url": "/wiki/sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be/"
+        },
+        {
+          "episode_file": "GKwRIW4Or9-VAG3OegTtWe_S [GKwRIW4Or9-VAG3OegTtWe_S].md",
+          "key": "kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
+          "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-23",
       "url": "/wiki/entities/musepersonalagent/"
     },
     "MuseumInterpretationLegibility": {
@@ -218902,6 +218916,38 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/pishankingdomwesternhan/"
+    },
+    "Pistachio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Or9-VAG3OegTtWe_S [GKwRIW4Or9-VAG3OegTtWe_S].md",
+          "key": "kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
+          "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/pistachio/"
+    },
+    "PistachioSupplyShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Or9-VAG3OegTtWe_S [GKwRIW4Or9-VAG3OegTtWe_S].md",
+          "key": "kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
+          "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/pistachiosupplyshock/"
     },
     "PlaceBasedExhibitionCuration": {
       "episode_count": 1,
@@ -288918,6 +288964,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/violencetoinstitutionallegitimacy/"
+    },
+    "ViralFoodIngredientDemand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Or9-VAG3OegTtWe_S [GKwRIW4Or9-VAG3OegTtWe_S].md",
+          "key": "kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
+          "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/viralfoodingredientdemand/"
     },
     "ViralHepatitisLiverCancerPrevention": {
       "episode_count": 2,

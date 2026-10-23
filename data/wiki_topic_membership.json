@@ -70205,6 +70205,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PistachioSupplyShock": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PistoriusDemian": [
     {
       "key": "culture",

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1605
+topic_total_pages: 1606
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1765,6 +1765,9 @@ topic_concepts:
   - key: "PhysiognomyMoralAppearanceFallacy"
     title: "Physiognomy Moral Appearance Fallacy / 以貌定德谬误"
     url: "/wiki/concepts/physiognomymoralappearancefallacy/"
+  - key: "PistachioSupplyShock"
+    title: "Pistachio Supply Shock / 开心果供应冲击"
+    url: "/wiki/concepts/pistachiosupplyshock/"
   - key: "PlaceboNoceboExpectationEffects"
     title: "Placebo, Nocebo, and Expectation Effects"
     url: "/wiki/concepts/placebonoceboexpectationeffects/"

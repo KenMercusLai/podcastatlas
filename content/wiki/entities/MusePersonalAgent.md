@@ -11,7 +11,8 @@ sources:
   - ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1
   - tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128
   - cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be
-last_updated: 2026-10-22
+  - kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s
+last_updated: 2026-10-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ knowledge_schema: synthesis-v1
 Muse is described as [[Meta]]'s broad consumer personal-agent product, distinct from the wiki's [[MetaMuseModels|Muse model]] and [[MuseImage|Muse Image]] entities.
 
 ## Current Profile
-Muse represents the distribution-and-ecosystem route to personal agency. Meta can combine familiar consumer channels, social-interest and saved-content signals, free or subsidized compute, advertising reach, and per-user virtual machines to connect discovery and preferences to email, planning, shopping, booking, and transaction completion. Multiple sources now strengthen the mass-market-attention thesis through rankings, advertising reach, and rapid-download claims, but retention, economics, reliability, permission behavior, and error rates remain unverified.
+Muse represents the distribution-and-ecosystem route to personal agency. Meta can combine familiar consumer channels, social-interest and saved-content signals, free or subsidized compute, advertising reach, and per-user virtual machines to connect discovery and preferences to email, planning, shopping, booking, and transaction completion. Multiple sources strengthen the mass-market-attention thesis through rankings, promotion, downloads, and a new episode-reported claim of more than ten million U.S. and Canadian users. The planned commission model and smart-glasses access make commerce and device distribution more explicit, but retention, unit economics, reliability, permission behavior, and error rates remain unverified.
 
 Muse's value and risk are inseparable. Acting across accounts can save time, expose lower prices, and reduce cancellation friction, but it requires sensitive permissions, dependable recovery, clear human-fallback disclosure, and access to platforms that may prefer to preserve their own traffic and transaction control. [[KateMoran]] adds a product-design reason for its appeal: inbox review, action summaries, and approved follow-through state an outcome more clearly than a blank chat box or a request that consumers build their own workflow. The newest source adds an externality boundary: proactive calls may help one user while many agents contacting the same merchant overwhelm staff, so per-user limits are insufficient without destination-aware controls.
 
@@ -32,7 +33,7 @@ Muse's value and risk are inseparable. Acting across accounts can save time, exp
 - Depends on broad data and action permissions whose value is inseparable from user trust, privacy, and recovery.
 - Faces platform resistance when user convenience threatens an incumbent's traffic, advertising, transaction data, or competing-agent control.
 - Uses approachable consumer design to make action-taking agents legible beyond technical users.
-- May increase price transparency and cancellation power while bypassing interfaces and revenue pools used by marketplaces, app stores, and subscription businesses or shifting coordination costs onto merchants.
+- Seeks commerce revenue through transaction commissions while extending access toward smart glasses, potentially increasing price transparency and cancellation power while bypassing interfaces or shifting coordination costs onto merchants.
 
 ## Evidence
 - Distribution, context, and compute: [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] attributes Muse's route to Meta's channels, free strategy, interest data, and user virtual machines.
@@ -43,14 +44,14 @@ Muse's value and risk are inseparable. Acting across accounts can save time, exp
 - Q3 product boundary: [[ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1]] reports heavy Facebook and Instagram promotion, roughly 3.4 million downloads in under 20 days, cloud virtual machines, basic website-operation failures, Amazon restrictions, and refusal to accept bank credentials for a transfer.
 - Need-led product framing: [[tech-20261014-1014-mp-tech-pod-128-tech-20261014-1014-mp-tech-pod-128]] presents inbox review, required-action summaries, and approved execution as a more legible consumer proposition than vibe coding or an empty prompt.
 - Proactivity and merchant burden: [[cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be]] describes useful proactive suggestions but also merchant complaints about repeated calls and the failure of per-user limits to control aggregate contact.
+- Commercialization and device distribution: [[kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s]] reports more than ten million U.S. and Canadian users, shopping by over one-quarter of users, average purchases above $200, a transaction-commission plan, and intended smart-glasses access.
 
 ## Qualifications
-The sources report product impressions, rankings, download claims, isolated errors, merchant complaints, and strategic interpretation rather than verified architecture, retention, unit economics, safety, population error rates, or aggregate call volume. Saved and engagement data can be noisy or obsolete. A duplicate booking, failed menu interaction, or merchant complaint does not establish general unreliability, and rapid downloads do not establish habit or willingness to grant sensitive access. Refusing bank credentials shows one boundary, not a complete payment-safety system. Moran does not report using Muse herself and explicitly raises distrust of Meta's data handling, so her interface assessment is not a comparative product test. Claims about bypassing app-store fees, payment rails, marketplace power, and subscription breakage are forecasts rather than measured outcomes.
+The sources report product impressions, rankings, download and user claims, shopping metrics, isolated errors, merchant complaints, and strategic interpretation rather than verified architecture, retention, unit economics, safety, population error rates, or aggregate call volume. The newest figures appear in a compact news summary and are not audited here; a share of users entering shopping does not by itself establish repeat use, incremental sales, commission profitability, or safe purchasing. Saved and engagement data can be noisy or obsolete. A duplicate booking, failed menu interaction, or merchant complaint does not establish general unreliability, and rapid downloads do not establish habit or willingness to grant sensitive access. Refusing bank credentials shows one boundary, not a complete payment-safety system. Moran does not report using Muse herself and explicitly raises distrust of Meta's data handling, so her interface assessment is not a comparative product test. Claims about bypassing app-store fees, payment rails, marketplace power, and subscription breakage are forecasts rather than measured outcomes.
 
 ## What Changed
-- Added aggregate merchant-call burden as an externality that per-user controls may not contain.
-- Expanded the governance boundary from owner permission to third-party capacity, disclosure, and blocking.
-- Preserved the distinction between useful initiative and evidence of safe, scalable autonomy.
+- Added commission-based shopping and smart-glasses access as explicit commercialization and distribution directions.
+- Added source-reported user, shopping-share, and purchase-value signals while keeping retention, incrementality, safety, and economics unresolved.
 
 ## Relationships
 - [[Meta]] - company and distribution ecosystem behind the product in the sources.

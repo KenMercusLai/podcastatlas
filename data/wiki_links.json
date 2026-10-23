@@ -69851,6 +69851,14 @@
     "title": "《屁书》",
     "url": "/wiki/entities/pishubook/"
   },
+  "Pistachio": {
+    "title": "Pistachio / 开心果",
+    "url": "/wiki/entities/pistachio/"
+  },
+  "PistachioSupplyShock": {
+    "title": "Pistachio Supply Shock / 开心果供应冲击",
+    "url": "/wiki/concepts/pistachiosupplyshock/"
+  },
   "PistoriusDemian": {
     "title": "Pistorius / 皮斯托留斯",
     "url": "/wiki/entities/pistoriusdemian/"
@@ -92499,6 +92507,10 @@
     "title": "唯品会 / Vipshop",
     "url": "/wiki/entities/vipshop/"
   },
+  "ViralFoodIngredientDemand": {
+    "title": "Viral Food Ingredient Demand / 社交媒体爆款食材需求",
+    "url": "/wiki/concepts/viralfoodingredientdemand/"
+  },
   "ViralHepatitisLiverCancerPrevention": {
     "title": "Viral Hepatitis and Liver-Cancer Prevention",
     "url": "/wiki/concepts/viralhepatitislivercancerprevention/"
@@ -106134,6 +106146,10 @@
   "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406": {
     "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
     "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+  },
+  "kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s": {
+    "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
+    "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
   },
   "kafeidou-xierdunmen-ruzhu-xianyu-shichang-guoji-zhongduan-liansuo-jiudian-weihe-jiasu-kuozhang-1022026144": {
     "title": "咖啡豆｜「希尔顿们」入驻县域市场，国际中端连锁酒店为何加速扩张？",
