@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络](sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo.md) — 忽左忽右与汪玉娇梳理泰国侨批的汇兑、贸易、邮政、战争与国家治理史，并以代际身份和语言学习反思当代出海本地化。
 - [Songs of disenchantment: the sorrow of Nigeria](sources/songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d.md) — Economist Podcasts on Tinubu's electoral resilience amid Nigerian hardship, Europe's dependence on American space systems, and Jeffrey Archer's contradictory life.
 - [EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush](sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush.md) — Data Science With Sam interview with Dr. Zahra on AI-enabled leadership, human accountability, problem-first adoption, enterprise governance, and reinvesting productivity into ownership and opportunity.
 - [Vol.229 罚分之后，天津保级录 ft.申炜](sources/vol-229-fafen-zhihou-tianjin-baojilu-ft-shenwei-gkwrijeosmquazu-rgttvpfk.md) — 不懂球与申炜复盘天津津门虎从负十分到保级，连接续约、战术务实、低成本培养、团队文化、于根伟的双重角色与托管治理。
@@ -4811,6 +4812,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [总第074期：他们曾「见过」未来，于是创造了「现在」](sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42.md) — 读报teleread episode connecting science-fiction context stripping, AI subjectivity, Larry Ellison's island and business network, the imagination–capital flywheel, and success as maintained coordination.
 
 ## Entities
+- [Wang Yujiao / 汪玉娇](entities/WangYujiao.md) — Researcher using Thai qiaopi and multilingual archives to study remittance networks, Southeast Asian Chinese identity, and localization.
 - [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.
 - [Borno State](entities/BornoState.md) — Nigerian region where insecurity compounds weak services, hunger, aid withdrawal, and low turnout.
 - [OneWeb](entities/OneWeb.md) — Eutelsat-owned satellite constellation and incomplete European alternative to Starlink.
@@ -18570,6 +18572,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qianshou / 陆谦受](entities/LuQianshou.md) — Architect associated with Bank of China buildings that combine modern form with selected Chinese motifs and mythical animals.
 
 ## Concepts
+- [Language Learning as a Localization Signal / 语言学习作为本地化信号](concepts/LanguageLearningAsLocalizationSignal.md) — Learning a local language as access to social perspective and a visible signal of respect beyond literal translation.
 - [Low-Turnout Incumbency Advantage](concepts/LowTurnoutIncumbencyAdvantage.md) — mechanism by which danger and disengagement amplify an incumbent's organized loyalists.
 - [European Space Capability Dependence](concepts/EuropeanSpaceCapabilityDependence.md) — reliance on American communications, surveillance, missile-warning, and launch systems.
 - [AI Productivity Reinvestment](concepts/AIProductivityReinvestment.md) — Deliberately directing AI-saved time into intellectual property, market access, ownership, revenue, visibility, negotiating power, or influence.

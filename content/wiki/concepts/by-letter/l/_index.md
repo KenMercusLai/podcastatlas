@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10750
+wiki_total_pages: 10751
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "LanguageCompressionLabeling"
     title: "Language Compression Labeling / 语言压缩与标签化"
     url: "/wiki/concepts/languagecompressionlabeling/"
+  - key: "LanguageLearningAsLocalizationSignal"
+    title: "Language Learning as a Localization Signal / 语言学习作为本地化信号"
+    url: "/wiki/concepts/languagelearningaslocalizationsignal/"
   - key: "LanguageModelScalingBet"
     title: "Language Model Scaling Bet"
     url: "/wiki/concepts/languagemodelscalingbet/"

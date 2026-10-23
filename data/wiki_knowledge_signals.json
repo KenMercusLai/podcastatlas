@@ -21784,9 +21784,9 @@
       "url": "/wiki/entities/asiwind/"
     },
     "AsianDiasporaBelongingPressure": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "CKwRIaIEWlfYABAAAACimxKl [CKwRIaIEWlfYABAAAACimxKl].md",
@@ -21801,9 +21801,16 @@
           "show": "无时差研究所",
           "title": "EP134-从种族隔离的南非到92年的洛杉矶骚乱，全世界的平权走过了多少艰难岁月",
           "url": "/wiki/sources/ep134-cong-zhongzu-geli-de-nanfei-dao-92-nian-de-luoshanji-saoluan-quanshijie-de-pingquan-zouguo-le-duoshao-jiannan-suiyue-wkg5iv9bqfhcsvfcbefeypd8dsq114/"
+        },
+        {
+          "episode_file": "ltWAJSww37kmooFownSqmZAbGbZO [ltWAJSww37kmooFownSqmZAbGbZO].md",
+          "key": "510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo",
+          "show": "忽左忽右",
+          "title": "510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络",
+          "url": "/wiki/sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-23",
       "url": "/wiki/concepts/asiandiasporabelongingpressure/"
     },
     "AsianWomenAdvancingAI": {
@@ -159905,6 +159912,22 @@
       "updated": "2026-10-22",
       "url": "/wiki/concepts/languagecompressionlabeling/"
     },
+    "LanguageLearningAsLocalizationSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltWAJSww37kmooFownSqmZAbGbZO [ltWAJSww37kmooFownSqmZAbGbZO].md",
+          "key": "510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo",
+          "show": "忽左忽右",
+          "title": "510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络",
+          "url": "/wiki/sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/languagelearningaslocalizationsignal/"
+    },
     "LanguagePrecision": {
       "episode_count": 3,
       "show_count": 3,
@@ -230850,6 +230873,43 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/qiaoxuanshuscholar/"
     },
+    "QiaopiRemittanceNetworks": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "168. 银与信：一部日本劳工移民的跨洋汇款史 [lmGfmMGkAwOA_6XYUCnm1ljEbzWu].md",
+          "key": "168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu",
+          "show": "起朱楼宴宾客",
+          "title": "168. 银与信：一部日本劳工移民的跨洋汇款史",
+          "url": "/wiki/sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu/"
+        },
+        {
+          "episode_file": "No.207 闽南往事：众神人间办事处，涨海声中万国商 [992579918].md",
+          "key": "no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.207 闽南往事：众神人间办事处，涨海声中万国商",
+          "url": "/wiki/sources/no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918/"
+        },
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "ltWAJSww37kmooFownSqmZAbGbZO [ltWAJSww37kmooFownSqmZAbGbZO].md",
+          "key": "510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo",
+          "show": "忽左忽右",
+          "title": "510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络",
+          "url": "/wiki/sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/concepts/qiaopiremittancenetworks/"
+    },
     "Qiaoshan": {
       "episode_count": 2,
       "show_count": 1,
@@ -293581,6 +293641,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
+    },
+    "WangYujiao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltWAJSww37kmooFownSqmZAbGbZO [ltWAJSww37kmooFownSqmZAbGbZO].md",
+          "key": "510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo",
+          "show": "忽左忽右",
+          "title": "510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络",
+          "url": "/wiki/sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo/"
+        }
+      ],
+      "updated": "2026-10-23",
+      "url": "/wiki/entities/wangyujiao/"
     },
     "WangYuyan": {
       "episode_count": 1,

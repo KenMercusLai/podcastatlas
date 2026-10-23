@@ -37615,3 +37615,12 @@ Added source `zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-23] ingest | 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
+
+Added source `510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo`; created [[WangYujiao|汪玉娇]] and [[LanguageLearningAsLocalizationSignal|语言学习作为本地化信号]]; and resynthesized [[QiaopiRemittanceNetworks]] and [[AsianDiasporaBelongingPressure]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Thai qiaopi were decentralized hybrid infrastructure joining letters, receipts, remittances, trade settlement, postal and bank cooperation, route substitution, and last-mile hometown knowledge; that resilience coexisted with state conflict, wartime control, pooled-fund speculation, default, and customer loss. Later-generation Thai Chinese identity and contemporary overseas expansion also show why ancestry cannot substitute for local national understanding, and why language learning retains relational value alongside AI translation. No settled contradiction was adopted. Ethnic proportions, historical quantities, policy effects, wartime responsibility, clandestine routes, industry-end dates, and commercial localization outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,714 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 45 pre-existing broken links outside the changed pages.
+
+## [2026-10-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

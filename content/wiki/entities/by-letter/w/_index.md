@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13679
+wiki_total_pages: 13680
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "WangYuXinPrince"
     title: "Wang Yu / 王宇 (Xin prince)"
     url: "/wiki/entities/wangyuxinprince/"
+  - key: "WangYujiao"
+    title: "Wang Yujiao / 汪玉娇"
+    url: "/wiki/entities/wangyujiao/"
   - key: "WangZhenghua"
     title: "Wang Zhenghua / 王正华"
     url: "/wiki/entities/wangzhenghua/"
