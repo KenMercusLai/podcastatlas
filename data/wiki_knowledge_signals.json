@@ -158561,6 +158561,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/kumagaiandatsumori/"
     },
+    "KumagayaSixMurders2015": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FlbyadLkI0rvltUFP6PgjFh8zI-G [FlbyadLkI0rvltUFP6PgjFh8zI-G].md",
+          "key": "2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g",
+          "show": "日谈物语",
+          "title": "2026秋季篇E06 神秘的外国人！熊谷6人遇害事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/kumagayasixmurders2015/"
+    },
     "Kumasi": {
       "episode_count": 1,
       "show_count": 1,
@@ -202966,9 +202982,9 @@
       "url": "/wiki/entities/nitinmukesh/"
     },
     "NittanWuyu": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -203011,9 +203027,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E05 鸡娃悲剧！名校学生被杀案",
           "url": "/wiki/sources/2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm/"
+        },
+        {
+          "episode_file": "FlbyadLkI0rvltUFP6PgjFh8zI-G [FlbyadLkI0rvltUFP6PgjFh8zI-G].md",
+          "key": "2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g",
+          "show": "日谈物语",
+          "title": "2026秋季篇E06 神秘的外国人！熊谷6人遇害事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-10-24",
       "url": "/wiki/entities/nittanwuyu/"
     },
     "NiuJinLateHan": {

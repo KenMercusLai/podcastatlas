@@ -37640,3 +37640,11 @@ Added source `faguo-50-wan-ren-shangjie-yichang-gaozhong-kangyi-ruhe-shaobian-qu
 ## [2026-10-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | 2026秋季篇E06 神秘的外国人！熊谷6人遇害事件
+
+Added source `2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g`; created [[KumagayaSixMurders2015|2015年熊谷六人遇害事件]]; and resynthesized [[NittanWuyu|日谈物语]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the three-minute excerpt establishes only an unfamiliar man's entry into a Kumagaya yard, failed cross-language communication, Morita's lost-wallet inference, and his call to the neighboring fire station. No settled contradiction was adopted. The title's six deaths and the stranger's identity, nationality, actual request, connection to later events, victims, police response, motive, investigation, trial, and outcome remain unsupported by the excerpt; perceived appearance and limited Japanese are not treated as nationality evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,717 sources across 804 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E06 神秘的外国人！熊谷6人遇害事件](sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g.md) — 日谈物语 excerpt opening the 2015 Kumagaya case through an unfamiliar man's yard entry, cross-language ambiguity, and a resident's call to the neighboring fire station; it ends before the killings or investigation.
 - [510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络](sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo.md) — 忽左忽右与汪玉娇梳理泰国侨批的汇兑、贸易、邮政、战争与国家治理史，并以代际身份和语言学习反思当代出海本地化。
 - [Songs of disenchantment: the sorrow of Nigeria](sources/songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d.md) — Economist Podcasts on Tinubu's electoral resilience amid Nigerian hardship, Europe's dependence on American space systems, and Jeffrey Archer's contradictory life.
 - [EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush](sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush.md) — Data Science With Sam interview with Dr. Zahra on AI-enabled leadership, human accountability, problem-first adoption, enterprise governance, and reinvesting productivity into ownership and opportunity.
@@ -8715,7 +8716,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mavis](entities/MavisDuanReporter.md) — Reporter who frames Hong Kong's 旺旺 response as both animal solidarity and a test of changed public-action space.
 - [Mak Chi-ho / 麦志豪](entities/MakChiHoAnimalAdvocate.md) — Hong Kong animal-welfare advocate comparing earlier mainland-facing campaigns with the cautious 2026 旺旺 response.
 - [Hong Kong SPCA / 香港爱护动物协会](entities/HongKongSPCA.md) — Mainstream Hong Kong animal-protection body discussed through its statement and cruelty-footage takedown controversy.
-- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose 2026 autumn sequence connects individual cases to public health, environmental harm, medical ethics, labor, family pressure, and present uncertainty.
+- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose 2026 autumn sequence connects individual cases to public health, environmental harm, medical ethics, labor, family pressure, public safety, and present uncertainty.
+- [2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件](entities/KumagayaSixMurders2015.md) — Transcript-limited case page covering only the initial residential encounter and help-seeking call, not the six deaths, investigation, or outcome.
 - [1977 Akabane Filicide Case / 1977年赤羽弑子案](entities/AkabaneFilicideCase1977.md) — Source-reported Tokyo case opened by a father's surrender and confession, with family history, motive, and legal outcome still unresolved.
 - [淼叔 / Miao Shu](entities/MiaoShuNittanWuyu.md) — 日谈物语 host who carries the transition from seasonal conversation into social-history framing in the current source.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
