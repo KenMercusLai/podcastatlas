@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP290 方言翻红：现在的年轻人，为啥爱上说“土话”？](sources/ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk.md) — Talk三联 episode on dialect revival, identity, migration, subtitles, short-video feedback, rap, stand-up, and the tension between language preservation and performed accent.
 - [E249 对话叶檀：我不再是人生的过道人](sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x.md) — 知行小酒馆与叶檀从财经评论、个人IP创业和癌症经历出发，讨论停止工作的权力、疾病结果中的运气、悲悯、财富边界与普通日子的价值。
 - [E250 为什么学了这么多知识，却还是做不好投资？](sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq.md) — 知行小酒馆与 Shirley 从目标、个人适配、完整周期、投资日志和环境设计解释为何投资知识不会自动变成稳定行动。
 - [E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？](sources/e251-duihua-fangyan-ni-xiangxin-de-shi-jiazhi-touzi-haishi-bafeite-de-zaofu-shenhua-logxctjkal3ai1enfwxdd8j9fpv2.md) — 知行小酒馆与方言把价值投资还原为长期本金、持续现金流、经营认知、能力圈和行为约束，并为多数普通人保留指数投资路径。
@@ -4826,6 +4827,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
 ## Entities
+- [Yamy](entities/Yamy.md) — Rapper whose return to Cantonese creation is framed through migration, deliberate relearning, and subtitle-enabled audience access.
+- [揽佬 / Lan Lao](entities/LanLao.md) — Rapper using mixed “广普/惠州普通话” and local Guangdong social experience as a regional creative signature.
 - [Ye Tan / 叶檀](entities/YeTan.md) — Financial commentator, writer, and entrepreneur whose illness prompted a non-repudiating reassessment of ambition, wealth, compassion, and ordinary life.
 - [Shirley（投资教练） / Shirley (Investment Coach)](entities/ShirleyInvestmentCoach.md) — 以目标、适配、记录、完整周期和环境设计帮助普通投资者建立自主体系的金融从业者与兼职教练。
 - [老钱 / Lao Qian (知行小酒馆)](entities/LaoQianZhixing.md) — 以机会成本、地方规则和房地产结构变化分析公积金与住房决策的小酒馆主播。
@@ -18597,6 +18600,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [Dialect Revival and Identity / 方言回潮与身份认同](concepts/DialectRevivalIdentity.md) — Regional speech renewed through migration, relearning, family memory, and temporary language communities without requiring linguistic purity.
+- [Platformed Dialect Circulation / 方言的平台化传播](concepts/PlatformedDialectCirculation.md) — How subtitles, feedback, comments, imitation, and memes widen dialect reach while reshaping its performance and meaning.
 - [Illness Outcome Moralization Boundary / 疾病结果道德化边界](concepts/IllnessOutcomeMoralizationBoundary.md) — Separates treatment participation from virtue-based judgments that courage, willpower, or perfect rationality determine survival and recovery.
 - [Value-Investing Prerequisite Stack / 价值投资前提栈](concepts/ValueInvestingPrerequisiteStack.md) — 将可长期等待的本金、外部现金流、经营认知、估值纪律和行为可持有性组合为主动价值投资的前提检查框架。
 - [Housing Provident Fund Use Decision / 住房公积金使用决策](concepts/HousingProvidentFundUseDecision.md) — 结合合规用途、未来贷款、现金流、机会成本与行为执行选择提取、留存或贷款的框架。

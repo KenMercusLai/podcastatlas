@@ -37718,3 +37718,11 @@ Added source `e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | EP290 方言翻红：现在的年轻人，为啥爱上说“土话”？
+
+Added source `ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk`; created [[Yamy]], [[LanLao|揽佬]], [[DialectRevivalIdentity|方言回潮与身份认同]], and [[PlatformedDialectCirculation|方言的平台化传播]]; and resynthesized [[ShortVideoTrafficLogic|短视频流量逻辑]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: dialect revival can reconnect speakers with family memory, local social rhythm, and identity after migration or language loss; subtitles and emotionally legible scenes help unfamiliar speech cross regions; and platform feedback can surface habitual language while also intensifying accent and persona for recognition. No settled contradiction was adopted. The cases, language-structure claims, generational-loss observations, audience patterns, and platform effects remain episode-attributed and source-scoped rather than representative linguistic or analytics evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,727 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 45 pre-existing broken-link occurrences outside this ingest's changed pages.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

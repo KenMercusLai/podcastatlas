@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13690
+wiki_total_pages: 13692
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "LazyBearSports"
     title: "懒熊体育 / LazyBear Sports"
     url: "/wiki/entities/lazybearsports/"
+  - key: "LanLao"
+    title: "揽佬 / Lan Lao"
+    url: "/wiki/entities/lanlao/"
   - key: "LiuBoChangyiKingWesternHan"
     title: "昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)"
     url: "/wiki/entities/liubochangyikingwesternhan/"

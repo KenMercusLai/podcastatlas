@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10770
+wiki_total_pages: 10772
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "PlatformPipelineBiotechStrategy"
     title: "Platform-Pipeline Biotech Strategy"
     url: "/wiki/concepts/platformpipelinebiotechstrategy/"
+  - key: "PlatformedDialectCirculation"
+    title: "Platformed Dialect Circulation / 方言的平台化传播"
+    url: "/wiki/concepts/platformeddialectcirculation/"
   - key: "PlatformizedDramaProduction"
     title: "Platformized Drama Production"
     url: "/wiki/concepts/platformizeddramaproduction/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10770
+wiki_total_pages: 10772
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "DiagnosticUltrasoundModalitySelection"
     title: "Diagnostic Ultrasound Modality Selection / 诊断超声方式选择"
     url: "/wiki/concepts/diagnosticultrasoundmodalityselection/"
+  - key: "DialectRevivalIdentity"
+    title: "Dialect Revival and Identity / 方言回潮与身份认同"
+    url: "/wiki/concepts/dialectrevivalidentity/"
   - key: "DialectConstrainedSongwriting"
     title: "Dialect-Constrained Songwriting / 方言声调约束下的写歌"
     url: "/wiki/concepts/dialectconstrainedsongwriting/"
