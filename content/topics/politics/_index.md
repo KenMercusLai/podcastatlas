@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3389
+topic_total_pages: 3394
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2260,6 +2260,9 @@ topic_concepts:
   - key: "IntellectualResponsibilityUnderAuthoritarianism"
     title: "Intellectual Responsibility Under Authoritarianism"
     url: "/wiki/concepts/intellectualresponsibilityunderauthoritarianism/"
+  - key: "InterdependentFutureGovernance"
+    title: "Interdependent Future Governance"
+    url: "/wiki/concepts/interdependentfuturegovernance/"
   - key: "InterestReframingPersuasion"
     title: "Interest Reframing Persuasion / 利益重构式说服"
     url: "/wiki/concepts/interestreframingpersuasion/"
@@ -2638,6 +2641,9 @@ topic_concepts:
   - key: "May1940BritishWarCabinetCrisis"
     title: "May 1940 British War Cabinet Crisis"
     url: "/wiki/concepts/may1940britishwarcabinetcrisis/"
+  - key: "MeasurablePublicDeliberation"
+    title: "Measurable Public Deliberation"
+    url: "/wiki/concepts/measurablepublicdeliberation/"
   - key: "MediaOwnershipIndependenceRisk"
     title: "Media Ownership Independence Risk"
     url: "/wiki/concepts/mediaownershipindependencerisk/"
@@ -6371,6 +6377,9 @@ topic_entities:
   - key: "GiulianoDeMedici"
     title: "Giuliano de' Medici"
     url: "/wiki/entities/giulianodemedici/"
+  - key: "GlobalInstituteForTheFuture"
+    title: "Global Institute for the Future"
+    url: "/wiki/entities/globalinstituteforthefuture/"
   - key: "GnaeusOctaviusRomanConsul"
     title: "Gnaeus Octavius / 格奈乌斯·屋大维"
     url: "/wiki/entities/gnaeusoctaviusromanconsul/"
@@ -6767,6 +6776,9 @@ topic_entities:
   - key: "JordanBardella"
     title: "Jordan Bardella"
     url: "/wiki/entities/jordanbardella/"
+  - key: "JorgeBrown"
+    title: "Jorge Brown"
+    url: "/wiki/entities/jorgebrown/"
   - key: "JorgeRodriguez"
     title: "Jorge Rodriguez"
     url: "/wiki/entities/jorgerodriguez/"
@@ -9540,6 +9552,9 @@ topic_sources:
   - key: "tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128"
     title: "The 'biohacking' trend that has tech workers experimenting on themselves"
     url: "/wiki/sources/tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128/"
+  - key: "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730"
+    title: "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
   - key: "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad"
     title: "The 250-year experiment: America's birthday"
     url: "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"

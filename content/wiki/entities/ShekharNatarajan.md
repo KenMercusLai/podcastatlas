@@ -13,17 +13,18 @@ sources:
   - defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981
   - default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031
   - default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643
-last_updated: 2026-10-23
+  - defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730
+last_updated: 2026-10-25
 knowledge_schema: synthesis-v1
 ---
 
 # Shekhar Natarajan
 
 ## Overview
-Shekhar Natarajan is the host of [[TomorrowToday]] across the wiki's current sources. His interviews use guest biography to explore branding, resilience, spirituality, survival, elite sport, public institutions, creative and platform work, inequality, leadership, and the human and governance questions raised by AI.
+Shekhar Natarajan is the host of [[TomorrowToday]] across the wiki's current sources. His interviews use guest biography to explore branding, resilience, spirituality, survival, elite sport, public institutions, creative and platform work, inequality, geopolitics, leadership, and the human and governance questions raised by AI.
 
 ## Current Profile
-The bounded sources present Shekhar as an interviewer who turns life stories into operating questions. With [[AndyStalman]], he pushes branding toward values, process, privacy, and [[AngelicIntelligence]]. With [[AraceliSegarra]], he connects Everest, uncertainty, safe teams, and the human “why” under AI. With [[ShyalpaRinpoche]], he tests spiritual claims against democracy, war, meaning scarcity, and peace infrastructure. With [[NataliaOlson]], he brings logistics experience into duplicated delivery networks, open government, sovereign infrastructure, and governed autonomy. With [[AdahSharma]], he links acting, rejection, public backlash, and AI's double edge for access and labor. With [[ChetanBhagat]], he connects education, platform inequality, intent-sensitive AI safety, authorship, cognition, and life after conventional success. With [[AlvaroVizcaino|Álvaro Vizcaíno]], he examines fear, acceptance, loss, and action. With [[AndreaFuentes]], he moves from Olympic biography and family grief into athlete autonomy, shared purpose, pain, safety, and whether a coach succeeds by making athletes less dependent on the coach. With [[MaheshKeshwala|Thugesh]], he turns a creator biography into questions about format cycles, channel design, packaging, attention addiction, human dignity, consent, and AI-mediated production. With [[JuanVerde]], he connects generosity and public service to responsible commerce, sustainability, political fragmentation, candid advice, and the danger of pursuing AI efficiency without dignity.
+The bounded sources present Shekhar as an interviewer who turns life stories into operating questions. With [[AndyStalman]], he pushes branding toward values, process, privacy, and [[AngelicIntelligence]]. With [[AraceliSegarra]], he connects Everest, uncertainty, safe teams, and the human “why” under AI. With [[ShyalpaRinpoche]], he tests spiritual claims against democracy, war, meaning scarcity, and peace infrastructure. With [[NataliaOlson]], he brings logistics experience into duplicated delivery networks, open government, sovereign infrastructure, and governed autonomy. With [[AdahSharma]], he links acting, rejection, public backlash, and AI's double edge for access and labor. With [[ChetanBhagat]], he connects education, platform inequality, intent-sensitive AI safety, authorship, cognition, and life after conventional success. With [[AlvaroVizcaino|Álvaro Vizcaíno]], he examines fear, acceptance, loss, and action. With [[AndreaFuentes]], he moves from Olympic biography and family grief into athlete autonomy, shared purpose, pain, safety, and whether a coach succeeds by making athletes less dependent on the coach. With [[MaheshKeshwala|Thugesh]], he turns a creator biography into questions about format cycles, channel design, packaging, attention addiction, human dignity, consent, and AI-mediated production. With [[JuanVerde]], he connects generosity and public service to responsible commerce, sustainability, political fragmentation, candid advice, and the danger of pursuing AI efficiency without dignity. With [[JorgeBrown]], he links AI, democracy, resources, longevity, automation, security, wealth, and future generations into a single governance problem while pressing broad principles toward accountable action.
 
 ## Key Characteristics
 - Frames long-form guest stories as questions about identity, purpose, leadership, institutions, and technology.
@@ -44,14 +45,15 @@ The bounded sources present Shekhar as an interviewer who turns life stories int
 - Coaching, purpose, and safety - [[defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981]] follows Fuentes from athletic formation through team conflict, shared purpose, the Budapest rescue, retirement, and independent athlete problem-solving.
 - Creator systems and human dignity - [[default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031]] connects Keshwala's creator operations to platform compulsion, creator responsibility, likeness authorization, synthetic saturation, and the cost of treating efficiency as the only objective.
 - Commerce, sustainability, and social transition - [[default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643]] connects Verde's diplomatic and business biography to generosity, responsible trade, long-term resilience, [[ConstructiveDissent]], and [[EfficiencyWithoutDignity]].
+- Futures, institutions, and stewardship - [[defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730]] connects Brown's systems framing to concentrated AI power, democratic legitimacy, resource infrastructure, longevity, security, inequality, and measurable public commitments.
 
 ## Qualifications
-The page is bounded to ten ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those interviews. His logistics ventures, childhood conditions, corporate departure, highway near-miss, and family loss are self-reported within the represented conversations. His claims about AI optimization, labor dignity, generated-content feedback, and globalization's social costs remain conversational arguments rather than independently established findings.
+The page is bounded to eleven ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those interviews. His logistics ventures, childhood conditions, corporate departure, highway near-miss, and family loss are self-reported within the represented conversations. His claims about AI optimization, labor dignity, generated-content feedback, globalization's social costs, contextual machine limits, and future institutions remain conversational arguments rather than independently established findings.
 
 ## What Changed
-- Added diplomacy, international commerce, sustainability strategy, and political fragmentation to the represented interview range.
-- Strengthened the recurring link between AI efficiency, labor dignity, institutional values, and transition costs.
-- Added candid advice and listening to disagreement as explicit leadership mechanisms.
+- Added cross-domain futures, multilateral legitimacy, longevity, autonomous warfare, and intergenerational stewardship to the represented interview range.
+- Strengthened the recurring link between AI governance, material infrastructure, democratic participation, and concentrated information power.
+- Added measurable public commitments as a response to dialogue without implementation.
 
 ## Relationships
 - [[TomorrowToday]] - show he hosts in the represented sources.
@@ -65,7 +67,9 @@ The page is bounded to ten ingested Tomorrow Today episodes. It does not infer S
 - [[AndreaFuentes]] - Olympic swimmer and coach who develops athlete-centered leadership and safety.
 - [[MaheshKeshwala|Mahesh Keshwala / Thugesh]] - creator guest who develops format, platform, attention, and AI-production questions.
 - [[JuanVerde]] - diplomacy and sustainability guest who develops responsible commerce, multilateralism, resilience, and dignity-aware AI questions.
+- [[JorgeBrown]] - futurist guest who develops interdependent governance, institutional redesign, and stewardship questions.
 - [[AngelicIntelligence]] - human-centered AI term Shekhar explains.
 - [[AthleteCenteredPerformanceCulture]] - leadership branch sharpened by his questions about purpose and coach dependence.
 - [[SyntheticContentTrainingFeedback]] - information-quality branch sharpened by his garbage-in, garbage-out example.
 - [[EfficiencyWithoutDignity]] - social-cost frame sharpened through the globalization-to-AI analogy.
+- [[InterdependentFutureGovernance]] - systems frame sharpened through links among AI, resources, work, security, and longevity.

@@ -3676,9 +3676,9 @@
       "url": "/wiki/entities/aiimpactsummitindia/"
     },
     "AIIndustrialCapture": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
@@ -3686,9 +3686,16 @@
           "show": "Data Science With Sam",
           "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
           "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-25",
       "url": "/wiki/concepts/aiindustrialcapture/"
     },
     "AIIndustrializationThreeStages": {
@@ -112468,9 +112475,9 @@
       "url": "/wiki/entities/glenjeffery/"
     },
     "GlobalAIGovernanceFramework": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
@@ -112492,9 +112499,16 @@
           "show": "Data Science With Sam",
           "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
           "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-25",
       "url": "/wiki/concepts/globalaigovernanceframework/"
     },
     "GlobalConflictAttentionInequality": {
@@ -112512,6 +112526,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/globalconflictattentioninequality/"
+    },
+    "GlobalInstituteForTheFuture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/entities/globalinstituteforthefuture/"
     },
     "GlobalProductLocalization": {
       "episode_count": 15,
@@ -142254,6 +142284,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/interpath001/"
     },
+    "InterdependentFutureGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/concepts/interdependentfuturegovernance/"
+    },
     "InterestBasedNegotiation": {
       "episode_count": 3,
       "show_count": 2,
@@ -153639,6 +153685,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jorgeanaya/"
+    },
+    "JorgeBrown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/entities/jorgebrown/"
     },
     "JoseAngelPereira": {
       "episode_count": 1,
@@ -186632,6 +186694,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/meaningthroughexperience/"
+    },
+    "MeasurablePublicDeliberation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/concepts/measurablepublicdeliberation/"
     },
     "Mecca": {
       "episode_count": 2,
@@ -254162,9 +254240,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -254235,9 +254313,16 @@
           "show": "Tomorrow, Today",
           "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-10-25",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -281692,9 +281777,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -281765,9 +281850,16 @@
           "show": "Tomorrow, Today",
           "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
+          "key": "defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730",
+          "show": "Tomorrow, Today",
+          "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-10-25",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {

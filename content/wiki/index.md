@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730.md) — Tomorrow Today interview on concentrated AI power, democratic legitimacy, interdependent future challenges, institutional redesign, measurable public deliberation, and stewardship.
 - [少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠](sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82.md) — 42章经访谈淏楠，以其 Agent、多模态 RL Infra 与具身预训练经历比较视频生成、实时互动、世界模型、真实数据和分层机器人部署。
 - [EP290 方言翻红：现在的年轻人，为啥爱上说“土话”？](sources/ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk.md) — Talk三联 episode on dialect revival, identity, migration, subtitles, short-video feedback, rap, stand-up, and the tension between language preservation and performed accent.
 - [E249 对话叶檀：我不再是人生的过道人](sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x.md) — 知行小酒馆与叶檀从财经评论、个人IP创业和癌症经历出发，讨论停止工作的权力、疾病结果中的运气、悲悯、财富边界与普通日子的价值。
@@ -4828,6 +4829,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
 ## Entities
+- [Jorge Brown](entities/JorgeBrown.md) — Futurist connecting AI, institutions, resources, security, inequality, and future generations through a systems-governance frame.
+- [Global Institute for the Future](entities/GlobalInstituteForTheFuture.md) — Jorge Brown's futures organization as presented in the bounded Tomorrow Today interview.
 - [淏楠（多模态与具身 AI 从业者）](entities/HaoNanMultimodalEmbodiedAI.md) — 曾参与语言 Agent 数据、腾讯混元多模态 RL Infra 与具身基础模型预训练的跨方向从业者。
 - [Yamy](entities/Yamy.md) — Rapper whose return to Cantonese creation is framed through migration, deliberate relearning, and subtitle-enabled audience access.
 - [揽佬 / Lan Lao](entities/LanLao.md) — Rapper using mixed “广普/惠州普通话” and local Guangdong social experience as a regional creative signature.
@@ -18602,6 +18605,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [Interdependent Future Governance](concepts/InterdependentFutureGovernance.md) — Governance frame treating AI, resources, work, public finance, security, longevity, and legitimacy as coupled systems.
+- [Measurable Public Deliberation](concepts/MeasurablePublicDeliberation.md) — Forum design joining protected disagreement to specific, short-horizon, publicly checkable commitments.
 - [Robot Failure-Recovery Escalation / 机器人失败恢复分层接管](concepts/RobotFailureRecoveryEscalation.md) — 本地控制模型执行、强模型接管疑难失败、人工兜底并以恢复轨迹反哺小模型的部署模式。
 - [Dialect Revival and Identity / 方言回潮与身份认同](concepts/DialectRevivalIdentity.md) — Regional speech renewed through migration, relearning, family memory, and temporary language communities without requiring linguistic purity.
 - [Platformed Dialect Circulation / 方言的平台化传播](concepts/PlatformedDialectCirculation.md) — How subtitles, feedback, comments, imitation, and memes widen dialect reach while reshaping its performance and meaning.

@@ -37734,3 +37734,11 @@ Added source `shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-q
 ## [2026-10-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-25] ingest | The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan
+
+Added source `defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730`; created [[JorgeBrown]], [[GlobalInstituteForTheFuture]], [[InterdependentFutureGovernance]], and [[MeasurablePublicDeliberation]]; and resynthesized [[ShekharNatarajan]], [[TomorrowToday]], [[AIIndustrialCapture]], and [[GlobalAIGovernanceFramework]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: AI, democracy, resources, employment, longevity, public finance, security, inequality, and trade form a coupled governance system; concentrated capability and user information require accountable values and evidence access; and public disagreement becomes institutionally useful only when it leads to owned, time-bounded, checkable action. No settled contradiction was adopted. Institutional decline, AI-company influence, infrastructure demand, military transformation, wealth, trade, biographical details, and policy forecasts remain conversational or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,729 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

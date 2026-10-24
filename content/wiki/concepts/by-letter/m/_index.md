@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10773
+wiki_total_pages: 10775
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "MeaningThroughExperience"
     title: "Meaning Through Experience"
     url: "/wiki/concepts/meaningthroughexperience/"
+  - key: "MeasurablePublicDeliberation"
+    title: "Measurable Public Deliberation"
+    url: "/wiki/concepts/measurablepublicdeliberation/"
   - key: "MeasuredChannelTesting"
     title: "Measured Channel Testing"
     url: "/wiki/concepts/measuredchanneltesting/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13693
+wiki_total_pages: 13695
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "GlobalEntrepreneurshipMonitor"
     title: "Global Entrepreneurship Monitor"
     url: "/wiki/entities/globalentrepreneurshipmonitor/"
+  - key: "GlobalInstituteForTheFuture"
+    title: "Global Institute for the Future"
+    url: "/wiki/entities/globalinstituteforthefuture/"
   - key: "Globalstar"
     title: "Globalstar"
     url: "/wiki/entities/globalstar/"
