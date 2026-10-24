@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2305
+topic_total_pages: 2307
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -175,6 +175,9 @@ topic_concepts:
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  - key: "AIInvestmentDemandConcentration"
+    title: "AI Investment Demand Concentration"
+    url: "/wiki/concepts/aiinvestmentdemandconcentration/"
   - key: "AIInvestmentMarginDrag"
     title: "AI Investment Margin Drag / AI投入拖累利润"
     url: "/wiki/concepts/aiinvestmentmargindrag/"
@@ -358,6 +361,9 @@ topic_concepts:
   - key: "AutomationReinstatementEffect"
     title: "Automation Reinstatement Effect"
     url: "/wiki/concepts/automationreinstatementeffect/"
+  - key: "AutonomousAgentTransactionLiability"
+    title: "Autonomous Agent Transaction Liability"
+    url: "/wiki/concepts/autonomousagenttransactionliability/"
   - key: "AveragingDown"
     title: "Averaging Down"
     url: "/wiki/concepts/averagingdown/"

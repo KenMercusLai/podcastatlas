@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10755
+wiki_total_pages: 10760
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "FiscalMonetaryTransmissionDifference"
     title: "Fiscal-Monetary Transmission Difference / 财政与货币传导差异"
     url: "/wiki/concepts/fiscalmonetarytransmissiondifference/"
+  - key: "FiscalSocialCrisisFeedback"
+    title: "Fiscal-Social Crisis Feedback"
+    url: "/wiki/concepts/fiscalsocialcrisisfeedback/"
   - key: "FishOilNaturalStatinBoundary"
     title: "Fish Oil Natural Statin Boundary / 鱼油不是天然他汀"
     url: "/wiki/concepts/fishoilnaturalstatinboundary/"

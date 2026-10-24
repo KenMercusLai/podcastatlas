@@ -3,16 +3,16 @@
 generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
-last_updated: 2026-10-05
-as_of_overview_commit: 71a83c10f8885631f528e3c44302793ca34fc1e8
-input_digest: 8eb337f69b9429b1aae4cbd7eab1b8485401f2dbd650db4e3cd48baa12a5bffc
+last_updated: 2026-10-24
+as_of_overview_commit: 9b8259aa4657cdce081e2d0a07217544428bb0d6
+input_digest: 49e73a3972b255f7232b11ddc7204b114b5b7fa2892caeaaaa65e062e57e5b3e
 ---
 
 # Business and Markets
 
 ## Current State
 
-The How I Built This anniversary adds a founder-market discipline: repeated problem solving, rejection tolerance, and bounded risk can increase opportunity exposure, but financing and growth must match the desired company while health, identity, luck, and survivor bias remain material constraints. Across the bounded business-and-markets record, durable value depends on cash flow, unit economics, governance, capital structure, distribution, operating execution, and the price paid rather than narrative momentum alone. The newest All-In addition connects those tests across AI layers: compute can remain scarce while particular infrastructure financings or pivots are overvalued, coding-model revenue can accelerate while scaled enterprise profit remains unproven, and a renamed public company can become a bubble signal without proving the underlying infrastructure category is unsound. Financial, transaction, valuation, policy, and geopolitical claims remain source-scoped.
+Across the bounded business-and-markets record, durable value depends on cash flow, unit economics, governance, capital structure, distribution, operating execution, and the price paid rather than narrative momentum alone. Founder opportunity, financing, health, identity, luck, and survivor bias remain material constraints. The newest All-In evidence adds that concentrated, venture-funded AI spending can accelerate supplier revenue before broad profitable adoption is demonstrated, while hybrid open-weight deployment can change who controls models without requiring buyers to own global compute infrastructure. Useful technology, scarce capacity, company solvency, and investor return remain separate questions, and all concentration, transaction, valuation, policy, and geopolitical claims remain source-scoped.
 
 ## Cross-source Findings
 
@@ -1328,3 +1328,15 @@ The supplement case shows category awareness being created outside official chan
 
 - The episode is literary history rather than a market study and does not quantify the commercial value of Boswell's book or competing Johnson publications.
 - Boswell's jealousy and minimization of Hester are episode interpretations, while dialogue, motive, private guilt, sexuality, and the claim that the book invented modern biography remain source-scoped.
+
+### Ai Demand Quality And Hybrid Deployment Shape Commercial Durability
+
+[[allin-e294-ch-allin-e294-ch|All-In E294]] adds a demand-quality test: [[AIInvestmentDemandConcentration]] asks whether venture-funded spending diffuses into profitable enterprise outcomes, while [[EnterpriseOpenWeightDeployment]] shows that buyers can seek model control and data governance without owning the full compute stack.
+
+**Evidence:** [[allin-e294-ch-allin-e294-ch]], [[AIInvestmentDemandConcentration]], [[EnterpriseOpenWeightDeployment]]
+
+**Qualifications:**
+
+- The source does not disclose the dataset or method behind its AI-spending concentration estimate and does not prove accounting circularity, a bubble, or an imminent demand collapse.
+- The bank self-build example and hybrid open-weight deployment forecast are operator accounts rather than comparative total-cost studies.
+- Useful technology, infrastructure scarcity, company solvency, and investor return remain separate questions.

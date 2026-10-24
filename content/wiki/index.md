@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?](sources/allin-e294-ch-allin-e294-ch.md) — All-In on concentrated AI demand, hybrid open-weight enterprise deployment, assume-breach cyber defense, agent transaction liability, and contested French fiscal-social reform.
 - [2026秋季篇E06 神秘的外国人！熊谷6人遇害事件](sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g.md) — 日谈物语 excerpt opening the 2015 Kumagaya case through an unfamiliar man's yard entry, cross-language ambiguity, and a resident's call to the neighboring fire station; it ends before the killings or investigation.
 - [510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络](sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo.md) — 忽左忽右与汪玉娇梳理泰国侨批的汇兑、贸易、邮政、战争与国家治理史，并以代际身份和语言学习反思当代出海本地化。
 - [Songs of disenchantment: the sorrow of Nigeria](sources/songs-of-disenchantment-the-sorrow-of-nigeria-6275426999307c5f9d5c7073a5b16e0d.md) — Economist Podcasts on Tinubu's electoral resilience amid Nigerian hardship, Europe's dependence on American space systems, and Jeffrey Archer's contradictory life.
@@ -11896,8 +11897,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google X](entities/GoogleX.md) — Google moonshot-incubation context in Maris's account of helping build projects such as Waymo and Calico.
 - [Calico](entities/Calico.md) — Google-linked life-sciences company Maris says he founded, used in the source to ground his computational-biology interest.
 - [Cohere](entities/Cohere.md) — AI company named as a Section 32 portfolio example in Maris's small-fund performance argument.
-- [Nikesh Arora](entities/NikeshArora.md) — Palo Alto Networks CEO linking verified AI vulnerability discovery, model-portfolio economics, analytical software pressure, and security-platform consolidation.
-- [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company grounding AI vulnerability discovery, false-positive control, shared defense, and integrated security-platform strategy.
+- [Nikesh Arora](entities/NikeshArora.md) — Palo Alto Networks CEO linking verified vulnerability discovery, open-weight enterprise deployment, assume-breach resilience, and security-platform consolidation.
+- [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company grounding AI vulnerability discovery, false-positive control, integrated telemetry, and assume-breach response.
 - [Mythos AI Security Test](entities/MythosAISecurityTest.md) — Source-scoped Palo Alto Networks test of AI-assisted vulnerability discovery, kept separate from earlier Methos/Glasswing/Glassfin naming until reconciled.
 - [Change Healthcare](entities/ChangeHealthcare.md) — Healthcare cyber-disruption example used by Nikesh Arora to show how weak ordinary systems can create broad economic impact.
 - [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in All-In episodes on private-market secondaries, AI IPO disclosure, compute channel conflict, the offtake-versus-capex market check, and Trump accounts.
@@ -18583,6 +18584,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [AI Investment Demand Concentration](concepts/AIInvestmentDemandConcentration.md) — Risk that narrow, externally financed AI demand makes supplier growth a weak proxy for broad profitable adoption.
+- [Enterprise Open-Weight Deployment](concepts/EnterpriseOpenWeightDeployment.md) — Hybrid pattern combining enterprise-controlled models with externally supplied compute capacity.
+- [Assume-Breach Cyber Defense](concepts/AssumeBreachCyberDefense.md) — Resilience posture measuring detection, containment, recovery, and blast radius alongside prevention.
+- [Autonomous Agent Transaction Liability](concepts/AutonomousAgentTransactionLiability.md) — Responsibility map for agent actions across user mandates, safeguard bypass, platform controls, and product deviation.
+- [Fiscal-Social Crisis Feedback](concepts/FiscalSocialCrisisFeedback.md) — Qualified loop among public outcomes, fiscal constraints, unrest, financing costs, and contested reform incidence.
 - [Foldable Hardware Durability](concepts/FoldableHardwareDurability.md) — Separating hinge endurance and repeated fold operation from crease visibility, lifetime reliability, and real-world damage.
 - [Musk Corporate Consolidation](concepts/MuskCorporateConsolidation.md) — Possible integration of Musk-controlled space, vehicle, AI, communications, and social-media businesses, weighed against shareholder and private-power risks.
 - [Language Learning as a Localization Signal / 语言学习作为本地化信号](concepts/LanguageLearningAsLocalizationSignal.md) — Learning a local language as access to social perspective and a visible signal of respect beyond literal translation.

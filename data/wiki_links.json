@@ -5907,6 +5907,10 @@
     "title": "AI Interviewing",
     "url": "/wiki/concepts/aiinterviewing/"
   },
+  "AIInvestmentDemandConcentration": {
+    "title": "AI Investment Demand Concentration",
+    "url": "/wiki/concepts/aiinvestmentdemandconcentration/"
+  },
   "AIInvestmentMarginDrag": {
     "title": "AI Investment Margin Drag / AI投入拖累利润",
     "url": "/wiki/concepts/aiinvestmentmargindrag/"
@@ -11575,6 +11579,10 @@
     "title": "Associative Knowledge Systems / 联想式知识系统",
     "url": "/wiki/concepts/associativeknowledgesystems/"
   },
+  "AssumeBreachCyberDefense": {
+    "title": "Assume-Breach Cyber Defense",
+    "url": "/wiki/concepts/assumebreachcyberdefense/"
+  },
   "AstraZeneca": {
     "title": "AstraZeneca / 阿斯利康",
     "url": "/wiki/entities/astrazeneca/"
@@ -12202,6 +12210,10 @@
   "AutonomicStressTraining": {
     "title": "Autonomic Stress Training",
     "url": "/wiki/concepts/autonomicstresstraining/"
+  },
+  "AutonomousAgentTransactionLiability": {
+    "title": "Autonomous Agent Transaction Liability",
+    "url": "/wiki/concepts/autonomousagenttransactionliability/"
   },
   "AutonomousBelongingChoice": {
     "title": "归属中的自主选择 / Autonomous Belonging Choice",
@@ -31259,6 +31271,10 @@
     "title": "Enterprise Internal Email Infrastructure",
     "url": "/wiki/concepts/enterpriseinternalemailinfrastructure/"
   },
+  "EnterpriseOpenWeightDeployment": {
+    "title": "Enterprise Open-Weight Deployment",
+    "url": "/wiki/concepts/enterpriseopenweightdeployment/"
+  },
   "EnterpriseOperationalMemory": {
     "title": "Enterprise Operational Memory",
     "url": "/wiki/concepts/enterpriseoperationalmemory/"
@@ -34486,6 +34502,10 @@
   "FiscalMonetaryTransmissionDifference": {
     "title": "Fiscal-Monetary Transmission Difference / 财政与货币传导差异",
     "url": "/wiki/concepts/fiscalmonetarytransmissiondifference/"
+  },
+  "FiscalSocialCrisisFeedback": {
+    "title": "Fiscal-Social Crisis Feedback",
+    "url": "/wiki/concepts/fiscalsocialcrisisfeedback/"
   },
   "FishBoneForeignBodyCare": {
     "title": "鱼刺异物处置 / Fish-Bone Foreign-Body Care",
@@ -103270,6 +103290,10 @@
   "allin-e293-ch-allin-e293-ch": {
     "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
     "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+  },
+  "allin-e294-ch-allin-e294-ch": {
+    "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
+    "url": "/wiki/sources/allin-e294-ch-allin-e294-ch/"
   },
   "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": {
     "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",

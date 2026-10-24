@@ -5,8 +5,9 @@ tags: [agents, payments, governance, security]
 sources:
   - keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311
   - waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87
+  - allin-e294-ch-allin-e294-ch
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-19
+last_updated: 2026-10-24
 ---
 
 # Agent Spend Controls / 智能体消费控制
@@ -19,7 +20,7 @@ Spend controls translate general [[AgentPermissionBoundaries]] into payment auth
 
 The current synthesis is a graduated mandate: specify an amount ceiling, product or service category, merchant constraints, time window, task purpose, substitution rules, and conditions requiring renewed consent. Pair that mandate with a one-time or otherwise scoped credential, agent identity, execution trace, and dispute evidence.
 
-Trust should determine breadth rather than disappear after one approval. Low-risk recurring tasks can receive standing limits, while high-value, regulated, identity-sensitive, or materially changed purchases require explicit confirmation. The user's willingness to raise the maximum delegated amount is evidence of [[AgentTrustCalibration]], not proof that all purchases should become autonomous.
+Trust should determine breadth rather than disappear after one approval. Low-risk recurring tasks can receive standing limits, while high-value, regulated, identity-sensitive, or materially changed purchases require explicit confirmation. The user's willingness to raise the maximum delegated amount is evidence of [[AgentTrustCalibration]], not proof that all purchases should become autonomous. The latest source also makes these controls liability evidence: they help distinguish an in-scope delegated act, a user bypassing warnings, inadequate platform design, and a product departing from its represented purpose.
 
 ## Key Claims
 - Budget autonomy should be sufficient for task completion but narrower than the user's underlying payment account.
@@ -28,23 +29,25 @@ Trust should determine breadth rather than disappear after one approval. Low-ris
 - Separate accounts, one-time credentials, and audit records improve attribution when spending is wrong or compromised.
 - Spend limits work best when tied to authenticated principals, known agents, [[VerifiableIntent]], and enforceable execution controls.
 - Compensation and dispute handling affect how much users will rationally delegate.
+- Limits, warnings, confirmations, and execution records help allocate responsibility but do not predetermine the legal outcome.
 
 ## Evidence
 - Mandate evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] describes price, category, user-intent, merchant, and one-time-payment constraints for agent purchases.
 - Self-spend evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] distinguishes consumer shopping from small budgets for tokens, APIs, reports, images, and other task resources.
 - Strong-constraint evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] says an initial 100-yuan limit must not be displaced by later task content.
 - Delegation evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] uses the maximum amount a user would delegate as a concrete test of authorization, safety, and recourse confidence.
+- Liability-boundary evidence: [[allin-e294-ch-allin-e294-ch]] distinguishes actions within delegated authority, user circumvention of warnings or terms, and an agent departing from its represented purpose.
 
 ## Counterevidence & Qualifications
 - Monetary ceilings do not prevent wrong-product selection, biased recommendations, privacy leakage, or prohibited non-financial actions.
 - Confirmation on every purchase creates approval fatigue; standing permission creates stale-authority risk.
 - Fiat, card, wallet, and stablecoin systems differ in reversibility, custody, fraud controls, and legal recourse.
 - The sources provide design patterns rather than validated universal thresholds for safe delegation.
+- Actual liability remains jurisdiction-, contract-, and fact-specific; technical controls supply evidence rather than a universal legal rule.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` from the complete prior source set.
-- Added stable strong constraints, progressive delegated amounts, and recourse as parts of spend control.
-- Linked monetary authority explicitly to verifiable intent and trust calibration.
+- Added liability allocation as a design purpose for spending limits, warnings, confirmations, and records.
+- Distinguished in-scope delegation, user safeguard bypass, and product deviation.
 
 ## Related Concepts
 - [[AgentPaymentInfrastructure]] - payment and dispute layer implementing spending mandates.
@@ -53,3 +56,4 @@ Trust should determine breadth rather than disappear after one approval. Low-ris
 - [[VerifiableIntent]] - semantic task and constraint record carried with payment authority.
 - [[AgentTrustCalibration]] - basis for increasing or narrowing delegated limits over time.
 - [[Stablecoins]] - settlement route with different reversibility and custody assumptions.
+- [[AutonomousAgentTransactionLiability]] - responsibility framework that uses spend-control evidence.

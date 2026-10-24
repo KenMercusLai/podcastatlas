@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3386
+topic_total_pages: 3388
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -442,6 +442,9 @@ topic_concepts:
   - key: "AutonomicStressTraining"
     title: "Autonomic Stress Training"
     url: "/wiki/concepts/autonomicstresstraining/"
+  - key: "AutonomousAgentTransactionLiability"
+    title: "Autonomous Agent Transaction Liability"
+    url: "/wiki/concepts/autonomousagenttransactionliability/"
   - key: "AutonomousVehicleRegulatoryPatchwork"
     title: "Autonomous Vehicle Regulatory Patchwork"
     url: "/wiki/concepts/autonomousvehicleregulatorypatchwork/"
@@ -1456,6 +1459,9 @@ topic_concepts:
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"
+  - key: "EnterpriseOpenWeightDeployment"
+    title: "Enterprise Open-Weight Deployment"
+    url: "/wiki/concepts/enterpriseopenweightdeployment/"
   - key: "EntrustedResourcePowerTransfer"
     title: "Entrusted-Resource Power Transfer / 受托资源反向转移"
     url: "/wiki/concepts/entrustedresourcepowertransfer/"

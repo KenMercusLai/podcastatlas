@@ -804,12 +804,13 @@
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2",
       "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579",
       "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73",
-      "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6"
+      "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6",
+      "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70"
     ],
-    "paragraph_count": 804
+    "paragraph_count": 805
   },
-  "overview_commit": "05be7d0038f06f0749ee0cf2df73315e60f6c316",
-  "overview_digest": "ded4bdd469986fd7d0e9171fb06d1dd11b5f7c8b9225955230ee507623ca500a",
+  "overview_commit": "9b8259aa4657cdce081e2d0a07217544428bb0d6",
+  "overview_digest": "d51386d9159174f25654b3245dd155dafe103dad894e9e161c5ce86b44ee29dd",
   "paragraphs": [
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
@@ -23453,6 +23454,33 @@
         "TomorrowToday",
         "USAArtisticSwimming",
         "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981"
+      ]
+    },
+    {
+      "id": "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[allin-e294-ch-allin-e294-ch|AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?]], an [[AllIn|All-In]] episode joining concentrated AI demand, enterprise model control, cyber resilience, agent liability, and contested fiscal reform. It adds [[AIInvestmentDemandConcentration]], [[EnterpriseOpenWeightDeployment]], [[AssumeBreachCyberDefense]], [[AutonomousAgentTransactionLiability]], and [[FiscalSocialCrisisFeedback]], while resynthesizing [[NikeshArora|Nikesh Arora]], [[PaloAltoNetworks|Palo Alto Networks]], and [[AgentSpendControls]]. Its core synthesis is that AI growth becomes durable only when spending diffuses into outcome-backed enterprise use; open-weight control can coexist with rented compute; AI-accelerated attack shifts security toward verified discovery, consolidated telemetry, rapid detection, containment, and recovery; and agent transactions need explicit mandates and evidence to allocate responsibility. No settled contradiction is adopted. The AI-spending concentration estimate, bank infrastructure example, cyber forecasts, French protest and fiscal figures, migration claims, and proposed reforms remain source-scoped, contested, or unverified; the episode supports a policy map rather than a settled causal diagnosis of France.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIInvestmentDemandConcentration",
+        "AgentSpendControls",
+        "AllIn",
+        "AssumeBreachCyberDefense",
+        "AutonomousAgentTransactionLiability",
+        "EnterpriseOpenWeightDeployment",
+        "FiscalSocialCrisisFeedback",
+        "NikeshArora",
+        "PaloAltoNetworks",
+        "allin-e294-ch-allin-e294-ch"
       ]
     }
   ],

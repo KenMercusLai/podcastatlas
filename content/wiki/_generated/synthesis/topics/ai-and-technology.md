@@ -3,16 +3,16 @@
 generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
-last_updated: 2026-10-05
-as_of_overview_commit: 6cb83997bc6834c63fd02e53c993a935cf658857
-input_digest: 87e3ebeff498f09d3963f31c67053560e995d0e838026c9b10fa9541fcb097a5
+last_updated: 2026-10-24
+as_of_overview_commit: 9b8259aa4657cdce081e2d0a07217544428bb0d6
+input_digest: 93fdd61dae79023c0df693bc10322bae04e49a6e1fabbd94149144d394039487
 ---
 
 # AI and Technology
 
 ## Current State
 
-Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. DeepSeek R1 sharpens the competitive boundary: efficiency and open-weight deployment can weaken a spending-only moat and reduce some provider dependence, but they do not erase full model-factory cost, infrastructure needs, data governance, or operational risk. Translation similarly preserves a judgment boundary where routine automation does not settle contested conceptual choices.
+Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. E294 sharpens this test by separating concentrated supplier demand from broad outcome-backed adoption, model control from physical infrastructure ownership, prevention from assume-breach resilience, and delegated agent action from settled liability. Open-weight efficiency can reduce provider dependence, but it does not erase full model-factory cost, infrastructure needs, data governance, operational risk, or human judgment.
 
 ## Cross-source Findings
 
@@ -807,3 +807,15 @@ The new Rick Rubin paragraph is a routing-edge rather than an AI capability clai
 - The episode does not establish a universal percentage of translation work that models can replace or independently verify the etymology and transmission history of each example.
 - Standard terms provide coordination value, and reopening their history does not prove that one alternative is universally correct.
 - Claims about Japanese-coined Chinese terms, Buddhist mediation, dialect pronunciation, and long-run political effects remain source-scoped.
+
+### Concentrated Demand Open Weight Control And Assume Breach Response
+
+[[allin-e294-ch-allin-e294-ch|All-In E294]] adds a coupled adoption-and-control boundary: [[AIInvestmentDemandConcentration]] separates supplier growth from broad outcome-backed use, [[EnterpriseOpenWeightDeployment]] separates model control from physical compute ownership, [[AssumeBreachCyberDefense]] makes detection, containment, recovery, and blast radius operational measures, and [[AutonomousAgentTransactionLiability]] ties delegated action to explicit mandates and evidence.
+
+**Evidence:** [[allin-e294-ch-allin-e294-ch]], [[AIInvestmentDemandConcentration]], [[EnterpriseOpenWeightDeployment]], [[AssumeBreachCyberDefense]], [[AutonomousAgentTransactionLiability]], [[NikeshArora]], [[PaloAltoNetworks]], [[AgentSpendControls]]
+
+**Qualifications:**
+
+- The spending-concentration estimate, bank infrastructure example, and cyber forecasts are source-scoped and are not backed here by disclosed datasets, comparative deployments, or incident audits.
+- Open weights do not automatically provide safe behavior, lower total cost, regulatory compliance, or strong operations, and assume-breach resilience does not replace prevention.
+- Agent transaction liability remains jurisdiction-, contract-, and fact-specific.

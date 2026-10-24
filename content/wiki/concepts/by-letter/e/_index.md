@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10755
+wiki_total_pages: 10760
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "EnterpriseInternalEmailInfrastructure"
     title: "Enterprise Internal Email Infrastructure"
     url: "/wiki/concepts/enterpriseinternalemailinfrastructure/"
+  - key: "EnterpriseOpenWeightDeployment"
+    title: "Enterprise Open-Weight Deployment"
+    url: "/wiki/concepts/enterpriseopenweightdeployment/"
   - key: "EnterpriseOperationalMemory"
     title: "Enterprise Operational Memory"
     url: "/wiki/concepts/enterpriseoperationalmemory/"

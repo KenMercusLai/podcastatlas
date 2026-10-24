@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3619
+topic_total_pages: 3623
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -676,6 +676,9 @@ topic_concepts:
   - key: "AIInterviewing"
     title: "AI Interviewing"
     url: "/wiki/concepts/aiinterviewing/"
+  - key: "AIInvestmentDemandConcentration"
+    title: "AI Investment Demand Concentration"
+    url: "/wiki/concepts/aiinvestmentdemandconcentration/"
   - key: "AIInvestmentMarginDrag"
     title: "AI Investment Margin Drag / AI投入拖累利润"
     url: "/wiki/concepts/aiinvestmentmargindrag/"
@@ -1291,6 +1294,9 @@ topic_concepts:
   - key: "AssociativeKnowledgeSystems"
     title: "Associative Knowledge Systems / 联想式知识系统"
     url: "/wiki/concepts/associativeknowledgesystems/"
+  - key: "AssumeBreachCyberDefense"
+    title: "Assume-Breach Cyber Defense"
+    url: "/wiki/concepts/assumebreachcyberdefense/"
   - key: "AsymmetricInfrastructureAttack"
     title: "Asymmetric Infrastructure Attack"
     url: "/wiki/concepts/asymmetricinfrastructureattack/"
@@ -2248,6 +2254,9 @@ topic_concepts:
   - key: "EnterpriseDatabaseLockIn"
     title: "Enterprise Database Lock-In"
     url: "/wiki/concepts/enterprisedatabaselockin/"
+  - key: "EnterpriseOpenWeightDeployment"
+    title: "Enterprise Open-Weight Deployment"
+    url: "/wiki/concepts/enterpriseopenweightdeployment/"
   - key: "EnterpriseOperationalMemory"
     title: "Enterprise Operational Memory"
     url: "/wiki/concepts/enterpriseoperationalmemory/"
@@ -9321,6 +9330,9 @@ topic_sources:
   - key: "tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128"
     title: "AI chatbots have linguistic slips when they go off-script"
     url: "/wiki/sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128/"
+  - key: "allin-e294-ch-allin-e294-ch"
+    title: "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?"
+    url: "/wiki/sources/allin-e294-ch-allin-e294-ch/"
   - key: "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128"
     title: "AI debt is flooding the bond market"
     url: "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"

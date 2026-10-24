@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-10-06
-as_of_overview_commit: 886580f0905c9f8d7024ad25ed9ac99719107d2f
-input_digest: f30a0b97518e60346996519b9a1625a7e0f39d1897e7018f6b3eace7ecc01ed7
+last_updated: 2026-10-24
+as_of_overview_commit: 9b8259aa4657cdce081e2d0a07217544428bb0d6
+input_digest: aeacd5069f2b049923b02751a30c095ba16d15a98a4a0fdcbb8037fdbccf6bb6
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. The newest election and surveillance evidence adds that electoral alignment remains contingent on turnout and institutional checks, while public-safety technology requires enforceable purpose, audit, security, retention, and sharing controls rather than company assurances alone. EP36 adds parallel delivery and governance gates for enterprise agents and physical-AI infrastructure; all current election, surveillance, and deployment details remain source-scoped. Public wellness guidance adds the same accountability requirement: mechanisms and associations must remain separate from universal protocols, with dose, health status, and serious-risk escalation made explicit.
+Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. Election, surveillance, enterprise-agent, physical-infrastructure, and public-guidance cases all require enforceable purpose, evidence, audit, safety, and escalation rather than assurances alone. E294 adds that agent transactions need mandate and execution evidence to allocate responsibility, while fiscal-social feedback needs causal restraint because debt pressure, public outcomes, unrest, and reform incidence can reinforce one another without validating one ideological diagnosis.
 
 ## Cross-source Findings
 
@@ -2818,3 +2818,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The source is a condensed public-education episode, not a clinical guideline, causal cardiovascular trial, or individualized heat protocol.
 - Its Essentials and full-length releases are overlapping provenance rather than independent confirmation.
 - Exact temperatures, durations, frequencies, hydration targets, fasting windows, and heat transitions remain source-scoped, while serious hyperthermia requires prompt care.
+
+### Agent Liability And Fiscal Crisis Need Attribution And Causal Restraint
+
+[[allin-e294-ch-allin-e294-ch|All-In E294]] adds two accountability problems: [[AutonomousAgentTransactionLiability]] and [[AgentSpendControls]] require a preserved mandate, limits, warnings, confirmation, and execution evidence, while [[FiscalSocialCrisisFeedback]] maps how public outcomes, debt costs, unrest, and reform incidence can reinforce one another without making the episode's contested diagnosis of France a settled conclusion.
+
+**Evidence:** [[allin-e294-ch-allin-e294-ch]], [[AutonomousAgentTransactionLiability]], [[AgentSpendControls]], [[FiscalSocialCrisisFeedback]]
+
+**Qualifications:**
+
+- The agent-liability discussion is not a jurisdiction-specific legal analysis, and technical controls provide attribution evidence rather than a universal allocation rule.
+- The French protest, damage, arrest, fiscal, migration, and service-performance figures are episode-reported and not independently verified here.
+- Complex unrest cannot be reduced to government size, migration, socialism, or a single policy failure, and bond-market discipline can deepen hardship as well as force adjustment.

@@ -10576,6 +10576,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIInvestmentDemandConcentration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIInvestmentMarginDrag": [
     {
       "key": "technology",
@@ -16966,6 +16978,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AssumeBreachCyberDefense": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Asus": [
     {
       "key": "technology",
@@ -17638,6 +17657,18 @@
     }
   ],
   "AutonomicStressTraining": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AutonomousAgentTransactionLiability": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -35110,6 +35141,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "EnterpriseOpenWeightDeployment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EnterpriseOperationalMemory": [
@@ -102648,6 +102691,13 @@
     }
   ],
   "allin-e293-ch-allin-e293-ch": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "allin-e294-ch-allin-e294-ch": [
     {
       "key": "technology",
       "label": "Technology",

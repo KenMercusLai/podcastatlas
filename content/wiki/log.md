@@ -37656,3 +37656,9 @@ Added source `defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-d
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
