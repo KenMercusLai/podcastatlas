@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2308
+topic_total_pages: 2309
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3313,6 +3313,9 @@ topic_concepts:
   - key: "ValueTrap"
     title: "Value Trap"
     url: "/wiki/concepts/valuetrap/"
+  - key: "ValueInvestingPrerequisiteStack"
+    title: "Value-Investing Prerequisite Stack / 价值投资前提栈"
+    url: "/wiki/concepts/valueinvestingprerequisitestack/"
   - key: "ValuesBasedAIGovernance"
     title: "Values-Based AI Governance"
     url: "/wiki/concepts/valuesbasedaigovernance/"

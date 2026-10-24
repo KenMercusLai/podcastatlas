@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？](sources/e251-duihua-fangyan-ni-xiangxin-de-shi-jiazhi-touzi-haishi-bafeite-de-zaofu-shenhua-logxctjkal3ai1enfwxdd8j9fpv2.md) — 知行小酒馆与方言把价值投资还原为长期本金、持续现金流、经营认知、能力圈和行为约束，并为多数普通人保留指数投资路径。
 - [E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考](sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt.md) — 知行小酒馆从地方规则、贷款额度、现金流、强制储蓄、住房流动性与灵活就业成本讨论公积金应提取、留存还是用于贷款。
 - [E253 AI 会改变世界，可它真的有让世界变好吗？](sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h.md) — 知行小酒馆与李志林从乡村医疗、社会情感教育、就业和捐赠实践讨论AI收益为何不会自动普惠，以及产权、税收、公益与人的最后一公里如何共同决定分配。
 - [E254 我的意外之财｜小酒馆故事会🍻](sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil.md) — 知行小酒馆以彩票、赔偿、奖学金、遗产调解和寿险受益权五个故事，说明意外之财能扩展选择，却无法替代既有的关系、习惯与责任。
@@ -18592,6 +18593,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [Value-Investing Prerequisite Stack / 价值投资前提栈](concepts/ValueInvestingPrerequisiteStack.md) — 将可长期等待的本金、外部现金流、经营认知、估值纪律和行为可持有性组合为主动价值投资的前提检查框架。
 - [Housing Provident Fund Use Decision / 住房公积金使用决策](concepts/HousingProvidentFundUseDecision.md) — 结合合规用途、未来贷款、现金流、机会成本与行为执行选择提取、留存或贷款的框架。
 - [China Housing Provident Fund Policy Expansion / 公积金用途扩展](concepts/ChinaHousingProvidentFundPolicyExpansion.md) — 公积金从购房融资扩展到租房、装修、物业费、灵活就业和跨城使用的政策转向。
 - [Flexible-Employment Provident Fund Participation / 灵活就业者公积金参缴权衡](concepts/FlexibleEmploymentProvidentFundParticipation.md) — 在无单位配缴、收入波动和潜在低息贷款之间评估自愿参缴的框架。
