@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10760
+wiki_total_pages: 10764
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "InspirationalNarrativeCommercialization"
     title: "Inspirational Narrative Commercialization / 励志叙事商业化"
     url: "/wiki/concepts/inspirationalnarrativecommercialization/"
+  - key: "InstantEntertainmentCompensation"
+    title: "Instant Entertainment as Moral Compensation / 即时娱乐的价值补偿"
+    url: "/wiki/concepts/instantentertainmentcompensation/"
   - key: "InstantRetail"
     title: "Instant Retail"
     url: "/wiki/concepts/instantretail/"

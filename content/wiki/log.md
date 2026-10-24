@@ -37662,3 +37662,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？
+
+Added source `e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi`; created [[ZhixingXiaojiuguan|知行小酒馆]], [[ProductionToConsumptionLegitimacyShift|从生产正当性到消费正当性]], [[GrowthWithoutBroadDiffusion|增长收益扩散失灵]], [[InstantEntertainmentCompensation|即时娱乐的价值补偿]], and [[EffortToActionShift|从努力到行动]]. Core synthesis: overcapacity and production-linked incentives weaken the old assumption that more output is always broadly valuable; technology-intensive exports and AI may grow without reproducing earlier employment and local-circulation effects; and weakened effort-reward promises make both short-form emotional compensation and a wider, present-tense category of action more salient. No settled contradiction was adopted. The “2023 confirmations,” historical analogies, employment comparisons, tax and policy claims, industry ratios, and AI forecasts remain episode-attributed or source-scoped because the supplied document does not provide complete research citations. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,720 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

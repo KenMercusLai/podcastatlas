@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2307
+topic_total_pages: 2308
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5828,6 +5828,9 @@ topic_entities:
   - key: "ShengshiInvestmentAcademy"
     title: "盛世投资研习院"
     url: "/wiki/entities/shengshiinvestmentacademy/"
+  - key: "ZhixingXiaojiuguan"
+    title: "知行小酒馆 / Zhixing Xiaojiuguan"
+    url: "/wiki/entities/zhixingxiaojiuguan/"
   - key: "ShiTianxin"
     title: "石天鑫 / Shi Tianxin"
     url: "/wiki/entities/shitianxin/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3623
+topic_total_pages: 3625
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2563,6 +2563,9 @@ topic_concepts:
   - key: "GPUSpotMarketTrustFriction"
     title: "GPU Spot-Market Trust Friction"
     url: "/wiki/concepts/gpuspotmarkettrustfriction/"
+  - key: "GrowthWithoutBroadDiffusion"
+    title: "Growth Without Broad Diffusion / 增长收益扩散失灵"
+    url: "/wiki/concepts/growthwithoutbroaddiffusion/"
   - key: "GuideRobotDogs"
     title: "Guide Robot Dogs"
     url: "/wiki/concepts/guiderobotdogs/"
@@ -9696,6 +9699,9 @@ topic_sources:
   - key: "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d"
     title: "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长"
     url: "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+  - key: "e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi"
+    title: "E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？"
+    url: "/wiki/sources/e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi/"
   - key: "e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50"
     title: "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔"
     url: "/wiki/sources/e255-moxing-yuelaiyue-qiang-weishenme-yonghu-mei-ganjue-zaifang-aliguojizhanzongcai-zhangkuo-8fa0b58e-8359-4609-8e84-30c9a632df50/"

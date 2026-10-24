@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？](sources/e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi.md) — 知行小酒馆把物价、房地产、人口、AI、产能、出口和短剧放入同一框架，讨论旧有努力—回报叙事失效后如何以创造、照护、传承和连接重建意义。
 - [AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?](sources/allin-e294-ch-allin-e294-ch.md) — All-In on concentrated AI demand, hybrid open-weight enterprise deployment, assume-breach cyber defense, agent transaction liability, and contested French fiscal-social reform.
 - [2026秋季篇E06 神秘的外国人！熊谷6人遇害事件](sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g.md) — 日谈物语 excerpt opening the 2015 Kumagaya case through an unfamiliar man's yard entry, cross-language ambiguity, and a resident's call to the neighboring fire station; it ends before the killings or investigation.
 - [510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络](sources/510-taiguo-qiaopi-chenfulu-xia-nanyang-langchao-zhong-de-kuaguo-huaren-jingji-wangluo-ltwajsww37kmoofownsqmzabgbzo.md) — 忽左忽右与汪玉娇梳理泰国侨批的汇兑、贸易、邮政、战争与国家治理史，并以代际身份和语言学习反思当代出海本地化。
@@ -4819,6 +4820,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
 ## Entities
+- [知行小酒馆 / Zhixing Xiaojiuguan](entities/ZhixingXiaojiuguan.md) — Podcast connecting economics, technology, culture, and present-tense life design.
 - [Wang Yujiao / 汪玉娇](entities/WangYujiao.md) — Researcher using Thai qiaopi and multilingual archives to study remittance networks, Southeast Asian Chinese identity, and localization.
 - [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.
 - [Borno State](entities/BornoState.md) — Nigerian region where insecurity compounds weak services, hunger, aid withdrawal, and low turnout.
@@ -18584,6 +18586,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [Production-to-Consumption Legitimacy Shift / 从生产正当性到消费正当性](concepts/ProductionToConsumptionLegitimacyShift.md) — Transition required when overcapacity weakens output-first ethics and institutions must value household demand, welfare, and consumption more directly.
+- [Growth Without Broad Diffusion / 增长收益扩散失灵](concepts/GrowthWithoutBroadDiffusion.md) — Distinguishes firm, export, or technology growth from broad employment, local circulation, and household-income transmission.
+- [Instant Entertainment as Moral Compensation / 即时娱乐的价值补偿](concepts/InstantEntertainmentCompensation.md) — Fast stories supplying symbolic dignity, justice, recognition, and deserved reward when real-world feedback is delayed or denied.
+- [Effort-to-Action Shift / 从努力到行动](concepts/EffortToActionShift.md) — Broadens meaningful participation beyond standardized study and paid production to creation, care, transmission, connection, rest, and experiment.
 - [AI Investment Demand Concentration](concepts/AIInvestmentDemandConcentration.md) — Risk that narrow, externally financed AI demand makes supplier growth a weak proxy for broad profitable adoption.
 - [Enterprise Open-Weight Deployment](concepts/EnterpriseOpenWeightDeployment.md) — Hybrid pattern combining enterprise-controlled models with externally supplied compute capacity.
 - [Assume-Breach Cyber Defense](concepts/AssumeBreachCyberDefense.md) — Resilience posture measuring detection, containment, recovery, and blast radius alongside prevention.

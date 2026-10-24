@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13684
+wiki_total_pages: 13685
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -1427,6 +1427,9 @@ wiki_pages:
   - key: "Zhihu"
     title: "知乎 / Zhihu"
     url: "/wiki/entities/zhihu/"
+  - key: "ZhixingXiaojiuguan"
+    title: "知行小酒馆 / Zhixing Xiaojiuguan"
+    url: "/wiki/entities/zhixingxiaojiuguan/"
   - key: "ZhiqingXiaojiuguan"
     title: "知青小酒馆 / Zhiqing Xiaojiuguan"
     url: "/wiki/entities/zhiqingxiaojiuguan/"

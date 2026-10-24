@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3559
+topic_total_pages: 3560
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1840,6 +1840,9 @@ topic_concepts:
   - key: "InspirationalNarrativeCommercialization"
     title: "Inspirational Narrative Commercialization / 励志叙事商业化"
     url: "/wiki/concepts/inspirationalnarrativecommercialization/"
+  - key: "InstantEntertainmentCompensation"
+    title: "Instant Entertainment as Moral Compensation / 即时娱乐的价值补偿"
+    url: "/wiki/concepts/instantentertainmentcompensation/"
   - key: "InstitutionalFailurePunitiveFantasy"
     title: "Institutional Failure and Punitive Fantasy"
     url: "/wiki/concepts/institutionalfailurepunitivefantasy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10760
+wiki_total_pages: 10764
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2240,6 +2240,9 @@ wiki_pages:
   - key: "ProductionGradeAI3D"
     title: "Production-Grade AI 3D"
     url: "/wiki/concepts/productiongradeai3d/"
+  - key: "ProductionToConsumptionLegitimacyShift"
+    title: "Production-to-Consumption Legitimacy Shift / 从生产正当性到消费正当性"
+    url: "/wiki/concepts/productiontoconsumptionlegitimacyshift/"
   - key: "ProductiveBubbleSpillovers"
     title: "Productive Bubble Spillovers"
     url: "/wiki/concepts/productivebubblespillovers/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10760
+wiki_total_pages: 10764
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "EffortAsReward"
     title: "Effort As Reward"
     url: "/wiki/concepts/effortasreward/"
+  - key: "EffortToActionShift"
+    title: "Effort-to-Action Shift / 从努力到行动"
+    url: "/wiki/concepts/efforttoactionshift/"
   - key: "EffortfulThinkingInTheAIAge"
     title: "Effortful Thinking in the AI Age"
     url: "/wiki/concepts/effortfulthinkingintheaiage/"
