@@ -41071,6 +41071,10 @@
     "title": "郝猛 / Hao Meng (Dong Commandery, late Han)",
     "url": "/wiki/entities/haomengdongjunlatehan/"
   },
+  "HaoNanMultimodalEmbodiedAI": {
+    "title": "淏楠（多模态与具身 AI 从业者）",
+    "url": "/wiki/entities/haonanmultimodalembodiedai/"
+  },
   "HaoWuQiangLeader": {
     "title": "浩武 / Hao Wu (Qiang leader)",
     "url": "/wiki/entities/haowuqiangleader/"
@@ -77307,6 +77311,10 @@
     "title": "Robot Experience Data",
     "url": "/wiki/concepts/robotexperiencedata/"
   },
+  "RobotFailureRecoveryEscalation": {
+    "title": "Robot Failure-Recovery Escalation / 机器人失败恢复分层接管",
+    "url": "/wiki/concepts/robotfailurerecoveryescalation/"
+  },
   "RobotFormFactorPragmatism": {
     "title": "Robot Form-Factor Pragmatism",
     "url": "/wiki/concepts/robotformfactorpragmatism/"
@@ -107758,6 +107766,10 @@
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
     "url": "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"
+  },
+  "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82": {
+    "title": "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠",
+    "url": "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
   },
   "shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314": {
     "title": "【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱",

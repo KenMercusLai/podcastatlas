@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠](sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82.md) — 42章经访谈淏楠，以其 Agent、多模态 RL Infra 与具身预训练经历比较视频生成、实时互动、世界模型、真实数据和分层机器人部署。
 - [EP290 方言翻红：现在的年轻人，为啥爱上说“土话”？](sources/ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk.md) — Talk三联 episode on dialect revival, identity, migration, subtitles, short-video feedback, rap, stand-up, and the tension between language preservation and performed accent.
 - [E249 对话叶檀：我不再是人生的过道人](sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x.md) — 知行小酒馆与叶檀从财经评论、个人IP创业和癌症经历出发，讨论停止工作的权力、疾病结果中的运气、悲悯、财富边界与普通日子的价值。
 - [E250 为什么学了这么多知识，却还是做不好投资？](sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq.md) — 知行小酒馆与 Shirley 从目标、个人适配、完整周期、投资日志和环境设计解释为何投资知识不会自动变成稳定行动。
@@ -4827,6 +4828,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
 ## Entities
+- [淏楠（多模态与具身 AI 从业者）](entities/HaoNanMultimodalEmbodiedAI.md) — 曾参与语言 Agent 数据、腾讯混元多模态 RL Infra 与具身基础模型预训练的跨方向从业者。
 - [Yamy](entities/Yamy.md) — Rapper whose return to Cantonese creation is framed through migration, deliberate relearning, and subtitle-enabled audience access.
 - [揽佬 / Lan Lao](entities/LanLao.md) — Rapper using mixed “广普/惠州普通话” and local Guangdong social experience as a regional creative signature.
 - [Ye Tan / 叶檀](entities/YeTan.md) — Financial commentator, writer, and entrepreneur whose illness prompted a non-repudiating reassessment of ambition, wealth, compassion, and ordinary life.
@@ -18600,6 +18602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [Robot Failure-Recovery Escalation / 机器人失败恢复分层接管](concepts/RobotFailureRecoveryEscalation.md) — 本地控制模型执行、强模型接管疑难失败、人工兜底并以恢复轨迹反哺小模型的部署模式。
 - [Dialect Revival and Identity / 方言回潮与身份认同](concepts/DialectRevivalIdentity.md) — Regional speech renewed through migration, relearning, family memory, and temporary language communities without requiring linguistic purity.
 - [Platformed Dialect Circulation / 方言的平台化传播](concepts/PlatformedDialectCirculation.md) — How subtitles, feedback, comments, imitation, and memes widen dialect reach while reshaping its performance and meaning.
 - [Illness Outcome Moralization Boundary / 疾病结果道德化边界](concepts/IllnessOutcomeMoralizationBoundary.md) — Separates treatment participation from virtue-based judgments that courage, willpower, or perfect rationality determine survival and recovery.
@@ -21272,7 +21275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long-Duration Endurance Standard / 长时间耐力标准](concepts/LongDurationEnduranceStandard.md) — Deliberately unstructured test of unbroken submaximal work for more than 20 minutes, ideally at a non-walking pace with nasal breathing.
 - [Power and Speed Assessment / 爆发与速度测试](concepts/PowerAndSpeedAssessment.md) — Standing broad jump against the jump-your-height benchmark for power, with pure speed testing reserved for high-performance sport.
 - [Fitness Performance Anchors / 体能短板锚点](concepts/FitnessPerformanceAnchors.md) — Priority rule that severe capacity deficits are cleared first and only the capacities a person cares about are then optimized.
-- [Small Brain Action Layer / 小脑（Action Policy）](concepts/SmallBrainActionLayer.md) — Lower real-time control layer that keeps a robot stable and responsive below the reasoning brain, motivated by the gap between demonstration video and disturbance recovery.
+- [Small Brain Action Layer / 小脑（Action Policy）](concepts/SmallBrainActionLayer.md) — Body-specific real-time control layer beneath the reasoning brain, now extended through failure-triggered escalation and recovery-trace learning.
 - [Embodied Capability Framework / 具身智能三项能力](concepts/EmbodiedCapabilityFramework.md) — Shenpu Intelligence's internal definition of embodied intelligence through adaptability, steerability, and context understanding.
 - [Embodied Context & Memory / 具身上下文与记忆](concepts/EmbodiedContextMemory.md) — Short, medium, and long-horizon context a robot must carry, including sub-second causal chains and place-and-person memory under real-time latency limits.
 - [Robot Agentic OS / 具身智能体操作系统](concepts/RobotAgenticOS.md) — Embodied agent stack that joins speech recognition, task decomposition, tool calls, and low-level interfaces with System 1 execution and System 2 planning.
@@ -24768,7 +24771,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SAGE Attention](concepts/SageAttention.md) — Faster Attention operator discussed by Zhang Jintao as especially relevant for compute-bound video and multimodal generation workloads.
 - [TurboDiffusion](concepts/TurboDiffusion.md) — Model-level diffusion acceleration work combining faster operators, distillation, and sparse attention to reduce video-generation complexity.
 - [Streaming Video Generation](concepts/StreamingVideoGeneration.md) — Continuous video generation pattern where frames must be produced faster than playback while preserving long-session coherence and live feedback.
-- [Real-Time Interactive Video Generation](concepts/RealTimeInteractiveVideoGeneration.md) — Live generated-video session category where characters respond to voice, video, screen input, and user intent.
+- [Real-Time Interactive Video Generation](concepts/RealTimeInteractiveVideoGeneration.md) — Live generated-video sessions distinguished from playback-rate streaming by continuous input understanding, coherent scene change, and long-session stability.
 - [Inference Acceleration Stack](concepts/InferenceAccelerationStack.md) — Operator, model, and deployment layers that make model serving faster and cheaper, especially for real-time video generation.
 - [Restaurant Operating System](concepts/RestaurantOperatingSystem.md) — vertical SaaS pattern where restaurant POS expands into payments, ordering, staffing, inventory, and decision support.
 - [Mission-Critical Restaurant Software](concepts/MissionCriticalRestaurantSoftware.md) — restaurant software category where outages immediately disrupt live service, payments, kitchen flow, and trust.
@@ -28896,7 +28899,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Exercise Hydration Performance Boundary](concepts/ExerciseHydrationPerformanceBoundary.md) — Boundary around sweat loss, electrolytes, exercise-fluid heuristics, and supplement claims.
 - [Robot In-Context Learning / 机器人上下文学习](concepts/RobotInContextLearning.md) — Robot adaptation from demonstrations, corrections, body motion, attempts, and failures without retraining every new task offline.
 - [Capability-Driven Robot Data Design / 能力反推机器人数据](concepts/CapabilityDrivenRobotDataDesign.md) — Selecting human, UMI, simulation, and real-robot data by desired capability and training stage.
-- [Robot Deployment Data Loop / 机器人部署数据闭环](concepts/RobotDeploymentDataLoop.md) — Feedback loop that begins only when limited user teaching produces enough visible improvement to sustain use and correction.
+- [Robot Deployment Data Loop / 机器人部署数据闭环](concepts/RobotDeploymentDataLoop.md) — Feedback loop that requires useful base capability and can turn escalated failures, recoveries, and corrections into lower future intervention cost.
 - [Discovery Advertising](concepts/DiscoveryAdvertising.md) — Recommendation-led advertising that tries to create or surface demand before a consumer expresses purchase intent.
 - [Performance Advertising Learning Loop](concepts/PerformanceAdvertisingLearningLoop.md) — Cycle linking model predictions, observed conversions, advertiser returns, spending, scale, and further learning.
 - [Vertical Integration for Data Cold Start](concepts/VerticalIntegrationForDataColdStart.md) — Temporary ownership of an operating layer to obtain initial model-training data before third-party adoption is sufficient.

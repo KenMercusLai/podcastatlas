@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13692
+wiki_total_pages: 13693
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1604,6 +1604,9 @@ wiki_pages:
   - key: "HaihunMarquisate"
     title: "海昏侯国 / Haihun Marquisate"
     url: "/wiki/entities/haihunmarquisate/"
+  - key: "HaoNanMultimodalEmbodiedAI"
+    title: "淏楠（多模态与具身 AI 从业者）"
+    url: "/wiki/entities/haonanmultimodalembodiedai/"
   - key: "HuainanRegion"
     title: "淮南 / Huainan Region"
     url: "/wiki/entities/huainanregion/"

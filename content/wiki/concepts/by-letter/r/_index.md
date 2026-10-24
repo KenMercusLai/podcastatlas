@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10772
+wiki_total_pages: 10773
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "RobotExperienceData"
     title: "Robot Experience Data"
     url: "/wiki/concepts/robotexperiencedata/"
+  - key: "RobotFailureRecoveryEscalation"
+    title: "Robot Failure-Recovery Escalation / 机器人失败恢复分层接管"
+    url: "/wiki/concepts/robotfailurerecoveryescalation/"
   - key: "RobotFormFactorPragmatism"
     title: "Robot Form-Factor Pragmatism"
     url: "/wiki/concepts/robotformfactorpragmatism/"

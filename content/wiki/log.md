@@ -37726,3 +37726,11 @@ Added source `ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-t
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-25] ingest | 少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠
+
+Added source `shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82`; created [[HaoNanMultimodalEmbodiedAI|淏楠]] and [[RobotFailureRecoveryEscalation|机器人失败恢复分层接管]]; and resynthesized [[SmallBrainActionLayer|小脑控制层]], [[RobotDeploymentDataLoop|机器人部署数据闭环]], and [[RealTimeInteractiveVideoGeneration|实时互动视频生成]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: model progress becomes durable advantage only when compute, data, product feedback, hardware, and deployment close a loop; robots can keep routine control local, escalate likely failures to a stronger model and then a human, and use recovery traces to reduce later intervention; and playback-rate video generation is not yet proof of coherent continuous interaction. No settled contradiction was adopted. Model scores, resource comparisons, timing forecasts, capability ratings, simulation limits, and deployment economics remain practitioner judgments without audited experiments. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,728 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

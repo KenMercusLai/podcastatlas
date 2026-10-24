@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3627
+topic_total_pages: 3630
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4153,6 +4153,9 @@ topic_concepts:
   - key: "RobotExperienceData"
     title: "Robot Experience Data"
     url: "/wiki/concepts/robotexperiencedata/"
+  - key: "RobotFailureRecoveryEscalation"
+    title: "Robot Failure-Recovery Escalation / 机器人失败恢复分层接管"
+    url: "/wiki/concepts/robotfailurerecoveryescalation/"
   - key: "RobotFormFactorPragmatism"
     title: "Robot Form-Factor Pragmatism"
     url: "/wiki/concepts/robotformfactorpragmatism/"
@@ -8885,6 +8888,9 @@ topic_entities:
   - key: "Hisense"
     title: "海信 / Hisense"
     url: "/wiki/entities/hisense/"
+  - key: "HaoNanMultimodalEmbodiedAI"
+    title: "淏楠（多模态与具身 AI 从业者）"
+    url: "/wiki/entities/haonanmultimodalembodiedai/"
   - key: "ShenpuIntelligence"
     title: "深普智能 / Shenpu Intelligence"
     url: "/wiki/entities/shenpuintelligence/"
@@ -10719,6 +10725,9 @@ topic_sources:
   - key: "duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe"
     title: "对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局"
     url: "/wiki/sources/duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe/"
+  - key: "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82"
+    title: "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠"
+    url: "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
   - key: "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud"
     title: "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康"
     url: "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"

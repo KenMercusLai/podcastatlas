@@ -122422,6 +122422,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/haomengdongjunlatehan/"
     },
+    "HaoNanMultimodalEmbodiedAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
+          "key": "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82",
+          "show": "42章经",
+          "title": "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠",
+          "url": "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/entities/haonanmultimodalembodiedai/"
+    },
     "HaoWuQiangLeader": {
       "episode_count": 1,
       "show_count": 1,
@@ -234611,6 +234627,29 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/realtimehistoricalreenactment/"
     },
+    "RealTimeInteractiveVideoGeneration": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频 [lsB53BqRjojiaDNLQ2QE4StA_B13].md",
+          "key": "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13",
+          "show": "十字路口Crossing",
+          "title": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频",
+          "url": "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
+        },
+        {
+          "episode_file": "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
+          "key": "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82",
+          "show": "42章经",
+          "title": "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠",
+          "url": "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/concepts/realtimeinteractivevideogeneration/"
+    },
     "RealTimeKinematicsLocationNetwork": {
       "episode_count": 1,
       "show_count": 1,
@@ -242533,9 +242572,9 @@
       "url": "/wiki/concepts/robotcontroldatascarcity/"
     },
     "RobotDeploymentDataLoop": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
@@ -242543,9 +242582,16 @@
           "show": "十字路口Crossing",
           "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
           "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
+        },
+        {
+          "episode_file": "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
+          "key": "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82",
+          "show": "42章经",
+          "title": "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠",
+          "url": "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-25",
       "url": "/wiki/concepts/robotdeploymentdataloop/"
     },
     "RobotDeploymentSuccessEconomics": {
@@ -242600,6 +242646,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/robotevaluationproblem/"
+    },
+    "RobotFailureRecoveryEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
+          "key": "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82",
+          "show": "42章经",
+          "title": "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠",
+          "url": "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
+        }
+      ],
+      "updated": "2026-10-25",
+      "url": "/wiki/concepts/robotfailurerecoveryescalation/"
     },
     "RobotInContextLearning": {
       "episode_count": 2,
@@ -259177,9 +259239,9 @@
       "url": "/wiki/concepts/smallbatchbeveragemarketentry/"
     },
     "SmallBrainActionLayer": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家 [litRgTDfOZReriLLT7MtUMkNI-Lr].md",
@@ -259187,9 +259249,16 @@
           "show": "十字路口Crossing",
           "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
           "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+        },
+        {
+          "episode_file": "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
+          "key": "shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82",
+          "show": "42章经",
+          "title": "少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠",
+          "url": "/wiki/sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-25",
       "url": "/wiki/concepts/smallbrainactionlayer/"
     },
     "SmallCircleElectionLegitimacy": {
