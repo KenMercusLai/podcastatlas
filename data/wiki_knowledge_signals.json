@@ -1351,9 +1351,9 @@
       "url": "/wiki/concepts/aiauthorshippresence/"
     },
     "AIAutomationRedistribution": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260803_0803_MP_TECH_pod_128 [tech_20260803_0803_MP_TECH_pod_128].md",
@@ -1389,9 +1389,16 @@
           "show": "Marketplace Tech",
           "title": "What might our tax system look like in the age of AI?",
           "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+        },
+        {
+          "episode_file": "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+          "key": "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h",
+          "show": "知行小酒馆",
+          "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
+          "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
     "AIBacklashPolitics": {
@@ -80853,9 +80860,9 @@
       "url": "/wiki/concepts/effectmeasuredpersonnelselection/"
     },
     "EffectiveAltruism": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -80884,9 +80891,16 @@
           "show": "Economist Podcasts",
           "title": "Dunes and gloom: MBS's annus horribilis",
           "url": "/wiki/sources/dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c/"
+        },
+        {
+          "episode_file": "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+          "key": "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h",
+          "show": "知行小酒馆",
+          "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
+          "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/effectivealtruism/"
     },
     "EffectiveConfusionOdysseyPeriod": {
@@ -164973,6 +164987,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyunlatehan/"
     },
+    "LiZhilin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+          "key": "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h",
+          "show": "知行小酒馆",
+          "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
+          "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/lizhilin/"
+    },
     "LiZibiao": {
       "episode_count": 1,
       "show_count": 1,
@@ -245228,9 +245258,9 @@
       "url": "/wiki/concepts/ruralcircularuseeconomy/"
     },
     "RuralHealthcareTechnologyAccess": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dr. Mehmet Oz on Fixing American Healthcare + Fraud ｜ Live from Davos [39860555].md",
@@ -245238,9 +245268,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Dr. Mehmet Oz on Fixing American Healthcare + Fraud | Live from Davos",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos-39860555/"
+        },
+        {
+          "episode_file": "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+          "key": "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h",
+          "show": "知行小酒馆",
+          "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
+          "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/ruralhealthcaretechnologyaccess/"
     },
     "RuralKnifeCrimeGeography": {
@@ -259643,9 +259680,9 @@
       "url": "/wiki/concepts/socialemotioninferencelimits/"
     },
     "SocialEmotionalLearning": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
@@ -259653,9 +259690,16 @@
           "show": "十字路口Crossing",
           "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
           "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        },
+        {
+          "episode_file": "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+          "key": "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h",
+          "show": "知行小酒馆",
+          "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
+          "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/socialemotionallearning/"
     },
     "SocialHistoryCaseFraming": {
@@ -319068,9 +319112,9 @@
       "url": "/wiki/entities/zhipuai/"
     },
     "ZhixingXiaojiuguan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
@@ -319085,6 +319129,13 @@
           "show": "知行小酒馆",
           "title": "E254 我的意外之财｜小酒馆故事会🍻",
           "url": "/wiki/sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil/"
+        },
+        {
+          "episode_file": "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+          "key": "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h",
+          "show": "知行小酒馆",
+          "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
+          "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
         }
       ],
       "updated": "2026-10-24",

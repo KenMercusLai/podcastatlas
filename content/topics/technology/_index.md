@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3625
+topic_total_pages: 3627
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6908,6 +6908,9 @@ topic_entities:
   - key: "LiXiangLiAuto"
     title: "Li Xiang / 李想 (Li Auto)"
     url: "/wiki/entities/lixiangliauto/"
+  - key: "LiZhilin"
+    title: "Li Zhilin / 李志林"
+    url: "/wiki/entities/lizhilin/"
   - key: "LibTV"
     title: "Lib TV"
     url: "/wiki/entities/libtv/"
@@ -9696,6 +9699,9 @@ topic_sources:
   - key: "e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0"
     title: "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学"
     url: "/wiki/sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0/"
+  - key: "e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h"
+    title: "E253 AI 会改变世界，可它真的有让世界变好吗？"
+    url: "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
   - key: "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d"
     title: "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长"
     url: "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"

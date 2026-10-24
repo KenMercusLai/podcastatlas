@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E253 AI 会改变世界，可它真的有让世界变好吗？](sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h.md) — 知行小酒馆与李志林从乡村医疗、社会情感教育、就业和捐赠实践讨论AI收益为何不会自动普惠，以及产权、税收、公益与人的最后一公里如何共同决定分配。
 - [E254 我的意外之财｜小酒馆故事会🍻](sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil.md) — 知行小酒馆以彩票、赔偿、奖学金、遗产调解和寿险受益权五个故事，说明意外之财能扩展选择，却无法替代既有的关系、习惯与责任。
 - [E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？](sources/e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi.md) — 知行小酒馆把物价、房地产、人口、AI、产能、出口和短剧放入同一框架，讨论旧有努力—回报叙事失效后如何以创造、照护、传承和连接重建意义。
 - [AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?](sources/allin-e294-ch-allin-e294-ch.md) — All-In on concentrated AI demand, hybrid open-weight enterprise deployment, assume-breach cyber defense, agent transaction liability, and contested French fiscal-social reform.
@@ -4821,6 +4822,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
 ## Entities
+- [Li Zhilin / 李志林](entities/LiZhilin.md) — 以有效捐赠和一线公益经验讨论AI收益分配、乡村服务的人的最后一公里及持续行动。
 - [知行小酒馆 / Zhixing Xiaojiuguan](entities/ZhixingXiaojiuguan.md) — Podcast connecting economics, technology, culture, and present-tense life design.
 - [Wang Yujiao / 汪玉娇](entities/WangYujiao.md) — Researcher using Thai qiaopi and multilingual archives to study remittance networks, Southeast Asian Chinese identity, and localization.
 - [Bola Tinubu](entities/BolaTinubu.md) — Nigerian president whose reform record and electoral advantage diverge from widespread household hardship.

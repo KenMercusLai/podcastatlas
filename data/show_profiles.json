@@ -2929,21 +2929,27 @@
       "earliest_episode_date": "2026-10-09",
       "latest_episode_date": "2026-10-23",
       "latest_episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
+          "source_note_count": 2
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
           "source_note_count": 1
         }
       ],
       "entities": [],
       "start_here_episode_files": [
         "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
-        "lgn0zTDgDTPcHfqmHKRSSfFBphIL [lgn0zTDgDTPcHfqmHKRSSfFBphIL].md",
-        "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md"
+        "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
+        "lgn0zTDgDTPcHfqmHKRSSfFBphIL [lgn0zTDgDTPcHfqmHKRSSfFBphIL].md"
       ]
     },
     "硅谷101": {
