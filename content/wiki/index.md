@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E250 为什么学了这么多知识，却还是做不好投资？](sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq.md) — 知行小酒馆与 Shirley 从目标、个人适配、完整周期、投资日志和环境设计解释为何投资知识不会自动变成稳定行动。
 - [E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？](sources/e251-duihua-fangyan-ni-xiangxin-de-shi-jiazhi-touzi-haishi-bafeite-de-zaofu-shenhua-logxctjkal3ai1enfwxdd8j9fpv2.md) — 知行小酒馆与方言把价值投资还原为长期本金、持续现金流、经营认知、能力圈和行为约束，并为多数普通人保留指数投资路径。
 - [E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考](sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt.md) — 知行小酒馆从地方规则、贷款额度、现金流、强制储蓄、住房流动性与灵活就业成本讨论公积金应提取、留存还是用于贷款。
 - [E253 AI 会改变世界，可它真的有让世界变好吗？](sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h.md) — 知行小酒馆与李志林从乡村医疗、社会情感教育、就业和捐赠实践讨论AI收益为何不会自动普惠，以及产权、税收、公益与人的最后一公里如何共同决定分配。
@@ -4824,6 +4825,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
 ## Entities
+- [Shirley（投资教练） / Shirley (Investment Coach)](entities/ShirleyInvestmentCoach.md) — 以目标、适配、记录、完整周期和环境设计帮助普通投资者建立自主体系的金融从业者与兼职教练。
 - [老钱 / Lao Qian (知行小酒馆)](entities/LaoQianZhixing.md) — 以机会成本、地方规则和房地产结构变化分析公积金与住房决策的小酒馆主播。
 - [周一 / Zhou Yi (知行小酒馆)](entities/ZhouYiZhixing.md) — 通过租房提取、资金分账与城市流动性说明行为习惯如何改变公积金选择的年轻职场人。
 - [Li Zhilin / 李志林](entities/LiZhilin.md) — 以有效捐赠和一线公益经验讨论AI收益分配、乡村服务的人的最后一公里及持续行动。

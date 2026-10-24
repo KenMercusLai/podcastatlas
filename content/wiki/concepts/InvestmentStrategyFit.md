@@ -5,8 +5,9 @@ tags: [investing, process, behavior, risk]
 sources:
   - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
   - touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd
+  - e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-04
+last_updated: 2026-10-24
 ---
 
 # Investment Strategy Fit / 投资策略适配
@@ -19,13 +20,14 @@ Investment strategy fit is the consistency between a method's return source, evi
 
 The current synthesis has two levels. At the transaction level, the entry reason and later action must remain inside the same method: a trend trade should not become a value hold only because it fell. At the person level, the method must be a game the investor can understand, believe, resource, and execute through an adverse regime.
 
-Multiple methods can coexist, but only through separated sleeves, evidence standards, and review rules. The newest source adds the idea that strategy should precede emotion: a complete strategy acts as a rational proxy during volatility, while the investor's deeper “axis” allows explicit knowledge, tacit experience, bodily feedback, and repeated practice to accumulate instead of resetting with every market fashion.
+Multiple methods can coexist, but only through separated sleeves, evidence standards, and review rules. Strategy should precede emotion: a complete strategy acts as a rational proxy during volatility, while the investor's deeper “axis” allows explicit knowledge, tacit experience, bodily feedback, and repeated practice to accumulate instead of resetting with every market fashion. E250 adds lifestyle cost and full-cycle validation: a method is not personally suitable merely because its logic is understandable if its research burden, screen time, uncertainty, or drawdown cannot be sustained.
 
 ## Key Claims
 
 - Strategy labels are insufficient; each method needs a stated return source, evidence standard, favorable regime, adverse regime, sizing rule, and invalidation condition.
 - Switching explanatory systems after a loss protects identity while destroying reviewability.
 - Personal fit includes psychology, professional skill, capital duration and obligations, infrastructure, and willingness to perform the method's daily work.
+- Method choice is also lifestyle choice because short-term trading, ETF allocation, and individual-stock research impose different attention, time, and emotional demands.
 - Multi-strategy portfolios require separated sleeves so diversification does not become ad hoc style leakage.
 - Precommitted rules can reduce emotional rewriting, but they must still be reviewed when evidence shows the strategy's edge or personal fit has changed.
 
@@ -34,16 +36,16 @@ Multiple methods can coexist, but only through separated sleeves, evidence stand
 - **Method consistency:** [[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] shows how value, growth, and trend maxims become dangerous when moved into the wrong game after entry.
 - **Person-method coherence:** [[touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd]] requires the investor to state required endowment, daily process, return source, adverse conditions, and risk price for each method.
 - **Strategy before emotion:** [[touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd]] frames rules as a rational proxy that preserves action when immediate feeling would otherwise change the game.
+- **Lifestyle and cycle fit:** [[e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq]] describes abandoning one of two parallel methods after testing fit, choosing an ETF-value system, and later finding the time-return tradeoff of individual-stock research unattractive despite higher returns.
 
 ## Counterevidence & Qualifications
 
-A coherent strategy can still have negative expected value, suffer structural decay, or fail under liquidity stress. Personal belief is not evidence of market edge. Conversely, changing methods is not always inconsistency: exit can be rational when capability, infrastructure, market structure, or evidence has genuinely changed.
+A coherent strategy can still have negative expected value, suffer structural decay, or fail under liquidity stress. Personal belief, historical survival, and trust in a coach are not evidence of market edge. Conversely, changing methods is not always inconsistency: exit can be rational when capability, infrastructure, life constraints, market structure, or evidence has genuinely changed.
 
 ## What Changed
 
-- Expanded fit from transaction-level consistency into person-method coherence.
-- Added required work, infrastructure, adverse regimes, and risk price to the strategy test.
-- Added “strategy before emotion” as an execution principle without treating rules as infallible.
+- Added lifestyle cost and time-return tradeoffs to person-method coherence.
+- Added full-cycle experience as a stronger execution test without treating one cycle as proof of robustness.
 
 ## Related Concepts
 
@@ -52,5 +54,6 @@ A coherent strategy can still have negative expected value, suffer structural de
 - [[PortfolioSuitability]] - applies fit to portfolio job, liquidity, and drawdown path.
 - [[MultiStrategyAllocation]] - combines methods while requiring sleeve separation.
 - [[InvestmentDecisionLogging]] - preserves entry logic and makes method drift visible.
+- [[InvestmentBehaviorCoaching]] - supports method selection and execution while preserving investor autonomy.
 - [[InvestmentRiskManagement]] - constrains sizing, leverage, liquidity, and survival.
 - [[CoreSatellitePortfolio]] - implementation pattern separating durable core exposure from bounded tactical views.

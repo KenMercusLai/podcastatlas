@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2309
+topic_total_pages: 2311
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5201,6 +5201,9 @@ topic_entities:
   - key: "ShiraAviona"
     title: "Shira Aviona"
     url: "/wiki/entities/shiraaviona/"
+  - key: "ShirleyInvestmentCoach"
+    title: "Shirley（投资教练） / Shirley (Investment Coach)"
+    url: "/wiki/entities/shirleyinvestmentcoach/"
   - key: "Shybird"
     title: "Shybird"
     url: "/wiki/entities/shybird/"
@@ -6297,6 +6300,9 @@ topic_sources:
   - key: "e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan"
     title: "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛"
     url: "/wiki/sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan/"
+  - key: "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq"
+    title: "E250 为什么学了这么多知识，却还是做不好投资？"
+    url: "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
   - key: "e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls"
     title: "E43 张潇雨、孟岩对话许哲：没有更好的生活"
     url: "/wiki/sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls/"

@@ -143820,10 +143820,54 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/investmentavoidancetrauma/"
     },
+    "InvestmentBehaviorCoaching": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "所有净值曲线背后都是人，正态分布的普通人 [lsNRKqHtKTjLmrscOw2_mt2Df0yQ].md",
+          "key": "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq",
+          "show": "面基",
+          "title": "所有净值曲线背后都是人，正态分布的普通人",
+          "url": "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"
+        },
+        {
+          "episode_file": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？ [lgcy2tRgzT7ExpVr5bcYbyBrUMMQ].md",
+          "key": "ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq",
+          "show": "Talk三联",
+          "title": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？",
+          "url": "/wiki/sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq/"
+        },
+        {
+          "episode_file": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC [lpg8ZL95KBVJVXSJr8cpB8Ogkeg6].md",
+          "key": "166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6",
+          "show": "起朱楼宴宾客",
+          "title": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC",
+          "url": "/wiki/sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6/"
+        },
+        {
+          "episode_file": "145.基金投顾值得信任吗？ [lrcKug0zJQoLcCzni8AjIkB0K5mi].md",
+          "key": "145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi",
+          "show": "起朱楼宴宾客",
+          "title": "145.基金投顾值得信任吗？",
+          "url": "/wiki/sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi/"
+        },
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/investmentbehaviorcoaching/"
+    },
     "InvestmentDecisionLogging": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "171.为什么牛市后期更容易亏钱？｜ 半年度投资账复盘 [lkkAFVBeA1zTxdwc0eeMpDINc4Yk].md",
@@ -143845,9 +143889,16 @@
           "show": "面基",
           "title": "投资者的敌人：我与我周旋久",
           "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        },
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/investmentdecisionlogging/"
     },
     "InvestmentFraudRedFlags": {
@@ -144333,9 +144384,9 @@
       "url": "/wiki/concepts/investmentriskmanagement/"
     },
     "InvestmentStrategyFit": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
@@ -144350,9 +144401,16 @@
           "show": "面基",
           "title": "投资者的敌人：我与我周旋久",
           "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        },
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/investmentstrategyfit/"
     },
     "InvestorForeclosureSpillover": {
@@ -144372,9 +144430,9 @@
       "url": "/wiki/concepts/investorforeclosurespillover/"
     },
     "InvestorSelfKnowledge": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
@@ -144382,9 +144440,16 @@
           "show": "面基",
           "title": "投资者的敌人：我与我周旋久",
           "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        },
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/investorselfknowledge/"
     },
     "InvestorToOperatorLearning": {
@@ -255828,6 +255893,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/shirefolk/"
     },
+    "ShirleyInvestmentCoach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/shirleyinvestmentcoach/"
+    },
     "Shiseido": {
       "episode_count": 1,
       "show_count": 1,
@@ -271507,9 +271588,9 @@
       "url": "/wiki/entities/syracuse/"
     },
     "SystemDesignOverWillpower": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
@@ -271517,9 +271598,16 @@
           "show": "纵横四海",
           "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
           "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        },
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/systemdesignoverwillpower/"
     },
     "SystemLevelVehicleAgentArchitecture": {
@@ -319243,9 +319331,9 @@
       "url": "/wiki/entities/zhipuai/"
     },
     "ZhixingXiaojiuguan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
@@ -319281,6 +319369,13 @@
           "show": "知行小酒馆",
           "title": "E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？",
           "url": "/wiki/sources/e251-duihua-fangyan-ni-xiangxin-de-shi-jiazhi-touzi-haishi-bafeite-de-zaofu-shenhua-logxctjkal3ai1enfwxdd8j9fpv2/"
+        },
+        {
+          "episode_file": "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+          "key": "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq",
+          "show": "知行小酒馆",
+          "title": "E250 为什么学了这么多知识，却还是做不好投资？",
+          "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
         }
       ],
       "updated": "2026-10-24",

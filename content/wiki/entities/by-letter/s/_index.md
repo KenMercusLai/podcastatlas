@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13688
+wiki_total_pages: 13689
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "ShireenTippett"
     title: "Shireen Tippett"
     url: "/wiki/entities/shireentippett/"
+  - key: "ShirleyInvestmentCoach"
+    title: "Shirley（投资教练） / Shirley (Investment Coach)"
+    url: "/wiki/entities/shirleyinvestmentcoach/"
   - key: "Shiseido"
     title: "Shiseido / 资生堂"
     url: "/wiki/entities/shiseido/"

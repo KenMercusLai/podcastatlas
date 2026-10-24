@@ -37702,3 +37702,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | E250 为什么学了这么多知识，却还是做不好投资？
+
+Added source `e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq`; created [[ShirleyInvestmentCoach|Shirley（投资教练）]]; migrated and resynthesized [[InvestmentBehaviorCoaching|投资行为陪伴]]; and resynthesized [[ZhixingXiaojiuguan|知行小酒馆]], [[InvestorSelfKnowledge|投资者自知]], [[InvestmentStrategyFit|投资策略适配]], [[InvestmentDecisionLogging]], and [[SystemDesignOverWillpower|系统设计优先于意志力]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: investment begins with the life a person wants money to support; simple broad-market tools do not remove fear, greed, waiting, or workload fit; and records, precommitment, environmental friction, full-cycle experience, and bounded coaching can turn knowledge into more autonomous action without transferring final responsibility away from the investor. No settled contradiction was adopted. Shirley's career, performance, trades, client outcomes, market-cycle readings, and generalized return claims remain retrospective, episode-attributed, non-audited, and non-advisory; one completed cycle does not prove future robustness. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,725 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
