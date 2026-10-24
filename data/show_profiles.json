@@ -2,10 +2,10 @@
   "version": 1,
   "shows": {
     "42章经": {
-      "episode_count": 16,
+      "episode_count": 17,
       "earliest_episode_date": "2024-11-09",
-      "latest_episode_date": "2026-10-17",
-      "latest_episode_file": "lnVlrNKK-MvYHIy31eq_gw4QOpje [lnVlrNKK-MvYHIy31eq_gw4QOpje].md",
+      "latest_episode_date": "2026-10-24",
+      "latest_episode_file": "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
       "source_note_count": 16,
       "topic_matched_source_note_count": 14,
       "topics": [
@@ -47,9 +47,9 @@
       ],
       "start_here_episode_files": [
         "lnVlrNKK-MvYHIy31eq_gw4QOpje [lnVlrNKK-MvYHIy31eq_gw4QOpje].md",
+        "lvbhcwVCtEq4TvFmVcbkRuBW0N82 [lvbhcwVCtEq4TvFmVcbkRuBW0N82].md",
         "lkR2rf-l-fT_P_I6f-TaY5vLNT6e [lkR2rf-l-fT_P_I6f-TaY5vLNT6e].md",
-        "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
-        "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 ｜ 对谈研究员逯雨鑫 [lpXxRnwDHgNSrxuyHrfrv5t1lOjT].md"
+        "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md"
       ]
     },
     "Acquired": {
