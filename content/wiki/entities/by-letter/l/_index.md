@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13686
+wiki_total_pages: 13688
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2630,6 +2630,9 @@ wiki_pages:
   - key: "LaoShe"
     title: "老舍 / Lao She"
     url: "/wiki/entities/laoshe/"
+  - key: "LaoQianZhixing"
+    title: "老钱 / Lao Qian (知行小酒馆)"
+    url: "/wiki/entities/laoqianzhixing/"
   - key: "LaoMai"
     title: "老麦"
     url: "/wiki/entities/laomai/"

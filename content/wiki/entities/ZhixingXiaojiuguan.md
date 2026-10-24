@@ -6,6 +6,7 @@ sources:
   - e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi
   - e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil
   - e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h
+  - e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt
 last_updated: 2026-10-24
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 知行小酒馆 / Zhixing Xiaojiuguan is a podcast connecting economics and money to work, relationships, culture, and practical life design.
 
 ## Current Profile
-In the bounded wiki evidence, the show uses conversational interpretation, expert interviews, and personal stories rather than market prediction or a standardized success formula. Episode E255 moves from weak prices, property, population, production incentives, exports, and AI to work dignity and practical life design. E254 uses five intimate windfall stories to show how family systems, agency, loss, and trust shape the meaning of money. E253 returns to AI through rural health, education, employment, and giving, asking not only what technology can do but who receives its benefits and what human work remains.
+In the bounded wiki evidence, the show uses conversational interpretation, expert interviews, personal stories, and practical decision lists rather than market prediction or a standardized success formula. E255 moves from weak prices, property, population, production incentives, exports, and AI to work dignity and practical life design. E254 uses five intimate windfall stories to show how family systems, agency, loss, and trust shape the meaning of money. E253 returns to AI through rural health, education, employment, and giving. E252 turns housing provident funds into a conditional household choice across policy, cash flow, behavior, mobility, and future borrowing.
 
 ## Key Characteristics
 - Connects macroeconomic structure to household feeling and individual life choices.
@@ -24,6 +25,7 @@ In the bounded wiki evidence, the show uses conversational interpretation, exper
 - Uses historical, institutional, and popular-culture examples to build an explanatory map rather than a point forecast.
 - Uses varied listener stories to compare how the same broad theme changes across family, career, legal, and care contexts.
 - Tests abstract economic and technology claims against frontline delivery, trust, and distribution.
+- Turns financial slogans into decision sequences that include local rules and behavioral implementation.
 - Ends with plural, present-tense forms of agency instead of a standardized success formula.
 
 ## Evidence
@@ -38,12 +40,15 @@ In the bounded wiki evidence, the show uses conversational interpretation, exper
 - [[e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h]] uses cataract care, rural education, remote employment, and donation practice to separate AI capability from broad social benefit.
 - [[e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h]] closes with recurring giving, issue-sharing, and ordinary kindness as small forms of agency rather than a promise that individual action can replace structural reform.
 
+### Household policy and decision implementation
+- [[e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt]] combines reported provident-fund changes with local-rule checks, balance-linked loan consequences, account routing, forced saving, mobility, and whole-cost housing comparison.
+
 ## Qualifications
-The current profile rests on three supplied episode summaries, not a representative sample of the show's archive or independent audience research. The sources do not identify every speaker, document the show's production process, or establish that every historical analogy, quantitative claim, program outcome, or listener account is independently verified.
+The current profile rests on four supplied episode summaries, not a representative sample of the show's archive or independent audience research. The sources do not identify every speaker, document the show's production process, or establish that every historical analogy, quantitative claim, policy detail, program outcome, or listener account is independently verified.
 
 ## What Changed
-- Added E253's expert-interview and frontline-philanthropy branch.
-- Extended the show profile from meaning and household money into technology distribution and last-mile delivery.
+- Added E252's policy-to-household decision-list format.
+- Extended the show profile into behavioral implementation, mobility, and housing-finance tradeoffs.
 
 ## Relationships
 - [[ProductionToConsumptionLegitimacyShift]] - episode-level macroeconomic framework developed by the show.
@@ -52,3 +57,5 @@ The current profile rests on three supplied episode summaries, not a representat
 - [[WindfallLifeSystemTest]] - E254 framework for how existing habits and relationships govern unexpected money.
 - [[AIAutomationRedistribution]] - E253 framework for ownership, taxation, and philanthropy in sharing AI gains.
 - [[LiZhilin|李志林]] - E253 guest connecting AI debate to frontline philanthropic practice.
+- [[HousingProvidentFundUseDecision]] - E252 framework joining policy access, loan effects, cash flow, and self-control.
+- [[LaoQianZhixing|老钱]], [[ZhouYiZhixing|周一]], and [[Yubai|雨白]] - E252 speakers supplying investment, renter, and whole-cost housing perspectives.

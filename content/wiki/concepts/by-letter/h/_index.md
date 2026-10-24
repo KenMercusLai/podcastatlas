@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10765
+wiki_total_pages: 10768
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "HousingPresaleFinancingRisk"
     title: "Housing Presale Financing Risk / 住宅预售融资风险"
     url: "/wiki/concepts/housingpresalefinancingrisk/"
+  - key: "HousingProvidentFundUseDecision"
+    title: "Housing Provident Fund Use Decision / 住房公积金使用决策"
+    url: "/wiki/concepts/housingprovidentfundusedecision/"
   - key: "HousingRateShockVulnerability"
     title: "Housing Rate-Shock Vulnerability"
     url: "/wiki/concepts/housingrateshockvulnerability/"

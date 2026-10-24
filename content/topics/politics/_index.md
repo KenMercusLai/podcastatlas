@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3388
+topic_total_pages: 3389
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -724,6 +724,9 @@ topic_concepts:
   - key: "ChinaFoodSafetyFragmentation"
     title: "China Food Safety Fragmentation"
     url: "/wiki/concepts/chinafoodsafetyfragmentation/"
+  - key: "ChinaHousingProvidentFundPolicyExpansion"
+    title: "China Housing Provident Fund Policy Expansion / 公积金用途扩展"
+    url: "/wiki/concepts/chinahousingprovidentfundpolicyexpansion/"
   - key: "ChinaInsuranceFundsEquityAllocation"
     title: "China Insurance Funds Equity Allocation / 中国险资入市"
     url: "/wiki/concepts/chinainsurancefundsequityallocation/"

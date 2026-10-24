@@ -37686,3 +37686,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
+
+Added source `e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt`; created [[LaoQianZhixing|老钱]], [[ZhouYiZhixing|周一]], [[HousingProvidentFundUseDecision|住房公积金使用决策]], [[ChinaHousingProvidentFundPolicyExpansion|公积金用途扩展]], and [[FlexibleEmploymentProvidentFundParticipation|灵活就业者公积金参缴权衡]]; and resynthesized [[Yubai|雨白]] and [[ZhixingXiaojiuguan|知行小酒馆]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: provident-fund withdrawal, retention, and borrowing should be decided through current local rules, genuine use, balance-linked loan effects, liquidity, whole-cost housing analysis, and the person's ability to keep withdrawn money earmarked; wider uses and flexible-worker access expand choice without making take-up, consumption, or home purchase automatically beneficial. No settled contradiction was adopted. The reported rule changes, permitted uses, rates, limits, processing times, contribution rules, coverage, wage figures, and macro effects remain time- and city-specific episode claims requiring current official confirmation. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,723 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

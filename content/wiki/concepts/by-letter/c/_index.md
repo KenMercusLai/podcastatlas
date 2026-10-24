@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10765
+wiki_total_pages: 10768
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "ChinaHomeSharingSupplyMotivation"
     title: "China Home-Sharing Supply Motivation / 中国家庭共享住宿供给动机"
     url: "/wiki/concepts/chinahomesharingsupplymotivation/"
+  - key: "ChinaHousingProvidentFundPolicyExpansion"
+    title: "China Housing Provident Fund Policy Expansion / 公积金用途扩展"
+    url: "/wiki/concepts/chinahousingprovidentfundpolicyexpansion/"
   - key: "ChinaIndustrialKShapedDivergence"
     title: "China Industrial K-Shaped Divergence / 中国式K型产业分化"
     url: "/wiki/concepts/chinaindustrialkshapeddivergence/"

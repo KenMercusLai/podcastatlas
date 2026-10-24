@@ -47632,6 +47632,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/chinahomesharingsupplymotivation/"
     },
+    "ChinaHousingProvidentFundPolicyExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/chinahousingprovidentfundpolicyexpansion/"
+    },
     "ChinaInnovativeDrugExecutionOriginalityGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -100069,6 +100085,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/flexibilityneuralsafetygating/"
     },
+    "FlexibleEmploymentProvidentFundParticipation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/flexibleemploymentprovidentfundparticipation/"
+    },
     "FlexibleFrontierMilitaryDiscretion": {
       "episode_count": 1,
       "show_count": 1,
@@ -131311,6 +131343,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/housingpresalefinancingrisk/"
     },
+    "HousingProvidentFundUseDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/housingprovidentfundusedecision/"
+    },
     "HousingRateShockVulnerability": {
       "episode_count": 1,
       "show_count": 1,
@@ -160336,6 +160384,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/laopugold/"
+    },
+    "LaoQianZhixing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/laoqianzhixing/"
     },
     "LaoXiuLateHan": {
       "episode_count": 1,
@@ -312387,6 +312451,36 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/yuanziyi/"
     },
+    "Yubai": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法” [lqKjPfQc0YmgVNBoEk5JmJycWTYg].md",
+          "key": "134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg",
+          "show": "起朱楼宴宾客",
+          "title": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”",
+          "url": "/wiki/sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg/"
+        },
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/yubai/"
+    },
     "YuchengWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -319112,9 +319206,9 @@
       "url": "/wiki/entities/zhipuai/"
     },
     "ZhixingXiaojiuguan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
@@ -319136,6 +319230,13 @@
           "show": "知行小酒馆",
           "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
           "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
+        },
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
         }
       ],
       "updated": "2026-10-24",
@@ -320165,6 +320266,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/zhouyafu/"
+    },
+    "ZhouYiZhixing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmju8EfE2LJPb5eO90bmgk8KrdQT [lmju8EfE2LJPb5eO90bmgk8KrdQT].md",
+          "key": "e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt",
+          "show": "知行小酒馆",
+          "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+          "url": "/wiki/sources/e252-gongjijin-xingui-laile-zhebi-qian-gai-zenme-yong-zhefen-xingdong-qingdan-gong-ni-cankao-lmju8efe2ljpb5eo90bmgk8krdqt/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/zhouyizhixing/"
     },
     "ZhouYouwang": {
       "episode_count": 2,
