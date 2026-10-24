@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E254 我的意外之财｜小酒馆故事会🍻](sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil.md) — 知行小酒馆以彩票、赔偿、奖学金、遗产调解和寿险受益权五个故事，说明意外之财能扩展选择，却无法替代既有的关系、习惯与责任。
 - [E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？](sources/e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi.md) — 知行小酒馆把物价、房地产、人口、AI、产能、出口和短剧放入同一框架，讨论旧有努力—回报叙事失效后如何以创造、照护、传承和连接重建意义。
 - [AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?](sources/allin-e294-ch-allin-e294-ch.md) — All-In on concentrated AI demand, hybrid open-weight enterprise deployment, assume-breach cyber defense, agent transaction liability, and contested French fiscal-social reform.
 - [2026秋季篇E06 神秘的外国人！熊谷6人遇害事件](sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g.md) — 日谈物语 excerpt opening the 2015 Kumagaya case through an unfamiliar man's yard entry, cross-language ambiguity, and a resident's call to the neighboring fire station; it ends before the killings or investigation.
@@ -18586,6 +18587,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
 
 ## Concepts
+- [Windfall as a Life-System Test / 意外之财的人生底盘检验](concepts/WindfallLifeSystemTest.md) — Unexpected money expands options while revealing and amplifying the recipient's prior habits, relationships, boundaries, agency, and obligations.
 - [Production-to-Consumption Legitimacy Shift / 从生产正当性到消费正当性](concepts/ProductionToConsumptionLegitimacyShift.md) — Transition required when overcapacity weakens output-first ethics and institutions must value household demand, welfare, and consumption more directly.
 - [Growth Without Broad Diffusion / 增长收益扩散失灵](concepts/GrowthWithoutBroadDiffusion.md) — Distinguishes firm, export, or technology growth from broad employment, local circulation, and household-income transmission.
 - [Instant Entertainment as Moral Compensation / 即时娱乐的价值补偿](concepts/InstantEntertainmentCompensation.md) — Fast stories supplying symbolic dignity, justice, recognition, and deserved reward when real-world feedback is delayed or denied.

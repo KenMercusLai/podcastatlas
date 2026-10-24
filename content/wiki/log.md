@@ -37670,3 +37670,11 @@ Added source `e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xing
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | E254 我的意外之财｜小酒馆故事会🍻
+
+Added source `e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil`; created [[WindfallLifeSystemTest|意外之财的人生底盘检验]]; and resynthesized [[ZhixingXiaojiuguan|知行小酒馆]] and [[SuddenWealthRepovertyRisk|暴富返贫风险]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: unexpected money can absorb debt, reduce pressure, enable education, close litigation, or recognize trust, but it does not itself create restraint, employability, affection, agency, or responsibility. The lottery-family case qualifies automatic re-poverty narratives by showing privacy, stable routines, trusted relationships, and diversified uses as protective conditions. No settled contradiction was adopted. The five listener stories, financial amounts, fraud-linked debt, inheritance dispute, insurance arrangement, legal implications, and investment choices remain self-reported and source-scoped rather than professional advice or representative evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,721 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

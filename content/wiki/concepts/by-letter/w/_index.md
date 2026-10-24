@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10764
+wiki_total_pages: 10765
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "WinRateStartupStrategy"
     title: "Win-Rate Startup Strategy / 优化胜率"
     url: "/wiki/concepts/winratestartupstrategy/"
+  - key: "WindfallLifeSystemTest"
+    title: "Windfall as a Life-System Test / 意外之财的人生底盘检验"
+    url: "/wiki/concepts/windfalllifesystemtest/"
   - key: "WindfallDecisionTrap"
     title: "Windfall Decision Trap / 无故之利"
     url: "/wiki/concepts/windfalldecisiontrap/"

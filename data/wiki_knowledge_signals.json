@@ -268314,9 +268314,9 @@
       "url": "/wiki/concepts/suddenhearingchangeescalation/"
     },
     "SuddenWealthRepovertyRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
@@ -268324,9 +268324,16 @@
           "show": "三五环",
           "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
           "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        },
+        {
+          "episode_file": "lgn0zTDgDTPcHfqmHKRSSfFBphIL [lgn0zTDgDTPcHfqmHKRSSfFBphIL].md",
+          "key": "e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil",
+          "show": "知行小酒馆",
+          "title": "E254 我的意外之财｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/suddenwealthrepovertyrisk/"
     },
     "SuduTechnology": {
@@ -299508,6 +299515,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/winchestercollege/"
     },
+    "WindfallLifeSystemTest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgn0zTDgDTPcHfqmHKRSSfFBphIL [lgn0zTDgDTPcHfqmHKRSSfFBphIL].md",
+          "key": "e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil",
+          "show": "知行小酒馆",
+          "title": "E254 我的意外之财｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/windfalllifesystemtest/"
+    },
     "WindrushNationalMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -319045,9 +319068,9 @@
       "url": "/wiki/entities/zhipuai/"
     },
     "ZhixingXiaojiuguan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
@@ -319055,6 +319078,13 @@
           "show": "知行小酒馆",
           "title": "E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？",
           "url": "/wiki/sources/e255-cong-dajieguo-dao-dahongguo-ni-hai-xiangxin-yue-nuli-yue-xingyun-ma-lmrfbkmfdmun7-cjfvaeogeo6fqi/"
+        },
+        {
+          "episode_file": "lgn0zTDgDTPcHfqmHKRSSfFBphIL [lgn0zTDgDTPcHfqmHKRSSfFBphIL].md",
+          "key": "e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil",
+          "show": "知行小酒馆",
+          "title": "E254 我的意外之财｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e254-wode-yiwai-zhicai-xiaojiuguan-gushihui-lgn0ztdgdtpchfqmhkrssffbphil/"
         }
       ],
       "updated": "2026-10-24",
