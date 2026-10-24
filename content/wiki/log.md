@@ -37710,3 +37710,11 @@ Added source `e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lq
 ## [2026-10-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-24] ingest | E249 对话叶檀：我不再是人生的过道人
+
+Added source `e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x`; created [[YeTan|叶檀]] and [[IllnessOutcomeMoralizationBoundary|疾病结果道德化边界]]; and resynthesized [[ZhixingXiaojiuguan|知行小酒馆]], [[ProgressPressureRestPermission|进步压力与休息许可]], [[WorkaholismAsSociallyRewardedAddiction]], [[AchievementAsAdaptiveOverdrive]], [[MortalityContemplationValueReorientation]], [[OncologyPsychologicalSupport]], and [[KnowingEnough]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: meaningful and necessary effort can become unsustainable when personal-IP revenue, public relevance, employees, investors, and internal insecurity remove practical stopping authority; cancer treatment response and survival contain uncertainty and luck, so courage and rationality should not become measures of patient worth; and wealth becomes enough when it secures living, treatment, family care, stable cash flow, refusal power, and worthwhile action rather than endless growth. No settled contradiction was adopted. Ye Tan's medical causation, treatment response, company history, market influence, financial claims, and generalized social conclusions remain autobiographical or source-scoped rather than medical or investment advice. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,726 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

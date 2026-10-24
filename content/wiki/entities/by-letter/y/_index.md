@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13689
+wiki_total_pages: 13690
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "YeBowen"
     title: "Ye Bowen"
     url: "/wiki/entities/yebowen/"
+  - key: "YeTan"
+    title: "Ye Tan / 叶檀"
+    url: "/wiki/entities/yetan/"
   - key: "YearWithoutASummer"
     title: "Year Without a Summer / 无夏之夏"
     url: "/wiki/entities/yearwithoutasummer/"

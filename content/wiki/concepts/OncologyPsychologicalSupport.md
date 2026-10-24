@@ -5,7 +5,8 @@ tags: [oncology, psychological-support, pain, sleep, recovery]
 sources:
   - vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz
   - vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu
-last_updated: 2026-09-29
+  - e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x
+last_updated: 2026-10-24
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The synthesis does not divide symptoms into either “physical” or “imaginar
 
 [[vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu|VOL.23]] extends the framework beyond the ward encounter. A patient can follow treatment and review schedules while also returning attention to ordinary life between checkpoints. Population survival statistics should inform rather than colonize that interval; they do not specify one person's remaining time.
 
+A survivor-grounded boundary against compulsory bravery appears in [[YeTan|叶檀]]'s account. Treatment response contains uncertainty and luck; asking a patient to be more courageous can convert support into blame and erase those who did not survive to narrate their experience. Listening, companionship, and respect for the patient's decision can be more useful than repeated advice, while still preserving medical escalation and evidence-based care.
+
 ## Key Claims
 - Fear and anxiety in cancer care are understandable responses to mortality, pain, uncertainty, and loss of control.
 - Distress can intensify pain, insomnia, appetite difficulty, and the felt burden of recovery without making the symptoms false.
@@ -28,21 +31,22 @@ The synthesis does not divide symptoms into either “physical” or “imaginar
 - Small, observable recovery goals can replace failure-focused attention with feasible participation and realistic hope.
 - Family emotional regulation can affect the patient's sense of safety, especially around complications and postoperative uncertainty.
 - Treatment and scheduled follow-up can coexist with ordinary life rather than making illness the person's continuous identity.
-- Persistent or severe symptoms still require clinical evaluation even when psychological amplification is plausible.
+- Support should not make courage, optimism, or perfect rationality into presumed causes of survival or measures of patient worth.
 
 ## Evidence
 - Pain and expectation: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] reports a postoperative pain anecdote in which expectation accompanied improved sleep, while the source interprets the pain as real rather than feigned.
 - Conversation and sleep: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] recounts a postoperative patient sleeping better after an hour of non-disease conversation.
 - Recovery focus: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] describes highlighting small increases in eating and activity so cooperation is organized around progress rather than perfection.
 - Life between checkpoints: [[vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu|VOL.23]] recommends following treatment and review plans while resisting continuous identification with population survival statistics or the patient role.
+- Non-moralizing support: [[e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x]] asks family and friends to allow fear and vulnerability, avoid blaming patients for uncertain choices, and offer listening or presence instead of constant instruction.
+- Outcome uncertainty: [[e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x]] treats drug response and survival as partly luck-dependent and survivor narratives as an incomplete sample.
 
 ## Counterevidence & Qualifications
-The evidence is anecdotal and cannot establish mechanism, effect size, causality, or generalizability. Improvement after attention, reassurance, or an expectation cue does not show that underlying disease or postoperative pathology improved. Deceptive placebo use raises ethical concerns, and clinicians should not infer that difficult-to-control pain is psychological without adequate assessment. Avoiding needless fixation on survival statistics must not become withholding material prognostic information or discouraging informed questions. Formal psycho-oncology, psychiatry, psychology, pain, and palliative-care support may be needed beyond ordinary bedside conversation.
+The evidence is anecdotal and cannot establish mechanism, effect size, causality, or generalizability. Improvement after attention, reassurance, or an expectation cue does not show that underlying disease or postoperative pathology improved. Deceptive placebo use raises ethical concerns, and clinicians should not infer that difficult-to-control pain is psychological without adequate assessment. Avoiding needless fixation on survival statistics must not become withholding material prognostic information or discouraging informed questions. Respect for a patient's decision does not require endorsing misinformation or unsafe treatment. Formal psycho-oncology, psychiatry, psychology, pain, and palliative-care support may be needed beyond ordinary companionship.
 
 ## What Changed
-- Established a cancer-care framework joining distress recognition, symptom reality, conversation, family affect, and incremental recovery goals.
-- Made the boundary between supportive expectation effects and disease-directed treatment explicit.
-- Added scheduled follow-up and ordinary life between oncology checkpoints without minimizing prognosis or treatment.
+- Added a survivor-grounded boundary against compulsory bravery, outcome blame, and over-advising.
+- Added biological luck and survivor selection as qualifications on inspirational recovery narratives.
 
 ## Related Concepts
 - [[PlaceboNoceboExpectationEffects]] - expectation can change symptom experience within bounded physiological pathways.
@@ -52,3 +56,4 @@ The evidence is anecdotal and cannot establish mechanism, effect size, causality
 - [[HospiceCare]] - specialist comfort and whole-person support when goals shift away from cure.
 - [[PainAsDistributedExperience]] - pain emerges from interacting bodily, neural, emotional, and social processes.
 - [[ClinicalOutcomeUncertainty]] - prognosis and population statistics do not determine one patient's future with certainty.
+- [[IllnessOutcomeMoralizationBoundary]] - separates treatment participation and support from virtue-based judgments about survival.

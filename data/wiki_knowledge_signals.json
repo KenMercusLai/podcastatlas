@@ -7338,9 +7338,9 @@
       "url": "/wiki/concepts/achaemenidimperialorderideology/"
     },
     "AchievementAsAdaptiveOverdrive": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
@@ -7348,9 +7348,16 @@
           "show": "Tomorrow, Today",
           "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/achievementasadaptiveoverdrive/"
     },
     "AcousticEnvironmentPerception": {
@@ -137100,6 +137107,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/iharasaikaku/"
     },
+    "IllnessOutcomeMoralizationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/concepts/illnessoutcomemoralizationboundary/"
+    },
     "ImageNet": {
       "episode_count": 3,
       "show_count": 2,
@@ -157665,9 +157688,9 @@
       "url": "/wiki/concepts/kneestabilityinjurycascade/"
     },
     "KnowingEnough": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "E44 李晓波对话孟岩：这次，就这样吧？ [lpcrvFgnsEAED-eaMbK9OFnvuQ2-].md",
@@ -157682,9 +157705,16 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/knowingenough/"
     },
     "KnowledgeControlBoundary": {
@@ -195705,9 +195735,9 @@
       "url": "/wiki/concepts/mortalityboundedmeaning/"
     },
     "MortalityContemplationValueReorientation": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1533978257 [SCIM1533978257].md",
@@ -195722,9 +195752,16 @@
           "show": "Huberman Lab",
           "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
           "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/mortalitycontemplationvaluereorientation/"
     },
     "MortalityTransition": {
@@ -208137,9 +208174,9 @@
       "url": "/wiki/entities/onconexus/"
     },
     "OncologyPsychologicalSupport": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
@@ -208154,9 +208191,16 @@
           "show": "这病说来话长",
           "title": "VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生",
           "url": "/wiki/sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/oncologypsychologicalsupport/"
     },
     "OneShotCollaborativeNarrativeMemory": {
@@ -227941,9 +227985,9 @@
       "url": "/wiki/concepts/progressascreativedestructiveforce/"
     },
     "ProgressPressureRestPermission": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llTxpvjI9ZEeWoYGycdyvRnJbN4c [llTxpvjI9ZEeWoYGycdyvRnJbN4c].md",
@@ -227951,9 +227995,16 @@
           "show": "这病说来话长",
           "title": "VOL.188《疯狂动物城2》背后藏着的“成年人心理课”",
           "url": "/wiki/sources/vol-188-fengkuang-dongwucheng-2-beihou-cangzhe-de-chengnianren-xinlike-lltxpvji9zeewoygycdyvrnjbn4c/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/progresspressurerestpermission/"
     },
     "ProgressTrackingSelfAssessment": {
@@ -300624,9 +300675,9 @@
       "url": "/wiki/concepts/workselfworthboundary/"
     },
     "WorkaholismAsSociallyRewardedAddiction": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4316318313 [SCIM4316318313].md",
@@ -300641,9 +300692,16 @@
           "show": "声东击西",
           "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
           "url": "/wiki/sources/408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-24",
       "url": "/wiki/concepts/workaholismassociallyrewardedaddiction/"
     },
     "WorkerBaseModelRouting": {
@@ -309910,6 +309968,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/yemingchen/"
+    },
+    "YeTan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
+        }
+      ],
+      "updated": "2026-10-24",
+      "url": "/wiki/entities/yetan/"
     },
     "YearOfTheFourEmperors": {
       "episode_count": 1,
@@ -319331,9 +319405,9 @@
       "url": "/wiki/entities/zhipuai/"
     },
     "ZhixingXiaojiuguan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
@@ -319376,6 +319450,13 @@
           "show": "知行小酒馆",
           "title": "E250 为什么学了这么多知识，却还是做不好投资？",
           "url": "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
+        },
+        {
+          "episode_file": "li8lFK6AYG48zk63bPnH4QtKmn9X [li8lFK6AYG48zk63bPnH4QtKmn9X].md",
+          "key": "e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x",
+          "show": "知行小酒馆",
+          "title": "E249 对话叶檀：我不再是人生的过道人",
+          "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
         }
       ],
       "updated": "2026-10-24",

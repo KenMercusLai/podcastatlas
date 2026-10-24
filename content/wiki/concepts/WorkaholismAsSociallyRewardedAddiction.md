@@ -5,7 +5,8 @@ tags: [work, addiction, productivity, avoidance, recovery]
 sources:
   - transform-pain-trauma-into-creative-expression-david-choe-scim4316318313
   - 408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf
-last_updated: 2026-10-22
+  - e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x
+last_updated: 2026-10-24
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The episode sharpens the boundary through simultaneous success and collapse. Cho
 
 High-growth organizations can make the rewards of overwork material rather than merely reputational. Rapid business expansion, promotion, income, equity, team growth, and repeated wins can make extreme effort feel rational and often voluntary. That does not make every intense period compulsive; it shows why recognition can arrive late when the same behavior creates both real opportunity and accumulating family, health, and personality costs. The distinction between chosen effort and mandatory presence also makes practical stopping authority a stronger test than hours alone.
 
+A founder and personal-IP version appears in [[YeTan|叶檀]]'s account. When content, reputation, revenue, employees, investors, and public commitments depend heavily on one person, reducing work can feel like abandoning others or sending the whole system to zero. Illness may then become the first socially acceptable exit. This strengthens stopping authority as the central test while preserving that past work could be necessary, joyful, valuable, and freely chosen at earlier stages.
+
 ## Key Claims
 - Social praise can obscure compulsion when high output is treated as sufficient evidence of health.
 - Work may function as avoidance or rapid state change even when the work itself is valuable and skillful.
@@ -28,6 +31,7 @@ High-growth organizations can make the rewards of overwork material rather than 
 - Service to others can coexist with self-neglect and does not automatically settle whether a work pattern is sustainable.
 - Inability to rest, say no, tolerate ordinary life, or create without public payoff can be warning signals, not diagnostic proof.
 - Recovery may require boundaries, time away, relationships, non-instrumental activity, and the practical authority to stop as well as reduced workload.
+- Personal-brand businesses can make overwork structurally sticky by concentrating output and organizational responsibility in one individual.
 
 ## Evidence
 - Hidden social reward - [[transform-pain-trauma-into-creative-expression-david-choe-scim4316318313]] says harmful behavior was rewarded in Choe's career and describes workaholism as protected by praise for productivity and service.
@@ -36,14 +40,15 @@ High-growth organizations can make the rewards of overwork material rather than 
 - Agency tests - [[transform-pain-trauma-into-creative-expression-david-choe-scim4316318313]] connects recovery to saying no, surrendering control, accepting mundane life, and helping without filming the help.
 - High-growth reward loop - [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] describes promotion, wealth, equity, business wins, and team development reinforcing work that also reduced family attention and hardened behavior.
 - Choice boundary - [[408-lijing-hulianwang-zengzhang-de-hongli-daijia-yu-yige-ren-de-shinian-ziwo-chongjian-shizhounian-tebie-jiemu-a9f77ddf]] distinguishes effort chosen for a concrete goal from compulsory presence and work that crosses caregiving or health boundaries.
+- Founder and personal-IP concentration - [[e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x]] connects a company dependent on Ye Tan's output to responsibility for more than one hundred employees, investors, public commitments, and fear that stopping would erase the enterprise.
+- Body and rest warning signals - [[e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x]] describes treating the body as a vehicle, returning quickly after surgery, and requiring cancer before rest no longer felt guilty.
 
 ## Counterevidence & Qualifications
-The sources are personal conversations, not diagnostic studies, and they do not establish that long hours, intense vocation, ambition, creative absorption, startup work, or service are necessarily addiction. Li Jing's account especially shows that extreme effort may deliver real mobility and can be willingly chosen for a bounded period. Work patterns also depend on economic necessity, caregiving, workplace power, culture, and unequal access to exit. Clinical assessment should focus on loss of control, impairment, distress, failed attempts to change, and differential diagnoses rather than using “workaholic” as a casual label.
+The sources are personal conversations, not diagnostic studies, and they do not establish that long hours, intense vocation, ambition, creative absorption, startup work, or service are necessarily addiction. Li Jing and Ye Tan show that extreme effort may deliver real mobility, meaning, and value and can be willingly chosen for a bounded period. Work patterns also depend on economic necessity, caregiving, founder duties, workplace power, culture, and unequal access to exit. The sources do not establish that overwork caused Ye Tan's cancer. Clinical assessment should focus on loss of control, impairment, distress, failed attempts to change, and differential diagnoses rather than using “workaholic” as a casual label.
 
 ## What Changed
-- Added material reward, repeated organizational wins, and career mobility to the mechanisms that can delay recognition of harm.
-- Distinguished chosen high effort from compulsory presence and boundaryless availability.
-- Added family-role spillover and practical stopping authority to the assessment of work-related loss of choice.
+- Added founder responsibility and personal-IP concentration to the mechanisms that can make stopping threaten an entire organization.
+- Clarified that illness can expose lost stopping authority without proving a simple work-to-disease causal chain.
 
 ## Related Concepts
 - [[AddictionAsAttemptedRelief]] - broader functional model in which a behavior initially regulates pain or dysregulation.
@@ -52,3 +57,5 @@ The sources are personal conversations, not diagnostic studies, and they do not 
 - [[InternalWorthAccountability]] - distinction that weakens the equation of productivity with basic worth.
 - [[DiversifiedHappinessPortfolio]] - alternative to concentrating identity and reward entirely in work.
 - [[RestorativeCreativePacing]] - creative rhythm that preserves recovery and sustained engagement.
+- [[ProgressPressureRestPermission]] - distinguishes rest from laziness or moral failure.
+- [[AchievementAsAdaptiveOverdrive]] - traces how insecurity and proof-seeking can persist after success.

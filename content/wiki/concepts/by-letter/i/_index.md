@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10769
+wiki_total_pages: 10770
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "IllinoisAILiabilityBill"
     title: "Illinois AI Liability Bill"
     url: "/wiki/concepts/illinoisailiabilitybill/"
+  - key: "IllnessOutcomeMoralizationBoundary"
+    title: "Illness Outcome Moralization Boundary / 疾病结果道德化边界"
+    url: "/wiki/concepts/illnessoutcomemoralizationboundary/"
   - key: "IMAgentInterfaces"
     title: "IM Agent Interfaces"
     url: "/wiki/concepts/imagentinterfaces/"
