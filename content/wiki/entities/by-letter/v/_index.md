@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 13695
+wiki_total_pages: 13697
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "VictorKlemperer"
     title: "Victor Klemperer"
     url: "/wiki/entities/victorklemperer/"
+  - key: "VideoMME"
+    title: "Video-MME"
+    url: "/wiki/entities/videomme/"
   - key: "Vidiots"
     title: "Vidiots"
     url: "/wiki/entities/vidiots/"

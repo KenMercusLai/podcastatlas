@@ -29919,6 +29919,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/benmacintyre/"
     },
+    "BenchmarkAdoptionDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md",
+          "key": "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+          "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/benchmarkadoptiondesign/"
+    },
     "BenchmarkTrainingDataSeparation": {
       "episode_count": 1,
       "show_count": 1,
@@ -74121,6 +74137,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
+    "DoctoralResearchOperatingMethod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md",
+          "key": "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+          "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/doctoralresearchoperatingmethod/"
+    },
     "DoctoralStudentIsolationMentalHealth": {
       "episode_count": 1,
       "show_count": 1,
@@ -74138,9 +74170,9 @@
       "url": "/wiki/concepts/doctoralstudentisolationmentalhealth/"
     },
     "DoctoralTrainingCareerAlignment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
@@ -74148,9 +74180,16 @@
           "show": "无时差研究所",
           "title": "EP170-一个非典型金融女博士的自述",
           "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
+        },
+        {
+          "episode_file": "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md",
+          "key": "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+          "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-26",
       "url": "/wiki/concepts/doctoraltrainingcareeralignment/"
     },
     "DocumentaryEthicalRestraint": {
@@ -164252,6 +164291,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/likashing/"
     },
+    "LiLeiXiaomiMiMo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md",
+          "key": "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+          "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/lileixiaomimimo/"
+    },
     "LiLingWesternHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -238499,6 +238554,22 @@
       "updated": "2026-10-21",
       "url": "/wiki/concepts/researchfundingadditionality/"
     },
+    "ResearchImpactBeyondAcceptance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md",
+          "key": "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+          "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/researchimpactbeyondacceptance/"
+    },
     "ResearchInstitutionsAsStrategicCapacity": {
       "episode_count": 5,
       "show_count": 2,
@@ -289970,6 +290041,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/victorianwomenprecarity/"
+    },
+    "VideoMME": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md",
+          "key": "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+          "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/videomme/"
     },
     "VideoPodcastAffordance": {
       "episode_count": 4,

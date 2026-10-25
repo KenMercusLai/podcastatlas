@@ -37742,3 +37742,11 @@ Added source `defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-
 ## [2026-10-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-26] ingest | AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员
+
+Added source `ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv`; created [[LiLeiXiaomiMiMo|李磊]], [[VideoMME]], [[DoctoralResearchOperatingMethod|博士研究操作法]], [[ResearchImpactBeyondAcceptance|论文录用之外的研究影响力]], and [[BenchmarkAdoptionDesign|Benchmark 采用设计]]; and resynthesized [[DoctoralTrainingCareerAlignment|博士培养与职业对齐]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: doctoral research benefits from patient selection of consequential problems, quick tests of decisive assumptions, early feedback, strong fundamentals, and accelerated execution only after direction survives validation; publication remains useful but code, data, maintenance, adoption, and feedback add impact evidence; and benchmarks need scientific relevance, realistic tasks, reproducibility, usability, and ecosystem fit. No settled contradiction was adopted. Biographical achievements, reviewer workload, hiring signals, regional PhD comparisons, model capabilities, training transparency, data economics, benchmark performance, and labor forecasts remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic; the age gate triggered global compaction, and refreshed artifacts validate 4,730 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

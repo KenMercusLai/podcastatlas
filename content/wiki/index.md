@@ -4828,6 +4828,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How surveillance crept up on us](sources/defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855-defaultmp3-ywr3ahjkcgo-98b9d3e8cf419acc1f058311ce5ff68b-36658855.md) — Planet Money traces the NYPD's post-9/11 surveillance buildout, Domain Awareness System, procurement secrecy, delayed disclosure, and AI-era oversight stakes.
 
+- [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv.md) — 十字路口Crossing访谈李磊，讨论博士研究方法、导师与职业选择、论文之外的影响力、Benchmark 设计、强化学习与递归式自我改进。
+
 ## Entities
 - [Jorge Brown](entities/JorgeBrown.md) — Futurist connecting AI, institutions, resources, security, inequality, and future generations through a systems-governance frame.
 - [Global Institute for the Future](entities/GlobalInstituteForTheFuture.md) — Jorge Brown's futures organization as presented in the bounded Tomorrow Today interview.
@@ -18603,6 +18605,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [New York City Police Department](entities/NewYorkCityPoliceDepartment.md) — Municipal police agency whose post-9/11 intelligence, surveillance, procurement, and oversight expansion anchors the episode.
 - [Domain Awareness System](entities/DomainAwarenessSystem.md) — NYPD platform integrating cameras, plate reads, calls, complaints, arrest records, and other databases into searchable investigations.
+- [Li Lei / 李磊（小米 MiMo）](entities/LiLeiXiaomiMiMo.md) — University of Hong Kong NLP doctoral student and Xiaomi post-training researcher connecting research method, impact, evaluation, and AI-era doctoral choices.
+- [Video-MME](entities/VideoMME.md) — Long-video understanding benchmark used to connect capability extension with realistic, reproducible, low-friction evaluation.
 
 ## Concepts
 - [Interdependent Future Governance](concepts/InterdependentFutureGovernance.md) — Governance frame treating AI, resources, work, public finance, security, longevity, and legitimacy as coupled systems.
@@ -29471,5 +29475,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Positional Imagination Boundary / 位置塑造的想象边界](concepts/PositionalImaginationBoundary.md) — Distinction between a powerful position's ability to shape the future and any claim to superior knowledge or authority over it.
 
 - [Surveillance Procurement Opacity](concepts/SurveillanceProcurementOpacity.md) — Accountability failure when security exceptions conceal technology acquisition, vendor relationships, costs, and safeguards from timely scrutiny.
+- [Doctoral Research Operating Method / 博士研究操作法](concepts/DoctoralResearchOperatingMethod.md) — Workflow joining consequential problem choice, minimal-assumption tests, early feedback, strong fundamentals, and accelerated execution.
+- [Research Impact Beyond Acceptance / 论文录用之外的研究影响力](concepts/ResearchImpactBeyondAcceptance.md) — Multi-signal evaluation through rigor, open artifacts, maintenance, adoption, and feedback without treating any single metric as conclusive.
+- [Benchmark Adoption Design / Benchmark 采用设计](concepts/BenchmarkAdoptionDesign.md) — Joint design of a meaningful capability test and the reproducible tooling that lets other teams adopt and compare it.
 
 ## Syntheses

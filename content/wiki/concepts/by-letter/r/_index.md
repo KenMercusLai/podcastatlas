@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10775
+wiki_total_pages: 10778
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "ResearchFundingAdditionality"
     title: "Research Funding Additionality"
     url: "/wiki/concepts/researchfundingadditionality/"
+  - key: "ResearchImpactBeyondAcceptance"
+    title: "Research Impact Beyond Acceptance / 论文录用之外的研究影响力"
+    url: "/wiki/concepts/researchimpactbeyondacceptance/"
   - key: "ResearchIndexPortfolioConstruction"
     title: "Research Index Portfolio Construction / 投研指数化"
     url: "/wiki/concepts/researchindexportfolioconstruction/"

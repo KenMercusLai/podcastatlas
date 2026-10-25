@@ -13875,6 +13875,10 @@
     "title": "Benchling",
     "url": "/wiki/entities/benchling/"
   },
+  "BenchmarkAdoptionDesign": {
+    "title": "Benchmark Adoption Design / Benchmark 采用设计",
+    "url": "/wiki/concepts/benchmarkadoptiondesign/"
+  },
   "BenchmarkTrainingDataSeparation": {
     "title": "Benchmark–Training Data Separation / 评测集与训练数据隔离",
     "url": "/wiki/concepts/benchmarktrainingdataseparation/"
@@ -27854,6 +27858,10 @@
   "DoctorPatientCommunication": {
     "title": "Doctor-Patient Communication",
     "url": "/wiki/concepts/doctorpatientcommunication/"
+  },
+  "DoctoralResearchOperatingMethod": {
+    "title": "Doctoral Research Operating Method / 博士研究操作法",
+    "url": "/wiki/concepts/doctoralresearchoperatingmethod/"
   },
   "DoctoralStudentIsolationMentalHealth": {
     "title": "Doctoral Student Isolation and Mental Health / 博士生孤立与心理健康",
@@ -53687,6 +53695,10 @@
     "title": "李乐 / Li Le (late Han)",
     "url": "/wiki/entities/lilelatehan/"
   },
+  "LiLeiXiaomiMiMo": {
+    "title": "Li Lei / 李磊（小米 MiMo）",
+    "url": "/wiki/entities/lileixiaomimimo/"
+  },
   "LiLiHanFuRetainer": {
     "title": "李历 / Li Li (Han Fu retainer)",
     "url": "/wiki/entities/lilihanfuretainer/"
@@ -76011,6 +76023,10 @@
     "title": "Research Funding Additionality",
     "url": "/wiki/concepts/researchfundingadditionality/"
   },
+  "ResearchImpactBeyondAcceptance": {
+    "title": "Research Impact Beyond Acceptance / 论文录用之外的研究影响力",
+    "url": "/wiki/concepts/researchimpactbeyondacceptance/"
+  },
   "ResearchIndexPortfolioConstruction": {
     "title": "Research Index Portfolio Construction / 投研指数化",
     "url": "/wiki/concepts/researchindexportfolioconstruction/"
@@ -92587,6 +92603,10 @@
     "title": "Victory Overreach Failure / 数胜必亡式胜利反噬",
     "url": "/wiki/concepts/victoryoverreachfailure/"
   },
+  "VideoMME": {
+    "title": "Video-MME",
+    "url": "/wiki/entities/videomme/"
+  },
   "VideoMembershipModel": {
     "title": "Video Membership Model",
     "url": "/wiki/concepts/videomembershipmodel/"
@@ -102942,6 +102962,10 @@
   "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731": {
     "title": "AI 时代的超级入口还是手机吗？｜ S10E17",
     "url": "/wiki/sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731/"
+  },
+  "ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv": {
+    "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+    "url": "/wiki/sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv/"
   },
   "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf": {
     "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",

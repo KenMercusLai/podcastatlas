@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10775
+wiki_total_pages: 10778
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "BeltAndRoadExternalDemand"
     title: "Belt and Road External Demand"
     url: "/wiki/concepts/beltandroadexternaldemand/"
+  - key: "BenchmarkAdoptionDesign"
+    title: "Benchmark Adoption Design / Benchmark 采用设计"
+    url: "/wiki/concepts/benchmarkadoptiondesign/"
   - key: "BenchmarkTrainingDataSeparation"
     title: "Benchmark–Training Data Separation / 评测集与训练数据隔离"
     url: "/wiki/concepts/benchmarktrainingdataseparation/"

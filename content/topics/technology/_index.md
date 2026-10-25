@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3630
+topic_total_pages: 3631
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2068,6 +2068,9 @@ topic_concepts:
   - key: "DoctorGuidedAIInterpretation"
     title: "Doctor-Guided AI Interpretation"
     url: "/wiki/concepts/doctorguidedaiinterpretation/"
+  - key: "DoctoralResearchOperatingMethod"
+    title: "Doctoral Research Operating Method / 博士研究操作法"
+    url: "/wiki/concepts/doctoralresearchoperatingmethod/"
   - key: "DomainExpertAlignment"
     title: "Domain Expert Alignment"
     url: "/wiki/concepts/domainexpertalignment/"
