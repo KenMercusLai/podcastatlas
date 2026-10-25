@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10778
+wiki_total_pages: 10781
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "FilibusterMinorityRights"
     title: "Filibuster Minority Rights"
     url: "/wiki/concepts/filibusterminorityrights/"
+  - key: "FilmAsPreparatoryJustice"
+    title: "Film as Preparatory Justice / 电影作为预备性正义"
+    url: "/wiki/concepts/filmaspreparatoryjustice/"
   - key: "FilmClipRemixAfterlife"
     title: "Film Clip Remix Afterlife / 电影片段二创再流通"
     url: "/wiki/concepts/filmclipremixafterlife/"

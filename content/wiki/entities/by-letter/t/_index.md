@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13697
+wiki_total_pages: 13699
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "ThePlainDealer"
     title: "The Plain Dealer"
     url: "/wiki/entities/theplaindealer/"
+  - key: "ThePresidentsCakeFilm"
+    title: "The President's Cake / 《总统的蛋糕》"
+    url: "/wiki/entities/thepresidentscakefilm/"
   - key: "ThePrincipleOfResponsibility"
     title: "The Principle of Responsibility / 《责任原理》"
     url: "/wiki/entities/theprincipleofresponsibility/"

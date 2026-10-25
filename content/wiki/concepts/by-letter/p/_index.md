@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10778
+wiki_total_pages: 10781
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "Peronism"
     title: "Peronism"
     url: "/wiki/concepts/peronism/"
+  - key: "PerpetratorHumanizationResponsibilityBoundary"
+    title: "Perpetrator Humanization–Responsibility Boundary / 加害者人性化与责任边界"
+    url: "/wiki/concepts/perpetratorhumanizationresponsibilityboundary/"
   - key: "PerpetualForeignerStereotype"
     title: "Perpetual Foreigner Stereotype / 永远的外国人刻板印象"
     url: "/wiki/concepts/perpetualforeignerstereotype/"

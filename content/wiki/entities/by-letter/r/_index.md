@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13697
+wiki_total_pages: 13699
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "RiskSocietyBook"
     title: "Risk Society / 《风险社会》"
     url: "/wiki/entities/risksocietybook/"
+  - key: "RithyPanh"
+    title: "Rithy Panh / 潘礼德"
+    url: "/wiki/entities/rithypanh/"
   - key: "RiverFleet"
     title: "River Fleet"
     url: "/wiki/entities/riverfleet/"

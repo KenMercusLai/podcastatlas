@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10778
+wiki_total_pages: 10781
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "TransitionalAIHardware"
     title: "Transitional AI Hardware"
     url: "/wiki/concepts/transitionalaihardware/"
+  - key: "TransitionalJustice"
+    title: "Transitional Justice / 转型正义"
+    url: "/wiki/concepts/transitionaljustice/"
   - key: "TranslationAsCreativeAutonomy"
     title: "Translation as Creative Autonomy / 翻译作为创作自主"
     url: "/wiki/concepts/translationascreativeautonomy/"

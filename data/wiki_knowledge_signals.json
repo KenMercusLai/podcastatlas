@@ -50073,9 +50073,9 @@
       "url": "/wiki/entities/cincinnatus/"
     },
     "CinemaAsNationalMemory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2672520929 [GLT2672520929].md",
@@ -50083,9 +50083,16 @@
           "show": "The Rest Is History",
           "title": "242. French History on Film",
           "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        },
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-26",
       "url": "/wiki/concepts/cinemaasnationalmemory/"
     },
     "CinemaAudienceBehavioralContract": {
@@ -74193,9 +74200,9 @@
       "url": "/wiki/concepts/doctoraltrainingcareeralignment/"
     },
     "DocumentaryEthicalRestraint": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
@@ -74203,9 +74210,16 @@
           "show": "不合时宜",
           "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
           "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        },
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-26",
       "url": "/wiki/concepts/documentaryethicalrestraint/"
     },
     "DogBloodCase": {
@@ -98730,6 +98744,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/entities/filippobrunelleschi/"
+    },
+    "FilmAsPreparatoryJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/filmaspreparatoryjustice/"
     },
     "FilmDistributionGatekeeping": {
       "episode_count": 1,
@@ -217147,6 +217177,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/peronism/"
     },
+    "PerpetratorHumanizationResponsibilityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/perpetratorhumanizationresponsibilityboundary/"
+    },
     "PerpetualForeignerStereotype": {
       "episode_count": 1,
       "show_count": 1,
@@ -241593,6 +241639,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/ritan/"
+    },
+    "RithyPanh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/rithypanh/"
     },
     "RitualAffectiveOrder": {
       "episode_count": 3,
@@ -277035,6 +277097,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/thepillowbook/"
     },
+    "ThePresidentsCakeFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/thepresidentscakefilm/"
+    },
     "ThePrince": {
       "episode_count": 2,
       "show_count": 2,
@@ -283307,6 +283385,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/transitionalaihardware/"
+    },
+    "TransitionalJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
+          "key": "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8",
+          "show": "电影巨辩",
+          "title": "20世纪专制史，电影先清算一部分",
+          "url": "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/transitionaljustice/"
     },
     "TranslationAsCreativeAutonomy": {
       "episode_count": 1,

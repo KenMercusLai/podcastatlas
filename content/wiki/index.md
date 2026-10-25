@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [20世纪专制史，电影先清算一部分](sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8.md) — 电影巨辩跨国比较审判、档案、遗忘、和解与影像记忆，主张电影不能代替法庭，却能为未来正义保存证据与语言。
 - [The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730.md) — Tomorrow Today interview on concentrated AI power, democratic legitimacy, interdependent future challenges, institutional redesign, measurable public deliberation, and stewardship.
 - [少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠](sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82.md) — 42章经访谈淏楠，以其 Agent、多模态 RL Infra 与具身预训练经历比较视频生成、实时互动、世界模型、真实数据和分层机器人部署。
 - [EP290 方言翻红：现在的年轻人，为啥爱上说“土话”？](sources/ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk.md) — Talk三联 episode on dialect revival, identity, migration, subtitles, short-video feedback, rap, stand-up, and the tension between language preservation and performed accent.
@@ -4831,6 +4832,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv.md) — 十字路口Crossing访谈李磊，讨论博士研究方法、导师与职业选择、论文之外的影响力、Benchmark 设计、强化学习与递归式自我改进。
 
 ## Entities
+- [Rithy Panh / 潘礼德](entities/RithyPanh.md) — Cambodian filmmaker using testimony, propaganda, clay figures, reenactment, and visible construction to interrogate Khmer Rouge memory.
+- [The President's Cake / 《总统的蛋糕》](entities/ThePresidentsCakeFilm.md) — Iraqi child-centered film connecting authoritarian ritual, scarcity, informer culture, sanctions, and war.
 - [Jorge Brown](entities/JorgeBrown.md) — Futurist connecting AI, institutions, resources, security, inequality, and future generations through a systems-governance frame.
 - [Global Institute for the Future](entities/GlobalInstituteForTheFuture.md) — Jorge Brown's futures organization as presented in the bounded Tomorrow Today interview.
 - [淏楠（多模态与具身 AI 从业者）](entities/HaoNanMultimodalEmbodiedAI.md) — 曾参与语言 Agent 数据、腾讯混元多模态 RL Infra 与具身基础模型预训练的跨方向从业者。
@@ -18609,6 +18612,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Video-MME](entities/VideoMME.md) — Long-video understanding benchmark used to connect capability extension with realistic, reproducible, low-friction evaluation.
 
 ## Concepts
+- [Transitional Justice / 转型正义](concepts/TransitionalJustice.md) — Public process combining truth, accountability, repair, memory, institutional reform, and negotiated political limits after state violence.
+- [Film as Preparatory Justice / 电影作为预备性正义](concepts/FilmAsPreparatoryJustice.md) — Film's preservation of testimony, experience, and evidence before formal transition or accountability becomes possible.
+- [Perpetrator Humanization–Responsibility Boundary / 加害者人性化与责任边界](concepts/PerpetratorHumanizationResponsibilityBoundary.md) — Distinguishes making perpetrators intelligible from excusing public harm and responsibility.
 - [Interdependent Future Governance](concepts/InterdependentFutureGovernance.md) — Governance frame treating AI, resources, work, public finance, security, longevity, and legitimacy as coupled systems.
 - [Measurable Public Deliberation](concepts/MeasurablePublicDeliberation.md) — Forum design joining protected disagreement to specific, short-horizon, publicly checkable commitments.
 - [Robot Failure-Recovery Escalation / 机器人失败恢复分层接管](concepts/RobotFailureRecoveryEscalation.md) — 本地控制模型执行、强模型接管疑难失败、人工兜底并以恢复轨迹反哺小模型的部署模式。

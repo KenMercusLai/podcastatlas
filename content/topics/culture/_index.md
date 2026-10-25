@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3561
+topic_total_pages: 3565
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1411,6 +1411,9 @@ topic_concepts:
   - key: "FictionTruthContract"
     title: "Fiction–Truth Contract / 虚构—真实契约"
     url: "/wiki/concepts/fictiontruthcontract/"
+  - key: "FilmAsPreparatoryJustice"
+    title: "Film as Preparatory Justice / 电影作为预备性正义"
+    url: "/wiki/concepts/filmaspreparatoryjustice/"
   - key: "FilmClipRemixAfterlife"
     title: "Film Clip Remix Afterlife / 电影片段二创再流通"
     url: "/wiki/concepts/filmclipremixafterlife/"
@@ -2554,6 +2557,9 @@ topic_concepts:
   - key: "PerformerHealthAsCareerInfrastructure"
     title: "Performer Health as Career Infrastructure / 表演者健康作为职业基础设施"
     url: "/wiki/concepts/performerhealthascareerinfrastructure/"
+  - key: "PerpetratorHumanizationResponsibilityBoundary"
+    title: "Perpetrator Humanization–Responsibility Boundary / 加害者人性化与责任边界"
+    url: "/wiki/concepts/perpetratorhumanizationresponsibilityboundary/"
   - key: "PersianMiniaturePainting"
     title: "Persian Miniature Painting"
     url: "/wiki/concepts/persianminiaturepainting/"
@@ -6512,6 +6518,9 @@ topic_entities:
   - key: "PoeticEdda"
     title: "The Poetic Edda / 诗体埃达"
     url: "/wiki/entities/poeticedda/"
+  - key: "ThePresidentsCakeFilm"
+    title: "The President's Cake / 《总统的蛋糕》"
+    url: "/wiki/entities/thepresidentscakefilm/"
   - key: "ThePrincipleOfResponsibility"
     title: "The Principle of Responsibility / 《责任原理》"
     url: "/wiki/entities/theprincipleofresponsibility/"
@@ -9633,6 +9642,9 @@ topic_sources:
   - key: "208-george-orwell-glt5823999588"
     title: "208. George Orwell"
     url: "/wiki/sources/208-george-orwell-glt5823999588/"
+  - key: "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8"
+    title: "20世纪专制史，电影先清算一部分"
+    url: "/wiki/sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8/"
   - key: "21-hong-yu-hei-ta-si-yu-zhencheng-569042001"
     title: "21.红与黑：他死于真诚"
     url: "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"

@@ -2790,14 +2790,14 @@
       "earliest_episode_date": "2026-06-02",
       "latest_episode_date": "2026-10-25",
       "latest_episode_file": "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 5
+          "source_note_count": 6
         },
         {
           "key": "politics",
@@ -2820,10 +2820,10 @@
       ],
       "entities": [],
       "start_here_episode_files": [
+        "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md",
         "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
         "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
-        "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
-        "GKwRIaIOsOYXCck-AwTtzVX8 [GKwRIaIOsOYXCck-AwTtzVX8].md"
+        "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md"
       ]
     },
     "疯投圈": {

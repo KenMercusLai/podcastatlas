@@ -2831,6 +2831,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "200-american-civil-war-the-causes-part-1-glt1124511401": [
     {
       "key": "history",
@@ -37845,6 +37852,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FilmAsPreparatoryJustice": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FilmClipRemixAfterlife": [
     {
       "key": "culture",
@@ -69648,6 +69662,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PerpetratorHumanizationResponsibilityBoundary": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PersianMiniaturePainting": [
     {
       "key": "culture",
@@ -89437,6 +89458,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ThePresidentsCakeFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ThePrince": [
     {
       "key": "culture",
@@ -91285,6 +91313,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TransitionalJustice": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TranslationAsPoliticalMediation": [
