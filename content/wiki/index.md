@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？](sources/dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz.md) — 声动早咖啡从纤维分类、纺织工艺、产业集群、标签信息与文化史解释聚酯为何无处不在，以及为何成分不能单独决定服装品质。
 - [20世纪专制史，电影先清算一部分](sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8.md) — 电影巨辩跨国比较审判、档案、遗忘、和解与影像记忆，主张电影不能代替法庭，却能为未来正义保存证据与语言。
 - [The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730.md) — Tomorrow Today interview on concentrated AI power, democratic legitimacy, interdependent future challenges, institutional redesign, measurable public deliberation, and stewardship.
 - [少有的同时做过 Agent、多模态和具身的人｜对谈前混元多模态 RL Infra 负责人淏楠](sources/shaoyou-de-tongshi-zuoguo-agent-duomotai-he-jushen-de-ren-duitan-qian-hunyuan-duomotai-rl-infra-fuzeren-haonan-lvbhcwvcteq4tvfmvcbkrubw0n82.md) — 42章经访谈淏楠，以其 Agent、多模态 RL Infra 与具身预训练经历比较视频生成、实时互动、世界模型、真实数据和分层机器人部署。
@@ -29484,5 +29485,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Doctoral Research Operating Method / 博士研究操作法](concepts/DoctoralResearchOperatingMethod.md) — Workflow joining consequential problem choice, minimal-assumption tests, early feedback, strong fundamentals, and accelerated execution.
 - [Research Impact Beyond Acceptance / 论文录用之外的研究影响力](concepts/ResearchImpactBeyondAcceptance.md) — Multi-signal evaluation through rigor, open artifacts, maintenance, adoption, and feedback without treating any single metric as conclusive.
 - [Benchmark Adoption Design / Benchmark 采用设计](concepts/BenchmarkAdoptionDesign.md) — Joint design of a meaningful capability test and the reproducible tooling that lets other teams adopt and compare it.
+
+- [Polyester As Apparel Material / 聚酯纤维作为服装材料](concepts/PolyesterAsApparelMaterial.md) — 把聚酯视为由聚合物、纤维、纱线、织造、整理、混纺和产业集群共同塑造的服装材料系统。
+- [Fiber-Label Quality Gap / 纤维标签与成衣品质差距](concepts/FiberLabelQualityGap.md) — 区分规范成分披露与手感、功能、耐用性、工艺及价值判断所需的更完整信息。
 
 ## Syntheses

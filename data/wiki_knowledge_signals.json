@@ -98372,6 +98372,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/feverheatimmuneresponseboundary/"
     },
+    "FiberLabelQualityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Os8_qAItnmQTvN8Yz [GKwRIW4Os8_qAItnmQTvN8Yz].md",
+          "key": "dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？",
+          "url": "/wiki/sources/dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/fiberlabelqualitygap/"
+    },
     "FictionAsHistoricalEvidence": {
       "episode_count": 6,
       "show_count": 3,
@@ -222149,6 +222165,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/polybius/"
+    },
+    "PolyesterAsApparelMaterial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Os8_qAItnmQTvN8Yz [GKwRIW4Os8_qAItnmQTvN8Yz].md",
+          "key": "dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？",
+          "url": "/wiki/sources/dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/polyesterasapparelmaterial/"
     },
     "PolygenicBehaviorRisk": {
       "episode_count": 1,

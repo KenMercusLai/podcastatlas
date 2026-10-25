@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10781
+wiki_total_pages: 10783
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "FiberConnectorDeployment"
     title: "Fiber Connector Deployment"
     url: "/wiki/concepts/fiberconnectordeployment/"
+  - key: "FiberLabelQualityGap"
+    title: "Fiber-Label Quality Gap / 纤维标签与成衣品质差距"
+    url: "/wiki/concepts/fiberlabelqualitygap/"
   - key: "FictionAsHistoricalEvidence"
     title: "Fiction As Historical Evidence"
     url: "/wiki/concepts/fictionashistoricalevidence/"

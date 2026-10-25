@@ -37751,9 +37751,17 @@ Added source `ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-26] ingest | 达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？
+
+Added source `dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz`; created [[PolyesterAsApparelMaterial|聚酯纤维作为服装材料]] and [[FiberLabelQualityGap|纤维标签与成衣品质差距]]. Core synthesis: polyester is a broad, engineerable material family whose garment performance emerges from polymer type, fiber and yarn specification, construction, finishing, blending, design, and supply-chain execution; mature industrial clusters help translate that flexibility into scale and consistency; and a standardized fiber-content label remains useful without being a complete quality or value judgment. No settled contradiction was adopted. Production shares, costs, standards, model and retail news, restaurant data, and environmental generalizations remain episode-attributed and time-sensitive, while microplastic release, recycling difficulty, and comparative lifecycle impact remain outside the episode's evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,732 sources across 805 overview paragraphs and nine topics.
+
 ## [2026-10-26] ingest | 20世纪专制史，电影先清算一部分
 
 Added source `20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8`; created [[RithyPanh|潘礼德]], [[ThePresidentsCakeFilm|《总统的蛋糕》]], [[TransitionalJustice|转型正义]], [[FilmAsPreparatoryJustice|电影作为预备性正义]], and [[PerpetratorHumanizationResponsibilityBoundary|加害者人性化与责任边界]]; and resynthesized [[CinemaAsNationalMemory]] and [[DocumentaryEthicalRestraint|纪录片伦理克制]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: transitional justice is a prolonged and reversible combination of legal, institutional, material, archival, and cultural work; cinema cannot determine criminal liability but can preserve testimony, everyday experience, missing images, and public language before formal accountability becomes possible; and making perpetrators intelligible must not turn private shame, suffering, charisma, or performance into an excuse that displaces public harm. No settled contradiction was adopted. The episode's national comparisons, historical figures, statistics, translated film titles, political forecasts, and judgments about incompletely viewed works remain source-scoped because the supplied file is a structured summary rather than a transcript or specialist comparative history. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,731 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-26] lint | Wiki health check
 

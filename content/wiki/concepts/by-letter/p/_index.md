@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10781
+wiki_total_pages: 10783
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "PollinationServiceMarket"
     title: "Pollination Service Market"
     url: "/wiki/concepts/pollinationservicemarket/"
+  - key: "PolyesterAsApparelMaterial"
+    title: "Polyester As Apparel Material / 聚酯纤维作为服装材料"
+    url: "/wiki/concepts/polyesterasapparelmaterial/"
   - key: "PolygenicBehaviorRisk"
     title: "Polygenic Behavior Risk"
     url: "/wiki/concepts/polygenicbehaviorrisk/"
