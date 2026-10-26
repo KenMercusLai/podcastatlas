@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2312
+topic_total_pages: 2316
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3097,6 +3097,9 @@ topic_concepts:
   - key: "SystemicRiskException"
     title: "Systemic Risk Exception"
     url: "/wiki/concepts/systemicriskexception/"
+  - key: "SystemicallyImportantBankCapitalCoverage"
+    title: "Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖"
+    url: "/wiki/concepts/systemicallyimportantbankcapitalcoverage/"
   - key: "TailRiskHedging"
     title: "Tail-Risk Hedging"
     url: "/wiki/concepts/tailriskhedging/"
@@ -3953,6 +3956,9 @@ topic_entities:
   - key: "COWZ"
     title: "COWZ"
     url: "/wiki/entities/cowz/"
+  - key: "CreditSuisse"
+    title: "Credit Suisse / 瑞士信贷"
+    url: "/wiki/entities/creditsuisse/"
   - key: "CRV"
     title: "CRV"
     url: "/wiki/entities/crv/"
@@ -5456,6 +5462,9 @@ topic_entities:
   - key: "USDepartmentOfCommerce"
     title: "U.S. Department of Commerce"
     url: "/wiki/entities/usdepartmentofcommerce/"
+  - key: "UBS"
+    title: "UBS / 瑞银"
+    url: "/wiki/entities/ubs/"
   - key: "UnionSquareVentures"
     title: "Union Square Ventures"
     url: "/wiki/entities/unionsquareventures/"
@@ -6894,6 +6903,9 @@ topic_sources:
   - key: "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716"
     title: "商业小样48 | 不要在财报中创造指标"
     url: "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
+  - key: "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds"
+    title: "商业小样51 | 什么，瑞银要把总部搬离瑞士？"
+    url: "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
   - key: "ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof"
     title: "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮"
     url: "/wiki/sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof/"

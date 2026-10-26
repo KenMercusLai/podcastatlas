@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13699
+wiki_total_pages: 13701
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1700,6 +1700,9 @@ wiki_pages:
   - key: "CreateWise"
     title: "CreateWise"
     url: "/wiki/entities/createwise/"
+  - key: "CreditSuisse"
+    title: "Credit Suisse / 瑞士信贷"
+    url: "/wiki/entities/creditsuisse/"
   - key: "Creo"
     title: "Creo"
     url: "/wiki/entities/creo/"

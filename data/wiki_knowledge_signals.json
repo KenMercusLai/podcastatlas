@@ -26862,6 +26862,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/bankofengland/"
     },
+    "BankingLossAllocationPolitics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Hard cedar： Lebanon seeks Trump’s help [6a5f41e97bddc0bea5542de5].md",
+          "key": "hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5",
+          "show": "Economist Podcasts",
+          "title": "Hard cedar: Lebanon seeks Trump's help",
+          "url": "/wiki/sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5/"
+        },
+        {
+          "episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
+          "key": "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/bankinglossallocationpolitics/"
+    },
     "BanmaJiangMedicalGuest": {
       "episode_count": 2,
       "show_count": 1,
@@ -61337,6 +61360,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/creditcardscalecontraction/"
+    },
+    "CreditSuisse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
+          "key": "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/creditsuisse/"
     },
     "CrestedMynaTaiwan": {
       "episode_count": 1,
@@ -124010,6 +124049,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/headphoneusehearingrisk/"
+    },
+    "HeadquartersRelocationRegulatoryLeverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
+          "key": "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/headquartersrelocationregulatoryleverage/"
     },
     "HealthCodedFoodLabelLiteracy": {
       "episode_count": 2,
@@ -271631,6 +271686,36 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/swisse/"
     },
+    "Switzerland": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "tech_20260114_0114_MP_TECH_pod_128 [tech_20260114_0114_MP_TECH_pod_128].md",
+          "key": "tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "This Swiss city wants to become the bitcoin capital of Europe",
+          "url": "/wiki/sources/tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
+          "key": "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/switzerland/"
+    },
     "SwornBrotherhoodSocialInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -272089,6 +272174,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/systemicsleeplosseffects/"
+    },
+    "SystemicallyImportantBankCapitalCoverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
+          "key": "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/systemicallyimportantbankcapitalcoverage/"
     },
     "SystemsEraGeneralship": {
       "episode_count": 1,
@@ -285472,6 +285573,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/uapcompartmentalization/"
+    },
+    "UBS": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
+          "key": "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds",
+          "show": "商业就是这样",
+          "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+          "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/ubs/"
     },
     "UBTechRobotics": {
       "episode_count": 1,

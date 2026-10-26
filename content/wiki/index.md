@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样51 | 什么，瑞银要把总部搬离瑞士？](sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds.md) — 商业就是这样从瑞信救助、瑞银合并、海外子公司资本覆盖与潜在总部迁移解释“大而不能倒”的安全成本如何在银行、股东和国家之间分配。
 - [达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？](sources/dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz.md) — 声动早咖啡从纤维分类、纺织工艺、产业集群、标签信息与文化史解释聚酯为何无处不在，以及为何成分不能单独决定服装品质。
 - [20世纪专制史，电影先清算一部分](sources/20-shiji-zhuanzhi-shi-dianying-xian-qingsuan-yi-bufen-gkwriaiosoyxcck-awttzvx8.md) — 电影巨辩跨国比较审判、档案、遗忘、和解与影像记忆，主张电影不能代替法庭，却能为未来正义保存证据与语言。
 - [The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730.md) — Tomorrow Today interview on concentrated AI power, democratic legitimacy, interdependent future challenges, institutional redesign, measurable public deliberation, and stewardship.
@@ -4833,6 +4834,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv.md) — 十字路口Crossing访谈李磊，讨论博士研究方法、导师与职业选择、论文之外的影响力、Benchmark 设计、强化学习与递归式自我改进。
 
 ## Entities
+- [UBS / 瑞银](entities/UBS.md) — Swiss global bank whose Credit Suisse acquisition and proposed parent-capital requirement drive a reported headquarters-relocation debate.
+- [Credit Suisse / 瑞士信贷](entities/CreditSuisse.md) — Swiss bank whose 2023 confidence crisis and emergency acquisition reshaped Switzerland's systemic-risk problem.
 - [Rithy Panh / 潘礼德](entities/RithyPanh.md) — Cambodian filmmaker using testimony, propaganda, clay figures, reenactment, and visible construction to interrogate Khmer Rouge memory.
 - [The President's Cake / 《总统的蛋糕》](entities/ThePresidentsCakeFilm.md) — Iraqi child-centered film connecting authoritarian ritual, scarcity, informer culture, sanctions, and war.
 - [Jorge Brown](entities/JorgeBrown.md) — Futurist connecting AI, institutions, resources, security, inequality, and future generations through a systems-governance frame.
@@ -18613,6 +18616,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Video-MME](entities/VideoMME.md) — Long-video understanding benchmark used to connect capability extension with realistic, reproducible, low-friction evaluation.
 
 ## Concepts
+- [Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖](concepts/SystemicallyImportantBankCapitalCoverage.md) — Parent-level common-equity coverage that contains foreign-subsidiary losses while constraining distributions and balance-sheet choices.
+- [Headquarters Relocation as Regulatory Leverage / 总部迁移监管杠杆](concepts/HeadquartersRelocationRegulatoryLeverage.md) — Use of a credible domicile change to influence costly home-state rules without necessarily withdrawing local operations.
 - [Transitional Justice / 转型正义](concepts/TransitionalJustice.md) — Public process combining truth, accountability, repair, memory, institutional reform, and negotiated political limits after state violence.
 - [Film as Preparatory Justice / 电影作为预备性正义](concepts/FilmAsPreparatoryJustice.md) — Film's preservation of testimony, experience, and evidence before formal transition or accountability becomes possible.
 - [Perpetrator Humanization–Responsibility Boundary / 加害者人性化与责任边界](concepts/PerpetratorHumanizationResponsibilityBoundary.md) — Distinguishes making perpetrators intelligible from excusing public harm and responsibility.

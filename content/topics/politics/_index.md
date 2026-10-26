@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3395
+topic_total_pages: 3398
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1996,6 +1996,9 @@ topic_concepts:
   - key: "HawkeKeatingReformSettlement"
     title: "Hawke-Keating Reform Settlement"
     url: "/wiki/concepts/hawkekeatingreformsettlement/"
+  - key: "HeadquartersRelocationRegulatoryLeverage"
+    title: "Headquarters Relocation as Regulatory Leverage / 总部迁移监管杠杆"
+    url: "/wiki/concepts/headquartersrelocationregulatoryleverage/"
   - key: "HealthInsuranceDeathSpiral"
     title: "Health Insurance Death Spiral"
     url: "/wiki/concepts/healthinsurancedeathspiral/"
@@ -4246,6 +4249,9 @@ topic_concepts:
   - key: "SystemicRiskException"
     title: "Systemic Risk Exception"
     url: "/wiki/concepts/systemicriskexception/"
+  - key: "SystemicallyImportantBankCapitalCoverage"
+    title: "Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖"
+    url: "/wiki/concepts/systemicallyimportantbankcapitalcoverage/"
   - key: "TacticalDelayRiskTransfer"
     title: "Tactical Delay Risk Transfer / 延时转责式政治化解"
     url: "/wiki/concepts/tacticaldelayrisktransfer/"
@@ -10173,6 +10179,9 @@ topic_sources:
   - key: "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821"
     title: "商业小样49 | 为什么律师按小时收费？"
     url: "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+  - key: "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds"
+    title: "商业小样51 | 什么，瑞银要把总部搬离瑞士？"
+    url: "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
   - key: "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf"
     title: "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面"
     url: "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"

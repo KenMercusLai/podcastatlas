@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10783
+wiki_total_pages: 10785
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "HeadphoneUseHearingRisk"
     title: "Headphone Use Hearing Risk"
     url: "/wiki/concepts/headphoneusehearingrisk/"
+  - key: "HeadquartersRelocationRegulatoryLeverage"
+    title: "Headquarters Relocation as Regulatory Leverage / 总部迁移监管杠杆"
+    url: "/wiki/concepts/headquartersrelocationregulatoryleverage/"
   - key: "HealthContentCommercialSafeguards"
     title: "Health Content Commercial Safeguards / 健康内容商业合作护栏"
     url: "/wiki/concepts/healthcontentcommercialsafeguards/"

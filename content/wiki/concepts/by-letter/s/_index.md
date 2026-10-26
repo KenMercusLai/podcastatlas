@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10783
+wiki_total_pages: 10785
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2756,6 +2756,9 @@ wiki_pages:
   - key: "SystemicSleepLossEffects"
     title: "Systemic Sleep-Loss Effects"
     url: "/wiki/concepts/systemicsleeplosseffects/"
+  - key: "SystemicallyImportantBankCapitalCoverage"
+    title: "Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖"
+    url: "/wiki/concepts/systemicallyimportantbankcapitalcoverage/"
   - key: "SystemsEraGeneralship"
     title: "Systems-Era Generalship"
     url: "/wiki/concepts/systemserageneralship/"

@@ -37766,3 +37766,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-26] ingest | 商业小样51 | 什么，瑞银要把总部搬离瑞士？
+
+Added source `shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds`; created [[UBS|瑞银]], [[CreditSuisse|瑞士信贷]], [[SystemicallyImportantBankCapitalCoverage|系统重要性银行资本覆盖]], and [[HeadquartersRelocationRegulatoryLeverage|总部迁移监管杠杆]]; and resynthesized [[Switzerland|瑞士]] and [[BankingLossAllocationPolitics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Switzerland's rescue of Credit Suisse prevented immediate contagion but created a still-larger UBS; proposed parent-level equity coverage moves more prospective crisis cost onto the bank and its shareholders; and a headquarters move could be a real option, a bargaining signal, or both without implying withdrawal of Swiss retail operations. No settled contradiction was adopted. Relocation discussions, regulatory terms, capital needs, balance-sheet figures, profits, savings, inflows, exposures, guarantees, cross-jurisdiction comparisons, and U.S. receptiveness remain episode-attributed, prospective, or time-sensitive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,733 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

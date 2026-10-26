@@ -23903,6 +23903,10 @@
     "title": "Credit Card Scale Contraction / 信用卡规模收缩",
     "url": "/wiki/concepts/creditcardscalecontraction/"
   },
+  "CreditSuisse": {
+    "title": "Credit Suisse / 瑞士信贷",
+    "url": "/wiki/entities/creditsuisse/"
+  },
   "Creo": {
     "title": "Creo",
     "url": "/wiki/entities/creo/"
@@ -41578,6 +41582,10 @@
   "HeadphoneUseHearingRisk": {
     "title": "Headphone Use Hearing Risk",
     "url": "/wiki/concepts/headphoneusehearingrisk/"
+  },
+  "HeadquartersRelocationRegulatoryLeverage": {
+    "title": "Headquarters Relocation as Regulatory Leverage / 总部迁移监管杠杆",
+    "url": "/wiki/concepts/headquartersrelocationregulatoryleverage/"
   },
   "HealthBench": {
     "title": "HealthBench",
@@ -86471,6 +86479,10 @@
     "title": "Systemic Sleep-Loss Effects",
     "url": "/wiki/concepts/systemicsleeplosseffects/"
   },
+  "SystemicallyImportantBankCapitalCoverage": {
+    "title": "Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖",
+    "url": "/wiki/concepts/systemicallyimportantbankcapitalcoverage/"
+  },
   "SystemsEraGeneralship": {
     "title": "Systems-Era Generalship",
     "url": "/wiki/concepts/systemserageneralship/"
@@ -91038,6 +91050,10 @@
   "UAPCompartmentalization": {
     "title": "UAP Compartmentalization",
     "url": "/wiki/concepts/uapcompartmentalization/"
+  },
+  "UBS": {
+    "title": "UBS / 瑞银",
+    "url": "/wiki/entities/ubs/"
   },
   "UBTechRobotics": {
     "title": "UBTECH Robotics / 优必选",
@@ -107838,6 +107854,10 @@
   "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596": {
     "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
     "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
+  },
+  "shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds": {
+    "title": "商业小样51 | 什么，瑞银要把总部搬离瑞士？",
+    "url": "/wiki/sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds/"
   },
   "shangye-xiaoyang-51-wei-shenme-bangongyi-yue-gui-dui-laoban-faner-yue-hesuan-gkwrimaoqq8naeo0kgtrbnkp": {
     "title": "商业小样51 | 为什么办公椅越贵，对老板反而越合算？",

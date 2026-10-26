@@ -1888,19 +1888,19 @@
       "earliest_episode_date": "2026-02-08",
       "latest_episode_date": "2026-10-25",
       "latest_episode_file": "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
-      "source_note_count": 33,
-      "topic_matched_source_note_count": 23,
+      "source_note_count": 34,
+      "topic_matched_source_note_count": 24,
       "topics": [
-        {
-          "key": "technology",
-          "label": "Technology",
-          "url": "/topics/technology/",
-          "source_note_count": 8
-        },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
+          "source_note_count": 9
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
           "source_note_count": 8
         },
         {
@@ -1913,7 +1913,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 5
+          "source_note_count": 6
         }
       ],
       "entities": [
@@ -1954,10 +1954,10 @@
         }
       ],
       "start_here_episode_files": [
+        "GKwRIJIOtAj1AGNDggTvUvdS [GKwRIJIOtAj1AGNDggTvUvdS].md",
         "GKwRIJIOpVjBAUG1ZwToeBJv [GKwRIJIOpVjBAUG1ZwToeBJv].md",
-        "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md",
         "假期通知兼谈本台为什么要做视频播客 [1018741567].md",
-        "Vol.275 澳洲保健品是怎么火起来的？ [1015773861].md"
+        "GKwRIaIOrn5RAWBAzwTstR0K [GKwRIaIOrn5RAWBAzwTstR0K].md"
       ]
     },
     "声东击西": {

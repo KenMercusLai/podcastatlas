@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13699
+wiki_total_pages: 13701
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "UberEats"
     title: "Uber Eats"
     url: "/wiki/entities/ubereats/"
+  - key: "UBS"
+    title: "UBS / 瑞银"
+    url: "/wiki/entities/ubs/"
   - key: "UBTechRobotics"
     title: "UBTECH Robotics / 优必选"
     url: "/wiki/entities/ubtechrobotics/"
