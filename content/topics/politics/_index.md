@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3398
+topic_total_pages: 3399
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5657,6 +5657,9 @@ topic_entities:
   - key: "AnthonyBarber"
     title: "Anthony Barber"
     url: "/wiki/entities/anthonybarber/"
+  - key: "AnthonyEden"
+    title: "Anthony Eden"
+    url: "/wiki/entities/anthonyeden/"
   - key: "AntonLaGuardia"
     title: "Anton LaGuardia"
     url: "/wiki/entities/antonlaguardia/"

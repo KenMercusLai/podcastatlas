@@ -4834,6 +4834,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员](sources/ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-phd-xiaomi-mimo-yanjiuyuan-lpbsxeoxbcgtv0qckx8lctpdwviv.md) — 十字路口Crossing访谈李磊，讨论博士研究方法、导师与职业选择、论文之外的影响力、Benchmark 设计、强化学习与递归式自我改进。
 
+- [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
+
 ## Entities
 - [金颖 / Jin Ying (breast-cancer survivor)](entities/JinYingBreastCancerSurvivor.md) — Documentary director, writer, and long-term survivor connecting treatment, fertility, recurrence anxiety, peer support, and life reconstruction.
 - [钱小坤 / Qian Xiaokun](entities/QianXiaokun.md) — Furniture designer whose male breast-cancer experience connects symptom recognition, gendered care settings, rehabilitation, and return to social life.
@@ -18619,6 +18621,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Lei / 李磊（小米 MiMo）](entities/LiLeiXiaomiMiMo.md) — University of Hong Kong NLP doctoral student and Xiaomi post-training researcher connecting research method, impact, evaluation, and AI-era doctoral choices.
 - [Video-MME](entities/VideoMME.md) — Long-video understanding benchmark used to connect capability extension with realistic, reproducible, low-friction evaluation.
 
+- [Gamal Abdel Nasser](entities/GamalAbdelNasser.md) — Egyptian leader whose anti-colonial sovereignty program, canal nationalisation, and regional appeal made him central to Suez.
+- [Anthony Eden](entities/AnthonyEden.md) — British prime minister whose anti-appeasement identity and regime-change objective shaped the Suez escalation.
+- [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
+
 ## Concepts
 - [Breast Cancer Survivorship Support / 乳腺癌康复支持](concepts/BreastCancerSurvivorshipSupport.md) — Clinical, rehabilitative, psychological, reproductive, occupational, and social support across life after breast-cancer diagnosis and treatment.
 - [Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖](concepts/SystemicallyImportantBankCapitalCoverage.md) — Parent-level common-equity coverage that contains foreign-subsidiary losses while constraining distributions and balance-sheet choices.
@@ -29498,5 +29504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Polyester As Apparel Material / 聚酯纤维作为服装材料](concepts/PolyesterAsApparelMaterial.md) — 把聚酯视为由聚合物、纤维、纱线、织造、整理、混纺和产业集群共同塑造的服装材料系统。
 - [Fiber-Label Quality Gap / 纤维标签与成衣品质差距](concepts/FiberLabelQualityGap.md) — 区分规范成分披露与手感、功能、耐用性、工艺及价值判断所需的更完整信息。
+
+- [Misapplied Historical Analogy](concepts/MisappliedHistoricalAnalogy.md) — Decision error in which a vivid past crisis overrides material differences in law, capability, conduct, and alternatives.
 
 ## Syntheses

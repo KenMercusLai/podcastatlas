@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13704
+wiki_total_pages: 13707
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "GallipoliCampaign"
     title: "Gallipoli Campaign"
     url: "/wiki/entities/gallipolicampaign/"
+  - key: "GamalAbdelNasser"
+    title: "Gamal Abdel Nasser"
+    url: "/wiki/entities/gamalabdelnasser/"
   - key: "GameStop"
     title: "GameStop"
     url: "/wiki/entities/gamestop/"

@@ -18607,6 +18607,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/anthonyburns/"
     },
+    "AnthonyEden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/anthonyeden/"
+    },
     "AnthonyFauci": {
       "episode_count": 3,
       "show_count": 1,
@@ -81271,6 +81287,43 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/egocentricrobotdata/"
     },
+    "Egypt": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
+          "key": "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132",
+          "show": "Economist Podcasts",
+          "title": "Outsider chance: ending Sudan's proxy war",
+          "url": "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+        },
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "Spring, then fall： a weakened Muslim Brotherhood [6a7aef1b616564bf00d9b354].md",
+          "key": "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354",
+          "show": "Economist Podcasts",
+          "title": "Spring, then fall: a weakened Muslim Brotherhood",
+          "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+        },
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/egypt/"
+    },
     "Egyptology": {
       "episode_count": 2,
       "show_count": 1,
@@ -107674,6 +107727,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gallipolicampaign/"
     },
+    "GamalAbdelNasser": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/gamalabdelnasser/"
+    },
     "GamblingEscalationLoop": {
       "episode_count": 2,
       "show_count": 2,
@@ -123129,9 +123198,9 @@
       "url": "/wiki/entities/haroldholt/"
     },
     "HaroldMacmillan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -123139,9 +123208,16 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-26",
       "url": "/wiki/entities/haroldmacmillan/"
     },
     "HaroldMcGee": {
@@ -193255,6 +193331,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/miracleofamsterdam/"
+    },
+    "MisappliedHistoricalAnalogy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/misappliedhistoricalanalogy/"
     },
     "MissMarple": {
       "episode_count": 1,
@@ -269184,6 +269276,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/suetoniuspaulinus/"
+    },
+    "SuezCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/suezcrisis/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,

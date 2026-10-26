@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13704
+wiki_total_pages: 13707
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1838,6 +1838,9 @@ wiki_pages:
   - key: "SuetoniusPaulinus"
     title: "Suetonius Paulinus"
     url: "/wiki/entities/suetoniuspaulinus/"
+  - key: "SuezCrisis"
+    title: "Suez Crisis / 苏伊士运河危机"
+    url: "/wiki/entities/suezcrisis/"
   - key: "Sugon"
     title: "Sugon / 中科曙光"
     url: "/wiki/entities/sugon/"

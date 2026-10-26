@@ -37782,3 +37782,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-26] ingest | 717. The Suez Crisis: Anarchy in the Middle East (Part 1)
+
+Added source `717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981`; created [[GamalAbdelNasser]], [[AnthonyEden]], [[SuezCrisis]], and [[MisappliedHistoricalAnalogy]]; and resynthesized [[Egypt]] and [[HaroldMacmillan]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: legal nationalisation and continued Egyptian canal operation did not prevent Britain and France from transforming a sovereignty and infrastructure dispute into a regime-change project; Eden's Munich analogy personalized postwar imperial contraction in Nasser and narrowed diplomatic alternatives, while distinct French, Israeli, American, Cold War, and domestic pressures kept the crisis multi-causal. No settled contradiction was adopted. The episode ends before the invasion and withdrawal, and its dialogue, figures, medical effects, motives, operational plans, and legal-strategic judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,735 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

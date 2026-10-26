@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2767
+topic_total_pages: 2769
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -934,6 +934,9 @@ topic_concepts:
   - key: "MingqiLegitimacy"
     title: "Mingqi Legitimacy / 名器合法性"
     url: "/wiki/concepts/mingqilegitimacy/"
+  - key: "MisappliedHistoricalAnalogy"
+    title: "Misapplied Historical Analogy"
+    url: "/wiki/concepts/misappliedhistoricalanalogy/"
   - key: "MistrustTriggeredMissionLaunch"
     title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
     url: "/wiki/concepts/mistrusttriggeredmissionlaunch/"
@@ -7194,6 +7197,9 @@ topic_sources:
   - key: "716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589"
     title: "716. King Arthur: The Truth Behind the Legend (Part 4)"
     url: "/wiki/sources/716-king-arthur-the-truth-behind-the-legend-part-4-glt5811752589/"
+  - key: "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981"
+    title: "717. The Suez Crisis: Anarchy in the Middle East (Part 1)"
+    url: "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
   - key: "72-the-vietnam-war-glt4906340188"
     title: "72. The Vietnam War"
     url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"

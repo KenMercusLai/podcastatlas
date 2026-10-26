@@ -8095,6 +8095,13 @@
       "url": "/topics/history/"
     }
   ],
+  "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837": [
     {
       "key": "history",
@@ -15786,6 +15793,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AnthonyEden": [
     {
       "key": "politics",
       "label": "Politics",
@@ -62502,6 +62516,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MisappliedHistoricalAnalogy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MissingMiddle": [
