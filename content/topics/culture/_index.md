@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3565
+topic_total_pages: 3566
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8990,6 +8990,9 @@ topic_entities:
   - key: "JinYong"
     title: "金庸 / Jin Yong"
     url: "/wiki/entities/jinyong/"
+  - key: "JinYingBreastCancerSurvivor"
+    title: "金颖 / Jin Ying (breast-cancer survivor)"
+    url: "/wiki/entities/jinyingbreastcancersurvivor/"
   - key: "ZhongShengli"
     title: "钟声礼"
     url: "/wiki/entities/zhongshengli/"

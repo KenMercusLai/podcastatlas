@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10785
+wiki_total_pages: 10786
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "BreastAugmentationAnatomyExpectationBoundary"
     title: "Breast Augmentation Anatomy and Expectation Boundary / 乳房增容的解剖与预期边界"
     url: "/wiki/concepts/breastaugmentationanatomyexpectationboundary/"
+  - key: "BreastCancerSurvivorshipSupport"
+    title: "Breast Cancer Survivorship Support / 乳腺癌康复支持"
+    url: "/wiki/concepts/breastcancersurvivorshipsupport/"
   - key: "BreastReconstructionDecision"
     title: "Breast Reconstruction Decision / 乳房再造决策"
     url: "/wiki/concepts/breastreconstructiondecision/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 13701
+wiki_total_pages: 13704
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "QiantangWuClan"
     title: "钱塘吴氏 / Qiantang Wu Clan"
     url: "/wiki/entities/qiantangwuclan/"
+  - key: "QianXiaokun"
+    title: "钱小坤 / Qian Xiaokun"
+    url: "/wiki/entities/qianxiaokun/"
   - key: "QianHongchu"
     title: "钱弘俶 / Qian Hongchu"
     url: "/wiki/entities/qianhongchu/"

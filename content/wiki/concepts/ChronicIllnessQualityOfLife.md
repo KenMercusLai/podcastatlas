@@ -7,7 +7,8 @@ sources:
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
   - vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex
   - vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw
-last_updated: 2026-09-28
+  - ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2
+last_updated: 2026-10-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The sources connect disease activity to the life that treatment is meant to pres
 
 The survival game makes value plurality explicit by forcing participants to trade vision, hearing, speech, movement, appearance, sexuality, money, pleasure, and basic bodily function under imagined progressive illness. The cancer narrative makes the same point through an actual decision: the guest prioritized retaining thought, speech, agency, and a future over bodily intactness, then rebuilt ordinary life through movement, friendship, work, markets, writing, and travel plans. Yu Bo's diabetes account adds repetitive self-management: food, exercise, insulin-related care, and glucose feedback must coexist with travel, comedy, pleasure, vulnerability, and imperfect days. Neither account supplies a universal emotional stance, and neither justifies demanding positivity from others.
 
+Breast-cancer survivorship makes life after apparently successful treatment visible through upper-limb rehabilitation, monitored fertility decisions, pressure to return to work, years of interpreting headaches or joint pain as possible metastasis, peer groups, and a gradual return of attention to ordinary experience. These accounts strengthen the distinction between disease status and felt recovery. Medical surveillance can support control, while psychological, relational, occupational, and livelihood support determine whether survival becomes a livable future. [[ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2|EP291]]
+
 ## Key Claims
 - Disease burden includes identity, appearance, mood, social participation, and future plans as well as organ damage.
 - Clinical remission or recovery becomes meaningful when it supports patient-valued activities, social participation, work, creativity, and future plans.
@@ -28,7 +31,7 @@ The survival game makes value plurality explicit by forcing participants to trad
 - Generic optimism is an incomplete response to chronic illness; coping needs practical, personally meaningful ways to inhabit the present.
 - People rank sensory, communicative, bodily, economic, relational, and emotional capacities differently.
 - A values exercise can open discussion but cannot determine another person's treatment, disability experience, or reasons for living.
-- Peer, family, clinical, nutritional, psychological, and monitoring support can change how manageable the same chronic condition becomes, but quality of life does not require enjoying every part of self-management.
+- Peer, family, clinical, rehabilitative, occupational, psychological, and monitoring support can change how manageable illness becomes, but quality of life does not require enjoying self-management or narrating disease as growth.
 
 ## Evidence
 - Appearance and identity: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] connects facial rash, acne, weight gain, and glucocorticoid-related changes to distress and treatment hesitation.
@@ -40,13 +43,14 @@ The survival game makes value plurality explicit by forcing participants to trad
 - Support environment: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] describes family, friends, clinicians, peers, camps, health kits, and public inclusion as parts of living with disease.
 - Cancer survivorship and agency: [[vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex]] connects emergency treatment, scarring, chemotherapy burden, regained mobility, markets, work, writing, friendship, and future Africa plans to a life not exhausted by cancer identity.
 - Diabetes management and identity: [[vol-181-tuokouxiu-yanyuan-yubo-cong-icu-xinglai-wo-hunshen-chaman-guanzi-xiang-shi-ge-chongdianbao-lgkey3dvowxz-kymlgwylmss1yyw]] connects monitoring, exercise, food choices, touring, comedy, pleasure, vulnerability, and repeated effort to a life not exhausted by diabetes identity.
+- Breast-cancer survivorship: [[ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2]] connects rehabilitation, monitored pregnancy, work, recurrence anxiety, peer support, livelihood adaptation, and renewed attention to ordinary life.
 
 ## Counterevidence & Qualifications
-The lupus episode's game is playful, compressed, and potentially upsetting; it is not a validated quality-of-life instrument and should not romanticize suffering, rank disabilities, or imply that choosing or refusing treatment has one moral meaning. The IBD cases, cancer-survivor interview, and diabetes account are likewise not representative outcome data. “只要人不死，一切都是擦伤” and treating glucose monitoring like market analysis are personal coping metaphors, not reasons to minimize severe disease, disability, toxicity, grief, treatment burden, or another patient's priorities. The sources do not establish how people with chronic illness generally value function, work, fertility, appearance, continence, surgery, stoma, monitoring, diet, or survival.
+The lupus episode's game is playful, compressed, and potentially upsetting; it is not a validated quality-of-life instrument and should not romanticize suffering, rank disabilities, or imply that choosing or refusing treatment has one moral meaning. The IBD cases, cancer-survivor interviews, and diabetes account are likewise not representative outcome data. Defiant metaphors, return to work, childbirth, travel, or finding beauty after illness are personal courses, not standards for good recovery or reasons to minimize severe disease, disability, recurrence, toxicity, grief, financial pressure, or another patient's priorities. The sources do not establish how people with chronic illness generally value function, work, fertility, appearance, continence, surgery, monitoring, diet, or survival.
 
 ## What Changed
-- Added repetitive diabetes self-management as a quality-of-life question involving monitoring, travel, comedy, food, exercise, and identity.
-- Clarified that enjoying health data is one personal adaptation rather than a universal expectation of good coping.
+- Added post-treatment recurrence anxiety, rehabilitation, fertility, work, livelihood, and peer support to the quality-of-life frame.
+- Clarified that meaning-making and return to ordinary life are possible survivor outcomes, not moral requirements for recovery.
 
 ## Related Concepts
 - [[SystemicLupusErythematosusManagement]] - disease-management context linking remission to everyday life.
@@ -58,3 +62,4 @@ The lupus episode's game is playful, compressed, and potentially upsetting; it i
 - [[IBDPatientEducationAndPeerSupport]] - support layer making hidden burdens and patient-defined goals more visible.
 - [[ContinuousGlucoseMonitoring]] - feedback tool that can support agency while also creating burden or anxiety.
 - [[DiabetesAcuteCrisisRecognition]] - acute-risk context that precedes the longer work of living with diabetes.
+- [[BreastCancerSurvivorshipSupport]] - disease-specific support frame for rehabilitation, surveillance, fertility, work, and social reintegration.

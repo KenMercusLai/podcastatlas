@@ -10,7 +10,8 @@ sources:
   - vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz
   - vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb
   - all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di
-last_updated: 2026-09-29
+  - ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2
+last_updated: 2026-10-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,12 +29,14 @@ The cancer sources define the technology boundary. [[tsr-s4-surbhisarna-v3-tsr-s
 
 The individual and consumer-service cases define how breadth should be used. [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb|VOL.139]] favors a reasonable baseline plus risk-based additions, contextual interpretation, and continuity for known abnormalities. The [[NekoHealth|Neko Health]] case in [[all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di]] adds a vertically integrated [[LongitudinalMultimodalScreening]] model: dense data and annual comparison may improve context, but only if validation, clinician review, and proportionate follow-up prevent more testing from becoming more harm.
 
+A potentially useful screen has little reach when people cannot obtain time off, travel to care, pay associated costs, arrange household labor, understand the need, or access follow-up. Mobile clinics and targeted outreach may lower those frictions by moving care toward workplaces and communities, but proximity alone does not establish test quality, equitable coverage, or better outcomes. [[ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2|EP291]]
+
 ## Key Claims
 - Screening is most useful when symptoms are late or unreliable and an early finding has an actionable path.
 - A screening program includes appropriate selection, valid measurement, interpretation, escalation, and follow-up rather than only data collection.
 - Baseline tests should be combined with additions based on age, symptoms, exposures, family history, prior findings, and clinical context.
 - Repeated multimodal measurements can reveal change, but more tests are not automatically better and AI triage does not replace clinicians.
-- Public or insurer-funded programs should be judged by participation, guidance, outcomes, burden, and cost evidence rather than free access alone.
+- Public, employer, mobile, or insurer-funded programs should be judged by reach, participation, guidance, follow-up, outcomes, burden, and cost evidence rather than nominal availability alone.
 - Diagnostic innovation needs safe access, clinical validation, and regulatory discipline before early-detection ambition becomes responsible care.
 - Advanced treatment progress does not eliminate the practical value of prevention and earlier diagnosis.
 
@@ -45,13 +48,14 @@ The individual and consumer-service cases define how breadth should be used. [[v
 - Treatment boundary: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] contrasts individualized melanoma-vaccine excitement with prevention, early detection, and standard care.
 - Individual selection and continuity: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] joins baseline checks, targeted additions, contextual report reading, and surveillance of known findings.
 - Longitudinal integrated service: [[all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di]] describes Neko's laboratory, imaging, cardiovascular, functional, AI-triage, wearable, and clinician-review workflow.
+- Participation and proximity: [[ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2]] describes informational, geographic, financial, occupational, and household barriers and presents mobile clinics as one attempt to reduce time and decision costs.
 
 ## Counterevidence & Qualifications
-Screening can cause false reassurance, false positives, incidental findings, anxiety, radiation exposure, overdiagnosis, overtreatment, inequity, privacy risk, and additional downstream cost. Some diseases still lack accurate and safely accessible early tests. Neko's scan counts and detection results are founder-reported without sufficient methods or controls to establish outcome benefit. None of the sources supplies a universal test package, interval, or individualized medical recommendation.
+Screening can cause false reassurance, false positives, incidental findings, anxiety, radiation exposure, overdiagnosis, overtreatment, inequity, privacy risk, and additional downstream cost. Some diseases still lack accurate and safely accessible early tests. Neko's scan counts and detection results are founder-reported, while EP291's mobile-clinic examples provide no controlled participation or outcome evidence. None of the sources supplies a universal test package, interval, delivery model, or individualized medical recommendation.
 
 ## What Changed
-- Added longitudinal multimodal screening as a promising workflow whose value still depends on validation, clinician review, and follow-up.
-- Added the explicit boundary that founder-reported detection rates do not establish population benefit or cost savings.
+- Added time, transport, cost, household labor, knowledge, and local capacity as participation constraints within the screening workflow.
+- Added mobile screening as a proximity intervention whose value still depends on quality, interpretation, follow-up, equity, and measured outcomes.
 
 ## Related Concepts
 - [[IndividualizedPreventiveCheckupSelection]] - risk-based method for choosing baseline and additional tests.

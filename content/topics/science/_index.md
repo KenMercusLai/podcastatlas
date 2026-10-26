@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1610
+topic_total_pages: 1611
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3743,6 +3743,9 @@ topic_entities:
   - key: "WuChenghan"
     title: "吴承翰 / Wu Chenghan"
     url: "/wiki/entities/wuchenghan/"
+  - key: "TangDoctorLesley"
+    title: "唐医生 Lesley / Dr. Tang Lesley"
+    url: "/wiki/entities/tangdoctorlesley/"
   - key: "GeologicalResearchInstitute"
     title: "地质研究所 / 地质调查所"
     url: "/wiki/entities/geologicalresearchinstitute/"
