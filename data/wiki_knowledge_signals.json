@@ -14040,6 +14040,36 @@
       "updated": "2026-08-19",
       "url": "/wiki/concepts/allusiveremonstrance/"
     },
+    "AloYoga": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？ [1005452453].md",
+          "key": "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453",
+          "show": "声动早咖啡",
+          "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
+          "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
+        },
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "ep150 [ep150].md",
+          "key": "ep150-ep150",
+          "show": "疯投圈",
+          "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+          "url": "/wiki/sources/ep150-ep150/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/aloyoga/"
+    },
     "AlokKanojia": {
       "episode_count": 1,
       "show_count": 1,
@@ -59167,9 +59197,9 @@
       "url": "/wiki/concepts/corestandinggroundpreservation/"
     },
     "CoreTribePositioning": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Advice Line with Chris Riccobono of UNTUCKit [c087247f-1f85-4c15-b4aa-4ffea0368c4c].md",
@@ -59184,9 +59214,16 @@
           "show": "三五环",
           "title": "No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？",
           "url": "/wiki/sources/no-215-hongli-tuiqu-guanzhu-qingxu-jiazhi-de-shidai-gai-ruhe-chongxin-lijie-pinpai-gkwriuenrlwrak68darcbtki/"
+        },
+        {
+          "episode_file": "ep150 [ep150].md",
+          "key": "ep150-ep150",
+          "show": "疯投圈",
+          "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+          "url": "/wiki/sources/ep150-ep150/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-27",
       "url": "/wiki/concepts/coretribepositioning/"
     },
     "CoreWeave": {
@@ -137234,6 +137271,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/iceni/"
     },
+    "Icicle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep150 [ep150].md",
+          "key": "ep150-ep150",
+          "show": "疯投圈",
+          "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+          "url": "/wiki/sources/ep150-ep150/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/icicle/"
+    },
     "IdealToPracticeConversion": {
       "episode_count": 1,
       "show_count": 1,
@@ -155937,9 +155990,9 @@
       "url": "/wiki/entities/kaihuaclub/"
     },
     "Kailas": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
@@ -155947,9 +156000,16 @@
           "show": "声动早咖啡",
           "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
           "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        },
+        {
+          "episode_file": "ep150 [ep150].md",
+          "key": "ep150-ep150",
+          "show": "疯投圈",
+          "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+          "url": "/wiki/sources/ep150-ep150/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-27",
       "url": "/wiki/entities/kailas/"
     },
     "KailiBluesFilm": {
@@ -178659,6 +178719,29 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/luluplasticsurgeon/"
+    },
+    "Lululemon": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "ep150 [ep150].md",
+          "key": "ep150-ep150",
+          "show": "疯投圈",
+          "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+          "url": "/wiki/sources/ep150-ep150/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/lululemon/"
     },
     "LumbarDiscHerniation": {
       "episode_count": 6,
@@ -320627,6 +320710,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/zhizhichanyu/"
+    },
+    "ZhongChengzhan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep150 [ep150].md",
+          "key": "ep150-ep150",
+          "show": "疯投圈",
+          "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+          "url": "/wiki/sources/ep150-ep150/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/zhongchengzhan/"
     },
     "ZhongChuxi": {
       "episode_count": 1,

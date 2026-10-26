@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价](sources/ep150-ep150.md) — 疯投圈对比 Alo 的明星生活方式、凯乐石的专业户外聚焦与之禾的天然材料和东方审美，讨论核心客群、复购、提价与长期积累如何支撑高端品牌。
 - [When ChatGPT writes your obituary](sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128.md) — Marketplace Tech on Donna Guthrie's AI-drafted obituary, Michelle Wong's diary-grounded younger self, personalized AI as a mirror, and the boundary between reflective assistance and human relationships.
 - [Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley](sources/scim9489463983-scim9489463983.md) — Huberman Lab conversation on rotating motivational channels, brain-body persistence, delegated stop rules, team dependence, strength reserve, sleep, and meaning in extreme endurance.
 - [FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work](sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514.md) — How I Built This episode on technical comfort, end-user-purchased workwear, complementary founders, DTC distribution, investor rejection, founder control, litigation, and valuation volatility.
@@ -4841,6 +4842,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
 ## Entities
+- [之禾 / ICICLE](entities/Icicle.md) — Chinese light-luxury fashion brand joining natural materials, integrated manufacturing, restrained aesthetics, premium retail, and repeat-customer economics.
+- [钟承湛 / Zhong Chengzhan](entities/ZhongChengzhan.md) — Kailas founder whose confirmed post-injury sit-skiing and motorcycle travel reinforce the brand's professional outdoor identity.
 - [Donna Guthrie](entities/DonnaGuthrie.md) — Author, educator, and filmmaker whose AI-written obituary illustrates personalized memory, legacy drafting, and family revision.
 - [Michelle Wong](entities/MichelleWong.md) — Technologist and artist framing personalized AI as a mirror while preserving human relationship and mental-health boundaries.
 - [Ross Edgley](entities/RossEdgley.md) — British ultra-endurance athlete connecting rotating motives, collective expedition work, strength reserve, and delegated safety authority.
@@ -8984,7 +8987,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [莎车王延 / King Yan of Shache (Eastern Han)](entities/ShacheKingYanEasternHan.md) — Former Chang'an hostage and Shache ruler remembered for instructing descendants to serve Han.
 - [莎车王康 / King Kang of Shache (Eastern Han)](entities/ShacheKingKangEasternHan.md) — Han-loyal Shache ruler who resists Xiongnu pressure, protects Han personnel, and receives Dou Rong's recognition.
 - [冯异 / Feng Yi (Eastern Han)](entities/FengYiEasternHan.md) — Guangwu commander whose profile now begins with Big Tree General humility before Li Yi correspondence, Luoyang psychological pressure, Wen/Pingyin relief, accession counsel, and later Chimei and western campaigns.
-- [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
+- [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand combining a climbing, mountaineering, and trail-running focus with technical proof, premium retail, and European expansion through Fuga.
 - [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
 - [Miniso / 名创优品](entities/Miniso.md) — Chinese retail company using large IP-heavy stores, emotional-value products, and slower overseas openings as a store-model quality test.
 - [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose profile now begins with Shanggu seal-return promise credibility before Shanggu-Yuyang allegiance brokerage, Henei logistics, Wen defense, Yingchuan law, popular pacification, and Gaoping forced surrender.
@@ -16901,8 +16904,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Restore Britain](entities/RestoreBritain.md) — Harder-right UK party named as a pressure point on Reform UK in the episode's by-election signal segment.
 - [Josh Hawley](entities/JoshHawley.md) — U.S. senator used by The Intelligence as a conservative example of cross-partisan AI anxiety around children, chatbots, and tech elites.
 - [SuperMonkey / 超级猩猩](entities/SuperMonkey.md) — Chinese group-fitness brand framed through pay-per-class retention, instructor-led atmosphere, and city-by-city service scaling.
-- [Lululemon](entities/Lululemon.md) — Premium athletic-apparel brand used as the comparator for On Running's shoe-to-apparel trust extension and DTC-heavy circle-brand strategy.
-- [Alo Yoga](entities/AloYoga.md) — Premium athletic-apparel brand used as a marketing-and-scarcity case where identity pull may outrun product proof.
+- [Lululemon](entities/Lululemon.md) — Premium athletic-apparel benchmark joining DTC control, practitioner communities, product comfort, and a qualified China-growth outlook.
+- [Alo Yoga](entities/AloYoga.md) — Premium athletic-apparel brand whose celebrity-led China launch now faces trademark-history, lookalike, local-supply-chain, pricing, and repeat-purchase tests.
 - [Pop Mart / 泡泡玛特](entities/PopMart.md) — Consumer-IP and collectibles company used to explain growth, valuation, IP concentration, and the self-operated image-first IP contrast with Sanrio.
 - [Labubu](entities/Labubu.md) — Pop Mart blockbuster IP whose revenue share makes consumer-brand power and concentration risk visible at the same time.
 - [ICE](entities/ICEInvestor.md) — FengTouQuan episode 139 guest and investment educator emphasizing decompressed value-investing slogans, time horizon, catalysts, AI research limits, and self-knowledge.
@@ -24605,7 +24608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Instant Payment Rail](concepts/PublicInstantPaymentRail.md) — Public payment infrastructure pattern exemplified by Pix's instant, low-cost, central-bank coordinated transfers.
 - [Payment Infrastructure Trade Dispute](concepts/PaymentInfrastructureTradeDispute.md) — Trade-policy frame for disputes over public digital payment systems where competition is not necessarily discrimination.
 - [Emo Revival Identity Culture](concepts/EmoRevivalIdentityCulture.md) — Revival pattern where nostalgia, theatrical live performance, and belonging sustain emo beyond its mid-2000s peak.
-- [Core Tribe Positioning](concepts/CoreTribePositioning.md) — Practice of defining the first customer community that clearly understands and validates a product before mainstream expansion.
+- [Core Tribe Positioning](concepts/CoreTribePositioning.md) — Aligning product, price, channel, culture, and time around a focused customer group that can support repeat demand and meaningful scale.
 - [Wholesale As Marketing](concepts/WholesaleAsMarketing.md) — Channel pattern where third-party retail placement drives discovery, trust, and later owned-channel purchasing, not only immediate wholesale revenue.
 - [Trust-Based Distribution](concepts/TrustBasedDistribution.md) — Distribution pattern where products reach buyers through people, media, institutions, or communities that already carry credibility.
 - [Safety Product Credibility](concepts/SafetyProductCredibility.md) — Need for protective products to be validated by trusted users, tests, institutions, or professionals before safety claims become believable.

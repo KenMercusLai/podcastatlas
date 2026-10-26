@@ -37822,3 +37822,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-27] ingest | 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
+
+Added source `ep150-ep150`; created [[Icicle|之禾 / ICICLE]] and [[ZhongChengzhan|钟承湛]]; and resynthesized [[AloYoga|Alo Yoga]], [[Kailas|凯乐石]], [[Lululemon]], and [[CoreTribePositioning]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: premium demand can persist inside weak aggregate consumption when product, cultural meaning, professional credibility, channel, and a sufficiently large repeat-customer group reinforce one another; Alo remains an early attention-to-retention test, Kailas joins professional focus to overseas expansion, and ICICLE emphasizes integrated manufacturing and repeat purchase. No settled contradiction was adopted. Launch sales, revenue, growth, pricing, repurchase, input-mix, customer-count, and market-size figures remain host- or episode-attributed; Kailas's removed Australian-origin story qualifies its current authenticity positioning, and an unconfirmed Zhong Chengzhan diving claim was excluded. Broad show, general consumer-moat, subculture, experiential-retail, and emotional-premium pages were kept closed because the focused brand and core-tribe pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,740 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

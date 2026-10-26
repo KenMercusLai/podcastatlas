@@ -2831,7 +2831,7 @@
       "earliest_episode_date": "2026-02-10",
       "latest_episode_date": "2026-10-27",
       "latest_episode_file": "ep150 [ep150].md",
-      "source_note_count": 14,
+      "source_note_count": 15,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -2868,6 +2868,13 @@
           "episode_count": 3
         },
         {
+          "key": "AloYoga",
+          "title": "Alo Yoga",
+          "url": "/wiki/entities/aloyoga/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
           "key": "BlueBottleCoffee",
           "title": "Blue Bottle Coffee / 蓝瓶子",
           "url": "/wiki/entities/bluebottlecoffee/",
@@ -2896,23 +2903,16 @@
           "episode_count": 2
         },
         {
+          "key": "Lululemon",
+          "title": "Lululemon",
+          "url": "/wiki/entities/lululemon/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
           "key": "MixueBingcheng",
           "title": "Mixue Bingcheng",
           "url": "/wiki/entities/mixuebingcheng/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "Pinduoduo",
-          "title": "Pinduoduo",
-          "url": "/wiki/entities/pinduoduo/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "Sandunban",
-          "title": "Sandunban / 三顿半",
-          "url": "/wiki/entities/sandunban/",
           "kind": "organization",
           "episode_count": 2
         }

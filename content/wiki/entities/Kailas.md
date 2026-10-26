@@ -5,43 +5,53 @@ tags: [company, outdoor, consumer-brand, china, trail-running]
 knowledge_schema: synthesis-v1
 sources:
   - kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081
-last_updated: 2026-09-01
+  - ep150-ep150
+last_updated: 2026-10-27
 ---
 
 # Kailas / 凯乐石
 
 ## Overview
-Kailas / 凯乐石 is a Chinese outdoor brand that enters the wiki through its European trail-running expansion.
+
+Kailas / 凯乐石 is a Chinese outdoor brand whose current profile joins a domestic professionalization pivot to a European trail-running expansion.
 
 ## Current Profile
-The current profile is source-scoped: Kailas is presented as a Chinese outdoor company trying to move from domestic brand strength and distributed overseas sales points into direct European market participation. The episode emphasizes its [[Fuga]] trail-running line, a Chamonix directly operated store, race sponsorship, and athlete endorsements.
 
-For the wiki, Kailas matters because it makes Chinese consumer-brand globalization visible in a professional outdoor category rather than only in electronics, restaurants, or mass retail. Its expansion depends on technical credibility, community presence, and local market cultivation, not just opening a store.
+Kailas is presented as choosing depth over assortment. Around 2020 it reportedly removed broad leisure, denim, three-in-one jacket, and mass-camping lines, reduced thousands of SKUs, and concentrated on climbing, mountaineering, and trail running. Technical-product investment, expedition support, race sponsorship, practitioner credibility, premium retail, and an outdoor-oriented company culture then reinforced one another, with the source describing a delayed but substantial growth response.
+
+Its European route through [[Fuga]], a directly operated Chamonix store, races, and sponsored athletes is therefore an extension of domestic positioning rather than an isolated export move. The profile remains qualified by rapid price increases, weaker secondhand value than [[Arcteryx|Arc'teryx]], mature European competition, and an earlier fabricated Australian-origin narrative.
 
 ## Key Characteristics
-- Chinese outdoor brand using trail running as an overseas entry wedge.
-- Opened its first directly operated store outside China in Chamonix, according to the source.
-- Uses [[Fuga]] as the brand and product line most closely tied to European trail-running expansion.
-- Builds credibility through race sponsorship and professional trail-runner sponsorship.
-- Faces established outdoor and trail-running competitors such as [[Salomon]], while traditional running giants left a window in the trail-running boom.
+
+- Focused on climbing, mountaineering, and trail running after a large SKU reduction.
+- Uses technical materials, extreme-use products, expeditions, races, and athletes as professional proof.
+- Upgraded distribution from broad lower-tier and multi-brand channels toward premium malls and flagship experiences.
+- Extends its professional identity into Europe through Fuga and Chamonix.
+- Founder and employee participation in outdoor activity strengthens the authenticity claim.
+- Carries pricing, resale-value, international-competition, and historical-origin-story risks.
 
 ## Evidence
-- European entry wedge: [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]] says Kailas is using Fuga to enter overseas markets and has opened a Chamonix store outside China.
-- Channel and brand proof: [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]] says Kailas products had already entered hundreds of European and American sales outlets before the direct-store move.
-- Market-building claim: [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]] reports the founder's view that Europe's trail-running market is still small and needs cultivation.
-- Competition context: [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]] frames the opening against mature outdoor brands and earlier absence from [[Nike]] and [[Adidas]] in trail running.
+
+- Professional focus - [[ep150-ep150]] says Kailas removed broad leisure and camping products, compressed its SKU count, and concentrated on three professional outdoor scenes around 2020.
+- Credibility system - [[ep150-ep150]] describes technical material development, high-altitude products, the 未登峰计划, professional-event sponsorship, premium stores, an outdoor-use employee culture, and [[ZhongChengzhan|钟承湛]]'s continued outdoor activity after spinal injury.
+- European expansion - [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]] says Kailas uses Fuga, a Chamonix direct store, races, and professional athletes to cultivate Europe's trail-running market.
+- Commercial trajectory - [[ep150-ep150]] reports rapid revenue and average-price growth after a multi-year delay, while keeping those figures host-attributed rather than independently verified.
 
 ## Qualifications
-The source is a business-news summary and does not independently verify Kailas's European revenue, same-store performance, athlete ROI, or long-term brand recognition. The Chamonix store and sponsorship facts support a market-entry profile, not proof that Kailas can displace incumbents.
+
+The sources do not independently verify revenue, profitability, SKU history, product claims, price growth, sponsorship returns, or European store economics. A premium channel shift and practitioner sponsorship support positioning but do not prove international displacement of incumbents. The removed Australian-origin story conflicts with the brand's present authenticity emphasis and remains part of its credibility record.
 
 ## What Changed
-- Added Kailas as a Chinese outdoor brand using trail running for European market entry.
-- Connected the brand to professional outdoor credibility, direct retail, and market-cultivation strategy.
+
+- Expanded the profile from European entry to the domestic professionalization strategy that precedes it.
+- Added assortment reduction, technical proof, premium retail, founder credibility, and delayed strategic payoff.
+- Added rapid price increases, resale-value weakness, and the fabricated early origin story as qualifications.
 
 ## Relationships
-- [[Fuga]] - trail-running brand and product line used by Kailas for overseas entry.
-- [[PerformanceFootwearMarket]] - market context where technical proof and athlete credibility shape demand.
-- [[TrailRunningEntryRisk]] - adjacent outdoor-sport context that keeps trail running tied to terrain, safety, and skill.
-- [[ChineseConsumerBrandSoftPower]] - broader pattern of Chinese consumer brands seeking overseas recognition beyond low price.
-- [[GlobalProductLocalization]] - overseas-market fit problem behind the Chamonix and Europe strategy.
-- [[Salomon]] - established outdoor and trail-running competitor named in the source context.
+
+- [[Fuga]] - trail-running line and overseas entry wedge.
+- [[ZhongChengzhan|钟承湛]] - founder whose outdoor persistence reinforces the professional brand story.
+- [[Arcteryx|Arc'teryx]] - premium benchmark for price and secondhand retention.
+- [[CoreTribePositioning]] - strategic concentration on serious outdoor participants.
+- [[SubcultureLedMarketing]] - races, expeditions, and practitioners carry credibility inside the outdoor community.
+- [[ChineseConsumerBrandSoftPower]] - broader route from domestic technical credibility to international recognition.
