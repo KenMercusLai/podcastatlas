@@ -3,6 +3,9 @@ locale = 'en-us'
 title = 'Podcast Atlas'
 theme = 'hugo-xmin'
 enableRobotsTXT = true
+# Ingested publication dates are metadata, not a site release schedule.
+# Render the same corpus as the source-derived Show profiles, even before UTC midnight.
+buildFuture = true
 preview_urls = false
 ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$', '(^|/)content/wiki/overview\.md$', '(^|/)content/wiki/_generated/']
 
