@@ -37806,3 +37806,11 @@ Added source `scim9489463983-scim9489463983`; created [[RossEdgley]], [[Flexible
 ## [2026-10-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-26] ingest | When ChatGPT writes your obituary
+
+Added source `tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128`; created [[DonnaGuthrie]], [[MichelleWong]], [[AIAsPersonalMirror]], and [[SyntheticYoungerSelfReflection]]. Core synthesis: accumulated personal context can let AI reorganize dispersed interactions or diaries into an unexpectedly coherent reflection, but that output remains a selective reconstruction rather than complete knowledge of a person; obituary drafts and modeled younger selves can support reflection when humans retain revision, disagreement, relational context, and care; and exclusive reliance on agreeable AI can turn personalization into sycophantic reinforcement or displace needed human support. No settled contradiction was adopted. Therapeutic value, memory provenance, and the label "AI psychosis" remain speaker- or episode-attributed because the supplied file is a structured summary rather than a clinical study, model audit, or verbatim transcript. Broad [[MarketplaceTech]], [[ChatGPT]], memory, companion, and human-connection pages were kept closed because the focused pages capture the durable additions without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,738 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

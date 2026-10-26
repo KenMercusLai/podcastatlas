@@ -8963,6 +8963,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIAsPersonalMirror": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAsTimeCompression": [
     {
       "key": "technology",
@@ -61919,6 +61926,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MichelleWong": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Michigan": [
     {
       "key": "politics",
@@ -87009,6 +87023,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SyntheticYoungerSelfReflection": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Syria": [
     {
       "key": "politics",
@@ -109851,6 +109872,13 @@
     }
   ],
   "tech-20261022-1022-mp-tech-pod-128-tech-20261022-1022-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",

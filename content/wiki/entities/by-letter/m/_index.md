@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13713
+wiki_total_pages: 13715
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "MichelleWahler"
     title: "Michelle Wahler"
     url: "/wiki/entities/michellewahler/"
+  - key: "MichelleWong"
+    title: "Michelle Wong"
+    url: "/wiki/entities/michellewong/"
   - key: "Michigan"
     title: "Michigan"
     url: "/wiki/entities/michigan/"

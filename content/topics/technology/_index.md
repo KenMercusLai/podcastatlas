@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3631
+topic_total_pages: 3635
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -214,6 +214,9 @@ topic_concepts:
   - key: "AIArtistDevelopment"
     title: "AI Artist Development"
     url: "/wiki/concepts/aiartistdevelopment/"
+  - key: "AIAsPersonalMirror"
+    title: "AI as a Personal Mirror"
+    url: "/wiki/concepts/aiaspersonalmirror/"
   - key: "AIAsBrandMirror"
     title: "AI as Brand Mirror"
     url: "/wiki/concepts/aiasbrandmirror/"
@@ -4597,6 +4600,9 @@ topic_concepts:
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"
+  - key: "SyntheticYoungerSelfReflection"
+    title: "Synthetic Younger-Self Reflection"
+    url: "/wiki/concepts/syntheticyoungerselfreflection/"
   - key: "SystemLevelSemiconductorOptimization"
     title: "System-Level Semiconductor Optimization"
     url: "/wiki/concepts/systemlevelsemiconductoroptimization/"
@@ -7145,6 +7151,9 @@ topic_entities:
   - key: "MichaelDell"
     title: "Michael Dell"
     url: "/wiki/entities/michaeldell/"
+  - key: "MichelleWong"
+    title: "Michelle Wong"
+    url: "/wiki/entities/michellewong/"
   - key: "MicoAILab"
     title: "Mico AI Lab"
     url: "/wiki/entities/micoailab/"
@@ -10539,6 +10548,9 @@ topic_sources:
   - key: "tech-20260910-tech-pod-128-tech-20260910-tech-pod-128"
     title: "What's so concerning about the Hugging Face hack?"
     url: "/wiki/sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128/"
+  - key: "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128"
+    title: "When ChatGPT writes your obituary"
+    url: "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
   - key: "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128"
     title: "Why AI models are obsessed with creatures"
     url: "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"

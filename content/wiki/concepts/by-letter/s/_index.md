@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10792
+wiki_total_pages: 10794
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2735,6 +2735,9 @@ wiki_pages:
   - key: "SyntheticSpudCells"
     title: "Synthetic Spud Cells"
     url: "/wiki/concepts/syntheticspudcells/"
+  - key: "SyntheticYoungerSelfReflection"
+    title: "Synthetic Younger-Self Reflection"
+    url: "/wiki/concepts/syntheticyoungerselfreflection/"
   - key: "SystemDesignOverWillpower"
     title: "System Design Over Willpower / 系统设计优先于意志力"
     url: "/wiki/concepts/systemdesignoverwillpower/"

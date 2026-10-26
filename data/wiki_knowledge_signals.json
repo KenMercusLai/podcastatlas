@@ -1075,6 +1075,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiasbrandmirror/"
     },
+    "AIAsPersonalMirror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261026_1026_MP_TECH_pod_128 [tech_20261026_1026_MP_TECH_pod_128].md",
+          "key": "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When ChatGPT writes your obituary",
+          "url": "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/aiaspersonalmirror/"
+    },
     "AIAsTutor": {
       "episode_count": 13,
       "show_count": 10,
@@ -75711,6 +75727,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/dongyuewesternhan/"
+    },
+    "DonnaGuthrie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261026_1026_MP_TECH_pod_128 [tech_20261026_1026_MP_TECH_pod_128].md",
+          "key": "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When ChatGPT writes your obituary",
+          "url": "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/donnaguthrie/"
     },
     "DonnaHaraway": {
       "episode_count": 1,
@@ -191362,6 +191394,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/michellewahler/"
     },
+    "MichelleWong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261026_1026_MP_TECH_pod_128 [tech_20261026_1026_MP_TECH_pod_128].md",
+          "key": "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When ChatGPT writes your obituary",
+          "url": "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/michellewong/"
+    },
     "MickJagger": {
       "episode_count": 2,
       "show_count": 1,
@@ -272406,6 +272454,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/syntheticprogressindicators/"
+    },
+    "SyntheticYoungerSelfReflection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261026_1026_MP_TECH_pod_128 [tech_20261026_1026_MP_TECH_pod_128].md",
+          "key": "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When ChatGPT writes your obituary",
+          "url": "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/syntheticyoungerselfreflection/"
     },
     "Syracuse": {
       "episode_count": 1,

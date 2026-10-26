@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10792
+wiki_total_pages: 10794
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "AIArtistDevelopment"
     title: "AI Artist Development"
     url: "/wiki/concepts/aiartistdevelopment/"
+  - key: "AIAsPersonalMirror"
+    title: "AI as a Personal Mirror"
+    url: "/wiki/concepts/aiaspersonalmirror/"
   - key: "AIAsBrandMirror"
     title: "AI as Brand Mirror"
     url: "/wiki/concepts/aiasbrandmirror/"
