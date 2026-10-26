@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10787
+wiki_total_pages: 10789
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "TechnicalCapabilityValueBoundary"
     title: "Technical Capability-Value Boundary / 技术能力与价值判断边界"
     url: "/wiki/concepts/technicalcapabilityvalueboundary/"
+  - key: "TechnicalComfort"
+    title: "Technical Comfort"
+    url: "/wiki/concepts/technicalcomfort/"
   - key: "TechnicalCultureSalesCultureTension"
     title: "Technical Culture Sales Culture Tension"
     url: "/wiki/concepts/technicalculturesalesculturetension/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work](sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514.md) — How I Built This episode on technical comfort, end-user-purchased workwear, complementary founders, DTC distribution, investor rejection, founder control, litigation, and valuation volatility.
 - [EP291没空生病的我们，如何过上“乳腺友好”的生活？](sources/ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2.md) — Talk三联以女性与男性康复者及医生视角连接乳腺异常识别、筛查可及性、治疗康复、复发焦虑、生育、工作与长期支持。
 - [商业小样51 | 什么，瑞银要把总部搬离瑞士？](sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds.md) — 商业就是这样从瑞信救助、瑞银合并、海外子公司资本覆盖与潜在总部迁移解释“大而不能倒”的安全成本如何在银行、股东和国家之间分配。
 - [达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？](sources/dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz.md) — 声动早咖啡从纤维分类、纺织工艺、产业集群、标签信息与文化史解释聚酯为何无处不在，以及为何成分不能单独决定服装品质。
@@ -4837,6 +4838,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
 ## Entities
+- [Heather Hasson](entities/HeatherHasson.md) — FIGS co-founder and board chair who led user observation, product design, and manufacturing development.
+- [Trina Spear](entities/TrinaSpear.md) — FIGS co-founder and CEO who led market analysis, operations, fundraising, governance, and public-company scale.
+- [FIGS](entities/FIGS.md) — Healthcare-apparel company that applied technical comfort and direct-to-clinician distribution to medical scrubs.
+- [Thomas Tull](entities/ThomasTull.md) — FIGS investor associated with its concentrated 2017 investor base and founder-majority board.
+- [Strategic Partners (Medical Apparel)](entities/StrategicPartnersMedicalApparel.md) — Disambiguated incumbent medical-apparel company and plaintiff in the FIGS lawsuit described by the founders.
 - [金颖 / Jin Ying (breast-cancer survivor)](entities/JinYingBreastCancerSurvivor.md) — Documentary director, writer, and long-term survivor connecting treatment, fertility, recurrence anxiety, peer support, and life reconstruction.
 - [钱小坤 / Qian Xiaokun](entities/QianXiaokun.md) — Furniture designer whose male breast-cancer experience connects symptom recognition, gendered care settings, rehabilitation, and return to social life.
 - [唐医生 Lesley / Dr. Tang Lesley](entities/TangDoctorLesley.md) — Former ICU physician and podcast host providing clinical boundaries around breast findings, monitoring, and survivorship uncertainty.
@@ -18626,6 +18632,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Technical Comfort](concepts/TechnicalComfort.md) — Product-design principle combining softness and mobility with task function, fit, storage, and deliberate visual design.
+- [End-User-Purchased Workwear](concepts/EndUserPurchasedWorkwear.md) — Work clothing used inside institutions but selected and paid for by individual workers, aligning wearer and purchaser.
 - [Breast Cancer Survivorship Support / 乳腺癌康复支持](concepts/BreastCancerSurvivorshipSupport.md) — Clinical, rehabilitative, psychological, reproductive, occupational, and social support across life after breast-cancer diagnosis and treatment.
 - [Systemically Important Bank Capital Coverage / 系统重要性银行资本覆盖](concepts/SystemicallyImportantBankCapitalCoverage.md) — Parent-level common-equity coverage that contains foreign-subsidiary losses while constraining distributions and balance-sheet choices.
 - [Headquarters Relocation as Regulatory Leverage / 总部迁移监管杠杆](concepts/HeadquartersRelocationRegulatoryLeverage.md) — Use of a credible domicile change to influence costly home-state rules without necessarily withdrawing local operations.

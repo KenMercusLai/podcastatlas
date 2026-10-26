@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10787
+wiki_total_pages: 10789
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "EndOfLifeAutonomyAndDignity"
     title: "End-of-Life Autonomy And Dignity"
     url: "/wiki/concepts/endoflifeautonomyanddignity/"
+  - key: "EndUserPurchasedWorkwear"
+    title: "End-User-Purchased Workwear"
+    url: "/wiki/concepts/enduserpurchasedworkwear/"
   - key: "EndocannabinoidHomeostaticSignaling"
     title: "Endocannabinoid Homeostatic Signaling"
     url: "/wiki/concepts/endocannabinoidhomeostaticsignaling/"

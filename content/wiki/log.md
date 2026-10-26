@@ -37790,3 +37790,11 @@ Added source `717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt918189298
 ## [2026-10-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-26] ingest | FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work
+
+Added source `figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514`; created [[HeatherHasson]], [[TrinaSpear]], [[FIGS]], [[ThomasTull]], [[StrategicPartnersMedicalApparel|Strategic Partners (Medical Apparel)]], [[TechnicalComfort]], and [[EndUserPurchasedWorkwear]]. Core synthesis: FIGS found a consumer market inside institutional healthcare because clinicians frequently selected and paid for their own uniforms; direct observation translated respect for healthcare workers into stretch, softness, fit, functional storage, layering, and design; and a complementary founding team joined product development to market analysis, operations, fundraising, and governance. Hundreds of reported investor rejections, a concentrated investor base, founder-majority board, expensive litigation, pandemic supply response, and volatile public valuation qualify the simple DTC growth story. No settled contradiction was adopted. Market size, self-purchase share, production economics, revenue, fundraising, customer counts, valuation, legal cost, and litigation characterizations remain founder- or host-attributed and source-scoped. Broad show, interviewer, DTC, founder-control, purpose, and paper-wealth pages were kept closed because the focused company, founder, counterparty, and concept pages capture the durable additions without reopening larger evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,736 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13707
+wiki_total_pages: 13712
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1760,6 +1760,9 @@ wiki_pages:
   - key: "StraitOfHormuz"
     title: "Strait of Hormuz"
     url: "/wiki/entities/straitofhormuz/"
+  - key: "StrategicPartnersMedicalApparel"
+    title: "Strategic Partners (Medical Apparel)"
+    url: "/wiki/entities/strategicpartnersmedicalapparel/"
   - key: "StrattonOakmont"
     title: "Stratton Oakmont"
     url: "/wiki/entities/strattonoakmont/"

@@ -87245,6 +87245,22 @@
       "updated": "2026-10-13",
       "url": "/wiki/concepts/encyclopedicfictionworldexpansion/"
     },
+    "EndUserPurchasedWorkwear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/enduserpurchasedworkwear/"
+    },
     "Endeavour": {
       "episode_count": 2,
       "show_count": 1,
@@ -93281,6 +93297,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/fifaworldcup1978/"
+    },
+    "FIGS": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/figs/"
     },
     "FINRA": {
       "episode_count": 1,
@@ -124524,6 +124556,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/heathincomespolicy/"
+    },
+    "HeatherHasson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/heatherhasson/"
     },
     "HeatherTuke": {
       "episode_count": 1,
@@ -267316,6 +267364,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/strategicloyaltyfactionalbalance/"
     },
+    "StrategicPartnersMedicalApparel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/strategicpartnersmedicalapparel/"
+    },
     "StrategicPatronExitJudgment": {
       "episode_count": 2,
       "show_count": 1,
@@ -275090,6 +275154,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/technicalcapabilityvalueboundary/"
     },
+    "TechnicalComfort": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/technicalcomfort/"
+    },
     "TechnicalHUMINTMilitaryLeverage": {
       "episode_count": 1,
       "show_count": 1,
@@ -279438,6 +279518,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/thomasseymour/"
+    },
+    "ThomasTull": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/thomastull/"
     },
     "ThomasVenner": {
       "episode_count": 1,
@@ -284608,6 +284704,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/entities/trigg/"
+    },
+    "TrinaSpear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP6448511514 [VMP6448511514].md",
+          "key": "figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514",
+          "show": "How I Built This with Guy Raz",
+          "title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+          "url": "/wiki/sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/trinaspear/"
     },
     "TrinityNuclearTest": {
       "episode_count": 1,

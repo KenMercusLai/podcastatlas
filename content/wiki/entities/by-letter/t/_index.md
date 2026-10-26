@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13707
+wiki_total_pages: 13712
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "ThomasSeymour"
     title: "Thomas Seymour"
     url: "/wiki/entities/thomasseymour/"
+  - key: "ThomasTull"
+    title: "Thomas Tull"
+    url: "/wiki/entities/thomastull/"
   - key: "ThomasVenner"
     title: "Thomas Venner"
     url: "/wiki/entities/thomasvenner/"
@@ -1265,6 +1268,9 @@ wiki_pages:
   - key: "Trigg"
     title: "Trigg"
     url: "/wiki/entities/trigg/"
+  - key: "TrinaSpear"
+    title: "Trina Spear"
+    url: "/wiki/entities/trinaspear/"
   - key: "TrinityNuclearTest"
     title: "Trinity Nuclear Test"
     url: "/wiki/entities/trinitynucleartest/"
