@@ -37798,3 +37798,11 @@ Added source `figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-t
 ## [2026-10-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-26] ingest | Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley
+
+Added source `scim9489463983-scim9489463983`; created [[RossEdgley]], [[FlexibleMotivationalPortfolio]], [[DelegatedEnduranceStopRules]], and [[StrengthReserveForEndurance]]; and resynthesized [[AnteriorMidCingulateWillpower]] and [[EnduranceEffortPersistence]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: long efforts can require switching among commitment, affiliation, anger, gratitude, enjoyment, service, and meaning as each motive loses force; extreme persistence remains a distributed team achievement whose stop authority should be agreed before exhaustion, pain, cold, or sleep loss impair self-assessment; and maximal-strength reserve may reduce the relative cost of repeated movement without removing other physiological constraints. No settled contradiction was adopted. Edgley's feats, injuries, motives, biographical change, and training claims remain source-scoped, while animal studies, neural mechanisms, stress transfer, performance effects, and strength-reserve benefits remain incomplete without full methods. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,737 sources across 805 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -18553,9 +18553,9 @@
       "url": "/wiki/entities/antarctica/"
     },
     "AnteriorMidCingulateWillpower": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7958949675 [SCIM7958949675].md",
@@ -18570,6 +18570,13 @@
           "show": "Huberman Lab",
           "title": "How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance",
           "url": "/wiki/sources/how-to-use-exercise-to-improve-your-brains-health-longevity-performance-scim5355702949/"
+        },
+        {
+          "episode_file": "SCIM9489463983 [SCIM9489463983].md",
+          "key": "scim9489463983-scim9489463983",
+          "show": "Huberman Lab",
+          "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+          "url": "/wiki/sources/scim9489463983-scim9489463983/"
         }
       ],
       "updated": "2026-10-11",
@@ -69285,6 +69292,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/delegatedagentinteraction/"
     },
+    "DelegatedEnduranceStopRules": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9489463983 [SCIM9489463983].md",
+          "key": "scim9489463983-scim9489463983",
+          "show": "Huberman Lab",
+          "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+          "url": "/wiki/sources/scim9489463983-scim9489463983/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/delegatedendurancestoprules/"
+    },
     "DelegatedRegencyCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -87384,9 +87407,9 @@
       "url": "/wiki/concepts/endoscopypathologyfollowup/"
     },
     "EnduranceEffortPersistence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8024795061 [SCIM8024795061].md",
@@ -87394,9 +87417,16 @@
           "show": "Huberman Lab",
           "title": "How to Build Endurance in Your Brain & Body",
           "url": "/wiki/sources/scim8024795061-scim8024795061/"
+        },
+        {
+          "episode_file": "SCIM9489463983 [SCIM9489463983].md",
+          "key": "scim9489463983-scim9489463983",
+          "show": "Huberman Lab",
+          "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+          "url": "/wiki/sources/scim9489463983-scim9489463983/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-26",
       "url": "/wiki/concepts/enduranceeffortpersistence/"
     },
     "EnduranceTrainingModalities": {
@@ -100399,6 +100429,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
+    },
+    "FlexibleMotivationalPortfolio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9489463983 [SCIM9489463983].md",
+          "key": "scim9489463983-scim9489463983",
+          "show": "Huberman Lab",
+          "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+          "url": "/wiki/sources/scim9489463983-scim9489463983/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/flexiblemotivationalportfolio/"
     },
     "FlexibleWeeklyFitnessScaffold": {
       "episode_count": 4,
@@ -244881,6 +244927,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/rossandrewpaquette/"
     },
+    "RossEdgley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9489463983 [SCIM9489463983].md",
+          "key": "scim9489463983-scim9489463983",
+          "show": "Huberman Lab",
+          "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+          "url": "/wiki/sources/scim9489463983-scim9489463983/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/entities/rossedgley/"
+    },
     "RotatorCuffExternalRotation": {
       "episode_count": 3,
       "show_count": 1,
@@ -267740,6 +267802,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
+    },
+    "StrengthReserveForEndurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9489463983 [SCIM9489463983].md",
+          "key": "scim9489463983-scim9489463983",
+          "show": "Huberman Lab",
+          "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+          "url": "/wiki/sources/scim9489463983-scim9489463983/"
+        }
+      ],
+      "updated": "2026-10-26",
+      "url": "/wiki/concepts/strengthreserveforendurance/"
     },
     "StrengthTrainingJointProtection": {
       "episode_count": 3,

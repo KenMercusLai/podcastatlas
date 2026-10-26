@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley](sources/scim9489463983-scim9489463983.md) — Huberman Lab conversation on rotating motivational channels, brain-body persistence, delegated stop rules, team dependence, strength reserve, sleep, and meaning in extreme endurance.
 - [FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work](sources/figs-trina-spear-and-heather-hasson-the-2-5-billion-scrubs-brand-that-investors-said-would-never-work-vmp6448511514.md) — How I Built This episode on technical comfort, end-user-purchased workwear, complementary founders, DTC distribution, investor rejection, founder control, litigation, and valuation volatility.
 - [EP291没空生病的我们，如何过上“乳腺友好”的生活？](sources/ep291-meikong-shengbing-de-women-ruhe-guoshang-ruxian-youhao-de-shenghuo-lmzevsk2atc-6psjqeogg-qhuyq2.md) — Talk三联以女性与男性康复者及医生视角连接乳腺异常识别、筛查可及性、治疗康复、复发焦虑、生育、工作与长期支持。
 - [商业小样51 | 什么，瑞银要把总部搬离瑞士？](sources/shangye-xiaoyang-51-shenme-ruiyin-yaoba-zongbu-banli-ruishi-gkwrijiotaj1agndggtvuvds.md) — 商业就是这样从瑞信救助、瑞银合并、海外子公司资本覆盖与潜在总部迁移解释“大而不能倒”的安全成本如何在银行、股东和国家之间分配。
@@ -4838,6 +4839,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
 ## Entities
+- [Ross Edgley](entities/RossEdgley.md) — British ultra-endurance athlete connecting rotating motives, collective expedition work, strength reserve, and delegated safety authority.
 - [Heather Hasson](entities/HeatherHasson.md) — FIGS co-founder and board chair who led user observation, product design, and manufacturing development.
 - [Trina Spear](entities/TrinaSpear.md) — FIGS co-founder and CEO who led market analysis, operations, fundraising, governance, and public-company scale.
 - [FIGS](entities/FIGS.md) — Healthcare-apparel company that applied technical comfort and direct-to-clinician distribution to medical scrubs.
@@ -18632,6 +18634,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Flexible Motivational Portfolio](concepts/FlexibleMotivationalPortfolio.md) — Resilience model that deliberately switches among commitment, affiliation, anger, gratitude, enjoyment, service, and meaning as their potency changes.
+- [Delegated Endurance Stop Rules](concepts/DelegatedEnduranceStopRules.md) — Advance authority for trusted crew or medical decision-makers to stop an effort when persistence makes self-assessment unsafe.
+- [Strength Reserve for Endurance](concepts/StrengthReserveForEndurance.md) — Principle that greater maximal force capacity can reduce the relative cost of each repeated endurance movement.
 - [Technical Comfort](concepts/TechnicalComfort.md) — Product-design principle combining softness and mobility with task function, fit, storage, and deliberate visual design.
 - [End-User-Purchased Workwear](concepts/EndUserPurchasedWorkwear.md) — Work clothing used inside institutions but selected and paid for by individual workers, aligning wearer and purchaser.
 - [Breast Cancer Survivorship Support / 乳腺癌康复支持](concepts/BreastCancerSurvivorshipSupport.md) — Clinical, rehabilitative, psychological, reproductive, occupational, and social support across life after breast-cancer diagnosis and treatment.

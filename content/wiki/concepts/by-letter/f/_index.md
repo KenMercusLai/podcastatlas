@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10789
+wiki_total_pages: 10792
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "FlexibleManufacturing"
     title: "Flexible Manufacturing / 柔性制造"
     url: "/wiki/concepts/flexiblemanufacturing/"
+  - key: "FlexibleMotivationalPortfolio"
+    title: "Flexible Motivational Portfolio"
+    url: "/wiki/concepts/flexiblemotivationalportfolio/"
   - key: "FlexibleWeeklyFitnessScaffold"
     title: "Flexible Weekly Fitness Scaffold"
     url: "/wiki/concepts/flexibleweeklyfitnessscaffold/"

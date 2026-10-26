@@ -30596,6 +30596,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DelegatedEnduranceStopRules": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DelegatedWebResearch": [
     {
       "key": "technology",

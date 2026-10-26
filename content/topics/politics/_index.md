@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3399
+topic_total_pages: 3400
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1174,6 +1174,9 @@ topic_concepts:
   - key: "DelayedRescueStatecraft"
     title: "Delayed Rescue Statecraft / 晚救权谋"
     url: "/wiki/concepts/delayedrescuestatecraft/"
+  - key: "DelegatedEnduranceStopRules"
+    title: "Delegated Endurance Stop Rules"
+    url: "/wiki/concepts/delegatedendurancestoprules/"
   - key: "DemandSideHousingAffordabilityPolicy"
     title: "Demand-Side Housing Affordability Policy"
     url: "/wiki/concepts/demandsidehousingaffordabilitypolicy/"

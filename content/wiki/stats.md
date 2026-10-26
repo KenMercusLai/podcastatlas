@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10789
-- Entities: 13712
-- Sources: 4736
-- Total wiki content pages: 29238
+- Concepts: 10792
+- Entities: 13713
+- Sources: 4737
+- Total wiki content pages: 29243
 
 ## Links
-- Wiki link references: 672143
-- Unique wiki link targets: 29269
-- Missing targets: 42
+- Wiki link references: 672232
+- Unique wiki link targets: 29275
+- Missing targets: 43
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4736
-- Matched episodes: 4736
+- Source pages: 4737
+- Matched episodes: 4737
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -96,6 +96,8 @@ outputs: ["html"]
 - `[[Moses]]`
   - `content/wiki/concepts/MassacreOfTheInnocents.md`
   - `content/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md`
+- `[[ProgressiveOverload]]`
+  - `content/wiki/concepts/StrengthReserveForEndurance.md`
 - `[[RailwayNetworkEffects]]`
   - `content/wiki/concepts/TayBridgeDisaster.md`
 - `[[ResearchInfrastructure]]`

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10789
+wiki_total_pages: 10792
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "DelegatedAgentInteraction"
     title: "Delegated Agent Interaction"
     url: "/wiki/concepts/delegatedagentinteraction/"
+  - key: "DelegatedEnduranceStopRules"
+    title: "Delegated Endurance Stop Rules"
+    url: "/wiki/concepts/delegatedendurancestoprules/"
   - key: "DelegatedWebResearch"
     title: "Delegated Web Research"
     url: "/wiki/concepts/delegatedwebresearch/"

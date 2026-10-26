@@ -26419,6 +26419,10 @@
     "title": "Delegated Agent Interaction",
     "url": "/wiki/concepts/delegatedagentinteraction/"
   },
+  "DelegatedEnduranceStopRules": {
+    "title": "Delegated Endurance Stop Rules",
+    "url": "/wiki/concepts/delegatedendurancestoprules/"
+  },
   "DelegatedRegencyCapture": {
     "title": "摄政委权式权力俘获 / Delegated Regency Capture",
     "url": "/wiki/concepts/delegatedregencycapture/"
@@ -34746,6 +34750,10 @@
   "FlexibleManufacturing": {
     "title": "Flexible Manufacturing / 柔性制造",
     "url": "/wiki/concepts/flexiblemanufacturing/"
+  },
+  "FlexibleMotivationalPortfolio": {
+    "title": "Flexible Motivational Portfolio",
+    "url": "/wiki/concepts/flexiblemotivationalportfolio/"
   },
   "FlexibleWeeklyFitnessScaffold": {
     "title": "Flexible Weekly Fitness Scaffold",
@@ -77951,6 +77959,10 @@
     "title": "Ross Brawn",
     "url": "/wiki/entities/rossbrawn/"
   },
+  "RossEdgley": {
+    "title": "Ross Edgley",
+    "url": "/wiki/entities/rossedgley/"
+  },
   "RossUlbricht": {
     "title": "Ross Ulbricht",
     "url": "/wiki/entities/rossulbricht/"
@@ -85202,6 +85214,10 @@
   "StrengthHypertrophyProgramming": {
     "title": "Strength and Hypertrophy Programming",
     "url": "/wiki/concepts/strengthhypertrophyprogramming/"
+  },
+  "StrengthReserveForEndurance": {
+    "title": "Strength Reserve for Endurance",
+    "url": "/wiki/concepts/strengthreserveforendurance/"
   },
   "StrengthTrainingJointProtection": {
     "title": "Strength Training for Joint Protection / 保护关节的力量训练",
@@ -107850,6 +107866,10 @@
   "scim9382980793-scim9382980793": {
     "title": "Essentials: Improving Health With Stronger Brain-Body Connection",
     "url": "/wiki/sources/scim9382980793-scim9382980793/"
+  },
+  "scim9489463983-scim9489463983": {
+    "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+    "url": "/wiki/sources/scim9489463983-scim9489463983/"
   },
   "scim9560506848-scim9560506848": {
     "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
