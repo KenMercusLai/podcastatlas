@@ -1305,6 +1305,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？](sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45.md) — 这病说来话长 episode on preoperative assessment, anesthesia-mode selection, cognition and dosing myths, informed consent, and aspiration-prevention fasting.
 - [Brazil rut: Lula v Bolsonaro, again](sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5.md) — The Intelligence episode on Brazil's polarized election and fiscal constraints, honor culture and women's work, and the rise of phone-free concerts.
 - [Here comes the son? Brazil’s election tips rightward](sources/here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b.md) — The Intelligence episode on Flavio Bolsonaro's first-round lead, U.S. plate-reader backlash, and elite nanny rota care.
+- [From this day, fourth: Lula’s surprise win](sources/from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06.md) — The Intelligence episode on Lula's runoff comeback, Texas electoral change, and merchandise as identity and advertising.
 - [289: Drink — Britain’s Empire of Booze](sources/289-drink-glt6408276244.md) — The Rest Is History episode with Henry Jeffreys on how British technology, trade, policy, taste, and branding shaped champagne, claret, port, sherry, Marsala, and blended Scotch.
 - [How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173.md) — Full Huberman Lab conversation on discipline, energy, intent-led command, detachment, morale, role fit, grief, identity, and bounded resilience practice.
 - [Why one X user is microblogging history in real time](sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128.md) — Marketplace Tech profile of Manny Morota's manual, real-time historical feeds, intergenerational memory, misinformation framing, community norms, and trauma-monetization boundary.
@@ -6719,8 +6720,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jesus](entities/Jesus.md) — First-century Jewish teacher reconstructed through baptism, Kingdom preaching, Jerusalem conflict, crucifixion, and early resurrection belief.
 - [John the Baptist](entities/JohnTheBaptist.md) — Preacher of repentance, baptism, and judgment whose connection to Jesus is a strong historical anchor.
 - [Pontius Pilate](entities/PontiusPilate.md) — Roman authority connecting the Jerusalem arrest of Jesus to political interrogation and crucifixion.
-- [Luiz Inacio Lula da Silva](entities/LuizInacioLulaDaSilva.md) — Incumbent Brazilian president who reached the 2026 runoff after finishing behind Flavio Bolsonaro in the first round.
-- [Flavio Bolsonaro](entities/FlavioBolsonaro.md) — First-round leader whose platform joins family pardons, court confrontation, and crime, corruption, and deficit proposals.
+- [Luiz Inacio Lula da Silva](entities/LuizInacioLulaDaSilva.md) — Brazilian president whose campaign reportedly reversed a first-round deficit to win the 2026 runoff.
+- [Flavio Bolsonaro](entities/FlavioBolsonaro.md) — First-round leader who reportedly lost the runoff while his political camp retained congressional strength.
 - [Jair Bolsonaro](entities/JairBolsonaro.md) — Imprisoned former president whose family movement retained electoral strength through Flavio and other relatives.
 - [Phoebe Bridgers](entities/PhoebeBridgers.md) — Musician used as the episode's lead example of a repeated phone-free concert policy.
 - [Yondr](entities/Yondr.md) — Locking phone-pouch system used to enforce device restrictions at live events.
@@ -20239,6 +20240,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Early Christian Exaltation](concepts/EarlyChristianExaltation.md) — Rapid post-crucifixion belief that Jesus had risen and occupied an exalted role, interpreted through teaching, death, and prophecy.
 - [Anesthesiology Clinical Role and Team Escalation / 麻醉医生临床角色与团队升级](concepts/AnesthesiologyClinicalRoleAndTeamEscalation.md) — Whole-course physician responsibility, room continuity, senior coverage, rescue escalation, training breadth, and complexity-based allocation in anesthesia care.
 - [Brazil Fiscal-Political Stalemate](concepts/BrazilFiscalPoliticalStalemate.md) — Electoral and governing lock-in joining high debt costs, consumption-led spending, congressional power, and institutional checks.
+- [Runoff Campaign Adaptation](concepts/RunoffCampaignAdaptation.md) — Rapid between-round change in message, media, mobilization, events, promises, and turnout strategy.
+- [Texas Electoral Realignment](concepts/TexasElectoralRealignment.md) — Qualified shift in competitiveness through candidate quality, issue salience, demographic growth, and reactions to nativism.
+- [Merchandise Identity–Advertising Loop](concepts/MerchandiseIdentityAdvertisingLoop.md) — Branded objects creating consumer memory and affiliation while customers distribute the brand in public.
 - [Honor Culture Female Mobility Constraint](concepts/HonorCultureFemaleMobilityConstraint.md) — Family-reputation norm that can make permission to leave home a prior barrier to women's employment.
 - [Paid Employment Household Bargaining Power](concepts/PaidEmploymentHouseholdBargainingPower.md) — Qualified link between women's earned income and influence over household budgets, social activity, and movement.
 - [Phone-Free Concert Experience](concepts/PhoneFreeConcertExperience.md) — Live-event design restricting devices to prioritize shared attention, intimacy, and ephemerality.

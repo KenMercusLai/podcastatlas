@@ -805,12 +805,13 @@
       "53546a6d7bdeec5c2999eacfbc57deb6a8ff164297827957d8c199499982b579",
       "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73",
       "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6",
-      "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70"
+      "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70",
+      "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5"
     ],
-    "paragraph_count": 805
+    "paragraph_count": 806
   },
-  "overview_commit": "ab04324bbd5194d61500e25934343d639adb43ff",
-  "overview_digest": "d51386d9159174f25654b3245dd155dafe103dad894e9e161c5ce86b44ee29dd",
+  "overview_commit": "758dbcd26073c95653f3bc039b7fe1ddae67f1b6",
+  "overview_digest": "86deda95e09be067c195cf4112f8725950f04bae202672da61882a1f63910326",
   "paragraphs": [
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
@@ -23481,6 +23482,28 @@
         "NikeshArora",
         "PaloAltoNetworks",
         "allin-e294-ch-allin-e294-ch"
+      ]
+    },
+    {
+      "id": "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06|From this day, fourth: Lula’s surprise win]], a [[TheIntelligence]] episode linking [[LuizInacioLulaDaSilva|Lula]]'s reported runoff comeback, changing electoral competition in [[Texas]], and the global spread of branded goods. It adds [[RunoffCampaignAdaptation]], [[TexasElectoralRealignment]], and [[MerchandiseIdentityAdvertisingLoop]] while resynthesizing Lula, [[FlavioBolsonaro]], and [[BrazilFiscalPoliticalStalemate]]. Its core political synthesis is that rapid change in digital organization, concrete economic messaging, rallies, turnout, and opponent scrutiny can reverse a first-round deficit without removing congressional or fiscal constraints; Texas likewise appears more competitive through candidate weakness, affordability, data-center opposition, demographic change, and resistance to nativist rhetoric rather than an automatic partisan flip. Its commercial synthesis is that merchandise can combine memory, identity, status, community, and customer-funded advertising. No settled contradiction is adopted. The Lula result updates an earlier forecast, while polling, vote totals, campaign causation, allegations, demographic shares, market size, cost, and exposure claims remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BrazilFiscalPoliticalStalemate",
+        "FlavioBolsonaro",
+        "LuizInacioLulaDaSilva",
+        "MerchandiseIdentityAdvertisingLoop",
+        "RunoffCampaignAdaptation",
+        "Texas",
+        "TexasElectoralRealignment",
+        "TheIntelligence",
+        "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06"
       ]
     }
   ],

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10794
+wiki_total_pages: 10797
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "MercenaryWar"
     title: "Mercenary War / 雇佣兵战争"
     url: "/wiki/concepts/mercenarywar/"
+  - key: "MerchandiseIdentityAdvertisingLoop"
+    title: "Merchandise Identity–Advertising Loop"
+    url: "/wiki/concepts/merchandiseidentityadvertisingloop/"
   - key: "MerchantExchangeInfrastructure"
     title: "Merchant Exchange Infrastructure / 商人交换基础设施"
     url: "/wiki/concepts/merchantexchangeinfrastructure/"

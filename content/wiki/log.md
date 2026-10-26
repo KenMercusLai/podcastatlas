@@ -37755,6 +37755,10 @@ Added source `ai-shidai-phd-lushang-de-10-ge-guanjian-wenti-duitan-lilei-gangda-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-26] ingest | From this day, fourth: Lula’s surprise win
+
+Added source `from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06`; created [[RunoffCampaignAdaptation]], [[TexasElectoralRealignment]], and [[MerchandiseIdentityAdvertisingLoop]]; resynthesized [[LuizInacioLulaDaSilva]], [[FlavioBolsonaro]], and [[BrazilFiscalPoliticalStalemate]]. Core synthesis: Lula's reported runoff comeback updates the earlier favored-Flavio forecast while preserving the distinction between electoral recovery and governing authority under fiscal and congressional constraint; Texas competitiveness remains provisional and multi-causal; and merchandise can combine consumer memory, identity, belonging, and support with customer-funded mobile advertising. No settled contradiction was adopted. Vote totals, polling, campaign causation, candidate allegations, demographic shares, market estimates, production costs, and exposure claims remain episode-attributed. Downstream synthesis refreshed the dirty Business and Markets topic, compacted the global artifact on its material-change gate, and validated 4,739 sources across 806 overview paragraphs and nine topics.
+
 ## [2026-10-26] ingest | 达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？
 
 Added source `dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz`; created [[PolyesterAsApparelMaterial|聚酯纤维作为服装材料]] and [[FiberLabelQualityGap|纤维标签与成衣品质差距]]. Core synthesis: polyester is a broad, engineerable material family whose garment performance emerges from polymer type, fiber and yarn specification, construction, finishing, blending, design, and supply-chain execution; mature industrial clusters help translate that flexibility into scale and consistency; and a standardized fiber-content label remains useful without being a complete quality or value judgment. No settled contradiction was adopted. Production shares, costs, standards, model and retail news, restaurant data, and environmental generalizations remain episode-attributed and time-sensitive, while microplastic release, recycling difficulty, and comparative lifecycle impact remain outside the episode's evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,732 sources across 805 overview paragraphs and nine topics.
@@ -37810,6 +37814,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-26] ingest | When ChatGPT writes your obituary
 
 Added source `tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128`; created [[DonnaGuthrie]], [[MichelleWong]], [[AIAsPersonalMirror]], and [[SyntheticYoungerSelfReflection]]. Core synthesis: accumulated personal context can let AI reorganize dispersed interactions or diaries into an unexpectedly coherent reflection, but that output remains a selective reconstruction rather than complete knowledge of a person; obituary drafts and modeled younger selves can support reflection when humans retain revision, disagreement, relational context, and care; and exclusive reliance on agreeable AI can turn personalization into sycophantic reinforcement or displace needed human support. No settled contradiction was adopted. Therapeutic value, memory provenance, and the label "AI psychosis" remain speaker- or episode-attributed because the supplied file is a structured summary rather than a clinical study, model audit, or verbatim transcript. Broad [[MarketplaceTech]], [[ChatGPT]], memory, companion, and human-connection pages were kept closed because the focused pages capture the durable additions without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,738 sources across 805 overview paragraphs and nine topics.
+
+## [2026-10-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-26] lint | Wiki health check
 

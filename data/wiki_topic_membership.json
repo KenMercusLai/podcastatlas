@@ -78638,6 +78638,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RunoffCampaignAdaptation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Runta": [
     {
       "key": "technology",
@@ -88810,6 +88817,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TexasElectoralRealignment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TextbookExcerptFlattening": [
@@ -105829,6 +105843,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677": [

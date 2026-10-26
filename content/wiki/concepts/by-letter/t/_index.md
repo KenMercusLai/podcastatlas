@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10794
+wiki_total_pages: 10797
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "Tetrarchy"
     title: "Tetrarchy"
     url: "/wiki/concepts/tetrarchy/"
+  - key: "TexasElectoralRealignment"
+    title: "Texas Electoral Realignment"
+    url: "/wiki/concepts/texaselectoralrealignment/"
   - key: "TextShapedCognition"
     title: "Text-Shaped Cognition / 文本塑造的认知方式"
     url: "/wiki/concepts/textshapedcognition/"

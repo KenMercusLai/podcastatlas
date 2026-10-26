@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3400
+topic_total_pages: 3403
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3844,6 +3844,9 @@ topic_concepts:
   - key: "RumorErosionOfTrust"
     title: "Rumor Erosion of Trust / 谣言侵蚀信任"
     url: "/wiki/concepts/rumorerosionoftrust/"
+  - key: "RunoffCampaignAdaptation"
+    title: "Runoff Campaign Adaptation"
+    url: "/wiki/concepts/runoffcampaignadaptation/"
   - key: "RuralWomenPublicParticipation"
     title: "Rural Women Public Participation / 乡村女性公共参与"
     url: "/wiki/concepts/ruralwomenpublicparticipation/"
@@ -4315,6 +4318,9 @@ topic_concepts:
   - key: "TenantScreeningEvictionBackfire"
     title: "Tenant Screening Eviction Backfire"
     url: "/wiki/concepts/tenantscreeningevictionbackfire/"
+  - key: "TexasElectoralRealignment"
+    title: "Texas Electoral Realignment"
+    url: "/wiki/concepts/texaselectoralrealignment/"
   - key: "TextualVariantPoliticalStakes"
     title: "Textual Variant Political Stakes / 史书异文政治重量"
     url: "/wiki/concepts/textualvariantpoliticalstakes/"
@@ -9351,6 +9357,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485"
     title: "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+  - key: "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06"
+    title: "From this day, fourth: Lula’s surprise win"
+    url: "/wiki/sources/from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425"
     title: "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10794
+wiki_total_pages: 10797
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1520,6 +1520,9 @@ wiki_pages:
   - key: "RunningShoeTechnology"
     title: "Running Shoe Technology"
     url: "/wiki/concepts/runningshoetechnology/"
+  - key: "RunoffCampaignAdaptation"
+    title: "Runoff Campaign Adaptation"
+    url: "/wiki/concepts/runoffcampaignadaptation/"
   - key: "RuralBoundaryAndNeighborOrder"
     title: "Rural Boundary And Neighbor Order / 乡村边界与邻里秩序"
     url: "/wiki/concepts/ruralboundaryandneighbororder/"
