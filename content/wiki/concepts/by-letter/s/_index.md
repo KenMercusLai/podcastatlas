@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10816
+wiki_total_pages: 10817
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "SkillBasedSideIncome"
     title: "Skill-Based Side Income / 技能型副业收入"
     url: "/wiki/concepts/skillbasedsideincome/"
+  - key: "SkillfulFear"
+    title: "Skillful Fear"
+    url: "/wiki/concepts/skillfulfear/"
   - key: "Skimpflation"
     title: "Skimpflation"
     url: "/wiki/concepts/skimpflation/"

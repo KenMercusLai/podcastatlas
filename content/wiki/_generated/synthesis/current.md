@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-26
-as_of_overview_commit: 758dbcd26073c95653f3bc039b7fe1ddae67f1b6
+as_of_overview_commit: 5c6251750ac37ef8913f1341a41a0a001cab04b2
 summary: "Reliable value emerges when capability meets evidence, implementation, distribution, accountability, and human judgment across technology, markets, institutions, health, and work."
-episode_count: 4739
-source_count: 4739
+episode_count: 4745
+source_count: 4745
 paragraph_count: 806
 topic_count: 9
 ---

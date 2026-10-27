@@ -37862,3 +37862,11 @@ Added source `bf8d29dbc7b83c7daefff88e8666657c`; created [[MaryPeltola]], [[DanS
 ## [2026-10-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-27] ingest | Only in San Francisco: A picnic about AI's potential risks
+
+Added source `tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128`; created [[DonnieChristie]], [[SkyGunasekaran]], [[ElliotCallender]], [[MatthewCoriotti]], and [[SkillfulFear]]; and resynthesized [[AdvancedAIDevelopmentPause]], [[AISafetyCoordination]], and [[AICompanyProductLiability]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: people can share urgent concern about advanced AI while preferring materially different responses—cybersecurity, international cooperation, company liability, or a complete halt—and fear becomes useful only when evidence and uncertainty discipline the threat judgment while bounded action, social connection, and retained everyday life discipline the emotional response. No settled contradiction was adopted. Misuse reports, catastrophic forecasts, salary figures, and the effectiveness of proposed interventions remain participant- or episode-attributed because the supplied file is a short structured summary rather than an incident record, technical analysis, legal proposal, employment record, or transcript. Broad [[MarketplaceTech]], company, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the age-based global compaction gate was due and the refreshed compact artifact validates 4,745 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3410
+topic_total_pages: 3412
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7160,6 +7160,9 @@ topic_entities:
   - key: "MattMahan"
     title: "Matt Mahan"
     url: "/wiki/entities/mattmahan/"
+  - key: "MatthewCoriotti"
+    title: "Matthew Coriotti"
+    url: "/wiki/entities/matthewcoriotti/"
   - key: "MaureenThorson"
     title: "Maureen Thorson"
     url: "/wiki/entities/maureenthorson/"
@@ -9492,6 +9495,9 @@ topic_sources:
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
+  - key: "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128"
+    title: "Only in San Francisco: A picnic about AI's potential risks"
+    url: "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215"
     title: "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"

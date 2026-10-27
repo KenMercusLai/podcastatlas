@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Only in San Francisco: A picnic about AI's potential risks](sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128.md) — Marketplace Tech maps cybersecurity, international coordination, liability, and halt positions inside the AI-safety movement while examining their effects on careers and everyday risk decisions.
 - [511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮](sources/511-chongxin-faxian-feixiaotong-wenxue-shijiao-xia-de-sanshiniandai-jiangnan-siye-weiji-yu-beiping-qingnian-sichao-lnsuco6dz9odgc5x4rw5nrd-eqbs.md) — 忽左忽右以《茧》重访费孝通、江南蚕丝危机、农村区域差异、乡村工业改良、社会学中国化与女性改革者的独立贡献。
 - [达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业](sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls.md) — 声动早咖啡串联航司利润优先、SpaceX 算力与通信布局、AI 内容生产、短剧和汽车出海、Robotaxi、商超转型、牙膏宣称及 GLP-1 对餐饮与啤酒需求的外溢影响。
 - [Vol.358 钢琴课：我已经想开了，希望你也想开一点](sources/vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidian-gkwrijeotl1aaype0qtvn81u.md) — 文化有限借麦克尤恩《钢琴课》讨论全人生小说、成年人与未成年人之间的性侵、共同生活的虚构伦理、历史偶然性、艺术与家庭代价，以及故事不必成为单一教训。
@@ -4847,6 +4848,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Act of Claude: Anthropic’s IPO bid](sources/bf8d29dbc7b83c7daefff88e8666657c.md) — Economist Podcasts on Anthropic's reported profitability and infrastructure-heavy IPO, Alaska's fisheries-centered Senate race, and the precision-versus-reproducibility choice in redefining the second.
 
 ## Entities
+- [Donnie Christie](entities/DonnieChristie.md) — AI-safety community organizer who convenes competing approaches and frames effective response as skillful fear.
+- [Sky Gunasekaran](entities/SkyGunasekaran.md) — AI-agent collaboration researcher emphasizing cybersecurity, international coordination, and the education effects of perceived urgency.
+- [Elliot Callender](entities/ElliotCallender.md) — AI-safety protest organizer advocating a complete stop to advanced development over feared loss of control.
+- [Matthew Coriotti](entities/MatthewCoriotti.md) — AI-safety nonprofit fellow advocating regulation and liability after declining a higher-paid software role.
 - [Mary Peltola](entities/MaryPeltola.md) — Former Alaska congresswoman using fisheries, federal scientific capacity, and local presence in a cross-party 2026 Senate campaign.
 - [Dan Sullivan](entities/DanSullivan.md) — Republican Alaska senator contesting fisheries credentials and remote-community representation in a close reelection race.
 - [National Oceanic and Atmospheric Administration](entities/NationalOceanicAndAtmosphericAdministration.md) — U.S. federal agency whose weather and fish-stock data connect scientific capacity to marine safety and quota decisions.
@@ -18664,6 +18669,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Skillful Fear](concepts/SkillfulFear.md) — Evidence-sensitive, action-oriented concern intended to avoid both dismissal and immobilizing doom.
 - [Alaska Fisheries Politics](concepts/AlaskaFisheriesPolitics.md) — Electoral frame joining fishing identity, livelihoods, weather and stock science, seafood policy, and representation in remote communities.
 - [Atomic Time Redefinition](concepts/AtomicTimeRedefinition.md) — Replacement of the caesium-defined SI second with a more precise atomic standard that remains reliable and internationally reproducible.
 - [Public-Benefit Corporation Safety Governance](concepts/PublicBenefitCorporationSafetyGovernance.md) — Corporate-form attempt to preserve AI safety goals when public ownership, infrastructure spending, and shareholder returns conflict.

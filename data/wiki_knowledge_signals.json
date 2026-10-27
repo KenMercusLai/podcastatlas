@@ -2100,9 +2100,9 @@
       "url": "/wiki/concepts/aicompanionauthenticityboundary/"
     },
     "AICompanyProductLiability": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
@@ -2110,9 +2110,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
+        },
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-27",
       "url": "/wiki/concepts/aicompanyproductliability/"
     },
     "AICompetitionAntitrustRemedy": {
@@ -5348,9 +5355,9 @@
       "url": "/wiki/concepts/aisafetycomputedemand/"
     },
     "AISafetyCoordination": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
@@ -5407,9 +5414,16 @@
           "show": "Planet Money",
           "title": "Wanna slow down AI? These biologists can help.",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793-defaultmp3-ywr3ahjkcgo-7cc2a990b990bf389f3660c210d1090e-31006793/"
+        },
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-27",
       "url": "/wiki/concepts/aisafetycoordination/"
     },
     "AISafetyWorkerCulture": {
@@ -9105,9 +9119,9 @@
       "url": "/wiki/concepts/advancenewstradingexperiment/"
     },
     "AdvancedAIDevelopmentPause": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
@@ -9150,9 +9164,16 @@
           "show": "科技乱炖",
           "title": "Anthropic口中的AI安全，为什么听起来像一场生意保卫战？",
           "url": "/wiki/sources/2b2e96d8aea7-2b2e96d8aea7/"
+        },
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-27",
       "url": "/wiki/concepts/advancedaidevelopmentpause/"
     },
     "AdvancedAgricultureInnovation": {
@@ -76017,6 +76038,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/donnasummer/"
     },
+    "DonnieChristie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/donniechristie/"
+    },
     "DopamineBaselineMaintenance": {
       "episode_count": 2,
       "show_count": 1,
@@ -82964,6 +83001,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/ellenlanger/"
+    },
+    "ElliotCallender": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/elliotcallender/"
     },
     "EllisPark": {
       "episode_count": 1,
@@ -186726,6 +186779,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/mattmahan/"
     },
+    "MatthewCoriotti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/matthewcoriotti/"
+    },
     "MatthewHill": {
       "episode_count": 1,
       "show_count": 1,
@@ -259514,6 +259583,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/sixiaocomedy/"
     },
+    "SkillfulFear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/skillfulfear/"
+    },
     "Skims": {
       "episode_count": 1,
       "show_count": 1,
@@ -259582,6 +259667,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/skippingplyometricprogression/"
+    },
+    "SkyGunasekaran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261027_1027_MP_TECH_pod_128 [tech_20261027_1027_MP_TECH_pod_128].md",
+          "key": "tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Only in San Francisco: A picnic about AI's potential risks",
+          "url": "/wiki/sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/skygunasekaran/"
     },
     "Skydance": {
       "episode_count": 2,

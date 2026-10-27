@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13735
+wiki_total_pages: 13739
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "Skims"
     title: "Skims"
     url: "/wiki/entities/skims/"
+  - key: "SkyGunasekaran"
+    title: "Sky Gunasekaran"
+    url: "/wiki/entities/skygunasekaran/"
   - key: "Skydance"
     title: "Skydance"
     url: "/wiki/entities/skydance/"

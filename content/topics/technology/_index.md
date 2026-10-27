@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3640
+topic_total_pages: 3641
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7961,6 +7961,9 @@ topic_entities:
   - key: "SkildAI"
     title: "Skild AI"
     url: "/wiki/entities/skildai/"
+  - key: "SkyGunasekaran"
+    title: "Sky Gunasekaran"
+    url: "/wiki/entities/skygunasekaran/"
   - key: "Slicy"
     title: "Slicy"
     url: "/wiki/entities/slicy/"
