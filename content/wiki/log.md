@@ -37838,3 +37838,11 @@ Added source `vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidi
 ## [2026-10-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-27] ingest | 达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业
+
+Added source `dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls`; created [[Heineken|喜力]], [[RTMart|大润发]], [[ApolloGo|萝卜快跑]], [[PineDrama|Pine Drama]], [[Jimeng|即梦]], [[AirlineProfitFirstCapacityDiscipline]], [[IntegratedAIComputeConnectivityStrategy]], [[AIContentProductionDisplacement]], [[RobotaxiInternationalization]], [[BigBoxRetailFormatTransition]], [[ToothpasteEfficacyClaimsRegulation]], and [[GLP1ConsumerDemandSpillover]]; and resynthesized [[ShortDramaOverseasExpansion|短剧出海]], [[LocalizedGlobalCompany|中国籍全球公司本地化]], and [[AlcoholDemandReset]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: airlines and retailers are reallocating capacity around margin and changing shopping missions; AI content, compute, and connectivity claims point to workflow and infrastructure convergence without settling returns; overseas growth requires service, platform, and local operating depth; and GLP-1 use may shift portions, restaurant spend, and alcohol demand beyond healthcare. No settled contradiction was adopted. All financial, traffic, market-share, launch-timing, regulatory, production-count, and consumer-spending figures remain episode-attributed and time-sensitive because the supplied file is a structured summary rather than a transcript, filing, rule text, or primary study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,742 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

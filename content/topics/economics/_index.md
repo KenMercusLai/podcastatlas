@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2316
+topic_total_pages: 2317
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1792,6 +1792,9 @@ topic_concepts:
   - key: "InsuranceRiskTransfer"
     title: "Insurance Risk Transfer"
     url: "/wiki/concepts/insurancerisktransfer/"
+  - key: "IntegratedAIComputeConnectivityStrategy"
+    title: "Integrated AI Compute–Connectivity Strategy"
+    url: "/wiki/concepts/integratedaicomputeconnectivitystrategy/"
   - key: "IntellectualHonestyFeedbackLoop"
     title: "Intellectual Honesty Feedback Loop / 智识诚实复盘"
     url: "/wiki/concepts/intellectualhonestyfeedbackloop/"

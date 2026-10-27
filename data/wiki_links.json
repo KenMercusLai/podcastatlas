@@ -5419,6 +5419,10 @@
     "title": "AI Content Licensing",
     "url": "/wiki/concepts/aicontentlicensing/"
   },
+  "AIContentProductionDisplacement": {
+    "title": "AI Content-Production Displacement",
+    "url": "/wiki/concepts/aicontentproductiondisplacement/"
+  },
   "AIContentProvenance": {
     "title": "AI Content Provenance",
     "url": "/wiki/concepts/aicontentprovenance/"
@@ -8315,6 +8319,10 @@
     "title": "Airline Meal Monetization",
     "url": "/wiki/concepts/airlinemealmonetization/"
   },
+  "AirlineProfitFirstCapacityDiscipline": {
+    "title": "Airline Profit-First Capacity Discipline",
+    "url": "/wiki/concepts/airlineprofitfirstcapacitydiscipline/"
+  },
   "AirlineServiceDifferentiation": {
     "title": "Airline Service Differentiation",
     "url": "/wiki/concepts/airlineservicedifferentiation/"
@@ -10782,6 +10790,10 @@
   "ApolloGlobalManagement": {
     "title": "Apollo Global Management",
     "url": "/wiki/entities/apolloglobalmanagement/"
+  },
+  "ApolloGo": {
+    "title": "Apollo Go / 萝卜快跑",
+    "url": "/wiki/entities/apollogo/"
   },
   "ApolloGod": {
     "title": "Apollo (god)",
@@ -14290,6 +14302,10 @@
   "BiffLoman": {
     "title": "Biff Loman / 彼夫·洛曼",
     "url": "/wiki/entities/biffloman/"
+  },
+  "BigBoxRetailFormatTransition": {
+    "title": "Big-Box Retail Format Transition",
+    "url": "/wiki/concepts/bigboxretailformattransition/"
   },
   "BigCompanyHalo": {
     "title": "Big Company Halo",
@@ -36779,6 +36795,10 @@
     "title": "GLP-1 Body Composition Stack",
     "url": "/wiki/concepts/glp1bodycompositionstack/"
   },
+  "GLP1ConsumerDemandSpillover": {
+    "title": "GLP-1 Consumer-Demand Spillover",
+    "url": "/wiki/concepts/glp1consumerdemandspillover/"
+  },
   "GMICloud": {
     "title": "GMI Cloud",
     "url": "/wiki/entities/gmicloud/"
@@ -41847,6 +41867,10 @@
     "title": "黑麦 / Heimai",
     "url": "/wiki/entities/heimai/"
   },
+  "Heineken": {
+    "title": "Heineken / 喜力",
+    "url": "/wiki/entities/heineken/"
+  },
   "HeinrichBlucher": {
     "title": "Heinrich Blücher / 海因里希·布鲁歇尔",
     "url": "/wiki/entities/heinrichblucher/"
@@ -46475,6 +46499,10 @@
     "title": "Insurance Technology Modernization",
     "url": "/wiki/concepts/insurancetechnologymodernization/"
   },
+  "IntegratedAIComputeConnectivityStrategy": {
+    "title": "Integrated AI Compute–Connectivity Strategy",
+    "url": "/wiki/concepts/integratedaicomputeconnectivitystrategy/"
+  },
   "IntegratedBipolarCare": {
     "title": "Integrated Bipolar Care",
     "url": "/wiki/concepts/integratedbipolarcare/"
@@ -49046,6 +49074,10 @@
   "JimThorpe": {
     "title": "Jim Thorpe",
     "url": "/wiki/entities/jimthorpe/"
+  },
+  "Jimeng": {
+    "title": "Jimeng / 即梦",
+    "url": "/wiki/entities/jimeng/"
   },
   "JimingGoudaoTalentCritique": {
     "title": "鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique",
@@ -70051,6 +70083,10 @@
     "title": "Pinduoduo",
     "url": "/wiki/entities/pinduoduo/"
   },
+  "PineDrama": {
+    "title": "Pine Drama",
+    "url": "/wiki/entities/pinedrama/"
+  },
   "PingAnBank": {
     "title": "Ping An Bank / 平安银行",
     "url": "/wiki/entities/pinganbank/"
@@ -74591,6 +74627,10 @@
     "title": "RSI Data",
     "url": "/wiki/concepts/rsidata/"
   },
+  "RTMart": {
+    "title": "RT-Mart / 大润发",
+    "url": "/wiki/entities/rtmart/"
+  },
   "RULERFramework": {
     "title": "RULER Framework",
     "url": "/wiki/concepts/rulerframework/"
@@ -77554,6 +77594,10 @@
   "RobotaxiIncumbentTaxiPartnership": {
     "title": "Robotaxi Incumbent Taxi Partnership / 自动驾驶与出租车企业合作",
     "url": "/wiki/concepts/robotaxiincumbenttaxipartnership/"
+  },
+  "RobotaxiInternationalization": {
+    "title": "Robotaxi Internationalization",
+    "url": "/wiki/concepts/robotaxiinternationalization/"
   },
   "RobotaxiLocalAcceptance": {
     "title": "Robotaxi Local Acceptance",
@@ -90062,6 +90106,10 @@
   "ToothDemineralizationRemineralization": {
     "title": "Tooth Demineralization and Remineralization",
     "url": "/wiki/concepts/toothdemineralizationremineralization/"
+  },
+  "ToothpasteEfficacyClaimsRegulation": {
+    "title": "Toothpaste Efficacy-Claims Regulation",
+    "url": "/wiki/concepts/toothpasteefficacyclaimsregulation/"
   },
   "TopDownAIProcessRedesign": {
     "title": "Top-Down AI Process Redesign",
@@ -104102,6 +104150,10 @@
   "dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz": {
     "title": "达霏欣｜被吐槽「一身塑料过冬」，聚酯纤维做的衣服为何无处不在？",
     "url": "/wiki/sources/dafeixin-bei-tucao-yishen-suliao-guodong-juzhixianwei-zuode-yifu-weihe-wuchubuzai-gkwriw4os8-qaitnmqtvn8yz/"
+  },
+  "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls": {
+    "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+    "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
   },
   "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825": {
     "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",

@@ -2306,6 +2306,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aicontentlicensing/"
     },
+    "AIContentProductionDisplacement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/aicontentproductiondisplacement/"
+    },
     "AIControlNuclearAnalogyLimits": {
       "episode_count": 1,
       "show_count": 1,
@@ -11541,6 +11557,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/airlinemealmonetization/"
     },
+    "AirlineProfitFirstCapacityDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/airlineprofitfirstcapacitydiscipline/"
+    },
     "AirlineServiceDifferentiation": {
       "episode_count": 6,
       "show_count": 4,
@@ -12267,9 +12299,9 @@
       "url": "/wiki/concepts/alchemychemistrycontinuity/"
     },
     "AlcoholDemandReset": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
@@ -12277,9 +12309,16 @@
           "show": "Economist Podcasts",
           "title": "Drone truth: Russia has the upper hand",
           "url": "/wiki/sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e/"
+        },
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-10-27",
       "url": "/wiki/concepts/alcoholdemandreset/"
     },
     "AlcoholLiverHarmBoundary": {
@@ -19867,6 +19906,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/apollo11/"
+    },
+    "ApolloGo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/apollogo/"
     },
     "ApolloGod": {
       "episode_count": 1,
@@ -30990,6 +31045,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/biffloman/"
+    },
+    "BigBoxRetailFormatTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/bigboxretailformattransition/"
     },
     "BigTobaccoPlatformAnalogy": {
       "episode_count": 3,
@@ -107316,6 +107387,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/glp1bodycompositionstack/"
     },
+    "GLP1ConsumerDemandSpillover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/glp1consumerdemandspillover/"
+    },
     "GPT55Cyber": {
       "episode_count": 1,
       "show_count": 1,
@@ -125116,6 +125203,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
+    "Heineken": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/heineken/"
+    },
     "HeinrichBruning": {
       "episode_count": 1,
       "show_count": 1,
@@ -142426,6 +142529,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/insurancerisktransfer/"
     },
+    "IntegratedAIComputeConnectivityStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/integratedaicomputeconnectivitystrategy/"
+    },
     "IntegratedBipolarCare": {
       "episode_count": 2,
       "show_count": 1,
@@ -151379,6 +151498,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/jimcallaghan/"
+    },
+    "Jimeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/jimeng/"
     },
     "JimmyCarter": {
       "episode_count": 5,
@@ -174551,6 +174686,29 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/localvictorycampaignuncertainty/"
+    },
+    "LocalizedGlobalCompany": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "165.年报季中的真实中国2026 [lpredEVU_gAKn92dwutMuLYtMsLo].md",
+          "key": "165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo",
+          "show": "起朱楼宴宾客",
+          "title": "165.年报季中的真实中国2026",
+          "url": "/wiki/sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo/"
+        },
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/localizedglobalcompany/"
     },
     "LocalizedProductDefinition": {
       "episode_count": 1,
@@ -220503,6 +220661,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/pinduoduo/"
     },
+    "PineDrama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/pinedrama/"
+    },
     "PingDangWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -234164,6 +234338,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/rsffinance/"
     },
+    "RTMart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/rtmart/"
+    },
     "RULERFramework": {
       "episode_count": 2,
       "show_count": 1,
@@ -243718,6 +243908,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/robotaxiincumbenttaxipartnership/"
+    },
+    "RobotaxiInternationalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/robotaxiinternationalization/"
     },
     "RobotaxiPlatformDisintermediation": {
       "episode_count": 2,
@@ -257109,6 +257315,36 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/shortdailymeditationattentiontraining/"
+    },
+    "ShortDramaOverseasExpansion": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP240 “霸总甜宠”在海外：短剧出海的产业密码 [ltVXvfj5ko6DJhsjatipHdy-DzeK].md",
+          "key": "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek",
+          "show": "Talk三联",
+          "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+          "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/shortdramaoverseasexpansion/"
     },
     "ShortDramaPlatformAggregation": {
       "episode_count": 1,
@@ -283249,6 +283485,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/toothdemineralizationremineralization/"
+    },
+    "ToothpasteEfficacyClaimsRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOtRaTAGI7MATv3jls [GKwRIaIOtRaTAGI7MATv3jls].md",
+          "key": "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业",
+          "url": "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/toothpasteefficacyclaimsregulation/"
     },
     "TopDownAIProcessRedesign": {
       "episode_count": 1,

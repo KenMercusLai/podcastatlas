@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10803
+wiki_total_pages: 10810
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "BigTobaccoPlatformAnalogy"
     title: "Big Tobacco Platform Analogy"
     url: "/wiki/concepts/bigtobaccoplatformanalogy/"
+  - key: "BigBoxRetailFormatTransition"
+    title: "Big-Box Retail Format Transition"
+    url: "/wiki/concepts/bigboxretailformattransition/"
   - key: "BigConceptScienceTeaching"
     title: "Big-Concept Science Teaching / 大概念科学教学"
     url: "/wiki/concepts/bigconceptscienceteaching/"

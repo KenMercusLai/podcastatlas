@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10803
+wiki_total_pages: 10810
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "InsuranceTechnologyModernization"
     title: "Insurance Technology Modernization"
     url: "/wiki/concepts/insurancetechnologymodernization/"
+  - key: "IntegratedAIComputeConnectivityStrategy"
+    title: "Integrated AI Compute–Connectivity Strategy"
+    url: "/wiki/concepts/integratedaicomputeconnectivitystrategy/"
   - key: "IntegratedBipolarCare"
     title: "Integrated Bipolar Care"
     url: "/wiki/concepts/integratedbipolarcare/"

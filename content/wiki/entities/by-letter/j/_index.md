@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13722
+wiki_total_pages: 13727
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "JimThorpe"
     title: "Jim Thorpe"
     url: "/wiki/entities/jimthorpe/"
+  - key: "Jimeng"
+    title: "Jimeng / 即梦"
+    url: "/wiki/entities/jimeng/"
   - key: "JimmyCarter"
     title: "Jimmy Carter"
     url: "/wiki/entities/jimmycarter/"

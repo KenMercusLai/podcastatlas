@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10803
+wiki_total_pages: 10810
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "RobotaxiIncumbentTaxiPartnership"
     title: "Robotaxi Incumbent Taxi Partnership / 自动驾驶与出租车企业合作"
     url: "/wiki/concepts/robotaxiincumbenttaxipartnership/"
+  - key: "RobotaxiInternationalization"
+    title: "Robotaxi Internationalization"
+    url: "/wiki/concepts/robotaxiinternationalization/"
   - key: "RobotaxiLocalAcceptance"
     title: "Robotaxi Local Acceptance"
     url: "/wiki/concepts/robotaxilocalacceptance/"

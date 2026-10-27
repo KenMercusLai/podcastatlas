@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业](sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls.md) — 声动早咖啡串联航司利润优先、SpaceX 算力与通信布局、AI 内容生产、短剧和汽车出海、Robotaxi、商超转型、牙膏宣称及 GLP-1 对餐饮与啤酒需求的外溢影响。
 - [Vol.358 钢琴课：我已经想开了，希望你也想开一点](sources/vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidian-gkwrijeotl1aaype0qtvn81u.md) — 文化有限借麦克尤恩《钢琴课》讨论全人生小说、成年人与未成年人之间的性侵、共同生活的虚构伦理、历史偶然性、艺术与家庭代价，以及故事不必成为单一教训。
 - [150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价](sources/ep150-ep150.md) — 疯投圈对比 Alo 的明星生活方式、凯乐石的专业户外聚焦与之禾的天然材料和东方审美，讨论核心客群、复购、提价与长期积累如何支撑高端品牌。
 - [When ChatGPT writes your obituary](sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128.md) — Marketplace Tech on Donna Guthrie's AI-drafted obituary, Michelle Wong's diary-grounded younger self, personalized AI as a mirror, and the boundary between reflective assistance and human relationships.
@@ -4843,6 +4844,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
 ## Entities
+- [Heineken / 喜力](entities/Heineken.md) — Global brewer used as an early company case for adapting serving size and alcohol content to GLP-1-related demand shifts.
+- [RT-Mart / 大润发](entities/RTMart.md) — Chinese hypermarket chain absorbing traffic pressure and operating costs while repositioning toward community demand.
+- [Apollo Go / 萝卜快跑](entities/ApolloGo.md) — Baidu robotaxi service entering a reported London test through Lyft and FreeNow.
+- [Pine Drama](entities/PineDrama.md) — Overseas short-drama application connecting Chinese production supply to TikTok-based audience acquisition.
+- [Jimeng / 即梦](entities/Jimeng.md) — AI creative platform receiving a reported consolidation of short-drama tooling from Xiaoyunque.
 - [Ian McEwan / 伊恩·麦克尤恩](entities/IanMcEwan.md) — 英国小说家，以《钢琴课》把家族与个人经历转化为跨越七十余年的历史—私人叙事。
 - [《钢琴课》 / Lessons](entities/LessonsNovel.md) — 以罗兰一生连接性侵创伤、家庭选择、历史偶然与反教训结尾的麦克尤恩小说。
 - [Roland Baines / 罗兰·贝恩斯](entities/RolandBaines.md) — 在创伤、未竟抱负、独自育儿与晚年家庭温暖之间被重新评价的虚构人物。
@@ -18647,6 +18653,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Airline Profit-First Capacity Discipline](concepts/AirlineProfitFirstCapacityDiscipline.md) — Capacity and fare strategy that protects yield and contribution rather than maximizing passenger count at any price.
+- [Integrated AI Compute–Connectivity Strategy](concepts/IntegratedAIComputeConnectivityStrategy.md) — Source-bounded strategy joining AI accelerators and finance to satellite, spectrum, terrestrial network, and launch assets.
+- [AI Content-Production Displacement](concepts/AIContentProductionDisplacement.md) — Substitution and reorganization of location, crew, performance, editing, and tool work as generated media improves.
+- [Robotaxi Internationalization](concepts/RobotaxiInternationalization.md) — Foreign-market entry through local testing, regulation, fleet operations, passenger platforms, and commercial partnerships.
+- [Big-Box Retail Format Transition](concepts/BigBoxRetailFormatTransition.md) — Redesign of one-stop hypermarkets as specialized and instant-retail formats divide shopping missions.
+- [Toothpaste Efficacy-Claims Regulation](concepts/ToothpasteEfficacyClaimsRegulation.md) — Boundary between supported toothpaste benefits and express or implied medical treatment claims.
+- [GLP-1 Consumer-Demand Spillover](concepts/GLP1ConsumerDemandSpillover.md) — Downstream change in restaurant, portion, snack, beverage, and spending behavior associated with appetite-regulating medicines.
 - [Whole-Life Novel / 全人生小说](concepts/WholeLifeNovel.md) — 从形成期继续写到衰老、回望和死亡，使早年事件在完整生命尺度上不断改义的小说形式。
 - [Adult–Minor Sexual Abuse Retrospective Reframing / 成年人—未成年人性侵的回溯重构](concepts/AdultMinorSexualAbuseReframing.md) — 区分未成年人的愉悦、依恋或迟来命名与成年人在不对等关系中的完整责任。
 - [Shared-Life Fiction Ethics / 共同生活的虚构伦理](concepts/SharedLifeFictionEthics.md) — 共同经历进入虚构后，艺术转化、可识别性、隐私、声誉与叙事权之间的伦理张力。

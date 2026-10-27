@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10803
+wiki_total_pages: 10810
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "GLP1BodyCompositionStack"
     title: "GLP-1 Body Composition Stack"
     url: "/wiki/concepts/glp1bodycompositionstack/"
+  - key: "GLP1ConsumerDemandSpillover"
+    title: "GLP-1 Consumer-Demand Spillover"
+    url: "/wiki/concepts/glp1consumerdemandspillover/"
   - key: "GluteHypertrophyProgramming"
     title: "Glute Hypertrophy Programming"
     url: "/wiki/concepts/glutehypertrophyprogramming/"

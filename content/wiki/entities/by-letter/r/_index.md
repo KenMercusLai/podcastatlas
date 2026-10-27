@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13722
+wiki_total_pages: 13727
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "RSIBenchData"
     title: "RSIbench-data"
     url: "/wiki/entities/rsibenchdata/"
+  - key: "RTMart"
+    title: "RT-Mart / 大润发"
+    url: "/wiki/entities/rtmart/"
   - key: "RuanYisan"
     title: "Ruan Yisan / 阮仪三"
     url: "/wiki/entities/ruanyisan/"

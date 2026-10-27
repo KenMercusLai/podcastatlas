@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13722
+wiki_total_pages: 13727
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1604,6 +1604,9 @@ wiki_pages:
   - key: "ApolloGlobalManagement"
     title: "Apollo Global Management"
     url: "/wiki/entities/apolloglobalmanagement/"
+  - key: "ApolloGo"
+    title: "Apollo Go / 萝卜快跑"
+    url: "/wiki/entities/apollogo/"
   - key: "ApolloProgram"
     title: "Apollo Program"
     url: "/wiki/entities/apolloprogram/"

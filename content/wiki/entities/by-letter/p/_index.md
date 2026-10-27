@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13722
+wiki_total_pages: 13727
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "Pinduoduo"
     title: "Pinduoduo"
     url: "/wiki/entities/pinduoduo/"
+  - key: "PineDrama"
+    title: "Pine Drama"
+    url: "/wiki/entities/pinedrama/"
   - key: "PingAnBank"
     title: "Ping An Bank / 平安银行"
     url: "/wiki/entities/pinganbank/"

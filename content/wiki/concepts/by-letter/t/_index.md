@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10803
+wiki_total_pages: 10810
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "ToothDemineralizationRemineralization"
     title: "Tooth Demineralization and Remineralization"
     url: "/wiki/concepts/toothdemineralizationremineralization/"
+  - key: "ToothpasteEfficacyClaimsRegulation"
+    title: "Toothpaste Efficacy-Claims Regulation"
+    url: "/wiki/concepts/toothpasteefficacyclaimsregulation/"
   - key: "TopModelBuildRuntimeSplit"
     title: "Top Model Build Runtime Split"
     url: "/wiki/concepts/topmodelbuildruntimesplit/"

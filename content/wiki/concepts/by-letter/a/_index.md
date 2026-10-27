@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10803
+wiki_total_pages: 10810
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "AIContentProvenance"
     title: "AI Content Provenance"
     url: "/wiki/concepts/aicontentprovenance/"
+  - key: "AIContentProductionDisplacement"
+    title: "AI Content-Production Displacement"
+    url: "/wiki/concepts/aicontentproductiondisplacement/"
   - key: "AIContextMachine"
     title: "AI Context Machine / AI 上下文机器"
     url: "/wiki/concepts/aicontextmachine/"
@@ -1835,6 +1838,9 @@ wiki_pages:
   - key: "AirlineMealMonetization"
     title: "Airline Meal Monetization"
     url: "/wiki/concepts/airlinemealmonetization/"
+  - key: "AirlineProfitFirstCapacityDiscipline"
+    title: "Airline Profit-First Capacity Discipline"
+    url: "/wiki/concepts/airlineprofitfirstcapacitydiscipline/"
   - key: "AirlineServiceDifferentiation"
     title: "Airline Service Differentiation"
     url: "/wiki/concepts/airlineservicedifferentiation/"

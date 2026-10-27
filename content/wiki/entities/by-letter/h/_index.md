@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13722
+wiki_total_pages: 13727
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "HeiligenkreuzAbbey"
     title: "Heiligenkreuz Abbey"
     url: "/wiki/entities/heiligenkreuzabbey/"
+  - key: "Heineken"
+    title: "Heineken / 喜力"
+    url: "/wiki/entities/heineken/"
   - key: "HeinrichBlucher"
     title: "Heinrich Blücher / 海因里希·布鲁歇尔"
     url: "/wiki/entities/heinrichblucher/"

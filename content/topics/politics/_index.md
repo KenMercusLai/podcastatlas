@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3403
+topic_total_pages: 3405
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3820,6 +3820,9 @@ topic_concepts:
   - key: "RobotaxiHybridDeployment"
     title: "Robotaxi Hybrid Deployment"
     url: "/wiki/concepts/robotaxihybriddeployment/"
+  - key: "RobotaxiInternationalization"
+    title: "Robotaxi Internationalization"
+    url: "/wiki/concepts/robotaxiinternationalization/"
   - key: "RomanProvincialConsolidation"
     title: "Roman Provincial Consolidation"
     url: "/wiki/concepts/romanprovincialconsolidation/"
@@ -4357,6 +4360,9 @@ topic_concepts:
   - key: "ToolAIHumanControl"
     title: "Tool AI Human Control"
     url: "/wiki/concepts/toolaihumancontrol/"
+  - key: "ToothpasteEfficacyClaimsRegulation"
+    title: "Toothpaste Efficacy-Claims Regulation"
+    url: "/wiki/concepts/toothpasteefficacyclaimsregulation/"
   - key: "TotalitarianRealityControl"
     title: "Totalitarian Reality Control"
     url: "/wiki/concepts/totalitarianrealitycontrol/"
