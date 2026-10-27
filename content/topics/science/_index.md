@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1613
+topic_total_pages: 1616
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1699,6 +1699,9 @@ topic_concepts:
   - key: "OrganSpecificAgingClock"
     title: "Organ-Specific Aging Clock"
     url: "/wiki/concepts/organspecificagingclock/"
+  - key: "OrganizedInstitutionalScience"
+    title: "Organized Institutional Science / 组织化科学"
+    url: "/wiki/concepts/organizedinstitutionalscience/"
   - key: "OrganoidComputing"
     title: "Organoid Computing"
     url: "/wiki/concepts/organoidcomputing/"
@@ -2080,6 +2083,9 @@ topic_concepts:
   - key: "ScientificIdealVsAIArmsRace"
     title: "Scientific Ideal vs AI Arms Race"
     url: "/wiki/concepts/scientificidealvsaiarmsrace/"
+  - key: "ScientificInstitutionSelfGovernance"
+    title: "Scientific Institution Self-Governance / 科学机构自治"
+    url: "/wiki/concepts/scientificinstitutionselfgovernance/"
   - key: "ScientificPublicSpectacle"
     title: "Scientific Public Spectacle"
     url: "/wiki/concepts/scientificpublicspectacle/"
@@ -3425,6 +3431,9 @@ topic_entities:
   - key: "SalkInstitute"
     title: "Salk Institute"
     url: "/wiki/entities/salkinstitute/"
+  - key: "SalomonsHouse"
+    title: "Salomon's House / 所罗门之宫"
+    url: "/wiki/entities/salomonshouse/"
   - key: "SamerHattar"
     title: "Samer Hattar"
     url: "/wiki/entities/samerhattar/"

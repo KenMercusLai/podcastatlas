@@ -35513,6 +35513,18 @@
       "url": "/topics/science/"
     }
   ],
+  "EpistemicInfrastructurePower": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EpistemologicalWarfare": [
     {
       "key": "technology",
@@ -65385,6 +65397,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "NewAtlantis": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "NewBalance": [
     {
       "key": "culture",
@@ -67946,6 +67970,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "OrganizedInstitutionalScience": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "OrganoidComputing": [
@@ -79320,6 +79356,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "SalomonsHouse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SaltPermitLicenseCrisis": [
     {
       "key": "economics",
@@ -80102,6 +80150,18 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ScientificInstitutionSelfGovernance": [
     {
       "key": "politics",
       "label": "Politics",

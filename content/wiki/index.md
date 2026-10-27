@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [373-培根是不是在四百年前已经预想出了硅谷的技术乌托邦？《新大西岛》](sources/373-peigen-shibushi-zai-sibai-nianqian-yijing-yuxiang-chule-guigu-de-jishu-wutuobang-xin-daxidao-lljou2j4mzbbj40mf-2ibrx-04ui9.md) — 独树不成林以培根《新大西岛》讨论组织化科学、知识基础设施权力、技术保密、专家自治与公共问责。
 - [Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952.md) — Tomorrow Today interview on CEOX, executive identity reinvention, curiosity, cross-cultural localization, specialist literacy, sustainability, and human-centered AI adaptation.
 - [Only in San Francisco: A picnic about AI's potential risks](sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128.md) — Marketplace Tech maps cybersecurity, international coordination, liability, and halt positions inside the AI-safety movement while examining their effects on careers and everyday risk decisions.
 - [511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮](sources/511-chongxin-faxian-feixiaotong-wenxue-shijiao-xia-de-sanshiniandai-jiangnan-siye-weiji-yu-beiping-qingnian-sichao-lnsuco6dz9odgc5x4rw5nrd-eqbs.md) — 忽左忽右以《茧》重访费孝通、江南蚕丝危机、农村区域差异、乡村工业改良、社会学中国化与女性改革者的独立贡献。
@@ -4851,6 +4852,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.225去医院拍片子，没人告诉你的几件事，影像科给你逐个讲明白](sources/vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiangke-gei-ni-zhuge-jiangmingbai-lhhurs_v1d-vp6rr4eycunr0zmhs.md) — 这病说来话长 episode on X-ray projection, CT reconstruction, MRI sequences, radiation risk-benefit, contrast, implant screening, and hearing protection.
 
 ## Entities
+- [Francis Bacon / 弗朗西斯·培根](entities/FrancisBacon.md) — Early-modern statesman and philosopher linking empirical method, organized research, and the political consequences of knowledge.
+- [New Atlantis / 《新大西岛》](entities/NewAtlantis.md) — Bacon's unfinished island utopia centered on scientific organization, secrecy, and unresolved institutional oversight.
+- [Salomon's House / 所罗门之宫](entities/SalomonsHouse.md) — Fictional research institution combining global knowledge collection, specialized experiments, invention, disclosure control, and public advice.
 - [Pilar Mendiola Fernandez](entities/PilarFernandez.md) — International leadership-program designer and creator of CEOX, connecting strategy calibration to identity, curiosity, and cross-cultural adaptation.
 - [The Washington Center](entities/TheWashingtonCenter.md) — Institutional setting for Fernandez's international internship, scholarship, public-official, and leadership-development programs.
 - [Donnie Christie](entities/DonnieChristie.md) — AI-safety community organizer who convenes competing approaches and frames effective response as skillful fear.
@@ -18674,6 +18678,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Organized Institutional Science / 组织化科学](concepts/OrganizedInstitutionalScience.md) — Cumulative research through specialized roles, shared facilities, durable records, funding, and coordinated agendas.
+- [Epistemic Infrastructure Power / 知识基础设施权力](concepts/EpistemicInfrastructurePower.md) — Political leverage created by control of scarce expertise, research facilities, verification, and disclosure channels.
+- [Scientific Institution Self-Governance / 科学机构自治](concepts/ScientificInstitutionSelfGovernance.md) — Internal expert discipline and its accountability limits when outsiders cannot independently inspect capability or evidence.
 - [CEOX Methodology](concepts/CEOXMethodology.md) — Executive-development framework that adapts the leader alongside strategy through foresight, resilience, human-capital leadership, domain literacy, and reinvention.
 - [Leadership Identity Reinvention](concepts/LeadershipIdentityReinvention.md) — Revision of title-, certainty-, and outcome-bound self-concepts that obstruct learning under changed conditions.
 - [Curiosity as Leadership Capacity](concepts/CuriosityAsLeadershipCapacity.md) — Disciplined inquiry combining humility with enough domain grounding to ask useful questions and select expertise.

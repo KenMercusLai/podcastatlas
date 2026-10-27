@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10822
+wiki_total_pages: 10825
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "OrganizedHolidayIntermediation"
     title: "Organized Holiday Intermediation"
     url: "/wiki/concepts/organizedholidayintermediation/"
+  - key: "OrganizedInstitutionalScience"
+    title: "Organized Institutional Science / 组织化科学"
+    url: "/wiki/concepts/organizedinstitutionalscience/"
   - key: "OrganoidComputing"
     title: "Organoid Computing"
     url: "/wiki/concepts/organoidcomputing/"

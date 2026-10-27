@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3642
+topic_total_pages: 3645
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2296,6 +2296,9 @@ topic_concepts:
   - key: "EnvironmentalExposureSignalDetection"
     title: "Environmental Exposure Signal Detection"
     url: "/wiki/concepts/environmentalexposuresignaldetection/"
+  - key: "EpistemicInfrastructurePower"
+    title: "Epistemic Infrastructure Power / 知识基础设施权力"
+    url: "/wiki/concepts/epistemicinfrastructurepower/"
   - key: "EpistemologicalWarfare"
     title: "Epistemological Warfare"
     url: "/wiki/concepts/epistemologicalwarfare/"
@@ -3664,6 +3667,9 @@ topic_concepts:
   - key: "OrganizationalContext"
     title: "Organizational Context"
     url: "/wiki/concepts/organizationalcontext/"
+  - key: "OrganizedInstitutionalScience"
+    title: "Organized Institutional Science / 组织化科学"
+    url: "/wiki/concepts/organizedinstitutionalscience/"
   - key: "OrganoidComputing"
     title: "Organoid Computing"
     url: "/wiki/concepts/organoidcomputing/"
@@ -7373,6 +7379,9 @@ topic_entities:
   - key: "NewAmerica"
     title: "New America"
     url: "/wiki/entities/newamerica/"
+  - key: "NewAtlantis"
+    title: "New Atlantis / 《新大西岛》"
+    url: "/wiki/entities/newatlantis/"
   - key: "NewSpot"
     title: "NewSpot"
     url: "/wiki/entities/newspot/"

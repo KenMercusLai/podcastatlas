@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10822
+wiki_total_pages: 10825
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "EpinephrineAlertnessToolkit"
     title: "Epinephrine Alertness Toolkit"
     url: "/wiki/concepts/epinephrinealertnesstoolkit/"
+  - key: "EpistemicInfrastructurePower"
+    title: "Epistemic Infrastructure Power / 知识基础设施权力"
+    url: "/wiki/concepts/epistemicinfrastructurepower/"
   - key: "EpistemicInjusticeExperienceSilencing"
     title: "Epistemic Injustice Experience Silencing / 认知不公正与经验失语"
     url: "/wiki/concepts/epistemicinjusticeexperiencesilencing/"

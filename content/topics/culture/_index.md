@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3581
+topic_total_pages: 3582
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5711,6 +5711,9 @@ topic_entities:
   - key: "Netflix"
     title: "Netflix"
     url: "/wiki/entities/netflix/"
+  - key: "NewAtlantis"
+    title: "New Atlantis / 《新大西岛》"
+    url: "/wiki/entities/newatlantis/"
   - key: "NewBalance"
     title: "New Balance"
     url: "/wiki/entities/newbalance/"

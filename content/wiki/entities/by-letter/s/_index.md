@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13741
+wiki_total_pages: 13744
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "Salomon"
     title: "Salomon"
     url: "/wiki/entities/salomon/"
+  - key: "SalomonsHouse"
+    title: "Salomon's House / 所罗门之宫"
+    url: "/wiki/entities/salomonshouse/"
   - key: "SalvadorAllende"
     title: "Salvador Allende"
     url: "/wiki/entities/salvadorallende/"

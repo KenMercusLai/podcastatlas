@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3412
+topic_total_pages: 3415
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1483,6 +1483,9 @@ topic_concepts:
   - key: "EnvironmentalTradeoffAccounting"
     title: "Environmental Tradeoff Accounting"
     url: "/wiki/concepts/environmentaltradeoffaccounting/"
+  - key: "EpistemicInfrastructurePower"
+    title: "Epistemic Infrastructure Power / 知识基础设施权力"
+    url: "/wiki/concepts/epistemicinfrastructurepower/"
   - key: "EpistemologicalWarfare"
     title: "Epistemological Warfare"
     url: "/wiki/concepts/epistemologicalwarfare/"
@@ -3913,6 +3916,9 @@ topic_concepts:
   - key: "ScientificIdealVsAIArmsRace"
     title: "Scientific Ideal vs AI Arms Race"
     url: "/wiki/concepts/scientificidealvsaiarmsrace/"
+  - key: "ScientificInstitutionSelfGovernance"
+    title: "Scientific Institution Self-Governance / 科学机构自治"
+    url: "/wiki/concepts/scientificinstitutionselfgovernance/"
   - key: "SECCFTCCoordination"
     title: "SEC-CFTC Coordination"
     url: "/wiki/concepts/seccftccoordination/"
@@ -7718,6 +7724,9 @@ topic_entities:
   - key: "SalemWitchTrials"
     title: "Salem Witch Trials / 塞勒姆猎巫"
     url: "/wiki/entities/salemwitchtrials/"
+  - key: "SalomonsHouse"
+    title: "Salomon's House / 所罗门之宫"
+    url: "/wiki/entities/salomonshouse/"
   - key: "SamBeale"
     title: "Sam Beale"
     url: "/wiki/entities/sambeale/"
