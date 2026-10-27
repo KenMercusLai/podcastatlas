@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10825
+wiki_total_pages: 10828
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "SimulatedRealityEpistemology"
     title: "Simulated Reality Epistemology / 模拟现实认识论"
     url: "/wiki/concepts/simulatedrealityepistemology/"
+  - key: "SimulationUnderstandingBoundary"
+    title: "Simulation–Understanding Boundary / 模拟与理解边界"
+    url: "/wiki/concepts/simulationunderstandingboundary/"
   - key: "SincereEmotionalSupport"
     title: "Sincere Emotional Support / 真诚的情绪价值"
     url: "/wiki/concepts/sincereemotionalsupport/"

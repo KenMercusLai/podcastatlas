@@ -2787,6 +2787,10 @@
     "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
     "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
   },
+  "372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr": {
+    "title": "372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》",
+    "url": "/wiki/sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr/"
+  },
   "372-the-birth-of-british-fascism-glt4747738645": {
     "title": "372. The Birth of British Fascism",
     "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
@@ -27943,6 +27947,10 @@
     "title": "Docky",
     "url": "/wiki/entities/docky/"
   },
+  "DoctorFaustusMarlowe": {
+    "title": "Doctor Faustus / 《浮士德博士的悲剧》 (Marlowe)",
+    "url": "/wiki/entities/doctorfaustusmarlowe/"
+  },
   "DoctorGuidedAIInterpretation": {
     "title": "Doctor-Guided AI Interpretation",
     "url": "/wiki/concepts/doctorguidedaiinterpretation/"
@@ -33470,6 +33478,10 @@
   "Fauda": {
     "title": "Fauda",
     "url": "/wiki/entities/fauda/"
+  },
+  "FaustusMarlowe": {
+    "title": "Doctor Faustus / 福士德 (Marlowe character)",
+    "url": "/wiki/entities/faustusmarlowe/"
   },
   "FavoriteDrivenHeirDisplacement": {
     "title": "Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶",
@@ -60823,6 +60835,10 @@
     "title": "Menu Expansion Operational Complexity / 菜单扩张的运营复杂度",
     "url": "/wiki/concepts/menuexpansionoperationalcomplexity/"
   },
+  "MephistophelesMarlowe": {
+    "title": "Mephistopheles / 梅菲斯特 (Marlowe)",
+    "url": "/wiki/entities/mephistophelesmarlowe/"
+  },
   "MercedesBenz": {
     "title": "Mercedes-Benz",
     "url": "/wiki/entities/mercedesbenz/"
@@ -75579,6 +75595,10 @@
     "title": "Reflective Choice Formation / 反思式选择能力",
     "url": "/wiki/concepts/reflectivechoiceformation/"
   },
+  "ReflectiveDesireAutonomy": {
+    "title": "Reflective Desire Autonomy / 反思欲望的自主性",
+    "url": "/wiki/concepts/reflectivedesireautonomy/"
+  },
   "ReflectiveSelfExploration": {
     "title": "Reflective Self-Exploration",
     "url": "/wiki/concepts/reflectiveselfexploration/"
@@ -82379,6 +82399,10 @@
     "title": "Simulated Reality Epistemology / 模拟现实认识论",
     "url": "/wiki/concepts/simulatedrealityepistemology/"
   },
+  "SimulationUnderstandingBoundary": {
+    "title": "Simulation–Understanding Boundary / 模拟与理解边界",
+    "url": "/wiki/concepts/simulationunderstandingboundary/"
+  },
   "Sina": {
     "title": "Sina / 新浪",
     "url": "/wiki/entities/sina/"
@@ -87898,6 +87922,10 @@
   "TechnologyCompanyPerformanceGap": {
     "title": "Technology-Company Performance Gap",
     "url": "/wiki/concepts/technologycompanyperformancegap/"
+  },
+  "TechnologyDependencyAgencyTradeoff": {
+    "title": "Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡",
+    "url": "/wiki/concepts/technologydependencyagencytradeoff/"
   },
   "TechnologyDrivenWuxiaModernization": {
     "title": "Technology-Driven Wuxia Modernization / 技术驱动的武侠现代化",

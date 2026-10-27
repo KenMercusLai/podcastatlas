@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10825
+wiki_total_pages: 10828
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "TechnologyAmbivalenceFireSignal"
     title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
     url: "/wiki/concepts/technologyambivalencefiresignal/"
+  - key: "TechnologyDependencyAgencyTradeoff"
+    title: "Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡"
+    url: "/wiki/concepts/technologydependencyagencytradeoff/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"

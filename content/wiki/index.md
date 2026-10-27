@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》](sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr.md) — 独树不成林以马洛《浮士德博士的悲剧》区分技术能力与人生目的、更多选择与反思自由、短期能力与长期依赖，以及逼真模拟与真实理解。
 - [373-培根是不是在四百年前已经预想出了硅谷的技术乌托邦？《新大西岛》](sources/373-peigen-shibushi-zai-sibai-nianqian-yijing-yuxiang-chule-guigu-de-jishu-wutuobang-xin-daxidao-lljou2j4mzbbj40mf-2ibrx-04ui9.md) — 独树不成林以培根《新大西岛》讨论组织化科学、知识基础设施权力、技术保密、专家自治与公共问责。
 - [Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952.md) — Tomorrow Today interview on CEOX, executive identity reinvention, curiosity, cross-cultural localization, specialist literacy, sustainability, and human-centered AI adaptation.
 - [Only in San Francisco: A picnic about AI's potential risks](sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128.md) — Marketplace Tech maps cybersecurity, international coordination, liability, and halt positions inside the AI-safety movement while examining their effects on careers and everyday risk decisions.
@@ -4852,6 +4853,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.225去医院拍片子，没人告诉你的几件事，影像科给你逐个讲明白](sources/vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiangke-gei-ni-zhuge-jiangmingbai-lhhurs_v1d-vp6rr4eycunr0zmhs.md) — 这病说来话长 episode on X-ray projection, CT reconstruction, MRI sequences, radiation risk-benefit, contrast, implant screening, and hearing protection.
 
 ## Entities
+- [Doctor Faustus / 《浮士德博士的悲剧》 (Marlowe)](entities/DoctorFaustusMarlowe.md) — Marlowe tragedy in which unlimited intellectual ambition becomes a bargain exchanging future agency for spectacle and bounded power.
+- [Doctor Faustus / 福士德 (Marlowe character)](entities/FaustusMarlowe.md) — Scholar who gains extraordinary external options while losing purpose, sustained reflection, and control over his future.
+- [Mephistopheles / 梅菲斯特 (Marlowe)](entities/MephistophelesMarlowe.md) — Apparent demonic servant whose restricted answers, diversions, and final enforcement expose the bargain's reversed dependency.
 - [Francis Bacon / 弗朗西斯·培根](entities/FrancisBacon.md) — Early-modern statesman and philosopher linking empirical method, organized research, and the political consequences of knowledge.
 - [New Atlantis / 《新大西岛》](entities/NewAtlantis.md) — Bacon's unfinished island utopia centered on scientific organization, secrecy, and unresolved institutional oversight.
 - [Salomon's House / 所罗门之宫](entities/SalomonsHouse.md) — Fictional research institution combining global knowledge collection, specialized experiments, invention, disclosure control, and public advice.
@@ -10295,7 +10299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
 - [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
 - [Christopher Hatton](entities/ChristopherHatton.md) — Privy Council supporter of Drake whose stance shows the pro-privateering faction around Elizabeth.
-- [Christopher Marlowe](entities/ChristopherMarlowe.md) — Playwright whose St Bartholomew's Day massacre play shows how French violence entered English Protestant memory.
+- [Christopher Marlowe](entities/ChristopherMarlowe.md) — English Renaissance playwright connecting confessional trauma memory with *Doctor Faustus*'s tragedy of knowledge, power, desire, and freedom.
 - [Golden Hind](entities/GoldenHind.md) — Drake's circumnavigation ship, Pacific prize vessel, New Albion platform, and later public stage for Elizabeth's ambiguous knighting ceremony.
 - [John Hawkins](entities/JohnHawkins.md) — English mariner and slaving captain whose 1567 expedition with Drake collapses at San Juan de Ulua.
 - [San Juan de Ulua](entities/SanJuanDeUlua.md) — Spanish port near Veracruz where Hawkins and Drake's expedition is attacked in 1568.
@@ -18678,6 +18682,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Reflective Desire Autonomy / 反思欲望的自主性](concepts/ReflectiveDesireAutonomy.md) — Freedom to examine, rank, revise, or refuse desires and redirect life, rather than merely receiving or satisfying more options.
+- [Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡](concepts/TechnologyDependencyAgencyTradeoff.md) — Pattern where a system enlarges present capability while making future choice, inquiry, continuity, or exit more dependent on it.
+- [Simulation–Understanding Boundary / 模拟与理解边界](concepts/SimulationUnderstandingBoundary.md) — Distinction between convincing representation and restored identity, causal explanation, or historically grounded understanding.
 - [Organized Institutional Science / 组织化科学](concepts/OrganizedInstitutionalScience.md) — Cumulative research through specialized roles, shared facilities, durable records, funding, and coordinated agendas.
 - [Epistemic Infrastructure Power / 知识基础设施权力](concepts/EpistemicInfrastructurePower.md) — Political leverage created by control of scarce expertise, research facilities, verification, and disclosure channels.
 - [Scientific Institution Self-Governance / 科学机构自治](concepts/ScientificInstitutionSelfGovernance.md) — Internal expert discipline and its accountability limits when outsiders cannot independently inspect capability or evidence.

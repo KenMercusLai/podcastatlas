@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10825
+wiki_total_pages: 10828
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "ReflectiveChoiceFormation"
     title: "Reflective Choice Formation / 反思式选择能力"
     url: "/wiki/concepts/reflectivechoiceformation/"
+  - key: "ReflectiveDesireAutonomy"
+    title: "Reflective Desire Autonomy / 反思欲望的自主性"
+    url: "/wiki/concepts/reflectivedesireautonomy/"
   - key: "ReflectiveSelfExploration"
     title: "Reflective Self-Exploration"
     url: "/wiki/concepts/reflectiveselfexploration/"

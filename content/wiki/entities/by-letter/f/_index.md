@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13744
+wiki_total_pages: 13747
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "FiveGRobotics"
     title: "5G Robotics"
     url: "/wiki/entities/fivegrobotics/"
+  - key: "FaustusMarlowe"
+    title: "Doctor Faustus / 福士德 (Marlowe character)"
+    url: "/wiki/entities/faustusmarlowe/"
   - key: "FESmith"
     title: "F. E. Smith"
     url: "/wiki/entities/fesmith/"

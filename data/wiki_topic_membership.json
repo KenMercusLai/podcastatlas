@@ -82694,6 +82694,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "SimulationUnderstandingBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "SincereEmotionalSupport": [
     {
       "key": "culture",
@@ -88646,6 +88658,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TechnologyDependencyAgencyTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TechnologyDrivenWuxiaModernization": [

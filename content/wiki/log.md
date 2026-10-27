@@ -37894,3 +37894,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | 372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》
+
+Added source `372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr`; created [[DoctorFaustusMarlowe|马洛《浮士德博士的悲剧》]], [[FaustusMarlowe|福士德]], [[MephistophelesMarlowe|梅菲斯特]], [[ReflectiveDesireAutonomy|反思欲望的自主性]], [[TechnologyDependencyAgencyTradeoff|技术依赖与能动性权衡]], and [[SimulationUnderstandingBoundary|模拟与理解边界]]; and resynthesized [[ChristopherMarlowe]], [[TechnicalCapabilityValueBoundary|技术能力与价值判断边界]], and [[RiskKnowledgeActionGap|风险知识行动鸿沟]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: technical capability can expand without supplying a worthy purpose; external options do not amount to freedom when attention, desire revision, and the ability to change direction deteriorate; short-term power can be purchased through arrangements that narrow future inquiry and exit; and a vivid historical-person simulation is neither restored life nor contextual understanding. No settled contradiction was adopted. The episode explicitly preserves the value of scientific and medical progress while rejecting power as knowledge's only value; its Christian tragedy, AI and biotechnology analogies, historical-person simulation comparison, and unnamed 1995–2026 social-activity survey remain source-scoped rather than a complete textual, empirical, or technical account. Broad [[DushuBuchenglin|独树不成林]], [[TechnologyPhilosophy]], [[AIHowHumanWhyBoundary]], and general AI pages were kept closed because the focused pages capture the durable additions without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,749 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

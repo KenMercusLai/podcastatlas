@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13744
+wiki_total_pages: 13747
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "MengZhu"
     title: "Meng Zhu"
     url: "/wiki/entities/mengzhu/"
+  - key: "MephistophelesMarlowe"
+    title: "Mephistopheles / 梅菲斯特 (Marlowe)"
+    url: "/wiki/entities/mephistophelesmarlowe/"
   - key: "MercedesF1"
     title: "Mercedes F1"
     url: "/wiki/entities/mercedesf1/"

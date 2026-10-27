@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3645
+topic_total_pages: 3647
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4402,6 +4402,9 @@ topic_concepts:
   - key: "SimulatedRealityEpistemology"
     title: "Simulated Reality Epistemology / 模拟现实认识论"
     url: "/wiki/concepts/simulatedrealityepistemology/"
+  - key: "SimulationUnderstandingBoundary"
+    title: "Simulation–Understanding Boundary / 模拟与理解边界"
+    url: "/wiki/concepts/simulationunderstandingboundary/"
   - key: "SmallBrainActionLayer"
     title: "Small Brain Action Layer / 小脑（Action Policy）"
     url: "/wiki/concepts/smallbrainactionlayer/"
@@ -4705,6 +4708,9 @@ topic_concepts:
   - key: "TechnologyAmbivalenceFireSignal"
     title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
     url: "/wiki/concepts/technologyambivalencefiresignal/"
+  - key: "TechnologyDependencyAgencyTradeoff"
+    title: "Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡"
+    url: "/wiki/concepts/technologydependencyagencytradeoff/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"

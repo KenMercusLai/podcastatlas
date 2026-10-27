@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2771
+topic_total_pages: 2772
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1330,6 +1330,9 @@ topic_concepts:
   - key: "SilverDollarCredit"
     title: "Silver Dollar Credit"
     url: "/wiki/concepts/silverdollarcredit/"
+  - key: "SimulationUnderstandingBoundary"
+    title: "Simulation–Understanding Boundary / 模拟与理解边界"
+    url: "/wiki/concepts/simulationunderstandingboundary/"
   - key: "SmallTrustBuildsLargeTrust"
     title: "Small Trust Builds Large Trust / 小信诚则大信立"
     url: "/wiki/concepts/smalltrustbuildslargetrust/"
