@@ -2486,8 +2486,8 @@
       "earliest_episode_date": "2018-06-02",
       "latest_episode_date": "2026-10-27",
       "latest_episode_file": "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
-      "source_note_count": 46,
-      "topic_matched_source_note_count": 11,
+      "source_note_count": 47,
+      "topic_matched_source_note_count": 12,
       "topics": [
         {
           "key": "culture",
@@ -2499,7 +2499,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "politics",
@@ -2525,7 +2525,7 @@
       ],
       "start_here_episode_files": [
         "GKwRIRwOfzopAjzxYATYBPqR [GKwRIRwOfzopAjzxYATYBPqR].md",
-        "wKgO3l5akqGQmNSHCRZgWT20nfw224 [wKgO3l5akqGQmNSHCRZgWT20nfw224].md",
+        "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
         "wKg5JV9dDTOTVCKWBgkes6BhU2Q322 [wKg5JV9dDTOTVCKWBgkes6BhU2Q322].md",
         "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md"
       ]

@@ -2,35 +2,57 @@
 title: "Output Quality Gates"
 type: concept
 tags: [ai, quality, workflow, verification]
-sources: [e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]
-last_updated: 2026-08-07
+sources:
+  - e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11
+  - e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb
+  - ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q
+last_updated: 2026-10-28
+knowledge_schema: synthesis-v1
 ---
 
-# Output Quality Gates
+## Definition
 
-Output quality gates are explicit standards that decide whether AI work is accepted, revised, or rejected. In [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], [[PingGe]] argues that users need to define what counts as good output, what violates expectation, and which requirements must trigger a redo.
+Output quality gates are explicit standards and evidence requirements that determine whether AI-assisted work is accepted, revised, escalated, or rejected.
 
-[[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds a content-quality version through [[AIAnswerEvaluation]]. [[BiancaContentEngineer|Bianca]] describes judging why an answer is a 7 instead of a 10 by decomposing tone, intent, factual uncertainty, attribution, cultural context, and product purpose.
+## Current Synthesis
 
-The concept generalizes [[AICodingVerification]] beyond code. In software, gates include compilation, tests, CI, deployment, and runtime checks. For writing, research, operations, design, or personal assistants, gates may include source grounding, tone, completeness, decision usefulness, privacy boundaries, or fit to the user's style and values.
+Quality gates convert “make it better” into an observable review contract. They begin with product and task purpose: an airline support bot, research memo, personal assistant, design artifact, and software change do not share one universal definition of good. The gate may combine factual grounding, completeness, tone, uncertainty, privacy, cultural fit, tests, screenshots, decision usefulness, or user-specific style.
+
+The sources also separate a good-looking output from a sound process. A fluent answer can still misunderstand intent, hide uncertainty, or rest on weak inputs. Users therefore need both outcome criteria and non-skippable process checks. Once made explicit, these standards can become reusable skills, project memory, rubrics, or review checkpoints, but the human remains responsible for whether the gate measures what actually matters.
 
 ## Key Claims
 
-- AI work improves when the user can say why an output is unacceptable rather than only saying it "feels wrong."
-- Gates are reusable context: once written down, they can become part of [[AISkills]], project memory, or review checklists.
-- Output standards should include both objective checks and user-specific preferences.
-- Clear gates reduce polite but mediocre answers because the agent knows what will be rejected.
-- Gates are part of "raising AI": feedback becomes durable only if it changes future acceptance behavior.
-- Non-code tasks need gates because they often lack compiler-like signals; the human must specify what equivalent evidence or review looks like.
-- Gates also protect [[AIUsePacing]] by letting the user review at boundaries instead of continuously watching the agent.
-- Content gates include whether the answer understands the user's real intent, handles uncertainty honestly, and chooses a follow-up that fits the product goal.
+- Acceptance standards must be tied to the purpose and consequences of the task.
+- A useful gate states observable reasons for acceptance or rejection rather than relying only on vague preference.
+- Objective checks and contextual human judgment are complementary, especially in non-code work.
+- Process requirements such as source grounding, uncertainty disclosure, privacy review, or testing can be as important as surface quality.
+- Gates reduce continuous supervision when agents can stop at bounded checkpoints with review evidence.
+- A reusable gate can become part of an [[AISkills|AI skill]], project memory, or agent workflow.
+- Clear specifications still need revision when the chosen metric rewards the wrong output.
 
-## Connections
+## Evidence
 
-- [[AICodingVerification]] — code-specific version of explicit quality gates.
-- [[AIAnswerEvaluation]] and [[ContentEngineering]] — content-specific evaluation and gate-setting branch added by E245.
-- [[AISkills]] — gates can be packaged into reusable procedures.
-- [[ContextEngineering]] and [[PersistentAgentMemory]] — gates become durable context and preference memory.
-- [[HumanJudgmentUnderAI]] — humans remain accountable for whether the gate is meaningful.
-- [[AICommunicationAbility]] — acceptance criteria must be communicated clearly.
-- [[AgenticWorkflow]] — gates define when an agentic task can proceed, stop, or ask for help.
+- Product-specific evaluation: [[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] decomposes answer quality into intent, tone, factual uncertainty, attribution, cultural context, and product purpose.
+- Durable feedback: [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] treats acceptable-output definitions, rejection rules, prior mistakes, and examples as reusable context for an AI collaborator.
+- Operational specification: [[ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q]] argues that vague wishes such as “make it look better” must be replaced with goals, structure, constraints, and a standard the user can inspect.
+- Analysis boundary: [[ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q]] notes that abundant generated findings do not establish which result matters for a decision.
+
+## Counterevidence & Qualifications
+
+Not every valuable property can be fully specified in advance. Taste, novelty, empathy, strategic surprise, and changing context can resist fixed rubrics; overly narrow gates can create metric gaming or suppress exploration. The sources are practitioner accounts rather than controlled comparisons of gate designs. High-stakes work may require independent review, domain credentials, or formal validation beyond a user-authored checklist.
+
+## What Changed
+
+- Added the distinction between vague prompting and operational specification.
+- Added decision usefulness as a gate for data-analysis output.
+- Migrated the page to the synthesis-first schema while preserving its complete evidence inventory.
+
+## Related Concepts
+
+- [[AICodingVerification]] - code-specific evidence through tests, builds, CI, and runtime checks.
+- [[AIAnswerEvaluation]] - content-specific decomposition of answer quality.
+- [[AISkills]] - packages reusable standards and procedures for repeated work.
+- [[ContextEngineering]] - supplies task, user, and project context needed to apply a gate.
+- [[HumanJudgmentUnderAI]] - retains accountability for choosing and interpreting the standard.
+- [[AgenticWorkflow]] - uses gates to control progression, escalation, and stopping.
+- [[DurableSkillInvestmentUnderAI]] - treats standard setting and verification as transferable capabilities.

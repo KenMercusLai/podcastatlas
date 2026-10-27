@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10828
+wiki_total_pages: 10830
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1544,6 +1544,9 @@ wiki_pages:
   - key: "SoundLedComicDeception"
     title: "Sound-Led Comic Deception / 声音主导的喜剧骗局"
     url: "/wiki/concepts/soundledcomicdeception/"
+  - key: "SourceFirstInformationPractice"
+    title: "Source-First Information Practice / 源头优先的信息实践"
+    url: "/wiki/concepts/sourcefirstinformationpractice/"
   - key: "SouthAfricanWhiteMigrantLabor"
     title: "South African White Migrant Labor"
     url: "/wiki/concepts/southafricanwhitemigrantlabor/"

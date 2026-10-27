@@ -4852,6 +4852,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [VOL.225去医院拍片子，没人告诉你的几件事，影像科给你逐个讲明白](sources/vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiangke-gei-ni-zhuge-jiangmingbai-lhhurs_v1d-vp6rr4eycunr0zmhs.md) — 这病说来话长 episode on X-ray projection, CT reconstruction, MRI sequences, radiation risk-benefit, contrast, implant screening, and hearing protection.
 
+- [EP391-当AI完成所有工作，一个人应当如何证明自己的价值？](sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q.md) — 无时差研究所以旅行、创作、分析和多智能体案例讨论源头信息、耐久技能、验收标准及人在 AI 执行链中的目标与判断责任。
+
 ## Entities
 - [Doctor Faustus / 《浮士德博士的悲剧》 (Marlowe)](entities/DoctorFaustusMarlowe.md) — Marlowe tragedy in which unlimited intellectual ambition becomes a bargain exchanging future agency for spectacle and bounded power.
 - [Doctor Faustus / 福士德 (Marlowe character)](entities/FaustusMarlowe.md) — Scholar who gains extraordinary external options while losing purpose, sustained reflection, and control over his future.
@@ -29603,5 +29605,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fiber-Label Quality Gap / 纤维标签与成衣品质差距](concepts/FiberLabelQualityGap.md) — 区分规范成分披露与手感、功能、耐用性、工艺及价值判断所需的更完整信息。
 
 - [Misapplied Historical Analogy](concepts/MisappliedHistoricalAnalogy.md) — Decision error in which a vivid past crisis overrides material differences in law, capability, conduct, and alternatives.
+
+- [Durable Skill Investment Under AI / AI时代的耐久技能投资](concepts/DurableSkillInvestmentUnderAI.md) — 按任务后果、可逆性、验证需求和跨工具迁移性分配学习深度，而非把技能永久二分为人类或机器所有。
+- [Source-First Information Practice / 源头优先的信息实践](concepts/SourceFirstInformationPractice.md) — 从推荐流和转述回到近源证据，并结合目的、出处、激励、遗漏和独立比较的信息工作方法。
 
 ## Syntheses

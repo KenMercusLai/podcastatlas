@@ -4253,9 +4253,9 @@
       "url": "/wiki/concepts/ailiabilityinsurance/"
     },
     "AIManagingAI": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -4284,9 +4284,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725/"
+        },
+        {
+          "episode_file": "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
+          "key": "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q",
+          "show": "无时差研究所",
+          "title": "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？",
+          "url": "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-28",
       "url": "/wiki/concepts/aimanagingai/"
     },
     "AIMarketingDecisioning": {
@@ -78732,6 +78739,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/duongvanminh/"
     },
+    "DurableSkillInvestmentUnderAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
+          "key": "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q",
+          "show": "无时差研究所",
+          "title": "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？",
+          "url": "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/durableskillinvestmentunderai/"
+    },
     "DurandLine": {
       "episode_count": 1,
       "show_count": 1,
@@ -135534,9 +135557,9 @@
       "url": "/wiki/concepts/humanrobotsafetycertification/"
     },
     "HumanTasteCreativeBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lh8a4SWN9y9z0Tw8AvCMLGljbeGX [lh8a4SWN9y9z0Tw8AvCMLGljbeGX].md",
@@ -135544,9 +135567,16 @@
           "show": "罗永浩的十字路口",
           "title": "Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去",
           "url": "/wiki/sources/lh8a4swn9y9z0tw8avcmlgljbegx-lh8a4swn9y9z0tw8avcmlgljbegx/"
+        },
+        {
+          "episode_file": "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
+          "key": "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q",
+          "show": "无时差研究所",
+          "title": "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？",
+          "url": "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-28",
       "url": "/wiki/concepts/humantastecreativeboundary/"
     },
     "HumanTraffickingFamilyTrauma": {
@@ -212505,6 +212535,36 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/outpatientcarecontinuityandhandoff/"
     },
+    "OutputQualityGates": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的 [5aeaeb64-9165-4271-9884-23329b511e11].md",
+          "key": "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11",
+          "show": "硅谷101",
+          "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+          "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
+        },
+        {
+          "episode_file": "E163.要完了？不！是要玩了！论养AI的心态与习惯 [lqeZCpNw8p6CwHjr2wcw68X4UpHB].md",
+          "key": "e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb",
+          "show": "面基",
+          "title": "E163.要完了？不！是要玩了！论养AI的心态与习惯",
+          "url": "/wiki/sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb/"
+        },
+        {
+          "episode_file": "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
+          "key": "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q",
+          "show": "无时差研究所",
+          "title": "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？",
+          "url": "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/outputqualitygates/"
+    },
     "OutsiderExperienceDiagnosticSkill": {
       "episode_count": 1,
       "show_count": 1,
@@ -263633,6 +263693,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/soundsliketitanicbook/"
+    },
+    "SourceFirstInformationPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOtoJhAkrdQQTwkV3Q [GKwRIDoOtoJhAkrdQQTwkV3Q].md",
+          "key": "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q",
+          "show": "无时差研究所",
+          "title": "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？",
+          "url": "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/sourcefirstinformationpractice/"
     },
     "SouthAfrica": {
       "episode_count": 6,

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3647
+topic_total_pages: 3650
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2113,6 +2113,9 @@ topic_concepts:
   - key: "DullDirtyDangerousRobotics"
     title: "Dull Dirty Dangerous Robotics"
     url: "/wiki/concepts/dulldirtydangerousrobotics/"
+  - key: "DurableSkillInvestmentUnderAI"
+    title: "Durable Skill Investment Under AI / AI时代的耐久技能投资"
+    url: "/wiki/concepts/durableskillinvestmentunderai/"
   - key: "DynamicBalancingRobotics"
     title: "Dynamic Balancing Robotics"
     url: "/wiki/concepts/dynamicbalancingrobotics/"
@@ -4459,6 +4462,9 @@ topic_concepts:
   - key: "SoloAIRPGs"
     title: "Solo AI RPGs"
     url: "/wiki/concepts/soloairpgs/"
+  - key: "SourceFirstInformationPractice"
+    title: "Source-First Information Practice / 源头优先的信息实践"
+    url: "/wiki/concepts/sourcefirstinformationpractice/"
   - key: "SouthFloridaTechMigration"
     title: "South Florida Tech Migration"
     url: "/wiki/concepts/southfloridatechmigration/"
@@ -9960,6 +9966,9 @@ topic_sources:
   - key: "ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw"
     title: "EP288 被遗忘的洪堡：听土摩托聊聊“全世界第二有名的人”"
     url: "/wiki/sources/ep288-bei-yiwang-de-hongbao-ting-tumotuo-liaoliao-quanshijie-di-er-youming-de-ren-lgah_udxf1ggj22ko28f3kxy1taw/"
+  - key: "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q"
+    title: "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？"
+    url: "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
   - key: "ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c"
     title: "EP58 业绩平平，也要认真\"摸鱼\""
     url: "/wiki/sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c/"

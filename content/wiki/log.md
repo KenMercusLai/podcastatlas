@@ -37902,3 +37902,11 @@ Added source `372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-x
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | EP391-当AI完成所有工作，一个人应当如何证明自己的价值？
+
+Added source `ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q`; created [[DurableSkillInvestmentUnderAI|AI时代的耐久技能投资]] and [[SourceFirstInformationPractice|源头优先的信息实践]]; and resynthesized [[OutputQualityGates]], [[AIManagingAI]], and [[HumanTasteCreativeBoundary|人类审美的创造边界]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: automation changes the return on memorizing procedures but does not make operational knowledge worthless; durable leverage lies in defining purposes, reaching source-proximate evidence, asking decision-relevant questions, specifying acceptance standards, learning unfamiliar domains, and retaining enough expertise to verify work; layered agents add leverage only when capability, cost, evidence, and final responsibility are deliberately managed. No settled contradiction was adopted. Model-progress, token-usage, subscription-cost, caching, skill-displacement, and product examples remain source-scoped because the supplied file is a structured summary rather than benchmark data, bills, logs, labor-market evidence, or product documentation. Broad [[HumanJudgmentUnderAI]], [[LearningHowToLearn]], [[AISkills]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,750 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
