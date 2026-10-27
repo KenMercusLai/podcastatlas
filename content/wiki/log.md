@@ -37878,3 +37878,11 @@ Added source `vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiang
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952`; created [[PilarFernandez|Pilar Mendiola Fernandez]], [[TheWashingtonCenter]], [[CEOXMethodology]], [[LeadershipIdentityReinvention]], [[CuriosityAsLeadershipCapacity]], and [[CrossCulturalLeadershipLocalization]]. Core synthesis: strategy adaptation is constrained when leaders bind identity to title, certainty, control, or invested plans; effective executive development combines enough cross-domain literacy to ask useful questions with specialist reliance, curiosity, feedback use, and locally adapted partnership; and AI can amplify human capability without resolving labor transition, concentrated power, access, regulation, or arms-race risks. No settled contradiction was adopted. The introduction's 102-country claim conflicts with Fernandez's later approximately 80-country figure, while funds raised, program outcomes, the 30 percent literacy heuristic, neuroplasticity explanations, sustainability returns, assessment validity, and CEOX effectiveness remain source-scoped. Broad [[ShekharNatarajan]], [[TomorrowToday]], general neuroplasticity, sustainability, and AI-augmentation pages were kept closed because focused pages capture the durable additions without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,747 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

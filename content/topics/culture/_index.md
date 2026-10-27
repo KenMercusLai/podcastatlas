@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3579
+topic_total_pages: 3581
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -988,6 +988,9 @@ topic_concepts:
   - key: "CrossCulturalHistoricalPerspective"
     title: "Cross-Cultural Historical Perspective"
     url: "/wiki/concepts/crossculturalhistoricalperspective/"
+  - key: "CrossCulturalLeadershipLocalization"
+    title: "Cross-Cultural Leadership Localization"
+    url: "/wiki/concepts/crossculturalleadershiplocalization/"
   - key: "CrossLanguageRecommendationBias"
     title: "Cross-Language Recommendation Bias"
     url: "/wiki/concepts/crosslanguagerecommendationbias/"
@@ -6587,6 +6590,9 @@ topic_entities:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
     url: "/wiki/entities/waroftheworlds/"
+  - key: "TheWashingtonCenter"
+    title: "The Washington Center"
+    url: "/wiki/entities/thewashingtoncenter/"
   - key: "TheWitchesSalem1692"
     title: "The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》"
     url: "/wiki/entities/thewitchessalem1692/"

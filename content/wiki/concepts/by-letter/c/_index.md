@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10818
+wiki_total_pages: 10822
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "CEOPayLuckSkimming"
     title: "CEO Pay Luck Skimming / CEO薪酬揩油"
     url: "/wiki/concepts/ceopayluckskimming/"
+  - key: "CEOXMethodology"
+    title: "CEOX Methodology"
+    url: "/wiki/concepts/ceoxmethodology/"
   - key: "CeramicIndustrializationTransition"
     title: "Ceramic Industrialization Transition / 陶瓷工业化转型"
     url: "/wiki/concepts/ceramicindustrializationtransition/"
@@ -3035,6 +3038,9 @@ wiki_pages:
   - key: "CrossCulturalHistoricalPerspective"
     title: "Cross-Cultural Historical Perspective"
     url: "/wiki/concepts/crossculturalhistoricalperspective/"
+  - key: "CrossCulturalLeadershipLocalization"
+    title: "Cross-Cultural Leadership Localization"
+    url: "/wiki/concepts/crossculturalleadershiplocalization/"
   - key: "CrossCulturalMentalHealthHelpSeeking"
     title: "Cross-Cultural Mental-Health Help-Seeking / 跨文化心理求助路径"
     url: "/wiki/concepts/crossculturalmentalhealthhelpseeking/"
@@ -3221,6 +3227,9 @@ wiki_pages:
   - key: "CuratorialExperienceDesign"
     title: "Curatorial Experience Design / 策展体验设计"
     url: "/wiki/concepts/curatorialexperiencedesign/"
+  - key: "CuriosityAsLeadershipCapacity"
+    title: "Curiosity as Leadership Capacity"
+    url: "/wiki/concepts/curiosityasleadershipcapacity/"
   - key: "CuriosityOverReactivity"
     title: "Curiosity Over Reactivity"
     url: "/wiki/concepts/curiosityoverreactivity/"

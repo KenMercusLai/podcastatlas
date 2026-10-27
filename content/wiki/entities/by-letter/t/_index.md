@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13739
+wiki_total_pages: 13741
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "TheWaltDisneyCompany"
     title: "The Walt Disney Company"
     url: "/wiki/entities/thewaltdisneycompany/"
+  - key: "TheWashingtonCenter"
+    title: "The Washington Center"
+    url: "/wiki/entities/thewashingtoncenter/"
   - key: "TheWhiteHairedGirl"
     title: "The White-Haired Girl"
     url: "/wiki/entities/thewhitehairedgirl/"

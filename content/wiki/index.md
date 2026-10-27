@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952.md) — Tomorrow Today interview on CEOX, executive identity reinvention, curiosity, cross-cultural localization, specialist literacy, sustainability, and human-centered AI adaptation.
 - [Only in San Francisco: A picnic about AI's potential risks](sources/tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-128.md) — Marketplace Tech maps cybersecurity, international coordination, liability, and halt positions inside the AI-safety movement while examining their effects on careers and everyday risk decisions.
 - [511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮](sources/511-chongxin-faxian-feixiaotong-wenxue-shijiao-xia-de-sanshiniandai-jiangnan-siye-weiji-yu-beiping-qingnian-sichao-lnsuco6dz9odgc5x4rw5nrd-eqbs.md) — 忽左忽右以《茧》重访费孝通、江南蚕丝危机、农村区域差异、乡村工业改良、社会学中国化与女性改革者的独立贡献。
 - [达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业](sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls.md) — 声动早咖啡串联航司利润优先、SpaceX 算力与通信布局、AI 内容生产、短剧和汽车出海、Robotaxi、商超转型、牙膏宣称及 GLP-1 对餐饮与啤酒需求的外溢影响。
@@ -4850,6 +4851,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.225去医院拍片子，没人告诉你的几件事，影像科给你逐个讲明白](sources/vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiangke-gei-ni-zhuge-jiangmingbai-lhhurs_v1d-vp6rr4eycunr0zmhs.md) — 这病说来话长 episode on X-ray projection, CT reconstruction, MRI sequences, radiation risk-benefit, contrast, implant screening, and hearing protection.
 
 ## Entities
+- [Pilar Mendiola Fernandez](entities/PilarFernandez.md) — International leadership-program designer and creator of CEOX, connecting strategy calibration to identity, curiosity, and cross-cultural adaptation.
+- [The Washington Center](entities/TheWashingtonCenter.md) — Institutional setting for Fernandez's international internship, scholarship, public-official, and leadership-development programs.
 - [Donnie Christie](entities/DonnieChristie.md) — AI-safety community organizer who convenes competing approaches and frames effective response as skillful fear.
 - [Sky Gunasekaran](entities/SkyGunasekaran.md) — AI-agent collaboration researcher emphasizing cybersecurity, international coordination, and the education effects of perceived urgency.
 - [Elliot Callender](entities/ElliotCallender.md) — AI-safety protest organizer advocating a complete stop to advanced development over feared loss of control.
@@ -18671,6 +18674,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [CEOX Methodology](concepts/CEOXMethodology.md) — Executive-development framework that adapts the leader alongside strategy through foresight, resilience, human-capital leadership, domain literacy, and reinvention.
+- [Leadership Identity Reinvention](concepts/LeadershipIdentityReinvention.md) — Revision of title-, certainty-, and outcome-bound self-concepts that obstruct learning under changed conditions.
+- [Curiosity as Leadership Capacity](concepts/CuriosityAsLeadershipCapacity.md) — Disciplined inquiry combining humility with enough domain grounding to ask useful questions and select expertise.
+- [Cross-Cultural Leadership Localization](concepts/CrossCulturalLeadershipLocalization.md) — Shared relational principles translated into context-specific program design, partnerships, and execution.
 - [Medical Imaging Modality Principles / 医学影像成像原理](concepts/MedicalImagingModalityPrinciples.md) — Mechanism-first comparison of X-ray projection, CT cross-sections and reconstruction, and sequence-dependent MRI contrast.
 - [Skillful Fear](concepts/SkillfulFear.md) — Evidence-sensitive, action-oriented concern intended to avoid both dismissal and immobilizing doom.
 - [Alaska Fisheries Politics](concepts/AlaskaFisheriesPolitics.md) — Electoral frame joining fishing identity, livelihoods, weather and stock science, seafood policy, and representation in remote communities.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13739
+wiki_total_pages: 13741
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "PiggyLordOfTheFlies"
     title: "Piggy / 猪崽子（《蝇王》）"
     url: "/wiki/entities/piggylordoftheflies/"
+  - key: "PilarFernandez"
+    title: "Pilar Mendiola Fernandez"
+    url: "/wiki/entities/pilarfernandez/"
   - key: "PiltdownMan"
     title: "Piltdown Man"
     url: "/wiki/entities/piltdownman/"
