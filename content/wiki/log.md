@@ -37870,3 +37870,11 @@ Added source `tech-20261027-1027-mp-tech-pod-128-tech-20261027-1027-mp-tech-pod-
 ## [2026-10-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | VOL.225去医院拍片子，没人告诉你的几件事，影像科给你逐个讲明白
+
+Added source `vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiangke-gei-ni-zhuge-jiangmingbai-lhhurs_v1d-vp6rr4eycunr0zmhs`; created [[MedicalImagingModalityPrinciples]]; and resynthesized [[ImagingRadiationRiskBenefit]], [[ContrastMediaSafetyAndConsent]], [[MagneticResonanceSafetyAndAppropriateness]], and [[MedicalImagingCommunicationBoundary]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: X-ray projection, CT cross-sections and reconstruction, and sequence-dependent MRI signals answer different questions; radiation risk must be read through dose and diagnostic benefit; ordinary contrast is not a radiotracer; and MRI safety requires exact implant conditions, conductive-object screening, and correctly fitted hearing protection. No settled contradiction was adopted. Dose analogies, contrast-clearance timing, implant compatibility, sequence descriptions, and earplug instructions remain source-scoped public education rather than individualized medical, device, or hearing-protection guidance. Broad show and host pages were kept closed because the focused imaging pages capture the durable additions without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,746 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

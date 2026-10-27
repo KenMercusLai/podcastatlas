@@ -4847,6 +4847,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Act of Claude: Anthropic’s IPO bid](sources/bf8d29dbc7b83c7daefff88e8666657c.md) — Economist Podcasts on Anthropic's reported profitability and infrastructure-heavy IPO, Alaska's fisheries-centered Senate race, and the precision-versus-reproducibility choice in redefining the second.
 
+- [VOL.225去医院拍片子，没人告诉你的几件事，影像科给你逐个讲明白](sources/vol-225-qu-yiyuan-paipianzi-meiren-gaosu-ni-de-jijianshi-yingxiangke-gei-ni-zhuge-jiangmingbai-lhhurs_v1d-vp6rr4eycunr0zmhs.md) — 这病说来话长 episode on X-ray projection, CT reconstruction, MRI sequences, radiation risk-benefit, contrast, implant screening, and hearing protection.
+
 ## Entities
 - [Donnie Christie](entities/DonnieChristie.md) — AI-safety community organizer who convenes competing approaches and frames effective response as skillful fear.
 - [Sky Gunasekaran](entities/SkyGunasekaran.md) — AI-agent collaboration researcher emphasizing cybersecurity, international coordination, and the education effects of perceived urgency.
@@ -18669,6 +18671,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Medical Imaging Modality Principles / 医学影像成像原理](concepts/MedicalImagingModalityPrinciples.md) — Mechanism-first comparison of X-ray projection, CT cross-sections and reconstruction, and sequence-dependent MRI contrast.
 - [Skillful Fear](concepts/SkillfulFear.md) — Evidence-sensitive, action-oriented concern intended to avoid both dismissal and immobilizing doom.
 - [Alaska Fisheries Politics](concepts/AlaskaFisheriesPolitics.md) — Electoral frame joining fishing identity, livelihoods, weather and stock science, seafood policy, and representation in remote communities.
 - [Atomic Time Redefinition](concepts/AtomicTimeRedefinition.md) — Replacement of the caesium-defined SI second with a more precise atomic standard that remains reliable and internationally reproducible.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10817
+wiki_total_pages: 10818
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "MedicalImagingCommunicationBoundary"
     title: "Medical Imaging Communication Boundary / 影像检查沟通边界"
     url: "/wiki/concepts/medicalimagingcommunicationboundary/"
+  - key: "MedicalImagingModalityPrinciples"
+    title: "Medical Imaging Modality Principles / 医学影像成像原理"
+    url: "/wiki/concepts/medicalimagingmodalityprinciples/"
   - key: "MedicalKnowledgeBoundary"
     title: "Medical Knowledge Boundary"
     url: "/wiki/concepts/medicalknowledgeboundary/"
