@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10797
+wiki_total_pages: 10803
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "AdultToyMarketExpansion"
     title: "Adult Toy Market Expansion"
     url: "/wiki/concepts/adulttoymarketexpansion/"
+  - key: "AdultMinorSexualAbuseReframing"
+    title: "Adult–Minor Sexual Abuse Retrospective Reframing / 成年人—未成年人性侵的回溯重构"
+    url: "/wiki/concepts/adultminorsexualabusereframing/"
   - key: "AdvanceAgainstRoyalties"
     title: "Advance Against Royalties"
     url: "/wiki/concepts/advanceagainstroyalties/"
@@ -2672,6 +2675,9 @@ wiki_pages:
   - key: "ArtworkValueProvenanceAndAttention"
     title: "Artwork Value, Provenance, and Attention / 艺术品价值、来源与注意力"
     url: "/wiki/concepts/artworkvalueprovenanceandattention/"
+  - key: "ArtFamilyTradeoff"
+    title: "Art–Family Tradeoff / 艺术创作与家庭代价"
+    url: "/wiki/concepts/artfamilytradeoff/"
   - key: "AsItIsPractice"
     title: "As It Is Practice / 如其所是"
     url: "/wiki/concepts/asitispractice/"

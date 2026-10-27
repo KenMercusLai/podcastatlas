@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.358 钢琴课：我已经想开了，希望你也想开一点](sources/vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidian-gkwrijeotl1aaype0qtvn81u.md) — 文化有限借麦克尤恩《钢琴课》讨论全人生小说、成年人与未成年人之间的性侵、共同生活的虚构伦理、历史偶然性、艺术与家庭代价，以及故事不必成为单一教训。
 - [150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价](sources/ep150-ep150.md) — 疯投圈对比 Alo 的明星生活方式、凯乐石的专业户外聚焦与之禾的天然材料和东方审美，讨论核心客群、复购、提价与长期积累如何支撑高端品牌。
 - [When ChatGPT writes your obituary](sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128.md) — Marketplace Tech on Donna Guthrie's AI-drafted obituary, Michelle Wong's diary-grounded younger self, personalized AI as a mirror, and the boundary between reflective assistance and human relationships.
 - [Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley](sources/scim9489463983-scim9489463983.md) — Huberman Lab conversation on rotating motivational channels, brain-body persistence, delegated stop rules, team dependence, strength reserve, sleep, and meaning in extreme endurance.
@@ -4842,6 +4843,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
 ## Entities
+- [Ian McEwan / 伊恩·麦克尤恩](entities/IanMcEwan.md) — 英国小说家，以《钢琴课》把家族与个人经历转化为跨越七十余年的历史—私人叙事。
+- [《钢琴课》 / Lessons](entities/LessonsNovel.md) — 以罗兰一生连接性侵创伤、家庭选择、历史偶然与反教训结尾的麦克尤恩小说。
+- [Roland Baines / 罗兰·贝恩斯](entities/RolandBaines.md) — 在创伤、未竟抱负、独自育儿与晚年家庭温暖之间被重新评价的虚构人物。
+- [Alissa Eberhardt / 阿丽莎·艾伯哈特](entities/AlissaEberhardt.md) — 离开丈夫与幼子成为重要作家，并承担亲情断裂和孤独代价的虚构人物。
+- [Miriam Cornell / 米里亚姆·康奈尔](entities/MiriamCornell.md) — 以音乐亲密与师生权力侵害未成年罗兰、并在多年后被其质问的虚构钢琴教师。
 - [之禾 / ICICLE](entities/Icicle.md) — Chinese light-luxury fashion brand joining natural materials, integrated manufacturing, restrained aesthetics, premium retail, and repeat-customer economics.
 - [钟承湛 / Zhong Chengzhan](entities/ZhongChengzhan.md) — Kailas founder whose confirmed post-injury sit-skiing and motorcycle travel reinforce the brand's professional outdoor identity.
 - [Donna Guthrie](entities/DonnaGuthrie.md) — Author, educator, and filmmaker whose AI-written obituary illustrates personalized memory, legacy drafting, and family revision.
@@ -18641,6 +18647,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Whole-Life Novel / 全人生小说](concepts/WholeLifeNovel.md) — 从形成期继续写到衰老、回望和死亡，使早年事件在完整生命尺度上不断改义的小说形式。
+- [Adult–Minor Sexual Abuse Retrospective Reframing / 成年人—未成年人性侵的回溯重构](concepts/AdultMinorSexualAbuseReframing.md) — 区分未成年人的愉悦、依恋或迟来命名与成年人在不对等关系中的完整责任。
+- [Shared-Life Fiction Ethics / 共同生活的虚构伦理](concepts/SharedLifeFictionEthics.md) — 共同经历进入虚构后，艺术转化、可识别性、隐私、声誉与叙事权之间的伦理张力。
+- [Historical Contingency in Life Narrative / 人生叙事中的历史偶然性](concepts/HistoricalContingencyInLifeNarrative.md) — 公共事件改变私人行动条件，却不被简化为单一决定性原因的叙事框架。
+- [Art–Family Tradeoff / 艺术创作与家庭代价](concepts/ArtFamilyTradeoff.md) — 在创作、照护、亲密、性别规范与公共成就之间承认真实机会成本而不做单一排名。
+- [Story Without a Lesson / 不必成为教训的故事](concepts/StoryWithoutLesson.md) — 允许故事以体验、陪伴、歧义和持续解释产生价值，而不必收束为一条可提取教训。
 - [AI as a Personal Mirror](concepts/AIAsPersonalMirror.md) — Selective reflection and amplification of accumulated user context into a personal narrative or pattern account.
 - [Synthetic Younger-Self Reflection](concepts/SyntheticYoungerSelfReflection.md) — Autobiographical AI practice using earlier personal records to model a constrained, interpretive dialogue with a past self.
 - [Flexible Motivational Portfolio](concepts/FlexibleMotivationalPortfolio.md) — Resilience model that deliberately switches among commitment, affiliation, anger, gratitude, enjoyment, service, and meaning as their potency changes.

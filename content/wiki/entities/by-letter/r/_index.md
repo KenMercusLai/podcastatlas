@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13717
+wiki_total_pages: 13722
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "Roi"
     title: "Roi"
     url: "/wiki/entities/roi/"
+  - key: "RolandBaines"
+    title: "Roland Baines / 罗兰·贝恩斯"
+    url: "/wiki/entities/rolandbaines/"
   - key: "Rolex"
     title: "Rolex"
     url: "/wiki/entities/rolex/"

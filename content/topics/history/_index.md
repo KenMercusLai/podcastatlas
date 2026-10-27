@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2769
+topic_total_pages: 2771
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -616,6 +616,9 @@ topic_concepts:
   - key: "HistoricalCompositeAllegory"
     title: "Historical Composite Allegory"
     url: "/wiki/concepts/historicalcompositeallegory/"
+  - key: "HistoricalContingencyInLifeNarrative"
+    title: "Historical Contingency in Life Narrative / 人生叙事中的历史偶然性"
+    url: "/wiki/concepts/historicalcontingencyinlifenarrative/"
   - key: "HistoricalCounterfactualReasoning"
     title: "Historical Counterfactual Reasoning"
     url: "/wiki/concepts/historicalcounterfactualreasoning/"
@@ -2786,6 +2789,9 @@ topic_entities:
   - key: "ZhuluQinHanBook"
     title: "《逐鹿：神话与预言背后的秦亡汉兴》"
     url: "/wiki/entities/zhuluqinhanbook/"
+  - key: "LessonsNovel"
+    title: "《钢琴课》 / Lessons"
+    url: "/wiki/entities/lessonsnovel/"
   - key: "TheSpyAndTheTraitor"
     title: "《间谍与叛徒》 / The Spy and the Traitor"
     url: "/wiki/entities/thespyandthetraitor/"

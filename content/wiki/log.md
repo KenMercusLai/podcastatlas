@@ -37830,3 +37830,11 @@ Added source `ep150-ep150`; created [[Icicle|之禾 / ICICLE]] and [[ZhongChengz
 ## [2026-10-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-27] ingest | Vol.358 钢琴课：我已经想开了，希望你也想开一点
+
+Added source `vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidian-gkwrijeotl1aaype0qtvn81u`; created [[IanMcEwan|Ian McEwan / 伊恩·麦克尤恩]], [[LessonsNovel|《钢琴课》 / Lessons]], [[RolandBaines|Roland Baines / 罗兰·贝恩斯]], [[AlissaEberhardt|Alissa Eberhardt / 阿丽莎·艾伯哈特]], [[MiriamCornell|Miriam Cornell / 米里亚姆·康奈尔]], [[WholeLifeNovel|Whole-Life Novel / 全人生小说]], [[AdultMinorSexualAbuseReframing|Adult–Minor Sexual Abuse Retrospective Reframing / 成年人—未成年人性侵的回溯重构]], [[SharedLifeFictionEthics|Shared-Life Fiction Ethics / 共同生活的虚构伦理]], [[HistoricalContingencyInLifeNarrative|Historical Contingency in Life Narrative / 人生叙事中的历史偶然性]], [[ArtFamilyTradeoff|Art–Family Tradeoff / 艺术创作与家庭代价]], and [[StoryWithoutLesson|Story Without a Lesson / 不必成为教训的故事]]; and resynthesized [[ArtisticCreationBeyondBiography|艺术创造不可还原为传记]] and [[OrdinaryLifeNonMediocrity|平凡不等于平庸]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: *Lessons* uses a whole-life form to hold adolescent abuse, delayed ethical reframing, artistic ambition, single fatherhood, family rupture, historical contingency, aging, and ordinary care without forcing them into one causal or moral key. No settled contradiction was adopted. Roland's remembered pleasure does not create consent or dilute adult responsibility; McEwan's biographical parallels do not turn the novel into memoir; Alissa's artistic transformation does not erase the effects of abandonment or settle shared-life authorship ethics; and the two fictional lives do not establish a universal hierarchy between art and family. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,741 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13717
+wiki_total_pages: 13722
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "IanMacGregor"
     title: "Ian MacGregor"
     url: "/wiki/entities/ianmacgregor/"
+  - key: "IanMcEwan"
+    title: "Ian McEwan / 伊恩·麦克尤恩"
+    url: "/wiki/entities/ianmcewan/"
   - key: "IanMcGregor"
     title: "Ian McGregor"
     url: "/wiki/entities/ianmcgregor/"

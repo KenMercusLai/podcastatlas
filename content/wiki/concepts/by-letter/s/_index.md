@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10797
+wiki_total_pages: 10803
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "SharedKitchenSatelliteRetail"
     title: "Shared-Kitchen Satellite Retail"
     url: "/wiki/concepts/sharedkitchensatelliteretail/"
+  - key: "SharedLifeFictionEthics"
+    title: "Shared-Life Fiction Ethics / 共同生活的虚构伦理"
+    url: "/wiki/concepts/sharedlifefictionethics/"
   - key: "ShareholderPrimacy"
     title: "Shareholder Primacy"
     url: "/wiki/concepts/shareholderprimacy/"
@@ -2138,6 +2141,9 @@ wiki_pages:
   - key: "StoryNoveltyAudienceConnection"
     title: "Story Novelty and Audience Connection / 新故事与时代连接"
     url: "/wiki/concepts/storynoveltyaudienceconnection/"
+  - key: "StoryWithoutLesson"
+    title: "Story Without a Lesson / 不必成为教训的故事"
+    url: "/wiki/concepts/storywithoutlesson/"
   - key: "StoryBasedEmpathy"
     title: "Story-Based Empathy"
     url: "/wiki/concepts/storybasedempathy/"

@@ -16636,6 +16636,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ArtFamilyTradeoff": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ArtFilmDeferredLegibility": [
     {
       "key": "culture",
@@ -45890,6 +45897,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HistoricalContingencyInLifeNarrative": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HistoricalCostPrecedentRemonstrance": [
     {
       "key": "politics",
@@ -48151,6 +48165,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "IanMcEwan": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "IanPaisley": [
@@ -55839,6 +55860,18 @@
       "url": "/topics/history/"
     }
   ],
+  "LessonsNovel": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LetitiaJames": [
     {
       "key": "politics",
@@ -62537,6 +62570,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MiriamCornell": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "MisappliedHistoricalAnalogy": [
@@ -85447,6 +85487,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "StoryWithoutLesson": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "StraightRedressWithoutRevenge": [
     {
       "key": "politics",
@@ -96148,6 +96195,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "WholeLifeNovel": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Whoop": [
@@ -111486,6 +111540,13 @@
     }
   ],
   "vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidian-gkwrijeotl1aaype0qtvn81u": [
     {
       "key": "culture",
       "label": "Culture",

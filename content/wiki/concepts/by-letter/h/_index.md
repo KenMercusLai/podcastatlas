@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10797
+wiki_total_pages: 10803
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "HistoricalCompositeAllegory"
     title: "Historical Composite Allegory"
     url: "/wiki/concepts/historicalcompositeallegory/"
+  - key: "HistoricalContingencyInLifeNarrative"
+    title: "Historical Contingency in Life Narrative / 人生叙事中的历史偶然性"
+    url: "/wiki/concepts/historicalcontingencyinlifenarrative/"
   - key: "HistoricalCounterfactualReasoning"
     title: "Historical Counterfactual Reasoning"
     url: "/wiki/concepts/historicalcounterfactualreasoning/"
