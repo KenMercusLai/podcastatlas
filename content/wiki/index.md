@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮](sources/511-chongxin-faxian-feixiaotong-wenxue-shijiao-xia-de-sanshiniandai-jiangnan-siye-weiji-yu-beiping-qingnian-sichao-lnsuco6dz9odgc5x4rw5nrd-eqbs.md) — 忽左忽右以《茧》重访费孝通、江南蚕丝危机、农村区域差异、乡村工业改良、社会学中国化与女性改革者的独立贡献。
 - [达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业](sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls.md) — 声动早咖啡串联航司利润优先、SpaceX 算力与通信布局、AI 内容生产、短剧和汽车出海、Robotaxi、商超转型、牙膏宣称及 GLP-1 对餐饮与啤酒需求的外溢影响。
 - [Vol.358 钢琴课：我已经想开了，希望你也想开一点](sources/vol-358-gangqinke-wo-yijing-xiangkai-le-xiwang-ni-ye-xiangkai-yidian-gkwrijeotl1aaype0qtvn81u.md) — 文化有限借麦克尤恩《钢琴课》讨论全人生小说、成年人与未成年人之间的性侵、共同生活的虚构伦理、历史偶然性、艺术与家庭代价，以及故事不必成为单一教训。
 - [150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价](sources/ep150-ep150.md) — 疯投圈对比 Alo 的明星生活方式、凯乐石的专业户外聚焦与之禾的天然材料和东方审美，讨论核心客群、复购、提价与长期积累如何支撑高端品牌。
@@ -4844,6 +4845,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
 ## Entities
+- [费孝通 / Fei Xiaotong](entities/FeiXiaotong.md) — 以社区调查、乡村改良与文学创作回应三十年代社会危机的社会学家和人类学家。
+- [《茧》 / Cocoon (Fei Xiaotong)](entities/CocoonFeiXiaotong.md) — 连接江南蚕丝危机、工厂组织、思想论争与女性社会工作的英文小说。
+- [《江村经济》 / Peasant Life in China](entities/JiangcunEconomy.md) — 以江南村庄为边界研究家庭生计、副业、土地压力与市场关系的民族志。
+- [费达生 / Fei Dasheng](entities/FeiDasheng.md) — 将蚕丝技术、农民组织与收益返还结合起来的乡村产业改革者。
+- [王同惠 / Wang Tonghui](entities/WangTonghui.md) — 在大瑶山调查中拓展女性、家庭与社会组织证据的独立田野研究者。
 - [Heineken / 喜力](entities/Heineken.md) — Global brewer used as an early company case for adapting serving size and alcohol content to GLP-1-related demand shifts.
 - [RT-Mart / 大润发](entities/RTMart.md) — Chinese hypermarket chain absorbing traffic pressure and operating costs while repositioning toward community demand.
 - [Apollo Go / 萝卜快跑](entities/ApolloGo.md) — Baidu robotaxi service entering a reported London test through Lyft and FreeNow.
@@ -18653,6 +18659,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Regional Variation in Rural China / 中国农村的区域差异](concepts/RegionalVariationInRuralChina.md) — 以土地、宗族、商品化、生态和市场暴露解释不同乡村结构及政策边界。
+- [Rural Industry-Led Improvement / 乡村工业改良](concepts/RuralIndustryLedImprovement.md) — 通过副业、技术、加工与农民组织增加收入并检验收益分配的改良路径。
+- [Sociology Sinicization / 社会学中国化](concepts/SociologySinicization.md) — 以中文概念和中国社区调查转译、检验并修正社会学方法的知识生产方案。
 - [Airline Profit-First Capacity Discipline](concepts/AirlineProfitFirstCapacityDiscipline.md) — Capacity and fare strategy that protects yield and contribution rather than maximizing passenger count at any price.
 - [Integrated AI Compute–Connectivity Strategy](concepts/IntegratedAIComputeConnectivityStrategy.md) — Source-bounded strategy joining AI accelerators and finance to satellite, spectrum, terrestrial network, and launch assets.
 - [AI Content-Production Displacement](concepts/AIContentProductionDisplacement.md) — Substitution and reorganization of location, crew, performance, editing, and tool work as generated media improves.

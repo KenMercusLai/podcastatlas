@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13727
+wiki_total_pages: 13732
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1370,6 +1370,12 @@ wiki_pages:
   - key: "FeiXingXinOfficial"
     title: "费兴 / Fei Xing (Xin official)"
     url: "/wiki/entities/feixingxinofficial/"
+  - key: "FeiXiaotong"
+    title: "费孝通 / Fei Xiaotong"
+    url: "/wiki/entities/feixiaotong/"
+  - key: "FeiDasheng"
+    title: "费达生 / Fei Dasheng"
+    url: "/wiki/entities/feidasheng/"
   - key: "Fengze"
     title: "逢泽 / Fengze"
     url: "/wiki/entities/fengze/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13727
+wiki_total_pages: 13732
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1469,6 +1469,9 @@ wiki_pages:
   - key: "WangJiWesternHan"
     title: "王吉 / Wang Ji (Western Han)"
     url: "/wiki/entities/wangjiwesternhan/"
+  - key: "WangTonghui"
+    title: "王同惠 / Wang Tonghui"
+    url: "/wiki/entities/wangtonghui/"
   - key: "WangJiaWesternHan"
     title: "王嘉 / Wang Jia (Western Han)"
     url: "/wiki/entities/wangjiawesternhan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13727
+wiki_total_pages: 13732
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1541,6 +1541,9 @@ wiki_pages:
   - key: "JijianFayiJianshiShouce"
     title: "《极简法医鉴识手册》"
     url: "/wiki/entities/jijianfayijianshishouce/"
+  - key: "JiangcunEconomy"
+    title: "《江村经济》 / Peasant Life in China"
+    url: "/wiki/entities/jiangcuneconomy/"
   - key: "JiangHuCongTan"
     title: "《江湖丛谈》 / Jianghu Congtan"
     url: "/wiki/entities/jianghucongtan/"

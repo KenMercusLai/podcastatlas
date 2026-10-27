@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10810
+wiki_total_pages: 10813
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "RegionalSelfPreservationAlliance"
     title: "Regional Self-Preservation Alliance / 区域自保联盟"
     url: "/wiki/concepts/regionalselfpreservationalliance/"
+  - key: "RegionalVariationInRuralChina"
+    title: "Regional Variation in Rural China / 中国农村的区域差异"
+    url: "/wiki/concepts/regionalvariationinruralchina/"
   - key: "RegistryBasedPoliticalExclusion"
     title: "Registry-Based Political Exclusion / 登记造册式政治禁锢"
     url: "/wiki/concepts/registrybasedpoliticalexclusion/"
@@ -1535,6 +1538,9 @@ wiki_pages:
   - key: "RuralHealthcareTechnologyAccess"
     title: "Rural Healthcare Technology Access"
     url: "/wiki/concepts/ruralhealthcaretechnologyaccess/"
+  - key: "RuralIndustryLedImprovement"
+    title: "Rural Industry-Led Improvement / 乡村工业改良"
+    url: "/wiki/concepts/ruralindustryledimprovement/"
   - key: "RuralInfrastructureTransition"
     title: "Rural Infrastructure Transition / 乡村基础设施转折"
     url: "/wiki/concepts/ruralinfrastructuretransition/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10810
+wiki_total_pages: 10813
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1436,6 +1436,9 @@ wiki_pages:
   - key: "SociallyImposedIdentity"
     title: "Socially Imposed Identity / 集体强加身份"
     url: "/wiki/concepts/sociallyimposedidentity/"
+  - key: "SociologySinicization"
+    title: "Sociology Sinicization / 社会学中国化"
+    url: "/wiki/concepts/sociologysinicization/"
   - key: "SodiumIonBatteryStorage"
     title: "Sodium-Ion Battery Storage"
     url: "/wiki/concepts/sodiumionbatterystorage/"

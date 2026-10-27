@@ -37846,3 +37846,11 @@ Added source `dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-
 ## [2026-10-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-27] ingest | 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
+
+Added source `511-chongxin-faxian-feixiaotong-wenxue-shijiao-xia-de-sanshiniandai-jiangnan-siye-weiji-yu-beiping-qingnian-sichao-lnsuco6dz9odgc5x4rw5nrd-eqbs`; created [[FeiXiaotong|费孝通]], [[CocoonFeiXiaotong|《茧》]], [[JiangcunEconomy|《江村经济》]], [[FeiDasheng|费达生]], [[WangTonghui|王同惠]], [[RegionalVariationInRuralChina|中国农村的区域差异]], [[RuralIndustryLedImprovement|乡村工业改良]], and [[SociologySinicization|社会学中国化]]. Core synthesis: the rediscovered novel expands Fei's profile beyond sociology; commercialized Jiangnan sericulture makes some indebted risk-taking locally intelligible but cannot represent every Chinese village; rural technical and industrial reform depends on who receives gains and remains vulnerable to market, capital, and regional constraints; and women reformers and field researchers require recognition beyond kinship, romance, or tragedy. No settled contradiction was adopted. Character prototypes, romantic relationships, autobiographical motives, manuscript causation, institutional details, and economic comparisons remain episode-attributed or speculative because the supplied file is a structured summary rather than a transcript, archive, dataset, or full biography. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,743 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

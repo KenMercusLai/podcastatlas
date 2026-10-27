@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13727
+wiki_total_pages: 13732
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1913,6 +1913,9 @@ wiki_pages:
   - key: "Cangcheng"
     title: "《苍城》"
     url: "/wiki/entities/cangcheng/"
+  - key: "CocoonFeiXiaotong"
+    title: "《茧》 / Cocoon (Fei Xiaotong)"
+    url: "/wiki/entities/cocoonfeixiaotong/"
   - key: "CanticleForLeibowitz"
     title: "《莱博维茨的赞歌》 / A Canticle for Leibowitz"
     url: "/wiki/entities/canticleforleibowitz/"
