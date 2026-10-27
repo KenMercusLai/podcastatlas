@@ -37854,3 +37854,11 @@ Added source `511-chongxin-faxian-feixiaotong-wenxue-shijiao-xia-de-sanshinianda
 ## [2026-10-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-27] ingest | Act of Claude: Anthropic’s IPO bid
+
+Added source `bf8d29dbc7b83c7daefff88e8666657c`; created [[MaryPeltola]], [[DanSullivan]], [[NationalOceanicAndAtmosphericAdministration]], [[AlaskaFisheriesPolitics]], [[AtomicTimeRedefinition]], and [[PublicBenefitCorporationSafetyGovernance]]; and resynthesized [[AIIPOValuation]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Anthropic's reported early operating profit does not settle its long-run economics because direct chip purchases, long-term data-center commitments, credit access, and safety-versus-return governance all become part of the public-market test; Alaska fisheries politics joins identity and candidate presence to weather, stock, and quota capacity; and a successor to the caesium second must balance maximum accuracy with reliable international reproduction. No settled contradiction was adopted. The episode's Anthropic figures sit below some earlier annualized forecasts but remain unreconciled across timing and accounting bases; candidate, workforce, clock-performance, and institutional-motive claims remain episode-attributed because the supplied file is a structured summary rather than a filing, transcript, campaign dataset, agency record, or metrology paper. Broad [[Anthropic]], [[EconomistPodcasts]], [[Alaska]], and [[FisheriesResourceManagement]] pages were kept closed because focused pages capture the durable additions without reopening large evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 4,744 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

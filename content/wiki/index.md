@@ -4844,7 +4844,12 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [717. The Suez Crisis: Anarchy in the Middle East (Part 1)](sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981.md) — The Rest Is History traces canal nationalisation, Nasser and Eden, imperial contraction, failed diplomacy, and the secret search for an intervention pretext.
 
+- [Act of Claude: Anthropic’s IPO bid](sources/bf8d29dbc7b83c7daefff88e8666657c.md) — Economist Podcasts on Anthropic's reported profitability and infrastructure-heavy IPO, Alaska's fisheries-centered Senate race, and the precision-versus-reproducibility choice in redefining the second.
+
 ## Entities
+- [Mary Peltola](entities/MaryPeltola.md) — Former Alaska congresswoman using fisheries, federal scientific capacity, and local presence in a cross-party 2026 Senate campaign.
+- [Dan Sullivan](entities/DanSullivan.md) — Republican Alaska senator contesting fisheries credentials and remote-community representation in a close reelection race.
+- [National Oceanic and Atmospheric Administration](entities/NationalOceanicAndAtmosphericAdministration.md) — U.S. federal agency whose weather and fish-stock data connect scientific capacity to marine safety and quota decisions.
 - [费孝通 / Fei Xiaotong](entities/FeiXiaotong.md) — 以社区调查、乡村改良与文学创作回应三十年代社会危机的社会学家和人类学家。
 - [《茧》 / Cocoon (Fei Xiaotong)](entities/CocoonFeiXiaotong.md) — 连接江南蚕丝危机、工厂组织、思想论争与女性社会工作的英文小说。
 - [《江村经济》 / Peasant Life in China](entities/JiangcunEconomy.md) — 以江南村庄为边界研究家庭生计、副业、土地压力与市场关系的民族志。
@@ -18659,6 +18664,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Alaska Fisheries Politics](concepts/AlaskaFisheriesPolitics.md) — Electoral frame joining fishing identity, livelihoods, weather and stock science, seafood policy, and representation in remote communities.
+- [Atomic Time Redefinition](concepts/AtomicTimeRedefinition.md) — Replacement of the caesium-defined SI second with a more precise atomic standard that remains reliable and internationally reproducible.
+- [Public-Benefit Corporation Safety Governance](concepts/PublicBenefitCorporationSafetyGovernance.md) — Corporate-form attempt to preserve AI safety goals when public ownership, infrastructure spending, and shareholder returns conflict.
 - [Regional Variation in Rural China / 中国农村的区域差异](concepts/RegionalVariationInRuralChina.md) — 以土地、宗族、商品化、生态和市场暴露解释不同乡村结构及政策边界。
 - [Rural Industry-Led Improvement / 乡村工业改良](concepts/RuralIndustryLedImprovement.md) — 通过副业、技术、加工与农民组织增加收入并检验收益分配的改良路径。
 - [Sociology Sinicization / 社会学中国化](concepts/SociologySinicization.md) — 以中文概念和中国社区调查转译、检验并修正社会学方法的知识生产方案。

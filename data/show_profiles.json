@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-27",
       "latest_episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
-      "source_note_count": 105,
-      "topic_matched_source_note_count": 94,
+      "source_note_count": 106,
+      "topic_matched_source_note_count": 95,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 67
+          "source_note_count": 68
         },
         {
           "key": "culture",
@@ -342,7 +342,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 28
+          "source_note_count": 29
         },
         {
           "key": "economics",
@@ -410,10 +410,10 @@
         }
       ],
       "start_here_episode_files": [
-        "5cf52a797029a5f0a14510e44dfaac06 [5cf52a797029a5f0a14510e44dfaac06.mp3？aid=6adf22dfdd5d6293db62cd9d&chid=d556eb54-6160-4.280].md",
+        "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
         "cc0f4a5a1edb896ae869b3d9c711bc4f [cc0f4a5a1edb896ae869b3d9c711bc4f.mp3？aid=6ad1fd1765f99a36ebb7243f&chid=d556eb54-6160-4.280].md",
-        "145c0cf22e24027ee45e02b7352ac088 [145c0cf22e24027ee45e02b7352ac088.mp3？aid=6ace029d37f0bd18cc1c7df0&chid=d556eb54-6160-4.280].md",
-        "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md"
+        "d1db236273c4dba7fc1e1a7b66cd08a1 [d1db236273c4dba7fc1e1a7b66cd08a1.mp3？aid=6ad5db120c6b30397bf5bec0&chid=d556eb54-6160-4.280].md",
+        "5cf52a797029a5f0a14510e44dfaac06 [5cf52a797029a5f0a14510e44dfaac06.mp3？aid=6adf22dfdd5d6293db62cd9d&chid=d556eb54-6160-4.280].md"
       ]
     },
     "How I Built This with Guy Raz": {

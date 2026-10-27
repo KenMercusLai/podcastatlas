@@ -13791,6 +13791,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AlaskaFisheriesPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AlaskaNewsCom": [
     {
       "key": "technology",
@@ -17188,6 +17195,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AtomicTimeRedefinition": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Atoom": [
@@ -29351,6 +29365,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "DanSullivan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DanceReflections": [
@@ -60349,6 +60370,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MaryPeltola": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MaryPoppins": [
     {
       "key": "culture",
@@ -64770,6 +64798,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NationalOceanicAndAtmosphericAdministration": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NationalPopularVoteInterstateCompact": [
@@ -73849,6 +73884,13 @@
     }
   ],
   "PublicArmoryPrivateFavorBoundary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PublicBenefitCorporationSafetyGovernance": [
     {
       "key": "politics",
       "label": "Politics",
@@ -103245,6 +103287,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "bf8d29dbc7b83c7daefff88e8666657c": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     },
     {
       "key": "politics",

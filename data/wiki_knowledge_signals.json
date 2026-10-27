@@ -3571,9 +3571,9 @@
       "url": "/wiki/concepts/aihumanhybridmatchmaking/"
     },
     "AIIPOValuation": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 6,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -3686,9 +3686,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
+        },
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-27",
       "url": "/wiki/concepts/aiipovaluation/"
     },
     "AIImpactSummitIndia": {
@@ -12120,6 +12127,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/alannewman/"
+    },
+    "AlaskaFisheriesPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/alaskafisheriespolitics/"
     },
     "AlaskaNewsCom": {
       "episode_count": 1,
@@ -23165,6 +23188,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/atomicknowledgeinternationalcontrol/"
+    },
+    "AtomicTimeRedefinition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/atomictimeredefinition/"
     },
     "AtomizedFamilyCareMarketization": {
       "episode_count": 1,
@@ -65170,6 +65209,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/dansnow/"
+    },
+    "DanSullivan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/dansullivan/"
     },
     "DanceAsOpenEmbodiedInquiry": {
       "episode_count": 1,
@@ -185885,6 +185940,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/maryparsons/"
     },
+    "MaryPeltola": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/marypeltola/"
+    },
     "MaryPickersgill": {
       "episode_count": 1,
       "show_count": 1,
@@ -200748,6 +200819,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/nationalinstitutesofhealth/"
+    },
+    "NationalOceanicAndAtmosphericAdministration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/entities/nationaloceanicandatmosphericadministration/"
     },
     "NationalOrthopedicSportsRehabilitationClinicalResearchCenter": {
       "episode_count": 1,
@@ -230916,6 +231003,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/publicattentionagainsttrafficking/"
+    },
+    "PublicBenefitCorporationSafetyGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bf8d29dbc7b83c7daefff88e8666657c [bf8d29dbc7b83c7daefff88e8666657c.mp3？aid=6ae076c0feb8d1e39c686d1a&chid=d556eb54-6160-4.280].md",
+          "key": "bf8d29dbc7b83c7daefff88e8666657c",
+          "show": "Economist Podcasts",
+          "title": "Act of Claude: Anthropic’s IPO bid",
+          "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
+        }
+      ],
+      "updated": "2026-10-27",
+      "url": "/wiki/concepts/publicbenefitcorporationsafetygovernance/"
     },
     "PublicCompanyRegulatoryBurden": {
       "episode_count": 1,

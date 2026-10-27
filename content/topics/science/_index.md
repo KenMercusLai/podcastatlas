@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1611
+topic_total_pages: 1613
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -193,6 +193,9 @@ topic_concepts:
   - key: "AssistedReproductionDecisionLiteracy"
     title: "Assisted Reproduction Decision Literacy"
     url: "/wiki/concepts/assistedreproductiondecisionliteracy/"
+  - key: "AtomicTimeRedefinition"
+    title: "Atomic Time Redefinition"
+    url: "/wiki/concepts/atomictimeredefinition/"
   - key: "AuditoryExperienceDependentCriticalPeriods"
     title: "Auditory Experience-Dependent Critical Periods"
     url: "/wiki/concepts/auditoryexperiencedependentcriticalperiods/"
@@ -3251,6 +3254,9 @@ topic_entities:
   - key: "NathanielBranden"
     title: "Nathaniel Branden / 纳撒尼尔·布兰登"
     url: "/wiki/entities/nathanielbranden/"
+  - key: "NationalOceanicAndAtmosphericAdministration"
+    title: "National Oceanic and Atmospheric Administration"
+    url: "/wiki/entities/nationaloceanicandatmosphericadministration/"
   - key: "NationalScienceFoundation"
     title: "National Science Foundation"
     url: "/wiki/entities/nationalsciencefoundation/"

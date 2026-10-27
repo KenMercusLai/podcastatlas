@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3639
+topic_total_pages: 3640
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9351,6 +9351,9 @@ topic_sources:
   - key: "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128"
     title: "A tech company that 'happens to build homes'"
     url: "/wiki/sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128/"
+  - key: "bf8d29dbc7b83c7daefff88e8666657c"
+    title: "Act of Claude: Anthropic’s IPO bid"
+    url: "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
   - key: "defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490"
     title: "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today"
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"

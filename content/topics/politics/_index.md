@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3405
+topic_total_pages: 3410
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "AirportRouteSubsidyUrbanBranding"
     title: "Airport Route Subsidy Urban Branding / 航线补贴与城市国际化"
     url: "/wiki/concepts/airportroutesubsidyurbanbranding/"
+  - key: "AlaskaFisheriesPolitics"
+    title: "Alaska Fisheries Politics"
+    url: "/wiki/concepts/alaskafisheriespolitics/"
   - key: "AlgorithmicTrustMigration"
     title: "Algorithmic Trust Migration"
     url: "/wiki/concepts/algorithmictrustmigration/"
@@ -3601,6 +3604,9 @@ topic_concepts:
   - key: "PublicVotingElectoralCoercion"
     title: "Public Voting and Electoral Coercion"
     url: "/wiki/concepts/publicvotingelectoralcoercion/"
+  - key: "PublicBenefitCorporationSafetyGovernance"
+    title: "Public-Benefit Corporation Safety Governance"
+    url: "/wiki/concepts/publicbenefitcorporationsafetygovernance/"
   - key: "PublicBenefitPrivateValueCapture"
     title: "Public-Benefit Private Value Capture"
     url: "/wiki/concepts/publicbenefitprivatevaluecapture/"
@@ -6005,6 +6011,9 @@ topic_entities:
   - key: "DanDavies"
     title: "Dan Davies"
     url: "/wiki/entities/dandavies/"
+  - key: "DanSullivan"
+    title: "Dan Sullivan"
+    url: "/wiki/entities/dansullivan/"
   - key: "DanielFranklin"
     title: "Daniel Franklin"
     url: "/wiki/entities/danielfranklin/"
@@ -7145,6 +7154,9 @@ topic_entities:
   - key: "MartyGruenberg"
     title: "Marty Gruenberg"
     url: "/wiki/entities/martygruenberg/"
+  - key: "MaryPeltola"
+    title: "Mary Peltola"
+    url: "/wiki/entities/marypeltola/"
   - key: "MattMahan"
     title: "Matt Mahan"
     url: "/wiki/entities/mattmahan/"
@@ -9162,6 +9174,9 @@ topic_sources:
   - key: "tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128"
     title: "A whiplash year for electric vehicles"
     url: "/wiki/sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128/"
+  - key: "bf8d29dbc7b83c7daefff88e8666657c"
+    title: "Act of Claude: Anthropic’s IPO bid"
+    url: "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360"
     title: "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"

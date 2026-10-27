@@ -8507,6 +8507,10 @@
     "title": "Alaska / 阿拉斯加",
     "url": "/wiki/entities/alaska/"
   },
+  "AlaskaFisheriesPolitics": {
+    "title": "Alaska Fisheries Politics",
+    "url": "/wiki/concepts/alaskafisheriespolitics/"
+  },
   "AlaskaNewsCom": {
     "title": "alaskanews.com",
     "url": "/wiki/entities/alaskanewscom/"
@@ -11770,6 +11774,10 @@
   "AtomicKnowledgeInternationalControl": {
     "title": "International Control of Atomic Knowledge",
     "url": "/wiki/concepts/atomicknowledgeinternationalcontrol/"
+  },
+  "AtomicTimeRedefinition": {
+    "title": "Atomic Time Redefinition",
+    "url": "/wiki/concepts/atomictimeredefinition/"
   },
   "AtomizedFamilyCareMarketization": {
     "title": "Atomized-Family Care Marketization / 家庭原子化与照护市场化",
@@ -25222,6 +25230,10 @@
   "DanSnow": {
     "title": "Dan Snow",
     "url": "/wiki/entities/dansnow/"
+  },
+  "DanSullivan": {
+    "title": "Dan Sullivan",
+    "url": "/wiki/entities/dansullivan/"
   },
   "DanWang": {
     "title": "Dan Wang",
@@ -59415,6 +59427,10 @@
     "title": "Mary Pat Campbell",
     "url": "/wiki/entities/marypatcampbell/"
   },
+  "MaryPeltola": {
+    "title": "Mary Peltola",
+    "url": "/wiki/entities/marypeltola/"
+  },
   "MaryPickersgill": {
     "title": "Mary Pickersgill",
     "url": "/wiki/entities/marypickersgill/"
@@ -64070,6 +64086,10 @@
   "NationalLeagueForDemocracy": {
     "title": "National League for Democracy",
     "url": "/wiki/entities/nationalleaguefordemocracy/"
+  },
+  "NationalOceanicAndAtmosphericAdministration": {
+    "title": "National Oceanic and Atmospheric Administration",
+    "url": "/wiki/entities/nationaloceanicandatmosphericadministration/"
   },
   "NationalOrthopedicSportsRehabilitationClinicalResearchCenter": {
     "title": "国家骨科与运动康复临床医学研究中心 / National Clinical Research Center for Orthopedics, Sports Medicine and Rehabilitation",
@@ -73190,6 +73210,10 @@
   "PublicAttentionAgainstTrafficking": {
     "title": "反拐公共关注 / Public Attention Against Trafficking",
     "url": "/wiki/concepts/publicattentionagainsttrafficking/"
+  },
+  "PublicBenefitCorporationSafetyGovernance": {
+    "title": "Public-Benefit Corporation Safety Governance",
+    "url": "/wiki/concepts/publicbenefitcorporationsafetygovernance/"
   },
   "PublicBenefitPrivateValueCapture": {
     "title": "Public-Benefit Private Value Capture",
@@ -103854,6 +103878,10 @@
   "betty-boop-excel-olympics-penny-isms-our-2026-valentines": {
     "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",
     "url": "/wiki/sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines/"
+  },
+  "bf8d29dbc7b83c7daefff88e8666657c": {
+    "title": "Act of Claude: Anthropic’s IPO bid",
+    "url": "/wiki/sources/bf8d29dbc7b83c7daefff88e8666657c/"
   },
   "bff406f4": {
     "title": "Bootstrapping From a $500K Goal to a $50M Company",

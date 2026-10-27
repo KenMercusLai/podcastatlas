@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10813
+wiki_total_pages: 10816
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1880,6 +1880,9 @@ wiki_pages:
   - key: "AkutagawaSalvationProblem"
     title: "Akutagawa Salvation Problem / 芥川式救赎问题"
     url: "/wiki/concepts/akutagawasalvationproblem/"
+  - key: "AlaskaFisheriesPolitics"
+    title: "Alaska Fisheries Politics"
+    url: "/wiki/concepts/alaskafisheriespolitics/"
   - key: "AlbedoFeedback"
     title: "Albedo Feedback"
     url: "/wiki/concepts/albedofeedback/"
@@ -2834,6 +2837,9 @@ wiki_pages:
   - key: "AtomicContentGuardrails"
     title: "Atomic Content Guardrails"
     url: "/wiki/concepts/atomiccontentguardrails/"
+  - key: "AtomicTimeRedefinition"
+    title: "Atomic Time Redefinition"
+    url: "/wiki/concepts/atomictimeredefinition/"
   - key: "AtomizedFamilyCareMarketization"
     title: "Atomized-Family Care Marketization / 家庭原子化与照护市场化"
     url: "/wiki/concepts/atomizedfamilycaremarketization/"

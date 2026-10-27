@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10813
+wiki_total_pages: 10816
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2705,6 +2705,9 @@ wiki_pages:
   - key: "PublicWebArchiving"
     title: "Public Web Archiving"
     url: "/wiki/concepts/publicwebarchiving/"
+  - key: "PublicBenefitCorporationSafetyGovernance"
+    title: "Public-Benefit Corporation Safety Governance"
+    url: "/wiki/concepts/publicbenefitcorporationsafetygovernance/"
   - key: "PublicBenefitPrivateValueCapture"
     title: "Public-Benefit Private Value Capture"
     url: "/wiki/concepts/publicbenefitprivatevaluecapture/"
