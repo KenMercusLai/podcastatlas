@@ -37973,3 +37973,11 @@ Added source `cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf3
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | Politicians are afraid to fix taxes. So 100 citizens tried.
+
+Added source `default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693`; created [[ConnecticutCitizensAssembly]], [[HeleneLandemore|Hélène Landemore]], [[SeanScanlon]], [[CitizensAssembly]], [[DeliberativeCivicLearning]], [[ConnecticutLocalFiscalFragmentation]], and [[AdvisoryAssemblyImplementationGap]]; and resynthesized [[PoliticalPluralitySharedWorld]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: a demographically composed citizen body can acquire policy knowledge, develop fairer procedures, sustain disagreement, form civic relationships, and recommend fiscal reforms, but advisory status leaves wording, publication, legislative response, and implementation vulnerable to conventional political gatekeepers. No settled contradiction was adopted. Selection effects, learning gains, friendship, tax burdens, consolidation savings, behavioral responses, and legislative outcomes remain source-scoped because the supplied file is a structured episode summary rather than a transcript, selection protocol, assembly report, participant dataset, fiscal model, or legislative record. The broad [[PlanetMoney]] page and automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening a much larger unchanged evidence inventory or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the age gate required global compaction, and refreshed artifacts validate 4,759 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, and publish validation passed. The full-corpus link scan still reports 48 pre-existing broken-link occurrences outside this ingest's changed pages.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

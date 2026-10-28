@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13763
+wiki_total_pages: 13766
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "CongoReformAssociation"
     title: "Congo Reform Association"
     url: "/wiki/entities/congoreformassociation/"
+  - key: "ConnecticutCitizensAssembly"
+    title: "Connecticut Citizens' Assembly"
+    url: "/wiki/entities/connecticutcitizensassembly/"
   - key: "ConocoPhillips"
     title: "ConocoPhillips"
     url: "/wiki/entities/conocophillips/"

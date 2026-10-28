@@ -7731,6 +7731,10 @@
     "title": "Advisor Role Boundary / 谋士越位",
     "url": "/wiki/concepts/advisorroleboundary/"
   },
+  "AdvisoryAssemblyImplementationGap": {
+    "title": "Advisory Assembly Implementation Gap",
+    "url": "/wiki/concepts/advisoryassemblyimplementationgap/"
+  },
   "Aegler": {
     "title": "Aegler",
     "url": "/wiki/entities/aegler/"
@@ -20827,6 +20831,10 @@
     "title": "Citizen-Soldier Symbolic Legitimacy",
     "url": "/wiki/concepts/citizensoldiersymboliclegitimacy/"
   },
+  "CitizensAssembly": {
+    "title": "Citizens' Assembly",
+    "url": "/wiki/concepts/citizensassembly/"
+  },
   "CityCleta": {
     "title": "City Cleta",
     "url": "/wiki/entities/citycleta/"
@@ -22650,6 +22658,14 @@
   "CongressionalWarPowersConstraint": {
     "title": "Congressional War-Powers Constraint",
     "url": "/wiki/concepts/congressionalwarpowersconstraint/"
+  },
+  "ConnecticutCitizensAssembly": {
+    "title": "Connecticut Citizens' Assembly",
+    "url": "/wiki/entities/connecticutcitizensassembly/"
+  },
+  "ConnecticutLocalFiscalFragmentation": {
+    "title": "Connecticut Local Fiscal Fragmentation",
+    "url": "/wiki/concepts/connecticutlocalfiscalfragmentation/"
   },
   "ConnectomicsWiringDiagramMethod": {
     "title": "Connectomics Wiring-Diagram Method",
@@ -26566,6 +26582,10 @@
   "DeliberateVisualSnapshotEncoding": {
     "title": "Deliberate Visual Snapshot Encoding",
     "url": "/wiki/concepts/deliberatevisualsnapshotencoding/"
+  },
+  "DeliberativeCivicLearning": {
+    "title": "Deliberative Civic Learning",
+    "url": "/wiki/concepts/deliberativeciviclearning/"
   },
   "Delicious": {
     "title": "Delicious",
@@ -42074,6 +42094,10 @@
   "HeleneHanff": {
     "title": "Helene Hanff / 海莲·汉芙",
     "url": "/wiki/entities/helenehanff/"
+  },
+  "HeleneLandemore": {
+    "title": "Hélène Landemore",
+    "url": "/wiki/entities/helenelandemore/"
   },
   "HeleneLangevin": {
     "title": "Helene Langevin",
@@ -80043,6 +80067,10 @@
     "title": "Sean Parker",
     "url": "/wiki/entities/seanparker/"
   },
+  "SeanScanlon": {
+    "title": "Sean Scanlon",
+    "url": "/wiki/entities/seanscanlon/"
+  },
   "SearchAdTrustGap": {
     "title": "Search Ad Trust Gap",
     "url": "/wiki/concepts/searchadtrustgap/"
@@ -104554,6 +104582,10 @@
   "default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266": {
     "title": "Anatomy of a movie market",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266-default-mp3-ywr3ahjkcgo-20c3269bc63dde599e9e1898d7da833b-33908266/"
+  },
+  "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693": {
+    "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
   },
   "default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952": {
     "title": "Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan",

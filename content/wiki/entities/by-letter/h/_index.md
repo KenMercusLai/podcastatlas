@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13763
+wiki_total_pages: 13766
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "Hebertists"
     title: "Hébertists"
     url: "/wiki/entities/hebertists/"
+  - key: "HeleneLandemore"
+    title: "Hélène Landemore"
+    url: "/wiki/entities/helenelandemore/"
   - key: "HowChinaEscapedPovertyTrap"
     title: "《中国如何跳出贫困陷阱》 / How China Escaped the Poverty Trap"
     url: "/wiki/entities/howchinaescapedpovertytrap/"

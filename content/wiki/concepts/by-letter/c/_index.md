@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10848
+wiki_total_pages: 10852
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1172,6 +1172,9 @@ wiki_pages:
   - key: "CitizenSoldierSymbolicLegitimacy"
     title: "Citizen-Soldier Symbolic Legitimacy"
     url: "/wiki/concepts/citizensoldiersymboliclegitimacy/"
+  - key: "CitizensAssembly"
+    title: "Citizens' Assembly"
+    url: "/wiki/concepts/citizensassembly/"
   - key: "CityCommercialObservation"
     title: "City Commercial Observation"
     url: "/wiki/concepts/citycommercialobservation/"
@@ -2147,6 +2150,9 @@ wiki_pages:
   - key: "CongressionalWarPowersConstraint"
     title: "Congressional War-Powers Constraint"
     url: "/wiki/concepts/congressionalwarpowersconstraint/"
+  - key: "ConnecticutLocalFiscalFragmentation"
+    title: "Connecticut Local Fiscal Fragmentation"
+    url: "/wiki/concepts/connecticutlocalfiscalfragmentation/"
   - key: "ConnectomicsWiringDiagramMethod"
     title: "Connectomics Wiring-Diagram Method"
     url: "/wiki/concepts/connectomicswiringdiagrammethod/"

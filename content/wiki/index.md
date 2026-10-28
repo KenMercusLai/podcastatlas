@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Politicians are afraid to fix taxes. So 100 citizens tried.](sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693.md) — Planet Money follows a 100-resident Connecticut citizens' assembly from fiscal learning and deliberation through tax recommendations, publication conflict, and the limits of advisory power.
 - [Bye bye Bibi? Israel’s election results](sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811.md) — The Intelligence on Israel’s coalition deadlock, Jon Ossoff’s constituent-service campaign model, and measured critic–audience film-rating alignment.
 - [能源转型进入下半场：当环保与经济增长不再是二选一](sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais.md) — 不合时宜以电气技术革命连接清洁供给、终端电气化、系统灵活性、制造学习、经济采用与制度公平。
 - [Vol. 176 Hello, hello. 你iPhone Duo了吗？](sources/podcast176-v1-podcast176-v1.md) — 枫言枫语 first-week iPhone Duo review on primary-device substitution, eSIM switching, app adaptation, durability anxiety, large-screen uses, and developer testing.
@@ -4864,6 +4865,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [從康乃爾到斯坦福，校園性暴力為何難追責？](sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616.md) — 端聞以康乃爾、佛州州立與斯坦福案件分析校內、刑事和民事追責缺口，以及同意能力、兄弟會風險、曝光依賴與性別化同情。
 
 ## Entities
+- [Connecticut Citizens' Assembly](entities/ConnecticutCitizensAssembly.md) — 100-resident deliberative body formed to study and recommend Connecticut property-tax reforms.
+- [Hélène Landemore](entities/HeleneLandemore.md) — Political scientist who helped design the Connecticut assembly and defended its sortition, learning, and publication principles.
+- [Sean Scanlon](entities/SeanScanlon.md) — Connecticut comptroller who sponsored the assembly and became the gatekeeper in its pre-election publication dispute.
 - [Kate Manne](entities/KateManne.md) — 哲學學者，其概念被用來分析對男性加害者未來的過度同情與受害者損失的低可見度。
 - [Chanel Miller](entities/ChanelMiller.md) — 斯坦福性侵案受害者與《Know My Name》作者，使性暴力的長期生活與程序成本獲得公共可見性。
 - [Kip Polly](entities/KipPolly.md) — Haunted-attraction technical director integrating manufacturing engineering, effects, maintenance, entrepreneurship, and creative design.
@@ -18709,6 +18713,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Citizens' Assembly](concepts/CitizensAssembly.md) — Sortition-based deliberative institution combining demographic composition, policy learning, public judgment, and recommendation.
+- [Deliberative Civic Learning](concepts/DeliberativeCivicLearning.md) — Development of policy and procedural competence through shared instruction, diverse experience, and repeated deliberation.
+- [Connecticut Local Fiscal Fragmentation](concepts/ConnecticutLocalFiscalFragmentation.md) — Relationship among municipal fragmentation, separate school systems, duplicated services, limited state redistribution, and local property-tax pressure.
+- [Advisory Assembly Implementation Gap](concepts/AdvisoryAssemblyImplementationGap.md) — Distance between citizen recommendations and the drafting, publication, response, and binding state action needed to implement them.
 - [Fraternity-Party Sexual-Violence Risk / 兄弟會派對性暴力風險結構](concepts/FraternityPartySexualViolenceRisk.md) — 群體忠誠、派對空間、酒精控制與旁觀沉默共同形成的組織風險，且不以群體身分推定個人責任。
 - [Gendered Perpetrator Sympathy / 性別化加害者同情](concepts/GenderedPerpetratorSympathy.md) — 被告未來易被具體衡量、受害者長期損失較難獲得同等注意的性別化責任偏差。
 - [Audience-Invisible Experience Technology](concepts/AudienceInvisibleExperienceTechnology.md) — Design principle in which complex show-control infrastructure recedes behind coherent story, timing, sensation, and live performance.

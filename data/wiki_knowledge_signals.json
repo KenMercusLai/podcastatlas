@@ -9598,6 +9598,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/adviserstatearchitecture/"
     },
+    "AdvisoryAssemblyImplementationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/advisoryassemblyimplementationgap/"
+    },
     "Aeneas": {
       "episode_count": 1,
       "show_count": 1,
@@ -50956,6 +50972,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/citizensoldiersymboliclegitimacy/"
     },
+    "CitizensAssembly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/citizensassembly/"
+    },
     "CityPlacePremium": {
       "episode_count": 1,
       "show_count": 1,
@@ -57331,6 +57363,38 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/congressionalwarpowersconstraint/"
+    },
+    "ConnecticutCitizensAssembly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/connecticutcitizensassembly/"
+    },
+    "ConnecticutLocalFiscalFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/connecticutlocalfiscalfragmentation/"
     },
     "ConnectomicsWiringDiagramMethod": {
       "episode_count": 1,
@@ -69973,6 +70037,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/deliberatevisualsnapshotencoding/"
+    },
+    "DeliberativeCivicLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/deliberativeciviclearning/"
     },
     "DeliveryBufferDiscipline": {
       "episode_count": 1,
@@ -126234,6 +126314,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/helenthompson/"
+    },
+    "HeleneLandemore": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/helenelandemore/"
     },
     "HeleneLangevin": {
       "episode_count": 1,
@@ -223836,9 +223932,9 @@
       "url": "/wiki/concepts/politicalplatformadgatekeeping/"
     },
     "PoliticalPluralitySharedWorld": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ln7i59HzHpigTIxKj-dvWMKQrrSf [ln7i59HzHpigTIxKj-dvWMKQrrSf].md",
@@ -223846,9 +223942,16 @@
           "show": "独树不成林",
           "title": "作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）",
           "url": "/wiki/sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/politicalpluralitysharedworld/"
     },
     "PoliticalRecordDestruction": {
@@ -252142,6 +252245,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/seanparker/"
+    },
+    "SeanScanlon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693 [default.mp3_ywr3ahjkcgo_37d6df278eb4f8aa8a6d7d4b11a5d11a_33480693].md",
+          "key": "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693",
+          "show": "Planet Money",
+          "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/seanscanlon/"
     },
     "SeasonalEventDemandSmoothing": {
       "episode_count": 1,

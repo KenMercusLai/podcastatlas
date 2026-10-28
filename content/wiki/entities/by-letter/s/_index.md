@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13763
+wiki_total_pages: 13766
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "SeanParker"
     title: "Sean Parker"
     url: "/wiki/entities/seanparker/"
+  - key: "SeanScanlon"
+    title: "Sean Scanlon"
+    url: "/wiki/entities/seanscanlon/"
   - key: "SeasteadingInstitute"
     title: "Seasteading Institute"
     url: "/wiki/entities/seasteadinginstitute/"
