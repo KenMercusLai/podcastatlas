@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10830
+wiki_total_pages: 10835
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "LongHorizonMarketIteration"
     title: "Long-Horizon Market Iteration / 长周期市场迭代"
     url: "/wiki/concepts/longhorizonmarketiteration/"
+  - key: "LongHorizonProductIncubation"
+    title: "Long-Horizon Product Incubation"
+    url: "/wiki/concepts/longhorizonproductincubation/"
   - key: "LongHorizonWorkEvaluation"
     title: "Long-Horizon Work Evaluation / 长时间尺度工作评估"
     url: "/wiki/concepts/longhorizonworkevaluation/"

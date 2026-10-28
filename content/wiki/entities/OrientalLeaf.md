@@ -4,35 +4,43 @@ type: entity
 tags: [product, beverage, tea, china]
 sources:
   - waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590
-last_updated: 2026-08-27
+  - fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd
+last_updated: 2026-10-28
 knowledge_schema: synthesis-v1
 ---
 
 # Oriental Leaf / 东方树叶
 
 ## Overview
-Oriental Leaf / 东方树叶 is the unsweetened tea-drink product line named in [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] as a major growth driver for [[NongfuSpring|农夫山泉]].
+Oriental Leaf / 东方树叶 is [[NongfuSpring|农夫山泉]]'s unsweetened-tea product line and the wiki's clearest current case of [[LongHorizonProductIncubation|long-horizon product incubation]] in Chinese beverages.
 
 ## Current Profile
-The source treats Oriental Leaf as evidence that unsweetened tea has moved from a small niche toward a more accepted beverage category. Its importance is not only product growth, but also the way it shifts Nongfu Spring's growth story away from reliance on packaged water.
+Launched in 2011 as an early zero-sugar, zero-calorie pure tea, Oriental Leaf reportedly faced poor early reception and years of losses before unsweetened tea became more accepted. Current evidence presents it as a major tea-growth branch that improves Nongfu Spring's portfolio mix while packaged water grows more slowly under price pressure.
 
 ## Key Characteristics
-- Oriental Leaf is tied to the wider normalization of unsweetened tea drinks in China.
-- It functions as a higher-growth branch inside [[NongfuSpring|农夫山泉]]'s beverage portfolio.
-- The product sits in a more competitive ready-to-drink beverage market as consumer acceptance rises.
+- Entered unsweetened ready-to-drink tea before the category had broad consumer acceptance.
+- Remained in the portfolio through an episode-reported seven years of losses.
+- Benefited later from greater health awareness and demand for zero-sugar beverages.
+- Became a higher-growth counterweight to packaged water.
+- Competes in an increasingly accepted and contested ready-to-drink category.
 
 ## Evidence
-- Category growth: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] says the tea-drink category grew strongly and identifies Oriental Leaf's unsweetened-tea segment as important.
-- Portfolio role: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] contrasts tea-drink growth with slower packaged-water growth.
-- Competitive setting: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] notes that the once-smaller unsweetened-tea market has become more accepted and more contested.
+- Launch and incubation: [[fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd]] dates the launch to 2011 and reports poor reception, sustained losses, and continued company support.
+- Demand shift: [[fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd]] links later opportunity to health attention and zero-sugar demand.
+- Current portfolio role: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] identifies tea drinks and Oriental Leaf as a growth driver while packaged water grows more slowly.
+- Competitive setting: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] says the once-smaller unsweetened-tea market has become more accepted and contested.
 
 ## Qualifications
-The source does not break out Oriental Leaf's exact financial contribution or compare it with all competing unsweetened-tea brands.
+The sources do not independently verify the seven-year loss period, exact revenue contribution, product-level margin, causal role of the public-health period, or performance against all competitors. Later success creates survivorship bias and does not prove every weak early product should be retained.
 
 ## What Changed
-- Created Oriental Leaf as the product anchor for Nongfu Spring's unsweetened-tea growth branch.
+- Added the 2011 launch and weak early reception to the current product profile.
+- Reframed the product as a qualified long-horizon incubation case.
+- Connected historical patience to its present role offsetting packaged-water pressure.
 
 ## Relationships
-- [[NongfuSpring|农夫山泉]] - owner relationship and portfolio context.
-- [[BeverageCategoryConvergence]] - category relationship as tea drinks compete with adjacent beverage habits.
-- [[PackagedWaterPriceWar]] - contrast relationship because tea growth offsets pressure in packaged water.
+- [[NongfuSpring|农夫山泉]] - owner and portfolio relationship.
+- [[ZhongShanshan|钟睒睒]] - controlling founder associated with product patience.
+- [[LongHorizonProductIncubation]] - core product-strategy relationship.
+- [[PackagedWaterPriceWar]] - contrast relationship because tea growth offsets water pressure.
+- [[BeverageCategoryConvergence]] - adjacent beverage occasions and expanding competition.

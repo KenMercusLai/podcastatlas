@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [风味吃喝：农夫山泉，钟睒睒如何三度问鼎中国首富](sources/fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd.md) — 大小电波梳理钟睒睒、养生堂与农夫山泉，以大包装切入、天然水争议、饮料矩阵、东方树叶长期培育、现金流和股权控制解释消费品牌扩张。
 - [372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》](sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr.md) — 独树不成林以马洛《浮士德博士的悲剧》区分技术能力与人生目的、更多选择与反思自由、短期能力与长期依赖，以及逼真模拟与真实理解。
 - [373-培根是不是在四百年前已经预想出了硅谷的技术乌托邦？《新大西岛》](sources/373-peigen-shibushi-zai-sibai-nianqian-yijing-yuxiang-chule-guigu-de-jishu-wutuobang-xin-daxidao-lljou2j4mzbbj40mf-2ibrx-04ui9.md) — 独树不成林以培根《新大西岛》讨论组织化科学、知识基础设施权力、技术保密、专家自治与公共问责。
 - [Leadership Beyond Strategy With Pilar Mendiola Fernandez | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952-default-mp3-ywr3ahjkcgo-4373ce96943021ca49ae0133e4030078-81739952.md) — Tomorrow Today interview on CEOX, executive identity reinvention, curiosity, cross-cultural localization, specialist literacy, sustainability, and human-centered AI adaptation.
@@ -4855,6 +4856,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP391-当AI完成所有工作，一个人应当如何证明自己的价值？](sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q.md) — 无时差研究所以旅行、创作、分析和多智能体案例讨论源头信息、耐久技能、验收标准及人在 AI 执行链中的目标与判断责任。
 
 ## Entities
+- [钟睒睒 / Zhong Shanshan](entities/ZhongShanshan.md) — Journalist-turned-founder whose concentrated ownership joins Yangshengtang, Nongfu Spring, and Wantai Biological.
+- [养生堂 / Yangshengtang](entities/Yangshengtang.md) — Consumer-health company that supplied Zhong's early commercial base and later served as an ownership vehicle.
+- [万泰生物 / Wantai Biological](entities/WantaiBiological.md) — Biotech company included in the episode's account of Zhong's controlled asset portfolio.
 - [Doctor Faustus / 《浮士德博士的悲剧》 (Marlowe)](entities/DoctorFaustusMarlowe.md) — Marlowe tragedy in which unlimited intellectual ambition becomes a bargain exchanging future agency for spectacle and bounded power.
 - [Doctor Faustus / 福士德 (Marlowe character)](entities/FaustusMarlowe.md) — Scholar who gains extraordinary external options while losing purpose, sustained reflection, and control over his future.
 - [Mephistopheles / 梅菲斯特 (Marlowe)](entities/MephistophelesMarlowe.md) — Apparent demonic servant whose restricted answers, diversions, and final enforcement expose the bargain's reversed dependency.
@@ -18684,6 +18688,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Category Beachhead Entry](concepts/CategoryBeachheadEntry.md) — Entering a mature market through a narrower package, occasion, user, or channel before expanding into the mass category.
+- [Controversy-Driven Category Positioning](concepts/ControversyDrivenCategoryPositioning.md) — Using a sharp comparative claim and ensuing opposition to make a category distinction salient, with explicit truth and legal boundaries.
+- [Long-Horizon Product Incubation](concepts/LongHorizonProductIncubation.md) — Retaining a weak early product while category habits or portfolio value mature, subject to evidence and survivorship-bias limits.
+- [Brand Narrative Evolution](concepts/BrandNarrativeEvolution.md) — Widening brand meaning from a concrete product difference toward a durable idea, place, or value system.
+- [Cash-Flow-Backed Founder Control](concepts/CashFlowBackedFounderControl.md) — Governance autonomy sustained by internal cash generation that reduces dependence on dilutive outside capital.
 - [Reflective Desire Autonomy / 反思欲望的自主性](concepts/ReflectiveDesireAutonomy.md) — Freedom to examine, rank, revise, or refuse desires and redirect life, rather than merely receiving or satisfying more options.
 - [Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡](concepts/TechnologyDependencyAgencyTradeoff.md) — Pattern where a system enlarges present capability while making future choice, inquiry, continuity, or exit more dependent on it.
 - [Simulation–Understanding Boundary / 模拟与理解边界](concepts/SimulationUnderstandingBoundary.md) — Distinction between convincing representation and restored identity, causal explanation, or historically grounded understanding.

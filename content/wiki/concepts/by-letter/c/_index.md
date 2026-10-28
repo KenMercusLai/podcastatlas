@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10830
+wiki_total_pages: 10835
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "CashCowStrategicInertia"
     title: "Cash Cow Strategic Inertia"
     url: "/wiki/concepts/cashcowstrategicinertia/"
+  - key: "CashFlowBackedFounderControl"
+    title: "Cash-Flow-Backed Founder Control"
+    url: "/wiki/concepts/cashflowbackedfoundercontrol/"
   - key: "CastleBasedPrivateLordship"
     title: "Castle-Based Private Lordship"
     url: "/wiki/concepts/castlebasedprivatelordship/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "CatastrophicFailureRootCauseInvestigation"
     title: "Catastrophic Failure Root-Cause Investigation"
     url: "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
+  - key: "CategoryBeachheadEntry"
+    title: "Category Beachhead Entry"
+    url: "/wiki/concepts/categorybeachheadentry/"
   - key: "CategoryCreation"
     title: "Category Creation"
     url: "/wiki/concepts/categorycreation/"
@@ -2507,6 +2513,9 @@ wiki_pages:
   - key: "ControversialLaunchVirality"
     title: "Controversial Launch Virality"
     url: "/wiki/concepts/controversiallaunchvirality/"
+  - key: "ControversyDrivenCategoryPositioning"
+    title: "Controversy-Driven Category Positioning"
+    url: "/wiki/concepts/controversydrivencategorypositioning/"
   - key: "ConversationAsSelfRevelation"
     title: "Conversation As Self-Revelation / 对话作为自我显现"
     url: "/wiki/concepts/conversationasselfrevelation/"

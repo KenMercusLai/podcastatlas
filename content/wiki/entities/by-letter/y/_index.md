@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13747
+wiki_total_pages: 13750
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "YakumoHospital"
     title: "八云医院"
     url: "/wiki/entities/yakumohospital/"
+  - key: "Yangshengtang"
+    title: "养生堂 / Yangshengtang"
+    url: "/wiki/entities/yangshengtang/"
   - key: "YangYouji"
     title: "养由基"
     url: "/wiki/entities/yangyouji/"

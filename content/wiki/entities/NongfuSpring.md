@@ -4,37 +4,48 @@ type: entity
 tags: [company, beverage, china, consumer]
 sources:
   - waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590
-last_updated: 2026-08-27
+  - fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd
+last_updated: 2026-10-28
 knowledge_schema: synthesis-v1
 ---
 
 # Nongfu Spring / 农夫山泉
 
 ## Overview
-Nongfu Spring / 农夫山泉 is the Chinese beverage company in [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]], where the source contrasts its fast-growing tea-drink business with slower packaged-water growth.
+Nongfu Spring / 农夫山泉 is a Chinese beverage company founded by [[ZhongShanshan|钟睒睒]], growing from a natural-water challenger into a portfolio spanning packaged water, juice, functional drinks, and tea.
 
 ## Current Profile
-The source presents Nongfu Spring as a beverage company whose growth is increasingly pulled by category expansion rather than only by packaged drinking water. [[OrientalLeaf|东方树叶]] and the unsweetened-tea market give it a higher-growth branch, while water remains exposed to low growth, price competition, and weather-sensitive beverage demand.
+The complete evidence connects historical category creation to current portfolio pressure. Nongfu Spring entered through four-liter household and office water, expanded nationally through taste positioning and distinctive packaging, and made natural water a sharp but legally and scientifically disputed contrast with purified water. It later diversified into products including [[OrientalLeaf|东方树叶]], whose growth now helps offset slower packaged-water performance and price competition.
 
 ## Key Characteristics
-- Nongfu Spring still carries a major packaged-water identity, but this source says water growth was modest.
-- Tea drinks, especially the unsweetened-tea branch around [[OrientalLeaf|东方树叶]], are framed as the main current growth driver.
-- The company sits inside [[BeverageCategoryConvergence]] because bottled tea, water, and other ready-to-drink categories compete for the same consumer occasions.
-- Its packaged-water business is exposed to [[PackagedWaterPriceWar|packaged-water price pressure]] and weather effects on beverage consumption.
+- Used [[CategoryBeachheadEntry|a large-format beachhead]] before competing in portable bottled water.
+- Built recognition through concise product claims, distinctive packaging, and [[BrandNarrativeEvolution|evolving natural-source narratives]].
+- Used [[ControversyDrivenCategoryPositioning|controversial category positioning]] to distinguish natural water, while later returning to purified water.
+- Expanded from packaged water into juice, functional beverages, unsweetened tea, and fruit tea.
+- Uses [[OrientalLeaf|东方树叶]] as a higher-growth branch while packaged water faces [[PackagedWaterPriceWar|price pressure]].
+- Retains concentrated founder ownership supported in the episode by strong cash conversion and limited early outside capital.
 
 ## Evidence
-- Growth driver: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] says tea drinks grew much faster than packaged water and pulled overall growth.
-- Category pressure: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] ties packaged-water pressure to price competition and rainy weather.
-- Brand role: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] identifies [[OrientalLeaf|东方树叶]] as the named product branch inside the unsweetened-tea trend.
+- Market entry and positioning: [[fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd]] traces the four-liter launch, "有点甜" campaign, sports cap, natural-water dispute, and later purified-water return.
+- Portfolio building: [[fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd]] connects Nongfu Orchard, Scream, Oriental Leaf, and Tea Pi to diversification beyond water.
+- Current growth mix: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] says tea drinks grew faster than packaged water and identifies Oriental Leaf as a key branch.
+- Current category pressure: [[waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590]] ties slower water growth to price competition and rainy weather.
+- Ownership and patience: [[fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd]] links cash flow and concentrated ownership to product patience and the 2020 listing.
 
 ## Qualifications
-The source is a short roundup based on company results and market context, not a full financial analysis of Nongfu Spring's margins, channel structure, or competitive position.
+The business-history episode is a structured secondary summary, not a transcript, filing, court judgment, scientific study, or audited dataset. Health claims about water are not adopted; early biography, market shares, margins, valuation, ownership, and causality remain source-scoped. The short news roundup provides only a current snapshot of tea growth and packaged-water pressure.
 
 ## What Changed
-- Created a canonical company page for Nongfu Spring focused on the tea-drink versus packaged-water split.
-- Added packaged-water price pressure as the key qualification to the tea-led growth story.
+- Added the company's historical market-entry and multi-category expansion path.
+- Qualified the natural-water campaign with its unfair-competition finding and scientific dispute.
+- Connected current tea-led growth to Oriental Leaf's long product incubation.
+- Added cash-flow-backed concentrated ownership as a strategic capacity and governance risk.
 
 ## Relationships
-- [[OrientalLeaf|东方树叶]] - product branch used to explain the unsweetened-tea growth driver.
-- [[BeverageCategoryConvergence]] - market relationship where tea drinks, coffee, bottled beverages, and water compete for adjacent occasions.
-- [[PackagedWaterPriceWar]] - pricing-pressure relationship affecting Nongfu Spring's older core category.
+- [[ZhongShanshan|钟睒睒]] - founder and controlling-owner relationship.
+- [[Yangshengtang|养生堂]] - predecessor business and indirect ownership relationship.
+- [[OrientalLeaf|东方树叶]] - long-incubated tea product and current growth branch.
+- [[CategoryBeachheadEntry]] - market-entry relationship through four-liter water.
+- [[ControversyDrivenCategoryPositioning]] - natural-water differentiation and legal-risk relationship.
+- [[LongHorizonProductIncubation]] - product-patience relationship.
+- [[PackagedWaterPriceWar]] - current pressure on the historical core category.

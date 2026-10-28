@@ -37910,3 +37910,11 @@ Added source `ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zheng
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | 风味吃喝：农夫山泉，钟睒睒如何三度问鼎中国首富
+
+Added source `fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd`; created [[ZhongShanshan|钟睒睒]], [[Yangshengtang|养生堂]], [[WantaiBiological|万泰生物]], [[CategoryBeachheadEntry]], [[ControversyDrivenCategoryPositioning]], [[LongHorizonProductIncubation]], [[BrandNarrativeEvolution]], and [[CashFlowBackedFounderControl]]; and resynthesized [[NongfuSpring|农夫山泉]] and [[OrientalLeaf|东方树叶]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Nongfu Spring used a four-liter household and office beachhead before mass portable water, converted a legally and scientifically disputed natural-water comparison into category salience, expanded into a broader beverage portfolio, retained Oriental Leaf through weak early economics until unsweetened tea demand improved, and used cash generation plus concentrated ownership to support patient decisions. No settled contradiction was flattened: the unfair-competition finding and scientific criticism remain explicit, the later return to purified water is recorded as a strategic reversal, and early biography, health claims, market shares, margins, valuation, wealth, ownership, and causal explanations remain episode-attributed because the supplied file is a structured summary rather than a transcript, filing, judgment, scientific study, or audited dataset. Broad [[FounderControl]], [[ConsumerBrandMoat]], [[DaxiaoDianbo|大小电波]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,751 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
