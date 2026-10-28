@@ -30476,9 +30476,9 @@
       "url": "/wiki/entities/benjaminlay/"
     },
     "BenjaminNetanyahu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
@@ -30514,9 +30514,16 @@
           "show": "Economist Podcasts",
           "title": "You've come a long way, Bibi: Israel's crucial election",
           "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
+        },
+        {
+          "episode_file": "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+          "key": "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811",
+          "show": "Economist Podcasts",
+          "title": "Bye bye Bibi? Israel’s election results",
+          "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
         }
       ],
-      "updated": "2026-08-24",
+      "updated": "2026-10-28",
       "url": "/wiki/entities/benjaminnetanyahu/"
     },
     "Benkei": {
@@ -52715,6 +52722,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/coproducedscarcityprestige/"
     },
+    "CoalitionExclusionDeadlock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+          "key": "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811",
+          "show": "Economist Podcasts",
+          "title": "Bye bye Bibi? Israel’s election results",
+          "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/coalitionexclusiondeadlock/"
+    },
     "CoalitionFractureExploitation": {
       "episode_count": 6,
       "show_count": 1,
@@ -57958,6 +57981,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/constituentnationsportingidentity/"
     },
+    "ConstituentServiceCampaignBridge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+          "key": "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811",
+          "show": "Economist Podcasts",
+          "title": "Bye bye Bibi? Israel’s election results",
+          "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/constituentservicecampaignbridge/"
+    },
     "ConstitutionHillJohannesburg": {
       "episode_count": 1,
       "show_count": 1,
@@ -62298,6 +62337,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/cristianolimastrong/"
+    },
+    "CriticAudienceRatingAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+          "key": "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811",
+          "show": "Economist Podcasts",
+          "title": "Bye bye Bibi? Israel’s election results",
+          "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/criticaudienceratingalignment/"
     },
     "CriticalJudgmentPersonalPreference": {
       "episode_count": 3,
@@ -146837,6 +146892,43 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/israel/"
     },
+    "IsraeliElection2026": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "You’ve come a long way, Bibi： Israel’s crucial election [6a59f9ae461a6a41901ae410].md",
+          "key": "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410",
+          "show": "Economist Podcasts",
+          "title": "You've come a long way, Bibi: Israel's crucial election",
+          "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
+        },
+        {
+          "episode_file": "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+          "key": "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811",
+          "show": "Economist Podcasts",
+          "title": "Bye bye Bibi? Israel’s election results",
+          "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/israelielection2026/"
+    },
     "IstvanTisza": {
       "episode_count": 2,
       "show_count": 1,
@@ -154732,6 +154824,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/jointsymptomescalation/"
+    },
+    "JonOssoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+          "key": "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811",
+          "show": "Economist Podcasts",
+          "title": "Bye bye Bibi? Israel’s election results",
+          "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/entities/jonossoff/"
     },
     "JonathanAnderson": {
       "episode_count": 1,

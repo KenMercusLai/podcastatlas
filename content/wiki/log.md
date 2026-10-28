@@ -37950,3 +37950,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-28] ingest | Bye bye Bibi? Israel’s election results
+
+Added source `bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811`; created [[JonOssoff]], [[CoalitionExclusionDeadlock]], [[ConstituentServiceCampaignBridge]], and [[CriticAudienceRatingAlignment]]; and resynthesized [[IsraeliElection2026]] and [[BenjaminNetanyahu]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Netanyahu’s preliminary losses did not produce a viable alternative because opposition to him coexisted with refusal to depend on Arab parties; Ossoff’s case joins moderate governing work and sustained constituent attention to sharper campaign rhetoric; and critic–audience disagreement is smaller and more category-specific than the stereotype, with renewed convergence and a non-causal association between critical scores and box office. No settled contradiction was adopted. The election count and another-election forecast remain provisional; campaign effects, opponent weakness, and presidential speculation remain source-scoped; and the film analysis does not establish why convergence changed or whether reviews caused sales. Broad show, country, party, political-figure, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening much larger unchanged inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,756 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -21447,6 +21447,10 @@
     "title": "Coalfire",
     "url": "/wiki/entities/coalfire/"
   },
+  "CoalitionExclusionDeadlock": {
+    "title": "Coalition Exclusion Deadlock",
+    "url": "/wiki/concepts/coalitionexclusiondeadlock/"
+  },
   "CoalitionFractureExploitation": {
     "title": "Coalition Fracture Exploitation / 联盟裂缝利用",
     "url": "/wiki/concepts/coalitionfractureexploitation/"
@@ -22815,6 +22819,10 @@
     "title": "Constituent Nation Sporting Identity",
     "url": "/wiki/concepts/constituentnationsportingidentity/"
   },
+  "ConstituentServiceCampaignBridge": {
+    "title": "Constituent-Service Campaign Bridge",
+    "url": "/wiki/concepts/constituentservicecampaignbridge/"
+  },
   "ConstitutionHillJohannesburg": {
     "title": "Constitution Hill Johannesburg",
     "url": "/wiki/entities/constitutionhilljohannesburg/"
@@ -24134,6 +24142,10 @@
   "CristianoRonaldo": {
     "title": "Cristiano Ronaldo",
     "url": "/wiki/entities/cristianoronaldo/"
+  },
+  "CriticAudienceRatingAlignment": {
+    "title": "Critic–Audience Rating Alignment",
+    "url": "/wiki/concepts/criticaudienceratingalignment/"
   },
   "CriticalJudgmentPersonalPreference": {
     "title": "Critical Judgment And Personal Preference / 批评判断与个人偏好的区分",
@@ -50090,6 +50102,10 @@
   "JollofIndex": {
     "title": "Jollof Index",
     "url": "/wiki/concepts/jollofindex/"
+  },
+  "JonOssoff": {
+    "title": "Jon Ossoff",
+    "url": "/wiki/entities/jonossoff/"
   },
   "JonahConn": {
     "title": "Jonah Conn",
@@ -104206,6 +104222,10 @@
   "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b": {
     "title": "Burning questions: a more fire-prone world",
     "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+  },
+  "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811": {
+    "title": "Bye bye Bibi? Israel’s election results",
+    "url": "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
   },
   "c1f006c2d282-c1f006c2d282": {
     "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",

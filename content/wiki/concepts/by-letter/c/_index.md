@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10842
+wiki_total_pages: 10845
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1457,6 +1457,9 @@ wiki_pages:
   - key: "CoachingIntegratedSoccerAnalytics"
     title: "Coaching-Integrated Soccer Analytics"
     url: "/wiki/concepts/coachingintegratedsocceranalytics/"
+  - key: "CoalitionExclusionDeadlock"
+    title: "Coalition Exclusion Deadlock"
+    url: "/wiki/concepts/coalitionexclusiondeadlock/"
   - key: "CoalitionFractureExploitation"
     title: "Coalition Fracture Exploitation / 联盟裂缝利用"
     url: "/wiki/concepts/coalitionfractureexploitation/"
@@ -2240,6 +2243,9 @@ wiki_pages:
   - key: "ConstituentNationSportingIdentity"
     title: "Constituent Nation Sporting Identity"
     url: "/wiki/concepts/constituentnationsportingidentity/"
+  - key: "ConstituentServiceCampaignBridge"
+    title: "Constituent-Service Campaign Bridge"
+    url: "/wiki/concepts/constituentservicecampaignbridge/"
   - key: "ConstitutionalAccountabilityTrustParadox"
     title: "Constitutional Accountability-Trust Paradox"
     url: "/wiki/concepts/constitutionalaccountabilitytrustparadox/"
@@ -2984,6 +2990,9 @@ wiki_pages:
   - key: "CriticalPeriodLanguageLearning"
     title: "Critical-Period Language Learning"
     url: "/wiki/concepts/criticalperiodlanguagelearning/"
+  - key: "CriticAudienceRatingAlignment"
+    title: "Critic–Audience Rating Alignment"
+    url: "/wiki/concepts/criticaudienceratingalignment/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"

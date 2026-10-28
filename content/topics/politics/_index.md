@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3416
+topic_total_pages: 3420
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -829,6 +829,9 @@ topic_concepts:
   - key: "ClubNationalTeamBoundaryBlur"
     title: "Club-National Team Boundary Blur"
     url: "/wiki/concepts/clubnationalteamboundaryblur/"
+  - key: "CoalitionExclusionDeadlock"
+    title: "Coalition Exclusion Deadlock"
+    url: "/wiki/concepts/coalitionexclusiondeadlock/"
   - key: "CoalitionSelfPreservationFailure"
     title: "Coalition Self-Preservation Failure / 联盟自保失灵"
     url: "/wiki/concepts/coalitionselfpreservationfailure/"
@@ -940,6 +943,9 @@ topic_concepts:
   - key: "ConservativePartyClassRealignment"
     title: "Conservative Party Class Realignment"
     url: "/wiki/concepts/conservativepartyclassrealignment/"
+  - key: "ConstituentServiceCampaignBridge"
+    title: "Constituent-Service Campaign Bridge"
+    url: "/wiki/concepts/constituentservicecampaignbridge/"
   - key: "ConstitutionalAccountabilityTrustParadox"
     title: "Constitutional Accountability-Trust Paradox"
     url: "/wiki/concepts/constitutionalaccountabilitytrustparadox/"
@@ -6815,6 +6821,9 @@ topic_entities:
   - key: "JohnRedmond"
     title: "John Redmond"
     url: "/wiki/entities/johnredmond/"
+  - key: "JonOssoff"
+    title: "Jon Ossoff"
+    url: "/wiki/entities/jonossoff/"
   - key: "JonathanSwift"
     title: "Jonathan Swift / 乔纳森·斯威夫特"
     url: "/wiki/entities/jonathanswift/"
@@ -9273,6 +9282,9 @@ topic_sources:
   - key: "socialradarspod-brianarmstrong-final"
     title: "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience"
     url: "/wiki/sources/socialradarspod-brianarmstrong-final/"
+  - key: "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811"
+    title: "Bye bye Bibi? Israel’s election results"
+    url: "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
   - key: "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128"
     title: "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs"
     url: "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"

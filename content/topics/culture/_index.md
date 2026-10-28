@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3582
+topic_total_pages: 3584
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -973,6 +973,9 @@ topic_concepts:
   - key: "CriticalJudgmentPersonalPreference"
     title: "Critical Judgment And Personal Preference / 批评判断与个人偏好的区分"
     url: "/wiki/concepts/criticaljudgmentpersonalpreference/"
+  - key: "CriticAudienceRatingAlignment"
+    title: "Critic–Audience Rating Alignment"
+    url: "/wiki/concepts/criticaudienceratingalignment/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"
@@ -10056,6 +10059,9 @@ topic_sources:
   - key: "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf"
     title: "Bots on the ground: China leads humanoid race"
     url: "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+  - key: "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811"
+    title: "Bye bye Bibi? Israel’s election results"
+    url: "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
   - key: "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128"
     title: "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books"
     url: "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"

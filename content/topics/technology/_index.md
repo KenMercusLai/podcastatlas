@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3651
+topic_total_pages: 3653
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1768,6 +1768,9 @@ topic_concepts:
   - key: "CrimeStatisticsComparability"
     title: "Crime Statistics Comparability"
     url: "/wiki/concepts/crimestatisticscomparability/"
+  - key: "CriticAudienceRatingAlignment"
+    title: "Critic–Audience Rating Alignment"
+    url: "/wiki/concepts/criticaudienceratingalignment/"
   - key: "CrossBorderInfrastructureTradeTension"
     title: "Cross-Border Infrastructure Trade Tension"
     url: "/wiki/concepts/crossborderinfrastructuretradetension/"
@@ -9555,6 +9558,9 @@ topic_sources:
   - key: "building-things-and-breaking-things-in-china-summer-school-world-tour"
     title: "Building things and breaking things in China (Summer School World Tour)"
     url: "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+  - key: "bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811"
+    title: "Bye bye Bibi? Israel’s election results"
+    url: "/wiki/sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811/"
   - key: "tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128"
     title: "Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network"
     url: "/wiki/sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128/"
