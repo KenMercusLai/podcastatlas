@@ -37934,3 +37934,11 @@ Added source `dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zhet
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | Vol. 176 Hello, hello. 你iPhone Duo了吗？
+
+Added source `podcast176-v1-podcast176-v1`; resynthesized [[IPhoneDuo]], [[FoldablePhoneProductivity]], [[FoldableAppAdaptation]], [[RegionalESIMConstraint]], and [[FoldableHardwareDurability]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: iPhone Duo already offers strong reading, video, image, and tablet-layout value, but both first-week owners kept their old iPhones because eSIM reversal costs, camera quality, 254g weight, heat, privacy, accessories, durability confidence, and uneven apps make primary-device readiness a whole-system test rather than a screen-quality judgment. No settled contradiction was adopted. The new damage reports do not negate the earlier 32,000-fold machine result because neither source establishes fleet failure rates; controlled hinge endurance, isolated failures, and owner anxiety remain separate evidence. Prices, specifications, carrier procedures, app behavior, review rules, battery life, and durability expectations remain source-scoped because the supplied file is a structured first-week summary rather than carrier documentation, platform policy, laboratory testing, or longitudinal ownership research. Broad [[Apple]], [[IPhone]], show, and host pages and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,754 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

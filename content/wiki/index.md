@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 176 Hello, hello. 你iPhone Duo了吗？](sources/podcast176-v1-podcast176-v1.md) — 枫言枫语 first-week iPhone Duo review on primary-device substitution, eSIM switching, app adaptation, durability anxiety, large-screen uses, and developer testing.
 - [达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？](sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj.md) — 声动早咖啡以肯德基改换美国饮料供应商为主线，讨论快餐饮品时段、定制研发、门店复杂度与供应关系松动。
 - [EP136-二聊《浪姐》职场，依然有很多值得记忆的闪光点](sources/ep136-er-liao-lang-jie-zhichang-yiran-you-hen-duo-zhi-de-jiyi-de-shanguangdian-wkg5hf9t5qetspydbxyk6to0ea4442.md) — 无时差研究所从《乘风破浪的姐姐》讨论成熟艺人的职业重启、女性职场互助、资历权力、赛制公信力与粉圈数据劳动。
 - [风味吃喝：农夫山泉，钟睒睒如何三度问鼎中国首富](sources/fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd.md) — 大小电波梳理钟睒睒、养生堂与农夫山泉，以大包装切入、天然水争议、饮料矩阵、东方树叶长期培育、现金流和股权控制解释消费品牌扩张。
