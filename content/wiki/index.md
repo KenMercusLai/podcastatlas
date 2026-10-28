@@ -4860,7 +4860,12 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [EP391-当AI完成所有工作，一个人应当如何证明自己的价值？](sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q.md) — 无时差研究所以旅行、创作、分析和多智能体案例讨论源头信息、耐久技能、验收标准及人在 AI 执行链中的目标与判断责任。
 
+- [The tech behind spooky season](sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128.md) — Marketplace Tech profile of haunted-attraction engineering, hidden show control, live-performance support, and format-dependent pacing.
+
 ## Entities
+- [Kip Polly](entities/KipPolly.md) — Haunted-attraction technical director integrating manufacturing engineering, effects, maintenance, entrepreneurship, and creative design.
+- [13th Floor Entertainment](entities/ThirteenthFloorEntertainment.md) — U.S. haunted-attraction operator combining live performers with coordinated technical production.
+- [Hollywood Haunted Hayride](entities/HollywoodHauntedHayride.md) — Los Angeles Halloween attraction using atmosphere, triggered effects, props, and live performers as one system.
 - [Jon Ossoff](entities/JonOssoff.md) — U.S. senator whose Georgia campaign combines moderate governing work, constituent service, and forceful rhetoric.
 - [PepsiCo](entities/PepsiCo.md) — Beverage-and-snack company whose long-running U.S. KFC supply relationship is ending amid portfolio-focus questions.
 - [《乘风破浪的姐姐》](entities/SistersWhoMakeWaves.md) — 以30岁以上女艺人为主体、同时承载职业展示与传统选秀机制的真人秀节目。
@@ -18701,6 +18706,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Audience-Invisible Experience Technology](concepts/AudienceInvisibleExperienceTechnology.md) — Design principle in which complex show-control infrastructure recedes behind coherent story, timing, sensation, and live performance.
 - [Coalition Exclusion Deadlock](concepts/CoalitionExclusionDeadlock.md) — When an anti-incumbent majority cannot govern because overlapping vetoes exclude pivotal coalition partners.
 - [Constituent-Service Campaign Bridge](concepts/ConstituentServiceCampaignBridge.md) — How repeated practical representation can become cross-party electoral trust.
 - [Critic–Audience Rating Alignment](concepts/CriticAudienceRatingAlignment.md) — Measured agreement in film ratings, separated from review selection and causal claims about box office.

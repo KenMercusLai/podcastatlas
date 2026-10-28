@@ -23642,6 +23642,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/audiencecenteredcommunication/"
     },
+    "AudienceInvisibleExperienceTechnology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261028_1028_MP_TECH_pod_128 [tech_20261028_1028_MP_TECH_pod_128].md",
+          "key": "tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The tech behind spooky season",
+          "url": "/wiki/sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/audienceinvisibleexperiencetechnology/"
+    },
     "AudienceResponsiveDeepDivePodcasting": {
       "episode_count": 2,
       "show_count": 2,
@@ -130234,6 +130250,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/holidaypeaktravelplanning/"
     },
+    "HollywoodHauntedHayride": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261028_1028_MP_TECH_pod_128 [tech_20261028_1028_MP_TECH_pod_128].md",
+          "key": "tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The tech behind spooky season",
+          "url": "/wiki/sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/entities/hollywoodhauntedhayride/"
+    },
     "HollywoodNepotismNetworkAdvantage": {
       "episode_count": 1,
       "show_count": 1,
@@ -138566,9 +138598,9 @@
       "url": "/wiki/concepts/immersiveescaperoomdesign/"
     },
     "ImmersiveExperienceThroughputTradeoff": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIRwOpqAOAIYt2wTpL1p_ [GKwRIRwOpqAOAIYt2wTpL1p_].md",
@@ -138576,9 +138608,16 @@
           "show": "声动早咖啡",
           "title": "高洁丝｜咖啡豆：从万圣节限定到常年项目，环球影城为何押注「惊吓体验」？",
           "url": "/wiki/sources/gaojiesi-kafeidou-cong-wanshengjie-xianding-dao-changnian-xiangmu-huanqiu-yingcheng-weihe-yazhu-jingxia-tiyan-1024529992/"
+        },
+        {
+          "episode_file": "tech_20261028_1028_MP_TECH_pod_128 [tech_20261028_1028_MP_TECH_pod_128].md",
+          "key": "tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The tech behind spooky season",
+          "url": "/wiki/sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-10-28",
       "url": "/wiki/concepts/immersiveexperiencethroughputtradeoff/"
     },
     "ImmigrantLocalOfficeRepresentation": {
@@ -158972,6 +159011,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/kinshipprotocolboundary/"
+    },
+    "KipPolly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261028_1028_MP_TECH_pod_128 [tech_20261028_1028_MP_TECH_pod_128].md",
+          "key": "tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The tech behind spooky season",
+          "url": "/wiki/sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/entities/kippolly/"
     },
     "KipTindell": {
       "episode_count": 1,
@@ -281030,6 +281085,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/thirdromeclaim/"
+    },
+    "ThirteenthFloorEntertainment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261028_1028_MP_TECH_pod_128 [tech_20261028_1028_MP_TECH_pod_128].md",
+          "key": "tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The tech behind spooky season",
+          "url": "/wiki/sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/entities/thirteenthfloorentertainment/"
     },
     "ThomaBravo": {
       "episode_count": 1,

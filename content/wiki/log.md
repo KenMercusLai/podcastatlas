@@ -37957,3 +37957,11 @@ Added source `bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811`; c
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | The tech behind spooky season
+
+Added source `tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128`; created [[KipPolly]], [[ThirteenthFloorEntertainment|13th Floor Entertainment]], [[HollywoodHauntedHayride]], and [[AudienceInvisibleExperienceTechnology]]; and resynthesized [[ImmersiveExperienceThroughputTradeoff]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: haunted-attraction technology creates value by coordinating atmosphere, triggering, multisensory effects, and story while receding behind the guest experience; live performers retain a distinct interpersonal role; and moving versus seated formats allocate scarce time differently between throughput, scene legibility, and slow buildup. No settled contradiction was adopted. Attraction count, investment, career history, timing, operating practice, and audience effects remain episode-scoped because the supplied file is a structured summary rather than a transcript, company record, engineering specification, safety review, or measured guest study. Broad show and general entertainment pages were kept closed because focused pages capture the durable additions without reopening larger unchanged inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,757 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

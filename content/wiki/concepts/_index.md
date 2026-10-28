@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10845
+wiki_total_pages: 10846
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2912,6 +2912,9 @@ wiki_pages:
   - key: "AudienceCenteredCommunication"
     title: "Audience-Centered Communication"
     url: "/wiki/concepts/audiencecenteredcommunication/"
+  - key: "AudienceInvisibleExperienceTechnology"
+    title: "Audience-Invisible Experience Technology"
+    url: "/wiki/concepts/audienceinvisibleexperiencetechnology/"
   - key: "AudienceResponsiveDeepDivePodcasting"
     title: "Audience-Responsive Deep-Dive Podcasting"
     url: "/wiki/concepts/audienceresponsivedeepdivepodcasting/"

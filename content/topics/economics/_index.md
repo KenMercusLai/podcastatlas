@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2318
+topic_total_pages: 2319
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4607,6 +4607,9 @@ topic_entities:
   - key: "Kiko"
     title: "Kiko"
     url: "/wiki/entities/kiko/"
+  - key: "KipPolly"
+    title: "Kip Polly"
+    url: "/wiki/entities/kippolly/"
   - key: "Kissmetrics"
     title: "Kissmetrics"
     url: "/wiki/entities/kissmetrics/"

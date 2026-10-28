@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13758
+wiki_total_pages: 13761
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
     url: "/wiki/entities/twelvegigs/"
+  - key: "ThirteenthFloorEntertainment"
+    title: "13th Floor Entertainment"
+    url: "/wiki/entities/thirteenthfloorentertainment/"
   - key: "ThreeGMobilePhones"
     title: "3G Mobile Phones"
     url: "/wiki/entities/threegmobilephones/"
