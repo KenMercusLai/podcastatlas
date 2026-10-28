@@ -5,7 +5,8 @@ tags: [company, restaurant, fast-food, consumer-brand]
 sources:
   - zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062
   - 148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1
-last_updated: 2026-09-28
+  - dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj
+last_updated: 2026-10-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,42 +14,44 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-KFC appears across the bounded sources as a global chicken-centered fast-food chain whose regional advantage comes from adapting both the product and the operating system: poultry supply and early entry support its African footprint, while China-scale stores and infrastructure support adjacent formats such as [[KPro]].
+KFC appears across the bounded sources as a global chicken-centered fast-food chain whose regional performance depends on turning scale into locally useful products, suppliers, store infrastructure, and customer occasions.
 
 ## Current Profile
 
-The African case presents KFC's advantage over [[McDonalds|McDonald's]] as a fit among chicken demand, local supplier economics, brand meaning, and a [[SouthAfrica]] base established in 1971. The China case adds a different form of localization: KFC's large store network becomes reusable infrastructure for coffee and light food. Together, the sources show that global scale matters when it is converted into region-specific menus, suppliers, store formats, labor, logistics, and customer occasions rather than copied unchanged.
+KFC's African advantage is presented as a fit among chicken demand, supplier economics, brand meaning, and an early [[SouthAfrica]] base. In China, its large network becomes reusable infrastructure for [[KPro]] and light food. The newest U.S. case shows the reverse side of scale: despite reported global growth, KFC's home market is under pressure from newer chicken formats, and the chain plans to replace [[PepsiCo|Pepsi]] with [[CocaCola|Coca-Cola]] while using customized drinks to create off-peak demand. Together, the sources show localization as an operating-system choice rather than simple menu translation.
 
 ## Key Characteristics
 
 - Chicken-centered global fast-food brand whose product identity can fit local protein demand.
 - Early South Africa entrant with a regional management and supply-chain platform.
-- Supplier-development case where poultry can scale more readily than tightly standardized hamburger beef.
-- Large China store network that can host or adjoin new categories and sub-brands.
-- Localization case spanning menu, supply, real estate, labor, logistics, pricing, and brand perception.
+- Large China network that can host adjacent formats and reuse labor, logistics, real estate, and traffic.
+- Pressured U.S. incumbent responding to newer chicken formats and reported sales weakness.
+- Beverage-partnership reset aimed at product development, customer choice, and non-meal visits.
 
 ## Evidence
 
-- African footprint and timing: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] says KFC entered Johannesburg in 1971 and built a much broader sub-Saharan footprint than McDonald's.
-- Protein and supplier fit: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] links bone-in chicken demand, lower poultry startup cost, and vertical integration to KFC's regional scalability.
-- China infrastructure reuse: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] says K Pro can share or adjoin KFC sites and reuse traffic, rent negotiation, staff, cleaning, logistics, ordering, and awareness.
-- Brand extension: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] treats light food as both a new occasion and a possible response to KFC's unhealthy-fast-food image.
+- **Regional protein and supplier fit:** [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] links bone-in chicken demand, lower poultry startup cost, vertical integration, and KFC's 1971 South Africa entry to regional scale.
+- **China infrastructure reuse:** [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] says K Pro can share or adjoin KFC sites and reuse traffic, rent negotiation, staff, cleaning, logistics, ordering, and awareness.
+- **U.S. pressure:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] reports a first-half U.S. sales decline and competition from chicken sandwiches and boneless formats suited to car consumption.
+- **Beverage reset:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] says U.S. stores will begin moving from Pepsi to Coca-Cola in 2027 and links the choice to drink development and a future-sales-growth commitment.
 
 ## Qualifications
 
-The page is bounded to two podcast sources rather than a complete global corporate profile. Store counts, expansion plans, consumer preferences, supply economics, and image effects remain source-scoped. African protein fit and Chinese light-food adjacency are different regional mechanisms and should not be collapsed into one universal playbook.
+The page is bounded to three podcast sources rather than a complete global corporate profile. Regional protein fit, Chinese light-food adjacency, and the U.S. beverage reset are different mechanisms. Store counts, sales, rankings, supplier commitments, customer response, and causal explanations remain source-scoped; international KFC markets are reported to continue serving Pepsi products.
 
 ## What Changed
 
-- Broadened KFC from an Africa protein-and-supply-chain case into a cross-regional localization profile.
-- Added the China network's role as shared infrastructure for K Pro light food.
+- Added the pressured U.S. business and competition from portable chicken formats.
+- Added the planned U.S. supplier change from Pepsi to Coca-Cola.
+- Reframed beverage innovation as a new customer-occasion strategy alongside regional menu and infrastructure localization.
 
 ## Relationships
 
-- [[McDonalds]] - global peer contrasted through African product meaning and beef-supply difficulty.
+- [[McDonalds]] - global peer contrasted through African supply chains and U.S. beverage experimentation.
+- [[PepsiCo]] - former owner and long-running U.S. beverage supplier in the newest source.
+- [[CocaCola]] - incoming U.S. beverage supplier and product-development partner.
 - [[SouthAfrica]] - first African market and regional operating base in the source.
 - [[YumChina]] - local China operator and resource base.
 - [[KPro]] - light-food sub-brand using KFC sites and operating infrastructure.
-- [[ProteinSupplyChainMarketFit]] - African chicken-versus-beef scaling mechanism.
-- [[StoreWithinStoreFoodservice]] - China-side infrastructure-reuse pattern.
+- [[FastFoodBeverageOccasionStrategy]] - off-peak traffic and customized-drink response.
 - [[RestaurantSupplyChainLocalization]] - broader operating concept spanning sourcing, logistics, menu, and execution.

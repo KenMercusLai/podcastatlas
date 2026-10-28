@@ -30809,9 +30809,9 @@
       "url": "/wiki/entities/betterbrain/"
     },
     "BeverageDevelopmentFeasibility": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
@@ -30826,9 +30826,16 @@
           "show": "Planet Money",
           "title": "Where all those weird new drinks are coming from",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-28",
       "url": "/wiki/concepts/beveragedevelopmentfeasibility/"
     },
     "BexleyNaturalMarket": {
@@ -52769,9 +52776,9 @@
       "url": "/wiki/entities/coatue/"
     },
     "CocaCola": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "155.美貌能当饭吃吗？想赚钱该做点啥？拮据时应避免什么行为？经济学思维有什么用？ [920167210].md",
@@ -52807,9 +52814,16 @@
           "show": "Economist Podcasts",
           "title": "Islamism in Britain: what is the threat?",
           "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-28",
       "url": "/wiki/entities/cocacola/"
     },
     "CochlearImplantAuditoryRestoration": {
@@ -96536,6 +96550,52 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/fashionvictimsbook/"
+    },
+    "FastFoodBeverageOccasionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/fastfoodbeverageoccasionstrategy/"
+    },
+    "FastFoodDemandReset": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
+          "key": "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677",
+          "show": "声动早咖啡",
+          "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
+          "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/fastfooddemandreset/"
     },
     "FatFreeMassIndex": {
       "episode_count": 1,
@@ -156450,9 +156510,9 @@
       "url": "/wiki/entities/juvenilemaculardegenerationcarecenter/"
     },
     "KFC": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
@@ -156467,9 +156527,16 @@
           "show": "疯投圈",
           "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
           "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-28",
       "url": "/wiki/entities/kfc/"
     },
     "KGB": {
@@ -187902,9 +187969,9 @@
       "url": "/wiki/entities/mayoclinic/"
     },
     "McDonalds": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
@@ -187940,9 +188007,16 @@
           "show": "声动早咖啡",
           "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
           "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-28",
       "url": "/wiki/entities/mcdonalds/"
     },
     "McMurdoStation": {
@@ -190619,9 +190693,9 @@
       "url": "/wiki/concepts/mentormindsetfeedback/"
     },
     "MenuExpansionOperationalComplexity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIRwOpT2SAFLzTgToZFrL [GKwRIRwOpT2SAFLzTgToZFrL].md",
@@ -190629,9 +190703,16 @@
           "show": "声动早咖啡",
           "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
           "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-28",
       "url": "/wiki/concepts/menuexpansionoperationalcomplexity/"
     },
     "MephistophelesMarlowe": {
@@ -217702,6 +217783,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/pepintheshort/"
+    },
+    "PepsiCo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/entities/pepsico/"
     },
     "PeptideEvidenceHierarchy": {
       "episode_count": 5,
@@ -300369,9 +300466,9 @@
       "url": "/wiki/entities/wendysuzuki/"
     },
     "Wendys": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？ [1009244406].md",
@@ -300379,9 +300476,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
           "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        },
+        {
+          "episode_file": "GKwRIJEOtnaDAHt8swTwi4nJ [GKwRIJEOtnaDAHt8swTwi4nJ].md",
+          "key": "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
+          "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-28",
       "url": "/wiki/entities/wendys/"
     },
     "WengJiayiCardiology": {

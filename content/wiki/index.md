@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？](sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj.md) — 声动早咖啡以肯德基改换美国饮料供应商为主线，讨论快餐饮品时段、定制研发、门店复杂度与供应关系松动。
 - [EP136-二聊《浪姐》职场，依然有很多值得记忆的闪光点](sources/ep136-er-liao-lang-jie-zhichang-yiran-you-hen-duo-zhi-de-jiyi-de-shanguangdian-wkg5hf9t5qetspydbxyk6to0ea4442.md) — 无时差研究所从《乘风破浪的姐姐》讨论成熟艺人的职业重启、女性职场互助、资历权力、赛制公信力与粉圈数据劳动。
 - [风味吃喝：农夫山泉，钟睒睒如何三度问鼎中国首富](sources/fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd.md) — 大小电波梳理钟睒睒、养生堂与农夫山泉，以大包装切入、天然水争议、饮料矩阵、东方树叶长期培育、现金流和股权控制解释消费品牌扩张。
 - [372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》](sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr.md) — 独树不成林以马洛《浮士德博士的悲剧》区分技术能力与人生目的、更多选择与反思自由、短期能力与长期依赖，以及逼真模拟与真实理解。
@@ -4857,6 +4858,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP391-当AI完成所有工作，一个人应当如何证明自己的价值？](sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q.md) — 无时差研究所以旅行、创作、分析和多智能体案例讨论源头信息、耐久技能、验收标准及人在 AI 执行链中的目标与判断责任。
 
 ## Entities
+- [PepsiCo](entities/PepsiCo.md) — Beverage-and-snack company whose long-running U.S. KFC supply relationship is ending amid portfolio-focus questions.
 - [《乘风破浪的姐姐》](entities/SistersWhoMakeWaves.md) — 以30岁以上女艺人为主体、同时承载职业展示与传统选秀机制的真人秀节目。
 - [蓝盈莹](entities/LanYingying.md) — 节目中体现直接机会争取、关系规范冲突与团队依附变化的演员。
 - [伊能静](entities/YiNengjing.md) — 节目中同时呈现资深经验、权威姿态、舆论压力与适应性调整的艺人。
@@ -18695,6 +18697,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Fast-Food Beverage Occasion Strategy / 快餐饮品时段策略](concepts/FastFoodBeverageOccasionStrategy.md) — Using distinctive drinks to create off-peak visits and higher tickets while managing supplier and store-execution costs.
 - [女性职场互助](concepts/FemaleWorkplaceMutualAid.md) — 在结构性约束下通过资源、信息、倡导与协作扩大彼此机会的非零和实践。
 - [粉圈数据劳动](concepts/FandomDataLabor.md) — 粉丝以投票、打榜、集资、购买与控评生产明星可见商业指标的协调劳动。
 - [成熟艺人职业重启](concepts/MaturePerformerCareerRelaunch.md) — 中期职业者借集中曝光重新连接专业能力、公众认知与后续机会的过程。

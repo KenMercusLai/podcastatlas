@@ -4,41 +4,50 @@ type: concept
 tags: [restaurants, retail, menu, operations, growth]
 sources:
   - gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl
+  - dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-15
+last_updated: 2026-10-28
 ---
 
 # Menu Expansion Operational Complexity / 菜单扩张的运营复杂度
 
 ## Definition
-Menu expansion operational complexity is the added labor, equipment, training, preparation, inventory, waste, food-safety, and service-time burden created when a chain adds categories in pursuit of more orders or revenue per store.
+
+Menu expansion operational complexity is the labor, equipment, training, preparation, inventory, waste, food-safety, supply, and service-time burden created when a chain adds categories in pursuit of more orders or revenue per store.
 
 ## Current Synthesis
-The episode contrasts demand upside with store-level burden. [[LuckinCoffee|Luckin]] adds pearl milk tea across a very large network, while [[CottiCoffee|Cotti]] tests freshly fried food selectively. Pearls require heating and must reportedly be used within four hours; fried food likely creates a different preparation and equipment flow. The economic question is incremental contribution after complexity, not whether a new item can be launched.
+
+Menu breadth can create new demand, but the relevant economic test is contribution after store burden. Coffee-chain pearls illustrate perishability and uncertain demand; fried food illustrates a changed equipment and preparation flow. Fast-food refreshers and dirty sodas add syrups, foams, ingredients, steps, supplier relationships, and quality-control requirements. Chains can contain risk through selected-store tests or invest in dedicated staff and work areas, but either choice has a cost. A product can taste good and still fail because it does not fit the operating system.
 
 ## Key Claims
-- Menu breadth can raise store output when it creates genuinely incremental demand or reaches a new occasion.
-- Perishable components turn uncertain demand into waste and execution risk.
-- A category that changes equipment or preparation flow can reduce throughput in the core menu.
-- Network-wide rollout and selected-store testing represent different approaches to learning and risk concentration.
-- Menu expansion should be judged on contribution after labor, waste, training, supply-chain, and service-speed effects.
+
+- Menu breadth creates value only when demand and margin exceed labor, waste, training, equipment, and throughput costs.
+- Perishable or specialized components turn demand uncertainty into inventory and execution risk.
+- Categories that change preparation flow can slow or destabilize the core menu.
+- Selected-store testing and network-wide rollout represent different learning and risk-concentration strategies.
+- Dedicated staff and work areas can protect quality while making fixed and scheduling costs more explicit.
+- Supplier diversification can increase creative range while adding procurement and coordination complexity.
 
 ## Evidence
-- **Large-network launch:** [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] reports Luckin launching classic pearl milk tea across 36,000 stores.
-- **Perishability:** [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] says pearls need heating and must be used within four hours, making weak order lift a waste and workload problem.
-- **Controlled test:** [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] says Cotti is testing freshly fried food in selected stores rather than rolling it out nationally.
+
+- **Perishability and network rollout:** [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] says heated pearls must be used within four hours and contrasts Luckin's large rollout with Cotti's selected-store fried-food test.
+- **Customized-drink burden:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] says refreshers and dirty sodas use more ingredients and preparation steps than machine soda or ordinary coffee.
+- **Operating-system filter:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] reports that some appealing concepts cannot be promoted because procurement or store execution fails.
+- **Dedicated capacity:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] describes McDonald's planned beverage specialists and work areas as a quality-control response.
 
 ## Counterevidence & Qualifications
-- The source provides no unit economics, sales mix, preparation-time study, labor model, waste rate, customer repeat behavior, or control-store comparison.
-- More complexity is not automatically harmful; shared ingredients, off-peak demand, strong training, or sufficient incremental margin can justify it.
-- The reported 36,000-store count and operational details remain episode-scoped.
+
+The sources provide no full unit economics, sales mix, time-and-motion study, labor model, waste rate, customer cohort, or control-store comparison. More complexity is not automatically harmful: shared ingredients, off-peak demand, high margin, dedicated capacity, and strong training can justify it. Store counts, shelf-life rules, concept pass rates, and rollout plans remain episode-scoped.
 
 ## What Changed
-- Established an after-complexity test for coffee-chain expansion into milk tea and freshly prepared food.
+
+- Extended the concept from coffee-chain category expansion into customized fast-food beverages.
+- Added dedicated capacity and supplier diversification as both solutions and costs.
 
 ## Related Concepts
-- [[BeverageCategoryConvergence]] - explains why coffee and tea-drink boundaries are blurring.
+
+- [[BeverageDevelopmentFeasibility]] - filters concepts before and during operational rollout.
+- [[FastFoodBeverageOccasionStrategy]] - provides the demand upside that added complexity is meant to capture.
+- [[BeverageCategoryConvergence]] - explains one source of category-boundary expansion.
 - [[RestaurantOperationalFragility]] - shows how extra steps and exceptions can destabilize service.
-- [[MenuCosts]] - adjacent but distinct concept about the economic cost of changing prices rather than widening preparation.
-- [[LuckinCoffee]] - network-wide pearl-milk-tea case.
-- [[CottiCoffee]] - selected-store fried-food test.
+- [[MenuCosts]] - adjacent concept about changing prices rather than widening preparation.

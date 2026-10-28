@@ -4,41 +4,50 @@ type: entity
 tags: [company, restaurant, fast-food, burgers, china, franchising]
 sources:
   - kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406
-last_updated: 2026-08-28
+  - dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj
+last_updated: 2026-10-28
 knowledge_schema: synthesis-v1
 ---
 
 # Wendy's
 
 ## Overview
-Wendy's appears in the episode as one of the U.S. fast-food chains preparing a larger China expansion. The wiki relevance is its role in [[USFastFoodChinaExpansion]]: a pressured North American chain looks to China through a local operating partner rather than a purely direct-entry model.
+
+Wendy's appears as a U.S. burger chain seeking growth beyond a pressured home market while struggling to convert a large China ambition into an operating partnership.
 
 ## Current Profile
-The source says Wendy's has selected a China store-opening partner but has not publicly named it, and that the partner has decades of large-scale restaurant operating experience. The stated ambition is up to 1,000 China restaurants over the next 10 years.
 
-Wendy's also appears on the demand-pressure side of the story. The episode says Wendy's and Popeyes had falling North American same-store sales in the first half of the year, making international expansion part of a search for growth beyond a more pressured U.S. fast-food market.
+The August source said Wendy's had selected an unnamed China partner with large-scale restaurant experience and aimed for up to 1,000 stores over ten years. The October source reports that the plan still had not landed and that talks with [[Haidilao]] did not produce an agreement, while new management refocused on repairing the U.S. business. The profile therefore shifts from announced partner-led expansion to an unresolved market-entry plan whose execution is constrained by late entry, lower price ceilings, scarce locations, and home-market priorities.
 
 ## Key Characteristics
-- U.S. burger chain used as a large-store-target case in the renewed China fast-food expansion wave.
-- China plan depends on a local partner with large-scale restaurant operating experience.
-- Stated growth ambition is source-scoped at up to 1,000 restaurants over 10 years.
-- North American same-store-sales pressure makes Wendy's a bridge between [[FastFoodDemandReset]] and China expansion.
+
+- U.S. burger chain facing reported North American same-store-sales pressure.
+- China-expansion case with a stated target of up to 1,000 restaurants.
+- Intended reliance on a local operator with large-scale restaurant experience.
+- Late-entry challenger facing established consumer awareness, locations, and lower fast-food price points.
+- Example of an international plan displaced by management attention to the home business.
 
 ## Evidence
-- China-entry evidence: [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]] says Wendy's had finalized a China cooperation partner.
-- Scale evidence: [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]] gives the up-to-1,000-restaurants-over-10-years plan.
-- Operator evidence: [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]] describes the unnamed partner as having decades of large-scale restaurant operating experience.
-- Demand-pressure evidence: [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]] says Wendy's first-half North American same-store sales were declining.
+
+- **Initial plan:** [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]] says Wendy's had selected an unnamed partner and stated an up-to-1,000-store target over ten years.
+- **Home-market pressure:** [[kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406]] reports declining first-half North American same-store sales.
+- **Execution update:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] says the China plan had not materialized, talks with Haidilao failed, and new management emphasized the U.S. business.
+- **Entry barriers:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] attributes difficulty to late entry, low awareness, occupied premium sites, and shrinking price premiums.
 
 ## Qualifications
-The partner identity, store target, timing, and sales-pressure claims are source-scoped to the episode. A store target is not evidence that the full rollout will be completed.
+
+Both sources are dated podcast reports rather than company agreements or filings. They may capture a plan changing between August and October; the unnamed partner in the earlier report is not established as Haidilao. The store target, negotiations, management priorities, and sales claims remain source-scoped.
 
 ## What Changed
-- Created the page to capture Wendy's as the high-scale burger-chain case in U.S. fast-food China expansion.
+
+- Replaced the earlier implication of a finalized partner with an explicitly unresolved, dated expansion plan.
+- Added failed Haidilao talks, late-entry constraints, and renewed U.S. management focus.
 
 ## Relationships
-- [[USFastFoodChinaExpansion]] - Wendy's supplies the large stated store-count ambition.
-- [[FastFoodDemandReset]] - North American demand pressure motivates the China growth search.
-- [[FranchiseLedConsumerChainExpansion]] - the plan depends on partner-led restaurant operating capacity.
-- [[LocalPartnerMarketEntry]] - the China approach is mediated through a local cooperation partner.
-- [[China]] - target market for the planned expansion.
+
+- [[USFastFoodChinaExpansion]] - high-scale but unexecuted China ambition.
+- [[FastFoodDemandReset]] - home-market pressure influencing international priorities.
+- [[Haidilao]] - reported prospective partner whose talks did not yield an agreement.
+- [[FranchiseLedConsumerChainExpansion]] - operating-capacity model the plan depends on.
+- [[LocalPartnerMarketEntry]] - intended route into China.
+- [[China]] - target market where entry remains unresolved.

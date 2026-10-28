@@ -37926,3 +37926,11 @@ Added source `ep136-er-liao-lang-jie-zhichang-yiran-you-hen-duo-zhi-de-jiyi-de-s
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | 达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？
+
+Added source `dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj`; created [[PepsiCo]] and [[FastFoodBeverageOccasionStrategy|快餐饮品时段策略]]; and resynthesized [[KFC]], [[CocaCola|Coca-Cola]], [[Wendys|Wendy's]], [[McDonalds|McDonald's]], [[FastFoodDemandReset]], [[BeverageDevelopmentFeasibility|饮品研发可落地性]], and [[MenuExpansionOperationalComplexity|菜单扩张的运营复杂度]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: distinctive refreshers, dirty sodas, and limited drinks can create off-peak visits and higher tickets, but their durable value depends on supplier development capability and chain-scale control of ingredients, equipment, labor, training, throughput, and novelty decay. The Wendy's update is retained as a dated conflict: an August source said a partner had been selected, while this October source says the China plan remained unlanded and Haidilao talks failed. KFC contract terms, growth commitments, company figures, consumer effects, and all brief Anthropic, Audi, and Instagram updates remain episode-scoped because the supplied file is a structured summary rather than contracts, filings, datasets, or direct company disclosures. Broad roundup-company pages and the automatic `wiki/overview.md` were kept closed because focused pages capture the durable additions without reopening large evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,753 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10839
+wiki_total_pages: 10840
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "FastProductValidation"
     title: "Fast Product Validation"
     url: "/wiki/concepts/fastproductvalidation/"
+  - key: "FastFoodBeverageOccasionStrategy"
+    title: "Fast-Food Beverage Occasion Strategy / 快餐饮品时段策略"
+    url: "/wiki/concepts/fastfoodbeverageoccasionstrategy/"
   - key: "FastFoodDemandReset"
     title: "Fast-Food Demand Reset"
     url: "/wiki/concepts/fastfooddemandreset/"

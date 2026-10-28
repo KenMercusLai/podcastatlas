@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13756
+wiki_total_pages: 13757
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "PepinTheShort"
     title: "Pepin the Short"
     url: "/wiki/entities/pepintheshort/"
+  - key: "PepsiCo"
+    title: "PepsiCo"
+    url: "/wiki/entities/pepsico/"
   - key: "Perceval"
     title: "Perceval"
     url: "/wiki/entities/perceval/"

@@ -1,14 +1,15 @@
 ---
 title: "Coca-Cola"
 type: entity
-tags: [company, cpg, consumer-brand, investing, tax]
+tags: [company, cpg, consumer-brand, investing, tax, beverages]
 sources:
   - 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210
   - ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p
   - ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i
   - 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611
   - islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a
-last_updated: 2026-09-21
+  - dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj
+last_updated: 2026-10-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,47 +17,44 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Coca-Cola is represented across the wiki as a globally familiar consumer brand, an investment case, a rumor target, a pricing example, and now a major [[TransferPricing]] litigant.
+Coca-Cola is represented as a globally familiar consumer brand, an investment and pricing example, a rumor target, a transfer-pricing litigant, and now the future U.S. beverage supplier and development partner for [[KFC]].
 
 ## Current Profile
 
-The complete source set shows two sides of scale. Coca-Cola's repeated consumption, distribution, memory, and brand familiarity make it a [[ConsumerBrandMoat|consumer-brand moat]] and a business investors can reason about over long periods. The same reach makes it a target for contamination legends and turns restaurant refills into a useful marginal-pricing example.
-
-The tax branch adds institutional complexity behind the global brand. The company is contesting an [[InternalRevenueService|IRS]] allocation of profit between the United States and foreign subsidiaries, arguing that local marketing investment created value and that its formula had earlier agency acceptance. The dispute remains active, so the page records exposure and competing positions rather than a settled tax violation.
+Repeated consumption, distribution, memory, and familiarity make Coca-Cola a [[ConsumerBrandMoat|consumer-brand moat]] and a business used in long-horizon investment reasoning. The same reach creates rumor exposure and makes fountain refills a useful marginal-pricing example. Behind the consumer brand sits institutional complexity: the company is contesting an [[InternalRevenueService|IRS]] profit-allocation case, while the restaurant channel increasingly asks it to do more than deliver standard soda. The KFC case adds customized beverage development and a reported future-sales-growth commitment as competitive capabilities against [[PepsiCo]].
 
 ## Key Characteristics
 
-- Durable demand is tied to habit, distribution, brand memory, sugar, caffeine, and global familiarity.
-- Brand strength supports long-horizon investment analysis and disciplined option examples.
-- Large trusted brands remain vulnerable to rumors about opaque production systems.
-- Low marginal beverage cost supports refill and bundled restaurant-pricing strategies.
-- Global intangible and marketing value creates difficult transfer-pricing allocation disputes.
+- Durable demand tied to habit, distribution, brand memory, sugar, caffeine, and familiarity.
+- Brand strength used in long-horizon investment and disciplined option examples.
+- Large trusted brand exposed to rumors about opaque production systems.
+- Low marginal fountain cost supporting refill and bundled restaurant pricing.
+- Global intangible and marketing value creating difficult transfer-pricing disputes.
+- Restaurant-channel supplier competing through joint product development and growth commitments.
 
 ## Evidence
 
-- Durable consumer franchise: [[ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]] presents stable habit, distribution, and memory as reasons demand is easier to understand than many trend forecasts.
-- Investment discipline: [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] uses Coca-Cola as a cash-secured put example in which the seller is genuinely willing to own the business.
-- Rumor exposure: [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] uses contamination stories to show how production opacity can threaten brand trust.
-- Consumer pricing: [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]] uses refills to explain limited marginal consumption, apparent abundance, and paired food demand.
-- Tax allocation: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]] presents the company's IRS dispute over how marketing value and foreign-subsidiary profit should be allocated.
+- **Durable franchise and investing:** [[ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]] presents stable habit, distribution, and memory as durable demand; [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] uses the company in a cash-secured put example.
+- **Rumor and pricing exposure:** [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] uses contamination legends to show how scale invites rumor, while [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]] uses refills to explain marginal consumption and paired demand.
+- **Tax allocation:** [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]] presents the live IRS dispute over marketing value and foreign-subsidiary profit.
+- **Restaurant innovation:** [[dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj]] says Coca-Cola won KFC's U.S. supplier process partly through a future-sales-growth commitment and experience developing customized drinks with restaurant chains.
 
 ## Qualifications
 
-The investment sources use Coca-Cola illustratively and do not establish a current valuation or recommendation. The rumor source analyzes folklore rather than verifying a contamination event. The transfer-pricing liability, reserve, prior-agreement interpretation, and appeals outcome remain disputed and source-scoped.
+The investment sources are illustrative and do not establish a current valuation or recommendation. The rumor source analyzes folklore rather than verifying contamination. The transfer-pricing liability and appeals outcome remain disputed. The KFC proposal, contract terms, growth commitment, implementation, and long-run traffic effect are undisclosed and source-scoped.
 
 ## What Changed
 
-- Added the IRS transfer-pricing dispute, broadening the profile from consumer economics and investing into multinational tax allocation.
-- Preserved Coca-Cola's defense that foreign marketing created value and an earlier formula had agency acceptance.
-- Migrated the page to the synthesis-first schema.
+- Added Coca-Cola's restaurant beverage-development role and future U.S. KFC supply.
+- Expanded competitive advantage from standard distribution to customized products and attributed growth commitments.
 
 ## Relationships
 
+- [[KFC]] - future U.S. fountain customer and joint-development partner in the source.
+- [[PepsiCo]] - incumbent supplier displaced in KFC's reported competitive review.
+- [[FastFoodBeverageOccasionStrategy]] - restaurant demand strategy supported by customized drinks.
 - [[ConsumerBrandMoat]] - durable habit, memory, and distribution advantage illustrated by the brand.
-- [[WarrenBuffett]] - investor associated with both the long-duration franchise and cash-secured put examples.
-- [[OptionSellingDiscipline]] - risk-managed derivative example based on willingness to own the company.
-- [[UrbanLegend]] - rumor ecology that can exploit production opacity and brand familiarity.
+- [[WarrenBuffett]] - investor associated with the long-duration franchise and put-selling example.
 - [[MarginalAnalysis]] - framework for the refill and bundled-demand example.
 - [[TransferPricing]] - contested allocation mechanism in the IRS litigation.
 - [[InternalRevenueService]] - U.S. tax authority pursuing the dispute.
-- [[TaxEnforcementCapacity]] - institutional capacity tested by the long-running case.
