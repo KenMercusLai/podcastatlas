@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10846
+wiki_total_pages: 10848
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "FraternalNetworkOrganizationalTemplate"
     title: "Fraternal Network Organizational Template"
     url: "/wiki/concepts/fraternalnetworkorganizationaltemplate/"
+  - key: "FraternityPartySexualViolenceRisk"
+    title: "Fraternity-Party Sexual-Violence Risk / 兄弟會派對性暴力風險結構"
+    url: "/wiki/concepts/fraternitypartysexualviolencerisk/"
   - key: "FreeCashFlowIndexing"
     title: "Free Cash Flow Indexing"
     url: "/wiki/concepts/freecashflowindexing/"

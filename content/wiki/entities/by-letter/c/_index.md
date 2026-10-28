@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13761
+wiki_total_pages: 13763
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "Chanel"
     title: "Chanel"
     url: "/wiki/entities/chanel/"
+  - key: "ChanelMiller"
+    title: "Chanel Miller"
+    url: "/wiki/entities/chanelmiller/"
   - key: "ChanganTown"
     title: "Chang'an Town / 长安镇"
     url: "/wiki/entities/changantown/"

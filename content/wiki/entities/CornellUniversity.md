@@ -4,7 +4,8 @@ type: entity
 tags: [university, title-ix, campus-safety, united-states]
 sources:
   - gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057
-last_updated: 2026-10-07
+  - cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616
+last_updated: 2026-10-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Cornell University is the institution at the center of the source's Cornell Seve
 
 ## Current Profile
 
-The source uses Cornell as a case study in [[CampusSexualMisconductAdministrativeJustice]]. Its internal process imposed repeated hearings and differentiated sanctions under a federal framework that leaves punishment largely to institutions. The case does not establish the truth of the disputed assault allegation or show that Cornell's process is representative of every university, but it makes procedural burden, sanction consistency, campus safety, and external oversight simultaneous accountability questions.
+The sources use Cornell as a case study in [[CampusSexualMisconductAdministrativeJustice]]. Its internal process involved repeated hearings and differentiated outcomes under a federal framework that leaves punishment largely to institutions. The newer episode sharpens two accountability gaps: limited public explanation of which findings supported which sanctions, and a factual conflict over whether campus police delivered fraternity chat records to the local prosecutor. Later civil filings and national attention preceded a reopened criminal investigation and appointment of a special prosecutor. None of this establishes the truth of the disputed allegation or makes Cornell representative of every university, but it joins procedural burden, evidence custody, sanction consistency, campus safety, privacy, and external oversight in one institutional case.
 
 ## Key Characteristics
 
@@ -25,20 +26,23 @@ The source uses Cornell as a case study in [[CampusSexualMisconductAdministrativ
 - Applies institution-specific sanctions after responsibility findings.
 - Faces civil and state scrutiny over the Cornell Seven case.
 - Reports survey evidence of a substantial campus sexual-assault burden.
+- Sits at the handoff between campus discipline, campus policing, local prosecution, and later special-prosecutor review.
 
 ## Evidence
 
 - Procedure: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] says Cornell opened a formal Title IX investigation and that the complainant's lawsuit describes twelve hearings.
 - Sanctions: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] reports Cornell saying students found responsible for sexual misconduct were expelled or suspended, while two attempted-sexual-exploitation findings produced courses and essays.
 - Oversight and prevalence: [[gilets-jeunes-frances-school-protests-2959cbdca16de39a43a75666b5bc7057]] links the civil suit and state investigation to a 2025 survey in which more than one-third of female undergraduates reported sexual assault during college.
+- Outcomes and disclosure: [[cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616]] reports two expulsions, two suspensions, one graduation before sanction, and two no-responsibility findings, while noting that the conduct-to-sanction basis was not fully public.
+- Evidence handoff: [[cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616]] reports Cornell saying campus police supplied statements and chats to prosecutors, while the former district attorney said the chats were not received.
 
 ## Qualifications
 
-The allegations remain contested, the accused men denied wrongdoing, and no criminal charges were brought. Administrative findings, civil allegations, criminal standards, survey reports, and institutional policy answer different questions and should not be collapsed into one verdict. Counts, sanctions, and survey results are episode-reported rather than independently verified here.
+The allegations remain contested, the accused men denied wrongdoing, and the reopened investigation reported by the newer source is not a charging decision. Administrative findings, civil allegations, criminal standards, survey reports, and institutional policy answer different questions and should not be collapsed into one verdict. The evidence-transfer dispute is unresolved, and counts, sanctions, survey results, and legal interpretations are episode-reported rather than independently verified here.
 
 ## What Changed
 
-- Created the page from the Cornell Seven procedural and oversight case.
+- Added differentiated outcomes, limited sanction transparency, the disputed evidence handoff, and the reopened external investigation.
 
 ## Relationships
 
@@ -47,3 +51,5 @@ The allegations remain contested, the accused men denied wrongdoing, and no crim
 - [[KathyHochul]] - governor who appointed a state investigation.
 - [[LetitiaJames]] - attorney general appointed to investigate the case.
 - [[CampusSexualMisconductAdministrativeJustice]] - concept for the competing procedure, access, sanction, and deterrence demands.
+- [[FraternityPartySexualViolenceRisk]] - organizational-risk framework applied to the alleged party context.
+- [[SurvivorCenteredSexualViolenceJustice]] - trauma-informed and accessible treatment of complainants across proceedings.

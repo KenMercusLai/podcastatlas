@@ -18311,6 +18311,10 @@
     "title": "Chanel",
     "url": "/wiki/entities/chanel/"
   },
+  "ChanelMiller": {
+    "title": "Chanel Miller",
+    "url": "/wiki/entities/chanelmiller/"
+  },
   "ChangAnHanCapital": {
     "title": "长安 / Chang'an (Han capital)",
     "url": "/wiki/entities/changanhancapital/"
@@ -36079,6 +36083,10 @@
     "title": "Fraternal Network Organizational Template",
     "url": "/wiki/concepts/fraternalnetworkorganizationaltemplate/"
   },
+  "FraternityPartySexualViolenceRisk": {
+    "title": "Fraternity-Party Sexual-Violence Risk / 兄弟會派對性暴力風險結構",
+    "url": "/wiki/concepts/fraternitypartysexualviolencerisk/"
+  },
   "FrauEva": {
     "title": "Frau Eva / 夏娃夫人",
     "url": "/wiki/entities/fraueva/"
@@ -37698,6 +37706,10 @@
   "GenderedPatronageInversion": {
     "title": "Gendered Patronage Inversion",
     "url": "/wiki/concepts/genderedpatronageinversion/"
+  },
+  "GenderedPerpetratorSympathy": {
+    "title": "Gendered Perpetrator Sympathy / 性別化加害者同情",
+    "url": "/wiki/concepts/genderedperpetratorsympathy/"
   },
   "GenderedRepublicanCitizenship": {
     "title": "Gendered Republican Citizenship",
@@ -51134,6 +51146,10 @@
   "KateDurian": {
     "title": "Kate Durian",
     "url": "/wiki/entities/katedurian/"
+  },
+  "KateManne": {
+    "title": "Kate Manne",
+    "url": "/wiki/entities/katemanne/"
   },
   "KateMoran": {
     "title": "Kate Moran",
@@ -104366,6 +104382,10 @@
   "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b": {
     "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
     "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+  },
+  "cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616": {
+    "title": "從康乃爾到斯坦福，校園性暴力為何難追責？",
+    "url": "/wiki/sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616/"
   },
   "cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be": {
     "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",

@@ -4861,8 +4861,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP391-当AI完成所有工作，一个人应当如何证明自己的价值？](sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q.md) — 无时差研究所以旅行、创作、分析和多智能体案例讨论源头信息、耐久技能、验收标准及人在 AI 执行链中的目标与判断责任。
 
 - [The tech behind spooky season](sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128.md) — Marketplace Tech profile of haunted-attraction engineering, hidden show control, live-performance support, and format-dependent pacing.
+- [從康乃爾到斯坦福，校園性暴力為何難追責？](sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616.md) — 端聞以康乃爾、佛州州立與斯坦福案件分析校內、刑事和民事追責缺口，以及同意能力、兄弟會風險、曝光依賴與性別化同情。
 
 ## Entities
+- [Kate Manne](entities/KateManne.md) — 哲學學者，其概念被用來分析對男性加害者未來的過度同情與受害者損失的低可見度。
+- [Chanel Miller](entities/ChanelMiller.md) — 斯坦福性侵案受害者與《Know My Name》作者，使性暴力的長期生活與程序成本獲得公共可見性。
 - [Kip Polly](entities/KipPolly.md) — Haunted-attraction technical director integrating manufacturing engineering, effects, maintenance, entrepreneurship, and creative design.
 - [13th Floor Entertainment](entities/ThirteenthFloorEntertainment.md) — U.S. haunted-attraction operator combining live performers with coordinated technical production.
 - [Hollywood Haunted Hayride](entities/HollywoodHauntedHayride.md) — Los Angeles Halloween attraction using atmosphere, triggered effects, props, and live performers as one system.
@@ -18706,6 +18709,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Fraternity-Party Sexual-Violence Risk / 兄弟會派對性暴力風險結構](concepts/FraternityPartySexualViolenceRisk.md) — 群體忠誠、派對空間、酒精控制與旁觀沉默共同形成的組織風險，且不以群體身分推定個人責任。
+- [Gendered Perpetrator Sympathy / 性別化加害者同情](concepts/GenderedPerpetratorSympathy.md) — 被告未來易被具體衡量、受害者長期損失較難獲得同等注意的性別化責任偏差。
 - [Audience-Invisible Experience Technology](concepts/AudienceInvisibleExperienceTechnology.md) — Design principle in which complex show-control infrastructure recedes behind coherent story, timing, sensation, and live performance.
 - [Coalition Exclusion Deadlock](concepts/CoalitionExclusionDeadlock.md) — When an anti-incumbent majority cannot govern because overlapping vetoes exclude pivotal coalition partners.
 - [Constituent-Service Campaign Bridge](concepts/ConstituentServiceCampaignBridge.md) — How repeated practical representation can become cross-party electoral trust.
