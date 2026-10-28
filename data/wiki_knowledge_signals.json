@@ -36141,9 +36141,9 @@
       "url": "/wiki/entities/brunoretailleau/"
     },
     "BuHeShiYi": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -36179,9 +36179,16 @@
           "show": "不合时宜",
           "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
           "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
+        },
+        {
+          "episode_file": "llPsXE4uV4dIZnyyxmDFgRzaais- [llPsXE4uV4dIZnyyxmDFgRzaais-].md",
+          "key": "nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais",
+          "show": "不合时宜",
+          "title": "能源转型进入下半场：当环保与经济增长不再是二选一",
+          "url": "/wiki/sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-28",
       "url": "/wiki/entities/buheshiyi/"
     },
     "BuShiWesternHan": {
@@ -82421,6 +82428,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/electrictwowheelerpremiumization/"
+    },
+    "ElectricalTechnologyRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llPsXE4uV4dIZnyyxmDFgRzaais- [llPsXE4uV4dIZnyyxmDFgRzaais-].md",
+          "key": "nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais",
+          "show": "不合时宜",
+          "title": "能源转型进入下半场：当环保与经济增长不再是二选一",
+          "url": "/wiki/sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/electricaltechnologyrevolution/"
     },
     "ElectricityAffordabilityIndicator": {
       "episode_count": 2,
@@ -226795,6 +226818,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/powerstructuretargeting/"
+    },
+    "PowerSystemFlexibilityMarketDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llPsXE4uV4dIZnyyxmDFgRzaais- [llPsXE4uV4dIZnyyxmDFgRzaais-].md",
+          "key": "nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais",
+          "show": "不合时宜",
+          "title": "能源转型进入下半场：当环保与经济增长不再是二选一",
+          "url": "/wiki/sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais/"
+        }
+      ],
+      "updated": "2026-10-28",
+      "url": "/wiki/concepts/powersystemflexibilitymarketdesign/"
     },
     "PracticalBalancedEating": {
       "episode_count": 4,

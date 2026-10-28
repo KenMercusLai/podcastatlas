@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2317
+topic_total_pages: 2318
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2506,6 +2506,9 @@ topic_concepts:
   - key: "PowerScarcityInfrastructureInvesting"
     title: "Power Scarcity Infrastructure Investing"
     url: "/wiki/concepts/powerscarcityinfrastructureinvesting/"
+  - key: "PowerSystemFlexibilityMarketDesign"
+    title: "Power-System Flexibility and Market Design / 电力系统灵活性与市场设计"
+    url: "/wiki/concepts/powersystemflexibilitymarketdesign/"
   - key: "PreBritishAustralianContact"
     title: "Pre-British Australian Contact"
     url: "/wiki/concepts/prebritishaustraliancontact/"

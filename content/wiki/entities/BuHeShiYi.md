@@ -8,19 +8,20 @@ sources:
   - women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up
   - zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu
   - lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord
+  - nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-28
 ---
 
 # 不合时宜 / Bu He Shi Yi
 
 ## Overview
-不合时宜 / Bu He Shi Yi is a Chinese public-issues podcast represented in this wiki by care-system episodes, an AI-era technology-philosophy conversation, and a discussion of field journalism in war and conflict.
+不合时宜 / Bu He Shi Yi is a Chinese public-issues podcast represented in this wiki by care-system episodes, an AI-era technology-philosophy conversation, conflict-journalism discussion, and an energy-transition episode.
 
 ## Current Profile
-The current wiki profile is source-scoped to three care-series episodes, one AI-era life conversation, and one conflict-reporting roundtable. The care episodes move dementia, autism, disability, aging, and guardianship from private burden toward social support, law, dignity, and representation. The technology conversation with [[WangXiaowei|王小伟]] examines AI intimacy, work meaning, emotional language, and [[AIJudgmentInfrastructure]]. The conflict-reporting episode extends the same public-responsibility lens into journalism, asking how access, language, verification, institutional retreat, danger, and media attention shape what audiences can know about war.
+The current wiki profile is source-scoped to three care-series episodes, one AI-era life conversation, one conflict-reporting roundtable, and one energy-transition discussion. The care episodes move dementia, autism, disability, aging, and guardianship from private burden toward social support, law, dignity, and representation. The conversation with [[WangXiaowei|王小伟]] examines AI intimacy, work meaning, emotional language, and [[AIJudgmentInfrastructure]]. The conflict-reporting episode asks how access, language, verification, danger, and media attention shape public knowledge of war. The energy episode uses [[ElectricalTechnologyRevolution]] to connect clean manufacturing and consumer economics to [[PowerSystemFlexibilityMarketDesign]], energy security, institutional reform, affordability, and distribution.
 
-Together, the show profile reads as a public-issue interview format that uses concrete care, technology, and reporting cases to ask when society shifts burdens onto individuals and when institutions, language, law, media, professional systems, and technical infrastructures must share responsibility.
+Together, the show profile reads as a public-issue interview format that uses concrete care, technology, reporting, and infrastructure cases to ask when society shifts burdens onto individuals and when institutions, markets, language, law, media, professional systems, and technical infrastructures must share responsibility.
 
 ## Key Characteristics
 - Public-issue interview format that combines macro data, academic expertise, lived experience, and practitioners' cross-regional reporting knowledge.
@@ -29,7 +30,7 @@ Together, the show profile reads as a public-issue interview format that uses co
 - Keeps the cared-for person visible as a subject whose dignity, preferences, future, and support needs matter.
 - Treats law, media representation, and public language as part of care infrastructure when families and institutions shape vulnerable lives.
 - Uses cross-system examples from China, Japan, the Netherlands, the United States, and community organizations without presenting any model as fully solved.
-- Extends care and public-language concerns into AI-era life by asking how technology reshapes intimacy, judgment, work time, and ordinary support networks.
+- Extends its responsibility lens across AI-era life, conflict knowledge, and energy systems, asking how technical capability interacts with judgment, institutions, markets, access, and distribution.
 
 ## Evidence
 - Dementia-care scope - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] introduces the show through a conversation with Tang Yong about China aging, dementia, family caregivers, Shenzhen services, and overseas dementia-care examples.
@@ -40,13 +41,14 @@ Together, the show profile reads as a public-issue interview format that uses co
 - Media representation and specificity - [[women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up]] adds documentary restraint and anti-stereotype aging representation as part of seeing care recipients as concrete subjects.
 - AI-era life scope - [[zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu]] extends the show's represented range from care systems into technology philosophy, AI companionship, work fatigue, psychiatricized everyday language, and model-mediated judgment.
 - Conflict-reporting scope - [[lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord]] extends the show into field presence, language and fixer bias, freelancer safety, propaganda verification, psychological burden, and unequal global attention.
+- Energy-transition scope - [[nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais]] connects renewable generation, end-use electrification, storage, grids, industrial learning, EV adoption, AI demand, affordability, and distribution through [[ElectricalTechnologyRevolution]].
 
 ## Qualifications
-The wiki still represents the show through a narrow slice: three care-system episodes, one technology-philosophy conversation, and one conflict-reporting roundtable. Its broader editorial identity, full host roster, political range, and audience remain outside the current evidence. The latest supplied document identifies several speakers only by short names, so the profile does not infer canonical identities for them.
+The wiki still represents the show through a narrow slice: three care-system episodes, one technology-philosophy conversation, one conflict-reporting roundtable, and one energy-transition episode. Its broader editorial identity, full host roster, political range, and audience remain outside the current evidence. The conflict source identifies several speakers only by short names, and the energy source summary does not identify its guest, so the profile does not infer canonical identities without stronger evidence. Quantitative energy and market claims also remain episode-reported rather than independently verified.
 
 ## What Changed
-- Added conflict reporting, field access, verification, and journalist safety to the represented range.
-- Broadened the profile from care and technology into the production of public knowledge under conflict.
+- Added energy transition, industrial learning, power-market reform, and distribution to the represented range.
+- Broadened the public-responsibility profile from care, technology, and reporting into infrastructure and economic systems.
 
 ## Relationships
 - [[TangYongSociologist]] - dementia-care guest in the represented source set.
@@ -65,4 +67,6 @@ The wiki still represents the show through a narrow slice: three care-system epi
 - [[EmbeddedForeignReporting]] - field-presence method extended by the conflict-reporting episode.
 - [[IndependentConflictReportingRisk]] - institutional retreat and individually absorbed reporting risk developed by the conflict episode.
 - [[GlobalConflictAttentionInequality]] - unequal visibility of severe conflicts developed by the conflict episode.
+- [[ElectricalTechnologyRevolution]] - three-layer energy-transition framework developed by the latest episode.
+- [[PowerSystemFlexibilityMarketDesign]] - institutional and technical integration problem developed by the latest episode.
 - [[Xiaoyuzhou]] - platform context from the source metadata.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10840
+wiki_total_pages: 10842
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "ElectricAssistBicyclePremiumPositioning"
     title: "Electric-Assist Bicycle Premium Positioning / 电助力自行车中高端定位"
     url: "/wiki/concepts/electricassistbicyclepremiumpositioning/"
+  - key: "ElectricalTechnologyRevolution"
+    title: "Electrical Technology Revolution / 电气技术革命"
+    url: "/wiki/concepts/electricaltechnologyrevolution/"
   - key: "ElectricityAffordabilityIndicator"
     title: "Electricity Affordability Indicator"
     url: "/wiki/concepts/electricityaffordabilityindicator/"

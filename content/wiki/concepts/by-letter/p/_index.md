@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10840
+wiki_total_pages: 10842
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1730,6 +1730,9 @@ wiki_pages:
   - key: "PowerStructureTargeting"
     title: "Power-Structure Targeting / 权力结构定向求援"
     url: "/wiki/concepts/powerstructuretargeting/"
+  - key: "PowerSystemFlexibilityMarketDesign"
+    title: "Power-System Flexibility and Market Design / 电力系统灵活性与市场设计"
+    url: "/wiki/concepts/powersystemflexibilitymarketdesign/"
   - key: "PowerViolenceDistinction"
     title: "Power-Violence Distinction / 权力与暴力区分"
     url: "/wiki/concepts/powerviolencedistinction/"

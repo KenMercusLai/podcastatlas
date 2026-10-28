@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [能源转型进入下半场：当环保与经济增长不再是二选一](sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais.md) — 不合时宜以电气技术革命连接清洁供给、终端电气化、系统灵活性、制造学习、经济采用与制度公平。
 - [Vol. 176 Hello, hello. 你iPhone Duo了吗？](sources/podcast176-v1-podcast176-v1.md) — 枫言枫语 first-week iPhone Duo review on primary-device substitution, eSIM switching, app adaptation, durability anxiety, large-screen uses, and developer testing.
 - [达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？](sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj.md) — 声动早咖啡以肯德基改换美国饮料供应商为主线，讨论快餐饮品时段、定制研发、门店复杂度与供应关系松动。
 - [EP136-二聊《浪姐》职场，依然有很多值得记忆的闪光点](sources/ep136-er-liao-lang-jie-zhichang-yiran-you-hen-duo-zhi-de-jiyi-de-shanguangdian-wkg5hf9t5qetspydbxyk6to0ea4442.md) — 无时差研究所从《乘风破浪的姐姐》讨论成熟艺人的职业重启、女性职场互助、资历权力、赛制公信力与粉圈数据劳动。
@@ -8615,7 +8616,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《前浪2》 / Front Wave 2 Documentary](entities/FrontWave2Documentary.md) — Aging documentary discussed by 不合时宜 through cases on guardianship, companionship, elder care, property, and representation.
 - [范世广 / Fan Shiguang](entities/FanShiguang.md) — Documentary director interviewed about 《前浪2》, aging representation, fact-centered restraint, and abandoned storylines.
 - [李晨阳 / Li Chenyang](entities/LiChenyangNotary.md) — Shanghai Putuo notary whose appointed-guardianship and elder-property cases anchor the 《前浪2》 discussion.
-- [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by care-series episodes on dementia, autism, disability, family caregiving, appointed guardianship, and public support systems.
+- [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese public-issues podcast represented here across care systems, AI-era life, conflict reporting, and energy-transition institutions.
 - [王磬 / Wang Qing](entities/WangQingBuHeShiYi.md) — 不合时宜 host in the autism and Xiaomei gene-editing episode.
 - [许悦 / Xu Yue](entities/XuYueAutismScholar.md) — Autism and disability scholar interviewed by 不合时宜 on gene-editing ethics, autism support, and family advocacy.
 - [小美基因编辑事件 / Xiaomei Gene-Editing Case](entities/XiaoMeiGeneEditingCase.md) — Source-scoped case used to examine high-risk gene editing, disability devaluation, informed consent, and cure pressure.
@@ -18698,6 +18699,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Electrical Technology Revolution / 电气技术革命](concepts/ElectricalTechnologyRevolution.md) — Three-layer transition framework joining clean power, electrified end uses, and flexibility through manufacturing learning and institutional integration.
+- [Power-System Flexibility and Market Design / 电力系统灵活性与市场设计](concepts/PowerSystemFlexibilityMarketDesign.md) — Technical and institutional capacity to align storage, grids, flexible generation, demand, dispatch, contracts, and prices with system needs.
 - [Fast-Food Beverage Occasion Strategy / 快餐饮品时段策略](concepts/FastFoodBeverageOccasionStrategy.md) — Using distinctive drinks to create off-peak visits and higher tickets while managing supplier and store-execution costs.
 - [女性职场互助](concepts/FemaleWorkplaceMutualAid.md) — 在结构性约束下通过资源、信息、倡导与协作扩大彼此机会的非零和实践。
 - [粉圈数据劳动](concepts/FandomDataLabor.md) — 粉丝以投票、打榜、集资、购买与控评生产明星可见商业指标的协调劳动。
