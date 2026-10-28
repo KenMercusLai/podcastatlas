@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13750
+wiki_total_pages: 13756
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2075,6 +2075,9 @@ wiki_pages:
   - key: "ShangShumiHanTaiweiShu"
     title: "《上枢密韩太尉书》"
     url: "/wiki/entities/shangshumihantaiweishu/"
+  - key: "SistersWhoMakeWaves"
+    title: "《乘风破浪的姐姐》 / Sisters Who Make Waves"
+    url: "/wiki/entities/sisterswhomakewaves/"
   - key: "ShulouDodo"
     title: "《书楼吊堂》"
     url: "/wiki/entities/shuloudodo/"

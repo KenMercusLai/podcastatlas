@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10835
+wiki_total_pages: 10839
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "RealityApathy"
     title: "Reality Apathy"
     url: "/wiki/concepts/realityapathy/"
+  - key: "RealityCompetitionRuleLegitimacy"
+    title: "Reality Competition Rule Legitimacy / 真人秀竞赛规则正当性"
+    url: "/wiki/concepts/realitycompetitionrulelegitimacy/"
   - key: "RealityOrientedSocialScienceResearch"
     title: "Reality-Oriented Social Science Research / 现实问题导向的社会科学研究"
     url: "/wiki/concepts/realityorientedsocialscienceresearch/"

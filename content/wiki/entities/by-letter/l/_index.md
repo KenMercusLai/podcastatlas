@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13750
+wiki_total_pages: 13756
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2687,6 +2687,9 @@ wiki_pages:
   - key: "LantianBattle"
     title: "蓝田之战 / Battle of Lantian"
     url: "/wiki/entities/lantianbattle/"
+  - key: "LanYingying"
+    title: "蓝盈莹 / Lan Yingying"
+    url: "/wiki/entities/lanyingying/"
   - key: "LinXiangru"
     title: "蔺相如 / Lin Xiangru"
     url: "/wiki/entities/linxiangru/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10835
+wiki_total_pages: 10839
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "MatsutakeCommonsManagement"
     title: "Matsutake Commons Management / 松茸山公共资源治理"
     url: "/wiki/concepts/matsutakecommonsmanagement/"
+  - key: "MaturePerformerCareerRelaunch"
+    title: "Mature Performer Career Relaunch / 成熟艺人职业重启"
+    url: "/wiki/concepts/matureperformercareerrelaunch/"
   - key: "MatureGenreDeconstruction"
     title: "Mature-Genre Deconstruction / 成熟类型的解构"
     url: "/wiki/concepts/maturegenredeconstruction/"

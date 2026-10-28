@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13750
+wiki_total_pages: 13756
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1817,6 +1817,9 @@ wiki_pages:
   - key: "WangXuedi"
     title: "王雪迪 / Wang Xuedi"
     url: "/wiki/entities/wangxuedi/"
+  - key: "WangFeifeiSinger"
+    title: "王霏霏 / Wang Feifei"
+    url: "/wiki/entities/wangfeifeisinger/"
   - key: "WangBaEasternHan"
     title: "王霸 / Wang Ba (Eastern Han)"
     url: "/wiki/entities/wangbaeasternhan/"

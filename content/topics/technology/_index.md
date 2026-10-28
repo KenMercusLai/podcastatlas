@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3650
+topic_total_pages: 3651
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2371,6 +2371,9 @@ topic_concepts:
   - key: "FamilyWorldSimulator"
     title: "Family World Simulator"
     url: "/wiki/concepts/familyworldsimulator/"
+  - key: "FandomDataLabor"
+    title: "Fandom Data Labor / 粉圈数据劳动"
+    url: "/wiki/concepts/fandomdatalabor/"
   - key: "FearDrivenAIAdoption"
     title: "Fear-Driven AI Adoption / 恐懼驅動的AI採用"
     url: "/wiki/concepts/feardrivenaiadoption/"

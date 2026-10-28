@@ -37918,3 +37918,11 @@ Added source `fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zho
 ## [2026-10-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-28] ingest | EP136-二聊《浪姐》职场，依然有很多值得记忆的闪光点
+
+Added source `ep136-er-liao-lang-jie-zhichang-yiran-you-hen-duo-zhi-de-jiyi-de-shanguangdian-wkg5hf9t5qetspydbxyk6to0ea4442`; created [[SistersWhoMakeWaves|《乘风破浪的姐姐》]], [[LanYingying|蓝盈莹]], [[YiNengjing|伊能静]], [[NingJingActress|宁静]], [[MengJiaSinger|孟佳]], [[WangFeifeiSinger|王霏霏]], [[FemaleWorkplaceMutualAid|女性职场互助]], [[FandomDataLabor|粉圈数据劳动]], [[MaturePerformerCareerRelaunch|成熟艺人职业重启]], and [[RealityCompetitionRuleLegitimacy|真人秀竞赛规则正当性]]. Core synthesis: the program gave mature performers a concentrated route back to public and commercial attention, made direct competition coexist with resource-sharing and team attachment, and exposed how seniority, editing, unstable rules, fan organization, and platform metrics mediate apparent merit and popularity. No settled contradiction was adopted. Claims about producer manipulation, voting failures, marketing plans, sponsorship amounts, individual motives, and durable post-program outcomes remain episode-scoped because the supplied file is a structured cultural commentary rather than production records, audited data, direct participant testimony, or longitudinal career evidence. Existing broad fandom, platform, workplace, and attention pages were kept closed because the new focused pages capture the durable additions without reopening unrelated evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,752 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

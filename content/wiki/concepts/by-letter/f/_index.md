@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10835
+wiki_total_pages: 10839
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "FandomCollectiveAction"
     title: "Fandom Collective Action / 饭圈集体行动"
     url: "/wiki/concepts/fandomcollectiveaction/"
+  - key: "FandomDataLabor"
+    title: "Fandom Data Labor / 粉圈数据劳动"
+    url: "/wiki/concepts/fandomdatalabor/"
   - key: "FangshiAccountabilityTrap"
     title: "Fangshi Accountability Trap / 方士问责陷阱"
     url: "/wiki/concepts/fangshiaccountabilitytrap/"
@@ -419,6 +422,9 @@ wiki_pages:
   - key: "FemaleUrologicalHealthMisconceptions"
     title: "Female Urological Health Misconceptions / 女性泌尿健康误区"
     url: "/wiki/concepts/femaleurologicalhealthmisconceptions/"
+  - key: "FemaleWorkplaceMutualAid"
+    title: "Female Workplace Mutual Aid / 女性职场互助"
+    url: "/wiki/concepts/femaleworkplacemutualaid/"
   - key: "FemaleFriendlyBistro"
     title: "Female-Friendly Bistro / 女性友好小酒馆"
     url: "/wiki/concepts/femalefriendlybistro/"

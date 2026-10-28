@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP136-二聊《浪姐》职场，依然有很多值得记忆的闪光点](sources/ep136-er-liao-lang-jie-zhichang-yiran-you-hen-duo-zhi-de-jiyi-de-shanguangdian-wkg5hf9t5qetspydbxyk6to0ea4442.md) — 无时差研究所从《乘风破浪的姐姐》讨论成熟艺人的职业重启、女性职场互助、资历权力、赛制公信力与粉圈数据劳动。
 - [风味吃喝：农夫山泉，钟睒睒如何三度问鼎中国首富](sources/fengwei-chihe-nongfu-shanquan-zhongshanshan-ruhe-sandu-wending-zhongguo-shoufu-gkwrijiotjlral0wegtwycfd.md) — 大小电波梳理钟睒睒、养生堂与农夫山泉，以大包装切入、天然水争议、饮料矩阵、东方树叶长期培育、现金流和股权控制解释消费品牌扩张。
 - [372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》](sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr.md) — 独树不成林以马洛《浮士德博士的悲剧》区分技术能力与人生目的、更多选择与反思自由、短期能力与长期依赖，以及逼真模拟与真实理解。
 - [373-培根是不是在四百年前已经预想出了硅谷的技术乌托邦？《新大西岛》](sources/373-peigen-shibushi-zai-sibai-nianqian-yijing-yuxiang-chule-guigu-de-jishu-wutuobang-xin-daxidao-lljou2j4mzbbj40mf-2ibrx-04ui9.md) — 独树不成林以培根《新大西岛》讨论组织化科学、知识基础设施权力、技术保密、专家自治与公共问责。
@@ -4856,6 +4857,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP391-当AI完成所有工作，一个人应当如何证明自己的价值？](sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q.md) — 无时差研究所以旅行、创作、分析和多智能体案例讨论源头信息、耐久技能、验收标准及人在 AI 执行链中的目标与判断责任。
 
 ## Entities
+- [《乘风破浪的姐姐》](entities/SistersWhoMakeWaves.md) — 以30岁以上女艺人为主体、同时承载职业展示与传统选秀机制的真人秀节目。
+- [蓝盈莹](entities/LanYingying.md) — 节目中体现直接机会争取、关系规范冲突与团队依附变化的演员。
+- [伊能静](entities/YiNengjing.md) — 节目中同时呈现资深经验、权威姿态、舆论压力与适应性调整的艺人。
+- [宁静](entities/NingJingActress.md) — 节目中以资历、分工能力与非正式权力影响团队的演员。
+- [孟佳](entities/MengJiaSinger.md) — 经历女团、事业低谷与节目再曝光并持续保持唱跳训练的歌手。
+- [王霏霏](entities/WangFeifeiSinger.md) — 经历女团、回国重启与专业舞台再评价的歌手。
 - [钟睒睒 / Zhong Shanshan](entities/ZhongShanshan.md) — Journalist-turned-founder whose concentrated ownership joins Yangshengtang, Nongfu Spring, and Wantai Biological.
 - [养生堂 / Yangshengtang](entities/Yangshengtang.md) — Consumer-health company that supplied Zhong's early commercial base and later served as an ownership vehicle.
 - [万泰生物 / Wantai Biological](entities/WantaiBiological.md) — Biotech company included in the episode's account of Zhong's controlled asset portfolio.
@@ -18688,6 +18695,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [女性职场互助](concepts/FemaleWorkplaceMutualAid.md) — 在结构性约束下通过资源、信息、倡导与协作扩大彼此机会的非零和实践。
+- [粉圈数据劳动](concepts/FandomDataLabor.md) — 粉丝以投票、打榜、集资、购买与控评生产明星可见商业指标的协调劳动。
+- [成熟艺人职业重启](concepts/MaturePerformerCareerRelaunch.md) — 中期职业者借集中曝光重新连接专业能力、公众认知与后续机会的过程。
+- [真人秀竞赛规则正当性](concepts/RealityCompetitionRuleLegitimacy.md) — 竞赛节目规则透明、稳定、可理解且一致适用所形成的观众信任。
 - [Category Beachhead Entry](concepts/CategoryBeachheadEntry.md) — Entering a mature market through a narrower package, occasion, user, or channel before expanding into the mass category.
 - [Controversy-Driven Category Positioning](concepts/ControversyDrivenCategoryPositioning.md) — Using a sharp comparative claim and ensuing opposition to make a category distinction salient, with explicit truth and legal boundaries.
 - [Long-Horizon Product Incubation](concepts/LongHorizonProductIncubation.md) — Retaining a weak early product while category habits or portfolio value mature, subject to evidence and survivorship-bias limits.

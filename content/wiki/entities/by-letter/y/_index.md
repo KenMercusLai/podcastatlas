@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13750
+wiki_total_pages: 13756
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "YiwuGarrisonLateHan"
     title: "伊吾屯田 / Yiwu Garrison Farming (late Han)"
     url: "/wiki/entities/yiwugarrisonlatehan/"
+  - key: "YiNengjing"
+    title: "伊能静 / Yi Nengjing"
+    url: "/wiki/entities/yinengjing/"
   - key: "YiqueBattle"
     title: "伊阙之战 / Battle of Yique"
     url: "/wiki/entities/yiquebattle/"
