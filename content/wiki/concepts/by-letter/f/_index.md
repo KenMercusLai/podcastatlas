@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10852
+wiki_total_pages: 10854
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "FreshProduceSafetyRegulation"
     title: "Fresh Produce Safety Regulation"
     url: "/wiki/concepts/freshproducesafetyregulation/"
+  - key: "FreshSnackRetail"
+    title: "Fresh Snack Retail / 新鲜零食"
+    url: "/wiki/concepts/freshsnackretail/"
   - key: "FreshMadeIceCreamRetail"
     title: "Fresh-Made Ice Cream Retail"
     url: "/wiki/concepts/freshmadeicecreamretail/"

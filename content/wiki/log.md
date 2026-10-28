@@ -37981,3 +37981,11 @@ Added source `default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | Vol.278 新鲜零食，多新鲜呐
+
+Added source `vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz`; created [[FreshSnackRetail|Fresh Snack Retail / 新鲜零食]] and [[ShortShelfLifeRetailOperations|Short-Shelf-Life Retail Operations / 短保零售运营]]; and resynthesized [[Changsha]], [[ValueSnackChannelConsolidation]], [[ConsumerBrandCapitalTimeMismatch]], [[ConsumerBrandSupplyChainHomogenization]], and [[ShoppingCenterRestaurantization]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: fresh-snack retail constructs freshness through a mix of genuinely short shelf life, clean-label cues, visible preparation, sampling, labels, and space, while durable scale depends on shrink control, food safety, regional factory density, product distinction, repeat purchase, and city-to-city portability after first-store novelty fades. No settled contradiction was adopted. Brand-reported shrink conflicts with higher external estimates, and store counts, factory radii, policy incentives, margins, payback, and market ceilings remain source-scoped because the supplied file is a structured episode summary rather than audited operating data. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,760 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

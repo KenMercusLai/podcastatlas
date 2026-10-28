@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.278 新鲜零食，多新鲜呐](sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz.md) — 商业就是这样拆解新鲜零食的短保与体验式“新鲜”、区域供应链、商场引流、资本推动及复购和跨城复制风险。
 - [Politicians are afraid to fix taxes. So 100 citizens tried.](sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693.md) — Planet Money follows a 100-resident Connecticut citizens' assembly from fiscal learning and deliberation through tax recommendations, publication conflict, and the limits of advisory power.
 - [Bye bye Bibi? Israel’s election results](sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811.md) — The Intelligence on Israel’s coalition deadlock, Jon Ossoff’s constituent-service campaign model, and measured critic–audience film-rating alignment.
 - [能源转型进入下半场：当环保与经济增长不再是二选一](sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais.md) — 不合时宜以电气技术革命连接清洁供给、终端电气化、系统灵活性、制造学习、经济采用与制度公平。
@@ -12857,7 +12858,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; repeated ignored grain, Xudu, and Cao-rear warnings culminate in a rejected hold-and-harass plan, imprisonment, and post-Guandu execution.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
-- [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
+- [Changsha / 长沙](entities/Changsha.md) — Entertainment-production labour pool and fresh-snack consumer-brand incubation environment, with strong local launch conditions but uncertain cross-city portability.
 - [Mykhailo Fedorov](entities/MykhailoFedorov.md) — Ukrainian reformist official in the source's defence-ministry crisis, tied to drone scale-up, procurement incentives, and public protest after dismissal.
 - [Oleksandr Syrskyi / Sersky](entities/OleksandrSyrskyi.md) — Ukrainian commander normalized from the source spelling "Sersky," presented as the rigid command-culture rival to Fedorov.
 - [Mykhailo Drapatyi / Drapati](entities/MykhailoDrapatyi.md) — Ukrainian general normalized from the source spelling "Drapati," appointed after Syrskyi and framed as a new-generation command-reform test.
@@ -18713,6 +18714,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Fresh Snack Retail / 新鲜零食](concepts/FreshSnackRetail.md) — Mall format combining selected short-life foods with clean-label cues, visible preparation, sampling, snack aggregation, and experience-led browsing.
+- [Short-Shelf-Life Retail Operations / 短保零售运营](concepts/ShortShelfLifeRetailOperations.md) — Forecasting, shrink, hygiene, production-radius, logistics, and store-density system required for perishable retail.
 - [Citizens' Assembly](concepts/CitizensAssembly.md) — Sortition-based deliberative institution combining demographic composition, policy learning, public judgment, and recommendation.
 - [Deliberative Civic Learning](concepts/DeliberativeCivicLearning.md) — Development of policy and procedural competence through shared instruction, diverse experience, and repeated deliberation.
 - [Connecticut Local Fiscal Fragmentation](concepts/ConnecticutLocalFiscalFragmentation.md) — Relationship among municipal fragmentation, separate school systems, duplicated services, limited state redistribution, and local property-tax pressure.

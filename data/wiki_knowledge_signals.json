@@ -43835,6 +43835,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/changpinggranarysystem/"
     },
+    "Changsha": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "百万个景观社会：听说你也想当主播？ [lgd0YapCLwVsessg7XnhaarPYIWy].md",
+          "key": "baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy",
+          "show": "面基",
+          "title": "百万个景观社会：听说你也想当主播？",
+          "url": "/wiki/sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy/"
+        },
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/changsha/"
+    },
     "ChangshanKingdomWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -58388,9 +58411,9 @@
       "url": "/wiki/concepts/consumeraishoppingagentbenchmark/"
     },
     "ConsumerBrandCapitalTimeMismatch": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CMCoOR4DfOJ5Br3MlABkw9DW [CMCoOR4DfOJ5Br3MlABkw9DW].md",
@@ -58398,9 +58421,16 @@
           "show": "无时差研究所",
           "title": "EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？",
           "url": "/wiki/sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw/"
+        },
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/consumerbrandcapitaltimemismatch/"
     },
     "ConsumerBrandEvidenceResponse": {
@@ -58420,9 +58450,9 @@
       "url": "/wiki/concepts/consumerbrandevidenceresponse/"
     },
     "ConsumerBrandSupplyChainHomogenization": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CMCoOR4DfOJ5Br3MlABkw9DW [CMCoOR4DfOJ5Br3MlABkw9DW].md",
@@ -58430,9 +58460,16 @@
           "show": "无时差研究所",
           "title": "EP145-营销套路深似海—我们是如何一次次掉入双十一消费主义陷阱的？",
           "url": "/wiki/sources/ep145-yingxiao-taolu-shen-si-hai-women-shi-ruhe-yici-ci-diaoru-shuangshiyi-xiaofei-zhuyi-xianjing-de-cmcoor4dfoj5br3mlabkw9dw/"
+        },
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/consumerbrandsupplychainhomogenization/"
     },
     "ConsumerCameraSurveillance": {
@@ -105554,6 +105591,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/freshgroceryecommerceeconomics/"
+    },
+    "FreshSnackRetail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/freshsnackretail/"
     },
     "FriedrichEbert": {
       "episode_count": 3,
@@ -258636,9 +258689,9 @@
       "url": "/wiki/entities/shizichanyu/"
     },
     "ShoppingCenterRestaurantization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
@@ -258660,9 +258713,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
           "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+        },
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/shoppingcenterrestaurantization/"
     },
     "ShortDailyMeditationAttentionTraining": {
@@ -258747,6 +258807,22 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/shortdramaplatformaggregation/"
+    },
+    "ShortShelfLifeRetailOperations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/shortshelfliferetailoperations/"
     },
     "ShortTermConservationVolunteering": {
       "episode_count": 1,
@@ -291452,9 +291528,9 @@
       "url": "/wiki/concepts/valueinvestingprerequisitestack/"
     },
     "ValueSnackChannelConsolidation": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
@@ -291469,9 +291545,16 @@
           "show": "声动早咖啡",
           "title": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？",
           "url": "/wiki/sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031/"
+        },
+        {
+          "episode_file": "GKwRIMAOt8w5AOgz8ATxLrqz [GKwRIMAOt8w5AOgz8ATxLrqz].md",
+          "key": "vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz",
+          "show": "商业就是这样",
+          "title": "Vol.278 新鲜零食，多新鲜呐",
+          "url": "/wiki/sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/valuesnackchannelconsolidation/"
     },
     "ValuesBasedAIGovernance": {
