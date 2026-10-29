@@ -38111,3 +38111,11 @@ Added source `47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiank
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | 124 三周年特辑｜情为何物：金庸三次婚姻大起底
+
+Added source `124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8`; created [[DuYefen]], [[ZhuMei]], [[LinLeyi]], and [[MingPao]]; and resynthesized [[JinYong]] and [[ArtisticBiographicalReductionism]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jin Yong's admitted responsibility for wronging Zhu Mei remains distinct from unresolved claims about Du Yefen's “betrayal,” the state of the second marriage before the affair, property transfers, an alleged sterilization condition, and romanticized first-meeting dialogue; biographical resemblance and emotional analogy can motivate literary inquiry but do not establish one-to-one fictional prototypes or direct causation. No settled contradiction was adopted. Dates, financing, divorce terms, private motives, wealth, family relationships, and quoted recollections remain episode-scoped because the supplied file is a structured summary of biographies, interviews, and third-party accounts rather than a balanced primary archive. Broad show and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,777 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [124 三周年特辑｜情为何物：金庸三次婚姻大起底](sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8.md) — 纸醉金迷FM以金庸三次婚姻辨析背叛、婚外情、财产、年龄差和文学原型，并区分承认、转述、争议与推测。
 - [Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today](sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886.md) — Tomorrow Today interview on cross-cultural leadership, execution accountability, transformation, crisis communication, and human judgment under AI.
 - [一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？](sources/24354fbed76f-24354fbed76f.md) — 科技乱炖从 PHP 应急处置讨论 AI 加速的漏洞发现与利用、补丁技术债、协调披露、依赖链风险、合规能力差距及工业化身份诈骗。
 - [ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M](sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m.md) — The SaaS Podcast interview with Alan Talmor on Ask AI's pivot into Mosaic, technical-support automation, design-partner validation, founder-led sales, outcome positioning, and diagnostic enterprise pilots.
@@ -4886,6 +4887,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》](sources/47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t.md) — 怪东西以《十字军骑士》连接北方十字军、条顿骑士团、格伦瓦尔德战役、马尔堡与波兰民族记忆，并区分中世纪冲突和十九世纪民族主义投射。
 
 ## Entities
+- [杜冶芬 / Du Yefen](entities/DuYefen.md) — 金庸第一任妻子，其婚姻破裂主要留存在不对称的回忆与“背叛”争议中。
+- [朱玫 / Zhu Mei](entities/ZhuMei.md) — 记者、明报早期贡献者、金庸第二任妻子及四名子女之母。
+- [林乐怡 / Lin Leyi](entities/LinLeyi.md) — 金庸长期伴侣与第三任妻子，其相识叙事、年龄差和婚外关系责任均需来源限定。
+- [《明报》 / Ming Pao](entities/MingPao.md) — 金庸创办的香港报纸，本期以朱玫的早期劳动及创业决策争议为界定范围。
 - [Federica Fornaciari](entities/FedericaFornaciari.md) — Consultant, agency executive, educator, entrepreneur, and investor centered on execution-led transformation.
 - [Bain & Company](entities/BainAndCompany.md) — Consulting context for Fornaciari's analytical formation and critique of advice detached from delivery.
 - [Havas](entities/Havas.md) — Agency context for multidisciplinary delivery and client-outcome accountability.
@@ -19440,7 +19445,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mission-Led Category Adjacency / 使命驱动的品类邻接](concepts/MissionLedCategoryAdjacency.md) — Expansion into a neighboring category when the same customer mission and transferable capabilities justify the risk under commercial and governance constraints.
 - [Monarchical Titulature and Address / 君主称号、称谓与自称](concepts/MonarchicalTitulatureAndAddress.md) — 将正式头衔、他称、历史称名与君主自称理解为继承、礼仪、领地和合法性的制度表达。
 - [Institutional-Title Translation / 制度称谓翻译](concepts/InstitutionalTitleTranslation.md) — 在选择熟悉译名之前比较政治职能、权威来源、继承关系、领地范围与原语用法。
-- [Artistic-Biographical Reductionism](concepts/ArtisticBiographicalReductionism.md) — Error of treating one life feature as a sufficient master explanation for an artist, creative process, and works.
+- [Artistic-Biographical Reductionism](concepts/ArtisticBiographicalReductionism.md) — Boundary against treating identity, suffering, relationships, or disputed life stories as a sufficient master explanation for art.
 - [National Art Within Transnational Culture](concepts/NationalArtWithinTransnationalCulture.md) — Formation of recognizable national art through local materials and cross-border genres, institutions, patrons, and audiences.
 - [Energy-Aware Work Design / 能量感知型工作设计](concepts/EnergyAwareWorkDesign.md) — Treats work capacity as changing attention, activation, recovery, task fit, motivation, and avoidable friction rather than schedulable hours alone.
 - [Coordination Tax / 协同税](concepts/CoordinationTax.md) — Time, attention, decision, and emotional overhead created by messages, meetings, handoffs, approval layers, and context reconstruction.

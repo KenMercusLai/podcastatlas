@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13809
+wiki_total_pages: 13813
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "DuZhongLateHan"
     title: "杜仲 / Du Zhong (late Han)"
     url: "/wiki/entities/duzhonglatehan/"
+  - key: "DuYefen"
+    title: "杜冶芬 / Du Yefen"
+    url: "/wiki/entities/duyefen/"
   - key: "DuWuWangMangKiller"
     title: "杜吾 / Du Wu (Wang Mang killer)"
     url: "/wiki/entities/duwuwangmangkiller/"

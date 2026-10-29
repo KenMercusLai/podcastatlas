@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13809
+wiki_total_pages: 13813
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1988,6 +1988,9 @@ wiki_pages:
   - key: "ModernJapaneseLiteratureOrigin"
     title: "《日本现代文学的起源》"
     url: "/wiki/entities/modernjapaneseliteratureorigin/"
+  - key: "MingPao"
+    title: "《明报》 / Ming Pao"
+    url: "/wiki/entities/mingpao/"
   - key: "MotherRight"
     title: "《母权论》 / Mother Right"
     url: "/wiki/entities/motherright/"

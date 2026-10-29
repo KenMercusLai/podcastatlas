@@ -21987,9 +21987,9 @@
       "url": "/wiki/concepts/artistrightscontrol/"
     },
     "ArtisticBiographicalReductionism": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2445190309 [GLT2445190309].md",
@@ -21997,9 +21997,16 @@
           "show": "The Rest Is History",
           "title": "630. Tchaikovsky: LIVE at the Royal Albert Hall",
           "url": "/wiki/sources/630-tchaikovsky-live-at-the-royal-albert-hall-glt2445190309/"
+        },
+        {
+          "episode_file": "lpOE97U8t5RUrUftF0Og0-rClZN8 [lpOE97U8t5RUrUftF0Og0-rClZN8].md",
+          "key": "124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8",
+          "show": "纸醉金迷FM",
+          "title": "124 三周年特辑｜情为何物：金庸三次婚姻大起底",
+          "url": "/wiki/sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/artisticbiographicalreductionism/"
     },
     "ArtisticContinuityAgainstNostalgia": {
@@ -78799,6 +78806,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/duyewesternhan/"
+    },
+    "DuYefen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpOE97U8t5RUrUftF0Og0-rClZN8 [lpOE97U8t5RUrUftF0Og0-rClZN8].md",
+          "key": "124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8",
+          "show": "纸醉金迷FM",
+          "title": "124 三周年特辑｜情为何物：金庸三次婚姻大起底",
+          "url": "/wiki/sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/duyefen/"
     },
     "DuZhongLateHan": {
       "episode_count": 1,
@@ -153653,9 +153676,9 @@
       "url": "/wiki/entities/jinyingbreastcancersurvivor/"
     },
     "JinYong": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
@@ -153719,9 +153742,16 @@
           "show": "纸醉金迷FM",
           "title": "087 金庸小说与儒家文化",
           "url": "/wiki/sources/087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8/"
+        },
+        {
+          "episode_file": "lpOE97U8t5RUrUftF0Og0-rClZN8 [lpOE97U8t5RUrUftF0Og0-rClZN8].md",
+          "key": "124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8",
+          "show": "纸醉金迷FM",
+          "title": "124 三周年特辑｜情为何物：金庸三次婚姻大起底",
+          "url": "/wiki/sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/jinyong/"
     },
     "JinYongConfucianEthics": {
@@ -169825,6 +169855,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/linjianxinstandup/"
+    },
+    "LinLeyi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpOE97U8t5RUrUftF0Og0-rClZN8 [lpOE97U8t5RUrUftF0Og0-rClZN8].md",
+          "key": "124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8",
+          "show": "纸醉金迷FM",
+          "title": "124 三周年特辑｜情为何物：金庸三次婚姻大起底",
+          "url": "/wiki/sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/linleyi/"
     },
     "LinPingzhiJinYong": {
       "episode_count": 2,
@@ -195822,6 +195868,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/mingdynasty/"
+    },
+    "MingPao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpOE97U8t5RUrUftF0Og0-rClZN8 [lpOE97U8t5RUrUftF0Og0-rClZN8].md",
+          "key": "124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8",
+          "show": "纸醉金迷FM",
+          "title": "124 三周年特辑｜情为何物：金庸三次婚姻大起底",
+          "url": "/wiki/sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/mingpao/"
     },
     "MingQingHangzhouPublishingCulture": {
       "episode_count": 1,
@@ -326496,6 +326558,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/zhumaichenwesternhan/"
+    },
+    "ZhuMei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpOE97U8t5RUrUftF0Og0-rClZN8 [lpOE97U8t5RUrUftF0Og0-rClZN8].md",
+          "key": "124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8",
+          "show": "纸醉金迷FM",
+          "title": "124 三周年特辑｜情为何物：金庸三次婚姻大起底",
+          "url": "/wiki/sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/zhumei/"
     },
     "ZhuMuLateHan": {
       "episode_count": 4,

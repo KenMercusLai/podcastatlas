@@ -12,7 +12,8 @@ sources:
   - 097-jinyong-xiaoshuo-renwu-mbti-dapandian-lqpjtzymjh4csibwhglc1vv93jw6
   - 092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u
   - 087-jinyong-xiaoshuo-yu-rujia-wenhua-lvkorb4jx57hthqhstjp0phrjx_8
-last_updated: 2026-10-10
+  - 124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8
+last_updated: 2026-10-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,15 +37,17 @@ Episode 504 adds the newspaper relationship. Jin recognized Lin's writing while 
 
 The short go-culture preview adds a public-patronage layer. It presents Jin's go scenes and adaptations as informal cultural entry points, associates him with [[NieWeiping|聂卫平]] in tournament promotion, mentions an honorary amateur sixth-dan rank, and connects his authorized mainland publishing income to cultural institutions and go activity. These claims broaden his profile beyond authorship and journalism, but the supplied excerpt does not quantify audience conversion or explain the events, rank, or relationship in detail.
 
+The marriage episode adds a difficult private-life layer without turning it into a master key to the fiction. Jin married [[DuYefen|杜冶芬]], [[ZhuMei|朱玫]], and [[LinLeyi|林乐怡]] in succession. His later accusation that Du betrayed him is not balanced by her own testimony; his long affair with Lin was a major cause of his marriage to Zhu ending, and he later acknowledged that he had wronged Zhu. Reports of divorce property, Zhu's later finances, an alleged sterilization condition, and the polished story of meeting Lin remain disputed. Comparisons between these relationships and fictional characters or passages are therefore evidence of possible transformed experience, not one-to-one prototypes or demonstrated causation.
+
 ## Key Characteristics
 
 - Converted wide cultural knowledge into popular literary form and, in bounded examples, into both an informal route toward go culture and a narrative field for testing Confucian ethics.
 - Used historical settings, factional conflict, and character choices to explore mobility, identity, power, moral practice, and responsibility to ordinary people.
 - Repeatedly used withdrawal endings to test freedom from role, hierarchy, reputation, and attachment.
 - Operated at the intersection of fiction, newspaper publishing, and political commentary.
+- Left a private record in which admitted marital responsibility coexists with disputed chronology, unequal testimony, and retrospective storytelling.
 - Served as an early career sponsor and editor for Lin Xingzhi.
 - Later became Lin's commercial and political interlocutor rather than a permanent ally.
-- Created character structures that support comparison across motive, moral choice, sociability, perception, imagination, planning, adaptability, growth, and multiple screen traditions without collapsing into single-trait labels.
 
 ## Evidence
 
@@ -85,16 +88,22 @@ The short go-culture preview adds a public-patronage layer. It presents Jin's go
 - [[092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u]] presents fiction and adaptation as routes into go culture and associates Jin with Nie Weiping and the 炎黄杯.
 - [[092-jinyong-xiaoshuo-yu-weiqi-wenhua-nieweiping-yu-jinyong-fvyifftyret8uzjeqlax31kmtq9u]] mentions an honorary amateur sixth-dan rank and mainland publishing proceeds directed toward cultural institutions and go activity, while preserving the stronger donation claim as disputed.
 
+### Marriage, responsibility, and biographical inference
+
+- [[124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8]] reconstructs three marriages while separating Jin's later admissions from disputed accusations, chronology, property claims, and family recollection.
+- [[124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8]] treats his affair with Lin Leyi as a major cause of the second marriage's collapse and preserves his acknowledgment that he wronged Zhu Mei.
+- [[124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8]] rejects direct fictional-prototype claims based only on resemblance, emotional analogy, or temporal sequence.
+
 ## Qualifications
 
-The literary sources are selective podcast interpretations rather than a full study of all Jin Yong novels or direct evidence of authorial intent. The Confucian episode ranges across intellectual history, classical interpretation, gender, war, kinship, and law; its character readings and modern translation are arguments rather than a definitive moral system, and its historical claims remain source-scoped. The reclusion episode moves among historical typology, character judgment, Confucian-Daoist-Buddhist synthesis, and modern workplace analogy; these should remain related readings rather than one proven system. The MBTI discussions are entertainment-oriented literary classification, not character diagnosis or psychometric evidence, and sometimes risk mapping I/E onto isolation or initiative, N/S onto creativity or literalness, T/F onto moral-emotional stereotypes, and J/P onto control or impulsiveness. The adaptation surveys provide reception evidence, not objective rankings of versions or performers, and leave counts, names, years, credits, ratings, and production details unverified or occasionally confused. Episode 504 is told from a Lin-centered retrospective and does not provide Jin's full account of their commercial or political disputes. The go-culture source is a three-minute preview with transcription errors; it does not establish tournament roles, rank meaning, audience conversion, or the full destination of the reported publishing proceeds.
+The literary sources are selective podcast interpretations rather than a full study of all Jin Yong novels or direct evidence of authorial intent. The Confucian episode ranges across intellectual history, classical interpretation, gender, war, kinship, and law; its character readings and modern translation are arguments rather than a definitive moral system, and its historical claims remain source-scoped. The reclusion episode moves among historical typology, character judgment, Confucian-Daoist-Buddhist synthesis, and modern workplace analogy; these should remain related readings rather than one proven system. The MBTI discussions are entertainment-oriented literary classification, not character diagnosis or psychometric evidence, and sometimes risk mapping I/E onto isolation or initiative, N/S onto creativity or literalness, T/F onto moral-emotional stereotypes, and J/P onto control or impulsiveness. The adaptation surveys provide reception evidence, not objective rankings of versions or performers, and leave counts, names, years, credits, ratings, and production details unverified or occasionally confused. Episode 504 is told from a Lin-centered retrospective and does not provide Jin's full account of their commercial or political disputes. The go-culture source is a three-minute preview with transcription errors; it does not establish tournament roles, rank meaning, audience conversion, or the full destination of the reported publishing proceeds. The marriage episode relies on public biographies, interviews, and recollections with uneven access to the principals; it cannot settle Du Yefen's conduct, the state of the second marriage before the affair, financial transfers, private divorce terms, or direct autobiographical causation in the novels.
 
 ## What Changed
 
-- Added an ethical reading that separates enacted Confucian virtues from scholar status, classical display, and rigid ritual.
-- Added people protection and opposition to aggression as the moral center of “侠之大者，为国为民.”
-- Preserved conflicts among kinship, justice, loyalty, surrender, resistance, and civilian protection rather than forcing one rule.
-- Qualified the reading as a conversational interpretation and modern reconstruction, not settled authorial intent or intellectual history.
+- Added three marriages to the current profile without making private life a sufficient explanation of the fiction.
+- Added Jin Yong's admitted responsibility for wronging Zhu Mei while preserving uncertainty about earlier marital conflict and later financial arrangements.
+- Separated one-sided recollection, disputed biography, and polished family story from settled chronology.
+- Rejected one-to-one fictional prototype claims based only on resemblance or emotional analogy.
 
 ## Relationships
 
@@ -113,3 +122,7 @@ The literary sources are selective podcast interpretations rather than a full st
 - [[NieWeiping]] - go champion linked to Jin through reported friendship, event promotion, and cultural advocacy.
 - [[WeiqiCulturalPromotion]] - framework for Jin's reported narrative, public, event, recognition, and funding contributions to go.
 - [[JinYongConfucianEthics]] - ethical framework distinguishing conduct-centered benevolence and responsibility from ritualized or instrumental moral form.
+- [[DuYefen]] - first wife whose disputed separation is known largely through unequal retrospective testimony.
+- [[ZhuMei]] - second wife, early Ming Pao contributor, and spouse whom Jin later acknowledged wronging.
+- [[LinLeyi]] - long-term partner and third wife whose relationship with Jin began during his second marriage.
+- [[ArtisticBiographicalReductionism]] - boundary against converting marriage history into a sufficient key to fictional characters or themes.
