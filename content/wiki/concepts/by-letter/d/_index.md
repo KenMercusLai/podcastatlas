@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10882
+wiki_total_pages: 10886
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "DonjuMarketClass"
     title: "Donju Market Class"
     url: "/wiki/concepts/donjumarketclass/"
+  - key: "DonorAdvisedFundTransparencyGap"
+    title: "Donor-Advised Fund Transparency Gap"
+    url: "/wiki/concepts/donoradvisedfundtransparencygap/"
   - key: "DonroeDoctrine"
     title: "Donroe Doctrine"
     url: "/wiki/concepts/donroedoctrine/"

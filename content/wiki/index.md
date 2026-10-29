@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Effective non-altruism: Elon Musk’s foundation](sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087.md) — The Intelligence examines the Musk Foundation's tax-efficient stock funding, opaque and delayed giving, Adam Hamilton's liberal Christian Kansas campaign, and the evidence below the 10,000-step myth.
 - [EP34-中秋特辑-灵魂拷问/别怕今夜空虚寂寞冷](sources/ep34-zhongqiu-teji-linghun-kaowen-biepa-jinye-kongxu-jimo-leng-wkgkk1unb1oxo9ngcvx-ivoggiw069.md) — 无时差研究所以多位嘉宾的矛盾答案重读嫦娥、吴刚与中秋，将神话版本连接到性别、婚姻、阶级、权力、无尽劳动及海外团圆实践。
 - [EP128-十五年一稿的城市规划，究竟在规划什么？](sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr.md) — 无时差研究所以空间结构、职住平衡、城中村、城市更新、气候基础设施、智慧治理与弹性公共空间解释长期规划如何落到日常生活。
 - [EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？](sources/ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg.md) — 无时差研究所从GameStop拆解逼空、期权对冲、清算保证金、订单流支付、社交投资协调及散户与机构的风险差距。
@@ -4876,6 +4877,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Advice Line with Tope Awotona of Calendly](sources/advice-line-with-tope-awotona-of-calendly-vmp4254648132.md) — Four founder cases on diagnosing growth constraints, delegating operations, staging location expansion, concentrating channels, and building around customers.
 
 ## Entities
+- [Musk Foundation](entities/MuskFoundation.md) — Elon Musk's private foundation, assessed through appreciated-stock funding, sparse disclosure, related recipients, donor-advised funds, and payout timing.
+- [Fidelity Charitable](entities/FidelityCharitable.md) — Donor-advised-fund sponsor used to distinguish charitable restriction from public traceability of final grants.
+- [Adam Hamilton](entities/AdamHamilton.md) — Kansas pastor and Democratic Senate candidate combining liberal Christian social policy with moderate Midwestern coalition appeals.
 - [Chang'e / 嫦娥](entities/ChangE.md) — Lunar figure whose competing versions recode desire, sacrifice, marital loyalty, punishment, and female agency.
 - [Wu Gang / 吴刚](entities/WuGang.md) — Lunar woodcutter whose regenerating tree supports readings of futility, resistance, persistence, and unintended benefit.
 - [Citadel Securities](entities/CitadelSecurities.md) — Market maker named in the GameStop episode's payment-for-order-flow explanation, disambiguated from the Citadel investment firm.
@@ -18751,6 +18755,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [iSlide](entities/ISlide.md) — Customized footwear company pursuing focused growth across direct, wholesale, bulk, and dropshipping channels.
 
 ## Concepts
+- [Private Foundation Payout Governance](concepts/PrivateFoundationPayoutGovernance.md) — Separates tax-advantaged charitable commitment, qualifying distribution, timely deployment, independence, and demonstrated public benefit.
+- [Donor-Advised Fund Transparency Gap](concepts/DonorAdvisedFundTransparencyGap.md) — Loss of public traceability between a donor's transfer to a sponsoring charity and later grants to final recipients.
+- [Liberal Christian Electoral Politics](concepts/LiberalChristianElectoralPolitics.md) — Christian center-left politics using compassion and social provision to contest right-wing religious monopoly and bridge voter identities.
+- [Step-Count Health Dose Response](concepts/StepCountHealthDoseResponse.md) — Graded walking-benefit model with meaningful gains below 10,000 steps, diminishing returns, and cadence as a second dimension.
 - [Mid-Autumn Festival Layering / 中秋节文化叠层](concepts/MidAutumnFestivalLayering.md) — Lunar myth, poetry, food, reunion, aesthetic selection, and diaspora practice accumulated around one festival.
 - [Myth As Social Mirror / 神话作为社会镜像](concepts/MythAsSocialMirror.md) — Reinterpretation of inherited stories through changing assumptions about gender, marriage, class, authority, and moral order.
 - [Endless Punishment Labor / 无尽惩罚劳动](concepts/EndlessPunishmentLabor.md) — Unfinishable mythic work read through erased results, justice, resistance, persistence, and external value.

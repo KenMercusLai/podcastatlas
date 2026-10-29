@@ -32541,6 +32541,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DonorAdvisedFundTransparencyGap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DonroeDoctrine": [
     {
       "key": "politics",
@@ -56724,6 +56731,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LiberalChristianElectoralPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LiberalDemocraticPartyJapan": [
     {
       "key": "politics",
@@ -64299,6 +64313,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MuskFoundation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MuslimBrotherhood": [
@@ -73215,6 +73236,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PrivateFoundationPayoutGovernance": [
     {
       "key": "politics",
       "label": "Politics",
@@ -85665,6 +85693,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "StepCountHealthDoseResponse": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "StepFun": [
@@ -104932,6 +104967,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087": [
     {
       "key": "science",
       "label": "Science",

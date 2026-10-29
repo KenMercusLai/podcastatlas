@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13792
+wiki_total_pages: 13795
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1892,6 +1892,9 @@ wiki_pages:
   - key: "MusicalLy"
     title: "Musical.ly"
     url: "/wiki/entities/musically/"
+  - key: "MuskFoundation"
+    title: "Musk Foundation"
+    url: "/wiki/entities/muskfoundation/"
   - key: "MuslimBrotherhood"
     title: "Muslim Brotherhood"
     url: "/wiki/entities/muslimbrotherhood/"

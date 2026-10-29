@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3431
+topic_total_pages: 3435
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1318,6 +1318,9 @@ topic_concepts:
   - key: "DomesticNetworkSovereignty"
     title: "Domestic Network Sovereignty"
     url: "/wiki/concepts/domesticnetworksovereignty/"
+  - key: "DonorAdvisedFundTransparencyGap"
+    title: "Donor-Advised Fund Transparency Gap"
+    url: "/wiki/concepts/donoradvisedfundtransparencygap/"
   - key: "DonroeDoctrine"
     title: "Donroe Doctrine"
     url: "/wiki/concepts/donroedoctrine/"
@@ -2536,6 +2539,9 @@ topic_concepts:
   - key: "LiAsPoliticalOrder"
     title: "Li As Political Order / 礼制政治秩序"
     url: "/wiki/concepts/liaspoliticalorder/"
+  - key: "LiberalChristianElectoralPolitics"
+    title: "Liberal Christian Electoral Politics"
+    url: "/wiki/concepts/liberalchristianelectoralpolitics/"
   - key: "LiberalismPaternalismBoundary"
     title: "Liberalism-Paternalism Boundary"
     url: "/wiki/concepts/liberalismpaternalismboundary/"
@@ -3508,6 +3514,9 @@ topic_concepts:
   - key: "PrivateFiefExpansionThroughStateWar"
     title: "Private Fief Expansion Through State War / 以国战扩私邑"
     url: "/wiki/concepts/privatefiefexpansionthroughstatewar/"
+  - key: "PrivateFoundationPayoutGovernance"
+    title: "Private Foundation Payout Governance"
+    url: "/wiki/concepts/privatefoundationpayoutgovernance/"
   - key: "PrivateHospitalComplianceTransition"
     title: "Private Hospital Compliance Transition / 民营医院合规转型"
     url: "/wiki/concepts/privatehospitalcompliancetransition/"
@@ -7316,6 +7325,9 @@ topic_entities:
   - key: "MunichAgreement1938"
     title: "Munich Agreement (1938)"
     url: "/wiki/entities/munichagreement1938/"
+  - key: "MuskFoundation"
+    title: "Musk Foundation"
+    url: "/wiki/entities/muskfoundation/"
   - key: "MuslimBrotherhood"
     title: "Muslim Brotherhood"
     url: "/wiki/entities/muslimbrotherhood/"

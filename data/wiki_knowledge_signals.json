@@ -8103,6 +8103,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/adamgrant/"
     },
+    "AdamHamilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/adamhamilton/"
+    },
     "AdamIPSmith": {
       "episode_count": 7,
       "show_count": 1,
@@ -76774,6 +76790,22 @@
       "updated": "2026-10-27",
       "url": "/wiki/entities/donniechristie/"
     },
+    "DonorAdvisedFundTransparencyGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/donoradvisedfundtransparencygap/"
+    },
     "DopamineBaselineMaintenance": {
       "episode_count": 2,
       "show_count": 1,
@@ -100088,6 +100120,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/fidelio/"
+    },
+    "FidelityCharitable": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/fidelitycharitable/"
     },
     "FieldDiscretionPacification": {
       "episode_count": 1,
@@ -168468,6 +168516,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/libgen/"
     },
+    "LiberalChristianElectoralPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/liberalchristianelectoralpolitics/"
+    },
     "LiberalPartyUK": {
       "episode_count": 1,
       "show_count": 1,
@@ -200590,6 +200654,22 @@
       "updated": "2026-10-23",
       "url": "/wiki/concepts/muskcorporateconsolidation/"
     },
+    "MuskFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/muskfoundation/"
+    },
     "MustafaKemalAtaturk": {
       "episode_count": 3,
       "show_count": 1,
@@ -230262,6 +230342,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
+    },
+    "PrivateFoundationPayoutGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/privatefoundationpayoutgovernance/"
     },
     "PrivateHospitalComplianceTransition": {
       "episode_count": 1,
@@ -269256,6 +269352,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/stellantis/"
+    },
+    "StepCountHealthDoseResponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "e3e5eebc1230918ab9e954e1cdf13108 [e3e5eebc1230918ab9e954e1cdf13108.mp3？aid=6ae30277305baddee189d087&chid=d556eb54-6160-4.280].md",
+          "key": "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087",
+          "show": "Economist Podcasts",
+          "title": "Effective non-altruism: Elon Musk’s foundation",
+          "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/stepcounthealthdoseresponse/"
     },
     "StephenChow": {
       "episode_count": 2,

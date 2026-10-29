@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1617
+topic_total_pages: 1619
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2341,6 +2341,9 @@ topic_concepts:
   - key: "StatusQuoRationalization"
     title: "Status-Quo Rationalization / 现状合理化"
     url: "/wiki/concepts/statusquorationalization/"
+  - key: "StepCountHealthDoseResponse"
+    title: "Step-Count Health Dose Response"
+    url: "/wiki/concepts/stepcounthealthdoseresponse/"
   - key: "StrengthTrainingJointProtection"
     title: "Strength Training for Joint Protection / 保护关节的力量训练"
     url: "/wiki/concepts/strengthtrainingjointprotection/"
@@ -4083,6 +4086,9 @@ topic_sources:
   - key: "e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh"
     title: "E46 我们从未看见彼此"
     url: "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"
+  - key: "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087"
+    title: "Effective non-altruism: Elon Musk’s foundation"
+    url: "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
   - key: "ep-37-neurons-future-of-ai-processing"
     title: "EP 37: Neurons: Future of AI Processing"
     url: "/wiki/sources/ep-37-neurons-future-of-ai-processing/"

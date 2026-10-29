@@ -38047,3 +38047,11 @@ Added source `advice-line-with-tope-awotona-of-calendly-vmp4254648132`; created 
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | Effective non-altruism: Elon Musk’s foundation
+
+Added source `effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087`; created [[MuskFoundation]], [[FidelityCharitable]], [[AdamHamilton]], [[PrivateFoundationPayoutGovernance]], [[DonorAdvisedFundTransparencyGap]], [[LiberalChristianElectoralPolitics]], and [[StepCountHealthDoseResponse]]. Core synthesis: legal charitable commitment does not by itself establish timely, transparent, independent, or effective deployment; Hamilton's campaign tests whether a liberal Christian vocabulary can bridge Democratic social policy and disaffected Republican identity; and walking benefits form a dose-response curve with substantial gains below 10,000 steps, diminishing returns near 7,000, and cadence as a complementary dimension. No settled contradiction was adopted. Foundation amounts, grant classifications, recipient relationships, payout calculations, polling, campaign effects, and health effect sizes remain episode-scoped because the supplied file is a structured podcast summary rather than tax filings, a legal ruling, election results, or complete primary studies. Broad legacy entity, party, show, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,769 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -7363,6 +7363,10 @@
     "title": "Adam Grant",
     "url": "/wiki/entities/adamgrant/"
   },
+  "AdamHamilton": {
+    "title": "Adam Hamilton",
+    "url": "/wiki/entities/adamhamilton/"
+  },
   "AdamIPSmith": {
     "title": "Adam I. P. Smith",
     "url": "/wiki/entities/adamipsmith/"
@@ -28551,6 +28555,10 @@
     "title": "Donnie Christie",
     "url": "/wiki/entities/donniechristie/"
   },
+  "DonorAdvisedFundTransparencyGap": {
+    "title": "Donor-Advised Fund Transparency Gap",
+    "url": "/wiki/concepts/donoradvisedfundtransparencygap/"
+  },
   "DonroeDoctrine": {
     "title": "Donroe Doctrine",
     "url": "/wiki/concepts/donroedoctrine/"
@@ -34398,6 +34406,10 @@
   "Fidelity": {
     "title": "Fidelity",
     "url": "/wiki/entities/fidelity/"
+  },
+  "FidelityCharitable": {
+    "title": "Fidelity Charitable",
+    "url": "/wiki/entities/fidelitycharitable/"
   },
   "FiefSecurityIllusion": {
     "title": "Fief Security Illusion / 封地筑城安全幻觉",
@@ -54707,6 +54719,10 @@
     "title": "Lib TV",
     "url": "/wiki/entities/libtv/"
   },
+  "LiberalChristianElectoralPolitics": {
+    "title": "Liberal Christian Electoral Politics",
+    "url": "/wiki/concepts/liberalchristianelectoralpolitics/"
+  },
   "LiberalDemocraticPartyJapan": {
     "title": "Liberal Democratic Party (Japan)",
     "url": "/wiki/entities/liberaldemocraticpartyjapan/"
@@ -63735,6 +63751,10 @@
     "title": "Musk Corporate Consolidation",
     "url": "/wiki/concepts/muskcorporateconsolidation/"
   },
+  "MuskFoundation": {
+    "title": "Musk Foundation",
+    "url": "/wiki/entities/muskfoundation/"
+  },
   "MuslimBrotherhood": {
     "title": "Muslim Brotherhood",
     "url": "/wiki/entities/muslimbrotherhood/"
@@ -72710,6 +72730,10 @@
   "PrivateFiefExpansionThroughStateWar": {
     "title": "Private Fief Expansion Through State War / 以国战扩私邑",
     "url": "/wiki/concepts/privatefiefexpansionthroughstatewar/"
+  },
+  "PrivateFoundationPayoutGovernance": {
+    "title": "Private Foundation Payout Governance",
+    "url": "/wiki/concepts/privatefoundationpayoutgovernance/"
   },
   "PrivateHospitalComplianceTransition": {
     "title": "Private Hospital Compliance Transition / 民营医院合规转型",
@@ -85246,6 +85270,10 @@
   "Stendhal": {
     "title": "Stendhal / 斯汤达",
     "url": "/wiki/entities/stendhal/"
+  },
+  "StepCountHealthDoseResponse": {
+    "title": "Step-Count Health Dose Response",
+    "url": "/wiki/concepts/stepcounthealthdoseresponse/"
   },
   "StepFun": {
     "title": "StepFun",
@@ -105210,6 +105238,10 @@
   "eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767": {
     "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
     "url": "/wiki/sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767/"
+  },
+  "effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087": {
+    "title": "Effective non-altruism: Elon Musk’s foundation",
+    "url": "/wiki/sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087/"
   },
   "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123": {
     "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",

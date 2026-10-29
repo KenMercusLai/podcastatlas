@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 10882
+wiki_total_pages: 10886
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "LiaochengCommanderDilemma"
     title: "Liao City Commander Dilemma / 辽城守将进退困局"
     url: "/wiki/concepts/liaochengcommanderdilemma/"
+  - key: "LiberalChristianElectoralPolitics"
+    title: "Liberal Christian Electoral Politics"
+    url: "/wiki/concepts/liberalchristianelectoralpolitics/"
   - key: "LiberalismPaternalismBoundary"
     title: "Liberalism-Paternalism Boundary"
     url: "/wiki/concepts/liberalismpaternalismboundary/"

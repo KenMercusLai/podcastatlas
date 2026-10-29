@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10882
+wiki_total_pages: 10886
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "PrivateFiefExpansionThroughStateWar"
     title: "Private Fief Expansion Through State War / 以国战扩私邑"
     url: "/wiki/concepts/privatefiefexpansionthroughstatewar/"
+  - key: "PrivateFoundationPayoutGovernance"
+    title: "Private Foundation Payout Governance"
+    url: "/wiki/concepts/privatefoundationpayoutgovernance/"
   - key: "PrivateHospitalComplianceTransition"
     title: "Private Hospital Compliance Transition / 民营医院合规转型"
     url: "/wiki/concepts/privatehospitalcompliancetransition/"
