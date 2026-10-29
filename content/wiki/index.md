@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下](sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i.md) — 半拿铁从1494年驱逐讲到教皇、托斯卡纳大公与王朝绝嗣，并以多元赞助和安娜·玛丽亚的遗赠重审美第奇的政治与文化遗产。
 - [达霏欣｜苹果新系统可以禁止「摇一摇」广告，张一鸣再登胡润百富榜首](sources/dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn.md) — 声动早咖啡串联海外库存错配、AI 财富与资本开支、传感器广告控制、中国汽车架构输出、代言风险、饮料竞争及中小机场公共价值。
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.md) — 硅谷101与Afra、Vitalik梳理有效利他主义、理性主义和AI安全网络，并以公司激励、捐赠变迁、公众合法性与d/acc重审技术治理。
 - [Vol.278 新鲜零食，多新鲜呐](sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz.md) — 商业就是这样拆解新鲜零食的短保与体验式“新鲜”、区域供应链、商场引流、资本推动及复购和跨城复制风险。
@@ -4868,6 +4869,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [從康乃爾到斯坦福，校園性暴力為何難追責？](sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616.md) — 端聞以康乃爾、佛州州立與斯坦福案件分析校內、刑事和民事追責缺口，以及同意能力、兄弟會風險、曝光依賴與性別化同情。
 
 ## Entities
+- [Pope Leo X / 利奥十世](entities/PopeLeoX.md) — Medici pope linking family restoration and artistic patronage to fiscal pressure, indulgence conflict, and the early Reformation crisis.
+- [Pope Clement VII / 克莱曼特七世](entities/PopeClementVII.md) — Medici pope whose alliance failure led into the Sack of Rome and imperial-backed Florentine restoration.
+- [Cosimo I de' Medici / 科西默一世](entities/CosimoIMedici.md) — Cadet-branch duke who consolidated hereditary rule, conquered Siena, and built grand-ducal legitimacy through state and culture.
+- [Anna Maria Luisa de' Medici / 安娜·玛丽亚·路易萨](entities/AnnaMariaLuisaDeMedici.md) — Final Medici heir whose transfer condition kept the family collections in Florence.
 - [Hurun Research Institute / 胡润研究院](entities/HurunResearchInstitute.md) — Wealth-ranking organization whose 2026 list is used to connect founder valuations with AI and upstream compute infrastructure.
 - [Jiuzhai Huanglong Airport / 九寨黄龙机场](entities/JiuzhaiHuanglongAirport.md) — Tourism-dependent regional airport illustrating route fragility and public-service access value.
 - [Vitalik Buterin](entities/VitalikButerin.md) — Ethereum co-founder connecting philanthropic neglectedness, AI-risk uncertainty, institutional incentives, and defensive decentralized acceleration.
@@ -18722,6 +18727,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Ecclesiastical-Dynastic Conversion / 教会—王朝权力转换](concepts/EcclesiasticalDynasticConversion.md) — Shift from commercial wealth toward church office, foreign alliance, marriage, title, and territorial state power.
 - [Overseas Inventory Forecasting Mismatch / 海外库存预测错配](concepts/OverseasInventoryForecastingMismatch.md) — Simultaneous overstock and stockouts created by long cross-border replenishment cycles and product-location forecast error.
 - [AI Wealth Concentration Engine / AI 财富集中引擎](concepts/AIWealthConcentrationEngine.md) — Founder-wealth revaluation across AI platforms, chips, networking, and compute infrastructure without implying broad welfare gains.
 - [Compute-Capital Labor Reallocation / 算力资本与人力再配置](concepts/ComputeCapitalLaborReallocation.md) — Shift in marginal technology-company spending from payroll growth toward externally financed chips and data centers.

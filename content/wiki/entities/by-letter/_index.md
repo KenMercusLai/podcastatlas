@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13772
+wiki_total_pages: 13776
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "AnnaLembke"
     title: "Anna Lembke"
     url: "/wiki/entities/annalembke/"
+  - key: "AnnaMariaLuisaDeMedici"
+    title: "Anna Maria Luisa de' Medici / 安娜·玛丽亚·路易萨"
+    url: "/wiki/entities/annamarialuisademedici/"
   - key: "AnnaSorokin"
     title: "Anna Sorokin / 安娜·索罗金"
     url: "/wiki/entities/annasorokin/"

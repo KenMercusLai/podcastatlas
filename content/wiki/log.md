@@ -38005,3 +38005,11 @@ Added source `dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyim
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下
+
+Added source `no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i`; created [[PopeLeoX|Pope Leo X]], [[PopeClementVII|Pope Clement VII]], [[CosimoIMedici|Cosimo I de' Medici]], [[AnnaMariaLuisaDeMedici|Anna Maria Luisa de' Medici]], and [[EcclesiasticalDynasticConversion]]; and resynthesized [[HouseOfMedici]], [[FlorentineRepublic]], [[GirolamoSavonarola]], [[PieroDeMedici]], and [[RenaissancePatronageProductionSystem]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Medici power shifted from a failing bank and informal republican control toward church office, foreign armies, marriage, title, and territorial government; that conversion created papal and grand-ducal reach but also new fiscal, religious, geopolitical, and succession failures. Renaissance production remained cumulative and multi-patron rather than the work of one family, while Anna Maria Luisa's place-bound transfer turned an extinct dynasty's collections into a durable Florentine inheritance. No settled contradiction was adopted. The source qualifies a single 1512 endpoint for the republic and preserves Savonarola's authority as exceptional but informal; Alessandro's parentage, Reformation causation, deaths, attributions, technical quantities, motives, and collection effects remain episode-scoped because the supplied file is a structured podcast summary rather than primary or specialist evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,763 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

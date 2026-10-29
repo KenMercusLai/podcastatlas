@@ -18252,6 +18252,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/annalembke/"
     },
+    "AnnaMariaLuisaDeMedici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/annamarialuisademedici/"
+    },
     "AnnaTrapnel": {
       "episode_count": 1,
       "show_count": 1,
@@ -60336,6 +60352,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/cosimodemedici/"
     },
+    "CosimoIMedici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/cosimoimedici/"
+    },
     "CosmeticProcedureExpectationManagement": {
       "episode_count": 3,
       "show_count": 1,
@@ -80616,6 +80648,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/eccentricsprintcapacity/"
+    },
+    "EcclesiasticalDynasticConversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/ecclesiasticaldynasticconversion/"
     },
     "EcclesiasticalTrialPoliticalLegitimacy": {
       "episode_count": 1,
@@ -101680,9 +101728,9 @@
       "url": "/wiki/entities/floramacdonald/"
     },
     "FlorentineRepublic": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -101718,9 +101766,16 @@
           "show": "The Rest Is History",
           "title": "572. The Medici: Masters of Florence (Part 1)",
           "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
+        },
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/florentinerepublic/"
     },
     "FlowClutchLearningDistinction": {
@@ -113723,9 +113778,9 @@
       "url": "/wiki/entities/giovannidibiccidemedici/"
     },
     "GirolamoSavonarola": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -113747,9 +113802,16 @@
           "show": "The Rest Is History",
           "title": "574. The Medici: Curse of the Mad Monk (Part 3)",
           "url": "/wiki/sources/574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064/"
+        },
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/girolamosavonarola/"
     },
     "Girondins": {
@@ -132728,9 +132790,9 @@
       "url": "/wiki/entities/houyinwesternhan/"
     },
     "HouseOfMedici": {
-      "episode_count": 5,
-      "show_count": 2,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
@@ -132766,9 +132828,16 @@
           "show": "The Rest Is History",
           "title": "572. The Medici: Masters of Florence (Part 1)",
           "url": "/wiki/sources/572-the-medici-masters-of-florence-part-1-glt1413065864/"
+        },
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/houseofmedici/"
     },
     "HouseOfSlavesGoree": {
@@ -221824,9 +221893,9 @@
       "url": "/wiki/entities/picloram/"
     },
     "PieroDeMedici": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2280694489 [GLT2280694489].md",
@@ -221834,9 +221903,16 @@
           "show": "The Rest Is History",
           "title": "575. The Medici: The Bonfire of the Vanities (Part 4)",
           "url": "/wiki/sources/575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489/"
+        },
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/pierodemedici/"
     },
     "PieroTheGouty": {
@@ -224873,6 +224949,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/popealexandervi/"
     },
+    "PopeClementVII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/popeclementvii/"
+    },
     "PopeJoan": {
       "episode_count": 1,
       "show_count": 1,
@@ -224911,6 +225003,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/popeleoiii/"
+    },
+    "PopeLeoX": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/popeleox/"
     },
     "PopeLeoXIV": {
       "episode_count": 1,
@@ -240399,9 +240507,9 @@
       "url": "/wiki/entities/renamalik/"
     },
     "RenaissancePatronageProductionSystem": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJEOpQoLBJbqPgToQxSv [GKwRIJEOpQoLBJbqPgToQxSv].md",
@@ -240409,9 +240517,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
           "url": "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
+        },
+        {
+          "episode_file": "GKwRIaIOt0stBIcPfwTw0l2i [GKwRIaIOt0stBIcPfwTw0l2i].md",
+          "key": "no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+          "url": "/wiki/sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/renaissancepatronageproductionsystem/"
     },
     "RenaissancePortraitAmbiguity": {

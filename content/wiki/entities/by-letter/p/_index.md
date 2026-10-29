@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13772
+wiki_total_pages: 13776
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -875,12 +875,18 @@ wiki_pages:
   - key: "PopeAlexanderVI"
     title: "Pope Alexander VI"
     url: "/wiki/entities/popealexandervi/"
+  - key: "PopeClementVII"
+    title: "Pope Clement VII / 克莱曼特七世"
+    url: "/wiki/entities/popeclementvii/"
   - key: "PopeJoan"
     title: "Pope Joan"
     url: "/wiki/entities/popejoan/"
   - key: "PopeLeoIII"
     title: "Pope Leo III"
     url: "/wiki/entities/popeleoiii/"
+  - key: "PopeLeoX"
+    title: "Pope Leo X / 利奥十世"
+    url: "/wiki/entities/popeleox/"
   - key: "PopeLeoXIV"
     title: "Pope Leo XIV"
     url: "/wiki/entities/popeleoxiv/"

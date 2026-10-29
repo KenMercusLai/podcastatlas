@@ -4,7 +4,8 @@ type: entity
 tags: [person, medici, florence, renaissance, politics]
 sources:
   - 575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489
-last_updated: 2026-10-11
+  - no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i
+last_updated: 2026-10-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Piero inherited political predominance at about twenty-two despite Florence's fo
 When [[CharlesVIIIOfFrance|Charles VIII]] demanded passage, Piero initially refused because of his ties to Naples. French retaliation against Florentine commerce, rapid military advances, and the absence of allied help produced panic. Piero negotiated without informing the Signoria and accepted demands for Tuscan fortresses, Pisa, Livorno, and a large subsidy in the hope of preserving his position.
 
 The concessions destroyed rather than protected that position. Florence revolted and the Medici fled. His fall therefore reflects inherited legitimacy, personal weakness, institutional bypass, and overwhelming foreign pressure rather than character failure alone.
+
+The later episode corroborates the sequence and adds the family consequence: palace goods, art, jewels, and other property were seized or dispersed, while Piero's brothers pursued a different route back through church office and foreign alliance.
 
 ## Key Characteristics
 
@@ -42,15 +45,16 @@ The concessions destroyed rather than protected that position. Florence revolted
 ### Regime-ending concessions
 
 - [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] follows the Signoria's rejection, popular revolution, bounty, asset seizure, and symbolic transfer of Medici art to civic space.
+- [[no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i]] independently links unauthorized concessions to expulsion and the seizure or dispersal of family property.
 
 ## Qualifications
 
-This profile rests on one narrative episode whose negative character judgments may compress a more complex career. Charles's army, economic pressure, Florentine factionalism, and weak Italian alliances sharply constrained Piero's options. The episode does not establish that another negotiator could have preserved both Florence and Medici dominance.
+This profile rests on two narrative podcast episodes whose negative character judgments may share a conventional interpretation and compress a more complex career. Charles's army, economic pressure, Florentine factionalism, and weak Italian alliances sharply constrained Piero's options. The sources do not establish that another negotiator could have preserved both Florence and Medici dominance.
 
 ## What Changed
 
-- Created a profile separating personal weakness from the structural pressure of invasion and informal succession.
-- Identified unauthorized territorial and financial concessions as the immediate legitimacy break.
+- Added independent narrative corroboration of the unauthorized concessions, expulsion, and property loss.
+- Connected Piero's failure to the family's later shift toward church office and foreign alliance.
 
 ## Relationships
 
@@ -59,3 +63,4 @@ This profile rests on one narrative episode whose negative character judgments m
 - [[CharlesVIIIOfFrance|Charles VIII of France]] - invader whose demands he accepted.
 - [[GirolamoSavonarola|Girolamo Savonarola / 萨沃纳罗拉]] - member of the rival delegation who gained authority during the collapse.
 - [[InformalReligiousPoliticalAuthority]] - neighboring mechanism showing how non-officeholding influence could replace failed inherited dominance.
+- [[EcclesiasticalDynasticConversion]] - family recovery path that followed the collapse of his inherited regime.

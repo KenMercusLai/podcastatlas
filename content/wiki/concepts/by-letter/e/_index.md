@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10864
+wiki_total_pages: 10865
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "EcclesiasticalTrialPoliticalLegitimacy"
     title: "Ecclesiastical Trial as Political Legitimacy"
     url: "/wiki/concepts/ecclesiasticaltrialpoliticallegitimacy/"
+  - key: "EcclesiasticalDynasticConversion"
+    title: "Ecclesiastical-Dynastic Conversion / 教会—王朝权力转换"
+    url: "/wiki/concepts/ecclesiasticaldynasticconversion/"
   - key: "EcoPopulism"
     title: "Eco-Populism"
     url: "/wiki/concepts/ecopopulism/"

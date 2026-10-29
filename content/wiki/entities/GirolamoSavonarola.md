@@ -6,7 +6,8 @@ sources:
   - 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837
   - 575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489
   - 574-the-medici-curse-of-the-mad-monk-part-3-glt6193985064
-last_updated: 2026-10-11
+  - no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i
+last_updated: 2026-10-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ Savonarola predicted punishment, hunger, plague, and war before [[CharlesVIIIOfF
 He called for prayer, penance, poor relief, work, tax relief, and a Venetian-style grand council. He also promoted coercive regulation of gambling, fashion, prostitution, dancing, and sodomy. The bonfire reused an existing practice and became popular spectacle, while organized boys collected alms and sometimes harassed targets; civic authorities refused to give them punitive power.
 
 Savonarola held no Florentine office, could not join the council, and is not shown directing executions. His [[InformalReligiousPoliticalAuthority|authority]] ran through preaching, followers, reputation, and sympathetic institutions. It weakened when Charles failed to fulfill the new-Cyrus role, Florence suffered, [[PopeAlexanderVI|Alexander VI]] banned and excommunicated him, and the ordeal by fire collapsed. He refused armed action before San Marco was stormed, then endured torture, shifting confessions, execution, burning, and attempted erasure.
+
+The later Chinese-language episode independently preserves the same main arc: slow formation as a preacher, opposition to luxury and church corruption, apparent prophetic success during invasion, moralized republican reform, the bonfire of vanities, papal defiance, the failed ordeal, and execution. Its compressed description of him “taking power” is best read through the more precise distinction already established here between exceptional influence and formal office.
 
 ## Key Characteristics
 
@@ -62,16 +65,17 @@ Savonarola held no Florentine office, could not join the council, and is not sho
 ### Collapse and afterlife
 
 - [[575-the-medici-the-bonfire-of-the-vanities-part-4-glt2280694489]] follows failed expectation, excommunication, economic misery, the ordeal, San Marco, torture, execution, attempted erasure, and Protestant admiration.
+- [[no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i]] independently corroborates the invasion, moral campaign, papal conflict, failed ordeal, collapsing authority, and execution sequence.
 
 ## Qualifications
 
-The sources are interpretive podcast treatments rather than a complete documentary biography. Informal influence was extensive, but the Signoria, council, factions, religious orders, pope, and crowd retained agency. Sincerity cannot be proven from conduct alone. Proposed romantic or sexual causes, Lorenzo's motives for recalling him, exact sermon chronology, responsibility for punishments, the items burned, voluntariness of participation, torture statements, and Reformation significance remain speculative or source-scoped. The deathbed-liberty demand is treated as invented.
+The sources are interpretive podcast treatments rather than a complete documentary biography. Informal influence was extensive, but the Signoria, council, factions, religious orders, pope, and crowd retained agency. Sincerity cannot be proven from conduct alone. Proposed romantic or sexual causes, Lorenzo's motives for recalling him, exact sermon chronology, responsibility for punishments, the items burned, voluntariness of participation, ordeal procedure, torture statements, and Reformation significance remain speculative or source-scoped. The deathbed-liberty demand is treated as invented.
 
 ## What Changed
 
-- Added Dominican, humanist, apocalyptic, and anticorruption formation before Savonarola's political rise.
-- Added the transition from failed preacher to leader of a cultural revolt against elite luxury.
-- Marked psychosexual explanations, Lorenzo's recall motives, and the deathbed story as speculative or rejected.
+- Added independent corroboration of the invasion-to-execution sequence.
+- Preserved the distinction between compressed claims that he “took power” and evidence of informal, bounded authority.
+- Added the failed ordeal's public-performance role to the qualification boundary.
 
 ## Relationships
 
