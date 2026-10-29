@@ -20920,6 +20920,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BrokerClearingLiquidityRisk": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "BrokerageResearchReports": [
     {
       "key": "economics",
@@ -24936,6 +24943,13 @@
     }
   ],
   "Citadel": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "CitadelSecurities": [
     {
       "key": "economics",
       "label": "Economics",
@@ -29246,6 +29260,13 @@
     }
   ],
   "DSCRLoans": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "DTCC": [
     {
       "key": "economics",
       "label": "Economics",
@@ -69536,6 +69557,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "PaymentForOrderFlow": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PaymentInfrastructureTradeDispute": [
     {
       "key": "economics",
@@ -82390,6 +82418,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ShortSqueeze": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ShortTermDemandBeforeLongTermReform": [
     {
       "key": "politics",
@@ -83487,6 +83522,13 @@
     }
   ],
   "SocialMediaCostOfCapital": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "SocialMediaInvestmentCoordination": [
     {
       "key": "economics",
       "label": "Economics",
@@ -94848,6 +94890,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "WallStreetBets": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "WallStreetJournal": [
     {
       "key": "culture",
@@ -105237,6 +105286,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf": [

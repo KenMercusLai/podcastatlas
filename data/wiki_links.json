@@ -15931,6 +15931,10 @@
     "title": "Broadcom",
     "url": "/wiki/entities/broadcom/"
   },
+  "BrokerClearingLiquidityRisk": {
+    "title": "Broker Clearing Liquidity Risk",
+    "url": "/wiki/concepts/brokerclearingliquidityrisk/"
+  },
   "BrokerageResearchReports": {
     "title": "Brokerage Research Reports",
     "url": "/wiki/concepts/brokerageresearchreports/"
@@ -20839,6 +20843,10 @@
     "title": "Citadel",
     "url": "/wiki/entities/citadel/"
   },
+  "CitadelSecurities": {
+    "title": "Citadel Securities",
+    "url": "/wiki/entities/citadelsecurities/"
+  },
   "Citgo": {
     "title": "Citgo",
     "url": "/wiki/entities/citgo/"
@@ -25030,6 +25038,10 @@
   "DSCRLoans": {
     "title": "DSCR Loans",
     "url": "/wiki/concepts/dscrloans/"
+  },
+  "DTCC": {
+    "title": "DTCC",
+    "url": "/wiki/entities/dtcc/"
   },
   "DVD": {
     "title": "DVD",
@@ -69039,6 +69051,10 @@
     "title": "Payment Clearing Network / 支付清算网络",
     "url": "/wiki/concepts/paymentclearingnetwork/"
   },
+  "PaymentForOrderFlow": {
+    "title": "Payment for Order Flow",
+    "url": "/wiki/concepts/paymentfororderflow/"
+  },
   "PaymentInKindInterest": {
     "title": "Payment-In-Kind Interest / PIK",
     "url": "/wiki/concepts/paymentinkindinterest/"
@@ -82155,6 +82171,10 @@
     "title": "Short-Shelf-Life Retail Operations / 短保零售运营",
     "url": "/wiki/concepts/shortshelfliferetailoperations/"
   },
+  "ShortSqueeze": {
+    "title": "Short Squeeze",
+    "url": "/wiki/concepts/shortsqueeze/"
+  },
   "ShortStrand": {
     "title": "Short Strand",
     "url": "/wiki/entities/shortstrand/"
@@ -83330,6 +83350,10 @@
   "SocialMediaDesignRegulation": {
     "title": "Social Media Design Regulation",
     "url": "/wiki/concepts/socialmediadesignregulation/"
+  },
+  "SocialMediaInvestmentCoordination": {
+    "title": "Social Media Investment Coordination",
+    "url": "/wiki/concepts/socialmediainvestmentcoordination/"
   },
   "SocialMediaPrehistory": {
     "title": "Social Media Prehistory",
@@ -93802,6 +93826,10 @@
   "WallBorderSystems": {
     "title": "Wall and Border Systems",
     "url": "/wiki/concepts/wallbordersystems/"
+  },
+  "WallStreetBets": {
+    "title": "WallStreetBets",
+    "url": "/wiki/entities/wallstreetbets/"
   },
   "WallStreetJournal": {
     "title": "Wall Street Journal",
@@ -105414,6 +105442,10 @@
   "ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q": {
     "title": "EP157-困在拼多多的系统里：伟大的公司不应该让人感到害怕",
     "url": "/wiki/sources/ep157-kun-zai-pinduoduo-de-xitong-li-weida-de-gongsi-bu-yinggai-rang-ren-gandao-haipa-ckwriued61wwabaaaacbzp2q/"
+  },
+  "ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg": {
+    "title": "EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？",
+    "url": "/wiki/sources/ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg/"
   },
   "ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm": {
     "title": "EP160-我在美国自己建房子，美国也有学区房？",

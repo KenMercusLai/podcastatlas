@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13777
+wiki_total_pages: 13780
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "Citadel"
     title: "Citadel"
     url: "/wiki/entities/citadel/"
+  - key: "CitadelSecurities"
+    title: "Citadel Securities"
+    url: "/wiki/entities/citadelsecurities/"
   - key: "Citgo"
     title: "Citgo"
     url: "/wiki/entities/citgo/"

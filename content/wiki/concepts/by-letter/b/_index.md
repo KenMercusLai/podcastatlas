@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10865
+wiki_total_pages: 10869
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "BroadcastInfrastructureSunset"
     title: "Broadcast Infrastructure Sunset"
     url: "/wiki/concepts/broadcastinfrastructuresunset/"
+  - key: "BrokerClearingLiquidityRisk"
+    title: "Broker Clearing Liquidity Risk"
+    url: "/wiki/concepts/brokerclearingliquidityrisk/"
   - key: "BrokerageResearchReports"
     title: "Brokerage Research Reports"
     url: "/wiki/concepts/brokerageresearchreports/"

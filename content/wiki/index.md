@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？](sources/ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg.md) — 无时差研究所从GameStop拆解逼空、期权对冲、清算保证金、订单流支付、社交投资协调及散户与机构的风险差距。
 - [No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下](sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i.md) — 半拿铁从1494年驱逐讲到教皇、托斯卡纳大公与王朝绝嗣，并以多元赞助和安娜·玛丽亚的遗赠重审美第奇的政治与文化遗产。
 - [达霏欣｜苹果新系统可以禁止「摇一摇」广告，张一鸣再登胡润百富榜首](sources/dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn.md) — 声动早咖啡串联海外库存错配、AI 财富与资本开支、传感器广告控制、中国汽车架构输出、代言风险、饮料竞争及中小机场公共价值。
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.md) — 硅谷101与Afra、Vitalik梳理有效利他主义、理性主义和AI安全网络，并以公司激励、捐赠变迁、公众合法性与d/acc重审技术治理。
@@ -4871,6 +4872,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [718. The Suez Crisis: Britain's Shattered Empire (Part 2)](sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668.md) — The Rest Is History follows the collusive invasion, Egyptian resistance, American financial coercion, forced withdrawal, and Suez's disputed imperial legacy.
 
 ## Entities
+- [Citadel Securities](entities/CitadelSecurities.md) — Market maker named in the GameStop episode's payment-for-order-flow explanation, disambiguated from the Citadel investment firm.
+- [WallStreetBets](entities/WallStreetBets.md) — Online investing community combining research, ranked attention, position displays, humor, identity, and uneven follower risk in the GameStop episode.
+- [DTCC](entities/DTCC.md) — U.S. clearing-infrastructure institution whose deposit requirements feature in the source's account of Robinhood's GameStop restrictions.
 - [Pope Leo X / 利奥十世](entities/PopeLeoX.md) — Medici pope linking family restoration and artistic patronage to fiscal pressure, indulgence conflict, and the early Reformation crisis.
 - [Pope Clement VII / 克莱曼特七世](entities/PopeClementVII.md) — Medici pope whose alliance failure led into the Sack of Rome and imperial-backed Florentine restoration.
 - [Cosimo I de' Medici / 科西默一世](entities/CosimoIMedici.md) — Cadet-branch duke who consolidated hereditary rule, conquered Siena, and built grand-ducal legitimacy through state and culture.
@@ -17042,7 +17046,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王兴 / Wang Xing](entities/WangXing.md) — Meituan founder reference used in the Wei Xiaokang episode to frame company success as riding a larger industry wave rather than pure founder genius.
 - [Li Xiaobo / 李晓波](entities/LiXiaobo.md) — E44 conversation partner pressing Meng Yan on user interest, product friction, 本分, and investment as a life-practice question.
 - [有知有行 / Youzhi Youxing](entities/YouzhiYouxing.md) — Wealth-management company case for fee refusal, user selection, investor education, and investment-for-better-life trust.
-- [Robinhood](entities/Robinhood.md) — Brokerage contrast case used in E44 to discuss take rate, trading incentives, and possible conflict with user outcomes.
+- [Robinhood](entities/Robinhood.md) — Mass-market brokerage whose zero-commission access, order-flow economics, clearing obligations, GameStop restrictions, and long-horizon ownership potential create a mixed incentive profile.
 - [Wealthfront](entities/Wealthfront.md) — Robo-advisor comparison case for lower-take-rate wealth management and user-aligned financial platform incentives.
 - [John Bogle](entities/JohnBogle.md) — Vanguard founder reference point for knowing enough, low-cost investing, and founder restraint in finance.
 - [梦琪 / Mengqi](entities/Mengqi.md) — invoko.ai founder reflecting on vertical Agents, 2B pivots, founder ego, product experience, and Clico.
@@ -17464,7 +17468,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Beibin](entities/LiBeibin.md) — Apodex chief scientist for code and self-evolution, linking coding, post-training loops, verification, and recursive self-improvement risk.
 - [Duan Yongping](entities/DuanYongping.md) — Investor example used in EP90 for disciplined put selling and covered-call-style position management.
 - [Mark Cuban](entities/MarkCuban.md) — Entrepreneur/investor used in EP90 to explain protective collars and concentrated-wealth downside protection.
-- [GameStop](entities/GameStop.md) — Retailer used in EP90 as the options-driven short-squeeze and gamma-squeeze market-structure case.
+- [GameStop](entities/GameStop.md) — Video-game retailer spanning physical-business decline, the 2021 short-and-gamma squeeze, retail social coordination, and a later operator-led turnaround.
 - [Keith Gill](entities/KeithGill.md) — "Roaring Kitty" retail-investor figure connected to GameStop social proof and online trader coordination.
 - [Long-Term Capital Management](entities/LongTermCapitalManagement.md) — Leveraged quantitative fund used in EP90 as a financial-model-risk and regime-shift failure case.
 - [Louis Hong / 洪力德](entities/LouisHong.md) — Former SpaceX manager and hard-tech investor explaining reusable rockets, Falcon 9 production, Musk management, and space infrastructure.
@@ -18730,6 +18734,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dwight D. Eisenhower](entities/DwightEisenhower.md) — U.S. president who used UN action and financial leverage to force his British and French allies to cease fire at Suez.
 
 ## Concepts
+- [Short Squeeze](concepts/ShortSqueeze.md) — Forced-covering feedback loop in which rising prices pressure short sellers to buy, creating further demand.
+- [Payment for Order Flow](concepts/PaymentForOrderFlow.md) — Brokerage revenue model that replaces visible commissions with paid routing of customer orders to market makers.
+- [Broker Clearing Liquidity Risk](concepts/BrokerClearingLiquidityRisk.md) — Risk that settlement and collateral demands exceed a broker's immediately available funding during concentrated volatility.
+- [Social Media Investment Coordination](concepts/SocialMediaInvestmentCoordination.md) — Concentration of investor attention through public research, ranking, screenshots, identity, and recursive social proof.
 - [Ecclesiastical-Dynastic Conversion / 教会—王朝权力转换](concepts/EcclesiasticalDynasticConversion.md) — Shift from commercial wealth toward church office, foreign alliance, marriage, title, and territorial state power.
 - [Overseas Inventory Forecasting Mismatch / 海外库存预测错配](concepts/OverseasInventoryForecastingMismatch.md) — Simultaneous overstock and stockouts created by long cross-border replenishment cycles and product-location forecast error.
 - [AI Wealth Concentration Engine / AI 财富集中引擎](concepts/AIWealthConcentrationEngine.md) — Founder-wealth revaluation across AI platforms, chips, networking, and compute infrastructure without implying broad welfare gains.

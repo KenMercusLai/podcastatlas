@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10865
-- Entities: 13777
-- Sources: 4764
-- Total wiki content pages: 29407
+- Concepts: 10869
+- Entities: 13780
+- Sources: 4765
+- Total wiki content pages: 29415
 
 ## Links
-- Wiki link references: 674379
-- Unique wiki link targets: 29440
-- Missing targets: 44
+- Wiki link references: 674486
+- Unique wiki link targets: 29449
+- Missing targets: 45
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4764
-- Matched episodes: 4764
+- Source pages: 4765
+- Matched episodes: 4765
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -67,6 +67,8 @@ outputs: ["html"]
   - `content/wiki/concepts/AppliedResearchTranslation.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
+- `[[CounterpartyRisk]]`
+  - `content/wiki/concepts/BrokerClearingLiquidityRisk.md`
 - `[[CreatorEconomy]]`
   - `content/wiki/concepts/PlatformNativePublicHistory.md`
 - `[[CrisisCommunicationFailure]]`

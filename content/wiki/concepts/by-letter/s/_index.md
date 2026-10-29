@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10865
+wiki_total_pages: 10869
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -956,6 +956,9 @@ wiki_pages:
   - key: "ShortSelling"
     title: "Short Selling"
     url: "/wiki/concepts/shortselling/"
+  - key: "ShortSqueeze"
+    title: "Short Squeeze"
+    url: "/wiki/concepts/shortsqueeze/"
   - key: "ShortFormBusinessTechAudio"
     title: "Short-Form Business-Tech Audio / 短时长商业科技音频"
     url: "/wiki/concepts/shortformbusinesstechaudio/"
@@ -1379,6 +1382,9 @@ wiki_pages:
   - key: "SocialMediaDesignRegulation"
     title: "Social Media Design Regulation"
     url: "/wiki/concepts/socialmediadesignregulation/"
+  - key: "SocialMediaInvestmentCoordination"
+    title: "Social Media Investment Coordination"
+    url: "/wiki/concepts/socialmediainvestmentcoordination/"
   - key: "SocialMediaPrehistory"
     title: "Social Media Prehistory"
     url: "/wiki/concepts/socialmediaprehistory/"

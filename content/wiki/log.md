@@ -38021,3 +38021,10 @@ Added source `718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-29] ingest | EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？
+
+Added source `ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg`; created [[WallStreetBets]], [[DTCC]], [[CitadelSecurities]], [[ShortSqueeze]], [[PaymentForOrderFlow]], [[BrokerClearingLiquidityRisk]], and [[SocialMediaInvestmentCoordination]]; and resynthesized [[GameStop]], [[Robinhood]], [[GammaSqueeze]], and [[ShortSelling]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: GameStop's 2021 move joined crowded-short covering, option-seller hedging, retail social coordination, and institutional participation, while Robinhood's restrictions exposed real settlement and collateral constraints without eliminating transparency or conflict concerns. No settled contradiction was adopted. Claims about stock-loan verification, flow attribution, deposit totals, execution quality, participant motives, and institutional relationships remain episode-scoped because the supplied file is a structured practitioner summary rather than clearing records, trade data, or a regulatory investigation. The market-maker reference was disambiguated as [[CitadelSecurities]] rather than merged into the existing [[Citadel]] investment-firm page. The broad show, value-investing, crowding, bubble-psychology, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran deterministic and graph-aware lint; semantic checks were unavailable because the configured LiteLLM model lacked a provider prefix. Report was returned in-session and not saved.

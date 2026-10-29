@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10865
+wiki_total_pages: 10869
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "PaymentClearingNetwork"
     title: "Payment Clearing Network / 支付清算网络"
     url: "/wiki/concepts/paymentclearingnetwork/"
+  - key: "PaymentForOrderFlow"
+    title: "Payment for Order Flow"
+    url: "/wiki/concepts/paymentfororderflow/"
   - key: "PaymentInfrastructureTradeDispute"
     title: "Payment Infrastructure Trade Dispute"
     url: "/wiki/concepts/paymentinfrastructuretradedispute/"
