@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10858
+wiki_total_pages: 10864
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "ChinaChannanEtymologyMyth"
     title: "China-Changnan Etymology Myth / China源于昌南说"
     url: "/wiki/concepts/chinachannanetymologymyth/"
+  - key: "ChinaDevelopedAutomotiveArchitectureExport"
+    title: "China-Developed Automotive Architecture Export / 中国汽车架构反向输出"
+    url: "/wiki/concepts/chinadevelopedautomotivearchitectureexport/"
   - key: "ChinaEUHybridVehicleTradeConstraint"
     title: "China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束"
     url: "/wiki/concepts/chinaeuhybridvehicletradeconstraint/"
@@ -2024,6 +2027,9 @@ wiki_pages:
   - key: "ComputeFreedom"
     title: "Compute Freedom / 算力自由"
     url: "/wiki/concepts/computefreedom/"
+  - key: "ComputeCapitalLaborReallocation"
+    title: "Compute-Capital Labor Reallocation / 算力资本与人力再配置"
+    url: "/wiki/concepts/computecapitallaborreallocation/"
   - key: "ComputerUseAgent"
     title: "Computer Use Agent"
     url: "/wiki/concepts/computeruseagent/"

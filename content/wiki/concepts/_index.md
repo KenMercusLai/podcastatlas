@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10858
+wiki_total_pages: 10864
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1697,6 +1697,9 @@ wiki_pages:
   - key: "AIWashingLayoffAttribution"
     title: "AI Washing Layoff Attribution"
     url: "/wiki/concepts/aiwashinglayoffattribution/"
+  - key: "AIWealthConcentrationEngine"
+    title: "AI Wealth Concentration Engine / AI 财富集中引擎"
+    url: "/wiki/concepts/aiwealthconcentrationengine/"
   - key: "AIWealthHousingScarcity"
     title: "AI Wealth Housing Scarcity"
     url: "/wiki/concepts/aiwealthhousingscarcity/"

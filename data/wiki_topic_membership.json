@@ -12006,6 +12006,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIWealthConcentrationEngine": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIWealthHousingScarcity": [
     {
       "key": "technology",
@@ -23923,6 +23935,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ChinaDevelopedAutomotiveArchitectureExport": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ChinaDivergentTechnologyRoute": [
     {
       "key": "technology",
@@ -26578,6 +26597,13 @@
     }
   ],
   "ComputationalFunctionalism": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ComputeCapitalLaborReallocation": [
     {
       "key": "technology",
       "label": "Technology",
@@ -48095,6 +48121,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HurunResearchInstitute": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HutianKilnSite": [
@@ -76442,6 +76475,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RegionalAirportPublicServiceValue": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RegionalFlavorTransfer": [
     {
       "key": "culture",
@@ -103991,6 +104031,13 @@
     }
   ],
   "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn": [
     {
       "key": "technology",
       "label": "Technology",

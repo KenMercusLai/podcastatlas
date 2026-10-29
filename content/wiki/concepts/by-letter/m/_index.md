@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10858
+wiki_total_pages: 10864
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1619,6 +1619,9 @@ wiki_pages:
   - key: "MotionSicknessSensoryConflictManagement"
     title: "Motion-Sickness Sensory Conflict and Management / 晕动症感官冲突与应对"
     url: "/wiki/concepts/motionsicknesssensoryconflictmanagement/"
+  - key: "MotionTriggeredAdvertisingControl"
+    title: "Motion-Triggered Advertising Control / 摇一摇广告控制"
+    url: "/wiki/concepts/motiontriggeredadvertisingcontrol/"
   - key: "MotivatedBias"
     title: "Motivated Bias / 动机偏差"
     url: "/wiki/concepts/motivatedbias/"

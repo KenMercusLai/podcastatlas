@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13770
+wiki_total_pages: 13772
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "HurricaneIrma"
     title: "Hurricane Irma"
     url: "/wiki/entities/hurricaneirma/"
+  - key: "HurunResearchInstitute"
+    title: "Hurun Research Institute / 胡润研究院"
+    url: "/wiki/entities/hurunresearchinstitute/"
   - key: "HutianKilnSite"
     title: "Hutian Kiln Site / 湖田古瓷窑址"
     url: "/wiki/entities/hutiankilnsite/"

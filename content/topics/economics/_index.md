@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2319
+topic_total_pages: 2320
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -229,6 +229,9 @@ topic_concepts:
   - key: "AIStorageSupercycle"
     title: "AI Storage Supercycle"
     url: "/wiki/concepts/aistoragesupercycle/"
+  - key: "AIWealthConcentrationEngine"
+    title: "AI Wealth Concentration Engine / AI 财富集中引擎"
+    url: "/wiki/concepts/aiwealthconcentrationengine/"
   - key: "AIWorkOptionality"
     title: "AI Work Optionality"
     url: "/wiki/concepts/aiworkoptionality/"

@@ -6559,6 +6559,10 @@
     "title": "AI Washing Layoff Attribution",
     "url": "/wiki/concepts/aiwashinglayoffattribution/"
   },
+  "AIWealthConcentrationEngine": {
+    "title": "AI Wealth Concentration Engine / AI 财富集中引擎",
+    "url": "/wiki/concepts/aiwealthconcentrationengine/"
+  },
   "AIWealthHousingScarcity": {
     "title": "AI Wealth Housing Scarcity",
     "url": "/wiki/concepts/aiwealthhousingscarcity/"
@@ -19675,6 +19679,10 @@
     "title": "中国认知症好朋友 / China Dementia Friends",
     "url": "/wiki/entities/chinadementiafriends/"
   },
+  "ChinaDevelopedAutomotiveArchitectureExport": {
+    "title": "China-Developed Automotive Architecture Export / 中国汽车架构反向输出",
+    "url": "/wiki/concepts/chinadevelopedautomotivearchitectureexport/"
+  },
   "ChinaDivergentTechnologyRoute": {
     "title": "China Divergent Technology Route",
     "url": "/wiki/concepts/chinadivergenttechnologyroute/"
@@ -22466,6 +22474,10 @@
   "ComputationalFunctionalism": {
     "title": "Computational Functionalism",
     "url": "/wiki/concepts/computationalfunctionalism/"
+  },
+  "ComputeCapitalLaborReallocation": {
+    "title": "Compute-Capital Labor Reallocation / 算力资本与人力再配置",
+    "url": "/wiki/concepts/computecapitallaborreallocation/"
   },
   "ComputeFreedom": {
     "title": "Compute Freedom / 算力自由",
@@ -44935,6 +44947,10 @@
     "title": "Hurt-versus-Harm Pain Reframing",
     "url": "/wiki/concepts/hurtharmpainreframing/"
   },
+  "HurunResearchInstitute": {
+    "title": "Hurun Research Institute / 胡润研究院",
+    "url": "/wiki/entities/hurunresearchinstitute/"
+  },
   "HutianKilnSite": {
     "title": "Hutian Kiln Site / 湖田古瓷窑址",
     "url": "/wiki/entities/hutiankilnsite/"
@@ -49578,6 +49594,10 @@
   "Jiushidai": {
     "title": "旧世代",
     "url": "/wiki/entities/jiushidai/"
+  },
+  "JiuzhaiHuanglongAirport": {
+    "title": "Jiuzhai Huanglong Airport / 九寨黄龙机场",
+    "url": "/wiki/entities/jiuzhaihuanglongairport/"
   },
   "JiuzhouCulture": {
     "title": "九州文化 / Jiuzhou Culture",
@@ -63139,6 +63159,10 @@
     "title": "Motion Smoothing",
     "url": "/wiki/concepts/motionsmoothing/"
   },
+  "MotionTriggeredAdvertisingControl": {
+    "title": "Motion-Triggered Advertising Control / 摇一摇广告控制",
+    "url": "/wiki/concepts/motiontriggeredadvertisingcontrol/"
+  },
   "MotivatedBias": {
     "title": "Motivated Bias / 动机偏差",
     "url": "/wiki/concepts/motivatedbias/"
@@ -67802,6 +67826,10 @@
   "OverseasInsuranceRisk": {
     "title": "Overseas Insurance Risk",
     "url": "/wiki/concepts/overseasinsurancerisk/"
+  },
+  "OverseasInventoryForecastingMismatch": {
+    "title": "Overseas Inventory Forecasting Mismatch / 海外库存预测错配",
+    "url": "/wiki/concepts/overseasinventoryforecastingmismatch/"
   },
   "OverseasPublicRelations": {
     "title": "Overseas Public Relations / 企业出海公关",
@@ -75846,6 +75874,10 @@
   "RegionalAdministrativeFragmentation": {
     "title": "Regional Administrative Fragmentation",
     "url": "/wiki/concepts/regionaladministrativefragmentation/"
+  },
+  "RegionalAirportPublicServiceValue": {
+    "title": "Regional Airport Public-Service Value / 中小机场公共服务价值",
+    "url": "/wiki/concepts/regionalairportpublicservicevalue/"
   },
   "RegionalESIMConstraint": {
     "title": "Regional eSIM Constraint",
@@ -104546,6 +104578,10 @@
   "dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj": {
     "title": "达霏欣｜抛弃合作近 40 年的百事，美国肯德基在折腾什么？",
     "url": "/wiki/sources/dafeixin-paoqi-hezuo-jin-40-nian-de-baishi-meiguo-kendeji-zai-zheteng-shenme-gkwrijeotnadah8swtwi4nj/"
+  },
+  "dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn": {
+    "title": "达霏欣｜苹果新系统可以禁止「摇一摇」广告，张一鸣再登胡润百富榜首",
+    "url": "/wiki/sources/dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn/"
   },
   "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825": {
     "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",

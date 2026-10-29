@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13770
+wiki_total_pages: 13772
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "JiujiangChuHan"
     title: "Jiujiang Kingdom / 九江国"
     url: "/wiki/entities/jiujiangchuhan/"
+  - key: "JiuzhaiHuanglongAirport"
+    title: "Jiuzhai Huanglong Airport / 九寨黄龙机场"
+    url: "/wiki/entities/jiuzhaihuanglongairport/"
   - key: "JKMolina"
     title: "JK Molina"
     url: "/wiki/entities/jkmolina/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [达霏欣｜苹果新系统可以禁止「摇一摇」广告，张一鸣再登胡润百富榜首](sources/dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn.md) — 声动早咖啡串联海外库存错配、AI 财富与资本开支、传感器广告控制、中国汽车架构输出、代言风险、饮料竞争及中小机场公共价值。
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.md) — 硅谷101与Afra、Vitalik梳理有效利他主义、理性主义和AI安全网络，并以公司激励、捐赠变迁、公众合法性与d/acc重审技术治理。
 - [Vol.278 新鲜零食，多新鲜呐](sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz.md) — 商业就是这样拆解新鲜零食的短保与体验式“新鲜”、区域供应链、商场引流、资本推动及复购和跨城复制风险。
 - [Politicians are afraid to fix taxes. So 100 citizens tried.](sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693.md) — Planet Money follows a 100-resident Connecticut citizens' assembly from fiscal learning and deliberation through tax recommendations, publication conflict, and the limits of advisory power.
@@ -4867,6 +4868,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [從康乃爾到斯坦福，校園性暴力為何難追責？](sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616.md) — 端聞以康乃爾、佛州州立與斯坦福案件分析校內、刑事和民事追責缺口，以及同意能力、兄弟會風險、曝光依賴與性別化同情。
 
 ## Entities
+- [Hurun Research Institute / 胡润研究院](entities/HurunResearchInstitute.md) — Wealth-ranking organization whose 2026 list is used to connect founder valuations with AI and upstream compute infrastructure.
+- [Jiuzhai Huanglong Airport / 九寨黄龙机场](entities/JiuzhaiHuanglongAirport.md) — Tourism-dependent regional airport illustrating route fragility and public-service access value.
 - [Vitalik Buterin](entities/VitalikButerin.md) — Ethereum co-founder connecting philanthropic neglectedness, AI-risk uncertainty, institutional incentives, and defensive decentralized acceleration.
 - [Afra](entities/AfraAIWriter.md) — Technology journalist and critical participant-observer mapping effective altruism, rationalism, and AI-safety networks.
 - [William MacAskill](entities/WilliamMacAskill.md) — Effective-altruism co-founder associated with 80,000 Hours, earning to give, and comparative-impact career choice.
@@ -18719,6 +18722,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Overseas Inventory Forecasting Mismatch / 海外库存预测错配](concepts/OverseasInventoryForecastingMismatch.md) — Simultaneous overstock and stockouts created by long cross-border replenishment cycles and product-location forecast error.
+- [AI Wealth Concentration Engine / AI 财富集中引擎](concepts/AIWealthConcentrationEngine.md) — Founder-wealth revaluation across AI platforms, chips, networking, and compute infrastructure without implying broad welfare gains.
+- [Compute-Capital Labor Reallocation / 算力资本与人力再配置](concepts/ComputeCapitalLaborReallocation.md) — Shift in marginal technology-company spending from payroll growth toward externally financed chips and data centers.
+- [Motion-Triggered Advertising Control / 摇一摇广告控制](concepts/MotionTriggeredAdvertisingControl.md) — Operating-system permission control over sensor-driven advertising redirects and accidental activation.
+- [China-Developed Automotive Architecture Export / 中国汽车架构反向输出](concepts/ChinaDevelopedAutomotiveArchitectureExport.md) — Reuse outside China of vehicle software and electronic architecture first developed for the Chinese market.
+- [Regional Airport Public-Service Value / 中小机场公共服务价值](concepts/RegionalAirportPublicServiceValue.md) — Access and travel-time benefits that can justify evaluating regional airports beyond standalone profit.
 - [Rationalist Community](concepts/RationalistCommunity.md) — Modern epistemic culture of belief revision and curiosity, distinct from effective altruism and Descartes-style rationalist method.
 - [Philanthropic Neglectedness](concepts/PhilanthropicNeglectedness.md) — Dynamic allocation principle comparing a cause's importance with its existing resources, attention, methods, and marginal need.
 - [Defensive Decentralized Acceleration](concepts/DefensiveDecentralizedAcceleration.md) — d/acc strategy combining technological progress, protective capability, and distributed power.
