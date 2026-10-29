@@ -38103,3 +38103,11 @@ Added source `defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | 47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》
+
+Added source `47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t`; created [[TeutonicOrder]], [[HenrykSienkiewicz]], [[TheKnightsOfTheCrossNovel]], [[BattleOfGrunwald1410]], [[NorthernCrusades]], and [[NationalistHistoricalFiction]]; and resynthesized [[MalborkCastle]], [[PremodernIdentityModernNationality]], [[HistoricalFictionPublicGateway]], and [[PolishBuiltHeritagePalimpsest]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the novel makes medieval Poland tangible through material life and battle while its partition-era cultural purpose projects nineteenth-century nationalism onto mixed medieval institutions and coalitions; Grunwald severely damaged but did not immediately destroy the Teutonic Order, whose decline continued through fiscal strain, mercenary dependence, urban opposition, war, and secularization. No settled contradiction was adopted. Dates, totals, branch terminology, facilities, duel customs, ethnic composition, censorship strategy, postwar reception, quotations, and media-influence claims remain source-scoped because the supplied file is a structured podcast summary. Broad host, show, and country pages were kept closed because the focused pages capture the changed judgments without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 4,776 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

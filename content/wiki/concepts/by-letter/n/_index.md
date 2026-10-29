@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10904
+wiki_total_pages: 10906
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "NationalistAtlantisMythmaking"
     title: "Nationalist Atlantis Mythmaking"
     url: "/wiki/concepts/nationalistatlantismythmaking/"
+  - key: "NationalistHistoricalFiction"
+    title: "Nationalist Historical Fiction / 民族主义历史小说"
+    url: "/wiki/concepts/nationalisthistoricalfiction/"
   - key: "NationalistStreetMobilization"
     title: "Nationalist Street Mobilization"
     url: "/wiki/concepts/nationaliststreetmobilization/"
@@ -563,6 +566,9 @@ wiki_pages:
   - key: "NorthernCourage"
     title: "Northern Courage / 北方的勇气"
     url: "/wiki/concepts/northerncourage/"
+  - key: "NorthernCrusades"
+    title: "Northern Crusades / 北方十字军"
+    url: "/wiki/concepts/northerncrusades/"
   - key: "NorthernIrelandCivilRightsMovement"
     title: "Northern Ireland Civil Rights Movement"
     url: "/wiki/concepts/northernirelandcivilrightsmovement/"

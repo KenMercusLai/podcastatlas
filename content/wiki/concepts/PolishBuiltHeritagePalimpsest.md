@@ -4,7 +4,8 @@ type: concept
 tags: [poland, heritage, architecture, borders, national-memory]
 sources:
   - 270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810
-last_updated: 2026-09-30
+  - 47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t
+last_updated: 2026-10-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The seven-wonders itinerary reveals a connected and repeatedly remade Poland. [[
 
 The framework does not deny present-day national ownership. It distinguishes legal location and modern commemoration from historical origin, population, and past political use. This allows [[Poland]] to claim and conserve sites without flattening their non-Polish or transnational layers.
 
+The new Malbork account adds an explicit memory practice: a museum leader proposed changing the castle from a place of antagonistic memory into one of European exchange. This is a curatorial project, not a claim that conflict has disappeared; shared heritage remains credible only when conquest, dispossession, nationalist reuse, and changing sovereignty remain visible.
+
 ## Key Claims
 
 - Built heritage can outlast the states, borders, populations, and institutions that created it.
@@ -28,6 +31,7 @@ The framework does not deny present-day national ownership. It distinguishes leg
 - Foreign-built infrastructure can be inherited and valued without legitimating foreign domination.
 - Tourism and rankings select legible monuments and can hide destroyed communities or ordinary landscapes.
 - A layered reading strengthens national history by making discontinuity and entanglement visible.
+- Shared-heritage interpretation is a practice of presenting conflict, not evidence that ownership and memory are uncontested.
 
 ## Evidence
 
@@ -35,16 +39,16 @@ The framework does not deny present-day national ownership. It distinguishes leg
 - Borderland inheritance: [[270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810]] places the Elbląg Canal and Malbork within Prussian, German, Baltic, Teutonic, and Polish histories.
 - Reassigned symbolism: [[270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810]] traces Wawel and Wieliczka through royal, imperial, occupation, national, and tourist uses.
 - Selective visibility: [[270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810]] notes a natural wonder outside the official list and repeatedly contrasts preserved structures with destroyed Jewish life.
+- Curatorial reinterpretation: [[47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t]] connects Malbork's Teutonic, Polish, and German histories to an effort to replace antagonistic memory with European exchange.
 
 ## Counterevidence & Qualifications
 
-The framework comes from one podcast's use of a 2007 newspaper competition, not a systematic survey of Polish heritage. “Palimpsest” can overemphasize visible monuments and imply cleanly separable layers where histories were simultaneous and unequal. Shared or transnational history must not minimize conquest, occupation, genocide, or conflicts over restitution and ownership.
+The framework comes from two podcast discussions, not a systematic survey of Polish heritage. “Palimpsest” can overemphasize visible monuments and imply cleanly separable layers where histories were simultaneous and unequal. Shared or transnational history must not minimize conquest, occupation, genocide, or conflicts over restitution and ownership; the museum statement and dates remain source-scoped.
 
 ## What Changed
 
-- Established a framework for retaining Polish, German, Jewish, Baltic, Italian, and imperial layers together.
-- Added foreign-built infrastructure and repurposed tourist sites to heritage analysis.
-- Made selective visibility and destroyed social worlds explicit limits of monument-led history.
+- Added shared-heritage curation as an active response to antagonistic memory.
+- Clarified that European exchange language must retain conquest and nationalist appropriation.
 
 ## Related Concepts
 
@@ -53,3 +57,4 @@ The framework comes from one podcast's use of a 2007 newspaper competition, not 
 - [[HistoricalMemoryContest]] - explains struggles over which layer receives public authority.
 - [[EvidenceBoundHistoricalRevision]] - supplies a method for testing inherited heritage claims.
 - [[MythAsHistoricalEvidence]] - treats legends such as Kraków's dragon or Saint Kinga as evidence of meaning rather than literal proof.
+- [[NationalistHistoricalFiction]] - parallel process through which literature reassigns the meaning of medieval sites and victories.

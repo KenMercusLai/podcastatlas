@@ -4883,6 +4883,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390.md) — Tomorrow Today interview connecting child-labour rescue, consumer campaigning, GoodWeave certification, transformative compassion, compassionate AI, and a proposed Compassion Quotient.
 
+- [47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》](sources/47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t.md) — 怪东西以《十字军骑士》连接北方十字军、条顿骑士团、格伦瓦尔德战役、马尔堡与波兰民族记忆，并区分中世纪冲突和十九世纪民族主义投射。
+
 ## Entities
 - [Federica Fornaciari](entities/FedericaFornaciari.md) — Consultant, agency executive, educator, entrepreneur, and investor centered on execution-led transformation.
 - [Bain & Company](entities/BainAndCompany.md) — Consulting context for Fornaciari's analytical formation and critique of advice detached from delivery.
@@ -18771,6 +18773,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Kailash Satyarthi](entities/KailashSatyarthi.md) — Child-rights activist whose represented account joins rescue, market reform, transformative compassion, and human-centered AI responsibility.
 - [GoodWeave](entities/GoodWeave.md) — Child-labour-free carpet certification initiative first known as Rugmark in the bounded source.
+- [Teutonic Order / 条顿骑士团](entities/TeutonicOrder.md) — Military religious order whose Baltic crusading, territorial state, Grunwald defeat, internal opposition, and later secularization resist a single national-war narrative.
+- [Henryk Sienkiewicz / 亨利克·显克维奇](entities/HenrykSienkiewicz.md) — Polish historical novelist whose medieval victory narrative served partition-era cultural memory while projecting modern nationality backward.
+- [The Knights of the Cross / 《十字军骑士》](entities/TheKnightsOfTheCrossNovel.md) — Historical novel valued for material atmosphere and battle writing while qualified by conventional plotting and nationalist framing.
+- [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
 - [Strategy–Execution Accountability](concepts/StrategyExecutionAccountability.md) — Keeps strategic thought, operational implementation, and outcome ownership connected.
@@ -29773,5 +29779,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ethical Supply-Chain Certification](concepts/EthicalSupplyChainCertification.md) — Market intervention translating social standards into monitored, labeled, and qualified purchasing signals.
 - [Compassionate AI](concepts/CompassionateAI.md) — Lifecycle-wide AI responsibility grounded in human consequences, dignity, relationships, action, and accountability.
 - [Compassion Quotient](concepts/CompassionQuotient.md) — Proposed trainable measure of compassion through awareness, connectedness, feeling, and action, with unresolved validation and gaming risks.
+- [Northern Crusades / 北方十字军](concepts/NorthernCrusades.md) — Baltic crusading field joining conversion, conquest, settlement, administration, and territorial state formation.
+- [Nationalist Historical Fiction / 民族主义历史小说](concepts/NationalistHistoricalFiction.md) — Historical storytelling that can preserve subordinated cultures while projecting modern national categories onto earlier worlds.
 
 ## Syntheses

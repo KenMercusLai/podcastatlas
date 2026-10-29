@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13805
+wiki_total_pages: 13809
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "BattleOfGettysburg"
     title: "Battle of Gettysburg"
     url: "/wiki/entities/battleofgettysburg/"
+  - key: "BattleOfGrunwald1410"
+    title: "Battle of Grunwald / Tannenberg (1410)"
+    url: "/wiki/entities/battleofgrunwald1410/"
   - key: "BattleOfIbera"
     title: "Battle of Ibera / 伊贝拉战役"
     url: "/wiki/entities/battleofibera/"

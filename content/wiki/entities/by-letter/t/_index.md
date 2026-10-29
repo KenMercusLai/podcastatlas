@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13805
+wiki_total_pages: 13809
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "TeutonesAndCimbri"
     title: "Teutones and Cimbri / 条顿人与辛布里人"
     url: "/wiki/entities/teutonesandcimbri/"
+  - key: "TeutonicOrder"
+    title: "Teutonic Order / 条顿骑士团"
+    url: "/wiki/entities/teutonicorder/"
   - key: "Texas"
     title: "Texas"
     url: "/wiki/entities/texas/"
@@ -539,6 +542,9 @@ wiki_pages:
   - key: "TheKingIsDead"
     title: "The King Is Dead"
     url: "/wiki/entities/thekingisdead/"
+  - key: "TheKnightsOfTheCrossNovel"
+    title: "The Knights of the Cross / 《十字军骑士》"
+    url: "/wiki/entities/theknightsofthecrossnovel/"
   - key: "TheLiberationOfAuntJemima"
     title: "The Liberation of Aunt Jemima"
     url: "/wiki/entities/theliberationofauntjemima/"
