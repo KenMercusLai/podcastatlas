@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3430
+topic_total_pages: 3431
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4039,6 +4039,9 @@ topic_concepts:
   - key: "SmallStateSurvivalByDistraction"
     title: "Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续"
     url: "/wiki/concepts/smallstatesurvivalbydistraction/"
+  - key: "SmartCityConveniencePrivacyTradeoff"
+    title: "Smart-City Convenience-Privacy Tradeoff / 智慧城市的便利—隐私权衡"
+    url: "/wiki/concepts/smartcityconvenienceprivacytradeoff/"
   - key: "SmithVMaryland"
     title: "Smith v. Maryland"
     url: "/wiki/concepts/smithvmaryland/"

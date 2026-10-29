@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 10869
+wiki_total_pages: 10875
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "UrbanRouteFieldObservation"
     title: "Urban Route Field Observation / 城市路线式观察"
     url: "/wiki/concepts/urbanroutefieldobservation/"
+  - key: "UrbanVillageAffordableHousingFunction"
+    title: "Urban Villages as Affordable Housing Infrastructure / 城中村的可负担住房功能"
+    url: "/wiki/concepts/urbanvillageaffordablehousingfunction/"
   - key: "UrbanWildlifeCoexistence"
     title: "Urban Wildlife Coexistence / 城市野生动物共存"
     url: "/wiki/concepts/urbanwildlifecoexistence/"

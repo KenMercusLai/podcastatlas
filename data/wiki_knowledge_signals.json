@@ -8284,9 +8284,9 @@
       "url": "/wiki/concepts/adaptivehumanenvironments/"
     },
     "AdaptiveUrbanPlanningUnderUncertainty": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "2f9cb979-23b4-4112-b345-4cb9fd31014b [2f9cb979-23b4-4112-b345-4cb9fd31014b].md",
@@ -8294,9 +8294,16 @@
           "show": "声东击西",
           "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
           "url": "/wiki/sources/406-cong-jingshan-qi-dao-sanlitun-zai-jietou-xunzhao-beijing-de-shinian-henji-shizhounian-tebie-jiemu-2f9cb979/"
+        },
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/adaptiveurbanplanningunderuncertainty/"
     },
     "AddedFreeSugarDistinction": {
@@ -52332,6 +52339,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/climatehistorycausalpluralism/"
+    },
+    "ClimateResponsiveUrbanInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/climateresponsiveurbaninfrastructure/"
     },
     "ClimateShockInstitutionalResilience": {
       "episode_count": 2,
@@ -101616,6 +101639,22 @@
       "updated": "2026-10-26",
       "url": "/wiki/concepts/flexiblemotivationalportfolio/"
     },
+    "FlexiblePublicSpaceResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/flexiblepublicspaceresilience/"
+    },
     "FlexibleWeeklyFitnessScaffold": {
       "episode_count": 4,
       "show_count": 1,
@@ -118288,9 +118327,9 @@
       "url": "/wiki/concepts/growthmindset/"
     },
     "GrowthToLivabilityTransition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CMCoOSYDPDsGBaNYAQBWGiZp [CMCoOSYDPDsGBaNYAQBWGiZp].md",
@@ -118298,9 +118337,16 @@
           "show": "无时差研究所",
           "title": "EP138-“来了就是深圳人”？",
           "url": "/wiki/sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp/"
+        },
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/growthtolivabilitytransition/"
     },
     "GrowthWithoutBroadDiffusion": {
@@ -135993,6 +136039,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/humancenteredaieducation/"
+    },
+    "HumanCenteredUrbanRenewal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/humancenteredurbanrenewal/"
     },
     "HumanChemicalSignaling": {
       "episode_count": 4,
@@ -224705,6 +224767,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/polybius/"
     },
+    "PolycentricUrbanStructureAndJobHousingBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/polycentricurbanstructureandjobhousingbalance/"
+    },
     "PolyesterAsApparelMaterial": {
       "episode_count": 1,
       "show_count": 1,
@@ -258139,9 +258217,9 @@
       "url": "/wiki/entities/shenyangcity/"
     },
     "Shenzhen": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
@@ -258177,9 +258255,16 @@
           "show": "无时差研究所",
           "title": "EP138-“来了就是深圳人”？",
           "url": "/wiki/sources/ep138-laile-jiushi-shenzhenren-cmcoosydpdsgbanyaqbwgizp/"
+        },
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/shenzhen/"
     },
     "ShenzhenPeopleHospital": {
@@ -262693,6 +262778,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/smallvenueculturalincubation/"
+    },
+    "SmartCityConveniencePrivacyTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/smartcityconvenienceprivacytradeoff/"
     },
     "SmartGlassesBystanderPrivacy": {
       "episode_count": 5,
@@ -291526,6 +291627,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/urbanvi/"
+    },
+    "UrbanVillageAffordableHousingFunction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CMCoCqgC36nFB4cpJgBA98WR [CMCoCqgC36nFB4cpJgBA98WR].md",
+          "key": "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr",
+          "show": "无时差研究所",
+          "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+          "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/urbanvillageaffordablehousingfunction/"
     },
     "UrbanWildlifeCoexistence": {
       "episode_count": 1,

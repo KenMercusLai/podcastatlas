@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10869
+wiki_total_pages: 10875
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "HumanCenteredAIEducation"
     title: "Human-Centered AI Education"
     url: "/wiki/concepts/humancenteredaieducation/"
+  - key: "HumanCenteredUrbanRenewal"
+    title: "Human-Centered Urban Renewal / 以人为本的城市更新"
+    url: "/wiki/concepts/humancenteredurbanrenewal/"
   - key: "HumanDependentSafetySystem"
     title: "Human-Dependent Safety System"
     url: "/wiki/concepts/humandependentsafetysystem/"

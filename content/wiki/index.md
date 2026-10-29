@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP128-十五年一稿的城市规划，究竟在规划什么？](sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr.md) — 无时差研究所以空间结构、职住平衡、城中村、城市更新、气候基础设施、智慧治理与弹性公共空间解释长期规划如何落到日常生活。
 - [EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？](sources/ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg.md) — 无时差研究所从GameStop拆解逼空、期权对冲、清算保证金、订单流支付、社交投资协调及散户与机构的风险差距。
 - [No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下](sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i.md) — 半拿铁从1494年驱逐讲到教皇、托斯卡纳大公与王朝绝嗣，并以多元赞助和安娜·玛丽亚的遗赠重审美第奇的政治与文化遗产。
 - [达霏欣｜苹果新系统可以禁止「摇一摇」广告，张一鸣再登胡润百富榜首](sources/dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn.md) — 声动早咖啡串联海外库存错配、AI 财富与资本开支、传感器广告控制、中国汽车架构输出、代言风险、饮料竞争及中小机场公共价值。
@@ -18734,6 +18735,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dwight D. Eisenhower](entities/DwightEisenhower.md) — U.S. president who used UN action and financial leverage to force his British and French allies to cease fire at Suez.
 
 ## Concepts
+- [Polycentric Urban Structure and Job-Housing Balance / 多中心城市结构与职住平衡](concepts/PolycentricUrbanStructureAndJobHousingBalance.md) — Coordinates centers, housing, employment, services, and transport without assuming one universally best city shape.
+- [Urban Villages as Affordable Housing Infrastructure / 城中村的可负担住房功能](concepts/UrbanVillageAffordableHousingFunction.md) — Treats work-proximate low-cost housing as urban and labor-market infrastructure while retaining safety and service obligations.
+- [Human-Centered Urban Renewal / 以人为本的城市更新](concepts/HumanCenteredUrbanRenewal.md) — Judges renewal through infrastructure, public services, heritage, affordability, local identity, and daily use rather than surface tidiness alone.
+- [Climate-Responsive Urban Infrastructure / 气候响应型城市基础设施](concepts/ClimateResponsiveUrbanInfrastructure.md) — Combines engineered networks, distributed ecological measures, and local climate assumptions for drainage and urban design.
+- [Smart-City Convenience-Privacy Tradeoff / 智慧城市的便利—隐私权衡](concepts/SmartCityConveniencePrivacyTradeoff.md) — Separates data-enabled urban service value from identity-linked surveillance, behavioral pressure, and cross-domain profiling.
+- [Flexible Public-Space Resilience / 弹性公共空间](concepts/FlexiblePublicSpaceResilience.md) — Builds routine time-sharing, mixed use, and emergency conversion into streets, parks, facilities, and ordinary places.
 - [Short Squeeze](concepts/ShortSqueeze.md) — Forced-covering feedback loop in which rising prices pressure short sellers to buy, creating further demand.
 - [Payment for Order Flow](concepts/PaymentForOrderFlow.md) — Brokerage revenue model that replaces visible commissions with paid routing of customer orders to market makers.
 - [Broker Clearing Liquidity Risk](concepts/BrokerClearingLiquidityRisk.md) — Risk that settlement and collateral demands exceed a broker's immediately available funding during concentrated volatility.

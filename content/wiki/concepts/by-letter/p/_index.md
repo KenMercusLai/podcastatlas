@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10869
+wiki_total_pages: 10875
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1355,6 +1355,9 @@ wiki_pages:
   - key: "PollinationServiceMarket"
     title: "Pollination Service Market"
     url: "/wiki/concepts/pollinationservicemarket/"
+  - key: "PolycentricUrbanStructureAndJobHousingBalance"
+    title: "Polycentric Urban Structure and Job-Housing Balance / 多中心城市结构与职住平衡"
+    url: "/wiki/concepts/polycentricurbanstructureandjobhousingbalance/"
   - key: "PolyesterAsApparelMaterial"
     title: "Polyester As Apparel Material / 聚酯纤维作为服装材料"
     url: "/wiki/concepts/polyesterasapparelmaterial/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10869
+wiki_total_pages: 10875
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "FlexibleMotivationalPortfolio"
     title: "Flexible Motivational Portfolio"
     url: "/wiki/concepts/flexiblemotivationalportfolio/"
+  - key: "FlexiblePublicSpaceResilience"
+    title: "Flexible Public-Space Resilience / 弹性公共空间"
+    url: "/wiki/concepts/flexiblepublicspaceresilience/"
   - key: "FlexibleWeeklyFitnessScaffold"
     title: "Flexible Weekly Fitness Scaffold"
     url: "/wiki/concepts/flexibleweeklyfitnessscaffold/"

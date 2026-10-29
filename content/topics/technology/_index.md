@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3660
+topic_total_pages: 3662
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1582,6 +1582,9 @@ topic_concepts:
   - key: "CivilianInfrastructureAirCampaign"
     title: "Civilian Infrastructure Air Campaign"
     url: "/wiki/concepts/civilianinfrastructureaircampaign/"
+  - key: "ClimateResponsiveUrbanInfrastructure"
+    title: "Climate-Responsive Urban Infrastructure / 气候响应型城市基础设施"
+    url: "/wiki/concepts/climateresponsiveurbaninfrastructure/"
   - key: "ClinicalLanguageComprehensionValidation"
     title: "Clinical Language Comprehension Validation / 臨床語言理解驗證"
     url: "/wiki/concepts/clinicallanguagecomprehensionvalidation/"
@@ -4435,6 +4438,9 @@ topic_concepts:
   - key: "SmartGlassesBystanderPrivacy"
     title: "Smart Glasses Bystander Privacy"
     url: "/wiki/concepts/smartglassesbystanderprivacy/"
+  - key: "SmartCityConveniencePrivacyTradeoff"
+    title: "Smart-City Convenience-Privacy Tradeoff / 智慧城市的便利—隐私权衡"
+    url: "/wiki/concepts/smartcityconvenienceprivacytradeoff/"
   - key: "SmartphoneAIHub"
     title: "Smartphone AI Hub"
     url: "/wiki/concepts/smartphoneaihub/"

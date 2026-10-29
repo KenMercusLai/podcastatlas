@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10869
+wiki_total_pages: 10875
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1373,6 +1373,9 @@ wiki_pages:
   - key: "ClimateDiseaseEcology"
     title: "Climate-Disease Ecology"
     url: "/wiki/concepts/climatediseaseecology/"
+  - key: "ClimateResponsiveUrbanInfrastructure"
+    title: "Climate-Responsive Urban Infrastructure / 气候响应型城市基础设施"
+    url: "/wiki/concepts/climateresponsiveurbaninfrastructure/"
   - key: "ClinicLenderMatching"
     title: "Clinic Lender Matching"
     url: "/wiki/concepts/cliniclendermatching/"

@@ -21303,6 +21303,10 @@
     "title": "Climate History Causal Pluralism",
     "url": "/wiki/concepts/climatehistorycausalpluralism/"
   },
+  "ClimateResponsiveUrbanInfrastructure": {
+    "title": "Climate-Responsive Urban Infrastructure / 气候响应型城市基础设施",
+    "url": "/wiki/concepts/climateresponsiveurbaninfrastructure/"
+  },
   "ClimateShockInstitutionalResilience": {
     "title": "Climate Shock Institutional Resilience",
     "url": "/wiki/concepts/climateshockinstitutionalresilience/"
@@ -34995,6 +34999,10 @@
     "title": "Flexible Motivational Portfolio",
     "url": "/wiki/concepts/flexiblemotivationalportfolio/"
   },
+  "FlexiblePublicSpaceResilience": {
+    "title": "Flexible Public-Space Resilience / 弹性公共空间",
+    "url": "/wiki/concepts/flexiblepublicspaceresilience/"
+  },
   "FlexibleWeeklyFitnessScaffold": {
     "title": "Flexible Weekly Fitness Scaffold",
     "url": "/wiki/concepts/flexibleweeklyfitnessscaffold/"
@@ -44698,6 +44706,10 @@
   "HumanCenteredAIEducation": {
     "title": "Human-Centered AI Education",
     "url": "/wiki/concepts/humancenteredaieducation/"
+  },
+  "HumanCenteredUrbanRenewal": {
+    "title": "Human-Centered Urban Renewal / 以人为本的城市更新",
+    "url": "/wiki/concepts/humancenteredurbanrenewal/"
   },
   "HumanChemicalSignaling": {
     "title": "Human Chemical Signaling",
@@ -71259,6 +71271,10 @@
     "title": "Polybius / 波利比乌斯",
     "url": "/wiki/entities/polybius/"
   },
+  "PolycentricUrbanStructureAndJobHousingBalance": {
+    "title": "Polycentric Urban Structure and Job-Housing Balance / 多中心城市结构与职住平衡",
+    "url": "/wiki/concepts/polycentricurbanstructureandjobhousingbalance/"
+  },
   "PolyesterAsApparelMaterial": {
     "title": "Polyester As Apparel Material / 聚酯纤维作为服装材料",
     "url": "/wiki/concepts/polyesterasapparelmaterial/"
@@ -83087,6 +83103,10 @@
     "title": "Small-Venue Cultural Incubation",
     "url": "/wiki/concepts/smallvenueculturalincubation/"
   },
+  "SmartCityConveniencePrivacyTradeoff": {
+    "title": "Smart-City Convenience-Privacy Tradeoff / 智慧城市的便利—隐私权衡",
+    "url": "/wiki/concepts/smartcityconvenienceprivacytradeoff/"
+  },
   "SmartDrivingDemocratization": {
     "title": "Smart Driving Democratization / 智驾平权",
     "url": "/wiki/concepts/smartdrivingdemocratization/"
@@ -92598,6 +92618,10 @@
   "UrbanVI": {
     "title": "Urban VI",
     "url": "/wiki/entities/urbanvi/"
+  },
+  "UrbanVillageAffordableHousingFunction": {
+    "title": "Urban Villages as Affordable Housing Infrastructure / 城中村的可负担住房功能",
+    "url": "/wiki/concepts/urbanvillageaffordablehousingfunction/"
   },
   "UrbanWildlifeCoexistence": {
     "title": "Urban Wildlife Coexistence / 城市野生动物共存",
@@ -105390,6 +105414,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr": {
+    "title": "EP128-十五年一稿的城市规划，究竟在规划什么？",
+    "url": "/wiki/sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr/"
   },
   "ep132-lingzheng-santianqian-wo-konghunle-cmcoosadbrdubrkxrgbjepiy": {
     "title": "EP132-“领证三天前，我恐婚了！”",

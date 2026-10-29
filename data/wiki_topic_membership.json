@@ -25506,6 +25506,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ClimateResponsiveUrbanInfrastructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ClimateShockInstitutionalResilience": [
     {
       "key": "politics",
@@ -83315,6 +83327,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SmartCityConveniencePrivacyTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SmartGlassesBystanderPrivacy": [

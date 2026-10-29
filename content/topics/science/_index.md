@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1616
+topic_total_pages: 1617
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -439,6 +439,9 @@ topic_concepts:
   - key: "ClimateDiseaseEcology"
     title: "Climate-Disease Ecology"
     url: "/wiki/concepts/climatediseaseecology/"
+  - key: "ClimateResponsiveUrbanInfrastructure"
+    title: "Climate-Responsive Urban Infrastructure / 气候响应型城市基础设施"
+    url: "/wiki/concepts/climateresponsiveurbaninfrastructure/"
   - key: "ClosedLoopSleepEnhancementBoundary"
     title: "Closed-Loop Sleep Enhancement Boundary"
     url: "/wiki/concepts/closedloopsleepenhancementboundary/"

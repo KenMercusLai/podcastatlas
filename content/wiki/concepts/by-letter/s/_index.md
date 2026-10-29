@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10869
+wiki_total_pages: 10875
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "SmartVehicleLivingSpace"
     title: "Smart Vehicle Living Space / 智能汽车生活空间"
     url: "/wiki/concepts/smartvehiclelivingspace/"
+  - key: "SmartCityConveniencePrivacyTradeoff"
+    title: "Smart-City Convenience-Privacy Tradeoff / 智慧城市的便利—隐私权衡"
+    url: "/wiki/concepts/smartcityconvenienceprivacytradeoff/"
   - key: "SmartphoneAIHub"
     title: "Smartphone AI Hub"
     url: "/wiki/concepts/smartphoneaihub/"
