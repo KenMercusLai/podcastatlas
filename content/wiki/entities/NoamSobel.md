@@ -4,17 +4,18 @@ type: entity
 tags: [person, neuroscience, olfaction, chemosensation]
 sources:
   - how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783
-last_updated: 2026-09-28
+  - essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461
+last_updated: 2026-10-29
 knowledge_schema: synthesis-v1
 ---
 
 # Noam Sobel
 
 ## Overview
-Noam Sobel is presented in the bounded source as a Weizmann Institute professor and laboratory leader studying human olfaction, chemosensation, breathing, social odor, and the possible digitization of smell.
+Noam Sobel is presented in the bounded sources as a Weizmann Institute professor and laboratory leader studying human olfaction, chemosensation, breathing, social odor, and the possible digitization of smell.
 
 ## Current Profile
-In [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]], Sobel argues that human smell is more capable and behaviorally important than everyday awareness suggests. His work ranges from receptor and nasal-airflow mechanisms to human scent tracking, smell loss, friendship-related body-odor similarity, emotional tears, fear odor, hexadecanal, and molecular-to-perceptual odor models.
+Across the full conversation and its condensed [[essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461|Essentials version]], Sobel argues that human smell is more capable and behaviorally important than everyday awareness suggests. His work ranges from receptor and nasal-airflow mechanisms to human scent tracking, smell loss, friendship-related body-odor similarity, emotional tears, fear odor, hexadecanal, and molecular-to-perceptual odor models.
 
 His distinguishing stance is methodological restraint around socially powerful claims. He prefers “chemosignals” to “pheromones” in human research, treats a human Bruce-like reproductive effect as an active hypothesis, remains uncertain about menstrual synchrony, and describes smell loss as informative but diagnostically non-specific.
 
@@ -28,15 +29,16 @@ His distinguishing stance is methodological restraint around socially powerful c
 ## Evidence
 - Human olfactory capability - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] describes trail tracking, bilateral nostril advantage, memory access, and odor-pleasantness agreement.
 - Respiratory measurement - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] presents Sobel's nasal-cycle wearable and inhalation-linked cognition findings.
-- Social chemosignals - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] covers handshakes, friendship similarity, fear odor, emotional tears, and hexadecanal.
+- Social chemosignals - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] covers handshakes, friendship similarity, fear odor, emotional tears, and hexadecanal; [[essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461]] adds the friendship mirror-task null result and source-reported replication detail.
 - Evidentiary restraint - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] preserves uncertainty around pheromones, menstrual synchrony, recurrent pregnancy loss, and clinical diagnosis.
-- Computational direction - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] describes molecular-mixture prediction, olfactory metamers, remote odor recreation, and prospective diagnostic use.
+- Computational direction - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] describes molecular-mixture prediction, olfactory metamers, remote odor recreation, and prospective diagnostic use; [[essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461]] makes the mixed reconstruction results explicit.
 
 ## Qualifications
-This is not a complete biography, publication review, or independent evaluation of Sobel's laboratory program. It is bounded to one structured podcast summary, which omits study methods, sample sizes, citations, and replication detail. Medical, reproductive, neurodegenerative, ADHD, hormonal, and aggression claims remain source-scoped research discussion rather than diagnosis or treatment guidance.
+This is not a complete biography, publication review, or independent evaluation of Sobel's laboratory program. It is bounded to two overlapping structured podcast summaries, which omit study methods, sample sizes, citations, and much replication context. Medical, reproductive, neurodegenerative, ADHD, hormonal, and aggression claims remain source-scoped research discussion rather than diagnosis or treatment guidance.
 
 ## What Changed
-- Created a source-backed profile for the episode's olfaction and chemosensation guest.
+- Added the condensed episode's replication descriptions and null or weak experimental outcomes.
+- Strengthened the boundary between proof-of-concept odor transmission and a general-purpose smell codec.
 
 ## Relationships
 - [[HubermanLab]] - show hosting the bounded conversation.

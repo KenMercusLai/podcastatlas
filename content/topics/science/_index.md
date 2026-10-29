@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1619
+topic_total_pages: 1620
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4176,6 +4176,9 @@ topic_sources:
   - key: "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826"
     title: "Essentials: How Smell, Taste & Pheromones Shape Behavior"
     url: "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+  - key: "essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461"
+    title: "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel"
+    url: "/wiki/sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461/"
   - key: "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
     title: "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin"
     url: "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"

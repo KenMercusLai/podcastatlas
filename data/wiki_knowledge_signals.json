@@ -73455,9 +73455,9 @@
       "url": "/wiki/concepts/digitalmusiclicensing/"
     },
     "DigitalOlfaction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2074118783 [SCIM2074118783].md",
@@ -73465,9 +73465,16 @@
           "show": "Huberman Lab",
           "title": "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
           "url": "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
+        },
+        {
+          "episode_file": "SCIM9049912461 [SCIM9049912461].md",
+          "key": "essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+          "url": "/wiki/sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/digitalolfaction/"
     },
     "DigitalPublicSphereEpistemicAuthority": {
@@ -136249,9 +136256,9 @@
       "url": "/wiki/concepts/humancenteredurbanrenewal/"
     },
     "HumanChemicalSignaling": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -136280,9 +136287,16 @@
           "show": "Huberman Lab",
           "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
           "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
+        },
+        {
+          "episode_file": "SCIM9049912461 [SCIM9049912461].md",
+          "key": "essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+          "url": "/wiki/sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/humanchemicalsignaling/"
     },
     "HumanCommunityDataLicensing": {
@@ -206629,9 +206643,9 @@
       "url": "/wiki/entities/noahwebster/"
     },
     "NoamSobel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2074118783 [SCIM2074118783].md",
@@ -206639,9 +206653,16 @@
           "show": "Huberman Lab",
           "title": "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
           "url": "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
+        },
+        {
+          "episode_file": "SCIM9049912461 [SCIM9049912461].md",
+          "key": "essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+          "url": "/wiki/sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/noamsobel/"
     },
     "NocheTriste": {

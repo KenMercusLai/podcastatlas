@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461.md) — Condensed Huberman Lab interview on olfactory coding, unconscious social odor sampling, tears and hexadecanal, mixed digital-scent results, and the limits of future diagnostic use.
 - [Effective non-altruism: Elon Musk’s foundation](sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087.md) — The Intelligence examines the Musk Foundation's tax-efficient stock funding, opaque and delayed giving, Adam Hamilton's liberal Christian Kansas campaign, and the evidence below the 10,000-step myth.
 - [EP34-中秋特辑-灵魂拷问/别怕今夜空虚寂寞冷](sources/ep34-zhongqiu-teji-linghun-kaowen-biepa-jinye-kongxu-jimo-leng-wkgkk1unb1oxo9ngcvx-ivoggiw069.md) — 无时差研究所以多位嘉宾的矛盾答案重读嫦娥、吴刚与中秋，将神话版本连接到性别、婚姻、阶级、权力、无尽劳动及海外团圆实践。
 - [EP128-十五年一稿的城市规划，究竟在规划什么？](sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr.md) — 无时差研究所以空间结构、职住平衡、城中村、城市更新、气候基础设施、智慧治理与弹性公共空间解释长期规划如何落到日常生活。

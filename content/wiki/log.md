@@ -38055,3 +38055,11 @@ Added source `effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel
+
+Added source `essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461`; resynthesized [[NoamSobel]], [[HumanChemicalSignaling]], and [[DigitalOlfaction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: humans can sample socially relevant chemical cues without establishing a canonical pheromone system; body-odor similarity predicted friendship judgments but not mirror-task coordination; emotional-tear and hexadecanal results remain bounded laboratory findings even where the episode reports replication; and successful violet recreation sits beside failed or weak rose, anise, and gasoline results, so digital scent remains a proof of concept rather than a general codec or clinical diagnostic system. No settled contradiction was adopted. Receptor counts, effect sizes, replication descriptions, evolutionary protective-function accounts, molecular coverage, and participant results remain episode-scoped because the supplied file is a structured summary rather than a transcript, paper set, or methods review. Broad [[Chemosensation]], show, host, health-signal, and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 4,770 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
