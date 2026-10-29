@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3435
+topic_total_pages: 3436
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3973,6 +3973,9 @@ topic_concepts:
   - key: "SecurityBacklashPolitics"
     title: "Security Backlash Politics"
     url: "/wiki/concepts/securitybacklashpolitics/"
+  - key: "SecurityComplianceCapabilityGap"
+    title: "Security Compliance-Capability Gap"
+    url: "/wiki/concepts/securitycompliancecapabilitygap/"
   - key: "SecurityCrisisAmplification"
     title: "Security Crisis Amplification"
     url: "/wiki/concepts/securitycrisisamplification/"

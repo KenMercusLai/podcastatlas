@@ -38087,3 +38087,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | 一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？
+
+Added source `24354fbed76f-24354fbed76f`; created [[PatchReadinessTechnicalDebt]], [[CoordinatedVulnerabilityDisclosure]], [[SecurityComplianceCapabilityGap]], and [[SoftwareDependencyBlastRadius]]; and resynthesized [[AIEnabledVulnerabilityDiscovery]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: AI can accelerate discovery, exploit construction, reproduction, repair, and validation, but security outcomes remain constrained by false positives, coordinated disclosure, patch compatibility, dependency visibility, maintainer capacity, and tested operational response. No settled contradiction was adopted. The PHP identifier, score, chronology, exploit observations, cryptocurrency test, certificate incident, vulnerability totals, event dispute, governance claims, and fraud capabilities remain episode-scoped because the supplied file is a structured conversational summary rather than a vendor advisory, CVE record, incident report, technical reproduction, or institutional study. Broad legacy cyber-hygiene, impersonation-fraud, software-development, show, language, and company pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic; the max-age gate compacted the global artifact across all nine topics, and refreshed artifacts validate 4,774 sources across 806 overview paragraphs. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, health, and publish validation passed.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

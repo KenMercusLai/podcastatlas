@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？](sources/24354fbed76f-24354fbed76f.md) — 科技乱炖从 PHP 应急处置讨论 AI 加速的漏洞发现与利用、补丁技术债、协调披露、依赖链风险、合规能力差距及工业化身份诈骗。
 - [ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M](sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m.md) — The SaaS Podcast interview with Alan Talmor on Ask AI's pivot into Mosaic, technical-support automation, design-partner validation, founder-led sales, outcome positioning, and diagnostic enterprise pilots.
 - [AI infrastructure is making smartphones pricier](sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128.md) — Marketplace Tech traces AI-driven memory pressure into smartphone inflation, specification cuts, refurbished-device scarcity, longer replacement cycles, and access risk in price-sensitive markets.
 - [Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461.md) — Condensed Huberman Lab interview on olfactory coding, unconscious social odor sampling, tears and hexadecanal, mixed digital-scent results, and the limits of future diagnostic use.
@@ -18767,6 +18768,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GoodWeave](entities/GoodWeave.md) — Child-labour-free carpet certification initiative first known as Rugmark in the bounded source.
 
 ## Concepts
+- [Patch-Readiness Technical Debt](concepts/PatchReadinessTechnicalDebt.md) — Version, dependency, compatibility, and operational debt that makes urgent security updates slower or more dangerous.
+- [Coordinated Vulnerability Disclosure](concepts/CoordinatedVulnerabilityDisclosure.md) — Aligns researcher notice, patch preparation, user protection, and eventual transparency without creating an avoidable exploit window.
+- [Security Compliance-Capability Gap](concepts/SecurityComplianceCapabilityGap.md) — Distance between satisfying formal security requirements and demonstrating practical attack resistance, containment, repair, and learning.
+- [Software Dependency Blast Radius](concepts/SoftwareDependencyBlastRadius.md) — Correlated exposure and remediation demand propagated through shared libraries, runtimes, packages, and components.
 - [Enterprise Design Partner Validation](concepts/EnterpriseDesignPartnerValidation.md) — Product-validation discipline that joins deep early-partner learning with cross-customer testing and a boundary against non-transferable custom work.
 - [Enterprise Technical Support Automation](concepts/EnterpriseTechnicalSupportAutomation.md) — AI workflow that combines product knowledge, code, logs, customer context, historical tickets, tools, and human review for complex B2B support.
 - [Smartphone Affordability Pressure](concepts/SmartphoneAffordabilityPressure.md) — Uneven device-access pressure created by higher component costs, weaker specifications, financing needs, and constrained secondhand supply.

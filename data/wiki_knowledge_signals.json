@@ -3064,9 +3064,9 @@
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
     "AIEnabledVulnerabilityDiscovery": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
@@ -3102,9 +3102,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜山姆限购、黄牛加价，开心果为什么变得紧俏？",
           "url": "/wiki/sources/kafeidou-shanmu-xiangou-huangniu-jiajia-kaixinguo-weishenme-biande-jinqiao-gkwriw4or9-vag3oegttwe_s/"
+        },
+        {
+          "episode_file": "24354fbed76f [24354fbed76f].md",
+          "key": "24354fbed76f-24354fbed76f",
+          "show": "科技乱炖",
+          "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
+          "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEntertainmentParticipationDesign": {
@@ -59888,6 +59895,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/entities/coolit/"
+    },
+    "CoordinatedVulnerabilityDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24354fbed76f [24354fbed76f].md",
+          "key": "24354fbed76f-24354fbed76f",
+          "show": "科技乱炖",
+          "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
+          "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/coordinatedvulnerabilitydisclosure/"
     },
     "CoordinationTax": {
       "episode_count": 1,
@@ -217480,6 +217503,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/patagoniaregion/"
     },
+    "PatchReadinessTechnicalDebt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24354fbed76f [24354fbed76f].md",
+          "key": "24354fbed76f-24354fbed76f",
+          "show": "科技乱炖",
+          "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
+          "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/patchreadinesstechnicaldebt/"
+    },
     "PatentCrossLicensing": {
       "episode_count": 1,
       "show_count": 1,
@@ -254304,6 +254343,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/securitiesexchangecompany/"
     },
+    "SecurityComplianceCapabilityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24354fbed76f [24354fbed76f].md",
+          "key": "24354fbed76f-24354fbed76f",
+          "show": "科技乱炖",
+          "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
+          "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/securitycompliancecapabilitygap/"
+    },
     "SecurityCrisisAmplification": {
       "episode_count": 1,
       "show_count": 1,
@@ -265067,6 +265122,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/softwaredefinedvehicle/"
+    },
+    "SoftwareDependencyBlastRadius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "24354fbed76f [24354fbed76f].md",
+          "key": "24354fbed76f-24354fbed76f",
+          "show": "科技乱炖",
+          "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
+          "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/softwaredependencyblastradius/"
     },
     "SoftwareEatingTheWorldThesis": {
       "episode_count": 1,

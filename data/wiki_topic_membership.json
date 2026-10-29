@@ -3276,6 +3276,13 @@
       "url": "/topics/history/"
     }
   ],
+  "24354fbed76f-24354fbed76f": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457": [
     {
       "key": "history",
@@ -27643,6 +27650,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CoordinatedVulnerabilityDisclosure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "CopperSupplyBottleneck": [
@@ -69395,6 +69409,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PatchReadinessTechnicalDebt": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PatentCrossLicensing": [
     {
       "key": "technology",
@@ -80922,6 +80943,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "SecurityComplianceCapabilityGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SecurityCrisisAmplification": [
     {
       "key": "politics",
@@ -83806,6 +83839,13 @@
     }
   ],
   "SoftwareDefinedVehicle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SoftwareDependencyBlastRadius": [
     {
       "key": "technology",
       "label": "Technology",

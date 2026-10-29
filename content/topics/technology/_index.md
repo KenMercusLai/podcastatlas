@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3674
+topic_total_pages: 3679
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1750,6 +1750,9 @@ topic_concepts:
   - key: "ConversationalSearchInterface"
     title: "Conversational Search Interface"
     url: "/wiki/concepts/conversationalsearchinterface/"
+  - key: "CoordinatedVulnerabilityDisclosure"
+    title: "Coordinated Vulnerability Disclosure"
+    url: "/wiki/concepts/coordinatedvulnerabilitydisclosure/"
   - key: "CopperSupplyBottleneck"
     title: "Copper Supply Bottleneck"
     url: "/wiki/concepts/coppersupplybottleneck/"
@@ -3736,6 +3739,9 @@ topic_concepts:
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
+  - key: "PatchReadinessTechnicalDebt"
+    title: "Patch-Readiness Technical Debt"
+    url: "/wiki/concepts/patchreadinesstechnicaldebt/"
   - key: "PatentCrossLicensing"
     title: "Patent Cross-Licensing / 专利交叉许可"
     url: "/wiki/concepts/patentcrosslicensing/"
@@ -4357,6 +4363,9 @@ topic_concepts:
   - key: "Section230"
     title: "Section 230"
     url: "/wiki/concepts/section230/"
+  - key: "SecurityComplianceCapabilityGap"
+    title: "Security Compliance-Capability Gap"
+    url: "/wiki/concepts/securitycompliancecapabilitygap/"
   - key: "SecurityDataAccessConstraint"
     title: "Security Data Access Constraint"
     url: "/wiki/concepts/securitydataaccessconstraint/"
@@ -4465,6 +4474,9 @@ topic_concepts:
   - key: "SoftwareCreationBarbell"
     title: "Software Creation Barbell"
     url: "/wiki/concepts/softwarecreationbarbell/"
+  - key: "SoftwareDependencyBlastRadius"
+    title: "Software Dependency Blast Radius"
+    url: "/wiki/concepts/softwaredependencyblastradius/"
   - key: "SoftwareDeveloperHiringPullback"
     title: "Software Developer Hiring Pullback"
     url: "/wiki/concepts/softwaredeveloperhiringpullback/"
@@ -10731,6 +10743,9 @@ topic_sources:
   - key: "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7"
     title: "一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14"
     url: "/wiki/sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7/"
+  - key: "24354fbed76f-24354fbed76f"
+    title: "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？"
+    url: "/wiki/sources/24354fbed76f-24354fbed76f/"
   - key: "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805"
     title: "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策"
     url: "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"

@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 10896
+- Concepts: 10900
 - Entities: 13801
-- Sources: 4773
-- Total wiki content pages: 29471
+- Sources: 4774
+- Total wiki content pages: 29476
 
 ## Links
-- Wiki link references: 675151
-- Unique wiki link targets: 29505
-- Missing targets: 45
+- Wiki link references: 675209
+- Unique wiki link targets: 29509
+- Missing targets: 44
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4773
-- Matched episodes: 4773
+- Source pages: 4774
+- Matched episodes: 4774
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -65,8 +65,6 @@ outputs: ["html"]
   - `content/wiki/entities/ClaireLungo.md`
 - `[[CommercializationExecution]]`
   - `content/wiki/concepts/AppliedResearchTranslation.md`
-- `[[CoordinatedVulnerabilityDisclosure]]`
-  - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[CounterpartyRisk]]`
   - `content/wiki/concepts/BrokerClearingLiquidityRisk.md`
 - `[[CreatorEconomy]]`

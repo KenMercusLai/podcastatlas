@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10896
+wiki_total_pages: 10900
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "PastoralMissionSubversionAmbiguity"
     title: "Pastoral Mission-Subversion Ambiguity"
     url: "/wiki/concepts/pastoralmissionsubversionambiguity/"
+  - key: "PatchReadinessTechnicalDebt"
+    title: "Patch-Readiness Technical Debt"
+    url: "/wiki/concepts/patchreadinesstechnicaldebt/"
   - key: "PatentCrossLicensing"
     title: "Patent Cross-Licensing / 专利交叉许可"
     url: "/wiki/concepts/patentcrosslicensing/"

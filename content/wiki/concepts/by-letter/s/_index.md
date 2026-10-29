@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10896
+wiki_total_pages: 10900
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "SecurityBacklashPolitics"
     title: "Security Backlash Politics"
     url: "/wiki/concepts/securitybacklashpolitics/"
+  - key: "SecurityComplianceCapabilityGap"
+    title: "Security Compliance-Capability Gap"
+    url: "/wiki/concepts/securitycompliancecapabilitygap/"
   - key: "SecurityCrisisAmplification"
     title: "Security Crisis Amplification"
     url: "/wiki/concepts/securitycrisisamplification/"
@@ -1493,6 +1496,9 @@ wiki_pages:
   - key: "SoftwareCreationBarbell"
     title: "Software Creation Barbell"
     url: "/wiki/concepts/softwarecreationbarbell/"
+  - key: "SoftwareDependencyBlastRadius"
+    title: "Software Dependency Blast Radius"
+    url: "/wiki/concepts/softwaredependencyblastradius/"
   - key: "SoftwareDeveloperHiringPullback"
     title: "Software Developer Hiring Pullback"
     url: "/wiki/concepts/softwaredeveloperhiringpullback/"

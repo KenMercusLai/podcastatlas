@@ -1971,6 +1971,10 @@
     "title": "243. Trafalgar: A World at War (Part 1)",
     "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
   },
+  "24354fbed76f-24354fbed76f": {
+    "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
+    "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+  },
   "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457": {
     "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
     "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
@@ -23402,6 +23406,10 @@
   "CooperKatzMcKim": {
     "title": "Cooper Katz-McKim",
     "url": "/wiki/entities/cooperkatzmckim/"
+  },
+  "CoordinatedVulnerabilityDisclosure": {
+    "title": "Coordinated Vulnerability Disclosure",
+    "url": "/wiki/concepts/coordinatedvulnerabilitydisclosure/"
   },
   "CoordinationTax": {
     "title": "Coordination Tax / 协同税",
@@ -68895,6 +68903,10 @@
     "title": "Patagonia Region",
     "url": "/wiki/entities/patagoniaregion/"
   },
+  "PatchReadinessTechnicalDebt": {
+    "title": "Patch-Readiness Technical Debt",
+    "url": "/wiki/concepts/patchreadinesstechnicaldebt/"
+  },
   "PatekPhilippe": {
     "title": "Patek Philippe",
     "url": "/wiki/entities/patekphilippe/"
@@ -80575,6 +80587,10 @@
     "title": "Security Backlash Politics",
     "url": "/wiki/concepts/securitybacklashpolitics/"
   },
+  "SecurityComplianceCapabilityGap": {
+    "title": "Security Compliance-Capability Gap",
+    "url": "/wiki/concepts/securitycompliancecapabilitygap/"
+  },
   "SecurityCrisisAmplification": {
     "title": "Security Crisis Amplification",
     "url": "/wiki/concepts/securitycrisisamplification/"
@@ -83690,6 +83706,10 @@
   "SoftwareDefinedVehicle": {
     "title": "Software-Defined Vehicle / 软件定义汽车",
     "url": "/wiki/concepts/softwaredefinedvehicle/"
+  },
+  "SoftwareDependencyBlastRadius": {
+    "title": "Software Dependency Blast Radius",
+    "url": "/wiki/concepts/softwaredependencyblastradius/"
   },
   "SoftwareDeveloperHiringPullback": {
     "title": "Software Developer Hiring Pullback",
