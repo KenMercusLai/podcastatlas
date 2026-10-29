@@ -4868,6 +4868,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The tech behind spooky season](sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128.md) — Marketplace Tech profile of haunted-attraction engineering, hidden show control, live-performance support, and format-dependent pacing.
 - [從康乃爾到斯坦福，校園性暴力為何難追責？](sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616.md) — 端聞以康乃爾、佛州州立與斯坦福案件分析校內、刑事和民事追責缺口，以及同意能力、兄弟會風險、曝光依賴與性別化同情。
 
+- [718. The Suez Crisis: Britain's Shattered Empire (Part 2)](sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668.md) — The Rest Is History follows the collusive invasion, Egyptian resistance, American financial coercion, forced withdrawal, and Suez's disputed imperial legacy.
+
 ## Entities
 - [Pope Leo X / 利奥十世](entities/PopeLeoX.md) — Medici pope linking family restoration and artistic patronage to fiscal pressure, indulgence conflict, and the early Reformation crisis.
 - [Pope Clement VII / 克莱曼特七世](entities/PopeClementVII.md) — Medici pope whose alliance failure led into the Sack of Rome and imperial-backed Florentine restoration.
@@ -6653,7 +6655,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prince Philip](entities/PrincePhilip.md) — Elizabeth II's husband, naval officer, Malta companion, and later focus of publicly symbolic pandemic grief.
 - [Diana, Princess of Wales](entities/DianaPrincessOfWales.md) — Royal figure whose 1981 wedding, emotional public style, marriage crisis, and death made her a modern myth and exposed the monarchy's model-family vulnerability.
 - [Kwame Nkrumah](entities/KwameNkrumah.md) — Ghanaian nationalist and Pan-African leader who joined mass independence politics to post-imperial symbolism.
-- [Harold Macmillan](entities/HaroldMacmillan.md) — British prime minister whose “winds of change” position represented governmental acceptance of African decolonisation.
+- [Harold Macmillan](entities/HaroldMacmillan.md) — British minister who misjudged American tolerance at Suez, urged retreat under sterling pressure, and later accepted African decolonisation.
 - [Loch Ness Monster](entities/LochNessMonster.md) — Legendary Scottish cryptid whose modern long-necked form emerged through 1933-34 sightings, media circulation, and hoax evidence.
 - [Loch Ness](entities/LochNess.md) — Deep Highland loch whose geography, changing access, and tourism made it a persuasive stage for hidden-creature stories.
 - [Saint Columba](entities/SaintColumba.md) — Sixth-century missionary whose later saint's life contains the River Ness water-beast precedent recruited into Nessie history.
@@ -18722,9 +18724,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Lei / 李磊（小米 MiMo）](entities/LiLeiXiaomiMiMo.md) — University of Hong Kong NLP doctoral student and Xiaomi post-training researcher connecting research method, impact, evaluation, and AI-era doctoral choices.
 - [Video-MME](entities/VideoMME.md) — Long-video understanding benchmark used to connect capability extension with realistic, reproducible, low-friction evaluation.
 
-- [Gamal Abdel Nasser](entities/GamalAbdelNasser.md) — Egyptian leader whose anti-colonial sovereignty program, canal nationalisation, and regional appeal made him central to Suez.
-- [Anthony Eden](entities/AnthonyEden.md) — British prime minister whose anti-appeasement identity and regime-change objective shaped the Suez escalation.
-- [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
+- [Gamal Abdel Nasser](entities/GamalAbdelNasser.md) — Egyptian leader whose legal canal nationalisation, resistance, and political survival turned military defeat at Suez into anti-colonial prestige.
+- [Anthony Eden](entities/AnthonyEden.md) — British prime minister whose anti-appeasement analogy, collusive invasion, concealment, and illness culminated in Suez defeat and resignation.
+- [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation in which a collusive invasion won tactical gains but failed under UN action, oil disruption, sterling weakness, and American pressure.
+- [Dwight D. Eisenhower](entities/DwightEisenhower.md) — U.S. president who used UN action and financial leverage to force his British and French allies to cease fire at Suez.
 
 ## Concepts
 - [Ecclesiastical-Dynastic Conversion / 教会—王朝权力转换](concepts/EcclesiasticalDynasticConversion.md) — Shift from commercial wealth toward church office, foreign alliance, marriage, title, and territorial state power.
@@ -20314,7 +20317,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Democratic Security Escalation Trap](concepts/DemocraticSecurityEscalationTrap.md) — Process in which defeating a real armed challenge through expanding emergency coercion destroys the democracy being defended.
 - [Urban Guerrilla Armed Propaganda](concepts/UrbanGuerrillaArmedPropaganda.md) — Coercive action designed for resources, political messaging, publicity, and demonstration of state incapacity.
 - [Militant-to-Democratic Politics](concepts/MilitantToDemocraticPolitics.md) — Contingent shift from armed activism into electoral government without erasing responsibility, victimization, or justice disputes.
-- [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Uneven transfer of attention, capital, strategic hierarchy, language, technology, and cultural judgment from Britain toward the United States.
+- [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Uneven transfer of attention, capital, strategic autonomy, language, technology, and cultural judgment from Britain toward the United States.
 - [Black American GIs in Wartime Britain](concepts/BlackAmericanGIsWartimeBritain.md) — Allied wartime case where U.S. military segregation met British civilian resistance, racial conflict, and local solidarity.
 - [Day of the Dead](concepts/DayOfTheDead.md) — Layered Mexican commemorative festival joining Catholic-Iberian ritual, Indigenous materials, colonial foodways, national recoding, political art, and media spectacle.
 - [Invented Tradition](concepts/InventedTradition.md) — Selective assembly or formalization of practices presented through continuity, including state, media, corporate, and commercial-copying routes.

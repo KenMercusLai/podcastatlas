@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2773
+topic_total_pages: 2774
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7209,6 +7209,9 @@ topic_sources:
   - key: "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981"
     title: "717. The Suez Crisis: Anarchy in the Middle East (Part 1)"
     url: "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+  - key: "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668"
+    title: "718. The Suez Crisis: Britain's Shattered Empire (Part 2)"
+    url: "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
   - key: "72-the-vietnam-war-glt4906340188"
     title: "72. The Vietnam War"
     url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"

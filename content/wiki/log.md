@@ -38013,3 +38013,11 @@ Added source `no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | 718. The Suez Crisis: Britain's Shattered Empire (Part 2)
+
+Added source `718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668`; created [[DwightEisenhower|Dwight D. Eisenhower]]; and resynthesized [[AnthonyEden]], [[GamalAbdelNasser]], [[SuezCrisis]], [[HaroldMacmillan]], and [[AngloAmericanPowerReversal]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the collusive invasion achieved rapid battlefield gains but failed strategically because it neither removed Nasser nor supplied a viable endgame, while UN action, oil disruption, sterling weakness, and American control over credit and IMF support forced a ceasefire; Nasser converted military defeat into anti-colonial prestige, and Britain institutionalized the lesson that it could not conduct major foreign policy against American wishes. No settled contradiction was adopted. The episode qualifies both the claim that Suez alone ended the British Empire and the claim that it permanently traumatized the British public; Eden's illness remains consequential without reducing his conduct to medication or an American removal plot. Casualties, polling, reserves, private dialogue, motives, medical interpretation, operational alternatives, and counterfactual consequences remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, financial record, or specialist military study. Broad show, country, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening much larger unchanged inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,764 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

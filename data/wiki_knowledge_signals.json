@@ -17581,9 +17581,9 @@
       "url": "/wiki/concepts/angerdrivenwardecision/"
     },
     "AngloAmericanPowerReversal": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -17605,9 +17605,16 @@
           "show": "The Rest Is History",
           "title": "The Beatles: The Band that Changed the World, with Conan O’Brien (Part 1)",
           "url": "/wiki/sources/the-beatles-the-band-that-changed-the-world-with-conan-obrien-part-1-glt5632094525/"
+        },
+        {
+          "episode_file": "GLT7704784668 [GLT7704784668].md",
+          "key": "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668",
+          "show": "The Rest Is History",
+          "title": "718. The Suez Crisis: Britain's Shattered Empire (Part 2)",
+          "url": "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/angloamericanpowerreversal/"
     },
     "AngloDanishRelations": {
@@ -18870,9 +18877,9 @@
       "url": "/wiki/entities/anthonyburns/"
     },
     "AnthonyEden": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9181892981 [GLT9181892981].md",
@@ -18880,9 +18887,16 @@
           "show": "The Rest Is History",
           "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
           "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        },
+        {
+          "episode_file": "GLT7704784668 [GLT7704784668].md",
+          "key": "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668",
+          "show": "The Rest Is History",
+          "title": "718. The Suez Crisis: Britain's Shattered Empire (Part 2)",
+          "url": "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/anthonyeden/"
     },
     "AnthonyFauci": {
@@ -79479,6 +79493,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/dwarkeshpatel/"
     },
+    "DwightEisenhower": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9181892981 [GLT9181892981].md",
+          "key": "717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981",
+          "show": "The Rest Is History",
+          "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
+          "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        },
+        {
+          "episode_file": "GLT7704784668 [GLT7704784668].md",
+          "key": "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668",
+          "show": "The Rest Is History",
+          "title": "718. The Suez Crisis: Britain's Shattered Empire (Part 2)",
+          "url": "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/dwighteisenhower/"
+    },
     "DylanField": {
       "episode_count": 1,
       "show_count": 1,
@@ -109006,9 +109043,9 @@
       "url": "/wiki/entities/gallipolicampaign/"
     },
     "GamalAbdelNasser": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9181892981 [GLT9181892981].md",
@@ -109016,9 +109053,16 @@
           "show": "The Rest Is History",
           "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
           "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        },
+        {
+          "episode_file": "GLT7704784668 [GLT7704784668].md",
+          "key": "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668",
+          "show": "The Rest Is History",
+          "title": "718. The Suez Crisis: Britain's Shattered Empire (Part 2)",
+          "url": "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/gamalabdelnasser/"
     },
     "GamblingEscalationLoop": {
@@ -124499,9 +124543,9 @@
       "url": "/wiki/entities/haroldholt/"
     },
     "HaroldMacmillan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -124516,9 +124560,16 @@
           "show": "The Rest Is History",
           "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
           "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        },
+        {
+          "episode_file": "GLT7704784668 [GLT7704784668].md",
+          "key": "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668",
+          "show": "The Rest Is History",
+          "title": "718. The Suez Crisis: Britain's Shattered Empire (Part 2)",
+          "url": "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/haroldmacmillan/"
     },
     "HaroldMcGee": {
@@ -271964,9 +272015,9 @@
       "url": "/wiki/entities/suetoniuspaulinus/"
     },
     "SuezCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9181892981 [GLT9181892981].md",
@@ -271974,9 +272025,16 @@
           "show": "The Rest Is History",
           "title": "717. The Suez Crisis: Anarchy in the Middle East (Part 1)",
           "url": "/wiki/sources/717-the-suez-crisis-anarchy-in-the-middle-east-part-1-glt9181892981/"
+        },
+        {
+          "episode_file": "GLT7704784668 [GLT7704784668].md",
+          "key": "718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668",
+          "show": "The Rest Is History",
+          "title": "718. The Suez Crisis: Britain's Shattered Empire (Part 2)",
+          "url": "/wiki/sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "url": "/wiki/entities/suezcrisis/"
     },
     "SufferingBasedMoralSubjecthood": {
