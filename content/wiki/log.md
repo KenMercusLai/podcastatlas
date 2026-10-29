@@ -38040,3 +38040,10 @@ Added source `ep34-zhongqiu-teji-linghun-kaowen-biepa-jinye-kongxu-jimo-leng-wkg
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-29] ingest | Advice Line with Tope Awotona of Calendly
+
+Added source `advice-line-with-tope-awotona-of-calendly-vmp4254648132`; created [[TopeAwotona]], [[Calendly]], [[DomCotton]], [[Newlane]], [[IvanaPlayfield]], [[Playfield]], [[DanyNailRoom]], [[TheNailRoom]], [[JustinKittredge]], [[ISlide|iSlide]], [[ConstraintLedGrowthDiagnosis]], [[FounderUniqueValuePreservation]], [[ExperienceBeforeLocationExpansion]], and [[CustomerCenteredExpansion]]. Core synthesis: growth advice becomes more useful when it identifies the binding constraint—positioning and economics, founder-dependent operations, first-site capacity and experience, or scattered channel attention—before selecting tactics. No settled contradiction was adopted. User counts, revenue, sales, profitability, staffing, channel performance, product claims, and growth targets remain episode-scoped because the supplied file is a structured summary rather than a transcript, financial record, safety assessment, customer dataset, or operating audit. Broad show, host, and legacy concept pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,768 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

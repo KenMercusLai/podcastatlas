@@ -4873,6 +4873,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [718. The Suez Crisis: Britain's Shattered Empire (Part 2)](sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668.md) — The Rest Is History follows the collusive invasion, Egyptian resistance, American financial coercion, forced withdrawal, and Suez's disputed imperial legacy.
 
+- [Advice Line with Tope Awotona of Calendly](sources/advice-line-with-tope-awotona-of-calendly-vmp4254648132.md) — Four founder cases on diagnosing growth constraints, delegating operations, staging location expansion, concentrating channels, and building around customers.
+
 ## Entities
 - [Chang'e / 嫦娥](entities/ChangE.md) — Lunar figure whose competing versions recode desire, sacrifice, marital loyalty, punishment, and female agency.
 - [Wu Gang / 吴刚](entities/WuGang.md) — Lunar woodcutter whose regenerating tree supports readings of futility, resistance, persistence, and unintended benefit.
@@ -18737,6 +18739,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation in which a collusive invasion won tactical gains but failed under UN action, oil disruption, sterling weakness, and American pressure.
 - [Dwight D. Eisenhower](entities/DwightEisenhower.md) — U.S. president who used UN action and financial leverage to force his British and French allies to cease fire at Suez.
 
+- [Tope Awotona](entities/TopeAwotona.md) — Calendly founder and CEO whose advice centers on constraints, innovation, selective delegation, and customer-centered growth.
+- [Calendly](entities/Calendly.md) — Scheduling software company repositioning toward AI-assisted meeting coordination.
+- [Dom Cotton](entities/DomCotton.md) — Newlane co-founder navigating helmet positioning, manufacturing cost, and adoption.
+- [Newlane](entities/Newlane.md) — UK-made folding bicycle helmet designed to reduce carrying friction.
+- [Ivana (Playfield Founder)](entities/IvanaPlayfield.md) — Solo founder separating operational continuity from her distinctive product and brand work.
+- [Playfield](entities/Playfield.md) — Modular dog-walking bag brand with early direct and retail traction.
+- [Dany (The Nail Room Founder)](entities/DanyNailRoom.md) — Salon founder weighing multi-location ambition against experience quality and family priorities.
+- [The Nail Room](entities/TheNailRoom.md) — Builder-gel salon refining capacity and hospitality before replication.
+- [Justin Kittredge](entities/JustinKittredge.md) — iSlide founder deciding how to concentrate a resilient multi-channel business.
+- [iSlide](entities/ISlide.md) — Customized footwear company pursuing focused growth across direct, wholesale, bulk, and dropshipping channels.
+
 ## Concepts
 - [Mid-Autumn Festival Layering / 中秋节文化叠层](concepts/MidAutumnFestivalLayering.md) — Lunar myth, poetry, food, reunion, aesthetic selection, and diaspora practice accumulated around one festival.
 - [Myth As Social Mirror / 神话作为社会镜像](concepts/MythAsSocialMirror.md) — Reinterpretation of inherited stories through changing assumptions about gender, marriage, class, authority, and moral order.
@@ -29710,5 +29723,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Durable Skill Investment Under AI / AI时代的耐久技能投资](concepts/DurableSkillInvestmentUnderAI.md) — 按任务后果、可逆性、验证需求和跨工具迁移性分配学习深度，而非把技能永久二分为人类或机器所有。
 - [Source-First Information Practice / 源头优先的信息实践](concepts/SourceFirstInformationPractice.md) — 从推荐流和转述回到近源证据，并结合目的、出处、激励、遗漏和独立比较的信息工作方法。
+
+- [Constraint-Led Growth Diagnosis](concepts/ConstraintLedGrowthDiagnosis.md) — Identifies the specific positioning, operating, capacity, founder, economic, or attention bottleneck before choosing a growth tactic.
+- [Founder-Unique Value Preservation](concepts/FounderUniqueValuePreservation.md) — Delegates transferable operations while protecting founder-specific product, brand, relationship, or strategic judgment.
+- [Experience Before Location Expansion](concepts/ExperienceBeforeLocationExpansion.md) — Refines a service experience, capacity model, and operating system before multiplying sites.
+- [Customer-Centered Expansion](concepts/CustomerCenteredExpansion.md) — Expands by serving additional needs of a defined, trusted customer base before pursuing unrelated audiences.
 
 ## Syntheses

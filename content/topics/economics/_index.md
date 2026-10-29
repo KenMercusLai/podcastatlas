@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2328
+topic_total_pages: 2329
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -760,6 +760,9 @@ topic_concepts:
   - key: "ConstraintDrivenProductDiscipline"
     title: "Constraint-Driven Product Discipline"
     url: "/wiki/concepts/constraintdrivenproductdiscipline/"
+  - key: "ConstraintLedGrowthDiagnosis"
+    title: "Constraint-Led Growth Diagnosis"
+    url: "/wiki/concepts/constraintledgrowthdiagnosis/"
   - key: "ConsumerAMLExposure"
     title: "Consumer AML Exposure"
     url: "/wiki/concepts/consumeramlexposure/"

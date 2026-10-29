@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13782
+wiki_total_pages: 13792
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "CalDOGE"
     title: "CalDOGE"
     url: "/wiki/entities/caldoge/"
+  - key: "Calendly"
+    title: "Calendly"
+    url: "/wiki/entities/calendly/"
   - key: "Calico"
     title: "Calico"
     url: "/wiki/entities/calico/"

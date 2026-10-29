@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13782
+wiki_total_pages: 13792
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "Playdate"
     title: "Playdate"
     url: "/wiki/entities/playdate/"
+  - key: "Playfield"
+    title: "Playfield"
+    url: "/wiki/entities/playfield/"
   - key: "PlayStation"
     title: "PlayStation"
     url: "/wiki/entities/playstation/"

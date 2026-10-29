@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13782
+wiki_total_pages: 13792
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "Danu"
     title: "Danu / 达努"
     url: "/wiki/entities/danu/"
+  - key: "DanyNailRoom"
+    title: "Dany (The Nail Room Founder)"
+    url: "/wiki/entities/danynailroom/"
   - key: "DanzigGdansk"
     title: "Danzig / Gdańsk / 但泽—格但斯克"
     url: "/wiki/entities/danziggdansk/"
@@ -854,6 +857,9 @@ wiki_pages:
   - key: "DollyParton"
     title: "Dolly Parton"
     url: "/wiki/entities/dollyparton/"
+  - key: "DomCotton"
+    title: "Dom Cotton"
+    url: "/wiki/entities/domcotton/"
   - key: "DomJoaoVI"
     title: "Dom Joao VI"
     url: "/wiki/entities/domjoaovi/"

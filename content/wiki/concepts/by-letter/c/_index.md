@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10878
+wiki_total_pages: 10882
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2297,6 +2297,9 @@ wiki_pages:
   - key: "ConstraintFirstTrainingDesign"
     title: "Constraint-First Training Design"
     url: "/wiki/concepts/constraintfirsttrainingdesign/"
+  - key: "ConstraintLedGrowthDiagnosis"
+    title: "Constraint-Led Growth Diagnosis"
+    url: "/wiki/concepts/constraintledgrowthdiagnosis/"
   - key: "ConstructedCategoryTrust"
     title: "Constructed Category Trust / 被建构的品类信任"
     url: "/wiki/concepts/constructedcategorytrust/"
@@ -3326,6 +3329,9 @@ wiki_pages:
   - key: "CustomerValueBasedPricing"
     title: "Customer Value-Based Pricing / 消费者价值定价"
     url: "/wiki/concepts/customervaluebasedpricing/"
+  - key: "CustomerCenteredExpansion"
+    title: "Customer-Centered Expansion"
+    url: "/wiki/concepts/customercenteredexpansion/"
   - key: "CustomerEarnedExpansion"
     title: "Customer-Earned Expansion"
     url: "/wiki/concepts/customerearnedexpansion/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10878
+wiki_total_pages: 10882
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "ExpeditionTeamTrust"
     title: "Expedition Team Trust"
     url: "/wiki/concepts/expeditionteamtrust/"
+  - key: "ExperienceBeforeLocationExpansion"
+    title: "Experience Before Location Expansion"
+    url: "/wiki/concepts/experiencebeforelocationexpansion/"
   - key: "ExperienceOrchestrator"
     title: "Experience Orchestrator"
     url: "/wiki/concepts/experienceorchestrator/"

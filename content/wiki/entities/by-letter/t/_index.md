@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13782
+wiki_total_pages: 13792
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "TheMomTest"
     title: "The Mom Test"
     url: "/wiki/entities/themomtest/"
+  - key: "TheNailRoom"
+    title: "The Nail Room"
+    url: "/wiki/entities/thenailroom/"
   - key: "TheNewDarkAges"
     title: "The New Dark Ages"
     url: "/wiki/entities/thenewdarkages/"
@@ -1145,6 +1148,9 @@ wiki_pages:
   - key: "TopOfJapan"
     title: "Top of Japan"
     url: "/wiki/entities/topofjapan/"
+  - key: "TopeAwotona"
+    title: "Tope Awotona"
+    url: "/wiki/entities/topeawotona/"
   - key: "ToriWelch"
     title: "Tori Welch"
     url: "/wiki/entities/toriwelch/"

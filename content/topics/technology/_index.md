@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3662
+topic_total_pages: 3665
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5654,6 +5654,9 @@ topic_entities:
   - key: "CalculatingEmpires"
     title: "Calculating Empires"
     url: "/wiki/entities/calculatingempires/"
+  - key: "Calendly"
+    title: "Calendly"
+    url: "/wiki/entities/calendly/"
   - key: "California"
     title: "California"
     url: "/wiki/entities/california/"
@@ -8330,6 +8333,9 @@ topic_entities:
   - key: "TonyACRCloud"
     title: "Tony / ACR Cloud"
     url: "/wiki/entities/tonyacrcloud/"
+  - key: "TopeAwotona"
+    title: "Tope Awotona"
+    url: "/wiki/entities/topeawotona/"
   - key: "TownPersonalAI"
     title: "Town Personal AI"
     url: "/wiki/entities/townpersonalai/"
@@ -9411,6 +9417,9 @@ topic_sources:
   - key: "defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490"
     title: "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today"
     url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
+  - key: "advice-line-with-tope-awotona-of-calendly-vmp4254648132"
+    title: "Advice Line with Tope Awotona of Calendly"
+    url: "/wiki/sources/advice-line-with-tope-awotona-of-calendly-vmp4254648132/"
   - key: "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
     title: "After the flood: Nepal's ongoing rescue"
     url: "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"

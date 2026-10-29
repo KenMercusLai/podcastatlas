@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10878
+wiki_total_pages: 10882
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "FounderTyrantPoliticalMemory"
     title: "Founder-Tyrant Political Memory"
     url: "/wiki/concepts/foundertyrantpoliticalmemory/"
+  - key: "FounderUniqueValuePreservation"
+    title: "Founder-Unique Value Preservation"
+    url: "/wiki/concepts/founderuniquevaluepreservation/"
   - key: "FoundingCommanderSuspicionManagement"
     title: "Founding Commander Suspicion Management / 建国将领消疑"
     url: "/wiki/concepts/foundingcommandersuspicionmanagement/"

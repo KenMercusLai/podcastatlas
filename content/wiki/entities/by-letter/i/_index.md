@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13782
+wiki_total_pages: 13792
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "IslandBeeCompany"
     title: "Island Bee Company"
     url: "/wiki/entities/islandbeecompany/"
+  - key: "ISlide"
+    title: "iSlide"
+    url: "/wiki/entities/islide/"
   - key: "IsonzoFront"
     title: "Isonzo Front"
     url: "/wiki/entities/isonzofront/"
@@ -503,6 +506,9 @@ wiki_pages:
   - key: "IvanMazepa"
     title: "Ivan Mazepa / 伊万·马泽帕"
     url: "/wiki/entities/ivanmazepa/"
+  - key: "IvanaPlayfield"
+    title: "Ivana (Playfield Founder)"
+    url: "/wiki/entities/ivanaplayfield/"
   - key: "IvoParashkevov"
     title: "Ivo Parashkevov"
     url: "/wiki/entities/ivoparashkevov/"
