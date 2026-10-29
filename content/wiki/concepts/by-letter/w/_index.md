@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 10906
+wiki_total_pages: 10909
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "WearableAIAssistant"
     title: "Wearable AI Assistant"
     url: "/wiki/concepts/wearableaiassistant/"
+  - key: "WearableBehaviorCorrelation"
+    title: "Wearable Behavior Correlation"
+    url: "/wiki/concepts/wearablebehaviorcorrelation/"
   - key: "WearableFormFactorPressure"
     title: "Wearable Form-Factor Pressure"
     url: "/wiki/concepts/wearableformfactorpressure/"
@@ -209,6 +212,9 @@ wiki_pages:
   - key: "WearableOpticalDisplayFriction"
     title: "Wearable Optical Display Friction / 可穿戴光学显示摩擦"
     url: "/wiki/concepts/wearableopticaldisplayfriction/"
+  - key: "WearableSubscriptionAlignment"
+    title: "Wearable Subscription Alignment"
+    url: "/wiki/concepts/wearablesubscriptionalignment/"
   - key: "WebBasedSoftware"
     title: "Web-Based Software"
     url: "/wiki/concepts/webbasedsoftware/"

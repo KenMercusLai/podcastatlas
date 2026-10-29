@@ -4843,6 +4843,10 @@
     "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
     "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
   },
+  "88-audio-will-ahmed-int-88-audio-will-ahmed-int": {
+    "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+    "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+  },
   "88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803": {
     "title": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！",
     "url": "/wiki/sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803/"
@@ -42111,6 +42115,10 @@
     "title": "Heart Rate Recovery Capacity / 心率恢复能力",
     "url": "/wiki/concepts/heartraterecoverycapacity/"
   },
+  "HeartRateVariability": {
+    "title": "Heart-Rate Variability",
+    "url": "/wiki/concepts/heartratevariability/"
+  },
   "HeartValveRepairReplacementDecision": {
     "title": "Heart Valve Repair and Replacement Decision / 心脏瓣膜修复与置换决策",
     "url": "/wiki/concepts/heartvalverepairreplacementdecision/"
@@ -53378,6 +53386,10 @@
   "LazyBearSports": {
     "title": "懒熊体育 / LazyBear Sports",
     "url": "/wiki/entities/lazybearsports/"
+  },
+  "LeBronJames": {
+    "title": "LeBron James",
+    "url": "/wiki/entities/lebronjames/"
   },
   "LeCheng": {
     "title": "乐乘 / Le Cheng",
@@ -95415,6 +95427,10 @@
     "title": "Wearable AI Assistant",
     "url": "/wiki/concepts/wearableaiassistant/"
   },
+  "WearableBehaviorCorrelation": {
+    "title": "Wearable Behavior Correlation",
+    "url": "/wiki/concepts/wearablebehaviorcorrelation/"
+  },
   "WearableFormFactorPressure": {
     "title": "Wearable Form-Factor Pressure",
     "url": "/wiki/concepts/wearableformfactorpressure/"
@@ -95430,6 +95446,10 @@
   "WearableOpticalDisplayFriction": {
     "title": "Wearable Optical Display Friction / 可穿戴光学显示摩擦",
     "url": "/wiki/concepts/wearableopticaldisplayfriction/"
+  },
+  "WearableSubscriptionAlignment": {
+    "title": "Wearable Subscription Alignment",
+    "url": "/wiki/concepts/wearablesubscriptionalignment/"
   },
   "WebBasedSoftware": {
     "title": "Web-Based Software",
@@ -96350,6 +96370,10 @@
   "WilfredOwen": {
     "title": "Wilfred Owen",
     "url": "/wiki/entities/wilfredowen/"
+  },
+  "WillAhmed": {
+    "title": "Will Ahmed",
+    "url": "/wiki/entities/willahmed/"
   },
   "WillCreeley": {
     "title": "Will Creeley",

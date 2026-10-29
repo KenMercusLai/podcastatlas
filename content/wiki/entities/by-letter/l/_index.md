@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13813
+wiki_total_pages: 13815
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "LeborGabalaErenn"
     title: "Lebor Gabala Erenn / 《入侵之书》"
     url: "/wiki/entities/leborgabalaerenn/"
+  - key: "LeBronJames"
+    title: "LeBron James"
+    url: "/wiki/entities/lebronjames/"
   - key: "LeeHarveyOswald"
     title: "Lee Harvey Oswald"
     url: "/wiki/entities/leeharveyoswald/"

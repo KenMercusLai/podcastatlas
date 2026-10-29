@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3681
+topic_total_pages: 3682
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10680,6 +10680,9 @@ topic_sources:
   - key: "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128"
     title: "When ChatGPT writes your obituary"
     url: "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+  - key: "88-audio-will-ahmed-int-88-audio-will-ahmed-int"
+    title: "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight"
+    url: "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
   - key: "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128"
     title: "Why AI models are obsessed with creatures"
     url: "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"

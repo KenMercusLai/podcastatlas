@@ -58915,6 +58915,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumerdatadeletion/"
     },
+    "ConsumerHealthAIGovernance": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Supercharging a New FDA： Marty Makary on Science, Power & Patients [39750050].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050/"
+        },
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/consumerhealthaigovernance/"
+    },
     "ConsumerLoanRisk": {
       "episode_count": 4,
       "show_count": 4,
@@ -126468,6 +126491,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/heartraterecoverycapacity/"
     },
+    "HeartRateVariability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/heartratevariability/"
+    },
     "HeartValveRepairReplacementDecision": {
       "episode_count": 1,
       "show_count": 1,
@@ -164340,6 +164379,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/lazarocardenas/"
     },
+    "LeBronJames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/lebronjames/"
+    },
     "LeCorbeauFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -177791,9 +177846,9 @@
       "url": "/wiki/concepts/longitudinalmultimodalscreening/"
     },
     "LongitudinalPersonalHealthBaselines": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5906827357 [SCIM5906827357].md",
@@ -177801,9 +177856,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
           "url": "/wiki/sources/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder-scim5906827357/"
+        },
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/longitudinalpersonalhealthbaselines/"
     },
     "LongitudinalRelationshipTrust": {
@@ -301083,6 +301145,22 @@
       "updated": "2026-10-14",
       "url": "/wiki/entities/weaponsrankinggulong/"
     },
+    "WearableBehaviorCorrelation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/wearablebehaviorcorrelation/"
+    },
     "WearableHealthDataAnxiety": {
       "episode_count": 7,
       "show_count": 5,
@@ -301142,9 +301220,9 @@
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
     },
     "WearableHealthInsight": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
@@ -301152,9 +301230,16 @@
           "show": "枫言枫语",
           "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
           "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        },
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/wearablehealthinsight/"
     },
     "WearableOpticalDisplayFriction": {
@@ -301179,6 +301264,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/wearableopticaldisplayfriction/"
+    },
+    "WearableSubscriptionAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/wearablesubscriptionalignment/"
     },
     "WebOS": {
       "episode_count": 1,
@@ -303882,9 +303983,9 @@
       "url": "/wiki/concepts/wholesaleretaileramplification/"
     },
     "Whoop": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -303906,9 +304007,16 @@
           "show": "声动早咖啡",
           "title": "月饼市场持续降温，豆包缩减对话业务团队",
           "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        },
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/whoop/"
     },
     "WidgeryInquiry": {
@@ -304162,6 +304270,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/wilfredowen/"
+    },
+    "WillAhmed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
+          "key": "88-audio-will-ahmed-int-88-audio-will-ahmed-int",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "url": "/wiki/sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/willahmed/"
     },
     "WillCreeley": {
       "episode_count": 1,

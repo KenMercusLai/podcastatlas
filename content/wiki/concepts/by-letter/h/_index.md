@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10906
+wiki_total_pages: 10909
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "HeartFieldEthics"
     title: "Heart-Field Ethics / 心田处世伦理"
     url: "/wiki/concepts/heartfieldethics/"
+  - key: "HeartRateVariability"
+    title: "Heart-Rate Variability"
+    url: "/wiki/concepts/heartratevariability/"
   - key: "HeatExposureDoseAndSafety"
     title: "Heat Exposure Dose and Safety"
     url: "/wiki/concepts/heatexposuredoseandsafety/"
