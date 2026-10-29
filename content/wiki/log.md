@@ -38095,3 +38095,11 @@ Added source `24354fbed76f-24354fbed76f`; created [[PatchReadinessTechnicalDebt]
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today
+
+Added source `defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886`; created [[FedericaFornaciari]], [[BainAndCompany]], [[Havas]], [[Telefonica]], [[StrategyExecutionAccountability]], [[TransformationAsAssumptionRevision]], [[CEOAsOrganizationalOperatingSystem]], and [[HumanLeadershipUnderAI]]; and resynthesized [[ShekharNatarajan]] and [[TomorrowToday]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: strategy creates value only when boards, executives, advisers, and operating teams keep implementation and outcome ownership connected; transformation begins with assumption revision but still needs authority, participation, incentives, skills, and execution; and AI can compress work without replacing human criteria, verification, ethics, belonging, or responsibility for labor and social effects. No settled contradiction was adopted. Career chronology, cultural generalizations, organization and M&A outcomes, consulting-fee effects, productivity gains, job-loss forecasts, and AI-mediated supplier discovery remain episode-scoped because the supplied file is a structured conversational summary rather than independently verified research or company records. Broad legacy AI and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,775 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, health, and publish validation passed.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10900
+wiki_total_pages: 10904
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "CentristFragmentationRunoffRisk"
     title: "Centrist Fragmentation Runoff Risk"
     url: "/wiki/concepts/centristfragmentationrunoffrisk/"
+  - key: "CEOAsOrganizationalOperatingSystem"
+    title: "CEO as Organizational Operating System"
+    url: "/wiki/concepts/ceoasorganizationaloperatingsystem/"
   - key: "CEOPayLuckSkimming"
     title: "CEO Pay Luck Skimming / CEO薪酬揩油"
     url: "/wiki/concepts/ceopayluckskimming/"

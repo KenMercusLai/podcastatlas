@@ -14,17 +14,18 @@ sources:
   - default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031
   - default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643
   - defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730
-last_updated: 2026-10-25
+  - defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886
+last_updated: 2026-10-30
 knowledge_schema: synthesis-v1
 ---
 
 # Tomorrow Today
 
 ## Overview
-Tomorrow Today is a podcast hosted in the current sources by [[ShekharNatarajan]]. Its represented episodes pair long-form biography with questions about business identity, resilience, spirituality, survival, public institutions, creative careers and platforms, elite sport, inequality, geopolitics, technology, leadership, and human meaning.
+Tomorrow Today is a podcast hosted in the current sources by [[ShekharNatarajan]]. Its represented episodes pair long-form biography with questions about business identity, resilience, spirituality, survival, public institutions, creative careers and platforms, elite sport, inequality, geopolitics, organizational transformation, technology, leadership, and human meaning.
 
 ## Current Profile
-The wiki knows Tomorrow Today through eleven interviews. [[AndyStalman]] connects branding to whole-company identity, values, and AI. [[AraceliSegarra]] connects climbing and Everest to fear, team trust, resilience, and AI-era judgment. [[ShyalpaRinpoche]] connects Tibetan Buddhist practice to peace, meaning, and compassionate AI. [[NataliaOlson]] connects planning, logistics, government, and open data to institutional innovation and AI governance. [[AdahSharma]] connects acting, typecasting, controversial visibility, stress, and rejection to AI's expansion of creative access and threat to livelihoods. [[ChetanBhagat]] connects family adversity, education, writing, platform inequality, AI safety, cognition, and the search for meaning after fame. [[AlvaroVizcaino|Álvaro Vizcaíno]] distinguishes accepting uncontrollable conditions from giving up action. [[AndreaFuentes]] adds Olympic artistic swimming, athlete-centered coaching, team transparency, retirement, family loss, and high-intensity breath-hold safety. [[MaheshKeshwala|Mahesh Keshwala / Thugesh]] adds creator-format cycles, channel segmentation, attention ethics, production AI, likeness consent, and synthetic-content pollution. [[JuanVerde]] adds diplomacy, commerce, sustainability, multilateralism, organizational dissent, and a globalization-to-AI warning about efficiency without dignity. [[JorgeBrown]] adds a systems-level future agenda connecting AI, democratic legitimacy, resources, longevity, automation, security, commerce, inequality, and responsibility to future generations.
+The wiki knows Tomorrow Today through twelve interviews. [[AndyStalman]] connects branding to whole-company identity, values, and AI. [[AraceliSegarra]] connects climbing and Everest to fear, team trust, resilience, and AI-era judgment. [[ShyalpaRinpoche]] connects Tibetan Buddhist practice to peace, meaning, and compassionate AI. [[NataliaOlson]] connects planning, logistics, government, and open data to institutional innovation and AI governance. [[AdahSharma]] connects acting, typecasting, controversial visibility, stress, and rejection to AI's expansion of creative access and threat to livelihoods. [[ChetanBhagat]] connects family adversity, education, writing, platform inequality, AI safety, cognition, and the search for meaning after fame. [[AlvaroVizcaino|Álvaro Vizcaíno]] distinguishes accepting uncontrollable conditions from giving up action. [[AndreaFuentes]] adds Olympic artistic swimming, athlete-centered coaching, team transparency, retirement, family loss, and high-intensity breath-hold safety. [[MaheshKeshwala|Mahesh Keshwala / Thugesh]] adds creator-format cycles, channel segmentation, attention ethics, production AI, likeness consent, and synthetic-content pollution. [[JuanVerde]] adds diplomacy, commerce, sustainability, multilateralism, organizational dissent, and a globalization-to-AI warning about efficiency without dignity. [[JorgeBrown]] adds a systems-level future agenda connecting AI, democratic legitimacy, resources, longevity, automation, security, commerce, inequality, and responsibility to future generations. [[FedericaFornaciari]] adds cross-cultural management, consulting and agency accountability, crisis communication, transformation through assumption revision, and human leadership under AI.
 
 ## Key Characteristics
 - Identified in source metadata as Tomorrow, Today and hosted by [[ShekharNatarajan]].
@@ -45,14 +46,15 @@ The wiki knows Tomorrow Today through eleven interviews. [[AndyStalman]] connect
 - Creator platforms and AI production - [[default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031]] adds Keshwala's format reinvention, channel separation, packaging, retention, short-video compulsion, creator responsibility, routine-task automation, and synthetic-content concerns.
 - Diplomacy, commerce, and sustainability - [[default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643]] adds Verde's public-service formation, responsible-trade argument, sustainability business case, candid-adviser model, and AI-transition warning.
 - Futures, institutions, and interdependence - [[defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730]] adds Brown's cross-domain challenge map, concentrated AI-power warning, public-deliberation proposal, and intergenerational stewardship frame.
+- Transformation, execution, and consulting - [[defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886]] adds Fornaciari's consulting-agency comparison, executive accountability, crisis anticipation, cultural change, and AI-era judgment frame.
 
 ## Qualifications
-Only eleven Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. The survival, artistic-swimming, creator-career, Verde, and Brown episodes rely heavily on first-person testimony and conversational interpretation; they do not independently establish accident mechanics, organizational or political history, platform causation, economic causation, company outcomes, medical effects, audience behavior, institutional decline, or AI forecasts.
+Only twelve Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. The survival, artistic-swimming, creator-career, Verde, Brown, and Fornaciari episodes rely heavily on first-person testimony and conversational interpretation; they do not independently establish accident mechanics, organizational or political history, platform causation, economic causation, company outcomes, medical effects, audience behavior, institutional decline, transformation outcomes, or AI forecasts.
 
 ## What Changed
-- Added systems-level futures, institutional legitimacy, longevity, autonomous security, and intergenerational stewardship to the editorial range.
-- Extended the show's AI branch into concentrated information power, energy and water infrastructure, and accountable government automation.
-- Added measurable public deliberation as a bridge from disagreement to implementation.
+- Added organizational transformation, strategy-to-execution accountability, and crisis communication to the editorial range.
+- Extended the show's AI branch into intellectual laziness, supplier discovery, executive education, and organization-wide adoption alignment.
+- Added the consulting-agency contrast as a mechanism for testing ownership of outcomes.
 
 ## Relationships
 - [[ShekharNatarajan]] - host in the represented sources.
@@ -67,8 +69,11 @@ Only eleven Tomorrow Today sources are represented. The page describes an observ
 - [[MaheshKeshwala|Mahesh Keshwala / Thugesh]] - creator-career, platform, attention, and AI-production guest.
 - [[JuanVerde]] - diplomacy, commerce, sustainability, leadership, and AI-transition guest.
 - [[JorgeBrown]] - futures, governance, geopolitics, sustainability, and AI-ethics guest.
+- [[FedericaFornaciari]] - transformation, execution, and human-leadership guest.
 - [[AngelicIntelligence]] - recurring human-centered AI frame.
 - [[AthleteCenteredPerformanceCulture]] - newest team-purpose and autonomy frame.
 - [[CreatorFormatReinvention]] - creator adaptation frame added by the newest interview.
 - [[SustainabilityAsCompetitiveStrategy]] - business-and-resilience frame added by the Verde interview.
 - [[InterdependentFutureGovernance]] - cross-domain governance frame added by the Brown interview.
+- [[StrategyExecutionAccountability]] - transformation framework joining advice to implementation ownership.
+- [[HumanLeadershipUnderAI]] - AI-era framework preserving judgment, verification, and belonging.

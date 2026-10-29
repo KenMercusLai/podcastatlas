@@ -12819,6 +12819,10 @@
     "title": "白马义从 / Baima Yicong",
     "url": "/wiki/entities/baimayicong/"
   },
+  "BainAndCompany": {
+    "title": "Bain & Company",
+    "url": "/wiki/entities/bainandcompany/"
+  },
   "BainCapital": {
     "title": "Bain Capital",
     "url": "/wiki/entities/baincapital/"
@@ -16438,6 +16442,10 @@
   "CCCFIBDFoundation": {
     "title": "CCCF IBD Foundation / CCCF 爱在延长炎症性肠病基金会",
     "url": "/wiki/entities/cccfibdfoundation/"
+  },
+  "CEOAsOrganizationalOperatingSystem": {
+    "title": "CEO as Organizational Operating System",
+    "url": "/wiki/concepts/ceoasorganizationaloperatingsystem/"
   },
   "CEOPayLuckSkimming": {
     "title": "CEO Pay Luck Skimming / CEO薪酬揩油",
@@ -33843,6 +33851,10 @@
     "title": "Federated Medical Data Sharing",
     "url": "/wiki/concepts/federatedmedicaldatasharing/"
   },
+  "FedericaFornaciari": {
+    "title": "Federica Fornaciari",
+    "url": "/wiki/entities/federicafornaciari/"
+  },
   "FedericoGravina": {
     "title": "Federico Gravina",
     "url": "/wiki/entities/federicogravina/"
@@ -41795,6 +41807,10 @@
     "title": "Havana",
     "url": "/wiki/entities/havana/"
   },
+  "Havas": {
+    "title": "Havas",
+    "url": "/wiki/entities/havas/"
+  },
   "Hawaii": {
     "title": "Hawaii / 夏威夷",
     "url": "/wiki/entities/hawaii/"
@@ -44866,6 +44882,10 @@
   "HumanJudgmentUnderAI": {
     "title": "Human Judgment Under AI",
     "url": "/wiki/concepts/humanjudgmentunderai/"
+  },
+  "HumanLeadershipUnderAI": {
+    "title": "Human Leadership Under AI",
+    "url": "/wiki/concepts/humanleadershipunderai/"
   },
   "HumanMachineAmplification": {
     "title": "Human-Machine Amplification",
@@ -85859,6 +85879,10 @@
     "title": "Strategic Visibility-Scrutiny Tradeoff",
     "url": "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
   },
+  "StrategyExecutionAccountability": {
+    "title": "Strategy–Execution Accountability",
+    "url": "/wiki/concepts/strategyexecutionaccountability/"
+  },
   "StrategyFollowsStructure": {
     "title": "Strategy Follows Structure",
     "url": "/wiki/concepts/strategyfollowsstructure/"
@@ -88466,6 +88490,10 @@
   "TelecomItalia": {
     "title": "Telecom Italia",
     "url": "/wiki/entities/telecomitalia/"
+  },
+  "Telefonica": {
+    "title": "Telefónica",
+    "url": "/wiki/entities/telefonica/"
   },
   "Telemachus": {
     "title": "Telemachus",
@@ -91098,6 +91126,10 @@
   "TransferPricing": {
     "title": "Transfer Pricing",
     "url": "/wiki/concepts/transferpricing/"
+  },
+  "TransformationAsAssumptionRevision": {
+    "title": "Transformation as Assumption Revision",
+    "url": "/wiki/concepts/transformationasassumptionrevision/"
   },
   "TransformationAsExit": {
     "title": "Transformation As Exit",
@@ -105022,6 +105054,10 @@
   "defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981": {
     "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
     "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+  },
+  "defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886": {
+    "title": "Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today",
+    "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886/"
   },
   "defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987": {
     "title": "Beyond The Legacy: Neil Nitin Mukesh on Bollywood, Identity and AI | Shekhar Natarajan",

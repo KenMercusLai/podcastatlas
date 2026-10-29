@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13801
+wiki_total_pages: 13805
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "Havana"
     title: "Havana"
     url: "/wiki/entities/havana/"
+  - key: "Havas"
+    title: "Havas"
+    url: "/wiki/entities/havas/"
   - key: "Hawaii"
     title: "Hawaii / 夏威夷"
     url: "/wiki/entities/hawaii/"

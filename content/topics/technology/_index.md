@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3679
+topic_total_pages: 3681
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2767,6 +2767,9 @@ topic_concepts:
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"
+  - key: "HumanLeadershipUnderAI"
+    title: "Human Leadership Under AI"
+    url: "/wiki/concepts/humanleadershipunderai/"
   - key: "HumanMeaningUnderAI"
     title: "Human Meaning Under AI / AI 下的人类意义"
     url: "/wiki/concepts/humanmeaningunderai/"
@@ -10092,6 +10095,9 @@ topic_sources:
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+  - key: "defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886"
+    title: "Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886/"
   - key: "tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128"
     title: "Fewer students are enrolling in computer science classes and majors"
     url: "/wiki/sources/tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128/"

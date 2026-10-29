@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3584
+topic_total_pages: 3586
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3487,6 +3487,9 @@ topic_concepts:
   - key: "TranscendenceAgainstHumanFeeling"
     title: "Transcendence Against Human Feeling"
     url: "/wiki/concepts/transcendenceagainsthumanfeeling/"
+  - key: "TransformationAsAssumptionRevision"
+    title: "Transformation as Assumption Revision"
+    url: "/wiki/concepts/transformationasassumptionrevision/"
   - key: "TransformationAsExit"
     title: "Transformation As Exit"
     url: "/wiki/concepts/transformationasexit/"
@@ -4775,6 +4778,9 @@ topic_entities:
   - key: "FederalCommunicationsCommission"
     title: "Federal Communications Commission"
     url: "/wiki/entities/federalcommunicationscommission/"
+  - key: "FedericaFornaciari"
+    title: "Federica Fornaciari"
+    url: "/wiki/entities/federicafornaciari/"
   - key: "FengXiaogang"
     title: "Feng Xiaogang / 冯小刚"
     url: "/wiki/entities/fengxiaogang/"

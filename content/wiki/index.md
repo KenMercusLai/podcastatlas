@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today](sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886.md) — Tomorrow Today interview on cross-cultural leadership, execution accountability, transformation, crisis communication, and human judgment under AI.
 - [一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？](sources/24354fbed76f-24354fbed76f.md) — 科技乱炖从 PHP 应急处置讨论 AI 加速的漏洞发现与利用、补丁技术债、协调披露、依赖链风险、合规能力差距及工业化身份诈骗。
 - [ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M](sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m.md) — The SaaS Podcast interview with Alan Talmor on Ask AI's pivot into Mosaic, technical-support automation, design-partner validation, founder-led sales, outcome positioning, and diagnostic enterprise pilots.
 - [AI infrastructure is making smartphones pricier](sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128.md) — Marketplace Tech traces AI-driven memory pressure into smartphone inflation, specification cuts, refurbished-device scarcity, longer replacement cycles, and access risk in price-sensitive markets.
@@ -4883,6 +4884,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390.md) — Tomorrow Today interview connecting child-labour rescue, consumer campaigning, GoodWeave certification, transformative compassion, compassionate AI, and a proposed Compassion Quotient.
 
 ## Entities
+- [Federica Fornaciari](entities/FedericaFornaciari.md) — Consultant, agency executive, educator, entrepreneur, and investor centered on execution-led transformation.
+- [Bain & Company](entities/BainAndCompany.md) — Consulting context for Fornaciari's analytical formation and critique of advice detached from delivery.
+- [Havas](entities/Havas.md) — Agency context for multidisciplinary delivery and client-outcome accountability.
+- [Telefónica](entities/Telefonica.md) — Client case connecting communication, restructuring, investor psychology, and cross-functional transformation.
 - [Alan Talmor](entities/AlanTalmor.md) — Mosaic AI founder and CEO linking enterprise design partners, transparent fundraising, founder-led sales, and strategic narrowing under model-provider pressure.
 - [Mosaic AI](entities/MosaicAI.md) — Enterprise technical-support automation company that evolved from Ask AI and sells diagnostic proof plus measurable operating outcomes.
 - [Ask AI (Mosaic predecessor)](entities/AskAIMosaic.md) — Disambiguated general enterprise-assistant predecessor whose connectors, context, customers, and workflows supported Mosaic's specialization.
@@ -18768,6 +18773,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GoodWeave](entities/GoodWeave.md) — Child-labour-free carpet certification initiative first known as Rugmark in the bounded source.
 
 ## Concepts
+- [Strategy–Execution Accountability](concepts/StrategyExecutionAccountability.md) — Keeps strategic thought, operational implementation, and outcome ownership connected.
+- [Transformation as Assumption Revision](concepts/TransformationAsAssumptionRevision.md) — Treats transformation as behavioral and cultural belief revision supported by organizational participation.
+- [CEO as Organizational Operating System](concepts/CEOAsOrganizationalOperatingSystem.md) — Frames the CEO as visible observer and coordinator without erasing distributed expertise.
+- [Human Leadership Under AI](concepts/HumanLeadershipUnderAI.md) — Uses AI speed while retaining human verification, ethics, belonging, and social responsibility.
 - [Patch-Readiness Technical Debt](concepts/PatchReadinessTechnicalDebt.md) — Version, dependency, compatibility, and operational debt that makes urgent security updates slower or more dangerous.
 - [Coordinated Vulnerability Disclosure](concepts/CoordinatedVulnerabilityDisclosure.md) — Aligns researcher notice, patch preparation, user protection, and eventual transparency without creating an avoidable exploit window.
 - [Security Compliance-Capability Gap](concepts/SecurityComplianceCapabilityGap.md) — Distance between satisfying formal security requirements and demonstrating practical attack resistance, containment, repair, and learning.

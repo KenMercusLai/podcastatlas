@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13801
+wiki_total_pages: 13805
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "BaillieCollege"
     title: "Baillie College / 贝利学院"
     url: "/wiki/entities/bailliecollege/"
+  - key: "BainAndCompany"
+    title: "Bain & Company"
+    url: "/wiki/entities/bainandcompany/"
   - key: "BainCapital"
     title: "Bain Capital"
     url: "/wiki/entities/baincapital/"

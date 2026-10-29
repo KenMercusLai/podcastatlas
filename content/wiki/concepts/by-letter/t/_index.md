@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10900
+wiki_total_pages: 10904
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "TransferPricing"
     title: "Transfer Pricing"
     url: "/wiki/concepts/transferpricing/"
+  - key: "TransformationAsAssumptionRevision"
+    title: "Transformation as Assumption Revision"
+    url: "/wiki/concepts/transformationasassumptionrevision/"
   - key: "TransformationAsExit"
     title: "Transformation As Exit"
     url: "/wiki/concepts/transformationasexit/"

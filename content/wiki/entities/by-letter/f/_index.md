@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13801
+wiki_total_pages: 13805
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "FederalistParty"
     title: "Federalist Party"
     url: "/wiki/entities/federalistparty/"
+  - key: "FedericaFornaciari"
+    title: "Federica Fornaciari"
+    url: "/wiki/entities/federicafornaciari/"
   - key: "FedericoGravina"
     title: "Federico Gravina"
     url: "/wiki/entities/federicogravina/"

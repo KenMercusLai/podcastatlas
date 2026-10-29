@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10900
+wiki_total_pages: 10904
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2315,6 +2315,9 @@ wiki_pages:
   - key: "StrategyFollowsStructure"
     title: "Strategy Follows Structure"
     url: "/wiki/concepts/strategyfollowsstructure/"
+  - key: "StrategyExecutionAccountability"
+    title: "Strategy–Execution Accountability"
+    url: "/wiki/concepts/strategyexecutionaccountability/"
   - key: "StraussianKingmakerPolitics"
     title: "Straussian Kingmaker Politics"
     url: "/wiki/concepts/straussiankingmakerpolitics/"

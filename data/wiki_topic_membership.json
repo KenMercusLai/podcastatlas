@@ -37667,6 +37667,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "FedericaFornaciari": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FeedCuration": [
     {
       "key": "culture",
@@ -48006,6 +48013,13 @@
     }
   ],
   "HumanJudgmentUnderAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "HumanLeadershipUnderAI": [
     {
       "key": "technology",
       "label": "Technology",
@@ -92050,6 +92064,13 @@
       "url": "/topics/science/"
     }
   ],
+  "TransformationAsAssumptionRevision": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TransformationAsExit": [
     {
       "key": "culture",
@@ -104545,6 +104566,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987": [
