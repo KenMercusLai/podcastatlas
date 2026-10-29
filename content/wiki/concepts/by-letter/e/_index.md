@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10890
+wiki_total_pages: 10894
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "EthicalPaidContentDesign"
     title: "Ethical Paid-Content Design / 内容付费伦理设计"
     url: "/wiki/concepts/ethicalpaidcontentdesign/"
+  - key: "EthicalSupplyChainCertification"
+    title: "Ethical Supply-Chain Certification"
+    url: "/wiki/concepts/ethicalsupplychaincertification/"
   - key: "EthnographicEverydayFriction"
     title: "Ethnographic Everyday Friction / 民族志日常摩擦"
     url: "/wiki/concepts/ethnographiceverydayfriction/"

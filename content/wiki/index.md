@@ -4878,6 +4878,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Advice Line with Tope Awotona of Calendly](sources/advice-line-with-tope-awotona-of-calendly-vmp4254648132.md) — Four founder cases on diagnosing growth constraints, delegating operations, staging location expansion, concentrating channels, and building around customers.
 
+- [Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390.md) — Tomorrow Today interview connecting child-labour rescue, consumer campaigning, GoodWeave certification, transformative compassion, compassionate AI, and a proposed Compassion Quotient.
+
 ## Entities
 - [Counterpoint Research](entities/CounterpointResearch.md) — Smartphone-market research organization cited for global price and replacement-cycle estimates.
 - [Musk Foundation](entities/MuskFoundation.md) — Elon Musk's private foundation, assessed through appreciated-stock funding, sparse disclosure, related recipients, donor-advised funds, and payout timing.
@@ -18757,6 +18759,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Kittredge](entities/JustinKittredge.md) — iSlide founder deciding how to concentrate a resilient multi-channel business.
 - [iSlide](entities/ISlide.md) — Customized footwear company pursuing focused growth across direct, wholesale, bulk, and dropshipping channels.
 
+- [Kailash Satyarthi](entities/KailashSatyarthi.md) — Child-rights activist whose represented account joins rescue, market reform, transformative compassion, and human-centered AI responsibility.
+- [GoodWeave](entities/GoodWeave.md) — Child-labour-free carpet certification initiative first known as Rugmark in the bounded source.
+
 ## Concepts
 - [Smartphone Affordability Pressure](concepts/SmartphoneAffordabilityPressure.md) — Uneven device-access pressure created by higher component costs, weaker specifications, financing needs, and constrained secondhand supply.
 - [Smartphone Specification Downgrading](concepts/SmartphoneSpecificationDowngrading.md) — Product-design response that offsets component inflation by reducing or substituting cameras, displays, batteries, or other features.
@@ -29743,5 +29748,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Unique Value Preservation](concepts/FounderUniqueValuePreservation.md) — Delegates transferable operations while protecting founder-specific product, brand, relationship, or strategic judgment.
 - [Experience Before Location Expansion](concepts/ExperienceBeforeLocationExpansion.md) — Refines a service experience, capacity model, and operating system before multiplying sites.
 - [Customer-Centered Expansion](concepts/CustomerCenteredExpansion.md) — Expands by serving additional needs of a defined, trusted customer base before pursuing unrelated audiences.
+
+- [Transformative Compassion](concepts/TransformativeCompassion.md) — Action-centered compassion joining awareness, connectedness, feeling, courage, responsibility, and structural change.
+- [Ethical Supply-Chain Certification](concepts/EthicalSupplyChainCertification.md) — Market intervention translating social standards into monitored, labeled, and qualified purchasing signals.
+- [Compassionate AI](concepts/CompassionateAI.md) — Lifecycle-wide AI responsibility grounded in human consequences, dignity, relationships, action, and accountability.
+- [Compassion Quotient](concepts/CompassionQuotient.md) — Proposed trainable measure of compassion through awareness, connectedness, feeling, and action, with unresolved validation and gaming risks.
 
 ## Syntheses

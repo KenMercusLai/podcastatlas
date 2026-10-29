@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10890
+wiki_total_pages: 10894
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "TransformationAsExit"
     title: "Transformation As Exit"
     url: "/wiki/concepts/transformationasexit/"
+  - key: "TransformativeCompassion"
+    title: "Transformative Compassion"
+    url: "/wiki/concepts/transformativecompassion/"
   - key: "TransformerArchitecture"
     title: "Transformer Architecture"
     url: "/wiki/concepts/transformerarchitecture/"

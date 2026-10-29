@@ -38071,3 +38071,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today
+
+Added source `default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390`; created [[KailashSatyarthi]], [[GoodWeave]], [[TransformativeCompassion]], [[EthicalSupplyChainCertification]], [[CompassionateAI]], and [[CompassionQuotient]]. Core synthesis: one successful rescue exposed a replenishing trafficking system, so durable action required consumer leverage, monitoring, certification, and changed commercial incentives; compassion becomes transformative when awareness, connectedness, and feeling produce responsible action against structural causes; and compassionate AI places dignity, relationships, distribution, and accountability across the full technology lifecycle rather than treating efficiency, regulation, or ethical language as sufficient. No settled contradiction was adopted. Historic child-worker totals, certification impact, spending comparisons, AI forecasts, and CQ measurability remain episode-scoped because the supplied file is a structured summary rather than the cited studies, program evaluations, technical design, or validated psychometric instrument. Broad [[TomorrowToday]], [[ShekharNatarajan]], [[AngelicIntelligence]], legacy AI, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,772 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

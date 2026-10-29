@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13796
+wiki_total_pages: 13798
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "GoodluckJonathan"
     title: "Goodluck Jonathan"
     url: "/wiki/entities/goodluckjonathan/"
+  - key: "GoodWeave"
+    title: "GoodWeave"
+    url: "/wiki/entities/goodweave/"
   - key: "Goodyear"
     title: "Goodyear"
     url: "/wiki/entities/goodyear/"

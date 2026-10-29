@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13796
+wiki_total_pages: 13798
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "Kailas"
     title: "Kailas / 凯乐石"
     url: "/wiki/entities/kailas/"
+  - key: "KailashSatyarthi"
+    title: "Kailash Satyarthi"
+    url: "/wiki/entities/kailashsatyarthi/"
   - key: "KailiBluesFilm"
     title: "Kaili Blues / 《路边野餐》"
     url: "/wiki/entities/kailibluesfilm/"

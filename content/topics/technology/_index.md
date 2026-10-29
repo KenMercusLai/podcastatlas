@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3666
+topic_total_pages: 3669
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1642,6 +1642,9 @@ topic_concepts:
   - key: "CompanionRobots"
     title: "Companion Robots"
     url: "/wiki/concepts/companionrobots/"
+  - key: "CompassionateAI"
+    title: "Compassionate AI"
+    url: "/wiki/concepts/compassionateai/"
   - key: "ComplianceAutomation"
     title: "Compliance Automation"
     url: "/wiki/concepts/complianceautomation/"
@@ -6803,6 +6806,9 @@ topic_entities:
   - key: "KaiAirwallex"
     title: "Kai (Airwallex)"
     url: "/wiki/entities/kaiairwallex/"
+  - key: "KailashSatyarthi"
+    title: "Kailash Satyarthi"
+    url: "/wiki/entities/kailashsatyarthi/"
   - key: "Kao"
     title: "Kao / 花王"
     url: "/wiki/entities/kao/"
@@ -9690,6 +9696,9 @@ topic_sources:
   - key: "community-led-saas-growth-how-ninety-hit-44m-arr"
     title: "Community-Led SaaS Growth: How Ninety Hit $44M ARR"
     url: "/wiki/sources/community-led-saas-growth-how-ninety-hit-44m-arr/"
+  - key: "default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390"
+    title: "Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390/"
   - key: "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e"
     title: "Continental Rift: NATO's Tense Summit"
     url: "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
