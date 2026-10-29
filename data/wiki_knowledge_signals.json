@@ -60781,6 +60781,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/counterinsurgencylegitimacytrap/"
     },
+    "CounterpointResearch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261029_1029_MP_TECH_pod_128 [tech_20261029_1029_MP_TECH_pod_128].md",
+          "key": "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI infrastructure is making smartphones pricier",
+          "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/counterpointresearch/"
+    },
     "CounterterrorismPowersRepurposing": {
       "episode_count": 1,
       "show_count": 1,
@@ -190662,6 +190678,64 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/memorycenteredai/"
     },
+    "MemoryChipShortage": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
+          "key": "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677",
+          "show": "声动早咖啡",
+          "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
+          "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+        },
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
+          "key": "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI is eating up the world's computing memory",
+          "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260303_0303_MP_TECH_pod_128 [tech_20260303_0303_MP_TECH_pod_128].md",
+          "key": "tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Digital archiving and the global memory shortage",
+          "url": "/wiki/sources/tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "tech_20261029_1029_MP_TECH_pod_128 [tech_20261029_1029_MP_TECH_pod_128].md",
+          "key": "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI infrastructure is making smartphones pricier",
+          "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/memorychipshortage/"
+    },
     "MemoryConsolidationWindows": {
       "episode_count": 10,
       "show_count": 3,
@@ -239373,6 +239447,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/refugeeaidregistrationgap/"
     },
+    "RefurbishedDeviceSupplyPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261029_1029_MP_TECH_pod_128 [tech_20261029_1029_MP_TECH_pod_128].md",
+          "key": "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI infrastructure is making smartphones pricier",
+          "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/refurbisheddevicesupplypressure/"
+    },
     "RegencyAuthorityConversion": {
       "episode_count": 1,
       "show_count": 1,
@@ -263370,6 +263460,54 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/smartphoneaihub/"
+    },
+    "SmartphoneAffordabilityPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261029_1029_MP_TECH_pod_128 [tech_20261029_1029_MP_TECH_pod_128].md",
+          "key": "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI infrastructure is making smartphones pricier",
+          "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/smartphoneaffordabilitypressure/"
+    },
+    "SmartphoneReplacementCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261029_1029_MP_TECH_pod_128 [tech_20261029_1029_MP_TECH_pod_128].md",
+          "key": "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI infrastructure is making smartphones pricier",
+          "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/smartphonereplacementcycle/"
+    },
+    "SmartphoneSpecificationDowngrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261029_1029_MP_TECH_pod_128 [tech_20261029_1029_MP_TECH_pod_128].md",
+          "key": "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI infrastructure is making smartphones pricier",
+          "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/smartphonespecificationdowngrading/"
     },
     "SmileAction": {
       "episode_count": 1,

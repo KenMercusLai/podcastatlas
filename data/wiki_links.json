@@ -23679,6 +23679,10 @@
     "title": "Counterintelligence Rumor Wedge / 反间流言楔入",
     "url": "/wiki/concepts/counterintelligencerumorwedge/"
   },
+  "CounterpointResearch": {
+    "title": "Counterpoint Research",
+    "url": "/wiki/entities/counterpointresearch/"
+  },
   "CounterterrorismPowersRepurposing": {
     "title": "Counterterrorism Powers Repurposing",
     "url": "/wiki/concepts/counterterrorismpowersrepurposing/"
@@ -75979,6 +75983,10 @@
     "title": "Refugee Aid Registration Gap / 难民登记援助空窗",
     "url": "/wiki/concepts/refugeeaidregistrationgap/"
   },
+  "RefurbishedDeviceSupplyPressure": {
+    "title": "Refurbished Device Supply Pressure",
+    "url": "/wiki/concepts/refurbisheddevicesupplypressure/"
+  },
   "RegalCinemas": {
     "title": "Regal Cinemas",
     "url": "/wiki/entities/regalcinemas/"
@@ -83227,6 +83235,10 @@
     "title": "Smartphone AI Hub",
     "url": "/wiki/concepts/smartphoneaihub/"
   },
+  "SmartphoneAffordabilityPressure": {
+    "title": "Smartphone Affordability Pressure",
+    "url": "/wiki/concepts/smartphoneaffordabilitypressure/"
+  },
   "SmartphoneBrandSupplyChainExecution": {
     "title": "Smartphone Brand Supply-Chain Execution",
     "url": "/wiki/concepts/smartphonebrandsupplychainexecution/"
@@ -83234,6 +83246,14 @@
   "SmartphoneOperatingSystemEcosystems": {
     "title": "Smartphone Operating System Ecosystems",
     "url": "/wiki/concepts/smartphoneoperatingsystemecosystems/"
+  },
+  "SmartphoneReplacementCycle": {
+    "title": "Smartphone Replacement Cycle",
+    "url": "/wiki/concepts/smartphonereplacementcycle/"
+  },
+  "SmartphoneSpecificationDowngrading": {
+    "title": "Smartphone Specification Downgrading",
+    "url": "/wiki/concepts/smartphonespecificationdowngrading/"
   },
   "SmartphoneSurveyPenalty": {
     "title": "Smartphone Survey Penalty",
@@ -109766,6 +109786,10 @@
   "tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128": {
     "title": "The tech behind spooky season",
     "url": "/wiki/sources/tech-20261028-1028-mp-tech-pod-128-tech-20261028-1028-mp-tech-pod-128/"
+  },
+  "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128": {
+    "title": "AI infrastructure is making smartphones pricier",
+    "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

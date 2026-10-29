@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI infrastructure is making smartphones pricier](sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128.md) — Marketplace Tech traces AI-driven memory pressure into smartphone inflation, specification cuts, refurbished-device scarcity, longer replacement cycles, and access risk in price-sensitive markets.
 - [Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461.md) — Condensed Huberman Lab interview on olfactory coding, unconscious social odor sampling, tears and hexadecanal, mixed digital-scent results, and the limits of future diagnostic use.
 - [Effective non-altruism: Elon Musk’s foundation](sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087.md) — The Intelligence examines the Musk Foundation's tax-efficient stock funding, opaque and delayed giving, Adam Hamilton's liberal Christian Kansas campaign, and the evidence below the 10,000-step myth.
 - [EP34-中秋特辑-灵魂拷问/别怕今夜空虚寂寞冷](sources/ep34-zhongqiu-teji-linghun-kaowen-biepa-jinye-kongxu-jimo-leng-wkgkk1unb1oxo9ngcvx-ivoggiw069.md) — 无时差研究所以多位嘉宾的矛盾答案重读嫦娥、吴刚与中秋，将神话版本连接到性别、婚姻、阶级、权力、无尽劳动及海外团圆实践。
@@ -4878,6 +4879,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Advice Line with Tope Awotona of Calendly](sources/advice-line-with-tope-awotona-of-calendly-vmp4254648132.md) — Four founder cases on diagnosing growth constraints, delegating operations, staging location expansion, concentrating channels, and building around customers.
 
 ## Entities
+- [Counterpoint Research](entities/CounterpointResearch.md) — Smartphone-market research organization cited for global price and replacement-cycle estimates.
 - [Musk Foundation](entities/MuskFoundation.md) — Elon Musk's private foundation, assessed through appreciated-stock funding, sparse disclosure, related recipients, donor-advised funds, and payout timing.
 - [Fidelity Charitable](entities/FidelityCharitable.md) — Donor-advised-fund sponsor used to distinguish charitable restriction from public traceability of final grants.
 - [Adam Hamilton](entities/AdamHamilton.md) — Kansas pastor and Democratic Senate candidate combining liberal Christian social policy with moderate Midwestern coalition appeals.
@@ -18756,6 +18758,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [iSlide](entities/ISlide.md) — Customized footwear company pursuing focused growth across direct, wholesale, bulk, and dropshipping channels.
 
 ## Concepts
+- [Smartphone Affordability Pressure](concepts/SmartphoneAffordabilityPressure.md) — Uneven device-access pressure created by higher component costs, weaker specifications, financing needs, and constrained secondhand supply.
+- [Smartphone Specification Downgrading](concepts/SmartphoneSpecificationDowngrading.md) — Product-design response that offsets component inflation by reducing or substituting cameras, displays, batteries, or other features.
+- [Refurbished Device Supply Pressure](concepts/RefurbishedDeviceSupplyPressure.md) — Competition between affordable secondhand-device supply and manufacturer recovery of scarce components.
+- [Smartphone Replacement Cycle](concepts/SmartphoneReplacementCycle.md) — The interval consumers keep phones as adequacy, price, specifications, financing, and upgrade value change.
 - [Private Foundation Payout Governance](concepts/PrivateFoundationPayoutGovernance.md) — Separates tax-advantaged charitable commitment, qualifying distribution, timely deployment, independence, and demonstrated public benefit.
 - [Donor-Advised Fund Transparency Gap](concepts/DonorAdvisedFundTransparencyGap.md) — Loss of public traceability between a donor's transfer to a sponsoring charity and later grants to final recipients.
 - [Liberal Christian Electoral Politics](concepts/LiberalChristianElectoralPolitics.md) — Christian center-left politics using compassion and social provision to contest right-wing religious monopoly and bridge voter identities.

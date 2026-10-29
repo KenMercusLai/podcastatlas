@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13795
+wiki_total_pages: 13796
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "CountBinface"
     title: "Count Binface"
     url: "/wiki/entities/countbinface/"
+  - key: "CounterpointResearch"
+    title: "Counterpoint Research"
+    url: "/wiki/entities/counterpointresearch/"
   - key: "CountessLarish"
     title: "Countess Larish"
     url: "/wiki/entities/countesslarish/"

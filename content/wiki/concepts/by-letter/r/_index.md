@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10886
+wiki_total_pages: 10890
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "RefugeeAidRegistrationGap"
     title: "Refugee Aid Registration Gap / 难民登记援助空窗"
     url: "/wiki/concepts/refugeeaidregistrationgap/"
+  - key: "RefurbishedDeviceSupplyPressure"
+    title: "Refurbished Device Supply Pressure"
+    url: "/wiki/concepts/refurbisheddevicesupplypressure/"
   - key: "RegencyAuthorityConversion"
     title: "Regency Authority Conversion / 摄政权威的能力转化"
     url: "/wiki/concepts/regencyauthorityconversion/"

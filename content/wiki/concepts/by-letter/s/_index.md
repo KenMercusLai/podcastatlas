@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10886
+wiki_total_pages: 10890
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "SmartCityConveniencePrivacyTradeoff"
     title: "Smart-City Convenience-Privacy Tradeoff / 智慧城市的便利—隐私权衡"
     url: "/wiki/concepts/smartcityconvenienceprivacytradeoff/"
+  - key: "SmartphoneAffordabilityPressure"
+    title: "Smartphone Affordability Pressure"
+    url: "/wiki/concepts/smartphoneaffordabilitypressure/"
   - key: "SmartphoneAIHub"
     title: "Smartphone AI Hub"
     url: "/wiki/concepts/smartphoneaihub/"
@@ -1286,6 +1289,12 @@ wiki_pages:
   - key: "SmartphoneOperatingSystemEcosystems"
     title: "Smartphone Operating System Ecosystems"
     url: "/wiki/concepts/smartphoneoperatingsystemecosystems/"
+  - key: "SmartphoneReplacementCycle"
+    title: "Smartphone Replacement Cycle"
+    url: "/wiki/concepts/smartphonereplacementcycle/"
+  - key: "SmartphoneSpecificationDowngrading"
+    title: "Smartphone Specification Downgrading"
+    url: "/wiki/concepts/smartphonespecificationdowngrading/"
   - key: "SmartphoneSurveyPenalty"
     title: "Smartphone Survey Penalty"
     url: "/wiki/concepts/smartphonesurveypenalty/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3665
+topic_total_pages: 3666
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9441,6 +9441,9 @@ topic_sources:
   - key: "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128"
     title: "AI in banking: the good, the bad, and the efficient"
     url: "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+  - key: "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128"
+    title: "AI infrastructure is making smartphones pricier"
+    url: "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
   - key: "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128"
     title: "AI is eating up the world's computing memory"
     url: "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
