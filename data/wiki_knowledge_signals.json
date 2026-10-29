@@ -5433,6 +5433,22 @@
       "updated": "2026-10-27",
       "url": "/wiki/concepts/aisafetycoordination/"
     },
+    "AISafetyInstitutionalLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/aisafetyinstitutionallegitimacy/"
+    },
     "AISafetyWorkerCulture": {
       "episode_count": 1,
       "show_count": 1,
@@ -9918,6 +9934,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/afonsohenriques/"
+    },
+    "AfraAIWriter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/afraaiwriter/"
     },
     "AfricanDecolonization": {
       "episode_count": 1,
@@ -69816,6 +69848,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/defensiveaigovernance/"
     },
+    "DefensiveDecentralizedAcceleration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/defensivedecentralizedacceleration/"
+    },
     "DefensiveFallbackInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -81811,9 +81859,9 @@
       "url": "/wiki/concepts/effectmeasuredpersonnelselection/"
     },
     "EffectiveAltruism": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -81849,9 +81897,16 @@
           "show": "知行小酒馆",
           "title": "E253 AI 会改变世界，可它真的有让世界变好吗？",
           "url": "/wiki/sources/e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h/"
+        },
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
         }
       ],
-      "updated": "2026-10-24",
+      "updated": "2026-10-29",
       "url": "/wiki/concepts/effectivealtruism/"
     },
     "EffectiveConfusionOdysseyPeriod": {
@@ -82888,6 +82943,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/eliezergold/"
+    },
+    "EliezerYudkowsky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/eliezeryudkowsky/"
     },
     "ElisabethMarieOfAustria": {
       "episode_count": 1,
@@ -107707,6 +107778,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/futurecola/"
+    },
+    "FutureOfLifeInstitute": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260720_0720_MP_TECH_pod_128 [tech_20260720_0720_MP_TECH_pod_128].md",
+          "key": "tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI firms are going back on their safety promises",
+          "url": "/wiki/sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/futureoflifeinstitute/"
     },
     "FutureProofer": {
       "episode_count": 1,
@@ -176402,6 +176496,29 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
     },
+    "LongTermBenefitTrust": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "02026-ries-podcast-v2 [02026-ries-podcast-v2].md",
+          "key": "eric-ries-incorruptible-by-design-wrgromn5peq",
+          "show": "Long Now",
+          "title": "Eric Ries: Incorruptible by Design",
+          "url": "/wiki/sources/eric-ries-incorruptible-by-design-wrgromn5peq/"
+        },
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/longtermbenefittrust/"
+    },
     "LongTermCareInsurancePlanning": {
       "episode_count": 5,
       "show_count": 3,
@@ -220552,6 +220669,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/pheidippides/"
     },
+    "PhilanthropicNeglectedness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/philanthropicneglectedness/"
+    },
     "PhilipDCurtin": {
       "episode_count": 1,
       "show_count": 1,
@@ -236438,6 +236571,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/ratepayerprotectionact/"
+    },
+    "RationalistCommunity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/concepts/rationalistcommunity/"
     },
     "RationalizedStateViolence": {
       "episode_count": 5,
@@ -293825,6 +293974,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/visualvestibularstabilization/"
     },
+    "VitalikButerin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/vitalikbuterin/"
+    },
     "Vitellius": {
       "episode_count": 1,
       "show_count": 1,
@@ -302532,6 +302697,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/williamjoyce/"
+    },
+    "WilliamMacAskill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "7a1e61d3-f02c-498b-ac84-cf68f59b4ca9 [7a1e61d3-f02c-498b-ac84-cf68f59b4ca9].md",
+          "key": "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9",
+          "show": "硅谷101",
+          "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+          "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+        }
+      ],
+      "updated": "2026-10-29",
+      "url": "/wiki/entities/williammacaskill/"
     },
     "WilliamMaitlandOfLethington": {
       "episode_count": 2,

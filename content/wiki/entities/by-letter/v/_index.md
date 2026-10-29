@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 13766
+wiki_total_pages: 13770
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "VistaEquityPartners"
     title: "Vista Equity Partners"
     url: "/wiki/entities/vistaequitypartners/"
+  - key: "VitalikButerin"
+    title: "Vitalik Buterin"
+    url: "/wiki/entities/vitalikbuterin/"
   - key: "VitalyKamluk"
     title: "Vitaly Kamluk"
     url: "/wiki/entities/vitalykamluk/"

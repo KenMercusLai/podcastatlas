@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13766
+wiki_total_pages: 13770
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "EliezerGold"
     title: "Eliezer Gold"
     url: "/wiki/entities/eliezergold/"
+  - key: "EliezerYudkowsky"
+    title: "Eliezer Yudkowsky"
+    url: "/wiki/entities/eliezeryudkowsky/"
   - key: "ElisabethMarieOfAustria"
     title: "Elisabeth Marie of Austria"
     url: "/wiki/entities/elisabethmarieofaustria/"

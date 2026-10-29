@@ -37989,3 +37989,11 @@ Added source `vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz`; 
 ## [2026-10-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-29] ingest | E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
+
+Added source `e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9`; created [[VitalikButerin|Vitalik Buterin]], [[AfraAIWriter|Afra]], [[WilliamMacAskill|William MacAskill]], [[EliezerYudkowsky|Eliezer Yudkowsky]], [[RationalistCommunity]], [[PhilanthropicNeglectedness]], [[DefensiveDecentralizedAcceleration]], and [[AISafetyInstitutionalLegitimacy]]; and resynthesized [[EffectiveAltruism]], [[FutureOfLifeInstitute|Future of Life Institute]], and [[LongTermBenefitTrust|Long-Term Benefit Trust]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: AI safety grew through philosophical ideas, philanthropy, careers, and social infrastructure, but sincere risk concern does not settle corporate incentives or public authority; dynamic neglectedness, legitimate means, institutional checks, and distributed defensive capacity remain necessary. No settled factual contradiction was adopted. The FLI focus shift and Anthropic trust legitimacy are preserved as donor-side and governance qualifications, while figures, movement phases, institutional influence, voting arrangements, donation history, risk estimates, and policy effects remain episode-scoped because the supplied file is a structured summary rather than primary institutional or technical evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,761 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, and publish validation passed.
+
+## [2026-10-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

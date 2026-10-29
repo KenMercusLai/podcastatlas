@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10854
+wiki_total_pages: 10858
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1544,6 +1544,9 @@ wiki_pages:
   - key: "AISafetyCoordination"
     title: "AI Safety Coordination"
     url: "/wiki/concepts/aisafetycoordination/"
+  - key: "AISafetyInstitutionalLegitimacy"
+    title: "AI Safety Institutional Legitimacy"
+    url: "/wiki/concepts/aisafetyinstitutionallegitimacy/"
   - key: "AISafetyNarrativeBackfire"
     title: "AI Safety Narrative Backfire"
     url: "/wiki/concepts/aisafetynarrativebackfire/"

@@ -11600,6 +11600,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AISafetyInstitutionalLegitimacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AISafetyNarrativeBackfire": [
     {
       "key": "technology",
@@ -30605,6 +30612,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DefensiveDecentralizedAcceleration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DefensiveDividendAssets": [
@@ -94541,6 +94555,13 @@
       "url": "/topics/science/"
     }
   ],
+  "VitalikButerin": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "VitalismLifePrincipleDebate": [
     {
       "key": "science",
@@ -104698,6 +104719,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": [

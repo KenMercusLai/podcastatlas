@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3653
+topic_total_pages: 3654
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1969,6 +1969,9 @@ topic_concepts:
   - key: "DefensiveAIGovernance"
     title: "Defensive AI Governance"
     url: "/wiki/concepts/defensiveaigovernance/"
+  - key: "DefensiveDecentralizedAcceleration"
+    title: "Defensive Decentralized Acceleration"
+    url: "/wiki/concepts/defensivedecentralizedacceleration/"
   - key: "DefianceAct"
     title: "Defiance Act"
     url: "/wiki/concepts/defianceact/"

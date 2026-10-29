@@ -8,8 +8,9 @@ sources:
   - tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128
   - dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c
   - e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h
+  - e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-24
+last_updated: 2026-10-29
 ---
 
 # Effective Altruism
@@ -18,44 +19,44 @@ last_updated: 2026-10-24
 Effective altruism is an impact-oriented framework that compares uses of money, time, and careers by the amount of good they are expected to produce.
 
 ## Current Synthesis
-Across the sources, effective altruism moves from direct, measurable interventions such as malaria prevention toward career choice and the reduction of low-probability future catastrophes. That expansion supplies AI safety researchers with a language of expected impact, personal agency, and probability-weighted action. It can justify different tactics—including public resignation and continued work inside a frontier lab—because adherents may disagree about which position has more leverage.
+Across the bounded sources, effective altruism begins with measurable present-day interventions, extends into career choice and neglected causes, and then expands through longtermism toward pandemics, nuclear war, uncontrolled AI, and other future catastrophes. Its language of expected impact, agency, and probability-weighted choice can motivate direct giving, useful skill-building, research, resignation, insider work, or institution-building.
 
-The same framework attracts opposed political interpretations. Career-oriented sources treat it as a disciplined alternative to vague passion advice, while All-In presents its association with [[Anthropic]] as part of a centralizing posture that may restrict distributed AI. The framework therefore does not determine one AI policy: its results depend on disputed probabilities, chosen beneficiaries, time horizons, and assumptions about whether concentrated or distributed control is safer.
+The new source makes this evolution institutional rather than merely intellectual. Funding, fellowships, jobs, venues, and networks helped AI safety become a Silicon Valley and policy agenda. That success changes allocation: a cause can become less neglected, institutions can change direction, and methods developed for measurable health interventions may fail in strategic contests among companies, states, and political actors.
 
-The movement also has to survive the conduct of prominent adherents and prove useful in ordinary giving. [[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] records [[SamBankmanFried]] saying from prison that ends do not always justify means and that process matters, while he still denies the fraud finding against him. [[e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h]] brings the framework back to present-day interventions: compare how much a donation helps, investigate delivery, tolerate some operational loss, and keep the beneficiary's outcome ahead of donor satisfaction. Together these sources show that expected impact needs legitimate means, empirical humility, and implementation evidence.
+The framework does not determine one AI policy or excuse the means used in pursuit of impact. Sources range from centralized frontier control to decentralized defense, and FTX shows how future benefit can rationalize present misconduct. Durable effective altruism needs legitimate means, beneficiary-centered evidence, dynamic neglectedness assessment, institutional accountability, and humility about disputed probabilities.
 
 ## Key Claims
 - Resources and careers should be compared by expected positive impact rather than intention alone.
-- The movement expanded from present-day interventions toward preventing pandemics, nuclear war, uncontrolled AI, and other future catastrophes.
-- Expected-impact reasoning can guide career choice and tactical decisions within a career.
-- Agency and measurable effectiveness have diffused beyond formal movement membership into Bay Area technology culture.
-- Impact maximization can motivate demanding action but can also become demoralizing or overconfident when evidence is weak.
-- Effective-altruist premises do not uniquely imply centralized AI control, even though critics associate the movement with that position.
-- Expected good does not excuse fraudulent or coercive means, and donor intention does not substitute for beneficiary outcomes.
+- Cause priority depends on importance, tractability, and changing neglectedness.
+- The movement expanded from direct aid toward career strategy, longtermism, existential risk, and AI safety.
+- Funding and social infrastructure can turn an intellectual priority into a research and policy field.
+- Expected-impact reasoning can support opposed tactics because assumptions remain disputed.
+- Impact maximization can motivate action but become overconfident, demoralizing, or a moral rationalization.
+- Expected good does not excuse harmful means, and donor intention does not substitute for beneficiary outcomes.
 
 ## Evidence
-- **AI-control critique:** [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] characterizes the Anthropic/effective-altruist position as treating AI as too dangerous to distribute and contrasts it with [[DecentralizedAIControl]].
-- **Career application:** [[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] uses [[BenjaminTodd]] and [[EightyThousandHours|80,000 Hours]] to frame useful skill-building and global contribution as alternatives to following passion alone.
-- **Movement evolution:** [[tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128]] traces attention from mosquito-net funding toward catastrophic future risks including pandemics, nuclear war, and uncontrolled AI.
-- **Community influence:** [[tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128]] reports substantial effective-altruist influence among AI safety researchers while explicitly declining to generalize to every researcher.
-- **Decision practice:** [[tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128]] connects the framework to expected-impact comparisons and numerical estimates of uncertain outcomes.
-- **Scandal and survival:** [[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] pairs Bankman-Fried's partial ethical reassessment and continuing denial with the movement's post-FTX persistence in AI debates.
-- **Direct-giving practice:** [[e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h]] applies effectiveness comparison to cataract care, direct cash, early-childhood support, and recurring income pledges while acknowledging delivery losses.
+- **AI-control critique:** [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] contrasts an Anthropic-linked EA posture with [[DecentralizedAIControl]].
+- **Career application:** [[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] uses [[BenjaminTodd]] and [[EightyThousandHours|80,000 Hours]] to frame useful skill-building and contribution.
+- **Worker culture:** [[tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128]] connects AI-safety careers to expected impact, agency, and numerical uncertainty.
+- **Scandal:** [[dunes-and-gloom-mbss-annus-horribilis-0a44ecf1bba6689b3b1e02af9ca13b2c]] pairs [[SamBankmanFried]]'s partial reassessment and denial with post-FTX movement persistence.
+- **Direct giving:** [[e253-ai-hui-gaibian-shijie-ke-ta-zhende-you-rang-shijie-bianhao-ma-lot2elu49vlmweanppqh5uz0xa1h]] applies effectiveness comparison to present interventions and delivery losses.
+- **Development:** [[e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9]] distinguishes EA from rationalism and uses [[VitalikButerin|Vitalik Buterin]]'s giving to show dynamic neglectedness and institutional drift.
 
 ## Counterevidence & Qualifications
-The sources do not provide a representative history or membership survey of the movement. The All-In account is a critic's political characterization, the career segment is a review of advice, Marketplace Tech summarizes one anthropologist's fieldwork, Bankman-Fried's prison comments are self-interested, and the newest episode does not supply full citations for its intervention costs and outcome estimates. Precise probabilities can create false confidence, and maximizing impact can undervalue ordinary obligations, rights, plural values, or robust institutional constraints. Operational loss is not a reason to abandon giving, but neither is it permission to skip auditing or beneficiary feedback.
+The sources do not provide a representative movement history, membership survey, or comparative audit. They mix political critique, career advice, fieldwork, a convicted founder's self-interested account, and practitioner interviews. Precise probabilities can create false confidence; long horizons can obscure accountability; and health-intervention methods may not survive political conflict. Moral hazard and influence do not show all adherents share one motive or policy.
 
 ## What Changed
-- Extended the synthesis from careers and catastrophic risk back to present-day, outcome-oriented giving.
-- Added beneficiary outcomes, delivery research, and tolerance for bounded implementation loss as practical decision criteria.
-- Strengthened the qualification that cost-effectiveness estimates need source and evaluation transparency.
+- Added the staged development from measurable charity through longtermism, post-FTX crisis, and AI safety.
+- Added funding, fellowships, jobs, venues, and networks as agenda-forming mechanisms.
+- Made neglectedness dynamic as fields gain attention and institutions change.
+- Strengthened the boundary between measurable intervention comparison and strategic conflict.
+- Added d/acc as evidence that impact premises do not uniquely imply centralized AI control.
 
 ## Related Concepts
-- [[ImpactCareerChoice]] - applies impact comparison to career selection.
-- [[ExistentialRiskProbabilityEstimation]] - quantifies uncertain outcomes for expected-impact decisions.
-- [[AISafetyWorkerCulture]] - community in which agency and effectiveness norms are socially reinforced.
-- [[DecentralizedAIControl]] - competing governance response to claims that AI is too dangerous to distribute.
-- [[UsefulWorkCareerCompounding]] - practical skill-building route to contribution.
-- [[AIDoomerism]] - contested public framing of the future-risk branch.
-- [[SamBankmanFried]] - prominent former advocate whose fraud case tests the limits of ends-driven reasoning.
-- [[LiZhilin|李志林]] - applies impact comparison to recurring giving and frontline philanthropy.
+- [[PhilanthropicNeglectedness]] - dynamic marginal allocation criterion.
+- [[ImpactCareerChoice]] - applies comparison to careers.
+- [[RationalistCommunity]] - overlapping epistemic culture with an independent origin.
+- [[ExistentialRiskProbabilityEstimation]] - quantifies uncertainty for decisions.
+- [[AISafetyWorkerCulture]] - community reinforcing agency and effectiveness norms.
+- [[DefensiveDecentralizedAcceleration]] - protective and distributed risk response.
+- [[DecentralizedAIControl]] - competing response to centralized AI control.

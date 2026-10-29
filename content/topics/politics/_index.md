@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3427
+topic_total_pages: 3430
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -250,6 +250,9 @@ topic_concepts:
   - key: "AISafetyCoordination"
     title: "AI Safety Coordination"
     url: "/wiki/concepts/aisafetycoordination/"
+  - key: "AISafetyInstitutionalLegitimacy"
+    title: "AI Safety Institutional Legitimacy"
+    url: "/wiki/concepts/aisafetyinstitutionallegitimacy/"
   - key: "AISafetyNarrativeBackfire"
     title: "AI Safety Narrative Backfire"
     url: "/wiki/concepts/aisafetynarrativebackfire/"
@@ -8192,6 +8195,9 @@ topic_entities:
   - key: "Verica"
     title: "Verica"
     url: "/wiki/entities/verica/"
+  - key: "VitalikButerin"
+    title: "Vitalik Buterin"
+    url: "/wiki/entities/vitalikbuterin/"
   - key: "VladimirPutin"
     title: "Vladimir Putin"
     url: "/wiki/entities/vladimirputin/"
@@ -9372,6 +9378,9 @@ topic_sources:
   - key: "e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d"
     title: "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图"
     url: "/wiki/sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d/"
+  - key: "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9"
+    title: "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？"
+    url: "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
   - key: "e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2"
     title: "E44 李晓波对话孟岩：这次，就这样吧？"
     url: "/wiki/sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2/"

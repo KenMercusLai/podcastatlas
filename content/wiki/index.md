@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.md) — 硅谷101与Afra、Vitalik梳理有效利他主义、理性主义和AI安全网络，并以公司激励、捐赠变迁、公众合法性与d/acc重审技术治理。
 - [Vol.278 新鲜零食，多新鲜呐](sources/vol-278-xinxian-lingshi-duo-xinxian-na-gkwrimaot8w5aogz8atxlrqz.md) — 商业就是这样拆解新鲜零食的短保与体验式“新鲜”、区域供应链、商场引流、资本推动及复购和跨城复制风险。
 - [Politicians are afraid to fix taxes. So 100 citizens tried.](sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693.md) — Planet Money follows a 100-resident Connecticut citizens' assembly from fiscal learning and deliberation through tax recommendations, publication conflict, and the limits of advisory power.
 - [Bye bye Bibi? Israel’s election results](sources/bye-bye-bibi-israels-election-results-6ae1b4ac092a0dff193c7811.md) — The Intelligence on Israel’s coalition deadlock, Jon Ossoff’s constituent-service campaign model, and measured critic–audience film-rating alignment.
@@ -4866,6 +4867,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [從康乃爾到斯坦福，校園性暴力為何難追責？](sources/cong-kangnaier-dao-sitanfu-xiaoyuan-xingbaoli-weihe-nan-zhuize-cf30978cd2963cabea566e9c8cfc6616.md) — 端聞以康乃爾、佛州州立與斯坦福案件分析校內、刑事和民事追責缺口，以及同意能力、兄弟會風險、曝光依賴與性別化同情。
 
 ## Entities
+- [Vitalik Buterin](entities/VitalikButerin.md) — Ethereum co-founder connecting philanthropic neglectedness, AI-risk uncertainty, institutional incentives, and defensive decentralized acceleration.
+- [Afra](entities/AfraAIWriter.md) — Technology journalist and critical participant-observer mapping effective altruism, rationalism, and AI-safety networks.
+- [William MacAskill](entities/WilliamMacAskill.md) — Effective-altruism co-founder associated with 80,000 Hours, earning to give, and comparative-impact career choice.
+- [Eliezer Yudkowsky](entities/EliezerYudkowsky.md) — Rationalist and early AI-safety writer represented through belief revision, alignment difficulty, value fragility, and orthogonality.
 - [Connecticut Citizens' Assembly](entities/ConnecticutCitizensAssembly.md) — 100-resident deliberative body formed to study and recommend Connecticut property-tax reforms.
 - [Hélène Landemore](entities/HeleneLandemore.md) — Political scientist who helped design the Connecticut assembly and defended its sortition, learning, and publication principles.
 - [Sean Scanlon](entities/SeanScanlon.md) — Connecticut comptroller who sponsored the assembly and became the gatekeeper in its pre-election publication dispute.
@@ -18714,6 +18719,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Suez Crisis / 苏伊士运河危机](entities/SuezCrisis.md) — 1956 confrontation joining legal canal nationalisation to decolonisation, imperial prestige, regional security, and Cold War pressure.
 
 ## Concepts
+- [Rationalist Community](concepts/RationalistCommunity.md) — Modern epistemic culture of belief revision and curiosity, distinct from effective altruism and Descartes-style rationalist method.
+- [Philanthropic Neglectedness](concepts/PhilanthropicNeglectedness.md) — Dynamic allocation principle comparing a cause's importance with its existing resources, attention, methods, and marginal need.
+- [Defensive Decentralized Acceleration](concepts/DefensiveDecentralizedAcceleration.md) — d/acc strategy combining technological progress, protective capability, and distributed power.
+- [AI Safety Institutional Legitimacy](concepts/AISafetyInstitutionalLegitimacy.md) — Question of who may define AI risk and govern powerful systems under what authorization, transparency, and checks.
 - [Fresh Snack Retail / 新鲜零食](concepts/FreshSnackRetail.md) — Mall format combining selected short-life foods with clean-label cues, visible preparation, sampling, snack aggregation, and experience-led browsing.
 - [Short-Shelf-Life Retail Operations / 短保零售运营](concepts/ShortShelfLifeRetailOperations.md) — Forecasting, shrink, hygiene, production-radius, logistics, and store-density system required for perishable retail.
 - [Citizens' Assembly](concepts/CitizensAssembly.md) — Sortition-based deliberative institution combining demographic composition, policy learning, public judgment, and recommendation.

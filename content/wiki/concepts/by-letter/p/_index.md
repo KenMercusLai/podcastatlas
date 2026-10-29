@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10854
+wiki_total_pages: 10858
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "PhenomenalAccessConsciousness"
     title: "Phenomenal and Access Consciousness"
     url: "/wiki/concepts/phenomenalaccessconsciousness/"
+  - key: "PhilanthropicNeglectedness"
+    title: "Philanthropic Neglectedness"
+    url: "/wiki/concepts/philanthropicneglectedness/"
   - key: "PhilologicalWorldbuilding"
     title: "Philological Worldbuilding"
     url: "/wiki/concepts/philologicalworldbuilding/"
