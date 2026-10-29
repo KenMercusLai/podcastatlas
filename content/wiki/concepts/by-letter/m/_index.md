@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10875
+wiki_total_pages: 10878
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "MicrotiaEarReconstructionDecision"
     title: "Microtia Ear-Reconstruction Decision / 小耳畸形耳再造决策"
     url: "/wiki/concepts/microtiaearreconstructiondecision/"
+  - key: "MidAutumnFestivalLayering"
+    title: "Mid-Autumn Festival Layering / 中秋节文化叠层"
+    url: "/wiki/concepts/midautumnfestivallayering/"
   - key: "MidCenturyTechnologicalOptimism"
     title: "Mid-Century Technological Optimism"
     url: "/wiki/concepts/midcenturytechnologicaloptimism/"
@@ -1859,6 +1862,9 @@ wiki_pages:
   - key: "MythAsPublicDream"
     title: "Myth As Public Dream / 神话作为公共的梦"
     url: "/wiki/concepts/mythaspublicdream/"
+  - key: "MythAsSocialMirror"
+    title: "Myth As Social Mirror / 神话作为社会镜像"
+    url: "/wiki/concepts/mythassocialmirror/"
   - key: "MythToMythologyTransition"
     title: "Myth to Mythology Transition"
     url: "/wiki/concepts/mythtomythologytransition/"

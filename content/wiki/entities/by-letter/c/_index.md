@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13780
+wiki_total_pages: 13782
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "ChanganTown"
     title: "Chang'an Town / 长安镇"
     url: "/wiki/entities/changantown/"
+  - key: "ChangE"
+    title: "Chang'e / 嫦娥"
+    url: "/wiki/entities/change/"
   - key: "ChangeHealthcare"
     title: "Change Healthcare"
     url: "/wiki/entities/changehealthcare/"

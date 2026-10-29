@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10875
+wiki_total_pages: 10878
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "EndUserPurchasedWorkwear"
     title: "End-User-Purchased Workwear"
     url: "/wiki/concepts/enduserpurchasedworkwear/"
+  - key: "EndlessPunishmentLabor"
+    title: "Endless Punishment Labor / 无尽惩罚劳动"
+    url: "/wiki/concepts/endlesspunishmentlabor/"
   - key: "EndocannabinoidHomeostaticSignaling"
     title: "Endocannabinoid Homeostatic Signaling"
     url: "/wiki/concepts/endocannabinoidhomeostaticsignaling/"

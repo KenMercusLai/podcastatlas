@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP34-中秋特辑-灵魂拷问/别怕今夜空虚寂寞冷](sources/ep34-zhongqiu-teji-linghun-kaowen-biepa-jinye-kongxu-jimo-leng-wkgkk1unb1oxo9ngcvx-ivoggiw069.md) — 无时差研究所以多位嘉宾的矛盾答案重读嫦娥、吴刚与中秋，将神话版本连接到性别、婚姻、阶级、权力、无尽劳动及海外团圆实践。
 - [EP128-十五年一稿的城市规划，究竟在规划什么？](sources/ep128-shiwunianyigao-de-chengshi-guihua-jiujing-zai-guihua-shenme-cmcocqgc36nfb4cpjgba98wr.md) — 无时差研究所以空间结构、职住平衡、城中村、城市更新、气候基础设施、智慧治理与弹性公共空间解释长期规划如何落到日常生活。
 - [EP159-GameStop：股票投资娱乐化/为什么价值投资不吃香了？](sources/ep159-gamestop-gupiao-touzi-yulehua-weishenme-jiazhi-touzi-bu-chixiangle-ckwrirwd-dwbabaaaachv6pg.md) — 无时差研究所从GameStop拆解逼空、期权对冲、清算保证金、订单流支付、社交投资协调及散户与机构的风险差距。
 - [No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下](sources/no-224-1492-pochan-jiaohuang-dafenqi-lafeier-yu-tuosikana-meidiqi-jiazu-xia-gkwriaiot0stbicpfwtw0l2i.md) — 半拿铁从1494年驱逐讲到教皇、托斯卡纳大公与王朝绝嗣，并以多元赞助和安娜·玛丽亚的遗赠重审美第奇的政治与文化遗产。
@@ -4873,6 +4874,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [718. The Suez Crisis: Britain's Shattered Empire (Part 2)](sources/718-the-suez-crisis-britains-shattered-empire-part-2-glt7704784668.md) — The Rest Is History follows the collusive invasion, Egyptian resistance, American financial coercion, forced withdrawal, and Suez's disputed imperial legacy.
 
 ## Entities
+- [Chang'e / 嫦娥](entities/ChangE.md) — Lunar figure whose competing versions recode desire, sacrifice, marital loyalty, punishment, and female agency.
+- [Wu Gang / 吴刚](entities/WuGang.md) — Lunar woodcutter whose regenerating tree supports readings of futility, resistance, persistence, and unintended benefit.
 - [Citadel Securities](entities/CitadelSecurities.md) — Market maker named in the GameStop episode's payment-for-order-flow explanation, disambiguated from the Citadel investment firm.
 - [WallStreetBets](entities/WallStreetBets.md) — Online investing community combining research, ranked attention, position displays, humor, identity, and uneven follower risk in the GameStop episode.
 - [DTCC](entities/DTCC.md) — U.S. clearing-infrastructure institution whose deposit requirements feature in the source's account of Robinhood's GameStop restrictions.
@@ -18735,6 +18738,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dwight D. Eisenhower](entities/DwightEisenhower.md) — U.S. president who used UN action and financial leverage to force his British and French allies to cease fire at Suez.
 
 ## Concepts
+- [Mid-Autumn Festival Layering / 中秋节文化叠层](concepts/MidAutumnFestivalLayering.md) — Lunar myth, poetry, food, reunion, aesthetic selection, and diaspora practice accumulated around one festival.
+- [Myth As Social Mirror / 神话作为社会镜像](concepts/MythAsSocialMirror.md) — Reinterpretation of inherited stories through changing assumptions about gender, marriage, class, authority, and moral order.
+- [Endless Punishment Labor / 无尽惩罚劳动](concepts/EndlessPunishmentLabor.md) — Unfinishable mythic work read through erased results, justice, resistance, persistence, and external value.
 - [Polycentric Urban Structure and Job-Housing Balance / 多中心城市结构与职住平衡](concepts/PolycentricUrbanStructureAndJobHousingBalance.md) — Coordinates centers, housing, employment, services, and transport without assuming one universally best city shape.
 - [Urban Villages as Affordable Housing Infrastructure / 城中村的可负担住房功能](concepts/UrbanVillageAffordableHousingFunction.md) — Treats work-proximate low-cost housing as urban and labor-market infrastructure while retaining safety and service obligations.
 - [Human-Centered Urban Renewal / 以人为本的城市更新](concepts/HumanCenteredUrbanRenewal.md) — Judges renewal through infrastructure, public services, heritage, affordability, local identity, and daily use rather than surface tidiness alone.
