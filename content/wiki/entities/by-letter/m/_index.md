@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13798
+wiki_total_pages: 13801
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1751,6 +1751,9 @@ wiki_pages:
   - key: "Morocco"
     title: "Morocco"
     url: "/wiki/entities/morocco/"
+  - key: "MosaicAI"
+    title: "Mosaic AI"
+    url: "/wiki/entities/mosaicai/"
   - key: "MoscowUprising1682"
     title: "Moscow Uprising of 1682 / 1682年莫斯科起义"
     url: "/wiki/entities/moscowuprising1682/"

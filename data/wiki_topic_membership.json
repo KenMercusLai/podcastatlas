@@ -13812,6 +13812,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AlanTalmor": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AlanTuring": [
     {
       "key": "technology",
@@ -16876,6 +16883,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AskAIMosaic": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AskJeeves": [
@@ -35429,6 +35443,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EnterpriseDesignPartnerValidation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "EnterpriseFirstProductFit": [
     {
       "key": "economics",
@@ -35470,6 +35491,13 @@
     }
   ],
   "EnterpriseSoftwarePlatformConsolidation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "EnterpriseTechnicalSupportAutomation": [
     {
       "key": "technology",
       "label": "Technology",
@@ -63832,6 +63860,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MosaicAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MossamDataScienceWithSam": [
@@ -104001,6 +104036,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "chef-vs-robot": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M](sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m.md) — The SaaS Podcast interview with Alan Talmor on Ask AI's pivot into Mosaic, technical-support automation, design-partner validation, founder-led sales, outcome positioning, and diagnostic enterprise pilots.
 - [AI infrastructure is making smartphones pricier](sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128.md) — Marketplace Tech traces AI-driven memory pressure into smartphone inflation, specification cuts, refurbished-device scarcity, longer replacement cycles, and access risk in price-sensitive markets.
 - [Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](sources/essentials-how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim9049912461.md) — Condensed Huberman Lab interview on olfactory coding, unconscious social odor sampling, tears and hexadecanal, mixed digital-scent results, and the limits of future diagnostic use.
 - [Effective non-altruism: Elon Musk’s foundation](sources/effective-non-altruism-elon-musks-foundation-6ae30277305baddee189d087.md) — The Intelligence examines the Musk Foundation's tax-efficient stock funding, opaque and delayed giving, Adam Hamilton's liberal Christian Kansas campaign, and the evidence below the 10,000-step myth.
@@ -4881,6 +4882,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390.md) — Tomorrow Today interview connecting child-labour rescue, consumer campaigning, GoodWeave certification, transformative compassion, compassionate AI, and a proposed Compassion Quotient.
 
 ## Entities
+- [Alan Talmor](entities/AlanTalmor.md) — Mosaic AI founder and CEO linking enterprise design partners, transparent fundraising, founder-led sales, and strategic narrowing under model-provider pressure.
+- [Mosaic AI](entities/MosaicAI.md) — Enterprise technical-support automation company that evolved from Ask AI and sells diagnostic proof plus measurable operating outcomes.
+- [Ask AI (Mosaic predecessor)](entities/AskAIMosaic.md) — Disambiguated general enterprise-assistant predecessor whose connectors, context, customers, and workflows supported Mosaic's specialization.
 - [Counterpoint Research](entities/CounterpointResearch.md) — Smartphone-market research organization cited for global price and replacement-cycle estimates.
 - [Musk Foundation](entities/MuskFoundation.md) — Elon Musk's private foundation, assessed through appreciated-stock funding, sparse disclosure, related recipients, donor-advised funds, and payout timing.
 - [Fidelity Charitable](entities/FidelityCharitable.md) — Donor-advised-fund sponsor used to distinguish charitable restriction from public traceability of final grants.
@@ -18763,6 +18767,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GoodWeave](entities/GoodWeave.md) — Child-labour-free carpet certification initiative first known as Rugmark in the bounded source.
 
 ## Concepts
+- [Enterprise Design Partner Validation](concepts/EnterpriseDesignPartnerValidation.md) — Product-validation discipline that joins deep early-partner learning with cross-customer testing and a boundary against non-transferable custom work.
+- [Enterprise Technical Support Automation](concepts/EnterpriseTechnicalSupportAutomation.md) — AI workflow that combines product knowledge, code, logs, customer context, historical tickets, tools, and human review for complex B2B support.
 - [Smartphone Affordability Pressure](concepts/SmartphoneAffordabilityPressure.md) — Uneven device-access pressure created by higher component costs, weaker specifications, financing needs, and constrained secondhand supply.
 - [Smartphone Specification Downgrading](concepts/SmartphoneSpecificationDowngrading.md) — Product-design response that offsets component inflation by reducing or substituting cameras, displays, batteries, or other features.
 - [Refurbished Device Supply Pressure](concepts/RefurbishedDeviceSupplyPressure.md) — Competition between affordable secondhand-device supply and manufacturer recovery of scarce components.

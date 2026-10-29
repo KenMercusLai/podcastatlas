@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10894
+wiki_total_pages: 10896
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "EnterpriseDatabaseLockIn"
     title: "Enterprise Database Lock-In"
     url: "/wiki/concepts/enterprisedatabaselockin/"
+  - key: "EnterpriseDesignPartnerValidation"
+    title: "Enterprise Design Partner Validation"
+    url: "/wiki/concepts/enterprisedesignpartnervalidation/"
   - key: "EnterpriseFileSync"
     title: "Enterprise File Sync"
     url: "/wiki/concepts/enterprisefilesync/"
@@ -872,6 +875,9 @@ wiki_pages:
   - key: "EnterpriseSoftwarePlatformConsolidation"
     title: "Enterprise Software Platform Consolidation"
     url: "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
+  - key: "EnterpriseTechnicalSupportAutomation"
+    title: "Enterprise Technical Support Automation"
+    url: "/wiki/concepts/enterprisetechnicalsupportautomation/"
   - key: "EnterpriseFirstProductFit"
     title: "Enterprise-First Product Fit"
     url: "/wiki/concepts/enterprisefirstproductfit/"

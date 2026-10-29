@@ -8531,6 +8531,10 @@
     "title": "Alan Newman",
     "url": "/wiki/entities/alannewman/"
   },
+  "AlanTalmor": {
+    "title": "Alan Talmor",
+    "url": "/wiki/entities/alantalmor/"
+  },
   "AlanTuring": {
     "title": "Alan Turing / 图灵",
     "url": "/wiki/entities/alanturing/"
@@ -11542,6 +11546,10 @@
   "AsilomarConferenceGovernance": {
     "title": "Asilomar Conference Governance",
     "url": "/wiki/concepts/asilomarconferencegovernance/"
+  },
+  "AskAIMosaic": {
+    "title": "Ask AI (Mosaic predecessor)",
+    "url": "/wiki/entities/askaimosaic/"
   },
   "AskJeeves": {
     "title": "Ask Jeeves",
@@ -31567,6 +31575,10 @@
     "title": "Enterprise Database Lock-In",
     "url": "/wiki/concepts/enterprisedatabaselockin/"
   },
+  "EnterpriseDesignPartnerValidation": {
+    "title": "Enterprise Design Partner Validation",
+    "url": "/wiki/concepts/enterprisedesignpartnervalidation/"
+  },
   "EnterpriseFileSync": {
     "title": "Enterprise File Sync",
     "url": "/wiki/concepts/enterprisefilesync/"
@@ -31618,6 +31630,10 @@
   "EnterpriseSoftwarePlatformConsolidation": {
     "title": "Enterprise Software Platform Consolidation",
     "url": "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
+  },
+  "EnterpriseTechnicalSupportAutomation": {
+    "title": "Enterprise Technical Support Automation",
+    "url": "/wiki/concepts/enterprisetechnicalsupportautomation/"
   },
   "EntertainmentIPFlywheel": {
     "title": "Entertainment IP Flywheel",
@@ -63214,6 +63230,10 @@
   "MortgageBackedSecuritiesRatePolicy": {
     "title": "Mortgage-Backed Securities Rate Policy",
     "url": "/wiki/concepts/mortgagebackedsecuritiesratepolicy/"
+  },
+  "MosaicAI": {
+    "title": "Mosaic AI",
+    "url": "/wiki/entities/mosaicai/"
   },
   "MoscowUprising1682": {
     "title": "Moscow Uprising of 1682 / 1682年莫斯科起义",
@@ -104650,6 +104670,10 @@
   "charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321": {
     "title": "Charting the Architecture of the Universe & Human Life | Dr. Brian Keating",
     "url": "/wiki/sources/charting-the-architecture-of-the-universe-human-life-dr-brian-keating-scim7184460321/"
+  },
+  "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m": {
+    "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+    "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
   },
   "chef-vs-robot": {
     "title": "Chef vs. Robot",

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2329
+topic_total_pages: 2330
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1126,6 +1126,9 @@ topic_concepts:
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"
+  - key: "EnterpriseDesignPartnerValidation"
+    title: "Enterprise Design Partner Validation"
+    url: "/wiki/concepts/enterprisedesignpartnervalidation/"
   - key: "EnterpriseFirstProductFit"
     title: "Enterprise-First Product Fit"
     url: "/wiki/concepts/enterprisefirstproductfit/"

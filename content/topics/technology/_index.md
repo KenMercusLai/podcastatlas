@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3669
+topic_total_pages: 3674
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2302,6 +2302,9 @@ topic_concepts:
   - key: "EnterpriseSoftwarePlatformConsolidation"
     title: "Enterprise Software Platform Consolidation"
     url: "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
+  - key: "EnterpriseTechnicalSupportAutomation"
+    title: "Enterprise Technical Support Automation"
+    url: "/wiki/concepts/enterprisetechnicalsupportautomation/"
   - key: "EntryLevelAICareerLadderRisk"
     title: "Entry-Level AI Career-Ladder Risk"
     url: "/wiki/concepts/entrylevelaicareerladderrisk/"
@@ -5237,6 +5240,9 @@ topic_entities:
   - key: "Airwallex"
     title: "Airwallex"
     url: "/wiki/entities/airwallex/"
+  - key: "AlanTalmor"
+    title: "Alan Talmor"
+    url: "/wiki/entities/alantalmor/"
   - key: "AlanTuring"
     title: "Alan Turing / 图灵"
     url: "/wiki/entities/alanturing/"
@@ -5444,6 +5450,9 @@ topic_entities:
   - key: "AsahiGroup"
     title: "Asahi Group / 朝日集团"
     url: "/wiki/entities/asahigroup/"
+  - key: "AskAIMosaic"
+    title: "Ask AI (Mosaic predecessor)"
+    url: "/wiki/entities/askaimosaic/"
   - key: "AskJeeves"
     title: "Ask Jeeves"
     url: "/wiki/entities/askjeeves/"
@@ -7313,6 +7322,9 @@ topic_entities:
   - key: "MooreThreads"
     title: "Moore Threads / 摩尔线程"
     url: "/wiki/entities/moorethreads/"
+  - key: "MosaicAI"
+    title: "Mosaic AI"
+    url: "/wiki/entities/mosaicai/"
   - key: "MOSS"
     title: "MOSS"
     url: "/wiki/entities/moss/"
@@ -9675,6 +9687,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476"
     title: "Charles Ponzi's scheme (plus a new scam)"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+  - key: "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m"
+    title: "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M"
+    url: "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
   - key: "chef-vs-robot"
     title: "Chef vs. Robot"
     url: "/wiki/sources/chef-vs-robot/"

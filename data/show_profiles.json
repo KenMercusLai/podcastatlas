@@ -1051,14 +1051,14 @@
       "earliest_episode_date": "2026-04-09",
       "latest_episode_date": "2026-10-29",
       "latest_episode_file": "5da57f54 [5da57f54].md",
-      "source_note_count": 17,
-      "topic_matched_source_note_count": 7,
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 8,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "politics",
@@ -1077,10 +1077,10 @@
         }
       ],
       "start_here_episode_files": [
-        "AHARO8420023047 [AHARO8420023047].md",
-        "bff406f4 [bff406f4].md",
         "5da57f54 [5da57f54].md",
-        "d5efc401 [d5efc401].md"
+        "bff406f4 [bff406f4].md",
+        "d5efc401 [d5efc401].md",
+        "a339593f [a339593f].md"
       ]
     },
     "The Social Radars": {

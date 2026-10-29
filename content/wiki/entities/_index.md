@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13798
+wiki_total_pages: 13801
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "AlanNewman"
     title: "Alan Newman"
     url: "/wiki/entities/alannewman/"
+  - key: "AlanTalmor"
+    title: "Alan Talmor"
+    url: "/wiki/entities/alantalmor/"
   - key: "AlanTuring"
     title: "Alan Turing / 图灵"
     url: "/wiki/entities/alanturing/"
@@ -1889,6 +1892,9 @@ wiki_pages:
   - key: "ASICS"
     title: "ASICS"
     url: "/wiki/entities/asics/"
+  - key: "AskAIMosaic"
+    title: "Ask AI (Mosaic predecessor)"
+    url: "/wiki/entities/askaimosaic/"
   - key: "AskJeeves"
     title: "Ask Jeeves"
     url: "/wiki/entities/askjeeves/"

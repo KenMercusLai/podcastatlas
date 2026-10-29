@@ -1014,9 +1014,9 @@
       "url": "/wiki/concepts/aianswersourceattribution/"
     },
     "AIApplicationSurvivalStrategy": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
@@ -1038,9 +1038,16 @@
           "show": "十字路口Crossing",
           "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
           "url": "/wiki/sources/xin-de-chuangye-jihui-zhengzai-claude-code-he-codex-zhouwei-zhang-chulai-duitan-treg-lsjeudluybigsxwwu9v-u2kurpsm/"
+        },
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/aiapplicationsurvivalstrategy/"
     },
     "AIArtificialIntelligenceFilm": {
@@ -12250,6 +12257,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/alannewman/"
     },
+    "AlanTalmor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/alantalmor/"
+    },
     "AlaskaFisheriesPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -22242,6 +22265,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/asilomarconferencegovernance/"
+    },
+    "AskAIMosaic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/askaimosaic/"
     },
     "AskTheHeartTVDrama": {
       "episode_count": 1,
@@ -89654,6 +89693,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/enterprisedatamodernization/"
     },
+    "EnterpriseDesignPartnerValidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/enterprisedesignpartnervalidation/"
+    },
     "EnterpriseInternalEmailInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -89753,6 +89808,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/enterpriseownedmodels/"
     },
+    "EnterprisePOCDiscipline": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "AHARO4500147412 [AHARO4500147412].md",
+          "key": "enterprise-sales-with-no-product-landing-a-big-four-customer",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales With No Product: Landing a Big Four Customer",
+          "url": "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"
+        },
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/enterprisepocdiscipline/"
+    },
     "EnterpriseSoftwarePlatformConsolidation": {
       "episode_count": 1,
       "show_count": 1,
@@ -89768,6 +89846,22 @@
       ],
       "updated": "2026-10-22",
       "url": "/wiki/concepts/enterprisesoftwareplatformconsolidation/"
+    },
+    "EnterpriseTechnicalSupportAutomation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/enterprisetechnicalsupportautomation/"
     },
     "EntertainmentIPFlywheel": {
       "episode_count": 7,
@@ -103875,9 +103969,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedSales": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 3,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -103955,9 +104049,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
           "url": "/wiki/sources/d5efc401/"
+        },
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/founderledsales/"
     },
     "FounderLifestyleInfrastructure": {
@@ -198836,6 +198937,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/mortgageapproval/"
+    },
+    "MosaicAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "5da57f54 [5da57f54].md",
+          "key": "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
+          "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/mosaicai/"
     },
     "MoscowUprising1682": {
       "episode_count": 1,
