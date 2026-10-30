@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10925
+wiki_total_pages: 10930
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "FirstPersonMoralAlignment"
     title: "First-Person Moral Alignment / 第一人称道德贴近"
     url: "/wiki/concepts/firstpersonmoralalignment/"
+  - key: "FiscalStockAndHouseholdRebalancing"
+    title: "Fiscal Stock-and-Household Rebalancing / 存量时代财税与民生再平衡"
+    url: "/wiki/concepts/fiscalstockandhouseholdrebalancing/"
   - key: "FiscalMilitaryNavalState"
     title: "Fiscal-Military Naval State"
     url: "/wiki/concepts/fiscalmilitarynavalstate/"

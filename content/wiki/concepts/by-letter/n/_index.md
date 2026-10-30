@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10925
+wiki_total_pages: 10930
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "NewYorkTimesBestsellerList"
     title: "New York Times Bestseller List"
     url: "/wiki/concepts/newyorktimesbestsellerlist/"
+  - key: "NewEconomyHouseholdTransmission"
+    title: "New-Economy Household Transmission / 新经济向家庭传导"
+    url: "/wiki/concepts/neweconomyhouseholdtransmission/"
   - key: "NewLeaderFirstMoveAuthoritySignal"
     title: "New-Leader First-Move Authority Signal / 新领导第一把火式权力宣示"
     url: "/wiki/concepts/newleaderfirstmoveauthoritysignal/"

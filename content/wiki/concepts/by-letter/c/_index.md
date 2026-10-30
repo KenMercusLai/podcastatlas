@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10925
+wiki_total_pages: 10930
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "ChinaNeurotechnologyIndustrialPolicy"
     title: "China Neurotechnology Industrial Policy"
     url: "/wiki/concepts/chinaneurotechnologyindustrialpolicy/"
+  - key: "ChinaOldNewEconomyCrossover"
+    title: "China Old–New Economy Crossover / 中国新旧经济贡献交叉"
+    url: "/wiki/concepts/chinaoldneweconomycrossover/"
   - key: "ChinaOutboundProfitLoop"
     title: "China Outbound Profit Loop / 中国出海收益环流"
     url: "/wiki/concepts/chinaoutboundprofitloop/"
@@ -2942,6 +2945,9 @@ wiki_pages:
   - key: "CreditCardScaleContraction"
     title: "Credit Card Scale Contraction / 信用卡规模收缩"
     url: "/wiki/concepts/creditcardscalecontraction/"
+  - key: "CreditLightGrowthTransition"
+    title: "Credit-Light Growth Transition / 轻信贷增长转型"
+    url: "/wiki/concepts/creditlightgrowthtransition/"
   - key: "CricketImperialIdentity"
     title: "Cricket and Imperial Identity"
     url: "/wiki/concepts/cricketimperialidentity/"

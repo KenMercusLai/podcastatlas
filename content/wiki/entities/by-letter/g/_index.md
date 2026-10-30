@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13818
+wiki_total_pages: 13820
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1646,6 +1646,9 @@ wiki_pages:
   - key: "GuoGongEasternHanJurist"
     title: "郭公 / Guo Gong (Eastern Han jurist)"
     url: "/wiki/entities/guogongeasternhanjurist/"
+  - key: "GuoKaiEconomist"
+    title: "郭凯 / Guo Kai (economist)"
+    url: "/wiki/entities/guokaieconomist/"
   - key: "GuoYoulin"
     title: "郭友霖 / Guo Youlin"
     url: "/wiki/entities/guoyoulin/"

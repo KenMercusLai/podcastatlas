@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [186.何为中国经济新范式？｜对话CF40研究院院长郭凯](sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave.md) — 起朱楼宴宾客对话郭凯，以房地产拖累减弱、新经济贡献上升、家庭分散承压及财税传导解释中国增长范式的可能转折。
 - [Silver-year strongman: 25 years of Narendra Modi](sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62.md) — Economist Podcasts assesses Modi's modernization, majoritarianism, job and voter-roll pressures, locally exposed U.S. midterms, and Cicely Gemmell's work for Churchill.
 - [Political pressure could complicate Anthropic's IPO](sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128.md) — Marketplace Tech connects hyperscaler AI spending, cash-flow pressure and workforce buyouts with Anthropic's IPO exposure to political pressure, access controls, investigations, and autonomous-agent liability.
 - [512 与王恺漫话江南食事：从文人蟹宴到乡野土菜](sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy.md) — 忽左忽右与王恺从苏州蟹宴谈到南京鸭馔和杭州土菜，讨论江南时令、厨艺复原、食材生态与地方名菜品牌化。
@@ -4895,6 +4896,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [郭凯 / Guo Kai (economist)](entities/GuoKaiEconomist.md) — CF40研究院院长，以新旧增长动力、家庭承压、轻信贷转型和财税传导分析中国经济新范式。
+- [中国金融四十人研究院 / CF40 Research Institute](entities/CF40ResearchInstitute.md) — 以房地产、新经济、信贷、通胀和财税改革研究中国经济转型的研究机构。
 - [Cicely Gemmell](entities/CicelyGemmell.md) — Churchill's postwar personal secretary, archive worker, household assistant, and later New York magazine employee.
 - [Chartwell](entities/Chartwell.md) — Churchill household and workplace where secretarial, archival, artistic, and personal-service routines overlapped.
 - [Fujifilm / 富士胶片](entities/Fujifilm.md) — Japanese imaging and materials company expanding archival magnetic-tape capacity in response to reported AI-era retention demand.
@@ -18797,6 +18800,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [China Old–New Economy Crossover / 中国新旧经济贡献交叉](concepts/ChinaOldNewEconomyCrossover.md) — 新经济增长贡献超过房地产贡献、但不等于房价或家庭资产立即修复的结构性转折。
+- [Distributed Household Shock Absorption / 家庭分散式冲击吸收](concepts/DistributedHouseholdShockAbsorption.md) — 家庭通过还贷、降收、求职和互助分散吸收冲击，从而同时形成宏观韧性与广泛微观压力。
+- [New-Economy Household Transmission / 新经济向家庭传导](concepts/NewEconomyHouseholdTransmission.md) — 把技术供给与利润转成就业、服务、工资、公共服务、转移支付和资本收入的多通道机制。
+- [Credit-Light Growth Transition / 轻信贷增长转型](concepts/CreditLightGrowthTransition.md) — 从房地产和基建的高信贷增长转向更轻资产、更偏股权融资的新经济结构。
+- [Fiscal Stock-and-Household Rebalancing / 存量时代财税与民生再平衡](concepts/FiscalStockAndHouseholdRebalancing.md) — 房地产存量时代由交易税与建设支出转向可持续税基、公共服务和家庭支持的财税重构。
 - [Elite Personal Service Role Blurring](concepts/ElitePersonalServiceRoleBlurring.md) — overlap between skilled administrative work and intimate or menial service created by proximity and status inequality.
 - [Local Exposure Electoral Salience](concepts/LocalExposureElectoralSalience.md) — way candidate familiarity and direct policy exposure can complicate national electoral trends.
 - [Autonomous AI Incident Disclosure](concepts/AutonomousAIIncidentDisclosure.md) — Disclosure standard for consequential model actions without contemporaneous human direction, with explicit boundaries around verified impact.

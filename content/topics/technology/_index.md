@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3692
+topic_total_pages: 3695
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1555,6 +1555,9 @@ topic_concepts:
   - key: "ChinaModelAccessRestrictionRisk"
     title: "China Model Access Restriction Risk"
     url: "/wiki/concepts/chinamodelaccessrestrictionrisk/"
+  - key: "ChinaOldNewEconomyCrossover"
+    title: "China Old–New Economy Crossover / 中国新旧经济贡献交叉"
+    url: "/wiki/concepts/chinaoldneweconomycrossover/"
   - key: "ChinaDevelopedAutomotiveArchitectureExport"
     title: "China-Developed Automotive Architecture Export / 中国汽车架构反向输出"
     url: "/wiki/concepts/chinadevelopedautomotivearchitectureexport/"
@@ -3559,6 +3562,9 @@ topic_concepts:
   - key: "NewQualityProductiveForces"
     title: "New Quality Productive Forces / 新质生产力"
     url: "/wiki/concepts/newqualityproductiveforces/"
+  - key: "NewEconomyHouseholdTransmission"
+    title: "New-Economy Household Transmission / 新经济向家庭传导"
+    url: "/wiki/concepts/neweconomyhouseholdtransmission/"
   - key: "NewsroomAIAdoption"
     title: "Newsroom AI Adoption"
     url: "/wiki/concepts/newsroomaiadoption/"
@@ -9381,6 +9387,9 @@ topic_sources:
   - key: "184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898"
     title: "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？"
     url: "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
+  - key: "lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave"
+    title: "186.何为中国经济新范式？｜对话CF40研究院院长郭凯"
+    url: "/wiki/sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave/"
   - key: "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto"
     title: "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会"
     url: "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"

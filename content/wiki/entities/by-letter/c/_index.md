@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13818
+wiki_total_pages: 13820
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2012,6 +2012,9 @@ wiki_pages:
   - key: "ChinaPost"
     title: "中国邮政"
     url: "/wiki/entities/chinapost/"
+  - key: "CF40ResearchInstitute"
+    title: "中国金融四十人研究院 / CF40 Research Institute"
+    url: "/wiki/entities/cf40researchinstitute/"
   - key: "ChinaCentralTelevision"
     title: "中央广播电视总台 / China Central Television"
     url: "/wiki/entities/chinacentraltelevision/"

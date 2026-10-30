@@ -21509,6 +21509,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CF40ResearchInstitute": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CHIPSAct": [
     {
       "key": "technology",
@@ -24155,6 +24162,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ChinaOldNewEconomyCrossover": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ChinaOutboundProfitLoop": [
@@ -28334,6 +28353,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CreditLightGrowthTransition": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CreditSuisse": [
     {
       "key": "economics",
@@ -32147,6 +32173,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DistributedHouseholdShockAbsorption": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "DistributedNeuralRepresentation": [
@@ -44051,6 +44084,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "GuoKaiEconomist": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "GuoMoruo": [
@@ -65801,6 +65841,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "NewEconomyHouseholdTransmission": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "NewEngineeringEducation": [
@@ -108034,6 +108081,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lqhortba3qpshwsjbt1qdsyeyden-lqhortba3qpshwsjbt1qdsyeyden": [
