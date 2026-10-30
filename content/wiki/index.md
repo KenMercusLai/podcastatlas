@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [512 与王恺漫话江南食事：从文人蟹宴到乡野土菜](sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy.md) — 忽左忽右与王恺从苏州蟹宴谈到南京鸭馔和杭州土菜，讨论江南时令、厨艺复原、食材生态与地方名菜品牌化。
 - [374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？](sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck.md) — 独树不成林以《理想国》审视严格健身制度、身体量化、力量与勇气，并把训练目的置于适应力、判断和完整生活之中。
 - [EP158-从离婚冷静期看婚姻自由](sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg.md) — 无时差研究所以家事律师经验讨论离婚冷静期、协议与诉讼出口、家暴取证、经济独立及父母分离后的持续责任。
 - [达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？](sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb.md) — 声动早咖啡以恐怖片低成本组合、网络原生 IP、跨市场惊吓与影院集体体验解释类型复兴，并更新触屏 Mac、AI 搜索、HBM、磁带存储和宇树研发。
@@ -18791,6 +18792,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Jiangnan Seasonal Cuisine / 江南时令饮食](concepts/JiangnanSeasonalCuisine.md) — Coordinates local ingredients, annual cycles, preservation, kitchen technique, and social occasions through “不时不食.”
+- [Culinary Tradition Reconstruction / 饮食传统复原](concepts/CulinaryTraditionReconstruction.md) — Recovers discontinuous dishes from texts, memory, surviving craft, ingredients, and disclosed modern judgment.
+- [Regional Food Brand Formation / 地方食物品牌形成](concepts/RegionalFoodBrandFormation.md) — Explains how material quality, wealth, writing, migration, gifting, tourism, and publicity make foods represent places.
+- [Culinary Ecology Continuity / 饮食生态连续性](concepts/CulinaryEcologyContinuity.md) — Makes viable habitats, ingredient stocks, water, feed, season, and freshness part of culinary transmission.
 - [Athletic Regimen Rigidity / 训练制度刚性](concepts/AthleticRegimenRigidity.md) — Loss of adaptability when optimized training, nutrition, rest, and recovery routines become difficult to revise under real-life disruption.
 - [Platonic Athletic Education / 柏拉图式体育教育](concepts/PlatonicAthleticEducation.md) — Physical and cultural education coordinated to form courage, judgment, resilience, and proportion rather than strength alone.
 - [Quantified Body Discipline / 量化身体规训](concepts/QuantifiedBodyDiscipline.md) — Self-governance through fitness and health metrics, bounded by context, causal caution, flexibility, and broader purposes.

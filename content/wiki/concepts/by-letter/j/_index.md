@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 10913
+wiki_total_pages: 10917
 wiki_pages:
   - key: "JackTheRipperMythFormation"
     title: "Jack the Ripper Myth Formation"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "JianghuUnificationExitConstraint"
     title: "Jianghu Unification as an Exit Constraint / 江湖一统与退出约束"
     url: "/wiki/concepts/jianghuunificationexitconstraint/"
+  - key: "JiangnanSeasonalCuisine"
+    title: "Jiangnan Seasonal Cuisine / 江南时令饮食"
+    url: "/wiki/concepts/jiangnanseasonalcuisine/"
   - key: "JikobukkenIncidentProperty"
     title: "Jikobukken Incident Property"
     url: "/wiki/concepts/jikobukkenincidentproperty/"

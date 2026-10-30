@@ -3687,6 +3687,10 @@
     "title": "512. America in '68: The Chicago Riots (Part 5)",
     "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
   },
+  "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy": {
+    "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+    "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
+  },
   "513-america-in-68-nixons-great-comeback-part-6-glt3853956463": {
     "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
     "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
@@ -24679,6 +24683,10 @@
     "title": "Cuitlahuac",
     "url": "/wiki/entities/cuitlahuac/"
   },
+  "CulinaryEcologyContinuity": {
+    "title": "Culinary Ecology Continuity / 饮食生态连续性",
+    "url": "/wiki/concepts/culinaryecologycontinuity/"
+  },
   "CulinaryFlavorTransformation": {
     "title": "Culinary Flavor Transformation",
     "url": "/wiki/concepts/culinaryflavortransformation/"
@@ -24698,6 +24706,10 @@
   "CulinaryTraditionMythmaking": {
     "title": "Culinary Tradition Mythmaking",
     "url": "/wiki/concepts/culinarytraditionmythmaking/"
+  },
+  "CulinaryTraditionReconstruction": {
+    "title": "Culinary Tradition Reconstruction / 饮食传统复原",
+    "url": "/wiki/concepts/culinarytraditionreconstruction/"
   },
   "CultOfSupremeBeing": {
     "title": "Cult of the Supreme Being",
@@ -49322,6 +49334,10 @@
   "JiangmenUndergroundNeutrinoObservatory": {
     "title": "江门中微子实验 / Jiangmen Underground Neutrino Observatory",
     "url": "/wiki/entities/jiangmenundergroundneutrinoobservatory/"
+  },
+  "JiangnanSeasonalCuisine": {
+    "title": "Jiangnan Seasonal Cuisine / 江南时令饮食",
+    "url": "/wiki/concepts/jiangnanseasonalcuisine/"
   },
   "JiangningWeavingBureau": {
     "title": "江宁织造 / Jiangning Weaving Bureau",
@@ -76187,6 +76203,10 @@
     "title": "Regional Flavor Transfer / 地方风味迁移",
     "url": "/wiki/concepts/regionalflavortransfer/"
   },
+  "RegionalFoodBrandFormation": {
+    "title": "Regional Food Brand Formation / 地方食物品牌形成",
+    "url": "/wiki/concepts/regionalfoodbrandformation/"
+  },
   "RegionalLaborMarketScarring": {
     "title": "Regional Labor Market Scarring",
     "url": "/wiki/concepts/regionallabormarketscarring/"
@@ -94540,7 +94560,7 @@
     "url": "/wiki/entities/wangkailatehan/"
   },
   "WangKaiTeaWriter": {
-    "title": "王恺 / Wang Kai (tea writer)",
+    "title": "王恺 / Wang Kai (tea and food writer)",
     "url": "/wiki/entities/wangkaiteawriter/"
   },
   "WangKangLateHan": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10913
+wiki_total_pages: 10917
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3209,6 +3209,9 @@ wiki_pages:
   - key: "CueCenteredTherapy"
     title: "Cue-Centered Therapy"
     url: "/wiki/concepts/cuecenteredtherapy/"
+  - key: "CulinaryEcologyContinuity"
+    title: "Culinary Ecology Continuity / 饮食生态连续性"
+    url: "/wiki/concepts/culinaryecologycontinuity/"
   - key: "CulinaryFlavorTransformation"
     title: "Culinary Flavor Transformation"
     url: "/wiki/concepts/culinaryflavortransformation/"
@@ -3224,6 +3227,9 @@ wiki_pages:
   - key: "CulinaryTraditionMythmaking"
     title: "Culinary Tradition Mythmaking"
     url: "/wiki/concepts/culinarytraditionmythmaking/"
+  - key: "CulinaryTraditionReconstruction"
+    title: "Culinary Tradition Reconstruction / 饮食传统复原"
+    url: "/wiki/concepts/culinarytraditionreconstruction/"
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"

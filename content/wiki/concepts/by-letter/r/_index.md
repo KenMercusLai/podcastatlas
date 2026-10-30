@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10913
+wiki_total_pages: 10917
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "RegionalFlavorTransfer"
     title: "Regional Flavor Transfer / 地方风味迁移"
     url: "/wiki/concepts/regionalflavortransfer/"
+  - key: "RegionalFoodBrandFormation"
+    title: "Regional Food Brand Formation / 地方食物品牌形成"
+    url: "/wiki/concepts/regionalfoodbrandformation/"
   - key: "RegionalLaborMarketScarring"
     title: "Regional Labor Market Scarring"
     url: "/wiki/concepts/regionallabormarketscarring/"

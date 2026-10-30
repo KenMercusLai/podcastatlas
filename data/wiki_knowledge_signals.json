@@ -61633,6 +61633,36 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/coze/"
     },
+    "Crab": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "114.又到持螯赏菊时，聊聊螃蟹的趣闻史话 [758424117].md",
+          "key": "114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117",
+          "show": "蜜獾吃书",
+          "title": "114.又到持螯赏菊时，聊聊螃蟹的趣闻史话",
+          "url": "/wiki/sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117/"
+        },
+        {
+          "episode_file": "中秋快乐！ [669967741].md",
+          "key": "zhongqiu-kuaile-669967741",
+          "show": "蜜獾吃书",
+          "title": "中秋快乐！",
+          "url": "/wiki/sources/zhongqiu-kuaile-669967741/"
+        },
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/crab/"
+    },
     "CraftLaborBottleneck": {
       "episode_count": 2,
       "show_count": 1,
@@ -64054,6 +64084,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/cuitlahuac/"
     },
+    "CulinaryEcologyContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/culinaryecologycontinuity/"
+    },
     "CulinaryFlavorTransformation": {
       "episode_count": 1,
       "show_count": 1,
@@ -64094,9 +64140,9 @@
       "url": "/wiki/concepts/culinarynationalism/"
     },
     "CulinaryTraditionMythmaking": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2872429496 [GLT2872429496].md",
@@ -64104,10 +64150,33 @@
           "show": "The Rest Is History",
           "title": "484. The Food that Changed the World",
           "url": "/wiki/sources/484-the-food-that-changed-the-world-glt2872429496/"
+        },
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/culinarytraditionmythmaking/"
+    },
+    "CulinaryTraditionReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/culinarytraditionreconstruction/"
     },
     "CultOfSupremeBeing": {
       "episode_count": 1,
@@ -153188,6 +153257,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/jianglinglatehan/"
     },
+    "JiangnanSeasonalCuisine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/jiangnanseasonalcuisine/"
+    },
     "JiangxiaCommanderyLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -240480,6 +240565,22 @@
       "updated": "2026-10-28",
       "url": "/wiki/concepts/regionalesimconstraint/"
     },
+    "RegionalFoodBrandFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/regionalfoodbrandformation/"
+    },
     "RegionalLanguageAsCharacterAccess": {
       "episode_count": 2,
       "show_count": 2,
@@ -298412,9 +298513,9 @@
       "url": "/wiki/entities/wangjunxingeneral/"
     },
     "WangKaiTeaWriter": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
@@ -298422,9 +298523,16 @@
           "show": "忽左忽右",
           "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
           "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        },
+        {
+          "episode_file": "lh0W1a0jWaFUYdxpDGHQPPuWVbZY [lh0W1a0jWaFUYdxpDGHQPPuWVbZY].md",
+          "key": "512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy",
+          "show": "忽左忽右",
+          "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+          "url": "/wiki/sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/wangkaiteawriter/"
     },
     "WangKangLateHan": {

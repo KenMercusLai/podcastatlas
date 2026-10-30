@@ -38153,3 +38153,11 @@ Added source `374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-ji
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
+
+Added source `512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy`; created [[JiangnanSeasonalCuisine]], [[CulinaryTraditionReconstruction]], [[RegionalFoodBrandFormation]], and [[CulinaryEcologyContinuity]]; and resynthesized [[WangKaiTeaWriter]], [[Crab]], and [[CulinaryTraditionMythmaking]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jiangnan cuisine is a changing system of season, locality, ingredient ecology, skilled processing, service, and social practice rather than a static list of famous dishes; modern reconstruction can create meaningful tradition when it discloses discontinuity and contemporary judgment; and regional food fame combines material conditions with wealth, writing, migration, gifting, commerce, and tourism. No settled contradiction was adopted. Recipe genealogies, aquaculture details, blind tastings, family memories, restaurant judgments, exact timelines, and claims about ingredient decline remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, ecological study, or controlled sensory comparison. Broad show, city, chef, restaurant, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,782 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

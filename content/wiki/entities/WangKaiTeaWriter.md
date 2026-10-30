@@ -1,58 +1,59 @@
 ---
-title: "王恺 / Wang Kai (tea writer)"
+title: "王恺 / Wang Kai (tea and food writer)"
 type: entity
-tags: [writer, journalist, tea, field-reporting, china]
+tags: [writer, journalist, tea, food-history, field-reporting, china]
 sources:
   - 505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza
-last_updated: 2026-10-02
+  - 512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy
+last_updated: 2026-10-30
 knowledge_schema: synthesis-v1
 ---
 
-# 王恺 / Wang Kai (tea writer)
+# 王恺 / Wang Kai (tea and food writer)
 
 ## Overview
 
-王恺 is the writer and field reporter featured in [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] discussing Chinese tea history, production, markets, taste, and East Asian cultural exchange. The episode title writes his name 王恺 while the supplied body repeatedly uses 王凯; this page follows the title and records the variance as source metadata rather than merging him with [[WangKaiLateHan]].
+王恺 is the writer and field reporter featured in two [[HuzuoHuyou|忽左忽右]] episodes on Chinese tea and Jiangnan food. The tea episode title writes his name 王恺 while its supplied body repeatedly uses 王凯; this page follows the titles and records the variance as source metadata rather than merging him with [[WangKaiLateHan]].
 
 ## Current Profile
 
-His method joins visits to major Chinese tea mountains and tea communities in Japan, Korea, and Taiwan with interviews, historical reading, comparative tasting, and attention to supply chains. He approaches tea legends neither as truths guaranteed by tradition nor as empty superstition: real differences in terrain, cultivar, craft, storage, water, and brewing must be separated from prestige, scarcity, identity, and sales narratives.
+Across tea and food, his method joins site visits, interviews, historical reading, remembered meals, comparative tasting, and attention to ecological and commercial supply. He tests prestigious names against terrain, cultivar or animal stock, season, processing, storage, available volume, and the labor needed to make the finished product. This makes authenticity a traceable relationship rather than a label guaranteed by price, antiquity, or city reputation.
 
-The resulting profile is that of a skeptical participant-observer. Access to makers, collectors, physical samples, and landscapes gives him evidence unavailable from books alone, but many judgments remain experiential or interview-based rather than laboratory, archival, or market-audit findings.
+He also treats tradition as a changing practice. Tea production can be interrupted and revived; old dishes can be reconstructed from records by modern chefs; and cuisine changes with ecology, migration, restaurant formats, tourism, and urban wealth. His access to makers, kitchens, collectors, meals, and landscapes supplies valuable testimony, but many historical details and sensory judgments remain interview- or experience-based rather than archival, laboratory, or market-audit findings.
 
 ## Key Characteristics
 
-- Uses field visits to connect tea claims with gardens, makers, warehouses, shops, water, and actual production conditions.
-- Combines tea history, agricultural ecology, craft, commerce, collecting, and sensory experience.
-- Tests prestigious stories against plausible supply, documented interruption, cultivar, processing, and comparative tasting.
-- Treats merchants, scholars, collectors, and producers as holders of different evidence and different blind spots.
-- Preserves meaningful ritual and sensory experience while criticizing fabricated provenance and unsupported mystique.
-- Frames East Asian tea culture as reciprocal adaptation rather than a contest for exclusive ownership.
+- Uses field visits and meals to connect cultural claims with producers, kitchens, ingredients, landscapes, and actual supply conditions.
+- Combines history, agricultural ecology, craft, commerce, social ritual, and sensory experience.
+- Tests prestigious labels against plausible volume, provenance, season, material quality, processing, and skilled labor.
+- Treats interruption, reconstruction, adaptation, and reinvention as normal parts of living tradition.
+- Reads eating and drinking as social practices shaped by etiquette, conversation, vessels, service, and setting.
+- Preserves meaningful local knowledge while criticizing fabricated continuity, unsupported provenance, and reductive online labels.
 
 ## Evidence
 
-- Field method: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] describes extensive visits to tea mountains and tea communities beyond mainland China.
-- Supply-chain skepticism: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] tests market volume and famous labels against the small output of core gardens and labor-intensive craft.
-- Comparative sensory practice: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] compares water, repeated infusions, storage histories, sites, and processing styles.
-- Historical reconstruction: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] follows interrupted production, revival, propagation, imitation, and changing drinking methods.
-- Cultural interpretation: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] describes tea gatherings as designed but potentially honest forms of multisensory attention.
+- Field and comparative method: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] describes visits to tea mountains, makers, warehouses, and East Asian tea communities, while [[512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy]] moves through banquets, cooks, local restaurants, ingredients, and regional routes.
+- Supply-chain skepticism: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] and [[512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy]] test famous names against limited core supply, changing production systems, material quality, and commercial incentives.
+- Historical reconstruction: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] follows interrupted tea production and cross-regional recombination, while [[512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy]] distinguishes inherited cuisine from modern restoration or standardization.
+- Material ecology: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] links taste to terrain, cultivar, craft, storage, water, and brewing; [[512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy]] links cuisine to season, aquaculture, river and lake species, habitat, preservation, and substitution.
+- Social interpretation: [[505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza]] and [[512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy]] describe tea gatherings and crab banquets as designed forms of attention that can also create status and expectation effects.
 
 ## Qualifications
 
-This profile derives from one structured podcast summary and does not represent Wang Kai's complete writing or research. The source does not provide full citations for many historical details, quantities, conversations, health claims, or tastings. The 王恺/王凯 character variance is unresolved within the supplied document, and claims based on personal sensory experience remain informative testimony rather than universal measurement.
+This profile derives from two structured podcast summaries and does not represent Wang Kai's complete writing or research. The sources do not provide full citations for many historical details, quantities, remembered conversations, recipe genealogies, aquaculture claims, or tastings. The 王恺/王凯 character variance remains unresolved within the supplied tea document, and personal sensory or restaurant judgments remain informative testimony rather than universal measurement.
 
 ## What Changed
 
-- Created a disambiguated profile for the tea writer and field reporter.
-- Established his core method as field-based comparison across material production and cultural narrative.
-- Preserved the source's name variance and evidence limits.
+- Expanded the profile from tea into Jiangnan food history, kitchen craft, seasonality, and dining travel.
+- Generalized his method as testing prestige against material supply, labor, ecology, and historical discontinuity.
+- Added modern dish reconstruction and culinary branding to his account of living tradition.
 
 ## Relationships
 
-- [[HuzuoHuyou]] - podcast on which he presents the tea investigation.
+- [[HuzuoHuyou]] - podcast on which he presents both investigations.
 - [[TeaMarketAuthenticity]] - traceability problem central to his critique of famous-tea claims.
 - [[TeaTerroirAndCraft]] - material framework joining place, plant, processing, and preparation.
-- [[PuerTeaFinancialization]] - market and storage cycle he analyzes through collectors and inventory.
-- [[ChineseTeaTraditionReconstruction]] - historical interpretation supported by his discontinuity cases.
-- [[EastAsianTeaCulturalExchange]] - reciprocal regional development emphasized in his account.
-- [[FieldworkAsKnowledgeMethod]] - broader method exemplified by visits, interviews, and physical comparison.
+- [[JiangnanSeasonalCuisine]] - food system he interprets through season, locality, craft, and social practice.
+- [[CulinaryTraditionReconstruction]] - historical discontinuity and revival pattern in the food account.
+- [[RegionalFoodBrandFormation]] - mechanism connecting famous dishes with wealth, writing, markets, and tourism.
+- [[FieldworkAsKnowledgeMethod]] - broader method exemplified by visits, interviews, meals, and physical comparison.

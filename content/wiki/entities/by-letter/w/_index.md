@@ -1605,7 +1605,7 @@ wiki_pages:
     title: "王恢 / Wang Hui (Western Han)"
     url: "/wiki/entities/wanghuiwesternhan/"
   - key: "WangKaiTeaWriter"
-    title: "王恺 / Wang Kai (tea writer)"
+    title: "王恺 / Wang Kai (tea and food writer)"
     url: "/wiki/entities/wangkaiteawriter/"
   - key: "WangChengLiGuStudent"
     title: "王成 / Wang Cheng (Li Gu student)"
