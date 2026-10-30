@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3682
+topic_total_pages: 3684
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3238,6 +3238,9 @@ topic_concepts:
   - key: "MachineCreativityThreat"
     title: "Machine Creativity Threat"
     url: "/wiki/concepts/machinecreativitythreat/"
+  - key: "MagneticTapeColdStorage"
+    title: "Magnetic Tape Cold Storage / 磁带冷存储"
+    url: "/wiki/concepts/magnetictapecoldstorage/"
   - key: "MakerOperatingSystem"
     title: "Maker Operating System"
     url: "/wiki/concepts/makeroperatingsystem/"
@@ -11025,6 +11028,9 @@ topic_sources:
   - key: "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429"
     title: "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24"
     url: "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+  - key: "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb"
+    title: "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？"
+    url: "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
   - key: "dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls"
     title: "达霏欣｜国内航司调整航线布局，减肥药流行或影响啤酒业"
     url: "/wiki/sources/dafeixin-guonei-hangsi-tiaozheng-hangxian-buju-jianfeiyao-liuxing-huo-yingxiang-pijiuye-gkwriaiotragi7matv3jls/"

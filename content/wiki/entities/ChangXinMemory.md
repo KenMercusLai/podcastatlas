@@ -10,7 +10,8 @@ sources:
   - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
   - no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189
   - jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449
-last_updated: 2026-10-04
+  - dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb
+last_updated: 2026-10-30
 ---
 
 # ChangXin Memory / 长鑫存储
@@ -19,7 +20,7 @@ last_updated: 2026-10-04
 ChangXin Memory is a Chinese memory-chip company built around DRAM and now reported to be exploring HBM and NAND, making it a case of state-supported hard-tech capacity, customer qualification, and cross-segment memory competition.
 
 ## Current Profile
-ChangXin's established wiki role is the domestic DRAM counterpart to [[YangtzeMemoryTechnologies|Yangtze Memory Technologies]] on NAND. Its profile now spans limited PC adoption, reported Apple testing under capacity constraints, possible HBM work, and a reported Beijing NAND line. The direction suggests broader memory ambition, but public technical and capacity evidence remains limited.
+ChangXin's established wiki role is the domestic DRAM counterpart to [[YangtzeMemoryTechnologies|Yangtze Memory Technologies]] on NAND. Its profile now spans limited PC adoption, reported Apple testing under capacity constraints, HBM development and customer testing, and a reported Beijing NAND line. The newest source makes HBM more concrete but also more qualified: reported yield remains roughly 20%-30% versus about 70% for SK Hynix, and tested performance is described as nearer an older SK Hynix generation. The direction suggests broader memory ambition, but public technical, qualification, yield, and capacity evidence remains limited.
 
 ## Key Characteristics
 - Grew from a Hefei-backed, capital-intensive DRAM project.
@@ -27,6 +28,7 @@ ChangXin's established wiki role is the domestic DRAM counterpart to [[YangtzeMe
 - Operates under capacity, qualification, and incumbent-supplier constraints.
 - Is associated with early domestic HBM work for AI accelerators.
 - Is reported to be crossing from DRAM into NAND.
+- Its HBM progress is constrained by reported yield, generation, and customer-qualification gaps.
 
 ## Evidence
 - Industrial foundation: [[no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]] places ChangXin inside the [[HefeiIndustrialInvestmentModel]] and traces its public-capital origins.
@@ -34,13 +36,15 @@ ChangXin's established wiki role is the domestic DRAM counterpart to [[YangtzeMe
 - Customer insertion: [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] reports limited use by HP, ASUS, and Acer; [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] reports Apple testing alongside full 2026 capacity.
 - Market uncertainty: [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] characterizes ChangXin as small but fast growing within a cyclical global market.
 - NAND expansion: [[jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449]] reports plans for a Beijing NAND research and production line plus customer discussions.
+- HBM qualification: [[dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb]] reports 20%-30% yields, performance nearer an older SK Hynix product, and tests with Chinese accelerator developers.
 
 ## Qualifications
-The sources repeatedly note limited public disclosure. Testing, discussions, and small-volume adoption do not establish mass qualification; the NAND line's process, yield, capacity, customers, and start date are not supplied. Memory expansion also remains exposed to [[StorageIndustryCyclicality]].
+The sources repeatedly note limited public disclosure. Testing, discussions, and small-volume adoption do not establish mass qualification. The newest HBM yield, generation, and customer-testing claims are episode-reported and not a primary technical disclosure; the NAND line's process, yield, capacity, customers, and start date are also not supplied. Memory expansion remains exposed to [[StorageIndustryCyclicality]].
 
 ## What Changed
 - Added the reported move from a DRAM-centered profile into NAND.
 - Reframed Yangtze Memory from a complementary domestic counterpart into a potential direct competitor.
+- Turned HBM from a possible direction into a reported development-and-testing program while adding explicit yield and generation gaps.
 
 ## Relationships
 - [[YangtzeMemoryTechnologies]] - established NAND supplier and emerging cross-segment competitor.
@@ -48,3 +52,4 @@ The sources repeatedly note limited public disclosure. Testing, discussions, and
 - [[HefeiIndustrialInvestmentModel]] - public-capital and production-investment context for ChangXin's formation.
 - [[AIStorageSupercycle]] - demand environment spanning HBM, DRAM, NAND, and capacity security.
 - [[StorageIndustryCyclicality]] - boom-bust structure that qualifies expansion plans.
+- [[HighBandwidthMemory]] - AI-memory category in which ChangXin is seeking qualification under material yield and generation constraints.

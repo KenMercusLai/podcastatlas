@@ -43888,9 +43888,9 @@
       "url": "/wiki/entities/changxilatehan/"
     },
     "ChangXinMemory": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
@@ -43933,9 +43933,16 @@
           "show": "声动早咖啡",
           "title": "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权",
           "url": "/wiki/sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449/"
+        },
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/changxinmemory/"
     },
     "ChangbanBattle": {
@@ -59070,9 +59077,9 @@
       "url": "/wiki/concepts/contactlenssafety/"
     },
     "ContemporaryHorrorFilmResurgence": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
@@ -59080,9 +59087,16 @@
           "show": "电影巨辩",
           "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
           "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        },
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/contemporaryhorrorfilmresurgence/"
     },
     "ContentAestheticOverMetrics": {
@@ -107988,6 +108002,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/fuhrerstateconsolidation/"
     },
+    "Fujifilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/fujifilm/"
+    },
     "FujiwaraMarriagePolitics": {
       "episode_count": 2,
       "show_count": 1,
@@ -129355,9 +129385,9 @@
       "url": "/wiki/concepts/highappointmentbargainingoverreach/"
     },
     "HighBandwidthMemory": {
-      "episode_count": 8,
-      "show_count": 5,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 6,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
@@ -129414,9 +129444,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        },
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/highbandwidthmemory/"
     },
     "HighBetaScienceFunding": {
@@ -145623,9 +145660,9 @@
       "url": "/wiki/concepts/internetmoraltrial/"
     },
     "InternetNativeFilmmakingPipeline": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
@@ -145640,9 +145677,16 @@
           "show": "罗永浩的十字路口",
           "title": "导演大鹏×罗永浩！我这两辈子",
           "url": "/wiki/sources/daoyan-dapeng-luoyonghao-wo-zhe-liang-beizi-liytv2s219yn3ox5dhr4z4mrovyt/"
+        },
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/internetnativefilmmakingpipeline/"
     },
     "InternetPoliticalAmplification": {
@@ -184123,6 +184167,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/magneticresonancesafetyandappropriateness/"
+    },
+    "MagneticTapeColdStorage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/magnetictapecoldstorage/"
     },
     "MagnusTheGood": {
       "episode_count": 1,
@@ -229520,9 +229580,9 @@
       "url": "/wiki/entities/premierleague/"
     },
     "PremiumCinemaExperienceEconomy": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
@@ -229537,9 +229597,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
           "url": "/wiki/sources/alamo-drafthouse-cinema-tim-and-karrie-league-2023-7bc6885b-e29f-4ae8-a587-2e17b1d8bea3/"
+        },
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/premiumcinemaexperienceeconomy/"
     },
     "PremiumIngredientHaloMarketing": {
@@ -291982,9 +292049,9 @@
       "url": "/wiki/concepts/unitreeipovaluation/"
     },
     "UnitreeRobotics": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 5,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -292041,9 +292108,16 @@
           "show": "晚点聊 LateTalk",
           "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
           "url": "/wiki/sources/184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898/"
+        },
+        {
+          "episode_file": "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
+          "key": "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb",
+          "show": "声动早咖啡",
+          "title": "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？",
+          "url": "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/unitreerobotics/"
     },
     "UnityMitford": {

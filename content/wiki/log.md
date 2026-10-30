@@ -38129,3 +38129,11 @@ Added source `88-audio-will-ahmed-int-88-audio-will-ahmed-int`; created [[WillAh
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | 达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？
+
+Added source `dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb`; created [[Fujifilm]] and [[MagneticTapeColdStorage]]; and resynthesized [[ContemporaryHorrorFilmResurgence]], [[InternetNativeFilmmakingPipeline]], [[PremiumCinemaExperienceEconomy]], [[ChangXinMemory]], [[HighBandwidthMemory]], and [[UnitreeRobotics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: horror's current strength combines low-cost portfolio economics, portable fear effects, internet-native concept and talent discovery, and a collective theatrical release of social anxiety, while long-form pacing and narrative still separate a viable feature from a cheap or viral scare; ChangXin's reported HBM development remains constrained by yield, generation, qualification, and integration; Unitree's reported revenue and R&D growth coexist with a buyer mix concentrated in research, education, and performance; and magnetic tape remains a complementary cold archive rather than a universal replacement for active storage. No settled contradiction was adopted. Product specifications, prices, earnings, cloud growth, memory yields, performance comparisons, capacity plans, robot shipment mix, budgets, box office, viewing totals, awards, and market shares remain episode-scoped because the supplied file is a structured summary rather than primary disclosures, audited datasets, or a full transcript. Broad Apple, Google, Microsoft, AI-search, cloud, show, general robotics, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,779 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

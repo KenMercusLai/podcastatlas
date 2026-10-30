@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13815
+wiki_total_pages: 13816
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "Fujian"
     title: "Fujian / 福建"
     url: "/wiki/entities/fujian/"
+  - key: "Fujifilm"
+    title: "Fujifilm / 富士胶片"
+    url: "/wiki/entities/fujifilm/"
   - key: "FujiwaraNoMichinaga"
     title: "Fujiwara no Michinaga"
     url: "/wiki/entities/fujiwaranomichinaga/"

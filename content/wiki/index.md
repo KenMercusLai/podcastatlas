@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？](sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb.md) — 声动早咖啡以恐怖片低成本组合、网络原生 IP、跨市场惊吓与影院集体体验解释类型复兴，并更新触屏 Mac、AI 搜索、HBM、磁带存储和宇树研发。
 - [WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight](sources/88-audio-will-ahmed-int-88-audio-will-ahmed-int.md) — All-In interview on WHOOP's subscription model, continuous physiological baselines, AI coaching, behavior correlations, health-data moat, athlete adoption, and wellness-versus-diagnosis boundary.
 - [124 三周年特辑｜情为何物：金庸三次婚姻大起底](sources/124-sanzhounian-teji-qingweihewu-jinyong-sanci-hunyin-daqidi-lpoe97u8t5ruruftf0og0-rclzn8.md) — 纸醉金迷FM以金庸三次婚姻辨析背叛、婚外情、财产、年龄差和文学原型，并区分承认、转述、争议与推测。
 - [Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today](sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886.md) — Tomorrow Today interview on cross-cultural leadership, execution accountability, transformation, crisis communication, and human judgment under AI.
@@ -4888,6 +4889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》](sources/47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t.md) — 怪东西以《十字军骑士》连接北方十字军、条顿骑士团、格伦瓦尔德战役、马尔堡与波兰民族记忆，并区分中世纪冲突和十九世纪民族主义投射。
 
 ## Entities
+- [Fujifilm / 富士胶片](entities/Fujifilm.md) — Japanese imaging and materials company expanding archival magnetic-tape capacity in response to reported AI-era retention demand.
 - [LeBron James](entities/LeBronJames.md) — Elite basketball player used as a case of long-term WHOOP adoption preceding a global ambassador relationship.
 - [Will Ahmed](entities/WillAhmed.md) — WHOOP founder and CEO connecting continuous wear, subscription alignment, personalized baselines, AI interpretation, and athlete adoption.
 - [杜冶芬 / Du Yefen](entities/DuYefen.md) — 金庸第一任妻子，其婚姻破裂主要留存在不对称的回忆与“背叛”争议中。
@@ -18787,6 +18789,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Magnetic Tape Cold Storage / 磁带冷存储](concepts/MagneticTapeColdStorage.md) — Low-cost, durable archival tier for infrequently accessed data, complementary to active SSD and hard-drive storage.
 - [Heart-Rate Variability](concepts/HeartRateVariability.md) — Beat-to-beat interval variation interpreted through personal baseline, recovery context, measurement quality, and diagnostic limits.
 - [Wearable Subscription Alignment](concepts/WearableSubscriptionAlignment.md) — Recurring-revenue hypothesis linking retention, ongoing service, meaningful hardware cadence, affordability, and privacy incentives.
 - [Wearable Behavior Correlation](concepts/WearableBehaviorCorrelation.md) — Self-tracking framework that turns logged behaviors and later physiology into hypotheses without mistaking association for causation.

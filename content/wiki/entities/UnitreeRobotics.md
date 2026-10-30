@@ -11,7 +11,8 @@ sources:
   - momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1
   - jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1
   - 184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898
-last_updated: 2026-10-15
+  - dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb
+last_updated: 2026-10-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ knowledge_schema: synthesis-v1
 Unitree Robotics is a Chinese robotics company used in the wiki as a leading robot-body, hardware-platform, and public-market valuation case.
 
 ## Current Profile
-Across the bounded source set, Unitree is strongest as a body-side and production-side robotics company. It is repeatedly described as important for stable, lower-cost, mass-producible robot hardware that can serve research, education, competitions, and ecosystem experimentation. The Q3 review argues that stronger general models can increase the value of this platform by expanding demand for capable bodies, while Unitree's source-reported 6B VLA and deployment toolchain connect hardware, models, and use. Its public-market profile remains qualified: listing performance, revenue growth, prior profitability, and sales placement do not settle humanoid product-market fit, manipulation capability, revenue quality, repurchase demand, or long-term valuation.
+Across the bounded source set, Unitree is strongest as a body-side and production-side robotics company. It is repeatedly described as important for stable, lower-cost, mass-producible robot hardware that can serve research, education, competitions, and ecosystem experimentation. The Q3 review argues that stronger general models can increase the value of this platform by expanding demand for capable bodies, while Unitree's source-reported 6B VLA, embodied-model spending, and deployment toolchain connect hardware, models, and use. The newest roundup reports strong revenue growth and higher R&D spending but also says research, education, and performance account for about 70% of humanoid shipments. Its public-market profile therefore remains qualified: listing performance, revenue growth, prior profitability, R&D inputs, and sales placement do not settle humanoid product-market fit, manipulation capability, revenue quality, repurchase demand, or long-term valuation.
 
 ## Key Characteristics
 - Unitree is a leading Chinese robot-body company whose strength is most consistently described as hardware, mass production, and platform availability.
@@ -29,8 +30,8 @@ Across the bounded source set, Unitree is strongest as a body-side and productio
 - Its listing made Unitree a public-market robotics signal, but valuation depends on separating existing business from humanoid, robot-brain, and platform option value.
 - The company appears in multiple sources as a body-first contrast to brain-first or full-stack routes such as [[Momenta]] and [[SuduTechnology]].
 - Unitree's source-reported sales leadership and production position do not by themselves settle humanoid commercialization, manipulation, or repeat-demand questions.
-- Its public market status now makes revenue composition, R&D conversion, buyer use, and six-month post-listing repricing more visible sector tests.
-- General-model progress may strengthen Unitree's platform value if the company keeps hardware accessible and model deployment practical without needing to own the frontier foundation model.
+- Its public market status makes revenue composition, R&D conversion, buyer use, shipment mix, and post-listing repricing more visible sector tests.
+- General-model progress may strengthen Unitree's platform value if the company keeps hardware accessible and model deployment practical, but reported revenue and R&D growth coexist with a buyer mix still concentrated in research, education, and performance.
 
 ## Evidence
 - Listing evidence: [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] and [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] report a large August 2026 listing-day valuation move, with figures kept source-scoped.
@@ -41,14 +42,16 @@ Across the bounded source set, Unitree is strongest as a body-side and productio
 - Route-contrast evidence: [[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] contrasts Unitree's body-side pioneering with Momenta's target-scene and robot-brain route.
 - Sales and valuation-test evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] places Unitree first in a reported domestic humanoid sales snapshot and says its post-listing public-market path will influence how investors read the sector.
 - Q3 platform evidence: [[184-yu-chenzhe-de-jushen-jibao-26q3-astra-chongji-hou-tongyong-moxing-hui-chidiao-robotics-ma-1ba74c4b-43e4-416c-aafe-f191fcb44898]] argues that Astra-style intelligence increases demand for good robot bodies and reports a 6B Unitree VLA intended to connect body, model, and deployment tooling.
+- Operating-update evidence: [[dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb]] reports RMB 1.8 billion first-three-quarter revenue, RMB 263 million R&D spending, greater embodied-model and compute investment, and a roughly 70% research/education/performance shipment mix.
 
 ## Qualifications
-Unitree's source profile is strong but not complete. The available notes do not provide audited financials, verified customer-retention cohorts, full sales definitions, or independently tested autonomy. Public-market value, founder paper wealth, revenue mix, the 6B model's performance, and data-hour claims should stay source-scoped. A hardware-platform lead can be commercially valuable while still leaving robot brains, dexterous manipulation, application ROI, certification risk, and repeat purchasing unresolved.
+Unitree's source profile is strong but not complete. The available notes do not provide audited financials, verified customer-retention cohorts, full sales or shipment definitions, or independently tested autonomy. Public-market value, founder paper wealth, revenue and shipment mix, R&D attribution, the 6B model's performance, and data-hour claims should stay source-scoped. A hardware-platform lead can be commercially valuable while still leaving robot brains, precise instruction-to-action coordination, dexterous manipulation, application ROI, certification risk, and repeat purchasing unresolved.
 
 ## What Changed
 - Added the Q3 thesis that general-model progress can increase robot-body and platform value.
 - Added the source-reported 6B VLA and deployment-toolchain role.
 - Preserved public-market, autonomy, revenue-quality, certification, and repeat-demand uncertainty.
+- Added reported revenue, R&D, embodied-model investment, and buyer-mix evidence while narrowing what growth proves about end-use deployment.
 
 ## Relationships
 - [[UnitreeIPOValuation]] - public-market valuation frame built around Unitree's listing and option value.

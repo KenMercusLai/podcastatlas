@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3586
+topic_total_pages: 3587
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10758,6 +10758,9 @@ topic_sources:
   - key: "jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir"
     title: "贾樟柯×罗永浩！成为贾樟柯（上）"
     url: "/wiki/sources/jiazhangke-luoyonghao-chengwei-jiazhangke-shang-lhruzjxljcfha9bk5k2hu_wdqcir/"
+  - key: "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb"
+    title: "达霏欣｜咖啡豆：好莱坞迎来恐怖片大年，为什么这类电影越来越多？"
+    url: "/wiki/sources/dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb/"
   - key: "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp"
     title: "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》"
     url: "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"

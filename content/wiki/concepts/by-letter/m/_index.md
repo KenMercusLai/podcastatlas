@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10909
+wiki_total_pages: 10910
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "MagneticResonanceSafetyAndAppropriateness"
     title: "Magnetic Resonance Safety and Appropriateness / 磁共振安全与适应证"
     url: "/wiki/concepts/magneticresonancesafetyandappropriateness/"
+  - key: "MagneticTapeColdStorage"
+    title: "Magnetic Tape Cold Storage / 磁带冷存储"
+    url: "/wiki/concepts/magnetictapecoldstorage/"
   - key: "MainContradictionAllocation"
     title: "Main Contradiction Allocation / 主要矛盾式资产配置"
     url: "/wiki/concepts/maincontradictionallocation/"

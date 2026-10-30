@@ -59598,6 +59598,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MagneticTapeColdStorage": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Magnify": [
     {
       "key": "economics",
@@ -104302,6 +104309,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "dafeixin-kafeidou-haolaiwu-yinglai-kongbupian-danian-weishenme-zhelei-dianying-yuelaiyueduo-gkwrimaoupw-aiz3rwtxwxnb": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn": [
