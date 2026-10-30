@@ -48287,6 +48287,36 @@
       "updated": "2026-10-29",
       "url": "/wiki/concepts/chinadevelopedautomotivearchitectureexport/"
     },
+    "ChinaDivorceRestrictions": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "CKwRIJED9JaOABAAAACE9iqG [CKwRIJED9JaOABAAAACE9iqG].md",
+          "key": "ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg",
+          "show": "无时差研究所",
+          "title": "EP158-从离婚冷静期看婚姻自由",
+          "url": "/wiki/sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/chinadivorcerestrictions/"
+    },
     "ChinaDualCirculationStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -52122,9 +52152,9 @@
       "url": "/wiki/entities/cledepeaubeaute/"
     },
     "CleanBreakDivorceModel": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The mourning show： the politics of Khamenei’s funeral [6a4b75084955fc4dc12ffcc7].md",
@@ -52139,9 +52169,16 @@
           "show": "无时差研究所",
           "title": "EP115-一个女孩儿是如何长大的",
           "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        },
+        {
+          "episode_file": "CKwRIJED9JaOABAAAACE9iqG [CKwRIJED9JaOABAAAACE9iqG].md",
+          "key": "ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg",
+          "show": "无时差研究所",
+          "title": "EP158-从离婚冷静期看婚姻自由",
+          "url": "/wiki/sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/cleanbreakdivorcemodel/"
     },
     "CleanOfficialCapacityGap": {
@@ -187399,6 +187436,29 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/marriagediplomacyasstrategicoption/"
     },
+    "MarriageExitFriction": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "CKwRIJED9JaOABAAAACE9iqG [CKwRIJED9JaOABAAAACE9iqG].md",
+          "key": "ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg",
+          "show": "无时差研究所",
+          "title": "EP158-从离婚冷静期看婚姻自由",
+          "url": "/wiki/sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/marriageexitfriction/"
+    },
     "MarriageIdealizationMismatch": {
       "episode_count": 1,
       "show_count": 1,
@@ -217022,9 +217082,9 @@
       "url": "/wiki/concepts/parentalsacrificereturnclaim/"
     },
     "ParentalSeparationProcessAndChildSecurity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
@@ -217032,9 +217092,16 @@
           "show": "无时差研究所",
           "title": "EP115-一个女孩儿是如何长大的",
           "url": "/wiki/sources/ep115-yige-nuhaier-shi-ruhe-zhangda-wkgo216r_s7z_i1ba6abesgukow003/"
+        },
+        {
+          "episode_file": "CKwRIJED9JaOABAAAACE9iqG [CKwRIJED9JaOABAAAACE9iqG].md",
+          "key": "ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg",
+          "show": "无时差研究所",
+          "title": "EP158-从离婚冷静期看婚姻自由",
+          "url": "/wiki/sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/parentalseparationprocessandchildsecurity/"
     },
     "Parentification": {
@@ -272243,9 +272310,9 @@
       "url": "/wiki/concepts/strongtrunkweakbranchcentralization/"
     },
     "StructuralConditionsOfFemaleIndependence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "wKgO216R_s7z_i1BA6ABeSguKOw003 [wKgO216R_s7z_i1BA6ABeSguKOw003].md",
@@ -272260,9 +272327,16 @@
           "show": "无时差研究所",
           "title": "EP114-每个孩子的归宿，都是原生家庭",
           "url": "/wiki/sources/ep114-meige-haizi-de-guisu-doushi-yuansheng-jiating-wkgo1v6jm4rqp7q-bvyzzt7v_ia573/"
+        },
+        {
+          "episode_file": "CKwRIJED9JaOABAAAACE9iqG [CKwRIJED9JaOABAAAACE9iqG].md",
+          "key": "ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg",
+          "show": "无时差研究所",
+          "title": "EP158-从离婚冷静期看婚姻自由",
+          "url": "/wiki/sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/structuralconditionsoffemaleindependence/"
     },
     "StructuralPathsToImperialReunification": {
