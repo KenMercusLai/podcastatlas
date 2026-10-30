@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 10910
+wiki_total_pages: 10913
 wiki_pages:
   - key: "QatariSmallStateSecurityStrategy"
     title: "Qatari Small-State Security Strategy"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "QualityValueInvesting"
     title: "Quality Value Investing"
     url: "/wiki/concepts/qualityvalueinvesting/"
+  - key: "QuantifiedBodyDiscipline"
+    title: "Quantified Body Discipline / 量化身体规训"
+    url: "/wiki/concepts/quantifiedbodydiscipline/"
   - key: "QuantifiedParenting"
     title: "Quantified Parenting"
     url: "/wiki/concepts/quantifiedparenting/"

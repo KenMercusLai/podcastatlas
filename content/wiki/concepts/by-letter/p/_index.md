@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10910
+wiki_total_pages: 10913
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "PlatformizedDramaProduction"
     title: "Platformized Drama Production"
     url: "/wiki/concepts/platformizeddramaproduction/"
+  - key: "PlatonicAthleticEducation"
+    title: "Platonic Athletic Education / 柏拉图式体育教育"
+    url: "/wiki/concepts/platonicathleticeducation/"
   - key: "PlatonicAtlantisPoliticalMyth"
     title: "Platonic Atlantis Political Myth"
     url: "/wiki/concepts/platonicatlantispoliticalmyth/"

@@ -38145,3 +38145,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | 374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？
+
+Added source `374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck`; created [[AthleticRegimenRigidity]], [[PlatonicAthleticEducation]], and [[QuantifiedBodyDiscipline]]; and resynthesized [[Plato]], [[Socrates]], and [[DushuBuchenglin]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: training science and body metrics can support practice without determining its purpose; optimization becomes brittle when deviation produces disproportionate anxiety or incapacity, and strength becomes courage only when joined to judgment, cultural education, and an account of what is worth pursuing. No settled contradiction was adopted. Greek terminology, Plato's training, Socratic endurance, generational trends, and metric effects remain episode-scoped, and the source does not diagnose clinical eating, exercise, or anxiety disorders. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,781 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

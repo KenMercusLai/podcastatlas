@@ -23268,6 +23268,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/athleticmasterybranding/"
     },
+    "AthleticRegimenRigidity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loqNzH9OZuX8N5pVid5E3pyjf1ck [loqNzH9OZuX8N5pVid5E3pyjf1ck].md",
+          "key": "374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck",
+          "show": "独树不成林",
+          "title": "374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？",
+          "url": "/wiki/sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/athleticregimenrigidity/"
+    },
     "Atlanta": {
       "episode_count": 1,
       "show_count": 1,
@@ -79717,9 +79733,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -79811,9 +79827,16 @@
           "show": "独树不成林",
           "title": "370-技术给了人类盲目的希望吗？《被缚的普罗米修斯》",
           "url": "/wiki/sources/370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd/"
+        },
+        {
+          "episode_file": "loqNzH9OZuX8N5pVid5E3pyjf1ck [loqNzH9OZuX8N5pVid5E3pyjf1ck].md",
+          "key": "374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck",
+          "show": "独树不成林",
+          "title": "374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？",
+          "url": "/wiki/sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -224482,9 +224505,9 @@
       "url": "/wiki/concepts/platformeddialectcirculation/"
     },
     "Plato": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -224520,10 +224543,33 @@
           "show": "独树不成林",
           "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
           "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+        },
+        {
+          "episode_file": "loqNzH9OZuX8N5pVid5E3pyjf1ck [loqNzH9OZuX8N5pVid5E3pyjf1ck].md",
+          "key": "374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck",
+          "show": "独树不成林",
+          "title": "374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？",
+          "url": "/wiki/sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/plato/"
+    },
+    "PlatonicAthleticEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loqNzH9OZuX8N5pVid5E3pyjf1ck [loqNzH9OZuX8N5pVid5E3pyjf1ck].md",
+          "key": "374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck",
+          "show": "独树不成林",
+          "title": "374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？",
+          "url": "/wiki/sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/platonicathleticeducation/"
     },
     "PlatonicAtlantisPoliticalMyth": {
       "episode_count": 1,
@@ -236450,6 +236496,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/qualityvalueinvesting/"
+    },
+    "QuantifiedBodyDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loqNzH9OZuX8N5pVid5E3pyjf1ck [loqNzH9OZuX8N5pVid5E3pyjf1ck].md",
+          "key": "374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck",
+          "show": "独树不成林",
+          "title": "374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？",
+          "url": "/wiki/sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/quantifiedbodydiscipline/"
     },
     "QuantileBalancing": {
       "episode_count": 2,
@@ -265410,6 +265472,43 @@
       ],
       "updated": "2026-10-27",
       "url": "/wiki/concepts/sociologysinicization/"
+    },
+    "Socrates": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "162.财富的本质，以及自由的真正含义｜串台十分吸引 [loFYxFhIPrud7zVEkuFExsjHTust].md",
+          "key": "162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust",
+          "show": "起朱楼宴宾客",
+          "title": "162.财富的本质，以及自由的真正含义｜串台十分吸引",
+          "url": "/wiki/sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust/"
+        },
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "loqNzH9OZuX8N5pVid5E3pyjf1ck [loqNzH9OZuX8N5pVid5E3pyjf1ck].md",
+          "key": "374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck",
+          "show": "独树不成林",
+          "title": "374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？",
+          "url": "/wiki/sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/socrates/"
     },
     "SocratesFootballer": {
       "episode_count": 1,

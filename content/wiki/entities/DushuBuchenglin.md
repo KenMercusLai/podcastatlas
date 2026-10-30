@@ -17,7 +17,8 @@ sources:
   - 302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d
   - 299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn
   - 370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd
-last_updated: 2026-10-15
+  - 374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck
+last_updated: 2026-10-30
 ---
 
 # 独树不成林 / Dushu Buchenglin
@@ -44,11 +45,13 @@ The cross-platform episode turns that method back onto the show's own public rec
 
 The Prometheus episode adds Greek tragedy as a technology-philosophy instrument. [[PrometheusBound|《被缚的普罗米修斯》]] separates foresight from control, craft from authority over purpose, and probability from destiny. Its “blind hopes” frame explains why people act without guarantees, while [[Io]]'s insistence on knowing her future qualifies benevolent protection through informational autonomy.
 
+The fitness episode returns to Plato but shifts from algorithmic perception to embodied education. It connects the *Republic*'s criticism of professional-athlete *diaita* to training plans, nutrition budgets, recovery metrics, and wearable scores, then asks whether optimization builds adaptable courage or makes everyday life answer to the regime. [[PlatonicAthleticEducation]], [[AthleticRegimenRigidity]], and [[QuantifiedBodyDiscipline]] extend the show's recurring distinction between useful technique and the purposes technique cannot settle.
+
 ## Key Characteristics
 
 - Political-philosophy reading context that uses thinkers, texts, and tragic characters rather than operating as a purely literary, news, or advice show in the current wiki record.
 - Uses canonical thinkers, histories, and institutions to clarify contemporary media, governance, language, power, and relationship problems.
-- Moves between public systems and ordinary life, from algorithms, dictionaries, and statecraft to speech, embodiment, and choice.
+- Moves between public systems and ordinary life, from algorithms, dictionaries, and statecraft to speech, embodiment, choice, and fitness routines.
 - Preserves distinctions that simple binaries flatten: filtering versus lying, analysis versus endorsement, rights versus explanation, fluency versus conceptual adequacy, and description versus prescription.
 - Treats intellectual traditions and language standards as revisable resources rather than fixed authorities or disposable relics.
 - Connects normative standards to institutional feasibility, including publishing incentives, translation labor, lexicographical training, government influence, market pressure, state development capacity, and family coordination under platform pressure.
@@ -65,17 +68,18 @@ The Prometheus episode adds Greek tragedy as a technology-philosophy instrument.
 - Childhood and platform policy: [[302-guojia-yinggai-lifa-jinzhi-qingshaonian-shiyong-shejiao-meiti-ma-lljqs1xddfaoul1cd1ejvy-i2w3d]] moves from Haidt's developmental diagnosis to parent coordination, phone-free schools, age rules, real-world substitutes, and the unequal private capacity to provide them.
 - Public identity and platform reception: [[299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn]] connects offline relationship context, one-voice creator pressure, visible-minority platform culture, issue-focused disagreement, and self-sealing jargon.
 - Greek tragedy and technology: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] uses Prometheus, Hephaestus, and Io to distinguish knowledge, control, hope, purpose, and disclosure.
+- Fitness and education: [[374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck]] uses Plato to distinguish strength from courage, useful measurement from metric rule, and disciplined practice from a brittle whole-life regime.
 
 ## Qualifications
 
-The profile remains limited to thirteen ingested source notes and does not establish the show’s full host roster, history, catalog, or methodological consistency. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and cross-platform reception claims, Paglia-derived psychoanalytic claims, linguistic and etymological claims, translation-industry figures, dictionary-history details, Gulf economic figures, youth mental-health mechanisms, Greek textual claims, and long-run cultural or political comparisons should not be generalized as settled empirical findings. The platform episode explicitly discusses visible participants rather than representative users and does not isolate design, recommendation, moderation, audience, or timing. The dictionary episode is especially stronger on American than Chinese lexicographical history, the Saudi episode is an interpretive political argument rather than an independent policy audit, the youth-policy episode gives less attention to privacy, evasion, speech access, and age-verification tradeoffs than later sources, and the Prometheus episode is a philosophical interpretation rather than a full philological or authorship study.
+The profile remains limited to fourteen ingested source notes and does not establish the show’s full host roster, history, catalog, or methodological consistency. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and cross-platform reception claims, Paglia-derived psychoanalytic claims, linguistic and etymological claims, translation-industry figures, dictionary-history details, Gulf economic figures, youth mental-health mechanisms, Greek textual claims, fitness-culture observations, and long-run cultural or political comparisons should not be generalized as settled empirical findings. The platform episode explicitly discusses visible participants rather than representative users and does not isolate design, recommendation, moderation, audience, or timing. The dictionary episode is especially stronger on American than Chinese lexicographical history, the Saudi episode is an interpretive political argument rather than an independent policy audit, the youth-policy episode gives less attention to privacy, evasion, speech access, and age-verification tradeoffs than later sources, and the Prometheus and fitness episodes are philosophical interpretations rather than full philological, clinical, or empirical studies.
 
 ## What Changed
 
-- Added Greek tragedy as a technology-philosophy method.
-- Distinguished foresight from control and technical effectiveness from justified purpose.
-- Added blind hope as both an action condition and an epistemic risk.
-- Added Io's demand for disclosure as an autonomy qualification on protective ignorance.
+- Added bodily training and self-tracking to the show's political-philosophy range.
+- Distinguished strength and pain tolerance from courage governed by judgment.
+- Added rigidity as a failure mode of highly optimized training and nutrition routines.
+- Treated fitness metrics as useful evidence that can become a system of self-rule.
 
 ## Relationships
 
@@ -108,3 +112,6 @@ The profile remains limited to thirteen ingested source notes and does not estab
 - [[KnowledgeControlBoundary]] - distinction between prediction and command of outcomes.
 - [[BlindHopeUnderUncertainty]] - account of action when knowledge and guarantees remain incomplete.
 - [[TechnicalCapabilityValueBoundary]] - distinction between effective means and justified ends.
+- [[PlatonicAthleticEducation]] - physical and cultural education as coordinated character formation.
+- [[AthleticRegimenRigidity]] - loss of adaptability when regimen compliance becomes the goal.
+- [[QuantifiedBodyDiscipline]] - self-governance through training, nutrition, recovery, and wearable metrics.
