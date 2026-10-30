@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10922
+wiki_total_pages: 10925
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "AIComputeBruteForceScience"
     title: "AI Compute Brute-Force Science"
     url: "/wiki/concepts/aicomputebruteforcescience/"
+  - key: "AIComputeCommitmentDurationMismatch"
+    title: "AI Compute Commitment-Duration Mismatch"
+    url: "/wiki/concepts/aicomputecommitmentdurationmismatch/"
   - key: "AIComputeContinuity"
     title: "AI Compute Continuity"
     url: "/wiki/concepts/aicomputecontinuity/"

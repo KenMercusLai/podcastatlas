@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3688
+topic_total_pages: 3692
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -340,6 +340,9 @@ topic_concepts:
   - key: "AIComputeBruteForceScience"
     title: "AI Compute Brute-Force Science"
     url: "/wiki/concepts/aicomputebruteforcescience/"
+  - key: "AIComputeCommitmentDurationMismatch"
+    title: "AI Compute Commitment-Duration Mismatch"
+    url: "/wiki/concepts/aicomputecommitmentdurationmismatch/"
   - key: "AIComputeContinuity"
     title: "AI Compute Continuity"
     url: "/wiki/concepts/aicomputecontinuity/"
@@ -2464,6 +2467,9 @@ topic_concepts:
   - key: "FootballImperialNetworkDiffusion"
     title: "Football Imperial Network Diffusion"
     url: "/wiki/concepts/footballimperialnetworkdiffusion/"
+  - key: "FoundationModelValueCaptureExpansion"
+    title: "Foundation Model Value-Capture Expansion"
+    url: "/wiki/concepts/foundationmodelvaluecaptureexpansion/"
   - key: "FounderMode"
     title: "Founder Mode"
     url: "/wiki/concepts/foundermode/"
@@ -2491,6 +2497,9 @@ topic_concepts:
   - key: "FrontierModelAccessRestrictions"
     title: "Frontier Model Access Restrictions"
     url: "/wiki/concepts/frontiermodelaccessrestrictions/"
+  - key: "FrontierModelCommercialHalfLife"
+    title: "Frontier Model Commercial Half-Life"
+    url: "/wiki/concepts/frontiermodelcommercialhalflife/"
   - key: "FrontierModelCyberMisuse"
     title: "Frontier Model Cyber Misuse"
     url: "/wiki/concepts/frontiermodelcybermisuse/"
@@ -9591,6 +9600,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420"
     title: "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+  - key: "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f"
+    title: "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34"
+    url: "/wiki/sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f/"
   - key: "2b2e96d8aea7-2b2e96d8aea7"
     title: "Anthropic口中的AI安全，为什么听起来像一场生意保卫战？"
     url: "/wiki/sources/2b2e96d8aea7-2b2e96d8aea7/"

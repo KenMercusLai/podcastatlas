@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10922
+wiki_total_pages: 10925
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "ForwardDeployedProductManager"
     title: "Forward Deployed Product Manager"
     url: "/wiki/concepts/forwarddeployedproductmanager/"
+  - key: "FoundationModelValueCaptureExpansion"
+    title: "Foundation Model Value-Capture Expansion"
+    url: "/wiki/concepts/foundationmodelvaluecaptureexpansion/"
   - key: "FoundationOwnedBrandStewardship"
     title: "Foundation-Owned Brand Stewardship"
     url: "/wiki/concepts/foundationownedbrandstewardship/"
@@ -1457,6 +1460,9 @@ wiki_pages:
   - key: "FrontierModelAccessRestrictions"
     title: "Frontier Model Access Restrictions"
     url: "/wiki/concepts/frontiermodelaccessrestrictions/"
+  - key: "FrontierModelCommercialHalfLife"
+    title: "Frontier Model Commercial Half-Life"
+    url: "/wiki/concepts/frontiermodelcommercialhalflife/"
   - key: "FrontierModelCyberMisuse"
     title: "Frontier Model Cyber Misuse"
     url: "/wiki/concepts/frontiermodelcybermisuse/"

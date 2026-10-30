@@ -19,6 +19,10 @@
     "title": "031 趣话古龙《楚留香传奇：血海飘香》",
     "url": "/wiki/sources/031-quhua-gulong-chuliuxiang-chuanqi-xuehai-piaoxiang-ljyk3bfdjhkzwhnu-29oqs8ugeps/"
   },
+  "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f": {
+    "title": "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34",
+    "url": "/wiki/sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f/"
+  },
   "04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843": {
     "title": "04.切尔诺贝利的午夜： “我要进监狱了。”",
     "url": "/wiki/sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843/"
@@ -5418,6 +5422,10 @@
   "AIComputeBruteForceScience": {
     "title": "AI Compute Brute-Force Science",
     "url": "/wiki/concepts/aicomputebruteforcescience/"
+  },
+  "AIComputeCommitmentDurationMismatch": {
+    "title": "AI Compute Commitment-Duration Mismatch",
+    "url": "/wiki/concepts/aicomputecommitmentdurationmismatch/"
   },
   "AIComputeContinuity": {
     "title": "AI Compute Continuity",
@@ -35755,6 +35763,10 @@
     "title": "Foundation for Individual Rights and Expression",
     "url": "/wiki/entities/foundationforindividualrightsandexpression/"
   },
+  "FoundationModelValueCaptureExpansion": {
+    "title": "Foundation Model Value-Capture Expansion",
+    "url": "/wiki/concepts/foundationmodelvaluecaptureexpansion/"
+  },
   "FoundationOwnedBrandStewardship": {
     "title": "Foundation-Owned Brand Stewardship",
     "url": "/wiki/concepts/foundationownedbrandstewardship/"
@@ -36638,6 +36650,10 @@
   "FrontierModelAccessRestrictions": {
     "title": "Frontier Model Access Restrictions",
     "url": "/wiki/concepts/frontiermodelaccessrestrictions/"
+  },
+  "FrontierModelCommercialHalfLife": {
+    "title": "Frontier Model Commercial Half-Life",
+    "url": "/wiki/concepts/frontiermodelcommercialhalflife/"
   },
   "FrontierModelCyberMisuse": {
     "title": "Frontier Model Cyber Misuse",

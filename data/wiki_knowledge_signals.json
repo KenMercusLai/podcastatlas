@@ -1754,9 +1754,9 @@
       "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
     },
     "AICodingMarketConcentration": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon’s Anthropic Deal, The Next AI Monopoly？, “FDA for AI” Panic, Trading the AI Boom [41231285].md",
@@ -1764,9 +1764,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
+        },
+        {
+          "episode_file": "03e51cc1-020d-4c30-8c07-8f8614b46e7f [03e51cc1-020d-4c30-8c07-8f8614b46e7f].md",
+          "key": "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f",
+          "show": "What's Next｜科技早知道",
+          "title": "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34",
+          "url": "/wiki/sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/aicodingmarketconcentration/"
     },
     "AICodingVerticalIntegration": {
@@ -2160,6 +2167,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/aicomputebruteforcescience/"
+    },
+    "AIComputeCommitmentDurationMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "03e51cc1-020d-4c30-8c07-8f8614b46e7f [03e51cc1-020d-4c30-8c07-8f8614b46e7f].md",
+          "key": "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f",
+          "show": "What's Next｜科技早知道",
+          "title": "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34",
+          "url": "/wiki/sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/aicomputecommitmentdurationmismatch/"
     },
     "AIComputePriceRisk": {
       "episode_count": 3,
@@ -103994,6 +104017,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/foundationforindividualrightsandexpression/"
     },
+    "FoundationModelValueCaptureExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "03e51cc1-020d-4c30-8c07-8f8614b46e7f [03e51cc1-020d-4c30-8c07-8f8614b46e7f].md",
+          "key": "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f",
+          "show": "What's Next｜科技早知道",
+          "title": "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34",
+          "url": "/wiki/sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/foundationmodelvaluecaptureexpansion/"
+    },
     "FoundationalImmuneHealthFramework": {
       "episode_count": 5,
       "show_count": 2,
@@ -107132,6 +107171,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/frontierdefensivepatience/"
+    },
+    "FrontierModelCommercialHalfLife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "03e51cc1-020d-4c30-8c07-8f8614b46e7f [03e51cc1-020d-4c30-8c07-8f8614b46e7f].md",
+          "key": "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f",
+          "show": "What's Next｜科技早知道",
+          "title": "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34",
+          "url": "/wiki/sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/frontiermodelcommercialhalflife/"
     },
     "FrontierModelDisclosure": {
       "episode_count": 1,

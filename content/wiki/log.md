@@ -38177,3 +38177,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
+
+Added source `03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f`; created [[FrontierModelCommercialHalfLife]], [[AIComputeCommitmentDurationMismatch]], and [[FoundationModelValueCaptureExpansion]]; and resynthesized [[AICodingMarketConcentration]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: frontier-model demand can be real and rapidly growing while each model generation has a short commercial life; long compute obligations remain exposed when customer commitments are shorter; coding can address broad digital production without guaranteeing a durable provider monopoly; and moving from API supply into outcome participation expands both the value pool and delivery risk. No settled contradiction was adopted. Revenue, retention, losses, non-cash adjustments, valuation, model-vintage mix, cloud-channel share, compute commitments, productivity, customer concentration, Chinese-lab comparisons, index inclusion, and investment conclusions remain episode-scoped because the supplied file is a structured summary rather than the prospectus, audited statements, contracts, or a transcript. Broad Anthropic, Claude, show, IPO, revenue, capex, infrastructure, open-model, and pricing pages were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting automatic `wiki/overview.md`. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,785 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

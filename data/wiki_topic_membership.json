@@ -34,6 +34,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "040-quhua-gulong-chuliuxiang-chuanqi-dashamo-yandie-wei-shuangyi-huaxiang-man-renjian-lmfe0v3faqbpoy1rwqgdhp7djy1b": [
     {
       "key": "culture",
@@ -9434,6 +9441,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AIComputeCommitmentDurationMismatch": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AIComputeContinuity": [
@@ -39361,6 +39375,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FoundationModelValueCaptureExpansion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "FoundationOwnedBrandStewardship": [
     {
       "key": "politics",
@@ -40327,6 +40348,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FrontierModelCommercialHalfLife": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FrontierModelCyberMisuse": [

@@ -4892,6 +4892,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compassion Can Change the World | Kailash Satyarthi on Child Labour, AI and the Future of Humanity | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390-default-mp3-ywr3ahjkcgo-23916f7db5fae55cf32448ade9833313-57996390.md) — Tomorrow Today interview connecting child-labour rescue, consumer campaigning, GoodWeave certification, transformative compassion, compassionate AI, and a proposed Compassion Quotient.
 
 - [47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》](sources/47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t.md) — 怪东西以《十字军骑士》连接北方十字军、条顿骑士团、格伦瓦尔德战役、马尔堡与波兰民族记忆，并区分中世纪冲突和十九世纪民族主义投射。
+- [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
 - [Cicely Gemmell](entities/CicelyGemmell.md) — Churchill's postwar personal secretary, archive worker, household assistant, and later New York magazine employee.
@@ -29814,5 +29815,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compassion Quotient](concepts/CompassionQuotient.md) — Proposed trainable measure of compassion through awareness, connectedness, feeling, and action, with unresolved validation and gaming risks.
 - [Northern Crusades / 北方十字军](concepts/NorthernCrusades.md) — Baltic crusading field joining conversion, conquest, settlement, administration, and territorial state formation.
 - [Nationalist Historical Fiction / 民族主义历史小说](concepts/NationalistHistoricalFiction.md) — Historical storytelling that can preserve subordinated cultures while projecting modern national categories onto earlier worlds.
+- [Frontier Model Commercial Half-Life](concepts/FrontierModelCommercialHalfLife.md) — Period in which a model generation remains commercially material before newer capability, pricing, routing, or substitutes erode demand.
+- [AI Compute Commitment-Duration Mismatch](concepts/AIComputeCommitmentDurationMismatch.md) — Exposure created when long-lived compute and infrastructure obligations outlast customer purchase commitments.
+- [Foundation Model Value-Capture Expansion](concepts/FoundationModelValueCaptureExpansion.md) — Move from selling model access toward participating in workflows, products, transactions, and measurable outcomes.
 
 ## Syntheses
