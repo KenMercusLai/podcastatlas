@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2337
+topic_total_pages: 2338
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -133,6 +133,9 @@ topic_concepts:
   - key: "AICapexReturnWindow"
     title: "AI Capex Return Window"
     url: "/wiki/concepts/aicapexreturnwindow/"
+  - key: "AICapitalMarketCrowding"
+    title: "AI Capital-Market Crowding"
+    url: "/wiki/concepts/aicapitalmarketcrowding/"
   - key: "AICodingMarketConcentration"
     title: "AI Coding Market Concentration"
     url: "/wiki/concepts/aicodingmarketconcentration/"

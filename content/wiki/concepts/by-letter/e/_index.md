@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10932
+wiki_total_pages: 10935
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "EnterpriseAIROIAudit"
     title: "Enterprise AI ROI Audit"
     url: "/wiki/concepts/enterpriseairoiaudit/"
+  - key: "EnterpriseAISpendEscalation"
+    title: "Enterprise AI Spend Escalation"
+    url: "/wiki/concepts/enterpriseaispendescalation/"
   - key: "EnterpriseConnectorContextQuality"
     title: "Enterprise Connector Context Quality"
     url: "/wiki/concepts/enterpriseconnectorcontextquality/"

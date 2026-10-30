@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions](sources/allin-e295-ch-allin-e295-ch.md) — All-In on Anthropic's reported IPO economics, enterprise-spend progression, compute and capital constraints, Alphabet's portfolio transition, and contested midterm forecasts.
 - [2026秋季篇E07 家族悲剧，福冈母亲杀女事件](sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9.md) — 日谈物语 excerpt situating a 2006 Fukuoka case through Tojinmachi geography and family background before stopping short of the killing, disability connection, investigation, or outcome.
 - [E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯](sources/lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8.md) — 知行小酒馆对话郭凯，区分新旧经济贡献交叉与家庭体感修复，并以家庭分散承压、轻信贷转型和财税传导解释不同步。
 - [Vol. 177 违背祖训！MacBook Pro出触摸屏啦！](sources/podcast177-v1-podcast177-v1.md) — 枫言枫语以真实工作流评估触屏 MacBook Pro、本地 AI 硬件配置、分布式个人算力、HomeView 与智能家居生态迁移成本。
@@ -18804,6 +18805,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [AI Capital-Market Crowding](concepts/AICapitalMarketCrowding.md) — Risk that large AI and government financing needs compete for capital and transmit higher yields through infrastructure and the wider economy.
+- [Alphabet Portfolio Transition](concepts/AlphabetPortfolioTransition.md) — Shift from valuing Alphabet mainly as a search advertiser toward judging a diversified search, cloud, media, mobility, and investment portfolio.
+- [Enterprise AI Spend Escalation](concepts/EnterpriseAISpendEscalation.md) — Progression from experiments and small purchases into renewable, cross-functionally approved multimillion-dollar AI deployments.
 - [Touchscreen Laptop Ergonomics](concepts/TouchscreenLaptopErgonomics.md) — Evaluates laptop touch by repeated-use comfort, stability, reach, precision, cleanliness, and task substitution rather than feature availability alone.
 - [Smart Home Ecosystem Switching Cost](concepts/SmartHomeEcosystemSwitchingCost.md) — Hardware, protocol, setup, reliability, habit, and replacement burden involved in moving an installed household between control ecosystems.
 - [China Old–New Economy Crossover / 中国新旧经济贡献交叉](concepts/ChinaOldNewEconomyCrossover.md) — 新经济增长贡献超过房地产贡献、但不等于房价或家庭资产立即修复的结构性转折。

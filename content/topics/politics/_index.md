@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3442
+topic_total_pages: 3443
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9297,6 +9297,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g"
     title: "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
+  - key: "allin-e295-ch-allin-e295-ch"
+    title: "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions"
+    url: "/wiki/sources/allin-e295-ch-allin-e295-ch/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300"
     title: "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"

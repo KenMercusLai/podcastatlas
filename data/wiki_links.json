@@ -5323,6 +5323,10 @@
     "title": "AI Capex Return Window",
     "url": "/wiki/concepts/aicapexreturnwindow/"
   },
+  "AICapitalMarketCrowding": {
+    "title": "AI Capital-Market Crowding",
+    "url": "/wiki/concepts/aicapitalmarketcrowding/"
+  },
   "AICharacterPersonalitySystem": {
     "title": "AI Character Personality System / AI 角色人格系统",
     "url": "/wiki/concepts/aicharacterpersonalitysystem/"
@@ -9330,6 +9334,10 @@
   "Alphabet": {
     "title": "Alphabet",
     "url": "/wiki/entities/alphabet/"
+  },
+  "AlphabetPortfolioTransition": {
+    "title": "Alphabet Portfolio Transition",
+    "url": "/wiki/concepts/alphabetportfoliotransition/"
   },
   "Alstom": {
     "title": "Alstom / 阿尔斯通",
@@ -31630,6 +31638,10 @@
   "EnterpriseAIROIAudit": {
     "title": "Enterprise AI ROI Audit",
     "url": "/wiki/concepts/enterpriseairoiaudit/"
+  },
+  "EnterpriseAISpendEscalation": {
+    "title": "Enterprise AI Spend Escalation",
+    "url": "/wiki/concepts/enterpriseaispendescalation/"
   },
   "EnterpriseAgentControlLayer": {
     "title": "Enterprise Agent Control Layer",
@@ -104594,6 +104606,10 @@
   "allin-e294-ch-allin-e294-ch": {
     "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
     "url": "/wiki/sources/allin-e294-ch-allin-e294-ch/"
+  },
+  "allin-e295-ch-allin-e295-ch": {
+    "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+    "url": "/wiki/sources/allin-e295-ch-allin-e295-ch/"
   },
   "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": {
     "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",

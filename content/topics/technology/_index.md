@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3696
+topic_total_pages: 3698
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -274,6 +274,9 @@ topic_concepts:
   - key: "AICapexReturnWindow"
     title: "AI Capex Return Window"
     url: "/wiki/concepts/aicapexreturnwindow/"
+  - key: "AICapitalMarketCrowding"
+    title: "AI Capital-Market Crowding"
+    url: "/wiki/concepts/aicapitalmarketcrowding/"
   - key: "AICharacterPersonalitySystem"
     title: "AI Character Personality System / AI 角色人格系统"
     url: "/wiki/concepts/aicharacterpersonalitysystem/"
@@ -1249,6 +1252,9 @@ topic_concepts:
   - key: "AlgorithmicTrustMigration"
     title: "Algorithmic Trust Migration"
     url: "/wiki/concepts/algorithmictrustmigration/"
+  - key: "AlphabetPortfolioTransition"
+    title: "Alphabet Portfolio Transition"
+    url: "/wiki/concepts/alphabetportfoliotransition/"
   - key: "AmbientAIInterface"
     title: "Ambient AI Interface"
     url: "/wiki/concepts/ambientaiinterface/"

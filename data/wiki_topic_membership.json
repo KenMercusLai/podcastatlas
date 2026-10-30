@@ -9235,6 +9235,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AICapitalMarketCrowding": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AICharacterPersonalitySystem": [
     {
       "key": "technology",
@@ -14668,6 +14680,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AlphabetPortfolioTransition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AltamontFreeConcert": [
@@ -103810,6 +103829,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "allin-e295-ch-allin-e295-ch": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": [

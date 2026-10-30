@@ -149,8 +149,8 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-10-30",
       "latest_episode_file": "ALLIN-E295_Ch [ALLIN-E295_Ch].md",
-      "source_note_count": 108,
-      "topic_matched_source_note_count": 95,
+      "source_note_count": 109,
+      "topic_matched_source_note_count": 96,
       "topics": [
         {
           "key": "technology",
@@ -162,7 +162,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 34
+          "source_note_count": 35
         },
         {
           "key": "economics",
@@ -237,7 +237,7 @@
       ],
       "start_here_episode_files": [
         "88_AUDIO_WILL_AHMED_INT [88_AUDIO_WILL_AHMED_INT].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm .md",
+        "ALLIN-E295_Ch [ALLIN-E295_Ch].md",
         "AUDIO_200_Dylan_Field_INT_1 [AUDIO_200_Dylan_Field_INT_1].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md"
       ]

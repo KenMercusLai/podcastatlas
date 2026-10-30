@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10932
+wiki_total_pages: 10935
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "AICapexReturnWindow"
     title: "AI Capex Return Window"
     url: "/wiki/concepts/aicapexreturnwindow/"
+  - key: "AICapitalMarketCrowding"
+    title: "AI Capital-Market Crowding"
+    url: "/wiki/concepts/aicapitalmarketcrowding/"
   - key: "AICharacterPersonalitySystem"
     title: "AI Character Personality System / AI 角色人格系统"
     url: "/wiki/concepts/aicharacterpersonalitysystem/"
@@ -2063,6 +2066,9 @@ wiki_pages:
   - key: "AlphaDecay"
     title: "Alpha Decay"
     url: "/wiki/concepts/alphadecay/"
+  - key: "AlphabetPortfolioTransition"
+    title: "Alphabet Portfolio Transition"
+    url: "/wiki/concepts/alphabetportfoliotransition/"
   - key: "AlternativePaymentStackConsolidation"
     title: "Alternative Payment Stack Consolidation"
     url: "/wiki/concepts/alternativepaymentstackconsolidation/"
