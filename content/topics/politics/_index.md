@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3436
+topic_total_pages: 3440
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -454,6 +454,9 @@ topic_concepts:
   - key: "AutonomousAgentTransactionLiability"
     title: "Autonomous Agent Transaction Liability"
     url: "/wiki/concepts/autonomousagenttransactionliability/"
+  - key: "AutonomousAIIncidentDisclosure"
+    title: "Autonomous AI Incident Disclosure"
+    url: "/wiki/concepts/autonomousaiincidentdisclosure/"
   - key: "AutonomousVehicleRegulatoryPatchwork"
     title: "Autonomous Vehicle Regulatory Patchwork"
     url: "/wiki/concepts/autonomousvehicleregulatorypatchwork/"
@@ -1828,6 +1831,9 @@ topic_concepts:
   - key: "FrontierAIIPODisclosureRisk"
     title: "Frontier AI IPO Disclosure Risk"
     url: "/wiki/concepts/frontieraiipodisclosurerisk/"
+  - key: "FrontierAIIPOPoliticalRisk"
+    title: "Frontier AI IPO Political Risk"
+    url: "/wiki/concepts/frontieraiipopoliticalrisk/"
   - key: "FrontierCommandCollapse"
     title: "Frontier Command Collapse / 边郡军政崩盘"
     url: "/wiki/concepts/frontiercommandcollapse/"
@@ -1951,6 +1957,9 @@ topic_concepts:
   - key: "GovernmentDataSiloCollapse"
     title: "Government Data Silo Collapse"
     url: "/wiki/concepts/governmentdatasilocollapse/"
+  - key: "GovernmentModelAvailabilityLeverage"
+    title: "Government Model Availability Leverage"
+    url: "/wiki/concepts/governmentmodelavailabilityleverage/"
   - key: "GPSEnabledRepossession"
     title: "GPS-Enabled Repossession"
     url: "/wiki/concepts/gpsenabledrepossession/"
@@ -9582,6 +9591,9 @@ topic_sources:
   - key: "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf"
     title: "Peace fire: further US-Iran strikes"
     url: "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+  - key: "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128"
+    title: "Political pressure could complicate Anthropic's IPO"
+    url: "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
   - key: "default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693"
     title: "Politicians are afraid to fix taxes. So 100 citizens tried."
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693-default-mp3-ywr3ahjkcgo-37d6df278eb4f8aa8a6d7d4b11a5d11a-33480693/"

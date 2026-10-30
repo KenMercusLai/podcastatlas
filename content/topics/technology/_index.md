@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3684
+topic_total_pages: 3688
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1360,6 +1360,9 @@ topic_concepts:
   - key: "AutomotiveTechnologyLicensing"
     title: "Automotive Technology Licensing"
     url: "/wiki/concepts/automotivetechnologylicensing/"
+  - key: "AutonomousAIIncidentDisclosure"
+    title: "Autonomous AI Incident Disclosure"
+    url: "/wiki/concepts/autonomousaiincidentdisclosure/"
   - key: "AutonomousDrivingDataFlywheel"
     title: "Autonomous Driving Data Flywheel"
     url: "/wiki/concepts/autonomousdrivingdataflywheel/"
@@ -2482,6 +2485,9 @@ topic_concepts:
   - key: "FrontierAIIPODisclosureRisk"
     title: "Frontier AI IPO Disclosure Risk"
     url: "/wiki/concepts/frontieraiipodisclosurerisk/"
+  - key: "FrontierAIIPOPoliticalRisk"
+    title: "Frontier AI IPO Political Risk"
+    url: "/wiki/concepts/frontieraiipopoliticalrisk/"
   - key: "FrontierModelAccessRestrictions"
     title: "Frontier Model Access Restrictions"
     url: "/wiki/concepts/frontiermodelaccessrestrictions/"
@@ -2590,6 +2596,9 @@ topic_concepts:
   - key: "GovernmentBenefitFraudMatching"
     title: "Government Benefit Fraud Matching"
     url: "/wiki/concepts/governmentbenefitfraudmatching/"
+  - key: "GovernmentModelAvailabilityLeverage"
+    title: "Government Model Availability Leverage"
+    url: "/wiki/concepts/governmentmodelavailabilityleverage/"
   - key: "GovernmentShutdownDataBlindness"
     title: "Government Shutdown Data Blindness"
     url: "/wiki/concepts/governmentshutdowndatablindness/"
@@ -10401,6 +10410,9 @@ topic_sources:
   - key: "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio"
     title: "Paul Graham on Y Combinator's Growth, Myths, and the AI Era"
     url: "/wiki/sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio/"
+  - key: "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128"
+    title: "Political pressure could complicate Anthropic's IPO"
+    url: "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280"
     title: "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"

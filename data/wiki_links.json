@@ -12339,6 +12339,10 @@
     "title": "Autonomic Stress Training",
     "url": "/wiki/concepts/autonomicstresstraining/"
   },
+  "AutonomousAIIncidentDisclosure": {
+    "title": "Autonomous AI Incident Disclosure",
+    "url": "/wiki/concepts/autonomousaiincidentdisclosure/"
+  },
   "AutonomousAgentTransactionLiability": {
     "title": "Autonomous Agent Transaction Liability",
     "url": "/wiki/concepts/autonomousagenttransactionliability/"
@@ -36587,6 +36591,10 @@
     "title": "Frontier AI IPO Disclosure Risk",
     "url": "/wiki/concepts/frontieraiipodisclosurerisk/"
   },
+  "FrontierAIIPOPoliticalRisk": {
+    "title": "Frontier AI IPO Political Risk",
+    "url": "/wiki/concepts/frontieraiipopoliticalrisk/"
+  },
   "FrontierAgencyCommercialBoundary": {
     "title": "Frontier Agency-Commercial Boundary",
     "url": "/wiki/concepts/frontieragencycommercialboundary/"
@@ -39546,6 +39554,10 @@
   "GovernmentInnovation": {
     "title": "Government Innovation",
     "url": "/wiki/concepts/governmentinnovation/"
+  },
+  "GovernmentModelAvailabilityLeverage": {
+    "title": "Government Model Availability Leverage",
+    "url": "/wiki/concepts/governmentmodelavailabilityleverage/"
   },
   "GovernmentShutdownDataBlindness": {
     "title": "Government Shutdown Data Blindness",
@@ -110022,6 +110034,10 @@
   "tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128": {
     "title": "AI infrastructure is making smartphones pricier",
     "url": "/wiki/sources/tech-20261029-1029-mp-tech-pod-128-tech-20261029-1029-mp-tech-pod-128/"
+  },
+  "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128": {
+    "title": "Political pressure could complicate Anthropic's IPO",
+    "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

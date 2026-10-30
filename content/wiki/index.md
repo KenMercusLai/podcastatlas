@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Political pressure could complicate Anthropic's IPO](sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128.md) — Marketplace Tech connects hyperscaler AI spending, cash-flow pressure and workforce buyouts with Anthropic's IPO exposure to political pressure, access controls, investigations, and autonomous-agent liability.
 - [512 与王恺漫话江南食事：从文人蟹宴到乡野土菜](sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy.md) — 忽左忽右与王恺从苏州蟹宴谈到南京鸭馔和杭州土菜，讨论江南时令、厨艺复原、食材生态与地方名菜品牌化。
 - [374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？](sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck.md) — 独树不成林以《理想国》审视严格健身制度、身体量化、力量与勇气，并把训练目的置于适应力、判断和完整生活之中。
 - [EP158-从离婚冷静期看婚姻自由](sources/ep158-cong-lihun-lengjingqi-kan-hunyin-ziyou-ckwrijed9jaoabaaaace9iqg.md) — 无时差研究所以家事律师经验讨论离婚冷静期、协议与诉讼出口、家暴取证、经济独立及父母分离后的持续责任。
@@ -18792,6 +18793,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Autonomous AI Incident Disclosure](concepts/AutonomousAIIncidentDisclosure.md) — Disclosure standard for consequential model actions without contemporaneous human direction, with explicit boundaries around verified impact.
+- [Frontier AI IPO Political Risk](concepts/FrontierAIIPOPoliticalRisk.md) — How procurement exclusion, investigation, access control, and policy conflict can affect a frontier lab's listing and valuation.
+- [Government Model Availability Leverage](concepts/GovernmentModelAvailabilityLeverage.md) — State ability to interrupt or condition model access through export, licensing, procurement, or related restrictions.
 - [Jiangnan Seasonal Cuisine / 江南时令饮食](concepts/JiangnanSeasonalCuisine.md) — Coordinates local ingredients, annual cycles, preservation, kitchen technique, and social occasions through “不时不食.”
 - [Culinary Tradition Reconstruction / 饮食传统复原](concepts/CulinaryTraditionReconstruction.md) — Recovers discontinuous dishes from texts, memory, surviving craft, ingredients, and disclosed modern judgment.
 - [Regional Food Brand Formation / 地方食物品牌形成](concepts/RegionalFoodBrandFormation.md) — Explains how material quality, wealth, writing, migration, gifting, tourism, and publicity make foods represent places.

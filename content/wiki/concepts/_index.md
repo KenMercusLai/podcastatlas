@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10917
+wiki_total_pages: 10920
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3125,6 +3125,9 @@ wiki_pages:
   - key: "AutonomousAgentTransactionLiability"
     title: "Autonomous Agent Transaction Liability"
     url: "/wiki/concepts/autonomousagenttransactionliability/"
+  - key: "AutonomousAIIncidentDisclosure"
+    title: "Autonomous AI Incident Disclosure"
+    url: "/wiki/concepts/autonomousaiincidentdisclosure/"
   - key: "AutonomousDrivingDataFlywheel"
     title: "Autonomous Driving Data Flywheel"
     url: "/wiki/concepts/autonomousdrivingdataflywheel/"

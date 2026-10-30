@@ -38161,3 +38161,11 @@ Added source `512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiang
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | Political pressure could complicate Anthropic's IPO
+
+Added source `tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128`; created [[FrontierAIIPOPoliticalRisk]], [[GovernmentModelAvailabilityLeverage]], and [[AutonomousAIIncidentDisclosure]]; and resynthesized [[ComputeCapitalLaborReallocation]], [[AIConsumerProtectionEnforcement]], and [[DefenseAISupplyChainRisk]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: large AI infrastructure commitments can pressure cash conversion and coincide with workforce reductions without proving role-by-role automation; government procurement, export, and investigative powers can convert policy conflict into operational and IPO risk; and autonomous-agent incident disclosure must distinguish the system's action from verified downstream harm, especially around elections. No settled contradiction was adopted. Earnings figures, employee-plan motives, bond financing, IPO accounting, regulatory intent, export-control scope, defense litigation, FTC demands, and the Georgia incident remain episode-scoped because the supplied file is a structured summary rather than the underlying filings, orders, court records, investigative demands, or system logs. Broad company, show, search, cash-flow, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,783 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

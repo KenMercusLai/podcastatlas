@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10917
+wiki_total_pages: 10920
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1442,6 +1442,9 @@ wiki_pages:
   - key: "FrontierAIIPODisclosureRisk"
     title: "Frontier AI IPO Disclosure Risk"
     url: "/wiki/concepts/frontieraiipodisclosurerisk/"
+  - key: "FrontierAIIPOPoliticalRisk"
+    title: "Frontier AI IPO Political Risk"
+    url: "/wiki/concepts/frontieraiipopoliticalrisk/"
   - key: "FrontierAuxiliarySupplyFailure"
     title: "Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵"
     url: "/wiki/concepts/frontierauxiliarysupplyfailure/"

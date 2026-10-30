@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10917
+wiki_total_pages: 10920
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "GovernmentInnovation"
     title: "Government Innovation"
     url: "/wiki/concepts/governmentinnovation/"
+  - key: "GovernmentModelAvailabilityLeverage"
+    title: "Government Model Availability Leverage"
+    url: "/wiki/concepts/governmentmodelavailabilityleverage/"
   - key: "GovernmentShutdownDataBlindness"
     title: "Government Shutdown Data Blindness"
     url: "/wiki/concepts/governmentshutdowndatablindness/"

@@ -2222,9 +2222,9 @@
       "url": "/wiki/concepts/aiconsciousnessboundary/"
     },
     "AIConsumerProtectionEnforcement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
@@ -2232,9 +2232,16 @@
           "show": "Marketplace Tech",
           "title": "Trump and tech leaders agree to voluntary AI safety accord",
           "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261030_1030_MP_TECH_pod_128 [tech_20261030_1030_MP_TECH_pod_128].md",
+          "key": "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Political pressure could complicate Anthropic's IPO",
+          "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/aiconsumerprotectionenforcement/"
     },
     "AIContentCompressionLoss": {
@@ -25304,6 +25311,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/autonomicstresstraining/"
+    },
+    "AutonomousAIIncidentDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261030_1030_MP_TECH_pod_128 [tech_20261030_1030_MP_TECH_pod_128].md",
+          "key": "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Political pressure could complicate Anthropic's IPO",
+          "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/autonomousaiincidentdisclosure/"
     },
     "AutonomousAgentTransactionLiability": {
       "episode_count": 1,
@@ -57091,9 +57114,9 @@
       "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
     },
     "ComputeCapitalLaborReallocation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOt6KMAFx6cwTxDRfN [GKwRIDoOt6KMAFx6cwTxDRfN].md",
@@ -57101,9 +57124,16 @@
           "show": "声动早咖啡",
           "title": "达霏欣｜苹果新系统可以禁止「摇一摇」广告，张一鸣再登胡润百富榜首",
           "url": "/wiki/sources/dafeixin-pingguo-xin-xitong-keyi-jinzhi-yaoyiyao-guanggao-zhangyiming-zai-deng-hurun-baifu-bangshou-gkwridoot6kmafx6cwtxdrfn/"
+        },
+        {
+          "episode_file": "tech_20261030_1030_MP_TECH_pod_128 [tech_20261030_1030_MP_TECH_pod_128].md",
+          "key": "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Political pressure could complicate Anthropic's IPO",
+          "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/computecapitallaborreallocation/"
     },
     "ConcealedCapabilityTiming": {
@@ -70312,9 +70342,9 @@
       "url": "/wiki/concepts/defenseaiprocurement/"
     },
     "DefenseAISupplyChainRisk": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260306_0306_MP_TECH_pod_128 [tech_20260306_0306_MP_TECH_pod_128].md",
@@ -70343,9 +70373,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045/"
+        },
+        {
+          "episode_file": "tech_20261030_1030_MP_TECH_pod_128 [tech_20261030_1030_MP_TECH_pod_128].md",
+          "key": "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Political pressure could complicate Anthropic's IPO",
+          "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/defenseaisupplychainrisk/"
     },
     "DefenseIndustrialBaseReindustrialization": {
@@ -106875,6 +106912,22 @@
       "updated": "2026-10-17",
       "url": "/wiki/concepts/frontieraiipodisclosurerisk/"
     },
+    "FrontierAIIPOPoliticalRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261030_1030_MP_TECH_pod_128 [tech_20261030_1030_MP_TECH_pod_128].md",
+          "key": "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Political pressure could complicate Anthropic's IPO",
+          "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/frontieraiipopoliticalrisk/"
+    },
     "FrontierAgencyCommercialBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -117330,6 +117383,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/governmentinnovation/"
+    },
+    "GovernmentModelAvailabilityLeverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261030_1030_MP_TECH_pod_128 [tech_20261030_1030_MP_TECH_pod_128].md",
+          "key": "tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Political pressure could complicate Anthropic's IPO",
+          "url": "/wiki/sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/governmentmodelavailabilityleverage/"
     },
     "Gracchi": {
       "episode_count": 2,
