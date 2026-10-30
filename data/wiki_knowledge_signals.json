@@ -108501,6 +108501,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/fujiwaranomichinaga/"
     },
+    "FukuokaMotherDaughterKilling2006": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Fo1pQLFrGS7bU3Kr7eKm-mXjAow9 [Fo1pQLFrGS7bU3Kr7eKm-mXjAow9].md",
+          "key": "2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9",
+          "show": "日谈物语",
+          "title": "2026秋季篇E07 家族悲剧，福冈母亲杀女事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9/"
+        }
+      ],
+      "updated": "2026-10-31",
+      "url": "/wiki/entities/fukuokamotherdaughterkilling2006/"
+    },
     "FukushimaDaiichiNuclearPowerPlant": {
       "episode_count": 1,
       "show_count": 1,
@@ -207629,9 +207645,9 @@
       "url": "/wiki/entities/nitinmukesh/"
     },
     "NittanWuyu": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -207681,9 +207697,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E06 神秘的外国人！熊谷6人遇害事件",
           "url": "/wiki/sources/2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g/"
+        },
+        {
+          "episode_file": "Fo1pQLFrGS7bU3Kr7eKm-mXjAow9 [Fo1pQLFrGS7bU3Kr7eKm-mXjAow9].md",
+          "key": "2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9",
+          "show": "日谈物语",
+          "title": "2026秋季篇E07 家族悲剧，福冈母亲杀女事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9/"
         }
       ],
-      "updated": "2026-10-24",
+      "updated": "2026-10-31",
       "url": "/wiki/entities/nittanwuyu/"
     },
     "NiuJinLateHan": {

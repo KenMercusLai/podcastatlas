@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E07 家族悲剧，福冈母亲杀女事件](sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9.md) — 日谈物语 excerpt situating a 2006 Fukuoka case through Tojinmachi geography and family background before stopping short of the killing, disability connection, investigation, or outcome.
 - [E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯](sources/lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8.md) — 知行小酒馆对话郭凯，区分新旧经济贡献交叉与家庭体感修复，并以家庭分散承压、轻信贷转型和财税传导解释不同步。
 - [Vol. 177 违背祖训！MacBook Pro出触摸屏啦！](sources/podcast177-v1-podcast177-v1.md) — 枫言枫语以真实工作流评估触屏 MacBook Pro、本地 AI 硬件配置、分布式个人算力、HomeView 与智能家居生态迁移成本。
 - [186.何为中国经济新范式？｜对话CF40研究院院长郭凯](sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave.md) — 起朱楼宴宾客对话郭凯，以房地产拖累减弱、新经济贡献上升、家庭分散承压及财税传导解释中国增长范式的可能转折。
@@ -8912,8 +8913,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mavis](entities/MavisDuanReporter.md) — Reporter who frames Hong Kong's 旺旺 response as both animal solidarity and a test of changed public-action space.
 - [Mak Chi-ho / 麦志豪](entities/MakChiHoAnimalAdvocate.md) — Hong Kong animal-welfare advocate comparing earlier mainland-facing campaigns with the cautious 2026 旺旺 response.
 - [Hong Kong SPCA / 香港爱护动物协会](entities/HongKongSPCA.md) — Mainstream Hong Kong animal-protection body discussed through its statement and cruelty-footage takedown controversy.
-- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose 2026 autumn sequence connects individual cases to public health, environmental harm, medical ethics, labor, family pressure, public safety, and present uncertainty.
+- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose 2026 autumn sequence connects individual cases to public health, environmental harm, medical ethics, labor, family pressure, public safety, place history, and present uncertainty.
 - [2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件](entities/KumagayaSixMurders2015.md) — Transcript-limited case page covering only the initial residential encounter and help-seeking call, not the six deaths, investigation, or outcome.
+- [2006 Fukuoka Mother-Daughter Killing / 2006年福冈母亲杀女事件](entities/FukuokaMotherDaughterKilling2006.md) — Transcript-limited case page covering only Tojinmachi context and a family introduction, not the killing, disability connection, investigation, or outcome.
 - [1977 Akabane Filicide Case / 1977年赤羽弑子案](entities/AkabaneFilicideCase1977.md) — Source-reported Tokyo case opened by a father's surrender and confession, with family history, motive, and legal outcome still unresolved.
 - [淼叔 / Miao Shu](entities/MiaoShuNittanWuyu.md) — 日谈物语 host who carries the transition from seasonal conversation into social-history framing in the current source.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.

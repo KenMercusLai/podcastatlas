@@ -38209,3 +38209,11 @@ Added source `lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8`; and re
 ## [2026-10-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-31] ingest | 2026秋季篇E07 家族悲剧，福冈母亲杀女事件
+
+Added source `2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9`; created [[FukuokaMotherDaughterKilling2006|2006年福冈母亲杀女事件]]; and resynthesized [[NittanWuyu|日谈物语]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the three-minute excerpt situates the case around Tojinmachi through Fukuoka geography, name and trade history, and Yakult's reported local beginnings, then introduces Ayaka Yoshitsuna's return to her mother's home and stops during the family background. No settled contradiction was adopted. The title's mother-kills-daughter label and preview's disability connection, along with the death, victim, alleged perpetrator, motive, evidence, investigation, judgment, and outcome, remain unsupported by the excerpt; local-history claims also remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic; age made global compaction due, and refreshed artifacts validate 4,789 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identities, and knowledge schema passed before final publish validation.
+
+## [2026-10-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

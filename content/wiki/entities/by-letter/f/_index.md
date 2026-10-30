@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13820
+wiki_total_pages: 13821
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "FIFAWorldCup1978"
     title: "1978 FIFA World Cup"
     url: "/wiki/entities/fifaworldcup1978/"
+  - key: "FukuokaMotherDaughterKilling2006"
+    title: "2006 Fukuoka Mother-Daughter Killing / 2006年福冈母亲杀女事件"
+    url: "/wiki/entities/fukuokamotherdaughterkilling2006/"
   - key: "FortyThreeTalks"
     title: "43talks"
     url: "/wiki/entities/fortythreetalks/"
