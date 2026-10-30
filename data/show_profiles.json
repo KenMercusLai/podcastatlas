@@ -2936,20 +2936,20 @@
       "earliest_episode_date": "2026-08-28",
       "latest_episode_date": "2026-10-30",
       "latest_episode_file": "lvnr1aFmbKgG3GJZuMqRICvnLeu8 [lvnr1aFmbKgG3GJZuMqRICvnLeu8].md",
-      "source_note_count": 7,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 8,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "culture",
@@ -2960,10 +2960,10 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
-        "lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ [lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ].md",
+        "lvnr1aFmbKgG3GJZuMqRICvnLeu8 [lvnr1aFmbKgG3GJZuMqRICvnLeu8].md",
         "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
-        "lvnr1aFmbKgG3GJZuMqRICvnLeu8 [lvnr1aFmbKgG3GJZuMqRICvnLeu8].md"
+        "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
+        "lgn0zTDgDTPcHfqmHKRSSfFBphIL [lgn0zTDgDTPcHfqmHKRSSfFBphIL].md"
       ]
     },
     "硅谷101": {

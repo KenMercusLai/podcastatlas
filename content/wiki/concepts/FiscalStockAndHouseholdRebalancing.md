@@ -4,7 +4,8 @@ type: concept
 tags: [china, fiscal-policy, taxation, real-estate, public-services]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,19 +32,18 @@ On spending, the proposed direction moves resources from economic construction t
 
 ## Evidence
 
-- **Revenue transition:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says property maturity requires movement away from transaction-only taxation and potentially toward stock-stage taxation.
+- **Revenue transition:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] say property maturity requires movement away from transaction-only taxation and potentially toward stock-stage taxation.
 - **Distribution:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] proposes a stronger personal-income-tax adjustment role.
-- **Spending priority:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] advocates shifting government spending from construction and investment toward livelihood and public services.
-- **Fiscal constraint:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] warns that long-term revenue-expenditure pressure affects government-dependent business models.
+- **Spending priority:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] advocate shifting government spending from construction and investment toward livelihood and public services.
+- **Fiscal constraint:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] warns that long-term revenue-expenditure pressure affects government-dependent business models and stability-oriented career assumptions.
 
 ## Counterevidence & Qualifications
 
-The source supplies a direction, not a detailed tax package or incidence analysis. Stock-based property taxation can burden cash-poor owners, interact with already-fallen asset values, and vary sharply across regions. Personal-income reform, transfers, local-central fiscal relations, public-service commitments, and transition relief require separate design and evidence.
+The two summaries supply a shared direction, not independent evidence, a detailed tax package, or incidence analysis. Stock-based property taxation can burden cash-poor owners, interact with already-fallen asset values, and vary sharply across regions. Personal-income reform, transfers, local-central fiscal relations, public-service commitments, and transition relief require separate design and evidence.
 
 ## What Changed
 
-- Connected property maturity to both revenue-base reform and household-facing expenditure.
-- Added tax-incidence and regional-transition boundaries to the policy direction.
+- Added the career and government-client exposure implied by long-run fiscal pressure while preserving the tax-incidence boundary.
 
 ## Related Concepts
 

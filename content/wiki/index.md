@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯](sources/lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8.md) — 知行小酒馆对话郭凯，区分新旧经济贡献交叉与家庭体感修复，并以家庭分散承压、轻信贷转型和财税传导解释不同步。
 - [Vol. 177 违背祖训！MacBook Pro出触摸屏啦！](sources/podcast177-v1-podcast177-v1.md) — 枫言枫语以真实工作流评估触屏 MacBook Pro、本地 AI 硬件配置、分布式个人算力、HomeView 与智能家居生态迁移成本。
 - [186.何为中国经济新范式？｜对话CF40研究院院长郭凯](sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave.md) — 起朱楼宴宾客对话郭凯，以房地产拖累减弱、新经济贡献上升、家庭分散承压及财税传导解释中国增长范式的可能转折。
 - [Silver-year strongman: 25 years of Narendra Modi](sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62.md) — Economist Podcasts assesses Modi's modernization, majoritarianism, job and voter-roll pressures, locally exposed U.S. midterms, and Cicely Gemmell's work for Churchill.

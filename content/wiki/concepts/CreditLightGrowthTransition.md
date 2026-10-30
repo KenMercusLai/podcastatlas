@@ -4,7 +4,8 @@ type: concept
 tags: [china, credit, finance, economic-transition, equity-finance]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,18 +31,17 @@ This does not make credit data irrelevant. Low borrowing can still signal poor c
 
 ## Evidence
 
-- **Sector comparison:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] contrasts credit-intensive infrastructure and property with lower-capital new-economy activity.
-- **Financing structure:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says new industries tend to use more equity finance.
-- **Interpretive consequence:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] argues that falling credit growth need not map directly onto weak GDP growth under the new structure.
+- **Sector comparison:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] contrast credit-intensive infrastructure and property with less debt-intensive new-economy activity.
+- **Financing structure:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] say new industries tend to use more equity finance.
+- **Interpretive consequence:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] reiterates that slower credit growth need not map directly onto weak GDP growth under the new structure.
 
 ## Counterevidence & Qualifications
 
-The source does not quantify sector credit intensity, equity-financing availability, or the share of growth explained by structural change. Technology manufacturing can also be capital intensive, and equity markets may not fund smaller firms reliably. Existing evidence on low borrowing willingness and household balance-sheet stress means the structural interpretation should not erase demand weakness.
+Neither summary quantifies sector credit intensity, equity-financing availability, or the share of growth explained by structural change, and they are not independent accounts. Technology manufacturing can also be capital intensive, and equity markets may not fund smaller firms reliably. Existing evidence on low borrowing willingness and household balance-sheet stress means the structural interpretation should not erase demand weakness.
 
 ## What Changed
 
-- Added a sector-mix explanation for the weakening credit-growth relationship.
-- Preserved low confidence and financing access as competing explanations for weak loan demand.
+- Added corroborating program coverage without changing the sector-mix judgment or its demand-weakness qualification.
 
 ## Related Concepts
 

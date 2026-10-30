@@ -4,7 +4,8 @@ type: entity
 tags: [organization, think-tank, china, macroeconomics]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,7 +13,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The 中国金融四十人研究院 is the research institution whose annual report frames the economic-transition discussion in episode 186 of [[QizhulouYanBinke|起朱楼宴宾客]].
+The 中国金融四十人研究院 is the research institution whose 中国经济新范式 report frames economic-transition conversations on [[QizhulouYanBinke|起朱楼宴宾客]] and [[ZhixingXiaojiuguan|知行小酒馆]].
 
 ## Current Profile
 
@@ -32,20 +33,22 @@ The report's headline estimate is that new-economy contribution to GDP growth ex
 
 - **Report scope:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says the annual report covers property, new economy, AI, consumption, credit, inflation, and fiscal reform.
 - **Crossover estimate:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] attributes to the report a 2025 crossover in new-economy and real-estate GDP contribution.
+- **Household timing:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] emphasizes that output, productivity, and profit improvement can precede recovery in household wealth, employment, income, and confidence.
 - **Policy direction:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] presents fiscal and tax reform as the report's most desired policy change.
 
 ## Qualifications
 
-The institute is represented through one podcast summary. The underlying annual report, methodology, institutional history, governance, and independent assessments were not supplied, so this page does not validate the crossover estimate or forecast record.
+The institute is represented through two podcast summaries discussing substantially the same report. The underlying report, methodology, institutional history, governance, and independent assessments were not supplied, so repeated program coverage does not validate the crossover estimate or forecast record.
 
 ## What Changed
 
-- Created a source-bounded institutional profile centered on the annual report discussed in episode 186.
+- Added a second program's corroborating account and made the report's household-transmission timing boundary explicit.
 
 ## Relationships
 
 - [[GuoKaiEconomist]] - institute head and episode guest in the bounded source.
 - [[QizhulouYanBinke]] - show discussing the institute's annual report.
+- [[ZhixingXiaojiuguan]] - show connecting the report to household experience and practical decisions.
 - [[ChinaOldNewEconomyCrossover]] - report's central transition claim.
 - [[NewEconomyHouseholdTransmission]] - distribution problem within the report's framework.
 - [[FiscalStockAndHouseholdRebalancing]] - policy direction attributed to the report.

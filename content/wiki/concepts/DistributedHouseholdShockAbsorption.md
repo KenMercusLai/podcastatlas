@@ -4,7 +4,8 @@ type: concept
 tags: [china, households, macroeconomics, resilience, financial-stability]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,18 +31,17 @@ The same mechanism is costly. Stability at the aggregate level may be purchased 
 
 ## Evidence
 
-- **Dispersal mechanism:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says shocks were spread across individuals and families rather than concentrated in the financial system.
-- **Household actions:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] cites mortgage repayment, opportunity seeking, and intra-family support as adjustment behaviors.
-- **Two-sided outcome:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] explicitly joins lower systemic-break risk with pervasive household pressure.
+- **Dispersal mechanism:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] say shocks were spread across individuals and families rather than concentrated in the financial system.
+- **Household actions:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] cite mortgage repayment, opportunity seeking, income adjustment, and intra-family support as stabilizing behaviors.
+- **Two-sided outcome:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] centers the paradox that lower systemic-break risk and pervasive household pressure can arise from the same mechanism.
 
 ## Counterevidence & Qualifications
 
-The source provides a mechanism and comparison with the U.S. subprime crisis, not household-level panel data or a decomposition of who absorbed what losses. Dispersal can conceal distress, delay recognition, or transfer costs across generations. The absence of a concentrated crisis does not prove that aggregate losses are smaller or that the distribution is fair.
+The two summaries provide a shared mechanism and comparison with the U.S. subprime crisis, not independent evidence, household-level panel data, or a decomposition of who absorbed what losses. Dispersal can conceal distress, delay recognition, or transfer costs across generations. The absence of a concentrated crisis does not prove that aggregate losses are smaller or that the distribution is fair.
 
 ## What Changed
 
-- Added a household-centered explanation for the coexistence of macro resilience and weak lived experience.
-- Made the welfare and distribution costs explicit rather than treating shock dispersal as unqualified strength.
+- Added corroborating program coverage while marking that both sources derive from the same report discussion rather than independent household evidence.
 
 ## Related Concepts
 

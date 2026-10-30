@@ -4,7 +4,8 @@ type: entity
 tags: [person, economist, china, macroeconomics]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,7 +13,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-郭凯 is presented as the head of the [[CF40ResearchInstitute|中国金融四十人研究院]] and the guest in episode 186 of [[QizhulouYanBinke|起朱楼宴宾客]].
+郭凯 is presented as the head of the [[CF40ResearchInstitute|中国金融四十人研究院]] and as the guest in conversations with [[QizhulouYanBinke|起朱楼宴宾客]] and [[ZhixingXiaojiuguan|知行小酒馆]] about the institute's 中国经济新范式 report.
 
 ## Current Profile
 
@@ -32,22 +33,24 @@ He repeatedly treats forecasts as transition judgments rather than investment si
 ## Evidence
 
 - **Macro transition:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] records his view that property adjustment continues even as its macro drag fades and new-economy contribution rises.
+- **Household experience:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] sharpens his distinction between production-and-profit improvement and the slower recovery of household income, work, wealth, and security.
 - **Household mechanism:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] attributes China's aggregate resilience partly to families dispersing and absorbing income, debt, and employment shocks.
 - **Distribution and policy:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] has him connect technology-led supply to services, transfers, public provision, capital income, and fiscal reform.
 - **Decision discipline:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] presents anti-linear extrapolation as the main lesson for property, careers, business models, and fiscal dependence.
 
 ## Qualifications
 
-This profile rests on one structured podcast summary rather than a transcript, report text, biography, or independent review. Institutional title, quantitative estimates, historical comparisons, policy preferences, and forecasts remain bounded to that source.
+This profile rests on two structured podcast summaries discussing substantially the same report rather than transcripts, the report text, a biography, or independent review. Their agreement is corroboration across program framings, not independent validation of institutional title, quantitative estimates, historical comparisons, policy preferences, or forecasts.
 
 ## What Changed
 
-- Created a bounded profile of 郭凯's transition, distribution, credit, and fiscal framework.
+- Added a second program's corroborating account and sharpened the production-to-household timing gap without changing the current judgment.
 
 ## Relationships
 
 - [[CF40ResearchInstitute]] - institution he is presented as leading.
 - [[QizhulouYanBinke]] - podcast that hosted the interview.
+- [[ZhixingXiaojiuguan]] - podcast that reframed the report around household experience and practical assumptions.
 - [[ChinaOldNewEconomyCrossover]] - macro transition judgment he develops.
 - [[DistributedHouseholdShockAbsorption]] - resilience mechanism he describes.
 - [[NewEconomyHouseholdTransmission]] - distribution problem he treats as unresolved.

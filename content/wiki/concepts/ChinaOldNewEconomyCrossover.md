@@ -4,7 +4,8 @@ type: concept
 tags: [china, macroeconomics, real-estate, manufacturing, ai]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,18 +31,17 @@ The lower-cost environment created by property adjustment may help new firms and
 
 ## Evidence
 
-- **Reported crossover:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] attributes to the CF40 report an estimate that new-economy contribution exceeded real estate's in 2025.
+- **Reported crossover:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] attribute to the CF40 report an estimate that new-economy contribution exceeded real estate's in 2025.
 - **Property remains unfinished:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says major-city stabilization and lower-tier adjustment can remain uneven for years.
-- **Cost and distribution effects:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] links lower housing, rent, and interest costs to new activity while preserving the burdens of existing owners and old-economy workers.
+- **Household timing and distribution:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] emphasizes that production, productivity, and profits can improve before household wealth, jobs, income, or security, while [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] links lower housing, rent, and interest costs to new activity without erasing legacy burdens.
 
 ## Counterevidence & Qualifications
 
-The supplied summary does not define “new economy,” reproduce contribution calculations, or test the estimate against alternative sector classifications. A crossover may be statistically real while remaining too small, concentrated, or supply-heavy to improve household demand. Property timing varies by city tier, and “later phase” is not the same as completed clearing.
+Neither supplied summary defines “new economy,” reproduces contribution calculations, or tests the estimate against alternative sector classifications; both discuss substantially the same report. A crossover may be statistically real while remaining too small, concentrated, or supply-heavy to improve household demand. Property timing varies by city tier, and “later phase” is not the same as completed clearing.
 
 ## What Changed
 
-- Established the distinction between marginal-driver crossover and broad household recovery.
-- Added legacy-cost distribution as a boundary on lower-cost transition benefits.
+- Added corroborating program coverage and sharpened the timing gap between supply-side improvement and household recovery without changing the current judgment.
 
 ## Related Concepts
 

@@ -4,7 +4,8 @@ type: concept
 tags: [china, distribution, consumption, technology, public-policy]
 sources:
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,19 +32,18 @@ Transmission can improve when technology combines with labor-intensive or househ
 
 ## Evidence
 
-- **Supply-first pattern:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says new-industry progress is currently clearer in supply capability, productivity, and cost reduction than in resident income.
+- **Supply-first pattern:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] say new-industry progress is currently clearer in supply capability, productivity, cost reduction, and profits than in resident income or security.
 - **Commercial channels:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] identifies education, health care, entertainment, and new occupations as possible bridges.
 - **Institutional channels:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] identifies taxation, transfers, public services, and capital participation as distribution mechanisms.
-- **Consumption boundary:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] treats future income and employment expectations as more durable drivers than temporary trade-in subsidies.
+- **Consumption boundary:** [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] treats future income, employment expectations, and a comfortable savings buffer as more durable drivers than temporary trade-in subsidies.
 
 ## Counterevidence & Qualifications
 
-The source offers possible channels rather than measured causal effects or a settled policy design. Service-sector job creation can itself be automated, capital ownership is unequal, and transfers or public equity introduce fiscal and governance tradeoffs. Lower prices do raise real purchasing power, but that benefit may be offset by weak income or employment security.
+The two summaries offer possible channels rather than independent evidence, measured causal effects, or a settled policy design. Service-sector job creation can itself be automated, capital ownership is unequal, and transfers or public equity introduce fiscal and governance tradeoffs. Lower prices do raise real purchasing power, but that benefit may be offset by weak income or employment security.
 
 ## What Changed
 
-- Defined household transmission as a multi-channel institutional and commercial problem.
-- Added explicit boundaries around supply abundance, AI substitution, and unequal capital ownership.
+- Added savings-buffer recovery to the consumption channel and corroborating program coverage without changing the multi-channel judgment.
 
 ## Related Concepts
 

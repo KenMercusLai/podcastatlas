@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2336
+topic_total_pages: 2337
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6372,6 +6372,9 @@ topic_sources:
   - key: "e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq"
     title: "E250 为什么学了这么多知识，却还是做不好投资？"
     url: "/wiki/sources/e250-weishenme-xuele-zheme-duo-zhishi-que-haishi-zuobuhao-touzi-lqb8zb64t2lk_xh-kdazq8hnlghq/"
+  - key: "lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8"
+    title: "E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯"
+    url: "/wiki/sources/lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8/"
   - key: "e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls"
     title: "E43 张潇雨、孟岩对话许哲：没有更好的生活"
     url: "/wiki/sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls/"

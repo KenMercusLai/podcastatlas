@@ -5,7 +5,8 @@ tags: [ai, labor-market, macro, consumption]
 sources:
   - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
   - lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave
-last_updated: 2026-10-30
+  - lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ AI employment multiplier compression is the risk that AI, software, finance, and
 
 ## Current Synthesis
 
-The two sources separate sector success from labor transmission. AI-related prices, investment, exports, and corporate value can rise while property-linked activity and high-employment sectors remain weak. If expanding sectors hire fewer people per unit of output, households may keep saving defensively and consumption can lag headline growth.
+The three source notes separate sector success from labor transmission, although the two 郭凯 conversations discuss substantially the same report. AI-related prices, investment, exports, and corporate value can rise while property-linked activity and high-employment sectors remain weak. If expanding sectors hire fewer people per unit of output, households may keep saving defensively and consumption can lag headline growth.
 
 The later episode strengthens the uncertainty boundary. It says Chinese data appear more substitution-heavy so far but stresses that no settled historical analogue exists. Lower costs can create new demand, service applications, and occupations, just as earlier general-purpose technologies expanded some markets after displacing tasks. The relevant question is therefore the net path through substitution, demand creation, services, wages, and distribution—not a fixed job-loss forecast.
 
@@ -35,19 +36,16 @@ The later episode strengthens the uncertainty boundary. It says Chinese data app
 - **Cross-sector multiplier gap:** [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] contrasts high-employment construction, retail, and services with profitable but less labor-intensive AI, software, finance, and advanced manufacturing.
 - **K-shaped outcome:** [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] links AI-sector inflation and export strength to weak consumption, employment, and property-linked activity.
 - **Uncertain net effect:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] says observed country and industry effects differ and early predictions have not consistently matched later firm or occupation outcomes.
-- **Demand-creation counterchannel:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] argues that lower costs can expand demand and enable new occupations or service models.
+- **Demand-creation counterchannel:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] and [[lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8]] argue that lower costs can expand demand and enable new occupations or service models.
 - **Distribution response:** [[lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave]] identifies taxes, transfers, public services, and household capital participation as possible bridges when direct employment is weak.
 
 ## Counterevidence & Qualifications
 
-Neither source supplies a causal labor-market decomposition, consistent cross-country definition, or long-run evidence. Chinese and U.S. observations are time-sensitive and may reflect sector mix, policy, adoption stage, or measurement differences rather than AI alone. Productivity can displace tasks, complement workers, lower prices, create demand, or shift work into new categories; aggregate net effects cannot yet be inferred from selected industries.
+The source set supplies no causal labor-market decomposition, consistent cross-country definition, or long-run evidence, and its two 郭凯 notes are corroborating program framings rather than independent studies. Chinese and U.S. observations are time-sensitive and may reflect sector mix, policy, adoption stage, or measurement differences rather than AI alone. Productivity can displace tasks, complement workers, lower prices, create demand, or shift work into new categories; aggregate net effects cannot yet be inferred from selected industries.
 
 ## What Changed
 
-- Added the later episode's explicit uncertainty about cross-country and occupation outcomes.
-- Added lower-cost demand creation and new occupations as counterchannels to substitution.
-- Connected low employment multipliers to fiscal, service, and capital-income transmission.
-- Migrated the page to the synthesis-first schema using its complete two-source inventory.
+- Added corroborating program coverage for the uncertain substitution-versus-demand-creation path without treating it as independent labor-market evidence.
 
 ## Related Concepts
 
