@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3440
+topic_total_pages: 3442
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2578,6 +2578,9 @@ topic_concepts:
   - key: "LoanCapAccessRisk"
     title: "Loan Cap Access Risk"
     url: "/wiki/concepts/loancapaccessrisk/"
+  - key: "LocalExposureElectoralSalience"
+    title: "Local Exposure Electoral Salience"
+    url: "/wiki/concepts/localexposureelectoralsalience/"
   - key: "LocalGovernanceAsCare"
     title: "Local Governance As Care / 地方治理作为照护"
     url: "/wiki/concepts/localgovernanceascare/"
@@ -9633,6 +9636,9 @@ topic_sources:
   - key: "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa"
     title: "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)"
     url: "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+  - key: "silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62"
+    title: "Silver-year strongman: 25 years of Narendra Modi"
+    url: "/wiki/sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62/"
   - key: "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d"
     title: "Snap judgement: Japan PM’s electoral landslide"
     url: "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10920
+wiki_total_pages: 10922
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "EliteOverproduction"
     title: "Elite Overproduction"
     url: "/wiki/concepts/eliteoverproduction/"
+  - key: "ElitePersonalServiceRoleBlurring"
+    title: "Elite Personal Service Role Blurring"
+    url: "/wiki/concepts/elitepersonalserviceroleblurring/"
   - key: "EliteRelocationControl"
     title: "Elite Relocation Control / 豪杰迁徙控制"
     url: "/wiki/concepts/eliterelocationcontrol/"

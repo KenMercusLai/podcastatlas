@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Silver-year strongman: 25 years of Narendra Modi](sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62.md) — Economist Podcasts assesses Modi's modernization, majoritarianism, job and voter-roll pressures, locally exposed U.S. midterms, and Cicely Gemmell's work for Churchill.
 - [Political pressure could complicate Anthropic's IPO](sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128.md) — Marketplace Tech connects hyperscaler AI spending, cash-flow pressure and workforce buyouts with Anthropic's IPO exposure to political pressure, access controls, investigations, and autonomous-agent liability.
 - [512 与王恺漫话江南食事：从文人蟹宴到乡野土菜](sources/512-yu-wangkai-manhua-jiangnan-shishi-cong-wenren-xieyan-dao-xiangye-tucai-lh0w1a0jwafuydxpdghqppuwvbzy.md) — 忽左忽右与王恺从苏州蟹宴谈到南京鸭馔和杭州土菜，讨论江南时令、厨艺复原、食材生态与地方名菜品牌化。
 - [374-柏拉图如何批评严格饮食高强度训练的大肌健身狂？](sources/374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck.md) — 独树不成林以《理想国》审视严格健身制度、身体量化、力量与勇气，并把训练目的置于适应力、判断和完整生活之中。
@@ -4893,6 +4894,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》](sources/47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t.md) — 怪东西以《十字军骑士》连接北方十字军、条顿骑士团、格伦瓦尔德战役、马尔堡与波兰民族记忆，并区分中世纪冲突和十九世纪民族主义投射。
 
 ## Entities
+- [Cicely Gemmell](entities/CicelyGemmell.md) — Churchill's postwar personal secretary, archive worker, household assistant, and later New York magazine employee.
+- [Chartwell](entities/Chartwell.md) — Churchill household and workplace where secretarial, archival, artistic, and personal-service routines overlapped.
 - [Fujifilm / 富士胶片](entities/Fujifilm.md) — Japanese imaging and materials company expanding archival magnetic-tape capacity in response to reported AI-era retention demand.
 - [LeBron James](entities/LeBronJames.md) — Elite basketball player used as a case of long-term WHOOP adoption preceding a global ambassador relationship.
 - [Will Ahmed](entities/WillAhmed.md) — WHOOP founder and CEO connecting continuous wear, subscription alignment, personalized baselines, AI interpretation, and athlete adoption.
@@ -18793,6 +18796,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Elite Personal Service Role Blurring](concepts/ElitePersonalServiceRoleBlurring.md) — overlap between skilled administrative work and intimate or menial service created by proximity and status inequality.
+- [Local Exposure Electoral Salience](concepts/LocalExposureElectoralSalience.md) — way candidate familiarity and direct policy exposure can complicate national electoral trends.
 - [Autonomous AI Incident Disclosure](concepts/AutonomousAIIncidentDisclosure.md) — Disclosure standard for consequential model actions without contemporaneous human direction, with explicit boundaries around verified impact.
 - [Frontier AI IPO Political Risk](concepts/FrontierAIIPOPoliticalRisk.md) — How procurement exclusion, investigation, access control, and policy conflict can affect a frontier lab's listing and valuation.
 - [Government Model Availability Leverage](concepts/GovernmentModelAvailabilityLeverage.md) — State ability to interrupt or condition model access through export, licensing, procurement, or related restrictions.

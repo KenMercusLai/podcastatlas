@@ -57891,6 +57891,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LocalExposureElectoralSalience": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LocalFirstMemoryLayer": [
     {
       "key": "technology",
@@ -109260,6 +109267,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836": [

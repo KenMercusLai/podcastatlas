@@ -18851,6 +18851,10 @@
     "title": "Chartley Manor",
     "url": "/wiki/entities/chartleymanor/"
   },
+  "Chartwell": {
+    "title": "Chartwell",
+    "url": "/wiki/entities/chartwell/"
+  },
   "ChaseAndrews": {
     "title": "Chase Andrews / 蔡司",
     "url": "/wiki/entities/chaseandrews/"
@@ -20806,6 +20810,10 @@
   "ChuzenjiAkihiko": {
     "title": "中禅寺秋彦 / Chuzenji Akihiko",
     "url": "/wiki/entities/chuzenjiakihiko/"
+  },
+  "CicelyGemmell": {
+    "title": "Cicely Gemmell",
+    "url": "/wiki/entities/cicelygemmell/"
   },
   "Cicero": {
     "title": "Cicero / 西塞罗",
@@ -30626,6 +30634,10 @@
   "EliteOverproduction": {
     "title": "Elite Overproduction",
     "url": "/wiki/concepts/eliteoverproduction/"
+  },
+  "ElitePersonalServiceRoleBlurring": {
+    "title": "Elite Personal Service Role Blurring",
+    "url": "/wiki/concepts/elitepersonalserviceroleblurring/"
   },
   "EliteRelocationControl": {
     "title": "Elite Relocation Control / 豪杰迁徙控制",
@@ -56514,6 +56526,10 @@
   "LocalExperienceAsCreativeArchive": {
     "title": "Local Experience as Creative Archive / 地方经验作为创作档案",
     "url": "/wiki/concepts/localexperienceascreativearchive/"
+  },
+  "LocalExposureElectoralSalience": {
+    "title": "Local Exposure Electoral Salience",
+    "url": "/wiki/concepts/localexposureelectoralsalience/"
   },
   "LocalFaultAttributionPacification": {
     "title": "归咎安抚式平叛 / Local Fault Attribution Pacification",
@@ -109126,6 +109142,10 @@
   "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc": {
     "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
     "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+  },
+  "silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62": {
+    "title": "Silver-year strongman: 25 years of Narendra Modi",
+    "url": "/wiki/sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62/"
   },
   "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836": {
     "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",

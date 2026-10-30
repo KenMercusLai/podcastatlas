@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13816
+wiki_total_pages: 13818
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "ChartleyManor"
     title: "Chartley Manor"
     url: "/wiki/entities/chartleymanor/"
+  - key: "Chartwell"
+    title: "Chartwell"
+    url: "/wiki/entities/chartwell/"
   - key: "ChaseAndrews"
     title: "Chase Andrews / 蔡司"
     url: "/wiki/entities/chaseandrews/"
@@ -1163,6 +1166,9 @@ wiki_pages:
   - key: "CIA"
     title: "CIA / Central Intelligence Agency / 中情局"
     url: "/wiki/entities/cia/"
+  - key: "CicelyGemmell"
+    title: "Cicely Gemmell"
+    url: "/wiki/entities/cicelygemmell/"
   - key: "Cicero"
     title: "Cicero / 西塞罗"
     url: "/wiki/entities/cicero/"
