@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10930
+wiki_total_pages: 10932
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "SmartGlassesBystanderPrivacy"
     title: "Smart Glasses Bystander Privacy"
     url: "/wiki/concepts/smartglassesbystanderprivacy/"
+  - key: "SmartHomeEcosystemSwitchingCost"
+    title: "Smart Home Ecosystem Switching Cost"
+    url: "/wiki/concepts/smarthomeecosystemswitchingcost/"
   - key: "SmartOralCare"
     title: "Smart Oral Care"
     url: "/wiki/concepts/smartoralcare/"

@@ -6,43 +6,52 @@ tags: [product, apple, smart-home, ai-assistant]
 sources:
   - jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449
   - gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl
-last_updated: 2026-10-15
+  - podcast177-v1-podcast177-v1
+last_updated: 2026-10-30
 ---
 
 # Apple Smart Home Display
 
 ## Overview
-Apple Smart Home Display is a source-reported household screen intended to combine smart-home control, communication, media, personal information, and a revised [[Siri]] interface. A newer roundup names the product HomeView and supplies a price and launch date, but the wiki still treats those details as secondary reporting rather than confirmed product documentation.
+Apple Smart Home Display is a source-reported household screen, later named HomeView, intended to combine smart-home control, communication, monitoring, personal information, and an upgraded [[Siri]] interface.
 
 ## Current Profile
-The bounded sources describe a tabletop or wall-mounted screen that recognizes household members and personalizes calendars, reminders, and tasks. The earlier source described employee-home testing and a Siri-related delay; the newer source reports a 7-inch A18 device, a dedicated operating system, US$299 pricing for both formats, and a 13 November sale date under the HomeView name.
+Across the bounded sources, HomeView moves from a delayed, employee-tested plan to a reported launch and then to a workflow-level evaluation. Its strongest use cases are persistent doorbell and camera views, household control, calling, and identity-aware information for multiple family members. Those uses make it more than a generic tablet only when recognition, permissions, and device coordination work reliably.
 
-The strategic role is stable across both accounts: make the home a persistent [[Apple]] interface and connect existing devices to household services. The unresolved test is whether the upgraded Siri and accessory ecosystem can make that integration reliable rather than merely visible on another screen.
+Its adoption problem is ecosystem fit. Fixed power, closed applications, overlap with phones, separate tabletop and wall hardware, and an installed base of Mijia or brand-specific devices can turn HomeView into one more screen rather than a unifying hub. Matter support helps, but does not by itself erase device breadth, protocol, local-service, automation, or replacement-cost differences.
 
 ## Key Characteristics
-- Combines household controls, video calls, music, calendars, reminders, and Siri.
-- Is described as a small square screen with tabletop and wall-mounted use.
-- Uses household-member recognition to personalize information.
-- Depends on improved Siri capability after source-reported delays.
-- Is newly reported under the HomeView name with an A18 chip and dedicated operating system.
-- Extends beyond the display through reported HomePod Mini, Apple TV, lock, doorbell, and thermostat coordination.
+- Persistent household screen for controls, cameras, calls, media, calendars, and reminders.
+- Reported tabletop and wall-mounted forms with fixed power requirements.
+- Uses household-member recognition to personalize information and access.
+- Depends on Siri quality and broader Apple home-device coordination.
+- Closed application model distinguishes it from a general-purpose iPad.
+- Faces installed-ecosystem and local-market switching costs, especially in China.
 
 ## Evidence
-- Interface and functions: [[jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449]] lists device control, calling, music, and personalized household information.
-- Timing and dependency: [[jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449]] says Siri limitations delayed a product originally planned for 2024 and that employee-home testing was under way.
-- Reported launch state: [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] names HomeView, gives a 7-inch display, A18 chip, US$299 price, and 13 November sale date, and says as many as six household members can be recognized.
-- Ecosystem extension: [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] reports updated Apple household devices and planned accessory work with LG and Schneider.
+### Product path and assistant dependency
+- [[jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449]] describes employee-home testing and a schedule delayed by Siri limitations.
+- [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] reports the HomeView name, a 7-inch display, A18 chip, dedicated operating system, price, sale date, and recognition for as many as six users.
+
+### Household value
+- [[podcast177-v1-podcast177-v1]] identifies camera, doorbell, control, calling, and multi-user personalization as the most credible reasons for a dedicated hub.
+
+### Ecosystem boundary
+- [[gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl]] connects HomeView to HomePod mini, Apple TV, locks, doorbells, thermostats, and partner accessories.
+- [[podcast177-v1-podcast177-v1]] qualifies that strategy with closed apps, fixed power, phone overlap, Mijia's installed base, protocol breadth, and the option to reuse an older iPad as a control panel.
 
 ## Qualifications
-Both sources are short secondary-news summaries. The newer report appears to advance the product from testing and delay into launch, but product name, timing, specifications, partner plans, household recognition, market availability, and ecosystem requirements remain unconfirmed and time-sensitive. Neither source tests Siri quality or multi-user accuracy.
+All three sources are structured summaries or secondary discussions rather than Apple documentation or independent testing. Product name, timing, price, specifications, recognition quality, partner plans, application limits, availability, and protocol support remain source-scoped and time-sensitive. None establishes long-term Siri reliability, multi-user accuracy, security, or migration cost.
 
 ## What Changed
-- Added the newer source-reported HomeView name, specifications, price, sale date, and accessory strategy.
-- Preserved the earlier Siri-delay evidence and kept the apparent launch progression qualified.
+- Added workflow-level evaluation of credible household uses versus phone and tablet substitution.
+- Added fixed-power, closed-application, and separate-form-factor constraints.
+- Added installed-ecosystem and China-market switching costs to the adoption judgment.
 
 ## Relationships
-- [[Apple]] - company reported to be developing the device.
-- [[Siri]] - assistant capability on which the product experience and timing depend.
-- [[AIPlusTerminals]] - broader strategy of placing AI interaction inside dedicated hardware surfaces.
-- [[TrueSmartHome]] - adjacent goal of coordinating household devices through a coherent interface.
-- [[VoiceInteraction]] - primary hands-free interface whose quality affects household usefulness.
+- [[Apple]] - company reported to be developing and integrating the device.
+- [[Siri]] - assistant capability on which personalization and hands-free control depend.
+- [[TrueSmartHome]] - longer-term goal of contextual household perception and action.
+- [[SmartHomeEcosystemSwitchingCost]] - installed-base and compatibility constraint on adoption.
+- [[AgentPermissionBoundaries]] - authorization relationship for household identity, locks, cameras, and services.
+- [[VoiceInteraction]] - hands-free interface relationship.

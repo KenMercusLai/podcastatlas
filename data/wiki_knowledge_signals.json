@@ -20490,9 +20490,9 @@
       "url": "/wiki/entities/applemusic/"
     },
     "AppleSmartHomeDisplay": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权 [1017386449].md",
@@ -20507,9 +20507,16 @@
           "show": "声动早咖啡",
           "title": "高洁丝｜豆包增加水电缴费功能，瑞幸引入奶茶品类",
           "url": "/wiki/sources/gaojiesi-doubao-zengjia-shuidian-jiaofei-gongneng-ruixing-yinru-naicha-pinlei-gkwrirwopt2saflztgtozfrl/"
+        },
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/applesmarthomedisplay/"
     },
     "AppleTVPlus": {
@@ -176839,9 +176846,9 @@
       "url": "/wiki/concepts/localaiframeworkstack/"
     },
     "LocalAIHardwareSelection": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
@@ -176849,9 +176856,16 @@
           "show": "Data Science With Sam",
           "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
           "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        },
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-30",
       "url": "/wiki/concepts/localaihardwareselection/"
     },
     "LocalAIPrivacyTradeoff": {
@@ -184172,6 +184186,36 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/mayuaneasternhan/"
     },
+    "MacBook": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "这半年，我们又买了哪些科技好物？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [这半年，我们又买了哪些科技好物？-1].md",
+          "key": "zhe-bannian-women-you-maile-naxie-keji-haowu-1",
+          "show": "科技乱炖",
+          "title": "这半年，我们又买了哪些科技好物？",
+          "url": "/wiki/sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1/"
+        },
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/entities/macbook/"
+    },
     "MacMini": {
       "episode_count": 3,
       "show_count": 3,
@@ -184219,9 +184263,9 @@
       "url": "/wiki/entities/macrabbit/"
     },
     "MacStudio": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -184229,9 +184273,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-30",
       "url": "/wiki/entities/macstudio/"
     },
     "MacartneyEmbassy": {
@@ -264514,6 +264565,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/smartglassesbystanderprivacy/"
     },
+    "SmartHomeEcosystemSwitchingCost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/smarthomeecosystemswitchingcost/"
+    },
     "SmartOralCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -287965,6 +288032,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/totembranding/"
     },
+    "TouchscreenLaptopErgonomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/touchscreenlaptopergonomics/"
+    },
     "TouristAuthenticityPerformance": {
       "episode_count": 2,
       "show_count": 1,
@@ -289905,6 +289988,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/trueeducationkdrama/"
+    },
+    "TrueSmartHome": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式 [lnjlEQjGjo1TxuPOuvYgmDV7oo8B].md",
+          "key": "144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
+          "url": "/wiki/sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b/"
+        },
+        {
+          "episode_file": "Podcast177_v1 [Podcast177_v1].md",
+          "key": "podcast177-v1-podcast177-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 177 违背祖训！MacBook Pro出触摸屏啦！",
+          "url": "/wiki/sources/podcast177-v1-podcast177-v1/"
+        }
+      ],
+      "updated": "2026-10-30",
+      "url": "/wiki/concepts/truesmarthome/"
     },
     "TrumpAccounts": {
       "episode_count": 3,

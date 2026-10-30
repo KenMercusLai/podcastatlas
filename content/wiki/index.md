@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 177 违背祖训！MacBook Pro出触摸屏啦！](sources/podcast177-v1-podcast177-v1.md) — 枫言枫语以真实工作流评估触屏 MacBook Pro、本地 AI 硬件配置、分布式个人算力、HomeView 与智能家居生态迁移成本。
 - [186.何为中国经济新范式？｜对话CF40研究院院长郭凯](sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave.md) — 起朱楼宴宾客对话郭凯，以房地产拖累减弱、新经济贡献上升、家庭分散承压及财税传导解释中国增长范式的可能转折。
 - [Silver-year strongman: 25 years of Narendra Modi](sources/silver-year-strongman-25-years-of-narendra-modi-1b5cf8a35baf41ec520c5e6fe436aa62.md) — Economist Podcasts assesses Modi's modernization, majoritarianism, job and voter-roll pressures, locally exposed U.S. midterms, and Cicely Gemmell's work for Churchill.
 - [Political pressure could complicate Anthropic's IPO](sources/tech-20261030-1030-mp-tech-pod-128-tech-20261030-1030-mp-tech-pod-128.md) — Marketplace Tech connects hyperscaler AI spending, cash-flow pressure and workforce buyouts with Anthropic's IPO exposure to political pressure, access controls, investigations, and autonomous-agent liability.
@@ -18800,6 +18801,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Touchscreen Laptop Ergonomics](concepts/TouchscreenLaptopErgonomics.md) — Evaluates laptop touch by repeated-use comfort, stability, reach, precision, cleanliness, and task substitution rather than feature availability alone.
+- [Smart Home Ecosystem Switching Cost](concepts/SmartHomeEcosystemSwitchingCost.md) — Hardware, protocol, setup, reliability, habit, and replacement burden involved in moving an installed household between control ecosystems.
 - [China Old–New Economy Crossover / 中国新旧经济贡献交叉](concepts/ChinaOldNewEconomyCrossover.md) — 新经济增长贡献超过房地产贡献、但不等于房价或家庭资产立即修复的结构性转折。
 - [Distributed Household Shock Absorption / 家庭分散式冲击吸收](concepts/DistributedHouseholdShockAbsorption.md) — 家庭通过还贷、降收、求职和互助分散吸收冲击，从而同时形成宏观韧性与广泛微观压力。
 - [New-Economy Household Transmission / 新经济向家庭传导](concepts/NewEconomyHouseholdTransmission.md) — 把技术供给与利润转成就业、服务、工资、公共服务、转移支付和资本收入的多通道机制。

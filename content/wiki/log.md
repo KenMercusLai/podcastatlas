@@ -38193,3 +38193,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-30] ingest | Vol. 177 违背祖训！MacBook Pro出触摸屏啦！
+
+Added source `podcast177-v1-podcast177-v1`; created [[TouchscreenLaptopErgonomics]] and [[SmartHomeEcosystemSwitchingCost]]; and resynthesized [[MacBook]], [[MacStudio]], [[AppleSmartHomeDisplay]], [[LocalAIHardwareSelection]], and [[TrueSmartHome]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: touch input has credible developer, demonstration, and phone-mirroring uses without yet overcoming reach, hinge, fingerprint, and substitution constraints for mainstream laptop work; local-AI buying should start from workload fit, memory, runtime support, and whether sustained compute can be separated from the portable terminal; and a home hub creates value only when multi-user context, device compatibility, reliable control, and migration cost support it. No settled contradiction was adopted. Product names, specifications, prices, memory recommendations, benchmarks, management attribution, HomeView launch details, protocol support, and market comparisons remain episode-scoped because the supplied file is a structured summary with acknowledged on-air corrections rather than primary specifications or controlled tests. Broad Apple, show, host, general agent, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,787 sources across 806 overview paragraphs and nine topics.
+
+## [2026-10-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

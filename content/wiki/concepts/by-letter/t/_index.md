@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10930
+wiki_total_pages: 10932
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "TouchNet"
     title: "TouchNet"
     url: "/wiki/concepts/touchnet/"
+  - key: "TouchscreenLaptopErgonomics"
+    title: "Touchscreen Laptop Ergonomics"
+    url: "/wiki/concepts/touchscreenlaptopergonomics/"
   - key: "TourismResourceProtectionFunding"
     title: "Tourism Resource Protection Funding"
     url: "/wiki/concepts/tourismresourceprotectionfunding/"
