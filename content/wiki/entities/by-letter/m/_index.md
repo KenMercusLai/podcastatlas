@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13824
+wiki_total_pages: 13830
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2486,6 +2486,9 @@ wiki_pages:
   - key: "MalingBattle"
     title: "马陵之战 / Battle of Maling"
     url: "/wiki/entities/malingbattle/"
+  - key: "MagicStoneRecords"
+    title: "魔岩唱片 / Magic Stone Records"
+    url: "/wiki/entities/magicstonerecords/"
   - key: "MingmingHenmang"
     title: "鸣鸣很忙 / Mingming Henmang"
     url: "/wiki/entities/mingminghenmang/"

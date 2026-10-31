@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP292 对谈李皖：中国摇滚，在大厦崩塌中诞生](sources/ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg.md) — Talk三联对话李皖，以崔健、《一无所有》、媒介接触、唱片工业、时代合力与小型现场重审中国摇滚四十年。
 - [Is this how the great international borrowing spree ends?](sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868.md) — Planet Money uses France to explain why debt trajectory, financing cost, political capacity, and plan credibility matter more than a universal debt-ratio threshold.
 - [Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions](sources/allin-e295-ch-allin-e295-ch.md) — All-In on Anthropic's reported IPO economics, enterprise-spend progression, compute and capital constraints, Alphabet's portfolio transition, and contested midterm forecasts.
 - [2026秋季篇E07 家族悲剧，福冈母亲杀女事件](sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9.md) — 日谈物语 excerpt situating a 2006 Fukuoka case through Tojinmachi geography and family background before stopping short of the killing, disability connection, investigation, or outcome.
@@ -4901,6 +4902,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [李皖 / Li Wan (music critic)](entities/LiWanMusicCritic.md) — Music critic interpreting Chinese rock through listening history, personal truth, era expression, infrastructure, and changing public scale.
+- [黑豹乐队 / Black Panther Band](entities/BlackPantherBand.md) — Early Chinese rock band associated with cold urban imagery and cassette-era informal circulation.
+- [唐朝乐队 / Tang Dynasty Band](entities/TangDynastyBand.md) — Early Chinese rock band associated with expansive spiritual imagery and scarcity-era album reception.
+- [张楚 / Zhang Chu (musician)](entities/ZhangChuMusician.md) — Chinese rock musician associated with songs of social division, shame, and difficult ordinary experience.
+- [窦唯 / Dou Wei](entities/DouWei.md) — Chinese musician associated with inward, grey psychological expression within the early rock breakthrough.
+- [魔岩唱片 / Magic Stone Records](entities/MagicStoneRecords.md) — Record-company platform functioning as a resource hub and informal school in early Chinese rock professionalization.
 - [Olivier Blanchard](entities/OlivierBlanchard.md) — Economist linking debt sustainability to growth, interest costs, and a conditional French confidence danger zone.
 - [Thomas Philippon](entities/ThomasPhilippon.md) — Economist advocating gradual French budget balancing before market pressure forces harsher adjustment.
 - [European Central Bank](entities/EuropeanCentralBank.md) — Euro-area institution framed as a sovereign-panic backstop rather than a substitute for national fiscal choices.
@@ -18809,6 +18816,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Chinese Rock Social Formation / 中国摇滚的社会生成](concepts/ChineseRockSocialFormation.md) — Chinese rock as a local formation produced through imported forms, lived reality, social opening, individual awakening, and scene ecology.
+- [Music Access Infrastructure / 音乐接触基础设施](concepts/MusicAccessInfrastructure.md) — Media, peer exchange, equipment, institutions, and digital channels shaping what musicians and listeners can encounter and make.
+- [Era Collective Resonance / 时代合力共鸣](concepts/EraCollectiveResonance.md) — Cultural force co-produced when creators, audiences, and historical transition become mutually legible.
+- [Small-Venue Cultural Continuity / 小型现场的文化延续](concepts/SmallVenueCulturalContinuity.md) — Artistic persistence through intimate venues and niche communities after mass public centrality declines.
 - [Sovereign Debt Confidence Spiral](concepts/SovereignDebtConfidenceSpiral.md) — Feedback loop in which weakening confidence raises yields, worsens fiscal arithmetic, and can trigger still higher borrowing costs.
 - [AI Capital-Market Crowding](concepts/AICapitalMarketCrowding.md) — Risk that large AI and government financing needs compete for capital and transmit higher yields through infrastructure and the wider economy.
 - [Alphabet Portfolio Transition](concepts/AlphabetPortfolioTransition.md) — Shift from valuing Alphabet mainly as a search advertiser toward judging a diversified search, cloud, media, mobility, and investment portfolio.

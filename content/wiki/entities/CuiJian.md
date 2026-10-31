@@ -5,48 +5,50 @@ tags: [person, music, rock, china, generations]
 sources:
   - ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc
   - cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii
-last_updated: 2026-10-04
+  - ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
 # 崔健 / Cui Jian
 
 ## Overview
-崔健 / Cui Jian is represented first as a cross-generational cultural-memory reference and now directly as a musician, live performer, producer, and independent artist preparing a fortieth-anniversary concert while continuing to write, record, learn, and work across media.
+崔健 / Cui Jian is represented as a foundational Chinese rock musician, a cross-generational cultural-memory figure, and a present-tense artist who continues to perform, produce, learn, and revise rather than inhabit a fixed historical role.
 
 ## Current Profile
-The complete evidence set moves Cui from a name used to illustrate uneven generational recognition into an artist with an explicit present-tense practice. In [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]], he resists becoming a museum of his early arrangements, prioritizes newer work and long-term listeners, and treats artistic responsibility as continued revision rather than repetition.
+The evidence now connects historical emergence to living practice. [[ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg]] treats his 1986 performance of 《一无所有》 as a symbolic beginning before “Chinese rock” had become a settled public category. Li Wan describes his mature identity as grounded in truth, freedom, naturalness, independence, sensitivity, and continued response to technological and human change, while warning that a purely political symbol narrows his worldview.
 
-His practice joins live performance, studio production, lyrics, rhythm, electronic and experimental listening, theater, visual work, and AI-adjacent projects. He is skeptical of current AI music quality but does not reject AI categorically; his stronger boundary is that [[LiveMusicHumanConnection]] arises through people sharing sound, risk, and feeling. He also defends album-scale work, low-cost experimentation, wider musical education, and adaptation to aging without surrendering creative ambition.
+The direct interview in [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] shows those continuities as current practice: he resists museum-like reconstruction, prioritizes present judgment and newer work, uses lower-cost production to protect experimentation, studies wider musical languages, defends album-scale structure, and treats live co-presence as a distinctive human relation. [[ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc]] adds the qualification that cultural recognition fragments across generations and platforms.
 
 ## Key Characteristics
-- Musician whose catalog carries durable generational memory but whose own attention remains directed toward current and future work.
-- Live performer who treats arrangements, collaborators, staging, and audience response as changeable parts of a present event.
-- Independent artist who links freedom to lower production risk, trusted teams, and the ability to revise without owner pressure.
-- Learner who treats jazz, electronic music, rhythm traditions, and sound design as an expanding musical alphabet.
-- Cross-media creator interested in theater, visual art, immersive sound, magic, and AI-involved projects.
-- Source-scoped public figure whose full biography, discography, political reception, and place in Chinese rock history are not established by the current evidence inventory.
+- Foundational musician whose 1986 performance functions as a symbolic, not exhaustively proven, starting point for Chinese rock.
+- Artist whose commitments to truth, freedom, independence, and openness coexist with changing subjects, arrangements, media, and technologies.
+- Live performer who treats staging, collaborators, revision, audience response, and bodily co-presence as parts of a present event.
+- Independent producer who links creative autonomy to lower failure cost, trusted teams, and continued learning.
+- Cultural figure whose political reception is important but insufficient as a complete account of his worldview.
+- Cross-generational memory carrier whose recognition and meaning vary across audiences.
 
 ## Evidence
-- Generational memory: [[ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc]] uses a younger person's failure to recognize Cui as an example of cultural memory fragmenting across age and online communities.
-- Present-tense artistic identity: [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] has Cui distinguish gratitude toward old listeners from reproducing old arrangements and explain why newer work matters most to him.
-- Production and autonomy: [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] connects his own studio, lower failure cost, accurate monitoring, and trusted collaborators to greater expressive freedom.
-- Musical worldview: [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] presents albums, live connection, broad musical learning, and music's life-giving role as parts of one practice.
+- Historical role and values - [[ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg]] connects 《一无所有》, early genre formation, truth, freedom, independence, and concern with technology and humanity.
+- Present-tense identity - [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] records his resistance to nostalgic reconstruction and preference for current arrangements and mature new work.
+- Production and learning - [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] links studio autonomy, lower failure cost, broad listening, albums, rhythm, electronic music, and cross-media experimentation.
+- Generational memory - [[ep276-duihua-jiazhangke-shang-yige-shidai-zouyuan-yiding-shi-yinwei-lingyige-shidai-zai-kaojin-ni-lqzsj-ujv-gpem-796cvncekdewc]] uses uneven recognition of Cui as evidence of fragmented cultural memory.
 
 ## Qualifications
-The direct interview is a long, promotionally timed conversation before an anniversary concert and relies heavily on Cui's own account. Concert details, future releases, production history, AI forecasts, and broad comparisons among musical traditions remain source-scoped. The earlier Jia Zhangke episode establishes recognition across generations, not Cui's musical history.
+The evidence consists of one direct promotional interview, one film conversation using Cui as a generational reference, and one critic's retrospective history. It does not establish a complete biography, discography, political reception, or independent ranking of influence. The 1986 starting-point claim is symbolic periodization, and claims about AI, production economics, musical traditions, and forty-year continuity remain source-scoped.
 
 ## What Changed
-- Replaced a generational-reference stub with a direct, source-backed artist profile.
-- Added current performance, production, learning, album, AI, aging, and cross-media dimensions.
-- Preserved the earlier qualification that recognition varies across generations and platform communities.
+- Added a bounded historical role in Chinese rock's emergence without reducing Cui to an origin myth.
+- Connected long-running commitments to truth, freedom, independence, technology, and human conditions with current practice.
+- Qualified political-symbol and nostalgic readings as incomplete rather than simply false.
+- Preserved uneven cross-generational recognition as a limit on universal cultural memory.
 
 ## Relationships
-- [[LuoYonghao|罗永浩]] - interviewer and longtime listener who voices the nostalgia and release-access concerns of older fans.
-- [[LuoyonghaosCrossroads|罗永浩的十字路口]] - show hosting the direct artist-profile source.
-- [[JiaZhangke|贾樟柯]] - filmmaker responding to the earlier generational-memory example.
-- [[ArtisticContinuityAgainstNostalgia]] - describes Cui's refusal to freeze performance in remembered arrangements.
-- [[LiveMusicHumanConnection]] - captures his main boundary around what AI music does not readily replace.
-- [[AlbumAsIntegratedWork]] - formal principle he defends against single-track distribution logic.
-- [[LowCostCreativeAutonomy]] - production principle linking lower risk cost to freer experimentation.
-- [[MusicLanguageExpansion]] - educational principle behind his continued study of rhythm, jazz, electronic music, and other resources.
+- [[LiWanMusicCritic|李皖]] - critic whose retrospective account expands Cui's historical and intellectual profile.
+- [[ChineseRockSocialFormation]] - framework in which imported musical resources became locally grounded expression.
+- [[EraCollectiveResonance]] - explains why his early work acquired unusually broad historical force.
+- [[ArtisticContinuityAgainstNostalgia]] - describes his refusal to freeze living performance in remembered arrangements.
+- [[LiveMusicHumanConnection]] - captures his boundary between generated tracks and shared human performance.
+- [[AlbumAsIntegratedWork]] - formal principle he defends under single-track distribution.
+- [[LowCostCreativeAutonomy]] - production principle connecting lower risk to freer experimentation.
+- [[MusicLanguageExpansion]] - continuing study of rhythm, jazz, electronic music, and other resources.

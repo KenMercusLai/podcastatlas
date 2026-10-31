@@ -38233,3 +38233,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-31] ingest | EP292 对谈李皖：中国摇滚，在大厦崩塌中诞生
+
+Added source `ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg`; created [[LiWanMusicCritic]], [[BlackPantherBand]], [[TangDynastyBand]], [[ZhangChuMusician]], [[DouWei]], [[MagicStoneRecords]], [[ChineseRockSocialFormation]], [[MusicAccessInfrastructure]], [[EraCollectiveResonance]], and [[SmallVenueCulturalContinuity]]; and resynthesized [[CuiJian]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Chinese rock emerged as a local social formation rather than a finished imported genre; successive media and production networks shaped listening and creation; the 1990s peak depended on creators, audiences, and social transition together; and small-venue continuity can preserve artistic force without reproducing mass public centrality. No settled contradiction was adopted. Periodization, artistic rankings, industry causation, named-work interpretations, and international reception remain Li Wan's episode-scoped judgments, while regional scenes, women musicians, post-2000 communities, and younger listeners remain underrepresented. The broad [[TalkSanlian]] profile and automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,792 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

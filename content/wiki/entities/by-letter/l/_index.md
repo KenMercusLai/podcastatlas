@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13824
+wiki_total_pages: 13830
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2219,6 +2219,9 @@ wiki_pages:
   - key: "LiBai"
     title: "李白 / Li Bai"
     url: "/wiki/entities/libai/"
+  - key: "LiWanMusicCritic"
+    title: "李皖 / Li Wan (music critic)"
+    url: "/wiki/entities/liwanmusiccritic/"
   - key: "LiXiangruLateHan"
     title: "李相如 / Li Xiangru (late Han)"
     url: "/wiki/entities/lixiangrulatehan/"

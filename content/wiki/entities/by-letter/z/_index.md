@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 13824
+wiki_total_pages: 13830
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "ZhangLiangYellowTurban"
     title: "张梁 / Zhang Liang (Yellow Turban)"
     url: "/wiki/entities/zhangliangyellowturban/"
+  - key: "ZhangChuMusician"
+    title: "张楚 / Zhang Chu (musician)"
+    url: "/wiki/entities/zhangchumusician/"
   - key: "ZhangChuRegime"
     title: "张楚政权 / Zhang Chu Regime"
     url: "/wiki/entities/zhangchuregime/"

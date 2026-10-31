@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13824
+wiki_total_pages: 13830
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1736,6 +1736,9 @@ wiki_pages:
   - key: "TangDynasty"
     title: "唐朝 / Tang Dynasty"
     url: "/wiki/entities/tangdynasty/"
+  - key: "TangDynastyBand"
+    title: "唐朝乐队 / Tang Dynasty Band"
+    url: "/wiki/entities/tangdynastyband/"
   - key: "TangJie"
     title: "唐杰 / Tang Jie"
     url: "/wiki/entities/tangjie/"

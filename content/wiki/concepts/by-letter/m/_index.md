@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10936
+wiki_total_pages: 10940
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "MuseumTourismIcon"
     title: "Museum Tourism Icon"
     url: "/wiki/concepts/museumtourismicon/"
+  - key: "MusicAccessInfrastructure"
+    title: "Music Access Infrastructure / 音乐接触基础设施"
+    url: "/wiki/concepts/musicaccessinfrastructure/"
   - key: "MusicAffectiveCommunication"
     title: "Music Affective Communication"
     url: "/wiki/concepts/musicaffectivecommunication/"

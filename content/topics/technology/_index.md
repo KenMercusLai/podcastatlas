@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3698
+topic_total_pages: 3699
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3514,6 +3514,9 @@ topic_concepts:
   - key: "MundaneAIUseCases"
     title: "Mundane AI Use Cases"
     url: "/wiki/concepts/mundaneaiusecases/"
+  - key: "MusicAccessInfrastructure"
+    title: "Music Access Infrastructure / 音乐接触基础设施"
+    url: "/wiki/concepts/musicaccessinfrastructure/"
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"

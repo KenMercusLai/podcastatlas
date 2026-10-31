@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13824
+wiki_total_pages: 13830
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "DaocaorenTravel"
     title: "稻草人旅行 / Daocaoren Travel"
     url: "/wiki/entities/daocaorentravel/"
+  - key: "DouWei"
+    title: "窦唯 / Dou Wei"
+    url: "/wiki/entities/douwei/"
   - key: "DouGuEasternHan"
     title: "窦固 / Dou Gu (Eastern Han)"
     url: "/wiki/entities/dougueasternhan/"

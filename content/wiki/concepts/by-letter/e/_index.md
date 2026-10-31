@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10936
+wiki_total_pages: 10940
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "EquityRetirementAssetBinding"
     title: "Equity Retirement Asset Binding"
     url: "/wiki/concepts/equityretirementassetbinding/"
+  - key: "EraCollectiveResonance"
+    title: "Era Collective Resonance / 时代合力共鸣"
+    url: "/wiki/concepts/eracollectiveresonance/"
   - key: "EraTailwindInInvesting"
     title: "Era Tailwind In Investing / 投资时代红利"
     url: "/wiki/concepts/eratailwindininvesting/"
