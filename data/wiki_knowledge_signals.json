@@ -10450,6 +10450,22 @@
       "updated": "2026-10-20",
       "url": "/wiki/concepts/agentgoaldriftdetection/"
     },
+    "AgentIdentityGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/concepts/agentidentitygovernance/"
+    },
     "AgentMarketplace": {
       "episode_count": 3,
       "show_count": 3,
@@ -59635,6 +59651,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/concepts/contextinfrastructure/"
     },
+    "ContextualAgentAuthorization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/concepts/contextualagentauthorization/"
+    },
     "ContextualBanditPersonalization": {
       "episode_count": 1,
       "show_count": 1,
@@ -90121,9 +90153,9 @@
       "url": "/wiki/concepts/enterpriseagentcontrollayer/"
     },
     "EnterpriseAgentGovernance": {
-      "episode_count": 10,
-      "show_count": 7,
-      "source_note_count": 10,
+      "episode_count": 11,
+      "show_count": 8,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
@@ -90194,9 +90226,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-01",
       "url": "/wiki/concepts/enterpriseagentgovernance/"
     },
     "EnterpriseAgentMemory": {
@@ -90640,6 +90679,22 @@
       ],
       "updated": "2026-08-08",
       "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
+    },
+    "Entro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/entities/entro/"
     },
     "EntrustedResourcePowerTransfer": {
       "episode_count": 2,
@@ -137040,6 +137095,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/hulanstandup/"
+    },
+    "HumanAccountabilityForAIAgents": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/concepts/humanaccountabilityforaiagents/"
     },
     "HumanAgentCollaboration": {
       "episode_count": 16,
@@ -189708,6 +189779,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/mattmahan/"
+    },
+    "MattMills": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/entities/mattmills/"
     },
     "MatthewCoriotti": {
       "episode_count": 1,
@@ -251602,6 +251689,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/saidboutout/"
+    },
+    "SailPoint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881 [default.mp3_ywr3ahjkcgo_a8cec45811ced5bc9e8f89d02df77990_24477881].md",
+          "key": "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881",
+          "show": "Tomorrow, Today",
+          "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/entities/sailpoint/"
     },
     "SaintColumba": {
       "episode_count": 1,

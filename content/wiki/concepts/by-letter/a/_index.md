@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10940
+wiki_total_pages: 10943
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "AgentIdentityAndAuthentication"
     title: "Agent Identity And Authentication"
     url: "/wiki/concepts/agentidentityandauthentication/"
+  - key: "AgentIdentityGovernance"
+    title: "Agent Identity Governance"
+    url: "/wiki/concepts/agentidentitygovernance/"
   - key: "AgentInferenceWorkload"
     title: "Agent Inference Workload"
     url: "/wiki/concepts/agentinferenceworkload/"

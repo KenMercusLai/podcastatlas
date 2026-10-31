@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3443
+topic_total_pages: 3444
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2122,6 +2122,9 @@ topic_concepts:
   - key: "HuaweiNoCarManufacturingBoundary"
     title: "Huawei No-Car Manufacturing Boundary / 华为不造车边界"
     url: "/wiki/concepts/huaweinocarmanufacturingboundary/"
+  - key: "HumanAccountabilityForAIAgents"
+    title: "Human Accountability For AI Agents"
+    url: "/wiki/concepts/humanaccountabilityforaiagents/"
   - key: "HumanFlourishingProfit"
     title: "Human Flourishing Profit"
     url: "/wiki/concepts/humanflourishingprofit/"

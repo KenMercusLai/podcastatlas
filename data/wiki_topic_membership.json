@@ -13464,6 +13464,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AgentIdentityGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AgentIn": [
     {
       "key": "technology",
@@ -27490,6 +27497,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ContextualAgentAuthorization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ContextualBanditPersonalization": [
     {
       "key": "technology",
@@ -35639,6 +35653,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Entro": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "EntrustedResourcePowerTransfer": [
@@ -47983,6 +48004,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HumanAccountabilityForAIAgents": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HumanAgencyUnderAI": [
@@ -61136,6 +61164,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MattMills": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MattSchlicht": [
@@ -79803,6 +79838,13 @@
     }
   ],
   "SahilLavingia": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SailPoint": [
     {
       "key": "technology",
       "label": "Technology",
@@ -104710,6 +104752,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881": [
     {
       "key": "technology",
       "label": "Technology",

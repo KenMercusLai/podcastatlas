@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881.md) — Tomorrow Today interview on non-human identity ownership, contextual authorization, agent accountability, auditability, and trust.
 - [EP292 对谈李皖：中国摇滚，在大厦崩塌中诞生](sources/ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg.md) — Talk三联对话李皖，以崔健、《一无所有》、媒介接触、唱片工业、时代合力与小型现场重审中国摇滚四十年。
 - [Is this how the great international borrowing spree ends?](sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868.md) — Planet Money uses France to explain why debt trajectory, financing cost, political capacity, and plan credibility matter more than a universal debt-ratio threshold.
 - [Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions](sources/allin-e295-ch-allin-e295-ch.md) — All-In on Anthropic's reported IPO economics, enterprise-spend progression, compute and capital constraints, Alphabet's portfolio transition, and contested midterm forecasts.
@@ -4902,6 +4903,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [Matt Mills](entities/MattMills.md) — SailPoint president advocating accountable ownership and contextual authorization for AI agents.
+- [SailPoint](entities/SailPoint.md) — enterprise identity-governance company extending access lifecycle controls to non-human identities and AI agents.
+- [Entro](entities/Entro.md) — SailPoint-acquired capability for discovering, categorizing, and assigning owners to non-human identities.
 - [李皖 / Li Wan (music critic)](entities/LiWanMusicCritic.md) — Music critic interpreting Chinese rock through listening history, personal truth, era expression, infrastructure, and changing public scale.
 - [黑豹乐队 / Black Panther Band](entities/BlackPantherBand.md) — Early Chinese rock band associated with cold urban imagery and cassette-era informal circulation.
 - [唐朝乐队 / Tang Dynasty Band](entities/TangDynastyBand.md) — Early Chinese rock band associated with expansive spiritual imagery and scarcity-era album reception.
@@ -18816,6 +18820,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Agent Identity Governance](concepts/AgentIdentityGovernance.md) — lifecycle governance for discovering, owning, authorizing, certifying, and revoking agent identities.
+- [Contextual Agent Authorization](concepts/ContextualAgentAuthorization.md) — real-time access decisions based on identity, action, resource, device, location, time, and risk.
+- [Human Accountability For AI Agents](concepts/HumanAccountabilityForAIAgents.md) — responsibility model separating formal human ownership from practical capacity to control agent behavior.
 - [Chinese Rock Social Formation / 中国摇滚的社会生成](concepts/ChineseRockSocialFormation.md) — Chinese rock as a local formation produced through imported forms, lived reality, social opening, individual awakening, and scene ecology.
 - [Music Access Infrastructure / 音乐接触基础设施](concepts/MusicAccessInfrastructure.md) — Media, peer exchange, equipment, institutions, and digital channels shaping what musicians and listeners can encounter and make.
 - [Era Collective Resonance / 时代合力共鸣](concepts/EraCollectiveResonance.md) — Cultural force co-produced when creators, audiences, and historical transition become mutually legible.

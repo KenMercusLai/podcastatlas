@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13830
+wiki_total_pages: 13833
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "SAICMotor"
     title: "SAIC Motor / 上汽"
     url: "/wiki/entities/saicmotor/"
+  - key: "SailPoint"
+    title: "SailPoint"
+    url: "/wiki/entities/sailpoint/"
   - key: "SaintColumba"
     title: "Saint Columba"
     url: "/wiki/entities/saintcolumba/"

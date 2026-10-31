@@ -38241,3 +38241,11 @@ Added source `ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng
 ## [2026-10-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-01] ingest | Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881`; created [[MattMills]], [[SailPoint]], [[Entro]], [[AgentIdentityGovernance]], [[ContextualAgentAuthorization]], and [[HumanAccountabilityForAIAgents]]; and resynthesized [[EnterpriseAgentGovernance]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: agent governance requires discovering non-human identities, assigning accountable owners, certifying and revoking access, and evaluating actions in context at real time; a human owner creates a practical accountability anchor without proving that the owner can predict or control emergent behavior; and AI-driven policy engines must themselves be auditable and bounded. No settled contradiction was adopted. Company scale, breach prevalence, product integration, suite performance, and regulatory demand remain vendor- or episode-scoped because the supplied file is a structured summary rather than a transcript, audit, system evaluation, or legal analysis. Broad [[TomorrowToday]], [[ShekharNatarajan]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,793 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

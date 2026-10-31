@@ -8067,6 +8067,10 @@
     "title": "Agent Identity And Authentication",
     "url": "/wiki/concepts/agentidentityandauthentication/"
   },
+  "AgentIdentityGovernance": {
+    "title": "Agent Identity Governance",
+    "url": "/wiki/concepts/agentidentitygovernance/"
+  },
   "AgentIn": {
     "title": "AgentIn",
     "url": "/wiki/entities/agentin/"
@@ -23271,6 +23275,10 @@
     "title": "Context Infrastructure",
     "url": "/wiki/concepts/contextinfrastructure/"
   },
+  "ContextualAgentAuthorization": {
+    "title": "Contextual Agent Authorization",
+    "url": "/wiki/concepts/contextualagentauthorization/"
+  },
   "ContextualBanditPersonalization": {
     "title": "Contextual Bandit Personalization",
     "url": "/wiki/concepts/contextualbanditpersonalization/"
@@ -31782,6 +31790,10 @@
   "EntrepreneurshipInfrastructure": {
     "title": "Entrepreneurship Infrastructure",
     "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
+  },
+  "Entro": {
+    "title": "Entro",
+    "url": "/wiki/entities/entro/"
   },
   "EntrustedResourcePowerTransfer": {
     "title": "Entrusted-Resource Power Transfer / 受托资源反向转移",
@@ -44926,6 +44938,10 @@
   "Hulu": {
     "title": "Hulu",
     "url": "/wiki/entities/hulu/"
+  },
+  "HumanAccountabilityForAIAgents": {
+    "title": "Human Accountability For AI Agents",
+    "url": "/wiki/concepts/humanaccountabilityforaiagents/"
   },
   "HumanAgencyUnderAI": {
     "title": "Human Agency Under AI",
@@ -60262,6 +60278,10 @@
   "MattMahan": {
     "title": "Matt Mahan",
     "url": "/wiki/entities/mattmahan/"
+  },
+  "MattMills": {
+    "title": "Matt Mills",
+    "url": "/wiki/entities/mattmills/"
   },
   "MattSchlicht": {
     "title": "Matt Schlicht",
@@ -79582,6 +79602,10 @@
   "SaidBoutout": {
     "title": "Saïd Boutout",
     "url": "/wiki/entities/saidboutout/"
+  },
+  "SailPoint": {
+    "title": "SailPoint",
+    "url": "/wiki/entities/sailpoint/"
   },
   "SaintColumba": {
     "title": "Saint Columba",
@@ -105290,6 +105314,10 @@
   "default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031": {
     "title": "Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031/"
+  },
+  "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881": {
+    "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
   },
   "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476": {
     "title": "Charles Ponzi's scheme (plus a new scam)",
