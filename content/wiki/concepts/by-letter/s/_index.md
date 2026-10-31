@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10935
+wiki_total_pages: 10936
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1589,6 +1589,9 @@ wiki_pages:
   - key: "SovereignAIModels"
     title: "Sovereign AI Models / 主权AI模型"
     url: "/wiki/concepts/sovereignaimodels/"
+  - key: "SovereignDebtConfidenceSpiral"
+    title: "Sovereign Debt Confidence Spiral"
+    url: "/wiki/concepts/sovereigndebtconfidencespiral/"
   - key: "SovereignHousingDevelopment"
     title: "Sovereign Housing Development"
     url: "/wiki/concepts/sovereignhousingdevelopment/"

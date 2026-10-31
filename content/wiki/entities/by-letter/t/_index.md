@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13821
+wiki_total_pages: 13824
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "ThomasPaine"
     title: "Thomas Paine / 托马斯·潘恩"
     url: "/wiki/entities/thomaspaine/"
+  - key: "ThomasPhilippon"
+    title: "Thomas Philippon"
+    url: "/wiki/entities/thomasphilippon/"
   - key: "ThomasPhillips"
     title: "Thomas Phillips"
     url: "/wiki/entities/thomasphillips/"

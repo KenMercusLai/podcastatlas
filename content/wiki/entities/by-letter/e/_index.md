@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13821
+wiki_total_pages: 13824
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "Euripides"
     title: "Euripides / 欧里比德斯"
     url: "/wiki/entities/euripides/"
+  - key: "EuropeanCentralBank"
+    title: "European Central Bank"
+    url: "/wiki/entities/europeancentralbank/"
   - key: "EuropeanCentreForDiseasePreventionAndControl"
     title: "European Centre for Disease Prevention and Control"
     url: "/wiki/entities/europeancentrefordiseasepreventionandcontrol/"

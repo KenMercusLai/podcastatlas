@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2774
+topic_total_pages: 2775
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2162,6 +2162,9 @@ topic_entities:
   - key: "Fotucheng"
     title: "Fotucheng / 佛图澄"
     url: "/wiki/entities/fotucheng/"
+  - key: "France"
+    title: "France"
+    url: "/wiki/entities/france/"
   - key: "FranklinDRoosevelt"
     title: "Franklin D. Roosevelt"
     url: "/wiki/entities/franklindroosevelt/"

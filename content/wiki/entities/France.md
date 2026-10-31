@@ -1,7 +1,7 @@
 ---
 title: "France"
 type: entity
-tags: [country, politics, europe, coffee, film, culture, resistance, medieval-history]
+tags: [country, politics, europe, culture, history, fiscal-policy]
 sources:
   - 692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025
   - 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087
@@ -14,7 +14,8 @@ sources:
   - 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763
   - burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
-last_updated: 2026-09-04
+  - default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868
+last_updated: 2026-10-31
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,58 +23,63 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-France is a multi-branch national setting in the wiki: medieval superpower and dynastic pressure field, Elizabethan confessional neighbor, modern electoral and platform-regulation case, wildfire setting, literary and film culture setting, coffeehouse-public-sphere site, and occupation-resistance comparison.
+France is a multi-period national setting in the wiki: medieval monarchy and dynastic rival, Elizabethan confessional neighbor, cultural and public-sphere center, occupation-resistance case, modern electoral and regulatory state, wildfire setting, and now a test of advanced-economy sovereign-debt credibility.
 
 ## Current Profile
 
-The medieval branch now presents France as the stronger power before the [[HundredYearsWar|Hundred Years' War]]: richer and more populous than [[England]], administratively prestigious, culturally central to chivalry, and stabilized by the [[CapetianDynasty|Capetian]] succession until [[PhilipIVOfFrance|Philip IV]]'s sons fail to leave surviving male heirs. The choice of [[PhilipVIOfFrance|Philip VI]] over [[EdwardIIIOfEngland|Edward III]] becomes one legitimacy pressure, while French overlordship over [[Gascony]] and [[Aquitaine]] supplies the territorial-legal pressure.
+The historical sources present France as both a powerful monarchy and an unstable strategic field. Medieval wealth, population, prestige, Capetian succession failure, and overlordship over English-held Gascony help produce the [[HundredYearsWar|Hundred Years' War]]. In the Elizabethan branch, massacre memory, Guise networks, Anjou diplomacy, and the War of the Three Henrys make France both a source of Protestant security fear and an unreliable anti-Spanish partner. Cultural sources add Restoration fiction, New Wave film, Paris coffeehouse public life, and technical resistance under occupation.
 
-The Elizabethan branch makes France both a trauma source and an unreliable counterweight. The [[StBartholomewsDayMassacre]] hardens English Protestant security imagination, while Anjou, Guise, Henry III, Navarre, the Catholic League, and the War of the Three Henrys make France too unstable to be a dependable anti-Spanish partner. Other sources use France for modern politics, platform age bans, wildfire risk, coffeehouse public culture, French literary and film modernity, and Rene Carmille's technical resistance under occupation.
+The contemporary profile is similarly plural. France appears in far-right electoral normalization, child social-media regulation, and extreme wildfire risk. The fiscal branch now treats it as an advanced-economy stress case: debt accumulated under cheap money and crisis response, while higher rates, weak growth, protest over strained services, and fragmented politics reduce confidence in gradual adjustment. The key judgment is conditional rather than catastrophic: France retains euro-area backstops and policy options, but worsening direction and lost credibility can matter more than its starting debt ratio.
 
 ## Key Characteristics
 
-- Medieval France is framed as a rich, populous, prestigious monarchy whose strength makes England's challenge dramatic.
-- Capetian succession stability turns into crisis when direct male succession fails after Philip IV's sons.
-- French overlordship over Gascony/Aquitaine lets homage, appeals, investigation, and forfeiture become pressure on English kings.
-- Elizabethan France is both massacre-memory source and unstable diplomatic counterweight in England's anti-Spanish crisis.
-- Modern France appears as an electoral, regulatory, and wildfire-risk setting.
-- French cultural branches include Restoration fiction, New Wave film, and coffeehouse public culture.
-- The occupation-data branch uses France as the setting for technical resistance from within.
+- Medieval France is framed as a rich, populous monarchy whose succession and territorial claims structure conflict with England.
+- Elizabethan France is both massacre-memory source and unstable diplomatic counterweight in the conflict with Spain.
+- French cultural branches include Restoration literature, New Wave film, and coffeehouse public culture.
+- Occupation France supplies a case of technical resistance from within through Rene Carmille.
+- Modern France appears as an electoral, platform-regulation, and wildfire-risk setting.
+- Public-service demands, pensions, debt, higher financing costs, and protest create a contested fiscal-social constraint.
+- Sovereign credibility depends on debt direction, growth, interest cost, and political capacity rather than one ratio.
 
 ## Evidence
 
-- Medieval power and succession: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] presents France as wealthier, more populous, and more prestigious than England, then links Capetian failure to Philip VI's contested Valois accession.
-- Gascony/Aquitaine pressure: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says French kings can use homage, appeals, investigation, and confiscation to pressure English-held lands.
-- Elizabethan trauma and instability: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect France to massacre memory, Anjou diplomacy, Guise networks, and the War of the Three Henrys.
-- Electoral and regulatory setting: [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] frames the April 2027 presidential race around Marine Le Pen and the two-round system, while [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] uses France for under-15 social-media age-ban enforcement tradeoffs.
-- Cultural and public-sphere setting: [[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]], [[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]], and [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] connect France to Restoration class mobility, New Wave film, Paris cultural controversy, and coffeehouse public talk.
-- Occupation and climate setting: [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] contrasts Rene Carmille's French technical resistance with Dutch occupation data administration, while [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] uses France in the wildfire-risk branch.
+### Medieval and confessional power
+- [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links French strength, Capetian failure, Valois accession, and Gascony/Aquitaine pressure to the war threshold.
+- [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect France to massacre memory, Anjou diplomacy, Guise networks, and confessional-war instability.
+
+### Culture, occupation, and public life
+- [[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]], [[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]], and [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] connect France to Restoration class mobility, French New Wave film, Paris controversy, and coffeehouse public talk.
+- [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] uses Rene Carmille's technical resistance to contrast occupation-era data administration.
+
+### Contemporary politics, regulation, and climate
+- [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] frames the 2027 presidential contest around Marine Le Pen and the two-round system.
+- [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] uses France's under-15 social-media ban to surface enforcement and privacy tradeoffs, while [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] uses France in the extreme-wildfire branch.
+
+### Fiscal credibility and social constraint
+- [[default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868]] links rising debt, financing cost, service demands, protest, political fragmentation, and a weakening market assumption that France will eventually correct its finances.
 
 ## Qualifications
 
-This page deliberately compresses distinct French branches and should not be read as a single theory of France. Medieval royal power, early-modern confessional politics, modern electoral law, platform regulation, wildfire risk, literature, film, coffee, and occupation resistance come from different source contexts with different standards of evidence.
+This page compresses distinct periods and evidence types rather than offering one theory of France. The fiscal source is a reported episode, not an official debt audit, market decomposition, political forecast, or complete distributional analysis. France is not presented as certain to default: central-bank support, rescue capacity, changed policy, growth, and market conditions can alter the path.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1` and added medieval France as the dominant monarchy in the Hundred Years' War origin branch.
+- Added France as a sovereign-debt credibility test where trajectory and political capacity can outweigh the headline ratio.
+- Integrated legitimate public-service demands and protest into the fiscal adjustment boundary without adopting one causal diagnosis.
+- Added euro-area backstops as protection against panic rather than substitutes for fiscal choices.
 
 ## Relationships
 
 - [[England]] - medieval rival and Elizabethan neighbor shaped by French pressure.
-- [[HundredYearsWar]] - conflict whose origin branch now anchors medieval France.
-- [[CapetianDynasty]] - royal house whose succession stability and rupture frame the medieval branch.
-- [[ValoisDynasty]] - dynasty selected after direct Capetian male failure.
-- [[PhilipIVOfFrance]] - Capetian ruler at the source's peak-of-power moment.
-- [[PhilipVIOfFrance]] - Valois ruler whose accession and Aquitaine confiscation shape the war threshold.
-- [[Gascony]] - English-held territory subject to French overlordship and appeal pressure.
-- [[Aquitaine]] - duchy whose confiscation opens war in the episode.
-- [[Scotland]] - ally whose rights Philip VI invokes in Anglo-French diplomacy.
-- [[StBartholomewsDayMassacre]] - Elizabethan trauma-memory event located in France.
-- [[WarOfTheThreeHenrys]] - instability that removes France as a reliable Elizabethan counterweight.
-- [[MarineLePen]] - modern French electoral actor in the 2027 race branch.
-- [[SocialMediaAgeBans]] - regulatory branch using France's under-15 ban as a case.
+- [[HundredYearsWar]] - conflict whose origin branch anchors medieval France.
+- [[CapetianDynasty]] - royal house whose succession rupture frames the medieval branch.
+- [[StBartholomewsDayMassacre]] - trauma-memory event shaping Elizabethan security politics.
+- [[MarineLePen]] - modern electoral actor in the 2027 race branch.
 - [[FrenchRestoration]] - literary-political setting for the Red and the Black branch.
 - [[FrenchNewWave]] - film-history branch centered on Jules and Jim.
-- [[CoffeehousePublicSphere]] - historical public-talk branch using Paris coffeehouses.
+- [[CoffeehousePublicSphere]] - public-talk branch using Paris coffeehouses.
 - [[ReneCarmille|Rene Carmille / 勒内·卡米耶]] - occupation-data resistance figure.
 - [[ExtremeWildfire]] - climate-risk branch where France is a recent fire setting.
+- [[SovereignDebtConfidenceSpiral]] - fiscal-market feedback now attached to France's worsening trajectory.
+- [[FiscalSocialCrisisFeedback]] - interaction among service demands, protest, debt, and adjustment capacity.
+- [[EuropeanCentralBank|European Central Bank]] - euro-area institution that may interrupt a self-fulfilling panic.

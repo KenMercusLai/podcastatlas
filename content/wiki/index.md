@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Is this how the great international borrowing spree ends?](sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868.md) — Planet Money uses France to explain why debt trajectory, financing cost, political capacity, and plan credibility matter more than a universal debt-ratio threshold.
 - [Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions](sources/allin-e295-ch-allin-e295-ch.md) — All-In on Anthropic's reported IPO economics, enterprise-spend progression, compute and capital constraints, Alphabet's portfolio transition, and contested midterm forecasts.
 - [2026秋季篇E07 家族悲剧，福冈母亲杀女事件](sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9.md) — 日谈物语 excerpt situating a 2006 Fukuoka case through Tojinmachi geography and family background before stopping short of the killing, disability connection, investigation, or outcome.
 - [E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯](sources/lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8.md) — 知行小酒馆对话郭凯，区分新旧经济贡献交叉与家庭体感修复，并以家庭分散承压、轻信贷转型和财税传导解释不同步。
@@ -4900,6 +4901,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [Olivier Blanchard](entities/OlivierBlanchard.md) — Economist linking debt sustainability to growth, interest costs, and a conditional French confidence danger zone.
+- [Thomas Philippon](entities/ThomasPhilippon.md) — Economist advocating gradual French budget balancing before market pressure forces harsher adjustment.
+- [European Central Bank](entities/EuropeanCentralBank.md) — Euro-area institution framed as a sovereign-panic backstop rather than a substitute for national fiscal choices.
 - [郭凯 / Guo Kai (economist)](entities/GuoKaiEconomist.md) — CF40研究院院长，以新旧增长动力、家庭承压、轻信贷转型和财税传导分析中国经济新范式。
 - [中国金融四十人研究院 / CF40 Research Institute](entities/CF40ResearchInstitute.md) — 以房地产、新经济、信贷、通胀和财税改革研究中国经济转型的研究机构。
 - [Cicely Gemmell](entities/CicelyGemmell.md) — Churchill's postwar personal secretary, archive worker, household assistant, and later New York magazine employee.
@@ -18805,6 +18809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Sovereign Debt Confidence Spiral](concepts/SovereignDebtConfidenceSpiral.md) — Feedback loop in which weakening confidence raises yields, worsens fiscal arithmetic, and can trigger still higher borrowing costs.
 - [AI Capital-Market Crowding](concepts/AICapitalMarketCrowding.md) — Risk that large AI and government financing needs compete for capital and transmit higher yields through infrastructure and the wider economy.
 - [Alphabet Portfolio Transition](concepts/AlphabetPortfolioTransition.md) — Shift from valuing Alphabet mainly as a search advertiser toward judging a diversified search, cloud, media, mobility, and investment portfolio.
 - [Enterprise AI Spend Escalation](concepts/EnterpriseAISpendEscalation.md) — Progression from experiments and small purchases into renewable, cross-functionally approved multimillion-dollar AI deployments.

@@ -9373,9 +9373,9 @@
       "url": "/wiki/concepts/advancedagricultureinnovation/"
     },
     "AdvancedEconomyBondYieldPressure": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "69104aa52182b702669d450d025a7dac [69104aa52182b702669d450d025a7dac.mp3？aid=6ac76b2739599f7c56294e34&chid=d556eb54-6160-4.280].md",
@@ -9383,9 +9383,16 @@
           "show": "Economist Podcasts",
           "title": "Valley of the shadow of debt: bond-market jitters",
           "url": "/wiki/sources/valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-31",
       "url": "/wiki/concepts/advancedeconomybondyieldpressure/"
     },
     "AdvantageFirstCombatDoctrine": {
@@ -24375,9 +24382,9 @@
       "url": "/wiki/concepts/auspiciousomenpolitics/"
     },
     "Austerity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196 [default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196].md",
@@ -24392,9 +24399,16 @@
           "show": "Economist Podcasts",
           "title": "Chainsaw sputtering: Milei's experiment falters",
           "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-31",
       "url": "/wiki/concepts/austerity/"
     },
     "Australia": {
@@ -92449,6 +92463,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/europeanamazonprojection/"
     },
+    "EuropeanCentralBank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
+        }
+      ],
+      "updated": "2026-10-31",
+      "url": "/wiki/entities/europeancentralbank/"
+    },
     "EuropeanDefenseAutonomy": {
       "episode_count": 7,
       "show_count": 4,
@@ -102060,9 +102090,9 @@
       "url": "/wiki/concepts/fiscalmonetarytransmissiondifference/"
     },
     "FiscalSocialCrisisFeedback": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ALLIN-E294_Ch [ALLIN-E294_Ch].md",
@@ -102070,9 +102100,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
           "url": "/wiki/sources/allin-e294-ch-allin-e294-ch/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
         }
       ],
-      "updated": "2026-10-24",
+      "updated": "2026-10-31",
       "url": "/wiki/concepts/fiscalsocialcrisisfeedback/"
     },
     "FiscalStockAndHouseholdRebalancing": {
@@ -105210,9 +105247,9 @@
       "url": "/wiki/concepts/fragrancewardrobe/"
     },
     "France": {
-      "episode_count": 11,
-      "show_count": 4,
-      "source_note_count": 11,
+      "episode_count": 12,
+      "show_count": 5,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -105290,9 +105327,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-31",
       "url": "/wiki/entities/france/"
     },
     "FrancesChristie": {
@@ -212056,6 +212100,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/olivernorth/"
     },
+    "OlivierBlanchard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
+        }
+      ],
+      "updated": "2026-10-31",
+      "url": "/wiki/entities/olivierblanchard/"
+    },
     "Ollama": {
       "episode_count": 1,
       "show_count": 1,
@@ -267662,6 +267722,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
     },
+    "SovereignDebtConfidenceSpiral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
+        }
+      ],
+      "updated": "2026-10-31",
+      "url": "/wiki/concepts/sovereigndebtconfidencespiral/"
+    },
     "SovereignFriendshipHierarchy": {
       "episode_count": 1,
       "show_count": 1,
@@ -284674,6 +284750,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/thomaspaine/"
     },
+    "ThomasPhilippon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
+        }
+      ],
+      "updated": "2026-10-31",
+      "url": "/wiki/entities/thomasphilippon/"
+    },
     "ThomasSeymour": {
       "episode_count": 2,
       "show_count": 1,
@@ -291575,9 +291667,9 @@
       "url": "/wiki/concepts/usfastfoodchinaexpansion/"
     },
     "USFiscalDebtSpiralRisk": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -291613,9 +291705,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Debt Spiral or NEW Golden Age? Super Bowl Insider Trading, Booming Token Budgets, Ferrari's New EV",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev-40104725/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868 [default.mp3_ywr3ahjkcgo_b8c2d219a36fe18847b69893a72e39d1_27824868].md",
+          "key": "default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868",
+          "show": "Planet Money",
+          "title": "Is this how the great international borrowing spree ends?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868-default-mp3-ywr3ahjkcgo-b8c2d219a36fe18847b69893a72e39d1-27824868/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-10-31",
       "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
     },
     "USImmigrationAndCustomsEnforcement": {

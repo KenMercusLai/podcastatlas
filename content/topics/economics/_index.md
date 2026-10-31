@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2338
+topic_total_pages: 2339
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4925,6 +4925,9 @@ topic_entities:
   - key: "Nvidia"
     title: "Nvidia"
     url: "/wiki/entities/nvidia/"
+  - key: "OlivierBlanchard"
+    title: "Olivier Blanchard"
+    url: "/wiki/entities/olivierblanchard/"
   - key: "OmidKordestani"
     title: "Omid Kordestani"
     url: "/wiki/entities/omidkordestani/"
