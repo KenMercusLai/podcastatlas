@@ -38257,3 +38257,11 @@ Added source `lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl`; create
 ## [2026-11-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-02] ingest | [年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会
+
+Added source `nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb`; created [[AIModelCapabilitySpectacle|AI 模型能力奇观]] and [[OnDemandPersonalSoftware|按需个人软件]]; migrated and resynthesized [[ZhuangMinghao|庄明浩 / 庄明昊]] from its complete preserved evidence inventory before appending the new source once; and resynthesized [[TaskSpecificSmallModelEconomics]] and [[HumanImperfectionCreativeValue|人类瑕疵的创作价值]] from their complete bounded inputs. Core synthesis: early agent products converged attention on context, permissions, persistence, notification, skills, and collaboration; compact models can widen local and specialized deployment as older frontier capability diffuses; natural-language programming lowers the minimum audience and lifetime for personal software while trust-heavy systems retain stronger boundaries; perceptible multimodal spectacle can complement but not replace rigorous model evaluation; and synthetic polish can make rough, contingent human form newly scarce. No settled contradiction was adopted. Product names, release dates, App Store revenue change, model-following intervals, OpenRouter distribution, company leadership, attack incidents, and performance claims remain episode-scoped because the supplied markdown is a structured summary rather than a transcript, primary technical record, market dataset, or security report. Broad agent, RSI, video-model, cyber-misuse, routing, application-moat, show, host, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,795 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

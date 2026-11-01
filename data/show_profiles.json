@@ -1653,14 +1653,14 @@
       "earliest_episode_date": "2026-03-08",
       "latest_episode_date": "2026-11-01",
       "latest_episode_file": "lqXcQjZbUePdvtQOvOZF8bEPxBzB [lqXcQjZbUePdvtQOvOZF8bEPxBzB].md",
-      "source_note_count": 36,
-      "topic_matched_source_note_count": 32,
+      "source_note_count": 37,
+      "topic_matched_source_note_count": 33,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 32
+          "source_note_count": 33
         },
         {
           "key": "economics",
@@ -1727,9 +1727,9 @@
         }
       ],
       "start_here_episode_files": [
+        "lqXcQjZbUePdvtQOvOZF8bEPxBzB [lqXcQjZbUePdvtQOvOZF8bEPxBzB].md",
         "lsJEudLUybIGsXWwu9v_u2KuRpSM [lsJEudLUybIGsXWwu9v_u2KuRpSM].md",
         "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者 [lmk4LUckJgN-CPIVD-7Dy9VmsL0u].md",
-        "lqXcQjZbUePdvtQOvOZF8bEPxBzB [lqXcQjZbUePdvtQOvOZF8bEPxBzB].md",
         "lpbsXeoXbCgTv0QckX8lCTPdwViV [lpbsXeoXbCgTv0QckX8lCTPdwViV].md"
       ]
     },

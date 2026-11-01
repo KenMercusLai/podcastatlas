@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10945
+wiki_total_pages: 10947
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "OnDemandApps"
     title: "On-Demand Apps"
     url: "/wiki/concepts/ondemandapps/"
+  - key: "OnDemandPersonalSoftware"
+    title: "On-Demand Personal Software / 按需个人软件"
+    url: "/wiki/concepts/ondemandpersonalsoftware/"
   - key: "OnDeviceAI"
     title: "On-Device AI"
     url: "/wiki/concepts/ondeviceai/"

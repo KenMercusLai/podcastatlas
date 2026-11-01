@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [\[年终复盘①\]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb.md) — 十字路口Crossing以十个个人时刻串联Agent范式、视频模型、RSI、小模型扩散、按需软件、能力奇观与人类粗粝价值。
 - [EP96 200块报名费，撑得起一场马拉松吗？](sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl.md) — 一劳永逸对比上海、东京与香港马拉松，拆解报名费之外的赛事融资、城市消费、个人成本与参赛能力边界。
 - [Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881.md) — Tomorrow Today interview on non-human identity ownership, contextual authorization, agent accountability, auditability, and trust.
 - [EP292 对谈李皖：中国摇滚，在大厦崩塌中诞生](sources/ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg.md) — Talk三联对话李皖，以崔健、《一无所有》、媒介接触、唱片工业、时代合力与小型现场重审中国摇滚四十年。
@@ -18821,6 +18822,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [AI Model Capability Spectacle / AI 模型能力奇观](concepts/AIModelCapabilitySpectacle.md) — 用动态视频、3D、游戏或跨媒介作品把模型能力变化转化为可直观判断、但仍需可靠性验证的发布信号。
+- [On-Demand Personal Software / 按需个人软件](concepts/OnDemandPersonalSoftware.md) — 为个人即时工作流生成、受信任和维护边界约束的窄功能短生命周期软件。
 - [Mass-Participation Sports Event Financing / 群众体育赛事融资](concepts/MassParticipationSportsEventFinancing.md) — Mixed fee, sponsorship, in-kind, and public-service system supporting city-scale participation events.
 - [Marathon Participation Cost Boundary / 马拉松参赛成本与能力边界](concepts/MarathonParticipationCostBoundary.md) — Full financial, time, preparation, recovery, and physical-suitability boundary for race participation.
 - [Agent Identity Governance](concepts/AgentIdentityGovernance.md) — lifecycle governance for discovering, owning, authorizing, certifying, and revoking agent identities.

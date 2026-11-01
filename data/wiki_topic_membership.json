@@ -10913,6 +10913,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIModelCapabilitySpectacle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIModelCensorship": [
     {
       "key": "technology",
@@ -67726,6 +67733,13 @@
       "url": "/topics/science/"
     }
   ],
+  "OnDemandPersonalSoftware": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "OnDeviceAI": [
     {
       "key": "technology",
@@ -108527,6 +108541,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504": [

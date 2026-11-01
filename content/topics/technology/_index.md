@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3705
+topic_total_pages: 3708
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -769,6 +769,9 @@ topic_concepts:
   - key: "AIModelBiasGovernance"
     title: "AI Model Bias Governance"
     url: "/wiki/concepts/aimodelbiasgovernance/"
+  - key: "AIModelCapabilitySpectacle"
+    title: "AI Model Capability Spectacle / AI 模型能力奇观"
+    url: "/wiki/concepts/aimodelcapabilityspectacle/"
   - key: "AIModelCensorship"
     title: "AI Model Censorship"
     url: "/wiki/concepts/aimodelcensorship/"
@@ -3643,6 +3646,9 @@ topic_concepts:
   - key: "OnDeviceFastSlowBrain"
     title: "On Device Fast Slow Brain"
     url: "/wiki/concepts/ondevicefastslowbrain/"
+  - key: "OnDemandPersonalSoftware"
+    title: "On-Demand Personal Software / 按需个人软件"
+    url: "/wiki/concepts/ondemandpersonalsoftware/"
   - key: "OnDeviceAI"
     title: "On-Device AI"
     url: "/wiki/concepts/ondeviceai/"
@@ -9483,6 +9489,9 @@ topic_sources:
   - key: "94-silicon-valley-part-2-glt3075342575"
     title: "94. Silicon Valley Part 2"
     url: "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
+  - key: "nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb"
+    title: "[年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会"
+    url: "/wiki/sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb/"
   - key: "tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128"
     title: "A case for AI models that understand, not just predict, the way the world works"
     url: "/wiki/sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10945
+wiki_total_pages: 10947
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "AIModelBiasGovernance"
     title: "AI Model Bias Governance"
     url: "/wiki/concepts/aimodelbiasgovernance/"
+  - key: "AIModelCapabilitySpectacle"
+    title: "AI Model Capability Spectacle / AI 模型能力奇观"
+    url: "/wiki/concepts/aimodelcapabilityspectacle/"
   - key: "AIModelCensorship"
     title: "AI Model Censorship"
     url: "/wiki/concepts/aimodelcensorship/"

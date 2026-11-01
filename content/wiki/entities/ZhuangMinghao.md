@@ -2,29 +2,54 @@
 title: "庄明浩 / 庄明昊"
 type: entity
 tags: [person, host, product]
-sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
-last_updated: 2026-08-08
+knowledge_schema: synthesis-v1
+sources:
+  - 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4
+  - 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs
+  - 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob
+  - 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs
+  - 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt
+  - nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb
+last_updated: 2026-11-02
 ---
 
 # 庄明浩 / 庄明昊
 
-庄明浩 appears in [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] as the [[Luanfanshu]] host framing the episode around whether frontier models are eating the application layer. He uses [[Sora]], [[Adobe]], [[Meitu]], and AI coding tools to ask where tool-software moats remain once models can generate or operate more of the workflow.
+## Overview
+庄明浩 / 庄明昊 is a Chinese technology and media host whose sourced work connects AI product strategy, application defensibility, video production, personal computing, office agents, and investment opportunity. The corpus records both name forms and treats them as one person.
 
-His recurring contribution in this source is to move the conversation from headline product failure toward operating questions: when a tool should become a platform, whether [[Meitu]] should own base models, how fast application teams need to iterate, and how [[ToAgentDistribution]] changes the front-door problem for software products.
+## Current Profile
+Across the bounded evidence, Zhuang's characteristic method is to start from a visible product or market event and ask what operating system sits beneath it: workflow, cost, data, distribution, organizational fit, user trust, or production economics. He resists both total model-provider capture and easy application optimism. Models can erase generic features, yet vertical judgment, business delivery, trust, and fast iteration still leave room for tools and startups.
 
-[[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] records the host name as 庄明昊 and places him in a different framing role: asking whether [[AIShortDrama]], [[Hongguo]], [[Douyin]], and [[IQIYI]] are changing who can make scripted entertainment. The episode extends his product-strategy framing from application software into media supply chains and [[PlatformizedDramaProduction]].
+The year-end source broadens that frame. Instead of evaluating one company, he uses ten moments to connect agent convergence, video-model loops, local RSI, cyber risk, capability diffusion, price-performance competition, generated personal software, capability spectacle, and a cultural return to rough human texture.
 
-[[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds his consumer-technology and workflow framing. With [[LuoXuan]], he uses [[Vivo]]'s [[XFold6]] to ask whether the AI-era personal workbench moves back to the phone through [[MobileAIWorkstation]], [[FoldablePhoneProductivity]], [[OnDeviceAI]], and [[AIFileManagement]] rather than through a separate AI hardware category.
+## Key Characteristics
+- Frames AI progress through product workflows and business systems rather than benchmark scores alone.
+- Looks for application opportunity in vertical context, execution, distribution, trust, and cost after model capability commoditizes features.
+- Uses media production to connect model progress with platform economics, creator entry, rights, and human performance.
+- Treats agent products as context, permission, persistence, memory, notification, and collaboration systems.
+- Preserves uncertainty when specialist and general models, live action and generation, or unified and lightweight products have not produced a clear winner.
+- Balances capability excitement with security, commercial, labor, and human-authorship boundaries.
 
-[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] adds his live-action short-drama framing. After the AI short-drama episodes, he asks why human-shot short drama still deserves investment, then uses [[HouChao]] and [[LiJiajia]] to separate cost, industrialization, platform matching, actor fit, and story quality.
+## Evidence
+- Application and tool strategy: [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] uses Sora, Adobe, Meitu, coding tools, and to-agent distribution to examine where application moats remain.
+- AI media economics: [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] and [[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] compare AI and live-action short drama through production cost, platform feedback, actor nuance, industrialization, and story quality.
+- Personal and office work surfaces: [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] examines the phone as an AI workbench, while [[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] examines model-led office agents and enterprise context.
+- Year-end synthesis: [[nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb]] links ten moments into a capability, cost, opportunity, risk, and human-value map.
 
-[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] records the speaker name as 明昊 and extends his product-strategy framing into [[AIOfficeAgent|AI office agents]]. He emphasizes how quickly big companies moved from C-end chatbot traffic to coding, long-horizon tasks, and office agents after Open Cloud / "小龙虾" made the work-agent shape legible to management teams.
+## Qualifications
+The sources are podcast discussions and personal industry judgments, not independent technical audits, market studies, or investment recommendations. Product names and metrics can be transcription-sensitive. The evidence supports a recurring analytical style, but not a complete biography, employment history, or stable prediction record.
 
-## Connections
-- [[WeiXi]] — guest in the episode.
-- [[AIApplicationLayerMoat]] and [[VerticalWorkflowAI]] — product-strategy concepts surfaced through his framing.
-- [[ModelProviderToolCompetition]] — coding-market analogy used in the episode.
-- [[WangXiaoshu]], [[XuWenliang]], [[AIShortDrama]], and [[ShortDramaEconomics]] — episode 266's short-drama industry discussion.
-- [[LuoXuan]], [[Vivo]], [[XFold6]], and [[MobileAIWorkstation]] — episode 268's AI-phone and foldable-workbench branch.
-- [[HouChao]], [[LiJiajia]], [[LiveActionShortDrama]], [[ShortDramaIndustrialization]], and [[CharacterRelationshipStoryLogic]] — episode 269's live-action short-drama branch.
-- [[EricFeishu]], [[YalanLuanfanshu]], [[Feishu]], [[DingTalk]], [[Doubao]], [[TencentWorkBody]], [[Qwen]], and [[AIOfficeAgent]] - AI-office branch added by episode 270.
+## What Changed
+- Migrated the profile to the synthesis-first entity schema without changing or reordering its existing evidence inventory.
+- Added the year-end source's broader map of agent convergence, RSI, capability diffusion, software generation, spectacle, and human roughness.
+- Clarified the recurring method: visible product events are interpreted through operating systems, economics, and user value.
+
+## Relationships
+- [[Luanfanshu]] - host relationship across application, short-drama, phone, and office-agent discussions.
+- [[ShizilukouCrossing|十字路口Crossing]] - guest relationship in the 2026 year-end review.
+- [[AIApplicationLayerMoat]] - recurring application-defensibility relationship.
+- [[VideoModels]] - media-production and specialist-model relationship.
+- [[AIOfficeAgent]] - enterprise workflow and context relationship.
+- [[OnDemandPersonalSoftware]] - natural-language software-demand relationship.
+- [[AIModelCapabilitySpectacle]] - model-release and perceptible-capability relationship.
