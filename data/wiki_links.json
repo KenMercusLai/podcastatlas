@@ -23423,6 +23423,10 @@
     "title": "Convective Capital",
     "url": "/wiki/entities/convectivecapital/"
   },
+  "ConvenienceStoreDensityEconomics": {
+    "title": "Convenience Store Density Economics",
+    "url": "/wiki/concepts/conveniencestoredensityeconomics/"
+  },
   "ConversationAsSelfRevelation": {
     "title": "Conversation As Self-Revelation / 对话作为自我显现",
     "url": "/wiki/concepts/conversationasselfrevelation/"
@@ -52127,6 +52131,10 @@
     "title": "Kira Huyu",
     "url": "/wiki/entities/kirahuyu/"
   },
+  "KiranaRetail": {
+    "title": "Kirana Retail",
+    "url": "/wiki/concepts/kiranaretail/"
+  },
   "KirkOFieldMurder": {
     "title": "Kirk o' Field Murder",
     "url": "/wiki/entities/kirkofieldmurder/"
@@ -53478,6 +53486,10 @@
   "LawrenceJPeter": {
     "title": "Lawrence J. Peter",
     "url": "/wiki/entities/lawrencejpeter/"
+  },
+  "LawsonRetail": {
+    "title": "Lawson (convenience-store chain)",
+    "url": "/wiki/entities/lawsonretail/"
   },
   "LawyerState": {
     "title": "Lawyer State / 律师国家",
@@ -76387,6 +76399,10 @@
     "title": "Regional Product Team as Export Hub / 区域产品团队外溢",
     "url": "/wiki/concepts/regionalproductteamasexporthub/"
   },
+  "RegionalRetailAssortmentComplexity": {
+    "title": "Regional Retail Assortment Complexity",
+    "url": "/wiki/concepts/regionalretailassortmentcomplexity/"
+  },
   "RegionalSelfPreservationAlliance": {
     "title": "Regional Self-Preservation Alliance / 区域自保联盟",
     "url": "/wiki/concepts/regionalselfpreservationalliance/"
@@ -77210,6 +77226,10 @@
   "RetailDisplayAsBrandSurface": {
     "title": "Retail Display As Brand Surface",
     "url": "/wiki/concepts/retaildisplayasbrandsurface/"
+  },
+  "RetailFormatSubstitutionPressure": {
+    "title": "Retail Format Substitution Pressure",
+    "url": "/wiki/concepts/retailformatsubstitutionpressure/"
   },
   "RetailHitTemplateDiffusion": {
     "title": "Retail Hit Template Diffusion / 零售爆款模板扩散",
@@ -81390,6 +81410,10 @@
   "SettlerProvocationStrategy": {
     "title": "Settler Provocation Strategy",
     "url": "/wiki/concepts/settlerprovocationstrategy/"
+  },
+  "SevenEleven": {
+    "title": "7-Eleven",
+    "url": "/wiki/entities/seveneleven/"
   },
   "SevenGeases": {
     "title": "《七咒赋》 / The Seven Geases",
@@ -107134,6 +107158,10 @@
   "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k": {
     "title": "Vol.278 为什么银行门口会有石狮子？",
     "url": "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+  },
+  "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda": {
+    "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+    "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
   },
   "gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u": {
     "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",

@@ -60212,6 +60212,22 @@
       "updated": "2026-10-28",
       "url": "/wiki/concepts/controversydrivencategorypositioning/"
     },
+    "ConvenienceStoreDensityEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/conveniencestoredensityeconomics/"
+    },
     "ConversationAsSelfRevelation": {
       "episode_count": 1,
       "show_count": 1,
@@ -144775,9 +144791,9 @@
       "url": "/wiki/concepts/instantentertainmentcompensation/"
     },
     "InstantRetail": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
@@ -144813,9 +144829,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法",
           "url": "/wiki/sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500/"
+        },
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
         }
       ],
-      "updated": "2026-08-24",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/instantretail/"
     },
     "InstinctPersonalAI": {
@@ -161241,6 +161264,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/kiptindell/"
     },
+    "KiranaRetail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/kiranaretail/"
+    },
     "KirkOFieldMurder": {
       "episode_count": 1,
       "show_count": 1,
@@ -164987,6 +165026,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/lawofsuspects/"
+    },
+    "LawsonRetail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/lawsonretail/"
     },
     "LayOsbornFlotilla": {
       "episode_count": 1,
@@ -241523,6 +241578,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/concepts/regionalproductteamasexporthub/"
     },
+    "RegionalRetailAssortmentComplexity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/regionalretailassortmentcomplexity/"
+    },
     "RegionalSelfPreservationAlliance": {
       "episode_count": 1,
       "show_count": 1,
@@ -244213,6 +244284,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/retaildisplayasbrandsurface/"
+    },
+    "RetailFormatSubstitutionPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/retailformatsubstitutionpressure/"
     },
     "RetailHitTemplateDiffusion": {
       "episode_count": 1,
@@ -257403,6 +257490,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/settlementterritorialclaimmaking/"
+    },
+    "SevenEleven": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
+          "key": "gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda",
+          "show": "声动早咖啡",
+          "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
+          "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/seveneleven/"
     },
     "SevenLearnings": {
       "episode_count": 1,

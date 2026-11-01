@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10947
+wiki_total_pages: 10951
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2558,6 +2558,9 @@ wiki_pages:
   - key: "ControversyDrivenCategoryPositioning"
     title: "Controversy-Driven Category Positioning"
     url: "/wiki/concepts/controversydrivencategorypositioning/"
+  - key: "ConvenienceStoreDensityEconomics"
+    title: "Convenience Store Density Economics"
+    url: "/wiki/concepts/conveniencestoredensityeconomics/"
   - key: "ConversationAsSelfRevelation"
     title: "Conversation As Self-Revelation / 对话作为自我显现"
     url: "/wiki/concepts/conversationasselfrevelation/"

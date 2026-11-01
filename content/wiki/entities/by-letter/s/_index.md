@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13833
+wiki_total_pages: 13835
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
     url: "/wiki/entities/sixtysixrpg/"
+  - key: "SevenEleven"
+    title: "7-Eleven"
+    url: "/wiki/entities/seveneleven/"
   - key: "SekigaharaBattle"
     title: "Battle of Sekigahara / 关原合战"
     url: "/wiki/entities/sekigaharabattle/"

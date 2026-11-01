@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 10947
+wiki_total_pages: 10951
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "KinshipBasedTownshipEnterpriseFinance"
     title: "Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资"
     url: "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
+  - key: "KiranaRetail"
+    title: "Kirana Retail"
+    url: "/wiki/concepts/kiranaretail/"
   - key: "KisspeptinReproductiveSignaling"
     title: "Kisspeptin Reproductive Signaling"
     url: "/wiki/concepts/kisspeptinreproductivesignaling/"

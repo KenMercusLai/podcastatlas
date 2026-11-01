@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？](sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda.md) — 声动早咖啡以7-Eleven印度退场解释社区小店、即时零售、区域商品复杂度与门店密度如何共同约束便利店复制。
 - [\[年终复盘①\]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb.md) — 十字路口Crossing以十个个人时刻串联Agent范式、视频模型、RSI、小模型扩散、按需软件、能力奇观与人类粗粝价值。
 - [EP96 200块报名费，撑得起一场马拉松吗？](sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl.md) — 一劳永逸对比上海、东京与香港马拉松，拆解报名费之外的赛事融资、城市消费、个人成本与参赛能力边界。
 - [Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881.md) — Tomorrow Today interview on non-human identity ownership, contextual authorization, agent accountability, auditability, and trust.
@@ -4905,6 +4906,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [7-Eleven](entities/SevenEleven.md) — Global convenience-store chain whose Indian rollout failed to reach differentiated demand and local network density.
+- [Lawson (convenience-store chain)](entities/LawsonRetail.md) — Japanese convenience-store operator with a reported staged India entry plan beginning in Mumbai.
 - [Matt Mills](entities/MattMills.md) — SailPoint president advocating accountable ownership and contextual authorization for AI agents.
 - [SailPoint](entities/SailPoint.md) — enterprise identity-governance company extending access lifecycle controls to non-human identities and AI agents.
 - [Entro](entities/Entro.md) — SailPoint-acquired capability for discovering, categorizing, and assigning owners to non-human identities.
@@ -18822,6 +18825,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Kirana Retail](concepts/KiranaRetail.md) — Adaptive Indian neighborhood-store system combining low overhead, local relationships, and growing digital ordering or delivery.
+- [Convenience Store Density Economics](concepts/ConvenienceStoreDensityEconomics.md) — Local store concentration needed to spread logistics and management costs across frequent visits and rapid inventory turns.
+- [Regional Retail Assortment Complexity](concepts/RegionalRetailAssortmentComplexity.md) — Operating burden of varying products, portions, prices, and preparation boundaries across diverse regions.
+- [Retail Format Substitution Pressure](concepts/RetailFormatSubstitutionPressure.md) — Competition among formats that satisfy the same customer job through different operating systems.
 - [AI Model Capability Spectacle / AI 模型能力奇观](concepts/AIModelCapabilitySpectacle.md) — 用动态视频、3D、游戏或跨媒介作品把模型能力变化转化为可直观判断、但仍需可靠性验证的发布信号。
 - [On-Demand Personal Software / 按需个人软件](concepts/OnDemandPersonalSoftware.md) — 为个人即时工作流生成、受信任和维护边界约束的窄功能短生命周期软件。
 - [Mass-Participation Sports Event Financing / 群众体育赛事融资](concepts/MassParticipationSportsEventFinancing.md) — Mixed fee, sponsorship, in-kind, and public-service system supporting city-scale participation events.

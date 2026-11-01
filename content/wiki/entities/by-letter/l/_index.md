@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13833
+wiki_total_pages: 13835
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "LawrenceJPeter"
     title: "Lawrence J. Peter"
     url: "/wiki/entities/lawrencejpeter/"
+  - key: "LawsonRetail"
+    title: "Lawson (convenience-store chain)"
+    url: "/wiki/entities/lawsonretail/"
   - key: "LayneNorton"
     title: "Layne Norton"
     url: "/wiki/entities/laynenorton/"

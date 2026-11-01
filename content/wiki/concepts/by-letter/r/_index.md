@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10947
+wiki_total_pages: 10951
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "RegionalProductTeamAsExportHub"
     title: "Regional Product Team as Export Hub / 区域产品团队外溢"
     url: "/wiki/concepts/regionalproductteamasexporthub/"
+  - key: "RegionalRetailAssortmentComplexity"
+    title: "Regional Retail Assortment Complexity"
+    url: "/wiki/concepts/regionalretailassortmentcomplexity/"
   - key: "RegionalSelfPreservationAlliance"
     title: "Regional Self-Preservation Alliance / 区域自保联盟"
     url: "/wiki/concepts/regionalselfpreservationalliance/"
@@ -860,6 +863,9 @@ wiki_pages:
   - key: "RetailDisplayAsBrandSurface"
     title: "Retail Display As Brand Surface"
     url: "/wiki/concepts/retaildisplayasbrandsurface/"
+  - key: "RetailFormatSubstitutionPressure"
+    title: "Retail Format Substitution Pressure"
+    url: "/wiki/concepts/retailformatsubstitutionpressure/"
   - key: "RetailHitTemplateDiffusion"
     title: "Retail Hit Template Diffusion / 零售爆款模板扩散"
     url: "/wiki/concepts/retailhittemplatediffusion/"

@@ -38265,3 +38265,11 @@ Added source `nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-r
 ## [2026-11-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-02] ingest | 7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？
+
+Added source `gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda`; created [[SevenEleven|7-Eleven]], [[LawsonRetail|Lawson]], [[KiranaRetail]], [[ConvenienceStoreDensityEconomics]], [[RegionalRetailAssortmentComplexity]], and [[RetailFormatSubstitutionPressure]]; and resynthesized [[InstantRetail]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: a global convenience-store brand and a capable local franchise partner do not by themselves create local format fit; kirana stores already supply low-cost neighborhood convenience, instant retail supplies delivery convenience, internal regional differences multiply assortment and supply-chain complexity, and a sparse store network can enter a loss-density trap in which high costs prevent the expansion needed to spread them. No settled contradiction was adopted. Store counts, market shares, partner assets, losses, regional spending differences, current side-news claims, and Lawson targets remain episode-scoped because the supplied file is a structured summary rather than a transcript, filing, contract, audited account, primary market dataset, or customer and operator study. Broad India, show, roundup-company, global-localization, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,796 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
