@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2339
+topic_total_pages: 2340
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2149,6 +2149,9 @@ topic_concepts:
   - key: "MarketplaceFrictionReduction"
     title: "Marketplace Friction Reduction"
     url: "/wiki/concepts/marketplacefrictionreduction/"
+  - key: "MassParticipationSportsEventFinancing"
+    title: "Mass-Participation Sports Event Financing / 群众体育赛事融资"
+    url: "/wiki/concepts/massparticipationsportseventfinancing/"
   - key: "MatchaSupplyTransition"
     title: "Matcha Supply Transition"
     url: "/wiki/concepts/matchasupplytransition/"

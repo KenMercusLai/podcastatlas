@@ -186585,9 +186585,9 @@
       "url": "/wiki/concepts/maracanazo/"
     },
     "MarathonDestinationConsumption": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOq-lkAFAPLwTreAgx [GKwRIDoOq-lkAFAPLwTreAgx].md",
@@ -186595,10 +186595,33 @@
           "show": "声动早咖啡",
           "title": "千余家影院直播体育赛事，上半年国内金饰消费量下跌三成",
           "url": "/wiki/sources/qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx/"
+        },
+        {
+          "episode_file": "lv8sS3l8PykybFppJ7HF90kGb7fl [lv8sS3l8PykybFppJ7HF90kGb7fl].md",
+          "key": "lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl",
+          "show": "一劳永逸",
+          "title": "EP96 200块报名费，撑得起一场马拉松吗？",
+          "url": "/wiki/sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-01",
       "url": "/wiki/concepts/marathondestinationconsumption/"
+    },
+    "MarathonParticipationCostBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lv8sS3l8PykybFppJ7HF90kGb7fl [lv8sS3l8PykybFppJ7HF90kGb7fl].md",
+          "key": "lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl",
+          "show": "一劳永逸",
+          "title": "EP96 200块报名费，撑得起一场马拉松吗？",
+          "url": "/wiki/sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/concepts/marathonparticipationcostboundary/"
     },
     "MarcBerman": {
       "episode_count": 1,
@@ -189352,6 +189375,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/massinternetadoption/"
+    },
+    "MassParticipationSportsEventFinancing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lv8sS3l8PykybFppJ7HF90kGb7fl [lv8sS3l8PykybFppJ7HF90kGb7fl].md",
+          "key": "lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl",
+          "show": "一劳永逸",
+          "title": "EP96 200块报名费，撑得起一场马拉松吗？",
+          "url": "/wiki/sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl/"
+        }
+      ],
+      "updated": "2026-11-01",
+      "url": "/wiki/concepts/massparticipationsportseventfinancing/"
     },
     "MassPoliticalCampaigning": {
       "episode_count": 2,

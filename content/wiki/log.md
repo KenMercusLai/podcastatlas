@@ -38249,3 +38249,11 @@ Added source `default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-
 ## [2026-11-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-01] ingest | EP96 200块报名费，撑得起一场马拉松吗？
+
+Added source `lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl`; created [[MassParticipationSportsEventFinancing]] and [[MarathonParticipationCostBoundary]]; and resynthesized [[MarathonDestinationConsumption]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: city-scale races combine participant fees, cash and in-kind sponsorship, premium or membership access, and public operational capacity; organizer revenue, public cost, and urban spillovers are distinct accounting boundaries; visitor share, distance mix, stay length, hotel economics, route logistics, and merchant activation determine how entrant volume becomes local spending; and runners should count equipment, travel, training, recovery, time, and physical readiness rather than treating the entry fee or full-marathon finish as the whole decision. No settled contradiction was adopted. Registration, applicant, budget, prize, subsidy, revenue, visitor-share, economic-effect, consumption, demographic, training, and equipment figures remain episode-scoped because the supplied file is a structured summary rather than audited accounts, contracts, impact studies, training research, or a transcript. Broad city, show, sports-lifestyle, sponsorship, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the age gate made global compaction due, and refreshed artifacts validate 4,794 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3594
+topic_total_pages: 3595
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2167,6 +2167,9 @@ topic_concepts:
   - key: "MassPressImperialPolicyPressure"
     title: "Mass Press Imperial Policy Pressure"
     url: "/wiki/concepts/masspressimperialpolicypressure/"
+  - key: "MassParticipationSportsEventFinancing"
+    title: "Mass-Participation Sports Event Financing / 群众体育赛事融资"
+    url: "/wiki/concepts/massparticipationsportseventfinancing/"
   - key: "MasteryPurityAndHumanAttachment"
     title: "Mastery Purity, Human Attachment, and Moral Integrity / 技艺纯粹、人情牵挂与道德完整"
     url: "/wiki/concepts/masterypurityandhumanattachment/"

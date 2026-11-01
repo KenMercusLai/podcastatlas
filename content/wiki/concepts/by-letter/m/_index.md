@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10943
+wiki_total_pages: 10945
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "MarathonDestinationConsumption"
     title: "Marathon Destination Consumption / 马拉松目的地消费"
     url: "/wiki/concepts/marathondestinationconsumption/"
+  - key: "MarathonParticipationCostBoundary"
+    title: "Marathon Participation Cost Boundary / 马拉松参赛成本与能力边界"
+    url: "/wiki/concepts/marathonparticipationcostboundary/"
   - key: "MarathonPerformanceEcosystem"
     title: "Marathon Performance Ecosystem"
     url: "/wiki/concepts/marathonperformanceecosystem/"
@@ -410,6 +413,9 @@ wiki_pages:
   - key: "MassRetailProductionDeadline"
     title: "Mass Retail Production Deadline"
     url: "/wiki/concepts/massretailproductiondeadline/"
+  - key: "MassParticipationSportsEventFinancing"
+    title: "Mass-Participation Sports Event Financing / 群众体育赛事融资"
+    url: "/wiki/concepts/massparticipationsportseventfinancing/"
   - key: "MassProducedAIIntimacy"
     title: "Mass-Produced AI Intimacy"
     url: "/wiki/concepts/massproducedaiintimacy/"

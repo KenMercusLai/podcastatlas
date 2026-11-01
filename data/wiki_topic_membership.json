@@ -60943,6 +60943,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "MassParticipationSportsEventFinancing": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MassParticipationSportsEventMoat": [
     {
       "key": "culture",
