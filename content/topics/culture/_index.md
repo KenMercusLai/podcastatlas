@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3595
+topic_total_pages: 3596
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8768,6 +8768,9 @@ topic_entities:
   - key: "DianyingJubian"
     title: "电影巨辩"
     url: "/wiki/entities/dianyingjubian/"
+  - key: "FanJie"
+    title: "番杰 / Fan Jie"
+    url: "/wiki/entities/fanjie/"
   - key: "FengTouQuan"
     title: "疯投圈"
     url: "/wiki/entities/fengtouquan/"

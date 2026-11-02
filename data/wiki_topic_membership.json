@@ -22236,6 +22236,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "CapitalGroup": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CapitalIntensiveAICycle": [
     {
       "key": "technology",
@@ -23175,6 +23187,13 @@
     }
   ],
   "CharlesEMitchell": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "CharlesEllis": [
     {
       "key": "economics",
       "label": "Economics",
@@ -37384,6 +37403,18 @@
     }
   ],
   "FanFestivalCommercialization": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FanJie": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -64384,6 +64415,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MultiManagerInvestmentSystem": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "MultiPerspectiveMurderNarration": [
     {
       "key": "culture",
@@ -68524,6 +68562,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OrganizationalLongTermism": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OrganizationalSecrecyAsControl": [
@@ -108255,6 +108305,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "lossad1trayjdp11pbjiywrxy43o": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "lovpnvggvmrtfzpn9gvezhrg6xfo": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13844
+wiki_total_pages: 13847
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "CapitalCitiesABC"
     title: "Capital Cities/ABC"
     url: "/wiki/entities/capitalcitiesabc/"
+  - key: "CapitalGroup"
+    title: "Capital Group / 资本集团"
+    url: "/wiki/entities/capitalgroup/"
   - key: "CapitalSafety"
     title: "Capital Safety"
     url: "/wiki/entities/capitalsafety/"
@@ -635,6 +638,9 @@ wiki_pages:
   - key: "CharlesByrne"
     title: "Charles Byrne / 查尔斯·伯恩"
     url: "/wiki/entities/charlesbyrne/"
+  - key: "CharlesEllis"
+    title: "Charles D. Ellis / 查尔斯·埃利斯"
+    url: "/wiki/entities/charlesellis/"
   - key: "CharlesDarwin"
     title: "Charles Darwin / 查尔斯·达尔文"
     url: "/wiki/entities/charlesdarwin/"

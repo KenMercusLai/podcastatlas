@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10959
+wiki_total_pages: 10961
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "OrganizationalContext"
     title: "Organizational Context"
     url: "/wiki/concepts/organizationalcontext/"
+  - key: "OrganizationalLongTermism"
+    title: "Organizational Long-Termism / 组织长期主义"
+    url: "/wiki/concepts/organizationallongtermism/"
   - key: "OrganizationalSecrecyAsControl"
     title: "Organizational Secrecy As Control"
     url: "/wiki/concepts/organizationalsecrecyascontrol/"

@@ -4910,7 +4910,12 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”](sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647.md) — How I Built This interview on Chesky's CEO learning curve, Airbnb's founder-led reset, empowerment versus autonomy, post-IPO emptiness, relationships, trust, and service.
 
+- [《长线至胜》：资本集团如何把长期主义变成组织能力](sources/lossad1trayjdp11pbjiywrxy43o.md) — 面基对谈番杰，以资本集团的私有所有权、代际让利、人才制度、多基金经理制和客户冲突选择解释组织长期主义，并映照中国公募基金的规模、排名与持有人回报矛盾。
+
 ## Entities
+- [Capital Group / 资本集团](entities/CapitalGroup.md) — Privately held asset manager used as a case of linking ownership succession, talent development, attribution, distributed portfolio judgment, and client-first restraint.
+- [番杰 / Fan Jie](entities/FanJie.md) — Translator and investment-media founder interpreting Capital Group's institutional history for the Chinese asset-management context.
+- [Charles D. Ellis / 查尔斯·埃利斯](entities/CharlesEllis.md) — Author whose Capital Group history and indexation arguments are discussed through Fan Jie's new translation.
 - [Hako X](entities/HakoX.md) — Android original-Xbox emulator reported to run selected games well on modest Mali-based hardware while retaining compatibility defects.
 - [Pocket Air Mini](entities/PocketAirMini.md) — Android gaming handheld used as the constrained-hardware test device in the Hako X case.
 - [Castlevania / 恶魔城](entities/Castlevania.md) — Game franchise whose identity is analyzed through the interaction of combat, progression, art, music, and level structure.
@@ -18839,6 +18844,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Organizational Long-Termism / 组织长期主义](concepts/OrganizationalLongTermism.md) — Long-term capability created when ownership, incentives, talent, evaluation, product policy, and conflict decisions preserve future room together.
+- [Multi-Manager Investment System / 多基金经理制](concepts/MultiManagerInvestmentSystem.md) — Portfolio architecture combining independent manager sleeves, shared research, attribution, and differentiated return streams without committee consensus.
 - [AI-Assisted Game Reverse Engineering / AI辅助游戏逆向工程](concepts/AIAssistedGameReverseEngineering.md) — Use of coding agents to accelerate compatibility, reimplementation, porting, and emulation while leaving testing and legal boundaries unresolved.
 - [AI Clone Race / AI克隆竞速](concepts/AICloneRace.md) — Pre-release exposure dilemma in which promotion can become a specification for fast AI-assisted imitation.
 - [Game Series Identity / 游戏系列身份](concepts/GameSeriesIdentity.md) — Franchise continuity produced by relationships among mechanics, progression, audiovisual style, structure, and audience expectations.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3444
+topic_total_pages: 3447
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3010,6 +3010,9 @@ topic_concepts:
   - key: "OrdinaryPeopleResistance"
     title: "Ordinary People Resistance"
     url: "/wiki/concepts/ordinarypeopleresistance/"
+  - key: "OrganizationalLongTermism"
+    title: "Organizational Long-Termism / 组织长期主义"
+    url: "/wiki/concepts/organizationallongtermism/"
   - key: "OrganizationalSecrecyAsControl"
     title: "Organizational Secrecy As Control"
     url: "/wiki/concepts/organizationalsecrecyascontrol/"
@@ -5936,6 +5939,9 @@ topic_entities:
   - key: "California"
     title: "California"
     url: "/wiki/entities/california/"
+  - key: "CapitalGroup"
+    title: "Capital Group / 资本集团"
+    url: "/wiki/entities/capitalgroup/"
   - key: "Carbon180"
     title: "Carbon180"
     url: "/wiki/entities/carbon180/"
@@ -10305,6 +10311,9 @@ topic_sources:
   - key: "zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph"
     title: "《资治通鉴·秦纪》119-4｜史上能称巨婴的君王—齐王建"
     url: "/wiki/sources/zizhi-tongjian-qinji-119-4-shishang-neng-cheng-juying-de-junwang-qiwangjian-livcg5uz60ne-6oje-qzjfpghhph/"
+  - key: "lossad1trayjdp11pbjiywrxy43o"
+    title: "《长线至胜》：资本集团如何把长期主义变成组织能力"
+    url: "/wiki/sources/lossad1trayjdp11pbjiywrxy43o/"
   - key: "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu"
     title: "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波"
     url: "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"

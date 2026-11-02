@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10959
+wiki_total_pages: 10961
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1700,6 +1700,9 @@ wiki_pages:
   - key: "MultiIssueNegotiation"
     title: "Multi-Issue Negotiation / 多议题谈判"
     url: "/wiki/concepts/multiissuenegotiation/"
+  - key: "MultiManagerInvestmentSystem"
+    title: "Multi-Manager Investment System / 多基金经理制"
+    url: "/wiki/concepts/multimanagerinvestmentsystem/"
   - key: "MultiMentorMastery"
     title: "Multi-Mentor Mastery and Learner Fit / 多师承与适配型成才"
     url: "/wiki/concepts/multimentormastery/"
