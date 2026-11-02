@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10953
+wiki_total_pages: 10956
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "StalingradWarMemory"
     title: "Stalingrad War Memory"
     url: "/wiki/concepts/stalingradwarmemory/"
+  - key: "StalinistSalamiTactics"
+    title: "Stalinist Salami Tactics"
+    url: "/wiki/concepts/stalinistsalamitactics/"
   - key: "StandUpAsSelfNarration"
     title: "Stand-Up As Self-Narration"
     url: "/wiki/concepts/standupasselfnarration/"

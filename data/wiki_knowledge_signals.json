@@ -24865,6 +24865,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/authorcommercialfilmbalance/"
     },
+    "AuthoritarianConcessionExpectationEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/authoritarianconcessionexpectationescalation/"
+    },
     "AuthoritarianFascismBoundary": {
       "episode_count": 2,
       "show_count": 1,
@@ -69516,6 +69532,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/deroyalizationritual/"
+    },
+    "DeStalinizationLegitimacyCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/destalinizationlegitimacycrisis/"
     },
     "DeadlineAmnestyRebellionFragmentation": {
       "episode_count": 1,
@@ -138470,6 +138502,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/hundredyearswar/"
     },
+    "HungarianRevolution1956": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/hungarianrevolution1956/"
+    },
     "HunyadiJanos": {
       "episode_count": 1,
       "show_count": 1,
@@ -142795,6 +142843,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/impostorsyndrome/"
+    },
+    "ImreNagy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/imrenagy/"
     },
     "InFlightConnectivityEconomics": {
       "episode_count": 1,
@@ -151133,6 +151197,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/entities/janetmertz/"
+    },
+    "JanosKadar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/janoskadar/"
     },
     "JapanAIDSBloodProductsIncident": {
       "episode_count": 1,
@@ -164554,6 +164634,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/lastsupper/"
+    },
+    "LaszloRajk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/laszlorajk/"
     },
     "LateAntiqueFirstPersonEvidence": {
       "episode_count": 1,
@@ -190234,6 +190330,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/matureperformercareerrelaunch/"
+    },
+    "MatyasRakosi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/matyasrakosi/"
     },
     "MaureenThorson": {
       "episode_count": 2,
@@ -270503,6 +270615,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/stalingradwarmemory/"
+    },
+    "StalinistSalamiTactics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398850202 [GLT4398850202].md",
+          "key": "719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202",
+          "show": "The Rest Is History",
+          "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
+          "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/stalinistsalamitactics/"
     },
     "StandingGeneticVariation": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13836
+wiki_total_pages: 13841
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1943,6 +1943,9 @@ wiki_pages:
   - key: "MythosAISecurityTest"
     title: "Mythos AI Security Test"
     url: "/wiki/entities/mythosaisecuritytest/"
+  - key: "MatyasRakosi"
+    title: "Mátyás Rákosi"
+    url: "/wiki/entities/matyasrakosi/"
   - key: "MedecinsSansFrontieres"
     title: "Médecins Sans Frontières / 无国界医生"
     url: "/wiki/entities/medecinssansfrontieres/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13836
+wiki_total_pages: 13841
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "LyttonStrachey"
     title: "Lytton Strachey"
     url: "/wiki/entities/lyttonstrachey/"
+  - key: "LaszloRajk"
+    title: "László Rajk"
+    url: "/wiki/entities/laszlorajk/"
   - key: "LyThuongKiet"
     title: "Lý Thường Kiệt / 李常杰"
     url: "/wiki/entities/lythuongkiet/"

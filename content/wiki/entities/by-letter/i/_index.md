@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13836
+wiki_total_pages: 13841
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "ImpulseWatch"
     title: "Impulse Watch"
     url: "/wiki/entities/impulsewatch/"
+  - key: "ImreNagy"
+    title: "Imre Nagy"
+    url: "/wiki/entities/imrenagy/"
   - key: "IncheonInternationalAirport"
     title: "Incheon International Airport / 仁川国际机场"
     url: "/wiki/entities/incheoninternationalairport/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13836
+wiki_total_pages: 13841
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "HundredYearsWar"
     title: "Hundred Years' War"
     url: "/wiki/entities/hundredyearswar/"
+  - key: "HungarianRevolution1956"
+    title: "Hungarian Revolution of 1956"
+    url: "/wiki/entities/hungarianrevolution1956/"
   - key: "HunyadiJanos"
     title: "Hunyadi János / 匈雅提·亚诺什"
     url: "/wiki/entities/hunyadijanos/"

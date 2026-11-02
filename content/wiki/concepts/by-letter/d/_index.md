@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10953
+wiki_total_pages: 10956
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "DeRoyalizationRitual"
     title: "De-Royalization Ritual"
     url: "/wiki/concepts/deroyalizationritual/"
+  - key: "DeStalinizationLegitimacyCrisis"
+    title: "De-Stalinization Legitimacy Crisis"
+    url: "/wiki/concepts/destalinizationlegitimacycrisis/"
   - key: "DEAExemptionProcess"
     title: "DEA Exemption Process"
     url: "/wiki/concepts/deaexemptionprocess/"
