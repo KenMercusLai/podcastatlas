@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3708
+topic_total_pages: 3711
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -292,6 +292,9 @@ topic_concepts:
   - key: "AIClientGrowthRetentionAgent"
     title: "AI Client Growth and Retention Agent"
     url: "/wiki/concepts/aiclientgrowthretentionagent/"
+  - key: "AICloneRace"
+    title: "AI Clone Race / AI克隆竞速"
+    url: "/wiki/concepts/aiclonerace/"
   - key: "AIClusterNetworking"
     title: "AI Cluster Networking"
     url: "/wiki/concepts/aiclusternetworking/"
@@ -1138,6 +1141,9 @@ topic_concepts:
   - key: "AIAssistedElectionResearch"
     title: "AI-Assisted Election Research"
     url: "/wiki/concepts/aiassistedelectionresearch/"
+  - key: "AIAssistedGameReverseEngineering"
+    title: "AI-Assisted Game Reverse Engineering / AI辅助游戏逆向工程"
+    url: "/wiki/concepts/aiassistedgamereverseengineering/"
   - key: "AIAssistedInfrastructureOperations"
     title: "AI-Assisted Infrastructure Operations"
     url: "/wiki/concepts/aiassistedinfrastructureoperations/"
@@ -11022,6 +11028,9 @@ topic_sources:
   - key: "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77"
     title: "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10"
     url: "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
+  - key: "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9"
+    title: "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想"
+    url: "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
   - key: "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp"
     title: "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”"
     url: "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"

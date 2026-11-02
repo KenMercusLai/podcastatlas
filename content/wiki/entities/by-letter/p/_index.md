@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13841
+wiki_total_pages: 13844
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "PlutarcoEliasCalles"
     title: "Plutarco Elias Calles"
     url: "/wiki/entities/plutarcoeliascalles/"
+  - key: "PocketAirMini"
+    title: "Pocket Air Mini"
+    url: "/wiki/entities/pocketairmini/"
   - key: "Podwise"
     title: "Podwise"
     url: "/wiki/entities/podwise/"

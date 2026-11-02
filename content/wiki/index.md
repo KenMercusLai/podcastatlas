@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想](sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9.md) — 旧世代 connects AI-assisted game preservation and Android Xbox emulation to pre-release clone risk and Castlevania series identity.
 - [719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)](sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202.md) — The Rest Is History traces Stalinist consolidation, de-Stalinization, reform mobilization, and the armed opening of the 1956 Hungarian Revolution.
 - [商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了](sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti.md) — 商业就是这样以字母标AUDI拆解传统豪华品牌如何通过品牌分工、本土研发、挑战者定价与快速反馈应对中国新能源竞争。
 - [7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？](sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda.md) — 声动早咖啡以7-Eleven印度退场解释社区小店、即时零售、区域商品复杂度与门店密度如何共同约束便利店复制。
@@ -4908,6 +4909,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [Hako X](entities/HakoX.md) — Android original-Xbox emulator reported to run selected games well on modest Mali-based hardware while retaining compatibility defects.
+- [Pocket Air Mini](entities/PocketAirMini.md) — Android gaming handheld used as the constrained-hardware test device in the Hako X case.
+- [Castlevania / 恶魔城](entities/Castlevania.md) — Game franchise whose identity is analyzed through the interaction of combat, progression, art, music, and level structure.
 - [Hungarian Revolution of 1956](entities/HungarianRevolution1956.md) — Mass democratic, social, and national uprising that became armed after accumulated Stalinist failure and coercive escalation.
 - [Imre Nagy](entities/ImreNagy.md) — Communist reformer restored as prime minister after the 1956 uprising had already outrun controlled party reform.
 - [Mátyás Rákosi](entities/MatyasRakosi.md) — Hungarian Stalinist who converted minority support into dictatorship through Soviet backing, institutional capture, terror, and forced transformation.
@@ -18833,6 +18837,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [AI-Assisted Game Reverse Engineering / AI辅助游戏逆向工程](concepts/AIAssistedGameReverseEngineering.md) — Use of coding agents to accelerate compatibility, reimplementation, porting, and emulation while leaving testing and legal boundaries unresolved.
+- [AI Clone Race / AI克隆竞速](concepts/AICloneRace.md) — Pre-release exposure dilemma in which promotion can become a specification for fast AI-assisted imitation.
+- [Game Series Identity / 游戏系列身份](concepts/GameSeriesIdentity.md) — Franchise continuity produced by relationships among mechanics, progression, audiovisual style, structure, and audience expectations.
 - [Stalinist Salami Tactics](concepts/StalinistSalamiTactics.md) — Sequential institutional capture and rival elimination that converts minority support into authoritarian monopoly.
 - [De-Stalinization Legitimacy Crisis](concepts/DeStalinizationLegitimacyCrisis.md) — Loss of subordinate-regime legitimacy when the political center repudiates the repression those rulers embodied.
 - [Authoritarian Concession Expectation Escalation](concepts/AuthoritarianConcessionExpectationEscalation.md) — Process by which late or contradictory concessions expand perceived possibilities faster than they restore trust or control.

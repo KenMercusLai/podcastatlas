@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 10956
+wiki_total_pages: 10959
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "GamePreservation"
     title: "Game Preservation"
     url: "/wiki/concepts/gamepreservation/"
+  - key: "GameSeriesIdentity"
+    title: "Game Series Identity / 游戏系列身份"
+    url: "/wiki/concepts/gameseriesidentity/"
   - key: "GameSpiritOrganization"
     title: "Game Spirit Organization"
     url: "/wiki/concepts/gamespiritorganization/"

@@ -1258,6 +1258,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/aiassistedelectionresearch/"
     },
+    "AIAssistedGameReverseEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/aiassistedgamereverseengineering/"
+    },
     "AIAssistedInfrastructureOperations": {
       "episode_count": 1,
       "show_count": 1,
@@ -1768,6 +1784,22 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
+    },
+    "AICloneRace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/aiclonerace/"
     },
     "AICodingMarketConcentration": {
       "episode_count": 2,
@@ -42702,6 +42734,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/castlemandisease/"
+    },
+    "Castlevania": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/castlevania/"
     },
     "Castrati": {
       "episode_count": 1,
@@ -110566,6 +110614,52 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/gameofthrones/"
     },
+    "GamePreservation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260226_0226_MP_TECH_pod_128 [tech_20260226_0226_MP_TECH_pod_128].md",
+          "key": "tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Physical media's comeback",
+          "url": "/wiki/sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "旧世代电台28 ｜ 实体游戏的时代终结之际，不如重新定义拥有 [998430652].md",
+          "key": "jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652",
+          "show": "旧世代",
+          "title": "旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有",
+          "url": "/wiki/sources/jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652/"
+        },
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/gamepreservation/"
+    },
+    "GameSeriesIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/gameseriesidentity/"
+    },
     "GameSpiritOrganization": {
       "episode_count": 1,
       "show_count": 1,
@@ -122980,6 +123074,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/haitianflavoring/"
+    },
+    "HakoX": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/hakox/"
     },
     "HallOfNationsIndia": {
       "episode_count": 1,
@@ -155372,6 +155482,29 @@
       ],
       "updated": "2026-10-14",
       "url": "/wiki/entities/jiuding/"
+    },
+    "Jiushidai": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "旧世代电台28 ｜ 实体游戏的时代终结之际，不如重新定义拥有 [998430652].md",
+          "key": "jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652",
+          "show": "旧世代",
+          "title": "旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有",
+          "url": "/wiki/sources/jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652/"
+        },
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/jiushidai/"
     },
     "JiuzhaiHuanglongAirport": {
       "episode_count": 1,
@@ -226019,6 +226152,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/plutarcoeliascalles/"
+    },
+    "PocketAirMini": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/pocketairmini/"
     },
     "PodcastAuthenticityBoundary": {
       "episode_count": 4,
@@ -310220,6 +310369,29 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/xpeng/"
+    },
+    "Xbox": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "旧世代电台28 ｜ 实体游戏的时代终结之际，不如重新定义拥有 [998430652].md",
+          "key": "jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652",
+          "show": "旧世代",
+          "title": "旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有",
+          "url": "/wiki/sources/jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652/"
+        },
+        {
+          "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
+          "key": "gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9",
+          "show": "旧世代",
+          "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
+          "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/xbox/"
     },
     "Xenophanes": {
       "episode_count": 1,

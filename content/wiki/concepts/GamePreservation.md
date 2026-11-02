@@ -2,30 +2,52 @@
 title: "Game Preservation"
 type: concept
 tags: [games, preservation, culture, digital-rights]
-sources: [tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128, jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]
-last_updated: 2026-07-12
+sources:
+  - tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128
+  - jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652
+  - gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9
+last_updated: 2026-11-02
+knowledge_schema: synthesis-v1
 ---
 
-# Game Preservation
+## Definition
 
-Game preservation is the effort to keep games playable, studyable, and culturally available after platforms, stores, servers, hardware, and rights arrangements change. In [[jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]], it is a major reason players worry about digital-only distribution.
+Game preservation is the effort to keep games playable, inspectable, interpretable, and culturally available after hardware, operating systems, storefronts, servers, licenses, and rights arrangements change.
 
-The episode argues that [[PhysicalGameEraDecline]] can make preservation harder because access increasingly depends on platform storefronts and corporate service decisions. Physical copies are not a perfect solution, but they can preserve data, packaging, manuals, and a sense of recoverable cultural artifact.
+## Current Synthesis
 
-[[tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]] adds a parallel video-media case through [[AnalogMediaPreservation]]. [[LunchMeetVHS]] and [[JoshSchaeffer]] show that preservation can involve rights-backed reprints, obscure tape-only works, format culture, and the social memory of [[VideoStoreCulture]], not only keeping software playable.
+Preservation has at least three interacting layers. Durable media and DRM-free copies reduce dependence on a single account or storefront; rights, reprints, venues, packaging, and circulation preserve contextual memory; and compatibility work, server reimplementation, ports, and emulators keep software operable when its original environment disappears. No layer is sufficient alone: a disc may depend on patches or servers, a file may lack a working runtime, and an AI-generated fix may remain unreliable without sustained testing and maintenance.
 
 ## Key Claims
-- Store removals, server shutdowns, patches, and license changes can make games difficult or impossible to revisit.
-- Physical games can support preservation by keeping copies and context outside a single account system.
-- DRM-free models such as [[GOG]] are more compatible with personal archiving than tightly controlled console storefronts.
-- [[StopKillingGames]] expresses the consumer-rights side of preservation: purchased games should not become unplayable simply because a service ends.
-- [[PostOwnership]] preserves memory and interpretation, but cultural preservation still needs access to playable works.
-- Physical video revival shows the same preservation logic in another medium: material copies and reprints can keep works visible when platform catalogs do not.
 
-## Connections
-- [[DigitalGameOwnershipAnxiety]] — personal version of the preservation problem.
-- [[DigitalGameDistribution]] — platform dependency that complicates preservation.
-- [[PhysicalGameEraDecline]] — loss of material artifacts and offline copies.
-- [[SecondhandGameEconomy]] — circulation mechanism that can keep older games visible.
-- [[GOG]] and [[StopKillingGames]] — digital-preservation references from the source.
-- [[PhysicalVideoMediaRevival]], [[AnalogMediaPreservation]], [[LunchMeetVHS]], and [[VideoStoreCulture]] — video-media preservation parallel added by Marketplace Tech.
+- Store removal, server shutdown, licensing change, and hardware obsolescence can each break access.
+- Physical and DRM-free copies improve recoverability but do not guarantee complete playability.
+- Reprints, collections, venues, packaging, and community memory preserve cultural context as well as data.
+- Reverse engineering, compatibility patches, offline server reconstruction, native ports, and emulation preserve executable experience.
+- AI may widen participation in technical preservation while shifting the bottleneck toward verification and maintenance.
+- Consumer-rights campaigns and preservation engineering address related but distinct control problems.
+
+## Evidence
+
+- Distribution and ownership: [[jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]] links physical decline and digital licensing to resale, offline confidence, GOG, and Stop Killing Games.
+- Material and social context: [[tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]] uses Vidiots and LunchMeet VHS to show how formats, rights-backed reprints, venues, and circulation preserve works and media culture.
+- Technical reconstruction: [[gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9]] describes compatibility patches, mouse mods, offline server rewriting, native ports, and Android Xbox emulation.
+- Verification limit: [[gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9]] warns that iterative AI correction does not replace sufficient cross-system testing.
+
+## Counterevidence & Qualifications
+
+Physical copies can degrade, omit updates, or depend on authentication and online services. Rights-backed preservation may be expensive or unavailable, while unauthorized reverse engineering and circumvention can face legal or platform constraints. The newest source does not independently verify project provenance or performance, and cheaper code generation may produce abandoned, incompatible, or poorly tested preservation tools.
+
+## What Changed
+
+- Expanded preservation from access media and cultural memory into technical reconstruction.
+- Added AI-assisted participation alongside a stronger testing and maintenance qualification.
+- Distinguished consumer control, contextual preservation, and executable preservation as complementary layers.
+
+## Related Concepts
+
+- [[DigitalGameOwnershipAnxiety]] - player concern about licenses, shutdowns, and recoverability.
+- [[PhysicalGameEraDecline]] - distribution shift that weakens one preservation layer.
+- [[AnalogMediaPreservation]] - parallel account of material formats, reprints, and social memory.
+- [[AIAssistedGameReverseEngineering]] - technical route for restoring or extending playability.
+- [[PostOwnership]] - interpretive memory and practice that persist even when durable control does not.

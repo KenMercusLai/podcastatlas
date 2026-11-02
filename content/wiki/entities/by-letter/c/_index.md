@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 13841
+wiki_total_pages: 13844
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "CastleRockEntertainment"
     title: "Castle Rock Entertainment"
     url: "/wiki/entities/castlerockentertainment/"
+  - key: "Castlevania"
+    title: "Castlevania / 恶魔城"
+    url: "/wiki/entities/castlevania/"
   - key: "CasualtyActuarialSociety"
     title: "Casualty Actuarial Society"
     url: "/wiki/entities/casualtyactuarialsociety/"

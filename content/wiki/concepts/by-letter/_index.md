@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10956
+wiki_total_pages: 10959
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "AIClinicalValidationInDrugDiscovery"
     title: "AI Clinical Validation In Drug Discovery"
     url: "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
+  - key: "AICloneRace"
+    title: "AI Clone Race / AI克隆竞速"
+    url: "/wiki/concepts/aiclonerace/"
   - key: "AIClusterNetworking"
     title: "AI Cluster Networking"
     url: "/wiki/concepts/aiclusternetworking/"
@@ -1739,6 +1742,9 @@ wiki_pages:
   - key: "AIAssistedElectionResearch"
     title: "AI-Assisted Election Research"
     url: "/wiki/concepts/aiassistedelectionresearch/"
+  - key: "AIAssistedGameReverseEngineering"
+    title: "AI-Assisted Game Reverse Engineering / AI辅助游戏逆向工程"
+    url: "/wiki/concepts/aiassistedgamereverseengineering/"
   - key: "AIAssistedInfrastructureOperations"
     title: "AI-Assisted Infrastructure Operations"
     url: "/wiki/concepts/aiassistedinfrastructureoperations/"

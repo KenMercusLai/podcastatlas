@@ -38289,3 +38289,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-02] ingest | 揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想
+
+Added source `gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9`; created [[HakoX]], [[PocketAirMini]], [[Castlevania]], [[AIAssistedGameReverseEngineering]], [[AICloneRace]], and [[GameSeriesIdentity]]; and resynthesized [[Jiushidai|旧世代]], [[Xbox]], and [[GamePreservation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: AI can widen participation in compatibility repair, server reimplementation, porting, and emulation, but verification and maintenance remain bottlenecks; public demos and promotion can become specifications for pre-release imitation, threatening attention and credit as well as revenue; and franchise identity emerges from integrated systems and audiovisual atmosphere rather than action competence alone. No settled contradiction was adopted. The supplied episode note conflicts internally between “揽月周刊20” and a first-issue description; Claude Code refusal, Hako X provenance and performance, East-versus-West AI attitudes, clone prevalence, and the Castlevania judgments remain source-scoped. The broad [[ClaudeCode]] and [[CreativeLaborAIBacklash]] profiles and automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening much larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,799 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
