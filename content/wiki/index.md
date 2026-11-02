@@ -4913,6 +4913,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”](sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647.md) — How I Built This interview on Chesky's CEO learning curve, Airbnb's founder-led reset, empowerment versus autonomy, post-IPO emptiness, relationships, trust, and service.
 
 - [《长线至胜》：资本集团如何把长期主义变成组织能力](sources/lossad1trayjdp11pbjiywrxy43o.md) — 面基对谈番杰，以资本集团的私有所有权、代际让利、人才制度、多基金经理制和客户冲突选择解释组织长期主义，并映照中国公募基金的规模、排名与持有人回报矛盾。
+- [They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan](sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305.md) — Tomorrow Today dramatized narrative on cognitive-difference reframing, brotherly reconciliation, associative AI, and the evidence boundary around lunar and water-treatment claims.
 
 ## Entities
 - [Capital Group / 资本集团](entities/CapitalGroup.md) — Privately held asset manager used as a case of linking ownership succession, talent development, attribution, distributed portfolio judgment, and client-first restraint.
@@ -9979,8 +9980,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vishnu Padmanabhan](entities/VishnuPadmanabhan.md) — Economist explainer distinguishing worker effects from city place effects in wage gaps.
 - [Gaurav Karna](entities/GauravKarna.md) — UC San Diego researcher whose LinkedIn-based job-history work anchors the city place-premium segment.
 - [Andy Stalman](entities/AndyStalman.md) — Branding strategist and entrepreneur whose Tomorrow Today interview frames brand as identity, behavior, culture, AI readiness, and human meaning.
-- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host connecting guest biography to survival, institutions, inequality, leadership, authorship, cognition, and accountable AI.
-- [Tomorrow Today](entities/TomorrowToday.md) — Long-form podcast joining biography to business, resilience, survival, spirituality, institutions, creative labor, inequality, AI, and human meaning.
+- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host and narrator connecting biography to survival, institutions, cognitive difference, leadership, authorship, and accountable AI.
+- [Tomorrow Today](entities/TomorrowToday.md) — Podcast joining long-form interviews and a short dramatized narrative to business, resilience, cognition, creative labor, AI, and human meaning.
 - [Juan Verde](entities/JuanVerde.md) — Diplomat and sustainability strategist connecting generosity, public service, responsible commerce, long-term competitiveness, and dignity-aware AI transition.
 - [Al Gore](entities/AlGore.md) — U.S. political and climate leader presented by Juan Verde as a climate-awareness advocate and source of the business-case lesson for sustainability.
 - [Araceli Segarra](entities/AraceliSegarra.md) — Mountaineer and Tomorrow Today guest whose Everest account connects fear, uncertainty, team trust, rescue, resilience, and AI-era judgment.
@@ -18845,6 +18846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Knights of the Cross / 《十字军骑士》](entities/TheKnightsOfTheCrossNovel.md) — Historical novel valued for material atmosphere and battle writing while qualified by conventional plotting and nationalist framing.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 - [Alex Kontorovich](entities/AlexKontorovich.md) — Rutgers mathematician distinguishing machine-checked proof from explanation, understanding, and evidence of personal mastery.
+- [Ashok Natarajan](entities/AshokNatarajan.md) — Source-scoped figure whose dramatized story connects cognitive difference, family recognition, associative creativity, and the proposed “Ashok's Sight” system.
 
 ## Concepts
 - [Organizational Long-Termism / 组织长期主义](concepts/OrganizationalLongTermism.md) — Long-term capability created when ownership, incentives, talent, evaluation, product policy, and conflict decisions preserve future room together.
@@ -23376,7 +23378,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Actionable Organizational Values](concepts/ActionableOrganizationalValues.md) — Values clear enough to resolve dilemmas, guide decisions, shape processes, and survive movement through organizational layers.
 - [AI as Brand Mirror](concepts/AIAsBrandMirror.md) — Idea that AI reflects and amplifies an organization's existing identity, alignment, process quality, culture, and trust boundaries.
 - [Brand Value Protection](concepts/BrandValueProtection.md) — Discipline of protecting intangible brand value through trust, IP, reputation, privacy, employee alignment, and AI governance.
-- [Angelic Intelligence](concepts/AngelicIntelligence.md) — Shekhar Natarajan's source-scoped human-centered AI frame for technology that guides, amplifies human beauty, and preserves meaning.
+- [Angelic Intelligence](concepts/AngelicIntelligence.md) — Shekhar Natarajan's source-scoped human-centered AI frame joining guidance, compassion, dignity, associative inclusion, and meaning while remaining technically undefined.
 - [Dzogchen](concepts/Dzogchen.md) — Tibetan Buddhist great-completeness frame from Shyalpa Rinpoche's episode, linking awareness, lineage, compassion, and liberation.
 - [Karma as Cause and Effect](concepts/KarmaAsCauseAndEffect.md) — Buddhist consequence frame that rejects fatalism while tying action, compassion, and liberation together.
 - [Breathful Presence](concepts/BreathfulPresence.md) — Practical presence frame for living fully through attention to breath amid ordinary responsibilities.
@@ -29907,5 +29909,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Compute Commitment-Duration Mismatch](concepts/AIComputeCommitmentDurationMismatch.md) — Exposure created when long-lived compute and infrastructure obligations outlast customer purchase commitments.
 - [Foundation Model Value-Capture Expansion](concepts/FoundationModelValueCaptureExpansion.md) — Move from selling model access toward participating in workflows, products, transactions, and measurable outcomes.
 - [Demonstrable Understanding Under AI](concepts/DemonstrableUnderstandingUnderAI.md) — Assessment boundary separating artifact quality from personal mastery, authorship, originality, and responsibility.
+- [Cognitive Difference Reframing](concepts/CognitiveDifferenceReframing.md) — Shift from defect-first labeling toward dignity, support, capability, and evidence without making worth contingent on hidden genius.
 
 ## Syntheses

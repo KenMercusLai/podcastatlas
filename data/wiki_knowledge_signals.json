@@ -17846,9 +17846,9 @@
       "url": "/wiki/entities/angelamerkel/"
     },
     "AngelicIntelligence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -17863,9 +17863,16 @@
           "show": "Tomorrow, Today",
           "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305 [default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305].md",
+          "key": "defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305",
+          "show": "Tomorrow, Today",
+          "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/angelicintelligence/"
     },
     "AngelicKnowledgeMediation": {
@@ -22487,6 +22494,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/asantequeenmothers/"
+    },
+    "AshokNatarajan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305 [default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305].md",
+          "key": "defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305",
+          "show": "Tomorrow, Today",
+          "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/ashoknatarajan/"
     },
     "AshrafGhani": {
       "episode_count": 1,
@@ -54892,6 +54915,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/cognitiveamplificationboundary/"
+    },
+    "CognitiveDifferenceReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305 [default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305].md",
+          "key": "defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305",
+          "show": "Tomorrow, Today",
+          "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/cognitivedifferencereframing/"
     },
     "CognitiveDiversityAIAdoption": {
       "episode_count": 2,
@@ -260645,9 +260684,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -260732,9 +260771,16 @@
           "show": "Tomorrow, Today",
           "title": "Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305 [default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305].md",
+          "key": "defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305",
+          "show": "Tomorrow, Today",
+          "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-02",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -289014,9 +289060,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -289101,9 +289147,16 @@
           "show": "Tomorrow, Today",
           "title": "Federica Fornaciari on Leadership and Why Business Transformation Fails | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305 [default.mp3_ywr3ahjkcgo_308650d3fae2d3e0d0981870ed571704_7058305].md",
+          "key": "defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305",
+          "show": "Tomorrow, Today",
+          "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-02",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {

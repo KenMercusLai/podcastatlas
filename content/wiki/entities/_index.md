@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13848
+wiki_total_pages: 13849
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1883,6 +1883,9 @@ wiki_pages:
   - key: "ASEAN"
     title: "ASEAN"
     url: "/wiki/entities/asean/"
+  - key: "AshokNatarajan"
+    title: "Ashok Natarajan"
+    url: "/wiki/entities/ashoknatarajan/"
   - key: "AshrafGhani"
     title: "Ashraf Ghani"
     url: "/wiki/entities/ashrafghani/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10964
+wiki_total_pages: 10965
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1610,6 +1610,9 @@ wiki_pages:
   - key: "CognitiveDeclineAdvancePlanning"
     title: "Cognitive Decline Advance Planning / 认知障碍提前规划"
     url: "/wiki/concepts/cognitivedeclineadvanceplanning/"
+  - key: "CognitiveDifferenceReframing"
+    title: "Cognitive Difference Reframing"
+    url: "/wiki/concepts/cognitivedifferencereframing/"
   - key: "CognitiveDissonanceAndAccommodation"
     title: "Cognitive Dissonance And Accommodation / 认知失调与顺应"
     url: "/wiki/concepts/cognitivedissonanceandaccommodation/"
