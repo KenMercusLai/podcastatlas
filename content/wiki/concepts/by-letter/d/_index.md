@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10963
+wiki_total_pages: 10964
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "DemographicInnovationCapacity"
     title: "Demographic Innovation Capacity / 人口创新能力"
     url: "/wiki/concepts/demographicinnovationcapacity/"
+  - key: "DemonstrableUnderstandingUnderAI"
+    title: "Demonstrable Understanding Under AI"
+    url: "/wiki/concepts/demonstrableunderstandingunderai/"
   - key: "DemonstrationLedProductProof"
     title: "Demonstration Led Product Proof"
     url: "/wiki/concepts/demonstrationledproductproof/"

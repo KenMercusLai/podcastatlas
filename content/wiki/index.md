@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What it means when AI helps solve complex math problems](sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128.md) — Marketplace Tech distinguishes machine-checked proof from human mathematical understanding and connects that gap to research ethics, oral assessment, hiring, and graduate education.
 - [揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想](sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9.md) — 旧世代 connects AI-assisted game preservation and Android Xbox emulation to pre-release clone risk and Castlevania series identity.
 - [719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)](sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202.md) — The Rest Is History traces Stalinist consolidation, de-Stalinization, reform mobilization, and the armed opening of the 1956 Hungarian Revolution.
 - [商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了](sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti.md) — 商业就是这样以字母标AUDI拆解传统豪华品牌如何通过品牌分工、本土研发、挑战者定价与快速反馈应对中国新能源竞争。
@@ -18843,6 +18844,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Henryk Sienkiewicz / 亨利克·显克维奇](entities/HenrykSienkiewicz.md) — Polish historical novelist whose medieval victory narrative served partition-era cultural memory while projecting modern nationality backward.
 - [The Knights of the Cross / 《十字军骑士》](entities/TheKnightsOfTheCrossNovel.md) — Historical novel valued for material atmosphere and battle writing while qualified by conventional plotting and nationalist framing.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
+- [Alex Kontorovich](entities/AlexKontorovich.md) — Rutgers mathematician distinguishing machine-checked proof from explanation, understanding, and evidence of personal mastery.
 
 ## Concepts
 - [Organizational Long-Termism / 组织长期主义](concepts/OrganizationalLongTermism.md) — Long-term capability created when ownership, incentives, talent, evaluation, product policy, and conflict decisions preserve future room together.
@@ -29904,5 +29906,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontier Model Commercial Half-Life](concepts/FrontierModelCommercialHalfLife.md) — Period in which a model generation remains commercially material before newer capability, pricing, routing, or substitutes erode demand.
 - [AI Compute Commitment-Duration Mismatch](concepts/AIComputeCommitmentDurationMismatch.md) — Exposure created when long-lived compute and infrastructure obligations outlast customer purchase commitments.
 - [Foundation Model Value-Capture Expansion](concepts/FoundationModelValueCaptureExpansion.md) — Move from selling model access toward participating in workflows, products, transactions, and measurable outcomes.
+- [Demonstrable Understanding Under AI](concepts/DemonstrableUnderstandingUnderAI.md) — Assessment boundary separating artifact quality from personal mastery, authorship, originality, and responsibility.
 
 ## Syntheses

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3711
+topic_total_pages: 3712
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2032,6 +2032,9 @@ topic_concepts:
   - key: "DemocraticAIGovernanceDeliberation"
     title: "Democratic AI Governance Deliberation"
     url: "/wiki/concepts/democraticaigovernancedeliberation/"
+  - key: "DemonstrableUnderstandingUnderAI"
+    title: "Demonstrable Understanding Under AI"
+    url: "/wiki/concepts/demonstrableunderstandingunderai/"
   - key: "DesignLedSoftwareDifferentiation"
     title: "Design-Led Software Differentiation"
     url: "/wiki/concepts/designledsoftwaredifferentiation/"

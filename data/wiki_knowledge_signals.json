@@ -3299,9 +3299,9 @@
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
     "AIForMath": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
@@ -3330,9 +3330,16 @@
           "show": "Economist Podcasts",
           "title": "Schrödinger’s chat: can AI and scientists co-exist?",
           "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        },
+        {
+          "episode_file": "tech_20261102_1102_MP_TECH_pod_128 [tech_20261102_1102_MP_TECH_pod_128].md",
+          "key": "tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it means when AI helps solve complex math problems",
+          "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/aiformath/"
     },
     "AIGeneratedContentQualityGap": {
@@ -3366,9 +3373,9 @@
       "url": "/wiki/concepts/aigeneratedcontentqualitygap/"
     },
     "AIGeneratedProofGovernance": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
@@ -3383,9 +3390,16 @@
           "show": "Economist Podcasts",
           "title": "Schrödinger’s chat: can AI and scientists co-exist?",
           "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        },
+        {
+          "episode_file": "tech_20261102_1102_MP_TECH_pod_128 [tech_20261102_1102_MP_TECH_pod_128].md",
+          "key": "tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it means when AI helps solve complex math problems",
+          "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/aigeneratedproofgovernance/"
     },
     "AIGeneratedPullRequestBurden": {
@@ -4481,9 +4495,9 @@
       "url": "/wiki/concepts/aimasterylearningmodel/"
     },
     "AIMathematician": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
@@ -4498,9 +4512,16 @@
           "show": "Economist Podcasts",
           "title": "Out-numbered: AI's contentious maths milestone",
           "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        },
+        {
+          "episode_file": "tech_20261102_1102_MP_TECH_pod_128 [tech_20261102_1102_MP_TECH_pod_128].md",
+          "key": "tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it means when AI helps solve complex math problems",
+          "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/aimathematician/"
     },
     "AIMemoryLifecycle": {
@@ -12941,6 +12962,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/alexhonnold/"
+    },
+    "AlexKontorovich": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261102_1102_MP_TECH_pod_128 [tech_20261102_1102_MP_TECH_pod_128].md",
+          "key": "tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it means when AI helps solve complex math problems",
+          "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/alexkontorovich/"
     },
     "AlexLeeCalifornia": {
       "episode_count": 1,
@@ -71877,6 +71914,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/demographicinnovationcapacity/"
     },
+    "DemonstrableUnderstandingUnderAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261102_1102_MP_TECH_pod_128 [tech_20261102_1102_MP_TECH_pod_128].md",
+          "key": "tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it means when AI helps solve complex math problems",
+          "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/demonstrableunderstandingunderai/"
+    },
     "DengBiaoEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -74536,9 +74589,9 @@
       "url": "/wiki/concepts/digitalsovereignty/"
     },
     "DigitallyVerifiableDiscoveryLoop": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Is Claude Conscious？ Pope Rejects, Model Welfare Movement, OpenAI's Math.md",
@@ -74553,9 +74606,16 @@
           "show": "Economist Podcasts",
           "title": "Schrödinger’s chat: can AI and scientists co-exist?",
           "url": "/wiki/sources/schrodingers-chat-can-ai-and-scientists-co-exist-cc0f4a5a1edb896ae869b3d9c711bc4f/"
+        },
+        {
+          "episode_file": "tech_20261102_1102_MP_TECH_pod_128 [tech_20261102_1102_MP_TECH_pod_128].md",
+          "key": "tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it means when AI helps solve complex math problems",
+          "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-16",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/digitallyverifiablediscoveryloop/"
     },
     "DignityBasedPersuasion": {

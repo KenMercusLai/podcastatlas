@@ -38321,3 +38321,11 @@ Added source `access-the-sublime-live-your-best-life-robert-greene-scim204762404
 ## [2026-11-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-02] ingest | What it means when AI helps solve complex math problems
+
+Added source `tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128`; created [[AlexKontorovich]] and [[DemonstrableUnderstandingUnderAI]]; and resynthesized [[AIForMath]], [[AIMathematician]], [[AIGeneratedProofGovernance]], and [[DigitallyVerifiableDiscoveryLoop]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: formal checking can support proof correctness without supplying human explanation, importance, provenance, or integration; abundant generated mathematics may shift work toward interpretation, teaching, and judgment; and sophisticated written output no longer authenticates its producer's understanding, making declared tool use, process evidence, oral defense, and live explanation complementary assessment signals. No settled contradiction was adopted. Result counts, novelty, review status, labor effects, training on unpublished work, and prompt-consent concerns remain episode-scoped because the supplied file is a structured summary rather than a transcript, proof review, provenance audit, labor study, or platform-policy record. The broad [[OpenAI]], legacy university-assessment, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger or inconsistent evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,803 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
