@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2340
+topic_total_pages: 2341
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6234,6 +6234,9 @@ topic_sources:
   - key: "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf"
     title: "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力"
     url: "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+  - key: "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647"
+    title: "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\""
+    url: "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
   - key: "socialradarspod-brianchesky2-final"
     title: "Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led"
     url: "/wiki/sources/socialradarspod-brianchesky2-final/"

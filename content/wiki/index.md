@@ -4908,6 +4908,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [47 条顿骑士团的前世今生与波兰民族主义：显克维奇《十字军骑士》](sources/47-tiaodun-qishituan-de-qianshi-jinsheng-yu-bolan-minzuzhuyi-xiankeiweiqi-shizijunqishi-lqoeehv6bw8thlpgr1wvvrv_jk2t.md) — 怪东西以《十字军骑士》连接北方十字军、条顿骑士团、格伦瓦尔德战役、马尔堡与波兰民族记忆，并区分中世纪冲突和十九世纪民族主义投射。
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
+- [Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”](sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647.md) — How I Built This interview on Chesky's CEO learning curve, Airbnb's founder-led reset, empowerment versus autonomy, post-IPO emptiness, relationships, trust, and service.
+
 ## Entities
 - [Hako X](entities/HakoX.md) — Android original-Xbox emulator reported to run selected games well on modest Mali-based hardware while retaining compatibility defects.
 - [Pocket Air Mini](entities/PocketAirMini.md) — Android gaming handheld used as the constrained-hardware test device in the Hako X case.
@@ -16740,8 +16742,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ArtX](entities/ArtX.md) — Failed online art-gallery software idea whose website-generator work became the base for Viaweb.
 - [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm linked to YC validation, Altos, Airbnb, Dropbox, and Google's 1999 round through Yahoo distribution access.
 - [Greg McAdoo](entities/GregMcAdoo.md) — Sequoia Capital investor who helped reframe Airbnb from an air-bed idea into a broader vacation-rental and lodging marketplace opportunity.
-- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episodes and Season 2 wrap-up context connect hosting, design school, YC survival, founder fieldwork, COVID crisis leadership, founder-led operating design, and founder mode.
-- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design, crisis stakeholder tradeoffs, Season 2 highlight status, founder-led reset, and founder mode.
+- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose record joins design-led founding, YC fieldwork, crisis leadership, conflict and delegation lessons, founder mode, and identity beyond valuation.
+- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging marketplace and source case for trust design, unscalable customer discovery, crisis tradeoffs, founder-led organizational reset, and internal AI-assisted development.
 - [Ken Chenault](entities/KenChenault.md) — Airbnb board member in the COVID crisis story who helped frame the travel collapse as an existential threat.
 - [Andy Grove](entities/AndyGrove.md) — Management and semiconductor leader cited by Brian Chesky for the idea that crises define great companies.
 - [Joe Gebbia](entities/JoeGebbia.md) — Airbnb co-founder whose design-school relationship with Brian Chesky, first hosting experiment, cereal-box survival move, and New York host visits shaped the origin story.
@@ -19309,7 +19311,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coercive Christianization](concepts/CoerciveChristianization.md) — Use of conquest, law, punishment, and custody to impose Christian identity or practice rather than voluntary belief.
 - [Carolingian Correctio](concepts/CarolingianCorrectio.md) — Salvation-oriented program joining political order, religious conformity, textual repair, clerical competence, and teaching.
 - [Carolingian Learning Reform](concepts/CarolingianLearningReform.md) — Carolingian manuscript, script, clergy, and parish reforms for wider Christian instruction.
-- [Hedonic Adaptation and Contrast](concepts/HedonicAdaptationAndContrast.md) — How emotional responses fade and how comparison, interruption, finitude, and process orientation can renew appreciation.
+- [Hedonic Adaptation and Contrast](concepts/HedonicAdaptationAndContrast.md) — How emotional responses fade after gains or losses, how contrast can renew appreciation, and why achievement may expose unmet relational or purpose needs.
 - [Time Affluence](concepts/TimeAffluence.md) — The felt availability and usable control of discretionary time, including the costs of fragmentation and default phone use.
 - [Strengths-Based Job Crafting](concepts/StrengthsBasedJobCrafting.md) — Bringing personal strengths into an existing role while preserving safety, role duties, and organizational responsibility.
 - [Carolingian Imperial Fragmentation](concepts/CarolingianImperialFragmentation.md) — Succession, partition, external pressure, and weakening territorial control that broke Carolingian unity without erasing its imperial memory.
@@ -26984,7 +26986,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Global Logistics Coordination](concepts/GlobalLogisticsCoordination.md) — Moving goods across fragmented freight, customs, warehouse, carrier, finance, government, and information systems.
 - [Logistics Workflow Automation](concepts/LogisticsWorkflowAutomation.md) — Flexport pattern of decomposing freight movement into assignable tasks before gradually automating them.
 - [Logistics Crisis Response](concepts/LogisticsCrisisResponse.md) — Logistics operating pattern for pandemic PPE, Red Sea disruption, port congestion, and other supply-chain shocks.
-- [Founder Operational Reset](concepts/FounderOperationalReset.md) — Returning-founder pattern for restoring budget discipline, execution cadence, and operating accountability after drift.
+- [Founder Operational Reset](concepts/FounderOperationalReset.md) — Founder re-engagement that restores direct facts, focus, budget or process discipline, and durable operating capability after drift.
 - [Agent Dynamics](concepts/AgentDynamics.md) — RC's term for emergent behavior in multi-agent work environments, including identity, task ownership, group memory, and culture-like effects.
 - [Agent Task Claiming](concepts/AgentTaskClaiming.md) — Multi-agent coordination mechanism where an agent claims responsibility for a task so others do not duplicate or conflict with it.
 - [Agent Organizational Culture](concepts/AgentOrganizationalCulture.md) — Culture-like behavior shaped by prompt norms, shared memory, and cooperation or competition among many agents.
@@ -27962,7 +27964,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Demand Shock Product-Market Fit](concepts/DemandShockProductMarketFit.md) — Breakout pattern where sudden demand overwhelms operations but retention and repeat buying reveal real product-market fit.
 - [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
 - [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of learning, survival, product improvement, or positioning change precede clear behavioral evidence of fit.
-- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of distributing real ownership while preserving founder context, customer contact, standards, and high-consequence judgment.
+- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Design of real team ownership while preserving shared direction, founder context, customer contact, standards, and high-consequence judgment.
 - [Founder Instinct](concepts/FounderInstinct.md) — Founder-level high-context judgment that should not be suppressed by executives, boards, or imported playbooks when it is grounded in real product and user context.
 - [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
 - [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
@@ -28056,7 +28058,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unscalable Founder Work](concepts/UnscalableFounderWork.md) — Early-stage practice of doing manual, non-repeatable work to learn which product, trust, payment, and operations systems should later scale.
 - [Crisis Stakeholder Leadership](concepts/CrisisStakeholderLeadership.md) — Leadership pattern for making urgent crisis decisions while keeping customers, suppliers, employees, investors, and company survival visible, reinforced by the Brian Chesky Season 2 highlight.
 - [Founder-Led Functional Organization](concepts/FounderLedFunctionalOrganization.md) — Operating model where a scaling company uses functions, one roadmap, and direct founder review to preserve product coherence after drift or crisis.
-- [Founder Mode](concepts/FounderMode.md) — Scaling-company leadership doctrine where founders preserve direction through presence, product judgment, accountability, delegation, and small aligned teams rather than professional-manager absence.
+- [Founder Mode](concepts/FounderMode.md) — Scaling leadership pattern joining active founder presence, shared direction, selective depth, safe dissent, and distributed execution ownership.
 - [Founder Idea Pivot](concepts/FounderIdeaPivot.md) — Early-stage pattern where the team is more promising than the first idea, illustrated by YC rejecting Huffman and Ohanian's food-ordering idea but calling them back for Reddit.
 - [User-Powered Content Platform](concepts/UserPoweredContentPlatform.md) — Platform pattern where users submit, rank, and discuss content, turning participant behavior into the main content surface.
 - [Corporate-Owned Startup Constraints](concepts/CorporateOwnedStartupConstraints.md) — Operating limits that appear when an acquired startup needs equity incentives and speed but sits inside a larger corporate parent.
@@ -28779,7 +28781,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Commodity Price Exposure](concepts/CommodityPriceExposure.md) — Operating and pricing risk created when input costs or low-trust commodity output prices move faster than customer willingness to pay or quality differentiation.
 - [Story Led Consumer Branding](concepts/StoryLedConsumerBranding.md) — Consumer-brand pattern where a product's meaning comes from a founder, family, place, ritual, or loss story that customers can remember and repeat.
 - [Family Business Scaling](concepts/FamilyBusinessScaling.md) — Growth problem where channel choice, production capacity, identity, and family relationships have to fit the scale the business actually wants.
-- [Founder Work Boundaries](concepts/FounderWorkBoundaries.md) — Physical, calendar, and relationship structures that keep a founder-led company from occupying every part of the founder's life.
+- [Founder Work Boundaries](concepts/FounderWorkBoundaries.md) — Physical, calendar, relationship, and identity structures that keep company responsibility from occupying the founder's entire life.
 - [Tau Law](concepts/TauLaw.md) — Huawei's latency-oriented semiconductor metric, treated by the episode as a KPI-like engineering and organization target rather than a new natural law.
 - [Semiconductor 3D Stacking](concepts/Semiconductor3DStacking.md) — Chip packaging and architecture route that reduces signal distance through vertical integration, central to the Tau Law discussion.
 - [Constraint Driven Engineering Strategy](concepts/ConstraintDrivenEngineeringStrategy.md) — Strategy of finding alternate engineering routes when dominant technology paths are blocked, costly, or externally controlled.

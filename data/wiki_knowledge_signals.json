@@ -11792,6 +11792,71 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/airdefensesaturation/"
     },
+    "Airbnb": {
+      "episode_count": 8,
+      "show_count": 3,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "TSR-S5-PG-v6Final-Audio [TSR-S5-PG-v6Final-Audio].md",
+          "key": "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio",
+          "show": "The Social Radars",
+          "title": "Paul Graham on Y Combinator's Growth, Myths, and the AI Era",
+          "url": "/wiki/sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio/"
+        },
+        {
+          "episode_file": "TSR-S2-WrapUp-v1 [TSR-S2-WrapUp-v1].md",
+          "key": "tsr-s2-wrapup-v1",
+          "show": "The Social Radars",
+          "title": "The Social Radars Season 2 Wrap-Up and Season 3 Announcement",
+          "url": "/wiki/sources/tsr-s2-wrapup-v1/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianChesky-Final [SocialRadarsPod-BrianChesky-Final].md",
+          "key": "socialradarspod-brianchesky-final",
+          "show": "The Social Radars",
+          "title": "Brian Chesky on Airbnb's Origins, YC, and Reconnecting People",
+          "url": "/wiki/sources/socialradarspod-brianchesky-final/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianChesky2-Final [SocialRadarsPod-BrianChesky2-Final].md",
+          "key": "socialradarspod-brianchesky2-final",
+          "show": "The Social Radars",
+          "title": "Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led",
+          "url": "/wiki/sources/socialradarspod-brianchesky2-final/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianArmstrong-Final [SocialRadarsPod-BrianArmstrong-Final].md",
+          "key": "socialradarspod-brianarmstrong-final",
+          "show": "The Social Radars",
+          "title": "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience",
+          "url": "/wiki/sources/socialradarspod-brianarmstrong-final/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-BrianChesky-AudioOnly-Final [TSR-YCOffsite-BrianChesky-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Brian Chesky, Founder & CEO, Airbnb",
+          "url": "/wiki/sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/airbnb/"
+    },
     "AireyNeave": {
       "episode_count": 1,
       "show_count": 1,
@@ -35724,6 +35789,64 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/brianarmstrong/"
+    },
+    "BrianChesky": {
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "TSR-S5-BlakeScholl-v3-FinalAudio [TSR-S5-BlakeScholl-v3-FinalAudio].md",
+          "key": "tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO of Boom Supersonic",
+          "url": "/wiki/sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio/"
+        },
+        {
+          "episode_file": "TSR-S2-WrapUp-v1 [TSR-S2-WrapUp-v1].md",
+          "key": "tsr-s2-wrapup-v1",
+          "show": "The Social Radars",
+          "title": "The Social Radars Season 2 Wrap-Up and Season 3 Announcement",
+          "url": "/wiki/sources/tsr-s2-wrapup-v1/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianChesky-Final [SocialRadarsPod-BrianChesky-Final].md",
+          "key": "socialradarspod-brianchesky-final",
+          "show": "The Social Radars",
+          "title": "Brian Chesky on Airbnb's Origins, YC, and Reconnecting People",
+          "url": "/wiki/sources/socialradarspod-brianchesky-final/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianChesky2-Final [SocialRadarsPod-BrianChesky2-Final].md",
+          "key": "socialradarspod-brianchesky2-final",
+          "show": "The Social Radars",
+          "title": "Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led",
+          "url": "/wiki/sources/socialradarspod-brianchesky2-final/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-BrianChesky-AudioOnly-Final [TSR-YCOffsite-BrianChesky-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Brian Chesky, Founder & CEO, Airbnb",
+          "url": "/wiki/sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-PG-AudioOnly-Final [TSR-YCOffsite-PG-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Paul Graham, Founder, Y Combinator",
+          "url": "/wiki/sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/brianchesky/"
     },
     "BrianEpstein": {
       "episode_count": 3,
@@ -104677,9 +104800,9 @@
       "url": "/wiki/concepts/founderboardrelationshipmaintenance/"
     },
     "FounderDelegationDiscipline": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 3,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
@@ -104757,9 +104880,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 21: 抗压、应变与终生动力：CZ 的人事和天命",
           "url": "/wiki/sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/founderdelegationdiscipline/"
     },
     "FounderEgo": {
@@ -105035,6 +105165,134 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/founderlifestyleinfrastructure/"
     },
+    "FounderMode": {
+      "episode_count": 17,
+      "show_count": 3,
+      "source_note_count": 17,
+      "sources": [
+        {
+          "episode_file": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：＂如果神存在，我怎能容忍自己不是神？＂【公路播客】 [lhcEYiP6DQoMRwk38uVqJWOoMxyZ].md",
+          "key": "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz",
+          "show": "十字路口Crossing",
+          "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【公路播客】",
+          "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
+        },
+        {
+          "episode_file": "TSR-S5-DavidKirtley-v2-Audio [TSR-S5-DavidKirtley-v2-Audio].md",
+          "key": "tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio",
+          "show": "The Social Radars",
+          "title": "David Kirtley, Founder & CEO of Helion Energy",
+          "url": "/wiki/sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio/"
+        },
+        {
+          "episode_file": "TSR-S3-RyanPetersen-v6 [TSR-S3-RyanPetersen-v6].md",
+          "key": "tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6",
+          "show": "The Social Radars",
+          "title": "Ryan Petersen on Flexport, Global Logistics, and Founder Discipline",
+          "url": "/wiki/sources/tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6/"
+        },
+        {
+          "episode_file": "TSR-S5-CatchUp2-v1 [TSR-S5-CatchUp2-v1].md",
+          "key": "tsr-s5-catchup2-v1-tsr-s5-catchup2-v1",
+          "show": "The Social Radars",
+          "title": "The Social Radars Season Five Update",
+          "url": "/wiki/sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-Sajith-v2Final-Audio [TSR-YCOffsite-Sajith-v2Final-Audio].md",
+          "key": "tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling",
+          "url": "/wiki/sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-JenHerbach-v1-Audio [TSR-YCOffsite-JenHerbach-v1-Audio].md",
+          "key": "tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Jen Herbach, Founder & CEO, Adventris Pharmaceuticals",
+          "url": "/wiki/sources/tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-EmmettShear-v1-AudioOnly [TSR-YCOffsite-EmmettShear-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Emmett Shear, Founder, Softmax & Twitch",
+          "url": "/wiki/sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-ChristinaCacioppo-v1-AudioOnly [TSR-YCOffsite-ChristinaCacioppo-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Christina Cacioppo, Founder & CEO, Vanta",
+          "url": "/wiki/sources/tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-AndyLapsa-v1-Audio [TSR-YCOffsite-AndyLapsa-v1-Audio].md",
+          "key": "tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space",
+          "url": "/wiki/sources/tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-PaulGross-v1-AudioOnly [TSR-YCOffsite-PaulGross-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Paul Gross, Founder & CEO of Remora Carbon",
+          "url": "/wiki/sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-ChrisBest-AudioOnly-v1Final-mov [TSR-YCOffsite-ChrisBest-AudioOnly-v1Final-mov].md",
+          "key": "tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Chris Best, Founder & CEO, Substack",
+          "url": "/wiki/sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-JakeHeller-AudioOnly-v1Final [TSR-YCOffsite-JakeHeller-AudioOnly-v1Final].md",
+          "key": "tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Jake Heller, Founder & CEO, Casetext",
+          "url": "/wiki/sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-BrianChesky-AudioOnly-Final [TSR-YCOffsite-BrianChesky-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Brian Chesky, Founder & CEO, Airbnb",
+          "url": "/wiki/sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-GT-AudioOnly-Final [TSR-YCOffsite-GT-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Garry Tan, President & CEO, Y Combinator",
+          "url": "/wiki/sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-PG-AudioOnly-Final [TSR-YCOffsite-PG-AudioOnly-Final].md",
+          "key": "tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Paul Graham, Founder, Y Combinator",
+          "url": "/wiki/sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/foundermode/"
+    },
     "FounderMotivationEvolution": {
       "episode_count": 10,
       "show_count": 3,
@@ -105115,9 +105373,9 @@
       "url": "/wiki/concepts/foundermotivationevolution/"
     },
     "FounderOperationalReset": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S3-RyanPetersen-v6 [TSR-S3-RyanPetersen-v6].md",
@@ -105132,9 +105390,16 @@
           "show": "罗永浩的十字路口",
           "title": "何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事",
           "url": "/wiki/sources/lnmpqiptzutrevnwr4ot5zrwxuak-lnmpqiptzutrevnwr4ot5zrwxuak/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/founderoperationalreset/"
     },
     "FounderPitchEvidenceFit": {
@@ -105320,6 +105585,43 @@
       ],
       "updated": "2026-10-29",
       "url": "/wiki/concepts/founderuniquevaluepreservation/"
+    },
+    "FounderWorkBoundaries": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛 [ludjc3AB_JBwpCI6TPAAjTFfsBLx].md",
+          "key": "ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx",
+          "show": "硬地骇客",
+          "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+          "url": "/wiki/sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx/"
+        },
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/founderworkboundaries/"
     },
     "FoundingCommanderSuspicionManagement": {
       "episode_count": 2,
@@ -127807,9 +128109,9 @@
       "url": "/wiki/entities/hedongpeiclan/"
     },
     "HedonicAdaptationAndContrast": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5061134579 [SCIM5061134579].md",
@@ -127817,9 +128119,16 @@
           "show": "Huberman Lab",
           "title": "How to Achieve True Happiness Using Science-Based Protocols | Dr. Laurie Santos",
           "url": "/wiki/sources/how-to-achieve-true-happiness-using-science-based-protocols-dr-laurie-santos-scim5061134579/"
+        },
+        {
+          "episode_file": "VMP9745758647 [VMP9745758647].md",
+          "key": "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647",
+          "show": "How I Built This with Guy Raz",
+          "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
+          "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-02",
       "url": "/wiki/concepts/hedonicadaptationandcontrast/"
     },
     "HefeiLateHan": {
