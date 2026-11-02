@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10961
+wiki_total_pages: 10963
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1385,6 +1385,9 @@ wiki_pages:
   - key: "ExperienceMemoryPremium"
     title: "Experience-Memory Premium / 体验记忆溢价"
     url: "/wiki/concepts/experiencememorypremium/"
+  - key: "ExperienceReportingBoundary"
+    title: "Experience-Reporting Boundary"
+    url: "/wiki/concepts/experiencereportingboundary/"
   - key: "ExperientialAssociation"
     title: "Experiential Association / 经验联想"
     url: "/wiki/concepts/experientialassociation/"

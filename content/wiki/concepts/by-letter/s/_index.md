@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 10961
+wiki_total_pages: 10963
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2480,6 +2480,9 @@ wiki_pages:
   - key: "SubjectivityThroughFailure"
     title: "Subjectivity Through Failure / 失败中的主体性"
     url: "/wiki/concepts/subjectivitythroughfailure/"
+  - key: "SublimeExperienceCultivation"
+    title: "Sublime Experience Cultivation"
+    url: "/wiki/concepts/sublimeexperiencecultivation/"
   - key: "SubmissionThroughStatusElevation"
     title: "Submission Through Status Elevation / 尊号式投降方案"
     url: "/wiki/concepts/submissionthroughstatuselevation/"

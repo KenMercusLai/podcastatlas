@@ -4796,6 +4796,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Should we all be getting tariff refunds right now?](sources/should-we-all-be-getting-tariff-refunds-right-now.md) — Planet Money episode on importer refunds, consumer tariff incidence, Panic’s itemized Playdate charge, and the records and corporate choices that determine repayment.
 - [RIHC: Disney's Legacy, with Bob Iger](sources/rihc-disneys-legacy-with-bob-iger-glt6989183827.md) — The Rest Is History interview on Disney stewardship, theme parks as story environments, nostalgia and reinvention, and culturally adapted global expansion.
 - [Improve Your Lymphatic System for Overall Health & Appearance](sources/improve-your-lymphatic-system-for-overall-health-appearance-scim8178118441.md) — Huberman Lab solo episode on lymphatic fluid recovery, immune surveillance, movement- and pressure-supported flow, sleep-linked glymphatic clearance, and clinical boundaries.
+- [Access the Sublime & Live Your Best Life | Robert Greene](sources/access-the-sublime-live-your-best-life-robert-greene-scim2047624040.md) — Huberman Lab conversation on cultivating the sublime through attention, sensory contact, nature, mastery, love, mortality, and a boundary between experience and public reporting.
 
 - [EP 26: The Future of Healthcare - AI, Data and Human Touch](sources/ep-26-the-future-of-healthcare-ai-data-and-human-touch.md) — Data Science With Sam interview with Sriman Swarup on ambient oncology, evidence-linked workflow flags, operational precision care, and human-centered clinical AI.
 - [Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic](sources/scim4605688764-scim4605688764.md) — Huberman Lab interview on hearing mechanisms, sound-dose prevention, hidden hearing loss, tinnitus care, cochlear implants, emerging diagnostics, and qualified cognitive-risk links.
@@ -7218,7 +7219,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jacqueline Kennedy Onassis](entities/JacquelineKennedyOnassis.md) — First lady whose political presence and immediate trauma connect the Texas trip to the human reality of the assassination.
 - [John Connally](entities/JohnConnally.md) — Texas governor, coalition figure, motorcade witness, and shooting victim.
 - [Dealey Plaza](entities/DealeyPlaza.md) — Compact Dallas crime scene whose route geometry, witnesses, sight lines, and acoustics shaped the attack and its interpretation.
-- [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, relationships, difficult thinking, and mortality in a source-bounded Huberman Lab profile.
+- [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, love, mastery, mortality, and sublime attention across two source-bounded Huberman Lab profiles.
 - [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose pragmatic politics, Cold War record, death, alleged motives, and conspiracy afterlife organize the JFK sequence.
 - [Joseph P. Kennedy Sr.](entities/JosephPKennedySr.md) — Wealthy patriarch whose outsider resentment, competition, resources, diplomacy, and isolationism shaped the Kennedy political project.
 - [Joseph P. Kennedy Jr.](entities/JosephPKennedyJr.md) — Original Kennedy family standard-bearer whose wartime death redirected political expectations toward his younger brother.
@@ -20955,7 +20956,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pediatric Airway Foreign-Body Escalation / 儿童气道异物升级处置](concepts/PediatricAirwayForeignBodyEscalation.md) — Acute-and-delayed safety boundary for suspected aspiration, persistent pneumonia, secretion retention, and atelectasis.
 - [Presidential Accessibility-Security Tradeoff](concepts/PresidentialAccessibilitySecurityTradeoff.md) — Tension between the political value of public proximity and the protective exposure created by visibility, spontaneity, and open routes.
 - [Winter Respiratory Infection Risk](concepts/WinterRespiratoryInfectionRisk.md) — Multifactorial model connecting seasonal exposure, indoor proximity, dry air, airway defenses, sleep, and pathogen variation.
-- [Life-Task Discovery](concepts/LifeTaskDiscovery.md) — Process of testing early fascinations, aversions, and visceral engagement as evidence for a durable adult direction.
+- [Life-Task Discovery](concepts/LifeTaskDiscovery.md) — Process of journaling and testing early fascination, aversion, and sustained engagement as evidence for a durable adult direction.
 - [Power Literacy](concepts/PowerLiteracy.md) — Defensive awareness of influence, dependency, status, disclosure, vulnerability, and covert control in ordinary relationships.
 - [Embodied Social Perception](concepts/EmbodiedSocialPerception.md) — Probabilistic interpretation of voice, gaze, posture, movement, timing, and conduct across contexts.
 - [Character-Based Romantic Compatibility](concepts/CharacterBasedRomanticCompatibility.md) — Relationship assessment through demonstrated values, character, life direction, attraction, and capacity for continued growth.
@@ -29891,6 +29892,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Unique Value Preservation](concepts/FounderUniqueValuePreservation.md) — Delegates transferable operations while protecting founder-specific product, brand, relationship, or strategic judgment.
 - [Experience Before Location Expansion](concepts/ExperienceBeforeLocationExpansion.md) — Refines a service experience, capacity model, and operating system before multiplying sites.
 - [Customer-Centered Expansion](concepts/CustomerCenteredExpansion.md) — Expands by serving additional needs of a defined, trusted customer base before pursuing unrelated audiences.
+- [Sublime Experience Cultivation](concepts/SublimeExperienceCultivation.md) — Practice of loosening habitual categories, utility, self-focus, and temporal scale so ordinary reality can become vivid and larger than the social self.
+- [Experience-Reporting Boundary](concepts/ExperienceReportingBoundary.md) — Boundary between direct involvement and recording or anticipating how an experience will appear to an audience while it unfolds.
 
 - [Transformative Compassion](concepts/TransformativeCompassion.md) — Action-centered compassion joining awareness, connectedness, feeling, courage, responsibility, and structural change.
 - [Ethical Supply-Chain Certification](concepts/EthicalSupplyChainCertification.md) — Market intervention translating social standards into monitored, labeled, and qualified purchasing signals.

@@ -38313,3 +38313,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-02] ingest | Access the Sublime & Live Your Best Life | Robert Greene
+
+Added source `access-the-sublime-live-your-best-life-robert-greene-scim2047624040`; created [[SublimeExperienceCultivation]] and [[ExperienceReportingBoundary]]; and resynthesized [[RobertGreene]] and [[LifeTaskDiscovery]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: sublime experience can be cultivated through sustained attention, sensory contact, non-human scale, creative immersion, and mortality awareness in ordinary settings; anticipated public reporting can pre-structure an event before publication; and life-task inquiry can use childhood fascination, aversion, journaling, and adult testing without turning memory into fixed destiny. No settled contradiction was adopted. Neurological, historical, religious, evolutionary, time-perception, entrainment, and transcendence claims remain conversational, autobiographical, or source-scoped because the supplied file is a structured summary rather than a transcript or study review, and Greene's positive stroke interpretation is not generalized to disability. Broad [[AndrewHuberman]], [[HubermanLab]], [[AweEmotion]], [[AttentionFragmentation]], [[MortalityBoundedMeaning]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,802 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
