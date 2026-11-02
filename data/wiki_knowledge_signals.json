@@ -6487,6 +6487,22 @@
       "updated": "2026-10-16",
       "url": "/wiki/entities/atruestory/"
     },
+    "AUDIChinaEVBrand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOvSxzAJH0kATz5TtI [GKwRIRwOvSxzAJH0kATz5TtI].md",
+          "key": "gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti",
+          "show": "商业就是这样",
+          "title": "商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了",
+          "url": "/wiki/sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/audichinaevbrand/"
+    },
     "AUXGroup": {
       "episode_count": 1,
       "show_count": 1,
@@ -23954,6 +23970,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/attritionalreconquest/"
+    },
+    "Audi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "GKwRIRwOvSxzAJH0kATz5TtI [GKwRIRwOvSxzAJH0kATz5TtI].md",
+          "key": "gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti",
+          "show": "商业就是这样",
+          "title": "商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了",
+          "url": "/wiki/sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/audi/"
     },
     "AudienceBeforeProductMarketing": {
       "episode_count": 1,
@@ -48757,6 +48796,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/chinajapanfriendshiphospital/"
+    },
+    "ChinaLocalizedJointVentureEVDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOvSxzAJH0kATz5TtI [GKwRIRwOvSxzAJH0kATz5TtI].md",
+          "key": "gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti",
+          "show": "商业就是这样",
+          "title": "商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了",
+          "url": "/wiki/sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/chinalocalizedjointventureevdevelopment/"
     },
     "ChinaLongTermCareInsurance": {
       "episode_count": 1,
@@ -114614,6 +114669,29 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/germaninvasionofbelgium1914/"
     },
+    "GermanLuxuryCarChinaPressure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "GKwRIRwOvSxzAJH0kATz5TtI [GKwRIRwOvSxzAJH0kATz5TtI].md",
+          "key": "gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti",
+          "show": "商业就是这样",
+          "title": "商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了",
+          "url": "/wiki/sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/germanluxurycarchinapressure/"
+    },
     "GermanMilitaryOppositionToHitler": {
       "episode_count": 1,
       "show_count": 1,
@@ -165979,6 +166057,22 @@
       ],
       "updated": "2026-10-21",
       "url": "/wiki/entities/leesooman/"
+    },
+    "LegacyLuxuryBrandEVReset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOvSxzAJH0kATz5TtI [GKwRIRwOvSxzAJH0kATz5TtI].md",
+          "key": "gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti",
+          "show": "商业就是这样",
+          "title": "商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了",
+          "url": "/wiki/sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/concepts/legacyluxurybrandevreset/"
     },
     "LegalAIVerificationAuditability": {
       "episode_count": 3,
@@ -251294,6 +251388,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/ryansocialrobot/"
+    },
+    "SAICMotor": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.215 华为不造车，鸿蒙智行到底是什么？ [1007636843].md",
+          "key": "no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
+          "url": "/wiki/sources/no-215-huawei-buzaoche-hongmeng-zhixing-daodi-shi-shenme-1007636843/"
+        },
+        {
+          "episode_file": "GKwRIRwOvSxzAJH0kATz5TtI [GKwRIRwOvSxzAJH0kATz5TtI].md",
+          "key": "gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti",
+          "show": "商业就是这样",
+          "title": "商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了",
+          "url": "/wiki/sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti/"
+        }
+      ],
+      "updated": "2026-11-02",
+      "url": "/wiki/entities/saicmotor/"
     },
     "SEC": {
       "episode_count": 4,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了](sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti.md) — 商业就是这样以字母标AUDI拆解传统豪华品牌如何通过品牌分工、本土研发、挑战者定价与快速反馈应对中国新能源竞争。
 - [7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？](sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda.md) — 声动早咖啡以7-Eleven印度退场解释社区小店、即时零售、区域商品复杂度与门店密度如何共同约束便利店复制。
 - [\[年终复盘①\]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb.md) — 十字路口Crossing以十个个人时刻串联Agent范式、视频模型、RSI、小模型扩散、按需软件、能力奇观与人类粗粝价值。
 - [EP96 200块报名费，撑得起一场马拉松吗？](sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl.md) — 一劳永逸对比上海、东京与香港马拉松，拆解报名费之外的赛事融资、城市消费、个人成本与参赛能力边界。
@@ -4906,6 +4907,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34](sources/03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f.md) — What's Next episode on Anthropic's reported IPO economics, short model commercial life, compute commitment mismatch, coding leadership, and model-layer value capture.
 
 ## Entities
+- [AUDI (China EV Brand) / 字母标AUDI](entities/AUDIChinaEVBrand.md) — Audi与上汽面向中国开发的字母标新能源品牌，以独立渠道、本土研发和挑战者定价测试豪华电动车转型。
 - [7-Eleven](entities/SevenEleven.md) — Global convenience-store chain whose Indian rollout failed to reach differentiated demand and local network density.
 - [Lawson (convenience-store chain)](entities/LawsonRetail.md) — Japanese convenience-store operator with a reported staged India entry plan beginning in Mumbai.
 - [Matt Mills](entities/MattMills.md) — SailPoint president advocating accountable ownership and contextual authorization for AI agents.
@@ -18825,6 +18827,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Grunwald / Tannenberg (1410)](entities/BattleOfGrunwald1410.md) — Polish-Lithuanian coalition victory that devastated Teutonic leadership without immediately ending the order or capturing Malbork.
 
 ## Concepts
+- [Legacy Luxury Brand EV Reset / 传统豪华品牌电动化重置](concepts/LegacyLuxuryBrandEVReset.md) — 传统豪华品牌通过业务隔离、放弃默认溢价与本土快速反馈，以挑战者身份重入电动车竞争。
+- [China-Localized Joint-Venture EV Development / 合资新能源本土研发](concepts/ChinaLocalizedJointVentureEVDevelopment.md) — 全球车企与中国伙伴围绕本地用户共同进行产品、技术和商业决策，而非只复用全球平台。
 - [Kirana Retail](concepts/KiranaRetail.md) — Adaptive Indian neighborhood-store system combining low overhead, local relationships, and growing digital ordering or delivery.
 - [Convenience Store Density Economics](concepts/ConvenienceStoreDensityEconomics.md) — Local store concentration needed to spread logistics and management costs across frequent visits and rapid inventory turns.
 - [Regional Retail Assortment Complexity](concepts/RegionalRetailAssortmentComplexity.md) — Operating burden of varying products, portions, prices, and preparation boundaries across diverse regions.

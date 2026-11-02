@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10951
+wiki_total_pages: 10953
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "ChinaEUHybridVehicleTradeConstraint"
     title: "China-EU Hybrid Vehicle Trade Constraint / 中欧混动车贸易约束"
     url: "/wiki/concepts/chinaeuhybridvehicletradeconstraint/"
+  - key: "ChinaLocalizedJointVentureEVDevelopment"
+    title: "China-Localized Joint-Venture EV Development / 合资新能源本土研发"
+    url: "/wiki/concepts/chinalocalizedjointventureevdevelopment/"
   - key: "ChinaUSAIValuationAsymmetry"
     title: "China-U.S. AI Valuation Asymmetry"
     url: "/wiki/concepts/chinausaivaluationasymmetry/"

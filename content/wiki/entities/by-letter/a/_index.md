@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13835
+wiki_total_pages: 13836
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1979,6 +1979,9 @@ wiki_pages:
   - key: "Audi"
     title: "Audi"
     url: "/wiki/entities/audi/"
+  - key: "AUDIChinaEVBrand"
+    title: "AUDI (China EV Brand) / 字母标AUDI"
+    url: "/wiki/entities/audichinaevbrand/"
   - key: "AuferstandenAusRuinen"
     title: "Auferstanden aus Ruinen"
     url: "/wiki/entities/auferstandenausruinen/"
