@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Off to the races: our American-midterms preview](sources/80e710d10d18ebe74145f9a83b5ea1e8-80e710d10d18ebe74145f9a83b5ea1e8mp3aid6ae852a798a5c8b2e347e723chidd556eb54-6160-4.md) — Economist Podcasts links election-interference preparation, the weakening default case for property wealth, and Houdini's craft-first publicity system.
 - [What it means when AI helps solve complex math problems](sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128.md) — Marketplace Tech distinguishes machine-checked proof from human mathematical understanding and connects that gap to research ethics, oral assessment, hiring, and graduate education.
 - [揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想](sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9.md) — 旧世代 connects AI-assisted game preservation and Android Xbox emulation to pre-release clone risk and Castlevania series identity.
 - [719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)](sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202.md) — The Rest Is History traces Stalinist consolidation, de-Stalinization, reform mobilization, and the armed opening of the 1956 Hungarian Revolution.
@@ -4916,6 +4917,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan](sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305.md) — Tomorrow Today dramatized narrative on cognitive-difference reframing, brotherly reconciliation, associative AI, and the evidence boundary around lunar and water-treatment claims.
 
 ## Entities
+- [Harry Houdini](entities/HarryHoudini.md) — Escape artist whose durable fame joined athletic craft, historical research, public spectacle, new-media adoption, and identity protection.
+- [Tina Barton](entities/TinaBarton.md) — Election official whose corrected tally error became a threat case and motivation for preparedness exercises.
+- [Charlotte Howard](entities/CharlotteHoward.md) — Economist U.S. editor framing the 2026 midterms through executive constraint, party succession, household costs, and forecast uncertainty.
 - [Capital Group / 资本集团](entities/CapitalGroup.md) — Privately held asset manager used as a case of linking ownership succession, talent development, attribution, distributed portfolio judgment, and client-first restraint.
 - [番杰 / Fan Jie](entities/FanJie.md) — Translator and investment-media founder interpreting Capital Group's institutional history for the Chinese asset-management context.
 - [Charles D. Ellis / 查尔斯·埃利斯](entities/CharlesEllis.md) — Author whose Capital Group history and indexation arguments are discussed through Fan Jie's new translation.
@@ -18849,6 +18853,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ashok Natarajan](entities/AshokNatarajan.md) — Source-scoped figure whose dramatized story connects cognitive difference, family recognition, associative creativity, and the proposed “Ashok's Sight” system.
 
 ## Concepts
+- [Election Interference Preparedness](concepts/ElectionInterferencePreparedness.md) — Advance rehearsal of legal, operational, communication, and security responses to election-day intimidation or disruption.
+- [Property–Equity Wealth Shift](concepts/PropertyEquityWealthShift.md) — Comparative shift from property-centered wealth expectations toward renting and equity investing without treating either asset as safe.
+- [Publicity as News](concepts/PublicityAsNews.md) — Craft-first creation of visible product demonstrations that earn event coverage while increasing imitation and protection pressures.
 - [Organizational Long-Termism / 组织长期主义](concepts/OrganizationalLongTermism.md) — Long-term capability created when ownership, incentives, talent, evaluation, product policy, and conflict decisions preserve future room together.
 - [Multi-Manager Investment System / 多基金经理制](concepts/MultiManagerInvestmentSystem.md) — Portfolio architecture combining independent manager sleeves, shared research, attribution, and differentiated return streams without committee consensus.
 - [AI-Assisted Game Reverse Engineering / AI辅助游戏逆向工程](concepts/AIAssistedGameReverseEngineering.md) — Use of coding agents to accelerate compatibility, reimplementation, porting, and emulation while leaving testing and legal boundaries unresolved.

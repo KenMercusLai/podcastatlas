@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3447
+topic_total_pages: 3450
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1402,6 +1402,9 @@ topic_concepts:
   - key: "ElectionInformationOperations"
     title: "Election Information Operations"
     url: "/wiki/concepts/electioninformationoperations/"
+  - key: "ElectionInterferencePreparedness"
+    title: "Election Interference Preparedness"
+    url: "/wiki/concepts/electioninterferencepreparedness/"
   - key: "ElectionPollingRepresentativeness"
     title: "Election Polling Representativeness"
     url: "/wiki/concepts/electionpollingrepresentativeness/"
@@ -5987,6 +5990,9 @@ topic_entities:
   - key: "CharlesStewartParnell"
     title: "Charles Stewart Parnell"
     url: "/wiki/entities/charlesstewartparnell/"
+  - key: "CharlotteHoward"
+    title: "Charlotte Howard"
+    url: "/wiki/entities/charlottehoward/"
   - key: "ChiangKaiShek"
     title: "Chiang Kai-shek / 蒋介石"
     url: "/wiki/entities/chiangkaishek/"
@@ -8078,6 +8084,9 @@ topic_entities:
   - key: "TimWalz"
     title: "Tim Walz"
     url: "/wiki/entities/timwalz/"
+  - key: "TinaBarton"
+    title: "Tina Barton"
+    url: "/wiki/entities/tinabarton/"
   - key: "TitleIX"
     title: "Title IX"
     url: "/wiki/entities/titleix/"

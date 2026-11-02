@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2347
+topic_total_pages: 2349
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2623,6 +2623,9 @@ topic_concepts:
   - key: "PropertyRightsAsInvestmentIncentive"
     title: "Property Rights As Investment Incentive"
     url: "/wiki/concepts/propertyrightsasinvestmentincentive/"
+  - key: "PropertyEquityWealthShift"
+    title: "Property–Equity Wealth Shift"
+    url: "/wiki/concepts/propertyequitywealthshift/"
   - key: "ProsperityInvestingTrap"
     title: "Prosperity Investing Trap / 景气度投资陷阱"
     url: "/wiki/concepts/prosperityinvestingtrap/"
@@ -6696,6 +6699,9 @@ topic_sources:
   - key: "no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv"
     title: "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上"
     url: "/wiki/sources/no-222-1402-qiongding-ansha-foluolunsa-yu-wenyi-fuxing-meidiqi-jiazu-shang-gkwrijeopqolbjbqpgtoqxsv/"
+  - key: "80e710d10d18ebe74145f9a83b5ea1e8-80e710d10d18ebe74145f9a83b5ea1e8mp3aid6ae852a798a5c8b2e347e723chidd556eb54-6160-4"
+    title: "Off to the races: our American-midterms preview"
+    url: "/wiki/sources/80e710d10d18ebe74145f9a83b5ea1e8-80e710d10d18ebe74145f9a83b5ea1e8mp3aid6ae852a798a5c8b2e347e723chidd556eb54-6160-4/"
   - key: "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1"
     title: "OPC 的真正难题，是 AI 还没学会替你把东西卖出去"
     url: "/wiki/sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1/"

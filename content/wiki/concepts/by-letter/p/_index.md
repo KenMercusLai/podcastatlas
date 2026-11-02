@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10965
+wiki_total_pages: 10968
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2384,6 +2384,9 @@ wiki_pages:
   - key: "PropertyRightsAsInvestmentIncentive"
     title: "Property Rights As Investment Incentive"
     url: "/wiki/concepts/propertyrightsasinvestmentincentive/"
+  - key: "PropertyEquityWealthShift"
+    title: "Property–Equity Wealth Shift"
+    url: "/wiki/concepts/propertyequitywealthshift/"
   - key: "ProphecyTriggeredPolicy"
     title: "Prophecy-Triggered Policy / 预言触发政策"
     url: "/wiki/concepts/prophecytriggeredpolicy/"
@@ -2759,6 +2762,9 @@ wiki_pages:
   - key: "PublicationBias"
     title: "Publication Bias"
     url: "/wiki/concepts/publicationbias/"
+  - key: "PublicityAsNews"
+    title: "Publicity as News"
+    url: "/wiki/concepts/publicityasnews/"
   - key: "PublisherRelationshipMoat"
     title: "Publisher Relationship Moat"
     url: "/wiki/concepts/publisherrelationshipmoat/"

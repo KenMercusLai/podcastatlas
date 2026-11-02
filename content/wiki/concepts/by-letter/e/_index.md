@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10965
+wiki_total_pages: 10968
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "ElectionInformationOperations"
     title: "Election Information Operations"
     url: "/wiki/concepts/electioninformationoperations/"
+  - key: "ElectionInterferencePreparedness"
+    title: "Election Interference Preparedness"
+    url: "/wiki/concepts/electioninterferencepreparedness/"
   - key: "ElectionPollingRepresentativeness"
     title: "Election Polling Representativeness"
     url: "/wiki/concepts/electionpollingrepresentativeness/"

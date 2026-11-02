@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13849
+wiki_total_pages: 13852
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "TimsChina"
     title: "Tim's China"
     url: "/wiki/entities/timschina/"
+  - key: "TinaBarton"
+    title: "Tina Barton"
+    url: "/wiki/entities/tinabarton/"
   - key: "TingWong"
     title: "Ting Wong"
     url: "/wiki/entities/tingwong/"

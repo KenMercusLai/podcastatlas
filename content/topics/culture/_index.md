@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3596
+topic_total_pages: 3597
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2839,6 +2839,9 @@ topic_concepts:
   - key: "PublicFigureWorkplaceAdviceSatire"
     title: "Public-Figure Workplace Advice Satire"
     url: "/wiki/concepts/publicfigureworkplaceadvicesatire/"
+  - key: "PublicityAsNews"
+    title: "Publicity as News"
+    url: "/wiki/concepts/publicityasnews/"
   - key: "PublishingAuctionDesign"
     title: "Publishing Auction Design"
     url: "/wiki/concepts/publishingauctiondesign/"
