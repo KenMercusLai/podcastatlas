@@ -12,21 +12,21 @@ outputs: ["html"]
 ## Pages
 - Overview: 1
 - Concepts: 10986
-- Entities: 13868
-- Sources: 4814
-- Total wiki content pages: 29669
+- Entities: 13869
+- Sources: 4815
+- Total wiki content pages: 29671
 
 ## Links
-- Wiki link references: 677788
-- Unique wiki link targets: 29703
-- Missing targets: 44
+- Wiki link references: 677810
+- Unique wiki link targets: 29706
+- Missing targets: 45
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4814
-- Matched episodes: 4814
+- Source pages: 4815
+- Matched episodes: 4815
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -100,6 +100,8 @@ outputs: ["html"]
   - `content/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md`
 - `[[ProgressiveOverload]]`
   - `content/wiki/concepts/StrengthReserveForEndurance.md`
+- `[[QDII]]`
+  - `content/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49.md`
 - `[[RailwayNetworkEffects]]`
   - `content/wiki/concepts/TayBridgeDisaster.md`
 - `[[ResearchInfrastructure]]`

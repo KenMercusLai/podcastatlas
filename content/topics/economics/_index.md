@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2349
+topic_total_pages: 2351
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5750,6 +5750,9 @@ topic_entities:
   - key: "FuYu"
     title: "傅宇 / Fu Yu"
     url: "/wiki/entities/fuyu/"
+  - key: "LingHuaweiCaixin"
+    title: "凌华薇 / Ling Huawei (Caixin editor)"
+    url: "/wiki/entities/linghuaweicaixin/"
   - key: "QianTuWuLiang"
     title: "前途无量"
     url: "/wiki/entities/qiantuwuliang/"
@@ -6198,6 +6201,9 @@ topic_sources:
   - key: "lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave"
     title: "186.何为中国经济新范式？｜对话CF40研究院院长郭凯"
     url: "/wiki/sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave/"
+  - key: "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49"
+    title: "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇"
+    url: "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13868
+wiki_total_pages: 13869
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "LiangzhouWarlordClique"
     title: "凉州系军阀 / Liangzhou Warlord Clique"
     url: "/wiki/entities/liangzhouwarlordclique/"
+  - key: "LingHuaweiCaixin"
+    title: "凌华薇 / Ling Huawei (Caixin editor)"
+    url: "/wiki/entities/linghuaweicaixin/"
   - key: "LingCaoLateHan"
     title: "凌操 / Ling Cao (late Han)"
     url: "/wiki/entities/lingcaolatehan/"

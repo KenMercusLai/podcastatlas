@@ -2,26 +2,55 @@
 title: "Asset Management New Rules / 资管新规"
 type: concept
 tags: [regulation, asset-management, banking, china]
-sources: [136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]
-last_updated: 2026-08-06
+sources:
+  - 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt
+  - 187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49
+knowledge_schema: synthesis-v1
+last_updated: 2026-11-04
 ---
 
 # Asset Management New Rules / 资管新规
 
-Asset Management New Rules / 资管新规 is the regulatory turning point in [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]]. The episode says the rules were formally released on 2018-04-27 after years of consultation, and that their main goals were to break implicit guarantees, ban fund pools, compress channel business, reduce nesting, and push asset-management products toward net-value disclosure.
+## Definition
 
-The source frames the rules as a response to the earlier bank wealth-management expansion cycle. Bank wealth products, trust channels, securities-company asset management, fund subsidiaries, and insurance asset managers had become part of a larger shadow-banking and regulatory-arbitrage system, especially visible around 2015 stock-market leverage and 2016 bond-market stress.
+The Asset Management New Rules / 资管新规 are the 2018 Chinese cross-sector reform framework aimed at breaking implicit guarantees, prohibiting fund pools, reducing channel nesting and regulatory arbitrage, constraining leverage, and moving asset-management products toward net-value disclosure.
+
+## Current Synthesis
+
+Episode 136 presents the rules as a response to the expansion of bank wealth products, trust channels, securities and fund-subsidiary structures, and insurance asset management. Those channels used non-standard credit, maturity mismatch, pooled operation, leverage, and valuation smoothing to make risks appear steadier and more deposit-like than the underlying assets.
+
+Episode 187 adds the investor-culture consequence. Net-value reform can weaken the expectation of permanent rigid repayment, but it cannot by itself ensure that investors understand legal counterparties, underlying assets, self-financing, related parties, or the difference between a deposit, insurance policy, equity investment, and wealth product. The reform changes product structure and disclosure; institutions still need suitable products and client-first conduct, while investors still need verification and diversification.
 
 ## Key Claims
-- The new rules were not only a bank wealth-management rule; they were a cross-asset-management cleanup across banks, trusts, funds, securities firms, and insurance-related channels.
-- The rules targeted [[WealthManagementFundPoolRisk|fund pools]], implicit guarantees, channel nesting, leverage, and valuation opacity.
-- The transition was politically and operationally difficult because banks wanted long adjustment periods and had large legacy businesses to unwind.
-- The rules pushed bank wealth management toward [[BankWealthManagementSubsidiary|separate subsidiaries]] and net-value products, but the source says new valuation and yield-display games still appeared after the shift.
-- The rules are treated as "拨乱反正" in the source, but not as a complete solution to investment-culture, customer-expectation, or channel-incentive problems.
 
-## Connections
-- [[ChineseBankWealthManagement]] and [[BankWealthManagementSubsidiary]] - product category and post-rule institution.
-- [[WealthManagementFundPoolRisk]] - core risk mechanism the rules tried to remove.
-- [[ChinaBankingAndInsuranceRegulatoryCommission]], [[ChinaSecuritiesRegulatoryCommission]], and [[PeoplesBankOfChina|People's Bank of China]] - regulator and policy context.
-- [[PublicMutualFundEcosystem]] and [[ContractualFundGovernanceGap]] - adjacent asset-management reform and governance context.
-- [[InvestmentRiskManagement]] - investor-side reason regulatory cleanup does not replace product understanding.
+- **The reform is cross-sector rather than bank-only.** It responds to asset-management activity across banks, trusts, funds, securities firms, and insurance-related channels.
+- **Its central targets are structural.** Fund pools, implicit guarantees, nesting, leverage, maturity mismatch, and valuation opacity can move product risk into the wider system.
+- **Net-value disclosure changes expectations but does not remove risk.** Visible fluctuation is more honest than artificial smoothness, yet valuation and yield-presentation games can remain.
+- **Breaking rigid repayment is also a cultural transition.** Investors must accept volatility, diversification, and ongoing management rather than demand one safe, high-return, effortless product.
+- **Regulation does not substitute for role verification.** Issuer, seller, manager, receiving account, underlying asset, and protection scheme still require inspection.
+- **Institutional responsibility remains primary.** Licensed providers and regulators need suitable channels, conflict controls, disclosure, and investor protection.
+
+## Evidence
+
+- **Historical mechanism and reform design** - [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt|episode 136]] describes fund pools, non-standard credit, implicit guarantees, nesting, leverage, and the 2018 transition to net-value products and separate subsidiaries.
+- **Residual presentation risk** - [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt|episode 136]] says valuation choice, trust outsourcing, and annualized-return display can still smooth appearances after reform.
+- **Investor-culture and product-understanding boundary** - [[187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49|episode 187]] connects net-value acceptance to breaking rigid-repayment expectations while retaining the need to inspect underlying assets, legal relationships, and conflicts.
+
+## Counterevidence & Qualifications
+
+The sources treat the rules as an important correction, not a complete solution or proof that every pre-reform product was unlawful. Transition costs, legacy assets, legitimate valuation methods, and differing product mandates complicate implementation. The episodes provide explanatory accounts rather than a complete legal analysis of every provision or later amendment.
+
+## What Changed
+
+- Added the investor-culture dimension of accepting fluctuation, diversification, and ongoing management after rigid repayment.
+- Clarified that net-value reform does not replace product-role, account, underlying-asset, or conflict verification.
+- Added licensed institutions' responsibility to provide suitable channels and client-first protection.
+
+## Related Concepts
+
+- [[ChineseBankWealthManagement]] - major product category reshaped by the reform.
+- [[BankWealthManagementSubsidiary]] - separate institutional carrier created during the transition.
+- [[WealthManagementFundPoolRisk]] - pooled rollover and mismatch the rules seek to remove.
+- [[InvestmentFraudRedFlags]] - investor-side checks that regulation cannot fully replace.
+- [[InvestmentImpossibleTriangle]] - high return, safety, and liquidity cannot all be promised without hidden tradeoffs.
+- [[InvestmentAdviserFiduciaryDuty]] - client-interest duties needed alongside product-structure reform.

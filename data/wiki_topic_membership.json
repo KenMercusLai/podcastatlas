@@ -2683,6 +2683,18 @@
       "url": "/topics/history/"
     }
   ],
+  "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166": [
     {
       "key": "culture",
@@ -57472,6 +57484,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LingHuaweiCaixin": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "Lingguan": [

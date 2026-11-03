@@ -38412,3 +38412,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-04] ingest | 187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇
+
+Added source `187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49`; created [[LingHuaweiCaixin|凌华薇]]; and resynthesized [[InvestmentFraudRedFlags]], [[WealthManagementFundPoolRisk]], [[ElderlyCareFinancialFraud]], [[FinancialInstitutionTrustTransmission]], [[InvestmentAdviserFiduciaryDuty]], and [[AssetManagementNewRules]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: real operations, professional teams, long histories, modest yields, familiar interfaces, prior payments, and local participation are trust signals rather than proof of safety; investors must separately verify the issuer, seller, manager, receiving account, custodian, borrower, guarantor, underlying asset, related parties, and protection scheme; and diversification, position limits, and precommitted exits make inevitable uncertainty more survivable. No settled contradiction was adopted. Legal characterizations, institutional identities, case outcomes, loss figures, deposit-insurance treatment, and cross-border details remain episode-scoped because the supplied file is a structured summary rather than a transcript, contract set, court record, or regulatory dossier. The title's 凌华薇 and body text's 林华威 spellings remain unresolved; the wiki provisionally follows the title. Broad [[InvestmentRiskManagement]], [[AssetAllocation]], [[InvestmentWorldviewFit]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 4,815 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

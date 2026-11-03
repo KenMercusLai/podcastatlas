@@ -22849,6 +22849,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/assetallocationactionguide/"
     },
+    "AssetManagementNewRules": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "136.银行理财还能怎么买？ [llC7N0f3g2-jRz4XkOEFz1NuI5lT].md",
+          "key": "136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt",
+          "show": "起朱楼宴宾客",
+          "title": "136.银行理财还能怎么买？",
+          "url": "/wiki/sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt/"
+        },
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/assetmanagementnewrules/"
+    },
     "AssetQualifiedOfficialEntry": {
       "episode_count": 1,
       "show_count": 1,
@@ -84259,6 +84282,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/elderintimacycareautonomy/"
     },
+    "ElderlyCareFinancialFraud": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP64 投资路上踩坑无数，如今的我刀枪不入 [lub3Eh1mNDJ9OAJS8pS3XUVoirtm].md",
+          "key": "ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm",
+          "show": "一劳永逸",
+          "title": "EP64 投资路上踩坑无数，如今的我刀枪不入",
+          "url": "/wiki/sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm/"
+        },
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/elderlycarefinancialfraud/"
+    },
     "EleanorRosamundBarraclough": {
       "episode_count": 1,
       "show_count": 1,
@@ -102380,6 +102426,29 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/financialfreedomvslifestylefreedom/"
+    },
+    "FinancialInstitutionTrustTransmission": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子 [lo7uv7Umozr0JrqFjZyhDBzicX1j].md",
+          "key": "170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j",
+          "show": "起朱楼宴宾客",
+          "title": "170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子",
+          "url": "/wiki/sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j/"
+        },
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/financialinstitutiontrusttransmission/"
     },
     "FinancialReportOperatingMetricIntegrity": {
       "episode_count": 1,
@@ -148540,6 +148609,29 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/investigativenarrativeregulatorychange/"
     },
+    "InvestmentAdviserFiduciaryDuty": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "145.基金投顾值得信任吗？ [lrcKug0zJQoLcCzni8AjIkB0K5mi].md",
+          "key": "145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi",
+          "show": "起朱楼宴宾客",
+          "title": "145.基金投顾值得信任吗？",
+          "url": "/wiki/sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi/"
+        },
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/investmentadviserfiduciaryduty/"
+    },
     "InvestmentAvoidanceTrauma": {
       "episode_count": 1,
       "show_count": 1,
@@ -148638,9 +148730,9 @@
       "url": "/wiki/concepts/investmentdecisionlogging/"
     },
     "InvestmentFraudRedFlags": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260212_0212_MP_TECH_pod_128 [tech_20260212_0212_MP_TECH_pod_128].md",
@@ -148676,9 +148768,16 @@
           "show": "Planet Money",
           "title": "Charles Ponzi's scheme (plus a new scam)",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+        },
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/investmentfraudredflags/"
     },
     "InvestmentPitchPositionSizing": {
@@ -172444,6 +172543,22 @@
       ],
       "updated": "2026-11-03",
       "url": "/wiki/entities/lingdingshi/"
+    },
+    "LingHuaweiCaixin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/linghuaweicaixin/"
     },
     "LingTong": {
       "episode_count": 3,
@@ -304486,6 +304601,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/weaknessaspoliticalliability/"
+    },
+    "WealthManagementFundPoolRisk": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "136.银行理财还能怎么买？ [llC7N0f3g2-jRz4XkOEFz1NuI5lT].md",
+          "key": "136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt",
+          "show": "起朱楼宴宾客",
+          "title": "136.银行理财还能怎么买？",
+          "url": "/wiki/sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt/"
+        },
+        {
+          "episode_file": "lq8qt1sstvzaug_NmKFTGt17tf49 [lq8qt1sstvzaug_NmKFTGt17tf49].md",
+          "key": "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49",
+          "show": "起朱楼宴宾客",
+          "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+          "url": "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/wealthmanagementfundpoolrisk/"
     },
     "WealthTaxLegitimacy": {
       "episode_count": 5,

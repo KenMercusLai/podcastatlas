@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇](sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49.md) — 起朱楼宴宾客对话凌华薇，以类金融机构、自融、资金池、底层资产、飞单、跨境路径和沉没成本拆解普通投资者的风险识别与止损框架。
 - [Behind the scenes of an abandoned cyber-scam compound](sources/tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128.md) — Marketplace Tech report on a deserted Cambodian scam compound, fraudulent crypto applications, trafficked workers, seized devices, and criminal networks dispersing after large-site closures.
 - [Fertile ambitions: scientists’ plans to slow the biological clock](sources/fertile-ambitions-scientists-plans-to-slow-the-biological-clock-af2ae76188ebcf343b3d16674c4c73ef.md) — Economist Podcasts links preclinical egg chromosome stabilization, post-2020 Belarusian cultural suppression, and biltong’s multicultural history and global spread.
 - [513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发](sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs.md) — 忽左忽右以萧赜传记连接南齐国家重建、检籍改革、贵族秩序、永明声律与梁唐文学的形成。
@@ -4927,6 +4928,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [凌华薇 / Ling Huawei (Caixin editor)](entities/LingHuaweiCaixin.md) — 财新编辑，以调查报道方法解释类金融机构、自融、底层资产、利益冲突与普通投资者风险识别。
 - [Leila Goldstein](entities/LeilaGoldstein.md) — Reporter whose Cambodian compound tour connects digital fraud to physical infrastructure, seized devices, and coerced workers.
 - [Jacob Sims](entities/JacobSims.md) — Expert framing scam compounds as a mobile organized-crime technology ecosystem rather than isolated physical sites.
 - [OvaLabs](entities/OvaLabs.md) — European fertility-biotechnology startup developing the reported shugoshin-inspired Embryo Protect One program.
