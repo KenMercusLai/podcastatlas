@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 10975
+wiki_total_pages: 10976
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "ResponsiveDeepBrainStimulation"
     title: "Responsive Deep Brain Stimulation"
     url: "/wiki/concepts/responsivedeepbrainstimulation/"
+  - key: "ResponsiveEarlyChildhoodCurriculum"
+    title: "Responsive Early-Childhood Curriculum / 回应式幼儿课程"
+    url: "/wiki/concepts/responsiveearlychildhoodcurriculum/"
   - key: "RestaurantAutomation"
     title: "Restaurant Automation"
     url: "/wiki/concepts/restaurantautomation/"

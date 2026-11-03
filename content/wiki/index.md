@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP93-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(上)](sources/ep93-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-shang-wkgmef3hbo3dzi7pbdfaijfnyfc856.md) — 无时差研究所从情绪命名、早期支持、回应式课程与家校代际协同解释幼儿行为、学习和社会化。
 - [EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)](sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513.md) — 无时差研究所用正向指令、情绪承认、游戏学习、具体反馈和家校一致性讨论尊重儿童独立性的早期教育。
 - [羽毛球价格回落，无印良品将向欧美复制中国经验](sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p.md) — 声动早咖啡串联本地决策权、海外增长、AI硬件与算力投入、渠道重组，并以羽毛球拆解原料、扩产、库存和价格的反转循环。
 - [Off to the races: our American-midterms preview](sources/80e710d10d18ebe74145f9a83b5ea1e8-80e710d10d18ebe74145f9a83b5ea1e8mp3aid6ae852a798a5c8b2e347e723chidd556eb54-6160-4.md) — Economist Podcasts links election-interference preparation, the weakening default case for property wealth, and Houdini's craft-first publicity system.
@@ -4921,6 +4922,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [Rebecca (early-childhood educator)](entities/RebeccaEarlyChildhoodEducator.md) — First-name-only guest connecting welfare work and early-childhood/special-education training to emotion, curriculum, play, developmental support, and caregiver coordination.
 - [Fourier Intelligence / 傅利叶智能](entities/FourierIntelligence.md) — Chinese rehabilitation and humanoid-robot company reportedly collaborating with Meta on a household agent carrier under cross-border testing constraints.
 - [Harry Houdini](entities/HarryHoudini.md) — Escape artist whose durable fame joined athletic craft, historical research, public spectacle, new-media adoption, and identity protection.
 - [Tina Barton](entities/TinaBarton.md) — Election official whose corrected tally error became a threat case and motivation for preparedness exercises.
@@ -18861,6 +18863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Responsive Early-Childhood Curriculum / 回应式幼儿课程](concepts/ResponsiveEarlyChildhoodCurriculum.md) — Child-responsive thematic teaching that integrates care, socialization, observation, and multiple developmental domains.
 - [Positive Guidance in Early Childhood / 幼儿正向引导](concepts/PositiveGuidanceInEarlyChildhood.md) — 用可执行的正向指令、情绪承认、后果解释和安全分级替代单纯禁止与贴标签。
 - [Play-Based Early Learning / 游戏化早期学习](concepts/PlayBasedEarlyLearning.md) — 将感官探索、运动、搭建、平行游戏、合作与整理视为幼儿发展的学习过程。
 - [Child-Centered Performance Feedback / 儿童中心的表现反馈](concepts/ChildCenteredPerformanceFeedback.md) — 以具体描述、儿童作者权、自我比较和输赢后的情绪支持替代笼统评价与公开羞辱。

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3602
+topic_total_pages: 3603
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6053,6 +6053,9 @@ topic_entities:
   - key: "RatingsCom"
     title: "Ratings.com"
     url: "/wiki/entities/ratingscom/"
+  - key: "RebeccaEarlyChildhoodEducator"
+    title: "Rebecca (early-childhood educator)"
+    url: "/wiki/entities/rebeccaearlychildhoodeducator/"
   - key: "RebeccaWest"
     title: "Rebecca West / 瑞贝卡·韦斯特"
     url: "/wiki/entities/rebeccawest/"

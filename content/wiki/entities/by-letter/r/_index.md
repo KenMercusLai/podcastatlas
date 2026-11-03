@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 13855
+wiki_total_pages: 13856
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "RealityLabs"
     title: "Reality Labs"
     url: "/wiki/entities/realitylabs/"
+  - key: "RebeccaEarlyChildhoodEducator"
+    title: "Rebecca (early-childhood educator)"
+    url: "/wiki/entities/rebeccaearlychildhoodeducator/"
   - key: "RebeccaBairdRemba"
     title: "Rebecca Baird-Remba"
     url: "/wiki/entities/rebeccabairdremba/"
