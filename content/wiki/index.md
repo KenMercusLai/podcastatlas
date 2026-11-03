@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 53: Cognitive Surrender: The AI Engineering Mistake That Kills Projects](sources/ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects.md) — Data Science With Sam interview with Ethan Lyon on governed conversational analytics, data foundations, cognitive surrender, structured knowledge graphs, memory maintenance, and responsible model release.
 - [EP67-别抗拒，心理咨询可能并不是你想的那样！](sources/ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899.md) — 无时差研究所与田小甜从功能受损、医心协作、认知行为链、文化污名、来访者自主和咨询师边界解释心理咨询。
 - [EP93-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(上)](sources/ep93-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-shang-wkgmef3hbo3dzi7pbdfaijfnyfc856.md) — 无时差研究所从情绪命名、早期支持、回应式课程与家校代际协同解释幼儿行为、学习和社会化。
 - [EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)](sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513.md) — 无时差研究所用正向指令、情绪承认、游戏学习、具体反馈和家校一致性讨论尊重儿童独立性的早期教育。
@@ -4923,6 +4924,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [Ethan Lyon](entities/EthanLyon.md) — Principal AI engineer advocating governed data access, repeatable evaluation, planning-first development, and structured memory.
 - [田小甜 / Tian Xiaotian (Mental-Health Practitioner)](entities/TianXiaotianMentalHealthPractitioner.md) — 无时差研究所 EP67 嘉宾，以临床社会工作、创伤支持、来访者自主和专业边界解释心理咨询。
 - [Rebecca (early-childhood educator)](entities/RebeccaEarlyChildhoodEducator.md) — First-name-only guest connecting welfare work and early-childhood/special-education training to emotion, curriculum, play, developmental support, and caregiver coordination.
 - [Fourier Intelligence / 傅利叶智能](entities/FourierIntelligence.md) — Chinese rehabilitation and humanoid-robot company reportedly collaborating with Meta on a household agent carrier under cross-border testing constraints.
@@ -18865,6 +18867,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Trustworthy Conversational Analytics](concepts/TrustworthyConversationalAnalytics.md) — Natural-language business analytics grounded in scoped access, documented schemas, stable metrics, and regression evaluation.
 - [Cognitive-Behavioral Interpretation Chain / 认知行为解释链](concepts/CognitiveBehavioralInterpretationChain.md) — Event-to-interpretation-to-feeling-to-action model for examining automatic meanings without reducing care to positive thinking.
 - [Client-Directed Therapeutic Navigation / 来访者主导的治疗导航](concepts/ClientDirectedTherapeuticNavigation.md) — Agency-preserving model in which the therapist clarifies routes and risks while the client retains life-direction decisions.
 - [Responsive Early-Childhood Curriculum / 回应式幼儿课程](concepts/ResponsiveEarlyChildhoodCurriculum.md) — Child-responsive thematic teaching that integrates care, socialization, observation, and multiple developmental domains.

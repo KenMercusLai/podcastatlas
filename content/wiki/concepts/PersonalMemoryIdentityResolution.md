@@ -4,7 +4,8 @@ type: concept
 tags: [ai, memory, identity, context]
 sources:
   - 277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6
-last_updated: 2026-09-24
+  - ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Personal-agent inputs routinely mention multiple people. A health question may c
 
 The Today episode therefore frames memory as structured interpretation rather than accumulation. Identity and time need to travel with the fact, uncertainty should remain visible, and the system must be able to correct, supersede, decay, or delete earlier inferences. Graph-like relationship structure can help represent people, while event sequences need temporal structure; neither storage model eliminates the need for query-time judgment.
 
+The EP53 failure case makes the identity risk concrete. An unstructured personal knowledge graph confused and duplicated people who shared a name. The rebuild represents people, companies, and tasks explicitly, then uses surrounding context to match incoming material against existing entities before creating or enriching a record. Identity resolution is therefore both a schema problem and an ingestion decision.
+
 ## Key Claims
 - Personal context often contains facts about people other than the account owner.
 - Memory must distinguish event time from capture time and current state from historical state.
@@ -25,18 +28,22 @@ The Today episode therefore frames memory as structured interpretation rather th
 - Uncertain attribution should not silently become a durable user-profile claim.
 - Recall must select the right person's information for the current query, not merely retrieve similar text.
 - Inspection, correction, deletion, and supersession are necessary recovery mechanisms.
+- New records should be matched against typed existing entities before creation, with contextual evidence used to avoid both mistaken merges and duplicates.
 
 ## Evidence
 - Person attribution: [[277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6]] uses health questions about the user, a child, or parents to show why all remembered information cannot be assigned to one person.
 - Temporal attribution: [[277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6]] distinguishes when an event happened from when the system recorded it and argues that old preferences must yield to changed state.
 - Representation and recall: [[277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6]] contrasts relationship graphs with event timelines and discusses dynamic context construction versus model-selected memory infrastructure.
 - User recovery: [[277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6]] reports that Today exposes recorded memory for deletion and allows all memory to be cleared on exit.
+- Graph ingestion failure: [[ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects]] describes same-name people being confused or duplicated when information entered a personal knowledge graph without explicit structure.
+- Typed matching: [[ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects]] describes a rebuild that models people, companies, and tasks and uses surrounding context before creating or enriching an entity.
 
 ## Counterevidence & Qualifications
-The source identifies the problem but does not establish a solved architecture or evaluation benchmark. Graph, timeline, and query-time approaches create latency, compute, cache, and error tradeoffs. User inspection can mitigate mistaken attribution but cannot replace robust defaults, especially when sensitive health, family, workplace, or bystander information is involved.
+The sources identify the problem but do not establish a solved architecture or evaluation benchmark. Graph, timeline, and query-time approaches create latency, compute, cache, and error tradeoffs. Contextual matching can still over-merge two people or fragment one person across nodes. User inspection can mitigate mistaken attribution but cannot replace robust defaults, especially when sensitive health, family, workplace, or bystander information is involved.
 
 ## What Changed
-- Created the concept to separate person-and-time attribution from generic memory storage and retrieval.
+- Added the same-name knowledge-graph failure as a concrete identity-resolution case.
+- Added typed entities and context-based matching before record creation or enrichment.
 
 ## Related Concepts
 - [[PersonalAIMemory]] - broader memory system whose facts require identity and temporal attribution.
@@ -45,3 +52,4 @@ The source identifies the problem but does not establish a solved architecture o
 - [[IdentityResolutionError]] - broader failure class for merging distinct real-world identities.
 - [[AgentPermissionBoundaries]] - limits capture and use of sensitive family, health, and workplace information.
 - [[ConsentBasedRecording]] - bystander-consent requirement when memory inputs include other people's speech.
+- [[AIMemoryLifecycle]] - maintenance layer that must preserve corrected identity and temporal state over time.

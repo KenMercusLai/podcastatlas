@@ -274,8 +274,8 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-11-03",
       "latest_episode_file": "7fa893d2-884a-5648-be74-51d4515de28f [7fa893d2-884a-5648-be74-51d4515de28f.mp3？session_id=51a6dd39-afaf-58ae-912f-400726.com⧸data-science-with-sam-podcast⧸2026_11_03_04_15_45_66bdfb88-9235-41db-8740-31d799366f53].md",
-      "source_note_count": 52,
-      "topic_matched_source_note_count": 38,
+      "source_note_count": 53,
+      "topic_matched_source_note_count": 39,
       "topics": [
         {
           "key": "technology",
@@ -287,7 +287,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 4
+          "source_note_count": 5
         },
         {
           "key": "science",
@@ -313,7 +313,7 @@
       ],
       "start_here_episode_files": [
         "2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7 [2026_10_12_00_34_40_7223f832-29d9-4815-8e8e-beba99d059e7].md",
-        "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+        "7fa893d2-884a-5648-be74-51d4515de28f [7fa893d2-884a-5648-be74-51d4515de28f.mp3？session_id=51a6dd39-afaf-58ae-912f-400726.com⧸data-science-with-sam-podcast⧸2026_11_03_04_15_45_66bdfb88-9235-41db-8740-31d799366f53].md",
         "CFAD6777888A0514D1A288ECCC8E7055~8584408_2026-08-10-214008-8787-0-0-1.128 [CFAD6777888A0514D1A288ECCC8E7055~8584408_2026-08-10-214008-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a324].md",
         "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md"
       ]

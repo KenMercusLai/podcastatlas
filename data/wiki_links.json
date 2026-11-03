@@ -32287,6 +32287,10 @@
     "title": "Ethan Kross",
     "url": "/wiki/entities/ethankross/"
   },
+  "EthanLyon": {
+    "title": "Ethan Lyon",
+    "url": "/wiki/entities/ethanlyon/"
+  },
   "EthanWu": {
     "title": "Ethan Wu",
     "url": "/wiki/entities/ethanwu/"
@@ -92127,6 +92131,10 @@
     "title": "TrustedPrenup",
     "url": "/wiki/entities/trustedprenup/"
   },
+  "TrustworthyConversationalAnalytics": {
+    "title": "Trustworthy Conversational Analytics",
+    "url": "/wiki/concepts/trustworthyconversationalanalytics/"
+  },
   "TruthAPI": {
     "title": "Truth API",
     "url": "/wiki/entities/truthapi/"
@@ -106142,6 +106150,10 @@
   "ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush": {
     "title": "EP 52: The AI CEO: Leadership, Governance & the AI Gold Rush",
     "url": "/wiki/sources/ep-52-the-ai-ceo-leadership-governance-and-the-ai-gold-rush/"
+  },
+  "ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects": {
+    "title": "EP 53: Cognitive Surrender: The AI Engineering Mistake That Kills Projects",
+    "url": "/wiki/sources/ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects/"
   },
   "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252": {
     "title": "Ep 59. 2026 Agent 编程新趋势",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 10978
+wiki_total_pages: 10979
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "TrustedNetworkGeopolitics"
     title: "Trusted Network Geopolitics"
     url: "/wiki/concepts/trustednetworkgeopolitics/"
+  - key: "TrustworthyConversationalAnalytics"
+    title: "Trustworthy Conversational Analytics"
+    url: "/wiki/concepts/trustworthyconversationalanalytics/"
   - key: "TruthAgainstAbsurdPower"
     title: "Truth Against Absurd Power"
     url: "/wiki/concepts/truthagainstabsurdpower/"

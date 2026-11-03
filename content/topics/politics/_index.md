@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3450
+topic_total_pages: 3451
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9450,6 +9450,9 @@ topic_sources:
   - key: "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise"
     title: "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise"
     url: "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+  - key: "ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects"
+    title: "EP 53: Cognitive Surrender: The AI Engineering Mistake That Kills Projects"
+    url: "/wiki/sources/ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects/"
   - key: "8228694742-944685"
     title: "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命"
     url: "/wiki/sources/8228694742-944685/"
