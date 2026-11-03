@@ -38444,3 +38444,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-04] ingest | The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan
+
+Added source `defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666`; created [[MichaelHeltzen|Michael Heltzen / Michael Helson]], [[Exozyme]], [[NanoSense]], [[NCTExozyme|NCT (Exozyme)]], [[CellFreeEnzymeEngineering]], and [[ExperimentGroundedProteinModelLoop]]; migrated [[Bioinformatics]] to the synthesis-first schema; and resynthesized [[ProteinLanguageModels]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: cell-free enzyme engineering trades cellular self-maintenance for a more controllable but still demanding reaction environment; protein-model value depends on rapid, reliable experimental feedback, including informative high-confidence failures; and platform claims require product, manufacturing, evidence, and regulatory proof. No settled contradiction was adopted. The title's Heltzen and body text's Helson spellings remain unresolved. NCT identity, metabolic and liver effects, GLP-1 combination, prevalence, product timing, biosensor performance, enzyme economics, cannabinoid properties, and company claims remain source-scoped because the supplied file is a structured summary rather than a transcript, assay record, trial, filing, or regulatory decision. Broad [[TomorrowToday]], [[ShekharNatarajan]], [[GLP1Agonists]], [[AIAlignmentGovernance]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,819 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13872
+wiki_total_pages: 13876
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "Exor"
     title: "Exor"
     url: "/wiki/entities/exor/"
+  - key: "Exozyme"
+    title: "Exozyme"
+    url: "/wiki/entities/exozyme/"
   - key: "ExpediaGroup"
     title: "Expedia Group"
     url: "/wiki/entities/expediagroup/"

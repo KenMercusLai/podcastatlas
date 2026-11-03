@@ -4930,6 +4930,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
+- [The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666.md) — Tomorrow Today interview on bioinformatics, CRISPR biosensing, cell-free enzyme engineering, experiment-grounded protein models, scarce natural products, and AI-era human skills.
+
 ## Entities
 - [Charles IV / 查理四世](entities/CharlesIV.md) — 将大学、新城、桥梁与主教座堂工程整合为布拉格十四世纪城市层的波西米亚国王和神圣罗马帝国皇帝。
 - [Kingdom Come: Deliverance / 《天国：拯救》](entities/KingdomComeDeliverance.md) — 通过身体、声望、识字、战斗与手工系统重建中世纪波西米亚依赖关系的历史角色扮演游戏。
@@ -18887,6 +18889,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [索耳 / Suo Er](entities/SuoEr.md) — 《零丁世》作者，以南方方言、迁徙历史、边缘生存与非人世界组织多中心叙事。
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
+- [Michael Heltzen / Michael Helson](entities/MichaelHeltzen.md) — Biotechnology entrepreneur connecting bioinformatics, CRISPR biosensing, cell-free enzyme engineering, product proof, and experimental feedback; surname spelling remains unresolved.
+- [Exozyme](entities/Exozyme.md) — Source-described biotechnology company using engineered cell-free enzyme pathways and protein models to manufacture scarce natural molecules.
+- [NanoSense](entities/NanoSense.md) — Source-described CRISPR-related semiconductor biosensor venture for electronic molecular-binding detection.
+- [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
+
 ## Concepts
 - [Czech Beer Culture / 捷克啤酒文化](concepts/CzechBeerCulture.md) — 连接修道院酿造、皮尔森工业标准化、麦汁浓度、泡沫、鲜啤服务与酒馆社交的生产—消费体系。
 - [Medieval Simulation as Historical Learning / 中世纪模拟式历史学习](concepts/MedievalSimulationHistoricalLearning.md) — 以身体、物质、职业和社会规则的后果让玩家通过行动理解历史依赖，并以现实遗址限制模拟权威。
@@ -29976,5 +29983,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Fragmented Memory Narrative / 碎片化记忆叙事](concepts/FragmentedMemoryNarrative.md) — 让访谈、书信、物件、重复故事与变动视角累积关联，却不恢复唯一权威过去的文学形式。
 - [Migration and Identity Rupture / 迁徙与身份断裂](concepts/MigrationIdentityRupture.md) — 将离开理解为地理移动与语言、生计、亲缘、地位及归属重组同时发生的分析框架。
+
+- [Cell-Free Enzyme Engineering](concepts/CellFreeEnzymeEngineering.md) — Design of enzyme pathways outside living cells for more controlled biochemical production, bounded by stability, scale, purity, cost, safety, and product proof.
+- [Experiment-Grounded Protein Model Loop](concepts/ExperimentGroundedProteinModelLoop.md) — Iterative protein-design loop that learns from wet-lab successes and informative prediction failures.
 
 ## Syntheses

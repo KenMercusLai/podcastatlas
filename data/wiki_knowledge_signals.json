@@ -32469,6 +32469,29 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/bioequivalenceevidenceboundary/"
     },
+    "Bioinformatics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "965A022265C6C461D9BB2BB98171C1A8~8584438_2026-08-10-210438-8787-0-0-10.128 [965A022265C6C461D9BB2BB98171C1A8~8584438_2026-08-10-210438-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83842b].md",
+          "key": "ep-8-implementation-of-ai-in-scientific-research",
+          "show": "Data Science With Sam",
+          "title": "EP 8: Implementation of AI in scientific research",
+          "url": "/wiki/sources/ep-8-implementation-of-ai-in-scientific-research/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/bioinformatics/"
+    },
     "BiologicalAgeMeasurementBoundary": {
       "episode_count": 2,
       "show_count": 1,
@@ -43647,6 +43670,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/celebrityoperationalcapital/"
+    },
+    "CellFreeEnzymeEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/cellfreeenzymeengineering/"
     },
     "CellTypeAwareRetinalProsthesis": {
       "episode_count": 1,
@@ -95333,6 +95372,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/exitfreedommaterialconditions/"
     },
+    "Exozyme": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/exozyme/"
+    },
     "ExpansionaryVsAnxietyMarketing": {
       "episode_count": 1,
       "show_count": 1,
@@ -95675,6 +95730,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/experientialstatistics/"
+    },
+    "ExperimentGroundedProteinModelLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/experimentgroundedproteinmodelloop/"
     },
     "ExperimentalLifeDesign": {
       "episode_count": 4,
@@ -196638,6 +196709,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/michaelgove/"
     },
+    "MichaelHeltzen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/michaelheltzen/"
+    },
     "MichaelKilgard": {
       "episode_count": 1,
       "show_count": 1,
@@ -204693,6 +204780,22 @@
       "updated": "2026-10-16",
       "url": "/wiki/concepts/natoalliancecredibility/"
     },
+    "NCTExozyme": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/nctexozyme/"
+    },
     "NEOM": {
       "episode_count": 1,
       "show_count": 1,
@@ -205020,6 +205123,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/nanoai360/"
+    },
+    "NanoSense": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/nanosense/"
     },
     "NanpiLateHan": {
       "episode_count": 2,
@@ -235645,9 +235764,9 @@
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
@@ -235655,9 +235774,16 @@
           "show": "What's Next｜科技早知道",
           "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
           "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
+          "key": "defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/proteinlanguagemodels/"
     },
     "ProteinSourceGoalMatching": {

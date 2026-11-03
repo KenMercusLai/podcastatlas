@@ -1186,8 +1186,8 @@
       "earliest_episode_date": "2026-08-25",
       "latest_episode_date": "2026-11-03",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666 [default.mp3_ywr3ahjkcgo_0072b39de33032a1a0224d40898a99a6_85959666].md",
-      "source_note_count": 17,
-      "topic_matched_source_note_count": 14,
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 15,
       "topics": [
         {
           "key": "technology",
@@ -1206,6 +1206,12 @@
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 2
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
         }
       ],
       "entities": [],

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13872
+wiki_total_pages: 13876
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "NanoAI360"
     title: "Nano AI / 纳米 AI"
     url: "/wiki/entities/nanoai360/"
+  - key: "NanoSense"
+    title: "NanoSense"
+    url: "/wiki/entities/nanosense/"
   - key: "NapoleonBonaparte"
     title: "Napoleon Bonaparte / 拿破仑"
     url: "/wiki/entities/napoleonbonaparte/"
@@ -284,6 +287,9 @@ wiki_pages:
   - key: "NCR"
     title: "NCR"
     url: "/wiki/entities/ncr/"
+  - key: "NCTExozyme"
+    title: "NCT (Exozyme)"
+    url: "/wiki/entities/nctexozyme/"
   - key: "Ndongo"
     title: "Ndongo"
     url: "/wiki/entities/ndongo/"

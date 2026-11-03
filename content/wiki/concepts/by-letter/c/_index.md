@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10991
+wiki_total_pages: 10993
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "CelestialOmenPoliticalResponsibility"
     title: "Celestial Omen Political Responsibility / 天象政治责任"
     url: "/wiki/concepts/celestialomenpoliticalresponsibility/"
+  - key: "CellFreeEnzymeEngineering"
+    title: "Cell-Free Enzyme Engineering"
+    url: "/wiki/concepts/cellfreeenzymeengineering/"
   - key: "CellToCellLogicStacking"
     title: "Cell-to-Cell Logic Stacking"
     url: "/wiki/concepts/celltocelllogicstacking/"

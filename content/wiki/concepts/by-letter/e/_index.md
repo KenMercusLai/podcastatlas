@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10991
+wiki_total_pages: 10993
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "ExperientialStatistics"
     title: "Experiential Statistics"
     url: "/wiki/concepts/experientialstatistics/"
+  - key: "ExperimentGroundedProteinModelLoop"
+    title: "Experiment-Grounded Protein Model Loop"
+    url: "/wiki/concepts/experimentgroundedproteinmodelloop/"
   - key: "ExperimentalFailureAsKnowledge"
     title: "Experimental Failure As Knowledge"
     url: "/wiki/concepts/experimentalfailureasknowledge/"

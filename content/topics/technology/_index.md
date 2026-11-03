@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3715
+topic_total_pages: 3716
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7460,6 +7460,9 @@ topic_entities:
   - key: "NanoAI360"
     title: "Nano AI / 纳米 AI"
     url: "/wiki/entities/nanoai360/"
+  - key: "NanoSense"
+    title: "NanoSense"
+    url: "/wiki/entities/nanosense/"
   - key: "Napster"
     title: "Napster"
     url: "/wiki/entities/napster/"
