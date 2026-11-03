@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13876
+wiki_total_pages: 13880
 wiki_pages:
+  - key: "SuperGirl2006"
+    title: "2006《超级女声》 / Super Girl 2006"
+    url: "/wiki/entities/supergirl2006/"
   - key: "SixtySixRPG"
     title: "66RPG"
     url: "/wiki/entities/sixtysixrpg/"

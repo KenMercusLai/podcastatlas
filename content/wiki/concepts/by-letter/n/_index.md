@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10993
+wiki_total_pages: 10996
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "NorwegianCampaign1940"
     title: "Norwegian Campaign (1940)"
     url: "/wiki/concepts/norwegiancampaign1940/"
+  - key: "NostalgicMediaRediscovery"
+    title: "Nostalgic Media Rediscovery / 怀旧媒介再发现"
+    url: "/wiki/concepts/nostalgicmediarediscovery/"
   - key: "NotWorkingAmbivalence"
     title: "Not Working Ambivalence / 不上班的复杂性"
     url: "/wiki/concepts/notworkingambivalence/"

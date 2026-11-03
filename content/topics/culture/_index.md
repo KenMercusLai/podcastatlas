@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3604
+topic_total_pages: 3609
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1252,6 +1252,9 @@ topic_concepts:
   - key: "EmbodiedCollectiveAwe"
     title: "Embodied Collective Awe"
     url: "/wiki/concepts/embodiedcollectiveawe/"
+  - key: "EmbodiedHumanPresenceInSyntheticMedia"
+    title: "Embodied Human Presence in Synthetic Media / 合成媒介中的真人在场"
+    url: "/wiki/concepts/embodiedhumanpresenceinsyntheticmedia/"
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"
@@ -2443,6 +2446,9 @@ topic_concepts:
   - key: "NorthernCourage"
     title: "Northern Courage / 北方的勇气"
     url: "/wiki/concepts/northerncourage/"
+  - key: "NostalgicMediaRediscovery"
+    title: "Nostalgic Media Rediscovery / 怀旧媒介再发现"
+    url: "/wiki/concepts/nostalgicmediarediscovery/"
   - key: "OccultPseudoscienceLiteraryModernity"
     title: "Occult And Pseudoscience In Literary Modernity"
     url: "/wiki/concepts/occultpseudoscienceliterarymodernity/"
@@ -3989,6 +3995,9 @@ topic_entities:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
     url: "/wiki/entities/rugbyworldcup1995/"
+  - key: "SuperGirl2006"
+    title: "2006《超级女声》 / Super Girl 2006"
+    url: "/wiki/entities/supergirl2006/"
   - key: "361Degrees"
     title: "361 Degrees"
     url: "/wiki/entities/361degrees/"
@@ -8216,6 +8225,9 @@ topic_entities:
   - key: "LuZuofu"
     title: "卢作孚 / Lu Zuofu"
     url: "/wiki/entities/luzuofu/"
+  - key: "LiNaSinger"
+    title: "厉娜 / Li Na (singer and actor)"
+    url: "/wiki/entities/linasinger/"
   - key: "QuXianchang"
     title: "去现场 / Qu Xianchang"
     url: "/wiki/entities/quxianchang/"
@@ -8987,6 +8999,9 @@ topic_entities:
   - key: "XuYuanchongTranslator"
     title: "许渊冲 / Xu Yuanchong"
     url: "/wiki/entities/xuyuanchongtranslator/"
+  - key: "XuFeiSinger"
+    title: "许飞 / Xu Fei (singer-songwriter)"
+    url: "/wiki/entities/xufeisinger/"
   - key: "ShuoDeHaoTing"
     title: "说得好听 / Shuo De Hao Ting"
     url: "/wiki/entities/shuodehaoting/"

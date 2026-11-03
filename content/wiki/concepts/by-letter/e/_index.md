@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 10993
+wiki_total_pages: 10996
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "EmbodiedDataPyramid"
     title: "Embodied Data Pyramid"
     url: "/wiki/concepts/embodieddatapyramid/"
+  - key: "EmbodiedHumanPresenceInSyntheticMedia"
+    title: "Embodied Human Presence in Synthetic Media / 合成媒介中的真人在场"
+    url: "/wiki/concepts/embodiedhumanpresenceinsyntheticmedia/"
   - key: "EmbodiedIdentityBoundary"
     title: "Embodied Identity Boundary / 身体身份边界"
     url: "/wiki/concepts/embodiedidentityboundary/"

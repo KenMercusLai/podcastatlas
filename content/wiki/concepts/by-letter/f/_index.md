@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10993
+wiki_total_pages: 10996
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1439,6 +1439,9 @@ wiki_pages:
   - key: "FriendshipAsSharedHome"
     title: "Friendship as Shared Home / 友情作为共同归宿"
     url: "/wiki/concepts/friendshipassharedhome/"
+  - key: "FriendshipMisunderstandingAccumulation"
+    title: "Friendship Misunderstanding Accumulation / 友情误会累积"
+    url: "/wiki/concepts/friendshipmisunderstandingaccumulation/"
   - key: "FriendshipRecession"
     title: "Friendship Recession"
     url: "/wiki/concepts/friendshiprecession/"

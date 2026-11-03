@@ -38452,3 +38452,11 @@ Added source `defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-d
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-04] ingest | EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”
+
+Added source `ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp`; created [[HouHuiYouQiShow|《后会有期》]], [[XuFeiSinger|许飞]], [[LiNaSinger|厉娜]], [[SuperGirl2006|2006《超级女声》]], [[FriendshipMisunderstandingAccumulation]], [[NostalgicMediaRediscovery]], and [[EmbodiedHumanPresenceInSyntheticMedia]]. Core synthesis: friendship rupture can harden around an unverified attribution when silence, intermediaries, career disappointment, and memory fill the evidentiary gap; renewed contact need not mean restored intimacy; present-day reality storytelling can reorganize old talent-show archives and viewers' autobiographical nostalgia; and bodily, reciprocal, materially situated interaction offers provenance and contingency without becoming proof of historical fact. No settled contradiction was adopted. The commercial-performance disclosure remains unresolved, and career causality, personality, memory, audience effects, program strategy, and AI-era media demand remain source-scoped because the supplied file is a structured retrospective summary rather than a transcript, company record, audience study, or contemporaneous witness comparison. The large [[WushichaYanjiusuo|无时差研究所]] profile and automatic `wiki/overview.md` were kept closed; the focused pages capture the changed judgments without reopening a 25-source evidence inventory or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,820 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”](sources/ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp.md) — 无时差研究所以许飞与厉娜重访友情误会、06超女怀旧再发现、真人综艺的剪辑证据边界及AI时代的身体在场。
 - [No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图](sources/no-234-jieke-youji-shuyu-chengbao-yinkuang-yu-jiuguan-de-boximiya-ditu-gkwrijiovueba7xf6gt0j48r.md) — 三五环以布拉格、捷克天堂与库特纳霍拉的旅行连接啤酒、城市层叠、宗教战争、1968与1989、银矿劳动及《天国：拯救》的中世纪模拟。
 - [史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？](sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn.md) — 史蒂夫说以四封来信连接职场自我价值、伤害性家庭关系的保护性距离、安全基础上的人生探索与父母焦虑的责任分离。
 - [VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解](sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha.md) — 这病说来话长 connects climate-adaptive barrier care and year-round photoaging prevention with skin-readiness, recovery, and event timing for medical-aesthetic procedures.
@@ -4933,6 +4934,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666.md) — Tomorrow Today interview on bioinformatics, CRISPR biosensing, cell-free enzyme engineering, experiment-grounded protein models, scarce natural products, and AI-era human skills.
 
 ## Entities
+- [《后会有期》 / Hou Hui You Qi](entities/HouHuiYouQiShow.md) — 以失联、误会或决裂的朋友为对象，通过旅行、写信和对谈区分重新接触、解释与和解的真人综艺。
+- [许飞 / Xu Fei (singer-songwriter)](entities/XuFeiSinger.md) — 2006《超级女声》选手与创作歌手，其与厉娜的友情及未决商演告密疑云在《后会有期》中被重访。
+- [厉娜 / Li Na (singer and actor)](entities/LiNaSinger.md) — 2006《超级女声》选手与演员，在《后会有期》中重访与许飞的友情，同时保留对商演告密的怀疑与证据边界。
+- [2006《超级女声》 / Super Girl 2006](entities/SuperGirl2006.md) — 以付费投票、复杂赛制和选手互投同时制造高情感投入、竞争与长期媒介档案的电视选秀。
 - [Charles IV / 查理四世](entities/CharlesIV.md) — 将大学、新城、桥梁与主教座堂工程整合为布拉格十四世纪城市层的波西米亚国王和神圣罗马帝国皇帝。
 - [Kingdom Come: Deliverance / 《天国：拯救》](entities/KingdomComeDeliverance.md) — 通过身体、声望、识字、战斗与手工系统重建中世纪波西米亚依赖关系的历史角色扮演游戏。
 - [Kutná Hora / 库特纳霍拉](entities/KutnaHora.md) — 由白银、王室铸币、危险矿工劳动、教堂赞助与资源衰竭共同塑造的捷克矿业城市。
@@ -18895,6 +18900,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Friendship Misunderstanding Accumulation / 友情误会累积](concepts/FriendshipMisunderstandingAccumulation.md) — 不确定事件在缺少及时核对时，被沉默、中间人、事业挫折与记忆固化为长期背叛叙事的机制。
+- [Nostalgic Media Rediscovery / 怀旧媒介再发现](concepts/NostalgicMediaRediscovery.md) — 当前节目重启旧媒介档案，使熟悉人物、个人青春记忆与新的编辑框架共同形成再发现。
+- [Embodied Human Presence in Synthetic Media / 合成媒介中的真人在场](concepts/EmbodiedHumanPresenceInSyntheticMedia.md) — 在生成内容扩张时，身体反应、共同环境、相互回应与不可完全控制的互动所提供的媒介价值。
 - [Czech Beer Culture / 捷克啤酒文化](concepts/CzechBeerCulture.md) — 连接修道院酿造、皮尔森工业标准化、麦汁浓度、泡沫、鲜啤服务与酒馆社交的生产—消费体系。
 - [Medieval Simulation as Historical Learning / 中世纪模拟式历史学习](concepts/MedievalSimulationHistoricalLearning.md) — 以身体、物质、职业和社会规则的后果让玩家通过行动理解历史依赖，并以现实遗址限制模拟权威。
 - [Relational Self-Worth Feedback / 关系反馈与自我价值](concepts/RelationalSelfWorthFeedback.md) — 用可信、具体的关系反馈修正自我否定与互动猜测，同时避免把价值判断完全外包给他人。

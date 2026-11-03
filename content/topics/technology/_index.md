@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3716
+topic_total_pages: 3718
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2242,6 +2242,9 @@ topic_concepts:
   - key: "EmbodiedDataPyramid"
     title: "Embodied Data Pyramid"
     url: "/wiki/concepts/embodieddatapyramid/"
+  - key: "EmbodiedHumanPresenceInSyntheticMedia"
+    title: "Embodied Human Presence in Synthetic Media / 合成媒介中的真人在场"
+    url: "/wiki/concepts/embodiedhumanpresenceinsyntheticmedia/"
   - key: "EmbodiedIdentityBoundary"
     title: "Embodied Identity Boundary / 身体身份边界"
     url: "/wiki/concepts/embodiedidentityboundary/"
@@ -10137,6 +10140,9 @@ topic_sources:
   - key: "ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q"
     title: "EP391-当AI完成所有工作，一个人应当如何证明自己的价值？"
     url: "/wiki/sources/ep391-dang-ai-wancheng-suoyou-gongzuo-yige-ren-yingdang-ruhe-zhengming-ziji-de-jiazhi-gkwridootojhakrdqqtwkv3q/"
+  - key: "ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp"
+    title: "EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”"
+    url: "/wiki/sources/ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp/"
   - key: "ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c"
     title: "EP58 业绩平平，也要认真\"摸鱼\""
     url: "/wiki/sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c/"

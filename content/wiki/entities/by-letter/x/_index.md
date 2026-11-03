@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13876
+wiki_total_pages: 13880
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "Xudu"
     title: "许都 / Xudu"
     url: "/wiki/entities/xudu/"
+  - key: "XuFeiSinger"
+    title: "许飞 / Xu Fei (singer-songwriter)"
+    url: "/wiki/entities/xufeisinger/"
   - key: "XieWannianWesternHan"
     title: "谢万年 / Xie Wannian (Western Han)"
     url: "/wiki/entities/xiewannianwesternhan/"
