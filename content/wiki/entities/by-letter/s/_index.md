@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13858
+wiki_total_pages: 13861
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2294,6 +2294,9 @@ wiki_pages:
   - key: "SouthernHan"
     title: "南汉 / Southern Han"
     url: "/wiki/entities/southernhan/"
+  - key: "SouthernQi"
+    title: "南齐 / Southern Qi"
+    url: "/wiki/entities/southernqi/"
   - key: "Shuanger"
     title: "双儿 / Shuang'er"
     url: "/wiki/entities/shuanger/"

@@ -21533,6 +21533,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/aristocraticdeathdignity/"
     },
+    "AristocraticNormsLiteraryForm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/aristocraticnormsliteraryform/"
+    },
     "AristocraticSpiritConsumptionBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -135611,6 +135627,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/householdrefrigeratorfoodsafety/"
     },
+    "HouseholdRegistryPrivilegeAudit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/householdregistryprivilegeaudit/"
+    },
     "HouseholdWaterQualityFiltration": {
       "episode_count": 1,
       "show_count": 1,
@@ -172041,6 +172073,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/linxianer/"
+    },
+    "LinXiaoguangSouthernDynastiesScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/linxiaoguangsoutherndynastiesscholar/"
     },
     "LinXingzhi": {
       "episode_count": 1,
@@ -269487,6 +269535,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/southernpovertylawcenter/"
     },
+    "SouthernQi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/southernqi/"
+    },
     "SouthernTransitionalCouncil": {
       "episode_count": 1,
       "show_count": 1,
@@ -313099,6 +313163,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/xiaoyuphysicsteacher/"
     },
+    "XiaoZeSouthernQi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/xiaozesouthernqi/"
+    },
     "XiaoZhan": {
       "episode_count": 1,
       "show_count": 1,
@@ -319900,6 +319980,38 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/yongmensima/"
+    },
+    "YongmingEra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/yongmingera/"
+    },
+    "YongmingProsody": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvyohbNAkaa_iOP9nIRokKKJMhqS [lvyohbNAkaa_iOP9nIRokKKJMhqS].md",
+          "key": "lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs",
+          "show": "忽左忽右",
+          "title": "513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+          "url": "/wiki/sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/yongmingprosody/"
     },
     "Yorktown": {
       "episode_count": 1,

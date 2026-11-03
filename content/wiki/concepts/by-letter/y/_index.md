@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 10979
+wiki_total_pages: 10983
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"
@@ -119,6 +119,12 @@ wiki_pages:
   - key: "YangNaiwuXiaoBaicaiCase"
     title: "杨乃武与小白菜案 / Yang Naiwu and Xiao Baicai Case"
     url: "/wiki/concepts/yangnaiwuxiaobaicaicase/"
+  - key: "YongmingProsody"
+    title: "永明声律 / Yongming Prosody"
+    url: "/wiki/concepts/yongmingprosody/"
+  - key: "YongmingEra"
+    title: "永明时代 / Yongming Era"
+    url: "/wiki/concepts/yongmingera/"
   - key: "YuxiIntoHonglou"
     title: "玉溪一脉入红楼 / Yuxi Into Honglou"
     url: "/wiki/concepts/yuxiintohonglou/"

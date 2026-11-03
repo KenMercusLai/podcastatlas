@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发](sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs.md) — 忽左忽右以萧赜传记连接南齐国家重建、检籍改革、贵族秩序、永明声律与梁唐文学的形成。
 - [EP 53: Cognitive Surrender: The AI Engineering Mistake That Kills Projects](sources/ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects.md) — Data Science With Sam interview with Ethan Lyon on governed conversational analytics, data foundations, cognitive surrender, structured knowledge graphs, memory maintenance, and responsible model release.
 - [EP67-别抗拒，心理咨询可能并不是你想的那样！](sources/ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899.md) — 无时差研究所与田小甜从功能受损、医心协作、认知行为链、文化污名、来访者自主和咨询师边界解释心理咨询。
 - [EP93-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(上)](sources/ep93-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-shang-wkgmef3hbo3dzi7pbdfaijfnyfc856.md) — 无时差研究所从情绪命名、早期支持、回应式课程与家校代际协同解释幼儿行为、学习和社会化。
@@ -4924,6 +4925,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [林晓光 / Lin Xiaoguang (Southern Dynasties scholar)](entities/LinXiaoguangSouthernDynastiesScholar.md) — 以人物传记贯通南朝文学、政治制度与贵族社会的学者。
+- [南齐武帝萧赜 / Xiao Ze, Emperor Wu of Southern Qi](entities/XiaoZeSouthernQi.md) — 在刘宋战争中形成、于永明年间推进财政与中央权力重建的南齐第二位皇帝。
+- [南齐 / Southern Qi](entities/SouthernQi.md) — 连接刘宋与萧梁、并在永明时期形成重要政治与文学转折的短命王朝。
 - [Ethan Lyon](entities/EthanLyon.md) — Principal AI engineer advocating governed data access, repeatable evaluation, planning-first development, and structured memory.
 - [田小甜 / Tian Xiaotian (Mental-Health Practitioner)](entities/TianXiaotianMentalHealthPractitioner.md) — 无时差研究所 EP67 嘉宾，以临床社会工作、创伤支持、来访者自主和专业边界解释心理咨询。
 - [Rebecca (early-childhood educator)](entities/RebeccaEarlyChildhoodEducator.md) — First-name-only guest connecting welfare work and early-childhood/special-education training to emotion, curriculum, play, developmental support, and caregiver coordination.
@@ -18867,6 +18871,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [永明时代 / Yongming Era](concepts/YongmingEra.md) — 将中央重建、社会代价、宫廷文学与梁代文化形成连接起来的南齐时期。
+- [检籍与特权户籍清理 / Household Registry Privilege Audit](concepts/HouseholdRegistryPrivilegeAudit.md) — 通过核查特权户籍恢复税役，却因定额、寻租与利益损失制造反弹的改革机制。
+- [永明声律 / Yongming Prosody](concepts/YongmingProsody.md) — 自觉运用四声与音调安排、并成为后世近体诗重要源头的南齐诗歌实践。
+- [贵族规范与文学形式 / Aristocratic Norms and Literary Form](concepts/AristocraticNormsLiteraryForm.md) — 解释等级礼制、宫廷赞助与共享文学规则如何相互塑造并产生制度性遗产。
 - [Trustworthy Conversational Analytics](concepts/TrustworthyConversationalAnalytics.md) — Natural-language business analytics grounded in scoped access, documented schemas, stable metrics, and regression evaluation.
 - [Cognitive-Behavioral Interpretation Chain / 认知行为解释链](concepts/CognitiveBehavioralInterpretationChain.md) — Event-to-interpretation-to-feeling-to-action model for examining automatic meanings without reducing care to positive thinking.
 - [Client-Directed Therapeutic Navigation / 来访者主导的治疗导航](concepts/ClientDirectedTherapeuticNavigation.md) — Agency-preserving model in which the therapist clarifies routes and risks while the client retains life-direction decisions.

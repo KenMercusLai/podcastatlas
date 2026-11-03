@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 10979
+wiki_total_pages: 10983
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "HonkakuMystery"
     title: "本格推理 / Honkaku Mystery"
     url: "/wiki/concepts/honkakumystery/"
+  - key: "HouseholdRegistryPrivilegeAudit"
+    title: "检籍与特权户籍清理 / Household Registry Privilege Audit"
+    url: "/wiki/concepts/householdregistryprivilegeaudit/"
   - key: "HanCommercialWealthAspiration"
     title: "汉代商业财富愿望 / Han Commercial Wealth Aspiration"
     url: "/wiki/concepts/hancommercialwealthaspiration/"

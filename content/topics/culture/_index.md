@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3603
+topic_total_pages: 3604
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3958,6 +3958,9 @@ topic_concepts:
   - key: "UnspokenFeelingAsMystery"
     title: "说不出口的心事 / Unspoken Feeling As Mystery"
     url: "/wiki/concepts/unspokenfeelingasmystery/"
+  - key: "AristocraticNormsLiteraryForm"
+    title: "贵族规范与文学形式 / Aristocratic Norms and Literary Form"
+    url: "/wiki/concepts/aristocraticnormsliteraryform/"
   - key: "TangFrontierPoetryFieldExperience"
     title: "边塞诗的实地经验 / Tang Frontier Poetry Field Experience"
     url: "/wiki/concepts/tangfrontierpoetryfieldexperience/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13858
+wiki_total_pages: 13861
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "Xiongnu"
     title: "匈奴 / Xiongnu"
     url: "/wiki/entities/xiongnu/"
+  - key: "XiaoZeSouthernQi"
+    title: "南齐武帝萧赜 / Xiao Ze, Emperor Wu of Southern Qi"
+    url: "/wiki/entities/xiaozesouthernqi/"
   - key: "XiaochangNutritionGuest"
     title: "卢竹小肠 / Xiaochang (nutrition guest)"
     url: "/wiki/entities/xiaochangnutritionguest/"

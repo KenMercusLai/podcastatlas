@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10979
+wiki_total_pages: 10983
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3311,6 +3311,9 @@ wiki_pages:
   - key: "ActionBackedAntiCorruptionPersuasion"
     title: "行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion"
     url: "/wiki/concepts/actionbackedanticorruptionpersuasion/"
+  - key: "AristocraticNormsLiteraryForm"
+    title: "贵族规范与文学形式 / Aristocratic Norms and Literary Form"
+    url: "/wiki/concepts/aristocraticnormsliteraryform/"
   - key: "AmnestyCannotSubstituteGovernance"
     title: "赦令不能替代治理 / Amnesty Cannot Substitute for Governance"
     url: "/wiki/concepts/amnestycannotsubstitutegovernance/"
