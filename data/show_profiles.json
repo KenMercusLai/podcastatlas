@@ -2006,14 +2006,14 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-11-02",
       "latest_episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
-      "source_note_count": 61,
-      "topic_matched_source_note_count": 30,
+      "source_note_count": 62,
+      "topic_matched_source_note_count": 31,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 25
+          "source_note_count": 26
         },
         {
           "key": "culture",
@@ -2065,6 +2065,13 @@
           "episode_count": 4
         },
         {
+          "key": "Adidas",
+          "title": "Adidas",
+          "url": "/wiki/entities/adidas/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
           "key": "Alibaba",
           "title": "Alibaba",
           "url": "/wiki/entities/alibaba/",
@@ -2072,24 +2079,17 @@
           "episode_count": 3
         },
         {
-          "key": "ChinaEasternAirlines",
-          "title": "China Eastern Airlines / 东方航空",
-          "url": "/wiki/entities/chinaeasternairlines/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "ChinaSouthernAirlines",
-          "title": "China Southern Airlines / 南方航空",
-          "url": "/wiki/entities/chinasouthernairlines/",
+          "key": "BYD",
+          "title": "BYD",
+          "url": "/wiki/entities/byd/",
           "kind": "organization",
           "episode_count": 3
         }
       ],
       "start_here_episode_files": [
+        "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
         "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
         "咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？ [1013725042].md",
-        "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
         "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md"
       ]
     },

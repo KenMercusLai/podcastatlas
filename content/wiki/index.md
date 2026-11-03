@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [羽毛球价格回落，无印良品将向欧美复制中国经验](sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p.md) — 声动早咖啡串联本地决策权、海外增长、AI硬件与算力投入、渠道重组，并以羽毛球拆解原料、扩产、库存和价格的反转循环。
 - [Off to the races: our American-midterms preview](sources/80e710d10d18ebe74145f9a83b5ea1e8-80e710d10d18ebe74145f9a83b5ea1e8mp3aid6ae852a798a5c8b2e347e723chidd556eb54-6160-4.md) — Economist Podcasts links election-interference preparation, the weakening default case for property wealth, and Houdini's craft-first publicity system.
 - [What it means when AI helps solve complex math problems](sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128.md) — Marketplace Tech distinguishes machine-checked proof from human mathematical understanding and connects that gap to research ethics, oral assessment, hiring, and graduate education.
 - [揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想](sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9.md) — 旧世代 connects AI-assisted game preservation and Android Xbox emulation to pre-release clone risk and Castlevania series identity.
@@ -4919,6 +4920,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [Fourier Intelligence / 傅利叶智能](entities/FourierIntelligence.md) — Chinese rehabilitation and humanoid-robot company reportedly collaborating with Meta on a household agent carrier under cross-border testing constraints.
 - [Harry Houdini](entities/HarryHoudini.md) — Escape artist whose durable fame joined athletic craft, historical research, public spectacle, new-media adoption, and identity protection.
 - [Tina Barton](entities/TinaBarton.md) — Election official whose corrected tally error became a threat case and motivation for preparedness exercises.
 - [Charlotte Howard](entities/CharlotteHoward.md) — Economist U.S. editor framing the 2026 midterms through executive constraint, party succession, household costs, and forecast uncertainty.
@@ -4934,7 +4936,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [János Kádár](entities/JanosKadar.md) — Hungarian communist introduced as both purge participant and victim before rising to party leadership during the uprising.
 - [László Rajk](entities/LaszloRajk.md) — Secret-police founder and purge victim whose reburial became a mass indictment of Stalinism.
 - [AUDI (China EV Brand) / 字母标AUDI](entities/AUDIChinaEVBrand.md) — Audi与上汽面向中国开发的字母标新能源品牌，以独立渠道、本土研发和挑战者定价测试豪华电动车转型。
-- [7-Eleven](entities/SevenEleven.md) — Global convenience-store chain whose Indian rollout failed to reach differentiated demand and local network density.
+- [7-Eleven](entities/SevenEleven.md) — Global convenience-store chain contrasting a sparse Indian exit with planned Guangdong densification and supplier-developed exclusive products.
 - [Lawson (convenience-store chain)](entities/LawsonRetail.md) — Japanese convenience-store operator with a reported staged India entry plan beginning in Mumbai.
 - [Matt Mills](entities/MattMills.md) — SailPoint president advocating accountable ownership and contextual authorization for AI agents.
 - [SailPoint](entities/SailPoint.md) — enterprise identity-governance company extending access lifecycle controls to non-human identities and AI agents.
@@ -13452,7 +13454,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Binance founder whose profile now spans low-latency trading, repeated pivots, exchange scale, U.S. enforcement and prison, Giggle Academy, and agent-payment speculation.
 - [Binance](entities/Binance.md) — Global crypto exchange built from prior exchange software, launched through the BNB ICO, differentiated by speed, and constrained by jurisdictional and KYC/AML failures.
 - [跨海电波 / Kuahai Dianbo](entities/KuahaiDianbo.md) — Amazon Advertising-produced cross-border-commerce podcast represented by the episode 142 crossover on Japanese seasonal-limited consumption and market entry.
-- [MUJI / 无印良品](entities/Muji.md) — Japanese retail brand used by episode 142 as a New Year lucky-bag and annual-ritual consumer-memory case.
+- [MUJI / 无印良品](entities/Muji.md) — Japanese lifestyle retailer linking seasonal brand ritual with China-informed local decision rights for renewed U.S. and European expansion.
 - [Nakagawa Masashichi Shoten / 中川政七商店](entities/NakagawaMasashichiShoten.md) — Japanese craft retailer used by episode 142 to show story, place, and traditional-maker renewal as a reasoned premium.
 - [Montbell](entities/Montbell.md) — Japanese outdoor brand used by episode 142 as a regional-limited T-shirt case where local availability turns apparel into a place story.
 - [Columbia Journalism School](entities/ColumbiaJournalismSchool.md) — Columbia University journalism school context for David Weng's visiting-scholar opportunity and media/financial-narrative research.
@@ -17130,7 +17132,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nigeria](entities/Nigeria.md) — Jollof-price shock case where food inflation, diesel, roads, weather, and wages make a staple dish unaffordable.
 - [Ghana](entities/Ghana.md) — West African country represented through Asante history, food prices, radio access, and route displacement.
 - [BBC](entities/BBC.md) — Public broadcaster whose Droitwich longwave shutdown becomes a broadcast-infrastructure and access case.
-- [BYD](entities/BYD.md) — Chinese EV and battery company linked to Brazil manufacturing, early battery process learning, and blade-battery route design.
+- [BYD](entities/BYD.md) — Chinese EV and battery company linked to manufacturing know-how, overseas localization and sales growth, blade batteries, fast charging, and flexible assembly.
 - [SBM Intelligence](entities/SBMIntelligence.md) — Organization behind the Jollof Index used to compare food affordability in Nigeria and Ghana.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
@@ -17348,7 +17350,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jianying / 剪映](entities/Jianying.md) — Video-editing competitor used to clarify Meitu's narrower workflow defensibility.
 - [盖德](entities/Gaide.md) — Running-shoe reviewer and former sports-industry product manager explaining materials, fit, sponsorship, and marathon performance in E241.
 - [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, DTC/channel risk, Converse ownership, and current cycle mismatch against Adidas.
-- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through running tech, Samba, World Cup marketing, inventory repair, China recovery, and retro-football lifestyle fit.
+- [Adidas](entities/Adidas.md) — Sportswear company framed through performance, archive revival, inventory repair, China-local product teams, and current retro-football cycle fit.
 - [Bjørn Gulden / 古尔登](entities/BjornGulden.md) — Adidas CEO in the Vol.271 turnaround source, associated with Yeezy inventory handling, channel repair, regional autonomy, and retro-product revival.
 - [Puma](entities/Puma.md) — Sportswear competitor linked to Bjørn Gulden's prior company and named as a ballet-sneaker trend participant.
 - [Kanye West](entities/KanyeWest.md) — Artist and Yeezy collaborator whose 2022 break with Adidas becomes a celebrity-collaboration and inventory-risk case.
@@ -18858,6 +18860,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Badminton Input-Cost Inventory Cycle](concepts/BadmintonInputCostInventoryCycle.md) — Feedback loop where feather supply, production capacity, dealer inventory, price, and participation amplify a shuttlecock market reversal.
+- [Retail Localization Decision Rights](concepts/RetailLocalizationDecisionRights.md) — Authority for local teams and stores to adapt assortment, product, production, and marketing inside a global retail system.
 - [Election Interference Preparedness](concepts/ElectionInterferencePreparedness.md) — Advance rehearsal of legal, operational, communication, and security responses to election-day intimidation or disruption.
 - [Property–Equity Wealth Shift](concepts/PropertyEquityWealthShift.md) — Comparative shift from property-centered wealth expectations toward renting and equity investing without treating either asset as safe.
 - [Publicity as News](concepts/PublicityAsNews.md) — Craft-first creation of visible product demonstrations that earn event coverage while increasing imitation and protection pressures.
@@ -24601,7 +24605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Formula Supply Chain Resilience](concepts/FormulaSupplyChainResilience.md) — Manufacturing and inventory capacity needed to keep serving parents despite long lead times, recalls, and concentrated supply.
 - [WIC Formula Contracting](concepts/WICFormulaContracting.md) — Public-benefit contracting structure that can shape formula choice and reinforce incumbent scale.
 - [Infant Formula Market Concentration](concepts/InfantFormulaMarketConcentration.md) — Market-structure pattern where a few formula brands dominate a regulated, supply-sensitive category.
-- [Sportswear Inventory Cycle](concepts/SportswearInventoryCycle.md) — Sportswear operating pattern where lead times, channel incentives, product-cycle misses, discounting, and over-distribution turn stock into margin and brand risk.
+- [Sportswear Inventory Cycle](concepts/SportswearInventoryCycle.md) — Sportswear pattern where lead times, local product speed, channel structure, demand misses, discounting, and over-distribution turn stock into margin and brand risk.
 - [Retro Product Revival](concepts/RetroProductRevival.md) — Product strategy of reactivating archive lines through current styling, social circulation, scarcity, aesthetic variation, and brand-DNA fit.
 - [Classic Canvas Shoe Decline](concepts/ClassicCanvasShoeDecline.md) — Pattern where famous canvas-shoe brands lose momentum as comfort demand, identity dilution, and product innovation debt compound.
 - [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, style, and multi-occasion refinement.
@@ -26390,7 +26394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Budget Airline Cost Squeeze](concepts/BudgetAirlineCostSqueeze.md) — Pressure on low-fare airlines when input costs rise and price-sensitive travelers cut discretionary flying.
 - [Civil Aviation Development Fund / 民航发展基金](concepts/CivilAviationDevelopmentFund.md) — Chinese government fund collected from passengers and airlines for aviation infrastructure, air-traffic systems, routes, and airport subsidies.
 - [Aviation Fuel Surcharge / 航空燃油附加费](concepts/AviationFuelSurcharge.md) — Regulated partial jet-fuel cost pass-through shown moving from an August cut to a source-reported October rise.
-- [Aviation Fuel Cost Pass-Through](concepts/AviationFuelCostPassThrough.md) — Cost-sharing problem where fuel surcharges offset only part of aviation fuel-price increases and may still weaken demand.
+- [Aviation Fuel Cost Pass-Through](concepts/AviationFuelCostPassThrough.md) — Partial transfer of jet-fuel shocks through regulated surcharges, constrained by carrier structure and passenger demand response.
 - [Airline Market Price Discipline](concepts/AirlineMarketPriceDiscipline.md) — Fare pressure created when a low-cost carrier forces incumbents to offer cheaper options.
 - [Airline Bailout Politics](concepts/AirlineBailoutPolitics.md) — Policy question of whether public rescue can preserve airline competition rather than reward customer satisfaction.
 - [Rare Earth Export Leverage](concepts/RareEarthExportLeverage.md) — Strategic power created when rare-earth processing dependence lets export restrictions disrupt industrial and defense users.
@@ -28704,7 +28708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reusable Rocket Economics](concepts/ReusableRocketEconomics.md) — Cost-structure shift created when launch vehicles can return and fly again instead of being discarded after each mission.
 - [Second-Stage Reuse Constraint](concepts/SecondStageReuseConstraint.md) — Upper-stage bottleneck where partial rocket reuse still leaves major per-flight production cost, certification work, and launch-cadence limits.
 - [Space Based AI Infrastructure](concepts/SpaceBasedAIInfrastructure.md) — Scenario where AI compute, data transport, energy, and data centers move partly into orbit if Starship economics can beat terrestrial power and cooling constraints.
-- [Orbital Data Center Economics](concepts/OrbitalDataCenterEconomics.md) — Cost model for whether orbital AI compute can beat terrestrial data centers after launch, satellites, chips, cooling, reliability, maintenance, and workload fit are counted.
+- [Orbital Data Center Economics](concepts/OrbitalDataCenterEconomics.md) — Cost test for orbital AI compute after launch, chips, cooling, reliability, maintenance, workload fit, and the gap between experiments and scale are counted.
 - [Orbital Data Center Thermal Management](concepts/OrbitalDataCenterThermalManagement.md) — Vacuum heat-rejection problem for orbital compute, centered on radiation, radiator area, chip temperature, and heat transport.
 - [Orbital Compute Governance](concepts/OrbitalComputeGovernance.md) — Governance layer for scaled orbital compute covering traffic coordination, debris risk, data sovereignty, jurisdiction, and enforcement capacity.
 - [Orbital Debris Governance](concepts/OrbitalDebrisGovernance.md) — Management of abandoned space hardware, satellite debris, collision risk, disposal, and accountability as space infrastructure scales.
@@ -28871,7 +28875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Open Source Community Commercialization](concepts/OpenSourceCommunityCommercialization.md) — Pattern where a community project becomes a company, product line, and institutional business with diverging incentives.
 - [Technical Culture Sales Culture Tension](concepts/TechnicalCultureSalesCultureTension.md) — Organizational tension when engineer/open-source norms meet enterprise customers, formal presentation, delivery pressure, and hierarchy.
 - [Government Enterprise Procurement](concepts/GovernmentEnterpriseProcurement.md) — Institutional buying context where certification, support, deployment reliability, and relationships shape software demand.
-- [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots judged by reliable chore and family-service value, with unresolved humanoid, wheeled, appliance-like, and security-first form factors.
+- [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots judged by reliable service value across humanoid, wheeled, appliance-like, security-first, and model-provider-led routes.
 - [Household Robot Data Flywheel](concepts/HouseholdRobotDataFlywheel.md) — Real-home deployment loop where household tasks, corner cases, and interaction data improve robot capability and deployment value.
 - [Consumer Robotics Full Stack](concepts/ConsumerRoboticsFullStack.md) — Self-development strategy for making home robots affordable, reliable, and integrated enough for consumer deployment.
 - [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable tokens through cloud, chips, power, cooling, regions, and utility-regulated grid access.

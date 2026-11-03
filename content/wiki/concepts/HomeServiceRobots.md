@@ -9,7 +9,8 @@ sources:
   - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
   - vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1
   - shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596
-last_updated: 2026-09-21
+  - yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 # Home Service Robots
@@ -22,10 +23,12 @@ The bounded sources treat the home as both a product market and a difficult robo
 
 Vol. 173 tightens that view by arguing that useful domestic robots do not need to be humanoid if they solve specific chores such as sweeping, dishes, laundry, and tidying. 商业小样50 adds an established-product case: Ecovacs carries a mature sensing, mapping, planning, and control stack from floor cleaning into windows, lawns, and pools, but must solve the safety and environmental remainder separately. Together, the sources make household robotics less a single "robot butler" thesis and more a product-selection problem: choose a task, environment, and embodiment where service quality can be repeated, then treat the difficult scenario-specific remainder as core product work.
 
+A model-provider-led humanoid route adds another stack arrangement: [[Meta]] reportedly wants a [[FourierIntelligence|Fourier Intelligence]] prototype to become a physical carrier for the [[MetaMuseModels|Muse]] consumer agent. This route also exposes a non-technical deployment constraint, because U.S. import restrictions reportedly impede prototype testing and stable parts access.
+
 ## Key Claims
 - Household service value comes from repeated task completion, not from a robot merely appearing humanlike.
 - The home is strategically attractive because it provides varied data, emotional proximity, and consumer willingness to pay.
-- Form factor remains unresolved: humanoids, wheeled platforms, security robots, and specialized appliances each match different household jobs.
+- Form factor and stack ownership remain unresolved: humanoids, wheeled platforms, security robots, specialized appliances, and model-provider partnerships each match different household jobs and constraints.
 - Child-care and family assistance can create strong demand, but safety and reliability requirements are high.
 - Home robots overlap with companions, but the service category should be judged by practical help.
 - Near-term deployment is more likely in bounded chores or specific household roles than in a general all-purpose domestic worker.
@@ -38,14 +41,17 @@ Vol. 173 tightens that view by arguing that useful domestic robots do not need t
 - PhysicalAGI route evidence: [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] links home robots to a broader PhysicalAGI thesis in which domestic settings provide demanding generalization data.
 - Form-factor evidence: [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1]] argues that near-term home robots may be specialized or non-humanoid if they reliably solve concrete chores such as sweeping, dishes, laundry, and tidying.
 - Specialized-product evidence: [[shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596]] uses Ecovacs's window, lawn, and pool cleaners to show how a reusable robotics stack still requires substantial task-specific safety, environment, and market adaptation.
+- Model-carrier and trade-constraint evidence: [[yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p]] reports a Meta-Fourier household humanoid that could embody Muse while import restrictions hinder U.S. prototype testing and parts access.
 
 ## Counterevidence & Qualifications
-Home robots face hard constraints in safety, cluttered environments, object diversity, cost, maintenance, privacy, and support. Demos, reservations, expressive interaction, sales growth, and category revenue do not prove repeatable domestic service quality or attractive profit. The source set also mixes investor, founder, company, and podcast perspectives, so product timelines, sales, penetration, market-size expectations, and the 80/20 reuse ratio should remain source-scoped.
+Home robots face hard constraints in safety, cluttered environments, object diversity, cost, maintenance, privacy, support, cross-border testing, and component access. Demos, reservations, expressive interaction, sales growth, and category revenue do not prove repeatable domestic service quality or attractive profit. The source set also mixes investor, founder, company, and podcast perspectives, so product timelines, sales, penetration, market-size expectations, collaboration details, restriction scope, and the 80/20 reuse ratio should remain source-scoped.
 
 ## What Changed
 - Added Ecovacs as an established specialized-robot portfolio spanning floors, windows, lawns, and pools.
 - Made technology reuse and scenario-specific adaptation explicit parts of chore-first commercialization.
 - Added profit and sponsor-scope qualifications to reported new-category growth.
+- Added Meta and Fourier's reported consumer-agent humanoid route.
+- Added import restrictions and parts access as deployment constraints.
 
 ## Related Concepts
 - [[CompanionRobots]] - adjacent household category where emotional presence can overlap with service.
@@ -58,3 +64,4 @@ Home robots face hard constraints in safety, cluttered environments, object dive
 - [[ProductLedWillingnessToPay]] - demand context for household users paying for concrete help.
 - [[TechnologyReuseScenarioAdaptation]] - explains how a shared robotics core moves between chores without erasing environment-specific work.
 - [[EcovacsRobotics]] - specialized household-robot portfolio used as the current product case.
+- [[FourierIntelligence]] - reported humanoid hardware partner for Meta's household-agent experiment.

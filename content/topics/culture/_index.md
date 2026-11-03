@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3598
+topic_total_pages: 3599
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -478,6 +478,9 @@ topic_concepts:
   - key: "AutonomyUnderInformationFlow"
     title: "Autonomy Under Information Flow / 信息流中的自主性"
     url: "/wiki/concepts/autonomyunderinformationflow/"
+  - key: "BadmintonInputCostInventoryCycle"
+    title: "Badminton Input-Cost Inventory Cycle"
+    url: "/wiki/concepts/badmintoninputcostinventorycycle/"
   - key: "BarrierRemovalSocialChange"
     title: "Barrier-Removal Social Change"
     url: "/wiki/concepts/barrierremovalsocialchange/"

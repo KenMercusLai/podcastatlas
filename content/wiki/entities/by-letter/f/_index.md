@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13854
+wiki_total_pages: 13855
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "FourSeasonsHotels"
     title: "Four Seasons Hotels and Resorts"
     url: "/wiki/entities/fourseasonshotels/"
+  - key: "FourierIntelligence"
+    title: "Fourier Intelligence / 傅利叶智能"
+    url: "/wiki/entities/fourierintelligence/"
   - key: "FoxSports"
     title: "Fox Sports"
     url: "/wiki/entities/foxsports/"

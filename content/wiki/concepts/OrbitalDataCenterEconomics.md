@@ -8,7 +8,8 @@ sources:
   - tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128
   - all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335
   - all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150
-last_updated: 2026-09-10
+  - yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p
+last_updated: 2026-11-03
 ---
 
 # Orbital Data Center Economics
@@ -19,6 +20,8 @@ Orbital data center economics is the total-cost test for whether AI compute in o
 ## Current Synthesis
 The concept now has three complementary cost frames. E239 builds an orbital model from 100kW satellite units, launch counts, GPU capital cost, heat rejection, radiation tolerance, satellite lifetime, and inference-versus-training fit. Marketplace Tech adds a public-radio version focused on capital needs and repair difficulty. The All-In sources make the terrestrial counterfactual and launch-timing wager more explicit: one episode describes a one-gigawatt ground AI data center as roughly $35 billion in semiconductors plus $25 billion in power and cooling equipment, while the May 22 episode gives late-2028 to early-2030 as Gavin Baker's point estimate for orbital compute if reusable [[Starship]] and space-designed GPU assumptions hold.
 
+The latest roundup adds a small observed step rather than an economic resolution: a satellite carrying four [[Google]] AI chips reportedly launched and established ground communication. That experiment moves orbital compute from forecast toward hardware testing, but it does not establish workload scale, thermal performance, radiation survival, repairability, networking, replacement cost, or comparative economics.
+
 ## Key Claims
 - Launch cost is a gate, but not the only gate; satellite manufacturing, chip cost, heat rejection, communication, and replacement cycles can dominate the final answer.
 - Space solar energy and easier siting matter commercially only if they offset the extra cost and operational risk of orbital hardware.
@@ -26,6 +29,7 @@ The concept now has three complementary cost frames. E239 builds an orbital mode
 - Orbital compute may fit inference or medium-sized distributed workloads before it fits dense frontier-model training.
 - Maintenance and component failure are not afterthoughts; repairability is part of whether orbital data centers can be more than a funding narrative.
 - Point forecasts for orbital compute are useful scenario markers, but they should be weighted below engineering constraints and observed deployment economics.
+- Small orbital chip experiments can reduce feasibility uncertainty without validating data-center-scale economics.
 
 ## Evidence
 - Full orbital model: [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] discusses a 1GW target through 100kW orbital compute units, roughly 10,000 satellites, and about 100 [[Starship]] launches if each launch carries about 100 units.
@@ -34,13 +38,16 @@ The concept now has three complementary cost frames. E239 builds an orbital mode
 - New ground-cost baseline: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]] raises the ground-cost benchmark by separating semiconductor cost from power and cooling equipment for a one-gigawatt AI data center.
 - Workload-fit claim: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]] says distributed inference is more plausible than distributed training because training is more latency-sensitive.
 - Forecast and hardware branch: [[all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150]] adds Gavin Baker's late-2028 to early-2030 orbital-compute point estimate and a claim that a working [[Nvidia]] H100 is already in space with a space-designed version in development.
+- Google experiment: [[yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p]] reports a launched satellite carrying four Google AI chips and successful ground communication.
 
 ## Counterevidence & Qualifications
-The most favorable orbital case still depends on reusable-launch cost and reliability improvements that are not established in the source set. Ground data centers remain mature, serviceable, and networked. Even if launch becomes cheap, heat rejection, replacement cycles, radiation tolerance, and orbital operations can erase energy or siting advantages. The May 22 point estimate should be treated as an investor scenario, not as validated deployment evidence.
+The most favorable orbital case still depends on reusable-launch cost and reliability improvements that are not established in the source set. Ground data centers remain mature, serviceable, and networked. Even if launch becomes cheap, heat rejection, replacement cycles, radiation tolerance, and orbital operations can erase energy or siting advantages. The May 22 point estimate should be treated as an investor scenario, and the Google launch as a feasibility experiment rather than validated deployment economics.
 
 ## What Changed
 - Added the May 22 All-In orbital-compute timing and space-GPU branch.
 - Reframed point forecasts as scenario markers subordinate to launch, thermal, maintenance, and workload-fit constraints.
+- Added Google's reported four-chip satellite experiment as observed hardware testing.
+- Preserved the boundary between technical demonstration and commercial economics.
 
 ## Related Concepts
 - [[SpaceBasedAIInfrastructure]] - broader scenario this concept makes economically testable.
@@ -49,3 +56,4 @@ The most favorable orbital case still depends on reusable-launch cost and reliab
 - [[DataCenterPowerBottleneck]] - terrestrial constraint used as the comparison point.
 - [[AIComputeContinuity]] - demand-side reason orbital alternatives are considered.
 - [[AIIPOValuation]] - public-market context when orbital compute becomes part of a SpaceX funding story.
+- [[Google]] - company associated with the newest reported orbital AI-chip experiment.

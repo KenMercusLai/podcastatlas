@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10970
+wiki_total_pages: 10972
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "BadMoney"
     title: "Bad Money"
     url: "/wiki/concepts/badmoney/"
+  - key: "BadmintonInputCostInventoryCycle"
+    title: "Badminton Input-Cost Inventory Cycle"
+    url: "/wiki/concepts/badmintoninputcostinventorycycle/"
   - key: "BaggedSaladIndustrialization"
     title: "Bagged Salad Industrialization"
     url: "/wiki/concepts/baggedsaladindustrialization/"

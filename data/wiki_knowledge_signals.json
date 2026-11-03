@@ -8634,9 +8634,9 @@
       "url": "/wiki/entities/adelaideofitaly/"
     },
     "Adidas": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
@@ -8679,9 +8679,16 @@
           "show": "不懂球",
           "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
           "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-03",
       "url": "/wiki/entities/adidas/"
     },
     "AdidasSamba": {
@@ -25814,6 +25821,29 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/averybrundage/"
     },
+    "AviationFuelCostPassThrough": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "商业小样46 ｜ 买机票时，为什么总要多交两笔钱？ [1005487014].md",
+          "key": "shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014",
+          "show": "商业就是这样",
+          "title": "商业小样46 | 买机票时，为什么总要多交两笔钱？",
+          "url": "/wiki/sources/shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/aviationfuelcostpassthrough/"
+    },
     "AviationFuelSurcharge": {
       "episode_count": 3,
       "show_count": 2,
@@ -26325,9 +26355,9 @@
       "url": "/wiki/entities/bravotrial/"
     },
     "BYD": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
@@ -26363,9 +26393,16 @@
           "show": "声动早咖啡",
           "title": "千余家影院直播体育赛事，上半年国内金饰消费量下跌三成",
           "url": "/wiki/sources/qianyu-jia-yingyuan-zhibo-tiyu-saishi-shangbannian-guonei-jinshi-xiaofeiliang-xiadie-sancheng-gkwridooqlkafaplwtreagx/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-03",
       "url": "/wiki/entities/byd/"
     },
     "BaCommanderyLateHan": {
@@ -26571,6 +26608,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/badthoughts/"
+    },
+    "BadmintonInputCostInventoryCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/badmintoninputcostinventorycycle/"
     },
     "BafangElectric": {
       "episode_count": 2,
@@ -60579,9 +60632,9 @@
       "url": "/wiki/concepts/controversydrivencategorypositioning/"
     },
     "ConvenienceStoreDensityEconomics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
@@ -60589,9 +60642,16 @@
           "show": "声动早咖啡",
           "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
           "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "url": "/wiki/concepts/conveniencestoredensityeconomics/"
     },
     "ConversationAsSelfRevelation": {
@@ -105912,6 +105972,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/fourseasonsafterfilm/"
     },
+    "FourierIntelligence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/fourierintelligence/"
+    },
     "FourthAmendmentDigitalPrivacy": {
       "episode_count": 2,
       "show_count": 1,
@@ -133280,9 +133356,9 @@
       "url": "/wiki/concepts/homeimprovementwarehousemodel/"
     },
     "HomeServiceRobots": {
-      "episode_count": 6,
-      "show_count": 5,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式 [lnjlEQjGjo1TxuPOuvYgmDV7oo8B].md",
@@ -133325,9 +133401,16 @@
           "show": "商业就是这样",
           "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
           "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-03",
       "url": "/wiki/concepts/homeservicerobots/"
     },
     "HomeostaticNeuralPlasticity": {
@@ -202111,6 +202194,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/muhammadaliofegypt/"
     },
+    "Muji": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "142.日本消费者为何如此痴迷“季节限定”？｜ 串台跨海电波 [lgBjiAhLUtYYF4PaYLNYXy7hV0Iq].md",
+          "key": "142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq",
+          "show": "起朱楼宴宾客",
+          "title": "142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波",
+          "url": "/wiki/sources/142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/muji/"
+    },
     "MukeshSinger": {
       "episode_count": 1,
       "show_count": 1,
@@ -215409,9 +215515,9 @@
       "url": "/wiki/concepts/oralturnpoliticalcommunication/"
     },
     "OrbitalDataCenterEconomics": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
@@ -215440,9 +215546,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-11-03",
       "url": "/wiki/concepts/orbitaldatacentereconomics/"
     },
     "OrbitalReflectedSunlight": {
@@ -245376,6 +245489,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/retailhittemplatediffusion/"
     },
+    "RetailLocalizationDecisionRights": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/retaillocalizationdecisionrights/"
+    },
     "RetailPricingOptimization": {
       "episode_count": 1,
       "show_count": 1,
@@ -258581,9 +258710,9 @@
       "url": "/wiki/concepts/settlementterritorialclaimmaking/"
     },
     "SevenEleven": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOvNYYAHvAQQTzrPDa [GKwRIDoOvNYYAHvAQQTzrPDa].md",
@@ -258591,9 +258720,16 @@
           "show": "声动早咖啡",
           "title": "7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？",
           "url": "/wiki/sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "url": "/wiki/entities/seveneleven/"
     },
     "SevenLearnings": {
@@ -270821,9 +270957,9 @@
       "url": "/wiki/concepts/sportswearexperiencespace/"
     },
     "SportswearInventoryCycle": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
@@ -270838,9 +270974,16 @@
           "show": "不懂球",
           "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
           "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        },
+        {
+          "episode_file": "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+          "key": "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p",
+          "show": "声动早咖啡",
+          "title": "羽毛球价格回落，无印良品将向欧美复制中国经验",
+          "url": "/wiki/sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-03",
       "url": "/wiki/concepts/sportswearinventorycycle/"
     },
     "SportswearMultiBrandPortfolio": {

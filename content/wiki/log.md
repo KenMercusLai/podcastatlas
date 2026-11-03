@@ -38353,3 +38353,11 @@ Added source `vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qi
 ## [2026-11-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-03] ingest | 羽毛球价格回落，无印良品将向欧美复制中国经验
+
+Added source `yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p`; created [[FourierIntelligence|Fourier Intelligence / 傅利叶智能]], [[RetailLocalizationDecisionRights]], and [[BadmintonInputCostInventoryCycle]]; migrated [[Muji|MUJI]] and [[AviationFuelCostPassThrough]] into the synthesis-first schema; and resynthesized [[SevenEleven|7-Eleven]], [[ConvenienceStoreDensityEconomics]], [[BYD]], [[Adidas]], [[SportswearInventoryCycle]], [[HomeServiceRobots]], and [[OrbitalDataCenterEconomics]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: local decision authority can shorten product and inventory cycles without proving that one market's results transfer to another; global retail density needs differentiated demand as well as stores; home and orbital AI hardware experiments remain bounded by service reliability, trade, thermal, repair, and scale constraints; and badminton prices can reverse through interacting feather supply, capacity, inventory, and participation. No settled contradiction was adopted. Financial, sales, store, technology, capex, restriction, surcharge, price, inventory, and participation figures remain episode-scoped because the supplied file is a structured summary rather than filings, primary regulatory records, market datasets, engineering tests, or a transcript. Broad company pages without changed judgment and the automatic `wiki/overview.md` were kept closed because focused pages capture the material additions without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,807 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

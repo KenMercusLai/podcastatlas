@@ -4,7 +4,8 @@ type: concept
 tags: [retail, convenience-stores, logistics, scale, unit-economics]
 sources:
   - gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda
-last_updated: 2026-11-02
+  - yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,41 +13,45 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Convenience store density economics is the relationship between a chain's local store concentration and its ability to spread warehouse, vehicle, management, inventory, and marketing costs across frequent customer visits and rapid stock turns.
+Convenience store density economics is the relationship between a chain's local store concentration and its ability to spread warehouse, vehicle, management, inventory, marketing, and product-development costs across frequent visits and rapid stock turns.
 
 ## Current Synthesis
 
-Convenience retail needs scale in a geographically concentrated form, not just a globally large brand. Fresh food and high-frequency essentials impose replenishment, forecasting, waste, and availability demands; a dense local network lets shared infrastructure serve more stores per route and gives the brand more chances to become habitual.
+Convenience retail needs scale in a geographically concentrated form, not just a globally large brand. Fresh food and high-frequency essentials impose replenishment, forecasting, waste, and availability demands; nearby stores let shared infrastructure serve more units per route and give a brand more chances to become habitual.
 
-The [[SevenEleven|7-Eleven]] India case adds a threshold trap. Too few stores left rent, logistics, labor, inventory, electricity, and management costs insufficiently spread, but operating losses reduced the capacity to open enough stores to change those economics. A capable franchise partner supplied assets without automatically producing the customer demand or local network needed to use them efficiently.
+The [[SevenEleven|7-Eleven]] India case shows a threshold trap: sparse stores kept costs high, while operating losses constrained the expansion needed to change those economics. The Guangdong plan adds a growth-side qualification. An established network can seek greater density, but expansion remains productive only if local assortment and channel-exclusive products generate enough incremental visits amid mature competitors.
 
 ## Key Claims
 
 - Convenience-chain scale must be locally dense enough for shared logistics and management to matter.
 - Frequent visits and rapid inventory turns are necessary to cover high fixed and operating costs.
 - Fresh food raises both differentiation potential and forecasting, replenishment, and waste exposure.
-- A large partner can supply infrastructure without guaranteeing sufficient store utilization or repeat demand.
-- Sparse networks can enter a self-reinforcing trap in which high costs create losses and losses prevent density-building expansion.
+- A large partner can supply infrastructure without guaranteeing sufficient utilization or repeat demand.
+- Sparse networks can enter a loss-density trap that prevents the investment needed to reach scale.
+- Dense-market expansion still needs differentiated assortment so added stores create productive demand rather than duplicated capacity.
 
 ## Evidence
 
-- Network contrast: [[gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda]] contrasts roughly 87,000 global 7-Eleven stores with a peak of only a little over 60 in India.
-- Shared-cost mechanism: [[gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda]] says mature-market warehouses, delivery vehicles, and management teams serve multiple nearby stores.
-- Threshold failure: [[gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda]] reports that the Indian operating entity's annual net loss was almost equal to annual revenue before closure.
+- India network contrast: [[gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda]] contrasts roughly 87,000 global 7-Eleven stores with a peak of only a little over 60 in India.
+- Shared-cost and threshold mechanism: [[gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda]] says mature-market warehouses, delivery vehicles, and management teams serve multiple nearby stores, while Indian operating losses constrained expansion.
+- Guangdong densification: [[yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p]] reports a plan to grow from about 2,000 to 3,000 stores over four years.
+- Assortment complement: [[yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p]] pairs store growth with private-label beverages and supplier-developed exclusives amid strong franchise competition.
 
 ## Counterevidence & Qualifications
 
-The source does not provide store-level contribution margins, route density, rent schedules, SKU turns, shrinkage, wastage, customer frequency, or a measured break-even store count. Density is therefore a plausible operating mechanism, not a quantified universal threshold.
+The sources do not provide store-level contribution margins, route density, rent schedules, SKU turns, shrinkage, wastage, customer frequency, cannibalization, or measured break-even store counts. Density is therefore a plausible operating mechanism rather than a universal threshold, and the planned Guangdong expansion is not evidence of successful economics until store productivity and repeat demand are observed.
 
 ## What Changed
 
-- Created the concept from the 7-Eleven India exit.
+- Added Guangdong expansion as the growth-side counterpart to India's density trap.
+- Added differentiated assortment and incremental demand as conditions for productive densification.
 
 ## Related Concepts
 
 - [[RetailInventoryVelocity]] - turnover mechanism required to make small-format retail productive.
-- [[RetailSiteSelection]] - location fit that determines whether additional stores add qualified demand or only cost.
+- [[RetailSiteSelection]] - location fit determining whether additional stores add demand or only cost.
 - [[ThreeLayerScaleEconomies]] - broader framework for company, market, and ecosystem scale.
-- [[ShortShelfLifeRetailOperations]] - fresh-product case where production radius and store density must align.
-- [[LocalMarketProof]] - demand and routine evidence needed before density expansion.
-- [[AssetLightVsHeavyAssetModels]] - ownership and franchise choices that redistribute but do not erase network economics.
+- [[ShortShelfLifeRetailOperations]] - fresh-product case where production radius and store density align.
+- [[LocalMarketProof]] - evidence needed before density expansion.
+- [[RegionalRetailAssortmentComplexity]] - local demand variation that shapes store productivity.
+- [[RetailChannelComplementarity]] - differentiated supplier and private-label products that can support store demand.

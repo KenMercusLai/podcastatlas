@@ -9,8 +9,9 @@ sources:
   - vol-264-ba-shijiebei-zuowei-fangfa-999416048
   - kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166
   - vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15
+  - yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-07
+last_updated: 2026-11-03
 ---
 
 # Adidas
@@ -27,6 +28,8 @@ The newer ballet-footwear source does not replace the prior turnaround thesis. I
 
 In the competitive-cycle layer, Adidas' current strength is read less as permanent dominance than as [[BrandDNAConsumerCycleFit]]: football shirts, trefoil club products, [[AdidasSamba|Samba]]-style archive depth, fashion collaborations, and daily-wear design currently match a consumer mood that is less tolerant of hype and more interested in practical, retro, low-risk products.
 
+The latest roundup reports record quarterly revenue and operating profit and fourteen consecutive quarters of Greater China revenue growth. More importantly for the existing synthesis, it attributes shorter product-development cycles and lower inventory needs to China-based design, production, and marketing teams, connecting local decision rights directly to inventory discipline.
+
 ## Key Characteristics
 
 - Adidas combines performance proof with lifestyle translation rather than keeping running technology and fashion demand separate.
@@ -35,7 +38,7 @@ In the competitive-cycle layer, Adidas' current strength is read less as permane
 - [[AdidasSamba|Samba]] gives Adidas an archive-based revival case that is lower-risk than celebrity-concentrated [[Yeezy]] demand.
 - Ballet-coded sneakers extend Adidas' lifestyle playbook by refreshing thin-sole silhouettes with softer, more refined visual cues.
 - Adidas' current advantage over [[Nike]] is partly cycle fit: football lifestyle products, archive depth, and practical retro styling align with present consumer sentiment.
-- The company remains exposed to fashion-cycle saturation, challenger brands, inventory buildup, and marketing-spend tradeoffs.
+- Local design, production, and marketing authority can shorten China product cycles and reduce inventory needs, while the company remains exposed to fashion saturation and challenger brands.
 
 ## Evidence
 
@@ -45,6 +48,7 @@ In the competitive-cycle layer, Adidas' current strength is read less as permane
 - **Ballet-coded refresh:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] names Adidas among sportswear brands adding satin ribbons, pale colors, straps, bows, and ballet-flat references to sneaker products.
 - **Brand-cycle fit:** [[vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15]] argues that Adidas' retro archive, football aesthetics, daily-wear orientation, and fashion collaboration system fit the current [[SportsLifestyleConsumption|sports lifestyle]] cycle better than Nike's scarcity and performance-first story.
 - **Saturation risk:** [[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] and [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] both imply that recovery and product heat remain vulnerable once scarcity fades or competitors copy the silhouette.
+- **Current China execution:** [[yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p]] reports record quarterly results, fourteen consecutive quarters of Greater China growth, and local teams that shorten development cycles and lower inventory needs.
 
 ## Qualifications
 
@@ -53,11 +57,14 @@ In the competitive-cycle layer, Adidas' current strength is read less as permane
 - Ballet-coded sneakers are treated as a fashion-cycle and product-extension signal, not as evidence that Adidas has solved deeper performance, channel, or margin questions.
 - The Budongqiu comparison treats Adidas' present edge over Nike as period-specific, not as proof that Nike's basketball, North America, pricing, or running-shoe assets have disappeared.
 - The wiki does not collapse Adidas' running, football, and lifestyle businesses into one cause; different sources emphasize different operating levers.
+- The newest revenue, profit, China-growth, cycle-time, and inventory claims remain episode-scoped rather than independently verified causal evidence.
 
 ## What Changed
 
 - Added Budongqiu's Adidas-versus-Nike comparison as a brand-DNA and consumer-cycle-fit layer.
 - Preserved the recovery thesis while qualifying it with thin-sole saturation and period-specific momentum risk.
+- Added current Greater China growth and locally integrated design, production, and marketing.
+- Connected local decision authority to development speed and inventory discipline.
 
 ## Relationships
 
@@ -68,3 +75,4 @@ In the competitive-cycle layer, Adidas' current strength is read less as permane
 - [[RetroProductRevival]] - Adidas shows how archive lines can become operating-recovery tools.
 - [[SportswearInventoryCycle]] - inventory repair remains a major constraint on the durability of Adidas' recovery.
 - [[BrandDNAConsumerCycleFit]] - explains why Adidas' archive and football-lifestyle identity currently reads better than Nike's performance-first identity.
+- [[RetailLocalizationDecisionRights]] - local organization link between market fit, development speed, and inventory needs.

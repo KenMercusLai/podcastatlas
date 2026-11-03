@@ -18199,6 +18199,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BadmintonInputCostInventoryCycle": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Baghdad": [
     {
       "key": "culture",
@@ -39955,6 +39962,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "FourierIntelligence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FourierSpatialEncoding": [
@@ -113274,6 +113288,13 @@
     }
   ],
   "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p": [
     {
       "key": "technology",
       "label": "Technology",
