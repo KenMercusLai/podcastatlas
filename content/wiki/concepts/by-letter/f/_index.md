@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10968
+wiki_total_pages: 10970
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "FragmentedCeasefireEnforcement"
     title: "Fragmented Ceasefire Enforcement"
     url: "/wiki/concepts/fragmentedceasefireenforcement/"
+  - key: "FragmentedMemoryNarrative"
+    title: "Fragmented Memory Narrative / 碎片化记忆叙事"
+    url: "/wiki/concepts/fragmentedmemorynarrative/"
   - key: "FragmentedVideoEventReconstruction"
     title: "Fragmented Video Event Reconstruction / 碎片影像事件重构"
     url: "/wiki/concepts/fragmentedvideoeventreconstruction/"

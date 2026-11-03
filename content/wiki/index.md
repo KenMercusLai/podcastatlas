@@ -4916,6 +4916,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《长线至胜》：资本集团如何把长期主义变成组织能力](sources/lossad1trayjdp11pbjiywrxy43o.md) — 面基对谈番杰，以资本集团的私有所有权、代际让利、人才制度、多基金经理制和客户冲突选择解释组织长期主义，并映照中国公募基金的规模、排名与持有人回报矛盾。
 - [They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan](sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305.md) — Tomorrow Today dramatized narrative on cognitive-difference reframing, brotherly reconciliation, associative AI, and the evidence boundary around lunar and water-treatment claims.
 
+- [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
+
 ## Entities
 - [Harry Houdini](entities/HarryHoudini.md) — Escape artist whose durable fame joined athletic craft, historical research, public spectacle, new-media adoption, and identity protection.
 - [Tina Barton](entities/TinaBarton.md) — Election official whose corrected tally error became a threat case and motivation for preparedness exercises.
@@ -18852,6 +18854,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Kontorovich](entities/AlexKontorovich.md) — Rutgers mathematician distinguishing machine-checked proof from explanation, understanding, and evidence of personal mastery.
 - [Ashok Natarajan](entities/AshokNatarajan.md) — Source-scoped figure whose dramatized story connects cognitive difference, family recognition, associative creativity, and the proposed “Ashok's Sight” system.
 
+- [索耳 / Suo Er](entities/SuoEr.md) — 《零丁世》作者，以南方方言、迁徙历史、边缘生存与非人世界组织多中心叙事。
+- [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
+
 ## Concepts
 - [Election Interference Preparedness](concepts/ElectionInterferencePreparedness.md) — Advance rehearsal of legal, operational, communication, and security responses to election-day intimidation or disruption.
 - [Property–Equity Wealth Shift](concepts/PropertyEquityWealthShift.md) — Comparative shift from property-centered wealth expectations toward renting and equity investing without treating either asset as safe.
@@ -29917,5 +29922,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Foundation Model Value-Capture Expansion](concepts/FoundationModelValueCaptureExpansion.md) — Move from selling model access toward participating in workflows, products, transactions, and measurable outcomes.
 - [Demonstrable Understanding Under AI](concepts/DemonstrableUnderstandingUnderAI.md) — Assessment boundary separating artifact quality from personal mastery, authorship, originality, and responsibility.
 - [Cognitive Difference Reframing](concepts/CognitiveDifferenceReframing.md) — Shift from defect-first labeling toward dignity, support, capability, and evidence without making worth contingent on hidden genius.
+
+- [Fragmented Memory Narrative / 碎片化记忆叙事](concepts/FragmentedMemoryNarrative.md) — 让访谈、书信、物件、重复故事与变动视角累积关联，却不恢复唯一权威过去的文学形式。
+- [Migration and Identity Rupture / 迁徙与身份断裂](concepts/MigrationIdentityRupture.md) — 将离开理解为地理移动与语言、生计、亲缘、地位及归属重组同时发生的分析框架。
 
 ## Syntheses

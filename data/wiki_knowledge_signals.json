@@ -73606,9 +73606,9 @@
       "url": "/wiki/concepts/dialectconstrainedsongwriting/"
     },
     "DialectRevivalIdentity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhYO15CL0I3lZhsnz22jBM888Zzk [lhYO15CL0I3lZhsnz22jBM888Zzk].md",
@@ -73616,9 +73616,16 @@
           "show": "Talk三联",
           "title": "EP290 方言翻红：现在的年轻人，为啥爱上说“土话”？",
           "url": "/wiki/sources/ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk/"
+        },
+        {
+          "episode_file": "GKwRIW4OuvLSArR0NATyncMI [GKwRIW4OuvLSArR0NATyncMI].md",
+          "key": "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi",
+          "show": "文化有限",
+          "title": "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱",
+          "url": "/wiki/sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi/"
         }
       ],
-      "updated": "2026-10-24",
+      "updated": "2026-11-03",
       "url": "/wiki/concepts/dialectrevivalidentity/"
     },
     "DialogicAILiteracy": {
@@ -105966,6 +105973,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/foxconnindustrialinternet/"
+    },
+    "FragmentedMemoryNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OuvLSArR0NATyncMI [GKwRIW4OuvLSArR0NATyncMI].md",
+          "key": "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi",
+          "show": "文化有限",
+          "title": "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱",
+          "url": "/wiki/sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/fragmentedmemorynarrative/"
     },
     "FragmentedVideoEventReconstruction": {
       "episode_count": 1,
@@ -171923,6 +171946,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/lingcaolatehan/"
     },
+    "LingDingShi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OuvLSArR0NATyncMI [GKwRIW4OuvLSArR0NATyncMI].md",
+          "key": "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi",
+          "show": "文化有限",
+          "title": "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱",
+          "url": "/wiki/sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/lingdingshi/"
+    },
     "LingTong": {
       "episode_count": 3,
       "show_count": 1,
@@ -196849,6 +196888,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/migranthistoricalagency/"
+    },
+    "MigrationIdentityRupture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OuvLSArR0NATyncMI [GKwRIW4OuvLSArR0NATyncMI].md",
+          "key": "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi",
+          "show": "文化有限",
+          "title": "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱",
+          "url": "/wiki/sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/migrationidentityrupture/"
     },
     "MigrationWeaponization": {
       "episode_count": 2,
@@ -277292,6 +277347,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/suobanlatehan/"
+    },
+    "SuoEr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OuvLSArR0NATyncMI [GKwRIW4OuvLSArR0NATyncMI].md",
+          "key": "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi",
+          "show": "文化有限",
+          "title": "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱",
+          "url": "/wiki/sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/entities/suoer/"
     },
     "SuoyiSong": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13852
+wiki_total_pages: 13854
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2945,6 +2945,9 @@ wiki_pages:
   - key: "SuoBanLateHan"
     title: "索班 / Suo Ban (late Han)"
     url: "/wiki/entities/suobanlatehan/"
+  - key: "SuoEr"
+    title: "索耳 / Suo Er"
+    url: "/wiki/entities/suoer/"
   - key: "ShukeBeta"
     title: "舒克贝塔 / Shuke and Beta"
     url: "/wiki/entities/shukebeta/"

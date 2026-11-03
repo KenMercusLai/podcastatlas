@@ -38345,3 +38345,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-03] ingest | Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱
+
+Added source `vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi`; created [[SuoEr|索耳]], [[LingDingShi|《零丁世》]], [[FragmentedMemoryNarrative]], and [[MigrationIdentityRupture]]; and resynthesized [[DialectRevivalIdentity]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the novel's guava-like structure makes incomplete connection rather than final solution its historical method; migration breaks and remakes language, livelihood, status, and belonging across distinct causes; and dialect can organize literary character, labor, belief, kinship, and historical memory while remaining a genuine reading barrier. No settled contradiction was adopted. Plot, quotation, biography, dialect, historical, and author-intention claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, published novel, primary interview, or historical and linguistic study. The broad [[CultureLimited|文化有限]] profile and automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening a much larger unchanged evidence inventory or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,806 sources across 806 overview paragraphs and nine topics. Changed-page source inventories, index and log coverage, identities, knowledge schema, whitespace, derived synthesis, health, and publish validation passed.
+
+## [2026-11-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10968
+wiki_total_pages: 10970
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1037,6 +1037,9 @@ wiki_pages:
   - key: "MigrantCityBelonging"
     title: "Migrant-City Belonging / 移民城市归属"
     url: "/wiki/concepts/migrantcitybelonging/"
+  - key: "MigrationIdentityRupture"
+    title: "Migration and Identity Rupture / 迁徙与身份断裂"
+    url: "/wiki/concepts/migrationidentityrupture/"
   - key: "MigrationWeaponization"
     title: "Migration Weaponization"
     url: "/wiki/concepts/migrationweaponization/"

@@ -4,7 +4,8 @@ type: concept
 tags: [dialect, identity, migration, memory, family, language-shift]
 sources:
   - ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk
-last_updated: 2026-10-24
+  - vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,9 +17,9 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-The source treats dialect revival as more than renewed consumption of a quaint or comic sound. Mandarin education, mixed-family environments, mobility, and national media can reduce everyday competence or make speakers ashamed of an accent. Distance later reverses the salience: once people leave home, the language they partly lost may become one of the clearest carriers of grandparents, neighborhood life, and experiences not interchangeable with urban peers elsewhere.
+The sources treat dialect identity as more than renewed consumption of a quaint or comic sound. Mandarin education, mixed-family environments, mobility, and national media can reduce everyday competence or make speakers ashamed of an accent. Distance later reverses the salience: once people leave home, the language they partly lost may become one of the clearest carriers of grandparents, neighborhood life, and experiences not interchangeable with urban peers elsewhere.
 
-Creative revival does not require an untouched language inheritance. [[Yamy]] deliberately rebuilt Cantonese expressive resources; [[LanLao|揽佬]] foregrounded mixed Guangdong speech shaped by family and urban mobility; short-video creators returned to the dialect they actually used with relatives after Mandarin performance felt unnatural. The current judgment is therefore relational: dialect can anchor identity precisely because it has been weakened, mixed, or made situational.
+Creative revival does not require an untouched language inheritance. [[Yamy]] deliberately rebuilt Cantonese expressive resources; [[LanLao|揽佬]] foregrounded mixed Guangdong speech shaped by family and urban mobility; short-video creators returned to the dialect they actually used with relatives after Mandarin performance felt unnatural. [[LingDingShi|《零丁世》]] adds a literary branch: multiple southern speech varieties locate characters within kinship, work, belief, port life, water-based livelihood, and migration history, while forcing readers outside those communities to tolerate partial comprehension. The current judgment is relational: dialect can anchor identity precisely because it has been weakened, mixed, made situational, or carried into a new narrative setting.
 
 ## Key Claims
 
@@ -28,6 +29,7 @@ Creative revival does not require an untouched language inheritance. [[Yamy]] de
 - Shared dialect performance can temporarily assemble a community even when participants use Mandarin in most surrounding spaces.
 - Local words can preserve relational attitudes and ways of living that literal translation only partly carries.
 - Dialect identity remains plural: a shared language does not erase subregional, class, generational, or migration differences.
+- In fiction, dialect can organize character, history, labor, and worldview rather than merely authenticate setting.
 
 ## Evidence
 
@@ -43,14 +45,18 @@ Creative revival does not require an untouched language inheritance. [[Yamy]] de
 
 - [[ep290-fangyan-fanhong-xianzai-de-nianqingren-weisha-aishang-shuo-tuhua-lhyo15cl0i3lzhsnz22jbm888zzk]] reports viewers recalling deceased relatives through a local word and Cantonese stand-up audiences valuing the brief experience of an all-Cantonese venue.
 
+### Literary character and historical world
+
+- [[vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi]] describes Fujian, Cantonese, Teochew, Leizhou, Hakka, Hubei, and mixed speech as carriers of kinship, class, occupation, belief, migration, and regional sound in [[LingDingShi|《零丁世》]].
+
 ## Counterevidence & Qualifications
 
-The episode's cases are not a demographic study and concentrate heavily on Cantonese and selected short-video creators. Renewed visibility does not prove recovery in household transmission or everyday competence. Dialect can mark exclusion and shame as well as belonging, and mixed forms should not be judged against an imagined pure local language without evidence. The psychological interpretations are reported experiences, not universal consequences of language shift.
+The sources are not demographic or comparative linguistic studies. The contemporary-media cases concentrate heavily on Cantonese and selected short-video creators, while the literary case is filtered through a podcast summary rather than direct linguistic analysis of the novel. Renewed visibility does not prove recovery in household transmission or everyday competence. Dialect can mark exclusion and shame as well as belonging, and mixed forms should not be judged against an imagined pure local language without evidence. Reader difficulty may be an intended estrangement effect, an access barrier, or both.
 
 ## What Changed
 
-- Established a framework connecting dialect revival with language loss, migration, family memory, and temporary community.
-- Defined revival broadly enough to include relearning and mixed speech while preserving internal regional differences.
+- Extended the framework from public revival and performance into dialect-based literary world-building.
+- Added reading difficulty and partial comprehension as qualifications on dialect's cultural value.
 
 ## Related Concepts
 
@@ -59,3 +65,5 @@ The episode's cases are not a demographic study and concentrate heavily on Canto
 - [[SocialImmersionLanguageLearning]] - neighboring mechanism for rebuilding language through repeated exposure and participation.
 - [[GroupBoundaryLanguage]] - broader account of language as a marker of belonging and distinction.
 - [[DialectConstrainedSongwriting]] - musical practice in which local language shapes both expression and audience reach.
+- [[MigrationIdentityRupture]] - explains why language can become continuity and exclusion during movement.
+- [[FragmentedMemoryNarrative]] - neighboring literary form in which speech joins incomplete family and historical traces.
