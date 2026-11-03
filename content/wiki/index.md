@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解](sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha.md) — 这病说来话长 connects climate-adaptive barrier care and year-round photoaging prevention with skin-readiness, recovery, and event timing for medical-aesthetic procedures.
 - [187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇](sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49.md) — 起朱楼宴宾客对话凌华薇，以类金融机构、自融、资金池、底层资产、飞单、跨境路径和沉没成本拆解普通投资者的风险识别与止损框架。
 - [Behind the scenes of an abandoned cyber-scam compound](sources/tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128.md) — Marketplace Tech report on a deserted Cambodian scam compound, fraudulent crypto applications, trafficked workers, seized devices, and criminal networks dispersing after large-site closures.
 - [Fertile ambitions: scientists’ plans to slow the biological clock](sources/fertile-ambitions-scientists-plans-to-slow-the-biological-clock-af2ae76188ebcf343b3d16674c4c73ef.md) — Economist Podcasts links preclinical egg chromosome stabilization, post-2020 Belarusian cultural suppression, and biltong’s multicultural history and global spread.
@@ -18882,6 +18883,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Medical-Aesthetic Procedure Timing / 医美项目时机选择](concepts/MedicalAestheticProcedureTiming.md) — Matching elective procedures to barrier integrity, recent exposure, healing burden, result-settling time, and event deadlines.
 - [Forced Scam Labor](concepts/ForcedScamLabor.md) — Trafficking pattern in which deceptive recruitment, passport confiscation, threats, or violence coerce workers into committing online fraud.
 - [Oocyte Chromosome Stabilization](concepts/OocyteChromosomeStabilization.md) — Preclinical strategy for protecting chromosome cohesion during egg maturation to reduce aneuploidy before embryo formation.
 - [Belarusian Cultural Suppression](concepts/BelarusianCulturalSuppression.md) — Post-2020 removal of Belarusian national expression alongside stronger Russian narratives in public institutions.

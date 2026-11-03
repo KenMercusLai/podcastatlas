@@ -61721,9 +61721,9 @@
       "url": "/wiki/entities/cosimoimedici/"
     },
     "CosmeticProcedureExpectationManagement": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -61745,9 +61745,16 @@
           "show": "这病说来话长",
           "title": "VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比",
           "url": "/wiki/sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns/"
+        },
+        {
+          "episode_file": "lom9wRBHql1DCUQw2Ich_OpeCYHa [lom9wRBHql1DCUQw2Ich_OpeCYHa].md",
+          "key": "vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha",
+          "show": "这病说来话长",
+          "title": "VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解",
+          "url": "/wiki/sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
     },
     "CosmeticWoundClosurePlanning": {
@@ -192691,6 +192698,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/medicalaiworkflowintegration/"
     },
+    "MedicalAestheticProcedureTiming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lom9wRBHql1DCUQw2Ich_OpeCYHa [lom9wRBHql1DCUQw2Ich_OpeCYHa].md",
+          "key": "vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha",
+          "show": "这病说来话长",
+          "title": "VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解",
+          "url": "/wiki/sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/medicalaestheticproceduretiming/"
+    },
     "MedicalAestheticProviderVerification": {
       "episode_count": 4,
       "show_count": 1,
@@ -265852,9 +265875,9 @@
       "url": "/wiki/entities/skims/"
     },
     "SkinBarrierRoutine": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -265883,9 +265906,16 @@
           "show": "这病说来话长",
           "title": "VOL.167 早C晚A的A到底好在哪？为什么懂皮肤的人都在用？ft.大物是也·小龙",
           "url": "/wiki/sources/vol-167-zao-c-wan-a-de-a-daodi-hao-zai-na-weishenme-dong-pifu-de-ren-dou-zai-yong-ft-dawushiye-xiaolong-lh3viv78kxk8ifm7t6tbrtqxxk4h/"
+        },
+        {
+          "episode_file": "lom9wRBHql1DCUQw2Ich_OpeCYHa [lom9wRBHql1DCUQw2Ich_OpeCYHa].md",
+          "key": "vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha",
+          "show": "这病说来话长",
+          "title": "VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解",
+          "url": "/wiki/sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/skinbarrierroutine/"
     },
     "SkippingPlyometricProgression": {
@@ -294328,9 +294358,9 @@
       "url": "/wiki/concepts/uvbsystemiclightsignaling/"
     },
     "UVExposureSkinProtection": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -294366,9 +294396,16 @@
           "show": "这病说来话长",
           "title": "VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法",
           "url": "/wiki/sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c/"
+        },
+        {
+          "episode_file": "lom9wRBHql1DCUQw2Ich_OpeCYHa [lom9wRBHql1DCUQw2Ich_OpeCYHa].md",
+          "key": "vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha",
+          "show": "这病说来话长",
+          "title": "VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解",
+          "url": "/wiki/sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/uvexposureskinprotection/"
     },
     "UXCoffee": {

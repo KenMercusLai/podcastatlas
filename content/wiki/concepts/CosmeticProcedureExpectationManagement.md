@@ -6,7 +6,8 @@ sources:
   - vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk
   - vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5
   - vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns
-last_updated: 2026-09-30
+  - vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha
+last_updated: 2026-11-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,12 +25,14 @@ VOL.137 adds a novice sequence: compare benefit with probability and severity of
 
 VOL.04 adds two expectation checks that precede purchase: a photograph is not a reproducible three-dimensional plan because anatomy constrains what can be changed, and device-based tightening may be periodic maintenance with bounded effects rather than a one-time reversal of marked laxity. It also treats an implausibly low quote as a prompt to ask which consumables, credentials, sterile controls, or follow-up capacity may be missing.
 
+VOL.226 adds goal decomposition and time. “Look younger” is not yet a treatment target, and one procedure should not be expected to whiten, tighten, reduce pores, reshape the nose and chin, and redefine the jawline at once. A useful consultation separates primary from secondary concerns, distinguishes skin-quality and contour goals, and plans backward from skin readiness, downtime, bruising, needle marks, result-settling time, travel, and important events. Medical aesthetics may complement but cannot replace sleep, exposure reduction, ordinary skin care, emotional health, or broader health management.
+
 ## Key Claims
 - Cosmetic care requires both the patient's goals and the clinician's medical, aesthetic, functional, and psychological judgment.
 - Consent does not require a clinician to perform a procedure whose serious risk outweighs likely benefit; oversized implants, healthy-tissue removal, maximal excision, or all-at-once treatment may require redirection, staging, or refusal.
 - Relationship distress or diffuse life dissatisfaction can be mislocated onto a perceived appearance defect.
 - Social-media trends and commercial incentives can amplify demand for procedures beyond clear individual indications.
-- A first procedure should not be treated as a bundle purchase; pain, downtime, aftercare, uncertainty, incision, scarring, functional cost, duration, and material removal are all part of the expected outcome.
+- A first procedure should not be treated as a bundle purchase; goals should be prioritized, and pain, downtime, aftercare, uncertainty, incision, scarring, functional cost, duration, material removal, and result-settling time are all part of the expected outcome.
 - A healthy result is not simply the largest visible change; it is an improvement compatible with safety, function, recovery, and the person's underlying goals.
 - Photographs, famous faces, named devices, and low prices do not guarantee reproducible outcomes; anatomy, operator skill, treatment parameters, maintenance, and real delivery costs remain part of the expected result.
 
@@ -42,14 +45,17 @@ VOL.04 adds two expectation checks that precede purchase: a photograph is not a 
 - Irreversibility and function: [[vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5]] treats scars, mature techniques and materials, removability, permanent injury, muscle function, and work constraints as part of the decision.
 - Anatomy and maintenance: [[vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns|VOL.04]] rejects photograph-as-template promises and frames energy-based tightening as bounded maintenance rather than guaranteed one-session reversal.
 - Price and delivery reality: [[vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns|VOL.04]] links unusually low prices to questions about consumables, facility overhead, staffing, product source, and operator qualification without treating higher price as sufficient proof of quality.
+- Goal decomposition: [[vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha|VOL.226]] distinguishes diffuse youthfulness from prioritized skin-quality or contour concerns and rejects expecting one procedure to deliver every desired facial change.
+- Recovery and maintenance horizon: [[vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha|VOL.226]] places temporary effects, barrier recovery, needle marks, bruising, and the interval before results settle inside pre-procedure planning.
+- Foundation boundary: [[vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha|VOL.226]] treats medical aesthetics as an adjunct rather than a substitute for daily care, sleep, emotion, smoking and alcohol reduction, and health management.
 
 ## Counterevidence & Qualifications
-The sources do not diagnose body dysmorphic disorder or claim that aesthetic desire is inherently pathological. They also do not establish universal thresholds for implants, excision, staging, first-procedure choice, device frequency, price, or refusal. Individual anatomy, disease, goals, function, mental health, pain tolerance, work constraints, recovery capacity, and alternatives require direct assessment by appropriately qualified professionals. Personal treatment reports and VOL.04's China-South Korea aesthetic comparisons do not establish general candidacy, national clinical quality, or effect.
+The sources do not diagnose body dysmorphic disorder or claim that aesthetic desire is inherently pathological. They also do not establish universal thresholds for implants, excision, staging, first-procedure choice, device frequency, price, procedure timing, recovery, peak effect, or refusal. Individual anatomy, disease, goals, function, mental health, pain tolerance, work constraints, recovery capacity, event tolerance, and alternatives require direct assessment by appropriately qualified professionals. Personal treatment reports and VOL.04's China-South Korea aesthetic comparisons do not establish general candidacy, national clinical quality, or effect.
 
 ## What Changed
-- Added anatomy-matched planning as a boundary against photograph-as-template promises.
-- Added maintenance frequency and bounded device effects to pre-procedure expectations.
-- Added a cost-plausibility check without treating high price as proof of quality.
+- Added explicit decomposition of diffuse appearance wishes into prioritized skin-quality and contour goals.
+- Added recovery and result-settling time to event-backward planning.
+- Clarified that medical aesthetics complements rather than replaces daily care and health management.
 
 ## Related Concepts
 - [[MedicalAestheticProviderVerification]] - qualified institution and clinician needed for credible expectation setting.
@@ -59,3 +65,4 @@ The sources do not diagnose body dysmorphic disorder or claim that aesthetic des
 - [[MedicalRiskManagement]] - severe harm and complication probability constrain elective choice.
 - [[BeautyProblemNaming]] - platform mechanism that turns appearance variation into a searchable problem.
 - [[UnapprovedMedicalAestheticProducts]] - material identity and removability constrain what counts as an acceptable result.
+- [[MedicalAestheticProcedureTiming]] - links expectations to skin readiness, downtime, and event deadlines.

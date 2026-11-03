@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10986
+wiki_total_pages: 10987
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "MedicalVisualHistory"
     title: "Medical Visual History"
     url: "/wiki/concepts/medicalvisualhistory/"
+  - key: "MedicalAestheticProcedureTiming"
+    title: "Medical-Aesthetic Procedure Timing / 医美项目时机选择"
+    url: "/wiki/concepts/medicalaestheticproceduretiming/"
   - key: "MedicalAestheticProviderVerification"
     title: "Medical-Aesthetic Provider Verification / 医美机构与医生验真"
     url: "/wiki/concepts/medicalaestheticproviderverification/"
