@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 13861
+wiki_total_pages: 13866
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "Outrank"
     title: "Outrank"
     url: "/wiki/entities/outrank/"
+  - key: "OvaLabs"
+    title: "OvaLabs"
+    url: "/wiki/entities/ovalabs/"
   - key: "OverStory"
     title: "OverStory"
     url: "/wiki/entities/overstory/"

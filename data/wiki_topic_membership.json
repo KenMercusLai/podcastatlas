@@ -36344,6 +36344,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EuploidBiotechnologies": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Euripides": [
     {
       "key": "culture",
@@ -67994,6 +68001,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OocyteChromosomeStabilization": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "OonaONeill": [
     {
       "key": "culture",
@@ -68955,6 +68969,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "OvaLabs": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "OverPersonalizedCrisisDiplomacy": [

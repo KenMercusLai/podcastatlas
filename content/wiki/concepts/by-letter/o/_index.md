@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 10983
+wiki_total_pages: 10985
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "OnnaMusha"
     title: "Onna-musha"
     url: "/wiki/concepts/onnamusha/"
+  - key: "OocyteChromosomeStabilization"
+    title: "Oocyte Chromosome Stabilization"
+    url: "/wiki/concepts/oocytechromosomestabilization/"
   - key: "OpaqueHiringMarket"
     title: "Opaque Hiring Market / 不透明招聘市场"
     url: "/wiki/concepts/opaquehiringmarket/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 10983
+wiki_total_pages: 10985
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "BeipingOfficeWorld"
     title: "Beiping Office World"
     url: "/wiki/concepts/beipingofficeworld/"
+  - key: "BelarusianCulturalSuppression"
+    title: "Belarusian Cultural Suppression"
+    url: "/wiki/concepts/belarusianculturalsuppression/"
   - key: "BelgianAtrocityPropaganda1914"
     title: "Belgian Atrocity and Propaganda Problem (1914)"
     url: "/wiki/concepts/belgianatrocitypropaganda1914/"

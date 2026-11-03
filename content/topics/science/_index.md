@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1620
+topic_total_pages: 1623
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1669,6 +1669,9 @@ topic_concepts:
   - key: "OnlineAggressionPsychology"
     title: "Online Aggression Psychology / 网络攻击心理机制"
     url: "/wiki/concepts/onlineaggressionpsychology/"
+  - key: "OocyteChromosomeStabilization"
+    title: "Oocyte Chromosome Stabilization"
+    url: "/wiki/concepts/oocytechromosomestabilization/"
   - key: "OpenScientificCriticism"
     title: "Open Scientific Criticism"
     url: "/wiki/concepts/openscientificcriticism/"
@@ -2936,6 +2939,9 @@ topic_entities:
   - key: "EthanKross"
     title: "Ethan Kross"
     url: "/wiki/entities/ethankross/"
+  - key: "EuploidBiotechnologies"
+    title: "Euploid Biotechnologies"
+    url: "/wiki/entities/euploidbiotechnologies/"
   - key: "EveryCure"
     title: "Every Cure"
     url: "/wiki/entities/everycure/"
@@ -3302,6 +3308,9 @@ topic_entities:
   - key: "OuraRing"
     title: "Oura Ring"
     url: "/wiki/entities/ouraring/"
+  - key: "OvaLabs"
+    title: "OvaLabs"
+    url: "/wiki/entities/ovalabs/"
   - key: "OverStory"
     title: "OverStory"
     url: "/wiki/entities/overstory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13861
+wiki_total_pages: 13866
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "BeingAndNothingness"
     title: "Being and Nothingness / 《存在与虚无》"
     url: "/wiki/entities/beingandnothingness/"
+  - key: "Belarus"
+    title: "Belarus"
+    url: "/wiki/entities/belarus/"
   - key: "Belfast"
     title: "Belfast"
     url: "/wiki/entities/belfast/"
@@ -752,6 +755,9 @@ wiki_pages:
   - key: "BillyReid"
     title: "Billy Reid"
     url: "/wiki/entities/billyreid/"
+  - key: "Biltong"
+    title: "Biltong"
+    url: "/wiki/entities/biltong/"
   - key: "Binance"
     title: "Binance"
     url: "/wiki/entities/binance/"

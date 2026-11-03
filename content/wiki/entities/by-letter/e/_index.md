@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 13861
+wiki_total_pages: 13866
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "Eumaeus"
     title: "Eumaeus"
     url: "/wiki/entities/eumaeus/"
+  - key: "EuploidBiotechnologies"
+    title: "Euploid Biotechnologies"
+    url: "/wiki/entities/euploidbiotechnologies/"
   - key: "EurekaTherapeutics"
     title: "Eureka Therapeutics"
     url: "/wiki/entities/eurekatherapeutics/"

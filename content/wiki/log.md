@@ -38396,3 +38396,11 @@ Added source `lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs`; created 
 ## [2026-11-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-03] ingest | Fertile ambitions: scientists’ plans to slow the biological clock
+
+Added source `fertile-ambitions-scientists-plans-to-slow-the-biological-clock-af2ae76188ebcf343b3d16674c4c73ef`; created [[OvaLabs]], [[EuploidBiotechnologies]], [[Belarus]], [[AlexanderLukashenko]], [[Biltong]], [[OocyteChromosomeStabilization]], and [[BelarusianCulturalSuppression]]; and resynthesized [[OvarianReserveAMHInterpretation]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: experimental cohesion protection targets egg chromosome handling rather than ovarian reserve but remains preclinical; Belarusian cultural suppression operates through both removal of national expression and substitution with Russian narratives while culture persists underground and in exile; and biltong is a layered preservation tradition whose Indigenous, colonial, trade-route, racial, everyday, and global histories resist single-community ownership. No settled contradiction was adopted. Molecular mechanisms, aneuploidy rates, company programs, political examples, and food-origin claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, trial record, primary political archive, or culinary-history corpus. Broad [[EconomistPodcasts]], [[Russia]], [[SouthAfrica]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,813 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
