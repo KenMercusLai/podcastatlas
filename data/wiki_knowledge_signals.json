@@ -83742,9 +83742,9 @@
       "url": "/wiki/concepts/effectivealtruism/"
     },
     "EffectiveConfusionOdysseyPeriod": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhhbpNEtzQJeGv6y1V2x9MAiQrtB [lhhbpNEtzQJeGv6y1V2x9MAiQrtB].md",
@@ -83752,9 +83752,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？",
           "url": "/wiki/sources/shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb/"
+        },
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/effectiveconfusionodysseyperiod/"
     },
     "EfficiencyWithoutDignity": {
@@ -97255,9 +97262,9 @@
       "url": "/wiki/concepts/familiarpainrelationshippattern/"
     },
     "FamilyAnxietyTransmission": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -97265,9 +97272,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待",
           "url": "/wiki/sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh/"
+        },
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/familyanxietytransmission/"
     },
     "FamilyBusinessScaling": {
@@ -235409,6 +235423,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
+    "ProtectiveFamilyDistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/protectivefamilydistance/"
+    },
     "ProteinBodyCompositionLever": {
       "episode_count": 7,
       "show_count": 1,
@@ -243923,6 +243953,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/relationalselfconceptselection/"
+    },
+    "RelationalSelfWorthFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/relationalselfworthfeedback/"
     },
     "RelationalSignalCoalitionFracture": {
       "episode_count": 1,
@@ -257872,9 +257918,9 @@
       "url": "/wiki/concepts/secularbuddhismappeal/"
     },
     "SecureAttachmentExploration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lj_C37-AbvR5oA0A7vbhVl93PViA [lj_C37-AbvR5oA0A7vbhVl93PViA].md",
@@ -257882,9 +257928,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善",
           "url": "/wiki/sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia/"
+        },
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/secureattachmentexploration/"
     },
     "SecuritiesExchangeCompany": {
@@ -262859,9 +262912,9 @@
       "url": "/wiki/entities/shidewesternhan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -262946,9 +262999,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说477期 - 咨询师回信：理解什么是恶，才能主动选择为善",
           "url": "/wiki/sources/shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia/"
+        },
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-04",
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiFenWesternHan": {
@@ -273722,9 +273782,9 @@
       "url": "/wiki/entities/stevehilton/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -273809,9 +273869,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说470期 - 咨询师回信：该不该与伴侣聊前任？怎么聊才会有好结果？",
           "url": "/wiki/sources/shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqpe_vydmwj62bjdgnrx73-haaa/"
+        },
+        {
+          "episode_file": "lkTMQGqMoN5sjHXL8dZ4xKhmN_DN [lkTMQGqMoN5sjHXL8dZ4xKhmN_DN].md",
+          "key": "shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？",
+          "url": "/wiki/sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-04",
       "url": "/wiki/entities/steveshidifushuohost/"
     },
     "SteveYoungMelanomaPatient": {

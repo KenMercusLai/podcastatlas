@@ -15,17 +15,18 @@ sources:
   - shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4
   - shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa
   - shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia
-last_updated: 2026-10-22
+  - shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn
+last_updated: 2026-11-04
 knowledge_schema: synthesis-v1
 ---
 
 # 史蒂夫说
 
 ## Overview
-史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, attachment, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, and trust. Episode 477 uses four listener letters to connect dignity after attack, secure-base exploration, self-attachment, harmful relationship repetition, and career confidence.
+史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, attachment, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, trust, family boundaries, and life transitions. Episode 478 uses four listener letters to connect relational feedback, protective distance, safe exploration, and responsibility for parental anxiety.
 
 ## Current Profile
-The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episodes 475 and 477 turn the same boundary toward care, secure attachment, dignity, and exploration; episode 470 resists behavior-to-character compression and locates trust in repeated relationship experience. The show therefore joins self-understanding to an expanding ethic of relational attention without promising certainty.
+The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episodes 475 and 477 turn the same boundary toward care, secure attachment, dignity, and exploration; episode 478 adds that understanding a parent's fear or limitation does not require continued exposure to harm or carrying that parent's transition anxiety. The show therefore joins self-understanding to relational attention, safety, and differentiated responsibility without promising certainty.
 
 ## Key Characteristics
 - Long-form interview format centered on psychological self-understanding and relationship repair.
@@ -34,7 +35,7 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Treats psychology as care-oriented language that can become harmful when used for self-surveillance.
 - Treats sex and intimacy as psychologically serious subjects shaped by body, relationship, social norms, and responsibility.
 - Repeatedly separates situational difficulty from defective selfhood while protecting first-person context, uncertainty, collaborative inquiry, and the right to reject a totalizing explanation.
-- Connects being seen and feeling safe to the capacity for exploration while preserving the need for boundaries, diversified support, and independent action.
+- Connects being seen and feeling safe to the capacity for exploration while preserving boundaries, diversified support, protective distance, and responsibility separation.
 
 ## Evidence
 - Format and participants - [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]] presents Steve as host and [[ZhaoJinzhao|Dr. Claire]] as guest in a nearly two-hour discussion, while [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] uses listener letters as the episode structure.
@@ -52,14 +53,15 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Relationship harbor and fatherhood - [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4]] connects marriage, unequal care, male vulnerability, infant signals, family safety, divorce, aging, and death through [[PreverbalRelationalAttunement]] and [[NonInstrumentalRelationalSafety]].
 - Complexity, alliance, and trust - [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa]] connects [[BehaviorBasedHumanReductionism]], [[CompensatoryPersonalityIntegration]], therapeutic collaboration, relationship optionality, and [[LongitudinalRelationshipTrust]] across five listener letters.
 - Attachment, dignity, and exploration - [[shi-di-fu-shuo-477-zixunshi-huixin-lijie-shenme-shi-e-caineng-zhudong-xuanze-weishan-lj-c37-abvr5oa0a7vbhvl93pvia]] connects trauma recovery, age anxiety, harmful relationship repetition, and career hesitation through [[SecureAttachmentExploration]], [[SelfAttachmentBelonging]], [[NegativeAttentionRelationshipGame]], and [[InformedMoralChoice]].
+- Self-worth, family distance, and transition anxiety - [[shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn]] connects workplace uncertainty, family abuse, career constriction, and retirement-driven control through [[RelationalSelfWorthFeedback]], [[ProtectiveFamilyDistance]], [[EffectiveConfusionOdysseyPeriod]], and [[FamilyAnxietyTransmission]].
 
 ## Qualifications
-The show profile is based on twelve ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, or crisis care. Episode 477's attachment and family-history readings, episode 470's readings of third parties, and episode 475's gendered attention patterns remain experiential and source-scoped rather than verified or universal.
+The show profile is based on thirteen ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, career counseling, or crisis care. Episodes 477 and 478 rely on short listener letters; their attachment, family-history, coworker, parental-motive, and risk interpretations remain hypotheses rather than verified assessments.
 
 ## What Changed
-- Added episode 477's secure-attachment and self-attachment account of exploration and belonging.
-- Added its distinction between negative attention and no attention as one hypothesis for repeated harmful relationships.
-- Added dignity-aware harm recognition and active moral choice to the show's relational ethic.
+- Added episode 478's relational-feedback account of gradual self-worth development.
+- Added protective distance as compatible with understanding parental limitation without excusing continuing harm.
+- Added responsibility separation for parental retirement, aging, and security anxiety.
 
 ## Relationships
 - [[SteveShiDiFuShuoHost|Steve]] - host in the current source.
@@ -100,3 +102,6 @@ The show profile is based on twelve ingested episodes. Broader production histor
 - [[SelfAttachmentBelonging]] - episode 477's account of becoming a stable inner source of belonging.
 - [[NegativeAttentionRelationshipGame]] - episode 477's hypothesis about hurt as a substitute for invisibility.
 - [[InformedMoralChoice]] - episode 477's link between recognizing harm, protecting dignity, and actively choosing good.
+- [[RelationalSelfWorthFeedback]] - episode 478's account of specific feedback correcting self-rejection and interaction uncertainty.
+- [[ProtectiveFamilyDistance]] - episode 478's safety boundary for persistently harmful family contact.
+- [[FamilyAnxietyTransmission]] - episode 478's account of returning parental transition anxiety without withdrawing all care.

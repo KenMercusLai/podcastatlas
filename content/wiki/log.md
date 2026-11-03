@@ -38428,3 +38428,11 @@ Added source `vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-04] ingest | 史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？
+
+Added source `shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn`; created [[RelationalSelfWorthFeedback]] and [[ProtectiveFamilyDistance]]; and resynthesized [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[SecureAttachmentExploration]], [[FamilyAnxietyTransmission]], and [[EffectiveConfusionOdysseyPeriod]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: specific relational feedback can replace self-rejecting mind-reading with evidence; distance from continuing family harm can be protective without requiring a final verdict about parental love; life exploration can preserve savings, relationships, identity, and competence; and adult children can recognize parental retirement or aging anxiety without carrying responsibility for it. No settled contradiction was adopted. The title's categorical challenge to “love without expression” is qualified by the body, which allows parental fear or limitation while refusing to let explanation erase repeated harm. Coworker and family motives, diagnoses, risk levels, and causal histories remain source-scoped because the supplied file is a structured summary of short letters rather than a transcript, assessment, or safety plan. Automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,817 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

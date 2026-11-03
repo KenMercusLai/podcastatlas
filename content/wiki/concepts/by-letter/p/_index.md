@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10987
+wiki_total_pages: 10989
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2429,6 +2429,9 @@ wiki_pages:
   - key: "ProtectiveCollarStrategy"
     title: "Protective Collar Strategy"
     url: "/wiki/concepts/protectivecollarstrategy/"
+  - key: "ProtectiveFamilyDistance"
+    title: "Protective Family Distance / 伤害性家庭关系的保护性距离"
+    url: "/wiki/concepts/protectivefamilydistance/"
   - key: "ProtectiveRemonstranceSequencing"
     title: "Protective Remonstrance Sequencing / 护身符式进言"
     url: "/wiki/concepts/protectiveremonstrancesequencing/"

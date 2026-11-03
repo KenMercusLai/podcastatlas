@@ -15,17 +15,18 @@ sources:
   - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
   - shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4
   - shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa
-last_updated: 2026-10-04
+  - shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn
+last_updated: 2026-11-04
 knowledge_schema: synthesis-v1
 ---
 
 # Steve (史蒂夫说 host)
 
 ## Overview
-Steve is the host of [[ShiDiFuShuo|史蒂夫说]] across interviews and listener-letter episodes on anxiety, trauma, sex, parenting, philosophy, embodied self-knowledge, life transitions, and relationship power. In [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa|episode 470]], he links moral judgment, personality development, workplace belonging, counseling quality, and romantic trust through a shared resistance to binary or totalizing explanations.
+Steve is the host of [[ShiDiFuShuo|史蒂夫说]] across interviews and listener-letter episodes on anxiety, trauma, sex, parenting, philosophy, embodied self-knowledge, life transitions, and relationship power. In [[shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn|episode 478]], he links workplace self-doubt, family harm, career exploration, and parental retirement anxiety through social feedback, safety, and differentiated responsibility.
 
 ## Current Profile
-Across the current sources, Steve functions as a reflective psychology host who moves between clinical language, ordinary life, philosophy, and his own biography. The anxiety, counselor-letter, sex, parenting, feminist-philosophy, and迷茫 episodes show a consistent preference for body, relationship, bounded interpretation, and lived experiment over moral judgment or head-only certainty. Episodes 473 and 474 test explanation against lived deprivation and interpretive power, while episode 475 joins that caution to care. Episode 470 adds a practical structure: widen the story beyond isolated behavior, build capacities through experience, protect collaboration inside therapy, and judge trust across repeated interaction rather than a single proof event.
+Across the current sources, Steve functions as a reflective psychology host who moves between clinical language, ordinary life, philosophy, and his own biography. The anxiety, counselor-letter, sex, parenting, feminist-philosophy, and迷茫 episodes show a consistent preference for body, relationship, bounded interpretation, and lived experiment over moral judgment or head-only certainty. Episodes 473 and 474 test explanation against lived deprivation and interpretive power, while episode 475 joins that caution to care. Episodes 470 and 478 add practical structures: widen the story beyond isolated behavior, seek specific feedback, preserve safety while experimenting, protect collaboration, and distinguish understanding another person's fear from carrying it.
 
 ## Key Characteristics
 - Uses self-observation as interview material, including facial tension, urgency, shallow breathing, and bodily release.
@@ -34,7 +35,7 @@ Across the current sources, Steve functions as a reflective psychology host who 
 - Uses listener letters to distinguish trauma-linked safety adaptations and self-blame from moral weakness or personality defect.
 - Treats body, feeling, anger, touch, and self-care as necessary counterparts to rational explanation.
 - Keeps therapy and psychological vocabulary bounded by comfort, safety, actual care, and the goal of restored vitality.
-- Uses sex, parenting, boxing, philosophy,迷茫, illness, death, and relationship-power conversations to connect embodied self-knowledge with the limits of explanation, while treating confidence and trust as repertoires and processes rather than fixed traits or verdicts.
+- Uses sex, parenting, boxing, philosophy,迷茫, illness, death, work, and family-power conversations to connect embodied self-knowledge with the limits of explanation, while treating confidence, trust, and boundaries as processes rather than fixed traits or verdicts.
 
 ## Evidence
 - Host role - [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]] identifies Steve as the person introducing the anxiety theme and guiding the dialogue.
@@ -53,14 +54,15 @@ Across the current sources, Steve functions as a reflective psychology host who 
 - Relationship-power framing - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11]] has Steve distinguish mobile from fixed power, identify repeated self-defense as possible loss of interpretive authority, frame breakup analysis as an attempted control lever, and separate marriage's legal status from its other lived dimensions.
 - Caregiver orientation - [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4]] has Steve connect marriage, awareness of unequal sacrifice, fatherhood, infant communication, counseling, family safety, mortality, and the wish to become a person who can care for others better.
 - Complexity and process orientation - [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa]] has Steve challenge behavior-to-character compression, recommend compensatory experience and wider response options, judge therapy partly by collaboration and nonjudgment, and frame romantic trust as accumulated relationship evidence.
+- Feedback and family-boundary orientation - [[shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn]] has Steve distinguish introversion from self-rejection, support protective distance from continuing family harm, integrate safety with career exploration, and frame parental anxiety as responsibility that adult children need not absorb.
 
 ## Qualifications
-The page disambiguates this Steve from other entities named Steve in the wiki. His full legal name, credential history, Innerworld or Innerwild naming details, broader hosting history, and family members' private identities are not established by the current sources. Episodes 470 and 473-475 record public conversation and letter-based inference, not individualized care, verified accounts of third-party motives, formal competence assessment, legal advice, or settled theories of dying, relationship power, sex differences, or generational change.
+The page disambiguates this Steve from other entities named Steve in the wiki. His full legal name, credential history, Innerworld or Innerwild naming details, broader hosting history, and family members' private identities are not established by the current sources. Episodes 470, 474, and 478 include letter-based inference, not individualized care or verified accounts of coworkers, parents, partners, diagnoses, motives, or risk. The sources do not supply domestic-violence safety plans, crisis assessment, legal advice, or universal theories of family distance and career change.
 
 ## What Changed
-- Added Steve's explicit boundary against reducing character or motive to isolated behavior.
-- Added his repertoire-based account of confidence and neglected personality capacities.
-- Added his alliance-based test of therapy quality and process-based account of romantic trust.
+- Added Steve's account of specific relational feedback as a route out of self-rejection and social mind-reading.
+- Added his support for protective distance where family contact continues to injure.
+- Added his integration of retained safety with exploration and his distinction between empathy for parental fear and responsibility for it.
 
 ## Relationships
 - [[ShiDiFuShuo|史蒂夫说]] - show he hosts in the current source.
@@ -98,3 +100,7 @@ The page disambiguates this Steve from other entities named Steve in the wiki. H
 - [[BehaviorBasedHumanReductionism]] - interpretive compression he challenges in episode 470.
 - [[CompensatoryPersonalityIntegration]] - developmental repertoire he proposes in episode 470.
 - [[LongitudinalRelationshipTrust]] - trust and forgiveness process he develops in episode 470.
+- [[RelationalSelfWorthFeedback]] - feedback and interaction-uncertainty frame he develops in episode 478.
+- [[ProtectiveFamilyDistance]] - family-safety boundary he supports in episode 478.
+- [[EffectiveConfusionOdysseyPeriod]] - life-direction frame he extends by retaining safety while experimenting.
+- [[FamilyAnxietyTransmission]] - parental projection and responsibility-separation frame he extends in episode 478.

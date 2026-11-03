@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？](sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn.md) — 史蒂夫说以四封来信连接职场自我价值、伤害性家庭关系的保护性距离、安全基础上的人生探索与父母焦虑的责任分离。
 - [VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解](sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha.md) — 这病说来话长 connects climate-adaptive barrier care and year-round photoaging prevention with skin-readiness, recovery, and event timing for medical-aesthetic procedures.
 - [187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇](sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49.md) — 起朱楼宴宾客对话凌华薇，以类金融机构、自融、资金池、底层资产、飞单、跨境路径和沉没成本拆解普通投资者的风险识别与止损框架。
 - [Behind the scenes of an abandoned cyber-scam compound](sources/tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128.md) — Marketplace Tech report on a deserted Cambodian scam compound, fraudulent crypto applications, trafficked workers, seized devices, and criminal networks dispersing after large-site closures.
@@ -18883,6 +18884,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Relational Self-Worth Feedback / 关系反馈与自我价值](concepts/RelationalSelfWorthFeedback.md) — 用可信、具体的关系反馈修正自我否定与互动猜测，同时避免把价值判断完全外包给他人。
+- [Protective Family Distance / 伤害性家庭关系的保护性距离](concepts/ProtectiveFamilyDistance.md) — 将减少与持续言语暴力、控制或伤害的家庭接触理解为安全措施，而非对爱与孝的最终裁决。
 - [Medical-Aesthetic Procedure Timing / 医美项目时机选择](concepts/MedicalAestheticProcedureTiming.md) — Matching elective procedures to barrier integrity, recent exposure, healing burden, result-settling time, and event deadlines.
 - [Forced Scam Labor](concepts/ForcedScamLabor.md) — Trafficking pattern in which deceptive recruitment, passport confiscation, threats, or violence coerce workers into committing online fraud.
 - [Oocyte Chromosome Stabilization](concepts/OocyteChromosomeStabilization.md) — Preclinical strategy for protecting chromosome cohesion during egg maturation to reduce aneuploidy before embryo formation.
