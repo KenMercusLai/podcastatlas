@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13869
+wiki_total_pages: 13872
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "KingsCollegeChapel"
     title: "King's College Chapel / 国王学院礼拜堂"
     url: "/wiki/entities/kingscollegechapel/"
+  - key: "KingdomComeDeliverance"
+    title: "Kingdom Come: Deliverance / 《天国：拯救》"
+    url: "/wiki/entities/kingdomcomedeliverance/"
   - key: "KinleySalmon"
     title: "Kinley Salmon"
     url: "/wiki/entities/kinleysalmon/"
@@ -719,6 +722,9 @@ wiki_pages:
   - key: "Kusra"
     title: "Kusra"
     url: "/wiki/entities/kusra/"
+  - key: "KutnaHora"
+    title: "Kutná Hora / 库特纳霍拉"
+    url: "/wiki/entities/kutnahora/"
   - key: "KwameNkrumah"
     title: "Kwame Nkrumah"
     url: "/wiki/entities/kwamenkrumah/"

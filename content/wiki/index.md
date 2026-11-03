@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图](sources/no-234-jieke-youji-shuyu-chengbao-yinkuang-yu-jiuguan-de-boximiya-ditu-gkwrijiovueba7xf6gt0j48r.md) — 三五环以布拉格、捷克天堂与库特纳霍拉的旅行连接啤酒、城市层叠、宗教战争、1968与1989、银矿劳动及《天国：拯救》的中世纪模拟。
 - [史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？](sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn.md) — 史蒂夫说以四封来信连接职场自我价值、伤害性家庭关系的保护性距离、安全基础上的人生探索与父母焦虑的责任分离。
 - [VOL.226秋冬季护肤别踩坑！别被种植焦虑！涂脸VS上科技的科学正解](sources/vol-226-qiudongji-hufu-bie-caikeng-bie-bei-zhongzhi-jiaolv-tulian-vs-shang-keji-de-kexue-zhengjie-lom9wrbhql1dcuqw2ich-opecyha.md) — 这病说来话长 connects climate-adaptive barrier care and year-round photoaging prevention with skin-readiness, recovery, and event timing for medical-aesthetic procedures.
 - [187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇](sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49.md) — 起朱楼宴宾客对话凌华薇，以类金融机构、自融、资金池、底层资产、飞单、跨境路径和沉没成本拆解普通投资者的风险识别与止损框架。
@@ -4930,6 +4931,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [Charles IV / 查理四世](entities/CharlesIV.md) — 将大学、新城、桥梁与主教座堂工程整合为布拉格十四世纪城市层的波西米亚国王和神圣罗马帝国皇帝。
+- [Kingdom Come: Deliverance / 《天国：拯救》](entities/KingdomComeDeliverance.md) — 通过身体、声望、识字、战斗与手工系统重建中世纪波西米亚依赖关系的历史角色扮演游戏。
+- [Kutná Hora / 库特纳霍拉](entities/KutnaHora.md) — 由白银、王室铸币、危险矿工劳动、教堂赞助与资源衰竭共同塑造的捷克矿业城市。
 - [凌华薇 / Ling Huawei (Caixin editor)](entities/LingHuaweiCaixin.md) — 财新编辑，以调查报道方法解释类金融机构、自融、底层资产、利益冲突与普通投资者风险识别。
 - [Leila Goldstein](entities/LeilaGoldstein.md) — Reporter whose Cambodian compound tour connects digital fraud to physical infrastructure, seized devices, and coerced workers.
 - [Jacob Sims](entities/JacobSims.md) — Expert framing scam compounds as a mobile organized-crime technology ecosystem rather than isolated physical sites.
@@ -14290,10 +14294,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《慢》 / Slowness](entities/SlowKundera.md) — Kundera's French-language novel read by 蜜獾吃书 as a castle-hotel farce about speed, public morality, desire, body, and performance.
 - [《玩笑》 / The Joke](entities/TheJokeKundera.md) — Earlier Kundera work used by the source as part of the more visibly political Czech-language frame that 《慢》 complicates.
 - [《不可承受的生命之轻》 / The Unbearable Lightness of Being](entities/TheUnbearableLightnessOfBeing.md) — Familiar Kundera work connected by the episode to anti-kitsch, body, and the denial of waste.
-- [Czech Republic / 捷克](entities/CzechRepublic.md) — Kundera's Czech historical-cultural context, framed by the episode through East-West tension, Prague, 1968, 1989, exile, and political labeling.
-- [Prague / 布拉格](entities/Prague.md) — City whose misrecognition in 《慢》 exposes the gap between performed solidarity and concrete knowledge.
-- [Prague Spring / 布拉格之春](entities/PragueSpring.md) — 1968 rupture used by the episode to explain surveillance, exile, academic punishment, and later memory revision.
-- [Velvet Revolution / 天鹅绒革命](entities/VelvetRevolution.md) — 1989 Czech democratic turn used by the source to separate institutional restoration from repaired home, privacy, and belonging.
+- [Czech Republic / 捷克](entities/CzechRepublic.md) — 以区域命名、布拉格、文学、宗教改革、1968与1989、啤酒和银矿连接中世纪记忆与当代世俗生活的中欧国家。
+- [Prague / 布拉格](entities/Prague.md) — 将查理四世城市建设、胡斯记忆、1968与1989、文学和多时期建筑叠加于公共空间的捷克首都。
+- [Prague Spring / 布拉格之春](entities/PragueSpring.md) — 塑造意识形态脱离、监控、流亡、私人记忆与布拉格城市痕迹的1968年改革及其被镇压。
+- [Velvet Revolution / 天鹅绒革命](entities/VelvetRevolution.md) — 以瓦茨拉夫广场群众动员、和平权力移交、制度恢复与流亡未竟问题构成的1989年民主转型。
 - [Vera Kundera / 薇拉·昆德拉](entities/VeraKundera.md) — Kundera's wife and the Vera figure in the episode's privacy, exile, dream, and narrative-frame discussion.
 - [《宇宙》 / Cosmos](entities/CosmosBook.md) — Carl Sagan book and documentary companion read as astronomy, science history, literary public science, and humanistic cosmic orientation.
 - [《接触》 / Contact](entities/ContactNovel.md) — Sagan science-fiction novel discussed through SETI, alien signals, science-and-religion humility, global cooperation, and open cosmic imagination.
@@ -18884,6 +18888,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Czech Beer Culture / 捷克啤酒文化](concepts/CzechBeerCulture.md) — 连接修道院酿造、皮尔森工业标准化、麦汁浓度、泡沫、鲜啤服务与酒馆社交的生产—消费体系。
+- [Medieval Simulation as Historical Learning / 中世纪模拟式历史学习](concepts/MedievalSimulationHistoricalLearning.md) — 以身体、物质、职业和社会规则的后果让玩家通过行动理解历史依赖，并以现实遗址限制模拟权威。
 - [Relational Self-Worth Feedback / 关系反馈与自我价值](concepts/RelationalSelfWorthFeedback.md) — 用可信、具体的关系反馈修正自我否定与互动猜测，同时避免把价值判断完全外包给他人。
 - [Protective Family Distance / 伤害性家庭关系的保护性距离](concepts/ProtectiveFamilyDistance.md) — 将减少与持续言语暴力、控制或伤害的家庭接触理解为安全措施，而非对爱与孝的最终裁决。
 - [Medical-Aesthetic Procedure Timing / 医美项目时机选择](concepts/MedicalAestheticProcedureTiming.md) — Matching elective procedures to barrier integrity, recent exposure, healing burden, result-settling time, and event deadlines.

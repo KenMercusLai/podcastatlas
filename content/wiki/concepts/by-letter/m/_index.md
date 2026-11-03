@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 10989
+wiki_total_pages: 10991
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "MedievalScottishSuccession"
     title: "Medieval Scottish Competitive Succession"
     url: "/wiki/concepts/medievalscottishsuccession/"
+  - key: "MedievalSimulationHistoricalLearning"
+    title: "Medieval Simulation as Historical Learning / 中世纪模拟式历史学习"
+    url: "/wiki/concepts/medievalsimulationhistoricallearning/"
   - key: "MedievalUniversityGuildAutonomy"
     title: "Medieval University Guild Autonomy / 中世纪大学行会自治"
     url: "/wiki/concepts/medievaluniversityguildautonomy/"

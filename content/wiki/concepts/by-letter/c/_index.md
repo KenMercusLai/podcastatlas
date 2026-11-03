@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10989
+wiki_total_pages: 10991
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3437,6 +3437,9 @@ wiki_pages:
   - key: "CytokineReleaseSyndrome"
     title: "Cytokine Release Syndrome"
     url: "/wiki/concepts/cytokinereleasesyndrome/"
+  - key: "CzechBeerCulture"
+    title: "Czech Beer Culture / 捷克啤酒文化"
+    url: "/wiki/concepts/czechbeerculture/"
   - key: "ConscriptionCrisis1918"
     title: "Irish Conscription Crisis of 1918"
     url: "/wiki/concepts/conscriptioncrisis1918/"
