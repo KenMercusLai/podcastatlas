@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13856
+wiki_total_pages: 13857
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1970,6 +1970,9 @@ wiki_pages:
   - key: "TianAn"
     title: "田安 / Tian An"
     url: "/wiki/entities/tianan/"
+  - key: "TianXiaotianMentalHealthPractitioner"
+    title: "田小甜 / Tian Xiaotian (Mental-Health Practitioner)"
+    url: "/wiki/entities/tianxiaotianmentalhealthpractitioner/"
   - key: "TianFeng"
     title: "田峰 / Tian Feng"
     url: "/wiki/entities/tianfeng/"

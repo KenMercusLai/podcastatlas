@@ -7,7 +7,8 @@ sources:
   - shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn
   - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
   - vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c
-last_updated: 2026-10-10
+  - ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ Psychiatric assessment is a contextual professional judgment. The sources descri
 
 Function is a major threshold. Work, study, relationships, family role, communication, daily execution, and self-care show whether distress or unusual behavior has become impairing, while self-harm, suicide, psychosis, or public-safety risk can require more urgent escalation. A person can sound unusual without having a disorder, and an influencer or platform can name a relatable experience without establishing diagnosis.
 
-The sources apply this boundary to schizophrenia, ADHD, NPD, depression, anxiety, school refusal, and self-harm. VOL.108 makes the developmental rule concrete for pediatric ADHD; VOL.180 adds a public-facing depression example in which sustained low mood or loss of interest plus impaired life, study, or work warrants regular assessment, while possible physical causes and cautious diagnostic wording qualify label certainty.
+The sources apply this boundary to schizophrenia, ADHD, NPD, depression, anxiety, bipolar disorder, trauma reactions, school refusal, and self-harm. VOL.108 makes the developmental rule concrete for pediatric ADHD; VOL.180 adds a public-facing depression example in which sustained low mood or loss of interest plus impaired life, study, or work warrants regular assessment. EP67 broadens the everyday threshold across sleep, eating, school, work, and ordinary life while showing why a single unusual perception, dream, compulsive tendency, active child, or short-lived low mood does not establish illness.
 
 ## Key Claims
 - Psychiatric diagnosis should not be reduced to online tests, symptom lists, popular terms, influencer content, or commercial problem labels.
@@ -30,7 +31,7 @@ The sources apply this boundary to schizophrenia, ADHD, NPD, depression, anxiety
 - Severe symptoms, impaired insight, self-harm, suicide, psychosis, or safety risk can change the required urgency and level of care.
 - Popular ADHD, NPD, schizophrenia, depression, anxiety, or trauma labels need professional context rather than identity-level adoption.
 - Pediatric ADHD requires age-relative and cross-setting assessment rather than inference from activity, grades, intelligence, or one high-performance moment.
-- Cautious or provisional wording can reflect diagnostic rigor rather than dismissal, especially when course and differential explanations remain unresolved.
+- DSM or ICD criteria and cautious or provisional wording can structure unresolved symptom, duration, severity, impairment, and differential judgments without making diagnosis culturally timeless or reducing a person to a label.
 
 ## Evidence
 - Intake scope and function - [[shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql]] describes assessment across symptoms, course, life history, background, work, relationships, family role, communication, and self-care.
@@ -39,13 +40,15 @@ The sources apply this boundary to schizophrenia, ADHD, NPD, depression, anxiety
 - Pediatric ADHD function - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] uses learning, classroom rules, homework, emotional control, peer conflict, and daily execution to separate ordinary variation from clinically relevant impairment.
 - Duration and impairment - [[vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c]] says sustained low mood or loss of interest affecting life, study, or work warrants regular medical assessment.
 - Differential and labeling caution - [[vol-180-liaoyu-juexing-qianyishi-shijie-jingshen-weishengri-jieshi-wei-xinli-fengchao-lhncjc-i257hgheuielzdol4a8c]] notes that similar feelings can have physical contributors and describes cautious or provisional diagnostic wording.
+- Everyday function and manual limits - [[ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899]] applies impairment across sleep, eating, school, work, and daily life while noting that diagnostic manuals change over time and remain socially situated.
 
 ## Counterevidence & Qualifications
-This page is not a diagnostic guide. Functional impairment is central in the sources but is not the only criterion, and the two-week depression example does not by itself establish diagnosis. The podcast discussions do not provide complete DSM, ICD, medical-exclusion, medication, intelligence-testing, risk-assessment, documentation, hospitalization, or emergency protocols.
+This page is not a diagnostic guide. Functional impairment is central in the sources but is not the only criterion, and the two-week depression example does not by itself establish diagnosis. The podcast discussions do not provide complete DSM, ICD, medical-exclusion, medication, intelligence-testing, risk-assessment, documentation, hospitalization, or emergency protocols. EP67's disorder examples and brain-change claims are conversational and should not be used to infer a diagnosis or causal mechanism.
 
 ## What Changed
 - Added duration, physical differential, commercial-label, and cautious-diagnostic-wording boundaries to the existing functional frame.
 - Connected persistent impairment to qualified assessment without turning the episode's example into a self-diagnosis rule.
+- Added EP67's cross-domain impairment test and its caution that manuals are useful clinical tools rather than timeless definitions of personhood.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - broader clinical-reasoning frame that psychiatric judgment belongs to.

@@ -38377,3 +38377,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-03] ingest | EP67-别抗拒，心理咨询可能并不是你想的那样！
+
+Added source `ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899`; created [[TianXiaotianMentalHealthPractitioner|田小甜]], [[CognitiveBehavioralInterpretationChain]], and [[ClientDirectedTherapeuticNavigation]]; migrated [[CountertransferenceBoundaryRisk]] to the synthesis-first schema; and resynthesized [[PsychiatricFunctionalDiagnosis]], [[PsychiatryPsychotherapyCollaboration]], [[MentalIllnessDestigmatization]], [[CrossCulturalMentalHealthHelpSeeking]], and [[AutismAsHumanDifference]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: functional impairment and danger provide a stronger escalation boundary than isolated traits; psychiatry, psychotherapy, clinical social work, and practical support can address complementary layers; CBT can examine the interpretation between event and response; and therapy should preserve client direction while maintaining competence, referral, supervision, and crisis boundaries. No settled contradiction was adopted. Diagnostic, neurobiological, recovery, hypnosis, unusual-perception, celebrity-history, and exceptional-ability claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, clinical assessment, treatment protocol, or evidence review. The broad [[WushichaYanjiusuo|无时差研究所]] profile and automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening a much larger unchanged evidence inventory or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,810 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

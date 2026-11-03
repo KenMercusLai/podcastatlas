@@ -6,7 +6,8 @@ sources:
   - shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql
   - shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn
   - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
-last_updated: 2026-09-26
+  - ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ The episode makes destigmatization practical by joining the patient and family p
 
 Destigmatization here does not mean minimizing severity. The source still discusses hospitalization, suicide risk, psychosis, long-term medication, side effects, relapse, and family burden. Its anti-stigma claim is that these realities become harder to handle when patients and relatives must also carry shame, secrecy, online labeling, or fear that diagnosis proves defective personhood.
 
-The current synthesis also includes the other side of public acceptance: once mental-health vocabulary becomes common, diagnostic terms can become too casual. Jiang Tao treats destigmatization and diagnostic seriousness as paired obligations. VOL.108 applies that pair to children: fear of an ADHD label should not block assessment when function is impaired, while “淘气,” “爱动,” or “聪明” should not become informal diagnosis. People should seek help without shame, but ADHD, NPD, schizophrenia, depression, anxiety, and personality-disorder language should not be used as identity fashion or everyday insult.
+The current synthesis also includes the other side of public acceptance: once mental-health vocabulary becomes common, diagnostic terms can become too casual. Jiang Tao treats destigmatization and diagnostic seriousness as paired obligations. VOL.108 applies that pair to children; EP67 adds the cultural problem that depression-related fatigue or low motivation may be moralized as laziness or weak endurance, while diagnosis itself can become a discriminatory identity. People should seek help without shame, but psychiatric language should not become fashion, insult, or a total definition of the person.
 
 ## Key Claims
 - Psychiatric illness should not be treated as a shameful category separate from other illness.
@@ -28,8 +29,8 @@ The current synthesis also includes the other side of public acceptance: once me
 - Treating mental illness as real illness does not mean denying risk, impairment, or long-term treatment needs.
 - Public storytelling can reduce isolation when it avoids turning patients or institutions into spectacle.
 - Diagnostic humility is part of destigmatization because casual labels can both trivialize illness and intensify fear.
-- Medication resistance may reflect stigma, side effects, inconvenience, or the meaning patients attach to being a "patient."
 - Media and public language can reduce shame, but label popularity can also trivialize severe disorders or make self-diagnosis feel easier than care.
+- Family solidarity and endurance norms can support people while also making disclosure or professional help feel like disloyalty, weakness, or failure.
 
 ## Evidence
 - Family disclosure - [[shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql]] has the host disclose his family-member position to improve the conversation rather than hide psychiatric illness as disgrace.
@@ -40,12 +41,14 @@ The current synthesis also includes the other side of public acceptance: once me
 - Social shift - [[shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn]] says public understanding has moved from equating mental illness with "madness" toward more acceptance of depression, anxiety, and emotional disorders.
 - Label caution - [[shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn]] warns that ADHD, NPD, and personality-disorder labels should not become casual self-diagnosis or social shorthand.
 - Pediatric label boundary - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] rejects both shame-based avoidance of psychiatric assessment and casual labeling of ordinary activity, misbehavior, or intelligence as ADHD.
+- Cultural stigma and personhood - [[ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899]] connects endurance ideals and collective norms to treatment resistance while warning that diagnosis should not define a person's whole value.
 
 ## Counterevidence & Qualifications
 Destigmatization should not flatten clinical differences among schizophrenia, depression, bipolar disorder, anxiety, obsessive-compulsive disorder, dementia, ADHD, personality disorders, trauma, or ordinary distress. Some conditions carry acute risk and need professional care. Nor should anti-stigma messaging turn one diagnosis into a flattering stereotype such as “ADHD means smart.” Public disclosure also has privacy and safety boundaries, especially for patients who did not consent to becoming examples.
 
 ## What Changed
 - Added the pediatric ADHD distinction between lowering care-seeking shame and resisting casual or flattering labels.
+- Added EP67's distinction between culturally supported endurance, moralized symptoms, and diagnosis as a potentially discriminatory identity.
 
 ## Related Concepts
 - [[ChinaMentalHealthAccessGap]] - access problem that can become more visible as stigma changes.

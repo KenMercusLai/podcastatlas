@@ -4,7 +4,8 @@ type: concept
 tags: [mental-health, cross-cultural-care, psychiatry, somatization, help-seeking]
 sources:
   - vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r
-last_updated: 2026-10-06
+  - ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899
+last_updated: 2026-11-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ VOL.198 compares two routes visible in one Seoul psychiatrist's practice. Korean
 
 Language changes more than translation accuracy. Chinese residents who rarely disclose private distress in their mother tongue may use a Chinese-speaking psychiatrist as both clinician and unusually safe listener. This can expose family pressure, isolation, education demands, and ambiguous sleep or body experiences that shorter symptom-focused encounters might miss.
 
-The current judgment is contextual rather than cultural-essentialist. The clinician studied Chinese and promoted his practice on Xiaohongshu, attracting a selected group of young Chinese patients. Symptom vocabulary, referral order, medication attitudes, consultation length, insurance, visa status, and cost can all shape the observed difference.
+EP67 adds a broader cultural mechanism: collective and family support can protect people, while ideals of toughness, endurance, and consistency can make low energy, withdrawal, or inability to function look like laziness or excuse-making. The current judgment remains contextual rather than cultural-essentialist. Symptom vocabulary, family norms, referral order, medication attitudes, consultation length, language, insurance, migration status, cost, and provider visibility all shape the observed route.
 
 ## Key Claims
 - Distress may enter care through bodily symptoms, psychiatric vocabulary, or a mixture of both.
@@ -27,18 +28,21 @@ The current judgment is contextual rather than cultural-essentialist. The clinic
 - Cost, insurance, visa status, consultation time, and local service norms can delay or redirect care.
 - Online visibility can create a selected patient population and distort apparent group differences.
 - Positive engagement with symptoms can support assessment, but searching or self-labeling does not establish diagnosis.
+- The same family or collective norm can provide support and raise the shame cost of disclosure or care.
 
 ## Evidence
 - Symptom framing - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] reports more panic or anxiety language among Korean patients and more somatic uncertainty and prior tests among Chinese patients in the guest's practice.
 - Mother-tongue disclosure - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] says Chinese patients often speak at length because private mother-tongue conversation is scarce.
 - Access context - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] discusses consultation duration, insurance coverage, an eligibility wait, and full self-payment for some visitors.
 - Selection effect - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] says Chinese patient numbers rose after Xiaohongshu use and that most were young students.
+- Endurance and stigma - [[ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899]] describes collective support and toughness ideals as potentially helpful but also capable of moralizing symptoms and delaying care.
 
 ## Counterevidence & Qualifications
-One clinician's practice cannot establish national, ethnic, or healthcare-system differences. The groups are not matched samples, and platform recruitment, age, education, migration status, language skill, insurance, and willingness to attend psychiatry affect who appears. Bodily symptoms still require appropriate medical judgment, and direct psychiatric language does not establish a disorder. Fees, coverage, referral behavior, and medication attitudes remain source-scoped rather than administrative guidance.
+The sources cannot establish national, ethnic, or healthcare-system differences. Their groups are not matched samples, and platform recruitment, age, education, migration status, language skill, insurance, family context, and willingness to attend care affect who appears. Bodily symptoms still require appropriate medical judgment, and direct psychiatric language does not establish a disorder. Broad claims about “Asian” or “American” openness remain source-scoped and internally diverse.
 
 ## What Changed
 - Created the concept from VOL.198's comparison of symptom language, mother-tongue disclosure, care routing, and access constraints.
+- Added EP67's support-versus-stigma tension around family, collectivism, endurance, and moralized symptoms.
 
 ## Related Concepts
 - [[SomatizationAsBodyAlarm]] - bodily expression of distress retaining a medical-exclusion boundary.

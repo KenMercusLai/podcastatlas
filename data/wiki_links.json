@@ -21447,6 +21447,10 @@
     "title": "Client-Centered Wealth Management / 以客户为中心的财富管理",
     "url": "/wiki/concepts/clientcenteredwealthmanagement/"
   },
+  "ClientDirectedTherapeuticNavigation": {
+    "title": "Client-Directed Therapeutic Navigation / 来访者主导的治疗导航",
+    "url": "/wiki/concepts/clientdirectedtherapeuticnavigation/"
+  },
   "ClimateAdaptation": {
     "title": "Climate Adaptation",
     "url": "/wiki/concepts/climateadaptation/"
@@ -21930,6 +21934,10 @@
   "CognitiveAmplificationBoundary": {
     "title": "Cognitive Amplification Boundary",
     "url": "/wiki/concepts/cognitiveamplificationboundary/"
+  },
+  "CognitiveBehavioralInterpretationChain": {
+    "title": "Cognitive-Behavioral Interpretation Chain / 认知行为解释链",
+    "url": "/wiki/concepts/cognitivebehavioralinterpretationchain/"
   },
   "CognitiveDebt": {
     "title": "Cognitive Debt / 认知负债",
@@ -90591,6 +90599,10 @@
     "title": "田文 / Tian Wen (Wei chancellor)",
     "url": "/wiki/entities/tianwenweichancellor/"
   },
+  "TianXiaotianMentalHealthPractitioner": {
+    "title": "田小甜 / Tian Xiaotian (Mental-Health Practitioner)",
+    "url": "/wiki/entities/tianxiaotianmentalhealthpractitioner/"
+  },
   "TianXinWesternHan": {
     "title": "田信 / Tian Xin (Western Han)",
     "url": "/wiki/entities/tianxinwesternhan/"
@@ -106714,6 +106726,10 @@
   "ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm": {
     "title": "EP64 投资路上踩坑无数，如今的我刀枪不入",
     "url": "/wiki/sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm/"
+  },
+  "ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899": {
+    "title": "EP67-别抗拒，心理咨询可能并不是你想的那样！",
+    "url": "/wiki/sources/ep67-bie-kangju-xinli-zixun-keneng-bing-bushi-ni-xiang-de-nayang-wkglefzxkovwczzbbbvx2la4e4c899/"
   },
   "ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn": {
     "title": "EP69 AI时代来临，投资不再是单机模式",

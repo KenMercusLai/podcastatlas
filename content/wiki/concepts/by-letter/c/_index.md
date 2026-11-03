@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10976
+wiki_total_pages: 10978
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1358,6 +1358,9 @@ wiki_pages:
   - key: "ClientCenteredWealthManagement"
     title: "Client-Centered Wealth Management / 以客户为中心的财富管理"
     url: "/wiki/concepts/clientcenteredwealthmanagement/"
+  - key: "ClientDirectedTherapeuticNavigation"
+    title: "Client-Directed Therapeutic Navigation / 来访者主导的治疗导航"
+    url: "/wiki/concepts/clientdirectedtherapeuticnavigation/"
   - key: "ClimateAdaptation"
     title: "Climate Adaptation"
     url: "/wiki/concepts/climateadaptation/"
@@ -1646,6 +1649,9 @@ wiki_pages:
   - key: "CognitiveAdvisoryFeedback"
     title: "Cognitive-Advisory Feedback"
     url: "/wiki/concepts/cognitiveadvisoryfeedback/"
+  - key: "CognitiveBehavioralInterpretationChain"
+    title: "Cognitive-Behavioral Interpretation Chain / 认知行为解释链"
+    url: "/wiki/concepts/cognitivebehavioralinterpretationchain/"
   - key: "CognitiveProceduralLearningIntegration"
     title: "Cognitive–Procedural Learning Integration"
     url: "/wiki/concepts/cognitiveprocedurallearningintegration/"
