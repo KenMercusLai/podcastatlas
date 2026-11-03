@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13866
+wiki_total_pages: 13868
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "LeiLutai"
     title: "Lei Lutai / 雷履泰"
     url: "/wiki/entities/leilutai/"
+  - key: "LeilaGoldstein"
+    title: "Leila Goldstein"
+    url: "/wiki/entities/leilagoldstein/"
   - key: "Lempire"
     title: "Lempire"
     url: "/wiki/entities/lempire/"

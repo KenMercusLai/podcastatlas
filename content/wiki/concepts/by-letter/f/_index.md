@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 10985
+wiki_total_pages: 10986
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "ForcedRefugeeReturn"
     title: "Forced Refugee Return"
     url: "/wiki/concepts/forcedrefugeereturn/"
+  - key: "ForcedScamLabor"
+    title: "Forced Scam Labor"
+    url: "/wiki/concepts/forcedscamlabor/"
   - key: "ForcedSterilizationByEugenics"
     title: "Forced Sterilization By Eugenics / 优生学强制绝育"
     url: "/wiki/concepts/forcedsterilizationbyeugenics/"

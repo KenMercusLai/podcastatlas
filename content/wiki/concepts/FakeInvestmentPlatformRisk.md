@@ -2,36 +2,57 @@
 title: "Fake Investment Platform Risk"
 type: concept
 tags: [investing, fraud, platform-risk, trading]
-sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]
-last_updated: 2026-07-12
+sources:
+  - tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128
+  - ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm
+  - ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj
+  - tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128
+last_updated: 2026-11-03
+knowledge_schema: synthesis-v1
 ---
 
 # Fake Investment Platform Risk
 
-Fake investment platform risk is the danger that an investor is not actually trading on a real, regulated, fairly priced market venue even though an app or web page displays deposits, positions, profits, and losses. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] develops this through false trading pages, fake institutions, imitation virtual currencies, foreign-exchange or precious-metal platforms, and shadow-book platforms whose prices can diverge from real markets. [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] adds fake券商 apps, fake bank-like websites, internal gold/oil quote manipulation, and [[LotteryGamblingPlatformFraud]] as adjacent controlled-interface risks.
+## Definition
+Fake investment platform risk is the danger that an app or website displays deposits, prices, positions, profits, or losses without routing the user to a real, regulated, fairly priced, and withdrawable investment venue.
 
-This is more severe than ordinary [[InvestmentRiskManagement]] because the user may be trying to manage price risk while the real risk is platform control. If the platform controls the price feed, withdrawal path, customer service identity, and account page, the investor's risk rules may be meaningless.
+## Current Synthesis
+Across the bounded sources, the decisive distinction is between market risk and platform control. A fraudulent operator can imitate a broker or bank, fabricate prices and balances, show small successful withdrawals, and later demand fees, taxes, margin payments, or larger deposits. Ordinary portfolio discipline cannot protect a user when the venue, custody path, counterparty, and displayed account are fictitious.
 
-[[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds a work and crypto-scam version. [[WorkFromHomeScam]] platforms may not claim to be investment venues, but they use the same displayed-balance and withdrawal-control mechanics: fake task earnings appear to accumulate, then the victim is asked to pay fees, deposits, or taxes to unlock money that is not actually withdrawable.
+The newer crypto evidence makes the transfer boundary explicit: a victim can buy real cryptocurrency and send it to a real blockchain wallet while the investment application and promised trading activity are entirely fraudulent. Related task platforms use the same controlled-balance mechanics even when the story is earnings rather than investing.
 
 ## Key Claims
 - A convincing interface does not prove that trades are routed to a real market or that account balances are withdrawable.
-- High leverage, unusually generous terms, and easy deposits are risk signals when the platform's license, custodian, market data, and withdrawal process are unclear.
-- A simulated or platform-specific price path can be used to trigger forced liquidation even when the real market never touched that price.
-- A fake bank or broker interface can capture credentials, identity documents, deposits, or withdrawal requests while looking familiar enough to lower scrutiny.
-- Fake platforms often escalate from small successful deposits or withdrawals into larger frozen balances, fees, margin calls, or account-abnormality claims.
-- Counterparty validation should happen before deposit: users should check the company identity, license, domain/app source, custody route, bank account name, and complaints.
-- Platform risk can overlap with [[CrossBorderFundTransferRisk]] when deposits and withdrawals move through unrelated accounts or unclear foreign-exchange routes.
-- Fake work or microtask platforms can use the same controlled-interface pattern even when the story is earnings rather than investing.
+- Platform-controlled prices and balances can manufacture gains, losses, or forced liquidation.
+- Small payouts and polished bank- or broker-like design can transfer trust before larger deposits are requested.
+- Real crypto purchases and wallet transfers do not make the represented investment activity real.
+- Withdrawal fees, taxes, frozen balances, margin calls, and account abnormalities are common escalation mechanisms.
+- Counterparty, license, domain, custody, price source, and withdrawal-route validation must precede deposit.
+- Fake work, gambling, and investment interfaces share the same controlled-ledger risk despite different stories.
 
-## Connections
-- [[InvestmentFraudRedFlags]] — umbrella warning-sign frame.
-- [[PigButcheringScam]] — relationship-led funnel that often ends at a fake investment platform.
-- [[WorkFromHomeScam]] — task-platform variant that displays fake earnings and imposes withdrawal fees.
-- [[LotteryGamblingPlatformFraud]] — controlled-interface risk in odds, draws, and balances.
-- [[InvestmentRiskManagement]] — market risk control is insufficient if the venue itself is false.
-- [[CrossBorderFundTransferRisk]] — overseas and foreign-exchange transfer layer.
-- [[UndergroundMoneyTransferRisk]] — informal fund routes that may sit behind fake trading platforms.
-- [[VirtualAssetAMLRisk]] — related risk when imitation or unstable virtual assets are used as the platform story.
-- [[AIEnabledScamIndustrialization]] — automation and personalization can increase fake-platform reach.
-- [[InvestorEducation]] — investors need to learn platform verification before product selection.
+## Evidence
+### False venue and price control
+- [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] describes fake institutions, foreign-exchange and precious-metal platforms, shadow prices, leverage, and unclear withdrawal routes.
+- [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] adds fake broker apps, bank-like websites, internal quote manipulation, and adjacent lottery or gambling interfaces.
+
+### Displayed-balance extraction
+- [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] describes fake crypto or task-platform balances followed by demands for fees, deposits, or taxes.
+
+### Real transfer into fictitious investment
+- [[tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128]] describes victims buying cryptocurrency and transferring it to criminal-controlled wallets after persuasion through fraudulent trading applications.
+
+## Counterevidence & Qualifications
+A platform using cryptocurrency, leverage, foreign exchange, or an unfamiliar interface is not automatically fraudulent. The sources provide warning patterns rather than a substitute for regulatory, technical, or legal verification. The newest episode does not specify the applications, wallet tracing, recovery rate, or exact laundering path.
+
+## What Changed
+- Distinguished real cryptocurrency transfer from fictitious investment activity inside the displayed application.
+- Added criminal-controlled wallets and immediate asset movement to the extraction model.
+- Migrated the page to the synthesis-first schema while preserving all prior evidence.
+
+## Related Concepts
+- [[InvestmentFraudRedFlags]] - umbrella warning-sign framework.
+- [[PigButcheringScam]] - relationship-led funnel into the fake venue.
+- [[ForcedScamLabor]] - coerced labor that may operate victim-facing accounts.
+- [[WorkFromHomeScam]] - fake-earnings variant using the same balance control.
+- [[LotteryGamblingPlatformFraud]] - adjacent controlled-interface risk.
+- [[VirtualAssetAMLRisk]] - wallet, exchange, and laundering exposure after transfer.

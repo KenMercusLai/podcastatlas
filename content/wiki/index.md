@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Behind the scenes of an abandoned cyber-scam compound](sources/tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128.md) — Marketplace Tech report on a deserted Cambodian scam compound, fraudulent crypto applications, trafficked workers, seized devices, and criminal networks dispersing after large-site closures.
 - [Fertile ambitions: scientists’ plans to slow the biological clock](sources/fertile-ambitions-scientists-plans-to-slow-the-biological-clock-af2ae76188ebcf343b3d16674c4c73ef.md) — Economist Podcasts links preclinical egg chromosome stabilization, post-2020 Belarusian cultural suppression, and biltong’s multicultural history and global spread.
 - [513 为永明时代做传：林晓光谈南齐武帝萧赜与南朝文学的爆发](sources/lvyohbnakaa_iop9nirokkjmhqs-lvyohbnakaa_iop9nirokkjmhqs.md) — 忽左忽右以萧赜传记连接南齐国家重建、检籍改革、贵族秩序、永明声律与梁唐文学的形成。
 - [EP 53: Cognitive Surrender: The AI Engineering Mistake That Kills Projects](sources/ep-53-cognitive-surrender-the-ai-engineering-mistake-that-kills-projects.md) — Data Science With Sam interview with Ethan Lyon on governed conversational analytics, data foundations, cognitive surrender, structured knowledge graphs, memory maintenance, and responsible model release.
@@ -4926,6 +4927,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱](sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi.md) — 文化有限以索耳《零丁世》连接迁徙、方言、碎片化记忆、历史变形与宏大表象之下的共同脆弱。
 
 ## Entities
+- [Leila Goldstein](entities/LeilaGoldstein.md) — Reporter whose Cambodian compound tour connects digital fraud to physical infrastructure, seized devices, and coerced workers.
+- [Jacob Sims](entities/JacobSims.md) — Expert framing scam compounds as a mobile organized-crime technology ecosystem rather than isolated physical sites.
 - [OvaLabs](entities/OvaLabs.md) — European fertility-biotechnology startup developing the reported shugoshin-inspired Embryo Protect One program.
 - [Euploid Biotechnologies](entities/EuploidBiotechnologies.md) — European fertility-biotechnology startup developing the reported enzyme-diversion molecule Liventa.
 - [Belarus](entities/Belarus.md) — Eastern European state whose post-2020 repression, Russian dependency, and cultural contest structure the episode’s political report.
@@ -13201,7 +13204,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mekong River / 湄公河](entities/MekongRiver.md) — EP267 river route linking China, Laos, Cambodia, Tonle Sap, Vietnam's delta, monsoon seasonality, and water-managed history.
 - [Mainland Southeast Asia / 中南半岛](entities/MainlandSoutheastAsia.md) — EP267 regional frame where north-south mountains and river valleys shape ethnic, state, and cultural variation.
 - [Laos / 老挝](entities/Laos.md) — EP267 travel setting for Luang Prabang, Vientiane, temples, almsgiving, engagement ritual, China-Laos Railway, and riverine culture.
-- [Cambodia / 柬埔寨](entities/Cambodia.md) — EP267 Angkor and Tonle Sap setting for hydraulic empire, wetland abundance, and later water-management fragility.
+- [Cambodia / 柬埔寨](entities/Cambodia.md) — Country profile spanning Angkorian water systems, wartime collapse and Khmer Rouge rule, and contemporary scam compounds with coerced labor and mobile criminal infrastructure.
 - [Khmer Empire / 吴哥王朝](entities/KhmerEmpire.md) — Angkor-era polity in EP267 interpreted through temples, sacred kingship, water storage, rice agriculture, and Tonle Sap hydrology.
 - [Angkor / 吴哥](entities/Angkor.md) — EP267 monumental site where temples, inscriptions, water systems, and field presence make mainland Southeast Asian civilization legible.
 - [Tonle Sap Lake / 洞里萨湖](entities/TonleSapLake.md) — Cambodian flood-pulse lake in EP267 linking Mekong hydrology, fishery abundance, Angkor irrigation, and wetland adaptation.
@@ -18877,6 +18880,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Forced Scam Labor](concepts/ForcedScamLabor.md) — Trafficking pattern in which deceptive recruitment, passport confiscation, threats, or violence coerce workers into committing online fraud.
 - [Oocyte Chromosome Stabilization](concepts/OocyteChromosomeStabilization.md) — Preclinical strategy for protecting chromosome cohesion during egg maturation to reduce aneuploidy before embryo formation.
 - [Belarusian Cultural Suppression](concepts/BelarusianCulturalSuppression.md) — Post-2020 removal of Belarusian national expression alongside stronger Russian narratives in public institutions.
 - [永明时代 / Yongming Era](concepts/YongmingEra.md) — 将中央重建、社会代价、宫廷文学与梁代文化形成连接起来的南齐时期。
@@ -25191,7 +25195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Customer Service Sludge](concepts/CustomerServiceSludge.md) — Customer-service friction pattern where chatbots, phone bots, and automated claims systems can delay or deter accountable human help.
 - [Competitive Billionaire Wealth](concepts/CompetitiveBillionaireWealth.md) — Distinction between billionaire fortunes built through competitive goods and services versus inheritance, restricted resources, or political favor.
 - [Wealth Tax Legitimacy](concepts/WealthTaxLegitimacy.md) — Framework separating political-power, justice, and economic-cost arguments for taxing large fortunes.
-- [Scam Compound Political Protection](concepts/ScamCompoundPoliticalProtection.md) — Pattern where raids, sanctions, and extraditions disrupt scam sites without dismantling protected enabling systems.
+- [Scam Compound Political Protection](concepts/ScamCompoundPoliticalProtection.md) — Pattern where raids, sanctions, seizures, and closures disrupt visible sites without dismantling protected leadership, finance, labor coercion, or mobile capacity.
 - [Political Image Maintenance](concepts/PoliticalImageMaintenance.md) — Use of backstory, performance perception, media attention, and rival containment to preserve public legitimacy.
 - [Founder-Led Service Replication](concepts/FounderLedServiceReplication.md) — Scaling problem where customers may be buying the founder's live performance, charisma, or judgment rather than a separable service.
 - [Customer Reactivation](concepts/CustomerReactivation.md) — Retention-led restart pattern that returns to prior customers for repeat purchase, feedback, referrals, and use-case learning before broad acquisition.
@@ -28938,7 +28942,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Advance-Fee Fraud](concepts/AdvanceFeeFraud.md) — Scam pattern where a promised windfall requires the victim to pay fees, transfer costs, taxes, or processing charges first.
 - [Penny Stock Boiler Room Fraud](concepts/PennyStockBoilerRoomFraud.md) — Sales-driven securities fraud using scripts, high commissions, low-priced stocks, and asymmetric seller incentives.
 - [Social Engineering Fraud](concepts/SocialEngineeringFraud.md) — Fraud that manipulates trust, identity, emotion, urgency, or social context more than technical systems.
-- [Pig Butchering Scam](concepts/PigButcheringScam.md) — Long-con romance or relationship scam that builds trust before steering victims into transfers or fake investment platforms.
+- [Pig Butchering Scam](concepts/PigButcheringScam.md) — Industrialized long-con that builds trust before fake-platform or crypto transfers and may be performed by coerced workers inside protected compounds.
 - [Lottery Gambling Platform Fraud](concepts/LotteryGamblingPlatformFraud.md) — Risk that betting, lottery, or small-payment prize platforms control odds, winners, settlement, and balances.
 - [AI Impersonation Fraud Risk](concepts/AIImpersonationFraudRisk.md) — Risk that generated voices, faces, or personalized media weaken traditional identity verification in scams.
 - [Social Signal Interpretation](concepts/SocialSignalInterpretation.md) — Reading indirect meaning from timing, relationship, setting, emotional state, and nonliteral prompts.
@@ -28946,7 +28950,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Workplace Communication Risk](concepts/WorkplaceCommunicationRisk.md) — Risk that office words, favors, jokes, or repeated patterns are interpreted differently by colleagues than intended.
 - [Language Precision](concepts/LanguagePrecision.md) — Revisable discipline of preserving consequential distinctions across speech, technical naming, public language, and shared reference standards.
 - [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Cross-channel warning signs spanning impossible returns, staged proof, borrowed authority, opaque cash flow, unfamiliar platforms, software installation, remote access, and withdrawal fees.
-- [Fake Investment Platform Risk](concepts/FakeInvestmentPlatformRisk.md) — Risk that displayed balances, prices, trades, or withdrawals belong to a false or manipulated investment platform rather than a real venue.
+- [Fake Investment Platform Risk](concepts/FakeInvestmentPlatformRisk.md) — Risk that a controlled interface fabricates investment activity even when the victim's cryptocurrency purchase and wallet transfer are real.
 - [Stock Tip Group Risk](concepts/StockTipGroupRisk.md) — Risk from teacher-led stock groups, screenshots, VIP fees, insider claims, and gain-sharing guidance where advice incentives are asymmetric.
 - [Elderly Care Financial Fraud](concepts/ElderlyCareFinancialFraud.md) — Exploitation of retirement anxiety, property documents, seminar trust, and "house-for-pension" or retirement-real-estate narratives.
 - [Insurance Policy Loan Fraud](concepts/InsurancePolicyLoanFraud.md) — Use of legitimate policies, pledges, or loans as bridges into unrelated high-risk or fraudulent investment arrangements.
