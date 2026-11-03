@@ -48376,6 +48376,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/childanimalcrueltylifeeducation/"
     },
+    "ChildCenteredPerformanceFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgMbV3QpBuD6LAtA67q4KIoMPU513 [wKgMbV3QpBuD6LAtA67q4KIoMPU513].md",
+          "key": "ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513",
+          "show": "无时差研究所",
+          "title": "EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)",
+          "url": "/wiki/sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/childcenteredperformancefeedback/"
+    },
     "ChildCommunicationDevelopmentSignals": {
       "episode_count": 1,
       "show_count": 1,
@@ -97011,9 +97027,9 @@
       "url": "/wiki/concepts/familycommunicationscaffolding/"
     },
     "FamilyEducationAlignment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
@@ -97021,9 +97037,16 @@
           "show": "无时差研究所",
           "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
           "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
+        },
+        {
+          "episode_file": "wKgMbV3QpBuD6LAtA67q4KIoMPU513 [wKgMbV3QpBuD6LAtA67q4KIoMPU513].md",
+          "key": "ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513",
+          "show": "无时差研究所",
+          "title": "EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)",
+          "url": "/wiki/sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-03",
       "url": "/wiki/concepts/familyeducationalignment/"
     },
     "FamilyHealthcarePersuasion": {
@@ -226719,6 +226742,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/playascontingencytesting/"
     },
+    "PlayBasedEarlyLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgMbV3QpBuD6LAtA67q4KIoMPU513 [wKgMbV3QpBuD6LAtA67q4KIoMPU513].md",
+          "key": "ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513",
+          "show": "无时差研究所",
+          "title": "EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)",
+          "url": "/wiki/sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/playbasedearlylearning/"
+    },
     "Playdate": {
       "episode_count": 1,
       "show_count": 1,
@@ -229374,6 +229413,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/positiveairwaypressuretherapy/"
+    },
+    "PositiveGuidanceInEarlyChildhood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgMbV3QpBuD6LAtA67q4KIoMPU513 [wKgMbV3QpBuD6LAtA67q4KIoMPU513].md",
+          "key": "ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513",
+          "show": "无时差研究所",
+          "title": "EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)",
+          "url": "/wiki/sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513/"
+        }
+      ],
+      "updated": "2026-11-03",
+      "url": "/wiki/concepts/positiveguidanceinearlychildhood/"
     },
     "PositiveMasculinityCode": {
       "episode_count": 3,

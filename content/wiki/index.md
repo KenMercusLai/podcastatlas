@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP94-没有哪个孩子天生就是“熊孩子”-聊聊中美的早期教育(下)](sources/ep94-meiyou-nage-haizi-tiansheng-jiushi-xionghaizi-liaoliao-zhongmei-de-zaoqi-jiaoyu-xia-wkgmbv3qpbud6lata67q4kiompu513.md) — 无时差研究所用正向指令、情绪承认、游戏学习、具体反馈和家校一致性讨论尊重儿童独立性的早期教育。
 - [羽毛球价格回落，无印良品将向欧美复制中国经验](sources/yumaoqiu-jiage-huiluo-wuyinliangpin-jiang-xiang-oumei-fuzhi-zhongguo-jingyan-gkwriueovjpsaflmdqt0zl6p.md) — 声动早咖啡串联本地决策权、海外增长、AI硬件与算力投入、渠道重组，并以羽毛球拆解原料、扩产、库存和价格的反转循环。
 - [Off to the races: our American-midterms preview](sources/80e710d10d18ebe74145f9a83b5ea1e8-80e710d10d18ebe74145f9a83b5ea1e8mp3aid6ae852a798a5c8b2e347e723chidd556eb54-6160-4.md) — Economist Podcasts links election-interference preparation, the weakening default case for property wealth, and Houdini's craft-first publicity system.
 - [What it means when AI helps solve complex math problems](sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128.md) — Marketplace Tech distinguishes machine-checked proof from human mathematical understanding and connects that gap to research ethics, oral assessment, hiring, and graduate education.
@@ -18860,6 +18861,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《零丁世》 / Ling Ding Shi](entities/LingDingShi.md) — 以番石榴式结构容纳四组漂泊故事，并以方言、家族记忆、历史材料与幻想拒绝封闭解谜的长篇小说。
 
 ## Concepts
+- [Positive Guidance in Early Childhood / 幼儿正向引导](concepts/PositiveGuidanceInEarlyChildhood.md) — 用可执行的正向指令、情绪承认、后果解释和安全分级替代单纯禁止与贴标签。
+- [Play-Based Early Learning / 游戏化早期学习](concepts/PlayBasedEarlyLearning.md) — 将感官探索、运动、搭建、平行游戏、合作与整理视为幼儿发展的学习过程。
+- [Child-Centered Performance Feedback / 儿童中心的表现反馈](concepts/ChildCenteredPerformanceFeedback.md) — 以具体描述、儿童作者权、自我比较和输赢后的情绪支持替代笼统评价与公开羞辱。
 - [Badminton Input-Cost Inventory Cycle](concepts/BadmintonInputCostInventoryCycle.md) — Feedback loop where feather supply, production capacity, dealer inventory, price, and participation amplify a shuttlecock market reversal.
 - [Retail Localization Decision Rights](concepts/RetailLocalizationDecisionRights.md) — Authority for local teams and stores to adapt assortment, product, production, and marketing inside a global retail system.
 - [Election Interference Preparedness](concepts/ElectionInterferencePreparedness.md) — Advance rehearsal of legal, operational, communication, and security responses to election-day intimidation or disruption.

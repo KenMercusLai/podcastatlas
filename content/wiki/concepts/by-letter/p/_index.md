@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10972
+wiki_total_pages: 10975
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "PlayAsContingencyTesting"
     title: "Play as Contingency Testing"
     url: "/wiki/concepts/playascontingencytesting/"
+  - key: "PlayBasedEarlyLearning"
+    title: "Play-Based Early Learning / 游戏化早期学习"
+    url: "/wiki/concepts/playbasedearlylearning/"
   - key: "PlayerDevelopmentAnalytics"
     title: "Player Development Analytics"
     url: "/wiki/concepts/playerdevelopmentanalytics/"
@@ -1490,6 +1493,9 @@ wiki_pages:
   - key: "PositiveExternality"
     title: "Positive Externality"
     url: "/wiki/concepts/positiveexternality/"
+  - key: "PositiveGuidanceInEarlyChildhood"
+    title: "Positive Guidance in Early Childhood / 幼儿正向引导"
+    url: "/wiki/concepts/positiveguidanceinearlychildhood/"
   - key: "PositiveJournalism"
     title: "Positive Journalism"
     url: "/wiki/concepts/positivejournalism/"

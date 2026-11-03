@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3599
+topic_total_pages: 3602
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -673,6 +673,9 @@ topic_concepts:
   - key: "ChildProdigyFamilyEnterprise"
     title: "Child Prodigy Family Enterprise"
     url: "/wiki/concepts/childprodigyfamilyenterprise/"
+  - key: "ChildCenteredPerformanceFeedback"
+    title: "Child-Centered Performance Feedback / 儿童中心的表现反馈"
+    url: "/wiki/concepts/childcenteredperformancefeedback/"
   - key: "ChildhoodReadingEcology"
     title: "Childhood Reading Ecology"
     url: "/wiki/concepts/childhoodreadingecology/"
@@ -2635,6 +2638,9 @@ topic_concepts:
   - key: "PlatonicAthleticEducation"
     title: "Platonic Athletic Education / 柏拉图式体育教育"
     url: "/wiki/concepts/platonicathleticeducation/"
+  - key: "PlayBasedEarlyLearning"
+    title: "Play-Based Early Learning / 游戏化早期学习"
+    url: "/wiki/concepts/playbasedearlylearning/"
   - key: "PlayerHousingAsLaborBenefit"
     title: "Player Housing as Labor Benefit"
     url: "/wiki/concepts/playerhousingaslaborbenefit/"
@@ -2710,6 +2716,9 @@ topic_concepts:
   - key: "PortugueseCulturalSymbolPolitics"
     title: "Portuguese Cultural Symbol Politics"
     url: "/wiki/concepts/portugueseculturalsymbolpolitics/"
+  - key: "PositiveGuidanceInEarlyChildhood"
+    title: "Positive Guidance in Early Childhood / 幼儿正向引导"
+    url: "/wiki/concepts/positiveguidanceinearlychildhood/"
   - key: "PositiveJournalism"
     title: "Positive Journalism"
     url: "/wiki/concepts/positivejournalism/"

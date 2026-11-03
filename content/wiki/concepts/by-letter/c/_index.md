@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 10972
+wiki_total_pages: 10975
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "ChildThirdPartyLiabilityInsurance"
     title: "Child Third-Party Liability Insurance"
     url: "/wiki/concepts/childthirdpartyliabilityinsurance/"
+  - key: "ChildCenteredPerformanceFeedback"
+    title: "Child-Centered Performance Feedback / 儿童中心的表现反馈"
+    url: "/wiki/concepts/childcenteredperformancefeedback/"
   - key: "ChildbearingIrreversibility"
     title: "Childbearing Irreversibility / 生育不可逆性"
     url: "/wiki/concepts/childbearingirreversibility/"
