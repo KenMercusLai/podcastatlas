@@ -7,47 +7,49 @@ sources:
   - socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216
   - sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978
   - all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025
-last_updated: 2026-08-30
+  - 26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4
+last_updated: 2026-11-04
 knowledge_schema: synthesis-v1
 ---
 
 # Democratic Party
 
 ## Overview
-The Democratic Party is tracked as a U.S. party whose wiki profile combines governing-majority pragmatism, left-populist pressure, institutional reform constraints, messaging problems, and source-dated 2026-2028 electoral strategy.
+The Democratic Party is tracked as a U.S. party combining governing-majority pragmatism, left-populist pressure, institutional constraints, economic-delivery demands, and a reported 2026 congressional and gubernatorial sweep.
 
 ## Current Profile
-The party's current synthesis is not simply left versus center. Across sources, Democrats are the more plausible institutional route for some reforms, but that route is blocked by Senate rules, federalism, media infrastructure, and credibility gaps around economic pain. Party selection is also contested: Rahm Emanuel argues DSA-style politics does not build governing majorities, The Intelligence treats a Michigan left primary win as a real but incomplete signal, and Silver maps Democrats into the left, abundance liberals, and resistance liberals while forecasting a favorable 2026 House environment and a volatile 2028 primary.
+The party's sources do not reduce its conflict to left versus center. Rahm Emanuel argues for coalition breadth and governing capacity; the Michigan primary records real demand for left-populist disruption; Silver maps left, abundance-liberal, and resistance-liberal factions. The later midterm account shows both coalition paths winning: [[AbdulElSayed]] takes Michigan, while less overtly partisan Democrats such as [[JamesTalarico]] reportedly win by larger margins in more Republican settings.
+
+Electoral success does not remove the delivery problem. Democrats gain both chambers on a cost-of-living, healthcare, anti-corruption, and anti-enforcement backlash, but presidential vetoes, possible noncompliance with oversight, institutional veto points, and base pressure for impeachment constrain what the majority can accomplish.
 
 ## Key Characteristics
-- Reform channel constrained by federal institutions, Senate rules, and communication failures.
-- Governing-majority party in tension with DSA-style and left-populist pressure.
-- Primary electorate increasingly open to disruption, with uncertain general-election translation.
-- Factional coalition containing left, abundance-liberal, and resistance-liberal strategies.
-- Electoral beneficiary of a 2026 anti-incumbent environment, especially in the House, but still limited by Senate geography and candidate selection.
+- Broad coalition containing left, abundance-liberal, resistance-liberal, and governing-pragmatist strategies.
+- Reform channel constrained by federal institutions, Senate rules, executive resistance, and communication failures.
+- Capable of winning both through left-populist candidates and less overtly partisan cross-party appeals.
+- Beneficiary of a 2026 anti-incumbent environment that expanded beyond the House into the Senate and governorships.
+- Holds an economic and practical-governance mandate whose durability depends on visible delivery.
 
 ## Evidence
-- Reform channel: [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] presents Democrats as the more plausible route for health-care reform while stressing Senate rules, federalism, and weak media or messaging infrastructure.
-- Governing-majority tension: [[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] records Emanuel arguing that deepening safe blue districts through DSA challenges does not deliver minimum wage, pre-K, children's healthcare, or anti-Trump governing power.
-- Primary disruption: [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] treats Abdul El-Sayed's statewide Michigan primary win as a stronger left signal than an urban-only win while preserving [[PrimaryElectorateDistortion]] as a general-election warning.
-- Factional coalition: [[all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025]] maps Democrats into the left, abundance liberals, and resistance liberals.
-- 2026 environment: [[all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025]] treats Democrats as strongly favored for the House but less favored for the Senate because the Senate map requires red-state wins.
+- Governing-majority tension: [[all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310]] records Emanuel arguing that deepening safe blue districts does not by itself deliver policy or national majorities.
+- Primary disruption: [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] treats El-Sayed's Michigan primary win as a statewide left signal while preserving general-election uncertainty.
+- Institutional constraint: [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] presents Democrats as a plausible reform channel limited by Senate rules, federalism, fragmented coalitions, and weak media reach.
+- Factions and forecast: [[all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025]] supplies the three-faction map and predicts a favorable House environment with a harder Senate path.
+- Sweep and coalition breadth: [[26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4]] reports wins in both chambers and several governorships, El-Sayed's victory, and larger margins for less overtly partisan candidates in more Republican states.
+- Delivery constraint: [[26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4]] says vetoes, subpoena resistance, healthcare-policy limits, the Iran war, and impeachment pressure could separate victory from tangible outcomes.
 
 ## Qualifications
-The party profile remains source-scoped and date-sensitive. Silver's 2026 probabilities and 2028 candidate judgments are June 29, 2026 assessments; Emanuel's DSA critique is an establishment-pragmatist view; the Michigan source treats left primary strength as real but not proof of national electability.
+The party profile remains source-scoped and date-sensitive. Emanuel represents an establishment-pragmatist view; Silver's probabilities were a June snapshot; and the November episode is an immediate post-election interpretation without official returns or later legislative evidence. Relative candidate margins do not isolate ideology from state baselines, turnout, money, opponents, or national conditions.
 
 ## What Changed
-- Added Silver's three-faction Democratic map.
-- Added source-dated 2026 House/Senate probabilities and map constraints.
-- Added 2028 candidate implications around Newsom continuity and AOC outsider possibility.
-- Migrated the page to the synthesis-first entity schema.
+- Replaced the forecast-only 2026 frame with a reported House, Senate, and gubernatorial sweep.
+- Recorded that left-populist and less overtly partisan candidates both won, with different reported margins.
+- Elevated visible cost-of-living and healthcare delivery as the majority's central durability test.
 
 ## Relationships
 - [[DemocraticSocialistsOfAmerica]] - left pressure and party-boundary conflict.
-- [[PopulistDemocraticEnergy]] - democratic-demand pattern feeding the party's left and outsider politics.
 - [[DemocraticFactionMap]] - source-specific map of internal party blocs.
-- [[PrimaryElectorateDistortion]] - risk that primary preferences overstate general-election appeal.
-- [[StatewideLeftPrimaryTest]] - Michigan case testing left strength outside a deep-blue city.
-- [[MidtermBacklashForecasting]] - 2026 congressional-control frame.
-- [[GavinNewsom]] - continuity candidate whose 2028 case is difficult in Silver's view.
-- [[AlexandriaOcasioCortez]] - outsider scenario inside the Democratic left.
+- [[AbdulElSayed]] - left-populist nominee who later wins in the reported outcome.
+- [[JamesTalarico]] - Texas winner presented as having broader cross-party reach.
+- [[PrimaryElectorateDistortion]] - selection risk now qualified by one successful statewide case.
+- [[MidtermBacklashForecasting]] - forecast resolved by the reported 2026 sweep.
+- [[PoliticalDeliveryGap]] - risk that electoral authority fails to become visible governing results.

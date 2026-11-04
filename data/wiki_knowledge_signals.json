@@ -6912,6 +6912,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/abdalrahmaniii/"
     },
+    "AbdulElSayed": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/abdulelsayed/"
+    },
     "AbdullahIbnAlZubayr": {
       "episode_count": 1,
       "show_count": 1,
@@ -72514,9 +72537,9 @@
       "url": "/wiki/concepts/democraticfactionmap/"
     },
     "DemocraticParty": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -72545,9 +72568,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        },
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-11-04",
       "url": "/wiki/entities/democraticparty/"
     },
     "DemocraticRepublicOfCongo": {
@@ -116881,6 +116911,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/gilgamesh/"
     },
+    "GinaHinojosa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/ginahinojosa/"
+    },
     "GinaPoe": {
       "episode_count": 2,
       "show_count": 1,
@@ -152728,6 +152774,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/jamesstewartearlofmoray/"
+    },
+    "JamesTalarico": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/jamestalarico/"
     },
     "JamesVIAndI": {
       "episode_count": 2,
@@ -198176,9 +198238,9 @@
       "url": "/wiki/concepts/midlifefemalestrengthpowertraining/"
     },
     "MidtermBacklashForecasting": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
@@ -198186,9 +198248,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        },
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/midtermbacklashforecasting/"
     },
     "MigraineMedicationChoice": {
@@ -221084,9 +221153,9 @@
       "url": "/wiki/concepts/partisanscandalevidence/"
     },
     "PartisanshipAsElectoralGravity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
@@ -221094,9 +221163,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        },
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/partisanshipaselectoralgravity/"
     },
     "PartitionOfJin": {
@@ -243825,6 +243901,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/reddit/"
     },
+    "RedistrictingBackfireRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/redistrictingbackfirerisk/"
+    },
     "RedlandsDrugCase": {
       "episode_count": 1,
       "show_count": 1,
@@ -246368,6 +246460,43 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/republicanmemoryagainstdictatorship/"
+    },
+    "RepublicanParty": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "A hawk who flew on political winds： Lindsey Graham [6a54b56575790d5f01515d55].md",
+          "key": "a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55",
+          "show": "Economist Podcasts",
+          "title": "A hawk who flew on political winds: Lindsey Graham",
+          "url": "/wiki/sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55/"
+        },
+        {
+          "episode_file": "sp.05 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考（下）：分裂的美国会有宪政危机吗？ [790241978].md",
+          "key": "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978",
+          "show": "蜜獾吃书",
+          "title": "sp.05 【刘擎x林垚】\"枪杀医保巨头\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+          "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+        },
+        {
+          "episode_file": "vol.113.从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络 [lihNKnC-3oM5EVEXOcB6A6zdwueu].md",
+          "key": "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+          "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+        },
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/republicanparty/"
     },
     "RepublicanRestraintLeadership": {
       "episode_count": 3,
@@ -285167,9 +285296,9 @@
       "url": "/wiki/entities/texaschicken/"
     },
     "TexasElectoralRealignment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "5cf52a797029a5f0a14510e44dfaac06 [5cf52a797029a5f0a14510e44dfaac06.mp3？aid=6adf22dfdd5d6293db62cd9d&chid=d556eb54-6160-4.280].md",
@@ -285177,9 +285306,16 @@
           "show": "Economist Podcasts",
           "title": "From this day, fourth: Lula’s surprise win",
           "url": "/wiki/sources/from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06/"
+        },
+        {
+          "episode_file": "26de9aa88ef12e7e6192582e15ce704b [26de9aa88ef12e7e6192582e15ce704b.mp3？aid=6aeb148e2d18c73dd5116294&chid=d556eb54-6160-4.281].md",
+          "key": "26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Not in Kansas any more: Republicans get a thrashing",
+          "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/texaselectoralrealignment/"
     },
     "TextShapedCognition": {

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3452
+topic_total_pages: 3455
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3757,6 +3757,9 @@ topic_concepts:
   - key: "RecursiveSelfImprovementRegulationParadox"
     title: "Recursive Self-Improvement Regulation Paradox"
     url: "/wiki/concepts/recursiveselfimprovementregulationparadox/"
+  - key: "RedistrictingBackfireRisk"
+    title: "Redistricting Backfire Risk"
+    url: "/wiki/concepts/redistrictingbackfirerisk/"
   - key: "ReformTimingTrap"
     title: "Reform Timing Trap"
     url: "/wiki/concepts/reformtimingtrap/"
@@ -6473,6 +6476,9 @@ topic_entities:
   - key: "GianniInfantino"
     title: "Gianni Infantino"
     url: "/wiki/entities/gianniinfantino/"
+  - key: "GinaHinojosa"
+    title: "Gina Hinojosa"
+    url: "/wiki/entities/ginahinojosa/"
   - key: "GiniIGenticAI"
     title: "Gini (iGentic AI)"
     url: "/wiki/entities/giniigenticai/"
@@ -6755,6 +6761,9 @@ topic_entities:
   - key: "JamesHacker"
     title: "James Hacker / Jim Hacker / 詹姆斯·哈克"
     url: "/wiki/entities/jameshacker/"
+  - key: "JamesTalarico"
+    title: "James Talarico"
+    url: "/wiki/entities/jamestalarico/"
   - key: "Japan"
     title: "Japan"
     url: "/wiki/entities/japan/"

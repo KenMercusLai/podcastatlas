@@ -42613,6 +42613,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GinaHinojosa": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GinaPoe": [
     {
       "key": "science",
@@ -51894,6 +51901,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JamesTalarico": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JamesWong": [
@@ -77140,6 +77154,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RedistrictingBackfireRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RedlandsDrugCase": [

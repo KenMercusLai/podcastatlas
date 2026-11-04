@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13898
+wiki_total_pages: 13900
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "Gilgamesh"
     title: "Gilgamesh / 吉尔伽美什"
     url: "/wiki/entities/gilgamesh/"
+  - key: "GinaHinojosa"
+    title: "Gina Hinojosa"
+    url: "/wiki/entities/ginahinojosa/"
   - key: "GinaPoe"
     title: "Gina Poe"
     url: "/wiki/entities/ginapoe/"
