@@ -18,7 +18,8 @@ sources:
   - 299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn
   - 370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd
   - 374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck
-last_updated: 2026-10-30
+  - 375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr
+last_updated: 2026-11-05
 ---
 
 # 独树不成林 / Dushu Buchenglin
@@ -47,6 +48,8 @@ The Prometheus episode adds Greek tragedy as a technology-philosophy instrument.
 
 The fitness episode returns to Plato but shifts from algorithmic perception to embodied education. It connects the *Republic*'s criticism of professional-athlete *diaita* to training plans, nutrition budgets, recovery metrics, and wearable scores, then asks whether optimization builds adaptable courage or makes everyday life answer to the regime. [[PlatonicAthleticEducation]], [[AthleticRegimenRigidity]], and [[QuantifiedBodyDiscipline]] extend the show's recurring distinction between useful technique and the purposes technique cannot settle.
 
+The midterm episode brings the show's political-history method to an immediate election. It separates ordinary presidential-party punishment from durable realignment, then connects lived costs, war, candidate selection, institutional power, and succession. Its distinctive contribution is to treat MAGA as both a successful new Republican establishment and a movement whose personal dependence on Trump may limit general-election translation and post-Trump continuity.
+
 ## Key Characteristics
 
 - Political-philosophy reading context that uses thinkers, texts, and tragic characters rather than operating as a purely literary, news, or advice show in the current wiki record.
@@ -69,17 +72,18 @@ The fitness episode returns to Plato but shifts from algorithmic perception to e
 - Public identity and platform reception: [[299-nage-shejiao-pingtai-zuilan-lqh8pcpp387ilvl4hrcpqwuguzvn]] connects offline relationship context, one-voice creator pressure, visible-minority platform culture, issue-focused disagreement, and self-sealing jargon.
 - Greek tragedy and technology: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] uses Prometheus, Hephaestus, and Io to distinguish knowledge, control, hope, purpose, and disclosure.
 - Fitness and education: [[374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck]] uses Plato to distinguish strength from courage, useful measurement from metric rule, and disciplined practice from a brittle whole-life regime.
+- Elections and movement succession: [[375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr]] distinguishes cyclical backlash from realignment and intraparty authority from general-election and post-leader portability.
 
 ## Qualifications
 
-The profile remains limited to fourteen ingested source notes and does not establish the show’s full host roster, history, catalog, or methodological consistency. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and cross-platform reception claims, Paglia-derived psychoanalytic claims, linguistic and etymological claims, translation-industry figures, dictionary-history details, Gulf economic figures, youth mental-health mechanisms, Greek textual claims, fitness-culture observations, and long-run cultural or political comparisons should not be generalized as settled empirical findings. The platform episode explicitly discusses visible participants rather than representative users and does not isolate design, recommendation, moderation, audience, or timing. The dictionary episode is especially stronger on American than Chinese lexicographical history, the Saudi episode is an interpretive political argument rather than an independent policy audit, the youth-policy episode gives less attention to privacy, evasion, speech access, and age-verification tradeoffs than later sources, and the Prometheus and fitness episodes are philosophical interpretations rather than full philological, clinical, or empirical studies.
+The profile remains limited to fifteen ingested source notes and does not establish the show’s full host roster, history, catalog, or methodological consistency. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and cross-platform reception claims, Paglia-derived psychoanalytic claims, linguistic and etymological claims, translation-industry figures, dictionary-history details, Gulf economic figures, youth mental-health mechanisms, Greek textual claims, fitness-culture observations, and long-run cultural or political comparisons should not be generalized as settled empirical findings. The platform episode explicitly discusses visible participants rather than representative users and does not isolate design, recommendation, moderation, audience, or timing. The dictionary episode is especially stronger on American than Chinese lexicographical history, the Saudi episode is an interpretive political argument rather than an independent policy audit, the youth-policy episode gives less attention to privacy, evasion, speech access, and age-verification tradeoffs than later sources, and the Prometheus and fitness episodes are philosophical interpretations rather than full philological, clinical, or empirical studies. The midterm episode is an immediate structured summary rather than official election data or a later test of realignment and succession.
 
 ## What Changed
 
-- Added bodily training and self-tracking to the show's political-philosophy range.
-- Distinguished strength and pain tolerance from courage governed by judgment.
-- Added rigidity as a failure mode of highly optimized training and nutrition routines.
-- Treated fitness metrics as useful evidence that can become a system of self-rule.
+- Added immediate U.S. election interpretation to the show's political-philosophy range.
+- Distinguished ordinary midterm backlash from durable realignment.
+- Distinguished Trump's primary authority from general-election translation.
+- Added movement institutionalization and post-founder succession as linked tests.
 
 ## Relationships
 
@@ -115,3 +119,6 @@ The profile remains limited to fourteen ingested source notes and does not estab
 - [[PlatonicAthleticEducation]] - physical and cultural education as coordinated character formation.
 - [[AthleticRegimenRigidity]] - loss of adaptability when regimen compliance becomes the goal.
 - [[QuantifiedBodyDiscipline]] - self-governance through training, nutrition, recovery, and wearable metrics.
+- [[MidtermBacklashForecasting]] - distinction among cycle, magnitude, and structural change.
+- [[TrumpEndorsementGeneralElectionGap]] - separation of primary control from wider electoral reach.
+- [[TrumpismInstitutionalization]] - movement transition from insurgency to governing establishment and succession problem.

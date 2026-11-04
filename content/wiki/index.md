@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [375-中期选举惨败后共和党何去何从？](sources/375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr.md) — 独树不成林 separates cyclical midterm backlash from realignment and links lived costs, the Iran war, endorsement translation, divided government, and post-Trump succession.
 - [Not in Kansas any more: Republicans get a thrashing](sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4.md) — Economist Podcasts interprets a reported Democratic midterm sweep through prices, immigration enforcement, candidate weakness, cross-party voting, redistricting backfire, governing constraints, and Republican identity conflict.
 - [在父母身边的异乡人：一个青田留守女孩的欧洲团聚](sources/df87c6565e781fb398f70d350ead6125-df87c6565e781fb398f70d350ead6125mp3aid6aeb07e0b9c91cbd2d16a0e5chid66b07190af99592-281.md) — 端闻以小瑞和英姐两代经历连接青田跨国留守、成年前团聚、债务与照护权衡、家庭经营劳动边界及华人酒吧的等待劳动。
 - [No.225 莆田鞋往事](sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w.md) — 半拿铁从出口鞋城、台资代工与产业集群追到仿冒分工、鉴定攻防、自主品牌受挫、集体商标和海外产能转移。
@@ -18929,6 +18930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Trump Endorsement General-Election Gap](concepts/TrumpEndorsementGeneralElectionGap.md) — Difference between Trump's control of Republican nominee selection and endorsed candidates' ability to win the broader electorate.
 - [Redistricting Backfire Risk](concepts/RedistrictingBackfireRisk.md) — Risk that a map designed to spread partisan advantage creates multiple vulnerable seats when the electoral swing is larger than expected.
 - [Cross-Border Family Reunification After Separation / 长期分离后的跨国家庭团聚](concepts/CrossBorderFamilyReunificationAfterSeparation.md) — 将法律与空间上的重聚理解为共享记忆、信任、照护和自主边界重建的开始，而非完成。
 - [Migrant-Family Debt–Care Tradeoff / 移民家庭债务—照护权衡](concepts/MigrantFamilyDebtCareTradeoff.md) — 借款、汇款、经营与长工时同陪伴、照护、教育、健康和团聚竞争的家庭资源配置冲突。

@@ -38514,3 +38514,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-05] ingest | 375-中期选举惨败后共和党何去何从？
+
+Added source `375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr`; created [[TrumpEndorsementGeneralElectionGap]]; resynthesized [[DushuBuchenglin|独树不成林]], [[JamesTalarico]], and [[MidtermBacklashForecasting]] from their complete preserved evidence inventories; and migrated and resynthesized [[MAGACoalitionFracture]], [[PrimaryElectorateDistortion]], and [[TrumpismInstitutionalization]] before appending the new source once. Core synthesis: the reported Democratic sweep may be a large instance of normal presidential-party backlash without yet proving realignment; lived costs and the Iran war link governing delivery to MAGA's hawk-restraint split; and Trump's continued primary authority can coexist with weak general-election translation and an unresolved post-Trump succession problem. No settled contradiction was adopted. Seat counts, vote margin, polls, inflation and energy figures, endorsement rates, candidate-message effects, voter motives, war duration, and 2028 positioning remain episode-scoped because the supplied file is an immediate structured summary rather than official returns, polling microdata, a campaign record, a transcript, or later governing evidence. Broad party, Trump, Vance, Rubio, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,828 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; 49 corpus-wide broken links remain pre-existing outside this ingest.
+
+## [2026-11-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

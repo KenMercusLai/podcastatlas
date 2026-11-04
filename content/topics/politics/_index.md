@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3455
+topic_total_pages: 3456
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4486,6 +4486,9 @@ topic_concepts:
   - key: "TrumpCoalitionFragmentation"
     title: "Trump Coalition Fragmentation"
     url: "/wiki/concepts/trumpcoalitionfragmentation/"
+  - key: "TrumpEndorsementGeneralElectionGap"
+    title: "Trump Endorsement General-Election Gap"
+    url: "/wiki/concepts/trumpendorsementgeneralelectiongap/"
   - key: "TrumpSupporterInterpretiveLoop"
     title: "Trump Supporter Interpretive Loop"
     url: "/wiki/concepts/trumpsupporterinterpretiveloop/"
