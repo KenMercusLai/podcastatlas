@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 10996
+wiki_total_pages: 10997
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1847,6 +1847,9 @@ wiki_pages:
   - key: "AirDefenseSaturation"
     title: "Air Defense Saturation"
     url: "/wiki/concepts/airdefensesaturation/"
+  - key: "AircraftLeasingIndustryScale"
+    title: "Aircraft Leasing Industry Scale"
+    url: "/wiki/concepts/aircraftleasingindustryscale/"
   - key: "AirframeEngineLockIn"
     title: "Airframe Engine Lock-In"
     url: "/wiki/concepts/airframeenginelockin/"

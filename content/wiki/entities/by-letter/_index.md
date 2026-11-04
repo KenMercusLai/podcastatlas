@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13880
+wiki_total_pages: 13885
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "Aeolus"
     title: "Aeolus"
     url: "/wiki/entities/aeolus/"
+  - key: "AerCap"
+    title: "AerCap"
+    url: "/wiki/entities/aercap/"
   - key: "AeroFS"
     title: "AeroFS"
     url: "/wiki/entities/aerofs/"
@@ -2078,6 +2081,9 @@ wiki_pages:
   - key: "AvivOvadia"
     title: "Aviv Ovadia"
     url: "/wiki/entities/avivovadia/"
+  - key: "Avolon"
+    title: "Avolon"
+    url: "/wiki/entities/avolon/"
   - key: "AvramGannibal"
     title: "Avram Petrovich Gannibal"
     url: "/wiki/entities/avramgannibal/"

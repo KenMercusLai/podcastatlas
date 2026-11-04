@@ -13755,6 +13755,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AircraftLeasingIndustryScale": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AireyNeave": [
     {
       "key": "politics",

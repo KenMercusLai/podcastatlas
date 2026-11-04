@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2351
+topic_total_pages: 2352
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -259,6 +259,9 @@ topic_concepts:
   - key: "AirCargoValueDensity"
     title: "Air Cargo Value Density / 航空货运价值密度"
     url: "/wiki/concepts/aircargovaluedensity/"
+  - key: "AircraftLeasingIndustryScale"
+    title: "Aircraft Leasing Industry Scale"
+    url: "/wiki/concepts/aircraftleasingindustryscale/"
   - key: "AirportPPPConcession"
     title: "Airport PPP Concession / 机场PPP特许经营"
     url: "/wiki/concepts/airportpppconcession/"

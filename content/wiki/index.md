@@ -4933,7 +4933,14 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [The Future of Biology, AI and Human Innovation with Michael Heltzen | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666-defaultmp3-ywr3ahjkcgo-0072b39de33032a1a0224d40898a99a6-85959666.md) — Tomorrow Today interview on bioinformatics, CRISPR biosensing, cell-free enzyme engineering, experiment-grounded protein models, scarce natural products, and AI-era human skills.
 
+- [全球一半的客机都是租来的，为什么航空公司越来越依赖租飞机？](sources/quanqiu-yiban-de-keji-doushi-zulai-de-weishenme-hangkong-gongsi-yuelaiyue-yilai-zufeiji-gkwriueov5quagrxvgt1foqm.md) — 声动早咖啡以 Avolon 大额订单解释航司现金与运力灵活性、飞机供给短缺、爱尔兰租赁集群及大型租赁商的规模优势。
+
 ## Entities
+- [Avolon](entities/Avolon.md) — Ireland-based aircraft lessor whose large fleet and forward orders illustrate scarce delivery access and leasing scale.
+- [AerCap](entities/AerCap.md) — Source-described global aircraft-leasing leader linked to GPA's Irish lineage and global remarketing reach.
+- [Guinness Peat Aviation / GPA](entities/GuinnessPeatAviation.md) — Irish leasing pioneer whose early bundled aircraft placement helped establish the industry cluster.
+- [Tony Ryan](entities/TonyRyan.md) — GPA founder presented as recognizing the cross-border aircraft-placement opportunity.
+- [Bohai Leasing / 渤海租赁](entities/BohaiLeasing.md) — Avolon parent presented as shifting strategic emphasis from container leasing toward aircraft leasing.
 - [《后会有期》 / Hou Hui You Qi](entities/HouHuiYouQiShow.md) — 以失联、误会或决裂的朋友为对象，通过旅行、写信和对谈区分重新接触、解释与和解的真人综艺。
 - [许飞 / Xu Fei (singer-songwriter)](entities/XuFeiSinger.md) — 2006《超级女声》选手与创作歌手，其与厉娜的友情及未决商演告密疑云在《后会有期》中被重访。
 - [厉娜 / Li Na (singer and actor)](entities/LiNaSinger.md) — 2006《超级女声》选手与演员，在《后会有期》中重访与许飞的友情，同时保留对商演告密的怀疑与证据边界。
@@ -18900,6 +18907,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Aircraft Leasing Industry Scale](concepts/AircraftLeasingIndustryScale.md) — Reinforcing advantage joining aircraft orders, funding, credit, manufacturer discounts, remarketing reach, and geographic diversification.
 - [Friendship Misunderstanding Accumulation / 友情误会累积](concepts/FriendshipMisunderstandingAccumulation.md) — 不确定事件在缺少及时核对时，被沉默、中间人、事业挫折与记忆固化为长期背叛叙事的机制。
 - [Nostalgic Media Rediscovery / 怀旧媒介再发现](concepts/NostalgicMediaRediscovery.md) — 当前节目重启旧媒介档案，使熟悉人物、个人青春记忆与新的编辑框架共同形成再发现。
 - [Embodied Human Presence in Synthetic Media / 合成媒介中的真人在场](concepts/EmbodiedHumanPresenceInSyntheticMedia.md) — 在生成内容扩张时，身体反应、共同环境、相互回应与不可完全控制的互动所提供的媒介价值。

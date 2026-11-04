@@ -38460,3 +38460,11 @@ Added source `ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiwei
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-04] ingest | 全球一半的客机都是租来的，为什么航空公司越来越依赖租飞机？
+
+Added source `quanqiu-yiban-de-keji-doushi-zulai-de-weishenme-hangkong-gongsi-yuelaiyue-yilai-zufeiji-gkwriueov5quagrxvgt1foqm`; created [[Avolon]], [[AerCap]], [[GuinnessPeatAviation|Guinness Peat Aviation / GPA]], [[TonyRyan]], [[BohaiLeasing|Bohai Leasing / 渤海租赁]], and [[AircraftLeasingIndustryScale]]; and migrated and resynthesized [[AviationFinanceLeasing]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: leasing lets airlines preserve cash and adjust fleet access, but it retains fixed obligations; on the lessor side, manufacturing shortages and long delivery queues make order books, funding, credit quality, manufacturer discounts, and global remarketing reach mutually reinforcing scale advantages, while focused cargo, older-aircraft, or wet-lease specialists may remain viable. No settled contradiction was adopted. Fleet shares and counts, order totals and options, supply-gap estimates, delivery waits, market shares, asset thresholds, and company strategy remain episode-scoped because the supplied file is a structured summary rather than a transcript, filing, fleet database, contract set, or independent industry study. Broad [[Ireland]], [[Airbus]], [[Boeing]], [[Apple]], [[Inditex]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,821 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

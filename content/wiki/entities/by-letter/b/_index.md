@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13880
+wiki_total_pages: 13885
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "Bogside"
     title: "Bogside"
     url: "/wiki/entities/bogside/"
+  - key: "BohaiLeasing"
+    title: "Bohai Leasing / 渤海租赁"
+    url: "/wiki/entities/bohaileasing/"
   - key: "BolaTinubu"
     title: "Bola Tinubu"
     url: "/wiki/entities/bolatinubu/"

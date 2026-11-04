@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13880
+wiki_total_pages: 13885
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "Guinevere"
     title: "Guinevere"
     url: "/wiki/entities/guinevere/"
+  - key: "GuinnessPeatAviation"
+    title: "Guinness Peat Aviation / GPA"
+    url: "/wiki/entities/guinnesspeataviation/"
   - key: "Guizhou"
     title: "Guizhou"
     url: "/wiki/entities/guizhou/"
