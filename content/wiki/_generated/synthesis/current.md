@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-26
-as_of_overview_commit: b2ecdad6bebe6fe46a88f2d4e01e15170498bffd
-summary: "Across domains, durable value joins capability to evidence, implementation, accountability, and human judgment."
-episode_count: 4814
-source_count: 4814
+last_updated: 2026-11-04
+as_of_overview_commit: aa5337a48545041fca06dc31cd959e0ebdbb88bf
+summary: "Across domains, durable value joins capability to evidence, implementation, accountability, context, and human judgment."
+episode_count: 4826
+source_count: 4826
 paragraph_count: 806
 topic_count: 9
 ---
@@ -29,14 +29,14 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on the coupled system around models: compute, data, workflow integration, organizational change, verification, governance, and accountable human judgment.
+AI value depends on the coupled system around models: compute, power, memory, data, routing, workflow integration, organizational change, verification, governance, and accountable human judgment.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
 
 ### Business and Markets
 
-Durable business value requires cash flow, unit economics, governance, capital discipline, distribution, execution, and price rather than narrative momentum alone.
+Durable business value requires cash flow, unit economics, governance, capital structure, distribution, execution, and price rather than narrative momentum alone.
 
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a financial-media market case: [[HongKongEconomicJournal|《信报》]] created value through [[FinancialCommentaryKnowledgeTranslation]], joining markets to economics, institutions, policy, and international affairs in accessible Chinese, while [[LuoYoumei|骆友梅]]'s organizational work and [[AdvertiserPressureEditorialIndependence]] show that public knowledge requires both editorial judgment and a business able to absorb pressure. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[HongKongEconomicJournal]], [[FinancialCommentaryKnowledgeTranslation]], [[LinXingzhi]], [[LuoYoumei]], [[AdvertiserPressureEditorialIndependence]], [[ZhangWuchang]], [[LiKaShing]], [[LiTzarKai]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].

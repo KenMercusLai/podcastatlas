@@ -38499,3 +38499,10 @@ Added source `no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w`; created [[Put
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-04] ingest | 在父母身边的异乡人：一个青田留守女孩的欧洲团聚
+
+Added source `df87c6565e781fb398f70d350ead6125-df87c6565e781fb398f70d350ead6125mp3aid6aeb07e0b9c91cbd2d16a0e5chid66b07190af99592-281`; created [[XiaoRuiQingtianMigrant|小瑞]], [[YingJieQingtianMigrant|英姐]], [[CrossBorderFamilyReunificationAfterSeparation]], [[MigrantFamilyDebtCareTradeoff]], [[FamilyEnterpriseLaborBoundary]], and [[WaitingLaborAvailability]]. Core synthesis: physical and legal reunion after seventeen years begins rather than completes family repair; migration debt and low-margin long-hours work can convert care into an allocation conflict before and after reunion; kinship does not erase the need for wages, hours, health recognition, rest, and refusal rights; and quiet shop time remains constrained labor when workers must stay available. No settled contradiction was adopted. Family motives, residence rules, business finance, labor conditions, health details, city statistics, and generational trends remain episode-scoped because the supplied file is a structured summary rather than a transcript, official record, contract set, time-use study, or representative migration survey. The large [[DuanwenNewsPodcast|端闻]] profile and automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening a nine-source evidence inventory or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the age-based global compaction gate was due and refreshed artifacts validate 4,826 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

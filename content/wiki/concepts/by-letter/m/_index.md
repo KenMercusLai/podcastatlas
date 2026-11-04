@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11010
+wiki_total_pages: 11014
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "MigrantCityBelonging"
     title: "Migrant-City Belonging / 移民城市归属"
     url: "/wiki/concepts/migrantcitybelonging/"
+  - key: "MigrantFamilyDebtCareTradeoff"
+    title: "Migrant-Family Debt–Care Tradeoff / 移民家庭债务—照护权衡"
+    url: "/wiki/concepts/migrantfamilydebtcaretradeoff/"
   - key: "MigrationIdentityRupture"
     title: "Migration and Identity Rupture / 迁徙与身份断裂"
     url: "/wiki/concepts/migrationidentityrupture/"

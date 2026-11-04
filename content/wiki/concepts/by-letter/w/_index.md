@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11010
+wiki_total_pages: 11014
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
     url: "/wiki/concepts/wagyupremiumbranding/"
+  - key: "WaitingLaborAvailability"
+    title: "Waiting Labor as Availability / 作为待命的等待劳动"
+    url: "/wiki/concepts/waitinglaboravailability/"
   - key: "WaitlistInvitationGrowth"
     title: "Waitlist Invitation Growth"
     url: "/wiki/concepts/waitlistinvitationgrowth/"

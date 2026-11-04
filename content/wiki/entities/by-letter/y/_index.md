@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13896
+wiki_total_pages: 13898
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "YingBo"
     title: "英博博士 / Ying Bo"
     url: "/wiki/entities/yingbo/"
+  - key: "YingJieQingtianMigrant"
+    title: "英姐 / Yingjie (Qingtian migrant entrepreneur)"
+    url: "/wiki/entities/yingjieqingtianmigrant/"
   - key: "YingBu"
     title: "英布 / 黥布 / Ying Bu"
     url: "/wiki/entities/yingbu/"

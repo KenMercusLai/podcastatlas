@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2353
+topic_total_pages: 2354
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5960,6 +5960,9 @@ topic_entities:
   - key: "LaoMai"
     title: "老麦"
     url: "/wiki/entities/laomai/"
+  - key: "YingJieQingtianMigrant"
+    title: "英姐 / Yingjie (Qingtian migrant entrepreneur)"
+    url: "/wiki/entities/yingjieqingtianmigrant/"
   - key: "LitchiRoad"
     title: "荔枝道 / Litchi Road"
     url: "/wiki/entities/litchiroad/"

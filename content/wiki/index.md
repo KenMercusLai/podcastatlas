@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [在父母身边的异乡人：一个青田留守女孩的欧洲团聚](sources/df87c6565e781fb398f70d350ead6125-df87c6565e781fb398f70d350ead6125mp3aid6aeb07e0b9c91cbd2d16a0e5chid66b07190af99592-281.md) — 端闻以小瑞和英姐两代经历连接青田跨国留守、成年前团聚、债务与照护权衡、家庭经营劳动边界及华人酒吧的等待劳动。
 - [No.225 莆田鞋往事](sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w.md) — 半拿铁从出口鞋城、台资代工与产业集群追到仿冒分工、鉴定攻防、自主品牌受挫、集体商标和海外产能转移。
 - [Episode 230: 自然摄影没有未来](sources/episode-230-ziran-sheying-meiyou-weilai-8206247965-646769.md) — 迟早更新与恰恰小豹从图鉴传统、传播机制和相机默认值追问自然摄影，并以在场、个体传记、过程披露和发现导向成像回应生成式 AI。
 - [EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”](sources/ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp.md) — 无时差研究所以许飞与厉娜重访友情误会、06超女怀旧再发现、真人综艺的剪辑证据边界及AI时代的身体在场。
@@ -4941,6 +4942,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 ## Entities
+- [小瑞 / Xiaorui (Qingtian migrant)](entities/XiaoRuiQingtianMigrant.md) — 与父母分离十七年后赴欧，在家庭团聚、服务劳动、工资边界与独立生活之间寻找归属的青田女孩。
+- [英姐 / Yingjie (Qingtian migrant entrepreneur)](entities/YingJieQingtianMigrant.md) — 从留守童年、工厂劳动和债务偿还走向西班牙社区酒吧经营，并支持小瑞过渡的青田移民创业者。
 - [安福市场 / Anfu Market](entities/AnfuMarket.md) — 莆田夜间鞋类交易与服务枢纽，连接档口、隐蔽仓储、外地买家、验货团队和物流。
 - [洛弛 / LuoChi Footwear](entities/LuoChiFootwear.md) — 莆田户外鞋品牌案例，说明原创品牌需要产品、专利、渠道、资金与扩张纪律，后来业务仍以 ODM 为主。
 - [John Torous](entities/JohnTorous.md) — Psychiatrist distinguishing direct chatbot failures from cumulative relationship-level harm and calling for case-specific clinical evidence.
@@ -18923,6 +18926,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Cross-Border Family Reunification After Separation / 长期分离后的跨国家庭团聚](concepts/CrossBorderFamilyReunificationAfterSeparation.md) — 将法律与空间上的重聚理解为共享记忆、信任、照护和自主边界重建的开始，而非完成。
+- [Migrant-Family Debt–Care Tradeoff / 移民家庭债务—照护权衡](concepts/MigrantFamilyDebtCareTradeoff.md) — 借款、汇款、经营与长工时同陪伴、照护、教育、健康和团聚竞争的家庭资源配置冲突。
+- [Family-Enterprise Labor Boundary / 家庭经营中的亲属劳动边界](concepts/FamilyEnterpriseLaborBoundary.md) — 在亲属共同经营时明确帮助与雇佣、工时与工资、休息与拒绝权的劳动边界。
+- [Waiting Labor as Availability / 作为待命的等待劳动](concepts/WaitingLaborAvailability.md) — 即使没有交易或显性任务，劳动者因地点和响应义务受限而提供的待命时间。
 - [Putian Footwear Industrial Cluster / 莆田鞋业产业集群](concepts/PutianFootwearIndustrialCluster.md) — 由出口学习、专业供应商、熟练劳动力、快速打样与品牌代工积累而成、可服务多种商业模式的地方制造系统。
 - [Counterfeit Supply-Chain Modularization / 仿冒供应链模块化](concepts/CounterfeitSupplyChainModularization.md) — 将生产、仓储、集货、档口、带路、验货、获客与物流拆成专业角色的组织方式。
 - [Counterfeit Authentication Arms Race / 仿冒鉴定军备竞赛](concepts/CounterfeitAuthenticationArmsRace.md) — 鉴定信号被发现、学习和复制，进而把对抗扩展到商品、图片、证书、二维码、包装、网页与人员流程的动态循环。
