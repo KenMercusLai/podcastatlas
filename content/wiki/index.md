@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.225 莆田鞋往事](sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w.md) — 半拿铁从出口鞋城、台资代工与产业集群追到仿冒分工、鉴定攻防、自主品牌受挫、集体商标和海外产能转移。
 - [Episode 230: 自然摄影没有未来](sources/episode-230-ziran-sheying-meiyou-weilai-8206247965-646769.md) — 迟早更新与恰恰小豹从图鉴传统、传播机制和相机默认值追问自然摄影，并以在场、个体传记、过程披露和发现导向成像回应生成式 AI。
 - [EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”](sources/ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp.md) — 无时差研究所以许飞与厉娜重访友情误会、06超女怀旧再发现、真人综艺的剪辑证据边界及AI时代的身体在场。
 - [No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图](sources/no-234-jieke-youji-shuyu-chengbao-yinkuang-yu-jiuguan-de-boximiya-ditu-gkwrijiovueba7xf6gt0j48r.md) — 三五环以布拉格、捷克天堂与库特纳霍拉的旅行连接啤酒、城市层叠、宗教战争、1968与1989、银矿劳动及《天国：拯救》的中世纪模拟。
@@ -4940,6 +4941,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 ## Entities
+- [安福市场 / Anfu Market](entities/AnfuMarket.md) — 莆田夜间鞋类交易与服务枢纽，连接档口、隐蔽仓储、外地买家、验货团队和物流。
+- [洛弛 / LuoChi Footwear](entities/LuoChiFootwear.md) — 莆田户外鞋品牌案例，说明原创品牌需要产品、专利、渠道、资金与扩张纪律，后来业务仍以 ODM 为主。
 - [John Torous](entities/JohnTorous.md) — Psychiatrist distinguishing direct chatbot failures from cumulative relationship-level harm and calling for case-specific clinical evidence.
 - [MindBench.AI](entities/MindBenchAI.md) — Mental-health AI evaluation project described as involving real users in constructing test cases.
 - [叶洪新 / Ye Hongxin](entities/YeHongxin.md) — 徕芬创始人和产品负责人，以飞机、滑板车和生活电器的连续试错积累电机、设计、量产与品牌能力。
@@ -18920,6 +18923,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Putian Footwear Industrial Cluster / 莆田鞋业产业集群](concepts/PutianFootwearIndustrialCluster.md) — 由出口学习、专业供应商、熟练劳动力、快速打样与品牌代工积累而成、可服务多种商业模式的地方制造系统。
+- [Counterfeit Supply-Chain Modularization / 仿冒供应链模块化](concepts/CounterfeitSupplyChainModularization.md) — 将生产、仓储、集货、档口、带路、验货、获客与物流拆成专业角色的组织方式。
+- [Counterfeit Authentication Arms Race / 仿冒鉴定军备竞赛](concepts/CounterfeitAuthenticationArmsRace.md) — 鉴定信号被发现、学习和复制，进而把对抗扩展到商品、图片、证书、二维码、包装、网页与人员流程的动态循环。
 - [Product Capability–Commercialization Gap / 产品能力与商业化能力差距](concepts/ProductCapabilityCommercializationGap.md) — 从好产品跨越到融资、量产、解释、渠道、品牌、销售、服务与本地化协同的能力距离。
 - [Consumer Product Value Legibility / 消费产品价值可理解性](concepts/ConsumerProductValueLegibility.md) — 让工程优势在购买前可解释、在默认使用中可感知并可记忆的产品要求。
 - [Cross-Category Brand Trust / 跨品类品牌信任](concepts/CrossCategoryBrandTrust.md) — 消费者把一个产品的好体验作为考虑同品牌另一品类时的条件性证据。

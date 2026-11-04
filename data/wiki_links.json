@@ -10191,6 +10191,10 @@
     "title": "Anesthesiology Clinical Role and Team Escalation / 麻醉医生临床角色与团队升级",
     "url": "/wiki/concepts/anesthesiologyclinicalroleandteamescalation/"
   },
+  "AnfuMarket": {
+    "title": "安福市场 / Anfu Market",
+    "url": "/wiki/entities/anfumarket/"
+  },
   "AnganKozo": {
     "title": "《暗眼小僧》 / Angan Kozo",
     "url": "/wiki/entities/angankozo/"
@@ -23927,9 +23931,17 @@
     "title": "Countercyclical Public Works / 逆周期公共工程",
     "url": "/wiki/concepts/countercyclicalpublicworks/"
   },
+  "CounterfeitAuthenticationArmsRace": {
+    "title": "Counterfeit Authentication Arms Race / 仿冒鉴定军备竞赛",
+    "url": "/wiki/concepts/counterfeitauthenticationarmsrace/"
+  },
   "CounterfeitCurrencyPolicing": {
     "title": "Counterfeit Currency Policing",
     "url": "/wiki/concepts/counterfeitcurrencypolicing/"
+  },
+  "CounterfeitSupplyChainModularization": {
+    "title": "Counterfeit Supply-Chain Modularization / 仿冒供应链模块化",
+    "url": "/wiki/concepts/counterfeitsupplychainmodularization/"
   },
   "CounterinsurgencyLegitimacyTrap": {
     "title": "Counterinsurgency Legitimacy Trap",
@@ -58339,6 +58351,10 @@
     "title": "骆冰（《书剑恩仇录》） / Luo Bing",
     "url": "/wiki/entities/luobing/"
   },
+  "LuoChiFootwear": {
+    "title": "洛弛 / LuoChi Footwear",
+    "url": "/wiki/entities/luochifootwear/"
+  },
   "LuoDayou": {
     "title": "罗大佑 / Luo Dayou",
     "url": "/wiki/entities/luodayou/"
@@ -74726,6 +74742,10 @@
   "Putian": {
     "title": "Putian / 莆田",
     "url": "/wiki/entities/putian/"
+  },
+  "PutianFootwearIndustrialCluster": {
+    "title": "Putian Footwear Industrial Cluster / 莆田鞋业产业集群",
+    "url": "/wiki/concepts/putianfootwearindustrialcluster/"
   },
   "PutianMedicalNetwork": {
     "title": "Putian Medical Network / 莆田医疗经营网络",
@@ -109186,6 +109206,10 @@
   "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj": {
     "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
     "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+  },
+  "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w": {
+    "title": "No.225 莆田鞋往事",
+    "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
   },
   "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt": {
     "title": "No.226 AI 越强，创业者越要回到用户现场",

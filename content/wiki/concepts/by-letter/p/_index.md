@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11007
+wiki_total_pages: 11010
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2843,6 +2843,9 @@ wiki_pages:
   - key: "PushPullIntimacyCommunication"
     title: "Push-Pull Intimacy Communication / 推开式亲密求助"
     url: "/wiki/concepts/pushpullintimacycommunication/"
+  - key: "PutianFootwearIndustrialCluster"
+    title: "Putian Footwear Industrial Cluster / 莆田鞋业产业集群"
+    url: "/wiki/concepts/putianfootwearindustrialcluster/"
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"

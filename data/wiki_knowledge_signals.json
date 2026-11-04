@@ -17884,6 +17884,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/anesthesiologyclinicalroleandteamescalation/"
     },
+    "AnfuMarket": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/anfumarket/"
+    },
     "AngelOakSmokehouse": {
       "episode_count": 1,
       "show_count": 1,
@@ -49566,9 +49582,9 @@
       "url": "/wiki/concepts/chinalongtermcareinsurance/"
     },
     "ChinaManufacturingOverseasExpansion": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "181.这轮规模空前的中国制造业出海背后｜线下活动实录 [lmKUwY-RaLsJTpsjeloToVauWyr0].md",
@@ -49576,9 +49592,16 @@
           "show": "起朱楼宴宾客",
           "title": "181.这轮规模空前的中国制造业出海背后｜线下活动实录",
           "url": "/wiki/sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0/"
+        },
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/chinamanufacturingoverseasexpansion/"
     },
     "ChinaNeurotechnologyIndustrialPolicy": {
@@ -62257,6 +62280,38 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/counterdronelayereddefense/"
     },
+    "CounterfeitAuthenticationArmsRace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/counterfeitauthenticationarmsrace/"
+    },
+    "CounterfeitSupplyChainModularization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/counterfeitsupplychainmodularization/"
+    },
     "CounterinsurgencyLegitimacyTrap": {
       "episode_count": 3,
       "show_count": 1,
@@ -73632,9 +73687,9 @@
       "url": "/wiki/entities/desden/"
     },
     "DesignBrandManufacturingUpgrade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
@@ -73642,9 +73697,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
           "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        },
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/designbrandmanufacturingupgrade/"
     },
     "DesignLedSoftwareDifferentiation": {
@@ -184497,6 +184559,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/luobing/"
     },
+    "LuoChiFootwear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/luochifootwear/"
+    },
     "LuoDayou": {
       "episode_count": 1,
       "show_count": 1,
@@ -188350,6 +188428,29 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/manufacturingexportinvestmentquality/"
+    },
+    "ManufacturingSalesShift": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/manufacturingsalesshift/"
     },
     "ManufacturingSingleChampion": {
       "episode_count": 1,
@@ -238737,9 +238838,9 @@
       "url": "/wiki/concepts/pushpullintimacycommunication/"
     },
     "Putian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
@@ -238754,10 +238855,33 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.223 “莆田系”医事：从电线杆到手术台",
           "url": "/wiki/sources/gkwrimaorinia5ejiwtsfhox-gkwrimaorinia5ejiwtsfhox/"
+        },
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
         }
       ],
-      "updated": "2026-10-21",
+      "updated": "2026-11-04",
       "url": "/wiki/entities/putian/"
+    },
+    "PutianFootwearIndustrialCluster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/putianfootwearindustrialcluster/"
     },
     "PutianMedicalNetwork": {
       "episode_count": 1,
@@ -311142,6 +311266,29 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/worldwariiasianchronology/"
+    },
+    "WoteShoes": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "GKwRIJEOwKKqA6hFfgT1iH2w [GKwRIJEOwKKqA6hFfgT1iH2w].md",
+          "key": "no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.225 莆田鞋往事",
+          "url": "/wiki/sources/no-225-putian-xie-wangshi-gkwrijeowkkqa6hffgt1ih2w/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/woteshoes/"
     },
     "WoundCoverageReconstructionSelection": {
       "episode_count": 1,

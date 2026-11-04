@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11007
+wiki_total_pages: 11010
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2744,9 +2744,15 @@ wiki_pages:
   - key: "CountercyclicalPublicWorks"
     title: "Countercyclical Public Works / 逆周期公共工程"
     url: "/wiki/concepts/countercyclicalpublicworks/"
+  - key: "CounterfeitAuthenticationArmsRace"
+    title: "Counterfeit Authentication Arms Race / 仿冒鉴定军备竞赛"
+    url: "/wiki/concepts/counterfeitauthenticationarmsrace/"
   - key: "CounterfeitCurrencyPolicing"
     title: "Counterfeit Currency Policing"
     url: "/wiki/concepts/counterfeitcurrencypolicing/"
+  - key: "CounterfeitSupplyChainModularization"
+    title: "Counterfeit Supply-Chain Modularization / 仿冒供应链模块化"
+    url: "/wiki/concepts/counterfeitsupplychainmodularization/"
   - key: "CounterinsurgencyLegitimacyTrap"
     title: "Counterinsurgency Legitimacy Trap"
     url: "/wiki/concepts/counterinsurgencylegitimacytrap/"

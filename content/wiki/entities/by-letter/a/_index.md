@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13894
+wiki_total_pages: 13896
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2276,6 +2276,9 @@ wiki_pages:
   - key: "Anbi"
     title: "安碧 / Anbi"
     url: "/wiki/entities/anbi/"
+  - key: "AnfuMarket"
+    title: "安福市场 / Anfu Market"
+    url: "/wiki/entities/anfumarket/"
   - key: "Anyi"
     title: "安邑 / Anyi"
     url: "/wiki/entities/anyi/"
