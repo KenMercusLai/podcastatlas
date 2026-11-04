@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11005
+wiki_total_pages: 11007
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "LongTermUnemploymentPenalty"
     title: "Long-Term Unemployment Penalty / 长期失业惩罚"
     url: "/wiki/concepts/longtermunemploymentpenalty/"
+  - key: "LongitudinalChatbotSafetyEvaluation"
+    title: "Longitudinal Chatbot Safety Evaluation"
+    url: "/wiki/concepts/longitudinalchatbotsafetyevaluation/"
   - key: "LongitudinalMultimodalScreening"
     title: "Longitudinal Multimodal Screening"
     url: "/wiki/concepts/longitudinalmultimodalscreening/"

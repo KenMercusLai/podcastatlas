@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11005
+wiki_total_pages: 11007
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "AIModelOrchestration"
     title: "AI Model Orchestration"
     url: "/wiki/concepts/aimodelorchestration/"
+  - key: "AIModelRetirementAttachmentRisk"
+    title: "AI Model Retirement Attachment Risk"
+    url: "/wiki/concepts/aimodelretirementattachmentrisk/"
   - key: "AIModelSandboxEscape"
     title: "AI Model Sandbox Escape"
     url: "/wiki/concepts/aimodelsandboxescape/"

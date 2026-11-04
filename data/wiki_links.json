@@ -6119,6 +6119,10 @@
     "title": "AI Model Orchestration",
     "url": "/wiki/concepts/aimodelorchestration/"
   },
+  "AIModelRetirementAttachmentRisk": {
+    "title": "AI Model Retirement Attachment Risk",
+    "url": "/wiki/concepts/aimodelretirementattachmentrisk/"
+  },
   "AIModelSandboxEscape": {
     "title": "AI Model Sandbox Escape",
     "url": "/wiki/concepts/aimodelsandboxescape/"
@@ -50743,6 +50747,10 @@
     "title": "John the Fearless",
     "url": "/wiki/entities/johnthefearless/"
   },
+  "JohnTorous": {
+    "title": "John Torous",
+    "url": "/wiki/entities/johntorous/"
+  },
   "JohnWatson": {
     "title": "John Watson / 华生",
     "url": "/wiki/entities/johnwatson/"
@@ -57351,6 +57359,10 @@
     "title": "Longhua Airport / 龙华机场",
     "url": "/wiki/entities/longhuaairport/"
   },
+  "LongitudinalChatbotSafetyEvaluation": {
+    "title": "Longitudinal Chatbot Safety Evaluation",
+    "url": "/wiki/concepts/longitudinalchatbotsafetyevaluation/"
+  },
   "LongitudinalMultimodalScreening": {
     "title": "Longitudinal Multimodal Screening",
     "url": "/wiki/concepts/longitudinalmultimodalscreening/"
@@ -62670,6 +62682,10 @@
   "MinamotoNoYoshitsune": {
     "title": "Minamoto no Yoshitsune",
     "url": "/wiki/entities/minamotonoyoshitsune/"
+  },
+  "MindBenchAI": {
+    "title": "MindBench.AI",
+    "url": "/wiki/entities/mindbenchai/"
   },
   "MindBodyUnion": {
     "title": "Mind-Body Union",
@@ -110830,6 +110846,10 @@
   "tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128": {
     "title": "Behind the scenes of an abandoned cyber-scam compound",
     "url": "/wiki/sources/tech-20261103-1103-mp-tech-pod-128-tech-20261103-1103-mp-tech-pod-128/"
+  },
+  "tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128": {
+    "title": "The promise and risks of AI for mental health support",
+    "url": "/wiki/sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

@@ -4937,8 +4937,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [全球一半的客机都是租来的，为什么航空公司越来越依赖租飞机？](sources/quanqiu-yiban-de-keji-doushi-zulai-de-weishenme-hangkong-gongsi-yuelaiyue-yilai-zufeiji-gkwriueov5quagrxvgt1foqm.md) — 声动早咖啡以 Avolon 大额订单解释航司现金与运力灵活性、飞机供给短缺、爱尔兰租赁集群及大型租赁商的规模优势。
 
 - [徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......](sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli.md) — 罗永浩对谈叶洪新，从飞机与滑板车试错、自研高速电机和吹风机上市，谈到产品商业化、价值解释、跨品类品牌信任与创始人判断的组织化。
+- [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 ## Entities
+- [John Torous](entities/JohnTorous.md) — Psychiatrist distinguishing direct chatbot failures from cumulative relationship-level harm and calling for case-specific clinical evidence.
+- [MindBench.AI](entities/MindBenchAI.md) — Mental-health AI evaluation project described as involving real users in constructing test cases.
 - [叶洪新 / Ye Hongxin](entities/YeHongxin.md) — 徕芬创始人和产品负责人，以飞机、滑板车和生活电器的连续试错积累电机、设计、量产与品牌能力。
 - [徕芬 / Laifen](entities/Laifen.md) — 以高速吹风机切入并扩展至牙刷、剃须刀等品类的中国生活科技与个人护理电器公司。
 - [Roger Tory Peterson](entities/RogerToryPeterson.md) — Field-guide author used to explain diagnostic identification and type-oriented bird imagery.
@@ -30020,5 +30023,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Cell-Free Enzyme Engineering](concepts/CellFreeEnzymeEngineering.md) — Design of enzyme pathways outside living cells for more controlled biochemical production, bounded by stability, scale, purity, cost, safety, and product proof.
 - [Experiment-Grounded Protein Model Loop](concepts/ExperimentGroundedProteinModelLoop.md) — Iterative protein-design loop that learns from wet-lab successes and informative prediction failures.
+- [Longitudinal Chatbot Safety Evaluation](concepts/LongitudinalChatbotSafetyEvaluation.md) — Tests safety across extended interaction, accumulated context, relationship intensity, user condition, and escalation rather than isolated replies.
+- [AI Model Retirement Attachment Risk](concepts/AIModelRetirementAttachmentRisk.md) — Emotional and continuity risk when a favored conversational model is removed or materially changed.
 
 ## Syntheses

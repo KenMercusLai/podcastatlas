@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13892
+wiki_total_pages: 13894
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1472,6 +1472,9 @@ wiki_pages:
   - key: "MindEmulationFoundation"
     title: "Mind Emulation Foundation"
     url: "/wiki/entities/mindemulationfoundation/"
+  - key: "MindBenchAI"
+    title: "MindBench.AI"
+    url: "/wiki/entities/mindbenchai/"
   - key: "Mindhunter"
     title: "Mindhunter"
     url: "/wiki/entities/mindhunter/"
