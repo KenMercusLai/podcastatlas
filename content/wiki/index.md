@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence](sources/02026-thurston-aguera-y-arcas-podcast-v4.md) — Long Now conversation on symbiogenesis, relational AI ethics, domination, differentiated interdependence, cognitive liberty, care, and multilevel governance.
 - [375-中期选举惨败后共和党何去何从？](sources/375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr.md) — 独树不成林 separates cyclical midterm backlash from realignment and links lived costs, the Iran war, endorsement translation, divided government, and post-Trump succession.
 - [Not in Kansas any more: Republicans get a thrashing](sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4.md) — Economist Podcasts interprets a reported Democratic midterm sweep through prices, immigration enforcement, candidate weakness, cross-party voting, redistricting backfire, governing constraints, and Republican identity conflict.
 - [在父母身边的异乡人：一个青田留守女孩的欧洲团聚](sources/df87c6565e781fb398f70d350ead6125-df87c6565e781fb398f70d350ead6125mp3aid6aeb07e0b9c91cbd2d16a0e5chid66b07190af99592-281.md) — 端闻以小瑞和英姐两代经历连接青田跨国留守、成年前团聚、债务与照护权衡、家庭经营劳动边界及华人酒吧的等待劳动。
@@ -4944,6 +4945,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 ## Entities
+- [Baratunde Thurston](entities/BaratundeThurston.md) — Writer and producer connecting AI relationships to Indigenous democracy, domination, agency, land stewardship, and care.
+- [Blaise Agüera y Arcas](entities/BlaiseAgueraYArcas.md) — Paradigms of Intelligence founder connecting AI to symbiogenesis, collective cognition, and nested cooperation.
+- [Haudenosaunee Confederacy](entities/HaudenosauneeConfederacy.md) — Indigenous democratic tradition invoked through peace, women's authority, reciprocity, and responsibility to future generations.
 - [James Talarico](entities/JamesTalarico.md) — Texas Democratic Senate winner presented as combining statewide victory with broader cross-party reach.
 - [Gina Hinojosa](entities/GinaHinojosa.md) — Texas Democratic gubernatorial winner whose result strengthens the source's realignment interpretation.
 - [小瑞 / Xiaorui (Qingtian migrant)](entities/XiaoRuiQingtianMigrant.md) — 与父母分离十七年后赴欧，在家庭团聚、服务劳动、工资边界与独立生活之间寻找归属的青田女孩。
@@ -18930,6 +18934,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Relational AI Ethics](concepts/RelationalAIEthics.md) — Evaluation of AI through the habits, expectations, and power relations formed in interaction without requiring proof of machine life.
+- [Symbiogenesis](concepts/Symbiogenesis.md) — Evolutionary integration in which formerly separate organisms become differentiated parts of a new living whole.
+- [Cartesian Wound](concepts/CartesianWound.md) — Separations between human and animal, culture and nature, or technology and biology that hide material dependence.
+- [Domination Model of AI](concepts/DominationModelOfAI.md) — Ideal of perfectly obedient artificial servants that provide labor or intimacy without resistance or reciprocal obligation.
+- [Interdependence with a Distinct Self](concepts/InterdependenceWithDistinctSelf.md) — Cooperation that preserves participants' identities, boundaries, complementary capacities, and ability to refuse.
+- [Nested Cooperation Governance](concepts/NestedCooperationGovernance.md) — Evaluation of whether cooperation or competition within one level supports or harms the larger network.
+- [Cognitive Liberty Under AI](concepts/CognitiveLibertyUnderAI.md) — Retained power to form, inspect, represent, and revise thought under privately mediated cognitive infrastructure.
 - [Trump Endorsement General-Election Gap](concepts/TrumpEndorsementGeneralElectionGap.md) — Difference between Trump's control of Republican nominee selection and endorsed candidates' ability to win the broader electorate.
 - [Redistricting Backfire Risk](concepts/RedistrictingBackfireRisk.md) — Risk that a map designed to spread partisan advantage creates multiple vulnerable seats when the electoral swing is larger than expected.
 - [Cross-Border Family Reunification After Separation / 长期分离后的跨国家庭团聚](concepts/CrossBorderFamilyReunificationAfterSeparation.md) — 将法律与空间上的重聚理解为共享记忆、信任、照护和自主边界重建的开始，而非完成。

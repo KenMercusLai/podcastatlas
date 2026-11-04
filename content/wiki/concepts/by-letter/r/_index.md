@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11016
+wiki_total_pages: 11023
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "RejectionTolerancePractice"
     title: "Rejection Tolerance Practice"
     url: "/wiki/concepts/rejectiontolerancepractice/"
+  - key: "RelationalAIEthics"
+    title: "Relational AI Ethics"
+    url: "/wiki/concepts/relationalaiethics/"
   - key: "RelationalBorder"
     title: "Relational Border / 关系性边界"
     url: "/wiki/concepts/relationalborder/"

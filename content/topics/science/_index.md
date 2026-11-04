@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1630
+topic_total_pages: 1631
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2419,6 +2419,9 @@ topic_concepts:
   - key: "SustainableHealthOptimization"
     title: "Sustainable Health Optimization"
     url: "/wiki/concepts/sustainablehealthoptimization/"
+  - key: "Symbiogenesis"
+    title: "Symbiogenesis"
+    url: "/wiki/concepts/symbiogenesis/"
   - key: "SymptomFunctionDissociation"
     title: "Symptom–Function Dissociation"
     url: "/wiki/concepts/symptomfunctiondissociation/"

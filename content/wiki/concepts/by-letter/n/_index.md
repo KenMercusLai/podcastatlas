@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11016
+wiki_total_pages: 11023
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "NervousSystemStateFlexibility"
     title: "Nervous-System State Flexibility"
     url: "/wiki/concepts/nervoussystemstateflexibility/"
+  - key: "NestedCooperationGovernance"
+    title: "Nested Cooperation Governance"
+    url: "/wiki/concepts/nestedcooperationgovernance/"
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"

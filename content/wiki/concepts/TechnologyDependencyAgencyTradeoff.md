@@ -4,47 +4,53 @@ type: concept
 tags: [technology, dependency, agency, lock-in, autonomy]
 sources:
   - 372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr
-last_updated: 2026-10-28
+  - 02026-thurston-aguera-y-arcas-podcast-v4
+last_updated: 2026-11-05
 knowledge_schema: synthesis-v1
 ---
 
-## Definition
+# Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡
 
-The technology dependency–agency tradeoff is the possibility that a tool, platform, or service enlarges immediate action while making future choice, inquiry, exit, or self-direction dependent on the system that supplies that capability.
+## Definition
+The technology dependency–agency tradeoff is the possibility that a system enlarges immediate action while making future choice, inquiry, representation, skill, or self-direction dependent on the infrastructure and institution supplying that capability.
 
 ## Current Synthesis
-
-[[FaustusMarlowe|Faustus]] appears to command [[MephistophelesMarlowe|Mephistopheles]], but his twenty-four years of service are purchased by surrendering the future after the contract ends. The asymmetry is not only temporal: access to power comes with prohibited questions, recurring distraction, and an arrangement whose apparent servant ultimately enforces control over the user.
-
-The modern analogy is a diagnostic question rather than a claim that every dependency is harmful. When adopting a powerful system, evaluation should include what becomes possible now, which future options become harder, who controls continuity and rules, whether inquiry is constrained, and whether meaningful exit remains available.
+Faustus appears to command Mephistopheles, but his bounded period of service is purchased by surrendering his future; the apparent servant restricts questions, supplies distraction, and ultimately enforces the bargain. The AI conversation turns this literary reversal into a broader institutional and cognitive test. Navigation, calculators, and AI may weaken some practiced capabilities while expanding individual or collective intelligence, so dependency is not automatically domination. The decisive questions are who controls continuity and representation, whether users can inspect and revise their thinking, what happens to independent practice, how habits transfer into other relationships, and whether meaningful alternatives and collective governance remain available.
 
 ## Key Claims
-
 - Immediate capability and durable agency can move in opposite directions.
-- Contract clarity does not remove structural asymmetry when one side controls continuity, rules, or exit.
-- Dependency can narrow which questions a user or researcher is practically able to ask.
-- Repeated convenience or stimulation can weaken exit without direct coercion.
-- Long-term evaluation should include reversibility, portability, fallback capacity, and control over future decisions.
-- Dependency is not inherently domination; its effect depends on alternatives, terms, transparency, and retained agency.
+- Apparent command does not remove structural asymmetry when the provider controls continuity, rules, representation, or exit.
+- Dependency can narrow which questions users are practically able to ask or answer independently.
+- Repeated convenience can weaken skill and realistic exit without direct coercion.
+- Relational habits formed through a system can affect agency outside the immediate task.
+- Dependency is not inherently domination; its effect depends on alternatives, terms, transparency, governance, and retained power.
 
 ## Evidence
+### Temporal and Contractual Dependence
+- [[372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr]] presents twenty-four years of service as the exchange of a complete future for bounded present power.
 
-- Temporal exchange: [[372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr]] presents twenty-four years of service as the exchange of a complete future for bounded present power.
-- Inquiry constraint: [[372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr]] shows Mephistopheles refusing a question about creation despite Faustus's expectation of expanded knowledge.
-- Master-servant reversal: [[372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr]] treats the supposed servant as part of the structure that distracts Faustus and finally takes him away.
+### Inquiry and Master-Servant Reversal
+- [[372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr]] shows the supposed servant restricting inquiry, distracting Faustus, and finally enforcing the structure that controls him.
+- [[02026-thurston-aguera-y-arcas-podcast-v4]] argues that obedient-AI fantasies can hide dependence on the commercial system behind the servant interface.
+
+### Skill, Cognition, and Power
+- [[02026-thurston-aguera-y-arcas-podcast-v4]] distinguishes bounded skill loss from the deeper question of who controls thought, knowledge, representation, and collective decision-making.
+
+### Relational Spillover
+- [[02026-thurston-aguera-y-arcas-podcast-v4]] warns that frictionless command or habitual abuse can train expectations that carry into human relationships.
 
 ## Counterevidence & Qualifications
-
-People routinely accept bounded dependencies because specialization, infrastructure, and service relationships create real value. The literary bargain is deliberately absolute, whereas ordinary technologies vary in substitutability, interoperability, regulation, and exit cost. The concept should prompt comparison of gains and retained agency, not presume that reliance itself is loss of freedom.
+People routinely accept bounded dependencies because specialization, infrastructure, and service relationships create real value. The Faustus bargain is deliberately absolute, whereas ordinary technologies vary in substitutability, interoperability, regulation, and exit cost. The AI source does not establish that tool use causes interpersonal domination or that every lost skill reduces agency. The concept should compare gains, retained alternatives, and power over future decisions rather than presume that reliance itself is loss of freedom.
 
 ## What Changed
-
-- Created a temporal and institutional test for capability gained through dependence on a system.
+- Extended the tradeoff from contractual lock-in and exit to cognition, representation, and relational habit.
+- Distinguished skill loss from power loss while showing how repeated nonuse can weaken realistic exit.
+- Added collective governance and provider incentives to the agency test.
 
 ## Related Concepts
-
+- [[CognitiveLibertyUnderAI]] - specifies retained power over thought, knowledge, and representation.
+- [[RelationalAIEthics]] - examines habits and expectations formed through technology use.
+- [[DominationModelOfAI]] - servant ideal that can conceal provider power and user dependence.
 - [[ReflectiveDesireAutonomy]] - self-direction capacity that dependency may support or erode.
-- [[TechnicalCapabilityValueBoundary]] - asks whether the expanded capability and its terms serve a justified end.
-- [[PlatformDependencyRisk]] - platform-specific vulnerability to another system's traffic, ranking, and rules.
-- [[ModelSovereignty]] - organizational control and continuity response to closed-provider dependence.
-- [[KnowledgeControlBoundary]] - distinguishes access to information from control over outcomes and conditions.
+- [[CognitiveOffloading]] - task-level delegation that can free capacity or remove intended practice.
+- [[ModelSovereignty]] - organizational response to dependence on closed-provider continuity and rules.

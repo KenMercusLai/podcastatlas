@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3729
+topic_total_pages: 3734
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1525,6 +1525,9 @@ topic_concepts:
   - key: "CarrierPigeonCommunication"
     title: "Carrier Pigeon Communication"
     url: "/wiki/concepts/carrierpigeoncommunication/"
+  - key: "CartesianWound"
+    title: "Cartesian Wound"
+    url: "/wiki/concepts/cartesianwound/"
   - key: "CatAsCivilizationalInfrastructure"
     title: "Cat As Civilizational Infrastructure"
     url: "/wiki/concepts/catascivilizationalinfrastructure/"
@@ -1639,6 +1642,9 @@ topic_concepts:
   - key: "CognitiveDiversityAIAdoption"
     title: "Cognitive Diversity in AI Adoption"
     url: "/wiki/concepts/cognitivediversityaiadoption/"
+  - key: "CognitiveLibertyUnderAI"
+    title: "Cognitive Liberty Under AI"
+    url: "/wiki/concepts/cognitivelibertyunderai/"
   - key: "CognitiveOffloading"
     title: "Cognitive Offloading / 认知卸载"
     url: "/wiki/concepts/cognitiveoffloading/"
@@ -2167,6 +2173,9 @@ topic_concepts:
   - key: "DomesticServiceCensorship"
     title: "Domestic Service Censorship"
     url: "/wiki/concepts/domesticservicecensorship/"
+  - key: "DominationModelOfAI"
+    title: "Domination Model of AI"
+    url: "/wiki/concepts/dominationmodelofai/"
   - key: "DroneCropMapping"
     title: "Drone Crop Mapping"
     url: "/wiki/concepts/dronecropmapping/"
@@ -4189,6 +4198,9 @@ topic_concepts:
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
+  - key: "RelationalAIEthics"
+    title: "Relational AI Ethics"
+    url: "/wiki/concepts/relationalaiethics/"
   - key: "RelationalContextCollapse"
     title: "Relational Context Collapse / 关系语境坍缩"
     url: "/wiki/concepts/relationalcontextcollapse/"
@@ -9702,6 +9714,9 @@ topic_sources:
   - key: "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
     title: "As space launches increase, there aren't enough spaceports"
     url: "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+  - key: "02026-thurston-aguera-y-arcas-podcast-v4"
+    title: "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence"
+    url: "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
   - key: "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41"
     title: "Bargaining chips: Nvidia is the bank of AI"
     url: "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"

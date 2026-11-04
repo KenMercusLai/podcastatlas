@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11016
+wiki_total_pages: 11023
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "CartesianDualism"
     title: "Cartesian Dualism"
     url: "/wiki/concepts/cartesiandualism/"
+  - key: "CartesianWound"
+    title: "Cartesian Wound"
+    url: "/wiki/concepts/cartesianwound/"
   - key: "CarthaginianChildSacrificeEvidence"
     title: "Carthaginian Child-Sacrifice Evidence / 迦太基儿童献祭证据"
     url: "/wiki/concepts/carthaginianchildsacrificeevidence/"
@@ -1634,6 +1637,9 @@ wiki_pages:
   - key: "CognitiveInertia"
     title: "Cognitive Inertia / 认知惰性"
     url: "/wiki/concepts/cognitiveinertia/"
+  - key: "CognitiveLibertyUnderAI"
+    title: "Cognitive Liberty Under AI"
+    url: "/wiki/concepts/cognitivelibertyunderai/"
   - key: "CognitiveOffloading"
     title: "Cognitive Offloading / 认知卸载"
     url: "/wiki/concepts/cognitiveoffloading/"

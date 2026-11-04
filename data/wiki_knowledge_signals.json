@@ -28437,6 +28437,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/baoxieroad/"
     },
+    "BaratundeThurston": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/baratundethurston/"
+    },
     "Barbados": {
       "episode_count": 1,
       "show_count": 1,
@@ -33439,6 +33455,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/blackstradconcertattire/"
+    },
+    "BlaiseAgueraYArcas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/blaiseaguerayarcas/"
     },
     "BlakeScholl": {
       "episode_count": 2,
@@ -42995,6 +43027,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/concepts/carrytradeunwind/"
+    },
+    "CartesianWound": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/cartesianwound/"
     },
     "Carthage": {
       "episode_count": 7,
@@ -55512,6 +55560,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cognitiveimpairmentstaging/"
+    },
+    "CognitiveLibertyUnderAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/cognitivelibertyunderai/"
     },
     "CognitiveOffloading": {
       "episode_count": 4,
@@ -77592,6 +77656,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/domesticserviceprofessionalization/"
+    },
+    "DominationModelOfAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/dominationmodelofai/"
     },
     "DominicDeGuzman": {
       "episode_count": 1,
@@ -128234,6 +128314,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/hatuey/"
     },
+    "HaudenosauneeConfederacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/haudenosauneeconfederacy/"
+    },
     "HaussmannianUrbanModernization": {
       "episode_count": 1,
       "show_count": 1,
@@ -147658,10 +147754,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/interpath001/"
     },
-    "InterdependentFutureGovernance": {
+    "InterdependenceWithDistinctSelf": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/interdependencewithdistinctself/"
+    },
+    "InterdependentFutureGovernance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730 [default.mp3_ywr3ahjkcgo_725b059f65d6ae95b04d1dbc8a6cf2dd_104571730].md",
@@ -147669,9 +147781,16 @@
           "show": "Tomorrow, Today",
           "title": "The 10 Challenges That Will Shape Our Future with Jorge Brown x Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730/"
+        },
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
         }
       ],
-      "updated": "2026-10-25",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/interdependentfuturegovernance/"
     },
     "InterestBasedNegotiation": {
@@ -180609,9 +180728,9 @@
       "url": "/wiki/concepts/longhorizonproductincubation/"
     },
     "LongNow": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "02025-crawford-podcast-v3 [02025-crawford-podcast-v3].md",
@@ -180668,9 +180787,16 @@
           "show": "Long Now",
           "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
           "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        },
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/longnow/"
     },
     "LongPathFramework": {
@@ -208231,6 +208357,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/nervoussystemstateflexibility/"
+    },
+    "NestedCooperationGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/nestedcooperationgovernance/"
     },
     "Netflix": {
       "episode_count": 10,
@@ -244996,6 +245138,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/rejectiontolerancepractice/"
     },
+    "RelationalAIEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/relationalaiethics/"
+    },
     "RelationalBorder": {
       "episode_count": 1,
       "show_count": 1,
@@ -280942,6 +281100,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/sylviawhitman/"
     },
+    "Symbiogenesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/symbiogenesis/"
+    },
     "SymbolicAuthorityExile": {
       "episode_count": 1,
       "show_count": 1,
@@ -284316,9 +284490,9 @@
       "url": "/wiki/concepts/technologycompanyperformancegap/"
     },
     "TechnologyDependencyAgencyTradeoff": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltEHZo_leHI9vPGy5UKexBcrtcpr [ltEHZo_leHI9vPGy5UKexBcrtcpr].md",
@@ -284326,9 +284500,16 @@
           "show": "独树不成林",
           "title": "372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》",
           "url": "/wiki/sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr/"
+        },
+        {
+          "episode_file": "02026-thurston-aguera-y-arcas-podcast-v4 [02026-thurston-aguera-y-arcas-podcast-v4].md",
+          "key": "02026-thurston-aguera-y-arcas-podcast-v4",
+          "show": "Long Now",
+          "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+          "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
         }
       ],
-      "updated": "2026-10-28",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/technologydependencyagencytradeoff/"
     },
     "TechnologyDrivenWuxiaModernization": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11016
+wiki_total_pages: 11023
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "InteractiveTheoremProving"
     title: "Interactive Theorem Proving"
     url: "/wiki/concepts/interactivetheoremproving/"
+  - key: "InterdependenceWithDistinctSelf"
+    title: "Interdependence with a Distinct Self"
+    url: "/wiki/concepts/interdependencewithdistinctself/"
   - key: "InterdependentFutureGovernance"
     title: "Interdependent Future Governance"
     url: "/wiki/concepts/interdependentfuturegovernance/"

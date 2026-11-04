@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13900
+wiki_total_pages: 13903
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "BarackObama"
     title: "Barack Obama"
     url: "/wiki/entities/barackobama/"
+  - key: "BaratundeThurston"
+    title: "Baratunde Thurston"
+    url: "/wiki/entities/baratundethurston/"
   - key: "Barbados"
     title: "Barbados"
     url: "/wiki/entities/barbados/"
@@ -839,6 +842,9 @@ wiki_pages:
   - key: "BlackstradConcertAttire"
     title: "Blackstrad Concert Attire"
     url: "/wiki/entities/blackstradconcertattire/"
+  - key: "BlaiseAgueraYArcas"
+    title: "Blaise Agüera y Arcas"
+    url: "/wiki/entities/blaiseaguerayarcas/"
   - key: "BlaisePascal"
     title: "Blaise Pascal / 帕斯卡"
     url: "/wiki/entities/blaisepascal/"

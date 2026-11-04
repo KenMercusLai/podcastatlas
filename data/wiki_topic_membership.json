@@ -20,6 +20,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "02026-thurston-aguera-y-arcas-podcast-v4": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687": [
     {
       "key": "culture",
@@ -18649,6 +18661,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BaratundeThurston": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BarbaraCarvalho": [
     {
       "key": "politics",
@@ -22657,6 +22676,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CartesianWound": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CarthaginianChildSacrificeEvidence": [
     {
       "key": "history",
@@ -26156,6 +26182,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CognitiveLibertyUnderAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "CognitiveOffloading": [
@@ -32609,6 +32642,13 @@
     }
   ],
   "DomesticServiceCensorship": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DominationModelOfAI": [
     {
       "key": "technology",
       "label": "Technology",
@@ -45608,6 +45648,13 @@
     }
   ],
   "HateSpeechCriminalizationTradeoff": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "HaudenosauneeConfederacy": [
     {
       "key": "politics",
       "label": "Politics",
@@ -66033,6 +66080,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NestedCooperationGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NetEase": [
     {
       "key": "technology",
@@ -77441,6 +77495,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RelationalAIEthics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RelationalContextCollapse": [
     {
       "key": "technology",
@@ -88174,6 +88235,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Symbiogenesis": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SymbolicHumanInTheLoop": [

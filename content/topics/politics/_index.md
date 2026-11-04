@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3456
+topic_total_pages: 3460
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2860,6 +2860,9 @@ topic_concepts:
   - key: "NatureLawLegalJustice"
     title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
     url: "/wiki/concepts/naturelawlegaljustice/"
+  - key: "NestedCooperationGovernance"
+    title: "Nested Cooperation Governance"
+    url: "/wiki/concepts/nestedcooperationgovernance/"
   - key: "NeutralityToInterventionMemory"
     title: "Neutrality-to-Intervention Memory"
     url: "/wiki/concepts/neutralitytointerventionmemory/"
@@ -5816,6 +5819,9 @@ topic_entities:
   - key: "BarackObama"
     title: "Barack Obama"
     url: "/wiki/entities/barackobama/"
+  - key: "BaratundeThurston"
+    title: "Baratunde Thurston"
+    url: "/wiki/entities/baratundethurston/"
   - key: "BarbaraCarvalho"
     title: "Barbara Carvalho"
     url: "/wiki/entities/barbaracarvalho/"
@@ -6602,6 +6608,9 @@ topic_entities:
   - key: "HasekuraTsunenaga"
     title: "Hasekura Tsunenaga / 支仓常长"
     url: "/wiki/entities/hasekuratsunenaga/"
+  - key: "HaudenosauneeConfederacy"
+    title: "Haudenosaunee Confederacy"
+    url: "/wiki/entities/haudenosauneeconfederacy/"
   - key: "HeinrichBlucher"
     title: "Heinrich Blücher / 海因里希·布鲁歇尔"
     url: "/wiki/entities/heinrichblucher/"
@@ -9348,6 +9357,9 @@ topic_sources:
   - key: "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
     title: "As space launches increase, there aren't enough spaceports"
     url: "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+  - key: "02026-thurston-aguera-y-arcas-podcast-v4"
+    title: "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence"
+    url: "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
   - key: "battlefield-rare-earths-how-the-us-lost-to-china"
     title: "Battlefield rare earths: How the U.S. lost to China"
     url: "/wiki/sources/battlefield-rare-earths-how-the-us-lost-to-china/"

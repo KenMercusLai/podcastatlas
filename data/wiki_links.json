@@ -11,6 +11,10 @@
     "title": "Anne Heggli, Jonathon Keats, & Adam Csank: Art & Science at the Nevada Bristlecone Preserve",
     "url": "/wiki/sources/02026-heggli-keats-csank-podcast-v2/"
   },
+  "02026-thurston-aguera-y-arcas-podcast-v4": {
+    "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+    "url": "/wiki/sources/02026-thurston-aguera-y-arcas-podcast-v4/"
+  },
   "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687": {
     "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
     "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
@@ -13287,6 +13291,10 @@
     "title": "Barack Obama",
     "url": "/wiki/entities/barackobama/"
   },
+  "BaratundeThurston": {
+    "title": "Baratunde Thurston",
+    "url": "/wiki/entities/baratundethurston/"
+  },
   "Barbados": {
     "title": "Barbados",
     "url": "/wiki/entities/barbados/"
@@ -15002,6 +15010,10 @@
   "BlackstradConcertAttire": {
     "title": "Blackstrad Concert Attire",
     "url": "/wiki/entities/blackstradconcertattire/"
+  },
+  "BlaiseAgueraYArcas": {
+    "title": "Blaise Agüera y Arcas",
+    "url": "/wiki/entities/blaiseaguerayarcas/"
   },
   "BlaisePascal": {
     "title": "Blaise Pascal / 帕斯卡",
@@ -17966,6 +17978,10 @@
   "CartesianDualism": {
     "title": "Cartesian Dualism",
     "url": "/wiki/concepts/cartesiandualism/"
+  },
+  "CartesianWound": {
+    "title": "Cartesian Wound",
+    "url": "/wiki/concepts/cartesianwound/"
   },
   "Carthage": {
     "title": "Carthage / 迦太基",
@@ -22034,6 +22050,10 @@
   "CognitiveInertia": {
     "title": "Cognitive Inertia / 认知惰性",
     "url": "/wiki/concepts/cognitiveinertia/"
+  },
+  "CognitiveLibertyUnderAI": {
+    "title": "Cognitive Liberty Under AI",
+    "url": "/wiki/concepts/cognitivelibertyunderai/"
   },
   "CognitiveOffloading": {
     "title": "Cognitive Offloading / 认知卸载",
@@ -28550,6 +28570,10 @@
   "DominantProducerPriceDiscipline": {
     "title": "Dominant Producer Price Discipline",
     "url": "/wiki/concepts/dominantproducerpricediscipline/"
+  },
+  "DominationModelOfAI": {
+    "title": "Domination Model of AI",
+    "url": "/wiki/concepts/dominationmodelofai/"
   },
   "DominicDeGuzman": {
     "title": "Dominic de Guzmán",
@@ -42227,6 +42251,10 @@
     "title": "Hatuey",
     "url": "/wiki/entities/hatuey/"
   },
+  "HaudenosauneeConfederacy": {
+    "title": "Haudenosaunee Confederacy",
+    "url": "/wiki/entities/haudenosauneeconfederacy/"
+  },
   "HaussmannianUrbanModernization": {
     "title": "Haussmannian Urban Modernization",
     "url": "/wiki/concepts/haussmannianurbanmodernization/"
@@ -47438,6 +47466,10 @@
   "InteractiveTheoremProving": {
     "title": "Interactive Theorem Proving",
     "url": "/wiki/concepts/interactivetheoremproving/"
+  },
+  "InterdependenceWithDistinctSelf": {
+    "title": "Interdependence with a Distinct Self",
+    "url": "/wiki/concepts/interdependencewithdistinctself/"
   },
   "InterdependentFutureGovernance": {
     "title": "Interdependent Future Governance",
@@ -65547,6 +65579,10 @@
     "title": "Nest Thermostat",
     "url": "/wiki/entities/nestthermostat/"
   },
+  "NestedCooperationGovernance": {
+    "title": "Nested Cooperation Governance",
+    "url": "/wiki/concepts/nestedcooperationgovernance/"
+  },
   "Nestle": {
     "title": "Nestle",
     "url": "/wiki/entities/nestle/"
@@ -76955,6 +76991,10 @@
     "title": "Rejection Tolerance Practice",
     "url": "/wiki/concepts/rejectiontolerancepractice/"
   },
+  "RelationalAIEthics": {
+    "title": "Relational AI Ethics",
+    "url": "/wiki/concepts/relationalaiethics/"
+  },
   "RelationalBorder": {
     "title": "Relational Border / 关系性边界",
     "url": "/wiki/concepts/relationalborder/"
@@ -87926,6 +87966,10 @@
   "Symbian": {
     "title": "Symbian",
     "url": "/wiki/entities/symbian/"
+  },
+  "Symbiogenesis": {
+    "title": "Symbiogenesis",
+    "url": "/wiki/concepts/symbiogenesis/"
   },
   "SymbolicAuthorityExile": {
     "title": "象征权威的政治流放 / Political Exile of Symbolic Authority",

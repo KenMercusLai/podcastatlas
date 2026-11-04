@@ -38522,3 +38522,11 @@ Added source `375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuo
 ## [2026-11-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-05] ingest | Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence
+
+Added source `02026-thurston-aguera-y-arcas-podcast-v4`; created [[BaratundeThurston]], [[BlaiseAgueraYArcas]], [[HaudenosauneeConfederacy]], [[RelationalAIEthics]], [[Symbiogenesis]], [[CartesianWound]], [[DominationModelOfAI]], [[InterdependenceWithDistinctSelf]], [[NestedCooperationGovernance]], and [[CognitiveLibertyUnderAI]]; and resynthesized [[LongNow]], [[InterdependentFutureGovernance]], and [[TechnologyDependencyAgencyTradeoff]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: AI should be judged as a relationship and power arrangement, not only a capability; evolutionary and social complexity can arise through differentiated merger and cooperation, but cooperation must be evaluated across nested systems; and technological augmentation can expand output while weakening cognitive power, meaningful exit, or human relational habits. No settled contradiction was adopted. Biological, historical, ranching, conservation, behavioral-transfer, and acceleration claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, research review, field study, governance record, or causal evaluation. Broad [[HumanAgencyUnderAI]], [[CognitiveOffloading]], AI-companion, Google, cited-thinker, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,829 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

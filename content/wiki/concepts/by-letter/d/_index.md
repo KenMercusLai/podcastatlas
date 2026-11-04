@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11016
+wiki_total_pages: 11023
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1163,6 +1163,9 @@ wiki_pages:
   - key: "DominantProducerPriceDiscipline"
     title: "Dominant Producer Price Discipline"
     url: "/wiki/concepts/dominantproducerpricediscipline/"
+  - key: "DominationModelOfAI"
+    title: "Domination Model of AI"
+    url: "/wiki/concepts/dominationmodelofai/"
   - key: "DonationsOfAlexandria"
     title: "Donations of Alexandria"
     url: "/wiki/concepts/donationsofalexandria/"
