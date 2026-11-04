@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11023
+wiki_total_pages: 11025
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "InterestBasedNegotiation"
     title: "Interest-Based Negotiation / 利益导向谈判"
     url: "/wiki/concepts/interestbasednegotiation/"
+  - key: "InterestBasedThirdPlace"
+    title: "Interest-Based Third Place / 兴趣型第三空间"
+    url: "/wiki/concepts/interestbasedthirdplace/"
   - key: "InterestStructuredAllianceFragility"
     title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
     url: "/wiki/concepts/intereststructuredalliancefragility/"

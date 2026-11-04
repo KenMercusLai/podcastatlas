@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11023
+wiki_total_pages: 11025
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "CoffeeChainLocalization"
     title: "Coffee Chain Localization"
     url: "/wiki/concepts/coffeechainlocalization/"
+  - key: "CoffeeChainScaleServiceProfitTriangle"
+    title: "Coffee Chain Scale-Service-Profit Triangle / 连锁咖啡规模服务盈利不可能三角"
+    url: "/wiki/concepts/coffeechainscaleserviceprofittriangle/"
   - key: "CoffeeCommodityPolitics"
     title: "Coffee Commodity Politics"
     url: "/wiki/concepts/coffeecommoditypolitics/"

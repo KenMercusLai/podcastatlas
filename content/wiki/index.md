@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.280 星巴克中国：和开店同样重要的事](sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz.md) — 商业就是这样分析星巴克中国以服务工时、门店体验和兴趣社区回应价格竞争、扩张压力与本地第三空间需求。
 - [Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence](sources/02026-thurston-aguera-y-arcas-podcast-v4.md) — Long Now conversation on symbiogenesis, relational AI ethics, domination, differentiated interdependence, cognitive liberty, care, and multilevel governance.
 - [375-中期选举惨败后共和党何去何从？](sources/375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr.md) — 独树不成林 separates cyclical midterm backlash from realignment and links lived costs, the Iran war, endorsement translation, divided government, and post-Trump succession.
 - [Not in Kansas any more: Republicans get a thrashing](sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4.md) — Economist Podcasts interprets a reported Democratic midterm sweep through prices, immigration enforcement, candidate weakness, cross-party voting, redistricting backfire, governing constraints, and Republican identity conflict.
@@ -18201,7 +18202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private space company now covered through IPO valuation risk, reusable rockets, Starlink, Starship, manufacturing culture, and AI infrastructure scenarios.
 - [S&P 500](entities/SP500.md) — Broad U.S. equity benchmark used in EP57 for long-term index investing, current valuation, and staged reentry discipline.
-- [Starbucks](entities/Starbucks.md) — Coffee retailer spanning CPG distribution, China localization, Asian franchise control, and a no-added-sugar versus sugar-free label dispute.
+- [Starbucks](entities/Starbucks.md) — Coffee retailer spanning CPG distribution, China localization, service-led third-place investment, Asian franchise control, and consumer-label trust.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
 - [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, Claude Code, and skill-selection friction.
@@ -18934,6 +18935,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Interest-Based Third Place / 兴趣型第三空间](concepts/InterestBasedThirdPlace.md) — Semi-public venue organized through recurring shared activities rather than neighborhood proximity alone.
+- [Coffee Chain Scale-Service-Profit Triangle / 连锁咖啡规模服务盈利不可能三角](concepts/CoffeeChainScaleServiceProfitTriangle.md) — Operating tradeoff among a large store network, labor-intensive interaction, and strong store profitability.
 - [Relational AI Ethics](concepts/RelationalAIEthics.md) — Evaluation of AI through the habits, expectations, and power relations formed in interaction without requiring proof of machine life.
 - [Symbiogenesis](concepts/Symbiogenesis.md) — Evolutionary integration in which formerly separate organisms become differentiated parts of a new living whole.
 - [Cartesian Wound](concepts/CartesianWound.md) — Separations between human and animal, culture and nature, or technology and biology that hide material dependence.
@@ -28474,7 +28477,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investment Catalyst](concepts/InvestmentCatalyst.md) — Event, business change, or capital-return action that can make price converge toward estimated value.
 - [AI-Compressed Investment Research Advantage](concepts/AICompressedInvestmentResearchAdvantage.md) — Idea that AI reduces information and initial-analysis advantage while leaving judgment, behavior, data quality, and self-knowledge scarce.
 - [Coffee Chain Institutionalization](concepts/CoffeeChainInstitutionalization.md) — shift from coffee startup land-grab toward control deals, professional managers, and institutional ownership of proven chain assets.
-- [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — Ownership, operating, and supplier-cost adaptation needed when global coffee brands face China's local price, product, and store-cadence pressure.
+- [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — Local adaptation of ownership, supply chain, labor, assets, formats, service, and community use under market-specific coffee economics.
 - [Premium-Everyday Brand Tension](concepts/PremiumEverydayBrandTension.md) — Conflict between premium scarcity/status and mass convenience, frequency, volume, or value pricing across coffee chains and EV product lines.
 - [Beverage Category Convergence](concepts/BeverageCategoryConvergence.md) — tea-drink and coffee chains moving into each other's categories through shared beverage habits and store networks.
 - [Portable Creator Cameras](concepts/PortableCreatorCameras.md) — Action, gimbal, and 360-degree cameras that serve short-video and creator workflows beyond phone-only recording.

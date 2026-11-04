@@ -55311,6 +55311,52 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/coffee/"
     },
+    "CoffeeChainLocalization": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "GKwRIRwOwPxKALwttgT1xwrz [GKwRIRwOwPxKALwttgT1xwrz].md",
+          "key": "vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz",
+          "show": "商业就是这样",
+          "title": "Vol.280 星巴克中国：和开店同样重要的事",
+          "url": "/wiki/sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/coffeechainlocalization/"
+    },
+    "CoffeeChainScaleServiceProfitTriangle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOwPxKALwttgT1xwrz [GKwRIRwOwPxKALwttgT1xwrz].md",
+          "key": "vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz",
+          "show": "商业就是这样",
+          "title": "Vol.280 星巴克中国：和开店同样重要的事",
+          "url": "/wiki/sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/coffeechainscaleserviceprofittriangle/"
+    },
     "CoffeeConsumerJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -147822,6 +147868,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/interestbasednegotiation/"
+    },
+    "InterestBasedThirdPlace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOwPxKALwttgT1xwrz [GKwRIRwOwPxKALwttgT1xwrz].md",
+          "key": "vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz",
+          "show": "商业就是这样",
+          "title": "Vol.280 星巴克中国：和开店同样重要的事",
+          "url": "/wiki/sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/interestbasedthirdplace/"
     },
     "InterestConsumptionRetail": {
       "episode_count": 2,
@@ -274179,9 +274241,9 @@
       "url": "/wiki/entities/starwarsgalaxysedge/"
     },
     "Starbucks": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
@@ -274224,9 +274286,16 @@
           "show": "声动早咖啡",
           "title": "国庆假期「多城串游」热度攀升，星巴克因无糖饮料中含糖被起诉",
           "url": "/wiki/sources/guoqing-jiaqi-duocheng-chuanyou-redu-pansheng-xingbake-yin-wutang-yinliao-zhong-hantang-bei-qisu-1021649123/"
+        },
+        {
+          "episode_file": "GKwRIRwOwPxKALwttgT1xwrz [GKwRIRwOwPxKALwttgT1xwrz].md",
+          "key": "vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz",
+          "show": "商业就是这样",
+          "title": "Vol.280 星巴克中国：和开店同样重要的事",
+          "url": "/wiki/sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/starbucks/"
     },
     "StargardtDisease": {

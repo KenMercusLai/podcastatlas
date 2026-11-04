@@ -38530,3 +38530,11 @@ Added source `02026-thurston-aguera-y-arcas-podcast-v4`; created [[BaratundeThur
 ## [2026-11-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-05] ingest | Vol.280 星巴克中国：和开店同样重要的事
+
+Added source `vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz`; created [[CoffeeChainScaleServiceProfitTriangle|连锁咖啡规模服务盈利不可能三角]] and [[InterestBasedThirdPlace|兴趣型第三空间]]; resynthesized [[Starbucks]] from its complete preserved evidence inventory; and migrated and resynthesized [[CoffeeChainLocalization]] before appending the new source once. Core synthesis: Starbucks China's reported service-hours and store-improvement plan turns local control into an operating choice; lower Chinese store economics may favor labor and selective upgrades over direct duplication of North America's asset program; chain scale, interactive service, and profit remain difficult to maximize together; and shared activities can give customers a more specific reason to use a paid third place than generic seating alone. No settled contradiction was adopted. The 20,000-store ambition and possible near-term slowdown are treated as tension rather than a confirmed reversal, while ownership, investment, service-hour, store, revenue, profit, asset, comparable-sales, and margin claims remain episode-reported or host-estimated because the supplied file is a structured summary rather than a transcript, filing set, contract record, store dataset, or independent outcome evaluation. Broad [[BoyuCapital]], [[LuckinCoffee]], [[CoffeehousePublicSphere]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening additional evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,830 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
