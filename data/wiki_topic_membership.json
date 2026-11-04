@@ -27492,6 +27492,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ConsumerProductValueLegibility": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ConsumerReports": [
     {
       "key": "culture",
@@ -55505,6 +55512,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Laifen": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LakesideBookCompany": [
     {
       "key": "culture",
@@ -74097,6 +74111,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ProductCapabilityCommercializationGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ProductLaunchUnderConstraint": [
@@ -100276,6 +100297,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "YeHongxin": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "YeJunjian": [
     {
       "key": "culture",
@@ -108480,6 +108508,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lm2iomi68yhdbuqvdir8761d-syq": [

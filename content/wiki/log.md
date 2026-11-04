@@ -38475,3 +38475,11 @@ Ingested the 迟早更新 birdwatching crossover on field-guide aesthetics, stan
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-04] ingest | 徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......
+
+Added source `ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli`; created [[YeHongxin|叶洪新]], [[Laifen|徕芬]], [[ProductCapabilityCommercializationGap]], [[ConsumerProductValueLegibility]], and [[CrossCategoryBrandTrust]]; and resynthesized [[HardwarePrototypeToProductionGap]] and [[FounderUniqueValuePreservation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: aircraft and scooter failures accumulated reusable motor, design, production, and quality knowledge, but a technically strong consumer product still requires reliable scale, credible explanation, channels, service, and organization; advanced features become value only when ordinary users can understand or feel them; and cross-category brand trust must be earned repeatedly rather than inferred from one hit. No settled contradiction was adopted. Sales, revenue, market leadership, app use, ownership, spending, patent outcomes, product performance, profitability, overseas growth, and competitor comparisons remain source-scoped because the supplied file is a structured summary rather than a transcript, filing set, patent docket, product test, or independent market study. Broad [[LuoYonghao|罗永浩]], [[LuoyonghaosCrossroads|罗永浩的十字路口]], [[ConsumerBrandMoat]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,823 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

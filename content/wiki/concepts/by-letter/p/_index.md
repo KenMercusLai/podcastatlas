@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11002
+wiki_total_pages: 11005
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2222,6 +2222,9 @@ wiki_pages:
   - key: "ProductAnalytics"
     title: "Product Analytics"
     url: "/wiki/concepts/productanalytics/"
+  - key: "ProductCapabilityCommercializationGap"
+    title: "Product Capability–Commercialization Gap / 产品能力与商业化能力差距"
+    url: "/wiki/concepts/productcapabilitycommercializationgap/"
   - key: "ProductCategoryVelocity"
     title: "Product Category Velocity"
     url: "/wiki/concepts/productcategoryvelocity/"

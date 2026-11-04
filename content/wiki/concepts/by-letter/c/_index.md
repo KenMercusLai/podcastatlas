@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11002
+wiki_total_pages: 11005
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2384,6 +2384,9 @@ wiki_pages:
   - key: "ConsumerLoanRisk"
     title: "Consumer Loan Risk"
     url: "/wiki/concepts/consumerloanrisk/"
+  - key: "ConsumerProductValueLegibility"
+    title: "Consumer Product Value Legibility / 消费产品价值可理解性"
+    url: "/wiki/concepts/consumerproductvaluelegibility/"
   - key: "ConsumerRoboticsFullStack"
     title: "Consumer Robotics Full Stack"
     url: "/wiki/concepts/consumerroboticsfullstack/"
@@ -3098,6 +3101,9 @@ wiki_pages:
   - key: "CrossBorderWealthManagementConnect"
     title: "Cross-Border Wealth Management Connect"
     url: "/wiki/concepts/crossborderwealthmanagementconnect/"
+  - key: "CrossCategoryBrandTrust"
+    title: "Cross-Category Brand Trust / 跨品类品牌信任"
+    url: "/wiki/concepts/crosscategorybrandtrust/"
   - key: "CrossClassChristianConversion"
     title: "Cross-Class Christian Conversion"
     url: "/wiki/concepts/crossclasschristianconversion/"

@@ -60148,6 +60148,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/consumerloanrisk/"
     },
+    "ConsumerProductValueLegibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/consumerproductvaluelegibility/"
+    },
     "ConsumerSleepHardwareSubscription": {
       "episode_count": 2,
       "show_count": 2,
@@ -64437,6 +64453,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/crossborderecommercelocalizationpressure/"
+    },
+    "CrossCategoryBrandTrust": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/crosscategorybrandtrust/"
     },
     "CrossClassChristianConversion": {
       "episode_count": 1,
@@ -106534,9 +106566,9 @@
       "url": "/wiki/concepts/foundertyrantpoliticalmemory/"
     },
     "FounderUniqueValuePreservation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "VMP4254648132 [VMP4254648132].md",
@@ -106544,9 +106576,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Tope Awotona of Calendly",
           "url": "/wiki/sources/advice-line-with-tope-awotona-of-calendly-vmp4254648132/"
+        },
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
         }
       ],
-      "updated": "2026-10-29",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/founderuniquevaluepreservation/"
     },
     "FounderWorkBoundaries": {
@@ -127340,9 +127379,9 @@
       "url": "/wiki/concepts/hardwareinventoryrisk/"
     },
     "HardwarePrototypeToProductionGap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "nk78YhGKzrzA-pj5ex42Hwz7n352 [nk78YhGKzrzA-pj5ex42Hwz7n352].md",
@@ -127357,9 +127396,16 @@
           "show": "42章经",
           "title": "一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓",
           "url": "/wiki/sources/yi-ge-personal-agent-chuangyezhe-de-sikao-duitan-ambi-chuangshiren-zihao-lkr2rf-l-ft-p-i6f-tay5vlnt6e/"
+        },
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-04",
       "url": "/wiki/concepts/hardwareprototypetoproductiongap/"
     },
     "HardwareSoftwareIterationAsymmetry": {
@@ -165606,6 +165652,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/laixieasternhan/"
+    },
+    "Laifen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/laifen/"
     },
     "LakotaPeople": {
       "episode_count": 8,
@@ -235223,6 +235285,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/productbrandcompanybrandseparation/"
+    },
+    "ProductCapabilityCommercializationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/concepts/productcapabilitycommercializationgap/"
     },
     "ProductCategoryVelocity": {
       "episode_count": 1,
@@ -319804,6 +319882,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/yeguofu/"
+    },
+    "YeHongxin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll4eKwtvjNpxit2gDkVcfPHF0ELi [ll4eKwtvjNpxit2gDkVcfPHF0ELi].md",
+          "key": "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli",
+          "show": "罗永浩的十字路口",
+          "title": "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......",
+          "url": "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
+        }
+      ],
+      "updated": "2026-11-04",
+      "url": "/wiki/entities/yehongxin/"
     },
     "YeLateHan": {
       "episode_count": 6,

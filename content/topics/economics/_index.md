@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2352
+topic_total_pages: 2353
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7029,6 +7029,9 @@ topic_sources:
   - key: "nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352"
     title: "影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头"
     url: "/wiki/sources/nk78yhgkzrza-pj5ex42hwz7n352-nk78yhgkzrza-pj5ex42hwz7n352/"
+  - key: "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli"
+    title: "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......"
+    url: "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
   - key: "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq"
     title: "所有净值曲线背后都是人，正态分布的普通人"
     url: "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"

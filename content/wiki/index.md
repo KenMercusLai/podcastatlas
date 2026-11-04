@@ -4936,7 +4936,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [全球一半的客机都是租来的，为什么航空公司越来越依赖租飞机？](sources/quanqiu-yiban-de-keji-doushi-zulai-de-weishenme-hangkong-gongsi-yuelaiyue-yilai-zufeiji-gkwriueov5quagrxvgt1foqm.md) — 声动早咖啡以 Avolon 大额订单解释航司现金与运力灵活性、飞机供给短缺、爱尔兰租赁集群及大型租赁商的规模优势。
 
+- [徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......](sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli.md) — 罗永浩对谈叶洪新，从飞机与滑板车试错、自研高速电机和吹风机上市，谈到产品商业化、价值解释、跨品类品牌信任与创始人判断的组织化。
+
 ## Entities
+- [叶洪新 / Ye Hongxin](entities/YeHongxin.md) — 徕芬创始人和产品负责人，以飞机、滑板车和生活电器的连续试错积累电机、设计、量产与品牌能力。
+- [徕芬 / Laifen](entities/Laifen.md) — 以高速吹风机切入并扩展至牙刷、剃须刀等品类的中国生活科技与个人护理电器公司。
 - [Roger Tory Peterson](entities/RogerToryPeterson.md) — Field-guide author used to explain diagnostic identification and type-oriented bird imagery.
 - [Hiroshi Sugimoto / 杉本博司](entities/HiroshiSugimoto.md) — Photographer whose dioramas and seascapes question photographic truth, time, and perception.
 - [Barbara Bosworth](entities/BarbaraBosworth.md) — Photographer represented through visible human-bird encounter and long-term attention to one place.
@@ -18913,6 +18917,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Product Capability–Commercialization Gap / 产品能力与商业化能力差距](concepts/ProductCapabilityCommercializationGap.md) — 从好产品跨越到融资、量产、解释、渠道、品牌、销售、服务与本地化协同的能力距离。
+- [Consumer Product Value Legibility / 消费产品价值可理解性](concepts/ConsumerProductValueLegibility.md) — 让工程优势在购买前可解释、在默认使用中可感知并可记忆的产品要求。
+- [Cross-Category Brand Trust / 跨品类品牌信任](concepts/CrossCategoryBrandTrust.md) — 消费者把一个产品的好体验作为考虑同品牌另一品类时的条件性证据。
 - [Nature Photography / 自然摄影](concepts/NaturePhotography.md) — Contested field expanded from standardized species portraits toward place, duration, process, and discovery.
 - [Context-Stripped Wildlife Image / 低语境野生动物图像](concepts/ContextStrippedWildlifeImage.md) — Portable animal image whose easy circulation depends on removing much of its ecological and production context.
 - [Photographic Presence Under Generative AI / 生成式 AI 下的摄影在场](concepts/PhotographicPresenceUnderGenerativeAI.md) — Accountable real-world encounter as a source of photographic value after visual perfection becomes generatable.

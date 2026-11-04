@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3720
+topic_total_pages: 3725
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1732,6 +1732,9 @@ topic_concepts:
   - key: "ConsumerHealthAIGovernance"
     title: "Consumer Health AI Governance"
     url: "/wiki/concepts/consumerhealthaigovernance/"
+  - key: "ConsumerProductValueLegibility"
+    title: "Consumer Product Value Legibility / 消费产品价值可理解性"
+    url: "/wiki/concepts/consumerproductvaluelegibility/"
   - key: "ConsumerRoboticsFullStack"
     title: "Consumer Robotics Full Stack"
     url: "/wiki/concepts/consumerroboticsfullstack/"
@@ -4012,6 +4015,9 @@ topic_concepts:
   - key: "ProblemDefinitionInResearch"
     title: "Problem Definition In Research"
     url: "/wiki/concepts/problemdefinitioninresearch/"
+  - key: "ProductCapabilityCommercializationGap"
+    title: "Product Capability–Commercialization Gap / 产品能力与商业化能力差距"
+    url: "/wiki/concepts/productcapabilitycommercializationgap/"
   - key: "ProductLedWillingnessToPay"
     title: "Product Led Willingness To Pay"
     url: "/wiki/concepts/productledwillingnesstopay/"
@@ -8939,6 +8945,9 @@ topic_entities:
   - key: "YeLuMureka"
     title: "叶律 / Ye Lu"
     url: "/wiki/entities/yelumureka/"
+  - key: "YeHongxin"
+    title: "叶洪新 / Ye Hongxin"
+    url: "/wiki/entities/yehongxin/"
   - key: "WuXinhong"
     title: "吴欣鸿"
     url: "/wiki/entities/wuxinhong/"
@@ -9032,6 +9041,9 @@ topic_entities:
   - key: "PengXinyu"
     title: "彭新宇 / Peng Xinyu"
     url: "/wiki/entities/pengxinyu/"
+  - key: "Laifen"
+    title: "徕芬 / Laifen"
+    url: "/wiki/entities/laifen/"
   - key: "Dongniao"
     title: "懂鸟 / Dongniao"
     url: "/wiki/entities/dongniao/"
@@ -11016,6 +11028,9 @@ topic_sources:
   - key: "lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h"
     title: "影视飓风TIM×罗永浩！用影像打开世界的梦想家"
     url: "/wiki/sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h/"
+  - key: "ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli"
+    title: "徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......"
+    url: "/wiki/sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli/"
   - key: "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13"
     title: "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频"
     url: "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
