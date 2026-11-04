@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 10997
+wiki_total_pages: 11002
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "IndividualPsychology"
     title: "Individual Psychology"
     url: "/wiki/concepts/individualpsychology/"
+  - key: "IndividualAnimalBiography"
+    title: "Individual-Animal Biography / 动物个体传记"
+    url: "/wiki/concepts/individualanimalbiography/"
   - key: "IndividualItemEcommerce"
     title: "Individual-Item Ecommerce"
     url: "/wiki/concepts/individualitemecommerce/"

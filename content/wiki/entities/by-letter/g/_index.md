@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13885
+wiki_total_pages: 13890
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "GeorgeSalomon"
     title: "George Salomon"
     url: "/wiki/entities/georgesalomon/"
+  - key: "GeorgeShiras"
+    title: "George Shiras"
+    url: "/wiki/entities/georgeshiras/"
   - key: "GeorgeShultz"
     title: "George Shultz"
     url: "/wiki/entities/georgeshultz/"
@@ -959,6 +962,9 @@ wiki_pages:
   - key: "GregCarlstrom"
     title: "Greg Carlstrom"
     url: "/wiki/entities/gregcarlstrom/"
+  - key: "GregMarshall"
+    title: "Greg Marshall"
+    url: "/wiki/entities/gregmarshall/"
   - key: "GregMcAdoo"
     title: "Greg McAdoo"
     url: "/wiki/entities/gregmcadoo/"

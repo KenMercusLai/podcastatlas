@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 230: 自然摄影没有未来](sources/episode-230-ziran-sheying-meiyou-weilai-8206247965-646769.md) — 迟早更新与恰恰小豹从图鉴传统、传播机制和相机默认值追问自然摄影，并以在场、个体传记、过程披露和发现导向成像回应生成式 AI。
 - [EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”](sources/ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp.md) — 无时差研究所以许飞与厉娜重访友情误会、06超女怀旧再发现、真人综艺的剪辑证据边界及AI时代的身体在场。
 - [No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图](sources/no-234-jieke-youji-shuyu-chengbao-yinkuang-yu-jiuguan-de-boximiya-ditu-gkwrijiovueba7xf6gt0j48r.md) — 三五环以布拉格、捷克天堂与库特纳霍拉的旅行连接啤酒、城市层叠、宗教战争、1968与1989、银矿劳动及《天国：拯救》的中世纪模拟。
 - [史蒂夫说478期 - 咨询师回信：怎么推翻“父母是爱我的，只是不会表达爱”这种鬼话？](sources/shi-di-fu-shuo-478-zixunshi-huixin-zenme-tuifan-fumu-shi-ai-wode-zhishi-buhui-biaoda-ai-zhezhong-guihua-lktmqgqmon5sjhxl8dz4xkhmn-dn.md) — 史蒂夫说以四封来信连接职场自我价值、伤害性家庭关系的保护性距离、安全基础上的人生探索与父母焦虑的责任分离。
@@ -4936,6 +4937,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [全球一半的客机都是租来的，为什么航空公司越来越依赖租飞机？](sources/quanqiu-yiban-de-keji-doushi-zulai-de-weishenme-hangkong-gongsi-yuelaiyue-yilai-zufeiji-gkwriueov5quagrxvgt1foqm.md) — 声动早咖啡以 Avolon 大额订单解释航司现金与运力灵活性、飞机供给短缺、爱尔兰租赁集群及大型租赁商的规模优势。
 
 ## Entities
+- [Roger Tory Peterson](entities/RogerToryPeterson.md) — Field-guide author used to explain diagnostic identification and type-oriented bird imagery.
+- [Hiroshi Sugimoto / 杉本博司](entities/HiroshiSugimoto.md) — Photographer whose dioramas and seascapes question photographic truth, time, and perception.
+- [Barbara Bosworth](entities/BarbaraBosworth.md) — Photographer represented through visible human-bird encounter and long-term attention to one place.
+- [George Shiras](entities/GeorgeShiras.md) — Early wildlife photographer associated with triggered flash and remote nocturnal capture.
+- [Greg Marshall](entities/GregMarshall.md) — Marine biologist associated with Crittercam and animal-borne viewpoints.
 - [Avolon](entities/Avolon.md) — Ireland-based aircraft lessor whose large fleet and forward orders illustrate scarce delivery access and leasing scale.
 - [AerCap](entities/AerCap.md) — Source-described global aircraft-leasing leader linked to GPA's Irish lineage and global remarketing reach.
 - [Guinness Peat Aviation / GPA](entities/GuinnessPeatAviation.md) — Irish leasing pioneer whose early bundled aircraft placement helped establish the industry cluster.
@@ -18907,6 +18913,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Nature Photography / 自然摄影](concepts/NaturePhotography.md) — Contested field expanded from standardized species portraits toward place, duration, process, and discovery.
+- [Context-Stripped Wildlife Image / 低语境野生动物图像](concepts/ContextStrippedWildlifeImage.md) — Portable animal image whose easy circulation depends on removing much of its ecological and production context.
+- [Photographic Presence Under Generative AI / 生成式 AI 下的摄影在场](concepts/PhotographicPresenceUnderGenerativeAI.md) — Accountable real-world encounter as a source of photographic value after visual perfection becomes generatable.
+- [Individual-Animal Biography / 动物个体传记](concepts/IndividualAnimalBiography.md) — Longitudinal record of one recognizable animal through marks, movement, return, and qualified absence.
+- [Discovery-Oriented Imaging / 发现导向的成像技术](concepts/DiscoveryOrientedImaging.md) — Imaging technology used to reveal inaccessible behavior, perspectives, spaces, and timescales.
 - [Aircraft Leasing Industry Scale](concepts/AircraftLeasingIndustryScale.md) — Reinforcing advantage joining aircraft orders, funding, credit, manufacturer discounts, remarketing reach, and geographic diversification.
 - [Friendship Misunderstanding Accumulation / 友情误会累积](concepts/FriendshipMisunderstandingAccumulation.md) — 不确定事件在缺少及时核对时，被沉默、中间人、事业挫折与记忆固化为长期背叛叙事的机制。
 - [Nostalgic Media Rediscovery / 怀旧媒介再发现](concepts/NostalgicMediaRediscovery.md) — 当前节目重启旧媒介档案，使熟悉人物、个人青春记忆与新的编辑框架共同形成再发现。

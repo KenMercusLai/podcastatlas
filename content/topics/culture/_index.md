@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3609
+topic_total_pages: 3610
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -883,6 +883,9 @@ topic_concepts:
   - key: "ContentEngineering"
     title: "Content Engineering"
     url: "/wiki/concepts/contentengineering/"
+  - key: "ContextStrippedWildlifeImage"
+    title: "Context-Stripped Wildlife Image / 低语境野生动物图像"
+    url: "/wiki/concepts/contextstrippedwildlifeimage/"
   - key: "ContextualFlavorPerception"
     title: "Contextual Flavor Perception"
     url: "/wiki/concepts/contextualflavorperception/"

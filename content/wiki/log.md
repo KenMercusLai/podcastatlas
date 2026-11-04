@@ -38468,3 +38468,10 @@ Added source `quanqiu-yiban-de-keji-doushi-zulai-de-weishenme-hangkong-gongsi-yu
 ## [2026-11-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-04] ingest | Episode 230: 自然摄影没有未来
+
+Ingested the 迟早更新 birdwatching crossover on field-guide aesthetics, standardized wildlife portraits, institutional circulation, camera defaults, generative AI, photographic presence, long-term place records, individual-animal biography, process disclosure, and discovery-oriented imaging. Added source `episode-230-ziran-sheying-meiyou-weilai-8206247965-646769`; created `RogerToryPeterson`, `HiroshiSugimoto`, `BarbaraBosworth`, `GeorgeShiras`, `GregMarshall`, `NaturePhotography`, `ContextStrippedWildlifeImage`, `PhotographicPresenceUnderGenerativeAI`, `IndividualAnimalBiography`, and `DiscoveryOrientedImaging`; updated `RenNing`, `ChizaoGengxin`, `QiaQiaXiaoBao`, `BirdsongPlaybackEthics`, `index`, and `overview`. No settled contradiction found; the supplied summary's “制造更新 / 恰恰小报” naming is preserved as internal ambiguity, and broad historical and field-level judgments remain source-scoped. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,822 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

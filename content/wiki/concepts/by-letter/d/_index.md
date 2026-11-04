@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 10997
+wiki_total_pages: 11002
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "DiscoveryLedDemoSprint"
     title: "Discovery-Led Demo Sprint"
     url: "/wiki/concepts/discoveryleddemosprint/"
+  - key: "DiscoveryOrientedImaging"
+    title: "Discovery-Oriented Imaging / 发现导向的成像技术"
+    url: "/wiki/concepts/discoveryorientedimaging/"
   - key: "DiscreetBenefactionDignity"
     title: "Discreet Benefaction Dignity / 沉默施恩的尊严保护"
     url: "/wiki/concepts/discreetbenefactiondignity/"

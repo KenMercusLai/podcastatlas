@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 10997
+wiki_total_pages: 11002
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "NatureExposureHealthEvidence"
     title: "Nature Exposure Health Evidence"
     url: "/wiki/concepts/natureexposurehealthevidence/"
+  - key: "NaturePhotography"
+    title: "Nature Photography / 自然摄影"
+    url: "/wiki/concepts/naturephotography/"
   - key: "NatureWriting"
     title: "Nature Writing"
     url: "/wiki/concepts/naturewriting/"

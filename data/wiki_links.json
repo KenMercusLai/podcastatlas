@@ -13275,6 +13275,10 @@
     "title": "Barbados",
     "url": "/wiki/entities/barbados/"
   },
+  "BarbaraBosworth": {
+    "title": "Barbara Bosworth",
+    "url": "/wiki/entities/barbarabosworth/"
+  },
   "BarbaraCarvalho": {
     "title": "Barbara Carvalho",
     "url": "/wiki/entities/barbaracarvalho/"
@@ -23399,6 +23403,10 @@
     "title": "Context Infrastructure",
     "url": "/wiki/concepts/contextinfrastructure/"
   },
+  "ContextStrippedWildlifeImage": {
+    "title": "Context-Stripped Wildlife Image / 低语境野生动物图像",
+    "url": "/wiki/concepts/contextstrippedwildlifeimage/"
+  },
   "ContextualAgentAuthorization": {
     "title": "Contextual Agent Authorization",
     "url": "/wiki/concepts/contextualagentauthorization/"
@@ -28182,6 +28190,10 @@
   "DiscoveryModel": {
     "title": "Discovery Model",
     "url": "/wiki/concepts/discoverymodel/"
+  },
+  "DiscoveryOrientedImaging": {
+    "title": "Discovery-Oriented Imaging / 发现导向的成像技术",
+    "url": "/wiki/concepts/discoveryorientedimaging/"
   },
   "DiscreetBenefactionDignity": {
     "title": "Discreet Benefaction Dignity / 沉默施恩的尊严保护",
@@ -38711,6 +38723,10 @@
     "title": "George Salomon",
     "url": "/wiki/entities/georgesalomon/"
   },
+  "GeorgeShiras": {
+    "title": "George Shiras",
+    "url": "/wiki/entities/georgeshiras/"
+  },
   "GeorgeShultz": {
     "title": "George Shultz",
     "url": "/wiki/entities/georgeshultz/"
@@ -40182,6 +40198,10 @@
   "GregCarlstrom": {
     "title": "Greg Carlstrom",
     "url": "/wiki/entities/gregcarlstrom/"
+  },
+  "GregMarshall": {
+    "title": "Greg Marshall",
+    "url": "/wiki/entities/gregmarshall/"
   },
   "GregMcAdoo": {
     "title": "Greg McAdoo",
@@ -43471,6 +43491,10 @@
     "title": "Hiram Wesley Evans",
     "url": "/wiki/entities/hiramwesleyevans/"
   },
+  "HiroshiSugimoto": {
+    "title": "Hiroshi Sugimoto / 杉本博司",
+    "url": "/wiki/entities/hiroshisugimoto/"
+  },
   "HiroshimaAtomicBombing": {
     "title": "Hiroshima Atomic Bombing",
     "url": "/wiki/entities/hiroshimaatomicbombing/"
@@ -46618,6 +46642,10 @@
   "IndividualAbandonmentNarrative": {
     "title": "Individual Abandonment Narrative / 个体被抛弃叙事",
     "url": "/wiki/concepts/individualabandonmentnarrative/"
+  },
+  "IndividualAnimalBiography": {
+    "title": "Individual-Animal Biography / 动物个体传记",
+    "url": "/wiki/concepts/individualanimalbiography/"
   },
   "IndividualItemEcommerce": {
     "title": "Individual-Item Ecommerce",
@@ -65179,6 +65207,10 @@
     "title": "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突",
     "url": "/wiki/concepts/naturelawlegaljustice/"
   },
+  "NaturePhotography": {
+    "title": "Nature Photography / 自然摄影",
+    "url": "/wiki/concepts/naturephotography/"
+  },
   "NatureWriting": {
     "title": "Nature Writing",
     "url": "/wiki/concepts/naturewriting/"
@@ -70906,6 +70938,10 @@
   "PhotoCaptureProvenance": {
     "title": "Photo Capture Provenance",
     "url": "/wiki/concepts/photocaptureprovenance/"
+  },
+  "PhotographicPresenceUnderGenerativeAI": {
+    "title": "Photographic Presence Under Generative AI / 生成式 AI 下的摄影在场",
+    "url": "/wiki/concepts/photographicpresenceundergenerativeai/"
   },
   "PhotographicWitness": {
     "title": "Photographic Witness",
@@ -78902,6 +78938,10 @@
   "RogerShepard": {
     "title": "Roger Shepard",
     "url": "/wiki/entities/rogershepard/"
+  },
+  "RogerToryPeterson": {
+    "title": "Roger Tory Peterson",
+    "url": "/wiki/entities/rogertorypeterson/"
   },
   "RogerZelazny": {
     "title": "Roger Zelazny / 罗杰·泽拉兹尼",
@@ -107042,6 +107082,10 @@
   "episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2": {
     "title": "Episode 23: 快乐饮品还是等级试卷？和孟蕾聊聊「水土不服」的香槟",
     "url": "/wiki/sources/episode-23-kuaile-yinpin-haishi-dengji-shijuan-he-menglei-liaoliao-shuitubufu-de-xiangbin-04dfa7a3-d4b9-429d-9d7b-ed3ecc005fe2/"
+  },
+  "episode-230-ziran-sheying-meiyou-weilai-8206247965-646769": {
+    "title": "Episode 230: 自然摄影没有未来",
+    "url": "/wiki/sources/episode-230-ziran-sheying-meiyou-weilai-8206247965-646769/"
   },
   "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962": {
     "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",

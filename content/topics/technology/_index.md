@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3718
+topic_total_pages: 3720
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2104,6 +2104,9 @@ topic_concepts:
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"
+  - key: "DiscoveryOrientedImaging"
+    title: "Discovery-Oriented Imaging / 发现导向的成像技术"
+    url: "/wiki/concepts/discoveryorientedimaging/"
   - key: "DisneyRobotExperienceCommercialization"
     title: "Disney Robot Experience Commercialization / 迪士尼机器人体验商业化"
     url: "/wiki/concepts/disneyrobotexperiencecommercialization/"
@@ -10161,6 +10164,9 @@ topic_sources:
   - key: "episode-224-bushi-bushi-bushi-bushi-8213451338-252768"
     title: "Episode 224: 不是不识不时不适"
     url: "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+  - key: "episode-230-ziran-sheying-meiyou-weilai-8206247965-646769"
+    title: "Episode 230: 自然摄影没有未来"
+    url: "/wiki/sources/episode-230-ziran-sheying-meiyou-weilai-8206247965-646769/"
   - key: "tsr-s4-ericm-v2-tsr-s4-ericm-v2"
     title: "Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself"
     url: "/wiki/sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2/"

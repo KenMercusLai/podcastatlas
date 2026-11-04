@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 10997
+wiki_total_pages: 11002
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "PhotoCaptureProvenance"
     title: "Photo Capture Provenance"
     url: "/wiki/concepts/photocaptureprovenance/"
+  - key: "PhotographicPresenceUnderGenerativeAI"
+    title: "Photographic Presence Under Generative AI / 生成式 AI 下的摄影在场"
+    url: "/wiki/concepts/photographicpresenceundergenerativeai/"
   - key: "PhotographicWitness"
     title: "Photographic Witness"
     url: "/wiki/concepts/photographicwitness/"
