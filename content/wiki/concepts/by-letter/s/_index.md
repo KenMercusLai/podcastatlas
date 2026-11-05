@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11032
+wiki_total_pages: 11034
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "SelfRecognitionHorror"
     title: "Self-Recognition Horror"
     url: "/wiki/concepts/selfrecognitionhorror/"
+  - key: "SelfRelianceOrientedEducation"
+    title: "Self-Reliance-Oriented Education / 自立导向教育"
+    url: "/wiki/concepts/selfrelianceorientededucation/"
   - key: "SelfSacrificeAsRelationalControl"
     title: "Self-Sacrifice as Relational Control / 以自我牺牲替他人做主"
     url: "/wiki/concepts/selfsacrificeasrelationalcontrol/"

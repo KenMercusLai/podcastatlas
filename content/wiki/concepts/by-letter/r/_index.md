@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11032
+wiki_total_pages: 11034
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "RelationshipLedSales"
     title: "Relationship-Led Sales"
     url: "/wiki/concepts/relationshipledsales/"
+  - key: "RelativeAdvantageCareerMatching"
+    title: "Relative Advantage Career Matching / 相对优势职业匹配"
+    url: "/wiki/concepts/relativeadvantagecareermatching/"
   - key: "RelentlesslyResourcefulFounder"
     title: "Relentlessly Resourceful Founder"
     url: "/wiki/concepts/relentlesslyresourcefulfounder/"

@@ -42592,9 +42592,9 @@
       "url": "/wiki/concepts/caresocialization/"
     },
     "CareerCognitionEducation": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
@@ -42609,9 +42609,16 @@
           "show": "Talk三联",
           "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
           "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        },
+        {
+          "episode_file": "95e34c80-ffa3-4f50-8077-078d315ee1f4 [95e34c80-ffa3-4f50-8077-078d315ee1f4].md",
+          "key": "409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80",
+          "show": "声东击西",
+          "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+          "url": "/wiki/sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/careercognitioneducation/"
     },
     "CareerPositioningThroughFit": {
@@ -105218,6 +105225,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/foodpleasureengineering/"
+    },
+    "FoodSchool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "95e34c80-ffa3-4f50-8077-078d315ee1f4 [95e34c80-ffa3-4f50-8077-078d315ee1f4].md",
+          "key": "409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80",
+          "show": "声东击西",
+          "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+          "url": "/wiki/sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/foodschool/"
     },
     "FoodSystemNutritionResponsibility": {
       "episode_count": 4,
@@ -219113,6 +219136,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/ouyangxiu/"
     },
+    "OuyangYanqin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "95e34c80-ffa3-4f50-8077-078d315ee1f4 [95e34c80-ffa3-4f50-8077-078d315ee1f4].md",
+          "key": "409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80",
+          "show": "声东击西",
+          "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+          "url": "/wiki/sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/ouyangyanqin/"
+    },
     "OvaLabs": {
       "episode_count": 1,
       "show_count": 1,
@@ -246010,6 +246049,22 @@
       "updated": "2026-10-20",
       "url": "/wiki/concepts/relationshipvaluebeyondduration/"
     },
+    "RelativeAdvantageCareerMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "95e34c80-ffa3-4f50-8077-078d315ee1f4 [95e34c80-ffa3-4f50-8077-078d315ee1f4].md",
+          "key": "409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80",
+          "show": "声东击西",
+          "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+          "url": "/wiki/sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/relativeadvantagecareermatching/"
+    },
     "ReliabilityDrivenInfrastructureOwnership": {
       "episode_count": 1,
       "show_count": 1,
@@ -260604,6 +260659,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/selfprotectiveaccessionchoice/"
+    },
+    "SelfRelianceOrientedEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "95e34c80-ffa3-4f50-8077-078d315ee1f4 [95e34c80-ffa3-4f50-8077-078d315ee1f4].md",
+          "key": "409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80",
+          "show": "声东击西",
+          "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+          "url": "/wiki/sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/selfrelianceorientededucation/"
     },
     "SelfSacrificeAsRelationalControl": {
       "episode_count": 1,
@@ -301853,6 +301924,36 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/vocaltractspeechproduction/"
+    },
+    "VocationalEducation": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "95e34c80-ffa3-4f50-8077-078d315ee1f4 [95e34c80-ffa3-4f50-8077-078d315ee1f4].md",
+          "key": "409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80",
+          "show": "声东击西",
+          "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+          "url": "/wiki/sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/vocationaleducation/"
     },
     "Vogue": {
       "episode_count": 1,

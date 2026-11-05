@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13907
+wiki_total_pages: 13909
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1412,6 +1412,9 @@ wiki_pages:
   - key: "FutureCola"
     title: "非常可乐 / Future Cola"
     url: "/wiki/entities/futurecola/"
+  - key: "FoodSchool"
+    title: "食物学堂 / Food School"
+    url: "/wiki/entities/foodschool/"
   - key: "FengMengjie"
     title: "馮孟傑 / Feng Mengjie"
     url: "/wiki/entities/fengmengjie/"
