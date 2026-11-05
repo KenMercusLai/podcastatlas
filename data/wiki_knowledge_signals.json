@@ -977,9 +977,9 @@
       "url": "/wiki/concepts/aianswerevaluation/"
     },
     "AIAnswerSourceAttribution": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
@@ -1008,9 +1008,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "Podcast178_v1 [Podcast178_v1].md",
+          "key": "podcast178-v1-podcast178-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天",
+          "url": "/wiki/sources/podcast178-v1-podcast178-v1/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/aianswersourceattribution/"
     },
     "AIApplicationSurvivalStrategy": {
@@ -1786,9 +1793,9 @@
       "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
     },
     "AICloneRace": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOvcOmARLVVwT0F8R9 [GKwRIJIOvcOmARLVVwT0F8R9].md",
@@ -1796,9 +1803,16 @@
           "show": "旧世代",
           "title": "揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想",
           "url": "/wiki/sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9/"
+        },
+        {
+          "episode_file": "Podcast178_v1 [Podcast178_v1].md",
+          "key": "podcast178-v1-podcast178-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天",
+          "url": "/wiki/sources/podcast178-v1-podcast178-v1/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/aiclonerace/"
     },
     "AICodingMarketConcentration": {
@@ -225072,9 +225086,9 @@
       "url": "/wiki/concepts/persianateadministrativetransmission/"
     },
     "PersistentCloudAgents": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -225096,9 +225110,16 @@
           "show": "十字路口Crossing",
           "title": "“有了AI，我感觉自己强得可怕！”｜对谈鸭哥",
           "url": "/wiki/sources/you-le-ai-wo-ganjue-ziji-qiang-de-kepa-duitan-yage-lr19x9_9jymicozs2ufabr8yc6kb/"
+        },
+        {
+          "episode_file": "Podcast178_v1 [Podcast178_v1].md",
+          "key": "podcast178-v1-podcast178-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天",
+          "url": "/wiki/sources/podcast178-v1-podcast178-v1/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersistentOralLesionEscalation": {
@@ -228255,9 +228276,9 @@
       "url": "/wiki/concepts/platformageestimation/"
     },
     "PlatformAgentAccessConflict": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
@@ -228293,9 +228314,16 @@
           "show": "硅谷101",
           "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
           "url": "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
+        },
+        {
+          "episode_file": "Podcast178_v1 [Podcast178_v1].md",
+          "key": "podcast178-v1-podcast178-v1",
+          "show": "枫言枫语",
+          "title": "Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天",
+          "url": "/wiki/sources/podcast178-v1-podcast178-v1/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/platformagentaccessconflict/"
     },
     "PlatformAntitrust": {

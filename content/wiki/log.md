@@ -38526,6 +38526,9 @@ Added source `375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuo
 ## [2026-11-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-05] ingest | Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天
+
+Added source `podcast178-v1-podcast178-v1`; resynthesized [[PlatformAgentAccessConflict]], [[AIAnswerSourceAttribution]], [[AICloneRace]], and [[PersistentCloudAgents]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: developer-declared agent actions improve governance without requiring platforms to expose commercially central workflows; visible AI citations may still fail to return traffic, feedback, or compensation to original creators; AI lowers both pre-release imitation and post-release copying costs without settling the boundary among ideas, interfaces, code, assets, and infringement; and phone-initiated cloud work creates distinct value when a primary computer is offline, while retaining permission, notification, secret, and recovery risks. No settled contradiction was adopted. Financial figures, model behavior, quotas, IPO plans, search shares, research claims, security reports, product policies, vehicle performance, satellite plans, and fiber records remain episode-scoped because the supplied file is a structured summary rather than a transcript, filing set, technical audit, code comparison, legal ruling, or independent test. Broad company, host, future-technology, and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,834 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-11-05] ingest | Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence
 
@@ -38558,6 +38561,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-05] ingest | Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
 
 Added source `vmp4247798433-vmp4247798433`; created [[DirectPCBuildToOrderModel]] and [[LowInventoryHardwareCostAdvantage]]; and resynthesized [[MichaelDell|Michael Dell]] and [[DellTechnologies|Dell Technologies]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Dell's early advantage was an integrated loop of customer targeting, direct demand capture, configurable assembly, frequent supplier replenishment, low inventory, aggressive pricing, and on-site service rather than one isolated tactic; the same founder account also records compliance gaps, failed projects, inventory-control problems, missed innovation, lost market leadership, and a return to the CEO role. No settled contradiction was adopted. Sales, revenue, cost, price, market-share, service-response, and philanthropy figures remain episode-scoped because the supplied file is a structured retrospective summary rather than a transcript, filing set, customer study, supplier record, or independent competitive analysis. Broad [[HowIBuiltThis]], [[GuyRaz]], [[IBM]], [[FederalCommunicationsCommission|FCC]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,833 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-05] lint | Wiki health check
 

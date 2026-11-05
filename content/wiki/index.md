@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天](sources/podcast178-v1-podcast178-v1.md) — 枫言枫语从 App Intents、AI 摘要、产品复刻和云端 Agent 串联平台商业模式、创作者激励、知识产权、权限与跨设备连续性。
 - [Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)](sources/vmp4247798433-vmp4247798433.md) — How I Built This interview on Michael Dell's customer targeting, dorm-room PC business, direct build-to-order model, low-inventory supply chain, service, failures, and reinvention.
 - [京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌](sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr.md) — 声动早咖啡串联短剧流量、连锁扩张、AI基础设施、欧洲本地化、消费品重组，并以路网服务解释京沪高铁盈利结构。
 - [Vol.280 星巴克中国：和开店同样重要的事](sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz.md) — 商业就是这样分析星巴克中国以服务工时、门店体验和兴趣社区回应价格竞争、扩张压力与本地第三空间需求。
