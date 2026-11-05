@@ -1,41 +1,52 @@
 ---
 title: "Insilico Medicine"
 type: entity
-tags: [biotech, ai, drug-discovery]
+tags: [biotech, ai, drug-discovery, longevity]
 sources:
   - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
-last_updated: 2026-10-06
+  - c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4
+last_updated: 2026-11-05
 knowledge_schema: synthesis-v1
 ---
 
 # Insilico Medicine
 
 ## Overview
-Insilico Medicine is a company named by [[ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech]] as an advanced participant in AI-assisted drug discovery.
+
+Insilico Medicine appears in the wiki as an AI-assisted drug-discovery company moving from high-level clinical-pipeline claims into a source-reported Eli Lilly partnership around disease treatments with possible aging relevance.
 
 ## Current Profile
-The available wiki evidence is deliberately narrow. EP32 groups Insilico Medicine with organizations said to have AI-discovered or AI-optimized candidates moving into clinical testing, but it provides no candidate name, indication, trial phase, registration, endpoint, readout, or description of the company's specific model stack. Its current wiki role is therefore a source-scoped company example inside the broader [[AIClinicalValidationInDrugDiscovery]] transition from computational claims to human evidence.
+
+The bounded evidence remains company-level rather than candidate-level. EP32 groups Insilico with organizations said to have AI-discovered or AI-optimized candidates moving into clinical testing but supplies no candidate, indication, trial, endpoint, or readout. The Economist source adds a potentially $2.75 billion Eli Lilly agreement and calls the approach "dual-purpose therapeutics": develop for a recognized disease while investigating possible aging effects.
+
+Together, the sources make Insilico a useful example of how AI discovery, disease-first regulation, longevity hypotheses, and large-pharma business development can meet. They still do not establish that an Insilico molecule works clinically or slows aging.
 
 ## Key Characteristics
-- Appears in the corpus as an AI-assisted drug-discovery company.
-- Is associated by EP32 with the move from candidate prediction toward clinical testing.
-- Has no candidate-level or trial-level evidence in the available source note.
+
+- AI-assisted drug-discovery company discussed at the transition from computational search to clinical evidence.
+- Source-reported Eli Lilly partner in a potentially $2.75 billion agreement.
+- Associated with disease-first, dual-purpose therapeutics that may also be studied for aging effects.
+- Represented only at company and strategy level in the available sources, without candidate-level results.
 
 ## Evidence
-### AI drug-discovery company example
-- [[ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech]] names Insilico Medicine among organizations described as farthest along in the episode's high-level pipeline account.
 
-### Clinical-evidence boundary
-- [[ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech]] makes clinical outcomes, safety, and toxicity the test of AI-originated candidate claims but supplies no Insilico-specific results.
+- AI discovery and clinical boundary - [[ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech]] names Insilico among organizations described as advanced in AI-assisted drug discovery while withholding candidate and trial details.
+- Longevity-oriented business development - [[c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4]] reports the Eli Lilly agreement and describes dual-purpose therapeutics as recognized-disease programs that can also generate evidence about aging.
 
 ## Qualifications
-This page does not independently establish which Insilico candidate was designed or optimized by AI, its current phase, or its clinical performance. Those details require candidate-level and trial-level sources not present in the episode note.
+
+The reported maximum deal value is not the same as cash paid or program success. Neither source supplies a candidate name, indication, trial registration, phase, endpoint, readout, model contribution, or aging outcome. Company strategy and partnership interest therefore remain evidence of activity, not efficacy.
 
 ## What Changed
-- Created a source-scoped company profile from EP32.
+
+- Added the source-reported Eli Lilly agreement and dual-purpose-therapeutics strategy.
+- Preserved the candidate-level clinical-evidence boundary.
 
 ## Relationships
-- [[AIClinicalValidationInDrugDiscovery]] - evidence boundary governing the episode's use of Insilico Medicine.
-- [[AIDrugDiscoveryPlatform]] - broader platform category in which the company is placed by the source.
-- [[RecursionPharma]] - peer company named in the same high-level pipeline discussion.
-- [[ClinicalDevelopmentCapability]] - downstream capability needed to turn a candidate into clinical evidence.
+
+- [[AIClinicalValidationInDrugDiscovery]] - evidence boundary governing claims about AI-originated candidates.
+- [[AIDrugDiscoveryPlatform]] - broader platform category in which the company is placed.
+- [[LongevityDrugRegulatoryPathway]] - disease-first approval route associated with dual-purpose therapeutics.
+- [[EliLilly]] - source-reported large-pharma agreement partner.
+- [[RecursionPharma]] - peer company named in the earlier pipeline discussion.
+- [[ClinicalDevelopmentCapability]] - downstream capability required to turn a candidate into evidence.

@@ -5,45 +5,54 @@ tags: [crime, data, cities, methodology]
 sources:
   - spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354
   - bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41
-last_updated: 2026-09-04
+  - c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4
+last_updated: 2026-11-05
 knowledge_schema: synthesis-v1
 ---
 
 # Crime Statistics Comparability
 
 ## Definition
-Crime statistics comparability is the methodological problem of comparing safety across places, time periods, and crime categories when definitions, boundaries, reporting behavior, and denominators differ.
+
+Crime statistics comparability is the methodological problem of comparing safety across places, periods, categories, and populations when definitions, boundaries, reporting, detection, numerator units, and denominators differ.
 
 ## Current Synthesis
-The first source establishes the concept through cross-country and cross-city crime comparisons: homicide is relatively comparable, but robbery, burglary, rape reporting, vehicle crime, and shoplifting-with-force are much harder to line up. The new knife-crime source adds a within-country geography problem. London can become safer on some measures while Cambridgeshire or Bedfordshire deteriorates on hospitalizations for assault by sharp objects, so a single national or city headline can hide the relevant local risk.
 
-The strongest method remains comparing like with like. A city compared with its own past is often more reliable than a city ranked against another jurisdiction. A knife-crime map should also distinguish police reports, hospitalizations, homicide, sharp-object assault, age groups, and urban versus county boundaries before drawing political conclusions.
+The source set now joins three levels of comparison. Cross-city work shows why homicide is often more stable than robbery, burglary, rape reporting, vehicle crime, or shoplifting-with-force, and why urban boundaries distort rankings. County-level knife-crime evidence shows that a national or large-city improvement can coexist with worsening hospitalizations elsewhere. The newest nationality comparison adds denominator construction and population composition: an unstable migrant-population estimate and failure to adjust for age and sex can inflate a group comparison.
+
+The strongest practice is to name exactly what is counted, over what population, place, and period, then compare like with like. Self-comparison over time can be stronger than cross-jurisdiction ranking, but it still requires stable definitions. Demographic standardization can improve a group comparison, while conviction, distinct-offender, reported-crime, hospitalization, homicide, and victimization measures must remain separate.
 
 ## Key Claims
-- Homicide is more comparable than many other crime categories because definitions are more stable and deaths are harder to miss.
-- Robbery, burglary, rape reporting, vehicle crime, and shoplifting-with-force are harder to compare because legal definitions and reporting behavior differ.
-- City boundary choices can make a dense urban core and a wider metropolitan jurisdiction look artificially similar or different.
-- Comparing a city with itself over time can be more reliable than ranking cities across countries.
-- Hospitalization data can reveal violent-injury geography that differs from media narratives or police-category headlines.
-- National trends can improve while particular counties or crime categories worsen.
+
+- Homicide is more comparable than many other crime categories because definitions are relatively stable and deaths are harder to miss.
+- Reporting behavior, legal definitions, city boundaries, and dataset harmonization can materially change cross-place rankings.
+- National or large-city trends can improve while particular counties or injury measures worsen.
+- Small or unstable population denominators can distort nationality-based rates.
+- Age-sex standardization is necessary when compared populations have different demographic risk profiles.
+- Convictions, offences, unique offenders, detected crime, and underlying victimization answer different questions.
 
 ## Evidence
-- Cross-jurisdiction method problem: [[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] highlights definition, reporting, boundary, and density problems when comparing European and American crime.
-- Dataset workaround: [[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] uses Matt Ashby's University College London dataset as a "least worst" attempt to harmonize major-city comparisons.
-- Self-comparison preference: [[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] says comparing a city with itself over time can be stronger than cross-country ranking.
-- Knife-crime geography: [[bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41]] pairs improved London and big-city data with worsening sharp-object hospitalization signals in some counties.
+
+- Cross-jurisdiction definitions and boundaries - [[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] describes definition, reporting, density, and boundary problems and uses a harmonized city dataset as a least-worst comparison.
+- Local geography and measure choice - [[bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41]] contrasts improved big-city signals with worsening county hospitalizations for sharp-object assault.
+- Denominator and demographic composition - [[c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4]] replaces a small-sample Afghan population estimate, adjusts for age and sex, and reports a reduction from a claimed 22-fold disparity to roughly seven-fold.
+- Outcome-unit limits - [[c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4]] notes that conviction counts can include repeated offences by one person and that underreporting separates convictions from victimization prevalence.
 
 ## Counterevidence & Qualifications
-Comparability limits do not mean all crime data is useless. Homicide and hospital admissions can be valuable because they are harder to hide than lower-level reported crime. The caution is that each measure answers a different question, so claims about safety should name the geography, period, category, and data source.
+
+Comparability limits do not make crime data useless. Homicide, hospital admissions, police records, convictions, and surveys can each provide evidence when the question matches the measure. The newest source does not provide its full cleaned dataset, uncertainty interval, or reproducible model, so its seven-fold standardized estimate remains episode-scoped rather than independently verified.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 concept schema.
-- Added county-level and hospital-admission geography as a comparability issue.
-- Distinguished national improvement from local deterioration in crime-data interpretation.
+
+- Added denominator construction and age-sex standardization to the comparability framework.
+- Distinguished offences, convictions, unique offenders, and victimization prevalence.
+- Preserved the remaining standardized disparity without treating it as a causal nationality effect.
 
 ## Related Concepts
-- [[LongRunUrbanSafetyTrend]] - time-series comparison is the concept's most reliable use case.
-- [[RuralKnifeCrimeGeography]] - county-level knife-crime pattern that depends on careful measurement.
-- [[CountyLinesDrugTrafficking]] - mechanism whose geography can be missed by city-centered data.
-- [[ViolenceReductionPublicHealthModel]] - intervention model whose evaluation depends on comparable crime measures.
-- [[SecurityBacklashPolitics]] - political narratives can overrun data-method caveats.
+
+- [[DemographicStandardizationCrimeRates]] - method-specific extension for population-composition adjustment.
+- [[LongRunUrbanSafetyTrend]] - time-series comparison where stable measures are essential.
+- [[RuralKnifeCrimeGeography]] - county-level pattern hidden by city-centered summaries.
+- [[CountyLinesDrugTrafficking]] - mechanism whose geography can be missed by national aggregates.
+- [[ViolenceReductionPublicHealthModel]] - intervention model whose evaluation depends on measure choice.
+- [[SecurityBacklashPolitics]] - political narratives that can overrun statistical caveats.

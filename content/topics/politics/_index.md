@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3460
+topic_total_pages: 3461
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2608,6 +2608,9 @@ topic_concepts:
   - key: "LongTermPrivateOwnership"
     title: "Long-Term Private Ownership"
     url: "/wiki/concepts/longtermprivateownership/"
+  - key: "LongevityDrugRegulatoryPathway"
+    title: "Longevity Drug Regulatory Pathway"
+    url: "/wiki/concepts/longevitydrugregulatorypathway/"
   - key: "LowAltitudeRegulatoryRisk"
     title: "Low-Altitude Regulatory Risk"
     url: "/wiki/concepts/lowaltituderegulatoryrisk/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Forever young: the business of longevity drugs](sources/c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4.md) — Economist Podcasts on disease-first longevity drug development, correction of an Afghan sexual-offence conviction statistic, and miniature craft as analogue world-building.
 - [ChatGPT for Teens' safeguards don't work, risk assessment finds](sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128.md) — Marketplace Tech on Common Sense Media's contested evaluation of teen ChatGPT crisis referrals, guided study, friend-like behavior, and the continuing need for human support.
 - [Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg](sources/essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684.md) — Condensed Huberman Lab interview on cold shock, brown-fat and shivering thermogenesis, winter-swimmer glucose findings, brief repeated dosing, natural rewarming, and safety limits.
 - [Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天](sources/podcast178-v1-podcast178-v1.md) — 枫言枫语从 App Intents、AI 摘要、产品复刻和云端 Agent 串联平台商业模式、创作者激励、知识产权、权限与跨设备连续性。
@@ -18945,6 +18946,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Miniature World-Building Escapism](concepts/MiniatureWorldbuildingEscapism.md) — Small-scale physical craft as spatially efficient art, social participation, imaginative control, and qualified escape.
+- [Demographic Standardization of Crime Rates](concepts/DemographicStandardizationCrimeRates.md) — Adjustment of group crime-rate comparisons for denominator quality and age-sex population composition.
+- [Longevity Drug Regulatory Pathway](concepts/LongevityDrugRegulatoryPathway.md) — Disease-first approval route separating recognized indications from broader healthspan or life-extension claims.
 - [Direct PC Build-to-Order Model](concepts/DirectPCBuildToOrderModel.md) — Demand-to-delivery system joining direct sales, configurable assembly, supplier replenishment, competitive pricing, and on-site service.
 - [Low-Inventory Hardware Cost Advantage](concepts/LowInventoryHardwareCostAdvantage.md) — Working-capital and component-timing advantage from matching fast supplier replenishment to current hardware demand.
 - [Goulash Communism](concepts/GoulashCommunism.md) — Post-1956 Hungarian settlement joining one-party rule and Soviet alignment to greater material welfare and bounded personal latitude.

@@ -38590,3 +38590,13 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-05] ingest | Forever young: the business of longevity drugs
+
+Added source `c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4`; created [[LongevityDrugRegulatoryPathway]], [[DemographicStandardizationCrimeRates]], and [[MiniatureWorldbuildingEscapism]]; and resynthesized [[InsilicoMedicine]], [[MultinationalPharmaPatentCliffAnxiety]], and [[CrimeStatisticsComparability]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: longevity medicines currently need disease-specific regulatory and evidence routes rather than a direct anti-aging label; AI discovery, dog trials, GLP-1 indication expansion, and large-pharma deals can accelerate learning without proving healthy-person life extension; reconstructing the Afghan population denominator and standardizing age and sex reduces a claimed 22-fold British sexual-offence conviction disparity to roughly seven-fold without making nationality causal; and miniature craft combines spatially efficient art, community, imaginative control, and qualified escapism. The 22-fold figure is explicitly contradicted, while the replacement estimate, deal values, development timelines, animal translation, crime-data mechanisms, and miniature-market causation remain episode-scoped because the supplied file is a structured summary rather than a transcript, regulatory record, trial dataset, reproducible crime analysis, or participation survey. Broad [[GLP1Agonists]], [[EliLilly]], [[NovoNordisk]], named-investor, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,837 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; 49 corpus-wide broken links remain pre-existing outside this ingest.
+
+## [2026-11-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
