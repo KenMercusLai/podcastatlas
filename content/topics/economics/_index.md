@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2354
+topic_total_pages: 2355
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6372,6 +6372,9 @@ topic_sources:
   - key: "tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1"
     title: "David Rusenko on Weebly, Capital Efficiency, and Climate Tech"
     url: "/wiki/sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1/"
+  - key: "vmp4247798433-vmp4247798433"
+    title: "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)"
+    url: "/wiki/sources/vmp4247798433-vmp4247798433/"
   - key: "socialradarsseason2-dimitri-final"
     title: "Dimitri Dadiomov on Modern Treasury and Financial Plumbing"
     url: "/wiki/sources/socialradarsseason2-dimitri-final/"

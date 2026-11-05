@@ -72348,9 +72348,9 @@
       "url": "/wiki/concepts/deliverybufferdiscipline/"
     },
     "DellTechnologies": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
@@ -72365,9 +72365,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        },
+        {
+          "episode_file": "VMP4247798433 [VMP4247798433].md",
+          "key": "vmp4247798433-vmp4247798433",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
+          "url": "/wiki/sources/vmp4247798433-vmp4247798433/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/delltechnologies/"
     },
     "Deloitte": {
@@ -76143,6 +76150,22 @@
       ],
       "updated": "2026-10-19",
       "url": "/wiki/concepts/directcustomerfeedbackloop/"
+    },
+    "DirectPCBuildToOrderModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP4247798433 [VMP4247798433].md",
+          "key": "vmp4247798433-vmp4247798433",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
+          "url": "/wiki/sources/vmp4247798433-vmp4247798433/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/directpcbuildtoordermodel/"
     },
     "DirectRemonstranceCriminalization": {
       "episode_count": 10,
@@ -182684,6 +182707,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/lowgimarketingtrap/"
     },
+    "LowInventoryHardwareCostAdvantage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP4247798433 [VMP4247798433].md",
+          "key": "vmp4247798433-vmp4247798433",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
+          "url": "/wiki/sources/vmp4247798433-vmp4247798433/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/lowinventoryhardwarecostadvantage/"
+    },
     "LowLatencyInferenceChip": {
       "episode_count": 4,
       "show_count": 2,
@@ -197596,9 +197635,9 @@
       "url": "/wiki/entities/michaeldjones/"
     },
     "MichaelDell": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
@@ -197613,9 +197652,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        },
+        {
+          "episode_file": "VMP4247798433 [VMP4247798433].md",
+          "key": "vmp4247798433-vmp4247798433",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
+          "url": "/wiki/sources/vmp4247798433-vmp4247798433/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/michaeldell/"
     },
     "MichaelEaster": {

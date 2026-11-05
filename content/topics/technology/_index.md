@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3736
+topic_total_pages: 3737
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3283,6 +3283,9 @@ topic_concepts:
   - key: "LowCostModelPostTraining"
     title: "Low-Cost Model Post-Training / 低成本模型后训"
     url: "/wiki/concepts/lowcostmodelposttraining/"
+  - key: "LowInventoryHardwareCostAdvantage"
+    title: "Low-Inventory Hardware Cost Advantage"
+    url: "/wiki/concepts/lowinventoryhardwarecostadvantage/"
   - key: "LowLatencyInferenceChip"
     title: "Low-Latency Inference Chip"
     url: "/wiki/concepts/lowlatencyinferencechip/"

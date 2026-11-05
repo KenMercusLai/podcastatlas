@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)](sources/vmp4247798433-vmp4247798433.md) — How I Built This interview on Michael Dell's customer targeting, dorm-room PC business, direct build-to-order model, low-inventory supply chain, service, failures, and reinvention.
 - [京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌](sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr.md) — 声动早咖啡串联短剧流量、连锁扩张、AI基础设施、欧洲本地化、消费品重组，并以路网服务解释京沪高铁盈利结构。
 - [Vol.280 星巴克中国：和开店同样重要的事](sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz.md) — 商业就是这样分析星巴克中国以服务工时、门店体验和兴趣社区回应价格竞争、扩张压力与本地第三空间需求。
 - [Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence](sources/02026-thurston-aguera-y-arcas-podcast-v4.md) — Long Now conversation on symbiogenesis, relational AI ethics, domination, differentiated interdependence, cognitive liberty, care, and multilevel governance.
@@ -18939,6 +18940,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Direct PC Build-to-Order Model](concepts/DirectPCBuildToOrderModel.md) — Demand-to-delivery system joining direct sales, configurable assembly, supplier replenishment, competitive pricing, and on-site service.
+- [Low-Inventory Hardware Cost Advantage](concepts/LowInventoryHardwareCostAdvantage.md) — Working-capital and component-timing advantage from matching fast supplier replenishment to current hardware demand.
 - [Goulash Communism](concepts/GoulashCommunism.md) — Post-1956 Hungarian settlement joining one-party rule and Soviet alignment to greater material welfare and bounded personal latitude.
 - [Rail Network Service Revenue / 铁路路网服务收入](concepts/RailNetworkServiceRevenue.md) — 其他铁路运营企业为使用核心线路与路网基础设施所支付的服务收入。
 - [Interest-Based Third Place / 兴趣型第三空间](concepts/InterestBasedThirdPlace.md) — Semi-public venue organized through recurring shared activities rather than neighborhood proximity alone.

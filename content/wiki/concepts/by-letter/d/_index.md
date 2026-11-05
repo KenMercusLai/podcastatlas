@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11027
+wiki_total_pages: 11029
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "DirectListingDiscipline"
     title: "Direct Listing Discipline"
     url: "/wiki/concepts/directlistingdiscipline/"
+  - key: "DirectPCBuildToOrderModel"
+    title: "Direct PC Build-to-Order Model"
+    url: "/wiki/concepts/directpcbuildtoordermodel/"
   - key: "DirectToConsumerCashFlow"
     title: "Direct To Consumer Cash Flow"
     url: "/wiki/concepts/directtoconsumercashflow/"

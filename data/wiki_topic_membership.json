@@ -59050,6 +59050,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LowInventoryHardwareCostAdvantage": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LowLatencyInferenceChip": [
     {
       "key": "technology",
@@ -112697,6 +112704,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "vmp4247798433-vmp4247798433": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns": [
