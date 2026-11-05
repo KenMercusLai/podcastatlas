@@ -55843,9 +55843,9 @@
       "url": "/wiki/concepts/coldcasesuspectevaluation/"
     },
     "ColdExposureDoseAndSafety": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1100391235 [SCIM1100391235].md",
@@ -55888,9 +55888,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/essentials-micronutrients-for-health-longevity-dr-rhonda-patrick-scim1556836807/"
+        },
+        {
+          "episode_file": "SCIM7784020684 [SCIM7784020684].md",
+          "key": "essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684",
+          "show": "Huberman Lab",
+          "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+          "url": "/wiki/sources/essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/coldexposuredoseandsafety/"
     },
     "ColdFluSupplementEvidenceBoundary": {
@@ -55917,9 +55924,9 @@
       "url": "/wiki/concepts/coldflusupplementevidenceboundary/"
     },
     "ColdShiveringThermogenesis": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9321862300 [SCIM9321862300].md",
@@ -55955,9 +55962,16 @@
           "show": "Huberman Lab",
           "title": "Using Science to Optimize Sleep, Learning & Metabolism",
           "url": "/wiki/sources/scim1705222315-scim1705222315/"
+        },
+        {
+          "episode_file": "SCIM7784020684 [SCIM7784020684].md",
+          "key": "essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684",
+          "show": "Huberman Lab",
+          "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+          "url": "/wiki/sources/essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
     "ColdWarNuclearMisperception": {
@@ -280735,9 +280749,9 @@
       "url": "/wiki/concepts/survivorwitnesswithoutconsolation/"
     },
     "SusannaSoberg": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2723639227 [SCIM2723639227].md",
@@ -280745,9 +280759,16 @@
           "show": "Huberman Lab",
           "title": "How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg",
           "url": "/wiki/sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227/"
+        },
+        {
+          "episode_file": "SCIM7784020684 [SCIM7784020684].md",
+          "key": "essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684",
+          "show": "Huberman Lab",
+          "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+          "url": "/wiki/sources/essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/susannasoberg/"
     },
     "SusannahLipscomb": {
