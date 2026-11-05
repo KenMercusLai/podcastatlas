@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2355
+topic_total_pages: 2356
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3163,6 +3163,9 @@ topic_concepts:
   - key: "TargetDateFund"
     title: "Target-Date Fund / 目标日期基金"
     url: "/wiki/concepts/targetdatefund/"
+  - key: "TargetMarketValidation"
+    title: "Target-Market Validation"
+    url: "/wiki/concepts/targetmarketvalidation/"
   - key: "TariffComplianceTest"
     title: "Tariff Compliance Test"
     url: "/wiki/concepts/tariffcompliancetest/"

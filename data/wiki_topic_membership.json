@@ -3927,6 +3927,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "2bbd2ffd": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "3-is-trump-caesar-or-nixon-glt4982990068": [
     {
       "key": "history",
@@ -30583,6 +30590,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DavidZhu": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DawonKahng": [
@@ -78273,6 +78287,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Revo": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RevolutionaryAtrocityNarrativeContest": [
     {
       "key": "history",
@@ -89277,6 +89298,13 @@
     }
   ],
   "TargetDateFund": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "TargetMarketValidation": [
     {
       "key": "economics",
       "label": "Economics",

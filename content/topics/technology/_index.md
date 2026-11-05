@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3739
+topic_total_pages: 3742
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6107,6 +6107,9 @@ topic_entities:
   - key: "DavidSilver"
     title: "David Silver"
     url: "/wiki/entities/davidsilver/"
+  - key: "DavidZhu"
+    title: "David Zhu"
+    url: "/wiki/entities/davidzhu/"
   - key: "DawonKahng"
     title: "Dawon Kahng / 姜大元"
     url: "/wiki/entities/dawonkahng/"
@@ -7910,6 +7913,9 @@ topic_entities:
   - key: "Revid"
     title: "Revid"
     url: "/wiki/entities/revid/"
+  - key: "Revo"
+    title: "Revo"
+    url: "/wiki/entities/revo/"
   - key: "RewindAI"
     title: "Rewind AI"
     url: "/wiki/entities/rewindai/"
@@ -10566,6 +10572,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617"
     title: "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
+  - key: "2bbd2ffd"
+    title: "Selling an AI SaaS Platform After 200 Buyers Called It Crazy"
+    url: "/wiki/sources/2bbd2ffd/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230"
     title: "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"

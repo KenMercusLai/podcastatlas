@@ -4953,6 +4953,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徕芬科技创始人叶洪新×罗永浩！初中毕业后，我先造飞机去了......](sources/ll4ekwtvjnpxit2gdkvcfphf0eli-ll4ekwtvjnpxit2gdkvcfphf0eli.md) — 罗永浩对谈叶洪新，从飞机与滑板车试错、自研高速电机和吹风机上市，谈到产品商业化、价值解释、跨品类品牌信任与创始人判断的组织化。
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
+- [Selling an AI SaaS Platform After 200 Buyers Called It Crazy](sources/2bbd2ffd.md) — The SaaS Podcast episode with David Zhu on Revo's integrated AI sales platform, failed all-at-once replacement pitch, modular adoption, target-market validation, and founder-led customer discovery.
+
 ## Entities
 - [欧阳艳琴 / Ouyang Yanqin](entities/OuyangYanqin.md) — Former investigative journalist and Food School founder whose education model shifted from fixed specialties toward agency, occupational reality, and supported self-reliance.
 - [食物学堂 / Food School](entities/FoodSchool.md) — Small education-to-work program using one year of preparation, real responsibilities, and two years of transition support for young people outside secure academic pathways.
@@ -18948,6 +18950,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NanoSense](entities/NanoSense.md) — Source-described CRISPR-related semiconductor biosensor venture for electronic molecular-binding detection.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
+- [David Zhu](entities/DavidZhu.md) — Revo co-founder and CEO who separated an integrated product architecture from its commercial packaging after sustained mid-market resistance.
+- [Revo](entities/Revo.md) — AI-native sales platform that shifted from full-stack replacement to modular, outcome-oriented adoption while retaining a shared technical foundation.
+
 ## Concepts
 - [Self-Reliance-Oriented Education / 自立导向教育](concepts/SelfRelianceOrientedEducation.md) — Relational education-to-work approach centered on livelihood, agency, help-seeking, responsibility, and revisable career beginnings rather than guaranteed credentials or placement.
 - [Relative Advantage Career Matching / 相对优势职业匹配](concepts/RelativeAdvantageCareerMatching.md) — Role-specific view of talent in which ordinary traits and capability combinations become useful through concrete occupational fit and direct work evidence.
@@ -30081,5 +30086,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Experiment-Grounded Protein Model Loop](concepts/ExperimentGroundedProteinModelLoop.md) — Iterative protein-design loop that learns from wet-lab successes and informative prediction failures.
 - [Longitudinal Chatbot Safety Evaluation](concepts/LongitudinalChatbotSafetyEvaluation.md) — Tests safety across extended interaction, accumulated context, relationship intensity, user condition, and escalation rather than isolated replies.
 - [AI Model Retirement Attachment Risk](concepts/AIModelRetirementAttachmentRisk.md) — Emotional and continuity risk when a favored conversational model is removed or materially changed.
+
+- [Integrated Platform, Modular Adoption](concepts/IntegratedPlatformModularAdoption.md) — Strategy of keeping a unified platform architecture while letting customers adopt one workflow or outcome at a time.
+- [Target-Market Validation](concepts/TargetMarketValidation.md) — Requirement that demand and adoption evidence reflect the intended segment's actual constraints rather than easier adjacent adopters alone.
 
 ## Syntheses

@@ -70423,6 +70423,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/davidyeager/"
     },
+    "DavidZhu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2bbd2ffd [2bbd2ffd].md",
+          "key": "2bbd2ffd",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
+          "url": "/wiki/sources/2bbd2ffd/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/davidzhu/"
+    },
     "DaxiaWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -106519,9 +106535,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedSales": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 3,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -106606,9 +106622,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M",
           "url": "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"
+        },
+        {
+          "episode_file": "2bbd2ffd [2bbd2ffd].md",
+          "key": "2bbd2ffd",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
+          "url": "/wiki/sources/2bbd2ffd/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/founderledsales/"
     },
     "FounderLifestyleInfrastructure": {
@@ -147689,6 +147712,22 @@
       ],
       "updated": "2026-10-20",
       "url": "/wiki/concepts/integratedplacebasedmodernization/"
+    },
+    "IntegratedPlatformModularAdoption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2bbd2ffd [2bbd2ffd].md",
+          "key": "2bbd2ffd",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
+          "url": "/wiki/sources/2bbd2ffd/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/integratedplatformmodularadoption/"
     },
     "IntegratedZone2Movement": {
       "episode_count": 1,
@@ -248568,6 +248607,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
+    "Revo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2bbd2ffd [2bbd2ffd].md",
+          "key": "2bbd2ffd",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
+          "url": "/wiki/sources/2bbd2ffd/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/revo/"
+    },
     "Revolute": {
       "episode_count": 1,
       "show_count": 1,
@@ -283908,6 +283963,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/tarath/"
+    },
+    "TargetMarketValidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2bbd2ffd [2bbd2ffd].md",
+          "key": "2bbd2ffd",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
+          "url": "/wiki/sources/2bbd2ffd/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/targetmarketvalidation/"
     },
     "TargetedMemoryReactivation": {
       "episode_count": 3,

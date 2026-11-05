@@ -38608,3 +38608,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | Selling an AI SaaS Platform After 200 Buyers Called It Crazy
+
+Added source `2bbd2ffd`; created [[DavidZhu]], [[Revo]], [[IntegratedPlatformModularAdoption]], and [[TargetMarketValidation]]; and resynthesized [[FounderLedSales]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: an integrated platform does not require all-at-once commercial adoption, and demand from smaller adjacent adopters does not prove that the intended mid-market segment will accept the same switching cost or packaging. No settled contradiction was adopted; Revo's metrics, onboarding comparisons, product breadth, and self-improving-platform claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, customer study, audited record, or independent product evaluation. The automatic `wiki/overview.md` remained unchanged. Downstream synthesis found no dirty controlled topic; the max-age gate triggered a compact global refresh across all nine topics, and the generated artifacts validate 4,839 sources across 806 overview paragraphs. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; 43 corpus-wide unresolved wikilink targets remain outside the changed pages.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2359,6 +2359,10 @@
     "title": "Anthropic口中的AI安全，为什么听起来像一场生意保卫战？",
     "url": "/wiki/sources/2b2e96d8aea7-2b2e96d8aea7/"
   },
+  "2bbd2ffd": {
+    "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
+    "url": "/wiki/sources/2bbd2ffd/"
+  },
   "3-is-trump-caesar-or-nixon-glt4982990068": {
     "title": "3. Is Trump Caesar or Nixon?",
     "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
@@ -26491,6 +26495,10 @@
     "title": "David Yeager",
     "url": "/wiki/entities/davidyeager/"
   },
+  "DavidZhu": {
+    "title": "David Zhu",
+    "url": "/wiki/entities/davidzhu/"
+  },
   "Davines": {
     "title": "Davines",
     "url": "/wiki/entities/davines/"
@@ -47414,6 +47422,10 @@
   "IntegratedPlaceBasedModernization": {
     "title": "Integrated Place-Based Modernization / 地方整合型现代化",
     "url": "/wiki/concepts/integratedplacebasedmodernization/"
+  },
+  "IntegratedPlatformModularAdoption": {
+    "title": "Integrated Platform, Modular Adoption",
+    "url": "/wiki/concepts/integratedplatformmodularadoption/"
   },
   "IntegratedZone2Movement": {
     "title": "Integrated Zone 2 Movement",
@@ -77995,6 +78007,10 @@
     "title": "Revlon",
     "url": "/wiki/entities/revlon/"
   },
+  "Revo": {
+    "title": "Revo",
+    "url": "/wiki/entities/revo/"
+  },
   "Revolute": {
     "title": "Revolute",
     "url": "/wiki/entities/revolute/"
@@ -88926,6 +88942,10 @@
   "TargetDateFund": {
     "title": "Target-Date Fund / 目标日期基金",
     "url": "/wiki/concepts/targetdatefund/"
+  },
+  "TargetMarketValidation": {
+    "title": "Target-Market Validation",
+    "url": "/wiki/concepts/targetmarketvalidation/"
   },
   "TargetWeightDiscipline": {
     "title": "Target Weight Discipline / 目标权重纪律",

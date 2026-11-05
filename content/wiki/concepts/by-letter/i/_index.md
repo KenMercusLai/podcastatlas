@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11034
+wiki_total_pages: 11036
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "IntegratedPlaceBasedModernization"
     title: "Integrated Place-Based Modernization / 地方整合型现代化"
     url: "/wiki/concepts/integratedplacebasedmodernization/"
+  - key: "IntegratedPlatformModularAdoption"
+    title: "Integrated Platform, Modular Adoption"
+    url: "/wiki/concepts/integratedplatformmodularadoption/"
   - key: "IntegratedZone2Movement"
     title: "Integrated Zone 2 Movement"
     url: "/wiki/concepts/integratedzone2movement/"
