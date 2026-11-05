@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3738
+topic_total_pages: 3739
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9831,6 +9831,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476"
     title: "Charles Ponzi's scheme (plus a new scam)"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476/"
+  - key: "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128"
+    title: "ChatGPT for Teens' safeguards don't work, risk assessment finds"
+    url: "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
   - key: "chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m"
     title: "ChatGPT Should Have Killed His AI SaaS. Instead, He's Nearing $10M"
     url: "/wiki/sources/chatgpt-should-have-killed-his-ai-saas-instead-hes-nearing-10m/"

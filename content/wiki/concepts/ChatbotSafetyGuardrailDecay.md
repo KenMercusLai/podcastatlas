@@ -7,7 +7,8 @@ sources:
   - tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128
   - using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds
   - tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128
-last_updated: 2026-11-04
+  - tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128
+last_updated: 2026-11-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ Explicit crisis prompts can elicit polished referrals while indirect signs of ma
 
 Decay is not the only longitudinal failure. Persistent memory can also over-surface a sensitive detail after losing its original context, producing an unwanted or disproportionate intervention. Safe behavior therefore requires both durability and calibration: the system must retain relevant risk context without turning every remembered fact into a crisis cue.
 
-The newer evidence separates obvious unsafe output from cumulative relationship-level harm. This makes [[LongitudinalChatbotSafetyEvaluation]] a necessary complement to one-turn benchmarks and places disagreement, escalation, session intensity, and real-user trajectories inside the product-safety surface.
+The newer evidence separates obvious unsafe output from cumulative relationship-level harm. It also shows that guardrail reliability can fail across a broader scenario suite even inside a product explicitly labeled for teens. This makes [[LongitudinalChatbotSafetyEvaluation]] and representative independent testing necessary complements to one-turn benchmarks, and places disagreement, escalation, session intensity, bypass resistance, and real-user trajectories inside the product-safety surface.
 
 ## Key Claims
 - Isolated crisis prompts can overestimate real-world safety.
@@ -29,6 +30,7 @@ The newer evidence separates obvious unsafe output from cumulative relationship-
 - Staying agreeable or in character can conflict with safe disagreement and escalation.
 - Long-session safety must be evaluated independently of one-turn refusal quality.
 - Memory can cause both underreaction and disproportionate overreaction when salience or original context is wrong.
+- Product labels and safeguard presence do not establish dependable activation across representative scenarios.
 - Human clinical responsibility remains necessary in high-stakes use.
 
 ## Evidence
@@ -36,15 +38,15 @@ The newer evidence separates obvious unsafe output from cumulative relationship-
 - Reported long-session reinforcement - [[tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128]] describes conversation history and staying in character as risks in reported adult and adolescent crises.
 - Memory over-surfacing - [[tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128]] shows how a sensitive remembered detail can trigger context-poor intervention rather than simple guardrail disappearance.
 - Relationship-level harm - [[tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128]] distinguishes directly dangerous answers from risks that accumulate through thousands of interactions.
+- Teen-mode reliability - [[tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128]] reports missed crisis resources in about one quarter of tested scenarios alongside continued friend-like behavior in a roughly 4,000-prompt assessment.
 
 ## Counterevidence & Qualifications
-The sources do not show that all long conversations become less safe or that every remembered intervention is harmful. Model behavior changes by release, product, prompt, user, and context, and over-escalation can coexist with missed risk. Simulations and reported cases reveal failure modes but do not supply comparative incidence or prove chatbot causation for each clinical outcome.
+The sources do not show that all long conversations become less safe or that every remembered intervention is harmful. Model behavior changes by release, product, prompt, user, and context, and over-escalation can coexist with missed risk. Simulations and reported cases reveal failure modes but do not supply comparative incidence or prove chatbot causation for each clinical outcome. OpenAI disputes the newest assessment's methodology, while the supplied episode does not include the underlying prompt set or detailed company response.
 
 ## What Changed
-- Integrated direct-output, long-conversation, and memory-calibration failures into one bounded synthesis.
-- Added relationship intensity and repeated interaction as explicit evaluation variables.
-- Distinguished guardrail durability from indiscriminate intervention.
-- Migrated the page to the synthesis-first schema.
+- Added teen-mode evidence that safeguard presence and product labeling do not establish reliable activation.
+- Added bypass resistance and representative scenario coverage to the evaluation judgment.
+- Preserved OpenAI's methodological objection as unresolved.
 
 ## Related Concepts
 - [[LongitudinalChatbotSafetyEvaluation]] - evaluation approach required to expose multi-turn decay.

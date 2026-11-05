@@ -3530,9 +3530,9 @@
       "url": "/wiki/concepts/aigriefbots/"
     },
     "AIGuidedLearningGuardrails": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
@@ -3554,9 +3554,16 @@
           "show": "Marketplace Tech",
           "title": "NYC public schools ban AI through middle school",
           "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261105_1105_MP_TECH_pod_128 [tech_20261105_1105_MP_TECH_pod_128].md",
+          "key": "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "ChatGPT for Teens' safeguards don't work, risk assessment finds",
+          "url": "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/aiguidedlearningguardrails/"
     },
     "AIHallucination": {
@@ -46574,9 +46581,9 @@
       "url": "/wiki/entities/chatgpt6astra/"
     },
     "ChatbotSafetyGuardrailDecay": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260722_0722_MP_TECH_pod_128 [tech_20260722_0722_MP_TECH_pod_128].md",
@@ -46605,9 +46612,16 @@
           "show": "Marketplace Tech",
           "title": "The promise and risks of AI for mental health support",
           "url": "/wiki/sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261105_1105_MP_TECH_pod_128 [tech_20261105_1105_MP_TECH_pod_128].md",
+          "key": "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "ChatGPT for Teens' safeguards don't work, risk assessment finds",
+          "url": "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/chatbotsafetyguardraildecay/"
     },
     "Chatham": {
@@ -57546,6 +57560,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/commonmynataiwan/"
+    },
+    "CommonSenseMedia": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20251208_1208_MP_TECH_pod_128 [tech_20251208_1208_MP_TECH_pod_128].md",
+          "key": "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds",
+          "show": "Marketplace Tech",
+          "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
+          "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+        },
+        {
+          "episode_file": "tech_20261105_1105_MP_TECH_pod_128 [tech_20261105_1105_MP_TECH_pod_128].md",
+          "key": "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "ChatGPT for Teens' safeguards don't work, risk assessment finds",
+          "url": "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/commonsensemedia/"
     },
     "CommonSensePamphlet": {
       "episode_count": 1,
@@ -284975,6 +285012,57 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/tedvallance/"
     },
+    "TeenChatbotMentalHealthRisk": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+          "key": "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",
+          "url": "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251230_1230_MP_TECH_pod_128 [tech_20251230_1230_MP_TECH_pod_128].md",
+          "key": "tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered chatbots sent some users into a spiral",
+          "url": "/wiki/sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260716_0716_MP_TECH_pod_128 [tech_20260716_0716_MP_TECH_pod_128].md",
+          "key": "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why state AGs are taking Meta to court",
+          "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251208_1208_MP_TECH_pod_128 [tech_20251208_1208_MP_TECH_pod_128].md",
+          "key": "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds",
+          "show": "Marketplace Tech",
+          "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
+          "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+        },
+        {
+          "episode_file": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
+          "key": "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！",
+          "url": "/wiki/sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u/"
+        },
+        {
+          "episode_file": "tech_20261105_1105_MP_TECH_pod_128 [tech_20261105_1105_MP_TECH_pod_128].md",
+          "key": "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "ChatGPT for Teens' safeguards don't work, risk assessment finds",
+          "url": "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/teenchatbotmentalhealthrisk/"
+    },
     "TeenagerHistoricalIdentity": {
       "episode_count": 2,
       "show_count": 1,
@@ -291813,6 +291901,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/tomsegura/"
+    },
+    "TomSiegel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261105_1105_MP_TECH_pod_128 [tech_20261105_1105_MP_TECH_pod_128].md",
+          "key": "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "ChatGPT for Teens' safeguards don't work, risk assessment finds",
+          "url": "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/tomsiegel/"
     },
     "TombDesecrationPoliticalViolence": {
       "episode_count": 5,
@@ -322647,6 +322751,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/youngwashington/"
+    },
+    "YouthAISafetyInstitute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261105_1105_MP_TECH_pod_128 [tech_20261105_1105_MP_TECH_pod_128].md",
+          "key": "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "ChatGPT for Teens' safeguards don't work, risk assessment finds",
+          "url": "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/youthaisafetyinstitute/"
     },
     "YouthFashionCommercializationCycle": {
       "episode_count": 2,

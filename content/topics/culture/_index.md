@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3610
+topic_total_pages: 3611
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10158,6 +10158,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895"
     title: "Charles & Chase Koch on How They Quietly Built a $150B Empire"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895/"
+  - key: "tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128"
+    title: "ChatGPT for Teens' safeguards don't work, risk assessment finds"
+    url: "/wiki/sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128/"
   - key: "cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74"
     title: "Cheques and the City: Premier League disgrace"
     url: "/wiki/sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74/"

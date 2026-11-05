@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13905
+wiki_total_pages: 13907
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "YoungWashington"
     title: "Young Washington"
     url: "/wiki/entities/youngwashington/"
+  - key: "YouthAISafetyInstitute"
+    title: "Youth AI Safety Institute"
+    url: "/wiki/entities/youthaisafetyinstitute/"
   - key: "YouTube"
     title: "YouTube"
     url: "/wiki/entities/youtube/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [ChatGPT for Teens' safeguards don't work, risk assessment finds](sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128.md) — Marketplace Tech on Common Sense Media's contested evaluation of teen ChatGPT crisis referrals, guided study, friend-like behavior, and the continuing need for human support.
 - [Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg](sources/essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg-scim7784020684.md) — Condensed Huberman Lab interview on cold shock, brown-fat and shivering thermogenesis, winter-swimmer glucose findings, brief repeated dosing, natural rewarming, and safety limits.
 - [Vol. 178 Anthropic 忙着上市，Codex 忙着重置，特斯拉忙着上天](sources/podcast178-v1-podcast178-v1.md) — 枫言枫语从 App Intents、AI 摘要、产品复刻和云端 Agent 串联平台商业模式、创作者激励、知识产权、权限与跨设备连续性。
 - [Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)](sources/vmp4247798433-vmp4247798433.md) — How I Built This interview on Michael Dell's customer targeting, dorm-room PC business, direct build-to-order model, low-inventory supply chain, service, failures, and reinvention.
@@ -16956,7 +16957,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
-- [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
+- [Common Sense Media](entities/CommonSenseMedia.md) — Child- and teen-safety organization associated with independent assessments of chatbot mental-health use and teen-product safeguards.
+- [Tom Siegel](entities/TomSiegel.md) — Common Sense Media representative advocating independent testing, human support, and precaution around teen AI products.
+- [Youth AI Safety Institute](entities/YouthAISafetyInstitute.md) — Common Sense Media initiative associated with a contested prompt-based assessment of teen-focused ChatGPT safeguards.
 - [Columbia University](entities/ColumbiaUniversity.md) — Institutional context for Daria Georgievich's teen-chatbot-risk expertise and for Jack Rao's graduate study in E236.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
 - [Sanrio / 三丽鸥](entities/Sanrio.md) — Japanese image-first IP company used as Pop Mart's licensing-led comparison case.
@@ -24862,7 +24865,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Platform Safety A/B Testing](concepts/PlatformSafetyABTesting.md) — Governance problem of measuring safety features while avoiding avoidable harm to users excluded from protections.
 - [Internal Safety Research Exposure](concepts/InternalSafetyResearchExposure.md) — Litigation and accountability risk created when company safety documents, tests, employee discussions, and whistleblower disclosures become evidence.
 - [Cognitive Offloading / 认知卸载](concepts/CognitiveOffloading.md) — Externalizing memory or answer production to people, search tools, or AI, useful when judged actively and risky when it replaces learning practice.
-- [AI Guided Learning Guardrails / AI引导式学习护栏](concepts/AIGuidedLearningGuardrails.md) — AI tutoring design that withholds direct answers, asks learners for their reasoning, and preserves transfer-building effort.
+- [AI Guided Learning Guardrails / AI引导式学习护栏](concepts/AIGuidedLearningGuardrails.md) — AI tutoring design that preserves first attempts and reasoning, with effectiveness judged by bypass resistance and learning transfer rather than product labels.
 - [Neuroplasticity / 神经可塑性](concepts/Neuroplasticity.md) — Learning and memory frame where repeated challenge, retrieval, movement, sleep, pruning, and recovery reshape brain connections within safety boundaries.
 - [Demand-Side Oil Market Power](concepts/DemandSideOilMarketPower.md) — Large-consumer ability to move oil markets through imports, stockpiles, refining controls, and fuel substitution.
 - [Hate-Speech Criminalization Tradeoff](concepts/HateSpeechCriminalizationTradeoff.md) — Policy tension between punishing racist expression, protecting speech, and repairing structural inequality.
@@ -28299,8 +28302,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prosthetic Insurance Coverage](concepts/ProstheticInsuranceCoverage.md) — Reimbursement layer that can block access to prosthetic devices or attachments even when 3D-printed options exist.
 - [Assistive Device Classification](concepts/AssistiveDeviceClassification.md) — Policy question of whether external prosthetic aids should be treated as high-burden medical devices or more ordinary assistive products.
 - [Prosthetic Fitting Constraint](concepts/ProstheticFittingConstraint.md) — Dependence of prosthetic usefulness on skilled fitting, scanning, adjustment, and follow-up rather than fabrication alone.
-- [Teen Chatbot Mental Health Risk](concepts/TeenChatbotMentalHealthRisk.md) — Risk that minors rely on companion-style AI chatbots for mental-health support despite unreliable context tracking and escalation.
-- [Chatbot Safety Guardrail Decay](concepts/ChatbotSafetyGuardrailDecay.md) — Failure mode where safety behavior looks adequate in single-turn crisis prompts but weakens across longer conversations.
+- [Teen Chatbot Mental Health Risk](concepts/TeenChatbotMentalHealthRisk.md) — Risk that minors rely on emotionally available AI despite unreliable crisis recognition, escalation, learning boundaries, and relationship safeguards.
+- [Chatbot Safety Guardrail Decay](concepts/ChatbotSafetyGuardrailDecay.md) — Failure mode where stated safeguards or safe single-turn behavior do not remain dependable across longer or representative scenarios.
 - [Sycophantic AI Companion Risk](concepts/SycophanticAICompanionRisk.md) — Danger that emotionally fluent AI companions over-validate users when correction, friction, or human support is needed.
 - [Experience-Led Brand](concepts/ExperienceLedBrand.md) — Consumer-brand pattern where felt visit, mood, social time, ritual, and place attachment carry value beyond functional product attributes.
 - [Authentic Neighborhood Experience](concepts/AuthenticNeighborhoodExperience.md) — Place-quality frame where resident life, street texture, discovery, and commerce coexist without becoming only a check-in set.

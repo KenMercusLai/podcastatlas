@@ -38580,3 +38580,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-05] ingest | ChatGPT for Teens' safeguards don't work, risk assessment finds
+
+Added source `tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128`; created [[TomSiegel|Tom Siegel]] and [[YouthAISafetyInstitute|Youth AI Safety Institute]]; and resynthesized [[CommonSenseMedia|Common Sense Media]], [[TeenChatbotMentalHealthRisk]], [[AIGuidedLearningGuardrails|AI Guided Learning Guardrails]], and [[ChatbotSafetyGuardrailDecay]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: teen-focused crisis resources, parental notices, study guidance, and age-aware defaults may improve the baseline, but their existence does not establish dependable behavior; the reported independent assessment found missed crisis referrals, easy answer extraction, and continued friend-like interaction, while OpenAI disputes whether the methodology represents safeguards in practice. No settled contradiction was adopted. The roughly 4,000-prompt scope, approximately 25% missed-resource rate, configuration, prompt corpus, and methodological objection remain source-scoped because the supplied file does not contain the underlying assessment or detailed company response. Broad [[OpenAI]], [[ChatGPT]], [[MarketplaceTech]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening much larger evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,836 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
