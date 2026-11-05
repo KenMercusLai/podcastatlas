@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11025
+wiki_total_pages: 11026
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "RagweedEcologicalFeedback"
     title: "Ragweed Ecological Feedback"
     url: "/wiki/concepts/ragweedecologicalfeedback/"
+  - key: "RailNetworkServiceRevenue"
+    title: "Rail Network Service Revenue / 铁路路网服务收入"
+    url: "/wiki/concepts/railnetworkservicerevenue/"
   - key: "RailIntegratedSuburbanDevelopment"
     title: "Rail-Integrated Suburban Development"
     url: "/wiki/concepts/railintegratedsuburbandevelopment/"

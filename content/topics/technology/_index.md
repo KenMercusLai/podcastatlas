@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3734
+topic_total_pages: 3736
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4141,6 +4141,9 @@ topic_concepts:
   - key: "RadixAttention"
     title: "Radix Attention"
     url: "/wiki/concepts/radixattention/"
+  - key: "RailNetworkServiceRevenue"
+    title: "Rail Network Service Revenue / 铁路路网服务收入"
+    url: "/wiki/concepts/railnetworkservicerevenue/"
   - key: "RamanSpectroscopyDiagnosticData"
     title: "Raman Spectroscopy Diagnostic Data"
     url: "/wiki/concepts/ramanspectroscopydiagnosticdata/"
@@ -10917,6 +10920,9 @@ topic_sources:
   - key: "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449"
     title: "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权"
     url: "/wiki/sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449/"
+  - key: "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr"
+    title: "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌"
+    url: "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
   - key: "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o"
     title: "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy"
     url: "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"

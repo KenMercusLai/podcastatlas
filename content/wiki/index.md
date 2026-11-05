@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌](sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr.md) — 声动早咖啡串联短剧流量、连锁扩张、AI基础设施、欧洲本地化、消费品重组，并以路网服务解释京沪高铁盈利结构。
 - [Vol.280 星巴克中国：和开店同样重要的事](sources/vol-280-xingbake-zhongguo-he-kaidian-tongyang-zhongyao-de-shi-gkwrirwowpxkalwttgt1xwrz.md) — 商业就是这样分析星巴克中国以服务工时、门店体验和兴趣社区回应价格竞争、扩张压力与本地第三空间需求。
 - [Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence](sources/02026-thurston-aguera-y-arcas-podcast-v4.md) — Long Now conversation on symbiogenesis, relational AI ethics, domination, differentiated interdependence, cognitive liberty, care, and multilevel governance.
 - [375-中期选举惨败后共和党何去何从？](sources/375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr.md) — 独树不成林 separates cyclical midterm backlash from realignment and links lived costs, the Iran war, endorsement translation, divided government, and post-Trump succession.
@@ -4946,6 +4947,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 ## Entities
+- [Hongguo Short Drama / 红果短剧](entities/HongguoShortDrama.md) — ByteDance短剧目的地应用，以短视频导流和大规模月活形成平台位置。
 - [Baratunde Thurston](entities/BaratundeThurston.md) — Writer and producer connecting AI relationships to Indigenous democracy, domination, agency, land stewardship, and care.
 - [Blaise Agüera y Arcas](entities/BlaiseAgueraYArcas.md) — Paradigms of Intelligence founder connecting AI to symbiogenesis, collective cognition, and nested cooperation.
 - [Haudenosaunee Confederacy](entities/HaudenosauneeConfederacy.md) — Indigenous democratic tradition invoked through peace, women's authority, reciprocity, and responsibility to future generations.
@@ -18935,6 +18937,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Rail Network Service Revenue / 铁路路网服务收入](concepts/RailNetworkServiceRevenue.md) — 其他铁路运营企业为使用核心线路与路网基础设施所支付的服务收入。
 - [Interest-Based Third Place / 兴趣型第三空间](concepts/InterestBasedThirdPlace.md) — Semi-public venue organized through recurring shared activities rather than neighborhood proximity alone.
 - [Coffee Chain Scale-Service-Profit Triangle / 连锁咖啡规模服务盈利不可能三角](concepts/CoffeeChainScaleServiceProfitTriangle.md) — Operating tradeoff among a large store network, labor-intensive interaction, and strong store profitability.
 - [Relational AI Ethics](concepts/RelationalAIEthics.md) — Evaluation of AI through the habits, expectations, and power relations formed in interaction without requiring proof of machine life.

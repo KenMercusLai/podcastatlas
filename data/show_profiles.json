@@ -2012,14 +2012,14 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-11-04",
       "latest_episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
-      "source_note_count": 63,
-      "topic_matched_source_note_count": 31,
+      "source_note_count": 64,
+      "topic_matched_source_note_count": 32,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 26
+          "source_note_count": 27
         },
         {
           "key": "culture",
@@ -2071,6 +2071,13 @@
           "episode_count": 4
         },
         {
+          "key": "YumChina",
+          "title": "Yum China / 百胜中国",
+          "url": "/wiki/entities/yumchina/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
           "key": "Adidas",
           "title": "Adidas",
           "url": "/wiki/entities/adidas/",
@@ -2083,20 +2090,13 @@
           "url": "/wiki/entities/alibaba/",
           "kind": "organization",
           "episode_count": 3
-        },
-        {
-          "key": "BYD",
-          "title": "BYD",
-          "url": "/wiki/entities/byd/",
-          "kind": "organization",
-          "episode_count": 3
         }
       ],
       "start_here_episode_files": [
-        "GKwRIUEOvjpSAFLmDQT0Zl6P [GKwRIUEOvjpSAFLmDQT0Zl6P].md",
+        "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
         "GKwRIMAOuPw_AIZ3RwTxwXNb [GKwRIMAOuPw_AIZ3RwTxwXNb].md",
         "咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？ [1013725042].md",
-        "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md"
+        "GKwRIUEOv5QUAGrxvgT1FoqM [GKwRIUEOv5QUAGrxvgT1FoqM].md"
       ]
     },
     "大小电波": {

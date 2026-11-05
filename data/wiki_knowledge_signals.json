@@ -64703,9 +64703,9 @@
       "url": "/wiki/concepts/crossborderdisasterearlywarning/"
     },
     "CrossBorderEcommerceLocalizationPressure": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
@@ -64713,9 +64713,16 @@
           "show": "疯投圈",
           "title": "147 SHEIN回港上市、新拼姆开启自营",
           "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        },
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/crossborderecommercelocalizationpressure/"
     },
     "CrossBorderFamilyReunificationAfterSeparation": {
@@ -135372,6 +135379,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/hongguo/"
     },
+    "HongguoShortDrama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/hongguoshortdrama/"
+    },
     "HongjunSiliconValley101": {
       "episode_count": 1,
       "show_count": 1,
@@ -157115,6 +157138,36 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/jingchengwangming/"
+    },
+    "JinghuHighSpeedRail": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "No.201 中国高铁简史 [976314772].md",
+          "key": "no-201-zhongguo-gaotie-jianshi-976314772",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.201 中国高铁简史",
+          "url": "/wiki/sources/no-201-zhongguo-gaotie-jianshi-976314772/"
+        },
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/jinghuhighspeedrail/"
     },
     "JingjingFinancePhD": {
       "episode_count": 1,
@@ -184189,9 +184242,9 @@
       "url": "/wiki/entities/luciuscorneliussulla/"
     },
     "LuckinCoffee": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -184220,9 +184273,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "AI 管理瑞幸咖啡店，員工為什麼越來越累？",
           "url": "/wiki/sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461/"
+        },
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
         }
       ],
-      "updated": "2026-10-14",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/luckincoffee/"
     },
     "LuckyMoneyFilm1937": {
@@ -241996,6 +242056,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/railintegratedsuburbandevelopment/"
     },
+    "RailNetworkServiceRevenue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/railnetworkservicerevenue/"
+    },
     "RailwayEnabledSocialTransformation": {
       "episode_count": 1,
       "show_count": 1,
@@ -265288,9 +265364,9 @@
       "url": "/wiki/concepts/shortdramaoverseasexpansion/"
     },
     "ShortDramaPlatformAggregation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少 [1023591374].md",
@@ -265298,9 +265374,16 @@
           "show": "声动早咖啡",
           "title": "高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少",
           "url": "/wiki/sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374/"
+        },
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-05",
       "url": "/wiki/concepts/shortdramaplatformaggregation/"
     },
     "ShortSelling": {
@@ -297017,6 +297100,36 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/unilateralstrengthrebalancing/"
     },
+    "Unilever": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
+          "key": "meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109",
+          "show": "声动早咖啡",
+          "title": "美妆巨头集体盯上头发，洗护生意为何又热起来？",
+          "url": "/wiki/sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109/"
+        },
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/unilever/"
+    },
     "UnionSquareHospitalityGroup": {
       "episode_count": 1,
       "show_count": 1,
@@ -323887,9 +324000,9 @@
       "url": "/wiki/entities/yugoslavia/"
     },
     "YumChina": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
@@ -323925,9 +324038,16 @@
           "show": "疯投圈",
           "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
           "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        },
+        {
+          "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
+          "key": "jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr",
+          "show": "声动早咖啡",
+          "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+          "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/yumchina/"
     },
     "YunChangWesternHan": {

@@ -7,7 +7,8 @@ sources:
   - aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628
   - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
   - ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461
-last_updated: 2026-10-14
+  - jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr
+last_updated: 2026-11-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,9 +20,11 @@ Luckin Coffee / 瑞幸咖啡 is a scaled Chinese coffee chain whose dense store 
 
 ## Current Profile
 
-The complete source set presents scale as both competitive advantage and management architecture. Luckin's office and industrial-park coverage, customer membership, supply-chain efficiency, and mass-market position create barriers for lower-price and startup challengers. Reported expansion beyond 36,000 China stores strengthens that reach even as same-store pressure, tea-drink convergence, delivery subsidies, and premiumization complicate the growth story.
+The complete source set presents scale as both competitive advantage and management architecture. Luckin's office and industrial-park coverage, customer membership, supply-chain efficiency, and mass-market position create barriers for lower-price and startup challengers. The latest report places the network near 39,000 stores and says self-operated store margin had largely returned to its pre-delivery-subsidy-war level, strengthening the scale case even as same-store pressure, tea-drink convergence, and premiumization complicate the growth story.
 
 The labor report adds the operating underside of standardization. Former managers and employees describe AI scheduling that converts orders, sales, equipment, clock data, and production speed into staffing while incompletely representing cleaning, closing, inventory, training, product complexity, and live exceptions. In those accounts, efficiency gains and forecast errors could be realized through fewer paid hours, higher work intensity, reduced manager discretion, or unpaid residual labor. The company profile therefore joins market scale to the governance question of who absorbs standardization's omitted costs.
+
+Singapore is the first substantial overseas operating test in the bounded evidence. The latest source reports more than 100 locations and calls Luckin the market's second-largest coffee chain by store count, but the transferability of that experience to other countries remains unproven.
 
 ## Key Characteristics
 
@@ -30,6 +33,7 @@ The labor report adds the operating underside of standardization. Former manager
 - A maturing growth profile creates pressure around same-store performance, premiumization, overseas pricing, and portfolio strategy.
 - Tea-drink competitors and lower-price coffee chains challenge category boundaries and value perception.
 - Data-driven scheduling and operational control can centralize decisions while shifting omitted work and forecast risk onto frontline staff.
+- A reported 100-plus-store Singapore network gives Luckin an overseas template, without yet establishing cross-market repeatability.
 
 ## Evidence
 
@@ -48,15 +52,21 @@ The labor report adds the operating underside of standardization. Former manager
 - [[ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461]] reports former employees' claims that AI scheduling reduced staffing and paid hours without removing closing, cleaning, inventory, training, or exception work.
 - [[ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461]] also describes system-led ordering, inventory, and KPI control as reducing store-manager discretion while leaving managers accountable for speed, satisfaction, hygiene, waste, and staffing outcomes.
 
+### Latest scale, margin, and overseas test
+
+- [[jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr]] reports nearly RMB 18 billion in third-quarter revenue, more than 2,500 quarterly openings, and a network approaching 39,000 stores.
+- [[jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr]] says reduced delivery subsidies shifted some volume toward pickup, self-operated store margin largely recovered, and Singapore exceeded 100 stores.
+
 ## Qualifications
 
-The business-news sources supply source-dated store counts, growth, and competitive interpretations rather than audited current company data. The labor episode relies mainly on former managers and employees and provides no system documentation, company response, representative payroll analysis, or network-wide comparison. It supports scrutiny of a reported operating failure mode, not a conclusion that every Luckin store or automated decision produces unpaid labor. Claims about premium strategy, competitor difficulty, labor savings, and corporate intent remain source-scoped.
+The business-news sources supply source-dated store counts, growth, margins, market rankings, and competitive interpretations rather than audited current company data. Store count does not establish same-store health or return on invested capital, and Singapore scale does not establish profitability or transferability to other countries. The labor episode relies mainly on former managers and employees and provides no system documentation, company response, representative payroll analysis, or network-wide comparison. It supports scrutiny of a reported operating failure mode, not a conclusion that every Luckin store or automated decision produces unpaid labor.
 
 ## What Changed
 
 - Migrated the profile to synthesis-v1 while preserving all prior evidence sources.
 - Integrated frontline scheduling, hidden work, and manager-discretion risks into the existing scale-and-standardization profile.
 - Distinguished reported worker experiences from network-wide or audited company findings.
+- Added the later near-39,000-store snapshot, reported margin recovery, and Singapore operating test.
 
 ## Relationships
 
@@ -67,3 +77,4 @@ The business-news sources supply source-dated store counts, growth, and competit
 - [[BlueBottleCoffee]] - premium global brand interpreted as a complement to Luckin's mass-market position.
 - [[AlgorithmicWorkforceScheduling]] - captures the reported labor-allocation system inside store operations.
 - [[ManagerDiscretionUnderAutomation]] - explains how centralized systems can narrow store-level authority.
+- [[GlobalProductLocalization]] - frames the unresolved transfer from Singapore experience to other overseas markets.
