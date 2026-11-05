@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2356
+topic_total_pages: 2360
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2623,6 +2623,9 @@ topic_concepts:
   - key: "ProgrammableTradingDiscipline"
     title: "Programmable Trading Discipline / 可编程交易纪律"
     url: "/wiki/concepts/programmabletradingdiscipline/"
+  - key: "ProjectBasedEntrepreneurshipEducation"
+    title: "Project-Based Entrepreneurship Education"
+    url: "/wiki/concepts/projectbasedentrepreneurshipeducation/"
   - key: "PropertyRightsAsInvestmentIncentive"
     title: "Property Rights As Investment Incentive"
     url: "/wiki/concepts/propertyrightsasinvestmentincentive/"
@@ -5414,6 +5417,9 @@ topic_entities:
   - key: "TangHaocheng"
     title: "Tang Haocheng"
     url: "/wiki/entities/tanghaocheng/"
+  - key: "TaraChklovski"
+    title: "Tara Chklovski"
+    url: "/wiki/entities/tarachklovski/"
   - key: "TarekMansour"
     title: "Tarek Mansour"
     url: "/wiki/entities/tarekmansour/"
@@ -5423,6 +5429,9 @@ topic_entities:
   - key: "TechCrunch"
     title: "TechCrunch"
     url: "/wiki/entities/techcrunch/"
+  - key: "Technovation"
+    title: "Technovation"
+    url: "/wiki/entities/technovation/"
   - key: "Tesla"
     title: "Tesla"
     url: "/wiki/entities/tesla/"
@@ -6267,6 +6276,9 @@ topic_sources:
   - key: "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf"
     title: "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力"
     url: "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+  - key: "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634"
+    title: "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
   - key: "airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647"
     title: "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\""
     url: "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"

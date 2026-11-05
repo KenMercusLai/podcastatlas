@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13911
+wiki_total_pages: 13913
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "TaraBosch"
     title: "Tara Bosch"
     url: "/wiki/entities/tarabosch/"
+  - key: "TaraChklovski"
+    title: "Tara Chklovski"
+    url: "/wiki/entities/tarachklovski/"
   - key: "TaraFlour"
     title: "Tara Flour"
     url: "/wiki/entities/taraflour/"
@@ -242,6 +245,9 @@ wiki_pages:
   - key: "TechCrunch"
     title: "TechCrunch"
     url: "/wiki/entities/techcrunch/"
+  - key: "Technovation"
+    title: "Technovation"
+    url: "/wiki/entities/technovation/"
   - key: "TedChiang"
     title: "Ted Chiang"
     url: "/wiki/entities/tedchiang/"

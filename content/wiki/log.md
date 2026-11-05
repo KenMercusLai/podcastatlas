@@ -38616,3 +38616,11 @@ Added source `2bbd2ffd`; created [[DavidZhu]], [[Revo]], [[IntegratedPlatformMod
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634`; created [[TaraChklovski]], [[Technovation]], [[ProjectBasedEntrepreneurshipEducation]], and [[ParticipatoryAISafety]]. Core synthesis: Technovation uses local problems, user contact, iteration, deadlines, mentorship, and public delivery to make learner agency—not app survival or competition rank—the primary educational outcome; Chklovski's AI-safety position joins informed participation and alternative-building to alignment concern, access controls, and risk awareness. No settled contradiction was adopted. Participation, alumni career, income, business-formation, funding, mentor, and global-adoption figures remain source-scoped because the supplied file is a structured summary without the underlying transcript, surveys, comparison groups, financial records, or impact methodology. Broad [[ShekharNatarajan]], [[TomorrowToday]], [[EntryLevelAICareerLadderRisk]], [[YouthEntrepreneurship]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the new judgments without reopening larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,840 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

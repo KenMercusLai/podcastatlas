@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11036
+wiki_total_pages: 11038
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
+  - key: "ParticipatoryAISafety"
+    title: "Participatory AI Safety"
+    url: "/wiki/concepts/participatoryaisafety/"
   - key: "ParticipatoryExhibitions"
     title: "Participatory Exhibitions"
     url: "/wiki/concepts/participatoryexhibitions/"
@@ -2342,6 +2345,9 @@ wiki_pages:
   - key: "ProgressiveAgentAutonomy"
     title: "Progressive Agent Autonomy"
     url: "/wiki/concepts/progressiveagentautonomy/"
+  - key: "ProjectBasedEntrepreneurshipEducation"
+    title: "Project-Based Entrepreneurship Education"
+    url: "/wiki/concepts/projectbasedentrepreneurshipeducation/"
   - key: "ProjectBasedScienceLearning"
     title: "Project-Based Science Learning / 项目式科学学习"
     url: "/wiki/concepts/projectbasedsciencelearning/"

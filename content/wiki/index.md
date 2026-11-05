@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634.md) — Tomorrow Today interview on Technovation's learner-centered accelerator, women's AI participation, mentorship, local problem solving, entry-level work, and safety through informed building.
 - [#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目](sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80.md) — 声东击西十周年访谈回顾食物学堂从三年制专业训练转向一年学习加两年支持，以职业认知、真实责任、相对优势、主体性与自立替代文凭、对口就业和阶层跃迁承诺。
 - [Forever young: the business of longevity drugs](sources/c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4.md) — Economist Podcasts on disease-first longevity drug development, correction of an Afghan sexual-offence conviction statistic, and miniature craft as analogue world-building.
 - [ChatGPT for Teens' safeguards don't work, risk assessment finds](sources/tech-20261105-1105-mp-tech-pod-128-tech-20261105-1105-mp-tech-pod-128.md) — Marketplace Tech on Common Sense Media's contested evaluation of teen ChatGPT crisis referrals, guided study, friend-like behavior, and the continuing need for human support.
@@ -4956,6 +4957,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Selling an AI SaaS Platform After 200 Buyers Called It Crazy](sources/2bbd2ffd.md) — The SaaS Podcast episode with David Zhu on Revo's integrated AI sales platform, failed all-at-once replacement pitch, modular adoption, target-market validation, and founder-led customer discovery.
 
 ## Entities
+- [Tara Chklovski](entities/TaraChklovski.md) — Technovation founder and CEO framing entrepreneurship projects as training in agency, uncertainty, inclusion, and informed AI participation.
+- [Technovation](entities/Technovation.md) — Youth accelerator using local problems, mentors, entrepreneurship methods, and technology projects to develop learner agency.
 - [欧阳艳琴 / Ouyang Yanqin](entities/OuyangYanqin.md) — Former investigative journalist and Food School founder whose education model shifted from fixed specialties toward agency, occupational reality, and supported self-reliance.
 - [食物学堂 / Food School](entities/FoodSchool.md) — Small education-to-work program using one year of preparation, real responsibilities, and two years of transition support for young people outside secure academic pathways.
 - [Nikita Khrushchev](entities/NikitaKhrushchev.md) — Soviet leader who reversed an initial withdrawal posture and chose intervention to preserve communist-bloc authority in Hungary.
@@ -18954,6 +18957,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revo](entities/Revo.md) — AI-native sales platform that shifted from full-stack replacement to modular, outcome-oriented adoption while retaining a shared technical foundation.
 
 ## Concepts
+- [Project-Based Entrepreneurship Education](concepts/ProjectBasedEntrepreneurshipEducation.md) — Real-problem learning model using user contact, iteration, deadlines, and public delivery to develop agency beyond venture success.
+- [Participatory AI Safety](concepts/ParticipatoryAISafety.md) — Safety position joining informed building and affected-group participation to access controls, governance, technical evaluation, and the option to refuse.
 - [Self-Reliance-Oriented Education / 自立导向教育](concepts/SelfRelianceOrientedEducation.md) — Relational education-to-work approach centered on livelihood, agency, help-seeking, responsibility, and revisable career beginnings rather than guaranteed credentials or placement.
 - [Relative Advantage Career Matching / 相对优势职业匹配](concepts/RelativeAdvantageCareerMatching.md) — Role-specific view of talent in which ordinary traits and capability combinations become useful through concrete occupational fit and direct work evidence.
 - [Miniature World-Building Escapism](concepts/MiniatureWorldbuildingEscapism.md) — Small-scale physical craft as spatially efficient art, social participation, imaginative control, and qualified escape.

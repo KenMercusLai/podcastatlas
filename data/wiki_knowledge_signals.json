@@ -221737,6 +221737,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/partialreformdestabilization/"
     },
+    "ParticipatoryAISafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634 [default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634].md",
+          "key": "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634",
+          "show": "Tomorrow, Today",
+          "title": "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/participatoryaisafety/"
+    },
     "ParticipatoryHistoricalReading": {
       "episode_count": 1,
       "show_count": 1,
@@ -236730,6 +236746,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/prohibitioncomplianceasymmetry/"
+    },
+    "ProjectBasedEntrepreneurshipEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634 [default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634].md",
+          "key": "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634",
+          "show": "Tomorrow, Today",
+          "title": "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/projectbasedentrepreneurshipeducation/"
     },
     "ProjectGlasswing": {
       "episode_count": 2,
@@ -283932,6 +283964,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/tarabosch/"
     },
+    "TaraChklovski": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634 [default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634].md",
+          "key": "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634",
+          "show": "Tomorrow, Today",
+          "title": "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/tarachklovski/"
+    },
     "TaraGilman": {
       "episode_count": 1,
       "show_count": 1,
@@ -285183,6 +285231,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/technologyreusescenarioadaptation/"
+    },
+    "Technovation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634 [default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634].md",
+          "key": "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634",
+          "show": "Tomorrow, Today",
+          "title": "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/technovation/"
     },
     "TedKaptchuk": {
       "episode_count": 1,

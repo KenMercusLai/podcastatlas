@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3742
+topic_total_pages: 3746
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3826,6 +3826,9 @@ topic_concepts:
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
+  - key: "ParticipatoryAISafety"
+    title: "Participatory AI Safety"
+    url: "/wiki/concepts/participatoryaisafety/"
   - key: "PatchReadinessTechnicalDebt"
     title: "Patch-Readiness Technical Debt"
     url: "/wiki/concepts/patchreadinesstechnicaldebt/"
@@ -8354,6 +8357,9 @@ topic_entities:
   - key: "TangHaocheng"
     title: "Tang Haocheng"
     url: "/wiki/entities/tanghaocheng/"
+  - key: "TaraChklovski"
+    title: "Tara Chklovski"
+    url: "/wiki/entities/tarachklovski/"
   - key: "Tarath"
     title: "Tarath"
     url: "/wiki/entities/tarath/"
@@ -8366,6 +8372,9 @@ topic_entities:
   - key: "TBPN"
     title: "TBPN"
     url: "/wiki/entities/tbpn/"
+  - key: "Technovation"
+    title: "Technovation"
+    url: "/wiki/entities/technovation/"
   - key: "Tencent"
     title: "Tencent"
     url: "/wiki/entities/tencent/"
@@ -9657,6 +9666,9 @@ topic_sources:
   - key: "ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461"
     title: "AI 管理瑞幸咖啡店，員工為什麼越來越累？"
     url: "/wiki/sources/ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461/"
+  - key: "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634"
+    title: "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
