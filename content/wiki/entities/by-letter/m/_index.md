@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13913
+wiki_total_pages: 13917
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"

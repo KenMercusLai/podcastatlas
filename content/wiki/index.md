@@ -4955,6 +4955,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 - [Selling an AI SaaS Platform After 200 Buyers Called It Crazy](sources/2bbd2ffd.md) — The SaaS Podcast episode with David Zhu on Revo's integrated AI sales platform, failed all-at-once replacement pitch, modular adoption, target-market validation, and founder-led customer discovery.
+- [48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟](sources/lsehilqpxbu9hutqm87jyfejx6wy.md) — 怪东西并置皮莱茨基与于天放的潜入、囚中组织、长期观察、情报、越狱和战后迫害，将逃生解释为不完整但持续的抵抗。
 
 ## Entities
 - [Tara Chklovski](entities/TaraChklovski.md) — Technovation founder and CEO framing entrepreneurship projects as training in agency, uncertainty, inclusion, and informed AI participation.
@@ -18955,6 +18956,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [David Zhu](entities/DavidZhu.md) — Revo co-founder and CEO who separated an integrated product architecture from its commercial packaging after sustained mid-market resistance.
 - [Revo](entities/Revo.md) — AI-native sales platform that shifted from full-stack replacement to modular, outcome-oriented adoption while retaining a shared technical foundation.
+- [Witold Pilecki / 维托尔德·皮莱茨基](entities/WitoldPilecki.md) — Polish officer who infiltrated Auschwitz, organized prisoner resistance, escaped to report, fought in Warsaw, and was executed after the war.
+- [Yu Tianfang / 于天放](entities/YuTianfang.md) — Northeast anti-Japanese fighter whose prison escape joined long observation, cooperation, improvised force, and civilian assistance.
+- [Polish Home Army / 波兰家乡军](entities/PolishHomeArmy.md) — Occupied-Poland underground that received Pilecki's Auschwitz intelligence and led the 1944 Warsaw Uprising.
+- [Northeast Anti-Japanese United Army / 东北抗日联军](entities/NortheastAntiJapaneseUnitedArmy.md) — Armed and clandestine resistance movement represented through Yu Tianfang's Heilongjiang struggle, capture, and escape.
 
 ## Concepts
 - [Project-Based Entrepreneurship Education](concepts/ProjectBasedEntrepreneurshipEducation.md) — Real-problem learning model using user contact, iteration, deadlines, and public delivery to develop agency beyond venture success.
@@ -30094,5 +30099,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Integrated Platform, Modular Adoption](concepts/IntegratedPlatformModularAdoption.md) — Strategy of keeping a unified platform architecture while letting customers adopt one workflow or outcome at a time.
 - [Target-Market Validation](concepts/TargetMarketValidation.md) — Requirement that demand and adoption evidence reflect the intended segment's actual constraints rather than easier adjacent adopters alone.
+- [Escape as Resistance / 越狱作为抵抗](concepts/EscapeAsResistance.md) — Networked account of escape as survival, intelligence, organization, political refusal, and continued action rather than a self-contained technical feat.
 
 ## Syntheses

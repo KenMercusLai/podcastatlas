@@ -38624,3 +38624,11 @@ Added source `default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | 48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟
+
+Added source `lsehilqpxbu9hutqm87jyfejx6wy`; created [[WitoldPilecki]], [[YuTianfang]], [[PolishHomeArmy]], [[NortheastAntiJapaneseUnitedArmy]], and [[EscapeAsResistance]]; and resynthesized [[AuschwitzBirkenau]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: both escapes depended on observation, prisoner cooperation, underground organization, and civilian support, but successful flight neither made broader rescue feasible nor ended later exposure to political repression. No settled contradiction was adopted. Escape totals, casualty and destruction figures, radio and tactical details, organizational superlatives, remembered dialogue, intervention feasibility, motives, and causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival record, or primary-source edition. The automatic `wiki/overview.md` remained unchanged. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,841 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

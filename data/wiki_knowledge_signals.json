@@ -24659,9 +24659,9 @@
       "url": "/wiki/entities/aurelstein/"
     },
     "AuschwitzBirkenau": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6191002964 [GLT6191002964].md",
@@ -24669,9 +24669,16 @@
           "show": "The Rest Is History",
           "title": "291: The Man Who Escaped Auschwitz",
           "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
+        },
+        {
+          "episode_file": "lseHilQPxbu9HUTqm87JYFejx6Wy [lseHilQPxbu9HUTqm87JYFejx6Wy].md",
+          "key": "lsehilqpxbu9hutqm87jyfejx6wy",
+          "show": "怪东西Weird History",
+          "title": "48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟",
+          "url": "/wiki/sources/lsehilqpxbu9hutqm87jyfejx6wy/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-06",
       "url": "/wiki/entities/auschwitzbirkenau/"
     },
     "AuspiciousOmenPolitics": {
@@ -93601,6 +93608,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/erwinrommel/"
+    },
+    "EscapeAsResistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lseHilQPxbu9HUTqm87JYFejx6Wy [lseHilQPxbu9HUTqm87JYFejx6Wy].md",
+          "key": "lsehilqpxbu9hutqm87jyfejx6wy",
+          "show": "怪东西Weird History",
+          "title": "48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟",
+          "url": "/wiki/sources/lsehilqpxbu9hutqm87jyfejx6wy/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/escapeasresistance/"
     },
     "EspionageFictionWorldbuilding": {
       "episode_count": 1,
@@ -212483,6 +212506,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/northamericanblueenergypartners/"
     },
+    "NortheastAntiJapaneseUnitedArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lseHilQPxbu9HUTqm87JYFejx6Wy [lseHilQPxbu9HUTqm87JYFejx6Wy].md",
+          "key": "lsehilqpxbu9hutqm87jyfejx6wy",
+          "show": "怪东西Weird History",
+          "title": "48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟",
+          "url": "/wiki/sources/lsehilqpxbu9hutqm87jyfejx6wy/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/northeastantijapaneseunitedarmy/"
+    },
     "NortheastAsMemoryStructure": {
       "episode_count": 3,
       "show_count": 3,
@@ -229641,6 +229680,22 @@
       ],
       "updated": "2026-10-30",
       "url": "/wiki/concepts/polishbuiltheritagepalimpsest/"
+    },
+    "PolishHomeArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lseHilQPxbu9HUTqm87JYFejx6Wy [lseHilQPxbu9HUTqm87JYFejx6Wy].md",
+          "key": "lsehilqpxbu9hutqm87jyfejx6wy",
+          "show": "怪东西Weird History",
+          "title": "48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟",
+          "url": "/wiki/sources/lsehilqpxbu9hutqm87jyfejx6wy/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/polishhomearmy/"
     },
     "PoliticalAccentPrestige": {
       "episode_count": 2,
@@ -311617,6 +311672,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/witchcraftbeliefevidencethreshold/"
     },
+    "WitoldPilecki": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lseHilQPxbu9HUTqm87JYFejx6Wy [lseHilQPxbu9HUTqm87JYFejx6Wy].md",
+          "key": "lsehilqpxbu9hutqm87jyfejx6wy",
+          "show": "怪东西Weird History",
+          "title": "48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟",
+          "url": "/wiki/sources/lsehilqpxbu9hutqm87jyfejx6wy/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/witoldpilecki/"
+    },
     "Wittenberg": {
       "episode_count": 3,
       "show_count": 1,
@@ -323594,6 +323665,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/yushandongyueking/"
+    },
+    "YuTianfang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lseHilQPxbu9HUTqm87JYFejx6Wy [lseHilQPxbu9HUTqm87JYFejx6Wy].md",
+          "key": "lsehilqpxbu9hutqm87jyfejx6wy",
+          "show": "怪东西Weird History",
+          "title": "48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟",
+          "url": "/wiki/sources/lsehilqpxbu9hutqm87jyfejx6wy/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/yutianfang/"
     },
     "YuWanrouFunctionalFoodGuest": {
       "episode_count": 1,

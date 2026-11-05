@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11038
+wiki_total_pages: 11039
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "EscalationOfCommitment"
     title: "Escalation Of Commitment / 非理性投入升级"
     url: "/wiki/concepts/escalationofcommitment/"
+  - key: "EscapeAsResistance"
+    title: "Escape as Resistance / 越狱作为抵抗"
+    url: "/wiki/concepts/escapeasresistance/"
   - key: "EspionageHistoricalImpact"
     title: "Espionage Historical Impact"
     url: "/wiki/concepts/espionagehistoricalimpact/"

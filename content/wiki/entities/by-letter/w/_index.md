@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13913
+wiki_total_pages: 13917
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "WithoutADoubt"
     title: "Without a Doubt"
     url: "/wiki/entities/withoutadoubt/"
+  - key: "WitoldPilecki"
+    title: "Witold Pilecki / 维托尔德·皮莱茨基"
+    url: "/wiki/entities/witoldpilecki/"
   - key: "Wittenberg"
     title: "Wittenberg"
     url: "/wiki/entities/wittenberg/"

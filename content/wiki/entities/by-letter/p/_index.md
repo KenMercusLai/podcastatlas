@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13913
+wiki_total_pages: 13917
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "PolisarioFront"
     title: "Polisario Front"
     url: "/wiki/entities/polisariofront/"
+  - key: "PolishHomeArmy"
+    title: "Polish Home Army / 波兰家乡军"
+    url: "/wiki/entities/polishhomearmy/"
   - key: "Polybius"
     title: "Polybius / 波利比乌斯"
     url: "/wiki/entities/polybius/"

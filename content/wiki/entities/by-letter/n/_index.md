@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13913
+wiki_total_pages: 13917
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "NorthKorea"
     title: "North Korea"
     url: "/wiki/entities/northkorea/"
+  - key: "NortheastAntiJapaneseUnitedArmy"
+    title: "Northeast Anti-Japanese United Army / 东北抗日联军"
+    url: "/wiki/entities/northeastantijapaneseunitedarmy/"
   - key: "NorthernIreland"
     title: "Northern Ireland"
     url: "/wiki/entities/northernireland/"
