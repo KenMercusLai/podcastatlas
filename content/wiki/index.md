@@ -31,6 +31,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [What it means when AI helps solve complex math problems](sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128.md) — Marketplace Tech distinguishes machine-checked proof from human mathematical understanding and connects that gap to research ethics, oral assessment, hiring, and graduate education.
 - [揽月周刊20 | 许愿式复刻爆发 | 安卓平台又出神级模拟器 | AI克隆争议 | 恶魔城感想](sources/gkwrijiovcomarlvvwt0f8r9-gkwrijiovcomarlvvwt0f8r9.md) — 旧世代 connects AI-assisted game preservation and Android Xbox emulation to pre-release clone risk and Castlevania series identity.
 - [719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)](sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202.md) — The Rest Is History traces Stalinist consolidation, de-Stalinization, reform mobilization, and the armed opening of the 1956 Hungarian Revolution.
+- [720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)](sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826.md) — The Rest Is History completes the Hungarian Revolution through pluralist government, Soviet invasion, Kádár's repression and accommodation, and the uprising's moral legacy.
 - [商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了](sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti.md) — 商业就是这样以字母标AUDI拆解传统豪华品牌如何通过品牌分工、本土研发、挑战者定价与快速反馈应对中国新能源竞争。
 - [7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？](sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda.md) — 声动早咖啡以7-Eleven印度退场解释社区小店、即时零售、区域商品复杂度与门店密度如何共同约束便利店复制。
 - [\[年终复盘①\]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb.md) — 十字路口Crossing以十个个人时刻串联Agent范式、视频模型、RSI、小模型扩散、按需软件、能力奇观与人类粗粝价值。
@@ -4947,6 +4948,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The promise and risks of AI for mental health support](sources/tech-20261104-1104-mp-tech-pod-128-tech-20261104-1104-mp-tech-pod-128.md) — Marketplace Tech distinguishes immediately unsafe chatbot replies from cumulative relationship-level harm, narrows “AI psychosis,” and calls for user-centered longitudinal evaluation and human support.
 
 ## Entities
+- [Nikita Khrushchev](entities/NikitaKhrushchev.md) — Soviet leader who reversed an initial withdrawal posture and chose intervention to preserve communist-bloc authority in Hungary.
 - [Hongguo Short Drama / 红果短剧](entities/HongguoShortDrama.md) — ByteDance短剧目的地应用，以短视频导流和大规模月活形成平台位置。
 - [Baratunde Thurston](entities/BaratundeThurston.md) — Writer and producer connecting AI relationships to Indigenous democracy, domination, agency, land stewardship, and care.
 - [Blaise Agüera y Arcas](entities/BlaiseAgueraYArcas.md) — Paradigms of Intelligence founder connecting AI to symbiogenesis, collective cognition, and nested cooperation.
@@ -18937,6 +18939,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NCT (Exozyme)](entities/NCTExozyme.md) — Unexpanded natural-molecule program positioned first as an Exozyme supplement and platform demonstration, with therapeutic claims unvalidated.
 
 ## Concepts
+- [Goulash Communism](concepts/GoulashCommunism.md) — Post-1956 Hungarian settlement joining one-party rule and Soviet alignment to greater material welfare and bounded personal latitude.
 - [Rail Network Service Revenue / 铁路路网服务收入](concepts/RailNetworkServiceRevenue.md) — 其他铁路运营企业为使用核心线路与路网基础设施所支付的服务收入。
 - [Interest-Based Third Place / 兴趣型第三空间](concepts/InterestBasedThirdPlace.md) — Semi-public venue organized through recurring shared activities rather than neighborhood proximity alone.
 - [Coffee Chain Scale-Service-Profit Triangle / 连锁咖啡规模服务盈利不可能三角](concepts/CoffeeChainScaleServiceProfitTriangle.md) — Operating tradeoff among a large store network, labor-intensive interaction, and strong store profitability.

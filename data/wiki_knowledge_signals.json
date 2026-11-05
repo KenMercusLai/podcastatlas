@@ -119661,6 +119661,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/goujian/"
     },
+    "GoulashCommunism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6037632826 [GLT6037632826].md",
+          "key": "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826",
+          "show": "The Rest Is History",
+          "title": "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
+          "url": "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/concepts/goulashcommunism/"
+    },
     "GoutUrateLongTermManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -140486,9 +140502,9 @@
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HungarianRevolution1956": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4398850202 [GLT4398850202].md",
@@ -140496,9 +140512,16 @@
           "show": "The Rest Is History",
           "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
           "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        },
+        {
+          "episode_file": "GLT6037632826 [GLT6037632826].md",
+          "key": "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826",
+          "show": "The Rest Is History",
+          "title": "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
+          "url": "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/hungarianrevolution1956/"
     },
     "HunyadiJanos": {
@@ -144828,9 +144851,9 @@
       "url": "/wiki/concepts/impostorsyndrome/"
     },
     "ImreNagy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4398850202 [GLT4398850202].md",
@@ -144838,9 +144861,16 @@
           "show": "The Rest Is History",
           "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
           "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        },
+        {
+          "episode_file": "GLT6037632826 [GLT6037632826].md",
+          "key": "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826",
+          "show": "The Rest Is History",
+          "title": "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
+          "url": "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/imrenagy/"
     },
     "InFlightConnectivityEconomics": {
@@ -153313,9 +153343,9 @@
       "url": "/wiki/entities/janetmertz/"
     },
     "JanosKadar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4398850202 [GLT4398850202].md",
@@ -153323,9 +153353,16 @@
           "show": "The Rest Is History",
           "title": "719. Revolution in the Soviet Empire: The Hungarian Uprising (Part 1)",
           "url": "/wiki/sources/719-revolution-in-the-soviet-empire-the-hungarian-uprising-part-1-glt4398850202/"
+        },
+        {
+          "episode_file": "GLT6037632826 [GLT6037632826].md",
+          "key": "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826",
+          "show": "The Rest Is History",
+          "title": "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
+          "url": "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "url": "/wiki/entities/janoskadar/"
     },
     "JapanAIDSBloodProductsIncident": {
@@ -210564,6 +210601,22 @@
       ],
       "updated": "2026-10-24",
       "url": "/wiki/entities/nikesharora/"
+    },
+    "NikitaKhrushchev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6037632826 [GLT6037632826].md",
+          "key": "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826",
+          "show": "The Rest Is History",
+          "title": "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
+          "url": "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
+        }
+      ],
+      "updated": "2026-11-05",
+      "url": "/wiki/entities/nikitakhrushchev/"
     },
     "NimiWusun": {
       "episode_count": 2,

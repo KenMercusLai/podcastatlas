@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2776
+topic_total_pages: 2777
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7224,6 +7224,9 @@ topic_sources:
   - key: "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837"
     title: "72.君主论：读它是一场危险的冒险"
     url: "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+  - key: "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826"
+    title: "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)"
+    url: "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
   - key: "73-england-v-italy-glt3184835237"
     title: "73. England v Italy"
     url: "/wiki/sources/73-england-v-italy-glt3184835237/"
