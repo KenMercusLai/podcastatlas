@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11051
+wiki_total_pages: 11054
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "PersonalCashFlowAccount"
     title: "Personal Cash-Flow Account"
     url: "/wiki/concepts/personalcashflowaccount/"
+  - key: "PersonalContextKnowledge"
+    title: "Personal Context Knowledge / 个人上下文知识"
+    url: "/wiki/concepts/personalcontextknowledge/"
   - key: "PersonalCreditRecord"
     title: "Personal Credit Record"
     url: "/wiki/concepts/personalcreditrecord/"

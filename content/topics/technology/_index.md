@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3751
+topic_total_pages: 3756
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1204,6 +1204,9 @@ topic_concepts:
   - key: "AIEnabledVulnerabilityDiscovery"
     title: "AI-Enabled Vulnerability Discovery"
     url: "/wiki/concepts/aienabledvulnerabilitydiscovery/"
+  - key: "AIDecisionAnxiety"
+    title: "AI-Era Decision Anxiety / AI 时代决策焦虑"
+    url: "/wiki/concepts/aidecisionanxiety/"
   - key: "AIEraMajorChoice"
     title: "AI-Era Major Choice / AI时代专业选择"
     url: "/wiki/concepts/aieramajorchoice/"
@@ -1360,6 +1363,9 @@ topic_concepts:
   - key: "AttentionResidues"
     title: "Attention Residues"
     url: "/wiki/concepts/attentionresidues/"
+  - key: "AttentionCommitmentLearning"
+    title: "Attention-Commitment Learning / 注意力承诺式学习"
+    url: "/wiki/concepts/attentioncommitmentlearning/"
   - key: "AugmentedIntelligence"
     title: "Augmented Intelligence"
     url: "/wiki/concepts/augmentedintelligence/"
@@ -6371,6 +6377,9 @@ topic_entities:
   - key: "Fivetran"
     title: "Fivetran"
     url: "/wiki/entities/fivetran/"
+  - key: "Flomo"
+    title: "flomo"
+    url: "/wiki/entities/flomo/"
   - key: "FloridaSpaceCoast"
     title: "Florida Space Coast"
     url: "/wiki/entities/floridaspacecoast/"
@@ -9071,6 +9080,9 @@ topic_entities:
   - key: "XiaozhiAI"
     title: "小智AI / Xiaozhi AI"
     url: "/wiki/entities/xiaozhiai/"
+  - key: "ShaonanFlomo"
+    title: "少楠 / Shaonan (flomo)"
+    url: "/wiki/entities/shaonanflomo/"
   - key: "PingyaoInternationalFilmFestival"
     title: "平遥国际电影展 / Pingyao International Film Festival"
     url: "/wiki/entities/pingyaointernationalfilmfestival/"
@@ -10020,6 +10032,9 @@ topic_sources:
   - key: "e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700"
     title: "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？"
     url: "/wiki/sources/e256-agent-jiqiren-yu-zhiyao-shui-xian-bei-gpt-6-astra-gaixie-9e6e1db1-f30b-492d-8a09-d8756b9df700/"
+  - key: "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v"
+    title: "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？"
+    url: "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
   - key: "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0"
     title: "E42 孟岩对话韦青：沉默的主角"
     url: "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"

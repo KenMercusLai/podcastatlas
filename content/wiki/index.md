@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？](sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v.md) — 知行小酒馆与少楠把信息焦虑重构为答案丰裕下的决策焦虑，并以个人上下文和注意力承诺重估笔记、阅读、写作与 AI 反思。
 - [514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起](sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e.md) — 忽左忽右从中世纪朝圣、贵族壮游与铁路郊游追到汽车旅行，区分交通可达性、时刻表纪律与个人路线自主。
 - [“Britain is back”: an interview with Andy Burnham](sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4.md) — Economist Podcasts on Burnham's foreign-policy reset, Ukraine's demographic-reconstruction trap, and Dolores Huerta's labour legacy alongside accountability for Cesar Chavez.
 - [从抖音到红果短剧，我们为什么开始争论“字节时间”？](sources/99e9bb96133f-99e9bb96133f.md) — 科技乱炖从“字节时间”数据争议连接移动端注意力、抖音消费转化、红果免费短剧、投流与AI供给，并追问平台规模对应的创作者和公共责任。
@@ -4966,6 +4967,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [少楠 / Shaonan (flomo)](entities/ShaonanFlomo.md) — flomo 联合创始人，以具体实践、个人记录和有限注意力重构 AI 焦虑、学习与产品关怀。
+- [flomo](entities/Flomo.md) — 从通用知识存储转向个人上下文、模式反思与关怀型 AI 的笔记产品。
 - [Karl Benz / 卡尔·本茨](entities/KarlBenz.md) — Automobile pioneer used to distinguish early personally controlled motor travel from the later infrastructure and consumer capacity of mass automobility.
 - [Pope Sylvester II / 教皇西尔维斯特二世](entities/PopeSylvesterII.md) — Medieval scholar-traveler whose risky search for dispersed learning generated both knowledge circulation and magician legend.
 - [Dolores Huerta](entities/DoloresHuerta.md) — United Farm Workers co-founder and negotiator whose achievement, gendered exclusion, victimization, and movement-protective silence require a non-simplifying account.
@@ -18982,6 +18985,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [AI-Era Decision Anxiety / AI 时代决策焦虑](concepts/AIDecisionAnxiety.md) — AI 降低答案成本后，问题选择、条件匹配、验证与有限时间投入成为新的焦虑核心。
+- [Personal Context Knowledge / 个人上下文知识](concepts/PersonalContextKnowledge.md) — 记录信息为何与个人有关、改变了什么、带来何种行动与后果，而非囤积可检索的通用事实。
+- [Attention-Commitment Learning / 注意力承诺式学习](concepts/AttentionCommitmentLearning.md) — AI 可改变解释与阅读路径，却不能自动省略理解、记忆、联想和形成个人判断所需的持续投入。
 - [Travel Autonomy / 旅行自主性](concepts/TravelAutonomy.md) — Degree of traveler control over departure, route, stops, pace, companions, and revisions, distinguished from speed or destination access alone.
 - [Pilgrimage Travel Infrastructure / 朝圣旅行基础设施](concepts/PilgrimageTravelInfrastructure.md) — Sacred destinations, routes, shelter, signs, shared identity, and groups that make long-distance pilgrimage more legible and survivable.
 - [Ukraine Wartime Demographic-Reconstruction Trap](concepts/UkraineWartimeDemographicReconstructionTrap.md) — Feedback loop joining pre-war decline, invasion losses, refugee settlement, labour shortage, and the increased workforce demands of rebuilding.

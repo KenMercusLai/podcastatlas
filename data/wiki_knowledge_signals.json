@@ -1090,9 +1090,9 @@
       "url": "/wiki/concepts/aiasbrandmirror/"
     },
     "AIAsPersonalMirror": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20261026_1026_MP_TECH_pod_128 [tech_20261026_1026_MP_TECH_pod_128].md",
@@ -1100,9 +1100,16 @@
           "show": "Marketplace Tech",
           "title": "When ChatGPT writes your obituary",
           "url": "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
+          "key": "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v",
+          "show": "知行小酒馆",
+          "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",
+          "url": "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
         }
       ],
-      "updated": "2026-10-26",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/aiaspersonalmirror/"
     },
     "AIAsTutor": {
@@ -2864,6 +2871,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/aidatabasecontextlayer/"
+    },
+    "AIDecisionAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
+          "key": "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v",
+          "show": "知行小酒馆",
+          "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",
+          "url": "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/aidecisionanxiety/"
     },
     "AIDemoDeploymentGap": {
       "episode_count": 2,
@@ -24203,6 +24226,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/attentioncapacityselection/"
+    },
+    "AttentionCommitmentLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
+          "key": "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v",
+          "show": "知行小酒馆",
+          "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",
+          "url": "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/attentioncommitmentlearning/"
     },
     "AttentionFineTuning": {
       "episode_count": 1,
@@ -104847,6 +104886,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/flocksafety/"
+    },
+    "Flomo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
+          "key": "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v",
+          "show": "知行小酒馆",
+          "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",
+          "url": "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/flomo/"
     },
     "FloodplainRetreatGovernance": {
       "episode_count": 1,
@@ -225936,6 +225991,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/personalagentvirtualemployeepilot/"
     },
+    "PersonalContextKnowledge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
+          "key": "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v",
+          "show": "知行小酒馆",
+          "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",
+          "url": "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/personalcontextknowledge/"
+    },
     "PersonalEnterpriseMemoryOwnership": {
       "episode_count": 1,
       "show_count": 1,
@@ -263920,6 +263991,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/shaolinsoccer/"
+    },
+    "ShaonanFlomo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
+          "key": "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v",
+          "show": "知行小酒馆",
+          "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",
+          "url": "/wiki/sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/shaonanflomo/"
     },
     "ShaowengWesternHan": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11051
+wiki_total_pages: 11054
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "AIEnabledVulnerabilityDiscovery"
     title: "AI-Enabled Vulnerability Discovery"
     url: "/wiki/concepts/aienabledvulnerabilitydiscovery/"
+  - key: "AIDecisionAnxiety"
+    title: "AI-Era Decision Anxiety / AI 时代决策焦虑"
+    url: "/wiki/concepts/aidecisionanxiety/"
   - key: "AIEraMajorChoice"
     title: "AI-Era Major Choice / AI时代专业选择"
     url: "/wiki/concepts/aieramajorchoice/"
@@ -2936,6 +2939,9 @@ wiki_pages:
   - key: "AttentionPresenceAndHappiness"
     title: "Attention, Presence, and Happiness"
     url: "/wiki/concepts/attentionpresenceandhappiness/"
+  - key: "AttentionCommitmentLearning"
+    title: "Attention-Commitment Learning / 注意力承诺式学习"
+    url: "/wiki/concepts/attentioncommitmentlearning/"
   - key: "AttentionalBlinkTraining"
     title: "Attentional Blink Training"
     url: "/wiki/concepts/attentionalblinktraining/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13928
+wiki_total_pages: 13930
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
@@ -2672,6 +2672,9 @@ wiki_pages:
   - key: "Shaoliang"
     title: "少梁 / Shaoliang"
     url: "/wiki/entities/shaoliang/"
+  - key: "ShaonanFlomo"
+    title: "少楠 / Shaonan (flomo)"
+    url: "/wiki/entities/shaonanflomo/"
   - key: "ShaowengWesternHan"
     title: "少翁 / Shaoweng (Western Han)"
     url: "/wiki/entities/shaowengwesternhan/"

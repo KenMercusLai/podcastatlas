@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13928
+wiki_total_pages: 13930
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "FlockSafety"
     title: "Flock Safety"
     url: "/wiki/entities/flocksafety/"
+  - key: "Flomo"
+    title: "flomo"
+    url: "/wiki/entities/flomo/"
   - key: "FloodVKuhn"
     title: "Flood v. Kuhn"
     url: "/wiki/entities/floodvkuhn/"

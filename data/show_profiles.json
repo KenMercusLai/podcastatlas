@@ -2950,14 +2950,14 @@
       "earliest_episode_date": "2026-08-28",
       "latest_episode_date": "2026-11-06",
       "latest_episode_file": "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
-      "source_note_count": 8,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 9,
+      "topic_matched_source_note_count": 5,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 3
+          "source_note_count": 4
         },
         {
           "key": "economics",
@@ -2974,9 +2974,9 @@
       ],
       "entities": [],
       "start_here_episode_files": [
+        "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
         "lvnr1aFmbKgG3GJZuMqRICvnLeu8 [lvnr1aFmbKgG3GJZuMqRICvnLeu8].md",
         "loT2ELu49vlMwEanppQH5Uz0Xa1h [loT2ELu49vlMwEanppQH5Uz0Xa1h].md",
-        "lgvsXBt7TSTJ2vHXUpCRxnrf3g4V [lgvsXBt7TSTJ2vHXUpCRxnrf3g4V].md",
         "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md"
       ]
     },
