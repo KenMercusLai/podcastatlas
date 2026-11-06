@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11057
+wiki_total_pages: 11058
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "RealityOrientedSocialScienceResearch"
     title: "Reality-Oriented Social Science Research / 现实问题导向的社会科学研究"
     url: "/wiki/concepts/realityorientedsocialscienceresearch/"
+  - key: "RealityTVAuthenticityEntertainmentTension"
+    title: "Reality-TV Authenticity–Entertainment Tension / 真人秀真实—娱乐张力"
+    url: "/wiki/concepts/realitytvauthenticityentertainmenttension/"
   - key: "RealityTVEditingEvidenceBoundary"
     title: "Reality-TV Editing Evidence Boundary / 真人秀剪辑证据边界"
     url: "/wiki/concepts/realitytveditingevidenceboundary/"

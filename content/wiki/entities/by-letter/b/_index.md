@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13932
+wiki_total_pages: 13933
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1418,6 +1418,9 @@ wiki_pages:
   - key: "BieRenshuHuiziBook"
     title: "《别认输，惠子》"
     url: "/wiki/entities/bierenshuhuizibook/"
+  - key: "BianxingJiRealityShow"
+    title: "《变形计》"
+    url: "/wiki/entities/bianxingjirealityshow/"
   - key: "BookOfRevelation"
     title: "《启示录》 / Book of Revelation"
     url: "/wiki/entities/bookofrevelation/"

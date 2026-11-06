@@ -11,19 +11,20 @@ sources:
   - 2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm
   - 2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g
   - 2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9
+  - 2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-31
+last_updated: 2026-11-07
 ---
 
 # 日谈物语 / Nittan Wuyu
 
 ## Overview
 
-日谈物语 enters the wiki through its 2026 autumn sequence. Seven short excerpts announce or begin public-health, environmental, medical-ethics, juvenile-crime, family-crime, and public-safety subjects, while the full-length Watami special reconstructs [[MoriMina|森美菜]]'s death and the long campaign for labor accountability. The sources present a conversational podcast hosted by [[MiaoShuNittanWuyu|淼叔]] and [[XiaoHuoziNittanWuyu|小伙子]].
+日谈物语 enters the wiki through its 2026 autumn sequence. Eight short excerpts announce or begin public-health, environmental, medical-ethics, juvenile-crime, family-crime, public-safety, and media-culture subjects, while the full-length Watami special reconstructs [[MoriMina|森美菜]]'s death and the long campaign for labor accountability. The sources present a conversational podcast hosted by [[MiaoShuNittanWuyu|淼叔]] and [[XiaoHuoziNittanWuyu|小伙子]].
 
 ## Current Profile
 
-The pattern announced by the short excerpts is demonstrated in the Watami special. The hosts move from one young worker's 72-day employment through staffing, training, transport, assessment, corporate ideology, mental-health warnings, workers' compensation, union support, litigation, consumer response, and legal reform. This is [[SocialHistoryCaseFraming|case-based social history]] rather than narrow true crime: an individual record remains central while institutions and the distribution of responsibility explain why harm occurred and how accountability became possible. E05 opens the [[AkabaneFilicideCase1977|1977 Akabane case]] through contemporary education competition and local context, E06 opens the [[KumagayaSixMurders2015|2015 Kumagaya case]] through an ambiguous cross-language encounter, and E07 opens the [[FukuokaMotherDaughterKilling2006|2006 Fukuoka case]] through Tojinmachi geography, trade history, and a family introduction. All three excerpts end before their wider social explanation is demonstrated.
+The pattern announced by the short excerpts is demonstrated in the Watami special. The hosts move from one young worker's 72-day employment through staffing, training, transport, assessment, corporate ideology, mental-health warnings, workers' compensation, union support, litigation, consumer response, and legal reform. This is [[SocialHistoryCaseFraming|case-based social history]] rather than narrow true crime: an individual record remains central while institutions and the distribution of responsibility explain why harm occurred and how accountability became possible. E05 opens the [[AkabaneFilicideCase1977|1977 Akabane case]] through contemporary education competition and local context, E06 opens the [[KumagayaSixMurders2015|2015 Kumagaya case]] through an ambiguous cross-language encounter, and E07 opens the [[FukuokaMotherDaughterKilling2006|2006 Fukuoka case]] through Tojinmachi geography, trade history, and a family introduction. E08 never reaches the Japanese internet-addiction institution named in its title; it instead uses [[BianxingJiRealityShow|《变形计》]] to open [[RealityTVAuthenticityEntertainmentTension|a question about reality-TV scripting and entertainment]]. All four excerpts stop before demonstrating or resolving their announced wider issue.
 
 ## Key Characteristics
 
@@ -31,9 +32,9 @@ The pattern announced by the short excerpts is demonstrated in the Watami specia
 - Connects historical events to contemporary uncertainty and public reflection.
 - Builds the autumn season across public health, environmental diffuse harm, medical ethics, and labor accountability.
 - Uses listener feedback to rebalance large social events with a more explicit individual-case entry point.
-- Balances light openings and follow-ups with heavy themes, while seasonal framing can precede the main case and free access can widen discussion.
-- Uses documentary timelines and institutional pathways to separate personal tragedy from individualized blame.
+- Balances light openings and follow-ups with heavy themes, while using documentary timelines and institutional pathways to separate personal tragedy from individualized blame.
 - Uses contemporary dilemmas as entry points into historical cases while treating location and social background as interpretively relevant.
+- Uses familiar television and meme references to open media-authenticity questions, while the available excerpt leaves its title topic untouched.
 
 ## Evidence
 
@@ -49,17 +50,19 @@ The pattern announced by the short excerpts is demonstrated in the Watami specia
 - **Contemporary-to-historical framing:** [[2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm]] moves from “鸡娃” as competitive escalation to a 1977 Tokyo killing and begins explaining Akabane before the excerpt ends.
 - **Ambiguous-encounter opening:** [[2026-qiuji-pian-e06-shenmi-de-waiguoren-xionggu-6-ren-yuhai-shijian-flbyadlki0rvltufp6pgjfh8zi-g]] begins with an unfamiliar man's entry into a Kumagaya yard, failed cross-language communication, and the resident's call to a neighboring fire station before the transcript ends.
 - **Place-led family-case opening:** [[2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9]] situates a 2006 Fukuoka case through Tojinmachi geography and local history before introducing Ayaka Yoshitsuna's return to her mother's home and stopping before any death is narrated.
+- **Media-authenticity opening:** [[2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk]] moves from a scheduling notice to [[BianxingJiRealityShow|《变形计》]], “真香,” and an unresolved question about scripting and watchability before reaching its titled Japanese internet-addiction topic.
 
 ## Qualifications
 
-The current profile does not establish the full history of 日谈物语, its regular format, or complete host roster. The seven numbered autumn transcripts are short excerpts and leave their named incidents incomplete, so the show's substantive treatment of those cases remains unassessed. E05 does not establish that education pressure caused the killing or even support the title's prestigious-school description. E06 does not establish the stranger's identity or nationality, his connection to the later killings, the victims, police response, motive, investigation, or outcome. E07 does not establish the title's mother-kills-daughter act, the disability connection, victim, motive, investigation, judgment, or outcome. The Watami special is a secondary narrative rather than a substitute for judgments, regulations, company filings, or family records, and its legal, numerical, causal, and business claims remain source-scoped.
+The current profile does not establish the full history of 日谈物语, its regular format, or complete host roster. The eight numbered autumn transcripts are short excerpts and leave their named incidents or questions incomplete, so the show's substantive treatment of those cases remains unassessed. E05 does not establish that education pressure caused the killing or even support the title's prestigious-school description. E06 does not establish the stranger's identity or nationality, his connection to the later killings, the victims, police response, motive, investigation, or outcome. E07 does not establish the title's mother-kills-daughter act, the disability connection, victim, motive, investigation, judgment, or outcome. E08 supplies no evidence about a Japanese internet-addiction institution and does not determine whether 《变形计》 or another reality program was scripted. The Watami special is a secondary narrative rather than a substitute for judgments, regulations, company filings, or family records, and its legal, numerical, causal, and business claims remain source-scoped.
 
 ## What Changed
 
 - Replaced an excerpt-only profile with evidence from a full case reconstruction.
 - Established labor institutions, documentary evidence, and accountability pathways as demonstrated parts of the show's method.
-- Preserved the incomplete-transcript boundary across the seven numbered autumn episodes.
+- Preserved the incomplete-transcript boundary across the eight numbered autumn episodes.
 - Extended the profile through E05's education-competition setup, E06's cross-language opening, and E07's place-led family introduction without adopting their unstated causal premises.
+- Added E08's reality-TV authenticity opening while preserving the complete mismatch between its available body and titled internet-addiction topic.
 
 ## Relationships
 
@@ -81,3 +84,5 @@ The current profile does not establish the full history of 日谈物语, its reg
 - [[EducationCompetitionUncertaintyLoop]] - contemporary competitive-escalation frame used to introduce E05.
 - [[KumagayaSixMurders2015|2015年熊谷六人遇害事件]] - public-safety case opened but not developed in E06.
 - [[FukuokaMotherDaughterKilling2006|2006年福冈母亲杀女事件]] - family-crime case situated and introduced but not developed in E07.
+- [[BianxingJiRealityShow|《变形计》]] - reality-TV example used to open E08's unfinished scripting discussion.
+- [[RealityTVAuthenticityEntertainmentTension]] - media-production question raised but not resolved in E08.

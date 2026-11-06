@@ -32151,6 +32151,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/bianquhydraulicgovernance/"
     },
+    "BianxingJiRealityShow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FsuMwLspKh-sTbPJFzKZqYp-VmGK [FsuMwLspKh-sTbPJFzKZqYp-VmGK].md",
+          "key": "2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk",
+          "show": "日谈物语",
+          "title": "2026秋季篇E08 直接绑走！日本也有戒网瘾学校",
+          "url": "/wiki/sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/entities/bianxingjirealityshow/"
+    },
     "BiaoRenComic": {
       "episode_count": 2,
       "show_count": 1,
@@ -211845,9 +211861,9 @@
       "url": "/wiki/entities/nitinmukesh/"
     },
     "NittanWuyu": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -211904,9 +211920,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E07 家族悲剧，福冈母亲杀女事件",
           "url": "/wiki/sources/2026-qiuji-pian-e07-jiazu-beiju-fugang-muqin-shanu-shijian-fo1pqlfrgs7bu3kr7ekm-mxjaow9/"
+        },
+        {
+          "episode_file": "FsuMwLspKh-sTbPJFzKZqYp-VmGK [FsuMwLspKh-sTbPJFzKZqYp-VmGK].md",
+          "key": "2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk",
+          "show": "日谈物语",
+          "title": "2026秋季篇E08 直接绑走！日本也有戒网瘾学校",
+          "url": "/wiki/sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk/"
         }
       ],
-      "updated": "2026-10-31",
+      "updated": "2026-11-07",
       "url": "/wiki/entities/nittanwuyu/"
     },
     "NiuJinLateHan": {
@@ -244365,10 +244388,26 @@
       "updated": "2026-10-28",
       "url": "/wiki/concepts/realitycompetitionrulelegitimacy/"
     },
-    "RealityTVEditingEvidenceBoundary": {
+    "RealityTVAuthenticityEntertainmentTension": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FsuMwLspKh-sTbPJFzKZqYp-VmGK [FsuMwLspKh-sTbPJFzKZqYp-VmGK].md",
+          "key": "2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk",
+          "show": "日谈物语",
+          "title": "2026秋季篇E08 直接绑走！日本也有戒网瘾学校",
+          "url": "/wiki/sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/realitytvauthenticityentertainmenttension/"
+    },
+    "RealityTVEditingEvidenceBoundary": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIRwOfzopAjzxYATYBPqR [GKwRIRwOfzopAjzxYATYBPqR].md",
@@ -244376,9 +244415,16 @@
           "show": "无时差研究所",
           "title": "EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？",
           "url": "/wiki/sources/ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr/"
+        },
+        {
+          "episode_file": "FsuMwLspKh-sTbPJFzKZqYp-VmGK [FsuMwLspKh-sTbPJFzKZqYp-VmGK].md",
+          "key": "2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk",
+          "show": "日谈物语",
+          "title": "2026秋季篇E08 直接绑走！日本也有戒网瘾学校",
+          "url": "/wiki/sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-07",
       "url": "/wiki/concepts/realitytveditingevidenceboundary/"
     },
     "RebeccaEarlyChildhoodEducator": {

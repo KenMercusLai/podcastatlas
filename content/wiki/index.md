@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E08 直接绑走！日本也有戒网瘾学校](sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk.md) — 日谈物语短摘以《变形计》和“真香”梗提出真人秀真实与编排的张力，但未进入标题所称的日本戒网瘾机构。
 - [Blake Scholl, Founder & CEO, Boom Supersonic: Part 2](sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3.md) — The Social Radars follow-up on Boom's Rolls-Royce engine crisis, internal propulsion program, boomless flight, 42-megawatt data-center turbine, integrated aircraft design, and commercial manufacturing resilience.
 - [美國期中選舉「藍色狂潮」：民主黨為何大勝，共和黨為何失血？](sources/meiguo-zhongqi-xuanju-lanse-kuangchao-minzhudang-weihe-dasheng-gonghedang-weihe-shixue-811b761d1bfadb2d8e7f01780f90b735.md) — 端聞以喬治亞、密西根、德州、佛羅里達、農業州與福音派選區的票數，解釋民主黨高動員與共和黨棄投如何共同擴大期中選舉勝幅。
 - [Data centers lost in the midterms](sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128.md) — Marketplace Tech links reported data-center ballot defeats and mixed technology-backed election spending to AI backlash, while separating near-term approved construction from longer-run political and demand risk.
@@ -4970,6 +4971,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [《变形计》](entities/BianxingJiRealityShow.md) — 以亲子冲突、问题少年标签、乡村改造和“真香”梗进入公共记忆的真人秀节目。
 - [Makeboom](entities/Makeboom.md) — Boom Supersonic's source-described simulation tool for comparing coupled engine, airframe, cabin, and mission configurations.
 - [Maria Salazar](entities/MariaSalazar.md) — Florida Republican whose sharply narrowed 2026 margin illustrates the value and limits of distancing from harsh immigration enforcement.
 - [少楠 / Shaonan (flomo)](entities/ShaonanFlomo.md) — flomo 联合创始人，以具体实践、个人记录和有限注意力重构 AI 焦虑、学习与产品关怀。
@@ -18990,6 +18992,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Reality-TV Authenticity–Entertainment Tension / 真人秀真实—娱乐张力](concepts/RealityTVAuthenticityEntertainmentTension.md) — 真人秀对真实感的承诺与编排、提示、剪辑或剧本带来的戏剧可看性之间的结构张力。
 - [Aircraft–Propulsion Co-Design](concepts/AircraftPropulsionCoDesign.md) — Coupled optimization of engine, airframe, cabin, and flight mission rather than sequentially fitting a fixed supplier subsystem.
 - [Commercial Manufacturing Surge Capacity](concepts/CommercialManufacturingSurgeCapacity.md) — Ability of a productive civilian industrial base to redirect flexible design and factory capability toward urgent national needs.
 - [Partisan Turnout-Motivation Asymmetry](concepts/PartisanTurnoutMotivationAsymmetry.md) — Electoral mechanism in which one coalition sustains urgent participation while dissatisfied opponents abstain without necessarily changing party identity.

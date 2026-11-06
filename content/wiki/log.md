@@ -38724,3 +38724,11 @@ Added source `tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3`; created [[Makeboom]]
 ## [2026-11-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-07] ingest | 2026秋季篇E08 直接绑走！日本也有戒网瘾学校
+
+Added source `2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk`; created [[BianxingJiRealityShow|《变形计》]] and [[RealityTVAuthenticityEntertainmentTension|真人秀真实—娱乐张力]]; and resynthesized [[NittanWuyu|日谈物语]] and [[RealityTVEditingEvidenceBoundary|真人秀剪辑证据边界]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the excerpt uses youth-reform reality television and the “真香” meme to expose an audience contradiction—suspecting scripts while enjoying production-enhanced drama—without treating mediation as proof that all visible conduct is fabricated. No settled contradiction was adopted. The supplied three-minute structured summary ends before resolving the scripting question and never reaches the Japanese internet-addiction institution named in the title, so confinement, treatment, legality, educational value, production mechanisms, participant conduct, and outcomes remain unsupported. The automatic `wiki/overview.md` remained unchanged. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,853 sources across 806 overview paragraphs and nine topics. Index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

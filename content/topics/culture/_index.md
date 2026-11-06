@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3624
+topic_total_pages: 3626
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2908,6 +2908,9 @@ topic_concepts:
   - key: "ReadingMediumPluralism"
     title: "Reading Medium Pluralism / 阅读媒介多元主义"
     url: "/wiki/concepts/readingmediumpluralism/"
+  - key: "RealityTVAuthenticityEntertainmentTension"
+    title: "Reality-TV Authenticity–Entertainment Tension / 真人秀真实—娱乐张力"
+    url: "/wiki/concepts/realitytvauthenticityentertainmenttension/"
   - key: "RealityTVEditingEvidenceBoundary"
     title: "Reality-TV Editing Evidence Boundary / 真人秀剪辑证据边界"
     url: "/wiki/concepts/realitytveditingevidenceboundary/"
@@ -9789,6 +9792,9 @@ topic_sources:
   - key: "20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734"
     title: "20.德米安：该隐的额头上，那神秘的印记"
     url: "/wiki/sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734/"
+  - key: "2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk"
+    title: "2026秋季篇E08 直接绑走！日本也有戒网瘾学校"
+    url: "/wiki/sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk/"
   - key: "204-gone-with-the-wind-glt3666140136"
     title: "204. Gone with the Wind"
     url: "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
