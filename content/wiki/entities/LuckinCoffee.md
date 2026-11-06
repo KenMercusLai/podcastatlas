@@ -8,7 +8,8 @@ sources:
   - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
   - ai-guanli-ruixing-kafeidian-yuangong-weishenme-yuelaiyue-lei-594bf8ad2a57f9c85fe5c47c73d71461
   - jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr
-last_updated: 2026-11-05
+  - kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q
+last_updated: 2026-11-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ The labor report adds the operating underside of standardization. Former manager
 
 Singapore is the first substantial overseas operating test in the bounded evidence. The latest source reports more than 100 locations and calls Luckin the market's second-largest coffee chain by store count, but the transferability of that experience to other countries remains unproven.
 
+Packaged retail is another boundary test. Luckin is reported among store-born beverage brands placing bottled products into supermarkets. This may extend occasions and geography beyond stores, but the evidence supplies no product-level sales or margin data and does not show that store-network scale transfers into distributor, shelf, inventory, or expiry-management capability.
+
 ## Key Characteristics
 
 - Large store density and a mature membership system support convenience and customer retention in office markets.
@@ -34,6 +37,7 @@ Singapore is the first substantial overseas operating test in the bounded eviden
 - Tea-drink competitors and lower-price coffee chains challenge category boundaries and value perception.
 - Data-driven scheduling and operational control can centralize decisions while shifting omitted work and forecast risk onto frontline staff.
 - A reported 100-plus-store Singapore network gives Luckin an overseas template, without yet establishing cross-market repeatability.
+- Bottled supermarket products test whether brand recognition and beverage development can travel beyond Luckin's own store and membership system.
 
 ## Evidence
 
@@ -57,9 +61,13 @@ Singapore is the first substantial overseas operating test in the bounded eviden
 - [[jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr]] reports nearly RMB 18 billion in third-quarter revenue, more than 2,500 quarterly openings, and a network approaching 39,000 stores.
 - [[jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr]] says reduced delivery subsidies shifted some volume toward pickup, self-operated store margin largely recovered, and Singapore exceeded 100 stores.
 
+### Packaged retail extension
+
+- [[kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q]] places Luckin among freshly made beverage brands introducing bottled products through supermarket channels.
+
 ## Qualifications
 
-The business-news sources supply source-dated store counts, growth, margins, market rankings, and competitive interpretations rather than audited current company data. Store count does not establish same-store health or return on invested capital, and Singapore scale does not establish profitability or transferability to other countries. The labor episode relies mainly on former managers and employees and provides no system documentation, company response, representative payroll analysis, or network-wide comparison. It supports scrutiny of a reported operating failure mode, not a conclusion that every Luckin store or automated decision produces unpaid labor.
+The business-news sources supply source-dated store counts, growth, margins, market rankings, launches, and competitive interpretations rather than audited current company data. Store count does not establish same-store health or return on invested capital, Singapore scale does not establish profitability or transferability to other countries, and a bottled-product launch does not establish sell-through or packaged-channel competence. The labor episode relies mainly on former managers and employees and provides no system documentation, company response, representative payroll analysis, or network-wide comparison. It supports scrutiny of a reported operating failure mode, not a conclusion that every Luckin store or automated decision produces unpaid labor.
 
 ## What Changed
 
@@ -67,6 +75,7 @@ The business-news sources supply source-dated store counts, growth, margins, mar
 - Integrated frontline scheduling, hidden work, and manager-discretion risks into the existing scale-and-standardization profile.
 - Distinguished reported worker experiences from network-wide or audited company findings.
 - Added the later near-39,000-store snapshot, reported margin recovery, and Singapore operating test.
+- Added bottled supermarket products as a qualified extension beyond the store network.
 
 ## Relationships
 
@@ -78,3 +87,5 @@ The business-news sources supply source-dated store counts, growth, margins, mar
 - [[AlgorithmicWorkforceScheduling]] - captures the reported labor-allocation system inside store operations.
 - [[ManagerDiscretionUnderAutomation]] - explains how centralized systems can narrow store-level authority.
 - [[GlobalProductLocalization]] - frames the unresolved transfer from Singapore experience to other overseas markets.
+- [[FreshBeverageBrandBottledExpansion]] - frames the unresolved transfer from store scale into packaged retail.
+- [[PackagedBeverageChannelOperations]] - identifies distributor and inventory capabilities not established by Luckin's store network.

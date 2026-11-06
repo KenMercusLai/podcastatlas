@@ -2012,7 +2012,7 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-11-05",
       "latest_episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
-      "source_note_count": 64,
+      "source_note_count": 65,
       "topic_matched_source_note_count": 32,
       "topics": [
         {
@@ -2064,6 +2064,13 @@
           "episode_count": 4
         },
         {
+          "key": "LuckinCoffee",
+          "title": "Luckin Coffee / 瑞幸咖啡",
+          "url": "/wiki/entities/luckincoffee/",
+          "kind": "organization",
+          "episode_count": 4
+        },
+        {
           "key": "Xiaomi",
           "title": "Xiaomi",
           "url": "/wiki/entities/xiaomi/",
@@ -2081,13 +2088,6 @@
           "key": "Adidas",
           "title": "Adidas",
           "url": "/wiki/entities/adidas/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "Alibaba",
-          "title": "Alibaba",
-          "url": "/wiki/entities/alibaba/",
           "kind": "organization",
           "episode_count": 3
         }

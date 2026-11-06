@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11039
+wiki_total_pages: 11041
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "PackagedWaterPriceWar"
     title: "Packaged Water Price War"
     url: "/wiki/concepts/packagedwaterpricewar/"
+  - key: "PackagedBeverageChannelOperations"
+    title: "Packaged-Beverage Channel Operations / 瓶装饮料渠道运营"
+    url: "/wiki/concepts/packagedbeveragechanneloperations/"
   - key: "PackagingAsProductExperience"
     title: "Packaging As Product Experience"
     url: "/wiki/concepts/packagingasproductexperience/"

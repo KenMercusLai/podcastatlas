@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？](sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q.md) — 声动早咖啡从增长放缓、供应链复用、代工产能与零售共创解释现制饮品品牌瓶装化，并限定同质化和渠道运营风险。
 - [AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634.md) — Tomorrow Today interview on Technovation's learner-centered accelerator, women's AI participation, mentorship, local problem solving, entry-level work, and safety through informed building.
 - [#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目](sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80.md) — 声东击西十周年访谈回顾食物学堂从三年制专业训练转向一年学习加两年支持，以职业认知、真实责任、相对优势、主体性与自立替代文凭、对口就业和阶层跃迁承诺。
 - [Forever young: the business of longevity drugs](sources/c46ed825801a2b1bd8e16069674e07e0-c46ed825801a2b1bd8e16069674e07e0mp3aid6aec4fff51ac9ecbba3b7818chidd556eb54-6160-4.md) — Economist Podcasts on disease-first longevity drug development, correction of an Afghan sexual-offence conviction statistic, and miniature craft as analogue world-building.
@@ -4958,6 +4959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟](sources/lsehilqpxbu9hutqm87jyfejx6wy.md) — 怪东西并置皮莱茨基与于天放的潜入、囚中组织、长期观察、情报、越狱和战后迫害，将逃生解释为不完整但持续的抵抗。
 
 ## Entities
+- [Nayuki / 奈雪的茶](entities/Nayuki.md) — 以早期瓶装气泡水试验和商超规格、价格适配展示现制茶饮品牌的渠道延伸。
 - [Tara Chklovski](entities/TaraChklovski.md) — Technovation founder and CEO framing entrepreneurship projects as training in agency, uncertainty, inclusion, and informed AI participation.
 - [Technovation](entities/Technovation.md) — Youth accelerator using local problems, mentors, entrepreneurship methods, and technology projects to develop learner agency.
 - [欧阳艳琴 / Ouyang Yanqin](entities/OuyangYanqin.md) — Former investigative journalist and Food School founder whose education model shifted from fixed specialties toward agency, occupational reality, and supported self-reliance.
@@ -18962,6 +18964,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Northeast Anti-Japanese United Army / 东北抗日联军](entities/NortheastAntiJapaneseUnitedArmy.md) — Armed and clandestine resistance movement represented through Yu Tianfang's Heilongjiang struggle, capture, and escape.
 
 ## Concepts
+- [Fresh-Beverage Brand Bottled Expansion / 现制饮品品牌瓶装化](concepts/FreshBeverageBrandBottledExpansion.md) — 现制茶饮与咖啡品牌借瓶装产品延伸消费场景、地域和零售渠道的长期能力测试。
+- [Packaged-Beverage Channel Operations / 瓶装饮料渠道运营](concepts/PackagedBeverageChannelOperations.md) — 瓶装饮料在经销返利、商超谈判、库存临期、规格定制与渠道冲突上的运营体系。
 - [Project-Based Entrepreneurship Education](concepts/ProjectBasedEntrepreneurshipEducation.md) — Real-problem learning model using user contact, iteration, deadlines, and public delivery to develop agency beyond venture success.
 - [Participatory AI Safety](concepts/ParticipatoryAISafety.md) — Safety position joining informed building and affected-group participation to access controls, governance, technical evaluation, and the option to refuse.
 - [Self-Reliance-Oriented Education / 自立导向教育](concepts/SelfRelianceOrientedEducation.md) — Relational education-to-work approach centered on livelihood, agency, help-seeking, responsibility, and revisable career beginnings rather than guaranteed credentials or placement.

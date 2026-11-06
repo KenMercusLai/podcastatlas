@@ -34868,6 +34868,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/bostonteaparty/"
     },
+    "BottledBeverageDemandPressure": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/bottledbeveragedemandpressure/"
+    },
     "BottledWaterChannelFragmentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -109038,6 +109061,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/freshallergysafeproductionscaling/"
     },
+    "FreshBeverageBrandBottledExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/freshbeveragebrandbottledexpansion/"
+    },
     "FreshGroceryEcommerceEconomics": {
       "episode_count": 3,
       "show_count": 3,
@@ -122719,6 +122758,29 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/gulfstabilityrisk/"
     },
+    "Guming": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/guming/"
+    },
     "GunpowderPlot": {
       "episode_count": 2,
       "show_count": 1,
@@ -132259,6 +132321,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/heycoffee/"
+    },
+    "HeyTea": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起 [3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d].md",
+          "key": "e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d",
+          "show": "硅谷101",
+          "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+          "url": "/wiki/sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d/"
+        },
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/heytea/"
     },
     "Hi3D": {
       "episode_count": 1,
@@ -184514,9 +184599,9 @@
       "url": "/wiki/entities/luciuscorneliussulla/"
     },
     "LuckinCoffee": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -184552,9 +184637,16 @@
           "show": "声动早咖啡",
           "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
           "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
+        },
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
         }
       ],
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "url": "/wiki/entities/luckincoffee/"
     },
     "LuckyMoneyFilm1937": {
@@ -208021,6 +208113,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/navierstokesequations/"
     },
+    "Nayuki": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/nayuki/"
+    },
     "NaziDomesticAndYouthSocialization": {
       "episode_count": 1,
       "show_count": 1,
@@ -219698,6 +219806,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/pacingthefrontier/"
+    },
+    "PackagedBeverageChannelOperations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/packagedbeveragechanneloperations/"
     },
     "PackagedHospitality": {
       "episode_count": 1,
@@ -269017,9 +269141,9 @@
       "url": "/wiki/concepts/slowwavesleeprestoration/"
     },
     "SmallBatchBeverageMarketEntry": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
@@ -269027,9 +269151,16 @@
           "show": "Planet Money",
           "title": "Where all those weird new drinks are coming from",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
+        },
+        {
+          "episode_file": "GKwRIJIOwisWAHe8WgT2Vl4q [GKwRIJIOwisWAHe8WgT2Vl4q].md",
+          "key": "kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+          "url": "/wiki/sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/smallbatchbeveragemarketentry/"
     },
     "SmallBrainActionLayer": {

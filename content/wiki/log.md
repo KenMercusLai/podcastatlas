@@ -38632,3 +38632,11 @@ Added source `lsehilqpxbu9hutqm87jyfejx6wy`; created [[WitoldPilecki]], [[YuTian
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | 咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？
+
+Added source `kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q`; created [[Nayuki|奈雪的茶]], [[FreshBeverageBrandBottledExpansion|现制饮品品牌瓶装化]], and [[PackagedBeverageChannelOperations|瓶装饮料渠道运营]]; resynthesized [[HeyTea|喜茶]], [[Guming|古茗]], [[LuckinCoffee|瑞幸咖啡]], [[BottledBeverageDemandPressure]], and [[SmallBatchBeverageMarketEntry]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: slower store-led growth makes packaged products attractive, but durable transfer depends on product and supply-chain capabilities that survive the format change; idle contract-manufacturing capacity lowers entry cost; and warehouse clubs, value retailers, and supermarkets accelerate reach while imposing price, specification, inventory, expiry, and channel-conflict obligations. No settled contradiction was adopted. Market growth, recall costs, launches, margins, manufacturer and retailer motives, executive statements, store plans, overseas revenue, election effects, stock moves, and chip-development timelines remain episode-scoped because the supplied file is a structured summary rather than a transcript, filing set, sell-through dataset, contract record, election analysis, or engineering audit. Broad [[Aldi]], [[Weilong]], AI-company, chip-company, retailer, and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,842 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
