@@ -38680,3 +38680,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | 514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起
+
+Added source `lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e`; created [[KarlBenz|卡尔·本茨]], [[PopeSylvesterII|教皇西尔维斯特二世]], [[TravelAutonomy|旅行自主性]], and [[PilgrimageTravelInfrastructure|朝圣旅行基础设施]]; and resynthesized [[GrandTourCulture]], [[ModernMassTourism]], [[RailwayEnabledSocialTransformation]], and [[ModernTimeDiscipline]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: transport history changes not only speed and range but the distribution of control over departure, routes, stops, and time; pilgrimage supplied route, shelter, identity, and group protection without being equivalent to modern leisure; railways widened access while coordinating it through timetables; and mass automobile travel required roads, purchasing power, leisure, and a wider consuming class as well as invention. No settled contradiction was adopted. Rail schedules enable mobility as well as discipline, automobile autonomy remains constrained by roads, law, cost, congestion, and unequal access, and the episode's medieval travel ranges, speeds, vehicle counts, artistic readings, chronology, motives, and long-run causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript or transport-history dataset. Broad [[HuzuoHuyou|忽左忽右]], [[LordByron|拜伦]], [[KaiserWilhelmII|威廉二世]], [[ThomasCook]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,848 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

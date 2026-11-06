@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11049
+wiki_total_pages: 11051
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "TravelAgentResilience"
     title: "Travel Agent Resilience"
     url: "/wiki/concepts/travelagentresilience/"
+  - key: "TravelAutonomy"
+    title: "Travel Autonomy / 旅行自主性"
+    url: "/wiki/concepts/travelautonomy/"
   - key: "TravelBookingHiddenFees"
     title: "Travel Booking Hidden Fees"
     url: "/wiki/concepts/travelbookinghiddenfees/"

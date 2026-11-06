@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起](sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e.md) — 忽左忽右从中世纪朝圣、贵族壮游与铁路郊游追到汽车旅行，区分交通可达性、时刻表纪律与个人路线自主。
 - [“Britain is back”: an interview with Andy Burnham](sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4.md) — Economist Podcasts on Burnham's foreign-policy reset, Ukraine's demographic-reconstruction trap, and Dolores Huerta's labour legacy alongside accountability for Cesar Chavez.
 - [从抖音到红果短剧，我们为什么开始争论“字节时间”？](sources/99e9bb96133f-99e9bb96133f.md) — 科技乱炖从“字节时间”数据争议连接移动端注意力、抖音消费转化、红果免费短剧、投流与AI供给，并追问平台规模对应的创作者和公共责任。
 - [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0.md) — LateTalk从二级市场视角连接Anthropic客户扩张、云渠道、单位算力收入、合同期限、现金流和IPO估值风险。
@@ -4965,6 +4966,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [Karl Benz / 卡尔·本茨](entities/KarlBenz.md) — Automobile pioneer used to distinguish early personally controlled motor travel from the later infrastructure and consumer capacity of mass automobility.
+- [Pope Sylvester II / 教皇西尔维斯特二世](entities/PopeSylvesterII.md) — Medieval scholar-traveler whose risky search for dispersed learning generated both knowledge circulation and magician legend.
 - [Dolores Huerta](entities/DoloresHuerta.md) — United Farm Workers co-founder and negotiator whose achievement, gendered exclusion, victimization, and movement-protective silence require a non-simplifying account.
 - [Cesar Chavez](entities/CesarChavez.md) — United Farm Workers leader whose movement role is assessed alongside episode-reported sexual-violence allegations and contested public memory.
 - [United Farm Workers](entities/UnitedFarmWorkers.md) — Farm-worker union joining strikes, boycotts, negotiation, and legal gains to unresolved questions of gendered credit and abuse accountability.
@@ -18979,6 +18982,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Travel Autonomy / 旅行自主性](concepts/TravelAutonomy.md) — Degree of traveler control over departure, route, stops, pace, companions, and revisions, distinguished from speed or destination access alone.
+- [Pilgrimage Travel Infrastructure / 朝圣旅行基础设施](concepts/PilgrimageTravelInfrastructure.md) — Sacred destinations, routes, shelter, signs, shared identity, and groups that make long-distance pilgrimage more legible and survivable.
 - [Ukraine Wartime Demographic-Reconstruction Trap](concepts/UkraineWartimeDemographicReconstructionTrap.md) — Feedback loop joining pre-war decline, invasion losses, refugee settlement, labour shortage, and the increased workforce demands of rebuilding.
 - [Movement Achievement and Abuse Accountability](concepts/MovementAchievementAbuseAccountability.md) — Framework preserving collective gains while confronting leader abuse, institutional sexism, victim silencing, and distorted public credit.
 - [Platform Attention Responsibility / 平台注意力责任](concepts/PlatformAttentionResponsibility.md) — 将平台占用的公共时间与广告、电商、创作者分配、未成年人保护及基础设施级公共责任连接起来的治理框架。

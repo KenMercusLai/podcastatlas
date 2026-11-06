@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11049
+wiki_total_pages: 11051
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "PilgrimageAsSocialReconnection"
     title: "Pilgrimage as Social Reconnection"
     url: "/wiki/concepts/pilgrimageassocialreconnection/"
+  - key: "PilgrimageTravelInfrastructure"
+    title: "Pilgrimage Travel Infrastructure / 朝圣旅行基础设施"
+    url: "/wiki/concepts/pilgrimagetravelinfrastructure/"
   - key: "PiracyPrivateeringBoundary"
     title: "Piracy-Privateering Boundary"
     url: "/wiki/concepts/piracyprivateeringboundary/"

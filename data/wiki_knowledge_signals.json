@@ -120485,9 +120485,9 @@
       "url": "/wiki/concepts/grainreservesasstatecapacity/"
     },
     "GrandTourCulture": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3921798295 [GLT3921798295].md",
@@ -120509,9 +120509,16 @@
           "show": "The Rest Is History",
           "title": "651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)",
           "url": "/wiki/sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808/"
+        },
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/grandtourculture/"
     },
     "GraphNeuralNetworks": {
@@ -162497,6 +162504,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/karissabodnar/"
     },
+    "KarlBenz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/karlbenz/"
+    },
     "KarlDeisseroth": {
       "episode_count": 2,
       "show_count": 1,
@@ -201970,9 +201993,9 @@
       "url": "/wiki/concepts/moderndisciplinaryfragmentation/"
     },
     "ModernMassTourism": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -201994,9 +202017,16 @@
           "show": "The Rest Is History",
           "title": "221. Holidays: Byron's Grand Tour",
           "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        },
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
@@ -202122,6 +202152,29 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/modernsportinstitutionalization/"
+    },
+    "ModernTimeDiscipline": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "02026-akomolafe-podcast-v3 [02026-akomolafe-podcast-v3].md",
+          "key": "bayo-akomolafe-the-untimely-cenyca-k7ry",
+          "show": "Long Now",
+          "title": "Bayo Akomolafe: The Untimely",
+          "url": "/wiki/sources/bayo-akomolafe-the-untimely-cenyca-k7ry/"
+        },
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/moderntimediscipline/"
     },
     "Moderna": {
       "episode_count": 5,
@@ -228234,6 +228287,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/pilgrimageassocialreconnection/"
     },
+    "PilgrimageTravelInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/pilgrimagetravelinfrastructure/"
+    },
     "PiltdownMan": {
       "episode_count": 1,
       "show_count": 1,
@@ -231271,6 +231340,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/popesixtusiv/"
+    },
+    "PopeSylvesterII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/popesylvesterii/"
     },
     "Popeyes": {
       "episode_count": 1,
@@ -242887,9 +242972,9 @@
       "url": "/wiki/concepts/railnetworkservicerevenue/"
     },
     "RailwayEnabledSocialTransformation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2177757841 [GLT2177757841].md",
@@ -242897,9 +242982,16 @@
           "show": "The Rest Is History",
           "title": "140. The Birth of the Railways",
           "url": "/wiki/sources/140-the-birth-of-the-railways-glt2177757841/"
+        },
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/railwayenabledsocialtransformation/"
     },
     "RainExposureFootCareBoundary": {
@@ -294747,6 +294839,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/travelagencyitineraryoperations/"
+    },
+    "TravelAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmJSUKMFOAeb_6B0_nDO2aS7OV8E [lmJSUKMFOAeb_6B0_nDO2aS7OV8E].md",
+          "key": "lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e",
+          "show": "忽左忽右",
+          "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+          "url": "/wiki/sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/travelautonomy/"
     },
     "TravelThrombosisPrevention": {
       "episode_count": 2,

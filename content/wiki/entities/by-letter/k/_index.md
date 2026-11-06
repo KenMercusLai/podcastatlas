@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13926
+wiki_total_pages: 13928
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "KarissaBodnar"
     title: "Karissa Bodnar"
     url: "/wiki/entities/karissabodnar/"
+  - key: "KarlBenz"
+    title: "Karl Benz / 卡尔·本茨"
+    url: "/wiki/entities/karlbenz/"
   - key: "KarlDeisseroth"
     title: "Karl Deisseroth"
     url: "/wiki/entities/karldeisseroth/"

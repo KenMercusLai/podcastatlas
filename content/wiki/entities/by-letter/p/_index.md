@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 13926
+wiki_total_pages: 13928
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "PopeSixtusIV"
     title: "Pope Sixtus IV"
     url: "/wiki/entities/popesixtusiv/"
+  - key: "PopeSylvesterII"
+    title: "Pope Sylvester II / 教皇西尔维斯特二世"
+    url: "/wiki/entities/popesylvesterii/"
   - key: "Popeyes"
     title: "Popeyes"
     url: "/wiki/entities/popeyes/"

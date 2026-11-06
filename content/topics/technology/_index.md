@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3750
+topic_total_pages: 3751
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3955,6 +3955,9 @@ topic_concepts:
   - key: "PhysicsGroundedQuantumSecurity"
     title: "Physics-Grounded Quantum Security"
     url: "/wiki/concepts/physicsgroundedquantumsecurity/"
+  - key: "PilgrimageTravelInfrastructure"
+    title: "Pilgrimage Travel Infrastructure / 朝圣旅行基础设施"
+    url: "/wiki/concepts/pilgrimagetravelinfrastructure/"
   - key: "PiratedStreamingBoxMalware"
     title: "Pirated Streaming Box Malware"
     url: "/wiki/concepts/piratedstreamingboxmalware/"
