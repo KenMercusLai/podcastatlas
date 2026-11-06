@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13919
+wiki_total_pages: 13922
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "TonleSapLake"
     title: "Tonle Sap Lake / 洞里萨湖"
     url: "/wiki/entities/tonlesaplake/"
+  - key: "TonyXiaoHaiTranslator"
+    title: "Tony (translator of Xiaohai)"
+    url: "/wiki/entities/tonyxiaohaitranslator/"
   - key: "TonyACRCloud"
     title: "Tony / ACR Cloud"
     url: "/wiki/entities/tonyacrcloud/"

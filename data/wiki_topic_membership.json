@@ -28461,6 +28461,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CreativeSelfPreservationUnderRepetitiveLabor": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CreativityAsFeltProcess": [
     {
       "key": "culture",
@@ -98370,6 +98377,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "WorkerArtistIdentityReduction": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "WorkerBaseModelRouting": [
     {
       "key": "technology",
@@ -100684,6 +100698,13 @@
     }
   ],
   "YiGeAfuhanNvrenDeLaixin": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "YiKuaiGunShiBook": [
     {
       "key": "culture",
       "label": "Culture",

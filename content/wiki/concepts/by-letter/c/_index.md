@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11044
+wiki_total_pages: 11046
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2909,6 +2909,9 @@ wiki_pages:
   - key: "CreativeRiskAvoidanceCulture"
     title: "Creative Risk-Avoidance Culture"
     url: "/wiki/concepts/creativeriskavoidanceculture/"
+  - key: "CreativeSelfPreservationUnderRepetitiveLabor"
+    title: "Creative Self-Preservation Under Repetitive Labor / 重复劳动中的创作性自我保存"
+    url: "/wiki/concepts/creativeselfpreservationunderrepetitivelabor/"
   - key: "CreativeSpine"
     title: "Creative Spine"
     url: "/wiki/concepts/creativespine/"

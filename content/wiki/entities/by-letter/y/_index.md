@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 13919
+wiki_total_pages: 13922
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "YiQieJieQiyue"
     title: "《一切皆契约》"
     url: "/wiki/entities/yiqiejieqiyue/"
+  - key: "YiKuaiGunShiBook"
+    title: "《一块滚石》 / A Drift in the South"
+    url: "/wiki/entities/yikuaigunshibook/"
   - key: "YunnanWormValleyGhostBlowsOutTheLight"
     title: "《云南虫谷》 / Yunnan Worm Valley"
     url: "/wiki/entities/yunnanwormvalleyghostblowsoutthelight/"

@@ -4960,6 +4960,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Selling an AI SaaS Platform After 200 Buyers Called It Crazy](sources/2bbd2ffd.md) — The SaaS Podcast episode with David Zhu on Revo's integrated AI sales platform, failed all-at-once replacement pitch, modular adoption, target-market validation, and founder-led customer discovery.
 - [48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟](sources/lsehilqpxbu9hutqm87jyfejx6wy.md) — 怪东西并置皮莱茨基与于天放的潜入、囚中组织、长期观察、情报、越狱和战后迫害，将逃生解释为不完整但持续的抵抗。
 
+- [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
+
 ## Entities
 - [Li Zhaoyu / 李肇宇](entities/LiZhaoyu.md) — Episode-title identity for a long-short technology investor analyzing Anthropic through customer quality, compute economics, contract risk, and low-leverage long-horizon investing; the supplied body instead says “Rob Lee.”
 - [Nayuki / 奈雪的茶](entities/Nayuki.md) — 以早期瓶装气泡水试验和商超规格、价格适配展示现制茶饮品牌的渠道延伸。
@@ -18966,6 +18968,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Polish Home Army / 波兰家乡军](entities/PolishHomeArmy.md) — Occupied-Poland underground that received Pilecki's Auschwitz intelligence and led the 1944 Warsaw Uprising.
 - [Northeast Anti-Japanese United Army / 东北抗日联军](entities/NortheastAntiJapaneseUnitedArmy.md) — Armed and clandestine resistance movement represented through Yu Tianfang's Heilongjiang struggle, capture, and escape.
 
+- [小海 / Xiaohai (poet)](entities/XiaoHaiPoet.md) — 从工厂流水线写作走向双语自传与国际读者、同时拒绝被“打工诗人”标签穷尽的诗人与回忆录作者。
+- [Tony (translator of Xiaohai)](entities/TonyXiaoHaiTranslator.md) — 以事实核查、编辑协作和反简化阅读推动小海作品英文传播的译者；来源仅给出名字 Tony。
+- [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
+
 ## Concepts
 - [Fresh-Beverage Brand Bottled Expansion / 现制饮品品牌瓶装化](concepts/FreshBeverageBrandBottledExpansion.md) — 现制茶饮与咖啡品牌借瓶装产品延伸消费场景、地域和零售渠道的长期能力测试。
 - [Packaged-Beverage Channel Operations / 瓶装饮料渠道运营](concepts/PackagedBeverageChannelOperations.md) — 瓶装饮料在经销返利、商超谈判、库存临期、规格定制与渠道冲突上的运营体系。
@@ -30110,5 +30116,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Customer Expansion Quality](concepts/AICustomerExpansionQuality.md) — Cohort test separating diversified, ROI-backed production expansion from low-base retention, experiments, and shallow spending thresholds.
 - [AI Compute-Revenue Efficiency](concepts/AIComputeRevenueEfficiency.md) — Commercial measure connecting revenue per compute unit to utilization, workload value, accounting perimeter, and long-term obligations.
 - [AI Cloud-Channel Dependence](concepts/AICloudChannelDependence.md) — Reliance on cloud partners that bundle compute, financing, distribution, enterprise trust, integration, security, and customer access.
+
+- [Worker-Artist Identity Reduction / 工人艺术家身份简化](concepts/WorkerArtistIdentityReduction.md) — 当劳动身份从必要语境变成作品的完整解释与价值代理时产生的艺术家简化。
+- [Creative Self-Preservation Under Repetitive Labor / 重复劳动中的创作性自我保存](concepts/CreativeSelfPreservationUnderRepetitiveLabor.md) — 以阅读、写作、音乐、表演、友谊和有限时间自主在重复劳动中保存感知、记忆与能动性。
 
 ## Syntheses

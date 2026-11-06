@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11044
+wiki_total_pages: 11046
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "WorkerPhotographicArchive"
     title: "Worker Photographic Archive / 工人摄影档案"
     url: "/wiki/concepts/workerphotographicarchive/"
+  - key: "WorkerArtistIdentityReduction"
+    title: "Worker-Artist Identity Reduction / 工人艺术家身份简化"
+    url: "/wiki/concepts/workerartistidentityreduction/"
   - key: "WorkerBaseModelRouting"
     title: "Worker-Base Model Routing"
     url: "/wiki/concepts/workerbasemodelrouting/"

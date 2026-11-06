@@ -38656,3 +38656,11 @@ Added source `16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | “打工诗人”小海：做一块滚石，泥沙俱下，也不停下
+
+Added source `dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12`; created [[XiaoHaiPoet]], [[TonyXiaoHaiTranslator]], [[YiKuaiGunShiBook]], [[WorkerArtistIdentityReduction]], and [[CreativeSelfPreservationUnderRepetitiveLabor]]; and resynthesized [[BuHeShiYi]], [[WangQingBuHeShiYi]], and [[ZhangChuMusician]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: factory labor is indispensable context for Xiaohai's writing but does not exhaust his identity or literary value; reading, poetry, rock, performance, community, and limited control over time can preserve perception and agency without removing low income, unstable work, family expectations, or mobility constraints; and translation can connect foreign consumption to production while resisting hardship-only reception. No settled contradiction was adopted. Chronology, employment counts, publication decisions, version differences, reception patterns, remembered dialogue, and reader encounters remain episode-scoped because the supplied file is a structured summary rather than a transcript, book text, publisher archive, or reception study. Broader [[FactoryDisciplineAndSensoryNumbing]], [[SpiritualFreedomUnderConstraint]], [[PoetryAsEmotionalRelease]], [[LiteraryPublishingAsMaterialSupport]], and automatic `wiki/overview.md` pages were kept closed because focused new pages capture the changed judgments without reopening larger evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,845 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
