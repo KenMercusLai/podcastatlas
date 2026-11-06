@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“Britain is back”: an interview with Andy Burnham](sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4.md) — Economist Podcasts on Burnham's foreign-policy reset, Ukraine's demographic-reconstruction trap, and Dolores Huerta's labour legacy alongside accountability for Cesar Chavez.
 - [从抖音到红果短剧，我们为什么开始争论“字节时间”？](sources/99e9bb96133f-99e9bb96133f.md) — 科技乱炖从“字节时间”数据争议连接移动端注意力、抖音消费转化、红果免费短剧、投流与AI供给，并追问平台规模对应的创作者和公共责任。
 - [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0.md) — LateTalk从二级市场视角连接Anthropic客户扩张、云渠道、单位算力收入、合同期限、现金流和IPO估值风险。
 - [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063.md) — LateTalk与张璐从企业需求端拆解Anthropic招股书，连接工作流整合、客户扩张、开放与本地模型、受监管行业、推理成本和算力长约风险。
@@ -4964,6 +4965,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [Dolores Huerta](entities/DoloresHuerta.md) — United Farm Workers co-founder and negotiator whose achievement, gendered exclusion, victimization, and movement-protective silence require a non-simplifying account.
+- [Cesar Chavez](entities/CesarChavez.md) — United Farm Workers leader whose movement role is assessed alongside episode-reported sexual-violence allegations and contested public memory.
+- [United Farm Workers](entities/UnitedFarmWorkers.md) — Farm-worker union joining strikes, boycotts, negotiation, and legal gains to unresolved questions of gendered credit and abuse accountability.
 - [Li Zhaoyu / 李肇宇](entities/LiZhaoyu.md) — Episode-title identity for a long-short technology investor analyzing Anthropic through customer quality, compute economics, contract risk, and low-leverage long-horizon investing; the supplied body instead says “Rob Lee.”
 - [Nayuki / 奈雪的茶](entities/Nayuki.md) — 以早期瓶装气泡水试验和商超规格、价格适配展示现制茶饮品牌的渠道延伸。
 - [Tara Chklovski](entities/TaraChklovski.md) — Technovation founder and CEO framing entrepreneurship projects as training in agency, uncertainty, inclusion, and informed AI participation.
@@ -17587,7 +17591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sasha Nauta](entities/SashaNauta.md) — The Intelligence correspondent explaining Starmer's weak authority, delivery gap, and Labour pressure.
 - [Angela Rayner](entities/AngelaRayner.md) — Possible Labour successor discussed as plausible but damaged by tax-scandal questions.
 - [Wes Streeting](entities/WesStreeting.md) — Possible Labour successor discussed as weakened by Mandelson ties and party unpopularity.
-- [Andy Burnham](entities/AndyBurnham.md) — Labour successor and source-scoped prime-ministerial figure whose northern identity, devolution project, and accent carry political meaning.
+- [Andy Burnham](entities/AndyBurnham.md) — Source-scoped British prime minister linking northern identity and devolution to a Makerfield-tested foreign-policy reset across Europe, the Commonwealth, AI governance, and Ukraine.
 - [Lane Green](entities/LaneGreen.md) — The Intelligence language-politics voice explaining Andy Burnham's northern accent and British accent prestige.
 - [Ed Miliband](entities/EdMiliband.md) — Possible Labour successor whose route or plans are described as unclear.
 - [Kathy Hochul](entities/KathyHochul.md) — New York governor tied to the assisted-dying law and its extra safeguards.
@@ -18975,6 +18979,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Ukraine Wartime Demographic-Reconstruction Trap](concepts/UkraineWartimeDemographicReconstructionTrap.md) — Feedback loop joining pre-war decline, invasion losses, refugee settlement, labour shortage, and the increased workforce demands of rebuilding.
+- [Movement Achievement and Abuse Accountability](concepts/MovementAchievementAbuseAccountability.md) — Framework preserving collective gains while confronting leader abuse, institutional sexism, victim silencing, and distorted public credit.
 - [Platform Attention Responsibility / 平台注意力责任](concepts/PlatformAttentionResponsibility.md) — 将平台占用的公共时间与广告、电商、创作者分配、未成年人保护及基础设施级公共责任连接起来的治理框架。
 - [Fresh-Beverage Brand Bottled Expansion / 现制饮品品牌瓶装化](concepts/FreshBeverageBrandBottledExpansion.md) — 现制茶饮与咖啡品牌借瓶装产品延伸消费场景、地域和零售渠道的长期能力测试。
 - [Packaged-Beverage Channel Operations / 瓶装饮料渠道运营](concepts/PackagedBeverageChannelOperations.md) — 瓶装饮料在经销返利、商超谈判、库存临期、规格定制与渠道冲突上的运营体系。
@@ -28589,7 +28595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brexit Economic Friction](concepts/BrexitEconomicFriction.md) — Cumulative trade, GDP, finance, professional-qualification, and investment drag rather than a single immediate Brexit crash.
 - [Brexit Regulatory Dividend](concepts/BrexitRegulatoryDividend.md) — Hoped-for post-EU policy freedom that produced narrow flexibility but not the broad Singapore-on-Thames deregulation payoff.
 - [Post-Brexit Immigration Politics](concepts/PostBrexitImmigrationPolitics.md) — Tension between take-back-control migration rhetoric and later non-EU migration growth under Britain's post-Brexit system.
-- [Post-Brexit Strategic Identity](concepts/PostBrexitStrategicIdentity.md) — Question of what Britain is for after losing its EU bridge role, with AI, finance, farming, services, and defence as possible answers.
+- [Post-Brexit Strategic Identity](concepts/PostBrexitStrategicIdentity.md) — Britain's post-EU role problem, now tested through visible domestic benefit from Europe, the Commonwealth, security, AI rule-setting, and the Manchester G20.
 - [Gulf Stability Risk](concepts/GulfStabilityRisk.md) — Risk that war or unresolved diplomacy weakens the confidence behind Gulf finance, logistics, aviation, sovereign wealth, expatriate business, and Dubai safe-haven demand.
 - [Gulf Strategic Diversification](concepts/GulfStrategicDiversification.md) — Gulf investment shift toward resilience infrastructure, post-oil sectors, services, logistics, finance, advanced manufacturing, and commercial hubs.
 - [Plant Acoustic Signaling](concepts/PlantAcousticSignaling.md) — Plant sensing and sound-production frame where vibrations, ultrasonic stress signals, and microphones could inform crop monitoring and defenses.

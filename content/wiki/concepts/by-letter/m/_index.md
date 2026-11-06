@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11047
+wiki_total_pages: 11049
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"
+  - key: "MovementAchievementAbuseAccountability"
+    title: "Movement Achievement and Abuse Accountability"
+    url: "/wiki/concepts/movementachievementabuseaccountability/"
   - key: "MovementPracticeAsAwareness"
     title: "Movement Practice as Awareness"
     url: "/wiki/concepts/movementpracticeasawareness/"

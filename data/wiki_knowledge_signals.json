@@ -17723,9 +17723,9 @@
       "url": "/wiki/entities/anduril/"
     },
     "AndyBurnham": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "It’s not easy being Green： Zack Polanski [6a82d1a0ff328abd84724cf0].md",
@@ -17775,9 +17775,16 @@
           "show": "Economist Podcasts",
           "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
           "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        },
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-06",
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
@@ -44600,6 +44607,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/cervicalcurveposturemanagement/"
+    },
+    "CesarChavez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/cesarchavez/"
     },
     "CesarMillan": {
       "episode_count": 1,
@@ -77657,6 +77680,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/dollyparton/"
+    },
+    "DoloresHuerta": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/doloreshuerta/"
     },
     "DomCotton": {
       "episode_count": 1,
@@ -204143,6 +204182,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/mourningmingreading/"
     },
+    "MovementAchievementAbuseAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/movementachievementabuseaccountability/"
+    },
     "MovementPracticeAsAwareness": {
       "episode_count": 5,
       "show_count": 2,
@@ -232274,9 +232329,9 @@
       "url": "/wiki/concepts/postapartheidstructuralinequality/"
     },
     "PostBrexitStrategicIdentity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -232298,9 +232353,16 @@
           "show": "声东击西",
           "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
           "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        },
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/postbrexitstrategicidentity/"
     },
     "PostCnutEnglishSuccessionCrisis": {
@@ -297346,6 +297408,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/ukraine/"
     },
+    "UkraineWartimeDemographicReconstructionTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/ukrainewartimedemographicreconstructiontrap/"
+    },
     "UkrainianDefenseIndustrialScaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -298199,6 +298277,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/unitedarabemirates/"
+    },
+    "UnitedFarmWorkers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "c95e4ddf5ffa68db5ba8f492000ed582 [c95e4ddf5ffa68db5ba8f492000ed582.mp3？aid=6aedac35dabcb4d1f2d2092c&chid=d556eb54-6160-4.281].md",
+          "key": "c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "“Britain is back”: an interview with Andy Burnham",
+          "url": "/wiki/sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/unitedfarmworkers/"
     },
     "UnitedIrishmen": {
       "episode_count": 2,

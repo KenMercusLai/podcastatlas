@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 13923
+wiki_total_pages: 13926
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1884"
     title: "1884 United States Presidential Election"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "UnitedAutoWorkers"
     title: "United Auto Workers / UAW"
     url: "/wiki/entities/unitedautoworkers/"
+  - key: "UnitedFarmWorkers"
+    title: "United Farm Workers"
+    url: "/wiki/entities/unitedfarmworkers/"
   - key: "UnitedIrishmen"
     title: "United Irishmen"
     url: "/wiki/entities/unitedirishmen/"

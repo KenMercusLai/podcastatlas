@@ -10,14 +10,15 @@ sources:
   - a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c
   - in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e
   - slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a
-last_updated: 2026-08-27
+  - c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4
+last_updated: 2026-11-06
 knowledge_schema: synthesis-v1
 ---
 
 # Andy Burnham
 
 ## Overview
-Andy Burnham is a British Labour politician whose wiki profile tracks his move from possible [[LabourPartyUK]] successor to a source-scoped premiership timeline, plus the way his northern identity and accent carry political meaning. The sources treat him as both a governing-capacity test and a symbol of changing, but still class-coded, British authority.
+Andy Burnham is a British Labour politician whose wiki profile tracks his move from possible [[LabourPartyUK]] successor to a source-scoped premiership timeline, the way his northern identity and accent carry political meaning, and his later effort to turn domestic credibility into an international role. The sources treat him as a governing-capacity test and a symbol of changing, but still class-coded, British authority.
 
 ## Current Profile
 The Zack Polanski source uses Burnham as a comparison point for [[ZackPolanski]]'s Green pressure. Polanski says Burnham's current positioning would not exist if the [[GreenPartyOfEnglandAndWales]] were not doing well, making Burnham part of the episode's [[EcoPopulism]] and [[YouthPrecarityPolitics]] reading even though he is not the main subject.
@@ -30,12 +31,15 @@ The Bessent/water/accent episode adds a cultural-authority layer. [[LaneGreen]] 
 
 [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] treats Burnham's replacement of [[KeirStarmer]] as part of the background to [[NigelFarage]]'s risk calculation. The source says [[LabourPartyUK]] expects a popularity bounce from Burnham as prime minister, while [[ReformUK]] still remains strong nationally and especially in [[Clacton]].
 
+The November foreign-policy interview extends the premiership branch from domestic plans to international positioning. Burnham uses a “Makerfield test” to argue that diplomacy must remain legible to local voters, identifies Europe, the Commonwealth, and the Middle East as reset priorities, and treats the 2027 Manchester G20 as a delivery test. He proposes Britain as a U.S.-China broker on AI governance, commits continued support to [[Ukraine]], leaves open closer European integration or eventual Brexit reversal, and links Commonwealth renewal to qualified acknowledgment of Britain's historical role.
+
 ## Key Characteristics
 - Functions as a Labour succession figure whose path changes across sources from blocked alternative to by-election-backed favourite to source-scoped prime minister.
 - Carries Greater Manchester and northern identity into national politics, making devolution and regional credibility central to his brand.
 - Faces a governing-capacity test because popularity and party unity do not remove fiscal, migration, public-service, or manifesto constraints.
 - Serves as a foil for insurgent parties: Greens use him as evidence of left pressure, while Reform's Makerfield loss and Clacton strength show uneven right-populist exposure.
 - Represents a challenge to class-coded political sound through his northern accent and the episode's discussion of received-pronunciation prestige.
+- Frames foreign policy through domestic consequence while seeking a larger British role across Europe, the Commonwealth, AI governance, and European security.
 
 ## Evidence
 - Green pressure and positioning: [[its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0]] uses Burnham as a comparison point for Polanski's claim that Green momentum changes Labour positioning.
@@ -43,14 +47,15 @@ The Bessent/water/accent episode adds a cultural-authority layer. [[LaneGreen]] 
 - First-government constraints: [[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] links Burnham to [[Number10North]], cabinet choices, tax promises, migration uncertainty, and [[PoliticalDeliveryGap]].
 - Party competition: [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] uses Burnham's replacement of Starmer as background for Labour's expected bounce and Reform's continuing strength in [[Clacton]].
 - Accent and authority: [[slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a]] uses Burnham's northern accent to show that [[PoliticalAccentPrestige]] still affects perceptions of who sounds prime-ministerial.
+- Foreign-policy reset: [[c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4]] links the Makerfield test and Manchester G20 to Europe, the Commonwealth, China, the Middle East, and continued support for [[Ukraine]].
 
 ## Qualifications
-The Burnham timeline is source-scoped and internally tense. Older source notes dated 2026-06-22 and 2026-07-20 already move him into likely succession and then Downing Street, while the 2026-08-26 accent source still speaks prospectively about how Number 10 would sound if he arrived there. The wiki preserves the previous premiership branch and treats the new accent segment as evidence about class and voice, not as a chronology reset.
+The Burnham timeline is source-scoped and internally tense. Source notes dated 2026-06-22 and 2026-07-20 move him into likely succession and then Downing Street, while the 2026-08-26 accent source still speaks prospectively about how Number 10 would sound if he arrived there. The November interview is consistent with the premiership branch but supplies proposals and reported estimates rather than evidence that diplomatic goals, growth gains, peacekeeping conditions, or relationship resets will be achieved.
 
 ## What Changed
-- Migrated the page to synthesis-v1.
-- Added Burnham's northern accent as a political-authority signal through [[PoliticalAccentPrestige]].
-- Recorded the source-scoped chronology tension between the accent segment's prospective wording and earlier Burnham-as-prime-minister notes.
+- Added Burnham's foreign-policy programme and the Makerfield test linking diplomacy to domestic consequence.
+- Added Europe, the Commonwealth, AI governance, and support for Ukraine as international delivery tests.
+- Preserved the earlier source-scoped chronology tension while locating the new interview in the premiership branch.
 
 ## Relationships
 - [[LabourPartyUK]] - party context for Burnham's route and governing constraints.
@@ -61,3 +66,4 @@ The Burnham timeline is source-scoped and internally tense. Older source notes d
 - [[Number10North]] - Manchester office symbol tied to Burnham's regional governing claim.
 - [[PoliticalAccentPrestige]] - accent and class-authority concept added by the latest source.
 - [[LaneGreen]] - journalist explaining the accent-politics segment.
+- [[PostBrexitStrategicIdentity]] - role problem Burnham tries to answer through Europe, the Commonwealth, security, and rule-setting.

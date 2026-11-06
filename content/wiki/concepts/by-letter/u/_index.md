@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11047
+wiki_total_pages: 11049
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "UkraineMilitaryCommandReform"
     title: "Ukraine Military Command Reform"
     url: "/wiki/concepts/ukrainemilitarycommandreform/"
+  - key: "UkraineWartimeDemographicReconstructionTrap"
+    title: "Ukraine Wartime Demographic-Reconstruction Trap"
+    url: "/wiki/concepts/ukrainewartimedemographicreconstructiontrap/"
   - key: "UkrainianDefenseIndustrialScaling"
     title: "Ukrainian Defense-Industrial Scaling"
     url: "/wiki/concepts/ukrainiandefenseindustrialscaling/"
