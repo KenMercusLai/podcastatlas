@@ -1815,6 +1815,22 @@
       "updated": "2026-11-05",
       "url": "/wiki/concepts/aiclonerace/"
     },
+    "AICloudChannelDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "16de99b4-9940-4d7e-bd08-9ff0d4423df0 [16de99b4-9940-4d7e-bd08-9ff0d4423df0].md",
+          "key": "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0",
+          "show": "晚点聊 LateTalk",
+          "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+          "url": "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/aicloudchanneldependence/"
+    },
     "AICodingMarketConcentration": {
       "episode_count": 2,
       "show_count": 2,
@@ -2231,9 +2247,9 @@
       "url": "/wiki/concepts/aicomputebruteforcescience/"
     },
     "AIComputeCommitmentDurationMismatch": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "03e51cc1-020d-4c30-8c07-8f8614b46e7f [03e51cc1-020d-4c30-8c07-8f8614b46e7f].md",
@@ -2255,6 +2271,13 @@
           "show": "晚点聊 LateTalk",
           "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
           "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
+        },
+        {
+          "episode_file": "16de99b4-9940-4d7e-bd08-9ff0d4423df0 [16de99b4-9940-4d7e-bd08-9ff0d4423df0].md",
+          "key": "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0",
+          "show": "晚点聊 LateTalk",
+          "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+          "url": "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
         }
       ],
       "updated": "2026-11-06",
@@ -2289,6 +2312,22 @@
       ],
       "updated": "2026-10-17",
       "url": "/wiki/concepts/aicomputepricerisk/"
+    },
+    "AIComputeRevenueEfficiency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "16de99b4-9940-4d7e-bd08-9ff0d4423df0 [16de99b4-9940-4d7e-bd08-9ff0d4423df0].md",
+          "key": "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0",
+          "show": "晚点聊 LateTalk",
+          "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+          "url": "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/aicomputerevenueefficiency/"
     },
     "AIConsciousnessBoundary": {
       "episode_count": 3,
@@ -2593,6 +2632,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/aicreditaccessbias/"
+    },
+    "AICustomerExpansionQuality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "16de99b4-9940-4d7e-bd08-9ff0d4423df0 [16de99b4-9940-4d7e-bd08-9ff0d4423df0].md",
+          "key": "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0",
+          "show": "晚点聊 LateTalk",
+          "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+          "url": "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/aicustomerexpansionquality/"
     },
     "AICybersecurityValuationGap": {
       "episode_count": 1,
@@ -171844,6 +171899,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyunlatehan/"
+    },
+    "LiZhaoyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "16de99b4-9940-4d7e-bd08-9ff0d4423df0 [16de99b4-9940-4d7e-bd08-9ff0d4423df0].md",
+          "key": "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0",
+          "show": "晚点聊 LateTalk",
+          "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+          "url": "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/lizhaoyu/"
     },
     "LiZhilin": {
       "episode_count": 1,

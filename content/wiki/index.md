@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0.md) — LateTalk从二级市场视角连接Anthropic客户扩张、云渠道、单位算力收入、合同期限、现金流和IPO估值风险。
 - [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063.md) — LateTalk与张璐从企业需求端拆解Anthropic招股书，连接工作流整合、客户扩张、开放与本地模型、受监管行业、推理成本和算力长约风险。
 - [咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？](sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q.md) — 声动早咖啡从增长放缓、供应链复用、代工产能与零售共创解释现制饮品品牌瓶装化，并限定同质化和渠道运营风险。
 - [AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634.md) — Tomorrow Today interview on Technovation's learner-centered accelerator, women's AI participation, mentorship, local problem solving, entry-level work, and safety through informed building.
@@ -4960,6 +4961,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [48 越狱！逃离奥斯维辛集中营；抗联战士逃离魔窟](sources/lsehilqpxbu9hutqm87jyfejx6wy.md) — 怪东西并置皮莱茨基与于天放的潜入、囚中组织、长期观察、情报、越狱和战后迫害，将逃生解释为不完整但持续的抵抗。
 
 ## Entities
+- [Li Zhaoyu / 李肇宇](entities/LiZhaoyu.md) — Episode-title identity for a long-short technology investor analyzing Anthropic through customer quality, compute economics, contract risk, and low-leverage long-horizon investing; the supplied body instead says “Rob Lee.”
 - [Nayuki / 奈雪的茶](entities/Nayuki.md) — 以早期瓶装气泡水试验和商超规格、价格适配展示现制茶饮品牌的渠道延伸。
 - [Tara Chklovski](entities/TaraChklovski.md) — Technovation founder and CEO framing entrepreneurship projects as training in agency, uncertainty, inclusion, and informed AI participation.
 - [Technovation](entities/Technovation.md) — Youth accelerator using local problems, mentors, entrepreneurship methods, and technology projects to develop learner agency.
@@ -30105,5 +30107,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Integrated Platform, Modular Adoption](concepts/IntegratedPlatformModularAdoption.md) — Strategy of keeping a unified platform architecture while letting customers adopt one workflow or outcome at a time.
 - [Target-Market Validation](concepts/TargetMarketValidation.md) — Requirement that demand and adoption evidence reflect the intended segment's actual constraints rather than easier adjacent adopters alone.
 - [Escape as Resistance / 越狱作为抵抗](concepts/EscapeAsResistance.md) — Networked account of escape as survival, intelligence, organization, political refusal, and continued action rather than a self-contained technical feat.
+- [AI Customer Expansion Quality](concepts/AICustomerExpansionQuality.md) — Cohort test separating diversified, ROI-backed production expansion from low-base retention, experiments, and shallow spending thresholds.
+- [AI Compute-Revenue Efficiency](concepts/AIComputeRevenueEfficiency.md) — Commercial measure connecting revenue per compute unit to utilization, workload value, accounting perimeter, and long-term obligations.
+- [AI Cloud-Channel Dependence](concepts/AICloudChannelDependence.md) — Reliance on cloud partners that bundle compute, financing, distribution, enterprise trust, integration, security, and customer access.
 
 ## Syntheses

@@ -38648,3 +38648,11 @@ Added source `d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
+
+Added source `16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0`; created [[LiZhaoyu]], [[AICustomerExpansionQuality]], [[AIComputeRevenueEfficiency]], and [[AICloudChannelDependence]]; resynthesized [[AIComputeCommitmentDurationMismatch]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Anthropic's reported customer diversification and account expansion are encouraging but do not settle cohort maturity or enterprise ROI; revenue per compute unit must be reconciled with cloud-channel economics, cash-flow perimeter, and long commitments; and compute-contract risk depends on non-cancellable periods, termination rights, collateral, and customer-duration matching rather than nominal totals alone. No settled contradiction was adopted. The episode title's “Amont李肇宇” conflicts with the body name “Rob Lee,” so the wiki preserves that identity inconsistency instead of asserting a merge. Revenue, retention, concentration, channel-share, valuation, compute-efficiency, contract, cash, and market-response figures remain episode-scoped because the supplied file is a structured summary rather than a transcript, audited filing, customer cohort, or contract set. Broad [[Anthropic]], [[LateTalk]], valuation, revenue, and inference-cost pages were kept closed because focused pages capture the changed judgments without reopening larger evidence inventories. The automatic `wiki/overview.md` remained unchanged. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,844 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

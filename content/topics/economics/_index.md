@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2361
+topic_total_pages: 2364
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -145,9 +145,15 @@ topic_concepts:
   - key: "AIComputePriceRisk"
     title: "AI Compute Price Risk"
     url: "/wiki/concepts/aicomputepricerisk/"
+  - key: "AIComputeRevenueEfficiency"
+    title: "AI Compute-Revenue Efficiency"
+    url: "/wiki/concepts/aicomputerevenueefficiency/"
   - key: "AICreditAccessBias"
     title: "AI Credit Access Bias"
     url: "/wiki/concepts/aicreditaccessbias/"
+  - key: "AICustomerExpansionQuality"
+    title: "AI Customer Expansion Quality"
+    url: "/wiki/concepts/aicustomerexpansionquality/"
   - key: "AICybersecurityValuationGap"
     title: "AI Cybersecurity Valuation Gap"
     url: "/wiki/concepts/aicybersecurityvaluationgap/"
@@ -6216,6 +6222,9 @@ topic_sources:
   - key: "185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty"
     title: "185.复制市场，制造市场，成为市场：当 ETF 开始接管世界"
     url: "/wiki/sources/185-fuzhi-shichang-zhizao-shichang-chengwei-shichang-dang-etf-kaishi-jieguan-shijie-lgztikmynj2-j-pqfkj-hmdkrty/"
+  - key: "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0"
+    title: "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险"
+    url: "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
   - key: "lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave"
     title: "186.何为中国经济新范式？｜对话CF40研究院院长郭凯"
     url: "/wiki/sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave/"

@@ -1387,6 +1387,10 @@
     "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
     "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
   },
+  "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0": {
+    "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+    "url": "/wiki/sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0/"
+  },
   "17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565": {
     "title": "17.地狱变：众生皆苦，一念入魔",
     "url": "/wiki/sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565/"
@@ -5391,6 +5395,10 @@
     "title": "AI Clone Race / AI克隆竞速",
     "url": "/wiki/concepts/aiclonerace/"
   },
+  "AICloudChannelDependence": {
+    "title": "AI Cloud-Channel Dependence",
+    "url": "/wiki/concepts/aicloudchanneldependence/"
+  },
   "AIClusterNetworking": {
     "title": "AI Cluster Networking",
     "url": "/wiki/concepts/aiclusternetworking/"
@@ -5487,6 +5495,10 @@
     "title": "AI Compute Price Risk",
     "url": "/wiki/concepts/aicomputepricerisk/"
   },
+  "AIComputeRevenueEfficiency": {
+    "title": "AI Compute-Revenue Efficiency",
+    "url": "/wiki/concepts/aicomputerevenueefficiency/"
+  },
   "AIConsciousnessBoundary": {
     "title": "AI Consciousness Boundary",
     "url": "/wiki/concepts/aiconsciousnessboundary/"
@@ -5558,6 +5570,10 @@
   "AICreditAccessBias": {
     "title": "AI Credit Access Bias",
     "url": "/wiki/concepts/aicreditaccessbias/"
+  },
+  "AICustomerExpansionQuality": {
+    "title": "AI Customer Expansion Quality",
+    "url": "/wiki/concepts/aicustomerexpansionquality/"
   },
   "AICyberDefenseUtility": {
     "title": "AI Cyber-Defense Utility",
@@ -55174,6 +55190,10 @@
   "LiYunLateHan": {
     "title": "李云 / Li Yun (late Han)",
     "url": "/wiki/entities/liyunlatehan/"
+  },
+  "LiZhaoyu": {
+    "title": "Li Zhaoyu / 李肇宇",
+    "url": "/wiki/entities/lizhaoyu/"
   },
   "LiZhilin": {
     "title": "Li Zhilin / 李志林",

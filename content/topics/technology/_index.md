@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3746
+topic_total_pages: 3750
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -295,6 +295,9 @@ topic_concepts:
   - key: "AICloneRace"
     title: "AI Clone Race / AI克隆竞速"
     url: "/wiki/concepts/aiclonerace/"
+  - key: "AICloudChannelDependence"
+    title: "AI Cloud-Channel Dependence"
+    url: "/wiki/concepts/aicloudchanneldependence/"
   - key: "AIClusterNetworking"
     title: "AI Cluster Networking"
     url: "/wiki/concepts/aiclusternetworking/"
@@ -358,6 +361,9 @@ topic_concepts:
   - key: "AIComputePriceRisk"
     title: "AI Compute Price Risk"
     url: "/wiki/concepts/aicomputepricerisk/"
+  - key: "AIComputeRevenueEfficiency"
+    title: "AI Compute-Revenue Efficiency"
+    url: "/wiki/concepts/aicomputerevenueefficiency/"
   - key: "AIConsciousnessBoundary"
     title: "AI Consciousness Boundary"
     url: "/wiki/concepts/aiconsciousnessboundary/"
@@ -406,6 +412,9 @@ topic_concepts:
   - key: "AICreditAccessBias"
     title: "AI Credit Access Bias"
     url: "/wiki/concepts/aicreditaccessbias/"
+  - key: "AICustomerExpansionQuality"
+    title: "AI Customer Expansion Quality"
+    url: "/wiki/concepts/aicustomerexpansionquality/"
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"
@@ -7115,6 +7124,9 @@ topic_entities:
   - key: "LiXiangLiAuto"
     title: "Li Xiang / 李想 (Li Auto)"
     url: "/wiki/entities/lixiangliauto/"
+  - key: "LiZhaoyu"
+    title: "Li Zhaoyu / 李肇宇"
+    url: "/wiki/entities/lizhaoyu/"
   - key: "LiZhilin"
     title: "Li Zhilin / 李志林"
     url: "/wiki/entities/lizhilin/"

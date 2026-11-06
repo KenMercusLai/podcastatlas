@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11041
+wiki_total_pages: 11044
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "AICloneRace"
     title: "AI Clone Race / AI克隆竞速"
     url: "/wiki/concepts/aiclonerace/"
+  - key: "AICloudChannelDependence"
+    title: "AI Cloud-Channel Dependence"
+    url: "/wiki/concepts/aicloudchanneldependence/"
   - key: "AIClusterNetworking"
     title: "AI Cluster Networking"
     url: "/wiki/concepts/aiclusternetworking/"
@@ -926,6 +929,9 @@ wiki_pages:
   - key: "AIComputePriceRisk"
     title: "AI Compute Price Risk"
     url: "/wiki/concepts/aicomputepricerisk/"
+  - key: "AIComputeRevenueEfficiency"
+    title: "AI Compute-Revenue Efficiency"
+    url: "/wiki/concepts/aicomputerevenueefficiency/"
   - key: "AIConsciousnessBoundary"
     title: "AI Consciousness Boundary"
     url: "/wiki/concepts/aiconsciousnessboundary/"
@@ -977,6 +983,9 @@ wiki_pages:
   - key: "AICreditAccessBias"
     title: "AI Credit Access Bias"
     url: "/wiki/concepts/aicreditaccessbias/"
+  - key: "AICustomerExpansionQuality"
+    title: "AI Customer Expansion Quality"
+    url: "/wiki/concepts/aicustomerexpansionquality/"
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"

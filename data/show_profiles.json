@@ -2585,8 +2585,8 @@
       "earliest_episode_date": "2026-05-25",
       "latest_episode_date": "2026-11-06",
       "latest_episode_file": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
-      "source_note_count": 17,
-      "topic_matched_source_note_count": 16,
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 17,
       "topics": [
         {
           "key": "technology",
@@ -2598,7 +2598,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "politics",

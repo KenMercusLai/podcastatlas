@@ -2217,6 +2217,13 @@
       "url": "/topics/history/"
     }
   ],
+  "16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565": [
     {
       "key": "culture",
@@ -9348,6 +9355,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AICloudChannelDependence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIClusterNetworking": [
     {
       "key": "technology",
@@ -9554,6 +9568,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIComputeRevenueEfficiency": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIConsciousnessBoundary": [
     {
       "key": "technology",
@@ -9719,6 +9745,18 @@
     }
   ],
   "AICreditAccessBias": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "AICustomerExpansionQuality": [
     {
       "key": "technology",
       "label": "Technology",
@@ -57147,6 +57185,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LiZhaoyu": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LiZhilin": [

@@ -7,6 +7,7 @@ sources:
   - 03e51cc1-020d-4c30-8c07-8f8614b46e7f-03e51cc1-020d-4c30-8c07-8f8614b46e7f
   - allin-e295-ch-allin-e295-ch
   - d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063
+  - 16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0
 last_updated: 2026-11-06
 ---
 
@@ -23,6 +24,8 @@ The sources report that Anthropic has very large compute commitments extending t
 The newer sources add substantial reported cash and borrowing capacity, which can fund commitments but does not erase their duration. The central risk is not that AI demand must disappear. Slower demand growth, provider share loss, falling token prices, better open models, short model commercial lives, or a shift toward local and specialized inference can leave contracted capacity earning less than assumed.
 
 The latest episode adds a secondary-market and asset-vintage distinction. Some firms may be able to sublease unused capacity, but only at a discount and only when the contracted hardware, network, location, and workload remain useful. Total compute demand can therefore rise while an older GPU generation or poorly matched cluster loses value. Utilization, revenue per compute unit, liquidity runway, renewal duration, transfer rights, hardware generation, and workload fit must be judged together.
+
+The newest investor-side source makes contract topology more explicit. Nominal commitment value is less informative than the non-cancellable period, notice rights, collateral, termination triggers, supplier bargaining power, and whether revenue per compute unit improves fast enough. A contract that becomes cancellable after a fixed period differs materially from a rigid, secured obligation, even if both appear in the same headline total.
 
 ## Key Claims
 
@@ -43,16 +46,20 @@ The latest episode adds a secondary-market and asset-vintage distinction. Some f
 - **Constraint inventory:** [[allin-e295-ch-allin-e295-ch]] treats data-center availability, electricity, hardware, finance, and regulatory approval as linked parts of the same compute obligation.
 - **Sublease signal:** [[d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063]] reports that some mid-sized AI firms with three-to-five-year contracts have sought discounted capacity transfers after demand fell below plan.
 - **Asset-vintage risk:** [[d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063]] distinguishes continuing growth in total compute from depreciation or weak rental demand for older GPU generations.
+- **Contract topology:** [[16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0]] distinguishes contracts cancellable after a non-cancellable period and notice window from a reportedly more rigid Broadcom-linked obligation backed by guarantees and equipment collateral.
+- **Customer-duration gap:** [[16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0]] reports compute contracts extending as long as 20 years without matching customer purchase terms and compares the structure to long leases funded by shorter-duration revenue.
+- **Operating signal:** [[16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0]] adds revenue per compute unit and compute spend as a share of revenue as indicators that must improve over the obligation's life.
 
 ## Counterevidence & Qualifications
 
-The sources do not provide contracts, minimum-purchase clauses, cancellation rights, transfer terms, capacity timing, financing structure, depreciation schedules, or a clean distinction between firm commitments and planned investment. The newest sublease examples are guest accounts without named contracts or transaction data. Reported amounts may aggregate unlike obligations and differ across episodes. Scarcity, resale markets, growing demand, cash reserves, or renegotiation could reduce the mismatch, while direct infrastructure control could improve long-run margins.
+The sources do not provide the contracts, complete minimum-purchase clauses, verified cancellation rights, transfer terms, capacity timing, financing structure, depreciation schedules, or a clean distinction between firm commitments and planned investment. The sublease, cancellation, Broadcom, collateral, and twenty-year examples are episode or guest accounts rather than contract review. Reported amounts may aggregate unlike obligations and differ across episodes. Scarcity, resale markets, growing demand, cash reserves, or renegotiation could reduce the mismatch, while direct infrastructure control could improve long-run margins.
 
 ## What Changed
 
-- Added discounted subleasing as a partial, contract-dependent mitigation route.
-- Added GPU generation, network, location, and workload fit to the duration test.
-- Clarified that aggregate compute growth and individual asset depreciation can coexist.
+- Added non-cancellable periods, notice rights, collateral, and termination triggers to the contract-duration test.
+- Distinguished nominal commitment totals from the enforceable obligation under each contract's topology.
+- Added revenue per compute unit as an operating signal that must be evaluated across the commitment life.
+- Extended the observed customer-versus-compute duration gap to reported contracts lasting as long as 20 years.
 
 ## Related Concepts
 
