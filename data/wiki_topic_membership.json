@@ -71940,6 +71940,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PlatformAttentionResponsibility": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PlatformAuthorizationBoundary": [
     {
       "key": "technology",
@@ -75991,6 +75998,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "QinShuo": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "QinSi": [

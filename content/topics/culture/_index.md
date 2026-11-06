@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3623
+topic_total_pages: 3624
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8864,6 +8864,9 @@ topic_entities:
   - key: "QinZong"
     title: "秦总"
     url: "/wiki/entities/qinzong/"
+  - key: "QinShuo"
+    title: "秦朔 / Qin Shuo"
+    url: "/wiki/entities/qinshuo/"
   - key: "ChengFuren"
     title: "程夫人 / Madam Cheng"
     url: "/wiki/entities/chengfuren/"

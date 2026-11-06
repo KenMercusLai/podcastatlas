@@ -135776,9 +135776,9 @@
       "url": "/wiki/entities/hongguo/"
     },
     "HongguoShortDrama": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIW4OwNzzAErVcQT1rzsR [GKwRIW4OwNzzAErVcQT1rzsR].md",
@@ -135786,9 +135786,16 @@
           "show": "声动早咖啡",
           "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
           "url": "/wiki/sources/jinghu-gaotie-qiansanjidu-jingzhuan-baiyi-ruixing-cheng-xinjiapo-dierda-kafei-pinpai-gkwriw4ownzzaervcqt1rzsr/"
+        },
+        {
+          "episode_file": "99e9bb96133f [99e9bb96133f].md",
+          "key": "99e9bb96133f-99e9bb96133f",
+          "show": "科技乱炖",
+          "title": "从抖音到红果短剧，我们为什么开始争论“字节时间”？",
+          "url": "/wiki/sources/99e9bb96133f-99e9bb96133f/"
         }
       ],
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "url": "/wiki/entities/hongguoshortdrama/"
     },
     "HongjunSiliconValley101": {
@@ -170879,6 +170886,29 @@
       ],
       "updated": "2026-10-26",
       "url": "/wiki/entities/lileixiaomimimo/"
+    },
+    "LiLiang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集 [lvgLR_jWS7o7utJaUXnOQqaSJ91D].md",
+          "key": "touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d",
+          "show": "乱翻书",
+          "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
+          "url": "/wiki/sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d/"
+        },
+        {
+          "episode_file": "99e9bb96133f [99e9bb96133f].md",
+          "key": "99e9bb96133f-99e9bb96133f",
+          "show": "科技乱炖",
+          "title": "从抖音到红果短剧，我们为什么开始争论“字节时间”？",
+          "url": "/wiki/sources/99e9bb96133f-99e9bb96133f/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/liliang/"
     },
     "LiLingWesternHan": {
       "episode_count": 7,
@@ -228908,6 +228938,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/platformantitrust/"
     },
+    "PlatformAttentionResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "99e9bb96133f [99e9bb96133f].md",
+          "key": "99e9bb96133f-99e9bb96133f",
+          "show": "科技乱炖",
+          "title": "从抖音到红果短剧，我们为什么开始争论“字节时间”？",
+          "url": "/wiki/sources/99e9bb96133f-99e9bb96133f/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/platformattentionresponsibility/"
+    },
     "PlatformAuthorizationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -240949,6 +240995,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/qinqiangfeng/"
+    },
+    "QinShuo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "99e9bb96133f [99e9bb96133f].md",
+          "key": "99e9bb96133f-99e9bb96133f",
+          "show": "科技乱炖",
+          "title": "从抖音到红果短剧，我们为什么开始争论“字节时间”？",
+          "url": "/wiki/sources/99e9bb96133f-99e9bb96133f/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/qinshuo/"
     },
     "QinSi": {
       "episode_count": 2,
@@ -266107,6 +266169,50 @@
       ],
       "updated": "2026-10-27",
       "url": "/wiki/concepts/shortdramaoverseasexpansion/"
+    },
+    "ShortDramaPaidTrafficDistribution": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "EP240 “霸总甜宠”在海外：短剧出海的产业密码 [ltVXvfj5ko6DJhsjatipHdy-DzeK].md",
+          "key": "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek",
+          "show": "Talk三联",
+          "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+          "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+        },
+        {
+          "episode_file": "99e9bb96133f [99e9bb96133f].md",
+          "key": "99e9bb96133f-99e9bb96133f",
+          "show": "科技乱炖",
+          "title": "从抖音到红果短剧，我们为什么开始争论“字节时间”？",
+          "url": "/wiki/sources/99e9bb96133f-99e9bb96133f/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/concepts/shortdramapaidtrafficdistribution/"
     },
     "ShortDramaPlatformAggregation": {
       "episode_count": 2,

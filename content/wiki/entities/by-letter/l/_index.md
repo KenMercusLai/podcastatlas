@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13922
+wiki_total_pages: 13923
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -488,9 +488,6 @@ wiki_pages:
   - key: "LiLeiXiaomiMiMo"
     title: "Li Lei / 李磊（小米 MiMo）"
     url: "/wiki/entities/lileixiaomimimo/"
-  - key: "LiLiang"
-    title: "Li Liang"
-    url: "/wiki/entities/liliang/"
   - key: "LiLu"
     title: "Li Lu / 李璐"
     url: "/wiki/entities/lilu/"
@@ -1994,6 +1991,9 @@ wiki_pages:
   - key: "LiYunLateHan"
     title: "李云 / Li Yun (late Han)"
     url: "/wiki/entities/liyunlatehan/"
+  - key: "LiLiang"
+    title: "李亮 / Li Liang"
+    url: "/wiki/entities/liliang/"
   - key: "LiWeicong"
     title: "李伟聪 / Li Weicong"
     url: "/wiki/entities/liweicong/"

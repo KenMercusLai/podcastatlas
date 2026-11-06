@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11046
+wiki_total_pages: 11047
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "PlatformAntitrust"
     title: "Platform Antitrust"
     url: "/wiki/concepts/platformantitrust/"
+  - key: "PlatformAttentionResponsibility"
+    title: "Platform Attention Responsibility / 平台注意力责任"
+    url: "/wiki/concepts/platformattentionresponsibility/"
   - key: "PlatformAuthorizationBoundary"
     title: "Platform Authorization Boundary / 平台授权边界"
     url: "/wiki/concepts/platformauthorizationboundary/"

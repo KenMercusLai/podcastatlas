@@ -38664,3 +38664,11 @@ Added source `dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-l
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | 从抖音到红果短剧，我们为什么开始争论“字节时间”？
+
+Added source `99e9bb96133f-99e9bb96133f`; created [[QinShuo|秦朔]] and [[PlatformAttentionResponsibility|平台注意力责任]]; resynthesized [[HongguoShortDrama|红果短剧]] from its complete preserved evidence inventory; and migrated and resynthesized [[LiLiang|李亮]] and [[ShortDramaPaidTrafficDistribution]] before appending the new source once. Core synthesis: mobile usage time is not only a popularity measure when recommendation connects viewing, advertising, commerce, production tools, traffic buying, and creator settlement; Hongguo's free, ad-supported expansion lowers viewer payment friction while increasing dependence on platform allocation and payout rules; and responsibility should scale with infrastructural power to include sustainable creator economics, youth protection, content governance, and public-value uses of technology. No settled contradiction was adopted. The reported 40.9% ByteDance versus 29.1% Tencent usage-time comparison is disputed inside the episode, while platform motives, creator surplus extraction, content effects, regulatory fit, litigation, and future industry behavior remain episode-scoped because the supplied file is a structured digest rather than a transcript, platform dataset, contract set, court record, regulatory text, or causal evaluation. Broad [[ByteDance]], [[Douyin]], [[KejiLuandun]], the older overlapping [[Hongguo]] page, and automatic `wiki/overview.md` were kept closed because focused pages capture the changed judgments without reopening larger evidence inventories, merging canonical keys, or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,846 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

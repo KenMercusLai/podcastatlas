@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [从抖音到红果短剧，我们为什么开始争论“字节时间”？](sources/99e9bb96133f-99e9bb96133f.md) — 科技乱炖从“字节时间”数据争议连接移动端注意力、抖音消费转化、红果免费短剧、投流与AI供给，并追问平台规模对应的创作者和公共责任。
 - [185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](sources/16de99b4-9940-4d7e-bd08-9ff0d4423df0-16de99b4-9940-4d7e-bd08-9ff0d4423df0.md) — LateTalk从二级市场视角连接Anthropic客户扩张、云渠道、单位算力收入、合同期限、现金流和IPO估值风险。
 - [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063.md) — LateTalk与张璐从企业需求端拆解Anthropic招股书，连接工作流整合、客户扩张、开放与本地模型、受监管行业、推理成本和算力长约风险。
 - [咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？](sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q.md) — 声动早咖啡从增长放缓、供应链复用、代工产能与零售共创解释现制饮品品牌瓶装化，并限定同质化和渠道运营风险。
@@ -17379,7 +17380,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zynn](entities/Zynn.md) — Kuaishou overseas short-video app used as a cautionary red-packet growth and compliance-risk case.
 - [张一鸣 / Zhang Yiming](entities/ZhangYiming.md) — ByteDance founder whose 2018 exchange with Pony Ma anchors the Touteng War source.
 - [马化腾 / Pony Ma](entities/PonyMa.md) — Tencent founder whose reply to Zhang Yiming helped escalate the 2018 public conflict.
-- [李亮](entities/LiLiang.md) — ByteDance public-relations figure used in the Touteng source to show how PR history and legal conflict prolonged the dispute.
+- [李亮 / Li Liang](entities/LiLiang.md) — 字节跳动公关高管，连接头腾竞争、“字节时间”数据口径争议与后续名誉权冲突。
+- [秦朔 / Qin Shuo](entities/QinShuo.md) — 商业评论者，以“字节时间”框架引发移动端时长、平台权力、数据口径与名誉权争议。
 - [内涵段子](entities/NeihanDuanzi.md) — ByteDance content product whose 2018 shutdown set the regulatory backdrop for Douyin and the Touteng War.
 - [今日头条](entities/JinriToutiao.md) — ByteDance information-feed product used as the benchmark for Tencent's Tiantian Kuaibao.
 - [天天快报](entities/TiantianKuaibao.md) — Tencent information-feed product described as the closest Tencent response to Jinri Toutiao before missing the recommendation window.
@@ -18973,6 +18975,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Platform Attention Responsibility / 平台注意力责任](concepts/PlatformAttentionResponsibility.md) — 将平台占用的公共时间与广告、电商、创作者分配、未成年人保护及基础设施级公共责任连接起来的治理框架。
 - [Fresh-Beverage Brand Bottled Expansion / 现制饮品品牌瓶装化](concepts/FreshBeverageBrandBottledExpansion.md) — 现制茶饮与咖啡品牌借瓶装产品延伸消费场景、地域和零售渠道的长期能力测试。
 - [Packaged-Beverage Channel Operations / 瓶装饮料渠道运营](concepts/PackagedBeverageChannelOperations.md) — 瓶装饮料在经销返利、商超谈判、库存临期、规格定制与渠道冲突上的运营体系。
 - [Project-Based Entrepreneurship Education](concepts/ProjectBasedEntrepreneurshipEducation.md) — Real-problem learning model using user contact, iteration, deadlines, and public delivery to develop agency beyond venture success.

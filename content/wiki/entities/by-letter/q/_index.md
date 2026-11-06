@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 13922
+wiki_total_pages: 13923
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "QinZhaoxiangwang"
     title: "秦昭襄王 / King Zhaoxiang of Qin"
     url: "/wiki/entities/qinzhaoxiangwang/"
+  - key: "QinShuo"
+    title: "秦朔 / Qin Shuo"
+    url: "/wiki/entities/qinshuo/"
   - key: "QinLang"
     title: "秦朗 / Qin Lang"
     url: "/wiki/entities/qinlang/"

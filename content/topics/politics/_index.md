@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3461
+topic_total_pages: 3462
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3184,6 +3184,9 @@ topic_concepts:
   - key: "PlatformAntitrust"
     title: "Platform Antitrust"
     url: "/wiki/concepts/platformantitrust/"
+  - key: "PlatformAttentionResponsibility"
+    title: "Platform Attention Responsibility / 平台注意力责任"
+    url: "/wiki/concepts/platformattentionresponsibility/"
   - key: "PlatformCommunityGovernance"
     title: "Platform Community Governance"
     url: "/wiki/concepts/platformcommunitygovernance/"
