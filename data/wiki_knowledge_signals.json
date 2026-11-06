@@ -1455,9 +1455,9 @@
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
     "AIBacklashPolitics": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 5,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -1549,9 +1549,16 @@
           "show": "Marketplace Tech",
           "title": "Trump names his new AI task force the \"Super Intelligence Force\"",
           "url": "/wiki/sources/tech-20261009-1009-mp-tech-pod-128-tech-20261009-1009-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261106_1106_MP_TECH_pod_128 [tech_20261106_1106_MP_TECH_pod_128].md",
+          "key": "tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Data centers lost in the midterms",
+          "url": "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/aibacklashpolitics/"
     },
     "AIBenchmarkGaming": {
@@ -4068,9 +4075,9 @@
       "url": "/wiki/concepts/aiindustryselfregulation/"
     },
     "AIIndustrySuperPACPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
@@ -4078,9 +4085,16 @@
           "show": "Marketplace Tech",
           "title": "AI spending takes center stage ahead of midterms",
           "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261106_1106_MP_TECH_pod_128 [tech_20261106_1106_MP_TECH_pod_128].md",
+          "key": "tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Data centers lost in the midterms",
+          "url": "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/aiindustrysuperpacpolitics/"
     },
     "AIInevitabilityResponsibilityEvasion": {
@@ -69001,9 +69015,9 @@
       "url": "/wiki/concepts/datacenterairpermitparticipation/"
     },
     "DataCenterBacklash": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 5,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -69109,9 +69123,16 @@
           "show": "Marketplace Tech",
           "title": "AI spending takes center stage ahead of midterms",
           "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261106_1106_MP_TECH_pod_128 [tech_20261106_1106_MP_TECH_pod_128].md",
+          "key": "tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Data centers lost in the midterms",
+          "url": "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/datacenterbacklash/"
     },
     "DataCenterCommunityConsent": {
@@ -168604,9 +168625,9 @@
       "url": "/wiki/concepts/leadershipreplacementregressiontomean/"
     },
     "LeadingTheFuture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20261007_1007_MP_TECH_pod_128 [tech_20261007_1007_MP_TECH_pod_128].md",
@@ -168614,9 +168635,16 @@
           "show": "Marketplace Tech",
           "title": "AI spending takes center stage ahead of midterms",
           "url": "/wiki/sources/tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261106_1106_MP_TECH_pod_128 [tech_20261106_1106_MP_TECH_pod_128].md",
+          "key": "tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Data centers lost in the midterms",
+          "url": "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-11-06",
       "url": "/wiki/entities/leadingthefuture/"
     },
     "LeagueOfArmedNeutrality": {

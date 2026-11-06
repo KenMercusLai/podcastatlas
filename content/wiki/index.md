@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Data centers lost in the midterms](sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128.md) — Marketplace Tech links reported data-center ballot defeats and mixed technology-backed election spending to AI backlash, while separating near-term approved construction from longer-run political and demand risk.
 - [E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？](sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v.md) — 知行小酒馆与少楠把信息焦虑重构为答案丰裕下的决策焦虑，并以个人上下文和注意力承诺重估笔记、阅读、写作与 AI 反思。
 - [514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起](sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e.md) — 忽左忽右从中世纪朝圣、贵族壮游与铁路郊游追到汽车旅行，区分交通可达性、时刻表纪律与个人路线自主。
 - [“Britain is back”: an interview with Andy Burnham](sources/c95e4ddf5ffa68db5ba8f492000ed582-c95e4ddf5ffa68db5ba8f492000ed582mp3aid6aedac35dabcb4d1f2d2092cchidd556eb54-6160-4.md) — Economist Podcasts on Burnham's foreign-policy reset, Ukraine's demographic-reconstruction trap, and Dolores Huerta's labour legacy alongside accountability for Cesar Chavez.

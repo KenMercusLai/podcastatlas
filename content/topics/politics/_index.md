@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3462
+topic_total_pages: 3463
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9450,6 +9450,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830"
     title: "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+  - key: "tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128"
+    title: "Data centers lost in the midterms"
+    url: "/wiki/sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128/"
   - key: "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d"
     title: "Dhaka matters: an election for Bangladesh"
     url: "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"

@@ -38698,3 +38698,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | Data centers lost in the midterms
+
+Added source `tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128`; resynthesized [[DataCenterBacklash]], [[AIBacklashPolitics]], [[AIIndustrySuperPACPolitics]], and [[LeadingTheFuture]] from their preserved evidence inventories before appending the new source once. Core synthesis: reported ballot and candidate defeats strengthen the evidence that data-center burdens and explicit pro-AI funding can become electoral liabilities, but approved near-term projects, equipment backlogs, and continued product demand may delay the economic effect, while mixed technology and cryptocurrency spending outcomes prevent a clean causal claim about money. No settled contradiction was adopted. Jurisdiction counts, polling and capacity shares, spending totals, election effects, agency vacancies, and legislative forecasts remain source-scoped because the supplied document is a structured summary rather than the underlying ballots, campaign-finance records, or polling data.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,850 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

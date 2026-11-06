@@ -18,8 +18,9 @@ sources:
   - tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128
   - all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595
   - tech-20261007-1007-mp-tech-pod-128-tech-20261007-1007-mp-tech-pod-128
+  - tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-07
+last_updated: 2026-11-06
 ---
 
 # Data Center Backlash
@@ -32,14 +33,16 @@ Data center backlash is local and political opposition to large compute faciliti
 
 The bounded record shows that backlash is neither one ideology nor merely a communication failure. It combines environmental-justice claims, ratepayer and taxpayer fairness, community-planning capacity, skepticism about permanent jobs, anti-tech populism, NIMBY concerns, AI job fear, and distrust of concentrated wealth. It can move from protest into canceled projects, financing uncertainty, referendums, permit fights, elections, and state moratoriums.
 
-The [[RichlandParish|Richland Parish, Louisiana]] case supplies the strongest pro-buildout qualification in this source set. Local officials report construction-driven tax gains, teacher supplements, lower water use than prior farming, and a deal in which [[Meta]] pays its own energy and grid costs. The [[ScottBrennan]] interview adds the trust boundary: a cited survey found broad discomfort with neighborhood AI data centers, past job promises have often disappointed, and a larger financial offer can increase suspicion. The All-In source adds an industry-legitimacy diagnosis: voters may read data centers as the physical footprint of job anxiety and concentrated AI wealth unless operators show concrete public benefits and credible cost protection. The October Marketplace Tech source shows the issue entering direct candidate politics: AI-linked groups spend around regulation while candidates may inherit liability from public concern about power use and costs. Backlash can therefore be reduced by project-specific performance and trust, not messaging alone.
+The [[RichlandParish|Richland Parish, Louisiana]] case supplies the strongest pro-buildout qualification in this source set. Local officials report construction-driven tax gains, teacher supplements, lower water use than prior farming, and a deal in which [[Meta]] pays its own energy and grid costs. The [[ScottBrennan]] interview adds the trust boundary: a cited survey found broad discomfort with neighborhood AI data centers, past job promises have often disappointed, and a larger financial offer can increase suspicion. The All-In source adds an industry-legitimacy diagnosis: voters may read data centers as the physical footprint of job anxiety and concentrated AI wealth unless operators show concrete public benefits and credible cost protection.
+
+Reported post-election outcomes move that pattern from prospective liability to ballot evidence: more than 40 jurisdictions across 10 states are said to have rejected development, and a cited exit poll made data centers important to many congressional voters. The timing qualification is equally important. Approved 2027-2028 projects may be difficult to stop retroactively, while power and equipment backlogs can sustain near-term construction; later projects face greater political uncertainty, and the broader AI economy weakens materially only if resistance also reduces demand for AI products. Backlash can therefore change the location and timing of buildout before it changes aggregate demand.
 
 ## Key Claims
 
 - Backlash grows when visible local burdens arrive faster than planning, bargaining, and public participation can absorb them.
 - Utility bills, grid upgrades, water, pollution, noise, land use, tax concessions, and limited permanent jobs can make data centers a fairness issue rather than only a technology issue.
 - Wider AI narratives about job loss, dangerous systems, billionaire power, and industry election spending can intensify opposition to the physical infrastructure AI companies need.
-- Opposition can alter execution through cancellations, lawsuits, capital withdrawal, referendums, permit rules, elections, and moratoriums.
+- Opposition can alter execution through cancellations, lawsuits, capital withdrawal, referendums, permit rules, elections, and moratoriums, with ballot and gubernatorial changes shifting longer-dated siting risk before approved near-term projects.
 - Durable acceptance depends on project-specific evidence, enforceable benefits, and cost allocation; bring-your-own-power can answer part of the ratepayer objection but leaves fuel, emissions, noise, utility incentives, and long-term costs unresolved.
 - Positive local outcomes are possible when a community opts in and the operator credibly funds infrastructure, mitigates resource burdens, and shares fiscal or workforce benefits.
 - After trust erodes, larger incentives can look like pressure or purchased consent rather than evidence of good performance.
@@ -53,15 +56,17 @@ The [[RichlandParish|Richland Parish, Louisiana]] case supplies the strongest pr
 - **Positive negotiated case:** [[all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275]] presents Richland Parish's reported tax, school, water, utility, and workforce benefits as Meta's answer to national opposition.
 - **Trust and delivery boundary:** [[tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128]] links broad public discomfort to concentrated local harms, unfulfilled job expectations, limited agreement evaluation, and suspicion of increasingly generous offers.
 - **AI legitimacy and power response:** [[all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595]] connects project opposition to wealth concentration, job anxiety, weak public-benefit narratives, and proposals for large users to bring their own energy rather than shift grid costs to ordinary customers.
+- **Post-election salience and timing:** [[tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128]] reports multi-state ballot defeats and a cited exit poll while distinguishing protected near-term approvals from later siting risk and weaker end-user demand.
 
 ## Counterevidence & Qualifications
 
-Backlash should not be treated as proof that every proposed facility is harmful, nor should a supportive host community be treated as proof that opposition elsewhere is misinformed. Construction jobs and sales-tax gains can be real while permanent employment remains modest. A relative water comparison may be locally useful without resolving absolute consumption or drought risk. Company-funded generation and upgrades may reduce direct ratepayer exposure without settling long-term rate design, tax expenditure, stranded assets, emissions, noise, fuel dependence, or indirect costs. Survey results, grant amounts, job-delivery claims, canceled-project counts, and agreement effectiveness remain source-attributed. The suggestion that foreign adversaries amplify opposition is unverified in the bounded evidence.
+Backlash should not be treated as proof that every proposed facility is harmful, nor should a supportive host community be treated as proof that opposition elsewhere is misinformed. Construction jobs and sales-tax gains can be real while permanent employment remains modest. A relative water comparison may be locally useful without resolving absolute consumption or drought risk. Company-funded generation and upgrades may reduce direct ratepayer exposure without settling long-term rate design, tax expenditure, stranded assets, emissions, noise, fuel dependence, or indirect costs. Ballot results do not reveal whether every affected project is canceled or whether data-center concern caused each vote. Survey results, jurisdiction counts, capacity shares, grant amounts, job-delivery claims, canceled-project counts, and agreement effectiveness remain source-attributed. The suggestion that foreign adversaries amplify opposition is unverified in the bounded evidence.
 
 ## What Changed
 
-- Added direct candidate and super-PAC politics to the pathway from local infrastructure concern to electoral liability.
-- Clarified that industry support can burden a candidate even when the candidate does not control outside spending.
+- Added reported multi-state ballot defeats as evidence that opposition has moved into election outcomes.
+- Distinguished protected near-term approvals from greater political risk for later projects.
+- Added end-user AI demand as the boundary between infrastructure friction and a broader AI-economy contraction.
 
 ## Related Concepts
 
