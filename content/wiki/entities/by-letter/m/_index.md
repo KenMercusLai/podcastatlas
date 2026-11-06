@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13931
+wiki_total_pages: 13932
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "MakChiHoAnimalAdvocate"
     title: "Mak Chi-ho / 麦志豪"
     url: "/wiki/entities/makchihoanimaladvocate/"
+  - key: "Makeboom"
+    title: "Makeboom"
+    url: "/wiki/entities/makeboom/"
   - key: "MakeMyTrip"
     title: "MakeMyTrip"
     url: "/wiki/entities/makemytrip/"

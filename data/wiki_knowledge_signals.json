@@ -12113,6 +12113,22 @@
       "updated": "2026-11-04",
       "url": "/wiki/concepts/aircraftleasingindustryscale/"
     },
+    "AircraftPropulsionCoDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/aircraftpropulsioncodesign/"
+    },
     "AireyNeave": {
       "episode_count": 1,
       "show_count": 1,
@@ -33630,9 +33646,9 @@
       "url": "/wiki/entities/blaiseaguerayarcas/"
     },
     "BlakeScholl": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S5-BlakeScholl-v3-FinalAudio [TSR-S5-BlakeScholl-v3-FinalAudio].md",
@@ -33647,9 +33663,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238/"
+        },
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-07",
       "url": "/wiki/entities/blakescholl/"
     },
     "BlameAbsorbingResponsibility": {
@@ -34598,9 +34621,9 @@
       "url": "/wiki/concepts/bookstoreserendipity/"
     },
     "BoomSupersonic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S5-BlakeScholl-v3-FinalAudio [TSR-S5-BlakeScholl-v3-FinalAudio].md",
@@ -34615,9 +34638,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238/"
+        },
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-07",
       "url": "/wiki/entities/boomsupersonic/"
     },
     "BoomlessCruise": {
@@ -57412,6 +57442,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/commercialfilmaudiencelogic/"
     },
+    "CommercialManufacturingSurgeCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/commercialmanufacturingsurgecapacity/"
+    },
     "CommercialWealthDomesticMoralization": {
       "episode_count": 1,
       "show_count": 1,
@@ -64518,9 +64564,9 @@
       "url": "/wiki/concepts/crisisdutycontinuity/"
     },
     "CrisisForcedVerticalIntegration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S5-BlakeScholl-v3-FinalAudio [TSR-S5-BlakeScholl-v3-FinalAudio].md",
@@ -64535,9 +64581,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238/"
+        },
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-07",
       "url": "/wiki/concepts/crisisforcedverticalintegration/"
     },
     "CrisisMigrationJudgment": {
@@ -121773,9 +121826,9 @@
       "url": "/wiki/entities/groq/"
     },
     "GroundPowerEngineValidationFlywheel": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Blake Scholl： Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine [42987238].md",
@@ -121783,9 +121836,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238/"
+        },
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-07",
       "url": "/wiki/concepts/groundpowerenginevalidationflywheel/"
     },
     "GroundTruthNewsletter": {
@@ -188621,6 +188681,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/makchihoanimaladvocate/"
     },
+    "Makeboom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/entities/makeboom/"
+    },
     "MakerOperatingSystem": {
       "episode_count": 1,
       "show_count": 1,
@@ -219919,9 +219995,9 @@
       "url": "/wiki/concepts/overseaswarehouseinventoryrisk/"
     },
     "OvertureSupersonicAirliner": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S5-BlakeScholl-v3-FinalAudio [TSR-S5-BlakeScholl-v3-FinalAudio].md",
@@ -219936,9 +220012,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238/"
+        },
+        {
+          "episode_file": "TSR-S6-BlakeScholl-v3 [TSR-S6-BlakeScholl-v3].md",
+          "key": "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+          "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-07",
       "url": "/wiki/entities/overturesupersonicairliner/"
     },
     "OwainGlyndwr": {

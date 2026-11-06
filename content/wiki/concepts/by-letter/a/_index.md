@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11055
+wiki_total_pages: 11057
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "AircraftLeasingIndustryScale"
     title: "Aircraft Leasing Industry Scale"
     url: "/wiki/concepts/aircraftleasingindustryscale/"
+  - key: "AircraftPropulsionCoDesign"
+    title: "Aircraft–Propulsion Co-Design"
+    url: "/wiki/concepts/aircraftpropulsioncodesign/"
   - key: "AirframeEngineLockIn"
     title: "Airframe Engine Lock-In"
     url: "/wiki/concepts/airframeenginelockin/"

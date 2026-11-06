@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11055
+wiki_total_pages: 11057
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "CommercialFusionPower"
     title: "Commercial Fusion Power"
     url: "/wiki/concepts/commercialfusionpower/"
+  - key: "CommercialManufacturingSurgeCapacity"
+    title: "Commercial Manufacturing Surge Capacity"
+    url: "/wiki/concepts/commercialmanufacturingsurgecapacity/"
   - key: "CommercialMenstrualEducation"
     title: "Commercial Menstrual Education"
     url: "/wiki/concepts/commercialmenstrualeducation/"

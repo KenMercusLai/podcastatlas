@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Blake Scholl, Founder & CEO, Boom Supersonic: Part 2](sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3.md) — The Social Radars follow-up on Boom's Rolls-Royce engine crisis, internal propulsion program, boomless flight, 42-megawatt data-center turbine, integrated aircraft design, and commercial manufacturing resilience.
 - [美國期中選舉「藍色狂潮」：民主黨為何大勝，共和黨為何失血？](sources/meiguo-zhongqi-xuanju-lanse-kuangchao-minzhudang-weihe-dasheng-gonghedang-weihe-shixue-811b761d1bfadb2d8e7f01780f90b735.md) — 端聞以喬治亞、密西根、德州、佛羅里達、農業州與福音派選區的票數，解釋民主黨高動員與共和黨棄投如何共同擴大期中選舉勝幅。
 - [Data centers lost in the midterms](sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128.md) — Marketplace Tech links reported data-center ballot defeats and mixed technology-backed election spending to AI backlash, while separating near-term approved construction from longer-run political and demand risk.
 - [E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？](sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v.md) — 知行小酒馆与少楠把信息焦虑重构为答案丰裕下的决策焦虑，并以个人上下文和注意力承诺重估笔记、阅读、写作与 AI 反思。
@@ -4969,6 +4970,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [Makeboom](entities/Makeboom.md) — Boom Supersonic's source-described simulation tool for comparing coupled engine, airframe, cabin, and mission configurations.
 - [Maria Salazar](entities/MariaSalazar.md) — Florida Republican whose sharply narrowed 2026 margin illustrates the value and limits of distancing from harsh immigration enforcement.
 - [少楠 / Shaonan (flomo)](entities/ShaonanFlomo.md) — flomo 联合创始人，以具体实践、个人记录和有限注意力重构 AI 焦虑、学习与产品关怀。
 - [flomo](entities/Flomo.md) — 从通用知识存储转向个人上下文、模式反思与关怀型 AI 的笔记产品。
@@ -15325,10 +15327,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Redpoint](entities/Redpoint.md) — Venture firm that led Scribd's roughly $4 million Series A after the company's high-attention launch.
 - [Brian Mendoza](entities/BrianMendoza.md) — Wilson Sonsini lawyer credited in the source with helping Scribd survive early copyright exposure.
 - [Wilson Sonsini](entities/WilsonSonsini.md) — Law-firm context for Scribd's early user-generated-content copyright risk.
-- [Blake Scholl](entities/BlakeScholl.md) — Boom Supersonic founder connecting outsider learning, staged technical proof, engine manufacturing, regulatory advocacy, and an adjacent ground-power strategy.
-- [Boom Supersonic](entities/BoomSupersonic.md) — Commercial supersonic-aircraft company linking Overture, XB-1, engine ownership, boomless cruise, regulatory reform, and data-center power.
+- [Blake Scholl](entities/BlakeScholl.md) — Boom Supersonic founder connecting staged proof, engine ownership, whole-product co-design, ground power, and flexible commercial manufacturing.
+- [Boom Supersonic](entities/BoomSupersonic.md) — Commercial aerospace company linking Overture, XB-1, internal engines, boomless cruise, data-center power, and reconfigurable manufacturing.
 - [Barcode Hero](entities/BarcodeHero.md) — Blake Scholl's earlier shopping startup, used as the episode's founder-learning setup before Boom.
-- [Overture Supersonic Airliner](entities/OvertureSupersonicAirliner.md) — Boom's planned premium airliner targeting Mach 1.7 over water, conditional boomless overland speed, and an uncertain service path around 2030.
+- [Overture Supersonic Airliner](entities/OvertureSupersonicAirliner.md) — Boom's planned premium airliner combining differentiated speed, integrated cabin and propulsion design, and an uncertain service path around 2030.
 - [XB-1 Supersonic Demonstrator](entities/XB1SupersonicDemonstrator.md) — Boom's flown demonstrator used for organizational learning, supersonic technical proof, and regulatory advocacy.
 - [Rolls-Royce](entities/RollsRoyce.md) — Aircraft-engine company whose RB211 crisis split off the car business and whose later Boom withdrawal forms a second engine-strategy case.
 - [Richard Branson](entities/RichardBranson.md) — Virgin founder whose support helped turn Boom's early customer intent into investor-legible proof.
@@ -18988,6 +18990,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Aircraft–Propulsion Co-Design](concepts/AircraftPropulsionCoDesign.md) — Coupled optimization of engine, airframe, cabin, and flight mission rather than sequentially fitting a fixed supplier subsystem.
+- [Commercial Manufacturing Surge Capacity](concepts/CommercialManufacturingSurgeCapacity.md) — Ability of a productive civilian industrial base to redirect flexible design and factory capability toward urgent national needs.
 - [Partisan Turnout-Motivation Asymmetry](concepts/PartisanTurnoutMotivationAsymmetry.md) — Electoral mechanism in which one coalition sustains urgent participation while dissatisfied opponents abstain without necessarily changing party identity.
 - [AI-Era Decision Anxiety / AI 时代决策焦虑](concepts/AIDecisionAnxiety.md) — AI 降低答案成本后，问题选择、条件匹配、验证与有限时间投入成为新的焦虑核心。
 - [Personal Context Knowledge / 个人上下文知识](concepts/PersonalContextKnowledge.md) — 记录信息为何与个人有关、改变了什么、带来何种行动与后果，而非囤积可检索的通用事实。
@@ -27188,8 +27192,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [All-Business-Class Supersonic Model](concepts/AllBusinessClassSupersonicModel.md) — Premium first-market thesis where shorter travel partly substitutes for cabin space before later generations pursue wider access.
 - [Boomless Cruise](concepts/BoomlessCruise.md) — Conditional flight profile that uses atmospheric refraction to keep a normal-strength sonic boom from reaching the ground.
 - [Supersonic Regulatory Speed Limit](concepts/SupersonicRegulatorySpeedLimit.md) — Categorical U.S. overland speed rule challenged through technical proof, executive action, and still-incomplete legislation.
-- [Crisis-Forced Vertical Integration](concepts/CrisisForcedVerticalIntegration.md) — Pattern where supplier failure shifts subsystem design, manufacturing, validation, and execution risk onto a hard-tech startup.
-- [Ground-Power Engine Validation Flywheel](concepts/GroundPowerEngineValidationFlywheel.md) — Strategy of adapting an aviation engine core for stationary power to seek earlier revenue, manufacturing scale, and reliability data.
+- [Crisis-Forced Vertical Integration](concepts/CrisisForcedVerticalIntegration.md) — Pattern where critical supplier failure converts dependency risk into owned architecture, selective partnerships, and new execution burdens.
+- [Ground-Power Engine Validation Flywheel](concepts/GroundPowerEngineValidationFlywheel.md) — Strategy of adapting an aviation engine core for stationary power to seek earlier revenue, scale, reliability data, funding, and talent.
 - [Hard-Tech Customer Intent Proof](concepts/HardTechCustomerIntentProof.md) — Use of credible customer commitments, public support, or operational willingness as traction evidence before hard-tech revenue exists.
 - [Recursive Expert Recruiting](concepts/RecursiveExpertRecruiting.md) — Recruiting method of asking each expert for the best next experts until a founder maps a difficult technical field and builds a credible team.
 - [Women's Health Diagnostic Gap](concepts/WomensHealthDiagnosticGap.md) — Pattern where reproductive and hormone-health symptoms or clinical concern lack safe, validated, well-funded, and well-communicated diagnostic pathways.

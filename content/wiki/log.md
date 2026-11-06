@@ -38716,3 +38716,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-07] ingest | Blake Scholl, Founder & CEO, Boom Supersonic: Part 2
+
+Added source `tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3`; created [[Makeboom]], [[AircraftPropulsionCoDesign]], and [[CommercialManufacturingSurgeCapacity]]; and resynthesized [[BlakeScholl]], [[BoomSupersonic]], [[OvertureSupersonicAirliner]], [[CrisisForcedVerticalIntegration]], and [[GroundPowerEngineValidationFlywheel]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Rolls-Royce collapse changed Boom's engine from an outsourced dependency into a controlled architecture; that control is presented as enabling boomless-flight optimization, integrated cabin and propulsion design, and a 42-megawatt data-center bridge product whose revenue, manufacturing, and recruiting could reinforce Overture. No settled contradiction was adopted. Rolls-Royce motives and platform history, engine performance, generator demand, fundraising effects, range recovery, production speed, boarding targets, energy history, Boeing decline, incumbent incentives, defense readiness, and geopolitical claims remain source-scoped because the supplied file is a structured episode summary rather than a transcript, engineering report, contract set, market study, or independent historical assessment. Broad [[DataCenterOnsitePower]], [[DataCenterPowerBottleneck]], [[HardTechFundraising]], [[FirstPrinciplesManufacturing]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the max-age gate compacted the global artifact across all nine active topics, and refreshed artifacts validate 4,852 sources across 806 overview paragraphs.
+
+## [2026-11-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

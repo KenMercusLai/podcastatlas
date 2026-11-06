@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-11-04
-as_of_overview_commit: 659960210074627931d3727ac6bf6009552d6682
+as_of_overview_commit: ed8426bb2e7b79fce592936162c09195d0e514c2
 summary: "Across domains, durable value joins capability to evidence, implementation, accountability, context, and human judgment."
-episode_count: 4839
-source_count: 4839
+episode_count: 4852
+source_count: 4852
 paragraph_count: 806
 topic_count: 9
 ---
@@ -29,7 +29,7 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on the coupled system around models: compute, power, memory, data, routing, workflow integration, organizational change, verification, governance, and accountable human judgment.
+AI value depends on the coupled system around models: compute, power, memory, data, routing, workflow integration, verification, governance, resilience, and accountable human judgment.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
@@ -54,7 +54,7 @@ Cultural form is infrastructure: medium, material design, provenance, audience p
 
 ### Governance and Institutions
 
-Institutions work when formal rules are joined to legitimacy, information, capacity, implementation incentives, auditability, safety, and accountable escalation.
+Institutions work when formal rules are joined to legitimacy, information, capacity, implementation incentives, auditability, safety, evidence, and accountable escalation.
 
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression. Evidence: [[38-communism-glt7587678050]], [[Communism]], [[MarxismAsPoliticalReligion]], [[VladimirLenin]], [[UtopianCommunistCoercion]], [[MarxistLeninistStateCapacity]].
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a media-governance case in which [[JournalisticIndependenceAgainstFaction]] and [[AdvertiserPressureEditorialIndependence]] require [[LinXingzhi|林行止]] and the [[HongKongEconomicJournal|《信报》]] to judge across Beijing, London, colonial, local-elite, and advertiser interests while distinguishing pressure-driven retreat from evidence-driven correction; the later [[LiTzarKai|李泽楷]] ownership transition keeps structural autonomy an open rather than settled question. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[JournalisticIndependenceAgainstFaction]], [[AdvertiserPressureEditorialIndependence]], [[LinXingzhi]], [[HongKongEconomicJournal]], [[HongKong]], [[JinYong]], [[LiKaShing]], [[LiTzarKai]].

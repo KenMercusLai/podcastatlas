@@ -8459,6 +8459,10 @@
     "title": "Aircraft Leasing Industry Scale",
     "url": "/wiki/concepts/aircraftleasingindustryscale/"
   },
+  "AircraftPropulsionCoDesign": {
+    "title": "Aircraft–Propulsion Co-Design",
+    "url": "/wiki/concepts/aircraftpropulsioncodesign/"
+  },
   "AireyNeave": {
     "title": "Airey Neave",
     "url": "/wiki/entities/aireyneave/"
@@ -22478,6 +22482,10 @@
   "CommercialFusionPower": {
     "title": "Commercial Fusion Power",
     "url": "/wiki/concepts/commercialfusionpower/"
+  },
+  "CommercialManufacturingSurgeCapacity": {
+    "title": "Commercial Manufacturing Surge Capacity",
+    "url": "/wiki/concepts/commercialmanufacturingsurgecapacity/"
   },
   "CommercialMenstrualEducation": {
     "title": "Commercial Menstrual Education",
@@ -59310,6 +59318,10 @@
   "MakeToOrderLuxuryManufacturing": {
     "title": "Make-To-Order Luxury Manufacturing",
     "url": "/wiki/concepts/maketoorderluxurymanufacturing/"
+  },
+  "Makeboom": {
+    "title": "Makeboom",
+    "url": "/wiki/entities/makeboom/"
   },
   "MakerCommunity": {
     "title": "Maker Community",
@@ -111786,6 +111798,10 @@
   "tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio": {
     "title": "Tom Blomfield on Monzo, YC, and Founder Lessons",
     "url": "/wiki/sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio/"
+  },
+  "tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3": {
+    "title": "Blake Scholl, Founder & CEO, Boom Supersonic: Part 2",
+    "url": "/wiki/sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3/"
   },
   "tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio": {
     "title": "Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space",

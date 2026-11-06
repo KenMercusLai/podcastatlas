@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3757
+topic_total_pages: 3758
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7241,6 +7241,9 @@ topic_entities:
   - key: "MajorProjectsOfficeCanada"
     title: "Major Projects Office (Canada)"
     url: "/wiki/entities/majorprojectsofficecanada/"
+  - key: "Makeboom"
+    title: "Makeboom"
+    url: "/wiki/entities/makeboom/"
   - key: "ManiSkill"
     title: "ManiSkill"
     url: "/wiki/entities/maniskill/"
