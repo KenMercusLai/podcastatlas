@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13933
+wiki_total_pages: 13936
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "InstituteForAdvancedStudy"
     title: "Institute for Advanced Study / 普林斯顿高等研究院"
     url: "/wiki/entities/instituteforadvancedstudy/"
+  - key: "InstituteForBusinessAndHomeSafety"
+    title: "Institute for Business and Home Safety"
+    url: "/wiki/entities/instituteforbusinessandhomesafety/"
   - key: "InstituteForReplication"
     title: "Institute For Replication"
     url: "/wiki/entities/instituteforreplication/"

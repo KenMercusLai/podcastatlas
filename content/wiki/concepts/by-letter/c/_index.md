@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11058
+wiki_total_pages: 11061
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2705,6 +2705,9 @@ wiki_pages:
   - key: "CorrectiveWeakLinkTraining"
     title: "Corrective Weak-Link Training"
     url: "/wiki/concepts/correctiveweaklinktraining/"
+  - key: "CorrelatedCatastropheInsuranceRisk"
+    title: "Correlated Catastrophe Insurance Risk"
+    url: "/wiki/concepts/correlatedcatastropheinsurancerisk/"
   - key: "CorridorStateStrategy"
     title: "Corridor State Strategy / 走廊国家战略"
     url: "/wiki/concepts/corridorstatestrategy/"

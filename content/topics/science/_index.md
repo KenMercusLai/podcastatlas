@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1631
+topic_total_pages: 1632
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -544,6 +544,9 @@ topic_concepts:
   - key: "CoolingAsPublicHealth"
     title: "Cooling As Public Health"
     url: "/wiki/concepts/coolingaspublichealth/"
+  - key: "CorrelatedCatastropheInsuranceRisk"
+    title: "Correlated Catastrophe Insurance Risk"
+    url: "/wiki/concepts/correlatedcatastropheinsurancerisk/"
   - key: "CorticostriatalThalamicLoop"
     title: "Corticostriatal-Thalamic Loop"
     url: "/wiki/concepts/corticostriatalthalamicloop/"

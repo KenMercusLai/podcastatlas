@@ -38732,3 +38732,11 @@ Added source `2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-
 ## [2026-11-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-07] ingest | Inside the insurance industry’s destruction lab
+
+Added source `default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790`; created [[InstituteForBusinessAndHomeSafety]], [[JulieRochman]], [[AnneCope]], [[InsuranceFundedSafetyResearch]], [[HomeFortificationEconomics]], and [[CorrelatedCatastropheInsuranceRisk]]. Core synthesis: insurer-funded destructive testing can identify high-leverage construction changes and spread safety knowledge through coverage, certification, product selection, and codes, but physical resilience does not guarantee affordable coverage when wildfire risk is shared across neighborhoods or an insurer's geographic portfolio is concentrated. No settled contradiction was adopted. Cost, performance, loss, participation, premium, historical, and causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, engineering report, insurer dataset, code evaluation, or independent historical study. Broad [[PlanetMoney]], [[ClimateAdaptation]], [[FireResilientConstruction]], and [[InsuranceRiskTransfer]] pages, along with the automatic `wiki/overview.md`, were kept closed because focused pages capture the changed judgments without reopening large unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,854 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

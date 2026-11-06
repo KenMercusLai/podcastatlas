@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11058
+wiki_total_pages: 11061
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "HomeBloodPressureMeasurement"
     title: "Home Blood Pressure Measurement / 家庭血压测量"
     url: "/wiki/concepts/homebloodpressuremeasurement/"
+  - key: "HomeFortificationEconomics"
+    title: "Home Fortification Economics"
+    url: "/wiki/concepts/homefortificationeconomics/"
   - key: "HomeImprovementWarehouseModel"
     title: "Home Improvement Warehouse Model"
     url: "/wiki/concepts/homeimprovementwarehousemodel/"

@@ -18991,6 +18991,22 @@
       "updated": "2026-10-17",
       "url": "/wiki/entities/annecarson/"
     },
+    "AnneCope": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
+          "key": "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790",
+          "show": "Planet Money",
+          "title": "Inside the insurance industry’s destruction lab",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/entities/annecope/"
+    },
     "AnneHeggli": {
       "episode_count": 1,
       "show_count": 1,
@@ -62301,6 +62317,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/correctiveweaklinktraining/"
+    },
+    "CorrelatedCatastropheInsuranceRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
+          "key": "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790",
+          "show": "Planet Money",
+          "title": "Inside the insurance industry’s destruction lab",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/correlatedcatastropheinsurancerisk/"
     },
     "CorridorStateStrategy": {
       "episode_count": 1,
@@ -135146,6 +135178,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/homefieldapparel/"
     },
+    "HomeFortificationEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
+          "key": "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790",
+          "show": "Planet Money",
+          "title": "Inside the insurance industry’s destruction lab",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/homefortificationeconomics/"
+    },
     "HomeImprovementWarehouseModel": {
       "episode_count": 1,
       "show_count": 1,
@@ -147641,6 +147689,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/instinctpersonalai/"
     },
+    "InstituteForBusinessAndHomeSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
+          "key": "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790",
+          "show": "Planet Money",
+          "title": "Inside the insurance industry’s destruction lab",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/entities/instituteforbusinessandhomesafety/"
+    },
     "InstitutionShapedCharacter": {
       "episode_count": 1,
       "show_count": 1,
@@ -147970,6 +148034,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/insuranceclaimsassistanceplatforms/"
+    },
+    "InsuranceFundedSafetyResearch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
+          "key": "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790",
+          "show": "Planet Money",
+          "title": "Inside the insurance industry’s destruction lab",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/insurancefundedsafetyresearch/"
     },
     "InsurancePersonalizationLimit": {
       "episode_count": 1,
@@ -161396,6 +161476,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/juliegottman/"
+    },
+    "JulieRochman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
+          "key": "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790",
+          "show": "Planet Money",
+          "title": "Inside the insurance industry’s destruction lab",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/entities/julierochman/"
     },
     "JulietteBruce": {
       "episode_count": 1,

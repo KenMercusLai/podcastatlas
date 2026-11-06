@@ -10519,6 +10519,10 @@
     "title": "安妮·卡森 / Anne Carson",
     "url": "/wiki/entities/annecarson/"
   },
+  "AnneCope": {
+    "title": "Anne Cope",
+    "url": "/wiki/entities/annecope/"
+  },
   "AnneHeggli": {
     "title": "Anne Heggli",
     "url": "/wiki/entities/anneheggli/"
@@ -23870,6 +23874,10 @@
   "CorrectiveWeakLinkTraining": {
     "title": "Corrective Weak-Link Training",
     "url": "/wiki/concepts/correctiveweaklinktraining/"
+  },
+  "CorrelatedCatastropheInsuranceRisk": {
+    "title": "Correlated Catastrophe Insurance Risk",
+    "url": "/wiki/concepts/correlatedcatastropheinsurancerisk/"
   },
   "CorridorStateStrategy": {
     "title": "Corridor State Strategy / 走廊国家战略",
@@ -43995,6 +44003,10 @@
     "title": "Home Field Apparel",
     "url": "/wiki/entities/homefieldapparel/"
   },
+  "HomeFortificationEconomics": {
+    "title": "Home Fortification Economics",
+    "url": "/wiki/concepts/homefortificationeconomics/"
+  },
   "HomeImprovementWarehouseModel": {
     "title": "Home Improvement Warehouse Model",
     "url": "/wiki/concepts/homeimprovementwarehousemodel/"
@@ -47279,6 +47291,10 @@
     "title": "Institute for Advanced Study / 普林斯顿高等研究院",
     "url": "/wiki/entities/instituteforadvancedstudy/"
   },
+  "InstituteForBusinessAndHomeSafety": {
+    "title": "Institute for Business and Home Safety",
+    "url": "/wiki/entities/instituteforbusinessandhomesafety/"
+  },
   "InstituteForReplication": {
     "title": "Institute For Replication",
     "url": "/wiki/entities/instituteforreplication/"
@@ -47430,6 +47446,10 @@
   "InsuranceComplaintPressure": {
     "title": "Insurance Complaint Pressure",
     "url": "/wiki/concepts/insurancecomplaintpressure/"
+  },
+  "InsuranceFundedSafetyResearch": {
+    "title": "Insurance-Funded Safety Research",
+    "url": "/wiki/concepts/insurancefundedsafetyresearch/"
   },
   "InsuranceModelRegulatoryConstraint": {
     "title": "Insurance Model Regulatory Constraint",
@@ -51478,6 +51498,10 @@
   "JulieOsk": {
     "title": "Julie Osk",
     "url": "/wiki/entities/julieosk/"
+  },
+  "JulieRochman": {
+    "title": "Julie Rochman",
+    "url": "/wiki/entities/julierochman/"
   },
   "JulieWainwright": {
     "title": "Julie Wainwright",
@@ -106250,6 +106274,10 @@
   "default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031": {
     "title": "Thugesh Unfiltered: Rejection, Originality, AI & The Fear of Becoming Irrelevant | Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031-default-mp3-ywr3ahjkcgo-9c53915160dd67cf5b80e9045e0b34aa-117220031/"
+  },
+  "default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790": {
+    "title": "Inside the insurance industry’s destruction lab",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
   },
   "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881": {
     "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
