@@ -38640,3 +38640,11 @@ Added source `kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qij
 ## [2026-11-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-06] ingest | 186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么
+
+Added source `d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063`; resynthesized [[ZhangLu]], [[FusionFund]], [[EnterpriseAISpendEscalation]], [[AIComputeCommitmentDurationMismatch]], and [[RegulatedEnterpriseAIDeployment]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: enterprise AI competition is shifting from model capability alone toward workflow integration, reliability, security, cost, regulation, and measurable return; coding remains an unusually verifiable wedge, while broader adoption is likely to be slower and distributed across enterprise automation, regulated verticals, local or open models, and agent infrastructure. No settled contradiction was adopted. Anthropic valuation, retention, customer, revenue-mix, budget, enterprise-bill, open-model-share, and compute-contract claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, audited filing, customer cohort, procurement record, or contract dataset. The automatic `wiki/overview.md` remained unchanged. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,843 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

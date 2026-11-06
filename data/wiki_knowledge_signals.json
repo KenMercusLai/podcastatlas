@@ -2231,9 +2231,9 @@
       "url": "/wiki/concepts/aicomputebruteforcescience/"
     },
     "AIComputeCommitmentDurationMismatch": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "03e51cc1-020d-4c30-8c07-8f8614b46e7f [03e51cc1-020d-4c30-8c07-8f8614b46e7f].md",
@@ -2248,9 +2248,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
           "url": "/wiki/sources/allin-e295-ch-allin-e295-ch/"
+        },
+        {
+          "episode_file": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
+          "key": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063",
+          "show": "晚点聊 LateTalk",
+          "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
+          "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
         }
       ],
-      "updated": "2026-10-31",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/aicomputecommitmentdurationmismatch/"
     },
     "AIComputePriceRisk": {
@@ -91701,9 +91708,9 @@
       "url": "/wiki/concepts/enterpriseairoiaudit/"
     },
     "EnterpriseAISpendEscalation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ALLIN-E295_Ch [ALLIN-E295_Ch].md",
@@ -91711,9 +91718,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
           "url": "/wiki/sources/allin-e295-ch-allin-e295-ch/"
+        },
+        {
+          "episode_file": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
+          "key": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063",
+          "show": "晚点聊 LateTalk",
+          "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
+          "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
         }
       ],
-      "updated": "2026-10-31",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/enterpriseaispendescalation/"
     },
     "EnterpriseAgentControlLayer": {
@@ -111293,6 +111307,29 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/fushengmydatewithavampire/"
+    },
+    "FusionFund": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
+          "key": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063",
+          "show": "晚点聊 LateTalk",
+          "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
+          "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/fusionfund/"
     },
     "FutureCola": {
       "episode_count": 1,
@@ -245588,9 +245625,9 @@
       "url": "/wiki/concepts/regulatedcryptotruststrategy/"
     },
     "RegulatedEnterpriseAIDeployment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8228694742_944685 [8228694742_944685].md",
@@ -245598,9 +245635,16 @@
           "show": "捕蛇者说",
           "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
           "url": "/wiki/sources/8228694742-944685/"
+        },
+        {
+          "episode_file": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
+          "key": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063",
+          "show": "晚点聊 LateTalk",
+          "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
+          "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-06",
       "url": "/wiki/concepts/regulatedenterpriseaideployment/"
     },
     "RegulatedPeptideAccess": {
@@ -326957,6 +327001,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhanglinglatehan/"
+    },
+    "ZhangLu": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
+          "key": "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063",
+          "show": "晚点聊 LateTalk",
+          "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
+          "url": "/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063/"
+        }
+      ],
+      "updated": "2026-11-06",
+      "url": "/wiki/entities/zhanglu/"
     },
     "ZhangLuFivePecks": {
       "episode_count": 4,

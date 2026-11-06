@@ -13,20 +13,20 @@ outputs: ["html"]
 - Overview: 1
 - Concepts: 11041
 - Entities: 13918
-- Sources: 4842
-- Total wiki content pages: 29802
+- Sources: 4843
+- Total wiki content pages: 29803
 
 ## Links
-- Wiki link references: 679695
-- Unique wiki link targets: 29837
-- Missing targets: 45
+- Wiki link references: 679721
+- Unique wiki link targets: 29839
+- Missing targets: 46
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4842
-- Matched episodes: 4842
+- Source pages: 4843
+- Matched episodes: 4843
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -112,6 +112,8 @@ outputs: ["html"]
   - `content/wiki/concepts/MartialHeroHistoricalAgencyLimits.md`
 - `[[Spanx]]`
   - `content/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31.md`
+- `[[SparkCapital]]`
+  - `content/wiki/sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063.md`
 - `[[StanislasUta]]`
   - `content/wiki/log.md`
 - `[[SupplementContaminationAndMislabelling]]`

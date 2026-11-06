@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](sources/d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063.md) — LateTalk与张璐从企业需求端拆解Anthropic招股书，连接工作流整合、客户扩张、开放与本地模型、受监管行业、推理成本和算力长约风险。
 - [咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？](sources/kafeidou-xicha-ruixing-baishang-shangchao-huojia-xianzhiyinpin-qijia-de-pinpaimen-weishenme-douzai-fali-pingzhuangyinliao-gkwrijiowiswahe8wgt2vl4q.md) — 声动早咖啡从增长放缓、供应链复用、代工产能与零售共创解释现制饮品品牌瓶装化，并限定同质化和渠道运营风险。
 - [AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634.md) — Tomorrow Today interview on Technovation's learner-centered accelerator, women's AI participation, mentorship, local problem solving, entry-level work, and safety through informed building.
 - [#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目](sources/409-ouyang-yanqin-ruguo-jiaoyu-bu-biran-dailai-wenping-he-chenggong-ta-haineng-gei-yige-putong-nianqingren-shenme-shizhounian-tebie-jiemu-95e34c80.md) — 声东击西十周年访谈回顾食物学堂从三年制专业训练转向一年学习加两年支持，以职业认知、真实责任、相对优势、主体性与自立替代文凭、对口就业和阶层跃迁承诺。
@@ -13933,7 +13934,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claude for Healthcare](entities/ClaudeForHealthcare.md) — Anthropic healthcare product route focused on infrastructure, billing, coding, compliance, and APIs rather than autonomous diagnosis.
 - [HealthBench](entities/HealthBench.md) — OpenAI medical AI benchmark using realistic clinician-scored conversation scenarios rather than only medical exam-style questions.
 - [周叶冰 / Zhou Yebing](entities/ZhouYebing.md) — Genetics PhD and U.S. pharma immunology researcher grounding E227's medical AI discussion in evidence, clinical workflow, and patient context.
-- [Fusion Fund](entities/FusionFund.md) — Venture firm associated with Zhang Lu's healthcare AI investment-side framing in E227.
+- [Fusion Fund](entities/FusionFund.md) — Venture firm behind Zhang Lu's workflow-, regulation-, and infrastructure-grounded analysis of healthcare and enterprise AI.
 - [Eli Lilly](entities/EliLilly.md) — Pharmaceutical company named in E227 through a strategic AI cooperation signal with Nvidia.
 - [JP Morgan Healthcare Conference](entities/JPMorganHealthcareConference.md) — Healthcare industry conference used by Zhang Lu as the adoption-sentiment signal for AI integration becoming mandatory.
 - [DeepMind](entities/DeepMind.md) — London AI research company framed as Hassabis's reinforcement-learning AGI lab before Google acquisition and Google DeepMind consolidation.
@@ -15411,7 +15412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张阔 / Zhang Kuo](entities/ZhangKuo.md) — Alibaba international-business executive connecting agentic sourcing to real-task evaluation, vertical-agent architecture, model routing, and human-owned commercial judgment.
 - [Axio / Accio Work](entities/Axio.md) — Alibaba international B2B agent product spanning product ideation, sourcing, logistics, multi-platform operations, and governed merchant workflows.
 - [Cloud Cowork](entities/CloudCowork.md) — Anthropic research-preview agent workbench named in E231 as a reference point for layered agent platforms and verified business workflows.
-- [张璐 / Zhang Lu](entities/ZhangLu.md) — Investment-side guest in E230 who frames Nvidia's AI infrastructure demand through inference as recurring cash flow, agents, and token usage.
+- [张璐 / Zhang Lu](entities/ZhangLu.md) — Fusion Fund founder interpreting healthcare, enterprise AI, Anthropic, and infrastructure through workflow integration, regulation, and inference economics.
 - [肖志斌 / Xiao Zhibin](entities/XiaoZhibin.md) — Semiconductor and AI infrastructure guest in E230 who separates Nvidia demand from packaging, HBM, interconnect, and data-center delivery constraints.
 - [Mark Ren](entities/MarkRen.md) — Chip-design guest in E230 who explains AI-assisted semiconductor engineering, coding agents, ChipNemo-style tooling, and Nvidia's broader system moat.
 - [Alex (GMI Cloud)](entities/AlexGMICloud.md) — GPU-cloud operations guest in E230 who explains land, power, modular data centers, SLA, firmware, and neocloud differentiation.
