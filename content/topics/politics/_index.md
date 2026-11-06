@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3463
+topic_total_pages: 3465
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3082,6 +3082,9 @@ topic_concepts:
   - key: "PartialAbdicationPowerSplit"
     title: "Partial Abdication Power Split / 退位留权式权力分裂"
     url: "/wiki/concepts/partialabdicationpowersplit/"
+  - key: "PartisanTurnoutMotivationAsymmetry"
+    title: "Partisan Turnout-Motivation Asymmetry"
+    url: "/wiki/concepts/partisanturnoutmotivationasymmetry/"
   - key: "PartisanshipAsElectoralGravity"
     title: "Partisanship as Electoral Gravity"
     url: "/wiki/concepts/partisanshipaselectoralgravity/"
@@ -7229,6 +7232,9 @@ topic_entities:
   - key: "MariaCorinaMachado"
     title: "Maria Corina Machado"
     url: "/wiki/entities/mariacorinamachado/"
+  - key: "MariaSalazar"
+    title: "Maria Salazar"
+    url: "/wiki/entities/mariasalazar/"
   - key: "MarineLePen"
     title: "Marine Le Pen"
     url: "/wiki/entities/marinelepen/"

@@ -60802,6 +60802,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MariaSalazar": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MariaTheresaTaler": [
     {
       "key": "economics",
@@ -69997,6 +70004,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PartisanTurnoutMotivationAsymmetry": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PartisanshipAsElectoralGravity": [

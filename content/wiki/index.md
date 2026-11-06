@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [美國期中選舉「藍色狂潮」：民主黨為何大勝，共和黨為何失血？](sources/meiguo-zhongqi-xuanju-lanse-kuangchao-minzhudang-weihe-dasheng-gonghedang-weihe-shixue-811b761d1bfadb2d8e7f01780f90b735.md) — 端聞以喬治亞、密西根、德州、佛羅里達、農業州與福音派選區的票數，解釋民主黨高動員與共和黨棄投如何共同擴大期中選舉勝幅。
 - [Data centers lost in the midterms](sources/tech-20261106-1106-mp-tech-pod-128-tech-20261106-1106-mp-tech-pod-128.md) — Marketplace Tech links reported data-center ballot defeats and mixed technology-backed election spending to AI backlash, while separating near-term approved construction from longer-run political and demand risk.
 - [E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？](sources/lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v.md) — 知行小酒馆与少楠把信息焦虑重构为答案丰裕下的决策焦虑，并以个人上下文和注意力承诺重估笔记、阅读、写作与 AI 反思。
 - [514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起](sources/lmjsukmfoaeb_6b0_ndo2as7ov8e-lmjsukmfoaeb_6b0_ndo2as7ov8e.md) — 忽左忽右从中世纪朝圣、贵族壮游与铁路郊游追到汽车旅行，区分交通可达性、时刻表纪律与个人路线自主。
@@ -4968,6 +4969,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [Maria Salazar](entities/MariaSalazar.md) — Florida Republican whose sharply narrowed 2026 margin illustrates the value and limits of distancing from harsh immigration enforcement.
 - [少楠 / Shaonan (flomo)](entities/ShaonanFlomo.md) — flomo 联合创始人，以具体实践、个人记录和有限注意力重构 AI 焦虑、学习与产品关怀。
 - [flomo](entities/Flomo.md) — 从通用知识存储转向个人上下文、模式反思与关怀型 AI 的笔记产品。
 - [Karl Benz / 卡尔·本茨](entities/KarlBenz.md) — Automobile pioneer used to distinguish early personally controlled motor travel from the later infrastructure and consumer capacity of mass automobility.
@@ -18986,6 +18988,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Partisan Turnout-Motivation Asymmetry](concepts/PartisanTurnoutMotivationAsymmetry.md) — Electoral mechanism in which one coalition sustains urgent participation while dissatisfied opponents abstain without necessarily changing party identity.
 - [AI-Era Decision Anxiety / AI 时代决策焦虑](concepts/AIDecisionAnxiety.md) — AI 降低答案成本后，问题选择、条件匹配、验证与有限时间投入成为新的焦虑核心。
 - [Personal Context Knowledge / 个人上下文知识](concepts/PersonalContextKnowledge.md) — 记录信息为何与个人有关、改变了什么、带来何种行动与后果，而非囤积可检索的通用事实。
 - [Attention-Commitment Learning / 注意力承诺式学习](concepts/AttentionCommitmentLearning.md) — AI 可改变解释与阅读路径，却不能自动省略理解、记忆、联想和形成个人判断所需的持续投入。

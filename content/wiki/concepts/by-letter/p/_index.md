@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11054
+wiki_total_pages: 11055
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "PartisanScandalEvidence"
     title: "Partisan Scandal Evidence"
     url: "/wiki/concepts/partisanscandalevidence/"
+  - key: "PartisanTurnoutMotivationAsymmetry"
+    title: "Partisan Turnout-Motivation Asymmetry"
+    url: "/wiki/concepts/partisanturnoutmotivationasymmetry/"
   - key: "PartisanshipAsElectoralGravity"
     title: "Partisanship as Electoral Gravity"
     url: "/wiki/concepts/partisanshipaselectoralgravity/"
