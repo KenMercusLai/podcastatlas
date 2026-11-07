@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11068
+wiki_total_pages: 11071
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
+  - key: "ReinforcementLearningDecisionHeuristics"
+    title: "Reinforcement-Learning Decision Heuristics"
+    url: "/wiki/concepts/reinforcementlearningdecisionheuristics/"
   - key: "RejectedCounselDefectionCascade"
     title: "Rejected Counsel Defection Cascade / 进言拒绝叛逃级联"
     url: "/wiki/concepts/rejectedcounseldefectioncascade/"

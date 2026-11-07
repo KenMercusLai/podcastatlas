@@ -32059,6 +32059,10 @@
     "title": "Enterprise POC Discipline",
     "url": "/wiki/concepts/enterprisepocdiscipline/"
   },
+  "EnterprisePostTrainingLoop": {
+    "title": "Enterprise Post-Training Loop",
+    "url": "/wiki/concepts/enterpriseposttrainingloop/"
+  },
   "EnterprisePrearrangedAgents": {
     "title": "Enterprise Prearranged Agents",
     "url": "/wiki/concepts/enterpriseprearrangedagents/"
@@ -58051,6 +58055,10 @@
     "title": "Low Price Brand Perception",
     "url": "/wiki/concepts/lowpricebrandperception/"
   },
+  "LowRankAdapterModelDiversity": {
+    "title": "Low-Rank Adapter Model Diversity",
+    "url": "/wiki/concepts/lowrankadaptermodeldiversity/"
+  },
   "LowRepetitionStrengthBlocks": {
     "title": "Low-Repetition Strength Blocks",
     "url": "/wiki/concepts/lowrepetitionstrengthblocks/"
@@ -59038,6 +59046,10 @@
   "MaXiaoling": {
     "title": "马小玲 / Ma Xiaoling",
     "url": "/wiki/entities/maxiaoling/"
+  },
+  "MaXiaoteng": {
+    "title": "Ma Xiaoteng / 马肖腾",
+    "url": "/wiki/entities/maxiaoteng/"
   },
   "MaXuLateHan": {
     "title": "马续 / Ma Xu (late Han)",
@@ -62974,6 +62986,14 @@
   "MindsetPhysiologyEffects": {
     "title": "Mindset Effects on Physiology",
     "url": "/wiki/concepts/mindsetphysiologyeffects/"
+  },
+  "MineLab": {
+    "title": "MineLab",
+    "url": "/wiki/entities/minelab/"
+  },
+  "MineLabMint": {
+    "title": "Mint (MineLab)",
+    "url": "/wiki/entities/minelabmint/"
   },
   "MingDingling": {
     "title": "明定陵 / Ming Dingling",
@@ -77230,6 +77250,10 @@
   "ReinforcementLearningAGIPath": {
     "title": "Reinforcement Learning AGI Path",
     "url": "/wiki/concepts/reinforcementlearningagipath/"
+  },
+  "ReinforcementLearningDecisionHeuristics": {
+    "title": "Reinforcement-Learning Decision Heuristics",
+    "url": "/wiki/concepts/reinforcementlearningdecisionheuristics/"
   },
   "ReinhardHeydrich": {
     "title": "Reinhard Heydrich",
@@ -109106,6 +109130,10 @@
   "ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028": {
     "title": "046 百晓生“兵器谱”到底靠不靠谱？|趣话古龙《多情剑客无情剑》",
     "url": "/wiki/sources/ljzg82l79mzbssz8ckg-whpwn028-ljzg82l79mzbssz8ckg-whpwn028/"
+  },
+  "lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc": {
+    "title": "锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾",
+    "url": "/wiki/sources/lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc/"
   },
   "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte": {
     "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",

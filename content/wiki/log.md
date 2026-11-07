@@ -38756,3 +38756,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | 锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾
+
+Added source `lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc`; created [[MaXiaoteng|Ma Xiaoteng / 马肖腾]], [[MineLab]], [[MineLabMint|Mint]], [[EnterprisePostTrainingLoop]], [[LowRankAdapterModelDiversity]], and [[ReinforcementLearningDecisionHeuristics]]; and resynthesized [[NewLabOrganization]], [[ModelPostTrainingBottleneck]], and [[ContinualLearning]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: enterprise post-training is a closed loop linking proprietary tasks and feedback to customer-owned benchmarks, suitable base capability, privacy-compatible deployment, and repeated validation; New Lab credibility depends on connecting research, product, design, and commercial usefulness; and LoRA can lower specialization cost without eliminating evaluation, routing, serving, or continual-learning constraints. No settled contradiction was adopted. The title/body Mind Lab–MineLab and 骁腾–马肖腾 mismatch was preserved as naming uncertainty, while company rankings, cost ranges, LoRA comparability, and future model-market claims remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,857 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the corpus-wide legacy link scan still reports 50 unrelated pre-existing broken links outside this ingest's changed pages.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

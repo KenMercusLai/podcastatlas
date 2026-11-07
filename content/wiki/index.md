@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾](sources/lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc.md) — 42章经访谈马肖腾，讨论企业后训练闭环、New Lab、LoRA 多样化、持续学习与 RL 决策方法。
 - [EP293 性不容易，亲密更难：我们缺的是欲望，还是合适的人？](sources/ep293-xing-bu-rongyi-qinmi-geng-nan-women-que-de-shi-yuwang-haishi-heshi-de-ren-ljrvwz7kavgep3r4t8uxelvhxbql.md) — Talk三联将“性萧条”重构为关系进入、性教育、身体自主、表现压力与不确定性共同构成的性焦虑。
 - [总第075期：像杂志编辑一样阅读](sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r.md) — 读报teleread把编辑式阅读界定为先理解作品的选材、报道、形式与结构，再判断其用途、偏好、动机和立场。
 - [Inside the insurance industry’s destruction lab](sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790.md) — Planet Money visits IBHS to connect insurer-funded destructive building tests, low-cost fortification, and the limits imposed by correlated climate risk.
@@ -4974,6 +4975,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 ## Entities
+- [Ma Xiaoteng / 马肖腾](entities/MaXiaoteng.md) — MineLab 联合创始人兼首席科学家，研究强化学习与模型后训练。
+- [MineLab](entities/MineLab.md) — 以企业真实环境、私有数据和评测为基础的后训练公司。
+- [Mint (MineLab)](entities/MineLabMint.md) — MineLab 的 LoRA 后训练与多适配器服务。
 - [Institute for Business and Home Safety](entities/InstituteForBusinessAndHomeSafety.md) — Insurer-funded research organization that destructively tests full-scale buildings and components against wind, wildfire, hail, and weathering.
 - [Julie Rochman](entities/JulieRochman.md) — Former IBHS chief executive who built the insurer coalition and economic case for its destruction laboratory.
 - [Anne Cope](entities/AnneCope.md) — Structural engineer featured demonstrating IBHS full-scale hazard and building-resilience research.
@@ -18998,6 +19002,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Enterprise Post-Training Loop](concepts/EnterprisePostTrainingLoop.md) — 将企业任务、数据、评测、训练和部署反馈连接成持续改进闭环。
+- [Low-Rank Adapter Model Diversity](concepts/LowRankAdapterModelDiversity.md) — 在共享基础模型上用小型 LoRA 适配器形成低成本能力与行为差异。
+- [Reinforcement-Learning Decision Heuristics](concepts/ReinforcementLearningDecisionHeuristics.md) — 将探索利用、策略价值一致和折扣因子转化为有限的人生与创业决策类比。
 - [Sexual Anxiety in Relationship Context / 性焦虑的关系语境](concepts/SexualAnxietyRelationshipContext.md) — 区分性活动、欲望、满意度、关系可及性与身体自主，避免把所有下降解释为同一种“性萧条”。
 - [Sexual Agency and Refusal / 性自主与拒绝权](concepts/SexualAgencyAndRefusal.md) — 将拒绝、表达偏好与认识身体纳入同一性自主框架，并关注权力与风险的不对称。
 - [Sexual Script and Performance Pressure / 性脚本与表现压力](concepts/SexualScriptPerformancePressure.md) — 识别以插入、勃起、射精、高潮或经验数量定义“完整性行为”所制造的表现焦虑。

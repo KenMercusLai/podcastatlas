@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 13936
+wiki_total_pages: 13939
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "MaShiqiuXinRebel"
     title: "Ma Shiqiu / 马士求"
     url: "/wiki/entities/mashiqiuxinrebel/"
+  - key: "MaXiaoteng"
+    title: "Ma Xiaoteng / 马肖腾"
+    url: "/wiki/entities/maxiaoteng/"
   - key: "MaYin"
     title: "Ma Yin / 马寅"
     url: "/wiki/entities/mayin/"
@@ -1487,6 +1490,9 @@ wiki_pages:
   - key: "MindrayMedical"
     title: "Mindray Medical / 迈瑞医疗"
     url: "/wiki/entities/mindraymedical/"
+  - key: "MineLab"
+    title: "MineLab"
+    url: "/wiki/entities/minelab/"
   - key: "Mingwei"
     title: "Mingwei"
     url: "/wiki/entities/mingwei/"
@@ -1523,6 +1529,9 @@ wiki_pages:
   - key: "Minoxidil"
     title: "Minoxidil / 米诺地尔"
     url: "/wiki/entities/minoxidil/"
+  - key: "MineLabMint"
+    title: "Mint (MineLab)"
+    url: "/wiki/entities/minelabmint/"
   - key: "MiracleOfAmsterdam"
     title: "Miracle of Amsterdam"
     url: "/wiki/entities/miracleofamsterdam/"
