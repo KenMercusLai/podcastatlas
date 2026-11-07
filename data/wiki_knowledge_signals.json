@@ -3412,9 +3412,9 @@
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
     "AIForMath": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
@@ -3450,9 +3450,16 @@
           "show": "Marketplace Tech",
           "title": "What it means when AI helps solve complex math problems",
           "url": "/wiki/sources/tech-20261102-1102-mp-tech-pod-128-tech-20261102-1102-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/aiformath/"
     },
     "AIGeneratedContentQualityGap": {
@@ -10317,6 +10324,36 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/concepts/affirmativeconsentinsexualoffencelaw/"
+    },
+    "AffordabilityDrivenSocialism": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/affordabilitydrivensocialism/"
     },
     "Afghanistan": {
       "episode_count": 4,
@@ -69524,6 +69561,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/datacenteronsitepower/"
     },
+    "DataCenterPermittingPipelineRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/datacenterpermittingpipelinerisk/"
+    },
     "DataCenterPowerBottleneck": {
       "episode_count": 15,
       "show_count": 6,
@@ -96997,6 +97050,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/explainableailending/"
+    },
+    "ExponentialTimeHypothesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/exponentialtimehypothesis/"
     },
     "ExportAsCapacityAbsorption": {
       "episode_count": 1,
@@ -142279,6 +142348,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
+    },
+    "HyperscalerAIGatekeeping": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/hyperscaleraigatekeeping/"
     },
     "HypertensionDiagnosisAndTargets": {
       "episode_count": 3,
@@ -199618,9 +199710,9 @@
       "url": "/wiki/concepts/midlifefemalestrengthpowertraining/"
     },
     "MidtermBacklashForecasting": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
@@ -199649,9 +199741,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "美國期中選舉「藍色狂潮」：民主黨為何大勝，共和黨為何失血？",
           "url": "/wiki/sources/meiguo-zhongqi-xuanju-lanse-kuangchao-minzhudang-weihe-dasheng-gonghedang-weihe-shixue-811b761d1bfadb2d8e7f01780f90b735/"
+        },
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/midtermbacklashforecasting/"
     },
     "MigraineMedicationChoice": {
@@ -297820,9 +297919,9 @@
       "url": "/wiki/entities/usdepartmentofhomelandsecurity/"
     },
     "USEconomicExperienceSplit": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
@@ -297844,9 +297943,16 @@
           "show": "Planet Money",
           "title": "Cost-cutting, quiet guilt and the inflation generation",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098/"
+        },
+        {
+          "episode_file": "ALLIN-E296_Ch [ALLIN-E296_Ch].md",
+          "key": "allin-e296-ch-allin-e296-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/useconomicexperiencesplit/"
     },
     "USFastFoodChinaExpansion": {

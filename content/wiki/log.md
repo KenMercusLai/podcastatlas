@@ -38774,3 +38774,11 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump
+
+Added source `allin-e296-ch-allin-e296-ch`; created [[DataCenterPermittingPipelineRisk]] and [[ExponentialTimeHypothesis]]; and resynthesized [[AffordabilityDrivenSocialism]], [[HyperscalerAIGatekeeping]], [[MidtermBacklashForecasting]], [[AIForMath]], and [[USEconomicExperienceSplit]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the reported midterm defeat supports an affordability and distributional diagnosis but does not resolve whether the Iran war and energy prices were decisive or part of a broader trust, tariff, immigration, deficit, housing, and healthcare failure; permitting uncertainty can protect near-term approved projects while weakening the later compute pipeline and strengthening infrastructure gatekeepers; and OpenAI's reported class-specific 3SAT result remains an unverified challenge whose scope must be kept distinct from refuting the full exponential time hypothesis or proving P equals NP. No settled contradiction was adopted. Election, polling, fiscal, market, contract, permitting, compute-demand, and mathematical claims remain source-scoped because the supplied file is a structured summary rather than official returns, polling microdata, audited accounts, contract text, permit records, the paper, or independent proof review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic; the max-age gate triggered global compaction, and refreshed artifacts validate 4,859 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11073
+wiki_total_pages: 11075
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1457,6 +1457,9 @@ wiki_pages:
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"
+  - key: "ExponentialTimeHypothesis"
+    title: "Exponential Time Hypothesis"
+    url: "/wiki/concepts/exponentialtimehypothesis/"
   - key: "ExportAsCapacityAbsorption"
     title: "Export As Capacity Absorption / 出口作为产能吸纳"
     url: "/wiki/concepts/exportascapacityabsorption/"

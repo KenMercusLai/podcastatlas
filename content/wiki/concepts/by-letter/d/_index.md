@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11073
+wiki_total_pages: 11075
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "DataCenterOnsitePower"
     title: "Data Center Onsite Power"
     url: "/wiki/concepts/datacenteronsitepower/"
+  - key: "DataCenterPermittingPipelineRisk"
+    title: "Data Center Permitting-Pipeline Risk"
+    url: "/wiki/concepts/datacenterpermittingpipelinerisk/"
   - key: "DataCenterPhysicalResilience"
     title: "Data Center Physical Resilience"
     url: "/wiki/concepts/datacenterphysicalresilience/"

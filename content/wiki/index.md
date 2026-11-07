@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump](sources/allin-e296-ch-allin-e296-ch.md) — All-In debates the midterm defeat through war, affordability, trust, and inequality, then links data-center permitting to compute gatekeeping and an unverified AI complexity-theory result.
 - [锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾](sources/lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc.md) — 42章经访谈马肖腾，讨论企业后训练闭环、New Lab、LoRA 多样化、持续学习与 RL 决策方法。
 - [EP293 性不容易，亲密更难：我们缺的是欲望，还是合适的人？](sources/ep293-xing-bu-rongyi-qinmi-geng-nan-women-que-de-shi-yuwang-haishi-heshi-de-ren-ljrvwz7kavgep3r4t8uxelvhxbql.md) — Talk三联将“性萧条”重构为关系进入、性教育、身体自主、表现压力与不确定性共同构成的性焦虑。
 - [总第075期：像杂志编辑一样阅读](sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r.md) — 读报teleread把编辑式阅读界定为先理解作品的选材、报道、形式与结构，再判断其用途、偏好、动机和立场。
@@ -19006,6 +19007,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Varun Sharma](entities/VarunSharma.md) — Indian actor connecting casting-room learning, opportunity search, rejection recovery, ensemble comedy, and consent-centered AI use.
 
 ## Concepts
+- [Data Center Permitting-Pipeline Risk](concepts/DataCenterPermittingPipelineRisk.md) — Risk that incomplete approvals, moratoriums, and political uncertainty weaken later compute buildout or strand committed capital.
+- [Exponential Time Hypothesis](concepts/ExponentialTimeHypothesis.md) — Complexity-theory conjecture kept distinct from class-specific subexponential results and from P versus NP.
 - [Enterprise Post-Training Loop](concepts/EnterprisePostTrainingLoop.md) — 将企业任务、数据、评测、训练和部署反馈连接成持续改进闭环。
 - [Low-Rank Adapter Model Diversity](concepts/LowRankAdapterModelDiversity.md) — 在共享基础模型上用小型 LoRA 适配器形成低成本能力与行为差异。
 - [Reinforcement-Learning Decision Heuristics](concepts/ReinforcementLearningDecisionHeuristics.md) — 将探索利用、策略价值一致和折扣因子转化为有限的人生与创业决策类比。

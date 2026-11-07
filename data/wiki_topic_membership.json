@@ -30242,6 +30242,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DataCenterPermittingPipelineRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DataCenterPhysicalResilience": [
     {
       "key": "technology",

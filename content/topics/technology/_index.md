@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3765
+topic_total_pages: 3766
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1936,6 +1936,9 @@ topic_concepts:
   - key: "DataCenterOnsitePower"
     title: "Data Center Onsite Power"
     url: "/wiki/concepts/datacenteronsitepower/"
+  - key: "DataCenterPermittingPipelineRisk"
+    title: "Data Center Permitting-Pipeline Risk"
+    url: "/wiki/concepts/datacenterpermittingpipelinerisk/"
   - key: "DataCenterPhysicalResilience"
     title: "Data Center Physical Resilience"
     url: "/wiki/concepts/datacenterphysicalresilience/"

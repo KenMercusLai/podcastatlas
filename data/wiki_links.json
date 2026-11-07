@@ -26167,6 +26167,10 @@
     "title": "Data Center Onsite Power",
     "url": "/wiki/concepts/datacenteronsitepower/"
   },
+  "DataCenterPermittingPipelineRisk": {
+    "title": "Data Center Permitting-Pipeline Risk",
+    "url": "/wiki/concepts/datacenterpermittingpipelinerisk/"
+  },
   "DataCenterPhysicalResilience": {
     "title": "Data Center Physical Resilience",
     "url": "/wiki/concepts/datacenterphysicalresilience/"
@@ -33214,6 +33218,10 @@
   "ExplorationToExtractionPipeline": {
     "title": "Exploration To Extraction Pipeline",
     "url": "/wiki/concepts/explorationtoextractionpipeline/"
+  },
+  "ExponentialTimeHypothesis": {
+    "title": "Exponential Time Hypothesis",
+    "url": "/wiki/concepts/exponentialtimehypothesis/"
   },
   "ExportAsCapacityAbsorption": {
     "title": "Export As Capacity Absorption / 出口作为产能吸纳",
@@ -105694,6 +105702,10 @@
   "allin-e295-ch-allin-e295-ch": {
     "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
     "url": "/wiki/sources/allin-e295-ch-allin-e295-ch/"
+  },
+  "allin-e296-ch-allin-e296-ch": {
+    "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+    "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
   },
   "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": {
     "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",
