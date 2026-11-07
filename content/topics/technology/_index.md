@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3764
+topic_total_pages: 3765
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10794,6 +10794,9 @@ topic_sources:
   - key: "tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128"
     title: "Using generative AI for election-related research"
     url: "/wiki/sources/tech-20261019-1019-mp-tech-pod-128-tech-20261019-1019-mp-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097"
+    title: "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
   - key: "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1"
     title: "Vol. 160 一年多以后，再聊AI写代码Vibe Coding"
     url: "/wiki/sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1/"

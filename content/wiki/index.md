@@ -4974,6 +4974,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
+- [Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097.md) — Tomorrow Today interview on acting opportunity search, family-supported resilience, collaborative comedy, and human judgment in creative AI use.
+
 ## Entities
 - [Ma Xiaoteng / 马肖腾](entities/MaXiaoteng.md) — MineLab 联合创始人兼首席科学家，研究强化学习与模型后训练。
 - [MineLab](entities/MineLab.md) — 以企业真实环境、私有数据和评测为基础的后训练公司。
@@ -19001,6 +19003,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tony (translator of Xiaohai)](entities/TonyXiaoHaiTranslator.md) — 以事实核查、编辑协作和反简化阅读推动小海作品英文传播的译者；来源仅给出名字 Tony。
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
+- [Varun Sharma](entities/VarunSharma.md) — Indian actor connecting casting-room learning, opportunity search, rejection recovery, ensemble comedy, and consent-centered AI use.
+
 ## Concepts
 - [Enterprise Post-Training Loop](concepts/EnterprisePostTrainingLoop.md) — 将企业任务、数据、评测、训练和部署反馈连接成持续改进闭环。
 - [Low-Rank Adapter Model Diversity](concepts/LowRankAdapterModelDiversity.md) — 在共享基础模型上用小型 LoRA 适配器形成低成本能力与行为差异。
@@ -30174,5 +30178,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Editorial Reading / 编辑式阅读](concepts/EditorialReading.md) — 先重建作品的目标、材料、形式与取舍，再判断其用途、偏好、可信度和立场的阅读实践。
 - [Form–Content Fit / 内容—形式适配](concepts/FormContentFit.md) — 让题材与冲突引导体裁、规模、声音、报道方式和结构，而非先用固定模板压平材料。
 - [Experience as Interpretive Lens and Constraint / 经验作为理解透镜与限制](concepts/ExperienceAsInterpretiveLensAndConstraint.md) — 经验既提升类型与结构识别，也可能把陌生材料过早压缩成旧有模式。
+
+- [Opportunity-Seeking as Work](concepts/OpportunitySeekingAsWork.md) — Invisible information, travel, waiting, audition, follow-up, and relationship labor required before intermittent creative work is allocated.
+- [Ensemble Comedy Production](concepts/EnsembleComedyProduction.md) — Screen-comedy framework distributing timing and authorship across performers, reactions, writing, direction, editing, music, and sequence design.
 
 ## Syntheses

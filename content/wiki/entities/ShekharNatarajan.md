@@ -16,17 +16,18 @@ sources:
   - defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730
   - defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886
   - defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305
-last_updated: 2026-11-02
+  - default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097
+last_updated: 2026-11-08
 knowledge_schema: synthesis-v1
 ---
 
 # Shekhar Natarajan
 
 ## Overview
-Shekhar Natarajan is the host and narrator of [[TomorrowToday]] across the wiki's current sources. His interviews and one short dramatized family story use biography to explore branding, resilience, spirituality, survival, cognitive difference, elite sport, public institutions, creative work, inequality, leadership, organizational transformation, and the human and governance questions raised by AI.
+Shekhar Natarajan is the host and narrator of [[TomorrowToday]] across the wiki's current sources. His interviews and one short dramatized family story use biography to explore branding, resilience, spirituality, survival, cognitive difference, elite sport, public institutions, creative work, comedy, inequality, leadership, organizational transformation, and the human and governance questions raised by AI.
 
 ## Current Profile
-The bounded sources present Shekhar primarily as an interviewer who turns life stories into operating questions. Across guests, he connects values to branding, uncertainty to judgment, compassion to alignment, logistics to institutions, creative access to labor, survival to action, coaching to autonomy, platform production to dignity, sustainability to responsible commerce, future challenges to governance, and strategy to execution.
+The bounded sources present Shekhar primarily as an interviewer who turns life stories into operating questions. Across guests, he connects values to branding, uncertainty to judgment, compassion to alignment, logistics to institutions, creative access to labor, survival to action, coaching to autonomy, platform production to dignity, sustainability to responsible commerce, future challenges to governance, strategy to execution, and comedy to collaborative production. The [[VarunSharma]] interview also makes opportunity search and family-supported resilience visible while testing where AI assistance should stop short of consent, lived experience, and human judgment.
 
 The short [[AshokNatarajan]] narrative changes the represented format and adds a personal, source-scoped branch. Shekhar revisits a childhood conflict, reframes his brother's mind as different rather than broken, and narrates an AI approach inspired by associative cognition. This extends [[AngelicIntelligence]] toward [[CognitiveDifferenceReframing]], while the episode's spectacular lunar, engineering, and deployment claims remain unverified.
 
@@ -52,14 +53,14 @@ The short [[AshokNatarajan]] narrative changes the represented format and adds a
 - Futures, institutions, and stewardship - [[defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730]] connects Brown's systems framing to concentrated AI power, democratic legitimacy, resource infrastructure, longevity, security, inequality, and measurable public commitments.
 - Transformation, execution, and AI-era leadership - [[defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886]] connects Fornaciari's cross-cultural career to executive accountability, adviser incentives, organizational alignment, verification, and AI's labor and agency risks.
 - Cognitive difference and associative AI - [[defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305]] has Shekhar narrate reconciliation with [[AshokNatarajan]] and a proposed “Ashok's Sight” system within [[AngelicIntelligence]].
+- Acting search, comedy, and creative judgment - [[default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097]] connects Sharma's career formation to invisible search labor, mental health, collaborative comedy, consent, and human reaction to creative work.
 
 ## Qualifications
-The page is bounded to thirteen ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those sources. His logistics ventures, childhood conditions, corporate departure, highway near-miss, family loss, relationship to Ashok, notebook discovery, and coding story are self-reported or dramatized. The lunar-crater match, “Ashok's Sight” performance, water output, and refugee deployment are not independently established, and the episode's Shikhar/Shekhar spelling variation is normalized to the existing canonical identity without treating that normalization as verification.
+The page is bounded to fourteen ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, inventions, or independent AI projects beyond claims made in those sources. His logistics ventures, childhood conditions, corporate departure, highway near-miss, family loss, relationship to Ashok, notebook discovery, and coding story are self-reported or dramatized. The lunar-crater match, “Ashok's Sight” performance, water output, and refugee deployment are not independently established, and the episode's Shikhar/Shekhar spelling variation is normalized to the existing canonical identity without treating that normalization as verification.
 
 ## What Changed
-- Added a short personal-story format alongside the twelve represented interviews.
-- Extended the profile into cognitive-difference reframing and associative AI inspiration.
-- Added an explicit evidence boundary around the narrated family, lunar, system-performance, and water-impact claims.
+- Added opportunity-search labor and ensemble comedy as new interview branches.
+- Strengthened the consent-and-human-reaction boundary around creative AI assistance.
 
 ## Relationships
 - [[TomorrowToday]] - show he hosts in the represented sources.
@@ -75,6 +76,7 @@ The page is bounded to thirteen ingested Tomorrow Today episodes. It does not in
 - [[JuanVerde]] - diplomacy and sustainability guest who develops responsible commerce, multilateralism, resilience, and dignity-aware AI questions.
 - [[JorgeBrown]] - futurist guest who develops interdependent governance, institutional redesign, and stewardship questions.
 - [[FedericaFornaciari]] - transformation guest who develops execution accountability and human leadership under AI.
+- [[VarunSharma]] - actor guest who develops opportunity search, rejection recovery, collaborative comedy, and creative-AI boundaries.
 - [[AngelicIntelligence]] - human-centered AI term Shekhar explains.
 - [[AthleteCenteredPerformanceCulture]] - leadership branch sharpened by his questions about purpose and coach dependence.
 - [[SyntheticContentTrainingFeedback]] - information-quality branch sharpened by his garbage-in, garbage-out example.
@@ -84,3 +86,5 @@ The page is bounded to thirteen ingested Tomorrow Today episodes. It does not in
 - [[HumanLeadershipUnderAI]] - judgment and agency frame sharpened through questions about AI-saved time.
 - [[AshokNatarajan]] - brother and central figure in the source-scoped family narrative.
 - [[CognitiveDifferenceReframing]] - interpretive frame developed through the Ashok story.
+- [[OpportunitySeekingAsWork]] - career-search frame sharpened through Sharma's account.
+- [[EnsembleComedyProduction]] - collaborative comedy frame sharpened through Sharma's account.

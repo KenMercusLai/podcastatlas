@@ -38764,3 +38764,13 @@ Added source `lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc`; create
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097`; created [[VarunSharma]], [[OpportunitySeekingAsWork]], and [[EnsembleComedyProduction]]; and resynthesized [[TomorrowToday]], [[ShekharNatarajan]], [[ActingOpportunityReadiness]], and [[RejectionTolerancePractice]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: intermittent acting work includes substantial invisible search labor; preparation and information widen opportunity without controlling casting; rejection recovery can depend on family, financial runway, and language for distress; screen comedy distributes authorship across performers and production; and AI assistance remains bounded by consent, lived experience, artistic judgment, and human reaction. No settled contradiction was adopted. The constructive learning frame does not erase financial or mental-health costs, a successful outsider's path does not prove equal access, and career chronology, candidate counts, private conversations, production decisions, film reception, mental-health observations, and AI forecasts remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,858 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

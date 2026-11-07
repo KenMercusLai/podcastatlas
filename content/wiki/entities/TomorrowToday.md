@@ -16,17 +16,18 @@ sources:
   - defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730
   - defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886
   - defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305
-last_updated: 2026-11-02
+  - default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097
+last_updated: 2026-11-08
 knowledge_schema: synthesis-v1
 ---
 
 # Tomorrow Today
 
 ## Overview
-Tomorrow Today is a podcast hosted in the current sources by [[ShekharNatarajan]]. Its represented episodes pair long-form interviews and one short dramatized family narrative with questions about business identity, resilience, spirituality, survival, cognitive difference, public institutions, creative careers, elite sport, inequality, organizational transformation, technology, leadership, and human meaning.
+Tomorrow Today is a podcast hosted in the current sources by [[ShekharNatarajan]]. Its represented episodes pair long-form interviews and one short dramatized family narrative with questions about business identity, resilience, spirituality, survival, cognitive difference, public institutions, creative careers, comedy, elite sport, inequality, organizational transformation, technology, leadership, and human meaning.
 
 ## Current Profile
-The wiki knows Tomorrow Today through twelve interviews and one short narrative. The interviews connect branding, mountaineering, Buddhism, government, acting, writing, survival, artistic swimming, creator operations, diplomacy, futures, and transformation to recurring questions about purpose, dignity, judgment, and AI. The [[AshokNatarajan]] story changes the format: it uses a childhood notebook, delayed recognition, brotherly reconciliation, and a proposed “Ashok's Sight” system to argue for [[CognitiveDifferenceReframing]]. Its inspirational value is preserved without treating the alleged lunar prediction, AI performance, or water deployment as independently documented.
+The wiki knows Tomorrow Today through thirteen interviews and one short narrative. The interviews connect branding, mountaineering, Buddhism, government, acting, writing, survival, artistic swimming, creator operations, diplomacy, futures, transformation, and comedy to recurring questions about purpose, dignity, judgment, and AI. [[VarunSharma]] adds opportunity-search labor, family-supported resilience, collaborative screen comedy, and creative AI as assistance rather than a substitute for consent or human reaction. The [[AshokNatarajan]] story changes the format: it uses a childhood notebook, delayed recognition, brotherly reconciliation, and a proposed “Ashok's Sight” system to argue for [[CognitiveDifferenceReframing]]. Its inspirational value is preserved without treating the alleged lunar prediction, AI performance, or water deployment as independently documented.
 
 ## Key Characteristics
 - Identified in source metadata as Tomorrow, Today and hosted by [[ShekharNatarajan]].
@@ -49,14 +50,14 @@ The wiki knows Tomorrow Today through twelve interviews and one short narrative.
 - Futures, institutions, and interdependence - [[defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730-defaultmp3-ywr3ahjkcgo-725b059f65d6ae95b04d1dbc8a6cf2dd-104571730]] adds Brown's cross-domain challenge map, concentrated AI-power warning, public-deliberation proposal, and intergenerational stewardship frame.
 - Transformation, execution, and consulting - [[defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886-defaultmp3-ywr3ahjkcgo-ba1d684ae37ef5b6d033e83ad9620d0a-120327886]] adds Fornaciari's consulting-agency comparison, executive accountability, crisis anticipation, cultural change, and AI-era judgment frame.
 - Cognitive difference and dramatized AI impact - [[defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305]] adds the Ashok story, “Ashok's Sight,” and an explicit boundary between ethical reframing and unverified technical results.
+- Acting search, resilience, and comedy production - [[default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097]] adds Sharma's casting-room learning, months of opportunity search, family backing, mental-health qualification, ensemble comedy model, and consent-centered AI use.
 
 ## Qualifications
-Only thirteen Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. Several episodes rely heavily on first-person testimony and conversational interpretation. The Ashok source is more compressed and dramatized than the interview set; it does not independently establish family biography, diagnosis, lunar prediction, AI architecture, water safety or output, or refugee impact.
+Only fourteen Tomorrow Today sources are represented. The page describes an observed editorial pattern rather than the show's complete archive, production history, official mission, or the independent accuracy of every guest claim. Several episodes rely heavily on first-person testimony and conversational interpretation. The Ashok source is more compressed and dramatized than the interview set; it does not independently establish family biography, diagnosis, lunar prediction, AI architecture, water safety or output, or refugee impact.
 
 ## What Changed
-- Added a short dramatized narrative format alongside the interview catalogue.
-- Extended the editorial range into cognitive difference, family recognition, and associative AI.
-- Added a stronger evidence boundary for inspirational scientific and engineering claims.
+- Added acting opportunity search and ensemble comedy production to the represented editorial range.
+- Strengthened the recurring distinction between AI assistance and human consent, lived experience, judgment, and reaction.
 
 ## Relationships
 - [[ShekharNatarajan]] - host in the represented sources.
@@ -72,6 +73,7 @@ Only thirteen Tomorrow Today sources are represented. The page describes an obse
 - [[JuanVerde]] - diplomacy, commerce, sustainability, leadership, and AI-transition guest.
 - [[JorgeBrown]] - futures, governance, geopolitics, sustainability, and AI-ethics guest.
 - [[FedericaFornaciari]] - transformation, execution, and human-leadership guest.
+- [[VarunSharma]] - acting, rejection, comedy, and creative-AI guest.
 - [[AngelicIntelligence]] - recurring human-centered AI frame.
 - [[AthleteCenteredPerformanceCulture]] - newest team-purpose and autonomy frame.
 - [[CreatorFormatReinvention]] - creator adaptation frame added by the newest interview.
@@ -81,3 +83,5 @@ Only thirteen Tomorrow Today sources are represented. The page describes an obse
 - [[HumanLeadershipUnderAI]] - AI-era framework preserving judgment, verification, and belonging.
 - [[AshokNatarajan]] - central figure in the represented family narrative.
 - [[CognitiveDifferenceReframing]] - dignity-centered concept developed through that narrative.
+- [[OpportunitySeekingAsWork]] - invisible creative-career search labor developed through Sharma's account.
+- [[EnsembleComedyProduction]] - collaborative performance-and-production frame developed through Sharma's account.

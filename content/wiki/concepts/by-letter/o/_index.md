@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11071
+wiki_total_pages: 11073
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "OpportunityGeneratingDecentralization"
     title: "Opportunity-Generating Decentralization / 创造机会的去中心化"
     url: "/wiki/concepts/opportunitygeneratingdecentralization/"
+  - key: "OpportunitySeekingAsWork"
+    title: "Opportunity-Seeking as Work"
+    url: "/wiki/concepts/opportunityseekingaswork/"
   - key: "OppositionLegitimacyGap"
     title: "Opposition Legitimacy Gap"
     url: "/wiki/concepts/oppositionlegitimacygap/"

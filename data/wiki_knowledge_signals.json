@@ -7969,9 +7969,9 @@
       "url": "/wiki/concepts/actofunion1801/"
     },
     "ActingOpportunityReadiness": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_7f3751f920b60d7e5f1f95b565e5195b_90323490 [default.mp3_ywr3ahjkcgo_7f3751f920b60d7e5f1f95b565e5195b_90323490].md",
@@ -7993,9 +7993,16 @@
           "show": "Tomorrow, Today",
           "title": "Beyond The Legacy: Neil Nitin Mukesh on Bollywood, Identity and AI | Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987-defaultmp3-ywr3ahjkcgo-d629e40d43f8e7232dd0a0faf3a396e5-112242987/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
         }
       ],
-      "updated": "2026-10-14",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/actingopportunityreadiness/"
     },
     "ActionAfterAdversity": {
@@ -91903,6 +91910,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/ensemblecharacterdifferentiation/"
+    },
+    "EnsembleComedyProduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/ensemblecomedyproduction/"
     },
     "EnslavedSelfEmancipation": {
       "episode_count": 1,
@@ -218383,6 +218406,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/opportunisticcourtalignment/"
     },
+    "OpportunitySeekingAsWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/opportunityseekingaswork/"
+    },
     "OptInWorkplaceHealthMonitoring": {
       "episode_count": 1,
       "show_count": 1,
@@ -246792,9 +246831,9 @@
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
     },
     "RejectionTolerancePractice": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -246816,9 +246855,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
           "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/rejectiontolerancepractice/"
     },
     "RelationalAIEthics": {
@@ -264925,9 +264971,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -265019,9 +265065,16 @@
           "show": "Tomorrow, Today",
           "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -293633,9 +293686,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -293727,9 +293780,16 @@
           "show": "Tomorrow, Today",
           "title": "They Called Him Broken, But He Saw What NASA Discovered 33 Years Later | The Story of Ashok Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305-defaultmp3-ywr3ahjkcgo-308650d3fae2d3e0d0981870ed571704-7058305/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {
@@ -300974,6 +301034,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/varicellazosterlatencyreactivation/"
+    },
+    "VarunSharma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097 [default.mp3_ywr3ahjkcgo_e5f2ae1e1221462d4b9c6016573e88bd_94689097].md",
+          "key": "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097",
+          "show": "Tomorrow, Today",
+          "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/varunsharma/"
     },
     "VascoDaGama": {
       "episode_count": 1,
