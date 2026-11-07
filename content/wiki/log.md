@@ -38740,3 +38740,11 @@ Added source `default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-
 ## [2026-11-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-07] ingest | 总第075期：像杂志编辑一样阅读
+
+Added source `zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r`; created [[EditorialReading|编辑式阅读]], [[FormContentFit|内容—形式适配]], and [[ExperienceAsInterpretiveLensAndConstraint|经验作为理解透镜与限制]]; and resynthesized [[DuBaoTeleread|读报teleread / 独报]] and [[AIContentCompressionLoss|AI 内容压缩损失]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: editorial reading reconstructs a work's subject, reporting, scenes, voice, structure, form, and omissions before judging usefulness, preference, motive, or agreement; form is part of meaning rather than neutral packaging; and experience can both reveal structure and flatten novelty into familiar patterns. No settled contradiction was adopted. Delayed motive judgment does not cancel sponsorship or bias checks, full-form reading is not required for every text, and editorial-history, article-interpretation, and reading-outcome claims remain episode-scoped because the supplied file is a structured summary rather than the underlying articles, archives, transcript, or comparative study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,855 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

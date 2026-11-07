@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11061
+wiki_total_pages: 11064
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "EditorAsCulturalProjectManager"
     title: "Editor As Cultural Project Manager"
     url: "/wiki/concepts/editorasculturalprojectmanager/"
+  - key: "EditorialReading"
+    title: "Editorial Reading / 编辑式阅读"
+    url: "/wiki/concepts/editorialreading/"
   - key: "EdtechDataValue"
     title: "Edtech Data Value"
     url: "/wiki/concepts/edtechdatavalue/"
@@ -1376,6 +1379,9 @@ wiki_pages:
   - key: "ExpeditionTeamTrust"
     title: "Expedition Team Trust"
     url: "/wiki/concepts/expeditionteamtrust/"
+  - key: "ExperienceAsInterpretiveLensAndConstraint"
+    title: "Experience as Interpretive Lens and Constraint / 经验作为理解透镜与限制"
+    url: "/wiki/concepts/experienceasinterpretivelensandconstraint/"
   - key: "ExperienceBeforeLocationExpansion"
     title: "Experience Before Location Expansion"
     url: "/wiki/concepts/experiencebeforelocationexpansion/"

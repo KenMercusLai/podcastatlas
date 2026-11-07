@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [总第075期：像杂志编辑一样阅读](sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r.md) — 读报teleread把编辑式阅读界定为先理解作品的选材、报道、形式与结构，再判断其用途、偏好、动机和立场。
 - [Inside the insurance industry’s destruction lab](sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790.md) — Planet Money visits IBHS to connect insurer-funded destructive building tests, low-cost fortification, and the limits imposed by correlated climate risk.
 - [2026秋季篇E08 直接绑走！日本也有戒网瘾学校](sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk.md) — 日谈物语短摘以《变形计》和“真香”梗提出真人秀真实与编排的张力，但未进入标题所称的日本戒网瘾机构。
 - [Blake Scholl, Founder & CEO, Boom Supersonic: Part 2](sources/tsr-s6-blakescholl-v3-tsr-s6-blakescholl-v3.md) — The Social Radars follow-up on Boom's Rolls-Royce engine crisis, internal propulsion program, boomless flight, 42-megawatt data-center turbine, integrated aircraft design, and commercial manufacturing resilience.
@@ -30157,5 +30158,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Worker-Artist Identity Reduction / 工人艺术家身份简化](concepts/WorkerArtistIdentityReduction.md) — 当劳动身份从必要语境变成作品的完整解释与价值代理时产生的艺术家简化。
 - [Creative Self-Preservation Under Repetitive Labor / 重复劳动中的创作性自我保存](concepts/CreativeSelfPreservationUnderRepetitiveLabor.md) — 以阅读、写作、音乐、表演、友谊和有限时间自主在重复劳动中保存感知、记忆与能动性。
+
+- [Editorial Reading / 编辑式阅读](concepts/EditorialReading.md) — 先重建作品的目标、材料、形式与取舍，再判断其用途、偏好、可信度和立场的阅读实践。
+- [Form–Content Fit / 内容—形式适配](concepts/FormContentFit.md) — 让题材与冲突引导体裁、规模、声音、报道方式和结构，而非先用固定模板压平材料。
+- [Experience as Interpretive Lens and Constraint / 经验作为理解透镜与限制](concepts/ExperienceAsInterpretiveLensAndConstraint.md) — 经验既提升类型与结构识别，也可能把陌生材料过早压缩成旧有模式。
 
 ## Syntheses

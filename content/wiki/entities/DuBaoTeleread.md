@@ -9,7 +9,8 @@ sources:
   - zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211
   - zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw
   - zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42
-last_updated: 2026-10-23
+  - zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r
+last_updated: 2026-11-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The regular reading episodes show the show's ordinary synthesis mode. One moves 
 
 The newest episode extends that synthesis practice into technology culture and concentrated power. It connects selective readings of science fiction with Larry Ellison's island and commercial network through a common question: how imagination becomes materially consequential once capital and institutional position can turn it into products, infrastructure, and governance. The episode again preserves tension rather than assigning a simple villain: “错意” need not be malicious, technological ambition can create real capacity, and large-scale success can still become a fragile relationship that must be continually maintained.
 
+The latest episode makes the show's reading method explicit. [[EditorialReading|Editorial reading]] treats an article as an independent work before treating it as a source of useful points or a mirror of personal preference. The host reads subject, reporting, scene, voice, structure, form, and ending as connected judgments; uses [[FormContentFit]] to explain why different material calls for different presentation; and presents [[ExperienceAsInterpretiveLensAndConstraint|experience]] as both a perceptual advantage and a source of premature pattern matching. The method also sharpens the show's AI boundary: summaries can retrieve information without reproducing the form through which a work creates meaning.
+
 ## Key Characteristics
 - It is a Chinese podcast centered on reading, interpreting, and discussing articles through a recognizable host voice.
 - Its workflow treats article selection, English and news writing, and scripts as core expression rather than only background notes.
@@ -34,7 +37,7 @@ The newest episode extends that synthesis practice into technology culture and c
 - It uses AI selectively for support tasks such as article recommendation, research breadth, and show notes.
 - It places high value on accuracy, source checking, original reading, and listener correction.
 - It treats podcasting as a voice medium while framing long-term creation as a balance between interest, tacit taste, principle, cost, recognition, data, and reduced friction.
-- Its regular episodes connect disparate articles through larger interpretive threads and often preserve tensions rather than resolving them into simple moral verdicts.
+- Its regular episodes connect disparate articles through larger interpretive threads, treat reading as work-level reconstruction before usefulness or preference, and often preserve tensions rather than resolving them into simple moral verdicts.
 
 ## Evidence
 - Show identity and anniversary context: [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] and [[zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u]] present paired fifth-anniversary specials and identify the show in metadata as 读报teleread while the body uses 独报/读报 naming.
@@ -49,16 +52,17 @@ The newest episode extends that synthesis practice into technology culture and c
 - Desire and consumption synthesis: [[zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211]] connects storage, shopping indecision, sophistication, and advertising through future-self projection, imitation, marketing mechanism, and the moralization of pleasure.
 - Risk and ambivalence synthesis: [[zong-di-073-qi-zheng-shi-na-ling-wo-anxin-de-rang-wo-gandao-buan-cmv2j36hg07bm01xg92961dsw]] connects aviation safety, pilot disclosure, finite leave, employment gaps, and personality through risk substitution and same-cause attraction and aversion.
 - Imagination, capital, and power synthesis: [[zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42]] connects science-fiction appropriation, AI-product imagination, Ellison's island, Oracle's infrastructure expansion, and stakeholder dependence through context stripping and an imagination–capital flywheel.
+- Explicit reading method: [[zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r]] explains how genre, leads, sources, scenes, structure, endings, motive judgments, experience, and AI summaries enter the show's editorial reading practice.
 
 ## Qualifications
-This page is source-limited to two fifth-anniversary episodes and four regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, corporate relationships, debt claims, product motives, and historical claims in the regular episodes remain source-attributed rather than independently verified.
+This page is source-limited to two fifth-anniversary episodes and five regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources. Aviation events, survey figures, corporate relationships, debt claims, product motives, editorial history, article interpretations, and historical claims in the regular episodes remain source-attributed rather than independently verified.
 
 ## What Changed
-- Added the upper-half anniversary source, shifting the profile from only AI workflow toward the show's five-year creative history, writing identity, and independent-podcast sustainability.
 - Added a regular reading episode showing how the show synthesizes multiple articles into a shared judgment problem.
 - Added the consumption episode, extending that synthesis profile to desire, identity, advertising, and qualified moral judgment.
 - Added the risk-and-rest episode, extending the profile to institutional trade-offs, time control, and causally coupled ambivalence.
 - Added the science-fiction and Ellison episode, extending the profile to cultural appropriation, future imagination, capital, power, and maintained success.
+- Added the editorial-reading episode, making the show's work-first reading method and form-sensitive AI-summary boundary explicit.
 
 ## Relationships
 - [[PodcastProductionWorkflow]] - the source's detailed script, recommendation, and show-notes workflow grounds the show's production profile.
@@ -77,3 +81,7 @@ This page is source-limited to two fifth-anniversary episodes and four regular r
 - [[ImaginationCapitalFlywheel]] - connects future narratives to capital accumulation and expanded implementation power.
 - [[SuccessAsMaintainedCoordination]] - captures the episode's view of large-scale success as a continuously reproduced relationship.
 - [[PositionalImaginationBoundary]] - distinguishes the power to shape the future from authority to know or decide it.
+- [[EditorialReading]] - formalizes the show's method of understanding a work before judging its personal use or appeal.
+- [[FormContentFit]] - connects editorial form to the distinctive properties and conflicts of the material.
+- [[ExperienceAsInterpretiveLensAndConstraint]] - explains why professional experience both reveals structure and risks flattening novelty.
+- [[AIContentCompressionLoss]] - distinguishes information extraction from preserving reporting, narrative, and formal meaning.

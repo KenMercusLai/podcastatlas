@@ -2397,9 +2397,9 @@
       "url": "/wiki/concepts/aiconsumerprotectionenforcement/"
     },
     "AIContentCompressionLoss": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "184.为了在算法时代被“听见”，我们改变了多少自己？｜ 对谈「声东击西」张晶 [lpOtw0uqiVLj8m6OTnoxh0kaheE5].md",
@@ -2407,9 +2407,16 @@
           "show": "起朱楼宴宾客",
           "title": "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶",
           "url": "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
+        },
+        {
+          "episode_file": "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md",
+          "key": "zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r",
+          "show": "读报teleread",
+          "title": "总第075期：像杂志编辑一样阅读",
+          "url": "/wiki/sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-07",
       "url": "/wiki/concepts/aicontentcompressionloss/"
     },
     "AIContentLabelingAndFiltering": {
@@ -80543,9 +80550,9 @@
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
@@ -80588,9 +80595,16 @@
           "show": "读报teleread",
           "title": "总第074期：他们曾「见过」未来，于是创造了「现在」",
           "url": "/wiki/sources/zong-di-074-qi-tamen-ceng-jianguo-weilai-yushi-chuangzaole-xianzai-cmvkvb75u00q001xaevgt4t42/"
+        },
+        {
+          "episode_file": "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md",
+          "key": "zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r",
+          "show": "读报teleread",
+          "title": "总第075期：像杂志编辑一样阅读",
+          "url": "/wiki/sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r/"
         }
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-11-07",
       "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
@@ -83879,6 +83893,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/editionrevisionexplicitnesstradeoff/"
+    },
+    "EditorialReading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md",
+          "key": "zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r",
+          "show": "读报teleread",
+          "title": "总第075期：像杂志编辑一样阅读",
+          "url": "/wiki/sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/editorialreading/"
     },
     "EdmundBarton": {
       "episode_count": 1,
@@ -96475,6 +96505,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/expeditionteamtrust/"
     },
+    "ExperienceAsInterpretiveLensAndConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md",
+          "key": "zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r",
+          "show": "读报teleread",
+          "title": "总第075期：像杂志编辑一样阅读",
+          "url": "/wiki/sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/experienceasinterpretivelensandconstraint/"
+    },
     "ExperienceBeforeLocationExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -106192,6 +106238,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/forgottenpeoplepolitics/"
+    },
+    "FormContentFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmw5vho5t00dr01w28ir3f88r [cmw5vho5t00dr01w28ir3f88r].md",
+          "key": "zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r",
+          "show": "读报teleread",
+          "title": "总第075期：像杂志编辑一样阅读",
+          "url": "/wiki/sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r/"
+        }
+      ],
+      "updated": "2026-11-07",
+      "url": "/wiki/concepts/formcontentfit/"
     },
     "FormalEqualityStructuralDiscrimination": {
       "episode_count": 1,

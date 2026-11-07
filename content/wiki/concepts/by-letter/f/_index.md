@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11061
+wiki_total_pages: 11064
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "FormulaSupplyChainResilience"
     title: "Formula Supply Chain Resilience"
     url: "/wiki/concepts/formulasupplychainresilience/"
+  - key: "FormContentFit"
+    title: "Form–Content Fit / 内容—形式适配"
+    url: "/wiki/concepts/formcontentfit/"
   - key: "FortifiedAttritionPatience"
     title: "Fortified Attrition Patience / 坚壁耗敌式耐心"
     url: "/wiki/concepts/fortifiedattritionpatience/"
