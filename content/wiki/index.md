@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP293 性不容易，亲密更难：我们缺的是欲望，还是合适的人？](sources/ep293-xing-bu-rongyi-qinmi-geng-nan-women-que-de-shi-yuwang-haishi-heshi-de-ren-ljrvwz7kavgep3r4t8uxelvhxbql.md) — Talk三联将“性萧条”重构为关系进入、性教育、身体自主、表现压力与不确定性共同构成的性焦虑。
 - [总第075期：像杂志编辑一样阅读](sources/zong-di-075-qi-xiang-zazhi-bianji-yiyang-yuedu-cmw5vho5t00dr01w28ir3f88r.md) — 读报teleread把编辑式阅读界定为先理解作品的选材、报道、形式与结构，再判断其用途、偏好、动机和立场。
 - [Inside the insurance industry’s destruction lab](sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790.md) — Planet Money visits IBHS to connect insurer-funded destructive building tests, low-cost fortification, and the limits imposed by correlated climate risk.
 - [2026秋季篇E08 直接绑走！日本也有戒网瘾学校](sources/2026-qiuji-pian-e08-zhijie-bangzou-riben-yeyou-jiewangyin-xuexiao-fsumwlspkh-stbpjfzqyp-vmgk.md) — 日谈物语短摘以《变形计》和“真香”梗提出真人秀真实与编排的张力，但未进入标题所称的日本戒网瘾机构。
@@ -18997,6 +18998,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 ## Concepts
+- [Sexual Anxiety in Relationship Context / 性焦虑的关系语境](concepts/SexualAnxietyRelationshipContext.md) — 区分性活动、欲望、满意度、关系可及性与身体自主，避免把所有下降解释为同一种“性萧条”。
+- [Sexual Agency and Refusal / 性自主与拒绝权](concepts/SexualAgencyAndRefusal.md) — 将拒绝、表达偏好与认识身体纳入同一性自主框架，并关注权力与风险的不对称。
+- [Sexual Script and Performance Pressure / 性脚本与表现压力](concepts/SexualScriptPerformancePressure.md) — 识别以插入、勃起、射精、高潮或经验数量定义“完整性行为”所制造的表现焦虑。
+- [Intimate Uncertainty Tolerance / 亲密关系中的不确定性承受](concepts/IntimateUncertaintyTolerance.md) — 在保留安全、同意与底线的同时，容纳关系中的历史、差异、磨合和可修正性。
 - [Insurance-Funded Safety Research](concepts/InsuranceFundedSafetyResearch.md) — Shared insurer testing that turns claim-reduction incentives into safety evidence, market standards, and partly public knowledge.
 - [Home Fortification Economics](concepts/HomeFortificationEconomics.md) — Cost-to-loss leverage of structural mitigation and the grants, discounts, codes, and certifications needed for adoption.
 - [Correlated Catastrophe Insurance Risk](concepts/CorrelatedCatastropheInsuranceRisk.md) — Portfolio and neighborhood exposure that can make even a fortified home difficult or expensive to insure.

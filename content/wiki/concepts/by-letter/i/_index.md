@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11064
+wiki_total_pages: 11068
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "IntimateFrontierPacification"
     title: "Intimate Frontier Pacification / 亲密关系式边患安抚"
     url: "/wiki/concepts/intimatefrontierpacification/"
+  - key: "IntimateUncertaintyTolerance"
+    title: "Intimate Uncertainty Tolerance / 亲密关系中的不确定性承受"
+    url: "/wiki/concepts/intimateuncertaintytolerance/"
   - key: "IntracranialCircuitMapping"
     title: "Intracranial Circuit Mapping"
     url: "/wiki/concepts/intracranialcircuitmapping/"

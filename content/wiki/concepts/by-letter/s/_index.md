@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11064
+wiki_total_pages: 11068
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -788,6 +788,12 @@ wiki_pages:
   - key: "SexSteroidFeedbackRegulation"
     title: "Sex-Steroid Feedback Regulation"
     url: "/wiki/concepts/sexsteroidfeedbackregulation/"
+  - key: "SexualAgencyAndRefusal"
+    title: "Sexual Agency and Refusal / 性自主与拒绝权"
+    url: "/wiki/concepts/sexualagencyandrefusal/"
+  - key: "SexualAnxietyRelationshipContext"
+    title: "Sexual Anxiety in Relationship Context / 性焦虑的关系语境"
+    url: "/wiki/concepts/sexualanxietyrelationshipcontext/"
   - key: "SexualBehaviorPartnerPreferenceDistinction"
     title: "Sexual Behavior–Partner Preference Distinction"
     url: "/wiki/concepts/sexualbehaviorpartnerpreferencedistinction/"
@@ -809,6 +815,9 @@ wiki_pages:
   - key: "SexualOrientationDevelopmentalCorrelates"
     title: "Sexual Orientation Developmental Correlates"
     url: "/wiki/concepts/sexualorientationdevelopmentalcorrelates/"
+  - key: "SexualScriptPerformancePressure"
+    title: "Sexual Script and Performance Pressure / 性脚本与表现压力"
+    url: "/wiki/concepts/sexualscriptperformancepressure/"
   - key: "SexualMinorityIdentityCareBoundary"
     title: "Sexual-Minority Identity–Care Boundary / 性少数身份与照护边界"
     url: "/wiki/concepts/sexualminorityidentitycareboundary/"
