@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13946
+wiki_total_pages: 13949
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "AppLovin"
     title: "AppLovin"
     url: "/wiki/entities/applovin/"
+  - key: "ApprenticeBench"
+    title: "Apprentice Bench"
+    url: "/wiki/entities/apprenticebench/"
   - key: "ApprenticeBoysOfDerry"
     title: "Apprentice Boys of Derry"
     url: "/wiki/entities/apprenticeboysofderry/"

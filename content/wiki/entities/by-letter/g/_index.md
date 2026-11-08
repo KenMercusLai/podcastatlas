@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13946
+wiki_total_pages: 13949
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1058,6 +1058,9 @@ wiki_pages:
   - key: "GTSquared"
     title: "GT Squared"
     url: "/wiki/entities/gtsquared/"
+  - key: "GuYu"
+    title: "Gu Yu / 谷雨"
+    url: "/wiki/entities/guyu/"
   - key: "GuanJingLateHan"
     title: "Guan Jing (Late Han)"
     url: "/wiki/entities/guanjinglatehan/"

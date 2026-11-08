@@ -5171,6 +5171,10 @@
     "title": "AI Abuse-Detection Privacy Tradeoff",
     "url": "/wiki/concepts/aiabusedetectionprivacytradeoff/"
   },
+  "AIAcademicEvaluationSignalCollapse": {
+    "title": "AI Academic Evaluation Signal Collapse",
+    "url": "/wiki/concepts/aiacademicevaluationsignalcollapse/"
+  },
   "AIAcademicIntegrity": {
     "title": "AI Academic Integrity",
     "url": "/wiki/concepts/aiacademicintegrity/"
@@ -8187,6 +8191,10 @@
     "title": "Agent Native Software",
     "url": "/wiki/concepts/agentnativesoftware/"
   },
+  "AgentOperationalCognition": {
+    "title": "Agent Operational Cognition",
+    "url": "/wiki/concepts/agentoperationalcognition/"
+  },
   "AgentOptimizedCLI": {
     "title": "Agent-Optimized CLI",
     "url": "/wiki/concepts/agentoptimizedcli/"
@@ -11190,6 +11198,10 @@
   "AppointmentQualityAsStateCapacity": {
     "title": "任官适任性国家能力 / Appointment Quality as State Capacity",
     "url": "/wiki/concepts/appointmentqualityasstatecapacity/"
+  },
+  "ApprenticeBench": {
+    "title": "Apprentice Bench",
+    "url": "/wiki/entities/apprenticebench/"
   },
   "ApprenticeBoysOfDerry": {
     "title": "Apprentice Boys of Derry",
@@ -40659,6 +40671,10 @@
     "title": "古永锵 / Gu Yongqiang",
     "url": "/wiki/entities/guyongqiang/"
   },
+  "GuYu": {
+    "title": "Gu Yu / 谷雨",
+    "url": "/wiki/entities/guyu/"
+  },
   "GuZhun": {
     "title": "顾准",
     "url": "/wiki/entities/guzhun/"
@@ -66083,6 +66099,10 @@
     "title": "New York City Public Schools",
     "url": "/wiki/entities/newyorkcitypublicschools/"
   },
+  "NewYorkCognition": {
+    "title": "New York Cognition",
+    "url": "/wiki/entities/newyorkcognition/"
+  },
   "NewYorkInstituteOfTechnology": {
     "title": "New York Institute of Technology",
     "url": "/wiki/entities/newyorkinstituteoftechnology/"
@@ -82131,6 +82151,10 @@
     "title": "Sequencing Data Pipeline",
     "url": "/wiki/concepts/sequencingdatapipeline/"
   },
+  "SequentialWorkplaceLearningEvaluation": {
+    "title": "Sequential Workplace Learning Evaluation",
+    "url": "/wiki/concepts/sequentialworkplacelearningevaluation/"
+  },
   "SequoiaCapital": {
     "title": "Sequoia Capital",
     "url": "/wiki/entities/sequoiacapital/"
@@ -89530,6 +89554,10 @@
   "TechnicalComfort": {
     "title": "Technical Comfort",
     "url": "/wiki/concepts/technicalcomfort/"
+  },
+  "TechnicalCommercialClosure": {
+    "title": "Technical-Commercial Closure",
+    "url": "/wiki/concepts/technicalcommercialclosure/"
   },
   "TechnicalCultureSalesCultureTension": {
     "title": "Technical Culture Sales Culture Tension",
@@ -109114,6 +109142,10 @@
   "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288": {
     "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
     "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+  },
+  "lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc": {
+    "title": "【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨",
+    "url": "/wiki/sources/lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc/"
   },
   "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v": {
     "title": "E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？",

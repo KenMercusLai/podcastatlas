@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2368
+topic_total_pages: 2370
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3226,6 +3226,9 @@ topic_concepts:
   - key: "TechnicalDemoRetentionGap"
     title: "Technical Demo Retention Gap"
     url: "/wiki/concepts/technicaldemoretentiongap/"
+  - key: "TechnicalCommercialClosure"
+    title: "Technical-Commercial Closure"
+    url: "/wiki/concepts/technicalcommercialclosure/"
   - key: "TechnologyProfitLag"
     title: "Technology Profit Lag"
     url: "/wiki/concepts/technologyprofitlag/"
@@ -7017,6 +7020,9 @@ topic_sources:
   - key: "reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk"
     title: "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】"
     url: "/wiki/sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk/"
+  - key: "lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc"
+    title: "【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨"
+    url: "/wiki/sources/lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc/"
   - key: "jiufan-zhongting-mifeng-jingjixue-956460448"
     title: "【旧番重听】蜜蜂经济学"
     url: "/wiki/sources/jiufan-zhongting-mifeng-jingjixue-956460448/"

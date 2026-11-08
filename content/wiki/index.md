@@ -65,6 +65,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [商业小样53 | 当原来的领先者拿出挑战者的姿态，豪华车市场就变得有趣了](sources/gkwrirwovsxzajh0katz5tti-gkwrirwovsxzajh0katz5tti.md) — 商业就是这样以字母标AUDI拆解传统豪华品牌如何通过品牌分工、本土研发、挑战者定价与快速反馈应对中国新能源竞争。
 - [7-11 败走印度市场，为何牵手本土巨头仍难站稳脚跟？](sources/gkwridoovnyyahvaqqtzrpda-gkwridoovnyyahvaqqtzrpda.md) — 声动早咖啡以7-Eleven印度退场解释社区小店、即时零售、区域商品复杂度与门店密度如何共同约束便利店复制。
 - [\[年终复盘①\]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会](sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb.md) — 十字路口Crossing以十个个人时刻串联Agent范式、视频模型、RSI、小模型扩散、按需软件、能力奇观与人类粗粝价值。
+- [【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨](sources/lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc.md) — 十字路口Crossing对话谷雨，以十个判断更新串联持续学习、Apprentice Bench、企业Agent认知、RSI创业、学术评价与技术商业闭环。
 - [EP96 200块报名费，撑得起一场马拉松吗？](sources/lv8ss3l8pykybfppj7hf90kgb7fl-lv8ss3l8pykybfppj7hf90kgb7fl.md) — 一劳永逸对比上海、东京与香港马拉松，拆解报名费之外的赛事融资、城市消费、个人成本与参赛能力边界。
 - [Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881.md) — Tomorrow Today interview on non-human identity ownership, contextual authorization, agent accountability, auditability, and trust.
 - [EP292 对谈李皖：中国摇滚，在大厦崩塌中诞生](sources/ep292-duitan-liwan-zhongguo-yaogun-zai-dasha-bengta-zhong-dansheng-lskxe_5_cj3wvi-xqdyoljx8ltcgg.md) — Talk三联对话李皖，以崔健、《一无所有》、媒介接触、唱片工业、时代合力与小型现场重审中国摇滚四十年。
@@ -19020,6 +19021,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《一块滚石》 / A Drift in the South](entities/YiKuaiGunShiBook.md) — 从《深圳南流记》扩展而来的中英文回忆录项目，以不同编排连接工厂劳动、艺术成长与全球生产链。
 
 - [Varun Sharma](entities/VarunSharma.md) — Indian actor connecting casting-room learning, opportunity search, rejection recovery, ensemble comedy, and consent-centered AI use.
+- [Gu Yu / 谷雨](entities/GuYu.md) — New York Cognition co-founder focused on continual-learning evaluation, revisable technical judgment, and research-to-market discipline.
+- [New York Cognition](entities/NewYorkCognition.md) — AI startup presented as developing cognitive and continual-learning systems for organizational work.
+- [Apprentice Bench](entities/ApprenticeBench.md) — Sequential construction-accounting benchmark for learning from earlier workplace tasks and feedback.
 
 ## Concepts
 - [AI Financing Reflexivity](concepts/AIFinancingReflexivity.md) — Feedback loop linking market repricing and marginal funding costs to AI project execution, counterparties, and demand.
@@ -30206,5 +30210,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ensemble Comedy Production](concepts/EnsembleComedyProduction.md) — Screen-comedy framework distributing timing and authorship across performers, reactions, writing, direction, editing, music, and sequence design.
 - [Capability-Boundary Self-Knowledge / 能力边界自知](concepts/CapabilityBoundarySelfKnowledge.md) — Distinguishes a genuine strength from the wider roles, authority, costs, and decisions that strength can safely support.
 - [Tactical–Strategic Capability Gap / 战术—战略能力落差](concepts/TacticalStrategicCapabilityGap.md) — Difference between local execution and the political, logistical, relational, organizational, and temporal system that determines durable outcomes.
+- [Sequential Workplace Learning Evaluation](concepts/SequentialWorkplaceLearningEvaluation.md) — Ordered-task evaluation of whether prior workplace feedback and rules improve later agent performance.
+- [Agent Operational Cognition](concepts/AgentOperationalCognition.md) — Organizational understanding layer that distinguishes knowing what work means from merely operating its software.
+- [AI Academic Evaluation Signal Collapse](concepts/AIAcademicEvaluationSignalCollapse.md) — Loss of signal when research-output volume outgrows qualified review and formal production becomes cheaper than understanding.
+- [Technical-Commercial Closure](concepts/TechnicalCommercialClosure.md) — Mapping from coherent technical capability to an urgent user problem, usable product, business value, and feedback loop.
 
 ## Syntheses

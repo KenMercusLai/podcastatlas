@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 13946
+wiki_total_pages: 13949
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "NewYorkCityPublicSchools"
     title: "New York City Public Schools"
     url: "/wiki/entities/newyorkcitypublicschools/"
+  - key: "NewYorkCognition"
+    title: "New York Cognition"
+    url: "/wiki/entities/newyorkcognition/"
   - key: "NewYorkInstituteOfTechnology"
     title: "New York Institute of Technology"
     url: "/wiki/entities/newyorkinstituteoftechnology/"

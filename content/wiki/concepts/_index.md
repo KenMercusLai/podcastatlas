@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11082
+wiki_total_pages: 11086
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "AgentNativeSoftware"
     title: "Agent Native Software"
     url: "/wiki/concepts/agentnativesoftware/"
+  - key: "AgentOperationalCognition"
+    title: "Agent Operational Cognition"
+    url: "/wiki/concepts/agentoperationalcognition/"
   - key: "AgentOrganizationalCulture"
     title: "Agent Organizational Culture"
     url: "/wiki/concepts/agentorganizationalculture/"
@@ -713,6 +716,9 @@ wiki_pages:
   - key: "AIAbuseDetectionPrivacyTradeoff"
     title: "AI Abuse-Detection Privacy Tradeoff"
     url: "/wiki/concepts/aiabusedetectionprivacytradeoff/"
+  - key: "AIAcademicEvaluationSignalCollapse"
+    title: "AI Academic Evaluation Signal Collapse"
+    url: "/wiki/concepts/aiacademicevaluationsignalcollapse/"
   - key: "AIAcademicIntegrity"
     title: "AI Academic Integrity"
     url: "/wiki/concepts/aiacademicintegrity/"

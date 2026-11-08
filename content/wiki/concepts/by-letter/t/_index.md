@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11082
+wiki_total_pages: 11086
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "TechnicalResistanceFromWithin"
     title: "Technical Resistance From Within / 体制内技术抵抗"
     url: "/wiki/concepts/technicalresistancefromwithin/"
+  - key: "TechnicalCommercialClosure"
+    title: "Technical-Commercial Closure"
+    url: "/wiki/concepts/technicalcommercialclosure/"
   - key: "TechniqueSituationWayFramework"
     title: "Technique–Situation–Way Action Framework / 术—势—道行动框架"
     url: "/wiki/concepts/techniquesituationwayframework/"

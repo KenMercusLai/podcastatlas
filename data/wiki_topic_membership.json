@@ -8845,6 +8845,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIAcademicEvaluationSignalCollapse": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAcademicIntegrity": [
     {
       "key": "technology",
@@ -13650,6 +13657,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AgentOperationalCognition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AgentOrganizationalCulture": [
     {
       "key": "culture",
@@ -16583,6 +16597,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ApprenticeBench": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ApprenticeBoysOfDerry": [
@@ -44254,6 +44275,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GuYu": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GuZhun": [
     {
       "key": "economics",
@@ -66633,6 +66661,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NewYorkCognition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NewYorkInstituteOfTechnology": [
     {
       "key": "culture",
@@ -82435,6 +82470,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SequentialWorkplaceLearningEvaluation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SequoiaCapital": [
     {
       "key": "economics",
@@ -89983,6 +90025,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TechnicalCommercialClosure": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "TechnicalCultureSalesCultureTension": [
@@ -108891,6 +108940,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "lgvsxbt7tstj2vhxupcrxnrf3g4v-lgvsxbt7tstj2vhxupcrxnrf3g4v": [
