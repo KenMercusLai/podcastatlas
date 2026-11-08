@@ -72652,9 +72652,9 @@
       "url": "/wiki/concepts/defensivedecentralizedacceleration/"
     },
     "DefensiveFallbackInfrastructure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
@@ -72662,9 +72662,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        },
+        {
+          "episode_file": "lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g [lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g].md",
+          "key": "zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/defensivefallbackinfrastructure/"
     },
     "Dehong": {
@@ -256617,9 +256624,9 @@
       "url": "/wiki/entities/rutgersuniversity/"
     },
     "RuxuFortressLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
@@ -256627,10 +256634,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh/"
+        },
+        {
+          "episode_file": "lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g [lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g].md",
+          "key": "zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/ruxufortresslatehan/"
+    },
+    "RuxukouCampaign213LateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g [lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g].md",
+          "key": "zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/ruxukoucampaign213latehan/"
     },
     "RuziYing": {
       "episode_count": 4,
@@ -278808,6 +278838,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/concepts/strengthasskillpractice/"
+    },
+    "StrengthBackedDeescalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g [lrkZ2p2fvh2FPW5OWjdj7xG_Dc8g].md",
+          "key": "zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/strengthbackeddeescalation/"
     },
     "StrengthBenchmarkTesting": {
       "episode_count": 1,

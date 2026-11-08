@@ -80131,6 +80131,10 @@
     "title": "濡须坞 / Ruxu Fortress",
     "url": "/wiki/entities/ruxufortresslatehan/"
   },
+  "RuxukouCampaign213LateHan": {
+    "title": "濡须口之战（213年） / Ruxukou Campaign (213 CE)",
+    "url": "/wiki/entities/ruxukoucampaign213latehan/"
+  },
   "RuziYing": {
     "title": "孺子婴 / Ruzi Ying",
     "url": "/wiki/entities/ruziying/"
@@ -87090,6 +87094,10 @@
   "StrengthAsSkillPractice": {
     "title": "Strength as Skill Practice",
     "url": "/wiki/concepts/strengthasskillpractice/"
+  },
+  "StrengthBackedDeescalation": {
+    "title": "实力支撑的冲突降温 / Strength-Backed De-escalation",
+    "url": "/wiki/concepts/strengthbackeddeescalation/"
   },
   "StrengthBenchmarkTesting": {
     "title": "Strength Benchmark Testing / 力量基准测试",
@@ -114250,6 +114258,10 @@
   "zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho": {
     "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
+  },
+  "zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g": {
+    "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
   },
   "zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod": {
     "title": "《资治通鉴·汉纪》1134丨曹操没有篡汉称帝之心？？？",

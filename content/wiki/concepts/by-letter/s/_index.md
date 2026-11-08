@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11079
+wiki_total_pages: 11080
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2936,6 +2936,9 @@ wiki_pages:
   - key: "ShishiQiushi"
     title: "实事求是 / Seeking Truth from Facts"
     url: "/wiki/concepts/shishiqiushi/"
+  - key: "StrengthBackedDeescalation"
+    title: "实力支撑的冲突降温 / Strength-Backed De-escalation"
+    url: "/wiki/concepts/strengthbackeddeescalation/"
   - key: "StatusNeutralPalaceGateEnforcement"
     title: "宫门礼制的身份中立执行 / Status-Neutral Palace Gate Enforcement"
     url: "/wiki/concepts/statusneutralpalacegateenforcement/"

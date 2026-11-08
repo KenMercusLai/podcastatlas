@@ -212,6 +212,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷](sources/ep149-ep149.md) — 疯投圈拆解抖省省与美团、大众点评的到店团购竞争，并以东茅街茶馆和天福台讨论商户如何建立不依赖平台券的目的地流量。
 - [《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？](sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6.md) — 以治理、止乱与百姓福祉挑战单纯的汉室名分，并以《君主论》和庞统三策限定道德化阵营叙事。
 - [《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？](sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho.md) — 以宗室谱系、隆中对和荆益扩张解释诸葛亮择主与刘备晚成，并以入蜀夺益州过程限定单纯的仁德叙事。
+- [《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战](sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g.md) — 孙权以濡须防线、舟师与直率书信支撑抵抗，曹操则在水位和水战条件恶化前主动撤军。
 - [高洁丝｜微信上线免费短剧小程序，中国对欧盟的混动车出口预计减少](sources/gaojiesi-weixin-shangxian-mianfei-duanju-xiaochengxu-zhongguo-dui-oumeng-de-hundongche-chukou-yuji-jianshao-1023591374.md) — 声动早咖啡串联微信短剧聚合、中欧混动车贸易、朴朴厨房、电动自行车认证与个人智能体竞争。
 - [Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him](sources/all-in-with-chamath-jason-sacks-friedberg-martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what.md) — All-In interview on quantum commercialization limits, photonic AI compute, pharmaceutical asset repositioning, rebound demand, and identity-driven failure.
 - [《资治通鉴·汉纪》1129丨曹操背后的男人，荀彧有哪些惊世之举？](sources/zizhi-tongjian-hanji-1129-caocao-beihou-de-nanren-xunyu-you-naxie-jingshi-zhiju-lu5gyp3ugnwuy5uecwkld30lapgh.md) — 从颍川士族的藏书、教育与政治网络切入荀彧的迁徙、择主、迎奉汉献帝和官渡判断，并揭示其辅汉目标与曹操权力上升之间的潜在冲突。
@@ -5376,6 +5377,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑浑 / Zheng Hun](entities/ZhengHunLateHan.md) — 以守城、奖励、交换、劝降与安置分化梁兴部众的左冯翊太守。
 - [梁兴 / Liang Xing](entities/LiangXingLateHan.md) — 渭南战后流窜左冯翊、遭郑浑分化并在夏侯渊援军下覆灭的关中武装首领。
 - [濡须坞 / Ruxu Fortress](entities/RuxuFortressLateHan.md) — 吕蒙为防败退时无法及时登船而建议孙权修筑的水陆衔接防御据点。
+- [濡须口之战（213年） / Ruxukou Campaign (213 CE)](entities/RuxukouCampaign213LateHan.md) — 曹操进攻、孙权依托江防与舟师相持，并在水势转变前以直率书信促成撤军的濡须战役。
 - [包智光 / Bao Zhiguang](entities/BaoZhiguang.md) — French Catholic priest, former physicist, theologian, missionary, and Chinese Bible translation-team adviser discussing faith, love, freedom, and suffering.
 - [丁斐 / Ding Fei (Late Han)](entities/DingFeiLateHan.md) — 潼关战役渡河危机中放出牛马、转移追兵注意力的曹军人物。
 - [Jack Manning](entities/JackManning.md) — Researcher studying how people experience representation and reincarnation designs for AI generative ghosts.
@@ -19493,6 +19495,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [内容—笔迹归因 / Content-Handwriting Attribution](concepts/ContentHandwritingAttribution.md) — 先以文本知识线索缩小作者范围，再以另取书写样本进行佐证的调查序列。
 - [受胁群体退出设计 / Coercive Coalition Exit Design](concepts/CoerciveCoalitionExitDesign.md) — 通过安全存在、物质激励、交换、可信劝降与接纳机制让受胁成员脱离武装集团。
 - [防御性退路基础设施 / Defensive Fallback Infrastructure](concepts/DefensiveFallbackInfrastructure.md) — 在失利、追击或运输不可及时抵达时保存兵力与选择空间的预设防御节点。
+- [实力支撑的冲突降温 / Strength-Backed De-escalation](concepts/StrengthBackedDeescalation.md) — 先以可见能力建立边界，再以直接信息和现实条件为持续冲突提供可接受的退出路径。
 - [Lived Faith Discernment / 信仰作为生活中的信任与辨认](concepts/LivedFaithDiscernment.md) — Faith as testimony-mediated trust tested through doubt, community, revisable conscience, and the moral fruit of a life.
 - [Love as Free Self-Gift / 爱作为自由的自我给予](concepts/LoveAsFreeSelfGift.md) — Mature love as unforced care, time, presence, truth, or sacrifice amid mixed motives.
 - [Divine Silence and Suffering / 上帝的沉默与苦难](concepts/DivineSilenceAndSuffering.md) — Christian response to suffering and felt divine absence through witness, non-blame, and continuing love rather than complete explanation.
