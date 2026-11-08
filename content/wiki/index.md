@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1136丨他勇如韩信，却因一个决定全家被杀](sources/zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb.md) — 芮淇讲透资治通鉴 episode on Ji's multi-constraint relief failure, Yan Wen's coerced-message reversal, Wei Kang's surrender, and Ma Chao's destruction of local trust.
 - [《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？](sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n.md) — 芮淇讲透资治通鉴 episode on Ma Chao's killing of the surrendered Wei Kang, Yang Fu's funeral-leave conspiracy, Jiang Xu's maternal support, and Zhao Ang's hostage dilemma.
 - [《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲](sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg.md) — 芮淇讲透资治通鉴 episode on the Ji resistance against Ma Chao, Zhao Yue's hostage death, Yang Fu's costly loyalty, Yuan Huan's cross-regime gratitude, and the opening of the Wei punishment debate.
 - [《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人](sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk.md) — 芮淇讲透资治通鉴 episode on Cao Cao's proposed restoration of mutilating punishment, Chen Qun's actual-harm argument, the ancient five punishments, exemplary execution, and five practical reasons to study history.
@@ -4982,6 +4983,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
 
 ## Entities
+- [阎温 / Yan Wen (late Han)](entities/YanWenLateHan.md) — Ji relief envoy who reverses Ma Chao's coerced surrender message into a final appeal for continued defense.
 - [韦康 / Wei Kang (late Han)](entities/WeiKangLateHan.md) — Liangzhou inspector whose surrender of Ji and reported killing by Ma Chao become the immediate trust breach behind Yang Fu's resistance network.
 - [赵昂 / Zhao Ang (late Han)](entities/ZhaoAngLateHan.md) — Ji resistance participant whose shared decision to expose Zhao Yue as Ma Chao's hostage makes family cost part of his loyalty profile.
 - [王异 / Wang Yi (wife of Zhao Ang)](entities/WangYiZhaoAngWife.md) — Disambiguated late-Han woman who supports the anti-Ma-Chao cause despite the mortal hostage risk imposed on her son.
