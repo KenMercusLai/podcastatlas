@@ -38848,3 +38848,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-09] ingest | 188.关于本轮下跌的三个想法和一些建议
+
+Added source `lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp`; created [[AIFinancingReflexivity]] and [[CrossMarketAIExposureConcentration]]; and resynthesized [[AIInfrastructureDebtFinancing]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: strong AI demand and technological progress can coexist with poor shareholder or lender outcomes; when unfinished capacity still needs external capital, market repricing can raise marginal funding costs and feed back into project execution, counterparties, and equipment demand. Geographic variety is not necessarily diversification when U.S. compute and Chinese hardware holdings depend on the same capex cycle. No settled contradiction was adopted. CoreWeave ratios, Treasury-funding comparisons, OpenAI fundraising, policy effects, ETF premiums, and contagion scenarios remain source-scoped. Broad allocation, company, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,868 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-09] lint | Wiki health check
+
+Health and identity validation passed. Deterministic lint found nine orphan pages, 52 broken wikilink occurrences, one missing entity page (`IntrinsicMotivation`), and no sparse pages. Graph-aware checks found no hub stubs, 11 fragile bridges, and no isolated communities. The configured semantic API pass was unavailable because no provider-qualified `LLM_MODEL` or provider credentials are configured; a bounded in-session review of the same 20-page sample found no direct contradiction, while flagging thin single-source concepts and corroboration needs. The report was returned in-session and `wiki/lint-report.md` was not saved.

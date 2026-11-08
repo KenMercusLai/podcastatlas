@@ -3411,6 +3411,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
+    "AIFinancingReflexivity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt6yTc8uTffpeS_crF7i-RmxFXzp [lt6yTc8uTffpeS_crF7i-RmxFXzp].md",
+          "key": "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp",
+          "show": "起朱楼宴宾客",
+          "title": "188.关于本轮下跌的三个想法和一些建议",
+          "url": "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/aifinancingreflexivity/"
+    },
     "AIForMath": {
       "episode_count": 6,
       "show_count": 4,
@@ -4128,9 +4144,9 @@
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
     "AIInfrastructureDebtFinancing": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 3,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -4215,9 +4231,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
           "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        },
+        {
+          "episode_file": "lt6yTc8uTffpeS_crF7i-RmxFXzp [lt6yTc8uTffpeS_crF7i-RmxFXzp].md",
+          "key": "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp",
+          "show": "起朱楼宴宾客",
+          "title": "188.关于本轮下跌的三个想法和一些建议",
+          "url": "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
     },
     "AIInfrastructureFixedVsSpotContracting": {
@@ -65495,6 +65518,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/crosslanguagerecommendationbias/"
+    },
+    "CrossMarketAIExposureConcentration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt6yTc8uTffpeS_crF7i-RmxFXzp [lt6yTc8uTffpeS_crF7i-RmxFXzp].md",
+          "key": "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp",
+          "show": "起朱楼宴宾客",
+          "title": "188.关于本轮下跌的三个想法和一些建议",
+          "url": "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/crossmarketaiexposureconcentration/"
     },
     "CrossModalSpatialRemapping": {
       "episode_count": 1,

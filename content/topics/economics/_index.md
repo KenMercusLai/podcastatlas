@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2365
+topic_total_pages: 2368
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -169,6 +169,9 @@ topic_concepts:
   - key: "AIEquityValuationRisk"
     title: "AI Equity Valuation Risk"
     url: "/wiki/concepts/aiequityvaluationrisk/"
+  - key: "AIFinancingReflexivity"
+    title: "AI Financing Reflexivity"
+    url: "/wiki/concepts/aifinancingreflexivity/"
   - key: "AIInferenceCostStructure"
     title: "AI Inference Cost Structure"
     url: "/wiki/concepts/aiinferencecoststructure/"
@@ -883,6 +886,9 @@ topic_concepts:
   - key: "CrossBorderWealthManagementConnect"
     title: "Cross-Border Wealth Management Connect"
     url: "/wiki/concepts/crossborderwealthmanagementconnect/"
+  - key: "CrossMarketAIExposureConcentration"
+    title: "Cross-Market AI Exposure Concentration"
+    url: "/wiki/concepts/crossmarketaiexposureconcentration/"
   - key: "CrossMarketLeveragedETFExecutionRisk"
     title: "Cross-Market Leveraged ETF Execution Risk / 跨市场杠杆 ETF 执行风险"
     url: "/wiki/concepts/crossmarketleveragedetfexecutionrisk/"
@@ -6237,6 +6243,9 @@ topic_sources:
   - key: "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49"
     title: "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇"
     url: "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+  - key: "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp"
+    title: "188.关于本轮下跌的三个想法和一些建议"
+    url: "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

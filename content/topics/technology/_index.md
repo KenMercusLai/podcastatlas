@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3766
+topic_total_pages: 3769
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -547,6 +547,9 @@ topic_concepts:
   - key: "AIFileManagement"
     title: "AI File Management"
     url: "/wiki/concepts/aifilemanagement/"
+  - key: "AIFinancingReflexivity"
+    title: "AI Financing Reflexivity"
+    url: "/wiki/concepts/aifinancingreflexivity/"
   - key: "AIFirstDraftGeneration"
     title: "AI First-Draft Generation"
     url: "/wiki/concepts/aifirstdraftgeneration/"
@@ -1855,6 +1858,9 @@ topic_concepts:
   - key: "CrossDevicePersonalMemory"
     title: "Cross-Device Personal Memory / 跨设备个人记忆"
     url: "/wiki/concepts/crossdevicepersonalmemory/"
+  - key: "CrossMarketAIExposureConcentration"
+    title: "Cross-Market AI Exposure Concentration"
+    url: "/wiki/concepts/crossmarketaiexposureconcentration/"
   - key: "CrossSegmentMemoryCompetition"
     title: "Cross-Segment Memory Competition"
     url: "/wiki/concepts/crosssegmentmemorycompetition/"
@@ -9543,6 +9549,9 @@ topic_sources:
   - key: "lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave"
     title: "186.何为中国经济新范式？｜对话CF40研究院院长郭凯"
     url: "/wiki/sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave/"
+  - key: "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp"
+    title: "188.关于本轮下跌的三个想法和一些建议"
+    url: "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
   - key: "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto"
     title: "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会"
     url: "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"

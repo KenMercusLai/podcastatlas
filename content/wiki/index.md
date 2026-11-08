@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [188.关于本轮下跌的三个想法和一些建议](sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp.md) — 起朱楼宴宾客 on AI financing reflexivity, shared cross-market capex exposure, and allocation discipline during a broad risk-asset decline.
 - [《资治通鉴·汉纪》1134丨曹操没有篡汉称帝之心？？？](sources/zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Nine Provinces centralization, Jiang Ji's rejected migration warning, civilian flight to Sun Quan, and Cao Cao's elevation as Duke of Wei with the Nine Bestowments.
 - [《资治通鉴·汉纪》1135丨曹操为什么没有一举歼灭马超？](sources/zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo.md) — 芮淇讲透资治通鉴 episode on Cao Cao prioritizing a Hejian rear rebellion, Yang Fu's warning, Ma Chao's coalition-backed recovery, and Wei's vassal-state ritual institutionalization.
 - [《资治通鉴·汉纪》1136丨他勇如韩信，却因一个决定全家被杀](sources/zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb.md) — 芮淇讲透资治通鉴 episode on Ji's multi-constraint relief failure, Yan Wen's coerced-message reversal, Wei Kang's surrender, and Ma Chao's destruction of local trust.
@@ -19021,6 +19022,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Varun Sharma](entities/VarunSharma.md) — Indian actor connecting casting-room learning, opportunity search, rejection recovery, ensemble comedy, and consent-centered AI use.
 
 ## Concepts
+- [AI Financing Reflexivity](concepts/AIFinancingReflexivity.md) — Feedback loop linking market repricing and marginal funding costs to AI project execution, counterparties, and demand.
+- [Cross-Market AI Exposure Concentration](concepts/CrossMarketAIExposureConcentration.md) — Hidden portfolio dependence when holdings in different markets rely on the same AI capital-expenditure cycle.
 - [上古五刑 / Ancient Five Punishments](concepts/AncientFivePunishments.md) — 将墨、劓、刖、宫、大辟区分为社会标记、毁容、残疾、生殖伤害与死刑，同时保留制度沿革和具体机制的史料边界。
 - [历史学习的实践定位 / History as Practical Orientation](concepts/HistoryAsPracticalOrientation.md) — 把历史学习综合为时空定位、人性比较、信息辨析、文明与法治理解及逆境韧性，同时限制机械类比和创伤浪漫化。
 - [Data Center Permitting-Pipeline Risk](concepts/DataCenterPermittingPipelineRisk.md) — Risk that incomplete approvals, moratoriums, and political uncertainty weaken later compute buildout or strand committed capital.
