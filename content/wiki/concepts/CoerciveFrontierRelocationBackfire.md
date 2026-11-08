@@ -6,12 +6,13 @@ tags: [frontier, statecraft, migration, rebellion, late-han, qiang]
 sources:
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
   - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod
+last_updated: 2026-11-08
 ---
 
 ## Definition
 
-强迁避敌反噬 / Coercive Frontier Relocation Backfire is the failure mode in which a state tries to deny rebels access to frontier civilians by forcing those civilians inland, but coercive implementation destroys livelihood, kills or scatters the protected population, weakens trust, and can push survivors into rebellion.
+强迁避敌反噬 / Coercive Frontier Relocation Backfire is the failure mode in which a state tries to deny an adversary access to frontier civilians by forcing those civilians inland, but coercive implementation destroys livelihood or trust, kills or scatters the protected population, and can push survivors into rebellion or into the rival's territory.
 
 ## Current Synthesis
 
@@ -21,12 +22,18 @@ The implementation reverses that logic. Hanji 785 says officials force departure
 
 The concept is narrower than any criticism of relocation. It does not claim that population movement is always wrong in war. It says forced movement becomes strategically self-defeating when the state destroys the very livelihood, trust, and protection capacity that would make people accept relocation as safety rather than abandonment.
 
+Hanji 1134 adds an inter-regime version under [[CaoCao|曹操]]. Cao Cao seeks to remove civilians from the Yangtze frontier so [[SunQuan|孙权]] cannot threaten or exploit them, and cites the earlier Yan-Baima evacuation as precedent. [[JiangJiLateHan|蒋济]] argues that the context has changed: the population is settled and not disloyal, so coercion will produce panic. The episode reports that more than one hundred thousand households flee south after the order, transferring people and productive capacity to the rival the policy was supposed to deny.
+
+This case sharpens the mechanism. Backfire does not require officials to burn homes or civilians to join an insurgency. A credible fear of forced removal can be enough to reverse the direction of security policy, especially when the neighboring regime offers a safer or more attractive destination.
+
 ## Key Claims
 
 - Population separation can be a plausible counterinsurgency aim, but it depends on credible protection and resettlement capacity.
 - Coercive destruction of homes, crops, granaries, and local livelihood turns a security measure into visible state harm.
 - Famine, abandonment, enslavement, and humiliation can convert civilians from a protected population into deaths, displaced people, or rebel manpower.
+- Anticipated coercion can trigger preemptive flight even when the state presents movement as protection.
 - The backfire is political as well as military because rebels gain both recruits and a story that the court has abandoned its own people.
+- In interstate frontier competition, the rival can gain population and productive capacity without winning them by battle.
 - Later battlefield victories do not erase the original policy failure if the state first created part of the enemy it then has to fight.
 
 ## Evidence
@@ -36,15 +43,18 @@ The concept is narrower than any criticism of relocation. It does not claim that
 - Civilian attrition: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] emphasizes road deaths, abandonment of old and weak people, enslavement, and population loss of more than half.
 - Rebel conversion: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] uses Du Jigong as the case of a Han civilian who joins Qiang forces after the relocation pressure.
 - Operational consequence: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] shows Du Jigong defeating Pang Can's branch, retaking Dingxi after Sima Jun's brief success, and later requiring assassination through Yu Gui.
+- Context-sensitive warning: [[zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod|Hanji 1134]] says Jiang Ji distinguishes Cao Cao's proposal from the earlier Yan-Baima evacuation because the frontier population is settled and not disloyal.
+- Rival-side population gain: [[zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod|Hanji 1134]] reports that the order causes more than one hundred thousand households to cross into Sun Quan's territory.
 
 ## Counterevidence & Qualifications
 
-The page is still based on two podcast-transcript episodes and should not be treated as a complete Eastern Han migration-policy history. The durable claim is bounded: in these Qiang-war narratives, coercive relocation is presented as a protection policy that destroys livelihood and trust, directly harms the people being moved, and can create a stronger enemy from survivors who no longer experience the state as protective.
+The page is based on three popular-history podcast notes and should not be treated as a complete Eastern Han migration-policy history. The durable claim is bounded: coercive relocation can reverse a protection or denial objective when implementation destroys livelihood and trust or when the threatened population has a credible rival destination. Hanji 1134's household total, destination distribution, exact policy mechanics, and causal sequence remain source-scoped; it does not establish that every household moved solely because of the decree.
 
 ## What Changed
 
-- Added Hanji 785's earlier relocation disaster, including destroyed crops, houses, granaries, road deaths, abandonment, enslavement, and population loss.
-- Reframed the concept so backfire includes direct civilian attrition and displacement as well as later rebel conversion through Du Jigong.
+- Added Cao Cao's Yangtze-frontier order as an interstate case where civilians reportedly flee to the rival rather than inland.
+- Expanded backfire from direct destruction and rebel conversion to anticipatory flight and rival-side demographic gain.
+- Added Jiang Ji's changed-context warning as evidence that precedent transfer must test civilian conditions and destination options.
 
 ## Related Concepts
 
@@ -54,3 +64,5 @@ The page is still based on two podcast-transcript episodes and should not be tre
 - [[FrontierConscriptionBackfire]] - adjacent extraction-backfire pattern where state manpower policy strengthens rebellion.
 - [[WarCostTempoDiscipline]] - cost lens because coercive relocation can create expensive follow-on campaigns.
 - [[DuJigongLateHan]] - source case of civilian conversion into armed opposition.
+- [[JiangJiLateHan]] - adviser who predicts the interstate relocation failure before implementation.
+- [[MisappliedHistoricalAnalogy]] - adjacent error when an earlier evacuation is reused without testing changed conditions.

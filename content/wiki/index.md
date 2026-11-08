@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1134丨曹操没有篡汉称帝之心？？？](sources/zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Nine Provinces centralization, Jiang Ji's rejected migration warning, civilian flight to Sun Quan, and Cao Cao's elevation as Duke of Wei with the Nine Bestowments.
 - [《资治通鉴·汉纪》1135丨曹操为什么没有一举歼灭马超？](sources/zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo.md) — 芮淇讲透资治通鉴 episode on Cao Cao prioritizing a Hejian rear rebellion, Yang Fu's warning, Ma Chao's coalition-backed recovery, and Wei's vassal-state ritual institutionalization.
 - [《资治通鉴·汉纪》1136丨他勇如韩信，却因一个决定全家被杀](sources/zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb.md) — 芮淇讲透资治通鉴 episode on Ji's multi-constraint relief failure, Yan Wen's coerced-message reversal, Wei Kang's surrender, and Ma Chao's destruction of local trust.
 - [《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？](sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n.md) — 芮淇讲透资治通鉴 episode on Ma Chao's killing of the surrendered Wei Kang, Yang Fu's funeral-leave conspiracy, Jiang Xu's maternal support, and Zhao Ang's hostage dilemma.

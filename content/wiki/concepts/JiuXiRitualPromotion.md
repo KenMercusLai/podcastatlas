@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
   - zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh
   - zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh
-last_updated: 2026-10-13
+  - zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod
+last_updated: 2026-11-08
 ---
 
 ## Definition
@@ -24,6 +25,8 @@ The episode treats the award as a political threshold. Wang Mang receives ritual
 Hanji 1128 adds a late-Han comparison through [[CaoCao|曹操]]. After earlier special privileges, [[EmperorXianOfHan|汉献帝]] grants Cao Cao the Nine Bestowments. The episode treats this as the upper ritual limit for a minister and as a visible pre-dynastic threshold, but it does not equate the award itself with completed usurpation. Together, the Wang Mang and Cao Cao cases make Nine Bestowments a reusable language for exceptional ministerial power rather than a one-person object list.
 
 Hanji 1130 adds the coalition cost of crossing that threshold. [[XunYu|荀彧]] opposes Cao Cao's proposed elevation by invoking the original Han-restoration commitment and ruler-minister distinction. The award therefore does more than advertise status outwardly: it can force insiders to decide whether earlier legitimacy language was a temporary instrument or a binding limit, turning ritual promotion into a test of continued political membership.
+
+Hanji 1134 supplies the formal Duke of Wei setting and a more explicit privilege list. The episode places the award after Cao Cao receives a ten-commandery fief while retaining his offices as chancellor and governor of Ji Province. Vehicles and horses, clothing, music, red-painted gates, a special stair, guards, axe and battle-axe, bows and arrows, and sacrificial wine together make household, military, ceremonial, and sacrificial distinction visible. The episode interprets these privileges as near-sovereign status and qualification for lineage ritual, while the stronger inference—that Cao Cao privately intended every later transfer step—remains unproven.
 
 ## Key Claims
 
@@ -43,21 +46,23 @@ Hanji 1130 adds the coalition cost of crossing that threshold. [[XunYu|荀彧]] 
 - Visible privileges: [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] lists ritual objects, household privileges, officials, and guards granted to Wang Mang.
 - Late-Han threshold: [[zizhi-tongjian-hanji-1128-meiyou-heikeji-guren-ruhe-diaocha-nimingxin-lqdm57jzw9wqo_umlasz2j3vlzqh|Hanji 1128]] says Emperor Xian grants Cao Cao the Nine Bestowments after earlier special treatment and interprets the award as the highest ministerial honor before a possible dynastic step.
 - Insider rupture: [[zizhi-tongjian-hanji-1130-xunyu-weihe-zai-caocao-dianfeng-shi-bei-bi-zijin-li10bxmmfjp0z2u8t17x2lekwyfh|Hanji 1130]] says Xun Yu opposes Cao Cao's elevation because it violates the Han-restoration and ministerial-restraint program he still treats as binding.
+- Duke-and-fief context: [[zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod|Hanji 1134]] places the Nine Bestowments beside Cao Cao's Duke of Wei title, ten-commandery fief, and retained central and provincial offices.
+- Privilege domains: [[zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod|Hanji 1134]] describes transport, clothing, music, gates, stairs, guards, weapons, and sacrificial wine as a package of publicly legible exception.
 
 ## Counterevidence & Qualifications
 
-This page compares Wang Mang and Cao Cao but still does not provide a complete history of Nine Bestowments precedents. Hanji 623 supplies Wang Mang's praise-and-discussion stage, Hanji 624 the petition-and-award stage, Hanji 1128 a compressed Cao Cao threshold, and Hanji 1130 the opposition attributed to Xun Yu. Exact item lists, formal wording, dates, petition counts, private intention, Xun Yu's precise remonstrance, and the claim about the first historical recipient remain source-scoped. Nine Bestowments do not by themselves equal completed usurpation: Wang Mang's later sequence requires further steps, and Cao Cao does not found the successor dynasty himself.
+This page compares Wang Mang and Cao Cao but still does not provide a complete history of Nine Bestowments precedents. Hanji 623 supplies Wang Mang's praise-and-discussion stage, Hanji 624 the petition-and-award stage, Hanji 1128 a compressed Cao Cao threshold, Hanji 1130 the opposition attributed to Xun Yu, and Hanji 1134 the Duke-and-fief context plus a narrated privilege list. Exact objects and translations, formal wording, dates, petition counts, office and fief mechanics, private intention, Xun Yu's precise remonstrance, and claims about recipients remain source-scoped. Nine Bestowments do not by themselves equal completed usurpation: Wang Mang's later sequence requires further steps, and Cao Cao does not found the successor dynasty himself.
 
 ## What Changed
 
-- Added the insider-coalition consequence: the proposed elevation forces Xun Yu to test Cao Cao's new status against their earlier Han-restoration program.
-- Preserved the distinction between a near-imperial threshold and completed dynastic transfer.
+- Added Cao Cao's Duke of Wei title, ten-commandery fief, and retained offices as the award's institutional setting.
+- Grouped the narrated objects into household, ceremonial, military, and sacrificial privilege domains.
+- Preserved the distinction between visible near-sovereign status and proof of private intent or completed dynastic transfer.
 
 ## Related Concepts
 
 - [[PublicRefusalStatusInflation|公开辞让式升格]] - mechanism because Wang Mang's refusal language helps authorize the higher award.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - broader ritual-order frame where objects and protocol make authority legible.
-- [[MingqiLegitimacy|名器合法性]] - related by named objects and ceremonial privileges carrying political authority.
 - [[AuspiciousOmenPolitics|祥瑞政治]] - neighboring legitimacy channel used in later Wang Mang elevation.
 - [[PostUsurpationLegitimacyConsolidation|篡位后合法性整合]] - downstream frame after Wang Mang's formal accession.
 - [[MingqiLegitimacy|名器合法性]] - broader principle by which recognized titles and ceremonial objects make exceptional authority publicly legible.
