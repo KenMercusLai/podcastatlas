@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb
   - zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk
   - zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg
+  - zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n
 last_updated: 2026-11-08
 ---
 
@@ -23,7 +24,9 @@ Hanji 1088 establishes the command-and-collateral structure before rebellion: Ma
 
 Hanji 1105 compresses the campaign outcome as a coalition-division victory advised by [[JiaXu|贾诩]], while Hanji 1122 supplies the mechanism. Ma Chao reads Cao Cao's public intimacy with Han Sui, Han Sui's vague explanation, and a visibly altered letter as signs of private alignment; coordination and morale deteriorate before a two-stage Cao-side attack breaks the coalition. Ma Chao is neither merely the victim of one forged message nor simply a reckless attacker: real pressure meets an alliance without unified command or reliable verification.
 
-Hanji 1138 fills part of the interval before Hanzhong. [[YangFuLateHan|杨阜]], [[JiangXuLateHan|姜叙]], [[ZhaoAngLateHan|赵昂]], Zhao Qu, and Liang Kuan coordinate resistance around Ji and Qishan, using Ma Chao's departure from the city to close it against him. The source reports that Ma Chao responds by attacking Licheng and killing Jiang Xu's mother and Zhao Ang's hostage son Zhao Yue. These acts do not explain the entire collapse, but they strengthen the judgment that coercion and retaliation damaged the human relationships needed to preserve rule.
+Hanji 1137 supplies the political breach before the revolt. It says Ma Chao kills [[WeiKangLateHan|韦康]] after Wei Kang opens Ji and surrenders, leaving [[YangFuLateHan|杨阜]] and other local officials outwardly subordinate but covertly committed to revenge. Yang Fu uses funeral leave to recruit [[JiangXuLateHan|姜叙]], while outside commanders and city insiders prepare a coordinated action. Ma Chao's demand that [[ZhaoAngLateHan|赵昂]] provide Zhao Yue as a hostage shows that he recognizes the dependency problem but answers it through family leverage rather than local legitimacy.
+
+Hanji 1138 continues that interval before Hanzhong. Yang Fu, Jiang Xu, Zhao Ang, Zhao Qu, and Liang Kuan use Ma Chao's departure from Ji to close it against him. The source reports that Ma Chao responds by attacking Licheng and killing Jiang Xu's mother and Zhao Yue. These acts do not explain the entire collapse, but the sequence from post-surrender killing through hostage coercion and family retaliation strengthens the judgment that coercion damaged the relationships needed to preserve rule.
 
 Hanji 1140 then follows Ma Chao into Hanzhong, where Zhang Lu reportedly values his reputation but does not fully trust him. A later borrowed-force attempt to recover Liangzhou ends when [[XiahouYuan|夏侯渊]] sends [[ZhangHeLateHan|张郃]] to relieve Qishan; Ma Chao withdraws, leaves equipment, and later defects to Liu Bei without recovering all family members. The episode interprets this as deficient self-knowledge and a [[TacticalStrategicCapabilityGap|战术—战略能力落差]]. The durable judgment is narrower: Ma Chao's tactical reputation survives, but his family network, coalition, credibility, forces, and autonomous strategic position do not.
 
@@ -33,7 +36,7 @@ Hanji 1140 then follows Ma Chao into Hanzhong, where Zhang Lu reportedly values 
 - Principal coalition opponent in the Weinan campaign and a commander with genuine martial prestige.
 - Acts inside credible threat pressure but relies on a crisis-made alliance without unified command or verification procedures.
 - Interprets relational and documentary ambiguity as possible betrayal, weakening coalition coordination before battle.
-- Loses Ji to coordinated local resistance and retaliates against opponents' family members in the episode's account.
+- Kills the surrendered Wei Kang, faces coordinated local resistance, and retaliates against opponents' family members in the episodes' account.
 - Retains enough reputation after defeat to receive refuge and borrowed troops in Hanzhong, but not full political trust.
 - Loses independent recovery capacity after the Qishan failure and enters Liu Bei's camp as a constrained dependent commander.
 
@@ -43,19 +46,21 @@ Hanji 1140 then follows Ma Chao into Hanzhong, where Zhang Lu reportedly values 
 - Pressure and first-move framing: [[zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3|Hanji 1120]] says the westward movement makes Guanzhong commanders fear attack and treats their rising as the politically decisive first move.
 - Coalition vulnerability and defeat: [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] identifies the coalition as numerous but divisible, while [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] links Cao-Han familiarity, the altered letter, falling morale, and the final attack.
 - Crisis-made personal alliance: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] says Ma Chao persuades a reluctant Han Sui to rise by asking to be treated as a son, showing the personal rather than institutional basis of their alignment.
+- Ji surrender and covert resistance: [[zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n|Hanji 1137]] says Ma Chao kills Wei Kang after surrender, after which Yang Fu uses funeral leave and kinship access to help assemble outside forces and inside collaborators.
 - Ji revolt and retaliatory violence: [[zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg|Hanji 1138]] reports coordinated resistance, the closure of Ji, and Ma Chao's killing of Jiang Xu's mother and the hostage Zhao Yue.
 - Hanzhong refuge and constrained trust: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] says Zhang Lu uses Ma Chao's reputation and lends troops while a proposed marriage is blocked by character concerns.
 - Failed recovery and dependent service: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] follows the Qishan withdrawal into Ma Chao's departure for Liu Bei and loss of independent military capital.
 
 ## Qualifications
 
-These sources are popular-history summaries rather than a critical biography. Hanji 1120's deliberate-provocation thesis, Hanji 1122's reconstruction of suspicion, Hanji 1138's exact Ji-Licheng sequence, and Hanji 1140's claims about arrogance, gambling psychology, self-knowledge, family responsibility, and Liu Bei's distrust remain episode interpretations. The evidence supports real threat pressure, an exploitable coalition, reported retaliatory killings, damaged credibility, and shrinking autonomy; it does not prove a single psychological cause for Ma Chao's career or that every reported family and command detail is exact. Hanji 1138's Qishan resistance and Hanji 1140's later Qishan attack are distinct episodes and should not be collapsed into one campaign.
+These sources are popular-history summaries rather than a critical biography. Hanji 1120's deliberate-provocation thesis, Hanji 1122's reconstruction of suspicion, Hanji 1137's surrender terms and causal link from Wei Kang's death to revolt, Hanji 1138's exact Ji-Licheng sequence, and Hanji 1140's claims about arrogance, self-knowledge, family responsibility, and Liu Bei's distrust remain source-scoped or interpretive. The evidence supports real threat pressure, an exploitable coalition, reported post-surrender and retaliatory killings, damaged credibility, and shrinking autonomy; it does not prove a single psychological cause for Ma Chao's career. Hanji 1138's Qishan resistance and Hanji 1140's later Qishan attack are distinct episodes.
 
 ## What Changed
 
 - Filled the post-Weinan interval with the Ji revolt, Licheng attack, and reported killings of Jiang Xu's mother and Zhao Yue.
 - Added coercive retaliation as evidence of credibility loss without making it a complete causal explanation.
 - Distinguished the earlier Ji-Qishan resistance from Ma Chao's later Hanzhong-backed Qishan campaign.
+- Backfilled Wei Kang's post-surrender killing and the covert conspiracy as the political setup for the Ji revolt.
 
 ## Relationships
 
@@ -64,6 +69,7 @@ These sources are popular-history summaries rather than a critical biography. Ha
 - [[CaoCao|曹操]] - opponent who pressures, divides, and defeats the coalition in the current source set.
 - [[MaTeng|马腾]] - father whose court entry leaves Ma Chao with field command and family-collateral exposure.
 - [[YangFuLateHan|杨阜]] - official who helps organize resistance around Ji and survives the fighting in the episode's account.
+- [[WeiKangLateHan|韦康]] - surrendered inspector whose reported killing becomes a shared grievance among Ma Chao's nominal subordinates.
 - [[ZhaoAngLateHan|赵昂]] - resistance participant whose hostage son Zhao Yue is killed by Ma Chao.
 - [[JiangXuLateHan|姜叙]] - resistance participant whose mother is killed at Licheng.
 - [[ZhangLuFivePecks|张鲁]] - Hanzhong ruler who shelters and arms Ma Chao without fully integrating him.

@@ -38808,3 +38808,11 @@ Added source `zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | 《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？
+
+Added source `zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n`; created disambiguated [[WeiKangLateHan|韦康]]; and resynthesized [[MaChao|马超]], [[YangFuLateHan|杨阜]], [[JiangXuLateHan|姜叙]], [[ZhaoAngLateHan|赵昂]], and [[BreachOfSurrenderTrust|受降失信]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ma Chao's reported killing of surrendered inspector Wei Kang helps turn nominal submission into covert resistance; Yang Fu converts funeral leave and kinship access into an external-insider conspiracy; Jiang Xu's mother removes a family-based obstacle to action; and Zhao Ang's military value makes his son a hostage lever. No settled contradiction was adopted. The opening ten-person friendship typology remains a source-scoped risk heuristic, while names, offices, kinship, surrender terms, dialogue, motives, troop control, sequence, and causal weight require broader verification. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,863 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

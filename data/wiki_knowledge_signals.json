@@ -36194,9 +36194,9 @@
       "url": "/wiki/entities/braziliannationalanthem/"
     },
     "BreachOfSurrenderTrust": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
@@ -36218,6 +36218,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        },
+        {
+          "episode_file": "lgAg1sFAAlIfieeAZvjORN_u-m0N [lgAg1sFAAlIfieeAZvjORN_u-m0N].md",
+          "key": "zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n/"
         }
       ],
       "updated": "2026-09-01",
@@ -157036,9 +157043,9 @@
       "url": "/wiki/entities/jiangxibao/"
     },
     "JiangXuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
@@ -157046,6 +157053,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        },
+        {
+          "episode_file": "lgAg1sFAAlIfieeAZvjORN_u-m0N [lgAg1sFAAlIfieeAZvjORN_u-m0N].md",
+          "key": "zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n/"
         }
       ],
       "updated": "2026-11-08",
@@ -187546,9 +187560,9 @@
       "url": "/wiki/entities/maboyong/"
     },
     "MaChao": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -187591,6 +187605,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        },
+        {
+          "episode_file": "lgAg1sFAAlIfieeAZvjORN_u-m0N [lgAg1sFAAlIfieeAZvjORN_u-m0N].md",
+          "key": "zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n/"
         }
       ],
       "updated": "2026-11-08",
@@ -309279,6 +309300,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/weiju/"
     },
+    "WeiKangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgAg1sFAAlIfieeAZvjORN_u-m0N [lgAg1sFAAlIfieeAZvjORN_u-m0N].md",
+          "key": "zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/weikanglatehan/"
+    },
     "WeiKangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -322266,9 +322303,9 @@
       "url": "/wiki/entities/yangfenglatehan/"
     },
     "YangFuLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
@@ -322283,6 +322320,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        },
+        {
+          "episode_file": "lgAg1sFAAlIfieeAZvjORN_u-m0N [lgAg1sFAAlIfieeAZvjORN_u-m0N].md",
+          "key": "zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n/"
         }
       ],
       "updated": "2026-11-08",
@@ -330111,9 +330155,9 @@
       "url": "/wiki/entities/zhankaijiangjiang/"
     },
     "ZhaoAngLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
@@ -330121,6 +330165,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        },
+        {
+          "episode_file": "lgAg1sFAAlIfieeAZvjORN_u-m0N [lgAg1sFAAlIfieeAZvjORN_u-m0N].md",
+          "key": "zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1137丨陇南之战如何成为马超一生的污点？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n/"
         }
       ],
       "updated": "2026-11-08",
