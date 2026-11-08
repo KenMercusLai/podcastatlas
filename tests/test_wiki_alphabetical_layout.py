@@ -32,7 +32,7 @@ class WikiAlphabeticalLayoutTest(unittest.TestCase):
         self.assertLess(build_script.index(prepare_command), build_script.index(hugo_command))
 
     def test_tabs_wrap_without_changing_the_single_column_page_list(self):
-        base_layout = (ROOT / "layouts" / "_default" / "baseof.html").read_text()
+        base_layout = (ROOT / "assets/css/site.css").read_text()
 
         self.assertIn(".wiki-letter-tabs", base_layout)
         self.assertIn("flex-wrap: wrap", base_layout)

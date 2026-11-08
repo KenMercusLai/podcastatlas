@@ -4,7 +4,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
 SINGLE_LAYOUT = ROOT / "layouts/_default/single.html"
-BASE_LAYOUT = ROOT / "layouts/_default/baseof.html"
+BASE_LAYOUT = ROOT / "assets/css/site.css"
 EPISODE_PRESENTATION = ROOT / "layouts/partials/episode-presentation.html"
 EPISODE_DURATION = ROOT / "layouts/partials/episode-duration.html"
 EPISODE_SOURCE_NOTE_LINK = ROOT / "layouts/partials/episode-source-note-link.html"

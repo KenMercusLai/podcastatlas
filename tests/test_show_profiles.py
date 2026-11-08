@@ -191,7 +191,7 @@ class ShowProfilesTest(unittest.TestCase):
         self.assertIn('>{{ $sourceTitle }}</a>', show_list)
 
     def test_show_profile_layout_has_responsive_styles(self):
-        base = (ROOT / "layouts" / "_default" / "baseof.html").read_text(encoding="utf-8")
+        base = (ROOT / "assets/css/site.css").read_text(encoding="utf-8")
         for selector in (
             ".show-facts",
             ".show-profile-list",
