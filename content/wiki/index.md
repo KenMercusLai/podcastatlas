@@ -4976,6 +4976,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“打工诗人”小海：做一块滚石，泥沙俱下，也不停下](sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12.md) — 不合时宜对谈小海与译者 Tony，讨论工厂写作、诗歌与摇滚、双语自传、身份标签和跨文化传播。
 
 - [Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097.md) — Tomorrow Today interview on acting opportunity search, family-supported resilience, collaborative comedy, and human judgment in creative AI use.
+- [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
 
 ## Entities
 - [Ma Xiaoteng / 马肖腾](entities/MaXiaoteng.md) — MineLab 联合创始人兼首席科学家，研究强化学习与模型后训练。
@@ -8047,7 +8048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
 - [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 百姓追随造成的慢速南撤被曹军追上，刘备集团崩散后又经汉津会师、夏口重组通向孙刘联盟的208年战役。
-- [马超 / Ma Chao](entities/MaChao.md) — 承接马腾西部兵权、在家属质押与曹军压力下起兵，并因对韩遂的猜疑而在渭南失去联盟协同的核心将领。
+- [马超 / Ma Chao](entities/MaChao.md) — 承接马腾西部兵权、在真实威胁与脆弱联盟中败于渭南，后经汉中借兵、祁山失败而失去独立战略资本的西部名将。
 - [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211年关中战役；现有证据把先手名分、路线控制、关系离间、假意求和与集中突击合为同一决胜序列。
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
 - [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
@@ -10303,7 +10304,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [臧霸 / Zang Ba (late Han)](entities/ZangBaLateHan.md) — Cao-side commander sent with elite troops to Qingzhou to secure the eastern front before Guandu.
 - [颜良 / Yan Liang (late Han)](entities/YanLiangLateHan.md) — Yuan Shao general discounted by Xun Yu as brave but capturable, warned against by Ju Shou for independent command, and killed by Guan Yu at White Horse.
 - [文丑 / Wen Chou (late Han)](entities/WenChouLateHan.md) — Yuan Shao general paired with Yan Liang in the pre-Guandu debate and killed at Yanjin after Cao Cao and Xun You bait Yuan cavalry into disorder.
-- [张郃 / Zhang He (late Han)](entities/ZhangHeLateHan.md) — Yuan Shao general who warns that Wuchao must be rescued, then defects to Cao Cao with Gao Lan after Guo Tu's slander.
+- [张郃 / Zhang He (late Han)](entities/ZhangHeLateHan.md) — Yuan Shao general whose correct Wuchao warning precedes defection, Cao-side incorporation, and later delegated relief command against Ma Chao.
 - [高览 / Gao Lan (late Han)](entities/GaoLanLateHan.md) — Yuan Shao general paired with Zhang He in the post-Wuchao defection to Cao Cao.
 - [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
@@ -10725,7 +10726,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范县 / Fan County (Late Han)](entities/FanCountyLateHan.md) — Remaining Cao-side Yanzhou county preserved when Jin Yun kills Fan Yi after Cheng Yu's persuasion.
 - [夏侯惇 / Xiahou Dun](entities/XiahouDun.md) — Cao-side commander whose profile combines a self-supported early following, Yanzhou stabilization, practical caution, and a Bowang pursuit failure.
 - [李典 / Li Dian](entities/LiDian.md) — Cao-side officer whose profile combines group-scale recruitment, correct reading of the Bowang lure, and Xiahou Dun's rescue.
-- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — Cao-side commander sent with Zhang Liao to besiege Chang Xi in Donghai.
+- [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — Cao-side commander spanning the Donghai surrender operation, rapid Qishan relief delegation, and the later Hanzhong reversal.
 - [许众 / Xu Zhong (Jin commentator)](entities/XuZhongJin.md) — Later commentator whose criticism of Jin Yun frames the Fan County case as a filial-duty and loyalty dilemma.
 - [仓亭津 / Cangting Ford (Late Han)](entities/CangtingFordLateHan.md) — Yellow River crossing where Cheng Yu blocks Chen Gong's advance toward Dong'e and Cao Cao's remaining Yanzhou base.
 - [苍亭之战 / Cangting Battle (late Han)](entities/CangtingBattleLateHan.md) — Post-Guandu battle where Cao Cao keeps pressure on Yuan Shao after Xun Yu's threat-sequencing advice.
@@ -10828,7 +10829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [海昏 / Haihun (late Han)](entities/HaihunLateHan.md) — Yuzhang-area place near which Panyang local forces form a separate office in Taishi Ci's report.
 - [张角 / Zhang Jiao (late Han)](entities/ZhangJiaoLateHan.md) — Taiping Dao leader whose uprising frames Hanji 932's armed proliferation and later serves as a religious-mobilization comparator in Hanji 995.
 - [太平道 / Taiping Dao](entities/TaipingDao.md) — Zhang Jiao's religious movement, used as a comparator for religion as mass organization in the late-Han breakdown.
-- [张鲁 / Zhang Lu (Five Pecks of Rice)](entities/ZhangLuFivePecks.md) — Late-Han Wudoumi Dao ruler whose Hanzhong autonomy runs from Liu Yan's route-control delegation through rupture with Liu Zhang into religious administration and title restraint.
+- [张鲁 / Zhang Lu (Five Pecks of Rice)](entities/ZhangLuFivePecks.md) — Late-Han Wudoumi Dao ruler joining Hanzhong autonomy and title restraint with selective shelter and limited sponsorship of Ma Chao.
 - [五斗米道 / Wudoumi Dao](entities/WudoumiDao.md) — Zhang Lu's religious-administrative system, now tracked from rice-healing revolt and Hanzhong route control into local governance.
 - [阎圃 / Yan Pu (late Han)](entities/YanPuLateHan.md) — Zhang Lu adviser who warns that claiming Hanning kingship would trade practical autonomy for unnecessary danger.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
@@ -11199,7 +11200,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
 - [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
-- [庞德 / Pang De](entities/PangDe.md) — Ma Teng-side officer who kills Guo Yuan in the Pingyang campaign and triggers Zhong Yao's kinship-versus-public-duty response.
+- [庞德 / Pang De](entities/PangDe.md) — Ma Teng-Ma Chao-side officer who kills Guo Yuan at Pingyang and later remains in Hanzhong during Ma Chao's Qishan attempt.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
 - [韩遂 / Han Sui](entities/HanSui.md) — 从被胁迫入乱到反复参与西部联盟、调停与归附，并在渭南成为曹操借关系信号离间马超的关键节点。
 - [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、又与崔琰共同以德行和务实标准主持选官的曹操谋臣。
@@ -30184,5 +30185,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Opportunity-Seeking as Work](concepts/OpportunitySeekingAsWork.md) — Invisible information, travel, waiting, audition, follow-up, and relationship labor required before intermittent creative work is allocated.
 - [Ensemble Comedy Production](concepts/EnsembleComedyProduction.md) — Screen-comedy framework distributing timing and authorship across performers, reactions, writing, direction, editing, music, and sequence design.
+- [Capability-Boundary Self-Knowledge / 能力边界自知](concepts/CapabilityBoundarySelfKnowledge.md) — Distinguishes a genuine strength from the wider roles, authority, costs, and decisions that strength can safely support.
+- [Tactical–Strategic Capability Gap / 战术—战略能力落差](concepts/TacticalStrategicCapabilityGap.md) — Difference between local execution and the political, logistical, relational, organizational, and temporal system that determines durable outcomes.
 
 ## Syntheses

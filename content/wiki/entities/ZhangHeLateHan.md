@@ -4,47 +4,54 @@ type: entity
 tags: [person, late-han, general, yuan-shao, cao-cao]
 sources:
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk
+last_updated: 2026-11-08
 knowledge_schema: synthesis-v1
 ---
 
-# 张郃 / Zhang He (late Han)
-
 ## Overview
-Zhang He is introduced in the wiki as a [[YuanShao|Yuan Shao]] general at the decisive phase of the [[GuanduCampaign|Guandu Campaign]]. Hanji 1049 presents him as the commander who correctly identifies [[WuchaoRaidLateHan|Wuchao]] as the urgent point to rescue, then defects to [[CaoCao|Cao Cao]] with [[GaoLanLateHan|Gao Lan]] after [[GuoTu|Guo Tu]]'s self-protective slander makes their position unsafe.
+
+张郃 / Zhang He is a late-Han commander whose current evidence moves from correct but rejected judgment under [[YuanShao|袁绍]] at [[GuanduCampaign|官渡]] to a rapid Cao-side relief role against [[MaChao|马超]] near Qishan. The two cases connect diagnostic ability, defection under blame pressure, successful incorporation, and later delegated field command.
 
 ## Current Profile
-Zhang He's defining role in the current evidence is judgment under battlefield pressure. When Cao raids Wuchao, he warns Yuan Shao that the grain depot must be saved because losing it will break the army's material base and morale.
 
-Yuan Shao does not act on that warning at sufficient weight, instead sending a light rescue force while committing the heavier force against Cao's camp. After the attack fails, Guo Tu fears blame and tells Yuan Shao that Zhang He celebrated the defeat, forcing Zhang He and Gao Lan into surrender.
+Hanji 1049 introduces Zhang He at the decisive Wuchao crisis. He warns that the grain depot must be rescued because its loss will break the army's material base and morale. Yuan Shao instead gives greater weight to attacking Cao Cao's camp. After that plan fails, [[GuoTu|郭图]] protects himself by slandering Zhang He, making Zhang He and [[GaoLanLateHan|高览]] unsafe and driving their surrender.
 
-Cao Hong initially doubts the surrender, but [[XunYou|Xun You]] argues that Zhang He defected because his correct counsel was rejected. The episode therefore presents Zhang He as both a diagnostic general inside Yuan's command system and a prime example of Cao-side defector incorporation.
+[[CaoHong|曹洪]] initially doubts the surrender, but [[XunYou|荀攸]] argues that Zhang He defects because his correct counsel was rejected. Hanji 1140 supplies a later outcome of that incorporation: [[XiahouYuan|夏侯渊]] sends Zhang He with a reported five thousand troops to relieve Qishan, and Ma Chao withdraws before the engagement develops. The source is too compressed to reconstruct the operation, but it shows Zhang He functioning as trusted mobile command rather than merely a recent defector.
 
 ## Key Characteristics
+
 - Yuan general who recognizes Wuchao as the decisive logistics point.
 - Correct but overruled battlefield adviser during the Guandu climax.
-- Surrenderer whose defection is triggered by intra-camp blame shifting rather than simple prior loyalty to Cao.
-- Paired with Gao Lan in burning Yuan-side equipment and entering Cao's camp.
-- A distinct late-Han figure, disambiguated from [[ZhangHeZhangChu|张鹤 / Zhang He of Zhang Chu]].
+- Defector driven by intra-camp blame shifting rather than demonstrated prior loyalty to Cao Cao.
+- Surrenderer whose credibility is defended by Xun You and accepted by the Cao-side system.
+- Later mobile commander dispatched by Xiahou Yuan to relieve Qishan against Ma Chao.
+- Distinct late-Han figure, disambiguated from [[ZhangHeZhangChu|张鹤 / Zhang He of Zhang Chu]].
 
 ## Evidence
-- Correct Wuchao assessment: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] has Zhang He warn Yuan Shao that Wuchao must be rescued because Cao's victory there would leave Yuan's army without grain.
-- Overruled advice and blame crisis: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] contrasts Zhang He's warning with Guo Tu's attack-Cao-camp proposal, then shows Guo Tu slandering Zhang He after the plan fails.
-- Defection accepted by Cao's side: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] says Cao Hong hesitates but Xun You interprets the surrender as credible because Zhang He's good advice had been rejected.
+
+- Wuchao diagnosis: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] has Zhang He warn that the grain depot must be saved because its loss will collapse Yuan Shao's army.
+- Blame crisis and defection: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] contrasts Zhang He's warning with Guo Tu's proposal, then shows slander making surrender the safer route.
+- Cao-side credibility and incorporation: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] says Xun You persuades Cao Hong that rejected correct advice explains the surrender.
+- Qishan relief role: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] says Xiahou Yuan dispatches Zhang He with five thousand troops and that Ma Chao withdraws rapidly.
 
 ## Qualifications
-This page currently covers Zhang He only through the Guandu-climax source. It does not yet synthesize his earlier career, later Cao-Wei service, or broader military reputation.
+
+The current evidence still omits most of Zhang He's Cao-Wei career. Hanji 1140 does not establish the exact route, timing, force total, battle contact, or whether Ma Chao's withdrawal resulted solely from Zhang He's approach. The broader inference that successful incorporation converted a defector into trusted field capacity is supported by the role change, but not by a complete institutional record.
 
 ## What Changed
-- Created a disambiguated late-Han Zhang He page rather than merging him with the existing anti-Qin Zhang He route.
-- Added Zhang He's correct Wuchao advice, Guo Tu-induced danger, and surrender to Cao Cao.
+
+- Extended Zhang He's profile beyond Guandu into a later Cao-side western relief command.
+- Added the relief role as evidence that defector incorporation became usable delegated capacity.
+- Preserved uncertainty about the exact Qishan operation and reasons for Ma Chao's withdrawal.
 
 ## Relationships
-- [[GuanduCampaign|官渡之战]] - campaign setting for Zhang He's current wiki profile.
-- [[WuchaoRaidLateHan|乌巢夜袭]] - battlefield crisis that reveals Zhang He's judgment.
-- [[YuanShao|袁绍]] - original commander who does not fully follow Zhang He's advice.
+
+- [[GuanduCampaign|官渡之战]] - campaign setting for Zhang He's initial judgment and defection.
+- [[WuchaoRaidLateHan|乌巢夜袭]] - battlefield crisis that reveals Zhang He's logistics judgment.
 - [[GuoTu|郭图]] - adviser whose self-protective slander drives Zhang He's defection.
-- [[GaoLanLateHan|高览]] - paired Yuan general who defects alongside Zhang He.
-- [[XunYou|荀攸]] - Cao-side strategist who argues Zhang He's surrender is credible.
-- [[StrategicDefectorIncorporation|纳叛安抚式整合]] - concept illustrated by Zhang He's absorption after Guandu.
+- [[XunYou|荀攸]] - strategist who argues Zhang He's surrender is credible.
+- [[XiahouYuan|夏侯渊]] - Cao-side commander who later dispatches Zhang He to Qishan.
+- [[MaChao|马超]] - opponent whose recovery attempt ends as Zhang He's relief force approaches.
+- [[StrategicDefectorIncorporation|纳叛安抚式整合]] - concept illustrated by Zhang He's movement from surrenderer to trusted field commander.
 - [[ZhangHeZhangChu|张鹤 / Zhang He of Zhang Chu]] - separate similarly romanized figure requiring route disambiguation.

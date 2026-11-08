@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11075
+wiki_total_pages: 11077
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "CapabilityOverhang"
     title: "Capability Overhang"
     url: "/wiki/concepts/capabilityoverhang/"
+  - key: "CapabilityBoundarySelfKnowledge"
+    title: "Capability-Boundary Self-Knowledge / 能力边界自知"
+    url: "/wiki/concepts/capabilityboundaryselfknowledge/"
   - key: "CapabilityBoundedGrowth"
     title: "Capability-Bounded Growth"
     url: "/wiki/concepts/capabilityboundedgrowth/"

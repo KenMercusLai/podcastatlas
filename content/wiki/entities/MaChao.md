@@ -8,46 +8,50 @@ sources:
   - zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil
   - zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3
   - zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb
-last_updated: 2026-10-12
+  - zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk
+last_updated: 2026-11-08
 ---
 
 ## Overview
 
-马超 / Ma Chao is a western military successor who retains [[MaTeng|马腾]]'s force after Ma Teng enters court and becomes a principal coalition figure in the 211 CE [[WeinanBattleLateHan|渭南之战]]. The current evidence places him at the intersection of perceived military threat, exposed family collateral, weak coalition command, and suspicion that [[CaoCao|曹操]] deliberately amplifies.
+马超 / Ma Chao is a western military successor whose current profile runs from inheriting [[MaTeng|马腾]]'s field force through coalition defeat in the 211 CE [[WeinanBattleLateHan|渭南之战]], refuge under [[ZhangLuFivePecks|张鲁]], a failed Qishan recovery attempt, and dependent service under [[LiuBei|刘备]]. His real combat reputation coexists with exposed family collateral, weak coalition trust, narrowing political credibility, and the eventual loss of an independent base.
 
 ## Current Profile
 
-Hanji 1088 establishes the prehistory: Ma Chao receives continuing field command while Ma Teng and the wider household enter the court orbit and later move to Ye. Hanji 1120 then frames Cao Cao's ostensibly Hanzhong-bound movement as coercive pressure that makes Ma Chao, [[HanSui|韩遂]], and other Guanzhong commanders rise first, transferring the public legitimacy advantage to Cao Cao.
+Hanji 1088 establishes the command-and-collateral structure before rebellion: Ma Chao retains field command while Ma Teng and the wider household enter the court orbit and later move to Ye. Hanji 1120 then frames [[CaoCao|曹操]]'s ostensibly Hanzhong-bound movement as coercive pressure that makes Ma Chao, [[HanSui|韩遂]], and other Guanzhong commanders rise first, transferring the public legitimacy advantage to Cao Cao. The current synthesis therefore does not treat Ma Chao's decision as arising without threat.
 
-Hanji 1105 compresses the outcome as a coalition-division victory advised by [[JiaXu|贾诩]]. Hanji 1122 supplies the missing mechanism. Ma Chao reads Cao Cao's public intimacy with Han Sui, Han Sui's vague explanation, and a visibly altered letter as signs of private alignment; coordination and morale deteriorate before Cao Cao's light troops and flank attack break the coalition. This makes Ma Chao neither a simple victim of one forged message nor merely a reckless attacker: his choices occur inside a real threat field, but his reliance on personal trust and rapid inference leaves the coalition open to manipulation.
+Hanji 1105 compresses the campaign outcome as a coalition-division victory advised by [[JiaXu|贾诩]], while Hanji 1122 supplies the mechanism. Ma Chao reads Cao Cao's public intimacy with Han Sui, Han Sui's vague explanation, and a visibly altered letter as signs of private alignment; coordination and morale deteriorate before a two-stage Cao-side attack breaks the coalition. Ma Chao is neither merely the victim of one forged message nor simply a reckless attacker: real pressure meets an alliance without unified command or reliable verification.
+
+Hanji 1140 extends the profile beyond Weinan. Ma Chao takes refuge in Hanzhong, where Zhang Lu reportedly values his reputation but does not fully trust him. A borrowed-force attempt to recover Liangzhou ends when [[XiahouYuan|夏侯渊]] sends [[ZhangHeLateHan|张郃]] to relieve Qishan; Ma Chao withdraws, leaves equipment, and later defects to Liu Bei without recovering all family members. The episode interprets this as deficient self-knowledge and a [[TacticalStrategicCapabilityGap|战术—战略能力落差]]. The durable judgment is narrower: Ma Chao's tactical reputation survives, but his family network, coalition, credibility, forces, and autonomous strategic position do not.
 
 ## Key Characteristics
 
 - Western field commander who inherits Ma Teng's force while the wider household remains exposed at Ye.
-- Principal named coalition opponent in the current Weinan evidence.
-- Responds to an ostensibly Hanzhong-bound movement that the source reads as coercive pressure on Guanzhong.
-- Relies on a crisis-made alliance with Han Sui that lacks unified command and durable verification procedures.
+- Principal coalition opponent in the Weinan campaign and a commander with genuine martial prestige.
+- Acts inside credible threat pressure but relies on a crisis-made alliance without unified command or verification procedures.
 - Interprets relational and documentary ambiguity as possible betrayal, weakening coalition coordination before battle.
-- Embodies the gap between numerical concentration and usable collective force.
+- Retains enough reputation after defeat to receive refuge and borrowed troops in Hanzhong, but not full political trust.
+- Loses independent recovery capacity after the Qishan failure and enters Liu Bei's camp as a constrained dependent commander.
 
 ## Evidence
 
 - Command succession and collateral exposure: [[zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil|Hanji 1088]] says Ma Chao retains Ma Teng's force while the household moves into Cao-side custody and later bears collective punishment.
 - Pressure and first-move framing: [[zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3|Hanji 1120]] says the westward movement makes Guanzhong commanders fear attack and treats their rising as the politically decisive first move.
-- Coalition vulnerability: [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] identifies the coalition as numerous but divisible and credits Jia Xu's counsel in Cao Cao's victory.
-- Suspicion and battlefield collapse: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] links Cao-Han familiarity, the altered letter, falling morale, and the final two-stage attack.
-- Crisis-made paternal tie: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] says Ma Chao persuades a reluctant Han Sui to rise by asking to be treated as a son, showing the personal rather than institutional basis of their alignment.
+- Coalition vulnerability and defeat: [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] identifies the coalition as numerous but divisible, while [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] links Cao-Han familiarity, the altered letter, falling morale, and the final attack.
+- Crisis-made personal alliance: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] says Ma Chao persuades a reluctant Han Sui to rise by asking to be treated as a son, showing the personal rather than institutional basis of their alignment.
+- Hanzhong refuge and constrained trust: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] says Zhang Lu uses Ma Chao's reputation and lends troops while a proposed marriage is blocked by character concerns.
+- Failed recovery and dependent service: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] follows the Qishan withdrawal into Ma Chao's departure for Liu Bei and loss of independent military capital.
 
 ## Qualifications
 
-The sources do not reconstruct Ma Chao's full career or independently compare the campaign's primary records. Hanji 1120's deliberate-provocation thesis and Hanji 1122's strong claims about Ma Chao's character, inner suspicion, exact troop total, letter design, and causal responsibility for his relatives' deaths remain episode interpretations. The evidence supports that Cao Cao exploited an already fragile alliance; it does not prove that every step was fixed in advance or that distrust alone decided the campaign.
+These sources are popular-history summaries rather than a critical biography. Hanji 1120's deliberate-provocation thesis, Hanji 1122's reconstruction of suspicion, and Hanji 1140's claims about arrogance, gambling psychology, self-knowledge, family responsibility, and Liu Bei's distrust remain episode interpretations. The evidence supports real threat pressure, an exploitable coalition, damaged credibility, and shrinking autonomy; it does not prove a single psychological cause for Ma Chao's career or that every reported family and command detail is exact.
 
 ## What Changed
 
-- Added the crisis-made paternal tie between Ma Chao and Han Sui as a weak basis for coalition trust.
-- Added public familiarity and the altered letter as successive suspicion triggers rather than one isolated trick.
-- Connected coalition distrust to morale loss, failed coordination, and the final flank attack.
-- Kept moral blame and total-plan attribution source-scoped.
+- Extended Ma Chao's profile from Weinan defeat into Hanzhong refuge, Qishan failure, and service under Liu Bei.
+- Added the distinction between surviving tactical reputation and collapsed independent strategic capacity.
+- Added Zhang Lu's limited trust and the failed marriage plan as source-scoped evidence of credibility damage.
+- Preserved coercive threat and coalition structure as qualifications to the episode's character-centered explanation.
 
 ## Relationships
 
@@ -55,7 +59,7 @@ The sources do not reconstruct Ma Chao's full career or independently compare th
 - [[HanSui|韩遂]] - coalition partner and claimed surrogate father whose Cao-side contact becomes the focus of suspicion.
 - [[CaoCao|曹操]] - opponent who pressures, divides, and defeats the coalition in the current source set.
 - [[MaTeng|马腾]] - father whose court entry leaves Ma Chao with field command and family-collateral exposure.
-- [[JiaXu|贾诩]] - adviser credited by Hanji 1105 with the divisive strategy.
-- [[RelationalSignalCoalitionFracture|关系信号式离间]] - mechanism through which ambiguous intimacy and documents damage coalition trust.
-- [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - structural weakness that makes the coalition susceptible to manipulation.
-- [[ProvokedRebellionLegitimacyTransfer|诱发反叛式名分转移]] - episode-level explanation of how threat pressure and the first move alter public roles.
+- [[ZhangLuFivePecks|张鲁]] - Hanzhong ruler who shelters and arms Ma Chao without fully integrating him.
+- [[LiuBei|刘备]] - later ruler under whom Ma Chao survives after losing autonomous recovery capacity.
+- [[CapabilityBoundarySelfKnowledge|能力边界自知]] - episode-derived frame for separating Ma Chao's real strength from the wider role it could support.
+- [[TacticalStrategicCapabilityGap|战术—战略能力落差]] - frame distinguishing his combat reputation from durable political-military coordination.

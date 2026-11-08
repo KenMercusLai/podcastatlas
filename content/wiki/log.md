@@ -38782,3 +38782,11 @@ Added source `allin-e296-ch-allin-e296-ch`; created [[DataCenterPermittingPipeli
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | 《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？
+
+Added source `zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk`; created [[CapabilityBoundarySelfKnowledge|能力边界自知]] and [[TacticalStrategicCapabilityGap|战术—战略能力落差]]; and resynthesized [[MaChao|马超]], [[ZhangLuFivePecks|张鲁]], [[PangDe|庞德]], [[XiahouYuan|夏侯渊]], and [[ZhangHeLateHan|张郃]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Ma Chao's genuine combat reputation did not preserve coalition trust, family security, replenishable forces, political credibility, or an independent base; Zhang Lu could shelter and arm him without fully integrating him; and the Qishan response shows Cao-side delegated capacity through Xiahou Yuan and Zhang He. No settled contradiction was adopted. Earlier evidence of coercive threat before Weinan remains part of the judgment, while the episode's psychological diagnosis, exact dialogue, troop and household totals, Qishan details, family fates, and later command restrictions remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,860 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

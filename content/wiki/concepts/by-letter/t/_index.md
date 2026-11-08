@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11075
+wiki_total_pages: 11077
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "TacticalSelfVindicationTrap"
     title: "Tactical Self-Vindication Trap / 战术自证陷阱"
     url: "/wiki/concepts/tacticalselfvindicationtrap/"
+  - key: "TacticalStrategicCapabilityGap"
+    title: "Tactical–Strategic Capability Gap / 战术—战略能力落差"
+    url: "/wiki/concepts/tacticalstrategiccapabilitygap/"
   - key: "TactileComfortConsumption"
     title: "Tactile Comfort Consumption / 触感安慰消费"
     url: "/wiki/concepts/tactilecomfortconsumption/"

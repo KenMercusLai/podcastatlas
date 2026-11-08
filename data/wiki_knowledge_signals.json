@@ -42045,6 +42045,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/caozonglatehan/"
     },
+    "CapabilityBoundarySelfKnowledge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/capabilityboundaryselfknowledge/"
+    },
     "CapabilityDrivenRobotDataDesign": {
       "episode_count": 1,
       "show_count": 1,
@@ -187429,9 +187445,9 @@
       "url": "/wiki/entities/maboyong/"
     },
     "MaChao": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -187460,9 +187476,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1122丨曹操假意和谈，背后却把马超往死里坑？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb/"
+        },
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/machao/"
     },
     "MaChengEasternHan": {
@@ -222051,9 +222074,9 @@
       "url": "/wiki/entities/pangcanlatehan/"
     },
     "PangDe": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
@@ -222061,9 +222084,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        },
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/pangde/"
     },
     "PangDegongLateHan": {
@@ -283994,6 +284024,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/tacticalempathy/"
     },
+    "TacticalStrategicCapabilityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/tacticalstrategiccapabilitygap/"
+    },
     "TactileDataStagingChoice": {
       "episode_count": 1,
       "show_count": 1,
@@ -316557,9 +316603,9 @@
       "url": "/wiki/entities/xiahoushengwesternhan/"
     },
     "XiahouYuan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折 [lmd2YJRE-cwDbXKY2ht5o0N4G6fK].md",
@@ -316574,9 +316620,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3/"
+        },
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/xiahouyuan/"
     },
     "XiakeXingNovel": {
@@ -327859,9 +327912,9 @@
       "url": "/wiki/entities/zhanghaoremonstratorlatehan/"
     },
     "ZhangHeLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
@@ -327869,9 +327922,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m/"
+        },
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/zhanghelatehan/"
     },
     "ZhangHeWesternHan": {
@@ -328391,9 +328451,9 @@
       "url": "/wiki/entities/zhanglu/"
     },
     "ZhangLuFivePecks": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -328422,9 +328482,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        },
+        {
+          "episode_file": "lkpFZoRfoziLyCzvepeDYRYc7OUK [lkpFZoRfoziLyCzvepeDYRYc7OUK].md",
+          "key": "zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/zhanglufivepecks/"
     },
     "ZhangMengLateHan": {
