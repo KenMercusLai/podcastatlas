@@ -43,7 +43,7 @@ class WikiLandingLayoutTest(unittest.TestCase):
         layout = WIKI_LAYOUT.read_text()
         homepage = (ROOT / "layouts" / "index.html").read_text()
         collections = (ROOT / "layouts" / "partials" / "knowledge-collection-section.html").read_text()
-        base = (ROOT / "layouts" / "_default" / "baseof.html").read_text()
+        base = (ROOT / "assets/css/site.css").read_text()
 
         self.assertIn('partial "knowledge-collection-section.html"', layout)
         self.assertIn('partial "knowledge-collection-section.html"', homepage)

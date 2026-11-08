@@ -27,7 +27,7 @@ class EpisodeListPaginationTest(unittest.TestCase):
 
     def test_pagination_navigation_is_accessible_and_compact(self):
         pagination = PAGINATION_PARTIAL.read_text() if PAGINATION_PARTIAL.exists() else ""
-        base = BASE_LAYOUT.read_text()
+        base = (ROOT / "assets/css/site.css").read_text()
 
         self.assertIn('aria-label="Episode pages"', pagination)
         self.assertIn(".HasPrev", pagination)
