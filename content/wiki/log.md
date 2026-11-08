@@ -38800,3 +38800,11 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | 《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲
+
+Added source `zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg`; created disambiguated [[ZhaoAngLateHan|赵昂]], [[WangYiZhaoAngWife|王异]], and [[JiangXuLateHan|姜叙]] pages; and resynthesized [[MaChao|马超]], [[YangFuLateHan|杨阜]], and [[YuanHuanLateHan|袁涣]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: coordinated local resistance removes Ma Chao from Ji, but the victory is inseparable from hostage and household deaths; Ma Chao's reported retaliation deepens the existing judgment about coercion, trust, and lost political capacity; Yang Fu moves from strategic assessor to costly resistance actor; and Yuan Huan's refusal to slander Liu Bei persists across regime change as gratitude and independent judgment. No settled contradiction was adopted. The earlier Ji-Qishan resistance is distinguished from Ma Chao's later Hanzhong-backed Qishan campaign, while dialogue, offices, casualty and wound counts, literary attributions, appointment sequencing, Zhang Lu's title, and moral-psychological claims remain source-scoped. Broad [[CaoCao|曹操]], [[ZhangLuFivePecks|张鲁]], [[ZhongYao|钟繇]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,862 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

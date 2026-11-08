@@ -157035,6 +157035,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/jiangxibao/"
     },
+    "JiangXuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
+          "key": "zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/jiangxulatehan/"
+    },
     "JiangXuXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -187530,9 +187546,9 @@
       "url": "/wiki/entities/maboyong/"
     },
     "MaChao": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -187568,6 +187584,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
+        },
+        {
+          "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
+          "key": "zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
         }
       ],
       "updated": "2026-11-08",
@@ -307198,6 +307221,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/wangyixingeneral/"
     },
+    "WangYiZhaoAngWife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
+          "key": "zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/wangyizhaoangwife/"
+    },
     "WangYibo": {
       "episode_count": 1,
       "show_count": 1,
@@ -322227,9 +322266,9 @@
       "url": "/wiki/entities/yangfenglatehan/"
     },
     "YangFuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
@@ -322237,9 +322276,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v/"
+        },
+        {
+          "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
+          "key": "zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-11-08",
       "url": "/wiki/entities/yangfulatehan/"
     },
     "YangFuWesternHan": {
@@ -325792,6 +325838,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yuanhonglatehan/"
+    },
+    "YuanHuanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？ [llm0DS4krKPTjdtB71hBUsnPZbDc].md",
+          "key": "zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc/"
+        },
+        {
+          "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
+          "key": "zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/yuanhuanlatehan/"
     },
     "YuanLangLateHan": {
       "episode_count": 1,
@@ -330040,6 +330109,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/entities/zhankaijiangjiang/"
+    },
+    "ZhaoAngLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNXIFnTpnaaT1Q4wMx043joH8Hg [lmNXIFnTpnaaT1Q4wMx043joH8Hg].md",
+          "key": "zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1138丨乱世三国：赵昂的忠诚与牺牲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/zhaoanglatehan/"
     },
     "ZhaoBanshan": {
       "episode_count": 1,
