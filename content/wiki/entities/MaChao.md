@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg
   - zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n
   - zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb
+  - zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo
 last_updated: 2026-11-08
 ---
 
@@ -25,7 +26,9 @@ Hanji 1088 establishes the command-and-collateral structure before rebellion: Ma
 
 Hanji 1105 compresses the campaign outcome as a coalition-division victory advised by [[JiaXu|贾诩]], while Hanji 1122 supplies the mechanism. Ma Chao reads Cao Cao's public intimacy with Han Sui, Han Sui's vague explanation, and a visibly altered letter as signs of private alignment; coordination and morale deteriorate before a two-stage Cao-side attack breaks the coalition. Ma Chao is neither merely the victim of one forged message nor simply a reckless attacker: real pressure meets an alliance without unified command or reliable verification.
 
-Hanji 1136 supplies the siege that precedes the local revolt. Ma Chao contains Ji long enough for distance, communication, Cao-side multi-front commitments, approval delay, his interception of the relief force, and support from the Di leader Qianwan to defeat outside rescue. He captures and kills [[YanWenLateHan|阎温]] after Yan Wen reverses a coerced surrender appeal, then reportedly kills [[WeiKangLateHan|韦康]] and other local leaders after they open the city. The military success is therefore real, but its political conversion is weak: the treatment of messengers and surrendered elites reduces the trust available for governing the captured base.
+Hanji 1135 supplies the recovery between Weinan defeat and the siege. When a Hejian rebellion pulls Cao Cao back toward his political center, [[YangFuLateHan|杨阜]] warns that withdrawal without stronger Liangzhou defense will reopen the west. Ma Chao then combines personal command ability, Ma-family regional standing, Qiang and Hu support, and reinforcement reportedly sent by Zhang Lu under Yang Ang to retake Longyou and besiege Ji. His return is therefore not spontaneous proof of individual invincibility: it depends on an opponent's priority choice and a recoverable regional support system.
+
+Hanji 1136 supplies the siege that follows that recovery. Ma Chao contains Ji long enough for distance, communication, Cao-side multi-front commitments, approval delay, his interception of the relief force, and support from the Di leader Qianwan to defeat outside rescue. He captures and kills [[YanWenLateHan|阎温]] after Yan Wen reverses a coerced surrender appeal, then reportedly kills [[WeiKangLateHan|韦康]] and other local leaders after they open the city. The military success is therefore real, but its political conversion is weak: the treatment of messengers and surrendered elites reduces the trust available for governing the captured base.
 
 Hanji 1137 supplies the political breach before the revolt. It says Ma Chao kills [[WeiKangLateHan|韦康]] after Wei Kang opens Ji and surrenders, leaving [[YangFuLateHan|杨阜]] and other local officials outwardly subordinate but covertly committed to revenge. Yang Fu uses funeral leave to recruit [[JiangXuLateHan|姜叙]], while outside commanders and city insiders prepare a coordinated action. Ma Chao's demand that [[ZhaoAngLateHan|赵昂]] provide Zhao Yue as a hostage shows that he recognizes the dependency problem but answers it through family leverage rather than local legitimacy.
 
@@ -36,7 +39,7 @@ Hanji 1140 then follows Ma Chao into Hanzhong, where Zhang Lu reportedly values 
 ## Key Characteristics
 
 - Western field commander who inherits Ma Teng's force while the wider household remains exposed at Ye.
-- Principal coalition opponent in the Weinan campaign and a commander with genuine martial prestige.
+- Principal coalition opponent in the Weinan campaign whose genuine martial prestige helps him recover after Cao Cao turns toward a rear rebellion.
 - Acts inside credible threat pressure but relies on a crisis-made alliance without unified command or verification procedures.
 - Interprets relational and documentary ambiguity as possible betrayal, weakening coalition coordination before battle.
 - Defeats Ji's attempted relief but kills Yan Wen and the surrendered Wei Kang, helping turn military capture into coordinated local resistance.
@@ -49,6 +52,7 @@ Hanji 1140 then follows Ma Chao into Hanzhong, where Zhang Lu reportedly values 
 - Pressure and first-move framing: [[zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3|Hanji 1120]] says the westward movement makes Guanzhong commanders fear attack and treats their rising as the politically decisive first move.
 - Coalition vulnerability and defeat: [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] identifies the coalition as numerous but divisible, while [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] links Cao-Han familiarity, the altered letter, falling morale, and the final attack.
 - Crisis-made personal alliance: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] says Ma Chao persuades a reluctant Han Sui to rise by asking to be treated as a son, showing the personal rather than institutional basis of their alignment.
+- Post-defeat recovery: [[zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo|Hanji 1135]] says Cao Cao's return toward Hejian creates the opening, while Ma Chao's military ability, family roots, local support, and Zhang Lu's reinforcement turn that opening into renewed control of Longyou and the siege of Ji.
 - Ji siege and failed political conversion: [[zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb|Hanji 1136]] links interception of the relief effort and capture of Yan Wen to the later killing of surrendered local leaders, separating battlefield success from durable incorporation.
 - Ji surrender and covert resistance: [[zizhi-tongjian-hanji-1137-longnan-zhizhan-ruhe-chengwei-machao-yisheng-de-wudian-lgag1sfaalifieeazvjorn_u-m0n|Hanji 1137]] says Ma Chao kills Wei Kang after surrender, after which Yang Fu uses funeral leave and kinship access to help assemble outside forces and inside collaborators.
 - Ji revolt and retaliatory violence: [[zizhi-tongjian-hanji-1138-luanshi-sanguo-zhaoang-de-zhongcheng-yu-xisheng-lmnxifntpnaat1q4wmx043joh8hg|Hanji 1138]] reports coordinated resistance, the closure of Ji, and Ma Chao's killing of Jiang Xu's mother and the hostage Zhao Yue.
@@ -57,20 +61,21 @@ Hanji 1140 then follows Ma Chao into Hanzhong, where Zhang Lu reportedly values 
 
 ## Qualifications
 
-These sources are popular-history summaries rather than a critical biography. Hanji 1120's deliberate-provocation thesis, Hanji 1122's reconstruction of suspicion, Hanji 1136's siege mechanics, Di support, offices, titles, household deaths, and moral diagnosis, Hanji 1137's surrender terms and causal link from Wei Kang's death to revolt, Hanji 1138's exact Ji-Licheng sequence, and Hanji 1140's claims about arrogance, self-knowledge, family responsibility, and Liu Bei's distrust remain source-scoped or interpretive. The evidence supports real threat pressure, an exploitable coalition, military success at Ji, reported post-surrender and retaliatory killings, damaged credibility, and shrinking autonomy; it does not prove a single psychological cause for Ma Chao's career. Hanji 1136's failed relief, Hanji 1138's Ji-Qishan resistance, and Hanji 1140's later Qishan attack are distinct episodes.
+These sources are popular-history summaries rather than a critical biography. Hanji 1120's deliberate-provocation thesis, Hanji 1122's reconstruction of suspicion, Hanji 1135's Qiang-Hu support, reinforcement total, territorial recovery, and causal weighting, Hanji 1136's siege mechanics, Di support, offices, titles, household deaths, and moral diagnosis, Hanji 1137's surrender terms and causal link from Wei Kang's death to revolt, Hanji 1138's exact Ji-Licheng sequence, and Hanji 1140's claims about arrogance, self-knowledge, family responsibility, and Liu Bei's distrust remain source-scoped or interpretive. The evidence supports real threat pressure, an exploitable coalition, recovery through a regional support system, military success at Ji, reported post-surrender and retaliatory killings, damaged credibility, and shrinking autonomy; it does not prove a single psychological cause for Ma Chao's career. Hanji 1136's failed relief, Hanji 1138's Ji-Qishan resistance, and Hanji 1140's later Qishan attack are distinct episodes.
 
 ## What Changed
 
-- Backfilled the eight-month Ji siege and failed relief effort before Wei Kang's surrender.
-- Separated Ma Chao's successful interception of relief from his failure to convert victory into trusted local rule.
-- Added Yan Wen's coerced-message reversal and killing to the credibility-loss sequence.
-- Preserved threat pressure and multi-causal campaign limits rather than reducing Ma Chao's career to character alone.
+- Backfilled the recovery between Weinan defeat and the siege of Ji.
+- Replaced an individual-bravery explanation with a joint account of opponent priorities, regional roots, local support, and external reinforcement.
+- Preserved the distinction between regaining military position and converting victory into trusted rule.
+- Kept the recovery claims source-scoped rather than treating them as a complete reconstruction of Liangzhou politics.
 
 ## Relationships
 
 - [[WeinanBattleLateHan|渭南之战]] - campaign in which Ma Chao's coalition rises and is defeated.
 - [[HanSui|韩遂]] - coalition partner and claimed surrogate father whose Cao-side contact becomes the focus of suspicion.
 - [[CaoCao|曹操]] - opponent who pressures, divides, and defeats the coalition in the current source set.
+- [[CoreBeforePeripheryStrategy|先内后外式战略顺序]] - Cao Cao's center-first decision creates the opening for Ma Chao's recovery.
 - [[MaTeng|马腾]] - father whose court entry leaves Ma Chao with field command and family-collateral exposure.
 - [[YangFuLateHan|杨阜]] - official who helps organize resistance around Ji and survives the fighting in the episode's account.
 - [[WeiKangLateHan|韦康]] - surrendered inspector whose reported killing becomes a shared grievance among Ma Chao's nominal subordinates.

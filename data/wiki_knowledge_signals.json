@@ -62025,9 +62025,9 @@
       "url": "/wiki/entities/cordobacaliphate/"
     },
     "CoreBeforePeripheryStrategy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
@@ -62049,9 +62049,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv/"
+        },
+        {
+          "episode_file": "llpMhUOr9sRyp-pK3EcUNOBCaOOo [llpMhUOr9sRyp-pK3EcUNOBCaOOo].md",
+          "key": "zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1135丨曹操为什么没有一举歼灭马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/corebeforeperipherystrategy/"
     },
     "CoreCompetenceStrategy": {
@@ -187567,9 +187574,9 @@
       "url": "/wiki/entities/maboyong/"
     },
     "MaChao": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -187626,6 +187633,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1136丨他勇如韩信，却因一个决定全家被杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb/"
+        },
+        {
+          "episode_file": "llpMhUOr9sRyp-pK3EcUNOBCaOOo [llpMhUOr9sRyp-pK3EcUNOBCaOOo].md",
+          "key": "zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1135丨曹操为什么没有一举歼灭马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo/"
         }
       ],
       "updated": "2026-11-08",
@@ -322347,9 +322361,9 @@
       "url": "/wiki/entities/yangfenglatehan/"
     },
     "YangFuLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？ [lh10WWkWcqw5HNAp3BOdW6oXPT7v].md",
@@ -322378,6 +322392,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1136丨他勇如韩信，却因一个决定全家被杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1136-ta-yong-ru-hanxin-que-yin-yige-jueding-quanjia-bei-sha-lky3lnnzjqlehbyyxhqfv73xpmtb/"
+        },
+        {
+          "episode_file": "llpMhUOr9sRyp-pK3EcUNOBCaOOo [llpMhUOr9sRyp-pK3EcUNOBCaOOo].md",
+          "key": "zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1135丨曹操为什么没有一举歼灭马超？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo/"
         }
       ],
       "updated": "2026-11-08",
