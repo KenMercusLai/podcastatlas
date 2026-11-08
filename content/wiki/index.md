@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人](sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk.md) — 芮淇讲透资治通鉴 episode on Cao Cao's proposed restoration of mutilating punishment, Chen Qun's actual-harm argument, the ancient five punishments, exemplary execution, and five practical reasons to study history.
 - [Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump](sources/allin-e296-ch-allin-e296-ch.md) — All-In debates the midterm defeat through war, affordability, trust, and inequality, then links data-center permitting to compute gatekeeping and an unverified AI complexity-theory result.
 - [锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾](sources/lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc.md) — 42章经访谈马肖腾，讨论企业后训练闭环、New Lab、LoRA 多样化、持续学习与 RL 决策方法。
 - [EP293 性不容易，亲密更难：我们缺的是欲望，还是合适的人？](sources/ep293-xing-bu-rongyi-qinmi-geng-nan-women-que-de-shi-yuwang-haishi-heshi-de-ren-ljrvwz7kavgep3r4t8uxelvhxbql.md) — Talk三联将“性萧条”重构为关系进入、性教育、身体自主、表现压力与不确定性共同构成的性焦虑。
@@ -10271,7 +10272,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋宪 / Song Xian (late Han)](entities/SongXianLateHan.md) — Lü Bu subordinate who joins Hou Cheng and Wei Xu in the Xiapi defection against Lü Bu.
 - [杨丑 / Yang Chou (late Han)](entities/YangChouLateHan.md) — Zhang Yang subordinate who kills Zhang Yang during the attempted relief of Lü Bu before being killed by Sui Gu.
 - [陈寿 / Chen Shou](entities/ChenShou.md) — Historian cited by Hanji 1026 to frame Lü Bu as fierce but strategically and politically unsound.
-- [陈群 / Chen Qun](entities/ChenQun.md) — Chen Ji's son, present in Lü Bu's army at Xiapi and treated as part of Cao Cao's elite-family incorporation after the surrender.
+- [陈群 / Chen Qun](entities/ChenQun.md) — 陈纪之子，既经下邳降服进入曹操的精英家族整合，也在建安十八年主张有限恢复肉刑以填补笞刑与死刑之间的量刑层级。
 - [徐翕 / Xu Xi (late Han)](entities/XuXiLateHan.md) — Former Cao Cao subordinate who betrayed during the Yanzhou crisis, sheltered with Zhang Ba, and was later spared and appointed.
 - [毛晖 / Mao Hui (late Han)](entities/MaoHuiLateHan.md) — Former Cao Cao subordinate paired with Xu Xi in Zhang Ba's protection-and-pardon branch after Xiapi.
 - [吴敦 / Wu Dun (late Han)](entities/WuDunLateHan.md) — Local armed actor whom Zhang Ba helps bring into Cao Cao's post-Xiapi settlement.
@@ -15241,7 +15242,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide traced through exclusion, eastern mass shooting, administration, camps, warning failures, and rescue.
 - [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
 - [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
-- [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
+- [罗翔 / Luo Xiang](entities/LuoXiang.md) — 以《法律的悖论》和《刑法学讲义》连接刑法权力约束、惩罚边界、理性谦逊及知识公共传播的法律学者与公共知识分子。
 - [《法律的悖论》 / The Paradox of Law](entities/TheParadoxOfLaw.md) — Luo Xiang book discussed as an accessible criminal-law philosophy route through paradox, moral context, state-power limits, punishment theory, and freedom boundaries.
 - [John Rawls / 罗尔斯](entities/JohnRawls.md) — Philosopher used through the veil of ignorance to test legal and social rules from unknown weak positions.
 - [John Stuart Mill / 穆勒](entities/JohnStuartMill.md) — Liberal philosopher used to test self-regarding conduct, paternalism, future freedom, and the risks of concentrating talent inside the state.
@@ -19008,6 +19009,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Varun Sharma](entities/VarunSharma.md) — Indian actor connecting casting-room learning, opportunity search, rejection recovery, ensemble comedy, and consent-centered AI use.
 
 ## Concepts
+- [上古五刑 / Ancient Five Punishments](concepts/AncientFivePunishments.md) — 将墨、劓、刖、宫、大辟区分为社会标记、毁容、残疾、生殖伤害与死刑，同时保留制度沿革和具体机制的史料边界。
+- [历史学习的实践定位 / History as Practical Orientation](concepts/HistoryAsPracticalOrientation.md) — 把历史学习综合为时空定位、人性比较、信息辨析、文明与法治理解及逆境韧性，同时限制机械类比和创伤浪漫化。
 - [Data Center Permitting-Pipeline Risk](concepts/DataCenterPermittingPipelineRisk.md) — Risk that incomplete approvals, moratoriums, and political uncertainty weaken later compute buildout or strand committed capital.
 - [Exponential Time Hypothesis](concepts/ExponentialTimeHypothesis.md) — Complexity-theory conjecture kept distinct from class-specific subexponential results and from P versus NP.
 - [Enterprise Post-Training Loop](concepts/EnterprisePostTrainingLoop.md) — 将企业任务、数据、评测、训练和部署反馈连接成持续改进闭环。
@@ -19904,7 +19907,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creative Experience Bottleneck / 创作经验瓶颈](concepts/CreativeExperienceBottleneck.md) — 生成速度可以近乎无限提升，但可供创作转化的生活观察、情感压力与个人经验只能按人的时间积累。
 - [Fame as Social Passport / 名望作为社会通行证](concepts/FameAsSocialPassport.md) — Public recognition can grant minority intellectuals social and international admission without supplying equal or durable political protection.
 - [宗室封国战略缓冲 / Strategic Royal-Kingdom Buffer](concepts/StrategicRoyalKingdomBuffer.md) — 以较可信宗室封国的地理和军事实力牵制更强诸侯，同时保留缓冲者自身坐大的长期风险。
-- [肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability](concepts/MutilatingPunishmentAbolition.md) — 以身体不可逆会堵死悔改与社会回归为由废除黥劓刖等刑，同时检验替代刑是否仍造成同等永久伤害。
+- [肉刑废除与可改过性 / Mutilating Punishment Abolition and Reformability](concepts/MutilatingPunishmentAbolition.md) — 以身体不可逆会堵死悔改与社会回归为废除依据，并用死亡、残疾、污名、生殖伤害与执行结果检验替代刑和恢复肉刑的主张。
 - [Festival Gift-Custom Evolution / 节庆赠礼习俗流变](concepts/FestivalGiftCustomEvolution.md) — 礼物随祭祀、等级、货币、家庭、文学、慈善与商业变化而重组对象、形式和意义。
 - [Naming Systems as Social Institutions / 姓名制度作为社会制度](concepts/NamingSystemsAsSocialInstitutions.md) — 把姓名的构件、次序、继承、称呼和禁忌理解为编码亲属、等级、宗教、政治权力与自我呈现的历史制度。
 - [State Surname Standardization / 国家推动的固定姓氏标准化](concepts/StateSurnameStandardization.md) — 国家以法律和登记稳定姓氏、提高人口可识别性，同时可能推动现代化、同化、去殖民化或民族身份重塑。
@@ -19914,7 +19917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Contextual Meaning of Cannibalism / 食人行为的语境意义](concepts/CannibalismContextualMeaning.md) — Separates survival, ritual, aggression, medicine, devotion, pathology, colonial labeling, and metaphor before cross-cultural judgment.
 - [Survival Cannibalism and Power Inequality / 生存性食人的权力不平等](concepts/SurvivalCannibalismPowerInequality.md) — Shows how necessity, victim selection, and apparently fair lotteries remain structured by rank, race, gender, age, strength, and command.
 - [Reading-to-Writing Practice](concepts/ReadingToWritingPractice.md) — Pathway through which reading becomes demonstrated craft via imitation, translation, submission, editorial feedback, and progressively longer completed work.
-- [Capital Punishment as Political Spectacle / 死刑作为政治景观](concepts/CapitalPunishmentAsPoliticalSpectacle.md) — Uses execution place, audience, duration, bodily treatment, and aftermath to communicate authority and terror beyond the condemned person's death.
+- [Capital Punishment as Political Spectacle / 死刑作为政治景观](concepts/CapitalPunishmentAsPoliticalSpectacle.md) — 通过处刑地点、受众、持续时间、身体处理与死后展示向被处刑者之外传递权威和恐惧，并以彭越遗体分送强化精英受众机制。
 - [Execution Status and Body Integrity / 处刑身份与身体完整性](concepts/ExecutionStatusAndBodyIntegrity.md) — Compares how execution methods encode rank, honor, disgrace, bodily wholeness, and burial dignity across legal cultures.
 - [Urban Route Field Observation / 城市路线式观察](concepts/UrbanRouteFieldObservation.md) — Uses a deliberately traversed path to connect visible places, remembered earlier states, and policy context into a spatial account of change.
 - [Adaptive Urban Planning Under Uncertainty / 不确定性下的弹性城市规划](concepts/AdaptiveUrbanPlanningUnderUncertainty.md) — Keeps collective direction while limiting dependence on precise long-range forecasts and preserving capacity for revision.
@@ -23039,7 +23042,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马革裹尸式边将生死观 / Horsehide Burial Resolve](concepts/HorsehideBurialResolve.md) — Ma Yuan-linked frontier ethos treating death in border service and return wrapped in horsehide as a soldier's fitting end.
 - [弹性边防军法 / Flexible Frontier Military Discretion](concepts/FlexibleFrontierMilitaryDiscretion.md) — Guangwu-era frontier rule pattern allowing defense and pursuit to follow troop capacity and enemy conditions rather than mechanical delay-law fear.
 - [Honors Without Office Settlement / 受爵不受官式功臣安置](concepts/HonorsWithoutOfficeSettlement.md) — Guangwu-era pattern of exchanging titles, stipends, ceremony, and limited access for the withdrawal of founding commanders from command and administrative power.
-- [刑法轻重与执行困境 / Penal Severity and Execution Tradeoff](concepts/PenalSeverityExecutionTradeoff.md) — Governance pattern where deterrence, proportionality, law density, and enforceability pull punishment design in opposite directions.
+- [刑法轻重与执行困境 / Penal Severity and Execution Tradeoff](concepts/PenalSeverityExecutionTradeoff.md) — 刑罚设计中威慑、比例、法网密度、量刑层级与真实执行伤害彼此拉扯的治理困境。
 - [度田问责 / Dutian Accountability (Eastern Han)](concepts/DutianAccountabilityEasternHan.md) — Guangwu-era land-registration accountability pattern exposing protected elite comparison zones and senior local-official falsification.
 - [女性起义称王 / Female Rebel Sovereignty](concepts/FemaleRebelSovereignty.md) — Pattern where Zheng Ce's Jiaozhi revolt becomes a female-led ruler claim rather than only local disorder.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.

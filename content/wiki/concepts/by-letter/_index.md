@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11077
+wiki_total_pages: 11079
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3254,6 +3254,9 @@ wiki_pages:
   - key: "AIControlNuclearAnalogyLimits"
     title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
     url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
+  - key: "AncientFivePunishments"
+    title: "上古五刑 / Ancient Five Punishments"
+    url: "/wiki/concepts/ancientfivepunishments/"
   - key: "AfterHoursPowerBoundary"
     title: "下班后权力边界 / After-Hours Power Boundary"
     url: "/wiki/concepts/afterhourspowerboundary/"

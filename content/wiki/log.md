@@ -38790,3 +38790,13 @@ Added source `zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xi
 ## [2026-11-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-08] ingest | 《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人
+
+Added source `zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk`; created [[AncientFivePunishments|上古五刑]] and [[HistoryAsPracticalOrientation|历史学习的实践定位]]; and resynthesized [[ChenQun|陈群]], [[LuoXiang|罗翔]], [[MutilatingPunishmentAbolition|肉刑废除与可改过性]], [[PenalSeverityExecutionTradeoff|刑法轻重与执行困境]], and [[CapitalPunishmentAsPoliticalSpectacle|死刑作为政治景观]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: nominal sentence rank and experienced harm can diverge, but lethal replacement flogging does not by itself make irreversible mutilation humane; severity must include death, disability, stigma, reproductive injury, and social return. The episode's five-part case for history is retained as a bounded framework for orientation, comparative judgment, information discrimination, institutional appreciation, and resilience rather than a claim that analogy predicts outcomes. No settled contradiction was adopted. Comparative mortality, exact debate wording and vote distribution, offense mappings, punishment mechanics, historical examples, medical claims, and causal educational benefits remain source-scoped because the supplied file is a structured popular-history summary rather than a transcript, primary-source collation, legal history, clinical study, or outcome evaluation. Broad [[CaoCao|曹操]], [[SimaQian|司马迁]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,861 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

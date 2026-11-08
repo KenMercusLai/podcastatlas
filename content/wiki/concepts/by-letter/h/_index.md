@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11077
+wiki_total_pages: 11079
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1235,6 +1235,9 @@ wiki_pages:
   - key: "HistoricalFemaleRoleModelCaution"
     title: "历史女性榜样化警惕 / Historical Female Role-Model Caution"
     url: "/wiki/concepts/historicalfemalerolemodelcaution/"
+  - key: "HistoryAsPracticalOrientation"
+    title: "历史学习的实践定位 / History as Practical Orientation"
+    url: "/wiki/concepts/historyaspracticalorientation/"
   - key: "HistoricalCostPrecedentRemonstrance"
     title: "历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance"
     url: "/wiki/concepts/historicalcostprecedentremonstrance/"

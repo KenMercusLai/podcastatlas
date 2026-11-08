@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2777
+topic_total_pages: 2778
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1759,6 +1759,9 @@ topic_concepts:
   - key: "HistoricalFemaleRoleModelCaution"
     title: "历史女性榜样化警惕 / Historical Female Role-Model Caution"
     url: "/wiki/concepts/historicalfemalerolemodelcaution/"
+  - key: "HistoryAsPracticalOrientation"
+    title: "历史学习的实践定位 / History as Practical Orientation"
+    url: "/wiki/concepts/historyaspracticalorientation/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"

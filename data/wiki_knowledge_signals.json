@@ -16638,6 +16638,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/ancientdivineidentitysyncretism/"
     },
+    "AncientFivePunishments": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/ancientfivepunishments/"
+    },
     "AncientGreekAthleticGlory": {
       "episode_count": 1,
       "show_count": 1,
@@ -42370,9 +42386,9 @@
       "url": "/wiki/entities/capitalgroup/"
     },
     "CapitalPunishmentAsPoliticalSpectacle": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpxZwqY8b9nAiZSLmotzcMZ4LIsO [lpxZwqY8b9nAiZSLmotzcMZ4LIsO].md",
@@ -42380,9 +42396,16 @@
           "show": "怪东西Weird History",
           "title": "21 东西方的死刑：从十字架到炮决",
           "url": "/wiki/sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso/"
+        },
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/capitalpunishmentaspoliticalspectacle/"
     },
     "CapitalPunishmentRetributionProblem": {
@@ -47726,6 +47749,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/chenqiulatehan/"
+    },
+    "ChenQun": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/chenqun/"
     },
     "ChenRaoXinEnvoy": {
       "episode_count": 2,
@@ -134997,6 +135043,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/historyasliferesource/"
     },
+    "HistoryAsPracticalOrientation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/concepts/historyaspracticalorientation/"
+    },
     "HitlerMemoryAndMoralAnalogy": {
       "episode_count": 2,
       "show_count": 1,
@@ -186143,6 +186205,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/luotong/"
     },
+    "LuoXiang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
+        }
+      ],
+      "updated": "2026-11-08",
+      "url": "/wiki/entities/luoxiang/"
+    },
     "LuoYonghao": {
       "episode_count": 17,
       "show_count": 2,
@@ -206510,9 +206595,9 @@
       "url": "/wiki/concepts/muthoslogostension/"
     },
     "MutilatingPunishmentAbolition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？ [lifxjDMrQOAO7B8DQ43w-xJh_dHy].md",
@@ -206520,9 +206605,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》224｜缇萦救父，14岁少女如何感动汉文帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-224-tiying-jiufu-14sui-shaonv-ruhe-gandong-hanwendi-lifxjdmrqoao7b8dq43w-xjh_dhy/"
+        },
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/mutilatingpunishmentabolition/"
     },
     "MutualExhaustionThirdPartyGain": {
@@ -224925,9 +225017,9 @@
       "url": "/wiki/entities/penvogler/"
     },
     "PenalSeverityExecutionTradeoff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
@@ -224935,9 +225027,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
+        },
+        {
+          "episode_file": "lgnJ-8smphSpf8nUD-2O3xH_lGGk [lgnJ-8smphSpf8nUD-2O3xH_lGGk].md",
+          "key": "zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1139丨揭秘古代肉刑，一个比一个吓人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1139-jiemi-gudai-rouxing-yige-bi-yige-xiaren-lgnj-8smphspf8nud-2o3xh_lggk/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-11-08",
       "url": "/wiki/concepts/penalseverityexecutiontradeoff/"
     },
     "Penelope": {
