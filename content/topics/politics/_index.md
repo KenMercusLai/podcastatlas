@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3473
+topic_total_pages: 3474
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8990,6 +8990,9 @@ topic_entities:
   - key: "LuoJun"
     title: "骆俊 / Luo Jun"
     url: "/wiki/entities/luojun/"
+  - key: "GaoRouLateHan"
+    title: "高柔 / Gao Rou (Late Han)"
+    url: "/wiki/entities/gaoroulatehan/"
   - key: "BaoYongEasternHan"
     title: "鲍永 / Bao Yong (Eastern Han)"
     url: "/wiki/entities/baoyongeasternhan/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2780
+topic_total_pages: 2779
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1927,9 +1927,6 @@ topic_concepts:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
-  - key: "CollateralPunishmentAndGuiltByAssociation"
-    title: "牵连与连坐 / Collateral Punishment and Guilt by Association"
-    url: "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
   - key: "DynasticPopulationLoss"
     title: "王朝更替人口损耗 / Dynastic Population Loss"
     url: "/wiki/concepts/dynasticpopulationloss/"

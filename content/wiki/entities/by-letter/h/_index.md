@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13988
+wiki_total_pages: 13989
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "Houyhnhnms"
     title: "慧骃 / Houyhnhnms"
     url: "/wiki/entities/houyhnhnms/"
+  - key: "HanzhongCampaign215"
+    title: "曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)"
+    url: "/wiki/entities/hanzhongcampaign215/"
   - key: "Hangzhou"
     title: "杭州 / Hangzhou"
     url: "/wiki/entities/hangzhou/"

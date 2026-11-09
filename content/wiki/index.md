@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？](sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv.md) — 芮淇讲透资治通鉴以曹操西征汉中连接刑罚克制、隐蔽集结、侧翼安全、情报复核、阳平关偶然逆转与张鲁的保存资产式归降。
 - [《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？](sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop.md) — 芮淇讲透资治通鉴以孙刘荆州争端、吕蒙诱降郝普与鲁肃会关羽，讨论虚假无援信息、将领自主性与共同威胁下的联盟利益边界。
 - [151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上](sources/ep151-ep151.md) — 疯投圈与冷芸讨论国产中高端时尚品牌增长、向往感、数字旗舰店、复购与库存等经营质量指标。
 - [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](sources/7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6.md) — What's Next 对话小影科技韩晟，以视频创作为例讨论通用与垂直 Agent 协作、首版驱动的意图澄清、专业执行、模型成本、本地化和快速需求验证。
@@ -5009,6 +5010,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke](sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992.md) — Huberman Lab interview on addiction as reward adaptation and controllable state change, radical surrender, codependency, and clinically bounded recovery.
 
 ## Entities
+- [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
 - [郝普 / Hao Pu (late Han)](entities/HaoPuLateHan.md) — 零陵太守，因误信刘备、关羽无法驰援的消息而向吕蒙投降。
 - [冷芸 / Leng Yun](entities/LengYun.md) — Fashion researcher and practitioner analyzing desire, premium presentation, and Chinese fashion upgrading.
 - [江南布衣 / JNBY](entities/JNBY.md) — Established Chinese fashion brand with a literary, relaxed aesthetic and growing ecommerce business.
@@ -10767,7 +10769,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [种劭 / Zhong Shao (late Han)](entities/ZhongShaoLateHan.md) — Chang'an remonstrance official whose inside plot against Li Jue leaks before the Changpingguan branch.
 - [马宇 / Ma Yu (late Han)](entities/MaYuLateHan.md) — Chang'an attendant whose courier-disguise role belongs to the failed inside plot against Li Jue.
 - [边让 / Bian Rang (Late Han)](entities/BianRangLateHan.md) — Chenliu scholar-official whose killing is treated by Hanji 974 as the deeper trigger for Yanzhou local-elite fear before Zhang Miao and Chen Gong betray Cao Cao.
-- [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — Chenliu observer who predicts that Cao Cao's ambition and Zhang Miao's local base will eventually destabilize their friendship.
+- [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — 兼具政治关系诊断与刑罚行为判断的汉末官员，反对把逃兵牵连扩大到父母兄弟。
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
 - [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
 - [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose role spans an organized early following, Huguan surrender-incentive advice, the Runan counterstrike, and Jiangling defense.
@@ -10902,7 +10904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [海昏 / Haihun (late Han)](entities/HaihunLateHan.md) — Yuzhang-area place near which Panyang local forces form a separate office in Taishi Ci's report.
 - [张角 / Zhang Jiao (late Han)](entities/ZhangJiaoLateHan.md) — Taiping Dao leader whose uprising frames Hanji 932's armed proliferation and later serves as a religious-mobilization comparator in Hanji 995.
 - [太平道 / Taiping Dao](entities/TaipingDao.md) — Zhang Jiao's religious movement, used as a comparator for religion as mass organization in the late-Han breakdown.
-- [张鲁 / Zhang Lu (Five Pecks of Rice)](entities/ZhangLuFivePecks.md) — Late-Han Wudoumi Dao ruler joining Hanzhong autonomy and title restraint with selective shelter and limited sponsorship of Ma Chao.
+- [张鲁 / Zhang Lu (Five Pecks of Rice)](entities/ZhangLuFivePecks.md) — 从汉中五斗米道自治、名号克制和选择性用人，走向保存府库并接受曹操收编的汉末领袖。
 - [五斗米道 / Wudoumi Dao](entities/WudoumiDao.md) — Zhang Lu's religious-administrative system, now tracked from rice-healing revolt and Hanzhong route control into local governance.
 - [阎圃 / Yan Pu (late Han)](entities/YanPuLateHan.md) — Zhang Lu adviser who warns that claiming Hanning kingship would trade practical autonomy for unnecessary danger.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
@@ -19086,6 +19088,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
+- [战场偶然窗口利用 / Battlefield Contingency Exploitation](concepts/BattlefieldContingencyExploitation.md) — 通过核实、改令和后续行动把非计划事件转化为战役优势，而不倒推成预设妙计。
 - [虚假无援诱降 / False Relief-Denial Surrender](concepts/FalseReliefDenialSurrender.md) — 通过操纵守方对援军可能性的判断，使继续坚守在错误信息下显得无意义的诱降模式。
 - [Chinese Fashion Brand Premiumization / 中国时尚品牌高端化](concepts/ChineseFashionBrandPremiumization.md) — Domestic fashion brands moving from manufacturing and function toward aesthetic, cultural, and relationship value.
 - [Digital Flagship Brand Showroom / 数字旗舰店品牌展厅](concepts/DigitalFlagshipBrandShowroom.md) — Official ecommerce store as a brand image, styling, education, and customer-operation surface.
@@ -23285,7 +23289,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [据史批评容忍 / Historical Critique Tolerance](concepts/HistoricalCritiqueTolerance.md) — Governance norm from Hanji 754 where fact-based historical criticism is distinguished from defamatory slander and left unpunished.
 - [行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion](concepts/ActionBackedAntiCorruptionPersuasion.md) — Integrity pattern where Zheng Jun uses labor and returned earnings to make anti-bribery advice practical rather than abstract.
 - [失去靠山后的低调自保 / Patronage-Loss Self-Protection](concepts/PatronageLossSelfProtection.md) — Pattern where a person or household lowers visibility, restrains dependents, and cuts risky display after a patronage shield disappears.
-- [退让留余地式治理 / Strategic Forbearance Governance](concepts/StrategicForbearanceGovernance.md) — Governance pattern where restraint preserves speech, cooperation, credibility, legitimacy, withdrawal, or future action, with known protected wrongdoing marked as a non-forbearance boundary.
+- [退让留余地式治理 / Strategic Forbearance Governance](concepts/StrategicForbearanceGovernance.md) — 以限制惩罚或破坏保留发言、回归、投降、恢复和未来合作空间，并排除保护既知恶行的治理模式。
 - [知奸不除式威慑失效 / Known-Misconduct Non-Punishment](concepts/KnownMisconductNonPunishment.md) — Deterrence failure where a ruler discovers protected wrongdoing but stops at rebuke or restitution without legal consequence.
 - [人生定位与适配 / Career Positioning Through Fit](concepts/CareerPositioningThroughFit.md) — Career judgment pattern where effort compounds better when ability, temperament, role, and inherited resources fit before commitment.
 - [单人负责式制度编纂 / Single-Author Institutional Codification](concepts/SingleAuthorInstitutionalCodification.md) — Institutional-design tradeoff where one accountable compiler turns inherited precedent into usable rules when broad deliberation may stall.
@@ -27261,7 +27265,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Criminal Law As Power Limitation](concepts/CriminalLawAsPowerLimitation.md) — Frame treating criminal law as a restraint on state punishment power as well as a mechanism for responding to crime.
 - [刑罚个人责任边界 / Punishment Personal Responsibility Limit](concepts/PunishmentPersonalResponsibilityLimit.md) — Principle grounded in Liu Kai's Hanji 796 memorial that corruption punishment should stop with the offender rather than bar innocent descendants from office.
 - [Punishment Theory Tradeoff](concepts/PunishmentTheoryTradeoff.md) — Contrast among retribution, utilitarian deterrence, and constrained mixed theories of punishment.
-- [Collateral Punishment And Guilt By Association](concepts/CollateralPunishmentAndGuiltByAssociation.md) — Punishment and liability beyond the individual, now including Shang Yang's 什伍连坐 as deliberate state-control infrastructure.
+- [牵连与连坐 / Collateral Punishment and Guilt by Association](concepts/CollateralPunishmentAndGuiltByAssociation.md) — 把后果从行为人扩展到亲属或关系网络，并可能因关闭回归路径而反向加剧逃亡等行为。
 - [Veil Of Ignorance](concepts/VeilOfIgnorance.md) — Rawlsian thought experiment used to test legal and social rules from positions the rule-maker may unexpectedly occupy.
 - [Liberalism-Paternalism Boundary](concepts/LiberalismPaternalismBoundary.md) — Problem of when law may restrict self-regarding conduct without turning freedom into permanent tutelage.
 - [Legal Interest Individual Reduction](concepts/LegalInterestIndividualReduction.md) — Criminal-law safeguard requiring collective legal interests to be reducible to concrete individual harms.

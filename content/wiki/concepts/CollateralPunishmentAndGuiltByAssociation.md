@@ -2,7 +2,7 @@
 title: "牵连与连坐 / Collateral Punishment and Guilt by Association"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [law, criminal-law, punishment, family, records, legalism, pre-qin-history]
+tags: [law, criminal-law, punishment, family, records, legalism, governance]
 sources:
   - zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud
   - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
@@ -13,69 +13,70 @@ sources:
   - zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga
   - 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302
   - zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd
-last_updated: 2026-10-09
+  - zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv
+last_updated: 2026-11-10
 ---
 
 ## Definition
 
-牵连与连坐 / collateral punishment and guilt by association is the extension of legal, political, occupational, social, or ritual consequences from an alleged offender to relatives, associates, subordinates, neighbors, or later status, without a separate showing of each person's responsibility.
+牵连与连坐 / collateral punishment and guilt by association is the extension of legal, political, occupational, social, or ritual consequences from an alleged offender to relatives, associates, subordinates, neighbors, or later status without a separate showing of each person's responsibility.
 
 ## Current Synthesis
 
-The source set shows collateral punishment as a family of mechanisms rather than one penalty. [[ShangYang|商鞅]]'s five- and ten-household rules use mutual liability to turn neighbors into a surveillance grid; the later lodging story makes that coercive infrastructure trap its own designer. Under [[QinErshi|秦二世]], threatened implication helps make [[YingGao|嬴高]] choose managed death over flight, while [[LiSi|李斯]]'s forced treason conviction ends in execution with his son and destruction of three clans.
+The sources show a family of mechanisms rather than one penalty. Shang Yang's household groupings turn neighbors into a surveillance grid and later trap their designer; Qin succession purges use threatened family implication to shape death and obedience; Li Si's coerced conviction ends with execution of kin and destruction of clans. Late-Han cases extend retaliation through households, fief officials, students, former subordinates, five-degree kin, and even posthumous ritual status.
 
-Late-Han cases widen the map. Household retaliation kills Su Buwei's wider family, the case against [[LiuKuiBohaiKing|渤海王刘悝]] reaches household and officials, party prohibition disables students, former subordinates, and five-degree kin, and Dou-family guilt is used to contest [[EmpressDowagerDouMiao|窦皇太后]]'s posthumous burial status. The shared logic is relational substitution: family, service, educational, or factional proximity stands in for individually proved conduct.
+The modern law-philosophy layer covers criminal records, licensing and employment barriers, school checks, registries, and family consequences. It argues that responsibility should remain personal and that continuing exclusion needs evidence of harm reduction rather than inherited punishment instinct. Liu Heng's reported repeal of arrest, confiscation, and enslavement of innocent relatives supplies an explicit historical counter-principle.
 
-The modern law-philosophy layer covers continuing criminal records, occupational and licensing barriers, school checks, registries, and family consequences. It argues that both retribution and utility require limits: desert should remain personal, while prevention must show that continuing exclusion reduces harm rather than merely reproducing it across generations.
-
-The opening of [[LiuHeng|汉文帝刘恒]]'s reign supplies a reform boundary. Liu Heng condemns arresting, confiscating, or enslaving innocent parents, spouses, siblings, and other relatives for another person's crime and orders the practice abolished. [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] does not prove that every later form of association liability disappeared, but it makes individualized responsibility an explicit counter-principle inside the historical record assembled here.
+Hanji 1151 adds an internal-governance critique through [[GaoRouLateHan|高柔]]. Extending deserter liability to parents and siblings is not only unfair to unproved relatives; it may worsen the principal behavior by convincing deserters that return is impossible and encouraging further flight. This makes proportionality and effectiveness converge: relational punishment can fail both personal-responsibility and organizational-stability tests.
 
 ## Key Claims
 
 - Collateral punishment substitutes relationship for separately established personal responsibility.
-- The mechanism ranges from execution and enslavement to office exclusion, record stigma, surveillance duty, and denial of ritual recognition.
-- Collective liability can increase state enforcement capacity by making households and neighbors police one another.
-- Fear for relatives can shape a target's conduct before formal conviction, including surrender, silence, or managed death.
-- Continuing exclusion after sentence requires independent justification rather than inheriting the original conviction automatically.
-- Liu Heng's reported repeal makes innocent-kin protection an explicit legal counter-principle, while not establishing the end of every later association-based sanction.
+- It ranges from death, enslavement, confiscation, and office exclusion to record stigma, surveillance duty, family coercion, and ritual denial.
+- Collective liability can increase enforcement capacity by making households and neighbors police one another.
+- Fear for relatives can shape conduct before conviction, including surrender, silence, flight, or managed death.
+- Wider liability can be behaviorally counterproductive when it removes reasons to return or cooperate.
+- Continuing exclusion requires independent justification rather than automatic inheritance from the original offense.
+- Individual-responsibility reforms are explicit counter-principles, though they do not prove every association-based sanction disappeared.
 
 ## Evidence
 
-Surveillance and self-binding enforcement:
-- [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga|Zhouji 13]] describes five- and ten-household grouping, mutual surveillance, rewards for reporting, and liability for concealment.
-- [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf|Zhouji 23]] says an innkeeper refuses the fleeing Shang Yang because sheltering him would expose the innkeeper under Shang Yang's own rules.
+### Surveillance and self-binding enforcement
 
-Dynastic purge and family coercion:
-- [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128 part 1]] says fear that flight will implicate his family shapes Ying Gao's death petition.
-- [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131 part 1]] reports Li Si's execution with his son and destruction of three clans after a coerced confession.
+- [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga|Zhouji 13]] describes household grouping, reporting incentives, and mutual liability; [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf|Zhouji 23]] says the same order blocks Shang Yang's lodging during flight.
 
-Late-Han household, network, and ritual extension:
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] supplies household killing and royal-fief purge variants.
-- [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] extends party prohibition through educational, service, and kinship ties.
-- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] shows family guilt being used to challenge a deceased dowager's burial recognition.
+### Dynastic purge and family coercion
 
-Modern continuation and normative critique:
-- [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302|法律的悖论]] discusses records, registries, employment and licensing barriers, school checks, and family consequences through retributive, preventive, and weak-position tests.
+- [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] says family danger shapes Ying Gao's death petition; [[zizhi-tongjian-qinji-131-1-qinxiang-lisi-yisheng-jingming-que-zao-yaozhan-liupvalcghtas2ibfyjrtdz6ctg7|Qinji 131-1]] reports Li Si's execution with his son and destruction of three clans.
 
-Individual-responsibility reform:
-- [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208 part 1]] attributes to Liu Heng an order ending arrest, confiscation, and enslavement of innocent relatives for another person's offense.
+### Late-Han household, network, and ritual extension
+
+- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] supplies household killing and royal-fief purges; [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] extends party prohibition through educational, service, and kinship ties; [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] shows family guilt applied to burial recognition.
+
+### Modern continuation and normative critique
+
+- [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302|法律的悖论]] discusses records, registries, employment and licensing barriers, school checks, and family consequences through responsibility, prevention, and weak-position tests.
+
+### Individual responsibility and counterproductive severity
+
+- [[zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd|Hanji 208-1]] attributes to Liu Heng an order ending specified penalties on innocent relatives; [[zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv|Hanji 1151]] attributes to Gao Rou the warning that expanded deserter-family punishment would increase flight.
 
 ## Counterevidence & Qualifications
 
-The sources span popular-history summaries, historical anecdotes, and a modern law-philosophy discussion; they do not establish one continuous institution or identical legal definitions. The Shang Yang lodging story has an exemplary self-trap function and should not be treated as a complete statute book. Late-Han ritual, office, household, and fief consequences differ from criminal conviction even when they share association logic. Modern registries and record systems vary by jurisdiction and purpose, so comparison with clan punishment is analytical rather than equivalence. Hanji 208 part 1 does not supply the full text, implementation record, exceptions, or durability of Liu Heng's repeal and therefore cannot establish that all collective liability ended.
+The sources span popular-history summaries, historical anecdotes, and modern law philosophy; they do not establish one continuous institution or identical legal definition. Surveillance liability, clan execution, political exclusion, ritual denial, records, and deserter-family penalties differ even when they share relational substitution. Liu Heng's repeal and Cao Cao's reported revision lack full statutory text, implementation evidence, exceptions, and durability here. Gao Rou's prediction is a behavioral argument accepted in the episode, not measured proof that narrower punishment caused return.
 
 ## What Changed
 
-- Migrated the page to the synthesis-first schema using all eight prior sources in their preserved order.
-- Added Liu Heng's reported repeal as explicit counterevidence to family-extension punishment.
-- Distinguished abolition of specified innocent-kin penalties from a claim that every association-based sanction disappeared.
+- Added Gao Rou's warning that wider family liability can increase the prohibited behavior by closing the return path.
+- Joined personal-responsibility and organizational-effectiveness critiques without treating them as identical.
+- Preserved the distinction among historical, political, ritual, and modern association-based sanctions.
 
 ## Related Concepts
 
 - [[CriminalLawAsPowerLimitation]] - principle that punishment law should restrain state power as well as condemn wrongdoing.
-- [[PunishmentTheoryTradeoff]] - retributive and preventive tests for proportionality and continuing exclusion.
+- [[PunishmentTheoryTradeoff]] - responsibility and prevention tests for proportionality and continuing exclusion.
 - [[LegalistSelfBindingBackfire|作法自毙]] - feedback effect when liability rules constrain their own designer.
-- [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] - late-Han office-exclusion variant built from kinship and network ties.
-- [[ImperialBurialLegitimacy|帝后合葬名分]] - ritual domain into which family guilt can be extended after death.
-- [[VeilOfIgnorance]] - weak-position test for rules that burden offenders' relatives and associates.
+- [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] - late-Han exclusion through kinship and networks.
+- [[StrategicForbearanceGovernance|退让留余地式治理]] - neighboring principle that preserves return and cooperation by limiting maximum sanction.
+- [[VeilOfIgnorance]] - weak-position test for rules burdening offenders' relatives and associates.
 - [[LawMoralityBoundary]] - distinction between moral disapproval and justified legal consequence.

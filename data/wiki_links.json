@@ -13823,6 +13823,10 @@
     "title": "Battlefield Commander Replacement Risk / 阵前换将风险",
     "url": "/wiki/concepts/battlefieldcommanderreplacementrisk/"
   },
+  "BattlefieldContingencyExploitation": {
+    "title": "战场偶然窗口利用 / Battlefield Contingency Exploitation",
+    "url": "/wiki/concepts/battlefieldcontingencyexploitation/"
+  },
   "BattlefieldEncirclementLogistics": {
     "title": "Battlefield Encirclement Logistics / 战场围困与断粮",
     "url": "/wiki/concepts/battlefieldencirclementlogistics/"
@@ -35107,6 +35111,10 @@
     "title": "Field Training Officer Effects",
     "url": "/wiki/concepts/fieldtrainingofficereffects/"
   },
+  "FieldVerifiedIntelligence": {
+    "title": "实地复核式情报判断 / Field-Verified Intelligence",
+    "url": "/wiki/concepts/fieldverifiedintelligence/"
+  },
   "FieldnoteToPublicWriting": {
     "title": "Fieldnote To Public Writing / 田野笔记到公共写作",
     "url": "/wiki/concepts/fieldnotetopublicwriting/"
@@ -42226,6 +42234,10 @@
   "Hanzhong": {
     "title": "汉中 / Hanzhong",
     "url": "/wiki/entities/hanzhong/"
+  },
+  "HanzhongCampaign215": {
+    "title": "曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)",
+    "url": "/wiki/entities/hanzhongcampaign215/"
   },
   "HanzhongDui": {
     "title": "Hanzhong Dui / 汉中对",
@@ -114702,6 +114714,10 @@
   "zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu": {
     "title": "《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu/"
+  },
+  "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv": {
+    "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
   },
   "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop": {
     "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",

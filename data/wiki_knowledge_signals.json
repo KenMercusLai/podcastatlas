@@ -30358,6 +30358,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/battleofzama/"
     },
+    "BattlefieldContingencyExploitation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/battlefieldcontingencyexploitation/"
+    },
     "BattlefieldFeintAndLure": {
       "episode_count": 7,
       "show_count": 1,
@@ -56926,9 +56942,9 @@
       "url": "/wiki/entities/collabcapital/"
     },
     "CollateralPunishmentAndGuiltByAssociation": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -56992,9 +57008,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》208｜以退为进，陈平的厚黑学（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-208-yi-tui-wei-jin-chenping-de-houheixue-1-lmw61vriwsknnyex3cdrbdlusafd/"
+        },
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
     },
     "CollateralSuccessionDisorderRisk": {
@@ -104348,6 +104371,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/fielddiscretionpacification/"
     },
+    "FieldVerifiedIntelligence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/fieldverifiedintelligence/"
+    },
     "FifthLunEasternHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -114798,6 +114837,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/gaolunlatehan/"
+    },
+    "GaoRouLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
+          "key": "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd/"
+        },
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/gaoroulatehan/"
     },
     "GaoXiangLateHan": {
       "episode_count": 1,
@@ -129490,6 +129552,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/hanyaofu/"
+    },
+    "HanzhongCampaign215": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/hanzhongcampaign215/"
     },
     "HaoJieTaiyuanLateHan": {
       "episode_count": 1,
@@ -280346,9 +280424,9 @@
       "url": "/wiki/concepts/strategicexclusionandfocus/"
     },
     "StrategicForbearanceGovernance": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -280391,9 +280469,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》197｜是谁？敢指名开国皇帝的老婆二婚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-197-shi-shui-gan-zhiming-kaiguo-huangdi-de-laopo-erhun-ltangqdoih0pi6x94ke3qoz205wl/"
+        },
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/strategicforbearancegovernance/"
     },
     "StrategicFrontierAbandonment": {
@@ -331021,9 +331106,9 @@
       "url": "/wiki/entities/zhanglu/"
     },
     "ZhangLuFivePecks": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -331059,9 +331144,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
+        },
+        {
+          "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
+          "key": "zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/zhanglufivepecks/"
     },
     "ZhangMengLateHan": {

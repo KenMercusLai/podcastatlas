@@ -26455,11 +26455,6 @@
   ],
   "CollateralPunishmentAndGuiltByAssociation": [
     {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
-    },
-    {
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
@@ -41890,6 +41885,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "GaoRouLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GaoShanwen": [

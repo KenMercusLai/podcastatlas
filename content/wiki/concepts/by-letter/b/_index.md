@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11119
+wiki_total_pages: 11121
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "BanquetSeatingStatusPolitics"
     title: "宴席座次名分政治 / Banquet Seating Status Politics"
     url: "/wiki/concepts/banquetseatingstatuspolitics/"
+  - key: "BattlefieldContingencyExploitation"
+    title: "战场偶然窗口利用 / Battlefield Contingency Exploitation"
+    url: "/wiki/concepts/battlefieldcontingencyexploitation/"
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"

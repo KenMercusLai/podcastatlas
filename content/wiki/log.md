@@ -39021,3 +39021,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | 《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？
+
+Added source `zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv`; created [[HanzhongCampaign215|曹操西征汉中（215年）]], [[FieldVerifiedIntelligence|实地复核式情报判断]], and [[BattlefieldContingencyExploitation|战场偶然窗口利用]]; and resynthesized [[GaoRouLateHan|高柔]], [[ZhangLuFivePecks|张鲁]], [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]], and [[StrategicForbearanceGovernance|退让留余地式治理]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: severe family liability can close a deserter's return path; favorable intelligence must be checked against terrain and supply; the Yangping reversal remains contingent even though verification and rapid exploitation enlarge the accidental opening; and preserved public assets plus favorable incorporation can make surrender a credible, imitable off-ramp. No settled contradiction was adopted. Route, force, casualty, legal, dialogue, motive, storehouse, office, reward, and battle-causation details remain source-scoped pending primary-source comparison. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,891 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
