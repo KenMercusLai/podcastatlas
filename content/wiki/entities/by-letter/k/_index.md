@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13949
+wiki_total_pages: 13950
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "KlingAI"
     title: "Kling AI / 可灵 AI"
     url: "/wiki/entities/klingai/"
+  - key: "Klook"
+    title: "Klook"
+    url: "/wiki/entities/klook/"
   - key: "KnossosPalace"
     title: "Knossos Palace"
     url: "/wiki/entities/knossospalace/"

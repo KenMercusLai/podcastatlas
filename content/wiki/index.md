@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？](sources/gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4.md) — 声动早咖啡以 Klook 解释目的地体验平台为何会在订单增长中同时承担非标准供给、内容获客、线下履约、售后协调与区域集中成本。
 - [188.关于本轮下跌的三个想法和一些建议](sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp.md) — 起朱楼宴宾客 on AI financing reflexivity, shared cross-market capex exposure, and allocation discipline during a broad risk-asset decline.
 - [《资治通鉴·汉纪》1134丨曹操没有篡汉称帝之心？？？](sources/zizhi-tongjian-hanji-1134-caocao-meiyou-cuanhan-chengdi-zhi-xin-llg1ubbjxxuwjyuoallhd8mkecod.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Nine Provinces centralization, Jiang Ji's rejected migration warning, civilian flight to Sun Quan, and Cao Cao's elevation as Duke of Wei with the Nine Bestowments.
 - [《资治通鉴·汉纪》1135丨曹操为什么没有一举歼灭马超？](sources/zizhi-tongjian-hanji-1135-caocao-weishenme-meiyou-yiju-jianmie-machao-llpmhuor9sryp-pk3ecunobcaooo.md) — 芮淇讲透资治通鉴 episode on Cao Cao prioritizing a Hejian rear rebellion, Yang Fu's warning, Ma Chao's coalition-backed recovery, and Wei's vassal-state ritual institutionalization.
@@ -4988,6 +4989,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
 
 ## Entities
+- [Klook](entities/Klook.md) — Asia-Pacific-centered destination-experience marketplace whose reported booking growth has not yet resolved acquisition, fulfillment, support, and profitability pressure.
 - [阎温 / Yan Wen (late Han)](entities/YanWenLateHan.md) — Ji relief envoy who reverses Ma Chao's coerced surrender message into a final appeal for continued defense.
 - [韦康 / Wei Kang (late Han)](entities/WeiKangLateHan.md) — Liangzhou inspector whose surrender of Ji and reported killing by Ma Chao become the immediate trust breach behind Yang Fu's resistance network.
 - [赵昂 / Zhao Ang (late Han)](entities/ZhaoAngLateHan.md) — Ji resistance participant whose shared decision to expose Zhao Yue as Ma Chao's hostage makes family cost part of his loyalty profile.
@@ -19026,6 +19028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apprentice Bench](entities/ApprenticeBench.md) — Sequential construction-accounting benchmark for learning from earlier workplace tasks and feedback.
 
 ## Concepts
+- [Destination-Experience Marketplace Economics](concepts/DestinationExperienceMarketplaceEconomics.md) — How fragmented local supply, inspiration-led demand, price comparison, offline fulfillment, support, and regional exposure shape experience-platform unit economics.
 - [AI Financing Reflexivity](concepts/AIFinancingReflexivity.md) — Feedback loop linking market repricing and marginal funding costs to AI project execution, counterparties, and demand.
 - [Cross-Market AI Exposure Concentration](concepts/CrossMarketAIExposureConcentration.md) — Hidden portfolio dependence when holdings in different markets rely on the same AI capital-expenditure cycle.
 - [上古五刑 / Ancient Five Punishments](concepts/AncientFivePunishments.md) — 将墨、劓、刖、宫、大辟区分为社会标记、毁容、残疾、生殖伤害与死刑，同时保留制度沿革和具体机制的史料边界。

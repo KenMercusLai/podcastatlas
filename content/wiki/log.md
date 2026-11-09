@@ -38863,3 +38863,10 @@ Added source `lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc`; create
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-09] ingest | 体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？
+
+Added source `gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4`; created [[Klook]] and [[DestinationExperienceMarketplaceEconomics]]. Core synthesis: destination-experience marketplaces create real discovery and booking value, but fragmented local supply, late-forming demand, transparent-ticket price comparison, destination-by-destination integration, offline exception handling, and service recovery can make costs grow alongside orders. Klook's reported Asia-Pacific depth is both a localization advantage and a concentration risk, while extensive support automation lowers routine workload without removing accountability for unclear listings, delayed tickets, refunds, or changing entitlements. No settled contradiction was adopted. Booking, user, revenue, loss, expense, automation, regional concentration, complaint, competitor, and future-product figures remain source-scoped because the supplied file is a structured podcast summary rather than audited filings, cohort data, supplier records, or independent market research. Broad [[Airbnb]], [[Tesla]], [[CyberCab]], incumbent-OTA, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgment without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the max-age gate triggered global compaction, and refreshed artifacts validate 4,870 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

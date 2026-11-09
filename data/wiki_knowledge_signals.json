@@ -74826,6 +74826,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/desktop3dprintingeconomy/"
     },
+    "DestinationExperienceMarketplaceEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOxiw3AIB9LAT4DVj4 [GKwRIJEOxiw3AIB9LAT4DVj4].md",
+          "key": "gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4",
+          "show": "声动早咖啡",
+          "title": "体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？",
+          "url": "/wiki/sources/gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/destinationexperiencemarketplaceeconomics/"
+    },
     "DestinyDrivenSelfConstruction": {
       "episode_count": 1,
       "show_count": 1,
@@ -165053,6 +165069,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/kleosheroicglory/"
+    },
+    "Klook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJEOxiw3AIB9LAT4DVj4 [GKwRIJEOxiw3AIB9LAT4DVj4].md",
+          "key": "gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4",
+          "show": "声动早咖啡",
+          "title": "体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？",
+          "url": "/wiki/sources/gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/klook/"
     },
     "KneeStabilityInjuryCascade": {
       "episode_count": 2,
