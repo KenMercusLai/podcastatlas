@@ -10048,9 +10048,9 @@
       "url": "/wiki/concepts/adviceseekingforimprovement/"
     },
     "AdviserStateArchitecture": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -10107,9 +10107,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u/"
+        },
+        {
+          "episode_file": "lpC9KYfhuPTS3zfJwJsv4-ugJXox [lpC9KYfhuPTS3zfJwJsv4-ugJXox].md",
+          "key": "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/adviserstatearchitecture/"
     },
     "AdvisoryAssemblyImplementationGap": {
@@ -134709,9 +134716,9 @@
       "url": "/wiki/concepts/historicallearningwithoutprediction/"
     },
     "HistoricalLegendAccretion": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvLaqbfMFxBVyTpSiMiKNT0km-xp [lvLaqbfMFxBVyTpSiMiKNT0km-xp].md",
@@ -134719,9 +134726,16 @@
           "show": "怪东西Weird History",
           "title": "17 东西方的长城",
           "url": "/wiki/sources/17-dongxifang-de-changcheng-lvlaqbfmfxbvytpsimiknt0km-xp/"
+        },
+        {
+          "episode_file": "lpC9KYfhuPTS3zfJwJsv4-ugJXox [lpC9KYfhuPTS3zfJwJsv4-ugJXox].md",
+          "key": "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/historicallegendaccretion/"
     },
     "HistoricalMemoryContest": {
@@ -222502,9 +222516,9 @@
       "url": "/wiki/entities/pangmengeasternhan/"
     },
     "PangTong": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
@@ -222547,9 +222561,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1131丨我为什么支持曹魏篡汉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1131-wo-wei-shenme-zhichi-caowei-cuanhan-lvcjau_k5voaz6efl9rafcrn5px6/"
+        },
+        {
+          "episode_file": "lpC9KYfhuPTS3zfJwJsv4-ugJXox [lpC9KYfhuPTS3zfJwJsv4-ugJXox].md",
+          "key": "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/pangtong/"
     },
     "PangXiLateHan": {
@@ -329327,6 +329348,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhangqiaolatehan/"
+    },
+    "ZhangRenLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpC9KYfhuPTS3zfJwJsv4-ugJXox [lpC9KYfhuPTS3zfJwJsv4-ugJXox].md",
+          "key": "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/zhangrenlatehan/"
     },
     "ZhangSanfengJinYong": {
       "episode_count": 2,

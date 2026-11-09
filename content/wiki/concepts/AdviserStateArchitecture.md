@@ -12,7 +12,8 @@ sources:
   - zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr
   - zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x
   - zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox
+last_updated: 2026-11-09
 ---
 
 # Adviser State Architecture / 谋士政权架构
@@ -30,6 +31,8 @@ Hanji 961 and Hanji 968 show the Cao-side intake and design layers. [[XunYu|荀�
 Hanji 974-976 add crisis repair and role differentiation. The Yanzhou betrayal pushes [[CaoCao|曹操]] to widen talent intake and harden military control, while Xun Yu's reading of titles, routes, and rear vulnerability shows how warning becomes useful only through authority to recall forces and stabilize a base. Hanji 976 then states the system explicitly: Xun Yu, [[GuoJia|郭嘉]], Cheng Yu, [[ZhugeLiang|诸葛亮]], and [[FaZheng|法正]] are valuable because their judgments become legitimacy, logistics, strategy, and organization.
 
 Hanji 1081 adds succession and resilience to the concept. Its claim that Guo Jia's death caused Red Cliffs is too strong, but the episode usefully asks whether Cao Cao's organization replaced Guo Jia's particular opponent-reading function. A resilient adviser architecture must not only recruit varied talent; it must retain, distribute, document, or renew critical judgment capabilities when people die, defect, or become unavailable.
+
+Hanji 1144 adds a second capability-loss case around [[PangTong|庞统]]. The episode contrasts Pang Tong's fast, breakthrough-oriented, risk-accepting advice with [[ZhugeLiang|诸葛亮]]'s system-building and stable-governance role. Pang Tong's death during the Yizhou campaign does not prove that Jingzhou's later loss was inevitable, but it does show why complementary advisers are not interchangeable: removing one role can force another adviser to leave an existing theater, increase dependence on [[FaZheng|法正]], and change how strategy, administration, and field command are distributed.
 
 ## Key Claims
 
@@ -50,17 +53,17 @@ Hanji 1081 adds succession and resilience to the concept. Its claim that Guo Jia
 - Executable warning: [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] shows Xun Yu converting weak signals into urgent force movement and base stabilization.
 - Explicit system frame: [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] compares adviser systems by their ability to turn people, food, legitimacy, and plans into durable capacity.
 - Capability continuity: [[zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u|Hanji 1081]] frames Guo Jia's death as the loss of a distinctive opponent-reading function, while its Red Cliffs causal chain remains counterfactual.
+- Complementarity under loss: [[zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox|Hanji 1144]] contrasts Pang Tong's breakthrough role with Zhuge Liang's system role and links Pang Tong's death to a redistribution of advisers and command, while keeping the later Jingzhou chain qualified.
 
 ## Counterevidence & Qualifications
 
-These sources are podcast interpretations rather than a complete institutional record. Their named adviser roles can be compressed, retrospective, or metaphorical, and successful outcomes do not prove that the architecture was deliberately designed as one coherent system. Hanji 1081 especially risks great-man overreach: later defeat does not establish that one deceased adviser would have identified every deception or reversed structural problems involving disease, naval capability, logistics, alliance formation, and command. The concept should diagnose how advice becomes capacity and how capabilities survive personnel loss, not turn every victory or defeat into proof of adviser presence or absence.
+These sources are podcast interpretations rather than a complete institutional record. Their named adviser roles can be compressed, retrospective, or metaphorical, and successful outcomes do not prove that the architecture was deliberately designed as one coherent system. Hanji 1081 especially risks great-man overreach: later defeat does not establish that one deceased adviser would have identified every deception or reversed structural problems involving disease, naval capability, logistics, alliance formation, and command. Hanji 1144 creates the same caution in another camp: Pang Tong's death may change role allocation without single-handedly causing Zhuge Liang's movement, Jingzhou's fall, or Guan Yu's death. The concept should diagnose how advice becomes capacity and how capabilities survive personnel loss, not turn every victory or defeat into proof of adviser presence or absence.
 
 ## What Changed
 
-- Migrated the concept to the synthesis-v1 schema.
-- Added capability continuity after adviser death or departure as part of organizational resilience.
-- Used Guo Jia's death to distinguish a defensible role-loss question from an untestable Red Cliffs counterfactual.
-- Compressed the prior chronological source notes into claim-grouped evidence.
+- Added Pang Tong and Zhuge Liang as a complementary-role case rather than a simple ranking.
+- Extended capability continuity from losing one judgment function to the downstream redistribution of advisers and command.
+- Qualified the proposed Pang Tong-to-Jingzhou causal chain as organizational inference rather than single-cause history.
 
 ## Related Concepts
 
@@ -71,3 +74,5 @@ These sources are podcast interpretations rather than a complete institutional r
 - [[AdvisorRoleBoundary|谋士越位]] - marks the authority limit where correct diagnosis can become politically unusable action.
 - [[IntegratedCommandCapacity|全维度统帅能力]] - ruler-side ability that coordinates strategy, tactics, resources, and adviser use.
 - [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - concrete Guo Jia judgment showing how a specialized adviser role operates inside the architecture.
+- [[PangTong|庞统]] - breakthrough-oriented adviser whose death supplies the second capability-continuity case.
+- [[ZhugeLiang|诸葛亮]] - system-building adviser whose reassignment illustrates downstream role redistribution.
