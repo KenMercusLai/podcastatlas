@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11101
+wiki_total_pages: 11106
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "AILiteracyAgainstWorship"
     title: "AI Literacy Against Worship"
     url: "/wiki/concepts/ailiteracyagainstworship/"
+  - key: "AIMacroCapitalLaborTransmission"
+    title: "AI Macro Capital-Labor Transmission / AI 的资本—劳动宏观传导"
+    url: "/wiki/concepts/aimacrocapitallabortransmission/"
   - key: "AIManagingAI"
     title: "AI Managing AI"
     url: "/wiki/concepts/aimanagingai/"

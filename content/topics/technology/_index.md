@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3776
+topic_total_pages: 3778
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -760,6 +760,9 @@ topic_concepts:
   - key: "AILiteracyAgainstWorship"
     title: "AI Literacy Against Worship"
     url: "/wiki/concepts/ailiteracyagainstworship/"
+  - key: "AIMacroCapitalLaborTransmission"
+    title: "AI Macro Capital-Labor Transmission / AI 的资本—劳动宏观传导"
+    url: "/wiki/concepts/aimacrocapitallabortransmission/"
   - key: "AIMarketingDecisioning"
     title: "AI Marketing Decisioning"
     url: "/wiki/concepts/aimarketingdecisioning/"
@@ -11136,6 +11139,9 @@ topic_sources:
   - key: "lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu"
     title: "宋方金×罗永浩！故事必须有人讲下去"
     url: "/wiki/sources/lt24pcobvqnyxjeven2dwhuhvmfu-lt24pcobvqnyxjeven2dwhuhvmfu/"
+  - key: "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt"
+    title: "宏观经济如何传导给我们每个人？"
+    url: "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
   - key: "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop"
     title: "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！"
     url: "/wiki/sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop/"

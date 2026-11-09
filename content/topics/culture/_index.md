@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3627
+topic_total_pages: 3628
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7946,6 +7946,9 @@ topic_entities:
   - key: "ThePrincessAndThePea"
     title: "《豌豆公主》 / The Princess and the Pea"
     url: "/wiki/entities/theprincessandthepea/"
+  - key: "HuobiDeZhixu"
+    title: "《货币的秩序》 / The Order of Money"
+    url: "/wiki/entities/huobidezhixu/"
   - key: "CurrencyOriginBook"
     title: "《货币起源》 / The Origin of Money"
     url: "/wiki/entities/currencyoriginbook/"

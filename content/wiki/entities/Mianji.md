@@ -1,7 +1,7 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, valuation, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money, daoism, anthropology, medicine, life-design, behavioral-finance]
+tags: [podcast, investing, valuation, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money, daoism, anthropology, medicine, life-design, behavioral-finance, monetary-policy]
 sources:
   - shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp
   - jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe
@@ -25,15 +25,16 @@ sources:
   - caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb
   - touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd
   - xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf
+  - lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-12
+last_updated: 2026-11-09
 ---
 
 # 面基
 
 ## Overview
 
-面基 is a Chinese podcast represented in the current Wiki through 22 source notes. Its corpus spans investing, valuation, trading, macroeconomics, AI workflows, labor, nonfiction, health, anthropology, creator work, and life design.
+面基 is a Chinese podcast represented in the current Wiki through 23 source notes. Its corpus spans investing, valuation, trading, macroeconomics, AI workflows, labor, nonfiction, health, anthropology, creator work, and life design.
 
 Its durable editorial identity is a recurring inquiry into how people preserve judgment and agency when markets, technologies, institutions, bodies, and life conditions remain uncertain.
 
@@ -45,6 +46,8 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 
 **Embodied, institutional, and media life** form a broader third branch. Endurance sport, factory labor, big-company systems, reading, sleep, fieldwork, medicine, creator work, and Daoist practice are treated as sources of knowledge that cannot be reduced to abstract models. The proposed “attention asset” extends this branch by linking finite personal focus to measurable audience interest and creator economics.
 
+**Macro transmission** now becomes a more explicit fourth branch. The collaboration with [[InvestmentABC|投资ABC]] and [[MiaoYanliang|缪延亮]] moves from broad cycle narratives toward a method: trace budgets, expectations, firms, rates, currencies, debt, and AI through micro responses before turning them into conclusions or trades.
+
 ## Key Characteristics
 
 - **Practical agency is the strongest through-line.** The show repeatedly asks what a person can specify, practice, delegate, or refuse when outcomes remain uncertain.
@@ -52,6 +55,7 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 - **Knowledge becomes useful through practice.** Explicit models, tacit experience, bodily feedback, logs, rules, and execution systems must be integrated rather than treated as interchangeable.
 - **AI should extend judgment rather than replace intention.** Context, pacing, memory, authorship, and acceptance gates determine whether an AI workflow remains human-directed.
 - **The show connects finance with attention and life design.** Returns, tools, work, health, freedom, and public visibility are judged by whether they preserve autonomy and a life the person can inhabit.
+- **Macro narratives are tested through transmission.** Models and large themes become useful only after household, firm, market, policy, and expectation responses are made explicit.
 
 ## Evidence
 
@@ -60,19 +64,20 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 - **AI, knowledge, and agency:** [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], and [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] distinguish cheap output from accountable, human-directed judgment.
 - **Embodied and institutional evidence:** [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]], [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]], [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]], [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]], and [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] treat bodies, work, field observation, and ordinary constraint as evidence.
 - **Media, attention, macro, and narrative:** [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]], [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]], [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb]], and [[xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf]] connect platform labor, opportunity, market narrative, personal attention, and audience value.
+- **Macro transmission, debt, and AI:** [[lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt]] connects general-equilibrium reasoning, neutral rates, deposits, currencies, Treasury safety, AI capex, labor substitution, and distribution.
 
 ## Qualifications
 
-- This profile covers 22 represented episodes, not the complete 面基 archive.
+- This profile covers 23 represented episodes, not the complete 面基 archive.
 - A guest's argument, proprietary signal, reported performance, or product proposal should not automatically be treated as the show's permanent position or as independently verified evidence.
 - Investing has the deepest repeated evidence; labor, medicine, anthropology, and creator-economy branches remain less densely represented.
-- The newest episode's win rates, payoff ratios, trend labels, API capabilities, and attention-asset estimates remain practitioner claims or unfinished product hypotheses.
+- The newest macro episode's rate, exchange-rate, debt, AI-investment, employment, and inflation claims remain dated guest analysis rather than independently audited facts or personal investment advice.
 
 ## What Changed
 
-- The investing branch now includes a concrete operating model for written, programmable, and delegated trading discipline.
-- The attention branch now distinguishes finite personal capacity from audience attention that may become distribution or revenue.
-- Backtest skepticism now includes the behavioral tendency to rewrite parameters after recent losses rather than only formal statistical overfitting.
+- Added a model-plus-feedback macro method that tests aggregate stories through household, firm, market, and expectation responses.
+- Extended the AI branch from workflow and investment into capex, wealth, labor, prices, and distribution as macro variables.
+- Added a collaboration relationship with 投资ABC through 厚望, Amiee, and 缪延亮.
 
 ## Relationships
 
@@ -83,3 +88,5 @@ Its durable editorial identity is a recurring inquiry into how people preserve j
 - [[AttentionAsAsset]] - newest bridge between creator economics, market narrative, and scarce personal focus.
 - [[HumanAgencyUnderAI]] - recurring principle in the AI-workflow branch.
 - [[EmbodiedJudgment]] - links trained intuition, bodily feedback, and context-sensitive decision making.
+- [[GeneralEquilibriumPolicyTransmission]] - newest method relationship for tracing macro shocks into lived outcomes.
+- [[AIMacroCapitalLaborTransmission]] - newest bridge between AI investment, labor, prices, and distribution.

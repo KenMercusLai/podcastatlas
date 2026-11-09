@@ -4568,6 +4568,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/ailiabilityinsurance/"
     },
+    "AIMacroCapitalLaborTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/aimacrocapitallabortransmission/"
+    },
     "AIManagingAI": {
       "episode_count": 5,
       "show_count": 5,
@@ -16281,6 +16297,29 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/amychoi/"
+    },
+    "AmyInvestmentABC": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC [lpg8ZL95KBVJVXSJr8cpB8Ogkeg6].md",
+          "key": "166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6",
+          "show": "起朱楼宴宾客",
+          "title": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC",
+          "url": "/wiki/sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6/"
+        },
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/amyinvestmentabc/"
     },
     "AmyWebb": {
       "episode_count": 2,
@@ -115715,6 +115754,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/generalelectric/"
     },
+    "GeneralEquilibriumPolicyTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/generalequilibriumpolicytransmission/"
+    },
     "GeneralGrowthProperties": {
       "episode_count": 1,
       "show_count": 1,
@@ -138194,6 +138249,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/houshiwuwesternhan/"
     },
+    "HouWangMianji": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/houwangmianji/"
+    },
     "HouYinWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -138340,6 +138411,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/householdaiassistant/"
+    },
+    "HouseholdDepositStructuralSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/householddepositstructuralsignal/"
     },
     "HouseholdFinancialRedundancy": {
       "episode_count": 1,
@@ -142871,6 +142958,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/huoxulatehan/"
+    },
+    "HuobiDeZhixu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/huobidezhixu/"
     },
     "HuozhiLiezhuanWealthEthic": {
       "episode_count": 2,
@@ -151384,6 +151487,29 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/investigativenarrativeregulatorychange/"
+    },
+    "InvestmentABC": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC [lpg8ZL95KBVJVXSJr8cpB8Ogkeg6].md",
+          "key": "166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6",
+          "show": "起朱楼宴宾客",
+          "title": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC",
+          "url": "/wiki/sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6/"
+        },
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/investmentabc/"
     },
     "InvestmentAdviserFiduciaryDuty": {
       "episode_count": 2,
@@ -199530,9 +199656,9 @@
       "url": "/wiki/entities/miankoulatehan/"
     },
     "Mianji": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
@@ -199687,9 +199813,16 @@
           "show": "面基",
           "title": "写一份《纪律.md》，代替我入市投资",
           "url": "/wiki/sources/xie-yi-fen-jilv-md-daiti-wo-rushi-touzi-lnb4eenlg5uvx2btqppqa87eieuf/"
+        },
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
         }
       ],
-      "updated": "2026-10-12",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/mianji/"
     },
     "MiaoGuangLateHan": {
@@ -199792,6 +199925,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/miaoweisanlian/"
+    },
+    "MiaoYanliang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/miaoyanliang/"
     },
     "MiaphysiteChristianity": {
       "episode_count": 1,
@@ -211559,6 +211708,22 @@
       ],
       "updated": "2026-10-16",
       "url": "/wiki/concepts/neurotechnologyagencyboundary/"
+    },
+    "NeutralRateDrivers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/neutralratedrivers/"
     },
     "NeutralityToInterventionMemory": {
       "episode_count": 1,
@@ -297486,6 +297651,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/treasurybuybackpolicy/"
+    },
+    "TreasurySafeAssetFracture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq3ILHp6uzpmrWQpRBUh28j5LjDt [lq3ILHp6uzpmrWQpRBUh28j5LjDt].md",
+          "key": "lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt",
+          "show": "面基",
+          "title": "宏观经济如何传导给我们每个人？",
+          "url": "/wiki/sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/treasurysafeassetfracture/"
     },
     "TreatmentContextDoseExpectation": {
       "episode_count": 2,

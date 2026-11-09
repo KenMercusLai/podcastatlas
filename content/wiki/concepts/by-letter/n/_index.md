@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11101
+wiki_total_pages: 11106
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "NeutralInternetExchange"
     title: "Neutral Internet Exchange"
     url: "/wiki/concepts/neutralinternetexchange/"
+  - key: "NeutralRateDrivers"
+    title: "Neutral Rate Drivers / 中性利率驱动因素"
+    url: "/wiki/concepts/neutralratedrivers/"
   - key: "NeutralityToInterventionMemory"
     title: "Neutrality-to-Intervention Memory"
     url: "/wiki/concepts/neutralitytointerventionmemory/"

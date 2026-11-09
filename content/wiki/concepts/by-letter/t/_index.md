@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11101
+wiki_total_pages: 11106
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "TreasuryDurationRisk"
     title: "Treasury Duration Risk"
     url: "/wiki/concepts/treasurydurationrisk/"
+  - key: "TreasurySafeAssetFracture"
+    title: "Treasury Safe-Asset Fracture / 美债安全资产裂纹"
+    url: "/wiki/concepts/treasurysafeassetfracture/"
   - key: "TreatmentContextDoseExpectation"
     title: "Treatment Context and Dose Expectation"
     url: "/wiki/concepts/treatmentcontextdoseexpectation/"

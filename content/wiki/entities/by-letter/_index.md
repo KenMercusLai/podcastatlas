@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13971
+wiki_total_pages: 13974
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "AmiasPaulet"
     title: "Amias Paulet"
     url: "/wiki/entities/amiaspaulet/"
+  - key: "AmyInvestmentABC"
+    title: "Amiee / 投资ABC"
+    url: "/wiki/entities/amyinvestmentabc/"
   - key: "AmirRashidi"
     title: "Amir Rashidi"
     url: "/wiki/entities/amirrashidi/"
@@ -1178,9 +1181,6 @@ wiki_pages:
   - key: "AmsterdamStockExchange"
     title: "Amsterdam Stock Exchange"
     url: "/wiki/entities/amsterdamstockexchange/"
-  - key: "AmyInvestmentABC"
-    title: "Amy / 投资ABC"
-    url: "/wiki/entities/amyinvestmentabc/"
   - key: "AmyButcher"
     title: "Amy Butcher / 艾米"
     url: "/wiki/entities/amybutcher/"

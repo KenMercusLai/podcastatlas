@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [宏观经济如何传导给我们每个人？](sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt.md) — 面基与投资ABC邀请缪延亮，从一般均衡、中性利率、存款结构和美债安全性延伸到AI资本开支、劳动替代、通缩与分配。
 - [Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand](sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437.md) — How I Built This episode on Jack Halldrup building Dr. Squatch through cold-process soap, DTC demand creation, mascot-led rebranding, performance creative, retail expansion, and founder stage fit.
 - [《资治通鉴·汉纪》1145丨刘备教你如何应对鄙视自己的人？](sources/zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa.md) — 芮淇讲透资治通鉴以刘巴避刘、谏刘璋、冷待张飞而仍获刘备任用，讨论个人冒犯、士人独立与稀缺能力之间的分离判断。
 - [《资治通鉴·汉纪》1146丨刘备娶寡妇？背后的算计太深了！](sources/zizhi-tongjian-hanji-1146-liubei-qu-guafu-beihou-de-suanji-taishenle-lv4if2rvouqruziv8pt-klrcasfp.md) — 芮淇讲透资治通鉴以值百钱、刘备迎娶吴氏和礼遇许靖，讨论战后财政汲取、征服后联姻整合及声望信号与实际授权的分离。
@@ -5001,6 +5002,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
+- [缪延亮 / Miao Yanliang](entities/MiaoYanliang.md) — Economist linking general-equilibrium reasoning and policy feedback to rates, U.S. debt, asset prices, and AI as a macro variable.
+- [厚望 / Hou Wang](entities/HouWangMianji.md) — 面基 host translating macro models, investment narratives, and AI into practical judgment questions.
+- [《货币的秩序》 / The Order of Money](entities/HuobiDeZhixu.md) — 缪延亮 book represented as context for money, debt, rates, and international monetary order.
 - [Dr. Squatch](entities/DrSquatch.md) — Men's personal-care brand that moved from DTC soap and performance advertising into owned manufacturing, majority-retail distribution, and a reported Unilever acquisition.
 - [Jack Halldrup](entities/JackHalldrup.md) — Dr. Squatch founder whose account connects product reframing, paid acquisition, crisis survival, founder stage fit, and family priorities.
 - [AJ Fountain](entities/AJFountain.md) — Dr. Squatch's early seller, investor, and business partner whose desired company path diverged from Jack Halldrup's.
@@ -13554,8 +13558,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
 - [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, language, translation, embodiment, intellectual history, and Gulf political economy through bounded comparison.
-- [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
-- [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
+- [投资ABC / Investment ABC](entities/InvestmentABC.md) — Ordinary-investor education show translating institutional process and macro transmission into household decisions.
+- [Amiee / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC host connecting professional finance and macroeconomics to household constraints and lived effects.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
 - [Haier Smart Home / 海尔智家](entities/HaierSmartHome.md) — Listed appliance company used by episode 165 to frame tariff, supply-chain reconfiguration, regional protection, and geopolitical pressure.
 - [Shenzhou International / 申洲国际](entities/ShenzhouInternational.md) — Ningbo textile and apparel manufacturer whose wiki profile now covers flexible manufacturing, exporter pressure, and vertically integrated OEM capability.
@@ -17864,7 +17868,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show connecting investing, behavioral finance, embodied judgment, AI workflow, institutional life, and practical agency.
+- [面基](entities/Mianji.md) — Podcast/show connecting investing, macro transmission, behavioral finance, embodied judgment, AI workflow, institutional life, and practical agency.
 - [43talks](entities/FortyThreeTalks.md) — Offline "AI + X" discussion format used as a frame-collision practice in the 面基 reading episode.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
@@ -19061,6 +19065,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [General-Equilibrium Policy Transmission / 一般均衡式政策传导](concepts/GeneralEquilibriumPolicyTransmission.md) — Method for tracing shocks through budgets, income, expectations, firms, markets, and policy feedback rather than stopping at local effects.
+- [Neutral Rate Drivers / 中性利率驱动因素](concepts/NeutralRateDrivers.md) — Potential growth, saving preference, and investment preference as structural drivers of the neutral interest rate.
+- [Household Deposit Structural Signal / 居民存款结构信号](concepts/HouseholdDepositStructuralSignal.md) — Sector and maturity composition as more informative deposit signals than household totals alone.
+- [Treasury Safe-Asset Fracture / 美债安全资产裂纹](concepts/TreasurySafeAssetFracture.md) — Gradual weakening of long-Treasury financing, hedge, or credibility functions before outright default or disorder.
+- [AI Macro Capital-Labor Transmission / AI 的资本—劳动宏观传导](concepts/AIMacroCapitalLaborTransmission.md) — How AI capex, financing, wealth, trade, labor, prices, and distribution become aggregate macro forces.
 - [Performance Creative Scale Loop](concepts/PerformanceCreativeScaleLoop.md) — Growth loop in which profitable advertising funds more distribution until margin, retention, supply, fulfillment, or cash becomes the binding constraint.
 - [Founder Stage Fit](concepts/FounderStageFit.md) — Match between a founder's strengths, motivation, desired life, and the company's current leadership problem.
 - [Personal Friction–Talent Use Separation / 个人好恶与人才使用分离](concepts/PersonalFrictionTalentUse.md) — 将个人冒犯、既往反对、行为问责与任务所需能力分开评估的用人判断。

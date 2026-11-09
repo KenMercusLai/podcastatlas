@@ -38958,3 +38958,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-09] ingest | 宏观经济如何传导给我们每个人？
+
+Added source `lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt`; created [[MiaoYanliang|缪延亮]], [[HouWangMianji|厚望]], [[HuobiDeZhixu|《货币的秩序》]], [[GeneralEquilibriumPolicyTransmission|一般均衡式政策传导]], [[NeutralRateDrivers|中性利率驱动因素]], [[HouseholdDepositStructuralSignal|居民存款结构信号]], [[TreasurySafeAssetFracture|美债安全资产裂纹]], and [[AIMacroCapitalLaborTransmission|AI 的资本—劳动宏观传导]]; and resynthesized [[Mianji|面基]], [[InvestmentABC|投资ABC]], and [[AmyInvestmentABC|Amiee]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: macro analysis should trace household, firm, market, and expectation responses rather than stop at a local price or policy effect; neutral rates reflect growth, saving, and investment preferences; Treasury safety can weaken through term premium and hedge behavior before default; and AI becomes macro through capital spending, financing, wealth, labor, prices, and distribution. No settled contradiction was adopted. Market figures, debt totals, investment shares, forecasts, policy scenarios, and labor effects remain source- and date-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,883 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

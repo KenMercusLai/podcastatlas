@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 13971
+wiki_total_pages: 13974
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "HuajuGuanzhongXuzhiErshize"
     title: "《话剧观众须知二十则》"
     url: "/wiki/entities/huajuguanzhongxuzhiershize/"
+  - key: "HuobiDeZhixu"
+    title: "《货币的秩序》 / The Order of Money"
+    url: "/wiki/entities/huobidezhixu/"
   - key: "HaikeyiDeJinNvshi"
     title: "《还可以的金女士》"
     url: "/wiki/entities/haikeyidejinnvshi/"
@@ -1421,6 +1424,9 @@ wiki_pages:
   - key: "HuaLongWesternHan"
     title: "华龙 / Hua Long (Western Han)"
     url: "/wiki/entities/hualongwesternhan/"
+  - key: "HouWangMianji"
+    title: "厚望 / Hou Wang"
+    url: "/wiki/entities/houwangmianji/"
   - key: "HefeiLateHan"
     title: "合肥 / Hefei (late Han)"
     url: "/wiki/entities/hefeilatehan/"

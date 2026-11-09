@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3469
+topic_total_pages: 3470
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1903,6 +1903,9 @@ topic_concepts:
   - key: "GeneralAverage"
     title: "General Average"
     url: "/wiki/concepts/generalaverage/"
+  - key: "GeneralEquilibriumPolicyTransmission"
+    title: "General-Equilibrium Policy Transmission / 一般均衡式政策传导"
+    url: "/wiki/concepts/generalequilibriumpolicytransmission/"
   - key: "GenerationalSocialismAppeal"
     title: "Generational Socialism Appeal"
     url: "/wiki/concepts/generationalsocialismappeal/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11101
+wiki_total_pages: 11106
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "HouseholdBalanceSheetRepair"
     title: "Household Balance-Sheet Repair"
     url: "/wiki/concepts/householdbalancesheetrepair/"
+  - key: "HouseholdDepositStructuralSignal"
+    title: "Household Deposit Structural Signal / 居民存款结构信号"
+    url: "/wiki/concepts/householddepositstructuralsignal/"
   - key: "HouseholdFinancialRedundancy"
     title: "Household Financial Redundancy / 家庭财务冗余"
     url: "/wiki/concepts/householdfinancialredundancy/"
