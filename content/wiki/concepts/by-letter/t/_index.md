@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11091
+wiki_total_pages: 11094
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "TalentVirtueDistinction"
     title: "Talent-Virtue Distinction / 才德之分"
     url: "/wiki/concepts/talentvirtuedistinction/"
+  - key: "TalentRoleFit"
+    title: "Talent–Role Fit / 人才—岗位适配"
+    url: "/wiki/concepts/talentrolefit/"
   - key: "TalibanHardlineRule"
     title: "Taliban Hardline Rule"
     url: "/wiki/concepts/talibanhardlinerule/"

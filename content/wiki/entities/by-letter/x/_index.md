@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13958
+wiki_total_pages: 13962
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "XingshengYouxuan"
     title: "兴盛优选 / Xingsheng Youxuan"
     url: "/wiki/entities/xingshengyouxuan/"
+  - key: "XingYongLateHan"
+    title: "刑颙 / Xing Yong (late Han)"
+    url: "/wiki/entities/xingyonglatehan/"
   - key: "Xiongnu"
     title: "匈奴 / Xiongnu"
     url: "/wiki/entities/xiongnu/"

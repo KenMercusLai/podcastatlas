@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11091
+wiki_total_pages: 11094
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2585,6 +2585,9 @@ wiki_pages:
   - key: "ControllableLifeAnchors"
     title: "Controllable Life Anchors"
     url: "/wiki/concepts/controllablelifeanchors/"
+  - key: "ControlledCapabilityVisibility"
+    title: "Controlled Capability Visibility / 能力可见度控制"
+    url: "/wiki/concepts/controlledcapabilityvisibility/"
   - key: "ControlledHumorWithPain"
     title: "Controlled Humor With Pain"
     url: "/wiki/concepts/controlledhumorwithpain/"

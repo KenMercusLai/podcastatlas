@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11091
+wiki_total_pages: 11094
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1346,6 +1346,9 @@ wiki_pages:
   - key: "PoliticalScandalVoterAlignment"
     title: "Political Scandal and Voter Alignment"
     url: "/wiki/concepts/politicalscandalvoteralignment/"
+  - key: "PoliticalSelfControlTrust"
+    title: "Political Self-Control and Delegation Trust / 政治托付中的自制力"
+    url: "/wiki/concepts/politicalselfcontroltrust/"
   - key: "PoliticalSemanticChange"
     title: "Political Semantic Change / 政治性语义变迁"
     url: "/wiki/concepts/politicalsemanticchange/"

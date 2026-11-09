@@ -17535,6 +17535,10 @@
     "title": "曹整 / Cao Zheng (late Han)",
     "url": "/wiki/entities/caozhenglatehan/"
   },
+  "CaoZhi": {
+    "title": "曹植 / Cao Zhi",
+    "url": "/wiki/entities/caozhi/"
+  },
   "CaoZongLateHan": {
     "title": "曹宗 / Cao Zong (late Han)",
     "url": "/wiki/entities/caozonglatehan/"
@@ -23674,6 +23678,10 @@
   "ControllableLifeAnchors": {
     "title": "Controllable Life Anchors",
     "url": "/wiki/concepts/controllablelifeanchors/"
+  },
+  "ControlledCapabilityVisibility": {
+    "title": "Controlled Capability Visibility / 能力可见度控制",
+    "url": "/wiki/concepts/controlledcapabilityvisibility/"
   },
   "ControlledHumorWithPain": {
     "title": "Controlled Humor With Pain",
@@ -49955,6 +49963,10 @@
     "title": "姜涛 / Jiang Tao (Psychiatrist)",
     "url": "/wiki/entities/jiangtaopsychiatrist/"
   },
+  "JiangWan": {
+    "title": "蒋琬 / Jiang Wan",
+    "url": "/wiki/entities/jiangwan/"
+  },
   "JiangXiangHeInternalUnity": {
     "title": "Jiang-Xiang Harmony / 将相和式内部团结",
     "url": "/wiki/concepts/jiangxiangheinternalunity/"
@@ -57014,6 +57026,10 @@
   "LiuZhanhong": {
     "title": "柳展鸿 Andy",
     "url": "/wiki/entities/liuzhanhong/"
+  },
+  "LiuZhenLateHan": {
+    "title": "刘桢 / Liu Zhen (late Han)",
+    "url": "/wiki/entities/liuzhenlatehan/"
   },
   "LiuZhengHejianKing": {
     "title": "刘政 / Liu Zheng (Hejian King)",
@@ -72438,6 +72454,10 @@
   "PoliticalScandalVoterAlignment": {
     "title": "Political Scandal and Voter Alignment",
     "url": "/wiki/concepts/politicalscandalvoteralignment/"
+  },
+  "PoliticalSelfControlTrust": {
+    "title": "Political Self-Control and Delegation Trust / 政治托付中的自制力",
+    "url": "/wiki/concepts/politicalselfcontroltrust/"
   },
   "PoliticalSemanticChange": {
     "title": "Political Semantic Change / 政治性语义变迁",
@@ -88923,6 +88943,10 @@
     "title": "Talent Referral Quality / 荐才层级质量",
     "url": "/wiki/concepts/talentreferralquality/"
   },
+  "TalentRoleFit": {
+    "title": "Talent–Role Fit / 人才—岗位适配",
+    "url": "/wiki/concepts/talentrolefit/"
+  },
   "TalentSummonsRulerSelfExamination": {
     "title": "求贤中的君主自省 / Talent Summons Ruler Self-Examination",
     "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
@@ -99738,6 +99762,10 @@
   "XingShanTheory": {
     "title": "Xingshan Theory / 性善论",
     "url": "/wiki/concepts/xingshantheory/"
+  },
+  "XingYongLateHan": {
+    "title": "刑颙 / Xing Yong (late Han)",
+    "url": "/wiki/entities/xingyonglatehan/"
   },
   "Xingbugudi": {
     "title": "Xingbugudi",
@@ -114414,6 +114442,10 @@
   "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox": {
     "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
+  },
+  "zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um": {
+    "title": "《资治通鉴·汉纪》1149丨揭秘三国顶级谋士荀攸的官场生存术",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um/"
   },
   "zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu": {
     "title": "《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？",

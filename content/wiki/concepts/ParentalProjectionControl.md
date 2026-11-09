@@ -6,7 +6,8 @@ sources:
   - vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz
   - 086-jiangyue-zhi-baigui-yexing-pian-pingge-pingma-shi-nide-tongnian-yinying-ma-lni2sog_1wvkjcmcfqbj8xumible
   - ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk
-last_updated: 2026-10-10
+  - zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um
+last_updated: 2026-11-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,13 +27,15 @@ Across both cases, the critical point is not that parental care is false. Love b
 
 Achievement and finance can also become surfaces of projection control. In [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]], [[ZhangJiaqiDiver|张家齐]] resists having her sporting career narrated as a parental design, distinguishes medals-based gifts from interest in her personhood, and describes parental access to her money alongside resistance to her learning financial management. The source does not establish misuse of funds, but it shows why adult agency includes control over the story of one's success as well as over relationships, education, and resources.
 
+Hanji 1149 adds a sacrifice-and-unrealized-ambition mechanism. When parents abandon their own work or identity and place all meaning in a child's success, the child may experience failure, autonomy, or even happiness as betrayal. The episode's “false self” and depression language remains anecdotal rather than diagnostic, but it sharpens the distinction between supporting a child and making the child responsible for validating the parent's life.
+
 ## Key Claims
 - "For your good" language can hide objectification when the child is treated as property, tool, or extension of the parent.
 - Projection becomes more intense when the child's actual desire, ability, or teacher relationship threatens a parental education plan.
 - Teachers can become targets when they are seen as blocking the parent's preferred child trajectory.
 - The pattern can coexist with real love; the problem is love organized around control rather than the child's independent subjectivity.
 - Chronic compliance can conceal rather than resolve the conflict by preventing the child from practicing independent preference, refusal, and responsibility.
-- The source links this family pattern to broader [[StructuralPowerImbalance|structural power imbalance]] because schools and teachers may be pressured by parent demands they cannot symmetrically answer.
+- Self-sacrifice can intensify projection when a child's success becomes the parent's sole source of meaning and repayment.
 - Naming the parent's controlling role may begin repair, but acknowledgment does not cancel consequences or require the adult child to restore closeness.
 
 ## Evidence
@@ -53,8 +56,12 @@ Achievement and finance can also become surfaces of projection control. In [[ep3
 
 - [[ep389-wo-jia-na-guinu-zhang-jiaqi-dai-luwa-dongya-qinzi-guanxi-weihe-zong-chongman-shangtong-he-yihan-gkwridoopvw0aeyu2wtodgpk]] reports Zhang Jiaqi correcting her mother's claim to have chosen her diving path, rejecting achievement-conditioned recognition, and describing parental bank access and resistance to independent financial management.
 
+### Sacrifice and unrealized ambition
+
+- [[zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um|Hanji 1149]] describes parents transferring unrealized goals to a child and an anecdotal student who experiences success pressure and happiness as debts owed for maternal sacrifice.
+
 ## Counterevidence & Qualifications
-The sources do not provide a general parenting study or a diagnostic category. They identify a controlling pattern through drama scenes, psychiatric interpretation, education examples, a supernatural television tragedy, and commentary on selected reality-TV material. Concerned parental planning, teacher complaint, family attachment, financial help, or academic ambition should not automatically be treated as abusive without examining behavior, power, evidence, and the child's independent interests. EP389 does not establish that Zhang Jiaqi's funds were depleted or misused. The 《我和僵尸有个约会》 ending is useful as narrative interpretation, not proof that apology alone repairs severe or prolonged harm.
+The sources do not provide a general parenting study or a diagnostic category. They identify a controlling pattern through drama scenes, psychiatric interpretation, education examples, a supernatural television tragedy, selected reality-TV material, and a brief podcast anecdote. Concerned parental planning, teacher complaint, family attachment, financial help, or academic ambition should not automatically be treated as abusive without examining behavior, power, evidence, and the child's independent interests. EP389 does not establish that Zhang Jiaqi's funds were depleted or misused. Hanji 1149 does not establish that sacrifice alone caused depression or that “false self” is a diagnosis in the reported case. The 《我和僵尸有个约会》 ending is useful as narrative interpretation, not proof that apology alone repairs severe or prolonged harm.
 
 ## What Changed
 
@@ -62,6 +69,7 @@ The sources do not provide a general parenting study or a diagnostic category. T
 - Added chronic compliance as a concealed failure state rather than evidence of family harmony.
 - Added acknowledgment as a possible interruption that remains bounded by consequence and victimhood.
 - Added ownership of achievement narratives and financial self-direction as adult-autonomy boundaries.
+- Added parental self-sacrifice and unrealized ambition as mechanisms that can turn a child's life into a repayment project.
 
 ## Related Concepts
 - [[ParentalExpectationShame]] - adjacent pattern where parental expectation turns into shame and hiding.

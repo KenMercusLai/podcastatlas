@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
   - zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju
   - zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um
+last_updated: 2026-11-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,13 +32,15 @@ Hanji 1049 extends Xun You from timing advice into surrender interpretation. Aft
 
 Hanji 1059 adds a post-Yuan-Shao target-order case. When [[XinPiLateHan|辛毗]] brings [[YuanTan|袁谭]]'s request for aid and many Cao-side officials prefer attacking [[LiuBiao|刘表]] while the Yuan brothers exhaust each other, Xun You argues that Liu Biao is defensive, while the Yuan family still has enough four-province depth to become dangerous again if one brother absorbs the other. He therefore turns [[YuanShang|袁尚]] and Yuan Tan's rivalry into an immediate northern opportunity rather than a conflict to watch indefinitely.
 
+Hanji 1149 returns from campaign judgment to the political conditions under which that judgment remains usable. It presents Xun You as refusing to publicize plans or credit, stopping a relative's inquiry into a secret proposal, and making loyalty and results more visible than personal brilliance. This extends low-profile survival into [[ControlledCapabilityVisibility|能力可见度控制]]: competence remains legible to Cao Cao while information and prestige do not become a competing political center.
+
 ## Key Characteristics
 - Keeps intelligence controlled and less publicly exposed than more dramatic advisers.
 - Enters Cao Cao's adviser field through Xun Yu's recommendation after the Xudu court position becomes legible.
 - Reads timing as conditional: delay against Zhang Xiu when enemy alliance incentives favor waiting, but press Lü Bu when enemy morale and planning are fragile.
 - Recognizes exploitable timing and target vulnerabilities, from Yanjin bait and Han Meng's careless convoy command to the Yuan brothers' post-succession split.
 - Screens enemy surrender by reading whether the defection has a credible internal-camp cause.
-- Protects advice through secrecy, discipline, and low-profile conduct rather than status display.
+- Protects advice and controls the visibility of plans and credit so usefulness does not become avoidable political threat.
 - Complements Guo Jia by supplying caution and tempo discipline alongside bolder strategic judgment.
 
 ## Evidence
@@ -49,16 +52,15 @@ Hanji 1059 adds a post-Yuan-Shao target-order case. When [[XinPiLateHan|辛毗]]
 - Supply-target selection: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] has Xun You judge Han Meng brave but careless and recommend attacking Yuan Shao's convoy, after which Cao sends Xu Huang and Shi Huan to burn the baggage.
 - Surrender screening: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] has Xun You tell Cao Hong that Zhang He's surrender is credible because Yuan Shao rejected his Wuchao advice and Guo Tu's slander left him exposed.
 - Target-order advice: [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] has Xun You argue that Cao Cao should exploit Yuan Tan's request before Yuan-family infighting resolves into a reunited northern force.
+- Secret-keeping and credit restraint: [[zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um|Hanji 1149]] reports Xun You's private plans, refusal to advertise credit, and shutdown of a relative's attempt to discuss one proposal.
 
 ## Qualifications
-The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 / Xun You because the surrounding adviser and campaign sequences match him. Hanji 1022 records advice that Cao Cao rejects, so it shows Xun You's judgment entering the camp's debate rather than controlling the final decision.
+The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 / Xun You because the surrounding adviser and campaign sequences match him. Hanji 1022 records advice that Cao Cao rejects, so it shows Xun You's judgment entering the camp's debate rather than controlling the final decision. Hanji 1149's “twelve plans,” exact secrecy anecdotes, Cao Cao's reported grief, and idealism-versus-realism contrast with Xun Yu remain source-scoped until checked against the underlying texts; low visibility is treated as one survival mechanism, not a complete causal explanation.
 
 ## What Changed
-- Added Hanji 1048's convoy-strike case, where Xun You identifies Han Meng as a careless logistics target before Wuchao.
-- Added Hanji 1049's surrender-screening case after the Wuchao Raid.
-- Extended Xun You from timing and bait recognition into interpreting whether enemy commanders can be safely received.
-- Connected Xun You to Zhang He and Gao Lan's Guandu defection.
-- Added Hanji 1059's advice to prioritize the Yuan-family opening over a Liu Biao campaign.
+- Added Hanji 1149's secrecy and credit-restraint portrait.
+- Extended low-profile survival into deliberate control over information, prestige, and perceived threat.
+- Qualified the Xun Yu contrast as an episode-level interpretation rather than a complete account of either adviser.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler whose adviser system includes Xun You.
@@ -84,3 +86,4 @@ The transcript forms "徐悠" and "巡邮" are normalized cautiously to 荀攸 /
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame for Xun You's low-profile public posture.
 - [[WarCostTempoDiscipline|战争成本与速决纪律]] - campaign-tempo concept exemplified by the Xiapi advice.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - broader strategic-assessment frame shared with the Guo Jia branch.
+- [[ControlledCapabilityVisibility|能力可见度控制]] - management of plans, credit, and prestige so competence remains useful without becoming a rival center.

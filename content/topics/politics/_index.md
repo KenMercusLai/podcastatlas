@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3465
+topic_total_pages: 3467
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -994,6 +994,9 @@ topic_concepts:
   - key: "ControlPreservingIncentives"
     title: "Control-Preserving Incentives"
     url: "/wiki/concepts/controlpreservingincentives/"
+  - key: "ControlledCapabilityVisibility"
+    title: "Controlled Capability Visibility / 能力可见度控制"
+    url: "/wiki/concepts/controlledcapabilityvisibility/"
   - key: "ControlledSubstancesAct"
     title: "Controlled Substances Act"
     url: "/wiki/concepts/controlledsubstancesact/"
@@ -3337,6 +3340,9 @@ topic_concepts:
   - key: "PoliticalScandalVoterAlignment"
     title: "Political Scandal and Voter Alignment"
     url: "/wiki/concepts/politicalscandalvoteralignment/"
+  - key: "PoliticalSelfControlTrust"
+    title: "Political Self-Control and Delegation Trust / 政治托付中的自制力"
+    url: "/wiki/concepts/politicalselfcontroltrust/"
   - key: "PoliticalSemanticChange"
     title: "Political Semantic Change / 政治性语义变迁"
     url: "/wiki/concepts/politicalsemanticchange/"
