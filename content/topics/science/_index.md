@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1632
+topic_total_pages: 1633
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -973,6 +973,9 @@ topic_concepts:
   - key: "FounderIdentityDiversification"
     title: "Founder Identity Diversification"
     url: "/wiki/concepts/founderidentitydiversification/"
+  - key: "FounderStageFit"
+    title: "Founder Stage Fit"
+    url: "/wiki/concepts/founderstagefit/"
   - key: "FourierSpatialEncoding"
     title: "Fourier Spatial Encoding"
     url: "/wiki/concepts/fourierspatialencoding/"

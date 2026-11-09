@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11099
+wiki_total_pages: 11101
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "FounderSignalDiscipline"
     title: "Founder Signal Discipline"
     url: "/wiki/concepts/foundersignaldiscipline/"
+  - key: "FounderStageFit"
+    title: "Founder Stage Fit"
+    url: "/wiki/concepts/founderstagefit/"
   - key: "FounderSuccession"
     title: "Founder Succession"
     url: "/wiki/concepts/foundersuccession/"

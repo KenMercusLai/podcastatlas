@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11099
+wiki_total_pages: 11101
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "PerformanceAuthenticityTradeoff"
     title: "Performance Authenticity Tradeoff / 表演真实性权衡"
     url: "/wiki/concepts/performanceauthenticitytradeoff/"
+  - key: "PerformanceCreativeScaleLoop"
+    title: "Performance Creative Scale Loop"
+    url: "/wiki/concepts/performancecreativescaleloop/"
   - key: "PerformanceFootwearMarket"
     title: "Performance Footwear Market"
     url: "/wiki/concepts/performancefootwearmarket/"

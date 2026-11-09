@@ -6546,6 +6546,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/aiworkflowupstreampositioning/"
     },
+    "AJFountain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/ajfountain/"
+    },
     "AJourneyToTheWesternIslands": {
       "episode_count": 1,
       "show_count": 1,
@@ -80783,6 +80799,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/downtonabbey/"
     },
+    "DrSquatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/drsquatch/"
+    },
     "DragonAsDangerousPower": {
       "episode_count": 1,
       "show_count": 1,
@@ -108323,6 +108355,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/founderschool/"
+    },
+    "FounderStageFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/founderstagefit/"
     },
     "FounderTyrantPoliticalMemory": {
       "episode_count": 1,
@@ -153773,6 +153821,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/jackfeldman/"
     },
+    "JackHalldrup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/jackhalldrup/"
+    },
     "JackManning": {
       "episode_count": 1,
       "show_count": 1,
@@ -194214,6 +194278,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/masada/"
     },
+    "MascotLedBrandRecognition": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Sun Bum： Tom Rinks. The Secrets of a Master Brand Builder (2023) [77ab41eb-99a8-4dd2-ae39-d066818afc21].md",
+          "key": "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
+          "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+        },
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/mascotledbrandrecognition/"
+    },
     "Maserati": {
       "episode_count": 2,
       "show_count": 2,
@@ -226889,6 +226976,22 @@
       "updated": "2026-10-16",
       "url": "/wiki/concepts/performancebasedcoercivebargaining/"
     },
+    "PerformanceCreativeScaleLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/performancecreativescaleloop/"
+    },
     "PerformanceFootwearMarket": {
       "episode_count": 7,
       "show_count": 5,
@@ -250680,9 +250783,9 @@
       "url": "/wiki/entities/resurrectionbiganfilm/"
     },
     "RetailChannelComplementarity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Advice Line with Tara Bosch of SmartSweets [8aab80a1-b0c5-4103-b875-f5d4823d07ce].md",
@@ -250690,9 +250793,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Tara Bosch of SmartSweets",
           "url": "/wiki/sources/advice-line-with-tara-bosch-of-smartsweets-8aab80a1-b0c5-4103-b875-f5d4823d07ce/"
+        },
+        {
+          "episode_file": "VMP1750831437 [VMP1750831437].md",
+          "key": "dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437",
+          "show": "How I Built This with Guy Raz",
+          "title": "Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+          "url": "/wiki/sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/retailchannelcomplementarity/"
     },
     "RetailDisplayAsBrandSurface": {

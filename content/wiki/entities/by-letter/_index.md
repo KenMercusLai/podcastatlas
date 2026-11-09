@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13968
+wiki_total_pages: 13971
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "AITO"
     title: "AITO / 问界"
     url: "/wiki/entities/aito/"
+  - key: "AJFountain"
+    title: "AJ Fountain"
+    url: "/wiki/entities/ajfountain/"
   - key: "AkbarKhan"
     title: "Akbar Khan"
     url: "/wiki/entities/akbarkhan/"

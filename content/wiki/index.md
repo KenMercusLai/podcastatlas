@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand](sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437.md) — How I Built This episode on Jack Halldrup building Dr. Squatch through cold-process soap, DTC demand creation, mascot-led rebranding, performance creative, retail expansion, and founder stage fit.
 - [《资治通鉴·汉纪》1145丨刘备教你如何应对鄙视自己的人？](sources/zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa.md) — 芮淇讲透资治通鉴以刘巴避刘、谏刘璋、冷待张飞而仍获刘备任用，讨论个人冒犯、士人独立与稀缺能力之间的分离判断。
 - [《资治通鉴·汉纪》1146丨刘备娶寡妇？背后的算计太深了！](sources/zizhi-tongjian-hanji-1146-liubei-qu-guafu-beihou-de-suanji-taishenle-lv4if2rvouqruziv8pt-klrcasfp.md) — 芮淇讲透资治通鉴以值百钱、刘备迎娶吴氏和礼遇许靖，讨论战后财政汲取、征服后联姻整合及声望信号与实际授权的分离。
 - [《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传](sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz.md) — 芮淇讲透资治通鉴以赵云的成都谏言、长坂救主、拒绝联姻与汉水用兵连接忠诚、民产恢复、风险判断和战术勇气，并以霍峻守葭萌补充受托守土的忠勇形态。
@@ -5000,6 +5001,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
+- [Dr. Squatch](entities/DrSquatch.md) — Men's personal-care brand that moved from DTC soap and performance advertising into owned manufacturing, majority-retail distribution, and a reported Unilever acquisition.
+- [Jack Halldrup](entities/JackHalldrup.md) — Dr. Squatch founder whose account connects product reframing, paid acquisition, crisis survival, founder stage fit, and family priorities.
+- [AJ Fountain](entities/AJFountain.md) — Dr. Squatch's early seller, investor, and business partner whose desired company path diverged from Jack Halldrup's.
 - [刘巴 / Liu Ba](entities/LiuBa.md) — 曾避刘备、谏刘璋并冷待张飞，后以财政能力成为刘备集团可用谋臣的东汉末士人。
 - [吴懿 / Wu Yi (late Han)](entities/WuYiLateHan.md) — 通过其妹吴氏的婚姻连接刘备与益州旧有政治网络的地方人物。
 - [吴氏（刘备妻） / Lady Wu (wife of Liu Bei)](entities/LadyWuLiuBei.md) — 吴懿之妹、刘瑁遗孀，后与刘备成婚并成为皇后和皇太后。
@@ -19057,6 +19061,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [Performance Creative Scale Loop](concepts/PerformanceCreativeScaleLoop.md) — Growth loop in which profitable advertising funds more distribution until margin, retention, supply, fulfillment, or cash becomes the binding constraint.
+- [Founder Stage Fit](concepts/FounderStageFit.md) — Match between a founder's strengths, motivation, desired life, and the company's current leadership problem.
 - [Personal Friction–Talent Use Separation / 个人好恶与人才使用分离](concepts/PersonalFrictionTalentUse.md) — 将个人冒犯、既往反对、行为问责与任务所需能力分开评估的用人判断。
 - [Post-Conquest Monetary Extraction / 战后货币财政汲取](concepts/PostConquestMonetaryExtraction.md) — 以高面值货币、关键物资交易规则和官方采购快速重建国家购买力并向民间转移部分成本。
 - [Conquest Elite Marriage Integration / 征服后联姻整合](concepts/ConquestEliteMarriageIntegration.md) — 新统治者通过婚姻建立与被征服地区既有精英网络的姻亲桥梁。
