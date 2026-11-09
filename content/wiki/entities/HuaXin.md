@@ -1,49 +1,63 @@
 ---
 title: "华歆 / Hua Xin"
 type: entity
-tags: [person, late-han, administrator, yuzhang]
+tags: [person, late-han, administrator, yuzhang, court]
 sources:
   - zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x
   - zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto
   - zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r
   - zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k
   - zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd
-last_updated: 2026-08-26
+  - zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu
+last_updated: 2026-11-09
 knowledge_schema: synthesis-v1
 ---
 
-# 华歆 / Hua Xin
-
 ## Overview
-华歆 / Hua Xin is a late-Han official whose wiki profile runs from refusing unsafe coup politics to administering a fragmented [[YuzhangCommandery|豫章郡]] and then surrendering that commandery to [[SunCe|孙策]] under pressure.
+
+华歆 / Hua Xin is a late-Han official whose profile moves from cautious coup-risk judgment and constrained Yuzhang administration to surrender under Sun Ce and later enforcement inside Cao-controlled court politics.
 
 ## Current Profile
-The current synthesis portrays Hua Xin as cautious, role-bound, and morally reputable but not militarily dominant. His surrender is contested: [[SunShengEasternJin|孙胜]] condemns it as failed ministerial integrity, while Hanji 1039 frames it as a possible choice to protect civilians from a city-breaking war Hua Xin had little chance to win.
+
+The current evidence resists a single moral label. Hua Xin refuses unsafe imperial-deposition plotting, avoids taking command of Liu Yao's remnant soldiers, and governs Yuzhang with reputation but incomplete territorial control. His surrender to [[SunCe|孙策]] is contested between orthodox disloyalty and a possible civilian-protection tradeoff.
+
+Hanji 1150 adds a harder court-enforcement role: Hua Xin participates when [[FuShouEmpress|伏皇后]] is seized and removed. This does not retroactively settle his Yuzhang motives, but it broadens the profile from cautious administrator and surrenderer to an official willing to execute coercive dynastic consolidation.
 
 ## Key Characteristics
-- Reads high-risk political action conservatively, especially imperial-deposition plotting.
-- Keeps a formal Han-official boundary rather than taking over Liu Yao's remnant troops.
-- Holds moral reputation in Yuzhang but lacks full territorial control over local forces.
-- Accepts surrender after Yu Fan exposes Yuzhang's weakness and Sun Ce's military leverage.
-- Carries a contested moral profile in which orthodox loyalty and civilian-protection reasoning point in different directions.
+
+- Reads high-risk imperial-replacement politics conservatively.
+- Keeps a formal office boundary around Liu Yao's remnant forces.
+- Holds moral reputation without full military control in Yuzhang.
+- Accepts force-backed surrender to Sun Ce under contested ethical interpretation.
+- Later participates in the coercive removal of Empress Fu Shou.
 
 ## Evidence
-- Coup-risk judgment: [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] has Hua Xin dissuade Taoqiu Hong from joining Wang Fen's imperial-deposition plan.
-- Formal office boundary: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] says Hua Xin refuses to lead Liu Yao's remaining soldiers after Liu Yao dies.
-- Yuzhang appointment and weak control: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] places Hua Xin after the Ze Rong turmoil, while [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] reports his virtue but limited control over Tong Zhi and Panyang forces.
-- Surrender mechanism: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] has Yu Fan press Hua Xin with Yuzhang's material weakness, Sun Ce's victories, and a noon deadline.
-- Moral contest: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] preserves Sun Sheng's condemnation while offering the host's civilian-protection reading.
+
+Coup-risk judgment and role restraint:
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] has Hua Xin discourage participation in Wang Fen's imperial-deposition plan.
+- [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] says he refuses to lead Liu Yao's remaining soldiers.
+
+Yuzhang authority and surrender:
+- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] supplies his Yuzhang appointment, while [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] reports virtue but weak local control.
+- [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] records Yu Fan's force-backed persuasion, Hua Xin's surrender, Sun Sheng's condemnation, and the host's civilian-protection counter-reading.
+
+Court enforcement:
+- [[zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu|Hanji 1150]] says Hua Xin helps enter the palace, find Fu Shou, and enforce her removal.
 
 ## Qualifications
-The source record does not prove Hua Xin's inner motive for surrender. The civilian-protection reading is source-scoped, and Sun Sheng's criticism remains a genuine counter-evaluation rather than a discarded error.
+
+The sources do not disclose Hua Xin's private motive either for surrender or for enforcing Fu Shou's removal. The civilian-protection reading and orthodox condemnation remain competing evaluations. Hanji 1150's physical search scene and dialogue are dramatic source material requiring verification against underlying texts.
 
 ## What Changed
-- Added Hanji 1039 as Hua Xin's surrender moment and the main moral dispute around that decision.
-- Migrated the page from chronological source notes to the synthesis-v1 entity structure.
+
+- Added Hua Xin's role in Fu Shou's removal.
+- Reframed the profile to preserve tension between caution, accommodation, civilian-protection interpretation, and coercive enforcement.
 
 ## Relationships
-- [[YuFan|虞翻]] - persuader whose force-backed argument produces Hua Xin's surrender.
-- [[SunCe|孙策]] - conquering power who accepts Hua Xin and treats him as an elder guest.
-- [[YuzhangCommandery|豫章郡]] - commandery where Hua Xin's authority is tested and transferred.
-- [[SunShengEasternJin|孙胜]] - later critic of Hua Xin's surrender.
-- [[SurrenderAsCivilianProtectionTradeoff|献城保民权衡]] - ethical frame used to evaluate whether surrender can protect people.
+
+- [[YuFan|虞翻]] - persuader who produces Hua Xin's Yuzhang surrender.
+- [[SunCe|孙策]] - conquering ruler who accepts Hua Xin without public humiliation.
+- [[FuShouEmpress|伏皇后]] - empress whose removal Hua Xin helps enforce.
+- [[CaoCao|曹操]] - controlling power served by the later court action.
+- [[SurrenderAsCivilianProtectionTradeoff|献城保民权衡]] - contested ethical frame for the Yuzhang decision.
+- [[CapturedSovereignResidualThreat|受制君主的残余威胁]] - security frame for the later suppression of the emperor's household.

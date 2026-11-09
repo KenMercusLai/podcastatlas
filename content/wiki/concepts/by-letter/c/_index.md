@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11090
+wiki_total_pages: 11091
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3578,6 +3578,9 @@ wiki_pages:
   - key: "CountyIndustryCrisisUpgrade"
     title: "县域产业危机升级 / County-Industry Crisis Upgrade"
     url: "/wiki/concepts/countyindustrycrisisupgrade/"
+  - key: "CapturedSovereignResidualThreat"
+    title: "受制君主的残余威胁 / Captured Sovereign Residual Threat"
+    url: "/wiki/concepts/capturedsovereignresidualthreat/"
   - key: "CoerciveCoalitionExitDesign"
     title: "受胁群体退出设计 / Coercive Coalition Exit Design"
     url: "/wiki/concepts/coercivecoalitionexitdesign/"

@@ -2,34 +2,65 @@
 title: "董承 / Dong Cheng (late Han)"
 type: entity
 tags: [person, late-han, court, military]
-sources: [zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
-last_updated: 2026-08-24
+sources:
+  - zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6
+  - zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f
+  - zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p
+  - zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu
+  - zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68
+  - zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1
+  - zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94
+  - zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu
+last_updated: 2026-11-09
+knowledge_schema: synthesis-v1
 ---
 
-# 董承 / Dong Cheng (late Han)
+## Overview
 
-[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] adds Dong Cheng before the river-flight crisis. He receives title recognition, is alerted to [[GuoSiLateHan|郭汜]]'s westward coercion plan, helps move [[EmperorXianOfHan|汉献帝]] toward [[YangFengLateHan|杨奉]]'s camp after the Xinfeng fire, and then participates in the politically charged suspicion around [[DuanWeiLateHan|段煨]] at [[HuayinLateHan|华阴]].
+董承 / Dong Cheng is a late-Han escort, court actor, and later anti-Cao conspirator whose career moves from protecting and maneuvering around [[EmperorXianOfHan|汉献帝]] during flight to a failed plot that brings death to himself, allies, and his daughter [[DongGuirenLateHan|董贵人]].
 
-[[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] backfills Dong Cheng's pre-escort alignment before the Hanji 991 river-flight crisis. He joins [[YangDingLateHan|杨定]] and [[YangFengLateHan|杨奉]] in trying to obtain an imperial order against [[DuanWeiLateHan|段煨]], then participates in the failed attack after [[EmperorXianOfHan|汉献帝]] refuses to treat Duan Wei as a rebel.
+## Current Profile
 
-[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] supplies Dong Cheng's emergency escort role before the Luoyang-return branch. After [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ZhangJiLateHan|张济]] press [[EmperorXianOfHan|汉献帝]] around Hongnong, Dong Cheng works with [[YangFengLateHan|杨奉]] to summon [[BaiboArmy|白波军]] and [[SouthernXiongnu|南匈奴]] reinforcements, then helps shield the night river crossing with quilts after Li Jue's scouts notice the escape.
+Dong Cheng is neither a simple loyal rescuer nor a simple opportunist. In 195-196 CE he accepts court title, joins the unauthorized attack on Duan Wei, summons emergency reinforcements, shields the imperial river crossing, helps restore Luoyang, and first obstructs but later invites [[CaoCao|曹操]] into the court field. Those choices show [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] inside a fragmented coalition whose members protect the emperor while competing over access and route.
 
-[[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] supplies Dong Cheng's pre-Luoyang-return role. After [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] fight over [[EmperorXianOfHan|汉献帝]], Dong Cheng joins the escort field with [[YangFengLateHan|杨奉]] and [[HanXianLateHan|韩暹]], then becomes dissatisfied with the armed actors dominating the court. He secretly contacts [[ZhangYangLateHan|张杨]] to repair [[LuoyangLateHan|洛阳]] and move the emperor toward the old capital.
+Hanji 1150 supplies the endpoint: Dong Cheng receives or acts through the clothes-belt edict, recruits opposition including Liu Bei, and is killed after discovery. The purge of his pregnant daughter demonstrates that failure reaches beyond the conspirator into the imperial household.
 
-[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] places Dong Cheng in the ruined [[LuoyangLateHan|洛阳]] court after [[ZhangYangLateHan|张杨]] and [[YangFengLateHan|杨奉]] leave. Alongside [[HanXianLateHan|韩暹]], he remains near [[EmperorXianOfHan|汉献帝]] and helps guard the court, creating the immediate power environment that later makes his appeal to [[CaoCao|曹操]] consequential.
+## Key Characteristics
 
-董承 / Dong Cheng (late Han) is further developed in [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] as a court-side actor whose position changes around Cao Cao's first approach to Emperor Xian. The source says Dong Cheng initially blocks [[CaoHong|曹洪]] when Cao Cao sends him to receive the emperor, so Cao Hong does not reach Luoyang.
+- Armed escort and title-holder in the emperor's eastward flight.
+- Interest-bearing protector who sometimes acts against the emperor's expressed decision.
+- Organizer of emergency military help and physical protection during the river crossing.
+- Court intermediary who helps create Cao Cao's entry opportunity after earlier obstruction.
+- Anti-Cao conspirator whose failure triggers collective and household punishment.
 
-The episode then turns Dong Cheng into the legitimacy channel for Cao Cao's march. As [[HanXianLateHan|韩暹]] becomes overbearing, Dong Cheng privately asks Cao Cao for help. That request gives Cao Cao an overt reason to move from Xu toward [[LuoyangLateHan|洛阳]] and intervene in the court.
+## Evidence
 
-[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] later notes that Cao Cao rewards protectors such as Dong Cheng after entering Luoyang. Taken together, the sources make Dong Cheng a pivot figure: he first obstructs Cao Cao's envoy, then helps create the court-side justification for Cao Cao's arrival.
+Escort, route conflict, and emergency protection:
+- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] and [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] place Dong Cheng in the route struggle and unauthorized anti-Duan attack.
+- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] credits him with summoning reinforcements and shielding the night crossing.
 
-## Connections
-- [[CaoCao|曹操]] and [[CaoHong|曹洪]] - Cao-side actors affected by Dong Cheng's initial obstruction and later appeal.
-- [[HanXianLateHan|韩暹]] - pressure source that changes Dong Cheng's incentives.
-- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[GuoSiLateHan|郭汜]], [[YangFengLateHan|杨奉]], and [[HuayinLateHan|华阴]] - Xinfeng escape and early Duan Wei suspicion.
-- [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]], [[YangDingLateHan|杨定]], and [[DuanWeiLateHan|段煨]] - failed anti-Duan attack before the renewed Li-Guo pursuit.
-- [[BaiboArmy|白波军]], [[LiLeLateHan|李乐]], [[HuCaiLateHan|胡才]], and [[QubeiSouthernXiongnu|去卑]] - Hanji 991 reinforcement network.
-- [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[EmperorXianOfHan|汉献帝]], [[ZhangYangLateHan|张杨]], and [[LuoyangLateHan|洛阳]] - court-flight and return setting of Dong Cheng's source role.
-- [[XingshiqingStrategicAssessment|行势情战略评估]] - adjacent concept because Dong Cheng's switch changes the timing and legitimacy of Cao Cao's move.
-- [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - broader escort/control frame.
+Luoyang restoration and Cao entry:
+- [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] and [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] connect him to Zhang Yang, the Luoyang restoration, and the ruined court's guard field.
+- [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] and [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] show his initial obstruction of Cao Hong, later appeal to Cao Cao, and reward after Cao's arrival.
+
+Failed anti-Cao plot:
+- [[zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu|Hanji 1150]] says the clothes-belt edict plot fails, Dong Cheng and allies are killed, and Dong Guiren is executed while pregnant.
+
+## Qualifications
+
+The sources do not resolve Dong Cheng's inner loyalty across changing alignments. Hanji 1150 compresses the clothes-belt edict tradition and does not independently settle the edict's textual form, recruitment sequence, or each participant's intent. Exact dialogue and family punishment remain source-scoped.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving the complete prior source order.
+- Added the clothes-belt edict plot and the household consequences of its failure.
+- Reframed Dong Cheng as a changing escort, intermediary, and conspirator rather than a source-by-source role list.
+
+## Relationships
+
+- [[EmperorXianOfHan|汉献帝]] - sovereign whom Dong Cheng escorts, shelters, and later claims to serve through conspiracy.
+- [[DongGuirenLateHan|董贵人]] - daughter killed after his failed plot.
+- [[CaoCao|曹操]] - actor Dong Cheng first helps admit to court and later tries to oppose.
+- [[YangFengLateHan|杨奉]] - recurring escort and military partner during the flight.
+- [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - concept that explains his mixed protection, coercion, and route interest.
+- [[CapturedSovereignResidualThreat|受制君主的残余威胁]] - later concept explaining why Dong Cheng's court connection becomes intolerable to Cao control.

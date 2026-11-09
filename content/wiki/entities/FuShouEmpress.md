@@ -2,21 +2,56 @@
 title: "伏皇后 / Empress Fu Shou"
 type: entity
 tags: [person, late-han, court, woman]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
-last_updated: 2026-08-24
+sources:
+  - zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk
+  - zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p
+  - zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu
+last_updated: 2026-11-09
+knowledge_schema: synthesis-v1
 ---
 
-# 伏皇后 / Empress Fu Shou
+## Overview
 
-[[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] first places Fu Shou inside the Li-Guo captivity sequence. In April 195 CE, [[EmperorXianOfHan|汉献帝]] appoints her empress while [[LiJueLateHan|李傕]] holds the emperor and [[GuoSiLateHan|郭汜]] holds ministers; her father [[FuWanLateHan|伏完]] is appointed zhijinwu. The appointment shows imperial household ritual continuing, but under conditions where title practice is no longer backed by ordinary safety or command.
+伏寿 / Empress Fu Shou is [[EmperorXianOfHan|汉献帝]]'s empress, appointed during Li Jue-Guo Si coercion, exposed to the emperor's violent flight, and later removed after her anti-[[CaoCao|曹操]] letter is discovered.
 
-[[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] later shows Empress Fu accompanying Emperor Xian during the night escape and Yellow River crossing. The source says her brother Fu De supports her while carrying silk, and that one of her attendants is killed in the scramble, splashing blood onto the empress's clothing.
+## Current Profile
 
-The episode does not build a full biography for Fu Shou. Her role is to make the imperial flight concrete: even the empress's immediate space is pierced by panic, killing, and bodily danger, so court status cannot shield the household from the same collapse that consumes officials, palace women, and followers left behind.
+Fu Shou's profile spans the full movement from mobile captivity to household captivity. Her 195 CE appointment proves that imperial family ritual can continue under military control; her blood-stained river escape shows that rank provides no bodily shield; and her later appeal to [[FuWanLateHan|伏完]] shows an attempt to use family ties against Cao Cao after [[DongGuirenLateHan|董贵人]] is killed. The effort fails, and Hanji 1150 presents her removal and family punishment as the collapse of the emperor's last independent household channel.
 
-## Connections
-- [[EmperorXianOfHan|汉献帝]] - ruler and husband whose flight she shares.
-- [[FuWanLateHan|伏完]] - father appointed zhijinwu when she is made empress in Hanji 985.
-- [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[MingqiLegitimacy|名器合法性]] - coercive setting of the empress appointment.
-- [[YangBiao|杨彪]] and [[DongChengLateHan|董承]] - officials managing the crossing and protection.
-- [[PoliticalSurvivalFirst|安全第一政治生存]] and [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] - concepts linked to bodily survival inside collapsing court order.
+## Key Characteristics
+
+- Appointed empress while the emperor and ministers are held by rival armed actors.
+- Shares the emperor's flight and direct bodily danger during the Yellow River crossing.
+- Responds to Dong Guiren's death by secretly appealing to her father against Cao Cao.
+- Is seized inside the palace after the letter is exposed.
+- Becomes a central example of court title without enforceable protection.
+
+## Evidence
+
+Appointment under coercion:
+- [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] says Fu Shou is appointed empress while Li Jue holds the emperor and Guo Si holds ministers.
+
+Flight and bodily exposure:
+- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] places her in the night river crossing, where an attendant is killed close enough to stain her clothing with blood.
+
+Resistance and removal:
+- [[zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu|Hanji 1150]] connects Dong Guiren's killing to Fu Shou's letter, palace seizure, loss of title, reported death, and punishment of sons and kin.
+
+## Qualifications
+
+Hanji 1150's wall-search scene, dialogue, death method, number of relatives, and attribution of motives remain source-scoped. The evidence supports a failed family-channel appeal, not a demonstrated operational coup plan led by Fu Shou.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 without changing the prior evidence order.
+- Extended the profile from appointment and flight into resistance, removal, and family punishment.
+- Connected her trajectory to the wider collapse of Emperor Xian's household autonomy.
+
+## Relationships
+
+- [[EmperorXianOfHan|汉献帝]] - husband whose title cannot protect her from armed seizure.
+- [[FuWanLateHan|伏完]] - father and intended recipient of her anti-Cao appeal.
+- [[DongGuirenLateHan|董贵人]] - earlier victim whose death frames Fu Shou's fear and resistance.
+- [[HuaXin|华歆]] - official who participates in enforcing her removal.
+- [[CaoJieEmpressLateHan|曹节皇后]] - successor empress from Cao Cao's family.
+- [[CapturedSovereignResidualThreat|受制君主的残余威胁]] - concept explaining why a controlled ruler's spouse and kin remain security targets.

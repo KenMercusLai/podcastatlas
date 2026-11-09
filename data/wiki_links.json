@@ -17443,6 +17443,10 @@
     "title": "曹洪 / Cao Hong",
     "url": "/wiki/entities/caohong/"
   },
+  "CaoJieEmpressLateHan": {
+    "title": "曹节皇后 / Empress Cao Jie (late Han)",
+    "url": "/wiki/entities/caojieempresslatehan/"
+  },
   "CaoJieLateHan": {
     "title": "曹节 / Cao Jie (late Han eunuch)",
     "url": "/wiki/entities/caojielatehan/"
@@ -17722,6 +17726,10 @@
   "CapturedRulerLegitimacyContainment": {
     "title": "Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制",
     "url": "/wiki/concepts/capturedrulerlegitimacycontainment/"
+  },
+  "CapturedSovereignResidualThreat": {
+    "title": "受制君主的残余威胁 / Captured Sovereign Residual Threat",
+    "url": "/wiki/concepts/capturedsovereignresidualthreat/"
   },
   "CapuchinCrypt": {
     "title": "Capuchin Crypt",
@@ -28818,6 +28826,10 @@
   "DongGongXincheng": {
     "title": "董公 / Dong Gong (Xincheng)",
     "url": "/wiki/entities/donggongxincheng/"
+  },
+  "DongGuirenLateHan": {
+    "title": "董贵人 / Consort Dong (late Han)",
+    "url": "/wiki/entities/dongguirenlatehan/"
   },
   "DongHongWesternHan": {
     "title": "董宏 / Dong Hong (Western Han)",
@@ -103791,6 +103803,10 @@
     "title": "赵俨 / Zhao Yan (late Han)",
     "url": "/wiki/entities/zhaoyanlatehan/"
   },
+  "ZhaoYanYilangLateHan": {
+    "title": "赵彦 / Zhao Yan, Yilang (late Han)",
+    "url": "/wiki/entities/zhaoyanyilanglatehan/"
+  },
   "ZhaoYao": {
     "title": "赵尧 / Zhao Yao",
     "url": "/wiki/entities/zhaoyao/"
@@ -114398,6 +114414,10 @@
   "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox": {
     "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
+  },
+  "zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu": {
+    "title": "《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

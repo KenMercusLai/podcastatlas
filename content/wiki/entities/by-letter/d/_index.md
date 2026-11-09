@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 13955
+wiki_total_pages: 13958
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1778,6 +1778,9 @@ wiki_pages:
   - key: "DongXiLateHan"
     title: "董袭 / Dong Xi (late Han)"
     url: "/wiki/entities/dongxilatehan/"
+  - key: "DongGuirenLateHan"
+    title: "董贵人 / Consort Dong (late Han)"
+    url: "/wiki/entities/dongguirenlatehan/"
   - key: "DongZhongLateHan"
     title: "董重 / Dong Zhong (late Han)"
     url: "/wiki/entities/dongzhonglatehan/"

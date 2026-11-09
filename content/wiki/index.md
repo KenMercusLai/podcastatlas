@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？](sources/zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu.md) — 芮淇讲透资治通鉴以赵彦、董贵人和伏皇后的遭遇解释献帝的家庭与政治失能，并以曹操的宫廷恐惧及山阳公安排讨论受制君主的残余威胁和前朝安置。
 - [《资治通鉴·汉纪》1141丨精于算计的韩遂，为何在曹操面前不堪一击？](sources/zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2.md) — 芮淇讲透资治通鉴回顾韩遂从被胁入乱、兼并结盟到渭南败退与部众离散，区分地方权谋能力与可持续战略组织能力。
 - [《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？](sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx.md) — 芮淇讲透资治通鉴以曹操获授近王者礼器、查理·马特的类比及曾国藩与年羹尧的对照，讨论权力可视化、王朝更替与功高震主。
 - [《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？](sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy.md) — 芮淇讲透资治通鉴 episode on self-validated relationship boundaries, reciprocal etiquette in the Mencius divorce anecdote, and Lyu Meng's supply- and water-timed rapid capture of Lujiang's 皖城.
@@ -4994,6 +4995,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
+- [赵彦 / Zhao Yan, Yilang (late Han)](entities/ZhaoYanYilangLateHan.md) — Emperor Xian's policy adviser, killed after Cao Cao treats independent imperial counsel as a resistance channel.
+- [董贵人 / Consort Dong (late Han)](entities/DongGuirenLateHan.md) — Dong Cheng's pregnant daughter and Emperor Xian's consort, executed after the clothes-belt edict plot.
+- [曹节皇后 / Empress Cao Jie (late Han)](entities/CaoJieEmpressLateHan.md) — Cao Cao's daughter, Emperor Xian's later empress, and member of the continued Shanyang household.
 - [朱光 / Zhu Guang (Late Han)](entities/ZhuGuangLateHan.md) — Cao-side Lujiang administrator whose rice cultivation and irrigation at 皖城 make the position a prospective forward supply base in Hanji 1143.
 - [张任 / Zhang Ren (late Han)](entities/ZhangRenLateHan.md) — Yizhou defender whose resistance at 雒城 forms the immediate campaign setting for Pang Tong's death.
 - [Klook](entities/Klook.md) — Asia-Pacific-centered destination-experience marketplace whose reported booking growth has not yet resolved acquisition, fulfillment, support, and profitability pressure.
@@ -19038,6 +19042,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [受制君主的残余威胁 / Captured Sovereign Residual Threat](concepts/CapturedSovereignResidualThreat.md) — A controlled ruler can retain dangerous title, household, adviser, succession, and palace-access channels without possessing reciprocal governing power.
 - [礼仪互惠与私人空间 / Reciprocal Etiquette and Private Space](concepts/ReciprocalEtiquettePrivateSpace.md) — Contextual judgment principle requiring notice, privacy, and the observer's own conduct to be assessed before blame.
 - [自我认可式关系边界 / Self-Validated Relationship Boundaries](concepts/SelfValidatedRelationshipBoundaries.md) — Qualified relationship frame that protects agency from approval dependence without treating hardship, care, or interdependence as exploitation.
 - [Destination-Experience Marketplace Economics](concepts/DestinationExperienceMarketplaceEconomics.md) — How fragmented local supply, inspiration-led demand, price comparison, offline fulfillment, support, and regional exposure shape experience-platform unit economics.
