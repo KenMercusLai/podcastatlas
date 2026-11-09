@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 13952
+wiki_total_pages: 13955
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "GeorgeMcClellan"
     title: "George B. McClellan"
     url: "/wiki/entities/georgemcclellan/"
+  - key: "GeorgeBingham3rdEarlOfLucan"
+    title: "George Bingham, 3rd Earl of Lucan"
+    url: "/wiki/entities/georgebingham3rdearloflucan/"
   - key: "GeorgeCottrell"
     title: "George Cottrell"
     url: "/wiki/entities/georgecottrell/"

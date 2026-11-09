@@ -45901,6 +45901,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/charanranganath/"
     },
+    "ChargeOfTheLightBrigade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/chargeofthelightbrigade/"
+    },
     "CharismaticPoliticalMartyrdom": {
       "episode_count": 1,
       "show_count": 1,
@@ -64774,9 +64790,9 @@
       "url": "/wiki/entities/crimea/"
     },
     "CrimeanWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5469973001 [GLT5469973001].md",
@@ -64784,9 +64800,16 @@
           "show": "The Rest Is History",
           "title": "69. England v Ukraine",
           "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        },
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/crimeanwar/"
     },
     "CriminalLawAfterLivelihoodCollapse": {
@@ -116564,6 +116587,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/georgearmstrongcuster/"
     },
+    "GeorgeBingham3rdEarlOfLucan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/georgebingham3rdearloflucan/"
+    },
     "GeorgeCrook": {
       "episode_count": 1,
       "show_count": 1,
@@ -132816,9 +132855,9 @@
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicFailureMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5469973001 [GLT5469973001].md",
@@ -132826,9 +132865,16 @@
           "show": "The Rest Is History",
           "title": "69. England v Ukraine",
           "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        },
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/heroicfailurememory/"
     },
     "HeroicLastStandMyth": {
@@ -153842,6 +153888,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/entities/jamesboswell/"
+    },
+    "JamesBrudenell7thEarlOfCardigan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/jamesbrudenell7thearlofcardigan/"
     },
     "JamesCallender": {
       "episode_count": 1,
@@ -208111,9 +208173,9 @@
       "url": "/wiki/entities/napoleonegyptcampaign/"
     },
     "NapoleonIII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3817272823 [GLT3817272823].md",
@@ -208121,9 +208183,16 @@
           "show": "The Rest Is History",
           "title": "163. The Last Emperor of Mexico",
           "url": "/wiki/sources/163-the-last-emperor-of-mexico-glt3817272823/"
+        },
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/napoleoniii/"
     },
     "NaramSin": {
@@ -211670,6 +211739,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/nicholasculpeper/"
+    },
+    "NicholasI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2909363211 [GLT2909363211].md",
+          "key": "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211",
+          "show": "The Rest Is History",
+          "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+          "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/nicholasi/"
     },
     "NicholasII": {
       "episode_count": 4,

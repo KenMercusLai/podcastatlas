@@ -4751,6 +4751,10 @@
     "title": "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)",
     "url": "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
   },
+  "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211": {
+    "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
+    "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+  },
   "725Salon": {
     "title": "725沙龙 / 725 Salon",
     "url": "/wiki/entities/725salon/"
@@ -18854,6 +18858,10 @@
   "CharanRanganath": {
     "title": "Charan Ranganath",
     "url": "/wiki/entities/charanranganath/"
+  },
+  "ChargeOfTheLightBrigade": {
+    "title": "Charge of the Light Brigade",
+    "url": "/wiki/concepts/chargeofthelightbrigade/"
   },
   "CharismaticPoliticalMartyrdom": {
     "title": "Charismatic Political Martyrdom",
@@ -38871,6 +38879,10 @@
     "title": "George Armstrong Custer",
     "url": "/wiki/entities/georgearmstrongcuster/"
   },
+  "GeorgeBingham3rdEarlOfLucan": {
+    "title": "George Bingham, 3rd Earl of Lucan",
+    "url": "/wiki/entities/georgebingham3rdearloflucan/"
+  },
   "GeorgeCottrell": {
     "title": "George Cottrell",
     "url": "/wiki/entities/georgecottrell/"
@@ -48846,6 +48858,10 @@
   "JamesBoswell": {
     "title": "James Boswell",
     "url": "/wiki/entities/jamesboswell/"
+  },
+  "JamesBrudenell7thEarlOfCardigan": {
+    "title": "James Brudenell, 7th Earl of Cardigan",
+    "url": "/wiki/entities/jamesbrudenell7thearlofcardigan/"
   },
   "JamesBrussel": {
     "title": "James Brussel",
@@ -66270,6 +66286,10 @@
   "NicholasEberstadt": {
     "title": "Nicholas Eberstadt",
     "url": "/wiki/entities/nicholaseberstadt/"
+  },
+  "NicholasI": {
+    "title": "Nicholas I of Russia",
+    "url": "/wiki/entities/nicholasi/"
   },
   "NicholasII": {
     "title": "Nicholas II",

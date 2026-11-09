@@ -4989,6 +4989,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097.md) — Tomorrow Today interview on acting opportunity search, family-supported resilience, collaborative comedy, and human judgment in creative AI use.
 - [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
+- [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
 - [朱光 / Zhu Guang (Late Han)](entities/ZhuGuangLateHan.md) — Cao-side Lujiang administrator whose rice cultivation and irrigation at 皖城 make the position a prospective forward supply base in Hanji 1143.
@@ -6757,7 +6758,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
 - [Benito Juarez](entities/BenitoJuarez.md) — Liberal Mexican president who preserved republican resistance and defeated the Second Mexican Empire.
-- [Napoleon III](entities/NapoleonIII.md) — French emperor who created and later abandoned the Mexican imperial project.
+- [Napoleon III](entities/NapoleonIII.md) — French emperor who connected Catholic prestige politics to the Crimean crisis and later created and abandoned the Mexican imperial project.
 - [Carlota of Mexico](entities/CarlotaOfMexico.md) — Maximilian's consort, political partner, and unsuccessful diplomatic advocate in Europe.
 - [Edward Shawcross](entities/EdwardShawcross.md) — Historian interpreting Maximilian's Mexican empire through domestic conflict, dynastic ambition, and geopolitics.
 - [Second Mexican Empire](entities/SecondMexicanEmpire.md) — French-backed monarchy whose legitimacy and capacity collapsed after patron withdrawal.
@@ -19030,6 +19031,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gu Yu / 谷雨](entities/GuYu.md) — New York Cognition co-founder focused on continual-learning evaluation, revisable technical judgment, and research-to-market discipline.
 - [New York Cognition](entities/NewYorkCognition.md) — AI startup presented as developing cognitive and continual-learning systems for organizational work.
 - [Apprentice Bench](entities/ApprenticeBench.md) — Sequential construction-accounting benchmark for learning from earlier workplace tasks and feedback.
+- [James Brudenell, 7th Earl of Cardigan](entities/JamesBrudenell7thEarlOfCardigan.md) — British Light Brigade commander whose courage and horsemanship coexisted with inexperience, privilege, scandal, and rivalry with Lucan.
+- [George Bingham, 3rd Earl of Lucan](entities/GeorgeBingham3rdEarlOfLucan.md) — British cavalry division commander whose experience and endurance were offset by rigidity, low empathy, and hostility toward Cardigan.
+- [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
 - [礼仪互惠与私人空间 / Reciprocal Etiquette and Private Space](concepts/ReciprocalEtiquettePrivateSpace.md) — Contextual judgment principle requiring notice, privacy, and the observer's own conduct to be assessed before blame.
@@ -20396,9 +20400,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Moral Audit](concepts/ImperialMoralAudit.md) — Critique of collapsing a heterogeneous empire into one aggregate balance of glory versus crime.
 - [Imperial Category Identity Formation](concepts/ImperialCategoryIdentityFormation.md) — Feedback process through which imperial classifications amplify existing traits and reshape later institutions and identity.
 - [Anglo-Ukrainian Relations](concepts/AngloUkrainianRelations.md) — Episodic British-Ukrainian connections through medieval service, war, industry, migration, journalism, and sport.
-- [Crimean War](concepts/CrimeanWar.md) — Conflict joining imperial strategy and religion to modern media, military administration, and heroic-failure memory.
+- [Crimean War](concepts/CrimeanWar.md) — Conflict joining imperial strategy, religion, diplomatic misreading, industrial technology, inherited command culture, and heroic-failure memory.
 - [Holodomor](concepts/Holodomor.md) — Soviet Ukrainian famine understood through mass suffering, information control, witness, denial, and contested memory.
-- [Heroic Failure Memory](concepts/HeroicFailureMemory.md) — Narrative pattern turning defeat or preventable loss into courage-centered collective memory.
+- [Heroic Failure Memory](concepts/HeroicFailureMemory.md) — Narrative pattern rapidly turning defeat or preventable loss into courage-centered collective memory while institutional responsibility remains unsettled.
 - [Functional Beverage Occasion Creation](concepts/FunctionalBeverageOccasionCreation.md) — Positioning drinks around energy, hydration, protein, sleep, gut health, or ritual substitution to create new purchase occasions.
 - [Small-Batch Beverage Market Entry](concepts/SmallBatchBeverageMarketEntry.md) — Lower test-run risk created by shared canning capacity while distribution and shelf access remain barriers.
 - [Exit Freedom Material Conditions / 出走自由的物质条件](concepts/ExitFreedomMaterialConditions.md) — Freedom after departure depends on capability, income, knowledge, relationships, and a viable place to stand.
@@ -30223,5 +30227,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent Operational Cognition](concepts/AgentOperationalCognition.md) — Organizational understanding layer that distinguishes knowing what work means from merely operating its software.
 - [AI Academic Evaluation Signal Collapse](concepts/AIAcademicEvaluationSignalCollapse.md) — Loss of signal when research-output volume outgrows qualified review and formal production becomes cheaper than understanding.
 - [Technical-Commercial Closure](concepts/TechnicalCommercialClosure.md) — Mapping from coherent technical capability to an urgent user problem, usable product, business value, and feedback loop.
+- [Charge of the Light Brigade](concepts/ChargeOfTheLightBrigade.md) — Balaclava cavalry disaster understood through interacting command failures, aristocratic military culture, courage, and rapid poetic commemoration.
 
 ## Syntheses

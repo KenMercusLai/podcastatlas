@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11089
+wiki_total_pages: 11090
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "CharacterSpaceProductionDesign"
     title: "Character-Space Production Design / 人物空间美术设计"
     url: "/wiki/concepts/characterspaceproductiondesign/"
+  - key: "ChargeOfTheLightBrigade"
+    title: "Charge of the Light Brigade"
+    url: "/wiki/concepts/chargeofthelightbrigade/"
   - key: "CharismaticPoliticalMartyrdom"
     title: "Charismatic Political Martyrdom"
     url: "/wiki/concepts/charismaticpoliticalmartyrdom/"

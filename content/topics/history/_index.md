@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2778
+topic_total_pages: 2779
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7230,6 +7230,9 @@ topic_sources:
   - key: "720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826"
     title: "720. Revolution in the Soviet Empire: Revenge of the Red Army (Part 2)"
     url: "/wiki/sources/720-revolution-in-the-soviet-empire-revenge-of-the-red-army-part-2-glt6037632826/"
+  - key: "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211"
+    title: "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)"
+    url: "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
   - key: "73-england-v-italy-glt3184835237"
     title: "73. England v Italy"
     url: "/wiki/sources/73-england-v-italy-glt3184835237/"
