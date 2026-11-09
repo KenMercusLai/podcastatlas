@@ -45763,6 +45763,10 @@
     "title": "霍光 / Huo Guang (Western Han)",
     "url": "/wiki/entities/huoguangwesternhan/"
   },
+  "HuoJun": {
+    "title": "霍峻 / Huo Jun",
+    "url": "/wiki/entities/huojun/"
+  },
   "HuoNuLateHan": {
     "title": "霍奴 / Huo Nu (late Han)",
     "url": "/wiki/entities/huonulatehan/"
@@ -72914,6 +72918,10 @@
   "PostConquestPopulationRemoval": {
     "title": "Post-Conquest Population Removal / 征服后人口迁出",
     "url": "/wiki/concepts/postconquestpopulationremoval/"
+  },
+  "PostConquestPropertyRestoration": {
+    "title": "Post-Conquest Property Restoration / 战后民产归还",
+    "url": "/wiki/concepts/postconquestpropertyrestoration/"
   },
   "PostConsciousPerformance": {
     "title": "Post-Conscious Performance",
@@ -103539,6 +103547,10 @@
     "title": "赵范 / Zhao Fan",
     "url": "/wiki/entities/zhaofan/"
   },
+  "ZhaoFanLateHan": {
+    "title": "赵范（东汉末） / Zhao Fan (Late Han)",
+    "url": "/wiki/entities/zhaofanlatehan/"
+  },
   "ZhaoFeiyanWesternHan": {
     "title": "赵飞燕 / Zhao Feiyan (Western Han)",
     "url": "/wiki/entities/zhaofeiyanwesternhan/"
@@ -114442,6 +114454,10 @@
   "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox": {
     "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
+  },
+  "zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz": {
+    "title": "《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz/"
   },
   "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9": {
     "title": "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？",

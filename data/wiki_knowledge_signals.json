@@ -142512,6 +142512,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/huoguangwesternhan/"
     },
+    "HuoJun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpesotvHDf7zmkqTUv90RDNy1kGz [lpesotvHDf7zmkqTUv90RDNy1kGz].md",
+          "key": "zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/huojun/"
+    },
     "HuoNuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -234379,6 +234395,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/postconquestpopulationremoval/"
+    },
+    "PostConquestPropertyRestoration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpesotvHDf7zmkqTUv90RDNy1kGz [lpesotvHDf7zmkqTUv90RDNy1kGz].md",
+          "key": "zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/postconquestpropertyrestoration/"
     },
     "PostConsciousPerformance": {
       "episode_count": 1,
@@ -331666,6 +331698,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/zhaodulatehan/"
     },
+    "ZhaoFanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpesotvHDf7zmkqTUv90RDNy1kGz [lpesotvHDf7zmkqTUv90RDNy1kGz].md",
+          "key": "zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/zhaofanlatehan/"
+    },
     "ZhaoFeiyanWesternHan": {
       "episode_count": 9,
       "show_count": 1,
@@ -332769,9 +332817,9 @@
       "url": "/wiki/entities/zhaoyufei/"
     },
     "ZhaoYun": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -332786,9 +332834,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        },
+        {
+          "episode_file": "lpesotvHDf7zmkqTUv90RDNy1kGz [lpesotvHDf7zmkqTUv90RDNy1kGz].md",
+          "key": "zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/zhaoyun/"
     },
     "ZhaoZhouWesternHan": {

@@ -4240,7 +4240,6 @@ Added source page for a How I Built This Advice Line episode on Tim Ferriss, Coy
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -38924,6 +38923,13 @@ Added source `zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong
 
 Ran lint. See lint-report.md for details.
 ## [2026-11-09] ingest | 《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-11-09] ingest | 《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传
+
+Added source `zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz`; created disambiguated [[ZhaoFanLateHan|赵范（东汉末）]], [[HuoJun|霍峻]], and [[PostConquestPropertyRestoration|战后民产归还]]; and resynthesized [[ZhaoYun|赵云]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Zhao Yun's current profile now joins Changban rescue and Guiyang administration to caution toward a coerced surrender, opposition to distributing Chengdu civilian property, and calculated courage at the Han River; Huo Jun's Jiameng defense frames loyalty as stewardship of an entrusted strategic position. No settled contradiction was adopted. Exact dialogue, troop totals, siege duration, offices, dates, motives, tactical sequence, and material attributed to the lost *Yun Biezhuan* remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,879 sources across 806 overview paragraphs and nine topics.
 
 ## [2026-11-09] lint | Wiki health check
 

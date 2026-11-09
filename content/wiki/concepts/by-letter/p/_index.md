@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11094
+wiki_total_pages: 11095
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1580,6 +1580,9 @@ wiki_pages:
   - key: "PostConquestPopulationRemoval"
     title: "Post-Conquest Population Removal / 征服后人口迁出"
     url: "/wiki/concepts/postconquestpopulationremoval/"
+  - key: "PostConquestPropertyRestoration"
+    title: "Post-Conquest Property Restoration / 战后民产归还"
+    url: "/wiki/concepts/postconquestpropertyrestoration/"
   - key: "PostConsciousPerformance"
     title: "Post-Conscious Performance"
     url: "/wiki/concepts/postconsciousperformance/"

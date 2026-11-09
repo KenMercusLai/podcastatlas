@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传](sources/zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz.md) — 芮淇讲透资治通鉴以赵云的成都谏言、长坂救主、拒绝联姻与汉水用兵连接忠诚、民产恢复、风险判断和战术勇气，并以霍峻守葭萌补充受托守土的忠勇形态。
 - [《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？](sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9.md) — 芮淇讲透资治通鉴以诸葛亮对法正报复行为的克制讨论职责边界与新政权整合，并以治蜀严法解释因时宽猛相济及其公正执行难题。
 - [《资治通鉴·汉纪》1149丨揭秘三国顶级谋士荀攸的官场生存术](sources/zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um.md) — 芮淇讲透资治通鉴从父母牺牲式控制转入蒋琬的岗位适配、曹植与曹丕的继承可靠性，以及荀攸以守密和低可见度管理能力与政治风险。
 - [《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？](sources/zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu.md) — 芮淇讲透资治通鉴以赵彦、董贵人和伏皇后的遭遇解释献帝的家庭与政治失能，并以曹操的宫廷恐惧及山阳公安排讨论受制君主的残余威胁和前朝安置。
@@ -4997,6 +4998,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
+- [霍峻 / Huo Jun](entities/HuoJun.md) — 以数百人坚守葭萌、拒绝诱降并伺机反击，后转任梓潼太守的刘备部将。
+- [赵范（东汉末） / Zhao Fan (Late Han)](entities/ZhaoFanLateHan.md) — 桂阳投降后提出与赵云联姻、因归附可信度不足被拒，后又出逃的东汉末地方官。
 - [蒋琬 / Jiang Wan](entities/JiangWan.md) — 从广都县务失职获再评价，后以更大尺度的政务能力进入蜀汉高层继承序列。
 - [曹植 / Cao Zhi](entities/CaoZhi.md) — 文学才华突出但因饮酒、越界与拒斥纠偏而削弱政治托付可信度的曹氏继承竞争者。
 - [刑颙 / Xing Yong (late Han)](entities/XingYongLateHan.md) — 曹植身边不取悦主君、强调礼法与实用纠偏的严正辅臣。
@@ -19048,6 +19051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [Post-Conquest Property Restoration / 战后民产归还](concepts/PostConquestPropertyRestoration.md) — 将归还平民田宅与安居、支持、税收和征兵连接起来的战后治理机制。
 - [Talent–Role Fit / 人才—岗位适配](concepts/TalentRoleFit.md) — 将一次岗位表现与总体能力分开评估，并以重新配置后的后续证据检验适配判断。
 - [Political Self-Control and Delegation Trust / 政治托付中的自制力](concepts/PoliticalSelfControlTrust.md) — 高位托付要求人在情绪、欲望、身份和权力边界下维持可预测行为，而非仅凭才华。
 - [Controlled Capability Visibility / 能力可见度控制](concepts/ControlledCapabilityVisibility.md) — 在权力中心附近管理机密、功劳、声望与能力展示，使价值可见但不过度生成威胁。
