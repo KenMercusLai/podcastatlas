@@ -7,7 +7,8 @@ sources:
   - 122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5
   - 083-yinanping-cp-daluanpei-shiji-wenda-zaihua-ni-xinzhong-de-jinyong-yuzhou-top1-lv-f-qymxtyleygmljijngtxalhz
   - 054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t
-last_updated: 2026-10-11
+  - 125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi
+last_updated: 2026-11-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,6 +27,8 @@ Reception memory therefore changes the baseline against which casting, voice, co
 The Jin Yong favorites roundtable adds a cross-work test. A host can prefer the 1995 television adaptation of 《神雕侠侣》 for performers, pacing, romance, and music, or the CCTV 《笑傲江湖》 for landscape, production scale, ensemble, and atmosphere, while films such as 《东邪西毒》 or 《笑傲江湖Ⅱ：东方不败》 are valued for transformative style. Preference therefore combines remembered attachment with explicit craft criteria and need not track literal fidelity.
 
 The [[AChineseGhostStory1987|《倩女幽魂》(1987)]] retrospective adds an image-first case. Viewers retain VCD or television impressions, songs, actors, white fabric, wind, water, and monster fragments while confusing sequel events or forgetting the full narrative. A performance and visual design can become the default image of a literary character whose source description was less fixed.
+
+Later classic status can diverge from initial commercial performance. In the bounded [[KungFuCultMaster1993|《倚天屠龙记之魔教教主》]] case, outdoor screenings, repeated circulation, famous lines, striking performers, and isolated images build collective attachment even when adult rewatching exposes rough construction and the source reports weak original local box office. Formative exposure may also replace the literary baseline: one host long treated the film's villainous Zhou Zhiruo and Hong Sammo's Zhang Sanfeng as the characters' default forms.
 
 ## Key Claims
 
@@ -66,9 +69,14 @@ The [[AChineseGhostStory1987|《倩女幽魂》(1987)]] retrospective adds an im
 - [[054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t]] records actors, songs, images, and mixed sequel memories surviving more strongly than a complete plot.
 - [[054-qian-nv-youhun-chongying-yiqu-renguilian-daojin-jianghuqing-ltgcllmyiaxrx_kkvgsrrmcxxj2t]] treats [[JoeyWong|王祖贤]]'s Nie Xiaoqian as a screen image that supplements or overwrites the literary image.
 
+### Delayed classic status and literary-baseline replacement
+
+- [[125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi]] links outdoor repetition and later television, disc, and network circulation to a film whose initial local box office was reportedly weak.
+- [[125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi]] records screen characterization becoming the default against which later encounters with the novel and other versions were judged.
+
 ## Counterevidence & Qualifications
 
-The concept is grounded in four multi-host retrospectives and cannot quantify how much preference comes from craft, age, region, marketing, repetition, copy completeness, star image, or circulation. Nostalgia should not dismiss aesthetic judgment, nor should popularity prove superiority or influence. Streaming and rewatching can loosen original boundaries. Production credits, version histories, and influence claims remain source-scoped.
+The concept is grounded in five multi-host retrospectives and cannot quantify how much preference comes from craft, age, region, marketing, repetition, copy completeness, star image, or circulation. Nostalgia should not dismiss aesthetic judgment, nor should popularity, later classic status, or repeated availability prove initial success, superiority, or influence. Streaming and rewatching can loosen original boundaries. Production credits, version histories, box office, and influence claims remain source-scoped.
 
 ## What Changed
 
@@ -76,7 +84,7 @@ The concept is grounded in four multi-host retrospectives and cannot quantify ho
 - Separated nostalgia from craft while showing how the two can reinforce one another.
 - Extended the concept from version preference to partial copies, home-video formats, false shot memory, and childhood imitation.
 - Added cross-work favorites that make performance, music, scale, landscape, and transformative style explicit alongside formative attachment.
-- Added image-first memory and screen performance becoming a default cultural image of a literary character.
+- Added image-first memory, screen performance replacing a literary baseline, and later circulation building classic status distinct from initial box office.
 
 ## Related Concepts
 
@@ -86,4 +94,5 @@ The concept is grounded in four multi-host retrospectives and cannot quantify ho
 - [[LegendOfTheCondorHeroes]] - multi-generational adaptation corpus grounding the concept.
 - [[TaiChiMaster1993|《太极张三丰》]] - single-film case showing how distribution format and missing scenes reshape memory.
 - [[AChineseGhostStory1987|《倩女幽魂》(1987)]] - case where songs, stars, and visual fragments outlast plot recall.
+- [[KungFuCultMaster1993|《倚天屠龙记之魔教教主》]] - case of childhood character replacement and delayed fragment-driven classic status.
 - [[TragicAdaptationReframing]] - explains why the remembered film ending differs from the source tale.

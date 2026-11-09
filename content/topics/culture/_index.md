@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3629
+topic_total_pages: 3631
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7109,6 +7109,9 @@ topic_entities:
   - key: "PostTruthFilm"
     title: "《保你平安》 / Post Truth"
     url: "/wiki/entities/posttruthfilm/"
+  - key: "KungFuCultMaster1993"
+    title: "《倚天屠龙记之魔教教主》 / Kung Fu Cult Master (1993)"
+    url: "/wiki/entities/kungfucultmaster1993/"
   - key: "AChineseGhostStory1987"
     title: "《倩女幽魂》(1987) / A Chinese Ghost Story"
     url: "/wiki/entities/achineseghoststory1987/"
@@ -9645,6 +9648,9 @@ topic_sources:
   - key: "123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni"
     title: "123 红楼金粉 | 尤三姐：揉碎桃花红满地，玉山倾倒再难扶"
     url: "/wiki/sources/123-honglou-jinfen-yousanjie-rousui-taohua-hongmandi-yushan-qingdao-zai-nan-fu-ll-xqierm5dlcyr80_dxmlfh97ni/"
+  - key: "125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi"
+    title: "125 魔改烂片OR经典神作？趣话《倚天屠龙记之魔教教主》"
+    url: "/wiki/sources/125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi/"
   - key: "13-beishang-de-liliang-tantan-sangqin-zhitong-551507792"
     title: "13.悲伤的力量：谈谈丧亲之痛"
     url: "/wiki/sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792/"

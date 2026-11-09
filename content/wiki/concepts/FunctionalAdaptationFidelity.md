@@ -11,7 +11,8 @@ sources:
   - 049-ruiping-chunjiedang-xuke-shediao-yingxiongzhuan-zhe-daodi-pai-le-ge-sha-ln02wzq-5vvpqkj2gqo7isuwxf1p
   - lm2iomi68yhdbuqvdir8761d-syq
   - ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma
-last_updated: 2026-10-12
+  - 125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi
+last_updated: 2026-11-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,6 +39,8 @@ The focused critique of [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄
 [[TheEagleShootingHeroes1993|《东成西就》]] supplies the boundary case between adaptation judgment and autonomous achievement. The film uses names, martial-arts fragments, and the young Five Greats' blank history while abandoning most original plot, relationships, and ethical structure. The hosts can therefore call it a classic comedy and still deny that it is a successful Jin Yong adaptation. Excellence on a new comic axis does not retroactively establish source fidelity; it makes the work's independent status clearer.
 
 The earlier [[LegendOfTheCondorHeroes|《射雕英雄传》]] discussion supplies a compact causal test. Once a version removes the storyteller or new information that originally triggered Yang Tiexin's anger, retaining the outburst turns an event match into behavioral arbitrariness. A praised rewrite instead gives Bao Xiruo and Yang Tiexin a new conversation that exposes their value difference while preserving her concealment. Functional fidelity therefore asks not only whether a plot point remains, but what newly visible cause now earns it.
+
+Character rewriting creates a propagation obligation: downstream scenes must be rebuilt around the new governing motive rather than borrowed unchanged from the source. [[KungFuCultMaster1993|《倚天屠龙记之魔教教主》]] makes this visible by combining successful radical compression—opening narration, a visualized Fire Worker monk, accelerated training, and crisis-based installation of Zhang Wuji as Mingjiao leader—with uneven causal transfer. The film removes the guilt that supported Zhang Cuishan's suicide, gives Zhang Wuji a revenge-and-ambition engine without consistently rebuilding his later restraint, and transfers actions to Zhou Zhiruo, Song Qingshu, Mingjiao, and Xiao Zhao without enough motive or capability support.
 
 ## Key Claims
 
@@ -94,13 +97,19 @@ The earlier [[LegendOfTheCondorHeroes|《射雕英雄传》]] discussion supplie
 
 - [[ludma6d24kmnqa-qm1mdm2owrfma-ludma6d24kmnqa-qm1mdm2owrfma]] contrasts an unexplained retained outburst with a rewritten Bao Xiruo–Yang Tiexin exchange that restores motive, concealment, and conflict through new screen action.
 
+### Propagating a rewritten character through inherited plot
+
+- [[125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi]] contrasts effective compression with scenes that retain the novel's event while deleting its motive or changing the character who must perform it.
+- [[125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi]] shows that making Zhang Wuji revenge-driven and ambitious requires his later restraint and peacemaking to be newly dramatized, not merely asserted.
+
 ## Counterevidence & Qualifications
 
-The concept is derived from eight informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, comedy, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production, deletion, censorship, authorship, version labels, and exact scene recollection remain source-scoped.
+The concept is derived from nine informal, multi-host comparisons whose judgments vary by performer, version, nostalgia, source familiarity, and personal taste. “Character core” can become a vague defense unless tied to setup, motive, choice, consequence, staging, and reaction. Success in action, romance, image, music, comedy, or one rewritten character does not erase losses in politics, language, pacing, ensemble structure, world logic, or cultural texture. Artistic autonomy, commercial effectiveness, and fidelity remain separate axes, while production, deletion, censorship, authorship, version labels, and exact scene recollection remain source-scoped.
 
 ## What Changed
 
 - Added a local causal test: retaining an incident after deleting its trigger is less faithful than rewriting the scene to rebuild motive and conflict.
+- Added the propagation obligation: once an adaptation changes a character's governing motive, inherited later scenes must be rebuilt around that new motive.
 
 ## Related Concepts
 
@@ -116,3 +125,4 @@ The concept is derived from eight informal, multi-host comparisons whose judgmen
 - [[TechnologyDrivenWuxiaModernization]] - explains how technical transformation can support or outrun adapted dramatic function.
 - [[LegendOfTheCondorHeroesTheGallants2025|《射雕英雄传：侠之大者》]] - negative case of retained incidents and ideals without sufficient causal and experiential reconstruction.
 - [[TheEagleShootingHeroes1993|《东成西就》]] - autonomous comic success that preserves little of its named source's narrative function.
+- [[KungFuCultMaster1993|《倚天屠龙记之魔教教主》]] - mixed case where efficient compression coexists with unpropagated character rewrites and deleted causal support.

@@ -7,7 +7,8 @@ sources:
   - lntuojjqraze_4ztx20zec3pfaav-lntuojjqraze_4ztx20zec3pfaav
   - lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii
   - lpd4wmyo0uvgvxtaxbuxmwtxkxy8-lpd4wmyo0uvgvxtaxbuxmwtxkxy8
-last_updated: 2026-10-12
+  - 125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi
+last_updated: 2026-11-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The protagonist branch makes [[ZhangWujiJinYong|张无忌]] an integrative leade
 The central romance adds another form of distributed character comparison. [[ZhaoMinJinYong|赵敏]], [[ZhouZhiruoJinYong|周芷若]], [[YinLiJinYong|殷离]], and [[XiaoZhaoJinYong|小昭]] are not interchangeable claimants: political capacity, public ambition, remembered childhood attachment, practical care, play, jealousy, service, and willingness to withdraw create different bonds with Zhang. The source favors Zhao as the most reciprocal partner while preserving the limits of its developmental psychology and career-versus-love contrast.
 
 The same episode broadens the novel's formal profile. Orthodox and heterodox groups contain both admirable and blameworthy conduct; [[ZhangSanfengJinYong|张三丰]] states the conduct-based standard most clearly. Distinctive secondary characters, chapter titles that operate as a linked poem, selective ellipsis around Ji Xiaofu, and the Heaven Sword and Dragon Saber as plot-bearing objects create a multi-generational Jianghu whose history exceeds one protagonist.
+
+The [[KungFuCultMaster1993|1993 film]] comparison clarifies what the novel's causal structure contributes. Zhang Cuishan's death depends partly on guilt over 俞岱岩 rather than only refusal to betray 谢逊; Zhou Zhiruo's complexity depends on conflict rather than automatic villainy; Zhang Wuji's restraint depends on a character trajectory not reducible to revenge; and Song Qingshu's relation to Wudang cannot be reversed without new motive. The adaptation's strongest compressions also reveal which functions can survive drastic shortening when cause, decision, and payoff are rebuilt.
 
 ## Key Characteristics
 
@@ -76,17 +79,17 @@ The same episode broadens the novel's formal profile. Orthodox and heterodox gro
 
 - [[lns0yzi-qrvazjy3lx2fr_kjisii-lns0yzi-qrvazjy3lx2fr_kjisii]] connects memorable secondary characters, linked poetic chapter titles, narrative ellipsis, title weapons, and inherited memories across generations.
 
+### Adaptation as a causal contrast
+
+- [[125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi]] uses the 1993 film's deletions and fused characterization to make the novel's motive chains around Zhang Cuishan, Zhang Wuji, Zhou Zhiruo, Xiao Zhao, and Song Qingshu more visible.
+
 ## Qualifications
 
-This profile comes from four structured podcast summaries, not a direct comparison of the novel's editions or adaptations. Modern vocabulary of handlers, activation, organizational reporting, factional politics, consent, attachment, psychology, symbolic leadership, and relational debt is interpretive. Hidden motive, exact chronology, martial hierarchy, the meaning of “forcing,” romantic ranking, childhood causation, chapter-title allusion, authorial design, and the strength of succession rivalry remain source-scoped; the hosts themselves retain disagreement, clear preferences, and the Wudang Seven Heroes' established solidarity.
+This profile comes from five structured podcast summaries, not a direct collation of the novel's editions or a production study of its adaptations. Modern vocabulary of handlers, activation, organizational reporting, factional politics, consent, attachment, psychology, symbolic leadership, and relational debt is interpretive. Hidden motive, exact chronology, martial hierarchy, the meaning of “forcing,” romantic ranking, childhood causation, chapter-title allusion, authorial design, adaptation history, and the strength of succession rivalry remain source-scoped; the hosts themselves retain disagreement, clear preferences, and the Wudang Seven Heroes' established solidarity.
 
 ## What Changed
 
-- Added Zhang Wuji's stage-specific leadership: strong in integration and legitimacy, weak in personal consolidation.
-- Expanded conduct-based moral judgment across Wudang, Emei, Shaolin, and Mingjiao.
-- Added poetic chapter titles, ellipsis, title weapons, and generational memory to the novel's formal profile.
-- Added the four central women as distinct tests of attraction, agency, care, political identity, and compatible futures.
-- Qualified the Zhao Min–Zhou Zhiruo contrast against reducing female choice to love versus career.
+- Added the film contrast showing that the novel's incidents depend on motive chains that compression must rebuild.
 
 ## Relationships
 
@@ -102,3 +105,4 @@ This profile comes from four structured podcast summaries, not a direct comparis
 - [[EnsembleCharacterDifferentiation|群像人物区分]] - craft framework for the novel's secondary cast and distributed narrative weight.
 - [[ZhaoMinJinYong|赵敏（金庸小说）]] and [[ZhouZhiruoJinYong|周芷若（金庸小说）]] - rival political actors whose romantic choices, methods, and desired futures organize the central comparison.
 - [[FictionalRelationshipCompatibilityReading|虚构关系适配性阅读]] - framework separating emotional importance from reciprocity and viable partnership.
+- [[KungFuCultMaster1993|《倚天屠龙记之魔教教主》]] - adaptation whose successful compression and causal gaps clarify the novel's functional structure.

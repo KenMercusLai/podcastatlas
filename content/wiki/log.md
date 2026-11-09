@@ -38997,3 +38997,11 @@ Added source `overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim803
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | 125 魔改烂片OR经典神作？趣话《倚天屠龙记之魔教教主》
+
+Added source `125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi`; created [[KungFuCultMaster1993|《倚天屠龙记之魔教教主》]]; and resynthesized [[FunctionalAdaptationFidelity|功能性改编忠实]], [[AdaptationReceptionMemory|改编接受中的代际记忆]], [[HeavenSwordDragonSaber|《倚天屠龙记》]], [[JetLi|李连杰]], and [[WongJing|王晶]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: successful compression rebuilds motive and function, while changing a protagonist's governing motive creates a downstream obligation to rewrite inherited scenes around it; childhood circulation and iconic fragments can build later classic status without proving either initial commercial success or consistent craft quality. No settled contradiction was adopted. Novel details, production reasons, box office, sequel plans, editing history, credits, and actor allocation remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,888 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

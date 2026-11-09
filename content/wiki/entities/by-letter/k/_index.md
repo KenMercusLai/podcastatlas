@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 13982
+wiki_total_pages: 13983
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "KonjakuZokuHyakkiKumo"
     title: "《今昔续百鬼·云》 / Konjaku Zoku Hyakki: Kumo"
     url: "/wiki/entities/konjakuzokuhyakkikumo/"
+  - key: "KungFuCultMaster1993"
+    title: "《倚天屠龙记之魔教教主》 / Kung Fu Cult Master (1993)"
+    url: "/wiki/entities/kungfucultmaster1993/"
   - key: "KunyuWanguoQuantu"
     title: "《坤舆万国全图》 / Kunyu Wanguo Quantu"
     url: "/wiki/entities/kunyuwanguoquantu/"

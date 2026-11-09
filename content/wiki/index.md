@@ -830,6 +830,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia](sources/unlearn-negative-thoughts-behaviors-patterns-dr-alok-kanojia-scim4778698454.md) — Huberman Lab interview on identity-level pattern change, emotional tolerance, yoga nidra, digital comparison, pornography, and AI reality-testing risk.
 - [121 趣话《七种武器》之孔雀翎：古龙写给成年人的信心寓言](sources/121-quhua-qizhongwuqi-zhi-kongqueling-gulong-xiegei-chengnianrende-xinxin-yuyan-lixp1oc4wx0wiksvzo4zehqj45b4.md) — 纸醉金迷FM以《孔雀翎》区分有力的信心寓言与薄弱的借宝、遗失及友情结局因果，同时细读高立与双双的相互滋养。
 - [122 一部被低估的功夫经典｜李连杰版《太极张三丰》重看](sources/122-yibu-beidigude-gongfu-jingdian-lilianjieban-taiji-zhangsanfeng-chongkan-lrxptua07wngeqmj3bjwh_nmryn5.md) — 纸醉金迷FM从录像带、VCD与电视记忆重看《太极张三丰》，连接可读动作、兄弟悲剧、太极悟道与对董天宝不免责的复杂理解。
+- [125 魔改烂片OR经典神作？趣话《倚天屠龙记之魔教教主》](sources/125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mojiao-jiaozhu-lkui9sdifmbolx-1-4tscswaajhi.md) — 纸醉金迷FM以人物动机和因果重建检验《倚天屠龙记之魔教教主》的压缩与魔改，并区分商业娱乐、童年记忆和剧本完成度。
 - [《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧](sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn.md) — 卫青在苏建失军后保留拘押与追责，却拒绝以阵斩偏将展示个人威严，并把终局裁决交回汉武帝。
 - [《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯](sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35.md) — 霍去病八百骑兵的首次独立行动把前期知敌准备转化为深入、俘虏情报、高价值目标突袭与冠军侯封赏；演义化训话、现代特战类比及数字细节保留来源边界。
 - [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
@@ -5483,6 +5484,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨不悔（金庸小说） / Yang Buhui (Jin Yong)](entities/YangBuhuiJinYong.md) — 以长期照料和主动选择爱上殷梨亭，并拒绝把张无忌的救命之恩转化为婚姻债务的人物。
 - [殷梨亭（金庸小说） / Yin Liting (Jin Yong)](entities/YinLitingJinYong.md) — 在重伤照料中与前未婚妻之女建立关系，并承载年龄、相貌替代与代际补偿争议的武当人物。
 - [《倚天屠龙记》 / The Heaven Sword and Dragon Saber](entities/HeavenSwordDragonSaber.md) — 以整合型领导、正邪判断、隐藏忠诚和差异化爱情连接人物能动性、群像、诗性回目与多代江湖史。
+- [《倚天屠龙记之魔教教主》 / Kung Fu Cult Master (1993)](entities/KungFuCultMaster1993.md) — 以高效压缩、腹黑张无忌、商业笑料、因果断裂与延迟经典化构成的香港武侠改编。
 - [范遥（金庸小说） / Fan Yao (Jin Yong)](entities/FanYaoJinYong.md) — 长期潜伏却缺少可见报告，又在万安寺救援中发挥决定作用，并以自罚和跨阵营情感构成忠诚歧义的明教人物。
 - [俞莲舟（金庸小说） / Yu Lianzhou (Jin Yong)](entities/YuLianzhouJinYong.md) — 以武功、克制、风险判断与程序分寸获得掌门继承正当性的武当人物。
 - [《神雕侠侣》 / The Return of the Condor Heroes](entities/ReturnOfTheCondorHeroes.md) — 金庸小说，以视角变化、武功设计、反复分离及多种不对等爱情区分吸引、牺牲、互惠与关系可行性。
