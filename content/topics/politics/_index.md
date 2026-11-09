@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3467
+topic_total_pages: 3468
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -10083,6 +10083,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn"
     title: "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？"
     url: "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
+  - key: "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9"
+    title: "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9/"
   - key: "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3"
     title: "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）"
     url: "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3/"

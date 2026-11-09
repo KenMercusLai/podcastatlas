@@ -38923,3 +38923,8 @@ Added source `zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-09] ingest | 《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

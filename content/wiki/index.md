@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？](sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9.md) — 芮淇讲透资治通鉴以诸葛亮对法正报复行为的克制讨论职责边界与新政权整合，并以治蜀严法解释因时宽猛相济及其公正执行难题。
 - [《资治通鉴·汉纪》1149丨揭秘三国顶级谋士荀攸的官场生存术](sources/zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um.md) — 芮淇讲透资治通鉴从父母牺牲式控制转入蒋琬的岗位适配、曹植与曹丕的继承可靠性，以及荀攸以守密和低可见度管理能力与政治风险。
 - [《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？](sources/zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu.md) — 芮淇讲透资治通鉴以赵彦、董贵人和伏皇后的遭遇解释献帝的家庭与政治失能，并以曹操的宫廷恐惧及山阳公安排讨论受制君主的残余威胁和前朝安置。
 - [《资治通鉴·汉纪》1141丨精于算计的韩遂，为何在曹操面前不堪一击？](sources/zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2.md) — 芮淇讲透资治通鉴回顾韩遂从被胁入乱、兼并结盟到渭南败退与部众离散，区分地方权谋能力与可持续战略组织能力。

@@ -10119,6 +10119,36 @@
       "updated": "2026-11-09",
       "url": "/wiki/concepts/adviserstatearchitecture/"
     },
+    "AdvisorRoleBoundary": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切 [ln7Dv2jXrk6lt1C4szyLsRb41K3R].md",
+          "key": "zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》141｜还原历史中的“鸿门宴” [lpmb-bcoOcngtqjvtnPj0elM-Siy].md",
+          "key": "zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》141｜还原历史中的“鸿门宴”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy/"
+        },
+        {
+          "episode_file": "ljDiGbpovFW6Rh6OY30DrK1idKs9 [ljDiGbpovFW6Rh6OY30DrK1idKs9].md",
+          "key": "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/advisorroleboundary/"
+    },
     "AdvisoryAssemblyImplementationGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -98385,9 +98415,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FaZheng": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -98430,9 +98460,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
+        },
+        {
+          "episode_file": "ljDiGbpovFW6Rh6OY30DrK1idKs9 [ljDiGbpovFW6Rh6OY30DrK1idKs9].md",
+          "key": "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/fazheng/"
     },
     "FabianStrategy": {
@@ -270421,9 +270458,9 @@
       "url": "/wiki/concepts/situationalcharactertests/"
     },
     "SituationalStrictLenientGovernance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？ [luZNyZqldWdRbKFM7CE_1huuxm7B].md",
@@ -270445,9 +270482,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1127丨曹操篡位三件套，指的是什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls/"
+        },
+        {
+          "episode_file": "ljDiGbpovFW6Rh6OY30DrK1idKs9 [ljDiGbpovFW6Rh6OY30DrK1idKs9].md",
+          "key": "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/situationalstrictlenientgovernance/"
     },
     "SixiaoComedy": {
@@ -336561,9 +336605,9 @@
       "url": "/wiki/entities/zhugejin/"
     },
     "ZhugeLiang": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -336648,9 +336692,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1132丨诸葛亮凭什么认定刘备能成大事？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1132-zhugeliang-ping-shenme-rending-liubei-neng-cheng-dashi-lgua1ohxt_ji_dytbgwvfbexjiho/"
+        },
+        {
+          "episode_file": "ljDiGbpovFW6Rh6OY30DrK1idKs9 [ljDiGbpovFW6Rh6OY30DrK1idKs9].md",
+          "key": "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/zhugeliang/"
     },
     "ZhuluQinHanBook": {
