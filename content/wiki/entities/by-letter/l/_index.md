@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13964
+wiki_total_pages: 13968
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1490,6 +1490,9 @@ wiki_pages:
   - key: "LiuDaiSikongZhangshi"
     title: "刘岱 / Liu Dai (Sikong changshi)"
     url: "/wiki/entities/liudaisikongzhangshi/"
+  - key: "LiuBa"
+    title: "刘巴 / Liu Ba"
+    url: "/wiki/entities/liuba/"
   - key: "LiuPingEasternHan"
     title: "刘平 / Liu Ping (Eastern Han official)"
     url: "/wiki/entities/liupingeasternhan/"
@@ -1880,6 +1883,9 @@ wiki_pages:
   - key: "LadyWuSunJian"
     title: "吴夫人 / Lady Wu (Sun Jian)"
     url: "/wiki/entities/ladywusunjian/"
+  - key: "LadyWuLiuBei"
+    title: "吴氏（刘备妻） / Lady Wu (wife of Liu Bei)"
+    url: "/wiki/entities/ladywuliubei/"
   - key: "LiuZhangChengyangKingWesternHan"
     title: "城阳王刘章 / Liu Zhang (King of Chengyang)"
     url: "/wiki/entities/liuzhangchengyangkingwesternhan/"

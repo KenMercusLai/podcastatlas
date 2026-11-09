@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3468
+topic_total_pages: 3469
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3838,6 +3838,9 @@ topic_concepts:
   - key: "ReputationConstrainedPowerSeizure"
     title: "Reputation-Constrained Power Seizure / 声望约束下的夺权节奏"
     url: "/wiki/concepts/reputationconstrainedpowerseizure/"
+  - key: "ReputationSignalingHonoraryAppointment"
+    title: "Reputation-Signaling Honorary Appointment / 声望信号式荣誉任用"
+    url: "/wiki/concepts/reputationsignalinghonoraryappointment/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"

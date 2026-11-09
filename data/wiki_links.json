@@ -23123,6 +23123,10 @@
     "title": "Conquest Discipline as Legitimacy",
     "url": "/wiki/concepts/conquestdisciplinelegitimacy/"
   },
+  "ConquestEliteMarriageIntegration": {
+    "title": "Conquest Elite Marriage Integration / 征服后联姻整合",
+    "url": "/wiki/concepts/conquestelitemarriageintegration/"
+  },
   "ConquestRuptureContinuity": {
     "title": "Conquest Rupture and Continuity",
     "url": "/wiki/concepts/conquestrupturecontinuity/"
@@ -53511,6 +53515,10 @@
     "title": "孙夫人 / Lady Sun (wife of Liu Bei)",
     "url": "/wiki/entities/ladysunliubei/"
   },
+  "LadyWuLiuBei": {
+    "title": "吴氏（刘备妻） / Lady Wu (wife of Liu Bei)",
+    "url": "/wiki/entities/ladywuliubei/"
+  },
   "LadyWuSunJian": {
     "title": "吴夫人 / Lady Wu (Sun Jian)",
     "url": "/wiki/entities/ladywusunjian/"
@@ -56286,6 +56294,10 @@
   "LiuAngJiaoxiKingWesternHan": {
     "title": "胶西王刘昂 / Liu Ang, King of Jiaoxi (Western Han)",
     "url": "/wiki/entities/liuangjiaoxikingwesternhan/"
+  },
+  "LiuBa": {
+    "title": "刘巴 / Liu Ba",
+    "url": "/wiki/entities/liuba/"
   },
   "LiuBang": {
     "title": "Liu Bang / 刘邦",
@@ -72915,6 +72927,10 @@
     "title": "Post-Conquest Disarmament / 统一后收兵器",
     "url": "/wiki/concepts/postconquestdisarmament/"
   },
+  "PostConquestMonetaryExtraction": {
+    "title": "Post-Conquest Monetary Extraction / 战后货币财政汲取",
+    "url": "/wiki/concepts/postconquestmonetaryextraction/"
+  },
   "PostConquestPopulationRemoval": {
     "title": "Post-Conquest Population Removal / 征服后人口迁出",
     "url": "/wiki/concepts/postconquestpopulationremoval/"
@@ -77874,6 +77890,10 @@
   "ReputationListPersecutionTarget": {
     "title": "Reputation List as Persecution Target / 名望榜单迫害目标化",
     "url": "/wiki/concepts/reputationlistpersecutiontarget/"
+  },
+  "ReputationSignalingHonoraryAppointment": {
+    "title": "Reputation-Signaling Honorary Appointment / 声望信号式荣誉任用",
+    "url": "/wiki/concepts/reputationsignalinghonoraryappointment/"
   },
   "ReputationalRepairSecurityTradeoff": {
     "title": "声誉修复与安全风险权衡 / Reputational Repair–Security Tradeoff",
@@ -98663,6 +98683,10 @@
     "title": "吴阳 / Wu Yang (Yue marquis)",
     "url": "/wiki/entities/wuyangyuemarquis/"
   },
+  "WuYiLateHan": {
+    "title": "吴懿 / Wu Yi (late Han)",
+    "url": "/wiki/entities/wuyilatehan/"
+  },
   "WuYouLateHan": {
     "title": "吴祐 / Wu You (late Han)",
     "url": "/wiki/entities/wuyoulatehan/"
@@ -100014,6 +100038,10 @@
   "XuJingLateHan": {
     "title": "徐敬 / Xu Jing (late Han)",
     "url": "/wiki/entities/xujinglatehan/"
+  },
+  "XuJingShuHan": {
+    "title": "许靖 / Xu Jing (Shu-Han)",
+    "url": "/wiki/entities/xujingshuhan/"
   },
   "XuJinjin": {
     "title": "徐金金 / Xu Jinjin",
@@ -114454,6 +114482,10 @@
   "zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox": {
     "title": "《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox/"
+  },
+  "zizhi-tongjian-hanji-1146-liubei-qu-guafu-beihou-de-suanji-taishenle-lv4if2rvouqruziv8pt-klrcasfp": {
+    "title": "《资治通鉴·汉纪》1146丨刘备娶寡妇？背后的算计太深了！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1146-liubei-qu-guafu-beihou-de-suanji-taishenle-lv4if2rvouqruziv8pt-klrcasfp/"
   },
   "zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozilong-zhuan-lpesotvhdf7zmkqtuv90rdny1kgz": {
     "title": "《资治通鉴·汉纪》1147丨忠勇无双浑身是胆赵子龙传",

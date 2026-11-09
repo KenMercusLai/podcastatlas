@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11095
+wiki_total_pages: 11098
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "ReputationConstrainedTalentProtection"
     title: "Reputation-Constrained Talent Protection / 名声约束下的人才保护"
     url: "/wiki/concepts/reputationconstrainedtalentprotection/"
+  - key: "ReputationSignalingHonoraryAppointment"
+    title: "Reputation-Signaling Honorary Appointment / 声望信号式荣誉任用"
+    url: "/wiki/concepts/reputationsignalinghonoraryappointment/"
   - key: "Requerimiento"
     title: "Requerimiento"
     url: "/wiki/concepts/requerimiento/"

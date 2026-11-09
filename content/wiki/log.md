@@ -38934,3 +38934,11 @@ Added source `zizhi-tongjian-hanji-1147-zhongyong-wushuang-hunshen-shidan-zhaozi
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-09] ingest | 《资治通鉴·汉纪》1146丨刘备娶寡妇？背后的算计太深了！
+
+Added source `zizhi-tongjian-hanji-1146-liubei-qu-guafu-beihou-de-suanji-taishenle-lv4if2rvouqruziv8pt-klrcasfp`; created [[LiuBa|刘巴]], [[WuYiLateHan|吴懿]], [[LadyWuLiuBei|吴氏]], and the semantically disambiguated [[XuJingShuHan|许靖]]; and added [[PostConquestMonetaryExtraction|战后货币财政汲取]], [[ConquestEliteMarriageIntegration|征服后联姻整合]], and [[ReputationSignalingHonoraryAppointment|声望信号式荣誉任用]]. Core synthesis: Liu Ba's reported high-denomination coin, controlled exchange, and official procurement rebuild state purchasing power quickly while shifting uncertain costs toward old-money holders and suppliers; Liu Bei's marriage connects the conquering regime to Wu Yi and the former Yizhou network but does not recover Lady Wu's agency; and Xu Jing's appointment separates public honor from operating authority because treatment of a famous man affects the regime's wider talent signal. No settled contradiction was adopted. Coin mechanics and incidence, marriage consent and causal effect, historical-precedent validity, Xu Jing's surrender and competence, exact offices, dialogue, chronology, and motives remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, the global compaction gate was not due, and refreshed artifacts validate 4,880 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

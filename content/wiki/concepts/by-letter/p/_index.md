@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11095
+wiki_total_pages: 11098
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1577,6 +1577,9 @@ wiki_pages:
   - key: "PostConquestDisarmament"
     title: "Post-Conquest Disarmament / 统一后收兵器"
     url: "/wiki/concepts/postconquestdisarmament/"
+  - key: "PostConquestMonetaryExtraction"
+    title: "Post-Conquest Monetary Extraction / 战后货币财政汲取"
+    url: "/wiki/concepts/postconquestmonetaryextraction/"
   - key: "PostConquestPopulationRemoval"
     title: "Post-Conquest Population Removal / 征服后人口迁出"
     url: "/wiki/concepts/postconquestpopulationremoval/"
