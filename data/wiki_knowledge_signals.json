@@ -176389,9 +176389,9 @@
       "url": "/wiki/entities/liuangjiaoxikingwesternhan/"
     },
     "LiuBa": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lv4iF2RvoUqrUZiv8pt-KlRCASFp [lv4iF2RvoUqrUZiv8pt-KlRCASFp].md",
@@ -176399,6 +176399,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1146丨刘备娶寡妇？背后的算计太深了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1146-liubei-qu-guafu-beihou-de-suanji-taishenle-lv4if2rvouqruziv8pt-klrcasfp/"
+        },
+        {
+          "episode_file": "lo1sgKtQtSHlnDfBbeb2WH15IJwa [lo1sgKtQtSHlnDfBbeb2WH15IJwa].md",
+          "key": "zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1145丨刘备教你如何应对鄙视自己的人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa/"
         }
       ],
       "updated": "2026-11-09",
@@ -227876,6 +227883,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/personalexperienceworkplacegenderdecisions/"
+    },
+    "PersonalFrictionTalentUse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo1sgKtQtSHlnDfBbeb2WH15IJwa [lo1sgKtQtSHlnDfBbeb2WH15IJwa].md",
+          "key": "zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1145丨刘备教你如何应对鄙视自己的人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/personalfrictiontalentuse/"
     },
     "PersonalGuaranteeClemency": {
       "episode_count": 1,

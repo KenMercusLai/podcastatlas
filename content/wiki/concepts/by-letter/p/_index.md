@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11098
+wiki_total_pages: 11099
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "PersonalExperienceWorkplaceGenderDecisions"
     title: "Personal Experience and Workplace Gender Decisions"
     url: "/wiki/concepts/personalexperienceworkplacegenderdecisions/"
+  - key: "PersonalFrictionTalentUse"
+    title: "Personal Friction–Talent Use Separation / 个人好恶与人才使用分离"
+    url: "/wiki/concepts/personalfrictiontalentuse/"
   - key: "PersonalGuardAttackSurface"
     title: "Personal Guard Attack Surface / 贴身侍卫反噬"
     url: "/wiki/concepts/personalguardattacksurface/"
