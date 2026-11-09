@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](sources/7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6.md) — What's Next 对话小影科技韩晟，以视频创作为例讨论通用与垂直 Agent 协作、首版驱动的意图澄清、专业执行、模型成本、本地化和快速需求验证。
 - [All eyes on Eisenkot: Israel’s could-be prime minister](sources/all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743.md) — Economist Podcasts on Eisenkot’s minority-government attempt, satellite evidence of Ukrainian gains amid Russian deep strikes, and *Who’s Who* as an elite-history dataset.
 - [宏观经济如何传导给我们每个人？](sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt.md) — 面基与投资ABC邀请缪延亮，从一般均衡、中性利率、存款结构和美债安全性延伸到AI资本开支、劳动替代、通缩与分配。
 - [Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand](sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437.md) — How I Built This episode on Jack Halldrup building Dr. Squatch through cold-process soap, DTC demand creation, mascot-led rebranding, performance creative, retail expansion, and founder stage fit.
@@ -5003,6 +5004,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
+- [韩晟（小影科技） / Han Sheng (Xiaoying Technology)](entities/HanShengXiaoying.md) — 小影科技创始人兼 CEO，提出结果交付、草稿迭代及通用—垂直 Agent 协作的产品框架。
+- [小影科技 / Xiaoying Technology](entities/XiaoyingTechnology.md) — 从视频编辑与生成工具走向创作 Agent，并以本地共创和反馈推进海外市场的消费视频公司。
 - [Gadi Eisenkot](entities/GadiEisenkot.md) — Former IDF chief and opposition mandate-holder attempting a minority government after Israel’s 2026 election.
 - [Avigdor Lieberman](entities/AvigdorLieberman.md) — Israeli nationalist opposition leader whose Arab-party veto and ultra-Orthodox talks shape coalition formation.
 - [Who’s Who](entities/WhosWho.md) — British biographical annual whose consistent but selective entries form a longitudinal record of elite life.
@@ -19070,6 +19073,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [General–Vertical Agent Collaboration](concepts/GeneralVerticalAgentCollaboration.md) — 通用 Agent 持有广泛用户上下文、垂直 Agent 提供专业判断与执行的协作模式。
+- [Iterative Creative Agent](concepts/IterativeCreativeAgent.md) — 通过首版作品和局部修改发现隐性创作意图并逼近满意结果的 Agent 模式。
+- [Cultural Trend Localization](concepts/CulturalTrendLocalization.md) — 结合本地创作者、当下文化判断和产品行为反馈的动态本地化方法。
 - [Israeli Election 2026](concepts/IsraeliElection2026.md) — Post-October-7 accountability vote now in a certified-result formation phase centered on minority government and outside support.
 - [Civilian Infrastructure Air Campaign](concepts/CivilianInfrastructureAirCampaign.md) — Sustained drone-and-missile pressure on utilities, transport, commerce, industry, and population centers behind the front.
 - [Satellite Heat-Signature Conflict Monitoring](concepts/SatelliteHeatSignatureConflictMonitoring.md) — Repurposes orbital fire-detection data as a comparative proxy for explosion and frontline activity.

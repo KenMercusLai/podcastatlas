@@ -8330,6 +8330,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "8-gudai-de-gaosu-gonglu-qinhan-chidao-yu-luoma-dalu-lhldvw-jzrdg2kqafexwnzdidgli": [
     {
       "key": "history",
@@ -29387,6 +29399,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CulturalTrendLocalization": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CulturalValueNonuniversality": [
     {
       "key": "culture",
@@ -42295,6 +42314,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GeneralVerticalAgentCollaboration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Generalist": [
     {
       "key": "technology",
@@ -45291,6 +45317,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "HanShengXiaoying": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HanShu": [
@@ -51919,6 +51952,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "IterativeCreativeAgent": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Ithaca": [
@@ -99883,6 +99923,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "XiaoyingTechnology": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Xiaoyuzhou": [

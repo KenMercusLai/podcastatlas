@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11108
+wiki_total_pages: 11111
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "ItalianIrredentism"
     title: "Italian Irredentism"
     url: "/wiki/concepts/italianirredentism/"
+  - key: "IterativeCreativeAgent"
+    title: "Iterative Creative Agent"
+    url: "/wiki/concepts/iterativecreativeagent/"
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11108
+wiki_total_pages: 11111
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "GeneralEquilibriumPolicyTransmission"
     title: "General-Equilibrium Policy Transmission / 一般均衡式政策传导"
     url: "/wiki/concepts/generalequilibriumpolicytransmission/"
+  - key: "GeneralVerticalAgentCollaboration"
+    title: "General–Vertical Agent Collaboration"
+    url: "/wiki/concepts/generalverticalagentcollaboration/"
   - key: "GeneratedWorkInterfaces"
     title: "Generated Work Interfaces"
     url: "/wiki/concepts/generatedworkinterfaces/"

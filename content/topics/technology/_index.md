@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3780
+topic_total_pages: 3785
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2629,6 +2629,9 @@ topic_concepts:
   - key: "GeneralModelRobotBoundary"
     title: "General Model Robot Boundary"
     url: "/wiki/concepts/generalmodelrobotboundary/"
+  - key: "GeneralVerticalAgentCollaboration"
+    title: "General–Vertical Agent Collaboration"
+    url: "/wiki/concepts/generalverticalagentcollaboration/"
   - key: "GeneratedWorkInterfaces"
     title: "Generated Work Interfaces"
     url: "/wiki/concepts/generatedworkinterfaces/"
@@ -3118,6 +3121,9 @@ topic_concepts:
   - key: "IranLinkedCyberOperations"
     title: "Iran-Linked Cyber Operations"
     url: "/wiki/concepts/iranlinkedcyberoperations/"
+  - key: "IterativeCreativeAgent"
+    title: "Iterative Creative Agent"
+    url: "/wiki/concepts/iterativecreativeagent/"
   - key: "JapanGeopoliticalSupplyChainDividend"
     title: "Japan Geopolitical Supply-Chain Dividend / 日本地缘供应链红利"
     url: "/wiki/concepts/japangeopoliticalsupplychaindividend/"
@@ -9131,6 +9137,9 @@ topic_entities:
   - key: "Anbi"
     title: "安碧 / Anbi"
     url: "/wiki/entities/anbi/"
+  - key: "XiaoyingTechnology"
+    title: "小影科技 / Xiaoying Technology"
+    url: "/wiki/entities/xiaoyingtechnology/"
   - key: "XiaozhiAI"
     title: "小智AI / Xiaozhi AI"
     url: "/wiki/entities/xiaozhiai/"
@@ -9350,6 +9359,9 @@ topic_entities:
   - key: "HanXinyi"
     title: "韩新毅 / Han Xinyi"
     url: "/wiki/entities/hanxinyi/"
+  - key: "HanShengXiaoying"
+    title: "韩晟（小影科技） / Han Sheng (Xiaoying Technology)"
+    url: "/wiki/entities/hanshengxiaoying/"
   - key: "ChineseUniversityOfHongKong"
     title: "香港中文大学 / Chinese University of Hong Kong"
     url: "/wiki/entities/chineseuniversityofhongkong/"
@@ -11331,6 +11343,9 @@ topic_sources:
   - key: "zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew"
     title: "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan"
     url: "/wiki/sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew/"
+  - key: "7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6"
+    title: "通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35"
+    url: "/wiki/sources/7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6/"
   - key: "lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc"
     title: "锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾"
     url: "/wiki/sources/lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc/"

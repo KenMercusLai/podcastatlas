@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 13978
+wiki_total_pages: 13980
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "Xiaopingjin"
     title: "小平津 / Xiaopingjin"
     url: "/wiki/entities/xiaopingjin/"
+  - key: "XiaoyingTechnology"
+    title: "小影科技 / Xiaoying Technology"
+    url: "/wiki/entities/xiaoyingtechnology/"
   - key: "XiaoShiHost"
     title: "小时"
     url: "/wiki/entities/xiaoshihost/"

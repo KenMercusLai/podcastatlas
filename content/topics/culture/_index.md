@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3628
+topic_total_pages: 3629
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1051,6 +1051,9 @@ topic_concepts:
   - key: "CulturalParticipationEvent"
     title: "Cultural Participation Event / 文化参与事件"
     url: "/wiki/concepts/culturalparticipationevent/"
+  - key: "CulturalTrendLocalization"
+    title: "Cultural Trend Localization"
+    url: "/wiki/concepts/culturaltrendlocalization/"
   - key: "CulturalValueNonuniversality"
     title: "Cultural Value Nonuniversality / 文化价值的非普遍性"
     url: "/wiki/concepts/culturalvaluenonuniversality/"
