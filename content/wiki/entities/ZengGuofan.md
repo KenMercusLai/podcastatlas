@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu
   - 501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o
   - 9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza
-last_updated: 2026-10-09
+  - zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx
+last_updated: 2026-11-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,9 +28,11 @@ The intellectual profile is synthetic rather than sectarian. The new source pres
 
 These uses should not become one heroic success formula. Zeng's routines can support [[LongTermAchievementDiscipline|long-term discipline]], but household resources, elite office, patronage, civil war, historical opportunity, repression, massacre, and personal abrasiveness remain part of the causal and moral record. The bounded sources therefore preserve practical lessons while refusing to let later admiration settle his total historical judgment.
 
+Hanji 1142 adds postwar threat reduction to that mixed profile. It says Zeng demobilized much of the Xiang Army, moved his ambitious brother out of immediate office, and paid an eight-wan-liang reimbursement fee to signal obedience after the Taiping victory. These actions fit [[HighMeritThreatManagement|功高不震主]] as deliberate military, household, and procedural self-limitation, but the source's details, motives, direct debt to [[GuoZiyi|郭子仪]], and “model minister” judgment require corroboration.
+
 ## Key Characteristics
 
-- Built late-Qing military capacity through [[PersonalNetworkMilitaryOrganization|personal networks]], material support, discipline, and ideological mobilization.
+- Built late-Qing military capacity through [[PersonalNetworkMilitaryOrganization|personal networks]], material support, discipline, and ideological mobilization, then reportedly reduced military and household threat signals after victory.
 - Belonged to a statecraft generation prepared by earlier personnel and administrative networks but still constrained by formalism.
 - Drew pragmatically on several Confucian and scholarly lineages rather than fitting one exclusive school.
 - Practiced and later symbolized sustained self-examination, reading, writing, and disciplined routine.
@@ -46,17 +49,17 @@ These uses should not become one heroic success formula. Zeng's routines can sup
 - Moral practice and anti-jealousy: [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v]] presents him as a reader of 《了凡四训》, while [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]] cites advice against self-exalting comparison.
 - Personnel judgment: [[zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu]] uses Zeng's reputation while qualifying 《冰鉴》 authorship and traditional physiognomy.
 - Reception and moral contest: [[9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza]] connects his later popularity to reform-era success narratives while retaining court suspicion, repression, massacre, and unstable evaluation.
+- Postwar self-limitation: [[zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx|Hanji 1142]] links Xiang Army demobilization, his brother's withdrawal, and reimbursement compliance to deliberate reduction of imperial suspicion.
 
 ## Qualifications
 
-The source set remains selective rather than a full biography. Childhood and person-reading anecdotes may be legendary; physiognomy is not modern selection science; fate claims remain spiritual or philosophical; and claims about assassination, rebellion proposals, massacre, intellectual lineage, political leaders' reading, and motives require direct historical verification. The new source discusses Zeng partly through a novel and a podcast review, so fictional characterization and historical evidence must remain distinct.
+The source set remains selective rather than a full biography. Childhood and person-reading anecdotes may be legendary; physiognomy is not modern selection science; fate claims remain spiritual or philosophical; and claims about assassination, rebellion proposals, massacre, intellectual lineage, political leaders' reading, and motives require direct historical verification. One source discusses Zeng partly through a novel and a podcast review, so fictional characterization and historical evidence must remain distinct. Hanji 1142's exact demobilization scale, family maneuver, payment, motivation, Guo Ziyi influence, and survival causation are interpretive claims rather than a complete administrative record.
 
 ## What Changed
 
-- Added Zeng's Xiang Army organization through private networks, incentives, discipline, and ideological mobilization.
-- Added his multi-lineage Confucian learning and role in Wang Fuzhi's late-Qing reception.
-- Bounded daily-discipline and team-building lessons by household resources, office, war, and historical opportunity.
-- Made repression, massacre, and political suspicion explicit constraints on heroic or success-oriented reception.
+- Added postwar demobilization, family de-escalation, and bureaucratic compliance as a source-scoped threat-reduction strategy.
+- Connected the same personal-network army that created crisis capacity to the need for visible self-limitation after victory.
+- Preserved repression, massacre, and political suspicion as constraints on heroic or success-oriented reception.
 
 ## Relationships
 
@@ -70,3 +73,5 @@ The source set remains selective rather than a full biography. Childhood and per
 - [[StatecraftGenerationRelay]] - earlier personnel and administrative network leading into Zeng's cohort.
 - [[ContextBoundSuccessNarrative]] - reception framework separating usable practices from a universal success formula.
 - [[TaipingRebellion]] - civil war in which his organization, achievement, repression, and violence were formed.
+- [[HighMeritThreatManagement]] - framework for the episode's claim that Zeng traded part of his military and family leverage for sovereign reassurance.
+- [[GuoZiyi]] - earlier minister presented by Hanji 1142 as a model of merit joined to humility and ruler confidence.

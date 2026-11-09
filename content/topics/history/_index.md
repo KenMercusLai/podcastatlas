@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2779
+topic_total_pages: 2778
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1255,9 +1255,6 @@ topic_concepts:
   - key: "RifWar"
     title: "Rif War"
     url: "/wiki/concepts/rifwar/"
-  - key: "RitualRecognitionOfMilitaryPower"
-    title: "Ritual Recognition of Military Power / 礼制承认军事权力"
-    url: "/wiki/concepts/ritualrecognitionofmilitarypower/"
   - key: "RitualTourSummonsEntrapment"
     title: "Ritual-Tour Summons Entrapment / 巡游会侯式诱捕"
     url: "/wiki/concepts/ritualtoursummonsentrapment/"

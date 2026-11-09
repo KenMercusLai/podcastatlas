@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17
   - zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm
   - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi
-last_updated: 2026-10-10
+  - zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx
+last_updated: 2026-11-09
 ---
 
 ## Definition
@@ -20,6 +21,8 @@ The current evidence identifies three mechanisms. Hanji 1065 develops contributo
 
 Zhouji 05 part 3 adds a non-punitive recognition mechanism. After [[LeYang|乐羊]]'s long Zhongshan victory produces pride, [[WeiWenhou|魏文侯]] shows him the hostile memorials absorbed during the campaign. The commander then acknowledges that battlefield achievement depended partly on political protection. Hierarchy is restored by making interdependence visible, not by denying the commander's contribution.
 
+Hanji 1142 adds matched positive and negative cases. [[ZengGuofan|曾国藩]] is said to reduce the [[XiangArmy|湘军]], lower his brother's visibility, and comply with reimbursement procedure after victory, distributing reassurance across military, family, and bureaucratic channels. [[NianGengyao|年羹尧]], by contrast, is presented as turning victory and imperial favor into monopolized authority and discourteous behavior. The comparison sharpens the mechanism: threat perception depends not only on objective capability but on whether post-victory conduct signals bounded service or autonomous standing.
+
 ## Key Claims
 
 - High merit becomes dangerous when achievement is converted into permanent entitlement, public familiarity, boasting, weak reporting, independent force, or rival reputation.
@@ -28,6 +31,7 @@ Zhouji 05 part 3 adds a non-punitive recognition mechanism. After [[LeYang|乐�
 - Conditional redeployment can repair hierarchy when criticism is followed by a credible obedience signal and bounded responsibility.
 - Revealing the hidden support behind success can correct pride without humiliation, prosecution, or waste of capability.
 - Crisis and consolidation change the balance between scarce ability, loyalty, etiquette, and control.
+- Postwar reassurance is multidimensional: command reduction, family de-escalation, procedural compliance, and etiquette can jointly signal that achievement will not become rival sovereignty.
 
 ## Evidence
 
@@ -35,16 +39,17 @@ Zhouji 05 part 3 adds a non-punitive recognition mechanism. After [[LeYang|乐�
 - Accountability without disposal: [[zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm|Hanji 356-1]] says Yang Pu's victory does not erase alleged faults, but renewed submission leads to another military assignment.
 - Interdependence made visible: [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi|Zhouji 05 part 3]] says Wei Wenhou's box of hostile memorials shows Le Yang that the three-year campaign survived because command execution and ruler backing worked together.
 - Phase-sensitive hierarchy: [[zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17|Hanji 1065]] contrasts crisis reliance on ability with settled-order emphasis on loyalty and threat reduction; [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi|Zhouji 05 part 3]] locates the correction immediately after conquest.
+- Military, family, procedural, and etiquette signals: [[zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx|Hanji 1142]] contrasts Zeng Guofan's reported demobilization and compliance with Nian Gengyao's reported post-victory arrogance.
 
 ## Counterevidence & Qualifications
 
-All three sources are interpretive podcast episodes rather than controlled comparisons. Hanji 1065 compresses many biographies into advisory examples; Hanji 356-1 does not independently establish the fairness of all charges or the emperor's private motive; Zhouji 05 part 3 does not verify the exact memorials or Le Yang's inner state. Superiors can manufacture “threat” from insecurity, and returning credit can become coercive self-erasure. The concept therefore describes a power and coordination problem, not a moral presumption that hierarchy is always right.
+All four sources are interpretive podcast episodes rather than controlled comparisons. Hanji 1065 compresses many biographies into advisory examples; Hanji 356-1 does not independently establish the fairness of all charges or the emperor's private motive; Zhouji 05 part 3 does not verify the exact memorials or Le Yang's inner state. Hanji 1142 does not independently verify Zeng's precise demobilization, payment, motives, or direct Guo Ziyi influence, nor does it establish the causal weight of Nian's etiquette or private self-understanding. Superiors can manufacture “threat” from insecurity, and returning credit can become coercive self-erasure. The concept therefore describes a power and coordination problem, not a moral presumption that hierarchy is always right.
 
 ## What Changed
 
-- Added a pre-imperial, non-punitive hierarchy-repair case from Wei Wenhou and Le Yang.
-- Distinguished “make hidden support visible” from reprimand, redeployment, command surrender, or exit.
-- Clarified that joint production of success can reduce both commander arrogance and ruler credit appropriation.
+- Added Zeng Guofan and Nian Gengyao as contrasting post-victory cases.
+- Extended threat reduction from credit and command to family visibility, bureaucratic compliance, and etiquette.
+- Clarified that the same conduct can be prudent reassurance under concentrated sovereignty without proving that sovereign suspicion is morally justified.
 
 ## Related Concepts
 
@@ -55,3 +60,5 @@ All three sources are interpretive podcast episodes rather than controlled compa
 - [[MeritShieldedAccountability]] - contrasting pattern where achievement softens or blocks accountability.
 - [[CommandDisciplineAuthority]] - adjacent framework for making orders, reporting, timing, and sanctions credible.
 - [[SpecialistDelegationLeadership]] - complements threat management by explaining why the superior still needs capable subordinates.
+- [[ZengGuofan]] - positive source example of deliberate postwar self-limitation.
+- [[NianGengyao]] - negative source example of achievement read as autonomous standing and disrespect.

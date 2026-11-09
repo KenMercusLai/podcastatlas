@@ -38895,3 +38895,11 @@ Added source `721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-pa
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-09] ingest | 《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？
+
+Added source `zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx`; resynthesized [[CaoCao|曹操]], [[CharlesMartel|Charles Martel]], [[ZengGuofan|曾国藩]], [[NianGengyao|年羹尧]], [[RitualRecognitionOfMilitaryPower|礼制承认军事权力]], and [[HighMeritThreatManagement|功高不震主]] from their preserved evidence inventories before appending the new source once. Core synthesis: Cao Cao's 213 CE seal, ribbon, and crown grant made accumulated command and administrative power publicly legible as near-princely rank; the Charles Martel comparison is retained only as a bounded analogy about effective rule and a son's later dynastic replacement; and Zeng Guofan's reported demobilization, family de-escalation, and procedural compliance contrast with Nian Gengyao's reported post-victory threat signals. No settled contradiction was adopted. Insignia rules, administrative autonomy, intentions, a repeatable transition model, exact Zeng demobilization and payment details, Guo Ziyi influence, Nian's psychology, the ninety-two charges, and the weight of etiquette remain source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. The closing “宛城” preview is normalized through existing [[WanChengLujiang|皖城]] context rather than confused with [[WanCounty|宛县 / 宛城]]. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,874 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

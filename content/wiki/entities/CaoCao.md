@@ -60,7 +60,8 @@ sources:
   - zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz
   - zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x
   - zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx
+last_updated: 2026-11-09
 ---
 
 ## Overview
@@ -75,6 +76,8 @@ Hanji 1080 adds a post-victory feedback case after the Wuhuan campaign. Cao Cao 
 
 Hanji 1115 adds Cao Cao's own public explanation of accumulated power. [[SelfClarificationEdict|《自明本志令》]] turns his early ambitions and northern campaigns into a claim that his authority limited further fragmentation. His willingness to return part of his fief but refusal to surrender command sharpens the profile: military power is presented not only as a means of expansion but as security infrastructure for himself, his descendants, and the order he says he preserves. The same episode places [[TongquePlatform|铜雀台]] at [[YeLateHan|邺城]] as monumental political display while separating it from the novel's chronologically impossible “locking the Two Qiaos” scene.
 
+Hanji 1142 adds the public ritual recognition of that accumulated power. Its account of [[EmperorXianOfHan|汉献帝]] granting a gold seal, red ribbon, and distant-travel crown in 213 CE argues that insignia associated with the imperial house made Cao Cao's exceptional position visible before formal dynastic replacement. The source links the display to Cao Cao's separate Wei administration and to [[CaoPi|曹丕]]'s later accession, but the legal meaning of each object and a universal “Cao Cao model” remain source-scoped.
+
 The source set does not support a purely heroic profile. Cao Song's death leads into the [[XuzhouMassacreLateHan|徐州屠杀]] branch; the killing of [[BianRangLateHan|边让]] helps trigger local-elite panic; the Wancheng disaster links sexual desire to command exposure and the deaths of [[DianWei|典韦]] and [[CaoAng|曹昂]]; and cases involving [[MiHengLateHan|祢衡]] and [[YangBiao|杨彪]] show how reputation management and political control could become coercive. Cao Cao's distinctive strength in these sources is therefore adaptive state-building, not moral consistency.
 
 ## Key Characteristics
@@ -82,7 +85,7 @@ The source set does not support a purely heroic profile. Cao Song's death leads 
 - Repeated exit-and-reentry actor whose dismissals, resignation, and 189 CE flight progressively widen his independence.
 - Base-and-logistics builder who joins territory, surrendered populations, farming, grain, and military supply.
 - Adviser-centered commander who can act on counsel and, after the Wuhuan victory, protect rejected warnings from outcome-based retaliation.
-- Legitimacy entrepreneur who preserves and operationalizes the Han emperor's authority, then publicly explains his own exceptional command through order, merit, and survival.
+- Legitimacy entrepreneur who operationalizes the Han emperor's authority, publicly explains exceptional command through order and survival, and receives ritual signs that make near-princely status visible.
 - Selective incorporator who can execute untrustworthy leaders while rewarding surrenderers, advisers, and local elites.
 - Morally and operationally volatile ruler whose revenge, suspicion, prosecution, and private appetites can create civilian catastrophe or strategic exposure.
 
@@ -92,17 +95,17 @@ The source set does not support a purely heroic profile. Cao Song's death leads 
 - Adviser and institution building: [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], and [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] ground talent attraction, adviser architecture, emperor-backed legitimacy, and屯田 logistics.
 - Post-victory dissent protection: [[zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x|Hanji 1080]] says Cao Cao rewards the people who had advised against the Wuhuan campaign and distinguishes fortunate success from a safely repeatable decision.
 - Public self-justification and command retention: [[zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs|Hanji 1115]] links Cao Cao's career narrative and anti-fragmentation claim to a partial fief concession and an explicit refusal to surrender military power.
+- Ritual elevation and succession path: [[zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx|Hanji 1142]] interprets the 213 CE seal, ribbon, and crown grant as visible recognition of authority approaching princely rank and connects Cao Cao's Wei administration to Cao Pi's later accession.
 - Monument and literary afterlife: [[zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs|Hanji 1115]] treats Tongque Platform as political display at Ye while rejecting the Two-Qiaos persuasion scene as history on chronological grounds.
 - Coercion and moral cost: [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]], [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]], and [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] show revenge violence, local-elite fear, indirect elimination, and desire-driven command exposure.
 - Differentiated settlement: [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]], [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], and [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] show siege persistence, execution of leaders judged unsafe, incorporation of surrenderers, and court-title management of regional actors.
 
 ## Qualifications
-The page synthesizes podcast source notes rather than offering an exhaustive biography. Several episodes use modern management language or infer inner motives from outcomes; those claims remain source-scoped. Genealogy before Cao Song, the precise legal mechanics of Cao Cao's earliest appointment, the motive for resigning from Jinan, and many reported dialogues are not independently settled here. Hanji 1103 also ends before resolving who financed Cao Cao's first recruitment at Chenliu. Hanji 1080's exact reward speech, campaign hardship figures, literary mind-reading, and claim that Guo Jia's death divides Cao Cao's career remain source-scoped. Hanji 1115's modern-language edict rendering, bronze-bird legend, and comparative literary or political rankings likewise require direct textual corroboration. The edict shows Cao Cao's public positioning but cannot by itself settle every private motive. Contradictory textual attribution for Cao Song's death remains explicit rather than being flattened into a single culprit.
+The page synthesizes podcast source notes rather than offering an exhaustive biography. Several episodes use modern management language or infer inner motives from outcomes; those claims remain source-scoped. Genealogy before Cao Song, the precise legal mechanics of Cao Cao's earliest appointment, the motive for resigning from Jinan, and many reported dialogues are not independently settled here. Hanji 1103 also ends before resolving who financed Cao Cao's first recruitment at Chenliu. Hanji 1080's exact reward speech, campaign hardship figures, literary mind-reading, and claim that Guo Jia's death divides Cao Cao's career remain source-scoped. Hanji 1115's modern-language edict rendering, bronze-bird legend, and comparative literary or political rankings likewise require direct textual corroboration. Hanji 1142's insignia rules, administrative-independence claim, implied intentions, and cross-cultural transition model also require direct institutional comparison. The edict and ritual grants show public positioning but cannot by themselves settle every private motive. Contradictory textual attribution for Cao Song's death remains explicit rather than being flattened into a single culprit.
 
 ## What Changed
-- Added the *Self-Clarification Edict* as Cao Cao's public account of how limited early ambition became exceptional authority.
-- Distinguished a partial fief concession from the non-negotiable retention of military command.
-- Added Tongque Platform as monumental political display while separating its history from the novel's Two-Qiaos scene.
+- Added the 213 CE insignia grant as public ritual recognition of Cao Cao's near-princely authority.
+- Connected visible rank, the separate Wei administration, and Cao Pi's later accession without treating them as an automatic or universal transition formula.
 - Preserved the earlier judgment that adviser use, logistics, legitimacy, incorporation, coercion, and volatility coexist in the profile.
 
 ## Relationships
@@ -120,3 +123,4 @@ The page synthesizes podcast source notes rather than offering an exhaustive bio
 - [[SelfClarificationEdict]] - text in which Cao Cao narrates his merit and defines the boundary of acceptable concession.
 - [[TongquePlatform]] - Ye monument that projects Cao Cao's authority and acquires a fictional Two-Qiaos afterlife.
 - [[PowerRetentionSelfJustification]] - pattern joining retrospective merit, bounded concession, and refusal to disarm.
+- [[RitualRecognitionOfMilitaryPower]] - explains how rank objects can ratify and publicize power already accumulated through command and administration.

@@ -41150,9 +41150,9 @@
       "url": "/wiki/entities/caobuguipodcastguest/"
     },
     "CaoCao": {
-      "episode_count": 56,
+      "episode_count": 57,
       "show_count": 1,
-      "source_note_count": 56,
+      "source_note_count": 57,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -41545,9 +41545,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
+        },
+        {
+          "episode_file": "ljxAtZ6LgNC47viErY3WUsWXI7rX [ljxAtZ6LgNC47viErY3WUsWXI7rX].md",
+          "key": "zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/caocao/"
     },
     "CaoChongLateHan": {
@@ -46515,9 +46522,9 @@
       "url": "/wiki/entities/charleslyell/"
     },
     "CharlesMartel": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5104943454 [GLT5104943454].md",
@@ -46532,9 +46539,16 @@
           "show": "The Rest Is History",
           "title": "522. Warlords of the West: A Clash of Ice and Fire (Part 3)",
           "url": "/wiki/sources/522-warlords-of-the-west-a-clash-of-ice-and-fire-part-3-glt3154320009/"
+        },
+        {
+          "episode_file": "ljxAtZ6LgNC47viErY3WUsWXI7rX [ljxAtZ6LgNC47viErY3WUsWXI7rX].md",
+          "key": "zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/charlesmartel/"
     },
     "CharlesPonzi": {
@@ -133514,9 +133528,9 @@
       "url": "/wiki/concepts/highintensityresistancetraining/"
     },
     "HighMeritThreatManagement": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -133538,9 +133552,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》05丨光彩夺目的魏文侯（3）",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-3-lqbr7i9s82pi1jptizs18gidsipi/"
+        },
+        {
+          "episode_file": "ljxAtZ6LgNC47viErY3WUsWXI7rX [ljxAtZ6LgNC47viErY3WUsWXI7rX].md",
+          "key": "zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
     "HighOfficeRefusalAsRiskAvoidance": {
@@ -211607,6 +211628,29 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/nikuang/"
     },
+    "NianGengyao": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案 [547265513].md",
+          "key": "11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513",
+          "show": "蜜獾吃书",
+          "title": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案",
+          "url": "/wiki/sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513/"
+        },
+        {
+          "episode_file": "ljxAtZ6LgNC47viErY3WUsWXI7rX [ljxAtZ6LgNC47viErY3WUsWXI7rX].md",
+          "key": "zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/niangengyao/"
+    },
     "Nibbo": {
       "episode_count": 1,
       "show_count": 1,
@@ -252598,6 +252642,43 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/ritualpreventionandlegalresponse/"
+    },
+    "RitualRecognitionOfMilitaryPower": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1） [liwkaYGJTYAfxXpDWzq9PDHUzROI].md",
+          "key": "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》18丨中国历史上第一例人头税 [lgQNeqUk0rxeJQGiHWDQxqyQNsVq].md",
+          "key": "zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》18丨中国历史上第一例人头税",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》11丨 世界风起云涌（1） [lt60B2gdDIosF5kaDE35uopWoHi5].md",
+          "key": "zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》11丨 世界风起云涌（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5/"
+        },
+        {
+          "episode_file": "ljxAtZ6LgNC47viErY3WUsWXI7rX [ljxAtZ6LgNC47viErY3WUsWXI7rX].md",
+          "key": "zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/ritualrecognitionofmilitarypower/"
     },
     "RitualRenunciationPoliticalCapital": {
       "episode_count": 1,
@@ -327516,9 +327597,9 @@
       "url": "/wiki/entities/zaohaowu/"
     },
     "ZengGuofan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
@@ -327561,9 +327642,16 @@
           "show": "怪东西Weird History",
           "title": "9 历史小说内外的曾国藩",
           "url": "/wiki/sources/9-lishi-xiaoshuo-neiwai-de-zengguofan-lo67k333npm5m668-dmjiqtchvza/"
+        },
+        {
+          "episode_file": "ljxAtZ6LgNC47viErY3WUsWXI7rX [ljxAtZ6LgNC47viErY3WUsWXI7rX].md",
+          "key": "zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/zengguofan/"
     },
     "ZengGuofanNovel": {

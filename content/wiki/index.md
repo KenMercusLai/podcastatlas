@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？](sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx.md) — 芮淇讲透资治通鉴以曹操获授近王者礼器、查理·马特的类比及曾国藩与年羹尧的对照，讨论权力可视化、王朝更替与功高震主。
 - [《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？](sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy.md) — 芮淇讲透资治通鉴 episode on self-validated relationship boundaries, reciprocal etiquette in the Mencius divorce anecdote, and Lyu Meng's supply- and water-timed rapid capture of Lujiang's 皖城.
 - [《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？](sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox.md) — 芮淇讲透资治通鉴 episode on Pang Tong's death at 雒城, complementary adviser roles, later 落凤坡 memory, Ma Chao's psychological pressure, and Liu Zhang's surrender at Chengdu.
 - [体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？](sources/gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4.md) — 声动早咖啡以 Klook 解释目的地体验平台为何会在订单增长中同时承担非标准供给、内容获客、线下履约、售后协调与区域集中成本。
@@ -16045,7 +16046,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吕留良 / Lu Liuliang](entities/LuLiuliang.md) — Scholar whose anti-Qing writings became the ideological target of the Zeng Jing case and related literary inquisition.
 - [乾隆 / Qianlong Emperor](entities/QianlongEmperor.md) — Qing emperor linked both to the Zeng Jing reversal and to Hanji 920's Tongleyuan buy/sell street comparison.
 - [李卫 / Li Wei](entities/LiWeiQingOfficial.md) — Qing official whose search of the Lu Liuliang household shifted the case toward books, diaries, descendants, and students.
-- [年羹尧 / Nian Gengyao](entities/NianGengyao.md) — Recently fallen Qing official whose purge shaped Yue Zhongqi's fear and the anti-"逆书" atmosphere around the case.
+- [年羹尧 / Nian Gengyao](entities/NianGengyao.md) — Qing commander whose purge shaped Yue Zhongqi's fear and whose post-victory conduct is used to examine merit, etiquette, and sovereign threat perception.
 - [曹寅 / Cao Yin](entities/CaoYin.md) — Qing imperial bondservant, Jiangning weaver, fiscal operator, cultural broker, and Kangxi confidant central to episode 101.
 - [康熙 / Kangxi Emperor](entities/KangxiEmperor.md) — 既通过包衣、南巡与密折呈现历史治理，又在《鹿鼎记》中以对韦小宝的真情、驾驭、宽恕与代理行动体现不对等主权的清帝。
 - [清代曹家 / Cao Family In Qing](entities/CaoFamilyQing.md) — Cao Xueqin's family background read through bondservant status, imperial favor, deficits, succession weakness, and confiscation.
@@ -24604,7 +24605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Military Merit Rank System / 军功爵制](concepts/MilitaryMeritRankSystem.md) — Status mechanism that converts battlefield achievement into rank, privilege, and social mobility while still leaving officials exposed to faction and succession risk.
 - [徙木立信 / Moving the Log to Build Trust](concepts/XimuLixin.md) — Shang Yang's public reward demonstration for making Qin's future legal rewards and punishments believable.
 - [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Pattern in which Qin's eastern expansion forces rival states to react, from battlefield pressure and hostage diplomacy to Yiyang administration and coalition rebound.
-- [Ritual Recognition of Military Power / 礼制承认军事权力](concepts/RitualRecognitionOfMilitaryPower.md) — Interpretation of Zhou Xian Wang's 黻服 gift as symbolic ratification of Qin Xian Gong's military status.
+- [Ritual Recognition of Military Power / 礼制承认军事权力](concepts/RitualRecognitionOfMilitaryPower.md) — Rank objects and ceremonies that make battlefield, administrative, or transitional dynastic power publicly legible.
 - [十二华章政治象征 / Twelve Insignia Political Symbolism](concepts/TwelveInsigniaPoliticalSymbolism.md) — Pre-Qin garment-symbol vocabulary used in Zhouji 11 to explain why 黻服 could carry political meaning.
 - [Talent Attraction Through Respect / 礼贤下士式人才吸附](concepts/TalentAttractionThroughRespect.md) — Wei Wenhou's ruler-image mechanism where respect for scholars and recluses attracts capable people without coercion.
 - [Small Trust Builds Large Trust / 小信诚则大信立](concepts/SmallTrustBuildsLargeTrust.md) — Statecraft principle where minor kept promises build credibility, now contrasted with Shang Yang's coercive 徙木立信 use.
