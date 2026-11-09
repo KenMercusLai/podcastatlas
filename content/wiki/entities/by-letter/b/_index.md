@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13974
+wiki_total_pages: 13978
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "BloombergNEF"
     title: "BloombergNEF"
     url: "/wiki/entities/bloombergnef/"
+  - key: "Bloomsbury"
+    title: "Bloomsbury"
+    url: "/wiki/entities/bloomsbury/"
   - key: "BlueBottleCoffee"
     title: "Blue Bottle Coffee / 蓝瓶子"
     url: "/wiki/entities/bluebottlecoffee/"

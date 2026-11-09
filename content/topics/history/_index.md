@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2778
+topic_total_pages: 2780
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -853,6 +853,9 @@ topic_concepts:
   - key: "LongTermAchievementDiscipline"
     title: "Long-Term Achievement Discipline / 长期成事纪律"
     url: "/wiki/concepts/longtermachievementdiscipline/"
+  - key: "LongitudinalEliteBiographicalDataset"
+    title: "Longitudinal Elite Biographical Dataset"
+    url: "/wiki/concepts/longitudinalelitebiographicaldataset/"
   - key: "LostCivilizationPseudohistory"
     title: "Lost Civilization Pseudohistory"
     url: "/wiki/concepts/lostcivilizationpseudohistory/"
@@ -2606,6 +2609,9 @@ topic_entities:
   - key: "WesternHanDynasty"
     title: "Western Han dynasty / 西汉"
     url: "/wiki/entities/westernhandynasty/"
+  - key: "WhosWho"
+    title: "Who’s Who"
+    url: "/wiki/entities/whoswho/"
   - key: "WilliamMcChesneyMartin"
     title: "William McChesney Martin"
     url: "/wiki/entities/williammcchesneymartin/"

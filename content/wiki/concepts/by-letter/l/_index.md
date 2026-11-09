@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11106
+wiki_total_pages: 11108
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "LongitudinalChatbotSafetyEvaluation"
     title: "Longitudinal Chatbot Safety Evaluation"
     url: "/wiki/concepts/longitudinalchatbotsafetyevaluation/"
+  - key: "LongitudinalEliteBiographicalDataset"
+    title: "Longitudinal Elite Biographical Dataset"
+    url: "/wiki/concepts/longitudinalelitebiographicaldataset/"
   - key: "LongitudinalMultimodalScreening"
     title: "Longitudinal Multimodal Screening"
     url: "/wiki/concepts/longitudinalmultimodalscreening/"

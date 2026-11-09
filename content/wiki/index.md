@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [All eyes on Eisenkot: Israel’s could-be prime minister](sources/all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743.md) — Economist Podcasts on Eisenkot’s minority-government attempt, satellite evidence of Ukrainian gains amid Russian deep strikes, and *Who’s Who* as an elite-history dataset.
 - [宏观经济如何传导给我们每个人？](sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt.md) — 面基与投资ABC邀请缪延亮，从一般均衡、中性利率、存款结构和美债安全性延伸到AI资本开支、劳动替代、通缩与分配。
 - [Dr. Squatch: Jack Halldrup. From a Closet Full of Soap to a $1.5 Billion Brand](sources/dr-squatch-jack-halldrup-from-a-closet-full-of-soap-to-a-1-5-billion-brand-vmp1750831437.md) — How I Built This episode on Jack Halldrup building Dr. Squatch through cold-process soap, DTC demand creation, mascot-led rebranding, performance creative, retail expansion, and founder stage fit.
 - [《资治通鉴·汉纪》1145丨刘备教你如何应对鄙视自己的人？](sources/zizhi-tongjian-hanji-1145-liubei-jiao-ni-ruhe-yingdui-bishi-ziji-de-ren-lo1sgktqtshlndfbbeb2wh15ijwa.md) — 芮淇讲透资治通鉴以刘巴避刘、谏刘璋、冷待张飞而仍获刘备任用，讨论个人冒犯、士人独立与稀缺能力之间的分离判断。
@@ -5002,6 +5003,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 
 ## Entities
+- [Gadi Eisenkot](entities/GadiEisenkot.md) — Former IDF chief and opposition mandate-holder attempting a minority government after Israel’s 2026 election.
+- [Avigdor Lieberman](entities/AvigdorLieberman.md) — Israeli nationalist opposition leader whose Arab-party veto and ultra-Orthodox talks shape coalition formation.
+- [Who’s Who](entities/WhosWho.md) — British biographical annual whose consistent but selective entries form a longitudinal record of elite life.
+- [Bloomsbury](entities/Bloomsbury.md) — Publisher whose planned sale of *Who’s Who* creates uncertainty about the reference series’ continuity.
+- [Operation Vivaldi](entities/OperationVivaldi.md) — Source-reported four-stage Ukrainian counteroffensive that disrupted part of a Russian encirclement effort.
 - [缪延亮 / Miao Yanliang](entities/MiaoYanliang.md) — Economist linking general-equilibrium reasoning and policy feedback to rates, U.S. debt, asset prices, and AI as a macro variable.
 - [厚望 / Hou Wang](entities/HouWangMianji.md) — 面基 host translating macro models, investment narratives, and AI into practical judgment questions.
 - [《货币的秩序》 / The Order of Money](entities/HuobiDeZhixu.md) — 缪延亮 book represented as context for money, debt, rates, and international monetary order.
@@ -15529,7 +15535,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Benjamin Netanyahu](entities/BenjaminNetanyahu.md) — Israeli prime minister whose post-October-7 leadership, coalition dependence, and dealmaking anchor the Bibi election source.
 - [Naftali Bennett](entities/NaftaliBennett.md) — Former Israeli prime minister and Together opposition figure in the 2026 election source.
 - [Yair Lapid](entities/YairLapid.md) — Former Israeli prime minister and Together opposition figure whose role illustrates anti-Netanyahu coalition arithmetic.
-- [Gadi Eisenkot](entities/GadiEisenkot.md) — Former IDF chief and opposition figure whose war-cabinet resignation links security credibility to election politics.
 - [Josie Dallap](entities/JosieDallap.md) — The Intelligence contributor analyzing Israel's post-October-7 election, coalition issues, conscription, and Palestinian-question avoidance.
 - [Anne Rowe](entities/AnneRowe.md) — The Intelligence reporter whose A23A segment turns iceberg breakup into ecological and climate-symbolic narrative.
 - [A23A](entities/A23A.md) — Antarctic iceberg profiled as a trillion-ton polar object whose breakup carries ecological and climate-symbolic meaning.
@@ -19065,6 +19070,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [Israeli Election 2026](concepts/IsraeliElection2026.md) — Post-October-7 accountability vote now in a certified-result formation phase centered on minority government and outside support.
+- [Civilian Infrastructure Air Campaign](concepts/CivilianInfrastructureAirCampaign.md) — Sustained drone-and-missile pressure on utilities, transport, commerce, industry, and population centers behind the front.
+- [Satellite Heat-Signature Conflict Monitoring](concepts/SatelliteHeatSignatureConflictMonitoring.md) — Repurposes orbital fire-detection data as a comparative proxy for explosion and frontline activity.
+- [Longitudinal Elite Biographical Dataset](concepts/LongitudinalEliteBiographicalDataset.md) — Uses consistent records of recognized prominence to compare elite composition, institutions, habits, and self-presentation over time.
 - [General-Equilibrium Policy Transmission / 一般均衡式政策传导](concepts/GeneralEquilibriumPolicyTransmission.md) — Method for tracing shocks through budgets, income, expectations, firms, markets, and policy feedback rather than stopping at local effects.
 - [Neutral Rate Drivers / 中性利率驱动因素](concepts/NeutralRateDrivers.md) — Potential growth, saving preference, and investment preference as structural drivers of the neutral interest rate.
 - [Household Deposit Structural Signal / 居民存款结构信号](concepts/HouseholdDepositStructuralSignal.md) — Sector and maturity composition as more informative deposit signals than household totals alone.
@@ -27430,7 +27439,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No-Draft Player Market](concepts/NoDraftPlayerMarket.md) — Player-allocation model where incoming players negotiate directly with teams instead of entering a draft.
 - [Sports Player Autonomy](concepts/SportsPlayerAutonomy.md) — Player-rights frame for judging draft systems by athlete choice, location, and development environment.
 - [Sports Competitive Balance](concepts/SportsCompetitiveBalance.md) — League-design goal of preserving weak-team hope and credible competition without rewarding deliberate losing.
-- [Israeli Election 2026](concepts/IsraeliElection2026.md) — Election frame for post-October-7 judgment on Netanyahu, war leadership, opposition coalition viability, conscription, education, and strategic avoidance.
 - [Haredi Conscription](concepts/HarediConscription.md) — Israeli burden-sharing dispute over ultra-Orthodox military-service exemptions and their campaign role.
 - [Palestinian Question in Israeli Politics](concepts/PalestinianQuestionInIsraeliPolitics.md) — Source frame for the central Palestinian issue being avoided in Israeli election campaigning despite West Bank risk.
 - [Sports Political Interference](concepts/SportsPoliticalInterference.md) — Governance risk where political leaders pressure sporting decisions such as discipline, refereeing, tournament access, or rule exceptions.
@@ -29612,7 +29620,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [恐怖治理反噬 / Terror Rule Backfire](concepts/TerrorRuleBackfire.md) — Pattern where killing and fear store internal abandonment or eliminate an enemy's incentive to surrender.
 
 - [Unexpected-Approach Fortress Assault / 意外进路式要塞突袭](concepts/UnexpectedApproachFortressAssault.md) — Using selected troops and a presumed-impossible route to convert local penetration into defensive shock.
-- [Civilian Infrastructure Air Campaign](concepts/CivilianInfrastructureAirCampaign.md) — Sustained drone-and-missile pressure on utilities, transport, commerce, and population centers to weaken economic and social endurance behind the front.
 - [Ukrainian Defense-Industrial Scaling](concepts/UkrainianDefenseIndustrialScaling.md) — Turning Ukrainian weapon prototypes into production volume through direct procurement, finance, engineering help, and selective technology transfer.
 - [Alcohol Demand Reset](concepts/AlcoholDemandReset.md) — Structural adjustment as consumers drink less and beverage companies compete across alcohol-free, packaged, venue, and mood-oriented formats.
 - [Premium Ready-to-Drink Alcohol](concepts/PremiumReadyToDrinkAlcohol.md) — Canned and pre-mixed cocktails positioned through adult, less-sweet, premium cues rather than older alcopop associations.

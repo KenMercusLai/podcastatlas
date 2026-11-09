@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3778
+topic_total_pages: 3780
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3301,6 +3301,9 @@ topic_concepts:
   - key: "LongitudinalChatbotSafetyEvaluation"
     title: "Longitudinal Chatbot Safety Evaluation"
     url: "/wiki/concepts/longitudinalchatbotsafetyevaluation/"
+  - key: "LongitudinalEliteBiographicalDataset"
+    title: "Longitudinal Elite Biographical Dataset"
+    url: "/wiki/concepts/longitudinalelitebiographicaldataset/"
   - key: "LongitudinalMultimodalScreening"
     title: "Longitudinal Multimodal Screening"
     url: "/wiki/concepts/longitudinalmultimodalscreening/"
@@ -4456,6 +4459,9 @@ topic_concepts:
   - key: "SatelliteConnectivityCompetition"
     title: "Satellite Connectivity Competition"
     url: "/wiki/concepts/satelliteconnectivitycompetition/"
+  - key: "SatelliteHeatSignatureConflictMonitoring"
+    title: "Satellite Heat-Signature Conflict Monitoring"
+    url: "/wiki/concepts/satelliteheatsignatureconflictmonitoring/"
   - key: "ScaleUpAIInterconnect"
     title: "Scale Up AI Interconnect"
     url: "/wiki/concepts/scaleupaiinterconnect/"

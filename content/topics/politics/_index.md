@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3470
+topic_total_pages: 3472
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5822,6 +5822,9 @@ topic_entities:
   - key: "AveryBrundage"
     title: "Avery Brundage"
     url: "/wiki/entities/averybrundage/"
+  - key: "AvigdorLieberman"
+    title: "Avigdor Lieberman"
+    url: "/wiki/entities/avigdorlieberman/"
   - key: "AvivOvadia"
     title: "Aviv Ovadia"
     url: "/wiki/entities/avivovadia/"
@@ -9345,6 +9348,9 @@ topic_sources:
   - key: "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128"
     title: "AI-powered surveillance costs lives at the southern border"
     url: "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+  - key: "all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743"
+    title: "All eyes on Eisenkot: Israel’s could-be prime minister"
+    url: "/wiki/sources/all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743/"
   - key: "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f"
     title: "All right on the night: AfD's victory"
     url: "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"

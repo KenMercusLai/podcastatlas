@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13974
+wiki_total_pages: 13978
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2084,6 +2084,9 @@ wiki_pages:
   - key: "AveryBrundage"
     title: "Avery Brundage"
     url: "/wiki/entities/averybrundage/"
+  - key: "AvigdorLieberman"
+    title: "Avigdor Lieberman"
+    url: "/wiki/entities/avigdorlieberman/"
   - key: "AvignonFestival"
     title: "Avignon Festival"
     url: "/wiki/entities/avignonfestival/"

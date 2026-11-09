@@ -18171,6 +18171,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AvigdorLieberman": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AvignonFestival": [
     {
       "key": "culture",
@@ -58922,6 +58929,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "LongitudinalEliteBiographicalDataset": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "LongitudinalMultimodalScreening": [
     {
       "key": "technology",
@@ -81214,6 +81233,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SatelliteHeatSignatureConflictMonitoring": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SatiricalGroupPortrait": [
     {
       "key": "culture",
@@ -98098,6 +98124,13 @@
       "url": "/topics/science/"
     }
   ],
+  "WhosWho": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WhyGreatnessCannotBePlanned": [
     {
       "key": "technology",
@@ -104011,6 +104044,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360": [

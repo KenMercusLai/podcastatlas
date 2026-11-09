@@ -12615,6 +12615,10 @@
     "title": "Aviation Safety Rules",
     "url": "/wiki/concepts/aviationsafetyrules/"
   },
+  "AvigdorLieberman": {
+    "title": "Avigdor Lieberman",
+    "url": "/wiki/entities/avigdorlieberman/"
+  },
   "AvignonFestival": {
     "title": "Avignon Festival",
     "url": "/wiki/entities/avignonfestival/"
@@ -15218,6 +15222,10 @@
   "BloombergNEF": {
     "title": "BloombergNEF",
     "url": "/wiki/entities/bloombergnef/"
+  },
+  "Bloomsbury": {
+    "title": "Bloomsbury",
+    "url": "/wiki/entities/bloomsbury/"
   },
   "BlueBloodManNiKuangNovel": {
     "title": "《蓝血人》 / Blue Blood Man (Ni Kuang novel)",
@@ -57759,6 +57767,10 @@
     "title": "Longitudinal Chatbot Safety Evaluation",
     "url": "/wiki/concepts/longitudinalchatbotsafetyevaluation/"
   },
+  "LongitudinalEliteBiographicalDataset": {
+    "title": "Longitudinal Elite Biographical Dataset",
+    "url": "/wiki/concepts/longitudinalelitebiographicaldataset/"
+  },
   "LongitudinalMultimodalScreening": {
     "title": "Longitudinal Multimodal Screening",
     "url": "/wiki/concepts/longitudinalmultimodalscreening/"
@@ -68466,6 +68478,10 @@
   "OperationUranus": {
     "title": "Operation Uranus",
     "url": "/wiki/entities/operationuranus/"
+  },
+  "OperationVivaldi": {
+    "title": "Operation Vivaldi",
+    "url": "/wiki/entities/operationvivaldi/"
   },
   "OperationalCarbon": {
     "title": "Operational Carbon",
@@ -81118,6 +81134,10 @@
   "SatelliteConnectivityCompetition": {
     "title": "Satellite Connectivity Competition",
     "url": "/wiki/concepts/satelliteconnectivitycompetition/"
+  },
+  "SatelliteHeatSignatureConflictMonitoring": {
+    "title": "Satellite Heat-Signature Conflict Monitoring",
+    "url": "/wiki/concepts/satelliteheatsignatureconflictmonitoring/"
   },
   "SatiricalGroupPortrait": {
     "title": "Satirical Group Portrait",
@@ -97675,6 +97695,10 @@
     "title": "Whoop",
     "url": "/wiki/entities/whoop/"
   },
+  "WhosWho": {
+    "title": "Who’s Who",
+    "url": "/wiki/entities/whoswho/"
+  },
   "WhyGreatnessCannotBePlanned": {
     "title": "《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned",
     "url": "/wiki/entities/whygreatnesscannotbeplanned/"
@@ -105542,6 +105566,10 @@
   "ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun": {
     "title": "阿里千问离职余震，在几万人的铁球里如何体面生存",
     "url": "/wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun/"
+  },
+  "all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743": {
+    "title": "All eyes on Eisenkot: Israel’s could-be prime minister",
+    "url": "/wiki/sources/all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360": {
     "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",

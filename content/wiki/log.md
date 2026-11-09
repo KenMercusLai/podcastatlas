@@ -38965,3 +38965,11 @@ Added source `lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt`; create
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-09] ingest | All eyes on Eisenkot: Israel’s could-be prime minister
+
+Added source `all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743`; created [[AvigdorLieberman]], [[WhosWho|Who’s Who]], [[Bloomsbury]], [[OperationVivaldi]], [[SatelliteHeatSignatureConflictMonitoring]], and [[LongitudinalEliteBiographicalDataset]]; and resynthesized [[GadiEisenkot]], [[IsraeliElection2026]], [[CoalitionExclusionDeadlock]], and [[CivilianInfrastructureAirCampaign]] from each page’s complete preserved evidence inventory before appending the new source once. Core synthesis: Israel’s certified but fragmented result moved from count uncertainty into a time-limited minority-government attempt whose success depends on outside Arab or ultra-Orthodox support; heat-detection satellites suggest modest Ukrainian gains without negating Russia’s expanding deep campaign against infrastructure and society; and the consistent but highly selective *Who’s Who* archive makes elite bias itself historically informative. No settled contradiction was adopted. “Aizenkot” and “Eisenkot” are normalized as transliteration variants, while coalition outcomes, casualty ranges, territorial and strike totals, civilian deaths, satellite inferences, and the publication’s future remain contemporaneous and source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,884 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

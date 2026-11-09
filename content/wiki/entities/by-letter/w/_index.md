@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 13974
+wiki_total_pages: 13978
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "Whoop"
     title: "Whoop"
     url: "/wiki/entities/whoop/"
+  - key: "WhosWho"
+    title: "Who’s Who"
+    url: "/wiki/entities/whoswho/"
   - key: "WiFiMasterKey"
     title: "Wi-Fi Master Key / Wi-Fi 万能钥匙"
     url: "/wiki/entities/wifimasterkey/"
