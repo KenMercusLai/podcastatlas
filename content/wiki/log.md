@@ -38989,3 +38989,11 @@ Added source `tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke
+
+Added source `overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992`; created [[AddictionAsControlStrategy]], [[RadicalSurrenderRecovery]], and [[CodependencyControlLoop]]; and resynthesized [[AnnaLembke]] and [[PleasurePainBalanceAddiction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: severe addiction can persist because a substance, behavior, or thought remains a predictable state-change lever after pleasure declines; surrender means accepting the limits of a failed control strategy while redirecting agency toward help and the next values-based action; and codependency can turn care into emotional regulation through another person's response. No settled contradiction was adopted. Spirituality circuitry, serotonin, gender patterns, cultural diagnoses, treatment time courses, medication effects, and GLP-1, psychedelic, ketamine, stimulant, and prayer claims remain proposed, clinical, personal, or source-scoped rather than individualized guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,887 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

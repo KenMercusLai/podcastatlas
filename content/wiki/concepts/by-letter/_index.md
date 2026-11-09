@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11112
+wiki_total_pages: 11115
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "AddictionAsAttemptedRelief"
     title: "Addiction as Attempted Relief"
     url: "/wiki/concepts/addictionasattemptedrelief/"
+  - key: "AddictionAsControlStrategy"
+    title: "Addiction as Control Strategy"
+    url: "/wiki/concepts/addictionascontrolstrategy/"
   - key: "AddictionForProfit"
     title: "Addiction for Profit"
     url: "/wiki/concepts/addictionforprofit/"

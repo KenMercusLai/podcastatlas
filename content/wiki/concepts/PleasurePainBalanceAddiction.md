@@ -9,7 +9,8 @@ sources:
   - essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387
   - scim4795280888-scim4795280888
   - essentials-how-to-increase-motivation-drive-scim9927628276
-last_updated: 2026-10-11
+  - overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992
+last_updated: 2026-11-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Pleasure-pain balance in addiction is Anna Lembke's opponent-process model in wh
 The model applies conceptually to drugs and to highly reinforcing behaviors, but it is not a device for measuring an individual's dopamine or diagnosing every strong preference. Its practical value is to explain why repeated restimulation can deepen a cycle, why ordinary activities may feel flat during early abstinence, and why recovery often needs time, competing sources of reward, environmental barriers, and appropriate clinical support.
 
 Two earlier solo episodes supply convergent provenance rather than separate clinical models. They describe reward as recruiting an opposing disappointment, craving, or pain response, with repetition diminishing the pleasurable side and strengthening the compensatory side. The motivation and pain-and-pleasure Essentials edits condense those solo episodes and do not add independent confirmation. The later Lembke interview gives this account its fuller clinical scope, abstinence qualifications, and recovery boundaries; its own Essentials edit likewise restates those points in compressed form.
+
+The 2026 Lembke conversation preserves this opponent-process account but distinguishes reward deficit from control. Even when a behavior no longer feels good, it may remain reinforcing as a predictable way to alter immediate internal state. [[AddictionAsControlStrategy]] therefore extends rather than replaces the balance model.
 
 ## Key Claims
 - Pleasure can recruit a compensatory pain response that helps return the system toward homeostasis.
@@ -43,14 +46,13 @@ Two earlier solo episodes supply convergent provenance rather than separate clin
 - Condensed clinical restatement - [[essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387]] reiterates the opponent process, dopamine-deficit symptoms, anticipatory craving, relapse vulnerability, and variable recovery.
 - Condensed solo restatement - [[scim4795280888-scim4795280888]] repeats the claim that repeated unusually large reward-system activation weakens later pleasure and strengthens compensatory pain or disappointment.
 - Condensed motivation restatement - [[essentials-how-to-increase-motivation-drive-scim9927628276]] repeats the shift from pleasure seeking toward craving relief and post-reward dissatisfaction.
+- Later extension - [[overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992]] restates tolerance, withdrawal, and reward deficit while adding predictable control of internal state as a distinct continuing payoff.
 
 ## Counterevidence & Qualifications
-This is a public clinical explanatory model, not a direct assay of dopamine, receptor density, or an individual's diagnosis. The Huberman Lab sources overlap substantially, and each Essentials edit derives from longer source material, so they should not be counted as independent confirmation. They do not establish one universal withdrawal curve, prove that all behavioral compulsions share identical biology, or show that 30 days is sufficient for every person. Depression, anhedonia, insomnia, anxiety, and compulsive behavior have multiple possible causes. Alcohol and some drug withdrawal can be medically dangerous.
+This is a public clinical explanatory model, not a direct assay of dopamine, receptor density, or an individual's diagnosis. The Huberman Lab sources overlap substantially, and each Essentials edit derives from longer source material, so they should not be counted as independent confirmation. They do not establish one universal withdrawal curve, prove that all behavioral compulsions share identical biology, show that 30 days is sufficient for every person, or establish control seeking as the cause of every addiction. Depression, anhedonia, insomnia, anxiety, and compulsive behavior have multiple possible causes. Alcohol and some drug withdrawal can be medically dangerous.
 
 ## What Changed
-- Added the Essentials edit as overlapping provenance while preserving the full Lembke interview as the stronger clinical and recovery frame.
-- Added the pain-and-pleasure Essentials edit without changing confidence in the opponent-process model.
-- Added the motivation Essentials edit as overlapping provenance without changing confidence in the opponent-process model.
+- Added the distinction between declining pleasure and the continuing reinforcing value of predictable state control.
 
 ## Related Concepts
 - [[DopaminePeakTroughBaseline]] - adjacent dynamic account of reward peaks, subsequent troughs, and altered future motivation.
@@ -59,3 +61,4 @@ This is a public clinical explanatory model, not a direct assay of dopamine, rec
 - [[AddictionAsAttemptedRelief]] - complementary functional account of use as escape from difficult states.
 - [[AbstinenceModerationSelfControl]] - strategy boundary for reducing exposure without universalizing abstinence.
 - [[RecoveryCommunityConnection]] - competing social reward and accountability infrastructure during recovery.
+- [[AddictionAsControlStrategy]] - complementary account of why behavior can persist after enjoyment has declined.

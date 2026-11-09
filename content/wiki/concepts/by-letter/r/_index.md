@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11112
+wiki_total_pages: 11115
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "RadicalAcceptanceChronicStress"
     title: "Radical Acceptance Chronic Stress"
     url: "/wiki/concepts/radicalacceptancechronicstress/"
+  - key: "RadicalSurrenderRecovery"
+    title: "Radical Surrender in Recovery"
+    url: "/wiki/concepts/radicalsurrenderrecovery/"
   - key: "RadiochemistryImagingTracers"
     title: "Radiochemistry Imaging Tracers"
     url: "/wiki/concepts/radiochemistryimagingtracers/"

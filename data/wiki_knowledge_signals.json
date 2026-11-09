@@ -8866,6 +8866,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/addictionasattemptedrelief/"
     },
+    "AddictionAsControlStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8035808992 [SCIM8035808992].md",
+          "key": "overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992",
+          "show": "Huberman Lab",
+          "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+          "url": "/wiki/sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/addictionascontrolstrategy/"
+    },
     "AddictionForProfit": {
       "episode_count": 1,
       "show_count": 1,
@@ -19096,9 +19112,9 @@
       "url": "/wiki/entities/annakeay/"
     },
     "AnnaLembke": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -19113,9 +19129,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Treating Addiction | Dr. Anna Lembke",
           "url": "/wiki/sources/essentials-understanding-treating-addiction-dr-anna-lembke-scim3404874387/"
+        },
+        {
+          "episode_file": "SCIM8035808992 [SCIM8035808992].md",
+          "key": "overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992",
+          "show": "Huberman Lab",
+          "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+          "url": "/wiki/sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/annalembke/"
     },
     "AnnaMariaLuisaDeMedici": {
@@ -55338,6 +55361,22 @@
       ],
       "updated": "2026-10-27",
       "url": "/wiki/entities/cocoonfeixiaotong/"
+    },
+    "CodependencyControlLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8035808992 [SCIM8035808992].md",
+          "key": "overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992",
+          "show": "Huberman Lab",
+          "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+          "url": "/wiki/sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/codependencycontrolloop/"
     },
     "Codex": {
       "episode_count": 17,
@@ -231968,9 +232007,9 @@
       "url": "/wiki/concepts/playlistasdiscoveryinterface/"
     },
     "PleasurePainBalanceAddiction": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -232013,9 +232052,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Increase Motivation & Drive",
           "url": "/wiki/sources/essentials-how-to-increase-motivation-drive-scim9927628276/"
+        },
+        {
+          "episode_file": "SCIM8035808992 [SCIM8035808992].md",
+          "key": "overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992",
+          "show": "Huberman Lab",
+          "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+          "url": "/wiki/sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992/"
         }
       ],
-      "updated": "2026-10-11",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/pleasurepainbalanceaddiction/"
     },
     "PlinyTheElder": {
@@ -245319,6 +245365,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/concepts/radicalacceptancechronicstress/"
+    },
+    "RadicalSurrenderRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8035808992 [SCIM8035808992].md",
+          "key": "overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992",
+          "show": "Huberman Lab",
+          "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+          "url": "/wiki/sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/radicalsurrenderrecovery/"
     },
     "RadiographerClinicalResponsibility": {
       "episode_count": 2,

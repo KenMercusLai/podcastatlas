@@ -5003,6 +5003,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 - [Saying "so long" to the tech industry](sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128.md) — Marketplace Tech follows Drew and Lindsay Haven from technology careers into caregiving, health recovery, community life, and a lower-consumption exchange of spending for control over time.
+- [Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke](sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992.md) — Huberman Lab interview on addiction as reward adaptation and controllable state change, radical surrender, codependency, and clinically bounded recovery.
 
 ## Entities
 - [Drew Haven](entities/DrewHaven.md) — Former technology worker whose retirement case links cultural disillusionment, health, defining enough, and time autonomy.
@@ -30290,5 +30291,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Technical-Commercial Closure](concepts/TechnicalCommercialClosure.md) — Mapping from coherent technical capability to an urgent user problem, usable product, business value, and feedback loop.
 - [Charge of the Light Brigade](concepts/ChargeOfTheLightBrigade.md) — Balaclava cavalry disaster understood through interacting command failures, aristocratic military culture, courage, and rapid poetic commemoration.
 - [Enough-Based Work Exit](concepts/EnoughBasedWorkExit.md) — Household strategy that lowers the work-exit threshold by defining material sufficiency and trading consumption for control of time.
+- [Addiction as Control Strategy](concepts/AddictionAsControlStrategy.md) — Functional account of addiction as a predictable lever for changing internal experience even after pleasure declines.
+- [Radical Surrender in Recovery](concepts/RadicalSurrenderRecovery.md) — Active acceptance of failed control joined to guidance and the next available values-based action.
+- [Codependency Control Loop](concepts/CodependencyControlLoop.md) — Relational pattern in which managing another person's state becomes a way to regulate one's own emotions.
 
 ## Syntheses
