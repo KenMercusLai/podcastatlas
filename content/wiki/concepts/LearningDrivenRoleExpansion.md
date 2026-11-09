@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [learning, leadership, talent, late-han, eastern-wu]
 sources:
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy
+last_updated: 2026-11-09
 ---
 
 ## Definition
@@ -16,7 +17,7 @@ Learning-driven role expansion / 学习驱动的角色跃迁 is the development 
 
 [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] develops the pattern through [[LyuMeng|吕蒙]]. [[SunQuan|孙权]] does not ask the busy commander to become a classical specialist. He recommends practical historical reading suited to office and uses his own study under heavy responsibility as the answer to the claim that work leaves no time to learn.
 
-The episode treats [[LuSu|鲁肃]]'s later surprise as evidence of changed capability and changed social evaluation: the former “吴下阿蒙” can now sustain a strategic conversation. The durable point is narrower than the claim that reading automatically creates command excellence. Learning matters when it is relevant to responsibility, sustained long enough to alter judgment, and recognized through later performance.
+The episode treats [[LuSu|鲁肃]]'s later surprise as evidence of changed capability and changed social evaluation: the former “吴下阿蒙” can now sustain a strategic conversation. The later Wan City operation supplies a performance test because Lyu Meng combines prospective grain capacity, harvest timing, river level, siege preparation, relief distance, defense, morale, and withdrawal into one recommendation. The durable point is narrower than the claim that reading automatically creates command excellence: learning matters when it is relevant to responsibility, sustained long enough to alter judgment, and recognized through later performance, while campaign experience and source transmission remain co-explanations.
 
 ## Key Claims
 
@@ -25,22 +26,25 @@ The episode treats [[LuSu|鲁肃]]'s later surprise as evidence of changed capab
 - A busy role does not eliminate the opportunity cost of learning, but leader modeling can make the expectation credible.
 - Changed capability sometimes requires peers to revise an old identity label rather than continue judging the person from early constraints.
 - Study complements rather than erases battlefield experience, discipline, and prior performance.
+- Later performance is stronger evidence of expanded judgment than reputation language alone, even when the cause of that performance remains mixed.
 
 ## Evidence
 
 - Calibrated learning request: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] says Sun Quan asks Lyu Meng to read history for practical breadth rather than master the classics as a professional scholar.
 - Leader modeling: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] has Sun Quan answer the time objection by pointing to his own reading amid heavier responsibilities.
 - Revised peer judgment: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] uses Lu Su's changed assessment and the “士别三日” exchange to mark visible intellectual development.
+- Integrated campaign judgment: [[zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy|Hanji 1143]] presents Lyu Meng's Wan City case as combining supply, season, fortification, reinforcement, morale, and retreat constraints.
 
 ## Counterevidence & Qualifications
 
-This is one popular-history account of a famous anecdote, not a measured causal study of education and command performance. The precise reading program, dialogue, speed of change, and degree to which study rather than accumulated field experience explains Lyu Meng's later judgment remain source-scoped. The concept does not imply that every strong executor should become a strategist or that reading alone supplies authority.
+These are linked popular-history accounts, not a measured causal study of education and command performance. The precise reading program, dialogue, speed of change, and degree to which study rather than accumulated field experience explains Lyu Meng's later judgment remain source-scoped. Hanji 1143's campaign details also require primary-text verification. The concept does not imply that every strong executor should become a strategist or that reading alone supplies authority.
 
 ## What Changed
 
 - Established the concept from the Sun Quan-Lyu Meng learning sequence.
 - Distinguished role-relevant study from conversion into a full-time scholar.
 - Made peer reassessment part of development rather than treating old reputation as fixed.
+- Added later operational integration as performance evidence while qualifying the causal attribution to study.
 
 ## Related Concepts
 

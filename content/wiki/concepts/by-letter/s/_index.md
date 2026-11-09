@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11087
+wiki_total_pages: 11089
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -3077,6 +3077,9 @@ wiki_pages:
   - key: "SpontaneousPneumothoraxRiskAndRecurrence"
     title: "自发性气胸风险与复发 / Spontaneous Pneumothorax Risk and Recurrence"
     url: "/wiki/concepts/spontaneouspneumothoraxriskandrecurrence/"
+  - key: "SelfValidatedRelationshipBoundaries"
+    title: "自我认可式关系边界 / Self-Validated Relationship Boundaries"
+    url: "/wiki/concepts/selfvalidatedrelationshipboundaries/"
   - key: "SelfDeprecatingPoliticalSurvival"
     title: "自污式政治自保 / Self-Deprecating Political Survival"
     url: "/wiki/concepts/selfdeprecatingpoliticalsurvival/"

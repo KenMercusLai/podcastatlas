@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt
   - zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy
+last_updated: 2026-11-09
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Hanji 1085 supplies direct combat evidence: after the barrier at [[MianKouLateHa
 
 Hanji 1118 adds the learning mechanism behind that expanded judgment. [[SunQuan|孙权]] asks Lyu Meng to study history for practical breadth rather than become a classical scholar and counters the time objection through his own example. The episode then uses [[LuSu|鲁肃]]'s changed assessment and the “士别三日” exchange to show that sustained learning can alter both capability and an old “吴下阿蒙” reputation.
 
+Hanji 1143 supplies a later operational test. Lyu Meng reads [[ZhuGuangLateHan|朱光]]'s rice cultivation and irrigation at [[WanChengLujiang|皖城]] as future force capacity, urges attack before harvest, and rejects slower siege preparation because reinforcement time and falling water threaten both assault and withdrawal. The rapid plan integrates logistics, season, defense, morale, relief timing, and transport rather than treating speed as an end in itself.
+
 ## Key Characteristics
 - Becomes visible through unit discipline rather than lineage or rhetoric.
 - Serves as an early test of Sun Quan's ability to identify usable command talent.
@@ -30,6 +33,7 @@ Hanji 1118 adds the learning mechanism behind that expanded judgment. [[SunQuan|
 - Protects a sincere defector's command autonomy when trust can attract further submission.
 - Designs a rear-guard and relief division that turns constrained manpower into action.
 - Uses directed historical study to add strategic conversation and judgment to existing military experience.
+- Turns an emerging supply threat, water window, reinforcement clock, and retreat constraint into a rapid Wan City operation.
 
 ## Evidence
 - Unit discipline and promotion: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] says Sun Quan sees Lyu Meng's troops as orderly, adds soldiers, and increases trust.
@@ -37,17 +41,21 @@ Hanji 1118 adds the learning mechanism behind that expanded judgment. [[SunQuan|
 - Defector incorporation: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] has Lyu Meng reject the transfer of Xi Su's troops and argue for strengthening him instead.
 - Relief planning: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] records his proposal to leave Ling Tong at the rear and accompany Zhou Yu to relieve Gan Ning.
 - Learning and reassessment: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] says Sun Quan directs Lyu Meng toward practical historical reading and Lu Su later revises his earlier view after a substantive exchange.
+- Wan City judgment: [[zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy|Hanji 1143]] attributes to Lyu Meng the pre-harvest threat diagnosis, rejection of slow siege works, four-sided rapid assault, and safe return before water conditions worsened.
 
 ## Qualifications
-The evidence covers only four early windows, not Lyu Meng's full Eastern Wu career. Chen Jiu's killing and display, exact combat details, relief troop and horse figures, and Xi Su's incorporation remain source-scoped. Hanji 1118's childhood, reading program, dialogue, and speed of intellectual transformation come through a famous anecdotal tradition; study should not be isolated from accumulated campaign experience. The Xi Su case should not be generalized into a universal rule that every surrenderer should retain armed autonomy.
+The evidence covers five selected windows, not Lyu Meng's full Eastern Wu career. Chen Jiu's killing and display, exact combat details, relief troop and horse figures, and Xi Su's incorporation remain source-scoped. Hanji 1118's childhood, reading program, dialogue, and speed of intellectual transformation come through a famous anecdotal tradition; study should not be isolated from accumulated campaign experience. Hanji 1143's place-name spelling, agricultural scale, timing, force and captive totals, one-day assault, and claim that later judgment proves study's effect require primary-text verification. The Xi Su case should not be generalized into a universal rule that every surrenderer should retain armed autonomy.
 
 ## What Changed
 - Added directed historical study as a mechanism connecting combat experience to wider strategic judgment.
 - Added Lu Su's revised assessment as evidence that development can overturn an early identity label.
 - Reframed the profile as cumulative growth rather than a fixed progression from bravery alone.
+- Added the Wan City operation as later performance evidence while keeping the study-to-success causal claim qualified.
 
 ## Relationships
 - [[SunQuan|孙权]] - ruler who recognizes Lyu Meng's discipline and later accepts his advice.
+- [[WanChengLujiang|皖城]] - emerging supply base whose timing and retreat constraints Lyu Meng integrates into a rapid assault plan.
+- [[ZhuGuangLateHan|朱光]] - opposing administrator whose agricultural work makes the position strategically urgent.
 - [[ChenJiuLateHan|陈就]] - opposing naval commander Lyu Meng is credited with killing.
 - [[MianKouLateHan|沔口]] - battle setting where the barrier breach precedes Lyu Meng's combat.
 - [[XiSuLateHan|袭肃]] - surrendering commander whose troop autonomy Lyu Meng protects.

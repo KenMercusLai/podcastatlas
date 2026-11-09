@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 11087
+wiki_total_pages: 11089
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1709,6 +1709,9 @@ wiki_pages:
   - key: "ReclusionAuthenticityAssessment"
     title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
     url: "/wiki/concepts/reclusionauthenticityassessment/"
+  - key: "ReciprocalEtiquettePrivateSpace"
+    title: "礼仪互惠与私人空间 / Reciprocal Etiquette and Private Space"
+    url: "/wiki/concepts/reciprocaletiquetteprivatespace/"
   - key: "RitualAgrarianFrontierIntegration"
     title: "礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration"
     url: "/wiki/concepts/ritualagrarianfrontierintegration/"

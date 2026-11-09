@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？](sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy.md) — 芮淇讲透资治通鉴 episode on self-validated relationship boundaries, reciprocal etiquette in the Mencius divorce anecdote, and Lyu Meng's supply- and water-timed rapid capture of Lujiang's 皖城.
 - [《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？](sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox.md) — 芮淇讲透资治通鉴 episode on Pang Tong's death at 雒城, complementary adviser roles, later 落凤坡 memory, Ma Chao's psychological pressure, and Liu Zhang's surrender at Chengdu.
 - [体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？](sources/gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4.md) — 声动早咖啡以 Klook 解释目的地体验平台为何会在订单增长中同时承担非标准供给、内容获客、线下履约、售后协调与区域集中成本。
 - [188.关于本轮下跌的三个想法和一些建议](sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp.md) — 起朱楼宴宾客 on AI financing reflexivity, shared cross-market capex exposure, and allocation discipline during a broad risk-asset decline.
@@ -4990,6 +4991,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
 
 ## Entities
+- [朱光 / Zhu Guang (Late Han)](entities/ZhuGuangLateHan.md) — Cao-side Lujiang administrator whose rice cultivation and irrigation at 皖城 make the position a prospective forward supply base in Hanji 1143.
 - [张任 / Zhang Ren (late Han)](entities/ZhangRenLateHan.md) — Yizhou defender whose resistance at 雒城 forms the immediate campaign setting for Pang Tong's death.
 - [Klook](entities/Klook.md) — Asia-Pacific-centered destination-experience marketplace whose reported booking growth has not yet resolved acquisition, fulfillment, support, and profitability pressure.
 - [阎温 / Yan Wen (late Han)](entities/YanWenLateHan.md) — Ji relief envoy who reverses Ma Chao's coerced surrender message into a final appeal for continued defense.
@@ -19030,6 +19032,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apprentice Bench](entities/ApprenticeBench.md) — Sequential construction-accounting benchmark for learning from earlier workplace tasks and feedback.
 
 ## Concepts
+- [礼仪互惠与私人空间 / Reciprocal Etiquette and Private Space](concepts/ReciprocalEtiquettePrivateSpace.md) — Contextual judgment principle requiring notice, privacy, and the observer's own conduct to be assessed before blame.
+- [自我认可式关系边界 / Self-Validated Relationship Boundaries](concepts/SelfValidatedRelationshipBoundaries.md) — Qualified relationship frame that protects agency from approval dependence without treating hardship, care, or interdependence as exploitation.
 - [Destination-Experience Marketplace Economics](concepts/DestinationExperienceMarketplaceEconomics.md) — How fragmented local supply, inspiration-led demand, price comparison, offline fulfillment, support, and regional exposure shape experience-platform unit economics.
 - [AI Financing Reflexivity](concepts/AIFinancingReflexivity.md) — Feedback loop linking market repricing and marginal funding costs to AI project execution, counterparties, and demand.
 - [Cross-Market AI Exposure Concentration](concepts/CrossMarketAIExposureConcentration.md) — Hidden portfolio dependence when holdings in different markets rely on the same AI capital-expenditure cycle.

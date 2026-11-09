@@ -72753,9 +72753,9 @@
       "url": "/wiki/concepts/defensivedecentralizedacceleration/"
     },
     "DefensiveFallbackInfrastructure": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
@@ -72770,9 +72770,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
+        },
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/defensivefallbackinfrastructure/"
     },
     "Dehong": {
@@ -113439,9 +113446,9 @@
       "url": "/wiki/entities/ganbaobao/"
     },
     "GanNing": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
@@ -113491,9 +113498,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1084丨诸葛亮凭什么成为三国顶流？这招绝了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd/"
+        },
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/ganning/"
     },
     "GanYanshouWesternHan": {
@@ -169599,9 +169613,9 @@
       "url": "/wiki/concepts/learnedfoodpreferenceconditioning/"
     },
     "LearningDrivenRoleExpansion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？ [lqbhHQtFHGhodOjNxKSA3OZT9YqZ].md",
@@ -169609,9 +169623,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz/"
+        },
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/learningdrivenroleexpansion/"
     },
     "LearningStyleMatchingBoundary": {
@@ -187422,9 +187443,9 @@
       "url": "/wiki/entities/lyukuanglatehan/"
     },
     "LyuMeng": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -187453,9 +187474,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz/"
+        },
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/lyumeng/"
     },
     "LyuMengzheng": {
@@ -245606,6 +245634,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/concepts/reciprocalcareanddignity/"
     },
+    "ReciprocalEtiquettePrivateSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/reciprocaletiquetteprivatespace/"
+    },
     "RecklessCourageDecisionRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -262634,6 +262678,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/selfunderstandingasvitality/"
+    },
+    "SelfValidatedRelationshipBoundaries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/selfvalidatedrelationshipboundaries/"
     },
     "SemenSampleCollectionQuality": {
       "episode_count": 1,
@@ -282617,9 +282677,9 @@
       "url": "/wiki/concepts/supplycontractionrebound/"
     },
     "SupplyDepotDecisiveStrike": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
@@ -282634,9 +282694,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        },
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/supplydepotdecisivestrike/"
     },
     "SupplyLedPublicInterestDocumentation": {
@@ -304959,9 +305026,9 @@
       "url": "/wiki/entities/walterwalker/"
     },
     "WanChengLujiang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
@@ -304969,9 +305036,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/wanchenglujiang/"
     },
     "WanchenGroup": {
@@ -335065,6 +335139,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhugongdaolatehan/"
+    },
+    "ZhuGuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
+          "key": "zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/zhuguanglatehan/"
     },
     "ZhuHuiHeEraLateHan": {
       "episode_count": 3,

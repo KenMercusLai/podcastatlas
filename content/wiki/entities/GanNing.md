@@ -10,8 +10,9 @@ sources:
   - zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf
   - zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u
   - zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd
+  - zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-20
+last_updated: 2026-11-09
 ---
 
 # 甘宁 / Gan Ning
@@ -26,13 +27,15 @@ Hanji 1084 supplies the career and intelligence prehistory behind the later camp
 
 Hanji 1086 adds liabilities and reciprocal loyalty. It describes the “锦帆贼” background as violence later converted into official command, has Gan Ning secure [[SuFeiLateHan|苏飞]]'s pardon through a life-backed guarantee, and records the blood feud created when he killed [[LingCaoLateHan|凌操]]. Hanji 1108-1109 then shows operational initiative at [[YilingLateHan|夷陵]] and visible calm under siege until a [[LyuMeng|吕蒙]]-backed relief force arrives.
 
+Hanji 1143 adds an assault role at [[WanChengLujiang|皖城]]. After Lyu Meng wins approval for a rapid four-sided attack, Gan Ning is presented as the first commander onto the wall. This extends the pattern of selected-force initiative but does not establish the episode's exact ascent sequence independently.
+
 ## Key Characteristics
 - Begins as a local-capacity loss from Liu Zhang's fragmented Yizhou order and later appears underused in Liu Biao's field.
 - Identifies Huang Zu and Jiangxia as the prerequisite target for westward Yangtze strategy.
 - Converts experience inside Huang Zu's organization into unusually specific adversary knowledge.
 - Carries irregular organization, reciprocal loyalty, and an old blood-feud liability into Wu service.
 - Uses his standing to secure clemency for Su Fei through a life-backed personal guarantee.
-- Identifies Yiling as a flank opportunity and matches selected troops to local terrain.
+- Identifies Yiling as a flank opportunity, matches selected troops to local terrain, and later appears as first ascent in the Wan City rapid assault.
 - Uses visible calm to keep siege pressure from becoming morale collapse.
 
 ## Evidence
@@ -42,15 +45,17 @@ Hanji 1086 adds liabilities and reciprocal loyalty. It describes the “锦帆�
 - Gratitude, guarantee, and residual feud: [[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf|Hanji 1086]] records the plea for Su Fei, the pledged responsibility, and Ling Cao's death.
 - Offensive initiative and terrain fit: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] has him propose and execute the Yiling move through local knowledge, selected troops, and surprise.
 - Siege composure and relief: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] describes calm public behavior under attack until Lyu Meng's plan and Zhou Yu's relief resolve the danger.
+- Wan City first ascent: [[zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy|Hanji 1143]] credits Gan Ning with leading the assault and first climbing the wall during the rapid operation.
 
 ## Qualifications
-Gan Ning's rebellion and “锦帆贼” background cannot be reduced to victimhood or sanitized as talent alone, and the “lost talent” and “violence as capital” readings are retrospective host frames. Hanji 1084-1085's attribution of the strategy, internal diagnosis, service duration, recommendation chain, resource estimates, and claim that later events prove the proposal remain source-scoped. Exact dialogue, troop counts, special-forces language, drinking details, and inner motives across Hanji 1086 and 1108-1109 also require primary-text verification.
+Gan Ning's rebellion and “锦帆贼” background cannot be reduced to victimhood or sanitized as talent alone, and the “lost talent” and “violence as capital” readings are retrospective host frames. Hanji 1084-1085's attribution of the strategy, internal diagnosis, service duration, recommendation chain, resource estimates, and claim that later events prove the proposal remain source-scoped. Exact dialogue, troop counts, special-forces language, drinking details, inner motives, and Hanji 1143's first-ascent sequence also require primary-text verification.
 
 ## What Changed
 - Added the underuse, assisted exit, recommender, and adversary-knowledge sequence behind the Jiangxia proposal.
 - Added Gan Ning's recommendation to remove Huang Zu before westward expansion.
 - Connected Jiangxia's river and naval-resource value to his later terrain-sensitive Yiling initiative.
 - Kept the claim that the campaign directly prepared Red Cliffs source-scoped rather than treating it as settled causation.
+- Added the Wan City first-ascent role as a later instance of rapid offensive execution.
 
 ## Relationships
 - [[LiuZhang|刘璋]] - Yizhou ruler whose order fails to retain Gan Ning.
@@ -61,6 +66,7 @@ Gan Ning's rebellion and “锦帆贼” background cannot be reduced to victimh
 - [[SuFeiLateHan|苏飞]] - former benefactor whose life Gan Ning protects after victory.
 - [[LingTong|凌统]] - fellow officer whose father Gan Ning killed while serving the opposing side.
 - [[YilingLateHan|夷陵]] - forward position Gan Ning later seizes.
+- [[WanChengLujiang|皖城]] - city where Hanji 1143 presents Gan Ning as leading the wall ascent.
 - [[RiverCorridorStrategicBase|长江走廊战略根据地]] - geography framework connecting Jiangxia and Yiling.
 - [[PersonalGuaranteeClemency|私人担保式赦免]] - mechanism through which Gan Ning protects Su Fei.
 - [[ViolenceToInstitutionalLegitimacy|暴力资本的体制化转换]] - host framework for the shift from irregular force to authorized command.

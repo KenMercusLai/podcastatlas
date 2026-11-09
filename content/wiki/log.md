@@ -38867,6 +38867,7 @@ Added source `lgbtk9xxwn5za0du2hfhatfphcjc-lgbtk9xxwn5za0du2hfhatfphcjc`; create
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-11-09] ingest | 体验经济火热升温，主打玩乐生意的 Klook 为何依然难赚钱？
 
 Added source `gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4`; created [[Klook]] and [[DestinationExperienceMarketplaceEconomics]]. Core synthesis: destination-experience marketplaces create real discovery and booking value, but fragmented local supply, late-forming demand, transparent-ticket price comparison, destination-by-destination integration, offline exception handling, and service recovery can make costs grow alongside orders. Klook's reported Asia-Pacific depth is both a localization advantage and a concentration risk, while extensive support automation lowers routine workload without removing accountability for unclear listings, delayed tickets, refunds, or changing entitlements. No settled contradiction was adopted. Booking, user, revenue, loss, expense, automation, regional concentration, complaint, competitor, and future-product figures remain source-scoped because the supplied file is a structured podcast summary rather than audited filings, cohort data, supplier records, or independent market research. Broad [[Airbnb]], [[Tesla]], [[CyberCab]], incumbent-OTA, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgment without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; the max-age gate triggered global compaction, and refreshed artifacts validate 4,870 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
@@ -38874,6 +38875,14 @@ Added source `gkwrijeoxiw3aib9lat4dvj4-gkwrijeoxiw3aib9lat4dvj4`; created [[Kloo
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-09] ingest | 《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？
+
+Added source `zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy`; created [[ZhuGuangLateHan|朱光]], [[ReciprocalEtiquettePrivateSpace|礼仪互惠与私人空间]], and [[SelfValidatedRelationshipBoundaries|自我认可式关系边界]]; and resynthesized [[LyuMeng|吕蒙]], [[GanNing|甘宁]], [[WanChengLujiang|皖城]], [[LearningDrivenRoleExpansion|学习驱动的角色跃迁]], [[SupplyDepotDecisiveStrike|粮草命门打击]], and [[DefensiveFallbackInfrastructure|防御性退路基础设施]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: reciprocal etiquette requires judging the observer's entry and notice as well as the observed posture; relationship boundaries can resist approval dependence without converting hardship or compassion into evidence of exploitation; and Lyu Meng's Wan City recommendation integrates prospective grain capacity, harvest timing, siege preparation, reinforcement distance, morale, water level, transport, and retreat into a rapid-assault decision. The episode's “宛城” is retained as a source inconsistency and normalized through the existing disambiguated Lujiang [[WanChengLujiang|皖城]] page rather than confused with [[WanCounty|宛县 / 宛城]]. The Mencius dialogue, ritual details, force and captive totals, one-day assault, first-ascent sequence, water timing, causal attribution to study, and broad psychological claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,872 sources across 806 overview paragraphs and nine topics.
 
 ## [2026-11-09] lint | Wiki health check
 
