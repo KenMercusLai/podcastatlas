@@ -38981,3 +38981,11 @@ Added source `7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128a
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-09] ingest | Saying "so long" to the tech industry
+
+Added source `tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128`; created [[DrewHaven]], [[LindsayHaven]], and [[EnoughBasedWorkExit]]; and resynthesized [[ClockedOut]] and [[EarlyRetirementWorkAutonomy]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the Havens' initially temporary technology-career exits became a shared life organized around caregiving, health, community, and control of time, sustained partly by defining enough and accepting lower consumption and practical inconvenience. No settled contradiction was adopted. Their finances, housing, health coverage, former roles, industry interpretations, and the arrangement's broader replicability remain source-scoped or unquantified. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,886 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5002,8 +5002,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097.md) — Tomorrow Today interview on acting opportunity search, family-supported resilience, collaborative comedy, and human judgment in creative AI use.
 - [《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？](sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk.md) — 芮淇讲透资治通鉴以马超从汉中借兵、祁山失败到投奔刘备的经历，区分战术声望、战略能力、自我认知与长期信用。
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
+- [Saying "so long" to the tech industry](sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128.md) — Marketplace Tech follows Drew and Lindsay Haven from technology careers into caregiving, health recovery, community life, and a lower-consumption exchange of spending for control over time.
 
 ## Entities
+- [Drew Haven](entities/DrewHaven.md) — Former technology worker whose retirement case links cultural disillusionment, health, defining enough, and time autonomy.
+- [Lindsay Haven](entities/LindsayHaven.md) — Former video game worker whose workforce exit links profit pressure, gender discrimination, caregiving, identity, and community.
 - [韩晟（小影科技） / Han Sheng (Xiaoying Technology)](entities/HanShengXiaoying.md) — 小影科技创始人兼 CEO，提出结果交付、草稿迭代及通用—垂直 Agent 协作的产品框架。
 - [小影科技 / Xiaoying Technology](entities/XiaoyingTechnology.md) — 从视频编辑与生成工具走向创作 Agent，并以本地共创和反馈推进海外市场的消费视频公司。
 - [Gadi Eisenkot](entities/GadiEisenkot.md) — Former IDF chief and opposition mandate-holder attempting a minority government after Israel’s 2026 election.
@@ -30286,5 +30289,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Academic Evaluation Signal Collapse](concepts/AIAcademicEvaluationSignalCollapse.md) — Loss of signal when research-output volume outgrows qualified review and formal production becomes cheaper than understanding.
 - [Technical-Commercial Closure](concepts/TechnicalCommercialClosure.md) — Mapping from coherent technical capability to an urgent user problem, usable product, business value, and feedback loop.
 - [Charge of the Light Brigade](concepts/ChargeOfTheLightBrigade.md) — Balaclava cavalry disaster understood through interacting command failures, aristocratic military culture, courage, and rapid poetic commemoration.
+- [Enough-Based Work Exit](concepts/EnoughBasedWorkExit.md) — Household strategy that lowers the work-exit threshold by defining material sufficiency and trading consumption for control of time.
 
 ## Syntheses

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1633
+topic_total_pages: 1634
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2909,6 +2909,9 @@ topic_entities:
   - key: "DominicanRepublic"
     title: "Dominican Republic"
     url: "/wiki/entities/dominicanrepublic/"
+  - key: "DrewHaven"
+    title: "Drew Haven"
+    url: "/wiki/entities/drewhaven/"
   - key: "EarthrisePhoto"
     title: "Earthrise Photo"
     url: "/wiki/entities/earthrisephoto/"

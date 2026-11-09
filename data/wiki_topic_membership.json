@@ -33276,6 +33276,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "DrewHaven": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DrewHouston": [
     {
       "key": "economics",

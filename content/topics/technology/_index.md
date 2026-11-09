@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3785
+topic_total_pages: 3786
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6269,6 +6269,9 @@ topic_entities:
   - key: "DrewHarwell"
     title: "Drew Harwell"
     url: "/wiki/entities/drewharwell/"
+  - key: "DrewHaven"
+    title: "Drew Haven"
+    url: "/wiki/entities/drewhaven/"
   - key: "DriverAIAgency"
     title: "Driver AI Agency"
     url: "/wiki/entities/driveraiagency/"

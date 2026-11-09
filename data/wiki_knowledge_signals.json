@@ -54843,9 +54843,9 @@
       "url": "/wiki/concepts/clitoralanatomyresearchgap/"
     },
     "ClockedOut": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260907_0907_MP_TECH_pod_128 [tech_20260907_0907_MP_TECH_pod_128].md",
@@ -54853,9 +54853,16 @@
           "show": "Marketplace Tech",
           "title": "What it's like to log off from a career in tech",
           "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261109_1109_MP_TECH_pod_128 [tech_20261109_1109_MP_TECH_pod_128].md",
+          "key": "tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Saying \"so long\" to the tech industry",
+          "url": "/wiki/sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-09",
       "url": "/wiki/entities/clockedout/"
     },
     "ClosedLoopSleepEnhancementBoundary": {
@@ -81056,6 +81063,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/dredscott/"
     },
+    "DrewHaven": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261109_1109_MP_TECH_pod_128 [tech_20261109_1109_MP_TECH_pod_128].md",
+          "key": "tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Saying \"so long\" to the tech industry",
+          "url": "/wiki/sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/drewhaven/"
+    },
     "DrewTaggart": {
       "episode_count": 1,
       "show_count": 1,
@@ -83868,9 +83891,9 @@
       "url": "/wiki/concepts/earlyrestorationcoalitionintegration/"
     },
     "EarlyRetirementWorkAutonomy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260907_0907_MP_TECH_pod_128 [tech_20260907_0907_MP_TECH_pod_128].md",
@@ -83878,9 +83901,16 @@
           "show": "Marketplace Tech",
           "title": "What it's like to log off from a career in tech",
           "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261109_1109_MP_TECH_pod_128 [tech_20261109_1109_MP_TECH_pod_128].md",
+          "key": "tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Saying \"so long\" to the tech industry",
+          "url": "/wiki/sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-09",
       "url": "/wiki/concepts/earlyretirementworkautonomy/"
     },
     "EarlyUrbanizationInstitutionalCoEvolution": {
@@ -92760,6 +92790,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/enochsontonga/"
+    },
+    "EnoughBasedWorkExit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261109_1109_MP_TECH_pod_128 [tech_20261109_1109_MP_TECH_pod_128].md",
+          "key": "tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Saying \"so long\" to the tech industry",
+          "url": "/wiki/sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/concepts/enoughbasedworkexit/"
     },
     "EnsembleBattleConvergence": {
       "episode_count": 1,
@@ -175877,6 +175923,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/lindsaycole/"
+    },
+    "LindsayHaven": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261109_1109_MP_TECH_pod_128 [tech_20261109_1109_MP_TECH_pod_128].md",
+          "key": "tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Saying \"so long\" to the tech industry",
+          "url": "/wiki/sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-09",
+      "url": "/wiki/entities/lindsayhaven/"
     },
     "LineageRuleDurability": {
       "episode_count": 1,
