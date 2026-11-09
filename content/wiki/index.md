@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上](sources/ep151-ep151.md) — 疯投圈与冷芸讨论国产中高端时尚品牌增长、向往感、数字旗舰店、复购与库存等经营质量指标。
 - [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](sources/7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6.md) — What's Next 对话小影科技韩晟，以视频创作为例讨论通用与垂直 Agent 协作、首版驱动的意图澄清、专业执行、模型成本、本地化和快速需求验证。
 - [All eyes on Eisenkot: Israel’s could-be prime minister](sources/all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743.md) — Economist Podcasts on Eisenkot’s minority-government attempt, satellite evidence of Ukrainian gains amid Russian deep strikes, and *Who’s Who* as an elite-history dataset.
 - [宏观经济如何传导给我们每个人？](sources/lq3ilhp6uzpmrwqprbuh28j5ljdt-lq3ilhp6uzpmrwqprbuh28j5ljdt.md) — 面基与投资ABC邀请缪延亮，从一般均衡、中性利率、存款结构和美债安全性延伸到AI资本开支、劳动替代、通缩与分配。
@@ -5007,6 +5008,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke](sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992.md) — Huberman Lab interview on addiction as reward adaptation and controllable state change, radical surrender, codependency, and clinically bounded recovery.
 
 ## Entities
+- [冷芸 / Leng Yun](entities/LengYun.md) — Fashion researcher and practitioner analyzing desire, premium presentation, and Chinese fashion upgrading.
+- [江南布衣 / JNBY](entities/JNBY.md) — Established Chinese fashion brand with a literary, relaxed aesthetic and growing ecommerce business.
+- [朗姿 / Lancy](entities/Lancy.md) — Premium Chinese womenswear brand focused on affluent mature women and formal occasions.
+- [比音勒芬 / BIEM.L.FDLKK](entities/Biemlf.md) — Golf-coded Chinese premium apparel brand built around a bounded domestic male customer circle.
 - [Drew Haven](entities/DrewHaven.md) — Former technology worker whose retirement case links cultural disillusionment, health, defining enough, and time autonomy.
 - [Lindsay Haven](entities/LindsayHaven.md) — Former video game worker whose workforce exit links profit pressure, gender discrimination, caregiving, identity, and community.
 - [韩晟（小影科技） / Han Sheng (Xiaoying Technology)](entities/HanShengXiaoying.md) — 小影科技创始人兼 CEO，提出结果交付、草稿迭代及通用—垂直 Agent 协作的产品框架。
@@ -19079,6 +19084,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [Chinese Fashion Brand Premiumization / 中国时尚品牌高端化](concepts/ChineseFashionBrandPremiumization.md) — Domestic fashion brands moving from manufacturing and function toward aesthetic, cultural, and relationship value.
+- [Digital Flagship Brand Showroom / 数字旗舰店品牌展厅](concepts/DigitalFlagshipBrandShowroom.md) — Official ecommerce store as a brand image, styling, education, and customer-operation surface.
+- [Fashion Brand Operating Quality / 时尚品牌经营质量](concepts/FashionBrandOperatingQuality.md) — Framework joining active search, full-price sales, repeat purchase, returns, margins, and inventory beyond GMV.
 - [General–Vertical Agent Collaboration](concepts/GeneralVerticalAgentCollaboration.md) — 通用 Agent 持有广泛用户上下文、垂直 Agent 提供专业判断与执行的协作模式。
 - [Iterative Creative Agent](concepts/IterativeCreativeAgent.md) — 通过首版作品和局部修改发现隐性创作意图并逼近满意结果的 Agent 模式。
 - [Cultural Trend Localization](concepts/CulturalTrendLocalization.md) — 结合本地创作者、当下文化判断和产品行为反馈的动态本地化方法。

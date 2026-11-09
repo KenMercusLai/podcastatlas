@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11115
+wiki_total_pages: 11118
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "ChineseFamilyBusinessSuccession"
     title: "Chinese Family Business Succession / 中国家族企业接班"
     url: "/wiki/concepts/chinesefamilybusinesssuccession/"
+  - key: "ChineseFashionBrandPremiumization"
+    title: "Chinese Fashion Brand Premiumization / 中国时尚品牌高端化"
+    url: "/wiki/concepts/chinesefashionbrandpremiumization/"
   - key: "ChineseFolkReligionLayering"
     title: "Chinese Folk Religion Layering"
     url: "/wiki/concepts/chinesefolkreligionlayering/"

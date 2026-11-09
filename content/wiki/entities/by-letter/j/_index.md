@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 13983
+wiki_total_pages: 13987
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1832,6 +1832,9 @@ wiki_pages:
   - key: "JiangChongWesternHan"
     title: "江充 / Jiang Chong (Western Han)"
     url: "/wiki/entities/jiangchongwesternhan/"
+  - key: "JNBY"
+    title: "江南布衣 / JNBY"
+    url: "/wiki/entities/jnby/"
   - key: "JiangChengFundManager"
     title: "江城 / Jiang Cheng (Fund Manager)"
     url: "/wiki/entities/jiangchengfundmanager/"

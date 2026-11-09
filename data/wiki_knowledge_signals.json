@@ -23236,9 +23236,9 @@
       "url": "/wiki/entities/aspasia/"
     },
     "AspirationalEmotionalPremium": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
@@ -23253,9 +23253,16 @@
           "show": "声动早咖啡",
           "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
           "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        },
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/aspirationalemotionalpremium/"
     },
     "AssassinationAccessCredential": {
@@ -32568,6 +32575,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/bibliographicclassificationasstatecraft/"
+    },
+    "Biemlf": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/biemlf/"
     },
     "BiffLoman": {
       "episode_count": 1,
@@ -50865,6 +50888,22 @@
       "updated": "2026-10-21",
       "url": "/wiki/concepts/chinesefamilybusinesssuccession/"
     },
+    "ChineseFashionBrandPremiumization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/chinesefashionbrandpremiumization/"
+    },
     "ChineseFootballAsianCompetitionPriority": {
       "episode_count": 1,
       "show_count": 1,
@@ -62510,9 +62549,9 @@
       "url": "/wiki/concepts/corestandinggroundpreservation/"
     },
     "CoreTribePositioning": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Advice Line with Chris Riccobono of UNTUCKit [c087247f-1f85-4c15-b4aa-4ffea0368c4c].md",
@@ -62534,9 +62573,16 @@
           "show": "疯投圈",
           "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
           "url": "/wiki/sources/ep150-ep150/"
+        },
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
         }
       ],
-      "updated": "2026-10-27",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/coretribepositioning/"
     },
     "CoreWeave": {
@@ -76395,6 +76441,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/digitaldetoxeconomy/"
+    },
+    "DigitalFlagshipBrandShowroom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/digitalflagshipbrandshowroom/"
     },
     "DigitalMemorialization": {
       "episode_count": 3,
@@ -101219,6 +101281,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/fascistsportpolicy/"
+    },
+    "FashionBrandOperatingQuality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/fashionbrandoperatingquality/"
     },
     "FashionCirculationInfrastructure": {
       "episode_count": 2,
@@ -144439,9 +144517,9 @@
       "url": "/wiki/entities/iceni/"
     },
     "Icicle": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ep150 [ep150].md",
@@ -144449,9 +144527,16 @@
           "show": "疯投圈",
           "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
           "url": "/wiki/sources/ep150-ep150/"
+        },
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
         }
       ],
-      "updated": "2026-10-27",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/icicle/"
     },
     "IdealToPracticeConversion": {
@@ -154012,6 +154097,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/jlaustin/"
+    },
+    "JNBY": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/jnby/"
     },
     "JPMorgan": {
       "episode_count": 3,
@@ -168814,6 +168915,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/lancelot/"
     },
+    "Lancy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/lancy/"
+    },
     "LandTenureCollateralCredibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -171356,6 +171473,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/lenacurtis/"
+    },
+    "LengYun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/lengyun/"
     },
     "LengZiquan": {
       "episode_count": 1,
@@ -222278,6 +222411,29 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/owenzidar/"
     },
+    "PANE": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/pane/"
+    },
     "PCOSCardiometabolicRisk": {
       "episode_count": 4,
       "show_count": 1,
@@ -266592,9 +266748,9 @@
       "url": "/wiki/entities/shanxibethunehospital/"
     },
     "ShanxiaYousong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
@@ -266609,9 +266765,16 @@
           "show": "声动早咖啡",
           "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
           "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+        },
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/shanxiayousong/"
     },
     "ShanyinPrincessLiuChuyu": {
@@ -295293,6 +295456,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/tlaxcala/"
+    },
+    "Tmall": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？ [1005452453].md",
+          "key": "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453",
+          "show": "声动早咖啡",
+          "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
+          "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
+        },
+        {
+          "episode_file": "ep151 [ep151].md",
+          "key": "ep151-ep151",
+          "show": "疯投圈",
+          "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
+          "url": "/wiki/sources/ep151-ep151/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/tmall/"
     },
     "ToAgentDistribution": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 13983
+wiki_total_pages: 13987
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "BrothersGrimm"
     title: "格林兄弟 / Brothers Grimm"
     url: "/wiki/entities/brothersgrimm/"
+  - key: "Biemlf"
+    title: "比音勒芬 / BIEM.L.FDLKK"
+    url: "/wiki/entities/biemlf/"
   - key: "BiLanLateHan"
     title: "毕岚 / Bi Lan (late Han)"
     url: "/wiki/entities/bilanlatehan/"

@@ -39005,3 +39005,11 @@ Added source `125-mogai-lanpian-or-jingdian-shenzuo-quhua-yitian-tulongji-zhi-mo
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | 151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上
+
+Added source `ep151-ep151`; created [[LengYun|冷芸]], [[JNBY|江南布衣]], [[Lancy|朗姿]], [[Biemlf|比音勒芬]], [[ChineseFashionBrandPremiumization|中国时尚品牌高端化]], [[DigitalFlagshipBrandShowroom|数字旗舰店品牌展厅]], and [[FashionBrandOperatingQuality|时尚品牌经营质量]]; and resynthesized [[ShanxiaYousong|山下有松]], [[Icicle|之禾 / ICICLE]], [[PANE]], [[Tmall|天猫]], [[AspirationalEmotionalPremium|向往感溢价]], and [[CoreTribePositioning]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: domestic premium-fashion growth becomes more plausible when social platforms aggregate niche taste, flagship stores present a complete lifestyle, and local cultural and customer knowledge support desire beyond function; durability still depends on active search, full-price conversion, return-adjusted revenue, repeat purchase, new-product contribution, margins, marketing expense, inventory, creative talent, price discipline, and international recognition. No settled contradiction was adopted. Sales, rankings, repurchase rates, return rates, member counts, ecommerce growth, investment significance, inventory days, and demographic-attitude findings remain platform-, company-, host-, guest-, or source-scoped because definitions and underlying datasets are not supplied. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,889 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

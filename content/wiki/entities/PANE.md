@@ -2,22 +2,55 @@
 title: "PANE"
 type: entity
 tags: [company, footwear, fashion, consumer-brand, china]
-sources: [144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
-last_updated: 2026-08-09
+sources:
+  - 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1
+  - ep151-ep151
+last_updated: 2026-11-10
+knowledge_schema: synthesis-v1
 ---
 
 # PANE
 
-PANE is the Chinese footwear brand used in [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] as the episode's clearest "export attention before domestic fame" case. The source says the brand originally had little domestic visibility, used only an English name, and gained attention through overseas Instagram and foreign visitors before Xiaohongshu and Douyin creators began following the store and unboxing path.
+## Overview
 
-The episode frames PANE as a design-led rather than function-led shoe brand. Its shoes are described as retro, thin-soled, leather-heavy fashion products influenced by German trainer and ballet-shoe shapes, with the store explanation reduced to "it just looks good." That places PANE inside [[AspirationalEmotionalPremium]] and [[ChineseConsumerBrandSoftPower]] even though its visual language is not strongly "Chinese style."
+PANE is a Chinese design-led footwear brand used as both an inbound-tourism discovery case and a newer participant in domestic premium-fashion growth.
 
-PANE also helps the source avoid a narrow definition of national brand globalization. A Chinese brand can travel through international aesthetics, category trend timing, and relative price attractiveness rather than through explicit Chinese cultural symbols. The source leaves open whether PANE's product strength, repeat purchase, and attention durability are proven.
+## Current Profile
 
-## Connections
-- [[InboundTourismBrandDiscovery]] - foreign attention and store discovery preceding wider domestic attention.
-- [[ChineseConsumerBrandSoftPower]] - Chinese consumer-brand globalization without necessarily using Chinese-style imagery.
-- [[GlobalProductLocalization]] - international aesthetic fit rather than direct translation of a domestic format.
-- [[AspirationalEmotionalPremium]], [[ConsumerBrandMoat]], and [[QualityLowPriceReasonedPremium]] - premium, brand, and value-perception frames.
-- [[ShanxiaYousong]], [[Guanxia]], and [[Sandunban]] - comparison cases in the same episode.
-- [[Instagram]], [[Xiaohongshu]], and [[Douyin]] - attention surfaces named in the source's PANE path.
+The earlier source presents PANE as gaining overseas Instagram and visitor attention before broad domestic recognition. Its retro, thin-soled, leather-heavy shoes draw on German-trainer and ballet-shoe forms, making aesthetic attraction rather than technical performance the clearest purchase reason. This shows that Chinese consumer-brand soft power can travel through international visual language, not only explicit Chinese motifs.
+
+The newer evidence reports category momentum: PANE entered the top twenty of its footwear category during the cited Double 11 phase. That broadens the case from discovery into domestic sales visibility, but does not establish repeat purchase, full-price demand, return-adjusted revenue, or durable international recognition.
+
+## Key Characteristics
+
+- Chinese design-led fashion footwear brand.
+- Retro, thin-soled, leather-heavy aesthetic influenced by international shoe forms.
+- Early overseas social and visitor attention preceding wider domestic visibility.
+- Premium appeal based more on appearance and identity than functional performance claims.
+- Reported Double 11 category visibility, with retention and operating quality unresolved.
+
+## Evidence
+
+- Discovery path - [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] says overseas Instagram and foreign visitors helped seed attention before Xiaohongshu and Douyin amplified it domestically.
+- Product identity - [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] describes retro, thin-soled, leather-heavy shoes whose store-level explanation was essentially that they look good.
+- Globalization route - [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] uses PANE to show that a Chinese brand can travel through internationally legible aesthetics.
+- Domestic momentum - [[ep151-ep151]] reports that PANE entered its category's top twenty during the cited Double 11 phase.
+
+## Qualifications
+
+Both sources are podcast analyses rather than audited company disclosures. The ranking scope and period are not fully specified. Attention, category rank, and visual distinction do not prove product durability, repeat purchase, profitability, full-price strength, or international distribution.
+
+## What Changed
+
+- Added episode 151's domestic category-ranking evidence.
+- Converted the page to the synthesis-first entity schema.
+- Preserved uncertainty around retention, operating quality, and attention durability.
+
+## Relationships
+
+- [[InboundTourismBrandDiscovery]] - visitor and overseas-social attention preceded wider domestic visibility.
+- [[ChineseConsumerBrandSoftPower]] - globally legible route without explicit Chinese-style imagery.
+- [[AspirationalEmotionalPremium]] - appearance and identity carry more of the premium than technical claims.
+- [[ChineseFashionBrandPremiumization]] - newer footwear case in the cross-category thesis.
+- [[FashionBrandOperatingQuality]] - tests whether ranking visibility becomes durable retained demand.
+- [[ShanxiaYousong]] - comparison case using more explicitly local craft and cultural cues.

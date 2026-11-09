@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13983
+wiki_total_pages: 13987
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "LengZiquan"
     title: "冷自泉 / Leng Ziquan"
     url: "/wiki/entities/lengziquan/"
+  - key: "LengYun"
+    title: "冷芸 / Leng Yun"
+    url: "/wiki/entities/lengyun/"
   - key: "LiangzhouLateHan"
     title: "凉州 / Liangzhou (late Han)"
     url: "/wiki/entities/liangzhoulatehan/"
@@ -1985,6 +1988,9 @@ wiki_pages:
   - key: "LiuXuanGengshiEmperor"
     title: "更始帝刘玄 / Liu Xuan (Gengshi Emperor)"
     url: "/wiki/entities/liuxuangengshiemperor/"
+  - key: "Lancy"
+    title: "朗姿 / Lancy"
+    url: "/wiki/entities/lancy/"
   - key: "LangxingDingsheng"
     title: "朗行鼎盛 / Langxing Dingsheng"
     url: "/wiki/entities/langxingdingsheng/"
