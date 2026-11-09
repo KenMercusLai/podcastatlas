@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？](sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop.md) — 芮淇讲透资治通鉴以孙刘荆州争端、吕蒙诱降郝普与鲁肃会关羽，讨论虚假无援信息、将领自主性与共同威胁下的联盟利益边界。
 - [151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上](sources/ep151-ep151.md) — 疯投圈与冷芸讨论国产中高端时尚品牌增长、向往感、数字旗舰店、复购与库存等经营质量指标。
 - [通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35](sources/7b500b8f-cfde-4da1-9559-8128adcea8f6-7b500b8f-cfde-4da1-9559-8128adcea8f6.md) — What's Next 对话小影科技韩晟，以视频创作为例讨论通用与垂直 Agent 协作、首版驱动的意图澄清、专业执行、模型成本、本地化和快速需求验证。
 - [All eyes on Eisenkot: Israel’s could-be prime minister](sources/all-eyes-on-eisenkot-israels-could-be-prime-minister-6af19d18e7c6d309d1116743.md) — Economist Podcasts on Eisenkot’s minority-government attempt, satellite evidence of Ukrainian gains amid Russian deep strikes, and *Who’s Who* as an elite-history dataset.
@@ -5008,6 +5009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke](sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992.md) — Huberman Lab interview on addiction as reward adaptation and controllable state change, radical surrender, codependency, and clinically bounded recovery.
 
 ## Entities
+- [郝普 / Hao Pu (late Han)](entities/HaoPuLateHan.md) — 零陵太守，因误信刘备、关羽无法驰援的消息而向吕蒙投降。
 - [冷芸 / Leng Yun](entities/LengYun.md) — Fashion researcher and practitioner analyzing desire, premium presentation, and Chinese fashion upgrading.
 - [江南布衣 / JNBY](entities/JNBY.md) — Established Chinese fashion brand with a literary, relaxed aesthetic and growing ecommerce business.
 - [朗姿 / Lancy](entities/Lancy.md) — Premium Chinese womenswear brand focused on affluent mature women and formal occasions.
@@ -19084,6 +19086,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 
 ## Concepts
+- [虚假无援诱降 / False Relief-Denial Surrender](concepts/FalseReliefDenialSurrender.md) — 通过操纵守方对援军可能性的判断，使继续坚守在错误信息下显得无意义的诱降模式。
 - [Chinese Fashion Brand Premiumization / 中国时尚品牌高端化](concepts/ChineseFashionBrandPremiumization.md) — Domestic fashion brands moving from manufacturing and function toward aesthetic, cultural, and relationship value.
 - [Digital Flagship Brand Showroom / 数字旗舰店品牌展厅](concepts/DigitalFlagshipBrandShowroom.md) — Official ecommerce store as a brand image, styling, education, and customer-operation surface.
 - [Fashion Brand Operating Quality / 时尚品牌经营质量](concepts/FashionBrandOperatingQuality.md) — Framework joining active search, full-price sales, repeat purchase, returns, margins, and inventory beyond GMV.

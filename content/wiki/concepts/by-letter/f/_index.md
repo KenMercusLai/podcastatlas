@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11118
+wiki_total_pages: 11119
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1769,6 +1769,9 @@ wiki_pages:
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"
+  - key: "FalseReliefDenialSurrender"
+    title: "虚假无援诱降 / False Relief-Denial Surrender"
+    url: "/wiki/concepts/falsereliefdenialsurrender/"
   - key: "FalseReinforcementDeception"
     title: "虚构援军欺敌 / False Reinforcement Deception"
     url: "/wiki/concepts/falsereinforcementdeception/"

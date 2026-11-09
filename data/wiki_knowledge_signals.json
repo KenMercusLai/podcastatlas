@@ -57887,9 +57887,9 @@
       "url": "/wiki/concepts/commanddisciplineauthority/"
     },
     "CommandDisobedienceUnderBattlefieldUncertainty": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9153225543 [GLT9153225543].md",
@@ -57904,9 +57904,16 @@
           "show": "The Rest Is History",
           "title": "516. Nelson: God of War (Part 3)",
           "url": "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"
+        },
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/commanddisobedienceunderbattlefielduncertainty/"
     },
     "CommandLawOverPersonalTies": {
@@ -99472,6 +99479,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/falsereinforcementdeception/"
     },
+    "FalseReliefDenialSurrender": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/falsereliefdenialsurrender/"
+    },
     "Falstaff": {
       "episode_count": 1,
       "show_count": 1,
@@ -129515,6 +129538,22 @@
       ],
       "updated": "2026-10-25",
       "url": "/wiki/entities/haonanmultimodalembodiedai/"
+    },
+    "HaoPuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/haopulatehan/"
     },
     "HaoWuQiangLeader": {
       "episode_count": 1,
@@ -176319,6 +176358,36 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/linghumaowesternhan/"
     },
+    "LinglingCommanderyLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
+          "key": "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
+          "key": "zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj/"
+        },
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/linglingcommanderylatehan/"
+    },
     "LinglingMyFirstHalfLife": {
       "episode_count": 1,
       "show_count": 1,
@@ -186087,9 +186156,9 @@
       "url": "/wiki/entities/luqianshou/"
     },
     "LuSu": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -186153,9 +186222,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3/"
+        },
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/lusu/"
     },
     "LuWenshuWesternHan": {
@@ -188756,9 +188832,9 @@
       "url": "/wiki/entities/lyukuanglatehan/"
     },
     "LyuMeng": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -188794,9 +188870,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
+        },
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/lyumeng/"
     },
     "LyuMengzheng": {
@@ -280060,9 +280143,9 @@
       "url": "/wiki/concepts/strategicangerdeterrence/"
     },
     "StrategicBaseTransferAllianceConsolidation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？ [lqbhHQtFHGhodOjNxKSA3OZT9YqZ].md",
@@ -280084,9 +280167,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        },
+        {
+          "episode_file": "lvYngIhGS-ObRqASnUB4_lPTrYop [lvYngIhGS-ObRqASnUB4_lPTrYop].md",
+          "key": "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/strategicbasetransferallianceconsolidation/"
     },
     "StrategicBorderCorridorDependence": {

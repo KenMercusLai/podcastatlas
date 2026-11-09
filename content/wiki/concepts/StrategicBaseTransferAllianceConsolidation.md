@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
   - zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3
   - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop
+last_updated: 2026-11-10
 ---
 
 ## Definition
@@ -24,6 +25,8 @@ Strategic base transfer alliance consolidation / 战略基地转移式联盟巩�
 
 The transfer is therefore not presented as charity or failure to perceive danger. It is a threat-ordering choice: strengthen an anti-Cao partner and make divide-and-defeat strategy harder now, while accepting a more autonomous ally with later territorial interests. Alliance consolidation and future distribution conflict arise from the same decision.
 
+[[zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop|Hanji 1152]] supplies the later failure mode. Once Liu Bei has taken Yizhou, Sun Quan treats the earlier obstruction of his Yizhou plan and the delayed return of Jingzhou territory as evidence that partner empowerment has altered the bargain. Military action over Changsha, Guiyang, and Lingling follows, yet [[LuSu|鲁肃]] still negotiates with [[GuanYu|关羽]] because [[CaoCao|曹操]] remains a common threat. The settlement thus succeeds at creating an autonomous anti-Cao power and fails to settle the ownership, return, and post-expansion distribution rules between the partners.
+
 ## Key Claims
 
 - A coalition becomes more durable when its weaker member gains resources that let it survive without continuous rescue.
@@ -32,6 +35,7 @@ The transfer is therefore not presented as charity or failure to perceive danger
 - The strategic effect comes from the postwar distribution of capacity, so it should not be collapsed into the battlefield outcome that preceded it.
 - A base-sharing decision can consolidate cooperation and simultaneously plant a later dispute over ownership, return, or expansion.
 - Partner empowerment is most intelligible when compared with the available containment alternative and the relative urgency of external and internal threats.
+- A base transfer needs credible later rules for ownership, return, and post-expansion adjustment; shared threat alone does not settle those distribution questions.
 
 ## Evidence
 
@@ -40,17 +44,17 @@ The transfer is therefore not presented as charity or failure to perceive danger
 - Alliance tradeoff: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] credits Lu Su's anti-Cao logic while also locating the decision inside a contested postwar territorial settlement.
 - Rejected containment: [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] contrasts Zhou Yu and Lu Fan's detention proposal with Sun Quan's decision to retain Liu Bei because Cao Cao is still the more urgent threat.
 - Limited precursor: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] places Liu Bei at Gongan and inside a political marriage before the later broader Jingzhou settlement.
+- Distribution-conflict outcome: [[zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop|Hanji 1152]] connects Liu Bei's Yizhou conquest and delayed Jingzhou return to Sun Quan's three-commandery action, while Lu Su's negotiation preserves the anti-Cao relationship from complete collapse.
 
 ## Counterevidence & Qualifications
 
-The sources use the conventional shorthand “借荆州,” but the territorial sequence, jurisdiction, and later ownership claims were more complicated than a simple bilateral loan. Hanji 1113's county distribution, office sequence, Gongan naming, and marriage terms require textual verification and do not establish a direct causal chain to Guan Yu's death. The tactical-versus-strategic contrast is analytically useful, not proof that Cao Cao feared only this development or that it alone produced the tripartite order. Hanji 1117's detention proposal, predicted Liu-side response, and Sun Quan motive remain episode-presented. A strengthened partner can later become a competitor, so the mechanism is compatible with [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] rather than evidence of permanent trust.
+The sources use the conventional shorthand “借荆州,” but the territorial sequence, jurisdiction, and later ownership claims were more complicated than a simple bilateral loan. Hanji 1113's county distribution, office sequence, Gongan naming, and marriage terms require textual verification and do not establish a direct causal chain to Guan Yu's death. The tactical-versus-strategic contrast is analytically useful, not proof that Cao Cao feared only this development or that it alone produced the tripartite order. Hanji 1117's detention proposal, predicted Liu-side response, and Sun Quan motive remain episode-presented. Hanji 1152's reconstruction of the original bargain, Yizhou obstruction, commandery appointments, speeches, and attribution of deception require primary-text comparison. A strengthened partner can later become a competitor, so the mechanism is compatible with [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] rather than evidence of permanent trust.
 
 ## What Changed
 
-- Added the detention-and-separation proposal as the containment counterfactual against which partner empowerment was chosen.
-- Reframed the transfer as conscious threat ordering under continuing Cao pressure rather than blindness to Liu Bei's danger.
-- Made immediate coalition resilience and later territorial conflict simultaneous consequences rather than opposites.
-- Added limited Gongan access and political marriage as the precursor stage before broader partner empowerment.
+- Added the 215 CE three-commandery conflict as the realized distribution-risk outcome.
+- Distinguished successful partner capacity-building from failure to settle later ownership and adjustment rules.
+- Preserved Lu Su's negotiation as evidence that territorial conflict need not immediately erase the common-enemy alliance.
 
 ## Related Concepts
 
@@ -62,3 +66,5 @@ The sources use the conventional shorthand “借荆州,” but the territorial 
 - [[RedCliffsBattle|赤壁之战]] - battlefield precondition whose strategic meaning is altered by the postwar settlement.
 - [[ZhouYuLateHan|周瑜]] - strategist whose rejected containment proposal clarifies the alternative to partner empowerment.
 - [[PoliticalMarriageAllianceHedging|政治联姻式同盟对冲]] - kinship-based precursor that reinforces cooperation without supplying the same territorial capacity.
+- [[LuSu|鲁肃]] - negotiator who defends Jiangdong's claim while preserving the anti-Cao relationship.
+- [[GuanYu|关羽]] - Liu-side commander whose control of the disputed commanderies turns the settlement problem operational.

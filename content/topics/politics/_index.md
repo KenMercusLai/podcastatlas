@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3472
+topic_total_pages: 3473
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -10098,6 +10098,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9"
     title: "《资治通鉴·汉纪》1148丨法正作威作福，诸葛亮为什么不管？"
     url: "/wiki/sources/zizhi-tongjian-hanji-1148-fazheng-zuowei-zuofu-zhugeliang-weishenme-buguan-ljdigbpovfw6rh6oy30drk1idks9/"
+  - key: "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop"
+    title: "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
   - key: "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3"
     title: "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）"
     url: "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3/"

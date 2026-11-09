@@ -33783,6 +33783,10 @@
     "title": "虚构援军欺敌 / False Reinforcement Deception",
     "url": "/wiki/concepts/falsereinforcementdeception/"
   },
+  "FalseReliefDenialSurrender": {
+    "title": "虚假无援诱降 / False Relief-Denial Surrender",
+    "url": "/wiki/concepts/falsereliefdenialsurrender/"
+  },
   "FalsifiableProductHypothesis": {
     "title": "Falsifiable Product Hypothesis / 可证伪产品假设",
     "url": "/wiki/concepts/falsifiableproducthypothesis/"
@@ -42246,6 +42250,10 @@
   "HaoNanMultimodalEmbodiedAI": {
     "title": "淏楠（多模态与具身 AI 从业者）",
     "url": "/wiki/entities/haonanmultimodalembodiedai/"
+  },
+  "HaoPuLateHan": {
+    "title": "郝普 / Hao Pu (late Han)",
+    "url": "/wiki/entities/haopulatehan/"
   },
   "HaoWuQiangLeader": {
     "title": "浩武 / Hao Wu (Qiang leader)",
@@ -114694,6 +114702,10 @@
   "zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu": {
     "title": "《资治通鉴·汉纪》1150丨曹操为什么要杀怀孕的董贵人？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu/"
+  },
+  "zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop": {
+    "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",
