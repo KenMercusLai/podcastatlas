@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1141丨精于算计的韩遂，为何在曹操面前不堪一击？](sources/zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2.md) — 芮淇讲透资治通鉴回顾韩遂从被胁入乱、兼并结盟到渭南败退与部众离散，区分地方权谋能力与可持续战略组织能力。
 - [《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？](sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx.md) — 芮淇讲透资治通鉴以曹操获授近王者礼器、查理·马特的类比及曾国藩与年羹尧的对照，讨论权力可视化、王朝更替与功高震主。
 - [《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？](sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy.md) — 芮淇讲透资治通鉴 episode on self-validated relationship boundaries, reciprocal etiquette in the Mencius divorce anecdote, and Lyu Meng's supply- and water-timed rapid capture of Lujiang's 皖城.
 - [《资治通鉴·汉纪》1144丨凤雏庞统是怎么死的？](sources/zizhi-tongjian-hanji-1144-fengchu-pangtong-shi-zenme-si-de-lpc9kyfhupts3zfjwjsv4-ugjxox.md) — 芮淇讲透资治通鉴 episode on Pang Tong's death at 雒城, complementary adviser roles, later 落凤坡 memory, Ma Chao's psychological pressure, and Liu Zhang's surrender at Chengdu.
@@ -11225,7 +11226,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
 - [庞德 / Pang De](entities/PangDe.md) — Ma Teng-Ma Chao-side officer who kills Guo Yuan at Pingyang and later remains in Hanzhong during Ma Chao's Qishan attempt.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
-- [韩遂 / Han Sui](entities/HanSui.md) — 从被胁迫入乱到反复参与西部联盟、调停与归附，并在渭南成为曹操借关系信号离间马超的关键节点。
+- [韩遂 / Han Sui](entities/HanSui.md) — 从被胁入乱、兼并与反复结盟到渭南离间和西部败亡，显示地方权谋未必能转化为稳定的指挥与支持体系。
 - [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、又与崔琰共同以德行和务实标准主持选官的曹操谋臣。
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's wealthy father and network enabler whose disputed killing later triggers the Xuzhou revenge branch.

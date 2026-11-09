@@ -14,7 +14,8 @@ sources:
   - zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5
   - zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk
   - zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb
-last_updated: 2026-10-12
+  - zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2
+last_updated: 2026-11-09
 ---
 
 ## Overview
@@ -27,6 +28,8 @@ Han Sui first appears as a Han-side military-administrative resource coerced int
 
 Hanji 1122 adds the late culmination. Han Sui's earlier reluctance to rise is reportedly overcome when Ma Chao asks to be accepted as a son. During the campaign, Han Sui's friendly conversation with [[CaoCao|曹操]] and his inability or unwillingness to give Ma Chao a satisfying account create an ambiguous signal. A visibly altered Cao-side letter then makes him look like a covert correspondent, and the coalition's weak trust becomes a battlefield liability before both leaders flee defeat.
 
+Hanji 1141 supplies a career retrospective and terminal phase. It interprets Han Sui's rise as mastery of short-horizon bargaining, complementary-resource alliances, coercion, and consolidation, but distinguishes those abilities from the wider political and organizational system Cao Cao can mobilize. After Weinan, [[XiahouYuan|夏侯渊]] reportedly attacks Qiang supporters in order to force Han Sui into an unfavorable relief battle. The episode then says subordinates Qu Yan and Jiang Shi kill Han Sui and deliver his head; that mechanism remains source-scoped pending comparison with alternative records.
+
 ## Key Characteristics
 
 - Enters the western rebellion under coercion before becoming an independent military consolidator.
@@ -35,6 +38,7 @@ Hanji 1122 adds the late culmination. Han Sui's earlier reluctance to rise is re
 - Uses personal, regional, and convivial ties to reopen channels across active conflict.
 - Becomes Ma Chao's crisis-made surrogate father and coalition partner without gaining a durable verification or command structure.
 - Serves as the ambiguous relational node through which Cao Cao deepens coalition distrust at Weinan.
+- Retains local coalition skill but fails to preserve a renewable base once trust, Qiang support, and subordinate loyalty erode under sustained pressure.
 
 ## Evidence
 
@@ -44,23 +48,24 @@ Hanji 1122 adds the late culmination. Han Sui's earlier reluctance to rise is re
 - Reversible alignment and field contact: [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] follows Han Sui from mediator to Ma Teng ally and then to friendly contact with [[FanChouLateHan|樊稠]]; [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] shows that contact becoming purge evidence inside Li Jue's camp.
 - Court accommodation: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] places Han Sui in the failed anti-Li-Jue intervention, while [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] says [[ZhongYao|钟繇]] later persuades western leaders into nominal submission and family guarantees.
 - Surrogate fatherhood and final division: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] connects Han Sui's reluctant rising, Ma Chao's filial appeal, the Cao-Han conversation, the altered letter, coalition distrust, and defeat.
+- Career synthesis and collapse: [[zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2|Hanji 1141]] connects coerced entry, violent consolidation, Ma Teng partnership, Weinan division, Xiahou Yuan's pressure on Qiang support, and the source's account of subordinate betrayal.
 
 ## Qualifications
 
-The source set is a chain of popular-history summaries rather than a critical biography. Han Sui's initial coercion, Bian Zhang's death, force sizes, titles, private motives, degree of loyalty, family-hostage arrangements, exact dialogue, and the altered-letter mechanism all contain source variants or require primary-text comparison. His changing alignments should not be flattened into either simple treachery or seamless strategic mastery: some shifts reflect coercion, frontier survival, failed institutions, and fragmented command.
+The source set is a chain of popular-history summaries rather than a critical biography. Han Sui's initial coercion, name change, Bian Zhang's death, force sizes, titles, private motives, degree of loyalty, family-hostage arrangements, exact dialogue, Qiang dependency, altered-letter mechanism, and death all contain source variants or require primary-text comparison. His changing alignments should not be flattened into either simple treachery or seamless strategic mastery: some shifts reflect coercion, frontier survival, failed institutions, and fragmented command. Hanji 1141's Li Huaiguang comparison is retained as a bounded central-local structural analogy, not a claim of historical equivalence.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1 using all nine prior source notes before appending the new source.
-- Added Ma Chao's surrogate-son appeal as the personal basis of their 211 alliance.
-- Added Han Sui's Cao-side conversation and the altered letter as ambiguous signals weaponized against him.
-- Connected the Weinan defeat to the longer pattern of reversible, weakly institutionalized western coalitions.
+- Added the post-Weinan pressure on Han Sui's Qiang support and the source's account of his death.
+- Reframed Han Sui's rise as real local coalition skill that did not produce durable command, succession, or replenishment capacity.
+- Added the bounded Li Huaiguang comparison while preserving institutional and chronological differences.
 
 ## Relationships
 
 - [[MaChao|马超]] - coalition partner and claimed surrogate son whose suspicion helps fracture the alliance.
 - [[MaTeng|马腾]] - recurring western ally across earlier intervention and coalition phases.
 - [[CaoCao|曹操]] - opposing commander who uses familiarity with Han Sui as a divisive signal.
+- [[XiahouYuan|夏侯渊]] - opposing commander credited with attacking Han Sui's Qiang support network to force relief battle.
 - [[WeinanBattleLateHan|渭南之战]] - late campaign in which Han Sui's coalition is divided and defeated.
 - [[FanChouLateHan|樊稠]] - battlefield opponent whose friendly contact with Han Sui later becomes purge evidence.
 - [[ZhongYao|钟繇]] - court intermediary associated with temporary western submission.

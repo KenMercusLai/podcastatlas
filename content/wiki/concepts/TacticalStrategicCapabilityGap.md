@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [strategy, tactics, leadership, warfare, political-capacity]
 sources:
   - zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk
-last_updated: 2026-11-08
+  - zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2
+last_updated: 2026-11-09
 ---
 
 ## Definition
@@ -14,7 +15,9 @@ The tactical–strategic capability gap / 战术—战略能力落差 is the dif
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] frames [[MaChao|马超]] and [[CaoCao|曹操]] as an illustrative contrast. Ma Chao can make Cao Cao suffer in immediate battle and retains a formidable martial reputation after defeat. Cao Cao, however, acts across more layers: military movement, court legitimacy, coalition incentives, misinformation and distrust, command delegation, logistics, and the opponent's future refuge options.
+The current evidence uses [[MaChao|马超]] and [[HanSui|韩遂]] as different contrasts with [[CaoCao|曹操]]. Ma Chao can make Cao Cao suffer in immediate battle and retains a formidable martial reputation after defeat. Han Sui's local political skill is also substantial: he survives coercive entry, consolidates rivals, bargains across groups, and forms resource-complementary alliances. Cao Cao, however, acts across more layers: military movement, court legitimacy, coalition incentives, misinformation and distrust, command delegation, logistics, and the opponents' future refuge or support options.
+
+Neither local capability produces stable trust, unified command, succession, or a renewable base by itself. The gap therefore applies not only to battlefield skill versus strategy, but also to short-horizon political maneuver versus durable strategic organization.
 
 The concept does not say that tactics are unimportant or that every strategic victory proves superior character. It says that tactical excellence is only one component of strategic capacity. A commander who cannot maintain trust, replace losses, secure supplies, coordinate partners, preserve legitimacy, or choose a sustainable political position may win moments while losing the system that makes future action possible.
 
@@ -26,6 +29,7 @@ The concept does not say that tactics are unimportant or that every strategic vi
 - Coalition management is strategic capacity because distrust can make nominal numbers unusable.
 - Retreat is strategically valuable only when it preserves or rebuilds future capacity.
 - A larger strategic system can absorb local setbacks while continuing to narrow the opponent's options.
+- Local coalition calculation can be tactically effective while remaining strategically brittle if it cannot institutionalize trust, command, and replenishment.
 
 ## Evidence
 
@@ -33,16 +37,17 @@ The concept does not say that tactics are unimportant or that every strategic vi
 - Multi-layer coordination: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] attributes Cao Cao's advantage to military deployment, political leverage, and coalition division rather than personal fighting alone.
 - Trust and coalition usability: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] recalls Ma Chao and Han Sui's interest-based alliance collapsing under suspicion.
 - Loss of renewal capacity: [[zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk|Hanji 1140]] follows the failed Qishan attempt into Ma Chao's dependent service under Liu Bei.
+- Political maneuver versus durable organization: [[zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2|Hanji 1141]] follows Han Sui from coercive entry and coalition consolidation to Weinan distrust, pressure on Qiang support, and subordinate defection.
 
 ## Counterevidence & Qualifications
 
-The episode compresses a complex campaign and career into a contrast between two men. Cao Cao's strategic advantage also depends on accumulated institutions, subordinates, supplies, court authority, and asymmetric resources; it should not be treated as individual cognition alone. Conversely, Ma Chao's choices occur under real threat and fragmented late-Han institutions. Exact campaign details and psychological explanations remain source-scoped pending primary-source comparison.
+Both episodes compress complex campaigns and careers into leader-centered contrasts. Cao Cao's strategic advantage also depends on accumulated institutions, subordinates, supplies, court authority, and asymmetric resources; it should not be treated as individual cognition alone. Conversely, Ma Chao and Han Sui act under real threat and fragmented late-Han institutions. Han Sui's changing alignments can reflect coercion and frontier survival as well as personal calculation. Exact campaign details, death accounts, and psychological explanations remain source-scoped pending primary-source comparison.
 
 ## What Changed
 
-- Created a framework separating local military performance from the system that preserves future action.
-- Added coalition trust, replenishment, and political refuge as components of strategic capacity.
-- Preserved institutional and resource asymmetry as a qualification to leader-centered comparison.
+- Extended the framework from battlefield skill to short-horizon coalition and bargaining skill.
+- Added Han Sui's inability to institutionalize trust, command, and replenishment as a second case.
+- Preserved coercion, frontier fragmentation, and resource asymmetry as qualifications to leader-centered comparison.
 
 ## Related Concepts
 

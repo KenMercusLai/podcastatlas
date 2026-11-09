@@ -38903,3 +38903,11 @@ Added source `zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-l
 ## [2026-11-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-09] ingest | 《资治通鉴·汉纪》1141丨精于算计的韩遂，为何在曹操面前不堪一击？
+
+Added source `zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2`; and resynthesized [[HanSui|韩遂]], [[RelationalSignalCoalitionFracture|关系信号式离间]], and [[TacticalStrategicCapabilityGap|战术—战略能力落差]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: Han Sui's local bargaining, consolidation, and complementary-resource alliance skill was real, but it did not create stable trust, unified command, succession, or a renewable support base; Cao Cao's conversation-and-letter sequence exploited existing coalition weakness; and Xiahou Yuan's reported attack on Han Sui's Qiang support converted dependency into an unfavorable relief choice. No settled contradiction was adopted. Han Sui's name change, motives, force totals, elimination of peer leaders, Ma Teng family killings, dialogue, Qiang dependency, subordinate intent, exact death mechanism, and the Li Huaiguang analogy remain source-scoped. Broad [[CaoCao|曹操]], [[MaTeng|马腾]], [[MaChao|马超]], [[XiahouYuan|夏侯渊]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,875 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [strategy, deception, coalition, trust, signaling, late-han]
 sources:
   - zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb
-last_updated: 2026-10-12
+  - zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2
+last_updated: 2026-11-09
 ---
 
 ## Definition
@@ -14,7 +15,7 @@ last_updated: 2026-10-12
 
 ## Current Synthesis
 
-The initial case is the 211 CE [[WeinanBattleLateHan|渭南之战]]. [[CaoCao|曹操]] publicly recalls old acquaintances with [[HanSui|韩遂]], laughs with him, and leaves [[MaChao|马超]] without a verifiable account of the conversation. A later letter contains visible alterations that look as though Han Sui changed it. Neither signal alone proves defection; together they fit Ma Chao's prior fear and the coalition's weak command structure closely enough to degrade trust and coordination.
+The paired sources use the 211 CE [[WeinanBattleLateHan|渭南之战]] as the core case. [[CaoCao|曹操]] publicly recalls old acquaintances with [[HanSui|韩遂]], laughs with him, and leaves [[MaChao|马超]] without a verifiable account of the conversation. A later letter contains visible alterations that look as though Han Sui changed it. Neither signal alone proves defection; together they fit Ma Chao's prior fear and the coalition's weak command structure closely enough to degrade trust and coordination.
 
 The mechanism therefore joins structure and trigger. [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] explains why the partners lack robust common incentives and verification. Relational-signal fracture explains how an adversary turns that weakness into action by supplying ambiguous evidence that coalition members interpret against one another. Its operational value appears only when the attacker times force after the trust effect has reduced usable cohesion.
 
@@ -33,16 +34,16 @@ The mechanism therefore joins structure and trigger. [[InterestStructuredAllianc
 - Documentary signal: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] describes a Cao-side letter whose visible deletions and changes make Han Sui look like the editor.
 - Structural precondition: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] portrays the Ma-Han paternal tie as crisis-made and the wider coalition as lacking unified command.
 - Operational conversion: [[zizhi-tongjian-hanji-1122-caocao-jiayi-hetan-beihou-que-ba-machao-wang-sili-keng-lpzkwzpkbq-wcpcnuobwybmxufqb|Hanji 1122]] places the light-troop engagement and flank attack after distrust and morale decline.
+- Career-level corroboration: [[zizhi-tongjian-hanji-1141-jingyu-suanji-de-hansui-weihe-zai-caocao-mianqian-bukan-yiji-lsager0pu8mrrwlwm21dgobokiq2|Hanji 1141]] places the same conversation-and-letter mechanism inside Han Sui's longer pattern of alliances built on complementary resources but weakened by repeated conflict and limited trust.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on one structured podcast summary, not a verified transcript or critical comparison of the historical records. It cannot establish exactly who designed the letter, whether every visible alteration was intentional, what Ma Chao and Han Sui privately believed, or how much of the defeat came from distrust rather than route control, fortification, supply, troop quality, and command. Ambiguous evidence can also fail or strengthen solidarity if coalition members possess trusted verification procedures.
+The concept rests on two structured podcast summaries from the same show, not independent accounts, verified transcripts, or a critical comparison of the historical records. It cannot establish exactly who designed the letter, whether every visible alteration was intentional, what Ma Chao and Han Sui privately believed, or how much of the defeat came from distrust rather than route control, fortification, supply, troop quality, and command. Ambiguous evidence can also fail or strengthen solidarity if coalition members possess trusted verification procedures.
 
 ## What Changed
 
-- Created the concept from the paired public-conversation and altered-letter sequence in Hanji 1122.
-- Distinguished the immediate signal tactic from the coalition's deeper incentive and command fragility.
-- Connected psychological division to the later timing of force rather than treating suspicion as a complete victory by itself.
+- Added Hanji 1141's career-level corroboration of the same conversation-and-letter mechanism.
+- Clarified that the second source is same-show corroboration, not independent historical verification.
 
 ## Related Concepts
 
