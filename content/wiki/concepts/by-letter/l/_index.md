@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11153
+wiki_total_pages: 11157
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "LifeTimeVsMachineTime"
     title: "Life Time Versus Machine Time / 生命时间与机器时间"
     url: "/wiki/concepts/lifetimevsmachinetime/"
+  - key: "LifePortfolioDiversification"
+    title: "Life-Portfolio Diversification / 人生支点多元化"
+    url: "/wiki/concepts/lifeportfoliodiversification/"
   - key: "LifeStageInsurancePlanning"
     title: "Life-Stage Insurance Planning"
     url: "/wiki/concepts/lifestageinsuranceplanning/"

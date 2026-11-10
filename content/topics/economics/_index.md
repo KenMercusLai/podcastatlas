@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2385
+topic_total_pages: 2388
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1222,6 +1222,9 @@ topic_concepts:
   - key: "ExchangeTradedFund"
     title: "Exchange-Traded Fund / ETF"
     url: "/wiki/concepts/exchangetradedfund/"
+  - key: "ExperienceSpeedComplementarityUnderAI"
+    title: "Experience–Speed Complementarity Under AI / AI时代的经验—速度互补"
+    url: "/wiki/concepts/experiencespeedcomplementarityunderai/"
   - key: "ExperimentationProductionModelSplit"
     title: "Experimentation–Production Model Split"
     url: "/wiki/concepts/experimentationproductionmodelsplit/"
@@ -5948,6 +5951,9 @@ topic_entities:
   - key: "LinXingzhi"
     title: "林行止 / Lin Xingzhi"
     url: "/wiki/entities/linxingzhi/"
+  - key: "KekeWushicha"
+    title: "柯柯 / Keke (无时差研究所)"
+    url: "/wiki/entities/kekewushicha/"
   - key: "SangHongyangWesternHan"
     title: "桑弘羊 / Sang Hongyang (Western Han)"
     url: "/wiki/entities/sanghongyangwesternhan/"
@@ -6579,6 +6585,9 @@ topic_sources:
   - key: "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj"
     title: "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率"
     url: "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+  - key: "ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj"
+    title: "EP393-“30+”找工作跳槽，我们在担忧什么？| 一起渡过人生的奥德赛时刻"
+    url: "/wiki/sources/ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj/"
   - key: "ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr"
     title: "EP44 摸摸口袋，里面的钱居然是脏的？"
     url: "/wiki/sources/ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr/"

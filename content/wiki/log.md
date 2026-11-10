@@ -39131,3 +39131,11 @@ Added source `default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | EP393-“30+”找工作跳槽，我们在担忧什么？| 一起渡过人生的奥德赛时刻
+
+Added source `ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj`; created [[KekeWushicha|柯柯]], [[MangbabaWushicha|芒芭芭]], [[CareerOptionalityMaintenance|职业选择权维护]], [[CareerFertilityTimingTradeoff|职业与生育时序权衡]], [[ExperienceSpeedComplementarityUnderAI|AI时代的经验—速度互补]], and [[LifePortfolioDiversification|人生支点多元化]]. Core synthesis: external search can preserve career choice while organizational trust remains only partly portable; career and fertility windows can collide through onboarding, travel, and gendered expectations; AI-enabled speed and cycle-tested judgment can be complementary; and identities outside work reduce role concentration without turning leisure into another optimization program. No settled contradiction was adopted. Hiring demand, age preferences, AI-use shares, gender differences, parenting burdens, and the “35-year threshold” remain host-observed and source-scoped because the supplied document is a structured episode summary rather than representative labor-market research. Broad [[WushichaYanjiusuo|无时差研究所]], [[StatefulCareerCapital]], [[FinanceCareerPortability]], [[RoleLifeCollapse]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,905 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

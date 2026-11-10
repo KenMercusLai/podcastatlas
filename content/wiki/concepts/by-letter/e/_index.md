@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11153
+wiki_total_pages: 11157
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1418,6 +1418,9 @@ wiki_pages:
   - key: "ExperienceReportingBoundary"
     title: "Experience-Reporting Boundary"
     url: "/wiki/concepts/experiencereportingboundary/"
+  - key: "ExperienceSpeedComplementarityUnderAI"
+    title: "Experience–Speed Complementarity Under AI / AI时代的经验—速度互补"
+    url: "/wiki/concepts/experiencespeedcomplementarityunderai/"
   - key: "ExperientialAssociation"
     title: "Experiential Association / 经验联想"
     url: "/wiki/concepts/experientialassociation/"

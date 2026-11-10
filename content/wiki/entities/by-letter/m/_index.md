@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14010
+wiki_total_pages: 14012
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -2327,6 +2327,9 @@ wiki_pages:
   - key: "MangdangMountain"
     title: "芒砀山 / Mangdang Mountain"
     url: "/wiki/entities/mangdangmountain/"
+  - key: "MangbabaWushicha"
+    title: "芒芭芭 / Mangbaba (无时差研究所)"
+    url: "/wiki/entities/mangbabawushicha/"
   - key: "MiaoRenfeng"
     title: "苗人凤 / Miao Renfeng"
     url: "/wiki/entities/miaorenfeng/"

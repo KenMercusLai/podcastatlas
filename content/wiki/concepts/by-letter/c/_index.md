@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11153
+wiki_total_pages: 11157
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "CareerOptionality"
     title: "Career Optionality"
     url: "/wiki/concepts/careeroptionality/"
+  - key: "CareerOptionalityMaintenance"
+    title: "Career Optionality Maintenance / 职业选择权维护"
+    url: "/wiki/concepts/careeroptionalitymaintenance/"
   - key: "CareerPromiseBeyondContract"
     title: "Career Promise Beyond Contract / 超越退出条款的职业承诺"
     url: "/wiki/concepts/careerpromisebeyondcontract/"
@@ -374,6 +377,9 @@ wiki_pages:
   - key: "CareerShoreMyth"
     title: "Career Shore Myth"
     url: "/wiki/concepts/careershoremyth/"
+  - key: "CareerFertilityTimingTradeoff"
+    title: "Career–Fertility Timing Tradeoff / 职业与生育时序权衡"
+    url: "/wiki/concepts/careerfertilitytimingtradeoff/"
   - key: "CarnationRevolution"
     title: "Carnation Revolution"
     url: "/wiki/concepts/carnationrevolution/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP393-“30+”找工作跳槽，我们在担忧什么？| 一起渡过人生的奥德赛时刻](sources/ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj.md) — 无时差研究所以柯柯的投资行业跳槽经历讨论职业选择权、组织信任、生育时序、AI时代的年龄与经验，以及工作之外的人生支点。
 - [The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322.md) — Tomorrow Today interview on expressive bionic speech, low-latency on-device conversion, human control, voice-data ownership, identity authentication, reimbursement, and assistive-device destigmatization.
 - [VOL.226半夜报复性熬夜，白天浓咖啡续命？对话张健主委：被“剥夺”的睡眠，是如何一步步榨干心脏的？](sources/vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy.md) — 这病说来话长以睡眠剥夺、咖啡因、穿戴设备、周末突击运动和家族史解释心脏警示信号为何需要结合恢复、负荷与临床语境判断。
 - [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs.md) — 乱翻书回访小果哥哥，以十部独立制作、16亿播放、七位数收入和亏损同行，拆解红果AI漫剧的版权、制作、质量分成、审核、投流分工与幸存者偏差。
@@ -5025,6 +5026,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
+- [柯柯 / Keke (无时差研究所)](entities/KekeWushicha.md) — 无时差研究所主播，以一级市场换岗经历连接职业窗口、组织信任、生育时序与AI投研。
+- [芒芭芭 / Mangbaba (无时差研究所)](entities/MangbabaWushicha.md) — 无时差研究所主播，强调可逆性、生活自主、女性机会与工作之外的多元身份。
 - [Konrad Zieliński](entities/KonradZielinski.md) — Uhura Bionics founder-user connecting laryngectomy experience to expressive speech engineering, voice agency, and data rights.
 - [Uhura Bionics](entities/UhuraBionics.md) — Assistive speech company developing non-invasive, low-latency electronic voice systems for laryngectomy and broader atypical speech.
 - [张健 / Zhang Jian (cardiology)](entities/ZhangJianCardiology.md) — VOL.226心血管嘉宾，以症状、病史、家族史、恢复状态和检查语境解释睡眠、刺激物、运动负荷与心脏风险。
@@ -19125,6 +19128,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [应翔 / Ying Xiang (film scholar and curator)](entities/YingXiangFilmScholar.md) — 以电影交流史、制度与策展研究中东欧电影跨国传播的学者和策展人。
 
 ## Concepts
+- [Career Optionality Maintenance / 职业选择权维护](concepts/CareerOptionalityMaintenance.md) — 通过外部市场反馈、技能更新、履历多样性与周期压力测试保留可信的换岗能力。
+- [Career–Fertility Timing Tradeoff / 职业与生育时序权衡](concepts/CareerFertilityTimingTradeoff.md) — 新岗位建立信任所需时间与备孕、生育、恢复、出差及照护安排之间的冲突。
+- [Experience–Speed Complementarity Under AI / AI时代的经验—速度互补](concepts/ExperienceSpeedComplementarityUnderAI.md) — 区分AI加速的信息工作与跨周期经验、抽象、领导和最终判断的互补价值。
+- [Life-Portfolio Diversification / 人生支点多元化](concepts/LifePortfolioDiversification.md) — 将身份、关系、成长与意义分布到工作、健康、家庭、兴趣和创作，降低单一职业角色风险。
 - [Expressive Bionic Voice Restoration](concepts/ExpressiveBionicVoiceRestoration.md) — Restoration target combining intelligibility with timing, prosody, non-word sound, identity, agency, and social participation.
 - [Human-Machine Voice Agency](concepts/HumanMachineVoiceAgency.md) — Control model keeping intention and emotion with the person while AI assists acoustic voice output.
 - [Synthetic Voice Identity Authentication](concepts/SyntheticVoiceIdentityAuthentication.md) — Modality-independent verification of the person authorizing biological, augmented, or generated speech.

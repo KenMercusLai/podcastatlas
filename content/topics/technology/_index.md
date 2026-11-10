@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3797
+topic_total_pages: 3799
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2461,6 +2461,9 @@ topic_concepts:
   - key: "ExperienceOrchestrator"
     title: "Experience Orchestrator"
     url: "/wiki/concepts/experienceorchestrator/"
+  - key: "ExperienceSpeedComplementarityUnderAI"
+    title: "Experience–Speed Complementarity Under AI / AI时代的经验—速度互补"
+    url: "/wiki/concepts/experiencespeedcomplementarityunderai/"
   - key: "ExperientialAssociation"
     title: "Experiential Association / 经验联想"
     url: "/wiki/concepts/experientialassociation/"
@@ -10341,6 +10344,9 @@ topic_sources:
   - key: "ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp"
     title: "EP392-《后会友期》大爆，我们依然为真实的情感“画地为牢”"
     url: "/wiki/sources/ep392-houhuiyouqi-dabao-women-yiran-wei-zhenshide-qinggan-huadiweilao-gkwrimaov6-qafmdiw-t1kurp/"
+  - key: "ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj"
+    title: "EP393-“30+”找工作跳槽，我们在担忧什么？| 一起渡过人生的奥德赛时刻"
+    url: "/wiki/sources/ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj/"
   - key: "ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c"
     title: "EP58 业绩平平，也要认真\"摸鱼\""
     url: "/wiki/sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c/"
