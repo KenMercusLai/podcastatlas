@@ -5015,6 +5015,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff.md) — 硅谷101访谈郭靖，讨论HF0的减法式聚焦、ACE Studio增长系统与内部加速器、OpenRouter早期统一API，以及专业用户反馈和AI音乐审美边界。
 - [英伟达启动对黄仁勋的调查，消费品牌集体跨界宠物生意](sources/yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn.md) — 声动早咖啡商业速报，连接高管治理、推荐循环监管、AI电力资产、宠物品类扩张、内容与硬件、家用机器人、幸运咖升级及Letterboxd潜在收购。
 
+- [EP153-我的50次随心飞年终总结报告](sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q.md) — 无时差研究所 episode on flight-pass consumer fit, airline capacity management, domestic travel, pandemic recovery, and a dated Yunnan coffee field-sourcing snapshot.
+
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
 - [郝普 / Hao Pu (late Han)](entities/HaoPuLateHan.md) — 零陵太守，因误信刘备、关羽无法驰援的消息而向吕蒙投降。
@@ -11035,7 +11037,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amer Sports / 亚玛芬体育](entities/AmerSports.md) — Specialist sports-brand group represented through Arc'teryx's China growth and Salomon's technical-to-lifestyle expansion.
 - [Arc'teryx / 始祖鸟](entities/Arcteryx.md) — Premium outdoor brand expanding in Greater China through flagship and store rollout.
 - [Lucky Coffee / 幸运咖](entities/LuckyCoffee.md) — Mixue coffee brand moving from low-tier scale toward higher-tier office and industrial-park locations.
-- [Hainan Airlines / 海南航空](entities/HainanAirlines.md) — Chinese airline peer case in the in-flight meal and passenger-service upgrade branch.
+- [Hainan Airlines / 海南航空](entities/HainanAirlines.md) — Chinese airline linking meal-service comparisons with a historically bounded flight-pass network and redemption case.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Modern rocket-recovery setting and northwest historical-geography corridor around Longshan, Guanlong roads, and Guanzhong ties.
@@ -12558,7 +12560,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Head & Shoulders / 海飞丝](entities/HeadAndShoulders.md) — Mass hair-care brand used as a contrast to premium, functional, and salon-backed growth in the 2026 hair-care source.
 - [Bee & Flower / 蜂花](entities/BeeAndFlower.md) — Legacy low-priced Chinese hair-care brand used as a mass-market contrast to premium and function-led hair-care growth.
 - [Ralph Lauren](entities/RalphLauren.md) — Fashion and lifestyle brand whose China-led growth and planned channel tightening illustrate multi-price-band luxury branding.
-- [China Eastern Airlines / 东方航空](entities/ChinaEasternAirlines.md) — Chinese airline using ticket flexibility, meal upgrades, and paid-meal options as service-design levers.
+- [China Eastern Airlines / 东方航空](entities/ChinaEasternAirlines.md) — Chinese airline using ticket flexibility, meals, and prepaid flight-pass access as demand-design levers.
 - [Mercedes-Benz](entities/MercedesBenz.md) — German luxury automaker used in the source's China margin and sales-pressure comparison.
 - [BMW](entities/BMW.md) — German luxury automaker whose low automotive margin is a sharp example of German luxury-car pressure in China.
 - [Audi](entities/Audi.md) — German luxury automaker used with Mercedes-Benz and BMW to show China demand pressure from local new-energy brands.
@@ -22844,7 +22846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [联销体模式 / Lianxiaoti Distribution](concepts/LianxiaotiDistribution.md) — Wahaha distributor alliance model using deposits, advance payment, territorial discipline, and tiered wholesale to solve cash-flow and lower-tier channel reach.
 - [销地产模式 / Sales-Based Production Localization](concepts/SalesBasedProductionLocalization.md) — Wahaha-style strategy of building production close to regional sales markets to lower logistics costs and align with local demand and employment.
 - [Product-Brand / Company-Brand Separation](concepts/ProductBrandCompanyBrandSeparation.md) — Consumer-brand pattern where individual products are remembered more strongly than the parent company, limiting cross-category brand transfer.
-- [Yunnan Coffee Origin Development / 云南咖啡产区发展](concepts/YunnanCoffeeOriginDevelopment.md) — Frame for evaluating Yunnan coffee through local variety, terroir, processing, sourcing, commercial scale, and farmer income.
+- [Yunnan Coffee Origin Development / 云南咖啡产区发展](concepts/YunnanCoffeeOriginDevelopment.md) — Time-aware frame for Yunnan coffee variety, terroir, processing, sourcing, commercial scale, crop pressure, and farmer income.
 - [Coffee Sourcing Work / 寻豆工作](concepts/CoffeeSourcingWork.md) — Repeated operational practice of finding, testing, comparing, and buying green coffee through samples, cupping, producer contact, and trade judgment.
 - [Origin Bias in Coffee Evaluation / 咖啡产区偏见](concepts/OriginBiasInCoffeeEvaluation.md) — Sensory-evaluation problem where origin stereotypes shape perceived cup quality before tasting is independently tested.
 - [Sarchimor Yunnan Coffee / 萨奇姆云南咖啡](concepts/SarchimorYunnanCoffee.md) — Yunnan coffee variety strategy balancing flavor, disease resistance, yield, local identity, and farmer income.
@@ -30345,5 +30347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unstructured Home Robotics](concepts/UnstructuredHomeRobotics.md) — 面向家庭多样布局、物体、人员和接触状态的机器人感知、控制、安全与商业化问题。
 - [Franchise Repositioning Conflict / 加盟品牌升级冲突](concepts/FranchiseRepositioningConflict.md) — 品牌提价和升级时，总部目标、加盟商成本、门店密度及集团内部品类重叠之间的冲突。
 - [Subscription-Adjacent Community Acquisition](concepts/SubscriptionAdjacentCommunityAcquisition.md) — 通过收购垂直兴趣社区为订阅组合增加参与、偏好数据和新入口，同时承担文化整合风险。
+
+- [Airline Unlimited-Flight Pass / 航空随心飞](concepts/AirlineUnlimitedFlightPass.md) — Prepaid flight-access model balancing consumer fit, redemption architecture, demand segmentation, perishable inventory, and fulfillment risk.
 
 ## Syntheses

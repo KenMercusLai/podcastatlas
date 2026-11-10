@@ -12518,6 +12518,22 @@
       "updated": "2026-10-19",
       "url": "/wiki/concepts/airlineservicedifferentiation/"
     },
+    "AirlineUnlimitedFlightPass": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIJEDyDnkABAAAAB34u_q [CKwRIJEDyDnkABAAAAB34u_q].md",
+          "key": "ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q",
+          "show": "无时差研究所",
+          "title": "EP153-我的50次随心飞年终总结报告",
+          "url": "/wiki/sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/airlineunlimitedflightpass/"
+    },
     "AirportApprovalAirspaceConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -50273,9 +50289,9 @@
       "url": "/wiki/concepts/chinaeuhybridvehicletradeconstraint/"
     },
     "ChinaEasternAirlines": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -50297,9 +50313,16 @@
           "show": "声动早咖啡",
           "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
           "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        },
+        {
+          "episode_file": "CKwRIJEDyDnkABAAAAB34u_q [CKwRIJEDyDnkABAAAAB34u_q].md",
+          "key": "ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q",
+          "show": "无时差研究所",
+          "title": "EP153-我的50次随心飞年终总结报告",
+          "url": "/wiki/sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/chinaeasternairlines/"
     },
     "ChinaEnterpriseAISystemDebt": {
@@ -126977,9 +127000,9 @@
       "url": "/wiki/entities/hainan/"
     },
     "HainanAirlines": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -126994,9 +127017,16 @@
           "show": "声动早咖啡",
           "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
           "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        },
+        {
+          "episode_file": "CKwRIJEDyDnkABAAAAB34u_q [CKwRIJEDyDnkABAAAAB34u_q].md",
+          "key": "ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q",
+          "show": "无时差研究所",
+          "title": "EP153-我的50次随心飞年终总结报告",
+          "url": "/wiki/sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/hainanairlines/"
     },
     "HainanGrowthResidentDistribution": {
@@ -329597,9 +329627,9 @@
       "url": "/wiki/entities/yundaexpress/"
     },
     "YunnanCoffeeOriginDevelopment": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -329614,9 +329644,16 @@
           "show": "博物志",
           "title": "245. 怒江春日，秘境初探",
           "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        },
+        {
+          "episode_file": "CKwRIJEDyDnkABAAAAB34u_q [CKwRIJEDyDnkABAAAAB34u_q].md",
+          "key": "ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q",
+          "show": "无时差研究所",
+          "title": "EP153-我的50次随心飞年终总结报告",
+          "url": "/wiki/sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
     },
     "YunnanWormValleyGhostBlowsOutTheLight": {

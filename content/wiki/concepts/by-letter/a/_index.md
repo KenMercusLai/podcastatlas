@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11138
+wiki_total_pages: 11139
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1916,6 +1916,9 @@ wiki_pages:
   - key: "AirlineUnbundling"
     title: "Airline Unbundling"
     url: "/wiki/concepts/airlineunbundling/"
+  - key: "AirlineUnlimitedFlightPass"
+    title: "Airline Unlimited-Flight Pass / 航空随心飞"
+    url: "/wiki/concepts/airlineunlimitedflightpass/"
   - key: "AirportApprovalAirspaceConstraint"
     title: "Airport Approval Airspace Constraint / 机场审批与空域约束"
     url: "/wiki/concepts/airportapprovalairspaceconstraint/"
