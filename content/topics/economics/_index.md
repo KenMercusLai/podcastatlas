@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2384
+topic_total_pages: 2385
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7002,6 +7002,9 @@ topic_sources:
   - key: "gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k"
     title: "Vol.278 为什么银行门口会有石狮子？"
     url: "/wiki/sources/gkwriaiorn5rawbazwtstr0k-gkwriaiorn5rawbazwtstr0k/"
+  - key: "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin"
+    title: "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？"
+    url: "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
   - key: "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744"
     title: "Wake-up haul: an Ozempic moment for the brain"
     url: "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"

@@ -77497,9 +77497,9 @@
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
     "DirectionSettingDelegatedGovernance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1） [lp-POhNS6YMvFYPTkih9XKhWcoAW].md",
@@ -77507,9 +77507,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》257｜汉代大杠精，究竟有多杠？（1）",
           "url": "/wiki/sources/zizhi-tongjian-hanji-257-handai-dagangjing-jiujing-you-duogang-1-lp-pohns6ymvfpytkih9xkhwcoaw/"
+        },
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
         }
       ],
-      "updated": "2026-10-08",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/directionsettingdelegatedgovernance/"
     },
     "DirectorMythDeflation": {
@@ -96192,9 +96199,9 @@
       "url": "/wiki/entities/evaperonfoundation/"
     },
     "EvaluationAttachmentRelease": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
@@ -96202,9 +96209,16 @@
           "show": "天真不天真",
           "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
           "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        },
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/evaluationattachmentrelease/"
     },
     "EvanHubinger": {
@@ -107888,6 +107902,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/forwarddeployedengineer/"
     },
+    "ForwardLookingExitDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/forwardlookingexitdecision/"
+    },
     "FoundationAsimov": {
       "episode_count": 1,
       "show_count": 1,
@@ -108036,9 +108066,9 @@
       "url": "/wiki/concepts/founderboardrelationshipmaintenance/"
     },
     "FounderDelegationDiscipline": {
-      "episode_count": 12,
-      "show_count": 3,
-      "source_note_count": 12,
+      "episode_count": 13,
+      "show_count": 4,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
@@ -108123,9 +108153,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Airbnb CEO Brian Chesky: \"I Was a Great Founder and a Terrible CEO\"",
           "url": "/wiki/sources/airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647/"
+        },
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/founderdelegationdiscipline/"
     },
     "FounderEgo": {
@@ -284385,9 +284422,9 @@
       "url": "/wiki/entities/sundarpichai/"
     },
     "SunkCostEntrapment": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
@@ -284409,9 +284446,16 @@
           "show": "一劳永逸",
           "title": "EP95 《FX战士久留美》：妈妈亏掉的钱，我要亲手赚回来",
           "url": "/wiki/sources/ep95-fx-zhanshi-jiuliumei-mama-kuidiao-de-qian-wo-yao-qinshou-zhuan-huilai-lgdurd85j7_cbimza4cegor-jfly/"
+        },
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/sunkcostentrapment/"
     },
     "SunningdalePowerSharingCollapse": {
@@ -295302,9 +295346,9 @@
       "url": "/wiki/entities/tianyamingyuedaogulong/"
     },
     "TianzhenButianzhen": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
@@ -295333,9 +295377,16 @@
           "show": "天真不天真",
           "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
           "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        },
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/tianzhenbutianzhen/"
     },
     "TiaozhiKingdom": {
@@ -325602,9 +325653,9 @@
       "url": "/wiki/entities/yangtanwesternhan/"
     },
     "YangTianzhen": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lvMwWqnWmEW2_S22X_4oTJy2GNlw [lvMwWqnWmEW2_S22X_4oTJy2GNlw].md",
@@ -325626,9 +325677,16 @@
           "show": "天真不天真",
           "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
           "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        },
+        {
+          "episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
+          "key": "vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin",
+          "show": "天真不天真",
+          "title": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+          "url": "/wiki/sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/yangtianzhen/"
     },
     "YangXiaoJinYong": {

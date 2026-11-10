@@ -15,7 +15,8 @@ sources:
   - tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final
   - kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7
   - airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647
-last_updated: 2026-11-02
+  - vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin
+last_updated: 2026-11-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,14 +28,16 @@ The sources reject both founder bottlenecking and executive abdication. Delegati
 
 [[BrianChesky]] supplies a useful distinction between empowerment and autonomy. Teams can own how work is done while executives remain aligned to one company direction; skip-level information and periodic full-chain reviews prevent management layers from becoming filters. The founder should not overrule constantly, but never intervening would erase the distinctive judgment the role is meant to contribute. Delegation is mature when standards become organizational capability and founder involvement can recede without direction fragmenting.
 
+The [[TianzhenButianzhen|天真不天真]] Q&A adds a compact operating design. A founder first defines customer, revenue, profit, quality, time, or brand outcomes; moves pricing, budget, vendor, or other decision rights with the assigned responsibility; places review at planned stages; and states the tolerable error or loss boundary. Strategic and high-risk choices remain founder-led, novel or major work receives checkpoints, and mature routine work can transfer fully. This turns temporary 70-point execution into a possible learning investment when it already meets the real boundary and the founder's extra effort has a higher opportunity cost elsewhere.
+
 ## Key Claims
 - Delegation should raise throughput and ownership rather than preserve every consequential task for the founder.
-- Delegating execution does not remove the leader's responsibility for shared direction, context, standards, and role-fit decisions.
+- Delegating execution does not remove the leader's responsibility for shared direction, context, outcome standards, risk boundaries, and role-fit decisions.
 - Customer contact, core technical work, cultural standards, and irreversible choices are recurring boundaries where excessive distance becomes dangerous.
-- Proactive reporting and clear review cadence are part of ownership; repeated founder chasing signals incomplete delegation.
+- Proactive reporting, matched decision rights, and a clear review cadence are part of ownership; repeated founder chasing or retained hidden approval signals incomplete delegation.
 - Founders should distinguish recoverable learning failures from high-regret failures that damage talent, trust, product, or strategy.
 - Skip-level information and occasional intervention can audit the organization, but constant overruling indicates a team, system, or founder problem.
-- The end state is distributed capability: founder attention embeds standards and then decreases rather than becoming permanent control.
+- The end state is distributed capability: founder attention embeds standards, allows bounded learning, and then decreases rather than becoming permanent control.
 
 ## Evidence
 - Bottleneck reduction: [[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] connects more delegation and unscheduled thinking time to executive effectiveness; [[advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e]] shows founder-held selling preserving margin but constraining scale.
@@ -43,15 +46,16 @@ The sources reject both founder bottlenecking and executive abdication. Delegati
 - Context and consequence: [[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] treats whole-company context as a CEO responsibility; [[tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly]] separates tolerable delegated failures from deeply regrettable ones.
 - Distributed urgency: [[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] says scaling founder mode should create organizational ownership; [[tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]] pairs attention with empowerment and accountability; [[kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7]] adds proactive scheduling and reporting under high message volume.
 - Direction and review: [[airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ceo-vmp9745758647]] adds shared strategic direction, full management-chain reviews, exceptional overruling, safe dissent, and reduced involvement after standards become muscle memory.
+- Delegation contract and opportunity cost: [[vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin|vol.58]] adds explicit outcomes, authority matched to responsibility, staged checkpoints, error budgets, risk-tiered transfer, and tolerance for adequate early execution when founder perfection has a higher opportunity cost.
 
 ## Counterevidence & Qualifications
-These are mainly founder retrospectives and advice cases. They underrepresent employee experience and may over-credit the founder for recovery or understate how direct intervention creates fear, churn, or delay. The correct boundary varies by company stage, domain risk, talent quality, regulation, and error cost. “Founder context” is not automatically superior to specialist evidence, and empowerment language can conceal centralized power unless decision rights and dissent are real.
+These are mainly founder retrospectives and advice cases. They underrepresent employee experience and may over-credit the founder for recovery or understate how direct intervention creates fear, churn, or delay. The correct boundary, checkpoint schedule, acceptable performance level, and error budget vary by company stage, domain risk, talent quality, regulation, customer promise, and reversibility. “Founder context” is not automatically superior to specialist evidence, and empowerment language can conceal centralized power unless decision rights, resources, and dissent are real.
 
 ## What Changed
-- Added empowerment over execution versus autonomy over company direction.
-- Added full-chain review, exceptional overruling, and explicit dissent as delegation safeguards.
-- Clarified that founder proximity should produce transferable standards and then recede.
-- Preserved the existing synthesis and source order while appending the new evidence once.
+- Added a four-part delegation contract: outcome, decision rights, review points, and error boundary.
+- Added risk-tiered transfer across strategic, novel, and mature routine work.
+- Added temporary lower performance and founder opportunity cost to the learning tradeoff.
+- Preserved every prior source in order and appended the new evidence once.
 
 ## Related Concepts
 - [[FounderMode]] - broader leadership frame joining presence, direction, and distributed ownership.
@@ -60,3 +64,4 @@ These are mainly founder retrospectives and advice cases. They underrepresent em
 - [[FounderOperationalReset]] - correction pattern after delegation has become drift or abdication.
 - [[StageAppropriateHiring]] - changes the expertise and decision boundaries needed at each stage.
 - [[OrganizationalContext]] - information distribution problem that disciplined delegation must solve.
+- [[DirectionSettingDelegatedGovernance]] - broader pattern of retaining direction while distributing execution and usable authority.

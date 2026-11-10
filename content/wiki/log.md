@@ -39061,3 +39061,11 @@ Added source `yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-ku
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | vol.58 有问必答｜从1到0：如何放弃，却不否定自己？
+
+Added source `vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin`; created [[ForwardLookingExitDecision|向前看的退出决策]]; and resynthesized [[YangTianzhen|杨天真]], [[TianzhenButianzhen|天真不天真]], [[SunkCostEntrapment|沉没成本困局]], [[EvaluationAttachmentRelease|放下评价执念]], [[DirectionSettingDelegatedGovernance|把总授权式治理]], and [[FounderDelegationDiscipline]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: a transition removes an externally validated role rather than accumulated capability; a mature exit decision tests motive, runway, purpose, weak-feedback tolerance, and forward cost; delegation moves decision rights with responsibility and combines explicit outcomes, checkpoints, error budgets, and risk tiers; and visible business action can replace imagined social judgment with customer evidence without making one failed attempt a verdict on personal worth. No settled contradiction was adopted. Career outcomes, financial sufficiency, psychology training, delegation thresholds, customer demand, and social consequences remain individual, speaker-reported, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,896 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

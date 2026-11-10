@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11137
+wiki_total_pages: 11138
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1709,6 +1709,9 @@ wiki_pages:
   - key: "FirstAntiWangMangRising"
     title: "刘氏反莽第一枪 / First Anti-Wang Mang Rising"
     url: "/wiki/concepts/firstantiwangmangrising/"
+  - key: "ForwardLookingExitDecision"
+    title: "向前看的退出决策 / Forward-Looking Exit Decision"
+    url: "/wiki/concepts/forwardlookingexitdecision/"
   - key: "FateReadingPoliticalRisk"
     title: "命相判断的政治风险 / Fate-Reading Political Risk"
     url: "/wiki/concepts/fatereadingpoliticalrisk/"

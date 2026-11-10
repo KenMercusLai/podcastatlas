@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.58 有问必答｜从1到0：如何放弃，却不否定自己？](sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin.md) — 天真不天真以转行、创始人放权和小生意推广三个问答，讨论能力与身份分离、未来成本、边界式授权及用行动松动评价恐惧。
 - [《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？](sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv.md) — 芮淇讲透资治通鉴以曹操西征汉中连接刑罚克制、隐蔽集结、侧翼安全、情报复核、阳平关偶然逆转与张鲁的保存资产式归降。
 - [《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？](sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop.md) — 芮淇讲透资治通鉴以孙刘荆州争端、吕蒙诱降郝普与鲁肃会关羽，讨论虚假无援信息、将领自主性与共同威胁下的联盟利益边界。
 - [151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上](sources/ep151-ep151.md) — 疯投圈与冷芸讨论国产中高端时尚品牌增长、向往感、数字旗舰店、复购与库存等经营质量指标。
@@ -19103,6 +19104,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Letterboxd](entities/Letterboxd.md) — 以电影评分、影评、片单和社交参与形成兴趣社区，并在报道中成为《纽约时报》的潜在收购对象。
 
 ## Concepts
+- [向前看的退出决策 / Forward-Looking Exit Decision](concepts/ForwardLookingExitDecision.md) — 从今天起的成本、价值、动机和最坏结果判断是否退出，同时区分外部身份与可迁移能力。
 - [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
 - [战场偶然窗口利用 / Battlefield Contingency Exploitation](concepts/BattlefieldContingencyExploitation.md) — 通过核实、改令和后续行动把非计划事件转化为战役优势，而不倒推成预设妙计。
 - [虚假无援诱降 / False Relief-Denial Surrender](concepts/FalseReliefDenialSurrender.md) — 通过操纵守方对援军可能性的判断，使继续坚守在错误信息下显得无意义的诱降模式。
@@ -20123,7 +20125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Enterprise AI Cost-Center Framing / 企业AI成本中心框架](concepts/EnterpriseAICostCenterFraming.md) — Organizational lens that evaluates AI mainly through removable support-function cost while risking confusion between savings, capacity, and newly feasible work.
 - [Stateful Career Capital / 有状态职业资本](concepts/StatefulCareerCapital.md) — Professional value accumulated through system history, organizational context, relationships, trust, exceptions, and continuing responsibility.
 - [救灾临机裁量 / Emergency Relief Discretion](concepts/EmergencyReliefDiscretion.md) — 在紧迫群体伤害下先行救助、随后公开越权并接受审查的有限行政裁量。
-- [把总授权式治理 / Direction-Setting Delegated Governance](concepts/DirectionSettingDelegatedGovernance.md) — 通过识别能吏、授予实权并把握总体方向来减少细节干预，同时保留最终责任。
+- [把总授权式治理 / Direction-Setting Delegated Governance](concepts/DirectionSettingDelegatedGovernance.md) — 通过人员选择、结果边界、可用实权、阶段复核和风险分层减少细节干预，同时保留方向与最终责任。
 - [例外才能依赖式治军 / Exception-Dependent Military Command](concepts/ExceptionDependentMilitaryCommand.md) — 区分由罕见个人感知、判断与威望支撑的有效个案，和普通继任者能够安全学习、执行与传承的制度化治军底线。
 - [Traditional Wuxia Action Craft / 传统武侠动作设计](concepts/TraditionalWuxiaActionCraft.md) — Combat as readable exchange shaped by bodies, weapons, tactics, space, limits, environment, learning, memory, and consequence.
 - [Dictionary Description and Prescription / 词典的描述与规范](concepts/DictionaryDescriptionAndPrescription.md) — Tension between recording established usage and guiding a linguistic community through selective, qualified editorial judgment.
@@ -22449,7 +22451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jinjiang Model / 晋江模式](concepts/JinjiangModel.md) — Reform-era regional industrial pattern mixing diaspora resources, kinship finance, township enterprise forms, local tolerance, subcontracting learning, and sportswear branding.
 - [Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资](concepts/KinshipBasedTownshipEnterpriseFinance.md) — Early enterprise-finance mechanism where relatives, villagers, clan networks, and acquaintance trust pool capital, labor, space, and risk.
 - [Sportswear Multi-Brand Portfolio / 运动品牌集团化组合](concepts/SportswearMultiBrandPortfolio.md) — Sportswear strategy of operating distinct mass, fashion, running, outdoor, and lifestyle brands while sharing selected group back-end capabilities.
-- [沉没成本困局 / Sunk Cost Entrapment](concepts/SunkCostEntrapment.md) — Decision trap in which prior investment makes exit from a losing relationship or strategy feel costlier than continued loss.
+- [沉没成本困局 / Sunk Cost Entrapment](concepts/SunkCostEntrapment.md) — Decision trap in which prior investment or successful identity makes exit feel costlier than continued commitment.
 - [Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒](concepts/JealousyDeescalationByRivalProtection.md) — Conflict-management pattern where protecting a threatened rival changes jealousy into shame, gratitude, or reduced hostility.
 - [Disaster-Omen Interpretive Skepticism / 灾异解释怀疑](concepts/DisasterOmenInterpretiveSkepticism.md) — Court-speech pattern resisting shallow disaster readings that turn anomalies into immediate factional blame.
 - [Regional eSIM Constraint](concepts/RegionalESIMConstraint.md) — smartphone purchase friction when eSIM-only hardware meets region-specific carrier and regulatory support.
@@ -22873,7 +22875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rural Boundary And Neighbor Order / 乡村边界与邻里秩序](concepts/RuralBoundaryAndNeighborOrder.md) — Rural social pattern where sharing, help, scrutiny, property limits, and field boundaries coexist.
 - [Post-Apartheid Structural Inequality](concepts/PostApartheidStructuralInequality.md) — EP383 frame for durable education, wealth, space, service, safety, and governance gaps after apartheid's legal end.
 - [Complex Destination Travel Risk](concepts/ComplexDestinationTravelRisk.md) — Travel-planning risk frame for high-reward destinations that require safety preparation, route discipline, local norms, and historical attention.
-- [Evaluation Attachment Release / 放下评价执念](concepts/EvaluationAttachmentRelease.md) — Practice of not building self-worth from praise, criticism, friendship ranking, or another person's failure to meet an imagined script.
+- [Evaluation Attachment Release / 放下评价执念](concepts/EvaluationAttachmentRelease.md) — Practice of separating self-worth from praise or criticism and testing feared judgment through relevant, bounded action.
 - [Sincere Emotional Support / 真诚的情绪价值](concepts/SincereEmotionalSupport.md) — Emotional encouragement grounded in real recognition rather than interpersonal manipulation or scripted praise.
 - [Benevolent Speech Practice / 善语结善缘](concepts/BenevolentSpeechPractice.md) — Speech practice that checks words against the intention that produced them because language reveals inner posture and shapes relationship conditions.
 - [Inward-Looking Self-Cultivation / 向内求式自我修行](concepts/InwardLookingSelfCultivation.md) — Practice of shifting attention from how the outside world treats the self toward one's own motives, reactions, speech, needs, and choices.

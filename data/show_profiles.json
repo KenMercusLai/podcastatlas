@@ -2120,8 +2120,8 @@
       "earliest_episode_date": "2026-08-19",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "ljf7QgB2CkOQL1Xo5BKcqq6pgCiN [ljf7QgB2CkOQL1Xo5BKcqq6pgCiN].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "culture",
@@ -2134,6 +2134,12 @@
           "label": "Technology",
           "url": "/topics/technology/",
           "source_note_count": 2
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
         }
       ],
       "entities": [],
