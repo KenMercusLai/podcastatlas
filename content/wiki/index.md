@@ -5012,6 +5012,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊](sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi.md) — 文化有限从阿特伍《盲刺客》的晚年回忆、报刊、书中书与科幻寓言，讨论多层叙事、公共与私人记录、女性创伤及谁有权定义一个人。
 
 - [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff.md) — 硅谷101访谈郭靖，讨论HF0的减法式聚焦、ACE Studio增长系统与内部加速器、OpenRouter早期统一API，以及专业用户反馈和AI音乐审美边界。
+- [英伟达启动对黄仁勋的调查，消费品牌集体跨界宠物生意](sources/yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn.md) — 声动早咖啡商业速报，连接高管治理、推荐循环监管、AI电力资产、宠物品类扩张、内容与硬件、家用机器人、幸运咖升级及Letterboxd潜在收购。
 
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -19099,6 +19100,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [ACE Studio](entities/ACEStudio.md) — AI音乐公司，以专业创作工具、自研模型、内部加速器和授权编辑轨迹连接产品与模型迭代。
 - [郭靖（ACE Studio） / Guo Jing (ACE Studio)](entities/GuoJingACEStudio.md) — ACE Studio创始人兼CEO，主张减法式聚焦、系统化增长，并把HF0模式改造成公司内部攻坚机制。
+- [Letterboxd](entities/Letterboxd.md) — 以电影评分、影评、片单和社交参与形成兴趣社区，并在报道中成为《纽约时报》的潜在收购对象。
 
 ## Concepts
 - [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
@@ -30334,5 +30336,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Growth Systemization / 增长系统化](concepts/GrowthSystemization.md) — 将触达、定价、转化、投放和测量改造成可迭代的增长系统，同时保留产品价值的长期边界。
 - [Internal Startup Accelerator / 企业内部加速器](concepts/InternalStartupAccelerator.md) — 远程公司围绕一个明确问题临时集中团队、提供生活支持并采用固定复盘节奏的项目模式。
 - [Professional-User Feedback Flywheel / 专业用户反馈飞轮](concepts/ProfessionalUserFeedbackFlywheel.md) — 专业工具通过授权编辑轨迹和专家偏好形成后训练信号的潜在模型改进循环。
+- [Executive Conduct Governance Risk](concepts/ExecutiveConductGovernanceRisk.md) — 当高管私人关系与客户、信息、披露或合规控制相交时形成的董事会监督风险。
+- [AI Firm Power Asset Control](concepts/AIFirmPowerAssetControl.md) — AI公司为缩短供电和设备排期而直接控制发电设备或交付权，同时内化能源资产风险。
+- [Cross-Industry Pet Category Expansion / 跨行业宠物品类扩张](concepts/CrossIndustryPetCategoryExpansion.md) — 服饰、个护、家电等品牌把既有供应链和研发能力迁移到宠物用品的邻接扩张。
+- [Content Portfolio as Hardware-Cost Hedge](concepts/ContentPortfolioHardwareHedge.md) — 电影、游戏、音乐和授权组合对冲主机销量、零部件成本与硬件周期波动的有限机制。
+- [Unstructured Home Robotics](concepts/UnstructuredHomeRobotics.md) — 面向家庭多样布局、物体、人员和接触状态的机器人感知、控制、安全与商业化问题。
+- [Franchise Repositioning Conflict / 加盟品牌升级冲突](concepts/FranchiseRepositioningConflict.md) — 品牌提价和升级时，总部目标、加盟商成本、门店密度及集团内部品类重叠之间的冲突。
+- [Subscription-Adjacent Community Acquisition](concepts/SubscriptionAdjacentCommunityAcquisition.md) — 通过收购垂直兴趣社区为订阅组合增加参与、偏好数据和新入口，同时承担文化整合风险。
 
 ## Syntheses

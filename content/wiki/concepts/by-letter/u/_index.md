@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 11130
+wiki_total_pages: 11137
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "UnscalableFounderWork"
     title: "Unscalable Founder Work"
     url: "/wiki/concepts/unscalablefounderwork/"
+  - key: "UnstructuredHomeRobotics"
+    title: "Unstructured Home Robotics"
+    url: "/wiki/concepts/unstructuredhomerobotics/"
   - key: "UnverifiedTerritorialPromiseTrap"
     title: "Unverified Territorial Promise Trap / 未验地先断交陷阱"
     url: "/wiki/concepts/unverifiedterritorialpromisetrap/"

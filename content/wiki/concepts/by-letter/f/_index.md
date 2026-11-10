@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11130
+wiki_total_pages: 11137
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "FramingEffect"
     title: "Framing Effect / 表述框架效应"
     url: "/wiki/concepts/framingeffect/"
+  - key: "FranchiseRepositioningConflict"
+    title: "Franchise Repositioning Conflict / 加盟品牌升级冲突"
+    url: "/wiki/concepts/franchiserepositioningconflict/"
   - key: "FranchiseLedConsumerChainExpansion"
     title: "Franchise-Led Consumer Chain Expansion"
     url: "/wiki/concepts/franchiseledconsumerchainexpansion/"

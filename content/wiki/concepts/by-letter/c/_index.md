@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11130
+wiki_total_pages: 11137
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2465,6 +2465,9 @@ wiki_pages:
   - key: "ContentEngineering"
     title: "Content Engineering"
     url: "/wiki/concepts/contentengineering/"
+  - key: "ContentPortfolioHardwareHedge"
+    title: "Content Portfolio as Hardware-Cost Hedge"
+    url: "/wiki/concepts/contentportfoliohardwarehedge/"
   - key: "ContentSeedingMarketing"
     title: "Content Seeding Marketing / 内容种草"
     url: "/wiki/concepts/contentseedingmarketing/"
@@ -3200,6 +3203,9 @@ wiki_pages:
   - key: "CrossDomainThematicTransfer"
     title: "Cross-Domain Thematic Transfer"
     url: "/wiki/concepts/crossdomainthematictransfer/"
+  - key: "CrossIndustryPetCategoryExpansion"
+    title: "Cross-Industry Pet Category Expansion / 跨行业宠物品类扩张"
+    url: "/wiki/concepts/crossindustrypetcategoryexpansion/"
   - key: "CrossKinshipSteppeOrganization"
     title: "Cross-Kinship Steppe Organization"
     url: "/wiki/concepts/crosskinshipsteppeorganization/"

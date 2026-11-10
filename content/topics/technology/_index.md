@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3790
+topic_total_pages: 3794
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -556,6 +556,9 @@ topic_concepts:
   - key: "AIFinancingReflexivity"
     title: "AI Financing Reflexivity"
     url: "/wiki/concepts/aifinancingreflexivity/"
+  - key: "AIFirmPowerAssetControl"
+    title: "AI Firm Power Asset Control"
+    url: "/wiki/concepts/aifirmpowerassetcontrol/"
   - key: "AIFirstDraftGeneration"
     title: "AI First-Draft Generation"
     url: "/wiki/concepts/aifirstdraftgeneration/"
@@ -1786,6 +1789,9 @@ topic_concepts:
   - key: "ContentEngineering"
     title: "Content Engineering"
     url: "/wiki/concepts/contentengineering/"
+  - key: "ContentPortfolioHardwareHedge"
+    title: "Content Portfolio as Hardware-Cost Hedge"
+    url: "/wiki/concepts/contentportfoliohardwarehedge/"
   - key: "ContextDecay"
     title: "Context Decay"
     url: "/wiki/concepts/contextdecay/"
@@ -5107,6 +5113,9 @@ topic_concepts:
   - key: "UnlimitedTokenWorkflow"
     title: "Unlimited Token Workflow"
     url: "/wiki/concepts/unlimitedtokenworkflow/"
+  - key: "UnstructuredHomeRobotics"
+    title: "Unstructured Home Robotics"
+    url: "/wiki/concepts/unstructuredhomerobotics/"
   - key: "UrbanHistoricalCorridor"
     title: "Urban Historical Corridor"
     url: "/wiki/concepts/urbanhistoricalcorridor/"
@@ -11325,6 +11334,9 @@ topic_sources:
   - key: "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460"
     title: "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？"
     url: "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+  - key: "yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn"
+    title: "英伟达启动对黄仁勋的调查，消费品牌集体跨界宠物生意"
+    url: "/wiki/sources/yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn/"
   - key: "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506"
     title: "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿"
     url: "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"

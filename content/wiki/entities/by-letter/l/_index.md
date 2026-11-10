@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13997
+wiki_total_pages: 13998
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "LetiziaBonaparte"
     title: "Letizia Bonaparte"
     url: "/wiki/entities/letiziabonaparte/"
+  - key: "Letterboxd"
+    title: "Letterboxd"
+    url: "/wiki/entities/letterboxd/"
   - key: "LeviCase"
     title: "Levi Case"
     url: "/wiki/entities/levicase/"

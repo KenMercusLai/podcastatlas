@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3476
+topic_total_pages: 3477
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1564,6 +1564,9 @@ topic_concepts:
   - key: "ExceptionStateSurveillanceTechnology"
     title: "Exception-State Surveillance Technology"
     url: "/wiki/concepts/exceptionstatesurveillancetechnology/"
+  - key: "ExecutiveConductGovernanceRisk"
+    title: "Executive Conduct Governance Risk"
+    url: "/wiki/concepts/executiveconductgovernancerisk/"
   - key: "ExecutivePowerPrecedent"
     title: "Executive Power Precedent"
     url: "/wiki/concepts/executivepowerprecedent/"

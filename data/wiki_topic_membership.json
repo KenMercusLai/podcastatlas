@@ -10320,6 +10320,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIFirmPowerAssetControl": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIFirstDraftGeneration": [
     {
       "key": "technology",
@@ -27782,6 +27789,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ContentPortfolioHardwareHedge": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ContestedAmericanFoundingMyth": [
     {
       "key": "history",
@@ -37106,6 +37125,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ExecutiveConductGovernanceRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ExecutiveFunction": [
@@ -57088,6 +57114,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Letterboxd": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Levellers": [
@@ -88027,6 +88060,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SubscriptionAdjacentCommunityAcquisition": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SubscriptionLines": [
     {
       "key": "economics",
@@ -95262,6 +95302,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UnstructuredHomeRobotics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "UnsupportedFrontierIntervention": [
@@ -114466,6 +114513,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov": [

@@ -5831,6 +5831,10 @@
     "title": "AI Financing Reflexivity",
     "url": "/wiki/concepts/aifinancingreflexivity/"
   },
+  "AIFirmPowerAssetControl": {
+    "title": "AI Firm Power Asset Control",
+    "url": "/wiki/concepts/aifirmpowerassetcontrol/"
+  },
   "AIFirstDraftGeneration": {
     "title": "AI First-Draft Generation",
     "url": "/wiki/concepts/aifirstdraftgeneration/"
@@ -23559,6 +23563,10 @@
     "title": "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏",
     "url": "/wiki/concepts/contentovermotiveremonstrance/"
   },
+  "ContentPortfolioHardwareHedge": {
+    "title": "Content Portfolio as Hardware-Cost Hedge",
+    "url": "/wiki/concepts/contentportfoliohardwarehedge/"
+  },
   "ContentSeedingMarketing": {
     "title": "Content Seeding Marketing / 内容种草",
     "url": "/wiki/concepts/contentseedingmarketing/"
@@ -24874,6 +24882,10 @@
   "CrossDomainThematicTransfer": {
     "title": "Cross-Domain Thematic Transfer",
     "url": "/wiki/concepts/crossdomainthematictransfer/"
+  },
+  "CrossIndustryPetCategoryExpansion": {
+    "title": "Cross-Industry Pet Category Expansion / 跨行业宠物品类扩张",
+    "url": "/wiki/concepts/crossindustrypetcategoryexpansion/"
   },
   "CrossKinshipSteppeOrganization": {
     "title": "Cross-Kinship Steppe Organization",
@@ -33107,6 +33119,10 @@
     "title": "Execution Status and Body Integrity / 处刑身份与身体完整性",
     "url": "/wiki/concepts/executionstatusandbodyintegrity/"
   },
+  "ExecutiveConductGovernanceRisk": {
+    "title": "Executive Conduct Governance Risk",
+    "url": "/wiki/concepts/executiveconductgovernancerisk/"
+  },
   "ExecutiveFunction": {
     "title": "Executive Function",
     "url": "/wiki/concepts/executivefunction/"
@@ -36746,6 +36762,10 @@
   "FranchiseLedConsumerChainExpansion": {
     "title": "Franchise-Led Consumer Chain Expansion",
     "url": "/wiki/concepts/franchiseledconsumerchainexpansion/"
+  },
+  "FranchiseRepositioningConflict": {
+    "title": "Franchise Repositioning Conflict / 加盟品牌升级冲突",
+    "url": "/wiki/concepts/franchiserepositioningconflict/"
   },
   "FrancisBacon": {
     "title": "Francis Bacon / 弗朗西斯·培根",
@@ -54882,6 +54902,10 @@
   "LetiziaBonaparte": {
     "title": "Letizia Bonaparte",
     "url": "/wiki/entities/letiziabonaparte/"
+  },
+  "Letterboxd": {
+    "title": "Letterboxd",
+    "url": "/wiki/entities/letterboxd/"
   },
   "LeukemiaDiagnosticReasoning": {
     "title": "Leukemia Diagnostic Reasoning",
@@ -87803,6 +87827,10 @@
     "title": "Subprime Auto Lending",
     "url": "/wiki/concepts/subprimeautolending/"
   },
+  "SubscriptionAdjacentCommunityAcquisition": {
+    "title": "Subscription-Adjacent Community Acquisition",
+    "url": "/wiki/concepts/subscriptionadjacentcommunityacquisition/"
+  },
   "SubscriptionFatigue": {
     "title": "Subscription Fatigue",
     "url": "/wiki/concepts/subscriptionfatigue/"
@@ -94354,6 +94382,10 @@
   "UnspokenFeelingAsMystery": {
     "title": "说不出口的心事 / Unspoken Feeling As Mystery",
     "url": "/wiki/concepts/unspokenfeelingasmystery/"
+  },
+  "UnstructuredHomeRobotics": {
+    "title": "Unstructured Home Robotics",
+    "url": "/wiki/concepts/unstructuredhomerobotics/"
   },
   "UnsupportedFrontierIntervention": {
     "title": "无支撑边疆干预 / Unsupported Frontier Intervention",
@@ -114046,6 +114078,10 @@
   "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937": {
     "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
     "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
+  },
+  "yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn": {
+    "title": "英伟达启动对黄仁勋的调查，消费品牌集体跨界宠物生意",
+    "url": "/wiki/sources/yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn/"
   },
   "yinyueren-zhangweiwei-luoyonghao-women-doushi-nage-hunluan-you-weida-de-90-niandai-de-xingcunzhe-llhey1qkmnmxesjlxgledjntaov": {
     "title": "音乐人张玮玮×罗永浩！我们都是那个“混乱又伟大”的 90 年代的幸存者",
