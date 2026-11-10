@@ -5977,9 +5977,9 @@
       "url": "/wiki/concepts/aishoppingdemanddiscovery/"
     },
     "AIShortDrama": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
@@ -6015,9 +6015,16 @@
           "show": "声动早咖啡",
           "title": "低价城际大巴吸引乘客，AI 短剧算力用量引发争议",
           "url": "/wiki/sources/gkwrijiorooxafjycwtsvi3u-gkwrijiorooxafjycwtsvi3u/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/aishortdrama/"
     },
     "AIShortDramaSupplyGlut": {
@@ -6327,9 +6334,9 @@
       "url": "/wiki/concepts/aiuniversitycampusreframing/"
     },
     "AIVideoProductionWorkflow": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 8,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
@@ -6400,9 +6407,16 @@
           "show": "十字路口Crossing",
           "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
           "url": "/wiki/sources/ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/aivideoproductionworkflow/"
     },
     "AIVoiceCloningRights": {
@@ -18822,6 +18836,29 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/angloukrainianrelations/"
+    },
+    "AnhuiXiaoMujiang": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/anhuixiaomujiang/"
     },
     "AnimalAbuseViolenceLink": {
       "episode_count": 4,
@@ -51787,6 +51824,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/chivalricsacralization/"
+    },
+    "ChixieRuSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/chixierusong/"
     },
     "ChizaoGengxin": {
       "episode_count": 8,
@@ -101277,6 +101330,36 @@
       "updated": "2026-10-10",
       "url": "/wiki/entities/fannynelson/"
     },
+    "FanqieNovel": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/fanqienovel/"
+    },
     "FanqiuWusun": {
       "episode_count": 1,
       "show_count": 1,
@@ -124636,6 +124719,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/guanghanzhenggonguprising/"
     },
+    "GuanghuanZhixia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/guanghuanzhixia/"
+    },
     "GuangzhouAcademyOfFineArts": {
       "episode_count": 1,
       "show_count": 1,
@@ -138046,9 +138145,9 @@
       "url": "/wiki/entities/hongxiuquan/"
     },
     "Hongguo": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
@@ -138098,9 +138197,16 @@
           "show": "商业就是这样",
           "title": "Vol.277 2026“金字招牌”特辑：有效创新",
           "url": "/wiki/sources/vol-277-2026-jinzizhaopai-teji-youxiao-chuangxin-gkwrijiopvjbaug1zwtoebjv/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/hongguo/"
     },
     "HongguoShortDrama": {
@@ -187449,9 +187555,9 @@
       "url": "/wiki/entities/luandawesternhan/"
     },
     "Luanfanshu": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
@@ -187536,9 +187642,16 @@
           "show": "乱翻书",
           "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
           "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/luanfanshu/"
     },
     "LucaFerrari": {
@@ -232932,6 +233045,64 @@
       "updated": "2026-10-24",
       "url": "/wiki/concepts/platformeddialectcirculation/"
     },
+    "PlatformizedDramaProduction": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "No.204 互联网视频平台混战：从后舍男生到漫长的季节 ｜ 中国互联网故事21 [980902194].md",
+          "key": "no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21",
+          "url": "/wiki/sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194/"
+        },
+        {
+          "episode_file": "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md",
+          "key": "269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt",
+          "show": "乱翻书",
+          "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+          "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "EP240 “霸总甜宠”在海外：短剧出海的产业密码 [ltVXvfj5ko6DJhsjatipHdy-DzeK].md",
+          "key": "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek",
+          "show": "Talk三联",
+          "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+          "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/platformizeddramaproduction/"
+    },
     "Plato": {
       "episode_count": 6,
       "show_count": 4,
@@ -270276,6 +270447,64 @@
       "updated": "2026-10-09",
       "url": "/wiki/concepts/shortdailymeditationattentiontraining/"
     },
+    "ShortDramaEconomics": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md",
+          "key": "269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt",
+          "show": "乱翻书",
+          "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+          "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "EP240 “霸总甜宠”在海外：短剧出海的产业密码 [ltVXvfj5ko6DJhsjatipHdy-DzeK].md",
+          "key": "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek",
+          "show": "Talk三联",
+          "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+          "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/shortdramaeconomics/"
+    },
     "ShortDramaOverseasExpansion": {
       "episode_count": 3,
       "show_count": 3,
@@ -270307,9 +270536,9 @@
       "url": "/wiki/concepts/shortdramaoverseasexpansion/"
     },
     "ShortDramaPaidTrafficDistribution": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
@@ -270345,9 +270574,16 @@
           "show": "科技乱炖",
           "title": "从抖音到红果短剧，我们为什么开始争论“字节时间”？",
           "url": "/wiki/sources/99e9bb96133f-99e9bb96133f/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
         }
       ],
-      "updated": "2026-11-06",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/shortdramapaidtrafficdistribution/"
     },
     "ShortDramaPlatformAggregation": {
@@ -320660,6 +320896,29 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/xiaoguicaosuiinstitutionalcontinuity/"
+    },
+    "XiaoGuoGege": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "lhHrwpWMn7E-UNjT7WpXDixLlxGS [lhHrwpWMn7E-UNjT7WpXDixLlxGS].md",
+          "key": "lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs",
+          "show": "乱翻书",
+          "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+          "url": "/wiki/sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/xiaoguogege/"
     },
     "XiaoHaiPoet": {
       "episode_count": 1,

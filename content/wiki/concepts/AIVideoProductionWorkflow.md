@@ -13,7 +13,8 @@ sources:
   - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
   - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
   - ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u
-last_updated: 2026-10-09
+  - lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs
+last_updated: 2026-11-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,7 +28,7 @@ The current evidence does not support treating AI video as either a simple promp
 
 The sources sharpen a role shift. In AI short drama, costs move away from actors, sets, costumes, and shooting days toward script iteration, IP access, prompt/image/video generation, compute, selection, editing, distribution, and rights checks. In film and professional media, AI is strongest as previsualization, storyboarding, launch-video, scenery, or production-management support before final delivery. [[NvwaZhiSi|《女娲之死》]] adds the clearest small-team film example: AI compressed a stop-motion-like ten-minute work into weeks rather than years, but the team still needed script development, style choice, storyboard-first generation, model selection, shot deletion, regeneration, editing, sound, and polishing.
 
-The resulting synthesis is role-shift rather than labor disappearance. As models improve, low-level "抽卡" may shrink, but [[AIDirectorCoreWorkflow]] becomes more important: someone still has to define the scene, communicate intent, choose the right model, judge performance, preserve continuity, and decide whether the output serves the story. [[KKAIDirector|KK]] and [[ShanYinAIDirector|山音]] add that the sequence itself can vary: one film can begin from a fixed story core, while another lets text, images, assets, and the edit co-evolve. In the latter pattern, the timeline becomes a production center and the boundary among preproduction, production, and postproduction weakens.
+The resulting synthesis is role-shift rather than labor disappearance. As models improve, low-level "抽卡" and manual cutting may shrink, but [[AIDirectorCoreWorkflow]] becomes more important: someone still has to choose and license a story, divide it into bounded adaptation units, define scenes, communicate intent, choose the right model, judge performance, preserve continuity, and decide whether the output serves the story. [[KKAIDirector|KK]] and [[ShanYinAIDirector|山音]] add that the sequence itself can vary: one film can begin from a fixed story core, while another lets text, images, assets, and the edit co-evolve. The newest solo-creator case adds a pragmatic short-drama pattern: listen for stories, apply for rights, adapt section by section with ordinary-language corrections, generate alternatives, review prompts and outputs, and use longer clips or intelligent editing only where they survive quality and platform checks.
 
 ## Key Claims
 - AI video reduces execution and trial cost, letting solo creators and small teams attempt work that previously required larger crews or expensive demo shoots.
@@ -36,7 +37,7 @@ The resulting synthesis is role-shift rather than labor disappearance. As models
 - Professional film use often starts with previsualization and visual communication, while final delivery still needs stable control, editability, integration with live footage, and film-grade aesthetics.
 - Short-drama cases show that low cost can expand supply, but distribution, paid traffic, platform review, settlement, and IP authorization still decide commercial outcomes.
 - The "抽卡师" frame is transitional and incomplete: better models reduce some brute-force generation but increase the value of director language, shot diagnosis, and performance judgment.
-- AI can support live-action production management without becoming the creative author of scripts, costumes, acting, or final taste.
+- AI can support live-action management and reduce manual assembly without becoming the creative author; the bottleneck shifts toward bounded adaptation, continuity, accuracy, review, and final taste.
 
 ## Evidence
 - Film-method rupture - [[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]] has [[JiaZhangke|贾樟柯]] distinguish AI from the film-to-digital carrier shift because AI may unsettle production roles themselves.
@@ -49,14 +50,15 @@ The resulting synthesis is role-shift rather than labor disappearance. As models
 - Director-core short-drama workflow - [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] contrasts early image-heavy generation labor with later scripts, IP, asset libraries, storyboards, model choice, and director instructions.
 - Small-team AI film case - [[no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3]] describes [[JiaoshouYiXiaoxing|叫兽易小星]], [[LiChenFenmo|李晨]], and [[FenmoTeam|粉墨]] using AI to make [[NvwaZhiSi|《女娲之死》]] through script development, clay-style visual design, storyboards, [[KlingAI|可灵]], [[Seedance]], editing, and regeneration.
 - Divergent and edit-centered workflows - [[ai-wuxian-rensheng-youxian-duitan-kk-shanyin-yixian-ai-chuangzuozhe-lmk4luckjgn-cpivd-7dy9vmsl0u]] contrasts [[MengusiFilm|《蒙古斯》]]'s fixed-core development with [[AMingDeYiTianFilm|《阿明的一天》]]'s co-evolving text, image, and edit process, while preserving staged keyframe approval as useful for some commercial work.
+- Solo comic-drama follow-up - [[lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs]] adds rights application, listening-based story choice, segmented adaptation with [[Doubao]] and [[Codex]], [[Jimeng]]/[[Seedance]] generation, ordinary-language correction, identity consistency, quality grading, review, and reduced editing friction from longer generated clips.
 
 ## Counterevidence & Qualifications
-The sources are mostly practitioner accounts, interviews, and podcast summaries rather than audited production records. Reported cost, time, market size, contest, festival, income, ROI, and model-quality claims should remain source-scoped. The workflow also differs by format: AI short drama, live-action management, independent shorts, professional film previsualization, television production support, and client-reviewed advertising have different risk, rights, performance, approval, and delivery thresholds. Edit-centered iteration complements rather than invalidates script-first and storyboard-first production.
+The sources are mostly practitioner accounts, interviews, and podcast summaries rather than audited production records. Reported cost, time, market size, contest, festival, income, ROI, payout, and model-quality claims should remain source-scoped. The workflow also differs by format: AI short drama, live-action management, independent shorts, professional film previsualization, television production support, and client-reviewed advertising have different risk, rights, performance, approval, and delivery thresholds. Edit-centered iteration and segmented adaptation complement rather than invalidate script-first and storyboard-first production.
 
 ## What Changed
-- Added fixed-core and co-evolving AI-film workflows as equally valid production patterns.
-- Identified the edit timeline as a possible coordination center that weakens traditional stage boundaries.
-- Preserved staged keyframes and approval gates as useful in commercial delivery despite direct video generation.
+- Added segmented novel adaptation and ordinary-language correction as a concrete solo-production pattern.
+- Added the claim that longer clips and intelligent editing reduce assembly labor while increasing the relative importance of selection, continuity, and quality judgment.
+- Preserved fixed-core, co-evolving, storyboard-first, and staged-approval workflows as format-dependent alternatives.
 
 ## Related Concepts
 - [[VideoModels]] - model capability layer used by AI-video workflows.

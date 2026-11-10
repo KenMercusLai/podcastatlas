@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14005
+wiki_total_pages: 14007
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2174,6 +2174,9 @@ wiki_pages:
   - key: "ChinaMerchantsFund"
     title: "招商基金 / China Merchants Fund"
     url: "/wiki/entities/chinamerchantsfund/"
+  - key: "ChixieRuSong"
+    title: "持械入宋 / Chixie Ru Song"
+    url: "/wiki/entities/chixierusong/"
   - key: "CultureLimited"
     title: "文化有限"
     url: "/wiki/entities/culturelimited/"

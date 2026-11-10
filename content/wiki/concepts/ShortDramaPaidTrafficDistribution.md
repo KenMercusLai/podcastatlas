@@ -8,7 +8,8 @@ sources:
   - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
   - ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek
   - 99e9bb96133f-99e9bb96133f
-last_updated: 2026-11-06
+  - lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs
+last_updated: 2026-11-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ Short-drama paid-traffic distribution is the system through which producers, dis
 
 ## Current Synthesis
 
-Paid traffic makes short drama an integrated production-and-acquisition business. Low production cost or strong storytelling can create a viable asset, but distributors still cut hooks, buy audiences, test ad placement, estimate return, stop or increase spend, and wait for platform settlement. The same mechanism can conceal the source of apparent virality from creators and make high play counts a poor proxy for income. Overseas expansion adds regional targeting and localization, while AI lowers production and campaign-monitoring costs without removing the need for creative judgment. The newest source strengthens the bargaining-power conclusion: when one ecosystem supplies production tools, discovery, traffic buying, viewing, advertising, and revenue sharing, creators may gain access to scale while becoming more dependent on opaque rules.
+Paid traffic makes short drama an integrated production-and-acquisition business. Low production cost or strong storytelling can create a viable asset, but distributors still cut hooks, buy audiences, test ad placement, estimate return, stop or increase spend, and wait for platform settlement. The same mechanism can conceal the source of apparent virality from creators and make high play counts a poor proxy for income. Overseas expansion adds regional targeting and localization, while AI lowers production and campaign-monitoring costs without removing creative judgment. The newest follow-up clarifies role allocation in one Hongguo route: the producer generally bears production cost and supplies usable drama and promotional material, while distributors or traffic-buying companies finance amplification because they share in advertising or distribution returns. This corrects the idea that every small producer must fund the full ad budget, without making the chain transparent or risk-free.
 
 ## Key Claims
 
@@ -30,6 +31,7 @@ Paid traffic makes short drama an integrated production-and-acquisition business
 - Overseas distribution adds localization, regional segmentation, bidding, stop-loss decisions, and social-platform acquisition to the production moat.
 - AI can reduce production and monitoring cost, but story fit, creative material, target psychology, and platform feedback still govern returns.
 - Vertical integration can expand supply and demand while weakening creator bargaining power and increasing exposure to price, policy, and ranking changes.
+- Production risk and traffic-financing risk may sit with different actors; creator economics cannot be inferred from total campaign spend alone.
 
 ## Evidence
 
@@ -50,15 +52,19 @@ Paid traffic makes short drama an integrated production-and-acquisition business
 
 - [[99e9bb96133f-99e9bb96133f]] argues that production tools, paid traffic, recommendation, advertising, viewing, and revenue sharing can form one platform loop, increasing both scale and creator dependence.
 
+### Division of production and traffic-financing roles
+
+- [[lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs]] says small producers in the guest's Hongguo route usually focus on making usable dramas and materials, while distributors and traffic-buying companies fund amplification and recover returns downstream; the creator still faces production loss, review failure, quality grading, and uncertain payout.
+
 ## Counterevidence & Qualifications
 
-The sources do not provide matched campaign ledgers, platform contracts, representative payout distributions, controlled comparisons with organic traffic, or audited profitability. Reported ROI benchmarks, revenue shares, playback, platform policy, and market scale are practitioner or host accounts. Paid traffic can fund discovery and reward successful work rather than merely extract value; the structural concern is opacity and concentrated rule-setting, not proof that every campaign or platform relationship is exploitative.
+The sources do not provide matched campaign ledgers, platform contracts, representative payout distributions, controlled comparisons with organic traffic, or audited profitability. Reported ROI benchmarks, revenue shares, playback, platform policy, cost allocation, and market scale are practitioner or host accounts. Paid traffic can fund discovery and reward successful work rather than merely extract value; the structural concern is opacity and concentrated rule-setting, not proof that every campaign or platform relationship is exploitative. The role split described by one creator may not apply across Douyin-native, overseas, miniprogram, non-exclusive, or other licensing arrangements.
 
 ## What Changed
 
-- Migrated the concept to the synthesis-first schema from its complete preserved evidence inventory.
-- Consolidated domestic creator, production-side, and overseas acquisition evidence into one current mechanism.
-- Added vertical integration and creator bargaining power as explicit qualifications of platform scale.
+- Added the producer/distributor/traffic-company division of labor from the Hongguo creator follow-up.
+- Clarified that production cost and traffic-financing cost can sit with different actors.
+- Preserved opacity, platform concentration, and route-specific contract variation as qualifications.
 
 ## Related Concepts
 

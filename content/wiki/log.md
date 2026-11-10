@@ -39107,3 +39107,11 @@ Added source `tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | 278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入
+
+Added source `lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs`; created [[ChixieRuSong|《持械入宋》]] and [[GuanghuanZhixia|《光环之下》]]; and resynthesized [[Luanfanshu|乱翻书]], [[XiaoGuoGege|小果哥哥]], [[AnhuiXiaoMujiang|《安徽小木匠》]], [[Hongguo|红果]], [[FanqieNovel|番茄小说]], [[AIShortDrama]], [[AIVideoProductionWorkflow]], [[ShortDramaEconomics]], [[PlatformizedDramaProduction]], and [[ShortDramaPaidTrafficDistribution]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: one experienced solo creator reports ten works, more than 1.6 billion plays, under RMB 150,000 total spending, and seven-figure income, while his first breakout remained strongest and most entrants may lose money; production and traffic-financing risk can sit with different actors; and longer generation or intelligent editing shifts scarcity toward story choice, rights, bounded adaptation, continuity, quality control, review, platform knowledge, and persistence. No settled contradiction was adopted. The follow-up revises the earlier impression of stalled output after review failures but preserves platform dependence, opaque settlement, prior-experience, extreme-labor, luck, and survivor-bias qualifications. Plays, costs, income, payout grades, peer outcomes, review rules, and platform mechanisms remain participant-reported and source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,902 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

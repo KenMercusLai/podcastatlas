@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs.md) — 乱翻书回访小果哥哥，以十部独立制作、16亿播放、七位数收入和亏损同行，拆解红果AI漫剧的版权、制作、质量分成、审核、投流分工与幸存者偏差。
 - [Can communities and data centers find common ground?](sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128.md) — Marketplace Tech uses Lancaster to show that strong data-center agreement penalties do not ensure resident participation, monitoring, or enforcement standing, and places negotiated benefits above a regulatory floor.
 - [vol.58 有问必答｜从1到0：如何放弃，却不否定自己？](sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin.md) — 天真不天真以转行、创始人放权和小生意推广三个问答，讨论能力与身份分离、未来成本、边界式授权及用行动松动评价恐惧。
 - [《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？](sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv.md) — 芮淇讲透资治通鉴以曹操西征汉中连接刑罚克制、隐蔽集结、侧翼安全、情报复核、阳平关偶然逆转与张鲁的保存资产式归降。
@@ -17492,7 +17493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [快手极速版 / Kuaishou Lite](entities/KuaishouLite.md) — Kuaishou short-video Lite product used as the episode's clearest case of reward-driven Lite-app scale.
 - [抖音极速版 / Douyin Lite](entities/DouyinLite.md) — ByteDance short-video Lite product connecting red-packet tasks, early behavior training, and internal traffic allocation.
 - [抖省省 / Doushenshen](entities/Doushenshen.md) — 从抖音内容种草延伸出的独立低价到店交易入口，整合搜索、支付、订单与核销，同时受商户覆盖和补贴持续性约束。
-- [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product used as a growth-transfer case from Toutiao channels toward Hongguo and short-form content.
+- [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product serving as a growth-system, story-discovery, rights, and cross-format audience substrate for Hongguo AI漫剧。
 - [汽水音乐 / Qishui Music](entities/QishuiMusic.md) — ByteDance music product whose growth uses Douyin account, BGM, viral-song, and interest signals.
 - [Temu](entities/Temu.md) — Pinduoduo's overseas low-price ecommerce platform, relying on supply, coupons, managed fulfillment, merchant adaptation, and now Xinpinmu-style self-operated quality upgrades.
 - [Zynn](entities/Zynn.md) — Kuaishou overseas short-video app used as a cautionary red-packet growth and compliance-risk case.
@@ -17510,9 +17511,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [朝夕光年](entities/ChaoxiGuangnian.md) — ByteDance heavy-game ambition used to show the limits of distribution-driven game strategy.
 - [巨量引擎 / Ocean Engine](entities/OceanEngine.md) — ByteDance unified ad platform integrating traffic across Toutiao, Douyin, Xigua, Huoshan, and related surfaces.
 - [Tencent Advertising](entities/TencentAdvertising.md) — Tencent advertising system contrasted with ByteDance's more unified Ocean Engine structure.
-- [小果哥哥 / XiaoGuoGege](entities/XiaoGuoGege.md) — AI short-drama creator whose Anhui Xiao Mujiang case links Doubao/Fanqie workflow to Douyin/Hongguo distribution.
-- [安徽小木匠 / Anhui Xiao Mujiang](entities/AnhuiXiaoMujiang.md) — AI short-drama work reported as a low-cost, 350-million-play breakout shaped by paid-traffic distribution and platform settlement.
-- [红果](entities/Hongguo.md) — Short-drama platform used in episode 266 to explain free/ad-supported scripted entertainment growth and pressure on long-video platforms.
+- [小果哥哥 / XiaoGuoGege](entities/XiaoGuoGege.md) — Solo AI漫剧 creator whose ten-work follow-up combines exceptional returns with prior experience, intense labor, review risk, and survivor-bias limits.
+- [安徽小木匠 / Anhui Xiao Mujiang](entities/AnhuiXiaoMujiang.md) — Low-cash-cost breakout that remained XiaoGuoGege's highest-play and highest-income work after a ten-drama portfolio.
+- [持械入宋 / Chixie Ru Song](entities/ChixieRuSong.md) — Source-reported multi-billion-play AI漫剧 used to show how a breakout can follow a year and dozens of prior team productions.
+- [光环之下 / Guanghuan Zhixia](entities/GuanghuanZhixia.md) — Fast-produced adaptation of a little-read short story whose delayed high-play breakout resists a single causal explanation.
+- [红果](entities/Hongguo.md) — Free short-drama platform organizing fiction IP, viewing, advertising, quality grading, review, traffic, and creator settlement.
 - [iQIYI / 爱奇艺](entities/IQIYI.md) — Long-video platform contrasted with Hongguo and Douyin through submission-based, decentralized drama-production pressure.
 - [龚宇](entities/GongYu.md) — iQIYI figure whose submission/decentralization proposal anchors episode 266's long-video platformization frame.
 - [王小叔](entities/WangXiaoshu.md) — Short-drama operator and episode 266 guest explaining cost structure, distribution, paid traffic, AI comic drama, and overseas publishing.
@@ -17549,7 +17552,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tim Cook](entities/TimCook.md) — Apple CEO framed through values institutionalization, privacy, accessibility, supply-chain responsibility, stakeholder capitalism, and geopolitical pragmatism.
 - [Steve Jobs](entities/SteveJobs.md) — Apple founder used as the product-revolution comparison frame for evaluating Tim Cook's different institutional legacy.
 - [Business Roundtable](entities/BusinessRoundtable.md) — CEO organization whose 2019 corporate-purpose statement anchors the episode's stakeholder-capitalism frame.
-- [乱翻书](entities/Luanfanshu.md) — Podcast connecting product and platform mechanisms with AI work, creative media, public reasoning, and youth problem-definition and responsibility.
+- [乱翻书](entities/Luanfanshu.md) — Podcast connecting product and platform mechanisms with AI work, creative media, longitudinal creator cases, public reasoning, and youth responsibility.
 - [庄明浩 / 庄明昊](entities/ZhuangMinghao.md) — Luanfanshu host framing application-layer strategy and AI short-drama platform shifts.
 - [罗玄 / Luo Xuan](entities/LuoXuan.md) — Luanfanshu guest discussing AI hardware, phones, agent context, foldables, and multi-agent workbench possibilities.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
@@ -28858,13 +28861,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unified Ad Platform](concepts/UnifiedAdPlatform.md) — Advertising structure where traffic, bidding, conversion, measurement, and product incentives operate as one system.
 - [Platform IP Strategy](concepts/PlatformIPStrategy.md) — Contrast between Tencent's long-cycle IP/membership route and ByteDance's recommendation-led content expansion.
 - [Platform Company Worldviews](concepts/PlatformCompanyWorldviews.md) — Strategic contrast between Tencent's "be better" product-experience worldview and ByteDance's "go bigger/go better" distribution worldview.
-- [AI Short Drama](concepts/AIShortDrama.md) — AI-assisted scripted short-video and comic-drama category shaped by video models, creator workflow, distribution, cost, and rights control.
-- [Short Drama Economics](concepts/ShortDramaEconomics.md) — Cost, paid-traffic, IAP-to-IAA, ad-yield, and single-minute-cost frame behind short drama and AI short drama.
-- [Short Drama Paid-Traffic Distribution](concepts/ShortDramaPaidTrafficDistribution.md) — Distributor, ad-buying, ROI, ad-placement, and delayed settlement mechanism behind some short-drama scale-ups.
-- [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, references, prompts, image/video generation, model-specific selection, editing, finishing, distribution, and rights checks.
+- [AI Short Drama](concepts/AIShortDrama.md) — AI-assisted scripted category where lower execution cost meets story, rights, quality grading, review, distribution, and fat-tailed creator outcomes.
+- [Short Drama Economics](concepts/ShortDramaEconomics.md) — Production cost, separately financed traffic, quality grading, free viewing, advertising, review, and settlement economics behind short drama.
+- [Short Drama Paid-Traffic Distribution](concepts/ShortDramaPaidTrafficDistribution.md) — Role-split system in which producers, distributors, traffic buyers, and platforms allocate production risk, campaign spend, amplification, and settlement.
+- [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical workflow spanning story choice, rights, bounded adaptation, prompts, generation, selection, continuity, editing, review, and delivery.
 - [AI Director-Core Workflow](concepts/AIDirectorCoreWorkflow.md) — AI video and short-drama production pattern centered on director intent, scripts, assets, storyboards, model-specific generation, client translation, visual execution, and human performance judgment.
 - [AI Short Drama Overseas Localization](concepts/AIShortDramaOverseasLocalization.md) — Outbound AI short-drama localization frame covering story resonance, fantasy/status symbols, payment behavior, and platform distribution.
-- [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Shift from producer-led long-video commissioning toward open submission, fast feedback, platform governance, and market-tested drama supply.
+- [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Platform organization of rights, creator intake, production matching, quality grading, review, recommendation, traffic, contracts, and settlement.
 - [Live-Action Short Drama](concepts/LiveActionShortDrama.md) — Human-cast short-drama category whose value depends on actor fit, relationship nuance, collaborative production craft, and AI-assisted rather than AI-replaced workflows.
 - [Short Drama Industrialization](concepts/ShortDramaIndustrialization.md) — Production-management pattern using script tagging, middle-office coordination, reusable scenes, ROI controls, and AI workflow checks to scale live-action short drama.
 - [Character Relationship Story Logic](concepts/CharacterRelationshipStoryLogic.md) — Story method where character relationships determine motivation, motivation determines events, and events determine whether short-drama audiences stay immersed.
