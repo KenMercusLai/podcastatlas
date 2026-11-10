@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3474
+topic_total_pages: 3476
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2872,6 +2872,9 @@ topic_concepts:
   - key: "NestedCooperationGovernance"
     title: "Nested Cooperation Governance"
     url: "/wiki/concepts/nestedcooperationgovernance/"
+  - key: "NetizenToPlatformUserTransition"
+    title: "Netizen-to-Platform-User Transition / 从网民到平台用户"
+    url: "/wiki/concepts/netizentoplatformusertransition/"
   - key: "NeutralityToInterventionMemory"
     title: "Neutrality-to-Intervention Memory"
     url: "/wiki/concepts/neutralitytointerventionmemory/"
@@ -9177,6 +9180,9 @@ topic_sources:
   - key: "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034"
     title: "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)"
     url: "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
+  - key: "lpunzmmsbu-bkekxyllalgjz-sdd"
+    title: "376-我们如何从网民变成了用户？卡夫卡《审判》"
+    url: "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
   - key: "39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk"
     title: "39 东西方的翻译官：帮助西班牙殖民者的女译员；马戛尔尼使团的翻译问题"
     url: "/wiki/sources/39-dongxifang-de-fanyiguan-bangzhu-xibanya-zhiminzhe-de-nvyiyuan-majiaerni-shituan-de-fanyi-wenti-linkqvq3o6xmjxo5g8ippvpbbnk/"

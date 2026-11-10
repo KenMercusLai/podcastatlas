@@ -39029,3 +39029,11 @@ Added source `zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-oura
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | 376-我们如何从网民变成了用户？卡夫卡《审判》
+
+Added source `lpunzmmsbu-bkekxyllalgjz-sdd`; created [[FranzKafka|弗兰茨·卡夫卡]], [[TheTrialKafka|卡夫卡《审判》]], [[NetizenToPlatformUserTransition|从网民到平台用户]], and [[OpaquePlatformProcedure|不透明平台程序]]; and resynthesized [[AlgorithmicCreatorSelfDiscipline|算法化创作者自我规训]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: platform dependence can replace community-membership expectations with bounded operation inside predefined rules; diffuse execution and inaccessible authority recruit users into reverse-engineering outcomes; and language can shift from public communication toward producing favorable procedural signals. No settled contradiction was adopted. The internet-history contrast, title semantics, textual interpretation, and platform analogy remain source-scoped, and platforms differ in participation, appeal, transparency, portability, and exit. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,892 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

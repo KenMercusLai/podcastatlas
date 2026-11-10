@@ -14169,9 +14169,9 @@
       "url": "/wiki/entities/algeria/"
     },
     "AlgorithmicCreatorSelfDiscipline": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "184.为了在算法时代被“听见”，我们改变了多少自己？｜ 对谈「声东击西」张晶 [lpOtw0uqiVLj8m6OTnoxh0kaheE5].md",
@@ -14186,9 +14186,16 @@
           "show": "罗永浩的十字路口",
           "title": "影视飓风TIM×罗永浩！用影像打开世界的梦想家",
           "url": "/wiki/sources/lkn6q5faprz9p8w1ue3-xtxeup2h-lkn6q5faprz9p8w1ue3-xtxeup2h/"
+        },
+        {
+          "episode_file": "lpunzMmsBU_BkEKxyllAlGjz-sdd [lpunzMmsBU_BkEKxyllAlGjz-sdd].md",
+          "key": "lpunzmmsbu-bkekxyllalgjz-sdd",
+          "show": "独树不成林",
+          "title": "376-我们如何从网民变成了用户？卡夫卡《审判》",
+          "url": "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/algorithmiccreatorselfdiscipline/"
     },
     "AlgorithmicLabeling": {
@@ -109939,6 +109946,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/franzjosephi/"
+    },
+    "FranzKafka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpunzMmsBU_BkEKxyllAlGjz-sdd [lpunzMmsBU_BkEKxyllAlGjz-sdd].md",
+          "key": "lpunzmmsbu-bkekxyllalgjz-sdd",
+          "show": "独树不成林",
+          "title": "376-我们如何从网民变成了用户？卡夫卡《审判》",
+          "url": "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/franzkafka/"
     },
     "FranzVonPapen": {
       "episode_count": 2,
@@ -211907,6 +211930,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/netherlands/"
     },
+    "NetizenToPlatformUserTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpunzMmsBU_BkEKxyllAlGjz-sdd [lpunzMmsBU_BkEKxyllAlGjz-sdd].md",
+          "key": "lpunzmmsbu-bkekxyllalgjz-sdd",
+          "show": "独树不成林",
+          "title": "376-我们如何从网民变成了用户？卡夫卡《审判》",
+          "url": "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/netizentoplatformusertransition/"
+    },
     "Netscape": {
       "episode_count": 2,
       "show_count": 2,
@@ -219544,6 +219583,22 @@
       ],
       "updated": "2026-11-03",
       "url": "/wiki/concepts/oocytechromosomestabilization/"
+    },
+    "OpaquePlatformProcedure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpunzMmsBU_BkEKxyllAlGjz-sdd [lpunzMmsBU_BkEKxyllAlGjz-sdd].md",
+          "key": "lpunzmmsbu-bkekxyllalgjz-sdd",
+          "show": "独树不成林",
+          "title": "376-我们如何从网民变成了用户？卡夫卡《审判》",
+          "url": "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/opaqueplatformprocedure/"
     },
     "OpenAIComputeStrategy": {
       "episode_count": 4,
@@ -291863,6 +291918,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/thetaleoftheheike/"
+    },
+    "TheTrialKafka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpunzMmsBU_BkEKxyllAlGjz-sdd [lpunzMmsBU_BkEKxyllAlGjz-sdd].md",
+          "key": "lpunzmmsbu-bkekxyllalgjz-sdd",
+          "show": "独树不成林",
+          "title": "376-我们如何从网民变成了用户？卡夫卡《审判》",
+          "url": "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/thetrialkafka/"
     },
     "TheTroubles": {
       "episode_count": 5,

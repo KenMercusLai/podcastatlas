@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3786
+topic_total_pages: 3787
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3640,6 +3640,9 @@ topic_concepts:
   - key: "NeoantigenSelectionTradeoff"
     title: "Neoantigen Selection Tradeoff"
     url: "/wiki/concepts/neoantigenselectiontradeoff/"
+  - key: "NetizenToPlatformUserTransition"
+    title: "Netizen-to-Platform-User Transition / 从网民到平台用户"
+    url: "/wiki/concepts/netizentoplatformusertransition/"
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"

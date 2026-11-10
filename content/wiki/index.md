@@ -5008,6 +5008,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)](sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211.md) — The Rest Is History on Crimean escalation, modern war, aristocratic cavalry culture, Cardigan and Lucan, and the Light Brigade's heroic-failure memory.
 - [Saying "so long" to the tech industry](sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128.md) — Marketplace Tech follows Drew and Lindsay Haven from technology careers into caregiving, health recovery, community life, and a lower-consumption exchange of spending for control over time.
 - [Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke](sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992.md) — Huberman Lab interview on addiction as reward adaptation and controllable state change, radical surrender, codependency, and clinically bounded recovery.
+- [376-我们如何从网民变成了用户？卡夫卡《审判》](sources/lpunzmmsbu-bkekxyllalgjz-sdd.md) — 独树不成林借卡夫卡《审判》讨论从共同体成员到平台用户的转变、不透明程序、规则制定与执行的差异，以及算法化语言自我规训。
 
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -19086,6 +19087,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Brudenell, 7th Earl of Cardigan](entities/JamesBrudenell7thEarlOfCardigan.md) — British Light Brigade commander whose courage and horsemanship coexisted with inexperience, privilege, scandal, and rivalry with Lucan.
 - [George Bingham, 3rd Earl of Lucan](entities/GeorgeBingham3rdEarlOfLucan.md) — British cavalry division commander whose experience and endurance were offset by rigidity, low empathy, and hostility toward Cardigan.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
+- [Franz Kafka / 弗兰茨·卡夫卡](entities/FranzKafka.md) — 以《审判》的不透明程序、分散执行和内化服从连接文学与平台治理的作家。
+- [Kafka's The Trial / 卡夫卡《审判》](entities/TheTrialKafka.md) — 通过无明确罪名、责任中心和可理解程序呈现权力如何改造语言、行动与尊严的小说。
 
 ## Concepts
 - [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
@@ -30311,5 +30314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Addiction as Control Strategy](concepts/AddictionAsControlStrategy.md) — Functional account of addiction as a predictable lever for changing internal experience even after pleasure declines.
 - [Radical Surrender in Recovery](concepts/RadicalSurrenderRecovery.md) — Active acceptance of failed control joined to guidance and the next available values-based action.
 - [Codependency Control Loop](concepts/CodependencyControlLoop.md) — Relational pattern in which managing another person's state becomes a way to regulate one's own emotions.
+- [Netizen-to-Platform-User Transition / 从网民到平台用户](concepts/NetizenToPlatformUserTransition.md) — 从可参与共同体规则制定的成员角色，转向在平台预设协议、功能、审核与分发中操作的用户角色。
+- [Opaque Platform Procedure / 不透明平台程序](concepts/OpaquePlatformProcedure.md) — 结果持续塑造可见性与行为，却难以识别完整理由、责任主体和规则修改路径的平台治理状态。
 
 ## Syntheses

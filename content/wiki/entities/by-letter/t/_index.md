@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13989
+wiki_total_pages: 13991
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "Talleyrand"
     title: "Charles Maurice de Talleyrand-Périgord"
     url: "/wiki/entities/talleyrand/"
+  - key: "TheTrialKafka"
+    title: "Kafka's The Trial / 卡夫卡《审判》"
+    url: "/wiki/entities/thetrialkafka/"
   - key: "TConScribd"
     title: "T-Con (Scribd Co-Founder)"
     url: "/wiki/entities/tconscribd/"

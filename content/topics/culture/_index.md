@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3631
+topic_total_pages: 3634
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4910,6 +4910,9 @@ topic_entities:
   - key: "FrankWells"
     title: "Frank Wells"
     url: "/wiki/entities/frankwells/"
+  - key: "FranzKafka"
+    title: "Franz Kafka / 弗兰茨·卡夫卡"
+    url: "/wiki/entities/franzkafka/"
   - key: "FranzKromer"
     title: "Franz Kromer / 弗朗兹·克罗默"
     url: "/wiki/entities/franzkromer/"
@@ -5345,6 +5348,9 @@ topic_entities:
   - key: "JurgenHabermas"
     title: "Jürgen Habermas / 哈贝马斯"
     url: "/wiki/entities/jurgenhabermas/"
+  - key: "TheTrialKafka"
+    title: "Kafka's The Trial / 卡夫卡《审判》"
+    url: "/wiki/entities/thetrialkafka/"
   - key: "KailiBluesFilm"
     title: "Kaili Blues / 《路边野餐》"
     url: "/wiki/entities/kailibluesfilm/"
@@ -9918,6 +9924,9 @@ topic_sources:
   - key: "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679"
     title: "37.智商测试：请问你是智力婆罗门吗？"
     url: "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+  - key: "lpunzmmsbu-bkekxyllalgjz-sdd"
+    title: "376-我们如何从网民变成了用户？卡夫卡《审判》"
+    url: "/wiki/sources/lpunzmmsbu-bkekxyllalgjz-sdd/"
   - key: "379-baghdad-the-arabian-nights-part-4-glt8529456010"
     title: "379. Baghdad: The Arabian Nights (Part 4)"
     url: "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"

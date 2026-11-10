@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 11121
+wiki_total_pages: 11123
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "NestedCooperationGovernance"
     title: "Nested Cooperation Governance"
     url: "/wiki/concepts/nestedcooperationgovernance/"
+  - key: "NetizenToPlatformUserTransition"
+    title: "Netizen-to-Platform-User Transition / 从网民到平台用户"
+    url: "/wiki/concepts/netizentoplatformusertransition/"
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"

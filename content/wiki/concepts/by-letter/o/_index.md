@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11121
+wiki_total_pages: 11123
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "OpaqueHiringMarket"
     title: "Opaque Hiring Market / 不透明招聘市场"
     url: "/wiki/concepts/opaquehiringmarket/"
+  - key: "OpaquePlatformProcedure"
+    title: "Opaque Platform Procedure / 不透明平台程序"
+    url: "/wiki/concepts/opaqueplatformprocedure/"
   - key: "OpenDataTransparency"
     title: "Open Data And Transparency"
     url: "/wiki/concepts/opendatatransparency/"

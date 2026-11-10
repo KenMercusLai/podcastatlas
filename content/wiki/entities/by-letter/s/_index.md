@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 13989
+wiki_total_pages: 13991
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
