@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11149
+wiki_total_pages: 11153
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2840,6 +2840,9 @@ wiki_pages:
   - key: "AssistiveDeviceClassification"
     title: "Assistive Device Classification"
     url: "/wiki/concepts/assistivedeviceclassification/"
+  - key: "AssistiveTechnologyDestigmatization"
+    title: "Assistive Technology Destigmatization"
+    url: "/wiki/concepts/assistivetechnologydestigmatization/"
   - key: "AssociationEvidenceBoundary"
     title: "Association Evidence Boundary"
     url: "/wiki/concepts/associationevidenceboundary/"

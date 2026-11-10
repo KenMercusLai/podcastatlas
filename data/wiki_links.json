@@ -11903,6 +11903,10 @@
     "title": "Assistive Device Classification",
     "url": "/wiki/concepts/assistivedeviceclassification/"
   },
+  "AssistiveTechnologyDestigmatization": {
+    "title": "Assistive Technology Destigmatization",
+    "url": "/wiki/concepts/assistivetechnologydestigmatization/"
+  },
   "AssociationEvidenceBoundary": {
     "title": "Association Evidence Boundary",
     "url": "/wiki/concepts/associationevidenceboundary/"
@@ -33447,6 +33451,10 @@
     "title": "快递网络基础设施收权",
     "url": "/wiki/concepts/expressnetworkinfrastructurecentralization/"
   },
+  "ExpressiveBionicVoiceRestoration": {
+    "title": "Expressive Bionic Voice Restoration",
+    "url": "/wiki/concepts/expressivebionicvoicerestoration/"
+  },
   "ExpressiveWritingProtocol": {
     "title": "Expressive Writing Protocol",
     "url": "/wiki/concepts/expressivewritingprotocol/"
@@ -45803,6 +45811,10 @@
     "title": "Human-Machine Amplification",
     "url": "/wiki/concepts/humanmachineamplification/"
   },
+  "HumanMachineVoiceAgency": {
+    "title": "Human-Machine Voice Agency",
+    "url": "/wiki/concepts/humanmachinevoiceagency/"
+  },
   "HumanMeaningUnderAI": {
     "title": "Human Meaning Under AI / AI 下的人类意义",
     "url": "/wiki/concepts/humanmeaningunderai/"
@@ -53246,6 +53258,10 @@
   "KonradLorenz": {
     "title": "Konrad Lorenz",
     "url": "/wiki/entities/konradlorenz/"
+  },
+  "KonradZielinski": {
+    "title": "Konrad Zieliński",
+    "url": "/wiki/entities/konradzielinski/"
   },
   "KonstantinMariupolGenealogist": {
     "title": "康斯坦丁 / Konstantin (Mariupol genealogist)",
@@ -88875,6 +88891,10 @@
     "title": "Synthetic Spud Cells",
     "url": "/wiki/concepts/syntheticspudcells/"
   },
+  "SyntheticVoiceIdentityAuthentication": {
+    "title": "Synthetic Voice Identity Authentication",
+    "url": "/wiki/concepts/syntheticvoiceidentityauthentication/"
+  },
   "SyntheticYoungerSelfReflection": {
     "title": "Synthetic Younger-Self Reflection",
     "url": "/wiki/concepts/syntheticyoungerselfreflection/"
@@ -93926,6 +93946,10 @@
   "UglyFrogGame": {
     "title": "丑蛙 / Ugly Frog game",
     "url": "/wiki/entities/uglyfroggame/"
+  },
+  "UhuraBionics": {
+    "title": "Uhura Bionics",
+    "url": "/wiki/entities/uhurabionics/"
   },
   "UjiBridgeBattle": {
     "title": "Uji Bridge Battle",
@@ -106946,6 +106970,10 @@
   "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881": {
     "title": "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"
+  },
+  "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322": {
+    "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
   },
   "default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476-default-mp3-ywr3ahjkcgo-b5a6e3798d93ba5a123766ba4019c696-28183476": {
     "title": "Charles Ponzi's scheme (plus a new scam)",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322.md) — Tomorrow Today interview on expressive bionic speech, low-latency on-device conversion, human control, voice-data ownership, identity authentication, reimbursement, and assistive-device destigmatization.
 - [VOL.226半夜报复性熬夜，白天浓咖啡续命？对话张健主委：被“剥夺”的睡眠，是如何一步步榨干心脏的？](sources/vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy.md) — 这病说来话长以睡眠剥夺、咖啡因、穿戴设备、周末突击运动和家族史解释心脏警示信号为何需要结合恢复、负荷与临床语境判断。
 - [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs.md) — 乱翻书回访小果哥哥，以十部独立制作、16亿播放、七位数收入和亏损同行，拆解红果AI漫剧的版权、制作、质量分成、审核、投流分工与幸存者偏差。
 - [Can communities and data centers find common ground?](sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128.md) — Marketplace Tech uses Lancaster to show that strong data-center agreement penalties do not ensure resident participation, monitoring, or enforcement standing, and places negotiated benefits above a regulatory floor.
@@ -5024,6 +5025,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
+- [Konrad Zieliński](entities/KonradZielinski.md) — Uhura Bionics founder-user connecting laryngectomy experience to expressive speech engineering, voice agency, and data rights.
+- [Uhura Bionics](entities/UhuraBionics.md) — Assistive speech company developing non-invasive, low-latency electronic voice systems for laryngectomy and broader atypical speech.
 - [张健 / Zhang Jian (cardiology)](entities/ZhangJianCardiology.md) — VOL.226心血管嘉宾，以症状、病史、家族史、恢复状态和检查语境解释睡眠、刺激物、运动负荷与心脏风险。
 - [Lancaster, Pennsylvania](entities/LancasterPennsylvania.md) — Data-center agreement case pairing strong municipal remedies with closed negotiation, compressed public review, and no resident enforcement standing.
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -19122,6 +19125,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [应翔 / Ying Xiang (film scholar and curator)](entities/YingXiangFilmScholar.md) — 以电影交流史、制度与策展研究中东欧电影跨国传播的学者和策展人。
 
 ## Concepts
+- [Expressive Bionic Voice Restoration](concepts/ExpressiveBionicVoiceRestoration.md) — Restoration target combining intelligibility with timing, prosody, non-word sound, identity, agency, and social participation.
+- [Human-Machine Voice Agency](concepts/HumanMachineVoiceAgency.md) — Control model keeping intention and emotion with the person while AI assists acoustic voice output.
+- [Synthetic Voice Identity Authentication](concepts/SyntheticVoiceIdentityAuthentication.md) — Modality-independent verification of the person authorizing biological, augmented, or generated speech.
+- [Assistive Technology Destigmatization](concepts/AssistiveTechnologyDestigmatization.md) — Reduction of disability marking through usable design, user choice, public familiarity, access, and broader elective adoption.
 - [向前看的退出决策 / Forward-Looking Exit Decision](concepts/ForwardLookingExitDecision.md) — 从今天起的成本、价值、动机和最坏结果判断是否退出，同时区分外部身份与可迁移能力。
 - [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
 - [战场偶然窗口利用 / Battlefield Contingency Exploitation](concepts/BattlefieldContingencyExploitation.md) — 通过核实、改令和后续行动把非计划事件转化为战役优势，而不倒推成预设妙计。

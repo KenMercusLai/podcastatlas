@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3796
+topic_total_pages: 3797
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2923,6 +2923,9 @@ topic_concepts:
   - key: "HumanMachineAmplification"
     title: "Human-Machine Amplification"
     url: "/wiki/concepts/humanmachineamplification/"
+  - key: "HumanMachineVoiceAgency"
+    title: "Human-Machine Voice Agency"
+    url: "/wiki/concepts/humanmachinevoiceagency/"
   - key: "HumanRobotSafetyCertification"
     title: "Human-Robot Safety Certification"
     url: "/wiki/concepts/humanrobotsafetycertification/"

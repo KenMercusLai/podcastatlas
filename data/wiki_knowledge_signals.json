@@ -6420,9 +6420,9 @@
       "url": "/wiki/concepts/aivideoproductionworkflow/"
     },
     "AIVoiceCloningRights": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -6451,9 +6451,16 @@
           "show": "三五环",
           "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
           "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/aivoicecloningrights/"
     },
     "AIWashingLayoffAttribution": {
@@ -23683,6 +23690,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/assistedreproductiondecisionliteracy/"
+    },
+    "AssistiveTechnologyDestigmatization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/assistivetechnologydestigmatization/"
     },
     "AssociationEvidenceBoundary": {
       "episode_count": 1,
@@ -98503,6 +98526,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/expressnetworkinfrastructurecentralization/"
     },
+    "ExpressiveBionicVoiceRestoration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/expressivebionicvoicerestoration/"
+    },
     "ExpressiveWritingProtocol": {
       "episode_count": 2,
       "show_count": 1,
@@ -142757,6 +142796,22 @@
       "updated": "2026-10-30",
       "url": "/wiki/concepts/humanleadershipunderai/"
     },
+    "HumanMachineVoiceAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/humanmachinevoiceagency/"
+    },
     "HumanMeaningUnderAI": {
       "episode_count": 2,
       "show_count": 1,
@@ -167676,6 +167731,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/konradlorenz/"
+    },
+    "KonradZielinski": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/konradzielinski/"
     },
     "KonstantinaStankovic": {
       "episode_count": 1,
@@ -286912,6 +286983,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/syntheticprogressindicators/"
     },
+    "SyntheticVoiceIdentityAuthentication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/syntheticvoiceidentityauthentication/"
+    },
     "SyntheticYoungerSelfReflection": {
       "episode_count": 1,
       "show_count": 1,
@@ -301912,6 +301999,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/ugeowimanjoseon/"
+    },
+    "UhuraBionics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322 [default.mp3_ywr3ahjkcgo_ae8e01990c3b91805b3e0c620f1c1333_32608322].md",
+          "key": "default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322",
+          "show": "Tomorrow, Today",
+          "title": "The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/uhurabionics/"
     },
     "UjiBridgeBattle": {
       "episode_count": 1,
