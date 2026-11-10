@@ -9,7 +9,8 @@ sources:
   - vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0
   - vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq
   - vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1
-last_updated: 2026-09-29
+  - vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy
+last_updated: 2026-11-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,12 +34,14 @@ The winter-sports episode adds movement control and environment. Snow, ice, hard
 
 Baseline health and supervision also shape capacity. A participant with hypertension, diabetes, chronic heart disease, poor baseline condition, or little technical experience may face a different risk from the same slope, lift, or gym movement; warmup, protective equipment, coaching, and refusal to advance through pain or bravado are therefore load-management decisions, not decorative extras.
 
+VOL.226 strengthens the mismatch case through the “weekend athlete”: low weekday activity followed by a maximal lifting or endurance effort can exceed current muscle, kidney, electrolyte, and cardiac capacity at once. Heat, sweating, dehydration, poor sleep, stimulant use, active infection, and hidden cardiovascular disease further reduce available reserve. The resulting rule is recovery-first progression: build regular capacity, adapt intensity to recent training and current condition, and resume strenuous work gradually after illness rather than treating excitement or caffeine as proof of readiness.
+
 ## Key Claims
 - Safe exercise depends on matching load to current capacity, goals, recovery, medical context, and decision-fit evidence, not on choosing a universally safe sport or trusting more precise-looking sensor output by default.
 - Gradual progression matters across endurance and strength activities: jumping from no base to long runs, marathons, intense functional-fitness sequences, or daily hard training raises risk.
 - Weekend athletes should reduce single-session intensity and use weekday strength or function work to close the gap between daily inactivity and weekend demand.
 - Fatigue is a risk multiplier because it makes movement form deteriorate and can also hide systemic recovery debt when sleep, caffeine, and willpower are used to keep training.
-- Cardiovascular and metabolic context matters: baseline hypertension, organic heart disease, cardiopulmonary reserve, creatine kinase elevation, kidney burden, and electrolyte problems can change what "same intensity" means.
+- Cardiovascular and metabolic context matters: baseline hypertension, organic heart disease, cardiopulmonary reserve, infection, heat, hydration, creatine kinase elevation, kidney burden, and electrolyte problems can change what "same intensity" means.
 - Hormone-support goals also require load management because repeated long vigorous sessions may create recovery demand rather than endocrine benefit.
 - Professional-athlete templates, viral dance imitation, social-media high-intensity routines, appearance-driven overtraining, equipment, supports, supplements, and wearable cues can help or motivate in specific contexts but do not replace progression, strength, technique, environmental judgment, recovery, and professional assessment when risk is high.
 
@@ -53,16 +56,15 @@ Baseline health and supervision also shape capacity. A participant with hyperten
 - Individualized biomechanics: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] proposes movement capture, force measurement, musculoskeletal modeling, and repeated rehabilitation assessment while emphasizing purpose, precision, and cost.
 - Environment and movement control: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] links winter falls, skiing, cutting sports, viral dance range, and uncontrolled neck movement to warmup, protection, simplification, and progression.
 - Health, skill, and supervision: [[vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1]] links winter sport and gym injuries to baseline disease, technique, coaching, protective equipment, warmup, severe pain, and the choice not to attempt terrain or loads beyond current ability.
+- Weekend-athlete and recovery mismatch: [[vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy|VOL.226]] links sudden maximal effort with muscle-enzyme elevation, kidney and myocardial burden, hidden disease activation, heat and electrolyte stress, and the need for graded return after infection.
 
 ## Counterevidence & Qualifications
 The sources do not argue against intense training, competition, endurance goals, winter sport, dance participation, exercise for appearance, or exercise for hormone support in general. They argue that intensity and range should be earned by preparation, control, technique, recovery, energy availability, environment, and medical context. These episodes are public education, not individualized training, endocrinology, cardiology, dermatology, medical-aesthetic, supplement, emergency-care, or rehabilitation prescriptions, and pain, swelling, locking, neurological symptoms, suspected acute injury, collapse, known heart disease, abnormal exercise response, fertility concerns, or hormone symptoms still require qualified assessment.
 
 ## What Changed
-- The synthesis treats exercise load as a reusable frame across running, gym, cycling, tennis, HYROX, weekend exercise, appearance goals, systemic risk, and support-device use.
-- Added an endocrine-recovery branch for hormone-support goals, bounded vigorous work, sleep, stress, and energy availability.
-- Added a conditional biomechanics branch: individualized models can inform load choices only when their inputs, precision, validation, and decision use are fit for purpose.
-- Added winter environment, uncontrolled range, viral imitation, and skill progression as load-management variables.
-- Clarified that baseline disease, coaching, protection, warmup, and stopping for severe pain are part of capacity matching in winter sport and gym settings.
+- Strengthened the weekend-athlete mismatch from musculoskeletal injury into simultaneous muscle, kidney, electrolyte, and cardiac load.
+- Added heat, dehydration, stimulant-supported fatigue, infection, and hidden cardiovascular disease as capacity-reducing conditions.
+- Made recovery-first graded return after illness part of general load management.
 
 ## Related Concepts
 - [[StrengthTrainingJointProtection]] - builds the muscular capacity that makes load easier to tolerate.

@@ -39115,3 +39115,11 @@ Added source `lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs`; create
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | VOL.226半夜报复性熬夜，白天浓咖啡续命？对话张健主委：被“剥夺”的睡眠，是如何一步步榨干心脏的？
+
+Added source `vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy`; created the semantically disambiguated [[ZhangJianCardiology|张健 / Zhang Jian (cardiology)]]; and resynthesized [[SleepAsDailyHealthAccount]], [[ExerciseLoadManagement]], [[CardiovascularExerciseRiskBoundary]], and [[RemoteCardiacMonitoringAndWarning]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: sleep deprivation cannot be repaired by temporary stimulation; symptoms, screening abnormalities, and wearable alerts need activity, persistence, history, and clinical context; and exercise remains protective when progression and recovery fit current capacity, while abrupt maximal load, infection, heat, dehydration, stimulants, family history, and latent disease can narrow the safe range. No settled contradiction was adopted. The apparent increase in young cardiovascular disease is qualified by improved detection, awareness, and media visibility, while prevalence, occasional-premature-beat reassurance, exercise examples, inheritance remarks, infection timelines, and stress-cardiomyopathy mechanisms remain episode-reported and source-scoped. Broad [[Atang|阿汤]], [[ZheBingShuoLaiHuaChang|这病说来话长]], [[MedicalDiagnosticReasoning]], [[SystemicSleepLossEffects]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,903 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

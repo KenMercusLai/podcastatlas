@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.226半夜报复性熬夜，白天浓咖啡续命？对话张健主委：被“剥夺”的睡眠，是如何一步步榨干心脏的？](sources/vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy.md) — 这病说来话长以睡眠剥夺、咖啡因、穿戴设备、周末突击运动和家族史解释心脏警示信号为何需要结合恢复、负荷与临床语境判断。
 - [278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入](sources/lhhrwpwmn7e-unjt7wpxdixllxgs-lhhrwpwmn7e-unjt7wpxdixllxgs.md) — 乱翻书回访小果哥哥，以十部独立制作、16亿播放、七位数收入和亏损同行，拆解红果AI漫剧的版权、制作、质量分成、审核、投流分工与幸存者偏差。
 - [Can communities and data centers find common ground?](sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128.md) — Marketplace Tech uses Lancaster to show that strong data-center agreement penalties do not ensure resident participation, monitoring, or enforcement standing, and places negotiated benefits above a regulatory floor.
 - [vol.58 有问必答｜从1到0：如何放弃，却不否定自己？](sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin.md) — 天真不天真以转行、创始人放权和小生意推广三个问答，讨论能力与身份分离、未来成本、边界式授权及用行动松动评价恐惧。
@@ -5023,6 +5024,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
+- [张健 / Zhang Jian (cardiology)](entities/ZhangJianCardiology.md) — VOL.226心血管嘉宾，以症状、病史、家族史、恢复状态和检查语境解释睡眠、刺激物、运动负荷与心脏风险。
 - [Lancaster, Pennsylvania](entities/LancasterPennsylvania.md) — Data-center agreement case pairing strong municipal remedies with closed negotiation, compressed public review, and no resident enforcement standing.
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
 - [郝普 / Hao Pu (late Han)](entities/HaoPuLateHan.md) — 零陵太守，因误信刘备、关羽无法驰援的消息而向吕蒙投降。
