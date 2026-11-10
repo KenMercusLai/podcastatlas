@@ -3743,6 +3743,10 @@
     "title": "514. Nelson: Hero of the Seas (Part 1)",
     "url": "/wiki/sources/514-nelson-hero-of-the-seas-part-1-glt4893527428/"
   },
+  "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm": {
+    "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+    "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+  },
   "515-nelson-attack-the-french-part-2-glt9020085184": {
     "title": "515. Nelson: Attack the French! (Part 2)",
     "url": "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
@@ -10238,6 +10242,10 @@
   "Android": {
     "title": "Android",
     "url": "/wiki/entities/android/"
+  },
+  "AndrzejWajda": {
+    "title": "安杰伊·瓦伊达 / Andrzej Wajda",
+    "url": "/wiki/entities/andrzejwajda/"
   },
   "Anduril": {
     "title": "Anduril",
@@ -22290,6 +22298,10 @@
   "ColdShiveringThermogenesis": {
     "title": "Cold and Shivering Thermogenesis",
     "url": "/wiki/concepts/coldshiveringthermogenesis/"
+  },
+  "ColdWarFilmCanonFormation": {
+    "title": "冷战电影经典形成 / Cold War Film Canon Formation",
+    "url": "/wiki/concepts/coldwarfilmcanonformation/"
   },
   "ColdWarNuclearMisperception": {
     "title": "Cold War Nuclear Misperception / 冷战核误判",
@@ -35235,6 +35247,10 @@
     "title": "Film Distribution Gatekeeping",
     "url": "/wiki/concepts/filmdistributiongatekeeping/"
   },
+  "FilmExchangeHistory": {
+    "title": "电影交流史 / Film Exchange History",
+    "url": "/wiki/concepts/filmexchangehistory/"
+  },
   "FilmGossipAsContext": {
     "title": "Film Gossip As Context",
     "url": "/wiki/concepts/filmgossipascontext/"
@@ -44050,6 +44066,10 @@
   "HistoricalGreatness": {
     "title": "Historical Greatness",
     "url": "/wiki/concepts/historicalgreatness/"
+  },
+  "HistoricalImageNarrativeConstruction": {
+    "title": "历史影像叙事建构 / Historical Image Narrative Construction",
+    "url": "/wiki/concepts/historicalimagenarrativeconstruction/"
   },
   "HistoricalInquirySourceCriticism": {
     "title": "Historical Inquiry and Source Criticism",
@@ -72563,6 +72583,10 @@
     "title": "Polish Built-Heritage Palimpsest",
     "url": "/wiki/concepts/polishbuiltheritagepalimpsest/"
   },
+  "PolishFilmSchool": {
+    "title": "波兰电影学派 / Polish Film School",
+    "url": "/wiki/concepts/polishfilmschool/"
+  },
   "PolishHomeArmy": {
     "title": "Polish Home Army / 波兰家乡军",
     "url": "/wiki/entities/polishhomearmy/"
@@ -85194,6 +85218,10 @@
   "SocialWar": {
     "title": "Social War / 同盟者战争",
     "url": "/wiki/entities/socialwar/"
+  },
+  "SocialistFilmCreativeGroupSystem": {
+    "title": "社会主义电影创作组制度 / Socialist Film Creative-Group System",
+    "url": "/wiki/concepts/socialistfilmcreativegroupsystem/"
   },
   "SocialistWelfareConsumerTradeoff": {
     "title": "Socialist Welfare-Consumer Tradeoff",
@@ -101842,6 +101870,10 @@
   "YingSi": {
     "title": "嬴驷 / Ying Si",
     "url": "/wiki/entities/yingsi/"
+  },
+  "YingXiangFilmScholar": {
+    "title": "应翔 / Ying Xiang (film scholar and curator)",
+    "url": "/wiki/entities/yingxiangfilmscholar/"
   },
   "YingZhuang": {
     "title": "嬴壮 / Ying Zhuang",

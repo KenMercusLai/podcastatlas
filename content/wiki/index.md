@@ -5017,6 +5017,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [EP153-我的50次随心飞年终总结报告](sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q.md) — 无时差研究所 episode on flight-pass consumer fit, airline capacity management, domestic travel, pandemic recovery, and a dated Yunnan coffee field-sourcing snapshot.
 - [Vol.231 成都丢冠：煮熟的鸭子怎么飞了？ft.秦云](sources/vol-231-chengdu-diuguan-zhushude-yazi-zenme-feile-ft-qinyun-gkwrijioygv7adhjrwt48vcx.md) — 不懂球与秦云从阵容功能缺口、战术固化、专业治理、争冠压力和青训衔接复盘成都蓉城丢冠，并保留内部说法与反事实判断的来源边界。
+- [515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达](sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm.md) — 忽左忽右对应翔的访谈以瓦伊达回顾展连接波兰电影学派、冷战传播、创作组制度与历史影像的政治建构。
 
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -19109,6 +19110,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阿洛伊西 / Aloisi (Chengdu Rongcheng coach)](entities/AloisiChengduRongchengCoach.md) — 成都蓉城丢冠赛季主教练，在来源中兼具战术延续、应变不足与组织约束下的问责角色。
 - [韦世豪 / Wei Shihao](entities/WeiShihao.md) — 成都蓉城队长和左路进攻爆点，其鲜明气质同时带来球队身份与停赛风险。
 - [菲利佩 / Felipe (Chengdu Rongcheng)](entities/FelipeChengduRongcheng.md) — 成都蓉城前场支点，其伤病暴露了阵容人数与功能替代之间的差距。
+- [安杰伊·瓦伊达 / Andrzej Wajda](entities/AndrzejWajda.md) — 以古典叙事、文学改编和影像政治持续处理波兰民族历史的导演与戏剧创作者。
+- [应翔 / Ying Xiang (film scholar and curator)](entities/YingXiangFilmScholar.md) — 以电影交流史、制度与策展研究中东欧电影跨国传播的学者和策展人。
 
 ## Concepts
 - [向前看的退出决策 / Forward-Looking Exit Decision](concepts/ForwardLookingExitDecision.md) — 从今天起的成本、价值、动机和最坏结果判断是否退出，同时区分外部身份与可迁移能力。
@@ -30357,5 +30360,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Football Squad Resilience / 足球阵容韧性](concepts/FootballSquadResilience.md) — 球队在伤停、老化和战术被适应后仍维持关键功能、替代方案与更新能力的综合容量。
 - [Football Club Professional Governance / 足球俱乐部专业治理](concepts/FootballClubProfessionalGovernance.md) — 将足球专业意见转化为招募、沟通、绩效、继任与青训决策的制度能力。
 - [Championship Pressure Management / 争冠压力管理](concepts/ChampionshipPressureManagement.md) — 教练、球员、管理层和球迷在罕见争冠窗口中维持判断、执行与可恢复信心的集体能力。
+- [波兰电影学派 / Polish Film School](concepts/PolishFilmSchool.md) — 政治解冻后以拒绝单一宣传模式为共同点、但保留多样风格的波兰电影运动。
+- [电影交流史 / Film Exchange History](concepts/FilmExchangeHistory.md) — 追踪影片如何跨境进入、被谁观看及如何影响接受与再创作的机制史。
+- [冷战电影经典形成 / Cold War Film Canon Formation](concepts/ColdWarFilmCanonFormation.md) — 电影节、集团交换与获取条件共同决定哪些作品进入世界电影史的选择过程。
+- [社会主义电影创作组制度 / Socialist Film Creative-Group System](concepts/SocialistFilmCreativeGroupSystem.md) — 国家制片体系内以稳定创作团队形成协作、传承与有限自主空间的生产安排。
+- [历史影像叙事建构 / Historical Image Narrative Construction](concepts/HistoricalImageNarrativeConstruction.md) — 通过选择、删略、剪辑和制度权威把记录材料组织成公共历史解释的过程。
 
 ## Syntheses

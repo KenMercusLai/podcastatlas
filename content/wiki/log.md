@@ -39085,3 +39085,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-10] ingest | 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
+
+Added source `515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm`; created [[AndrzejWajda|安杰伊·瓦伊达]], [[YingXiangFilmScholar|应翔]], [[PolishFilmSchool|波兰电影学派]], [[FilmExchangeHistory|电影交流史]], [[ColdWarFilmCanonFormation|冷战电影经典形成]], [[SocialistFilmCreativeGroupSystem|社会主义电影创作组制度]], and [[HistoricalImageNarrativeConstruction|历史影像叙事建构]]; and resynthesized [[HuzuoHuyou|忽左忽右]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: schools, studios, creative groups, festivals, cultural agreements, restoration, curation, editing, and official discourse shape which films can be made, seen, canonized, or remembered. No settled contradiction was adopted. The *Shaolin Temple* box-office anecdote, influence claims, casualty figures, political effects, institutional details, and private motives remain episode-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,899 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

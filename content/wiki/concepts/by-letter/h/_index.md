@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11142
+wiki_total_pages: 11147
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1241,6 +1241,9 @@ wiki_pages:
   - key: "HistoryAsPracticalOrientation"
     title: "历史学习的实践定位 / History as Practical Orientation"
     url: "/wiki/concepts/historyaspracticalorientation/"
+  - key: "HistoricalImageNarrativeConstruction"
+    title: "历史影像叙事建构 / Historical Image Narrative Construction"
+    url: "/wiki/concepts/historicalimagenarrativeconstruction/"
   - key: "HistoricalCostPrecedentRemonstrance"
     title: "历史成本先例式劝谏 / Historical Cost-Precedent Remonstrance"
     url: "/wiki/concepts/historicalcostprecedentremonstrance/"

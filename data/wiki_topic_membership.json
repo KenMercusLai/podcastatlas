@@ -47101,6 +47101,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HistoricalImageNarrativeConstruction": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HistoricalInquirySourceCriticism": [
     {
       "key": "history",

@@ -18060,6 +18060,22 @@
       "updated": "2026-10-22",
       "url": "/wiki/concepts/androgensupportsupplementboundary/"
     },
+    "AndrzejWajda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/andrzejwajda/"
+    },
     "Anduril": {
       "episode_count": 4,
       "show_count": 2,
@@ -56889,6 +56905,22 @@
       ],
       "updated": "2026-11-05",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
+    },
+    "ColdWarFilmCanonFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/coldwarfilmcanonformation/"
     },
     "ColdWarNuclearMisperception": {
       "episode_count": 3,
@@ -104773,6 +104805,22 @@
       "updated": "2026-10-17",
       "url": "/wiki/concepts/filmdistributiongatekeeping/"
     },
+    "FilmExchangeHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/filmexchangehistory/"
+    },
     "FilmGossipAsContext": {
       "episode_count": 2,
       "show_count": 2,
@@ -136070,6 +136118,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalgreatness/"
     },
+    "HistoricalImageNarrativeConstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/historicalimagenarrativeconstruction/"
+    },
     "HistoricalInquirySourceCriticism": {
       "episode_count": 5,
       "show_count": 1,
@@ -143872,9 +143936,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -143952,9 +144016,16 @@
           "show": "忽左忽右",
           "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
           "url": "/wiki/sources/506-yiwan-meiyuan-jiandie-tuokaqiefu-yu-lengzhan-wanqi-meisu-qingbao-daan-lvqmgp0k-6r7o0whwbakbuct8kvn/"
+        },
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HwangJini": {
@@ -233542,6 +233613,22 @@
       "updated": "2026-10-30",
       "url": "/wiki/concepts/polishbuiltheritagepalimpsest/"
     },
+    "PolishFilmSchool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/polishfilmschool/"
+    },
     "PolishHomeArmy": {
       "episode_count": 1,
       "show_count": 1,
@@ -274960,6 +275047,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/socialwar/"
+    },
+    "SocialistFilmCreativeGroupSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/socialistfilmcreativegroupsystem/"
     },
     "SocialistWelfareConsumerTradeoff": {
       "episode_count": 1,
@@ -327594,6 +327697,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/entities/yingjieqingtianmigrant/"
+    },
+    "YingXiangFilmScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrIc01Z9_3p6bVhcQwpxK8bS-nm [lgrIc01Z9_3p6bVhcQwpxK8bS-nm].md",
+          "key": "515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm",
+          "show": "忽左忽右",
+          "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+          "url": "/wiki/sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/yingxiangfilmscholar/"
     },
     "YingchuanFourMagistrates": {
       "episode_count": 2,

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3642
+topic_total_pages: 3643
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3835,6 +3835,9 @@ topic_concepts:
   - key: "HistoryAsLifeResource"
     title: "历史作为生命资源 / History as a Life Resource"
     url: "/wiki/concepts/historyasliferesource/"
+  - key: "HistoricalImageNarrativeConstruction"
+    title: "历史影像叙事建构 / Historical Image Narrative Construction"
+    url: "/wiki/concepts/historicalimagenarrativeconstruction/"
   - key: "HistoricalYouxiaToLiteraryWuxia"
     title: "历史游侠到文学武侠 / Historical Youxia to Literary Wuxia"
     url: "/wiki/concepts/historicalyouxiatoliterarywuxia/"

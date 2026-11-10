@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14002
+wiki_total_pages: 14004
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "YingChengLateHan"
     title: "应承 / Ying Cheng (late Han)"
     url: "/wiki/entities/yingchenglatehan/"
+  - key: "YingXiangFilmScholar"
+    title: "应翔 / Ying Xiang (film scholar and curator)"
+    url: "/wiki/entities/yingxiangfilmscholar/"
   - key: "YingGaoWesternHan"
     title: "应高 / Ying Gao (Western Han)"
     url: "/wiki/entities/yinggaowesternhan/"

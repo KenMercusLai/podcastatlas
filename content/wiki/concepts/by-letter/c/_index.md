@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11142
+wiki_total_pages: 11147
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3581,6 +3581,9 @@ wiki_pages:
   - key: "CampaignFinanceAccessIncentive"
     title: "军费通道利益驱动 / Campaign Finance Access Incentive"
     url: "/wiki/concepts/campaignfinanceaccessincentive/"
+  - key: "ColdWarFilmCanonFormation"
+    title: "冷战电影经典形成 / Cold War Film Canon Formation"
+    url: "/wiki/concepts/coldwarfilmcanonformation/"
   - key: "CoerciveImplicationCascade"
     title: "刑讯攀引扩大 / Coercive Implication Cascade"
     url: "/wiki/concepts/coerciveimplicationcascade/"

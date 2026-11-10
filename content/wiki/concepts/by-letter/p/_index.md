@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11142
+wiki_total_pages: 11147
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3062,6 +3062,9 @@ wiki_pages:
   - key: "PreventiveFrontierGovernance"
     title: "治未病式边疆治理 / Preventive Frontier Governance"
     url: "/wiki/concepts/preventivefrontiergovernance/"
+  - key: "PolishFilmSchool"
+    title: "波兰电影学派 / Polish Film School"
+    url: "/wiki/concepts/polishfilmschool/"
   - key: "ParentalIndulgenceBlindness"
     title: "溺爱不明 / Parental Indulgence Blindness"
     url: "/wiki/concepts/parentalindulgenceblindness/"
