@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2379
+topic_total_pages: 2384
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1624,6 +1624,9 @@ topic_concepts:
   - key: "GrowthROILayers"
     title: "Growth ROI Layers"
     url: "/wiki/concepts/growthroilayers/"
+  - key: "GrowthSystemization"
+    title: "Growth Systemization / 增长系统化"
+    url: "/wiki/concepts/growthsystemization/"
   - key: "HackerHouseStartupInfrastructure"
     title: "Hacker House Startup Infrastructure"
     url: "/wiki/concepts/hackerhousestartupinfrastructure/"
@@ -1855,6 +1858,9 @@ topic_concepts:
   - key: "IntermediarySpeechPressure"
     title: "Intermediary Speech Pressure"
     url: "/wiki/concepts/intermediaryspeechpressure/"
+  - key: "InternalStartupAccelerator"
+    title: "Internal Startup Accelerator / 企业内部加速器"
+    url: "/wiki/concepts/internalstartupaccelerator/"
   - key: "InternationalReplyCouponArbitrage"
     title: "International Reply Coupon Arbitrage"
     url: "/wiki/concepts/internationalreplycouponarbitrage/"
@@ -3109,6 +3115,9 @@ topic_concepts:
   - key: "StrategicBorderCorridorDependence"
     title: "Strategic Border-Corridor Dependence"
     url: "/wiki/concepts/strategicbordercorridordependence/"
+  - key: "StrategicFocusBySubtraction"
+    title: "Strategic Focus by Subtraction / 减法式战略聚焦"
+    url: "/wiki/concepts/strategicfocusbysubtraction/"
   - key: "StrategicFocusUnderIncumbentPressure"
     title: "Strategic Focus Under Incumbent Pressure"
     url: "/wiki/concepts/strategicfocusunderincumbentpressure/"
@@ -6059,6 +6068,9 @@ topic_entities:
   - key: "GuoKaiEconomist"
     title: "郭凯 / Guo Kai (economist)"
     url: "/wiki/entities/guokaieconomist/"
+  - key: "GuoJingACEStudio"
+    title: "郭靖（ACE Studio） / Guo Jing (ACE Studio)"
+    url: "/wiki/entities/guojingacestudio/"
   - key: "JinZicai"
     title: "金子才 / Jin Zicai"
     url: "/wiki/entities/jinzicai/"
@@ -6483,6 +6495,9 @@ topic_sources:
   - key: "lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8"
     title: "E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯"
     url: "/wiki/sources/lvnr1afmbkgg3gjzumqricvnleu8-lvnr1afmbkgg3gjzumqricvnleu8/"
+  - key: "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff"
+    title: "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事"
+    url: "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
   - key: "e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls"
     title: "E43 张潇雨、孟岩对话许哲：没有更好的生活"
     url: "/wiki/sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls/"

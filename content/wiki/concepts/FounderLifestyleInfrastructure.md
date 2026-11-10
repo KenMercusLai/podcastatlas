@@ -5,7 +5,8 @@ tags: [startups, operations, community, housing]
 sources:
   - tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77
   - tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128
-last_updated: 2026-09-08
+  - e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff
+last_updated: 2026-11-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Founder lifestyle infrastructure is the treatment of housing, meals, cleaning, s
 ## Current Synthesis
 The concept is not simply comfort. In the formal version, [[TheResidency]] reduces daily administration through housing, food, events, mentors, and investor access so founders can spend more attention on building, fundraising, and peer learning. In the rougher [[StartupEmbassy]] version, shared bedrooms, crowded facilities, meals, and constant proximity still serve as startup access infrastructure, but with much sharper comfort, privacy, and neighborhood tradeoffs.
 
-The current judgment is that founder lifestyle infrastructure can widen access and intensify community when it lowers fixed costs and concentrates peers. It becomes risky when the founder's work, home, identity, capital access, and social life collapse into one environment without enough operational discipline or boundaries.
+In [[HF0]]'s attention-allocation version, food, laundry, fitness, coaching, massage, sleep support, and shared space are described as subtraction: comfort is not the end but a way to reduce switching while a company pursues one current metric. The current judgment is that founder lifestyle infrastructure can widen access, intensify community, and protect concentrated execution. It becomes risky when work, home, identity, capital access, performance comparison, and social life collapse into one environment without enough operational discipline or boundaries.
 
 ## Key Claims
 - Daily-life services can become startup infrastructure when they free founder attention and create repeated peer contact.
@@ -26,19 +27,23 @@ The current judgment is that founder lifestyle infrastructure can widen access a
 - The model has a dignity and comfort boundary: crowding can buy access, but excessive density can make the infrastructure extractive or politically vulnerable.
 - Hospitality discipline and revenue design matter because lifestyle support has operating costs before equity or resident success returns are realized.
 - Founder support can become invasive if investor access, comparison pressure, institutional rules, or mission gatekeeping overwhelm resident trust.
+- High-service support can protect attention without requiring austerity, but it can also normalize excessive hours or make leaving the environment socially difficult.
 
 ## Evidence
 - Formal support model - [[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] describes [[TheResidency]] offering housing, meals, cleaning, events, mentors, and investor access.
 - Crowded access model - [[tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128]] describes hacker houses with multiple bunk beds per room and an example of about 24 residents sharing one bathroom and kitchen.
 - Peer-proximity benefit - [[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] uses silent collaboration and peer density, while [[tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128]] presents houses as places where makers and innovators could meet and talk.
 - Boundary risks - [[tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128]] reports neighborhood complaints and Carlos' mission-based refusal to rent to large-company employees, while [[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] stresses cost, cash-flow, and investor-presence risk.
+- Attention-support model - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] describes HF0's food, laundry, fitness, coaching, massage, sleep, and accommodation support as a way to remove daily-life interruption.
+- Organizational transfer - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] says ACE Studio reused selected support practices during temporary internal accelerators.
 
 ## Counterevidence & Qualifications
-The concept should not be generalized into a universal founder productivity rule. Current evidence comes from hacker-house cases, where lifestyle support can help only if basic habitability, trust, privacy, and operational sustainability remain credible.
+The concept should not be generalized into a universal founder productivity rule. Current evidence comes from hacker-house and participant accounts, where lifestyle support can help only if habitability, trust, privacy, health, caregiving, accessibility, voluntary participation, and operational sustainability remain credible.
 
 ## What Changed
-- Added the Startup Embassy case to show that lifestyle infrastructure can be improvisational and crowded, not only polished and programmatic.
-- Added comfort, privacy, neighborhood, and mission-gatekeeping limits to the concept's risk side.
+- Added HF0's high-service version of lifestyle infrastructure as deliberate attention protection.
+- Added transfer into temporary employee accelerators rather than founder housing alone.
+- Expanded the boundary to excessive-hours normalization, caregiving, accessibility, and voluntary participation.
 
 ## Related Concepts
 - [[HackerHouseStartupInfrastructure]] - founder lifestyle infrastructure is one mechanism that makes hacker houses operationally meaningful.
@@ -46,3 +51,5 @@ The concept should not be generalized into a universal founder productivity rule
 - [[FounderWorkBoundaries]] - the concept can strain boundaries when work and home fully merge.
 - [[FounderNetworkArbitrage]] - lifestyle support can help non-local founders stay near a high-value startup network.
 - [[BuilderCenteredInstitutions]] - founder lifestyle infrastructure is an institution-design choice around builders' daily conditions.
+- [[StrategicFocusBySubtraction]] - gives daily-life support a specific attention-allocation purpose.
+- [[InternalStartupAccelerator]] - transfers selected lifestyle support into a temporary company project mode.

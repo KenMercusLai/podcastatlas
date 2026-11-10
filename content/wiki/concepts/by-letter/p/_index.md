@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11126
+wiki_total_pages: 11130
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2339,6 +2339,9 @@ wiki_pages:
   - key: "ProfessionalNetworkCareerCapital"
     title: "Professional-Network Career Capital / 职业人脉资本"
     url: "/wiki/concepts/professionalnetworkcareercapital/"
+  - key: "ProfessionalUserFeedbackFlywheel"
+    title: "Professional-User Feedback Flywheel / 专业用户反馈飞轮"
+    url: "/wiki/concepts/professionaluserfeedbackflywheel/"
   - key: "ProfitAndCashFlowQuality"
     title: "Profit And Cash Flow Quality"
     url: "/wiki/concepts/profitandcashflowquality/"

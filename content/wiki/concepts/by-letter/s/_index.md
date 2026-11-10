@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11126
+wiki_total_pages: 11130
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2282,6 +2282,9 @@ wiki_pages:
   - key: "StrategicEnduranceMilitaryCommand"
     title: "Strategic Endurance Military Command"
     url: "/wiki/concepts/strategicendurancemilitarycommand/"
+  - key: "StrategicFocusBySubtraction"
+    title: "Strategic Focus by Subtraction / 减法式战略聚焦"
+    url: "/wiki/concepts/strategicfocusbysubtraction/"
   - key: "StrategicFocusUnderIncumbentPressure"
     title: "Strategic Focus Under Incumbent Pressure"
     url: "/wiki/concepts/strategicfocusunderincumbentpressure/"

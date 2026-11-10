@@ -254,6 +254,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/abriefhistoryofintelligence/"
     },
+    "ACEStudio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/acestudio/"
+    },
     "ACRCloud": {
       "episode_count": 1,
       "show_count": 1,
@@ -4986,9 +5002,9 @@
       "url": "/wiki/concepts/aimusicsettlementparity/"
     },
     "AIMusicWorkflowIntegration": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
@@ -4996,9 +5012,16 @@
           "show": "说得好听",
           "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
           "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/aimusicworkflowintegration/"
     },
     "AINativeManufacturingTransformation": {
@@ -108292,9 +108315,9 @@
       "url": "/wiki/concepts/founderledsales/"
     },
     "FounderLifestyleInfrastructure": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10 [f0870843-fd16-49f5-8f24-80281f9fff77].md",
@@ -108309,9 +108332,16 @@
           "show": "Marketplace Tech",
           "title": "The Silicon Valley hopefuls living in hacker houses",
           "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/founderlifestyleinfrastructure/"
     },
     "FounderMode": {
@@ -116320,9 +116350,9 @@
       "url": "/wiki/concepts/generativeaihollywoodproduction/"
     },
     "GenerativeAIMusic": {
-      "episode_count": 6,
-      "show_count": 5,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -116365,9 +116395,16 @@
           "show": "天真不天真",
           "title": "vol.57 对谈李荣浩：该放下就放下 该不要就不要",
           "url": "/wiki/sources/vol-57-duitan-lironghao-gai-fangxia-jiu-fangxia-gai-buyao-jiu-buyao-lujrbxdhqr5-hrqmyj746w6uap5/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeAIUseCaseTriage": {
@@ -123643,6 +123680,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/growthmindset/"
     },
+    "GrowthSystemization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/growthsystemization/"
+    },
     "GrowthToLivabilityTransition": {
       "episode_count": 2,
       "show_count": 1,
@@ -125027,6 +125080,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/guojiewesternhan/"
     },
+    "GuoJingACEStudio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/guojingacestudio/"
+    },
     "GuoJingJinYong": {
       "episode_count": 2,
       "show_count": 1,
@@ -126031,6 +126100,29 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/handhgroup/"
     },
+    "HF0": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10 [f0870843-fd16-49f5-8f24-80281f9fff77].md",
+          "key": "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77",
+          "show": "What's Next｜科技早知道",
+          "title": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10",
+          "url": "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/hf0/"
+    },
     "HHAsquith": {
       "episode_count": 4,
       "show_count": 1,
@@ -126506,9 +126598,9 @@
       "url": "/wiki/concepts/habsburgmarriagediplomacy/"
     },
     "HackerHouseStartupInfrastructure": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10 [f0870843-fd16-49f5-8f24-80281f9fff77].md",
@@ -126523,9 +126615,16 @@
           "show": "Marketplace Tech",
           "title": "The Silicon Valley hopefuls living in hacker houses",
           "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/hackerhousestartupinfrastructure/"
     },
     "HadithAuthentication": {
@@ -142038,9 +142137,9 @@
       "url": "/wiki/concepts/humangeneeditingethics/"
     },
     "HumanImperfectionCreativeValue": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP281对话吴镇宇：困在创伤里的我们，决定重新找回自己 [lvvREaPOyKpJ5XtLRyAAupU1Xo7r].md",
@@ -142062,9 +142161,16 @@
           "show": "十字路口Crossing",
           "title": "[年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会",
           "url": "/wiki/sources/nianzhong-fupan-1-ai-daigei-wode-10-ge-aha-moments-zhuangminghao-rsi-laile-ai-de-qiguan-yu-cucao-jutou-jiafeng-zhong-de-chuangye-jihui-lqxcqjzbuepdvtqovozf8bepxbzb/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
         }
       ],
-      "updated": "2026-11-02",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/humanimperfectioncreativevalue/"
     },
     "HumanInLoopAgentGovernance": {
@@ -150817,6 +150923,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/concepts/internalsafetyresearchexposure/"
+    },
+    "InternalStartupAccelerator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/internalstartupaccelerator/"
     },
     "InternalWorthAccountability": {
       "episode_count": 1,
@@ -219969,6 +220091,50 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/openmarketsinstituteeurope/"
     },
+    "OpenRouter": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+          "key": "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1",
+          "show": "枫言枫语",
+          "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
+          "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "AHARO1828359836 [AHARO1828359836].md",
+          "key": "featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Featherless AI: When Your Weekend Experiment Makes More Than Your Startup",
+          "url": "/wiki/sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/openrouter/"
+    },
     "OpenScientificCriticism": {
       "episode_count": 1,
       "show_count": 1,
@@ -240085,6 +240251,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/professionalservicesbillablehour/"
+    },
+    "ProfessionalUserFeedbackFlywheel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/professionaluserfeedbackflywheel/"
     },
     "ProfitBasedOccupationalTax": {
       "episode_count": 1,
@@ -280580,6 +280762,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/strategicexclusionandfocus/"
+    },
+    "StrategicFocusBySubtraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
+          "key": "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff",
+          "show": "硅谷101",
+          "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+          "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/strategicfocusbysubtraction/"
     },
     "StrategicForbearanceGovernance": {
       "episode_count": 7,

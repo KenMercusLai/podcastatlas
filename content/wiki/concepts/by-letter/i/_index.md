@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11126
+wiki_total_pages: 11130
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "InternalStabilityConfidenceRepair"
     title: "Internal Stability Confidence Repair"
     url: "/wiki/concepts/internalstabilityconfidencerepair/"
+  - key: "InternalStartupAccelerator"
+    title: "Internal Startup Accelerator / 企业内部加速器"
+    url: "/wiki/concepts/internalstartupaccelerator/"
   - key: "InternalToolProductization"
     title: "Internal Tool Productization"
     url: "/wiki/concepts/internaltoolproductization/"

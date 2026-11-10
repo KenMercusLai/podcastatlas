@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11126
+wiki_total_pages: 11130
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "GrowthROILayers"
     title: "Growth ROI Layers"
     url: "/wiki/concepts/growthroilayers/"
+  - key: "GrowthSystemization"
+    title: "Growth Systemization / 增长系统化"
+    url: "/wiki/concepts/growthsystemization/"
   - key: "GrowthWithoutBroadDiffusion"
     title: "Growth Without Broad Diffusion / 增长收益扩散失灵"
     url: "/wiki/concepts/growthwithoutbroaddiffusion/"

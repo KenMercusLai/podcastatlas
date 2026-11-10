@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3787
+topic_total_pages: 3790
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4120,6 +4120,9 @@ topic_concepts:
   - key: "ProfessionalServicesBillableHour"
     title: "Professional Services Billable Hour"
     url: "/wiki/concepts/professionalservicesbillablehour/"
+  - key: "ProfessionalUserFeedbackFlywheel"
+    title: "Professional-User Feedback Flywheel / 专业用户反馈飞轮"
+    url: "/wiki/concepts/professionaluserfeedbackflywheel/"
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
@@ -5336,6 +5339,9 @@ topic_entities:
   - key: "Accenture"
     title: "Accenture"
     url: "/wiki/entities/accenture/"
+  - key: "ACEStudio"
+    title: "ACE Studio"
+    url: "/wiki/entities/acestudio/"
   - key: "Acer"
     title: "Acer"
     url: "/wiki/entities/acer/"
@@ -9341,6 +9347,9 @@ topic_entities:
   - key: "ZhengGuoCanal"
     title: "郑国渠 / Zhengguo Canal"
     url: "/wiki/entities/zhengguocanal/"
+  - key: "GuoJingACEStudio"
+    title: "郭靖（ACE Studio） / Guo Jing (ACE Studio)"
+    url: "/wiki/entities/guojingacestudio/"
   - key: "Dujiangyan"
     title: "都江堰 / Dujiangyan"
     url: "/wiki/entities/dujiangyan/"

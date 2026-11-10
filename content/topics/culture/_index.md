@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3636
+topic_total_pages: 3638
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4073,6 +4073,9 @@ topic_entities:
   - key: "Abraxas"
     title: "Abraxas / 阿布拉克萨斯"
     url: "/wiki/entities/abraxas/"
+  - key: "ACEStudio"
+    title: "ACE Studio"
+    url: "/wiki/entities/acestudio/"
   - key: "Achilles"
     title: "Achilles"
     url: "/wiki/entities/achilles/"
@@ -9146,6 +9149,9 @@ topic_entities:
   - key: "ShaoYang"
     title: "邵阳 / Shao Yang"
     url: "/wiki/entities/shaoyang/"
+  - key: "GuoJingACEStudio"
+    title: "郭靖（ACE Studio） / Guo Jing (ACE Studio)"
+    url: "/wiki/entities/guojingacestudio/"
   - key: "BeibeiDistrict"
     title: "重庆北碚 / Beibei District"
     url: "/wiki/entities/beibeidistrict/"

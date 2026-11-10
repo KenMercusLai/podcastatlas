@@ -5079,6 +5079,10 @@
     "title": "A Brief History of Intelligence",
     "url": "/wiki/entities/abriefhistoryofintelligence/"
   },
+  "ACEStudio": {
+    "title": "ACE Studio",
+    "url": "/wiki/entities/acestudio/"
+  },
   "ACLUOfNewMexico": {
     "title": "ACLU of New Mexico",
     "url": "/wiki/entities/acluofnewmexico/"
@@ -40747,6 +40751,10 @@
     "title": "Growth Risk Control",
     "url": "/wiki/concepts/growthriskcontrol/"
   },
+  "GrowthSystemization": {
+    "title": "Growth Systemization / 增长系统化",
+    "url": "/wiki/concepts/growthsystemization/"
+  },
   "GrowthToLivabilityTransition": {
     "title": "Growth-to-Livability Transition / 从增长速度到城市宜居性",
     "url": "/wiki/concepts/growthtolivabilitytransition/"
@@ -41170,6 +41178,10 @@
   "GuoJieWesternHan": {
     "title": "郭解 / Guo Jie (Western Han)",
     "url": "/wiki/entities/guojiewesternhan/"
+  },
+  "GuoJingACEStudio": {
+    "title": "郭靖（ACE Studio） / Guo Jing (ACE Studio)",
+    "url": "/wiki/entities/guojingacestudio/"
   },
   "GuoJingJinYong": {
     "title": "郭靖（金庸小说） / Guo Jing (Jin Yong)",
@@ -47934,6 +47946,10 @@
   "InternalStabilityConfidenceRepair": {
     "title": "Internal Stability Confidence Repair",
     "url": "/wiki/concepts/internalstabilityconfidencerepair/"
+  },
+  "InternalStartupAccelerator": {
+    "title": "Internal Startup Accelerator / 企业内部加速器",
+    "url": "/wiki/concepts/internalstartupaccelerator/"
   },
   "InternalToolProductization": {
     "title": "Internal Tool Productization",
@@ -74439,6 +74455,10 @@
     "title": "Professional Tool Branding",
     "url": "/wiki/concepts/professionaltoolbranding/"
   },
+  "ProfessionalUserFeedbackFlywheel": {
+    "title": "Professional-User Feedback Flywheel / 专业用户反馈飞轮",
+    "url": "/wiki/concepts/professionaluserfeedbackflywheel/"
+  },
   "ProfessionalWearableMoat": {
     "title": "Professional Wearable Moat",
     "url": "/wiki/concepts/professionalwearablemoat/"
@@ -87262,6 +87282,10 @@
   "StrategicExclusionAndFocus": {
     "title": "战略排除与聚焦 / Strategic Exclusion and Focus",
     "url": "/wiki/concepts/strategicexclusionandfocus/"
+  },
+  "StrategicFocusBySubtraction": {
+    "title": "Strategic Focus by Subtraction / 减法式战略聚焦",
+    "url": "/wiki/concepts/strategicfocusbysubtraction/"
   },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
@@ -107154,6 +107178,10 @@
   "e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9": {
     "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
     "url": "/wiki/sources/e257-duihua-vitalik-ai-anquan-beihoude-zhexue-sixiang-youxiao-lita-zhuyi-ruhe-yingxiang-guigu-7a1e61d3-f02c-498b-ac84-cf68f59b4ca9/"
+  },
+  "e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff": {
+    "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
+    "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",

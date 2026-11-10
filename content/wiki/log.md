@@ -39045,3 +39045,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-10] ingest | E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事
+
+Added source `e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff`; created [[ACEStudio|ACE Studio]], the semantically disambiguated [[GuoJingACEStudio|郭靖（ACE Studio）]], [[StrategicFocusBySubtraction|减法式战略聚焦]], [[GrowthSystemization|增长系统化]], [[InternalStartupAccelerator|企业内部加速器]], and [[ProfessionalUserFeedbackFlywheel|专业用户反馈飞轮]]; and resynthesized [[HF0]], [[OpenRouter]], [[HackerHouseStartupInfrastructure]], [[FounderLifestyleInfrastructure]], [[GenerativeAIMusic]], [[AIMusicWorkflowIntegration]], and [[HumanImperfectionCreativeValue]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: residential support can operate as attention infrastructure when one company-specific metric and public review concentrate work; acquisition and pricing systems amplify but do not replace product value; temporary co-location can be a bounded remote-company project mode; and professional edit traces may improve AI-music models while creating consent, rights, representation, and aesthetic-narrowing risks. No settled contradiction was adopted. Investment terms, revenue, outreach, accelerator causation, model comparisons, OpenRouter history, and competitive advantages remain participant-, company-, or source-scoped, while high-pressure residency is not assumed transferable to every team. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,894 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

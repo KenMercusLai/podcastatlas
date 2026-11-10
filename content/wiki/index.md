@@ -5011,6 +5011,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [376-我们如何从网民变成了用户？卡夫卡《审判》](sources/lpunzmmsbu-bkekxyllalgjz-sdd.md) — 独树不成林借卡夫卡《审判》讨论从共同体成员到平台用户的转变、不透明程序、规则制定与执行的差异，以及算法化语言自我规训。
 - [Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊](sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi.md) — 文化有限从阿特伍《盲刺客》的晚年回忆、报刊、书中书与科幻寓言，讨论多层叙事、公共与私人记录、女性创伤及谁有权定义一个人。
 
+- [E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff.md) — 硅谷101访谈郭靖，讨论HF0的减法式聚焦、ACE Studio增长系统与内部加速器、OpenRouter早期统一API，以及专业用户反馈和AI音乐审美边界。
+
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
 - [郝普 / Hao Pu (late Han)](entities/HaoPuLateHan.md) — 零陵太守，因误信刘备、关羽无法驰援的消息而向吕蒙投降。
@@ -19095,6 +19097,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Iris Chase / 艾丽丝](entities/IrisChase.md) — 在生命晚期重述家族秘密、暴露隐藏欲望与作者身份，并承担迟到责任的叙述者。
 - [Laura Chase / 劳拉](entities/LauraChase.md) — 其死亡、被隐瞒的侵害与被错置的作者身份构成《盲刺客》核心谜团的妹妹。
 
+- [ACE Studio](entities/ACEStudio.md) — AI音乐公司，以专业创作工具、自研模型、内部加速器和授权编辑轨迹连接产品与模型迭代。
+- [郭靖（ACE Studio） / Guo Jing (ACE Studio)](entities/GuoJingACEStudio.md) — ACE Studio创始人兼CEO，主张减法式聚焦、系统化增长，并把HF0模式改造成公司内部攻坚机制。
+
 ## Concepts
 - [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
 - [战场偶然窗口利用 / Battlefield Contingency Exploitation](concepts/BattlefieldContingencyExploitation.md) — 通过核实、改令和后续行动把非计划事件转化为战役优势，而不倒推成预设妙计。
@@ -30324,5 +30329,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Layered Narrative Functional Integration / 多层叙事功能整合](concepts/LayeredNarrativeFunctionalIntegration.md) — 让嵌套故事、文献与文类分别承担节奏、悬念、遮蔽、人物与主题功能的结构方法。
 - [Public–Private Record Gap / 公共记录与私人经验落差](concepts/PublicPrivateRecordGap.md) — 机构可见的人物记录与家庭、亲密或被迫沉默经验之间的差距。
 - [Narrative Authority and Identity / 叙事权与身份建构](concepts/NarrativeAuthorityAndIdentity.md) — 围绕谁能生产、流通和保存一个人的可知叙事而展开的身份权力竞争。
+
+- [Strategic Focus by Subtraction / 减法式战略聚焦](concepts/StrategicFocusBySubtraction.md) — 删除有吸引力但非当前第一优先级的工作，以单一目标、合适指标和复盘机制集中组织注意力。
+- [Growth Systemization / 增长系统化](concepts/GrowthSystemization.md) — 将触达、定价、转化、投放和测量改造成可迭代的增长系统，同时保留产品价值的长期边界。
+- [Internal Startup Accelerator / 企业内部加速器](concepts/InternalStartupAccelerator.md) — 远程公司围绕一个明确问题临时集中团队、提供生活支持并采用固定复盘节奏的项目模式。
+- [Professional-User Feedback Flywheel / 专业用户反馈飞轮](concepts/ProfessionalUserFeedbackFlywheel.md) — 专业工具通过授权编辑轨迹和专家偏好形成后训练信号的潜在模型改进循环。
 
 ## Syntheses
