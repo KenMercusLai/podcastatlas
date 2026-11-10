@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3795
+topic_total_pages: 3796
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9942,6 +9942,9 @@ topic_sources:
   - key: "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128"
     title: "Can an AI music company make nice with human artists?"
     url: "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+  - key: "tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128"
+    title: "Can communities and data centers find common ground?"
+    url: "/wiki/sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128/"
   - key: "can-computer-hackers-get-inside-your-mind"
     title: "Can computer hackers get inside your mind?"
     url: "/wiki/sources/can-computer-hackers-get-inside-your-mind/"

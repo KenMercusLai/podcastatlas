@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can communities and data centers find common ground?](sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128.md) — Marketplace Tech uses Lancaster to show that strong data-center agreement penalties do not ensure resident participation, monitoring, or enforcement standing, and places negotiated benefits above a regulatory floor.
 - [vol.58 有问必答｜从1到0：如何放弃，却不否定自己？](sources/vol-58-youwenbida-cong-1-dao-0-ruhe-fangqi-que-bu-fouding-ziji-ljf7qgb2ckoql1xo5bkcqq6pgcin.md) — 天真不天真以转行、创始人放权和小生意推广三个问答，讨论能力与身份分离、未来成本、边界式授权及用行动松动评价恐惧。
 - [《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？](sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv.md) — 芮淇讲透资治通鉴以曹操西征汉中连接刑罚克制、隐蔽集结、侧翼安全、情报复核、阳平关偶然逆转与张鲁的保存资产式归降。
 - [《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？](sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop.md) — 芮淇讲透资治通鉴以孙刘荆州争端、吕蒙诱降郝普与鲁肃会关羽，讨论虚假无援信息、将领自主性与共同威胁下的联盟利益边界。
@@ -5021,6 +5022,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
+- [Lancaster, Pennsylvania](entities/LancasterPennsylvania.md) — Data-center agreement case pairing strong municipal remedies with closed negotiation, compressed public review, and no resident enforcement standing.
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
 - [郝普 / Hao Pu (late Han)](entities/HaoPuLateHan.md) — 零陵太守，因误信刘备、关羽无法驰援的消息而向吕蒙投降。
 - [冷芸 / Leng Yun](entities/LengYun.md) — Fashion researcher and practitioner analyzing desire, premium presentation, and Chinese fashion upgrading.
@@ -26497,7 +26499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AGI Narrative](concepts/AGINarrative.md) — Investment and strategy story in which general artificial intelligence promises unforeseeable future opportunities and intensifies AI bubble dynamics.
 - [Second-Life EV Battery Storage](concepts/SecondLifeEVBatteryStorage.md) — Use of retired EV battery packs as stationary storage for data centers and other power-constrained infrastructure.
 - [AI Slop Detection](concepts/AISlopDetection.md) — Platform-quality workflow for identifying repetitive, low-effort, misleading, or engagement-farmed AI-generated content.
-- [Enforceable Community Benefits](concepts/EnforceableCommunityBenefits.md) — Legally binding local hiring, labor, environmental, water, and emissions commitments demanded around AI-era infrastructure or manufacturing projects.
+- [Enforceable Community Benefits](concepts/EnforceableCommunityBenefits.md) — Local infrastructure commitments evaluated through specificity, monitoring, remedies, enforcement standing, representation, and verified delivery.
 - [AI Farm Decision Support](concepts/AIFarmDecisionSupport.md) — Farm AI pattern where models retrieve research, interpret field evidence, and test crop scenarios while farmers and agronomists retain final judgment.
 - [Digital Agriculture](concepts/DigitalAgriculture.md) — Farm digitization layer where software, data, sensors, imagery, and AI enter everyday field operations and equipment decisions.
 - [Drone Crop Mapping](concepts/DroneCropMapping.md) — Use of aerial field imagery and AI analysis to identify crop or weed conditions that human scouting may miss.
@@ -26704,7 +26706,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Age Verification Patchwork](concepts/AgeVerificationPatchwork.md) — Fragmented state and international age-assurance rules that make platform access and compliance depend on location.
 - [Free Speech Coalition v. Paxton](concepts/FreeSpeechCoalitionVPaxton.md) — Supreme Court age-verification case treated in the source as narrower than general social-platform identity checks.
 - [Settlement-Induced Age Verification](concepts/SettlementInducedAgeVerification.md) — Risk that platform settlements create age or identity verification pressure without direct statutory mandates.
-- [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance problem of whether communities have enough time, information, public-process rights, and leverage to negotiate acceptable data-center development.
+- [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance standard requiring time, information, representation, regulatory protections, monitoring, and credible enforcement around data-center development.
 - [Path To Profitability](concepts/PathToProfitability.md) — Investor-facing claim that current losses can become durable profits through credible cost structure, spending discipline, and business-model payoff.
 - [Activist Investor Pressure](concepts/ActivistInvestorPressure.md) — Public shareholder campaign pattern using letters, websites, and media attention to force company strategy and cost questions into the open.
 - [Public Web Archiving](concepts/PublicWebArchiving.md) — Public-interest preservation of web-page snapshots for accountability, memory, research, and journalism.

@@ -70125,9 +70125,9 @@
       "url": "/wiki/concepts/datacenterbacklash/"
     },
     "DataCenterCommunityConsent": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
@@ -70170,9 +70170,16 @@
           "show": "Marketplace Tech",
           "title": "Can data centers ever be good neighbors?",
           "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261110_1110_MP_TECH_pod_128 [tech_20261110_1110_MP_TECH_pod_128].md",
+          "key": "tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can communities and data centers find common ground?",
+          "url": "/wiki/sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
     "DataCenterCostShifting": {
@@ -92720,9 +92727,9 @@
       "url": "/wiki/concepts/energytransitiongeopolitics/"
     },
     "EnforceableCommunityBenefits": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
@@ -92737,9 +92744,16 @@
           "show": "Marketplace Tech",
           "title": "Can data centers ever be good neighbors?",
           "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261110_1110_MP_TECH_pod_128 [tech_20261110_1110_MP_TECH_pod_128].md",
+          "key": "tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can communities and data centers find common ground?",
+          "url": "/wiki/sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-11-10",
       "url": "/wiki/concepts/enforceablecommunitybenefits/"
     },
     "EnforcementAgencyDataSharing": {
@@ -169490,6 +169504,22 @@
       ],
       "updated": "2026-10-28",
       "url": "/wiki/entities/lanyingying/"
+    },
+    "LancasterPennsylvania": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261110_1110_MP_TECH_pod_128 [tech_20261110_1110_MP_TECH_pod_128].md",
+          "key": "tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can communities and data centers find common ground?",
+          "url": "/wiki/sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/lancasterpennsylvania/"
     },
     "LancastrianLegitimacy": {
       "episode_count": 6,

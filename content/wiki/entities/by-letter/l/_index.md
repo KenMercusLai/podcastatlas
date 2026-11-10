@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14004
+wiki_total_pages: 14005
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "LanaSwartz"
     title: "Lana Swartz"
     url: "/wiki/entities/lanaswartz/"
+  - key: "LancasterPennsylvania"
+    title: "Lancaster, Pennsylvania"
+    url: "/wiki/entities/lancasterpennsylvania/"
   - key: "LanceGentry"
     title: "Lance Gentry"
     url: "/wiki/entities/lancegentry/"
