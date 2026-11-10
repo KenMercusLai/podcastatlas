@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 13998
+wiki_total_pages: 14002
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2390,6 +2390,9 @@ wiki_pages:
   - key: "Atang"
     title: "阿汤 / A Tang"
     url: "/wiki/entities/atang/"
+  - key: "AloisiChengduRongchengCoach"
+    title: "阿洛伊西 / Aloisi (Chengdu Rongcheng coach)"
+    url: "/wiki/entities/aloisichengdurongchengcoach/"
   - key: "AkeLuDingJi"
     title: "阿珂（《鹿鼎记》） / A Ke"
     url: "/wiki/entities/akeludingji/"

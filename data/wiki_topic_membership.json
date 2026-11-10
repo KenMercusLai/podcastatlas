@@ -23265,6 +23265,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ChampionshipPressureManagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ChancellorCenteredGovernance": [
     {
       "key": "history",
@@ -39735,6 +39742,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FootballClubProfessionalGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FootballCommercializationFanConflict": [
@@ -76520,6 +76534,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "QinYunFootballCommentator": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "QinZhaoxiangwang": [

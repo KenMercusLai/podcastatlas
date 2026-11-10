@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11139
+wiki_total_pages: 11142
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "ChampagneClimateAdaptation"
     title: "Champagne Climate Adaptation / 香槟气候适应"
     url: "/wiki/concepts/champagneclimateadaptation/"
+  - key: "ChampionshipPressureManagement"
+    title: "Championship Pressure Management / 争冠压力管理"
+    url: "/wiki/concepts/championshippressuremanagement/"
   - key: "ChancellorCenteredGovernance"
     title: "Chancellor-Centered Governance / 宰相中心治理"
     url: "/wiki/concepts/chancellorcenteredgovernance/"

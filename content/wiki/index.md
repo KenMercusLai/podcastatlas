@@ -5016,6 +5016,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [英伟达启动对黄仁勋的调查，消费品牌集体跨界宠物生意](sources/yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn.md) — 声动早咖啡商业速报，连接高管治理、推荐循环监管、AI电力资产、宠物品类扩张、内容与硬件、家用机器人、幸运咖升级及Letterboxd潜在收购。
 
 - [EP153-我的50次随心飞年终总结报告](sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q.md) — 无时差研究所 episode on flight-pass consumer fit, airline capacity management, domestic travel, pandemic recovery, and a dated Yunnan coffee field-sourcing snapshot.
+- [Vol.231 成都丢冠：煮熟的鸭子怎么飞了？ft.秦云](sources/vol-231-chengdu-diuguan-zhushude-yazi-zenme-feile-ft-qinyun-gkwrijioygv7adhjrwt48vcx.md) — 不懂球与秦云从阵容功能缺口、战术固化、专业治理、争冠压力和青训衔接复盘成都蓉城丢冠，并保留内部说法与反事实判断的来源边界。
 
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -19104,6 +19105,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ACE Studio](entities/ACEStudio.md) — AI音乐公司，以专业创作工具、自研模型、内部加速器和授权编辑轨迹连接产品与模型迭代。
 - [郭靖（ACE Studio） / Guo Jing (ACE Studio)](entities/GuoJingACEStudio.md) — ACE Studio创始人兼CEO，主张减法式聚焦、系统化增长，并把HF0模式改造成公司内部攻坚机制。
 - [Letterboxd](entities/Letterboxd.md) — 以电影评分、影评、片单和社交参与形成兴趣社区，并在报道中成为《纽约时报》的潜在收购对象。
+- [秦云 / Qin Yun (football commentator)](entities/QinYunFootballCommentator.md) — 不懂球嘉宾，以“力气不够”连接成都蓉城的阵容、治理、心理与长期城市基础。
+- [阿洛伊西 / Aloisi (Chengdu Rongcheng coach)](entities/AloisiChengduRongchengCoach.md) — 成都蓉城丢冠赛季主教练，在来源中兼具战术延续、应变不足与组织约束下的问责角色。
+- [韦世豪 / Wei Shihao](entities/WeiShihao.md) — 成都蓉城队长和左路进攻爆点，其鲜明气质同时带来球队身份与停赛风险。
+- [菲利佩 / Felipe (Chengdu Rongcheng)](entities/FelipeChengduRongcheng.md) — 成都蓉城前场支点，其伤病暴露了阵容人数与功能替代之间的差距。
 
 ## Concepts
 - [向前看的退出决策 / Forward-Looking Exit Decision](concepts/ForwardLookingExitDecision.md) — 从今天起的成本、价值、动机和最坏结果判断是否退出，同时区分外部身份与可迁移能力。
@@ -30349,5 +30354,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Subscription-Adjacent Community Acquisition](concepts/SubscriptionAdjacentCommunityAcquisition.md) — 通过收购垂直兴趣社区为订阅组合增加参与、偏好数据和新入口，同时承担文化整合风险。
 
 - [Airline Unlimited-Flight Pass / 航空随心飞](concepts/AirlineUnlimitedFlightPass.md) — Prepaid flight-access model balancing consumer fit, redemption architecture, demand segmentation, perishable inventory, and fulfillment risk.
+- [Football Squad Resilience / 足球阵容韧性](concepts/FootballSquadResilience.md) — 球队在伤停、老化和战术被适应后仍维持关键功能、替代方案与更新能力的综合容量。
+- [Football Club Professional Governance / 足球俱乐部专业治理](concepts/FootballClubProfessionalGovernance.md) — 将足球专业意见转化为招募、沟通、绩效、继任与青训决策的制度能力。
+- [Championship Pressure Management / 争冠压力管理](concepts/ChampionshipPressureManagement.md) — 教练、球员、管理层和球迷在罕见争冠窗口中维持判断、执行与可恢复信心的集体能力。
 
 ## Syntheses

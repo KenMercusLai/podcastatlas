@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 13998
+wiki_total_pages: 14002
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "QinErshi"
     title: "秦二世 / 胡亥 / Qin Er Shi"
     url: "/wiki/entities/qinershi/"
+  - key: "QinYunFootballCommentator"
+    title: "秦云 / Qin Yun (football commentator)"
+    url: "/wiki/entities/qinyunfootballcommentator/"
   - key: "QinChugong"
     title: "秦出公 / Qin Chugong"
     url: "/wiki/entities/qinchugong/"

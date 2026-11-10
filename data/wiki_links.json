@@ -9451,6 +9451,10 @@
     "title": "Alo Yoga",
     "url": "/wiki/entities/aloyoga/"
   },
+  "AloisiChengduRongchengCoach": {
+    "title": "阿洛伊西 / Aloisi (Chengdu Rongcheng coach)",
+    "url": "/wiki/entities/aloisichengdurongchengcoach/"
+  },
   "AlokJha": {
     "title": "Alok Jha",
     "url": "/wiki/entities/alokjha/"
@@ -18682,6 +18686,10 @@
   "ChampagneClimateAdaptation": {
     "title": "Champagne Climate Adaptation / 香槟气候适应",
     "url": "/wiki/concepts/champagneclimateadaptation/"
+  },
+  "ChampionshipPressureManagement": {
+    "title": "Championship Pressure Management / 争冠压力管理",
+    "url": "/wiki/concepts/championshippressuremanagement/"
   },
   "ChanDrama": {
     "title": "《蝉》 / Chan",
@@ -34587,6 +34595,10 @@
     "title": "Feline Stress-Related Urinary Disease / 猫应激相关泌尿疾病",
     "url": "/wiki/concepts/felinestressrelatedurinarydisease/"
   },
+  "FelipeChengduRongcheng": {
+    "title": "菲利佩 / Felipe (Chengdu Rongcheng)",
+    "url": "/wiki/entities/felipechengdurongcheng/"
+  },
   "FelixCollin": {
     "title": "Felix Collin",
     "url": "/wiki/entities/felixcollin/"
@@ -36087,6 +36099,10 @@
     "title": "Football Club Legacy Transfer",
     "url": "/wiki/concepts/footballclublegacytransfer/"
   },
+  "FootballClubProfessionalGovernance": {
+    "title": "Football Club Professional Governance / 足球俱乐部专业治理",
+    "url": "/wiki/concepts/footballclubprofessionalgovernance/"
+  },
   "FootballCommercializationFanConflict": {
     "title": "Football Commercialization Fan Conflict",
     "url": "/wiki/concepts/footballcommercializationfanconflict/"
@@ -36122,6 +36138,10 @@
   "FootballPlayerSafetyTrustRisk": {
     "title": "Football Player Safety Trust Risk",
     "url": "/wiki/concepts/footballplayersafetytrustrisk/"
+  },
+  "FootballSquadResilience": {
+    "title": "Football Squad Resilience / 足球阵容韧性",
+    "url": "/wiki/concepts/footballsquadresilience/"
   },
   "FootballTransferReceivablesFinance": {
     "title": "Football Transfer Receivables Finance",
@@ -75979,6 +75999,10 @@
     "title": "秦嬴 / Qin Ying",
     "url": "/wiki/entities/qinying/"
   },
+  "QinYunFootballCommentator": {
+    "title": "秦云 / Qin Yun (football commentator)",
+    "url": "/wiki/entities/qinyunfootballcommentator/"
+  },
   "QinZhaoxiangwang": {
     "title": "秦昭襄王 / King Zhaoxiang of Qin",
     "url": "/wiki/entities/qinzhaoxiangwang/"
@@ -97231,6 +97255,10 @@
     "title": "魏尚 / Wei Shang (Western Han)",
     "url": "/wiki/entities/weishangwesternhan/"
   },
+  "WeiShihao": {
+    "title": "韦世豪 / Wei Shihao",
+    "url": "/wiki/entities/weishihao/"
+  },
   "WeiState": {
     "title": "魏国 / Wei State",
     "url": "/wiki/entities/weistate/"
@@ -113442,6 +113470,10 @@
   "vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu": {
     "title": "VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生",
     "url": "/wiki/sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu/"
+  },
+  "vol-231-chengdu-diuguan-zhushude-yazi-zenme-feile-ft-qinyun-gkwrijioygv7adhjrwt48vcx": {
+    "title": "Vol.231 成都丢冠：煮熟的鸭子怎么飞了？ft.秦云",
+    "url": "/wiki/sources/vol-231-chengdu-diuguan-zhushude-yazi-zenme-feile-ft-qinyun-gkwrijioygv7adhjrwt48vcx/"
   },
   "vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug": {
     "title": "VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕",

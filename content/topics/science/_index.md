@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1634
+topic_total_pages: 1635
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -373,6 +373,9 @@ topic_concepts:
   - key: "ChampagneClimateAdaptation"
     title: "Champagne Climate Adaptation / 香槟气候适应"
     url: "/wiki/concepts/champagneclimateadaptation/"
+  - key: "ChampionshipPressureManagement"
+    title: "Championship Pressure Management / 争冠压力管理"
+    url: "/wiki/concepts/championshippressuremanagement/"
   - key: "Chemosensation"
     title: "Chemosensation"
     url: "/wiki/concepts/chemosensation/"

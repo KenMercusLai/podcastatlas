@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 13998
+wiki_total_pages: 14002
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1379,6 +1379,9 @@ wiki_pages:
   - key: "FanQiLuWanEnvoy"
     title: "范齐 / Fan Qi (Lu Wan envoy)"
     url: "/wiki/entities/fanqiluwanenvoy/"
+  - key: "FelipeChengduRongcheng"
+    title: "菲利佩 / Felipe (Chengdu Rongcheng)"
+    url: "/wiki/entities/felipechengdurongcheng/"
   - key: "FeiBi"
     title: "菲比"
     url: "/wiki/entities/feibi/"

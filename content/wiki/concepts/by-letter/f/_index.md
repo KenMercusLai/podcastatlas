@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11139
+wiki_total_pages: 11142
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "FootballClubLegacyTransfer"
     title: "Football Club Legacy Transfer"
     url: "/wiki/concepts/footballclublegacytransfer/"
+  - key: "FootballClubProfessionalGovernance"
+    title: "Football Club Professional Governance / 足球俱乐部专业治理"
+    url: "/wiki/concepts/footballclubprofessionalgovernance/"
   - key: "FootballCommercializationFanConflict"
     title: "Football Commercialization Fan Conflict"
     url: "/wiki/concepts/footballcommercializationfanconflict/"
@@ -995,6 +998,9 @@ wiki_pages:
   - key: "FootballPlayerSafetyTrustRisk"
     title: "Football Player Safety Trust Risk"
     url: "/wiki/concepts/footballplayersafetytrustrisk/"
+  - key: "FootballSquadResilience"
+    title: "Football Squad Resilience / 足球阵容韧性"
+    url: "/wiki/concepts/footballsquadresilience/"
   - key: "FootballTransferReceivablesFinance"
     title: "Football Transfer Receivables Finance"
     url: "/wiki/concepts/footballtransferreceivablesfinance/"
