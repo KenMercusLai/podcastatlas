@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3794
+topic_total_pages: 3795
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10983,6 +10983,9 @@ topic_sources:
   - key: "tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128"
     title: "When ChatGPT writes your obituary"
     url: "/wiki/sources/tech-20261026-1026-mp-tech-pod-128-tech-20261026-1026-mp-tech-pod-128/"
+  - key: "when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986"
+    title: "When chips are down: Nvidia CEO’s risky relationship"
+    url: "/wiki/sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986/"
   - key: "default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881"
     title: "Who Is Responsible When AI Agents Make Decisions | Matt Mills x Shekhar Natarajan"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881-default-mp3-ywr3ahjkcgo-a8cec45811ced5bc9e8f89d02df77990-24477881/"

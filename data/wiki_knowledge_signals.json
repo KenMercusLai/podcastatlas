@@ -21193,6 +21193,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/apprecommendationmedia/"
     },
+    "AppalachianCulinaryResourcefulness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "84731c33d26d5f49946107a5e4379986 [84731c33d26d5f49946107a5e4379986.mp3？aid=6af2f4ae43e2f445c2499225&chid=d556eb54-6160-4.281].md",
+          "key": "when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986",
+          "show": "Economist Podcasts",
+          "title": "When chips are down: Nvidia CEO’s risky relationship",
+          "url": "/wiki/sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/appalachianculinaryresourcefulness/"
+    },
     "ApparelOEMVerticalIntegration": {
       "episode_count": 1,
       "show_count": 1,
@@ -84469,6 +84485,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/eatingdisordermultisystemmodel/"
     },
+    "EbolaContainmentUnderConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "84731c33d26d5f49946107a5e4379986 [84731c33d26d5f49946107a5e4379986.mp3？aid=6af2f4ae43e2f445c2499225&chid=d556eb54-6160-4.281].md",
+          "key": "when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986",
+          "show": "Economist Podcasts",
+          "title": "When chips are down: Nvidia CEO’s risky relationship",
+          "url": "/wiki/sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/ebolacontainmentunderconflict/"
+    },
     "EccentricSprintCapacity": {
       "episode_count": 1,
       "show_count": 1,
@@ -97027,9 +97059,9 @@
       "url": "/wiki/concepts/executionstatusandbodyintegrity/"
     },
     "ExecutiveConductGovernanceRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOx3zoAFMB9AT4mvyn [GKwRIJIOx3zoAFMB9AT4mvyn].md",
@@ -97037,6 +97069,13 @@
           "show": "声动早咖啡",
           "title": "英伟达启动对黄仁勋的调查，消费品牌集体跨界宠物生意",
           "url": "/wiki/sources/yingweida-qidong-dui-huangrenxun-de-diaocha-xiaofei-pinpai-jiti-kuajie-chongwu-shengyi-gkwrijiox3zoafmb9at4mvyn/"
+        },
+        {
+          "episode_file": "84731c33d26d5f49946107a5e4379986 [84731c33d26d5f49946107a5e4379986.mp3？aid=6af2f4ae43e2f445c2499225&chid=d556eb54-6160-4.281].md",
+          "key": "when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986",
+          "show": "Economist Podcasts",
+          "title": "When chips are down: Nvidia CEO’s risky relationship",
+          "url": "/wiki/sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986/"
         }
       ],
       "updated": "2026-11-10",

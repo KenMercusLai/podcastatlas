@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11147
+wiki_total_pages: 11149
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2555,6 +2555,9 @@ wiki_pages:
   - key: "AppStoreRatingsAndReviews"
     title: "App Store Ratings And Reviews"
     url: "/wiki/concepts/appstoreratingsandreviews/"
+  - key: "AppalachianCulinaryResourcefulness"
+    title: "Appalachian Culinary Resourcefulness"
+    url: "/wiki/concepts/appalachianculinaryresourcefulness/"
   - key: "ApparelOEMVerticalIntegration"
     title: "Apparel OEM Vertical Integration / 服装代工纵向一体化"
     url: "/wiki/concepts/appareloemverticalintegration/"

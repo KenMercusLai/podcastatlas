@@ -5018,6 +5018,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP153-我的50次随心飞年终总结报告](sources/ep153-wode-50ci-suixinfei-nianzhong-zongjie-baogao-ckwrijedydnkabaaaab34u-q.md) — 无时差研究所 episode on flight-pass consumer fit, airline capacity management, domestic travel, pandemic recovery, and a dated Yunnan coffee field-sourcing snapshot.
 - [Vol.231 成都丢冠：煮熟的鸭子怎么飞了？ft.秦云](sources/vol-231-chengdu-diuguan-zhushude-yazi-zenme-feile-ft-qinyun-gkwrijioygv7adhjrwt48vcx.md) — 不懂球与秦云从阵容功能缺口、战术固化、专业治理、争冠压力和青训衔接复盘成都蓉城丢冠，并保留内部说法与反事实判断的来源边界。
 - [515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达](sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm.md) — 忽左忽右对应翔的访谈以瓦伊达回顾展连接波兰电影学派、冷战传播、创作组制度与历史影像的政治建构。
+- [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -30365,5 +30366,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [冷战电影经典形成 / Cold War Film Canon Formation](concepts/ColdWarFilmCanonFormation.md) — 电影节、集团交换与获取条件共同决定哪些作品进入世界电影史的选择过程。
 - [社会主义电影创作组制度 / Socialist Film Creative-Group System](concepts/SocialistFilmCreativeGroupSystem.md) — 国家制片体系内以稳定创作团队形成协作、传承与有限自主空间的生产安排。
 - [历史影像叙事建构 / Historical Image Narrative Construction](concepts/HistoricalImageNarrativeConstruction.md) — 通过选择、删略、剪辑和制度权威把记录材料组织成公共历史解释的过程。
+- [Ebola Containment Under Conflict](concepts/EbolaContainmentUnderConflict.md) — Epidemic-response problem in which violence, weak services, distrust, mobility, vaccine mismatch, and routine-care loss jointly constrain containment.
+- [Appalachian Culinary Resourcefulness](concepts/AppalachianCulinaryResourcefulness.md) — Regional food practice that turns available or devalued ingredients into skilled, low-waste cooking while negotiating humor, tourism, and stereotype.
 
 ## Syntheses

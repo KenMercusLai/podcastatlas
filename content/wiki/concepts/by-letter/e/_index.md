@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11147
+wiki_total_pages: 11149
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "EatingDisorderMultisystemModel"
     title: "Eating Disorder Multisystem Model"
     url: "/wiki/concepts/eatingdisordermultisystemmodel/"
+  - key: "EbolaContainmentUnderConflict"
+    title: "Ebola Containment Under Conflict"
+    url: "/wiki/concepts/ebolacontainmentunderconflict/"
   - key: "EBPFObservability"
     title: "eBPF Observability"
     url: "/wiki/concepts/ebpfobservability/"
