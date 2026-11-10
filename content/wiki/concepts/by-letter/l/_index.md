@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11123
+wiki_total_pages: 11126
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "LayeredJianghuSocialFields"
     title: "Layered Jianghu Social Fields"
     url: "/wiki/concepts/layeredjianghusocialfields/"
+  - key: "LayeredNarrativeFunctionalIntegration"
+    title: "Layered Narrative Functional Integration / 多层叙事功能整合"
+    url: "/wiki/concepts/layerednarrativefunctionalintegration/"
   - key: "LayeredRespiratoryInfectionPrevention"
     title: "Layered Respiratory Infection Prevention"
     url: "/wiki/concepts/layeredrespiratoryinfectionprevention/"

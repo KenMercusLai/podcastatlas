@@ -67049,9 +67049,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -67122,9 +67122,16 @@
           "show": "文化有限",
           "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
           "url": "/wiki/sources/vol-357-yongjie-wuqingyou-shiyanban-de-tongxuemen-nimen-guode-zenmeyang-gkwridooq-nha1p5xwtrgq6o/"
+        },
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
         }
       ],
-      "updated": "2026-10-20",
+      "updated": "2026-11-10",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -153028,6 +153035,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/entities/ireneofathens/"
     },
+    "IrisChase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/irischase/"
+    },
     "IrishCitizenArmy": {
       "episode_count": 1,
       "show_count": 1,
@@ -169981,6 +170004,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
     },
+    "LauraChase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/laurachase/"
+    },
     "LaurenColensoSemple": {
       "episode_count": 1,
       "show_count": 1,
@@ -170251,6 +170290,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/layeredlocalelitedemobilization/"
+    },
+    "LayeredNarrativeFunctionalIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/layerednarrativefunctionalintegration/"
     },
     "LayeredRespiratoryInfectionPrevention": {
       "episode_count": 6,
@@ -192735,6 +192790,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/marduk/"
     },
+    "MargaretAtwood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/margaretatwood/"
+    },
     "MargaretMitchell": {
       "episode_count": 2,
       "show_count": 2,
@@ -209744,6 +209815,22 @@
       ],
       "updated": "2026-10-30",
       "url": "/wiki/entities/narendramodi/"
+    },
+    "NarrativeAuthorityAndIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/narrativeauthorityandidentity/"
     },
     "NarrativeBridgeProtagonist": {
       "episode_count": 1,
@@ -242354,6 +242441,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/publicprivatemarketdiscipline/"
+    },
+    "PublicPrivateRecordGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/concepts/publicprivaterecordgap/"
     },
     "PublicProcurementAsMarketCatalyst": {
       "episode_count": 1,
@@ -290586,6 +290689,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/entities/thebilliondollarspy/"
+    },
+    "TheBlindAssassinNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOx2N2A5pykQT4ioWI [GKwRIDoOx2N2A5pykQT4ioWI].md",
+          "key": "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi",
+          "show": "文化有限",
+          "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+          "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
+        }
+      ],
+      "updated": "2026-11-10",
+      "url": "/wiki/entities/theblindassassinnovel/"
     },
     "TheBlitz": {
       "episode_count": 1,

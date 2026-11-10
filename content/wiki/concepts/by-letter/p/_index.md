@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11123
+wiki_total_pages: 11126
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2816,6 +2816,9 @@ wiki_pages:
   - key: "PublicityAsNews"
     title: "Publicity as News"
     url: "/wiki/concepts/publicityasnews/"
+  - key: "PublicPrivateRecordGap"
+    title: "Public–Private Record Gap / 公共记录与私人经验落差"
+    url: "/wiki/concepts/publicprivaterecordgap/"
   - key: "PublisherRelationshipMoat"
     title: "Publisher Relationship Moat"
     url: "/wiki/concepts/publisherrelationshipmoat/"

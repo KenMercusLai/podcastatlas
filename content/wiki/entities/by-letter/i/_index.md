@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 13991
+wiki_total_pages: 13995
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "IreneOfAthens"
     title: "Irene of Athens"
     url: "/wiki/entities/ireneofathens/"
+  - key: "IrisChase"
+    title: "Iris Chase / 艾丽丝"
+    url: "/wiki/entities/irischase/"
   - key: "IrishCitizenArmy"
     title: "Irish Citizen Army"
     url: "/wiki/entities/irishcitizenarmy/"

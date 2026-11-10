@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 13991
+wiki_total_pages: 13995
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "LatinAmerica"
     title: "Latin America"
     url: "/wiki/entities/latinamerica/"
+  - key: "LauraChase"
+    title: "Laura Chase / 劳拉"
+    url: "/wiki/entities/laurachase/"
   - key: "LauraIves"
     title: "Laura Ives"
     url: "/wiki/entities/lauraives/"

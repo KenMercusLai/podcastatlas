@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 13991
+wiki_total_pages: 13995
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "TheBlackParade"
     title: "The Black Parade"
     url: "/wiki/entities/theblackparade/"
+  - key: "TheBlindAssassinNovel"
+    title: "The Blind Assassin / 《盲刺客》"
+    url: "/wiki/entities/theblindassassinnovel/"
   - key: "TheCanterburyTales"
     title: "The Canterbury Tales"
     url: "/wiki/entities/thecanterburytales/"

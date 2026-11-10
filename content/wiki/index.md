@@ -5009,6 +5009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Saying "so long" to the tech industry](sources/tech-20261109-1109-mp-tech-pod-128-tech-20261109-1109-mp-tech-pod-128.md) — Marketplace Tech follows Drew and Lindsay Haven from technology careers into caregiving, health recovery, community life, and a lower-consumption exchange of spending for control over time.
 - [Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke](sources/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke-scim8035808992.md) — Huberman Lab interview on addiction as reward adaptation and controllable state change, radical surrender, codependency, and clinically bounded recovery.
 - [376-我们如何从网民变成了用户？卡夫卡《审判》](sources/lpunzmmsbu-bkekxyllalgjz-sdd.md) — 独树不成林借卡夫卡《审判》讨论从共同体成员到平台用户的转变、不透明程序、规则制定与执行的差异，以及算法化语言自我规训。
+- [Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊](sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi.md) — 文化有限从阿特伍《盲刺客》的晚年回忆、报刊、书中书与科幻寓言，讨论多层叙事、公共与私人记录、女性创伤及谁有权定义一个人。
 
 ## Entities
 - [曹操西征汉中（215年） / Cao Cao's Hanzhong Campaign (215 CE)](entities/HanzhongCampaign215.md) — 从隐蔽准备和侧翼清理，经阳平关偶然突破，到保存府库与授官纳降的汉中战役。
@@ -19089,6 +19090,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas I of Russia](entities/NicholasI.md) — Russian emperor whose Orthodox protector claims, Ottoman pressure, and misreading of British politics helped precipitate the Crimean War.
 - [Franz Kafka / 弗兰茨·卡夫卡](entities/FranzKafka.md) — 以《审判》的不透明程序、分散执行和内化服从连接文学与平台治理的作家。
 - [Kafka's The Trial / 卡夫卡《审判》](entities/TheTrialKafka.md) — 通过无明确罪名、责任中心和可理解程序呈现权力如何改造语言、行动与尊严的小说。
+- [Margaret Atwood / 玛格丽特·阿特伍](entities/MargaretAtwood.md) — 通过《盲刺客》的多层叙事、女性创伤、记忆与身份问题进入当前 wiki 的加拿大作家。
+- [The Blind Assassin / 《盲刺客》](entities/TheBlindAssassinNovel.md) — 以晚年回忆、报刊、秘密恋情与星球寓言并置公共形象、私人创伤和叙事权的小说。
+- [Iris Chase / 艾丽丝](entities/IrisChase.md) — 在生命晚期重述家族秘密、暴露隐藏欲望与作者身份，并承担迟到责任的叙述者。
+- [Laura Chase / 劳拉](entities/LauraChase.md) — 其死亡、被隐瞒的侵害与被错置的作者身份构成《盲刺客》核心谜团的妹妹。
 
 ## Concepts
 - [实地复核式情报判断 / Field-Verified Intelligence](concepts/FieldVerifiedIntelligence.md) — 把降者陈述与地形、防御、伤亡和补给相互校验后再修正行动判断。
@@ -30316,5 +30321,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Codependency Control Loop](concepts/CodependencyControlLoop.md) — Relational pattern in which managing another person's state becomes a way to regulate one's own emotions.
 - [Netizen-to-Platform-User Transition / 从网民到平台用户](concepts/NetizenToPlatformUserTransition.md) — 从可参与共同体规则制定的成员角色，转向在平台预设协议、功能、审核与分发中操作的用户角色。
 - [Opaque Platform Procedure / 不透明平台程序](concepts/OpaquePlatformProcedure.md) — 结果持续塑造可见性与行为，却难以识别完整理由、责任主体和规则修改路径的平台治理状态。
+- [Layered Narrative Functional Integration / 多层叙事功能整合](concepts/LayeredNarrativeFunctionalIntegration.md) — 让嵌套故事、文献与文类分别承担节奏、悬念、遮蔽、人物与主题功能的结构方法。
+- [Public–Private Record Gap / 公共记录与私人经验落差](concepts/PublicPrivateRecordGap.md) — 机构可见的人物记录与家庭、亲密或被迫沉默经验之间的差距。
+- [Narrative Authority and Identity / 叙事权与身份建构](concepts/NarrativeAuthorityAndIdentity.md) — 围绕谁能生产、流通和保存一个人的可知叙事而展开的身份权力竞争。
 
 ## Syntheses

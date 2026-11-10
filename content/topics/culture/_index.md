@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3634
+topic_total_pages: 3636
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2008,6 +2008,9 @@ topic_concepts:
   - key: "LaughterAgainstAuthority"
     title: "Laughter Against Authority"
     url: "/wiki/concepts/laughteragainstauthority/"
+  - key: "LayeredNarrativeFunctionalIntegration"
+    title: "Layered Narrative Functional Integration / 多层叙事功能整合"
+    url: "/wiki/concepts/layerednarrativefunctionalintegration/"
   - key: "LeadershipReplacementRegressionToMean"
     title: "Leadership Replacement and Regression to the Mean"
     url: "/wiki/concepts/leadershipreplacementregressiontomean/"
@@ -10650,6 +10653,9 @@ topic_sources:
   - key: "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi"
     title: "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱"
     url: "/wiki/sources/vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi/"
+  - key: "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi"
+    title: "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊"
+    url: "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
   - key: "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i"
     title: "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切"
     url: "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"

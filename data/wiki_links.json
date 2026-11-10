@@ -48431,6 +48431,10 @@
     "title": "Irene of Athens",
     "url": "/wiki/entities/ireneofathens/"
   },
+  "IrisChase": {
+    "title": "Iris Chase / 艾丽丝",
+    "url": "/wiki/entities/irischase/"
+  },
   "IrishCitizenArmy": {
     "title": "Irish Citizen Army",
     "url": "/wiki/entities/irishcitizenarmy/"
@@ -54159,6 +54163,10 @@
     "title": "Laughter-Triggered Health Risk / 大笑诱发健康风险",
     "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
   },
+  "LauraChase": {
+    "title": "Laura Chase / 劳拉",
+    "url": "/wiki/entities/laurachase/"
+  },
   "LauraIves": {
     "title": "Laura Ives",
     "url": "/wiki/entities/lauraives/"
@@ -54282,6 +54290,10 @@
   "LayeredLocalEliteDemobilization": {
     "title": "分层式地方武力拆解 / Layered Local Elite Demobilization",
     "url": "/wiki/concepts/layeredlocalelitedemobilization/"
+  },
+  "LayeredNarrativeFunctionalIntegration": {
+    "title": "Layered Narrative Functional Integration / 多层叙事功能整合",
+    "url": "/wiki/concepts/layerednarrativefunctionalintegration/"
   },
   "LayeredRespiratoryInfectionPrevention": {
     "title": "Layered Respiratory Infection Prevention",
@@ -60247,6 +60259,10 @@
     "title": "Marduk",
     "url": "/wiki/entities/marduk/"
   },
+  "MargaretAtwood": {
+    "title": "Margaret Atwood / 玛格丽特·阿特伍",
+    "url": "/wiki/entities/margaretatwood/"
+  },
   "MargaretMead": {
     "title": "Margaret Mead / 米德",
     "url": "/wiki/entities/margaretmead/"
@@ -65410,6 +65426,10 @@
   "NarkinaFive": {
     "title": "Narkina Five",
     "url": "/wiki/entities/narkinafive/"
+  },
+  "NarrativeAuthorityAndIdentity": {
+    "title": "Narrative Authority and Identity / 叙事权与身份建构",
+    "url": "/wiki/concepts/narrativeauthorityandidentity/"
   },
   "NarrativeBridgeProtagonist": {
     "title": "Narrative Bridge Protagonist / 叙事桥梁型主角",
@@ -75154,6 +75174,10 @@
   "PublicPrivateMarketDiscipline": {
     "title": "Public-Private Market Discipline",
     "url": "/wiki/concepts/publicprivatemarketdiscipline/"
+  },
+  "PublicPrivateRecordGap": {
+    "title": "Public–Private Record Gap / 公共记录与私人经验落差",
+    "url": "/wiki/concepts/publicprivaterecordgap/"
   },
   "PublicProcurementAsMarketCatalyst": {
     "title": "Public Procurement As Market Catalyst",
@@ -90422,6 +90446,10 @@
   "TheBlackParade": {
     "title": "The Black Parade",
     "url": "/wiki/entities/theblackparade/"
+  },
+  "TheBlindAssassinNovel": {
+    "title": "The Blind Assassin / 《盲刺客》",
+    "url": "/wiki/entities/theblindassassinnovel/"
   },
   "TheBlitz": {
     "title": "The Blitz",
@@ -113514,6 +113542,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi": {
+    "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
+    "url": "/wiki/sources/vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi/"
   },
   "vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp": {
     "title": "VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？",

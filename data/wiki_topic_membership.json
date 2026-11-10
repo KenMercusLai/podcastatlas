@@ -56426,6 +56426,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "LayeredNarrativeFunctionalIntegration": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LayeredRobotArchitecture": [
     {
       "key": "technology",
@@ -114066,6 +114073,13 @@
     }
   ],
   "vol-359-lingdingshi-fan-kanqilai-weifengwuliang-de-douyou-nanyi-qichi-de-cuiruo-gkwriw4ouvlsarr0natyncmi": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "vol-360-mangcike-ai-de-xilihutu-dan-zan-tong-de-mingmingbaibai-a-gkwridoox2n2a5pykqt4iowi": [
     {
       "key": "culture",
       "label": "Culture",
