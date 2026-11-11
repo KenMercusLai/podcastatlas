@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3643
+topic_total_pages: 3646
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -400,6 +400,9 @@ topic_concepts:
   - key: "ArtFamilyTradeoff"
     title: "Art–Family Tradeoff / 艺术创作与家庭代价"
     url: "/wiki/concepts/artfamilytradeoff/"
+  - key: "AspiringOutsiderVillain"
+    title: "Aspiring Outsider Villain"
+    url: "/wiki/concepts/aspiringoutsidervillain/"
   - key: "AssemblageArtMemoryWork"
     title: "Assemblage Art Memory Work"
     url: "/wiki/concepts/assemblageartmemorywork/"
@@ -1231,6 +1234,9 @@ topic_concepts:
   - key: "EducationSignalInflation"
     title: "Education Signal Inflation / 学历信号膨胀"
     url: "/wiki/concepts/educationsignalinflation/"
+  - key: "EducationSpendingMobilityTrap"
+    title: "Education Spending Mobility Trap"
+    url: "/wiki/concepts/educationspendingmobilitytrap/"
   - key: "EducationTechnologyFairness"
     title: "Education Technology Fairness"
     url: "/wiki/concepts/educationtechnologyfairness/"
@@ -10464,6 +10470,9 @@ topic_sources:
   - key: "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d"
     title: "Latin lessons: the Donroe-doctrine boost"
     url: "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+  - key: "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4"
+    title: "Let’s get this party restarted: Republicans reel from the midterms"
+    url: "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
   - key: "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c"
     title: "Marine warfare: Le Pen runs for president"
     url: "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"

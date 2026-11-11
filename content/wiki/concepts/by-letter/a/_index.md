@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11166
+wiki_total_pages: 11168
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2777,6 +2777,9 @@ wiki_pages:
   - key: "AspirationalEmotionalPremium"
     title: "Aspirational Emotional Premium / 向往感溢价"
     url: "/wiki/concepts/aspirationalemotionalpremium/"
+  - key: "AspiringOutsiderVillain"
+    title: "Aspiring Outsider Villain"
+    url: "/wiki/concepts/aspiringoutsidervillain/"
   - key: "AssassinationAccessCredential"
     title: "Assassination Access Credential / 刺杀接近凭证"
     url: "/wiki/concepts/assassinationaccesscredential/"

@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-11-11",
       "latest_episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
-      "source_note_count": 116,
-      "topic_matched_source_note_count": 101,
+      "source_note_count": 117,
+      "topic_matched_source_note_count": 102,
       "topics": [
         {
           "key": "politics",
@@ -336,7 +336,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 32
+          "source_note_count": 33
         },
         {
           "key": "technology",
@@ -411,7 +411,7 @@
       ],
       "start_here_episode_files": [
         "774e9cc6eedd846245761836d6c75ab0 [774e9cc6eedd846245761836d6c75ab0.mp3？aid=6af19d18e7c6d309d1116743&chid=d556eb54-6160-4.281].md",
-        "acc75a112708133c0e4467a5d2bf4445 [acc75a112708133c0e4467a5d2bf4445.mp3？aid=6ae1b4ac092a0dff193c7811&chid=d556eb54-6160-4.280].md",
+        "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
         "84731c33d26d5f49946107a5e4379986 [84731c33d26d5f49946107a5e4379986.mp3？aid=6af2f4ae43e2f445c2499225&chid=d556eb54-6160-4.281].md",
         "80e710d10d18ebe74145f9a83b5ea1e8 [80e710d10d18ebe74145f9a83b5ea1e8.mp3？aid=6ae852a798a5c8b2e347e723&chid=d556eb54-6160-4.280].md"
       ]

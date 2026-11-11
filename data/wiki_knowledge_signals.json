@@ -23419,6 +23419,22 @@
       "updated": "2026-11-10",
       "url": "/wiki/concepts/aspirationalemotionalpremium/"
     },
+    "AspiringOutsiderVillain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
+          "key": "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Let’s get this party restarted: Republicans reel from the midterms",
+          "url": "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/aspiringoutsidervillain/"
+    },
     "AssassinationAccessCredential": {
       "episode_count": 7,
       "show_count": 1,
@@ -74157,9 +74173,9 @@
       "url": "/wiki/concepts/democraticfactionmap/"
     },
     "DemocraticParty": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -74195,9 +74211,16 @@
           "show": "Economist Podcasts",
           "title": "Not in Kansas any more: Republicans get a thrashing",
           "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        },
+        {
+          "episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
+          "key": "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Let’s get this party restarted: Republicans reel from the midterms",
+          "url": "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/democraticparty/"
     },
     "DemocraticRepublicOfCongo": {
@@ -85275,9 +85298,9 @@
       "url": "/wiki/entities/eduardhabsburg/"
     },
     "EducationCompetitionUncertaintyLoop": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
@@ -85292,9 +85315,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E05 鸡娃悲剧！名校学生被杀案",
           "url": "/wiki/sources/2026-qiuji-pian-e05-jiwa-beiju-mingxiao-xuesheng-beisha-an-fln__5duqxhmb_n_ptcnyhnllfpm/"
+        },
+        {
+          "episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
+          "key": "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Let’s get this party restarted: Republicans reel from the midterms",
+          "url": "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/educationcompetitionuncertaintyloop/"
     },
     "EducationMarginBurden": {
@@ -85402,6 +85432,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/educationsignalinflation/"
+    },
+    "EducationSpendingMobilityTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
+          "key": "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Let’s get this party restarted: Republicans reel from the midterms",
+          "url": "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/educationspendingmobilitytrap/"
     },
     "EducationalSelectionPromiseGap": {
       "episode_count": 1,
@@ -155091,9 +155137,9 @@
       "url": "/wiki/entities/jdtippit/"
     },
     "JDVance": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
@@ -155136,9 +155182,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        },
+        {
+          "episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
+          "key": "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Let’s get this party restarted: Republicans reel from the midterms",
+          "url": "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/jdvance/"
     },
     "JDWhiteBar": {
@@ -252231,9 +252284,9 @@
       "url": "/wiki/concepts/republicanmemoryagainstdictatorship/"
     },
     "RepublicanParty": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "A hawk who flew on political winds： Lindsey Graham [6a54b56575790d5f01515d55].md",
@@ -252262,9 +252315,16 @@
           "show": "Economist Podcasts",
           "title": "Not in Kansas any more: Republicans get a thrashing",
           "url": "/wiki/sources/26de9aa88ef12e7e6192582e15ce704b-26de9aa88ef12e7e6192582e15ce704bmp3aid6aeb148e2d18c73dd5116294chidd556eb54-6160-4/"
+        },
+        {
+          "episode_file": "b72d0a4da10686855b9a521b8fe26b83 [b72d0a4da10686855b9a521b8fe26b83.mp3？aid=6af4462e36d94b58ef827a8a&chid=d556eb54-6160-4.281].md",
+          "key": "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Let’s get this party restarted: Republicans reel from the midterms",
+          "url": "/wiki/sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-11-04",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/republicanparty/"
     },
     "RepublicanRestraintLeadership": {

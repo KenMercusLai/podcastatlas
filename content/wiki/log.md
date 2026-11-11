@@ -39186,3 +39186,11 @@ Added source `ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbp
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | Let’s get this party restarted: Republicans reel from the midterms
+
+Added source `b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4`; created [[EducationSpendingMobilityTrap]] and [[AspiringOutsiderVillain]]; and resynthesized [[RepublicanParty]], [[DemocraticParty]], [[JDVance]], and [[EducationCompetitionUncertaintyLoop]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: Trump's primary authority can outlast declining general-election reach; Democrats' victory leaves progressive, centrist, investigative, and cost-of-living interpretations unresolved; and defensive education spending can rise across classes without restoring mobility, while selected television dramas recast working-class climbers as threats. No settled contradiction was adopted. Election causes, polling, spending and participation figures, admissions and earnings gaps, mobility trends, and the three-drama cultural pattern remain episode-reported or source-scoped. Broad [[DonaldTrump]], [[EconomistPodcasts]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,912 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

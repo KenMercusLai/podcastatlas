@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Let’s get this party restarted: Republicans reel from the midterms](sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4.md) — Economist Podcasts on post-midterm party succession, defensive family spending on education, stalled mobility, and television’s hostile working-class climbers.
 - [EP88-年轻一代丧失的X生活](sources/ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223.md) — 无时差研究所从住房、工作、约会门槛、数字替代、性教育与低欲望讨论年轻人性生活下降，并区分频率、欲望、满足、关系进入和自主选择。
 - [《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？](sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt.md) — 芮淇讲透资治通鉴区分荆南四郡与南郡或江陵转移，并以曹操取汉中后的伐蜀建议讨论联盟修复、战略窗口与收缩。
 - [Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing](sources/allin-intv-ricksmith-ch-allin-intv-ricksmith-ch.md) — All-In interview on Axon's Taser origins, institutional product validation, body-camera and cloud transition, surveillance governance, drones, and human-authorized robotic force.
@@ -19147,6 +19148,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [温小倩 / Wen Xiaoqian](entities/WenXiaoqian.md) — 运动心理学博士与咨询师，以长期、个体化、跨专业协同的方式支持高水平运动员应对压力、表现与心理健康。
 
 ## Concepts
+- [Education Spending Mobility Trap](concepts/EducationSpendingMobilityTrap.md) — Defensive tutoring, sport, enrichment, and credential spending that raises household cost without equalizing mobility.
+- [Aspiring Outsider Villain](concepts/AspiringOutsiderVillain.md) — Cultural pattern portraying working-class entrants to elite institutions as deceptive, dangerous, or undeserving of advancement.
 - [Institutional Validation Product-Market Fit](concepts/InstitutionalValidationProductMarketFit.md) — Adoption pattern in which credible professional use and direct demonstration unlock trust for an unfamiliar product.
 - [Body-Camera Evidence Infrastructure](concepts/BodyCameraEvidenceInfrastructure.md) — Capture, storage, access, retrieval, retention, disclosure, and workflow needed to turn police video into governable evidence.
 - [Governed Public-Safety Technology](concepts/GovernedPublicSafetyTechnology.md) — Lifecycle approach constraining safety technology through purpose, authorization, audit, transparency, penalties, and independent review.

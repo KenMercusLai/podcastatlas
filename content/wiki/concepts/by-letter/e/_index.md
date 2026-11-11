@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 11166
+wiki_total_pages: 11168
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "EducationSignalInflation"
     title: "Education Signal Inflation / 学历信号膨胀"
     url: "/wiki/concepts/educationsignalinflation/"
+  - key: "EducationSpendingMobilityTrap"
+    title: "Education Spending Mobility Trap"
+    url: "/wiki/concepts/educationspendingmobilitytrap/"
   - key: "EducationTechnologyFairness"
     title: "Education Technology Fairness"
     url: "/wiki/concepts/educationtechnologyfairness/"
