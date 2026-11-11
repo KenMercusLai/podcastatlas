@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
   - zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm
-last_updated: 2026-09-13
+  - zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo
+last_updated: 2026-11-12
 ---
 
 ## Definition
@@ -24,6 +25,8 @@ The deliberate-publication variant appears when [[LiYiGengshiGeneral|李轶]] wr
 
 The disgrace-and-reply variant appears through [[YangYunWesternHan|杨恽]] in [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]]. [[SunHuizongWesternHan|孙会宗]] writes a warning that tries to move Yang Yun into a safer posture after lost office, but Yang Yun's mocking reply becomes durable evidence once searched out and shown to [[EmperorXuanOfHan|汉宣帝]]. Here the dangerous text is not an accidental lesson or enemy-camp negotiation; it is an emotionally charged answer that converts resentment into a record.
 
+Hanji 1156 adds a hostile-reinterpretation variant through [[CuiYanLateHan|崔琰]]. Cui Yan's letter is described as support for Yang Xun after colleagues mock him, but a phrase about changing circumstances is detached from that consoling purpose and treated as dissatisfaction with [[CaoCao|曹操]]. The context collapse matters because Cui Yan already carries moral reputation and succession alignment; ambiguous language becomes usable evidence when an interested accuser and a suspicious ruler can supply the hostile frame.
+
 The concept is narrower than general loose talk or ordinary diplomacy. Its key mechanism is context collapse: a text written for one audience changes political meaning when copied, exposed, searched out, or reframed for another audience with power to punish, accuse, or suspect.
 
 ## Key Claims
@@ -34,7 +37,7 @@ The concept is narrower than general loose talk or ordinary diplomacy. Its key m
 - Negotiating correspondence is vulnerable because ambiguity that helps open a channel can become proof of betrayal to the writer's old camp.
 - A grievance reply is vulnerable because emotional or ironic language can become formal proof of disloyalty once recovered by investigators.
 - Association evidence can spread damage from the named target to people connected with that target.
-- The writer can be harmed later because the weaponized letter creates resentment, suspicion, or an exposed record.
+- The writer can be harmed later through resentment, suspicion, or an exposed record, especially when ambiguous wording meets politically consequential reputation or factional alignment.
 
 ## Evidence
 
@@ -47,16 +50,17 @@ The concept is narrower than general loose talk or ordinary diplomacy. Its key m
 - Warning letter: [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Sun Huizong warns Yang Yun that banquets and public complaints after disgrace will invite disaster.
 - Mocking reply: [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Yun answers Sun with a sarcastic text that, in the host's reading, attacks ruler and ministers indirectly.
 - Investigative recovery: [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says the letter is found during the case review and handed to Xuan, intensifying Yang Yun's punishment.
+- Consoling purpose and hostile reinterpretation: [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] says Cui Yan's support for Yang Xun is recoded as political dissatisfaction through one ambiguous phrase.
+- Accuser qualification: [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] identifies Ding Yi only indirectly, preserving uncertainty over who performed the hostile reinterpretation.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that private letters should never be written or that every circulation is malicious. Hanji 725 leaves the exact route of Ma Yuan's letter leakage uncertain and partly inferred by the host. Hanji 676 is clearer about Liu Xiu's deliberate circulation, but the motive label "borrowed-knife killing" remains the episode's interpretation; the observable mechanism is that the letters' new audience changes their political effect. Hanji 457 is different again because Yang Yun's letter is not merely leaked; it is recovered inside a formal accusation process after his public conduct has already marked him as suspect.
+The concept does not imply that private letters should never be written or that every circulation is malicious. Hanji 725 leaves the leakage route uncertain. Hanji 676 is clearer about deliberate circulation, but the motive label “borrowed-knife killing” remains interpretive. Hanji 457 concerns investigative recovery after public conduct has already marked the writer as suspect. Hanji 1156 supplies the sharpest meaning-change case, yet its accuser attribution, exact wording, intended meaning, and Cao Cao's motive remain source-scoped.
 
 ## What Changed
 
-- Integrated an earlier Western Han case where a disgraced official's resentful reply becomes formal evidence before the ruler.
-- Preserved the deliberate-publication case where Li Yi's letters become a suspicion trigger inside Zhu Wei's Luoyang camp.
-- Reframed the concept from two circulation cases into three variants: hostile third-party reuse, ruler-directed exposure, and investigative recovery of a grievance reply.
+- Added hostile reinterpretation of an ambiguous consoling letter as a fourth context-collapse variant.
+- Connected audience change to pre-existing moral reputation and succession alignment without treating either as proof of guilt.
 
 ## Related Concepts
 
@@ -67,3 +71,5 @@ The concept does not imply that private letters should never be written or that 
 - [[CommunicationBoundarySetting|Communication Boundary Setting]] - broader practice of matching speech to audience, channel, and likely interpretation.
 - [[CourtFeedbackCollapse|朝廷反馈崩塌]] - institutional setting where accusation or exposed correspondence can narrow a ruler's or ally's view.
 - [[HistoricalReadingAsSurvivalWisdom|读史处世智慧]] - related because Yang Yun's case turns letter risk into a lesson about reading history as practical judgment.
+- [[CuiYanLateHan|崔琰]] - late-Han case where consoling language is reframed as political hostility.
+- [[DingYiLateHan|丁仪]] - likely but not conclusively identified interested accuser in the Cui Yan case.

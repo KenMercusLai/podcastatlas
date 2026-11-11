@@ -5,8 +5,9 @@ tags: [person, late-han, adviser, cao-cao, statecraft]
 sources:
   - zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj
   - zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq
+  - zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-20
+last_updated: 2026-11-12
 ---
 
 # 毛玠 / Mao Jie
@@ -19,7 +20,9 @@ last_updated: 2026-09-20
 
 Mao Jie's bounded profile joins regime design to personnel discipline. As a [[Chenliu|陈留]] man appointed 治中从事 after Cao Cao absorbs the Qingzhou Yellow Turban surrender, he advises “奉天子以令不臣” together with deep farming, stockpiling, and military supply. The proposal makes legitimacy useful only when backed by food and soldiers, while remaining strategic prehistory rather than evidence that Mao Jie alone executed the later [[TuntianSystem|屯田制]] or court-relocation system. This early design is grounded in [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]].
 
-The later personnel role applies a similar system logic to official behavior. Mao Jie and [[CuiYanLateHan|崔琰]] are said to reject flashy reputation, false display, and faction-building while rewarding substance, modesty, and harmony; the resulting elite frugality is interpreted as [[SelectionDrivenVirtueSignaling|选官驱动的德行表演]]. [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] also previews Mao Jie's later imprisonment, turning his profile into a warning that announced moral standards remain subordinate to concentrated power.
+The later personnel role applies a similar system logic to official behavior. Mao Jie and [[CuiYanLateHan|崔琰]] are said to reject flashy reputation, false display, and faction-building while rewarding substance, modesty, and harmony; the resulting elite frugality is interpreted as [[SelectionDrivenVirtueSignaling|选官驱动的德行表演]].
+
+Hanji 1156 develops the imprisonment preview. After Cui Yan's death, an accuser says Mao Jie used drought and the enslaved families of punished people to criticize Cao Cao. [[HeQiaLateHan|和洽]] argues that the statement must be proved or the accuser punished, and Cao Cao ultimately imprisons Mao Jie briefly and removes him from office rather than killing him. The case adds evidentiary resistance and discretionary clemency without establishing whether Mao Jie actually spoke the reported words.
 
 ## Key Characteristics
 
@@ -27,24 +30,24 @@ The later personnel role applies a similar system logic to official behavior. Ma
 - Connects title, food, soldiers, and talent attraction as mutually reinforcing capacities.
 - Later shares an official-selection role with Cui Yan.
 - Favors substantive, modest, socially harmonious candidates over flashy reputation and factional networking in the source's account.
-- Becomes part of a later caution about moral criteria operating under discretionary ruler power.
+- Faces an accusation after Cui Yan's death and is imprisoned and removed from office rather than executed.
 
 ## Evidence
 
 - Legitimacy-logistics design: [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] attributes “奉天子以令不臣” plus farming and stockpiling advice to Mao Jie.
 - Personnel selection: [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] presents Mao Jie and Cui Yan as joint selectors applying moral and factional filters.
 - Behavioral effect: [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] links their standard to visible elite frugality and walking to court.
-- Power boundary: [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] previews Mao Jie's imprisonment, but does not develop the full case.
+- Accusation and evidentiary objection: [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] reports the drought-related allegation and He Qia's insistence on proof.
+- Limited punishment: [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] says Mao Jie is imprisoned briefly and dismissed, then dies after returning home.
 
 ## Qualifications
 
-The bounded sources do not provide Mao Jie's full biography or the full institutional division of labor. Hanji 968 distinguishes his strategic proposal from [[XunYu|荀彧]]'s court advice, [[DongZhaoLateHan|董昭]] and [[ZhongYao|钟繇]]'s access work, and [[ZaoZhi|枣祗]] plus [[RenJun|任峻]]'s formal屯田 implementation. Hanji 1087's claims about selection effects, great-clan displacement, official sincerity, and Mao Jie's imprisonment remain compressed and source-scoped.
+The bounded sources do not provide Mao Jie's full biography or the full institutional division of labor. Hanji 968 distinguishes his strategic proposal from later court-access and屯田 implementation. Hanji 1087's selection effects, great-clan displacement, and official sincerity remain interpretive. Hanji 1156 does not establish that Mao Jie made the alleged statement, who the accuser was, or why Cao Cao stopped short of death.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1` without removing its original source.
-- Added the 208 CE joint selection role and its behavioral-incentive consequences.
-- Added the later-imprisonment preview as a qualification rather than a completed biography.
+- Developed the imprisonment preview into the accusation, He Qia's evidentiary objection, and removal from office.
+- Preserved uncertainty over whether Mao Jie made the reported statement.
 
 ## Relationships
 
@@ -54,3 +57,4 @@ The bounded sources do not provide Mao Jie's full biography or the full institut
 - [[TuntianSystem|屯田制]] - later institutional implementation related to Mao Jie's earlier logistics strategy.
 - [[LegitimacyWindowSeizure|合法性窗口抢占]] - political side of the early “奉天子” design.
 - [[AdviserStateArchitecture|谋士政权架构]] - wider division of design, access, persuasion, and implementation around Cao Cao.
+- [[HeQiaLateHan|和洽]] - official who demands proof before Mao Jie is punished on an accuser's statement.

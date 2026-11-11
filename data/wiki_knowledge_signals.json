@@ -35480,9 +35480,9 @@
       "url": "/wiki/entities/borrowedcorpsereturnssoulgulong/"
     },
     "BorrowedKnifeKilling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
@@ -35497,9 +35497,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/borrowedknifekilling/"
     },
     "Borte": {
@@ -42273,9 +42280,9 @@
       "url": "/wiki/entities/caokuwesternhan/"
     },
     "CaoPi": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
@@ -42311,9 +42318,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1149丨揭秘三国顶级谋士荀攸的官场生存术",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/caopi/"
     },
     "CaoRen": {
@@ -42627,9 +42641,9 @@
       "url": "/wiki/entities/caozhenglatehan/"
     },
     "CaoZhi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljv1FwEphE86-QCZfy0O1N2yh7um [ljv1FwEphE86-QCZfy0O1N2yh7um].md",
@@ -42637,9 +42651,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1149丨揭秘三国顶级谋士荀攸的官场生存术",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/caozhi/"
     },
     "CaoZongLateHan": {
@@ -66954,6 +66975,22 @@
       "updated": "2026-10-31",
       "url": "/wiki/entities/cuijian/"
     },
+    "CuiLinLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/cuilinlatehan/"
+    },
     "CuiQiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -67010,9 +67047,9 @@
       "url": "/wiki/entities/cuishizhumaichenwife/"
     },
     "CuiYanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？ [lt0iBS_eN0OEOQKkkCxl8SevjNG4].md",
@@ -67034,9 +67071,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/cuiyanlatehan/"
     },
     "CuiYinEasternHan": {
@@ -77420,6 +77464,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/dingwairenwesternhan/"
+    },
+    "DingYiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/dingyilatehan/"
     },
     "DingYiWesternHan": {
       "episode_count": 2,
@@ -131748,9 +131808,9 @@
       "url": "/wiki/entities/heqilatehan/"
     },
     "HeQiaLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？ [lgqmpYZ2Zm1avw5E-RDeXMO6kSWm].md",
@@ -131758,9 +131818,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/heqialatehan/"
     },
     "HeSiqiTianjinNormalRadio": {
@@ -193420,9 +193487,9 @@
       "url": "/wiki/entities/maodunchanyu/"
     },
     "MaoJie": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
@@ -193437,9 +193504,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/maojie/"
     },
     "MaoLixiang": {
@@ -240905,9 +240979,9 @@
       "url": "/wiki/concepts/privatelabellookalikerisk/"
     },
     "PrivateLetterPoliticalWeaponization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！ [lq06WnTw8K5230zmlNCQuYKARA9y].md",
@@ -240929,9 +241003,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm/"
+        },
+        {
+          "episode_file": "lpMr4ep1Uk9HjMwteoSbUsXUkJGo [lpMr4ep1Uk9HjMwteoSbUsXUkJGo].md",
+          "key": "zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/privateletterpoliticalweaponization/"
     },
     "PrivateMarketBubbleOpacity": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14033
+wiki_total_pages: 14035
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1241,6 +1241,9 @@ wiki_pages:
   - key: "DingErLihun"
     title: "丁二（《离婚》） / Ding Er"
     url: "/wiki/entities/dingerlihun/"
+  - key: "DingYiLateHan"
+    title: "丁仪 / Ding Yi (late Han)"
+    url: "/wiki/entities/dingyilatehan/"
   - key: "DingGong"
     title: "丁公 / Ding Gong"
     url: "/wiki/entities/dinggong/"

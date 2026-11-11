@@ -39218,3 +39218,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | 《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？
+
+Added source `zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo`; created [[DingYiLateHan|丁仪]] and [[CuiLinLateHan|崔林]]; and resynthesized [[CuiYanLateHan|崔琰]], [[MaoJie|毛玠]], [[CaoPi|曹丕]], [[CaoZhi|曹植]], [[HeQiaLateHan|和洽]], [[PrivateLetterPoliticalWeaponization|私人书信政治武器化]], and [[BorrowedKnifeKilling|借刀杀人]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: Cui Yan's consoling letter becomes dangerous through hostile reinterpretation, pre-existing moral authority, and succession alignment rather than wording alone; Ding Yi is a plausible but indirectly identified interested accuser; Mao Jie's collateral case makes He Qia's proof-or-false-accuser argument explicit; and Cao Cao's relationship with an informer is better described as qualified reciprocal use than trust. No settled contradiction was adopted. The accuser's identity, exact letter wording, punishment procedure, reported statements, offices, chronology, factional causation, and Cao Cao's motives remain episode-attributed or source-scoped. Broad [[CaoCao|曹操]], moral-reputation, direct-remonstrance, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,916 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

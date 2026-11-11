@@ -6,7 +6,8 @@ tags: [politics, statecraft, violence, indirect-action, risk]
 sources:
   - zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo
+last_updated: 2026-11-12
 ---
 
 ## Definition
@@ -21,6 +22,8 @@ In the earlier Guangwu military-political version, [[LiuXiu|刘秀]] does not si
 
 Together the cases refine the concept. The "knife" can be an angry local authority, as in Huang Zu, or a fearful ally of the target, as in Zhu Wei. The initiator's work is not always a direct order to kill; it can be transfer, exposure, framing, or calculated audience change that lets another actor supply the immediate violence.
 
+Hanji 1156 adds a qualified ruler-informant variant. The episode says [[DingYiLateHan|丁仪]] uses [[CuiYanLateHan|崔琰]]'s letter to pursue a factional enemy, while [[CaoCao|曹操]] already finds Cui Yan and later [[MaoJie|毛玠]] inconvenient and can use the accusation for his own political cleanup. Here each side can treat the other as the instrument. Because the accuser's identity and both actors' motives are indirectly reconstructed, the observable structure is stronger than the “borrowed knife” intent claim.
+
 ## Key Claims
 
 - Borrowed-knife killing separates initiating interest from direct execution, preserving distance for the actor who benefits.
@@ -29,6 +32,7 @@ Together the cases refine the concept. The "knife" can be an angry local authori
 - Information movement can be the knife handle: transferring a person or circulating letters changes who sees the target and how.
 - The target's own conduct can supply fuel, but the tactic depends on a stronger actor arranging exposure to someone more likely to strike.
 - The pattern belongs inside [[CovertPoliticalTechnology|阴谋式政治技术]] but is narrower because it routes removal through another actor's hand.
+- Informer and ruler can each use the other when accusation supplies a pretext and sovereign power supplies punishment.
 
 ## Evidence
 
@@ -37,16 +41,16 @@ Together the cases refine the concept. The "knife" can be an angry local authori
 - Target behavior as fuel: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] repeatedly shows Mi Heng's abrasive speech making each new setting more dangerous.
 - Letter exposure as indirect attack: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Liu Xiu circulates Li Yi's letters after judging him crafty.
 - Suspicion-triggered intermediary: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Zhu Wei sends people to kill Li Yi after hearing of the correspondence, while Luoyang's morale deteriorates.
+- Reciprocal instrumental use: [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] interprets Ding Yi as using Cao Cao's punitive power while Cao Cao uses Ding Yi's accusation to remove politically inconvenient officials.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove the full inner intent of every actor. Hanji 1011 explicitly presents motive analysis through the host's interpretation of Cao Cao, Liu Biao, and Huang Zu; Hanji 676 likewise labels Liu Xiu's move "borrowed-knife killing" as interpretive framing. The wiki keeps those motives source-scoped while preserving the observable structure: transfer or exposure changes the target's risk by activating another actor.
+The concept does not prove the full inner intent of every actor. Hanji 1011 and Hanji 676 explicitly rely on host-level motive analysis. Hanji 1156 is more uncertain still because Ding Yi's identification as accuser is indirect and Cao Cao directly controls punishment rather than remaining outside the enforcement chain. The wiki therefore preserves the reciprocal-use structure while treating the borrowed-knife label as qualified interpretation.
 
 ## What Changed
 
-- Migrated the page to `knowledge_schema: synthesis-v1`.
-- Added Hanji 676 as a Guangwu-era version where publicizing private letters activates Zhu Wei's suspicion against Li Yi.
-- Reframed borrowed-knife killing as a broader indirect-action mechanism that can work through person transfer or document exposure.
+- Added a qualified ruler-informant variant in which accusation and punitive authority become reciprocal instruments.
+- Preserved the weaker attribution and intent evidence in the Cui Yan case.
 
 ## Related Concepts
 
@@ -55,3 +59,5 @@ The concept does not prove the full inner intent of every actor. Hanji 1011 expl
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame exposed when a target fails to manage stronger actors' ability to route danger.
 - [[CourtFeedbackCollapse|朝廷反馈崩塌]] - adjacent information-failure setting where framed evidence can narrow decision-makers' views.
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - related because fragile camps make suspicion-triggered indirect attack easier.
+- [[DingYiLateHan|丁仪]] - likely accuser whose factional interest supplies the episode's initiating side.
+- [[CuiYanLateHan|崔琰]] - target whose letter and political position make indirect accusation usable.

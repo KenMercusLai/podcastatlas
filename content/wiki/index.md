@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？](sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo.md) — 芮淇讲透资治通鉴以崔琰书信被政治化、丁仪的间接归因、曹丕曹植继承竞争及毛玠案中的证据争议解释曹操称王后的清理逻辑。
 - [How bodegas led to the Yemeni coffeehouse explosion](sources/default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773.md) — Planet Money uses a Brooklyn cafe-and-deli family story to connect Yemeni coffeehouses with immigrant industry clustering, informal finance, community business infrastructure, and second-generation adaptation.
 - [Reddit pivots to a login-only experience](sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128.md) — Marketplace Tech connects Reddit's login wall to AI-summary traffic loss, contributor incentives, fresh human data, bot verification, and pseudonymous participation.
 - [蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民](sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592.md) — 端闻从政治家族资源、胜选结构、攻击议题适配与黄珊珊式独立选民的投票意愿解释台北市长选战为何胶着。
@@ -5038,6 +5039,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运动员最大的对手，是自己的大脑](sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae.md) — 不合时宜对谈温小倩，讨论长期运动心理保障、最佳表现区间、压力下的心理灵活性、过程注意与协同心理健康干预。
 
 ## Entities
+- [丁仪 / Ding Yi (late Han)](entities/DingYiLateHan.md) — 曹植阵营谋士，因与曹丕的婚事旧怨及利益结构被节目间接判断为崔琰案的可能告发者。
+- [崔林 / Cui Lin (late Han)](entities/CuiLinLateHan.md) — 为崔琰才干辩护、又以更务实适应的仕途在曹魏升至高位的汉末官员。
 - [Bill Kerr](entities/BillKerr.md) — Economist cited for comparative research on immigrant industry concentration and community ties.
 - [Hakeem Soleimani](entities/HakeemSoleimani.md) — Yemeni American founder who built Yaffa Cafe from family retail capabilities and Yemeni sourcing.
 - [Tarek Soleimani](entities/TarekSoleimani.md) — Brooklyn deli operator whose migration, family finance, and local relationships underpin the episode's bodega pathway.
@@ -5090,7 +5093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [霍峻 / Huo Jun](entities/HuoJun.md) — 以数百人坚守葭萌、拒绝诱降并伺机反击，后转任梓潼太守的刘备部将。
 - [赵范（东汉末） / Zhao Fan (Late Han)](entities/ZhaoFanLateHan.md) — 桂阳投降后提出与赵云联姻、因归附可信度不足被拒，后又出逃的东汉末地方官。
 - [蒋琬 / Jiang Wan](entities/JiangWan.md) — 从广都县务失职获再评价，后以更大尺度的政务能力进入蜀汉高层继承序列。
-- [曹植 / Cao Zhi](entities/CaoZhi.md) — 文学才华突出但因饮酒、越界与拒斥纠偏而削弱政治托付可信度的曹氏继承竞争者。
+- [曹植 / Cao Zhi](entities/CaoZhi.md) — 文学才华突出但因饮酒、越界与拒斥纠偏削弱政治托付可信度，其丁仪阵营又进入崔琰案利益结构的曹氏继承竞争者。
 - [刑颙 / Xing Yong (late Han)](entities/XingYongLateHan.md) — 曹植身边不取悦主君、强调礼法与实用纠偏的严正辅臣。
 - [刘桢 / Liu Zhen (late Han)](entities/LiuZhenLateHan.md) — 曹植的文学友人，同时劝其重视刑颙务实进言的建安文人。
 - [赵彦 / Zhao Yan, Yilang (late Han)](entities/ZhaoYanYilangLateHan.md) — Emperor Xian's policy adviser, killed after Cao Cao treats independent imperial counsel as a resistance channel.
@@ -8006,7 +8009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙夫人 / Lady Sun (wife of Liu Bei)](entities/LadySunLiuBei.md) — 孙权之妹、刘备之妻，其联姻暂时强化孙刘联盟，后东归并试图带走刘禅而遭拦截。
 - [蒋干 / Jiang Gan (late Han)](entities/JiangGanLateHan.md) — Cao-side visitor whose failed approach to Zhou Yu verifies the limits of transactional persuasion.
 - [公安 / Gongan (late Han)](entities/GonganLateHan.md) — Liu Bei's limited post-Red-Cliffs riverside headquarters before the broader Jingzhou settlement.
-- [和洽 / He Qia (late Han)](entities/HeQiaLateHan.md) — 警告曹操节俭标准走向极端会奖励虚伪表演，并主张按差异化才能与岗位需要判断官员的汉末官员。
+- [和洽 / He Qia (late Han)](entities/HeQiaLateHan.md) — 既警告节俭标准奖励虚伪表演，又在毛玠案中要求以证据而非告发者单方陈述定罪的汉末官员。
 - [铜雀台 / Tongque Platform](entities/TongquePlatform.md) — 曹操在邺城营建、用于投射北方功业与权威，并在后世获得“锁二乔”文学记忆的政治纪念物。
 - [《自明本志令》 / Self-Clarification Edict](entities/SelfClarificationEdict.md) — 曹操以生平功业回应篡位疑虑、愿退部分封地却拒绝交出兵权的政治自述。
 - [董祀 / Dong Si (late Han)](entities/DongSiLateHan.md) — 蔡文姬归汉后的丈夫，节目以其死罪获赦故事突出蔡文姬的勇气、判断与行动能力。
@@ -10232,7 +10235,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈简 / Chen Jian (Yuan Shu retainer)](entities/ChenJianYuanShuRetainer.md) — Yuan Shu old retainer who refuses to shelter him during the final collapse.
 - [雷波 / Lei Bo (Yuan Shu retainer)](entities/LeiBoYuanShuRetainer.md) — Yuan Shu old retainer whose refusal marks the collapse of Yuan Shu's usable refuge network.
 - [耿包 / Geng Bao (late Han)](entities/GengBaoLateHan.md) — Yuan Shao subordinate whose imperial-title proposal becomes a title-test casualty after official rejection.
-- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — 从许都合法性警告、冀州民生进谏到与毛玠共同选官，并因赞许司马懿把他带入曹操视野的汉末官员。
+- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — 从合法性与民生进谏到共同选官、支持曹丕，最终因安慰书信被政治化而遭曹操处死的汉末官员。
 - [徐秋 / Xu Qiu (Guangling late Han)](entities/XuQiuGuanglingLateHan.md) — Former Guangling administrator who returns the Heirloom Imperial Seal to the court after Yuan Shu's death.
 - [Jennifer King](entities/JenniferKing.md) — Stanford HAI privacy researcher explaining California data-broker compliance failures, deletion friction, enforcement limits, and AI data-broker demand.
 - [Stanford Institute for Human-Centered AI](entities/StanfordInstituteForHumanCenteredAI.md) — Stanford policy and research context for Jennifer King's data-broker compliance report.
@@ -11330,7 +11333,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [庞德 / Pang De](entities/PangDe.md) — Ma Teng-Ma Chao-side officer who kills Guo Yuan at Pingyang and later remains in Hanzhong during Ma Chao's Qishan attempt.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
 - [韩遂 / Han Sui](entities/HanSui.md) — 从被胁入乱、兼并与反复结盟到渭南离间和西部败亡，显示地方权谋未必能转化为稳定的指挥与支持体系。
-- [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、又与崔琰共同以德行和务实标准主持选官的曹操谋臣。
+- [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、与崔琰共同选官，后在告发与证据争议中被下狱免官的曹操谋臣。
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's wealthy father and network enabler whose disputed killing later triggers the Xuzhou revenge branch.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.

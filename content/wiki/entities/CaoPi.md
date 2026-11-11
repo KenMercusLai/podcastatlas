@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-1127-caocao-cuanwei-sanjian-ta-zhide-shi-shenme-livrh3obobkcfhj_ngnhe-kgv2ls
   - zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu
   - zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um
-last_updated: 2026-11-09
+  - zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo
+last_updated: 2026-11-12
 ---
 
 ## Overview
@@ -24,6 +25,8 @@ Hanji 1150 completes the transition only in outline: after [[CaoCao|曹操]] die
 
 Hanji 1149 adds the earlier comparison with [[CaoZhi|曹植]]. The episode presents Cao Pi as less dazzling but more controlled, politically rational, and capable of managing officials and appearances. This extends the profile backward into succession reliability while remaining a source-scoped contrast rather than proof that one farewell performance or one rival's mistake determined the outcome.
 
+Hanji 1156 adds the factional cost of the same contest. [[CuiYanLateHan|崔琰]] publicly supports Cao Pi through a seniority argument, while [[DingYiLateHan|丁仪]] is said to resent Cao Pi after a blocked marriage and to join Cao Zhi's side. The episode treats Cui Yan's death as partly embedded in that conflict, but it does not prove that Cao Cao ordered the killing principally to weaken Cao Pi's camp.
+
 ## Key Characteristics
 
 - Son who inherits and formalizes Cao-family power.
@@ -32,6 +35,7 @@ Hanji 1149 adds the earlier comparison with [[CaoZhi|曹植]]. The episode prese
 - Decision-maker who refers an expansive captive-execution question to superior authority.
 - Founding ruler whose predecessor settlement preserves Liu Xie's fief and recognized status.
 - Succession contender presented as steadier and more politically delegable than Cao Zhi.
+- Beneficiary of Cui Yan's public support and target of Ding Yi's reported grievance.
 
 ## Evidence
 
@@ -48,14 +52,17 @@ Dynastic conversion and predecessor settlement:
 Succession reliability:
 - [[zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um|Hanji 1149]] contrasts Cao Pi's restraint and official-management capacity with Cao Zhi's literary brilliance and unstable self-command.
 
+Factional succession field:
+- [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] places Cui Yan's support for Cao Pi and Ding Yi's grievance and Cao Zhi alignment around the accusation case.
+
 ## Qualifications
 
-These sources do not form a complete reign biography. The abdication is described inside a podcast synthesis rather than a detailed institutional record, and the degree of coercion, settlement terms, medical anecdotes, and comparative distinctiveness require narrower verification. Hanji 1111 supports a plausible succession counterfactual, not a formal Cao Chong designation. Hanji 1149's poet-versus-politician contrast and farewell anecdote are interpretive and do not isolate all causes of succession.
+These sources do not form a complete reign biography. The abdication is described inside a podcast synthesis rather than a detailed institutional record, and the degree of coercion and settlement terms require narrower verification. Hanji 1111 supports a plausible succession counterfactual, not a formal Cao Chong designation. Hanji 1149's poet-versus-politician contrast does not isolate all causes of succession. Hanji 1156 does not conclusively identify Ding Yi as the accuser or prove that Cui Yan's Cao Pi alignment caused his death.
 
 ## What Changed
 
-- Added the Cao Zhi comparison as an earlier succession-reliability layer.
-- Distinguished steadier political presentation from a claim that one anecdote decided succession.
+- Added Cui Yan's public support and Ding Yi's reported grievance as factional consequences of the succession contest.
+- Kept the accusation attribution and Cao Cao's motive qualified.
 
 ## Relationships
 
@@ -67,3 +74,5 @@ These sources do not form a complete reign biography. The abdication is describe
 - [[SituationalStrictLenientGovernance|宽严相济的因时治理]] - principle reflected in reconsidering punishment after military control is secured.
 - [[CaoZhi|曹植]] - brother and rival whose literary brilliance is contrasted with Cao Pi's steadier political conduct.
 - [[PoliticalSelfControlTrust|政治托付中的自制力]] - concept for why predictable conduct affects succession and delegation.
+- [[CuiYanLateHan|崔琰]] - senior official who supports Cao Pi through a primogeniture argument.
+- [[DingYiLateHan|丁仪]] - Cao Zhi-aligned actor whose grievance against Cao Pi enters the accusation reconstruction.
