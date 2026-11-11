@@ -124373,6 +124373,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/gujiwesternhan/"
     },
+    "GuLiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXToPNMefH5wduM5FIyjoDNGXXF [lmXToPNMefH5wduM5FIyjoDNGXXF].md",
+          "key": "zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/gulilatehan/"
+    },
     "GuLong": {
       "episode_count": 11,
       "show_count": 2,
@@ -132536,10 +132552,26 @@
       "updated": "2026-11-02",
       "url": "/wiki/concepts/hedonicadaptationandcontrast/"
     },
-    "HefeiLateHan": {
-      "episode_count": 2,
+    "HefeiBattle215": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXToPNMefH5wduM5FIyjoDNGXXF [lmXToPNMefH5wduM5FIyjoDNGXXF].md",
+          "key": "zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/hefeibattle215/"
+    },
+    "HefeiLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1051丨他为何被称作是最有能力的扬州刺史？ [ltQuwYZZq-Sqibj33BpBu3qyVz2H].md",
@@ -132554,9 +132586,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln/"
+        },
+        {
+          "episode_file": "lmXToPNMefH5wduM5FIyjoDNGXXF [lmXToPNMefH5wduM5FIyjoDNGXXF].md",
+          "key": "zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/hefeilatehan/"
     },
     "HeiDeng": {
@@ -173472,9 +173511,9 @@
       "url": "/wiki/entities/lidazui/"
     },
     "LiDian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
@@ -173489,9 +173528,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny/"
+        },
+        {
+          "episode_file": "lmXToPNMefH5wduM5FIyjoDNGXXF [lmXToPNMefH5wduM5FIyjoDNGXXF].md",
+          "key": "zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/lidian/"
     },
     "LiDoctorSmokingCessation": {
@@ -238716,6 +238762,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/predictiveworldmodelanxiety/"
+    },
+    "PreemptiveMoraleShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXToPNMefH5wduM5FIyjoDNGXXF [lmXToPNMefH5wduM5FIyjoDNGXXF].md",
+          "key": "zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/preemptivemoraleshock/"
     },
     "PrefrontalCortexOverattribution": {
       "episode_count": 2,
@@ -332670,9 +332732,9 @@
       "url": "/wiki/entities/zhanglanglatehan/"
     },
     "ZhangLiao": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？ [lluThd9hV_0NqBOT4FuctjCuka68].md",
@@ -332701,9 +332763,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil/"
+        },
+        {
+          "episode_file": "lmXToPNMefH5wduM5FIyjoDNGXXF [lmXToPNMefH5wduM5FIyjoDNGXXF].md",
+          "key": "zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/zhangliao/"
     },
     "ZhangLingLateHan": {

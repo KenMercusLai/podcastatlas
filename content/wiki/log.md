@@ -39155,3 +39155,11 @@ Added source `allin-intv-ricksmith-ch-allin-intv-ricksmith-ch`; created [[RickSm
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | 《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？
+
+Added source `zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf`; created [[HefeiBattle215|合肥之战]], [[GuLiLateHan|谷利]], and [[PreemptiveMoraleShock|先制士气震慑]]; and resynthesized [[ZhangLiao|张辽]], [[LiDian|李典]], and [[HefeiLateHan|合肥]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: the 215 defense converts advance contingency design into a layered response—Zhang Liao and Li Dian strike before the larger Wu force fully concentrates, the assault changes both sides' morale, Yue Jin holds the city, and the strongpoint supports pursuit when Sun Quan withdraws unevenly; Li Dian's cooperation also adds common-purpose discipline to his profile, while Gu Li's bridge intervention preserves Wu command continuity. No settled contradiction was adopted. Troop totals, sealed-order wording, dialogue, personal animosity, casualties, epidemic effects, bridge dimensions, exact escape mechanics, source attributions, and the claim that defeat permanently made Sun Quan cautious remain episode-reported or source-scoped. Broad [[SunQuan|孙权]], [[CaoCao|曹操]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic; global compaction was due on the max-age gate, and refreshed artifacts validate 4,908 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

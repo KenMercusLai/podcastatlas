@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11162
+wiki_total_pages: 11163
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2912,6 +2912,9 @@ wiki_pages:
   - key: "PediatricMycoplasmaPneumoniaCareBoundary"
     title: "儿童支原体肺炎照护边界 / Pediatric Mycoplasma Pneumonia Care Boundary"
     url: "/wiki/concepts/pediatricmycoplasmapneumoniacareboundary/"
+  - key: "PreemptiveMoraleShock"
+    title: "先制士气震慑 / Preemptive Morale Shock"
+    url: "/wiki/concepts/preemptivemoraleshock/"
   - key: "PartyProhibitionKinshipExpansion"
     title: "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion"
     url: "/wiki/concepts/partyprohibitionkinshipexpansion/"

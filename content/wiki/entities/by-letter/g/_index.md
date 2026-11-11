@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14018
+wiki_total_pages: 14020
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1628,6 +1628,9 @@ wiki_pages:
   - key: "Guanxia"
     title: "观夏 / Guanxia"
     url: "/wiki/entities/guanxia/"
+  - key: "GuLiLateHan"
+    title: "谷利 / Gu Li (late Han)"
+    url: "/wiki/entities/gulilatehan/"
   - key: "GuJiWesternHan"
     title: "谷吉 / Gu Ji (Western Han)"
     url: "/wiki/entities/gujiwesternhan/"

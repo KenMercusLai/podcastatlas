@@ -5027,6 +5027,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达](sources/515-cong-tiemu-chuangzuo-dao-jiedong-wenyi-mantan-shijie-dianyingshi-zhong-de-bolan-jujiang-anjieyi-wayida-lgric01z9-3p6bvhcqwpxk8bs-nm.md) — 忽左忽右对应翔的访谈以瓦伊达回顾展连接波兰电影学派、冷战传播、创作组制度与历史影像的政治建构。
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
+- [《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？](sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf.md) — 芮淇讲透资治通鉴讲述215年合肥之战，以预设分工、先制突击、将领协作与撤军追击解释弱势守军如何改变双方士气。
+
 ## Entities
 - [Rick Smith](entities/RickSmith.md) — Axon founder and CEO connecting non-lethal product development, platform transformation, and human-controlled public-safety technology.
 - [Axon](entities/Axon.md) — Public-safety company evolving from Taser hardware into body cameras, cloud evidence, drones, and integrated response systems.
@@ -19135,6 +19137,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [安杰伊·瓦伊达 / Andrzej Wajda](entities/AndrzejWajda.md) — 以古典叙事、文学改编和影像政治持续处理波兰民族历史的导演与戏剧创作者。
 - [应翔 / Ying Xiang (film scholar and curator)](entities/YingXiangFilmScholar.md) — 以电影交流史、制度与策展研究中东欧电影跨国传播的学者和策展人。
 
+- [合肥之战 / Battle of Hefei (215)](entities/HefeiBattle215.md) — 215年张辽、李典以先制突击配合城防并在孙权撤军时追击的合肥战役。
+- [谷利 / Gu Li (late Han)](entities/GuLiLateHan.md) — 合肥撤军危机中以具体骑术指令帮助孙权跃过断桥的东吴护卫人物。
+
 ## Concepts
 - [Institutional Validation Product-Market Fit](concepts/InstitutionalValidationProductMarketFit.md) — Adoption pattern in which credible professional use and direct demonstration unlock trust for an unfamiliar product.
 - [Body-Camera Evidence Infrastructure](concepts/BodyCameraEvidenceInfrastructure.md) — Capture, storage, access, retrieval, retention, disclosure, and workflow needed to turn police video into governable evidence.
@@ -30402,5 +30407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [历史影像叙事建构 / Historical Image Narrative Construction](concepts/HistoricalImageNarrativeConstruction.md) — 通过选择、删略、剪辑和制度权威把记录材料组织成公共历史解释的过程。
 - [Ebola Containment Under Conflict](concepts/EbolaContainmentUnderConflict.md) — Epidemic-response problem in which violence, weak services, distrust, mobility, vaccine mismatch, and routine-care loss jointly constrain containment.
 - [Appalachian Culinary Resourcefulness](concepts/AppalachianCulinaryResourcefulness.md) — Regional food practice that turns available or devalued ingredients into skilled, low-waste cooking while negotiating humor, tourism, and stereotype.
+
+- [先制士气震慑 / Preemptive Morale Shock](concepts/PreemptiveMoraleShock.md) — 弱势守军在敌军完成集结前以有限突击同时削弱敌方锐气、稳定己方信心的时机策略。
 
 ## Syntheses

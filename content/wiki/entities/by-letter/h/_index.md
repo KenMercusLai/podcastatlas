@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14018
+wiki_total_pages: 14020
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "HefeiLateHan"
     title: "合肥 / Hefei (late Han)"
     url: "/wiki/entities/hefeilatehan/"
+  - key: "HefeiBattle215"
+    title: "合肥之战 / Battle of Hefei (215)"
+    url: "/wiki/entities/hefeibattle215/"
   - key: "HefeiMarquisLateHan"
     title: "合肥侯 / Hefei Marquis (late Han)"
     url: "/wiki/entities/hefeimarquislatehan/"
