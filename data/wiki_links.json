@@ -17283,6 +17283,10 @@
     "title": "Campaign Culmination Through Logistics",
     "url": "/wiki/concepts/campaignculminationthroughlogistics/"
   },
+  "CampaignDefinitionStrategy": {
+    "title": "选战定义策略 / Campaign Definition Strategy",
+    "url": "/wiki/concepts/campaigndefinitionstrategy/"
+  },
   "CampaignFinanceAccessIncentive": {
     "title": "军费通道利益驱动 / Campaign Finance Access Incentive",
     "url": "/wiki/concepts/campaignfinanceaccessincentive/"
@@ -24866,6 +24870,10 @@
   "CrossBorderWealthManagementConnect": {
     "title": "Cross-Border Wealth Management Connect",
     "url": "/wiki/concepts/crossborderwealthmanagementconnect/"
+  },
+  "CrossCampElectoralAppeal": {
+    "title": "跨阵营选举号召力 / Cross-Camp Electoral Appeal",
+    "url": "/wiki/concepts/crosscampelectoralappeal/"
   },
   "CrossCategoryBrandTrust": {
     "title": "Cross-Category Brand Trust / 跨品类品牌信任",
@@ -45431,6 +45439,10 @@
     "title": "黄蓉 / Huang Rong",
     "url": "/wiki/entities/huangrong/"
   },
+  "HuangShanshan": {
+    "title": "黄珊珊 / Vivian Huang",
+    "url": "/wiki/entities/huangshanshan/"
+  },
   "HuangShengWesternHan": {
     "title": "黄生 / Huang Sheng (Western Han)",
     "url": "/wiki/entities/huangshengwesternhan/"
@@ -50279,9 +50291,17 @@
     "title": "蒋琬 / Jiang Wan",
     "url": "/wiki/entities/jiangwan/"
   },
+  "JiangWanan": {
+    "title": "蒋万安 / Chiang Wan-an",
+    "url": "/wiki/entities/jiangwanan/"
+  },
   "JiangXiangHeInternalUnity": {
     "title": "Jiang-Xiang Harmony / 将相和式内部团结",
     "url": "/wiki/concepts/jiangxiangheinternalunity/"
+  },
+  "JiangXiaoyan": {
+    "title": "蒋孝严 / John Chiang Hsiao-yen",
+    "url": "/wiki/entities/jiangxiaoyan/"
   },
   "JiangXiaoyu": {
     "title": "江小鱼",
@@ -53530,6 +53550,10 @@
   "KunyuWanguoQuantu": {
     "title": "《坤舆万国全图》 / Kunyu Wanguo Quantu",
     "url": "/wiki/entities/kunyuwanguoquantu/"
+  },
+  "Kuomintang": {
+    "title": "中国国民党 / Kuomintang",
+    "url": "/wiki/entities/kuomintang/"
   },
   "KurikaraBattle": {
     "title": "Kurikara Battle",
@@ -72779,6 +72803,10 @@
     "title": "Political Exit to Entry",
     "url": "/wiki/concepts/politicalexittoentry/"
   },
+  "PoliticalFamilyResourceAdvantage": {
+    "title": "政治家族资源优势 / Political Family Resource Advantage",
+    "url": "/wiki/concepts/politicalfamilyresourceadvantage/"
+  },
   "PoliticalFarceAccountability": {
     "title": "Political Farce Accountability",
     "url": "/wiki/concepts/politicalfarceaccountability/"
@@ -83499,6 +83527,10 @@
     "title": "《申报》 / Shen Bao",
     "url": "/wiki/entities/shenbao/"
   },
+  "ShenBoyang": {
+    "title": "沈伯洋 / Shen Po-yang",
+    "url": "/wiki/entities/shenboyang/"
+  },
   "ShenBuhai": {
     "title": "申不害 / Shen Buhai",
     "url": "/wiki/entities/shenbuhai/"
@@ -85414,6 +85446,10 @@
   "SoftDiscountRetail": {
     "title": "Soft-Discount Retail / 软折扣零售",
     "url": "/wiki/concepts/softdiscountretail/"
+  },
+  "SoftSupportTurnoutCompetition": {
+    "title": "软支持者投票率竞争 / Soft-Support Turnout Competition",
+    "url": "/wiki/concepts/softsupportturnoutcompetition/"
   },
   "SoftTissueMobilizationWindow": {
     "title": "Soft-Tissue Mobilization Window",
@@ -106498,6 +106534,10 @@
   "avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163": {
     "title": "Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson",
     "url": "/wiki/sources/avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163/"
+  },
+  "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592": {
+    "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+    "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
   },
   "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4": {
     "title": "Let’s get this party restarted: Republicans reel from the midterms",

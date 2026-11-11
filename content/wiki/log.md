@@ -39194,3 +39194,11 @@ Added source `b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83m
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | 蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民
+
+Added source `b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592`; created [[JiangWanan|蒋万安]], [[ShenBoyang|沈伯洋]], [[JiangXiaoyan|蒋孝严]], [[HuangShanshan|黄珊珊]], [[Kuomintang|中国国民党]], [[PoliticalFamilyResourceAdvantage]], [[CrossCampElectoralAppeal]], [[CampaignDefinitionStrategy]], and [[SoftSupportTurnoutCompetition]]. Core synthesis: inherited family symbolism and practical constituency or party networks can accelerate political entry without proving cross-camp appeal; victory in divided fields does not isolate a personal vote premium; opponent-definition attacks need issue salience, target fit, and a credible positive inverse; and weakly attached favorable voters create a turnout contest in which demobilization can matter without conversion. No settled contradiction was adopted. Polling, vote shares, party-faction support, candidate motives, campaign effects, and the characterization of former Huang supporters remain episode-reported or source-scoped because the supplied document is a structured episode summary rather than official results, poll microdata, or a full policy comparison. Broad [[Taiwan]], [[DuanwenNewsPodcast|端闻]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the new judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,913 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

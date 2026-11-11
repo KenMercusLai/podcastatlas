@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 14021
+wiki_total_pages: 14026
 wiki_pages:
   - key: "KumagayaSixMurders2015"
     title: "2015 Kumagaya Six Murders / 2015年熊谷六人遇害事件"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "KafunshoToJinrui"
     title: "《花粉症与人类》 / 花粉症と人類"
     url: "/wiki/entities/kafunshotojinrui/"
+  - key: "Kuomintang"
+    title: "中国国民党 / Kuomintang"
+    url: "/wiki/entities/kuomintang/"
   - key: "KhotanKingdomLateHan"
     title: "于阗国 / Khotan Kingdom (late Han)"
     url: "/wiki/entities/khotankingdomlatehan/"

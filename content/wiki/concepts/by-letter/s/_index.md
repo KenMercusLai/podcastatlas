@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11168
+wiki_total_pages: 11172
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -3119,6 +3119,9 @@ wiki_pages:
   - key: "StatusFilteredSocialInvestment"
     title: "身份过滤式社交投资 / Status-Filtered Social Investment"
     url: "/wiki/concepts/statusfilteredsocialinvestment/"
+  - key: "SoftSupportTurnoutCompetition"
+    title: "软支持者投票率竞争 / Soft-Support Turnout Competition"
+    url: "/wiki/concepts/softsupportturnoutcompetition/"
   - key: "StrategicForbearanceGovernance"
     title: "退让留余地式治理 / Strategic Forbearance Governance"
     url: "/wiki/concepts/strategicforbearancegovernance/"

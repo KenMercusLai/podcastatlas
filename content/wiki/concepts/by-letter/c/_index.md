@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11168
+wiki_total_pages: 11172
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3791,9 +3791,15 @@ wiki_pages:
   - key: "CrossCulturalPublicInterestStorytelling"
     title: "跨文化公益题材叙事 / Cross-Cultural Public-Interest Storytelling"
     url: "/wiki/concepts/crossculturalpublicintereststorytelling/"
+  - key: "CrossCampElectoralAppeal"
+    title: "跨阵营选举号召力 / Cross-Camp Electoral Appeal"
+    url: "/wiki/concepts/crosscampelectoralappeal/"
   - key: "CounselExitAfterNonresponse"
     title: "进言不纳后的抽身 / Counsel Exit After Nonresponse"
     url: "/wiki/concepts/counselexitafternonresponse/"
+  - key: "CampaignDefinitionStrategy"
+    title: "选战定义策略 / Campaign Definition Strategy"
+    url: "/wiki/concepts/campaigndefinitionstrategy/"
   - key: "CharismaticPoliticalPerformance"
     title: "造势型政治表演 / Charismatic Political Performance"
     url: "/wiki/concepts/charismaticpoliticalperformance/"

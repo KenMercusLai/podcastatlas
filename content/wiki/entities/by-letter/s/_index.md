@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14021
+wiki_total_pages: 14026
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
@@ -2780,6 +2780,9 @@ wiki_pages:
   - key: "ShenWansan"
     title: "沈万三 / Shen Wansan"
     url: "/wiki/entities/shenwansan/"
+  - key: "ShenBoyang"
+    title: "沈伯洋 / Shen Po-yang"
+    url: "/wiki/entities/shenboyang/"
   - key: "ShenYujun"
     title: "沈宇军 / Shen Yujun"
     url: "/wiki/entities/shenyujun/"

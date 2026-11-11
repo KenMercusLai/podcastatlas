@@ -22241,6 +22241,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CampaignDefinitionStrategy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CampaignSpendingArmsRace": [
     {
       "key": "politics",
@@ -29077,6 +29084,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CrossCampElectoralAppeal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CrossCoalitionCulturalIcon": [
@@ -48479,6 +48493,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HuangShanshan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HuangYiRobotics": [
     {
       "key": "technology",
@@ -53145,7 +53166,21 @@
       "url": "/topics/history/"
     }
   ],
+  "JiangWanan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JiangXiangHeInternalUnity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "JiangXiaoyan": [
     {
       "key": "politics",
       "label": "Politics",
@@ -73025,6 +73060,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PoliticalFamilyResourceAdvantage": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PoliticalFarceAccountability": [
     {
       "key": "politics",
@@ -83482,6 +83524,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ShenBoyang": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ShenBuhai": [
     {
       "key": "history",
@@ -85267,6 +85316,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SoftSupportTurnoutCompetition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Softmax": [
@@ -105409,6 +105465,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4": [

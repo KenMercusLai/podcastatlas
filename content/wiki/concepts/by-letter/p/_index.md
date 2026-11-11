@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11168
+wiki_total_pages: 11172
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -3029,6 +3029,9 @@ wiki_pages:
   - key: "PoliticalMilitaryEraFit"
     title: "政军能力的时代适配 / Political-Military Era Fit"
     url: "/wiki/concepts/politicalmilitaryerafit/"
+  - key: "PoliticalFamilyResourceAdvantage"
+    title: "政治家族资源优势 / Political Family Resource Advantage"
+    url: "/wiki/concepts/politicalfamilyresourceadvantage/"
   - key: "PoliticalCaseEvidenceSkepticism"
     title: "政治案件证据怀疑 / Political Case Evidence Skepticism"
     url: "/wiki/concepts/politicalcaseevidenceskepticism/"

@@ -40837,6 +40837,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/campaignculminationthroughlogistics/"
     },
+    "CampaignDefinitionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/campaigndefinitionstrategy/"
+    },
     "CampaignFinanceAccessIncentive": {
       "episode_count": 1,
       "show_count": 1,
@@ -66130,6 +66146,22 @@
       ],
       "updated": "2026-11-04",
       "url": "/wiki/concepts/crossborderfamilyreunificationafterseparation/"
+    },
+    "CrossCampElectoralAppeal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/crosscampelectoralappeal/"
     },
     "CrossCategoryBrandTrust": {
       "episode_count": 1,
@@ -141168,6 +141200,22 @@
       "updated": "2026-10-12",
       "url": "/wiki/entities/huangrong/"
     },
+    "HuangShanshan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/huangshanshan/"
+    },
     "HuangShengWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -159498,6 +159546,22 @@
       "updated": "2026-11-09",
       "url": "/wiki/entities/jiangwan/"
     },
+    "JiangWanan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/jiangwanan/"
+    },
     "JiangXiangHeInternalUnity": {
       "episode_count": 2,
       "show_count": 1,
@@ -159520,6 +159584,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/jiangxiangheinternalunity/"
+    },
+    "JiangXiaoyan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/jiangxiaoyan/"
     },
     "JiangXibao": {
       "episode_count": 1,
@@ -168824,6 +168904,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kunyangbattle/"
+    },
+    "Kuomintang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/kuomintang/"
     },
     "KurikaraBattle": {
       "episode_count": 1,
@@ -234646,6 +234742,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/politicalexecutionoverreach/"
     },
+    "PoliticalFamilyResourceAdvantage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/politicalfamilyresourceadvantage/"
+    },
     "PoliticalFuneral": {
       "episode_count": 4,
       "show_count": 3,
@@ -269138,6 +269250,22 @@
       "updated": "2026-10-08",
       "url": "/wiki/entities/shenbao/"
     },
+    "ShenBoyang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/shenboyang/"
+    },
     "ShenFurenWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -276216,6 +276344,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/softbudgetfootballclubs/"
+    },
+    "SoftSupportTurnoutCompetition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b6c8b008370523ce9ee300c46a29db26 [b6c8b008370523ce9ee300c46a29db26.mp3？aid=6af3219e1f5126ac85b049f0&chid=66b07190af99592.281].md",
+          "key": "b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民",
+          "url": "/wiki/sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/softsupportturnoutcompetition/"
     },
     "SoftTissueMobilizationWindow": {
       "episode_count": 1,

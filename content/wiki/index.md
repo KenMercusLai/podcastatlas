@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民](sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592.md) — 端闻从政治家族资源、胜选结构、攻击议题适配与黄珊珊式独立选民的投票意愿解释台北市长选战为何胶着。
 - [Let’s get this party restarted: Republicans reel from the midterms](sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4.md) — Economist Podcasts on post-midterm party succession, defensive family spending on education, stalled mobility, and television’s hostile working-class climbers.
 - [EP88-年轻一代丧失的X生活](sources/ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223.md) — 无时差研究所从住房、工作、约会门槛、数字替代、性教育与低欲望讨论年轻人性生活下降，并区分频率、欲望、满足、关系进入和自主选择。
 - [《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？](sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt.md) — 芮淇讲透资治通鉴区分荆南四郡与南郡或江陵转移，并以曹操取汉中后的伐蜀建议讨论联盟修复、战略窗口与收缩。
@@ -5035,6 +5036,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运动员最大的对手，是自己的大脑](sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae.md) — 不合时宜对谈温小倩，讨论长期运动心理保障、最佳表现区间、压力下的心理灵活性、过程注意与协同心理健康干预。
 
 ## Entities
+- [蒋万安 / Chiang Wan-an](entities/JiangWanan.md) — 台北市长与国民党政治人物，其家族资源、历次胜选结构与跨阵营号召力受到本期选战分析检验。
+- [沈伯洋 / Shen Po-yang](entities/ShenBoyang.md) — 以市政讨论与回应形象扩大好感、但仍需把独立选民软支持转化为投票率的台北市长挑战者。
+- [蒋孝严 / John Chiang Hsiao-yen](entities/JiangXiaoyan.md) — 曾任外交部长、总统府秘书长、台北立委与国民党副主席，并在本期构成蒋万安政治资源继承的网络桥梁。
+- [黄珊珊 / Vivian Huang](entities/HuangShanshan.md) — 前台北市长候选人，本期以其旧支持者界定左右当前选战的独立选民群体。
+- [中国国民党 / Kuomintang](entities/Kuomintang.md) — 本期从台北基本盘、派系支持、政治家族偏好与攻击议题适配观察的台湾政党。
 - [Rick Smith](entities/RickSmith.md) — Axon founder and CEO connecting non-lethal product development, platform transformation, and human-controlled public-safety technology.
 - [Axon](entities/Axon.md) — Public-safety company evolving from Taser hardware into body cameras, cloud evidence, drones, and integrated response systems.
 - [Hadi Partovi](entities/HadiPartovi.md) — Board-level technical contributor credited with helping Axon's software-team, cloud-infrastructure, and identity transition.
@@ -19148,6 +19154,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [温小倩 / Wen Xiaoqian](entities/WenXiaoqian.md) — 运动心理学博士与咨询师，以长期、个体化、跨专业协同的方式支持高水平运动员应对压力、表现与心理健康。
 
 ## Concepts
+- [政治家族资源优势 / Political Family Resource Advantage](concepts/PoliticalFamilyResourceAdvantage.md) — 家族身份、媒体注意、选区网络与党内投资在候选人尚未证明独立能力前形成的政治入场优势。
+- [跨阵营选举号召力 / Cross-Camp Electoral Appeal](concepts/CrossCampElectoralAppeal.md) — 区分候选人突破政党基本盘的个人能力，与分票、投票率或有利地域结构下的胜选。
+- [选战定义策略 / Campaign Definition Strategy](concepts/CampaignDefinitionStrategy.md) — 以议题显著性、目标适配和可信正面对照同时定义对手与自己的竞选机制。
+- [软支持者投票率竞争 / Soft-Support Turnout Competition](concepts/SoftSupportTurnoutCompetition.md) — 围绕弱党派依附支持者是否真正投票展开、可通过动员或降温改变结果的竞争。
 - [Education Spending Mobility Trap](concepts/EducationSpendingMobilityTrap.md) — Defensive tutoring, sport, enrichment, and credential spending that raises household cost without equalizing mobility.
 - [Aspiring Outsider Villain](concepts/AspiringOutsiderVillain.md) — Cultural pattern portraying working-class entrants to elite institutions as deceptive, dangerous, or undeserving of advancement.
 - [Institutional Validation Product-Market Fit](concepts/InstitutionalValidationProductMarketFit.md) — Adoption pattern in which credible professional use and direct demonstration unlock trust for an unfamiliar product.

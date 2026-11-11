@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14021
+wiki_total_pages: 14026
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1955,6 +1955,9 @@ wiki_pages:
   - key: "Juxian"
     title: "菊仙 / Juxian"
     url: "/wiki/entities/juxian/"
+  - key: "JiangWanan"
+    title: "蒋万安 / Chiang Wan-an"
+    url: "/wiki/entities/jiangwanan/"
   - key: "JiangHuaan"
     title: "蒋华安 / Jiang Huaan"
     url: "/wiki/entities/jianghuaan/"
@@ -1967,6 +1970,9 @@ wiki_pages:
   - key: "JiangZiwen"
     title: "蒋子文 / Jiang Ziwen"
     url: "/wiki/entities/jiangziwen/"
+  - key: "JiangXiaoyan"
+    title: "蒋孝严 / John Chiang Hsiao-yen"
+    url: "/wiki/entities/jiangxiaoyan/"
   - key: "JiangYuliangDoctor"
     title: "蒋宇亮 / Jiang Yuliang"
     url: "/wiki/entities/jiangyuliangdoctor/"
