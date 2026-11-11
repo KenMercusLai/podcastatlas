@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing](sources/allin-intv-ricksmith-ch-allin-intv-ricksmith-ch.md) — All-In interview on Axon's Taser origins, institutional product validation, body-camera and cloud transition, surveillance governance, drones, and human-authorized robotic force.
 - [九阳净利润大跌近 75%，它的美国「亲戚」怎么越赚越多？](sources/jiuyang-jinglirun-dadie-jin-75-ta-de-meiguo-qinqi-zenme-yue-zhuan-yue-duo-gkwriueoyniragzajwt5lgbb.md) — 声动早咖啡以SharkNinja对比九阳等中国小家电企业，解释本地品牌渠道、中国研发供应链、社交展示与多渠道如何共同支撑品类扩张。
 - [EP393-“30+”找工作跳槽，我们在担忧什么？| 一起渡过人生的奥德赛时刻](sources/ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj.md) — 无时差研究所以柯柯的投资行业跳槽经历讨论职业选择权、组织信任、生育时序、AI时代的年龄与经验，以及工作之外的人生支点。
 - [The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322.md) — Tomorrow Today interview on expressive bionic speech, low-latency on-device conversion, human control, voice-data ownership, identity authentication, reimbursement, and assistive-device destigmatization.
@@ -5027,6 +5028,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
+- [Rick Smith](entities/RickSmith.md) — Axon founder and CEO connecting non-lethal product development, platform transformation, and human-controlled public-safety technology.
+- [Axon](entities/Axon.md) — Public-safety company evolving from Taser hardware into body cameras, cloud evidence, drones, and integrated response systems.
+- [Hadi Partovi](entities/HadiPartovi.md) — Board-level technical contributor credited with helping Axon's software-team, cloud-infrastructure, and identity transition.
+- [Skydio](entities/Skydio.md) — Autonomous-drone company partnered with Axon for rapid emergency-scene awareness under mission and human-control limits.
 - [SharkNinja](entities/SharkNinja.md) — U.S. small-appliance company combining local brand and retail access with distributed engineering, rapid product iteration, and demonstration-led channels.
 - [Joyoung / 九阳](entities/Joyoung.md) — Chinese small-appliance company used to separate engineering capability from the market and channel conditions that determine profit capture.
 - [柯柯 / Keke (无时差研究所)](entities/KekeWushicha.md) — 无时差研究所主播，以一级市场换岗经历连接职业窗口、组织信任、生育时序与AI投研。
@@ -19131,6 +19136,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [应翔 / Ying Xiang (film scholar and curator)](entities/YingXiangFilmScholar.md) — 以电影交流史、制度与策展研究中东欧电影跨国传播的学者和策展人。
 
 ## Concepts
+- [Institutional Validation Product-Market Fit](concepts/InstitutionalValidationProductMarketFit.md) — Adoption pattern in which credible professional use and direct demonstration unlock trust for an unfamiliar product.
+- [Body-Camera Evidence Infrastructure](concepts/BodyCameraEvidenceInfrastructure.md) — Capture, storage, access, retrieval, retention, disclosure, and workflow needed to turn police video into governable evidence.
+- [Governed Public-Safety Technology](concepts/GovernedPublicSafetyTechnology.md) — Lifecycle approach constraining safety technology through purpose, authorization, audit, transparency, penalties, and independent review.
+- [Human-Authorized Robotic Force](concepts/HumanAuthorizedRoboticForce.md) — Model separating autonomous mobility from human decision, approval, supervision, and accountability for force.
 - [Cross-Border Consumer Brand Capability Stack / 跨境消费品牌能力栈](concepts/CrossBorderConsumerBrandCapabilityStack.md) — Coordination of local market knowledge, brand and distribution with distributed engineering, supply-chain iteration, marketing, and post-launch learning.
 - [Career Optionality Maintenance / 职业选择权维护](concepts/CareerOptionalityMaintenance.md) — 通过外部市场反馈、技能更新、履历多样性与周期压力测试保留可信的换岗能力。
 - [Career–Fertility Timing Tradeoff / 职业与生育时序权衡](concepts/CareerFertilityTimingTradeoff.md) — 新岗位建立信任所需时间与备孕、生育、恢复、出差及照护安排之间的冲突。

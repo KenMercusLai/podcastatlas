@@ -12735,6 +12735,10 @@
     "title": "Axios",
     "url": "/wiki/entities/axios/"
   },
+  "Axon": {
+    "title": "Axon",
+    "url": "/wiki/entities/axon/"
+  },
   "AyeAye": {
     "title": "Aye-Aye / 爱爱狐猴",
     "url": "/wiki/entities/ayeaye/"
@@ -15442,6 +15446,10 @@
   "BodyBasedSelfTrust": {
     "title": "Body-Based Self-Trust / 身体化自我信任",
     "url": "/wiki/concepts/bodybasedselftrust/"
+  },
+  "BodyCameraEvidenceInfrastructure": {
+    "title": "Body-Camera Evidence Infrastructure",
+    "url": "/wiki/concepts/bodycameraevidenceinfrastructure/"
   },
   "BodyFarmForensicResearch": {
     "title": "Body Farm Forensic Research",
@@ -40307,6 +40315,10 @@
     "title": "Governance Normalization Paradox / 治理规范化悖论",
     "url": "/wiki/concepts/governancenormalizationparadox/"
   },
+  "GovernedPublicSafetyTechnology": {
+    "title": "Governed Public-Safety Technology",
+    "url": "/wiki/concepts/governedpublicsafetytechnology/"
+  },
   "GovernmentAIPaceSetting": {
     "title": "Government AI Pace-Setting",
     "url": "/wiki/concepts/governmentaipacesetting/"
@@ -41666,6 +41678,10 @@
   "Hackpad": {
     "title": "Hackpad",
     "url": "/wiki/entities/hackpad/"
+  },
+  "HadiPartovi": {
+    "title": "Hadi Partovi",
+    "url": "/wiki/entities/hadipartovi/"
   },
   "HadithAuthentication": {
     "title": "Hadith Authentication",
@@ -45727,6 +45743,10 @@
     "title": "Human-Authorized Autonomous Weapons",
     "url": "/wiki/concepts/humanauthorizedautonomousweapons/"
   },
+  "HumanAuthorizedRoboticForce": {
+    "title": "Human-Authorized Robotic Force",
+    "url": "/wiki/concepts/humanauthorizedroboticforce/"
+  },
   "HumanAuthorshipPremium": {
     "title": "Human Authorship Premium",
     "url": "/wiki/concepts/humanauthorshippremium/"
@@ -47734,6 +47754,10 @@
   "InstitutionalTrustAIAdoption": {
     "title": "Institutional Trust in AI Adoption",
     "url": "/wiki/concepts/institutionaltrustaiadoption/"
+  },
+  "InstitutionalValidationProductMarketFit": {
+    "title": "Institutional Validation Product-Market Fit",
+    "url": "/wiki/concepts/institutionalvalidationproductmarketfit/"
   },
   "InstitutionalizedFantasyWorldbuilding": {
     "title": "Institutionalized Fantasy Worldbuilding / 制度化幻想世界构建",
@@ -79095,6 +79119,10 @@
     "title": "Rick Schultz",
     "url": "/wiki/entities/rickschultz/"
   },
+  "RickSmith": {
+    "title": "Rick Smith",
+    "url": "/wiki/entities/ricksmith/"
+  },
   "Ricky": {
     "title": "Ricky",
     "url": "/wiki/entities/ricky/"
@@ -84694,6 +84722,10 @@
   "Skydance": {
     "title": "Skydance",
     "url": "/wiki/entities/skydance/"
+  },
+  "Skydio": {
+    "title": "Skydio",
+    "url": "/wiki/entities/skydio/"
   },
   "SkylandFoodCourt": {
     "title": "食通天 Skyland Food Court",
@@ -106354,6 +106386,10 @@
   "allin-e296-ch-allin-e296-ch": {
     "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
     "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
+  },
+  "allin-intv-ricksmith-ch-allin-intv-ricksmith-ch": {
+    "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
+    "url": "/wiki/sources/allin-intv-ricksmith-ch-allin-intv-ricksmith-ch/"
   },
   "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": {
     "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",

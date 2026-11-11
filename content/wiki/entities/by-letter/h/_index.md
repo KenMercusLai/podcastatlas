@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14014
+wiki_total_pages: 14018
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "Hackpad"
     title: "Hackpad"
     url: "/wiki/entities/hackpad/"
+  - key: "HadiPartovi"
+    title: "Hadi Partovi"
+    url: "/wiki/entities/hadipartovi/"
   - key: "Hadrian"
     title: "Hadrian"
     url: "/wiki/entities/hadrian/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11158
+wiki_total_pages: 11162
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "GovernanceFirstLegalAI"
     title: "Governance-First Legal AI"
     url: "/wiki/concepts/governancefirstlegalai/"
+  - key: "GovernedPublicSafetyTechnology"
+    title: "Governed Public-Safety Technology"
+    url: "/wiki/concepts/governedpublicsafetytechnology/"
   - key: "GovernmentAIPaceSetting"
     title: "Government AI Pace-Setting"
     url: "/wiki/concepts/governmentaipacesetting/"

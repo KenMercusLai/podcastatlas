@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3799
+topic_total_pages: 3803
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1468,6 +1468,9 @@ topic_concepts:
   - key: "BloomTwoSigmaProblem"
     title: "Bloom Two Sigma Problem"
     url: "/wiki/concepts/bloomtwosigmaproblem/"
+  - key: "BodyCameraEvidenceInfrastructure"
+    title: "Body-Camera Evidence Infrastructure"
+    url: "/wiki/concepts/bodycameraevidenceinfrastructure/"
   - key: "BorderSurveillanceRescueFailure"
     title: "Border Surveillance Rescue Failure"
     url: "/wiki/concepts/bordersurveillancerescuefailure/"
@@ -2695,6 +2698,9 @@ topic_concepts:
   - key: "GovernanceFirstLegalAI"
     title: "Governance-First Legal AI"
     url: "/wiki/concepts/governancefirstlegalai/"
+  - key: "GovernedPublicSafetyTechnology"
+    title: "Governed Public-Safety Technology"
+    url: "/wiki/concepts/governedpublicsafetytechnology/"
   - key: "GovernmentAIPaceSetting"
     title: "Government AI Pace-Setting"
     url: "/wiki/concepts/governmentaipacesetting/"
@@ -2902,6 +2908,9 @@ topic_concepts:
   - key: "HumanAuthorizedAutonomousWeapons"
     title: "Human-Authorized Autonomous Weapons"
     url: "/wiki/concepts/humanauthorizedautonomousweapons/"
+  - key: "HumanAuthorizedRoboticForce"
+    title: "Human-Authorized Robotic Force"
+    url: "/wiki/concepts/humanauthorizedroboticforce/"
   - key: "HumanCareAutomationBoundary"
     title: "Human-Care Automation Boundary / 人文照护自动化边界"
     url: "/wiki/concepts/humancareautomationboundary/"
@@ -6671,6 +6680,9 @@ topic_entities:
   - key: "H3C"
     title: "H3C / 华三"
     url: "/wiki/entities/h3c/"
+  - key: "HadiPartovi"
+    title: "Hadi Partovi"
+    url: "/wiki/entities/hadipartovi/"
   - key: "HadriansWall"
     title: "Hadrian's Wall"
     url: "/wiki/entities/hadrianswall/"

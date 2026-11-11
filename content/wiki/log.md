@@ -39147,3 +39147,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing
+
+Added source `allin-intv-ricksmith-ch-allin-intv-ricksmith-ch`; created [[RickSmith|Rick Smith]], [[Axon]], [[HadiPartovi|Hadi Partovi]], [[Skydio]], [[InstitutionalValidationProductMarketFit]], [[BodyCameraEvidenceInfrastructure]], [[GovernedPublicSafetyTechnology]], and [[HumanAuthorizedRoboticForce]]. Core synthesis: Axon's consumer-to-police pivot shows institutional use and direct demonstration as a route to trusted demand; body cameras become valuable only with secure evidence infrastructure and controlled workflows; and connected surveillance, drones, or robots require purpose limits, authorization, audit, disclosed policy, consequences, and independent review, with humans retaining responsibility for force. No settled contradiction was adopted. Company history, scale, market share, product effects, police behavior, community preferences, deterrence, and future-system benefits remain founder-reported or source-scoped, while the ethics-board resignations preserve the gap between consultation and authority. Broad [[AllIn|All-In]], [[PublicSafetyPrivacyTradeoff]], [[PoliceDataAccessAudit]], [[LocalSurveillanceGovernance]], [[CivilLibertiesSurveillanceRisk]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the new judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,907 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

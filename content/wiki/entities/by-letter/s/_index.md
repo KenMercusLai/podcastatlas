@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14014
+wiki_total_pages: 14018
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "Skydance"
     title: "Skydance"
     url: "/wiki/entities/skydance/"
+  - key: "Skydio"
+    title: "Skydio"
+    url: "/wiki/entities/skydio/"
   - key: "Skyscanner"
     title: "Skyscanner"
     url: "/wiki/entities/skyscanner/"

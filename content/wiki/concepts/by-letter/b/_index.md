@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 11158
+wiki_total_pages: 11162
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "BodyBasedSelfTrust"
     title: "Body-Based Self-Trust / 身体化自我信任"
     url: "/wiki/concepts/bodybasedselftrust/"
+  - key: "BodyCameraEvidenceInfrastructure"
+    title: "Body-Camera Evidence Infrastructure"
+    url: "/wiki/concepts/bodycameraevidenceinfrastructure/"
   - key: "BodylineCrisis"
     title: "Bodyline Crisis"
     url: "/wiki/concepts/bodylinecrisis/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11158
+wiki_total_pages: 11162
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "HumanAuthorizedAutonomousWeapons"
     title: "Human-Authorized Autonomous Weapons"
     url: "/wiki/concepts/humanauthorizedautonomousweapons/"
+  - key: "HumanAuthorizedRoboticForce"
+    title: "Human-Authorized Robotic Force"
+    url: "/wiki/concepts/humanauthorizedroboticforce/"
   - key: "HumanCareAutomationBoundary"
     title: "Human-Care Automation Boundary / 人文照护自动化边界"
     url: "/wiki/concepts/humancareautomationboundary/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3478
+topic_total_pages: 3480
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1963,6 +1963,9 @@ topic_concepts:
   - key: "GovernanceFirstLegalAI"
     title: "Governance-First Legal AI"
     url: "/wiki/concepts/governancefirstlegalai/"
+  - key: "GovernedPublicSafetyTechnology"
+    title: "Governed Public-Safety Technology"
+    url: "/wiki/concepts/governedpublicsafetytechnology/"
   - key: "GovernmentAIPaceSetting"
     title: "Government AI Pace-Setting"
     url: "/wiki/concepts/governmentaipacesetting/"
@@ -9561,6 +9564,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485"
     title: "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+  - key: "allin-intv-ricksmith-ch-allin-intv-ricksmith-ch"
+    title: "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing"
+    url: "/wiki/sources/allin-intv-ricksmith-ch-allin-intv-ricksmith-ch/"
   - key: "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06"
     title: "From this day, fourth: Lula’s surprise win"
     url: "/wiki/sources/from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06/"

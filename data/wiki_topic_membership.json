@@ -20456,6 +20456,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BodyCameraEvidenceInfrastructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Bogside": [
     {
       "key": "history",
@@ -43837,6 +43844,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "GovernedPublicSafetyTechnology": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GovernmentAIPaceSetting": [
     {
       "key": "technology",
@@ -45116,6 +45135,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "HadiPartovi": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HadiyaHaidari": [
@@ -48703,6 +48729,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "HumanAuthorizedRoboticForce": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HumanAuthorshipPremium": [
@@ -105256,6 +105289,13 @@
     }
   ],
   "allin-e295-ch-allin-e295-ch": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "allin-intv-ricksmith-ch-allin-intv-ricksmith-ch": [
     {
       "key": "politics",
       "label": "Politics",
