@@ -23357,6 +23357,22 @@
       "updated": "2026-10-30",
       "url": "/wiki/entities/askaimosaic/"
     },
+    "AskHistorians": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/askhistorians/"
+    },
     "AskTheHeartTVDrama": {
       "episode_count": 1,
       "show_count": 1,
@@ -142835,9 +142851,9 @@
       "url": "/wiki/concepts/humanchemicalsignaling/"
     },
     "HumanCommunityDataLicensing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -142845,9 +142861,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/humancommunitydatalicensing/"
     },
     "HumanDataContributorIncentiveAlignment": {
@@ -143100,6 +143123,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/humaninthelooplegalai/"
+    },
+    "HumanKnowledgeCommonsSustainability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/humanknowledgecommonssustainability/"
     },
     "HumanLeadershipUnderAI": {
       "episode_count": 1,
@@ -205425,6 +205464,50 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/modelasproduct/"
     },
+    "ModelCollapse": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260824_MP_TECH_pod_128 [tech_20260824_MP_TECH_pod_128].md",
+          "key": "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI loves negative parallelism",
+          "url": "/wiki/sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "02025-crawford-podcast-v3 [02025-crawford-podcast-v3].md",
+          "key": "kate-crawford-mapping-empires",
+          "show": "Long Now",
+          "title": "Kate Crawford: Mapping Empires",
+          "url": "/wiki/sources/kate-crawford-mapping-empires/"
+        },
+        {
+          "episode_file": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟 [lrS0qgmr9Gy1NbDTrSvN2Lx5dxza].md",
+          "key": "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza",
+          "show": "起朱楼宴宾客",
+          "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
+          "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
+        },
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/modelcollapse/"
+    },
     "ModelCompaniesAsAIInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -221422,9 +221505,9 @@
       "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
     },
     "OpenWebTrafficDecline": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
@@ -221474,9 +221557,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/openwebtrafficdecline/"
     },
     "OperaticPerformanceTraining": {
@@ -233406,9 +233496,9 @@
       "url": "/wiki/concepts/platformauthorizationboundary/"
     },
     "PlatformCommunityGovernance": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
@@ -233437,9 +233527,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/platformcommunitygovernance/"
     },
     "PlatformEraActorVisibilityLabor": {
@@ -242654,6 +242751,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/pseudoproductivity/"
     },
+    "PseudonymousParticipationVerificationTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/pseudonymousparticipationverificationtradeoff/"
+    },
     "PsilocybinMushrooms": {
       "episode_count": 4,
       "show_count": 3,
@@ -249695,9 +249808,9 @@
       "url": "/wiki/concepts/rednearinfraredphotobiomodulation/"
     },
     "Reddit": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332 [default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332].md",
@@ -249754,9 +249867,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/reddit/"
     },
     "RedistrictingBackfireRisk": {
@@ -262547,6 +262667,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/sarahfriar/"
+    },
+    "SarahGilbert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261111_1111_MP_TECH_pod_128 [tech_20261111_1111_MP_TECH_pod_128].md",
+          "key": "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Reddit pivots to a login-only experience",
+          "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/sarahgilbert/"
     },
     "SarahGodfrey": {
       "episode_count": 1,

@@ -11791,6 +11791,10 @@
     "title": "Ask AI (Mosaic predecessor)",
     "url": "/wiki/entities/askaimosaic/"
   },
+  "AskHistorians": {
+    "title": "AskHistorians",
+    "url": "/wiki/entities/askhistorians/"
+  },
   "AskJeeves": {
     "title": "Ask Jeeves",
     "url": "/wiki/entities/askjeeves/"
@@ -45871,6 +45875,10 @@
     "title": "Human Judgment Under AI",
     "url": "/wiki/concepts/humanjudgmentunderai/"
   },
+  "HumanKnowledgeCommonsSustainability": {
+    "title": "Human Knowledge Commons Sustainability",
+    "url": "/wiki/concepts/humanknowledgecommonssustainability/"
+  },
   "HumanLeadershipUnderAI": {
     "title": "Human Leadership Under AI",
     "url": "/wiki/concepts/humanleadershipunderai/"
@@ -75047,6 +75055,10 @@
     "title": "Pseudo-Productivity",
     "url": "/wiki/concepts/pseudoproductivity/"
   },
+  "PseudonymousParticipationVerificationTradeoff": {
+    "title": "Pseudonymous Participation Verification Tradeoff",
+    "url": "/wiki/concepts/pseudonymousparticipationverificationtradeoff/"
+  },
   "PseudoscienceFraudVulnerability": {
     "title": "Pseudoscience Fraud Vulnerability",
     "url": "/wiki/concepts/pseudosciencefraudvulnerability/"
@@ -81446,6 +81458,10 @@
   "SarahFriar": {
     "title": "Sarah Friar",
     "url": "/wiki/entities/sarahfriar/"
+  },
+  "SarahGilbert": {
+    "title": "Sarah Gilbert",
+    "url": "/wiki/entities/sarahgilbert/"
   },
   "SarahGodfrey": {
     "title": "Sarah Godfrey",
@@ -112262,6 +112278,10 @@
   "tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128": {
     "title": "Can communities and data centers find common ground?",
     "url": "/wiki/sources/tech-20261110-1110-mp-tech-pod-128-tech-20261110-1110-mp-tech-pod-128/"
+  },
+  "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128": {
+    "title": "Reddit pivots to a login-only experience",
+    "url": "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

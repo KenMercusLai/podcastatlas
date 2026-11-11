@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11172
+wiki_total_pages: 11174
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"
+  - key: "HumanKnowledgeCommonsSustainability"
+    title: "Human Knowledge Commons Sustainability"
+    url: "/wiki/concepts/humanknowledgecommonssustainability/"
   - key: "HumanLeadershipUnderAI"
     title: "Human Leadership Under AI"
     url: "/wiki/concepts/humanleadershipunderai/"

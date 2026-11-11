@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14026
+wiki_total_pages: 14028
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1922,6 +1922,9 @@ wiki_pages:
   - key: "AskJeeves"
     title: "Ask Jeeves"
     url: "/wiki/entities/askjeeves/"
+  - key: "AskHistorians"
+    title: "AskHistorians"
+    url: "/wiki/entities/askhistorians/"
   - key: "ASML"
     title: "ASML / 阿斯麦"
     url: "/wiki/entities/asml/"

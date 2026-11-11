@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11172
+wiki_total_pages: 11174
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2528,6 +2528,9 @@ wiki_pages:
   - key: "PseudoProductivity"
     title: "Pseudo-Productivity"
     url: "/wiki/concepts/pseudoproductivity/"
+  - key: "PseudonymousParticipationVerificationTradeoff"
+    title: "Pseudonymous Participation Verification Tradeoff"
+    url: "/wiki/concepts/pseudonymousparticipationverificationtradeoff/"
   - key: "PseudoscienceFraudVulnerability"
     title: "Pseudoscience Fraud Vulnerability"
     url: "/wiki/concepts/pseudosciencefraudvulnerability/"

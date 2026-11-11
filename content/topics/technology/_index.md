@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3803
+topic_total_pages: 3805
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2887,6 +2887,9 @@ topic_concepts:
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"
+  - key: "HumanKnowledgeCommonsSustainability"
+    title: "Human Knowledge Commons Sustainability"
+    url: "/wiki/concepts/humanknowledgecommonssustainability/"
   - key: "HumanLeadershipUnderAI"
     title: "Human Leadership Under AI"
     url: "/wiki/concepts/humanleadershipunderai/"
@@ -10713,6 +10716,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280"
     title: "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+  - key: "tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128"
+    title: "Reddit pivots to a login-only experience"
+    url: "/wiki/sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128/"
   - key: "tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128"
     title: "Regulating the tech sector in the AI era"
     url: "/wiki/sources/tech-20261015-1015-mp-tech-pod-128-tech-20261015-1015-mp-tech-pod-128/"
