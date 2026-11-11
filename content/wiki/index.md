@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP88-年轻一代丧失的X生活](sources/ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223.md) — 无时差研究所从住房、工作、约会门槛、数字替代、性教育与低欲望讨论年轻人性生活下降，并区分频率、欲望、满足、关系进入和自主选择。
 - [《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？](sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt.md) — 芮淇讲透资治通鉴区分荆南四郡与南郡或江陵转移，并以曹操取汉中后的伐蜀建议讨论联盟修复、战略窗口与收缩。
 - [Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing](sources/allin-intv-ricksmith-ch-allin-intv-ricksmith-ch.md) — All-In interview on Axon's Taser origins, institutional product validation, body-camera and cloud transition, surveillance governance, drones, and human-authorized robotic force.
 - [九阳净利润大跌近 75%，它的美国「亲戚」怎么越赚越多？](sources/jiuyang-jinglirun-dadie-jin-75-ta-de-meiguo-qinqi-zenme-yue-zhuan-yue-duo-gkwriueoyniragzajwt5lgbb.md) — 声动早咖啡以SharkNinja对比九阳等中国小家电企业，解释本地品牌渠道、中国研发供应链、社交展示与多渠道如何共同支撑品类扩张。

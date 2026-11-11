@@ -7,7 +7,8 @@ sources:
   - vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9
   - vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd
   - vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo
-last_updated: 2026-09-27
+  - ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223
+last_updated: 2026-11-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,9 +26,11 @@ VOL.84 supplies the strongest practical bridge between those stages. It joins [[
 
 VOL.77 adds a shame-prevention test for whether this education arrives in time. Wang describes an adult repeatedly seeking reassurance about whether masturbation is harmful and traces his school outreach to the belief that such questions should have become safely discussable during adolescence. The point is not blanket reassurance about every behavior: frequency, distress, interference, compulsivity, and symptoms still matter. It is that moral guilt and misinformation should not substitute for functional assessment or qualified care.
 
+A family-transition failure occurs when parents prohibit dating and sexual discussion during adolescence, then abruptly expect marriage and childbirth in adulthood. When parents cannot model or discuss intimacy and frame sex only as reproduction, young people may rely on pornography, film, fragmented online advice, or trial and error. This reinforces the life-course need while remaining a conversational observation rather than an evaluated family-education model.
+
 ## Key Claims
 - Sexual learning should follow changing life stages rather than ending after adolescence, while timely early education should make masturbation, sexual-function variation, symptoms, and help-seeking discussable before shame becomes an adult care barrier.
-- Parents can begin with body knowledge, privacy, consent, and truthful answers before puberty, then add age-matched physiological and relationship content.
+- Parents can begin with body knowledge, privacy, consent, and truthful answers before puberty, then add age-matched physiological and relationship content instead of jumping from prohibition to demands for marriage and reproduction.
 - Accurate sex education competes with porn, abstinence-only messages, shame, and fragmented online answers as default teachers.
 - Adult and midlife sexual learning often centers communication, fatigue, relationship safety, dysfunction, and changing desire.
 - Sex education should include pleasure, identity, preference, orientation, and relationship choice, not only risk avoidance.
@@ -43,15 +46,17 @@ VOL.77 adds a shame-prevention test for whether this education arrives in time. 
 - Practical prevention and care - [[vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd|VOL.84]] connects consent, condoms, lubrication, sexual pain, unintended pregnancy, infection prevention, examinations, and qualified care.
 - Inclusion across age and disability - [[vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd|VOL.84]] argues that older and disabled people's needs should be visible in sexual-health education and support.
 - Shame prevention and help-seeking - [[vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo|VOL.77]] links unanswered adolescent masturbation questions with adult guilt, repeated reassurance-seeking, and advertising-led self-diagnosis.
+- Family-transition gap - [[ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223]] describes the contradiction between forbidding adolescent relationships and later demanding rapid marriage and childbirth, leaving media or private experimentation to fill missing education.
 
 ## Counterevidence & Qualifications
-The sources do not provide a formal curriculum or empirical evaluation of sex-education programs. “From birth” describes a life-course orientation, not identical content at every age. Development, comprehension, disability, communication needs, family context, local law, culture, schools, medical professionals, and safeguarding standards shape wording and implementation. Privacy education should support disclosure and protection without implying that a child is responsible for preventing abuse. VOL.77's masturbation, sexual-function, and medical thresholds and VOL.84's product, contraception, procedure, HPV, and sterilization details remain source-scoped public education rather than individualized clinical guidance.
+The sources do not provide a formal curriculum or empirical evaluation of sex-education programs. “From birth” describes a life-course orientation, not identical content at every age. Development, comprehension, disability, communication needs, family context, local law, culture, schools, medical professionals, and safeguarding standards shape wording and implementation. Privacy education should support disclosure and protection without implying that a child is responsible for preventing abuse. VOL.77's masturbation, sexual-function, and medical thresholds and VOL.84's product, contraception, procedure, HPV, and sterilization details remain source-scoped public education rather than individualized clinical guidance. EP88's generational and family claims are anecdotal and should not be generalized to all parents or cultures.
 
 ## What Changed
 - Added practical prevention, pain, infection, pregnancy, examination, and qualified-care literacy.
 - Added explicit responsibility allocation that does not make potential victims or children solely responsible for preventing abuse.
 - Expanded later-life inclusion from older adulthood to disability, access, support, and person-led dignity.
 - Added prevention of masturbation guilt and shame-driven delayed care as a reason for timely adolescent education.
+- Added the prohibition-to-marriage family-transition gap and the risk that silence leaves media as the default educator.
 
 ## Related Concepts
 - [[SexualExplorationAsSelfKnowledge]] - exploration content that lifelong education supports.

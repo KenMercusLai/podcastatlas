@@ -6,7 +6,8 @@ sources:
   - science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085
   - how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639
   - tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128
-last_updated: 2026-10-21
+  - ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223
+last_updated: 2026-11-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,10 +21,10 @@ The source treats dating apps as the setting where marketplace models of attract
 
 That app logic is not presented as the whole dating world. Eastwick contrasts it with ordinary acquaintanceship, where repeated contact, friends, group activities, responsiveness, and shared narratives can create [[IdiosyncraticAttraction]] that profile ranking would miss. Gottlieb adds the choice-overload problem: app abundance can encourage maximizers to keep comparing real people with imagined alternatives, turning mutual courtship into unilateral shopping and reducing satisfaction with a genuinely good option.
 
-At the platform-operating layer, a swipe marketplace needs local reciprocal liquidity and generational relevance, while successful matches may remove satisfied users and unsuccessful matches may retain frustrated ones. AI curation could reduce browsing volume, but no supplied evidence establishes that platform data can predict pair-specific compatibility at scale.
+At the platform-operating layer, a swipe marketplace needs local reciprocal liquidity and generational relevance, while successful matches may remove satisfied users and unsuccessful matches may retain frustrated ones. Abundant profiles can still produce little intimacy because matching, replies, conversation, safety, mutual intent, meeting, offline chemistry, privacy, and rejection are successive gates rather than one solved discovery problem. AI curation could reduce browsing volume, but no supplied evidence establishes that platform data can predict pair-specific compatibility at scale.
 
 ## Key Claims
-- Dating apps amplify first-impression selection because profiles foreground visible traits before shared context exists.
+- Dating apps amplify first-impression selection because profiles foreground visible traits before shared context exists, while a match remains only an intermediate signal before replies, meeting, safety, chemistry, and mutual intent.
 - Unequal attention can become self-reinforcing when users infer desirability from perceived demand or peer interest.
 - App filters can help with genuine deal-breakers but can overstate how well abstract preferences predict face-to-face attraction.
 - The app context can be useful for some people, including some same-gender daters, but it remains a partial dating environment rather than a complete compatibility test.
@@ -40,13 +41,15 @@ At the platform-operating layer, a swipe marketplace needs local reciprocal liqu
 - Choice-overload claim: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] applies the paradox of choice and the maximizer-satisficer distinction to app dating.
 - Shopping qualification: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] warns that dating is mutual choosing and asks people to examine their own dating difficulties alongside partner criteria.
 - Platform constraint: [[tech-20261021-1021-mp-tech-pod-128-tech-20261021-1021-mp-tech-pod-128]] connects dating apps to local network effects, generational platform preference, swipe fatigue, successful-user exit, and uncertain AI curation.
+- Match-to-meeting attrition: [[ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223]] says visible matches can remain game-like or stall before replies, conversation, meeting, safety, and real-world attraction are established.
 
 ## Counterevidence & Qualifications
-Eastwick says dating-app companies generally do not share data with researchers, so the app evidence remains incomplete. Apps can solve real discovery problems and should not be treated only as harmful. The concept also should not be generalized to all attraction because repeated contact can sharply change what people want or perceive. Gottlieb's paradox-of-choice application is a broad interpretive frame, not proof that more options reduce satisfaction for every user. The Bumble episode supplies no user-level data, cohort analysis, matching outcomes, or AI evaluation, so its network, retention, and automation claims remain hypotheses rather than measured platform effects.
+Eastwick says dating-app companies generally do not share data with researchers, so the app evidence remains incomplete. Apps can solve real discovery problems and should not be treated only as harmful. The concept also should not be generalized to all attraction because repeated contact can sharply change what people want or perceive. Gottlieb's paradox-of-choice application is a broad interpretive frame, not proof that more options reduce satisfaction for every user. The Bumble episode supplies no user-level data, cohort analysis, matching outcomes, or AI evaluation. The 2019 episode likewise supplies anecdotes rather than funnel data, so match-to-meeting attrition and choice fatigue remain plausible mechanisms rather than measured effects.
 
 ## What Changed
 - Added choice overload, maximizer behavior, and the mutual-selection limit on treating app dating as shopping.
 - Added local-liquidity, generational-relevance, success-churn, and AI-curation constraints from the Bumble case.
+- Added the successive-gate distinction between visible matching and replies, conversation, safety, meeting, chemistry, and mutual intent.
 
 ## Related Concepts
 - [[IdiosyncraticAttraction]] - contrast because pair-specific attraction can emerge after app-style ranking loses force.

@@ -39178,3 +39178,11 @@ Added source `yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_l
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | EP88-年轻一代丧失的X生活
+
+Added source `ep88-nianqing-yidai-sangshi-de-x-shenghuo-wkgo1v5-2scd6kefbtupxkbpxv0223`; resynthesized [[SexualAnxietyRelationshipContext]], [[ModernRomanceSlump]], [[DatingAppMarketplaceDynamics]], [[LifelongSexEducation]], [[DigitalSexualSubstituteRisk]], and [[LowDesireDefensiveContraction]] from each page's complete preserved evidence inventory before appending the new source once; and migrated the low-desire page to `synthesis-v1`. Core synthesis: declining partnered sexual activity cannot be reduced to disappearing desire because privacy, housing cost, work pressure, fatigue, app-to-meeting attrition, rejection, partner fit, agency, and lower-friction solo stimulation affect different parts of the pathway. No settled contradiction was adopted. International statistics, city-tier comparisons, gender patterns, technology effects, reward-system claims, marriage-age policy, and causal explanations remain incompletely sourced, anecdotal, speculative, or episode-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,911 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
