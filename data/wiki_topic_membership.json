@@ -23066,6 +23066,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CausalNarrativeChronologySeparation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "CausalWorldModels": [
     {
       "key": "technology",
@@ -115065,6 +115072,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662": [

@@ -6,7 +6,8 @@ tags: [campaign, late-han, three-kingdoms, hanzhong, cao-cao, zhang-lu]
 sources:
   - zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv
   - zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt
-last_updated: 2026-11-11
+  - zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p
+last_updated: 2026-11-12
 ---
 
 ## Overview
@@ -21,6 +22,8 @@ The victory does not end with seizure. Zhang Lu leaves government stores intact 
 
 The strategic aftermath turns battlefield success into a disputed expansion decision. [[zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt|Hanji 1153]] has [[SimaYi|司马懿]] and [[LiuYeLateHan|刘晔]] argue that Liu Bei's new Yizhou regime remains unsettled and will become harder to attack once civil government and mountain defenses stabilize. Cao Cao refuses, revisits the question after seven days, and then withdraws while delegating Hanzhong defense. The source calls this a lost window, but its own missing comparison of terrain, supply, force condition, season, and succession politics prevents the page from treating immediate conquest as a proven feasible alternative.
 
+Hanji 1155 reinforces the surrender signal by adding honors for Zhang Lu's family, [[YanPuLateHan|阎圃]], and associated followers, then follows the pressure south into the Ba region through [[HuangQuanLateHan|黄权]], [[ZhangHeLateHan|张郃]], and [[ZhangFei|张飞]]. It also makes the Cao Pi-Cao Zhi succession struggle the main explanation for withdrawal. That political constraint is plausible but does not displace the operational qualifications already established. The episode itself says several Ba and Guanzhong events were placed beside 215 material despite occurring later, so they belong to the campaign's narrative reception and strategic aftermath rather than one continuous 215 operation.
+
 ## Key Characteristics
 
 - Begins with internal stabilization, concealed logistical concentration, and uncertainty about the true objective.
@@ -29,6 +32,7 @@ The strategic aftermath turns battlefield success into a disputed expansion deci
 - Turns from planned withdrawal to victory after an accidental night penetration is verified and exploited.
 - Converts conquest into incorporation through preserved stores, reassurance, rank, and office.
 - Opens a disputed follow-on window against Yizhou, then shifts from direct expansion to delegated frontier defense.
+- Produces continuing pressure in the Ba frontier while requiring a distinction between causal narrative grouping and the actual chronology of later events.
 
 ## Evidence
 
@@ -47,15 +51,21 @@ The strategic aftermath turns battlefield success into a disputed expansion deci
 ### Follow-on decision and withdrawal
 
 - [[zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt|Hanji 1153]] presents Sima Yi and Liu Ye's immediate-invasion advice, Cao Cao's refusal and later reconsideration, and the delegation of Hanzhong defense before withdrawal.
+- [[zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p|Hanji 1155]] adds the succession struggle as a proposed reason for Cao Cao's return and connects Hanzhong's transfer to later Ba-region operations.
+
+### Narrative chronology
+
+- [[zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p|Hanji 1155]] says the Huang Quan, Zhang Fei-Zhang He, and Zhao Yan cases are grouped near 215 for causal continuity despite being assigned to later years by the episode.
 
 ## Qualifications
 
-The current page rests on two consecutive structured podcast summaries, not a critical campaign reconstruction. Exact routes, dates, forces, casualty and grain conditions, individual agency in the night entry, dialogue, motives, office grants, and the relative weight of chance remain source-scoped. The seven-day window does not establish that an invasion of Yizhou was logistically or politically feasible, and the host's age, fatigue, poetry, and succession explanations cannot be ranked as causes from this evidence. “Campaign” here groups operations, settlement, and immediate aftermath without claiming that every phase followed one stable master plan.
+The current page rests on three structured podcast summaries, not a critical campaign reconstruction. Exact routes, dates, forces, casualty and grain conditions, individual agency in the night entry, dialogue, motives, office grants, and the relative weight of chance remain source-scoped. The seven-day window does not establish that an invasion of Yizhou was logistically or politically feasible, and the hosts' age, fatigue, poetry, and succession explanations cannot be ranked as causes from this evidence. Hanji 1155's proposed 217-219 dates and compiler-intent explanation require direct comparison with the underlying histories. “Campaign” here groups operations, settlement, and immediate aftermath without claiming that every adjacent event occurred in 215 or followed one stable master plan.
 
 ## What Changed
 
-- Added the disputed post-victory invasion window and Cao Cao's shift to delegated Hanzhong defense.
-- Qualified the “lost chance to unify” judgment with missing logistics, terrain, force, seasonal, and political evidence.
+- Added the expanded surrender signal and Ba-frontier consequences from Hanji 1155.
+- Separated later events grouped with the campaign from the campaign's strict 215 chronology.
+- Preserved succession politics as one competing withdrawal constraint rather than a proven sole cause.
 
 ## Relationships
 
@@ -67,3 +77,6 @@ The current page rests on two consecutive structured podcast summaries, not a cr
 - [[StrategicForbearanceGovernance|退让留余地式治理]] - connects punishment restraint and post-victory off-ramps to preserved cooperation.
 - [[YizhouLateHan|益州]] - proposed follow-on target whose consolidation changes the timing argument.
 - [[LiuYeLateHan|刘晔]] - adviser who presses the short-window case and later says the opportunity has passed.
+- [[ZhangFei|张飞]], [[ZhangHeLateHan|张郃]], and [[HuangQuanLateHan|黄权]] - actors through whom Hanzhong's transfer changes the Ba frontier.
+- [[PoliticalSurrenderCascade|招降示范级联]] - explains how rewards for Zhang Lu's group can affect other actors' resistance calculations.
+- [[CausalNarrativeChronologySeparation|因果叙事与事件编年分离]] - distinguishes the campaign's narrative aftermath from strict event dating.

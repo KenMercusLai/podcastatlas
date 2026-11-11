@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11176
+wiki_total_pages: 11178
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "SelectServiceHotelModel"
     title: "Select-Service Hotel Model / 精选服务酒店模式"
     url: "/wiki/concepts/selectservicehotelmodel/"
+  - key: "SelectiveAmnestyPhasedForceSeparation"
+    title: "Selective Amnesty and Phased Force Separation / 选择性赦免与分批换防"
+    url: "/wiki/concepts/selectiveamnestyphasedforceseparation/"
   - key: "SelectiveAnthemCanonization"
     title: "Selective Anthem Canonization"
     url: "/wiki/concepts/selectiveanthemcanonization/"

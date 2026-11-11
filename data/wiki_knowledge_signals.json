@@ -44816,6 +44816,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/cattlecycleprocessormarginsqueeze/"
     },
+    "CausalNarrativeChronologySeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/causalnarrativechronologyseparation/"
+    },
     "CecilRhodes": {
       "episode_count": 1,
       "show_count": 1,
@@ -130551,9 +130567,9 @@
       "url": "/wiki/entities/hanyaofu/"
     },
     "HanzhongCampaign215": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
@@ -130568,9 +130584,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt/"
+        },
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
         }
       ],
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/hanzhongcampaign215/"
     },
     "HaoJieTaiyuanLateHan": {
@@ -141277,9 +141300,9 @@
       "url": "/wiki/entities/huangqionglatehan/"
     },
     "HuangQuanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？ [lkZAU4JSD4OcgKGw8cg9jJwSHhlM].md",
@@ -141287,9 +141310,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1124丨刘璋请刘备入蜀，是求生还是送死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1124-liuzhang-qing-liubei-ru-shu-shi-qiusheng-haishi-songsi-lkzau4jsd4ocgkgw8cg9jjwshhlm/"
+        },
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
         }
       ],
-      "updated": "2026-10-13",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/huangquanlatehan/"
     },
     "HuangRong": {
@@ -265856,6 +265886,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/selectiondrivenvirtuesignaling/"
     },
+    "SelectiveAmnestyPhasedForceSeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/selectiveamnestyphasedforceseparation/"
+    },
     "SelectiveAnthemCanonization": {
       "episode_count": 1,
       "show_count": 1,
@@ -332865,9 +332911,9 @@
       "url": "/wiki/entities/zhangfangwesternhan/"
     },
     "ZhangFei": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
@@ -332889,9 +332935,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        },
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/zhangfei/"
     },
     "ZhangFengZhuoEasternHan": {
@@ -332964,9 +333017,9 @@
       "url": "/wiki/entities/zhanghaoremonstratorlatehan/"
     },
     "ZhangHeLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强 [lvTuTWyhrIx4RhiyPa9DKNZ3DA1M].md",
@@ -332981,9 +333034,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1140丨自我认知缺失，如何毁掉一代枭雄马超？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1140-ziwo-renzhi-queshi-ruhe-huidiao-yidai-xiaoxiong-machao-lkpfzorf-o-zilyczvepedryc7ouk/"
+        },
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/zhanghelatehan/"
     },
     "ZhangHeWesternHan": {
@@ -336304,9 +336364,9 @@
       "url": "/wiki/entities/zhaoxuanwesternhan/"
     },
     "ZhaoYanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择 [lgMBekoMxwiU7HjnPXKXGGyhvwaF].md",
@@ -336328,9 +336388,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil/"
+        },
+        {
+          "episode_file": "lsurImKB646QWUmYxv0YxiOrDA_p [lsurImKB646QWUmYxv0YxiOrDA_p].md",
+          "key": "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZhaoYanYilangLateHan": {

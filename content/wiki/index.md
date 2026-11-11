@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？](sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p.md) — 芮淇讲透资治通鉴以张鲁受降、巴西争夺、赵俨分阶段平乱及跨年事件编排，讨论招降信号、危机处置与叙事次序和实际年代的区别。
 - [《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？](sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo.md) — 芮淇讲透资治通鉴以崔琰书信被政治化、丁仪的间接归因、曹丕曹植继承竞争及毛玠案中的证据争议解释曹操称王后的清理逻辑。
 - [How bodegas led to the Yemeni coffeehouse explosion](sources/default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773.md) — Planet Money uses a Brooklyn cafe-and-deli family story to connect Yemeni coffeehouses with immigrant industry clustering, informal finance, community business infrastructure, and second-generation adaptation.
 - [Reddit pivots to a login-only experience](sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128.md) — Marketplace Tech connects Reddit's login wall to AI-summary traffic loss, contributor incentives, fresh human data, bot verification, and pseudonymous participation.
@@ -19166,6 +19167,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [温小倩 / Wen Xiaoqian](entities/WenXiaoqian.md) — 运动心理学博士与咨询师，以长期、个体化、跨专业协同的方式支持高水平运动员应对压力、表现与心理健康。
 
 ## Concepts
+- [Selective Amnesty and Phased Force Separation / 选择性赦免与分批换防](concepts/SelectiveAmnestyPhasedForceSeparation.md) — 以只追首恶、保留退出路径和分批换防，把即时平乱与长期兵权风险分开处理。
+- [Causal Narrative and Event Chronology Separation / 因果叙事与事件编年分离](concepts/CausalNarrativeChronologySeparation.md) — 区分事件在史书中的因果性编排位置与其实际发生年代，并要求以平行史料核对。
 - [Immigrant Industry Clustering](concepts/ImmigrantIndustryClustering.md) — Community specialization that circulates jobs, training, finance, tacit knowledge, and trusted business entry.
 - [Second-Generation Business Adaptation](concepts/SecondGenerationBusinessAdaptation.md) — Recombination of inherited family-business capabilities into a changed product, market, or operating model.
 - [Human Knowledge Commons Sustainability](concepts/HumanKnowledgeCommonsSustainability.md) — How open human knowledge remains renewable when AI answers, licensing, access walls, and contribution incentives interact.

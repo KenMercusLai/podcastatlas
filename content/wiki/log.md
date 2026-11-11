@@ -39226,3 +39226,11 @@ Added source `zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daod
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | 《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？
+
+Added source `zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p`; created [[SelectiveAmnestyPhasedForceSeparation|选择性赦免与分批换防]] and [[CausalNarrativeChronologySeparation|因果叙事与事件编年分离]]; and resynthesized [[HanzhongCampaign215|曹操西征汉中（215年）]], [[ZhaoYanLateHan|赵俨]], [[ZhangHeLateHan|张郃]], [[HuangQuanLateHan|黄权]], and [[ZhangFei|张飞]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: favorable treatment of Zhang Lu's group makes surrender a public signal; the Hanzhong transfer pushes strategic pressure into Ba without proving that all adjacent fighting occurred in 215; Zhao Yan combines bounded punishment, amnesty, and phased transfer to separate immediate order from longer-term command trust; and narrative adjacency in an annalistic history must be distinguished from event chronology. No settled contradiction was adopted. The episode's proposed 217-219 dates, compiler intent, troop and migration totals, routes, battle mechanics, pardon and transfer sequence, and succession explanation for Cao Cao's withdrawal remain episode-attributed or source-scoped pending direct textual comparison. Broad [[CaoCao|曹操]], [[LiuBei|刘备]], [[SimaYi|司马懿]], [[CaoPi|曹丕]], [[CaoZhi|曹植]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,917 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

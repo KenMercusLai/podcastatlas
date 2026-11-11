@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2779
+topic_total_pages: 2781
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -178,6 +178,9 @@ topic_concepts:
   - key: "Cathars"
     title: "Cathars"
     url: "/wiki/concepts/cathars/"
+  - key: "CausalNarrativeChronologySeparation"
+    title: "Causal Narrative and Event Chronology Separation / 因果叙事与事件编年分离"
+    url: "/wiki/concepts/causalnarrativechronologyseparation/"
   - key: "CavalryShockCommandStrike"
     title: "Cavalry Shock Command Strike / 骑兵奇袭指挥中枢"
     url: "/wiki/concepts/cavalryshockcommandstrike/"
@@ -7791,6 +7794,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs"
     title: "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？"
     url: "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
+  - key: "zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p"
+    title: "《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p/"
   - key: "zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662"
     title: "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）"
     url: "/wiki/sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662/"
