@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [九阳净利润大跌近 75%，它的美国「亲戚」怎么越赚越多？](sources/jiuyang-jinglirun-dadie-jin-75-ta-de-meiguo-qinqi-zenme-yue-zhuan-yue-duo-gkwriueoyniragzajwt5lgbb.md) — 声动早咖啡以SharkNinja对比九阳等中国小家电企业，解释本地品牌渠道、中国研发供应链、社交展示与多渠道如何共同支撑品类扩张。
 - [EP393-“30+”找工作跳槽，我们在担忧什么？| 一起渡过人生的奥德赛时刻](sources/ep393-30-zhaogongzuo-tiaocao-women-zai-danyou-shenme-yiqi-duguo-rensheng-de-aodesai-shike-gkwrirwoyp8hael-1gt5tggj.md) — 无时差研究所以柯柯的投资行业跳槽经历讨论职业选择权、组织信任、生育时序、AI时代的年龄与经验，以及工作之外的人生支点。
 - [The Future of Human Communication: AI, Bionics and Voice Technology | Konrad Zielinski x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322-default-mp3-ywr3ahjkcgo-ae8e01990c3b91805b3e0c620f1c1333-32608322.md) — Tomorrow Today interview on expressive bionic speech, low-latency on-device conversion, human control, voice-data ownership, identity authentication, reimbursement, and assistive-device destigmatization.
 - [VOL.226半夜报复性熬夜，白天浓咖啡续命？对话张健主委：被“剥夺”的睡眠，是如何一步步榨干心脏的？](sources/vol-226-banye-baofuxing-aoye-baitian-nongkafei-xuming-duihua-zhangjian-zhuwei-bei-boduo-de-shuimian-shi-ruhe-yibubu-zhagan-xinzang-de-lkc710h5gqsce735jwmp9mhwewsy.md) — 这病说来话长以睡眠剥夺、咖啡因、穿戴设备、周末突击运动和家族史解释心脏警示信号为何需要结合恢复、负荷与临床语境判断。
@@ -5026,6 +5027,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [When chips are down: Nvidia CEO’s risky relationship](sources/when-chips-are-down-nvidia-ceos-risky-relationship-84731c33d26d5f49946107a5e4379986.md) — Economist Podcasts report on allegations around Jensen Huang, conflict-constrained Ebola containment in eastern Congo, and West Virginia’s Roadkill Cook-Off as a study in culinary thrift and regional identity.
 
 ## Entities
+- [SharkNinja](entities/SharkNinja.md) — U.S. small-appliance company combining local brand and retail access with distributed engineering, rapid product iteration, and demonstration-led channels.
+- [Joyoung / 九阳](entities/Joyoung.md) — Chinese small-appliance company used to separate engineering capability from the market and channel conditions that determine profit capture.
 - [柯柯 / Keke (无时差研究所)](entities/KekeWushicha.md) — 无时差研究所主播，以一级市场换岗经历连接职业窗口、组织信任、生育时序与AI投研。
 - [芒芭芭 / Mangbaba (无时差研究所)](entities/MangbabaWushicha.md) — 无时差研究所主播，强调可逆性、生活自主、女性机会与工作之外的多元身份。
 - [Konrad Zieliński](entities/KonradZielinski.md) — Uhura Bionics founder-user connecting laryngectomy experience to expressive speech engineering, voice agency, and data rights.
@@ -19128,6 +19131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [应翔 / Ying Xiang (film scholar and curator)](entities/YingXiangFilmScholar.md) — 以电影交流史、制度与策展研究中东欧电影跨国传播的学者和策展人。
 
 ## Concepts
+- [Cross-Border Consumer Brand Capability Stack / 跨境消费品牌能力栈](concepts/CrossBorderConsumerBrandCapabilityStack.md) — Coordination of local market knowledge, brand and distribution with distributed engineering, supply-chain iteration, marketing, and post-launch learning.
 - [Career Optionality Maintenance / 职业选择权维护](concepts/CareerOptionalityMaintenance.md) — 通过外部市场反馈、技能更新、履历多样性与周期压力测试保留可信的换岗能力。
 - [Career–Fertility Timing Tradeoff / 职业与生育时序权衡](concepts/CareerFertilityTimingTradeoff.md) — 新岗位建立信任所需时间与备孕、生育、恢复、出差及照护安排之间的冲突。
 - [Experience–Speed Complementarity Under AI / AI时代的经验—速度互补](concepts/ExperienceSpeedComplementarityUnderAI.md) — 区分AI加速的信息工作与跨周期经验、抽象、领导和最终判断的互补价值。

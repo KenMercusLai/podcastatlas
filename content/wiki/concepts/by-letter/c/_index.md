@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11157
+wiki_total_pages: 11158
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3131,6 +3131,9 @@ wiki_pages:
   - key: "CrossBorderBrokerageRegulation"
     title: "Cross-Border Brokerage Regulation"
     url: "/wiki/concepts/crossborderbrokerageregulation/"
+  - key: "CrossBorderConsumerBrandCapabilityStack"
+    title: "Cross-Border Consumer Brand Capability Stack / 跨境消费品牌能力栈"
+    url: "/wiki/concepts/crossborderconsumerbrandcapabilitystack/"
   - key: "CrossBorderCrimeSanctuary"
     title: "Cross-Border Crime Sanctuary / 跨境犯罪庇护地"
     url: "/wiki/concepts/crossbordercrimesanctuary/"
