@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14020
+wiki_total_pages: 14021
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "WenYiBixueJian"
     title: "温仪（《碧血剑》） / Wen Yi"
     url: "/wiki/entities/wenyibixuejian/"
+  - key: "WenXiaoqian"
+    title: "温小倩 / Wen Xiaoqian"
+    url: "/wiki/entities/wenxiaoqian/"
   - key: "WenXuEasternHan"
     title: "温序 / Wen Xu (Eastern Han)"
     url: "/wiki/entities/wenxueasternhan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11163
+wiki_total_pages: 11166
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "OpticalTransponders"
     title: "Optical Transponders"
     url: "/wiki/concepts/opticaltransponders/"
+  - key: "OptimalPerformanceRange"
+    title: "Optimal Performance Range / 最佳表现区间"
+    url: "/wiki/concepts/optimalperformancerange/"
   - key: "OptimismGap"
     title: "Optimism Gap"
     url: "/wiki/concepts/optimismgap/"

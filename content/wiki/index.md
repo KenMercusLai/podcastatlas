@@ -5030,6 +5030,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [《资治通鉴·汉纪》1154丨曹操如何仅凭一枚锦囊破敌10万？](sources/zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-10-wan-lmxtopnmefh5wdum5fiyjodngxxf.md) — 芮淇讲透资治通鉴讲述215年合肥之战，以预设分工、先制突击、将领协作与撤军追击解释弱势守军如何改变双方士气。
 
+- [运动员最大的对手，是自己的大脑](sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae.md) — 不合时宜对谈温小倩，讨论长期运动心理保障、最佳表现区间、压力下的心理灵活性、过程注意与协同心理健康干预。
+
 ## Entities
 - [Rick Smith](entities/RickSmith.md) — Axon founder and CEO connecting non-lethal product development, platform transformation, and human-controlled public-safety technology.
 - [Axon](entities/Axon.md) — Public-safety company evolving from Taser hardware into body cameras, cloud evidence, drones, and integrated response systems.
@@ -19141,6 +19143,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [合肥之战 / Battle of Hefei (215)](entities/HefeiBattle215.md) — 215年张辽、李典以先制突击配合城防并在孙权撤军时追击的合肥战役。
 - [谷利 / Gu Li (late Han)](entities/GuLiLateHan.md) — 合肥撤军危机中以具体骑术指令帮助孙权跃过断桥的东吴护卫人物。
 
+- [温小倩 / Wen Xiaoqian](entities/WenXiaoqian.md) — 运动心理学博士与咨询师，以长期、个体化、跨专业协同的方式支持高水平运动员应对压力、表现与心理健康。
+
 ## Concepts
 - [Institutional Validation Product-Market Fit](concepts/InstitutionalValidationProductMarketFit.md) — Adoption pattern in which credible professional use and direct demonstration unlock trust for an unfamiliar product.
 - [Body-Camera Evidence Infrastructure](concepts/BodyCameraEvidenceInfrastructure.md) — Capture, storage, access, retrieval, retention, disclosure, and workflow needed to turn police video into governable evidence.
@@ -30410,5 +30414,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Appalachian Culinary Resourcefulness](concepts/AppalachianCulinaryResourcefulness.md) — Regional food practice that turns available or devalued ingredients into skilled, low-waste cooking while negotiating humor, tourism, and stereotype.
 
 - [先制士气震慑 / Preemptive Morale Shock](concepts/PreemptiveMoraleShock.md) — 弱势守军在敌军完成集结前以有限突击同时削弱敌方锐气、稳定己方信心的时机策略。
+
+- [Elite-Sport Psychological Support System / 高水平运动心理保障体系](concepts/EliteSportPsychologicalSupportSystem.md) — 将表现心理、教练、医疗、负荷管理、社会支持与临床转介长期协调起来的运动员保障体系。
+- [Optimal Performance Range / 最佳表现区间](concepts/OptimalPerformanceRange.md) — 运动员在正常状态波动中仍可有效执行的、因人因项目而异的激活与注意区间。
+- [Psychological Flexibility Under Performance Pressure / 表现压力下的心理灵活性](concepts/PsychologicalFlexibilityUnderPerformancePressure.md) — 不要求焦虑或不完美状态先消失，仍能回到有价值且可控行动的能力。
 
 ## Syntheses

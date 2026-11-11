@@ -38082,9 +38082,9 @@
       "url": "/wiki/entities/brunoretailleau/"
     },
     "BuHeShiYi": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -38134,9 +38134,16 @@
           "show": "不合时宜",
           "title": "“打工诗人”小海：做一块滚石，泥沙俱下，也不停下",
           "url": "/wiki/sources/dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12/"
+        },
+        {
+          "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
+          "key": "yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae",
+          "show": "不合时宜",
+          "title": "运动员最大的对手，是自己的大脑",
+          "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
         }
       ],
-      "updated": "2026-11-06",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/buheshiyi/"
     },
     "BuShiWesternHan": {
@@ -87346,6 +87353,22 @@
       ],
       "updated": "2026-10-30",
       "url": "/wiki/concepts/elitepersonalserviceroleblurring/"
+    },
+    "EliteSportPsychologicalSupportSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
+          "key": "yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae",
+          "show": "不合时宜",
+          "title": "运动员最大的对手，是自己的大脑",
+          "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/elitesportpsychologicalsupportsystem/"
     },
     "ElizaHamilton": {
       "episode_count": 1,
@@ -221781,6 +221804,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
     },
+    "OptimalPerformanceRange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
+          "key": "yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae",
+          "show": "不合时宜",
+          "title": "运动员最大的对手，是自己的大脑",
+          "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/optimalperformancerange/"
+    },
     "Optogenetics": {
       "episode_count": 3,
       "show_count": 3,
@@ -240867,9 +240906,9 @@
       "url": "/wiki/concepts/procedurelesspoliticalpurge/"
     },
     "ProcessFocusedPerformanceFeedback": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1082295503 [SCIM1082295503].md",
@@ -240884,9 +240923,16 @@
           "show": "Tomorrow, Today",
           "title": "Andrea Fuentes: Olympic Medals, Failure, Leadership & Finding Purpose | Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981-defaultmp3-ywr3ahjkcgo-b318e4ceab011646c1e8d6daa46342bf-87870981/"
+        },
+        {
+          "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
+          "key": "yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae",
+          "show": "不合时宜",
+          "title": "运动员最大的对手，是自己的大脑",
+          "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
         }
       ],
-      "updated": "2026-10-18",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/processfocusedperformancefeedback/"
     },
     "ProcessOrientedLifeDesign": {
@@ -242970,6 +243016,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/concepts/psychologicaldistanceselfcontrol/"
+    },
+    "PsychologicalFlexibilityUnderPerformancePressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
+          "key": "yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae",
+          "show": "不合时宜",
+          "title": "运动员最大的对手，是自己的大脑",
+          "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/concepts/psychologicalflexibilityunderperformancepressure/"
     },
     "PsychologicalMythModernization": {
       "episode_count": 1,
@@ -314757,6 +314819,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/wenqingqing/"
+    },
+    "WenXiaoqian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpoSnAM7-4SK0B8P_loU4GNL4xaE [lpoSnAM7-4SK0B8P_loU4GNL4xaE].md",
+          "key": "yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae",
+          "show": "不合时宜",
+          "title": "运动员最大的对手，是自己的大脑",
+          "url": "/wiki/sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae/"
+        }
+      ],
+      "updated": "2026-11-11",
+      "url": "/wiki/entities/wenxiaoqian/"
     },
     "WenXuEasternHan": {
       "episode_count": 1,

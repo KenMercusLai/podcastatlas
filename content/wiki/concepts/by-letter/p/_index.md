@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11163
+wiki_total_pages: 11166
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2606,6 +2606,9 @@ wiki_pages:
   - key: "PsychologicalFlexibilityForDissent"
     title: "Psychological Flexibility For Dissent / 不服从中的心理灵活性"
     url: "/wiki/concepts/psychologicalflexibilityfordissent/"
+  - key: "PsychologicalFlexibilityUnderPerformancePressure"
+    title: "Psychological Flexibility Under Performance Pressure / 表现压力下的心理灵活性"
+    url: "/wiki/concepts/psychologicalflexibilityunderperformancepressure/"
   - key: "PsychologicalMythModernization"
     title: "Psychological Myth Modernization / 神话心理化改编"
     url: "/wiki/concepts/psychologicalmythmodernization/"

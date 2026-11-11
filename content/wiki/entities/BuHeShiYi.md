@@ -10,8 +10,9 @@ sources:
   - lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord
   - nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais
   - dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12
+  - yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae
 knowledge_schema: synthesis-v1
-last_updated: 2026-11-06
+last_updated: 2026-11-11
 ---
 
 # 不合时宜 / Bu He Shi Yi
@@ -20,9 +21,9 @@ last_updated: 2026-11-06
 不合时宜 / Bu He Shi Yi is a Chinese public-issues podcast represented in this wiki by care-system episodes and conversations on AI-era life, conflict journalism, energy transition, and worker writing.
 
 ## Current Profile
-The current wiki profile is source-scoped to three care-series episodes, one AI-era life conversation, one conflict-reporting roundtable, one energy-transition discussion, and one worker-poet interview. The care episodes move dementia, autism, disability, aging, and guardianship from private burden toward social support, law, dignity, and representation. The conversation with [[WangXiaowei|王小伟]] examines AI intimacy, work meaning, emotional language, and [[AIJudgmentInfrastructure]]. The conflict-reporting episode asks how access, language, verification, danger, and media attention shape public knowledge of war. The energy episode uses [[ElectricalTechnologyRevolution]] to connect clean manufacturing and consumer economics to [[PowerSystemFlexibilityMarketDesign]], energy security, institutional reform, affordability, and distribution. The conversation with [[XiaoHaiPoet|小海]] and [[TonyXiaoHaiTranslator|Tony]] adds factory labor, poetry, translation, and the danger of reducing an artist to a marketable worker identity.
+The current wiki profile is source-scoped to three care-series episodes plus conversations on AI-era life, conflict reporting, energy transition, worker writing, and elite-sport psychology. The care episodes move dementia, autism, disability, aging, and guardianship from private burden toward social support, law, dignity, and representation. The conversation with [[WangXiaowei|王小伟]] examines AI intimacy, work meaning, emotional language, and [[AIJudgmentInfrastructure]]. The conflict-reporting episode asks how access, language, verification, danger, and media attention shape public knowledge of war. The energy episode connects clean manufacturing and consumer economics to power-system reform and distribution. The worker-poet interview examines labor, art, translation, and reductive labels. The conversation with [[WenXiaoqian|温小倩]] treats performance pressure and athlete mental health as matters of long-term, multidisciplinary support rather than willpower alone.
 
-Together, the show profile reads as a public-issue interview format that uses concrete care, technology, reporting, infrastructure, and cultural-production cases to ask when society shifts burdens onto individuals and how institutions, markets, language, law, media, professional systems, and art shape what becomes visible.
+Together, the show profile reads as a public-issue interview format that uses concrete care, technology, reporting, infrastructure, cultural-production, and sport cases to ask when society shifts burdens onto individuals and how institutions, markets, language, law, media, professional systems, teams, and art shape what becomes visible and actionable.
 
 ## Key Characteristics
 - Public-issue interview format that combines macro data, academic expertise, lived experience, and practitioners' cross-regional reporting knowledge.
@@ -31,7 +32,7 @@ Together, the show profile reads as a public-issue interview format that uses co
 - Keeps the cared-for person visible as a subject whose dignity, preferences, future, and support needs matter.
 - Treats law, media representation, and public language as part of care infrastructure when families and institutions shape vulnerable lives.
 - Uses cross-system examples from China, Japan, the Netherlands, the United States, and community organizations without presenting any model as fully solved.
-- Extends its responsibility lens across AI-era life, conflict knowledge, energy systems, and literature, asking how technical capability, markets, labels, and institutions interact with judgment, access, distribution, and self-representation.
+- Extends its responsibility lens across AI-era life, conflict knowledge, energy systems, literature, and elite sport, asking how institutions and support teams shape judgment, access, performance, and self-representation.
 
 ## Evidence
 - Dementia-care scope - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] introduces the show through a conversation with Tang Yong about China aging, dementia, family caregivers, Shenzhen services, and overseas dementia-care examples.
@@ -44,13 +45,14 @@ Together, the show profile reads as a public-issue interview format that uses co
 - Conflict-reporting scope - [[lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord]] extends the show into field presence, language and fixer bias, freelancer safety, propaganda verification, psychological burden, and unequal global attention.
 - Energy-transition scope - [[nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais]] connects renewable generation, end-use electrification, storage, grids, industrial learning, EV adoption, AI demand, affordability, and distribution through [[ElectricalTechnologyRevolution]].
 - Worker-writing and translation scope - [[dagong-shiren-xiaohai-zuo-yikuai-gunshi-nisha-juxia-ye-butingxia-lqz5ox0rp0kzxkjgxambqqt6qx12]] connects factory discipline, poetry, rock, memoir, translation, global production, and reception through [[WorkerArtistIdentityReduction]] and [[CreativeSelfPreservationUnderRepetitiveLabor]].
+- Elite-sport psychology scope - [[yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae]] connects long-horizon psychological support, event-specific arousal, process attention, failure, athlete mental health, and multidisciplinary care through [[EliteSportPsychologicalSupportSystem]], [[OptimalPerformanceRange]], and [[PsychologicalFlexibilityUnderPerformancePressure]].
 
 ## Qualifications
-The wiki still represents the show through a narrow slice: three care-system episodes and one episode each on technology philosophy, conflict reporting, energy transition, and worker writing. Its broader editorial identity, full host roster, political range, and audience remain outside the current evidence. Several sources identify speakers incompletely, including translator Tony, so the profile does not infer canonical identities without stronger evidence. Quantitative energy and market claims, publication history, and international reception details remain episode-reported rather than independently verified.
+The wiki still represents the show through a narrow slice: three care-system episodes and one episode each on technology philosophy, conflict reporting, energy transition, worker writing, and sport psychology. Its broader editorial identity, full host roster, political range, and audience remain outside the current evidence. Several sources identify speakers incompletely, including translator Tony, so the profile does not infer canonical identities without stronger evidence. Quantitative energy, market, psychological, and performance claims remain episode-reported rather than independently verified.
 
 ## What Changed
-- Added worker writing, literary translation, and cross-cultural reception to the represented range.
-- Extended the show's responsibility lens to how market labels can preserve labor context while flattening artistic identity.
+- Added elite-sport performance and mental-health support to the represented range.
+- Extended the show's responsibility lens from public institutions into coaching teams, clinical boundaries, and athlete identity beyond results.
 
 ## Relationships
 - [[TangYongSociologist]] - dementia-care guest in the represented source set.
@@ -74,4 +76,7 @@ The wiki still represents the show through a narrow slice: three care-system epi
 - [[XiaoHaiPoet]] - worker-poet and memoirist in the latest represented conversation.
 - [[WorkerArtistIdentityReduction]] - reception problem developed through the Xiaohai episode.
 - [[CreativeSelfPreservationUnderRepetitiveLabor]] - creative-agency mechanism developed through the Xiaohai episode.
+- [[WenXiaoqian|温小倩]] - sports-psychology guest in the latest represented source.
+- [[EliteSportPsychologicalSupportSystem]] - long-horizon, multidisciplinary support model developed by the sport-psychology episode.
+- [[OptimalPerformanceRange]] - state-variability and event-specific arousal model developed by the sport-psychology episode.
 - [[Xiaoyuzhou]] - platform context from the source metadata.

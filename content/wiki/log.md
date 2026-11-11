@@ -39171,3 +39171,10 @@ Added source `zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhan
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-11] ingest | 运动员最大的对手，是自己的大脑
+
+Added source `yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae`; created [[WenXiaoqian|温小倩]], [[EliteSportPsychologicalSupportSystem]], [[OptimalPerformanceRange]], and [[PsychologicalFlexibilityUnderPerformancePressure]]; and resynthesized [[BuHeShiYi|不合时宜]] and [[ProcessFocusedPerformanceFeedback]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: elite-sport psychology is long-horizon team infrastructure rather than last-minute encouragement; useful activation is an individualized range rather than one perfect state; and anxiety, fatigue, failure, or imperfect readiness can coexist with attention to the next controllable action. No settled contradiction was adopted. The episode's mental-health prevalence, inverted-U, physiological monitoring, imagery, retirement-support, and generational claims remain guest- or episode-reported without enough methods for general adoption. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,910 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
