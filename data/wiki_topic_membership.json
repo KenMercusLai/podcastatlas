@@ -19871,6 +19871,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BillKerr": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "BillMaris": [
     {
       "key": "technology",
@@ -49670,6 +49677,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ImmigrantIndustryClustering": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ImmigrationBacklashCycle": [
@@ -82273,6 +82287,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SecondGenerationBusinessAdaptation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SecondInCommandRoleFit": [
     {
       "key": "politics",
@@ -101416,6 +101437,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "YemeniCoffeehouses": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "YenCarryTrade": [

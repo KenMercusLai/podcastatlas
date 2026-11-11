@@ -14767,6 +14767,10 @@
     "title": "Bill Gurley",
     "url": "/wiki/entities/billgurley/"
   },
+  "BillKerr": {
+    "title": "Bill Kerr",
+    "url": "/wiki/entities/billkerr/"
+  },
   "BillMaris": {
     "title": "Bill Maris",
     "url": "/wiki/entities/billmaris/"
@@ -41847,6 +41851,10 @@
     "title": "Hakan Fidan",
     "url": "/wiki/entities/hakanfidan/"
   },
+  "HakeemSoleimani": {
+    "title": "Hakeem Soleimani",
+    "url": "/wiki/entities/hakeemsoleimani/"
+  },
   "HakoX": {
     "title": "Hako X",
     "url": "/wiki/entities/hakox/"
@@ -46586,6 +46594,10 @@
   "ImmersiveTranslate": {
     "title": "Immersive Translate",
     "url": "/wiki/entities/immersivetranslate/"
+  },
+  "ImmigrantIndustryClustering": {
+    "title": "Immigrant Industry Clustering",
+    "url": "/wiki/concepts/immigrantindustryclustering/"
   },
   "ImmigrantLocalOfficeRepresentation": {
     "title": "Immigrant Local-Office Representation",
@@ -82171,6 +82183,10 @@
     "title": "Second First Impression",
     "url": "/wiki/concepts/secondfirstimpression/"
   },
+  "SecondGenerationBusinessAdaptation": {
+    "title": "Second-Generation Business Adaptation",
+    "url": "/wiki/concepts/secondgenerationbusinessadaptation/"
+  },
   "SecondGenerationBusinessEntryRoutes": {
     "title": "Second-Generation Business Entry Routes / 二代接班切入路径",
     "url": "/wiki/concepts/secondgenerationbusinessentryroutes/"
@@ -89846,6 +89862,10 @@
   "TarekMansour": {
     "title": "Tarek Mansour",
     "url": "/wiki/entities/tarekmansour/"
+  },
+  "TarekSoleimani": {
+    "title": "Tarek Soleimani",
+    "url": "/wiki/entities/tareksoleimani/"
   },
   "Target": {
     "title": "Target",
@@ -101039,6 +101059,10 @@
     "title": "Yadea / 雅迪",
     "url": "/wiki/entities/yadea/"
   },
+  "YaffaCafe": {
+    "title": "Yaffa Cafe",
+    "url": "/wiki/entities/yaffacafe/"
+  },
   "YagorGroup": {
     "title": "Yagor Group / 雅戈尔",
     "url": "/wiki/entities/yagorgroup/"
@@ -101802,6 +101826,10 @@
   "Yemen": {
     "title": "Yemen",
     "url": "/wiki/entities/yemen/"
+  },
+  "YemeniCoffeehouses": {
+    "title": "Yemeni Coffeehouses",
+    "url": "/wiki/entities/yemenicoffeehouses/"
   },
   "YenCarryTrade": {
     "title": "Yen Carry Trade",
@@ -107098,6 +107126,10 @@
   "default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634": {
     "title": "AI, Education and the Fight for Equal Opportunity | Tara Chklovski x Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634-default-mp3-ywr3ahjkcgo-46737d7a8d9d9f10b8b002c9b1c7913a-43634634/"
+  },
+  "default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773": {
+    "title": "How bodegas led to the Yemeni coffeehouse explosion",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773/"
   },
   "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195": {
     "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",

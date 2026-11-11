@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-11-12] ingest | How bodegas led to the Yemeni coffeehouse explosion
+
+Added source `default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773`; created [[HakeemSoleimani]], [[TarekSoleimani]], [[YaffaCafe]], [[BillKerr]], [[YemeniCoffeehouses]], [[ImmigrantIndustryClustering]], and [[SecondGenerationBusinessAdaptation]]. Core synthesis: immigrant industry clusters can turn family and community ties into employment, training, informal finance, tacit knowledge, suppliers, and trusted entry, while a second generation can retain that infrastructure and change the product, price position, cultural story, and customer experience. No settled contradiction was adopted. Counts, earnings advantages, bodega ownership, profitability, sourcing, dates, and second-generation patterns remain episode-reported because the supplied file is a structured summary rather than a transcript, census extract, audited account, import record, or complete industry dataset. Broad [[Coffee]], [[PlanetMoney]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,915 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-11] ingest | 九阳净利润大跌近 75%，它的美国「亲戚」怎么越赚越多？
 
 Added source `jiuyang-jinglirun-dadie-jin-75-ta-de-meiguo-qinqi-zenme-yue-zhuan-yue-duo-gkwriueoyniragzajwt5lgbb`; created [[SharkNinja]], [[Joyoung|九阳]], and [[CrossBorderConsumerBrandCapabilityStack|跨境消费品牌能力栈]]; and resynthesized [[LifestyleDrivenSmallApplianceDemand|生活方式驱动的小家电需求]] and [[MarketingChannelCategoryFit|营销渠道与品类适配]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: supply-chain and engineering speed become a cross-border consumer advantage only when local demand research, brand recognition, scarce retail access, demonstrable products, social content, and complementary transaction channels work as one operating system; the same speed also enables copycats and price pressure, while tariffs and production relocation test durability. No settled contradiction was adopted. The supplied summary gives inconsistent SharkNinja profit-growth figures, and financials, rank, shares, acquisition history, advertising, sellout, category count, tariff exposure, and production shifts remain episode-reported because the file is a structured summary rather than a transcript, filing, retail dataset, or customs record. Broad [[ShengdongZaokafei|声动早咖啡]], [[Skydance]], [[Google]], [[TPU]], [[Nvidia]], [[ConsumerBrandMoat]], [[ManufacturingSalesShift]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,906 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
@@ -39208,5 +39212,9 @@ Added source `b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26m
 Ran lint. See lint-report.md for details.
 
 ## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

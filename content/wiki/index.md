@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How bodegas led to the Yemeni coffeehouse explosion](sources/default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773.md) — Planet Money uses a Brooklyn cafe-and-deli family story to connect Yemeni coffeehouses with immigrant industry clustering, informal finance, community business infrastructure, and second-generation adaptation.
 - [Reddit pivots to a login-only experience](sources/tech-20261111-1111-mp-tech-pod-128-tech-20261111-1111-mp-tech-pod-128.md) — Marketplace Tech connects Reddit's login wall to AI-summary traffic loss, contributor incentives, fresh human data, bot verification, and pseudonymous participation.
 - [蒋万安为何陷入苦战：政治世家光环、选战误判与台北关键选民](sources/b6c8b008370523ce9ee300c46a29db26-b6c8b008370523ce9ee300c46a29db26mp3aid6af3219e1f5126ac85b049f0chid66b07190af99592.md) — 端闻从政治家族资源、胜选结构、攻击议题适配与黄珊珊式独立选民的投票意愿解释台北市长选战为何胶着。
 - [Let’s get this party restarted: Republicans reel from the midterms](sources/b72d0a4da10686855b9a521b8fe26b83-b72d0a4da10686855b9a521b8fe26b83mp3aid6af4462e36d94b58ef827a8achidd556eb54-6160-4.md) — Economist Podcasts on post-midterm party succession, defensive family spending on education, stalled mobility, and television’s hostile working-class climbers.
@@ -5037,6 +5038,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运动员最大的对手，是自己的大脑](sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae.md) — 不合时宜对谈温小倩，讨论长期运动心理保障、最佳表现区间、压力下的心理灵活性、过程注意与协同心理健康干预。
 
 ## Entities
+- [Bill Kerr](entities/BillKerr.md) — Economist cited for comparative research on immigrant industry concentration and community ties.
+- [Hakeem Soleimani](entities/HakeemSoleimani.md) — Yemeni American founder who built Yaffa Cafe from family retail capabilities and Yemeni sourcing.
+- [Tarek Soleimani](entities/TarekSoleimani.md) — Brooklyn deli operator whose migration, family finance, and local relationships underpin the episode's bodega pathway.
+- [Yaffa Cafe](entities/YaffaCafe.md) — Brooklyn specialty cafe combining Yemeni coffee identity with inherited neighborhood and family infrastructure.
+- [Yemeni Coffeehouses](entities/YemeniCoffeehouses.md) — U.S. cafe category joining Yemeni coffee heritage to late-night, alcohol-free community gathering.
 - [Sarah Gilbert](entities/SarahGilbert.md) — Online-community researcher connecting AI data extraction, access policy, contribution incentives, and pseudonymity.
 - [AskHistorians](entities/AskHistorians.md) — Reddit public-history community used as a case of mission-driven expert contribution.
 - [蒋万安 / Chiang Wan-an](entities/JiangWanan.md) — 台北市长与国民党政治人物，其家族资源、历次胜选结构与跨阵营号召力受到本期选战分析检验。
@@ -19157,6 +19163,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [温小倩 / Wen Xiaoqian](entities/WenXiaoqian.md) — 运动心理学博士与咨询师，以长期、个体化、跨专业协同的方式支持高水平运动员应对压力、表现与心理健康。
 
 ## Concepts
+- [Immigrant Industry Clustering](concepts/ImmigrantIndustryClustering.md) — Community specialization that circulates jobs, training, finance, tacit knowledge, and trusted business entry.
+- [Second-Generation Business Adaptation](concepts/SecondGenerationBusinessAdaptation.md) — Recombination of inherited family-business capabilities into a changed product, market, or operating model.
 - [Human Knowledge Commons Sustainability](concepts/HumanKnowledgeCommonsSustainability.md) — How open human knowledge remains renewable when AI answers, licensing, access walls, and contribution incentives interact.
 - [Pseudonymous Participation Verification Tradeoff](concepts/PseudonymousParticipationVerificationTradeoff.md) — Tension between bot-resistant identity checks and privacy-preserving participation.
 - [政治家族资源优势 / Political Family Resource Advantage](concepts/PoliticalFamilyResourceAdvantage.md) — 家族身份、媒体注意、选区网络与党内投资在候选人尚未证明独立能力前形成的政治入场优势。

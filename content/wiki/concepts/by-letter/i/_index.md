@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11174
+wiki_total_pages: 11176
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "ImmersiveExperienceThroughputTradeoff"
     title: "Immersive Experience Throughput Tradeoff / 沉浸体验吞吐量权衡"
     url: "/wiki/concepts/immersiveexperiencethroughputtradeoff/"
+  - key: "ImmigrantIndustryClustering"
+    title: "Immigrant Industry Clustering"
+    url: "/wiki/concepts/immigrantindustryclustering/"
   - key: "ImmigrantLocalOfficeRepresentation"
     title: "Immigrant Local-Office Representation"
     url: "/wiki/concepts/immigrantlocalofficerepresentation/"

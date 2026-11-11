@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2388
+topic_total_pages: 2392
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1765,6 +1765,9 @@ topic_concepts:
   - key: "IEPATariffAuthorityLimit"
     title: "IEPA Tariff Authority Limit"
     url: "/wiki/concepts/iepatariffauthoritylimit/"
+  - key: "ImmigrantIndustryClustering"
+    title: "Immigrant Industry Clustering"
+    url: "/wiki/concepts/immigrantindustryclustering/"
   - key: "ImperialMetropolisIntegration"
     title: "Imperial Metropolis Integration"
     url: "/wiki/concepts/imperialmetropolisintegration/"
@@ -2899,6 +2902,9 @@ topic_concepts:
   - key: "SECCFTCCoordination"
     title: "SEC-CFTC Coordination"
     url: "/wiki/concepts/seccftccoordination/"
+  - key: "SecondGenerationBusinessAdaptation"
+    title: "Second-Generation Business Adaptation"
+    url: "/wiki/concepts/secondgenerationbusinessadaptation/"
   - key: "SecondStageReuseConstraint"
     title: "Second-Stage Reuse Constraint"
     url: "/wiki/concepts/secondstagereuseconstraint/"
@@ -3845,6 +3851,9 @@ topic_entities:
   - key: "BillGurley"
     title: "Bill Gurley"
     url: "/wiki/entities/billgurley/"
+  - key: "BillKerr"
+    title: "Bill Kerr"
+    url: "/wiki/entities/billkerr/"
   - key: "Birdhouse"
     title: "Birdhouse"
     url: "/wiki/entities/birdhouse/"
@@ -5714,6 +5723,9 @@ topic_entities:
   - key: "YegorGaidar"
     title: "Yegor Gaidar"
     url: "/wiki/entities/yegorgaidar/"
+  - key: "YemeniCoffeehouses"
+    title: "Yemeni Coffeehouses"
+    url: "/wiki/entities/yemenicoffeehouses/"
   - key: "YinWu"
     title: "Yin Wu"
     url: "/wiki/entities/yinwu/"

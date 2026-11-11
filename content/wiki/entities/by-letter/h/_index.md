@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14028
+wiki_total_pages: 14033
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "HakanFidan"
     title: "Hakan Fidan"
     url: "/wiki/entities/hakanfidan/"
+  - key: "HakeemSoleimani"
+    title: "Hakeem Soleimani"
+    url: "/wiki/entities/hakeemsoleimani/"
   - key: "HakoX"
     title: "Hako X"
     url: "/wiki/entities/hakox/"

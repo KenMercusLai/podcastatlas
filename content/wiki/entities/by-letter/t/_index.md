@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14028
+wiki_total_pages: 14033
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "TarekMansour"
     title: "Tarek Mansour"
     url: "/wiki/entities/tarekmansour/"
+  - key: "TarekSoleimani"
+    title: "Tarek Soleimani"
+    url: "/wiki/entities/tareksoleimani/"
   - key: "Target"
     title: "Target"
     url: "/wiki/entities/target/"

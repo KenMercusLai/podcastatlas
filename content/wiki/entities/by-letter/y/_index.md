@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 14028
+wiki_total_pages: 14033
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "Yadea"
     title: "Yadea / 雅迪"
     url: "/wiki/entities/yadea/"
+  - key: "YaffaCafe"
+    title: "Yaffa Cafe"
+    url: "/wiki/entities/yaffacafe/"
   - key: "YagorGroup"
     title: "Yagor Group / 雅戈尔"
     url: "/wiki/entities/yagorgroup/"
@@ -119,6 +122,9 @@ wiki_pages:
   - key: "Yemen"
     title: "Yemen"
     url: "/wiki/entities/yemen/"
+  - key: "YemeniCoffeehouses"
+    title: "Yemeni Coffeehouses"
+    url: "/wiki/entities/yemenicoffeehouses/"
   - key: "YerenXiansheng"
     title: "Yeren Xiansheng"
     url: "/wiki/entities/yerenxiansheng/"
