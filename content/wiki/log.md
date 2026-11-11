@@ -39163,3 +39163,11 @@ Added source `zizhi-tongjian-hanji-1154-caocao-ruhe-jinping-yimei-jinnang-podi-1
 ## [2026-11-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-11] ingest | 《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？
+
+Added source `zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt`; and resynthesized [[HanzhongCampaign215|曹操西征汉中（215年）]], [[LiuYeLateHan|刘晔]], [[SimaYi|司马懿]], and [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: “刘备借荆州” compresses a narrower and contested Nanjun or Jiangling transfer whose corridor value still exceeds its apparent scope; Cao Cao's Hanzhong offensive can reactivate Sun–Liu cooperation without settling territorial ownership; and Sima Yi and Liu Ye identify a short interval before Yizhou consolidation, while the episode does not establish that an immediate invasion was logistically or politically feasible. No settled contradiction was adopted. The Xiang River division, commandery boundaries, seven-day sequence, dialogue, population movement, offices, troop totals, age and poetry interpretations, succession motive, and Hefei preview remain episode-reported or source-scoped. Broad [[CaoCao|曹操]], [[LiuBei|刘备]], [[SunQuan|孙权]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,909 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

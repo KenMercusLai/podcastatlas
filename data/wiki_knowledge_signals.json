@@ -130328,9 +130328,9 @@
       "url": "/wiki/entities/hanyaofu/"
     },
     "HanzhongCampaign215": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgXOyiqZ-pmAPo6PVv46Vs7BwmFv [lgXOyiqZ-pmAPo6PVv46Vs7BwmFv].md",
@@ -130338,9 +130338,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1151丨曹操大败张鲁，赢得有多偶然？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1151-caocao-dabai-zhanglu-yingde-you-duo-ouran-lgxoyiqz-pmapo6pvv46vs7bwmfv/"
+        },
+        {
+          "episode_file": "lrBfBssFLRnXr5XjEUVGXHXBVxXT [lrBfBssFLRnXr5XjEUVGXHXBVxXT].md",
+          "key": "zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/hanzhongcampaign215/"
     },
     "HaoJieTaiyuanLateHan": {
@@ -182487,9 +182494,9 @@
       "url": "/wiki/entities/liuyedongpingqueenwesternhan/"
     },
     "LiuYeLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城 [lhOmK8hFDiDL61DegWBqTj2XKj9Z].md",
@@ -182504,9 +182511,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva/"
+        },
+        {
+          "episode_file": "lrBfBssFLRnXr5XjEUVGXHXBVxXT [lrBfBssFLRnXr5XjEUVGXHXBVxXT].md",
+          "key": "zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/liuyelatehan/"
     },
     "LiuYiBeixiangHouLateHan": {
@@ -272247,9 +272261,9 @@
       "url": "/wiki/entities/simaxiangru/"
     },
     "SimaYi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？ [liKUR-XfjqBK3KR-EW6ftVTVwiXq].md",
@@ -272264,9 +272278,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代",
           "url": "/wiki/sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k/"
+        },
+        {
+          "episode_file": "lrBfBssFLRnXr5XjEUVGXHXBVxXT [lrBfBssFLRnXr5XjEUVGXHXBVxXT].md",
+          "key": "zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-11",
       "url": "/wiki/entities/simayi/"
     },
     "SimaZhiCaoOfficialLateHan": {
@@ -281719,9 +281740,9 @@
       "url": "/wiki/concepts/strategicangerdeterrence/"
     },
     "StrategicBaseTransferAllianceConsolidation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？ [lqbhHQtFHGhodOjNxKSA3OZT9YqZ].md",
@@ -281750,9 +281771,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1152丨孙权为什么痛骂刘备是骗子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1152-sunquan-weishenme-tongma-liubei-shi-pianzi-lvyngihgs-obrqasnub4_lptryop/"
+        },
+        {
+          "episode_file": "lrBfBssFLRnXr5XjEUVGXHXBVxXT [lrBfBssFLRnXr5XjEUVGXHXBVxXT].md",
+          "key": "zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1153丨刘备借荆州其实是场战略骗局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1153-liubei-jie-jingzhou-qishi-shi-chang-zhanlue-pianju-lrbfbssflrnxr5xjeuvgxhxbvxxt/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "url": "/wiki/concepts/strategicbasetransferallianceconsolidation/"
     },
     "StrategicBorderCorridorDependence": {
