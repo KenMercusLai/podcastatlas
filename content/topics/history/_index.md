@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2782
+topic_total_pages: 2784
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1096,6 +1096,9 @@ topic_concepts:
   - key: "PoetryAsElitePoliticalLanguage"
     title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
     url: "/wiki/concepts/poetryaselitepoliticallanguage/"
+  - key: "PoisonAsCovertPower"
+    title: "Poison as Covert Power / 毒药作为隐蔽权力工具"
+    url: "/wiki/concepts/poisonascovertpower/"
   - key: "PoliticalParableWeaponization"
     title: "Political Parable Weaponization / 寓言式政治挑拨"
     url: "/wiki/concepts/politicalparableweaponization/"
@@ -6471,6 +6474,9 @@ topic_sources:
   - key: "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192"
     title: "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)"
     url: "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+  - key: "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1"
+    title: "49 毒药与投毒史：从武大郎到希特勒"
+    url: "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
   - key: "49-food-glorious-food-glt7001895639"
     title: "49. Food Glorious Food"
     url: "/wiki/sources/49-food-glorious-food-glt7001895639/"

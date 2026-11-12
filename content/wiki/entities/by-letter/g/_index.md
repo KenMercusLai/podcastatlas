@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14055
+wiki_total_pages: 14056
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "GeorgetownLawCenterOnPrivacyTechnology"
     title: "Georgetown Law Center on Privacy and Technology"
     url: "/wiki/entities/georgetownlawcenteronprivacytechnology/"
+  - key: "GeorgiMarkov"
+    title: "Georgi Markov / 格奥尔基·马尔科夫"
+    url: "/wiki/entities/georgimarkov/"
   - key: "GeorgiaBanjo"
     title: "Georgia Banjo"
     url: "/wiki/entities/georgiabanjo/"

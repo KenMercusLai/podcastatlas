@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11191
+wiki_total_pages: 11193
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "MedicineAsWaySeeking"
     title: "Medicine As Way-Seeking / 以医入道"
     url: "/wiki/concepts/medicineaswayseeking/"
+  - key: "MedicinePoisonBoundary"
+    title: "Medicine–Poison Boundary / 药物与毒物边界"
+    url: "/wiki/concepts/medicinepoisonboundary/"
   - key: "MedievalFemaleAsceticAuthority"
     title: "Medieval Female Ascetic Authority"
     url: "/wiki/concepts/medievalfemaleasceticauthority/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1636
+topic_total_pages: 1637
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1456,6 +1456,9 @@ topic_concepts:
   - key: "MedicineAsWaySeeking"
     title: "Medicine As Way-Seeking / 以医入道"
     url: "/wiki/concepts/medicineaswayseeking/"
+  - key: "MedicinePoisonBoundary"
+    title: "Medicine–Poison Boundary / 药物与毒物边界"
+    url: "/wiki/concepts/medicinepoisonboundary/"
   - key: "MekongDeltaColonialCanalAgriculture"
     title: "Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业"
     url: "/wiki/concepts/mekongdeltacolonialcanalagriculture/"

@@ -97731,9 +97731,9 @@
       "url": "/wiki/concepts/executiondetailattitudeattribution/"
     },
     "ExecutionStatusAndBodyIntegrity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpxZwqY8b9nAiZSLmotzcMZ4LIsO [lpxZwqY8b9nAiZSLmotzcMZ4LIsO].md",
@@ -97741,9 +97741,16 @@
           "show": "怪东西Weird History",
           "title": "21 东西方的死刑：从十字架到炮决",
           "url": "/wiki/sources/21-dongxifang-de-sixing-cong-shizijia-dao-paojue-lpxzwqy8b9naizslmotzcmz4liso/"
+        },
+        {
+          "episode_file": "lt2iW1rmCoPR5abcGVrFE5F-abs1 [lt2iW1rmCoPR5abcGVrFE5F-abs1].md",
+          "key": "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1",
+          "show": "怪东西Weird History",
+          "title": "49 毒药与投毒史：从武大郎到希特勒",
+          "url": "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
         }
       ],
-      "updated": "2026-10-09",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/executionstatusandbodyintegrity/"
     },
     "ExecutiveConductGovernanceRisk": {
@@ -108458,9 +108465,9 @@
       "url": "/wiki/concepts/forensicidentificationexplanationgap/"
     },
     "ForensicToxicology": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
@@ -108482,9 +108489,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》331-3｜古人竟然用花椒自杀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-331-3-guren-jingran-yong-huajiao-zisha-lohtg2tifzlc63cxkcjkekoyk9w3/"
+        },
+        {
+          "episode_file": "lt2iW1rmCoPR5abcGVrFE5F-abs1 [lt2iW1rmCoPR5abcGVrFE5F-abs1].md",
+          "key": "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1",
+          "show": "怪东西Weird History",
+          "title": "49 毒药与投毒史：从武大郎到希特勒",
+          "url": "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/forensictoxicology/"
     },
     "ForeskinHygieneSurgeryBoundary": {
@@ -119519,6 +119533,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/georgetownlawcenteronprivacytechnology/"
+    },
+    "GeorgiMarkov": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt2iW1rmCoPR5abcGVrFE5F-abs1 [lt2iW1rmCoPR5abcGVrFE5F-abs1].md",
+          "key": "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1",
+          "show": "怪东西Weird History",
+          "title": "49 毒药与投毒史：从武大郎到希特勒",
+          "url": "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/georgimarkov/"
     },
     "GeorgiaBanjo": {
       "episode_count": 3,
@@ -199280,6 +199310,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/medicibank/"
     },
+    "MedicinePoisonBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt2iW1rmCoPR5abcGVrFE5F-abs1 [lt2iW1rmCoPR5abcGVrFE5F-abs1].md",
+          "key": "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1",
+          "show": "怪东西Weird History",
+          "title": "49 毒药与投毒史：从武大郎到希特勒",
+          "url": "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/medicinepoisonboundary/"
+    },
     "MedievalFemaleAsceticAuthority": {
       "episode_count": 1,
       "show_count": 1,
@@ -205675,9 +205721,9 @@
       "url": "/wiki/entities/mithras/"
     },
     "MithridatesVI": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -205692,9 +205738,16 @@
           "show": "The Rest Is History",
           "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
           "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        },
+        {
+          "episode_file": "lt2iW1rmCoPR5abcGVrFE5F-abs1 [lt2iW1rmCoPR5abcGVrFE5F-abs1].md",
+          "key": "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1",
+          "show": "怪东西Weird History",
+          "title": "49 毒药与投毒史：从武大郎到希特勒",
+          "url": "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/mithridatesvi/"
     },
     "MitochondrialEnergyAllocation": {
@@ -235185,6 +235238,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/pointintimebacktesting/"
+    },
+    "PoisonAsCovertPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt2iW1rmCoPR5abcGVrFE5F-abs1 [lt2iW1rmCoPR5abcGVrFE5F-abs1].md",
+          "key": "lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1",
+          "show": "怪东西Weird History",
+          "title": "49 毒药与投毒史：从武大郎到希特勒",
+          "url": "/wiki/sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/poisonascovertpower/"
     },
     "PokeRobotics": {
       "episode_count": 2,

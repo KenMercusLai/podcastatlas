@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [49 毒药与投毒史：从武大郎到希特勒](sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1.md) — 怪东西横跨东西方历史，讨论毒药作为药物、体面死亡、宫廷与情报暗杀工具，并以银针、马尔科夫案和《水浒传》强调史实、传说与毒理证据的边界。
 - [Are We Missing A Billion Untapped Talents | Jonathan Brill x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292.md) — Tomorrow Today interview on physical-constraint forecasting, whole-system innovation viability, shock-ready resilience, distributed AI decision-making, and retained human accountability.
 - [Enterprise Sales Without Salespeople: How a SaaS Hit $10M](sources/b765334b.md) — The SaaS Podcast interview with Rajiv Kanhaja on AdButler's teenage origin, paid-software pivot, product-depth-first enterprise motion, relationship pricing, modular delivery, and agent-generated customer software thesis.
 - [Abate and switch: how China’s emissions fell](sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4.md) — Economist Podcasts on China’s potentially structural emissions decline, Bukele’s fragmented Haiti intervention, and dog ancestry’s association with wolf yawn contagion.
@@ -5051,6 +5052,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Georgi Markov / 格奥尔基·马尔科夫](entities/GeorgiMarkov.md) — Bulgarian writer whose 1978 London pellet attack links suspected ricin, micro-engineered delivery, intelligence attribution, and unresolved legal responsibility.
 - [Jonathan Brill](entities/JonathanBrill.md) — Inventor and futurist connecting industrial design, physical forecasting, strategic resilience, and AI-enabled organizational coordination.
 - [Rajiv Kanhaja](entities/RajivKanhaja.md) — AdButler co-founder and CEO connecting long-horizon product accumulation, lean enterprise selling, relationship pricing, modular engineering, and agent-generated software.
 - [AdButler](entities/AdButler.md) — Neutral ad-serving SaaS platform whose enterprise model combines broad product depth, live demonstrations, rapid customization, and direct technical access.
@@ -19199,6 +19201,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Poison as Covert Power / 毒药作为隐蔽权力工具](concepts/PoisonAsCovertPower.md) — Pattern in which toxic agents convert knowledge, access, trust, concealment, and deniability into harm with limited visible force.
+- [Medicine–Poison Boundary / 药物与毒物边界](concepts/MedicinePoisonBoundary.md) — Context-dependent distinction shaped by substance identity, purity, preparation, dose, route, duration, user condition, and purpose.
 - [Physical-Constraint Forecasting](concepts/PhysicalConstraintForecasting.md) — Forecasting method that bounds technology deployment through energy, compute, infrastructure, procurement, cost, and scaling conditions.
 - [Whole-System Innovation Viability](concepts/WholeSystemInnovationViability.md) — Alignment of customer value with physics, economics, timing, manufacturing, lifespan, infrastructure, distribution, and product legibility.
 - [Shock-Ready Strategic Resilience](concepts/ShockReadyStrategicResilience.md) — Pre-shock capability and option design for recurring systemic disruption under explicit incentive and investor constraints.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11191
+wiki_total_pages: 11193
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "PointInTimeBacktesting"
     title: "Point-in-Time Backtesting / 时点回测"
     url: "/wiki/concepts/pointintimebacktesting/"
+  - key: "PoisonAsCovertPower"
+    title: "Poison as Covert Power / 毒药作为隐蔽权力工具"
+    url: "/wiki/concepts/poisonascovertpower/"
   - key: "PoliceConsentDecreeCultureGap"
     title: "Police Consent Decree Culture Gap"
     url: "/wiki/concepts/policeconsentdecreeculturegap/"

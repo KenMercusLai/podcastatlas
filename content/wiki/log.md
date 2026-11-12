@@ -39329,3 +39329,13 @@ Added source `default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | 49 毒药与投毒史：从武大郎到希特勒
+
+Added source `lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1`; created [[GeorgiMarkov|Georgi Markov]], [[PoisonAsCovertPower|毒药作为隐蔽权力工具]], and [[MedicinePoisonBoundary|药物与毒物边界]]; and resynthesized [[MithridatesVI|Mithridates VI]], [[ForensicToxicology]], and [[ExecutionStatusAndBodyIntegrity|处刑身份与身体完整性]] from each page’s complete preserved evidence inventory before appending the new source once. Core synthesis: poison converts technical knowledge, legitimate or intimate access, concealment, and deniability into power; medicine and poison cannot be separated from identity, purity, preparation, dose, route, and purpose; body-preserving death may encode elite dignity while also concealing coercion; and poison attribution must distinguish convergent physical and clinical evidence from rumor, legend, fiction, or narrow reactions misapplied as universal tests.
+
+No settled contradiction was adopted. Roman court stories, the zhen bird, Mithridates’s antidote, silver testing, modern medicinal-alcohol cases, literary postmortem signs, and precise intelligence responsibility remain episode-scoped because the supplied file is a structured summary rather than a transcript, critical edition, toxicology review, clinical record, autopsy, intelligence archive, or court judgment. Markov’s recovered pellet and reported clinical course support the ricin-assassination inference, but no perpetrator was prosecuted. Broad [[WeirdHistoryPodcast|怪东西 Weird History]], ruler, literary-character, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable changes without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,928 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 54 pre-existing broken wikilinks outside this ingest’s changed pages.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
