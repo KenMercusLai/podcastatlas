@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3813
+topic_total_pages: 3816
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1195,6 +1195,9 @@ topic_concepts:
   - key: "AICompressedInvestmentResearchAdvantage"
     title: "AI-Compressed Investment Research Advantage"
     url: "/wiki/concepts/aicompressedinvestmentresearchadvantage/"
+  - key: "AIDistributedOrganizationalIntelligence"
+    title: "AI-Distributed Organizational Intelligence"
+    url: "/wiki/concepts/aidistributedorganizationalintelligence/"
   - key: "AIDrivenCreatorMarketing"
     title: "AI-Driven Creator Marketing"
     url: "/wiki/concepts/aidrivencreatormarketing/"
@@ -4015,6 +4018,9 @@ topic_concepts:
   - key: "PhysicalWorldDataFlywheel"
     title: "Physical World Data Flywheel"
     url: "/wiki/concepts/physicalworlddataflywheel/"
+  - key: "PhysicalConstraintForecasting"
+    title: "Physical-Constraint Forecasting"
+    url: "/wiki/concepts/physicalconstraintforecasting/"
   - key: "PhysicsOfAI"
     title: "Physics Of AI"
     url: "/wiki/concepts/physicsofai/"
@@ -9885,6 +9891,9 @@ topic_sources:
   - key: "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128"
     title: "Are humans losing the ability to think for themselves?"
     url: "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292"
+    title: "Are We Missing A Billion Untapped Talents | Jonathan Brill x Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292/"
   - key: "88-audio-nikesharvink-88-audio-nikesharvink"
     title: "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse"
     url: "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"

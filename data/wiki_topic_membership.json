@@ -10047,6 +10047,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIDistributedOrganizationalIntelligence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIDoomerism": [
     {
       "key": "technology",
@@ -72102,6 +72109,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PhysicalConstraintForecasting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PhysicalDynamicalComputing": [
     {
       "key": "technology",
@@ -106387,6 +106401,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292": [
     {
       "key": "technology",
       "label": "Technology",

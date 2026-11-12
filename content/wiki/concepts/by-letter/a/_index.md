@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11187
+wiki_total_pages: 11191
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1799,6 +1799,9 @@ wiki_pages:
   - key: "AICompressedInvestmentResearchAdvantage"
     title: "AI-Compressed Investment Research Advantage"
     url: "/wiki/concepts/aicompressedinvestmentresearchadvantage/"
+  - key: "AIDistributedOrganizationalIntelligence"
+    title: "AI-Distributed Organizational Intelligence"
+    url: "/wiki/concepts/aidistributedorganizationalintelligence/"
   - key: "AIDrivenCreatorMarketing"
     title: "AI-Driven Creator Marketing"
     url: "/wiki/concepts/aidrivencreatormarketing/"

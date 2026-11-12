@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11187
+wiki_total_pages: 11191
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "ShippingWeightEconomics"
     title: "Shipping Weight Economics"
     url: "/wiki/concepts/shippingweighteconomics/"
+  - key: "ShockReadyStrategicResilience"
+    title: "Shock-Ready Strategic Resilience"
+    url: "/wiki/concepts/shockreadystrategicresilience/"
   - key: "ShoppingCenterRestaurantization"
     title: "Shopping-Center Restaurantization / 购物中心餐饮化"
     url: "/wiki/concepts/shoppingcenterrestaurantization/"

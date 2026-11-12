@@ -1186,14 +1186,14 @@
       "earliest_episode_date": "2026-08-25",
       "latest_episode_date": "2026-11-12",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
-      "source_note_count": 22,
-      "topic_matched_source_note_count": 18,
+      "source_note_count": 23,
+      "topic_matched_source_note_count": 19,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "culture",

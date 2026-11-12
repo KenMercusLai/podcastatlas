@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Are We Missing A Billion Untapped Talents | Jonathan Brill x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292.md) — Tomorrow Today interview on physical-constraint forecasting, whole-system innovation viability, shock-ready resilience, distributed AI decision-making, and retained human accountability.
 - [Enterprise Sales Without Salespeople: How a SaaS Hit $10M](sources/b765334b.md) — The SaaS Podcast interview with Rajiv Kanhaja on AdButler's teenage origin, paid-software pivot, product-depth-first enterprise motion, relationship pricing, modular delivery, and agent-generated customer software thesis.
 - [Abate and switch: how China’s emissions fell](sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4.md) — Economist Podcasts on China’s potentially structural emissions decline, Bukele’s fragmented Haiti intervention, and dog ancestry’s association with wolf yawn contagion.
 - [How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan](sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679.md) — Tomorrow Today interview on creative fatigue, selective AI advertising workflows, brand-feedback isolation, human review, provenance limits, and outcome-based AI adoption.
@@ -5050,6 +5051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Jonathan Brill](entities/JonathanBrill.md) — Inventor and futurist connecting industrial design, physical forecasting, strategic resilience, and AI-enabled organizational coordination.
 - [Rajiv Kanhaja](entities/RajivKanhaja.md) — AdButler co-founder and CEO connecting long-horizon product accumulation, lean enterprise selling, relationship pricing, modular engineering, and agent-generated software.
 - [AdButler](entities/AdButler.md) — Neutral ad-serving SaaS platform whose enterprise model combines broad product depth, live demonstrations, rapid customization, and direct technical access.
 - [Nayib Bukele](entities/NayibBukele.md) — El Salvador’s president, whose domestic anti-gang record and Haiti deployment combine visible security results with rights, transferability, coordination, and exit-strategy concerns.
@@ -19197,6 +19199,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Physical-Constraint Forecasting](concepts/PhysicalConstraintForecasting.md) — Forecasting method that bounds technology deployment through energy, compute, infrastructure, procurement, cost, and scaling conditions.
+- [Whole-System Innovation Viability](concepts/WholeSystemInnovationViability.md) — Alignment of customer value with physics, economics, timing, manufacturing, lifespan, infrastructure, distribution, and product legibility.
+- [Shock-Ready Strategic Resilience](concepts/ShockReadyStrategicResilience.md) — Pre-shock capability and option design for recurring systemic disruption under explicit incentive and investor constraints.
+- [AI-Distributed Organizational Intelligence](concepts/AIDistributedOrganizationalIntelligence.md) — Conditional model of AI spreading context, analysis, translation, and agent-management capacity while retaining human and corporate accountability.
 - [China Emissions Structural Transition](concepts/ChinaEmissionsStructuralTransition.md) — Test of whether electrification, clean generation, grid delivery, and weaker construction are producing a durable emissions decline beyond temporary conditions.
 - [Fragmented Foreign Security Intervention](concepts/FragmentedForeignSecurityIntervention.md) — Foreign deployment problem in which overlapping armed actors and mandates weaken coordination, attribution, accountability, and exit planning.
 - [Domestication and Social-Network Behavior](concepts/DomesticationSocialNetworkBehavior.md) — Framework relating dog ancestry and group centrality to wolf-to-wolf behavioral contagion without treating yawning as direct proof of empathy or ecological harm.

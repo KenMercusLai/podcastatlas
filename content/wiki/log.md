@@ -39321,3 +39321,11 @@ Added source `b765334b`; created [[RajivKanhaja]] and [[AdButler]]; and resynthe
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | Are We Missing A Billion Untapped Talents | Jonathan Brill x Shekhar Natarajan
+
+Added source `default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292`; created [[JonathanBrill|Jonathan Brill]], [[PhysicalConstraintForecasting]], [[WholeSystemInnovationViability]], [[ShockReadyStrategicResilience]], and [[AIDistributedOrganizationalIntelligence]]. Core synthesis: technology forecasts become more defensible when bounded by energy, compute, infrastructure, procurement, cost, and scaling conditions; applied invention must align desirability with manufacturing, timing, economics, channels, and product legibility; resilience is built before recurring shocks; and AI may distribute context and decision scope without removing corporate accountability or human responsibility for framing, exceptions, relationships, and judgment. No settled contradiction was adopted. Corporate anecdotes, biographical details, the 2030 AI improvement estimate, autonomous-freight economics, orbital-shipping comparison, healthcare intervention, and organizational forecasts remain source-scoped. Broad [[ShekharNatarajan]], [[TomorrowToday]], [[AIOrganizationDesign]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,927 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

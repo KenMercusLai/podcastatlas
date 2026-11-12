@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11187
+wiki_total_pages: 11191
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "PhysicalWorldDataFlywheel"
     title: "Physical World Data Flywheel"
     url: "/wiki/concepts/physicalworlddataflywheel/"
+  - key: "PhysicalConstraintForecasting"
+    title: "Physical-Constraint Forecasting"
+    url: "/wiki/concepts/physicalconstraintforecasting/"
   - key: "PhysicalWorldComputeStack"
     title: "Physical-World Compute Stack"
     url: "/wiki/concepts/physicalworldcomputestack/"
