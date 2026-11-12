@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14049
+wiki_total_pages: 14051
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "RobinRombach"
     title: "Robin Rombach"
     url: "/wiki/entities/robinrombach/"
+  - key: "RobinTauquedet"
+    title: "Robin Tauquedet"
+    url: "/wiki/entities/robintauquedet/"
   - key: "Robinhood"
     title: "Robinhood"
     url: "/wiki/entities/robinhood/"

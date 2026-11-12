@@ -20901,6 +20901,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BrandIdentityFeedbackIsolation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BrandPodcasting": [
     {
       "key": "culture",
@@ -79764,6 +79771,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobinTauquedet": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Robinhood": [
     {
       "key": "economics",
@@ -90367,6 +90381,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Taximetry": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TaxpayerReturnIndustrialPolicy": [
@@ -106352,6 +106373,13 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679": [
     {
       "key": "technology",
       "label": "Technology",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3489
+topic_total_pages: 3490
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -565,6 +565,9 @@ topic_concepts:
   - key: "BorrowedKnifeKilling"
     title: "Borrowed-Knife Killing / 借刀杀人"
     url: "/wiki/concepts/borrowedknifekilling/"
+  - key: "BrandIdentityFeedbackIsolation"
+    title: "Brand Identity Feedback Isolation"
+    url: "/wiki/concepts/brandidentityfeedbackisolation/"
   - key: "BrandmauerCordonSanitaire"
     title: "Brandmauer Cordon Sanitaire"
     url: "/wiki/concepts/brandmauercordonsanitaire/"

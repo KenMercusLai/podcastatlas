@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14049
+wiki_total_pages: 14051
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "TaxiDriver"
     title: "Taxi Driver"
     url: "/wiki/entities/taxidriver/"
+  - key: "Taximetry"
+    title: "Taximetry"
+    url: "/wiki/entities/taximetry/"
   - key: "TaylorDowning"
     title: "Taylor Downing"
     url: "/wiki/entities/taylordowning/"

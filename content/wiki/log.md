@@ -39292,3 +39292,13 @@ Broad [[MarketplaceTech]], [[Meta]], [[OpenAI]], [[ChatGPT]], [[CommonSenseMedia
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan
+
+Added source `default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679`; created [[RobinTauquedet|Robin Tauquedet]], [[Taximetry]], [[CreativeFatigue]], and [[BrandIdentityFeedbackIsolation]]; and resynthesized [[AIGeneratedAdvertising|AI-Generated Advertising]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: generative advertising is most defensible as selective, reviewed workflow automation rather than undifferentiated volume; creative fatigue makes renewable variants useful, but experiment evidence must be interpreted against business stage and other campaign causes; and campaign-performance feedback should not automatically rewrite canonical brand identity. No settled contradiction was adopted. The title/body Taconet/Tauquedet spelling conflict, company performance, customer mix, asset counts, evaluation windows, regulatory requirements, and technical capabilities remain source-scoped or unverified.
+
+Broad [[ShekharNatarajan]], [[TomorrowToday]], [[CreativeMaterialIndustrialization]], [[AIContentProvenance]], [[HumanInLoopAgentGovernance]], [[AISlop]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,924 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

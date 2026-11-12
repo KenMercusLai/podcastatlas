@@ -15915,6 +15915,10 @@
     "title": "Brand Doing",
     "url": "/wiki/concepts/branddoing/"
   },
+  "BrandIdentityFeedbackIsolation": {
+    "title": "Brand Identity Feedback Isolation",
+    "url": "/wiki/concepts/brandidentityfeedbackisolation/"
+  },
   "BrandImpersonationMonitoring": {
     "title": "Brand Impersonation Monitoring",
     "url": "/wiki/concepts/brandimpersonationmonitoring/"
@@ -24490,6 +24494,10 @@
   "CreativeExperienceBottleneck": {
     "title": "Creative Experience Bottleneck / 创作经验瓶颈",
     "url": "/wiki/concepts/creativeexperiencebottleneck/"
+  },
+  "CreativeFatigue": {
+    "title": "Creative Fatigue",
+    "url": "/wiki/concepts/creativefatigue/"
   },
   "CreativeFocusBySubtraction": {
     "title": "Creative Focus by Subtraction / 减法式创作聚焦",
@@ -79767,6 +79775,10 @@
     "title": "Robin Rombach",
     "url": "/wiki/entities/robinrombach/"
   },
+  "RobinTauquedet": {
+    "title": "Robin Tauquedet",
+    "url": "/wiki/entities/robintauquedet/"
+  },
   "Robinhood": {
     "title": "Robinhood",
     "url": "/wiki/entities/robinhood/"
@@ -90126,6 +90138,10 @@
   "TaxiDriver": {
     "title": "Taxi Driver",
     "url": "/wiki/entities/taxidriver/"
+  },
+  "Taximetry": {
+    "title": "Taximetry",
+    "url": "/wiki/entities/taximetry/"
   },
   "TaxisOfTheMarne": {
     "title": "Taxis of the Marne",
@@ -107286,6 +107302,10 @@
   "default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097": {
     "title": "Varun Sharma: From Rejection to Recognition | The Journey Behind the Laughter | Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097-default-mp3-ywr3ahjkcgo-e5f2ae1e1221462d4b9c6016573e88bd-94689097/"
+  },
+  "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679": {
+    "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
   },
   "default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643-default-mp3-ywr3ahjkcgo-f67117c6d6578cbf4781f8d6f81fc756-80080643": {
     "title": "Juan Verde on Politics, Purpose, Leadership, Sustainability and the Future | Shekhar Natarajan",

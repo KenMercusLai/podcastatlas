@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3809
+topic_total_pages: 3812
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8078,6 +8078,9 @@ topic_entities:
   - key: "RobinRombach"
     title: "Robin Rombach"
     url: "/wiki/entities/robinrombach/"
+  - key: "RobinTauquedet"
+    title: "Robin Tauquedet"
+    url: "/wiki/entities/robintauquedet/"
   - key: "Roborock"
     title: "Roborock / 石头科技"
     url: "/wiki/entities/roborock/"
@@ -8501,6 +8504,9 @@ topic_entities:
   - key: "TatianaCirasano"
     title: "Tatiana Cirasano"
     url: "/wiki/entities/tatianacirasano/"
+  - key: "Taximetry"
+    title: "Taximetry"
+    url: "/wiki/entities/taximetry/"
   - key: "TBPN"
     title: "TBPN"
     url: "/wiki/entities/tbpn/"
@@ -10464,6 +10470,9 @@ topic_sources:
   - key: "tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128"
     title: "How a Meta AI prompt changed one mom’s approach to online privacy"
     url: "/wiki/sources/tech-20261008-1008-mp-tech-pod-128-tech-20261008-1008-mp-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679"
+    title: "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
   - key: "tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128"
     title: "How AI nudify apps are proliferating on social media"
     url: "/wiki/sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128/"

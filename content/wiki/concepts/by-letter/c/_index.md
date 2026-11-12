@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11182
+wiki_total_pages: 11184
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2912,6 +2912,9 @@ wiki_pages:
   - key: "CreativeExperienceBottleneck"
     title: "Creative Experience Bottleneck / 创作经验瓶颈"
     url: "/wiki/concepts/creativeexperiencebottleneck/"
+  - key: "CreativeFatigue"
+    title: "Creative Fatigue"
+    url: "/wiki/concepts/creativefatigue/"
   - key: "CreativeFocusBySubtraction"
     title: "Creative Focus by Subtraction / 减法式创作聚焦"
     url: "/wiki/concepts/creativefocusbysubtraction/"

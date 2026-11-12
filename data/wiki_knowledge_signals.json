@@ -3533,6 +3533,43 @@
       "updated": "2026-11-08",
       "url": "/wiki/concepts/aiformath/"
     },
+    "AIGeneratedAdvertising": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
+          "key": "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is \"made by humans\" the new premium label?",
+          "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251212_1212_MP_TECH_pod_128 [tech_20251212_1212_MP_TECH_pod_128].md",
+          "key": "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
+          "url": "/wiki/sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260203_0203_MP_TECH_pod_128 [tech_20260203_0203_MP_TECH_pod_128].md",
+          "key": "tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making AI work - for work",
+          "url": "/wiki/sources/tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
+          "key": "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679",
+          "show": "Tomorrow, Today",
+          "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/aigeneratedadvertising/"
+    },
     "AIGeneratedContentQualityGap": {
       "episode_count": 3,
       "show_count": 3,
@@ -36433,6 +36470,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/branddoing/"
     },
+    "BrandIdentityFeedbackIsolation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
+          "key": "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679",
+          "show": "Tomorrow, Today",
+          "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/brandidentityfeedbackisolation/"
+    },
     "BrandNarrativeEvolution": {
       "episode_count": 1,
       "show_count": 1,
@@ -64894,6 +64947,22 @@
       ],
       "updated": "2026-10-13",
       "url": "/wiki/concepts/creativeexperiencebottleneck/"
+    },
+    "CreativeFatigue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
+          "key": "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679",
+          "show": "Tomorrow, Today",
+          "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/creativefatigue/"
     },
     "CreativeFocusBySubtraction": {
       "episode_count": 1,
@@ -257588,6 +257657,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/robinhoodlegendaccretion/"
     },
+    "RobinTauquedet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
+          "key": "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679",
+          "show": "Tomorrow, Today",
+          "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/robintauquedet/"
+    },
     "Robinhood": {
       "episode_count": 3,
       "show_count": 3,
@@ -291044,6 +291129,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/taxidriver/"
+    },
+    "Taximetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
+          "key": "default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679",
+          "show": "Tomorrow, Today",
+          "title": "How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/taximetry/"
     },
     "TaxisOfTheMarne": {
       "episode_count": 1,
