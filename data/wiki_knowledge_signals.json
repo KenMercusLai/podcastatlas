@@ -85544,9 +85544,9 @@
       "url": "/wiki/concepts/educationmarginburden/"
     },
     "EducationMotivationArchitecture": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7393383815 [SCIM7393383815].md",
@@ -85568,9 +85568,16 @@
           "show": "Huberman Lab",
           "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
           "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+        },
+        {
+          "episode_file": "SCIM7026611161 [SCIM7026611161].md",
+          "key": "essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+          "url": "/wiki/sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EducationResourceEqualizationSystemLimits": {
@@ -89228,9 +89235,9 @@
       "url": "/wiki/concepts/emotioneconomy/"
     },
     "EmotionGuidedLearning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3156934002 [SCIM3156934002].md",
@@ -89238,9 +89245,16 @@
           "show": "Huberman Lab",
           "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
           "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+        },
+        {
+          "episode_file": "SCIM7026611161 [SCIM7026611161].md",
+          "key": "essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+          "url": "/wiki/sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/emotionguidedlearning/"
     },
     "EmotionMentorship": {
@@ -196403,9 +196417,9 @@
       "url": "/wiki/entities/maryfrancesoconnor/"
     },
     "MaryHelenImmordinoYang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3156934002 [SCIM3156934002].md",
@@ -196413,9 +196427,16 @@
           "show": "Huberman Lab",
           "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
           "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+        },
+        {
+          "episode_file": "SCIM7026611161 [SCIM7026611161].md",
+          "key": "essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+          "url": "/wiki/sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/maryhelenimmordinoyang/"
     },
     "MaryI": {

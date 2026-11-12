@@ -4,7 +4,8 @@ type: concept
 tags: [emotion, learning, education, meaning, attention]
 sources:
   - how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002
-last_updated: 2026-09-28
+  - essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161
+last_updated: 2026-11-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Emotion-guided learning is the view that emotion assigns relevance to experience and thereby directs what receives attention, sustained thought, memory, and meaning.
 
 ## Current Synthesis
-The Immordino-Yang source rejects a clean split between emotion and cognition. Bodily regulation can become feeling; feeling can be organized through stories and concepts; and those meanings can develop into beliefs, values, and identity. Learning therefore depends not only on exposure to information but on what the learner experiences as consequential.
+The Immordino-Yang interview and its Essentials edit reject a clean split between emotion and cognition. Bodily regulation can become feeling; feeling can be organized through stories and concepts; and those meanings can develop into beliefs, values, and identity. Learning therefore depends not only on exposure to information but on what the learner experiences as consequential.
 
 The educational implication is directional rather than merely motivational. If emotion centers on grades, failure, speed, or approval, students may become skilled at managing performance signals without engaging deeply with the underlying idea. If a paradox, social problem, scientific question, or narrative becomes meaningful, emotion can sustain inquiry, integration, and reflection. This does not make interest a substitute for foundations or effort; it means that standards, assessment, safety, agency, and relevance jointly shape what hard work is cognitively about.
 
@@ -28,19 +29,18 @@ The educational implication is directional rather than merely motivational. If e
 - Psychological and social safety support perspective-taking but do not require agreement or freedom from challenge.
 
 ## Evidence
-- Emotion-to-meaning pathway: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] links physiological regulation to motivation, conscious feeling, narrative, belief, value, and identity.
-- Learning direction: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] distinguishes students whose emotion is about performance from students whose emotion is about ideas.
+- Emotion-to-meaning pathway: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] and [[essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161]] link physiological regulation to motivation, conscious feeling, narrative, belief, value, and identity.
+- Learning direction: The full [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] interview and condensed [[essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161]] edit distinguish students whose emotion is about performance from students whose emotion is about ideas.
 - Meaningful problem: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] describes a student learning fractions through engagement with Zeno's paradox.
 - Adolescent reflection: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] reports teenagers pausing after socially meaningful stories and returning with broader ethical and self-relevant interpretations.
 - Assessment design: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] contrasts timed reproduction with long-term projects, expert interaction, presentation, and reflection on decisions.
 - Safety condition: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] argues that perceived social, cultural, emotional, or physical threat can close down deep construction of alternative perspectives.
 
 ## Counterevidence & Qualifications
-The supplied source does not provide complete study methods, effect sizes, replication status, or controlled comparisons of school models. Emotion can direct attention toward misconception, status, threat, or dehumanizing narratives as well as truth. Inquiry-based learning still requires domain knowledge, skilled teaching, feedback, and appropriate structure. The claim that rigid schooling contributes to adolescent mental-health problems is not treated here as a single established causal explanation.
+The supplied documents are overlapping summaries of one interview and do not provide complete study methods, effect sizes, replication status, or controlled comparisons of school models. Emotion can direct attention toward misconception, status, threat, or dehumanizing narratives as well as truth. Inquiry-based learning still requires domain knowledge, skilled teaching, feedback, and appropriate structure. The claim that rigid schooling contributes to adolescent mental-health problems is not treated here as a single established causal explanation.
 
 ## What Changed
-- Created the concept to distinguish emotional engagement with ideas from emotional management of performance signals.
-- Connected embodied meaning-making to inquiry, assessment, adolescence, and perspective-taking.
+- Clarified that the Essentials edit reinforces the emotion-target distinction without supplying independent evidence.
 
 ## Related Concepts
 - [[EducationMotivationArchitecture]] - supplies the standards, support, identity, purpose, and opportunity conditions around emotionally directed effort.

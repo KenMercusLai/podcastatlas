@@ -39272,3 +39272,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang
+
+Added source `essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161`; resynthesized [[MaryHelenImmordinoYang|Mary Helen Immordino-Yang]], [[EmotionGuidedLearning]], and [[EducationMotivationArchitecture]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: physiological regulation, culture, prior experience, and social context help organize emotion into meaning; the object of students' emotion determines whether effort centers on ideas or performance signals; and education should join foundational skills to curiosity, meaningful problems, sustained projects, expert feedback, agency, and reflective judgment. The episode also frames narrative examination as an ethical responsibility because stories can enable empathy or dehumanization.
+
+This Essentials edit substantially condenses the already-ingested full interview, so it is recorded as overlapping provenance rather than independent replication. Cultural-perception findings, school-model claims, developmental generalizations, and neuroscience mechanisms remain source-scoped because the supplied document is a structured summary without full methods, effect sizes, or comparative outcomes. Mature [[BrainBodyEmotionMapping]], [[AweEmotion]], [[TheoryOfConstructedEmotion]], [[SocialEmotionInferenceLimits]], and automatic `wiki/overview.md` pages were kept closed because the focused source note and three updated canonical pages capture the changed judgment without reopening broader unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,922 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

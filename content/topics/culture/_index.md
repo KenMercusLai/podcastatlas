@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3646
+topic_total_pages: 3647
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -10392,6 +10392,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730"
     title: "Epstein Files Special: Prince Andrew Arrested, Global Network, Mythology, Reid Hoffman Files"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffman-files-40180730/"
+  - key: "essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161"
+    title: "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang"
+    url: "/wiki/sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161/"
   - key: "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332"
     title: "Essentials: How to Access Your Creativity | Rick Rubin"
     url: "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"

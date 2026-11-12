@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1635
+topic_total_pages: 1636
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4206,6 +4206,9 @@ topic_sources:
   - key: "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352"
     title: "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi"
     url: "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+  - key: "essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161"
+    title: "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang"
+    url: "/wiki/sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161/"
   - key: "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510"
     title: "Essentials: How Hearing & Balance Enhance Focus & Learning"
     url: "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"

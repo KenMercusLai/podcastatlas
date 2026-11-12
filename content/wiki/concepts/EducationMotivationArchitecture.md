@@ -6,7 +6,8 @@ sources:
   - how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815
   - how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639
   - how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002
-last_updated: 2026-09-26
+  - essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161
+last_updated: 2026-11-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -40,17 +41,15 @@ Motivation is not only the amount of effort but the object of emotion and though
 - Mindset boundary: [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639]] rejects effort-only optimism and makes support and opportunity part of durable change.
 - Status architecture: [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639]] contrasts single- and multi-pyramid schools and links adolescence to niches, status, and community value.
 - Purpose and feedback: [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639]] joins meaningful contribution to demanding, supported mentorship.
-- Emotion target: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] distinguishes emotion about grades or failure from emotion about ideas and meaningful problems.
-- Inquiry and assessment: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] favors worthwhile questions, long-term multidisciplinary projects, expert interaction, presentation, and reflection over timed reproduction alone.
+- Emotion target: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] and its [[essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161]] edit distinguish emotion about grades or failure from emotion about ideas and meaningful problems.
+- Inquiry and assessment: The full [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] interview and condensed [[essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161]] version favor worthwhile questions, long-term multidisciplinary projects, expert interaction, presentation, and reflection over timed reproduction alone.
 - Safety and perspective: [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] argues that deep construction of alternative perspectives becomes difficult under social, cultural, emotional, or physical threat.
 
 ## Counterevidence & Qualifications
-The sources do not prove that Alpha's specific incentive systems, Yeager's summarized interventions, or Immordino-Yang's preferred assessment model generalize across students, ages, cultures, subjects, or public-school constraints. Paying students and tying sports access to academics may create motivation for some while raising fairness, intrinsic-motivation, or selection concerns. Inquiry still requires knowledge, structure, feedback, and skilled teaching; safety does not mean removing intellectual challenge. Multiple-status-niche, mental-health, and longer-term school claims remain source-scoped. The page therefore records design principles and boundaries, not a settled universal prescription.
+The sources do not prove that Alpha's specific incentive systems, Yeager's summarized interventions, or Immordino-Yang's preferred assessment model generalize across students, ages, cultures, subjects, or public-school constraints. The full Immordino-Yang note and Essentials edit summarize the same interview and are not independent confirmation. Paying students and tying sports access to academics may create motivation for some while raising fairness, intrinsic-motivation, or selection concerns. Inquiry still requires knowledge, structure, feedback, and skilled teaching; safety does not mean removing intellectual challenge. Multiple-status-niche, mental-health, and longer-term school claims remain source-scoped. The page therefore records design principles and boundaries, not a settled universal prescription.
 
 ## What Changed
-- Added Yeager's direct account of conditional mindset effects, recursive intervention pathways, adolescent status, purpose, and mentor feedback.
-- Clarified that structural opportunity and motivational interpretation are complementary.
-- Added the distinction between effort organized around performance signals and effort organized around ideas, meaning, and inquiry.
+- Clarified that the Essentials edit reinforces the performance-versus-ideas distinction but is overlapping provenance.
 
 ## Related Concepts
 - [[AIMasteryLearningModel]] - academic app layer that requires motivational support.
