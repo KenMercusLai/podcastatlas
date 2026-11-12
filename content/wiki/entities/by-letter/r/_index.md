@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14052
+wiki_total_pages: 14054
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "RajChetty"
     title: "Raj Chetty"
     url: "/wiki/entities/rajchetty/"
+  - key: "RajivKanhaja"
+    title: "Rajiv Kanhaja"
+    url: "/wiki/entities/rajivkanhaja/"
   - key: "RajivMotwani"
     title: "Rajiv Motwani"
     url: "/wiki/entities/rajivmotwani/"

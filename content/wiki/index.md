@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Enterprise Sales Without Salespeople: How a SaaS Hit $10M](sources/b765334b.md) — The SaaS Podcast interview with Rajiv Kanhaja on AdButler's teenage origin, paid-software pivot, product-depth-first enterprise motion, relationship pricing, modular delivery, and agent-generated customer software thesis.
 - [Abate and switch: how China’s emissions fell](sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4.md) — Economist Podcasts on China’s potentially structural emissions decline, Bukele’s fragmented Haiti intervention, and dog ancestry’s association with wolf yawn contagion.
 - [How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan](sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679.md) — Tomorrow Today interview on creative fatigue, selective AI advertising workflows, brand-feedback isolation, human review, provenance limits, and outcome-based AI adoption.
 - [What are the new rules for parenting in the digital age?](sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128.md) — Marketplace Tech with Pamela Wisniewski on staged access, autonomy-preserving youth safety, AI moderation and practice, AI-amplified grooming and scams, and independent safeguard testing.
@@ -5049,6 +5050,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Rajiv Kanhaja](entities/RajivKanhaja.md) — AdButler co-founder and CEO connecting long-horizon product accumulation, lean enterprise selling, relationship pricing, modular engineering, and agent-generated software.
+- [AdButler](entities/AdButler.md) — Neutral ad-serving SaaS platform whose enterprise model combines broad product depth, live demonstrations, rapid customization, and direct technical access.
 - [Nayib Bukele](entities/NayibBukele.md) — El Salvador’s president, whose domestic anti-gang record and Haiti deployment combine visible security results with rights, transferability, coordination, and exit-strategy concerns.
 - [Robin Tauquedet](entities/RobinTauquedet.md) — Taximetry founder connecting creative-fatigue production, multi-model orchestration, human review, and brand-feedback controls.
 - [Taximetry](entities/Taximetry.md) — AI-assisted advertising-creative company represented through selective automation, campaign testing, and brand-specific governance.

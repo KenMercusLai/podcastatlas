@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3812
+topic_total_pages: 3813
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -10188,6 +10188,9 @@ topic_sources:
   - key: "enterprise-sales-with-no-product-landing-a-big-four-customer"
     title: "Enterprise Sales With No Product: Landing a Big Four Customer"
     url: "/wiki/sources/enterprise-sales-with-no-product-landing-a-big-four-customer/"
+  - key: "b765334b"
+    title: "Enterprise Sales Without Salespeople: How a SaaS Hit $10M"
+    url: "/wiki/sources/b765334b/"
   - key: "ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker"
     title: "EP 10: A thought-provoking chat with an actuary and TEDx speaker"
     url: "/wiki/sources/ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker/"

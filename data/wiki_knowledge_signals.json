@@ -8620,6 +8620,22 @@
       "updated": "2026-10-11",
       "url": "/wiki/concepts/acutewoundburnfirstaid/"
     },
+    "AdButler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b765334b [b765334b].md",
+          "key": "b765334b",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales Without Salespeople: How a SaaS Hit $10M",
+          "url": "/wiki/sources/b765334b/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/adbutler/"
+    },
     "AdahSharma": {
       "episode_count": 1,
       "show_count": 1,
@@ -24574,6 +24590,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/atlusworldmodel/"
+    },
+    "AtomicCapabilityServices": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
+          "key": "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1",
+          "show": "枫言枫语",
+          "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
+          "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+        },
+        {
+          "episode_file": "b765334b [b765334b].md",
+          "key": "b765334b",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales Without Salespeople: How a SaaS Hit $10M",
+          "url": "/wiki/sources/b765334b/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/atomiccapabilityservices/"
     },
     "AtomicContentGuardrails": {
       "episode_count": 1,
@@ -68171,9 +68210,9 @@
       "url": "/wiki/concepts/customersignaldrivenpivot/"
     },
     "CustomerValueBasedPricing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
@@ -68181,9 +68220,16 @@
           "show": "纵横四海",
           "title": "EP85 营销管理：Mini MBA 第一课",
           "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        },
+        {
+          "episode_file": "b765334b [b765334b].md",
+          "key": "b765334b",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales Without Salespeople: How a SaaS Hit $10M",
+          "url": "/wiki/sources/b765334b/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/customervaluebasedpricing/"
     },
     "CuteCharacterAnxietyResonance": {
@@ -78729,9 +78775,9 @@
       "url": "/wiki/concepts/dispersedbusinesselitepower/"
     },
     "DisposableSoftware": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "c1f006c2d282 [c1f006c2d282].md",
@@ -78739,9 +78785,16 @@
           "show": "科技乱炖",
           "title": "从 Omarchy 聊起，AI 正在如何重塑操作系统、开源生态与软件商业模式？",
           "url": "/wiki/sources/c1f006c2d282-c1f006c2d282/"
+        },
+        {
+          "episode_file": "b765334b [b765334b].md",
+          "key": "b765334b",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales Without Salespeople: How a SaaS Hit $10M",
+          "url": "/wiki/sources/b765334b/"
         }
       ],
-      "updated": "2026-10-15",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/disposablesoftware/"
     },
     "DissentSpaceCompression": {
@@ -109231,9 +109284,9 @@
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
     },
     "FounderLedSales": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 3,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -109325,9 +109378,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Selling an AI SaaS Platform After 200 Buyers Called It Crazy",
           "url": "/wiki/sources/2bbd2ffd/"
+        },
+        {
+          "episode_file": "b765334b [b765334b].md",
+          "key": "b765334b",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales Without Salespeople: How a SaaS Hit $10M",
+          "url": "/wiki/sources/b765334b/"
         }
       ],
-      "updated": "2026-11-06",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/founderledsales/"
     },
     "FounderLifestyleInfrastructure": {
@@ -248357,6 +248417,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/raisednutrition/"
+    },
+    "RajivKanhaja": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "b765334b [b765334b].md",
+          "key": "b765334b",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Enterprise Sales Without Salespeople: How a SaaS Hit $10M",
+          "url": "/wiki/sources/b765334b/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/rajivkanhaja/"
     },
     "RalphAdolphs": {
       "episode_count": 1,

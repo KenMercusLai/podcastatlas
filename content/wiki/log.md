@@ -39313,3 +39313,11 @@ No settled contradiction was adopted. The Chinese decline retains weather, heati
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | Enterprise Sales Without Salespeople: How a SaaS Hit $10M
+
+Added source `b765334b`; created [[RajivKanhaja]] and [[AdButler]]; and resynthesized [[FounderLedSales]], [[CustomerValueBasedPricing]], [[DisposableSoftware]], and [[AtomicCapabilityServices]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: long-accumulated product depth, live demonstrations, rapid customization, accessible engineers, and relationship-oriented terms can support a lean enterprise motion, but “without salespeople” does not mean without RFP, implementation, support, or sales labor. Kanhaja's AI thesis separates durable API or MCP-like capabilities from agent-generated customer interfaces and workflows, while security, testing, audit, versioning, and maintenance remain unresolved. No settled contradiction was adopted. Revenue, headcount, customers, contract values, zero-churn, delivery-speed, historical financial, and software-future claims remain founder-reported or source-scoped. Broad [[TheSaaSPodcast]], [[Costco]], [[HEB|H-E-B]], [[HomeDepot|Home Depot]], [[AgentFacingInterfaces]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,926 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide scan still reports 54 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
