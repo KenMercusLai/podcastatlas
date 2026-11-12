@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2392
+topic_total_pages: 2394
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5210,6 +5210,9 @@ topic_entities:
   - key: "RonConway"
     title: "Ron Conway"
     url: "/wiki/entities/ronconway/"
+  - key: "RonShaich"
+    title: "Ron Shaich"
+    url: "/wiki/entities/ronshaich/"
   - key: "RongzhongGroup"
     title: "Rongzhong Group / 荣众集团"
     url: "/wiki/entities/rongzhonggroup/"
@@ -6831,6 +6834,9 @@ topic_sources:
   - key: "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132"
     title: "Outsider chance: ending Sudan's proxy war"
     url: "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+  - key: "vmp7917788157-vmp7917788157"
+    title: "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)"
+    url: "/wiki/sources/vmp7917788157-vmp7917788157/"
   - key: "socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8"
     title: "Parker Conrad on Zenefits, Rippling, and Building Through Crisis"
     url: "/wiki/sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8/"

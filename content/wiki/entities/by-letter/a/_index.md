@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14039
+wiki_total_pages: 14042
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -2000,6 +2000,9 @@ wiki_pages:
   - key: "Atrium"
     title: "Atrium"
     url: "/wiki/entities/atrium/"
+  - key: "AuBonPain"
+    title: "Au Bon Pain"
+    url: "/wiki/entities/aubonpain/"
   - key: "AudemarsPiguet"
     title: "Audemars Piguet"
     url: "/wiki/entities/audemarspiguet/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)](sources/vmp7917788157-vmp7917788157.md) — How I Built This interview on Ron Shaich's customer-led bakery-cafe development, Au Bon Pain turnaround, concentrated Panera bet, countercyclical expansion, and private-ownership rationale.
 - [《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？](sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p.md) — 芮淇讲透资治通鉴以张鲁受降、巴西争夺、赵俨分阶段平乱及跨年事件编排，讨论招降信号、危机处置与叙事次序和实际年代的区别。
 - [《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？](sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo.md) — 芮淇讲透资治通鉴以崔琰书信被政治化、丁仪的间接归因、曹丕曹植继承竞争及毛玠案中的证据争议解释曹操称王后的清理逻辑。
 - [How bodegas led to the Yemeni coffeehouse explosion](sources/default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773-default-mp3-ywr3ahjkcgo-5393d7fefb9af8a195c1e62bc0641a5a-25718773.md) — Planet Money uses a Brooklyn cafe-and-deli family story to connect Yemeni coffeehouses with immigrant industry clustering, informal finance, community business infrastructure, and second-generation adaptation.
@@ -5042,6 +5043,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
 
 ## Entities
+- [Ron Shaich](entities/RonShaich.md) — Panera founder connecting customer observation, bakery-cafe operations, strategic divestiture, and long-horizon investment.
+- [Panera Bread](entities/PaneraBread.md) — Bakery-cafe company scaled through concentrated corporate resources, gathering-place positioning, and countercyclical investment.
+- [Au Bon Pain](entities/AuBonPain.md) — Bakery business rebuilt into an early bakery-cafe platform and later sold so the parent company could focus on Panera.
 - [丁仪 / Ding Yi (late Han)](entities/DingYiLateHan.md) — 曹植阵营谋士，因与曹丕的婚事旧怨及利益结构被节目间接判断为崔琰案的可能告发者。
 - [崔林 / Cui Lin (late Han)](entities/CuiLinLateHan.md) — 为崔琰才干辩护、又以更务实适应的仕途在曹魏升至高位的汉末官员。
 - [Bill Kerr](entities/BillKerr.md) — Economist cited for comparative research on immigrant industry concentration and community ties.

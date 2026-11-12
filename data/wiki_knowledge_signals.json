@@ -24958,6 +24958,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/attritionalreconquest/"
     },
+    "AuBonPain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7917788157 [VMP7917788157].md",
+          "key": "vmp7917788157-vmp7917788157",
+          "show": "How I Built This with Guy Raz",
+          "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+          "url": "/wiki/sources/vmp7917788157-vmp7917788157/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/aubonpain/"
+    },
     "Audi": {
       "episode_count": 2,
       "show_count": 2,
@@ -77880,9 +77896,9 @@
       "url": "/wiki/concepts/diplomaticscapegoatblametransfer/"
     },
     "DirectCustomerFeedbackLoop": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Thrive Causemetics： Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission [be72ee5e-a5fd-4554-bd4d-fda64909e6f6].md",
@@ -77897,9 +77913,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Sweet Loren's: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
           "url": "/wiki/sources/sweet-lorens-loren-castle-how-a-recipe-makeover-built-a-national-cookie-brand-2e22478b-1b41-4ff1-a43b-0143a48f308b/"
+        },
+        {
+          "episode_file": "VMP7917788157 [VMP7917788157].md",
+          "key": "vmp7917788157-vmp7917788157",
+          "show": "How I Built This with Guy Raz",
+          "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+          "url": "/wiki/sources/vmp7917788157-vmp7917788157/"
         }
       ],
-      "updated": "2026-10-19",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/directcustomerfeedbackloop/"
     },
     "DirectPCBuildToOrderModel": {
@@ -185560,9 +185583,9 @@
       "url": "/wiki/concepts/longtermplaceoperation/"
     },
     "LongTermPrivateOwnership": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Charles & Chase Koch on How They Quietly Built a $150B Empire [41270895].md",
@@ -185577,9 +185600,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+        },
+        {
+          "episode_file": "VMP7917788157 [VMP7917788157].md",
+          "key": "vmp7917788157-vmp7917788157",
+          "show": "How I Built This with Guy Raz",
+          "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+          "url": "/wiki/sources/vmp7917788157-vmp7917788157/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/longtermprivateownership/"
     },
     "LongXiaoyunElderGuLong": {
@@ -225844,6 +225874,22 @@
       "updated": "2026-10-15",
       "url": "/wiki/entities/pandora/"
     },
+    "PaneraBread": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7917788157 [VMP7917788157].md",
+          "key": "vmp7917788157-vmp7917788157",
+          "show": "How I Built This with Guy Raz",
+          "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+          "url": "/wiki/sources/vmp7917788157-vmp7917788157/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/panerabread/"
+    },
     "PanfiloDeNarvaez": {
       "episode_count": 1,
       "show_count": 1,
@@ -259040,6 +259086,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/romulusaugustulus/"
     },
+    "RonShaich": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "VMP7917788157 [VMP7917788157].md",
+          "key": "vmp7917788157-vmp7917788157",
+          "show": "How I Built This with Guy Raz",
+          "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+          "url": "/wiki/sources/vmp7917788157-vmp7917788157/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/ronshaich/"
+    },
     "RonaldHutton": {
       "episode_count": 3,
       "show_count": 1,
@@ -282707,9 +282769,9 @@
       "url": "/wiki/concepts/strategicexclusionandfocus/"
     },
     "StrategicFocusBySubtraction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "f6618818-b288-4798-bab8-d60d77c70aff [f6618818-b288-4798-bab8-d60d77c70aff].md",
@@ -282717,9 +282779,16 @@
           "show": "硅谷101",
           "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
           "url": "/wiki/sources/e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff/"
+        },
+        {
+          "episode_file": "VMP7917788157 [VMP7917788157].md",
+          "key": "vmp7917788157-vmp7917788157",
+          "show": "How I Built This with Guy Raz",
+          "title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+          "url": "/wiki/sources/vmp7917788157-vmp7917788157/"
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/strategicfocusbysubtraction/"
     },
     "StrategicForbearanceGovernance": {

@@ -39246,3 +39246,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)
+
+Added source `vmp7917788157-vmp7917788157`; created [[RonShaich|Ron Shaich]], [[PaneraBread|Panera Bread]], and [[AuBonPain|Au Bon Pain]]; and resynthesized [[DirectCustomerFeedbackLoop]], [[StrategicFocusBySubtraction]], and [[LongTermPrivateOwnership]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: customer behavior can reveal category opportunities through daypart demand and improvised product completion; strategic subtraction can range from refusing secondary projects to selling successful divisions so capital, people, and leadership move to one higher-potential business; and private ownership can protect a multiyear strategy only if post-transaction operating evidence confirms the intention. No settled contradiction was adopted. Financial figures, store counts, market performance, strategic causation, and the benefits of JAB ownership remain founder-reported or source-scoped.
+
+Broad [[GuyRaz|Guy Raz]], [[HowIBuiltThis|How I Built This]], [[Starbucks]], [[InterestBasedThirdPlace]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,919 sources across 806 overview paragraphs and nine topics. The changed-page link and index check passed; the repository-wide scan still reports 54 pre-existing broken wikilinks outside this ingest's changed pages.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

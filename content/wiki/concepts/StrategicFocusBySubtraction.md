@@ -4,39 +4,39 @@ type: concept
 tags: [startups, strategy, focus, execution]
 sources:
   - e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff
-last_updated: 2026-11-10
+  - vmp7917788157-vmp7917788157
+last_updated: 2026-11-12
 knowledge_schema: synthesis-v1
 ---
 
 # Strategic Focus by Subtraction / 减法式战略聚焦
 
 ## Definition
-Strategic focus by subtraction is the deliberate removal of attractive but secondary company work so one current objective receives concentrated attention, resources, and review.
+Strategic focus by subtraction is the deliberate removal or divestiture of attractive but secondary company work so one higher-potential objective receives concentrated attention, capital, leadership, and review.
 
 ## Current Synthesis
-The [[HF0]] account makes subtraction an institutional design rather than a personal slogan. Daily-life services reduce attention switching, a single north-star metric compresses reporting, and weekly public review exposes whether the company moved that metric. The hard choice is not merely reducing entertainment; it is declining partnerships, projects, or optimizations that may be valuable but are not the current constraint.
+The bounded evidence now shows subtraction at two scales. [[HF0]] makes it a temporary operating system: daily-life services reduce attention switching, one north-star metric compresses reporting, and weekly public review exposes whether the company moved it. [[RonShaich|Ron Shaich]]'s [[PaneraBread|Panera]] account makes it a portfolio decision: sell a larger, successful legacy business and other divisions so money, people, and management can move to the concept judged to have the greatest upside.
 
-This logic is compatible with different metrics. Revenue, token usage, research progress, or engineering completion can each be appropriate if the measure fits the company and keeps the three-month objective legible.
+The common mechanism is opportunity-cost enforcement, not austerity for its own sake. A metric must fit the current constraint, and a divestiture must release resources that can actually improve the chosen business. The evidence does not prove that the selected priority was knowable in advance or that concentration is safer than retaining a diversified option set.
 
 ## Key Claims
 - Focus is created by removing competing work, not by naming an additional top priority.
 - The second-most-important opportunity can be more dangerous to focus than obviously trivial work.
-- Support infrastructure can increase strategic focus by reducing daily-life and coordination interruptions.
-- One metric is useful only when it represents the current constraint rather than forcing every company toward revenue.
-- Public review can strengthen accountability, but pressure and comparison are not universally safe or productive.
+- Subtraction can operate through daily support and project refusal or through sale of whole divisions and redeployment of corporate resources.
+- One metric is useful only when it represents the current constraint, while a portfolio bet requires credible evidence that one business can productively absorb concentrated resources.
+- Concentration can accelerate execution but increases exposure to selection error, lost optionality, and fragility in the chosen business.
 
 ## Evidence
-- Subtraction mechanism - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] describes removing daily logistics and refusing secondary business opportunities.
-- Metric design - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] contrasts revenue, token usage, ARR, and research or engineering milestones.
-- Review cadence - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] describes two-minute weekly progress reports followed by questions and peer comparison.
-- Transfer evidence - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] says ACE Studio reused the principle in internal accelerators.
+- Operating attention - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] describes removing daily logistics, refusing secondary opportunities, selecting a company-specific metric, and reviewing it publicly.
+- Corporate resource concentration - [[vmp7917788157-vmp7917788157]] describes selling Au Bon Pain and other divisions so capital, personnel, and leadership could move to Panera.
+- Transfer across scale - [[e258-liaoliao-guigu-chuangye-xiudaoyuan-hf0-yu-openrouter-zaoqi-gushi-f6618818-b288-4798-bab8-d60d77c70aff]] says ACE Studio reused the principle in internal accelerators, while [[vmp7917788157-vmp7917788157]] presents it as a board-contested portfolio choice.
 
 ## Counterevidence & Qualifications
-One cohort account does not prove that a single metric or residential intensity improves every company. A narrow metric can invite gaming, conceal quality or safety, and erase unavoidable responsibilities. Secondary work can also preserve resilience, discovery, customer relationships, or future options. Public comparison may motivate some teams while increasing stress or reducing candor for others.
+Neither a cohort account nor one founder success story proves that concentration improves every company. A narrow metric can invite gaming, conceal quality or safety, and erase unavoidable responsibilities. Divestiture can destroy useful diversification, customer relationships, cash flow, or future options, and retrospective success can make selection look more predictable than it was. Public comparison may motivate some teams while increasing stress or reducing candor for others.
 
 ## What Changed
-- Created a startup-strategy concept distinct from individual [[CreativeFocusBySubtraction|creative focus by subtraction]].
-- Added institutional support, metric choice, and public review as mechanisms that make subtraction operational.
+- Expanded the concept from cohort-level attention design to corporate portfolio divestiture and resource redeployment.
+- Added productive resource absorption, selection error, and lost optionality as conditions on the concentration thesis.
 
 ## Related Concepts
 - [[CreativeFocusBySubtraction]] - individual craft version of removing low-value commitments.
@@ -44,3 +44,5 @@ One cohort account does not prove that a single metric or residential intensity 
 - [[ProgressTrackingSelfAssessment]] - evidence-based review mechanism used inside the focused period.
 - [[FounderLifestyleInfrastructure]] - removes daily-life friction so strategic attention can remain concentrated.
 - [[InternalStartupAccelerator]] - temporary organizational container for applying the principle.
+- [[DirectCustomerFeedbackLoop]] - evidence mechanism that can help identify which opportunity deserves concentration.
+- [[LongTermPrivateOwnership]] - ownership structure that may preserve a concentrated strategy beyond quarterly pressure.
