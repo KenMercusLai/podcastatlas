@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤](sources/d6a57e77346c-d6a57e77346c.md) — 科技乱炖从未经证实的名人关系与商业合谋猜想切入，讨论 GPU 出口限制、跨境价差、层层中介、终端用户承诺、虚假货源和重复询价如何塑造灰色流通市场。
 - [Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)](sources/vmp7917788157-vmp7917788157.md) — How I Built This interview on Ron Shaich's customer-led bakery-cafe development, Au Bon Pain turnaround, concentrated Panera bet, countercyclical expansion, and private-ownership rationale.
 - [《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？](sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p.md) — 芮淇讲透资治通鉴以张鲁受降、巴西争夺、赵俨分阶段平乱及跨年事件编排，讨论招降信号、危机处置与叙事次序和实际年代的区别。
 - [《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？](sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo.md) — 芮淇讲透资治通鉴以崔琰书信被政治化、丁仪的间接归因、曹丕曹植继承竞争及毛玠案中的证据争议解释曹操称王后的清理逻辑。
@@ -5043,6 +5044,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
 
 ## Entities
+- [Huang Le / 黄乐 (businesswoman)](entities/HuangLeBusinesswoman.md) — Former journalist and finance professional associated by one episode with Mega Speed and an explicitly unverified GPU-trade theory.
+- [Mega Speed](entities/MegaSpeed.md) — Singapore-linked company described by one episode as shifting toward GPU, AI, and data-center commerce, with scale and diversion claims kept source-scoped.
 - [Ron Shaich](entities/RonShaich.md) — Panera founder connecting customer observation, bakery-cafe operations, strategic divestiture, and long-horizon investment.
 - [Panera Bread](entities/PaneraBread.md) — Bakery-cafe company scaled through concentrated corporate resources, gathering-place positioning, and countercyclical investment.
 - [Au Bon Pain](entities/AuBonPain.md) — Bakery business rebuilt into an early bakery-cafe platform and later sold so the parent company could focus on Panera.
@@ -19178,6 +19181,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Scarcity-Market Inquiry Amplification / 稀缺市场询价放大](concepts/ScarcityMarketInquiryAmplification.md) — 多名中间商把同一终端需求传回重叠上游，导致询价量被误读为买家数并放大价格的机制。
 - [Selective Amnesty and Phased Force Separation / 选择性赦免与分批换防](concepts/SelectiveAmnestyPhasedForceSeparation.md) — 以只追首恶、保留退出路径和分批换防，把即时平乱与长期兵权风险分开处理。
 - [Causal Narrative and Event Chronology Separation / 因果叙事与事件编年分离](concepts/CausalNarrativeChronologySeparation.md) — 区分事件在史书中的因果性编排位置与其实际发生年代，并要求以平行史料核对。
 - [Immigrant Industry Clustering](concepts/ImmigrantIndustryClustering.md) — Community specialization that circulates jobs, training, finance, tacit knowledge, and trusted business entry.

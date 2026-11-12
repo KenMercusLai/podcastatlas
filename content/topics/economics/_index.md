@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2394
+topic_total_pages: 2397
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2896,6 +2896,9 @@ topic_concepts:
   - key: "ScalingBrokenProduct"
     title: "Scaling Broken Product"
     url: "/wiki/concepts/scalingbrokenproduct/"
+  - key: "ScarcityMarketInquiryAmplification"
+    title: "Scarcity-Market Inquiry Amplification / 稀缺市场询价放大"
+    url: "/wiki/concepts/scarcitymarketinquiryamplification/"
   - key: "SeasonalInventoryFinancing"
     title: "Seasonal Inventory Financing"
     url: "/wiki/concepts/seasonalinventoryfinancing/"
@@ -4511,6 +4514,9 @@ topic_entities:
   - key: "HSBCLions"
     title: "HSBC Lions / 汇丰铜狮"
     url: "/wiki/entities/hsbclions/"
+  - key: "HuangLeBusinesswoman"
+    title: "Huang Le / 黄乐 (businesswoman)"
+    url: "/wiki/entities/huanglebusinesswoman/"
   - key: "HuizhouMerchants"
     title: "Huizhou Merchants / 徽商"
     url: "/wiki/entities/huizhoumerchants/"
@@ -4883,6 +4889,9 @@ topic_entities:
   - key: "MediciBank"
     title: "Medici Bank"
     url: "/wiki/entities/medicibank/"
+  - key: "MegaSpeed"
+    title: "Mega Speed"
+    url: "/wiki/entities/megaspeed/"
   - key: "MehmetSimsek"
     title: "Mehmet Simsek"
     url: "/wiki/entities/mehmetsimsek/"

@@ -48507,6 +48507,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HuangLeBusinesswoman": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "HuangLiuhong": [
     {
       "key": "politics",
@@ -62651,6 +62658,18 @@
     }
   ],
   "MegaCapConcentrationRisk": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "MegaSpeed": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "economics",
       "label": "Economics",
@@ -81739,6 +81758,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ScarcityMarketInquiryAmplification": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ScarcityMindset": [
@@ -106057,6 +106083,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "d6a57e77346c-d6a57e77346c": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063-d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063": [

@@ -114489,9 +114489,9 @@
       "url": "/wiki/concepts/gpucomputeassetbackedfinancing/"
     },
     "GPUSpotMarketTrustFriction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ba044533d184 [ba044533d184].md",
@@ -114499,9 +114499,16 @@
           "show": "科技乱炖",
           "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
           "url": "/wiki/sources/ba044533d184-ba044533d184/"
+        },
+        {
+          "episode_file": "d6a57e77346c [d6a57e77346c].md",
+          "key": "d6a57e77346c-d6a57e77346c",
+          "show": "科技乱炖",
+          "title": "黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤",
+          "url": "/wiki/sources/d6a57e77346c-d6a57e77346c/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/gpuspotmarkettrustfriction/"
     },
     "GSMStandardization": {
@@ -141323,6 +141330,22 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/huanglaoquietgovernance/"
+    },
+    "HuangLeBusinesswoman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d6a57e77346c [d6a57e77346c].md",
+          "key": "d6a57e77346c-d6a57e77346c",
+          "show": "科技乱炖",
+          "title": "黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤",
+          "url": "/wiki/sources/d6a57e77346c-d6a57e77346c/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/huanglebusinesswoman/"
     },
     "HuangQiongLateHan": {
       "episode_count": 7,
@@ -199223,6 +199246,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/meghirschberg/"
+    },
+    "MegaSpeed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d6a57e77346c [d6a57e77346c].md",
+          "key": "d6a57e77346c-d6a57e77346c",
+          "show": "科技乱炖",
+          "title": "黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤",
+          "url": "/wiki/sources/d6a57e77346c-d6a57e77346c/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/megaspeed/"
     },
     "MegaprojectSuccessConditions": {
       "episode_count": 1,
@@ -263725,6 +263764,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/scarkeloiddistinction/"
+    },
+    "ScarcityMarketInquiryAmplification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d6a57e77346c [d6a57e77346c].md",
+          "key": "d6a57e77346c-d6a57e77346c",
+          "show": "科技乱炖",
+          "title": "黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤",
+          "url": "/wiki/sources/d6a57e77346c-d6a57e77346c/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/scarcitymarketinquiryamplification/"
     },
     "ScarcityMindset": {
       "episode_count": 1,

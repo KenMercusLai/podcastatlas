@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14042
+wiki_total_pages: 14044
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "MegHirschberg"
     title: "Meg Hirschberg"
     url: "/wiki/entities/meghirschberg/"
+  - key: "MegaSpeed"
+    title: "Mega Speed"
+    url: "/wiki/entities/megaspeed/"
   - key: "MeganMcCartyCorino"
     title: "Megan McCarty-Corino"
     url: "/wiki/entities/meganmccartycorino/"

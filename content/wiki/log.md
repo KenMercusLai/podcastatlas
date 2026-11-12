@@ -39256,3 +39256,11 @@ Broad [[GuyRaz|Guy Raz]], [[HowIBuiltThis|How I Built This]], [[Starbucks]], [[I
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | 黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤
+
+Added source `d6a57e77346c-d6a57e77346c`; created [[HuangLeBusinesswoman|Huang Le / 黄乐 (businesswoman)]], [[MegaSpeed|Mega Speed]], and [[ScarcityMarketInquiryAmplification|Scarcity-Market Inquiry Amplification]]; and resynthesized [[GPUSpotMarketTrustFriction]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: export restrictions and regional price gaps can turn GPU procurement into a principal-, inventory-, settlement-, and compliance-verification problem; repeated brokers can relay one terminal requirement to overlapping upstream sellers and inflate apparent demand; and ordinary customs clearance does not establish compliance with end-user or re-export restrictions. No settled contradiction was adopted. The episode's private-relationship, espionage, commercial-collusion, profit-sharing, political-bargain, company-scale, and market-reaction claims remain unsupported, secondary, anecdotal, or explicitly speculative. Broad [[JensenHuang|Jensen Huang]], [[Nvidia]], [[AIExportControls]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without converting allegations into established profiles or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,920 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

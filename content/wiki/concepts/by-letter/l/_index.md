@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 11179
+wiki_total_pages: 11180
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"

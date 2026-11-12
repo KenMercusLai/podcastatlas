@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11179
+wiki_total_pages: 11180
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "ScarcityMindset"
     title: "Scarcity Mindset / 稀缺心态"
     url: "/wiki/concepts/scarcitymindset/"
+  - key: "ScarcityMarketInquiryAmplification"
+    title: "Scarcity-Market Inquiry Amplification / 稀缺市场询价放大"
+    url: "/wiki/concepts/scarcitymarketinquiryamplification/"
   - key: "ScenarioLedConnectivityHardware"
     title: "Scenario-Led Connectivity Hardware / 场景驱动的连接硬件"
     url: "/wiki/concepts/scenarioledconnectivityhardware/"
