@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11184
+wiki_total_pages: 11187
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "ChinaDualCirculationStrategy"
     title: "China Dual Circulation Strategy / 中国双循环战略"
     url: "/wiki/concepts/chinadualcirculationstrategy/"
+  - key: "ChinaEmissionsStructuralTransition"
+    title: "China Emissions Structural Transition"
+    url: "/wiki/concepts/chinaemissionsstructuraltransition/"
   - key: "ChinaEnterpriseAISystemDebt"
     title: "China Enterprise AI System Debt"
     url: "/wiki/concepts/chinaenterpriseaisystemdebt/"

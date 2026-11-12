@@ -19018,9 +19018,9 @@
       "url": "/wiki/entities/animalfarm/"
     },
     "AnimalIntelligenceModes": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
@@ -19042,9 +19042,16 @@
           "show": "Huberman Lab",
           "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
           "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        },
+        {
+          "episode_file": "08cf7dbf07d967235ec2004c6e8b93f5 [08cf7dbf07d967235ec2004c6e8b93f5.mp3？aid=6af5967413c30781a320173d&chid=d556eb54-6160-4.281].md",
+          "key": "08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Abate and switch: how China’s emissions fell",
+          "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/animalintelligencemodes/"
     },
     "AnimalPainLegalRecognition": {
@@ -50732,6 +50739,22 @@
       "updated": "2026-11-10",
       "url": "/wiki/entities/chinaeasternairlines/"
     },
+    "ChinaEmissionsStructuralTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "08cf7dbf07d967235ec2004c6e8b93f5 [08cf7dbf07d967235ec2004c6e8b93f5.mp3？aid=6af5967413c30781a320173d&chid=d556eb54-6160-4.281].md",
+          "key": "08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Abate and switch: how China’s emissions fell",
+          "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/chinaemissionsstructuraltransition/"
+    },
     "ChinaEnterpriseAISystemDebt": {
       "episode_count": 3,
       "show_count": 3,
@@ -79613,6 +79636,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/domesticserviceprofessionalization/"
     },
+    "DomesticationSocialNetworkBehavior": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "08cf7dbf07d967235ec2004c6e8b93f5 [08cf7dbf07d967235ec2004c6e8b93f5.mp3？aid=6af5967413c30781a320173d&chid=d556eb54-6160-4.281].md",
+          "key": "08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Abate and switch: how China’s emissions fell",
+          "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/domesticationsocialnetworkbehavior/"
+    },
     "DominationModelOfAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -87263,9 +87302,9 @@
       "url": "/wiki/concepts/electrictwowheelerpremiumization/"
     },
     "ElectricalTechnologyRevolution": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llPsXE4uV4dIZnyyxmDFgRzaais- [llPsXE4uV4dIZnyyxmDFgRzaais-].md",
@@ -87273,9 +87312,16 @@
           "show": "不合时宜",
           "title": "能源转型进入下半场：当环保与经济增长不再是二选一",
           "url": "/wiki/sources/nengyuan-zhuanxing-jinru-xiabanchang-dang-huanbao-yu-jingji-zengzhang-buzai-shi-erxuanyi-llpsxe4uv4diznyyxmdfgrzaais/"
+        },
+        {
+          "episode_file": "08cf7dbf07d967235ec2004c6e8b93f5 [08cf7dbf07d967235ec2004c6e8b93f5.mp3？aid=6af5967413c30781a320173d&chid=d556eb54-6160-4.281].md",
+          "key": "08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Abate and switch: how China’s emissions fell",
+          "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
         }
       ],
-      "updated": "2026-10-28",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/electricaltechnologyrevolution/"
     },
     "ElectricityAffordabilityIndicator": {
@@ -109959,6 +110005,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/foxconnindustrialinternet/"
+    },
+    "FragmentedForeignSecurityIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "08cf7dbf07d967235ec2004c6e8b93f5 [08cf7dbf07d967235ec2004c6e8b93f5.mp3？aid=6af5967413c30781a320173d&chid=d556eb54-6160-4.281].md",
+          "key": "08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Abate and switch: how China’s emissions fell",
+          "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/fragmentedforeignsecurityintervention/"
     },
     "FragmentedMemoryNarrative": {
       "episode_count": 1,
@@ -212948,6 +213010,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/navierstokesequations/"
+    },
+    "NayibBukele": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "08cf7dbf07d967235ec2004c6e8b93f5 [08cf7dbf07d967235ec2004c6e8b93f5.mp3？aid=6af5967413c30781a320173d&chid=d556eb54-6160-4.281].md",
+          "key": "08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4",
+          "show": "Economist Podcasts",
+          "title": "Abate and switch: how China’s emissions fell",
+          "url": "/wiki/sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/nayibbukele/"
     },
     "Nayuki": {
       "episode_count": 1,

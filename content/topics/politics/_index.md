@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3490
+topic_total_pages: 3491
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7481,6 +7481,9 @@ topic_entities:
   - key: "NawafSalam"
     title: "Nawaf Salam"
     url: "/wiki/entities/nawafsalam/"
+  - key: "NayibBukele"
+    title: "Nayib Bukele"
+    url: "/wiki/entities/nayibbukele/"
   - key: "NeilBlaney"
     title: "Neil Blaney"
     url: "/wiki/entities/neilblaney/"

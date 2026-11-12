@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Abate and switch: how China’s emissions fell](sources/08cf7dbf07d967235ec2004c6e8b93f5-08cf7dbf07d967235ec2004c6e8b93f5mp3aid6af5967413c30781a320173dchidd556eb54-6160-4.md) — Economist Podcasts on China’s potentially structural emissions decline, Bukele’s fragmented Haiti intervention, and dog ancestry’s association with wolf yawn contagion.
 - [How AI Is Reinventing Advertising and the Future of Brand Creativity | Robin Taconet x Shekhar Natrajan](sources/default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679-default-mp3-ywr3ahjkcgo-f627a6ffa1322b3e7fd3b466e8b10749-62499679.md) — Tomorrow Today interview on creative fatigue, selective AI advertising workflows, brand-feedback isolation, human review, provenance limits, and outcome-based AI adoption.
 - [What are the new rules for parenting in the digital age?](sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128.md) — Marketplace Tech with Pamela Wisniewski on staged access, autonomy-preserving youth safety, AI moderation and practice, AI-amplified grooming and scams, and independent safeguard testing.
 - [一次关于热爱、冒险与生命代价的特别对话｜Bonus](sources/83178c10-cba6-4869-8b69-559da582009c-83178c10-cba6-4869-8b69-559da582009c.md) — 声东击西以希拉里·尼尔森的生命与离世追问高风险热爱、家庭责任、丧亲陪伴和继续前行之间无法被统一公式化的选择。
@@ -5048,6 +5049,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Nayib Bukele](entities/NayibBukele.md) — El Salvador’s president, whose domestic anti-gang record and Haiti deployment combine visible security results with rights, transferability, coordination, and exit-strategy concerns.
 - [Robin Tauquedet](entities/RobinTauquedet.md) — Taximetry founder connecting creative-fatigue production, multi-model orchestration, human review, and brand-feedback controls.
 - [Taximetry](entities/Taximetry.md) — AI-assisted advertising-creative company represented through selective automation, campaign testing, and brand-specific governance.
 - [Pamela Wisniewski](entities/PamelaWisniewski.md) — Youth online-safety researcher framing staged access, practical risk education, platform responsibility, and AI intervention around retained adolescent agency.
@@ -19192,6 +19194,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [China Emissions Structural Transition](concepts/ChinaEmissionsStructuralTransition.md) — Test of whether electrification, clean generation, grid delivery, and weaker construction are producing a durable emissions decline beyond temporary conditions.
+- [Fragmented Foreign Security Intervention](concepts/FragmentedForeignSecurityIntervention.md) — Foreign deployment problem in which overlapping armed actors and mandates weaken coordination, attribution, accountability, and exit planning.
+- [Domestication and Social-Network Behavior](concepts/DomesticationSocialNetworkBehavior.md) — Framework relating dog ancestry and group centrality to wolf-to-wolf behavioral contagion without treating yawning as direct proof of empathy or ecological harm.
 - [Creative Fatigue](concepts/CreativeFatigue.md) — Declining ad response under repeated exposure, creating pressure for renewable, measurable, and brand-governed creative variants.
 - [Brand Identity Feedback Isolation](concepts/BrandIdentityFeedbackIsolation.md) — Governance pattern that lets campaign results guide later assets without automatically rewriting canonical brand identity.
 - [Youth Digital Safety Intervention](concepts/YouthDigitalSafetyIntervention.md) — Autonomy-preserving framework joining staged access, practical risk education, realistic practice, AI assistance, and independently tested safeguards.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11184
+wiki_total_pages: 11187
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "DomesticServiceProfessionalization"
     title: "Domestic-Service Professionalization / 家政服务职业化"
     url: "/wiki/concepts/domesticserviceprofessionalization/"
+  - key: "DomesticationSocialNetworkBehavior"
+    title: "Domestication and Social-Network Behavior"
+    url: "/wiki/concepts/domesticationsocialnetworkbehavior/"
   - key: "DominantProducerPriceDiscipline"
     title: "Dominant Producer Price Discipline"
     url: "/wiki/concepts/dominantproducerpricediscipline/"
