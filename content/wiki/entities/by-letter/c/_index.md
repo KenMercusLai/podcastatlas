@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14035
+wiki_total_pages: 14039
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1457,6 +1457,9 @@ wiki_pages:
   - key: "ColinCampbell"
     title: "Colin Campbell"
     url: "/wiki/entities/colincampbell/"
+  - key: "ColinCampbellBritishArmy"
+    title: "Colin Campbell (British Army officer)"
+    url: "/wiki/entities/colincampbellbritisharmy/"
   - key: "ColinKaepernick"
     title: "Colin Kaepernick"
     url: "/wiki/entities/colinkaepernick/"

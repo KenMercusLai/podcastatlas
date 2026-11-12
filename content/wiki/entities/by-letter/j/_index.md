@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 14035
+wiki_total_pages: 14039
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "JacquesHebert"
     title: "Jacques Hébert"
     url: "/wiki/entities/jacqueshebert/"
+  - key: "JacquesLeroyDeSaintArnaud"
+    title: "Jacques Leroy de Saint-Arnaud"
+    url: "/wiki/entities/jacquesleroydesaintarnaud/"
   - key: "JacquesNecker"
     title: "Jacques Necker"
     url: "/wiki/entities/jacquesnecker/"
@@ -290,6 +293,9 @@ wiki_pages:
   - key: "JamesVIAndI"
     title: "James VI and I"
     url: "/wiki/entities/jamesviandi/"
+  - key: "JamesYorkeScarlett"
+    title: "James Yorke Scarlett"
+    url: "/wiki/entities/jamesyorkescarlett/"
   - key: "JamieSiminoff"
     title: "Jamie Siminoff"
     url: "/wiki/entities/jamiesiminoff/"

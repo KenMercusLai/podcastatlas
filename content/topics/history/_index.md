@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2781
+topic_total_pages: 2782
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7236,6 +7236,9 @@ topic_sources:
   - key: "721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211"
     title: "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)"
     url: "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+  - key: "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407"
+    title: "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)"
+    url: "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
   - key: "73-england-v-italy-glt3184835237"
     title: "73. England v Italy"
     url: "/wiki/sources/73-england-v-italy-glt3184835237/"

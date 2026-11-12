@@ -40909,9 +40909,9 @@
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
     },
     "CampaignLogisticsBattlefieldSelection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2110427983 [GLT2110427983].md",
@@ -40926,9 +40926,16 @@
           "show": "The Rest Is History",
           "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
           "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        },
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/campaignlogisticsbattlefieldselection/"
     },
     "CampaignSpendingArmsRace": {
@@ -46522,9 +46529,9 @@
       "url": "/wiki/entities/charanranganath/"
     },
     "ChargeOfTheLightBrigade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2909363211 [GLT2909363211].md",
@@ -46532,9 +46539,16 @@
           "show": "The Rest Is History",
           "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
           "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        },
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/chargeofthelightbrigade/"
     },
     "CharismaticPoliticalMartyrdom": {
@@ -57322,6 +57336,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/colemanruiz/"
     },
+    "ColinCampbellBritishArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/colincampbellbritisharmy/"
+    },
     "CollabCapital": {
       "episode_count": 3,
       "show_count": 1,
@@ -65585,9 +65615,9 @@
       "url": "/wiki/entities/crimea/"
     },
     "CrimeanWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5469973001 [GLT5469973001].md",
@@ -65602,9 +65632,16 @@
           "show": "The Rest Is History",
           "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
           "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        },
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/crimeanwar/"
     },
     "CriminalLawAfterLivelihoodCollapse": {
@@ -106488,6 +106525,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/fitnessperformanceanchors/"
     },
+    "FitzRoySomerset1stBaronRaglan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/fitzroysomerset1stbaronraglan/"
+    },
     "Fiume": {
       "episode_count": 1,
       "show_count": 1,
@@ -118437,9 +118490,9 @@
       "url": "/wiki/entities/georgearmstrongcuster/"
     },
     "GeorgeBingham3rdEarlOfLucan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2909363211 [GLT2909363211].md",
@@ -118447,9 +118500,16 @@
           "show": "The Rest Is History",
           "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
           "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        },
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/georgebingham3rdearloflucan/"
     },
     "GeorgeCrook": {
@@ -156089,6 +156149,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/jacqueshebert/"
     },
+    "JacquesLeroyDeSaintArnaud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/jacquesleroydesaintarnaud/"
+    },
     "JacquesLouisDavid": {
       "episode_count": 4,
       "show_count": 2,
@@ -156343,9 +156419,9 @@
       "url": "/wiki/entities/jamesboswell/"
     },
     "JamesBrudenell7thEarlOfCardigan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2909363211 [GLT2909363211].md",
@@ -156353,9 +156429,16 @@
           "show": "The Rest Is History",
           "title": "721. The Charge of the Light Brigade: Outbreak of The Crimean War (Part 1)",
           "url": "/wiki/sources/721-the-charge-of-the-light-brigade-outbreak-of-the-crimean-war-part-1-glt2909363211/"
+        },
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "url": "/wiki/entities/jamesbrudenell7thearlofcardigan/"
     },
     "JamesCallender": {
@@ -156823,6 +156906,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/jameswong/"
+    },
+    "JamesYorkeScarlett": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/jamesyorkescarlett/"
     },
     "JamieSiminoff": {
       "episode_count": 4,
@@ -312508,6 +312607,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/wanwushengzhang/"
+    },
+    "WarAimExpansionAfterSuccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837711407 [GLT7837711407].md",
+          "key": "722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407",
+          "show": "The Rest Is History",
+          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
+          "url": "/wiki/sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/waraimexpansionaftersuccess/"
     },
     "WarAsViolentRedistribution": {
       "episode_count": 2,

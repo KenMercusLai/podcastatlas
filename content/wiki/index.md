@@ -5039,6 +5039,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [运动员最大的对手，是自己的大脑](sources/yundongyuan-zui-da-de-duishou-shi-ziji-de-danao-lposnam7-4sk0b8p_lou4gnl4xae.md) — 不合时宜对谈温小倩，讨论长期运动心理保障、最佳表现区间、压力下的心理灵活性、过程注意与协同心理健康干预。
 
+- [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
+
 ## Entities
 - [丁仪 / Ding Yi (late Han)](entities/DingYiLateHan.md) — 曹植阵营谋士，因与曹丕的婚事旧怨及利益结构被节目间接判断为崔琰案的可能告发者。
 - [崔林 / Cui Lin (late Han)](entities/CuiLinLateHan.md) — 为崔琰才干辩护、又以更务实适应的仕途在曹魏升至高位的汉末官员。
@@ -19166,6 +19168,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [温小倩 / Wen Xiaoqian](entities/WenXiaoqian.md) — 运动心理学博士与咨询师，以长期、个体化、跨专业协同的方式支持高水平运动员应对压力、表现与心理健康。
 
+- [FitzRoy Somerset, 1st Baron Raglan](entities/FitzRoySomerset1stBaronRaglan.md) — British Crimean commander whose coalition tact and Waterloo experience coexisted with no prior independent field command.
+- [Colin Campbell (British Army officer)](entities/ColinCampbellBritishArmy.md) — India-tested Highland Brigade commander whose exclusion from supreme command illustrates class-filtered military appointment.
+- [Jacques Leroy de Saint-Arnaud](entities/JacquesLeroyDeSaintArnaud.md) — French Crimean commander combining Algerian experience, coup politics, coalition ambition, and concern over lethal conditions at Varna.
+- [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
+
 ## Concepts
 - [Selective Amnesty and Phased Force Separation / 选择性赦免与分批换防](concepts/SelectiveAmnestyPhasedForceSeparation.md) — 以只追首恶、保留退出路径和分批换防，把即时平乱与长期兵权风险分开处理。
 - [Causal Narrative and Event Chronology Separation / 因果叙事与事件编年分离](concepts/CausalNarrativeChronologySeparation.md) — 区分事件在史书中的因果性编排位置与其实际发生年代，并要求以平行史料核对。
@@ -30451,5 +30458,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elite-Sport Psychological Support System / 高水平运动心理保障体系](concepts/EliteSportPsychologicalSupportSystem.md) — 将表现心理、教练、医疗、负荷管理、社会支持与临床转介长期协调起来的运动员保障体系。
 - [Optimal Performance Range / 最佳表现区间](concepts/OptimalPerformanceRange.md) — 运动员在正常状态波动中仍可有效执行的、因人因项目而异的激活与注意区间。
 - [Psychological Flexibility Under Performance Pressure / 表现压力下的心理灵活性](concepts/PsychologicalFlexibilityUnderPerformancePressure.md) — 不要求焦虑或不完美状态先消失，仍能回到有价值且可控行动的能力。
+
+- [War-Aim Expansion After Initial Success](concepts/WarAimExpansionAfterSuccess.md) — Process by which an achieved limited objective generates pressure for a more visible, ambitious military target.
 
 ## Syntheses

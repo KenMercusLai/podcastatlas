@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14035
+wiki_total_pages: 14039
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "FitbitAIHealthCoach"
     title: "Fitbit AI Health Coach"
     url: "/wiki/entities/fitbitaihealthcoach/"
+  - key: "FitzRoySomerset1stBaronRaglan"
+    title: "FitzRoy Somerset, 1st Baron Raglan"
+    url: "/wiki/entities/fitzroysomerset1stbaronraglan/"
   - key: "Fiume"
     title: "Fiume"
     url: "/wiki/entities/fiume/"

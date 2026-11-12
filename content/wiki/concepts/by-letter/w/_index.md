@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 11178
+wiki_total_pages: 11179
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "WarVisibilityStrategy"
     title: "War Visibility Strategy"
     url: "/wiki/concepts/warvisibilitystrategy/"
+  - key: "WarAimExpansionAfterSuccess"
+    title: "War-Aim Expansion After Initial Success"
+    url: "/wiki/concepts/waraimexpansionaftersuccess/"
   - key: "WarAwareDisasterRecovery"
     title: "War-Aware Disaster Recovery"
     url: "/wiki/concepts/warawaredisasterrecovery/"
