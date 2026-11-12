@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 14044
+wiki_total_pages: 14048
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "EightyFourCharingCrossRoad"
     title: "《查令十字街84号》 / 84 Charing Cross Road"
     url: "/wiki/entities/eightyfourcharingcrossroad/"
+  - key: "EverestBeyondTheCloudsFilm"
+    title: "《珠穆朗玛：云中彼岸》"
+    url: "/wiki/entities/everestbeyondthecloudsfilm/"
   - key: "EmbroideredBanditGuLong"
     title: "《绣花大盗》 / The Embroidery Bandit"
     url: "/wiki/entities/embroideredbanditgulong/"

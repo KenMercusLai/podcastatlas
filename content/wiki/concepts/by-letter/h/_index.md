@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11180
+wiki_total_pages: 11181
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "HighRiskLaborMutualAid"
     title: "High-Risk Labor Mutual Aid / 高风险劳动互助"
     url: "/wiki/concepts/highrisklabormutualaid/"
+  - key: "HighRiskPassionFamilyResponsibility"
+    title: "High-Risk Passion and Family Responsibility / 高风险热爱与家庭责任"
+    url: "/wiki/concepts/highriskpassionfamilyresponsibility/"
   - key: "HighRiskSurgicalInnovation"
     title: "High-Risk Surgical Innovation"
     url: "/wiki/concepts/highrisksurgicalinnovation/"

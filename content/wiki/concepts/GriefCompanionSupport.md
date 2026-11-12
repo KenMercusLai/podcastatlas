@@ -2,27 +2,50 @@
 title: "Grief Companion Support / 丧亲陪伴支持"
 type: concept
 tags: [grief, care, relationships, mental-health]
-sources: [13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]
-last_updated: 2026-07-25
+sources:
+  - 13-beishang-de-liliang-tantan-sangqin-zhitong-551507792
+  - 83178c10-cba6-4869-8b69-559da582009c-83178c10-cba6-4869-8b69-559da582009c
+knowledge_schema: synthesis-v1
+last_updated: 2026-11-12
 ---
 
 # Grief Companion Support / 丧亲陪伴支持
 
-Grief companion support is the practical stance of accompanying a bereaved person without taking over, performing grief, or forcing quick recovery. In [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]], [[QinZong|秦总]] and [[Beimin|北明 / 北民]] argue that the most useful response is often stable presence: staying nearby, listening, preserving familiar routines, and letting professional helpers handle treatment when grief becomes dangerous or overwhelming.
+## Definition
+Grief companion support is the practice of staying reliably present with a bereaved person without erasing the dead, forcing recovery, taking over consequential choices, or pretending that friendship can replace qualified care.
 
-The source is especially critical of slogan comfort. Telling people to be strong, stop crying, move on, or replace the loss can make the mourner manage other people's discomfort instead of receiving care.
+## Current Synthesis
+The bounded sources converge on presence rather than repair. Ordinary contact, listening, meals, familiar routines, repeated check-ins, laughter, tears, and patience can make life more habitable without demanding that grief disappear. Slogan comfort—commands to be strong, move on, replace the loss, or turn pain into inspiration—often makes the mourner manage other people's discomfort.
+
+The Everest conversation adds decision neutrality. After [[HilareeNelson|希拉里·尼尔森]] died, [[JimmyChin|金国威]] supported [[JimMorrisonSkiMountaineer|吉姆·莫里森]] as a friend while refusing to decide whether he should continue the project. This preserves agency during a period when grief can destabilize judgment, but neutrality is not passivity in every case. Destructive coping, self-harm, suicidality, severe collapse, or acute danger require active safety intervention and qualified help.
 
 ## Key Claims
-- The companion's first task is to witness, not to fix.
-- Ordinary continuity can matter: meals, familiar places, quiet company, and repeated check-ins help life remain habitable.
-- Advice should not erase the dead person, moralize the mourner, or demand that grief become inspirational.
-- Friends and relatives should intervene when grief turns toward alcohol, drugs, self-harm, or severe functional collapse, but intervention should lead toward professional help.
-- Support must respect that grief can include anger, guilt, relief, numbness, desire, and silence without making any one response the whole person.
+- The companion's first task is sustained witness and practical presence, not emotional correction.
+- Ordinary continuity can matter through food, familiar places, quiet company, humor, crying, and repeated contact.
+- Support should not erase the dead person, moralize the mourner, or require grief to become inspirational.
+- Consequential decisions may need time; a friend can preserve agency without prescribing continuation or withdrawal.
+- Non-directive support has a safety boundary when grief involves self-harm, substance misuse, suicidality, severe functional collapse, or immediate danger.
+- Friends and relatives can accompany a person toward professional care but should not impersonate clinicians.
 
-## Connections
-- [[BereavementGriefWork]] - broader grief process this support serves.
-- [[ChildDeathEducation]] - child-facing support branch.
-- [[TraumaNarrativeIntegration]] - professional-care branch when grief is traumatic.
-- [[TherapyRelationshipAndBoundaries]] - role clarity around what friends cannot replace.
-- [[SubjectLedCare]] and [[VolunteerCareReciprocity]] - adjacent care concepts where support must not erase agency.
-- [[EmpathyBoundaries]] - later boundary-aware empathy frame.
+## Evidence
+- Stable presence and routine: [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] recommends staying nearby, listening, and preserving ordinary continuity.
+- Anti-slogan boundary: [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] rejects commands to be strong, stop crying, move on, or replace the person who died.
+- Agency and time: [[83178c10-cba6-4869-8b69-559da582009c-83178c10-cba6-4869-8b69-559da582009c]] describes Chin laughing and crying with Morrison while remaining neutral about whether the Everest project should continue.
+- Safety escalation: [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] directs alcohol, drugs, self-harm, and severe collapse toward intervention and professional support.
+
+## Counterevidence & Qualifications
+No fixed mix of silence, conversation, humor, ritual, routine, or advice works for every mourner. Neutrality can protect agency but becomes inadequate when a person faces acute danger, coercion, impaired capacity, or obligations that require immediate action. The Everest case is one friendship account, not evidence that resuming a dangerous project is therapeutic or that a companion should never express concern.
+
+## What Changed
+- Added decision neutrality as a form of companionship during grief.
+- Added shared laughter and crying to the account of ordinary presence.
+- Clarified that preserving agency does not cancel urgent safety intervention.
+- Migrated the page to the synthesis-first schema while preserving its original source inventory before appending the new source.
+
+## Related Concepts
+- [[BereavementGriefWork]] - broader process this relational support serves.
+- [[TraumaNarrativeIntegration]] - professional-care branch when loss remains fragmented or traumatic.
+- [[ChildDeathEducation]] - child-facing truth, inclusion, and safety branch.
+- [[TherapyRelationshipAndBoundaries]] - distinguishes companionship from clinical treatment.
+- [[EmpathyBoundaries]] - keeps care from becoming takeover or role confusion.
+- [[HighRiskPassionFamilyResponsibility]] - decision conflict surrounding the loss and the question of continuation.

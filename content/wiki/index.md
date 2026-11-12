@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一次关于热爱、冒险与生命代价的特别对话｜Bonus](sources/83178c10-cba6-4869-8b69-559da582009c-83178c10-cba6-4869-8b69-559da582009c.md) — 声东击西以希拉里·尼尔森的生命与离世追问高风险热爱、家庭责任、丧亲陪伴和继续前行之间无法被统一公式化的选择。
 - [黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤](sources/d6a57e77346c-d6a57e77346c.md) — 科技乱炖从未经证实的名人关系与商业合谋猜想切入，讨论 GPU 出口限制、跨境价差、层层中介、终端用户承诺、虚假货源和重复询价如何塑造灰色流通市场。
 - [Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)](sources/vmp7917788157-vmp7917788157.md) — How I Built This interview on Ron Shaich's customer-led bakery-cafe development, Au Bon Pain turnaround, concentrated Panera bet, countercyclical expansion, and private-ownership rationale.
 - [《资治通鉴·汉纪》1155丨曹操为什么拒绝司马懿的灭蜀建议？](sources/zizhi-tongjian-hanji-1155-caocao-weishenme-jujue-simayi-de-mieshu-jianyi-lsurimkb646qwumyxv0yxiorda_p.md) — 芮淇讲透资治通鉴以张鲁受降、巴西争夺、赵俨分阶段平乱及跨年事件编排，讨论招降信号、危机处置与叙事次序和实际年代的区别。
@@ -5044,6 +5045,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
 
 ## Entities
+- [金国威 / Jimmy Chin](entities/JimmyChin.md) — 纪录片导演、攀登者与高山摄影师，在家庭责任、自我责任和丧亲陪伴之间拒绝给出普遍处方。
+- [吉姆·莫里森 / Jim Morrison (ski mountaineer)](entities/JimMorrisonSkiMountaineer.md) — 登山滑雪运动员，以珠峰项目、希拉里·尼尔森的伴侣身份和失去后的继续前行为当前资料核心。
+- [希拉里·尼尔森 / Hilaree Nelson](entities/HilareeNelson.md) — 同时投入登山滑雪、伴侣关系和育儿的运动员，其离世使热爱与家庭责任的冲突具体化。
+- [《珠穆朗玛：云中彼岸》](entities/EverestBeyondTheCloudsFilm.md) — 连接珠峰北壁计划、希拉里·尼尔森的生命与离世以及吉姆·莫里森继续前行的纪录片。
 - [Huang Le / 黄乐 (businesswoman)](entities/HuangLeBusinesswoman.md) — Former journalist and finance professional associated by one episode with Mega Speed and an explicitly unverified GPU-trade theory.
 - [Mega Speed](entities/MegaSpeed.md) — Singapore-linked company described by one episode as shifting toward GPU, AI, and data-center commerce, with scale and diversion claims kept source-scoped.
 - [Ron Shaich](entities/RonShaich.md) — Panera founder connecting customer observation, bakery-cafe operations, strategic divestiture, and long-horizon investment.
@@ -19181,6 +19186,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [High-Risk Passion and Family Responsibility / 高风险热爱与家庭责任](concepts/HighRiskPassionFamilyResponsibility.md) — 在身份性追求、可预见危险与由子女伴侣共同承担的后果之间进行无统一答案的伦理判断。
 - [Scarcity-Market Inquiry Amplification / 稀缺市场询价放大](concepts/ScarcityMarketInquiryAmplification.md) — 多名中间商把同一终端需求传回重叠上游，导致询价量被误读为买家数并放大价格的机制。
 - [Selective Amnesty and Phased Force Separation / 选择性赦免与分批换防](concepts/SelectiveAmnestyPhasedForceSeparation.md) — 以只追首恶、保留退出路径和分批换防，把即时平乱与长期兵权风险分开处理。
 - [Causal Narrative and Event Chronology Separation / 因果叙事与事件编年分离](concepts/CausalNarrativeChronologySeparation.md) — 区分事件在史书中的因果性编排位置与其实际发生年代，并要求以平行史料核对。
