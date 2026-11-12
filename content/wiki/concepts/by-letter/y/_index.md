@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 11181
+wiki_total_pages: 11182
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "YouthCriminalResponsibility"
     title: "Youth Criminal Responsibility"
     url: "/wiki/concepts/youthcriminalresponsibility/"
+  - key: "YouthDigitalSafetyIntervention"
+    title: "Youth Digital Safety Intervention"
+    url: "/wiki/concepts/youthdigitalsafetyintervention/"
   - key: "YouthEntrepreneurship"
     title: "Youth Entrepreneurship"
     url: "/wiki/concepts/youthentrepreneurship/"

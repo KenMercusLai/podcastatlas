@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3807
+topic_total_pages: 3809
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5278,6 +5278,9 @@ topic_concepts:
   - key: "YCInternalSoftware"
     title: "YC Internal Software"
     url: "/wiki/concepts/ycinternalsoftware/"
+  - key: "YouthDigitalSafetyIntervention"
+    title: "Youth Digital Safety Intervention"
+    url: "/wiki/concepts/youthdigitalsafetyintervention/"
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
     url: "/wiki/concepts/zerotrustsecurity/"
@@ -10998,6 +11001,9 @@ topic_sources:
   - key: "tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128"
     title: "What AI fitness apps can and can't do - for now"
     url: "/wiki/sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128/"
+  - key: "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128"
+    title: "What are the new rules for parenting in the digital age?"
+    url: "/wiki/sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128/"
   - key: "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128"
     title: "What could slowing the AI frontier mean for the economy?"
     url: "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"

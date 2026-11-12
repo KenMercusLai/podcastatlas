@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What are the new rules for parenting in the digital age?](sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128.md) — Marketplace Tech with Pamela Wisniewski on staged access, autonomy-preserving youth safety, AI moderation and practice, AI-amplified grooming and scams, and independent safeguard testing.
 - [一次关于热爱、冒险与生命代价的特别对话｜Bonus](sources/83178c10-cba6-4869-8b69-559da582009c-83178c10-cba6-4869-8b69-559da582009c.md) — 声东击西以希拉里·尼尔森的生命与离世追问高风险热爱、家庭责任、丧亲陪伴和继续前行之间无法被统一公式化的选择。
 - [黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤](sources/d6a57e77346c-d6a57e77346c.md) — 科技乱炖从未经证实的名人关系与商业合谋猜想切入，讨论 GPU 出口限制、跨境价差、层层中介、终端用户承诺、虚假货源和重复询价如何塑造灰色流通市场。
 - [Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)](sources/vmp7917788157-vmp7917788157.md) — How I Built This interview on Ron Shaich's customer-led bakery-cafe development, Au Bon Pain turnaround, concentrated Panera bet, countercyclical expansion, and private-ownership rationale.
@@ -5046,6 +5047,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Pamela Wisniewski](entities/PamelaWisniewski.md) — Youth online-safety researcher framing staged access, practical risk education, platform responsibility, and AI intervention around retained adolescent agency.
 - [金国威 / Jimmy Chin](entities/JimmyChin.md) — 纪录片导演、攀登者与高山摄影师，在家庭责任、自我责任和丧亲陪伴之间拒绝给出普遍处方。
 - [吉姆·莫里森 / Jim Morrison (ski mountaineer)](entities/JimMorrisonSkiMountaineer.md) — 登山滑雪运动员，以珠峰项目、希拉里·尼尔森的伴侣身份和失去后的继续前行为当前资料核心。
 - [希拉里·尼尔森 / Hilaree Nelson](entities/HilareeNelson.md) — 同时投入登山滑雪、伴侣关系和育儿的运动员，其离世使热爱与家庭责任的冲突具体化。
@@ -19187,6 +19189,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Youth Digital Safety Intervention](concepts/YouthDigitalSafetyIntervention.md) — Autonomy-preserving framework joining staged access, practical risk education, realistic practice, AI assistance, and independently tested safeguards.
 - [High-Risk Passion and Family Responsibility / 高风险热爱与家庭责任](concepts/HighRiskPassionFamilyResponsibility.md) — 在身份性追求、可预见危险与由子女伴侣共同承担的后果之间进行无统一答案的伦理判断。
 - [Scarcity-Market Inquiry Amplification / 稀缺市场询价放大](concepts/ScarcityMarketInquiryAmplification.md) — 多名中间商把同一终端需求传回重叠上游，导致询价量被误读为买家数并放大价格的机制。
 - [Selective Amnesty and Phased Force Separation / 选择性赦免与分批换防](concepts/SelectiveAmnestyPhasedForceSeparation.md) — 以只追首恶、保留退出路径和分批换防，把即时平乱与长期兵权风险分开处理。

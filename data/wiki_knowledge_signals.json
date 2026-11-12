@@ -3271,9 +3271,9 @@
       "url": "/wiki/concepts/aienabledloandocumentanalysis/"
     },
     "AIEnabledScamIndustrialization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260223_0223_MP_TECH_pod_128 [tech_20260223_0223_MP_TECH_pod_128].md",
@@ -3295,9 +3295,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
           "url": "/wiki/sources/jishi-xuanshou-youshi-caipan-jiedu-anthropic-de-ai-lanyong-baogao-ad6165053b02b8a07e3dfda43af0d541/"
+        },
+        {
+          "episode_file": "tech_20261112_MP_TECH_pod_128 [tech_20261112_MP_TECH_pod_128].md",
+          "key": "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What are the new rules for parenting in the digital age?",
+          "url": "/wiki/sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-07",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/aienabledscamindustrialization/"
     },
     "AIEnabledSelfEmployment": {
@@ -9231,9 +9238,9 @@
       "url": "/wiki/entities/adobe/"
     },
     "AdolescentAutonomyScaffolding": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9155116429 [SCIM9155116429].md",
@@ -9255,9 +9262,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Emotions & Relationships",
           "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        },
+        {
+          "episode_file": "tech_20261112_MP_TECH_pod_128 [tech_20261112_MP_TECH_pod_128].md",
+          "key": "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What are the new rules for parenting in the digital age?",
+          "url": "/wiki/sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-11-12",
       "url": "/wiki/concepts/adolescentautonomyscaffolding/"
     },
     "AdolescentDigitalSensitivePeriod": {
@@ -225794,6 +225808,22 @@
       "updated": "2026-10-24",
       "url": "/wiki/entities/paloaltonetworks/"
     },
+    "PamelaWisniewski": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261112_MP_TECH_pod_128 [tech_20261112_MP_TECH_pod_128].md",
+          "key": "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What are the new rules for parenting in the digital age?",
+          "url": "/wiki/sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/entities/pamelawisniewski/"
+    },
     "PanAfricanism": {
       "episode_count": 1,
       "show_count": 1,
@@ -264909,6 +264939,36 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/screentimefriction/"
+    },
+    "ScreenTimeParenting": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗 [980330792].md",
+          "key": "182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792",
+          "show": "蜜獾吃书",
+          "title": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗",
+          "url": "/wiki/sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792/"
+        },
+        {
+          "episode_file": "Starmergeddon： British PM resigns [6a390b674a8189f2c3b4e6f1].md",
+          "key": "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1",
+          "show": "Economist Podcasts",
+          "title": "Starmergeddon: British PM resigns",
+          "url": "/wiki/sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1/"
+        },
+        {
+          "episode_file": "tech_20261112_MP_TECH_pod_128 [tech_20261112_MP_TECH_pod_128].md",
+          "key": "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What are the new rules for parenting in the digital age?",
+          "url": "/wiki/sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/screentimeparenting/"
     },
     "ScreeningResultInterpretation": {
       "episode_count": 3,
@@ -330169,6 +330229,22 @@
       ],
       "updated": "2026-11-05",
       "url": "/wiki/entities/youthaisafetyinstitute/"
+    },
+    "YouthDigitalSafetyIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261112_MP_TECH_pod_128 [tech_20261112_MP_TECH_pod_128].md",
+          "key": "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What are the new rules for parenting in the digital age?",
+          "url": "/wiki/sources/tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-12",
+      "url": "/wiki/concepts/youthdigitalsafetyintervention/"
     },
     "YouthFashionCommercializationCycle": {
       "episode_count": 2,

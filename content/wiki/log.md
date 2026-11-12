@@ -39282,3 +39282,13 @@ This Essentials edit substantially condenses the already-ingested full interview
 ## [2026-11-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-12] ingest | What are the new rules for parenting in the digital age?
+
+Added source `tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128`; created [[PamelaWisniewski|Pamela Wisniewski]] and [[YouthDigitalSafetyIntervention]]; and resynthesized [[AdolescentAutonomyScaffolding]], [[ScreenTimeParenting]], and [[AIEnabledScamIndustrialization]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: youth online safety needs staged access, specific risk explanations, realistic practice, adult and platform support, and feedback that preserves adolescent agency; AI can assist moderation and coaching but also supplies scammers and predators with contextual expertise, credible dialogue, and emotional tactics. No settled contradiction was adopted. Group-chat body-shaming frequency, grooming stages, intervention results, platform measures, safeguard failures, and the impersonation-call case remain source-scoped because the supplied document does not provide underlying methods or comparative evidence.
+
+Broad [[MarketplaceTech]], [[Meta]], [[OpenAI]], [[ChatGPT]], [[CommonSenseMedia]], [[SocialMediaProductLiability]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,923 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

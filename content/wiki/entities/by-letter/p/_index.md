@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14048
+wiki_total_pages: 14049
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "PaloAltoDelivery"
     title: "PaloAltoDelivery"
     url: "/wiki/entities/paloaltodelivery/"
+  - key: "PamelaWisniewski"
+    title: "Pamela Wisniewski"
+    url: "/wiki/entities/pamelawisniewski/"
   - key: "PanGreekGod"
     title: "Pan / Greek God"
     url: "/wiki/entities/pangreekgod/"
