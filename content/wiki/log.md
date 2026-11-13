@@ -39325,6 +39325,11 @@ Added source `b765334b`; created [[RajivKanhaja]] and [[AdButler]]; and resynthe
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-13] ingest | 《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？
+
+Added source `zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch`; resynthesized [[LadyDingCaoCao|丁夫人]], [[CaoAng|曹昂]], and [[SelfValidatedRelationshipBoundaries|自我认可式关系边界]] from each page's complete preserved evidence inventory before appending the new source once; and migrated and extended [[LadyBianCaoCao|卞夫人]] to `synthesis-v1`. Core synthesis: Cao Ang's Wancheng death remains both a command-failure cost and a lasting household wound; Lady Ding's refusal shows that remorse does not create an entitlement to reconciliation after irreversible harm; and Lady Bian's reported deference preserves dignity across a household status change.
+
+No settled contradiction was adopted. The allegation that Lady Ding caused Lady Liu's death, as well as private dialogue, gestures, motives, meal seating, funeral initiative, exact chronology, Cao Ang's expected succession, and individual faction members' coordination remain episode-scoped because the supplied file is a structured summary without cited primary texts. Broad [[CaoCao|曹操]], [[CaoPi|曹丕]], [[CaoZhi|曹植]], [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts cover 4,933 sources across 806 overview paragraphs and nine topics.
 
 ## [2026-11-13] ingest | 377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？
 
@@ -39374,6 +39379,10 @@ Ran lint. See lint-report.md for details.
 Added source `156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan`; created [[LiangQiwei|梁其伟]], [[SGame|灵游坊]], [[PhantomBladeZero|《影之刃零》]], [[RainBlood|《雨血》]], [[SoulPhantomBlade|魂]], [[ZuoShang|左殇]], [[ModernWuxiaHeroism]], [[AuthorLedGameProduction]], [[ConservativeOperationsAggressiveProduct]], [[CulturalRootedGenreModernization]], and [[ProductCapabilityAsCorporatePurpose]]; and resynthesized [[HumanAuthorshipPremium]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: contemporary xia remains defined by unusual risk, cost, and retained humanity, but credible heroism can grow from self-completion rather than imposed sacrifice; author-led studios need operating discipline that protects creative coherence; and financing, technology, reputation, and AI are valuable when they increase product capability without replacing accountable human authorship as the source of player trust.
 
 No settled contradiction was adopted. Investment, ownership, financing, profit, repurchase, project, market, collaboration, and AI-workflow claims remain participant-reported or source-scoped, while the definitions of xia, authorial games, culturally rooted modernization, and corporate “martial arts” remain Liang's creative and operating philosophy rather than universal rules. Broad [[ZhangXiaojunCommercialInterviews|张小珺Jùn｜商业访谈录]], company-platform, general AI-game, literary-author, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,932 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-13] lint | Wiki health check
 

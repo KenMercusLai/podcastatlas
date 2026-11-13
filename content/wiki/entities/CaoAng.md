@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69
   - zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd
   - zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch
+last_updated: 2026-11-13
 ---
 
 ## Overview
@@ -17,7 +18,7 @@ last_updated: 2026-09-20
 
 ## Current Profile
 
-The bounded evidence now spans event and memory. Hanji 1013 and Qinji 131-2 make Cao Ang one of the deaths produced by the Wancheng security collapse; Hanji 1014 connects his death to Lady Ding's break with Cao Cao. Hanji 1105 adds the deathbed endpoint, reporting that Cao Cao still imagined being asked by the dead Cao Ang where his mother was, turning an old military failure into unresolved parental guilt.
+The bounded evidence spans event and memory. Hanji 1013 and Qinji 131-2 make Cao Ang one of the deaths produced by the Wancheng security collapse; Hanji 1014 connects his death to Lady Ding's break with Cao Cao. Hanji 1105 and Hanji 1158 repeat the deathbed endpoint, reporting that Cao Cao still imagined being asked by the dead Cao Ang where his mother was, turning an old military failure into unresolved parental guilt. Hanji 1158 additionally treats Cao Ang's death as a succession turning point, but it does not establish that he had received a formal designation.
 
 ## Key Characteristics
 
@@ -27,22 +28,23 @@ The bounded evidence now spans event and memory. Hanji 1013 and Qinji 131-2 make
 - Dies alongside the wider Wancheng command disaster.
 - Becomes the emotional hinge of Lady Ding's separation from Cao Cao.
 - Remains present in Cao Cao's reported final regret decades later.
+- His removal changes the field from an eldest-son expectation toward later competition among Cao Cao's surviving sons.
 
 ## Evidence
 
 - Wancheng death: [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] says Cao Ang gives Cao Cao his horse and is killed after losing the mount; [[zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd|Qinji 131-2]] preserves the broader alcohol-and-security comparison.
 - Household rupture: [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] identifies Lady Ding as Cao Ang's foster mother and makes his death the break point in her marriage.
 - Deathbed memory: [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] reports Cao Cao wondering how he could answer Cao Ang in the afterlife about Lady Ding.
+- Family and succession consequence: [[zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch|Hanji 1158]] repeats the foster-mother rupture and final guilt while connecting Cao Ang's death to the later Cao Pi–Cao Zhi contest.
 
 ## Qualifications
 
-These sources focus on Cao Ang's death and its remembered consequences, not a full biography. Hanji 1105's exact deathbed wording and inferred inner guilt are source-scoped; the durable synthesis is that the episode explicitly reconnects Cao Ang's death to Cao Cao's final household regret.
+These sources focus on Cao Ang's death and its remembered consequences, not a full biography. The exact deathbed wording and inferred inner guilt are source-scoped; so are Hanji 1158's claims about Cao Ang's expected succession and household backstory. The durable synthesis is that the episodes reconnect his death to Cao Cao's final household regret and to a changed succession field.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1` using its complete prior source set.
-- Added Hanji 1105's deathbed-memory endpoint to the Wancheng and Lady Ding sequence.
-- Reframed Cao Ang as both a casualty of command exposure and a durable family-memory figure.
+- Added the qualified succession consequence of Cao Ang's death.
+- Confirmed rather than materially revised the Wancheng, foster-mother rupture, and final-regret synthesis.
 
 ## Relationships
 

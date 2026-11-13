@@ -41694,9 +41694,9 @@
       "url": "/wiki/concepts/cannibalismcontextualmeaning/"
     },
     "CaoAng": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
@@ -41725,9 +41725,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3/"
+        },
+        {
+          "episode_file": "lqoKPtbWh95SXivOHR4LA7imS1cH [lqoKPtbWh95SXivOHR4LA7imS1cH].md",
+          "key": "zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/caoang/"
     },
     "CaoBaoEasternHan": {
@@ -170426,6 +170433,36 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/lactatemetabolicshuttle/"
     },
+    "LadyBianCaoCao": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？ [lv_HyVPRG73k8W8JsPXJosqWMc69].md",
+          "key": "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69/"
+        },
+        {
+          "episode_file": "lqoKPtbWh95SXivOHR4LA7imS1cH [lqoKPtbWh95SXivOHR4LA7imS1cH].md",
+          "key": "zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/ladybiancaocao/"
+    },
     "LadyCarolineLamb": {
       "episode_count": 1,
       "show_count": 1,
@@ -170443,9 +170480,9 @@
       "url": "/wiki/entities/ladycarolinelamb/"
     },
     "LadyDingCaoCao": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
@@ -170467,9 +170504,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3/"
+        },
+        {
+          "episode_file": "lqoKPtbWh95SXivOHR4LA7imS1cH [lqoKPtbWh95SXivOHR4LA7imS1cH].md",
+          "key": "zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/ladydingcaocao/"
     },
     "LadyGouyiWesternHan": {
@@ -267548,9 +267592,9 @@
       "url": "/wiki/concepts/selfunderstandingasvitality/"
     },
     "SelfValidatedRelationshipBoundaries": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luTFGJyZwfwWh4OvZUevEnE8xuPy [luTFGJyZwfwWh4OvZUevEnE8xuPy].md",
@@ -267558,9 +267602,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1143丨古人离婚能有多奇葩？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1143-guren-lihun-neng-you-duo-qipa-lutfgjyzwfwwh4ovzuevene8xupy/"
+        },
+        {
+          "episode_file": "lqoKPtbWh95SXivOHR4LA7imS1cH [lqoKPtbWh95SXivOHR4LA7imS1cH].md",
+          "key": "zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/selfvalidatedrelationshipboundaries/"
     },
     "SemenSampleCollectionQuality": {

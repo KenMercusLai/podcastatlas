@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？](sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch.md) — 芮淇讲透资治通鉴以曹昂之死、丁夫人拒绝复合、卞夫人的礼让及曹丕曹植竞争，连接不可逆损失、关系边界与继承可靠性。
 - [156. 《侠》｜对影之刃零制作人梁其伟6小时访谈](sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan.md) — 梁其伟以现代侠义、作者型游戏、灵游坊创业与《影之刃零》讨论创作、资本、文化寻根和AI边界。
 - [The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176.md) — Tomorrow Today interview on probabilistic agent risk, test-driven governance, exception-focused oversight, private deployment, and personalized safety boundaries.
 - [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a.md) — LateTalk interview on Liber AI's world-action model, glove-to-robot data bridge, selective full-stack physical-AI strategy, and commercialization constraints.
@@ -11360,8 +11361,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曹安民 / Cao Anmin](entities/CaoAnmin.md) — Cao Cao nephew killed in the Wancheng night attack alongside Cao Ang and Dian Wei.
 - [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as defensively capable, expanding, and shelter-providing, but limited by indecision, suspicion, ritual overreach, Guandu-era exposure, and hosted-rival risk.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
-- [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — Cao Cao's original wife and Cao Ang's foster mother; Hanji 1014 ties Cao Ang's death to the household rupture.
-- [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
+- [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — 曹昂养母，在宛城丧子后与曹操决裂并拒绝复合；投毒指控与私人场景仍属节目范围。
+- [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — 曹操之妻及曹丕、曹植等四子之母，节目称其成为正妻后仍礼让并照顾丁夫人的身后事。
 - [虞翻 / Yu Fan](entities/YuFan.md) — Kuaiji merit officer whose condition-reading speech warns Wang Lang and Sun Ce before persuading Hua Xin to surrender Yuzhang.
 - [王朗 / Wang Lang (late Han)](entities/WangLangLateHan.md) — Kuaiji governor defeated by Sun Ce, whose retained officer Yu Fan opens Hanji 1005's leader-exposure lesson.
 - [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose strategic profile now includes Yuan Shao rejection, Liu Bei reputation counsel, Xiapi siege timing, and pressure-release exploitation of the Yuan heirs.
