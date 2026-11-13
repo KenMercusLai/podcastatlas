@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Invidious position: finding Jensen Huang’s successor](sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5.md) — Economist Podcasts on Nvidia’s founder succession, Russia’s hybrid influence infrastructure in Africa, and Jack Prager’s integrated humanitarian work through Calcutta Rescue.
 - [Nvidia’s leadership shakeup could reshape the AI industry](sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CoreWeave's demand-versus-financing tension, and Alex Karp's post-midterm political repositioning.
 - [516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮](sources/516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n.md) — 忽左忽右以马克·布洛赫连接两次世界大战、年鉴史学、法国抵抗运动及先贤祠国家记忆政治。
 - [《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权](sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj.md) — 芮淇讲透资治通鉴以217年濡须对峙、孙权名义服软、周泰公开立威、蒋钦越过私怨荐才及曹丕受立，讨论战术缓和与组织权威。
@@ -5060,6 +5061,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Jack Prager](entities/JackPrager.md) — British physician who developed a Kolkata pavement clinic into the integrated services of Calcutta Rescue.
+- [Calcutta Rescue](entities/CalcuttaRescue.md) — Kolkata humanitarian organization combining clinical, educational, nutritional, and identity-document support.
+- [Russian Houses](entities/RussianHouses.md) — Russian cultural centers presented as educational venues and possible nodes in a wider influence infrastructure.
 - [Colette Kress](entities/ColetteKress.md) — Nvidia CFO and episode-reported interim CEO during the board's permanent-succession search.
 - [Marc Bloch / 马克·布洛赫](entities/MarcBloch.md) — French medieval historian, Annales co-founder, two-war veteran, Resistance member, and contested national commemorative figure.
 - [Panthéon (France) / 法国先贤祠](entities/FrenchPantheon.md) — National memorial institution where recognition, selective biography, and present political statecraft meet.
@@ -19228,6 +19232,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Hybrid Influence Infrastructure](concepts/HybridInfluenceInfrastructure.md) — Multi-channel influence system joining cultural venues, education, media, religion, and synthetic identities while keeping reach distinct from effect.
+- [Integrated Low-Resource Humanitarian Service](concepts/IntegratedLowResourceHumanitarianService.md) — Service model connecting clinical care with food, education, and civil documentation under severe resource constraints.
 - [Corporate Political Repositioning](concepts/CorporatePoliticalRepositioning.md) — Change in an executive's emphasized political identity or limits that must be tested against contracts, donations, policy, and sustained conduct.
 - [Annales School / 年鉴学派](concepts/AnnalesSchool.md) — Historiographical tradition of problem-led inquiry, varied evidence, ordinary and collective life, and long-term social structures.
 - [State Commemoration and National Memory / 国家纪念与国族记忆](concepts/StateCommemorationAndNationalMemory.md) — Process through which public honor selects biographies and virtues to make present claims about the nation.

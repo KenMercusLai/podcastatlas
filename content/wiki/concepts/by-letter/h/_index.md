@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11203
+wiki_total_pages: 11205
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "HurtHarmPainReframing"
     title: "Hurt-versus-Harm Pain Reframing"
     url: "/wiki/concepts/hurtharmpainreframing/"
+  - key: "HybridInfluenceInfrastructure"
+    title: "Hybrid Influence Infrastructure"
+    url: "/wiki/concepts/hybridinfluenceinfrastructure/"
   - key: "HybridWarfareAttributionThreshold"
     title: "Hybrid Warfare Attribution Threshold"
     url: "/wiki/concepts/hybridwarfareattributionthreshold/"

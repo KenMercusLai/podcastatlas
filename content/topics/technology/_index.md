@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3827
+topic_total_pages: 3828
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2962,6 +2962,9 @@ topic_concepts:
   - key: "HumanoidRobotMarathon"
     title: "Humanoid Robot Marathon"
     url: "/wiki/concepts/humanoidrobotmarathon/"
+  - key: "HybridInfluenceInfrastructure"
+    title: "Hybrid Influence Infrastructure"
+    url: "/wiki/concepts/hybridinfluenceinfrastructure/"
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"

@@ -40356,6 +40356,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/calais/"
     },
+    "CalcuttaRescue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d443e5022186571d4b5372ea9e5287f5 [d443e5022186571d4b5372ea9e5287f5.mp3？aid=6af6e7991f9433e997b64a63&chid=d556eb54-6160-4.281].md",
+          "key": "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5",
+          "show": "Economist Podcasts",
+          "title": "Invidious position: finding Jensen Huang’s successor",
+          "url": "/wiki/sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/calcuttarescue/"
+    },
     "CalendarReformLegitimacy": {
       "episode_count": 4,
       "show_count": 3,
@@ -145410,6 +145426,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/hwangjini/"
     },
+    "HybridInfluenceInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d443e5022186571d4b5372ea9e5287f5 [d443e5022186571d4b5372ea9e5287f5.mp3？aid=6af6e7991f9433e997b64a63&chid=d556eb54-6160-4.281].md",
+          "key": "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5",
+          "show": "Economist Podcasts",
+          "title": "Invidious position: finding Jensen Huang’s successor",
+          "url": "/wiki/sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/hybridinfluenceinfrastructure/"
+    },
     "HybridWarfareAttributionThreshold": {
       "episode_count": 2,
       "show_count": 1,
@@ -151731,6 +151763,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/integratedcarefragmentation/"
     },
+    "IntegratedLowResourceHumanitarianService": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d443e5022186571d4b5372ea9e5287f5 [d443e5022186571d4b5372ea9e5287f5.mp3？aid=6af6e7991f9433e997b64a63&chid=d556eb54-6160-4.281].md",
+          "key": "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5",
+          "show": "Economist Podcasts",
+          "title": "Invidious position: finding Jensen Huang’s successor",
+          "url": "/wiki/sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/integratedlowresourcehumanitarianservice/"
+    },
     "IntegratedMilitarySituationAssessment": {
       "episode_count": 1,
       "show_count": 1,
@@ -156350,6 +156398,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/jackmerridew/"
+    },
+    "JackPrager": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d443e5022186571d4b5372ea9e5287f5 [d443e5022186571d4b5372ea9e5287f5.mp3？aid=6af6e7991f9433e997b64a63&chid=d556eb54-6160-4.281].md",
+          "key": "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5",
+          "show": "Economist Podcasts",
+          "title": "Invidious position: finding Jensen Huang’s successor",
+          "url": "/wiki/sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/jackprager/"
     },
     "JackRuby": {
       "episode_count": 3,
@@ -261783,6 +261847,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/russianexceptionalism/"
+    },
+    "RussianHouses": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d443e5022186571d4b5372ea9e5287f5 [d443e5022186571d4b5372ea9e5287f5.mp3？aid=6af6e7991f9433e997b64a63&chid=d556eb54-6160-4.281].md",
+          "key": "invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5",
+          "show": "Economist Podcasts",
+          "title": "Invidious position: finding Jensen Huang’s successor",
+          "url": "/wiki/sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/russianhouses/"
     },
     "RussianHybridPressure": {
       "episode_count": 3,

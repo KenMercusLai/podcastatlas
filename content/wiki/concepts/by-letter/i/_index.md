@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 11203
+wiki_total_pages: 11205
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "IntegratedCommandCapacity"
     title: "Integrated Command Capacity / 全维度统帅能力"
     url: "/wiki/concepts/integratedcommandcapacity/"
+  - key: "IntegratedLowResourceHumanitarianService"
+    title: "Integrated Low-Resource Humanitarian Service"
+    url: "/wiki/concepts/integratedlowresourcehumanitarianservice/"
   - key: "IntegratedMLTeams"
     title: "Integrated ML Teams"
     url: "/wiki/concepts/integratedmlteams/"

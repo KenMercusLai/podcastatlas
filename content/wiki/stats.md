@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 11203
-- Entities: 14075
-- Sources: 4936
-- Total wiki content pages: 30215
+- Concepts: 11205
+- Entities: 14078
+- Sources: 4937
+- Total wiki content pages: 30221
 
 ## Links
-- Wiki link references: 686084
-- Unique wiki link targets: 30253
-- Missing targets: 48
+- Wiki link references: 686144
+- Unique wiki link targets: 30260
+- Missing targets: 49
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 4936
-- Matched episodes: 4936
+- Source pages: 4937
+- Matched episodes: 4937
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -36,6 +36,8 @@ outputs: ["html"]
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[AIDatasetBias]]`
   - `content/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md`
+- `[[AIGeneratedMediaTrust]]`
+  - `content/wiki/concepts/HybridInfluenceInfrastructure.md`
 - `[[ASUS]]`
   - `content/wiki/entities/GoogleBook.md`
 - `[[AdultMinorSexualAbuseRetrospectiveReframing]]`

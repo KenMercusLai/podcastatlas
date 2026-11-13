@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14075
+wiki_total_pages: 14078
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "RussianEmpire"
     title: "Russian Empire / 俄罗斯帝国"
     url: "/wiki/entities/russianempire/"
+  - key: "RussianHouses"
+    title: "Russian Houses"
+    url: "/wiki/entities/russianhouses/"
   - key: "RussianAmericanCompany"
     title: "Russian-American Company / 俄美公司"
     url: "/wiki/entities/russianamericancompany/"
