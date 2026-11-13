@@ -42455,9 +42455,9 @@
       "url": "/wiki/entities/caokuwesternhan/"
     },
     "CaoPi": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
@@ -42500,9 +42500,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
+        },
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
         }
       ],
-      "updated": "2026-11-12",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/caopi/"
     },
     "CaoRen": {
@@ -160262,6 +160269,22 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/jiangqiming/"
     },
+    "JiangQinEasternWu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/jiangqineasternwu/"
+    },
     "JiangQing": {
       "episode_count": 1,
       "show_count": 1,
@@ -244834,9 +244857,9 @@
       "url": "/wiki/concepts/publiccorpsehumiliation/"
     },
     "PublicDutyOverPrivateGrievance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》929丨对事不对人，你信了吗？ [lgaXJ0jzoPddmt3C5hiBNExqLhB3].md",
@@ -244851,9 +244874,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》753丨班超被告黑状",
           "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        },
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/publicdutyoverprivategrievance/"
     },
     "PublicExerciseEmergencyPreparedness": {
@@ -257232,9 +257262,9 @@
       "url": "/wiki/concepts/ritualpreventionandlegalresponse/"
     },
     "RitualRecognitionOfMilitaryPower": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1） [liwkaYGJTYAfxXpDWzq9PDHUzROI].md",
@@ -257263,9 +257293,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1142丨曹操如何打破四百年汉室礼法？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx/"
+        },
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/ritualrecognitionofmilitarypower/"
     },
     "RitualRenunciationPoliticalCapital": {
@@ -257331,6 +257368,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ritualizedapologygratitude/"
+    },
+    "RitualizedCommandAppointment": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》147｜媲美诸葛亮隆中对的“汉中对” [lqucCTZHiPgtcVTjlIXVj5QBdeAI].md",
+          "key": "zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》147｜媲美诸葛亮隆中对的“汉中对”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-147-pimei-zhugeliang-longzhongdui-de-hanzhongdui-lqucctzhipgtcvtjlixvj5qbdeai/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信 [lq0Oc3VQr_TSr0R-iwZTIfXeezl-].md",
+          "key": "zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-146-qiannian-jingdian-xiaohe-yuexia-zhui-hanxin-lq0oc3vqr-tsr0r-iwztifxeezl/"
+        },
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/ritualizedcommandappointment/"
     },
     "RitualizedGriefContinuation": {
       "episode_count": 1,
@@ -261633,9 +261700,9 @@
       "url": "/wiki/entities/rutgersuniversity/"
     },
     "RuxuFortressLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1128丨没有黑科技，古人如何调查匿名信？ [lqdm57jzW9WqO_UMlAsz2j3VlZqH].md",
@@ -261650,9 +261717,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1133丨孙权人生最潇洒的战役：濡须口之战",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1133-sunquan-rensheng-zui-xiaosa-de-zhanyi-ruxukou-zhi-zhan-lrkz2p2fvh2fpw5owjdj7xg_dc8g/"
+        },
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/ruxufortresslatehan/"
     },
     "RuxukouCampaign213LateHan": {
@@ -261670,6 +261744,22 @@
       ],
       "updated": "2026-11-08",
       "url": "/wiki/entities/ruxukoucampaign213latehan/"
+    },
+    "RuxukouCampaign217LateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/ruxukoucampaign217latehan/"
     },
     "RuziYing": {
       "episode_count": 4,
@@ -286828,9 +286918,9 @@
       "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -286943,9 +287033,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        },
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/sunquan/"
     },
     "SunShaoLateHan": {
@@ -326015,6 +326112,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/xushangwesternhan/"
     },
+    "XuShengEasternWu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/xushengeasternwu/"
+    },
     "XuShuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -340326,6 +340439,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhourongeasternhan/"
     },
+    "ZhouTaiEasternWu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/zhoutaieasternwu/"
+    },
     "ZhouWeilieWang": {
       "episode_count": 3,
       "show_count": 1,
@@ -341203,6 +341332,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhumulatehan/"
+    },
+    "ZhuRanEasternWu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpNGFQSOzZJR2IytAaox89dF1zcJ [lpNGFQSOzZJR2IytAaox89dF1zcJ].md",
+          "key": "zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/zhuraneasternwu/"
     },
     "ZhuTengjiao": {
       "episode_count": 1,

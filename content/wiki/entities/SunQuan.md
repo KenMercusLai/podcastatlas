@@ -20,7 +20,8 @@ sources:
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
   - zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3
   - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj
+last_updated: 2026-11-13
 ---
 
 # 孙权 / Sun Quan
@@ -41,9 +42,11 @@ Hanji 1117-1118 add the postwar choice and its rejected alternative. Zhou Yu and
 
 Hanji 1113 adds the intermediate hedge. Before the larger base transfer, Sun Quan lets Liu Bei establish at [[GonganLateHan|公安]] and marries [[LadySunLiuBei|孙夫人]] to him. The source treats this as [[PoliticalMarriageAllianceHedging|政治联姻式同盟对冲]]: Sun Quan reinforces a partner he still mistrusts because Cao Cao remains the larger threat, while the kinship tie does not remove the Jingzhou ownership problem.
 
+Hanji 1157 extends that balancing logic into the 217 CE [[RuxukouCampaign217LateHan|Ruxu confrontation]]. With the Sun-Liu relationship deteriorating, Sun Quan uses nominal submission to Cao Cao to avoid immediate two-front pressure without surrendering his organization. After the campaign he appoints [[ZhouTaiEasternWu|周泰]] at Ruxu and publicly narrates Zhou Tai's rescue service so that [[ZhuRanEasternWu|朱然]] and [[XuShengEasternWu|徐盛]] can understand the basis of an initially contested hierarchy.
+
 ## Key Characteristics
 - Inherits authority through a civil-military-family support structure rather than through designation alone.
-- Develops independent personnel judgment and uses conditional mercy plus separation to retain useful people without pretending that private blood feuds have disappeared.
+- Develops independent personnel judgment and uses conditional mercy, separation, and public explanation to retain useful people and make contested command choices legible.
 - Preserves autonomy by refusing hostage-backed dependency on Cao Cao.
 - Consolidates rule through internal discipline, county pacification, administration, and military extraction.
 - Accumulates enough regional capacity to lead the Sun-Liu alliance opening, then consciously accepts future partner-autonomy risk rather than weaken the coalition against the more immediate Cao threat.
@@ -64,16 +67,15 @@ Hanji 1113 adds the intermediate hedge. Before the larger base transfer, Sun Qua
 - Postwar capacity building: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] has Sun Quan accept Lu Su as Zhou Yu's military successor, back Liu Bei's Jingzhou foothold, and direct Lyu Meng toward role-relevant historical study.
 - Threat ordering before empowerment: [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] has Sun Quan reject Zhou Yu and Lu Fan's detention proposal because Cao Cao remains the more urgent threat and the Liu group remains useful to common defense.
 - Marriage-backed alliance hedge: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] places Sun Quan between continuing need for Liu Bei and fear of his expansion, then presents Lady Sun's marriage as a temporary stabilizer.
+- Later two-front hedge and command legitimation: [[zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj|Hanji 1157]] presents nominal accommodation with Cao Cao as pressure reduction and Sun Quan's Zhou Tai banquet as public evidence for an otherwise resisted appointment.
 
 ## Qualifications
-Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1086's prepared boxes, dialogue, emotional response, pardon mechanics, and exact reassignment remain source-scoped; clemency in one case does not erase the intended execution of Huang Zu or establish a general rule. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded. Hanji 1113's marriage negotiation, Lady Sun's agency, ages, armed household, and direct link to later Jingzhou conflict remain source-scoped. Hanji 1117-1118's detention proposal, predicted Liu-side response, motive hierarchy, “借荆州” shorthand, Cao Cao reaction, administrative sequence, and learning dialogue require wider textual comparison.
+Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1086's prepared boxes, dialogue, emotional response, pardon mechanics, and exact reassignment remain source-scoped; clemency in one case does not erase the intended execution of Huang Zu or establish a general rule. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded. Hanji 1113's marriage negotiation, Lady Sun's agency, ages, armed household, and direct link to later Jingzhou conflict remain source-scoped. Hanji 1117-1118's detention proposal, predicted Liu-side response, motive hierarchy, “借荆州” shorthand, Cao Cao reaction, administrative sequence, and learning dialogue require wider textual comparison. Hanji 1157's two-front motive, diplomatic meaning, appointment objections, scar count, banquet dialogue, and immediate recognition shift likewise remain episode-scoped.
 
 ## What Changed
-- Reframed the Jingzhou decision as conscious threat sequencing rather than failure to recognize Liu Bei's long-term danger.
-- Added the rejected detention-and-separation proposal as the containment alternative to partner empowerment.
-- Linked Lu Su's appointment to Zhou Yu's prior recommendation as well as Sun Quan's later selection.
-- Preserved coalition strengthening and future territorial rivalry as simultaneous consequences of the same choice.
-- Added political marriage as the intermediate hedge between wartime cooperation and larger territorial empowerment.
+- Extended Sun Quan's threat sequencing into 217 CE nominal accommodation with Cao Cao under renewed two-front risk.
+- Added public explanation of Zhou Tai's rescue service as a way to legitimate a contested Ruxu appointment.
+- Preserved the distinction between tactical accommodation and durable alliance or surrender.
 
 ## Relationships
 - [[SunCe|孙策]] - elder brother who designates Sun Quan and leaves a still-fragile regional base.
@@ -97,3 +99,5 @@ Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zh
 - [[LearningDrivenRoleExpansion|学习驱动的角色跃迁]] - development mechanism applied to Lyu Meng.
 - [[LuFan|吕范]] - adviser who joins Zhou Yu in urging Liu Bei's detention before Sun Quan chooses continued coalition.
 - [[LadySunLiuBei|孙夫人]] - sister whose marriage is used to reinforce the necessary but mistrustful Liu alliance.
+- [[ZhouTaiEasternWu|周泰]] - Ruxu commander whose authority Sun Quan makes legible through public recognition of service.
+- [[RuxukouCampaign217LateHan|濡须口之战（217年）]] - later confrontation in which nominal submission functions as tactical pressure reduction.

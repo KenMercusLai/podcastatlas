@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-1150-caocao-weishenme-yao-sha-huaiyun-de-dong-guiren-ltsk2hxmdh9is39ejkypzqruoeiu
   - zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um
   - zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo
-last_updated: 2026-11-12
+  - zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj
+last_updated: 2026-11-13
 ---
 
 ## Overview
@@ -27,9 +28,11 @@ Hanji 1149 adds the earlier comparison with [[CaoZhi|曹植]]. The episode prese
 
 Hanji 1156 adds the factional cost of the same contest. [[CuiYanLateHan|崔琰]] publicly supports Cao Pi through a seniority argument, while [[DingYiLateHan|丁仪]] is said to resent Cao Pi after a blocked marriage and to join Cao Zhi's side. The episode treats Cui Yan's death as partly embedded in that conflict, but it does not prove that Cao Cao ordered the killing principally to weaken Cao Pi's camp.
 
+Hanji 1157 supplies the public decision: [[CaoCao|曹操]] formally names Cao Pi crown prince of Wei. The designation converts a contested comparison with [[CaoZhi|曹植]] into an official succession hierarchy, although it does not by itself explain every cause of the choice or dissolve the factions formed during the contest.
+
 ## Key Characteristics
 
-- Son who inherits and formalizes Cao-family power.
+- Formally designated Wei crown prince who later inherits and formalizes Cao-family power.
 - Contingent beneficiary of Cao Chong's early death.
 - Administrator who delegates a limited revolt rather than seeking personal military credit.
 - Decision-maker who refers an expansive captive-execution question to superior authority.
@@ -55,13 +58,17 @@ Succession reliability:
 Factional succession field:
 - [[zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo|Hanji 1156]] places Cui Yan's support for Cao Pi and Ding Yi's grievance and Cao Zhi alignment around the accusation case.
 
+Formal heir designation:
+- [[zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj|Hanji 1157]] says Cao Cao names Cao Pi crown prince of Wei.
+
 ## Qualifications
 
-These sources do not form a complete reign biography. The abdication is described inside a podcast synthesis rather than a detailed institutional record, and the degree of coercion and settlement terms require narrower verification. Hanji 1111 supports a plausible succession counterfactual, not a formal Cao Chong designation. Hanji 1149's poet-versus-politician contrast does not isolate all causes of succession. Hanji 1156 does not conclusively identify Ding Yi as the accuser or prove that Cui Yan's Cao Pi alignment caused his death.
+These sources do not form a complete reign biography. The abdication is described inside a podcast synthesis rather than a detailed institutional record, and the degree of coercion and settlement terms require narrower verification. Hanji 1111 supports a plausible succession counterfactual, not a formal Cao Chong designation. Hanji 1149's poet-versus-politician contrast does not isolate all causes of succession. Hanji 1156 does not conclusively identify Ding Yi as the accuser or prove that Cui Yan's Cao Pi alignment caused his death. Hanji 1157 establishes the episode's reported formal designation, not a complete causal account of why Cao Pi prevailed.
 
 ## What Changed
 
 - Added Cui Yan's public support and Ding Yi's reported grievance as factional consequences of the succession contest.
+- Added Cao Pi's formal designation as crown prince of Wei.
 - Kept the accusation attribution and Cao Cao's motive qualified.
 
 ## Relationships

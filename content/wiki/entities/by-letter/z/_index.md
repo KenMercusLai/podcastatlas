@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 14067
+wiki_total_pages: 14072
 wiki_pages:
   - key: "ZahraDataScienceWithSam"
     title: "Dr. Zahra (Data Science With Sam)"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "ZhouBiLateHan"
     title: "周毖 / Zhou Bi (late Han)"
     url: "/wiki/entities/zhoubilatehan/"
+  - key: "ZhouTaiEasternWu"
+    title: "周泰 / Zhou Tai (Eastern Wu)"
+    url: "/wiki/entities/zhoutaieasternwu/"
   - key: "ZhouHaoRehabilitationEngineer"
     title: "周浩 / Zhou Hao (rehabilitation engineer)"
     url: "/wiki/entities/zhouhaorehabilitationengineer/"
@@ -1343,6 +1346,9 @@ wiki_pages:
   - key: "ZhuLingLateHan"
     title: "朱灵 / Zhu Ling (late Han)"
     url: "/wiki/entities/zhulinglatehan/"
+  - key: "ZhuRanEasternWu"
+    title: "朱然 / Zhu Ran (Eastern Wu)"
+    url: "/wiki/entities/zhuraneasternwu/"
   - key: "ZhuXi"
     title: "朱熹 / Zhu Xi"
     url: "/wiki/entities/zhuxi/"

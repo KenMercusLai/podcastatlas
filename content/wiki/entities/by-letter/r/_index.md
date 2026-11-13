@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14067
+wiki_total_pages: 14072
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "RuxukouCampaign213LateHan"
     title: "濡须口之战（213年） / Ruxukou Campaign (213 CE)"
     url: "/wiki/entities/ruxukoucampaign213latehan/"
+  - key: "RuxukouCampaign217LateHan"
+    title: "濡须口之战（217年） / Ruxukou Campaign (217 CE)"
+    url: "/wiki/entities/ruxukoucampaign217latehan/"
   - key: "RuxuFortressLateHan"
     title: "濡须坞 / Ruxu Fortress"
     url: "/wiki/entities/ruxufortresslatehan/"

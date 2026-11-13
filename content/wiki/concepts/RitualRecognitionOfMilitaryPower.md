@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq
   - zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5
   - zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx
-last_updated: 2026-11-09
+  - zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj
+last_updated: 2026-11-13
 ---
 
 ## Definition
@@ -22,6 +23,8 @@ The Zhou cases establish the base pattern. After [[QinXianGong|秦献公]]'s [[S
 Hanji 169 supplies a founding-state version. After [[LiuBang|刘邦]] wins the Chu-Han war, regional kings petition him to take the imperial title and [[ShusunTong|叔孙通]] prepares an accession rite from Qin precedent. Liu Bang simplifies the ceremony, but military victory still passes through public petition and ritual before becoming the recognized beginning of the [[WesternHanDynasty|西汉]].
 
 Hanji 1142 adds recognition before formal dynastic replacement. It interprets [[EmperorXianOfHan|汉献帝]]'s grant of a gold seal, red ribbon, and distant-travel crown to [[CaoCao|曹操]] as making an unrelated minister's near-princely status visible while the Han emperor remains on the throne. The source connects those objects to Cao Cao's Wei administration and [[CaoPi|曹丕]]'s later accession. This expands the concept from ratifying victory or founding to staging an intermediate rank between minister and successor dynasty.
+
+Hanji 1157 extends that trajectory into 217 CE with emperor-like standards, travel clearing, a twelve-pendant crown, a six-horse gold-root carriage, and a large accompanying vehicle train. The episode then places Cao Pi's formal selection as Wei crown prince beside those grants, making ritual elevation and succession ordering mutually visible without proving that either step alone completed or mechanically caused dynastic replacement.
 
 ## Key Claims
 
@@ -38,16 +41,17 @@ Hanji 1142 adds recognition before formal dynastic replacement. It interprets [[
 - Explicit hegemon status: [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq|Zhouji 18]] reads “王致伯于秦” as royal recognition of Qin Xiao Gong's senior standing among the lords.
 - Founding accession: [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] connects coalition victory, regional petitions, Shusun Tong's ceremony, and Liu Bang's imperial accession.
 - Transitional near-princely elevation: [[zizhi-tongjian-hanji-1142-caocao-ruhe-dapo-sibainian-hanshi-lifa-ljxatz6lgnc47viery3wuswxi7rx|Hanji 1142]] interprets Cao Cao's seal, ribbon, and crown as visible recognition of exceptional authority before Cao Pi replaces Han.
+- Later sovereign-style privileges: [[zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj|Hanji 1157]] adds standards, cleared travel, crown, carriage, and entourage privileges in the same year as Cao Pi's crown-prince designation.
 
 ## Counterevidence & Qualifications
 
-All four sources are interpretive podcast summaries. The Zhou casualty total, exact force of the fufu grant, Fengze geography, and reading of “王致伯于秦” remain source-scoped. Liu Bang's accession case follows completed military victory and coalition petition, whereas Cao Cao's case preserves an incumbent emperor and stops short of Cao Cao taking the throne; they are related mechanisms, not identical constitutional events. Hanji 1142 does not independently settle which insignia were legally restricted to which ranks, how autonomous the Wei administration was, or whether the grant intentionally prepared Cao Pi's accession. Recognition can also constrain or domesticate a powerholder rather than simply endorse a linear rise.
+All five sources are interpretive podcast summaries. The Zhou casualty total, exact force of the fufu grant, Fengze geography, and reading of “王致伯于秦” remain source-scoped. Liu Bang's accession case follows completed military victory and coalition petition, whereas Cao Cao's case preserves an incumbent emperor and stops short of Cao Cao taking the throne; they are related mechanisms, not identical constitutional events. Hanji 1142 and Hanji 1157 do not independently settle which insignia were legally exclusive, how autonomous the Wei administration was, the exact dates or item sequence, or whether the grants intentionally prepared Cao Pi's accession. Recognition can also constrain or domesticate a powerholder rather than simply endorse a linear rise.
 
 ## What Changed
 
-- Added Cao Cao's 213 CE insignia grant as recognition during, rather than after, a transfer of practical power.
-- Extended the concept from military victory and accession to an intermediate near-princely status under a surviving emperor.
-- Clarified that ritual recognition can preserve the old ruler's status-giving role while exposing the movement of effective authority.
+- Added Cao Cao's 217 CE sovereign-style standards, travel, crown, carriage, and entourage privileges.
+- Linked continuing ritual elevation with Cao Pi's formal heir designation without treating either as sufficient proof of inevitable replacement.
+- Preserved the distinction between visible status recognition and completed constitutional transfer.
 
 ## Related Concepts
 

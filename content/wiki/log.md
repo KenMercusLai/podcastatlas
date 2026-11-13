@@ -39325,6 +39325,7 @@ Added source `b765334b`; created [[RajivKanhaja]] and [[AdButler]]; and resynthe
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-11-13] ingest | 《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？
 
 Added source `zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch`; resynthesized [[LadyDingCaoCao|丁夫人]], [[CaoAng|曹昂]], and [[SelfValidatedRelationshipBoundaries|自我认可式关系边界]] from each page's complete preserved evidence inventory before appending the new source once; and migrated and extended [[LadyBianCaoCao|卞夫人]] to `synthesis-v1`. Core synthesis: Cao Ang's Wancheng death remains both a command-failure cost and a lasting household wound; Lady Ding's refusal shows that remorse does not create an entitlement to reconciliation after irreversible harm; and Lady Bian's reported deference preserves dignity across a household status change.
@@ -39383,6 +39384,16 @@ No settled contradiction was adopted. Investment, ownership, financing, profit, 
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | 《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权
+
+Added source `zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj`; created [[ZhouTaiEasternWu|周泰]], [[JiangQinEasternWu|蒋钦]], [[XuShengEasternWu|徐盛]], [[ZhuRanEasternWu|朱然]], and the distinct [[RuxukouCampaign217LateHan|217 CE Ruxu campaign]]; and resynthesized [[SunQuan|孙权]], [[CaoPi|曹丕]], [[RuxuFortressLateHan|濡须坞]], [[PublicDutyOverPrivateGrievance|对事不对人式公义]], [[RitualizedCommandAppointment|仪式化拜将留才]], and [[RitualRecognitionOfMilitaryPower|礼制承认军事权力]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: nominal accommodation can reduce two-front pressure without creating durable trust; public evidence can convert private ruler confidence into legible command authority; personnel judgment can recognize a capable former adversary without erasing the grievance; and Cao Pi's formal designation sits beside continuing Cao-side ritual elevation without making dynastic replacement mechanically inevitable.
+
+No settled contradiction was adopted. The 217 CE confrontation remains distinct from the 213 CE Ruxu campaign, and Eastern Wu [[XuShengEasternWu|徐盛]] uses a semantic suffix to avoid collision with the existing 174 CE rebel [[XuShengLateHan|许生]]. Cao-Sun motives, force and chronology details, Zhou Tai's background and wounds, banquet dialogue, Jiang Qin's earlier dispute, imperial privilege rules, and the full causes of Cao Pi's selection remain source-scoped because the supplied file is a structured episode summary rather than a cited historical study. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,934 sources across 806 overview paragraphs and nine topics.
 
 ## [2026-11-13] lint | Wiki health check
 

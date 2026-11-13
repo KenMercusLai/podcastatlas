@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权](sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj.md) — 芮淇讲透资治通鉴以217年濡须对峙、孙权名义服软、周泰公开立威、蒋钦越过私怨荐才及曹丕受立，讨论战术缓和与组织权威。
 - [《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？](sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch.md) — 芮淇讲透资治通鉴以曹昂之死、丁夫人拒绝复合、卞夫人的礼让及曹丕曹植竞争，连接不可逆损失、关系边界与继承可靠性。
 - [156. 《侠》｜对影之刃零制作人梁其伟6小时访谈](sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan.md) — 梁其伟以现代侠义、作者型游戏、灵游坊创业与《影之刃零》讨论创作、资本、文化寻根和AI边界。
 - [The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176.md) — Tomorrow Today interview on probabilistic agent risk, test-driven governance, exception-focused oversight, private deployment, and personalized safety boundaries.
@@ -5057,6 +5058,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [濡须口之战（217年） / Ruxukou Campaign (217 CE)](entities/RuxukouCampaign217LateHan.md) — 曹操与孙权在濡须的后期对峙，以撤军、名义归附和短暂缓和收束。
+- [蒋钦 / Jiang Qin (Eastern Wu)](entities/JiangQinEasternWu.md) — 东吴将领，以越过旧怨举荐徐盛体现公事判断与私人情绪的分离。
+- [徐盛 / Xu Sheng (Eastern Wu)](entities/XuShengEasternWu.md) — 东吴将领，在周泰任命与蒋钦荐才两条组织关系中呈现其能力与难驯性。
+- [周泰 / Zhou Tai (Eastern Wu)](entities/ZhouTaiEasternWu.md) — 受命镇守濡须、由孙权公开说明救主伤痕与任命依据的东吴将领。
+- [朱然 / Zhu Ran (Eastern Wu)](entities/ZhuRanEasternWu.md) — 东吴将领，在周泰的濡须任命中代表需要理解上级选择依据的高地位部属。
 - [梁其伟 / Liang Qiwei](entities/LiangQiwei.md) — 灵游坊创始人、《雨血》创作者与《影之刃零》制作人，以创作者和经营者的内在张力组织长期实践。
 - [灵游坊 / S-GAME](entities/SGame.md) — 从独立项目与手游商业化走向大型作者型单机、自主发行和功夫朋克定位的中国游戏工作室。
 - [《影之刃零》 / Phantom Blade Zero](entities/PhantomBladeZero.md) — 以黑暗武侠、文化寻根、魂与左殇的动机反差及人类主导艺术创作为定位的大型动作游戏。
