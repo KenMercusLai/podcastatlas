@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14061
+wiki_total_pages: 14067
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "PrincessMononoke"
     title: "《幽灵公主》 / Princess Mononoke"
     url: "/wiki/entities/princessmononoke/"
+  - key: "PhantomBladeZero"
+    title: "《影之刃零》 / Phantom Blade Zero"
+    url: "/wiki/entities/phantombladezero/"
   - key: "PsychoFilm"
     title: "《惊魂记》 / Psycho"
     url: "/wiki/entities/psychofilm/"

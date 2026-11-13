@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3824
+topic_total_pages: 3825
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9597,6 +9597,9 @@ topic_sources:
   - key: "155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii"
     title: "155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻"
     url: "/wiki/sources/155-he-kewosi-qiancheng-liao-fu-yu-zi-qi-erdai-jieban-de-yangben-yu-jili-jiqiren-he-wo-neixin-de-zhuixun-ltpy6k_plbv7sfr1d4rzchfhwzii/"
+  - key: "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan"
+    title: "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈"
+    url: "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
   - key: "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz"
     title: "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录"
     url: "/wiki/sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz/"

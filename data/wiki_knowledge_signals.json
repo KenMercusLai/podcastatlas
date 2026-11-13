@@ -25988,6 +25988,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/authorcommercialfilmbalance/"
     },
+    "AuthorLedGameProduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/authorledgameproduction/"
+    },
     "AuthoritarianConcessionExpectationEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -61075,6 +61091,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/conservativeleadershipelection1975/"
     },
+    "ConservativeOperationsAggressiveProduct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/conservativeoperationsaggressiveproduct/"
+    },
     "ConservativePartyClassRealignment": {
       "episode_count": 1,
       "show_count": 1,
@@ -67674,6 +67706,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/culturalrevolutiongovernancememory/"
+    },
+    "CulturalRootedGenreModernization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/culturalrootedgenremodernization/"
     },
     "CulturalTrendLocalization": {
       "episode_count": 1,
@@ -143279,9 +143327,9 @@
       "url": "/wiki/concepts/humanauthorizedroboticforce/"
     },
     "HumanAuthorshipPremium": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
@@ -143303,9 +143351,16 @@
           "show": "Data Science With Sam",
           "title": "EP 27: AI and the Creative Arts: Innovation or Appropriation?",
           "url": "/wiki/sources/ep-27-ai-and-the-creative-arts-innovation-or-appropriation/"
+        },
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/humanauthorshippremium/"
     },
     "HumanCareAutomationBoundary": {
@@ -176718,6 +176773,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/liangqilatehan/"
     },
+    "LiangQiwei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/liangqiwei/"
+    },
     "LiangShangLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -207010,6 +207081,22 @@
       "updated": "2026-11-06",
       "url": "/wiki/concepts/moderntimediscipline/"
     },
+    "ModernWuxiaHeroism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/modernwuxiaheroism/"
+    },
     "Moderna": {
       "episode_count": 5,
       "show_count": 5,
@@ -232155,6 +232242,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/phaeacians/"
     },
+    "PhantomBladeZero": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/phantombladezero/"
+    },
     "PharaonicKingshipLegitimation": {
       "episode_count": 1,
       "show_count": 1,
@@ -242350,6 +242453,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/productbrandcompanybrandseparation/"
     },
+    "ProductCapabilityAsCorporatePurpose": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/productcapabilityascorporatepurpose/"
+    },
     "ProductCapabilityCommercializationGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -248615,6 +248734,22 @@
       ],
       "updated": "2026-11-06",
       "url": "/wiki/concepts/railwayenabledsocialtransformation/"
+    },
+    "RainBlood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/rainblood/"
     },
     "RainExposureFootCareBoundary": {
       "episode_count": 1,
@@ -261652,6 +261787,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/seccftccoordination/"
+    },
+    "SGame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/sgame/"
     },
     "SHEIN": {
       "episode_count": 2,
@@ -278508,6 +278659,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/sorenessrecoveryboundary/"
+    },
+    "SoulPhantomBlade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/soulphantomblade/"
     },
     "SoundBasedStateRegulation": {
       "episode_count": 7,
@@ -342184,6 +342351,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/zuolengchanjinyong/"
+    },
+    "ZuoShang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
+          "key": "156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+          "url": "/wiki/sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/zuoshang/"
     },
     "ZuoShengLateHan": {
       "episode_count": 1,

@@ -39369,3 +39369,12 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-13] ingest | 156. 《侠》｜对影之刃零制作人梁其伟6小时访谈
+
+Added source `156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan`; created [[LiangQiwei|梁其伟]], [[SGame|灵游坊]], [[PhantomBladeZero|《影之刃零》]], [[RainBlood|《雨血》]], [[SoulPhantomBlade|魂]], [[ZuoShang|左殇]], [[ModernWuxiaHeroism]], [[AuthorLedGameProduction]], [[ConservativeOperationsAggressiveProduct]], [[CulturalRootedGenreModernization]], and [[ProductCapabilityAsCorporatePurpose]]; and resynthesized [[HumanAuthorshipPremium]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: contemporary xia remains defined by unusual risk, cost, and retained humanity, but credible heroism can grow from self-completion rather than imposed sacrifice; author-led studios need operating discipline that protects creative coherence; and financing, technology, reputation, and AI are valuable when they increase product capability without replacing accountable human authorship as the source of player trust.
+
+No settled contradiction was adopted. Investment, ownership, financing, profit, repurchase, project, market, collaboration, and AI-workflow claims remain participant-reported or source-scoped, while the definitions of xia, authorial games, culturally rooted modernization, and corporate “martial arts” remain Liang's creative and operating philosophy rather than universal rules. Broad [[ZhangXiaojunCommercialInterviews|张小珺Jùn｜商业访谈录]], company-platform, general AI-game, literary-author, and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,932 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

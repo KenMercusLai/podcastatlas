@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3647
+topic_total_pages: 3648
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1066,6 +1066,9 @@ topic_concepts:
   - key: "CulturalIndustryCreativeAttractiveness"
     title: "Cultural-Industry Creative Attractiveness / 文化行业创作吸引力"
     url: "/wiki/concepts/culturalindustrycreativeattractiveness/"
+  - key: "CulturalRootedGenreModernization"
+    title: "Culturally Rooted Genre Modernization / 文化寻根式类型现代化"
+    url: "/wiki/concepts/culturalrootedgenremodernization/"
   - key: "CultureLedFoodAdoption"
     title: "Culture-Led Food Adoption"
     url: "/wiki/concepts/cultureledfoodadoption/"

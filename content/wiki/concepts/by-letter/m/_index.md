@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11195
+wiki_total_pages: 11200
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1424,6 +1424,9 @@ wiki_pages:
   - key: "ModernUrbanDisasterRisk"
     title: "Modern Urban Disaster Risk"
     url: "/wiki/concepts/modernurbandisasterrisk/"
+  - key: "ModernWuxiaHeroism"
+    title: "Modern Wuxia Heroism / 现代武侠英雄观"
+    url: "/wiki/concepts/modernwuxiaheroism/"
   - key: "ModernistArchitecture"
     title: "Modernist Architecture / 现代主义建筑"
     url: "/wiki/concepts/modernistarchitecture/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11195
+wiki_total_pages: 11200
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -3092,6 +3092,9 @@ wiki_pages:
   - key: "AuthorCharacterSeparation"
     title: "Author-Character Separation"
     url: "/wiki/concepts/authorcharacterseparation/"
+  - key: "AuthorLedGameProduction"
+    title: "Author-Led Game Production / 作者型游戏制作"
+    url: "/wiki/concepts/authorledgameproduction/"
   - key: "AuthoritarianConcessionExpectationEscalation"
     title: "Authoritarian Concession Expectation Escalation"
     url: "/wiki/concepts/authoritarianconcessionexpectationescalation/"

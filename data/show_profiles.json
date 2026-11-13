@@ -2177,20 +2177,20 @@
       "earliest_episode_date": "2026-01-22",
       "latest_episode_date": "2026-11-13",
       "latest_episode_file": "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
-      "source_note_count": 26,
-      "topic_matched_source_note_count": 20,
+      "source_note_count": 27,
+      "topic_matched_source_note_count": 21,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 20
+          "source_note_count": 21
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 5
+          "source_note_count": 6
         },
         {
           "key": "culture",
@@ -2264,10 +2264,10 @@
         }
       ],
       "start_here_episode_files": [
-        "ltpY6K_PLBv7SfR1D4RZchFHwzII [ltpY6K_PLBv7SfR1D4RZchFHwzII].md",
-        "lssO9j-p6L7ZGWAwhIB14zJXksFQ [lssO9j-p6L7ZGWAwhIB14zJXksFQ].md",
+        "lvnhry4gLCC3Ut_6NMJN7QRmdDaN [lvnhry4gLCC3Ut_6NMJN7QRmdDaN].md",
         "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
-        "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md"
+        "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+        "ltpY6K_PLBv7SfR1D4RZchFHwzII [ltpY6K_PLBv7SfR1D4RZchFHwzII].md"
       ]
     },
     "忽左忽右": {

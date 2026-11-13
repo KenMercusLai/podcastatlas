@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14061
+wiki_total_pages: 14067
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
@@ -2834,6 +2834,9 @@ wiki_pages:
   - key: "ShenpuIntelligence"
     title: "深普智能 / Shenpu Intelligence"
     url: "/wiki/entities/shenpuintelligence/"
+  - key: "SGame"
+    title: "灵游坊 / S-GAME"
+    url: "/wiki/entities/sgame/"
   - key: "ShaodangQiang"
     title: "烧当羌 / Shaodang Qiang"
     url: "/wiki/entities/shaodangqiang/"
@@ -3128,6 +3131,9 @@ wiki_pages:
   - key: "SiJunWesternHan"
     title: "驷钧 / Si Jun (Western Han)"
     url: "/wiki/entities/sijunwesternhan/"
+  - key: "SoulPhantomBlade"
+    title: "魂 / Soul (Phantom Blade)"
+    url: "/wiki/entities/soulphantomblade/"
   - key: "ShikanoYasuaki"
     title: "鹿野靖明"
     url: "/wiki/entities/shikanoyasuaki/"

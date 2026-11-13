@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11195
+wiki_total_pages: 11200
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2309,6 +2309,9 @@ wiki_pages:
   - key: "ConservativeLeadershipElection1975"
     title: "Conservative Leadership Election 1975"
     url: "/wiki/concepts/conservativeleadershipelection1975/"
+  - key: "ConservativeOperationsAggressiveProduct"
+    title: "Conservative Operations, Aggressive Product / 保守经营、激进产品"
+    url: "/wiki/concepts/conservativeoperationsaggressiveproduct/"
   - key: "ConservativePartyClassRealignment"
     title: "Conservative Party Class Realignment"
     url: "/wiki/concepts/conservativepartyclassrealignment/"
@@ -3383,6 +3386,9 @@ wiki_pages:
   - key: "CulturalPreservationColony"
     title: "Cultural-Preservation Colony"
     url: "/wiki/concepts/culturalpreservationcolony/"
+  - key: "CulturalRootedGenreModernization"
+    title: "Culturally Rooted Genre Modernization / 文化寻根式类型现代化"
+    url: "/wiki/concepts/culturalrootedgenremodernization/"
   - key: "CultureWarHistoricalGenealogy"
     title: "Culture War Historical Genealogy"
     url: "/wiki/concepts/culturewarhistoricalgenealogy/"

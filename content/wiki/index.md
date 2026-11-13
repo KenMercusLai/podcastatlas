@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [156. 《侠》｜对影之刃零制作人梁其伟6小时访谈](sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan.md) — 梁其伟以现代侠义、作者型游戏、灵游坊创业与《影之刃零》讨论创作、资本、文化寻根和AI边界。
 - [The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176.md) — Tomorrow Today interview on probabilistic agent risk, test-driven governance, exception-focused oversight, private deployment, and personalized safety boundaries.
 - [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a.md) — LateTalk interview on Liber AI's world-action model, glove-to-robot data bridge, selective full-stack physical-AI strategy, and commercialization constraints.
 - [377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？](sources/377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz.md) — 独树不成林以黄仁勋被报道辞任为切口，区分科技加速派、对华安全鹰派与反科技寡头民粹派在芯片出口、州级监管、劳动与数据中心上的分歧。
@@ -5055,6 +5056,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [梁其伟 / Liang Qiwei](entities/LiangQiwei.md) — 灵游坊创始人、《雨血》创作者与《影之刃零》制作人，以创作者和经营者的内在张力组织长期实践。
+- [灵游坊 / S-GAME](entities/SGame.md) — 从独立项目与手游商业化走向大型作者型单机、自主发行和功夫朋克定位的中国游戏工作室。
+- [《影之刃零》 / Phantom Blade Zero](entities/PhantomBladeZero.md) — 以黑暗武侠、文化寻根、魂与左殇的动机反差及人类主导艺术创作为定位的大型动作游戏。
+- [《雨血》 / Rain Blood](entities/RainBlood.md) — 梁其伟早期独立黑暗武侠项目，也是灵游坊团队与影之刃世界的创作起点。
+- [魂 / Soul (Phantom Blade)](entities/SoulPhantomBlade.md) — 从自救出发并可能帮助世界、体现现代侠义具体选择的《影之刃零》主角。
+- [左殇 / Zuo Shang](entities/ZuoShang.md) — 以宏大救世目标和全局谋划行动、却可能因绝对确信走向破坏的《影之刃零》人物。
 - [Dustin Allen](entities/DustinAllen.md) — Trinitite founder advocating expected-outcome testing, specialized governance controls, private deployment, and user-specific agent safety.
 - [Trinitite](entities/Trinitite.md) — Privacy and AI-governance company described as testing agent workflows and enforcing user-defined boundaries locally or in private clouds.
 - [Liber AI](entities/LiberAI.md) — physical-AI startup integrating action models, robot data, hardware fit, control, and deployment.
@@ -19209,6 +19216,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Modern Wuxia Heroism / 现代武侠英雄观](concepts/ModernWuxiaHeroism.md) — 以巨大风险中的具体选择、可信个人动机和不失人性界定当代侠义，而非预设身份或牺牲口号。
+- [Author-Led Game Production / 作者型游戏制作](concepts/AuthorLedGameProduction.md) — 让创作者经历、审美与判断在大型团队作品中保持可辨认责任，同时以管理能力支持交付。
+- [Conservative Operations, Aggressive Product / 保守经营、激进产品](concepts/ConservativeOperationsAggressiveProduct.md) — 控制公司生存风险并把艺术与技术冒险集中于产品的风险配置策略。
+- [Culturally Rooted Genre Modernization / 文化寻根式类型现代化](concepts/CulturalRootedGenreModernization.md) — 让现代视觉与全球表达从可追溯的动作、声音、建筑和器物传统中生长的类型更新方法。
+- [Product Capability as Corporate Purpose / 产品能力作为公司目的](concepts/ProductCapabilityAsCorporatePurpose.md) — 把持续做出更好产品的能力视为公司目的，并令资本、收入、声誉与技术服务于下一次创作。
 - [Test-Driven Agent Governance](concepts/TestDrivenAgentGovernance.md) — Assurance loop that defines expected outcomes, probes edge cases, applies targeted controls, validates workflow state, and retests.
 - [Personalized Agent Safety](concepts/PersonalizedAgentSafety.md) — User-specific agent boundaries joining configurable risk, data control, revocable authority, and non-negotiable third-party limits.
 - [Poison as Covert Power / 毒药作为隐蔽权力工具](concepts/PoisonAsCovertPower.md) — Pattern in which toxic agents convert knowledge, access, trust, concealment, and deniability into harm with limited visible force.
