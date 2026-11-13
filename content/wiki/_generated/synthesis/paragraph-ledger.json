@@ -806,12 +806,13 @@
       "3a9d0e5828ad00d52b8553302f1ea8decda769f1bfd87246f8273a150b015b73",
       "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6",
       "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70",
-      "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5"
+      "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5",
+      "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e"
     ],
-    "paragraph_count": 806
+    "paragraph_count": 807
   },
-  "overview_commit": "161f9e948f24b52b03f15af8f6ef2d7e7f1ede2b",
-  "overview_digest": "a43d579b2c09686b9c944a9d0431fd14e9acb1375dbb9c4765f6ecb38c12deac",
+  "overview_commit": "ce118e884316289eb334c7bb66f502755e003408",
+  "overview_digest": "875bc8ed003f08a4157f4ddac6a4686c774364bc1d037ba19adecb1a8d25f7c5",
   "paragraphs": [
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
@@ -23504,6 +23505,25 @@
         "TexasElectoralRealignment",
         "TheIntelligence",
         "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06"
+      ]
+    },
+    {
+      "id": "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8|《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode centered on [[LadyBianCaoCao|卞夫人]] as a stabilizer of [[CaoCao|曹操]]'s household and followers. It resynthesizes Lady Bian, [[CaoZhi|曹植]], and [[PoliticalSelfControlTrust|政治托付中的自制力]] through her reported retention of followers during a death rumor, calibrated material restraint, and non-triumphal response to [[CaoPi|曹丕]]'s designation, then contrasts those choices with Cao Zhi's drunken Sima Gate breach and its reported cost to the gate officer. Its core synthesis is that durable authority depends not only on talent or status but on predictable judgment under fear, victory, disappointment, and intoxication, especially when loss of control transfers risk to subordinates. No settled contradiction is adopted; origins, age, dialogue, domestic details, legal consequences, motives, and the episode's female-awakening frame remain source-scoped, and the gate incident is not treated as a complete causal explanation of the succession.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaoPi",
+        "CaoZhi",
+        "LadyBianCaoCao",
+        "PoliticalSelfControlTrust",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8"
       ]
     }
   ],

@@ -1,8 +1,8 @@
 {
   "content_date": "2026-11-13",
   "corpus": {
-    "episode_count": 4938,
-    "source_count": 4938
+    "episode_count": 4939,
+    "source_count": 4939
   },
   "generated": true,
   "global": {
@@ -16,12 +16,14 @@
     "output_digest": "c182209164219d02d8cbe9103bc2f2b159e11a7fba0549f3abff6d295ae0b97c",
     "overview_commit": "0ef414148d69ee4542b5bb47fbd4b7e72598f53f",
     "overview_digest": "0c5d128e2dd5b6f42dca7ff9b50d040e2246507ef84b2cc3aff7bb3bc634dd86",
-    "pending_ingests": 1,
-    "pending_topics": []
+    "pending_ingests": 2,
+    "pending_topics": [
+      "psychology-and-personal-development"
+    ]
   },
-  "overview_commit": "161f9e948f24b52b03f15af8f6ef2d7e7f1ede2b",
-  "overview_digest": "a43d579b2c09686b9c944a9d0431fd14e9acb1375dbb9c4765f6ecb38c12deac",
-  "paragraph_count": 806,
+  "overview_commit": "ce118e884316289eb334c7bb66f502755e003408",
+  "overview_digest": "875bc8ed003f08a4157f4ddac6a4686c774364bc1d037ba19adecb1a8d25f7c5",
+  "paragraph_count": 807,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -61,9 +63,9 @@
       "title": "History and Geopolitics"
     },
     "psychology-and-personal-development": {
-      "claim_digest": "4bc190c863563d975b66742bc8eb7b14b910f31a81fc922a1e68fa3b009a0d60",
-      "input_digest": "f07e512ac75bb0581b04b8751e9992e305ebf74eba065c89e85dcec9ac330351",
-      "output_digest": "e7e20dd732c85525743eb29c1aa7f7391b27b0f5b1c7ae8dea6df8505b76eaed",
+      "claim_digest": "c36d17246ee1b12624749bcf5ff8f6667d2c546cff9b813d1e7fe7165425e547",
+      "input_digest": "5bc88ed668f7874d8eeb5b296389d75cc182a6bf42bd5efa1bad8d0d2f5c4d09",
+      "output_digest": "d703bbea833b7243b77285c3e3e45f63386513246c5f6717eb8c78c69a6f5eb9",
       "title": "Psychology and Personal Development"
     },
     "science-health-and-climate": {

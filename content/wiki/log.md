@@ -39438,3 +39438,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-14] ingest | 《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？
+
+Added the episode source note; resynthesized [[LadyBianCaoCao|卞夫人]], [[CaoZhi|曹植]], and [[PoliticalSelfControlTrust|政治托付中的自制力]] around crisis stabilization, restrained status gain, the Sima Gate breach, and collateral consequences. No settled contradiction was adopted; private detail, chronology, motives, and modern inspirational framing remain source-scoped.
+
+## [2026-11-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

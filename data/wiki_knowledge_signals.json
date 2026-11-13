@@ -42885,9 +42885,9 @@
       "url": "/wiki/entities/caozhenglatehan/"
     },
     "CaoZhi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljv1FwEphE86-QCZfy0O1N2yh7um [ljv1FwEphE86-QCZfy0O1N2yh7um].md",
@@ -42902,9 +42902,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1156丨曹操为何必除崔琰这面道德大旗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo/"
+        },
+        {
+          "episode_file": "ll70ZWd6tmxfa-zjb9ZVl_0P4ZR8 [ll70ZWd6tmxfa-zjb9ZVl_0P4ZR8].md",
+          "key": "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8/"
         }
       ],
-      "updated": "2026-11-12",
+      "updated": "2026-11-14",
       "url": "/wiki/entities/caozhi/"
     },
     "CaoZongLateHan": {
@@ -170645,9 +170652,9 @@
       "url": "/wiki/concepts/lactatemetabolicshuttle/"
     },
     "LadyBianCaoCao": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
@@ -170669,9 +170676,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch/"
+        },
+        {
+          "episode_file": "ll70ZWd6tmxfa-zjb9ZVl_0P4ZR8 [ll70ZWd6tmxfa-zjb9ZVl_0P4ZR8].md",
+          "key": "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "url": "/wiki/entities/ladybiancaocao/"
     },
     "LadyCarolineLamb": {
@@ -236516,9 +236530,9 @@
       "url": "/wiki/concepts/politicalscandalvoteralignment/"
     },
     "PoliticalSelfControlTrust": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljv1FwEphE86-QCZfy0O1N2yh7um [ljv1FwEphE86-QCZfy0O1N2yh7um].md",
@@ -236526,9 +236540,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1149丨揭秘三国顶级谋士荀攸的官场生存术",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um/"
+        },
+        {
+          "episode_file": "ll70ZWd6tmxfa-zjb9ZVl_0P4ZR8 [ll70ZWd6tmxfa-zjb9ZVl_0P4ZR8].md",
+          "key": "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-14",
       "url": "/wiki/concepts/politicalselfcontroltrust/"
     },
     "PoliticalSemanticChange": {

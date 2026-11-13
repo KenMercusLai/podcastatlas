@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？](sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8.md) — 芮淇讲透资治通鉴以卞夫人稳定曹府、克制物欲和不张扬曹丕立储之喜，对照曹植醉闯司马门，讨论危局判断、分寸与政治托付中的自制力。
 - [E258 这个东西，我真的好想要！｜小酒馆故事会🍻](sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn.md) — 知行小酒馆以六件想买之物讨论消费自我许可、延迟满足、家庭记忆、身份转折与有限时间，并以书写、替代和小实验澄清真实需要。
 - [Invidious position: finding Jensen Huang’s successor](sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5.md) — Economist Podcasts on Nvidia’s founder succession, Russia’s hybrid influence infrastructure in Africa, and Jack Prager’s integrated humanitarian work through Calcutta Rescue.
 - [Nvidia’s leadership shakeup could reshape the AI industry](sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CoreWeave's demand-versus-financing tension, and Alex Karp's post-midterm political repositioning.
@@ -5155,7 +5156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [霍峻 / Huo Jun](entities/HuoJun.md) — 以数百人坚守葭萌、拒绝诱降并伺机反击，后转任梓潼太守的刘备部将。
 - [赵范（东汉末） / Zhao Fan (Late Han)](entities/ZhaoFanLateHan.md) — 桂阳投降后提出与赵云联姻、因归附可信度不足被拒，后又出逃的东汉末地方官。
 - [蒋琬 / Jiang Wan](entities/JiangWan.md) — 从广都县务失职获再评价，后以更大尺度的政务能力进入蜀汉高层继承序列。
-- [曹植 / Cao Zhi](entities/CaoZhi.md) — 文学才华突出但因饮酒、越界与拒斥纠偏削弱政治托付可信度，其丁仪阵营又进入崔琰案利益结构的曹氏继承竞争者。
+- [曹植 / Cao Zhi](entities/CaoZhi.md) — 文学才华突出但因饮酒、越界、拒斥纠偏及牵连守门官削弱政治托付可信度，其丁仪阵营又进入崔琰案利益结构的曹氏继承竞争者。
 - [刑颙 / Xing Yong (late Han)](entities/XingYongLateHan.md) — 曹植身边不取悦主君、强调礼法与实用纠偏的严正辅臣。
 - [刘桢 / Liu Zhen (late Han)](entities/LiuZhenLateHan.md) — 曹植的文学友人，同时劝其重视刑颙务实进言的建安文人。
 - [赵彦 / Zhao Yan, Yilang (late Han)](entities/ZhaoYanYilangLateHan.md) — Emperor Xian's policy adviser, killed after Cao Cao treats independent imperial counsel as a resistance channel.
@@ -11378,7 +11379,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘表 / Liu Biao](entities/LiuBiao.md) — Late-Han Jingzhou ruler read as defensively capable, expanding, and shelter-providing, but limited by indecision, suspicion, ritual overreach, Guandu-era exposure, and hosted-rival risk.
 - [于禁 / Yu Jin](entities/YuJin.md) — Cao Cao general whose Wancheng branch includes Hanji 1013 pursuit relief and Hanji 1014 retreat discipline, civilian protection, camp defense, and reward.
 - [丁夫人 / Lady Ding (Cao Cao)](entities/LadyDingCaoCao.md) — 曹昂养母，在宛城丧子后与曹操决裂并拒绝复合；投毒指控与私人场景仍属节目范围。
-- [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — 曹操之妻及曹丕、曹植等四子之母，节目称其成为正妻后仍礼让并照顾丁夫人的身后事。
+- [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — 曹操之妻及四子之母，以危局留众、礼让丁夫人、节俭及不张扬曹丕立储之喜体现稳定曹氏家门的分寸判断。
 - [虞翻 / Yu Fan](entities/YuFan.md) — Kuaiji merit officer whose condition-reading speech warns Wang Lang and Sun Ce before persuading Hua Xin to surrender Yuzhang.
 - [王朗 / Wang Lang (late Han)](entities/WangLangLateHan.md) — Kuaiji governor defeated by Sun Ce, whose retained officer Yu Fan opens Hanji 1005's leader-exposure lesson.
 - [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose strategic profile now includes Yuan Shao rejection, Liu Bei reputation counsel, Xiapi siege timing, and pressure-release exploitation of the Yuan heirs.

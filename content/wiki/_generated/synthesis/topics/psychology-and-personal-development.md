@@ -3,9 +3,9 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-10-14
-as_of_overview_commit: a5bf733c1c77a62b759e38838c21d6dffad037c2
-input_digest: f07e512ac75bb0581b04b8751e9992e305ebf74eba065c89e85dcec9ac330351
+last_updated: 2026-11-13
+as_of_overview_commit: ce118e884316289eb334c7bb66f502755e003408
+input_digest: 5bc88ed668f7874d8eeb5b296389d75cc182a6bf42bd5efa1bad8d0d2f5c4d09
 ---
 
 # Psychology and Personal Development
@@ -96,14 +96,14 @@ Moral principle and relational acceptance are strongest when they remain binding
 
 ### Historical Cases Illustrate Judgment Without Clinical Generalization
 
-The many historical decision episodes supply bounded illustrations of persuasion, loyalty, shame, emotional restraint, adviser use, timing, alliance, reward, reputation, and survival, but they remain narrative cases rather than general psychological laws, consistent with [[PoliticalSurvivalFirst]] and [[XingshiqingStrategicAssessment]].
+Historical decision episodes supply bounded illustrations of persuasion, loyalty, shame, emotional restraint, adviser use, timing, alliance, reward, reputation, and survival; [[PoliticalSelfControlTrust]] now adds that conduct under fear, victory, disappointment, and intoxication affects trust near power and can shift costs onto subordinates.
 
-**Evidence:** [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[DignityBasedPersuasion]], [[StrategicEmotionConcealment]], [[AdviceFramingUnderHierarchy]], [[CharacterReadingDelegationTrust]], [[LongTermAchievementDiscipline]]
+**Evidence:** [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[DignityBasedPersuasion]], [[StrategicEmotionConcealment]], [[AdviceFramingUnderHierarchy]], [[CharacterReadingDelegationTrust]], [[LongTermAchievementDiscipline]], [[PoliticalSelfControlTrust]], [[LadyBianCaoCao]], [[CaoZhi]], [[zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8]]
 
 **Qualifications:**
 
-- Reported dialogue, motives, personality judgments, counterfactuals, and modern management analogies remain source-scoped.
-- Historical actors should not be retrospectively diagnosed from podcast narratives.
+- Reported dialogue, motives, personality judgments, counterfactuals, and modern management or empowerment analogies remain source-scoped.
+- Historical actors should not be retrospectively diagnosed from podcast narratives, and one gate incident cannot supply a complete causal account of succession.
 
 ### Evidence Boundaries Preserve Useful Claims
 
