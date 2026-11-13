@@ -4,38 +4,42 @@ type: concept
 tags: [robotics, data, embodied-ai, hardware]
 sources:
   - yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr
-last_updated: 2026-09-17
+  - 187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a
+last_updated: 2026-11-13
 knowledge_schema: synthesis-v1
 ---
 
 # UMI-Style Glove Data Collection / 手套式数据采集
 
 ## Definition
-UMI-style glove data collection is a body-free manipulation-data method in which a person wears a sensor-rich handheld device or glove so that hand motion, camera views, and timing can be recorded as robot-trainable trajectories without operating a robot during collection.
+UMI-style glove data collection is a body-free manipulation-data method in which a person wears a sensor-rich handheld device or glove so that hand motion, camera views, timing, and sometimes pose or action information can be recorded as robot-trainable trajectories without operating a robot during collection.
 
 ## Current Synthesis
-The source describes a self-built high-precision glove as [[ShenpuIntelligence|深普智能]]'s data differentiator. The device carries a head-mounted stereo camera plus an upper and a lower camera on each wrist, for six views; camera-based tracking localizes at millimeter scale and synchronizes at microsecond scale, which lets the team drop the base station and reduce occlusion. Before scaling, the company ran small experiments, real-machine evaluation, and trajectory replay, and found that more than 95% of collected trajectories could be reproduced on the body. It then open-sourced about 2,000 hours, reported internal data in the tens of thousands of hours, and cited more than 500,000 cumulative downloads across Hugging Face and ModelScope. The source also reports inbound data-purchase interest, usability feedback that the marker is too large and the glove heats up on real machines, and an annotation pipeline that first used [[ChatGPT6Astra]] and is moving toward a small in-house annotation model.
+The two bounded sources describe glove collection as a bridge between cheap but action-poor human video and precise but expensive real-robot teleoperation. [[ShenpuIntelligence|深普智能]] emphasizes measurement quality and validation: its six-view device uses camera-based millimeter localization and microsecond synchronization without an external base station, and the team says trajectory replay reproduced more than 95% of collected trajectories on the body before it scaled collection. It later open-sourced about 2,000 hours, reported internal data in the tens of thousands of hours, and disclosed annotation and usability bottlenecks.
+
+[[LiberAI]] emphasizes learning efficiency. Its source says natural glove motion aligns better with human video than slow, viewpoint-mismatched teleoperation and adds precise action information absent from ordinary internet video. The company reports that 10,000 glove hours outperformed two million internet-video hours, and that glove data combined with 25% of its real-robot teleoperation data beat a full teleoperation-only baseline. The synthesis is not that gloves eliminate real-robot data: they may reduce its share while robot deployment remains necessary for embodiment calibration, contact, evaluation, and final reliability.
 
 ## Key Claims
-- The collection device is a six-view glove with camera-based millimeter localization, microsecond synchronization, and no external base station.
-- Trajectory replay on the real body is used as the test of whether collected data is worth scaling.
-- Open-sourcing data is treated as both community service and a commercial lead channel.
-- Annotation and cleaning are a separate bottleneck; the source reports that a general model annotated better than humans and could work continuously, but with low efficiency.
-- Real-user feedback about marker size and glove heat is part of the data-quality loop rather than a finished-product claim.
-- Body-free collection still has to be validated against real-machine reproduction before it counts as useful robot data.
+- Glove collection can add precise human-action information that ordinary internet video lacks while avoiding the full cost and throughput limits of operating robots during every recording.
+- Device precision, synchronization, occlusion handling, annotation, and trajectory replay determine whether nominal collection hours become usable robot data.
+- Glove motion may align more naturally with human video than robot teleoperation, but cross-embodiment mapping is still required before execution.
+- Real-robot data remains necessary for body calibration, contact dynamics, evaluation, and deployment even if glove data substitutes for part of the teleoperation set.
+- Open data can function as research infrastructure and as a commercial lead channel, but download volume is not evidence of deployed robot performance.
+- Collection-device usability and sensor choices can create heat, marker-size, tactile, and format-lock-in constraints.
 
 ## Evidence
-- Device evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] describes the head stereo camera, the upper and lower wrist cameras, the six camera views, millimeter-scale localization, microsecond synchronization, the removal of the base station, and the occlusion goal.
-- Validation evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] reports small-scale experiments, real-machine evaluation, trajectory replay, and the over-95% reproduction result that justified scaling collection.
-- Scale evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] gives the 2,000 open-sourced hours, the tens-of-thousands-of-hours internal scale, the 500,000-plus cumulative downloads, and the inbound purchase inquiries.
-- Feedback and annotation evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] records the marker-size and glove-heat feedback and the use of [[ChatGPT6Astra]] for annotation with a move toward an in-house annotation model.
+- Device precision and validation: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] describes the six views, millimeter localization, microsecond synchronization, removal of the base station, replay testing, and reported over-95% reproduction rate.
+- Scale, annotation, and usability: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] gives the open and internal hours, download and purchase interest, annotation pipeline, marker-size issue, and glove-heat feedback.
+- Human-to-robot bridge: [[187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a]] explains the missing-action problem in internet video, the natural-motion argument against teleoperation, and embodiment conditioning.
+- Reported substitution efficiency: [[187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a]] reports the 10,000-hour versus two-million-hour comparison and the glove-plus-25%-teleoperation ablation.
 
 ## Counterevidence & Qualifications
-The device design, replay rate, download count, and annotation quality are company-reported and not independently verified. The open dataset has no tactile channel, so this page describes a vision-based manipulation pipeline rather than a complete physical-data strategy. Collection hardware that a company builds itself is also a format commitment, which is exactly the kind of lock-in the source says it wants to avoid elsewhere.
+Device designs, replay rates, download counts, annotation quality, performance comparisons, substitution ratios, and cost estimates are company-reported and not independently verified. The sources do not show common tasks, bodies, protocols, or data-accounting rules that would make their hour counts directly comparable. The Shenpu open dataset has no tactile channel, so glove pipelines are not a complete physical-data strategy. Self-built collection hardware also creates a format commitment, and natural human motion can still differ from robot kinematics, force limits, sensing, and contact dynamics.
 
 ## What Changed
-- Created the concept from the source's six-camera UMI-style glove, its replay validation, and its open-source and annotation details.
-- Separated body-free collection hardware from the broader real-robot data strategy.
+- Added Liber AI's use of glove data as an action-information bridge between internet video and robot control.
+- Added the reported data-ablation case for partial substitution of real-robot teleoperation.
+- Clarified that glove efficiency does not remove embodiment, contact, evaluation, or final-deployment requirements.
 
 ## Related Concepts
 - [[EmbodiedRobotDataParadigms]] - collection-method landscape in which UMI-style gloves are one paradigm.
@@ -44,3 +48,5 @@ The device design, replay rate, download count, and annotation quality are compa
 - [[RobotTeleoperationAndRemoteTakeover]] - adjacent high-quality collection method that operates the robot directly.
 - [[TactileDataStagingChoice]] - decision to leave the glove-based dataset without tactile data for now.
 - [[EgocentricRobotData]] - first-person human data route that this glove-based method resembles but does not equal.
+- [[WorldActionModels]] - action-conditioned model family that can consume mixed human, glove, and robot data.
+- [[LiberAI]] - company reporting glove-data substitution and cross-embodiment results.

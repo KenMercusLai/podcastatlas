@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a.md) — LateTalk interview on Liber AI's world-action model, glove-to-robot data bridge, selective full-stack physical-AI strategy, and commercialization constraints.
 - [377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？](sources/377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz.md) — 独树不成林以黄仁勋被报道辞任为切口，区分科技加速派、对华安全鹰派与反科技寡头民粹派在芯片出口、州级监管、劳动与数据中心上的分歧。
 - [49 毒药与投毒史：从武大郎到希特勒](sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1.md) — 怪东西横跨东西方历史，讨论毒药作为药物、体面死亡、宫廷与情报暗杀工具，并以银针、马尔科夫案和《水浒传》强调史实、传说与毒理证据的边界。
 - [Are We Missing A Billion Untapped Talents | Jonathan Brill x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292.md) — Tomorrow Today interview on physical-constraint forecasting, whole-system innovation viability, shock-ready resilience, distributed AI decision-making, and retained human accountability.
@@ -5053,6 +5054,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Liber AI](entities/LiberAI.md) — physical-AI startup integrating action models, robot data, hardware fit, control, and deployment.
+- [刘松明 / Liu Songming](entities/LiuSongming.md) — Liber AI founder whose RDT research informed a technically led, capital-disciplined robotics strategy.
+- [RDT-1B](entities/RDT1B.md) — diffusion-based robot-pretraining project presented as evidence for cross-task transfer and the need for scalable action data.
 - [Georgi Markov / 格奥尔基·马尔科夫](entities/GeorgiMarkov.md) — Bulgarian writer whose 1978 London pellet attack links suspected ricin, micro-engineered delivery, intelligence attribution, and unresolved legal responsibility.
 - [Jonathan Brill](entities/JonathanBrill.md) — Inventor and futurist connecting industrial design, physical forecasting, strategic resilience, and AI-enabled organizational coordination.
 - [Rajiv Kanhaja](entities/RajivKanhaja.md) — AdButler co-founder and CEO connecting long-horizon product accumulation, lean enterprise selling, relationship pricing, modular engineering, and agent-generated software.

@@ -39351,3 +39351,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
+
+Added source `187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a`; created [[LiberAI]], [[LiuSongming|刘松明]], and [[RDT1B|RDT-1B]]; and resynthesized [[WorldActionModels]], [[UMIGloveDataCollection]], and [[PhysicalIntelligenceSystemStack]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: world-action models become more credible when action-rich glove and robot data bridge broad human video to embodiment-conditioned execution, while general foundation models may absorb more planning without removing the need for contact feedback, low-latency control, hardware reliability, deployment infrastructure, and selective vertical integration.
+
+No settled contradiction was adopted. The title's 刘松铭 and body text's 刘松明 mismatch is preserved as identity uncertainty, while model success rates, the 2.2-million-hour mixture, glove-data substitution, teleoperation cost, hardware comparisons, and commercialization forecasts remain company-reported without independent replication. Broad [[PhysicalAI]], [[EmbodiedAI]], [[ProductionRobotScenarioSelection]], [[LayeredRobotArchitecture]], [[GeneralModelRobotBoundary]], and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,930 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3816
+topic_total_pages: 3820
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7241,6 +7241,9 @@ topic_entities:
   - key: "LibTV"
     title: "Lib TV"
     url: "/wiki/entities/libtv/"
+  - key: "LiberAI"
+    title: "Liber AI"
+    url: "/wiki/entities/liberai/"
   - key: "Liblib"
     title: "Liblib"
     url: "/wiki/entities/liblib/"
@@ -8030,6 +8033,9 @@ topic_entities:
   - key: "RC"
     title: "RC"
     url: "/wiki/entities/rc/"
+  - key: "RDT1B"
+    title: "RDT-1B"
+    url: "/wiki/entities/rdt1b/"
   - key: "ReactNative"
     title: "React Native"
     url: "/wiki/entities/reactnative/"
@@ -9116,6 +9122,9 @@ topic_entities:
   - key: "LiuKefan"
     title: "刘可凡 / Liu Kefan"
     url: "/wiki/entities/liukefan/"
+  - key: "LiuSongming"
+    title: "刘松明 / Liu Songming"
+    url: "/wiki/entities/liusongming/"
   - key: "QwenSmartGlasses"
     title: "千问眼镜 / Qwen Smart Glasses"
     url: "/wiki/entities/qwensmartglasses/"
@@ -9651,6 +9660,9 @@ topic_sources:
   - key: "lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave"
     title: "186.何为中国经济新范式？｜对话CF40研究院院长郭凯"
     url: "/wiki/sources/lpwbbhak2umzdd-u4t2wgstlmave-lpwbbhak2umzdd-u4t2wgstlmave/"
+  - key: "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a"
+    title: "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率"
+    url: "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
   - key: "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp"
     title: "188.关于本轮下跌的三个想法和一些建议"
     url: "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"

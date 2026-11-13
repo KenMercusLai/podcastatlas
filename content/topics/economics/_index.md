@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2397
+topic_total_pages: 2398
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6309,6 +6309,9 @@ topic_sources:
   - key: "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49"
     title: "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇"
     url: "/wiki/sources/187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49/"
+  - key: "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a"
+    title: "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率"
+    url: "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
   - key: "lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp"
     title: "188.关于本轮下跌的三个想法和一些建议"
     url: "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"

@@ -2709,6 +2709,18 @@
       "url": "/topics/history/"
     }
   ],
+  "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "187-putongren-jiujing-yao-ruhe-shibie-jinrong-pianju-guibi-baolei-fengxian-duihua-caixin-zhubian-linghuawei-lq8qt1sstvzaug-nmkftgt17tf49": [
     {
       "key": "economics",
@@ -57871,6 +57883,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LiberAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LiberalChristianElectoralPolitics": [
     {
       "key": "politics",
@@ -58601,6 +58620,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LiuSongming": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LiuSuiSishuiSeal": [
@@ -77223,6 +77249,13 @@
     }
   ],
   "RC": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "RDT1B": [
     {
       "key": "technology",
       "label": "Technology",

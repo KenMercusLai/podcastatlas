@@ -177031,6 +177031,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/libgen/"
     },
+    "LiberAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
+          "key": "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a",
+          "show": "晚点聊 LateTalk",
+          "title": "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率",
+          "url": "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/liberai/"
+    },
     "LiberalChristianElectoralPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -182088,6 +182104,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/liushunchangshankingwesternhan/"
+    },
+    "LiuSongming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
+          "key": "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a",
+          "show": "晚点聊 LateTalk",
+          "title": "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率",
+          "url": "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/liusongming/"
     },
     "LiuSuanLateHan": {
       "episode_count": 5,
@@ -232970,9 +233002,9 @@
       "url": "/wiki/concepts/physicaldynamicalcomputing/"
     },
     "PhysicalIntelligenceSystemStack": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后 (1) [173-1].md",
@@ -232987,9 +233019,16 @@
           "show": "商业就是这样",
           "title": "特番｜从会开车到会做事：AI如何进入真实世界",
           "url": "/wiki/sources/tefan-cong-hui-kaiche-dao-hui-zuoshi-ai-ruhe-jinru-zhenshi-shijie-gkwrijeopcilaoo4hwtn2dns/"
+        },
+        {
+          "episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
+          "key": "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a",
+          "show": "晚点聊 LateTalk",
+          "title": "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率",
+          "url": "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
         }
       ],
-      "updated": "2026-10-14",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/physicalintelligencesystemstack/"
     },
     "PhysicalManufacturingApplicationMoat": {
@@ -247940,6 +247979,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/raffairford/"
+    },
+    "RDT1B": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
+          "key": "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a",
+          "show": "晚点聊 LateTalk",
+          "title": "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率",
+          "url": "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/rdt1b/"
     },
     "REMEmotionalMemorySeparation": {
       "episode_count": 6,
@@ -303263,9 +303318,9 @@
       "url": "/wiki/entities/ugg/"
     },
     "UMIGloveDataCollection": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家 [litRgTDfOZReriLLT7MtUMkNI-Lr].md",
@@ -303273,9 +303328,16 @@
           "show": "十字路口Crossing",
           "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
           "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+        },
+        {
+          "episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
+          "key": "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a",
+          "show": "晚点聊 LateTalk",
+          "title": "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率",
+          "url": "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/umiglovedatacollection/"
     },
     "UNHCR": {
@@ -319718,6 +319780,57 @@
       ],
       "updated": "2026-10-09",
       "url": "/wiki/concepts/workstationpostureadjustment/"
+    },
+    "WorldActionModels": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后 (1) [173-1].md",
+          "key": "173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1",
+          "show": "晚点聊 LateTalk",
+          "title": "173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后",
+          "url": "/wiki/sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人 [lgg_eNV6JRpgVyiWTXw6BocDzDmr].md",
+          "key": "na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr",
+          "show": "十字路口Crossing",
+          "title": "哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人",
+          "url": "/wiki/sources/na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr/"
+        },
+        {
+          "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
+          "key": "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+          "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+        },
+        {
+          "episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
+          "key": "187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a",
+          "show": "晚点聊 LateTalk",
+          "title": "187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率",
+          "url": "/wiki/sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/worldactionmodels/"
     },
     "WorldCoffeeInGoodSpiritsChampionship": {
       "episode_count": 1,

@@ -2597,20 +2597,20 @@
       "earliest_episode_date": "2026-05-25",
       "latest_episode_date": "2026-11-13",
       "latest_episode_file": "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
-      "source_note_count": 18,
-      "topic_matched_source_note_count": 17,
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 18,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 14
+          "source_note_count": 15
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 7
+          "source_note_count": 8
         },
         {
           "key": "politics",
@@ -2684,10 +2684,10 @@
         }
       ],
       "start_here_episode_files": [
+        "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md",
         "1ba74c4b-43e4-416c-aafe-f191fcb44898 [1ba74c4b-43e4-416c-aafe-f191fcb44898].md",
-        "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md",
         "洋葱学园杨临风：用AI制造捷径，是在杀死真学习 (1) [167-1].md",
-        "ad3b421a-d013-4a69-9613-924fa6d47992 [ad3b421a-d013-4a69-9613-924fa6d47992].md"
+        "d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063 [d6d09ee5-d5cf-4b6b-97b3-6fcd4957f063].md"
       ]
     },
     "枫言枫语": {

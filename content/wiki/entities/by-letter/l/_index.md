@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 14056
+wiki_total_pages: 14059
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "LibTV"
     title: "Lib TV"
     url: "/wiki/entities/libtv/"
+  - key: "LiberAI"
+    title: "Liber AI"
+    url: "/wiki/entities/liberai/"
   - key: "LiberalDemocraticPartyJapan"
     title: "Liberal Democratic Party (Japan)"
     url: "/wiki/entities/liberaldemocraticpartyjapan/"
@@ -1568,6 +1571,9 @@ wiki_pages:
   - key: "LiuYangZhendingKingEasternHan"
     title: "刘杨 / Liu Yang, Zhending King (Eastern Han)"
     url: "/wiki/entities/liuyangzhendingkingeasternhan/"
+  - key: "LiuSongming"
+    title: "刘松明 / Liu Songming"
+    url: "/wiki/entities/liusongming/"
   - key: "LiuZhenLateHan"
     title: "刘桢 / Liu Zhen (late Han)"
     url: "/wiki/entities/liuzhenlatehan/"
