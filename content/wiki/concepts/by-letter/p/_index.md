@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 11193
+wiki_total_pages: 11195
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "PersonalizationAsSocialIdentity"
     title: "Personalization As Social Identity"
     url: "/wiki/concepts/personalizationassocialidentity/"
+  - key: "PersonalizedAgentSafety"
+    title: "Personalized Agent Safety"
+    url: "/wiki/concepts/personalizedagentsafety/"
   - key: "PersonalizedFilmIndustrialization"
     title: "Personalized Film Industrialization / 个性化电影工业"
     url: "/wiki/concepts/personalizedfilmindustrialization/"

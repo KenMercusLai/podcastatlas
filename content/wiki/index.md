@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176.md) — Tomorrow Today interview on probabilistic agent risk, test-driven governance, exception-focused oversight, private deployment, and personalized safety boundaries.
 - [187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](sources/187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a.md) — LateTalk interview on Liber AI's world-action model, glove-to-robot data bridge, selective full-stack physical-AI strategy, and commercialization constraints.
 - [377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？](sources/377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz.md) — 独树不成林以黄仁勋被报道辞任为切口，区分科技加速派、对华安全鹰派与反科技寡头民粹派在芯片出口、州级监管、劳动与数据中心上的分歧。
 - [49 毒药与投毒史：从武大郎到希特勒](sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1.md) — 怪东西横跨东西方历史，讨论毒药作为药物、体面死亡、宫廷与情报暗杀工具，并以银针、马尔科夫案和《水浒传》强调史实、传说与毒理证据的边界。
@@ -5054,6 +5055,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Dustin Allen](entities/DustinAllen.md) — Trinitite founder advocating expected-outcome testing, specialized governance controls, private deployment, and user-specific agent safety.
+- [Trinitite](entities/Trinitite.md) — Privacy and AI-governance company described as testing agent workflows and enforcing user-defined boundaries locally or in private clouds.
 - [Liber AI](entities/LiberAI.md) — physical-AI startup integrating action models, robot data, hardware fit, control, and deployment.
 - [刘松明 / Liu Songming](entities/LiuSongming.md) — Liber AI founder whose RDT research informed a technically led, capital-disciplined robotics strategy.
 - [RDT-1B](entities/RDT1B.md) — diffusion-based robot-pretraining project presented as evidence for cross-task transfer and the need for scalable action data.
@@ -19206,6 +19209,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Test-Driven Agent Governance](concepts/TestDrivenAgentGovernance.md) — Assurance loop that defines expected outcomes, probes edge cases, applies targeted controls, validates workflow state, and retests.
+- [Personalized Agent Safety](concepts/PersonalizedAgentSafety.md) — User-specific agent boundaries joining configurable risk, data control, revocable authority, and non-negotiable third-party limits.
 - [Poison as Covert Power / 毒药作为隐蔽权力工具](concepts/PoisonAsCovertPower.md) — Pattern in which toxic agents convert knowledge, access, trust, concealment, and deniability into harm with limited visible force.
 - [Medicine–Poison Boundary / 药物与毒物边界](concepts/MedicinePoisonBoundary.md) — Context-dependent distinction shaped by substance identity, purity, preparation, dose, route, duration, user condition, and purpose.
 - [Physical-Constraint Forecasting](concepts/PhysicalConstraintForecasting.md) — Forecasting method that bounds technology deployment through energy, compute, infrastructure, procurement, cost, and scaling conditions.

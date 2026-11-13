@@ -83775,6 +83775,22 @@
       "updated": "2026-11-13",
       "url": "/wiki/entities/dushubuchenglin/"
     },
+    "DustinAllen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176",
+          "show": "Tomorrow, Today",
+          "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/dustinallen/"
+    },
     "DutchDomesticCleanlinessCivicOrder": {
       "episode_count": 1,
       "show_count": 1,
@@ -143627,9 +143643,9 @@
       "url": "/wiki/concepts/humanimperfectioncreativevalue/"
     },
     "HumanInLoopAgentGovernance": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lhG2BOYB8BeGpX0hYQ_n6Qur47Ks [lhG2BOYB8BeGpX0hYQ_n6Qur47Ks].md",
@@ -143651,9 +143667,16 @@
           "show": "What's Next｜科技早知道",
           "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",
           "url": "/wiki/sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176",
+          "show": "Tomorrow, Today",
+          "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/humaninloopagentgovernance/"
     },
     "HumanInTheLoopCreditDecisioning": {
@@ -185617,9 +185640,9 @@
       "url": "/wiki/concepts/longformconversationemergence/"
     },
     "LongHorizonAgentReliability": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "039d9703-e999-454e-b6f4-f3d42ff195be [039d9703-e999-454e-b6f4-f3d42ff195be].md",
@@ -185627,9 +185650,16 @@
           "show": "What's Next｜科技早知道",
           "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",
           "url": "/wiki/sources/cong-mianfei-pisa-dao-dingcuo-jipiao-guigu-chuangyezhe-zhengzai-jiejue-agent-de-naxie-mafan-s10e33-039d9703-e999-454e-b6f4-f3d42ff195be/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176",
+          "show": "Tomorrow, Today",
+          "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/longhorizonagentreliability/"
     },
     "LongHorizonIPPortfolioBuilding": {
@@ -231570,6 +231600,22 @@
       ],
       "updated": "2026-10-07",
       "url": "/wiki/concepts/personalitytestidentityboundary/"
+    },
+    "PersonalizedAgentSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176",
+          "show": "Tomorrow, Today",
+          "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/personalizedagentsafety/"
     },
     "PersonalizedFilmIndustrialization": {
       "episode_count": 1,
@@ -293155,6 +293201,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/teslaoptimus/"
     },
+    "TestDrivenAgentGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176",
+          "show": "Tomorrow, Today",
+          "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/testdrivenagentgovernance/"
+    },
     "TestInterveneRetestLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -301951,6 +302013,22 @@
       ],
       "updated": "2026-10-26",
       "url": "/wiki/entities/trinaspear/"
+    },
+    "Trinitite": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
+          "key": "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176",
+          "show": "Tomorrow, Today",
+          "title": "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/trinitite/"
     },
     "TrinityNuclearTest": {
       "episode_count": 1,

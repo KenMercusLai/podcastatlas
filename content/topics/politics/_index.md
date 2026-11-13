@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3491
+topic_total_pages: 3495
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4432,6 +4432,9 @@ topic_concepts:
   - key: "TenantScreeningEvictionBackfire"
     title: "Tenant Screening Eviction Backfire"
     url: "/wiki/concepts/tenantscreeningevictionbackfire/"
+  - key: "TestDrivenAgentGovernance"
+    title: "Test-Driven Agent Governance"
+    url: "/wiki/concepts/testdrivenagentgovernance/"
   - key: "TexasElectoralRealignment"
     title: "Texas Electoral Realignment"
     url: "/wiki/concepts/texaselectoralrealignment/"
@@ -6251,6 +6254,9 @@ topic_entities:
   - key: "DrugEnforcementAdministration"
     title: "Drug Enforcement Administration"
     url: "/wiki/entities/drugenforcementadministration/"
+  - key: "DustinAllen"
+    title: "Dustin Allen"
+    url: "/wiki/entities/dustinallen/"
   - key: "EdKoch"
     title: "Ed Koch"
     url: "/wiki/entities/edkoch/"
@@ -8207,6 +8213,9 @@ topic_entities:
   - key: "TreatyOfParis1783"
     title: "Treaty of Paris (1783)"
     url: "/wiki/entities/treatyofparis1783/"
+  - key: "Trinitite"
+    title: "Trinitite"
+    url: "/wiki/entities/trinitite/"
   - key: "TrofimLysenko"
     title: "Trofim Lysenko / 李森科"
     url: "/wiki/entities/trofimlysenko/"
@@ -9843,6 +9852,9 @@ topic_sources:
   - key: "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4"
     title: "The Elon game: Musk's vision of the future"
     url: "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+  - key: "default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176"
+    title: "The Hidden Risks of Autonomous AI Agents | Dustin Allen x Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176-default-mp3-ywr3ahjkcgo-6d2e35db114ec311e40e28811db235eb-30651176/"
   - key: "the-leaked-tapes-that-show-how-the-rich-avoid-taxes"
     title: "The leaked tapes that show how the rich avoid taxes"
     url: "/wiki/sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes/"

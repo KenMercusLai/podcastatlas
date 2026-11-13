@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3820
+topic_total_pages: 3824
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3976,6 +3976,9 @@ topic_concepts:
   - key: "PersonalEnterpriseMemoryOwnership"
     title: "Personal-Enterprise Memory Ownership"
     url: "/wiki/concepts/personalenterprisememoryownership/"
+  - key: "PersonalizedAgentSafety"
+    title: "Personalized Agent Safety"
+    url: "/wiki/concepts/personalizedagentsafety/"
   - key: "PersonalizedLegalGuidance"
     title: "Personalized Legal Guidance"
     url: "/wiki/concepts/personalizedlegalguidance/"
@@ -4990,6 +4993,9 @@ topic_concepts:
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"
+  - key: "TestDrivenAgentGovernance"
+    title: "Test-Driven Agent Governance"
+    url: "/wiki/concepts/testdrivenagentgovernance/"
   - key: "TestTimeScaling"
     title: "Test-Time Scaling"
     url: "/wiki/concepts/testtimescaling/"
@@ -6326,6 +6332,9 @@ topic_entities:
   - key: "DuShaolei"
     title: "Du Shaolei"
     url: "/wiki/entities/dushaolei/"
+  - key: "DustinAllen"
+    title: "Dustin Allen"
+    url: "/wiki/entities/dustinallen/"
   - key: "DVD"
     title: "DVD"
     url: "/wiki/entities/dvd/"
@@ -8675,6 +8684,9 @@ topic_entities:
   - key: "Trigg"
     title: "Trigg"
     url: "/wiki/entities/trigg/"
+  - key: "Trinitite"
+    title: "Trinitite"
+    url: "/wiki/entities/trinitite/"
   - key: "Tristan"
     title: "Tristan"
     url: "/wiki/entities/tristan/"

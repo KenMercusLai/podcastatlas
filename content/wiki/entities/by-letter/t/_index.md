@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14059
+wiki_total_pages: 14061
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "TrinaSpear"
     title: "Trina Spear"
     url: "/wiki/entities/trinaspear/"
+  - key: "Trinitite"
+    title: "Trinitite"
+    url: "/wiki/entities/trinitite/"
   - key: "TrinityNuclearTest"
     title: "Trinity Nuclear Test"
     url: "/wiki/entities/trinitynucleartest/"

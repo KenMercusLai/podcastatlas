@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 11193
+wiki_total_pages: 11195
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "TerrorismPressureWrongfulConviction"
     title: "Terrorism Pressure and Wrongful Conviction"
     url: "/wiki/concepts/terrorismpressurewrongfulconviction/"
+  - key: "TestDrivenAgentGovernance"
+    title: "Test-Driven Agent Governance"
+    url: "/wiki/concepts/testdrivenagentgovernance/"
   - key: "TestInterveneRetestLoop"
     title: "Test-Intervene-Retest Loop"
     url: "/wiki/concepts/testinterveneretestloop/"

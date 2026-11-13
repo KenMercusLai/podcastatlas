@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14059
+wiki_total_pages: 14061
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1121,6 +1121,9 @@ wiki_pages:
   - key: "DurringtonWalls"
     title: "Durrington Walls"
     url: "/wiki/entities/durringtonwalls/"
+  - key: "DustinAllen"
+    title: "Dustin Allen"
+    url: "/wiki/entities/dustinallen/"
   - key: "DutchEastIndiaCompany"
     title: "Dutch East India Company"
     url: "/wiki/entities/dutcheastindiacompany/"
