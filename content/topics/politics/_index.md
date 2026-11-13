@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3497
+topic_total_pages: 3499
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1021,6 +1021,9 @@ topic_concepts:
   - key: "CorporateLandlordTradeoffs"
     title: "Corporate Landlord Tradeoffs"
     url: "/wiki/concepts/corporatelandlordtradeoffs/"
+  - key: "CorporatePoliticalRepositioning"
+    title: "Corporate Political Repositioning"
+    url: "/wiki/concepts/corporatepoliticalrepositioning/"
   - key: "CorporateSpeakingPoliticalApprenticeship"
     title: "Corporate Speaking as Political Apprenticeship"
     url: "/wiki/concepts/corporatespeakingpoliticalapprenticeship/"
@@ -5696,6 +5699,9 @@ topic_entities:
   - key: "Alberta"
     title: "Alberta"
     url: "/wiki/entities/alberta/"
+  - key: "AlexKarp"
+    title: "Alex Karp"
+    url: "/wiki/entities/alexkarp/"
   - key: "AlexanderHaig"
     title: "Alexander Haig"
     url: "/wiki/entities/alexanderhaig/"

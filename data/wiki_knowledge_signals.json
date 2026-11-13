@@ -3467,9 +3467,9 @@
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
     "AIFinancingReflexivity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lt6yTc8uTffpeS_crF7i-RmxFXzp [lt6yTc8uTffpeS_crF7i-RmxFXzp].md",
@@ -3477,9 +3477,16 @@
           "show": "起朱楼宴宾客",
           "title": "188.关于本轮下跌的三个想法和一些建议",
           "url": "/wiki/sources/lt6ytc8utffpes_crf7i-rmxfxzp-lt6ytc8utffpes_crf7i-rmxfxzp/"
+        },
+        {
+          "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
+          "key": "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Nvidia’s leadership shakeup could reshape the AI industry",
+          "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "url": "/wiki/concepts/aifinancingreflexivity/"
     },
     "AIFirmPowerAssetControl": {
@@ -13570,6 +13577,29 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/entities/alexhonnold/"
+    },
+    "AlexKarp": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
+          "key": "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Nvidia’s leadership shakeup could reshape the AI industry",
+          "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/alexkarp/"
     },
     "AlexKontorovich": {
       "episode_count": 1,
@@ -57543,6 +57573,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/colemanruiz/"
     },
+    "ColetteKress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
+          "key": "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Nvidia’s leadership shakeup could reshape the AI industry",
+          "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/entities/colettekress/"
+    },
     "ColinCampbellBritishArmy": {
       "episode_count": 1,
       "show_count": 1,
@@ -63296,9 +63342,9 @@
       "url": "/wiki/concepts/coretribepositioning/"
     },
     "CoreWeave": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -63348,9 +63394,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
           "url": "/wiki/sources/allin-e293-ch-allin-e293-ch/"
+        },
+        {
+          "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
+          "key": "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Nvidia’s leadership shakeup could reshape the AI industry",
+          "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-10-17",
+      "updated": "2026-11-13",
       "url": "/wiki/entities/coreweave/"
     },
     "CorgiAIInsurance": {
@@ -63513,6 +63566,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/corporatecomplicitywithauthoritarianism/"
+    },
+    "CorporatePoliticalRepositioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
+          "key": "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Nvidia’s leadership shakeup could reshape the AI industry",
+          "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-11-13",
+      "url": "/wiki/concepts/corporatepoliticalrepositioning/"
     },
     "CorporateSpeakingPoliticalApprenticeship": {
       "episode_count": 1,

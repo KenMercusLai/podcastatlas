@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nvidia’s leadership shakeup could reshape the AI industry](sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CoreWeave's demand-versus-financing tension, and Alex Karp's post-midterm political repositioning.
 - [516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮](sources/516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n.md) — 忽左忽右以马克·布洛赫连接两次世界大战、年鉴史学、法国抵抗运动及先贤祠国家记忆政治。
 - [《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权](sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj.md) — 芮淇讲透资治通鉴以217年濡须对峙、孙权名义服软、周泰公开立威、蒋钦越过私怨荐才及曹丕受立，讨论战术缓和与组织权威。
 - [《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？](sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch.md) — 芮淇讲透资治通鉴以曹昂之死、丁夫人拒绝复合、卞夫人的礼让及曹丕曹植竞争，连接不可逆损失、关系边界与继承可靠性。
@@ -5059,6 +5060,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Colette Kress](entities/ColetteKress.md) — Nvidia CFO and episode-reported interim CEO during the board's permanent-succession search.
 - [Marc Bloch / 马克·布洛赫](entities/MarcBloch.md) — French medieval historian, Annales co-founder, two-war veteran, Resistance member, and contested national commemorative figure.
 - [Panthéon (France) / 法国先贤祠](entities/FrenchPantheon.md) — National memorial institution where recognition, selective biography, and present political statecraft meet.
 - [濡须口之战（217年） / Ruxukou Campaign (217 CE)](entities/RuxukouCampaign217LateHan.md) — 曹操与孙权在濡须的后期对峙，以撤军、名义归附和短暂缓和收束。
@@ -14180,7 +14182,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AT&T](entities/ATT.md) — Telecom incumbent context explaining Bell Labs' early preference for faster, stabler BJT devices over MOS.
 - [Andrew Grove](entities/AndrewGrove.md) — Intel leader referenced through The Innovator's Dilemma and incumbent self-disruption in S10E16.
 - [Aaron (What's Next guest)](entities/AaronWhatsNext.md) — Source-scoped What's Next guest explaining AI capex, bubble risk, revenue visibility, circular infrastructure financing, and U.S.-China market-reaction asymmetry.
-- [CoreWeave](entities/CoreWeave.md) — GPU cloud and AI compute counterparty used in the episode's circular financing example with Nvidia and OpenAI.
+- [CoreWeave](entities/CoreWeave.md) — Specialized GPU cloud whose strong demand signals coexist with debt, construction, collateral, and refinancing exposure.
 - [The Residency](entities/TheResidency.md) — Hacker-house organization combining selected founder housing, meals, community, investor access, and batch equity pooling.
 - [Accelerate (Hacker House)](entities/AccelerateHackerHouse.md) — Rent-and-community hacker-house project using housing, playful events, a larger Hacker Hotel, and talent services rather than an equity-first model.
 - [Frontier Tower](entities/FrontierTower.md) — Market Street vertical-tech-village experiment clustering AI, crypto, robotics, longevity, and other startup communities in a large San Francisco building.
@@ -16794,7 +16796,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google AI Overviews](entities/GoogleAIOverviews.md) — Google's AI-generated search-summary product, now tied in the wiki to source attribution, publisher traffic loss, and regulatory pressure.
 - [Daily Mail](entities/DailyMail.md) — Publisher example used to show AI Overview click-through losses and the economic stakes of AI answer attribution.
 - [European Commission](entities/EuropeanCommission.md) — EU regulator investigating Google over possible competition issues around digital publisher content and AI search.
-- [Alex Karp](entities/AlexKarp.md) — Palantir leader whose Silicon Valley critique helps frame the company's Miami headquarters move as cultural and political signaling.
+- [Alex Karp](entities/AlexKarp.md) — Palantir leader whose location, oversight, immigration, and partisan rhetoric illustrate corporate political repositioning.
 - [Florida](entities/Florida.md) — State context for Palantir's Miami headquarters move and South Florida's perceived tax, regulatory, and political pull.
 - [Miami](entities/Miami.md) — City destination for Palantir's announced headquarters move and anchor for the South Florida tech migration branch.
 - [Tax Foundation](entities/TaxFoundation.md) — Tax-policy organization cited to complicate a simple tax-only explanation of Palantir's headquarters move.
@@ -19226,6 +19228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Corporate Political Repositioning](concepts/CorporatePoliticalRepositioning.md) — Change in an executive's emphasized political identity or limits that must be tested against contracts, donations, policy, and sustained conduct.
 - [Annales School / 年鉴学派](concepts/AnnalesSchool.md) — Historiographical tradition of problem-led inquiry, varied evidence, ordinary and collective life, and long-term social structures.
 - [State Commemoration and National Memory / 国家纪念与国族记忆](concepts/StateCommemorationAndNationalMemory.md) — Process through which public honor selects biographies and virtues to make present claims about the nation.
 - [Modern Wuxia Heroism / 现代武侠英雄观](concepts/ModernWuxiaHeroism.md) — 以巨大风险中的具体选择、可信个人动机和不失人性界定当代侠义，而非预设身份或牺牲口号。
@@ -19307,7 +19310,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [礼仪互惠与私人空间 / Reciprocal Etiquette and Private Space](concepts/ReciprocalEtiquettePrivateSpace.md) — Contextual judgment principle requiring notice, privacy, and the observer's own conduct to be assessed before blame.
 - [自我认可式关系边界 / Self-Validated Relationship Boundaries](concepts/SelfValidatedRelationshipBoundaries.md) — Qualified relationship frame that protects agency from approval dependence without treating hardship, care, or interdependence as exploitation.
 - [Destination-Experience Marketplace Economics](concepts/DestinationExperienceMarketplaceEconomics.md) — How fragmented local supply, inspiration-led demand, price comparison, offline fulfillment, support, and regional exposure shape experience-platform unit economics.
-- [AI Financing Reflexivity](concepts/AIFinancingReflexivity.md) — Feedback loop linking market repricing and marginal funding costs to AI project execution, counterparties, and demand.
+- [AI Financing Reflexivity](concepts/AIFinancingReflexivity.md) — Feedback loop linking market repricing and funding costs to project execution while separating strong demand from cash-timing risk.
 - [Cross-Market AI Exposure Concentration](concepts/CrossMarketAIExposureConcentration.md) — Hidden portfolio dependence when holdings in different markets rely on the same AI capital-expenditure cycle.
 - [上古五刑 / Ancient Five Punishments](concepts/AncientFivePunishments.md) — 将墨、劓、刖、宫、大辟区分为社会标记、毁容、残疾、生殖伤害与死刑，同时保留制度沿革和具体机制的史料边界。
 - [历史学习的实践定位 / History as Practical Orientation](concepts/HistoryAsPracticalOrientation.md) — 把历史学习综合为时空定位、人性比较、信息辨析、文明与法治理解及逆境韧性，同时限制机械类比和创伤浪漫化。

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3825
+topic_total_pages: 3827
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6095,6 +6095,9 @@ topic_entities:
   - key: "CoherentSpark"
     title: "Coherent Spark"
     url: "/wiki/entities/coherentspark/"
+  - key: "ColetteKress"
+    title: "Colette Kress"
+    url: "/wiki/entities/colettekress/"
   - key: "ComputingResearchAssociation"
     title: "Computing Research Association"
     url: "/wiki/entities/computingresearchassociation/"
@@ -10713,6 +10716,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345"
     title: "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+  - key: "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128"
+    title: "Nvidia’s leadership shakeup could reshape the AI industry"
+    url: "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
   - key: "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128"
     title: "NYC public schools ban AI through middle school"
     url: "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"

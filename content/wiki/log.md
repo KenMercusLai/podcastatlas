@@ -39408,3 +39408,13 @@ No settled contradiction was adopted. The generational coherence of the Annales 
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | Nvidia’s leadership shakeup could reshape the AI industry
+
+Added source `tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128`; created [[ColetteKress|Colette Kress]] and [[CorporatePoliticalRepositioning]]; migrated and resynthesized [[AlexKarp|Alex Karp]] from his complete preserved evidence inventory; and resynthesized [[CoreWeave]] and [[AIFinancingReflexivity]] from each page's complete preserved source inventory before appending the new source once. Core synthesis: Nvidia's episode-reported interim transition raises continuity and ecosystem questions without establishing a permanent successor; CoreWeave's reported revenue beat and higher guidance strengthen near-term demand while leaving upfront construction, asset-backed borrowing, collateral, and rate risk unresolved; and Karp's post-midterm progressive emphasis is evidence of rhetorical repositioning, not proof of motive, operational reversal, or an industry-wide pivot.
+
+No settled contradiction was adopted. Huang's resignation, Kress's appointment, China exposure, successor candidates, investigation allegations, CoreWeave financial and loan details, Karp's donation claim, and political motives remain episode-attributed because the supplied file is a structured summary rather than company filings, board records, audited financials, investigation findings, donation records, or contract documents. Broad [[Nvidia]], [[JensenHuang|Jensen Huang]], [[Palantir]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,936 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -14352,6 +14352,11 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AlexMaiassi": [
@@ -26554,6 +26559,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ColetteKress": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ColinKaepernick": [
     {
       "key": "politics",
@@ -28297,6 +28314,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CorporatePoliticalRepositioning": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CorporateSpeakingPoliticalApprenticeship": [
@@ -113110,6 +113134,13 @@
     }
   ],
   "tech-20261112-mp-tech-pod-128-tech-20261112-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",
