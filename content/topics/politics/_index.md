@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3496
+topic_total_pages: 3497
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4228,6 +4228,9 @@ topic_concepts:
   - key: "StateAIRegulationPatchwork"
     title: "State AI Regulation Patchwork"
     url: "/wiki/concepts/stateairegulationpatchwork/"
+  - key: "StateCommemorationAndNationalMemory"
+    title: "State Commemoration and National Memory / 国家纪念与国族记忆"
+    url: "/wiki/concepts/statecommemorationandnationalmemory/"
   - key: "StateCredibilityAgainstMilitia"
     title: "State Credibility Against Militia"
     url: "/wiki/concepts/statecredibilityagainstmilitia/"

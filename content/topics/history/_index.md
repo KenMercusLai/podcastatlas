@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2784
+topic_total_pages: 2786
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -61,6 +61,9 @@ topic_concepts:
   - key: "AngloUkrainianRelations"
     title: "Anglo-Ukrainian Relations"
     url: "/wiki/concepts/angloukrainianrelations/"
+  - key: "AnnalesSchool"
+    title: "Annales School / 年鉴学派"
+    url: "/wiki/concepts/annalesschool/"
   - key: "ArchaeologicalInterpretationUnderSparseEvidence"
     title: "Archaeological Interpretation Under Sparse Evidence"
     url: "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
@@ -6582,6 +6585,9 @@ topic_sources:
   - key: "515-nelson-attack-the-french-part-2-glt9020085184"
     title: "515. Nelson: Attack the French! (Part 2)"
     url: "/wiki/sources/515-nelson-attack-the-french-part-2-glt9020085184/"
+  - key: "516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n"
+    title: "516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮"
+    url: "/wiki/sources/516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n/"
   - key: "516-nelson-god-of-war-part-3-glt1686018300"
     title: "516. Nelson: God of War (Part 3)"
     url: "/wiki/sources/516-nelson-god-of-war-part-3-glt1686018300/"

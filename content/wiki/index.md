@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮](sources/516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n.md) — 忽左忽右以马克·布洛赫连接两次世界大战、年鉴史学、法国抵抗运动及先贤祠国家记忆政治。
 - [《资治通鉴·汉纪》1157丨短暂的孙曹联盟：摇摆的孙权](sources/zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj.md) — 芮淇讲透资治通鉴以217年濡须对峙、孙权名义服软、周泰公开立威、蒋钦越过私怨荐才及曹丕受立，讨论战术缓和与组织权威。
 - [《资治通鉴·汉纪》1158丨谁是让曹操愧疚一生的女人？](sources/zizhi-tongjian-hanji-1158-shui-shi-rang-caocao-kuijiu-yisheng-de-nvren-lqokptbwh95sxivohr4la7ims1ch.md) — 芮淇讲透资治通鉴以曹昂之死、丁夫人拒绝复合、卞夫人的礼让及曹丕曹植竞争，连接不可逆损失、关系边界与继承可靠性。
 - [156. 《侠》｜对影之刃零制作人梁其伟6小时访谈](sources/156-xia-dui-ying-zhi-ren-ling-zhizuoren-liangqiwei-6-xiaoshi-fangtan-lvnhry4glcc3ut-6nmjn7qrmd-dan.md) — 梁其伟以现代侠义、作者型游戏、灵游坊创业与《影之刃零》讨论创作、资本、文化寻根和AI边界。
@@ -5058,6 +5059,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Marc Bloch / 马克·布洛赫](entities/MarcBloch.md) — French medieval historian, Annales co-founder, two-war veteran, Resistance member, and contested national commemorative figure.
+- [Panthéon (France) / 法国先贤祠](entities/FrenchPantheon.md) — National memorial institution where recognition, selective biography, and present political statecraft meet.
 - [濡须口之战（217年） / Ruxukou Campaign (217 CE)](entities/RuxukouCampaign217LateHan.md) — 曹操与孙权在濡须的后期对峙，以撤军、名义归附和短暂缓和收束。
 - [蒋钦 / Jiang Qin (Eastern Wu)](entities/JiangQinEasternWu.md) — 东吴将领，以越过旧怨举荐徐盛体现公事判断与私人情绪的分离。
 - [徐盛 / Xu Sheng (Eastern Wu)](entities/XuShengEasternWu.md) — 东吴将领，在周泰任命与蒋钦荐才两条组织关系中呈现其能力与难驯性。
@@ -19223,6 +19226,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Annales School / 年鉴学派](concepts/AnnalesSchool.md) — Historiographical tradition of problem-led inquiry, varied evidence, ordinary and collective life, and long-term social structures.
+- [State Commemoration and National Memory / 国家纪念与国族记忆](concepts/StateCommemorationAndNationalMemory.md) — Process through which public honor selects biographies and virtues to make present claims about the nation.
 - [Modern Wuxia Heroism / 现代武侠英雄观](concepts/ModernWuxiaHeroism.md) — 以巨大风险中的具体选择、可信个人动机和不失人性界定当代侠义，而非预设身份或牺牲口号。
 - [Author-Led Game Production / 作者型游戏制作](concepts/AuthorLedGameProduction.md) — 让创作者经历、审美与判断在大型团队作品中保持可辨认责任，同时以管理能力支持交付。
 - [Conservative Operations, Aggressive Product / 保守经营、激进产品](concepts/ConservativeOperationsAggressiveProduct.md) — 控制公司生存风险并把艺术与技术冒险集中于产品的风险配置策略。

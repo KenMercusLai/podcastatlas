@@ -6350,6 +6350,13 @@
       "url": "/topics/history/"
     }
   ],
+  "516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "516-nelson-god-of-war-part-3-glt1686018300": [
     {
       "key": "history",
@@ -16055,6 +16062,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AnnalesSchool": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AnneBoden": [
@@ -87257,6 +87271,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "StateCommemorationAndNationalMemory": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StateCommercialMonopolyExtraction": [

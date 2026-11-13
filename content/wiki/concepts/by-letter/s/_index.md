@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11200
+wiki_total_pages: 11202
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2057,6 +2057,9 @@ wiki_pages:
   - key: "StateCollapseCascade"
     title: "State Collapse Cascade"
     url: "/wiki/concepts/statecollapsecascade/"
+  - key: "StateCommemorationAndNationalMemory"
+    title: "State Commemoration and National Memory / 国家纪念与国族记忆"
+    url: "/wiki/concepts/statecommemorationandnationalmemory/"
   - key: "StateCredibilityAgainstMilitia"
     title: "State Credibility Against Militia"
     url: "/wiki/concepts/statecredibilityagainstmilitia/"

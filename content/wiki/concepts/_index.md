@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11200
+wiki_total_pages: 11202
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2390,6 +2390,9 @@ wiki_pages:
   - key: "AnkylosingSpondylitis"
     title: "Ankylosing Spondylitis / 强直性脊柱炎"
     url: "/wiki/concepts/ankylosingspondylitis/"
+  - key: "AnnalesSchool"
+    title: "Annales School / 年鉴学派"
+    url: "/wiki/concepts/annalesschool/"
   - key: "AnnualFitnessPeriodization"
     title: "Annual Fitness Periodization"
     url: "/wiki/concepts/annualfitnessperiodization/"

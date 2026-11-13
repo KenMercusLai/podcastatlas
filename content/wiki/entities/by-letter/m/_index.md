@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14072
+wiki_total_pages: 14074
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "MarcBerman"
     title: "Marc Berman"
     url: "/wiki/entities/marcberman/"
+  - key: "MarcBloch"
+    title: "Marc Bloch / 马克·布洛赫"
+    url: "/wiki/entities/marcbloch/"
   - key: "MarcBrackett"
     title: "Marc Brackett"
     url: "/wiki/entities/marcbrackett/"

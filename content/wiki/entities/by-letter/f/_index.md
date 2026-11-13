@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 14072
+wiki_total_pages: 14074
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "FyreFestival"
     title: "Fyre Festival"
     url: "/wiki/entities/fyrefestival/"
+  - key: "FrenchPantheon"
+    title: "Panthéon (France) / 法国先贤祠"
+    url: "/wiki/entities/frenchpantheon/"
   - key: "Falstaff"
     title: "Sir John Falstaff"
     url: "/wiki/entities/falstaff/"

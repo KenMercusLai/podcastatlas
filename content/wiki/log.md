@@ -39398,3 +39398,13 @@ No settled contradiction was adopted. The 217 CE confrontation remains distinct 
 ## [2026-11-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-13] ingest | 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
+
+Added source `516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n`; created [[MarcBloch|马克·布洛赫]], [[FrenchPantheon|法国先贤祠]], [[AnnalesSchool|年鉴学派]], and [[StateCommemorationAndNationalMemory|国家纪念与国族记忆]]; and resynthesized [[ProblemLedInterdisciplinarity|真问题驱动的跨学科]] and [[OrdinaryPeopleHistoricalVisibility|普通人历史可见性]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: Bloch's scholarly method, wartime experience, and Resistance activity form a continuous civic-historical practice; Annales expands historical questions and evidence without becoming a single fixed doctrine; and state commemoration can combine deserved recognition, national integration, identity repair, and present political appropriation.
+
+No settled contradiction was adopted. The generational coherence of the Annales school, Bloch's causal diagnosis in *Strange Defeat*, presidential motives, public reception, and the episode's late claims about French education, energy, welfare, and youth protest remain contested or source-scoped. Broad [[HuzuoHuyou|忽左忽右]], [[HistoricalMemoryContest]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,935 sources across 806 overview paragraphs and nine topics.
+
+## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
