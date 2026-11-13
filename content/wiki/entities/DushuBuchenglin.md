@@ -19,7 +19,8 @@ sources:
   - 370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd
   - 374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck
   - 375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr
-last_updated: 2026-11-05
+  - 377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz
+last_updated: 2026-11-13
 ---
 
 # 独树不成林 / Dushu Buchenglin
@@ -50,6 +51,8 @@ The fitness episode returns to Plato but shifts from algorithmic perception to e
 
 The midterm episode brings the show's political-history method to an immediate election. It separates ordinary presidential-party punishment from durable realignment, then connects lived costs, war, candidate selection, institutional power, and succession. Its distinctive contribution is to treat MAGA as both a successful new Republican establishment and a movement whose personal dependence on Trump may limit general-election translation and post-Trump continuity.
 
+The Huang episode extends that immediate political analysis into technology governance. It distinguishes accelerationists, China-focused security hawks, and anti-oligarchic populists, showing how agreement against one executive can conceal incompatible positions on chip exports, state regulation, infrastructure, labor, and local resource costs. The episode-reported resignation is treated as a trigger for the analysis rather than independent proof of the personal, corporate, or national-security allegations surrounding it.
+
 ## Key Characteristics
 
 - Political-philosophy reading context that uses thinkers, texts, and tragic characters rather than operating as a purely literary, news, or advice show in the current wiki record.
@@ -73,17 +76,17 @@ The midterm episode brings the show's political-history method to an immediate e
 - Greek tragedy and technology: [[370-jishu-geile-renlei-mangmu-de-xiwang-ma-beifude-puluomixiusi-lveku27utltloytqi8ycq-nvurhd]] uses Prometheus, Hephaestus, and Io to distinguish knowledge, control, hope, purpose, and disclosure.
 - Fitness and education: [[374-bailatu-ruhe-piping-yange-yinshi-gaoqiangdu-xunlian-de-daji-jianshenkuang-loqnzh9ozux8n5pvid5e3pyjf1ck]] uses Plato to distinguish strength from courage, useful measurement from metric rule, and disciplined practice from a brittle whole-life regime.
 - Elections and movement succession: [[375-zhongqi-xuanju-canbai-hou-gonghedang-hequ-hecong-lgz0q02naefuostkur2-w84ksjnr]] distinguishes cyclical backlash from realignment and intraparty authority from general-election and post-leader portability.
+- Technology and coalition conflict: [[377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz]] maps acceleration, China-security, populist, federalism, and local-infrastructure disputes without treating the reported Huang resignation as proof of the underlying allegations.
 
 ## Qualifications
 
-The profile remains limited to fifteen ingested source notes and does not establish the show’s full host roster, history, catalog, or methodological consistency. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and cross-platform reception claims, Paglia-derived psychoanalytic claims, linguistic and etymological claims, translation-industry figures, dictionary-history details, Gulf economic figures, youth mental-health mechanisms, Greek textual claims, fitness-culture observations, and long-run cultural or political comparisons should not be generalized as settled empirical findings. The platform episode explicitly discusses visible participants rather than representative users and does not isolate design, recommendation, moderation, audience, or timing. The dictionary episode is especially stronger on American than Chinese lexicographical history, the Saudi episode is an interpretive political argument rather than an independent policy audit, the youth-policy episode gives less attention to privacy, evasion, speech access, and age-verification tradeoffs than later sources, and the Prometheus and fitness episodes are philosophical interpretations rather than full philological, clinical, or empirical studies. The midterm episode is an immediate structured summary rather than official election data or a later test of realignment and succession.
+The profile remains limited to sixteen ingested source notes and does not establish the show’s full host roster, history, catalog, or methodological consistency. The phrase variant “读书不成林/独树不成林” remains source-scoped. Anecdotal communication and cross-platform reception claims, Paglia-derived psychoanalytic claims, linguistic and etymological claims, translation-industry figures, dictionary-history details, Gulf economic figures, youth mental-health mechanisms, Greek textual claims, fitness-culture observations, and long-run cultural or political comparisons should not be generalized as settled empirical findings. The platform episode explicitly discusses visible participants rather than representative users and does not isolate design, recommendation, moderation, audience, or timing. The dictionary episode is especially stronger on American than Chinese lexicographical history, the Saudi episode is an interpretive political argument rather than an independent policy audit, the youth-policy episode gives less attention to privacy, evasion, speech access, and age-verification tradeoffs than later sources, and the Prometheus and fitness episodes are philosophical interpretations rather than full philological, clinical, or empirical studies. The midterm and Huang episodes are immediate structured summaries rather than official election data, company filings, legislative records, polling microdata, or later tests of factional durability.
 
 ## What Changed
 
-- Added immediate U.S. election interpretation to the show's political-philosophy range.
-- Distinguished ordinary midterm backlash from durable realignment.
-- Distinguished Trump's primary authority from general-election translation.
-- Added movement institutionalization and post-founder succession as linked tests.
+- Added technology-policy coalition analysis to the show's immediate U.S. politics branch.
+- Distinguished temporary anti-Huang alignment from agreement on export, regulation, labor, or infrastructure policy.
+- Extended post-Trump succession from electoral portability into conflict among accelerationist, security, and populist factions.
 
 ## Relationships
 
@@ -122,3 +125,4 @@ The profile remains limited to fifteen ingested source notes and does not establ
 - [[MidtermBacklashForecasting]] - distinction among cycle, magnitude, and structural change.
 - [[TrumpEndorsementGeneralElectionGap]] - separation of primary control from wider electoral reach.
 - [[TrumpismInstitutionalization]] - movement transition from insurgency to governing establishment and succession problem.
+- [[MAGACoalitionFracture]] - technology-policy fault line among acceleration, national security, and populist control.

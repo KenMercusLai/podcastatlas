@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？](sources/377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz.md) — 独树不成林以黄仁勋被报道辞任为切口，区分科技加速派、对华安全鹰派与反科技寡头民粹派在芯片出口、州级监管、劳动与数据中心上的分歧。
 - [49 毒药与投毒史：从武大郎到希特勒](sources/lt2iw1rmcopr5abcgvrfe5f-abs1-lt2iw1rmcopr5abcgvrfe5f-abs1.md) — 怪东西横跨东西方历史，讨论毒药作为药物、体面死亡、宫廷与情报暗杀工具，并以银针、马尔科夫案和《水浒传》强调史实、传说与毒理证据的边界。
 - [Are We Missing A Billion Untapped Talents | Jonathan Brill x Shekhar Natarajan](sources/default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292-default-mp3-ywr3ahjkcgo-e980a9344dcecfb5644e60c69d75fefc-125069292.md) — Tomorrow Today interview on physical-constraint forecasting, whole-system innovation viability, shock-ready resilience, distributed AI decision-making, and retained human accountability.
 - [Enterprise Sales Without Salespeople: How a SaaS Hit $10M](sources/b765334b.md) — The SaaS Podcast interview with Rajiv Kanhaja on AdButler's teenage origin, paid-software pivot, product-depth-first enterprise motion, relationship pricing, modular delivery, and agent-generated customer software thesis.
@@ -18296,7 +18297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [J.P. Morgan](entities/JPMorgan.md) — Financier linking reported 1907 market stabilization to the financial backing of Titanic.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced through market communication and later made Planet Money's central case for Fed independence under presidential pressure.
-- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
+- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder and AI-platform strategist whose latest source-reported resignation turns founder dependence into governance, succession, and export-policy credibility risk.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jesse Livermore](entities/JesseLivermore.md) — Speculator and trend-following figure used to explain trading discipline, repeated bankruptcy, and market psychology.
@@ -27225,7 +27226,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Snake Female Power Motif](concepts/SnakeFemalePowerMotif.md) — Episode 128 gendered folklore frame for snake women as creators, healers, wives, beauties, witches, monsters, and uncontrolled power.
 - [U.S. Constitutional Crisis Risk](concepts/USConstitutionalCrisisRisk.md) — sp.05 frame for chronic U.S. institutional disorder under presidentialism, hard amendment rules, polarization, and uncertain post-Trump movement politics.
 - [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
-- [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.
+- [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — Coalition fault lines spanning skilled immigration, foreign-policy restraint, AI acceleration, China security, labor, federalism, and technology concentration.
 - [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — Account of how welfare, race, immigration, refugee deservingness, MAGA, BLM, media, and party identities sort political judgment.
 - [American Exceptionalism](concepts/AmericanExceptionalism.md) — Belief in distinctive American purpose expressed through mission, expansion, anti-imperial identity, moral centrality, and demands for rule exceptions.
 - [South African White Migrant Labor](concepts/SouthAfricanWhiteMigrantLabor.md) — Field-reporting concept for white South Africans working as seasonal, employer-dependent farm laborers in Mississippi.
@@ -30474,7 +30475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Growth Systemization / 增长系统化](concepts/GrowthSystemization.md) — 将触达、定价、转化、投放和测量改造成可迭代的增长系统，同时保留产品价值的长期边界。
 - [Internal Startup Accelerator / 企业内部加速器](concepts/InternalStartupAccelerator.md) — 远程公司围绕一个明确问题临时集中团队、提供生活支持并采用固定复盘节奏的项目模式。
 - [Professional-User Feedback Flywheel / 专业用户反馈飞轮](concepts/ProfessionalUserFeedbackFlywheel.md) — 专业工具通过授权编辑轨迹和专家偏好形成后训练信号的潜在模型改进循环。
-- [Executive Conduct Governance Risk](concepts/ExecutiveConductGovernanceRisk.md) — 当高管私人关系与客户、信息、披露或合规控制相交时形成的董事会监督风险。
+- [Executive Conduct Governance Risk](concepts/ExecutiveConductGovernanceRisk.md) — 高管私人行为与客户、信息、披露或合规控制相交时形成的董事会风险，并可在离任后转化为继任与连续性风险。
 - [AI Firm Power Asset Control](concepts/AIFirmPowerAssetControl.md) — AI公司为缩短供电和设备排期而直接控制发电设备或交付权，同时内化能源资产风险。
 - [Cross-Industry Pet Category Expansion / 跨行业宠物品类扩张](concepts/CrossIndustryPetCategoryExpansion.md) — 服饰、个护、家电等品牌把既有供应链和研发能力迁移到宠物用品的邻接扩张。
 - [Content Portfolio as Hardware-Cost Hedge](concepts/ContentPortfolioHardwareHedge.md) — 电影、游戏、音乐和授权组合对冲主机销量、零部件成本与硬件周期波动的有限机制。

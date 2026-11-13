@@ -3,11 +3,11 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-11-07
-as_of_overview_commit: 12561726d51a82fe50c35a48283242c4f0088095
+last_updated: 2026-11-13
+as_of_overview_commit: 0ef414148d69ee4542b5bb47fbd4b7e72598f53f
 summary: "Across domains, durable value joins capability to evidence, implementation, accountability, context, and human judgment."
-episode_count: 4918
-source_count: 4918
+episode_count: 4929
+source_count: 4929
 paragraph_count: 806
 topic_count: 9
 ---

@@ -17,16 +17,17 @@ sources:
   - zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1
   - all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255
   - all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520
-last_updated: 2026-10-05
+  - 377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz
+last_updated: 2026-11-13
 ---
 
 # Jensen Huang
 
 ## Overview
-Jensen Huang is the founder and chief executive associated across the sources with [[Nvidia]]'s transition from GPU supplier to an integrated AI-infrastructure company. He appears as a public strategist on compute, agents, physical AI, open models, export policy, and work, and as an internal operating influence on research priorities, ecosystem building, and repeated self-disruption.
+Jensen Huang is the founder associated across the sources with [[Nvidia]]'s transition from GPU supplier to an integrated AI-infrastructure company. He appears as a public strategist on compute, agents, physical AI, open models, export policy, and work, and as an internal operating influence on research priorities, ecosystem building, and repeated self-disruption. The latest episode reports that Nvidia announced his immediate resignation as chief executive, president, and director on November 12, 2026; that status remains episode-attributed pending primary company documentation.
 
 ## Current Profile
-Huang's consistent strategy is to pursue technically difficult platform problems whose value compounds across hardware, software, developers, and infrastructure. The latest All-In interview makes the system thesis explicit: AI factories join GPUs, CPUs, networking, storage processing, simulation, edge computers, and software, while agentic workloads increase heterogeneity and token demand. His public case is expansive and optimistic, but many growth ratios, market sizes, revenue forecasts, and timelines are executive assertions whose realization depends on customers, energy, supply chains, regulation, safety, and competing architectures.
+Huang's consistent operating strategy was to pursue technically difficult platform problems whose value compounds across hardware, software, developers, and infrastructure. The All-In interview makes the system thesis explicit: AI factories join GPUs, CPUs, networking, storage processing, simulation, edge computers, and software, while agentic workloads increase heterogeneity and token demand. The latest source changes the leadership profile rather than this strategic record: it says personal-conduct and alleged national-security scrutiny culminated in resignation and made Nvidia's founder dependence, succession readiness, and policy credibility material at the same time. Its allegations do not establish espionage, information transfer, or an export violation.
 
 ## Key Characteristics
 - Frames Nvidia's opportunity at the system and ecosystem level rather than as isolated chip performance.
@@ -34,7 +35,7 @@ Huang's consistent strategy is to pursue technically difficult platform problems
 - Treats agentic AI, physical AI, digital biology, autonomous vehicles, and healthcare as extensions of accelerated computing.
 - Advocates coexistence between hosted frontier products and open models, with industry control and American-stack diffusion as strategic goals.
 - Presents AI adoption as a productivity imperative while acknowledging that powerful agents require security, permissions, and governance.
-- Operates as a commercially interested narrator whose demand, valuation, and timing claims require external qualification.
+- Became a key-person governance and succession exposure because company strategy, market confidence, and export-policy advocacy were unusually concentrated around him.
 
 ## Evidence
 ### Platform strategy and organizational method
@@ -57,18 +58,22 @@ Huang's consistent strategy is to pursue technically difficult platform problems
 - [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] treats his stock sales as one sentiment input rather than proof of a market top.
 - [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] uses Huang only as a satirical symbol of compute scarcity and Nvidia leverage.
 
+### Governance, succession, and political credibility
+- [[377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz]] reports Huang's immediate resignation from his executive and board roles and treats the event as a trigger exposing conflicts among technology accelerationists, China hawks, and populist AI critics.
+- [[377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz]] connects the reported resignation to [[ExecutiveConductGovernanceRisk]], founder dependence, and reduced credibility in [[AIExportControls|export-policy]] advocacy, while explicitly lacking primary investigation findings.
+
 ## Qualifications
 - Huang's position benefits from Nvidia selling the infrastructure required by the futures he forecasts.
 - The latest interview's 100-fold compute transitions, large market estimates, token-spending expectations, robotics timeline, and revenue forecasts are directional, source-scoped claims rather than audited results.
 - Open diffusion and controlled exports remain in tension with security, domestic substitution, geopolitical exposure, and Taiwan-centered supply-chain risk.
 - Optimism about jobs and adoption does not remove displacement, permission, safety, clinical, or concentration risks documented elsewhere in the wiki.
+- The latest source is a same-day political analysis, not a company filing, board report, or law-enforcement finding; resignation, allegations, and proven misconduct remain separate evidentiary states.
 - Allegorical and investor-commentary sources describe public perception, not independent evidence of Huang's operating decisions.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 entity schema.
-- Added Huang's direct AI-factory, heterogeneous-agent-workload, token-economics, and three-computer framing.
-- Added his explicit open-and-proprietary coexistence position and his security boundary for tool-using agents.
-- Qualified the new market, compute, robotics, and employment forecasts as commercially interested executive claims.
+- Added the episode-reported November 12 resignation from Nvidia's chief-executive, president, and board roles.
+- Reframed founder concentration as simultaneous governance, succession, and policy-credibility exposure.
+- Preserved resignation, allegations, and proven national-security or compliance violations as separate evidentiary states.
 
 ## Relationships
 - [[Nvidia]] - company through which Huang executes the integrated AI-platform strategy.
@@ -78,3 +83,4 @@ Huang's consistent strategy is to pursue technically difficult platform problems
 - [[PhysicalAI]] - robotics, vehicle, simulation, and edge-compute domain in his expansion thesis.
 - [[OpenSourceAIModels]] - industry-control and ecosystem layer he argues should coexist with hosted products.
 - [[AIExportControls]] - policy arena where he favors controlled diffusion over total exclusion.
+- [[ExecutiveConductGovernanceRisk]] - governance framework for the scrutiny and reported resignation that changed his current profile.
