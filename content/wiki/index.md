@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E258 这个东西，我真的好想要！｜小酒馆故事会🍻](sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn.md) — 知行小酒馆以六件想买之物讨论消费自我许可、延迟满足、家庭记忆、身份转折与有限时间，并以书写、替代和小实验澄清真实需要。
 - [Invidious position: finding Jensen Huang’s successor](sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5.md) — Economist Podcasts on Nvidia’s founder succession, Russia’s hybrid influence infrastructure in Africa, and Jack Prager’s integrated humanitarian work through Calcutta Rescue.
 - [Nvidia’s leadership shakeup could reshape the AI industry](sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128.md) — Marketplace Tech on Nvidia succession, CoreWeave's demand-versus-financing tension, and Alex Karp's post-midterm political repositioning.
 - [516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮](sources/516-cong-make-buluohe-ru-si-xianxianci-kan-nianjian-xuepai-yu-dangdai-faguo-shehui-wenhua-sichao-lhu6nyredc2pu2nxvqmrhxw1r6n.md) — 忽左忽右以马克·布洛赫连接两次世界大战、年鉴史学、法国抵抗运动及先贤祠国家记忆政治。
@@ -19232,6 +19233,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Delayed-Gratification Rebalancing / 延迟满足再平衡](concepts/DelayedGratificationRebalancing.md) — 在未来安全与当下生活之间重估推迟满足，并用小实验、替代方案和有限时间检验持续等待是否仍有价值。
 - [Hybrid Influence Infrastructure](concepts/HybridInfluenceInfrastructure.md) — Multi-channel influence system joining cultural venues, education, media, religion, and synthetic identities while keeping reach distinct from effect.
 - [Integrated Low-Resource Humanitarian Service](concepts/IntegratedLowResourceHumanitarianService.md) — Service model connecting clinical care with food, education, and civil documentation under severe resource constraints.
 - [Corporate Political Repositioning](concepts/CorporatePoliticalRepositioning.md) — Change in an executive's emphasized political identity or limits that must be tested against contracts, donations, policy, and sustained conduct.
@@ -19529,7 +19531,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long-Horizon Product Incubation](concepts/LongHorizonProductIncubation.md) — Retaining a weak early product while category habits or portfolio value mature, subject to evidence and survivorship-bias limits.
 - [Brand Narrative Evolution](concepts/BrandNarrativeEvolution.md) — Widening brand meaning from a concrete product difference toward a durable idea, place, or value system.
 - [Cash-Flow-Backed Founder Control](concepts/CashFlowBackedFounderControl.md) — Governance autonomy sustained by internal cash generation that reduces dependence on dilutive outside capital.
-- [Reflective Desire Autonomy / 反思欲望的自主性](concepts/ReflectiveDesireAutonomy.md) — Freedom to examine, rank, revise, or refuse desires and redirect life, rather than merely receiving or satisfying more options.
+- [Reflective Desire Autonomy / 反思欲望的自主性](concepts/ReflectiveDesireAutonomy.md) — Freedom to examine, rank, satisfy, substitute, revise, or refuse desires rather than defaulting to either gratification or suppression.
 - [Technology Dependency–Agency Tradeoff / 技术依赖与能动性权衡](concepts/TechnologyDependencyAgencyTradeoff.md) — Pattern where a system enlarges present capability while making future choice, inquiry, continuity, or exit more dependent on it.
 - [Simulation–Understanding Boundary / 模拟与理解边界](concepts/SimulationUnderstandingBoundary.md) — Distinction between convincing representation and restored identity, causal explanation, or historically grounded understanding.
 - [Organized Institutional Science / 组织化科学](concepts/OrganizedInstitutionalScience.md) — Cumulative research through specialized roles, shared facilities, durable records, funding, and coordinated agendas.
@@ -19762,7 +19764,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Indian Film Lineage Access Boundary](concepts/IndianFilmLineageAccessBoundary.md) — Distinction between inherited entertainment access, unequal second chances, and the performance needed for a durable career.
 - [Narrative Indispensability Role Selection](concepts/NarrativeIndispensabilityRoleSelection.md) — Acting-role criterion based on whether removing a character would materially change the story.
 - [Emotional Consumption Scalability / 情绪消费规模化](concepts/EmotionalConsumptionScalability.md) — 解释个性化、信任与社群如何提高情绪价值，却也限制标准化、跨地域复制和资本规模。
-- [Experience-Memory Premium / 体验记忆溢价](concepts/ExperienceMemoryPremium.md) — 由稀缺时刻、便利、参与和私人记忆构成、超出直接物质成本的体验溢价。
+- [Experience-Memory Premium / 体验记忆溢价](concepts/ExperienceMemoryPremium.md) — 由稀缺时刻、便利、参与、自我记录和私人记忆构成、超出直接物质成本的体验溢价。
 - [Digital Creator Education](concepts/DigitalCreatorEducation.md) — Formal training that combines repeated publishing, platform craft, analytics, collaboration, career preparation, and creative judgment.
 - [Competitive Wine Blind Tasting / 竞技葡萄酒盲品](concepts/CompetitiveWineBlindTasting.md) — 在控制标签与场外线索后，以感官证据、类别知识、赛事策略和团队判断推断葡萄酒身份的计分实践。
 - [Chinese Wine Industry Development / 中国葡萄酒产业发展](concepts/ChineseWineIndustryDevelopment.md) — 以技术连续性、原产地规则、地块认知、消费基础和代际经验判断产业成熟度的框架。
@@ -25914,7 +25916,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gendered Family-Business Roles / 性别化家族企业分工](concepts/GenderedFamilyBusinessRoles.md) — EP255 pattern where women successors are more often placed in finance, sales, brand, and influence while men more often hold production, technology, or central heir roles.
 - [Factory-Second-Generation Personal IP / 厂二代个人IP](concepts/FactorySecondGenerationPersonalIP.md) — EP255 concept for successors using public accounts, short video, and factory stories to make traditional manufacturers visible.
 - [Family-Business Work-Life Boundary / 家族企业工作生活边界](concepts/FamilyBusinessWorkLifeBoundary.md) — EP255 generational boundary between founder identity fusion and successors' desire for governable firms, personal choice, and less permanent physical presence.
-- [Self-Permission / 自我许可](concepts/SelfPermission.md) — EP254 frame for treating one's body, feeling, need, ambition, and refusal as legitimate before external permission fully arrives.
+- [Self-Permission / 自我许可](concepts/SelfPermission.md) — Repeated practice of treating one's body, feeling, need, comfort, ambition, pleasure, and refusal as legitimate before external permission arrives.
 - [Gynecological Exam Dignity / 妇科检查尊严](concepts/GynecologicalExamDignity.md) — EP254 concept for intimate medical care that preserves explanation, consent, privacy, and patient dignity.
 - [Female Friendship Recognition / 女性友谊的看见](concepts/FemaleFriendshipRecognition.md) — EP254 frame for women friends, film figures, and online commenters helping women name shared experience.
 - [Mother-Daughter Intergenerational Mirror / 母女代际镜像](concepts/MotherDaughterIntergenerationalMirror.md) — EP254 pattern where mothers and daughters reveal inherited scripts, interrupted desires, and the wish not to pass regret forward.

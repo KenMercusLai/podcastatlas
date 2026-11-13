@@ -74193,6 +74193,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/delayedcanonicalrecognition/"
     },
+    "DelayedGratificationRebalancing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmB4VjRQeKLl_DHzaFF4gJTbEWGN [lmB4VjRQeKLl_DHzaFF4gJTbEWGN].md",
+          "key": "e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn",
+          "show": "知行小酒馆",
+          "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/delayedgratificationrebalancing/"
+    },
     "DelegatedAgentInteraction": {
       "episode_count": 1,
       "show_count": 1,
@@ -98869,9 +98885,9 @@
       "url": "/wiki/concepts/experienceformingeducation/"
     },
     "ExperienceMemoryPremium": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIW4Oo_7zAsE74QTnvvv8 [GKwRIW4Oo_7zAsE74QTnvvv8].md",
@@ -98879,9 +98895,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？",
           "url": "/wiki/sources/fanwai-16-qingxu-jiazhi-jingjixue-huaqian-mai-kaixin-daodi-shi-bu-shi-yi-men-hao-shengyi-gkwriw4oo_7zase74qtnvvv8/"
+        },
+        {
+          "episode_file": "lmB4VjRQeKLl_DHzaFF4gJTbEWGN [lmB4VjRQeKLl_DHzaFF4gJTbEWGN].md",
+          "key": "e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn",
+          "show": "知行小酒馆",
+          "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn/"
         }
       ],
-      "updated": "2026-10-14",
+      "updated": "2026-11-14",
       "url": "/wiki/concepts/experiencememorypremium/"
     },
     "ExperienceOrchestrator": {
@@ -251369,9 +251392,9 @@
       "url": "/wiki/concepts/reflectivechoiceformation/"
     },
     "ReflectiveDesireAutonomy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltEHZo_leHI9vPGy5UKexBcrtcpr [ltEHZo_leHI9vPGy5UKexBcrtcpr].md",
@@ -251379,9 +251402,16 @@
           "show": "独树不成林",
           "title": "372-当科技能够满足一切愿望，我们还知道自己想要什么吗？马洛《浮士德博士的悲剧》",
           "url": "/wiki/sources/372-dang-keji-nenggou-manzu-yiqie-yuanwang-women-hai-zhidao-ziji-xiangyao-shenme-ma-maluo-fushide-boshi-de-beiju-ltehzo-lehi9vpgy5ukexbcrtcpr/"
+        },
+        {
+          "episode_file": "lmB4VjRQeKLl_DHzaFF4gJTbEWGN [lmB4VjRQeKLl_DHzaFF4gJTbEWGN].md",
+          "key": "e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn",
+          "show": "知行小酒馆",
+          "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn/"
         }
       ],
-      "updated": "2026-10-28",
+      "updated": "2026-11-14",
       "url": "/wiki/concepts/reflectivedesireautonomy/"
     },
     "ReflectiveSelfExploration": {
@@ -267705,6 +267735,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/selfexperimentation/"
+    },
+    "SelfPermission": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己 [lm-w7rYj4ZAY6VLDsrkADohJ997d].md",
+          "key": "ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d",
+          "show": "Talk三联",
+          "title": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己",
+          "url": "/wiki/sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d/"
+        },
+        {
+          "episode_file": "lmB4VjRQeKLl_DHzaFF4gJTbEWGN [lmB4VjRQeKLl_DHzaFF4gJTbEWGN].md",
+          "key": "e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn",
+          "show": "知行小酒馆",
+          "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/selfpermission/"
     },
     "SelfPleasingConsumption": {
       "episode_count": 1,
@@ -339656,9 +339709,9 @@
       "url": "/wiki/entities/zhipuai/"
     },
     "ZhixingXiaojiuguan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lmrfBKmfdmUn7-CjfvaeogEO6FQI [lmrfBKmfdmUn7-CjfvaeogEO6FQI].md",
@@ -339708,9 +339761,16 @@
           "show": "知行小酒馆",
           "title": "E249 对话叶檀：我不再是人生的过道人",
           "url": "/wiki/sources/e249-duihua-yetan-wo-buzai-shi-rensheng-de-guokeren-li8lfk6ayg48zk63bpnh4qtkmn9x/"
+        },
+        {
+          "episode_file": "lmB4VjRQeKLl_DHzaFF4gJTbEWGN [lmB4VjRQeKLl_DHzaFF4gJTbEWGN].md",
+          "key": "e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn",
+          "show": "知行小酒馆",
+          "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+          "url": "/wiki/sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn/"
         }
       ],
-      "updated": "2026-10-24",
+      "updated": "2026-11-14",
       "url": "/wiki/entities/zhixingxiaojiuguan/"
     },
     "ZhiyuanRobotics": {

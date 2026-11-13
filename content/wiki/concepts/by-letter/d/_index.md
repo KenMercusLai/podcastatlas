@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 11205
+wiki_total_pages: 11206
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "DelayedRescueStatecraft"
     title: "Delayed Rescue Statecraft / 晚救权谋"
     url: "/wiki/concepts/delayedrescuestatecraft/"
+  - key: "DelayedGratificationRebalancing"
+    title: "Delayed-Gratification Rebalancing / 延迟满足再平衡"
+    url: "/wiki/concepts/delayedgratificationrebalancing/"
   - key: "DelegatedAgentInteraction"
     title: "Delegated Agent Interaction"
     url: "/wiki/concepts/delegatedagentinteraction/"

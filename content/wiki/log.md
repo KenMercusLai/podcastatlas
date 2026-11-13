@@ -39368,6 +39368,12 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-14] ingest | E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+
+Added source `e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn`; created [[DelayedGratificationRebalancing|延迟满足再平衡]]; and resynthesized [[SelfPermission|自我许可]], [[ReflectiveDesireAutonomy|反思欲望的自主性]], [[ExperienceMemoryPremium|体验记忆溢价]], and [[ZhixingXiaojiuguan|知行小酒馆]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: saving and delay can protect future choice, but they require rebalancing when an uncertain future permanently displaces present comfort, family memory, self-recording, or bounded enjoyment; writing, substitution, and small experiments can clarify the need without turning desire into an automatic purchase.
+
+No settled contradiction was adopted. The six cases are listener narratives with incomplete financial detail, so affordability, satisfaction, family outcomes, purchase effects, and medical claims remain source-scoped rather than general consumer, financial, or health guidance. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,938 sources across 806 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-13] ingest | 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
 
 Added source `187-duihua-liberai-liu-songming-astra-lai-xi-00-hou-wuli-ai-chuangshiren-kandao-de-shenglv-ad3b421a`; created [[LiberAI]], [[LiuSongming|刘松明]], and [[RDT1B|RDT-1B]]; and resynthesized [[WorldActionModels]], [[UMIGloveDataCollection]], and [[PhysicalIntelligenceSystemStack]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: world-action models become more credible when action-rich glove and robot data bridge broad human video to embodiment-conditioned execution, while general foundation models may absorb more planning without removing the need for contact feedback, low-latency control, hardware reliability, deployment infrastructure, and selective vertical integration.
@@ -39426,5 +39432,9 @@ No settled contradiction was adopted. Huang's resignation, Kress's appointment, 
 Ran lint. See lint-report.md for details.
 
 ## [2026-11-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-11-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
