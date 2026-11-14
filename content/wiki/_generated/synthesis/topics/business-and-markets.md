@@ -3,16 +3,16 @@
 generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
-last_updated: 2026-10-26
-as_of_overview_commit: 758dbcd26073c95653f3bc039b7fe1ddae67f1b6
-input_digest: 5a9fde6593d6ff602a751c2391485d82aeb6645aa8afbf38611e3e2e705d2074
+last_updated: 2026-11-14
+as_of_overview_commit: 15c052c79f36b081f741e6f7e450034acdf9e126
+input_digest: 73a7422f48e90a2963be706abdf9691db3c0962c834e8e39edfab8ae74454347
 ---
 
 # Business and Markets
 
 ## Current State
 
-Across the bounded business-and-markets record, durable value depends on cash flow, unit economics, governance, capital structure, distribution, operating execution, and the price paid rather than narrative momentum alone. Founder opportunity, financing, health, identity, luck, and survivor bias remain material constraints. The newest evidence keeps useful technology, scarce capacity, company solvency, investor return, consumer meaning, and advertising reach separate: hybrid model deployment can change control without eliminating infrastructure dependence, and merchandise can combine memory and affiliation with customer-funded distribution without proving market size, conversion, or durable demand. Financial, operating, concentration, valuation, cost, and exposure claims remain source-scoped where the bounded inputs lack primary evidence.
+Across the bounded business-and-markets record, durable value depends on cash flow, unit economics, governance, capital structure, distribution, operating execution, and the price paid rather than narrative momentum alone. Founder opportunity, financing, health, identity, luck, and survivor bias remain material constraints. The newest evidence keeps useful technology, scarce capacity, company solvency, investor return, consumer meaning, and advertising reach separate: hybrid model deployment can change control without eliminating infrastructure dependence, and merchandise can combine memory and affiliation with customer-funded distribution without proving market size, conversion, or durable demand. Financial, operating, concentration, valuation, cost, and exposure claims remain source-scoped where the bounded inputs lack primary evidence. The latest Nvidia case adds that founder-led platform succession can propagate through product cadence, capital allocation, counterparties, and policy influence, while market conclusions still require observable delivery and independent evidence rather than breaking-news attribution.
 
 ## Cross-source Findings
 
@@ -1351,3 +1351,14 @@ The supplement case shows category awareness being created outside official chan
 
 - The market-size, manufacturing-cost, and public-exposure figures remain episode-attributed because the bounded input does not include the underlying Oxford Economics method, cost calculation, or conversion evidence.
 - Examples range from local shops to global technology and entertainment companies, so visibility does not establish equivalent margins, demand durability, community value, or advertising return.
+
+### Founder Platform Succession Needs Delivery And Governance Proof
+
+[[allin-e297-ch-allin-e297-ch|All-In E297]] adds a platform-market succession test: [[FounderLedPlatformSuccessionRisk]] can transmit a founder departure through product cadence, capital allocation, suppliers, startups, and policy advocacy, while [[ColetteKress|interim continuity]] and [[MegaSpeed|unresolved allegations]] do not establish the permanent successor, misconduct, or market outcome.
+
+**Evidence:** [[allin-e297-ch-allin-e297-ch]], [[FounderLedPlatformSuccessionRisk]], [[ColetteKress]], [[MegaSpeed]]
+
+**Qualifications:**
+
+- The episode is breaking-news commentary rather than a board succession plan, product-roadmap audit, or causal estimate of founder value.
+- Espionage, diversion, leak motives, successor performance, Anthropic financials, and market effects remain episode-attributed or speculative.

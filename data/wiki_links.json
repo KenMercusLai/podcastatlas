@@ -6547,6 +6547,10 @@
     "title": "AI Safety Narrative Backfire",
     "url": "/wiki/concepts/aisafetynarrativebackfire/"
   },
+  "AISafetyScrutinyConsistency": {
+    "title": "AI-Safety Scrutiny Consistency",
+    "url": "/wiki/concepts/aisafetyscrutinyconsistency/"
+  },
   "AISafetyWorkerCulture": {
     "title": "AI Safety Worker Culture",
     "url": "/wiki/concepts/aisafetyworkerculture/"
@@ -23103,6 +23107,10 @@
     "title": "Compute-Capital Labor Reallocation / 算力资本与人力再配置",
     "url": "/wiki/concepts/computecapitallaborreallocation/"
   },
+  "ComputeControlCentralizationRisk": {
+    "title": "Compute-Control Centralization Risk",
+    "url": "/wiki/concepts/computecontrolcentralizationrisk/"
+  },
   "ComputeFreedom": {
     "title": "Compute Freedom / 算力自由",
     "url": "/wiki/concepts/computefreedom/"
@@ -36730,6 +36738,10 @@
   "FounderLedLiveSelling": {
     "title": "Founder-Led Live Selling",
     "url": "/wiki/concepts/founderledliveselling/"
+  },
+  "FounderLedPlatformSuccessionRisk": {
+    "title": "Founder-Led Platform Succession Risk",
+    "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
   },
   "FounderLedSales": {
     "title": "Founder-Led Sales",
@@ -106878,6 +106890,10 @@
   "allin-e296-ch-allin-e296-ch": {
     "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
     "url": "/wiki/sources/allin-e296-ch-allin-e296-ch/"
+  },
+  "allin-e297-ch-allin-e297-ch": {
+    "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+    "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
   },
   "allin-intv-ricksmith-ch-allin-intv-ricksmith-ch": {
     "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",

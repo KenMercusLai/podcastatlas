@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11209
+wiki_total_pages: 11212
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2111,6 +2111,9 @@ wiki_pages:
   - key: "ComputeCapitalLaborReallocation"
     title: "Compute-Capital Labor Reallocation / 算力资本与人力再配置"
     url: "/wiki/concepts/computecapitallaborreallocation/"
+  - key: "ComputeControlCentralizationRisk"
+    title: "Compute-Control Centralization Risk"
+    url: "/wiki/concepts/computecontrolcentralizationrisk/"
   - key: "ComputerUseAgent"
     title: "Computer Use Agent"
     url: "/wiki/concepts/computeruseagent/"

@@ -2705,10 +2705,26 @@
         "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06",
         "MerchandiseIdentityAdvertisingLoop"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "founder-platform-succession-needs-delivery-and-governance-proof",
+      "qualifications": [
+        "The episode is breaking-news commentary rather than a board succession plan, product-roadmap audit, or causal estimate of founder value.",
+        "Espionage, diversion, leak motives, successor performance, Anthropic financials, and market effects remain episode-attributed or speculative."
+      ],
+      "statement": "[[allin-e297-ch-allin-e297-ch|All-In E297]] adds a platform-market succession test: [[FounderLedPlatformSuccessionRisk]] can transmit a founder departure through product cadence, capital allocation, suppliers, startups, and policy advocacy, while [[ColetteKress|interim continuity]] and [[MegaSpeed|unresolved allegations]] do not establish the permanent successor, misconduct, or market outcome.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "allin-e297-ch-allin-e297-ch",
+        "FounderLedPlatformSuccessionRisk",
+        "ColetteKress",
+        "MegaSpeed"
+      ]
     }
   ],
-  "input_digest": "5a9fde6593d6ff602a751c2391485d82aeb6645aa8afbf38611e3e2e705d2074",
-  "summary": "Across the bounded business-and-markets record, durable value depends on cash flow, unit economics, governance, capital structure, distribution, operating execution, and the price paid rather than narrative momentum alone. Founder opportunity, financing, health, identity, luck, and survivor bias remain material constraints. The newest evidence keeps useful technology, scarce capacity, company solvency, investor return, consumer meaning, and advertising reach separate: hybrid model deployment can change control without eliminating infrastructure dependence, and merchandise can combine memory and affiliation with customer-funded distribution without proving market size, conversion, or durable demand. Financial, operating, concentration, valuation, cost, and exposure claims remain source-scoped where the bounded inputs lack primary evidence.",
+  "input_digest": "73a7422f48e90a2963be706abdf9691db3c0962c834e8e39edfab8ae74454347",
+  "summary": "Across the bounded business-and-markets record, durable value depends on cash flow, unit economics, governance, capital structure, distribution, operating execution, and the price paid rather than narrative momentum alone. Founder opportunity, financing, health, identity, luck, and survivor bias remain material constraints. The newest evidence keeps useful technology, scarce capacity, company solvency, investor return, consumer meaning, and advertising reach separate: hybrid model deployment can change control without eliminating infrastructure dependence, and merchandise can combine memory and affiliation with customer-funded distribution without proving market size, conversion, or durable demand. Financial, operating, concentration, valuation, cost, and exposure claims remain source-scoped where the bounded inputs lack primary evidence. The latest Nvidia case adds that founder-led platform succession can propagate through product cadence, capital allocation, counterparties, and policy influence, while market conclusions still require observable delivery and independent evidence rather than breaking-news attribution.",
   "title": "Business and Markets",
   "topic_id": "business-and-markets"
 }

@@ -5963,6 +5963,22 @@
       "updated": "2026-10-29",
       "url": "/wiki/concepts/aisafetyinstitutionallegitimacy/"
     },
+    "AISafetyScrutinyConsistency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
+          "key": "allin-e297-ch-allin-e297-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+          "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/aisafetyscrutinyconsistency/"
+    },
     "AISafetyWorkerCulture": {
       "episode_count": 1,
       "show_count": 1,
@@ -57659,9 +57675,9 @@
       "url": "/wiki/entities/colemanruiz/"
     },
     "ColetteKress": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20261113_1113_MP_TECH_pod_128 [tech_20261113_1113_MP_TECH_pod_128].md",
@@ -57669,9 +57685,16 @@
           "show": "Marketplace Tech",
           "title": "Nvidia’s leadership shakeup could reshape the AI industry",
           "url": "/wiki/sources/tech-20261113-1113-mp-tech-pod-128-tech-20261113-1113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
+          "key": "allin-e297-ch-allin-e297-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+          "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "url": "/wiki/entities/colettekress/"
     },
     "ColinCampbellBritishArmy": {
@@ -60134,6 +60157,22 @@
       ],
       "updated": "2026-10-30",
       "url": "/wiki/concepts/computecapitallaborreallocation/"
+    },
+    "ComputeControlCentralizationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
+          "key": "allin-e297-ch-allin-e297-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+          "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/computecontrolcentralizationrisk/"
     },
     "ConcealedCapabilityTiming": {
       "episode_count": 2,
@@ -98048,9 +98087,9 @@
       "url": "/wiki/concepts/executionstatusandbodyintegrity/"
     },
     "ExecutiveConductGovernanceRisk": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIJIOx3zoAFMB9AT4mvyn [GKwRIJIOx3zoAFMB9AT4mvyn].md",
@@ -98072,9 +98111,16 @@
           "show": "独树不成林",
           "title": "377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？",
           "url": "/wiki/sources/377-huangrenxun-chuju-shijian-ruhe-jixu-baolu-meiguo-youyi-de-yanzhong-neidou-lieutdhfphkbjbrhbjhjnzivmfgz/"
+        },
+        {
+          "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
+          "key": "allin-e297-ch-allin-e297-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+          "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "url": "/wiki/concepts/executiveconductgovernancerisk/"
     },
     "ExecutiveFunction": {
@@ -109650,6 +109696,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/founderidentitynarrativerisk/"
+    },
+    "FounderLedPlatformSuccessionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
+          "key": "allin-e297-ch-allin-e297-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+          "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/founderledplatformsuccessionrisk/"
     },
     "FounderLedSales": {
       "episode_count": 14,
@@ -200262,9 +200324,9 @@
       "url": "/wiki/entities/meghirschberg/"
     },
     "MegaSpeed": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "d6a57e77346c [d6a57e77346c].md",
@@ -200272,9 +200334,16 @@
           "show": "科技乱炖",
           "title": "黄仁勋、神秘女商人和 GPU 黑市，一场价值百亿美元的海龟汤",
           "url": "/wiki/sources/d6a57e77346c-d6a57e77346c/"
+        },
+        {
+          "episode_file": "ALLIN-E297_Ch [ALLIN-E297_Ch].md",
+          "key": "allin-e297-ch-allin-e297-ch",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+          "url": "/wiki/sources/allin-e297-ch-allin-e297-ch/"
         }
       ],
-      "updated": "2026-11-12",
+      "updated": "2026-11-14",
       "url": "/wiki/entities/megaspeed/"
     },
     "MegaprojectSuccessConditions": {

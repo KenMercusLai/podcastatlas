@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Jensen Ousted as Nvidia CEO: "Spy" Scandal, Export Restrictions, Market Impact](sources/allin-e297-ch-allin-e297-ch.md) — All-In separates chip-diversion, classified-leak, personal-conduct, and disclosure questions, then connects Nvidia succession and compute control to Anthropic's IPO, recursive self-improvement, and AI-safety scrutiny.
 - [Are wildfires making the future uninsurable?](sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861.md) — Planet Money follows Paradise from Camp Fire recovery into an insurance crisis shaped by correlated climate risk, residual coverage, weak mitigation recognition, and a limited private-market return.
 - [《资治通鉴·汉纪》1159丨为什么曹植争不过曹丕？](sources/zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp.md) — 芮淇讲透资治通鉴以贾诩的间接劝谏、曹丕的低失误等待、吴质的情感应对及辛宪英的胜后警告，讨论才华、团队、自制与政治托付。
 - [《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？](sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8.md) — 芮淇讲透资治通鉴以卞夫人稳定曹府、克制物欲和不张扬曹丕立储之喜，对照曹植醉闯司马门，讨论危局判断、分寸与政治托付中的自制力。
@@ -19245,6 +19246,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Founder-Led Platform Succession Risk](concepts/FounderLedPlatformSuccessionRisk.md) — Ecosystem risk when a founder concentrates technical roadmaps, capital allocation, counterparties, and platform legitimacy.
+- [Compute-Control Centralization Risk](concepts/ComputeControlCentralizationRisk.md) — Surveillance, misuse, and single-point risk created when chip telemetry or remote-disable authority is centrally controlled.
+- [AI-Safety Scrutiny Consistency](concepts/AISafetyScrutinyConsistency.md) — Principle that comparable capability, concentration, and release risks receive transparent, evidence-based treatment across organizations and architectures.
 - [Climate Property Insurance Availability](concepts/ClimatePropertyInsuranceAvailability.md) — Capacity to obtain sufficiently comprehensive and affordable property coverage as climate losses, regulation, underwriting, and portfolio constraints change.
 - [Community Wildfire Mitigation](concepts/CommunityWildfireMitigation.md) — Coordinated neighborhood risk reduction responding to wildfire spillovers across property boundaries.
 - [Mitigation Underwriting Recognition](concepts/MitigationUnderwritingRecognition.md) — Translation of verified property or community risk reduction into insurance eligibility, price, or coverage decisions.

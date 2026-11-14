@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3499
+topic_total_pages: 3502
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "AIGeneratedProofGovernance"
     title: "AI-Generated Proof Governance"
     url: "/wiki/concepts/aigeneratedproofgovernance/"
+  - key: "AISafetyScrutinyConsistency"
+    title: "AI-Safety Scrutiny Consistency"
+    url: "/wiki/concepts/aisafetyscrutinyconsistency/"
   - key: "AirportApprovalAirspaceConstraint"
     title: "Airport Approval Airspace Constraint / 机场审批与空域约束"
     url: "/wiki/concepts/airportapprovalairspaceconstraint/"
@@ -916,6 +919,9 @@ topic_concepts:
   - key: "ComprehensiveConsumerDataPrivacy"
     title: "Comprehensive Consumer Data Privacy"
     url: "/wiki/concepts/comprehensiveconsumerdataprivacy/"
+  - key: "ComputeControlCentralizationRisk"
+    title: "Compute-Control Centralization Risk"
+    url: "/wiki/concepts/computecontrolcentralizationrisk/"
   - key: "ConcealedPresidentialIllness"
     title: "Concealed Presidential Illness"
     url: "/wiki/concepts/concealedpresidentialillness/"
@@ -1810,6 +1816,9 @@ topic_concepts:
   - key: "FounderBoardRelationshipMaintenance"
     title: "Founder-Board Relationship Maintenance"
     url: "/wiki/concepts/founderboardrelationshipmaintenance/"
+  - key: "FounderLedPlatformSuccessionRisk"
+    title: "Founder-Led Platform Succession Risk"
+    url: "/wiki/concepts/founderledplatformsuccessionrisk/"
   - key: "FourthAmendmentDigitalPrivacy"
     title: "Fourth Amendment Digital Privacy"
     url: "/wiki/concepts/fourthamendmentdigitalprivacy/"

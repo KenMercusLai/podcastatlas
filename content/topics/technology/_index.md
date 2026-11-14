@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3828
+topic_total_pages: 3831
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1270,6 +1270,9 @@ topic_concepts:
   - key: "AIReadyDataEngineering"
     title: "AI-Ready Data Engineering"
     url: "/wiki/concepts/aireadydataengineering/"
+  - key: "AISafetyScrutinyConsistency"
+    title: "AI-Safety Scrutiny Consistency"
+    url: "/wiki/concepts/aisafetyscrutinyconsistency/"
   - key: "AIWrittenJournalism"
     title: "AI-Written Journalism"
     url: "/wiki/concepts/aiwrittenjournalism/"
@@ -1729,6 +1732,9 @@ topic_concepts:
   - key: "ComputeCapitalLaborReallocation"
     title: "Compute-Capital Labor Reallocation / 算力资本与人力再配置"
     url: "/wiki/concepts/computecapitallaborreallocation/"
+  - key: "ComputeControlCentralizationRisk"
+    title: "Compute-Control Centralization Risk"
+    url: "/wiki/concepts/computecontrolcentralizationrisk/"
   - key: "ComputerVisionFormCorrection"
     title: "Computer Vision Form Correction"
     url: "/wiki/concepts/computervisionformcorrection/"
@@ -2572,6 +2578,9 @@ topic_concepts:
   - key: "FounderMode"
     title: "Founder Mode"
     url: "/wiki/concepts/foundermode/"
+  - key: "FounderLedPlatformSuccessionRisk"
+    title: "Founder-Led Platform Succession Risk"
+    url: "/wiki/concepts/founderledplatformsuccessionrisk/"
   - key: "FounderLedSoftwareGlobalization"
     title: "Founder-Led Software Globalization"
     url: "/wiki/concepts/founderledsoftwareglobalization/"

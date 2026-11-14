@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 11209
+wiki_total_pages: 11212
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1286,6 +1286,9 @@ wiki_pages:
   - key: "FounderLedLiveSelling"
     title: "Founder-Led Live Selling"
     url: "/wiki/concepts/founderledliveselling/"
+  - key: "FounderLedPlatformSuccessionRisk"
+    title: "Founder-Led Platform Succession Risk"
+    url: "/wiki/concepts/founderledplatformsuccessionrisk/"
   - key: "FounderLedSales"
     title: "Founder-Led Sales"
     url: "/wiki/concepts/founderledsales/"

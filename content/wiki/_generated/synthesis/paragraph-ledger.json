@@ -807,12 +807,13 @@
       "84ba2f1e1a17bf9ef8f1ff2708c9401263d568f2182f1aa4d949c5c1d298e7b6",
       "e8648cd09817e1d4a3e627846ee3f34c3673667b2a0dfba891b847eb51065c70",
       "fb5629e960307bb437a6c06d66ad1c5f437c38c416d10cc78985c15904538dd5",
-      "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e"
+      "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
+      "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a"
     ],
-    "paragraph_count": 807
+    "paragraph_count": 808
   },
-  "overview_commit": "fdc8de13344f862b1a4d9bc7b2dd061189157824",
-  "overview_digest": "875bc8ed003f08a4157f4ddac6a4686c774364bc1d037ba19adecb1a8d25f7c5",
+  "overview_commit": "15c052c79f36b081f741e6f7e450034acdf9e126",
+  "overview_digest": "f76e414009c6ea78ee8210618875d8bf75c4cbc7331e6b1b154013608841ea3b",
   "paragraphs": [
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
@@ -23524,6 +23525,32 @@
         "PoliticalSelfControlTrust",
         "RuiqiJiangtouZizhiTongjian",
         "zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8"
+      ]
+    },
+    {
+      "id": "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[allin-e297-ch-allin-e297-ch|Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact]], an [[AllIn|All-In]] episode separating possible chip diversion, personal conduct, disclosure or audit-attestation failure, and classified leaking into distinct evidence tracks. It resynthesizes [[MegaSpeed|Mega Speed]], [[ExecutiveConductGovernanceRisk]], and [[ColetteKress|Colette Kress]] while adding [[FounderLedPlatformSuccessionRisk]], [[ComputeControlCentralizationRisk]], and [[AISafetyScrutinyConsistency]]. Its core synthesis is that founder-led platform succession can propagate through product cadence, capital allocation, suppliers, startups, and policy advocacy; shipment tracking and centralized remote-disable authority create different governance stakes; and recursive self-improvement, market concentration, and release control should receive capability-based scrutiny across organizational identities. No settled contradiction is adopted. Alice Wang, Alice Huang, and [[HuangLeBusinesswoman|Huang Le]] remain an unresolved name or identity conflict, while espionage, diversion, leak motives, coordinated-removal theories, centralized-control plans, Anthropic financials, medical timelines, and safety-organization incentives remain episode-attributed or speculative.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AISafetyScrutinyConsistency",
+        "AllIn",
+        "ColetteKress",
+        "ComputeControlCentralizationRisk",
+        "ExecutiveConductGovernanceRisk",
+        "FounderLedPlatformSuccessionRisk",
+        "HuangLeBusinesswoman",
+        "MegaSpeed",
+        "allin-e297-ch-allin-e297-ch"
       ]
     }
   ],

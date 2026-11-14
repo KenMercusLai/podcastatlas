@@ -5,16 +5,17 @@ knowledge_schema: synthesis-v1
 tags: [company, gpu, ai, data-centers, trade]
 sources:
   - d6a57e77346c-d6a57e77346c
-last_updated: 2026-11-12
+  - allin-e297-ch-allin-e297-ch
+last_updated: 2026-11-14
 ---
 
 # Mega Speed
 
 ## Overview
-Mega Speed is described by one [[KejiLuandun|科技乱炖]] episode as a Singapore-linked company that moved from a gaming-related background toward [[GPU]], AI, and data-center business. The episode associates [[HuangLeBusinesswoman|Huang Le]] with its ownership and treats the company as a possible important node in Southeast Asian GPU distribution, but the supplied summary does not provide the filings or transactions needed to verify that interpretation.
+Mega Speed is described by two podcast sources as a Singapore-linked company that moved from a gaming-related background toward [[GPU]], AI, and data-center business. One associates [[HuangLeBusinesswoman|Huang Le]] with its ownership; the other names an executive as Alice Wang and reports allegations involving Chinese intelligence and chip sales. The supplied summaries do not establish whether their named individuals overlap or provide the records needed to verify diversion, espionage, or unlawful conduct.
 
 ## Current Profile
-The current bounded profile is an episode-reported corporate transition rather than a settled commercial history. The source says Huang Le appeared in shareholder records in March 2023, that some shares later moved to Swift Data, and that the company's assets and refundable deposits or prepayments grew sharply. It uses those details to hypothesize a large procurement-and-resale role; neither the destination of particular chips nor unlawful conduct is established.
+The bounded profile remains an episode-reported corporate transition rather than a settled commercial history. The earlier source says Huang Le appeared in shareholder records in March 2023, some shares later moved to Swift Data, and assets and refundable deposits or prepayments grew sharply. The All-In episode says prior reporting and a short thesis had already scrutinized the company and asks whether it facilitated restricted sales, but supplies no transaction-level finding. Neither the destination of particular chips nor unlawful conduct is established.
 
 ## Key Characteristics
 - Reported shift from gaming-related activity toward GPU, AI, and data-center commerce.
@@ -22,6 +23,7 @@ The current bounded profile is an episode-reported corporate transition rather t
 - Presented as having a business profile capable of supporting a facially plausible high-volume GPU end use.
 - Associated with very large procurement, asset-growth, and prepayment figures that are not independently documented in the supplied source.
 - Treated by the episode as a possible upstream distribution node rather than proven origin of all related Chinese-market inventory.
+- Subject to overlapping but identity-inconsistent reporting about an executive and possible Chinese intelligence or diversion concerns.
 
 ## Evidence
 ### Corporate transition and ownership
@@ -32,15 +34,19 @@ The current bounded profile is an episode-reported corporate transition rather t
 - [[d6a57e77346c-d6a57e77346c]] relays claims of roughly 240,000 GPUs, about US$7.5 billion in purchases, approximately 91-fold asset growth, and about US$2.9 billion in refundable deposits or prepayments, while noting that the podcast did not display the original documentation.
 - [[d6a57e77346c-d6a57e77346c]] infers that the company could be an important source node in Southeast Asian GPU circulation but explicitly cannot trace all Chinese-market inventory to it.
 
+### Investigation and identity boundary
+- [[allin-e297-ch-allin-e297-ch]] says prior press coverage and a short thesis had scrutinized Mega Speed before the current controversy, but it provides neither an export-enforcement finding nor the underlying intelligence.
+- [[allin-e297-ch-allin-e297-ch]] names Alice Wang, while the existing bounded source names Huang Le and another wiki source names Alice Huang; the identity relationship remains unresolved rather than merged.
+
 ## Qualifications
-- All company-specific evidence here comes from one structured podcast summary; the cited filings, contracts, serial numbers, customs records, and bank flows are not included.
+- All company-specific evidence here comes from structured podcast summaries; the cited filings, contracts, serial numbers, customs records, intelligence, and bank flows are not included.
 - A gaming or data-center business can be a legitimate end user; its existence does not prove false declarations, diversion, or prohibited re-export.
 - Large deposits, prepayments, assets, or purchases do not by themselves identify beneficial buyers, destinations, margins, or illegality.
-- The episode's theories about Huang Le, Jensen Huang, political actors, and profit-sharing are expressly unsupported speculation.
+- The episodes' theories about the named executives, Jensen Huang, political actors, espionage, coordination, and profit-sharing are expressly unsupported or unresolved.
 
 ## What Changed
-- Established the reported corporate-transition and ownership profile from the only bounded source.
-- Isolated large transaction claims and gray-market inferences as unverified and source-scoped.
+- Added the later episode's prior-scrutiny, intelligence, and possible-diversion allegations without adopting them as findings.
+- Preserved Alice Wang, Alice Huang, and Huang Le as an unresolved naming or identity conflict rather than merging them.
 
 ## Relationships
 - [[HuangLeBusinesswoman|Huang Le]] - person the episode associates with the company's ownership and commercial role.
@@ -48,3 +54,4 @@ The current bounded profile is an episode-reported corporate transition rather t
 - [[GPUSpotMarketTrustFriction]] - transaction environment in which the episode places the company.
 - [[AIExportControls]] - regulatory context that makes end-use, routing, and re-export material.
 - [[Nvidia]] - supplier whose high-end accelerators form the episode's market context, without a proven special arrangement in the bounded evidence.
+- [[ExecutiveConductGovernanceRisk]] - framework separating personal relationships, disclosure controls, and unproven national-security allegations.

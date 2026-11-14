@@ -11926,6 +11926,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AISafetyScrutinyConsistency": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AISearchAdvertising": [
     {
       "key": "technology",
@@ -27208,6 +27220,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "ComputeControlCentralizationRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ComputeFreedom": [
     {
       "key": "technology",
@@ -40325,6 +40349,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FounderLedPlatformSuccessionRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FounderLedSales": [

@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-10-24
-as_of_overview_commit: 9b8259aa4657cdce081e2d0a07217544428bb0d6
-input_digest: aeacd5069f2b049923b02751a30c095ba16d15a98a4a0fdcbb8037fdbccf6bb6
+last_updated: 2026-11-14
+as_of_overview_commit: 15c052c79f36b081f741e6f7e450034acdf9e126
+input_digest: 4e12aaf308569a4527873705cbc797c9d041ccddb8a4240fc942f324ba68ac22
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. Election, surveillance, enterprise-agent, physical-infrastructure, and public-guidance cases all require enforceable purpose, evidence, audit, safety, and escalation rather than assurances alone. E294 adds that agent transactions need mandate and execution evidence to allocate responsibility, while fiscal-social feedback needs causal restraint because debt pressure, public outcomes, unrest, and reform incidence can reinforce one another without validating one ideological diagnosis.
+Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. Election, surveillance, enterprise-agent, physical-infrastructure, and public-guidance cases all require enforceable purpose, evidence, audit, safety, and escalation rather than assurances alone. E294 adds that agent transactions need mandate and execution evidence to allocate responsibility, while fiscal-social feedback needs causal restraint because debt pressure, public outcomes, unrest, and reform incidence can reinforce one another without validating one ideological diagnosis. The newest Nvidia case reinforces that personal conduct, disclosure controls, export enforcement, classified leaking, founder succession, and compute-control architecture require separate evidence and authority; capability-based AI-safety scrutiny should likewise explain differential treatment across organizations and release models.
 
 ## Cross-source Findings
 
@@ -2830,3 +2830,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The agent-liability discussion is not a jurisdiction-specific legal analysis, and technical controls provide attribution evidence rather than a universal allocation rule.
 - The French protest, damage, arrest, fiscal, migration, and service-performance figures are episode-reported and not independently verified here.
 - Complex unrest cannot be reduced to government size, migration, socialism, or a single policy failure, and bond-market discipline can deepen hardship as well as force adjustment.
+
+### Nvidia Case Needs Separated Evidence And Compute Authority
+
+[[allin-e297-ch-allin-e297-ch|All-In E297]] adds a separation rule: [[ExecutiveConductGovernanceRisk]] requires distinct evidence for diversion, conduct, disclosure, and classified leaking; [[ComputeControlCentralizationRisk]] distinguishes tracking from remote authority; and [[AISafetyScrutinyConsistency]] asks that recursive improvement and concentration receive capability-based scrutiny across organizational identities.
+
+**Evidence:** [[allin-e297-ch-allin-e297-ch]], [[ExecutiveConductGovernanceRisk]], [[ComputeControlCentralizationRisk]], [[AISafetyScrutinyConsistency]]
+
+**Qualifications:**
+
+- The supplied episode does not include investigation findings, bill text, technical control architecture, or systematic evidence about AI-safety organizations.
+- Alice Wang, Alice Huang, and Huang Le remain an unresolved naming or identity conflict, and funding relationships do not by themselves prove institutional capture.

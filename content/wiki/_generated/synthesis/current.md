@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-11-13
-as_of_overview_commit: 0ef414148d69ee4542b5bb47fbd4b7e72598f53f
+last_updated: 2026-11-14
+as_of_overview_commit: 15c052c79f36b081f741e6f7e450034acdf9e126
 summary: "Across domains, durable value joins capability to evidence, implementation, accountability, context, and human judgment."
-episode_count: 4929
-source_count: 4929
-paragraph_count: 806
+episode_count: 4942
+source_count: 4942
+paragraph_count: 808
 topic_count: 9
 ---
 
@@ -36,7 +36,7 @@ AI value depends on the coupled system around models: compute, power, memory, da
 
 ### Business and Markets
 
-Durable business value requires cash flow, unit economics, governance, capital structure, distribution, execution, and price rather than narrative momentum alone.
+Durable value requires cash flow, unit economics, governance, capital structure, distribution, execution, and price; founder-led platform succession adds product, capital-allocation, and counterparty risk that must be tested through delivery rather than breaking-news attribution.
 
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a financial-media market case: [[HongKongEconomicJournal|《信报》]] created value through [[FinancialCommentaryKnowledgeTranslation]], joining markets to economics, institutions, policy, and international affairs in accessible Chinese, while [[LuoYoumei|骆友梅]]'s organizational work and [[AdvertiserPressureEditorialIndependence]] show that public knowledge requires both editorial judgment and a business able to absorb pressure. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[HongKongEconomicJournal]], [[FinancialCommentaryKnowledgeTranslation]], [[LinXingzhi]], [[LuoYoumei]], [[AdvertiserPressureEditorialIndependence]], [[ZhangWuchang]], [[LiKaShing]], [[LiTzarKai]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
@@ -54,7 +54,7 @@ Cultural form is infrastructure: medium, material design, provenance, audience p
 
 ### Governance and Institutions
 
-Institutions work when formal rules are joined to legitimacy, information, capacity, implementation incentives, auditability, safety, evidence, and accountable escalation.
+Institutions work when formal rules are joined to legitimacy, information, capacity, auditability, safety, evidence, and accountable escalation; conduct, disclosure, export enforcement, leaking, succession, and compute authority require separate proof and powers.
 
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression. Evidence: [[38-communism-glt7587678050]], [[Communism]], [[MarxismAsPoliticalReligion]], [[VladimirLenin]], [[UtopianCommunistCoercion]], [[MarxistLeninistStateCapacity]].
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a media-governance case in which [[JournalisticIndependenceAgainstFaction]] and [[AdvertiserPressureEditorialIndependence]] require [[LinXingzhi|林行止]] and the [[HongKongEconomicJournal|《信报》]] to judge across Beijing, London, colonial, local-elite, and advertiser interests while distinguishing pressure-driven retreat from evidence-driven correction; the later [[LiTzarKai|李泽楷]] ownership transition keeps structural autonomy an open rather than settled question. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[JournalisticIndependenceAgainstFaction]], [[AdvertiserPressureEditorialIndependence]], [[LinXingzhi]], [[HongKongEconomicJournal]], [[HongKong]], [[JinYong]], [[LiKaShing]], [[LiTzarKai]].
