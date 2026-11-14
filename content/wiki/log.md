@@ -39439,9 +39439,19 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-14] ingest | 《资治通鉴·汉纪》1159丨为什么曹植争不过曹丕？
+
+Added source `zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp`; created [[WuZhi|吴质]] and [[XinXianying|辛宪英]]; migrated and resynthesized [[YangXiu|杨修]] from his complete preserved evidence inventory; and resynthesized [[CaoPi|曹丕]], [[CaoZhi|曹植]], [[JiaXu|贾诩]], and [[PoliticalSelfControlTrust|政治托付中的自制力]] from each page's complete preserved source inventory before appending the new source once. Core synthesis: Cao Pi's reported advantage comes from indirect historical counsel, ordinary-duty patience, lower visible error, adviser-shaped emotional communication, and broader political confidence rather than literary brilliance alone, while Xin Xianying's warning makes conduct after victory a countertest of that restraint.
+
+No settled contradiction was adopted. Exact dialogue, Jia Xu's note and avoidance, Cao Pi's tears and inner motive, coalition coordination, Cao Cao's causal reasoning, Xin Xianying's wording, and the claim that low-error competition determined succession remain episode-attributed because the supplied file is a structured summary rather than a cited historical study. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,940 sources across 807 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-14] ingest | 《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？
 
 Added the episode source note; resynthesized [[LadyBianCaoCao|卞夫人]], [[CaoZhi|曹植]], and [[PoliticalSelfControlTrust|政治托付中的自制力]] around crisis stabilization, restrained status gain, the Sima Gate breach, and collateral consequences. No settled contradiction was adopted; private detail, chronology, motives, and modern inspirational framing remain source-scoped.
+
+## [2026-11-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-14] lint | Wiki health check
 

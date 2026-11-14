@@ -16,11 +16,10 @@ sources:
   - zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh
   - zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v
   - zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4
+  - zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-11-14
 ---
-
-# 贾诩 / Jia Xu
 
 ## Overview
 贾诩 / Jia Xu is a late-Han adviser whose wiki profile combines survival-first calculation, dangerous tactical craft, host-risk reading, battlefield timing, and condition-sensitive patron choice. He can save himself and others through precise advice, but the same advice can empower violent executors when the user of the strategy is unstable.
@@ -28,13 +27,15 @@ last_updated: 2026-08-27
 ## Current Profile
 Jia Xu's current synthesis is not reducible to the "poison adviser" label. He advises Dong Zhuo's remnant commanders to attack Chang'an because dispersal looks fatal, then later refuses reward and works to reduce harm around Emperor Xian. He mediates among Liangzhou warlords, leaves hosts before suspicion becomes lethal, advises Zhang Xiu's Liu Biao alignment and Cao Cao surrender, helps convert Wancheng exposure into attack, reads Cao Cao's rear-guard timing during the Anzhong pursuit, and later judges that Cao Cao is the better patron than Yuan Shao because name, need, and public magnanimity matter more than raw size.
 
+Hanji 1159 extends the same condition-sensitive style from battlefield and patron choice into succession counsel. Rather than endorse Cao Pi directly, Jia Xu invokes Yuan Shao and Liu Biao's heir choices so Cao Cao retains decision ownership. He then reportedly minimizes visible contact with [[CaoPi|曹丕]] and advises him to perform ordinary duties and wait, treating low exposure, stable execution, and time as strategic resources.
+
 ## Key Characteristics
 - Survival strategist who treats amnesty refusal, troop dispersal, host suspicion, and court captivity as immediate life-and-death constraints.
 - Executor-risk aware adviser whose correct tactical advice can still generate destructive outcomes when violent commanders control implementation.
 - Patron-risk reader who compares hosts by suspicion, need for talent, legitimacy, decisiveness, and capacity to tolerate capable outsiders.
 - Tactical designer of permission and timing, visible in Zhang Xiu's camp-movement plan before the Wancheng night attack and in the two-stage pursuit advice after Anzhong.
 - Commander-location analyst who treats a retreating enemy differently depending on whether the main commander personally holds the rear guard.
-- Reputation manager who can appear dangerous when useful, then reduce visibility or refuse credit when survival requires restraint.
+- Reputation manager and indirect counselor who reduces visibility, refuses credit, and uses historical analogy or patience instead of overt pressure.
 - Legitimacy-and-marginal-value analyst whose Cao-over-Yuan advice turns Zhang Xiu's old blood debt into a recoverable surrender opportunity.
 
 ## Evidence
@@ -46,14 +47,15 @@ Jia Xu's current synthesis is not reducible to the "poison adviser" label. He ad
 - Pursuit timing and rear-guard reading: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|Hanji 1023]] records Jia Xu first telling Zhang Xiu not to pursue Cao Cao, then advising an immediate second pursuit after Zhang Xiu's defeat, with the explanation turning on Cao Cao's rear emergency, personal rear-guard command, later light-cavalry departure, and weaker replacement guard.
 - Indirect survival contrast: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] uses Jia Xu as the contrast to Mi Heng's exposed speech, highlighting hidden survival wisdom.
 - Cao-over-Yuan judgment: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] records Jia Xu's rejection of Yuan Shao, his three-part case for Cao Cao, and the successful renewed submission of Zhang Xiu and Jia Xu to Cao Cao.
+- Succession counsel: [[zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp|Hanji 1159]] says Jia Xu answers Cao Cao through the Yuan Shao–Liu Biao analogy and later advises Cao Pi to work normally and let time operate.
 
 ## Qualifications
-The sources keep Jia Xu's moral status mixed. The Chang'an advice is intelligible as survival but helps violent commanders seize the capital; later restraint does not erase that cost. The "poison adviser" frame is source-scoped and should not flatten all of Jia Xu's conduct into pure malice. Hanji 1023 shows excellent tactical diagnosis, but it is an episode-specific reconstruction of Cao Cao's movement and rear guard rather than a universal pursuit formula. The renewed submission branch shows accurate patron analysis, not a general guarantee that Cao Cao would forgive every former enemy.
+The sources keep Jia Xu's moral status mixed. The Chang'an advice is intelligible as survival but helps violent commanders seize the capital; later restraint does not erase that cost. The "poison adviser" frame is source-scoped and should not flatten all of Jia Xu's conduct into pure malice. Hanji 1023 shows excellent tactical diagnosis, but it is an episode-specific reconstruction rather than a universal pursuit formula. The renewed submission branch shows accurate patron analysis, not a general guarantee of pardon. Hanji 1159's exact allusion, private note, avoidance of Cao Pi, and causal influence on Cao Cao require direct textual corroboration; its advice is evidence of indirect technique, not proof that patience always defeats visible talent.
 
 ## What Changed
-- Added Hanji 1023 as battlefield-tempo evidence for Jia Xu's condition-sensitive judgment.
-- Distinguished first-pursuit caution from second-pursuit opportunity by commander presence and rear-guard quality.
-- Kept the Cao-over-Yuan patron-choice synthesis intact while broadening Jia Xu's profile beyond host selection.
+- Extended condition-sensitive judgment from battlefield timing and patron choice into succession counsel.
+- Added historical analogy as a way to preserve ruler decision ownership.
+- Added low-visibility patience as the reported advice to Cao Pi while keeping dialogue and causation qualified.
 
 ## Relationships
 - [[ZhangXiu|张绣]] - commander whose Liu Biao alignment, first Cao surrender, Wancheng attack, and renewed Cao submission all run through Jia Xu's advice.
@@ -68,3 +70,5 @@ The sources keep Jia Xu's moral status mixed. The Chang'an advice is intelligibl
 - [[XingshiqingStrategicAssessment|行势情战略评估]] - concept describing Jia Xu's condition-sensitive comparison of hosts and timing.
 - [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]] - concept describing the pursuit-risk logic Jia Xu applies around Cao Cao's retreat.
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]] - related Cao-side policy that makes Zhang Xiu's renewed submission plausible.
+- [[CaoPi|曹丕]] - succession contender whom Jia Xu advises to continue ordinary duties and wait.
+- [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - concept describing the indirect historical frame used with Cao Cao.

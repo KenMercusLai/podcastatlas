@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 14078
+wiki_total_pages: 14080
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "XianjieQiangWesternHan"
     title: "贤解羌 / Xianjie Qiang (Western Han)"
     url: "/wiki/entities/xianjieqiangwesternhan/"
+  - key: "XinXianying"
+    title: "辛宪英 / Xin Xianying"
+    url: "/wiki/entities/xinxianying/"
   - key: "XinXiaoqi"
     title: "辛晓琪 / Winnie Hsin"
     url: "/wiki/entities/xinxiaoqi/"

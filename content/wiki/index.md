@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1159丨为什么曹植争不过曹丕？](sources/zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp.md) — 芮淇讲透资治通鉴以贾诩的间接劝谏、曹丕的低失误等待、吴质的情感应对及辛宪英的胜后警告，讨论才华、团队、自制与政治托付。
 - [《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？](sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8.md) — 芮淇讲透资治通鉴以卞夫人稳定曹府、克制物欲和不张扬曹丕立储之喜，对照曹植醉闯司马门，讨论危局判断、分寸与政治托付中的自制力。
 - [E258 这个东西，我真的好想要！｜小酒馆故事会🍻](sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn.md) — 知行小酒馆以六件想买之物讨论消费自我许可、延迟满足、家庭记忆、身份转折与有限时间，并以书写、替代和小实验澄清真实需要。
 - [Invidious position: finding Jensen Huang’s successor](sources/invidious-position-finding-jensen-huangs-successor-d443e5022186571d4b5372ea9e5287f5.md) — Economist Podcasts on Nvidia’s founder succession, Russia’s hybrid influence infrastructure in Africa, and Jack Prager’s integrated humanitarian work through Calcutta Rescue.
@@ -5063,6 +5064,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [吴质 / Wu Zhi](entities/WuZhi.md) — 曹丕阵营谋士，在临别场景中帮助其以孝亲情感回应曹植的文学优势。
+- [辛宪英 / Xin Xianying](entities/XinXianying.md) — 以继承公共责任衡量曹丕获立后的狂喜，并把胜利转化为新的自制力测试。
 - [Jack Prager](entities/JackPrager.md) — British physician who developed a Kolkata pavement clinic into the integrated services of Calcutta Rescue.
 - [Calcutta Rescue](entities/CalcuttaRescue.md) — Kolkata humanitarian organization combining clinical, educational, nutritional, and identity-document support.
 - [Russian Houses](entities/RussianHouses.md) — Russian cultural centers presented as educational venues and possible nodes in a wider influence infrastructure.
@@ -5156,7 +5159,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [霍峻 / Huo Jun](entities/HuoJun.md) — 以数百人坚守葭萌、拒绝诱降并伺机反击，后转任梓潼太守的刘备部将。
 - [赵范（东汉末） / Zhao Fan (Late Han)](entities/ZhaoFanLateHan.md) — 桂阳投降后提出与赵云联姻、因归附可信度不足被拒，后又出逃的东汉末地方官。
 - [蒋琬 / Jiang Wan](entities/JiangWan.md) — 从广都县务失职获再评价，后以更大尺度的政务能力进入蜀汉高层继承序列。
-- [曹植 / Cao Zhi](entities/CaoZhi.md) — 文学才华突出但因饮酒、越界、拒斥纠偏及牵连守门官削弱政治托付可信度，其丁仪阵营又进入崔琰案利益结构的曹氏继承竞争者。
+- [曹植 / Cao Zhi](entities/CaoZhi.md) — 具真实文学优势但因饮酒、越界与可靠性疑虑失去继承竞争，其顾问团队评价仍属来源解释。
 - [刑颙 / Xing Yong (late Han)](entities/XingYongLateHan.md) — 曹植身边不取悦主君、强调礼法与实用纠偏的严正辅臣。
 - [刘桢 / Liu Zhen (late Han)](entities/LiuZhenLateHan.md) — 曹植的文学友人，同时劝其重视刑颙务实进言的建安文人。
 - [赵彦 / Zhao Yan, Yilang (late Han)](entities/ZhaoYanYilangLateHan.md) — Emperor Xian's policy adviser, killed after Cao Cao treats independent imperial counsel as a resistance channel.
@@ -11367,7 +11370,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张济 / Zhang Ji (late Han)](entities/ZhangJiLateHan.md) — Zhang Xiu's uncle whose death at Rangcheng lets Liu Biao absorb the remaining troops and later leaves Lady Zou as the Wancheng widow/aunt figure.
 - [邹氏 / Lady Zou (Wancheng)](entities/LadyZouWancheng.md) — Zhang Ji's widow and Zhang Xiu's aunt by marriage whose taking by Cao Cao becomes the Wancheng status insult; Hanji 1013's "周氏" is kept as a transcript variant.
 - [胡车儿 / Hu Che'er](entities/HuCheEr.md) — Zhang Xiu subordinate who alarms Zhang Xiu when rewarded by Cao Cao and then drinks with and disarms Dian Wei.
-- [贾诩 / Jia Xu](entities/JiaXu.md) — Late-Han adviser whose survival-first host-risk reading, Wancheng planning, Anzhong pursuit timing, Cao-over-Yuan patron choice, and Zhang Xiu submission advice make him a condition-sensitive strategy figure.
+- [贾诩 / Jia Xu](entities/JiaXu.md) — Late-Han adviser whose survival judgment, tactical timing, patron choice, historical analogy, and low-visibility patience form a condition-sensitive strategy profile.
 - [白波军 / Baibo Army](entities/BaiboArmy.md) — Late-Han armed group tied first to Yufuluo's failed raiding branch and later to the emergency escort coalition around Emperor Xian.
 - [李乐 / Li Le (late Han)](entities/LiLeLateHan.md) — Former Baibo commander normalized from the transcript's "李越", helping Dong Cheng and Yang Feng during Emperor Xian's flight.
 - [胡才 / Hu Cai (late Han)](entities/HuCaiLateHan.md) — Former Baibo commander in the emergency reinforcement field that briefly counters Li Jue's pursuit of Emperor Xian.
@@ -11470,7 +11473,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [长广郡 / Changguang Commandery (late Han)](entities/ChangguangCommanderyLateHan.md) — Late-Han commandery used by He Kui to argue for staged, lighter governance in newly attached remote areas.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local protector turned Cao Cao close guard whose vigilance stops Xu Ta's insider assassination plot.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose prestige and Yuan Shu marriage tie lead to Cao Cao's reputation-constrained arrest, release, and office removal.
-- [杨修 / Yang Xiu](entities/YangXiu.md) — Yang Biao's son and Yuan Shu marriage link in Hanji 1020's court-risk branch.
+- [杨修 / Yang Xiu](entities/YangXiu.md) — 杨彪之子、袁术姻亲，并在曹丕曹植继承竞争中被归入曹植阵营的谋士。
 - [李笃 / Li Du (late Han)](entities/LiDuLateHan.md) — Donglai host who shelters Zhang Jian in Hanji 894 and uses indirect moral speech to persuade Mao Qin not to arrest him.
 - [毛钦 / Mao Qin (late Han)](entities/MaoQinLateHan.md) — Waihuang official who comes armed to Li Du's home during Zhang Jian's flight and leaves without making the arrest.
 - [戏子然 / Xizi Ran (late Han)](entities/XiziRanLateHan.md) — Beihai-region refuge contact in Zhang Jian's Hanji 894 escape route beyond the frontier.
@@ -12263,7 +12266,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
 - [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include early purge-leakage warnings, Cao Song revenge, Xuzhou/Yanzhou, legitimacy-window seizure, adviser intake,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
-- [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
+- [曹丕 / Cao Pi](entities/CaoPi.md) — 曹操继承人，以日常履职、低失误等待和顾问塑造赢得托付，但获立后的狂喜又限定其自制力叙事。
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose vulnerable but recognized title lets Cao Cao seize a legitimacy window and later use the Xu court to manage Yuan Shao, Yuan Shu, and old-Han ministers.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
 - [公子虔 / Gongzi Qian](entities/GongziQian.md) — Qin figure whose faction accuses Shang Yang after Qin Xiao Gong's death, turning reform backlash into Shang Yang's flight.

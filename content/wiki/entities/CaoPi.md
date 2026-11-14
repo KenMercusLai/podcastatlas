@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-1149-jiemi-sanguo-dingji-moushi-xunyou-de-guanchang-shengcunshu-ljv1fwephe86-qczfy0o1n2yh7um
   - zizhi-tongjian-hanji-1156-caocao-weihe-bi-chu-cuiyan-zhe-mian-daode-daqi-lpmr4ep1uk9hjmwteosbusxukjgo
   - zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj
-last_updated: 2026-11-13
+  - zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp
+last_updated: 2026-11-14
 ---
 
 ## Overview
@@ -30,6 +31,8 @@ Hanji 1156 adds the factional cost of the same contest. [[CuiYanLateHan|崔琰]]
 
 Hanji 1157 supplies the public decision: [[CaoCao|曹操]] formally names Cao Pi crown prince of Wei. The designation converts a contested comparison with [[CaoZhi|曹植]] into an official succession hierarchy, although it does not by itself explain every cause of the choice or dissolve the factions formed during the contest.
 
+Hanji 1159 supplies the competition mechanism in greater detail. [[JiaXu|贾诩]] uses Yuan Shao and Liu Biao's failed heir choices to advise Cao Cao indirectly, then reportedly tells Cao Pi to keep performing ordinary duties and let time expose the comparison. [[WuZhi|吴质]] helps Cao Pi answer Cao Zhi's literary farewell with filial emotion rather than literary imitation. The episode reads his resulting steadiness, official support, and lower error rate as cumulative advantages, while [[XinXianying|辛宪英]]'s concern over his exuberance after designation shows that restraint under competition was neither complete nor permanent.
+
 ## Key Characteristics
 
 - Formally designated Wei crown prince who later inherits and formalizes Cao-family power.
@@ -37,7 +40,7 @@ Hanji 1157 supplies the public decision: [[CaoCao|曹操]] formally names Cao Pi
 - Administrator who delegates a limited revolt rather than seeking personal military credit.
 - Decision-maker who refers an expansive captive-execution question to superior authority.
 - Founding ruler whose predecessor settlement preserves Liu Xie's fief and recognized status.
-- Succession contender presented as steadier and more politically delegable than Cao Zhi.
+- Succession contender presented as patient, lower-error, and more politically delegable than Cao Zhi.
 - Beneficiary of Cui Yan's public support and target of Ding Yi's reported grievance.
 
 ## Evidence
@@ -61,15 +64,18 @@ Factional succession field:
 Formal heir designation:
 - [[zizhi-tongjian-hanji-1157-duanzan-de-suncao-lianmeng-yaobai-de-sunquan-lpngfqsoz-zjr2iytaaox89df1zcj|Hanji 1157]] says Cao Cao names Cao Pi crown prince of Wei.
 
+Competition strategy and victory qualification:
+- [[zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp|Hanji 1159]] connects Jia Xu's wait-and-work advice, Wu Zhi's farewell coaching, stable presentation, and official support to Cao Pi's rise, then uses Xin Xianying to question his post-designation elation.
+
 ## Qualifications
 
-These sources do not form a complete reign biography. The abdication is described inside a podcast synthesis rather than a detailed institutional record, and the degree of coercion and settlement terms require narrower verification. Hanji 1111 supports a plausible succession counterfactual, not a formal Cao Chong designation. Hanji 1149's poet-versus-politician contrast does not isolate all causes of succession. Hanji 1156 does not conclusively identify Ding Yi as the accuser or prove that Cui Yan's Cao Pi alignment caused his death. Hanji 1157 establishes the episode's reported formal designation, not a complete causal account of why Cao Pi prevailed.
+These sources do not form a complete reign biography. The abdication is described inside a podcast synthesis rather than a detailed institutional record, and the degree of coercion and settlement terms require narrower verification. Hanji 1111 supports a plausible succession counterfactual, not a formal Cao Chong designation. Hanji 1149's poet-versus-politician contrast does not isolate all causes of succession. Hanji 1156 does not conclusively identify Ding Yi as the accuser or prove that Cui Yan's Cao Pi alignment caused his death. Hanji 1157 establishes formal designation, while Hanji 1159 supplies an interpretive causal account rather than proof that patience, tears, adviser quality, or low error rates independently determined the outcome. Cao Pi's reported elation after victory also qualifies any fixed-trait account of his self-command.
 
 ## What Changed
 
-- Added Cui Yan's public support and Ding Yi's reported grievance as factional consequences of the succession contest.
-- Added Cao Pi's formal designation as crown prince of Wei.
-- Kept the accusation attribution and Cao Cao's motive qualified.
+- Added Jia Xu's indirect counsel and wait-and-work advice as a mechanism for Cao Pi's rise.
+- Added Wu Zhi's role in the farewell scene without treating coached emotion as transparent inner character.
+- Qualified Cao Pi's restraint through Xin Xianying's criticism of his post-designation elation.
 
 ## Relationships
 
@@ -83,3 +89,6 @@ These sources do not form a complete reign biography. The abdication is describe
 - [[PoliticalSelfControlTrust|政治托付中的自制力]] - concept for why predictable conduct affects succession and delegation.
 - [[CuiYanLateHan|崔琰]] - senior official who supports Cao Pi through a primogeniture argument.
 - [[DingYiLateHan|丁仪]] - Cao Zhi-aligned actor whose grievance against Cao Pi enters the accusation reconstruction.
+- [[JiaXu|贾诩]] - adviser who recommends ordinary duty, patience, and indirect historical warning.
+- [[WuZhi|吴质]] - adviser who helps Cao Pi make filial concern legible in the farewell comparison.
+- [[XinXianying|辛宪英]] - observer who questions Cao Pi's demeanor after designation.
