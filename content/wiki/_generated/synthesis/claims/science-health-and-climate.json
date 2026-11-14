@@ -1866,9 +1866,27 @@
         "HighIntensityApneaSafety",
         "PainAttentionReframing"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "artificial-life-literature-does-not-establish-scientific-life-criteria",
+      "qualifications": [
+        "The episode does not define life scientifically or provide empirical criteria for consciousness, agency, reproduction, self-maintenance, or moral status.",
+        "Homunculus is a literary figure whose ending admits several interpretations rather than evidence about present or future AI.",
+        "Generation here is a philosophical-developmental category, not the technical meaning of generative AI."
+      ],
+      "statement": "[[378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa|The Goethe-and-AGI episode]] adds a science-boundary case: [[ArtificialLifeGenerationBoundary]] and [[HomunculusGoethe|Homunculus]] distinguish manufactured cognition, embodiment, and self-directed development, but the literary analogy does not establish that capable or self-adjusting AI is conscious, organismic, reproductive, or alive.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa",
+        "ArtificialLifeGenerationBoundary",
+        "HomunculusGoethe",
+        "JohannWolfgangVonGoethe",
+        "GoethesFaustPartTwo"
+      ]
     }
   ],
-  "input_digest": "9cdc09d60fb33068055570db6cd3d54a0e49c6b39698a30d735335d6ac0a59ba",
+  "input_digest": "7d0b81c0afba08f37fecbf6e935beb035ed45f8f3629b9dc6e487d167ac38314",
   "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. Psychedelic therapy now adds the same boundary by treating receptor action, network change, subjective experience, setting, and integration as candidate components rather than interchangeable proof, with relapse, preliminary evidence, legal access, product identity, provider conduct, and emergency support kept explicit. The topic spans social neuroscience, sleep and mental health, perinatal support, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Perinatal mental health adds early screening, practical family support, harm-risk escalation, and shared pregnancy, lactation, medicine, untreated-illness, and feeding decisions. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. Exercise safety depends on controlled range, preparation, equipment, progression, and current capacity; suspected injury should be protected from secondary damage before repeated testing, while strength and supplements can support selected goals without proving structural repair. Health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, proportionate follow-up, and flexible weekly fitness coverage rather than one score, scan, protocol, or rigid calendar. Respiratory illness reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. Deliberate heat now sharpens the same evidence boundary: thermal dose and health status govern risk, while cohort associations and acute molecular or hormone changes do not establish one optimum or durable benefit. Creative routines, breathing, HRV, light, diet, dream, and unconscious-processing remarks remain practitioner guidance or source-scoped rather than universal health protocols. High-intensity artistic swimming adds another hard safety boundary: attention can change the context of bounded discomfort, but exertional breath-holding, disappearing air hunger, blackout, and water rescue require trained observation, immediate intervention, medical evaluation, and sport-specific protocols.",
   "topic_id": "science-health-and-climate"
 }

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3838
+topic_total_pages: 3840
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -400,6 +400,9 @@ topic_concepts:
   - key: "AIContextMachine"
     title: "AI Context Machine / AI 上下文机器"
     url: "/wiki/concepts/aicontextmachine/"
+  - key: "AIControlAndCorrigibility"
+    title: "AI Control and Corrigibility / AI 控制与可纠正性"
+    url: "/wiki/concepts/aicontrolandcorrigibility/"
   - key: "AIConvergence"
     title: "AI Convergence"
     url: "/wiki/concepts/aiconvergence/"
@@ -8615,6 +8618,9 @@ topic_entities:
   - key: "TheSocialReckoning"
     title: "The Social Reckoning"
     url: "/wiki/entities/thesocialreckoning/"
+  - key: "TheSorcerersApprenticeGoethe"
+    title: "The Sorcerer's Apprentice / 《魔法师的学徒》"
+    url: "/wiki/entities/thesorcerersapprenticegoethe/"
   - key: "ThomaBravo"
     title: "Thoma Bravo"
     url: "/wiki/entities/thomabravo/"

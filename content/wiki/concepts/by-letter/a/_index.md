@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 11220
+wiki_total_pages: 11222
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "AIContextMachine"
     title: "AI Context Machine / AI 上下文机器"
     url: "/wiki/concepts/aicontextmachine/"
+  - key: "AIControlAndCorrigibility"
+    title: "AI Control and Corrigibility / AI 控制与可纠正性"
+    url: "/wiki/concepts/aicontrolandcorrigibility/"
   - key: "AIConvergence"
     title: "AI Convergence"
     url: "/wiki/concepts/aiconvergence/"
@@ -2741,6 +2744,9 @@ wiki_pages:
   - key: "ArtificialHeartBridgeTherapy"
     title: "Artificial Heart Bridge Therapy"
     url: "/wiki/concepts/artificialheartbridgetherapy/"
+  - key: "ArtificialLifeGenerationBoundary"
+    title: "Artificial Life Generation Boundary / 人工生命的制造—生成边界"
+    url: "/wiki/concepts/artificiallifegenerationboundary/"
   - key: "ArtisanalAttention"
     title: "Artisanal Attention"
     url: "/wiki/concepts/artisanalattention/"

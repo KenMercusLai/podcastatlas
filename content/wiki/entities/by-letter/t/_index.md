@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 14096
+wiki_total_pages: 14099
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "TheSocialReckoning"
     title: "The Social Reckoning"
     url: "/wiki/entities/thesocialreckoning/"
+  - key: "TheSorcerersApprenticeGoethe"
+    title: "The Sorcerer's Apprentice / 《魔法师的学徒》"
+    url: "/wiki/entities/thesorcerersapprenticegoethe/"
   - key: "TheSunUK"
     title: "The Sun (UK)"
     url: "/wiki/entities/thesunuk/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 14096
+wiki_total_pages: 14099
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "HomiKharas"
     title: "Homi Kharas"
     url: "/wiki/entities/homikharas/"
+  - key: "HomunculusGoethe"
+    title: "Homunculus in Goethe's Faust / 歌德《浮士德》中的人造小人"
+    url: "/wiki/entities/homunculusgoethe/"
   - key: "Honda"
     title: "Honda / 本田"
     url: "/wiki/entities/honda/"

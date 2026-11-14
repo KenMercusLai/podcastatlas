@@ -3,9 +3,9 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-10-18
-as_of_overview_commit: ca58d3821058459d537a7e4e24a9d0ac42b74b59
-input_digest: 9cdc09d60fb33068055570db6cd3d54a0e49c6b39698a30d735335d6ac0a59ba
+last_updated: 2026-11-15
+as_of_overview_commit: 412a7f7ccc02f57bd3d7eb4dc34ae8c40fb95e13
+input_digest: 7d0b81c0afba08f37fecbf6e935beb035ed45f8f3629b9dc6e487d167ac38314
 ---
 
 # Science, Health, and Climate
@@ -1011,3 +1011,15 @@ The Conti series opener adds a health-literacy boundary: [[MentalHealthStructure
 
 - The episode is not a clinical guideline, rescue curriculum, or complete incident investigation.
 - Heart-rate values, duration without breathing, convulsions, tests, medical clearance, and an iron-related explanation remain source-scoped and should not guide self-training or return-to-sport decisions.
+
+### Artificial Life Literature Does Not Establish Scientific Life Criteria
+
+[[378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa|The Goethe-and-AGI episode]] adds a science-boundary case: [[ArtificialLifeGenerationBoundary]] and [[HomunculusGoethe|Homunculus]] distinguish manufactured cognition, embodiment, and self-directed development, but the literary analogy does not establish that capable or self-adjusting AI is conscious, organismic, reproductive, or alive.
+
+**Evidence:** [[378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa]], [[ArtificialLifeGenerationBoundary]], [[HomunculusGoethe]], [[JohannWolfgangVonGoethe]], [[GoethesFaustPartTwo]]
+
+**Qualifications:**
+
+- The episode does not define life scientifically or provide empirical criteria for consciousness, agency, reproduction, self-maintenance, or moral status.
+- Homunculus is a literary figure whose ending admits several interpretations rather than evidence about present or future AI.
+- Generation here is a philosophical-developmental category, not the technical meaning of generative AI.

@@ -3,16 +3,16 @@
 generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
-last_updated: 2026-10-24
-as_of_overview_commit: 9b8259aa4657cdce081e2d0a07217544428bb0d6
-input_digest: 93fdd61dae79023c0df693bc10322bae04e49a6e1fabbd94149144d394039487
+last_updated: 2026-11-15
+as_of_overview_commit: 412a7f7ccc02f57bd3d7eb4dc34ae8c40fb95e13
+input_digest: b5f5b85d2eca5cae41641c5120f444b96b2cc69a1f1c32f7d25feb82ac961057
 ---
 
 # AI and Technology
 
 ## Current State
 
-Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. E294 sharpens this test by separating concentrated supplier demand from broad outcome-backed adoption, model control from physical infrastructure ownership, prevention from assume-breach resilience, and delegated agent action from settled liability. Open-weight efficiency can reduce provider dependence, but it does not erase full model-factory cost, infrastructure needs, data governance, operational risk, or human judgment.
+Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. E294 sharpens this test by separating concentrated supplier demand from broad outcome-backed adoption, model control from physical infrastructure ownership, prevention from assume-breach resilience, and delegated agent action from settled liability. The Goethe literary analogy adds that specification, intervention, shutdown, consequence containment, and objective legitimacy are distinct, while manufactured intelligence does not by itself establish complete life. Open-weight efficiency can reduce provider dependence, but it does not erase full model-factory cost, infrastructure needs, data governance, operational risk, or human judgment.
 
 ## Cross-source Findings
 
@@ -819,3 +819,15 @@ The new Rick Rubin paragraph is a routing-edge rather than an AI capability clai
 - The spending-concentration estimate, bank infrastructure example, and cyber forecasts are source-scoped and are not backed here by disclosed datasets, comparative deployments, or incident audits.
 - Open weights do not automatically provide safe behavior, lower total cost, regulatory compliance, or strong operations, and assume-breach resilience does not replace prevention.
 - Agent transaction liability remains jurisdiction-, contract-, and fact-specific.
+
+### Literary Control Boundary Separates Correction From Worthy Goals
+
+[[378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa|The Goethe-and-AGI episode]] adds a control-and-purpose boundary: [[AIControlAndCorrigibility]] separates specification, intervention, shutdown, and consequence containment; [[ArtificialLifeGenerationBoundary]] separates manufactured intelligence from self-directed development; and [[TechnicalCapabilityValueBoundary]] shows that improved obedience cannot justify a human objective that erases concrete lives, memory, plurality, or refusal.
+
+**Evidence:** [[378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa]], [[AIControlAndCorrigibility]], [[ArtificialLifeGenerationBoundary]], [[TechnicalCapabilityValueBoundary]], [[JohannWolfgangVonGoethe]], [[TheSorcerersApprenticeGoethe]], [[GoethesFaustPartTwo]], [[HomunculusGoethe]]
+
+**Qualifications:**
+
+- The broom, Homunculus, and land-reclamation project are literary analogies rather than evidence that present AI has autonomous goals, consciousness, self-repair, or reproductive capacity.
+- The source offers no engineering design or empirical result for specification, shutdown, corrigibility, or advanced-agent control.
+- Goethean manufacture and generation remain philosophical categories rather than a scientific definition of life.

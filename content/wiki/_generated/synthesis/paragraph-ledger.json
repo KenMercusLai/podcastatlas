@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7acba36b9cba60f85332ed9e81c7f30f2be3e519f4b0820e77bd13df91931e44",
       "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
       "189ed43987c426fb065c7280241bb8d95dbed59e7f9bc25ad031e26e9f241204",
       "0b6116a904e09c40631217d50ef495d473504f88e9b58778443ef1710b787136",
@@ -810,11 +811,36 @@
       "4c16efa46be08a5d377ba76a93a31fc70e99474782cedf490051e266197fdf6e",
       "cfa77535fd0c6361ce2dbd77011a0f85a2c08010abfbf2ae91262738091a701a"
     ],
-    "paragraph_count": 808
+    "paragraph_count": 809
   },
-  "overview_commit": "68332fb87f670f7ef929d7d8149daad8ad7042e5",
-  "overview_digest": "f76e414009c6ea78ee8210618875d8bf75c4cbc7331e6b1b154013608841ea3b",
+  "overview_commit": "412a7f7ccc02f57bd3d7eb4dc34ae8c40fb95e13",
+  "overview_digest": "198be3a7b8a680c951f73a7e86461d63ca54a8ca2e855263aedd7e37ab6a1df4",
   "paragraphs": [
+    {
+      "id": "7acba36b9cba60f85332ed9e81c7f30f2be3e519f4b0820e77bd13df91931e44",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa|378-歌德如何看待通用人工智能]], a [[DushuBuchenglin|独树不成林]] episode reading [[JohannWolfgangVonGoethe|Goethe]]'s [[TheSorcerersApprenticeGoethe|《魔法师的学徒》]] and [[GoethesFaustPartTwo|《浮士德》第二部]] as a progression from runaway obedience to self-directed artificial life and morally compromised progress. It adds [[AIControlAndCorrigibility]], [[ArtificialLifeGenerationBoundary]], [[TheSorcerersApprenticeGoethe|《魔法师的学徒》]], [[GoethesFaustPartTwo|《浮士德》第二部]], and [[HomunculusGoethe|Homunculus]], while resynthesizing [[JohannWolfgangVonGoethe|Goethe]] and [[TechnicalCapabilityValueBoundary]]. Its core synthesis is that specification, intervention, shutdown, and consequence containment are distinct; manufactured intelligence need not amount to complete life; and better alignment between instruction and action cannot justify a human objective that erases homes, memory, plurality, or refusal. No settled contradiction is adopted. The broom, Homunculus, and land-reclamation project are literary analogies rather than evidence that present AI has autonomous goals, consciousness, self-repair, or reproductive capacity, while textual, scientific-historical, and interpretive claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa",
+        "AIControlAndCorrigibility",
+        "ArtificialLifeGenerationBoundary",
+        "DushuBuchenglin",
+        "GoethesFaustPartTwo",
+        "HomunculusGoethe",
+        "JohannWolfgangVonGoethe",
+        "TechnicalCapabilityValueBoundary",
+        "TheSorcerersApprenticeGoethe"
+      ]
+    },
     {
       "id": "e117518b940ea1bdeaaba7447d39d24cbc1df02ef08f5b701e37f6ab19a217d1",
       "primary_topic": "psychology-and-personal-development",

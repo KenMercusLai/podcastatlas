@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14096
+wiki_total_pages: 14099
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "GodwinEarlOfWessex"
     title: "Godwin, Earl of Wessex"
     url: "/wiki/entities/godwinearlofwessex/"
+  - key: "GoethesFaustPartTwo"
+    title: "Goethe's Faust, Part Two / 歌德《浮士德》第二部"
+    url: "/wiki/entities/goethesfaustparttwo/"
   - key: "GoFundMe"
     title: "GoFundMe"
     url: "/wiki/entities/gofundme/"

@@ -9789,6 +9789,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIControlAndCorrigibility": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIControlNuclearAnalogyLimits": [
     {
       "key": "technology",
@@ -92315,6 +92322,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TheSorcerersApprenticeGoethe": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TheSorrowsOfYoungWerther": [

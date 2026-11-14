@@ -2895,6 +2895,10 @@
     "title": "378. Baghdad: The Golden Age (Part 3)",
     "url": "/wiki/sources/378-baghdad-the-golden-age-part-3-glt9689814482/"
   },
+  "378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa": {
+    "title": "378-歌德如何看待通用人工智能",
+    "url": "/wiki/sources/378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa/"
+  },
   "379-baghdad-the-arabian-nights-part-4-glt8529456010": {
     "title": "379. Baghdad: The Arabian Nights (Part 4)",
     "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
@@ -5610,6 +5614,10 @@
   "AIContextMachine": {
     "title": "AI Context Machine / AI 上下文机器",
     "url": "/wiki/concepts/aicontextmachine/"
+  },
+  "AIControlAndCorrigibility": {
+    "title": "AI Control and Corrigibility / AI 控制与可纠正性",
+    "url": "/wiki/concepts/aicontrolandcorrigibility/"
   },
   "AIControlNuclearAnalogyLimits": {
     "title": "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界",
@@ -11750,6 +11758,10 @@
   "ArtificialHeartBridgeTherapy": {
     "title": "Artificial Heart Bridge Therapy",
     "url": "/wiki/concepts/artificialheartbridgetherapy/"
+  },
+  "ArtificialLifeGenerationBoundary": {
+    "title": "Artificial Life Generation Boundary / 人工生命的制造—生成边界",
+    "url": "/wiki/concepts/artificiallifegenerationboundary/"
   },
   "ArtisanalAttention": {
     "title": "Artisanal Attention",
@@ -39967,6 +39979,10 @@
     "title": "Godwin, Earl of Wessex",
     "url": "/wiki/entities/godwinearlofwessex/"
   },
+  "GoethesFaustPartTwo": {
+    "title": "Goethe's Faust, Part Two / 歌德《浮士德》第二部",
+    "url": "/wiki/entities/goethesfaustparttwo/"
+  },
   "GoguryeoLateHan": {
     "title": "高句丽 / Goguryeo (late Han)",
     "url": "/wiki/entities/goguryeolatehan/"
@@ -44678,6 +44694,10 @@
   "HomiKharas": {
     "title": "Homi Kharas",
     "url": "/wiki/entities/homikharas/"
+  },
+  "HomunculusGoethe": {
+    "title": "Homunculus in Goethe's Faust / 歌德《浮士德》中的人造小人",
+    "url": "/wiki/entities/homunculusgoethe/"
   },
   "Honda": {
     "title": "Honda / 本田",
@@ -91614,6 +91634,10 @@
   "TheSocialReckoning": {
     "title": "The Social Reckoning",
     "url": "/wiki/entities/thesocialreckoning/"
+  },
+  "TheSorcerersApprenticeGoethe": {
+    "title": "The Sorcerer's Apprentice / 《魔法师的学徒》",
+    "url": "/wiki/entities/thesorcerersapprenticegoethe/"
   },
   "TheSorrowsOfYoungWerther": {
     "title": "《少年维特之烦恼》 / The Sorrows of Young Werther",

@@ -39514,3 +39514,10 @@ No settled contradiction was adopted. The episode's “greatest lost opportunity
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-11-15] ingest | 378-歌德如何看待通用人工智能
+
+Added the source note and connected Goethe's broom, Homunculus, and Faust's land-reclamation project to control and corrigibility, artificial-life generation, and the boundary between technical execution and worthy human goals.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
