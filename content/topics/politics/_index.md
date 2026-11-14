@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3503
+topic_total_pages: 3507
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2080,6 +2080,9 @@ topic_concepts:
   - key: "HealthInsuranceDeathSpiral"
     title: "Health Insurance Death Spiral"
     url: "/wiki/concepts/healthinsurancedeathspiral/"
+  - key: "HealthReformPoliticalWindow"
+    title: "Health-Reform Political Window"
+    url: "/wiki/concepts/healthreformpoliticalwindow/"
   - key: "HealthcareImpossibleTriangle"
     title: "Healthcare Impossible Triangle / 医疗不可能三角"
     url: "/wiki/concepts/healthcareimpossibletriangle/"
@@ -7427,6 +7430,9 @@ topic_entities:
   - key: "Mississippi"
     title: "Mississippi"
     url: "/wiki/entities/mississippi/"
+  - key: "MittRomney"
+    title: "Mitt Romney"
+    url: "/wiki/entities/mittromney/"
   - key: "ModernOlympicGames"
     title: "Modern Olympic Games"
     url: "/wiki/entities/modernolympicgames/"
@@ -7808,6 +7814,9 @@ topic_entities:
   - key: "RestoreBritain"
     title: "Restore Britain"
     url: "/wiki/entities/restorebritain/"
+  - key: "RevisionistHistory"
+    title: "Revisionist History"
+    url: "/wiki/entities/revisionisthistory/"
   - key: "RezaPahlavi"
     title: "Reza Pahlavi"
     url: "/wiki/entities/rezapahlavi/"
@@ -9630,6 +9639,9 @@ topic_sources:
   - key: "allin-intv-ricksmith-ch-allin-intv-ricksmith-ch"
     title: "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing"
     url: "/wiki/sources/allin-intv-ricksmith-ch-allin-intv-ricksmith-ch/"
+  - key: "from-the-big-dig-mitt-ted"
+    title: "From The Big Dig: Mitt & Ted"
+    url: "/wiki/sources/from-the-big-dig-mitt-ted/"
   - key: "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06"
     title: "From this day, fourth: Lula’s surprise win"
     url: "/wiki/sources/from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06/"

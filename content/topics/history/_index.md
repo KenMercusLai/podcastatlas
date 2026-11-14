@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2786
+topic_total_pages: 2787
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2414,6 +2414,9 @@ topic_entities:
   - key: "ChimeiRebellion"
     title: "Red Eyebrows / 赤眉"
     url: "/wiki/entities/chimeirebellion/"
+  - key: "RevisionistHistory"
+    title: "Revisionist History"
+    url: "/wiki/entities/revisionisthistory/"
   - key: "RobertGraves"
     title: "Robert Graves"
     url: "/wiki/entities/robertgraves/"

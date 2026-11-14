@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14093
+wiki_total_pages: 14096
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "Revid"
     title: "Revid"
     url: "/wiki/entities/revid/"
+  - key: "RevisionistHistory"
+    title: "Revisionist History"
+    url: "/wiki/entities/revisionisthistory/"
   - key: "Revlon"
     title: "Revlon"
     url: "/wiki/entities/revlon/"

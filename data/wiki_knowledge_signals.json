@@ -10691,6 +10691,50 @@
       "updated": "2026-11-08",
       "url": "/wiki/concepts/affordabilitydrivensocialism/"
     },
+    "AffordableCareAct": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+          "key": "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe",
+          "show": "面基",
+          "title": "激发动物精神，创造更多机会",
+          "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+        },
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "sp.05 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考（下）：分裂的美国会有宪政危机吗？ [790241978].md",
+          "key": "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978",
+          "show": "蜜獾吃书",
+          "title": "sp.05 【刘擎x林垚】\"枪杀医保巨头\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+          "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+        },
+        {
+          "episode_file": "sp.04 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考(上)：关于民粹、私刑和死刑 [790230209].md",
+          "key": "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209",
+          "show": "蜜獾吃书",
+          "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
+          "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
+        },
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/affordablecareact/"
+    },
     "Afghanistan": {
       "episode_count": 4,
       "show_count": 3,
@@ -133217,6 +133261,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/healthinsurancedeathspiral/"
     },
+    "HealthReformPoliticalWindow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/healthreformpoliticalwindow/"
+    },
     "HealthcareMarketingOutcomeAnalytics": {
       "episode_count": 1,
       "show_count": 1,
@@ -206789,6 +206849,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/mitochondrialpyruvatecarrier/"
     },
+    "MittRomney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/mittromney/"
+    },
     "MitziKaspar": {
       "episode_count": 1,
       "show_count": 1,
@@ -255987,6 +256063,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/reversejointventureevglobalization/"
     },
+    "RevisionistHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/revisionisthistory/"
+    },
     "Revo": {
       "episode_count": 1,
       "show_count": 1,
@@ -257267,9 +257359,9 @@
       "url": "/wiki/entities/richardnevilleearlofwarwick/"
     },
     "RichardNixon": {
-      "episode_count": 9,
-      "show_count": 4,
-      "source_note_count": 9,
+      "episode_count": 10,
+      "show_count": 5,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
@@ -257333,9 +257425,16 @@
           "show": "The Rest Is History",
           "title": "3. Is Trump Caesar or Nixon?",
           "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+        },
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/richardnixon/"
     },
     "RichardOfShrewsbury": {
@@ -285908,6 +286007,22 @@
       "updated": "2026-10-10",
       "url": "/wiki/concepts/structuredspontaneousspeaking/"
     },
+    "StuartAltman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/stuartaltman/"
+    },
     "StuartMcGill": {
       "episode_count": 2,
       "show_count": 1,
@@ -293540,6 +293655,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/tedkaptchuk/"
+    },
+    "TedKennedy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
+          "key": "from-the-big-dig-mitt-ted",
+          "show": "Revisionist History",
+          "title": "From The Big Dig: Mitt & Ted",
+          "url": "/wiki/sources/from-the-big-dig-mitt-ted/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/tedkennedy/"
     },
     "TedSarandos": {
       "episode_count": 1,

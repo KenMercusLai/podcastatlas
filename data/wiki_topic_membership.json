@@ -46420,6 +46420,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HealthReformPoliticalWindow": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HealthcareAIInfrastructure": [
     {
       "key": "technology",
@@ -64524,6 +64531,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MittRomney": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MiuLiu": [
     {
       "key": "history",
@@ -79309,6 +79323,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "RevisionistHistory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Revo": [
@@ -108949,6 +108975,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "from-the-big-dig-mitt-ted": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "from-this-day-fourth-lulas-surprise-win-5cf52a797029a5f0a14510e44dfaac06": [

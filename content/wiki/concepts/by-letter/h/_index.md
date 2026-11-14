@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11219
+wiki_total_pages: 11220
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "HealthCodedFoodLabelLiteracy"
     title: "Health-Coded Food Label Literacy / 健康概念食品标签识读"
     url: "/wiki/concepts/healthcodedfoodlabelliteracy/"
+  - key: "HealthReformPoliticalWindow"
+    title: "Health-Reform Political Window"
+    url: "/wiki/concepts/healthreformpoliticalwindow/"
   - key: "HealthcareAIInfrastructure"
     title: "Healthcare AI Infrastructure"
     url: "/wiki/concepts/healthcareaiinfrastructure/"

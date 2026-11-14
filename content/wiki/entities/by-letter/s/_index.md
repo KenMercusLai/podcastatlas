@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 14093
+wiki_total_pages: 14096
 wiki_pages:
   - key: "SuperGirl2006"
     title: "2006《超级女声》 / Super Girl 2006"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "Stripe"
     title: "Stripe"
     url: "/wiki/entities/stripe/"
+  - key: "StuartAltman"
+    title: "Stuart Altman"
+    url: "/wiki/entities/stuartaltman/"
   - key: "StuartMcGill"
     title: "Stuart McGill"
     url: "/wiki/entities/stuartmcgill/"

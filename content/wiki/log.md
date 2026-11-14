@@ -39504,3 +39504,13 @@ No settled contradiction was adopted. AFK's architecture, model sizes, task-repr
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | From The Big Dig: Mitt & Ted
+
+Added the Revisionist History episode on Ted Kennedy's personal commitment to universal coverage, the lost 1974 Nixon negotiations, and the later Massachusetts-to-ACA lineage; created [[MittRomney]], [[StuartAltman]], [[RevisionistHistory]], and [[HealthReformPoliticalWindow]]; and resynthesized [[TedKennedy]], [[RichardNixon]], and [[AffordableCareAct]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: Watergate briefly increased Nixon's incentive to seek a bipartisan employer-based coverage agreement while shortening the time available; conservative, labor, and liberal coalition pressure made policy overlap insufficient; and Kennedy's later regret frames the Romney partnership as a second chance without proving that the 1974 compromise could have passed Congress.
+
+No settled contradiction was adopted. The episode's “greatest lost opportunity” judgment, congressional viability, private motives, dialogue, treatment outcomes, and exact Massachusetts-to-ACA transfer remain episode-attributed or counterfactual because the supplied file is a structured summary rather than a full legislative, medical, or archival record. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,946 sources across 808 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
