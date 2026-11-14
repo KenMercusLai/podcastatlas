@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 14090
+wiki_total_pages: 14093
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -416,12 +416,18 @@ wiki_pages:
   - key: "AetherAI"
     title: "Aether AI"
     url: "/wiki/entities/aetherai/"
+  - key: "AFFiNE"
+    title: "AFFiNE"
+    url: "/wiki/entities/affine/"
   - key: "AffordableCareAct"
     title: "Affordable Care Act / 奥巴马医改"
     url: "/wiki/entities/affordablecareact/"
   - key: "Afghanistan"
     title: "Afghanistan"
     url: "/wiki/entities/afghanistan/"
+  - key: "AFK"
+    title: "AFK"
+    url: "/wiki/entities/afk/"
   - key: "AfonsoDeAlbuquerque"
     title: "Afonso de Albuquerque"
     url: "/wiki/entities/afonsodealbuquerque/"

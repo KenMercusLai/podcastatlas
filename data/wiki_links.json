@@ -5167,6 +5167,14 @@
     "title": "亚冠 / AFC Champions League",
     "url": "/wiki/entities/afcchampionsleague/"
   },
+  "AFFiNE": {
+    "title": "AFFiNE",
+    "url": "/wiki/entities/affine/"
+  },
+  "AFK": {
+    "title": "AFK",
+    "url": "/wiki/entities/afk/"
+  },
   "AFTRA": {
     "title": "AFTRA / American Federation of Television and Radio Artists",
     "url": "/wiki/entities/aftra/"
@@ -42991,6 +42999,10 @@
     "title": "何红药 / He Hongyao",
     "url": "/wiki/entities/hehongyao/"
   },
+  "HeJiachen": {
+    "title": "何嘉琛 / He Jiachen",
+    "url": "/wiki/entities/hejiachen/"
+  },
   "HeJin": {
     "title": "何进 / He Jin",
     "url": "/wiki/entities/hejin/"
@@ -64283,6 +64295,10 @@
     "title": "Model Distillation Evidence",
     "url": "/wiki/concepts/modeldistillationevidence/"
   },
+  "ModelDistilledTaskMemory": {
+    "title": "Model-Distilled Task Memory / 模型蒸馏式任务记忆",
+    "url": "/wiki/concepts/modeldistilledtaskmemory/"
+  },
   "ModelFungibility": {
     "title": "Model Fungibility",
     "url": "/wiki/concepts/modelfungibility/"
@@ -69402,6 +69418,10 @@
   "OrganisedCrimeStatePenetration": {
     "title": "Organised Crime State Penetration",
     "url": "/wiki/concepts/organisedcrimestatepenetration/"
+  },
+  "OrganizationalAgentLearning": {
+    "title": "Organizational Agent Learning / 组织级智能体学习",
+    "url": "/wiki/concepts/organizationalagentlearning/"
   },
   "OrganizationalContext": {
     "title": "Organizational Context",
@@ -110466,6 +110486,10 @@
   "ljbtvkfckw2lb-nykriz05lq35wz": {
     "title": "053 科幻外衣下的社会寓言｜大话卫斯理之《头发》",
     "url": "/wiki/sources/ljbtvkfckw2lb-nykriz05lq35wz/"
+  },
+  "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax": {
+    "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+    "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
   },
   "ljo_jtvltplhazp-rjtttm-rip9h-ljo_jtvltplhazp-rjtttm-rip9h": {
     "title": "011 十六岁的那场烟花，与十六年的生死茫茫|漫话《神雕侠侣》之郭襄与小龙女",

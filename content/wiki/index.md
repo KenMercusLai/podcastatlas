@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax.md) — 42章经对话何嘉琛，以 AFFiNE 与 AFK 串联组织级 Agent 学习、共享企业记忆、任务轨迹蒸馏、岗位融合及动态软件预测。
 - [From Underdog to AI Advantage: Dean Graziosi on Purpose, Entrepreneurship, and Staying Human](sources/default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289.md) — Tomorrow Today interview on family-centered purpose, entrepreneurial persistence, context-rich AI assistance, bounded delegation, and reclaiming time without surrendering human responsibility.
 - [Jensen Ousted as Nvidia CEO: "Spy" Scandal, Export Restrictions, Market Impact](sources/allin-e297-ch-allin-e297-ch.md) — All-In separates chip-diversion, classified-leak, personal-conduct, and disclosure questions, then connects Nvidia succession and compute control to Anthropic's IPO, recursive self-improvement, and AI-safety scrutiny.
 - [Are wildfires making the future uninsurable?](sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861.md) — Planet Money follows Paradise from Camp Fire recovery into an insurance crisis shaped by correlated climate risk, residual coverage, weak mitigation recognition, and a limited private-market return.
@@ -5068,6 +5069,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 
 ## Entities
+- [AFK](entities/AFK.md) — 何嘉琛创办的企业级 Agent 公司，主张以共享而个性化的系统积累组织经验并蒸馏重复任务。
+- [AFFiNE](entities/AFFiNE.md) — 开源多模态工作空间，在何嘉琛的复盘中成为从固定编辑界面转向跨环境 Agent 的前序案例。
+- [何嘉琛 / He Jiachen](entities/HeJiachen.md) — AFFiNE 与 AFK 创业者，提出组织级共享 Agent、任务记忆蒸馏及角色融合等产品判断。
 - [Ivonescimab / 伊沃西](entities/Ivonescimab.md) — PD-1/VEGF bispecific case linking comparative oncology evidence, multinational trials, and indication-specific access.
 - [Dean Graziosi](entities/DeanGraziosi.md) — Entrepreneur and educator who connects adversity, family-centered purpose, time autonomy, and bounded AI augmentation.
 - [Tony Robbins](entities/TonyRobbins.md) — Self-development teacher represented here as Graziosi's early influence, later friend, and business partner.
@@ -19251,6 +19255,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Organizational Agent Learning / 组织级智能体学习](concepts/OrganizationalAgentLearning.md) — 共享企业 Agent 在权限与个体边界内跨员工、软件和流程复用经验并改进工作的能力主张。
+- [Model-Distilled Task Memory / 模型蒸馏式任务记忆](concepts/ModelDistilledTaskMemory.md) — 将强模型成功任务轨迹压缩为较小模型可低成本复现的模型级任务记忆。
 - [Innovation-Drug Translation System / 创新药转化系统](concepts/InnovationDrugTranslationSystem.md) — Linked scientific, engineering, clinical, regulatory, financial, legal, manufacturing, and commercial process turning a mechanism into patient treatment.
 - [Global Clinical-Trial Capability / 全球临床试验能力](concepts/GlobalClinicalTrialCapability.md) — Capacity to design and operate evidence generation across populations, hospitals, legal systems, ethics regimes, and approval markets.
 - [Clinical-Trial Adverse-Event Response / 临床试验不良反应处置](concepts/ClinicalTrialAdverseEventResponse.md) — Research-team capacity to recognize, escalate, treat, document, and learn from harm during experimental treatment.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3835
+topic_total_pages: 3838
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5438,6 +5438,9 @@ topic_entities:
   - key: "AetherAI"
     title: "Aether AI"
     url: "/wiki/entities/aetherai/"
+  - key: "AFK"
+    title: "AFK"
+    url: "/wiki/entities/afk/"
   - key: "Agan"
     title: "Agan"
     url: "/wiki/entities/agan/"
@@ -9137,6 +9140,9 @@ topic_entities:
   - key: "RenLifeng"
     title: "任立峰 / 卷卷"
     url: "/wiki/entities/renlifeng/"
+  - key: "HeJiachen"
+    title: "何嘉琛 / He Jiachen"
+    url: "/wiki/entities/hejiachen/"
   - key: "HeYunzhong"
     title: "何韵中 / He Yunzhong"
     url: "/wiki/entities/heyunzhong/"
@@ -11280,6 +11286,9 @@ topic_sources:
   - key: "zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu"
     title: "在科技时代，重新理解我们的爱、工作与生活"
     url: "/wiki/sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu/"
+  - key: "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax"
+    title: "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛"
+    url: "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
   - key: "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590"
     title: "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品"
     url: "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"

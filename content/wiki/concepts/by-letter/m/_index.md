@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11217
+wiki_total_pages: 11219
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1361,6 +1361,9 @@ wiki_pages:
   - key: "ModelWorkflowFit"
     title: "Model Workflow Fit"
     url: "/wiki/concepts/modelworkflowfit/"
+  - key: "ModelDistilledTaskMemory"
+    title: "Model-Distilled Task Memory / 模型蒸馏式任务记忆"
+    url: "/wiki/concepts/modeldistilledtaskmemory/"
   - key: "ModelInfraCoDesign"
     title: "Model-Infra Co-Design"
     url: "/wiki/concepts/modelinfracodesign/"

@@ -575,6 +575,38 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/afcchampionsleague/"
     },
+    "AFFiNE": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/affine/"
+    },
+    "AFK": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/afk/"
+    },
     "AFeiGuLong": {
       "episode_count": 1,
       "show_count": 1,
@@ -5140,9 +5172,9 @@
       "url": "/wiki/concepts/ainativenarrativeworlds/"
     },
     "AINativeRoleConvergence": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhQbAp06A7_S4DXOSNV6gDX1ZESx [lhQbAp06A7_S4DXOSNV6gDX1ZESx].md",
@@ -5150,9 +5182,16 @@
           "show": "罗永浩的十字路口",
           "title": "MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越",
           "url": "/wiki/sources/lhqbap06a7-s4dxosnv6gdx1zesx-lhqbap06a7-s4dxosnv6gdx1zesx/"
+        },
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
         }
       ],
-      "updated": "2026-10-10",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/ainativeroleconvergence/"
     },
     "AINativeVirtualIdol": {
@@ -94552,9 +94591,9 @@
       "url": "/wiki/concepts/enterpriseagentgovernance/"
     },
     "EnterpriseAgentMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
@@ -94576,9 +94615,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/enterpriseagentmemory/"
     },
     "EnterpriseAgentProductionEnvironment": {
@@ -132650,6 +132696,22 @@
       ],
       "updated": "2026-10-11",
       "url": "/wiki/entities/hehongyao/"
+    },
+    "HeJiachen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/hejiachen/"
     },
     "HeKui": {
       "episode_count": 3,
@@ -207268,6 +207330,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/modeldistillationevidence/"
     },
+    "ModelDistilledTaskMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/modeldistilledtaskmemory/"
+    },
     "ModelFungibility": {
       "episode_count": 2,
       "show_count": 1,
@@ -224239,6 +224317,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/organisedcrimestatepenetration/"
+    },
+    "OrganizationalAgentLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljFjTMoAfZYwI_agBwi1wZPgHCax [ljFjTMoAfZYwI_agBwi1wZPgHCax].md",
+          "key": "ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax",
+          "show": "42章经",
+          "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
+          "url": "/wiki/sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/organizationalagentlearning/"
     },
     "OrganizationalFairnessExitJudgment": {
       "episode_count": 1,

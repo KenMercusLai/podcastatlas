@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11217
+wiki_total_pages: 11219
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "OrganisedCrimeStatePenetration"
     title: "Organised Crime State Penetration"
     url: "/wiki/concepts/organisedcrimestatepenetration/"
+  - key: "OrganizationalAgentLearning"
+    title: "Organizational Agent Learning / 组织级智能体学习"
+    url: "/wiki/concepts/organizationalagentlearning/"
   - key: "OrganizationalContext"
     title: "Organizational Context"
     url: "/wiki/concepts/organizationalcontext/"
