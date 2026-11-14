@@ -65064,6 +65064,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/coverupescalation/"
     },
+    "Covering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641 [default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641].md",
+          "key": "default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641",
+          "show": "Hidden Brain",
+          "title": "Dropping the Mask",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/covering/"
+    },
     "CovertActionBlowback": {
       "episode_count": 1,
       "show_count": 1,
@@ -74708,9 +74724,9 @@
       "url": "/wiki/entities/delltechnologies/"
     },
     "Deloitte": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260917_0917_MP_TECH_pod_128 [tech_20260917_0917_MP_TECH_pod_128].md",
@@ -74718,9 +74734,16 @@
           "show": "Marketplace Tech",
           "title": "Insurers race to cover AI errors",
           "url": "/wiki/sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641 [default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641].md",
+          "key": "default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641",
+          "show": "Hidden Brain",
+          "title": "Dropping the Mask",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/deloitte/"
     },
     "DelphicOracle": {
@@ -167842,6 +167865,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kenjiyamamoto/"
+    },
+    "KenjiYoshino": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641 [default.mp3_ywr3ahjkcgo_b9a08666432cea3e0a417d731ebdaf41_104957641].md",
+          "key": "default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641",
+          "show": "Hidden Brain",
+          "title": "Dropping the Mask",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/kenjiyoshino/"
     },
     "KennedyAssassination": {
       "episode_count": 5,

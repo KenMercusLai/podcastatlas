@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11222
+wiki_total_pages: 11223
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2876,6 +2876,9 @@ wiki_pages:
   - key: "CoverUpEscalation"
     title: "Cover-Up Escalation"
     url: "/wiki/concepts/coverupescalation/"
+  - key: "Covering"
+    title: "Covering"
+    url: "/wiki/concepts/covering/"
   - key: "CovertActionBlowback"
     title: "Covert Action Blowback"
     url: "/wiki/concepts/covertactionblowback/"

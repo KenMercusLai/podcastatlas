@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dropping the Mask](sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641.md) — Hidden Brain and Kenji Yoshino distinguish conversion, passing, and covering, then test identity demands through harm, competing values, voluntary disclosure, and belonging.
 - [378-歌德如何看待通用人工智能](sources/378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa.md) — 独树不成林借歌德的扫帚、人造小人与填海工程区分指令失控、自主生成和人类目标本身的价值问题。
 - [From The Big Dig: Mitt & Ted](sources/from-the-big-dig-mitt-ted.md) — Revisionist History on Ted Kennedy's personal commitment to universal coverage, the lost 1974 Nixon compromise, and the Massachusetts-to-ACA reform lineage.
 - [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](sources/ljfjtmoafzywi-agbwi1wzpghcax-ljfjtmoafzywi-agbwi1wzpghcax.md) — 42章经对话何嘉琛，以 AFFiNE 与 AFK 串联组织级 Agent 学习、共享企业记忆、任务轨迹蒸馏、岗位融合及动态软件预测。
@@ -5071,6 +5072,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 
 ## Entities
+- [Kenji Yoshino](entities/KenjiYoshino.md) — Legal scholar who distinguishes conversion, passing, and covering and advocates contextual, voluntary uncovering.
 - [The Sorcerer's Apprentice / 《魔法师的学徒》](entities/TheSorcerersApprenticeGoethe.md) — Goethe poem used to distinguish literal obedience from safe stopping and correction.
 - [Goethe's Faust, Part Two / 歌德《浮士德》第二部](entities/GoethesFaustPartTwo.md) — Drama linking artificial life, self-directed development, and the human cost of abstract progress.
 - [Homunculus in Goethe's Faust / 歌德《浮士德》中的人造小人](entities/HomunculusGoethe.md) — Artificial thinker whose departure and search for embodiment separate intelligence from complete life.
@@ -19263,6 +19265,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Covering](concepts/Covering.md) — Behavioral minimization of a known identity, evaluated through harm, legitimate competing values, power, and disclosure agency.
 - [AI Control and Corrigibility / AI 控制与可纠正性](concepts/AIControlAndCorrigibility.md) — Distinguishes specification, intervention, shutdown, and containment of consequences.
 - [Artificial Life Generation Boundary / 人工生命的制造—生成边界](concepts/ArtificialLifeGenerationBoundary.md) — Separates manufactured intelligence from embodied, self-directed development.
 - [Health-Reform Political Window](concepts/HealthReformPoliticalWindow.md) — Temporary alignment of demand, authority, incentives, personalities, and coalition tolerance that makes broad coverage reform possible but not inevitable.
