@@ -869,9 +869,15 @@
       "earliest_episode_date": "2026-10-08",
       "latest_episode_date": "2026-11-10",
       "latest_episode_file": "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        },
         {
           "key": "politics",
           "label": "Politics",
@@ -881,8 +887,8 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
         "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+        "From_The_Big_Dig_Mitt_Ted [From_The_Big_Dig_Mitt_Ted].md",
         "Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Adam_Grant_Live [Pals,_Allies,_and_Companions_Malcolm_Gladwell_and_Ada.md",
         "Wolfgang's_Law_-_Part_Two [Wolfgang's_Law_-_Part_Two].md"
       ]

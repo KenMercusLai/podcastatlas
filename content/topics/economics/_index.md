@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2401
+topic_total_pages: 2403
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3007,6 +3007,9 @@ topic_concepts:
   - key: "SoftwareFounderAutomotiveTransition"
     title: "Software Founder Automotive Transition / 软件创始人跨界造车"
     url: "/wiki/concepts/softwarefounderautomotivetransition/"
+  - key: "SoftwareSecurityIncentiveFailure"
+    title: "Software-Security Incentive Failure"
+    url: "/wiki/concepts/softwaresecurityincentivefailure/"
   - key: "SouthFloridaTechMigration"
     title: "South Florida Tech Migration"
     url: "/wiki/concepts/southfloridatechmigration/"
@@ -4835,6 +4838,9 @@ topic_entities:
   - key: "ManchesterUnited"
     title: "Manchester United"
     url: "/wiki/entities/manchesterunited/"
+  - key: "ManishSharmaWellsFargo"
+    title: "Manish Sharma (Wells Fargo)"
+    url: "/wiki/entities/manishsharmawellsfargo/"
   - key: "MantisVC"
     title: "Mantis"
     url: "/wiki/entities/mantisvc/"

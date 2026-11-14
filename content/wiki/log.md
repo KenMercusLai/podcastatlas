@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-11-15] ingest | The $5 Billion Effort to Help Secure the World’s Shared Software
+
+Added source `the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared`; created [[ProjectLightwell]], [[RedHat|Red Hat]], [[WellsFargo|Wells Fargo]], [[ManishSharmaWellsFargo|Manish Sharma]], [[GunnarHellekson|Gunnar Hellekson]], [[JenEasterly]], [[OpenSourceSoftwareSecurity]], [[SoftwareSecurityIncentiveFailure]], and [[SharedOpenSourceDefense]]; and resynthesized [[IBM]] and [[AIEnabledVulnerabilityDiscovery]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: AI can accelerate both discovery and repair, but findings become security only through validation, maintainer coordination, compatible fixes, deployment, and monitoring; industrial dependence on small open-source maintenance teams creates an incentive and capacity gap; and pooled remediation can reduce duplicated private forks only when upstream agency, disclosure safety, independent validation, and measurable production outcomes are preserved. No settled contradiction was adopted. The $5 billion commitment, 20,000-person aspiration, nearly 3,900 findings, discovery-speed compression, repair-throughput gain, participation, and long-term defender advantage remain episode-reported because the supplied file is a structured summary of paid IBM content rather than a transcript, benchmark, contract, technical audit, or independent evaluation. Broad [[Anthropic]], [[MythosAISecurityTest]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,949 sources across 809 overview paragraphs and nine topics.
+
 ## [2026-11-15] ingest | Dropping the Mask
 
 Added source `default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641`; created [[KenjiYoshino]] and [[Covering]]; and resynthesized [[Deloitte]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: conversion changes an identity, passing hides it, and covering behaviorally minimizes an identity that others already know; covering becomes harmful when dignity, opportunity, or belonging depends on a more socially comfortable performance, but privacy, safety, civility, affection, cooperation, or empathy can justify contextual self-modulation; and uncovering should expand disclosure agency through modeling, stories, allies, and trust rather than compel exposure. No settled contradiction was adopted. Survey percentages, legal and political claims, historical examples, motives, and personal outcomes remain episode-reported because the supplied file is a structured summary rather than a transcript, survey report, legal analysis, archival record, or independent evaluation. Broad psychological-safety, DEI, show, historical-person, and automatic `wiki/overview.md` pages were kept closed because the focused pages capture the changed judgments without reopening larger unchanged evidence inventories or manually rewriting derived synthesis. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,948 sources across 809 overview paragraphs and nine topics.
@@ -39521,6 +39525,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-15] ingest | 378-歌德如何看待通用人工智能
 
 Added the source note and connected Goethe's broom, Homunculus, and Faust's land-reclamation project to control and corrigibility, artificial-life generation, and the boundary between technical execution and worthy human goals.
+
+## [2026-11-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-15] lint | Wiki health check
 

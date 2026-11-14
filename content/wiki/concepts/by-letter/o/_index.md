@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 11223
+wiki_total_pages: 11226
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "OpenSourceReviewBottleneck"
     title: "Open-Source Review Bottleneck"
     url: "/wiki/concepts/opensourcereviewbottleneck/"
+  - key: "OpenSourceSoftwareSecurity"
+    title: "Open-Source Software Security"
+    url: "/wiki/concepts/opensourcesoftwaresecurity/"
   - key: "OpenWeightCommercialLicensing"
     title: "Open-Weight Commercial Licensing"
     url: "/wiki/concepts/openweightcommerciallicensing/"

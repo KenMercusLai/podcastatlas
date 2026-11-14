@@ -41455,6 +41455,10 @@
     "title": "Gumroad",
     "url": "/wiki/entities/gumroad/"
   },
+  "GunnarHellekson": {
+    "title": "Gunnar Hellekson",
+    "url": "/wiki/entities/gunnarhellekson/"
+  },
   "GunpowderPlot": {
     "title": "Gunpowder Plot",
     "url": "/wiki/concepts/gunpowderplot/"
@@ -50126,6 +50130,10 @@
   "Jellycat": {
     "title": "Jellycat",
     "url": "/wiki/entities/jellycat/"
+  },
+  "JenEasterly": {
+    "title": "Jen Easterly",
+    "url": "/wiki/entities/jeneasterly/"
   },
   "JenHerbach": {
     "title": "Jen Herbach",
@@ -60463,6 +60471,10 @@
     "title": "Manifest Destiny",
     "url": "/wiki/concepts/manifestdestiny/"
   },
+  "ManishSharmaWellsFargo": {
+    "title": "Manish Sharma (Wells Fargo)",
+    "url": "/wiki/entities/manishsharmawellsfargo/"
+  },
   "ManiusAquillius": {
     "title": "Manius Aquillius / 马尼乌斯·阿奎利乌斯",
     "url": "/wiki/entities/maniusaquillius/"
@@ -69075,6 +69087,10 @@
     "title": "Open Source Robot Platform Strategy",
     "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
   },
+  "OpenSourceSoftwareSecurity": {
+    "title": "Open-Source Software Security",
+    "url": "/wiki/concepts/opensourcesoftwaresecurity/"
+  },
   "OpenSourceStartupCostCollapse": {
     "title": "Open Source Startup Cost Collapse",
     "url": "/wiki/concepts/opensourcestartupcostcollapse/"
@@ -75171,6 +75187,10 @@
     "title": "Project Glasswing",
     "url": "/wiki/entities/projectglasswing/"
   },
+  "ProjectLightwell": {
+    "title": "Project Lightwell",
+    "url": "/wiki/entities/projectlightwell/"
+  },
   "ProjectNix": {
     "title": "Project Nix",
     "url": "/wiki/entities/projectnix/"
@@ -77938,6 +77958,10 @@
   "RedGuards": {
     "title": "Red Guards",
     "url": "/wiki/entities/redguards/"
+  },
+  "RedHat": {
+    "title": "Red Hat",
+    "url": "/wiki/entities/redhat/"
   },
   "RedHeadShips": {
     "title": "Red Head Ships / 红头船",
@@ -83875,6 +83899,10 @@
     "title": "Shared-Life Fiction Ethics / 共同生活的虚构伦理",
     "url": "/wiki/concepts/sharedlifefictionethics/"
   },
+  "SharedOpenSourceDefense": {
+    "title": "Shared Open-Source Defense",
+    "url": "/wiki/concepts/sharedopensourcedefense/"
+  },
   "SharedPainTechnologyBoundary": {
     "title": "Shared Pain Technology Boundary / 痛苦平摊技术边界",
     "url": "/wiki/concepts/sharedpaintechnologyboundary/"
@@ -85958,6 +85986,10 @@
   "SoftwarePaymentCulture": {
     "title": "Software Payment Culture",
     "url": "/wiki/concepts/softwarepaymentculture/"
+  },
+  "SoftwareSecurityIncentiveFailure": {
+    "title": "Software-Security Incentive Failure",
+    "url": "/wiki/concepts/softwaresecurityincentivefailure/"
   },
   "SogdianRock": {
     "title": "Sogdian Rock / 粟特岩堡",
@@ -98146,6 +98178,10 @@
   "WellingtonManagement": {
     "title": "Wellington Management",
     "url": "/wiki/entities/wellingtonmanagement/"
+  },
+  "WellsFargo": {
+    "title": "Wells Fargo",
+    "url": "/wiki/entities/wellsfargo/"
   },
   "WelshLanguageShift": {
     "title": "Welsh Language Shift",
@@ -112890,6 +112926,10 @@
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
     "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+  },
+  "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared": {
+    "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+    "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
   },
   "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": {
     "title": "The Art of True Happiness | Dr. Arthur Brooks",

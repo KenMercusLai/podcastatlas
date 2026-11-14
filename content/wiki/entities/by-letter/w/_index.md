@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 14100
+wiki_total_pages: 14106
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "WellingtonManagement"
     title: "Wellington Management"
     url: "/wiki/entities/wellingtonmanagement/"
+  - key: "WellsFargo"
+    title: "Wells Fargo"
+    url: "/wiki/entities/wellsfargo/"
   - key: "WeMade"
     title: "WeMade"
     url: "/wiki/entities/wemade/"

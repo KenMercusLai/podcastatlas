@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14100
+wiki_total_pages: 14106
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "ProjectGlasswing"
     title: "Project Glasswing"
     url: "/wiki/entities/projectglasswing/"
+  - key: "ProjectLightwell"
+    title: "Project Lightwell"
+    url: "/wiki/entities/projectlightwell/"
   - key: "ProjectNix"
     title: "Project Nix"
     url: "/wiki/entities/projectnix/"

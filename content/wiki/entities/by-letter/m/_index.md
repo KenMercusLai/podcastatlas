@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 14100
+wiki_total_pages: 14106
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "ManhattanProject"
     title: "Manhattan Project"
     url: "/wiki/entities/manhattanproject/"
+  - key: "ManishSharmaWellsFargo"
+    title: "Manish Sharma (Wells Fargo)"
+    url: "/wiki/entities/manishsharmawellsfargo/"
   - key: "ManiSkill"
     title: "ManiSkill"
     url: "/wiki/entities/maniskill/"

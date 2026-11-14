@@ -3395,9 +3395,9 @@
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
     "AIEnabledVulnerabilityDiscovery": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
@@ -3440,9 +3440,16 @@
           "show": "科技乱炖",
           "title": "一场 PHP 漏洞引发的全球恐慌，AI 正在如何改变黑客攻防战？",
           "url": "/wiki/sources/24354fbed76f-24354fbed76f/"
+        },
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
         }
       ],
-      "updated": "2026-10-30",
+      "updated": "2026-11-15",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEntertainmentParticipationDesign": {
@@ -126578,6 +126585,22 @@
       "updated": "2026-11-06",
       "url": "/wiki/entities/guming/"
     },
+    "GunnarHellekson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/gunnarhellekson/"
+    },
     "GunpowderPlot": {
       "episode_count": 2,
       "show_count": 1,
@@ -146354,9 +146377,9 @@
       "url": "/wiki/concepts/ibdpatienteducationandpeersupport/"
     },
     "IBM": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
@@ -146378,9 +146401,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
           "url": "/wiki/sources/88-audio-nikesharvink-88-audio-nikesharvink/"
+        },
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
         }
       ],
-      "updated": "2026-10-22",
+      "updated": "2026-11-15",
       "url": "/wiki/entities/ibm/"
     },
     "IBMDataStage": {
@@ -159421,6 +159451,22 @@
       ],
       "updated": "2026-10-12",
       "url": "/wiki/entities/jeffreylau/"
+    },
+    "JenEasterly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/jeneasterly/"
     },
     "JenaRomanticism": {
       "episode_count": 1,
@@ -194810,6 +194856,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/manifestdestiny/"
     },
+    "ManishSharmaWellsFargo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/manishsharmawellsfargo/"
+    },
     "ManiusAquillius": {
       "episode_count": 2,
       "show_count": 1,
@@ -223419,6 +223481,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
     },
+    "OpenSourceSoftwareSecurity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/opensourcesoftwaresecurity/"
+    },
     "OpenWebTrafficDecline": {
       "episode_count": 8,
       "show_count": 4,
@@ -244012,6 +244090,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/projectglasswing/"
     },
+    "ProjectLightwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/projectlightwell/"
+    },
     "ProjectionsBook": {
       "episode_count": 3,
       "show_count": 2,
@@ -251969,6 +252063,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/redguards/"
+    },
+    "RedHat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/redhat/"
     },
     "RedMage": {
       "episode_count": 1,
@@ -271528,6 +271638,22 @@
       "updated": "2026-10-27",
       "url": "/wiki/concepts/sharedlifefictionethics/"
     },
+    "SharedOpenSourceDefense": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/sharedopensourcedefense/"
+    },
     "SharedPainTechnologyBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -279118,6 +279244,22 @@
       ],
       "updated": "2026-10-15",
       "url": "/wiki/concepts/softwaremoatbeyondfeatures/"
+    },
+    "SoftwareSecurityIncentiveFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/concepts/softwaresecurityincentivefailure/"
     },
     "SogdianRock": {
       "episode_count": 1,
@@ -317750,6 +317892,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/welcometomilelevillage/"
+    },
+    "WellsFargo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_Software [The_5_Billion_Effort_to_help_Secure_the_World_s_Shared_.md",
+          "key": "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared",
+          "show": "Revisionist History",
+          "title": "The $5 Billion Effort to Help Secure the World’s Shared Software",
+          "url": "/wiki/sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared/"
+        }
+      ],
+      "updated": "2026-11-15",
+      "url": "/wiki/entities/wellsfargo/"
     },
     "WelshLanguageShift": {
       "episode_count": 1,

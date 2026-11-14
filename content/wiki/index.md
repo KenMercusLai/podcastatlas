@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The $5 Billion Effort to Help Secure the World’s Shared Software](sources/the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared.md) — Sponsored Revisionist History episode on Project Lightwell, open-source maintenance incentives, AI-accelerated vulnerability discovery, and pooled repair.
 - [Dropping the Mask](sources/default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641-default-mp3-ywr3ahjkcgo-b9a08666432cea3e0a417d731ebdaf41-104957641.md) — Hidden Brain and Kenji Yoshino distinguish conversion, passing, and covering, then test identity demands through harm, competing values, voluntary disclosure, and belonging.
 - [378-歌德如何看待通用人工智能](sources/378-gede-ruhe-kandai-tongyong-rengong-zhineng-lp2zydrd_nxvglwfojhf443i_wwa.md) — 独树不成林借歌德的扫帚、人造小人与填海工程区分指令失控、自主生成和人类目标本身的价值问题。
 - [From The Big Dig: Mitt & Ted](sources/from-the-big-dig-mitt-ted.md) — Revisionist History on Ted Kennedy's personal commitment to universal coverage, the lost 1974 Nixon compromise, and the Massachusetts-to-ACA reform lineage.
@@ -5072,6 +5073,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 
 ## Entities
+- [Project Lightwell](entities/ProjectLightwell.md) — IBM–Red Hat initiative presented as a $5 billion clearinghouse for shared open-source vulnerability repair.
+- [Red Hat](entities/RedHat.md) — Open-source enterprise-software company presented as IBM's Project Lightwell co-sponsor and community intermediary.
+- [Wells Fargo](entities/WellsFargo.md) — Financial institution represented as an early shared-defense participant using AI-assisted remediation.
+- [Manish Sharma (Wells Fargo)](entities/ManishSharmaWellsFargo.md) — CISO connecting accelerated discovery to automated remediation and pooled open-source repair.
+- [Gunnar Hellekson](entities/GunnarHellekson.md) — Red Hat representative explaining open-source licensing, dependency fragility, and Project Lightwell.
+- [Jen Easterly](entities/JenEasterly.md) — Security leader framing cybersecurity as a software-quality and incentive problem.
 - [Kenji Yoshino](entities/KenjiYoshino.md) — Legal scholar who distinguishes conversion, passing, and covering and advocates contextual, voluntary uncovering.
 - [The Sorcerer's Apprentice / 《魔法师的学徒》](entities/TheSorcerersApprenticeGoethe.md) — Goethe poem used to distinguish literal obedience from safe stopping and correction.
 - [Goethe's Faust, Part Two / 歌德《浮士德》第二部](entities/GoethesFaustPartTwo.md) — Drama linking artificial life, self-directed development, and the human cost of abstract progress.
@@ -15883,7 +15890,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [David Ellison](entities/DavidEllison.md) — Skydance founder and Paramount leader whose media role is extended by the Ellison family capital and regulatory-access story.
 - [Skydance](entities/Skydance.md) — David Ellison's media company, moving from co-financed production into debt-heavy Paramount and source-reported Warner Bros. Discovery control.
 - [Oracle](entities/Oracle.md) — Enterprise database and AI cloud company extended here from database lock-in into Stargate, U.S. TikTok, and political-regulatory leverage.
-- [IBM](entities/IBM.md) — Computing company connecting historical data-system responsibility, missed database commercialization, and the durability and limits of selective stack integration.
+- [IBM](entities/IBM.md) — Computing company connecting historical data-system responsibility, database commercialization, selective stack integration, and sponsored shared-software defense.
 - [Top Gun: Maverick](entities/TopGunMaverick.md) — Skydance franchise hit used as David Ellison's credibility proof before larger media-control deals.
 - [Stargate AI Infrastructure](entities/StargateAIInfrastructure.md) — U.S. AI infrastructure plan used by the source to link Oracle, OpenAI, Trump, and strategic compute access.
 - [CBS](entities/CBS.md) — Paramount-linked broadcast/news asset used in the episode's media-ownership independence concern.
@@ -19265,6 +19272,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Open-Source Software Security](concepts/OpenSourceSoftwareSecurity.md) — Capacity to fund, validate, coordinate, distribute, and sustain protections across shared code and its users.
+- [Software-Security Incentive Failure](concepts/SoftwareSecurityIncentiveFailure.md) — Misalignment created by hard-to-observe quality, shifted downstream costs, and under-resourced maintainers.
+- [Shared Open-Source Defense](concepts/SharedOpenSourceDefense.md) — Pooled vulnerability intelligence and repair that returns validated fixes to participants and upstream communities.
 - [Covering](concepts/Covering.md) — Behavioral minimization of a known identity, evaluated through harm, legitimate competing values, power, and disclosure agency.
 - [AI Control and Corrigibility / AI 控制与可纠正性](concepts/AIControlAndCorrigibility.md) — Distinguishes specification, intervention, shutdown, and containment of consequences.
 - [Artificial Life Generation Boundary / 人工生命的制造—生成边界](concepts/ArtificialLifeGenerationBoundary.md) — Separates manufactured intelligence from embodied, self-directed development.
@@ -24996,7 +25006,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google AI Token Price Leverage](concepts/GoogleAITokenPriceLeverage.md) — Source-scoped thesis that Google could cut Gemini token prices to pressure OpenAI and Anthropic business models.
 - [AI Atari Stage](concepts/AIAtariStage.md) — Maris's analogy that today's AI interfaces resemble early command-line games: impressive but primitive in memory, consistency, persistence, and control surfaces.
 - [Public-Benefit Private Value Capture](concepts/PublicBenefitPrivateValueCapture.md) — Critique of companies claiming broad public benefit while keeping most financial upside private and later shifting valuation risk to public or retirement-account buyers.
-- [AI-Enabled Vulnerability Discovery](concepts/AIEnabledVulnerabilityDiscovery.md) — Dual-use security capability whose value depends on triage, reproducibility, patch validation, trusted sharing, and remediation speed.
+- [AI-Enabled Vulnerability Discovery](concepts/AIEnabledVulnerabilityDiscovery.md) — Dual-use capability whose value depends on validation, remediation speed, maintainer coordination, and safe distribution of fixes.
 - [Analytical SaaS Compression](concepts/AnalyticalSaaSCompression.md) — Nikesh Arora's thesis that AI and customer-owned data pressure SaaS products whose value is mainly data collection and analysis.
 - [Infrastructure Software Revaluation](concepts/InfrastructureSoftwareRevaluation.md) — Counter-thesis that databases, storage, and data infrastructure gain value as AI increases enterprise context, memory, and security data needs.
 - [Enterprise Security Data Expansion](concepts/EnterpriseSecurityDataExpansion.md) — Need for much broader cybersecurity telemetry, history, and context as AI-enabled attackers compress discovery and exploitation timelines.

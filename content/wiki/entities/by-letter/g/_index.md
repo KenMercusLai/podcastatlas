@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 14100
+wiki_total_pages: 14106
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "Gumroad"
     title: "Gumroad"
     url: "/wiki/entities/gumroad/"
+  - key: "GunnarHellekson"
+    title: "Gunnar Hellekson"
+    url: "/wiki/entities/gunnarhellekson/"
   - key: "GuoLanying"
     title: "Guo Lanying"
     url: "/wiki/entities/guolanying/"

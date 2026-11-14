@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 11223
+wiki_total_pages: 11226
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "SharedHousingRevival"
     title: "Shared Housing Revival"
     url: "/wiki/concepts/sharedhousingrevival/"
+  - key: "SharedOpenSourceDefense"
+    title: "Shared Open-Source Defense"
+    url: "/wiki/concepts/sharedopensourcedefense/"
   - key: "SharedPainTechnologyBoundary"
     title: "Shared Pain Technology Boundary / 痛苦平摊技术边界"
     url: "/wiki/concepts/sharedpaintechnologyboundary/"
@@ -1559,6 +1562,9 @@ wiki_pages:
   - key: "SoftwareDefinedVehicle"
     title: "Software-Defined Vehicle / 软件定义汽车"
     url: "/wiki/concepts/softwaredefinedvehicle/"
+  - key: "SoftwareSecurityIncentiveFailure"
+    title: "Software-Security Incentive Failure"
+    url: "/wiki/concepts/softwaresecurityincentivefailure/"
   - key: "SolaFideGrace"
     title: "Sola Fide and Grace"
     url: "/wiki/concepts/solafidegrace/"

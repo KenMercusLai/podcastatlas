@@ -44939,6 +44939,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GunnarHellekson": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GunterGrass": [
     {
       "key": "politics",
@@ -53086,6 +53093,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "JenEasterly": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JenWhite": [
@@ -61313,6 +61332,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "ManishSharmaWellsFargo": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Manmulsang": [
     {
       "key": "technology",
@@ -69393,6 +69424,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "OpenSourceSoftwareSecurity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "OpenSourceStartupCostCollapse": [
     {
       "key": "technology",
@@ -75538,6 +75576,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ProjectLightwell": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ProjectionsBook": [
     {
       "key": "culture",
@@ -78262,6 +78307,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RedHat": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "RedMage": [
@@ -83779,6 +83831,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SharedOpenSourceDefense": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SharedPainTechnologyBoundary": [
     {
       "key": "technology",
@@ -85806,6 +85865,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SoftwareSecurityIncentiveFailure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "SolarGeoengineering": [
@@ -98503,6 +98574,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "WellsFargo": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "WelshLanguageShift": [
@@ -113341,6 +113419,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "the-5-billion-effort-to-help-secure-the-world-s-shared-software-the-5-billion-effort-to-help-secure-the-world-s-shared": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": [

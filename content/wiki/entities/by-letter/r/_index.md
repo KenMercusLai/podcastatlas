@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14100
+wiki_total_pages: 14106
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "RedGuards"
     title: "Red Guards"
     url: "/wiki/entities/redguards/"
+  - key: "RedHat"
+    title: "Red Hat"
+    url: "/wiki/entities/redhat/"
   - key: "RedSea"
     title: "Red Sea"
     url: "/wiki/entities/redsea/"
