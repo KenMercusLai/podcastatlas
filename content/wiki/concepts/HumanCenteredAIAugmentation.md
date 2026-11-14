@@ -5,7 +5,8 @@ tags: [ai, augmentation, agency, governance]
 sources:
   - using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040
   - how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069
-last_updated: 2026-10-12
+  - default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289
+last_updated: 2026-11-14
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The Fei-Fei Li episode makes augmentation both a technical and civic principle. 
 
 A complementary scientific-workflow account treats language models as idea generators, search and comparison aids, prediction tools, or clinical partners. Their advantage can differ from human expertise—for example, broader exposure to rare cases—so combined performance may exceed either alone. Augmentation still requires experts to test hypotheses, evaluate evidence, recognize context, and remain accountable for consequential decisions, as illustrated in [[how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069]].
 
+A small-business and life-design version makes the operating boundary concrete. [[ContextRichAIPartnership]] can remove repetitive work and broaden deliberation, but [[HumanAIDelegationBoundary]] keeps review, leadership, intimate relationship, and final consequential choice with people. In this version, augmentation succeeds when recovered time returns to meaningful work or family rather than when automation merely increases output, as illustrated in [[default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289]].
+
 ## Key Claims
 - AI should expand human agency and dignity rather than remove motivation, authorship, responsibility, or public voice.
 - Augmentation depends on the user's or institution's purpose: a model is more useful when people know what they want to learn, make, diagnose, or govern.
@@ -26,6 +29,7 @@ A complementary scientific-workflow account treats language models as idea gener
 - Teachers, parents, students, creators, clinicians, and the public are not downstream users only; they are stakeholders in whether AI use remains human-centered.
 - The augmentation frame rejects both doom-only and utopian narratives because both can crowd out concrete human problems and institutional responsibilities.
 - Complementarity can arise when models and experts have different error patterns, but combined performance is not automatic.
+- Reclaimed time, preserved relationships, and retained decision ownership are legitimate measures of augmentation alongside accuracy or throughput.
 
 ## Evidence
 - Agency evidence: [[using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040]] records Li arguing that AI should support human agency, motivation, and dignity rather than take them away.
@@ -35,13 +39,15 @@ A complementary scientific-workflow account treats language models as idea gener
 - Creative evidence: [[using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040]] presents AI video and [[WorldLabs]] as creator-supporting tools whose value still depends on human storytelling, emotion, and technique.
 - Research evidence: [[how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069]] presents LLMs as "idea pumps" that can suggest experiments and help compare literature, with proposals still requiring testing.
 - Clinical complementarity: [[how-to-improve-at-learning-using-neuroscience-ai-dr-terry-sejnowski-scim2892046069]] reports a dermatology example in which doctors and AI perform better together, while the exact figures remain source-scoped.
+- Small-business augmentation: [[default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289]] reports context-rich workflows for administration, training, billing, strategy, and family-care deliberation while leaving review and decisions with people.
 
 ## Counterevidence & Qualifications
-These sources provide a human-centered argument, not a guarantee that every AI deployment will preserve agency or improve performance. Augmentation can fail when tools become answer machines, errors correlate rather than complement one another, automation bias overrides expert dissent, institutions use AI to avoid responsibility, or private companies define public norms without participation. The dermatology percentages and research-workflow examples are episode-reported and lack full methods in the supplied notes.
+These sources provide a human-centered argument, not a guarantee that every AI deployment will preserve agency or improve performance. Augmentation can fail when tools become answer machines, errors correlate rather than complement one another, automation bias overrides expert dissent, institutions use AI to avoid responsibility, or private companies define public norms without participation. The dermatology percentages, research-workflow examples, claimed time savings, health inference, and business outcomes are episode-reported and lack full methods or independent validation in the supplied notes.
 
 ## What Changed
-- Added complementary-error and expert-verification requirements from Sejnowski's research and medicine examples.
-- Extended the concept from agency-centered design to hypothesis generation and evidence synthesis.
+- Added context-rich small-business workflows as an operational form of augmentation.
+- Added reclaimed time and preserved human relationship as outcome measures.
+- Strengthened the boundary around intimate, authored, and consequential work.
 
 ## Related Concepts
 - [[AIAssistantAugmentation]] - everyday task-assistant version of the same human-led tool stance.
@@ -51,3 +57,5 @@ These sources provide a human-centered argument, not a guarantee that every AI d
 - [[MedicalAIRobotCollaborationBoundary]] - medical and surgical version where augmentation must remain clinician-led.
 - [[AICreativeCollaboration]] - creative-work version where AI broadens options but humans retain authorship and taste.
 - [[AIGovernanceAndCompliance]] - institutional rule layer needed when AI affects public rights and safety.
+- [[ContextRichAIPartnership]] - operating pattern for supplying relevant context without transferring final authority.
+- [[HumanAIDelegationBoundary]] - task boundary that distinguishes burden removal from human substitution.

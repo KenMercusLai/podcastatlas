@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 14087
+wiki_total_pages: 14089
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "DealeyPlaza"
     title: "Dealey Plaza"
     url: "/wiki/entities/dealeyplaza/"
+  - key: "DeanGraziosi"
+    title: "Dean Graziosi"
+    url: "/wiki/entities/deangraziosi/"
   - key: "DeathOfASalesman"
     title: "Death of a Salesman / 《推销员之死》"
     url: "/wiki/entities/deathofasalesman/"

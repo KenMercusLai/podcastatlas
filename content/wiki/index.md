@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [From Underdog to AI Advantage: Dean Graziosi on Purpose, Entrepreneurship, and Staying Human](sources/default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289.md) — Tomorrow Today interview on family-centered purpose, entrepreneurial persistence, context-rich AI assistance, bounded delegation, and reclaiming time without surrendering human responsibility.
 - [Jensen Ousted as Nvidia CEO: "Spy" Scandal, Export Restrictions, Market Impact](sources/allin-e297-ch-allin-e297-ch.md) — All-In separates chip-diversion, classified-leak, personal-conduct, and disclosure questions, then connects Nvidia succession and compute control to Anthropic's IPO, recursive self-improvement, and AI-safety scrutiny.
 - [Are wildfires making the future uninsurable?](sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861.md) — Planet Money follows Paradise from Camp Fire recovery into an insurance crisis shaped by correlated climate risk, residual coverage, weak mitigation recognition, and a limited private-market return.
 - [《资治通鉴·汉纪》1159丨为什么曹植争不过曹丕？](sources/zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp.md) — 芮淇讲透资治通鉴以贾诩的间接劝谏、曹丕的低失误等待、吴质的情感应对及辛宪英的胜后警告，讨论才华、团队、自制与政治托付。
@@ -5066,6 +5067,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Dean Graziosi](entities/DeanGraziosi.md) — Entrepreneur and educator who connects adversity, family-centered purpose, time autonomy, and bounded AI augmentation.
+- [Tony Robbins](entities/TonyRobbins.md) — Self-development teacher represented here as Graziosi's early influence, later friend, and business partner.
 - [Heidi Lang](entities/HeidiLang.md) — Paradise resident and council member connecting Camp Fire recovery, hardened rebuilding, property-data error, and insurance access.
 - [Jenny Goodland](entities/JennyGoodland.md) — Recovery organizer who connected community mitigation and direct insurer engagement to Paradise's reconstruction.
 - [Paradise, California](entities/ParadiseCalifornia.md) — Camp Fire recovery case linking resilient rebuilding, private-insurance withdrawal, and local economic recovery.
@@ -19246,6 +19249,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Context-Rich AI Partnership](concepts/ContextRichAIPartnership.md) — Practice of supplying task-relevant goals, values, history, constraints, and domain information while retaining human review and final decisions.
+- [Human–AI Delegation Boundary](concepts/HumanAIDelegationBoundary.md) — Values- and stakes-based separation between delegable burdens and human-retained judgment, authorship, responsibility, and relationship.
 - [Founder-Led Platform Succession Risk](concepts/FounderLedPlatformSuccessionRisk.md) — Ecosystem risk when a founder concentrates technical roadmaps, capital allocation, counterparties, and platform legitimacy.
 - [Compute-Control Centralization Risk](concepts/ComputeControlCentralizationRisk.md) — Surveillance, misuse, and single-point risk created when chip telemetry or remote-disable authority is centrally controlled.
 - [AI-Safety Scrutiny Consistency](concepts/AISafetyScrutinyConsistency.md) — Principle that comparable capability, concentration, and release risks receive transparent, evidence-based treatment across organizations and architectures.

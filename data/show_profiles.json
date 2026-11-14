@@ -1186,14 +1186,14 @@
       "earliest_episode_date": "2026-08-25",
       "latest_episode_date": "2026-11-14",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_1494ab5d2012cd68fae781b1524f488f_88140289 [default.mp3_ywr3ahjkcgo_1494ab5d2012cd68fae781b1524f488f_88140289].md",
-      "source_note_count": 24,
-      "topic_matched_source_note_count": 20,
+      "source_note_count": 25,
+      "topic_matched_source_note_count": 21,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "politics",
@@ -1211,15 +1211,15 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 1
+          "source_note_count": 2
         }
       ],
       "entities": [],
       "start_here_episode_files": [
-        "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md",
+        "default.mp3_ywr3ahjkcgo_1494ab5d2012cd68fae781b1524f488f_88140289 [default.mp3_ywr3ahjkcgo_1494ab5d2012cd68fae781b1524f488f_88140289].md",
         "default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176 [default.mp3_ywr3ahjkcgo_6d2e35db114ec311e40e28811db235eb_30651176].md",
         "default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634 [default.mp3_ywr3ahjkcgo_46737d7a8d9d9f10b8b002c9b1c7913a_43634634].md",
-        "default.mp3_ywr3ahjkcgo_1494ab5d2012cd68fae781b1524f488f_88140289 [default.mp3_ywr3ahjkcgo_1494ab5d2012cd68fae781b1524f488f_88140289].md"
+        "default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679 [default.mp3_ywr3ahjkcgo_f627a6ffa1322b3e7fd3b466e8b10749_62499679].md"
       ]
     },
     "What's Next｜科技早知道": {

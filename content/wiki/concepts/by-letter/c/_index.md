@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11212
+wiki_total_pages: 11214
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2534,6 +2534,9 @@ wiki_pages:
   - key: "ContextDependentSocialHormoneEffects"
     title: "Context-Dependent Social Hormone Effects"
     url: "/wiki/concepts/contextdependentsocialhormoneeffects/"
+  - key: "ContextRichAIPartnership"
+    title: "Context-Rich AI Partnership"
+    url: "/wiki/concepts/contextrichaipartnership/"
   - key: "ContextStrippedWildlifeImage"
     title: "Context-Stripped Wildlife Image / 低语境野生动物图像"
     url: "/wiki/concepts/contextstrippedwildlifeimage/"

@@ -39474,3 +39474,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-11-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-14] ingest | From Underdog to AI Advantage: Dean Graziosi on Purpose, Entrepreneurship, and Staying Human
+
+Added source `default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289`; created [[DeanGraziosi]], [[TonyRobbins]], [[ContextRichAIPartnership]], and [[HumanAIDelegationBoundary]]; and resynthesized [[HumanCenteredAIAugmentation]], [[HumanAccountabilityForAIAgents]], [[HumanLeadershipUnderAI]], and [[PurposeIntegratedMotivation]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: purpose can connect difficult effort to family responsibility and renewed choice; context-rich AI can remove repetitive work and broaden deliberation; and useful delegation retains human review, leadership, intimate relationship, authorship, and consequential decisions while treating reclaimed time as an outcome.
+
+No settled contradiction was adopted. AI-risk optimism, employment and economic forecasts, business outcomes, hours saved, adoption patterns, remembered dialogue, biographical causality, and the personal health example remain episode-attributed or anecdotal because the supplied file is a structured summary rather than independent technical, clinical, labor-market, or financial evidence. Broad [[HumanJudgmentUnderAI]], [[HumanConnectionUnderAI]], [[HumanAgencyUnderAI]], [[ArthurBrooks]], and [[MarkBenioff]] pages were kept closed because the new source only mentions or overlaps them and does not justify reopening their much larger evidence inventories. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,943 sources across 808 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

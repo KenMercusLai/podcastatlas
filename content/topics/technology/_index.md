@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3831
+topic_total_pages: 3835
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1813,6 +1813,9 @@ topic_concepts:
   - key: "ContextInfrastructure"
     title: "Context Infrastructure"
     url: "/wiki/concepts/contextinfrastructure/"
+  - key: "ContextRichAIPartnership"
+    title: "Context-Rich AI Partnership"
+    url: "/wiki/concepts/contextrichaipartnership/"
   - key: "ContextualAgentAuthorization"
     title: "Contextual Agent Authorization"
     url: "/wiki/concepts/contextualagentauthorization/"
@@ -2971,6 +2974,9 @@ topic_concepts:
   - key: "HumanoidRobotMarathon"
     title: "Humanoid Robot Marathon"
     url: "/wiki/concepts/humanoidrobotmarathon/"
+  - key: "HumanAIDelegationBoundary"
+    title: "Human–AI Delegation Boundary"
+    url: "/wiki/concepts/humanaidelegationboundary/"
   - key: "HybridInfluenceInfrastructure"
     title: "Hybrid Influence Infrastructure"
     url: "/wiki/concepts/hybridinfluenceinfrastructure/"
@@ -6242,6 +6248,9 @@ topic_entities:
   - key: "DawonKahng"
     title: "Dawon Kahng / 姜大元"
     url: "/wiki/entities/dawonkahng/"
+  - key: "DeanGraziosi"
+    title: "Dean Graziosi"
+    url: "/wiki/entities/deangraziosi/"
   - key: "DeepBlue"
     title: "Deep Blue / 深蓝"
     url: "/wiki/entities/deepblue/"
@@ -10500,6 +10509,9 @@ topic_sources:
   - key: "tech-20260714-tech-pod-128-tech-20260714-tech-pod-128"
     title: "Froggle, Goofstump and the fake AI companies winning hearts online"
     url: "/wiki/sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289"
+    title: "From Underdog to AI Advantage: Dean Graziosi on Purpose, Entrepreneurship, and Staying Human"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289/"
   - key: "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128"
     title: "Gig workers train humanoids on household chores"
     url: "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"

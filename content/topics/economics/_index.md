@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2400
+topic_total_pages: 2401
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6717,6 +6717,9 @@ topic_sources:
   - key: "tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio"
     title: "Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling"
     url: "/wiki/sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio/"
+  - key: "default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289"
+    title: "From Underdog to AI Advantage: Dean Graziosi on Purpose, Entrepreneurship, and Staying Human"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289-default-mp3-ywr3ahjkcgo-1494ab5d2012cd68fae781b1524f488f-88140289/"
   - key: "socialradarspod-garrytan-final"
     title: "Garry Tan on Returning to Y Combinator"
     url: "/wiki/sources/socialradarspod-garrytan-final/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 11212
+wiki_total_pages: 11214
 wiki_pages:
   - key: "HuaxianEarthquake1556"
     title: "1556 Huaxian Earthquake / 1556年华县大地震"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "HumanoidRobotMarathon"
     title: "Humanoid Robot Marathon"
     url: "/wiki/concepts/humanoidrobotmarathon/"
+  - key: "HumanAIDelegationBoundary"
+    title: "Human–AI Delegation Boundary"
+    url: "/wiki/concepts/humanaidelegationboundary/"
   - key: "HumanPrimateMirror"
     title: "Human–Primate Mirror"
     url: "/wiki/concepts/humanprimatemirror/"
