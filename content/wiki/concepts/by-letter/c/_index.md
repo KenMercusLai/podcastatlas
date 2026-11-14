@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 11206
+wiki_total_pages: 11209
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "ClimateHistoryCausalPluralism"
     title: "Climate History Causal Pluralism"
     url: "/wiki/concepts/climatehistorycausalpluralism/"
+  - key: "ClimatePropertyInsuranceAvailability"
+    title: "Climate Property Insurance Availability"
+    url: "/wiki/concepts/climatepropertyinsuranceavailability/"
   - key: "ClimateShockInstitutionalResilience"
     title: "Climate Shock Institutional Resilience"
     url: "/wiki/concepts/climateshockinstitutionalresilience/"
@@ -1964,6 +1967,9 @@ wiki_pages:
   - key: "CommunityVsContentPlatform"
     title: "Community vs Content Platform / 社区与内容平台区别"
     url: "/wiki/concepts/communityvscontentplatform/"
+  - key: "CommunityWildfireMitigation"
+    title: "Community Wildfire Mitigation"
+    url: "/wiki/concepts/communitywildfiremitigation/"
   - key: "CommunityEmbeddedBusiness"
     title: "Community-Embedded Business"
     url: "/wiki/concepts/communityembeddedbusiness/"

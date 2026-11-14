@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 14080
+wiki_total_pages: 14087
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "CaliforniaCoastalCommission"
     title: "California Coastal Commission"
     url: "/wiki/entities/californiacoastalcommission/"
+  - key: "CaliforniaFAIRPlan"
+    title: "California FAIR Plan"
+    url: "/wiki/entities/californiafairplan/"
   - key: "CaliforniaHighSpeedRail"
     title: "California High-Speed Rail"
     url: "/wiki/entities/californiahighspeedrail/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "CaseyNewton"
     title: "Casey Newton"
     url: "/wiki/entities/caseynewton/"
+  - key: "CaseyTaylor"
+    title: "Casey Taylor"
+    url: "/wiki/entities/caseytaylor/"
   - key: "CaseyWhite"
     title: "Casey White"
     url: "/wiki/entities/caseywhite/"

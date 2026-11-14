@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Are wildfires making the future uninsurable?](sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861.md) — Planet Money follows Paradise from Camp Fire recovery into an insurance crisis shaped by correlated climate risk, residual coverage, weak mitigation recognition, and a limited private-market return.
 - [《资治通鉴·汉纪》1159丨为什么曹植争不过曹丕？](sources/zizhi-tongjian-hanji-1159-wei-shenme-caozhi-zheng-buguo-caopi-lnc2b6ytgzd_1esauxr89hygvemp.md) — 芮淇讲透资治通鉴以贾诩的间接劝谏、曹丕的低失误等待、吴质的情感应对及辛宪英的胜后警告，讨论才华、团队、自制与政治托付。
 - [《资治通鉴·汉纪》1160丨歌女凭什么逆袭成曹魏开国太后？](sources/zizhi-tongjian-hanji-1160-genv-ping-shenme-nixi-cheng-caowei-kaiguo-taihou-ll70zwd6tmxfa-zjb9zvl_0p4zr8.md) — 芮淇讲透资治通鉴以卞夫人稳定曹府、克制物欲和不张扬曹丕立储之喜，对照曹植醉闯司马门，讨论危局判断、分寸与政治托付中的自制力。
 - [E258 这个东西，我真的好想要！｜小酒馆故事会🍻](sources/e258-zhege-dongxi-wo-zhende-hao-xiang-yao-xiaojiuguan-gushihui-lmb4vjrqekll_dhzaff4gjtbewgn.md) — 知行小酒馆以六件想买之物讨论消费自我许可、延迟满足、家庭记忆、身份转折与有限时间，并以书写、替代和小实验澄清真实需要。
@@ -5064,6 +5065,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
 
 ## Entities
+- [Heidi Lang](entities/HeidiLang.md) — Paradise resident and council member connecting Camp Fire recovery, hardened rebuilding, property-data error, and insurance access.
+- [Jenny Goodland](entities/JennyGoodland.md) — Recovery organizer who connected community mitigation and direct insurer engagement to Paradise's reconstruction.
+- [Paradise, California](entities/ParadiseCalifornia.md) — Camp Fire recovery case linking resilient rebuilding, private-insurance withdrawal, and local economic recovery.
+- [California FAIR Plan](entities/CaliforniaFAIRPlan.md) — State-mandated, private-insurer-funded residual property-insurance arrangement under wildfire-market pressure.
+- [Mercury Insurance](entities/MercuryInsurance.md) — Private carrier used to illustrate mitigation-aware reassessment and limited market re-entry in Paradise.
+- [Rebuild Paradise Foundation](entities/RebuildParadiseFoundation.md) — Local recovery organization translating community mitigation into insurer-visible evidence.
+- [Casey Taylor](entities/CaseyTaylor.md) — Paradise homeowner whose certified hardened home exposed and then partially corrected a mitigation-recognition gap.
 - [吴质 / Wu Zhi](entities/WuZhi.md) — 曹丕阵营谋士，在临别场景中帮助其以孝亲情感回应曹植的文学优势。
 - [辛宪英 / Xin Xianying](entities/XinXianying.md) — 以继承公共责任衡量曹丕获立后的狂喜，并把胜利转化为新的自制力测试。
 - [Jack Prager](entities/JackPrager.md) — British physician who developed a Kolkata pavement clinic into the integrated services of Calcutta Rescue.
@@ -19237,6 +19245,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Climate Property Insurance Availability](concepts/ClimatePropertyInsuranceAvailability.md) — Capacity to obtain sufficiently comprehensive and affordable property coverage as climate losses, regulation, underwriting, and portfolio constraints change.
+- [Community Wildfire Mitigation](concepts/CommunityWildfireMitigation.md) — Coordinated neighborhood risk reduction responding to wildfire spillovers across property boundaries.
+- [Mitigation Underwriting Recognition](concepts/MitigationUnderwritingRecognition.md) — Translation of verified property or community risk reduction into insurance eligibility, price, or coverage decisions.
 - [Delayed-Gratification Rebalancing / 延迟满足再平衡](concepts/DelayedGratificationRebalancing.md) — 在未来安全与当下生活之间重估推迟满足，并用小实验、替代方案和有限时间检验持续等待是否仍有价值。
 - [Hybrid Influence Infrastructure](concepts/HybridInfluenceInfrastructure.md) — Multi-channel influence system joining cultural venues, education, media, religion, and synthetic identities while keeping reach distinct from effect.
 - [Integrated Low-Resource Humanitarian Service](concepts/IntegratedLowResourceHumanitarianService.md) — Service model connecting clinical care with food, education, and civil documentation under severe resource constraints.

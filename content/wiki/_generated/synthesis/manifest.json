@@ -1,8 +1,8 @@
 {
   "content_date": "2026-11-13",
   "corpus": {
-    "episode_count": 4940,
-    "source_count": 4940
+    "episode_count": 4941,
+    "source_count": 4941
   },
   "generated": true,
   "global": {
@@ -21,7 +21,7 @@
       "psychology-and-personal-development"
     ]
   },
-  "overview_commit": "86338ae268a916114d030f6e8273a8beda09d6f6",
+  "overview_commit": "fdc8de13344f862b1a4d9bc7b2dd061189157824",
   "overview_digest": "875bc8ed003f08a4157f4ddac6a4686c774364bc1d037ba19adecb1a8d25f7c5",
   "paragraph_count": 807,
   "schema_version": 1,

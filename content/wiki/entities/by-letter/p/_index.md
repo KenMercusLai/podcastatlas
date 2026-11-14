@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 14080
+wiki_total_pages: 14087
 wiki_pages:
   - key: "PPMyDateWithAVampire"
     title: "P.P. (My Date with a Vampire)"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "Paracelsus"
     title: "Paracelsus / 帕拉塞尔苏斯"
     url: "/wiki/entities/paracelsus/"
+  - key: "ParadiseCalifornia"
+    title: "Paradise, California"
+    url: "/wiki/entities/paradisecalifornia/"
   - key: "ParadoxMachines"
     title: "Paradox Machines"
     url: "/wiki/entities/paradoxmachines/"

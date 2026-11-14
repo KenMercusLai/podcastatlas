@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 14080
+wiki_total_pages: 14087
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "RebelAlliance"
     title: "Rebel Alliance"
     url: "/wiki/entities/rebelalliance/"
+  - key: "RebuildParadiseFoundation"
+    title: "Rebuild Paradise Foundation"
+    url: "/wiki/entities/rebuildparadisefoundation/"
   - key: "RecepTayyipErdogan"
     title: "Recep Tayyip Erdogan"
     url: "/wiki/entities/receptayyiperdogan/"

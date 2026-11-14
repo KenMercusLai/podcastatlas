@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 11206
+wiki_total_pages: 11209
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "MistrustTriggeredMissionLaunch"
     title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
     url: "/wiki/concepts/mistrusttriggeredmissionlaunch/"
+  - key: "MitigationUnderwritingRecognition"
+    title: "Mitigation Underwriting Recognition"
+    url: "/wiki/concepts/mitigationunderwritingrecognition/"
   - key: "MitochondrialEnergyAllocation"
     title: "Mitochondrial Energy Allocation"
     url: "/wiki/concepts/mitochondrialenergyallocation/"

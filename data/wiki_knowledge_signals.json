@@ -40649,6 +40649,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/californiaenergypermittingpolitics/"
     },
+    "CaliforniaFAIRPlan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/californiafairplan/"
+    },
     "CaliforniaFiscalFragility": {
       "episode_count": 2,
       "show_count": 1,
@@ -44564,6 +44580,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/caseymeans/"
+    },
+    "CaseyTaylor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/caseytaylor/"
     },
     "CashFlowBackedFounderControl": {
       "episode_count": 1,
@@ -55217,6 +55249,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/climatehistorycausalpluralism/"
     },
+    "ClimatePropertyInsuranceAvailability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/climatepropertyinsuranceavailability/"
+    },
     "ClimateResponsiveUrbanInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -59310,6 +59358,22 @@
       ],
       "updated": "2026-10-10",
       "url": "/wiki/concepts/communityvscontentplatform/"
+    },
+    "CommunityWildfireMitigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/communitywildfiremitigation/"
     },
     "CompanionAnimalAttachment": {
       "episode_count": 1,
@@ -63752,9 +63816,9 @@
       "url": "/wiki/concepts/correctiveweaklinktraining/"
     },
     "CorrelatedCatastropheInsuranceRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
@@ -63762,9 +63826,16 @@
           "show": "Planet Money",
           "title": "Inside the insurance industry’s destruction lab",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-14",
       "url": "/wiki/concepts/correlatedcatastropheinsurancerisk/"
     },
     "CorridorStateStrategy": {
@@ -106231,6 +106302,36 @@
       "updated": "2026-10-09",
       "url": "/wiki/entities/firefromheaven/"
     },
+    "FireResilientConstruction": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260112_0112_MP_TECH_pod_128 [tech_20260112_0112_MP_TECH_pod_128].md",
+          "key": "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Building a home with future fires in mind",
+          "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/fireresilientconstruction/"
+    },
     "FirstAffiliatedHospitalChengduMedicalCollege": {
       "episode_count": 3,
       "show_count": 1,
@@ -133615,6 +133716,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/heianprovincialwarriorformation/"
     },
+    "HeidiLang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/heidilang/"
+    },
     "HeiligenkreuzAbbey": {
       "episode_count": 1,
       "show_count": 1,
@@ -151278,9 +151395,9 @@
       "url": "/wiki/entities/instinctpersonalai/"
     },
     "InstituteForBusinessAndHomeSafety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790 [default.mp3_ywr3ahjkcgo_9de180c7bff8bba31ae5f11fce51f1e1_34185790].md",
@@ -151288,9 +151405,16 @@
           "show": "Planet Money",
           "title": "Inside the insurance industry’s destruction lab",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790-default-mp3-ywr3ahjkcgo-9de180c7bff8bba31ae5f11fce51f1e1-34185790/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-14",
       "url": "/wiki/entities/instituteforbusinessandhomesafety/"
     },
     "InstitutionShapedCharacter": {
@@ -158959,6 +159083,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
+    },
+    "JennyGoodland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/jennygoodland/"
     },
     "JennyOrangutan": {
       "episode_count": 1,
@@ -201992,6 +202132,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/merck/"
     },
+    "MercuryInsurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/mercuryinsurance/"
+    },
     "MeritShieldedAccountability": {
       "episode_count": 6,
       "show_count": 1,
@@ -206216,6 +206372,22 @@
       ],
       "updated": "2026-11-13",
       "url": "/wiki/entities/mithridatesvi/"
+    },
+    "MitigationUnderwritingRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/concepts/mitigationunderwritingrecognition/"
     },
     "MitochondrialEnergyAllocation": {
       "episode_count": 2,
@@ -227170,6 +227342,22 @@
       ],
       "updated": "2026-10-23",
       "url": "/wiki/entities/paracelsus/"
+    },
+    "ParadiseCalifornia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/paradisecalifornia/"
     },
     "ParadoxMachines": {
       "episode_count": 1,
@@ -250469,6 +250657,22 @@
       ],
       "updated": "2026-10-08",
       "url": "/wiki/entities/rebellionofthesevenstateswesternhan/"
+    },
+    "RebuildParadiseFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861 [default.mp3_ywr3ahjkcgo_043ffe0bc2c7516bac64132229755e93_43026861].md",
+          "key": "default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861",
+          "show": "Planet Money",
+          "title": "Are wildfires making the future uninsurable?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861-default-mp3-ywr3ahjkcgo-043ffe0bc2c7516bac64132229755e93-43026861/"
+        }
+      ],
+      "updated": "2026-11-14",
+      "url": "/wiki/entities/rebuildparadisefoundation/"
     },
     "RecentHistoryPerspective": {
       "episode_count": 2,
