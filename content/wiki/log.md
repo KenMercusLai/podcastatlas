@@ -39484,3 +39484,13 @@ No settled contradiction was adopted. AI-risk optimism, employment and economic 
 ## [2026-11-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-14] ingest | EP294 一款救命药，要等多少年：中国创新药的崛起之路
+
+Added source `lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u`; created [[Ivonescimab|伊沃西]], [[InnovationDrugTranslationSystem|创新药转化系统]], [[GlobalClinicalTrialCapability|全球临床试验能力]], and [[ClinicalTrialAdverseEventResponse|临床试验不良反应处置]]; migrated and resynthesized [[Keytruda|K药]] and [[PD1VEGFBispecific|PD-1/VEGF双特异性抗体]]; and resynthesized [[InnovativeDrugClinicalBenefitThreshold]], [[InnovativeDrugPaymentSustainability]], and [[MultinationalPharmaPatentCliffAnxiety]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: innovative drugs reach patients through a coupled scientific, engineering, clinical, legal, financial, and commercial system; strong domestic recruitment and comparative data do not remove endpoint, population-transfer, multinational execution, adverse-event response, or payment constraints; and patent pressure can explain global licensing demand without validating an asset clinically.
+
+No settled contradiction was adopted. Trial comparisons, development costs and timelines, the 2031 patent-expiry cluster, patient outcome and spending, speaker identity, company attribution, and specific approval status remain episode-attributed because the supplied file is a structured summary rather than primary clinical, regulatory, patent, financial, or case evidence. The automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty controlled topic, global compaction was not due, and refreshed artifacts validate 4,944 sources across 808 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

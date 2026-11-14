@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3502
+topic_total_pages: 3503
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1963,6 +1963,9 @@ topic_concepts:
   - key: "GlobalAIGovernanceFramework"
     title: "Global AI Governance Framework"
     url: "/wiki/concepts/globalaigovernanceframework/"
+  - key: "GlobalClinicalTrialCapability"
+    title: "Global Clinical-Trial Capability / 全球临床试验能力"
+    url: "/wiki/concepts/globalclinicaltrialcapability/"
   - key: "GlobalSouthAIParticipation"
     title: "Global South AI Participation"
     url: "/wiki/concepts/globalsouthaiparticipation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 14089
+wiki_total_pages: 14090
 wiki_pages:
   - key: "IndianRebellion1857"
     title: "1857年印度大起义 / Indian Rebellion of 1857"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "IvoParashkevov"
     title: "Ivo Parashkevov"
     url: "/wiki/entities/ivoparashkevov/"
+  - key: "Ivonescimab"
+    title: "Ivonescimab / 伊沃西"
+    url: "/wiki/entities/ivonescimab/"
   - key: "IvoryCoast"
     title: "Ivory Coast"
     url: "/wiki/entities/ivorycoast/"

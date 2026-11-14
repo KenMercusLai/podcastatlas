@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 11214
+wiki_total_pages: 11217
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "GlobalAIGovernanceFramework"
     title: "Global AI Governance Framework"
     url: "/wiki/concepts/globalaigovernanceframework/"
+  - key: "GlobalClinicalTrialCapability"
+    title: "Global Clinical-Trial Capability / 全球临床试验能力"
+    url: "/wiki/concepts/globalclinicaltrialcapability/"
   - key: "GlobalConflictAttentionInequality"
     title: "Global Conflict Attention Inequality / 全球冲突注意力不平等"
     url: "/wiki/concepts/globalconflictattentioninequality/"

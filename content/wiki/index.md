@@ -5065,8 +5065,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)](sources/722-the-charge-of-the-light-brigade-the-tsars-terrible-siege-part-2-glt7837711407.md) — The Rest Is History on coalition command, class-filtered appointments, disease and logistics at Varna, cavalry rivalry, and the expansion of Allied war aims toward Sevastopol.
 - [Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](sources/essentials-how-emotions-social-factors-impact-learning-dr-mary-helen-immordino-yang-scim7026611161.md) — Huberman Lab Essentials edit on embodied emotion, culturally shaped perception, narrative responsibility, curiosity-led education, and developing the whole person.
+- [EP294 一款救命药，要等多少年：中国创新药的崛起之路](sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u.md) — Talk三联 episode on the innovation-drug translation chain, phased trials, PD-1/VEGF evidence, patent-driven licensing, global clinical capability, payment, and patient safety.
 
 ## Entities
+- [Ivonescimab / 伊沃西](entities/Ivonescimab.md) — PD-1/VEGF bispecific case linking comparative oncology evidence, multinational trials, and indication-specific access.
 - [Dean Graziosi](entities/DeanGraziosi.md) — Entrepreneur and educator who connects adversity, family-centered purpose, time autonomy, and bounded AI augmentation.
 - [Tony Robbins](entities/TonyRobbins.md) — Self-development teacher represented here as Graziosi's early influence, later friend, and business partner.
 - [Heidi Lang](entities/HeidiLang.md) — Paradise resident and council member connecting Camp Fire recovery, hardened rebuilding, property-data error, and insurance access.
@@ -19249,6 +19251,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Yorke Scarlett](entities/JamesYorkeScarlett.md) — Heavy Brigade commander who entered without combat experience and compensated by relying on India-tested officers.
 
 ## Concepts
+- [Innovation-Drug Translation System / 创新药转化系统](concepts/InnovationDrugTranslationSystem.md) — Linked scientific, engineering, clinical, regulatory, financial, legal, manufacturing, and commercial process turning a mechanism into patient treatment.
+- [Global Clinical-Trial Capability / 全球临床试验能力](concepts/GlobalClinicalTrialCapability.md) — Capacity to design and operate evidence generation across populations, hospitals, legal systems, ethics regimes, and approval markets.
+- [Clinical-Trial Adverse-Event Response / 临床试验不良反应处置](concepts/ClinicalTrialAdverseEventResponse.md) — Research-team capacity to recognize, escalate, treat, document, and learn from harm during experimental treatment.
 - [Context-Rich AI Partnership](concepts/ContextRichAIPartnership.md) — Practice of supplying task-relevant goals, values, history, constraints, and domain information while retaining human review and final decisions.
 - [Human–AI Delegation Boundary](concepts/HumanAIDelegationBoundary.md) — Values- and stakes-based separation between delegable burdens and human-retained judgment, authorship, responsibility, and relationship.
 - [Founder-Led Platform Succession Risk](concepts/FounderLedPlatformSuccessionRisk.md) — Ecosystem risk when a founder concentrates technical roadmaps, capital allocation, counterparties, and platform legitimacy.

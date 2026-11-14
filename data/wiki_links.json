@@ -21927,6 +21927,10 @@
     "title": "Clinical Teaching Relationship / 临床带教关系",
     "url": "/wiki/concepts/clinicalteachingrelationship/"
   },
+  "ClinicalTrialAdverseEventResponse": {
+    "title": "Clinical-Trial Adverse-Event Response / 临床试验不良反应处置",
+    "url": "/wiki/concepts/clinicaltrialadverseeventresponse/"
+  },
   "ClinicalTrialContinuity": {
     "title": "Clinical Trial Continuity",
     "url": "/wiki/concepts/clinicaltrialcontinuity/"
@@ -39787,6 +39791,10 @@
     "title": "Global AI Governance Framework",
     "url": "/wiki/concepts/globalaigovernanceframework/"
   },
+  "GlobalClinicalTrialCapability": {
+    "title": "Global Clinical-Trial Capability / 全球临床试验能力",
+    "url": "/wiki/concepts/globalclinicaltrialcapability/"
+  },
   "GlobalConflictAttentionInequality": {
     "title": "Global Conflict Attention Inequality / 全球冲突注意力不平等",
     "url": "/wiki/concepts/globalconflictattentioninequality/"
@@ -47803,6 +47811,10 @@
     "title": "Pope Innocent III",
     "url": "/wiki/entities/innocentiii/"
   },
+  "InnovationDrugTranslationSystem": {
+    "title": "Innovation-Drug Translation System / 创新药转化系统",
+    "url": "/wiki/concepts/innovationdrugtranslationsystem/"
+  },
   "InnovationsForPovertyAction": {
     "title": "Innovations for Poverty Action",
     "url": "/wiki/entities/innovationsforpovertyaction/"
@@ -49110,6 +49122,10 @@
   "IvoParashkevov": {
     "title": "Ivo Parashkevov",
     "url": "/wiki/entities/ivoparashkevov/"
+  },
+  "Ivonescimab": {
+    "title": "Ivonescimab / 伊沃西",
+    "url": "/wiki/entities/ivonescimab/"
   },
   "IvoryCoast": {
     "title": "Ivory Coast",
@@ -110466,6 +110482,10 @@
   "lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc": {
     "title": "锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾",
     "url": "/wiki/sources/lkbt2upqw6eoxm0yjc1zklr8wlgc-lkbt2upqw6eoxm0yjc1zklr8wlgc/"
+  },
+  "lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u": {
+    "title": "EP294 一款救命药，要等多少年：中国创新药的崛起之路",
+    "url": "/wiki/sources/lkgutywsgyzvtv9zy7ct8ouoj_u-lkgutywsgyzvtv9zy7ct8ouoj_u/"
   },
   "lkmbnvq3i5s8rvzs22fyi2xhnbte-lkmbnvq3i5s8rvzs22fyi2xhnbte": {
     "title": "魔术大师刘谦×罗永浩！你所不知道的刘谦",
